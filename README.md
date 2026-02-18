@@ -1,1 +1,1 @@
-# baltic-indices-data
+Historical Baltic shipping indices data
