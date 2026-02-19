@@ -5,18 +5,23 @@ on:
     - cron: '0 6,18 * * *'  # Run at 6 AM and 6 PM UTC daily
   workflow_dispatch:  # Allow manual trigger
 
+permissions:
+  contents: write  # Give permission to write to repo
+
 jobs:
   update:
     runs-on: ubuntu-latest
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4  # Updated to v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
       
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5  # Updated to v5
       with:
-        python-version: '3.10'
+        python-version: '3.11'
         
     - name: Install dependencies
       run: |
@@ -30,5 +35,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add *.csv
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update indices $(date +%Y-%m-%d %H:%M)"
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update indices $(date +'%Y-%m-%d')"
         git push
