@@ -4,26 +4,18 @@ from datetime import datetime
 import os
 import re
 
-# Direct download URLs (the # anchor triggers download)
-ETF_SOURCES = {
-    'bdry': {
-        'url': 'https://amplifyetfs.com/bdry-holdings/',
-        'output': 'bdry_holdings.csv'
-    },
-    'bwet': {
-        'url': 'https://amplifyetfs.com/bwet-holdings/',
-        'output': 'bwet_holdings.csv'
-    }
+# Direct CSV feed URL (contains all Amplify ETF holdings)
+CSV_URL = 'https://amplifyetfs.com/wp-content/uploads/feeds/AmplifyWeb.40XL.XL_Holdings.csv'
+
+# ETFs we want to extract
+TARGET_ETFS = {
+    'BDRY': 'bdry_holdings.csv',
+    'BWET': 'bwet_holdings.csv'
 }
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-    'Accept-Language': 'en-US,en;q=0.5',
-    'Accept-Encoding': 'gzip, deflate, br',
-    'DNT': '1',
-    'Connection': 'keep-alive',
-    'Upgrade-Insecure-Requests': '1'
+    'Accept': 'text/csv,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
 }
 
 # Category priority order (lower number = higher priority)
@@ -31,6 +23,8 @@ CATEGORY_ORDER = {
     'capesize': 1,
     'panamax': 2,
     'supramax': 3,
+    'td3c': 3.5,      # For BWET - TD3C route
+    'td20': 3.6,      # For BWET - TD20 route
     'cash': 4,
     'invesco': 5,
     'other': 99
@@ -42,10 +36,24 @@ MONTH_MAP = {
     'jul': 7, 'aug': 8, 'sep': 9, 'oct': 10, 'nov': 11, 'dec': 12
 }
 
-def categorize_holding(name):
+def categorize_holding(name, etf_code):
     """Determine category priority based on holding name"""
     name_lower = name.lower()
     
+    # For BWET (tanker routes)
+    if etf_code == 'BWET':
+        if 'td3c' in name_lower or 'middle east gulf to china' in name_lower:
+            return 'td3c', CATEGORY_ORDER['td3c']
+        elif 'td20' in name_lower or 'west africa to continent' in name_lower:
+            return 'td20', CATEGORY_ORDER['td20']
+        elif 'cash' in name_lower:
+            return 'cash', CATEGORY_ORDER['cash']
+        elif 'invesco' in name_lower:
+            return 'invesco', CATEGORY_ORDER['invesco']
+        else:
+            return 'other', CATEGORY_ORDER['other']
+    
+    # For BDRY (dry bulk ship sizes)
     if 'capesize' in name_lower:
         return 'capesize', CATEGORY_ORDER['capesize']
     elif 'panamax' in name_lower:
@@ -66,7 +74,7 @@ def extract_month_year(name):
     """
     name_lower = name.lower()
     
-    # Look for month abbreviation + year pattern (e.g., "Mar 26", "Feb 2026")
+    # Look for month abbreviation + year pattern (e.g., "Mar 26", "Feb 2026", "M Mar 26")
     month_pattern = r'(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*[\s\-]?(\d{2,4})'
     match = re.search(month_pattern, name_lower)
     
@@ -87,7 +95,7 @@ def extract_month_year(name):
     # For non-dated items (Cash, Invesco, etc.), return high values so they sort last
     return 99, 9999
 
-def sort_holdings(df):
+def sort_holdings(df, etf_code):
     """
     Sort holdings by:
     1. Category priority (Capesize → Panamax → Supramax → Cash → Invesco → Other)
@@ -99,8 +107,8 @@ def sort_holdings(df):
     # Create sorting columns
     sort_data = []
     for idx, row in df.iterrows():
-        name = str(row.get('Name', ''))
-        category, cat_priority = categorize_holding(name)
+        name = str(row.get('SecurityName', row.get('Name', '')))
+        category, cat_priority = categorize_holding(name, etf_code)
         month, year = extract_month_year(name)
         
         sort_data.append({
@@ -130,51 +138,84 @@ def sort_holdings(df):
     
     return df_sorted
 
-def download_and_convert(etf_code, config):
-    """Download holdings Excel and convert to CSV"""
+def download_master_csv():
+    """Download the master CSV file containing all ETF holdings"""
     try:
-        print(f"\nProcessing {etf_code.upper()}...")
+        print(f"Downloading master CSV from Amplify ETFs...")
+        response = requests.get(CSV_URL, headers=HEADERS, timeout=30)
         
-        # Step 1: Get the page to extract download link or data
-        session = requests.Session()
-        response = session.get(config['url'], headers=HEADERS, timeout=30)
+        if response.status_code != 200:
+            print(f"ERROR: Failed to download (Status {response.status_code})")
+            return None
         
-        # Try CSV download first
-        csv_url = config['url'].rstrip('/') + '?download=csv'
-        csv_response = session.get(csv_url, headers=HEADERS, timeout=30)
+        # Save to temp file
+        temp_file = 'temp_master_holdings.csv'
+        with open(temp_file, 'wb') as f:
+            f.write(response.content)
         
-        # Check if we got CSV data
-        if 'text/csv' in csv_response.headers.get('Content-Type', '') or csv_response.text.startswith('Name,Ticker'):
-            temp_file = f'{etf_code}_temp.csv'
-            with open(temp_file, 'w', encoding='utf-8') as f:
-                f.write(csv_response.text)
-            
-            df = pd.read_csv(temp_file)
-            os.remove(temp_file)
-            
-        else:
-            # Fallback: Scrape the HTML table
-            print(f"  CSV download not detected, scraping HTML table...")
-            df = scrape_html_table(response.text, etf_code)
+        # Read CSV
+        df = pd.read_csv(temp_file)
+        os.remove(temp_file)
         
-        if df.empty:
-            print(f"  ERROR: No data found for {etf_code}")
+        print(f"✓ Downloaded {len(df)} total holdings")
+        return df
+        
+    except Exception as e:
+        print(f"ERROR downloading CSV: {str(e)}")
+        return None
+
+def process_etf(df, etf_code, output_file):
+    """Extract and process single ETF from master data"""
+    try:
+        print(f"\nProcessing {etf_code}...")
+        
+        # Filter by ETF code (Account column contains ETF ticker)
+        etf_df = df[df['Account'].str.upper() == etf_code].copy()
+        
+        if etf_df.empty:
+            print(f"  WARNING: No holdings found for {etf_code}")
             return False
-            
-        # Clean and standardize columns
-        df = clean_dataframe(df, etf_code)
         
-        # Apply custom sorting
-        print(f"  Sorting holdings (Capesize → Panamax → Supramax → Cash/Invesco)...")
-        df = sort_holdings(df)
+        print(f"  Found {len(etf_df)} holdings")
         
-        # Save to CSV (overwrite, no history)
-        df.to_csv(config['output'], index=False)
+        # Rename columns to match your Excel format
+        column_mapping = {
+            'Date': 'Date',
+            'Account': 'ETF',
+            'StockTicker': 'Ticker',
+            'CUSIP': 'CUSIP',
+            'SecurityName': 'Name',
+            'Shares': 'Lots',
+            'Price': 'Price',
+            'MarketValue': 'Market_Value',
+            'Weightings': 'Weightings',
+            'NetAssets': 'Net_Assets',
+            'SharesOutstanding': 'Shares_Outstanding',
+            'CreationUnits': 'Creation_Units',
+            'MoneyMarketFlag': 'Money_Market_Flag'
+        }
         
-        print(f"  ✓ Saved {len(df)} rows to {config['output']}")
+        etf_df = etf_df.rename(columns=column_mapping)
         
-        # Print summary by category
-        print_summary(df)
+        # Add metadata
+        etf_df['Last_Updated'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        
+        # Select and reorder columns (keep only relevant ones)
+        desired_cols = ['ETF', 'Date', 'Name', 'Ticker', 'CUSIP', 'Lots', 'Price', 
+                       'Market_Value', 'Weightings', 'Last_Updated']
+        available_cols = [c for c in desired_cols if c in etf_df.columns]
+        etf_df = etf_df[available_cols]
+        
+        # Sort holdings
+        print(f"  Sorting holdings (by category and month)...")
+        etf_df = sort_holdings(etf_df, etf_code)
+        
+        # Save to CSV
+        etf_df.to_csv(output_file, index=False)
+        print(f"  ✓ Saved {len(etf_df)} rows to {output_file}")
+        
+        # Print summary
+        print_summary(etf_df, etf_code)
         
         return True
         
@@ -184,123 +225,52 @@ def download_and_convert(etf_code, config):
         traceback.print_exc()
         return False
 
-def scrape_html_table(html_content, etf_code):
-    """Fallback: Parse HTML table if CSV download fails"""
-    from bs4 import BeautifulSoup
-    
-    soup = BeautifulSoup(html_content, 'html.parser')
-    tables = soup.find_all('table')
-    
-    data = []
-    for table in tables:
-        rows = table.find_all('tr')
-        if not rows:
-            continue
-            
-        # Try to detect headers
-        headers = []
-        header_row = rows[0]
-        for th in header_row.find_all(['th', 'td']):
-            headers.append(th.text.strip().lower().replace(' ', '_'))
-        
-        # Map common header variations
-        header_map = {
-            'name': 'Name',
-            'ticker': 'Ticker',
-            'cusip': 'CUSIP',
-            'lots': 'Lots',
-            'market_value': 'Market_Value',
-            '%_market_value': 'Weightings',
-            'market value': 'Market_Value',
-            '% market value': 'Weightings'
-        }
-        
-        for row in rows[1:]:
-            cols = row.find_all('td')
-            if len(cols) < 6:
-                continue
-                
-            row_data = {}
-            for i, col in enumerate(cols):
-                if i < len(headers):
-                    key = header_map.get(headers[i], headers[i])
-                    val = col.text.strip()
-                    
-                    # Clean numeric fields
-                    if key in ['Lots', 'Market_Value', 'Weightings']:
-                        val = val.replace(',', '').replace('$', '').replace('%', '')
-                    
-                    row_data[key] = val
-            
-            if row_data.get('Name'):
-                data.append(row_data)
-    
-    return pd.DataFrame(data)
-
-def clean_dataframe(df, etf_code):
-    """Standardize column names and data types"""
-    # Standardize column names
-    column_mapping = {
-        'name': 'Name',
-        'ticker': 'Ticker',
-        'cusip': 'CUSIP',
-        'lots': 'Lots',
-        'market value': 'Market_Value',
-        'market_value': 'Market_Value',
-        '% market value': 'Weightings',
-        'weightings': 'Weightings',
-        '%_market_value': 'Weightings'
-    }
-    
-    # Rename columns if they exist
-    df = df.rename(columns=lambda x: column_mapping.get(x.lower().replace(' ', '_'), x))
-    
-    # Add metadata
-    df['ETF'] = etf_code.upper()
-    df['Last_Updated'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    df['As_of_Date'] = datetime.now().strftime('%Y-%m-%d')
-    
-    # Ensure numeric columns
-    numeric_cols = ['Lots', 'Market_Value', 'Weightings']
-    for col in numeric_cols:
-        if col in df.columns:
-            df[col] = pd.to_numeric(df[col].astype(str).str.replace(',', '').str.replace('$', '').str.replace('%', ''), errors='coerce')
-    
-    # Reorder columns for consistency
-    preferred_order = ['ETF', 'As_of_Date', 'Name', 'Ticker', 'CUSIP', 'Lots', 'Market_Value', 'Weightings', 'Last_Updated']
-    existing_cols = [c for c in preferred_order if c in df.columns]
-    other_cols = [c for c in df.columns if c not in preferred_order]
-    
-    return df[existing_cols + other_cols]
-
-def print_summary(df):
+def print_summary(df, etf_code):
     """Print summary by category"""
     print(f"\n  Summary by Category:")
     print(f"  {'-'*50}")
     
     total_value = df['Market_Value'].sum()
     
-    for category in ['capesize', 'panamax', 'supramax', 'cash', 'invesco', 'other']:
-        cat_df = df[df['Name'].str.lower().str.contains(category, na=False)]
+    # Determine categories based on ETF type
+    if etf_code == 'BDRY':
+        categories = ['capesize', 'panamax', 'supramax', 'cash', 'invesco']
+    else:  # BWET
+        categories = ['td3c', 'td20', 'cash', 'invesco']
+    
+    for cat in categories:
+        mask = df['Name'].str.lower().str.contains(cat, na=False)
+        cat_df = df[mask]
+        
         if not cat_df.empty:
             cat_value = cat_df['Market_Value'].sum()
             cat_pct = (cat_value / total_value * 100) if total_value > 0 else 0
-            print(f"  {category.capitalize():12} : ${cat_value:>15,.2f} ({cat_pct:5.2f}%) - {len(cat_df)} holdings")
+            print(f"  {cat.capitalize():12} : ${cat_value:>15,.2f} ({cat_pct:5.2f}%) - {len(cat_df)} holdings")
 
 def main():
-    print(f"Starting ETF holdings update at {datetime.now()}")
+    print(f"Starting ETF Holdings Update")
+    print(f"Time: {datetime.now()}")
     print("=" * 60)
     
+    # Download master CSV
+    master_df = download_master_csv()
+    if master_df is None:
+        print("FAILED: Could not download master CSV")
+        return 1
+    
+    # Process each target ETF
     success_count = 0
-    for etf_code, config in ETF_SOURCES.items():
-        if download_and_convert(etf_code, config):
+    for etf_code, output_file in TARGET_ETFS.items():
+        if process_etf(master_df, etf_code, output_file):
             success_count += 1
     
     print("\n" + "=" * 60)
-    print(f"Completed: {success_count}/{len(ETF_SOURCES)} ETFs updated")
+    print(f"Completed: {success_count}/{len(TARGET_ETFS)} ETFs updated successfully")
     
-    if success_count < len(ETF_SOURCES):
+    if success_count < len(TARGET_ETFS):
         print("WARNING: Some updates failed")
+        return 1
+    return 0
 
 if __name__ == "__main__":
-    main()
+    exit(main())
