@@ -14,7 +14,7 @@ INDEXES = {
     'BDI': 'bdiy_historical.csv'
 }
 
-BASE_URL = "https://en.stockq.org/index/{}.php"
+BASE_URL = "https://en.stockq.org/index/{}.php"  # Fixed: removed space
 
 def scrape_index(code):
     """Scrape all data from stockq.org for one index"""
@@ -27,7 +27,7 @@ def scrape_index(code):
         response = requests.get(url, headers=headers, timeout=30)
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Find the data table - adjust selector based on actual HTML
+        # Find all tables
         tables = soup.find_all('table')
         
         # Look for table with Date, Index, Change% columns
@@ -67,8 +67,13 @@ def update_csv(filename, new_data):
     # Load existing if present
     if os.path.exists(filepath):
         existing = pd.read_csv(filepath)
-        # Convert dates for comparison
-        existing['Date_parsed'] = pd.to_datetime(existing['Date'], format='%d-%m-%Y')
+        
+        # Convert dates for comparison (handle both formats)
+        try:
+            existing['Date_parsed'] = pd.to_datetime(existing['Date'], format='%d-%m-%Y')
+        except:
+            existing['Date_parsed'] = pd.to_datetime(existing['Date'], dayfirst=True)
+            
         new_data['Date_parsed'] = pd.to_datetime(new_data['Date'], format='%d-%m-%Y')
         
         # Combine and remove duplicates (keep new data if same date)
