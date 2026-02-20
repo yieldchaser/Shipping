@@ -1,6 +1,5 @@
 import pandas as pd
 from datetime import datetime
-import json
 import re
 
 # For Selenium
@@ -10,6 +9,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 
 # Indices to scrape
 INDICES = {
@@ -33,13 +33,9 @@ def setup_driver():
     chrome_options.add_argument('--window-size=1920,1080')
     chrome_options.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
     
-    # For GitHub Actions
-    try:
-        driver = webdriver.Chrome(options=chrome_options)
-    except:
-        # Try with chromedriver path for Linux
-        service = Service('/usr/bin/chromedriver')
-        driver = webdriver.Chrome(service=service, options=chrome_options)
+    # Use webdriver-manager to handle ChromeDriver
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=chrome_options)
     
     return driver
 
@@ -53,15 +49,15 @@ def scrape_index(name, config):
         # Load page
         driver.get(config['url'])
         
-        # Wait for CURRENT QUOTES section to load
-        wait = WebDriverWait(driver, 10)
+        # Wait for page to load
+        wait = WebDriverWait(driver, 15)
         
-        # Try to find the CURRENT QUOTES heading or data
+        # Wait for CURRENT QUOTES section
         try:
-            # Wait for any of these elements
             wait.until(EC.presence_of_element_located((By.XPATH, "//*[contains(text(), 'CURRENT QUOTES')]")))
+            print(f"  ✓ Found CURRENT QUOTES section")
         except:
-            print(f"  Warning: CURRENT QUOTES not found, continuing anyway...")
+            print(f"  Warning: CURRENT QUOTES not found, trying anyway...")
         
         # Get page source after JavaScript execution
         page_source = driver.page_source
