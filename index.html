@@ -498,7 +498,7 @@
   .etf-fund-link a { color: var(--text); font-size: 12px; text-decoration: none; transition: color 0.15s; }
   .etf-fund-link a:hover { color: var(--accent); text-decoration: underline; }
   /* ETF image */
-  .etf-card-image { width: 100%; margin-top: 16px; border-radius: 6px; border: 1px solid var(--border); object-fit: contain; max-height: 320px; }
+  .etf-card-image { width: 100%; margin-top: 16px; border-radius: 6px; border: 1px solid var(--border); object-fit: contain; height: 220px; max-height: 220px; }
   /* Routes section */
   .etf-routes-section { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--border); }
   .etf-routes-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-bottom: 10px; }
@@ -3029,18 +3029,7 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
         <div class="etf-fund-link"><span class="research-link-icon">🇦🇺</span><a href="https://en.macromicro.me/series/4676/australia-iron-ore-export-value" target="_blank" rel="noopener">Australia Iron Ore Export Value</a></div>
       </div>
     </div>` : `
-    <img src="Picture4.png" alt="BWET Chart" class="etf-card-image" />
-    <div class="etf-routes-section">
-      <div class="etf-routes-title">🛢 Key Routes to Monitor</div>
-      <div class="etf-route-item">
-        <span class="etf-route-code">TD3C</span>
-        <span class="etf-route-desc">Ras Tanura (Middle East) → Ningbo (Far East)</span>
-      </div>
-      <div class="etf-route-item">
-        <span class="etf-route-code">TD20</span>
-        <span class="etf-route-desc">Nigeria → Rotterdam</span>
-      </div>
-    </div>`}
+    <img src="Picture4.png" alt="BWET Chart" class="etf-card-image" />`}
     <div class="etf-research-section">
       <div class="etf-research-title">📰 Market Outlook &amp; Research Sources</div>
       <div class="research-group">
@@ -3054,6 +3043,18 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
         <div class="research-link"><span class="research-link-icon">📈</span><a href="${etfKey === 'bdry' ? 'https://amplifyetfs.com/bdry/' : 'https://amplifyetfs.com/bwet/'}" target="_blank" rel="noopener">Amplify ETFs — ${ticker} Official Page</a></div>
       </div>
     </div>
+    ${etfKey === 'bwet' ? `
+    <div class="etf-routes-section">
+      <div class="etf-routes-title">🛢 Key Routes to Monitor</div>
+      <div class="etf-route-item">
+        <span class="etf-route-code">TD3C</span>
+        <span class="etf-route-desc">Ras Tanura (Middle East) → Ningbo (Far East)</span>
+      </div>
+      <div class="etf-route-item">
+        <span class="etf-route-code">TD20</span>
+        <span class="etf-route-desc">Nigeria → Rotterdam</span>
+      </div>
+    </div>` : ''}
 `;
 }
 
