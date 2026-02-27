@@ -97,7 +97,7 @@
     transition: color 0.15s, border-color 0.15s;
   }
   .tab-btn:hover { color: var(--text); }
-  .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+  .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); background: rgba(88, 166, 255, 0.08); border-radius: 4px 4px 0 0; }
 
   /* MAIN CONTENT */
   .main { padding: 20px; max-width: 1400px; margin: 0 auto; }
@@ -184,7 +184,7 @@
     border: 1px solid var(--border);
     border-radius: 8px;
     padding: 14px 16px;
-    border-left: 3px solid var(--accent);
+    border-left: 4px solid var(--accent);
   }
   .stat-card.sc-percentile  { border-left-color: #58a6ff; }
   .stat-card.sc-zscore      { border-left-color: #a371f7; }
@@ -476,7 +476,7 @@
     padding: 12px 18px;
     flex: 1;
     min-width: 110px;
-    border-left: 3px solid var(--accent);
+    border-left: 4px solid var(--accent);
   }
   .win-rate-card.wr-green  { border-left-color: var(--green); }
   .win-rate-card.wr-yellow { border-left-color: var(--yellow); }
@@ -525,6 +525,113 @@
   .text-muted { color: var(--text-muted); }
   .text-accent { color: var(--accent); }
   .updated-at { font-size: 11px; color: var(--text-muted); margin-left: auto; }
+
+  /* SECTION TITLE (unified) */
+  .section-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--accent);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 6px;
+    margin-bottom: 16px;
+    margin-top: 0;
+    letter-spacing: 0.3px;
+  }
+
+  /* CHART SECTION */
+  .chart-section {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 24px;
+  }
+  .chart-header-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  /* ALERTS BANNER */
+  .alerts-container {
+    padding: 0 20px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .alert-box {
+    padding: 12px 16px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    display: none;
+  }
+  .alert-bullish {
+    background: rgba(63, 185, 80, 0.1);
+    border: 1px solid rgba(63, 185, 80, 0.4);
+    color: var(--green);
+  }
+  .alert-bearish {
+    background: rgba(248, 81, 73, 0.1);
+    border: 1px solid rgba(248, 81, 73, 0.4);
+    color: var(--red);
+  }
+
+  /* LIVE DOT */
+  .live-dot {
+    color: var(--text-muted);
+    font-size: 10px;
+    margin-right: 5px;
+    animation: none;
+  }
+  .live-dot.active {
+    color: var(--green);
+    animation: pulse-dot 2s infinite;
+  }
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50%       { opacity: 0.3; }
+  }
+
+  /* CONTEXT STRIP */
+  .context-strip {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  .context-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    text-align: center;
+  }
+  .context-label {
+    font-size: 11px;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    margin-bottom: 6px;
+  }
+  .context-value {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--text);
+  }
+
+  /* CARD HEADER BAR */
+  .card-header-bar {
+    background: rgba(88, 166, 255, 0.07);
+    border-bottom: 1px solid var(--border);
+    padding: 10px 14px;
+    margin: -16px -16px 14px -16px;
+    border-radius: 8px 8px 0 0;
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--accent);
+  }
 </style>
 </head>
 <body>
@@ -550,7 +657,7 @@
       <option value="dirtytanker">Dirty Tanker (BDTI)</option>
     </select>
   </div>
-  <div class="updated-at" id="updatedAt"></div>
+  <div class="updated-at" id="updatedAt"><span class="live-dot" id="liveDot">●</span><span id="updatedAtText"></span></div>
 </div>
 
 <!-- TABS BAR -->
@@ -560,6 +667,15 @@
   <button class="tab-btn" data-tab="quarterly">📅 Quarterly</button>
   <button class="tab-btn" data-tab="indices">📈 Indices</button>
   <button class="tab-btn" data-tab="etfs">🏦 ETFs</button>
+</div>
+
+<div class="alerts-container" id="alertsContainer">
+  <div id="alertBullish" class="alert-box alert-bullish">
+    🚀 BULLISH SIGNAL: <span id="alertBullishText"></span>
+  </div>
+  <div id="alertBearish" class="alert-box alert-bearish">
+    🚨 BEARISH SIGNAL: <span id="alertBearishText"></span>
+  </div>
 </div>
 
 <!-- MAIN CONTENT -->
@@ -609,6 +725,22 @@
       </div>
     </div>
 
+    <!-- Historical Context Strip -->
+    <div class="context-strip" id="contextStrip">
+      <div class="context-card">
+        <div class="context-label">5Y Average</div>
+        <div class="context-value" id="ctx5yAvg">—</div>
+      </div>
+      <div class="context-card">
+        <div class="context-label">vs 5Y Avg</div>
+        <div class="context-value" id="ctx5yDev">—</div>
+      </div>
+      <div class="context-card">
+        <div class="context-label">vs 10Y Avg</div>
+        <div class="context-value" id="ctx10yDev">—</div>
+      </div>
+    </div>
+
     <!-- Overlay Chart -->
     <div class="chart-container mb-20">
       <div class="chart-header">
@@ -630,6 +762,17 @@
       </div>
     </div>
 
+    <!-- Recent Daily Changes -->
+    <div class="chart-section">
+      <div class="chart-header">
+        <div class="chart-header-title">Recent Daily Changes</div>
+        <button class="dl-btn" id="recentDlBtn">⬇ CSV</button>
+      </div>
+      <div style="overflow-x:auto">
+        <div id="recentChangesTable"></div>
+      </div>
+    </div>
+
     <!-- Yearly Performance Table -->
     <div class="collapsible-section mb-20">
       <button class="collapsible-toggle" id="yearlyPerfToggle" onclick="toggleYearlyPerf()">
@@ -648,7 +791,7 @@
 
     <!-- Correlation Matrix -->
     <div class="corr-section mb-20">
-      <div class="corr-title">Index Correlation Matrix</div>
+      <div class="section-title">Index Correlation Matrix</div>
       <div class="corr-timeframe-btns">
         <button class="corr-btn active" data-corr="all" onclick="setCorrTimeframe(this,'all')">All Time</button>
         <button class="corr-btn" data-corr="5y" onclick="setCorrTimeframe(this,'5y')">Last 5Y</button>
@@ -656,6 +799,23 @@
       </div>
       <div class="corr-wrap">
         <div id="corrMatrix"></div>
+      </div>
+    </div>
+
+    <!-- Signal Methodology -->
+    <div class="collapsible-section">
+      <button class="collapsible-toggle" id="methodologyToggle" onclick="toggleMethodology()">
+        <span>ℹ️ How Signals &amp; Statistics Are Calculated</span>
+        <span class="toggle-arrow">▼</span>
+      </button>
+      <div class="collapsible-content" id="methodologyContent">
+        <div style="padding: 16px 4px; font-size: 13px; line-height: 1.8; color: var(--text-muted);">
+          <p style="margin-bottom:12px"><strong style="color:var(--text)">Percentile Ranks (All-Time, 10Y, 5Y):</strong> The current index value is ranked against all historical daily values within the respective lookback window. A percentile of 80 means the index is currently higher than 80% of all daily readings in that period.</p>
+          <p style="margin-bottom:12px"><strong style="color:var(--text)">Z-Score:</strong> Computed as <code style="background:var(--bg);padding:2px 5px;border-radius:3px;color:var(--accent)">(current value − mean of same calendar trading day across all years) / standard deviation</code>. Values above +2 or below −2 indicate statistically unusual levels relative to seasonal norms.</p>
+          <p style="margin-bottom:12px"><strong style="color:var(--text)">Rate of Change (ROC):</strong> The percentage change in the index over a rolling 20-trading-day window, indicating short-term momentum.</p>
+          <p style="margin-bottom:12px"><strong style="color:var(--text)">Max Drawdown:</strong> The maximum percentage decline from any peak to subsequent trough within the selected lookback window.</p>
+          <p style="margin-bottom:0"><strong style="color:var(--text)">Algorithmic Signal:</strong> The signal badge is derived from a combination of Z-score level, percentile rank, and recent rate of change. <em>GOLDEN DIP</em> and <em>ACCUMULATE</em> indicate statistically low or improving conditions; <em>SELL</em> and <em>CATCHING KNIFE</em> indicate elevated or rapidly deteriorating conditions; <em>WAIT</em> and <em>VALUE TRAP</em> indicate ambiguous or transitioning conditions.</p>
+        </div>
       </div>
     </div>
   </div>
@@ -672,7 +832,7 @@
 
     <div class="heatmap-section mb-20">
       <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
-        <div class="heatmap-title" style="margin-bottom:0">Monthly Heatmap</div>
+        <div class="section-title" style="margin-bottom:0">Monthly Heatmap</div>
         <button class="dl-btn" id="monthlyHeatmapDlBtn">⬇ Download CSV</button>
       </div>
       <div class="heatmap-wrap">
@@ -682,7 +842,7 @@
 
     <div class="heatmap-section mb-20">
       <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
-        <div class="heatmap-title" style="margin-bottom:0">Monthly Absolute Values</div>
+        <div class="section-title" style="margin-bottom:0">Monthly Absolute Values</div>
       </div>
       <div class="heatmap-wrap">
         <div id="monthlyAbsHeatmap"></div>
@@ -703,7 +863,7 @@
     <!-- Quarterly Heatmap -->
     <div class="heatmap-section mb-20">
       <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
-        <div class="heatmap-title" style="margin-bottom:0">Quarterly Heatmap</div>
+        <div class="section-title" style="margin-bottom:0">Quarterly Heatmap</div>
         <button class="dl-btn" id="quarterlyHeatmapDlBtn">⬇ Download CSV</button>
       </div>
       <div class="heatmap-wrap">
@@ -963,8 +1123,9 @@ async function loadAllData() {
   overlay.classList.add('hidden');
 
   const now = new Date();
-  document.getElementById('updatedAt').textContent =
+  document.getElementById('updatedAtText').textContent =
     `Data as of ${now.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' })}`;
+  document.getElementById('liveDot').classList.add('active');
 }
 
 function buildMaster() {
@@ -1088,6 +1249,9 @@ function renderDashboard(productKey) {
   const stats = computeStats(productKey);
   if (!stats) return;
 
+  const rows   = DATA.master.filter(r => r[productKey] != null);
+  const latest = rows[rows.length - 1];
+
   document.getElementById('dashCurrentPrice').textContent = fmt(stats.currentPrice);
 
   const changeEl = document.getElementById('dashPriceChange');
@@ -1104,6 +1268,24 @@ function renderDashboard(productKey) {
   const sigEl = document.getElementById('dashSignal');
   sigEl.textContent = sig.text;
   sigEl.className = 'signal-badge ' + sig.cls;
+
+  // Alerts banner
+  const bullishEl  = document.getElementById('alertBullish');
+  const bearishEl  = document.getElementById('alertBearish');
+  const bullishTxt = document.getElementById('alertBullishText');
+  const bearishTxt = document.getElementById('alertBearishText');
+  if (sig.text.includes('ACCUMULATE') || sig.text.includes('GOLDEN')) {
+    bullishTxt.textContent = sig.text;
+    bullishEl.style.display  = 'block';
+    bearishEl.style.display  = 'none';
+  } else if (sig.text.includes('SELL') || sig.text.includes('KNIFE')) {
+    bearishTxt.textContent = sig.text;
+    bearishEl.style.display  = 'block';
+    bullishEl.style.display  = 'none';
+  } else {
+    bullishEl.style.display = 'none';
+    bearishEl.style.display = 'none';
+  }
 
   // Stats cards
   const atEl = document.getElementById('statAlltime');
@@ -1136,10 +1318,36 @@ function renderDashboard(productKey) {
     rocEl.className = 'stat-value val-white';
   }
 
+  // Historical Context Strip
+  const cut5y2  = new Date(latest.date); cut5y2.setFullYear(latest.date.getFullYear() - 5);
+  const cut10y2 = new Date(latest.date); cut10y2.setFullYear(latest.date.getFullYear() - 10);
+  const avg5y  = mean(rows.filter(r => r.date >= cut5y2).map(r => r[productKey]));
+  const avg10y = mean(rows.filter(r => r.date >= cut10y2).map(r => r[productKey]));
+  const ctx5yAvgEl  = document.getElementById('ctx5yAvg');
+  const ctx5yDevEl  = document.getElementById('ctx5yDev');
+  const ctx10yDevEl = document.getElementById('ctx10yDev');
+  if (ctx5yAvgEl) {
+    ctx5yAvgEl.textContent = avg5y != null ? fmt(avg5y, 0) : '—';
+    if (avg5y != null) {
+      const dev5y  = ((stats.currentPrice - avg5y)  / avg5y  * 100);
+      const dev10y = avg10y != null ? ((stats.currentPrice - avg10y) / avg10y * 100) : null;
+      ctx5yDevEl.textContent  = (dev5y  >= 0 ? '+' : '') + dev5y.toFixed(1)  + '%';
+      ctx5yDevEl.className    = 'context-value ' + (dev5y  >= 0 ? 'val-green' : 'val-red');
+      if (dev10y != null) {
+        ctx10yDevEl.textContent = (dev10y >= 0 ? '+' : '') + dev10y.toFixed(1) + '%';
+        ctx10yDevEl.className   = 'context-value ' + (dev10y >= 0 ? 'val-green' : 'val-red');
+      } else {
+        ctx10yDevEl.textContent = '—';
+        ctx10yDevEl.className   = 'context-value';
+      }
+    }
+  }
+
   renderOverlayChart(productKey);
   renderDrawdownChart(productKey);
   renderYearlyPerfTable(productKey);
   renderCorrMatrix(currentCorrTimeframe);
+  renderRecentChanges(productKey);
 }
 
 // =====================================================================
@@ -1989,8 +2197,8 @@ function renderIndicesTab() {
     card.className = 'index-chart-card';
     card.id = cardId;
     card.innerHTML = `
+      <div class="card-header-bar">${prod.label}</div>
       <div class="index-chart-header">
-        <div class="index-chart-title">${prod.label}</div>
         <div class="index-chart-subtitle">
           <span>${fmt(latest.value)}</span>
           <span class="${chgCls}">${chgStr}</span>
@@ -2332,6 +2540,100 @@ function buildETFDonut(etfKey, holdings) {
       },
     });
   }, 50);
+}
+
+// =====================================================================
+// FEATURE B — Recent Daily Changes Table
+// =====================================================================
+let _recentChangesKey = null;
+let _recentChangesRows = null;
+
+function renderRecentChanges(productKey) {
+  _recentChangesKey = productKey;
+  const allRows = DATA.master.filter(r => r[productKey] != null);
+  const last15  = allRows.slice(-15);
+  const displayRows = last15.slice(-10);
+  _recentChangesRows = displayRows;
+
+  let html = `<table class="yearly-table">
+    <thead><tr>
+      <th style="text-align:left">Date</th>
+      <th>Index Value</th>
+      <th>Day Δ</th>
+      <th>Day Δ%</th>
+      <th>5D Chg%</th>
+    </tr></thead><tbody>`;
+
+  for (let i = 0; i < displayRows.length; i++) {
+    const row = displayRows[i];
+    // Global index of this row in last15
+    const globalIdx = last15.indexOf(row);
+
+    // Day change: vs previous row in allRows
+    const allIdx = allRows.indexOf(row);
+    const prevRow = allIdx > 0 ? allRows[allIdx - 1] : null;
+    const dayDelta   = prevRow ? (row[productKey] - prevRow[productKey]) : null;
+    const dayDeltaPct = prevRow && prevRow[productKey] ? ((row[productKey] - prevRow[productKey]) / prevRow[productKey] * 100) : null;
+
+    // 5D change: vs row 5 positions back in allRows
+    const row5back = allIdx >= 5 ? allRows[allIdx - 5] : null;
+    const chg5d = row5back && row5back[productKey] ? ((row[productKey] - row5back[productKey]) / row5back[productKey] * 100) : null;
+
+    const dateStr = row.date.toISOString().split('T')[0];
+
+    const ddStr   = dayDelta    != null ? (dayDelta    >= 0 ? '+' : '') + dayDelta.toFixed(0)      : '—';
+    const ddPStr  = dayDeltaPct != null ? (dayDeltaPct >= 0 ? '+' : '') + dayDeltaPct.toFixed(2) + '%' : '—';
+    const c5dStr  = chg5d       != null ? (chg5d       >= 0 ? '+' : '') + chg5d.toFixed(2)       + '%' : '—';
+
+    const ddCls   = dayDelta    == null ? '' : (dayDelta    >= 0 ? 'val-green' : 'val-red');
+    const ddPCls  = dayDeltaPct == null ? '' : (dayDeltaPct >= 0 ? 'val-green' : 'val-red');
+    const c5dCls  = chg5d       == null ? '' : (chg5d       >= 0 ? 'val-green' : 'val-red');
+
+    html += `<tr>
+      <td style="text-align:left;color:var(--text-muted);font-weight:600">${dateStr}</td>
+      <td>${fmt(row[productKey], 0)}</td>
+      <td class="${ddCls}">${ddStr}</td>
+      <td class="${ddPCls}">${ddPStr}</td>
+      <td class="${c5dCls}">${c5dStr}</td>
+    </tr>`;
+  }
+
+  html += '</tbody></table>';
+  const container = document.getElementById('recentChangesTable');
+  if (container) container.innerHTML = html;
+
+  // Wire download button
+  const dlBtn = document.getElementById('recentDlBtn');
+  if (dlBtn) dlBtn.onclick = () => downloadRecentChanges(productKey);
+}
+
+function downloadRecentChanges(productKey) {
+  if (!_recentChangesRows) return;
+  const allRows = DATA.master.filter(r => r[productKey] != null);
+  const headers = ['Date','Value','Day Change','Day Change %','5D Change %'];
+  const rows = _recentChangesRows.map(row => {
+    const allIdx = allRows.indexOf(row);
+    const prevRow = allIdx > 0 ? allRows[allIdx - 1] : null;
+    const row5back = allIdx >= 5 ? allRows[allIdx - 5] : null;
+    const dayDelta    = prevRow ? (row[productKey] - prevRow[productKey]) : null;
+    const dayDeltaPct = prevRow && prevRow[productKey] ? ((row[productKey] - prevRow[productKey]) / prevRow[productKey] * 100) : null;
+    const chg5d       = row5back && row5back[productKey] ? ((row[productKey] - row5back[productKey]) / row5back[productKey] * 100) : null;
+    return [
+      row.date.toISOString().split('T')[0],
+      row[productKey] != null ? row[productKey].toFixed(2) : '',
+      dayDelta    != null ? dayDelta.toFixed(2) : '',
+      dayDeltaPct != null ? dayDeltaPct.toFixed(2) + '%' : '',
+      chg5d       != null ? chg5d.toFixed(2) + '%' : '',
+    ];
+  });
+  downloadCSV(`recent_changes_${productKey}.csv`, headers, rows);
+}
+
+function toggleMethodology() {
+  const btn     = document.getElementById('methodologyToggle');
+  const content = document.getElementById('methodologyContent');
+  btn.classList.toggle('open');
+  content.classList.toggle('open');
 }
 
 // =====================================================================
