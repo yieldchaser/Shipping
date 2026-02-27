@@ -431,7 +431,18 @@
     flex-direction: column;
   }
   .etf-holdings-section {
-    flex: 1;
+    flex: none;
+  }
+  .etf-holdings-section .holdings-table tbody {
+    display: block;
+    max-height: 320px;
+    overflow-y: auto;
+  }
+  .etf-holdings-section .holdings-table thead,
+  .etf-holdings-section .holdings-table tbody tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
   }
   .etf-header { margin-bottom: 16px; }
   .etf-ticker { font-size: 24px; font-weight: 800; color: var(--accent); }
@@ -2940,7 +2951,7 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
   const totalAUM     = totalFutures + totalCash;
 
   const leverageVal = totalCash > 0 ? ((totalAUM / totalCash) - 1) : null;
-  const leverageStr = leverageVal !== null ? leverageVal.toFixed(2) + 'x' : '—';
+  const leverageStr = leverageVal !== null ? (leverageVal * 100).toFixed(1) + '%' : '—';
 
   return `
     <div class="etf-header">
@@ -2995,7 +3006,7 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
         <div class="etf-metric-value" style="color:var(--text-muted)">3.50%</div>
       </div>
       <div class="etf-metric">
-        <div class="etf-metric-label">Leverage ((Exp/Cash)−1)</div>
+        <div class="etf-metric-label">Leverage</div>
         <div class="etf-metric-value" style="color:var(--yellow)">${leverageStr}</div>
       </div>
     </div>
