@@ -1089,7 +1089,16 @@
       <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyHistChart"></canvas></div>
     </div>
     <div class="chart-container mb-20">
-      <div class="chart-header"><div class="chart-title">Z-Score (Rolling 252-Day)</div></div>
+      <div class="chart-header">
+        <div class="chart-title" id="ydZscoreTitle">Z-Score (Rolling 252-Day)</div>
+        <div class="flex-row" style="gap:6px;align-items:center;">
+          <button class="toggle-btn" id="ydZscoreBtn63"  onclick="setYDZscoreWindow(63)">3M</button>
+          <button class="toggle-btn" id="ydZscoreBtn126" onclick="setYDZscoreWindow(126)">6M</button>
+          <button class="toggle-btn active" id="ydZscoreBtn252" onclick="setYDZscoreWindow(252)">1Y</button>
+          <button class="toggle-btn" id="ydZscoreBtn504" onclick="setYDZscoreWindow(504)">2Y</button>
+          <button class="toggle-btn" id="ydZscoreBtn756" onclick="setYDZscoreWindow(756)">3Y</button>
+        </div>
+      </div>
       <div class="index-range-wrap" style="padding: 2px 0 6px;">
         <div class="index-range-label">
           <span>Range:</span>
@@ -3361,23 +3370,48 @@ function computeRollingZscoreArr(values, windowSize) {
   });
 }
 
+// ── Rolling Z-Score window state ─────────────────────────────────────────────
+var _ydZscoreWindow = 252;      // active rolling window (trading days)
+var _ydZscoreProductKey = null; // cached so setYDZscoreWindow can re-render
+
+var _ydZscoreWindowLabels = {
+  63:  '3M (63-Day)',
+  126: '6M (126-Day)',
+  252: '1Y (252-Day)',
+  504: '2Y (504-Day)',
+  756: '3Y (756-Day)',
+};
+
+function setYDZscoreWindow(w) {
+  _ydZscoreWindow = w;
+  [63, 126, 252, 504, 756].forEach(function(x) {
+    var el = document.getElementById('ydZscoreBtn' + x);
+    if (el) el.classList.toggle('active', x === w);
+  });
+  var titleEl = document.getElementById('ydZscoreTitle');
+  if (titleEl) titleEl.textContent = 'Z-Score (Rolling ' + _ydZscoreWindowLabels[w] + ')';
+  if (_ydZscoreProductKey) renderYDZscore(_ydZscoreProductKey, false, 'yearlyZscoreChart');
+}
+
 function renderYDZscore(productKey, allTime, canvasId) {
   var cutoff2008 = new Date('2008-01-01');
 
-  // Pre-compute ALL z-score data from 2008 for all products, keyed by date string
-  var allZData = {}; // key -> {date, z}[]
+  // Rolling chart uses selected window; historical all-time always 252
+  var windowSize = allTime ? 252 : _ydZscoreWindow;
+  if (!allTime) _ydZscoreProductKey = productKey;
+
+  // Pre-compute z-scores for all products with the chosen window
+  var allZData = {};
   PRODUCT_KEYS.forEach(function(key) {
     var allRows = DATA.master.filter(function(r){ return r[key] != null && r.date >= cutoff2008; });
-    var zAll = computeRollingZscoreArr(allRows.map(function(r){ return r[key]; }), 252);
+    var zAll = computeRollingZscoreArr(allRows.map(function(r){ return r[key]; }), windowSize);
     allZData[key] = allRows.map(function(r, i){ return { dateStr: r.date.toISOString().split('T')[0], z: zAll[i] }; });
   });
 
-  // Build master label list from selected product (all dates from 2008)
   var masterLabels = allZData[productKey].map(function(d){ return d.dateStr; });
   var total = masterLabels.length;
   if (!total) return;
 
-  // Determine slider element IDs based on canvasId
   var prefix = canvasId === 'yearlyZscoreChart' ? 'ydZscore' : 'ydHistZscore';
   var startEl = document.getElementById(prefix + 'RangeStart');
   var endEl   = document.getElementById(prefix + 'RangeEnd');
@@ -3385,27 +3419,30 @@ function renderYDZscore(productKey, allTime, canvasId) {
   var labelEl = document.getElementById(prefix + 'RangeLabel');
 
   if (!startEl || !endEl) {
-    // Fallback: render without slider (shouldn't happen)
     _buildZscoreChart(productKey, canvasId, allZData, masterLabels, 0, total - 1);
     return;
   }
 
-  // Set slider range
+  // First render: max is still HTML default 100 — set it and apply default range
+  // Subsequent calls (window change): max already equals total-1, preserve positions
+  var firstRender = (parseInt(startEl.max) !== total - 1);
   startEl.max = total - 1;
   endEl.max   = total - 1;
 
-  // Default range: last 3 years for rolling, all-time for historical
-  if (!allTime) {
-    var cutoff3y = new Date(); cutoff3y.setFullYear(cutoff3y.getFullYear() - 3);
-    var def3yIdx = 0;
-    for (var ii = 0; ii < total; ii++) {
-      if (new Date(masterLabels[ii]) >= cutoff3y) { def3yIdx = ii; break; }
+  if (firstRender) {
+    if (!allTime) {
+      // Rolling default: last 3 years
+      var cutoff3y = new Date(); cutoff3y.setFullYear(cutoff3y.getFullYear() - 3);
+      var def3yIdx = 0;
+      for (var ii = 0; ii < total; ii++) {
+        if (new Date(masterLabels[ii]) >= cutoff3y) { def3yIdx = ii; break; }
+      }
+      startEl.value = def3yIdx;
+      endEl.value   = total - 1;
+    } else {
+      startEl.value = 0;
+      endEl.value   = total - 1;
     }
-    startEl.value = def3yIdx;
-    endEl.value   = total - 1;
-  } else {
-    startEl.value = 0;
-    endEl.value   = total - 1;
   }
 
   function updateFillAndLabel(s, e) {
@@ -3415,33 +3452,29 @@ function renderYDZscore(productKey, allTime, canvasId) {
       fillEl.style.left  = pctS + '%';
       fillEl.style.width = (pctE - pctS) + '%';
     }
-    if (labelEl) {
-      labelEl.textContent = masterLabels[s].slice(0,7) + ' \u2192 ' + masterLabels[e].slice(0,7);
-    }
+    if (labelEl) labelEl.textContent = masterLabels[s].slice(0,7) + ' \u2192 ' + masterLabels[e].slice(0,7);
   }
 
+  // Clone first, then define closure over ns/ne (live nodes) — fixes detached-ref bug
+  var ns = startEl.cloneNode(true); startEl.parentNode.replaceChild(ns, startEl);
+  var ne = endEl.cloneNode(true);   endEl.parentNode.replaceChild(ne, endEl);
+
   function onSlide() {
-    var s = parseInt(startEl.value);
-    var e = parseInt(endEl.value);
+    var s = parseInt(ns.value);
+    var e = parseInt(ne.value);
     if (s > e) {
-      if (this === startEl) { startEl.value = e; s = e; }
-      else { endEl.value = s; e = s; }
+      if (document.activeElement === ns) { ns.value = e; s = e; }
+      else { ne.value = s; e = s; }
     }
     updateFillAndLabel(s, e);
     _buildZscoreChart(productKey, canvasId, allZData, masterLabels, s, e);
   }
 
-  // Clone to remove old listeners
-  var newStart = startEl.cloneNode(true);
-  var newEnd   = endEl.cloneNode(true);
-  startEl.parentNode.replaceChild(newStart, startEl);
-  endEl.parentNode.replaceChild(newEnd, endEl);
-  newStart.addEventListener('input', onSlide);
-  newEnd.addEventListener('input', onSlide);
+  ns.addEventListener('input', onSlide);
+  ne.addEventListener('input', onSlide);
 
-  // Initial render
-  var initS = parseInt(newStart.value);
-  var initE = parseInt(newEnd.value);
+  var initS = parseInt(ns.value);
+  var initE = parseInt(ne.value);
   updateFillAndLabel(initS, initE);
   _buildZscoreChart(productKey, canvasId, allZData, masterLabels, initS, initE);
 }
