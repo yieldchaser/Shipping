@@ -481,9 +481,10 @@
   .etf-metric-value { font-size: 15px; font-weight: 700; color: var(--text); }
 
   /* ETF Research Links */
-  .etf-research-section { margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border); }
+  .etf-research-section { margin-top: auto; padding-top: 16px; border-top: 1px solid var(--border); }
   .etf-research-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-bottom: 10px; }
   .research-group { margin-bottom: 12px; }
+  .research-group:last-child { margin-bottom: 0; }
   .research-group-label { font-size: 10px; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 5px; }
   .research-link { display: flex; align-items: flex-start; gap: 6px; padding: 5px 0; border-bottom: 1px solid var(--grid); }
   .research-link:last-child { border-bottom: none; }
@@ -491,7 +492,7 @@
   .research-link a:hover { color: var(--accent); text-decoration: underline; }
   .research-link-icon { font-size: 12px; flex-shrink: 0; margin-top: 1px; }
   /* Fundamentals section */
-  .etf-fundamentals-section { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--border); }
+  .etf-fundamentals-section { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--border); min-height: 260px; }
   .etf-fund-group { margin-bottom: 14px; }
   .etf-fund-group-label { font-size: 10px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 5px; }
   .etf-fund-link { display: flex; align-items: flex-start; gap: 6px; padding: 4px 0; }
