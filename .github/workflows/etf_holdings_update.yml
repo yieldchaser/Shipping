@@ -36,4 +36,5 @@ jobs:
         git config --local user.name "GitHub Action"
         git add *_holdings.csv
         git diff --quiet && git diff --staged --quiet || git commit -m "Update ETF holdings $(date +'%Y-%m-%d')"
+        git pull --rebase origin main
         git push
