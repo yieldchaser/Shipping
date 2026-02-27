@@ -2068,7 +2068,7 @@ function renderYearlyPerfTable(productKey) {
       yoyCls = yoyPct >= 0 ? 'val-green' : 'val-red';
     }
 
-    const rangePct = mn != null && mn !== 0 ? ((mx - mn) / mn * 100).toFixed(1) + '%' : '—';
+    const rangePct = mn != null && avg != null && avg !== 0 ? ((mx - mn) / avg * 100).toFixed(1) + '%' : '—';
 
     html += `<tr>
       <td>${y}</td>
@@ -2105,7 +2105,7 @@ function downloadYearlyPerf(productKey) {
       const yoy = ((avg - priorAvg) / priorAvg) * 100;
       yoyStr = yoy.toFixed(2) + '%';
     }
-    const rangePct = mn != null && mn !== 0 ? ((mx - mn) / mn * 100).toFixed(2) + '%' : '';
+    const rangePct = mn != null && avg != null && avg !== 0 ? ((mx - mn) / avg * 100).toFixed(2) + '%' : '';
     rows.push([y, avg != null ? avg.toFixed(2) : '', yoyStr, mn != null ? mn.toFixed(2) : '', mx != null ? mx.toFixed(2) : '', rangePct]);
   }
   downloadCSV(`yearly_perf_${productKey}.csv`, headers, rows);
