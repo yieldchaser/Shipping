@@ -1,0 +1,1466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Baltic Shipping Market Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0d1117;
+    --card: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #8b949e;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+    --yellow: #d29922;
+    --grid: #21262d;
+    --hover: #1f2937;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+
+  /* HEADER */
+  .header {
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .header h1 {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--accent);
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .header h1 span.logo { font-size: 20px; }
+  .product-selector {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-left: auto;
+  }
+  .product-selector label { color: var(--text-muted); font-size: 12px; }
+  select {
+    background: var(--bg);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-size: 13px;
+    cursor: pointer;
+    outline: none;
+  }
+  select:hover { border-color: var(--accent); }
+
+  /* TABS */
+  .tabs-bar {
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    padding: 0 20px;
+    display: flex;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .tabs-bar::-webkit-scrollbar { display: none; }
+  .tab-btn {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    padding: 12px 16px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 500;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .tab-btn:hover { color: var(--text); }
+  .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+  /* MAIN CONTENT */
+  .main { padding: 20px; max-width: 1400px; margin: 0 auto; }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  /* LOADING */
+  .loading-overlay {
+    position: fixed; inset: 0;
+    background: rgba(13,17,23,0.92);
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    z-index: 9999;
+    gap: 16px;
+  }
+  .loading-overlay.hidden { display: none; }
+  .spinner {
+    width: 40px; height: 40px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .loading-text { color: var(--text-muted); font-size: 13px; }
+  .loading-progress { color: var(--accent); font-size: 12px; }
+
+  /* CARDS */
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+    transition: border-color 0.15s;
+  }
+  .card:hover { border-color: #484f58; }
+  .card-title {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+  }
+
+  /* DASHBOARD TAB */
+  .dashboard-hero {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  .current-price-block { display: flex; flex-direction: column; gap: 4px; }
+  .current-price-label { font-size: 12px; color: var(--text-muted); }
+  .current-price-value { font-size: 42px; font-weight: 700; color: var(--text); line-height: 1; }
+  .current-price-change { font-size: 14px; font-weight: 500; }
+  .change-pos { color: var(--green); }
+  .change-neg { color: var(--red); }
+  .signal-badge {
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+  }
+  .signal-sell { background: rgba(248,81,73,0.2); color: #f85149; border: 1px solid rgba(248,81,73,0.4); }
+  .signal-golden { background: rgba(255,215,0,0.15); color: #ffd700; border: 1px solid rgba(255,215,0,0.4); }
+  .signal-knife { background: rgba(255,140,0,0.15); color: #ff8c00; border: 1px solid rgba(255,140,0,0.4); }
+  .signal-trap { background: rgba(139,148,158,0.15); color: #8b949e; border: 1px solid rgba(139,148,158,0.4); }
+  .signal-accumulate { background: rgba(88,166,255,0.15); color: #58a6ff; border: 1px solid rgba(88,166,255,0.4); }
+  .signal-wait { background: rgba(230,237,243,0.1); color: #e6edf3; border: 1px solid rgba(230,237,243,0.2); }
+
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  @media (max-width: 900px) { .stats-row { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 600px) { .stats-row { grid-template-columns: repeat(2, 1fr); } }
+
+  .stat-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+  }
+  .stat-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 6px; }
+  .stat-value { font-size: 22px; font-weight: 700; }
+  .stat-sub { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+  .val-red { color: var(--red); }
+  .val-yellow { color: var(--yellow); }
+  .val-green { color: var(--green); }
+  .val-white { color: var(--text); }
+
+  /* CHART CONTAINERS */
+  .chart-container {
+    position: relative;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+  }
+  .chart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .chart-title { font-size: 13px; font-weight: 600; }
+  .year-checkboxes { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .year-checkbox-item {
+    display: flex; align-items: center; gap: 4px;
+    font-size: 12px; cursor: pointer; user-select: none;
+  }
+  .year-checkbox-item input { cursor: pointer; accent-color: var(--accent); }
+  .chart-canvas-wrap { height: 320px; position: relative; }
+
+  /* HEATMAPS */
+  .heatmap-section { margin-bottom: 28px; }
+  .heatmap-title { font-size: 14px; font-weight: 600; margin-bottom: 12px; color: var(--text); }
+  .heatmap-wrap { overflow-x: auto; }
+  .heatmap-table {
+    border-collapse: collapse;
+    font-size: 12px;
+    min-width: 600px;
+  }
+  .heatmap-table th {
+    background: var(--bg);
+    color: var(--text-muted);
+    font-weight: 600;
+    padding: 7px 10px;
+    text-align: center;
+    border: 1px solid var(--border);
+    white-space: nowrap;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+  .heatmap-table td {
+    padding: 6px 8px;
+    text-align: center;
+    border: 1px solid #21262d;
+    font-size: 12px;
+    font-weight: 500;
+    min-width: 72px;
+    white-space: nowrap;
+  }
+  .heatmap-table .year-col {
+    background: var(--bg);
+    color: var(--text-muted);
+    font-weight: 600;
+    padding: 6px 10px;
+    text-align: right;
+    font-size: 12px;
+  }
+
+  /* INDICES TAB */
+  .indices-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+  @media (max-width: 900px) { .indices-grid { grid-template-columns: 1fr; } }
+  .index-chart-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+  }
+  .index-chart-header { margin-bottom: 10px; }
+  .index-chart-title { font-size: 13px; font-weight: 700; margin-bottom: 2px; }
+  .index-chart-subtitle { font-size: 12px; color: var(--text-muted); display: flex; gap: 10px; align-items: center; }
+  .index-chart-canvas-wrap { height: 200px; position: relative; }
+  .toggle-btn {
+    background: var(--bg);
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 3px 8px;
+    font-size: 11px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .toggle-btn:hover, .toggle-btn.active { border-color: var(--accent); color: var(--accent); }
+
+  /* ETF TAB */
+  .etf-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  @media (max-width: 900px) { .etf-grid { grid-template-columns: 1fr; } }
+  .etf-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px;
+  }
+  .etf-header { margin-bottom: 16px; }
+  .etf-ticker { font-size: 24px; font-weight: 800; color: var(--accent); }
+  .etf-name { font-size: 12px; color: var(--text-muted); margin-bottom: 8px; }
+  .etf-price-row { display: flex; align-items: baseline; gap: 10px; }
+  .etf-price { font-size: 28px; font-weight: 700; }
+  .etf-change { font-size: 14px; font-weight: 600; }
+  .etf-section-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin: 16px 0 8px; }
+  .holdings-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  .holdings-table th {
+    color: var(--text-muted); font-size: 10px; text-transform: uppercase; letter-spacing: 0.3px;
+    padding: 6px 8px; text-align: right; border-bottom: 1px solid var(--border);
+    font-weight: 600;
+  }
+  .holdings-table th:first-child { text-align: left; }
+  .holdings-table td {
+    padding: 6px 8px; border-bottom: 1px solid #21262d; text-align: right; color: var(--text);
+  }
+  .holdings-table td:first-child { text-align: left; color: var(--text-muted); }
+  .holdings-table tr:last-child td { border-bottom: none; }
+  .holdings-table tr:hover td { background: var(--hover); }
+  .row-cape { color: #58a6ff !important; }
+  .row-pana { color: #3fb950 !important; }
+  .row-supra { color: #d29922 !important; }
+  .row-td3c { color: #f0883e !important; }
+  .row-td20 { color: #a371f7 !important; }
+  .row-cash { color: var(--text-muted) !important; }
+  .donut-wrap { height: 200px; position: relative; margin-top: 8px; }
+  .etf-metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 16px; }
+  .etf-metric { background: var(--bg); border-radius: 6px; padding: 10px 12px; border: 1px solid var(--border); }
+  .etf-metric-label { font-size: 10px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.3px; margin-bottom: 4px; }
+  .etf-metric-value { font-size: 15px; font-weight: 700; color: var(--text); }
+
+  /* SECTION ERRORS */
+  .error-msg {
+    background: rgba(248,81,73,0.1);
+    border: 1px solid rgba(248,81,73,0.3);
+    border-radius: 6px;
+    padding: 12px 16px;
+    color: var(--red);
+    font-size: 13px;
+    margin: 8px 0;
+  }
+
+  /* SCROLLBAR */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: #484f58; }
+
+  /* UTILITY */
+  .mb-12 { margin-bottom: 12px; }
+  .mb-20 { margin-bottom: 20px; }
+  .flex-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .text-muted { color: var(--text-muted); }
+  .text-accent { color: var(--accent); }
+  .updated-at { font-size: 11px; color: var(--text-muted); margin-left: auto; }
+</style>
+</head>
+<body>
+
+<!-- LOADING OVERLAY -->
+<div class="loading-overlay" id="loadingOverlay">
+  <div class="spinner"></div>
+  <div class="loading-text">Loading shipping market data…</div>
+  <div class="loading-progress" id="loadingProgress">Fetching CSVs (0/8)</div>
+</div>
+
+<!-- HEADER -->
+<div class="header">
+  <h1><span class="logo">⚓</span> Baltic Shipping Dashboard</h1>
+  <div class="product-selector">
+    <label for="globalProduct">Index:</label>
+    <select id="globalProduct">
+      <option value="bdiy">Baltic Dry Index (BDI)</option>
+      <option value="cape">Capesize</option>
+      <option value="panama">Panamax</option>
+      <option value="suprama">Supramax</option>
+      <option value="cleantanker">Clean Tanker (BCTI)</option>
+      <option value="dirtytanker">Dirty Tanker (BDTI)</option>
+    </select>
+  </div>
+  <div class="updated-at" id="updatedAt"></div>
+</div>
+
+<!-- TABS BAR -->
+<div class="tabs-bar">
+  <button class="tab-btn active" data-tab="dashboard">📊 Dashboard</button>
+  <button class="tab-btn" data-tab="heatmaps">🌡️ Heatmaps</button>
+  <button class="tab-btn" data-tab="indices">📈 Indices</button>
+  <button class="tab-btn" data-tab="etfs">🏦 ETFs</button>
+</div>
+
+<!-- MAIN CONTENT -->
+<div class="main">
+
+  <!-- ===== TAB: DASHBOARD ===== -->
+  <div class="tab-panel active" id="tab-dashboard">
+    <div class="dashboard-hero mb-20">
+      <div class="current-price-block">
+        <div class="current-price-label" id="dashProductLabel">Baltic Dry Index (BDI)</div>
+        <div class="current-price-value" id="dashCurrentPrice">—</div>
+        <div class="current-price-change" id="dashPriceChange">—</div>
+      </div>
+      <div id="dashSignal" class="signal-badge signal-wait">⏳ WAIT</div>
+    </div>
+
+    <div class="stats-row mb-20">
+      <div class="stat-card">
+        <div class="stat-label">All-Time Pctl</div>
+        <div class="stat-value" id="statAlltime">—</div>
+        <div class="stat-sub">vs full history</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">10Y Percentile</div>
+        <div class="stat-value" id="stat10y">—</div>
+        <div class="stat-sub">last 10 years</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">5Y Percentile</div>
+        <div class="stat-value" id="stat5y">—</div>
+        <div class="stat-sub">last 5 years</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Z-Score</div>
+        <div class="stat-value" id="statZscore">—</div>
+        <div class="stat-sub">vs same trading day</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">52-Week Drawdown</div>
+        <div class="stat-value" id="statDrawdown">—</div>
+        <div class="stat-sub">from 52-week high</div>
+      </div>
+    </div>
+
+    <div class="chart-container">
+      <div class="chart-header">
+        <div class="chart-title">Current Year vs Historical Years</div>
+        <div class="year-checkboxes" id="yearCheckboxes"></div>
+      </div>
+      <div class="chart-canvas-wrap">
+        <canvas id="overlayChart"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== TAB: HEATMAPS ===== -->
+  <div class="tab-panel" id="tab-heatmaps">
+    <div class="heatmap-section mb-20">
+      <div class="heatmap-title">Quarterly Heatmap</div>
+      <div class="heatmap-wrap">
+        <div id="quarterlyHeatmap"></div>
+      </div>
+    </div>
+    <div class="heatmap-section">
+      <div class="heatmap-title">Monthly Heatmap</div>
+      <div class="heatmap-wrap">
+        <div id="monthlyHeatmap"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== TAB: INDICES ===== -->
+  <div class="tab-panel" id="tab-indices">
+    <div class="indices-grid" id="indicesGrid"></div>
+  </div>
+
+  <!-- ===== TAB: ETFs ===== -->
+  <div class="tab-panel" id="tab-etfs">
+    <div class="etf-grid" id="etfGrid"></div>
+  </div>
+
+</div><!-- /main -->
+
+<script>
+// =====================================================================
+// GLOBAL DATA STORE
+// =====================================================================
+const DATA = {
+  raw: {},       // raw parsed CSV rows keyed by product
+  master: [],    // merged by date array
+  masterByDate: {}, // keyed by date string
+  loaded: false,
+};
+
+// Product config
+const PRODUCTS = {
+  bdiy:        { label: 'Baltic Dry Index (BDI)',  file: 'bdiy_historical.csv',       color: '#58a6ff' },
+  cape:        { label: 'Capesize',                file: 'cape_historical.csv',        color: '#3fb950' },
+  panama:      { label: 'Panamax',                 file: 'panama_historical.csv',      color: '#d29922' },
+  suprama:     { label: 'Supramax',                file: 'suprama_historical.csv',     color: '#f0883e' },
+  cleantanker: { label: 'Clean Tanker (BCTI)',     file: 'cleantanker_historical.csv', color: '#a371f7' },
+  dirtytanker: { label: 'Dirty Tanker (BDTI)',     file: 'dirtytanker_historical.csv', color: '#e3b341' },
+};
+
+const PRODUCT_KEYS = Object.keys(PRODUCTS);
+
+// Year-line colors for overlay chart
+const YEAR_COLORS = [
+  '#58a6ff', '#3fb950', '#d29922', '#f0883e', '#a371f7',
+  '#e3b341', '#79c0ff', '#56d364', '#f0883e', '#bc8cff',
+];
+
+// =====================================================================
+// UTILITY FUNCTIONS
+// =====================================================================
+function parseDate(str) {
+  if (!str) return null;
+  const [d, m, y] = str.split('-');
+  if (!d || !m || !y) return null;
+  return new Date(parseInt(y), parseInt(m) - 1, parseInt(d));
+}
+
+function parseVal(str) {
+  if (!str || str === '' || str === 'N/A') return null;
+  return parseFloat(String(str).replace(/,/g, '').replace(/%/, ''));
+}
+
+function fmt(n, decimals = 0) {
+  if (n == null || isNaN(n)) return '—';
+  return n.toLocaleString('en-US', { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
+}
+
+function fmtPct(n) {
+  if (n == null || isNaN(n)) return '—';
+  const s = (n >= 0 ? '+' : '') + (n * 100).toFixed(1) + '%';
+  return s;
+}
+
+function fmtPctRaw(n) {
+  if (n == null || isNaN(n)) return '—';
+  const s = (n >= 0 ? '+' : '') + n.toFixed(2) + '%';
+  return s;
+}
+
+function getQuarter(month) {
+  if (month <= 2) return 'Q1';
+  if (month <= 5) return 'Q2';
+  if (month <= 8) return 'Q3';
+  return 'Q4';
+}
+
+const MONTH_NAMES = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+function percentileRank(arr, value) {
+  const sorted = [...arr].filter(x => x != null).sort((a, b) => a - b);
+  if (sorted.length === 0) return 0;
+  let count = 0;
+  for (const v of sorted) { if (v <= value) count++; }
+  return count / sorted.length;
+}
+
+function mean(arr) {
+  const vals = arr.filter(x => x != null);
+  if (!vals.length) return null;
+  return vals.reduce((s, v) => s + v, 0) / vals.length;
+}
+
+function stddev(arr) {
+  const vals = arr.filter(x => x != null);
+  if (vals.length < 2) return null;
+  const m = mean(vals);
+  const variance = vals.reduce((s, v) => s + (v - m) ** 2, 0) / vals.length;
+  return Math.sqrt(variance);
+}
+
+// =====================================================================
+// CHART DEFAULTS
+// =====================================================================
+Chart.defaults.color = '#8b949e';
+Chart.defaults.borderColor = '#21262d';
+Chart.defaults.plugins.legend.labels.boxWidth = 12;
+Chart.defaults.plugins.legend.labels.padding = 10;
+Chart.defaults.plugins.tooltip.backgroundColor = '#1c2128';
+Chart.defaults.plugins.tooltip.borderColor = '#30363d';
+Chart.defaults.plugins.tooltip.borderWidth = 1;
+Chart.defaults.plugins.tooltip.titleColor = '#e6edf3';
+Chart.defaults.plugins.tooltip.bodyColor = '#8b949e';
+Chart.defaults.plugins.tooltip.padding = 10;
+
+const chartRegistry = {};
+function destroyChart(id) {
+  if (chartRegistry[id]) {
+    chartRegistry[id].destroy();
+    delete chartRegistry[id];
+  }
+}
+
+// =====================================================================
+// DATA LOADING
+// =====================================================================
+async function fetchCSV(path) {
+  const resp = await fetch(path);
+  if (!resp.ok) throw new Error(`HTTP ${resp.status} for ${path}`);
+  const text = await resp.text();
+  return new Promise((resolve, reject) => {
+    Papa.parse(text, {
+      header: true,
+      skipEmptyLines: true,
+      complete: r => resolve(r.data),
+      error: e => reject(e),
+    });
+  });
+}
+
+async function loadAllData() {
+  const overlay = document.getElementById('loadingOverlay');
+  const progress = document.getElementById('loadingProgress');
+  let loaded = 0;
+  const total = PRODUCT_KEYS.length + 2; // +2 for ETF holdings
+
+  function tick(label) {
+    loaded++;
+    progress.textContent = `${label} (${loaded}/${total})`;
+  }
+
+  // Load all index CSVs in parallel
+  const indexPromises = PRODUCT_KEYS.map(async key => {
+    const rows = await fetchCSV(PRODUCTS[key].file);
+    const parsed = [];
+    for (const row of rows) {
+      const d = parseDate(row['Date']);
+      const v = parseVal(row['Index']);
+      const c = parseVal(row['% Change']);
+      if (d && v != null) {
+        parsed.push({ date: d, dateStr: row['Date'], value: v, change: c });
+      }
+    }
+    parsed.sort((a, b) => a.date - b.date);
+    DATA.raw[key] = parsed;
+    tick(PRODUCTS[key].label);
+    return key;
+  });
+
+  // Load ETF holdings
+  const bdryPromise = fetchCSV('bdry_holdings.csv').then(r => { DATA.bdryHoldings = r; tick('BDRY Holdings'); });
+  const bwetPromise = fetchCSV('bwet_holdings.csv').then(r => { DATA.bwetHoldings = r; tick('BWET Holdings'); });
+
+  await Promise.all([...indexPromises, bdryPromise, bwetPromise]);
+
+  // Build master merged dataset
+  buildMaster();
+
+  DATA.loaded = true;
+  overlay.classList.add('hidden');
+
+  const now = new Date();
+  document.getElementById('updatedAt').textContent =
+    `Data as of ${now.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' })}`;
+}
+
+function buildMaster() {
+  // Collect all unique date strings
+  const allDatesSet = new Set();
+  for (const key of PRODUCT_KEYS) {
+    for (const row of DATA.raw[key]) allDatesSet.add(row.date.getTime());
+  }
+  const allDates = Array.from(allDatesSet).sort((a, b) => a - b);
+
+  // Build lookup maps for each product
+  const maps = {};
+  for (const key of PRODUCT_KEYS) {
+    maps[key] = {};
+    for (const row of DATA.raw[key]) {
+      maps[key][row.date.getTime()] = row;
+    }
+  }
+
+  // Build master array
+  DATA.master = allDates.map(ts => {
+    const d = new Date(ts);
+    const month = d.getMonth(); // 0-indexed
+    const quarter = getQuarter(month);
+    const year = d.getFullYear();
+    const row = { date: d, ts, year, month, quarter };
+    for (const key of PRODUCT_KEYS) {
+      const r = maps[key][ts];
+      row[key] = r ? r.value : null;
+      row[`${key}_change`] = r ? r.change : null;
+    }
+    return row;
+  });
+
+  // Add trading day of year
+  const byYear = {};
+  for (const row of DATA.master) {
+    if (!byYear[row.year]) byYear[row.year] = [];
+    byYear[row.year].push(row);
+  }
+  for (const year in byYear) {
+    byYear[year].forEach((row, i) => { row.tradingDay = i + 1; });
+  }
+  DATA.byYear = byYear;
+
+  // Build date-keyed lookup
+  for (const row of DATA.master) {
+    DATA.masterByDate[row.ts] = row;
+  }
+}
+
+// =====================================================================
+// ANALYTICS
+// =====================================================================
+function computeStats(productKey) {
+  const rows = DATA.master.filter(r => r[productKey] != null);
+  if (!rows.length) return null;
+
+  const latest = rows[rows.length - 1];
+  const currentPrice = latest[productKey];
+  const prevRow = rows[rows.length - 2];
+  const prevPrice = prevRow ? prevRow[productKey] : null;
+  const pctChange = prevPrice ? ((currentPrice - prevPrice) / prevPrice) * 100 : null;
+
+  const now = latest.date;
+  const cutoff10y = new Date(now); cutoff10y.setFullYear(now.getFullYear() - 10);
+  const cutoff5y  = new Date(now); cutoff5y.setFullYear(now.getFullYear() - 5);
+  const cutoff1y  = new Date(now); cutoff1y.setDate(now.getDate() - 365);
+  const cutoff20d = new Date(now); cutoff20d.setDate(now.getDate() - 20);
+
+  const allVals   = rows.map(r => r[productKey]);
+  const vals10y   = rows.filter(r => r.date >= cutoff10y).map(r => r[productKey]);
+  const vals5y    = rows.filter(r => r.date >= cutoff5y).map(r => r[productKey]);
+  const vals1y    = rows.filter(r => r.date >= cutoff1y).map(r => r[productKey]);
+
+  const alltimePctl = percentileRank(allVals, currentPrice);
+  const pctl10y     = percentileRank(vals10y, currentPrice);
+  const pctl5y      = percentileRank(vals5y, currentPrice);
+
+  // Z-score: use all same trading-day values from PRIOR years
+  const currentTradingDay = latest.tradingDay;
+  const sameDayVals = DATA.master
+    .filter(r => r.tradingDay === currentTradingDay && r.year < now.getFullYear() && r[productKey] != null)
+    .map(r => r[productKey]);
+  const allMean   = mean(sameDayVals.length >= 3 ? sameDayVals : allVals);
+  const allStdDev = stddev(sameDayVals.length >= 3 ? sameDayVals : allVals);
+  const zScore    = allStdDev ? (currentPrice - allMean) / allStdDev : 0;
+
+  // 52-week drawdown
+  const max1y = vals1y.length ? Math.max(...vals1y) : currentPrice;
+  const drawdown = (currentPrice - max1y) / max1y;
+
+  // Rate of change 20-day
+  const row20d = rows.filter(r => r.date <= cutoff20d);
+  const price20d = row20d.length ? row20d[row20d.length - 1][productKey] : null;
+  const roc20 = price20d ? ((currentPrice - price20d) / price20d) * 100 : null;
+
+  return {
+    currentPrice, pctChange, alltimePctl, pctl10y, pctl5y, zScore, drawdown, roc20,
+  };
+}
+
+function tradingSignal(stats) {
+  if (!stats) return { text: '⏳ WAIT', cls: 'signal-wait' };
+  const { pctl5y, zScore, alltimePctl } = stats;
+  if (pctl5y > 0.8)                                               return { text: '⛔ SELL (Overheated)',   cls: 'signal-sell' };
+  if (pctl5y < 0.2 && zScore < -0.5 && alltimePctl > 0.4)        return { text: '💎 GOLDEN DIP',          cls: 'signal-golden' };
+  if (pctl5y < 0.1 && zScore < -0.6)                             return { text: '🔥 CATCHING KNIFE',      cls: 'signal-knife' };
+  if (pctl5y < 0.3 && alltimePctl < 0.3)                         return { text: '⚠️ VALUE TRAP',          cls: 'signal-trap' };
+  if (pctl5y < 0.4)                                               return { text: '🔹 ACCUMULATE',          cls: 'signal-accumulate' };
+  return { text: '⏳ WAIT', cls: 'signal-wait' };
+}
+
+function pctColor(pct) {
+  if (pct < 0.3) return 'val-red';
+  if (pct < 0.7) return 'val-yellow';
+  return 'val-green';
+}
+
+// =====================================================================
+// DASHBOARD TAB
+// =====================================================================
+let overlayChart = null;
+let currentYears = [];
+
+function renderDashboard(productKey) {
+  const prod = PRODUCTS[productKey];
+  document.getElementById('dashProductLabel').textContent = prod.label;
+
+  const stats = computeStats(productKey);
+  if (!stats) return;
+
+  // Price & change
+  document.getElementById('dashCurrentPrice').textContent = fmt(stats.currentPrice);
+
+  const changeEl = document.getElementById('dashPriceChange');
+  if (stats.pctChange != null) {
+    const sign = stats.pctChange >= 0 ? '+' : '';
+    changeEl.textContent = `${sign}${stats.pctChange.toFixed(2)}% vs prior day`;
+    changeEl.className = 'current-price-change ' + (stats.pctChange >= 0 ? 'change-pos' : 'change-neg');
+  } else {
+    changeEl.textContent = '—';
+    changeEl.className = 'current-price-change';
+  }
+
+  // Signal
+  const sig = tradingSignal(stats);
+  const sigEl = document.getElementById('dashSignal');
+  sigEl.textContent = sig.text;
+  sigEl.className = 'signal-badge ' + sig.cls;
+
+  // Stats cards
+  function setStat(id, value, label) {
+    const el = document.getElementById(id);
+    el.textContent = label || value;
+    el.className = 'stat-value';
+  }
+
+  const atEl = document.getElementById('statAlltime');
+  atEl.textContent = (stats.alltimePctl * 100).toFixed(1) + '%';
+  atEl.className = 'stat-value ' + pctColor(stats.alltimePctl);
+
+  const t10El = document.getElementById('stat10y');
+  t10El.textContent = (stats.pctl10y * 100).toFixed(1) + '%';
+  t10El.className = 'stat-value ' + pctColor(stats.pctl10y);
+
+  const t5El = document.getElementById('stat5y');
+  t5El.textContent = (stats.pctl5y * 100).toFixed(1) + '%';
+  t5El.className = 'stat-value ' + pctColor(stats.pctl5y);
+
+  const zsEl = document.getElementById('statZscore');
+  zsEl.textContent = stats.zScore.toFixed(2);
+  zsEl.className = 'stat-value ' + (stats.zScore < -1 ? 'val-red' : stats.zScore > 1 ? 'val-green' : 'val-yellow');
+
+  const ddEl = document.getElementById('statDrawdown');
+  ddEl.textContent = (stats.drawdown * 100).toFixed(1) + '%';
+  ddEl.className = 'stat-value ' + (stats.drawdown < -0.3 ? 'val-red' : stats.drawdown < -0.1 ? 'val-yellow' : 'val-green');
+
+  // Build overlay chart
+  renderOverlayChart(productKey);
+}
+
+function renderOverlayChart(productKey) {
+  const years = Object.keys(DATA.byYear).map(Number).sort((a, b) => a - b);
+  const currentYear = new Date().getFullYear();
+
+  // Default comparison years
+  const defaultCompare = years
+    .filter(y => y < currentYear)
+    .slice(-3)
+    .reverse()
+    .slice(0, 3);
+
+  // Build checkboxes
+  const checkboxContainer = document.getElementById('yearCheckboxes');
+  checkboxContainer.innerHTML = '';
+
+  // Only show last N prior years as options (to avoid clutter)
+  const priorYears = years.filter(y => y < currentYear).slice(-8);
+
+  for (const y of priorYears) {
+    const checked = defaultCompare.includes(y) ? 'checked' : '';
+    const color = YEAR_COLORS[priorYears.indexOf(y) % YEAR_COLORS.length];
+    const item = document.createElement('label');
+    item.className = 'year-checkbox-item';
+    item.innerHTML = `<input type="checkbox" value="${y}" ${checked} style="accent-color:${color}"> <span style="color:${color}">${y}</span>`;
+    item.querySelector('input').addEventListener('change', () => buildOverlayChart(productKey));
+    checkboxContainer.appendChild(item);
+  }
+
+  buildOverlayChart(productKey);
+}
+
+function buildOverlayChart(productKey) {
+  const currentYear = new Date().getFullYear();
+  const years = Object.keys(DATA.byYear).map(Number).sort((a, b) => a - b);
+
+  // Get selected years
+  const checkboxes = document.querySelectorAll('#yearCheckboxes input[type=checkbox]:checked');
+  const selectedYears = Array.from(checkboxes).map(cb => parseInt(cb.value));
+
+  const datasets = [];
+  const prod = PRODUCTS[productKey];
+
+  // Find max trading days across all shown years
+  let maxDays = 0;
+  for (const y of [...selectedYears, currentYear]) {
+    const yr = DATA.byYear[y];
+    if (yr) maxDays = Math.max(maxDays, yr.length);
+  }
+  const labels = Array.from({ length: maxDays }, (_, i) => i + 1);
+
+  // Current year - thick bright line
+  const curYearRows = DATA.byYear[currentYear] || [];
+  datasets.push({
+    label: String(currentYear),
+    data: curYearRows.map(r => r[productKey] ?? null),
+    borderColor: prod.color,
+    backgroundColor: 'transparent',
+    borderWidth: 3,
+    pointRadius: 0,
+    tension: 0.2,
+    order: 0,
+  });
+
+  // Prior years
+  const priorYears = years.filter(y => y < currentYear);
+  const checkboxEls = document.querySelectorAll('#yearCheckboxes input[type=checkbox]');
+
+  selectedYears.sort((a, b) => b - a).forEach((y, idx) => {
+    const rows = DATA.byYear[y] || [];
+    const checkEl = Array.from(checkboxEls).find(cb => parseInt(cb.value) === y);
+    const colorIdx = checkEl ? Array.from(checkboxEls).indexOf(checkEl) : idx;
+    const color = YEAR_COLORS[colorIdx % YEAR_COLORS.length];
+    datasets.push({
+      label: String(y),
+      data: rows.map(r => r[productKey] ?? null),
+      borderColor: color,
+      backgroundColor: 'transparent',
+      borderWidth: 1.5,
+      pointRadius: 0,
+      tension: 0.2,
+      borderDash: [],
+      opacity: 0.6,
+      order: idx + 1,
+    });
+  });
+
+  destroyChart('overlayChart');
+  const ctx = document.getElementById('overlayChart').getContext('2d');
+  chartRegistry['overlayChart'] = new Chart(ctx, {
+    type: 'line',
+    data: { labels, datasets },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true } },
+        tooltip: {
+          callbacks: {
+            title: ctx => `Trading Day ${ctx[0].label}`,
+            label: ctx => ` ${ctx.dataset.label}: ${fmt(ctx.parsed.y)}`,
+          },
+        },
+      },
+      scales: {
+        x: {
+          grid: { color: '#21262d' },
+          ticks: { maxTicksLimit: 13, font: { size: 11 } },
+          title: { display: true, text: 'Trading Day of Year', color: '#8b949e', font: { size: 11 } },
+        },
+        y: {
+          grid: { color: '#21262d' },
+          ticks: { font: { size: 11 }, callback: v => fmt(v) },
+          title: { display: true, text: prod.label, color: '#8b949e', font: { size: 11 } },
+        },
+      },
+    },
+  });
+}
+
+// =====================================================================
+// HEATMAPS TAB
+// =====================================================================
+function renderHeatmaps(productKey) {
+  renderQuarterlyHeatmap(productKey);
+  renderMonthlyHeatmap(productKey);
+}
+
+function heatmapColor(ratio) {
+  // red (0) → white (0.5) → green (1)
+  if (ratio <= 0.5) {
+    const t = ratio * 2; // 0 to 1
+    const r = Math.round(248 - t * (248 - 230));
+    const g = Math.round(81  + t * (237 - 81));
+    const b = Math.round(73  + t * (243 - 73));
+    return `rgb(${r},${g},${b})`;
+  } else {
+    const t = (ratio - 0.5) * 2; // 0 to 1
+    const r = Math.round(230 - t * (230 - 63));
+    const g = Math.round(237 - t * (237 - 185));
+    const b = Math.round(243 - t * (243 - 80));
+    return `rgb(${r},${g},${b})`;
+  }
+}
+
+function textColorForBg(ratio) {
+  return ratio > 0.25 && ratio < 0.75 ? '#0d1117' : '#e6edf3';
+}
+
+function renderQuarterlyHeatmap(productKey) {
+  const container = document.getElementById('quarterlyHeatmap');
+  const quarters = ['Q1','Q2','Q3','Q4'];
+
+  // Build matrix: year × quarter → avg value
+  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+  const matrix = {};
+  for (const y of years) {
+    matrix[y] = {};
+    for (const q of quarters) {
+      const vals = DATA.master
+        .filter(r => r.year === y && r.quarter === q && r[productKey] != null)
+        .map(r => r[productKey]);
+      matrix[y][q] = vals.length ? mean(vals) : null;
+    }
+  }
+
+  // Compute per-column min/max for color scaling
+  const colStats = {};
+  for (const q of quarters) {
+    const vals = years.map(y => matrix[y][q]).filter(v => v != null);
+    colStats[q] = { min: Math.min(...vals), max: Math.max(...vals) };
+  }
+
+  let html = `<table class="heatmap-table"><thead><tr>
+    <th>Year</th>${quarters.map(q => `<th>${q}</th>`).join('')}
+  </tr></thead><tbody>`;
+
+  for (const y of [...years].reverse()) {
+    html += `<tr><td class="year-col">${y}</td>`;
+    for (const q of quarters) {
+      const v = matrix[y][q];
+      if (v == null) {
+        html += `<td style="color:#484f58">—</td>`;
+      } else {
+        const { min, max } = colStats[q];
+        const ratio = max > min ? (v - min) / (max - min) : 0.5;
+        const bg = heatmapColor(ratio);
+        const tc = textColorForBg(ratio);
+        html += `<td style="background:${bg};color:${tc}">${fmt(v, 0)}</td>`;
+      }
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  container.innerHTML = html;
+}
+
+function renderMonthlyHeatmap(productKey) {
+  const container = document.getElementById('monthlyHeatmap');
+  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+
+  // Build matrix: year × month → avg
+  const matrix = {};
+  for (const y of years) {
+    matrix[y] = {};
+    for (let m = 0; m < 12; m++) {
+      const vals = DATA.master
+        .filter(r => r.year === y && r.month === m && r[productKey] != null)
+        .map(r => r[productKey]);
+      matrix[y][m] = vals.length ? mean(vals) : null;
+    }
+  }
+
+  // Per-column min/max
+  const colStats = {};
+  for (let m = 0; m < 12; m++) {
+    const vals = years.map(y => matrix[y][m]).filter(v => v != null);
+    colStats[m] = { min: Math.min(...vals), max: Math.max(...vals) };
+  }
+
+  let html = `<table class="heatmap-table"><thead><tr>
+    <th>Year</th>${MONTH_NAMES.map(mn => `<th>${mn}</th>`).join('')}
+  </tr></thead><tbody>`;
+
+  for (const y of [...years].reverse()) {
+    html += `<tr><td class="year-col">${y}</td>`;
+    for (let m = 0; m < 12; m++) {
+      const v = matrix[y][m];
+      if (v == null) {
+        html += `<td style="color:#484f58">—</td>`;
+      } else {
+        const { min, max } = colStats[m];
+        const ratio = max > min ? (v - min) / (max - min) : 0.5;
+        const bg = heatmapColor(ratio);
+        const tc = textColorForBg(ratio);
+        html += `<td style="background:${bg};color:${tc}">${fmt(v, 0)}</td>`;
+      }
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  container.innerHTML = html;
+}
+
+// =====================================================================
+// INDICES TAB
+// =====================================================================
+const indexShowAll = {};
+
+function renderIndicesTab() {
+  const grid = document.getElementById('indicesGrid');
+  grid.innerHTML = '';
+
+  PRODUCT_KEYS.forEach(key => {
+    const prod = PRODUCTS[key];
+    const rows = DATA.raw[key];
+    if (!rows || !rows.length) return;
+
+    const latest = rows[rows.length - 1];
+    const prev   = rows[rows.length - 2];
+    const chg    = prev ? ((latest.value - prev.value) / prev.value * 100) : null;
+    const chgStr = chg != null ? `${chg >= 0 ? '+' : ''}${chg.toFixed(2)}%` : '—';
+    const chgCls = chg == null ? '' : (chg >= 0 ? 'change-pos' : 'change-neg');
+
+    const cardId = `idxCard_${key}`;
+    const canvasId = `idxChart_${key}`;
+
+    const card = document.createElement('div');
+    card.className = 'index-chart-card';
+    card.id = cardId;
+    card.innerHTML = `
+      <div class="index-chart-header">
+        <div class="index-chart-title">${prod.label}</div>
+        <div class="index-chart-subtitle">
+          <span>${fmt(latest.value)}</span>
+          <span class="${chgCls}">${chgStr}</span>
+          <button class="toggle-btn" id="toggleBtn_${key}" onclick="toggleIndexHistory('${key}')">Show All History</button>
+        </div>
+      </div>
+      <div class="index-chart-canvas-wrap">
+        <canvas id="${canvasId}"></canvas>
+      </div>`;
+    grid.appendChild(card);
+
+    indexShowAll[key] = false;
+    buildIndexChart(key, false);
+  });
+}
+
+function toggleIndexHistory(key) {
+  indexShowAll[key] = !indexShowAll[key];
+  const btn = document.getElementById(`toggleBtn_${key}`);
+  btn.textContent = indexShowAll[key] ? 'Show Last 5Y' : 'Show All History';
+  btn.classList.toggle('active', indexShowAll[key]);
+  buildIndexChart(key, indexShowAll[key]);
+}
+
+function buildIndexChart(key, showAll) {
+  const prod = PRODUCTS[key];
+  let rows = DATA.raw[key];
+  if (!rows || !rows.length) return;
+
+  if (!showAll) {
+    const cutoff = new Date();
+    cutoff.setFullYear(cutoff.getFullYear() - 5);
+    rows = rows.filter(r => r.date >= cutoff);
+  }
+
+  const labels = rows.map(r => r.date.toISOString().split('T')[0]);
+  const values = rows.map(r => r.value);
+
+  destroyChart(`idxChart_${key}`);
+  const canvas = document.getElementById(`idxChart_${key}`);
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+
+  chartRegistry[`idxChart_${key}`] = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label: prod.label,
+        data: values,
+        borderColor: prod.color,
+        backgroundColor: prod.color + '18',
+        borderWidth: 1.5,
+        pointRadius: 0,
+        fill: true,
+        tension: 0.1,
+      }],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: ctx => ` ${fmt(ctx.parsed.y)}`,
+            title: ctx => ctx[0].label,
+          },
+        },
+      },
+      scales: {
+        x: {
+          grid: { color: '#21262d' },
+          ticks: {
+            maxTicksLimit: 8,
+            font: { size: 10 },
+            callback: function(val, idx) {
+              return labels[idx] ? labels[idx].slice(0, 7) : '';
+            },
+          },
+        },
+        y: {
+          grid: { color: '#21262d' },
+          ticks: { font: { size: 10 }, callback: v => fmt(v) },
+        },
+      },
+    },
+  });
+}
+
+// =====================================================================
+// ETF TAB
+// =====================================================================
+async function renderETFTab() {
+  const grid = document.getElementById('etfGrid');
+  if (grid.dataset.rendered) return;
+  grid.dataset.rendered = '1';
+  grid.innerHTML = '';
+
+  await Promise.all([
+    renderETFCard('BDRY', 'Breakwave Dry Bulk Shipping ETF', DATA.bdryHoldings, 'bdry', grid),
+    renderETFCard('BWET', 'Breakwave Tanker Shipping ETF',   DATA.bwetHoldings, 'bwet', grid),
+  ]);
+}
+
+function classifyHolding(name, ticker, etf) {
+  const n = (name || '').toLowerCase();
+  const t = (ticker || '').toLowerCase();
+  if (etf === 'bdry') {
+    if (n.includes('capesize') || t.includes('c5tcm')) return 'cape';
+    if (n.includes('panamax')  || t.includes('p5tcm')) return 'pana';
+    if (n.includes('supramax') || t.includes('s58fm')) return 'supra';
+    return 'cash';
+  } else {
+    if (n.includes('td3c') || t.includes('dd3cm')) return 'td3c';
+    if (n.includes('td20') || t.includes('dd20m')) return 'td20';
+    return 'cash';
+  }
+}
+
+function shortenName(name) {
+  // Remove verbose prefixes while keeping meaningful parts
+  return name
+    .replace(/Capesize 5TC FFA 180kt Timecharter Average /i, 'Cape 5TC ')
+    .replace(/Panamax 5TC FFA 82kt Timecharter Average /i, 'Panamax 5TC ')
+    .replace(/Supramax 58 TC FFA 58kt Timecharter Average /i, 'Supra 58 ')
+    .replace(/TD20 FFA 130kt West Africa to Continent USD\/MT /i, 'TD20 ')
+    .replace(/TD3C FFA 270kt Middle East Gulf to China USD\/MT /i, 'TD3C ')
+    .replace(/Invesco Government & Agency Portfolio .*/i, 'Invesco Govt Portfolio')
+    .replace(/M (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec) (\d+)/, '$1 $2');
+}
+
+async function renderETFCard(ticker, name, holdings, etfKey, grid) {
+  const card = document.createElement('div');
+  card.className = 'etf-card';
+  card.id = `etfCard_${etfKey}`;
+  grid.appendChild(card);
+
+  // --- Price fetch ---
+  let priceHTML = '<span style="color:var(--text-muted)">Fetching…</span>';
+  card.innerHTML = buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML);
+
+  // Build charts immediately
+  buildETFDonut(etfKey, holdings);
+
+  // Fetch live price asynchronously
+  try {
+    const yahooUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1d&range=1d`;
+    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(yahooUrl)}`;
+    const resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(10000) });
+    const json = await resp.json();
+    const data = JSON.parse(json.contents);
+    const meta = data.chart.result[0].meta;
+    const price = meta.regularMarketPrice;
+    const chgPct = meta.regularMarketChangePercent;
+    const sign = chgPct >= 0 ? '+' : '';
+    const chgCls = chgPct >= 0 ? 'change-pos' : 'change-neg';
+    priceHTML = `
+      <span class="etf-price">${price != null ? '$' + price.toFixed(2) : '—'}</span>
+      <span class="etf-change ${chgCls}">${chgPct != null ? sign + chgPct.toFixed(2) + '%' : ''}</span>`;
+  } catch (e) {
+    priceHTML = '<span style="color:var(--text-muted);font-size:13px">Price unavailable</span>';
+  }
+
+  const priceEl = card.querySelector('.etf-price-row');
+  if (priceEl) priceEl.innerHTML = priceHTML;
+}
+
+function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
+  // Sort holdings
+  const sorted = sortHoldings([...holdings], etfKey);
+
+  // Build holdings table
+  let tableRows = '';
+  for (const h of sorted) {
+    const cls = classifyHolding(h.Name, h.Ticker, etfKey);
+    const rowCls = `row-${cls}`;
+    const shortName = shortenName(h.Name || '');
+    const lots = parseFloat(h.Lots) || 0;
+    const price = parseFloat(h.Price) || 0;
+    const mv = parseFloat(h.Market_Value) || 0;
+    const wt = h.Weightings || '—';
+    tableRows += `<tr>
+      <td class="${rowCls}">${shortName}</td>
+      <td>${lots % 1 === 0 ? fmt(lots) : lots.toLocaleString()}</td>
+      <td>${price < 200 ? price.toFixed(3) : fmt(price)}</td>
+      <td>$${(mv / 1e6).toFixed(2)}M</td>
+      <td>${wt}</td>
+    </tr>`;
+  }
+
+  // Compute metrics
+  const futuresRows = holdings.filter(h => classifyHolding(h.Name, h.Ticker, etfKey) !== 'cash');
+  const cashRows    = holdings.filter(h => classifyHolding(h.Name, h.Ticker, etfKey) === 'cash');
+  const totalFutures = futuresRows.reduce((s, h) => s + (parseFloat(h.Market_Value) || 0), 0);
+  const totalCash    = cashRows.reduce((s, h) => s + (parseFloat(h.Market_Value) || 0), 0);
+  const totalAUM     = totalFutures + totalCash;
+  const leverage     = totalAUM > 0 ? ((totalFutures / totalAUM) - 1) * 100 : 0;
+
+  return `
+    <div class="etf-header">
+      <div class="etf-ticker">${ticker}</div>
+      <div class="etf-name">${name}</div>
+      <div class="etf-price-row">${priceHTML}</div>
+    </div>
+
+    <div class="etf-section-title">Holdings</div>
+    <table class="holdings-table">
+      <thead><tr>
+        <th>Name</th>
+        <th>Lots</th>
+        <th>Price</th>
+        <th>Mkt Value</th>
+        <th>Weight</th>
+      </tr></thead>
+      <tbody>${tableRows}</tbody>
+    </table>
+
+    <div class="etf-section-title">Exposure Breakdown</div>
+    <div class="donut-wrap">
+      <canvas id="donut_${etfKey}"></canvas>
+    </div>
+
+    <div class="etf-metrics">
+      <div class="etf-metric">
+        <div class="etf-metric-label">Total Futures</div>
+        <div class="etf-metric-value">$${(totalFutures / 1e6).toFixed(1)}M</div>
+      </div>
+      <div class="etf-metric">
+        <div class="etf-metric-label">Cash & Other</div>
+        <div class="etf-metric-value">$${(totalCash / 1e6).toFixed(1)}M</div>
+      </div>
+      <div class="etf-metric">
+        <div class="etf-metric-label">Futures / AUM</div>
+        <div class="etf-metric-value">${(totalFutures / totalAUM * 100).toFixed(1)}%</div>
+      </div>
+    </div>`;
+}
+
+function sortHoldings(holdings, etfKey) {
+  const order = etfKey === 'bdry'
+    ? ['cape', 'pana', 'supra', 'cash']
+    : ['td3c', 'td20', 'cash'];
+  holdings.sort((a, b) => {
+    const ca = classifyHolding(a.Name, a.Ticker, etfKey);
+    const cb = classifyHolding(b.Name, b.Ticker, etfKey);
+    const ia = order.indexOf(ca); const ib = order.indexOf(cb);
+    if (ia !== ib) return ia - ib;
+    // Sort by contract month within same type
+    return (a.Name || '').localeCompare(b.Name || '');
+  });
+  return holdings;
+}
+
+function buildETFDonut(etfKey, holdings) {
+  // Group by type
+  const groups = {};
+  for (const h of holdings) {
+    const cls = classifyHolding(h.Name, h.Ticker, etfKey);
+    groups[cls] = (groups[cls] || 0) + (parseFloat(h.Market_Value) || 0);
+  }
+
+  let labels, values, colors;
+  if (etfKey === 'bdry') {
+    labels = ['Capesize', 'Panamax', 'Supramax', 'Cash & Other'];
+    values = [groups.cape||0, groups.pana||0, groups.supra||0, groups.cash||0];
+    colors = ['#58a6ff', '#3fb950', '#d29922', '#484f58'];
+  } else {
+    labels = ['TD3C', 'TD20', 'Cash & Other'];
+    values = [groups.td3c||0, groups.td20||0, groups.cash||0];
+    colors = ['#f0883e', '#a371f7', '#484f58'];
+  }
+
+  // Wait for canvas to be in DOM
+  setTimeout(() => {
+    const canvas = document.getElementById(`donut_${etfKey}`);
+    if (!canvas) return;
+    destroyChart(`donut_${etfKey}`);
+    const ctx = canvas.getContext('2d');
+    chartRegistry[`donut_${etfKey}`] = new Chart(ctx, {
+      type: 'doughnut',
+      data: {
+        labels,
+        datasets: [{
+          data: values,
+          backgroundColor: colors,
+          borderColor: '#161b22',
+          borderWidth: 2,
+        }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: {
+            position: 'right',
+            labels: { font: { size: 11 }, padding: 8, usePointStyle: true },
+          },
+          tooltip: {
+            callbacks: {
+              label: ctx => {
+                const total = ctx.dataset.data.reduce((s, v) => s + v, 0);
+                const pct = total ? (ctx.parsed / total * 100).toFixed(1) : 0;
+                return ` ${ctx.label}: $${(ctx.parsed / 1e6).toFixed(2)}M (${pct}%)`;
+              },
+            },
+          },
+        },
+      },
+    });
+  }, 50);
+}
+
+// =====================================================================
+// TAB NAVIGATION
+// =====================================================================
+let currentTab = 'dashboard';
+let currentProduct = 'bdiy';
+let heatmapsRendered = false;
+let indicesRendered = false;
+
+function switchTab(tabId) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tabId));
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === `tab-${tabId}`));
+  currentTab = tabId;
+
+  if (!DATA.loaded) return;
+
+  if (tabId === 'dashboard') renderDashboard(currentProduct);
+  if (tabId === 'heatmaps')  renderHeatmaps(currentProduct);
+  if (tabId === 'indices' && !indicesRendered) { renderIndicesTab(); indicesRendered = true; }
+  if (tabId === 'etfs')     renderETFTab();
+}
+
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+});
+
+document.getElementById('globalProduct').addEventListener('change', function() {
+  currentProduct = this.value;
+  if (!DATA.loaded) return;
+  if (currentTab === 'dashboard') renderDashboard(currentProduct);
+  if (currentTab === 'heatmaps')  renderHeatmaps(currentProduct);
+});
+
+// =====================================================================
+// BOOTSTRAP
+// =====================================================================
+(async function init() {
+  try {
+    await loadAllData();
+    renderDashboard(currentProduct);
+  } catch (err) {
+    document.getElementById('loadingOverlay').classList.add('hidden');
+    document.getElementById('tab-dashboard').innerHTML =
+      `<div class="error-msg">❌ Failed to load data: ${err.message}. Make sure CSV files are accessible.</div>`;
+    console.error(err);
+  }
+})();
+</script>
+</body>
+</html>
