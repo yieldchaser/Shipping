@@ -1022,9 +1022,6 @@
        <div class="chart-header">
          <div class="chart-title">BDRY — Liquidity Tracker</div>
          <div class="flex-row" style="gap:6px;align-items:center;">
-           <button class="toggle-btn active" id="bdryLiqBtn1y" onclick="setBdryLiqWindow('1y')">1Y</button>
-           <button class="toggle-btn" id="bdryLiqBtn3y" onclick="setBdryLiqWindow('3y')">3Y</button>
-           <button class="toggle-btn" id="bdryLiqBtnAll" onclick="setBdryLiqWindow('all')">All</button>
            <button class="dl-btn" id="bdryLiqDlBtn">⬇ CSV</button>
          </div>
        </div>
@@ -1032,13 +1029,38 @@
        <!-- Today's stats strip -->
        <div id="bdryLiqKpi" style="display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 18px;"></div>
 
-       <!-- Safe Liquidity chart -->
+       <!-- Safe Liquidity chart + dual range slider -->
        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;">Safe Liquidity ($ per Day)</div>
+       <div class="index-range-wrap" style="padding:2px 0 6px;">
+         <div class="index-range-label">
+           <span>Range:</span>
+           <span id="bdryLiqRangeLabel">Loading…</span>
+         </div>
+         <div class="dual-range-track" id="bdryLiqRangeTrack">
+           <div class="dual-range-fill" id="bdryLiqRangeFill"></div>
+           <input type="range" id="bdryLiqRangeStart" min="0" max="100" value="0" step="1">
+           <input type="range" id="bdryLiqRangeEnd"   min="0" max="100" value="100" step="1">
+         </div>
+       </div>
        <div class="chart-canvas-wrap" style="height:220px;margin-bottom:20px;"><canvas id="bdryLiqChart"></canvas></div>
 
-       <!-- Volume with tier threshold lines -->
+       <!-- Volume with tier threshold lines (synced to same range slider) -->
        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;">Daily Volume &amp; Tier Thresholds</div>
-       <div class="chart-canvas-wrap" style="height:200px;margin-bottom:20px;"><canvas id="bdryVolChart"></canvas></div>
+       <div class="chart-canvas-wrap" style="height:200px;margin-bottom:28px;"><canvas id="bdryVolChart"></canvas></div>
+
+       <!-- Avg Volume & $ Value by rolling window + single-handle range slider -->
+       <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;">Avg Volume &amp; Dollar Value — Rolling Windows</div>
+       <div class="index-range-wrap" style="padding:2px 0 6px;">
+         <div class="index-range-label">
+           <span>Lookback end:</span>
+           <span id="bdryAvgRangeLabel">Latest</span>
+         </div>
+         <div class="dual-range-track" id="bdryAvgRangeTrack">
+           <div class="dual-range-fill" id="bdryAvgRangeFill"></div>
+           <input type="range" id="bdryAvgRangeEnd" min="0" max="100" value="100" step="1">
+         </div>
+       </div>
+       <div class="chart-canvas-wrap" style="height:260px;margin-bottom:20px;"><canvas id="bdryAvgChart"></canvas></div>
 
        <!-- Data table -->
        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">Daily Breakdown</div>
@@ -4272,8 +4294,10 @@ function renderTermCurve(etfKey, holdings, canvasId, slopeId) {
 // =====================================================================
 // BDRY LIQUIDITY TRACKER
 // =====================================================================
-var _bdryLiqData = null; // cached full dataset [{date,close,volume,dollarVol,possShares,safeLiq,chgPct}]
-var _bdryLiqWindow = '1y';
+var _bdryLiqData = null; // cached full dataset
+var _bdryLiqRangeS = 0;  // current slider start index
+var _bdryLiqRangeE = 0;  // current slider end index (set after data loads)
+var _bdryAvgRangeE = 0;  // lookback-end index for avg chart
 
 function getBdryLiqTierPct(volume) {
   if (volume < 50000)  return 0.020;
@@ -4289,28 +4313,14 @@ function getTierLabel(volume) {
   return '6.5% (>500K)';
 }
 
-function setBdryLiqWindow(w) {
-  _bdryLiqWindow = w;
-  ['1y','3y','all'].forEach(function(x) {
-    var el = document.getElementById('bdryLiqBtn' + x);
-    if (el) el.classList.remove('active');
-  });
-  var activeEl = document.getElementById('bdryLiqBtn' + w);
-  if (activeEl) activeEl.classList.add('active');
-  if (_bdryLiqData) buildBdryLiqViews(_bdryLiqData);
-}
-
 async function renderBdryLiquidityTracker() {
   var loadingEl = document.getElementById('bdryLiqLoading');
   if (!loadingEl) return;
 
-  // Single fetch: range=10y via allorigins proxy
-  // Returns full BDRY history from IPO (Mar 2018) in one call — 202KB, confirmed working
   var allRows = [];
 
   try {
     var yahooUrl = 'https://query1.finance.yahoo.com/v8/finance/chart/BDRY?interval=1d&range=10y';
-    // Try multiple CORS proxies in sequence for reliability
     var proxyFns = [
       function(u){ return 'https://corsproxy.io/?' + encodeURIComponent(u); },
       function(u){ return 'https://api.allorigins.win/get?url=' + encodeURIComponent(u); },
@@ -4336,12 +4346,10 @@ async function renderBdryLiquidityTracker() {
 
     if (!allRows.length) throw new Error('No data returned');
 
-    // Sort by date ascending and deduplicate by timestamp
     allRows.sort(function(a,b){ return a.ts - b.ts; });
     var seen = {};
     allRows = allRows.filter(function(r){ if (seen[r.ts]) return false; seen[r.ts]=1; return true; });
 
-    // Compute derived fields
     for (var i = 0; i < allRows.length; i++) {
       var r = allRows[i];
       var pct = getBdryLiqTierPct(r.volume);
@@ -4356,7 +4364,10 @@ async function renderBdryLiquidityTracker() {
 
     _bdryLiqData = allRows;
     loadingEl.style.display = 'none';
-    buildBdryLiqViews(allRows);
+
+    // Init range sliders now that we have data
+    initBdryLiqRangeSlider(allRows);
+    initBdryAvgRangeSlider(allRows);
 
   } catch(err) {
     loadingEl.textContent = '⚠️ Could not load BDRY market data: ' + err.message;
@@ -4380,41 +4391,93 @@ function parseYahooRows(data) {
   return rows;
 }
 
-function getFilteredLiqRows(allRows) {
-  if (_bdryLiqWindow === 'all') return allRows;
-  var cutoff = new Date();
-  if (_bdryLiqWindow === '1y') cutoff.setFullYear(cutoff.getFullYear() - 1);
-  else cutoff.setFullYear(cutoff.getFullYear() - 3);
-  return allRows.filter(function(r){ return r.date >= cutoff; });
+// ── Range slider for Liq + Vol charts (dual-handle, synced) ─────────────────
+function initBdryLiqRangeSlider(allRows) {
+  var total   = allRows.length;
+  var startEl = document.getElementById('bdryLiqRangeStart');
+  var endEl   = document.getElementById('bdryLiqRangeEnd');
+  var fillEl  = document.getElementById('bdryLiqRangeFill');
+  var labelEl = document.getElementById('bdryLiqRangeLabel');
+  if (!startEl || !endEl) return;
+
+  startEl.max = total - 1;
+  endEl.max   = total - 1;
+
+  // Default: last 1 year
+  var cutoff1y = new Date(); cutoff1y.setFullYear(cutoff1y.getFullYear() - 1);
+  var def1yIdx = 0;
+  for (var i = 0; i < total; i++) { if (allRows[i].date >= cutoff1y) { def1yIdx = i; break; } }
+  startEl.value = def1yIdx;
+  endEl.value   = total - 1;
+
+  function update() {
+    var s = parseInt(startEl.value);
+    var e = parseInt(endEl.value);
+    if (s > e) {
+      if (document.activeElement === startEl) { startEl.value = e; s = e; }
+      else { endEl.value = s; e = s; }
+    }
+    _bdryLiqRangeS = s; _bdryLiqRangeE = e;
+    var pctS = (s / (total - 1)) * 100;
+    var pctE = (e / (total - 1)) * 100;
+    if (fillEl) { fillEl.style.left = pctS + '%'; fillEl.style.width = (pctE - pctS) + '%'; }
+    if (labelEl) { labelEl.textContent = allRows[s].dateStr.slice(0,7) + ' → ' + allRows[e].dateStr.slice(0,7); }
+    var rows = allRows.slice(s, e + 1);
+    buildBdryLiqKpi(allRows);  // KPI always latest
+    buildBdryLiqChart(rows);
+    buildBdryVolChart(rows);
+    buildBdryLiqTable(rows);
+    wireBdryLiqDownload(allRows, s, e);
+  }
+
+  // Clone to wipe old listeners
+  var ns = startEl.cloneNode(true); startEl.parentNode.replaceChild(ns, startEl);
+  var ne = endEl.cloneNode(true);   endEl.parentNode.replaceChild(ne, endEl);
+  ns.addEventListener('input', update);
+  ne.addEventListener('input', update);
+  update();
 }
 
-function buildBdryLiqViews(allRows) {
-  var rows = getFilteredLiqRows(allRows);
-  if (!rows.length) return;
+// ── Range slider for Avg chart (single end-handle) ───────────────────────────
+function initBdryAvgRangeSlider(allRows) {
+  var total   = allRows.length;
+  var endEl   = document.getElementById('bdryAvgRangeEnd');
+  var fillEl  = document.getElementById('bdryAvgRangeFill');
+  var labelEl = document.getElementById('bdryAvgRangeLabel');
+  if (!endEl) return;
 
-  buildBdryLiqKpi(allRows); // KPI always uses latest row regardless of window
-  buildBdryLiqChart(rows);
-  buildBdryVolChart(rows);
-  buildBdryLiqTable(rows);
-  wireBdryLiqDownload(allRows);
+  endEl.max   = total - 1;
+  endEl.value = total - 1;
+
+  function update() {
+    var e = parseInt(endEl.value);
+    _bdryAvgRangeE = e;
+    var pctE = (e / (total - 1)) * 100;
+    if (fillEl) { fillEl.style.left = '0%'; fillEl.style.width = pctE + '%'; }
+    if (labelEl) { labelEl.textContent = e === total - 1 ? 'Latest (' + allRows[e].dateStr + ')' : allRows[e].dateStr; }
+    buildBdryAvgChart(allRows, e);
+  }
+
+  var ne = endEl.cloneNode(true); endEl.parentNode.replaceChild(ne, endEl);
+  ne.addEventListener('input', update);
+  update();
 }
 
 function buildBdryLiqKpi(allRows) {
   var el = document.getElementById('bdryLiqKpi');
   if (!el) return;
   var latest = allRows[allRows.length - 1];
-  var prev   = allRows.length > 1 ? allRows[allRows.length - 2] : null;
 
   var kpis = [
-    { label: 'Close',              val: '$' + latest.close.toFixed(2),                            cls: '' },
-    { label: 'Volume',             val: latest.volume.toLocaleString(),                             cls: '' },
-    { label: 'Dollar Vol Traded',  val: '$' + (latest.dollarVol / 1000).toFixed(0) + 'K',         cls: '' },
-    { label: 'Tier',               val: latest.tierLabel,                                           cls: 'val-yellow' },
-    { label: 'Possible Shares',    val: latest.possShares.toLocaleString(),                         cls: 'val-green' },
-    { label: 'Safe Liquidity',     val: '$' + latest.safeLiq.toLocaleString(undefined,{maximumFractionDigits:0}), cls: 'val-green' },
+    { label: 'Close',              val: '$' + latest.close.toFixed(2),                                                          cls: '' },
+    { label: 'Volume',             val: latest.volume.toLocaleString(),                                                          cls: '' },
+    { label: 'Dollar Vol Traded',  val: '$' + (latest.dollarVol / 1000).toFixed(0) + 'K',                                      cls: '' },
+    { label: 'Tier',               val: latest.tierLabel,                                                                        cls: 'val-yellow' },
+    { label: 'Possible Shares',    val: latest.possShares.toLocaleString(),                                                      cls: 'val-green' },
+    { label: 'Safe Liquidity',     val: '$' + latest.safeLiq.toLocaleString(undefined,{maximumFractionDigits:0}),                cls: 'val-green' },
     { label: 'Day Change',         val: latest.chgPct != null ? (latest.chgPct >= 0 ? '+' : '') + latest.chgPct.toFixed(2) + '%' : '—',
       cls: latest.chgPct == null ? '' : latest.chgPct >= 0 ? 'val-green' : 'val-red' },
-    { label: 'As of',              val: latest.dateStr,                                             cls: 'val-muted' },
+    { label: 'As of',              val: latest.dateStr,                                                                          cls: '' },
   ];
 
   el.innerHTML = kpis.map(function(k) {
@@ -4461,14 +4524,12 @@ function buildBdryLiqChart(rows) {
 function buildBdryVolChart(rows) {
   var labels  = rows.map(function(r){ return r.dateStr; });
   var volumes = rows.map(function(r){ return r.volume; });
-  // Colour each bar by tier
   var barColors = rows.map(function(r){
-    if (r.volume < 50000)  return 'rgba(248,81,73,0.7)';   // red   — 2%  tier
-    if (r.volume < 100000) return 'rgba(227,179,65,0.7)';  // yellow — 3.5% tier
-    if (r.volume < 500000) return 'rgba(88,166,255,0.7)';  // blue   — 5%  tier
-    return 'rgba(63,185,80,0.7)';                           // green  — 6.5% tier
+    if (r.volume < 50000)  return 'rgba(248,81,73,0.7)';
+    if (r.volume < 100000) return 'rgba(227,179,65,0.7)';
+    if (r.volume < 500000) return 'rgba(88,166,255,0.7)';
+    return 'rgba(63,185,80,0.7)';
   });
-  // Threshold lines
   var t50k  = rows.map(function(){ return 50000; });
   var t100k = rows.map(function(){ return 100000; });
   var t500k = rows.map(function(){ return 500000; });
@@ -4479,9 +4540,9 @@ function buildBdryVolChart(rows) {
     type: 'bar',
     data: { labels: labels, datasets: [
       { label: 'Volume', data: volumes, backgroundColor: barColors, borderWidth: 0, order: 2 },
-      { label: '50K (2% tier)',   data: t50k,  type:'line', borderColor:'rgba(248,81,73,0.5)',  borderWidth:1, borderDash:[4,4], pointRadius:0, fill:false, order:1 },
-      { label: '100K (3.5% tier)',data: t100k, type:'line', borderColor:'rgba(227,179,65,0.5)', borderWidth:1, borderDash:[4,4], pointRadius:0, fill:false, order:1 },
-      { label: '500K (5% tier)',  data: t500k, type:'line', borderColor:'rgba(88,166,255,0.5)', borderWidth:1, borderDash:[4,4], pointRadius:0, fill:false, order:1 },
+      { label: '50K (2% tier)',    data: t50k,  type:'line', borderColor:'rgba(248,81,73,0.5)',  borderWidth:1, borderDash:[4,4], pointRadius:0, fill:false, order:1 },
+      { label: '100K (3.5% tier)', data: t100k, type:'line', borderColor:'rgba(227,179,65,0.5)', borderWidth:1, borderDash:[4,4], pointRadius:0, fill:false, order:1 },
+      { label: '500K (5% tier)',   data: t500k, type:'line', borderColor:'rgba(88,166,255,0.5)', borderWidth:1, borderDash:[4,4], pointRadius:0, fill:false, order:1 },
     ]},
     options: {
       responsive: true, maintainAspectRatio: false,
@@ -4504,11 +4565,105 @@ function buildBdryVolChart(rows) {
   });
 }
 
+// ── Avg Volume & Dollar Value bar chart ──────────────────────────────────────
+function buildBdryAvgChart(allRows, endIdx) {
+  // Windows: trading days (approx) — 10D=10, 20D=20, 1M=21, 3M=63, 6M=126, 12M=252, 24M=504
+  var windows = [
+    { label: '10D',  days: 10  },
+    { label: '20D',  days: 20  },
+    { label: '1M',   days: 21  },
+    { label: '3M',   days: 63  },
+    { label: '6M',   days: 126 },
+    { label: '12M',  days: 252 },
+    { label: '24M',  days: 504 },
+  ];
+
+  // Slice data up to endIdx (inclusive)
+  var pool = allRows.slice(0, endIdx + 1);
+
+  var avgVols    = [];
+  var avgDolVols = [];
+
+  windows.forEach(function(w) {
+    var slice = pool.slice(-w.days);  // last N rows up to endIdx
+    if (!slice.length) { avgVols.push(null); avgDolVols.push(null); return; }
+    var sumVol = 0, sumDol = 0;
+    slice.forEach(function(r){ sumVol += r.volume; sumDol += r.dollarVol; });
+    avgVols.push(sumVol / slice.length);
+    avgDolVols.push(sumDol / slice.length);
+  });
+
+  var labels = windows.map(function(w){ return w.label; });
+
+  destroyChart('bdryAvgChart');
+  var canvas = document.getElementById('bdryAvgChart'); if (!canvas) return;
+  chartRegistry['bdryAvgChart'] = new Chart(canvas.getContext('2d'), {
+    type: 'bar',
+    data: {
+      labels: labels,
+      datasets: [
+        {
+          label: 'Avg Volume (shares)',
+          data: avgVols,
+          backgroundColor: 'rgba(88,166,255,0.75)',
+          borderColor: '#58a6ff',
+          borderWidth: 1,
+          borderRadius: 4,
+          yAxisID: 'yVol',
+        },
+        {
+          label: 'Avg $ Value Traded',
+          data: avgDolVols,
+          backgroundColor: 'rgba(63,185,80,0.70)',
+          borderColor: '#3fb950',
+          borderWidth: 1,
+          borderRadius: 4,
+          yAxisID: 'yDol',
+        },
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 }, padding: 12 } },
+        tooltip: { callbacks: {
+          label: function(c) {
+            if (c.dataset.yAxisID === 'yVol') return ' Avg Volume: ' + Math.round(c.parsed.y).toLocaleString();
+            return ' Avg $ Value: $' + (c.parsed.y >= 1e6
+              ? (c.parsed.y / 1e6).toFixed(2) + 'M'
+              : (c.parsed.y / 1e3).toFixed(0) + 'K');
+          }
+        }}
+      },
+      scales: {
+        x: {
+          grid: { color: '#151a22' },
+          ticks: { font: { size: 11 } }
+        },
+        yVol: {
+          type: 'linear',
+          position: 'left',
+          grid: { color: '#151a22' },
+          ticks: { font: { size: 10 }, callback: function(v){ return v >= 1000 ? (v/1000).toFixed(0) + 'K' : v; } },
+          title: { display: true, text: 'Avg Volume', color: '#58a6ff', font: { size: 10 } }
+        },
+        yDol: {
+          type: 'linear',
+          position: 'right',
+          grid: { drawOnChartArea: false },
+          ticks: { font: { size: 10 }, callback: function(v){ return v >= 1e6 ? '$' + (v/1e6).toFixed(1) + 'M' : '$' + (v/1e3).toFixed(0) + 'K'; } },
+          title: { display: true, text: 'Avg $ Value', color: '#3fb950', font: { size: 10 } }
+        }
+      }
+    }
+  });
+}
+
 function buildBdryLiqTable(rows) {
   var tableEl = document.getElementById('bdryLiqTable');
   if (!tableEl) return;
 
-  // Show newest first
   var rev = rows.slice().reverse();
 
   var html = '<table class="yearly-table" style="min-width:720px;font-size:12px;">';
@@ -4526,7 +4681,6 @@ function buildBdryLiqTable(rows) {
   rev.forEach(function(r) {
     var chgCls = r.chgPct == null ? '' : r.chgPct >= 0 ? 'val-green' : 'val-red';
     var chgStr = r.chgPct != null ? (r.chgPct >= 0 ? '+' : '') + r.chgPct.toFixed(2) + '%' : '—';
-    // Tier colour
     var tierCls = r.volume < 50000 ? 'val-red' : r.volume < 100000 ? 'val-yellow' : r.volume < 500000 ? '' : 'val-green';
 
     html += '<tr>';
@@ -4545,27 +4699,24 @@ function buildBdryLiqTable(rows) {
   tableEl.innerHTML = html;
 }
 
-function wireBdryLiqDownload(allRows) {
+function wireBdryLiqDownload(allRows, s, e) {
   var btn = document.getElementById('bdryLiqDlBtn');
   if (!btn) return;
   btn.onclick = function() {
-    var rows = getFilteredLiqRows(allRows).slice().reverse();
+    var rows = allRows.slice(s, e + 1).slice().reverse();
     var headers = ['Date','Close','Volume','Dollar Vol Traded','Tier %','Possible Shares','Safe Liquidity ($)','Day Change %'];
     var csvRows = rows.map(function(r){
       return [
-        r.dateStr,
-        r.close.toFixed(2),
-        r.volume,
-        Math.round(r.dollarVol),
-        (r.tierPct * 100).toFixed(1) + '%',
-        r.possShares,
-        Math.round(r.safeLiq),
+        r.dateStr, r.close.toFixed(2), r.volume,
+        Math.round(r.dollarVol), (r.tierPct * 100).toFixed(1) + '%',
+        r.possShares, Math.round(r.safeLiq),
         r.chgPct != null ? r.chgPct.toFixed(2) + '%' : ''
       ];
     });
     downloadCSV('bdry_liquidity.csv', headers, csvRows);
   };
 }
+
 
 </script>
 </body>
