@@ -4389,19 +4389,21 @@ function initBdryLiqRangeSlider(allRows) {
   var labelEl = document.getElementById('bdryLiqRangeLabel');
   if (!startEl || !endEl) return;
 
-  startEl.max = total - 1;
-  endEl.max   = total - 1;
+  // Set range and default to full dataset
+  startEl.max = total - 1;  endEl.max = total - 1;
+  startEl.value = 0;        endEl.value = total - 1;
 
-  // Default: full range (all available data)
-  startEl.value = 0;
-  endEl.value   = total - 1;
+  // Clone first to remove any stale listeners, THEN wire update so the
+  // closure captures the live DOM nodes (ns/ne), not the detached originals
+  var ns = startEl.cloneNode(true); startEl.parentNode.replaceChild(ns, startEl);
+  var ne = endEl.cloneNode(true);   endEl.parentNode.replaceChild(ne, endEl);
 
   function update() {
-    var s = parseInt(startEl.value);
-    var e = parseInt(endEl.value);
+    var s = parseInt(ns.value);
+    var e = parseInt(ne.value);
     if (s > e) {
-      if (document.activeElement === startEl) { startEl.value = e; s = e; }
-      else { endEl.value = s; e = s; }
+      if (document.activeElement === ns) { ns.value = e; s = e; }
+      else { ne.value = s; e = s; }
     }
     _bdryLiqRangeS = s; _bdryLiqRangeE = e;
     var pctS = (s / (total - 1)) * 100;
@@ -4409,19 +4411,16 @@ function initBdryLiqRangeSlider(allRows) {
     if (fillEl) { fillEl.style.left = pctS + '%'; fillEl.style.width = (pctE - pctS) + '%'; }
     if (labelEl) { labelEl.textContent = allRows[s].dateStr.slice(0,7) + ' → ' + allRows[e].dateStr.slice(0,7); }
     var rows = allRows.slice(s, e + 1);
-    buildBdryLiqKpi(allRows);  // KPI always latest
+    buildBdryLiqKpi(allRows);  // KPI always uses latest row
     buildBdryLiqChart(rows);
     buildBdryVolChart(rows);
     buildBdryLiqTable(rows);
     wireBdryLiqDownload(allRows, s, e);
   }
 
-  // Clone to wipe old listeners
-  var ns = startEl.cloneNode(true); startEl.parentNode.replaceChild(ns, startEl);
-  var ne = endEl.cloneNode(true);   endEl.parentNode.replaceChild(ne, endEl);
   ns.addEventListener('input', update);
   ne.addEventListener('input', update);
-  update();
+  update();  // initial render
 }
 
 
