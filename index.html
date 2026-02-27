@@ -732,6 +732,7 @@
   <button class="tab-btn" data-tab="heatmaps">🌡️ Heatmaps</button>
   <button class="tab-btn" data-tab="indices">📈 Indices</button>
   <button class="tab-btn" data-tab="etfs">🏦 ETFs</button>
+  <button class="tab-btn" data-tab="signals">🎯 Signals</button>
 </div>
 
 <div class="alerts-container" id="alertsContainer">
@@ -1086,6 +1087,72 @@
       </div>
       <div style="overflow-x:auto"><div id="monthlyDataGrid"></div></div>
     </div>
+  </div>
+
+  <!-- ===== TAB: SIGNALS ===== -->
+  <div class="tab-panel" id="tab-signals">
+
+    <!-- 1. Bollinger Bands -->
+    <div class="chart-container mb-20">
+      <div class="chart-header">
+        <div class="chart-title">Bollinger Bands (20-Day, 2σ)</div>
+        <div class="flex-row" style="gap:6px;align-items:center;">
+          <button class="toggle-btn active" id="bbBtn1y" onclick="setBBWindow('1y')">1Y</button>
+          <button class="toggle-btn" id="bbBtn3y" onclick="setBBWindow('3y')">3Y</button>
+          <button class="toggle-btn" id="bbBtn5y" onclick="setBBWindow('5y')">5Y</button>
+        </div>
+      </div>
+      <div class="chart-canvas-wrap" style="height:320px"><canvas id="bbChart"></canvas></div>
+    </div>
+
+    <!-- 2. Cape/Panamax Spread -->
+    <div class="chart-container mb-20">
+      <div class="chart-header">
+        <div class="chart-title">Cape / Panamax Ratio — Iron Ore vs Bulk Grain Proxy</div>
+        <div class="flex-row" style="gap:6px;align-items:center;">
+          <button class="toggle-btn active" id="spreadBtn3y" onclick="setSpreadWindow('3y')">3Y</button>
+          <button class="toggle-btn" id="spreadBtn5y" onclick="setSpreadWindow('5y')">5Y</button>
+          <button class="toggle-btn" id="spreadBtnAll" onclick="setSpreadWindow('all')">All</button>
+        </div>
+      </div>
+      <div class="chart-canvas-wrap" style="height:320px"><canvas id="spreadChart"></canvas></div>
+    </div>
+
+    <!-- 3. Rate-of-Change Heatmap -->
+    <div class="chart-container mb-20">
+      <div class="chart-header">
+        <div class="chart-title">Rate-of-Change Heatmap — All Products × Timeframes</div>
+      </div>
+      <div id="rocHeatmap" style="overflow-x:auto;margin-top:4px;"></div>
+    </div>
+
+    <!-- 4. Seasonal Decomposition -->
+    <div class="chart-container mb-20">
+      <div class="chart-header">
+        <div class="chart-title">Seasonal Pattern — Avg Intra-Year ± 1σ (All Years)</div>
+      </div>
+      <div class="chart-canvas-wrap" style="height:320px"><canvas id="seasonalChart"></canvas></div>
+    </div>
+
+    <!-- 5. Term Structure Slope -->
+    <div class="chart-container mb-20">
+      <div class="chart-header">
+        <div class="chart-title">FFA Term Structure — BDRY &amp; BWET Curve Shape</div>
+      </div>
+      <div id="termStructurePanel" style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:4px;">
+        <div>
+          <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">BDRY — Dry Bulk FFA Curve</div>
+          <div class="chart-canvas-wrap" style="height:240px"><canvas id="termBdryChart"></canvas></div>
+          <div id="termBdrySlope" style="margin-top:8px;font-size:12px;"></div>
+        </div>
+        <div>
+          <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:8px;">BWET — Tanker FFA Curve</div>
+          <div class="chart-canvas-wrap" style="height:240px"><canvas id="termBwetChart"></canvas></div>
+          <div id="termBwetSlope" style="margin-top:8px;font-size:12px;"></div>
+        </div>
+      </div>
+    </div>
+
   </div>
 
 </div><!-- /main -->
@@ -2937,6 +3004,7 @@ function switchTab(tabId) {
   if (tabId === 'etfs')     renderETFTab();
   if (tabId === 'yearly-dash')    renderYearlyDash(currentProduct);
   if (tabId === 'monthly-dash')   renderMonthlyDash(currentProduct);
+  if (tabId === 'signals') renderSignalsTab(currentProduct);
 }
 
 document.querySelectorAll('.tab-btn').forEach(btn => {
@@ -2951,6 +3019,7 @@ document.getElementById('globalProduct').addEventListener('change', function() {
   if (currentTab === 'quarterly') renderQuarterlyTab(currentProduct);
   if (currentTab === 'yearly-dash')    renderYearlyDash(currentProduct);
   if (currentTab === 'monthly-dash')   renderMonthlyDash(currentProduct);
+  if (currentTab === 'signals') renderSignalsTab(currentProduct);
 });
 
 // =====================================================================
@@ -3585,6 +3654,483 @@ function renderQDDataGrid(productKey) {
     });
     downloadCSV('quarterly_dash_'+productKey+'.csv',headers,rows);
   };
+}
+
+// =====================================================================
+// SIGNALS TAB
+// =====================================================================
+
+var _bbWindow = '1y';
+var _spreadWindow = '3y';
+
+function renderSignalsTab(productKey) {
+  var fns = [
+    function(){ renderBollingerBands(productKey); },
+    function(){ renderCapeSpread(); },
+    function(){ renderROCHeatmap(); },
+    function(){ renderSeasonalChart(productKey); },
+    function(){ renderTermStructure(); },
+  ];
+  fns.forEach(function(fn){
+    try { fn(); } catch(e) { console.error('[SignalsTab]', e); }
+  });
+}
+
+// -------------------------------------------------------
+// 1. BOLLINGER BANDS
+// -------------------------------------------------------
+function setBBWindow(w) {
+  _bbWindow = w;
+  ['1y','3y','5y'].forEach(function(x){
+    var el = document.getElementById('bbBtn' + x);
+    if (el) el.classList.remove('active');
+  });
+  var activeEl = document.getElementById('bbBtn' + w);
+  if (activeEl) activeEl.classList.add('active');
+  renderBollingerBands(typeof _currentBBProduct !== 'undefined' ? _currentBBProduct : 'bdiy');
+}
+
+var _currentBBProduct = 'bdiy';
+
+function renderBollingerBands(productKey) {
+  _currentBBProduct = productKey;
+  var allRows = getRows(productKey);
+  if (!allRows.length) return;
+
+  // Filter by window
+  var cutoff = new Date();
+  if (_bbWindow === '1y') cutoff.setFullYear(cutoff.getFullYear() - 1);
+  else if (_bbWindow === '3y') cutoff.setFullYear(cutoff.getFullYear() - 3);
+  else cutoff.setFullYear(cutoff.getFullYear() - 5);
+  var rows = allRows.filter(function(r){ return r.date >= cutoff; });
+  if (!rows.length) return;
+
+  var period = 20;
+  var labels = [], prices = [], upper = [], lower = [], mid = [];
+
+  rows.forEach(function(r, i) {
+    labels.push(r.date.toISOString().split('T')[0]);
+    var val = r[productKey];
+    prices.push(val);
+
+    // Compute 20-day SMA and stddev from allRows (need enough lookback)
+    var globalIdx = allRows.indexOf(r);
+    var slice = [];
+    for (var j = Math.max(0, globalIdx - period + 1); j <= globalIdx; j++) {
+      if (allRows[j][productKey] != null) slice.push(allRows[j][productKey]);
+    }
+    if (slice.length < 2) { mid.push(null); upper.push(null); lower.push(null); return; }
+    var m = slice.reduce(function(a,b){return a+b;},0) / slice.length;
+    var sd = Math.sqrt(slice.reduce(function(a,b){return a+(b-m)*(b-m);},0) / slice.length);
+    mid.push(m);
+    upper.push(m + 2 * sd);
+    lower.push(m - 2 * sd);
+  });
+
+  var prod = PRODUCTS[productKey];
+  destroyChart('bbChart');
+  var canvas = document.getElementById('bbChart'); if (!canvas) return;
+  chartRegistry['bbChart'] = new Chart(canvas.getContext('2d'), {
+    type: 'line',
+    data: { labels: labels, datasets: [
+      { label: prod.label,     data: prices, borderColor: prod.color,   backgroundColor: prod.color + '22', borderWidth: 2,   pointRadius: 0, fill: false, tension: 0.1, order: 1 },
+      { label: 'Upper Band',   data: upper,  borderColor: '#f85149',    backgroundColor: 'rgba(248,81,73,0.08)', borderWidth: 1, pointRadius: 0, fill: '+1',  tension: 0.1, order: 2, borderDash: [3,3] },
+      { label: '20D SMA',      data: mid,    borderColor: '#e3b341',    backgroundColor: 'transparent',     borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, order: 3, borderDash: [5,3] },
+      { label: 'Lower Band',   data: lower,  borderColor: '#3fb950',    backgroundColor: 'rgba(63,185,80,0.08)',  borderWidth: 1, pointRadius: 0, fill: false, tension: 0.1, order: 4, borderDash: [3,3] },
+    ]},
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+        tooltip: { callbacks: {
+          title: function(c){ return c[0].label; },
+          label: function(c){ return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y); }
+        }}
+      },
+      scales: {
+        x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function(_, i){ return labels[i] ? labels[i].slice(0,7) : ''; } } },
+        y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function(v){ return fmt(v); } } },
+      },
+    },
+  });
+}
+
+// -------------------------------------------------------
+// 2. CAPE / PANAMAX SPREAD RATIO
+// -------------------------------------------------------
+function setSpreadWindow(w) {
+  _spreadWindow = w;
+  ['3y','5y','all'].forEach(function(x){
+    var el = document.getElementById('spreadBtn' + x);
+    if (el) el.classList.remove('active');
+  });
+  var activeEl = document.getElementById('spreadBtn' + w);
+  if (activeEl) activeEl.classList.add('active');
+  renderCapeSpread();
+}
+
+function renderCapeSpread() {
+  // Use raw daily data — both series must have a value on same date
+  var capeRows = DATA.raw['cape'];
+  var panaRows = DATA.raw['panama'];
+  if (!capeRows || !panaRows || !capeRows.length || !panaRows.length) return;
+
+  // Build lookup for panamax by date ts
+  var panaMap = {};
+  panaRows.forEach(function(r){ panaMap[r.date.getTime()] = r.value; });
+
+  // Build ratio series
+  var allRatio = [];
+  capeRows.forEach(function(r){
+    var pv = panaMap[r.date.getTime()];
+    if (r.value != null && pv != null && pv > 0) {
+      allRatio.push({ date: r.date, ratio: r.value / pv });
+    }
+  });
+  if (!allRatio.length) return;
+
+  // Filter window
+  var cutoff = new Date();
+  if (_spreadWindow === '3y') cutoff.setFullYear(cutoff.getFullYear() - 3);
+  else if (_spreadWindow === '5y') cutoff.setFullYear(cutoff.getFullYear() - 5);
+  else cutoff = new Date('2008-01-01');
+  var rows = allRatio.filter(function(r){ return r.date >= cutoff; });
+  if (!rows.length) return;
+
+  var labels = rows.map(function(r){ return r.date.toISOString().split('T')[0]; });
+  var ratios = rows.map(function(r){ return r.ratio; });
+
+  // Rolling 252-day percentile rank for each point
+  var allRatioVals = allRatio.map(function(r){ return r.ratio; });
+  var percentiles = rows.map(function(r, i){
+    var globalIdx = allRatio.indexOf(r);
+    var start = Math.max(0, globalIdx - 251);
+    var slice = allRatioVals.slice(start, globalIdx + 1);
+    var below = slice.filter(function(v){ return v <= r.ratio; }).length;
+    return (below / slice.length) * 100;
+  });
+
+  // Mean ratio line
+  var totalMean = allRatioVals.reduce(function(a,b){return a+b;},0) / allRatioVals.length;
+  var meanLine = rows.map(function(){ return totalMean; });
+
+  destroyChart('spreadChart');
+  var canvas = document.getElementById('spreadChart'); if (!canvas) return;
+  chartRegistry['spreadChart'] = new Chart(canvas.getContext('2d'), {
+    type: 'line',
+    data: { labels: labels, datasets: [
+      { label: 'Cape/Panamax Ratio', data: ratios,    yAxisID: 'yRatio', borderColor: '#58a6ff', backgroundColor: '#58a6ff22', borderWidth: 2,   pointRadius: 0, fill: true,  tension: 0.1 },
+      { label: 'Historical Mean',    data: meanLine,  yAxisID: 'yRatio', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0,   borderDash: [6,3] },
+      { label: '252D Percentile',    data: percentiles, yAxisID: 'yPctl', borderColor: '#a371f7', backgroundColor: 'transparent', borderWidth: 1,   pointRadius: 0, fill: false, tension: 0.1, borderDash: [2,2] },
+    ]},
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+        tooltip: { callbacks: {
+          title: function(c){ return c[0].label; },
+          label: function(c){
+            if (c.dataset.label === '252D Percentile') return ' Percentile: ' + c.parsed.y.toFixed(1) + '%';
+            return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(3);
+          }
+        }}
+      },
+      scales: {
+        x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function(_, i){ return labels[i] ? labels[i].slice(0,7) : ''; } } },
+        yRatio: { position: 'left',  grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function(v){ return v.toFixed(2); } }, title: { display: true, text: 'Ratio', color: '#8b949e', font: { size: 11 } } },
+        yPctl:  { position: 'right', grid: { drawOnChartArea: false }, min: 0, max: 100, ticks: { font: { size: 11 }, callback: function(v){ return v + '%'; } }, title: { display: true, text: 'Pctl', color: '#8b949e', font: { size: 11 } } },
+      },
+    },
+  });
+}
+
+// -------------------------------------------------------
+// 3. RATE-OF-CHANGE HEATMAP
+// -------------------------------------------------------
+function renderROCHeatmap() {
+  var container = document.getElementById('rocHeatmap');
+  if (!container) return;
+
+  var periods = [
+    { label: '5D',  days: 5  },
+    { label: '10D', days: 10 },
+    { label: '20D', days: 20 },
+    { label: '60D', days: 60 },
+    { label: '90D', days: 90 },
+    { label: '1Y',  days: 252 },
+  ];
+
+  // For each product, get latest value and value N days ago
+  var prodLabels = { bdiy:'BDI', cape:'Capesize', panama:'Panamax', suprama:'Supramax', cleantanker:'Clean Tanker', dirtytanker:'Dirty Tanker' };
+
+  var html = '<table class="heatmap-table" style="min-width:520px;width:100%"><thead><tr>';
+  html += '<th style="text-align:left">Product</th>';
+  periods.forEach(function(p){ html += '<th>' + p.label + '</th>'; });
+  html += '</tr></thead><tbody>';
+
+  PRODUCT_KEYS.forEach(function(key) {
+    var rows = getRows(key);
+    if (!rows.length) { html += '<tr><td>' + prodLabels[key] + '</td>' + periods.map(function(){ return '<td>—</td>'; }).join('') + '</tr>'; return; }
+    var latest = rows[rows.length - 1];
+    var latestVal = latest[key];
+
+    html += '<tr><td style="text-align:left;color:var(--text);font-weight:600;padding:8px 10px;">' + prodLabels[key] + '</td>';
+    periods.forEach(function(p) {
+      // Find row approx p.days ago
+      var target = new Date(latest.date);
+      target.setDate(target.getDate() - p.days);
+      // Find nearest row at or before target
+      var pastRow = null;
+      for (var i = rows.length - 1; i >= 0; i--) {
+        if (rows[i].date <= target) { pastRow = rows[i]; break; }
+      }
+      if (!pastRow || pastRow[key] == null || pastRow[key] === 0) {
+        html += '<td style="color:#484f58">—</td>';
+        return;
+      }
+      var roc = ((latestVal - pastRow[key]) / pastRow[key]) * 100;
+      var bg = heatmapColorPct(roc);
+      var sign = roc >= 0 ? '+' : '';
+      html += '<td style="background:' + bg + ';color:#e6edf3;font-weight:600;font-size:12px;">' + sign + roc.toFixed(1) + '%</td>';
+    });
+    html += '</tr>';
+  });
+
+  html += '</tbody></table>';
+
+  // Add a note row
+  html += '<div style="font-size:11px;color:var(--text-muted);margin-top:8px;">Color scale: <span style="color:#f85149">■</span> &lt;−15% &nbsp;|&nbsp; <span style="color:#e6edf3">■</span> 0% &nbsp;|&nbsp; <span style="color:#3fb950">■</span> &gt;+15%</div>';
+
+  container.innerHTML = html;
+}
+
+// -------------------------------------------------------
+// 4. SEASONAL DECOMPOSITION
+// -------------------------------------------------------
+var _currentSeasonalProduct = 'bdiy';
+
+function renderSeasonalChart(productKey) {
+  _currentSeasonalProduct = productKey;
+  var prod = PRODUCTS[productKey];
+
+  // Build day-of-year average and stddev across all years
+  // Use trading day of year (1..252) — already computed in DATA.byYear
+  var maxTD = 0;
+  var years = Object.keys(DATA.byYear).map(Number);
+  years.forEach(function(y){ if (DATA.byYear[y].length > maxTD) maxTD = DATA.byYear[y].length; });
+
+  // For each trading day slot, collect all historical values (excluding current year)
+  var currentYear = new Date().getFullYear();
+  var byTD = {}; // td -> [values]
+  years.forEach(function(y) {
+    if (y === currentYear) return; // exclude current year from seasonal baseline
+    DATA.byYear[y].forEach(function(r) {
+      var td = r.tradingDay;
+      if (r[productKey] == null) return;
+      if (!byTD[td]) byTD[td] = [];
+      byTD[td].push(r[productKey]);
+    });
+  });
+
+  // Build seasonal average and ±1σ bands, normalised as % of annual mean so all products are comparable
+  // Actually keep absolute values — more useful for reading entry points
+  var labels = [], avgLine = [], upperBand = [], lowerBand = [], currentYearLine = [];
+  var curYearRows = DATA.byYear[currentYear] || [];
+  var curYearByTD = {};
+  curYearRows.forEach(function(r){ curYearByTD[r.tradingDay] = r[productKey]; });
+
+  for (var td = 1; td <= maxTD; td++) {
+    labels.push('TD' + td);
+    var vals = byTD[td] || [];
+    if (vals.length < 2) {
+      avgLine.push(null); upperBand.push(null); lowerBand.push(null);
+    } else {
+      var m = vals.reduce(function(a,b){return a+b;},0) / vals.length;
+      var sd = Math.sqrt(vals.reduce(function(a,b){return a+(b-m)*(b-m);},0) / vals.length);
+      avgLine.push(m);
+      upperBand.push(m + sd);
+      lowerBand.push(m - sd);
+    }
+    currentYearLine.push(curYearByTD[td] != null ? curYearByTD[td] : null);
+  }
+
+  destroyChart('seasonalChart');
+  var canvas = document.getElementById('seasonalChart'); if (!canvas) return;
+  chartRegistry['seasonalChart'] = new Chart(canvas.getContext('2d'), {
+    type: 'line',
+    data: { labels: labels, datasets: [
+      { label: String(currentYear),  data: currentYearLine, borderColor: prod.color,   backgroundColor: 'transparent',         borderWidth: 2.5, pointRadius: 0, fill: false, tension: 0.2, spanGaps: true, order: 1 },
+      { label: 'Seasonal Avg',        data: avgLine,         borderColor: '#e3b341',   backgroundColor: 'rgba(227,179,65,0.12)', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.3, order: 2, borderDash: [5,3] },
+      { label: '+1σ',                 data: upperBand,       borderColor: '#484f58',   backgroundColor: 'rgba(72,79,88,0.15)',  borderWidth: 1,   pointRadius: 0, fill: '+1',  tension: 0.3, order: 3, borderDash: [2,2] },
+      { label: '−1σ',                 data: lowerBand,       borderColor: '#484f58',   backgroundColor: 'transparent',         borderWidth: 1,   pointRadius: 0, fill: false, tension: 0.3, order: 4, borderDash: [2,2] },
+    ]},
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+        tooltip: { callbacks: {
+          title: function(c){ return c[0].label; },
+          label: function(c){ return c.parsed.y != null ? ' ' + c.dataset.label + ': ' + fmt(c.parsed.y) : null; }
+        }}
+      },
+      scales: {
+        x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 13, font: { size: 11 },
+          callback: function(_, i) {
+            // Show approximate month labels: every ~21 trading days
+            var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+            var approxMonth = Math.floor(i / 21);
+            if (i % 21 === 0 && approxMonth < 12) return months[approxMonth];
+            return '';
+          }
+        }},
+        y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function(v){ return fmt(v); } } },
+      },
+    },
+  });
+}
+
+// -------------------------------------------------------
+// 5. TERM STRUCTURE / FFA CURVE SLOPE
+// -------------------------------------------------------
+function renderTermStructure() {
+  renderTermCurve('bdry', DATA.bdryHoldings, 'termBdryChart', 'termBdrySlope');
+  renderTermCurve('bwet', DATA.bwetHoldings, 'termBwetChart', 'termBwetSlope');
+}
+
+function parseContractMonth(name, ticker) {
+  // Extract month/year from names like "Cape 5TC M Feb 26" or ticker "C5TCM G26"
+  // Try name first: look for 3-letter month + 2-digit year
+  var monthMap = {Jan:1,Feb:2,Mar:3,Apr:4,May:5,Jun:6,Jul:7,Aug:8,Sep:9,Oct:10,Nov:11,Dec:12};
+  var nameMatch = (name || '').match(/\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{2,4})\b/i);
+  if (nameMatch) {
+    var mon = monthMap[nameMatch[1].charAt(0).toUpperCase() + nameMatch[1].slice(1).toLowerCase()];
+    var yr = parseInt(nameMatch[2]);
+    if (yr < 100) yr += 2000;
+    return { sortKey: yr * 100 + mon, label: nameMatch[1].charAt(0).toUpperCase() + nameMatch[1].slice(1).toLowerCase() + ' ' + yr };
+  }
+  // Try ticker: e.g. G26 = Feb 2026, H26 = Mar 2026 (CME month codes)
+  var cmeMap = {F:1,G:2,H:3,J:4,K:5,M:6,N:7,Q:8,U:9,V:10,X:11,Z:12};
+  var tickerMatch = (ticker || '').match(/([FGHJKMNQUVXZ])(\d{2})(?:\s|$|INDEX)/i);
+  if (tickerMatch) {
+    var mon2 = cmeMap[tickerMatch[1].toUpperCase()];
+    var yr2 = 2000 + parseInt(tickerMatch[2]);
+    var monthNames = ['','Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return { sortKey: yr2 * 100 + mon2, label: monthNames[mon2] + ' ' + yr2 };
+  }
+  return null;
+}
+
+function renderTermCurve(etfKey, holdings, canvasId, slopeId) {
+  if (!holdings || !holdings.length) return;
+
+  // Filter out cash/collateral rows — keep only futures
+  var futuresTypes = etfKey === 'bdry' ? ['cape','pana','supra'] : ['td3c','td20'];
+
+  // Group by vessel type, sort by contract month
+  var groups = {};
+  holdings.forEach(function(h) {
+    var cls = classifyHolding(h.Name, h.Ticker, etfKey);
+    if (futuresTypes.indexOf(cls) === -1) return;
+    var parsed = parseContractMonth(h.Name, h.Ticker);
+    if (!parsed) return;
+    var price = parseFloat(h.Price);
+    if (isNaN(price) || price <= 0) return;
+    if (!groups[cls]) groups[cls] = [];
+    groups[cls].push({ sortKey: parsed.sortKey, label: parsed.label, price: price });
+  });
+
+  // Sort each group by contract month
+  Object.keys(groups).forEach(function(cls){
+    groups[cls].sort(function(a,b){ return a.sortKey - b.sortKey; });
+  });
+
+  // Build datasets — one per vessel class
+  var colorMap = {
+    cape: '#58a6ff', pana: '#3fb950', supra: '#d29922',
+    td3c: '#f0883e', td20: '#a371f7'
+  };
+  var labelMap = {
+    cape: 'Capesize', pana: 'Panamax', supra: 'Supramax',
+    td3c: 'MEG-China (TD3C)', td20: 'WAF-Continent (TD20)'
+  };
+
+  // Collect all labels (contract months) in sorted order
+  var allMonths = [];
+  var seen = {};
+  Object.keys(groups).forEach(function(cls){
+    groups[cls].forEach(function(c){
+      if (!seen[c.label]) { seen[c.label] = c.sortKey; allMonths.push({ label: c.label, sortKey: c.sortKey }); }
+    });
+  });
+  allMonths.sort(function(a,b){ return a.sortKey - b.sortKey; });
+  var xLabels = allMonths.map(function(m){ return m.label; });
+
+  var datasets = Object.keys(groups).map(function(cls) {
+    var priceByLabel = {};
+    groups[cls].forEach(function(c){ priceByLabel[c.label] = c.price; });
+    return {
+      label: labelMap[cls],
+      data: xLabels.map(function(l){ return priceByLabel[l] != null ? priceByLabel[l] : null; }),
+      borderColor: colorMap[cls],
+      backgroundColor: colorMap[cls] + '30',
+      borderWidth: 2,
+      pointRadius: 5,
+      pointHoverRadius: 7,
+      fill: false,
+      tension: 0.1,
+      spanGaps: false,
+    };
+  });
+
+  if (!datasets.length) return;
+
+  destroyChart(canvasId);
+  var canvas = document.getElementById(canvasId); if (!canvas) return;
+  chartRegistry[canvasId] = new Chart(canvas.getContext('2d'), {
+    type: 'line',
+    data: { labels: xLabels, datasets: datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+        tooltip: { callbacks: {
+          title: function(c){ return c[0].label; },
+          label: function(c){ return c.parsed.y != null ? ' ' + c.dataset.label + ': ' + fmt(c.parsed.y) : null; }
+        }}
+      },
+      scales: {
+        x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } } },
+        y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function(v){ return fmt(v); } },
+          title: { display: true, text: etfKey === 'bdry' ? '$/day' : '$/MT', color: '#8b949e', font: { size: 11 } } },
+      },
+    },
+  });
+
+  // Compute and display slope signal for each group
+  var slopeEl = document.getElementById(slopeId);
+  if (!slopeEl) return;
+  var slopeHtml = '';
+  Object.keys(groups).forEach(function(cls) {
+    var pts = groups[cls];
+    if (pts.length < 2) return;
+    var front = pts[0].price;
+    var back  = pts[pts.length - 1].price;
+    var slope = ((back - front) / front) * 100;
+    var structure = slope > 1.5 ? 'Contango' : slope < -1.5 ? 'Backwardation' : 'Flat';
+    var structureColor = slope < -1.5 ? '#3fb950' : slope > 1.5 ? '#f85149' : '#e3b341';
+    var structureIcon  = slope < -1.5 ? '📉' : slope > 1.5 ? '📈' : '➡️';
+    slopeHtml += '<span style="margin-right:16px;font-size:12px;">' +
+      '<span style="color:' + colorMap[cls] + ';font-weight:700">' + labelMap[cls] + '</span>' +
+      ' &nbsp;' + structureIcon +
+      ' <span style="color:' + structureColor + ';font-weight:600">' + structure + '</span>' +
+      ' <span style="color:var(--text-muted)">(' + (slope >= 0 ? '+' : '') + slope.toFixed(1) + '% F→B)</span>' +
+      '</span>';
+  });
+  slopeEl.innerHTML = slopeHtml;
 }
 
 </script>
