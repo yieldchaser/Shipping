@@ -492,9 +492,9 @@
   .research-link a:hover { color: var(--accent); text-decoration: underline; }
   .research-link-icon { font-size: 12px; flex-shrink: 0; margin-top: 1px; }
   /* Fundamentals section */
-  .etf-fundamentals-section { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--border); min-height: 260px; }
-  .etf-fund-group { margin-bottom: 14px; }
-  .etf-fund-group:first-child { min-height: 182px; }
+  .etf-fundamentals-section { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--border); }
+  .etf-fund-groups-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+  .etf-fund-group { margin-bottom: 0; }
   .etf-fund-group-label { font-size: 10px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 5px; }
   .etf-fund-link { display: flex; align-items: flex-start; gap: 6px; padding: 4px 0; }
   .etf-fund-link a { color: var(--text); font-size: 12px; text-decoration: none; transition: color 0.15s; }
@@ -3028,19 +3028,21 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
     </div>
     <div class="etf-fundamentals-section">
       <div class="etf-research-title">🚢 Dry Bulk Fundamentals — Data Sources</div>
-      <div class="etf-fund-group">
-        <div class="etf-fund-group-label">China Steel &amp; Bulk Demand</div>
-        <div class="etf-fund-link"><span class="research-link-icon">📊</span><a href="https://en.macromicro.me/collections/20/mm-steel/221/china-crude-steel-production" target="_blank" rel="noopener">China Steel Production</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">📦</span><a href="https://en.macromicro.me/collections/20/mm-steel/7688/china-total-inventories-of-major-steel-products" target="_blank" rel="noopener">China Steel Inventories</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">⛏️</span><a href="https://en.macromicro.me/collections/20/mm-steel/208/cn-china-iron-ore-inventory" target="_blank" rel="noopener">China Iron Ore Inventories</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🚢</span><a href="https://en.macromicro.me/series/1323/cn-import-volume-of-iron-ore-and-concentrate" target="_blank" rel="noopener">China Iron Ore Imports</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🔥</span><a href="https://en.macromicro.me/series/1327/cn-import-volume-of-coal-and-lignite" target="_blank" rel="noopener">China Coal Imports</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🌱</span><a href="https://en.macromicro.me/series/7453/china-soybean-import" target="_blank" rel="noopener">China Soybean Imports</a></div>
-      </div>
-      <div class="etf-fund-group">
-        <div class="etf-fund-group-label">Export Flow Indicators</div>
-        <div class="etf-fund-link"><span class="research-link-icon">🇧🇷</span><a href="https://en.macromicro.me/charts/43101/brazil-export" target="_blank" rel="noopener">Brazil Iron Ore Exports</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🇦🇺</span><a href="https://en.macromicro.me/series/4676/australia-iron-ore-export-value" target="_blank" rel="noopener">Australia Iron Ore Export Value</a></div>
+      <div class="etf-fund-groups-row">
+        <div class="etf-fund-group">
+          <div class="etf-fund-group-label">China Steel &amp; Bulk Demand</div>
+          <div class="etf-fund-link"><span class="research-link-icon">📊</span><a href="https://en.macromicro.me/collections/20/mm-steel/221/china-crude-steel-production" target="_blank" rel="noopener">China Steel Production</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">📦</span><a href="https://en.macromicro.me/collections/20/mm-steel/7688/china-total-inventories-of-major-steel-products" target="_blank" rel="noopener">China Steel Inventories</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">⛏️</span><a href="https://en.macromicro.me/collections/20/mm-steel/208/cn-china-iron-ore-inventory" target="_blank" rel="noopener">China Iron Ore Inventories</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">🚢</span><a href="https://en.macromicro.me/series/1323/cn-import-volume-of-iron-ore-and-concentrate" target="_blank" rel="noopener">China Iron Ore Imports</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">🔥</span><a href="https://en.macromicro.me/series/1327/cn-import-volume-of-coal-and-lignite" target="_blank" rel="noopener">China Coal Imports</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">🌱</span><a href="https://en.macromicro.me/series/7453/china-soybean-import" target="_blank" rel="noopener">China Soybean Imports</a></div>
+        </div>
+        <div class="etf-fund-group">
+          <div class="etf-fund-group-label">Export Flow Indicators</div>
+          <div class="etf-fund-link"><span class="research-link-icon">🇧🇷</span><a href="https://en.macromicro.me/charts/43101/brazil-export" target="_blank" rel="noopener">Brazil Iron Ore Exports</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">🇦🇺</span><a href="https://en.macromicro.me/series/4676/australia-iron-ore-export-value" target="_blank" rel="noopener">Australia Iron Ore Export Value</a></div>
+        </div>
       </div>
     </div>` : `
     <div class="etf-image-block">
@@ -3057,18 +3059,20 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
     </div>
     <div class="etf-fundamentals-section">
       <div class="etf-research-title">🛢 Tanker Fundamentals — Data Sources</div>
-      <div class="etf-fund-group">
-        <div class="etf-fund-group-label">Crude &amp; Product Demand</div>
-        <div class="etf-fund-link"><span class="research-link-icon">🛢</span><a href="https://tradingeconomics.com/commodity/crude-oil" target="_blank" rel="noopener">WTI Crude Oil Price</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">📦</span><a href="https://www.eia.gov/petroleum/supply/weekly/" target="_blank" rel="noopener">US Crude Oil Inventories</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🇨🇳</span><a href="https://tradingeconomics.com/china/crude-oil-imports" target="_blank" rel="noopener">China Crude Oil Imports</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🏭</span><a href="https://tradingeconomics.com/china/refinery-throughput" target="_blank" rel="noopener">China Refinery Throughput</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">📊</span><a href="https://www.eia.gov/petroleum/weekly/crude.php" target="_blank" rel="noopener">US Crude Oil Production</a></div>
-      </div>
-      <div class="etf-fund-group">
-        <div class="etf-fund-group-label">Key Trade Routes</div>
-        <div class="etf-fund-link"><span class="research-link-icon">🟪</span><a href="https://in.tradingview.com/symbols/NYMEX-TL1!/" target="_blank" rel="noopener">TD3C — Ras Tanura (MEG) → Ningbo (Far East)</a></div>
-        <div class="etf-fund-link"><span class="research-link-icon">🟪</span><a href="https://in.tradingview.com/symbols/NYMEX-T2D1!/" target="_blank" rel="noopener">TD20 — Nigeria (WAF) → Rotterdam</a></div>
+      <div class="etf-fund-groups-row">
+        <div class="etf-fund-group">
+          <div class="etf-fund-group-label">Crude &amp; Product Demand</div>
+          <div class="etf-fund-link"><span class="research-link-icon">🛢</span><a href="https://tradingeconomics.com/commodity/crude-oil" target="_blank" rel="noopener">WTI Crude Oil Price</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">📦</span><a href="https://www.eia.gov/petroleum/supply/weekly/" target="_blank" rel="noopener">US Crude Oil Inventories</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">🇨🇳</span><a href="https://tradingeconomics.com/china/crude-oil-imports" target="_blank" rel="noopener">China Crude Oil Imports</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">🏭</span><a href="https://tradingeconomics.com/china/refinery-throughput" target="_blank" rel="noopener">China Refinery Throughput</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">📊</span><a href="https://www.eia.gov/petroleum/weekly/crude.php" target="_blank" rel="noopener">US Crude Oil Production</a></div>
+        </div>
+        <div class="etf-fund-group">
+          <div class="etf-fund-group-label">Key Trade Routes</div>
+          <div class="etf-fund-link"><span class="research-link-icon">🟪</span><a href="https://in.tradingview.com/symbols/NYMEX-TL1!/" target="_blank" rel="noopener">TD3C — Ras Tanura (MEG) → Ningbo (Far East)</a></div>
+          <div class="etf-fund-link"><span class="research-link-icon">🟪</span><a href="https://in.tradingview.com/symbols/NYMEX-T2D1!/" target="_blank" rel="noopener">TD20 — Nigeria (WAF) → Rotterdam</a></div>
+        </div>
       </div>
     </div>`}
     <div class="etf-research-section">
