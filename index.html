@@ -469,6 +469,33 @@
   .etf-metric-label { font-size: 10px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.3px; margin-bottom: 4px; }
   .etf-metric-value { font-size: 15px; font-weight: 700; color: var(--text); }
 
+  /* ETF Research Links */
+  .etf-research-section { margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border); }
+  .etf-research-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-bottom: 10px; }
+  .research-group { margin-bottom: 12px; }
+  .research-group-label { font-size: 10px; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 5px; }
+  .research-link { display: flex; align-items: flex-start; gap: 6px; padding: 5px 0; border-bottom: 1px solid var(--grid); }
+  .research-link:last-child { border-bottom: none; }
+  .research-link a { color: var(--text); font-size: 12px; text-decoration: none; transition: color 0.15s; word-break: break-word; }
+  .research-link a:hover { color: var(--accent); text-decoration: underline; }
+  .research-link-icon { font-size: 12px; flex-shrink: 0; margin-top: 1px; }
+  /* Fundamentals section */
+  .etf-fundamentals-section { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--border); }
+  .etf-fund-group { margin-bottom: 14px; }
+  .etf-fund-group-label { font-size: 10px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 5px; }
+  .etf-fund-link { display: flex; align-items: flex-start; gap: 6px; padding: 4px 0; }
+  .etf-fund-link a { color: var(--text); font-size: 12px; text-decoration: none; transition: color 0.15s; }
+  .etf-fund-link a:hover { color: var(--accent); text-decoration: underline; }
+  /* ETF image */
+  .etf-card-image { width: 100%; margin-top: 16px; border-radius: 6px; border: 1px solid var(--border); object-fit: contain; max-height: 320px; }
+  /* Routes section */
+  .etf-routes-section { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--border); }
+  .etf-routes-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-bottom: 10px; }
+  .etf-route-item { display: flex; align-items: flex-start; gap: 8px; padding: 7px 0; border-bottom: 1px solid var(--grid); font-size: 12px; }
+  .etf-route-item:last-child { border-bottom: none; }
+  .etf-route-code { font-weight: 700; color: var(--accent); min-width: 42px; flex-shrink: 0; }
+  .etf-route-desc { color: var(--text-muted); }
+
   /* QUARTERLY TAB */
   .win-rate-row {
     display: flex;
@@ -2855,6 +2882,13 @@ async function renderETFCard(ticker, name, holdings, etfKey, grid) {
     } else {
       priceHTML = '<span style="color:var(--text-muted);font-size:13px">Price unavailable</span>';
     }
+    if (meta) {
+      const navEl = card.querySelector(`#etfNav_${etfKey}`);
+      if (navEl) {
+        const nav = meta.navPrice ?? meta.regularMarketPrice;
+        navEl.textContent = nav != null ? '$' + nav.toFixed(2) : '—';
+      }
+    }
   } catch (e) {
     priceHTML = '<span style="color:var(--text-muted);font-size:13px">Price unavailable</span>';
   }
@@ -2905,6 +2939,9 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
   const totalCash    = cashRows.reduce((s, h) => s + (parseFloat(h.Market_Value) || 0), 0);
   const totalAUM     = totalFutures + totalCash;
 
+  const leverageVal = totalCash > 0 ? ((totalAUM / totalCash) - 1) : null;
+  const leverageStr = leverageVal !== null ? leverageVal.toFixed(2) + 'x' : '—';
+
   return `
     <div class="etf-header">
       <div class="etf-ticker">${ticker}</div>
@@ -2934,20 +2971,79 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
       <canvas id="donut_${etfKey}"></canvas>
     </div>
 
-    <div class="etf-metrics">
+    <div class="etf-metrics" style="grid-template-columns: repeat(3,1fr); margin-bottom:8px;">
       <div class="etf-metric">
         <div class="etf-metric-label">Total Futures</div>
         <div class="etf-metric-value">$${(totalFutures / 1e6).toFixed(1)}M</div>
       </div>
       <div class="etf-metric">
         <div class="etf-metric-label">Collateral Cash</div>
-        <div class="etf-metric-value" style="color:var(--text-muted)">${(totalCash / 1e6).toFixed(1)}M</div>
+        <div class="etf-metric-value" style="color:var(--text-muted)">$${(totalCash / 1e6).toFixed(1)}M</div>
       </div>
       <div class="etf-metric">
         <div class="etf-metric-label">Futures / AUM</div>
         <div class="etf-metric-value" style="color:var(--green)">${(totalFutures / totalAUM * 100).toFixed(1)}%</div>
       </div>
-    </div>`;
+    </div>
+    <div class="etf-metrics" style="grid-template-columns: repeat(3,1fr);">
+      <div class="etf-metric">
+        <div class="etf-metric-label">NAV</div>
+        <div class="etf-metric-value etf-nav-val" id="etfNav_${etfKey}">—</div>
+      </div>
+      <div class="etf-metric">
+        <div class="etf-metric-label">Expense Ratio</div>
+        <div class="etf-metric-value" style="color:var(--text-muted)">3.50%</div>
+      </div>
+      <div class="etf-metric">
+        <div class="etf-metric-label">Leverage ((Exp/Cash)−1)</div>
+        <div class="etf-metric-value" style="color:var(--yellow)">${leverageStr}</div>
+      </div>
+    </div>
+    ${etfKey === 'bdry' ? `
+    <img src="Picture1.png" alt="BDRY Chart" class="etf-card-image" />
+    <div class="etf-fundamentals-section">
+      <div class="etf-research-title">🚢 Dry Bulk Fundamentals — Data Sources</div>
+      <div class="etf-fund-group">
+        <div class="etf-fund-group-label">China Steel &amp; Bulk Demand</div>
+        <div class="etf-fund-link"><span class="research-link-icon">📊</span><a href="https://en.macromicro.me/collections/20/mm-steel/221/china-crude-steel-production" target="_blank" rel="noopener">China Steel Production</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">📦</span><a href="https://en.macromicro.me/collections/20/mm-steel/7688/china-total-inventories-of-major-steel-products" target="_blank" rel="noopener">China Steel Inventories</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">⛏️</span><a href="https://en.macromicro.me/collections/20/mm-steel/208/cn-china-iron-ore-inventory" target="_blank" rel="noopener">China Iron Ore Inventories</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">🚢</span><a href="https://en.macromicro.me/series/1323/cn-import-volume-of-iron-ore-and-concentrate" target="_blank" rel="noopener">China Iron Ore Imports</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">🔥</span><a href="https://en.macromicro.me/series/1327/cn-import-volume-of-coal-and-lignite" target="_blank" rel="noopener">China Coal Imports</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">🌱</span><a href="https://en.macromicro.me/series/7453/china-soybean-import" target="_blank" rel="noopener">China Soybean Imports</a></div>
+      </div>
+      <div class="etf-fund-group">
+        <div class="etf-fund-group-label">Export Flow Indicators</div>
+        <div class="etf-fund-link"><span class="research-link-icon">🇧🇷</span><a href="https://en.macromicro.me/charts/43101/brazil-export" target="_blank" rel="noopener">Brazil Iron Ore Exports</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">🇦🇺</span><a href="https://en.macromicro.me/series/4676/australia-iron-ore-export-value" target="_blank" rel="noopener">Australia Iron Ore Export Value</a></div>
+      </div>
+    </div>` : `
+    <img src="Picture4.png" alt="BWET Chart" class="etf-card-image" />
+    <div class="etf-routes-section">
+      <div class="etf-routes-title">🛢 Key Routes to Monitor</div>
+      <div class="etf-route-item">
+        <span class="etf-route-code">TD3C</span>
+        <span class="etf-route-desc">Ras Tanura (Middle East) → Ningbo (Far East)</span>
+      </div>
+      <div class="etf-route-item">
+        <span class="etf-route-code">TD20</span>
+        <span class="etf-route-desc">Nigeria → Rotterdam</span>
+      </div>
+    </div>`}
+    <div class="etf-research-section">
+      <div class="etf-research-title">📰 Market Outlook &amp; Research Sources</div>
+      <div class="research-group">
+        <div class="research-group-label">Monthly &amp; Weekly Market Outlooks</div>
+        <div class="research-link"><span class="research-link-icon">🏛️</span><a href="https://www.atheniansa.gr/reports" target="_blank" rel="noopener">Athenia S.A. — Reports &amp; Market Outlooks</a></div>
+        <div class="research-link"><span class="research-link-icon">📋</span><a href="https://www.breakwaveadvisors.com/research" target="_blank" rel="noopener">Breakwave Advisors — Research (New report every 2nd &amp; 4th Tuesday)</a></div>
+        <div class="research-link"><span class="research-link-icon">🔗</span><a href="https://www.bimco.org/news-and-trends/market-analysis" target="_blank" rel="noopener">BIMCO — Market Analysis</a></div>
+      </div>
+      <div class="research-group">
+        <div class="research-group-label">ETF Data</div>
+        <div class="research-link"><span class="research-link-icon">📈</span><a href="${etfKey === 'bdry' ? 'https://amplifyetfs.com/bdry/' : 'https://amplifyetfs.com/bwet/'}" target="_blank" rel="noopener">Amplify ETFs — ${ticker} Official Page</a></div>
+      </div>
+    </div>
+`;
 }
 
 function sortHoldings(holdings, etfKey) {
