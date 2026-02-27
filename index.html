@@ -4309,14 +4309,29 @@ async function renderBdryLiquidityTracker() {
   var allRows = [];
 
   try {
-    var proxyBase = 'https://api.allorigins.win/get?url=';
-    var yahooUrl  = 'https://query1.finance.yahoo.com/v8/finance/chart/BDRY?interval=1d&range=10y';
-
-    var resp = await fetch(proxyBase + encodeURIComponent(yahooUrl), { signal: AbortSignal.timeout(20000) });
-    if (!resp.ok) throw new Error('Proxy returned HTTP ' + resp.status);
-    var json = await resp.json();
-    if (!json.contents || json.contents[0] === '<') throw new Error('Proxy returned non-JSON contents');
-    var data = JSON.parse(json.contents);
+    var yahooUrl = 'https://query1.finance.yahoo.com/v8/finance/chart/BDRY?interval=1d&range=10y';
+    // Try multiple CORS proxies in sequence for reliability
+    var proxyFns = [
+      function(u){ return 'https://corsproxy.io/?' + encodeURIComponent(u); },
+      function(u){ return 'https://api.allorigins.win/get?url=' + encodeURIComponent(u); },
+      function(u){ return 'https://thingproxy.freeboard.io/fetch/' + u; },
+    ];
+    var data = null;
+    for (var pi = 0; pi < proxyFns.length; pi++) {
+      try {
+        var proxyUrl = proxyFns[pi](yahooUrl);
+        var resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(15000) });
+        if (!resp.ok) continue;
+        var text = await resp.text();
+        var parsed;
+        try {
+          var wrapper = JSON.parse(text);
+          parsed = (wrapper.contents && wrapper.contents[0] !== '<') ? JSON.parse(wrapper.contents) : wrapper;
+        } catch(pe) { continue; }
+        if (parsed && parsed.chart && parsed.chart.result && parsed.chart.result.length) { data = parsed; break; }
+      } catch(fe) { continue; }
+    }
+    if (!data) throw new Error('All proxies failed — try again later');
     allRows = parseYahooRows(data);
 
     if (!allRows.length) throw new Error('No data returned');
