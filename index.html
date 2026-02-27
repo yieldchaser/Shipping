@@ -10,17 +10,17 @@
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --bg: #0d1117;
-    --card: #161b22;
-    --border: #30363d;
+    --bg: #080c10;
+    --card: #0f1318;
+    --border: #1e2530;
     --text: #e6edf3;
     --text-muted: #8b949e;
     --accent: #58a6ff;
     --green: #3fb950;
     --red: #f85149;
-    --yellow: #d29922;
-    --grid: #21262d;
-    --hover: #1f2937;
+    --yellow: #e3b341;
+    --grid: #151a22;
+    --hover: #141920;
   }
 
   body {
@@ -107,7 +107,7 @@
   /* LOADING */
   .loading-overlay {
     position: fixed; inset: 0;
-    background: rgba(13,17,23,0.92);
+    background: rgba(8,12,16,0.95);
     display: flex; flex-direction: column; align-items: center; justify-content: center;
     z-index: 9999;
     gap: 16px;
@@ -163,35 +163,41 @@
     font-weight: 700;
     letter-spacing: 0.3px;
   }
-  .signal-sell { background: rgba(248,81,73,0.2); color: #f85149; border: 1px solid rgba(248,81,73,0.4); }
-  .signal-golden { background: rgba(255,215,0,0.15); color: #ffd700; border: 1px solid rgba(255,215,0,0.4); }
-  .signal-knife { background: rgba(255,140,0,0.15); color: #ff8c00; border: 1px solid rgba(255,140,0,0.4); }
-  .signal-trap { background: rgba(139,148,158,0.15); color: #8b949e; border: 1px solid rgba(139,148,158,0.4); }
-  .signal-accumulate { background: rgba(88,166,255,0.15); color: #58a6ff; border: 1px solid rgba(88,166,255,0.4); }
-  .signal-wait { background: rgba(230,237,243,0.1); color: #e6edf3; border: 1px solid rgba(230,237,243,0.2); }
+  .signal-sell       { background: rgba(248,81,73,0.25);   color: #f85149; border: 1px solid rgba(248,81,73,0.4); }
+  .signal-golden     { background: rgba(255,215,0,0.25);   color: #ffd700; border: 1px solid rgba(255,215,0,0.4); }
+  .signal-knife      { background: rgba(255,140,0,0.25);   color: #ff8c00; border: 1px solid rgba(255,140,0,0.4); }
+  .signal-trap       { background: rgba(139,148,158,0.25); color: #8b949e; border: 1px solid rgba(139,148,158,0.4); }
+  .signal-accumulate { background: rgba(88,166,255,0.25);  color: #58a6ff; border: 1px solid rgba(88,166,255,0.4); }
+  .signal-wait       { background: rgba(230,237,243,0.1);  color: #e6edf3; border: 1px solid rgba(230,237,243,0.2); }
 
   .stats-row {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     gap: 12px;
     margin-bottom: 20px;
   }
-  @media (max-width: 900px) { .stats-row { grid-template-columns: repeat(3, 1fr); } }
-  @media (max-width: 600px) { .stats-row { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 1100px) { .stats-row { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 600px)  { .stats-row { grid-template-columns: repeat(2, 1fr); } }
 
   .stat-card {
     background: var(--card);
     border: 1px solid var(--border);
     border-radius: 8px;
     padding: 14px 16px;
+    border-left: 3px solid var(--accent);
   }
+  .stat-card.sc-percentile  { border-left-color: #58a6ff; }
+  .stat-card.sc-zscore      { border-left-color: #a371f7; }
+  .stat-card.sc-drawdown    { border-left-color: #f85149; }
+  .stat-card.sc-roc         { border-left-color: #3fb950; }
   .stat-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 6px; }
   .stat-value { font-size: 22px; font-weight: 700; }
   .stat-sub { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
-  .val-red { color: var(--red); }
+  .val-red    { color: var(--red); }
   .val-yellow { color: var(--yellow); }
-  .val-green { color: var(--green); }
-  .val-white { color: var(--text); }
+  .val-green  { color: var(--green); }
+  .val-white  { color: var(--text); }
+  .val-accent { color: var(--accent); }
 
   /* CHART CONTAINERS */
   .chart-container {
@@ -218,6 +224,94 @@
   .year-checkbox-item input { cursor: pointer; accent-color: var(--accent); }
   .chart-canvas-wrap { height: 320px; position: relative; }
 
+  /* DRAWDOWN CHART */
+  .drawdown-chart-wrap { height: 320px; position: relative; }
+
+  /* YEARLY PERFORMANCE TABLE */
+  .collapsible-section { margin-top: 20px; }
+  .collapsible-toggle {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 16px;
+    width: 100%;
+    text-align: left;
+    color: var(--text);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: border-color 0.15s;
+  }
+  .collapsible-toggle:hover { border-color: var(--accent); }
+  .collapsible-toggle .toggle-arrow { transition: transform 0.2s; }
+  .collapsible-toggle.open .toggle-arrow { transform: rotate(180deg); }
+  .collapsible-content { display: none; padding-top: 12px; }
+  .collapsible-content.open { display: block; }
+
+  .yearly-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  .yearly-table th {
+    background: var(--bg);
+    color: var(--text-muted);
+    font-weight: 600;
+    padding: 7px 10px;
+    text-align: right;
+    border: 1px solid var(--border);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+  .yearly-table th:first-child { text-align: left; }
+  .yearly-table td {
+    padding: 6px 10px;
+    text-align: right;
+    border: 1px solid var(--grid);
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text);
+  }
+  .yearly-table td:first-child { text-align: left; color: var(--text-muted); font-weight: 600; }
+  .yearly-table tr:hover td { background: var(--hover); }
+
+  /* CORRELATION MATRIX */
+  .corr-section { margin-top: 20px; }
+  .corr-title { font-size: 14px; font-weight: 600; margin-bottom: 12px; color: var(--text); }
+  .corr-timeframe-btns { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+  .corr-btn {
+    background: var(--bg);
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 5px 14px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .corr-btn:hover, .corr-btn.active { border-color: var(--accent); color: var(--accent); background: rgba(88,166,255,0.08); }
+  .corr-table { border-collapse: collapse; font-size: 12px; }
+  .corr-table th {
+    background: var(--bg);
+    color: var(--text-muted);
+    font-weight: 600;
+    padding: 7px 10px;
+    text-align: center;
+    border: 1px solid var(--border);
+    font-size: 11px;
+    min-width: 64px;
+  }
+  .corr-table td {
+    padding: 6px 8px;
+    text-align: center;
+    border: 1px solid var(--border);
+    font-size: 12px;
+    font-weight: 600;
+    min-width: 64px;
+    width: 64px;
+  }
+  .corr-wrap { overflow-x: auto; }
+
   /* HEATMAPS */
   .heatmap-section { margin-bottom: 28px; }
   .heatmap-title { font-size: 14px; font-weight: 600; margin-bottom: 12px; color: var(--text); }
@@ -240,13 +334,14 @@
     letter-spacing: 0.3px;
   }
   .heatmap-table td {
-    padding: 6px 8px;
+    padding: 5px 8px;
     text-align: center;
-    border: 1px solid #21262d;
-    font-size: 12px;
+    border: 1px solid var(--grid);
+    font-size: 11px;
     font-weight: 500;
     min-width: 72px;
     white-space: nowrap;
+    line-height: 1.4;
   }
   .heatmap-table .year-col {
     background: var(--bg);
@@ -256,6 +351,18 @@
     text-align: right;
     font-size: 12px;
   }
+  .heatmap-abs-val { font-size: 12px; font-weight: 600; display: block; }
+  .heatmap-pct-val { font-size: 10px; display: block; opacity: 0.85; }
+
+  /* HEATMAP VIEW SELECTOR */
+  .heatmap-view-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 18px;
+    flex-wrap: wrap;
+  }
+  .heatmap-view-row label { color: var(--text-muted); font-size: 12px; font-weight: 600; }
 
   /* INDICES TAB */
   .indices-grid {
@@ -272,7 +379,7 @@
   }
   .index-chart-header { margin-bottom: 10px; }
   .index-chart-title { font-size: 13px; font-weight: 700; margin-bottom: 2px; }
-  .index-chart-subtitle { font-size: 12px; color: var(--text-muted); display: flex; gap: 10px; align-items: center; }
+  .index-chart-subtitle { font-size: 12px; color: var(--text-muted); display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
   .index-chart-canvas-wrap { height: 200px; position: relative; }
   .toggle-btn {
     background: var(--bg);
@@ -285,6 +392,26 @@
     transition: all 0.15s;
   }
   .toggle-btn:hover, .toggle-btn.active { border-color: var(--accent); color: var(--accent); }
+
+  /* INDEX STATS STRIP */
+  .index-stats-strip {
+    display: flex;
+    gap: 0;
+    margin-top: 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .index-stat-mini {
+    flex: 1;
+    padding: 7px 10px;
+    border-right: 1px solid var(--border);
+    background: var(--bg);
+    min-width: 0;
+  }
+  .index-stat-mini:last-child { border-right: none; }
+  .index-stat-mini-label { font-size: 9px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.3px; margin-bottom: 3px; white-space: nowrap; }
+  .index-stat-mini-val { font-size: 12px; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
   /* ETF TAB */
   .etf-grid {
@@ -305,7 +432,11 @@
   .etf-price-row { display: flex; align-items: baseline; gap: 10px; }
   .etf-price { font-size: 28px; font-weight: 700; }
   .etf-change { font-size: 14px; font-weight: 600; }
-  .etf-section-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin: 16px 0 8px; }
+  .etf-section-title-row {
+    display: flex; align-items: center; justify-content: space-between;
+    margin: 16px 0 8px;
+  }
+  .etf-section-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); }
   .holdings-table { width: 100%; border-collapse: collapse; font-size: 12px; }
   .holdings-table th {
     color: var(--text-muted); font-size: 10px; text-transform: uppercase; letter-spacing: 0.3px;
@@ -314,7 +445,7 @@
   }
   .holdings-table th:first-child { text-align: left; }
   .holdings-table td {
-    padding: 6px 8px; border-bottom: 1px solid #21262d; text-align: right; color: var(--text);
+    padding: 6px 8px; border-bottom: 1px solid var(--grid); text-align: right; color: var(--text);
   }
   .holdings-table td:first-child { text-align: left; color: var(--text-muted); }
   .holdings-table tr:last-child td { border-bottom: none; }
@@ -330,6 +461,45 @@
   .etf-metric { background: var(--bg); border-radius: 6px; padding: 10px 12px; border: 1px solid var(--border); }
   .etf-metric-label { font-size: 10px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.3px; margin-bottom: 4px; }
   .etf-metric-value { font-size: 15px; font-weight: 700; color: var(--text); }
+
+  /* QUARTERLY TAB */
+  .win-rate-row {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  .win-rate-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px 18px;
+    flex: 1;
+    min-width: 110px;
+    border-left: 3px solid var(--accent);
+  }
+  .win-rate-card.wr-green  { border-left-color: var(--green); }
+  .win-rate-card.wr-yellow { border-left-color: var(--yellow); }
+  .win-rate-card.wr-red    { border-left-color: var(--red); }
+  .win-rate-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 4px; }
+  .win-rate-value { font-size: 22px; font-weight: 700; }
+  .win-rate-bar-wrap { height: 4px; background: var(--border); border-radius: 2px; margin-top: 6px; overflow: hidden; }
+  .win-rate-bar { height: 100%; border-radius: 2px; }
+  .spaghetti-wrap { height: 280px; position: relative; }
+
+  /* DOWNLOAD BUTTON */
+  .dl-btn {
+    background: var(--bg);
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 4px 10px;
+    font-size: 11px;
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+  .dl-btn:hover { border-color: var(--accent); color: var(--accent); }
 
   /* SECTION ERRORS */
   .error-msg {
@@ -387,6 +557,7 @@
 <div class="tabs-bar">
   <button class="tab-btn active" data-tab="dashboard">📊 Dashboard</button>
   <button class="tab-btn" data-tab="heatmaps">🌡️ Heatmaps</button>
+  <button class="tab-btn" data-tab="quarterly">📅 Quarterly</button>
   <button class="tab-btn" data-tab="indices">📈 Indices</button>
   <button class="tab-btn" data-tab="etfs">🏦 ETFs</button>
 </div>
@@ -406,34 +577,40 @@
     </div>
 
     <div class="stats-row mb-20">
-      <div class="stat-card">
+      <div class="stat-card sc-percentile">
         <div class="stat-label">All-Time Pctl</div>
         <div class="stat-value" id="statAlltime">—</div>
         <div class="stat-sub">vs full history</div>
       </div>
-      <div class="stat-card">
+      <div class="stat-card sc-percentile">
         <div class="stat-label">10Y Percentile</div>
         <div class="stat-value" id="stat10y">—</div>
         <div class="stat-sub">last 10 years</div>
       </div>
-      <div class="stat-card">
+      <div class="stat-card sc-percentile">
         <div class="stat-label">5Y Percentile</div>
         <div class="stat-value" id="stat5y">—</div>
         <div class="stat-sub">last 5 years</div>
       </div>
-      <div class="stat-card">
+      <div class="stat-card sc-zscore">
         <div class="stat-label">Z-Score</div>
         <div class="stat-value" id="statZscore">—</div>
         <div class="stat-sub">vs same trading day</div>
       </div>
-      <div class="stat-card">
+      <div class="stat-card sc-drawdown">
         <div class="stat-label">52-Week Drawdown</div>
         <div class="stat-value" id="statDrawdown">—</div>
         <div class="stat-sub">from 52-week high</div>
       </div>
+      <div class="stat-card sc-roc">
+        <div class="stat-label">Rate of Change (20d)</div>
+        <div class="stat-value" id="statRoc20">—</div>
+        <div class="stat-sub">20-day % change</div>
+      </div>
     </div>
 
-    <div class="chart-container">
+    <!-- Overlay Chart -->
+    <div class="chart-container mb-20">
       <div class="chart-header">
         <div class="chart-title">Current Year vs Historical Years</div>
         <div class="year-checkboxes" id="yearCheckboxes"></div>
@@ -442,20 +619,105 @@
         <canvas id="overlayChart"></canvas>
       </div>
     </div>
+
+    <!-- Drawdown Chart -->
+    <div class="chart-container mb-20">
+      <div class="chart-header">
+        <div class="chart-title">Drawdown from 52-Week High</div>
+      </div>
+      <div class="drawdown-chart-wrap">
+        <canvas id="drawdownChart"></canvas>
+      </div>
+    </div>
+
+    <!-- Yearly Performance Table -->
+    <div class="collapsible-section mb-20">
+      <button class="collapsible-toggle" id="yearlyPerfToggle" onclick="toggleYearlyPerf()">
+        <span>Yearly Performance Table</span>
+        <span class="toggle-arrow">▼</span>
+      </button>
+      <div class="collapsible-content" id="yearlyPerfContent">
+        <div class="flex-row mb-12" style="padding-top:4px">
+          <button class="dl-btn" id="yearlyDlBtn">⬇ Download CSV</button>
+        </div>
+        <div style="overflow-x:auto">
+          <div id="yearlyPerfTable"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Correlation Matrix -->
+    <div class="corr-section mb-20">
+      <div class="corr-title">Index Correlation Matrix</div>
+      <div class="corr-timeframe-btns">
+        <button class="corr-btn active" data-corr="all" onclick="setCorrTimeframe(this,'all')">All Time</button>
+        <button class="corr-btn" data-corr="5y" onclick="setCorrTimeframe(this,'5y')">Last 5Y</button>
+        <button class="corr-btn" data-corr="1y" onclick="setCorrTimeframe(this,'1y')">Last 1Y</button>
+      </div>
+      <div class="corr-wrap">
+        <div id="corrMatrix"></div>
+      </div>
+    </div>
   </div>
 
   <!-- ===== TAB: HEATMAPS ===== -->
   <div class="tab-panel" id="tab-heatmaps">
+    <div class="heatmap-view-row">
+      <label for="heatmapViewSelect">Heatmap View:</label>
+      <select id="heatmapViewSelect" onchange="onHeatmapViewChange()">
+        <option value="absolute">Absolute Values</option>
+        <option value="pct">% Change (MoM/QoQ)</option>
+      </select>
+    </div>
+
     <div class="heatmap-section mb-20">
-      <div class="heatmap-title">Quarterly Heatmap</div>
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
+        <div class="heatmap-title" style="margin-bottom:0">Monthly Heatmap</div>
+        <button class="dl-btn" id="monthlyHeatmapDlBtn">⬇ Download CSV</button>
+      </div>
+      <div class="heatmap-wrap">
+        <div id="monthlyHeatmap"></div>
+      </div>
+    </div>
+
+    <div class="heatmap-section mb-20">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
+        <div class="heatmap-title" style="margin-bottom:0">Monthly Absolute Values</div>
+      </div>
+      <div class="heatmap-wrap">
+        <div id="monthlyAbsHeatmap"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== TAB: QUARTERLY ===== -->
+  <div class="tab-panel" id="tab-quarterly">
+    <!-- Win-Rate KPI Cards -->
+    <div class="win-rate-row mb-20" id="winRateRow"></div>
+
+    <!-- Download CSV -->
+    <div class="flex-row mb-12">
+      <button class="dl-btn" id="quarterlyDlBtn">⬇ Download CSV</button>
+    </div>
+
+    <!-- Quarterly Heatmap -->
+    <div class="heatmap-section mb-20">
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;flex-wrap:wrap;gap:8px;">
+        <div class="heatmap-title" style="margin-bottom:0">Quarterly Heatmap</div>
+        <button class="dl-btn" id="quarterlyHeatmapDlBtn">⬇ Download CSV</button>
+      </div>
       <div class="heatmap-wrap">
         <div id="quarterlyHeatmap"></div>
       </div>
     </div>
-    <div class="heatmap-section">
-      <div class="heatmap-title">Monthly Heatmap</div>
-      <div class="heatmap-wrap">
-        <div id="monthlyHeatmap"></div>
+
+    <!-- Spaghetti Chart -->
+    <div class="chart-container">
+      <div class="chart-header">
+        <div class="chart-title">Quarterly Performance by Year (Spaghetti)</div>
+      </div>
+      <div class="spaghetti-wrap">
+        <canvas id="spaghettiChart"></canvas>
       </div>
     </div>
   </div>
@@ -477,9 +739,9 @@
 // GLOBAL DATA STORE
 // =====================================================================
 const DATA = {
-  raw: {},       // raw parsed CSV rows keyed by product
-  master: [],    // merged by date array
-  masterByDate: {}, // keyed by date string
+  raw: {},
+  master: [],
+  masterByDate: {},
   loaded: false,
 };
 
@@ -495,11 +757,36 @@ const PRODUCTS = {
 
 const PRODUCT_KEYS = Object.keys(PRODUCTS);
 
-// Year-line colors for overlay chart
 const YEAR_COLORS = [
   '#58a6ff', '#3fb950', '#d29922', '#f0883e', '#a371f7',
   '#e3b341', '#79c0ff', '#56d364', '#f0883e', '#bc8cff',
 ];
+
+// =====================================================================
+// CHANGE 10 — Global CSV download utility
+// =====================================================================
+function downloadCSV(filename, headers, rows) {
+  const escape = v => {
+    const s = String(v == null ? '' : v);
+    if (s.includes(',') || s.includes('"') || s.includes('\n')) {
+      return '"' + s.replace(/"/g, '""') + '"';
+    }
+    return s;
+  };
+  const lines = [headers.map(escape).join(',')];
+  for (const row of rows) {
+    lines.push(row.map(escape).join(','));
+  }
+  const blob = new Blob([lines.join('\n')], { type: 'text/csv;charset=utf-8;' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  setTimeout(() => URL.revokeObjectURL(url), 5000);
+}
 
 // =====================================================================
 // UTILITY FUNCTIONS
@@ -531,6 +818,12 @@ function fmtPctRaw(n) {
   if (n == null || isNaN(n)) return '—';
   const s = (n >= 0 ? '+' : '') + n.toFixed(2) + '%';
   return s;
+}
+
+function fmtPctDirect(n) {
+  // n is already a percentage value (not fractional)
+  if (n == null || isNaN(n)) return '—';
+  return (n >= 0 ? '+' : '') + n.toFixed(1) + '%';
 }
 
 function getQuarter(month) {
@@ -565,14 +858,42 @@ function stddev(arr) {
 }
 
 // =====================================================================
-// CHART DEFAULTS
+// CHANGE 3 — Pearson correlation
+// =====================================================================
+function pearsonCorr(keyA, keyB, cutoffDate) {
+  const pairsA = [], pairsB = [];
+  for (const row of DATA.master) {
+    if (cutoffDate && row.date < cutoffDate) continue;
+    if (row[keyA] != null && row[keyB] != null) {
+      pairsA.push(row[keyA]);
+      pairsB.push(row[keyB]);
+    }
+  }
+  const n = pairsA.length;
+  if (n < 5) return null;
+  const mA = pairsA.reduce((s, v) => s + v, 0) / n;
+  const mB = pairsB.reduce((s, v) => s + v, 0) / n;
+  let num = 0, dA = 0, dB = 0;
+  for (let i = 0; i < n; i++) {
+    const da = pairsA[i] - mA;
+    const db = pairsB[i] - mB;
+    num += da * db;
+    dA  += da * da;
+    dB  += db * db;
+  }
+  const denom = Math.sqrt(dA * dB);
+  return denom === 0 ? 0 : num / denom;
+}
+
+// =====================================================================
+// CHART DEFAULTS (CHANGE 9)
 // =====================================================================
 Chart.defaults.color = '#8b949e';
-Chart.defaults.borderColor = '#21262d';
+Chart.defaults.borderColor = '#151a22';
 Chart.defaults.plugins.legend.labels.boxWidth = 12;
 Chart.defaults.plugins.legend.labels.padding = 10;
-Chart.defaults.plugins.tooltip.backgroundColor = '#1c2128';
-Chart.defaults.plugins.tooltip.borderColor = '#30363d';
+Chart.defaults.plugins.tooltip.backgroundColor = '#0f1318';
+Chart.defaults.plugins.tooltip.borderColor = '#1e2530';
 Chart.defaults.plugins.tooltip.borderWidth = 1;
 Chart.defaults.plugins.tooltip.titleColor = '#e6edf3';
 Chart.defaults.plugins.tooltip.bodyColor = '#8b949e';
@@ -607,14 +928,13 @@ async function loadAllData() {
   const overlay = document.getElementById('loadingOverlay');
   const progress = document.getElementById('loadingProgress');
   let loaded = 0;
-  const total = PRODUCT_KEYS.length + 2; // +2 for ETF holdings
+  const total = PRODUCT_KEYS.length + 2;
 
   function tick(label) {
     loaded++;
     progress.textContent = `${label} (${loaded}/${total})`;
   }
 
-  // Load all index CSVs in parallel
   const indexPromises = PRODUCT_KEYS.map(async key => {
     const rows = await fetchCSV(PRODUCTS[key].file);
     const parsed = [];
@@ -632,13 +952,11 @@ async function loadAllData() {
     return key;
   });
 
-  // Load ETF holdings
   const bdryPromise = fetchCSV('bdry_holdings.csv').then(r => { DATA.bdryHoldings = r; tick('BDRY Holdings'); });
   const bwetPromise = fetchCSV('bwet_holdings.csv').then(r => { DATA.bwetHoldings = r; tick('BWET Holdings'); });
 
   await Promise.all([...indexPromises, bdryPromise, bwetPromise]);
 
-  // Build master merged dataset
   buildMaster();
 
   DATA.loaded = true;
@@ -650,14 +968,12 @@ async function loadAllData() {
 }
 
 function buildMaster() {
-  // Collect all unique date strings
   const allDatesSet = new Set();
   for (const key of PRODUCT_KEYS) {
     for (const row of DATA.raw[key]) allDatesSet.add(row.date.getTime());
   }
   const allDates = Array.from(allDatesSet).sort((a, b) => a - b);
 
-  // Build lookup maps for each product
   const maps = {};
   for (const key of PRODUCT_KEYS) {
     maps[key] = {};
@@ -666,10 +982,9 @@ function buildMaster() {
     }
   }
 
-  // Build master array
   DATA.master = allDates.map(ts => {
     const d = new Date(ts);
-    const month = d.getMonth(); // 0-indexed
+    const month = d.getMonth();
     const quarter = getQuarter(month);
     const year = d.getFullYear();
     const row = { date: d, ts, year, month, quarter };
@@ -681,7 +996,6 @@ function buildMaster() {
     return row;
   });
 
-  // Add trading day of year
   const byYear = {};
   for (const row of DATA.master) {
     if (!byYear[row.year]) byYear[row.year] = [];
@@ -692,7 +1006,6 @@ function buildMaster() {
   }
   DATA.byYear = byYear;
 
-  // Build date-keyed lookup
   for (const row of DATA.master) {
     DATA.masterByDate[row.ts] = row;
   }
@@ -726,7 +1039,6 @@ function computeStats(productKey) {
   const pctl10y     = percentileRank(vals10y, currentPrice);
   const pctl5y      = percentileRank(vals5y, currentPrice);
 
-  // Z-score: use all same trading-day values from PRIOR years
   const currentTradingDay = latest.tradingDay;
   const sameDayVals = DATA.master
     .filter(r => r.tradingDay === currentTradingDay && r.year < now.getFullYear() && r[productKey] != null)
@@ -735,11 +1047,9 @@ function computeStats(productKey) {
   const allStdDev = stddev(sameDayVals.length >= 3 ? sameDayVals : allVals);
   const zScore    = allStdDev ? (currentPrice - allMean) / allStdDev : 0;
 
-  // 52-week drawdown
   const max1y = vals1y.length ? Math.max(...vals1y) : currentPrice;
   const drawdown = (currentPrice - max1y) / max1y;
 
-  // Rate of change 20-day
   const row20d = rows.filter(r => r.date <= cutoff20d);
   const price20d = row20d.length ? row20d[row20d.length - 1][productKey] : null;
   const roc20 = price20d ? ((currentPrice - price20d) / price20d) * 100 : null;
@@ -752,11 +1062,11 @@ function computeStats(productKey) {
 function tradingSignal(stats) {
   if (!stats) return { text: '⏳ WAIT', cls: 'signal-wait' };
   const { pctl5y, zScore, alltimePctl } = stats;
-  if (pctl5y > 0.8)                                               return { text: '⛔ SELL (Overheated)',   cls: 'signal-sell' };
-  if (pctl5y < 0.2 && zScore < -0.5 && alltimePctl > 0.4)        return { text: '💎 GOLDEN DIP',          cls: 'signal-golden' };
-  if (pctl5y < 0.1 && zScore < -0.6)                             return { text: '🔥 CATCHING KNIFE',      cls: 'signal-knife' };
-  if (pctl5y < 0.3 && alltimePctl < 0.3)                         return { text: '⚠️ VALUE TRAP',          cls: 'signal-trap' };
-  if (pctl5y < 0.4)                                               return { text: '🔹 ACCUMULATE',          cls: 'signal-accumulate' };
+  if (pctl5y > 0.8)                                              return { text: '⛔ SELL (Overheated)',  cls: 'signal-sell' };
+  if (pctl5y < 0.2 && zScore < -0.5 && alltimePctl > 0.4)       return { text: '💎 GOLDEN DIP',         cls: 'signal-golden' };
+  if (pctl5y < 0.1 && zScore < -0.6)                            return { text: '🔥 CATCHING KNIFE',     cls: 'signal-knife' };
+  if (pctl5y < 0.3 && alltimePctl < 0.3)                        return { text: '⚠️ VALUE TRAP',         cls: 'signal-trap' };
+  if (pctl5y < 0.4)                                              return { text: '🔹 ACCUMULATE',         cls: 'signal-accumulate' };
   return { text: '⏳ WAIT', cls: 'signal-wait' };
 }
 
@@ -769,8 +1079,7 @@ function pctColor(pct) {
 // =====================================================================
 // DASHBOARD TAB
 // =====================================================================
-let overlayChart = null;
-let currentYears = [];
+let currentCorrTimeframe = 'all';
 
 function renderDashboard(productKey) {
   const prod = PRODUCTS[productKey];
@@ -779,7 +1088,6 @@ function renderDashboard(productKey) {
   const stats = computeStats(productKey);
   if (!stats) return;
 
-  // Price & change
   document.getElementById('dashCurrentPrice').textContent = fmt(stats.currentPrice);
 
   const changeEl = document.getElementById('dashPriceChange');
@@ -792,19 +1100,12 @@ function renderDashboard(productKey) {
     changeEl.className = 'current-price-change';
   }
 
-  // Signal
   const sig = tradingSignal(stats);
   const sigEl = document.getElementById('dashSignal');
   sigEl.textContent = sig.text;
   sigEl.className = 'signal-badge ' + sig.cls;
 
   // Stats cards
-  function setStat(id, value, label) {
-    const el = document.getElementById(id);
-    el.textContent = label || value;
-    el.className = 'stat-value';
-  }
-
   const atEl = document.getElementById('statAlltime');
   atEl.textContent = (stats.alltimePctl * 100).toFixed(1) + '%';
   atEl.className = 'stat-value ' + pctColor(stats.alltimePctl);
@@ -825,26 +1126,38 @@ function renderDashboard(productKey) {
   ddEl.textContent = (stats.drawdown * 100).toFixed(1) + '%';
   ddEl.className = 'stat-value ' + (stats.drawdown < -0.3 ? 'val-red' : stats.drawdown < -0.1 ? 'val-yellow' : 'val-green');
 
-  // Build overlay chart
+  // CHANGE 11 — ROC20 stat card
+  const rocEl = document.getElementById('statRoc20');
+  if (stats.roc20 != null) {
+    rocEl.textContent = (stats.roc20 >= 0 ? '+' : '') + stats.roc20.toFixed(1) + '%';
+    rocEl.className = 'stat-value ' + (stats.roc20 >= 0 ? 'val-green' : 'val-red');
+  } else {
+    rocEl.textContent = '—';
+    rocEl.className = 'stat-value val-white';
+  }
+
   renderOverlayChart(productKey);
+  renderDrawdownChart(productKey);
+  renderYearlyPerfTable(productKey);
+  renderCorrMatrix(currentCorrTimeframe);
 }
 
+// =====================================================================
+// OVERLAY CHART
+// =====================================================================
 function renderOverlayChart(productKey) {
   const years = Object.keys(DATA.byYear).map(Number).sort((a, b) => a - b);
   const currentYear = new Date().getFullYear();
 
-  // Default comparison years
   const defaultCompare = years
     .filter(y => y < currentYear)
     .slice(-3)
     .reverse()
     .slice(0, 3);
 
-  // Build checkboxes
   const checkboxContainer = document.getElementById('yearCheckboxes');
   checkboxContainer.innerHTML = '';
 
-  // Only show last N prior years as options (to avoid clutter)
   const priorYears = years.filter(y => y < currentYear).slice(-8);
 
   for (const y of priorYears) {
@@ -864,14 +1177,12 @@ function buildOverlayChart(productKey) {
   const currentYear = new Date().getFullYear();
   const years = Object.keys(DATA.byYear).map(Number).sort((a, b) => a - b);
 
-  // Get selected years
   const checkboxes = document.querySelectorAll('#yearCheckboxes input[type=checkbox]:checked');
   const selectedYears = Array.from(checkboxes).map(cb => parseInt(cb.value));
 
   const datasets = [];
   const prod = PRODUCTS[productKey];
 
-  // Find max trading days across all shown years
   let maxDays = 0;
   for (const y of [...selectedYears, currentYear]) {
     const yr = DATA.byYear[y];
@@ -879,7 +1190,6 @@ function buildOverlayChart(productKey) {
   }
   const labels = Array.from({ length: maxDays }, (_, i) => i + 1);
 
-  // Current year - thick bright line
   const curYearRows = DATA.byYear[currentYear] || [];
   datasets.push({
     label: String(currentYear),
@@ -892,8 +1202,6 @@ function buildOverlayChart(productKey) {
     order: 0,
   });
 
-  // Prior years
-  const priorYears = years.filter(y => y < currentYear);
   const checkboxEls = document.querySelectorAll('#yearCheckboxes input[type=checkbox]');
 
   selectedYears.sort((a, b) => b - a).forEach((y, idx) => {
@@ -910,7 +1218,6 @@ function buildOverlayChart(productKey) {
       pointRadius: 0,
       tension: 0.2,
       borderDash: [],
-      opacity: 0.6,
       order: idx + 1,
     });
   });
@@ -935,14 +1242,14 @@ function buildOverlayChart(productKey) {
       },
       scales: {
         x: {
-          grid: { color: '#21262d' },
+          grid: { color: '#151a22' },
           ticks: { maxTicksLimit: 13, font: { size: 11 } },
           title: { display: true, text: 'Trading Day of Year', color: '#8b949e', font: { size: 11 } },
         },
         y: {
-          grid: { color: '#21262d' },
+          grid: { color: '#151a22' },
           ticks: { font: { size: 11 }, callback: v => fmt(v) },
-          title: { display: true, text: prod.label, color: '#8b949e', font: { size: 11 } },
+          title: { display: true, text: PRODUCTS[productKey].label, color: '#8b949e', font: { size: 11 } },
         },
       },
     },
@@ -950,74 +1257,250 @@ function buildOverlayChart(productKey) {
 }
 
 // =====================================================================
-// HEATMAPS TAB
+// CHANGE 1 — Drawdown Chart
 // =====================================================================
-function renderHeatmaps(productKey) {
-  renderQuarterlyHeatmap(productKey);
-  renderMonthlyHeatmap(productKey);
-}
+function renderDrawdownChart(productKey) {
+  const rows = DATA.master.filter(r => r[productKey] != null);
+  if (!rows.length) return;
 
-function heatmapColor(ratio) {
-  // red (0) → white (0.5) → green (1)
-  if (ratio <= 0.5) {
-    const t = ratio * 2; // 0 to 1
-    const r = Math.round(248 - t * (248 - 230));
-    const g = Math.round(81  + t * (237 - 81));
-    const b = Math.round(73  + t * (243 - 73));
-    return `rgb(${r},${g},${b})`;
-  } else {
-    const t = (ratio - 0.5) * 2; // 0 to 1
-    const r = Math.round(230 - t * (230 - 63));
-    const g = Math.round(237 - t * (237 - 185));
-    const b = Math.round(243 - t * (243 - 80));
-    return `rgb(${r},${g},${b})`;
-  }
-}
+  // Last 3 years
+  const cutoff3y = new Date();
+  cutoff3y.setFullYear(cutoff3y.getFullYear() - 3);
+  const filtered = rows.filter(r => r.date >= cutoff3y);
 
-function textColorForBg(ratio) {
-  return ratio > 0.25 && ratio < 0.75 ? '#0d1117' : '#e6edf3';
-}
+  // Rolling 365-day max for each point
+  const ddData = [];
+  const labels = [];
 
-function renderQuarterlyHeatmap(productKey) {
-  const container = document.getElementById('quarterlyHeatmap');
-  const quarters = ['Q1','Q2','Q3','Q4'];
-
-  // Build matrix: year × quarter → avg value
-  const years = [...new Set(DATA.master.map(r => r.year))].sort();
-  const matrix = {};
-  for (const y of years) {
-    matrix[y] = {};
-    for (const q of quarters) {
-      const vals = DATA.master
-        .filter(r => r.year === y && r.quarter === q && r[productKey] != null)
-        .map(r => r[productKey]);
-      matrix[y][q] = vals.length ? mean(vals) : null;
+  for (let i = 0; i < filtered.length; i++) {
+    const current = filtered[i];
+    const cutoff365 = new Date(current.date);
+    cutoff365.setDate(cutoff365.getDate() - 365);
+    // find max in last 365 days from the full rows array
+    let maxVal = current[productKey];
+    for (let j = rows.length - 1; j >= 0; j--) {
+      if (rows[j].date > current.date) continue;
+      if (rows[j].date < cutoff365) break;
+      if (rows[j][productKey] > maxVal) maxVal = rows[j][productKey];
     }
+    const dd = maxVal > 0 ? ((current[productKey] - maxVal) / maxVal) * 100 : 0;
+    ddData.push(dd);
+    labels.push(current.date.toISOString().split('T')[0]);
   }
 
-  // Compute per-column min/max for color scaling
-  const colStats = {};
-  for (const q of quarters) {
-    const vals = years.map(y => matrix[y][q]).filter(v => v != null);
-    colStats[q] = { min: Math.min(...vals), max: Math.max(...vals) };
+  destroyChart('drawdownChart');
+  const ctx = document.getElementById('drawdownChart').getContext('2d');
+
+  chartRegistry['drawdownChart'] = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label: 'Drawdown %',
+        data: ddData,
+        borderColor: '#f85149',
+        backgroundColor: 'rgba(248,81,73,0.3)',
+        borderWidth: 1.5,
+        pointRadius: 0,
+        fill: true,
+        tension: 0.1,
+      }],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            title: ctx => ctx[0].label,
+            label: ctx => ` Drawdown: ${ctx.parsed.y.toFixed(2)}%`,
+          },
+        },
+      },
+      scales: {
+        x: {
+          grid: { color: '#151a22' },
+          ticks: {
+            maxTicksLimit: 8,
+            font: { size: 11 },
+            callback: function(val, idx) {
+              return labels[idx] ? labels[idx].slice(0, 7) : '';
+            },
+          },
+        },
+        y: {
+          grid: { color: '#151a22' },
+          min: undefined,
+          max: 0,
+          ticks: {
+            font: { size: 11 },
+            callback: v => v.toFixed(1) + '%',
+          },
+          title: { display: true, text: 'Drawdown %', color: '#8b949e', font: { size: 11 } },
+        },
+      },
+    },
+  });
+}
+
+// =====================================================================
+// CHANGE 2 — Yearly Performance Table
+// =====================================================================
+let _yearlyPerfProductKey = null;
+let _yearlyPerfData = null;
+
+function renderYearlyPerfTable(productKey) {
+  _yearlyPerfProductKey = productKey;
+  const years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => b - a);
+
+  // Compute yearly averages
+  const yearlyAvgs = {};
+  const yearlyMins = {};
+  const yearlyMaxs = {};
+  for (const y of years) {
+    const vals = DATA.master.filter(r => r.year === y && r[productKey] != null).map(r => r[productKey]);
+    yearlyAvgs[y] = vals.length ? mean(vals) : null;
+    yearlyMins[y] = vals.length ? Math.min(...vals) : null;
+    yearlyMaxs[y] = vals.length ? Math.max(...vals) : null;
   }
 
-  let html = `<table class="heatmap-table"><thead><tr>
-    <th>Year</th>${quarters.map(q => `<th>${q}</th>`).join('')}
-  </tr></thead><tbody>`;
+  _yearlyPerfData = { years, yearlyAvgs, yearlyMins, yearlyMaxs };
 
-  for (const y of [...years].reverse()) {
-    html += `<tr><td class="year-col">${y}</td>`;
-    for (const q of quarters) {
-      const v = matrix[y][q];
-      if (v == null) {
-        html += `<td style="color:#484f58">—</td>`;
+  let html = `<table class="yearly-table">
+    <thead><tr>
+      <th>Year</th>
+      <th>Avg Value</th>
+      <th>YoY %</th>
+      <th>Min</th>
+      <th>Max</th>
+      <th>Range %</th>
+    </tr></thead><tbody>`;
+
+  for (let i = 0; i < years.length; i++) {
+    const y = years[i];
+    const avg = yearlyAvgs[y];
+    const mn  = yearlyMins[y];
+    const mx  = yearlyMaxs[y];
+    if (avg == null) continue;
+
+    // Prior year avg (years are descending, so prior = years[i+1])
+    const priorYear = years[i + 1];
+    const priorAvg  = priorYear != null ? yearlyAvgs[priorYear] : null;
+    let yoyPct = null;
+    let yoyCls = '';
+    let yoyStr = '—';
+    if (priorAvg != null && priorAvg !== 0) {
+      yoyPct = ((avg - priorAvg) / priorAvg) * 100;
+      yoyStr = (yoyPct >= 0 ? '+' : '') + yoyPct.toFixed(1) + '%';
+      yoyCls = yoyPct >= 0 ? 'val-green' : 'val-red';
+    }
+
+    const rangePct = mn != null && mn !== 0 ? ((mx - mn) / mn * 100).toFixed(1) + '%' : '—';
+
+    html += `<tr>
+      <td>${y}</td>
+      <td>${fmt(avg, 0)}</td>
+      <td class="${yoyCls}">${yoyStr}</td>
+      <td>${fmt(mn, 0)}</td>
+      <td>${fmt(mx, 0)}</td>
+      <td>${rangePct}</td>
+    </tr>`;
+  }
+
+  html += '</tbody></table>';
+  document.getElementById('yearlyPerfTable').innerHTML = html;
+
+  // Wire download button
+  document.getElementById('yearlyDlBtn').onclick = () => downloadYearlyPerf(productKey);
+}
+
+function downloadYearlyPerf(productKey) {
+  if (!_yearlyPerfData) return;
+  const { years, yearlyAvgs, yearlyMins, yearlyMaxs } = _yearlyPerfData;
+  const headers = ['Year','Avg Value','YoY %','Min','Max','Range %'];
+  const rows = [];
+  for (let i = 0; i < years.length; i++) {
+    const y = years[i];
+    const avg = yearlyAvgs[y];
+    const mn  = yearlyMins[y];
+    const mx  = yearlyMaxs[y];
+    if (avg == null) continue;
+    const priorYear = years[i + 1];
+    const priorAvg  = priorYear != null ? yearlyAvgs[priorYear] : null;
+    let yoyStr = '';
+    if (priorAvg != null && priorAvg !== 0) {
+      const yoy = ((avg - priorAvg) / priorAvg) * 100;
+      yoyStr = yoy.toFixed(2) + '%';
+    }
+    const rangePct = mn != null && mn !== 0 ? ((mx - mn) / mn * 100).toFixed(2) + '%' : '';
+    rows.push([y, avg != null ? avg.toFixed(2) : '', yoyStr, mn != null ? mn.toFixed(2) : '', mx != null ? mx.toFixed(2) : '', rangePct]);
+  }
+  downloadCSV(`yearly_perf_${productKey}.csv`, headers, rows);
+}
+
+function toggleYearlyPerf() {
+  const btn = document.getElementById('yearlyPerfToggle');
+  const content = document.getElementById('yearlyPerfContent');
+  btn.classList.toggle('open');
+  content.classList.toggle('open');
+}
+
+// =====================================================================
+// CHANGE 3 — Correlation Matrix
+// =====================================================================
+const CORR_LABELS = ['BDI','Cape','Panama','Supra','CleanT','DirtyT'];
+
+function setCorrTimeframe(el, tf) {
+  currentCorrTimeframe = tf;
+  document.querySelectorAll('.corr-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  renderCorrMatrix(tf);
+}
+
+function corrColor(r) {
+  // -1 = deep red, 0 = dark gray #21262d, +1 = bright green
+  if (r == null) return '#21262d';
+  const clamped = Math.max(-1, Math.min(1, r));
+  if (clamped < 0) {
+    // 0 → #21262d, -1 → #8b0000
+    const t = -clamped; // 0..1
+    const r_ = Math.round(0x21 + t * (0x8b - 0x21));
+    const g_ = Math.round(0x26 + t * (0x00 - 0x26));
+    const b_ = Math.round(0x2d + t * (0x00 - 0x2d));
+    return `rgb(${r_},${g_},${b_})`;
+  } else {
+    // 0 → #21262d, +1 → #00c853
+    const t = clamped;
+    const r_ = Math.round(0x21 + t * (0x00 - 0x21));
+    const g_ = Math.round(0x26 + t * (0xc8 - 0x26));
+    const b_ = Math.round(0x2d + t * (0x53 - 0x2d));
+    return `rgb(${r_},${g_},${b_})`;
+  }
+}
+
+function renderCorrMatrix(tf) {
+  const now = new Date();
+  let cutoff = null;
+  if (tf === '5y') { cutoff = new Date(now); cutoff.setFullYear(now.getFullYear() - 5); }
+  if (tf === '1y') { cutoff = new Date(now); cutoff.setDate(now.getDate() - 365); }
+
+  const container = document.getElementById('corrMatrix');
+  let html = `<table class="corr-table"><thead><tr><th></th>`;
+  for (const lbl of CORR_LABELS) html += `<th>${lbl}</th>`;
+  html += '</tr></thead><tbody>';
+
+  for (let i = 0; i < PRODUCT_KEYS.length; i++) {
+    html += `<tr><th style="text-align:left;background:var(--bg);color:var(--text-muted);font-size:11px">${CORR_LABELS[i]}</th>`;
+    for (let j = 0; j < PRODUCT_KEYS.length; j++) {
+      if (i === j) {
+        html += `<td style="background:#1c3150;color:#58a6ff;font-weight:700">1.00</td>`;
       } else {
-        const { min, max } = colStats[q];
-        const ratio = max > min ? (v - min) / (max - min) : 0.5;
-        const bg = heatmapColor(ratio);
-        const tc = textColorForBg(ratio);
-        html += `<td style="background:${bg};color:${tc}">${fmt(v, 0)}</td>`;
+        const r = pearsonCorr(PRODUCT_KEYS[i], PRODUCT_KEYS[j], cutoff);
+        const bg = corrColor(r);
+        const textCol = r != null && Math.abs(r) > 0.4 ? '#fff' : '#e6edf3';
+        html += `<td style="background:${bg};color:${textCol}">${r != null ? r.toFixed(2) : '—'}</td>`;
       }
     }
     html += '</tr>';
@@ -1026,23 +1509,82 @@ function renderQuarterlyHeatmap(productKey) {
   container.innerHTML = html;
 }
 
+// =====================================================================
+// HEATMAPS TAB
+// =====================================================================
+let currentHeatmapView = 'absolute';
+
+function onHeatmapViewChange() {
+  currentHeatmapView = document.getElementById('heatmapViewSelect').value;
+  renderHeatmaps(currentProduct);
+}
+
+function renderHeatmaps(productKey) {
+  if (currentHeatmapView === 'pct') {
+    renderMonthlyHeatmapPct(productKey);
+  } else {
+    renderMonthlyHeatmap(productKey);
+  }
+  renderMonthlyAbsHeatmap(productKey);
+
+  // Wire download buttons
+  document.getElementById('monthlyHeatmapDlBtn').onclick = () => downloadMonthlyHeatmap(productKey);
+}
+
+// ---- Original absolute-value heatmap color (for Monthly Abs section) ----
+function heatmapColorAbs(ratio) {
+  // dark low: #5c1a1a, dark high: #1a2e1a, mid: #21262d
+  if (ratio <= 0.5) {
+    const t = ratio * 2;
+    const r = Math.round(0x5c + t * (0x21 - 0x5c));
+    const g = Math.round(0x1a + t * (0x26 - 0x1a));
+    const b = Math.round(0x1a + t * (0x2d - 0x1a));
+    return `rgb(${r},${g},${b})`;
+  } else {
+    const t = (ratio - 0.5) * 2;
+    const r = Math.round(0x21 + t * (0x1a - 0x21));
+    const g = Math.round(0x26 + t * (0x2e - 0x26));
+    const b = Math.round(0x2d + t * (0x1a - 0x2d));
+    return `rgb(${r},${g},${b})`;
+  }
+}
+
+// ---- % Change divergent color ----
+function heatmapColorPct(pctVal) {
+  // ≤ -15% → #8b0000, 0% → #1a1a2e, ≥ +15% → #00c853
+  const clamped = Math.max(-15, Math.min(15, pctVal));
+  if (clamped < 0) {
+    const t = -clamped / 15; // 0..1
+    const r = Math.round(0x1a + t * (0x8b - 0x1a));
+    const g = Math.round(0x1a + t * (0x00 - 0x1a));
+    const b = Math.round(0x2e + t * (0x00 - 0x2e));
+    return `rgb(${r},${g},${b})`;
+  } else {
+    const t = clamped / 15;
+    const r = Math.round(0x1a + t * (0x00 - 0x1a));
+    const g = Math.round(0x1a + t * (0xc8 - 0x1a));
+    const b = Math.round(0x2e + t * (0x53 - 0x2e));
+    return `rgb(${r},${g},${b})`;
+  }
+}
+
+function heatmapTextColor(bgHex) {
+  return '#e6edf3';
+}
+
 function renderMonthlyHeatmap(productKey) {
   const container = document.getElementById('monthlyHeatmap');
   const years = [...new Set(DATA.master.map(r => r.year))].sort();
 
-  // Build matrix: year × month → avg
   const matrix = {};
   for (const y of years) {
     matrix[y] = {};
     for (let m = 0; m < 12; m++) {
-      const vals = DATA.master
-        .filter(r => r.year === y && r.month === m && r[productKey] != null)
-        .map(r => r[productKey]);
+      const vals = DATA.master.filter(r => r.year === y && r.month === m && r[productKey] != null).map(r => r[productKey]);
       matrix[y][m] = vals.length ? mean(vals) : null;
     }
   }
 
-  // Per-column min/max
   const colStats = {};
   for (let m = 0; m < 12; m++) {
     const vals = years.map(y => matrix[y][m]).filter(v => v != null);
@@ -1062,9 +1604,8 @@ function renderMonthlyHeatmap(productKey) {
       } else {
         const { min, max } = colStats[m];
         const ratio = max > min ? (v - min) / (max - min) : 0.5;
-        const bg = heatmapColor(ratio);
-        const tc = textColorForBg(ratio);
-        html += `<td style="background:${bg};color:${tc}">${fmt(v, 0)}</td>`;
+        const bg = heatmapColorAbs(ratio);
+        html += `<td style="background:${bg};color:#e6edf3">${fmt(v, 0)}</td>`;
       }
     }
     html += '</tr>';
@@ -1073,8 +1614,337 @@ function renderMonthlyHeatmap(productKey) {
   container.innerHTML = html;
 }
 
+function renderMonthlyHeatmapPct(productKey) {
+  const container = document.getElementById('monthlyHeatmap');
+  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+
+  // Build avg matrix
+  const matrix = {};
+  for (const y of years) {
+    matrix[y] = {};
+    for (let m = 0; m < 12; m++) {
+      const vals = DATA.master.filter(r => r.year === y && r.month === m && r[productKey] != null).map(r => r[productKey]);
+      matrix[y][m] = vals.length ? mean(vals) : null;
+    }
+  }
+
+  let html = `<table class="heatmap-table"><thead><tr>
+    <th>Year</th>${MONTH_NAMES.map(mn => `<th>${mn}</th>`).join('')}
+  </tr></thead><tbody>`;
+
+  for (const y of [...years].reverse()) {
+    html += `<tr><td class="year-col">${y}</td>`;
+    for (let m = 0; m < 12; m++) {
+      const v = matrix[y][m];
+      if (v == null) {
+        html += `<td style="color:#484f58">—</td>`;
+      } else {
+        // MoM %: compare to previous month (could be prior year month 11)
+        let prevV = null;
+        if (m > 0) {
+          prevV = matrix[y][m - 1];
+        } else {
+          // January: compare to prior year December
+          const priorYear = y - 1;
+          if (matrix[priorYear]) prevV = matrix[priorYear][11];
+        }
+        let pctStr = '';
+        let bg = heatmapColorPct(0);
+        if (prevV != null && prevV !== 0) {
+          const pct = ((v - prevV) / prevV) * 100;
+          pctStr = (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%';
+          bg = heatmapColorPct(pct);
+        } else {
+          pctStr = '—';
+        }
+        html += `<td style="background:${bg};color:#e6edf3">
+          <span class="heatmap-abs-val">${fmt(v, 0)}</span>
+          <span class="heatmap-pct-val">${pctStr}</span>
+        </td>`;
+      }
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  container.innerHTML = html;
+}
+
+function renderMonthlyAbsHeatmap(productKey) {
+  const container = document.getElementById('monthlyAbsHeatmap');
+  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+
+  const matrix = {};
+  for (const y of years) {
+    matrix[y] = {};
+    for (let m = 0; m < 12; m++) {
+      const vals = DATA.master.filter(r => r.year === y && r.month === m && r[productKey] != null).map(r => r[productKey]);
+      matrix[y][m] = vals.length ? mean(vals) : null;
+    }
+  }
+
+  const colStats = {};
+  for (let m = 0; m < 12; m++) {
+    const vals = years.map(y => matrix[y][m]).filter(v => v != null);
+    colStats[m] = { min: Math.min(...vals), max: Math.max(...vals) };
+  }
+
+  let html = `<table class="heatmap-table"><thead><tr>
+    <th>Year</th>${MONTH_NAMES.map(mn => `<th>${mn}</th>`).join('')}
+  </tr></thead><tbody>`;
+
+  for (const y of [...years].reverse()) {
+    html += `<tr><td class="year-col">${y}</td>`;
+    for (let m = 0; m < 12; m++) {
+      const v = matrix[y][m];
+      if (v == null) {
+        html += `<td style="color:#484f58">—</td>`;
+      } else {
+        const { min, max } = colStats[m];
+        const ratio = max > min ? (v - min) / (max - min) : 0.5;
+        const bg = heatmapColorAbs(ratio);
+        html += `<td style="background:${bg};color:#e6edf3">${fmt(v, 0)}</td>`;
+      }
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  container.innerHTML = html;
+}
+
+function downloadMonthlyHeatmap(productKey) {
+  const years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => b - a);
+  const matrix = {};
+  for (const y of years) {
+    matrix[y] = {};
+    for (let m = 0; m < 12; m++) {
+      const vals = DATA.master.filter(r => r.year === y && r.month === m && r[productKey] != null).map(r => r[productKey]);
+      matrix[y][m] = vals.length ? mean(vals) : null;
+    }
+  }
+  const headers = ['Year', ...MONTH_NAMES];
+  const rows = years.map(y => [y, ...Array.from({length:12},(_,m) => matrix[y][m] != null ? matrix[y][m].toFixed(2) : '')]);
+  downloadCSV(`monthly_heatmap_${productKey}.csv`, headers, rows);
+}
+
 // =====================================================================
-// INDICES TAB
+// QUARTERLY TAB
+// =====================================================================
+function renderQuarterlyTab(productKey) {
+  renderWinRateCards(productKey);
+  renderQuarterlyHeatmap(productKey);
+  renderSpaghettiChart(productKey);
+
+  document.getElementById('quarterlyDlBtn').onclick = () => downloadQuarterlyHeatmapCSV(productKey);
+  document.getElementById('quarterlyHeatmapDlBtn').onclick = () => downloadQuarterlyHeatmapCSV(productKey);
+}
+
+// ---- CHANGE 6: Win-Rate KPI Cards ----
+function renderWinRateCards(productKey) {
+  const quarters = ['Q1','Q2','Q3','Q4'];
+  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+
+  // Build quarter avgs per year
+  const qAvg = {};
+  for (const y of years) {
+    qAvg[y] = {};
+    for (const q of quarters) {
+      const vals = DATA.master.filter(r => r.year === y && r.quarter === q && r[productKey] != null).map(r => r[productKey]);
+      qAvg[y][q] = vals.length ? mean(vals) : null;
+    }
+  }
+
+  const winRates = {};
+  for (const q of quarters) {
+    let wins = 0, total = 0;
+    for (let i = 0; i < years.length; i++) {
+      const y = years[i];
+      const thisQAvg = qAvg[y][q];
+      if (thisQAvg == null) continue;
+      let prevAvg = null;
+      if (q === 'Q1') {
+        // Compare Q1 to prior year Q4
+        const priorYear = y - 1;
+        prevAvg = qAvg[priorYear] ? qAvg[priorYear]['Q4'] : null;
+      } else {
+        const prevQ = q === 'Q2' ? 'Q1' : q === 'Q3' ? 'Q2' : 'Q3';
+        prevAvg = qAvg[y][prevQ];
+      }
+      if (prevAvg == null) continue;
+      total++;
+      if (thisQAvg > prevAvg) wins++;
+    }
+    winRates[q] = total > 0 ? (wins / total) * 100 : null;
+  }
+
+  const row = document.getElementById('winRateRow');
+  row.innerHTML = '';
+  for (const q of quarters) {
+    const wr = winRates[q];
+    let cls = 'wr-yellow', valColor = 'var(--yellow)';
+    if (wr != null) {
+      if (wr > 60)  { cls = 'wr-green';  valColor = 'var(--green)'; }
+      else if (wr < 50) { cls = 'wr-red'; valColor = 'var(--red)'; }
+    }
+    const pct = wr != null ? wr.toFixed(0) + '%' : '—';
+    const barW = wr != null ? wr : 0;
+    const card = document.createElement('div');
+    card.className = `win-rate-card ${cls}`;
+    card.innerHTML = `
+      <div class="win-rate-label">${q} Win Rate</div>
+      <div class="win-rate-value" style="color:${valColor}">${pct}</div>
+      <div class="win-rate-bar-wrap"><div class="win-rate-bar" style="width:${barW}%;background:${valColor}"></div></div>
+    `;
+    row.appendChild(card);
+  }
+}
+
+// ---- Quarterly Heatmap with QoQ % divergent color ----
+function renderQuarterlyHeatmap(productKey) {
+  const container = document.getElementById('quarterlyHeatmap');
+  const quarters = ['Q1','Q2','Q3','Q4'];
+  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+
+  const matrix = {};
+  for (const y of years) {
+    matrix[y] = {};
+    for (const q of quarters) {
+      const vals = DATA.master.filter(r => r.year === y && r.quarter === q && r[productKey] != null).map(r => r[productKey]);
+      matrix[y][q] = vals.length ? mean(vals) : null;
+    }
+  }
+
+  const colStats = {};
+  for (const q of quarters) {
+    const vals = years.map(y => matrix[y][q]).filter(v => v != null);
+    colStats[q] = { min: Math.min(...vals), max: Math.max(...vals) };
+  }
+
+  const viewMode = document.getElementById('heatmapViewSelect') ? document.getElementById('heatmapViewSelect').value : 'absolute';
+
+  let html = `<table class="heatmap-table"><thead><tr>
+    <th>Year</th>${quarters.map(q => `<th>${q}</th>`).join('')}
+  </tr></thead><tbody>`;
+
+  for (const y of [...years].reverse()) {
+    html += `<tr><td class="year-col">${y}</td>`;
+    for (const q of quarters) {
+      const v = matrix[y][q];
+      if (v == null) {
+        html += `<td style="color:#484f58">—</td>`;
+      } else {
+        // QoQ %: compare to prior quarter
+        let prevV = null;
+        if (q === 'Q1') {
+          prevV = matrix[y - 1] ? matrix[y - 1]['Q4'] : null;
+        } else {
+          const prevQ = q === 'Q2' ? 'Q1' : q === 'Q3' ? 'Q2' : 'Q3';
+          prevV = matrix[y][prevQ];
+        }
+        let pctStr = '';
+        let bg;
+        if (currentHeatmapView === 'pct' && prevV != null && prevV !== 0) {
+          const pct = ((v - prevV) / prevV) * 100;
+          pctStr = (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%';
+          bg = heatmapColorPct(pct);
+        } else {
+          const { min, max } = colStats[q];
+          const ratio = max > min ? (v - min) / (max - min) : 0.5;
+          bg = heatmapColorAbs(ratio);
+        }
+        const cellContent = (currentHeatmapView === 'pct' && pctStr)
+          ? `<span class="heatmap-abs-val">${fmt(v, 0)}</span><span class="heatmap-pct-val">${pctStr}</span>`
+          : fmt(v, 0);
+        html += `<td style="background:${bg};color:#e6edf3">${cellContent}</td>`;
+      }
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  container.innerHTML = html;
+}
+
+function downloadQuarterlyHeatmapCSV(productKey) {
+  const quarters = ['Q1','Q2','Q3','Q4'];
+  const years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => b - a);
+  const matrix = {};
+  for (const y of years) {
+    matrix[y] = {};
+    for (const q of quarters) {
+      const vals = DATA.master.filter(r => r.year === y && r.quarter === q && r[productKey] != null).map(r => r[productKey]);
+      matrix[y][q] = vals.length ? mean(vals) : null;
+    }
+  }
+  const headers = ['Year', ...quarters];
+  const rows = years.map(y => [y, ...quarters.map(q => matrix[y][q] != null ? matrix[y][q].toFixed(2) : '')]);
+  downloadCSV(`quarterly_heatmap_${productKey}.csv`, headers, rows);
+}
+
+// ---- CHANGE 6: Spaghetti Chart ----
+function renderSpaghettiChart(productKey) {
+  const quarters = ['Q1','Q2','Q3','Q4'];
+  const qColors  = { Q1: '#58a6ff', Q2: '#3fb950', Q3: '#f0883e', Q4: '#a371f7' };
+  const years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
+
+  // Build qAvg per year per quarter
+  const qData = { Q1: [], Q2: [], Q3: [], Q4: [] };
+  const xLabels = years.map(String);
+
+  for (const q of quarters) {
+    for (const y of years) {
+      const vals = DATA.master.filter(r => r.year === y && r.quarter === q && r[productKey] != null).map(r => r[productKey]);
+      qData[q].push(vals.length ? mean(vals) : null);
+    }
+  }
+
+  const datasets = quarters.map(q => ({
+    label: q,
+    data: qData[q],
+    borderColor: qColors[q],
+    backgroundColor: 'transparent',
+    borderWidth: 2,
+    pointRadius: 3,
+    tension: 0.2,
+    spanGaps: true,
+  }));
+
+  destroyChart('spaghettiChart');
+  const canvas = document.getElementById('spaghettiChart');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  chartRegistry['spaghettiChart'] = new Chart(ctx, {
+    type: 'line',
+    data: { labels: xLabels, datasets },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true } },
+        tooltip: {
+          callbacks: {
+            title: ctx => `Year ${ctx[0].label}`,
+            label: ctx => ` ${ctx.dataset.label}: ${fmt(ctx.parsed.y)}`,
+          },
+        },
+      },
+      scales: {
+        x: {
+          grid: { color: '#151a22' },
+          ticks: { font: { size: 11 }, maxTicksLimit: 16 },
+          title: { display: true, text: 'Year', color: '#8b949e', font: { size: 11 } },
+        },
+        y: {
+          grid: { color: '#151a22' },
+          ticks: { font: { size: 11 }, callback: v => fmt(v) },
+          title: { display: true, text: PRODUCTS[productKey].label, color: '#8b949e', font: { size: 11 } },
+        },
+      },
+    },
+  });
+}
+
+// =====================================================================
+// INDICES TAB (CHANGE 7)
 // =====================================================================
 const indexShowAll = {};
 
@@ -1093,7 +1963,26 @@ function renderIndicesTab() {
     const chgStr = chg != null ? `${chg >= 0 ? '+' : ''}${chg.toFixed(2)}%` : '—';
     const chgCls = chg == null ? '' : (chg >= 0 ? 'change-pos' : 'change-neg');
 
-    const cardId = `idxCard_${key}`;
+    // Stats strip values
+    const allVals = rows.map(r => r.value);
+    const ath = Math.max(...allVals);
+    const atl = Math.min(...allVals);
+    const vsAth = ((latest.value - ath) / ath * 100).toFixed(1) + '%';
+
+    // YTD %: compare to last value of prior year
+    const currentYear = latest.date.getFullYear();
+    const jan1 = new Date(currentYear, 0, 1);
+    const priorYearRows = rows.filter(r => r.date < jan1);
+    const ytdBase = priorYearRows.length ? priorYearRows[priorYearRows.length - 1].value : null;
+    let ytdStr = '—', ytdCls = '';
+    if (ytdBase) {
+      const ytd = ((latest.value - ytdBase) / ytdBase * 100);
+      ytdStr = (ytd >= 0 ? '+' : '') + ytd.toFixed(1) + '%';
+      ytdCls = ytd >= 0 ? 'val-green' : 'val-red';
+    }
+    const vsCls = parseFloat(vsAth) >= 0 ? 'val-green' : (parseFloat(vsAth) < -30 ? 'val-red' : 'val-yellow');
+
+    const cardId  = `idxCard_${key}`;
     const canvasId = `idxChart_${key}`;
 
     const card = document.createElement('div');
@@ -1110,6 +1999,24 @@ function renderIndicesTab() {
       </div>
       <div class="index-chart-canvas-wrap">
         <canvas id="${canvasId}"></canvas>
+      </div>
+      <div class="index-stats-strip">
+        <div class="index-stat-mini">
+          <div class="index-stat-mini-label">All-Time High</div>
+          <div class="index-stat-mini-val val-white">${fmt(ath)}</div>
+        </div>
+        <div class="index-stat-mini">
+          <div class="index-stat-mini-label">All-Time Low</div>
+          <div class="index-stat-mini-val val-white">${fmt(atl)}</div>
+        </div>
+        <div class="index-stat-mini">
+          <div class="index-stat-mini-label">Current vs ATH</div>
+          <div class="index-stat-mini-val ${vsCls}">${vsAth}</div>
+        </div>
+        <div class="index-stat-mini">
+          <div class="index-stat-mini-label">YTD %</div>
+          <div class="index-stat-mini-val ${ytdCls}">${ytdStr}</div>
+        </div>
       </div>`;
     grid.appendChild(card);
 
@@ -1174,7 +2081,7 @@ function buildIndexChart(key, showAll) {
       },
       scales: {
         x: {
-          grid: { color: '#21262d' },
+          grid: { color: '#151a22' },
           ticks: {
             maxTicksLimit: 8,
             font: { size: 10 },
@@ -1184,7 +2091,7 @@ function buildIndexChart(key, showAll) {
           },
         },
         y: {
-          grid: { color: '#21262d' },
+          grid: { color: '#151a22' },
           ticks: { font: { size: 10 }, callback: v => fmt(v) },
         },
       },
@@ -1193,7 +2100,7 @@ function buildIndexChart(key, showAll) {
 }
 
 // =====================================================================
-// ETF TAB
+// ETF TAB (CHANGE 8)
 // =====================================================================
 async function renderETFTab() {
   const grid = document.getElementById('etfGrid');
@@ -1223,7 +2130,6 @@ function classifyHolding(name, ticker, etf) {
 }
 
 function shortenName(name) {
-  // Remove verbose prefixes while keeping meaningful parts
   return name
     .replace(/Capesize 5TC FFA 180kt Timecharter Average /i, 'Cape 5TC ')
     .replace(/Panamax 5TC FFA 82kt Timecharter Average /i, 'Panamax 5TC ')
@@ -1240,14 +2146,16 @@ async function renderETFCard(ticker, name, holdings, etfKey, grid) {
   card.id = `etfCard_${etfKey}`;
   grid.appendChild(card);
 
-  // --- Price fetch ---
   let priceHTML = '<span style="color:var(--text-muted)">Fetching…</span>';
   card.innerHTML = buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML);
-
-  // Build charts immediately
   buildETFDonut(etfKey, holdings);
 
-  // Fetch live price asynchronously
+  // Wire CSV download buttons (CHANGE 8)
+  const dlBtn = card.querySelector(`.etf-dl-btn`);
+  if (dlBtn) {
+    dlBtn.addEventListener('click', () => downloadETFHoldings(ticker, etfKey, holdings));
+  }
+
   try {
     const yahooUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1d&range=1d`;
     const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(yahooUrl)}`;
@@ -1270,11 +2178,24 @@ async function renderETFCard(ticker, name, holdings, etfKey, grid) {
   if (priceEl) priceEl.innerHTML = priceHTML;
 }
 
+function downloadETFHoldings(ticker, etfKey, holdings) {
+  const sorted = sortHoldings([...holdings], etfKey);
+  const headers = ['Name','Ticker','Lots','Price','Market Value','Weighting'];
+  const rows = sorted.map(h => [
+    h.Name || '',
+    h.Ticker || '',
+    h.Lots || '',
+    h.Price || '',
+    h.Market_Value || '',
+    h.Weightings || '',
+  ]);
+  const filename = ticker === 'BDRY' ? 'bdry_holdings_export.csv' : 'bwet_holdings_export.csv';
+  downloadCSV(filename, headers, rows);
+}
+
 function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
-  // Sort holdings
   const sorted = sortHoldings([...holdings], etfKey);
 
-  // Build holdings table
   let tableRows = '';
   for (const h of sorted) {
     const cls = classifyHolding(h.Name, h.Ticker, etfKey);
@@ -1293,13 +2214,11 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
     </tr>`;
   }
 
-  // Compute metrics
   const futuresRows = holdings.filter(h => classifyHolding(h.Name, h.Ticker, etfKey) !== 'cash');
   const cashRows    = holdings.filter(h => classifyHolding(h.Name, h.Ticker, etfKey) === 'cash');
   const totalFutures = futuresRows.reduce((s, h) => s + (parseFloat(h.Market_Value) || 0), 0);
   const totalCash    = cashRows.reduce((s, h) => s + (parseFloat(h.Market_Value) || 0), 0);
   const totalAUM     = totalFutures + totalCash;
-  const leverage     = totalAUM > 0 ? ((totalFutures / totalAUM) - 1) * 100 : 0;
 
   return `
     <div class="etf-header">
@@ -1308,7 +2227,10 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
       <div class="etf-price-row">${priceHTML}</div>
     </div>
 
-    <div class="etf-section-title">Holdings</div>
+    <div class="etf-section-title-row">
+      <div class="etf-section-title">Holdings</div>
+      <button class="dl-btn etf-dl-btn">⬇ CSV</button>
+    </div>
     <table class="holdings-table">
       <thead><tr>
         <th>Name</th>
@@ -1320,7 +2242,7 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
       <tbody>${tableRows}</tbody>
     </table>
 
-    <div class="etf-section-title">Exposure Breakdown</div>
+    <div class="etf-section-title" style="margin:16px 0 8px">Exposure Breakdown</div>
     <div class="donut-wrap">
       <canvas id="donut_${etfKey}"></canvas>
     </div>
@@ -1350,14 +2272,12 @@ function sortHoldings(holdings, etfKey) {
     const cb = classifyHolding(b.Name, b.Ticker, etfKey);
     const ia = order.indexOf(ca); const ib = order.indexOf(cb);
     if (ia !== ib) return ia - ib;
-    // Sort by contract month within same type
     return (a.Name || '').localeCompare(b.Name || '');
   });
   return holdings;
 }
 
 function buildETFDonut(etfKey, holdings) {
-  // Group by type
   const groups = {};
   for (const h of holdings) {
     const cls = classifyHolding(h.Name, h.Ticker, etfKey);
@@ -1375,7 +2295,6 @@ function buildETFDonut(etfKey, holdings) {
     colors = ['#f0883e', '#a371f7', '#484f58'];
   }
 
-  // Wait for canvas to be in DOM
   setTimeout(() => {
     const canvas = document.getElementById(`donut_${etfKey}`);
     if (!canvas) return;
@@ -1388,7 +2307,7 @@ function buildETFDonut(etfKey, holdings) {
         datasets: [{
           data: values,
           backgroundColor: colors,
-          borderColor: '#161b22',
+          borderColor: '#0f1318',
           borderWidth: 2,
         }],
       },
@@ -1420,8 +2339,8 @@ function buildETFDonut(etfKey, holdings) {
 // =====================================================================
 let currentTab = 'dashboard';
 let currentProduct = 'bdiy';
-let heatmapsRendered = false;
 let indicesRendered = false;
+let quarterlyRendered = false;
 
 function switchTab(tabId) {
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tabId));
@@ -1432,6 +2351,7 @@ function switchTab(tabId) {
 
   if (tabId === 'dashboard') renderDashboard(currentProduct);
   if (tabId === 'heatmaps')  renderHeatmaps(currentProduct);
+  if (tabId === 'quarterly') renderQuarterlyTab(currentProduct);
   if (tabId === 'indices' && !indicesRendered) { renderIndicesTab(); indicesRendered = true; }
   if (tabId === 'etfs')     renderETFTab();
 }
@@ -1445,6 +2365,7 @@ document.getElementById('globalProduct').addEventListener('change', function() {
   if (!DATA.loaded) return;
   if (currentTab === 'dashboard') renderDashboard(currentProduct);
   if (currentTab === 'heatmaps')  renderHeatmaps(currentProduct);
+  if (currentTab === 'quarterly') renderQuarterlyTab(currentProduct);
 });
 
 // =====================================================================
