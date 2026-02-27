@@ -427,6 +427,11 @@
     border: 1px solid var(--border);
     border-radius: 8px;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  .etf-holdings-section {
+    flex: 1;
   }
   .etf-header { margin-bottom: 16px; }
   .etf-ticker { font-size: 24px; font-weight: 800; color: var(--accent); }
@@ -2795,18 +2800,40 @@ async function renderETFCard(ticker, name, holdings, etfKey, grid) {
 
   try {
     const yahooUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1d&range=1d`;
-    const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(yahooUrl)}`;
-    const resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(10000) });
-    const json = await resp.json();
-    const data = JSON.parse(json.contents);
-    const meta = data.chart.result[0].meta;
-    const price = meta.regularMarketPrice;
-    const chgPct = meta.regularMarketChangePercent;
-    const sign = chgPct >= 0 ? '+' : '';
-    const chgCls = chgPct >= 0 ? 'change-pos' : 'change-neg';
-    priceHTML = `
-      <span class="etf-price">${price != null ? '$' + price.toFixed(2) : '—'}</span>
-      <span class="etf-change ${chgCls}">${chgPct != null ? sign + chgPct.toFixed(2) + '%' : ''}</span>`;
+    // Try multiple CORS proxies in sequence for reliability
+    const proxyFns = [
+      u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+      u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
+      u => `https://thingproxy.freeboard.io/fetch/${u}`,
+    ];
+    let meta = null;
+    for (const makeProxy of proxyFns) {
+      try {
+        const proxyUrl = makeProxy(yahooUrl);
+        const resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(8000) });
+        if (!resp.ok) continue;
+        const text = await resp.text();
+        // allorigins wraps in {contents:...}; others return raw JSON
+        let parsed;
+        try {
+          const wrapper = JSON.parse(text);
+          parsed = (wrapper.contents) ? JSON.parse(wrapper.contents) : wrapper;
+        } catch { continue; }
+        const r = parsed?.chart?.result?.[0]?.meta;
+        if (r && r.regularMarketPrice != null) { meta = r; break; }
+      } catch { continue; }
+    }
+    if (meta) {
+      const price = meta.regularMarketPrice;
+      const chgPct = meta.regularMarketChangePercent;
+      const sign = chgPct >= 0 ? '+' : '';
+      const chgCls = chgPct >= 0 ? 'change-pos' : 'change-neg';
+      priceHTML = `
+        <span class="etf-price">${price != null ? '$' + price.toFixed(2) : '—'}</span>
+        <span class="etf-change ${chgCls}">${chgPct != null ? sign + chgPct.toFixed(2) + '%' : ''}</span>`;
+    } else {
+      priceHTML = '<span style="color:var(--text-muted);font-size:13px">Price unavailable</span>';
+    }
   } catch (e) {
     priceHTML = '<span style="color:var(--text-muted);font-size:13px">Price unavailable</span>';
   }
@@ -2864,6 +2891,7 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
       <div class="etf-price-row">${priceHTML}</div>
     </div>
 
+    <div class="etf-holdings-section">
     <div class="etf-section-title-row">
       <div class="etf-section-title">Holdings</div>
       <button class="dl-btn etf-dl-btn">⬇ CSV</button>
@@ -2878,6 +2906,7 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
       </tr></thead>
       <tbody>${tableRows}</tbody>
     </table>
+    </div>
 
     <div class="etf-section-title" style="margin:16px 0 8px">Futures Allocation (excl. collateral cash)</div>
     <div class="donut-wrap">
@@ -3236,14 +3265,23 @@ function rebuildYDHistChart(productKey) {
   var avgLabel = _ydHistAvgWindow > 0 ? (_ydHistAvgWindow + 'Y Rolling Avg') : 'All-Time Avg';
   var prod = PRODUCTS[productKey];
 
+  // Preserve hidden state from previous chart instance
+  var histHiddenByLabel = {};
+  var prevHistChart = chartRegistry['yearlyHistChart'];
+  if (prevHistChart && prevHistChart.data && prevHistChart.data.datasets) {
+    prevHistChart.data.datasets.forEach(function(ds, i) {
+      histHiddenByLabel[ds.label] = !prevHistChart.isDatasetVisible(i);
+    });
+  }
+
   destroyChart('yearlyHistChart');
   var canvas = document.getElementById('yearlyHistChart');
   if (!canvas) return;
   chartRegistry['yearlyHistChart'] = new Chart(canvas.getContext('2d'), {
     type: 'line',
     data: { labels: labels, datasets: [
-      { label: prod.label,  data: values,     borderColor: prod.color,  backgroundColor: prod.color + '33', borderWidth: 1.5, pointRadius: 0, fill: true,  tension: 0.1 },
-      { label: avgLabel,    data: rollingAvg, borderColor: '#e3b341',   backgroundColor: 'transparent',     borderWidth: 1.5, borderDash: [5,3], pointRadius: 0, fill: false, tension: 0.1 },
+      { label: prod.label,  data: values,     borderColor: prod.color,  backgroundColor: prod.color + '33', borderWidth: 1.5, pointRadius: 0, fill: true,  tension: 0.1, hidden: histHiddenByLabel[prod.label] || false },
+      { label: avgLabel,    data: rollingAvg, borderColor: '#e3b341',   backgroundColor: 'transparent',     borderWidth: 1.5, borderDash: [5,3], pointRadius: 0, fill: false, tension: 0.1, hidden: histHiddenByLabel[avgLabel] || false },
     ]},
     options: {
       responsive: true, maintainAspectRatio: false,
@@ -3401,15 +3439,26 @@ function _buildZscoreChart(productKey, canvasId, allZData, masterLabels, s, e) {
   var slicedSet = {};
   slicedLabels.forEach(function(l){ slicedSet[l] = true; });
 
+  // Preserve hidden state from previous chart instance (legend clicks)
+  var hiddenByLabel = {};
+  var prevChart = chartRegistry[canvasId];
+  if (prevChart && prevChart.data && prevChart.data.datasets) {
+    prevChart.data.datasets.forEach(function(ds, i) {
+      hiddenByLabel[ds.label] = !prevChart.isDatasetVisible(i);
+    });
+  }
+
   var datasets = PRODUCT_KEYS.map(function(key) {
     var zByDate = {};
     allZData[key].forEach(function(d){ zByDate[d.dateStr] = d.z; });
     var aligned = slicedLabels.map(function(lbl){ var v = zByDate[lbl]; return (v != null) ? v : null; });
+    var lbl = PRODUCTS[key].label;
     return {
-      label: PRODUCTS[key].label,
+      label: lbl,
       data: aligned,
       borderColor: PRODUCTS[key].color, backgroundColor: 'transparent',
-      borderWidth: key === productKey ? 2.5 : 1, pointRadius: 0, tension: 0.1, spanGaps: true
+      borderWidth: key === productKey ? 2.5 : 1, pointRadius: 0, tension: 0.1, spanGaps: true,
+      hidden: hiddenByLabel[lbl] || false
     };
   });
 
