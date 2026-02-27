@@ -2909,7 +2909,12 @@ function sortHoldings(holdings, etfKey) {
     const cb = classifyHolding(b.Name, b.Ticker, etfKey);
     const ia = order.indexOf(ca); const ib = order.indexOf(cb);
     if (ia !== ib) return ia - ib;
-    return (a.Name || '').localeCompare(b.Name || '');
+    // Sort within class by contract month (earliest first), cash/non-dated last
+    const pa = parseContractMonth(a.Name, a.Ticker);
+    const pb = parseContractMonth(b.Name, b.Ticker);
+    const ka = pa ? pa.sortKey : 999999;
+    const kb = pb ? pb.sortKey : 999999;
+    return ka - kb;
   });
   return holdings;
 }
