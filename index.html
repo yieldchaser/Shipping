@@ -4250,38 +4250,20 @@ async function renderBdryLiquidityTracker() {
   var loadingEl = document.getElementById('bdryLiqLoading');
   if (!loadingEl) return;
 
-  // Fetch via two proxy calls: 5y (reliable) + try to extend further back
-  // We merge and deduplicate by timestamp
+  // Single fetch: range=10y via allorigins proxy
+  // Returns full BDRY history from IPO (Mar 2018) in one call — 202KB, confirmed working
   var allRows = [];
 
   try {
-    // Primary fetch: 5y via allorigins proxy
     var proxyBase = 'https://api.allorigins.win/get?url=';
-    var yahooBase = 'https://query1.finance.yahoo.com/v8/finance/chart/BDRY?interval=1d&range=';
+    var yahooUrl  = 'https://query1.finance.yahoo.com/v8/finance/chart/BDRY?interval=1d&range=10y';
 
-    var resp5y = await fetch(proxyBase + encodeURIComponent(yahooBase + '5y'), { signal: AbortSignal.timeout(15000) });
-    var json5y  = await resp5y.json();
-    var data5y  = JSON.parse(json5y.contents);
-    allRows = allRows.concat(parseYahooRows(data5y));
-
-    // Try to extend history further back (2018–2021) — second proxy call
-    // Use a different time window: 5y ending at 2021-03-01 (unix 1614556800)
-    // Actually Yahoo doesn't support end-date via range=, so use period1/period2
-    // But allorigins 500s on period1/period2 for large payloads.
-    // Instead: fetch range=max on a second proxy call — if it works, use it; if not, we're fine with 5y
-    try {
-      var respMax = await fetch(proxyBase + encodeURIComponent('https://query1.finance.yahoo.com/v8/finance/chart/BDRY?interval=1d&range=max'), { signal: AbortSignal.timeout(12000) });
-      if (respMax.ok) {
-        var jsonMax = await respMax.json();
-        if (jsonMax && jsonMax.contents && jsonMax.contents[0] !== '<') {
-          var dataMax = JSON.parse(jsonMax.contents);
-          var maxRows = parseYahooRows(dataMax);
-          if (maxRows.length > allRows.length) allRows = maxRows; // use max if we got more data
-        }
-      }
-    } catch(e2) {
-      // max failed — fine, we have 5y
-    }
+    var resp = await fetch(proxyBase + encodeURIComponent(yahooUrl), { signal: AbortSignal.timeout(20000) });
+    if (!resp.ok) throw new Error('Proxy returned HTTP ' + resp.status);
+    var json = await resp.json();
+    if (!json.contents || json.contents[0] === '<') throw new Error('Proxy returned non-JSON contents');
+    var data = JSON.parse(json.contents);
+    allRows = parseYahooRows(data);
 
     if (!allRows.length) throw new Error('No data returned');
 
