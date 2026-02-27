@@ -3082,6 +3082,7 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
       <div class="research-group">
         <div class="research-group-label">ETF Data</div>
         <div class="research-link"><span class="research-link-icon">📈</span><a href="${etfKey === 'bdry' ? 'https://amplifyetfs.com/bdry/' : 'https://amplifyetfs.com/bwet/'}" target="_blank" rel="noopener">Amplify ETFs — ${ticker} Official Page</a></div>
+        <div class="research-link"><span class="research-link-icon">📐</span><a href="${etfKey === 'bdry' ? 'https://www.solactive.com/index/DE000SLA4BY3/' : 'https://www.solactive.com/index/DE000SL0HLG3/'}" target="_blank" rel="noopener">Solactive — ${etfKey === 'bdry' ? 'Breakwave Dry Freight Futures Index' : 'Breakwave Wet Freight Futures Index'}</a></div>
       </div>
     </div>
 `;
