@@ -3,7 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Baltic Shipping Market Dashboard</title>
+<title>Baltic Shipping Dashboard</title>
+<!-- Pirate ship favicon — inline SVG as data URI, works in all browsers -->
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🏴‍☠️%3C/text%3E%3C/svg%3E">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
 <style>
@@ -708,7 +710,7 @@
 
 <!-- HEADER -->
 <div class="header">
-  <h1><span class="logo">⚓</span> Baltic Shipping Dashboard</h1>
+  <h1><span class="logo">🏴‍☠️</span> Baltic Shipping Dashboard</h1>
   <div class="product-selector">
     <label for="globalProduct">Index:</label>
     <select id="globalProduct">
@@ -734,6 +736,25 @@
   <button class="tab-btn" data-tab="indices">📈 Indices</button>
   <button class="tab-btn" data-tab="etfs">🏦 ETFs</button>
   <button class="tab-btn" data-tab="signals">🎯 Signals</button>
+</div>
+
+<!-- HENRY AVERY QUOTE BANNER -->
+<div style="
+  background: linear-gradient(90deg, rgba(240,192,64,0.07) 0%, rgba(240,192,64,0.03) 50%, rgba(240,192,64,0.07) 100%);
+  border-bottom: 1px solid rgba(240,192,64,0.18);
+  padding: 7px 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+  color: rgba(240,192,64,0.75);
+  font-style: italic;
+  letter-spacing: 0.2px;
+  user-select: none;
+">
+  <span style="font-size:15px;filter:grayscale(0.2);">🏴‍☠️</span>
+  <span>&ldquo;I am a Man of Fortune, and I must seek my Fortune.&rdquo;</span>
+  <span style="font-style:normal;font-size:11px;color:rgba(240,192,64,0.45);margin-left:4px;">— Henry Avery, 1694</span>
 </div>
 
 <div class="alerts-container" id="alertsContainer">
