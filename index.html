@@ -1048,18 +1048,8 @@
        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;">Daily Volume &amp; Tier Thresholds</div>
        <div class="chart-canvas-wrap" style="height:200px;margin-bottom:28px;"><canvas id="bdryVolChart"></canvas></div>
 
-       <!-- Avg Volume & $ Value by rolling window + single-handle range slider -->
+       <!-- Avg Volume & $ Value by rolling window — always uses full dataset -->
        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;">Avg Volume &amp; Dollar Value — Rolling Windows</div>
-       <div class="index-range-wrap" style="padding:2px 0 6px;">
-         <div class="index-range-label">
-           <span>Lookback end:</span>
-           <span id="bdryAvgRangeLabel">Latest</span>
-         </div>
-         <div class="dual-range-track" id="bdryAvgRangeTrack">
-           <div class="dual-range-fill" id="bdryAvgRangeFill"></div>
-           <input type="range" id="bdryAvgRangeEnd" min="0" max="100" value="100" step="1">
-         </div>
-       </div>
        <div class="chart-canvas-wrap" style="height:260px;margin-bottom:20px;"><canvas id="bdryAvgChart"></canvas></div>
 
        <!-- Data table -->
@@ -4297,7 +4287,6 @@ function renderTermCurve(etfKey, holdings, canvasId, slopeId) {
 var _bdryLiqData = null; // cached full dataset
 var _bdryLiqRangeS = 0;  // current slider start index
 var _bdryLiqRangeE = 0;  // current slider end index (set after data loads)
-var _bdryAvgRangeE = 0;  // lookback-end index for avg chart
 
 function getBdryLiqTierPct(volume) {
   if (volume < 50000)  return 0.020;
@@ -4367,7 +4356,7 @@ async function renderBdryLiquidityTracker() {
 
     // Init range sliders now that we have data
     initBdryLiqRangeSlider(allRows);
-    initBdryAvgRangeSlider(allRows);
+    buildBdryAvgChart(allRows, allRows.length - 1);
 
   } catch(err) {
     loadingEl.textContent = '⚠️ Could not load BDRY market data: ' + err.message;
@@ -4403,11 +4392,8 @@ function initBdryLiqRangeSlider(allRows) {
   startEl.max = total - 1;
   endEl.max   = total - 1;
 
-  // Default: last 1 year
-  var cutoff1y = new Date(); cutoff1y.setFullYear(cutoff1y.getFullYear() - 1);
-  var def1yIdx = 0;
-  for (var i = 0; i < total; i++) { if (allRows[i].date >= cutoff1y) { def1yIdx = i; break; } }
-  startEl.value = def1yIdx;
+  // Default: full range (all available data)
+  startEl.value = 0;
   endEl.value   = total - 1;
 
   function update() {
@@ -4438,30 +4424,6 @@ function initBdryLiqRangeSlider(allRows) {
   update();
 }
 
-// ── Range slider for Avg chart (single end-handle) ───────────────────────────
-function initBdryAvgRangeSlider(allRows) {
-  var total   = allRows.length;
-  var endEl   = document.getElementById('bdryAvgRangeEnd');
-  var fillEl  = document.getElementById('bdryAvgRangeFill');
-  var labelEl = document.getElementById('bdryAvgRangeLabel');
-  if (!endEl) return;
-
-  endEl.max   = total - 1;
-  endEl.value = total - 1;
-
-  function update() {
-    var e = parseInt(endEl.value);
-    _bdryAvgRangeE = e;
-    var pctE = (e / (total - 1)) * 100;
-    if (fillEl) { fillEl.style.left = '0%'; fillEl.style.width = pctE + '%'; }
-    if (labelEl) { labelEl.textContent = e === total - 1 ? 'Latest (' + allRows[e].dateStr + ')' : allRows[e].dateStr; }
-    buildBdryAvgChart(allRows, e);
-  }
-
-  var ne = endEl.cloneNode(true); endEl.parentNode.replaceChild(ne, endEl);
-  ne.addEventListener('input', update);
-  update();
-}
 
 function buildBdryLiqKpi(allRows) {
   var el = document.getElementById('bdryLiqKpi');
