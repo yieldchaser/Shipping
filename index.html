@@ -2545,7 +2545,7 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
       <tbody>${tableRows}</tbody>
     </table>
 
-    <div class="etf-section-title" style="margin:16px 0 8px">Exposure Breakdown</div>
+    <div class="etf-section-title" style="margin:16px 0 8px">Futures Allocation (excl. collateral cash)</div>
     <div class="donut-wrap">
       <canvas id="donut_${etfKey}"></canvas>
     </div>
@@ -2556,12 +2556,12 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
         <div class="etf-metric-value">$${(totalFutures / 1e6).toFixed(1)}M</div>
       </div>
       <div class="etf-metric">
-        <div class="etf-metric-label">Cash & Other</div>
-        <div class="etf-metric-value">$${(totalCash / 1e6).toFixed(1)}M</div>
+        <div class="etf-metric-label">Collateral Cash</div>
+        <div class="etf-metric-value" style="color:var(--text-muted)">${(totalCash / 1e6).toFixed(1)}M</div>
       </div>
       <div class="etf-metric">
         <div class="etf-metric-label">Futures / AUM</div>
-        <div class="etf-metric-value">${(totalFutures / totalAUM * 100).toFixed(1)}%</div>
+        <div class="etf-metric-value" style="color:var(--green)">${(totalFutures / totalAUM * 100).toFixed(1)}%</div>
       </div>
     </div>`;
 }
@@ -2587,16 +2587,22 @@ function buildETFDonut(etfKey, holdings) {
     groups[cls] = (groups[cls] || 0) + (parseFloat(h.Market_Value) || 0);
   }
 
+  // Cash is structural margin collateral (pledged for futures per SEC filings) — excluded.
+  // Chart shows only futures notional, normalised to 100%.
   let labels, values, colors;
   if (etfKey === 'bdry') {
-    labels = ['Capesize', 'Panamax', 'Supramax', 'Cash & Other'];
-    values = [groups.cape||0, groups.pana||0, groups.supra||0, groups.cash||0];
-    colors = ['#58a6ff', '#3fb950', '#d29922', '#484f58'];
+    labels = ['Capesize', 'Panamax', 'Supramax'];
+    values = [groups.cape||0, groups.pana||0, groups.supra||0];
+    colors = ['#58a6ff', '#3fb950', '#d29922'];
   } else {
-    labels = ['TD3C', 'TD20', 'Cash & Other'];
-    values = [groups.td3c||0, groups.td20||0, groups.cash||0];
-    colors = ['#f0883e', '#a371f7', '#484f58'];
+    labels = ['MEG-China (TD3C)', 'WAF-Continent (TD20)'];
+    values = [groups.td3c||0, groups.td20||0];
+    colors = ['#f0883e', '#a371f7'];
   }
+
+  // Normalise to 100% of futures notional
+  const totalFuturesNotional = values.reduce((s, v) => s + v, 0);
+  values = totalFuturesNotional > 0 ? values.map(v => (v / totalFuturesNotional) * 100) : values;
 
   setTimeout(() => {
     const canvas = document.getElementById(`donut_${etfKey}`);
@@ -2624,11 +2630,7 @@ function buildETFDonut(etfKey, holdings) {
           },
           tooltip: {
             callbacks: {
-              label: ctx => {
-                const total = ctx.dataset.data.reduce((s, v) => s + v, 0);
-                const pct = total ? (ctx.parsed / total * 100).toFixed(1) : 0;
-                return ` ${ctx.label}: $${(ctx.parsed / 1e6).toFixed(2)}M (${pct}%)`;
-              },
+              label: ctx => ` ${ctx.label}: ${ctx.parsed.toFixed(1)}% of futures`,
             },
           },
         },
