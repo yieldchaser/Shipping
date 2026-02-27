@@ -669,7 +669,6 @@
   <button class="tab-btn" data-tab="etfs">🏦 ETFs</button>
   <button class="tab-btn" data-tab="yearly-dash">📅 Yearly</button>
   <button class="tab-btn" data-tab="monthly-dash">📆 Monthly</button>
-  <button class="tab-btn" data-tab="quarterly-dash">📊 Quarterly+</button>
 </div>
 
 <div class="alerts-container" id="alertsContainer">
@@ -875,13 +874,46 @@
     </div>
 
     <!-- Spaghetti Chart -->
-    <div class="chart-container">
+    <div class="chart-container mb-20">
       <div class="chart-header">
         <div class="chart-title">Quarterly Performance by Year (Spaghetti)</div>
       </div>
       <div class="spaghetti-wrap">
         <canvas id="spaghettiChart"></canvas>
       </div>
+    </div>
+
+    <!-- Quarterly Area Comparison 1 -->
+    <div class="chart-container mb-20">
+      <div class="chart-header"><div class="chart-title">Quarterly Area Comparison &mdash; Current vs Prior Year</div></div>
+      <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyAreaComp1Chart"></canvas></div>
+    </div>
+
+    <!-- Quarterly Trend -->
+    <div class="chart-container mb-20">
+      <div class="chart-header"><div class="chart-title">Quarterly Trend (Last 5 Years)</div></div>
+      <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyTrendChart"></canvas></div>
+    </div>
+
+    <!-- Quarterly Bar Chart -->
+    <div class="chart-container mb-20">
+      <div class="chart-header"><div class="chart-title">Quarterly Bar Chart (Last 4 Quarters, QoQ Color)</div></div>
+      <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyBarChart"></canvas></div>
+    </div>
+
+    <!-- Quarterly Area Comparison 2 -->
+    <div class="chart-container mb-20">
+      <div class="chart-header"><div class="chart-title">Quarterly Area Comparison &mdash; Current Year vs 5Y Seasonal Avg</div></div>
+      <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyAreaComp2Chart"></canvas></div>
+    </div>
+
+    <!-- Quarterly Data Grid -->
+    <div class="chart-section">
+      <div class="chart-header">
+        <div class="chart-header-title">Quarterly Data Grid (Last 8 Years)</div>
+        <button class="dl-btn" id="quarterlyDashGridDlBtn">&#x2B07; CSV</button>
+      </div>
+      <div style="overflow-x:auto"><div id="quarterlyDashDataGrid"></div></div>
     </div>
   </div>
 
@@ -957,33 +989,6 @@
         <button class="dl-btn" id="monthlyGridDlBtn">&#x2B07; CSV</button>
       </div>
       <div style="overflow-x:auto"><div id="monthlyDataGrid"></div></div>
-    </div>
-  </div>
-
-  <!-- ===== TAB: QUARTERLY DASHBOARD ===== -->
-  <div class="tab-panel" id="tab-quarterly-dash">
-    <div class="chart-container mb-20">
-      <div class="chart-header"><div class="chart-title">Quarterly Area Comparison &mdash; Current vs Prior Year</div></div>
-      <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyAreaComp1Chart"></canvas></div>
-    </div>
-    <div class="chart-container mb-20">
-      <div class="chart-header"><div class="chart-title">Quarterly Trend (Last 5 Years)</div></div>
-      <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyTrendChart"></canvas></div>
-    </div>
-    <div class="chart-container mb-20">
-      <div class="chart-header"><div class="chart-title">Quarterly Bar Chart (Last 4 Quarters, QoQ Color)</div></div>
-      <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyBarChart"></canvas></div>
-    </div>
-    <div class="chart-container mb-20">
-      <div class="chart-header"><div class="chart-title">Quarterly Area Comparison &mdash; Current Year vs 5Y Seasonal Avg</div></div>
-      <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyAreaComp2Chart"></canvas></div>
-    </div>
-    <div class="chart-section">
-      <div class="chart-header">
-        <div class="chart-header-title">Quarterly Data Grid (Last 8 Years)</div>
-        <button class="dl-btn" id="quarterlyDashGridDlBtn">&#x2B07; CSV</button>
-      </div>
-      <div style="overflow-x:auto"><div id="quarterlyDashDataGrid"></div></div>
     </div>
   </div>
 
@@ -2036,6 +2041,11 @@ function renderQuarterlyTab(productKey) {
   renderWinRateCards(productKey);
   renderQuarterlyHeatmap(productKey);
   renderSpaghettiChart(productKey);
+  renderQDAreaComp1(productKey);
+  renderQDTrend(productKey);
+  renderQDBarChart(productKey);
+  renderQDAreaComp2(productKey);
+  renderQDDataGrid(productKey);
 
   document.getElementById('quarterlyDlBtn').onclick = () => downloadQuarterlyHeatmapCSV(productKey);
   document.getElementById('quarterlyHeatmapDlBtn').onclick = () => downloadQuarterlyHeatmapCSV(productKey);
@@ -2755,7 +2765,6 @@ function switchTab(tabId) {
   if (tabId === 'etfs')     renderETFTab();
   if (tabId === 'yearly-dash')    renderYearlyDash(currentProduct);
   if (tabId === 'monthly-dash')   renderMonthlyDash(currentProduct);
-  if (tabId === 'quarterly-dash') renderQuarterlyDash(currentProduct);
 }
 
 document.querySelectorAll('.tab-btn').forEach(btn => {
@@ -2770,7 +2779,6 @@ document.getElementById('globalProduct').addEventListener('change', function() {
   if (currentTab === 'quarterly') renderQuarterlyTab(currentProduct);
   if (currentTab === 'yearly-dash')    renderYearlyDash(currentProduct);
   if (currentTab === 'monthly-dash')   renderMonthlyDash(currentProduct);
-  if (currentTab === 'quarterly-dash') renderQuarterlyDash(currentProduct);
 });
 
 // =====================================================================
