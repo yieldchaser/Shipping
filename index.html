@@ -497,8 +497,16 @@
   .etf-fund-link { display: flex; align-items: flex-start; gap: 6px; padding: 4px 0; }
   .etf-fund-link a { color: var(--text); font-size: 12px; text-decoration: none; transition: color 0.15s; }
   .etf-fund-link a:hover { color: var(--accent); text-decoration: underline; }
-  /* ETF image */
-  .etf-card-image { width: 100%; margin-top: 16px; border-radius: 6px; border: 1px solid var(--border); object-fit: contain; height: 220px; max-height: 220px; }
+  /* ETF image block: image left, legend right */
+  .etf-image-block { display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: start; margin-top: 16px; }
+  .etf-card-image { width: 100%; border-radius: 6px; border: 1px solid var(--border); object-fit: cover; height: 220px; display: block; }
+  .etf-map-legend { display: flex; flex-direction: column; gap: 7px; padding: 8px 10px; background: var(--bg); border: 1px solid var(--border); border-radius: 6px; min-width: 170px; max-width: 185px; height: 220px; box-sizing: border-box; justify-content: center; }
+  .etf-legend-item { display: flex; align-items: center; gap: 7px; font-size: 11px; color: var(--text-muted); white-space: nowrap; }
+  .etf-legend-dot { font-size: 13px; flex-shrink: 0; line-height: 1; }
+  .etf-legend-line { display: flex; align-items: center; gap: 7px; font-size: 11px; color: var(--text-muted); }
+  .etf-legend-dash { width: 18px; height: 2px; background: var(--text-muted); flex-shrink: 0; border-radius: 1px; }
+  .etf-legend-sep { height: 1px; background: var(--border); margin: 2px 0; }
+  @media (max-width: 600px) { .etf-image-block { grid-template-columns: 1fr; } .etf-map-legend { max-width: 100%; height: auto; flex-direction: row; flex-wrap: wrap; } }
   /* Routes section */
   .etf-routes-section { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--border); }
   .etf-routes-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-bottom: 10px; }
@@ -3011,7 +3019,16 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
       </div>
     </div>
     ${etfKey === 'bdry' ? `
-    <img src="BDRY_Export-Map-1024x548.webp" alt="BDRY Chart" class="etf-card-image" />
+    <div class="etf-image-block">
+      <img src="BDRY_Export-Map-1024x548.webp" alt="BDRY Export Map" class="etf-card-image" />
+      <div class="etf-map-legend">
+        <div class="etf-legend-item"><span class="etf-legend-dot">⚫</span>Major Dry Bulk Exporting Nations</div>
+        <div class="etf-legend-sep"></div>
+        <div class="etf-legend-item"><span class="etf-legend-dot">🔵</span>Major Dry Bulk Importing Nations</div>
+        <div class="etf-legend-sep"></div>
+        <div class="etf-legend-line"><span class="etf-legend-dash"></span>Dry Bulk Routes</div>
+      </div>
+    </div>
     <div class="etf-fundamentals-section">
       <div class="etf-research-title">🚢 Dry Bulk Fundamentals — Data Sources</div>
       <div class="etf-fund-group">
@@ -3029,7 +3046,34 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
         <div class="etf-fund-link"><span class="research-link-icon">🇦🇺</span><a href="https://en.macromicro.me/series/4676/australia-iron-ore-export-value" target="_blank" rel="noopener">Australia Iron Ore Export Value</a></div>
       </div>
     </div>` : `
-    <img src="BWET_Tanker-Map-1-1024x585.webp" alt="BWET Chart" class="etf-card-image" />`}
+    <div class="etf-image-block">
+      <img src="BWET_Tanker-Map-1-1024x585.webp" alt="BWET Tanker Map" class="etf-card-image" />
+      <div class="etf-map-legend">
+        <div class="etf-legend-item"><span class="etf-legend-dot">⚫</span>Major Crude Exporting Nations</div>
+        <div class="etf-legend-sep"></div>
+        <div class="etf-legend-item"><span class="etf-legend-dot">🔵</span>Major Crude Importing Nations</div>
+        <div class="etf-legend-sep"></div>
+        <div class="etf-legend-line"><span class="etf-legend-dash"></span>Major Crude Tanker Routes</div>
+        <div class="etf-legend-sep"></div>
+        <div class="etf-legend-item"><span class="etf-legend-dot">🟪</span>BWET Focused Routes</div>
+      </div>
+    </div>
+    <div class="etf-fundamentals-section">
+      <div class="etf-research-title">🛢 Tanker Fundamentals — Data Sources</div>
+      <div class="etf-fund-group">
+        <div class="etf-fund-group-label">Crude &amp; Product Demand</div>
+        <div class="etf-fund-link"><span class="research-link-icon">🛢</span><a href="https://en.macromicro.me/series/34/crude-oil-price-wti" target="_blank" rel="noopener">WTI Crude Oil Price</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">📦</span><a href="https://en.macromicro.me/series/23868/us-crude-oil-inventories" target="_blank" rel="noopener">US Crude Oil Inventories</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">🇨🇳</span><a href="https://en.macromicro.me/series/1324/cn-import-volume-of-crude-oil" target="_blank" rel="noopener">China Crude Oil Imports</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">🏭</span><a href="https://en.macromicro.me/series/26948/china-crude-oil-refinery-throughput" target="_blank" rel="noopener">China Refinery Throughput</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">📊</span><a href="https://en.macromicro.me/series/6/us-crude-oil-production" target="_blank" rel="noopener">US Crude Oil Production</a></div>
+      </div>
+      <div class="etf-fund-group">
+        <div class="etf-fund-group-label">Key Trade Routes</div>
+        <div class="etf-fund-link"><span class="research-link-icon">🟪</span><a href="https://en.macromicro.me/series/34/crude-oil-price-wti" target="_blank" rel="noopener">TD3C — Ras Tanura (MEG) → Ningbo (Far East)</a></div>
+        <div class="etf-fund-link"><span class="research-link-icon">🟪</span><a href="https://en.macromicro.me/series/34/crude-oil-price-wti" target="_blank" rel="noopener">TD20 — Nigeria (WAF) → Rotterdam</a></div>
+      </div>
+    </div>`}
     <div class="etf-research-section">
       <div class="etf-research-title">📰 Market Outlook &amp; Research Sources</div>
       <div class="research-group">
@@ -3043,18 +3087,6 @@ function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
         <div class="research-link"><span class="research-link-icon">📈</span><a href="${etfKey === 'bdry' ? 'https://amplifyetfs.com/bdry/' : 'https://amplifyetfs.com/bwet/'}" target="_blank" rel="noopener">Amplify ETFs — ${ticker} Official Page</a></div>
       </div>
     </div>
-    ${etfKey === 'bwet' ? `
-    <div class="etf-routes-section">
-      <div class="etf-routes-title">🛢 Key Routes to Monitor</div>
-      <div class="etf-route-item">
-        <span class="etf-route-code">TD3C</span>
-        <span class="etf-route-desc">Ras Tanura (Middle East) → Ningbo (Far East)</span>
-      </div>
-      <div class="etf-route-item">
-        <span class="etf-route-code">TD20</span>
-        <span class="etf-route-desc">Nigeria → Rotterdam</span>
-      </div>
-    </div>` : ''}
 `;
 }
 
