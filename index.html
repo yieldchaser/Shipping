@@ -494,6 +494,7 @@
   /* Fundamentals section */
   .etf-fundamentals-section { margin-top: 16px; padding-top: 16px; border-top: 1px solid var(--border); min-height: 260px; }
   .etf-fund-group { margin-bottom: 14px; }
+  .etf-fund-group:first-child { min-height: 182px; }
   .etf-fund-group-label { font-size: 10px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 5px; }
   .etf-fund-link { display: flex; align-items: flex-start; gap: 6px; padding: 4px 0; }
   .etf-fund-link a { color: var(--text); font-size: 12px; text-decoration: none; transition: color 0.15s; }
@@ -501,8 +502,8 @@
   /* ETF image block: image left, legend right */
   .etf-image-block { display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: start; margin-top: 16px; }
   .etf-card-image { width: 100%; border-radius: 6px; border: 1px solid var(--border); object-fit: cover; height: 220px; display: block; }
-  .etf-map-legend { display: flex; flex-direction: column; gap: 7px; padding: 8px 10px; background: var(--bg); border: 1px solid var(--border); border-radius: 6px; min-width: 170px; max-width: 185px; height: 220px; box-sizing: border-box; justify-content: center; }
-  .etf-legend-item { display: flex; align-items: center; gap: 7px; font-size: 11px; color: var(--text-muted); white-space: nowrap; }
+  .etf-map-legend { display: flex; flex-direction: column; gap: 5px; padding: 8px 10px; background: var(--bg); border: 1px solid var(--border); border-radius: 6px; width: 160px; min-width: 160px; max-width: 160px; height: 220px; box-sizing: border-box; justify-content: center; }
+  .etf-legend-item { display: flex; align-items: flex-start; gap: 6px; font-size: 10.5px; color: var(--text-muted); white-space: normal; line-height: 1.35; }
   .etf-legend-dot { font-size: 13px; flex-shrink: 0; line-height: 1; }
   .etf-legend-line { display: flex; align-items: center; gap: 7px; font-size: 11px; color: var(--text-muted); }
   .etf-legend-dash { width: 18px; height: 2px; background: var(--text-muted); flex-shrink: 0; border-radius: 1px; }
