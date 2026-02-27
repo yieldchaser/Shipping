@@ -1019,7 +1019,9 @@ const PRODUCT_KEYS = Object.keys(PRODUCTS);
 
 const YEAR_COLORS = [
   '#58a6ff', '#3fb950', '#d29922', '#f0883e', '#a371f7',
-  '#e3b341', '#79c0ff', '#56d364', '#f0883e', '#bc8cff',
+  '#e3b341', '#79c0ff', '#56d364', '#ffa657', '#bc8cff',
+  '#ff7b72', '#39d353', '#b392f0', '#f78166', '#7ee787',
+  '#ffa198', '#6cb6ff', '#dbb68f', '#c9d1d9', '#8b949e',
 ];
 
 // =====================================================================
@@ -1466,7 +1468,7 @@ function renderOverlayChart(productKey) {
   const checkboxContainer = document.getElementById('yearCheckboxes');
   checkboxContainer.innerHTML = '';
 
-  const priorYears = years.filter(y => y < currentYear).slice(-8);
+  const priorYears = years.filter(y => y < currentYear);
 
   for (const y of priorYears) {
     const checked = defaultCompare.includes(y) ? 'checked' : '';
