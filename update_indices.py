@@ -22,15 +22,14 @@ def scrape_index(code):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
     }
-    
+
     try:
         response = requests.get(url, headers=headers, timeout=30)
+        response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
-        
-        # Find all tables
+
         tables = soup.find_all('table')
-        
-        # Look for table with Date, Index, Change% columns
+
         data = []
         for table in tables:
             rows = table.find_all('tr')
@@ -40,53 +39,49 @@ def scrape_index(code):
                     date_text = cols[0].text.strip()
                     index_text = cols[1].text.strip().replace(',', '')
                     change_text = cols[2].text.strip()
-                    
+
                     try:
-                        # Parse date (format: 2026/02/18 from screenshot)
                         date = pd.to_datetime(date_text, format='%Y/%m/%d')
                         index_val = float(index_text)
-                        
+                        if index_val <= 0:
+                            continue  # skip zero/negative — sanity check
                         data.append({
                             'Date': date.strftime('%d-%m-%Y'),
                             'Index': index_val,
                             '% Change': change_text
                         })
-                    except:
+                    except (ValueError, TypeError):
                         continue
-        
+
         return pd.DataFrame(data)
-        
+
     except Exception as e:
         print(f"Error scraping {code}: {e}")
         return pd.DataFrame()
 
 def update_csv(filename, new_data):
-    """Merge new data with existing CSV, keep only latest"""
+    """Merge new data with existing CSV, deduplicate, sort correctly"""
     filepath = filename
-    
-    # Load existing if present
+
+    new_data = new_data.copy()
+    new_data['Date_parsed'] = pd.to_datetime(new_data['Date'], format='%d-%m-%Y')
+
     if os.path.exists(filepath):
         existing = pd.read_csv(filepath)
-        
-        # Convert dates for comparison (handle both formats)
         try:
             existing['Date_parsed'] = pd.to_datetime(existing['Date'], format='%d-%m-%Y')
-        except:
+        except Exception:
             existing['Date_parsed'] = pd.to_datetime(existing['Date'], dayfirst=True)
-            
-        new_data['Date_parsed'] = pd.to_datetime(new_data['Date'], format='%d-%m-%Y')
-        
-        # Combine and remove duplicates (keep new data if same date)
+
         combined = pd.concat([existing, new_data])
         combined = combined.drop_duplicates(subset=['Date_parsed'], keep='last')
-        combined = combined.sort_values('Date_parsed')
-        
-        # Drop helper column
-        combined = combined.drop(columns=['Date_parsed'])
     else:
-        combined = new_data.sort_values('Date')
-    
-    # Save
+        combined = new_data.copy()
+
+    # Always sort by the parsed date column (correct chronological order)
+    combined = combined.sort_values('Date_parsed')
+    combined = combined.drop(columns=['Date_parsed'])
+
     combined.to_csv(filepath, index=False)
     print(f"{filename}: {len(new_data)} new rows, {len(combined)} total rows")
 

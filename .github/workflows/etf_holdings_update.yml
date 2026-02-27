@@ -2,10 +2,8 @@ name: ETF Holdings Update (BDRY/BWET)
 
 on:
   schedule:
-    # Runs at 13:00 UTC (6:30 PM IST) Monday-Friday
-    # This is 8:30 AM EST (Winter) and 9:00 AM EDT (Summer)
-    - cron: '0 13 * * 1-5'  
-  workflow_dispatch:  # Manual trigger from GitHub UI
+    - cron: '0 14 * * 1-5'  # 2 PM UTC Monday-Friday (after market open data is available)
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,28 +11,31 @@ permissions:
 jobs:
   update-holdings:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-        
+
     - name: Install dependencies
-      run: |
-        pip install pandas openpyxl requests
-        
+      run: pip install pandas requests
+
+    - name: Pull latest before run
+      run: git pull --rebase origin main
+
     - name: Download and process ETF holdings
       run: python update_etf_holdings.py
-      
+
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add *_holdings.csv
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update ETF holdings $(date +'%Y-%m-%d')"
-        git pull --rebase origin main
+        git add bdry_holdings.csv bwet_holdings.csv
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update ETF holdings $(date +'%Y-%m-%d %H:%M UTC')"
         git push

@@ -103,40 +103,33 @@ def sort_holdings(df, etf_code):
     """
     if df.empty:
         return df
-    
-    # Create sorting columns
+
+    # Reset index so positional keys match range(len(df))
+    df = df.reset_index(drop=True)
+
     sort_data = []
     for idx, row in df.iterrows():
         name = str(row.get('SecurityName', row.get('Name', '')))
         category, cat_priority = categorize_holding(name, etf_code)
         month, year = extract_month_year(name)
-        
+
         sort_data.append({
-            'index': idx,
+            'pos': idx,
             'cat_priority': cat_priority,
             'year': year,
             'month': month,
-            'category': category
         })
-    
-    # Create sort dataframe
+
     sort_df = pd.DataFrame(sort_data)
-    
-    # Merge with original data
-    df_with_sort = df.copy()
-    df_with_sort['_sort_idx'] = range(len(df))
-    df_with_sort = df_with_sort.merge(sort_df, left_on='_sort_idx', right_on='index', how='left')
-    
-    # Sort: category priority → year → month
-    df_sorted = df_with_sort.sort_values(
-        by=['cat_priority', 'year', 'month'],
-        ascending=[True, True, True]
-    )
-    
-    # Drop temporary columns
-    df_sorted = df_sorted.drop(columns=['_sort_idx', 'index', 'cat_priority', 'year', 'month', 'category'], errors='ignore')
-    
-    return df_sorted
+    df['_pos'] = sort_df['pos'].values
+    df['_cat'] = sort_df['cat_priority'].values
+    df['_year'] = sort_df['year'].values
+    df['_month'] = sort_df['month'].values
+
+    df = df.sort_values(by=['_cat', '_year', '_month'], ascending=True)
+    df = df.drop(columns=['_pos', '_cat', '_year', '_month'])
+
+    return df
 
 def download_master_csv():
     """Download the master CSV file containing all ETF holdings"""
@@ -222,23 +215,22 @@ def print_summary(df, etf_code):
     """Print summary by category"""
     print(f"\n  Summary by Category:")
     print(f"  {'-'*50}")
-    
-    total_value = df['Market_Value'].sum()
-    
-    # Determine categories based on ETF type
+
+    mv = pd.to_numeric(df['Market_Value'], errors='coerce').fillna(0)
+    total_value = mv.sum()
+
     if etf_code == 'BDRY':
         categories = ['capesize', 'panamax', 'supramax', 'cash', 'invesco']
-    else:  # BWET
+    else:
         categories = ['td3c', 'td20', 'cash', 'invesco']
-    
+
     for cat in categories:
         mask = df['Name'].str.lower().str.contains(cat, na=False)
-        cat_df = df[mask]
-        
-        if not cat_df.empty:
-            cat_value = cat_df['Market_Value'].sum()
+        cat_mv = mv[mask]
+        if not cat_mv.empty:
+            cat_value = cat_mv.sum()
             cat_pct = (cat_value / total_value * 100) if total_value > 0 else 0
-            print(f"  {cat.capitalize():12} : ${cat_value:>15,.2f} ({cat_pct:5.2f}%) - {len(cat_df)} holdings")
+            print(f"  {cat.capitalize():12} : ${cat_value:>15,.2f} ({cat_pct:5.2f}%) - {mask.sum()} holdings")
 
 def main():
     print(f"Starting ETF Holdings Update")

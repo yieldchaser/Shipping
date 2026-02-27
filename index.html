@@ -1565,6 +1565,7 @@ async function loadAllData() {
   buildMaster();
 
   DATA.loaded = true;
+  DATA.years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
   overlay.classList.add('hidden');
 
   const now = new Date();
@@ -2024,7 +2025,7 @@ let _yearlyPerfData = null;
 
 function renderYearlyPerfTable(productKey) {
   _yearlyPerfProductKey = productKey;
-  const years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => b - a);
+  const years = [...DATA.years].reverse();
 
   // Compute yearly averages
   const yearlyAvgs = {};
@@ -2121,7 +2122,7 @@ function toggleYearlyPerf() {
 // =====================================================================
 // CHANGE 3 — Correlation Matrix
 // =====================================================================
-const CORR_LABELS = ['BDI','Cape','Panama','Supra','CleanT','DirtyT'];
+const CORR_LABELS = ['BDI','Cape','Panama','Supra','CleanT','DirtyT','BDRY Spot'];
 
 function setCorrTimeframe(el, tf) {
   currentCorrTimeframe = tf;
@@ -2234,13 +2235,9 @@ function heatmapColorPct(pctVal) {
   }
 }
 
-function heatmapTextColor(bgHex) {
-  return '#e6edf3';
-}
-
 function renderMonthlyHeatmap(productKey) {
   const container = document.getElementById('monthlyHeatmap');
-  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+  const years = DATA.years;
 
   const matrix = {};
   for (const y of years) {
@@ -2282,7 +2279,7 @@ function renderMonthlyHeatmap(productKey) {
 
 function renderMonthlyHeatmapPct(productKey) {
   const container = document.getElementById('monthlyHeatmap');
-  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+  const years = DATA.years;
 
   // Build avg matrix
   const matrix = {};
@@ -2337,7 +2334,7 @@ function renderMonthlyHeatmapPct(productKey) {
 
 function renderMonthlyAbsHeatmap(productKey) {
   const container = document.getElementById('monthlyAbsHeatmap');
-  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+  const years = DATA.years;
 
   const matrix = {};
   for (const y of years) {
@@ -2378,7 +2375,7 @@ function renderMonthlyAbsHeatmap(productKey) {
 }
 
 function downloadMonthlyHeatmap(productKey) {
-  const years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => b - a);
+  const years = [...DATA.years].reverse();
   const matrix = {};
   for (const y of years) {
     matrix[y] = {};
@@ -2412,7 +2409,7 @@ function renderQuarterlyTab(productKey) {
 // ---- CHANGE 6: Win-Rate KPI Cards ----
 function renderWinRateCards(productKey) {
   const quarters = ['Q1','Q2','Q3','Q4'];
-  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+  const years = DATA.years;
 
   // Build quarter avgs per year — use cache
   const qAvg = {};
@@ -2472,7 +2469,7 @@ function renderWinRateCards(productKey) {
 function renderQuarterlyHeatmap(productKey) {
   const container = document.getElementById('quarterlyHeatmap');
   const quarters = ['Q1','Q2','Q3','Q4'];
-  const years = [...new Set(DATA.master.map(r => r.year))].sort();
+  const years = DATA.years;
 
   const matrix = {};
   for (const y of years) {
@@ -2488,8 +2485,6 @@ function renderQuarterlyHeatmap(productKey) {
     const vals = years.map(y => matrix[y][q]).filter(v => v != null);
     colStats[q] = { min: Math.min(...vals), max: Math.max(...vals) };
   }
-
-  const viewMode = document.getElementById('heatmapViewSelect') ? document.getElementById('heatmapViewSelect').value : 'absolute';
 
   let html = `<table class="heatmap-table"><thead><tr>
     <th>Year</th>${quarters.map(q => `<th>${q}</th>`).join('')}
@@ -2535,7 +2530,7 @@ function renderQuarterlyHeatmap(productKey) {
 
 function downloadQuarterlyHeatmapCSV(productKey) {
   const quarters = ['Q1','Q2','Q3','Q4'];
-  const years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => b - a);
+  const years = [...DATA.years].reverse();
   const matrix = {};
   for (const y of years) {
     matrix[y] = {};
@@ -2553,7 +2548,7 @@ function downloadQuarterlyHeatmapCSV(productKey) {
 function renderSpaghettiChart(productKey) {
   const quarters = ['Q1','Q2','Q3','Q4'];
   const qColors  = { Q1: '#58a6ff', Q2: '#3fb950', Q3: '#f0883e', Q4: '#a371f7' };
-  const years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
+  const years = DATA.years;
 
   // Build qAvg per year per quarter
   const qData = { Q1: [], Q2: [], Q3: [], Q4: [] };
@@ -4031,13 +4026,17 @@ function renderBollingerBands(productKey) {
   var period = 20;
   var labels = [], prices = [], upper = [], lower = [], mid = [];
 
+  // Build index map once to avoid O(n²) indexOf inside the loop
+  var allRowsIndexMap = new Map();
+  allRows.forEach(function(r, i) { allRowsIndexMap.set(r, i); });
+
   rows.forEach(function(r, i) {
     labels.push(r.date.toISOString().split('T')[0]);
     var val = r[productKey];
     prices.push(val);
 
     // Compute 20-day SMA and stddev from allRows (need enough lookback)
-    var globalIdx = allRows.indexOf(r);
+    var globalIdx = allRowsIndexMap.get(r);
     var slice = [];
     for (var j = Math.max(0, globalIdx - period + 1); j <= globalIdx; j++) {
       if (allRows[j][productKey] != null) slice.push(allRows[j][productKey]);
@@ -4126,8 +4125,10 @@ function renderCapeSpread() {
 
   // Rolling 252-day percentile rank for each point
   var allRatioVals = allRatio.map(function(r){ return r.ratio; });
+  var allRatioIndexMap = new Map();
+  allRatio.forEach(function(r, i) { allRatioIndexMap.set(r, i); });
   var percentiles = rows.map(function(r, i){
-    var globalIdx = allRatio.indexOf(r);
+    var globalIdx = allRatioIndexMap.get(r);
     var start = Math.max(0, globalIdx - 251);
     var slice = allRatioVals.slice(start, globalIdx + 1);
     var below = slice.filter(function(v){ return v <= r.ratio; }).length;
@@ -4186,7 +4187,7 @@ function renderROCHeatmap() {
   ];
 
   // For each product, get latest value and value N days ago
-  var prodLabels = { bdiy:'BDI', cape:'Capesize', panama:'Panamax', suprama:'Supramax', cleantanker:'Clean Tanker', dirtytanker:'Dirty Tanker' };
+  var prodLabels = { bdiy:'BDI', cape:'Capesize', panama:'Panamax', suprama:'Supramax', cleantanker:'Clean Tanker', dirtytanker:'Dirty Tanker', bdry_spot:'BDRY Spot' };
 
   var html = '<table class="heatmap-table" style="min-width:520px;width:100%"><thead><tr>';
   html += '<th style="text-align:left">Product</th>';
@@ -4803,7 +4804,7 @@ function buildBdryLiqTable(rows) {
   var rev = rows.slice().reverse();
 
   var html = '<table class="yearly-table" style="min-width:720px;font-size:12px;">';
-  html += '<thead><tr style="position:sticky;top:0;background:var(--bg-card);">';
+  html += '<thead><tr style="position:sticky;top:0;background:var(--card);">';
   html += '<th style="text-align:left">Date</th>';
   html += '<th>Close</th>';
   html += '<th>Volume</th>';
