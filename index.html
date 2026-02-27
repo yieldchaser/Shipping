@@ -1005,6 +1005,49 @@ const DATA = {
   loaded: false,
 };
 
+// Per-product filtered row cache (populated after load)
+const _rowCache = {};
+function getRows(productKey) {
+  if (!_rowCache[productKey]) {
+    _rowCache[productKey] = DATA.master.filter(r => r[productKey] != null);
+  }
+  return _rowCache[productKey];
+}
+function invalidateRowCache() { for (const k in _rowCache) delete _rowCache[k]; }
+
+// computeStats memoized per product (reset on product switch)
+const _statsCache = {};
+function getStats(productKey) {
+  if (!_statsCache[productKey]) _statsCache[productKey] = computeStats(productKey);
+  return _statsCache[productKey];
+}
+function invalidateStatsCache() { for (const k in _statsCache) delete _statsCache[k]; }
+
+// Correlation cache { key: value } keyed by "A:B:tf"
+const _corrCache = {};
+function getCorrCached(keyA, keyB, tf) {
+  const cacheKey = keyA + ':' + keyB + ':' + tf;
+  if (cacheKey in _corrCache) return _corrCache[cacheKey];
+  const now = new Date();
+  let cutoff = null;
+  if (tf === '5y') { cutoff = new Date(now); cutoff.setFullYear(now.getFullYear() - 5); }
+  if (tf === '1y') { cutoff = new Date(now); cutoff.setDate(now.getDate() - 365); }
+  const r = pearsonCorr(keyA, keyB, cutoff);
+  _corrCache[cacheKey] = r;
+  return r;
+}
+
+// qAvg cache keyed by "productKey:year:quarter"
+const _qAvgCache = {};
+function getQAvgCached(productKey, year, quarter) {
+  const k = productKey + ':' + year + ':' + quarter;
+  if (k in _qAvgCache) return _qAvgCache[k];
+  const vals = DATA.master.filter(r => r.year === year && r.quarter === quarter && r[productKey] != null).map(r => r[productKey]);
+  const v = vals.length ? mean(vals) : null;
+  _qAvgCache[k] = v;
+  return v;
+}
+
 // Product config
 const PRODUCTS = {
   bdiy:        { label: 'Baltic Dry Index (BDI)',  file: 'bdiy_historical.csv',       color: '#58a6ff' },
@@ -1272,13 +1315,15 @@ function buildMaster() {
   for (const row of DATA.master) {
     DATA.masterByDate[row.ts] = row;
   }
+  invalidateRowCache();
+  invalidateStatsCache();
 }
 
 // =====================================================================
 // ANALYTICS
 // =====================================================================
 function computeStats(productKey) {
-  const rows = DATA.master.filter(r => r[productKey] != null);
+  const rows = getRows(productKey);
   if (!rows.length) return null;
 
   const latest = rows[rows.length - 1];
@@ -1310,7 +1355,7 @@ function computeStats(productKey) {
   const allStdDev = stddev(sameDayVals.length >= 3 ? sameDayVals : allVals);
   const zScore    = allStdDev ? (currentPrice - allMean) / allStdDev : 0;
 
-  const max1y = vals1y.length ? Math.max(...vals1y) : currentPrice;
+  const max1y = vals1y.length ? vals1y.reduce((a, b) => a > b ? a : b, -Infinity) : currentPrice;
   const drawdown = (currentPrice - max1y) / max1y;
 
   const row20d = rows.filter(r => r.date <= cutoff20d);
@@ -1348,10 +1393,10 @@ function renderDashboard(productKey) {
   const prod = PRODUCTS[productKey];
   document.getElementById('dashProductLabel').textContent = prod.label;
 
-  const stats = computeStats(productKey);
+  const stats = getStats(productKey);
   if (!stats) return;
 
-  const rows   = DATA.master.filter(r => r[productKey] != null);
+  const rows   = getRows(productKey);
   const latest = rows[rows.length - 1];
 
   document.getElementById('dashCurrentPrice').textContent = fmt(stats.currentPrice);
@@ -1425,6 +1470,7 @@ function renderDashboard(productKey) {
   const cut10y2 = new Date(latest.date); cut10y2.setFullYear(latest.date.getFullYear() - 10);
   const avg5y  = mean(rows.filter(r => r.date >= cut5y2).map(r => r[productKey]));
   const avg10y = mean(rows.filter(r => r.date >= cut10y2).map(r => r[productKey]));
+  // rows already from getRows() cache above
   const ctx5yAvgEl  = document.getElementById('ctx5yAvg');
   const ctx5yDevEl  = document.getElementById('ctx5yDev');
   const ctx10yDevEl = document.getElementById('ctx10yDev');
@@ -1570,7 +1616,7 @@ function buildOverlayChart(productKey) {
 // CHANGE 1 — Drawdown Chart
 // =====================================================================
 function renderDrawdownChart(productKey) {
-  const rows = DATA.master.filter(r => r[productKey] != null);
+  const rows = getRows(productKey);
   if (!rows.length) return;
 
   // Last 3 years
@@ -1670,7 +1716,7 @@ function renderYearlyPerfTable(productKey) {
   const yearlyMins = {};
   const yearlyMaxs = {};
   for (const y of years) {
-    const vals = DATA.master.filter(r => r.year === y && r[productKey] != null).map(r => r[productKey]);
+    const vals = getRows(productKey).filter(r => r.year === y).map(r => r[productKey]);
     yearlyAvgs[y] = vals.length ? mean(vals) : null;
     yearlyMins[y] = vals.length ? Math.min(...vals) : null;
     yearlyMaxs[y] = vals.length ? Math.max(...vals) : null;
@@ -1791,11 +1837,6 @@ function corrColor(r) {
 }
 
 function renderCorrMatrix(tf) {
-  const now = new Date();
-  let cutoff = null;
-  if (tf === '5y') { cutoff = new Date(now); cutoff.setFullYear(now.getFullYear() - 5); }
-  if (tf === '1y') { cutoff = new Date(now); cutoff.setDate(now.getDate() - 365); }
-
   const container = document.getElementById('corrMatrix');
   let html = `<table class="corr-table"><thead><tr><th></th>`;
   for (const lbl of CORR_LABELS) html += `<th>${lbl}</th>`;
@@ -1807,7 +1848,7 @@ function renderCorrMatrix(tf) {
       if (i === j) {
         html += `<td style="background:#1c3150;color:#58a6ff;font-weight:700">1.00</td>`;
       } else {
-        const r = pearsonCorr(PRODUCT_KEYS[i], PRODUCT_KEYS[j], cutoff);
+        const r = getCorrCached(PRODUCT_KEYS[i], PRODUCT_KEYS[j], tf);
         const bg = corrColor(r);
         const textCol = r != null && Math.abs(r) > 0.4 ? '#fff' : '#e6edf3';
         html += `<td style="background:${bg};color:${textCol}">${r != null ? r.toFixed(2) : '—'}</td>`;
@@ -2058,13 +2099,12 @@ function renderWinRateCards(productKey) {
   const quarters = ['Q1','Q2','Q3','Q4'];
   const years = [...new Set(DATA.master.map(r => r.year))].sort();
 
-  // Build quarter avgs per year
+  // Build quarter avgs per year — use cache
   const qAvg = {};
   for (const y of years) {
     qAvg[y] = {};
     for (const q of quarters) {
-      const vals = DATA.master.filter(r => r.year === y && r.quarter === q && r[productKey] != null).map(r => r[productKey]);
-      qAvg[y][q] = vals.length ? mean(vals) : null;
+      qAvg[y][q] = getQAvgCached(productKey, y, q);
     }
   }
 
@@ -2206,8 +2246,7 @@ function renderSpaghettiChart(productKey) {
 
   for (const q of quarters) {
     for (const y of years) {
-      const vals = DATA.master.filter(r => r.year === y && r.quarter === q && r[productKey] != null).map(r => r[productKey]);
-      qData[q].push(vals.length ? mean(vals) : null);
+      qData[q].push(getQAvgCached(productKey, y, q));
     }
   }
 
@@ -2660,8 +2699,9 @@ let _recentChangesRows = null;
 function renderRecentChanges(productKey) {
   _recentChangesKey = productKey;
   const allRows = DATA.master.filter(r => r[productKey] != null);
-  const last15  = allRows.slice(-15);
-  const displayRows = last15.slice(-10);
+  const totalLen = allRows.length;
+  const startIdx = Math.max(0, totalLen - 10);
+  const displayRows = allRows.slice(startIdx);
   _recentChangesRows = displayRows;
 
   let html = `<table class="yearly-table">
@@ -2675,16 +2715,11 @@ function renderRecentChanges(productKey) {
 
   for (let i = 0; i < displayRows.length; i++) {
     const row = displayRows[i];
-    // Global index of this row in last15
-    const globalIdx = last15.indexOf(row);
-
-    // Day change: vs previous row in allRows
-    const allIdx = allRows.indexOf(row);
+    const allIdx = startIdx + i;
     const prevRow = allIdx > 0 ? allRows[allIdx - 1] : null;
     const dayDelta   = prevRow ? (row[productKey] - prevRow[productKey]) : null;
     const dayDeltaPct = prevRow && prevRow[productKey] ? ((row[productKey] - prevRow[productKey]) / prevRow[productKey] * 100) : null;
 
-    // 5D change: vs row 5 positions back in allRows
     const row5back = allIdx >= 5 ? allRows[allIdx - 5] : null;
     const chg5d = row5back && row5back[productKey] ? ((row[productKey] - row5back[productKey]) / row5back[productKey] * 100) : null;
 
@@ -2718,10 +2753,12 @@ function renderRecentChanges(productKey) {
 
 function downloadRecentChanges(productKey) {
   if (!_recentChangesRows) return;
-  const allRows = DATA.master.filter(r => r[productKey] != null);
+  const allRows = getRows(productKey);
+  const totalLen = allRows.length;
+  const startIdx = Math.max(0, totalLen - 10);
   const headers = ['Date','Value','Day Change','Day Change %','5D Change %'];
-  const rows = _recentChangesRows.map(row => {
-    const allIdx = allRows.indexOf(row);
+  const rows = _recentChangesRows.map((row, i) => {
+    const allIdx = startIdx + i;
     const prevRow = allIdx > 0 ? allRows[allIdx - 1] : null;
     const row5back = allIdx >= 5 ? allRows[allIdx - 5] : null;
     const dayDelta    = prevRow ? (row[productKey] - prevRow[productKey]) : null;
@@ -2751,7 +2788,6 @@ function toggleMethodology() {
 let currentTab = 'dashboard';
 let currentProduct = 'bdiy';
 let indicesRendered = false;
-let quarterlyRendered = false;
 
 function switchTab(tabId) {
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tabId));
@@ -2815,7 +2851,7 @@ function renderYearlyDash(productKey) {
 }
 
 function renderYDKpi(productKey) {
-  var stats = computeStats(productKey);
+  var stats = getStats(productKey);
   var sig   = tradingSignal(stats);
   var prod  = PRODUCTS[productKey];
   var el    = document.getElementById('yd-kpi-row');
@@ -2847,7 +2883,7 @@ function renderYDKpi(productKey) {
 }
 
 function renderYDHistArea(productKey, years, canvasId, dlBtnId) {
-  var allRows = DATA.master.filter(function(r) { return r[productKey] != null; });
+  var allRows = getRows(productKey);
   var rows;
   if (years > 0) {
     var cutoff = new Date(); cutoff.setFullYear(cutoff.getFullYear() - years);
@@ -3000,7 +3036,7 @@ function renderYDRatesOverlay(canvasId) {
 }
 
 function renderYDDrawdown(productKey, canvasId) {
-  var rows=DATA.master.filter(function(r){return r[productKey]!=null;});
+  var rows=getRows(productKey);
   if(!rows.length)return;
   var cut5=new Date(); cut5.setFullYear(cut5.getFullYear()-5);
   var filtered=rows.filter(function(r){return r.date>=cut5;}), labels=[], ddData=[];
@@ -3142,8 +3178,7 @@ function renderQuarterlyDash(productKey) {
 }
 
 function getQAvgPD(productKey, year, quarter) {
-  var vals=DATA.master.filter(function(r){return r.year===year&&r.quarter===quarter&&r[productKey]!=null;}).map(function(r){return r[productKey];});
-  return vals.length?mean(vals):null;
+  return getQAvgCached(productKey, year, quarter);
 }
 
 function renderQDAreaComp1(productKey) {
