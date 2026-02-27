@@ -1,18 +1,21 @@
-# Baltic Shipping Dashboard
+# Shipping
 
-A fully automated, zero-infrastructure shipping freight intelligence platform. Tracks Baltic freight indices and shipping ETF holdings in real time, and surfaces them through a multi-tab analytical dashboard built entirely in a single `index.html` file — no server, no build step, no cost.
+> *"I am a Man of Fortune, and I must seek my Fortune."*
+> — Henry Avery, 1694
+
+A fully automated, zero-infrastructure shipping freight intelligence platform. Tracks Baltic freight indices, shipping ETF holdings, and a proprietary dry bulk composite — surfaced through a multi-tab analytical dashboard built entirely in a single `index.html` file. No server, no build step, no cost.
 
 ---
 
 ## Live Dashboard
 
-The dashboard is served directly from this repository via GitHub Pages. Open `index.html` in any browser, or host via Pages at your own domain.
+Served directly from this repository via GitHub Pages. Open `index.html` in any browser.
 
 ---
 
 ## What This Tracks
 
-### Freight Indices (6 series, daily since Dec 2007)
+### Freight Indices — 6 series, daily since Dec 2007
 
 | File | Index | Code | What it measures |
 |---|---|---|---|
@@ -25,36 +28,44 @@ The dashboard is served directly from this repository via GitHub Pages. Open `in
 
 CSV schema: `Date (DD-MM-YYYY), Index, % Change`
 
-### Shipping ETF Holdings (BDRY & BWET, updated each market open)
+### BDRY Spot Composite — 7th product, computed client-side
+
+A proprietary index replicating the **Solactive Breakwave Dry Freight Futures Index** methodology using daily spot values:
+
+```
+BDRY_Spot(t) = 0.50 × BCI(t) + 0.40 × BPI(t) + 0.10 × BSI(t)
+```
+
+Available from October 2008 (~4,198 data points). No new file — computed in the browser from the three existing CSVs on every page load. Selectable as a 7th product across all tabs. Useful for comparing against the BDRY ETF price to monitor premium/discount to spot.
+
+### Shipping ETF Holdings — updated each market open
 
 | File | ETF | What it holds |
 |---|---|---|
-| `bdry_holdings.csv` | Breakwave Dry Bulk Shipping ETF | Capesize, Panamax, Supramax FFA futures — front 3 months |
-| `bwet_holdings.csv` | Breakwave Tanker Shipping ETF | TD3C (MEG→China) and TD20 (WAF→Continent) tanker route FFA futures |
+| `bdry_holdings.csv` | Breakwave Dry Bulk Shipping ETF (BDRY) | Capesize 5TC, Panamax 5TC, Supramax 58 FFA futures — front 5 months |
+| `bwet_holdings.csv` | Breakwave Tanker Shipping ETF (BWET) | TD3C (MEG→China, 270kt VLCC) and TD20 (WAF→Continent, 130kt Suezmax) FFA futures |
 
 CSV schema: `Name, Ticker, CUSIP, Lots, Price, Market_Value, Weightings`
 
-Holdings are sorted by vessel class (nearest expiry first within each class), giving a clean term structure view of the FFA forward curve.
+Holdings sorted by vessel class → contract month (nearest expiry first). BDRY weights: **50% Capesize, 40% Panamax, 10% Supramax** — confirmed Solactive index methodology (ISIN DE000SLA4BY3). BWET weights: **90% TD3C, 10% TD20** (ISIN DE000SL0HLG3, Excess Return index).
 
 ---
 
 ## Automation
 
-All data is fetched and committed automatically by two GitHub Actions workflows — no manual intervention required.
-
 ### `daily_update.yml` — Index Scraper
 - **Schedule:** 6:00 AM UTC and 6:00 PM UTC, every day
-- **Source:** [stockq.org](https://en.stockq.org) index pages for BDI, BCI, BPI, BSI, BCTI, BDTI
+- **Source:** [stockq.org](https://en.stockq.org)
 - **Script:** `update_indices.py`
-- **Logic:** Scrapes all available historical rows, deduplicates against existing CSV by date, appends new rows, commits `*.csv`
-- **Trigger manually:** Actions → Daily Baltic Index Update → Run workflow
+- **Logic:** Scrapes all 6 indices, deduplicates by date, appends new rows, commits `*.csv`
+- **Manual trigger:** Actions → Daily Baltic Index Update → Run workflow
 
 ### `etf_holdings_update.yml` — ETF Holdings Scraper
-- **Schedule:** 1:00 PM UTC Monday–Friday (≈ 8:30 AM EST, near US market open)
-- **Source:** Amplify ETFs master holdings CSV feed (`amplifyetfs.com`)
+- **Schedule:** 1:00 PM UTC Monday–Friday (≈ 8:30 AM EST)
+- **Source:** Amplify ETFs master holdings CSV (`amplifyetfs.com`)
 - **Script:** `update_etf_holdings.py`
-- **Logic:** Downloads the full Amplify master CSV, filters to BDRY and BWET rows, sorts by vessel class → contract month (nearest first), saves `bdry_holdings.csv` and `bwet_holdings.csv`, commits
-- **Trigger manually:** Actions → ETF Holdings Update (BDRY/BWET) → Run workflow
+- **Logic:** Downloads master CSV, filters to BDRY and BWET, sorts by vessel class → contract month, commits
+- **Manual trigger:** Actions → ETF Holdings Update (BDRY/BWET) → Run workflow
 
 ---
 
@@ -63,153 +74,156 @@ All data is fetched and committed automatically by two GitHub Actions workflows 
 ```
 baltic-indices-data/
 │
-├── index.html                  # Full dashboard — self-contained, no dependencies except CDN
+├── index.html                  # Full dashboard — self-contained, CDN-only dependencies
 │
-├── bdiy_historical.csv         # Baltic Dry Index history
-├── cape_historical.csv         # Capesize history
-├── panama_historical.csv       # Panamax history
-├── suprama_historical.csv      # Supramax history
-├── cleantanker_historical.csv  # Clean Tanker history
-├── dirtytanker_historical.csv  # Dirty Tanker history
+├── bdiy_historical.csv         # Baltic Dry Index history (from Dec 2007)
+├── cape_historical.csv         # Capesize history (from Oct 2008)
+├── panama_historical.csv       # Panamax history (from Oct 2008)
+├── suprama_historical.csv      # Supramax history (from Oct 2008)
+├── cleantanker_historical.csv  # Clean Tanker history (from Jan 2008)
+├── dirtytanker_historical.csv  # Dirty Tanker history (from Dec 2007)
 │
-├── bdry_holdings.csv           # BDRY ETF holdings (FFA curve, updated daily)
-├── bwet_holdings.csv           # BWET ETF holdings (FFA curve, updated daily)
+├── bdry_holdings.csv           # BDRY FFA curve holdings (updated daily)
+├── bwet_holdings.csv           # BWET FFA curve holdings (updated daily)
 │
-├── update_indices.py           # Index scraper (runs via GitHub Actions)
-├── update_etf_holdings.py      # ETF holdings scraper (runs via GitHub Actions)
+├── update_indices.py           # Index scraper
+├── update_etf_holdings.py      # ETF holdings scraper
 │
-├── Shipping_Main.xlsm          # Excel model (offline analysis workbook)
+├── Shipping_Main.xlsm          # Offline Excel analysis workbook
 │
 └── .github/workflows/
-    ├── daily_update.yml        # Cron job for index scraping (6AM + 6PM UTC)
-    └── etf_holdings_update.yml # Cron job for ETF holdings (1PM UTC Mon–Fri)
+    ├── daily_update.yml        # Cron: 6AM + 6PM UTC daily
+    └── etf_holdings_update.yml # Cron: 1PM UTC Mon–Fri
 ```
 
 ---
 
 ## Dashboard Tabs
 
-The dashboard is built on Chart.js 4.4.0 and PapaParse. All CSV files are fetched client-side — no backend. Switching products via the global **Index:** dropdown in the header re-renders all charts for that product instantly.
+Built on Chart.js 4.4.0 and PapaParse. All data fetched client-side — no backend. The global **Index:** dropdown in the header switches the active product across all tabs instantly. **7 products** available: BDI, Capesize, Panamax, Supramax, Clean Tanker, Dirty Tanker, BDRY Spot Composite.
 
 ---
 
 ### 📊 Dashboard
 
-The main overview tab for the currently selected index.
+Main overview for the selected index.
 
-- **Hero KPI block:** Current price, day-over-day % change, and an algorithmic signal badge
-- **Signal badge logic:**
-  - `⛔ SELL (Overheated)` — 5Y percentile > 80%
-  - `💎 GOLDEN DIP` — 5Y pctl < 20%, Z-score < −0.5, all-time pctl > 40%
-  - `🔥 CATCHING KNIFE` — 5Y pctl < 10%, Z-score < −0.6
+- **Hero KPI + signal badge** — algorithmic signal based on percentile and Z-score:
+  - `⛔ SELL` — 5Y pctl > 80%
+  - `💎 GOLDEN DIP` — 5Y pctl < 20%, Z < −0.5, all-time pctl > 40%
+  - `🔥 CATCHING KNIFE` — 5Y pctl < 10%, Z < −0.6
   - `⚠️ VALUE TRAP` — 5Y pctl < 30%, all-time pctl < 30%
   - `🔹 ACCUMULATE` — 5Y pctl < 40%
-  - `⏳ WAIT` — all other conditions
-- **6 stat cards:** All-Time Percentile, 10Y Percentile, 5Y Percentile, Z-Score (vs same calendar trading day across all years), 52-Week Drawdown, 20D Rate of Change
-- **Historical Context Strip:** 5Y average, current vs 5Y avg %, current vs 10Y avg %
-- **Current Year vs Historical Overlay chart:** Current year plotted against user-selected prior years (checkboxes). Defaults to last 3 prior years
-- **Drawdown from 52-Week High chart:** Rolling drawdown %, last 3 years
-- **Recent Daily Changes table:** Last 10 sessions with day Δ, day Δ%, 5D change %
-- **Yearly Performance table** (collapsible): Annual avg, YoY%, min, max, range% for every year on record
-- **Index Correlation Matrix:** Pearson correlation between all 6 indices — switchable between All Time, Last 5Y, Last 1Y
+  - `⏳ WAIT` — all other
+- **6 stat cards:** All-Time Pctl, 10Y Pctl, 5Y Pctl, Z-Score, 52-Week Drawdown, 20D RoC
+- **Historical Context Strip:** 5Y avg, current vs 5Y avg %, current vs 10Y avg %
+- **Current Year vs Historical Overlay chart** — current year vs user-selected prior years
+- **Drawdown from 52-Week High chart** — last 3 years
+- **Recent Daily Changes table** — last 10 sessions: day Δ, day Δ%, 5D change %
+- **Yearly Performance table** (collapsible) — annual avg, YoY%, min, max, range%
+- **Index Correlation Matrix** — Pearson correlation, switchable All Time / 5Y / 1Y
 
 ---
 
 ### 📅 Yearly
 
-Deep historical analysis for the selected index.
-
-- **Historical Price chart:** Full price history with a rolling average overlay. Toggle between **5Y Avg**, **10Y Avg**, and **All-Time Avg** rolling window. Dual-handle range slider to zoom into any date window
-- **Z-Score (Rolling 252-Day) chart:** All 6 products' rolling Z-scores plotted together. The selected product is drawn thicker. Dual-handle range slider — defaults to last 3 years
-- **Historical Z-Score (All Time from 2008) chart:** Same as above but full history. Slider defaults to all-time
-- **Multi-Year Rates chart:** Annual average values per product, all years on a single line chart
-- **Shipping Rates — Current Year Monthly Bar:** Monthly average for the current year as a bar chart, coloured green/red by MoM direction
-- **Rates — All Products Multi-Year Overlay:** Last 4 years of all 6 products overlaid by trading day
-- **Drawdown % (52-Week Rolling, Last 5 Years):** Rolling 52-week drawdown area chart
+- **Historical Price chart** — full history with rolling average. Toggle: **5Y Avg / 10Y Avg / All-Time Avg**. Dual-handle range slider to zoom any date window
+- **Z-Score (Rolling 252-Day)** — all 7 products, selected product thicker. Range slider defaults to last 3 years
+- **Historical Z-Score (All Time from 2008)** — same, range slider defaults to full history
+- **Multi-Year Rates** — annual averages by product, all years
+- **Shipping Rates — Current Year Monthly Bar** — MoM colour coding
+- **Rates — All Products Multi-Year Overlay** — last 4 years by trading day
+- **Drawdown % (52-Week Rolling, Last 5 Years)**
 
 ---
 
 ### 📆 Monthly
 
-- **Monthly Bar Chart (Last 12 Months):** Monthly averages, MoM colour coding
-- **Monthly Trend (Last 3 Years):** Area line chart of monthly averages
-- **Monthly Area Comparison — Current vs Prior Year:** Side-by-side overlay of current year and last year by calendar month
-- **Monthly Data Grid:** Heatmap table — last 5 years × 12 months with a 5Y average row and MoM% row at the bottom
+- **Monthly Bar Chart** — last 12 months, MoM colour coding
+- **Monthly Trend** — last 3 years area chart
+- **Monthly Area Comparison** — current vs prior year
+- **Monthly Data Grid** — last 5 years × 12 months heatmap, 5Y avg row, MoM% row
 
 ---
 
 ### 📊 Quarterly
 
-- **Win Rate KPI cards:** Historical probability of Q1/Q2/Q3/Q4 being higher than the prior quarter, for the selected index
-- **Quarterly Heatmap:** All years × Q1–Q4, coloured by absolute value or QoQ % (switchable via heatmap view selector)
-- **Spaghetti Chart:** Q1/Q2/Q3/Q4 average values plotted across all years as 4 coloured lines
-- **Quarterly Area Comparison — Current vs Prior Year**
-- **Quarterly Trend (Last 5 Years)**
-- **Quarterly Bar Chart (Last 4 Quarters, QoQ Colour)**
-- **Quarterly Area Comparison — Current Year vs 5Y Seasonal Average**
-- **Quarterly Data Grid (Last 8 Years):** With full-year average and YoY %
+- **Win Rate KPI cards** — historical probability each quarter beats the prior
+- **Quarterly Heatmap** — all years × Q1–Q4, absolute or QoQ % (switchable)
+- **Spaghetti Chart** — Q1/Q2/Q3/Q4 across all years as 4 coloured lines
+- **Quarterly Area Comparison** — current vs prior year
+- **Quarterly Trend** — last 5 years
+- **Quarterly Bar Chart** — last 4 quarters, QoQ colour
+- **Quarterly Area Comparison** — current year vs 5Y seasonal average
+- **Quarterly Data Grid** — last 8 years with full-year avg and YoY%
 
 ---
 
 ### 🌡️ Heatmaps
 
-- **Monthly Heatmap:** Year × month grid, colour-coded by absolute value or MoM % (toggle in header). Column colouring normalised per-month so you can compare Jan across all years
-- **Monthly Absolute Values:** Always-on absolute value version alongside the switchable view
+- **Monthly Heatmap** — year × month, absolute value or MoM% (toggle). Normalised per-column so Jan values compare across all years cleanly
 
 ---
 
 ### 📈 Indices
 
-All 6 indices displayed simultaneously as individual chart cards in a 2-column grid. Each card shows:
+All 6 base indices as individual chart cards (BDRY Spot is a composite — available via global selector but not shown here as a standalone card):
 - Current value, day change %
-- Price chart with **dual-handle date range slider** (drag to zoom any period — defaults to last 5 years)
+- **Dual-handle date range slider** — drag to zoom any window, defaults to last 5 years
 - Stats strip: All-Time High, All-Time Low, Current vs ATH, YTD %
 
 ---
 
 ### 🏦 ETFs
 
-Live BDRY and BWET ETF cards:
-- **Live price + day change** fetched from Yahoo Finance via proxy (best-effort, may show "unavailable" if proxy rate-limited)
-- **Holdings table:** All FFA contracts sorted by vessel class → nearest expiry
-- **Donut chart:** Futures notional allocation by vessel class (excludes collateral cash, normalised to 100% of futures)
-- **Metrics strip:** Total Futures notional, Collateral Cash, Futures/AUM ratio
+**BDRY and BWET ETF cards:**
+- Live price + day change (Yahoo Finance via proxy, best-effort)
+- Holdings table — FFA contracts sorted by vessel class → expiry month (Feb → Mar → Apr → May → Jun), cash last
+- Donut chart — futures allocation by vessel class (cash excluded, normalised to 100%)
+- Metrics strip — Total Futures, Collateral Cash, Futures/AUM ratio
+
+**BDRY Liquidity Tracker** (below ETF cards):
+
+A personal position-sizing model applied to BDRY's full daily history (22 March 2018 → present, ~1,994 days), fetched live from Yahoo Finance on tab open.
+
+| Field | Formula |
+|---|---|
+| Dollar Value Traded | `Close × Volume` |
+| Tier % | Volume < 50K → **2%** · < 100K → **3.5%** · < 500K → **5%** · ≥ 500K → **6.5%** |
+| Possible Shares | `floor(Volume × Tier%)` |
+| Safe Liquidity | `Possible Shares × Close` |
+| Day Change % | `(Close − PrevClose) / PrevClose × 100` |
+
+- **KPI strip** — today's values for all 6 fields
+- **Safe Liquidity chart** — historical $ tradeable size over time
+- **Volume chart** — daily bars coloured by tier, with 50K/100K/500K threshold lines overlaid
+- **Full data table** — all rows newest-first, scrollable, all columns colour-coded
+- **Window toggle:** 1Y / 3Y / All
+- **CSV download** — exports currently filtered window
 
 ---
 
 ### 🎯 Signals
 
-Five analytical signal charts for trading edge:
+Five analytical signal charts:
 
 #### 1. Bollinger Bands (20-Day, 2σ)
-Price line with upper band (+2σ, red dashed), 20D SMA (yellow dashed), and lower band (−2σ, green dashed). Bands fill with a soft colour between them. Window toggle: **1Y / 3Y / 5Y**. In freight markets — which are mean-reverting — lower band touches after extended selloffs are historically strong entry candidates. Upper band touches in overbought conditions are exit triggers.
+Price with upper (+2σ), 20D SMA, and lower (−2σ) bands. Window: **1Y / 3Y / 5Y**. Lower band touches after extended selloffs = mean-reversion long candidates. Upper band = overbought exit trigger.
 
 #### 2. Cape / Panamax Ratio
-Cape index divided by Panamax index, plotted as a ratio time series (left axis) with the all-time historical mean overlaid (yellow dashed). Rolling 252-day percentile rank of the ratio on the right axis (purple dashed). Window toggle: **3Y / 5Y / All**.
-
-**What it signals:** The ratio is a direct proxy for iron ore demand (Capesize) vs grain/coal/minor bulk demand (Panamax). Ratio spikes typically indicate China infrastructure/steel demand surges. Ratio compressions indicate grain/coal cycle dominance. The percentile rank tells you where the current relative strength sits in historical context.
+Ratio time series (left axis) + all-time historical mean (yellow dashed) + rolling 252D percentile rank (right axis). Window: **3Y / 5Y / All**. Proxy for iron ore demand (Cape) vs grain/coal/minor bulk (Panamax). Ratio spikes = China infrastructure cycle. Compressions = grain/coal dominance.
 
 #### 3. Rate-of-Change Heatmap
-A 6 × 6 grid: all 6 products (rows) × 6 timeframes (5D, 10D, 20D, 60D, 90D, 1Y). Each cell shows the % return coloured on a divergent scale (deep red ≤ −15% → neutral 0% → deep green ≥ +15%).
-
-**What it signals:** Read cross-product momentum divergences at a glance. Example: Capesize green across all timeframes while Clean Tanker is red = dry bulk/tanker divergence, potential relative value opportunity. A product green short-term but red long-term = mean-reversion bounce candidate.
+7 products × 6 timeframes (5D / 10D / 20D / 60D / 90D / 1Y). Each cell % change, divergent colour scale (red ≤ −15% → green ≥ +15%). Cross-product momentum divergences readable at a glance.
 
 #### 4. Seasonal Decomposition
-For the selected product, plots the **average intra-year pattern** computed from all historical years except the current year (yellow dashed baseline), with ±1σ bands shaded around it. The **current year's actual price path** is overlaid in the product colour. X-axis is trading day of year with approximate month labels.
-
-**What it signals:** Shows whether the current year is tracking above or below the historical seasonal norm, and by how much. A move more than 1σ below the seasonal average in months that are historically strong is a potential mean-reversion long. The seasonal pattern in dry bulk is well-documented (weak Jan–Feb, strong Q4).
+Historical average intra-year pattern (yellow dashed) ± 1σ bands, with current year overlaid in product colour. X-axis = trading day of year with month labels. Shows whether the current year is tracking above/below seasonal norm and by how much.
 
 #### 5. FFA Term Structure — BDRY & BWET
-Side-by-side forward curves built directly from the live ETF holdings CSVs. Plots contract price (y-axis) vs expiry month (x-axis) for each vessel class:
-- **BDRY:** Capesize 5TC, Panamax 5TC, Supramax 58 — three separate curves
-- **BWET:** TD3C (MEG→China), TD20 (WAF→Continent) — two separate curves
-
-Below each chart: a slope label per vessel class showing the **curve structure** with front-to-back % slope:
-- `📉 Backwardation` — front month higher than back months (spot tightness, bullish carry)
-- `📈 Contango` — back months higher than front (oversupply, negative carry)
-- `➡️ Flat` — within ±1.5%
-
-**What it signals:** Backwardation = physical market is tight right now, longs collect positive roll yield. Contango = market expects improvement but current spot is weak, shorts collect roll yield. The shape of the curve across vessel classes tells you where the tightness is concentrated (e.g. Capesize in backwardation while Panamax in contango = iron ore specific, not broad dry bulk).
+Forward curves from live ETF holdings CSVs. BDRY: Capesize / Panamax / Supramax curves. BWET: TD3C / TD20 curves. Slope labels below each chart:
+- `📉 Backwardation` — spot tightness, positive roll yield for longs
+- `📈 Contango` — oversupply, negative roll yield
+- `➡️ Flat` — within ±1.5% front-to-back
 
 ---
 
@@ -217,35 +231,31 @@ Below each chart: a slope label per vessel class showing the **curve structure**
 
 | Metric | Calculation |
 |---|---|
-| **Percentile Rank** | Fraction of all historical daily values (within the lookback window) that are ≤ current value |
-| **Z-Score (Dashboard)** | `(current − mean of same calendar trading day across all prior years) / stddev` |
-| **Z-Score (Rolling 252D)** | `(current − mean of trailing 252 days) / stddev of trailing 252 days` |
+| **Percentile Rank** | Fraction of historical values ≤ current within lookback window |
+| **Z-Score (Dashboard)** | `(current − mean of same calendar trading day, all prior years) / stddev` |
+| **Z-Score (Rolling 252D)** | `(current − trailing 252D mean) / trailing 252D stddev` |
 | **52-Week Drawdown** | `(current − max over trailing 365 calendar days) / max` |
 | **Rate of Change (20D)** | `(current − value 20 trading days ago) / value 20 trading days ago × 100` |
 | **Bollinger Bands** | SMA(20) ± 2 × population stddev(20) |
-| **Rolling Autocorrelation** | Pearson correlation between `returns[t]` and `returns[t-1]` over trailing window |
-| **Cape/Panamax Percentile** | Percentile rank of current ratio vs trailing 252 trading days of ratio values |
+| **Cape/Panamax Percentile** | Percentile rank of ratio vs trailing 252D of ratio values |
 | **Seasonal Avg** | Mean of `value[trading_day_N]` across all historical years except current |
-| **FFA Slope** | `(back_month_price − front_month_price) / front_month_price × 100` |
+| **FFA Slope** | `(back_month − front_month) / front_month × 100` |
+| **BDRY Spot** | `0.50 × BCI + 0.40 × BPI + 0.10 × BSI` (Solactive methodology) |
+| **Safe Liquidity** | `floor(Volume × tier%) × Close` |
 
 ---
 
 ## Dependencies
 
-| Dependency | Version | How used |
+| | Version | Used for |
 |---|---|---|
 | [Chart.js](https://www.chartjs.org/) | 4.4.0 | All charts |
 | [PapaParse](https://www.papaparse.com/) | 5.4.1 | CSV parsing |
-| [allorigins.win](https://allorigins.win/) | — | CORS proxy for Yahoo Finance ETF price fetch |
+| [allorigins.win](https://allorigins.win/) | — | CORS proxy — Yahoo Finance price + BDRY liquidity data |
 
-Python (scrapers only, run inside GitHub Actions — not needed to use the dashboard):
-
+Python (scrapers only, GitHub Actions):
 ```
-requests
-beautifulsoup4
-pandas
-lxml
-openpyxl
+requests · beautifulsoup4 · pandas · lxml · openpyxl
 ```
 
 ---
@@ -255,31 +265,30 @@ openpyxl
 ```bash
 pip install requests beautifulsoup4 pandas lxml openpyxl
 
-# Update all 6 Baltic indices
-python update_indices.py
-
-# Update BDRY and BWET ETF holdings
-python update_etf_holdings.py
+python update_indices.py       # update all 6 Baltic indices
+python update_etf_holdings.py  # update BDRY and BWET holdings
 ```
 
-Both scripts are idempotent — safe to re-run at any time. They deduplicate by date before writing.
+Both scripts are idempotent — safe to re-run, deduplicate by date before writing.
 
 ---
 
 ## Data Sources
 
-| Data | Source | Notes |
+| Data | Source | Freshness |
 |---|---|---|
-| Baltic freight indices | [stockq.org](https://en.stockq.org) | Scraped 2× daily |
-| BDRY / BWET holdings | [amplifyetfs.com](https://amplifyetfs.com) master CSV | Scraped each market open Mon–Fri |
-| ETF live prices | Yahoo Finance v8 API (via allorigins proxy) | Best-effort, client-side only |
+| Baltic freight indices | [stockq.org](https://en.stockq.org) | 2× daily (6AM + 6PM UTC) |
+| BDRY / BWET holdings | [amplifyetfs.com](https://amplifyetfs.com) | Each market open Mon–Fri |
+| BDRY ETF price (live) | Yahoo Finance v8 API via allorigins proxy | On ETF tab open |
+| BDRY liquidity history | Yahoo Finance v8 API via allorigins proxy | On ETF tab open, `range=10y` |
 
 ---
 
 ## Notes
 
-- All timestamps in the CSVs are in `DD-MM-YYYY` format
-- The BDI history goes back to **December 2007** — the tail end of the commodity supercycle peak (BDI ~10,000+)
-- Tanker indices (BCTI, BDTI) have shorter history than dry bulk indices as data availability varies by source
-- The `Shipping_Main.xlsm` workbook is an offline Excel model that consumes the same CSV data for deeper ad-hoc analysis
-- The FFA term structure in the Signals tab is only as current as the last ETF holdings commit — check the last commit timestamp on `bdry_holdings.csv` / `bwet_holdings.csv` to confirm freshness
+- CSV dates are in `DD-MM-YYYY` format
+- BDI history starts **December 2007** — tail end of the commodity supercycle peak (~10,000+)
+- BDRY Spot composite starts **October 2008** (earliest date all three dry bulk components overlap)
+- Tanker indices have slightly shorter history — BCTI from Jan 2008, BDTI from Dec 2007
+- The FFA term structure chart is only as fresh as the last `bdry_holdings.csv` / `bwet_holdings.csv` commit — check the commit timestamp to confirm
+- `Shipping_Main.xlsm` is an offline Excel workbook for ad-hoc analysis consuming the same CSV data
