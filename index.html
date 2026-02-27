@@ -718,6 +718,7 @@
       <option value="suprama">Supramax</option>
       <option value="cleantanker">Clean Tanker (BCTI)</option>
       <option value="dirtytanker">Dirty Tanker (BDTI)</option>
+      <option value="bdry_spot">BDRY Spot Composite</option>
     </select>
   </div>
   <div class="updated-at" id="updatedAt"><span class="live-dot" id="liveDot">●</span><span id="updatedAtText"></span></div>
@@ -1219,7 +1220,11 @@ const PRODUCTS = {
   suprama:     { label: 'Supramax',                file: 'suprama_historical.csv',     color: '#f0883e' },
   cleantanker: { label: 'Clean Tanker (BCTI)',     file: 'cleantanker_historical.csv', color: '#a371f7' },
   dirtytanker: { label: 'Dirty Tanker (BDTI)',     file: 'dirtytanker_historical.csv', color: '#e3b341' },
+  bdry_spot:   { label: 'BDRY Spot Composite',     file: null,                         color: '#f0c040', computed: true },
 };
+
+// BDRY Spot weights (Solactive index methodology)
+const BDRY_WEIGHTS = { cape: 0.50, panama: 0.40, suprama: 0.10 };
 
 const PRODUCT_KEYS = Object.keys(PRODUCTS);
 
@@ -1404,6 +1409,12 @@ async function loadAllData() {
   }
 
   const indexPromises = PRODUCT_KEYS.map(async key => {
+    if (PRODUCTS[key].computed) {
+      // Computed product — no CSV to fetch; raw data built in buildMaster()
+      DATA.raw[key] = [];
+      tick(PRODUCTS[key].label);
+      return key;
+    }
     const rows = await fetchCSV(PRODUCTS[key].file);
     const parsed = [];
     for (const row of rows) {
@@ -1439,12 +1450,14 @@ async function loadAllData() {
 function buildMaster() {
   const allDatesSet = new Set();
   for (const key of PRODUCT_KEYS) {
+    if (PRODUCTS[key].computed) continue;
     for (const row of DATA.raw[key]) allDatesSet.add(row.date.getTime());
   }
   const allDates = Array.from(allDatesSet).sort((a, b) => a - b);
 
   const maps = {};
   for (const key of PRODUCT_KEYS) {
+    if (PRODUCTS[key].computed) continue;
     maps[key] = {};
     for (const row of DATA.raw[key]) {
       maps[key][row.date.getTime()] = row;
@@ -1458,9 +1471,22 @@ function buildMaster() {
     const year = d.getFullYear();
     const row = { date: d, ts, year, month, quarter };
     for (const key of PRODUCT_KEYS) {
+      if (PRODUCTS[key].computed) continue; // skip — derived below
       const r = maps[key][ts];
       row[key] = r ? r.value : null;
       row[`${key}_change`] = r ? r.change : null;
+    }
+    // Compute BDRY Spot: 50% Cape + 40% Panamax + 10% Supramax
+    if (row.cape != null && row.panama != null && row.suprama != null) {
+      row.bdry_spot = BDRY_WEIGHTS.cape * row.cape + BDRY_WEIGHTS.panama * row.panama + BDRY_WEIGHTS.suprama * row.suprama;
+      // Daily change: derived from component changes weighted the same way
+      const cc = row.cape_change, pc = row.panama_change, sc = row.suprama_change;
+      row.bdry_spot_change = (cc != null && pc != null && sc != null)
+        ? BDRY_WEIGHTS.cape * cc + BDRY_WEIGHTS.panama * pc + BDRY_WEIGHTS.suprama * sc
+        : null;
+    } else {
+      row.bdry_spot = null;
+      row.bdry_spot_change = null;
     }
     return row;
   });
@@ -2469,6 +2495,7 @@ function renderIndicesTab() {
 
   PRODUCT_KEYS.forEach(key => {
     const prod = PRODUCTS[key];
+    if (PRODUCTS[key].computed) return; // composite — no raw rows, skip card
     const rows = DATA.raw[key];
     if (!rows || !rows.length) return;
 
