@@ -995,23 +995,56 @@
   <div class="tab-panel" id="tab-yearly-dash">
     <div id="yd-kpi-row" class="dashboard-hero mb-20"></div>
     <div class="chart-container mb-20">
-      <div class="chart-header"><div class="chart-title">Five-Year Historical</div><button class="dl-btn" id="yd5yDlBtn">&#x2B07; CSV</button></div>
-      <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyHist5yChart"></canvas></div>
+      <div class="chart-header">
+        <div class="chart-title">Historical Price</div>
+        <div class="flex-row" style="gap:6px;flex-wrap:wrap;align-items:center;">
+          <button class="toggle-btn active" id="ydAvgBtn5"  onclick="setYDHistAvg(5)">5Y Avg</button>
+          <button class="toggle-btn"        id="ydAvgBtn10" onclick="setYDHistAvg(10)">10Y Avg</button>
+          <button class="toggle-btn"        id="ydAvgBtnAll" onclick="setYDHistAvg(0)">All-Time Avg</button>
+          <button class="dl-btn" id="ydHistDlBtn">&#x2B07; CSV</button>
+        </div>
+      </div>
+      <div class="index-range-wrap" style="padding: 2px 0 6px;">
+        <div class="index-range-label">
+          <span>Range:</span>
+          <span id="ydHistRangeLabel">Loading…</span>
+        </div>
+        <div class="dual-range-track" id="ydHistRangeTrack">
+          <div class="dual-range-fill" id="ydHistRangeFill"></div>
+          <input type="range" id="ydHistRangeStart" min="0" max="100" value="0" step="1">
+          <input type="range" id="ydHistRangeEnd"   min="0" max="100" value="100" step="1">
+        </div>
+      </div>
+      <div class="chart-canvas-wrap" style="height:320px"><canvas id="yearlyHistChart"></canvas></div>
     </div>
     <div class="chart-container mb-20">
-      <div class="chart-header"><div class="chart-title">Ten-Year Historical</div><button class="dl-btn" id="yd10yDlBtn">&#x2B07; CSV</button></div>
-      <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyHist10yChart"></canvas></div>
-    </div>
-    <div class="chart-container mb-20">
-      <div class="chart-header"><div class="chart-title">All-Time Historical (from 2008)</div><button class="dl-btn" id="ydAllDlBtn">&#x2B07; CSV</button></div>
-      <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyAlltimeChart"></canvas></div>
-    </div>
-    <div class="chart-container mb-20">
-      <div class="chart-header"><div class="chart-title">Z-Score (Rolling 252-Day, Last 3 Years)</div></div>
+      <div class="chart-header"><div class="chart-title">Z-Score (Rolling 252-Day)</div></div>
+      <div class="index-range-wrap" style="padding: 2px 0 6px;">
+        <div class="index-range-label">
+          <span>Range:</span>
+          <span id="ydZscoreRangeLabel">Loading…</span>
+        </div>
+        <div class="dual-range-track" id="ydZscoreRangeTrack">
+          <div class="dual-range-fill" id="ydZscoreRangeFill"></div>
+          <input type="range" id="ydZscoreRangeStart" min="0" max="100" value="0" step="1">
+          <input type="range" id="ydZscoreRangeEnd"   min="0" max="100" value="100" step="1">
+        </div>
+      </div>
       <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyZscoreChart"></canvas></div>
     </div>
     <div class="chart-container mb-20">
       <div class="chart-header"><div class="chart-title">Historical Z-Score (All Time from 2008)</div></div>
+      <div class="index-range-wrap" style="padding: 2px 0 6px;">
+        <div class="index-range-label">
+          <span>Range:</span>
+          <span id="ydHistZscoreRangeLabel">Loading…</span>
+        </div>
+        <div class="dual-range-track" id="ydHistZscoreRangeTrack">
+          <div class="dual-range-fill" id="ydHistZscoreRangeFill"></div>
+          <input type="range" id="ydHistZscoreRangeStart" min="0" max="100" value="0" step="1">
+          <input type="range" id="ydHistZscoreRangeEnd"   min="0" max="100" value="100" step="1">
+        </div>
+      </div>
       <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyHistZscoreChart"></canvas></div>
     </div>
     <div class="chart-container mb-20">
@@ -2938,12 +2971,14 @@ document.getElementById('globalProduct').addEventListener('change', function() {
 // =====================================================================
 // YEARLY DASHBOARD TAB
 // =====================================================================
+var _ydHistAvgWindow = 5; // tracks currently active avg window (5, 10, or 0=all-time)
+var _ydHistProductKey = null;
+
 function renderYearlyDash(productKey) {
+  _ydHistProductKey = productKey;
   var fns = [
     function(){ renderYDKpi(productKey); },
-    function(){ renderYDHistArea(productKey, 5,  'yearlyHist5yChart',  'yd5yDlBtn'); },
-    function(){ renderYDHistArea(productKey, 10, 'yearlyHist10yChart', 'yd10yDlBtn'); },
-    function(){ renderYDHistArea(productKey, 0,  'yearlyAlltimeChart', 'ydAllDlBtn'); },
+    function(){ initYDHistChart(productKey); },
     function(){ renderYDZscore(productKey, false, 'yearlyZscoreChart'); },
     function(){ renderYDZscore(productKey, true,  'yearlyHistZscoreChart'); },
     function(){ renderYDMultiRates('yearlyMultiRatesChart'); },
@@ -2954,6 +2989,126 @@ function renderYearlyDash(productKey) {
   fns.forEach(function(fn){
     try { fn(); } catch(e) { console.error('[YearlyDash]', e); }
   });
+}
+
+function setYDHistAvg(w) {
+  _ydHistAvgWindow = w;
+  // Update button active states
+  ['5','10','All'].forEach(function(x){
+    var id = 'ydAvgBtn' + x;
+    var el = document.getElementById(id);
+    if (el) el.classList.remove('active');
+  });
+  var activeId = w === 5 ? 'ydAvgBtn5' : w === 10 ? 'ydAvgBtn10' : 'ydAvgBtnAll';
+  var activeEl = document.getElementById(activeId);
+  if (activeEl) activeEl.classList.add('active');
+  // Re-render chart with current slider positions
+  if (_ydHistProductKey) rebuildYDHistChart(_ydHistProductKey);
+}
+
+function initYDHistChart(productKey) {
+  var allRows = getRows(productKey);
+  var total = allRows.length;
+  if (!total) return;
+
+  // Set slider max to total-1
+  var startEl = document.getElementById('ydHistRangeStart');
+  var endEl   = document.getElementById('ydHistRangeEnd');
+  if (!startEl || !endEl) return;
+  startEl.max = total - 1;
+  endEl.max   = total - 1;
+  startEl.value = 0;
+  endEl.value   = total - 1;
+
+  function onSlide() {
+    var s = parseInt(startEl.value);
+    var e = parseInt(endEl.value);
+    if (s > e) {
+      if (this === startEl) { startEl.value = e; s = e; }
+      else { endEl.value = s; e = s; }
+    }
+    // Update fill
+    var fillEl = document.getElementById('ydHistRangeFill');
+    var labelEl = document.getElementById('ydHistRangeLabel');
+    if (fillEl) {
+      var pctS = (s / (total - 1)) * 100;
+      var pctE = (e / (total - 1)) * 100;
+      fillEl.style.left  = pctS + '%';
+      fillEl.style.width = (pctE - pctS) + '%';
+    }
+    if (labelEl) {
+      var sd = allRows[s] ? allRows[s].date.toISOString().split('T')[0].slice(0,7) : '';
+      var ed = allRows[e] ? allRows[e].date.toISOString().split('T')[0].slice(0,7) : '';
+      labelEl.textContent = sd + ' \u2192 ' + ed;
+    }
+    rebuildYDHistChart(productKey);
+  }
+
+  // Remove old listeners by cloning
+  var newStart = startEl.cloneNode(true);
+  var newEnd   = endEl.cloneNode(true);
+  startEl.parentNode.replaceChild(newStart, startEl);
+  endEl.parentNode.replaceChild(newEnd, endEl);
+  newStart.addEventListener('input', onSlide);
+  newEnd.addEventListener('input', onSlide);
+
+  // Initial render
+  onSlide.call(newStart);
+}
+
+function rebuildYDHistChart(productKey) {
+  var allRows = getRows(productKey);
+  var startEl = document.getElementById('ydHistRangeStart');
+  var endEl   = document.getElementById('ydHistRangeEnd');
+  if (!startEl || !endEl) return;
+  var s = parseInt(startEl.value);
+  var e = parseInt(endEl.value);
+  var rows = allRows.slice(s, e + 1);
+  if (!rows.length) return;
+
+  var labels = rows.map(function(r){ return r.date.toISOString().split('T')[0]; });
+  var values = rows.map(function(r){ return r[productKey]; });
+
+  // Rolling avg — window size based on _ydHistAvgWindow
+  var winDays = _ydHistAvgWindow > 0 ? _ydHistAvgWindow * 252 : values.length;
+  var rollingAvg = values.map(function(_, i) {
+    var st = Math.max(0, i - winDays + 1);
+    var sl = values.slice(st, i + 1).filter(function(v){ return v != null; });
+    return sl.length ? sl.reduce(function(a,b){ return a+b; }, 0) / sl.length : null;
+  });
+
+  var avgLabel = _ydHistAvgWindow > 0 ? (_ydHistAvgWindow + 'Y Rolling Avg') : 'All-Time Avg';
+  var prod = PRODUCTS[productKey];
+
+  destroyChart('yearlyHistChart');
+  var canvas = document.getElementById('yearlyHistChart');
+  if (!canvas) return;
+  chartRegistry['yearlyHistChart'] = new Chart(canvas.getContext('2d'), {
+    type: 'line',
+    data: { labels: labels, datasets: [
+      { label: prod.label,  data: values,     borderColor: prod.color,  backgroundColor: prod.color + '33', borderWidth: 1.5, pointRadius: 0, fill: true,  tension: 0.1 },
+      { label: avgLabel,    data: rollingAvg, borderColor: '#e3b341',   backgroundColor: 'transparent',     borderWidth: 1.5, borderDash: [5,3], pointRadius: 0, fill: false, tension: 0.1 },
+    ]},
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true } },
+        tooltip: { callbacks: { label: function(c){ return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y); } } }
+      },
+      scales: {
+        x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function(_, i){ return labels[i] ? labels[i].slice(0,7) : ''; } } },
+        y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function(v){ return fmt(v); } } },
+      },
+    },
+  });
+
+  // Wire download button
+  var btn = document.getElementById('ydHistDlBtn');
+  if (btn) btn.onclick = function() {
+    downloadCSV('hist_' + productKey + '.csv', ['Date', prod.label, avgLabel],
+      rows.map(function(r, i){ return [labels[i], values[i]!=null?values[i].toFixed(2):'', rollingAvg[i]!=null?rollingAvg[i].toFixed(2):'']; }));
+  };
 }
 
 function renderYDKpi(productKey) {
@@ -2988,52 +3143,6 @@ function renderYDKpi(productKey) {
     ) : '');
 }
 
-function renderYDHistArea(productKey, years, canvasId, dlBtnId) {
-  var allRows = getRows(productKey);
-  var rows;
-  if (years > 0) {
-    var cutoff = new Date(); cutoff.setFullYear(cutoff.getFullYear() - years);
-    rows = allRows.filter(function(r) { return r.date >= cutoff; });
-  } else {
-    var c2008 = new Date('2008-01-01');
-    rows = allRows.filter(function(r) { return r.date >= c2008; });
-  }
-  if (!rows.length) return;
-  var labels = rows.map(function(r) { return r.date.toISOString().split('T')[0]; });
-  var values = rows.map(function(r) { return r[productKey]; });
-  var windowSize = years > 0 ? years * 252 : rows.length;
-  var rollingAvg = values.map(function(_, i) {
-    var start = Math.max(0, i - windowSize + 1);
-    var slice = values.slice(start, i + 1).filter(function(v) { return v != null; });
-    return slice.length ? slice.reduce(function(a, b) { return a + b; }, 0) / slice.length : null;
-  });
-  var prod = PRODUCTS[productKey];
-  destroyChart(canvasId);
-  var canvas = document.getElementById(canvasId);
-  if (!canvas) return;
-  chartRegistry[canvasId] = new Chart(canvas.getContext('2d'), {
-    type: 'line',
-    data: { labels: labels, datasets: [
-      { label: prod.label, data: values, borderColor: prod.color, backgroundColor: prod.color + '33', borderWidth: 1.5, pointRadius: 0, fill: true, tension: 0.1 },
-      { label: (years > 0 ? years + 'Y' : 'All-Time') + ' Avg', data: rollingAvg, borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1.5, borderDash: [5,3], pointRadius: 0, fill: false, tension: 0.1 },
-    ]},
-    options: {
-      responsive: true, maintainAspectRatio: false,
-      interaction: { mode: 'index', intersect: false },
-      plugins: { legend: { position: 'top', labels: { usePointStyle: true } }, tooltip: { callbacks: { label: function(c) { return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y); } } } },
-      scales: {
-        x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function(_, i) { return labels[i] ? labels[i].slice(0,7) : ''; } } },
-        y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function(v) { return fmt(v); } } },
-      },
-    },
-  });
-  var btn = document.getElementById(dlBtnId);
-  if (btn) btn.onclick = function() {
-    downloadCSV('hist_' + (years||'all') + '_' + productKey + '.csv', ['Date', prod.label, 'Rolling Avg'],
-      rows.map(function(r, i) { return [labels[i], values[i]!=null?values[i].toFixed(2):'', rollingAvg[i]!=null?rollingAvg[i].toFixed(2):'']; }));
-  };
-}
-
 function computeRollingZscoreArr(values, windowSize) {
   return values.map(function(v, i) {
     if (v == null) return null;
@@ -3047,34 +3156,104 @@ function computeRollingZscoreArr(values, windowSize) {
 }
 
 function renderYDZscore(productKey, allTime, canvasId) {
-  var cutoff3y = new Date(); cutoff3y.setFullYear(cutoff3y.getFullYear() - 3);
   var cutoff2008 = new Date('2008-01-01');
 
-  // Build a shared label array from the selected product's rows (for x-axis alignment)
-  var refKey = productKey;
-  var allRefRows = DATA.master.filter(function(r){ return r[refKey] != null && r.date >= cutoff2008; });
-  var refRows = allTime ? allRefRows : allRefRows.filter(function(r){ return r.date >= cutoff3y; });
-  var sharedLabels = refRows.map(function(r){ return r.date.toISOString().split('T')[0]; });
+  // Pre-compute ALL z-score data from 2008 for all products, keyed by date string
+  var allZData = {}; // key -> {date, z}[]
+  PRODUCT_KEYS.forEach(function(key) {
+    var allRows = DATA.master.filter(function(r){ return r[key] != null && r.date >= cutoff2008; });
+    var zAll = computeRollingZscoreArr(allRows.map(function(r){ return r[key]; }), 252);
+    allZData[key] = allRows.map(function(r, i){ return { dateStr: r.date.toISOString().split('T')[0], z: zAll[i] }; });
+  });
+
+  // Build master label list from selected product (all dates from 2008)
+  var masterLabels = allZData[productKey].map(function(d){ return d.dateStr; });
+  var total = masterLabels.length;
+  if (!total) return;
+
+  // Determine slider element IDs based on canvasId
+  var prefix = canvasId === 'yearlyZscoreChart' ? 'ydZscore' : 'ydHistZscore';
+  var startEl = document.getElementById(prefix + 'RangeStart');
+  var endEl   = document.getElementById(prefix + 'RangeEnd');
+  var fillEl  = document.getElementById(prefix + 'RangeFill');
+  var labelEl = document.getElementById(prefix + 'RangeLabel');
+
+  if (!startEl || !endEl) {
+    // Fallback: render without slider (shouldn't happen)
+    _buildZscoreChart(productKey, canvasId, allZData, masterLabels, 0, total - 1);
+    return;
+  }
+
+  // Set slider range
+  startEl.max = total - 1;
+  endEl.max   = total - 1;
+
+  // Default range: last 3 years for rolling, all-time for historical
+  if (!allTime) {
+    var cutoff3y = new Date(); cutoff3y.setFullYear(cutoff3y.getFullYear() - 3);
+    var def3yIdx = 0;
+    for (var ii = 0; ii < total; ii++) {
+      if (new Date(masterLabels[ii]) >= cutoff3y) { def3yIdx = ii; break; }
+    }
+    startEl.value = def3yIdx;
+    endEl.value   = total - 1;
+  } else {
+    startEl.value = 0;
+    endEl.value   = total - 1;
+  }
+
+  function updateFillAndLabel(s, e) {
+    if (fillEl) {
+      var pctS = (s / (total - 1)) * 100;
+      var pctE = (e / (total - 1)) * 100;
+      fillEl.style.left  = pctS + '%';
+      fillEl.style.width = (pctE - pctS) + '%';
+    }
+    if (labelEl) {
+      labelEl.textContent = masterLabels[s].slice(0,7) + ' \u2192 ' + masterLabels[e].slice(0,7);
+    }
+  }
+
+  function onSlide() {
+    var s = parseInt(startEl.value);
+    var e = parseInt(endEl.value);
+    if (s > e) {
+      if (this === startEl) { startEl.value = e; s = e; }
+      else { endEl.value = s; e = s; }
+    }
+    updateFillAndLabel(s, e);
+    _buildZscoreChart(productKey, canvasId, allZData, masterLabels, s, e);
+  }
+
+  // Clone to remove old listeners
+  var newStart = startEl.cloneNode(true);
+  var newEnd   = endEl.cloneNode(true);
+  startEl.parentNode.replaceChild(newStart, startEl);
+  endEl.parentNode.replaceChild(newEnd, endEl);
+  newStart.addEventListener('input', onSlide);
+  newEnd.addEventListener('input', onSlide);
+
+  // Initial render
+  var initS = parseInt(newStart.value);
+  var initE = parseInt(newEnd.value);
+  updateFillAndLabel(initS, initE);
+  _buildZscoreChart(productKey, canvasId, allZData, masterLabels, initS, initE);
+}
+
+function _buildZscoreChart(productKey, canvasId, allZData, masterLabels, s, e) {
+  var slicedLabels = masterLabels.slice(s, e + 1);
+  var slicedSet = {};
+  slicedLabels.forEach(function(l){ slicedSet[l] = true; });
 
   var datasets = PRODUCT_KEYS.map(function(key) {
-    var allRows = DATA.master.filter(function(r) { return r[key] != null && r.date >= cutoff2008; });
-    var zAll = computeRollingZscoreArr(allRows.map(function(r){return r[key];}), 252);
-    var rows, zScores;
-    if (allTime) { rows = allRows; zScores = zAll; }
-    else {
-      var startIdx = 0;
-      for (var ii=0; ii<allRows.length; ii++) { if (allRows[ii].date >= cutoff3y) { startIdx=ii; break; } }
-      rows = allRows.slice(startIdx); zScores = zAll.slice(startIdx);
-    }
-    // Map z-scores by date string for alignment with sharedLabels
     var zByDate = {};
-    rows.forEach(function(r,i){ zByDate[r.date.toISOString().split('T')[0]] = zScores[i]; });
-    var aligned = sharedLabels.map(function(lbl){ var v = zByDate[lbl]; return (v != null) ? v : null; });
+    allZData[key].forEach(function(d){ zByDate[d.dateStr] = d.z; });
+    var aligned = slicedLabels.map(function(lbl){ var v = zByDate[lbl]; return (v != null) ? v : null; });
     return {
       label: PRODUCTS[key].label,
       data: aligned,
-      borderColor: PRODUCTS[key].color, backgroundColor:'transparent',
-      borderWidth: key===productKey?2.5:1, pointRadius:0, tension:0.1, spanGaps:true
+      borderColor: PRODUCTS[key].color, backgroundColor: 'transparent',
+      borderWidth: key === productKey ? 2.5 : 1, pointRadius: 0, tension: 0.1, spanGaps: true
     };
   });
 
@@ -3082,29 +3261,27 @@ function renderYDZscore(productKey, allTime, canvasId) {
   var canvas = document.getElementById(canvasId); if (!canvas) return;
   chartRegistry[canvasId] = new Chart(canvas.getContext('2d'), {
     type: 'line',
-    data: { labels: sharedLabels, datasets: datasets },
+    data: { labels: slicedLabels, datasets: datasets },
     options: {
-      responsive:true, maintainAspectRatio:false,
-      interaction:{mode:'index',intersect:false},
-      plugins:{
-        legend:{position:'top',labels:{usePointStyle:true,font:{size:10}}},
-        tooltip:{callbacks:{
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+        tooltip: { callbacks: {
           title: function(c){ return c[0].label; },
-          label: function(c){ return ' '+c.dataset.label+': '+(c.parsed.y!=null?c.parsed.y.toFixed(2):'—'); }
+          label: function(c){ return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) : '—'); }
         }}
       },
-      scales:{
-        x:{
-          type:'category',
-          grid:{color:'#151a22'},
-          ticks:{font:{size:11}, maxTicksLimit:12, callback: function(val, idx){
-            return sharedLabels[idx] ? sharedLabels[idx].slice(0,7) : '';
-          }}
+      scales: {
+        x: {
+          type: 'category',
+          grid: { color: '#151a22' },
+          ticks: { font: { size: 11 }, maxTicksLimit: 12, callback: function(val, idx){ return slicedLabels[idx] ? slicedLabels[idx].slice(0,7) : ''; } }
         },
-        y:{
-          grid:{color:'#151a22'},
-          ticks:{font:{size:11},callback:function(v){return v.toFixed(1);}},
-          title:{display:true,text:'Z-Score',color:'#8b949e',font:{size:11}}
+        y: {
+          grid: { color: '#151a22' },
+          ticks: { font: { size: 11 }, callback: function(v){ return v.toFixed(1); } },
+          title: { display: true, text: 'Z-Score', color: '#8b949e', font: { size: 11 } }
         },
       },
     },
