@@ -749,6 +749,167 @@
     top: 0;
     pointer-events: none;
   }
+
+  /* =====================================================================
+     MOBILE RESPONSIVENESS — max-width: 768px
+     ===================================================================== */
+
+  /* FFA Term Structure panel: stack BDRY and BWET vertically on mobile */
+  #termStructurePanel {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  @media (max-width: 768px) {
+    /* ── General layout ── */
+    .main {
+      padding: 12px;
+    }
+
+    /* ── Header: stack product selector below title on very small screens ── */
+    .header {
+      padding: 10px 12px;
+      gap: 10px;
+    }
+    .product-selector {
+      margin-left: 0;
+      width: 100%;
+    }
+    .product-selector select {
+      flex: 1;
+      min-width: 0;
+    }
+    .updated-at {
+      width: 100%;
+      margin-left: 0;
+    }
+
+    /* ── Dashboard hero: reduce giant price font ── */
+    .current-price-value {
+      font-size: 32px;
+    }
+
+    /* ── Context strip: 3-col → 1-col on mobile ── */
+    .context-strip {
+      grid-template-columns: 1fr;
+    }
+
+    /* ── Chart canvas heights: slightly reduce on mobile to avoid excessive scroll ── */
+    .chart-canvas-wrap {
+      height: 260px;
+    }
+    .drawdown-chart-wrap {
+      height: 260px;
+    }
+    .spaghetti-wrap {
+      height: 240px;
+    }
+
+    /* ── FFA Term Structure: KEY FIX — stack the two curve panels vertically ── */
+    #termStructurePanel {
+      grid-template-columns: 1fr !important;
+    }
+
+    /* ── Slope text below term structure charts: allow wrapping ── */
+    #termBdrySlope,
+    #termBwetSlope {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      font-size: 11px;
+    }
+
+    /* ── ETF metrics grid: 3-col → 2-col ── */
+    .etf-metrics {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    /* ── ETF card padding ── */
+    .etf-card {
+      padding: 14px;
+    }
+
+    /* ── Win-rate cards: allow wrapping with min-width ── */
+    .win-rate-card {
+      min-width: 90px;
+    }
+
+    /* ── Heatmap tables: ensure horizontal scroll wrapper works ── */
+    .heatmap-wrap,
+    .corr-wrap {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    /* ── Chart section padding ── */
+    .chart-section {
+      padding: 14px;
+    }
+
+    /* ── Chart container padding ── */
+    .chart-container {
+      padding: 12px;
+    }
+
+    /* ── Section title font ── */
+    .section-title {
+      font-size: 1rem;
+    }
+
+    /* ── Stat cards: reduce value font size ── */
+    .stat-value {
+      font-size: 18px;
+    }
+
+    /* ── Index stats strip: allow text to shrink ── */
+    .index-stat-mini-val {
+      font-size: 11px;
+    }
+    .index-stat-mini-label {
+      font-size: 8px;
+    }
+
+    /* ── Tab buttons: reduce padding ── */
+    .tab-btn {
+      padding: 10px 10px;
+      font-size: 12px;
+    }
+  }
+
+  /* Extra-small screens (phones < 480px) */
+  @media (max-width: 480px) {
+    .main {
+      padding: 8px;
+    }
+
+    .current-price-value {
+      font-size: 28px;
+    }
+
+    /* ── ETF metrics: 2-col → 1-col ── */
+    .etf-metrics {
+      grid-template-columns: 1fr;
+    }
+
+    /* ── Chart canvas heights: further reduce ── */
+    .chart-canvas-wrap {
+      height: 220px !important;
+    }
+    .drawdown-chart-wrap {
+      height: 220px !important;
+    }
+
+    /* ── Stat value font ── */
+    .stat-value {
+      font-size: 16px;
+    }
+
+    /* ── Context value font ── */
+    .context-value {
+      font-size: 16px;
+    }
+  }
 </style>
 </head>
 <body>
