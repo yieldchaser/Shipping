@@ -197,7 +197,7 @@ Each card contains:
    - BWET: Crude & Product Demand (Trading Economics, EIA) + Key Trade Routes (TradingView: TD3C / TD20)
 8. **Market Outlook & Research Sources** — Athenia S.A. · Breakwave Advisors · BIMCO · Amplify ETFs official page
 
-#### BDRY Liquidity Tracker *(below the ETF cards)*
+#### BDRY & BWET Liquidity Tracker *(below the ETF cards)*
 
 Position-sizing model applied to BDRY's full daily history (~1,994 days), fetched live from Yahoo Finance:
 
