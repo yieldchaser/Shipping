@@ -268,7 +268,7 @@ Five analytical charts:
 
 ## Automation Details
 
-### `update_indices.py`
+### `scripts/update_indices.py`
 
 - Scrapes `en.stockq.org` for all 6 Baltic indices
 - `raise_for_status()` on every HTTP response — fails loudly on 4xx/5xx
@@ -276,7 +276,7 @@ Five analytical charts:
 - Deduplicates by parsed date (chronological sort, not lexicographic)
 - Idempotent — re-running never corrupts existing data
 
-### `update_etf_holdings.py`
+### `scripts/update_etf_holdings.py`
 
 - Downloads the master Amplify ETF holdings CSV from `amplifyetfs.com`
 - Filters to BDRY and BWET
