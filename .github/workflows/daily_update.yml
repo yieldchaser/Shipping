@@ -31,7 +31,7 @@ jobs:
       run: git pull --rebase origin main
 
     - name: Run scraper
-      run: python update_indices.py
+      run: python scripts/update_indices.py
 
     - name: Commit and push changes
       run: |

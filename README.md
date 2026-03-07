@@ -75,29 +75,45 @@ BWET index weights: **90% TD3C, 10% TD20** (Solactive ISIN DE000SL0HLG3, Excess 
 ```
 Shipping/
 │
-├── index.html                       # Full dashboard — self-contained, CDN-only deps
+├── index.html                          # Full dashboard — self-contained, CDN-only deps
 │
-├── bdiy_historical.csv              # Baltic Dry Index history (from Dec 2007)
-├── cape_historical.csv              # Capesize (from Oct 2008)
-├── panama_historical.csv            # Panamax (from Oct 2008)
-├── suprama_historical.csv           # Supramax (from Oct 2008)
-├── cleantanker_historical.csv       # Clean Tanker (from Jan 2008)
-├── dirtytanker_historical.csv       # Dirty Tanker (from Dec 2007)
+├── bdiy_historical.csv                 # Baltic Dry Index history (from Dec 2007)
+├── cape_historical.csv                 # Capesize (from Oct 2008)
+├── panama_historical.csv               # Panamax (from Oct 2008)
+├── suprama_historical.csv              # Supramax (from Oct 2008)
+├── cleantanker_historical.csv          # Clean Tanker (from Jan 2008)
+├── dirtytanker_historical.csv          # Dirty Tanker (from Dec 2007)
 │
-├── bdry_holdings.csv                # BDRY FFA curve holdings (updated daily)
-├── bwet_holdings.csv                # BWET FFA curve holdings (updated daily)
+├── bdry_holdings.csv                   # BDRY FFA curve holdings (updated daily)
+├── bwet_holdings.csv                   # BWET FFA curve holdings (updated daily)
+├── BDRY_Daily.csv                      # BDRY daily premium/discount
+├── BWET_Daily.csv                      # BWET daily premium/discount
+├── bdryff_history.csv                  # Solactive BDRY freight futures index history
+├── bwetff_history.csv                  # Solactive BWET freight futures index history
 │
-├── BDRY_Export-Map-1024x548.webp    # Dry bulk trade route map (shown in ETF tab)
-├── BWET_Tanker-Map-1-1024x585.webp  # Crude tanker route map (shown in ETF tab)
+├── sgx_cape_futures.csv                # SGX Capesize FFA futures curve
+├── sgx_panamax_futures.csv             # SGX Panamax FFA futures curve
+├── sgx_supramax_futures.csv            # SGX Supramax FFA futures curve
+├── sgx_handysize_futures.csv           # SGX Handysize FFA futures curve
 │
-├── update_indices.py                # Baltic index scraper
-├── update_etf_holdings.py           # ETF holdings scraper
+├── scripts/
+│   ├── update_indices.py               # Baltic index scraper (all 6 indices + SGX FFA)
+│   └── update_etf_holdings.py          # ETF holdings scraper (BDRY & BWET)
 │
-├── Shipping_Main.xlsm               # Offline Excel workbook (same CSV data)
+├── assets/
+│   ├── BDRY_Export-Map-1024x548.webp   # Dry bulk trade route map (ETF tab)
+│   ├── BWET_Tanker-Map-1-1024x585.webp # Crude tanker route map (ETF tab)
+│   ├── Picture1.png                    # Reference charts
+│   ├── Picture2.png
+│   ├── Picture3.png
+│   └── Picture4.png
+│
+├── docs/
+│   └── Shipping_Main.xlsm              # Offline Excel workbook (same CSV data)
 │
 └── .github/workflows/
-    ├── daily_update.yml             # Cron: 2 PM + 7 PM UTC daily
-    └── etf_holdings_update.yml      # Cron: 2 PM UTC Mon–Fri
+    ├── daily_update.yml                # Cron: 10:30 AM + 2/7/10 PM UTC daily
+    └── etf_holdings_update.yml         # Cron: 2 PM UTC Mon–Fri
 ```
 
 ---
@@ -285,8 +301,8 @@ Both workflows: pull latest before running (prevents push conflicts on concurren
 ```bash
 pip install requests beautifulsoup4 pandas lxml
 
-python update_indices.py        # update all 6 Baltic indices
-python update_etf_holdings.py   # update BDRY and BWET holdings
+python scripts/update_indices.py        # update all 6 Baltic indices + SGX FFA futures
+python scripts/update_etf_holdings.py   # update BDRY and BWET holdings
 ```
 
 Both scripts are safe to re-run at any time.

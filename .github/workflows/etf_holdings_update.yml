@@ -30,7 +30,7 @@ jobs:
       run: git pull --rebase origin main
 
     - name: Download and process ETF holdings
-      run: python update_etf_holdings.py
+      run: python scripts/update_etf_holdings.py
 
     - name: Commit and push changes
       run: |
