@@ -150,7 +150,7 @@ def download_master_csv():
         df = pd.read_csv(temp_file)
         os.remove(temp_file)
         
-        print(f"✓ Downloaded {len(df)} total holdings")
+        print(f"[OK] Downloaded {len(df)} total holdings")
         return df
         
     except Exception as e:
@@ -198,7 +198,7 @@ def process_etf(df, etf_code, output_file):
         
         # Save to CSV
         etf_df.to_csv(output_file, index=False)
-        print(f"  ✓ Saved {len(etf_df)} rows to {output_file}")
+        print(f"  [OK] Saved {len(etf_df)} rows to {output_file}")
         
         # Print summary
         print_summary(etf_df, etf_code)

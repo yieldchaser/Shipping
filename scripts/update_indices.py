@@ -416,21 +416,21 @@ def main():
             print(f"No data scraped for {code}")
 
     # New: Solactive freight futures indexes
-    print("\n── Solactive Freight Futures ──")
+    print("\n--- Solactive Freight Futures ---")
     for isin, filename in SOLACTIVE_INDEXES.items():
         print(f"\nProcessing {isin}...")
         latest = fetch_latest_solactive(isin)
         update_solactive_csv(filename, latest)
 
     # New: Amplify ETF premium/discount
-    print("\n── Amplify ETF Premium/Discount ──")
+    print("\n--- Amplify ETF Premium/Discount ---")
     for ticker, filename in AMPLIFY_ETFS.items():
         print(f"\nProcessing {ticker}...")
         latest = fetch_latest_amplify(ticker)
         update_amplify_csv(filename, latest)
 
     # New: SGX FFA Futures (Capesize, Panamax, Supramax)
-    print("\n── SGX FFA Futures ──")
+    print("\n--- SGX FFA Futures ---")
     for product_code, filename in SGX_PRODUCTS.items():
         print(f"\nProcessing {product_code}...")
         update_sgx_csv(filename, product_code)
