@@ -2117,9 +2117,12 @@ function buildOverlayChart(productKey) {
   const labels = Array.from({ length: maxDays }, (_, i) => i + 1);
 
   const curYearRows = DATA.byYear[currentYear] || [];
+  const curYearData = curYearRows.map(r => r[productKey] ?? null);
+  // Pad to maxDays so all arrays are same length — trailing nulls end the line cleanly
+  while (curYearData.length < maxDays) curYearData.push(null);
   datasets.push({
     label: String(currentYear),
-    data: curYearRows.map(r => r[productKey] ?? null),
+    data: curYearData,
     borderColor: prod.color,
     backgroundColor: 'transparent',
     borderWidth: 3,
@@ -2135,15 +2138,17 @@ function buildOverlayChart(productKey) {
     const checkEl = Array.from(checkboxEls).find(cb => parseInt(cb.value) === y);
     const colorIdx = checkEl ? Array.from(checkboxEls).indexOf(checkEl) : idx;
     const color = YEAR_COLORS[colorIdx % YEAR_COLORS.length];
+    const yData = rows.map(r => r[productKey] ?? null);
+    // Pad to maxDays — line ends at last real point, no mid-chart fracture
+    while (yData.length < maxDays) yData.push(null);
     datasets.push({
       label: String(y),
-      data: rows.map(r => r[productKey] ?? null),
+      data: yData,
       borderColor: color,
       backgroundColor: 'transparent',
       borderWidth: 1.5,
       pointRadius: 0,
       tension: 0.2,
-      borderDash: [],
       order: idx + 1,
     });
   });
