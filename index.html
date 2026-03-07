@@ -2149,6 +2149,7 @@ function buildOverlayChart(productKey) {
       borderWidth: 1.5,
       pointRadius: 0,
       tension: 0.2,
+      spanGaps: true,
       order: idx + 1,
     });
   });
@@ -4701,8 +4702,13 @@ function renderSeasonalChart(productKey) {
   var curYearByTD = {};
   curYearRows.forEach(function(r){ curYearByTD[r.tradingDay] = r[productKey]; });
 
+  var MONTH_STARTS = [1, 22, 42, 63, 83, 104, 124, 145, 165, 186, 206, 227]; // approx trading day each month starts
+  var MONTH_NAMES_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
   for (var td = 1; td <= maxTD; td++) {
-    labels.push('TD' + td);
+    // Label only at month boundaries, empty string otherwise
+    var monthIdx = MONTH_STARTS.indexOf(td);
+    labels.push(monthIdx >= 0 ? MONTH_NAMES_SHORT[monthIdx] : '');
     var vals = byTD[td] || [];
     if (vals.length < 2) {
       avgLine.push(null); upperBand.push(null); lowerBand.push(null);
@@ -4737,14 +4743,8 @@ function renderSeasonalChart(productKey) {
         }}
       },
       scales: {
-        x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 24, font: { size: 11 },
-          callback: function(_, i) {
-            // Show month label every 2 months (~42 trading days)
-            var months = ['Jan','Mar','May','Jul','Sep','Nov'];
-            var approxMonth = Math.floor(i / 21);
-            if (i % 42 === 0 && approxMonth < 12) return months[Math.floor(approxMonth / 2)];
-            return '';
-          }
+        x: { grid: { color: '#151a22' }, ticks: { autoSkip: false, font: { size: 11 },
+          callback: function(_, i) { return labels[i] || ''; }
         }},
         y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function(v){ return fmt(v); } } },
       },
