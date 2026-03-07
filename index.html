@@ -3953,12 +3953,17 @@ function rebuildYDHistChart(productKey) {
   var labels = rows.map(function(r){ return r.date.toISOString().split('T')[0]; });
   var values = rows.map(function(r){ return r[productKey]; });
 
-  // Rolling avg — window size based on _ydHistAvgWindow
+  // Rolling avg — O(n) prefix sum approach (replaces O(n²) slice+reduce)
   var winDays = _ydHistAvgWindow > 0 ? _ydHistAvgWindow * 252 : values.length;
+  var pSum = [0], pCnt = [0];
+  for (var pi = 0; pi < values.length; pi++) {
+    pSum.push(pSum[pi] + (values[pi] != null ? values[pi] : 0));
+    pCnt.push(pCnt[pi] + (values[pi] != null ? 1 : 0));
+  }
   var rollingAvg = values.map(function(_, i) {
     var st = Math.max(0, i - winDays + 1);
-    var sl = values.slice(st, i + 1).filter(function(v){ return v != null; });
-    return sl.length ? sl.reduce(function(a,b){ return a+b; }, 0) / sl.length : null;
+    var cnt = pCnt[i+1] - pCnt[st];
+    return cnt > 0 ? (pSum[i+1] - pSum[st]) / cnt : null;
   });
 
   var avgLabel = _ydHistAvgWindow > 0 ? (_ydHistAvgWindow + 'Y Rolling Avg') : 'All-Time Avg';
@@ -4037,13 +4042,24 @@ function renderYDKpi(productKey) {
 }
 
 function computeRollingZscoreArr(values, windowSize) {
+  // O(n) prefix sums for sum and sum-of-squares — replaces O(n²) slice+reduce
+  var pSum   = [0], pSumSq = [0], pCnt = [0];
+  for (var pi = 0; pi < values.length; pi++) {
+    var v = values[pi];
+    pSum.push(pSum[pi]     + (v != null ? v     : 0));
+    pSumSq.push(pSumSq[pi] + (v != null ? v * v : 0));
+    pCnt.push(pCnt[pi]     + (v != null ? 1     : 0));
+  }
   return values.map(function(v, i) {
     if (v == null) return null;
-    var start = Math.max(0, i - windowSize + 1);
-    var slice = values.slice(start, i+1).filter(function(x) { return x != null; });
-    if (slice.length < 20) return null;
-    var m = slice.reduce(function(a,b){return a+b;},0) / slice.length;
-    var sd = Math.sqrt(slice.reduce(function(a,b){return a+(b-m)*(b-m);},0) / slice.length);
+    var start  = Math.max(0, i - windowSize + 1);
+    var cnt    = pCnt[i+1]   - pCnt[start];
+    if (cnt < 20) return null;
+    var sum    = pSum[i+1]   - pSum[start];
+    var sumSq  = pSumSq[i+1] - pSumSq[start];
+    var m      = sum / cnt;
+    var vari   = (sumSq / cnt) - (m * m);
+    var sd     = vari > 0 ? Math.sqrt(vari) : 0;
     return sd > 0 ? (v - m) / sd : 0;
   });
 }
