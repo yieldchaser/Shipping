@@ -1496,6 +1496,49 @@
       </div>
     </div>
 
+    <!-- 7. SGX FFA Forward Curve -->
+    <div class="chart-container mb-20" style="margin-top:4px;">
+      <div class="chart-header">
+        <div class="chart-title">SGX FFA Forward Curve</div>
+        <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
+          <div style="display:flex;gap:4px;">
+            <button class="toggle-btn active" id="ffaBtnCape"      onclick="setFFAProduct('cape')">Cape</button>
+            <button class="toggle-btn"        id="ffaBtnPanamax"   onclick="setFFAProduct('panamax')">Panamax</button>
+            <button class="toggle-btn"        id="ffaBtnSupramax"  onclick="setFFAProduct('supramax')">Supramax</button>
+            <button class="toggle-btn"        id="ffaBtnHandysize" onclick="setFFAProduct('handysize')">Handysize</button>
+          </div>
+          <div style="display:flex;gap:4px;padding-left:8px;border-left:1px solid var(--border);align-items:center;">
+            <span style="font-size:11px;color:var(--text-muted);">vs</span>
+            <button class="toggle-btn"        id="ffaComp1w"   onclick="setFFAComp('1w')">1W ago</button>
+            <button class="toggle-btn"        id="ffaComp2w"   onclick="setFFAComp('2w')">2W ago</button>
+            <button class="toggle-btn"        id="ffaComp1m"   onclick="setFFAComp('1m')">1M ago</button>
+            <button class="toggle-btn"        id="ffaComp3m"   onclick="setFFAComp('3m')">3M ago</button>
+            <button class="toggle-btn active" id="ffaCompNone" onclick="setFFAComp('none')">No Compare</button>
+          </div>
+        </div>
+      </div>
+      <div style="font-size:11px;color:var(--text-muted);margin-bottom:10px;padding:0 2px;">
+        Latest settlement prices per contract month. Click any point to view full contract history below.
+      </div>
+      <div id="ffaNoData" style="display:none;color:var(--text-muted);font-size:13px;padding:20px 0;text-align:center;">
+        SGX FFA data not available yet. Data populates after the first daily update run.
+      </div>
+      <div class="chart-canvas-wrap" style="height:300px"><canvas id="ffaForwardChart"></canvas></div>
+    </div>
+
+    <!-- 8. SGX FFA Contract History (shown on click) -->
+    <div class="chart-container mb-20" id="ffaHistoryPanel" style="display:none;">
+      <div class="chart-header">
+        <div class="chart-title" id="ffaHistoryTitle">Contract History</div>
+        <div class="flex-row" style="gap:8px;align-items:center;">
+          <span id="ffaHistoryBadge" style="font-size:11px;padding:3px 10px;border-radius:4px;font-weight:600;"></span>
+          <button class="toggle-btn" onclick="document.getElementById('ffaHistoryPanel').style.display='none';destroyChart('ffaHistoryChart');">✕ Close</button>
+        </div>
+      </div>
+      <div id="ffaHistoryMessage" style="display:none;color:var(--text-muted);font-size:13px;padding:16px 0;"></div>
+      <div class="chart-canvas-wrap" style="height:280px"><canvas id="ffaHistoryChart"></canvas></div>
+    </div>
+
   </div>
 
 </div><!-- /main -->
@@ -1511,6 +1554,7 @@ const DATA = {
   loaded: false,
   bdryPD: [],
   bwetPD: [],
+  sgx: { cape: [], panamax: [], supramax: [], handysize: [] },
 };
 
 // Per-product filtered row cache (populated after load)
@@ -1768,7 +1812,7 @@ async function loadAllData() {
   const overlay = document.getElementById('loadingOverlay');
   const progress = document.getElementById('loadingProgress');
   let loaded = 0;
-  const total = PRODUCT_KEYS.length + 4; // +2 holdings, +2 P/D files
+  const total = PRODUCT_KEYS.length + 8; // +2 holdings, +2 P/D files, +4 SGX FFA
 
   function tick(label) {
     loaded++;
@@ -1777,7 +1821,6 @@ async function loadAllData() {
 
   const indexPromises = PRODUCT_KEYS.map(async key => {
     if (PRODUCTS[key].computed) {
-      // Computed product — no CSV to fetch; raw data built in buildMaster()
       DATA.raw[key] = [];
       tick(PRODUCTS[key].label);
       return key;
@@ -1785,7 +1828,6 @@ async function loadAllData() {
     const rows = await fetchCSV(PRODUCTS[key].file);
     const parsed = [];
     if (PRODUCTS[key].solactive) {
-      // Solactive CSVs now use DD-MM-YYYY format (same as other index CSVs)
       for (const row of rows) {
         const d = parseDate((row['date'] || '').trim());
         const v = parseVal(row['value']);
@@ -1814,7 +1856,25 @@ async function loadAllData() {
   const bdryPdPromise = fetchCSV('BDRY_Daily.csv').then(r => { DATA.bdryPD = parsePDCsv(r); tick('BDRY P/D'); });
   const bwetPdPromise = fetchCSV('BWET_Daily.csv').then(r => { DATA.bwetPD = parsePDCsv(r); tick('BWET P/D'); });
 
-  await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise]);
+  // SGX FFA Futures — non-blocking; dashboard renders even if these fail
+  const sgxFiles = {
+    cape:      'sgx_cape_futures.csv',
+    panamax:   'sgx_panamax_futures.csv',
+    supramax:  'sgx_supramax_futures.csv',
+    handysize: 'sgx_handysize_futures.csv',
+  };
+  const sgxPromises = Object.entries(sgxFiles).map(async ([key, file]) => {
+    try {
+      const rows = await fetchCSV(file);
+      DATA.sgx[key] = rows;
+    } catch(e) {
+      DATA.sgx[key] = [];
+      console.warn('[SGX] Could not load ' + file + ':', e.message);
+    }
+    tick('SGX ' + key.charAt(0).toUpperCase() + key.slice(1));
+  });
+
+  await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, ...sgxPromises]);
 
   buildMaster();
 
@@ -4460,6 +4520,7 @@ function renderSignalsTab(productKey) {
     function(){ renderSeasonalChart(productKey); },
     function(){ renderTermStructure(); },
     function(){ renderPDZscoreChart(); },
+    function(){ renderFFAForwardCurve(); },
   ];
   fns.forEach(function(fn){
     try { fn(); } catch(e) { console.error('[SignalsTab]', e); }
@@ -5718,6 +5779,378 @@ function wireWwetLiqDownload(allRows, s, e) {
     downloadCSV('bwet_liquidity.csv', headers, csvRows);
   };
 }
+
+// =====================================================================
+// SGX FFA FORWARD CURVE  (Signals tab — Panels 7 & 8)
+// =====================================================================
+
+var _ffaProduct = 'cape';
+var _ffaComp    = 'none';
+var _ffaProcessed = null;  // lazily computed from DATA.sgx
+
+// CME month code → month number (same map as update_indices.py)
+var _CME_MAP = {F:1,G:2,H:3,J:4,K:5,M:6,N:7,Q:8,U:9,V:10,X:11,Z:12};
+
+/**
+ * Compute expiry date for a contract in JS (mirrors Python get_expiry logic,
+ * weekends only — no holiday lookup available in browser).
+ */
+function sgxExpiry(month, year) {
+  var d;
+  if (month === 12) {
+    d = new Date(year, 11, 24); // Dec 24
+  } else {
+    d = new Date(year, month, 0); // Last calendar day of month (month+1, day 0)
+  }
+  // Walk back over weekends
+  while (d.getDay() === 0 || d.getDay() === 6) {
+    d.setDate(d.getDate() - 1);
+  }
+  return d;
+}
+
+/**
+ * Parse raw SGX CSV rows for one product into an array of contract objects.
+ * Each object: { contract, expiryLabel, expiry (Date), isActive, history [{date, price, volume}] }
+ */
+function parseSGXRows(rows) {
+  if (!rows || !rows.length) return [];
+  var today = new Date(); today.setHours(0,0,0,0);
+
+  var contractMap = {};
+
+  rows.forEach(function(row) {
+    var contract = (row.contract || '').trim();
+    if (!contract) return;
+
+    var date = parseDate((row.date || '').trim());
+    if (!date) return;
+
+    var price = parseFloat(row.price);
+    if (isNaN(price) || price <= 0) return;
+
+    var volume = parseFloat(row.volume) || 0;
+
+    if (!contractMap[contract]) {
+      // Derive expiry from contract ticker or expiry_date column
+      var expiry = null;
+      if (row.expiry_date && row.expiry_date.trim()) {
+        expiry = parseDate(row.expiry_date.trim());
+      }
+      if (!expiry) {
+        // Parse from contract ticker: last 3 chars = month_code + 2-digit year
+        // e.g. CWFJ26 → J=Apr(4), 26=2026
+        var mc = contract.slice(-3, -2);
+        var yr2 = parseInt(contract.slice(-2));
+        var mon = _CME_MAP[mc];
+        if (mon && !isNaN(yr2)) {
+          expiry = sgxExpiry(mon, 2000 + yr2);
+        }
+      }
+
+      // expiryLabel from expiry_month column e.g. "Apr 2026", fallback to ticker
+      var expiryLabel = (row.expiry_month || contract).trim();
+
+      // Sort key: YYYYMM derived from expiry or label
+      var sortKey = expiry ? expiry.getFullYear() * 100 + expiry.getMonth() + 1 : 999999;
+
+      contractMap[contract] = {
+        contract:    contract,
+        expiryLabel: expiryLabel,
+        expiry:      expiry,
+        isActive:    expiry ? expiry >= today : true,
+        sortKey:     sortKey,
+        history:     [],
+      };
+    }
+    contractMap[contract].history.push({ date: date, price: price, volume: volume });
+  });
+
+  // Sort histories chronologically
+  var contracts = Object.values(contractMap);
+  contracts.forEach(function(c) {
+    c.history.sort(function(a, b) { return a.date - b.date; });
+  });
+
+  // Sort contracts by expiry (chronological)
+  contracts.sort(function(a, b) { return a.sortKey - b.sortKey; });
+
+  return contracts;
+}
+
+function getFFAProcessed() {
+  if (_ffaProcessed) return _ffaProcessed;
+  if (!DATA.sgx) return null;
+  _ffaProcessed = {};
+  ['cape','panamax','supramax','handysize'].forEach(function(p) {
+    _ffaProcessed[p] = parseSGXRows(DATA.sgx[p] || []);
+  });
+  return _ffaProcessed;
+}
+
+function setFFAProduct(p) {
+  _ffaProduct = p;
+  ['cape','panamax','supramax','handysize'].forEach(function(k) {
+    var id = 'ffaBtn' + k.charAt(0).toUpperCase() + k.slice(1);
+    var el = document.getElementById(id);
+    if (el) el.classList.toggle('active', k === p);
+  });
+  // Close any open history panel when switching product
+  var hp = document.getElementById('ffaHistoryPanel');
+  if (hp) { hp.style.display = 'none'; destroyChart('ffaHistoryChart'); }
+  renderFFAForwardCurve();
+}
+
+function setFFAComp(w) {
+  _ffaComp = w;
+  ['1w','2w','1m','3m','none'].forEach(function(k) {
+    var el = document.getElementById('ffaComp' + k);
+    if (el) el.classList.toggle('active', k === w);
+  });
+  renderFFAForwardCurve();
+}
+
+/** Get each contract's last known price on or before refDate */
+function ffaCurvePricesAsOf(contracts, refDate) {
+  return contracts.map(function(c) {
+    for (var i = c.history.length - 1; i >= 0; i--) {
+      if (c.history[i].date <= refDate) return c.history[i].price;
+    }
+    return null;
+  });
+}
+
+function renderFFAForwardCurve() {
+  var noDataEl = document.getElementById('ffaNoData');
+  var canvas   = document.getElementById('ffaForwardChart');
+  if (!canvas) return;
+
+  var processed = getFFAProcessed();
+  var allContracts = processed ? (processed[_ffaProduct] || []) : [];
+
+  // Active only = expiry >= today
+  var today = new Date(); today.setHours(0,0,0,0);
+  var contracts = allContracts.filter(function(c) { return c.isActive; });
+
+  if (!contracts.length) {
+    if (noDataEl) noDataEl.style.display = '';
+    canvas.style.display = 'none';
+    return;
+  }
+  if (noDataEl) noDataEl.style.display = 'none';
+  canvas.style.display = '';
+
+  var labels = contracts.map(function(c) { return c.expiryLabel; });
+  var curPrices = contracts.map(function(c) {
+    return c.history.length ? c.history[c.history.length - 1].price : null;
+  });
+
+  var prodColors  = { cape:'#58a6ff', panamax:'#3fb950', supramax:'#d29922', handysize:'#a371f7' };
+  var prodLabels  = { cape:'Capesize', panamax:'Panamax', supramax:'Supramax', handysize:'Handysize' };
+  var color = prodColors[_ffaProduct];
+
+  var datasets = [{
+    label: prodLabels[_ffaProduct] + ' (current)',
+    data:  curPrices,
+    borderColor:     color,
+    backgroundColor: color + '33',
+    borderWidth: 2.5,
+    pointRadius: 6,
+    pointHoverRadius: 9,
+    fill: true,
+    tension: 0.2,
+    spanGaps: false,
+    order: 1,
+  }];
+
+  // Comparison overlay
+  if (_ffaComp !== 'none') {
+    var daysBack = { '1w':7, '2w':14, '1m':30, '3m':91 }[_ffaComp] || 0;
+    var refDate  = new Date(today.getTime() - daysBack * 86400000);
+    var compPrices = ffaCurvePricesAsOf(contracts, refDate);
+    if (compPrices.some(function(p){ return p != null; })) {
+      var compLabel = { '1w':'1W ago','2w':'2W ago','1m':'1M ago','3m':'3M ago' }[_ffaComp] || _ffaComp;
+      datasets.push({
+        label: compLabel,
+        data:  compPrices,
+        borderColor:     'rgba(139,148,158,0.55)',
+        backgroundColor: 'rgba(139,148,158,0.06)',
+        borderWidth: 1.5,
+        pointRadius: 4,
+        pointHoverRadius: 6,
+        fill: false,
+        tension: 0.2,
+        spanGaps: false,
+        order: 2,
+      });
+    }
+  }
+
+  // Keep reference to contracts for click handler
+  var _contractsRef = contracts;
+
+  destroyChart('ffaForwardChart');
+  chartRegistry['ffaForwardChart'] = new Chart(canvas.getContext('2d'), {
+    type: 'line',
+    data: { labels: labels, datasets: datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+        tooltip: { callbacks: {
+          title: function(c){ return c[0].label; },
+          label: function(c){ return c.parsed.y != null ? ' ' + c.dataset.label + ': ' + fmt(c.parsed.y, 0) : null; }
+        }}
+      },
+      scales: {
+        x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } } },
+        y: {
+          grid: { color: '#151a22' },
+          ticks: { font: { size: 11 }, callback: function(v){ return fmt(v); } },
+          title: { display: true, text: '$/day', color: '#8b949e', font: { size: 11 } }
+        }
+      },
+      onClick: function(evt, elements) {
+        if (!elements || !elements.length) return;
+        // Only respond to clicks on the current (first) dataset
+        if (elements[0].datasetIndex !== 0) return;
+        var idx = elements[0].index;
+        if (idx < 0 || idx >= _contractsRef.length) return;
+        renderFFAContractHistory(_contractsRef[idx]);
+      }
+    },
+  });
+}
+
+function renderFFAContractHistory(contractData) {
+  var panel    = document.getElementById('ffaHistoryPanel');
+  var titleEl  = document.getElementById('ffaHistoryTitle');
+  var badgeEl  = document.getElementById('ffaHistoryBadge');
+  var msgEl    = document.getElementById('ffaHistoryMessage');
+  var canvas   = document.getElementById('ffaHistoryChart');
+  if (!panel || !canvas) return;
+
+  panel.style.display = '';
+
+  var label = contractData.expiryLabel || contractData.contract;
+  titleEl.textContent = 'Contract History — ' + label + ' (' + contractData.contract + ')';
+
+  var isActive = contractData.isActive;
+  badgeEl.textContent = isActive ? '● Active' : '○ Expired';
+  badgeEl.style.cssText = 'font-size:11px;padding:3px 10px;border-radius:4px;font-weight:600;' +
+    'background:' + (isActive ? 'rgba(63,185,80,0.2)' : 'rgba(139,148,158,0.2)') + ';' +
+    'color:' + (isActive ? '#3fb950' : '#8b949e') + ';' +
+    'border:1px solid ' + (isActive ? 'rgba(63,185,80,0.4)' : 'rgba(139,148,158,0.4)') + ';';
+
+  var hist = contractData.history;
+
+  // Fewer than 5 data points → show message instead of chart
+  if (hist.length < 5) {
+    msgEl.style.display = '';
+    msgEl.innerHTML = '<em>Data collection in progress</em> — only ' + hist.length +
+      ' data point' + (hist.length === 1 ? '' : 's') + ' available for ' + label + '.';
+    canvas.style.display = 'none';
+    panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    return;
+  }
+
+  msgEl.style.display = 'none';
+  canvas.style.display = '';
+
+  var labels = hist.map(function(r){ return r.date.toISOString().split('T')[0]; });
+  var prices = hist.map(function(r){ return r.price; });
+
+  var prodColors = { cape:'#58a6ff', panamax:'#3fb950', supramax:'#d29922', handysize:'#a371f7' };
+  var color = prodColors[_ffaProduct];
+
+  // Expiry date string for vertical marker
+  var expiryDate  = contractData.expiry;
+  var expiryStr   = expiryDate ? expiryDate.toISOString().split('T')[0] : null;
+
+  // Inline Chart.js plugin to draw a vertical expiry line
+  var expiryLinePlugin = {
+    id: 'ffaExpiryLine',
+    afterDraw: function(chart) {
+      if (!expiryStr) return;
+      // Find the label index closest to expiry date
+      var idx = labels.indexOf(expiryStr);
+      if (idx === -1) {
+        // Find first label >= expiryStr
+        for (var i = 0; i < labels.length; i++) {
+          if (labels[i] >= expiryStr) { idx = i; break; }
+        }
+      }
+      if (idx === -1) return;
+      var meta = chart.getDatasetMeta(0);
+      if (!meta || !meta.data || !meta.data[idx]) return;
+      var x   = meta.data[idx].x;
+      var ctx = chart.ctx;
+      var top = chart.chartArea.top;
+      var bot = chart.chartArea.bottom;
+      ctx.save();
+      ctx.strokeStyle = isActive ? 'rgba(63,185,80,0.7)' : 'rgba(248,81,73,0.7)';
+      ctx.lineWidth = 1.5;
+      ctx.setLineDash([5, 4]);
+      ctx.beginPath();
+      ctx.moveTo(x, top);
+      ctx.lineTo(x, bot);
+      ctx.stroke();
+      ctx.setLineDash([]);
+      ctx.fillStyle = isActive ? '#3fb950' : '#f85149';
+      ctx.font = '10px -apple-system, sans-serif';
+      ctx.fillText('Expiry', x + 4, top + 14);
+      ctx.restore();
+    }
+  };
+
+  destroyChart('ffaHistoryChart');
+  chartRegistry['ffaHistoryChart'] = new Chart(canvas.getContext('2d'), {
+    type: 'line',
+    data: {
+      labels: labels,
+      datasets: [{
+        label: label,
+        data:  prices,
+        borderColor:     color,
+        backgroundColor: color + '22',
+        borderWidth: 2,
+        pointRadius: 2,
+        pointHoverRadius: 5,
+        fill: true,
+        tension: 0.1,
+      }]
+    },
+    plugins: [expiryLinePlugin],
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: {
+          title: function(c){ return c[0].label; },
+          label: function(c){ return ' Price: ' + fmt(c.parsed.y, 0); }
+        }}
+      },
+      scales: {
+        x: {
+          grid: { color: '#151a22' },
+          ticks: { maxTicksLimit: 10, font: { size: 11 },
+            callback: function(_, i){ return labels[i] ? labels[i].slice(0, 7) : ''; } }
+        },
+        y: {
+          grid: { color: '#151a22' },
+          ticks: { font: { size: 11 }, callback: function(v){ return fmt(v); } }
+        }
+      }
+    }
+  });
+
+  panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+
+
 
 
 </script>
