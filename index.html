@@ -3208,9 +3208,9 @@ function renderPDZscoreChart() {
           borderColor: '#ff6b6b', backgroundColor: 'rgba(255,107,107,0.07)',
           borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true,
         },
-        { label: '+2σ', data: allLabels.map(function(){ return 2; }),  borderColor: 'rgba(248,81,73,0.5)',  borderWidth: 1, pointRadius: 0, fill: false, borderDash: [5,4], tension: 0 },
-        { label: '−2σ', data: allLabels.map(function(){ return -2; }), borderColor: 'rgba(63,185,80,0.5)',  borderWidth: 1, pointRadius: 0, fill: false, borderDash: [5,4], tension: 0 },
-        { label: 'Zero', data: allLabels.map(function(){ return 0; }),  borderColor: 'rgba(139,148,158,0.3)', borderWidth: 1, pointRadius: 0, fill: false, borderDash: [3,3], tension: 0 },
+        { label: '+2σ', data: allLabels.map(function(){ return 2; }),  borderColor: 'rgba(248,81,73,0.5)',  borderWidth: 1, pointRadius: 0, fill: false, tension: 0 },
+        { label: '−2σ', data: allLabels.map(function(){ return -2; }), borderColor: 'rgba(63,185,80,0.5)',  borderWidth: 1, pointRadius: 0, fill: false, tension: 0 },
+        { label: 'Zero', data: allLabels.map(function(){ return 0; }),  borderColor: 'rgba(139,148,158,0.3)', borderWidth: 1, pointRadius: 0, fill: false, tension: 0 },
       ],
     },
     options: {
@@ -4718,8 +4718,8 @@ function renderSeasonalChart(productKey) {
     data: { labels: labels, datasets: [
       { label: String(currentYear),  data: currentYearLine, borderColor: prod.color,   backgroundColor: 'transparent',         borderWidth: 2.5, pointRadius: 0, fill: false, tension: 0.2, spanGaps: true, order: 1 },
       { label: 'Seasonal Avg',        data: avgLine,         borderColor: '#e3b341',   backgroundColor: 'rgba(227,179,65,0.12)', borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.3, order: 2, borderDash: [5,3] },
-      { label: '+1σ',                 data: upperBand,       borderColor: '#484f58',   backgroundColor: 'rgba(72,79,88,0.15)',  borderWidth: 1,   pointRadius: 0, fill: '+1',  tension: 0.3, order: 3, borderDash: [2,2] },
-      { label: '−1σ',                 data: lowerBand,       borderColor: '#484f58',   backgroundColor: 'transparent',         borderWidth: 1,   pointRadius: 0, fill: false, tension: 0.3, order: 4, borderDash: [2,2] },
+      { label: '+1σ',                 data: upperBand,       borderColor: '#484f58',   backgroundColor: 'rgba(72,79,88,0.15)',  borderWidth: 1,   pointRadius: 0, fill: '+1',  tension: 0.3, order: 3 },
+      { label: '−1σ',                 data: lowerBand,       borderColor: '#484f58',   backgroundColor: 'transparent',         borderWidth: 1,   pointRadius: 0, fill: false, tension: 0.3, order: 4 },
     ]},
     options: {
       responsive: true, maintainAspectRatio: false,
@@ -4732,12 +4732,12 @@ function renderSeasonalChart(productKey) {
         }}
       },
       scales: {
-        x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 13, font: { size: 11 },
+        x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 24, font: { size: 11 },
           callback: function(_, i) {
-            // Show approximate month labels: every ~21 trading days
-            var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+            // Show month label every 2 months (~42 trading days)
+            var months = ['Jan','Mar','May','Jul','Sep','Nov'];
             var approxMonth = Math.floor(i / 21);
-            if (i % 21 === 0 && approxMonth < 12) return months[approxMonth];
+            if (i % 42 === 0 && approxMonth < 12) return months[Math.floor(approxMonth / 2)];
             return '';
           }
         }},
