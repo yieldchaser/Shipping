@@ -934,6 +934,8 @@
       <option value="cleantanker">Clean Tanker (BCTI)</option>
       <option value="dirtytanker">Dirty Tanker (BDTI)</option>
       <option value="bdry_spot">BDRY Spot Composite</option>
+      <option value="bdryff">BDRY Freight Futures (BDRYFF)</option>
+      <option value="bwetff">BWET Freight Futures (BWETFF)</option>
     </select>
   </div>
   <div class="updated-at" id="updatedAt"><span class="live-dot" id="liveDot">●</span><span id="updatedAtText"></span></div>
@@ -1290,10 +1292,24 @@
          </div>
        </div>
      </div>
+
+   <!-- Premium / Discount History -->
+   <div class="chart-container mb-20" style="margin-top:24px;">
+     <div class="chart-header">
+       <div class="chart-title">Premium / Discount History — BDRY &amp; BWET</div>
+       <div class="flex-row" style="gap:6px;align-items:center;">
+         <button class="toggle-btn active" id="pdBtn1y" onclick="setPDWindow('1y')">1Y</button>
+         <button class="toggle-btn" id="pdBtn3y" onclick="setPDWindow('3y')">3Y</button>
+         <button class="toggle-btn" id="pdBtnAll" onclick="setPDWindow('all')">All</button>
+       </div>
+     </div>
+     <div class="chart-canvas-wrap" style="height:300px"><canvas id="pdHistChart"></canvas></div>
+     <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+       Premium/Discount = (Market Price − NAV) / NAV × 100. Positive = ETF trades above NAV; negative = discount.
+     </div>
    </div>
 
-
-  <!-- ===== TAB: YEARLY DASHBOARD ===== -->
+  </div>
   <div class="tab-panel" id="tab-yearly-dash">
     <div id="yd-kpi-row" class="dashboard-hero mb-20"></div>
     <div class="chart-container mb-20">
@@ -1444,6 +1460,23 @@
       <div class="chart-canvas-wrap" style="height:320px"><canvas id="seasonalChart"></canvas></div>
     </div>
 
+    <!-- 6. ETF Premium/Discount Z-Score Signal -->
+    <div class="chart-container mb-20">
+      <div class="chart-header">
+        <div class="chart-title">ETF Premium/Discount Z-Score — Market Top &amp; Bottom Signal</div>
+        <div class="flex-row" style="gap:6px;align-items:center;">
+          <button class="toggle-btn active" id="pdZBtn1y" onclick="setPDZWindow('1y')">1Y</button>
+          <button class="toggle-btn" id="pdZBtn3y" onclick="setPDZWindow('3y')">3Y</button>
+          <button class="toggle-btn" id="pdZBtnAll" onclick="setPDZWindow('all')">All</button>
+        </div>
+      </div>
+      <div class="chart-canvas-wrap" style="height:320px"><canvas id="pdZscoreChart"></canvas></div>
+      <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+        Z-Score = (Current P/D − Rolling 252-Day Mean) / Rolling 252-Day StdDev.
+        Z &gt; +2 = extreme premium (crowd chasing, potential top). Z &lt; −2 = extreme discount (forced selling, potential bottom).
+      </div>
+    </div>
+
     <!-- 5. Term Structure Slope -->
     <div class="chart-container mb-20">
       <div class="chart-header">
@@ -1476,6 +1509,8 @@ const DATA = {
   master: [],
   masterByDate: {},
   loaded: false,
+  bdryPD: [],
+  bwetPD: [],
 };
 
 // Per-product filtered row cache (populated after load)
@@ -1529,7 +1564,9 @@ const PRODUCTS = {
   suprama:     { label: 'Supramax',                file: 'suprama_historical.csv',     color: '#f0883e' },
   cleantanker: { label: 'Clean Tanker (BCTI)',     file: 'cleantanker_historical.csv', color: '#a371f7' },
   dirtytanker: { label: 'Dirty Tanker (BDTI)',     file: 'dirtytanker_historical.csv', color: '#e3b341' },
-  bdry_spot:   { label: 'BDRY Spot Composite',     file: null,                         color: '#f0c040', computed: true },
+  bdry_spot:   { label: 'BDRY Spot Composite',          file: null,                         color: '#f0c040', computed: true },
+  bdryff:      { label: 'BDRY Freight Futures (BDRYFF)', file: 'bdryff_history.csv',         color: '#00bfff', solactive: true },
+  bwetff:      { label: 'BWET Freight Futures (BWETFF)', file: 'bwetff_history.csv',         color: '#ff6b6b', solactive: true },
 };
 
 // BDRY Spot weights (Solactive index methodology)
@@ -1706,11 +1743,31 @@ async function fetchCSV(path) {
   });
 }
 
+// =====================================================================
+// PREMIUM/DISCOUNT CSV PARSER
+// =====================================================================
+function parsePDCsv(rows) {
+  const out = [];
+  for (const row of rows) {
+    const raw = (row['Rate Date'] || '').trim();
+    if (!raw) continue;
+    const d = new Date(raw); // MM/DD/YYYY parses natively
+    const pd = parseVal(row['Premium/Discount']);
+    const nav = parseVal(row['NAV']);
+    const mp  = parseVal(row['Market Price']);
+    if (d && !isNaN(d.getTime()) && pd != null) {
+      out.push({ date: d, pd, nav, mp });
+    }
+  }
+  out.sort((a, b) => a.date - b.date);
+  return out;
+}
+
 async function loadAllData() {
   const overlay = document.getElementById('loadingOverlay');
   const progress = document.getElementById('loadingProgress');
   let loaded = 0;
-  const total = PRODUCT_KEYS.length + 2;
+  const total = PRODUCT_KEYS.length + 4; // +2 holdings, +2 P/D files
 
   function tick(label) {
     loaded++;
@@ -1726,12 +1783,24 @@ async function loadAllData() {
     }
     const rows = await fetchCSV(PRODUCTS[key].file);
     const parsed = [];
-    for (const row of rows) {
-      const d = parseDate(row['Date']);
-      const v = parseVal(row['Index']);
-      const c = parseVal(row['% Change']);
-      if (d && v != null) {
-        parsed.push({ date: d, dateStr: row['Date'], value: v, change: c });
+    if (PRODUCTS[key].solactive) {
+      // Solactive format: columns are 'date' (ISO datetime) and 'value'
+      for (const row of rows) {
+        const raw = (row['date'] || '').trim().split(' ')[0]; // strip time part
+        const d = raw ? new Date(raw + 'T00:00:00') : null;
+        const v = parseVal(row['value']);
+        if (d && !isNaN(d.getTime()) && v != null) {
+          parsed.push({ date: d, dateStr: raw, value: v, change: null });
+        }
+      }
+    } else {
+      for (const row of rows) {
+        const d = parseDate(row['Date']);
+        const v = parseVal(row['Index']);
+        const c = parseVal(row['% Change']);
+        if (d && v != null) {
+          parsed.push({ date: d, dateStr: row['Date'], value: v, change: c });
+        }
       }
     }
     parsed.sort((a, b) => a.date - b.date);
@@ -1742,8 +1811,10 @@ async function loadAllData() {
 
   const bdryPromise = fetchCSV('bdry_holdings.csv').then(r => { DATA.bdryHoldings = r; tick('BDRY Holdings'); });
   const bwetPromise = fetchCSV('bwet_holdings.csv').then(r => { DATA.bwetHoldings = r; tick('BWET Holdings'); });
+  const bdryPdPromise = fetchCSV('BDRY_Daily.csv').then(r => { DATA.bdryPD = parsePDCsv(r); tick('BDRY P/D'); });
+  const bwetPdPromise = fetchCSV('BWET_Daily.csv').then(r => { DATA.bwetPD = parsePDCsv(r); tick('BWET P/D'); });
 
-  await Promise.all([...indexPromises, bdryPromise, bwetPromise]);
+  await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise]);
 
   buildMaster();
 
@@ -2305,7 +2376,7 @@ function toggleYearlyPerf() {
 // =====================================================================
 // CHANGE 3 — Correlation Matrix
 // =====================================================================
-const CORR_LABELS = ['BDI','Cape','Panama','Supra','CleanT','DirtyT','BDRY Spot'];
+const CORR_LABELS = ['BDI','Cape','Panama','Supra','CleanT','DirtyT','BDRY Spot','BDRYFF','BWETFF'];
 
 function setCorrTimeframe(el, tf) {
   currentCorrTimeframe = tf;
@@ -2988,6 +3059,177 @@ function buildIndexChartByRange(key, startIdx, endIdx) {
 // =====================================================================
 // ETF TAB (CHANGE 8)
 // =====================================================================
+// =====================================================================
+// PREMIUM / DISCOUNT — History Chart (ETF Tab)
+// =====================================================================
+var _pdWindow = '1y';
+function setPDWindow(w) {
+  _pdWindow = w;
+  ['1y','3y','all'].forEach(function(x){
+    var el = document.getElementById('pdBtn' + x);
+    if (el) el.classList.toggle('active', x === w);
+  });
+  renderPDHistoryChart();
+}
+
+function renderPDHistoryChart() {
+  var canvas = document.getElementById('pdHistChart');
+  if (!canvas) return;
+  var cutoff = new Date();
+  if (_pdWindow === '1y') cutoff.setFullYear(cutoff.getFullYear() - 1);
+  else if (_pdWindow === '3y') cutoff.setFullYear(cutoff.getFullYear() - 3);
+  else cutoff = new Date('2000-01-01');
+
+  function filterAndBuild(arr) {
+    var filtered = arr.filter(function(r){ return r.date >= cutoff; });
+    return {
+      labels: filtered.map(function(r){ return r.date.toISOString().split('T')[0]; }),
+      data:   filtered.map(function(r){ return r.pd; }),
+    };
+  }
+
+  var bdry = filterAndBuild(DATA.bdryPD || []);
+  var bwet = filterAndBuild(DATA.bwetPD || []);
+
+  // Merge labels for common x-axis
+  var allLabels = Array.from(new Set([...bdry.labels, ...bwet.labels])).sort();
+  var bdryMap = {}; bdry.labels.forEach(function(l,i){ bdryMap[l] = bdry.data[i]; });
+  var bwetMap = {}; bwet.labels.forEach(function(l,i){ bwetMap[l] = bwet.data[i]; });
+
+  destroyChart('pdHistChart');
+  chartRegistry['pdHistChart'] = new Chart(canvas.getContext('2d'), {
+    type: 'line',
+    data: {
+      labels: allLabels,
+      datasets: [
+        {
+          label: 'BDRY P/D %',
+          data: allLabels.map(function(l){ return bdryMap[l] != null ? bdryMap[l] : null; }),
+          borderColor: '#00bfff', backgroundColor: 'rgba(0,191,255,0.08)',
+          borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true,
+        },
+        {
+          label: 'BWET P/D %',
+          data: allLabels.map(function(l){ return bwetMap[l] != null ? bwetMap[l] : null; }),
+          borderColor: '#ff6b6b', backgroundColor: 'rgba(255,107,107,0.08)',
+          borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true,
+        },
+        {
+          label: 'Zero',
+          data: allLabels.map(function(){ return 0; }),
+          borderColor: 'rgba(139,148,158,0.35)', borderWidth: 1,
+          pointRadius: 0, fill: false, borderDash: [4,4], tension: 0,
+        },
+      ],
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+        tooltip: { callbacks: {
+          label: function(c){ return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(3) + '%' : '—'); }
+        }},
+      },
+      scales: {
+        x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function(_,i){ return allLabels[i] ? allLabels[i].slice(0,7) : ''; } } },
+        y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function(v){ return v.toFixed(1) + '%'; } } },
+      },
+    },
+  });
+}
+
+// =====================================================================
+// PREMIUM / DISCOUNT — Z-Score Signal Chart (Signals Tab)
+// =====================================================================
+var _pdZWindow = '1y';
+function setPDZWindow(w) {
+  _pdZWindow = w;
+  ['1y','3y','all'].forEach(function(x){
+    var el = document.getElementById('pdZBtn' + x);
+    if (el) el.classList.toggle('active', x === w);
+  });
+  renderPDZscoreChart();
+}
+
+function computePDZscore(arr, windowDays) {
+  var result = [];
+  for (var i = 0; i < arr.length; i++) {
+    var slice = [];
+    for (var j = Math.max(0, i - windowDays + 1); j <= i; j++) slice.push(arr[j].pd);
+    if (slice.length < 10) { result.push(null); continue; }
+    var m = slice.reduce(function(a,b){return a+b;},0) / slice.length;
+    var sd = Math.sqrt(slice.reduce(function(a,b){return a+(b-m)*(b-m);},0) / slice.length);
+    result.push(sd === 0 ? 0 : (arr[i].pd - m) / sd);
+  }
+  return result;
+}
+
+function renderPDZscoreChart() {
+  var canvas = document.getElementById('pdZscoreChart');
+  if (!canvas) return;
+  var cutoff = new Date();
+  if (_pdZWindow === '1y') cutoff.setFullYear(cutoff.getFullYear() - 1);
+  else if (_pdZWindow === '3y') cutoff.setFullYear(cutoff.getFullYear() - 3);
+  else cutoff = new Date('2000-01-01');
+
+  var bdryAll = DATA.bdryPD || [];
+  var bwetAll = DATA.bwetPD || [];
+  var bdryZ = computePDZscore(bdryAll, 252);
+  var bwetZ = computePDZscore(bwetAll, 252);
+
+  var bdryFilt = [], bwetFilt = [];
+  bdryAll.forEach(function(r,i){ if (r.date >= cutoff) bdryFilt.push({ date: r.date, z: bdryZ[i] }); });
+  bwetAll.forEach(function(r,i){ if (r.date >= cutoff) bwetFilt.push({ date: r.date, z: bwetZ[i] }); });
+
+  var allLabels = Array.from(new Set(
+    [...bdryFilt.map(function(r){ return r.date.toISOString().split('T')[0]; }),
+     ...bwetFilt.map(function(r){ return r.date.toISOString().split('T')[0]; })]
+  )).sort();
+
+  var bdryMap = {}; bdryFilt.forEach(function(r){ bdryMap[r.date.toISOString().split('T')[0]] = r.z; });
+  var bwetMap = {}; bwetFilt.forEach(function(r){ bwetMap[r.date.toISOString().split('T')[0]] = r.z; });
+
+  destroyChart('pdZscoreChart');
+  chartRegistry['pdZscoreChart'] = new Chart(canvas.getContext('2d'), {
+    type: 'line',
+    data: {
+      labels: allLabels,
+      datasets: [
+        {
+          label: 'BDRY Z-Score',
+          data: allLabels.map(function(l){ return bdryMap[l] != null ? bdryMap[l] : null; }),
+          borderColor: '#00bfff', backgroundColor: 'rgba(0,191,255,0.07)',
+          borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true,
+        },
+        {
+          label: 'BWET Z-Score',
+          data: allLabels.map(function(l){ return bwetMap[l] != null ? bwetMap[l] : null; }),
+          borderColor: '#ff6b6b', backgroundColor: 'rgba(255,107,107,0.07)',
+          borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true,
+        },
+        { label: '+2σ', data: allLabels.map(function(){ return 2; }),  borderColor: 'rgba(248,81,73,0.5)',  borderWidth: 1, pointRadius: 0, fill: false, borderDash: [5,4], tension: 0 },
+        { label: '−2σ', data: allLabels.map(function(){ return -2; }), borderColor: 'rgba(63,185,80,0.5)',  borderWidth: 1, pointRadius: 0, fill: false, borderDash: [5,4], tension: 0 },
+        { label: 'Zero', data: allLabels.map(function(){ return 0; }),  borderColor: 'rgba(139,148,158,0.3)', borderWidth: 1, pointRadius: 0, fill: false, borderDash: [3,3], tension: 0 },
+      ],
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
+        tooltip: { callbacks: {
+          label: function(c){ return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) : '—'); }
+        }},
+      },
+      scales: {
+        x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function(_,i){ return allLabels[i] ? allLabels[i].slice(0,7) : ''; } } },
+        y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function(v){ return v.toFixed(1) + 'σ'; } } },
+      },
+    },
+  });
+}
+
 async function renderETFTab() {
   const grid = document.getElementById('etfGrid');
   if (grid.dataset.rendered) return;
@@ -3001,6 +3243,9 @@ async function renderETFTab() {
 
   // Load BDRY liquidity tracker (async, non-blocking)
   renderBdryLiquidityTracker();
+
+  // P/D history chart
+  try { renderPDHistoryChart(); } catch(e) { console.error('[ETFTab P/D]', e); }
 }
 
 function classifyHolding(name, ticker, etf) {
@@ -4173,6 +4418,7 @@ function renderSignalsTab(productKey) {
     function(){ renderROCHeatmap(); },
     function(){ renderSeasonalChart(productKey); },
     function(){ renderTermStructure(); },
+    function(){ renderPDZscoreChart(); },
   ];
   fns.forEach(function(fn){
     try { fn(); } catch(e) { console.error('[SignalsTab]', e); }
@@ -4372,7 +4618,7 @@ function renderROCHeatmap() {
   ];
 
   // For each product, get latest value and value N days ago
-  var prodLabels = { bdiy:'BDI', cape:'Capesize', panama:'Panamax', suprama:'Supramax', cleantanker:'Clean Tanker', dirtytanker:'Dirty Tanker', bdry_spot:'BDRY Spot' };
+  var prodLabels = { bdiy:'BDI', cape:'Capesize', panama:'Panamax', suprama:'Supramax', cleantanker:'Clean Tanker', dirtytanker:'Dirty Tanker', bdry_spot:'BDRY Spot', bdryff:'BDRYFF', bwetff:'BWETFF' };
 
   var html = '<table class="heatmap-table" style="min-width:520px;width:100%"><thead><tr>';
   html += '<th style="text-align:left">Product</th>';
