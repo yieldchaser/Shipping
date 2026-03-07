@@ -4713,62 +4713,59 @@ function renderSeasonalChart(productKey) {
 
   // Use per-product byYear — only days this product actually traded, no calendar pollution from others
   var prodByYear = (DATA.byYearProduct && DATA.byYearProduct[productKey]) || DATA.byYear;
-  var tdKey = productKey + '_td';
 
-  var maxTD = 0;
-  var years = Object.keys(prodByYear).map(Number);
-  years.forEach(function(y){ if ((prodByYear[y]||[]).length > maxTD) maxTD = (prodByYear[y]||[]).length; });
-
-  // For each per-product trading day slot, collect all historical values (excluding current year)
   var currentYear = new Date().getFullYear();
-  var byTD = {};
+  var years = Object.keys(prodByYear).map(Number);
+
+  // ── Clean date-based approach ──────────────────────────────────────────
+  // Instead of trading-day counters, each row is placed by its fractional
+  // position in its own calendar year:  slot = floor( dayOfYear/daysInYear * SLOTS )
+  // This means month boundaries always land at exactly the same proportional
+  // positions regardless of how many trading days a product has in a given year.
+  var SLOTS = 260;
+
+  function dayOfYear(d) {
+    return Math.floor((d - new Date(d.getFullYear(), 0, 0)) / 86400000);
+  }
+  function daysInYear(y) {
+    return ((y % 4 === 0 && y % 100 !== 0) || y % 400 === 0) ? 366 : 365;
+  }
+  function dateToSlot(d) {
+    return Math.min(SLOTS - 1, Math.floor((dayOfYear(d) / daysInYear(d.getFullYear())) * SLOTS));
+  }
+
+  // Collect historical values by slot (exclude current year from baseline)
+  var bySlot = {};
   years.forEach(function(y) {
     if (y === currentYear) return;
-    (prodByYear[y]||[]).forEach(function(r) {
-      var td = r[tdKey] != null ? r[tdKey] : r.tradingDay;
-      if (r[productKey] == null) return;
-      if (!byTD[td]) byTD[td] = [];
-      byTD[td].push(r[productKey]);
+    (prodByYear[y] || []).forEach(function(r) {
+      if (r[productKey] == null || !r.date) return;
+      var slot = dateToSlot(r.date);
+      if (!bySlot[slot]) bySlot[slot] = [];
+      bySlot[slot].push(r[productKey]);
     });
+  });
+
+  // Current year values by slot
+  var curYearBySlot = {};
+  (prodByYear[currentYear] || []).forEach(function(r) {
+    if (r[productKey] == null || !r.date) return;
+    curYearBySlot[dateToSlot(r.date)] = r[productKey];
+  });
+
+  // Month labels placed at exact proportional slots (1st of each month / 365)
+  var MONTH_NAMES_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  var monthStartDoys = [1,32,60,91,121,152,182,213,244,274,305,335]; // Jan1=1, Feb1=32 ...
+  var monthSlots = monthStartDoys.map(function(doy){
+    return Math.floor((doy / 365) * SLOTS);
   });
 
   var labels = [], avgLine = [], upperBand = [], lowerBand = [], currentYearLine = [];
-  var curYearRows = (prodByYear[currentYear] || []);
-  var curYearByTD = {};
-  curYearRows.forEach(function(r){
-    var td = r[tdKey] != null ? r[tdKey] : r.tradingDay;
-    curYearByTD[td] = r[productKey];
-  });
+  for (var s = 0; s < SLOTS; s++) {
+    var mi = monthSlots.indexOf(s);
+    labels.push(mi >= 0 ? MONTH_NAMES_SHORT[mi] : '');
 
-  // Build td→month from per-product actual dates
-  var tdToMonth = {};
-  var refYears = years.filter(function(y){ return y < currentYear && (prodByYear[y]||[]).length > 100; });
-  refYears.forEach(function(y){
-    (prodByYear[y]||[]).forEach(function(r){
-      var td = r[tdKey] != null ? r[tdKey] : r.tradingDay;
-      if (tdToMonth[td] === undefined) tdToMonth[td] = r.date.getMonth();
-    });
-  });
-  if (curYearRows.length > 20) curYearRows.forEach(function(r){
-    var td = r[tdKey] != null ? r[tdKey] : r.tradingDay;
-    tdToMonth[td] = r.date.getMonth();
-  });
-
-  // First trading day of each month
-  var monthFirstTD = {};
-  Object.keys(tdToMonth).forEach(function(td){
-    var m = tdToMonth[td], t = parseInt(td);
-    if (monthFirstTD[m] === undefined || t < monthFirstTD[m]) monthFirstTD[m] = t;
-  });
-  var MONTH_NAMES_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-
-  for (var td = 1; td <= maxTD; td++) {
-    var label = '';
-    for (var mi = 0; mi < 12; mi++) {
-      if (monthFirstTD[mi] === td) { label = MONTH_NAMES_SHORT[mi]; break; }
-    }
-    labels.push(label);
-    var vals = byTD[td] || [];
+    var vals = bySlot[s] || [];
     if (vals.length < 2) {
       avgLine.push(null); upperBand.push(null); lowerBand.push(null);
     } else {
@@ -4778,7 +4775,7 @@ function renderSeasonalChart(productKey) {
       upperBand.push(m + sd);
       lowerBand.push(m - sd);
     }
-    currentYearLine.push(curYearByTD[td] != null ? curYearByTD[td] : null);
+    currentYearLine.push(curYearBySlot[s] != null ? curYearBySlot[s] : null);
   }
 
   destroyChart('seasonalChart');
