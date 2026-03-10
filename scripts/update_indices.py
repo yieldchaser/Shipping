@@ -153,8 +153,11 @@ def update_solactive_csv(filename, latest_row):
     latest_date = latest_row['date'].iloc[0]
 
     if os.path.exists(filename):
-        existing = pd.read_csv(filename, parse_dates=['date'])
-        existing['date'] = pd.to_datetime(existing['date']).dt.normalize()
+        existing = pd.read_csv(filename)
+        try:
+            existing['date'] = pd.to_datetime(existing['date'], format='%d-%m-%Y').dt.normalize()
+        except ValueError:
+            existing['date'] = pd.to_datetime(existing['date']).dt.normalize()
 
         if latest_date in existing['date'].values:
             print(f"{filename}: {latest_date.date()} already present, nothing to append")
@@ -165,6 +168,7 @@ def update_solactive_csv(filename, latest_row):
         combined = latest_row.copy()
 
     combined = combined.sort_values('date')
+    combined['date'] = combined['date'].dt.strftime('%d-%m-%Y')
     combined.to_csv(filename, index=False)
     print(f"{filename}: Appended {latest_date.date()} → value {latest_row['value'].iloc[0]}")
 
