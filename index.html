@@ -2623,16 +2623,18 @@
     // =====================================================================
     // CHART DEFAULTS (CHANGE 9)
     // =====================================================================
-    Chart.defaults.color = '#8b949e';
-    Chart.defaults.borderColor = '#151a22';
-    Chart.defaults.plugins.legend.labels.boxWidth = 12;
-    Chart.defaults.plugins.legend.labels.padding = 10;
-    Chart.defaults.plugins.tooltip.backgroundColor = '#0f1318';
-    Chart.defaults.plugins.tooltip.borderColor = '#1e2530';
-    Chart.defaults.plugins.tooltip.borderWidth = 1;
-    Chart.defaults.plugins.tooltip.titleColor = '#e6edf3';
-    Chart.defaults.plugins.tooltip.bodyColor = '#8b949e';
-    Chart.defaults.plugins.tooltip.padding = 10;
+    document.addEventListener('DOMContentLoaded', function () {
+      Chart.defaults.color = '#8b949e';
+      Chart.defaults.borderColor = '#151a22';
+      Chart.defaults.plugins.legend.labels.boxWidth = 12;
+      Chart.defaults.plugins.legend.labels.padding = 10;
+      Chart.defaults.plugins.tooltip.backgroundColor = '#0f1318';
+      Chart.defaults.plugins.tooltip.borderColor = '#1e2530';
+      Chart.defaults.plugins.tooltip.borderWidth = 1;
+      Chart.defaults.plugins.tooltip.titleColor = '#e6edf3';
+      Chart.defaults.plugins.tooltip.bodyColor = '#8b949e';
+      Chart.defaults.plugins.tooltip.padding = 10;
+    });
 
     const chartRegistry = {};
     function destroyChart(id) {
@@ -4724,7 +4726,7 @@
     // =====================================================================
     // BOOTSTRAP
     // =====================================================================
-    (async function init() {
+    document.addEventListener('DOMContentLoaded', async function init() {
       try {
         await loadAllData();
         renderDashboard(currentProduct);
@@ -4734,7 +4736,7 @@
           `<div class="error-msg">❌ Failed to load data: ${err.message}. Make sure CSV files are accessible.</div>`;
         console.error(err);
       }
-    })();
+    });
 
     // =====================================================================
     // YEARLY DASHBOARD TAB
