@@ -4294,6 +4294,7 @@
           u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
           u => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
           u => `https://thingproxy.freeboard.io/fetch/${u}`,
+          u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
         ];
         let meta = null;
         for (const makeProxy of proxyFns) {
@@ -6098,6 +6099,7 @@
           function (u) { return 'https://corsproxy.io/?' + encodeURIComponent(u); },
           function (u) { return 'https://api.allorigins.win/get?url=' + encodeURIComponent(u); },
           function (u) { return 'https://thingproxy.freeboard.io/fetch/' + u; },
+          function (u) { return 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(u); },
         ];
         var data = null;
         for (var pi = 0; pi < proxyFns.length; pi++) {
@@ -6491,6 +6493,7 @@
           function (u) { return 'https://corsproxy.io/?' + encodeURIComponent(u); },
           function (u) { return 'https://api.allorigins.win/get?url=' + encodeURIComponent(u); },
           function (u) { return 'https://thingproxy.freeboard.io/fetch/' + u; },
+          function (u) { return 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(u); },
         ];
         var data = null;
         for (var pi = 0; pi < proxyFns.length; pi++) {
