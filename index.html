@@ -4291,6 +4291,21 @@
         dlBtn.addEventListener('click', () => downloadETFHoldings(ticker, etfKey, holdings));
       }
 
+      // Helper: fall back to last known close from pre-loaded liquidity CSV
+      function liqFallbackHTML(etfKey) {
+        const liqRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
+        if (liqRows && liqRows.length) {
+          const last = liqRows[liqRows.length - 1];
+          const price = parseFloat(last.close);
+          const dateStr = last.date || '';
+          if (!isNaN(price)) {
+            return `<span class="etf-price" title="Last known close (${dateStr}) — live feed unavailable">$${price.toFixed(2)}</span>`
+              + `<span style="color:var(--text-muted);font-size:11px;margin-left:6px;" title="Sourced from local CSV, not live">as of ${dateStr}</span>`;
+          }
+        }
+        return '<span style="color:var(--text-muted);font-size:13px">Price unavailable</span>';
+      }
+
       try {
         const yahooUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1d&range=1d`;
         // Try multiple CORS proxies in sequence for reliability
@@ -4326,7 +4341,7 @@
         <span class="etf-price">${price != null ? '$' + price.toFixed(2) : '—'}</span>
         <span class="etf-change ${chgCls}">${chgPct != null ? sign + chgPct.toFixed(2) + '%' : ''}</span>`;
         } else {
-          priceHTML = '<span style="color:var(--text-muted);font-size:13px">Price unavailable</span>';
+          priceHTML = liqFallbackHTML(etfKey);
         }
         if (meta) {
           const navEl = card.querySelector(`#etfNav_${etfKey}`);
@@ -4336,7 +4351,7 @@
           }
         }
       } catch (e) {
-        priceHTML = '<span style="color:var(--text-muted);font-size:13px">Price unavailable</span>';
+        priceHTML = liqFallbackHTML(etfKey);
       }
 
       const priceEl = card.querySelector('.etf-price-row');
