@@ -2752,6 +2752,7 @@
 
       await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, bdryLiqPromise, bwetLiqPromise, ...sgxPromises]);
 
+      await new Promise(resolve => setTimeout(resolve, 0));
       buildMaster();
 
       DATA.loaded = true;
