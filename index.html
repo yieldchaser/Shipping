@@ -6094,30 +6094,14 @@
       var allRows = [];
 
       try {
-        var yahooUrl = 'https://query1.finance.yahoo.com/v8/finance/chart/BDRY?interval=1d&range=10y';
-        var proxyFns = [
-          function (u) { return 'https://corsproxy.io/?' + encodeURIComponent(u); },
-          function (u) { return 'https://api.allorigins.win/get?url=' + encodeURIComponent(u); },
-          function (u) { return 'https://thingproxy.freeboard.io/fetch/' + u; },
-          function (u) { return 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(u); },
-        ];
-        var data = null;
-        for (var pi = 0; pi < proxyFns.length; pi++) {
-          try {
-            var proxyUrl = proxyFns[pi](yahooUrl);
-            var resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(15000) });
-            if (!resp.ok) continue;
-            var text = await resp.text();
-            var parsed;
-            try {
-              var wrapper = JSON.parse(text);
-              parsed = (wrapper.contents && wrapper.contents[0] !== '<') ? JSON.parse(wrapper.contents) : wrapper;
-            } catch (pe) { continue; }
-            if (parsed && parsed.chart && parsed.chart.result && parsed.chart.result.length) { data = parsed; break; }
-          } catch (fe) { continue; }
-        }
-        if (!data) throw new Error('All proxies failed — try again later');
-        allRows = parseYahooRows(data);
+        var rawRows = await fetchCSV('bdry_liquidity.csv');
+        allRows = rawRows
+          .filter(function(r) { return r.date && r.close && r.volume; })
+          .map(function(r) {
+            var d = new Date(r.date);
+            return { ts: d.getTime()/1000, date: d, dateStr: r.date, close: parseFloat(r.close), volume: parseInt(r.volume, 10) };
+          })
+          .filter(function(r) { return !isNaN(r.close) && !isNaN(r.volume); });
 
         if (!allRows.length) throw new Error('No data returned');
 
@@ -6488,30 +6472,14 @@
       var allRows = [];
 
       try {
-        var yahooUrl = 'https://query1.finance.yahoo.com/v8/finance/chart/BWET?interval=1d&range=10y';
-        var proxyFns = [
-          function (u) { return 'https://corsproxy.io/?' + encodeURIComponent(u); },
-          function (u) { return 'https://api.allorigins.win/get?url=' + encodeURIComponent(u); },
-          function (u) { return 'https://thingproxy.freeboard.io/fetch/' + u; },
-          function (u) { return 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(u); },
-        ];
-        var data = null;
-        for (var pi = 0; pi < proxyFns.length; pi++) {
-          try {
-            var proxyUrl = proxyFns[pi](yahooUrl);
-            var resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(15000) });
-            if (!resp.ok) continue;
-            var text = await resp.text();
-            var parsed;
-            try {
-              var wrapper = JSON.parse(text);
-              parsed = (wrapper.contents && wrapper.contents[0] !== '<') ? JSON.parse(wrapper.contents) : wrapper;
-            } catch (pe) { continue; }
-            if (parsed && parsed.chart && parsed.chart.result && parsed.chart.result.length) { data = parsed; break; }
-          } catch (fe) { continue; }
-        }
-        if (!data) throw new Error('All proxies failed — try again later');
-        allRows = parseYahooRows(data);
+        var rawRows = await fetchCSV('bwet_liquidity.csv');
+        allRows = rawRows
+          .filter(function(r) { return r.date && r.close && r.volume; })
+          .map(function(r) {
+            var d = new Date(r.date);
+            return { ts: d.getTime()/1000, date: d, dateStr: r.date, close: parseFloat(r.close), volume: parseInt(r.volume, 10) };
+          })
+          .filter(function(r) { return !isNaN(r.close) && !isNaN(r.volume); });
 
         if (!allRows.length) throw new Error('No data returned');
 
