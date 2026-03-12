@@ -6095,16 +6095,21 @@
       if (!loadingEl) return;
 
       var allRows = [];
+      var rawRows = DATA.bdryLiquidity;
+      if (!rawRows || !rawRows.length) throw new Error('No liquidity data loaded');
+      for (var i = 0; i < rawRows.length; i++) {
+        var r = rawRows[i];
+        if (!r.date || !r.close || !r.volume) continue;
+        var d = new Date(r.date + 'T00:00:00');
+        if (isNaN(d.getTime())) continue;
+        var closeVal = parseFloat(r.close);
+        var volVal = parseInt(r.volume, 10);
+        if (isNaN(closeVal) || isNaN(volVal) || volVal <= 0) continue;
+        allRows.push({ ts: d.getTime() / 1000, date: d, dateStr: r.date, close: closeVal, volume: volVal });
+      }
+      if (!allRows.length) throw new Error('No valid rows after parsing');
 
       try {
-        var rawRows = DATA.bdryLiquidity;
-        allRows = rawRows
-          .filter(function(r) { return r.date && r.close && r.volume; })
-          .map(function(r) {
-            var d = new Date(r.date);
-            return { ts: d.getTime()/1000, date: d, dateStr: r.date, close: parseFloat(r.close), volume: parseInt(r.volume, 10) };
-          })
-          .filter(function(r) { return !isNaN(r.close) && !isNaN(r.volume); });
 
         if (!allRows.length) throw new Error('No data returned');
 
@@ -6473,16 +6478,21 @@
       if (!loadingEl) return;
 
       var allRows = [];
+      var rawRows = DATA.bwetLiquidity;
+      if (!rawRows || !rawRows.length) throw new Error('No liquidity data loaded');
+      for (var i = 0; i < rawRows.length; i++) {
+        var r = rawRows[i];
+        if (!r.date || !r.close || !r.volume) continue;
+        var d = new Date(r.date + 'T00:00:00');
+        if (isNaN(d.getTime())) continue;
+        var closeVal = parseFloat(r.close);
+        var volVal = parseInt(r.volume, 10);
+        if (isNaN(closeVal) || isNaN(volVal) || volVal <= 0) continue;
+        allRows.push({ ts: d.getTime() / 1000, date: d, dateStr: r.date, close: closeVal, volume: volVal });
+      }
+      if (!allRows.length) throw new Error('No valid rows after parsing');
 
       try {
-        var rawRows = DATA.bwetLiquidity;
-        allRows = rawRows
-          .filter(function(r) { return r.date && r.close && r.volume; })
-          .map(function(r) {
-            var d = new Date(r.date);
-            return { ts: d.getTime()/1000, date: d, dateStr: r.date, close: parseFloat(r.close), volume: parseInt(r.volume, 10) };
-          })
-          .filter(function(r) { return !isNaN(r.close) && !isNaN(r.volume); });
 
         if (!allRows.length) throw new Error('No data returned');
 
