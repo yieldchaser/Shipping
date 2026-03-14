@@ -571,6 +571,7 @@
       border: 1px solid var(--border);
       font-size: 11px;
       min-width: 64px;
+      white-space: nowrap;
     }
 
     .corr-table td {
@@ -3811,8 +3812,9 @@
       html += '</tr></thead><tbody>';
       for (let i = 0; i < etfKeys.length; i++) {
         html += `<tr><th style="text-align:left;background:var(--bg);color:var(--text-muted);font-size:11px;padding:8px 10px">${etfLabels[i]}</th>`;
-        for (let j = 0; j < PRODUCT_KEYS.length; j++) {
-          const r = getCorrCached(etfKeys[i], PRODUCT_KEYS[j], tf);
+        const corrKeys = PRODUCT_KEYS.slice(0, CORR_LABELS.length);
+        for (let j = 0; j < corrKeys.length; j++) {
+          const r = getCorrCached(etfKeys[i], corrKeys[j], tf);
           const bg = corrColor(r);
           const textCol = r != null && Math.abs(r) > 0.4 ? '#fff' : '#e6edf3';
           html += `<td style="background:${bg};color:${textCol}">${r != null ? r.toFixed(2) : '—'}</td>`;
@@ -5203,6 +5205,9 @@
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tabId));
       document.querySelectorAll('.tab-panel').forEach(p => p.classList.toggle('active', p.id === `tab-${tabId}`));
       currentTab = tabId;
+      // Hide alert bar on non-dashboard tabs
+      const alertsEl = document.getElementById('alertsContainer');
+      if (alertsEl) alertsEl.style.display = tabId === 'dashboard' ? '' : 'none';
 
       if (!DATA.loaded) return;
 
