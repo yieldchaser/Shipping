@@ -4794,7 +4794,11 @@
     function renderETFHVChart() {
       var SQRT252 = Math.sqrt(252);
       var ETF_KEYS = ['bdry', 'bwet'];
-      var ETF_COLORS = { bdry: '#00bfff', bwet: '#ff6b6b' };
+      // Three distinct shades per ETF family — light / mid / dark
+      var ETF_COLORS = {
+        bdry: { 20: '#7dd3fc', 60: '#00bfff', 252: '#0369a1' },  // light sky → cyan → deep ocean
+        bwet: { 20: '#fca5a5', 60: '#ff6b6b', 252: '#b91c1c' },  // light coral → medium red → deep red
+      };
       var ETF_LABELS = { bdry: 'BDRY', bwet: 'BWET' };
       var HV_WINDOWS = [20, 60, 252];
 
@@ -4881,8 +4885,8 @@
           datasets.push({
             label: dsLabel,
             data: hvSeries,
-            borderColor: ETF_COLORS[k],
-            backgroundColor: win === 252 ? ETF_COLORS[k] + '12' : 'transparent',
+            borderColor: ETF_COLORS[k][win],
+            backgroundColor: win === 252 ? ETF_COLORS[k][win] + '22' : 'transparent',
             borderWidth: style.width,
             borderDash: style.dash,
             pointRadius: 0,
@@ -4940,7 +4944,7 @@
             else                { regimeLabel = '🔵 LOW';       regimeColor = '#58a6ff'; }
           }
           kpiHtml += [
-            { label: ETF_LABELS[k] + ' 1Y HV', val: cur1y != null ? cur1y.toFixed(1) + '%' : '—', color: ETF_COLORS[k] },
+            { label: ETF_LABELS[k] + ' 1Y HV', val: cur1y != null ? cur1y.toFixed(1) + '%' : '—', color: ETF_COLORS[k][252] },
             { label: ETF_LABELS[k] + ' Regime', val: regimeLabel, color: regimeColor },
           ].map(function (item) {
             return '<div style="background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:8px 14px;min-width:110px;">' +
