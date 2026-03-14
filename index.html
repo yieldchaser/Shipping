@@ -2849,6 +2849,20 @@
         DATA.byYearProduct['bdry_spot'][year].forEach((row, i) => { row['bdry_spot_td'] = i + 1; });
       }
 
+      // Populate DATA.raw for computed products to support Indices tab
+      for (const key in PRODUCTS) {
+        if (PRODUCTS[key].computed) {
+          DATA.raw[key] = DATA.master
+            .filter(r => r[key] != null)
+            .map(r => ({
+              date: r.date,
+              value: r[key],
+              change: r[key + '_change']
+            }));
+        }
+      }
+
+
       for (const row of DATA.master) {
         DATA.masterByDate[row.ts] = row;
       }
@@ -3855,7 +3869,7 @@
 
       PRODUCT_KEYS.forEach(key => {
         const prod = PRODUCTS[key];
-        if (PRODUCTS[key].computed) return; // composite — no raw rows, skip card
+        // Skip products with no data rows
         const rows = DATA.raw[key];
         if (!rows || !rows.length) return;
 
