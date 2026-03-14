@@ -7788,9 +7788,7 @@
       if (!bdrySpotRows.length || !bdryffRows.length) return;
 
       const spotMap = new Map();
-      const ffMap = new Map();
       bdrySpotRows.forEach(r => spotMap.set(r.date.getTime(), r.bdry_spot));
-      bdryffRows.forEach(r => ffMap.set(r.date.getTime(), r.bdryff));
 
       const basisSeries = [];
       bdryffRows.forEach(r => {
@@ -7802,12 +7800,12 @@
 
       if (!basisSeries.length) return;
 
-      let cutoff = new Date();
-      if (_basisWindow === '3m') cutoff.setMonth(cutoff.getMonth() - 3);
-      else if (_basisWindow === '1y') cutoff.setFullYear(cutoff.getFullYear() - 1);
-      else cutoff = new Date(0);
+      const startEl = document.getElementById('basisRangeStart');
+      const endEl = document.getElementById('basisRangeEnd');
+      const s = startEl ? parseInt(startEl.value) : 0;
+      const e = endEl ? parseInt(endEl.value) : basisSeries.length - 1;
 
-      const filtered = basisSeries.filter(r => r.date >= cutoff);
+      const filtered = basisSeries.slice(s, e + 1);
       const labels = filtered.map(r => r.date.toISOString().split('T')[0]);
       const data = filtered.map(r => r.value);
 
