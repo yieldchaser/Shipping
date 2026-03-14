@@ -2557,12 +2557,25 @@
         <div class="signals-controls">
           <label for="leadLagPair" class="context-label" style="margin-bottom:0">Pairs:</label>
           <select id="leadLagPair" class="signals-select" onchange="renderLeadLagChart()">
-            <option value="cape:bdiy">BCI vs BDI</option>
-            <option value="panama:bdiy">BPI vs BDI</option>
-            <option value="suprama:bdiy">BSI vs BDI</option>
-            <option value="dirtytanker:cleantanker">BDTI vs BCTI</option>
-            <option value="bdiy:bdryff">BDI vs BDRYFF</option>
-            <option value="bdry_spot:bdryff">BDRY Spot vs BDRYFF</option>
+            <optgroup label="Financial Speed (ETF Leads)">
+              <option value="bdry:bdiy">BDRY vs BDI (Bulk Sentiment)</option>
+              <option value="bwet:cleantanker">BWET vs BCTI (Clean Tanker)</option>
+              <option value="bwet:dirtytanker">BWET vs BDTI (Dirty Tanker)</option>
+              <option value="bdry:bdryff">BDRY vs BDRYFF (ETF vs Futures)</option>
+              <option value="bwet:bwetff">BWET vs BWETFF (ETF vs Futures)</option>
+            </optgroup>
+            <optgroup label="Vessel Rotation (Ripple Effects)">
+              <option value="cape:panama">BCI vs BPI (Cape vs Panamax)</option>
+              <option value="cape:suprama">BCI vs BSI (Cape vs Supramax)</option>
+            </optgroup>
+            <optgroup label="Basis & Indices">
+              <option value="bdiy:bdryff">BDI vs BDRYFF</option>
+              <option value="bdry_spot:bdryff">BDRY Spot vs BDRYFF</option>
+              <option value="cape:bdiy">BCI vs BDI</option>
+              <option value="panama:bdiy">BPI vs BDI</option>
+              <option value="suprama:bdiy">BSI vs BDI</option>
+              <option value="dirtytanker:cleantanker">BDTI vs BCTI</option>
+            </optgroup>
           </select>
         </div>
         <div class="chart-canvas-wrap" style="height:320px"><canvas id="leadLagChart"></canvas></div>
@@ -2657,6 +2670,8 @@
       cleantanker: { label: 'Clean Tanker (BCTI)', file: 'cleantanker_historical.csv', color: '#a371f7' },
       bdryff: { label: 'BDRY Freight Futures (BDRYFF)', file: 'bdryff_history.csv', color: '#00bfff', solactive: true },
       bwetff: { label: 'BWET Freight Futures (BWETFF)', file: 'bwetff_history.csv', color: '#ff6b6b', solactive: true },
+      bdry: { label: 'BDRY Stock Price', file: null, color: '#f0c040', computed: true },
+      bwet: { label: 'BWET Stock Price', file: null, color: '#ff6b6b', computed: true },
     };
 
     // BDRY Spot weights (Solactive index methodology)
@@ -3142,8 +3157,8 @@
           row.bdry_spot_change = null;
         }
 
-        row.bdry_price = bdryPriceMap[ts] || null;
-        row.bwet_price = bwetPriceMap[ts] || null;
+        row.bdry = bdryPriceMap[ts] || null;
+        row.bwet = bwetPriceMap[ts] || null;
 
         return row;
       });
