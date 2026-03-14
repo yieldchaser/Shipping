@@ -5629,6 +5629,7 @@
         data: { labels: dispLabels, datasets: datasets },
         options: {
           responsive: true, maintainAspectRatio: false,
+          layout: { padding: { left: 10, top: 10 } },
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
@@ -5648,7 +5649,7 @@
             y: {
               grid: { color: '#151a22' },
               ticks: { font: { size: 11 }, callback: function (v) { return v.toFixed(1); } },
-              title: { display: true, text: 'Z-Score', color: '#8b949e', font: { size: 11 } }
+              title: { display: true, text: 'Z-Score', color: '#8b949e', font: { size: 11 }, padding: { right: 10 } }
             },
           },
         },
@@ -5671,7 +5672,9 @@
       chartRegistry[canvasId] = new Chart(canvas.getContext('2d'), {
         type: 'line', data: { labels: years.map(String), datasets: datasets },
         options: {
-          responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false },
+          responsive: true, maintainAspectRatio: false,
+          layout: { padding: { left: 10, top: 10 } },
+          interaction: { mode: 'index', intersect: false },
           plugins: { legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y); } } } },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { font: { size: 11 } }, title: { display: true, text: 'Year', color: '#8b949e', font: { size: 11 } } },
@@ -5717,7 +5720,9 @@
       chartRegistry[canvasId] = new Chart(canvas.getContext('2d'), {
         type: 'line', data: { labels: labels, datasets: datasets },
         options: {
-          responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false },
+          responsive: true, maintainAspectRatio: false,
+          layout: { padding: { left: 10, top: 10 } },
+          interaction: { mode: 'index', intersect: false },
           plugins: {
             decimation: { enabled: true, algorithm: 'lttb', samples: 120 },
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 9 }, boxWidth: 10, padding: 6 } },
