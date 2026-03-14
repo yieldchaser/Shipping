@@ -2796,15 +2796,31 @@
       const labelEl = document.getElementById(idPrefix + 'Label');
       if (!startEl || !endEl || !allRows.length) return;
 
+      // Capture current dates to preserve window across product/data changes
+      let targetS = null, targetE = null;
+      if (startEl._allRows && startEl._allRows.length) {
+        const curS = parseInt(startEl.value), curE = parseInt(endEl.value);
+        if (startEl._allRows[curS]) targetS = startEl._allRows[curS].date.getTime();
+        if (startEl._allRows[curE]) targetE = startEl._allRows[curE].date.getTime();
+      }
+
       const total = allRows.length;
       const maxIdx = total - 1;
       startEl.max = maxIdx;
       endEl.max = maxIdx;
 
-      if (startEl.value == 0 && (endEl.value == 100 || endEl.value == 0)) {
+      if (targetS != null && targetE != null) {
+        // Find closest matching indices in the new dataset
+        let s = 0, e = maxIdx;
+        for (let i = 0; i < allRows.length; i++) { if (allRows[i].date.getTime() >= targetS) { s = i; break; } }
+        for (let i = allRows.length - 1; i >= 0; i--) { if (allRows[i].date.getTime() <= targetE) { e = i; break; } }
+        startEl.value = s;
+        endEl.value = e;
+      } else if (startEl.value == 0 && (endEl.value == 100 || endEl.value == 0)) {
         startEl.value = 0;
         endEl.value = maxIdx;
       }
+      startEl._allRows = allRows;
 
       const onSlide = function () {
         let s = parseInt(startEl.value);
