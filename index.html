@@ -4364,7 +4364,30 @@
       grid.appendChild(card);
 
       let priceHTML = '<span style="color:var(--text-muted)">Fetching…</span>';
-      card.innerHTML = buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML);
+      const liqRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
+      let stats52w = { range: '—', pos: '—', posCls: '', trough: '—', troughCls: '' };
+      if (liqRows && liqRows.length) {
+        const prices = liqRows.map(r => parseFloat(r.close)).filter(v => !isNaN(v));
+        if (prices.length) {
+          const latestVal = prices[prices.length - 1];
+          const vals52w = prices.slice(-252);
+          const wHigh = Math.max(...vals52w);
+          const wLow = Math.min(...vals52w);
+          const pos = ((latestVal - wLow) / (wHigh - wLow) * 100);
+          const vals365 = prices.slice(-365);
+          const trough = Math.min(...vals365);
+          const troughPct = ((latestVal - trough) / trough * 100);
+          stats52w = {
+            range: `${fmt(wHigh, 2)} — ${fmt(wLow, 2)}`,
+            pos: pos.toFixed(1) + '%',
+            posCls: pos < 25 ? 'val-red' : (pos > 60 ? 'val-green' : 'val-yellow'),
+            trough: (troughPct >= 0 ? '+' : '') + troughPct.toFixed(1) + '%',
+            troughCls: troughPct >= 0 ? 'val-green' : 'val-red'
+          };
+        }
+      }
+
+      card.innerHTML = buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML, stats52w);
       buildETFDonut(etfKey, holdings);
 
       // Wire CSV download buttons (CHANGE 8)
@@ -4422,6 +4445,32 @@
           priceHTML = `
         <span class="etf-price">${price != null ? '$' + price.toFixed(2) : '—'}</span>
         <span class="etf-change ${chgCls}">${chgPct != null ? sign + chgPct.toFixed(2) + '%' : ''}</span>`;
+
+          // Update 52W stats with live price
+          if (liqRows && liqRows.length) {
+            const prices = liqRows.map(r => parseFloat(r.close)).filter(v => !isNaN(v));
+            const vals52w = prices.slice(-252);
+            const wHigh = Math.max(...vals52w, price);
+            const wLow = Math.min(...vals52w, price);
+            const pos = ((price - wLow) / (wHigh - wLow) * 100);
+            const vals365 = prices.slice(-365);
+            const trough = Math.min(...vals365, price);
+            const troughPct = ((price - trough) / trough * 100);
+
+            const rangeEl = card.querySelector(`#etfW52Range_${etfKey}`);
+            const posEl = card.querySelector(`#etfW52Pos_${etfKey}`);
+            const troughEl = card.querySelector(`#etfTrough_${etfKey}`);
+
+            if (rangeEl) rangeEl.textContent = `${fmt(wHigh, 2)} — ${fmt(wLow, 2)}`;
+            if (posEl) {
+              posEl.textContent = pos.toFixed(1) + '%';
+              posEl.className = 'etf-metric-value etf-w52-pos ' + (pos < 25 ? 'val-red' : (pos > 60 ? 'val-green' : 'val-yellow'));
+            }
+            if (troughEl) {
+              troughEl.textContent = (troughPct >= 0 ? '+' : '') + troughPct.toFixed(1) + '%';
+              troughEl.className = 'etf-metric-value etf-trough ' + (troughPct >= 0 ? 'val-green' : 'val-red');
+            }
+          }
         } else {
           priceHTML = liqFallbackHTML(etfKey);
         }
@@ -4461,7 +4510,7 @@
       downloadCSV(filename, headers, rows);
     }
 
-    function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML) {
+    function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML, stats52w) {
       const sorted = sortHoldings([...holdings], etfKey);
 
       let tableRows = '';
@@ -4546,6 +4595,20 @@
       <div class="etf-metric">
         <div class="etf-metric-label">Exposure Ratio</div>
         <div class="etf-metric-value" style="color:var(--yellow)">${leverageStr}</div>
+      </div>
+    </div>
+    <div class="etf-metrics" style="grid-template-columns: repeat(3,1fr);">
+      <div class="etf-metric">
+        <div class="etf-metric-label">52W High — Low</div>
+        <div class="etf-metric-value etf-w52-range" id="etfW52Range_${etfKey}">${stats52w.range}</div>
+      </div>
+      <div class="etf-metric">
+        <div class="etf-metric-label">52W Position</div>
+        <div class="etf-metric-value etf-w52-pos ${stats52w.posCls}" id="etfW52Pos_${etfKey}">${stats52w.pos}</div>
+      </div>
+      <div class="etf-metric">
+        <div class="etf-metric-label">From Last Trough</div>
+        <div class="etf-metric-value etf-trough ${stats52w.troughCls}" id="etfTrough_${etfKey}">${stats52w.trough}</div>
       </div>
     </div>
     ${etfKey === 'bdry' ? `
