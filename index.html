@@ -6076,19 +6076,8 @@
       if (document.getElementById('basisRangeStart')) initBasisRange();
       if (document.getElementById('bdiContribRangeStart')) initBDIContribRange();
 
-      // HV: set 3Y default on first load, then preserve user position on product switch
-      if (document.getElementById('hvRangeStart')) {
-        const hvStartEl = document.getElementById('hvRangeStart');
-        if (!hvStartEl._allRows) {
-          const hvRows = getRows(productKey);
-          const hvCutoff = new Date(); hvCutoff.setFullYear(hvCutoff.getFullYear() - 3);
-          let hvS = hvRows.findIndex(function (r) { return r.date >= hvCutoff; });
-          if (hvS < 0) hvS = 0;
-          hvStartEl.value = hvS;
-          document.getElementById('hvRangeEnd').value = hvRows.length - 1;
-        }
-        initHVRange(productKey);
-      }
+      // HV range — 3Y default is handled inside initHVRange on first load
+      if (document.getElementById('hvRangeStart')) initHVRange(productKey);
 
       var fns = [
         function () { renderHVChart(productKey); },
@@ -6141,10 +6130,24 @@
 
     function initHVRange(productKey) {
       const rows = getRows(productKey);
+      const startEl = document.getElementById('hvRangeStart');
+      const isFirstInit = startEl && !startEl._hvInited;
       initDualRangeSlider('hvRange', rows, function () {
         clearTimeout(renderHVChart._t);
         renderHVChart._t = setTimeout(function () { renderHVChart(productKey); }, 60);
       });
+      // Default to 3Y on first load — must happen AFTER initDualRangeSlider sets max,
+      // otherwise the browser clamps value to the old max="100" from the HTML.
+      if (isFirstInit && startEl && rows.length) {
+        const endEl = document.getElementById('hvRangeEnd');
+        const cutoff = new Date(); cutoff.setFullYear(cutoff.getFullYear() - 3);
+        let sIdx = rows.findIndex(function (r) { return r.date >= cutoff; });
+        if (sIdx < 0) sIdx = 0;
+        startEl.value = sIdx;
+        endEl.value = rows.length - 1;
+        startEl._hvInited = true;
+        startEl.dispatchEvent(new Event('input'));
+      }
     }
 
     function renderHVChart(productKey) {
