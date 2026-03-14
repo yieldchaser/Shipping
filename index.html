@@ -6385,6 +6385,16 @@
         { label: 'Possible Shares', val: latest.possShares.toLocaleString(), cls: 'val-green' },
         { label: 'Safe Liquidity', val: '$' + latest.safeLiq.toLocaleString(undefined, { maximumFractionDigits: 0 }), cls: 'val-green' },
         {
+          label: 'Total Safe Liquidity (1M)',
+          val: (function() {
+            var slice = allRows.slice(-21);
+            var sum = 0;
+            slice.forEach(function(r) { sum += r.safeLiq; });
+            return '$' + (sum / 1e6).toFixed(2) + 'M';
+          })(),
+          cls: 'val-green'
+        },
+        {
           label: 'Day Change', val: latest.chgPct != null ? (latest.chgPct >= 0 ? '+' : '') + latest.chgPct.toFixed(2) + '%' : '—',
           cls: latest.chgPct == null ? '' : latest.chgPct >= 0 ? 'val-green' : 'val-red'
         },
@@ -6747,6 +6757,16 @@
         { label: 'Tier', val: latest.tierLabel, cls: 'val-yellow' },
         { label: 'Possible Shares', val: latest.possShares.toLocaleString(), cls: 'val-green' },
         { label: 'Safe Liquidity', val: '$' + latest.safeLiq.toLocaleString(undefined, { maximumFractionDigits: 0 }), cls: 'val-green' },
+        {
+          label: 'Total Safe Liquidity (1M)',
+          val: (function() {
+            var slice = allRows.slice(-21);
+            var sum = 0;
+            slice.forEach(function(r) { sum += r.safeLiq; });
+            return '$' + (sum / 1e6).toFixed(2) + 'M';
+          })(),
+          cls: 'val-green'
+        },
         {
           label: 'Day Change', val: latest.chgPct != null ? (latest.chgPct >= 0 ? '+' : '') + latest.chgPct.toFixed(2) + '%' : '—',
           cls: latest.chgPct == null ? '' : latest.chgPct >= 0 ? 'val-green' : 'val-red'
