@@ -169,29 +169,29 @@ Main overview for the selected index.
 
 ---
 
-### 📆 Monthly
-
-- Monthly bar chart (last 12 months, MoM colour)
-- Monthly trend area chart (last 3 years)
-- Monthly area comparison (current vs prior year)
-- Monthly data grid — last 5 years × 12 months heatmap with 5Y avg and MoM % rows
+- **Monthly Win Rate KPI cards** — historical probability of each month being positive.
+- **Monthly Performance by Year (Spaghetti)** — Overlay of index value by trading day for all years.
+- **Monthly Bar Chart** (last 12 months, MoM colour).
+- **Monthly Area Comparison** — current vs prior year vs 5Y seasonal average.
+- **Monthly Data Grid** — last 8 years × 12 months heatmap. Absolute values use an **8-year relative color scale**.
 
 ---
 
 ### 📊 Quarterly
 
-- **Win Rate KPI cards** — historical probability each quarter beats the prior quarter
-- **Quarterly Heatmap** — all years × Q1–Q4, absolute or QoQ % switchable. Absolute values use an **8-year relative color scale** to avoid historical bias.
-- **Spaghetti Chart** — Q1/Q2/Q3/Q4 across all years as 4 coloured lines
-- **Area comparisons** — current vs prior year, current year vs 5Y seasonal average
+- **Win Rate KPI cards** — historical probability each quarter beats the prior quarter.
+- **Quarterly Heatmap** — all years × Q1–Q4, absolute or QoQ % switchable. Absolute values use an **8-year relative color scale**.
+- **Spaghetti Chart** — Q1/Q2/Q3/Q4 across all years as 4 coloured lines.
+- **Area comparisons** — current vs prior year vs 5Y seasonal average.
 - **Quarterly Data Grid** — last 8 years with full-year avg and YoY %. Heatmap cells use 8-year relative scaling for visual clarity.
 
 ---
 
 ### 🌡️ Heatmaps
 
-- **Monthly Heatmap** — year × month, absolute value or MoM % toggle.
-- **8-Year Relative Scaling** — Column-normalised using the last 8 years of data. This ensures Jan values compare cleanly across recent years without being washed out by deep historical extremes (e.g., 2008 highs).
+- **Monthly Heatmap** — Year × Month, absolute value or MoM % toggle.
+- **Quarterly Heatmap** — Year × Quarter, absolute value or QoQ % toggle.
+- **8-Year Relative Scaling** — Both heatmaps use an 8-year relative color scale for absolute values to ensure recent data remains visually distinct from deep historical extremes.
 
 ---
 
@@ -219,16 +219,16 @@ Each card contains:
 8. **Fundamentals / Data Sources** — sector-specific data links:
    - BDRY: China Steel & Bulk Demand + Export Flow Indicators (macromicro.me)
    - BWET: Crude & Product Demand (Trading Economics, EIA) + Key Trade Routes (TradingView: TD3C / TD20)
+#### BDRY & BWET Analytics
+
+- **Historical Volatility** — Annualized HV (Log-return StdDev × √252) with regime indicators (Low/Normal/Elevated/Spike).
+- **Cross-Asset Correlation (ETF vs Indices)** — Pearson correlation matrix comparing BDRY/BWET stock prices against all freight indices. Switchable Timeframe (All Time / 5Y / 1Y).
+
 9. **Market Outlook & Research Sources** — categorized market intelligence:
    - **Research & Insights**: Breakwave Advisors (Research & Insights), BIMCO
    - **Weekly Market Reports**: Fearnleys Weekly Pulse, Baltic Exchange Weekly Roundup
    - **Charter Rate Estimates**: Hellenic Shipping News (Weekly dry/tanker charter estimates)
    - **ETF Data**: Official Amplify and Solactive pages
-
-#### ETF Correlation Matrix
-
-- **Cross-Asset Correlation (ETF vs Indices)** — Pearson correlation matrix comparing BDRY/BWET stock prices against all freight indices.
-- **Timeframe Toggle** — Switchable between **All Time**, **5-Year**, and **1-Year** to monitor evolving asset relationships.
 
 #### BDRY & BWET Liquidity Tracker *(below the ETF cards)*
 
@@ -251,18 +251,21 @@ Position-sizing model applied to BDRY's full daily history (~1,994 days), fetche
 
 ### 🎯 Signals
 
-Five analytical charts:
+Comprehensive analytical suite for technical and fundamental signals:
 
 | Chart | Description |
 |---|---|
-| **Bollinger Bands (20D, 2σ)** | Price + upper/SMA/lower bands. Dual-handle date range slider. |
-| **Cape / Panamax Ratio** | Ratio time series + all-time mean + rolling 252D percentile. Window: 3Y / 5Y / All |
-| **Rate-of-Change Heatmap** | 7 products × 6 timeframes (5D / 10D / 20D / 60D / 90D / 1Y) divergent colour scale |
-| **Seasonal Decomposition** | Historical avg intra-year pattern ± 1σ with current year overlaid |
-| **FFA Term Structure** | Forward curves from live holdings CSVs. Slope labels: 📉 Backwardation / 📈 Contango / ➡️ Flat |
-| **Futures vs Spot Premium** | Basis tracking between front-month futures and spot index. Dual-handle range slider. |
-| **BDI Contribution** | Decomposition of BDI daily change by vessel class (Cape/Pana/Supra). Range slider. |
-| **Lead–Lag Correlation** | Log-return cross-correlation (-30 to +30 days) to detect leads. Categorized: **Financial Speed** (ETF vs Index/Futures), **Vessel Rotation** (Ripple Effects: Cape vs Pana/Supra), and **Basis & Indices** (Spot vs Futures). |
+| **Bollinger Bands (20D, 2σ)** | Price + upper/SMA/lower bands. |
+| **Historical Volatility** | Annualized volatility + regime classification based on all-time percentiles. |
+| **Cape / Panamax Ratio** | Ratio time series (Iron Ore vs Grain proxy) + rolling 252D percentile. |
+| **Rate-of-Change Heatmap** | 7 products × 6 timeframes (5D / 10D / 20D / 60D / 90D / 1Y) heatmap. |
+| **Seasonal Decomposition** | Historical avg intra-year pattern ± 1σ with current year overlaid. |
+| **ETF P/D Z-Score** | Market sentiment signal based on Premium/Discount to NAV Z-score. (+2 = Top, -2 = Bottom). |
+| **FFA Term Structure** | Forward curves from live BDRY/BWET holdings. |
+| **SGX FFA Forward Curve** | Official SGX settlement curve for Cape/Pana/Supra/Handy vs 1W/2W/1M/3M ago. |
+| **Futures vs Spot Premium** | Basis tracking between BDRYFF index and synthetic spot baskets. |
+| **BDI Contribution** | Decomposition of BDI daily change by vessel class (Cape/Pana/Supra). |
+| **Lead–Lag Correlation** | Cross-correlation of log returns (-30 to +30 days) to detect leads (Financial vs Ripple Effects vs Basis). |
 
 ---
 
