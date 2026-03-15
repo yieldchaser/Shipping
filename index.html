@@ -403,6 +403,43 @@
       font-weight: 600;
     }
 
+    /* ── Henry Avery ticker ── */
+    .ticker-wrap {
+      overflow: hidden;
+      white-space: nowrap;
+      background: linear-gradient(90deg, rgba(240,192,64,0.07) 0%, rgba(240,192,64,0.03) 50%, rgba(240,192,64,0.07) 100%);
+      border-bottom: 1px solid rgba(240,192,64,0.18);
+      padding: 7px 0;
+      cursor: default;
+      user-select: none;
+    }
+    .ticker-track {
+      display: inline-block;
+      animation: ticker-scroll 90s linear infinite;
+    }
+    .ticker-wrap:hover .ticker-track {
+      animation-play-state: paused;
+    }
+    @keyframes ticker-scroll {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    .ticker-item {
+      display: inline-block;
+      padding: 0 64px;
+      font-size: 12px;
+      color: rgba(240,192,64,0.75);
+      font-style: italic;
+      letter-spacing: 0.2px;
+    }
+    .ticker-item .ticker-attr {
+      font-style: normal;
+      font-size: 11px;
+      color: rgba(240,192,64,0.42);
+      margin-left: 6px;
+    }
+    .ticker-item .ticker-icon { font-style: normal; margin-right: 8px; }
+
     .year-checkboxes {
       display: flex;
       flex-wrap: wrap;
@@ -1837,25 +1874,30 @@
     <button class="tab-btn" data-tab="signals">🎯 Signals</button>
   </div>
 
-  <!-- HENRY AVERY QUOTE BANNER -->
-  <div style="
-  background: linear-gradient(90deg, rgba(240,192,64,0.07) 0%, rgba(240,192,64,0.03) 50%, rgba(240,192,64,0.07) 100%);
-  border-bottom: 1px solid rgba(240,192,64,0.18);
-  padding: 7px 20px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-size: 12px;
-  color: rgba(240,192,64,0.75);
-  font-style: italic;
-  letter-spacing: 0.2px;
-  user-select: none;
-">
-    <span style="font-size:15px;filter:grayscale(0.2);">🏴‍☠️</span>
-    <span>&ldquo;I am a Man of Fortune, and I must seek my Fortune.&rdquo;</span>
-    <span style="font-style:normal;font-size:11px;color:rgba(240,192,64,0.45);margin-left:4px;">— Henry Avery,
-      1694</span>
+  <!-- HENRY AVERY TICKER -->
+  <div class="ticker-wrap">
+    <div class="ticker-track" id="averyTicker"></div>
   </div>
+  <script>
+    (function () {
+      var quotes = [
+        { text: '\u201cI am a Man of Fortune, and I must seek my Fortune.\u201d', attr: '\u2014 Henry Avery, 1694' },
+        { text: '\u201cWe are men of fortune, and resolved to seek our fortunes.\u201d', attr: '\u2014 Henry Avery, letter to merchants, 1694' },
+        { text: 'Sic Parvis Magna \u2014 Great things from small beginnings.', attr: '\u2014 motto of the golden age of sail' },
+        { text: 'The Ganj-i-Sawai, 1695 \u2014 \xa3600,000 in gold & silver seized on the open Indian Ocean. The richest pirate raid in history.', attr: '' },
+        { text: 'Henry Avery: the only pirate of the golden age to retire undefeated, vanishing into legend with the greatest haul ever taken.', attr: '' },
+        { text: '\u201cI have been unlucky, but I have been brave.\u201d', attr: '\u2014 attributed to Henry Avery' },
+        { text: 'The Fancy, 46 guns \u2014 Avery\u2019s ship, named for nothing but the wind and fortune.', attr: '' },
+        { text: 'No man is worth more to the sea than what the sea is willing to give him.', attr: '\u2014 old mariner\u2019s proverb' },
+      ];
+      var icon = '\uD83C\uDFF4\u200D\u2620\uFE0F';
+      var html = quotes.map(function (q) {
+        return '<span class="ticker-item"><span class="ticker-icon">' + icon + '</span>' + q.text + (q.attr ? '<span class="ticker-attr">' + q.attr + '</span>' : '') + '</span>';
+      }).join('');
+      var el = document.getElementById('averyTicker');
+      el.innerHTML = html + html; // doubled for seamless loop
+    })();
+  </script>
 
   <div class="alerts-container" id="alertsContainer">
     <div id="alertBullish" class="alert-box alert-bullish">
