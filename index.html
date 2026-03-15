@@ -64,7 +64,10 @@
       z-index: 0;
       animation: ship-sail 55s linear infinite, ship-bob 2.8s ease-in-out infinite;
     }
-    .header > *:not(#pirateShip) { position: relative; z-index: 1; }
+    /* Ship behind all header text — explicit per-element is more reliable than :not() */
+    .header h1,
+    .header .product-selector,
+    .header .updated-at { position: relative; z-index: 2; }
     @keyframes ship-sail {
       0%   { left: 100vw; }
       100% { left: -210px; }
@@ -1667,6 +1670,9 @@
       .main {
         padding: 12px;
       }
+
+      /* ── Ship: hide on mobile — decorative only, causes z-index/overflow issues on wrapped header ── */
+      #pirateShip { display: none; }
 
       /* ── Header: stack product selector below title on very small screens ── */
       .header {
