@@ -1907,16 +1907,14 @@
       <!-- Lateen mizzen sail (fore-and-aft, triangular) -->
       <path d="M 155,18 L 154,12 L 173,18 Z" fill="rgba(206,190,150,0.72)" stroke="#6b5530" stroke-width="0.4"/>
 
-      <!-- ══ HULL ══
-           THE KEY SHAPE: sharp bow prow at (6,30), curved keel, stern castle rising to y=14.
-           This is a proper galleon — NOT a rectangle. -->
-      <path d="M 22,20 L 6,30 L 10,42 Q 96,47 172,42 L 178,40 L 181,20 L 172,14 L 22,20 Z"
+      <!-- ══ HULL ══ swooping curved bow, rounded elevated stern -->
+      <path d="M 22,20 C 10,22 4,30 10,42 Q 96,48 172,42 C 178,40 182,25 172,14 Z"
             fill="#141c30" stroke="#f0c040" stroke-width="1.5"/>
 
-      <!-- Gold sheer rail: follows the rising deck line toward the high stern -->
+      <!-- Gold sheer rail -->
       <line x1="22" y1="20" x2="172" y2="14" stroke="#f0c040" stroke-width="2.2" opacity="0.90"/>
-      <!-- Gold wale stripe: decorative mid-hull band -->
-      <path d="M 12,36 Q 96,42 174,36" stroke="#f0c040" stroke-width="1" opacity="0.36"/>
+      <!-- Gold wale stripe -->
+      <path d="M 12,32 Q 96,44 174,32" fill="none" stroke="#f0c040" stroke-width="1.2" opacity="0.45"/>
 
       <!-- Cannon ports: 5 gold gun-ports along the broadside -->
       <rect x="34" y="25" width="11" height="7" rx="2" fill="#f0c040" opacity="0.70"/>
