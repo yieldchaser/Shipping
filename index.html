@@ -2804,6 +2804,16 @@
       return n.toLocaleString('en-US', { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
     }
 
+    // fmtDate: format a Date object as YYYY-MM-DD using LOCAL time components.
+    // Avoids toISOString() which converts to UTC and shifts dates for UTC+ users.
+    function fmtDate(d) {
+      if (!d || isNaN(d.getTime())) return '—';
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      return `${y}-${m}-${day}`;
+    }
+
     function fmtPct(n) {
       if (n == null || isNaN(n)) return '—';
       const s = (n >= 0 ? '+' : '') + (n * 100).toFixed(1) + '%';
@@ -2900,8 +2910,8 @@
           fillEl.style.width = (pctE - pctS) + '%';
         }
         if (labelEl) {
-          const sd = allRows[s] ? allRows[s].date.toISOString().split('T')[0] : '';
-          const ed = allRows[e] ? allRows[e].date.toISOString().split('T')[0] : '';
+          const sd = allRows[s] ? fmtDate(allRows[s].date) : '';
+          const ed = allRows[e] ? fmtDate(allRows[e].date) : '';
           labelEl.textContent = `${sd} \u2192 ${ed}`;
         }
         onUpdate(s, e);
@@ -3177,9 +3187,11 @@
       DATA.years = [...new Set(DATA.master.map(r => r.year))].sort((a, b) => a - b);
       overlay.classList.add('hidden');
 
-      const now = new Date();
+      // Use the latest actual data date (not system clock) for the header
+      const _latestDataRow = DATA.master.length ? DATA.master[DATA.master.length - 1] : null;
+      const _latestDataDate = _latestDataRow ? _latestDataRow.date : new Date();
       document.getElementById('updatedAtText').textContent =
-        `Data as of ${now.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
+        `Data as of ${_latestDataDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
       document.getElementById('liveDot').classList.add('active');
     }
 
@@ -3659,7 +3671,7 @@
         const maxVal = rows[deque[0]][productKey];
         const dd = maxVal > 0 ? ((curVal - maxVal) / maxVal) * 100 : 0;
         ddData.push(dd);
-        labels.push(cur.date.toISOString().split('T')[0]);
+        labels.push(fmtDate(cur.date));
       }
 
       destroyChart('drawdownChart');
@@ -4471,8 +4483,8 @@
         fillEl.style.width = (pctEnd - pctStart) + '%';
         // Update label
         const rows = DATA.raw[key];
-        const startDate = rows[s] ? rows[s].date.toISOString().split('T')[0].slice(0, 7) : '';
-        const endDate = rows[e] ? rows[e].date.toISOString().split('T')[0].slice(0, 7) : '';
+        const startDate = rows[s] ? fmtDate(rows[s].date).slice(0, 7) : '';
+        const endDate = rows[e] ? fmtDate(rows[e].date).slice(0, 7) : '';
         labelEl.textContent = startDate + ' → ' + endDate;
         // Rebuild chart
         buildIndexChartByRange(key, s, e);
@@ -4490,7 +4502,7 @@
       if (!allRows || !allRows.length) return;
 
       const rows = allRows.slice(startIdx, endIdx + 1);
-      const labels = rows.map(r => r.date.toISOString().split('T')[0]);
+      const labels = rows.map(r => fmtDate(r.date));
       const values = rows.map(r => r.value);
 
       destroyChart('idxChart_' + key);
@@ -4572,7 +4584,7 @@
       function filterAndBuild(arr) {
         var filtered = arr.filter(function (r) { return r.date >= cutoff; });
         return {
-          labels: filtered.map(function (r) { return r.date.toISOString().split('T')[0]; }),
+          labels: filtered.map(function (r) { return fmtDate(r.date); }),
           data: filtered.map(function (r) { return r.pd; }),
         };
       }
@@ -4674,12 +4686,12 @@
       bwetAll.forEach(function (r, i) { if (r.date >= cutoff) bwetFilt.push({ date: r.date, z: bwetZ[i] }); });
 
       var allLabels = Array.from(new Set(
-        [...bdryFilt.map(function (r) { return r.date.toISOString().split('T')[0]; }),
-        ...bwetFilt.map(function (r) { return r.date.toISOString().split('T')[0]; })]
+        [...bdryFilt.map(function (r) { return fmtDate(r.date); }),
+        ...bwetFilt.map(function (r) { return fmtDate(r.date); })]
       )).sort();
 
-      var bdryMap = {}; bdryFilt.forEach(function (r) { bdryMap[r.date.toISOString().split('T')[0]] = r.z; });
-      var bwetMap = {}; bwetFilt.forEach(function (r) { bwetMap[r.date.toISOString().split('T')[0]] = r.z; });
+      var bdryMap = {}; bdryFilt.forEach(function (r) { bdryMap[fmtDate(r.date)] = r.z; });
+      var bwetMap = {}; bwetFilt.forEach(function (r) { bwetMap[fmtDate(r.date)] = r.z; });
 
       var pdzHidden = {};
       var prevPdzChart = chartRegistry['pdZscoreChart'];
@@ -4807,7 +4819,7 @@
       ETF_KEYS.forEach(function (k) {
         var rows = _buildETFHVRows(k);
         rows.forEach(function (r) {
-          var ds = r.date.toISOString().split('T')[0];
+          var ds = fmtDate(r.date);
           if (!allRowsMap[ds]) allRowsMap[ds] = {};
           allRowsMap[ds][k] = r.close;
         });
@@ -4821,8 +4833,8 @@
       var bdryRows = _buildETFHVRows('bdry');
       var s = startEl ? parseInt(startEl.value) : 0;
       var e = endEl ? parseInt(endEl.value) : bdryRows.length - 1;
-      var sDate = bdryRows[s] ? bdryRows[s].date.toISOString().split('T')[0] : allDates[0];
-      var eDate = bdryRows[e] ? bdryRows[e].date.toISOString().split('T')[0] : allDates[allDates.length - 1];
+      var sDate = bdryRows[s] ? fmtDate(bdryRows[s].date) : allDates[0];
+      var eDate = bdryRows[e] ? fmtDate(bdryRows[e].date) : allDates[allDates.length - 1];
       var visibleDates = allDates.filter(function (d) { return d >= sDate && d <= eDate; });
       if (visibleDates.length < 5) return;
 
@@ -5482,7 +5494,7 @@
         const row5back = allIdx >= 5 ? allRows[allIdx - 5] : null;
         const chg5d = row5back && row5back[productKey] ? ((row[productKey] - row5back[productKey]) / row5back[productKey] * 100) : null;
 
-        const dateStr = row.date.toISOString().split('T')[0];
+        const dateStr = fmtDate(row.date);
 
         const ddStr = dayDelta != null ? (dayDelta >= 0 ? '+' : '') + dayDelta.toFixed(0) : '—';
         const ddPStr = dayDeltaPct != null ? (dayDeltaPct >= 0 ? '+' : '') + dayDeltaPct.toFixed(2) + '%' : '—';
@@ -5524,7 +5536,7 @@
         const dayDeltaPct = prevRow && prevRow[productKey] ? ((row[productKey] - prevRow[productKey]) / prevRow[productKey] * 100) : null;
         const chg5d = row5back && row5back[productKey] ? ((row[productKey] - row5back[productKey]) / row5back[productKey] * 100) : null;
         return [
-          row.date.toISOString().split('T')[0],
+          fmtDate(row.date),
           row[productKey] != null ? row[productKey].toFixed(2) : '',
           dayDelta != null ? dayDelta.toFixed(2) : '',
           dayDeltaPct != null ? dayDeltaPct.toFixed(2) + '%' : '',
@@ -5645,8 +5657,8 @@
         // Update label (specific to Indices tab: YYYY-MM)
         var labelEl = document.getElementById('ydHistRangeLabel');
         if (labelEl) {
-          var sd = allRows[s] ? allRows[s].date.toISOString().split('T')[0].slice(0, 7) : '';
-          var ed = allRows[e] ? allRows[e].date.toISOString().split('T')[0].slice(0, 7) : '';
+          var sd = allRows[s] ? fmtDate(allRows[s].date).slice(0, 7) : '';
+          var ed = allRows[e] ? fmtDate(allRows[e].date).slice(0, 7) : '';
           labelEl.textContent = sd + ' \u2192 ' + ed;
         }
         rebuildYDHistChart(productKey);
@@ -5664,7 +5676,7 @@
       var rows = allRows.slice(s, e + 1);
       if (!rows.length) return;
 
-      var labels = rows.map(function (r) { return r.date.toISOString().split('T')[0]; });
+      var labels = rows.map(function (r) { return fmtDate(r.date); });
       var values = rows.map(function (r) { return r[productKey]; });
 
       // Rolling avg — O(n) prefix sum approach computed at FULL resolution
@@ -5837,7 +5849,7 @@
         PRODUCT_KEYS.forEach(function (key) {
           var allRows = DATA.master.filter(function (r) { return r[key] != null && r.date >= cutoff2008; });
           var zAll = computeRollingZscoreArr(allRows.map(function (r) { return r[key]; }), windowSize);
-          allZData[key] = allRows.map(function (r, i) { return { dateStr: r.date.toISOString().split('T')[0], z: zAll[i] }; });
+          allZData[key] = allRows.map(function (r, i) { return { dateStr: fmtDate(r.date), z: zAll[i] }; });
         });
         _ydZscoreCache[windowSize] = {
           allZData: allZData,
@@ -6106,7 +6118,7 @@
         deque.push(fi);
         var maxVal = rows[deque[0]][productKey];
         ddData.push(maxVal > 0 ? ((curVal - maxVal) / maxVal) * 100 : 0);
-        labels.push(cur.date.toISOString().split('T')[0]);
+        labels.push(fmtDate(cur.date));
       }
       destroyChart(canvasId);
       var canvas = document.getElementById(canvasId); if (!canvas) return;
@@ -6482,7 +6494,7 @@
       const labels = [], hv20 = [], hv60 = [], hv252 = [];
 
       rows.forEach(function (r) {
-        labels.push(r.date.toISOString().split('T')[0]);
+        labels.push(fmtDate(r.date));
         const gi = allRowsMap.get(r);
         [[20, hv20], [60, hv60], [252, hv252]].forEach(function (pair) {
           const win = pair[0], arr = pair[1];
@@ -6649,7 +6661,7 @@
       allRows.forEach(function (r, i) { allRowsIndexMap.set(r, i); });
 
       rows.forEach(function (r, i) {
-        labels.push(r.date.toISOString().split('T')[0]);
+        labels.push(fmtDate(r.date));
         var val = r[productKey];
         prices.push(val);
 
@@ -6747,7 +6759,7 @@
       var rows = allRatio.filter(function (r) { return r.date >= cutoff; });
       if (!rows.length) return;
 
-      var labels = rows.map(function (r) { return r.date.toISOString().split('T')[0]; });
+      var labels = rows.map(function (r) { return fmtDate(r.date); });
       var ratios = rows.map(function (r) { return r.ratio; });
 
       // Rolling 252-day percentile rank for each point
@@ -7228,7 +7240,7 @@
         var vol = q.volume[i];
         if (close == null || vol == null) continue;
         var d = new Date(ts[i] * 1000);
-        rows.push({ ts: ts[i], date: d, dateStr: d.toISOString().split('T')[0], close: close, volume: vol });
+        rows.push({ ts: ts[i], date: d, dateStr: fmtDate(d), close: close, volume: vol });
       }
       return rows;
     }
@@ -8197,7 +8209,7 @@
       msgEl.style.display = 'none';
       canvas.style.display = '';
 
-      var labels = hist.map(function (r) { return r.date.toISOString().split('T')[0]; });
+      var labels = hist.map(function (r) { return fmtDate(r.date); });
       var prices = hist.map(function (r) { return r.price; });
 
       var prodColors = { cape: '#58a6ff', panamax: '#3fb950', supramax: '#d29922', handysize: '#a371f7' };
@@ -8205,7 +8217,7 @@
 
       // Expiry date string for vertical marker
       var expiryDate = contractData.expiry;
-      var expiryStr = expiryDate ? expiryDate.toISOString().split('T')[0] : null;
+      var expiryStr = expiryDate ? fmtDate(expiryDate) : null;
 
       // Inline Chart.js plugin to draw a vertical expiry line
       var expiryLinePlugin = {
@@ -8410,7 +8422,7 @@
       const e = endEl ? parseInt(endEl.value) : basisSeries.length - 1;
 
       const filtered = basisSeries.slice(s, e + 1);
-      const labels = filtered.map(r => r.date.toISOString().split('T')[0]);
+      const labels = filtered.map(r => fmtDate(r.date));
       const data = filtered.map(r => r.value);
 
       destroyChart('basisChart');
@@ -8537,7 +8549,7 @@
       const displayRows = rows.slice(s, e + 1);
       if (!displayRows.length) return;
       
-      const labels = displayRows.map(r => r.date.toISOString().split('T')[0]);
+      const labels = displayRows.map(r => fmtDate(r.date));
       const capeContrib = displayRows.map(r => r.cape_change * BDRY_WEIGHTS.cape);
       const panaContrib = displayRows.map(r => r.panama_change * BDRY_WEIGHTS.panama);
       const supraContrib = displayRows.map(r => r.suprama_change * BDRY_WEIGHTS.suprama);

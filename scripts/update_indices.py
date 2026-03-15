@@ -94,7 +94,7 @@ def update_csv(filename, new_data):
     combined.to_csv(filepath, index=False)
     print(f"{filename}: {len(new_data)} new rows, {len(combined)} total rows")
 
-# ── NEW: Solactive freight futures index scraper ─────────────────────────────
+# ── Solactive freight futures index scraper ──────────────────────────────────
 
 SOLACTIVE_INDEXES = {
     'DE000SLA4BY3': 'bdryff_history.csv',  # Breakwave Dry Freight Futures
@@ -172,6 +172,144 @@ def update_solactive_csv(filename, latest_row):
     combined['date'] = combined['date'].dt.strftime('%d-%m-%Y')
     combined.to_csv(filename, index=False)
     print(f"{filename}: Appended {latest_date.date()} → value {latest_row['value'].iloc[0]}")
+
+
+def get_last_trading_day():
+    """
+    Return the most recent weekday (Mon-Fri) as a date object.
+    Simple weekday check — if it's Sat/Sun walk back to Friday.
+    Does not account for public holidays (Solactive also trades on most holidays).
+    """
+    d = date.today()
+    while d.weekday() >= 5:  # 5=Saturday, 6=Sunday
+        d -= timedelta(days=1)
+    return d
+
+
+def fetch_solactive_live(isin):
+    """
+    Fetch the live/current quote from Solactive's getIndexPerformance endpoint.
+    This updates same-day at ~21:30 CET and is used as a fallback when the
+    main getDayHistoryChartData batch lags behind by one trading day.
+
+    Returns a one-row DataFrame with columns ['date', 'value'] or empty DataFrame on failure.
+    The date is derived from the response timestamp in CET (UTC+1).
+    """
+    url = "https://www.solactive.com/_actions/getIndexPerformance/"
+    payload = {"isin": isin}
+    headers = {**SOLACTIVE_HEADERS, "referer": f"https://www.solactive.com/index/{isin}/"}
+
+    try:
+        response = requests.post(url, json=payload, headers=headers, timeout=30)
+        response.raise_for_status()
+        data = response.json()
+
+        # Response: [schema_dict, isin, timestamp_ms, level, yearHigh, yearLow, diff%, diff%4p]
+        # schema_dict maps field names to their index in the data array
+        if not isinstance(data, list) or len(data) < 4:
+            print(f"  [{isin}] Live: unexpected response structure (len={len(data) if isinstance(data, list) else 'N/A'})")
+            return pd.DataFrame()
+
+        schema = data[0]
+        if not isinstance(schema, dict) or 'timestamp' not in schema or 'level' not in schema:
+            print(f"  [{isin}] Live: schema dict malformed: {schema}")
+            return pd.DataFrame()
+
+        timestamp_ms = data[schema['timestamp']]
+        level_raw    = data[schema['level']]
+        level = float(level_raw)
+
+        # Solactive timestamps are in CET (UTC+1); convert to local CET date.
+        from datetime import timezone, timedelta as _td
+        cet = timezone(_td(hours=1))
+        dt_cet = datetime.fromtimestamp(timestamp_ms / 1000, tz=cet)
+        date_normalized = pd.Timestamp(dt_cet.date())
+
+        return pd.DataFrame([{'date': date_normalized, 'value': level}])
+
+    except Exception as e:
+        print(f"  [{isin}] Live fetch error: {e}")
+        return pd.DataFrame()
+
+
+def update_solactive_with_fallback(isin, filename):
+    """
+    Full Solactive update pipeline with live-quote fallback.
+
+    Step 1: try the batch endpoint (getDayHistoryChartData) — same as before.
+    Step 2: if the CSV is still behind the last trading day, try the live
+            endpoint (getIndexPerformance) which is published same-day ~21:30 CET.
+
+    Safeguards before appending the live value:
+      1. live value must be a valid positive float
+      2. live date must be strictly after the latest batch date (no going backwards)
+      3. live date must exactly equal the last trading day (expected date)
+      4. live date must not already exist in the CSV
+    """
+    # ── Step 1: normal batch update ──────────────────────────────────────────
+    print(f"  Fetching batch (getDayHistoryChartData)...")
+    batch_row = fetch_latest_solactive(isin)
+    update_solactive_csv(filename, batch_row)
+
+    # ── Step 2: check if we still need the live fallback ────────────────────
+    if not os.path.exists(filename):
+        print(f"  {filename}: file missing after batch step, skipping live fallback")
+        return
+
+    existing = pd.read_csv(filename)
+    try:
+        existing['date'] = pd.to_datetime(existing['date'], format='%d-%m-%Y').dt.normalize()
+    except Exception:
+        existing['date'] = pd.to_datetime(existing['date']).dt.normalize()
+
+    if existing.empty:
+        return
+
+    latest_in_csv = existing['date'].max()
+    last_td = pd.Timestamp(get_last_trading_day())
+
+    if latest_in_csv >= last_td:
+        print(f"  {filename}: already up to date ({latest_in_csv.date()})")
+        return
+
+    # Batch is behind — try the live endpoint
+    print(f"  {filename}: batch lags ({latest_in_csv.date()} < {last_td.date()}), fetching live quote...")
+    live_row = fetch_solactive_live(isin)
+
+    if live_row.empty:
+        print(f"  {filename}: live fetch returned nothing — keeping batch result")
+        return
+
+    live_date = live_row['date'].iloc[0]
+    live_val  = live_row['value'].iloc[0]
+
+    # ── Safeguard 1: value must be a valid positive number ───────────────────
+    if not isinstance(live_val, (int, float)) or live_val <= 0 or pd.isna(live_val):
+        print(f"  {filename}: SKIP live — value {live_val!r} is not a valid positive number")
+        return
+
+    # ── Safeguard 2: live date must be strictly after the batch latest ───────
+    if live_date <= latest_in_csv:
+        print(f"  {filename}: SKIP live — live date {live_date.date()} is not after batch latest {latest_in_csv.date()}")
+        return
+
+    # ── Safeguard 3: live date must equal the expected last trading day ──────
+    if live_date != last_td:
+        print(f"  {filename}: SKIP live — live date {live_date.date()} != expected {last_td.date()} (holiday or weekend?)")
+        return
+
+    # ── Safeguard 4: live date must not already be in the CSV ────────────────
+    if live_date in existing['date'].values:
+        print(f"  {filename}: SKIP live — {live_date.date()} already in CSV")
+        return
+
+    # All checks passed — append the live row
+    new_row = pd.DataFrame([{'date': live_date.strftime('%d-%m-%Y'), 'value': live_val}])
+    existing_str = existing.copy()
+    existing_str['date'] = existing_str['date'].dt.strftime('%d-%m-%Y')
+    combined = pd.concat([existing_str, new_row], ignore_index=True)
+    combined.to_csv(filename, index=False)
+    print(f"  {filename}: live fallback OK — appended {live_date.date()} -> {live_val}")
 
 # ── NEW: Amplify ETF premium/discount scraper ─────────────────────────────────
 
@@ -420,12 +558,11 @@ def main():
         else:
             print(f"No data scraped for {code}")
 
-    # New: Solactive freight futures indexes
+    # New: Solactive freight futures indexes (with live-quote fallback for same-day data)
     print("\n--- Solactive Freight Futures ---")
     for isin, filename in SOLACTIVE_INDEXES.items():
         print(f"\nProcessing {isin}...")
-        latest = fetch_latest_solactive(isin)
-        update_solactive_csv(filename, latest)
+        update_solactive_with_fallback(isin, filename)
 
     # New: Amplify ETF premium/discount
     print("\n--- Amplify ETF Premium/Discount ---")
