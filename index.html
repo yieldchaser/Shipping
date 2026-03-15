@@ -2048,13 +2048,7 @@
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyAreaComp1Chart"></canvas></div>
       </div>
 
-      <!-- Quarterly Trend -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title">Quarterly Trend (Last 5 Years)</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyTrendChart"></canvas></div>
-      </div>
+
 
       <!-- Quarterly Bar Chart -->
       <div class="chart-container mb-20">
@@ -2331,21 +2325,29 @@
 
     <!-- ===== TAB: MONTHLY DASHBOARD ===== -->
     <div class="tab-panel" id="tab-monthly-dash">
+      <!-- Win-Rate KPI Cards -->
+      <div class="win-rate-row mb-20" id="monthlyWinRateRow"></div>
+
+      <!-- Spaghetti Chart -->
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title">Monthly Performance by Year (Spaghetti)</div>
+        </div>
+        <div class="spaghetti-wrap">
+          <canvas id="monthlySpaghettiChart"></canvas>
+        </div>
+      </div>
+
       <div class="chart-container mb-20">
         <div class="chart-header">
           <div class="chart-title">Monthly Bar Chart (Last 12 Months)</div>
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyBarChart"></canvas></div>
       </div>
+
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title">Monthly Trend (Last 3 Years)</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyTrendChart"></canvas></div>
-      </div>
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title">Monthly Area Comparison &mdash; Current vs Prior Year</div>
+          <div class="chart-title">Monthly Area Comparison &mdash; Current vs Prior vs 5Y Avg</div>
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyAreaCompChart"></canvas></div>
       </div>
@@ -6085,13 +6087,139 @@
     // =====================================================================
     function renderMonthlyDash(productKey) {
       var fns = [
-        function () { renderMDBarChart(productKey); },
-        function () { renderMDTrendChart(productKey); },
+        function () { renderMonthlyWinRateCards(productKey); },
+        function () { renderMonthlySpaghettiChart(productKey); },
         function () { renderMDAreaComp(productKey); },
+        function () { renderMDBarChart(productKey); },
         function () { renderMDDataGrid(productKey); },
       ];
       fns.forEach(function (fn, i) {
         setTimeout(function () { try { fn(); } catch (e) { console.error('[MonthlyDash]', e); } }, i * 16);
+      });
+    }
+
+    function renderMonthlyWinRateCards(productKey) {
+      const months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+      const years = DATA.years;
+
+      const mAvg = {};
+      for (const y of years) {
+        mAvg[y] = {};
+        for (const m of months) {
+          mAvg[y][m] = getMAvgCached(productKey, y, m);
+        }
+      }
+
+      const winRates = {};
+      for (const m of months) {
+        let wins = 0, total = 0;
+        for (let i = 0; i < years.length; i++) {
+          const y = years[i];
+          const thisMAvg = mAvg[y][m];
+          if (thisMAvg == null) continue;
+          let prevAvg = null;
+          if (m === 0) {
+            const priorYear = y - 1;
+            prevAvg = mAvg[priorYear] ? mAvg[priorYear][11] : null;
+          } else {
+            prevAvg = mAvg[y][m - 1];
+          }
+          if (prevAvg == null) continue;
+          total++;
+          if (thisMAvg > prevAvg) wins++;
+        }
+        winRates[m] = total > 0 ? (wins / total) * 100 : null;
+      }
+
+      const row = document.getElementById('monthlyWinRateRow');
+      if (!row) return;
+      row.innerHTML = '';
+      for (const m of months) {
+        const wr = winRates[m];
+        let cls = 'wr-yellow', valColor = 'var(--yellow)';
+        if (wr != null) {
+          if (wr > 55) { cls = 'wr-green'; valColor = 'var(--green)'; }
+          else if (wr < 45) { cls = 'wr-red'; valColor = 'var(--red)'; }
+        }
+        const pct = wr != null ? wr.toFixed(0) + '%' : '—';
+        const barW = wr != null ? wr : 0;
+        const card = document.createElement('div');
+        card.className = `win-rate-card ${cls}`;
+        // Shrink card slightly so 12 fit cleanly, flex wrap is enabled on win-rate-row
+        card.style.minWidth = '80px';
+        card.innerHTML = `
+          <div class="wr-title">${MONTH_NAMES[m].substring(0,3)} Return</div>
+          <div class="wr-value" style="color:${valColor}">${pct}</div>
+          <div class="wr-sub">Pos. Years</div>
+          <div class="wr-bar-bg"><div class="wr-bar-fill" style="width:${barW}%"></div></div>
+        `;
+        row.appendChild(card);
+      }
+    }
+
+    function renderMonthlySpaghettiChart(productKey) {
+      const months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+      const mColors = [
+        '#58a6ff', '#3fb950', '#f0883e', '#a371f7',
+        '#f85149', '#f0c040', '#7ee787', '#e3b341',
+        '#d29922', '#ff7b72', '#2f81f7', '#1f6feb'
+      ];
+      const years = DATA.years;
+
+      const mData = {};
+      months.forEach(m => mData[m] = []);
+      const xLabels = years.map(String);
+
+      for (const m of months) {
+        for (const y of years) {
+          mData[m].push(getMAvgCached(productKey, y, m));
+        }
+      }
+
+      const datasets = months.map(m => ({
+        label: MONTH_NAMES[m],
+        data: mData[m],
+        borderColor: mColors[m],
+        backgroundColor: 'transparent',
+        borderWidth: 2,
+        pointRadius: 2,
+        tension: 0.2,
+        spanGaps: true,
+      }));
+
+      destroyChart('monthlySpaghettiChart');
+      const canvas = document.getElementById('monthlySpaghettiChart');
+      if (!canvas) return;
+      const ctx = canvas.getContext('2d');
+      chartRegistry['monthlySpaghettiChart'] = new Chart(ctx, {
+        type: 'line',
+        data: { labels: xLabels, datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 }, padding: 8 } },
+            tooltip: {
+              callbacks: {
+                title: ctx => `Year ${ctx[0].label}`,
+                label: ctx => ` ${ctx.dataset.label}: ${fmt(ctx.parsed.y)}`,
+              },
+            },
+          },
+          scales: {
+            x: {
+              grid: { color: '#151a22' },
+              ticks: { font: { size: 11 }, maxTicksLimit: 16 },
+              title: { display: true, text: 'Year', color: '#8b949e', font: { size: 11 } },
+            },
+            y: {
+              grid: { color: '#151a22' },
+              ticks: { font: { size: 11 }, callback: v => fmt(v) },
+              title: { display: true, text: PRODUCTS[productKey].label, color: '#8b949e', font: { size: 11 } },
+            },
+          },
+        },
       });
     }
 
@@ -6116,36 +6244,29 @@
       });
     }
 
-    function renderMDTrendChart(productKey) {
-      var cut3 = new Date(); cut3.setFullYear(cut3.getFullYear() - 3);
-      var seen = {}, syears = [];
-      DATA.master.forEach(function (r) { if (r.date >= cut3 && r[productKey] != null && !seen[r.year]) { seen[r.year] = 1; syears.push(r.year); } });
-      syears.sort(function (a, b) { return a - b; });
-      var labels = [], data = [];
-      syears.forEach(function (y) { for (var m = 0; m < 12; m++) { var vals = DATA.master.filter(function (r) { return r.year === y && r.month === m && r[productKey] != null && r.date >= cut3; }).map(function (r) { return r[productKey]; }); if (vals.length) { labels.push(MONTH_NAMES[m] + ' ' + y); data.push(mean(vals)); } } });
-      var prod = PRODUCTS[productKey];
-      destroyChart('monthlyTrendChart');
-      var canvas = document.getElementById('monthlyTrendChart'); if (!canvas) return;
-      chartRegistry['monthlyTrendChart'] = new Chart(canvas.getContext('2d'), {
-        type: 'line', data: { labels: labels, datasets: [{ label: prod.label, data: data, borderColor: prod.color, backgroundColor: prod.color + '33', borderWidth: 2, pointRadius: 2, fill: true, tension: 0.2, spanGaps: true }] },
-        options: {
-          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + fmt(c.parsed.y); } } } },
-          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, maxRotation: 45, maxTicksLimit: 18 } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } } }
-        },
-      });
-    }
 
     function renderMDAreaComp(productKey) {
-      var cy = new Date().getFullYear(), py = cy - 1, prod = PRODUCTS[productKey];
-      var curData = MONTH_NAMES.map(function (_, m) { var v = DATA.master.filter(function (r) { return r.year === cy && r.month === m && r[productKey] != null; }).map(function (r) { return r[productKey]; }); return v.length ? mean(v) : null; });
-      var prevData = MONTH_NAMES.map(function (_, m) { var v = DATA.master.filter(function (r) { return r.year === py && r.month === m && r[productKey] != null; }).map(function (r) { return r[productKey]; }); return v.length ? mean(v) : null; });
+      const cy = new Date().getFullYear();
+      const py = cy - 1;
+      const prod = PRODUCTS[productKey];
+      const years5 = [cy, cy - 1, cy - 2, cy - 3, cy - 4];
+      const months = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+      
+      const seasonal = months.map(m => {
+        const v = years5.map(y => getMAvgCached(productKey, y, m)).filter(val => val != null);
+        return v.length ? mean(v) : null;
+      });
+      const curData = months.map(m => getMAvgCached(productKey, cy, m));
+      const prevData = months.map(m => getMAvgCached(productKey, py, m));
+
       destroyChart('monthlyAreaCompChart');
       var canvas = document.getElementById('monthlyAreaCompChart'); if (!canvas) return;
       chartRegistry['monthlyAreaCompChart'] = new Chart(canvas.getContext('2d'), {
         type: 'line', data: {
           labels: MONTH_NAMES, datasets: [
-            { label: String(cy), data: curData, borderColor: prod.color, backgroundColor: prod.color + '33', borderWidth: 2.5, pointRadius: 3, fill: true, tension: 0.2, spanGaps: true },
-            { label: String(py), data: prevData, borderColor: '#8b949e', backgroundColor: 'rgba(139,148,158,0.15)', borderWidth: 1.5, pointRadius: 2, fill: true, tension: 0.2, spanGaps: true },
+            { label: String(cy), data: curData, borderColor: prod.color, backgroundColor: prod.color + '33', borderWidth: 2.5, pointRadius: 4, fill: true, tension: 0.2, spanGaps: true },
+            { label: String(py), data: prevData, borderColor: '#8b949e', backgroundColor: 'rgba(139,148,158,0.15)', borderWidth: 1.5, pointRadius: 3, fill: true, tension: 0.2, spanGaps: true },
+            { label: '5Y Avg', data: seasonal, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, borderDash: [5, 3], pointRadius: 3, fill: true, tension: 0.2, spanGaps: true },
           ]
         },
         options: {
@@ -6204,7 +6325,6 @@
     // =====================================================================
     function renderQuarterlyDash(productKey) {
       renderQDAreaComp1(productKey);
-      renderQDTrend(productKey);
       renderQDBarChart(productKey);
       renderQDDataGrid(productKey);
     }
@@ -6237,20 +6357,6 @@
       });
     }
 
-    function renderQDTrend(productKey) {
-      var cy = new Date().getFullYear(), years5 = [cy - 4, cy - 3, cy - 2, cy - 1, cy], qs = ['Q1', 'Q2', 'Q3', 'Q4'], labels = [], data = [];
-      years5.forEach(function (y) { qs.forEach(function (q) { labels.push(q + ' ' + y); data.push(getQAvgPD(productKey, y, q)); }); });
-      var prod = PRODUCTS[productKey];
-      destroyChart('quarterlyTrendChart');
-      var canvas = document.getElementById('quarterlyTrendChart'); if (!canvas) return;
-      chartRegistry['quarterlyTrendChart'] = new Chart(canvas.getContext('2d'), {
-        type: 'line', data: { labels: labels, datasets: [{ label: prod.label, data: data, borderColor: prod.color, backgroundColor: prod.color + '33', borderWidth: 2, pointRadius: 3, fill: true, tension: 0.2, spanGaps: true }] },
-        options: {
-          responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + fmt(c.parsed.y); } } } },
-          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, maxRotation: 45 } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } } }
-        },
-      });
-    }
 
     function renderQDBarChart(productKey) {
       var now = new Date(), qs = ['Q1', 'Q2', 'Q3', 'Q4'], qIdx = qs.indexOf(getQuarter(now.getMonth())), y = now.getFullYear(), quarters = [];
