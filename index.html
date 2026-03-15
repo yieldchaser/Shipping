@@ -6061,13 +6061,17 @@
 
     function renderYDRatesOverlay(canvasId) {
       var cy = new Date().getFullYear(), yrs = 4, ops = ['ff', 'bb', '77', '44'], datasets = [], maxDays = 0;
-      PRODUCT_KEYS.filter(function (k) { return k !== 'bdry' && k !== 'bwet' && k !== 'bdryff' && k !== 'bwetff'; }).forEach(function (key) {
+      PRODUCT_KEYS.filter(function (k) { return k !== 'bdry' && k !== 'bwet'; }).forEach(function (key) {
         var prodByYear = (DATA.byYearProduct && DATA.byYearProduct[key]) || DATA.byYear;
         for (var yo = 0; yo < yrs; yo++) {
           var y = cy - yo, rows = (prodByYear[y] || []);
           if (rows.length > maxDays) maxDays = rows.length;
+          // Extract short label, but keep FF suffix for freight futures to avoid confusion with ETFs
+          var shortLbl = PRODUCTS[key].label.split(' ')[0];
+          if (key === 'bdryff') shortLbl = 'BDRYFF';
+          if (key === 'bwetff') shortLbl = 'BWETFF';
           datasets.push({
-            label: PRODUCTS[key].label.split(' ')[0] + ' ' + y,
+            label: shortLbl + ' ' + y,
             data: rows.map(function (r) { return r[key] != null ? r[key] : null; }),
             borderColor: PRODUCTS[key].color + ops[yo], backgroundColor: 'transparent',
             borderWidth: yo === 0 ? 2 : 1, pointRadius: 0, tension: 0.1, spanGaps: true
