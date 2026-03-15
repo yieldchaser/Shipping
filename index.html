@@ -2059,7 +2059,7 @@
       <!-- Quarterly Area Comparison 1 -->
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title">Quarterly Area Comparison &mdash; Current vs Prior Year</div>
+          <div class="chart-title">Quarterly Area Comparison &mdash; Current vs Prior vs 5Y Avg</div>
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyAreaComp1Chart"></canvas></div>
       </div>
@@ -2080,15 +2080,7 @@
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyBarChart"></canvas></div>
       </div>
 
-      <!-- Quarterly Area Comparison 2 -->
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title">Quarterly Area Comparison &mdash; Current Year vs 5Y Seasonal Avg</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="quarterlyAreaComp2Chart"></canvas></div>
-      </div>
-
-      <!-- Quarterly Data Grid -->
+      <!-- Quarterly Area Comparison 2 Combined -->      <!-- Quarterly Data Grid -->
       <div class="chart-section">
         <div class="chart-header">
           <div class="chart-header-title">Quarterly Data Grid (Last 8 Years)</div>
@@ -6268,7 +6260,6 @@
       renderQDAreaComp1(productKey);
       renderQDTrend(productKey);
       renderQDBarChart(productKey);
-      renderQDAreaComp2(productKey);
       renderQDDataGrid(productKey);
     }
 
@@ -6278,7 +6269,10 @@
 
     function renderQDAreaComp1(productKey) {
       var cy = new Date().getFullYear(), py = cy - 1, prod = PRODUCTS[productKey], qs = ['Q1', 'Q2', 'Q3', 'Q4'];
-      var curData = qs.map(function (q) { return getQAvgPD(productKey, cy, q); }), prevData = qs.map(function (q) { return getQAvgPD(productKey, py, q); });
+      var years5 = [cy, cy - 1, cy - 2, cy - 3, cy - 4];
+      var seasonal = qs.map(function (q) { var v = years5.map(function (y) { return getQAvgPD(productKey, y, q); }).filter(function (v) { return v != null; }); return v.length ? mean(v) : null; });
+      var curData = qs.map(function (q) { return getQAvgPD(productKey, cy, q); });
+      var prevData = qs.map(function (q) { return getQAvgPD(productKey, py, q); });
       destroyChart('quarterlyAreaComp1Chart');
       var canvas = document.getElementById('quarterlyAreaComp1Chart'); if (!canvas) return;
       chartRegistry['quarterlyAreaComp1Chart'] = new Chart(canvas.getContext('2d'), {
@@ -6286,6 +6280,7 @@
           labels: qs, datasets: [
             { label: String(cy), data: curData, borderColor: prod.color, backgroundColor: prod.color + '33', borderWidth: 2.5, pointRadius: 5, fill: true, tension: 0.2, spanGaps: true },
             { label: String(py), data: prevData, borderColor: '#8b949e', backgroundColor: 'rgba(139,148,158,0.15)', borderWidth: 1.5, pointRadius: 4, fill: true, tension: 0.2, spanGaps: true },
+            { label: '5Y Avg', data: seasonal, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, borderDash: [5, 3], pointRadius: 4, fill: true, tension: 0.2, spanGaps: true },
           ]
         },
         options: {
@@ -6322,27 +6317,6 @@
         type: 'bar', data: { labels: labels, datasets: [{ label: PRODUCTS[productKey].label, data: data, backgroundColor: colors, borderRadius: 4 }] },
         options: {
           responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { callbacks: { label: function (c) { return ' ' + fmt(c.parsed.y); } } } },
-          scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 12 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } } }
-        },
-      });
-    }
-
-    function renderQDAreaComp2(productKey) {
-      var cy = new Date().getFullYear(), qs = ['Q1', 'Q2', 'Q3', 'Q4'], years5 = [cy, cy - 1, cy - 2, cy - 3, cy - 4], prod = PRODUCTS[productKey];
-      var seasonal = qs.map(function (q) { var v = years5.map(function (y) { return getQAvgPD(productKey, y, q); }).filter(function (v) { return v != null; }); return v.length ? mean(v) : null; });
-      var curData = qs.map(function (q) { return getQAvgPD(productKey, cy, q); });
-      destroyChart('quarterlyAreaComp2Chart');
-      var canvas = document.getElementById('quarterlyAreaComp2Chart'); if (!canvas) return;
-      chartRegistry['quarterlyAreaComp2Chart'] = new Chart(canvas.getContext('2d'), {
-        type: 'line', data: {
-          labels: qs, datasets: [
-            { label: String(cy), data: curData, borderColor: prod.color, backgroundColor: prod.color + '33', borderWidth: 2.5, pointRadius: 5, fill: true, tension: 0.2, spanGaps: true },
-            { label: '5Y Seasonal Avg', data: seasonal, borderColor: '#e3b341', backgroundColor: 'rgba(227,179,65,0.15)', borderWidth: 1.5, borderDash: [5, 3], pointRadius: 4, fill: true, tension: 0.2, spanGaps: true },
-          ]
-        },
-        options: {
-          responsive: true, maintainAspectRatio: false, interaction: { mode: 'index', intersect: false },
-          plugins: { legend: { position: 'top', labels: { usePointStyle: true } }, tooltip: { callbacks: { label: function (c) { return ' ' + c.dataset.label + ': ' + fmt(c.parsed.y); } } } },
           scales: { x: { grid: { color: '#151a22' }, ticks: { font: { size: 12 } } }, y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return fmt(v); } } } }
         },
       });
