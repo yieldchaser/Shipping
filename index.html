@@ -1725,7 +1725,35 @@
       /* ── Tab buttons: reduce padding ── */
       .tab-btn {
         padding: 10px 10px;
-        font-size: 12px;
+        font-size: 11px;
+      }
+
+      /* ── STICKY TABS ON MOBILE ── */
+      .tabs-bar {
+        position: sticky;
+        top: 48px; /* Height of header on mobile */
+        z-index: 99;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        background: var(--card);
+      }
+
+      /* ── STICKY TABLE HEADERS ── */
+      .yearly-table thead th,
+      .indices-table thead th,
+      .heatmap-table thead th {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background: var(--bg);
+      }
+
+      /* ── DATA GRID COMPACTNESS ── */
+      .monthly-table td, 
+      .monthly-table th,
+      .quarterly-table td,
+      .quarterly-table th {
+        padding: 4px 6px !important;
+        font-size: 11px !important;
       }
     }
 
