@@ -3872,9 +3872,10 @@
       for (const lbl of CORR_LABELS) html += `<th>${lbl}</th>`;
       html += '</tr></thead><tbody>';
 
-      for (let i = 0; i < PRODUCT_KEYS.length; i++) {
+      const nCols = CORR_LABELS.length;
+      for (let i = 0; i < nCols; i++) {
         html += `<tr><th style="text-align:left;background:var(--bg);color:var(--text-muted);font-size:11px">${CORR_LABELS[i]}</th>`;
-        for (let j = 0; j < PRODUCT_KEYS.length; j++) {
+        for (let j = 0; j < nCols; j++) {
           if (i === j) {
             html += `<td style="background:#1c3150;color:#58a6ff;font-weight:700">1.00</td>`;
           } else {
