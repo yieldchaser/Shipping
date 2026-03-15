@@ -2338,18 +2338,20 @@
         </div>
       </div>
 
-      <div class="chart-container mb-20">
-        <div class="chart-header">
-          <div class="chart-title">Monthly Bar Chart (Last 12 Months)</div>
-        </div>
-        <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyBarChart"></canvas></div>
-      </div>
-
+      <!-- Area Comparison Chart -->
       <div class="chart-container mb-20">
         <div class="chart-header">
           <div class="chart-title">Monthly Area Comparison &mdash; Current vs Prior vs 5Y Avg</div>
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyAreaCompChart"></canvas></div>
+      </div>
+
+      <!-- Bar Chart -->
+      <div class="chart-container mb-20">
+        <div class="chart-header">
+          <div class="chart-title">Monthly Bar Chart (Last 12 Months)</div>
+        </div>
+        <div class="chart-canvas-wrap" style="height:300px"><canvas id="monthlyBarChart"></canvas></div>
       </div>
       <div class="chart-section">
         <div class="chart-header">
@@ -6148,7 +6150,7 @@
         // Shrink card slightly so 12 fit cleanly, flex wrap is enabled on win-rate-row
         card.style.minWidth = '80px';
         card.innerHTML = `
-          <div class="wr-title">${MONTH_NAMES[m].substring(0,3)} Return</div>
+          <div class="wr-title">${MONTH_NAMES[m].substring(0,3)} Win Rate</div>
           <div class="wr-value" style="color:${valColor}">${pct}</div>
           <div class="wr-sub">Pos. Years</div>
           <div class="wr-bar-bg"><div class="wr-bar-fill" style="width:${barW}%"></div></div>
