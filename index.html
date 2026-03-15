@@ -6061,7 +6061,7 @@
 
     function renderYDRatesOverlay(canvasId) {
       var cy = new Date().getFullYear(), yrs = 4, ops = ['ff', 'bb', '77', '44'], datasets = [], maxDays = 0;
-      PRODUCT_KEYS.filter(function (k) { return k !== 'bdry' && k !== 'bwet'; }).forEach(function (key) {
+      PRODUCT_KEYS.filter(function (k) { return k !== 'bdry' && k !== 'bwet' && k !== 'bdryff' && k !== 'bwetff'; }).forEach(function (key) {
         var prodByYear = (DATA.byYearProduct && DATA.byYearProduct[key]) || DATA.byYear;
         for (var yo = 0; yo < yrs; yo++) {
           var y = cy - yo, rows = (prodByYear[y] || []);
