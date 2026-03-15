@@ -4069,9 +4069,7 @@
     // QUARTERLY TAB
     // =====================================================================
     function renderQuarterlyTab(productKey) {
-      // Wire download buttons immediately — no dependency on chart render
-      document.getElementById('quarterlyDlBtn').onclick = () => downloadQuarterlyHeatmapCSV(productKey);
-      // The quarterly heatmap download button is now wired in renderHeatmaps
+      // The quarterly heatmap download buttons are now wired in renderHeatmaps
       // document.getElementById('quarterlyHeatmapDlBtn').onclick = () => downloadQuarterlyHeatmapCSV(productKey);
 
       var fns = [
