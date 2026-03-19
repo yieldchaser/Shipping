@@ -2367,10 +2367,14 @@
             <input type="range" id="flowRangeEnd" min="0" max="100" value="100" step="1">
           </div>
         </div>
-        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;margin-top:10px;">Price vs Daily Flows ($)</div>
-        <div class="chart-canvas-wrap" style="height:300px;margin-bottom:20px;"><canvas id="flowPriceChart"></canvas></div>
+        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;margin-top:10px;">ETF NAV Price ($)</div>
+        <div class="chart-canvas-wrap" style="height:240px;margin-bottom:12px;"><canvas id="flowPriceChart"></canvas></div>
+        
+        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;">Daily Net Flow — Inflow / Outflow ($)</div>
+        <div class="chart-canvas-wrap" style="height:180px;margin-bottom:12px;"><canvas id="flowDailyChart"></canvas></div>
+        
         <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;">Cumulative Net Flow ($)</div>
-        <div class="chart-canvas-wrap" style="height:260px;"><canvas id="flowCumChart"></canvas></div>
+        <div class="chart-canvas-wrap" style="height:240px;"><canvas id="flowCumChart"></canvas></div>
         <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
           Daily flows represent creations/redemptions in USD. Cumulative flow is recalculated to start from $0 at the beginning of the selected range.
         </div>
@@ -5285,6 +5289,57 @@
       initFundFlowRange();
     }
 
+    // Synchronized crosshair & tooltip bridge
+    function syncFlowCharts(triggerChart, event) {
+      const charts = ['flowPriceChart', 'flowDailyChart', 'flowCumChart']
+        .map(id => chartRegistry[id])
+        .filter(c => c && c !== triggerChart);
+      
+      const activeElements = triggerChart.getElementsAtEventForMode(event, 'index', { intersect: false }, true);
+      if (activeElements.length > 0) {
+        const index = activeElements[0].index;
+        charts.forEach(chart => {
+          chart.setDatasetVisibility(0, true); // ensure visible for lookup
+          const meta = chart.getDatasetMeta(0);
+          if (meta.data[index]) {
+            chart.setActiveElements([{ datasetIndex: 0, index: index }]);
+            chart.tooltip.setActiveElements([{ datasetIndex: 0, index: index }], { x: 0, y: 0 });
+          }
+          chart.draw();
+        });
+      }
+    }
+
+    function clearFlowSync() {
+      ['flowPriceChart', 'flowDailyChart', 'flowCumChart'].forEach(id => {
+        const chart = chartRegistry[id];
+        if (chart) {
+          chart.setActiveElements([]);
+          chart.tooltip.setActiveElements([], { x: 0, y: 0 });
+          chart.draw();
+        }
+      });
+    }
+
+    const flowCrosshairPlugin = {
+      id: 'flowCrosshair',
+      afterDraw: (chart) => {
+        if (chart.tooltip?._active?.length) {
+          const { ctx, chartArea: { top, bottom } } = chart;
+          const x = chart.tooltip._active[0].element.x;
+          ctx.save();
+          ctx.beginPath();
+          ctx.moveTo(x, top);
+          ctx.lineTo(x, bottom);
+          ctx.lineWidth = 1;
+          ctx.strokeStyle = 'rgba(255, 255, 255, 0.25)';
+          ctx.setLineDash([3, 3]);
+          ctx.stroke();
+          ctx.restore();
+        }
+      }
+    };
+
     function renderFundFlowCharts() {
       const allRows = (_flowTicker === 'bdry') ? DATA.bdryFlows : DATA.bwetFlows;
       if (!allRows || !allRows.length) return;
@@ -5301,91 +5356,153 @@
       const prices = rows.map(r => r.nav);
       const inflows = rows.map(r => r.daily_inflow || 0);
       const outflows = rows.map(r => r.daily_outflow || 0);
+      const dailyNet = rows.map(r => (r.daily_inflow || 0) - (r.daily_outflow || 0));
 
-      // Recalculate cumulative flow starting from 0 at the start of the visible range
       let currentCum = 0;
       const cumFlows = rows.map(r => {
         currentCum += (r.usd_flow || 0);
         return currentCum;
       });
 
-      // ── Chart 1: Price vs Daily Flows ──
+      const commonOptions = {
+        responsive: true, maintainAspectRatio: false, animation: false,
+        interaction: { mode: 'index', intersect: false },
+        plugins: {
+          legend: { display: false },
+          flowCrosshair: {},
+          tooltip: {
+            backgroundColor: 'rgba(15, 19, 24, 0.95)',
+            borderColor: 'rgba(30, 37, 48, 1)',
+            borderWidth: 1,
+            padding: 10,
+            titleFont: { size: 12, weight: '600' },
+            bodyFont: { size: 12 },
+            cornerRadius: 6,
+            displayColors: true,
+          }
+        },
+        onHover: (event, activeElements, chart) => {
+          if (activeElements.length > 0) syncFlowCharts(chart, event);
+          else clearFlowSync();
+        },
+        scales: {
+          x: { 
+            grid: { color: 'rgba(21, 26, 34, 0.5)' }, 
+            ticks: { 
+              maxTicksLimit: 8, 
+              font: { size: 10 }, 
+              callback: function(_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } 
+            } 
+          },
+          y: { 
+            grid: { color: 'rgba(21, 26, 34, 0.5)' }, 
+            ticks: { font: { size: 10 } } 
+          }
+        }
+      };
+
+      // ── Chart 1: NAV Price ──
       const ctxPrice = document.getElementById('flowPriceChart').getContext('2d');
       destroyChart('flowPriceChart');
       chartRegistry['flowPriceChart'] = new Chart(ctxPrice, {
-        type: 'bar',
+        type: 'line',
+        plugins: [flowCrosshairPlugin],
         data: {
           labels,
-          datasets: [
-            {
-              label: 'Daily Inflow ($)',
-              data: inflows,
-              backgroundColor: 'rgba(63, 185, 80, 0.4)',
-              borderColor: 'rgba(63, 185, 80, 0.8)',
-              borderWidth: 1,
-              yAxisID: 'yFlow'
-            },
-            {
-              label: 'Daily Outflow ($)',
-              data: outflows,
-              backgroundColor: 'rgba(248, 81, 73, 0.4)',
-              borderColor: 'rgba(248, 81, 73, 0.8)',
-              borderWidth: 1,
-              yAxisID: 'yFlow'
-            },
-            {
-              label: 'ETF NAV ($)',
-              data: prices,
-              type: 'line',
-              borderColor: 'var(--accent)',
-              borderWidth: 2,
-              pointRadius: 0,
-              fill: false,
-              tension: 0.1,
-              yAxisID: 'yPrice'
-            }
-          ]
+          datasets: [{
+            label: 'ETF NAV ($)',
+            data: prices,
+            borderColor: 'var(--accent)',
+            borderWidth: 2,
+            pointRadius: 0,
+            fill: false,
+            tension: 0.1
+          }]
         },
         options: {
-          responsive: true, maintainAspectRatio: false, animation: false,
-          interaction: { mode: 'index', intersect: false },
-          plugins: {
-            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
-            tooltip: {
-              callbacks: {
-                label: (c) => {
-                  if (c.dataset.yAxisID === 'yPrice') return ` Price: $${c.parsed.y.toFixed(2)}`;
-                  return ` Flow: ${c.parsed.y >= 0 ? '+' : ''}$${(c.parsed.y / 1000000).toFixed(2)}M`;
-                }
-              }
-            }
-          },
+          ...commonOptions,
           scales: {
-            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 8, font: { size: 10 }, callback: function(_, i) { return labels[i] ? labels[i].slice(0,7) : ''; } } },
-            yPrice: { 
-              position: 'left', grid: { color: '#1e2530' }, 
-              ticks: { font: { size: 10 }, callback: v => '$' + v.toFixed(0) } 
-            },
-            yFlow: { 
-              position: 'right', grid: { display : false }, 
-              ticks: { font: { size: 10 }, callback: v => '$' + (v/1000000).toFixed(1) + 'M' } 
+            ...commonOptions.scales,
+            y: { ...commonOptions.scales.y, ticks: { ...commonOptions.scales.y.ticks, callback: v => '$' + v.toFixed(2) } }
+          },
+          plugins: {
+            ...commonOptions.plugins,
+            tooltip: {
+              ...commonOptions.plugins.tooltip,
+              callbacks: { label: c => ` Price: $${c.parsed.y.toFixed(2)}` }
             }
           }
         }
       });
 
-      // ── Chart 2: Cumulative Flow ──
+      // ── Chart 2: Daily Flows ──
+      const ctxDaily = document.getElementById('flowDailyChart').getContext('2d');
+      destroyChart('flowDailyChart');
+      chartRegistry['flowDailyChart'] = new Chart(ctxDaily, {
+        type: 'bar',
+        plugins: [flowCrosshairPlugin],
+        data: {
+          labels,
+          datasets: [
+            {
+              label: 'Daily Inflow',
+              data: inflows,
+              backgroundColor: 'rgba(63, 185, 80, 0.65)',
+              borderColor: 'rgba(63, 185, 80, 1)',
+              borderWidth: 0,
+              barPercentage: 0.8,
+              categoryPercentage: 0.9,
+            },
+            {
+              label: 'Daily Outflow',
+              data: outflows.map(v => -v),
+              backgroundColor: 'rgba(248, 81, 73, 0.65)',
+              borderColor: 'rgba(248, 81, 73, 1)',
+              borderWidth: 0,
+              barPercentage: 0.8,
+              categoryPercentage: 0.9,
+            }
+          ]
+        },
+        options: {
+          ...commonOptions,
+          scales: {
+            ...commonOptions.scales,
+            y: { 
+              ...commonOptions.scales.y, 
+              stacked: false,
+              ticks: { ...commonOptions.scales.y.ticks, callback: v => '$' + (v/1000000).toFixed(1) + 'M' } 
+            }
+          },
+          plugins: {
+            ...commonOptions.plugins,
+            tooltip: {
+              ...commonOptions.plugins.tooltip,
+              callbacks: { 
+                label: c => ` ${c.dataset.label}: $${(Math.abs(c.parsed.y) / 1000000).toFixed(2)}M` 
+              }
+            }
+          }
+        }
+      });
+
+      // ── Chart 3: Cumulative Flow ──
       const ctxCum = document.getElementById('flowCumChart').getContext('2d');
       destroyChart('flowCumChart');
+      const cumGrad = ctxCum.createLinearGradient(0, 0, 0, 240);
+      cumGrad.addColorStop(0, 'rgba(227, 179, 65, 0.2)');
+      cumGrad.addColorStop(1, 'rgba(227, 179, 65, 0)');
+
       chartRegistry['flowCumChart'] = new Chart(ctxCum, {
         type: 'line',
+        plugins: [flowCrosshairPlugin],
         data: {
           labels,
           datasets: [{
-            label: 'Net Flow for Period ($)',
+            label: 'Cumulative Net Flow',
             data: cumFlows,
-            borderColor: '#ff6b6b',
-            backgroundColor: 'rgba(255,107,107,0.1)',
+            borderColor: '#e3b341',
+            backgroundColor: cumGrad,
             fill: true,
             borderWidth: 2,
             pointRadius: 0,
@@ -5394,7 +5511,7 @@
           {
             label: 'Zero',
             data: labels.map(() => 0),
-            borderColor: 'rgba(139,148,158,0.3)',
+            borderColor: 'rgba(139,148,158,0.25)',
             borderWidth: 1,
             pointRadius: 0,
             fill: false,
@@ -5402,19 +5519,19 @@
           }]
         },
         options: {
-          responsive: true, maintainAspectRatio: false, animation: false,
-          interaction: { mode: 'index', intersect: false },
+          ...commonOptions,
+          scales: {
+            ...commonOptions.scales,
+            y: { ...commonOptions.scales.y, ticks: { ...commonOptions.scales.y.ticks, callback: v => '$' + (v/1000000).toFixed(1) + 'M' } }
+          },
           plugins: {
-            legend: { display: false },
+            ...commonOptions.plugins,
             tooltip: {
-              callbacks: {
-                label: (c) => ` Net Flow: ${c.parsed.y >= 0 ? '+' : ''}$${(c.parsed.y / 1000000).toFixed(2)}M`
+              ...commonOptions.plugins.tooltip,
+              callbacks: { 
+                label: c => ` Net Flow: ${c.parsed.y >= 0 ? '+' : ''}$${(c.parsed.y / 1000000).toFixed(2)}M` 
               }
             }
-          },
-          scales: {
-            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 8, font: { size: 10 }, callback: function(_, i) { return labels[i] ? labels[i].slice(0,7) : ''; } } },
-            y: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, callback: v => '$' + (v/1000000).toFixed(1) + 'M' } }
           }
         }
       });
