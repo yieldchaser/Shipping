@@ -5363,57 +5363,6 @@
       initFundFlowRange();
     }
 
-    // Synchronized crosshair & tooltip bridge
-    function syncFlowCharts(triggerChart, event) {
-      const charts = ['flowPriceChart', 'flowDailyChart', 'flowCumChart']
-        .map(id => chartRegistry[id])
-        .filter(c => c && c !== triggerChart);
-      
-      const activeElements = triggerChart.getElementsAtEventForMode(event, 'index', { intersect: false }, true);
-      if (activeElements.length > 0) {
-        const index = activeElements[0].index;
-        charts.forEach(chart => {
-          chart.setDatasetVisibility(0, true); // ensure visible for lookup
-          const meta = chart.getDatasetMeta(0);
-          if (meta.data[index]) {
-            chart.setActiveElements([{ datasetIndex: 0, index: index }]);
-            chart.tooltip.setActiveElements([{ datasetIndex: 0, index: index }], { x: 0, y: 0 });
-          }
-          chart.draw();
-        });
-      }
-    }
-
-    function clearFlowSync() {
-      ['flowPriceChart', 'flowDailyChart', 'flowCumChart'].forEach(id => {
-        const chart = chartRegistry[id];
-        if (chart) {
-          chart.setActiveElements([]);
-          chart.tooltip.setActiveElements([], { x: 0, y: 0 });
-          chart.draw();
-        }
-      });
-    }
-
-    const flowCrosshairPlugin = {
-      id: 'flowCrosshair',
-      afterDraw: (chart) => {
-        if (chart.tooltip?._active?.length) {
-          const { ctx, chartArea: { top, bottom } } = chart;
-          const x = chart.tooltip._active[0].element.x;
-          ctx.save();
-          ctx.beginPath();
-          ctx.moveTo(x, top);
-          ctx.lineTo(x, bottom);
-          ctx.lineWidth = 1;
-          ctx.strokeStyle = 'rgba(255, 255, 255, 0.25)';
-          ctx.setLineDash([3, 3]);
-          ctx.stroke();
-          ctx.restore();
-        }
-      }
-    };
-
     function renderFundFlowCharts() {
       const allRows = (_flowTicker === 'bdry') ? DATA.bdryFlows : DATA.bwetFlows;
       if (!allRows || !allRows.length) return;
@@ -5443,7 +5392,6 @@
         interaction: { mode: 'index', intersect: false },
         plugins: {
           legend: { display: false },
-          flowCrosshair: {},
           tooltip: {
             backgroundColor: 'rgba(15, 19, 24, 0.95)',
             borderColor: 'rgba(30, 37, 48, 1)',
@@ -5454,10 +5402,6 @@
             cornerRadius: 6,
             displayColors: true,
           }
-        },
-        onHover: (event, activeElements, chart) => {
-          if (activeElements.length > 0) syncFlowCharts(chart, event);
-          else clearFlowSync();
         },
         scales: {
           x: { 
@@ -5478,19 +5422,23 @@
       // ── Chart 1: NAV Price ──
       const ctxPrice = document.getElementById('flowPriceChart').getContext('2d');
       destroyChart('flowPriceChart');
+      const navGrad = ctxPrice.createLinearGradient(0, 0, 0, 240);
+      navGrad.addColorStop(0, 'rgba(88, 166, 255, 0.25)'); // var(--accent) light blue
+      navGrad.addColorStop(1, 'rgba(88, 166, 255, 0)');
+
       chartRegistry['flowPriceChart'] = new Chart(ctxPrice, {
         type: 'line',
-        plugins: [flowCrosshairPlugin],
         data: {
           labels,
           datasets: [{
             label: 'ETF NAV ($)',
             data: prices,
-            borderColor: 'var(--accent)',
+            borderColor: '#58a6ff',
+            backgroundColor: navGrad,
             borderWidth: 2,
             pointRadius: 0,
-            fill: false,
-            tension: 0.1
+            fill: true,
+            tension: 0, // stick to precision line
           }]
         },
         options: {
@@ -5503,7 +5451,18 @@
             ...commonOptions.plugins,
             tooltip: {
               ...commonOptions.plugins.tooltip,
-              callbacks: { label: c => ` Price: $${c.parsed.y.toFixed(2)}` }
+              callbacks: { 
+                label: c => {
+                  const idx = c.dataIndex;
+                  const dNet = dailyNet[idx];
+                  const cNet = cumFlows[idx];
+                  return [
+                    ` Price: $${c.parsed.y.toFixed(2)}`,
+                    ` Daily Net: ${dNet >= 0 ? '+' : ''}$${(dNet / 1000000).toFixed(2)}M`,
+                    ` Cum. Net: ${cNet >= 0 ? '+' : ''}$${(cNet / 1000000).toFixed(2)}M`
+                  ];
+                }
+              }
             }
           }
         }
@@ -5514,7 +5473,6 @@
       destroyChart('flowDailyChart');
       chartRegistry['flowDailyChart'] = new Chart(ctxDaily, {
         type: 'bar',
-        plugins: [flowCrosshairPlugin],
         data: {
           labels,
           datasets: [
@@ -5569,7 +5527,6 @@
 
       chartRegistry['flowCumChart'] = new Chart(ctxCum, {
         type: 'line',
-        plugins: [flowCrosshairPlugin],
         data: {
           labels,
           datasets: [{
