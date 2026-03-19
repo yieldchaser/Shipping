@@ -14,8 +14,8 @@ Output CSV columns:
 
 Run:
     pip install requests pandas
-    python get_snapshots_scraper.py --ticker 3NGS
-    python get_snapshots_scraper.py --ticker 3NGS --start 2021-01-01 --end 2026-03-19
+    python get_snapshots_scraper.py --ticker BDRY
+    python get_snapshots_scraper.py --ticker BDRY --start 2021-01-01 --end 2026-03-19
 
 No login required if the endpoint is public. If you get 401/403, add:
     python get_snapshots_scraper.py --ticker 3NGS --cookies trackinsight_cookies.json
@@ -43,7 +43,7 @@ HEADERS = {
     "Content-Type": "application/json",
     "Accept": "application/json, */*",
     "Origin": "https://www.trackinsight.com",
-    "Referer": "https://www.trackinsight.com/en/fund/3NGS",
+    "Referer": "https://www.trackinsight.com/en/fund/BDRY",
     "X-Requested-With": "XMLHttpRequest",
 }
 
@@ -176,7 +176,9 @@ def parse_snapshots(data: list | dict, ticker: str) -> pd.DataFrame:
     df = df.drop_duplicates("date").sort_values("date").reset_index(drop=True)
 
     # Derived columns
-    df["cumulative_flow"] = df["usd_flow"].cumsum()
+    # Derived columns — Recalculate based on full series to ensure consistency
+    df = df.sort_values("date").reset_index(drop=True)
+    df["cumulative_flow"] = df["usd_flow"].fillna(0).cumsum()
     df["daily_inflow"]    = df["usd_flow"].clip(lower=0)
     df["daily_outflow"]   = df["usd_flow"].clip(upper=0)
 
@@ -185,12 +187,14 @@ def parse_snapshots(data: list | dict, ticker: str) -> pd.DataFrame:
 
 def main():
     ap = argparse.ArgumentParser(description="Trackinsight get_snapshots flow scraper")
-    ap.add_argument("--ticker",  default="3NGS")
+    ap.add_argument("--ticker",  required=True, help="ETF ticker (e.g. BDRY, BWET)")
     ap.add_argument("--start",   default="2021-01-01")
     ap.add_argument("--end",     default=datetime.today().strftime("%Y-%m-%d"))
     ap.add_argument("--cookies", default=None,
                     help="Path to cookies JSON (optional, try without first)")
     ap.add_argument("--outdir",  default=".")
+    ap.add_argument("--update",  action="store_true",
+                    help="Merge with existing [TICKER]_flows.csv in repo root")
     ap.add_argument("--raw",     action="store_true",
                     help="Also save raw JSON response for inspection")
     args = ap.parse_args()
@@ -200,52 +204,52 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
     cookies  = Path(args.cookies) if args.cookies else None
 
+    # Target filename in repo root
+    target_csv = Path(f"{ticker}_flows.csv")
+
     session  = build_session(cookies)
     raw_data = fetch_snapshots(session, ticker, args.start, args.end)
 
-    # Save raw if requested or if empty (helps debug)
-    if args.raw or not raw_data:
-        raw_out = out_dir / f"{ticker}_raw_snapshots.json"
-        raw_out.write_text(json.dumps(raw_data, indent=2, default=str))
-        print(f"\n[saved] Raw response -> {raw_out}")
-
     if not raw_data:
-        print("\n[!] Empty response. Check raw JSON and share it.")
-        print("    Also try adding --cookies trackinsight_cookies.json")
+        print("\n[!] Empty response. No data to process.")
         return
 
-    # Print raw structure hint
-    if isinstance(raw_data, list) and raw_data:
-        first = raw_data[0]
-        print(f"\n[info] Response is a list of {len(raw_data)} items")
-        print(f"[info] First item keys: {list(first.keys()) if isinstance(first, dict) else type(first)}")
-        if isinstance(first, dict):
-            for k, v in list(first.items())[:8]:
-                print(f"         {k}: {str(v)[:80]}")
-    elif isinstance(raw_data, dict):
-        print(f"\n[info] Response is a dict with keys: {list(raw_data.keys())}")
+    new_df = parse_snapshots(raw_data, ticker)
 
-    df = parse_snapshots(raw_data, ticker)
-
-    if df.empty:
+    if new_df.empty:
         print("\n[!] Could not parse response into DataFrame.")
-        print("    The raw JSON has been saved — share it so we can adjust the parser.")
-        # Save raw anyway
-        raw_out = out_dir / f"{ticker}_raw_snapshots.json"
-        raw_out.write_text(json.dumps(raw_data, indent=2, default=str))
-        print(f"    -> {raw_out}")
         return
 
-    print(f"\n[ok] Parsed {len(df)} rows")
-    print(df.head(10).to_string())
-    print(f"\n     date range: {df['date'].min()} -> {df['date'].max()}")
-    if "usd_flow" in df.columns:
-        total = df["usd_flow"].sum()
+    print(f"\n[ok] Scraped {len(new_df)} rows for {ticker}")
+
+    if args.update and target_csv.exists():
+        print(f"[..] Merging with existing {target_csv} ...")
+        old_df = pd.read_csv(target_csv)
+        
+        # Merge and deduplicate by date, keeping the NEWEST values
+        combined_df = pd.concat([old_df, new_df])
+        combined_df = combined_df.drop_duplicates(subset=["date"], keep="last")
+        
+        # Recalculate derived columns across entire series
+        combined_df = combined_df.sort_values("date").reset_index(drop=True)
+        combined_df["cumulative_flow"] = combined_df["usd_flow"].fillna(0).cumsum()
+        combined_df["daily_inflow"]    = combined_df["usd_flow"].clip(lower=0)
+        combined_df["daily_outflow"]   = combined_df["usd_flow"].clip(upper=0)
+        
+        final_df = combined_df
+        print(f"[ok] Merged result: {len(final_df)} rows total")
+    else:
+        final_df = new_df
+
+    # Statistics reporting
+    print(f"     date range: {final_df['date'].min()} -> {final_df['date'].max()}")
+    if "usd_flow" in final_df.columns:
+        total = final_df["usd_flow"].sum()
         print(f"     total net flow: ${total:,.0f}")
 
-    out_csv = out_dir / f"{ticker}_flows_{args.start}_{args.end}.csv"
-    df.to_csv(out_csv, index=False)
-    print(f"\n[saved] {out_csv}")
+    # Save to the standard filename
+    final_df.to_csv(target_csv, index=False)
+    print(f"\n[saved] {target_csv.absolute()}")
 
 
 if __name__ == "__main__":

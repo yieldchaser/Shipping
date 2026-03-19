@@ -2332,9 +2332,47 @@
             <button class="toggle-btn" id="pdBtnAll" onclick="setPDWindow('all')">All</button>
           </div>
         </div>
+        <div class="index-range-wrap" style="padding:2px 0 6px;">
+          <div class="index-range-label"><span>Range:</span><span id="pdRangeLabel">Loading…</span></div>
+          <div class="dual-range-track" id="pdRangeTrack">
+            <div class="dual-range-fill" id="pdRangeFill"></div>
+            <input type="range" id="pdRangeStart" min="0" max="100" value="0" step="1">
+            <input type="range" id="pdRangeEnd" min="0" max="100" value="100" step="1">
+          </div>
+        </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="pdHistChart"></canvas></div>
         <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
           Premium/Discount = (Market Price − NAV) / NAV × 100. Positive = ETF trades above NAV; negative = discount.
+        </div>
+      </div>
+
+      <!-- Fund Flow History -->
+      <div class="chart-container mb-20" style="margin-top:24px;">
+        <div class="chart-header">
+          <div class="chart-title">Fund Flow History (BDRY &amp; BWET)</div>
+          <div class="flex-row" style="gap:6px;align-items:center;">
+            <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;">
+              <button id="flowTabBdry" onclick="switchFlowTab('bdry')"
+                style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY</button>
+              <button id="flowTabBwet" onclick="switchFlowTab('bwet')"
+                style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET</button>
+            </div>
+          </div>
+        </div>
+        <div class="index-range-wrap" style="padding:2px 0 6px;">
+          <div class="index-range-label"><span>Range:</span><span id="flowRangeLabel">Loading…</span></div>
+          <div class="dual-range-track" id="flowRangeTrack">
+            <div class="dual-range-fill" id="flowRangeFill"></div>
+            <input type="range" id="flowRangeStart" min="0" max="100" value="0" step="1">
+            <input type="range" id="flowRangeEnd" min="0" max="100" value="100" step="1">
+          </div>
+        </div>
+        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;margin-top:10px;">Price vs Daily Flows ($)</div>
+        <div class="chart-canvas-wrap" style="height:300px;margin-bottom:20px;"><canvas id="flowPriceChart"></canvas></div>
+        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;">Cumulative Net Flow ($)</div>
+        <div class="chart-canvas-wrap" style="height:260px;"><canvas id="flowCumChart"></canvas></div>
+        <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
+          Daily flows represent creations/redemptions in USD. Cumulative flow is recalculated to start from $0 at the beginning of the selected range.
         </div>
       </div>
 
@@ -2807,6 +2845,8 @@
       loaded: false,
       bdryPD: [],
       bwetPD: [],
+      bdryFlows: [],
+      bwetFlows: [],
       sgx: { cape: [], panamax: [], supramax: [], handysize: [] },
     };
 
@@ -3255,11 +3295,32 @@
       return out;
     }
 
+    function parseFlowCsv(rows) {
+      var out = [];
+      for (var i = 0; i < rows.length; i++) {
+        var r = rows[i];
+        var d = parseDateISO(r.date);
+        if (d && !isNaN(d.getTime())) {
+          out.push({
+            date: d,
+            usd_flow: parseFloat(r.usd_flow) || 0,
+            nav: parseFloat(r.nav) || 0,
+            perf_pct: parseFloat(r.perf_pct) || 0,
+            cumulative_flow: parseFloat(r.cumulative_flow) || 0,
+            daily_inflow: parseFloat(r.daily_inflow) || 0,
+            daily_outflow: parseFloat(r.daily_outflow) || 0
+          });
+        }
+      }
+      out.sort((a, b) => a.date - b.date);
+      return out;
+    }
+
     async function loadAllData() {
       const overlay = document.getElementById('loadingOverlay');
       const progress = document.getElementById('loadingProgress');
       let loaded = 0;
-      const total = PRODUCT_KEYS.length + 10; // +2 holdings, +2 P/D files, +4 SGX FFA, +2 Liq data
+      const total = PRODUCT_KEYS.length + 12; // +2 holdings, +2 P/D, +4 SGX, +2 Liq, +2 Flows
 
       function tick(label) {
         loaded++;
@@ -3304,6 +3365,8 @@
       const bwetPdPromise = fetchCSV('BWET_Daily.csv').then(r => { DATA.bwetPD = parsePDCsv(r); tick('BWET P/D'); });
       const bdryLiqPromise = fetchCSV('bdry_liquidity.csv').then(r => { DATA.bdryLiquidity = r; tick('BDRY Liquidity'); });
       const bwetLiqPromise = fetchCSV('bwet_liquidity.csv').then(r => { DATA.bwetLiquidity = r; tick('BWET Liquidity'); });
+      const bdryFlowPromise = fetchCSV('BDRY_flows.csv').then(r => { DATA.bdryFlows = parseFlowCsv(r); tick('BDRY Flows'); });
+      const bwetFlowPromise = fetchCSV('BWET_flows.csv').then(r => { DATA.bwetFlows = parseFlowCsv(r); tick('BWET Flows'); });
 
       // SGX FFA Futures — non-blocking; dashboard renders even if these fail
       const sgxFiles = {
@@ -3323,7 +3386,7 @@
         tick('SGX ' + key.charAt(0).toUpperCase() + key.slice(1));
       });
 
-      await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, bdryLiqPromise, bwetLiqPromise, ...sgxPromises]);
+      await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise, ...sgxPromises]);
 
       await new Promise(resolve => setTimeout(resolve, 0));
       buildMaster();
@@ -4700,48 +4763,62 @@
     function renderPDHistoryChart() {
       var canvas = document.getElementById('pdHistChart');
       if (!canvas) return;
-      var cutoff = new Date();
-      if (_pdWindow === '1y') cutoff.setFullYear(cutoff.getFullYear() - 1);
-      else if (_pdWindow === '3y') cutoff.setFullYear(cutoff.getFullYear() - 3);
-      else cutoff = new Date('2000-01-01');
+      
+      var bdryAll = DATA.bdryPD || [];
+      var bwetAll = DATA.bwetPD || [];
+      
+      // Use range slider if initialized, otherwise fall back to buttons
+      var startIdx = 0, endIdx = Math.max(0, bdryAll.length - 1);
+      var startEl = document.getElementById('pdRangeStart');
+      var endEl = document.getElementById('pdRangeEnd');
+      
+      var labels = [], bdryData = [], bwetData = [];
+      
+      if (startEl && endEl && startEl._pdInited) {
+        startIdx = parseInt(startEl.value);
+        endIdx = parseInt(endEl.value);
+        var filteredBdry = bdryAll.slice(startIdx, endIdx + 1);
+        labels = filteredBdry.map(r => fmtDate(r.date));
+        bdryData = filteredBdry.map(r => r.pd);
+        
+        // Align BWET to BDRY dates
+        var bwetMap = {}; bwetAll.forEach(r => bwetMap[fmtDate(r.date)] = r.pd);
+        bwetData = labels.map(l => bwetMap[l] != null ? bwetMap[l] : null);
+      } else {
+        // Fallback to existing window buttons logic
+        var cutoff = new Date();
+        if (_pdWindow === '1y') cutoff.setFullYear(cutoff.getFullYear() - 1);
+        else if (_pdWindow === '3y') cutoff.setFullYear(cutoff.getFullYear() - 3);
+        else cutoff = new Date('2000-01-01');
 
-      function filterAndBuild(arr) {
-        var filtered = arr.filter(function (r) { return r.date >= cutoff; });
-        return {
-          labels: filtered.map(function (r) { return fmtDate(r.date); }),
-          data: filtered.map(function (r) { return r.pd; }),
-        };
+        var filteredBdry = bdryAll.filter(r => r.date >= cutoff);
+        labels = filteredBdry.map(r => fmtDate(r.date));
+        bdryData = filteredBdry.map(r => r.pd);
+        var bwetMap = {}; bwetAll.forEach(r => bwetMap[fmtDate(r.date)] = r.pd);
+        bwetData = labels.map(l => bwetMap[l] != null ? bwetMap[l] : null);
       }
-
-      var bdry = filterAndBuild(DATA.bdryPD || []);
-      var bwet = filterAndBuild(DATA.bwetPD || []);
-
-      // Merge labels for common x-axis
-      var allLabels = Array.from(new Set([...bdry.labels, ...bwet.labels])).sort();
-      var bdryMap = {}; bdry.labels.forEach(function (l, i) { bdryMap[l] = bdry.data[i]; });
-      var bwetMap = {}; bwet.labels.forEach(function (l, i) { bwetMap[l] = bwet.data[i]; });
 
       destroyChart('pdHistChart');
       chartRegistry['pdHistChart'] = new Chart(canvas.getContext('2d'), {
         type: 'line',
         data: {
-          labels: allLabels,
+          labels: labels,
           datasets: [
             {
               label: 'BDRY P/D %',
-              data: allLabels.map(function (l) { return bdryMap[l] != null ? bdryMap[l] : null; }),
+              data: bdryData,
               borderColor: '#00bfff', backgroundColor: 'rgba(0,191,255,0.08)',
               borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true,
             },
             {
               label: 'BWET P/D %',
-              data: allLabels.map(function (l) { return bwetMap[l] != null ? bwetMap[l] : null; }),
+              data: bwetData,
               borderColor: '#ff6b6b', backgroundColor: 'rgba(255,107,107,0.08)',
               borderWidth: 1.5, pointRadius: 0, fill: false, tension: 0.1, spanGaps: true,
             },
             {
               label: 'Zero',
-              data: allLabels.map(function () { return 0; }),
+              data: labels.map(() => 0),
               borderColor: 'rgba(139,148,158,0.35)', borderWidth: 1,
               pointRadius: 0, fill: false, borderDash: [4, 4], tension: 0,
             },
@@ -4749,6 +4826,7 @@
         },
         options: {
           responsive: true, maintainAspectRatio: false,
+          animation: false,
           interaction: { mode: 'index', intersect: false },
           plugins: {
             legend: { position: 'top', labels: { usePointStyle: true, font: { size: 11 } } },
@@ -4759,11 +4837,29 @@
             },
           },
           scales: {
-            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (_, i) { return allLabels[i] ? allLabels[i].slice(0, 7) : ''; } } },
+            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
             y: { grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v.toFixed(1) + '%'; } } },
           },
         },
       });
+    }
+
+    function initPDHistoryRange() {
+      const bdryAll = DATA.bdryPD || [];
+      if (!bdryAll.length) return;
+      const startEl = document.getElementById('pdRangeStart');
+      if (startEl && !startEl._pdInited) {
+        initDualRangeSlider('pdRange', bdryAll, () => {
+          renderPDHistoryChart();
+        });
+        // Default to last 1Y
+        const cutoff = new Date(); cutoff.setFullYear(cutoff.getFullYear() - 1);
+        const sIdx = bdryAll.findIndex(r => r.date >= cutoff);
+        startEl.value = sIdx < 0 ? 0 : sIdx;
+        document.getElementById('pdRangeEnd').value = bdryAll.length - 1;
+        startEl._pdInited = true;
+        startEl.dispatchEvent(new Event('input'));
+      }
     }
 
     // =====================================================================
@@ -5138,10 +5234,190 @@
       renderBdryLiquidityTracker();
 
       // P/D history chart
-      try { renderPDHistoryChart(); } catch (e) { console.error('[ETFTab P/D]', e); }
+      try { initPDHistoryRange(); } catch (e) { console.error('[ETFTab P/D]', e); }
+
+      // Fund Flow history
+      try { renderFundFlowSection(); } catch (e) { console.error('[ETFTab Flow]', e); }
 
       // ETF HV chart
       try { initETFHVRange(); } catch (e) { console.error('[ETFTab HV]', e); }
+    }
+
+    var _flowTicker = 'bdry';
+
+    function switchFlowTab(ticker) {
+      _flowTicker = ticker;
+      ['bdry', 'bwet'].forEach(t => {
+        const btn = document.getElementById('flowTab' + t.charAt(0).toUpperCase() + t.slice(1));
+        if (btn) {
+          btn.style.background = (t === ticker) ? 'var(--accent)' : 'transparent';
+          btn.style.color = (t === ticker) ? '#fff' : 'var(--text-muted)';
+        }
+      });
+      initFundFlowRange(); // This will trigger recalculation and chart update
+    }
+
+    function initFundFlowRange() {
+      const allRows = (_flowTicker === 'bdry') ? DATA.bdryFlows : DATA.bwetFlows;
+      if (!allRows || !allRows.length) return;
+
+      const startEl = document.getElementById('flowRangeStart');
+      if (startEl) {
+        // preserve range if possible, or set default
+        const isFirst = !startEl._flowInited;
+        initDualRangeSlider('flowRange', allRows, () => {
+          renderFundFlowCharts();
+        });
+
+        if (isFirst) {
+          // Default to last 3Y or All if shorter
+          const cutoff = new Date(); cutoff.setFullYear(cutoff.getFullYear() - 3);
+          const sIdx = allRows.findIndex(r => r.date >= cutoff);
+          startEl.value = sIdx < 0 ? 0 : sIdx;
+          document.getElementById('flowRangeEnd').value = allRows.length - 1;
+          startEl._flowInited = true;
+        }
+        startEl.dispatchEvent(new Event('input'));
+      }
+    }
+
+    function renderFundFlowSection() {
+      initFundFlowRange();
+    }
+
+    function renderFundFlowCharts() {
+      const allRows = (_flowTicker === 'bdry') ? DATA.bdryFlows : DATA.bwetFlows;
+      if (!allRows || !allRows.length) return;
+
+      const startEl = document.getElementById('flowRangeStart');
+      const endEl = document.getElementById('flowRangeEnd');
+      if (!startEl || !endEl) return;
+
+      const s = parseInt(startEl.value);
+      const e = parseInt(endEl.value);
+      const rows = allRows.slice(s, e + 1);
+
+      const labels = rows.map(r => fmtDate(r.date));
+      const prices = rows.map(r => r.nav);
+      const inflows = rows.map(r => r.daily_inflow || 0);
+      const outflows = rows.map(r => r.daily_outflow || 0);
+
+      // Recalculate cumulative flow starting from 0 at the start of the visible range
+      let currentCum = 0;
+      const cumFlows = rows.map(r => {
+        currentCum += (r.usd_flow || 0);
+        return currentCum;
+      });
+
+      // ── Chart 1: Price vs Daily Flows ──
+      const ctxPrice = document.getElementById('flowPriceChart').getContext('2d');
+      destroyChart('flowPriceChart');
+      chartRegistry['flowPriceChart'] = new Chart(ctxPrice, {
+        type: 'bar',
+        data: {
+          labels,
+          datasets: [
+            {
+              label: 'Daily Inflow ($)',
+              data: inflows,
+              backgroundColor: 'rgba(63, 185, 80, 0.4)',
+              borderColor: 'rgba(63, 185, 80, 0.8)',
+              borderWidth: 1,
+              yAxisID: 'yFlow'
+            },
+            {
+              label: 'Daily Outflow ($)',
+              data: outflows,
+              backgroundColor: 'rgba(248, 81, 73, 0.4)',
+              borderColor: 'rgba(248, 81, 73, 0.8)',
+              borderWidth: 1,
+              yAxisID: 'yFlow'
+            },
+            {
+              label: 'ETF NAV ($)',
+              data: prices,
+              type: 'line',
+              borderColor: 'var(--accent)',
+              borderWidth: 2,
+              pointRadius: 0,
+              fill: false,
+              tension: 0.1,
+              yAxisID: 'yPrice'
+            }
+          ]
+        },
+        options: {
+          responsive: true, maintainAspectRatio: false, animation: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { position: 'top', labels: { usePointStyle: true, font: { size: 10 } } },
+            tooltip: {
+              callbacks: {
+                label: (c) => {
+                  if (c.dataset.yAxisID === 'yPrice') return ` Price: $${c.parsed.y.toFixed(2)}`;
+                  return ` Flow: ${c.parsed.y >= 0 ? '+' : ''}$${(c.parsed.y / 1000000).toFixed(2)}M`;
+                }
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 8, font: { size: 10 }, callback: function(_, i) { return labels[i] ? labels[i].slice(0,7) : ''; } } },
+            yPrice: { 
+              position: 'left', grid: { color: '#1e2530' }, 
+              ticks: { font: { size: 10 }, callback: v => '$' + v.toFixed(0) } 
+            },
+            yFlow: { 
+              position: 'right', grid: { display : false }, 
+              ticks: { font: { size: 10 }, callback: v => '$' + (v/1000000).toFixed(1) + 'M' } 
+            }
+          }
+        }
+      });
+
+      // ── Chart 2: Cumulative Flow ──
+      const ctxCum = document.getElementById('flowCumChart').getContext('2d');
+      destroyChart('flowCumChart');
+      chartRegistry['flowCumChart'] = new Chart(ctxCum, {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [{
+            label: 'Net Flow for Period ($)',
+            data: cumFlows,
+            borderColor: '#ff6b6b',
+            backgroundColor: 'rgba(255,107,107,0.1)',
+            fill: true,
+            borderWidth: 2,
+            pointRadius: 0,
+            tension: 0.1
+          },
+          {
+            label: 'Zero',
+            data: labels.map(() => 0),
+            borderColor: 'rgba(139,148,158,0.3)',
+            borderWidth: 1,
+            pointRadius: 0,
+            fill: false,
+            borderDash: [5, 5]
+          }]
+        },
+        options: {
+          responsive: true, maintainAspectRatio: false, animation: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: (c) => ` Net Flow: ${c.parsed.y >= 0 ? '+' : ''}$${(c.parsed.y / 1000000).toFixed(2)}M`
+              }
+            }
+          },
+          scales: {
+            x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 8, font: { size: 10 }, callback: function(_, i) { return labels[i] ? labels[i].slice(0,7) : ''; } } },
+            y: { grid: { color: '#151a22' }, ticks: { font: { size: 10 }, callback: v => '$' + (v/1000000).toFixed(1) + 'M' } }
+          }
+        }
+      });
     }
 
     function classifyHolding(name, ticker, etf) {
