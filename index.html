@@ -2692,20 +2692,22 @@
       <!-- 6b. ETF Fund Flow Signals -->
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title">ETF Fund Flow Signals — Momentum &amp; Divergence</div>
-          <div class="flex-row" style="gap:6px;align-items:center;">
+          <div class="flex-row" style="gap:12px;align-items:center;">
+            <div class="chart-title">ETF Fund Flow Signals — Momentum &amp; Divergence</div>
             <div style="display:flex;gap:4px;background:var(--bg);border-radius:6px;padding:3px;border:1px solid var(--border);">
               <button id="flowSigTabBdry" onclick="switchFlowSigTab('bdry')"
                 style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:var(--accent);color:#fff;transition:all 0.15s;">BDRY</button>
               <button id="flowSigTabBwet" onclick="switchFlowSigTab('bwet')"
                 style="padding:4px 14px;border-radius:4px;border:none;cursor:pointer;font-size:12px;font-weight:600;letter-spacing:0.3px;background:transparent;color:var(--text-muted);transition:all 0.15s;">BWET</button>
             </div>
+          </div>
+          <div class="flex-row" style="gap:6px;align-items:center;">
             <button class="toggle-btn active" id="flowSigBtn1y" onclick="setFlowSigWindow('1y')">1Y</button>
             <button class="toggle-btn" id="flowSigBtn3y" onclick="setFlowSigWindow('3y')">3Y</button>
             <button class="toggle-btn" id="flowSigBtnAll" onclick="setFlowSigWindow('all')">All</button>
           </div>
         </div>
-        <div id="flowSigKpiStrip" style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px;"></div>
+        <div id="flowSigKpiStrip" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));gap:12px;margin-bottom:16px;"></div>
         <div class="index-range-wrap" style="padding: 2px 0 6px;">
           <div class="index-range-label">
             <span>Range:</span>
@@ -2719,7 +2721,7 @@
         </div>
         <div class="chart-canvas-wrap" style="height:320px"><canvas id="flowSigChart"></canvas></div>
         <div style="font-size:11px;color:var(--text-muted);margin-top:8px;padding:0 4px;">
-          Visualizing Flow Stretch (30D Z-Score) and rolling 5D flow sum to identify potential exhaustion and momentum turning points.
+          Visualizing ETF Price vs 5D Flow to identify structural divergence. Red bars indicate distribution, green bars indicate accumulation.
         </div>
       </div>
 
@@ -5132,7 +5134,8 @@
           f_div: f_div,
           f_pr: f_pr,
           f_5d: f_5d,
-          usd_flow: row.usd_flow
+          usd_flow: row.usd_flow,
+          nav: row.nav
         });
       }
       return result;
@@ -5159,47 +5162,55 @@
       var last = filt[filt.length - 1];
       
       var kpiHtml = '';
-      function getBadgeStyle(colorStr) {
-        return 'padding:6px 14px;border-radius:6px;font-size:13px;font-weight:700;letter-spacing:0.3px;color:' + colorStr + ';border:1px solid ' + colorStr.replace(')', ',0.4)').replace('rgb', 'rgba') + ';background:' + colorStr.replace(')', ',0.15)').replace('rgb', 'rgba');
+      function buildCard(title, valStr, colorStr, subtitle) {
+        return '<div style="background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px 16px;display:flex;flex-direction:column;position:relative;overflow:hidden;">' +
+                 '<div style="position:absolute;left:0;top:0;bottom:0;width:3px;background:' + colorStr + ';"></div>' +
+                 '<div style="font-size:10px;text-transform:uppercase;letter-spacing:0.5px;color:var(--text-muted);font-weight:600;margin-bottom:4px;margin-left:4px;">' + title + '</div>' +
+                 '<div style="font-size:18px;font-weight:700;color:' + colorStr + ';margin-left:4px;margin-bottom:2px;">' + valStr + '</div>' +
+                 '<div style="font-size:11px;color:var(--text-muted);margin-left:4px;">' + subtitle + '</div>' +
+               '</div>';
       }
       
       var fStrVal = last.f_str != null ? last.f_str : 0;
       var fStrColor = fStrVal > 1.5 ? 'rgb(248,81,73)' : (fStrVal < -1.5 ? 'rgb(63,185,80)' : 'rgb(139,148,158)');
-      kpiHtml += '<div style="' + getBadgeStyle(fStrColor) + '">Flow Stretch: ' + (fStrVal > 0 ? '+' : '') + fStrVal.toFixed(1) + 'σ</div>';
+      var fStrSub = fStrVal > 1.5 ? "Overbought" : (fStrVal < -1.5 ? "Oversold" : "Neutral");
+      kpiHtml += buildCard("Flow Stretch", (fStrVal > 0 ? '+' : '') + fStrVal.toFixed(1) + 'σ', fStrColor, fStrSub);
       
       var fRegColor = last.f_reg === 'Accumulation' ? 'rgb(63,185,80)' : (last.f_reg === 'Distribution' ? 'rgb(248,81,73)' : 'rgb(139,148,158)');
-      kpiHtml += '<div style="' + getBadgeStyle(fRegColor) + '">Flow Regime: ' + last.f_reg + '</div>';
+      var fRegSub = last.f_reg === 'Accumulation' ? "5D &gt; 20D Inflows" : (last.f_reg === 'Distribution' ? "5D &gt; 20D Outflows" : "No Clear Trend");
+      kpiHtml += buildCard("Flow Regime", last.f_reg, fRegColor, fRegSub);
 
       var fDivColor = 'rgb(139,148,158)';
-      if (last.f_div.indexOf('⚠️') !== -1) fDivColor = 'rgb(227,179,65)';
-      else if (last.f_div === 'Confirmed') fDivColor = 'rgb(88,166,255)';
-      kpiHtml += '<div style="' + getBadgeStyle(fDivColor) + '">Flow Divergence: ' + last.f_div + '</div>';
+      var fDivSub = "Price & Flow Align";
+      if (last.f_div.indexOf('⚠️') !== -1) { fDivColor = 'rgb(227,179,65)'; fDivSub = last.f_div === 'Distribution ⚠️' ? 'Price ↑, Flow ↓' : 'Price ↓, Flow ↑'; }
+      else if (last.f_div === 'Confirmed') { fDivColor = 'rgb(88,166,255)'; fDivSub = "Price ↑, Flow ↑"; }
+      else if (last.f_div === 'Weak') { fDivSub = "Price ↓, Flow ↓"; }
+      kpiHtml += buildCard("Flow Divergence", last.f_div.replace(' ⚠️',''), fDivColor, fDivSub);
 
       var fPrVal = last.f_pr != null ? last.f_pr : 0;
       var fPrAbs = Math.abs(fPrVal);
       var fPrColor = fPrAbs > 1.5 ? 'rgb(248,81,73)' : (fPrAbs < 0.5 ? 'rgb(139,148,158)' : 'rgb(227,179,65)');
-      kpiHtml += '<div style="' + getBadgeStyle(fPrColor) + '">Flow Pressure: ' + fPrVal.toFixed(1) + 'x</div>';
+      var fPrSub = fPrAbs > 1.5 ? "Extreme Intensity" : (fPrAbs < 0.5 ? "Low Intensity" : "Average Intensity");
+      kpiHtml += buildCard("Flow Pressure", fPrVal.toFixed(1) + 'x', fPrColor, fPrSub);
 
       document.getElementById('flowSigKpiStrip').innerHTML = kpiHtml;
 
       var labels = filt.map(function(r) { return fmtDate(r.date); });
-      var zScores = filt.map(function(r) { return r.f_str; });
+      var prices = filt.map(function(r) { return r.nav; });
       var flow5d = filt.map(function(r) { return r.f_5d; });
 
       initDualRangeSlider('flowSigRange', filt, function(isManual, s, e) {
         if (!isManual) return;
         var subFilt = filt.slice(s, e + 1);
         var subLabels = subFilt.map(function(r) { return fmtDate(r.date); });
-        var subZ = subFilt.map(function(r) { return r.f_str; });
+        var subPrices = subFilt.map(function(r) { return r.nav; });
         var sub5d = subFilt.map(function(r) { return r.f_5d; });
         
         var chart = chartRegistry['flowSigChart'];
         if (chart) {
           chart.data.labels = subLabels;
           chart.data.datasets[0].data = sub5d;
-          chart.data.datasets[1].data = subZ;
-          chart.data.datasets[2].data = subLabels.map(function () { return 1.5; });
-          chart.data.datasets[3].data = subLabels.map(function () { return -1.5; });
+          chart.data.datasets[1].data = subPrices;
           chart.update('none');
         }
       });
@@ -5222,25 +5233,23 @@
               type: 'bar',
               label: '5D Flow Sum',
               data: flow5d,
-              backgroundColor: flow5d.map(function(v) { return v > 0 ? 'rgba(63,185,80,0.4)' : 'rgba(248,81,73,0.4)'; }),
+              backgroundColor: flow5d.map(function(v) { return v > 0 ? 'rgba(63,185,80,0.5)' : 'rgba(248,81,73,0.5)'; }),
               yAxisID: 'y1',
               hidden: hiddenState['5D Flow Sum'] || false,
             },
             {
               type: 'line',
-              label: 'Flow Stretch (30D Z-Score)',
-              data: zScores,
-              borderColor: themeColor,
+              label: 'ETF Price (NAV)',
+              data: prices,
+              borderColor: '#e6edf3',
               backgroundColor: 'transparent',
-              borderWidth: 1.5,
+              borderWidth: 2,
               pointRadius: 0,
               fill: false,
               tension: 0.1,
               yAxisID: 'y',
-              hidden: hiddenState['Flow Stretch (30D Z-Score)'] || false,
-            },
-            { type: 'line', label: '+1.5σ (Overbought)', data: labels.map(function () { return 1.5; }), borderColor: 'rgba(248,81,73,0.5)', borderWidth: 1, borderDash: [5,5], pointRadius: 0, fill: false, tension: 0, yAxisID: 'y', hidden: hiddenState['+1.5σ (Overbought)'] || false },
-            { type: 'line', label: '−1.5σ (Oversold)', data: labels.map(function () { return -1.5; }), borderColor: 'rgba(63,185,80,0.5)', borderWidth: 1, borderDash: [5,5], pointRadius: 0, fill: false, tension: 0, yAxisID: 'y', hidden: hiddenState['−1.5σ (Oversold)'] || false },
+              hidden: hiddenState['ETF Price (NAV)'] || false,
+            }
           ]
         },
         options: {
@@ -5252,15 +5261,15 @@
               callbacks: {
                 label: function (c) {
                   if (c.dataset.yAxisID === 'y1') return ' ' + c.dataset.label + ': $' + fmt(c.parsed.y);
-                  return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'σ' : '—');
+                  return ' ' + c.dataset.label + ': $' + (c.parsed.y != null ? c.parsed.y.toFixed(2) : '—');
                 }
               }
             },
           },
           scales: {
             x: { grid: { color: '#151a22' }, ticks: { maxTicksLimit: 10, font: { size: 11 }, callback: function (_, i) { return labels[i] ? labels[i].slice(0, 7) : ''; } } },
-            y: { position: 'left', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return v.toFixed(1) + 'σ'; } } },
-            y1: { position: 'right', grid: { drawOnChartArea: false }, ticks: { font: { size: 11 }, callback: function (v) { return '$' + (v / 1e6).toFixed(1) + 'M'; } } },
+            y: { position: 'right', grid: { color: '#151a22' }, ticks: { font: { size: 11 }, callback: function (v) { return '$' + v.toFixed(2); } } },
+            y1: { position: 'left', grid: { drawOnChartArea: false }, ticks: { font: { size: 11 }, callback: function (v) { return '$' + (v / 1e6).toFixed(1) + 'M'; } } },
           },
         },
       });
