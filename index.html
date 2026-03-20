@@ -5840,9 +5840,6 @@
       // ── Chart 3: Cumulative Flow ──
       const ctxCum = document.getElementById('flowCumChart').getContext('2d');
       destroyChart('flowCumChart');
-      const cumGrad = ctxCum.createLinearGradient(0, 0, 0, 240);
-      cumGrad.addColorStop(0, 'rgba(227, 179, 65, 0.2)');
-      cumGrad.addColorStop(1, 'rgba(227, 179, 65, 0)');
 
       chartRegistry['flowCumChart'] = new Chart(ctxCum, {
         type: 'line',
@@ -5851,8 +5848,27 @@
           datasets: [{
             label: 'Cumulative Net Flow',
             data: cumFlows,
-            borderColor: '#e3b341',
-            backgroundColor: cumGrad,
+            borderColor: '#58a6ff', // Default blue, will be overridden by segments
+            segment: {
+              borderColor: ctx => {
+                const p1 = ctx.p1.parsed.y;
+                return p1 > 0 ? '#3fb950' : (p1 < 0 ? '#f85149' : '#8b949e');
+              }
+            },
+            backgroundColor: function(context) {
+              const chart = context.chart;
+              const {ctx, chartArea} = chart;
+              if (!chartArea) return null;
+              const zeroPos = chart.scales.y.getPixelForValue(0);
+              const grad = ctx.createLinearGradient(0, chartArea.top, 0, chartArea.bottom);
+              const zeroPct = (zeroPos - chartArea.top) / (chartArea.bottom - chartArea.top);
+              // Green for surplus, Red for deficit
+              grad.addColorStop(0, 'rgba(63, 185, 80, 0.2)'); // Top (Positive)
+              grad.addColorStop(Math.max(0, Math.min(1, zeroPct)), 'rgba(63, 185, 80, 0.05)');
+              grad.addColorStop(Math.max(0, Math.min(1, zeroPct)), 'rgba(248, 81, 73, 0.05)');
+              grad.addColorStop(1, 'rgba(248, 81, 73, 0.2)'); // Bottom (Negative)
+              return grad;
+            },
             fill: true,
             borderWidth: 2,
             pointRadius: 0,
