@@ -2954,6 +2954,60 @@
           }, 80);
         }
       });
+
+      // ── Mobile touch support ──────────────────────────────────────────
+      // Touch devices have no hover, so we show the tooltip on tap
+      // and auto-dismiss after 3 seconds (or on a second tap anywhere).
+      let touchDismiss = null;
+
+      document.addEventListener('touchstart', function(e) {
+        const target = e.target.closest('[data-tooltip]');
+        if (!target) {
+          // Tap on non-tooltip area — hide any visible tooltip immediately
+          if (touchDismiss) { clearTimeout(touchDismiss); touchDismiss = null; }
+          tooltip.classList.remove('visible');
+          return;
+        }
+
+        e.preventDefault(); // prevent the ghost mouse-click that follows touch
+
+        const text = target.getAttribute('data-tooltip');
+        if (!text) return;
+
+        // Clear any running dismiss timer
+        if (touchDismiss) { clearTimeout(touchDismiss); touchDismiss = null; }
+
+        tooltip.textContent = text;
+        tooltip.classList.add('visible');
+
+        // Position centred horizontally, above the tapped element
+        const rect = target.getBoundingClientRect();
+        // Give the browser one frame to size the tooltip before positioning
+        requestAnimationFrame(() => {
+          const GAP = 12;
+          let top = rect.top - tooltip.offsetHeight - GAP + window.scrollY;
+          let left = rect.left + (rect.width / 2) - (tooltip.offsetWidth / 2);
+          // Flip below if no room above
+          if (rect.top - tooltip.offsetHeight - GAP < 8) {
+            top = rect.bottom + GAP + window.scrollY;
+          }
+          if (left < 8) left = 8;
+          if (left + tooltip.offsetWidth > window.innerWidth - 8) {
+            left = window.innerWidth - tooltip.offsetWidth - 8;
+          }
+          // Switch to absolute for scroll-aware positioning on mobile
+          tooltip.style.position = 'absolute';
+          tooltip.style.top = top + 'px';
+          tooltip.style.left = left + 'px';
+
+          // Auto-dismiss after 3 seconds
+          touchDismiss = setTimeout(() => {
+            tooltip.classList.remove('visible');
+            tooltip.style.position = ''; // restore fixed for desktop
+            touchDismiss = null;
+          }, 3000);
+        });
+      }, { passive: false });
     })();
   </script>
 
