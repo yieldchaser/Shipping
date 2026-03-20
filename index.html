@@ -2988,30 +2988,28 @@
         tooltip.textContent = text;
         tooltip.classList.add('visible');
 
-        // Position centred horizontally, above the tapped element
+        // Position centered horizontally, above the tapped element
         const rect = target.getBoundingClientRect();
         // Give the browser one frame to size the tooltip before positioning
         requestAnimationFrame(() => {
           const GAP = 12;
-          let top = rect.top - tooltip.offsetHeight - GAP + window.scrollY;
+          let top = rect.top - tooltip.offsetHeight - GAP;
           let left = rect.left + (rect.width / 2) - (tooltip.offsetWidth / 2);
+
           // Flip below if no room above
-          if (rect.top - tooltip.offsetHeight - GAP < 8) {
-            top = rect.bottom + GAP + window.scrollY;
+          if (top < 8) {
+            top = rect.bottom + GAP;
           }
           if (left < 8) left = 8;
           if (left + tooltip.offsetWidth > window.innerWidth - 8) {
             left = window.innerWidth - tooltip.offsetWidth - 8;
           }
-          // Switch to absolute for scroll-aware positioning on mobile
-          tooltip.style.position = 'absolute';
           tooltip.style.top = top + 'px';
           tooltip.style.left = left + 'px';
 
           // Auto-dismiss after 12 seconds
           touchDismiss = setTimeout(() => {
             tooltip.classList.remove('visible');
-            tooltip.style.position = ''; // restore fixed for desktop
             touchDismiss = null;
           }, 12000);
         });
