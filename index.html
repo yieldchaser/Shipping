@@ -5246,7 +5246,13 @@
         if (chart) {
           chart.data.labels = subLabels;
           chart.data.datasets[0].data = sub5d;
+          // IMPORTANT: Update bar colors to match the sliced timeframe
+          chart.data.datasets[0].backgroundColor = sub5d.map(function(v) { 
+            return v > 0 ? 'rgba(63,185,80,0.5)' : 'rgba(248,81,73,0.5)'; 
+          });
           chart.data.datasets[1].data = subPrices;
+          // Ensure line stays blue and on top
+          chart.data.datasets[1].borderColor = '#58a6ff';
           chart.update('none');
         }
       });
