@@ -2404,7 +2404,7 @@
         <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;margin-top:10px;">ETF NAV Price ($)</div>
         <div class="chart-canvas-wrap" style="height:240px;margin-bottom:12px;"><canvas id="flowPriceChart"></canvas></div>
         
-        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;">Daily Net Flow — Inflow / Outflow ($)</div>
+        <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;" data-tooltip="Daily Net Flow — each bar is a single day's net share creation/redemption in USD. Green bars = Authorized Participants created new ETF shares that day (net buying of underlying FFA futures). Red bars = APs redeemed shares (net selling). Large isolated red bars after a price rally often signal distribution; large green bars after a selloff signal accumulation.">Daily Net Flow — Inflow / Outflow ($)</div>
         <div class="chart-canvas-wrap" style="height:180px;margin-bottom:12px;"><canvas id="flowDailyChart"></canvas></div>
         
         <div style="font-size:11px;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.4px;margin-bottom:6px;" data-tooltip="Cumulative Net Flow ($) — running total of all daily creations minus redemptions. Recalculated to $0 at the left edge of the selected window. A persistently rising line = institutional capital building a position. A sharply falling line = institutional exit.">Cumulative Net Flow ($)</div>
