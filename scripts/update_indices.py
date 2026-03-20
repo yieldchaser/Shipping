@@ -171,7 +171,7 @@ def update_solactive_csv(filename, latest_row):
     combined = combined.sort_values('date')
     combined['date'] = combined['date'].dt.strftime('%d-%m-%Y')
     combined.to_csv(filename, index=False)
-    print(f"{filename}: Appended {latest_date.date()} → value {latest_row['value'].iloc[0]}")
+    print(f"{filename}: Appended {latest_date.date()} -> value {latest_row['value'].iloc[0]}")
 
 
 def get_last_trading_day():
@@ -365,7 +365,7 @@ def update_amplify_csv(filename, latest_row):
     # Write dates as DD-MM-YYYY to stay consistent with dashboard parser
     combined['Rate Date'] = combined['Rate Date'].dt.strftime('%d-%m-%Y')
     combined.to_csv(filename, index=False)
-    print(f"{filename}: Appended {latest_date.date()} → P/D {latest_row['Premium/Discount'].iloc[0]}")
+    print(f"{filename}: Appended {latest_date.date()} -> P/D {latest_row['Premium/Discount'].iloc[0]}")
 
 # ── SGX FFA FUTURES ───────────────────────────────────────────────────────────
 
