@@ -37,6 +37,7 @@ from datetime import date, datetime
 from pathlib import Path
 
 from playwright.async_api import async_playwright
+from playwright_stealth import Stealth
 
 URL = "https://www.balticexchange.com/en/index.html"
 
@@ -63,14 +64,9 @@ async def scrape_live() -> dict:
     """Returns {code: value} for all ticker indices."""
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context(
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/122.0.0.0 Safari/537.36"
-            )
-        )
+        context = await browser.new_context()
         page = await context.new_page()
+        await Stealth().use_async(page)
         print(f"[->] Loading {URL}")
         await page.goto(URL, wait_until="load", timeout=60_000)
         await page.wait_for_timeout(3_000)

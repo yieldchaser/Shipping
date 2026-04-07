@@ -35,7 +35,7 @@ jobs:
 
     - name: Install Playwright for new indices
       run: |
-        pip install playwright
+        pip install playwright playwright-stealth
         playwright install --with-deps chromium
 
     - name: Run Baltic new indices scraper (BLNG, BLPG, FBX, BAI)
