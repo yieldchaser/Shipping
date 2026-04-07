@@ -72,8 +72,17 @@ async def scrape_live() -> dict:
         )
         page = await context.new_page()
         print(f"[->] Loading {URL}")
-        await page.goto(URL, wait_until="networkidle", timeout=60_000)
+        await page.goto(URL, wait_until="load", timeout=60_000)
         await page.wait_for_timeout(3_000)
+
+        # Diagnostics — helps identify Cloudflare blocks or empty pages in CI
+        page_title = await page.title()
+        html_content = await page.content()
+        print(f"[dbg] Page title: {page_title!r}")
+        print(f"[dbg] HTML length: {len(html_content)} chars")
+        if "just a moment" in page_title.lower() or len(html_content) < 5_000:
+            print("[!]  Possible bot-block or empty page — check debug_scrape.png")
+            await page.screenshot(path="debug_scrape.png")
 
         tickets = await page.query_selector_all("#ticker .ticket")
         print(f"[ok] Found {len(tickets)} ticker items")
@@ -104,9 +113,10 @@ def load_anchor_csv(path: Path) -> dict:
             try:
                 val  = float(str(row.get("Index", row.get("index", ""))).replace(",", ""))
                 dstr = row.get("Date", row.get("date", "")).strip()
-                mapping[val] = dstr
+                mapping[val] = dstr  # last (most-recent) row wins on duplicate values
             except (ValueError, TypeError):
                 continue
+    print(f"[dbg] Loaded {len(mapping)} unique values from {path.name}")
     return mapping
 
 def find_date(live_values: dict, repo_root: Path) -> tuple[str, str]:
