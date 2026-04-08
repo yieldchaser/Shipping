@@ -3,7 +3,7 @@
 > *"I am a Man of Fortune, and I must seek my Fortune."*  
 > — Henry Avery, 1694
 
-A fully automated, zero-infrastructure shipping freight intelligence platform. Tracks Baltic freight indices, shipping ETF holdings, and a proprietary dry bulk composite — surfaced through a multi-tab analytical dashboard built entirely in a single `index.html` file.
+A fully automated, zero-infrastructure shipping intelligence platform. It now combines a browser-based freight dashboard, automated market-data scrapers, and a repo-native knowledge base compiler for shipping reports and reference books.
 
 **No server. No build step. No cost.**
 
@@ -18,16 +18,38 @@ Open `index.html` in any browser, or visit the GitHub Pages URL.
 
 ## How It Works (Self-Sustaining)
 
-The system runs entirely on its own via two GitHub Actions workflows:
+The repository now maintains itself through four GitHub Actions workflows:
 
 | Workflow | Schedule | What it does |
 |---|---|---|
-| `daily_update.yml` | **2 PM + 7 PM UTC daily** | Scrapes all 6 Baltic indices from stockq.org, deduplicates by date, appends new rows, commits `*_historical.csv` |
+| `daily_update.yml` | **10:30 AM + 2 PM + 7 PM + 10 PM UTC daily** | Scrapes Baltic indices, SGX freight futures, and ETF fund-flow snapshots; deduplicates and commits updated CSVs |
 | `etf_holdings_update.yml` | **2 PM UTC Mon–Fri** | Downloads the master Amplify ETF holdings CSV, extracts BDRY and BWET, sorts by vessel class → contract month, commits `*_holdings.csv` |
+| `process_knowledge.yml` | **On `reports/**` push + manual dispatch** | Compiles source PDFs/HTML into normalized markdown docs, retrieval chunks, manifests, and derived artifacts under `knowledge/` |
+| `daily_knowledge_update.yml` | **3:30 PM UTC daily + manual dispatch** | Checks whether `reports/` contains anything newer than the knowledge manifest and runs an incremental rebuild when needed |
 
-Both workflows are **idempotent** — safe to re-run at any time. Duplicate rows are deduplicated by date before writing. Both workflows pull the latest remote state before running to prevent push conflicts.
+All four workflows are **idempotent** — safe to re-run at any time. The data-update jobs keep the dashboard fresh, while the knowledge jobs keep the research corpus fresh. Each workflow pulls the latest remote state before writing to reduce push conflicts.
 
-The dashboard itself fetches everything client-side at page load — no backend, no API keys, no secrets required by the browser.
+The dashboard itself still fetches everything client-side at page load — no backend, no browser-side secrets. The only secret used in automation is `GEMINI_API_KEY`, consumed server-side by the knowledge pipeline for Breakwave enrichment and fallback extraction.
+
+---
+
+## Knowledge Base
+
+The repo now includes an incremental shipping intelligence knowledge layer built from:
+
+- Breakwave Advisors bi-weekly dry bulk and tanker PDFs
+- Baltic Exchange weekly HTML roundups across dry, tanker, gas, container, and Ningbo
+- A local library of shipping reference books stored in `reports/`
+
+Knowledge outputs live under `knowledge/`:
+
+- `knowledge/docs/` - normalized markdown documents with YAML frontmatter
+- `knowledge/chunks/` - JSONL retrieval chunks with token counts and keywords
+- `knowledge/manifests/` - document inventory, source registry, and error logs
+- `knowledge/derived/` - extracted signals, themes, and timeline artifacts
+- `knowledge/CLAUDE.md` - schema and query contract for downstream agents/tools
+
+The compiler is `scripts/process_knowledge.py`, and corpus validation is handled by `scripts/validate_knowledge.py`.
 
 ---
 
@@ -97,11 +119,15 @@ Shipping/
 ├── sgx_supramax_futures.csv            # SGX Supramax FFA futures curve
 ├── sgx_handysize_futures.csv           # SGX Handysize FFA futures curve
 │
+├── requirements_knowledge.txt          # Python deps for the knowledge compiler
+│
 ├── scripts/
-│   ├── update_indices.py               # Baltic index scraper (all 6 indices + SGX FFA)
+│   ├── update_indices.py               # Baltic index + SGX futures + flow scraper
 │   ├── update_etf_holdings.py          # ETF holdings scraper (BDRY & BWET)
 │   ├── baltic_scraper.py               # Baltic Exchange Weekly report scraper
-│   └── breakwave_scraper.py            # Breakwave Advisors biweekly report scraper
+│   ├── breakwave_scraper.py            # Breakwave Advisors biweekly report scraper
+│   ├── process_knowledge.py            # Incremental knowledge compiler
+│   └── validate_knowledge.py           # Knowledge corpus validator
 │
 ├── assets/
 │   ├── BDRY_Export-Map-1024x548.webp   # Dry bulk trade route map (ETF tab)
@@ -114,11 +140,20 @@ Shipping/
 ├── docs/
 │   └── Shipping_Main.xlsm              # Offline Excel workbook (same CSV data)
 │
-├── reports/                            # Downloaded PDF market reports from Baltic & Breakwave
+├── reports/                            # Source PDFs, HTML roundups, and reference books
+│
+├── knowledge/
+│   ├── CLAUDE.md                       # Knowledge schema + query contract
+│   ├── docs/                           # Normalized markdown documents
+│   ├── chunks/                         # JSONL retrieval chunks
+│   ├── manifests/                      # Document/source/error manifests
+│   └── derived/                        # Signals, themes, timelines
 │
 └── .github/workflows/
     ├── daily_update.yml                # Cron: 10:30 AM + 2/7/10 PM UTC daily
-    └── etf_holdings_update.yml         # Cron: 2 PM UTC Mon–Fri
+    ├── etf_holdings_update.yml         # Cron: 2 PM UTC Mon–Fri
+    ├── process_knowledge.yml           # On reports push + manual full/incremental build
+    └── daily_knowledge_update.yml      # Cron: 3:30 PM UTC daily incremental knowledge check
 ```
 
 ---
@@ -336,32 +371,57 @@ As a zero-infrastructure platform processing thousands of data points client-sid
 - Validates `Market_Value` as numeric before any arithmetic
 - Idempotent — overwrites the output file each run
 
+### `scripts/process_knowledge.py`
+
+- Incrementally compiles `reports/` into `knowledge/docs/`, `knowledge/chunks/`, `knowledge/manifests/`, and `knowledge/derived/`
+- Supports `--source`, `--rebuild`, `--no-llm`, and `--derived-only`
+- Skips already-processed documents unless a rebuild is explicitly requested
+- Uses Gemini only for server-side Breakwave enrichment and regex-fallback signal extraction
+- Preserves source attribution via stable `doc_id`, `source_path`, and chunk metadata
+
+### `scripts/validate_knowledge.py`
+
+- Verifies source-file counts against processed documents
+- Checks chunk-file readability and derived signal coverage
+- Loads frontmatter from generated markdown docs to catch schema gaps
+- Provides a fast corpus health summary after rebuilds or workflow runs
+
 ### GitHub Actions Schedules
 
 | Workflow | Cron | Rationale |
 |---|---|---|
-| `daily_update.yml` | `0 14,19 * * *` | Runs at 2 PM UTC (2 hrs after BDI ~12:00 UTC publish) and 7 PM UTC |
+| `daily_update.yml` | `30 10 * * *` + `0 14,19,22 * * *` | Updates core freight indices, SGX futures, and ETF flow snapshots multiple times per day |
 | `etf_holdings_update.yml` | `0 14 * * 1-5` | Runs at 2 PM UTC Mon–Fri after Amplify publishes updated holdings |
+| `process_knowledge.yml` | Event-driven / manual | Rebuilds all or selected knowledge sources when `reports/` changes |
+| `daily_knowledge_update.yml` | `30 15 * * *` | Runs a lightweight daily check and incrementally refreshes knowledge when newer source files exist |
 
-Both workflows: pull latest before running (prevents push conflicts on concurrent runs), use explicit file paths for `git add` (prevents staging unintended files), include `GITHUB_TOKEN` in checkout for write access.
+All workflows pull latest before writing, use `GITHUB_TOKEN` checkout for write access, and are safe to re-run.
 
 ---
 
-## Running Scrapers Locally
+## Running Pipelines Locally
 
 ```bash
 pip install requests beautifulsoup4 pandas lxml selenium weasyprint
+pip install -r requirements_knowledge.txt
 
 # Core Data
 python scripts/update_indices.py        # update all 6 Baltic indices + SGX FFA futures
 python scripts/update_etf_holdings.py   # update BDRY and BWET holdings
 
-# Report PDF Scrapers
+# Source Archive Scrapers
 python scripts/breakwave_scraper.py     # Pulls Breakwave Advisors PDFs
-python scripts/baltic_scraper.py        # Pulls Baltic weekly roundup PDFs
+python scripts/baltic_scraper.py        # Pulls Baltic weekly roundup files
+
+# Knowledge Build
+python scripts/process_knowledge.py --source books --no-llm
+python scripts/process_knowledge.py --source breakwave
+python scripts/process_knowledge.py --source baltic --no-llm
+python scripts/process_knowledge.py --derived-only
+python scripts/validate_knowledge.py
 ```
 
-Both scripts are safe to re-run at any time.
+The data scripts are safe to re-run at any time. The knowledge compiler is incremental by default; use `--rebuild` only when you want to regenerate `knowledge/` from scratch.
 
 ---
 
@@ -381,6 +441,12 @@ Both scripts are safe to re-run at any time.
 requests · beautifulsoup4 · pandas · lxml
 ```
 
+### Knowledge Compiler
+
+```
+pdfplumber · beautifulsoup4 · lxml · google-generativeai · tiktoken · python-frontmatter · python-dotenv
+```
+
 ---
 
 ## Data Sources
@@ -391,6 +457,9 @@ requests · beautifulsoup4 · pandas · lxml
 | BDRY / BWET FFA holdings | [amplifyetfs.com](https://amplifyetfs.com) | Daily Mon–Fri via GitHub Actions |
 | BDRY / BWET live price + NAV | Yahoo Finance v8 API (via CORS proxy) | On ETF tab open |
 | BDRY liquidity history | Yahoo Finance v8 API (via CORS proxy) | On ETF tab open (`range=10y`) |
+| Breakwave dry bulk and tanker reports | Breakwave Advisors PDF archive in `reports/` | Incremental knowledge build on report changes |
+| Baltic dry/tanker/gas/container/Ningbo roundups | Baltic Exchange HTML archive in `reports/baltic/` | Daily incremental knowledge check |
+| Shipping reference books | Local PDF library in `reports/` root | Static corpus; processed on demand or rebuild |
 
 ---
 
@@ -403,3 +472,4 @@ requests · beautifulsoup4 · pandas · lxml
 - The FFA term structure chart is only as fresh as the last `bdry_holdings.csv` / `bwet_holdings.csv` commit — check the commit timestamp to confirm
 - `Shipping_Main.xlsm` is an offline Excel workbook for ad-hoc analysis consuming the same CSV data
 - Capesize went briefly negative in 2020; the yearly Range % uses `(max−min)/avg` rather than `(max−min)/min` to avoid nonsensical outputs in such years
+- `GEMINI_API_KEY` is only needed for knowledge-workflow enrichment and local LLM-enabled Breakwave runs; the dashboard does not expose or require it
