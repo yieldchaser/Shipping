@@ -18,17 +18,18 @@ Open `index.html` in any browser, or visit the GitHub Pages URL.
 
 ## How It Works (Self-Sustaining)
 
-The repository now maintains itself through five GitHub Actions workflows:
+The repository now maintains itself through six GitHub Actions workflows:
 
 | Workflow | Schedule | What it does |
 |---|---|---|
 | `daily_update.yml` | **10:30 AM + 2 PM + 7 PM + 10 PM UTC daily** | Scrapes Baltic indices, SGX freight futures, and ETF fund-flow snapshots; deduplicates and commits updated CSVs |
-| `etf_holdings_update.yml` | **2 PM UTC Mon–Fri** | Downloads the master Amplify ETF holdings CSV, extracts BDRY and BWET, sorts by vessel class → contract month, commits `*_holdings.csv` |
+| `baltic_new_indices_update.yml` | **10:30 AM + 2 PM + 7 PM + 10 PM UTC Mon-Fri** | Updates BLNG, BLPG, FBX, and BAI from the Baltic ticker API and validates the local CSV tails before committing |
+| `etf_holdings_update.yml` | **2 PM UTC Mon-Fri** | Downloads the master Amplify ETF holdings CSV, extracts BDRY and BWET, sorts by vessel class to contract month, commits `*_holdings.csv` |
 | `report_ingest.yml` | **8 AM + 12 PM + 4 PM UTC Mon–Fri** | Checks Breakwave and Baltic report pages, downloads any newly published source reports into `reports/`, and pushes them to the repo |
 | `process_knowledge.yml` | **On `reports/**` push + manual dispatch** | Compiles source PDFs/HTML into normalized markdown docs, retrieval chunks, manifests, and derived artifacts under `knowledge/` |
 | `daily_knowledge_update.yml` | **3:30 PM UTC daily + manual dispatch** | Checks whether `reports/` contains anything newer than the knowledge manifest and runs an incremental rebuild when needed |
 
-All five workflows are **idempotent** — safe to re-run at any time. The data-update jobs keep the dashboard fresh, `report_ingest.yml` keeps the source archive fresh, and the knowledge jobs keep the research corpus fresh. Each workflow pulls the latest remote state before writing to reduce push conflicts.
+All six workflows are **idempotent** — safe to re-run at any time. The data-update jobs keep the dashboard fresh, `report_ingest.yml` keeps the source archive fresh, and the knowledge jobs keep the research corpus fresh. Each workflow pulls the latest remote state before writing to reduce push conflicts.
 
 The dashboard itself still fetches everything client-side at page load — no backend, no browser-side secrets. The only secret used in automation is `GEMINI_API_KEY`, consumed server-side by the knowledge pipeline for Breakwave enrichment and fallback extraction.
 
@@ -152,6 +153,7 @@ Shipping/
 │
 └── .github/workflows/
     ├── daily_update.yml                # Cron: 10:30 AM + 2/7/10 PM UTC daily
+    ├── baltic_new_indices_update.yml   # Cron: 10:30 AM + 2/7/10 PM UTC Mon–Fri
     ├── etf_holdings_update.yml         # Cron: 2 PM UTC Mon–Fri
     ├── report_ingest.yml               # Cron: 8 AM / 12 PM / 4 PM UTC Mon–Fri
     ├── process_knowledge.yml           # On reports push + manual full/incremental build
@@ -395,11 +397,19 @@ As a zero-infrastructure platform processing thousands of data points client-sid
 - Skip already-saved report files on repeat runs
 - Feed the knowledge system automatically through `report_ingest.yml` + `process_knowledge.yml`
 
+### `scripts/baltic_new_indices.py`
+
+- Fetches BLNG, BLPG, FBX, and BAI directly from the Baltic public ticker API
+- Uses each series' own published `indexDate` rather than forcing a shared market date
+- Upserts same-date rows safely if the source revises a value
+- Validates local CSV tails against the live API after every run so stale series fail loudly instead of silently
+
 ### GitHub Actions Schedules
 
 | Workflow | Cron | Rationale |
 |---|---|---|
 | `daily_update.yml` | `30 10 * * *` + `0 14,19,22 * * *` | Updates core freight indices, SGX futures, and ETF flow snapshots multiple times per day |
+| `baltic_new_indices_update.yml` | `30 10 * * 1-5` + `0 14,19,22 * * 1-5` | Keeps BLNG, BLPG, FBX, and BAI synchronized to the live Baltic ticker API with explicit validation |
 | `etf_holdings_update.yml` | `0 14 * * 1-5` | Runs at 2 PM UTC Mon–Fri after Amplify publishes updated holdings |
 | `report_ingest.yml` | `0 8,12,16 * * 1-5` | Polls source report pages during the trading week so newly released reports land in `reports/` automatically |
 | `process_knowledge.yml` | Event-driven / manual | Rebuilds all or selected knowledge sources when `reports/` changes |

@@ -1,0 +1,47 @@
+name: Baltic New Indices Update
+
+on:
+  schedule:
+    - cron: '30 10 * * 1-5'
+    - cron: '0 14,19,22 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: baltic-new-indices
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Pull latest before run
+      run: git pull --rebase origin main
+
+    - name: Run Baltic new indices scraper
+      run: python scripts/baltic_new_indices.py --repo .
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add blng_historical.csv blpg_historical.csv fbx_historical.csv bai_historical.csv
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update Baltic new indices $(date +'%Y-%m-%d %H:%M UTC')"
+        git pull --rebase origin main || echo "Nothing to pull or pull failed"
+        git push
