@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: knowledge-pipeline
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -45,6 +49,10 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/process_knowledge.py
+
+      - name: Validate updated knowledge
+        if: steps.check.outputs.new == 'true'
+        run: python scripts/validate_knowledge.py
 
       - name: Commit if changes
         if: steps.check.outputs.new == 'true'

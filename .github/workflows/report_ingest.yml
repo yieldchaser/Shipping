@@ -1,0 +1,76 @@
+name: Ingest Market Reports
+
+on:
+  schedule:
+    - cron: '0 8,12,16 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      source:
+        description: 'Source: breakwave | baltic | all'
+        default: 'all'
+      year:
+        description: 'UTC year or auto'
+        default: 'auto'
+      dry_run:
+        description: 'Dry run: true | false'
+        default: 'false'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: report-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - uses: browser-actions/setup-chrome@v1
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml selenium
+
+      - name: Pull latest
+        run: git pull origin main --rebase
+
+      - name: Run report scrapers
+        shell: bash
+        run: |
+          YEAR_INPUT="${{ github.event.inputs.year || 'auto' }}"
+          YEAR="$YEAR_INPUT"
+          if [ -z "$YEAR" ] || [ "$YEAR" = "auto" ]; then
+            YEAR="$(date -u +%Y)"
+          fi
+          SOURCE="${{ github.event.inputs.source || 'all' }}"
+          DRY_RUN="${{ github.event.inputs.dry_run || 'false' }}"
+          FLAGS="--year $YEAR"
+          [ "$DRY_RUN" = "true" ] && FLAGS="$FLAGS --dry-run"
+
+          if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "breakwave" ]; then
+            python scripts/breakwave_scraper.py $FLAGS
+          fi
+
+          if [ "$SOURCE" = "all" ] || [ "$SOURCE" = "baltic" ]; then
+            python scripts/baltic_scraper.py $FLAGS
+          fi
+
+      - name: Commit new reports
+        if: github.event.inputs.dry_run != 'true'
+        shell: bash
+        run: |
+          git config user.name "report-bot"
+          git config user.email "bot@shipping"
+          git add reports/
+          git diff --staged --quiet || git commit -m "reports: ingest latest market reports $(date -u +%Y-%m-%d)"
+          git push

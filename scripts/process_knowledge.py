@@ -232,17 +232,83 @@ def append_jsonl(path: Path, row: dict):
         handle.write(json.dumps(row, ensure_ascii=False) + "\n")
 
 
-def load_processed_index():
-    processed_doc_ids = set()
-    processed_sources = set()
-    for row in load_jsonl(DOCUMENTS_MANIFEST):
-        doc_id = row.get("doc_id")
+def load_manifest_rows() -> list[dict]:
+    return load_jsonl(DOCUMENTS_MANIFEST)
+
+
+def latest_rows_by_source(rows: list[dict]) -> dict[str, dict]:
+    latest = {}
+    for row in rows:
         source_path = row.get("source_path")
-        if doc_id:
-            processed_doc_ids.add(doc_id)
         if source_path:
-            processed_sources.add(source_path)
-    return processed_doc_ids, processed_sources
+            latest[source_path] = row
+    return latest
+
+
+def manifest_sort_key(row: dict):
+    return (
+        row.get("source") or "",
+        row.get("category") or "",
+        row.get("date") or "",
+        row.get("doc_id") or "",
+        row.get("source_path") or "",
+    )
+
+
+def write_manifest_rows(rows: list[dict]):
+    rows = sorted(latest_rows_by_source(rows).values(), key=manifest_sort_key)
+    DOCUMENTS_MANIFEST.parent.mkdir(parents=True, exist_ok=True)
+    DOCUMENTS_MANIFEST.write_text("", encoding="utf-8")
+    for row in rows:
+        append_jsonl(DOCUMENTS_MANIFEST, row)
+
+
+def rewrite_chunk_file(path: Path, removed_doc_ids: set[str]):
+    if not path.exists():
+        return
+    kept_rows = []
+    for row in load_jsonl(path):
+        if row.get("doc_id") not in removed_doc_ids:
+            kept_rows.append(row)
+    path.write_text("", encoding="utf-8")
+    for row in kept_rows:
+        append_jsonl(path, row)
+
+
+def remove_manifest_sources(rows: list[dict], source_paths: set[str]) -> list[dict]:
+    if not source_paths:
+        return rows
+
+    removed_rows = [row for row in rows if row.get("source_path") in source_paths]
+    kept_rows = [row for row in rows if row.get("source_path") not in source_paths]
+    kept_doc_paths = {row.get("doc_path") for row in kept_rows if row.get("doc_path")}
+    removed_doc_ids_by_chunk = {}
+
+    for row in removed_rows:
+        doc_path = row.get("doc_path")
+        if doc_path and doc_path not in kept_doc_paths:
+            target = REPO_ROOT / doc_path
+            if target.exists():
+                target.unlink()
+
+        chunk_file = row.get("chunk_file")
+        doc_id = row.get("doc_id")
+        if chunk_file and doc_id:
+            removed_doc_ids_by_chunk.setdefault(chunk_file, set()).add(doc_id)
+
+    for chunk_file, removed_doc_ids in removed_doc_ids_by_chunk.items():
+        rewrite_chunk_file(REPO_ROOT / chunk_file, removed_doc_ids)
+
+    return kept_rows
+
+
+def prune_missing_sources(rows: list[dict]) -> list[dict]:
+    missing_sources = set()
+    for row in rows:
+        source_path = row.get("source_path")
+        if source_path and not (REPO_ROOT / source_path).exists():
+            missing_sources.add(source_path)
+    return remove_manifest_sources(rows, missing_sources)
 
 
 def log_error(file_path: Path, error: str):
@@ -999,14 +1065,15 @@ def write_markdown_doc(path: Path, metadata: dict, body: str):
     path.write_text(frontmatter.dumps(post), encoding="utf-8")
 
 
-def process_file(source: str, category: str, path: Path, llm_enabled: bool):
+def adapt_source_file(source: str, category: str, path: Path, llm_enabled: bool):
     if source == "breakwave":
-        adapted = adapt_breakwave(path, category, llm_enabled)
-    elif source == "baltic":
-        adapted = adapt_baltic(path, category)
-    else:
-        adapted = adapt_book(path, llm_enabled)
+        return adapt_breakwave(path, category, llm_enabled)
+    if source == "baltic":
+        return adapt_baltic(path, category)
+    return adapt_book(path, llm_enabled)
 
+
+def process_file(path: Path, adapted: dict):
     metadata = adapted["metadata"]
     output_path = doc_output_path(metadata)
     body = build_doc_body(adapted)
@@ -1030,8 +1097,7 @@ def process_file(source: str, category: str, path: Path, llm_enabled: bool):
         "source_hash": source_hash(path),
         "processed_at": datetime.utcnow().isoformat(timespec="seconds") + "Z",
     }
-    append_jsonl(DOCUMENTS_MANIFEST, manifest_row)
-    return metadata, chunks
+    return metadata, chunks, manifest_row
 
 
 def build_derived():
@@ -1155,20 +1221,39 @@ def main():
             return 0
 
         llm_enabled = GEMINI is not None and not args.no_llm
-        _, processed_sources = load_processed_index()
+        manifest_rows = prune_missing_sources(load_manifest_rows())
+        write_manifest_rows(manifest_rows)
+        processed_index = latest_rows_by_source(manifest_rows)
         processed_count = 0
         skipped_count = 0
         error_count = 0
 
         for source, category, path in iter_source_files(args.source):
             source_rel = relpath(path)
-            if not args.rebuild and source_rel in processed_sources:
+            current_hash = source_hash(path)
+            existing_row = processed_index.get(source_rel)
+
+            if (
+                not args.rebuild
+                and existing_row
+                and existing_row.get("source_hash") == current_hash
+                and existing_row.get("doc_path")
+                and (REPO_ROOT / existing_row["doc_path"]).exists()
+            ):
                 skipped_count += 1
                 continue
 
             try:
-                metadata, _ = process_file(source, category, path, llm_enabled)
-                processed_sources.add(source_rel)
+                adapted = adapt_source_file(source, category, path, llm_enabled)
+                if existing_row:
+                    manifest_rows = remove_manifest_sources(manifest_rows, {source_rel})
+                    processed_index.pop(source_rel, None)
+                    write_manifest_rows(manifest_rows)
+
+                metadata, _, manifest_row = process_file(path, adapted)
+                manifest_rows.append(manifest_row)
+                write_manifest_rows(manifest_rows)
+                processed_index[source_rel] = manifest_row
                 processed_count += 1
                 print(f"[{source.upper()}] [{metadata.get('date') or metadata.get('title')}] ✓")
             except Exception as exc:

@@ -16,6 +16,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: knowledge-pipeline
+  cancel-in-progress: false
+
 jobs:
   process:
     runs-on: ubuntu-latest
@@ -47,6 +51,9 @@ jobs:
           [ "$SRC" != "all" ] && FLAGS="$FLAGS --source $SRC"
           [ "$RB" = "true" ] && FLAGS="$FLAGS --rebuild"
           python scripts/process_knowledge.py $FLAGS
+
+      - name: Validate knowledge artifacts
+        run: python scripts/validate_knowledge.py
 
       - name: Commit knowledge artifacts
         shell: bash

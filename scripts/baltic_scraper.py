@@ -1,8 +1,8 @@
 """
 Baltic Exchange Weekly Market Roundup Scraper  v3
 ======================================================================
-Uses Selenium to discover links (JS-rendered site), then requests+weasyprint
-to fetch and save each report as PDF.
+Uses Selenium to discover links on the JS-rendered site and save each report
+as a clean self-contained HTML snapshot.
 
 Changes in v3:
   - Completely rewritten year-filter logic: handles custom JS dropdowns
@@ -12,10 +12,10 @@ Changes in v3:
   - Other tabs: opens custom dropdown, cycles through each year option
 
 Output:
-  C:/Users/Dell/Github/Shipping/reports/baltic/{category}/{year}/{file}.pdf
+  C:/Users/Dell/Github/Shipping/reports/baltic/{category}/{year}/{file}.html
 
 Install:
-    pip install selenium requests beautifulsoup4 lxml weasyprint
+    pip install selenium requests beautifulsoup4 lxml
 
 Usage:
     python baltic_scraper.py                        # all categories
@@ -97,6 +97,11 @@ CATEGORIES = {
 
 session = requests.Session()
 session.headers.update(HEADERS)
+
+for stream_name in ("stdout", "stderr"):
+    stream = getattr(sys, stream_name, None)
+    if hasattr(stream, "reconfigure"):
+        stream.reconfigure(encoding="utf-8", errors="replace")
 
 
 def fetch_soup_with_driver(driver, url: str) -> "BeautifulSoup | None":
@@ -578,7 +583,7 @@ def extract_article_html(soup: BeautifulSoup, url: str, title: str,
 </body></html>"""
 
 
-def save_as_pdf(html: str, dest: Path) -> bool:
+def save_as_html_snapshot(html: str, dest: Path) -> bool:
     """Save as clean self-contained HTML — readable in browser, parseable by scripts."""
     out = dest.with_suffix(".html")
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -640,7 +645,7 @@ def process_report(url: str, cat: str, dry_run: bool, driver=None) -> bool:
         return True
 
     html = extract_article_html(soup, url, title, date)
-    return save_as_pdf(html, dest)
+    return save_as_html_snapshot(html, dest)
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -681,7 +686,7 @@ def run(categories: list, dry_run: bool, year_filter: "int | None",
         print(f"\n  {'─'*62}")
         print(f"  📂 {CATEGORIES[cat]['label']}  ({len(links)} reports)")
         print(f"  {'─'*62}")
-        dl_driver = None if dry_run else get_download_driver(headed=headed)
+        dl_driver = get_download_driver(headed=headed)
         try:
             for url in links:
                 yr = extract_year_from_url(url) or "?"

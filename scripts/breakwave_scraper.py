@@ -50,6 +50,7 @@ HEADERS = {
 
 PAGE_DELAY     = 1.5   # sec between page fetches
 DOWNLOAD_DELAY = 2.5   # sec between PDF downloads
+CURRENT_YEAR   = datetime.utcnow().year
 
 # ─────────────────────── Known archive pages ──────────────────────────────────
 # Keys are the year (int) or "current" for the /publications page
@@ -75,6 +76,11 @@ TANKER_PAGES = {
 
 session = requests.Session()
 session.headers.update(HEADERS)
+
+for stream_name in ("stdout", "stderr"):
+    stream = getattr(sys, stream_name, None)
+    if hasattr(stream, "reconfigure"):
+        stream.reconfigure(encoding="utf-8", errors="replace")
 
 # ─────────────────────────── Utilities ───────────────────────────────────────
 
@@ -279,7 +285,7 @@ def scrape_publications_page(category: str) -> list[dict]:
         if links:
             for a in links:
                 date = parse_date(a.get_text(strip=True))
-                if date and date.year >= 2026:
+                if date and date.year == CURRENT_YEAR:
                     items.append({"date": date, "href": a["href"], "source": url})
             break
 
@@ -305,9 +311,9 @@ def collect_links(category: str, year_filter: int | None = None) -> list[dict]:
 
     for key, path in pages.items():
         if year_filter:
-            # Only process the matching year (or "current" for 2026)
+            # Only process the matching year (or the current publications page).
             if key == "current":
-                if year_filter < 2026:
+                if year_filter < CURRENT_YEAR:
                     continue
             elif key != year_filter:
                 continue
