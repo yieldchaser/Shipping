@@ -15,6 +15,9 @@ SECTION_INDEX_PATH = KNOWLEDGE_ROOT / "derived" / "section_index.jsonl"
 TOPIC_EVIDENCE_PATH = KNOWLEDGE_ROOT / "derived" / "topic_evidence.jsonl"
 TOPIC_CONFIG_PATH = KNOWLEDGE_ROOT / "config" / "wiki_topics.json"
 WIKI_DIR = KNOWLEDGE_ROOT / "wiki"
+LINT_REPORT_PATH = KNOWLEDGE_ROOT / "manifests" / "lint_report.json"
+COVERAGE_REPORT_PATH = KNOWLEDGE_ROOT / "manifests" / "coverage_report.json"
+HEALTH_SUMMARY_PATH = KNOWLEDGE_ROOT / "reports" / "health_summary.md"
 COMPILER_VERSION = 2
 
 
@@ -474,6 +477,97 @@ def validate_wiki_pages(topic_ids: list[str]):
     }
 
 
+def validate_health_outputs(topic_ids: list[str]):
+    missing_files = []
+    malformed_files = []
+    invalid_payloads = []
+    warning_count = 0
+    high_severity_count = 0
+    divergence_count = 0
+
+    lint_report = None
+    coverage_report = None
+
+    if not LINT_REPORT_PATH.exists():
+        missing_files.append(LINT_REPORT_PATH.relative_to(REPO_ROOT).as_posix())
+    else:
+        try:
+            lint_report = json.loads(LINT_REPORT_PATH.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            malformed_files.append(LINT_REPORT_PATH.relative_to(REPO_ROOT).as_posix())
+
+    if not COVERAGE_REPORT_PATH.exists():
+        missing_files.append(COVERAGE_REPORT_PATH.relative_to(REPO_ROOT).as_posix())
+    else:
+        try:
+            coverage_report = json.loads(COVERAGE_REPORT_PATH.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            malformed_files.append(COVERAGE_REPORT_PATH.relative_to(REPO_ROOT).as_posix())
+
+    if not HEALTH_SUMMARY_PATH.exists():
+        missing_files.append(HEALTH_SUMMARY_PATH.relative_to(REPO_ROOT).as_posix())
+    else:
+        try:
+            summary = frontmatter.load(HEALTH_SUMMARY_PATH)
+            if summary.metadata.get("page_type") != "knowledge_health_summary":
+                invalid_payloads.append(HEALTH_SUMMARY_PATH.relative_to(REPO_ROOT).as_posix())
+        except Exception:
+            malformed_files.append(HEALTH_SUMMARY_PATH.relative_to(REPO_ROOT).as_posix())
+
+    if lint_report is not None:
+        for key in ["generated_at", "current_date", "warning_count", "warnings", "status_counts"]:
+            if key not in lint_report:
+                invalid_payloads.append(f"lint_report missing {key}")
+        warning_count = int(lint_report.get("warning_count") or 0)
+        high_severity_count = int(lint_report.get("high_severity_count") or 0)
+        warnings = lint_report.get("warnings", [])
+        if not isinstance(warnings, list):
+            invalid_payloads.append("lint_report warnings must be a list")
+        elif warning_count != len(warnings):
+            invalid_payloads.append("lint_report warning_count does not match warnings length")
+        else:
+            for row in warnings:
+                if not isinstance(row, dict):
+                    invalid_payloads.append("lint_report warning rows must be objects")
+                    break
+                for key in ["severity", "kind", "key", "message"]:
+                    if key not in row:
+                        invalid_payloads.append(f"lint_report warning missing {key}")
+                        break
+
+    if coverage_report is not None:
+        for key in ["generated_at", "current_date", "corpus", "sources", "topics", "divergences"]:
+            if key not in coverage_report:
+                invalid_payloads.append(f"coverage_report missing {key}")
+        topics = coverage_report.get("topics", [])
+        divergences = coverage_report.get("divergences", [])
+        divergence_count = len(divergences) if isinstance(divergences, list) else 0
+        if not isinstance(topics, list):
+            invalid_payloads.append("coverage_report topics must be a list")
+        else:
+            topic_id_set = {row.get("topic_id") for row in topics if isinstance(row, dict)}
+            if topic_id_set != set(topic_ids):
+                invalid_payloads.append("coverage_report topic ids do not match wiki topic config")
+        corpus = coverage_report.get("corpus", {})
+        if isinstance(corpus, dict):
+            expected_wiki_count = len(topic_ids)
+            if corpus.get("topic_count") != len(topic_ids):
+                invalid_payloads.append("coverage_report topic_count is inconsistent")
+            if corpus.get("wiki_page_count") != expected_wiki_count:
+                invalid_payloads.append("coverage_report wiki_page_count is inconsistent")
+        else:
+            invalid_payloads.append("coverage_report corpus must be an object")
+
+    return {
+        "missing_files": sorted(set(missing_files)),
+        "malformed_files": sorted(set(malformed_files)),
+        "invalid_payloads": sorted(set(invalid_payloads)),
+        "warning_count": warning_count,
+        "high_severity_count": high_severity_count,
+        "divergence_count": divergence_count,
+    }
+
+
 def count_signal_rows():
     rows, malformed = load_jsonl(SIGNALS_PATH)
     counts = {}
@@ -525,6 +619,7 @@ def main():
         {row.get("doc_id") for row in documents if row.get("doc_id")},
     )
     wiki_page_issues = validate_wiki_pages(topic_config_issues["topic_ids"])
+    health_report_issues = validate_health_outputs(topic_config_issues["topic_ids"])
     bad_frontmatter, breakwave_null_signals, section_count_mismatches = validate_frontmatter(
         documents,
         tree_issues["section_ids_by_doc"],
@@ -583,6 +678,12 @@ def main():
     print(f"Wiki pages missing citations: {len(wiki_page_issues['missing_citation_pages'])}")
     print(f"Unknown wiki pages: {len(wiki_page_issues['unknown_pages'])}")
     print(f"Missing wiki index: {int(wiki_page_issues['missing_index'])}")
+    print(f"Missing health outputs: {len(health_report_issues['missing_files'])}")
+    print(f"Malformed health outputs: {len(health_report_issues['malformed_files'])}")
+    print(f"Invalid health payloads: {len(health_report_issues['invalid_payloads'])}")
+    print(f"Knowledge health warnings: {health_report_issues['warning_count']}")
+    print(f"High-severity health warnings: {health_report_issues['high_severity_count']}")
+    print(f"Cross-source divergence flags: {health_report_issues['divergence_count']}")
     print(f"Frontmatter errors: {len(bad_frontmatter)}")
     print(f"Frontmatter section-count mismatches: {len(section_count_mismatches)}")
     print(f"Breakwave reports with null primary signal: {breakwave_null_signals}")
@@ -626,6 +727,9 @@ def main():
         + len(wiki_page_issues["missing_citation_pages"])
         + len(wiki_page_issues["unknown_pages"])
         + int(wiki_page_issues["missing_index"])
+        + len(health_report_issues["missing_files"])
+        + len(health_report_issues["malformed_files"])
+        + len(health_report_issues["invalid_payloads"])
         + len(bad_frontmatter)
         + len(section_count_mismatches)
         + breakwave_null_signals
@@ -659,6 +763,9 @@ def main():
         print_sample("Wiki pages with zero evidence:", wiki_page_issues["zero_evidence_pages"])
         print_sample("Wiki pages missing citations:", wiki_page_issues["missing_citation_pages"])
         print_sample("Unknown wiki pages:", wiki_page_issues["unknown_pages"])
+        print_sample("Missing health outputs:", health_report_issues["missing_files"])
+        print_sample("Malformed health outputs:", health_report_issues["malformed_files"])
+        print_sample("Invalid health payloads:", health_report_issues["invalid_payloads"])
         print_sample("Invalid frontmatter docs:", bad_frontmatter)
         print_sample("Frontmatter section-count mismatches:", section_count_mismatches)
         return 1

@@ -50,6 +50,7 @@ Knowledge outputs live under `knowledge/`:
 - `knowledge/chunks/` - JSONL retrieval chunks with stable section IDs, page spans, token counts, and keywords
 - `knowledge/trees/` - per-document section trees for explainable, section-first retrieval
 - `knowledge/wiki/` - topic pages compiled from cited evidence across the corpus
+- `knowledge/reports/` - generated knowledge-health summaries and operational diagnostics
 - `knowledge/manifests/` - document inventory, source registry, and error logs
 - `knowledge/derived/` - extracted signals, themes, section index, topic evidence, and timeline artifacts
 - `knowledge/CLAUDE.md` - schema and query contract for downstream agents/tools
@@ -134,6 +135,7 @@ Shipping/
 │   ├── breakwave_scraper.py            # Breakwave Advisors biweekly report scraper
 │   ├── process_knowledge.py            # Incremental knowledge compiler
 │   ├── build_wiki.py                   # Topic-evidence + wiki page generator
+│   ├── build_health_report.py          # Knowledge health / freshness / coverage reports
 │   └── validate_knowledge.py           # Knowledge corpus validator
 │
 ├── assets/
@@ -156,6 +158,7 @@ Shipping/
 │   ├── chunks/                         # JSONL retrieval chunks
 │   ├── trees/                          # Section trees for explainable retrieval
 │   ├── wiki/                           # Generated topic pages with citations
+│   ├── reports/                        # Knowledge health summaries
 │   ├── manifests/                      # Document/source/error manifests
 │   └── derived/                        # Signals, themes, section index, topic evidence, timelines
 │
@@ -390,7 +393,7 @@ As a zero-infrastructure platform processing thousands of data points client-sid
 - Skips already-processed documents unless a rebuild or schema upgrade is required
 - Reuses existing enriched frontmatter during structural upgrades so tree/index migrations do not re-spend LLM calls unnecessarily
 - Uses Gemini only for server-side Breakwave enrichment and regex-fallback signal extraction
-- Preserves source attribution via stable `doc_id`, `source_path`, section IDs, page-aware chunk metadata, and topic-evidence citations
+- Preserves source attribution via stable `doc_id`, `source_path`, section IDs, page-aware chunk metadata, topic-evidence citations, and knowledge-health reports
 
 ### `scripts/validate_knowledge.py`
 
@@ -398,7 +401,15 @@ As a zero-infrastructure platform processing thousands of data points client-sid
 - Checks chunk-file readability, tree integrity, section-index coverage, topic-evidence integrity, and derived signal coverage
 - Loads frontmatter from generated markdown docs to catch schema gaps and section-count mismatches
 - Confirms every configured wiki topic has evidence-backed markdown output with citations
+- Verifies the generated lint/coverage reports and health summary page
 - Provides a fast corpus health summary after rebuilds or workflow runs
+
+### `scripts/build_health_report.py`
+
+- Produces repo-native semantic linting and coverage diagnostics for the knowledge system
+- Tracks source freshness, expected-report cadence, topic freshness, recent source gaps, and cross-source divergence
+- Writes machine-readable JSON reports to `knowledge/manifests/` and a readable summary to `knowledge/reports/health_summary.md`
+- Keeps watch/stale conditions visible without turning normal operational warnings into hard validation failures
 
 ### `scripts/breakwave_scraper.py` + `scripts/baltic_scraper.py`
 
@@ -448,6 +459,7 @@ python scripts/process_knowledge.py --source books --no-llm
 python scripts/process_knowledge.py --source breakwave
 python scripts/process_knowledge.py --source baltic --no-llm
 python scripts/process_knowledge.py --derived-only
+python scripts/build_health_report.py
 python scripts/validate_knowledge.py
 ```
 

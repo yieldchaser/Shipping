@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import tiktoken
 import frontmatter
 from dotenv import load_dotenv
+from build_health_report import build_health_reports
 from build_wiki import build_wiki
 warnings.simplefilter("ignore", FutureWarning)
 import google.generativeai as genai
@@ -35,16 +36,20 @@ CHUNKS_DIR = KNOWLEDGE / "chunks"
 TREES_DIR = KNOWLEDGE / "trees"
 CONFIG_DIR = KNOWLEDGE / "config"
 WIKI_DIR = KNOWLEDGE / "wiki"
+KNOWLEDGE_REPORTS_DIR = KNOWLEDGE / "reports"
 MANIFESTS_DIR = KNOWLEDGE / "manifests"
 DERIVED_DIR = KNOWLEDGE / "derived"
 DOCUMENTS_MANIFEST = MANIFESTS_DIR / "documents.jsonl"
 ERRORS_MANIFEST = MANIFESTS_DIR / "errors.jsonl"
 SOURCES_MANIFEST = MANIFESTS_DIR / "sources.json"
+LINT_REPORT = MANIFESTS_DIR / "lint_report.json"
+COVERAGE_REPORT = MANIFESTS_DIR / "coverage_report.json"
 SIGNALS_DERIVED = DERIVED_DIR / "signals.jsonl"
 THEMES_DERIVED = DERIVED_DIR / "themes.jsonl"
 SECTION_INDEX_DERIVED = DERIVED_DIR / "section_index.jsonl"
 TOPIC_EVIDENCE_DERIVED = DERIVED_DIR / "topic_evidence.jsonl"
 TIMELINES_DERIVED = DERIVED_DIR / "timelines.json"
+HEALTH_SUMMARY = KNOWLEDGE_REPORTS_DIR / "health_summary.md"
 COMPILER_VERSION = 2
 
 BREAKWAVE_DRY_FIELDS = [
@@ -130,7 +135,7 @@ ISO_PREFIX_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})")
 
 
 def ensure_layout():
-    for path in [KNOWLEDGE, DOCS_DIR, CHUNKS_DIR, TREES_DIR, CONFIG_DIR, WIKI_DIR, MANIFESTS_DIR, DERIVED_DIR]:
+    for path in [KNOWLEDGE, DOCS_DIR, CHUNKS_DIR, TREES_DIR, CONFIG_DIR, WIKI_DIR, KNOWLEDGE_REPORTS_DIR, MANIFESTS_DIR, DERIVED_DIR]:
         path.mkdir(parents=True, exist_ok=True)
 
 
@@ -377,10 +382,10 @@ def log_error(file_path: Path, error: str):
 
 
 def clear_rebuild_outputs():
-    for path in [DOCS_DIR, CHUNKS_DIR, TREES_DIR, WIKI_DIR, DERIVED_DIR]:
+    for path in [DOCS_DIR, CHUNKS_DIR, TREES_DIR, WIKI_DIR, KNOWLEDGE_REPORTS_DIR, DERIVED_DIR]:
         if path.exists():
             shutil.rmtree(path)
-    for path in [DOCUMENTS_MANIFEST, ERRORS_MANIFEST, SOURCES_MANIFEST]:
+    for path in [DOCUMENTS_MANIFEST, ERRORS_MANIFEST, SOURCES_MANIFEST, LINT_REPORT, COVERAGE_REPORT]:
         if path.exists():
             path.unlink()
     ensure_layout()
@@ -1473,6 +1478,18 @@ def build_derived(llm_enabled: bool = False):
         output_path=TOPIC_EVIDENCE_DERIVED,
         generated_at=utc_now_iso(),
         llm_enabled=llm_enabled,
+    )
+    build_health_reports(
+        repo_root=REPO_ROOT,
+        reports_dir=KNOWLEDGE_REPORTS_DIR,
+        documents_manifest=DOCUMENTS_MANIFEST,
+        section_index_path=SECTION_INDEX_DERIVED,
+        topic_config_path=CONFIG_DIR / "wiki_topics.json",
+        topic_evidence_path=TOPIC_EVIDENCE_DERIVED,
+        lint_report_path=LINT_REPORT,
+        coverage_report_path=COVERAGE_REPORT,
+        summary_path=HEALTH_SUMMARY,
+        generated_at=utc_now_iso(),
     )
 
 

@@ -102,6 +102,11 @@ but the schema is hierarchical so later phases can add nested nodes without chan
 - `knowledge/config/wiki_topics.json` - topic definitions, scoring hints, and related-topic links
 - `knowledge/wiki/*.md` - generated evergreen topic pages with citations back to `doc_id` and `section_id`
 
+## Knowledge Health Layer
+- `knowledge/manifests/lint_report.json` - semantic linting warnings for source freshness, cadence gaps, topic freshness, and divergence
+- `knowledge/manifests/coverage_report.json` - corpus, source, topic, and divergence coverage metrics
+- `knowledge/reports/health_summary.md` - operator-friendly markdown summary of the current knowledge health
+
 ## Chunking Rules
 - Breakwave reports: chunk by natural sections (`Overview`, `Fundamentals`) at ~450 tokens with 60-token overlap
 - Baltic HTML: chunk by natural section heading; split if section > 600 tokens
@@ -116,8 +121,9 @@ but the schema is hierarchical so later phases can add nested nodes without chan
 6. Topic overviews: start with `knowledge/wiki/*.md`, then inspect the linked evidence rows in `knowledge/derived/topic_evidence.jsonl`.
 7. Signal queries: use `knowledge/derived/signals.jsonl`.
 8. Timeline queries: use `knowledge/derived/timelines.json`.
-9. Cross-source synthesis: retrieve from both Breakwave and Baltic, then align by ISO week.
-10. Always cite: source, date, doc_id, and section title or page span when available.
+9. Health/freshness checks: consult `knowledge/manifests/lint_report.json` and `knowledge/reports/health_summary.md` before assuming the corpus is up to date.
+10. Cross-source synthesis: retrieve from both Breakwave and Baltic, then align by ISO week.
+11. Always cite: source, date, doc_id, and section title or page span when available.
 
 ## Source Registry
 - breakwave/drybulk: 2018-present, bi-weekly (~26/year)
