@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-11-18_tanker-report-week-46_tanker.html
 source_stem: 2022-11-18_tanker-report-week-46_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf has been relatively static this week on the LRs. The TC1 index

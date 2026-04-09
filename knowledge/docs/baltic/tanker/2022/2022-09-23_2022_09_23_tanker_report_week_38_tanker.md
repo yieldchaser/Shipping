@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-09-23_tanker-report-week-38_tanker.html
 source_stem: 2022-09-23_tanker-report-week-38_tanker
+source_url: null
 summary: 'Clean
 
   Freight levels in the Middle East Gulf continued to tumble this week. TC1 shed 30

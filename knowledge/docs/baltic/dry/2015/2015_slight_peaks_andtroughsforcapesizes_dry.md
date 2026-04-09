@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2015/2015_slight-peaks-andtroughsforcapesizes_dry.html
 source_stem: 2015_slight-peaks-andtroughsforcapesizes_dry
+source_url: null
 summary: 'Capesize
 
   A week of slight peaks and troughs with the market struggling to maintain gains.

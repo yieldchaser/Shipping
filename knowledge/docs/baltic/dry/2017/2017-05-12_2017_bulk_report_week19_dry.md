@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week19_dry.html
 source_stem: 2017_bulk-report-week19_dry
+source_url: null
 summary: 'Capesize
 
   A positive end in a week that holidays disrupted trading. After much expectation

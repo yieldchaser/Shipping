@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-10-31_container-report-week-44_container.html
 source_stem: 2025-10-31_container-report-week-44_container
+source_url: null
 summary: 'Main
 
   Since mid-October, reciprocal port fees had been introduced by both the United States

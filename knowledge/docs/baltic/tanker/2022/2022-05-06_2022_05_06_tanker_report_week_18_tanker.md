@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-05-06_tanker-report-week-18_tanker.html
 source_stem: 2022-05-06_tanker-report-week-18_tanker
+source_url: null
 summary: 'Clean
 
   In the Middle East Gulf the LR market has continued to drive upwards this week.

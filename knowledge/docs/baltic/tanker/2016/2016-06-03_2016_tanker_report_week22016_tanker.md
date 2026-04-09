@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week22016_tanker.html
 source_stem: 2016_tanker-report-week22016_tanker
+source_url: null
 summary: 'VLCCs
 
   Rates from the Middle East Gulf have been in free fall this week, losing over 30

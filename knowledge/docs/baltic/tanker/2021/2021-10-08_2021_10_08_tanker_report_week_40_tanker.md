@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-10-08_tanker-report-week-40_tanker.html
 source_stem: 2021-10-08_tanker-report-week-40_tanker
+source_url: null
 summary: 'VLCC
 
   The Far Eastern holidays meant that activity eased back this week, although there

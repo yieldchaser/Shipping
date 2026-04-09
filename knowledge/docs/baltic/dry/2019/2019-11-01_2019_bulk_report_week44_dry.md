@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week44_dry.html
 source_stem: 2019_bulk-report-week44_dry
+source_url: null
 summary: 'Capesize
 
   The Capesize market meandered slightly upwards this week before giving back much

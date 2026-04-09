@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week7_dry.html
 source_stem: 2019_bulk-report-week7_dry
+source_url: null
 summary: 'Capesize
 
   Despite the focus on Vale and reduced Brazil exports, there were signs of further

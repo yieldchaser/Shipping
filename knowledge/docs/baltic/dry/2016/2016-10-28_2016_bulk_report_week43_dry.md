@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week43_dry.html
 source_stem: 2016_bulk-report-week43_dry
+source_url: null
 summary: 'Capesize
 
   After a gloomy start to the week there just a touch of optimism as the weekend approached.

@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week41_tanker.html
 source_stem: 2019_tanker-report-week41_tanker
+source_url: null
 summary: 'VLCC
 
   In the last few weeks we have mentioned huge market improvements. This week''s activity

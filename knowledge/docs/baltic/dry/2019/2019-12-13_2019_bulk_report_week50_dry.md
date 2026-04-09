@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week50_dry.html
 source_stem: 2019_bulk-report-week50_dry
+source_url: null
 summary: 'Capesize
 
   It was one-way traffic for the Capesize market this past week, with all routes giving

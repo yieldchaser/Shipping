@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week47_dry.html
 source_stem: 2017_bulk-report-week47_dry
+source_url: null
 summary: 'Capesize
 
   A strong end to the week with weather delays in China combined with stronger iron

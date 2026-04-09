@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week11_tanker.html
 source_stem: 2018_tanker-report-week11_tanker
+source_url: null
 summary: 'VLCCs
 
   An uneventful week in the Middle East Gulf has seen rates for 270,000 tonnes to

@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week35_tanker.html
 source_stem: 2017_tanker-report-week35_tanker
+source_url: null
 summary: 'VLCCs
 
   Rates for 270,000 tonnes to China have dipped down to around WS 39 for China discharge

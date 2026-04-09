@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-07-11_container-report-week-28_container.html
 source_stem: 2025-07-11_container-report-week-28_container
+source_url: null
 summary: 'Main
 
   With the pause in US tariffs over for now, we have seen a further gradual decline

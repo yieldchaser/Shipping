@@ -46,6 +46,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week41_dry.html
 source_stem: 2018_bulk-report-week41_dry
+source_url: null
 summary: 'Capesize
 
   A sharp reversal of fortunes for the big ships as the week closed after a depressed

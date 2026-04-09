@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week23_tanker.html
 source_stem: 2017_tanker-report-week23_tanker
+source_url: null
 summary: 'VLCCs
 
   The modest revival in the Middle East Gulf appears to have ground to a halt with

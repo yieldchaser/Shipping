@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week27_dry.html
 source_stem: 2018_bulk-report-week27_dry
+source_url: null
 summary: 'Capesize
 
   A punchy week for the big ships that saw Atlantic rates soar, with the tonnage list

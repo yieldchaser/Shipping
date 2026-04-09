@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020_tanker-report-week4_tanker.html
 source_stem: 2020_tanker-report-week4_tanker
+source_url: null
 summary: 'VLCC
 
   A busier week in the Middle East Gulf led to a slight softening of rates overall.

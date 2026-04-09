@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1205,
+  "token_count": 1212,
   "source_path": "reports/baltic/dry/2015/2015_week-35_dry.html",
   "source_url": null,
   "children": [
@@ -87,7 +87,7 @@
       "children": []
     },
     {
-      "node_id": "baltic_dry_2015-08-28_2015_week_35_dry__s03_supramax",
+      "node_id": "baltic_dry_2015-08-28_2015_week_35_dry__s04_supramax",
       "doc_id": "baltic_dry_2015-08-28_2015_week_35_dry",
       "parent_id": "baltic_dry_2015-08-28_2015_week_35_dry__root",
       "title": "Supramax",
@@ -96,7 +96,7 @@
       ],
       "section_path_text": "Supramax",
       "level": 1,
-      "ordinal": 3,
+      "ordinal": 4,
       "summary": "Still an active market but some drops this week on the Index. Period volume about the same with reports a 61,000 dwt vessel fixing 4/6 months from the Far East at $9,250 levels.",
       "keywords": [
         "supramax",
@@ -115,7 +115,7 @@
       "children": []
     },
     {
-      "node_id": "baltic_dry_2015-08-28_2015_week_35_dry__s04_handysize",
+      "node_id": "baltic_dry_2015-08-28_2015_week_35_dry__s05_handysize",
       "doc_id": "baltic_dry_2015-08-28_2015_week_35_dry",
       "parent_id": "baltic_dry_2015-08-28_2015_week_35_dry__root",
       "title": "Handysize",
@@ -124,7 +124,7 @@
       ],
       "section_path_text": "Handysize",
       "level": 1,
-      "ordinal": 4,
+      "ordinal": 5,
       "summary": "The index overall still moving upwards for all of the Atlantic routes. A 38,200 tonner concluded trip from Continent to South Africa at $12,000.",
       "keywords": [
         "capesize",

@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week1_dry.html
 source_stem: 2017_bulk-report-week1_dry
+source_url: null
 summary: 'Capesize
 
   A stronger than expected start to the year and so much healthier than most would

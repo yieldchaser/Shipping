@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week4_dry.html
 source_stem: 2019_bulk-report-week4_dry
+source_url: null
 summary: 'Capesize
 
   A week of dashed hopes for owners as the optimism evident the previous week evaporated.

@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2020/2020_bulk-report-week5_dry.html
 source_stem: 2020_bulk-report-week5_dry
+source_url: null
 summary: 'Capesize
 
   The week proved conspicuous for all the wrong reasons. This was the week when the

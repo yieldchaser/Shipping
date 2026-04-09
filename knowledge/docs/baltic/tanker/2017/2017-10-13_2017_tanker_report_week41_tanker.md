@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week41_tanker.html
 source_stem: 2017_tanker-report-week41_tanker
+source_url: null
 summary: 'VLCCs
 
   Middle East Gulf rates were up five points to WS 65/66 region for 270,000 tonnes

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-08-20_tanker-report-week-33_tanker.html
 source_stem: 2021-08-20_tanker-report-week-33_tanker
+source_url: null
 summary: 'VLCC
 
   The week began slowly in the Middle East to US Gulf (routing via the Cape/Cape)

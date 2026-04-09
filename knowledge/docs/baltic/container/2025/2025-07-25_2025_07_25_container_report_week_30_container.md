@@ -29,6 +29,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-07-25_container-report-week-30_container.html
 source_stem: 2025-07-25_container-report-week-30_container
+source_url: null
 summary: 'Main
 
   As we enter the summer lull, we wonder whether we have seen an early peak season

@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week16_tanker.html
 source_stem: 2018_tanker-report-week16_tanker
+source_url: null
 summary: 'VLCCs
 
   Another difficult week for owners in the Middle East Gulf saw rates hovering around

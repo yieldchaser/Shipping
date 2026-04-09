@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-11-12_tanker-report-week-45_tanker.html
 source_stem: 2021-11-12_tanker-report-week-45_tanker
+source_url: null
 summary: 'VLCC
 
   Rates eased again in the Middle East Gulf and Atlantic regions. For the 280,000mt

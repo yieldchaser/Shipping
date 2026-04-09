@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-11-13_tanker-report-week-46_tanker.html
 source_stem: 2020-11-13_tanker-report-week-46_tanker
+source_url: null
 summary: 'VLCC
 
   Another week of static rates in this sector although bunker prices have increased

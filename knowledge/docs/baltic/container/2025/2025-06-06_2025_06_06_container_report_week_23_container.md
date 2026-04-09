@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-06-06_container-report-week-23_container.html
 source_stem: 2025-06-06_container-report-week-23_container
+source_url: null
 summary: 'Main
 
   It''s been quite a week in the container market. We''ve seen rates double on some

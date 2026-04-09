@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week24_dry.html
 source_stem: 2018_bulk-report-week24_dry
+source_url: null
 summary: 'Capesize
 
   The Atlantic market improved this week, with increased activity from Brazil for

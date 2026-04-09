@@ -24,8 +24,8 @@
     "japan",
     "grain"
   ],
-  "page_start": null,
-  "page_end": null,
+  "page_start": 1,
+  "page_end": 20,
   "token_count": 16102,
   "source_path": "reports/2022-Quantitativemodellingofshippingfreightratesdevelopmentsinthepast20years.pdf",
   "source_url": null,
@@ -52,8 +52,8 @@
         "liu",
         "luqi"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 1,
+      "page_end": 1,
       "token_count": 219,
       "section_type": "chapter",
       "children": []
@@ -80,8 +80,8 @@
         "research",
         "methods"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 2,
+      "page_end": 3,
       "token_count": 1562,
       "section_type": "chapter",
       "children": []
@@ -108,8 +108,8 @@
         "economics",
         "objectives"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 4,
+      "page_end": 5,
       "token_count": 1130,
       "section_type": "chapter",
       "children": []
@@ -136,8 +136,8 @@
         "data",
         "dynamics"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 6,
+      "page_end": 7,
       "token_count": 1443,
       "section_type": "chapter",
       "children": []
@@ -164,8 +164,8 @@
         "mean",
         "are"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 8,
+      "page_end": 9,
       "token_count": 1235,
       "section_type": "chapter",
       "children": []
@@ -192,8 +192,8 @@
         "trade",
         "factors"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 10,
+      "page_end": 11,
       "token_count": 1963,
       "section_type": "chapter",
       "children": []
@@ -220,8 +220,8 @@
         "vessel",
         "adland"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 12,
+      "page_end": 13,
       "token_count": 1811,
       "section_type": "chapter",
       "children": []
@@ -248,8 +248,8 @@
         "university",
         "alizadeh"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 14,
+      "page_end": 15,
       "token_count": 679,
       "section_type": "chapter",
       "children": []
@@ -276,8 +276,8 @@
         "research",
         "doi"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 16,
+      "page_end": 17,
       "token_count": 1615,
       "section_type": "chapter",
       "children": []
@@ -304,8 +304,8 @@
         "doi",
         "maritime"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 18,
+      "page_end": 19,
       "token_count": 3579,
       "section_type": "chapter",
       "children": []
@@ -332,8 +332,8 @@
         "forecasting",
         "management"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 20,
+      "page_end": 20,
       "token_count": 759,
       "section_type": "chapter",
       "children": []

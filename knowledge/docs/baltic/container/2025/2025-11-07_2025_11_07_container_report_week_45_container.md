@@ -30,6 +30,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-11-07_container-report-week-45_container.html
 source_stem: 2025-11-07_container-report-week-45_container
+source_url: null
 summary: 'Main
 
   Last week we saw the USA and China agree on a 1 year pause on port fees to be imposed

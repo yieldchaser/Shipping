@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-11-20_tanker-report-week-47_tanker.html
 source_stem: 2020-11-20_tanker-report-week-47_tanker
+source_url: null
 summary: 'VLCC
 
   Rates remain rooted across much of the sector. In the Middle East, 280,000mt to

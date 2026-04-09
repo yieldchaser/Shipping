@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2015/2015_market-endures-panamaxshockduringdifficultwee_dry.html
 source_stem: 2015_market-endures-panamaxshockduringdifficultwee_dry
+source_url: null
 summary: 'Capesize
 
   Yet another depressing week for capesizes with rates slipping again in the East

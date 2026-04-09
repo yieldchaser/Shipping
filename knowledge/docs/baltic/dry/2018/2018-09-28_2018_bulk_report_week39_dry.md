@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week39_dry.html
 source_stem: 2018_bulk-report-week39_dry
+source_url: null
 summary: 'Capesize
 
   A stop-start market for the big ships with many expectations and few fulfilled.

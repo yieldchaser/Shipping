@@ -31,6 +31,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-06-20_container-report-week-25_container.html
 source_stem: 2025-06-20_container-report-week-25_container
+source_url: null
 summary: 'Main
 
   The liner market looks to have peaked for now, there has been a reduction in rates

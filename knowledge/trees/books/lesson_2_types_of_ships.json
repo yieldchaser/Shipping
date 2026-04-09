@@ -24,8 +24,8 @@
     "maritime",
     "source"
   ],
-  "page_start": null,
-  "page_end": null,
+  "page_start": 2,
+  "page_end": 38,
   "token_count": 2130,
   "source_path": "reports/Lesson-2-Types-of-Ships.pdf",
   "source_url": null,
@@ -52,8 +52,8 @@
         "all",
         "categories"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 2,
+      "page_end": 4,
       "token_count": 254,
       "section_type": "chapter",
       "children": []
@@ -80,8 +80,8 @@
         "carry",
         "cranes"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 5,
+      "page_end": 5,
       "token_count": 60,
       "section_type": "chapter",
       "children": []
@@ -108,8 +108,8 @@
         "chips",
         "cranes"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 6,
+      "page_end": 6,
       "token_count": 90,
       "section_type": "chapter",
       "children": []
@@ -136,8 +136,8 @@
         "cargo",
         "carrying"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 7,
+      "page_end": 7,
       "token_count": 76,
       "section_type": "chapter",
       "children": []
@@ -164,8 +164,8 @@
         "around",
         "boat"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 8,
+      "page_end": 8,
       "token_count": 80,
       "section_type": "chapter",
       "children": []
@@ -192,8 +192,8 @@
         "cement",
         "deck."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 9,
+      "page_end": 9,
       "token_count": 71,
       "section_type": "chapter",
       "children": []
@@ -220,8 +220,8 @@
         "are",
         "because"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 10,
+      "page_end": 10,
       "token_count": 93,
       "section_type": "chapter",
       "children": []
@@ -248,8 +248,8 @@
         "above",
         "because"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 11,
+      "page_end": 11,
       "token_count": 108,
       "section_type": "chapter",
       "children": []
@@ -276,8 +276,8 @@
         "carry",
         "are"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 12,
+      "page_end": 12,
       "token_count": 86,
       "section_type": "chapter",
       "children": []
@@ -304,8 +304,8 @@
         "but",
         "carry"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 13,
+      "page_end": 13,
       "token_count": 72,
       "section_type": "chapter",
       "children": []
@@ -332,8 +332,8 @@
         "difficult",
         "extremely"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 14,
+      "page_end": 14,
       "token_count": 73,
       "section_type": "chapter",
       "children": []
@@ -360,8 +360,8 @@
         "cable-laying",
         "development"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 15,
+      "page_end": 15,
       "token_count": 88,
       "section_type": "chapter",
       "children": []
@@ -388,8 +388,8 @@
         "you",
         "boats"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 16,
+      "page_end": 27,
       "token_count": 208,
       "section_type": "chapter",
       "children": []
@@ -416,8 +416,8 @@
         "move",
         "accounting"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 30,
+      "page_end": 31,
       "token_count": 219,
       "section_type": "chapter",
       "children": []
@@ -444,8 +444,8 @@
         "engineers",
         "installation"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 34,
+      "page_end": 34,
       "token_count": 45,
       "section_type": "chapter",
       "children": []
@@ -472,8 +472,8 @@
         "applicable",
         "are"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 35,
+      "page_end": 35,
       "token_count": 109,
       "section_type": "chapter",
       "children": []
@@ -500,8 +500,8 @@
         "maine",
         "marine"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 36,
+      "page_end": 36,
       "token_count": 54,
       "section_type": "chapter",
       "children": []
@@ -528,8 +528,8 @@
         "above",
         "aid"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 37,
+      "page_end": 37,
       "token_count": 128,
       "section_type": "chapter",
       "children": []
@@ -556,8 +556,8 @@
         "built",
         "carried"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 38,
+      "page_end": 38,
       "token_count": 85,
       "section_type": "chapter",
       "children": []

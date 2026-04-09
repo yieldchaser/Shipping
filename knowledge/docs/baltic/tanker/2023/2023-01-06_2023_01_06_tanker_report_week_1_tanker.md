@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-01-06_tanker-report-week-1_tanker.html
 source_stem: 2023-01-06_tanker-report-week-1_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf has been tested hard this week with fixing being conducted

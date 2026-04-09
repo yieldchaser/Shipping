@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week23_tanker.html
 source_stem: 2019_tanker-report-week23_tanker
+source_url: null
 summary: 'VLCC
 
   Rates have been shaved just a point or two over the course of the week, with 270,000mt

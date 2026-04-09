@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week39_dry.html
 source_stem: 2017_bulk-report-week39_dry
+source_url: null
 summary: 'Capesize
 
   The Moon Festival holidays this week failed to stimulate any significant fixing

@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_vlcc-tonnage-buildingwhilesuezmaxratesclimb_tanker.html
 source_stem: 2015_vlcc-tonnage-buildingwhilesuezmaxratesclimb_tanker
+source_url: null
 summary: 'VLCCs
 
   With open tonnage building up and fewer cargoes available, Middle East Gulf rates

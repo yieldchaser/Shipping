@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week35_dry.html
 source_stem: 2018_bulk-report-week35_dry
+source_url: null
 summary: 'Capesize
 
   A turnaround in fortunes for the big ships, with a few slower days in the market.

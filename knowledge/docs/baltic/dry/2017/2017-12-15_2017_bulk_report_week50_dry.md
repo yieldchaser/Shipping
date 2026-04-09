@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week50_dry.html
 source_stem: 2017_bulk-report-week50_dry
+source_url: null
 summary: 'Capesize
 
   Rates slipped as the week closed out with the Atlantic sharply lower while rates

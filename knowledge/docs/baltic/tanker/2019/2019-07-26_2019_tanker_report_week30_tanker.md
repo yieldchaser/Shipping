@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week30_tanker.html
 source_stem: 2019_tanker-report-week30_tanker
+source_url: null
 summary: 'VLCC
 
   Rates for 270,000mt Middle East Gulf to China lost a point to WS 42.5 with talk

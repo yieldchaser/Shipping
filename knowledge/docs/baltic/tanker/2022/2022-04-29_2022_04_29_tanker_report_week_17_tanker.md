@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-04-29_tanker-report-week-17_tanker.html
 source_stem: 2022-04-29_tanker-report-week-17_tanker
+source_url: null
 summary: 'Clean
 
   Upswings in freight for the majority of CPP vessels this week was highlighted by

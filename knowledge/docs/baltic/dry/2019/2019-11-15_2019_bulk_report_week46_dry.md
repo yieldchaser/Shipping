@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week46_dry.html
 source_stem: 2019_bulk-report-week46_dry
+source_url: null
 summary: 'Capesize
 
   For most of the week the rates were nudging up under a flurry of activity in the

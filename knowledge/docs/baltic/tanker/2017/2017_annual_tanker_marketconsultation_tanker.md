@@ -30,6 +30,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_annual-tanker-marketconsultation_tanker.html
 source_stem: 2017_annual-tanker-marketconsultation_tanker
+source_url: null
 summary: 'Main
 
   This will be the main opportunity of the year for members to discuss the routes

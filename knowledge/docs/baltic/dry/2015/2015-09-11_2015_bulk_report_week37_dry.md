@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2015/2015_bulk-report-week37_dry.html
 source_stem: 2015_bulk-report-week37_dry
+source_url: null
 summary: 'Capesize
 
   A good volume of cargo in the market but nevertheless rates eased, particularly

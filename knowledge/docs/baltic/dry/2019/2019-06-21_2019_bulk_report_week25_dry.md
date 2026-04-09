@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week25_dry.html
 source_stem: 2019_bulk-report-week25_dry
+source_url: null
 summary: 'Capesize
 
   The story over the past week has been largely Atlantic dominated as the basin''s

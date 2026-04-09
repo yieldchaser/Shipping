@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week10_dry.html
 source_stem: 2019_bulk-report-week10_dry
+source_url: null
 summary: 'Capesize
 
   A faint glimmer of hope with the suggestion the market may have finally bottomed

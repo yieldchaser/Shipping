@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week45_tanker.html
 source_stem: 2019_tanker-report-week45_tanker
+source_url: null
 summary: 'VLCC
 
   Rates slid again as the market continues its return to ‘normality''. 270,000mt Middle

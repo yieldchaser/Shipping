@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-06-17_tanker-report-week-24_tanker.html
 source_stem: 2022-06-17_tanker-report-week-24_tanker
+source_url: null
 summary: 'Clean
 
   The BCTI continued its impressive rise in recent months with the index finishing

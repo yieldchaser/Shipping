@@ -29,6 +29,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-07-18_container-report-week-29_container.html
 source_stem: 2025-07-18_container-report-week-29_container
+source_url: null
 summary: 'Main
 
   Container freight rates from China to the US have dropped over past weeks, returning

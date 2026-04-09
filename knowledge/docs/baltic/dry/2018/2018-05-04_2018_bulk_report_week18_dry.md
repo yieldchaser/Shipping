@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week18_dry.html
 source_stem: 2018_bulk-report-week18_dry
+source_url: null
 summary: 'Capesize
 
   A positive end to the week for the big ships with gains particularly in the East,

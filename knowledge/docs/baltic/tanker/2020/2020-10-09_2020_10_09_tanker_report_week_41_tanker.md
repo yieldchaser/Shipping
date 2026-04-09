@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-10-09_tanker-report-week-41_tanker.html
 source_stem: 2020-10-09_tanker-report-week-41_tanker
+source_url: null
 summary: 'VLCC
 
   Another week of mostly static rates. There were no changes in rates or sentiment

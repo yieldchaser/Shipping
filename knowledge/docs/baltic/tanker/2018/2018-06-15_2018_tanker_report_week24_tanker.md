@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week24_tanker.html
 source_stem: 2018_tanker-report-week24_tanker
+source_url: null
 summary: 'VLCCs
 
   Although the market in the ME Gulf to China had been steady in high WS 40s, there

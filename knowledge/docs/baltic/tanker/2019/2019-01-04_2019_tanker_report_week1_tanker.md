@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week1_tanker.html
 source_stem: 2019_tanker-report-week1_tanker
+source_url: null
 summary: 'VLCC
 
   The increase in 2019 Worldscale flat rates led naturally to big changes in the rates

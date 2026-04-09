@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020_tanker-report-week1_tanker.html
 source_stem: 2020_tanker-report-week1_tanker
+source_url: null
 summary: 'VLCC
 
   The introduction of the new higher 2020 Worldscale (WS) flat rates saw rates adjust

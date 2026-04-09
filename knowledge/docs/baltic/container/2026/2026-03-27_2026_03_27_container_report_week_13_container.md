@@ -32,6 +32,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2026/2026-03-27_container-report-week-13_container.html
 source_stem: 2026-03-27_container-report-week-13_container
+source_url: null
 summary: 'Container
 
   As we near the end of the fourth week of conflict in the Middle East Gulf, we see

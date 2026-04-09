@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week17_tanker.html
 source_stem: 2019_tanker-report-week17_tanker
+source_url: null
 summary: 'VLCC
 
   Last week''s brief rally fizzled out and the market for 270,000mt from the Middle

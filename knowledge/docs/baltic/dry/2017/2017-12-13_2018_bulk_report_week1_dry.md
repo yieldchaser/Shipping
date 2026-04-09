@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week1_dry.html
 source_stem: 2018_bulk-report-week1_dry
+source_url: null
 summary: 'Capesize
 
   After the dramatic fall in rates during the holiday period, the first full day saw

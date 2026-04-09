@@ -29,6 +29,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2026/2026-02-27_container-report-week-9_container.html
 source_stem: 2026-02-27_container-report-week-9_container
+source_url: null
 summary: 'Container
 
   Last Friday, the US Supreme Court ruled that President Trump did not have authority

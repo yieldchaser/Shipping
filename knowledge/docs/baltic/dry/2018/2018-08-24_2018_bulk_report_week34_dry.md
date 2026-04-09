@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week34_dry.html
 source_stem: 2018_bulk-report-week34_dry
+source_url: null
 summary: 'Capesize
 
   The Singapore holiday mid-week disrupted trading and unsettled the market, with

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-09-25_tanker-report-week-39_tanker.html
 source_stem: 2020-09-25_tanker-report-week-39_tanker
+source_url: null
 summary: 'VLCC
 
   Owners again faced another week of downward pressure across the board. In the Middle

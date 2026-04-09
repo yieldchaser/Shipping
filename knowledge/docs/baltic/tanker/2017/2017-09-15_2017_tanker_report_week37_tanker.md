@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week37_tanker.html
 source_stem: 2017_tanker-report-week37_tanker
+source_url: null
 summary: 'VLCCs
 
   After last week''s modest improvements in the market, limited demand has seen rates

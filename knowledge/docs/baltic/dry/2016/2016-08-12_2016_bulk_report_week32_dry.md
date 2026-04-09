@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week32_dry.html
 source_stem: 2016_bulk-report-week32_dry
+source_url: null
 summary: 'Capesize
 
   The week has ended positively with the major iron ore route C5 jumping up from around

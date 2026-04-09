@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week51_tanker.html
 source_stem: 2018_tanker-report-week51_tanker
+source_url: null
 summary: 'VLCC
 
   Middle East Gulf rates shed 3/3.5 points to WS 83/83.5 for 270,000mt to China. Going

@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-05-01_tanker-report---week-18_tanker.html
 source_stem: 2020-05-01_tanker-report---week-18_tanker
+source_url: null
 summary: 'VLCC
 
   A quieter week in both Middle East and Atlantic regions has allowed charterers to

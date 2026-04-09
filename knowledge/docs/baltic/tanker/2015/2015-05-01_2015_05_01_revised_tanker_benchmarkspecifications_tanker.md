@@ -30,6 +30,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015-05-01_revised-tanker-benchmarkspecifications_tanker.html
 source_stem: 2015-05-01_revised-tanker-benchmarkspecifications_tanker
+source_url: null
 summary: 'Main
 
   Following previous discussions with panellists, users and the market, the BEISL

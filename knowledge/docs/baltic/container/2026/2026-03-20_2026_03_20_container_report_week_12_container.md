@@ -32,6 +32,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2026/2026-03-20_container-report-week-12_container.html
 source_stem: 2026-03-20_container-report-week-12_container
+source_url: null
 summary: 'Container
 
   With the ongoing geopolitical issues in the Middle East Gulf and the effective closure

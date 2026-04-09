@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week14_dry.html
 source_stem: 2018_bulk-report-week14_dry
+source_url: null
 summary: 'Capesize
 
   The perfect storm for the big ships: with holidays, force majeure in two ore exporting

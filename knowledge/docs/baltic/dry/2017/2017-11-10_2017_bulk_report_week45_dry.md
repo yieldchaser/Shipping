@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week45_dry.html
 source_stem: 2017_bulk-report-week45_dry
+source_url: null
 summary: 'Capesize
 
   The week began with the major ore routes fixing around US$7.50 for west Australia

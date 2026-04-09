@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week20_dry.html
 source_stem: 2018_bulk-report-week20_dry
+source_url: null
 summary: 'Capesize
 
   Dramatic drops over the week for the big ships, with the hope of further improvements

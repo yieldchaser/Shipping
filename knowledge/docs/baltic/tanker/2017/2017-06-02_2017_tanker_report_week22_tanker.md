@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week22_tanker.html
 source_stem: 2017_tanker-report-week22_tanker
+source_url: null
 summary: 'VLCCs
 
   The market is finally showing signs of starting to nudge back up in the Middle East

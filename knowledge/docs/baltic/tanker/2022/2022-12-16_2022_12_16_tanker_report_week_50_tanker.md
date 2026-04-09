@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-12-16_tanker-report-week-50_tanker.html
 source_stem: 2022-12-16_tanker-report-week-50_tanker
+source_url: null
 summary: 'Clean
 
   In the Middle East Gulf this week we''ve seen the LRs getting some strength back.

@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-02-28_tanker-report---week-9_tanker.html
 source_stem: 2020-02-28_tanker-report---week-9_tanker
+source_url: null
 summary: 'VLCC
 
   The market in the Middle East was again static, with the uncertainties caused by

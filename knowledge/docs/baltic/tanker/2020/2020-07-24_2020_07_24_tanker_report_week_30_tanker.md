@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-07-24_tanker-report-week-30_tanker.html
 source_stem: 2020-07-24_tanker-report-week-30_tanker
+source_url: null
 summary: 'VLCC
 
   Rates in this sector remained under pressure with a 280,000mt Middle East Gulf to

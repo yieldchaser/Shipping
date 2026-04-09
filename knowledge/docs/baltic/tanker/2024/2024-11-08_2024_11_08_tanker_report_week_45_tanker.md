@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2024/2024-11-08_tanker-report-week-45_tanker.html
 source_stem: 2024-11-08_tanker-report-week-45_tanker
+source_url: null
 summary: 'Clean
 
   LR2

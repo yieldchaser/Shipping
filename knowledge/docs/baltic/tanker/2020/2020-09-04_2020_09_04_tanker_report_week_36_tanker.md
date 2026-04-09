@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-09-04_tanker-report-week-36_tanker.html
 source_stem: 2020-09-04_tanker-report-week-36_tanker
+source_url: null
 summary: 'VLCC
 
   The Middle East market again eased slightly with rates for 270,000mt AG/China falling

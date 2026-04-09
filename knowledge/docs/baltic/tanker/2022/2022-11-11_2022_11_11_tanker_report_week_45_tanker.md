@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-11-11_tanker-report-week-45_tanker.html
 source_stem: 2022-11-11_tanker-report-week-45_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf has been stable this week with some minimal fluctuations. On

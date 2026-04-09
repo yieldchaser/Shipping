@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-02-05_tanker-report-week-5_tanker.html
 source_stem: 2021-02-05_tanker-report-week-5_tanker
+source_url: null
 summary: 'VLCC
 
   The VLCC market remains in the doldrums with little joy or optimism for owners on

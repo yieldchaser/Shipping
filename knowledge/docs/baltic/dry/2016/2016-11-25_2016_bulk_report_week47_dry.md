@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week47_dry.html
 source_stem: 2016_bulk-report-week47_dry
+source_url: null
 summary: 'Capesize
 
   A slippery end to the week as rates dropped in most areas. Rates from West Australia

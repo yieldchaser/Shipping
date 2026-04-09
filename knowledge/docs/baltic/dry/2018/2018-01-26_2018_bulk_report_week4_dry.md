@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week4_dry.html
 source_stem: 2018_bulk-report-week4_dry
+source_url: null
 summary: 'Capesize
 
   A marked improvement on the capes last week, with the headline west Australia/China

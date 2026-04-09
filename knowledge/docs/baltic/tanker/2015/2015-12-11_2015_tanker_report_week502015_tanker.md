@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_tanker-report-week502015_tanker.html
 source_stem: 2015_tanker-report-week502015_tanker
+source_url: null
 summary: 'VLCCs
 
   With December now largely covered, the market has slowed down as it awaits January

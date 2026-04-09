@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week23_dry.html
 source_stem: 2018_bulk-report-week23_dry
+source_url: null
 summary: 'Capesize
 
   Despite the major Posidonia event in Greece, rates for the big ships took off this

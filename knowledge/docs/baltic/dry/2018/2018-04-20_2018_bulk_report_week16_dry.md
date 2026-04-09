@@ -47,6 +47,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week16_dry.html
 source_stem: 2018_bulk-report-week16_dry
+source_url: null
 summary: 'Capesize
 
   This week has seen the Cape 5 timecharter weighted average almost double. Similarly,

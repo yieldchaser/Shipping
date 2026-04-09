@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_week-70_tanker.html
 source_stem: 2015_week-70_tanker
+source_url: null
 summary: 'VLCCs
 
   In the Middle East Gulf rates have been in gentle decline as I.P. week has kicked

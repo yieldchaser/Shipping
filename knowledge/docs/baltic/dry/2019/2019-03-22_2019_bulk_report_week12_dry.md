@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week12_dry.html
 source_stem: 2019_bulk-report-week12_dry
+source_url: null
 summary: 'Capesize
 
   The big ships endured heavy losses last week extinguishing any hopes from the recent

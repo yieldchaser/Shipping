@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week49_dry.html
 source_stem: 2019_bulk-report-week49_dry
+source_url: null
 summary: 'Capesize
 
   This week the Capesize market maintained healthy earnings, as an end of year surge

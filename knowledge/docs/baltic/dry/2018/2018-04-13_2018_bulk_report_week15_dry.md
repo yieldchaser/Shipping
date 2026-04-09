@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week15_dry.html
 source_stem: 2018_bulk-report-week15_dry
+source_url: null
 summary: 'Capesize
 
   Sentiment gathered momentum during the week and rates for the main C5 route improved

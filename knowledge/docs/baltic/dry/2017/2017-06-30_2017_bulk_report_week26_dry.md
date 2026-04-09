@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week26_dry.html
 source_stem: 2017_bulk-report-week26_dry
+source_url: null
 summary: 'Capesize
 
   The recovery in rates for the big ships was short lived with the market seemingly

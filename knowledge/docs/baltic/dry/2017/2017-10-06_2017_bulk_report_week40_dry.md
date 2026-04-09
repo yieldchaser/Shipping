@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week40_dry.html
 source_stem: 2017_bulk-report-week40_dry
+source_url: null
 summary: 'Capesize
 
   The market thrived despite the Asian holidays, with rates rising on most of the

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-09-17_tanker-report-week-37_tanker.html
 source_stem: 2021-09-17_tanker-report-week-37_tanker
+source_url: null
 summary: 'VLCC
 
   Another busy week in the Middle East with COA and spot fixing activity, but also

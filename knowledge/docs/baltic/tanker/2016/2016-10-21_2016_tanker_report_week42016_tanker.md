@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week42016_tanker.html
 source_stem: 2016_tanker-report-week42016_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been a demanding week for owners of VLCC tonnage in the Middle East Gulf,

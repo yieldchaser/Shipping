@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-03-04_tanker-report-week-9_tanker.html
 source_stem: 2022-03-04_tanker-report-week-9_tanker
+source_url: null
 summary: 'VLCC
 
   The continuing war in Ukraine has held the focus of nearly all markets this week.

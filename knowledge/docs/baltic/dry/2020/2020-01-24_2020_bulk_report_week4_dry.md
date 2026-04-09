@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2020/2020_bulk-report-week4_dry.html
 source_stem: 2020_bulk-report-week4_dry
+source_url: null
 summary: 'Capesize
 
   The market endured heavy losses throughout the past week, with the Capesize 5TC

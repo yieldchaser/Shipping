@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week26_tanker.html
 source_stem: 2017_tanker-report-week26_tanker
+source_url: null
 summary: 'VLCCs
 
   In the Middle East Gulf something of a stalemate appears to have set in, which has

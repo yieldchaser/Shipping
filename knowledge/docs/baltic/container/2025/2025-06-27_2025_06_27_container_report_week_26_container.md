@@ -29,6 +29,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-06-27_container-report-week-26_container.html
 source_stem: 2025-06-27_container-report-week-26_container
+source_url: null
 summary: 'Main
 
   With the 90-day pause in tariffs imposed by the USA set to end on 8 July, only a

@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week35_tanker.html
 source_stem: 2018_tanker-report-week35_tanker
+source_url: null
 summary: 'VLCC
 
   Chinese charterers dominated in the Middle East Gulf, with rates easing slightly

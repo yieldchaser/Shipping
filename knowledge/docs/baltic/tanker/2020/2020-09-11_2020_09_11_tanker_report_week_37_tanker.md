@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-09-11_tanker-report-week-37_tanker.html
 source_stem: 2020-09-11_tanker-report-week-37_tanker
+source_url: null
 summary: 'VLCC
 
   The Middle East market had a more positive week with gains being made across all

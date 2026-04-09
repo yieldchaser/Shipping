@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week27_dry.html
 source_stem: 2017_bulk-report-week27_dry
+source_url: null
 summary: 'Capesize
 
   Not a great week for capes with all indices losing value and a larger fall on the

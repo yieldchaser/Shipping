@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week12_tanker.html
 source_stem: 2019_tanker-report-week12_tanker
+source_url: null
 summary: 'VLCC
 
   It was another slow week, with rates under pressure slipping below WS 60 as 270,000mt

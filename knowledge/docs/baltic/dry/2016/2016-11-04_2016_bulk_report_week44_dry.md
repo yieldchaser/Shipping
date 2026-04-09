@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week44_dry.html
 source_stem: 2016_bulk-report-week44_dry
+source_url: null
 summary: 'Capesize
 
   A rumour-fuelled market this week but essentially rates a touch firmer and owners

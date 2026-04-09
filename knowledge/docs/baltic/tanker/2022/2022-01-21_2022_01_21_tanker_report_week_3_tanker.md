@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-01-21_tanker-report-week-3_tanker.html
 source_stem: 2022-01-21_tanker-report-week-3_tanker
+source_url: null
 summary: 'VLCC
 
   This sector sunk a little further this week. For 280,000mt Middle East Gulf to USG

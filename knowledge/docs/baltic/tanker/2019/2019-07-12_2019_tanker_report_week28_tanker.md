@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week28_tanker.html
 source_stem: 2019_tanker-report-week28_tanker
+source_url: null
 summary: 'VLCC
 
   In the Middle East, as tensions remain, the market slipped further, albeit less

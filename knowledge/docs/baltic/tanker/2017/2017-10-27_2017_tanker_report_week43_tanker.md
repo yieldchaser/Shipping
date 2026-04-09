@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week43_tanker.html
 source_stem: 2017_tanker-report-week43_tanker
+source_url: null
 summary: 'VLCCs
 
   VLCC rates remained positive in nearly all loading areas, the biggest gains were

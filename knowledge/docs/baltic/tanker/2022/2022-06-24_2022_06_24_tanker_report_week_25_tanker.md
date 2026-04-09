@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-06-24_tanker-report-week-25_tanker.html
 source_stem: 2022-06-24_tanker-report-week-25_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf has suffered muted activity on both the LRs and MRs this week.

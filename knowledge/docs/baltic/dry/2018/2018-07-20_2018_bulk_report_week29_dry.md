@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week29_dry.html
 source_stem: 2018_bulk-report-week29_dry
+source_url: null
 summary: 'Capesize
 
   Charterers slowed the pace this week to try and check rates, and, to an extent,

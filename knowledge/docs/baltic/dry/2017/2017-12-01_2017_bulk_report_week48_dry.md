@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week48_dry.html
 source_stem: 2017_bulk-report-week48_dry
+source_url: null
 summary: 'Capesize
 
   Weather delays in China upsetting schedules fuelled further rate rises in the east,

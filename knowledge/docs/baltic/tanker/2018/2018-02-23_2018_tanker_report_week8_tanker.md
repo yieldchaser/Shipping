@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week8_tanker.html
 source_stem: 2018_tanker-report-week8_tanker
+source_url: null
 summary: 'VLCCs
 
   There has been no positive news for VLCC owners with rates in the Middle East Gulf

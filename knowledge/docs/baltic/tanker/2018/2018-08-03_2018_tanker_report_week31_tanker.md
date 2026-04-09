@@ -35,6 +35,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week31_tanker.html
 source_stem: 2018_tanker-report-week31_tanker
+source_url: null
 summary: 'VLCC
 
   Marginal gains in the ME Gulf market, with rates for 270,000mt to China paying around

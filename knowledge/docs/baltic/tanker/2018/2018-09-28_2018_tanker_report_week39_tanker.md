@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week39_tanker.html
 source_stem: 2018_tanker-report-week39_tanker
+source_url: null
 summary: 'VLCC
 
   The Golden Week holiday prompted an uptick in enquiry with rates firming four points

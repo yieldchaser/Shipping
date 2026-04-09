@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-08-06_tanker-report-week-31_tanker.html
 source_stem: 2021-08-06_tanker-report-week-31_tanker
+source_url: null
 summary: 'VLCC
 
   Another week of rates metaphorically stuck in the mire in this sector. In the Middle

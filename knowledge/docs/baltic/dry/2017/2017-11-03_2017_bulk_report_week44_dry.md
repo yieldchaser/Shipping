@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week44_dry.html
 source_stem: 2017_bulk-report-week44_dry
+source_url: null
 summary: 'Capesize
 
   Whilst the rate levels have come off during the week, there still seems to be a

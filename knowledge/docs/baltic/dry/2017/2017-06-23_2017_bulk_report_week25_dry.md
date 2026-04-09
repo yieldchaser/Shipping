@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week25_dry.html
 source_stem: 2017_bulk-report-week25_dry
+source_url: null
 summary: 'Capesize
 
   A dark cloud appeared to have descended over the market for the big ships with rates

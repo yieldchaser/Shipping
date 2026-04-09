@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week44_dry.html
 source_stem: 2018_bulk-report-week44_dry
+source_url: null
 summary: 'Capesize
 
   A largely disappointing week for those still hoping for a firmer end to the year,

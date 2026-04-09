@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-05-30_container-report-week-22_container.html
 source_stem: 2025-05-30_container-report-week-22_container
+source_url: null
 summary: 'Main
 
   A shorter week with national holidays in many countries saw limited changes in container

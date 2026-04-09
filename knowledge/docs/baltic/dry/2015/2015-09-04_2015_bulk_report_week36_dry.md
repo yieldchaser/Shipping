@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2015/2015_bulk-report-week36_dry.html
 source_stem: 2015_bulk-report-week36_dry
+source_url: null
 summary: 'Capesize
 
   The market followed the bunker price this week and then a Chinese holiday put the

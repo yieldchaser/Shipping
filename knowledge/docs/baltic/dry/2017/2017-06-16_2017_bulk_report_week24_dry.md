@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week24_dry.html
 source_stem: 2017_bulk-report-week24_dry
+source_url: null
 summary: 'Capesize
 
   A depressing end to the week for owners with rates dropping in every area of the

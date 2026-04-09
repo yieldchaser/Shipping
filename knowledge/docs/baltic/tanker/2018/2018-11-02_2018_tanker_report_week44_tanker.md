@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week44_tanker.html
 source_stem: 2018_tanker-report-week44_tanker
+source_url: null
 summary: 'VLCC
 
   In the Middle East Gulf, healthy enquiry combined with weather delays saw rates

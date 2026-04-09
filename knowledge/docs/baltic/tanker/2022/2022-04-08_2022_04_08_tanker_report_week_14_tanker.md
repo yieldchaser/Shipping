@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-04-08_tanker-report-week-14_tanker.html
 source_stem: 2022-04-08_tanker-report-week-14_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf LRs have been subject to lesser demand again this week. The

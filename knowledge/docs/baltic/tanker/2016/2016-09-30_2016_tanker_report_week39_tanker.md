@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week39_tanker.html
 source_stem: 2016_tanker-report-week39_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been an encouraging week for VLCC owners. In the Middle East Gulf, the market

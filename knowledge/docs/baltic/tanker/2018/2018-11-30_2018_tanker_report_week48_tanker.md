@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week48_tanker.html
 source_stem: 2018_tanker-report-week48_tanker
+source_url: null
 summary: 'VLCC
 
   Another positive week for the Middle East Gulf as rates firmed six points to WS

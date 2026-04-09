@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week46_tanker.html
 source_stem: 2016_tanker-report-week46_tanker
+source_url: null
 summary: 'VLCCs
 
   Rates have continued to firm throughout the week with 270,000 tonnes to Japan now

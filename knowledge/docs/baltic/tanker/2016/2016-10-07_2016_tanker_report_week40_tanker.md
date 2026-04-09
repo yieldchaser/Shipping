@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week40_tanker.html
 source_stem: 2016_tanker-report-week40_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been another positive week for VLCC''s with October tonnage looking markedly

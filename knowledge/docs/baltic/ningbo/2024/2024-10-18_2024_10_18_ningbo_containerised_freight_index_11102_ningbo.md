@@ -26,6 +26,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/ningbo/2024/2024-10-18_ningbo-containerised-freight-index-11102_ningbo.html
 source_stem: 2024-10-18_ningbo-containerised-freight-index-11102_ningbo
+source_url: null
 summary: 'Main
 
   Weekly composite index covering 20ft, 40ft and Hi Cube box rates by

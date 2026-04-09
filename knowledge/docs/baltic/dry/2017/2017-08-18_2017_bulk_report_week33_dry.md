@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week33_dry.html
 source_stem: 2017_bulk-report-week33_dry
+source_url: null
 summary: 'Capesize
 
   A strong week for the big ships with rates rising in all areas, although Brazil

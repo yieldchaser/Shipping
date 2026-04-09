@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-02-25_tanker-report-week-8_tanker.html
 source_stem: 2022-02-25_tanker-report-week-8_tanker
+source_url: null
 summary: 'VLCC
 
   An upturn all around for the VLCC this week. In Middle East markets, Rates for 280,000mt

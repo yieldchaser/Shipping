@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-10-15_tanker-report-week-41_tanker.html
 source_stem: 2021-10-15_tanker-report-week-41_tanker
+source_url: null
 summary: 'VLCC
 
   A steady week of fixing in the Middle East has kept rates relatively flat. And,

@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-08-19_tanker-report-week-33_tanker.html
 source_stem: 2022-08-19_tanker-report-week-33_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf has remained relatively stable this week. TC1 has been trading

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-12-10_tanker-report-week-49_tanker.html
 source_stem: 2021-12-10_tanker-report-week-49_tanker
+source_url: null
 summary: 'VLCC
 
   The market continued to slide on this sector. 280,000mt Middle East Gulf to US Gulf

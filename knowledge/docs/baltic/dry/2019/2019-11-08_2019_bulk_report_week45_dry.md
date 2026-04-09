@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week45_dry.html
 source_stem: 2019_bulk-report-week45_dry
+source_url: null
 summary: 'Capesize
 
   Over the past week the Capesize market has broken out of its recent range bound

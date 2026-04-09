@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week8_dry.html
 source_stem: 2019_bulk-report-week8_dry
+source_url: null
 summary: 'Capesize
 
   Gloom continued to beset the market for the big ships, with Dalian port last week

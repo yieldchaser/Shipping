@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week48_dry.html
 source_stem: 2016_bulk-report-week48_dry
+source_url: null
 summary: 'Capesize
 
   A busier Friday than normal, albeit lacking a lot of actual fixture details. Eurydice

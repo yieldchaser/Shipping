@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-09-03_tanker-report-week-35_tanker.html
 source_stem: 2021-09-03_tanker-report-week-35_tanker
+source_url: null
 summary: 'VLCC
 
   There were a few spot market deals and more contract of affreightment fixtures this

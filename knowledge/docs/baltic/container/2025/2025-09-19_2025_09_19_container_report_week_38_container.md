@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-09-19_container-report-week-38_container.html
 source_stem: 2025-09-19_container-report-week-38_container
+source_url: null
 summary: 'Main
 
   Official stats show that exports from China to the USA fell by a third in August,

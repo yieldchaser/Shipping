@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-01-28_tanker-report-week-4_tanker.html
 source_stem: 2022-01-28_tanker-report-week-4_tanker
+source_url: null
 summary: 'VLCC
 
   A static week for the VLCC market, despite approaching Chinese New Year. For 280,000mt

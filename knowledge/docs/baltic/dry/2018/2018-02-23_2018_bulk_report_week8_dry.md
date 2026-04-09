@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week8_dry.html
 source_stem: 2018_bulk-report-week8_dry
+source_url: null
 summary: 'Capesize
 
   The market showed signs of recovery even before the Chinese return to work, with

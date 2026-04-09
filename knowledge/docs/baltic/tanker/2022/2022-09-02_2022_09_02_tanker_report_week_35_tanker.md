@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-09-02_tanker-report-week-35_tanker.html
 source_stem: 2022-09-02_tanker-report-week-35_tanker
+source_url: null
 summary: 'Clean
 
   It''s been a bit of a mixed week for CPP vessels with the BCTI falling by -93 points

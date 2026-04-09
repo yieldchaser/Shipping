@@ -35,6 +35,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week30_tanker.html
 source_stem: 2018_tanker-report-week30_tanker
+source_url: null
 summary: 'VLCC
 
   MEG gained almost three points to WS 51.5 for 270,000mt to China with Japan fixed

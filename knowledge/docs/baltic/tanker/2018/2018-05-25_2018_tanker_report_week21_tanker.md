@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week21_tanker.html
 source_stem: 2018_tanker-report-week21_tanker
+source_url: null
 summary: 'VLCCs
 
   Rates firmed in the ME Gulf for 270,000mt to China to around WS 47.5, although increased

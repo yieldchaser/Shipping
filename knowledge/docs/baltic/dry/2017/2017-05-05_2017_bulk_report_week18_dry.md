@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week18_dry.html
 source_stem: 2017_bulk-report-week18_dry
+source_url: null
 summary: 'Capesize
 
   The shorter week due to national holidays in the UK and Singapore, put a bit of

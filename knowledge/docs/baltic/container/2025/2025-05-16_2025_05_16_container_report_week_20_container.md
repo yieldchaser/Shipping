@@ -29,6 +29,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-05-16_container-report-week-20_container.html
 source_stem: 2025-05-16_container-report-week-20_container
+source_url: null
 summary: 'Main
 
   The liner industry woke up to positive news this week, that the US and China have

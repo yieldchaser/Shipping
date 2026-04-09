@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week21_dry.html
 source_stem: 2018_bulk-report-week21_dry
+source_url: null
 summary: 'Capesize
 
   A depressing time for the big ships as rates eased across the board, with the Atlantic

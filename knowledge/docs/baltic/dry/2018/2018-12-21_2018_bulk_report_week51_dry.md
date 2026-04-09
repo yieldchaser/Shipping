@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week51_dry.html
 source_stem: 2018_bulk-report-week51_dry
+source_url: null
 summary: 'Capesize
 
   Panic set in in the East as the holiday season approaches, with owners chasing rates

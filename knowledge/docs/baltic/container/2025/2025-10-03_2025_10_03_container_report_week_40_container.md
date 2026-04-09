@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-10-03_container-report-week-40_container.html
 source_stem: 2025-10-03_container-report-week-40_container
+source_url: null
 summary: 'Main
 
   In eleven days time, the new US charges on Chinese linked vessels visiting US ports

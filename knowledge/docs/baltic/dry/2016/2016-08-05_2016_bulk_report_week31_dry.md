@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week31_dry.html
 source_stem: 2016_bulk-report-week31_dry
+source_url: null
 summary: 'Capesize
 
   An active week from West Australia to China with at least 20 ships fixed but rates

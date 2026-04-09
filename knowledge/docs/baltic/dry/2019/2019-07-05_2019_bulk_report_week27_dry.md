@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week27_dry.html
 source_stem: 2019_bulk-report-week27_dry
+source_url: null
 summary: 'Capesize
 
   The Capesize market surged over the past week, reaching highs not seen since August

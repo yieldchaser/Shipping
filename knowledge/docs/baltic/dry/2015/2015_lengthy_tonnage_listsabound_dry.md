@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2015/2015_lengthy-tonnage-listsabound_dry.html
 source_stem: 2015_lengthy-tonnage-listsabound_dry
+source_url: null
 summary: 'Capesize
 
   A slight rally earlier in the week with an increase in transatlantic and fronthaul

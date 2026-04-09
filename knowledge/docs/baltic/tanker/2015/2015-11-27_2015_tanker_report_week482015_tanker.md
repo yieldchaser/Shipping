@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_tanker-report-week482015_tanker.html
 source_stem: 2015_tanker-report-week482015_tanker
+source_url: null
 summary: 'VLCCs
 
   Despite fresh enquiry rates in the Middle East Gulf have remained steady with 270,000

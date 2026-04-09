@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-05-15_Tanker-report-Week-20_tanker.html
 source_stem: 2020-05-15_Tanker-report-Week-20_tanker
+source_url: null
 summary: 'VLCC
 
   There has been a good volume of fixtures in the Middle East Gulf as charterers worked

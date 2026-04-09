@@ -24,8 +24,8 @@
     "europe",
     "india"
   ],
-  "page_start": null,
-  "page_end": null,
+  "page_start": 4,
+  "page_end": 214,
   "token_count": 109803,
   "source_path": "reports/The Shipping Man (Matthew McCleery) (z-lib.org).pdf",
   "source_url": null,
@@ -52,8 +52,8 @@
         "robert",
         "his"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 4,
+      "page_end": 9,
       "token_count": 3038,
       "section_type": "chapter",
       "children": []
@@ -80,8 +80,8 @@
         "brazil",
         "australia"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 10,
+      "page_end": 214,
       "token_count": 106729,
       "section_type": "chapter",
       "children": []

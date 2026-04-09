@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_a-good-week-for-owners_tanker.html
 source_stem: 2015_a-good-week-for-owners_tanker
+source_url: null
 summary: 'VLCCs
 
   In the Middle East Gulf, rates peaked, with WS 72.5 said to have been fixed by SPC

@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week28_tanker.html
 source_stem: 2018_tanker-report-week28_tanker
+source_url: null
 summary: 'VLCC
 
   Charterers have not been under pressure in the ME Gulf as they have been drip-feeding

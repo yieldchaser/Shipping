@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-09-05_container-report-week-36_container.html
 source_stem: 2025-09-05_container-report-week-36_container
+source_url: null
 summary: 'Main
 
   The tariff saga continues with a US federal appeals court upholding a ruling that

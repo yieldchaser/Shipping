@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week30_dry.html
 source_stem: 2019_bulk-report-week30_dry
+source_url: null
 summary: 'Capesize
 
   The market was a white knuckled ride this past week as a large downside movement

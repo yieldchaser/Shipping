@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week50_dry.html
 source_stem: 2016_bulk-report-week50_dry
+source_url: null
 summary: 'Capesize
 
   The gloomiest of ends to the year looming large for the big ships with rates dropping

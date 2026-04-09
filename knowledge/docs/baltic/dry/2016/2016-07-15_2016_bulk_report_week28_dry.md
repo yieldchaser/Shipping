@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week28_dry.html
 source_stem: 2016_bulk-report-week28_dry
+source_url: null
 summary: 'Capesize
 
   Rates softened from Brazil as the week closed out with reports of 1-10 August 170,000-tonne

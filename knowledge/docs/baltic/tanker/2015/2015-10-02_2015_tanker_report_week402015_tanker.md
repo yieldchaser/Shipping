@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_tanker-report-week402015_tanker.html
 source_stem: 2015_tanker-report-week402015_tanker
+source_url: null
 summary: 'VLCCs
 
   Delays in the East, an active Atlantic market and loading problems in Nigeria resulted

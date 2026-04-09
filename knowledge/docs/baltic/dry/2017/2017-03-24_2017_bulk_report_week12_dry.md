@@ -46,6 +46,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week12_dry.html
 source_stem: 2017_bulk-report-week12_dry
+source_url: null
 summary: 'Capesize
 
   It looked like a game of two halves for the big ships with the east relatively slow

@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week40_dry.html
 source_stem: 2019_bulk-report-week40_dry
+source_url: null
 summary: 'Capesize
 
   The market floundered this week as it attempted to find a floor after the previous

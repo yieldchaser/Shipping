@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-02-12_tanker-report-week-6_tanker.html
 source_stem: 2021-02-12_tanker-report-week-6_tanker
+source_url: null
 summary: 'VLCC
 
   The Chinese Lunar New Year Holiday has kept this sector quiet this week. In the

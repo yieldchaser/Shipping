@@ -24,8 +24,8 @@
     "europe",
     "singapore"
   ],
-  "page_start": null,
-  "page_end": null,
+  "page_start": 2,
+  "page_end": 136,
   "token_count": 64714,
   "source_path": "reports/Shipping Business Unwrapped. (Duru, Okan) (Z-Library).pdf",
   "source_url": null,
@@ -52,8 +52,8 @@
         "behavioural",
         "business"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 2,
+      "page_end": 2,
       "token_count": 220,
       "section_type": "chapter",
       "children": []
@@ -80,8 +80,8 @@
         "companies",
         "duru"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 3,
+      "page_end": 3,
       "token_count": 108,
       "section_type": "chapter",
       "children": []
@@ -106,8 +106,8 @@
         "illusion",
         "okan"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 4,
+      "page_end": 4,
       "token_count": 17,
       "section_type": "chapter",
       "children": []
@@ -134,8 +134,8 @@
         "despite",
         "development"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 12,
+      "page_end": 12,
       "token_count": 458,
       "section_type": "chapter",
       "children": []
@@ -162,8 +162,8 @@
         "rational",
         "all"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 13,
+      "page_end": 13,
       "token_count": 654,
       "section_type": "chapter",
       "children": []
@@ -190,8 +190,8 @@
         "practical",
         "research"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 14,
+      "page_end": 14,
       "token_count": 674,
       "section_type": "chapter",
       "children": []
@@ -218,8 +218,8 @@
         "japan",
         "iron_ore"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 15,
+      "page_end": 47,
       "token_count": 18044,
       "section_type": "chapter",
       "children": []
@@ -246,8 +246,8 @@
         "system",
         "you"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 48,
+      "page_end": 48,
       "token_count": 495,
       "section_type": "chapter",
       "children": []
@@ -274,8 +274,8 @@
         "kind",
         "our"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 49,
+      "page_end": 49,
       "token_count": 644,
       "section_type": "chapter",
       "children": []
@@ -302,8 +302,8 @@
         "then",
         "business"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 50,
+      "page_end": 50,
       "token_count": 608,
       "section_type": "chapter",
       "children": []
@@ -330,8 +330,8 @@
         "when",
         "long-term"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 51,
+      "page_end": 54,
       "token_count": 1499,
       "section_type": "chapter",
       "children": []
@@ -358,8 +358,8 @@
         "decline",
         "just"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 55,
+      "page_end": 55,
       "token_count": 482,
       "section_type": "chapter",
       "children": []
@@ -386,8 +386,8 @@
         "time",
         "what"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 57,
+      "page_end": 57,
       "token_count": 670,
       "section_type": "chapter",
       "children": []
@@ -414,8 +414,8 @@
         "products",
         "gas"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 59,
+      "page_end": 76,
       "token_count": 10311,
       "section_type": "chapter",
       "children": []
@@ -442,8 +442,8 @@
         "not",
         "risk"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 77,
+      "page_end": 88,
       "token_count": 6047,
       "section_type": "chapter",
       "children": []
@@ -470,8 +470,8 @@
         "are",
         "business"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 89,
+      "page_end": 96,
       "token_count": 3577,
       "section_type": "chapter",
       "children": []
@@ -498,8 +498,8 @@
         "are",
         "human"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 97,
+      "page_end": 97,
       "token_count": 483,
       "section_type": "chapter",
       "children": []
@@ -526,8 +526,8 @@
         "can",
         "dashboard"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 98,
+      "page_end": 98,
       "token_count": 621,
       "section_type": "chapter",
       "children": []
@@ -554,8 +554,8 @@
         "but",
         "department"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 99,
+      "page_end": 99,
       "token_count": 428,
       "section_type": "chapter",
       "children": []
@@ -582,8 +582,8 @@
         "company",
         "financial"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 100,
+      "page_end": 100,
       "token_count": 411,
       "section_type": "chapter",
       "children": []
@@ -610,8 +610,8 @@
         "intelligence",
         "predictive"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 101,
+      "page_end": 107,
       "token_count": 3417,
       "section_type": "chapter",
       "children": []
@@ -638,8 +638,8 @@
         "discount",
         "future"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 108,
+      "page_end": 115,
       "token_count": 4183,
       "section_type": "chapter",
       "children": []
@@ -666,8 +666,8 @@
         "data",
         "you"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 116,
+      "page_end": 128,
       "token_count": 6487,
       "section_type": "chapter",
       "children": []
@@ -694,8 +694,8 @@
         "are",
         "e.g."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 129,
+      "page_end": 129,
       "token_count": 312,
       "section_type": "chapter",
       "children": []
@@ -722,8 +722,8 @@
         "know",
         "usually"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 130,
+      "page_end": 130,
       "token_count": 412,
       "section_type": "chapter",
       "children": []
@@ -750,8 +750,8 @@
         "information.",
         "when"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 131,
+      "page_end": 131,
       "token_count": 358,
       "section_type": "chapter",
       "children": []
@@ -778,8 +778,8 @@
         "compelled",
         "correct"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 132,
+      "page_end": 132,
       "token_count": 39,
       "section_type": "chapter",
       "children": []
@@ -806,8 +806,8 @@
         "history",
         "journal"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 133,
+      "page_end": 133,
       "token_count": 692,
       "section_type": "chapter",
       "children": []
@@ -834,8 +834,8 @@
         "back",
         "economics"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 134,
+      "page_end": 134,
       "token_count": 934,
       "section_type": "chapter",
       "children": []
@@ -862,8 +862,8 @@
         "economic",
         "http"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 135,
+      "page_end": 135,
       "token_count": 915,
       "section_type": "chapter",
       "children": []
@@ -890,8 +890,8 @@
         "anda",
         "andlazar"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 136,
+      "page_end": 136,
       "token_count": 359,
       "section_type": "chapter",
       "children": []

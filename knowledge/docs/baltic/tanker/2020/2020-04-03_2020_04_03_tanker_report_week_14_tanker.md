@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-04-03_tanker-report---week-14_tanker.html
 source_stem: 2020-04-03_tanker-report---week-14_tanker
+source_url: null
 summary: 'VLCC
 
   Activity in the Middle East continued apace with owners firmly in the driving seat.

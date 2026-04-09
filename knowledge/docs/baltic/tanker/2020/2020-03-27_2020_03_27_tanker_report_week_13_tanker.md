@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-03-27_tanker-report---week-13_tanker.html
 source_stem: 2020-03-27_tanker-report---week-13_tanker
+source_url: null
 summary: 'VLCC
 
   Activity in the Middle East picked up this week and rates initially fell. However,

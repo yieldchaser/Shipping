@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week11_dry.html
 source_stem: 2018_bulk-report-week11_dry
+source_url: null
 summary: 'Capesize
 
   There were finally reports of increased Brazil activity, but still largely unconfirmed.

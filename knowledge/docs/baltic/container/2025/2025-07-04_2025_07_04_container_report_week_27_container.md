@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-07-04_container-report-week-27_container.html
 source_stem: 2025-07-04_container-report-week-27_container
+source_url: null
 summary: 'Main
 
   Next Tuesday sees the end of the pause in Tariffs on imports to the United States

@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week3_dry.html
 source_stem: 2017_bulk-report-week3_dry
+source_url: null
 summary: 'Capesize
 
   The impact of the approaching Chinese New Year holidays remained the focus of the

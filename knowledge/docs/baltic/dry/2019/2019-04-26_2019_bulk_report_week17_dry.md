@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week17_dry.html
 source_stem: 2019_bulk-report-week17_dry
+source_url: null
 summary: 'Capesize
 
   Following the holidays, activity increased in both the Pacific and Atlantic Basins.

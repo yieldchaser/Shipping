@@ -29,6 +29,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-09-12_container-report-week-37_container.html
 source_stem: 2025-09-12_container-report-week-37_container
+source_url: null
 summary: 'Main
 
   As we reach mid-September we have seen another week of uncertainty over eventual

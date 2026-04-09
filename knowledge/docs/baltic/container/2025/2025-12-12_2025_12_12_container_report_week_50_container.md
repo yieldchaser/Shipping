@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-12-12_container-report-week-50_container.html
 source_stem: 2025-12-12_container-report-week-50_container
+source_url: null
 summary: 'Main
 
   Maersk and CMACGM have in recent weeks sent a few of their smaller ships through

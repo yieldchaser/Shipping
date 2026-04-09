@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-04-01_tanker-report-week-13_tanker.html
 source_stem: 2022-04-01_tanker-report-week-13_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf has shown mixed reactions this week and we are noticing an

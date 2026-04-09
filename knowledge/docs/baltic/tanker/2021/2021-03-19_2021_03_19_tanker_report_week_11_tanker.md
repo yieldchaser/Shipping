@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-03-19_tanker-report-week-11_tanker.html
 source_stem: 2021-03-19_tanker-report-week-11_tanker
+source_url: null
 summary: 'VLCC
 
   Rates have firmed slightly in the Atlantic and remain unmoved in the Middle East.

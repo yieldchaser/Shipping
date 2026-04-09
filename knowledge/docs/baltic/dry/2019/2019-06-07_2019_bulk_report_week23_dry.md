@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week23_dry.html
 source_stem: 2019_bulk-report-week23_dry
+source_url: null
 summary: 'Capesize
 
   The market continued in an unusually steady ascent last week. With no major news

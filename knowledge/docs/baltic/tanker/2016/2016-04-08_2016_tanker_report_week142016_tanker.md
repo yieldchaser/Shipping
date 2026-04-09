@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week142016_tanker.html
 source_stem: 2016_tanker-report-week142016_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been another volatile week in the Middle East Gulf. Whereas last week charterers

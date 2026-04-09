@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week48_tanker.html
 source_stem: 2019_tanker-report-week48_tanker
+source_url: null
 summary: 'VLCC
 
   Owners'' expectations were firm at the start of the week with the market for 270,000mt

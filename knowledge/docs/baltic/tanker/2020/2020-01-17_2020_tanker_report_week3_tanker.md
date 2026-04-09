@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020_tanker-report-week3_tanker.html
 source_stem: 2020_tanker-report-week3_tanker
+source_url: null
 summary: 'VLCC
 
   A quieter week in the Middle East, alongside falling bunker prices has left owners

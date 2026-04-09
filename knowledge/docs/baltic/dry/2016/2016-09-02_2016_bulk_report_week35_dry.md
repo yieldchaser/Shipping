@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week35_dry.html
 source_stem: 2016_bulk-report-week35_dry
+source_url: null
 summary: 'Capesize
 
   A positive end to the week as BHP Billiton fixed a 17 September onwards 170,000

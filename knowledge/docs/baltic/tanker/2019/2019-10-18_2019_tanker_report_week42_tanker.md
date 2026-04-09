@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week42_tanker.html
 source_stem: 2019_tanker-report-week42_tanker
+source_url: null
 summary: 'VLCC
 
   Although there were stratospheric rates seen on subjects last week, charterers did

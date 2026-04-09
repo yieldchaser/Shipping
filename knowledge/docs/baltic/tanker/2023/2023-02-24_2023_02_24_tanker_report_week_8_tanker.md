@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-02-24_tanker-report-week-8_tanker.html
 source_stem: 2023-02-24_tanker-report-week-8_tanker
+source_url: null
 summary: 'Clean
 
   The majority of the Baltic Exchange CPP freight routes have fallen this week, which

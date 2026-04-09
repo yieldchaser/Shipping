@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week12_tanker.html
 source_stem: 2017_tanker-report-week12_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been a grim week for owners in the Middle East Gulf. Depending on the requirements

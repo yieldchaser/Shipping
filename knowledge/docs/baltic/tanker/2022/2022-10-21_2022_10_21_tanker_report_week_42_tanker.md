@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-10-21_tanker-report-week-42_tanker.html
 source_stem: 2022-10-21_tanker-report-week-42_tanker
+source_url: null
 summary: 'Clean
 
   The BCTI finished the week at 1231, up from 1226 the previous week. In the Middle

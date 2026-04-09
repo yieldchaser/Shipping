@@ -24,8 +24,8 @@
     "atlantic",
     "pacific"
   ],
-  "page_start": null,
-  "page_end": null,
+  "page_start": 4,
+  "page_end": 287,
   "token_count": 153274,
   "source_path": "reports/The World’s Key Industry History and Economics of International Shipping (G. Harlaftis, S. Tenold, J. Valdaliso) (z-lib.org).pdf",
   "source_url": null,
@@ -52,8 +52,8 @@
         "maritime",
         "economic"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 4,
+      "page_end": 15,
       "token_count": 3093,
       "section_type": "chapter",
       "children": []
@@ -80,8 +80,8 @@
         "was",
         "world"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 16,
+      "page_end": 16,
       "token_count": 366,
       "section_type": "chapter",
       "children": []
@@ -108,8 +108,8 @@
         "exports",
         "global"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 17,
+      "page_end": 18,
       "token_count": 1151,
       "section_type": "chapter",
       "children": []
@@ -136,8 +136,8 @@
         "world",
         "british"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 19,
+      "page_end": 20,
       "token_count": 1146,
       "section_type": "chapter",
       "children": []
@@ -164,8 +164,8 @@
         "was",
         "companies"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 21,
+      "page_end": 22,
       "token_count": 1149,
       "section_type": "chapter",
       "children": []
@@ -192,8 +192,8 @@
         "fischer",
         "maritime"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 23,
+      "page_end": 24,
       "token_count": 1531,
       "section_type": "chapter",
       "children": []
@@ -220,8 +220,8 @@
         "oxford",
         "press"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 25,
+      "page_end": 25,
       "token_count": 127,
       "section_type": "chapter",
       "children": []
@@ -248,8 +248,8 @@
         "maritime",
         "history"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 26,
+      "page_end": 43,
       "token_count": 11936,
       "section_type": "chapter",
       "children": []
@@ -276,8 +276,8 @@
         "century",
         "periphery"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 44,
+      "page_end": 45,
       "token_count": 922,
       "section_type": "chapter",
       "children": []
@@ -304,8 +304,8 @@
         "new",
         "demand"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 46,
+      "page_end": 47,
       "token_count": 876,
       "section_type": "chapter",
       "children": []
@@ -332,8 +332,8 @@
         "staple",
         "was"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 48,
+      "page_end": 49,
       "token_count": 869,
       "section_type": "chapter",
       "children": []
@@ -360,8 +360,8 @@
         "colonies",
         "curve"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 50,
+      "page_end": 50,
       "token_count": 562,
       "section_type": "chapter",
       "children": []
@@ -388,8 +388,8 @@
         "was",
         "american"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 52,
+      "page_end": 53,
       "token_count": 996,
       "section_type": "chapter",
       "children": []
@@ -416,8 +416,8 @@
         "developed",
         "was"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 54,
+      "page_end": 55,
       "token_count": 1026,
       "section_type": "chapter",
       "children": []
@@ -444,8 +444,8 @@
         "press",
         "see"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 56,
+      "page_end": 57,
       "token_count": 1012,
       "section_type": "chapter",
       "children": []
@@ -472,8 +472,8 @@
         "europe",
         "india"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 58,
+      "page_end": 78,
       "token_count": 12254,
       "section_type": "chapter",
       "children": []
@@ -500,8 +500,8 @@
         "first",
         "goods."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 79,
+      "page_end": 79,
       "token_count": 379,
       "section_type": "chapter",
       "children": []
@@ -528,8 +528,8 @@
         "grain",
         "crude_oil"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 80,
+      "page_end": 81,
       "token_count": 1407,
       "section_type": "chapter",
       "children": []
@@ -556,8 +556,8 @@
         "japan",
         "iron_ore"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 82,
+      "page_end": 83,
       "token_count": 1354,
       "section_type": "chapter",
       "children": []
@@ -584,8 +584,8 @@
         "oil",
         "fleet"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 84,
+      "page_end": 85,
       "token_count": 1203,
       "section_type": "chapter",
       "children": []
@@ -612,8 +612,8 @@
         "products",
         "steel"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 86,
+      "page_end": 87,
       "token_count": 1328,
       "section_type": "chapter",
       "children": []
@@ -640,8 +640,8 @@
         "cargo",
         "ships"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 88,
+      "page_end": 89,
       "token_count": 1271,
       "section_type": "chapter",
       "children": []
@@ -668,8 +668,8 @@
         "per",
         "almost"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 90,
+      "page_end": 90,
       "token_count": 553,
       "section_type": "chapter",
       "children": []
@@ -696,8 +696,8 @@
         "ships",
         "size"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 92,
+      "page_end": 93,
       "token_count": 1134,
       "section_type": "chapter",
       "children": []
@@ -724,8 +724,8 @@
         "are",
         "costs"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 94,
+      "page_end": 94,
       "token_count": 619,
       "section_type": "chapter",
       "children": []
@@ -752,8 +752,8 @@
         "terminal",
         "are"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 96,
+      "page_end": 97,
       "token_count": 1047,
       "section_type": "chapter",
       "children": []
@@ -780,8 +780,8 @@
         "growth",
         "ships"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 98,
+      "page_end": 99,
       "token_count": 1224,
       "section_type": "chapter",
       "children": []
@@ -808,8 +808,8 @@
         "ships",
         "ship"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 100,
+      "page_end": 101,
       "token_count": 1825,
       "section_type": "chapter",
       "children": []
@@ -836,8 +836,8 @@
         "size",
         "costs"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 102,
+      "page_end": 102,
       "token_count": 538,
       "section_type": "chapter",
       "children": []
@@ -864,8 +864,8 @@
         "iron_ore",
         "coal"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 103,
+      "page_end": 120,
       "token_count": 10880,
       "section_type": "chapter",
       "children": []
@@ -892,8 +892,8 @@
         "financial",
         "formal"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 121,
+      "page_end": 121,
       "token_count": 332,
       "section_type": "chapter",
       "children": []
@@ -920,8 +920,8 @@
         "business",
         "but"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 122,
+      "page_end": 123,
       "token_count": 1144,
       "section_type": "chapter",
       "children": []
@@ -948,8 +948,8 @@
         "policies",
         "underwriters"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 124,
+      "page_end": 125,
       "token_count": 1183,
       "section_type": "chapter",
       "children": []
@@ -976,8 +976,8 @@
         "claims",
         "compiled"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 126,
+      "page_end": 127,
       "token_count": 1053,
       "section_type": "chapter",
       "children": []
@@ -1004,8 +1004,8 @@
         "not",
         "rules"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 128,
+      "page_end": 129,
       "token_count": 1151,
       "section_type": "chapter",
       "children": []
@@ -1032,8 +1032,8 @@
         "committee",
         "commodity"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 130,
+      "page_end": 131,
       "token_count": 1104,
       "section_type": "chapter",
       "children": []
@@ -1060,8 +1060,8 @@
         "one",
         "valuable"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 132,
+      "page_end": 133,
       "token_count": 1219,
       "section_type": "chapter",
       "children": []
@@ -1088,8 +1088,8 @@
         "was",
         "like"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 134,
+      "page_end": 135,
       "token_count": 1005,
       "section_type": "chapter",
       "children": []
@@ -1116,8 +1116,8 @@
         "ibid.",
         "economic"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 136,
+      "page_end": 137,
       "token_count": 1395,
       "section_type": "chapter",
       "children": []
@@ -1144,8 +1144,8 @@
         "oxford",
         "quoted"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 138,
+      "page_end": 138,
       "token_count": 262,
       "section_type": "chapter",
       "children": []
@@ -1172,8 +1172,8 @@
         "government",
         "its"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 139,
+      "page_end": 141,
       "token_count": 1022,
       "section_type": "chapter",
       "children": []
@@ -1200,8 +1200,8 @@
         "but",
         "had"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 142,
+      "page_end": 143,
       "token_count": 1138,
       "section_type": "chapter",
       "children": []
@@ -1228,8 +1228,8 @@
         "would",
         "chandos"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 144,
+      "page_end": 145,
       "token_count": 1141,
       "section_type": "chapter",
       "children": []
@@ -1256,8 +1256,8 @@
         "other",
         "but"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 146,
+      "page_end": 147,
       "token_count": 1161,
       "section_type": "chapter",
       "children": []
@@ -1284,8 +1284,8 @@
         "had",
         "indeed"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 148,
+      "page_end": 149,
       "token_count": 1115,
       "section_type": "chapter",
       "children": []
@@ -1312,8 +1312,8 @@
         "not",
         "policy"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 150,
+      "page_end": 151,
       "token_count": 1036,
       "section_type": "chapter",
       "children": []
@@ -1340,8 +1340,8 @@
         "policy",
         "fleet"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 152,
+      "page_end": 153,
       "token_count": 1244,
       "section_type": "chapter",
       "children": []
@@ -1368,8 +1368,8 @@
         "maritime",
         "rochdale"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 154,
+      "page_end": 155,
       "token_count": 1786,
       "section_type": "chapter",
       "children": []
@@ -1396,8 +1396,8 @@
         "british",
         "department"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 156,
+      "page_end": 156,
       "token_count": 757,
       "section_type": "chapter",
       "children": []
@@ -1424,8 +1424,8 @@
         "steam",
         "are"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 157,
+      "page_end": 157,
       "token_count": 377,
       "section_type": "chapter",
       "children": []
@@ -1452,8 +1452,8 @@
         "was",
         "antwerp"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 158,
+      "page_end": 159,
       "token_count": 1248,
       "section_type": "chapter",
       "children": []
@@ -1480,8 +1480,8 @@
         "city",
         "infrastructure"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 160,
+      "page_end": 161,
       "token_count": 1107,
       "section_type": "chapter",
       "children": []
@@ -1508,8 +1508,8 @@
         "would",
         "almost"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 162,
+      "page_end": 163,
       "token_count": 1179,
       "section_type": "chapter",
       "children": []
@@ -1536,8 +1536,8 @@
         "labour",
         "trade"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 164,
+      "page_end": 165,
       "token_count": 1155,
       "section_type": "chapter",
       "children": []
@@ -1564,8 +1564,8 @@
         "was",
         "handling"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 166,
+      "page_end": 167,
       "token_count": 1160,
       "section_type": "chapter",
       "children": []
@@ -1592,8 +1592,8 @@
         "labour",
         "cargo"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 168,
+      "page_end": 169,
       "token_count": 1125,
       "section_type": "chapter",
       "children": []
@@ -1620,8 +1620,8 @@
         "van",
         "pp."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 170,
+      "page_end": 171,
       "token_count": 1825,
       "section_type": "chapter",
       "children": []
@@ -1648,8 +1648,8 @@
         "buyst",
         "competition"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 172,
+      "page_end": 172,
       "token_count": 326,
       "section_type": "chapter",
       "children": []
@@ -1676,8 +1676,8 @@
         "europe",
         "singapore"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 173,
+      "page_end": 214,
       "token_count": 17903,
       "section_type": "chapter",
       "children": []
@@ -1704,8 +1704,8 @@
         "steel",
         "was"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 215,
+      "page_end": 234,
       "token_count": 12952,
       "section_type": "chapter",
       "children": []
@@ -1732,8 +1732,8 @@
         "dealt",
         "decades"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 235,
+      "page_end": 235,
       "token_count": 412,
       "section_type": "chapter",
       "children": []
@@ -1760,8 +1760,8 @@
         "framework",
         "shipowners"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 236,
+      "page_end": 237,
       "token_count": 1007,
       "section_type": "chapter",
       "children": []
@@ -1788,8 +1788,8 @@
         "vessels",
         "activity"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 238,
+      "page_end": 239,
       "token_count": 1240,
       "section_type": "chapter",
       "children": []
@@ -1816,8 +1816,8 @@
         "new",
         "period"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 240,
+      "page_end": 241,
       "token_count": 1122,
       "section_type": "chapter",
       "children": []
@@ -1844,8 +1844,8 @@
         "norwegian",
         "one"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 242,
+      "page_end": 243,
       "token_count": 1212,
       "section_type": "chapter",
       "children": []
@@ -1872,8 +1872,8 @@
         "when",
         "risk"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 244,
+      "page_end": 245,
       "token_count": 1072,
       "section_type": "chapter",
       "children": []
@@ -1900,8 +1900,8 @@
         "activity",
         "new"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 246,
+      "page_end": 247,
       "token_count": 985,
       "section_type": "chapter",
       "children": []
@@ -1928,8 +1928,8 @@
         "pp.",
         "ed."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 248,
+      "page_end": 249,
       "token_count": 1367,
       "section_type": "chapter",
       "children": []
@@ -1956,8 +1956,8 @@
         "coal",
         "grain"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 250,
+      "page_end": 268,
       "token_count": 10564,
       "section_type": "chapter",
       "children": []
@@ -1984,8 +1984,8 @@
         "banking",
         "construction"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 269,
+      "page_end": 269,
       "token_count": 153,
       "section_type": "chapter",
       "children": []
@@ -2012,8 +2012,8 @@
         "real",
         "air"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 270,
+      "page_end": 270,
       "token_count": 154,
       "section_type": "chapter",
       "children": []
@@ -2040,8 +2040,8 @@
         "crude_oil",
         "business"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 271,
+      "page_end": 287,
       "token_count": 9062,
       "section_type": "chapter",
       "children": []

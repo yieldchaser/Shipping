@@ -34,6 +34,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week32_tanker.html
 source_stem: 2018_tanker-report-week32_tanker
+source_url: null
 summary: 'VLCC
 
   Basis 270,000mt AG/China rates slipped to WS 52, with talk of 2004-built tonnage

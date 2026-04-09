@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week17_dry.html
 source_stem: 2017_bulk-report-week17_dry
+source_url: null
 summary: 'Capesize
 
   A largely easier end to the week for the big ships with the May Day holiday weekend

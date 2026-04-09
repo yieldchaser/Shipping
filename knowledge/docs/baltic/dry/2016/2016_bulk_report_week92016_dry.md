@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week92016_dry.html
 source_stem: 2016_bulk-report-week92016_dry
+source_url: null
 summary: 'Capesize
 
   Rates flip-flopped around five cents up or five cents down and this about sums up

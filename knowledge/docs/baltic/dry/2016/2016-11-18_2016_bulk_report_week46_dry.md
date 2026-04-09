@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week46_dry.html
 source_stem: 2016_bulk-report-week46_dry
+source_url: null
 summary: 'Capesize
 
   A fast paced market this week with rates rising. The BCI 5-timecharter average Thursday

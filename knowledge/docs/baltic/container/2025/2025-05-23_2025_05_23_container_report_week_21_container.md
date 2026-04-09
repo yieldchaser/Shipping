@@ -29,6 +29,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-05-23_container-report-week-21_container.html
 source_stem: 2025-05-23_container-report-week-21_container
+source_url: null
 summary: 'Main
 
   As we approach the end of the second week of the temporary rollback of tariffs between

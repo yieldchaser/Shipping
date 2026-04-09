@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week28_dry.html
 source_stem: 2017_bulk-report-week28_dry
+source_url: null
 summary: 'Capesize
 
   A dead cat bounce in paper mid-week helped support a minor rally for the big ships

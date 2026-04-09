@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_varied-market-asvlccsbaskinstorageinterest_tanker.html
 source_stem: 2015_varied-market-asvlccsbaskinstorageinterest_tanker
+source_url: null
 summary: 'VLCCs
 
   Rates in the Middle East Gulf have held around WS 67.50-70 level for 270,000 tonnes

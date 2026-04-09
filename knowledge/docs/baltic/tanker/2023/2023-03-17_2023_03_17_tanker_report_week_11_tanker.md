@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-03-17_tanker-report-week-11_tanker.html
 source_stem: 2023-03-17_tanker-report-week-11_tanker
+source_url: null
 summary: 'Clean
 
   In the Middle East Gulf this week freight levels have suffered as enquiry seemingly

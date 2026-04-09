@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-02-19_tanker-report-week-7_tanker.html
 source_stem: 2021-02-19_tanker-report-week-7_tanker
+source_url: null
 summary: 'VLCC
 
   Another stagnant week in this market with Worldscale fixing rates improving by less

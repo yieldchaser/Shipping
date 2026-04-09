@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2026/2026-02-20_container-report-week-8_container.html
 source_stem: 2026-02-20_container-report-week-8_container
+source_url: null
 summary: 'Container
 
   It was announced this week that Hapag Lloyd has agreed a deal to buy the Israeli

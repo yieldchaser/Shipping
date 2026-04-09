@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week43_tanker.html
 source_stem: 2018_tanker-report-week43_tanker
+source_url: null
 summary: 'VLCC
 
   Rates eased in the Middle East Gulf as charterers focused on ‘disadvantaged tonnage''

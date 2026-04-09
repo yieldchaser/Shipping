@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week18_dry.html
 source_stem: 2019_bulk-report-week18_dry
+source_url: null
 summary: 'Capesize
 
   The market last week was a tale of two halves, with substantial volatility. Beginning

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-11-06_tanker-report---week-45_tanker.html
 source_stem: 2020-11-06_tanker-report---week-45_tanker
+source_url: null
 summary: 'VLCC
 
   Rates remain weak, albeit steady across all sectors. In the Middle East, 280,000mt

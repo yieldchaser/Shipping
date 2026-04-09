@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week2_dry.html
 source_stem: 2017_bulk-report-week2_dry
+source_url: null
 summary: 'Capesize
 
   Last week''s gains were eroded this week with slow activity from Brazil impacting

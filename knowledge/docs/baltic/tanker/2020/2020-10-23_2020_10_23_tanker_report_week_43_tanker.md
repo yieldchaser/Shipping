@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-10-23_tanker-report---week-43_tanker.html
 source_stem: 2020-10-23_tanker-report---week-43_tanker
+source_url: null
 summary: 'VLCC
 
   Rates were flat this week on most of the routes in this sector. 280,000mt to USG

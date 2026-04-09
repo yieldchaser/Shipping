@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-09-16_tanker-report-week-37_tanker.html
 source_stem: 2022-09-16_tanker-report-week-37_tanker
+source_url: null
 summary: 'Clean
 
   Middle East Gulf LR CPP freight climbed early on and then began to fall after plateauing

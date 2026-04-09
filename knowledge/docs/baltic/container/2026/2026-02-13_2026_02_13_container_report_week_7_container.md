@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2026/2026-02-13_container-report-week-7_container.html
 source_stem: 2026-02-13_container-report-week-7_container
+source_url: null
 summary: 'Container
 
   In recent weeks, many of the Major liner owners have announced drops in their earnings,

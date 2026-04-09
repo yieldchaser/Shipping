@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week6_tanker.html
 source_stem: 2018_tanker-report-week6_tanker
+source_url: null
 summary: 'VLCCs
 
   Status quo was largely maintained in the Middle East Gulf with 270,000 tonnes to

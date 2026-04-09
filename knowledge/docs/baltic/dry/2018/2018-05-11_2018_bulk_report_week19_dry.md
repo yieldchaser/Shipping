@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week19_dry.html
 source_stem: 2018_bulk-report-week19_dry
+source_url: null
 summary: 'Capesize
 
   A positive mood for the coming days, with rates firming again as the week closed

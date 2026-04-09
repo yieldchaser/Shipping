@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-10-22_tanker-report-week-42_tanker.html
 source_stem: 2021-10-22_tanker-report-week-42_tanker
+source_url: null
 summary: 'VLCC
 
   Another week of modest gains from both Middle East and Atlantic regions. Rates for

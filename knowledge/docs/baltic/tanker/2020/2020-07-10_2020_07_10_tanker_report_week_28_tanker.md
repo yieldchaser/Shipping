@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-07-10_Tanker-report-Week-28_tanker.html
 source_stem: 2020-07-10_Tanker-report-Week-28_tanker
+source_url: null
 summary: 'VLCC
 
   Rates firmed this week across the board in this sector. In the Middle East Gulf,

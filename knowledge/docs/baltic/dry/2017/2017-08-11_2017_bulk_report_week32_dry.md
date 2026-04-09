@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week32_dry.html
 source_stem: 2017_bulk-report-week32_dry
+source_url: null
 summary: 'Capesize
 
   A strong end to the week for the big ships despite a Singapore holiday mid-week

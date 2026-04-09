@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week26_tanker.html
 source_stem: 2018_tanker-report-week26_tanker
+source_url: null
 summary: 'VLCC
 
   Limited enquiry in the ME Gulf saw rates ease three points with Unipec taking ‘Leonidas''

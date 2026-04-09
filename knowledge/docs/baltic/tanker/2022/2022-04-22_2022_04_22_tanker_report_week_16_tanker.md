@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-04-22_tanker-report-week-16_tanker.html
 source_stem: 2022-04-22_tanker-report-week-16_tanker
+source_url: null
 summary: 'Clean
 
   An upturn in freight this week in the Middle East Gulf. The LR2s of TC1 75k Middle

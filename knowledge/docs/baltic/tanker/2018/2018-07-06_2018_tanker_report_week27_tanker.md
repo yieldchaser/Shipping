@@ -35,6 +35,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week27_tanker.html
 source_stem: 2018_tanker-report-week27_tanker
+source_url: null
 summary: 'VLCC
 
   Despite good volumes of enquiry, rates eased for eastbound 270,000-ton cargoes.

@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week30_dry.html
 source_stem: 2016_bulk-report-week30_dry
+source_url: null
 summary: 'Capesize
 
   A gloomy week for the big ships with rates falling significantly in the past week.

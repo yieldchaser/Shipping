@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week42_tanker.html
 source_stem: 2018_tanker-report-week42_tanker
+source_url: null
 summary: 'VLCC
 
   Middle East Gulf rates remained unchanged, with Thailand fixed at WS 86 and China

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-08-13_tanker-report-week-32_tanker.html
 source_stem: 2021-08-13_tanker-report-week-32_tanker
+source_url: null
 summary: 'VLCC
 
   The diabolical market continues with rates in the Middle East for 280,000mt to US

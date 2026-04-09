@@ -46,6 +46,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week38_dry.html
 source_stem: 2017_bulk-report-week38_dry
+source_url: null
 summary: 'Capesize
 
   A busy week for the big ships with the rates strong in all areas of the market.

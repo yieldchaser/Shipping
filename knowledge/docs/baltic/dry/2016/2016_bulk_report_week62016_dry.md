@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week62016_dry.html
 source_stem: 2016_bulk-report-week62016_dry
+source_url: null
 summary: 'Capesize
 
   The market was dormant for the first half of the week and while it had woken up

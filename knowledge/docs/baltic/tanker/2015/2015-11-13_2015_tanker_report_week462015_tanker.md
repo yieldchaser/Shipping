@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_tanker-report-week462015_tanker.html
 source_stem: 2015_tanker-report-week462015_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been a quieter week in the Middle East Gulf, November requirements seem to

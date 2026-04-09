@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week25_dry.html
 source_stem: 2018_bulk-report-week25_dry
+source_url: null
 summary: 'Capesize
 
   It was a week of two halves, with very slow trading initially spooking some owners/operators

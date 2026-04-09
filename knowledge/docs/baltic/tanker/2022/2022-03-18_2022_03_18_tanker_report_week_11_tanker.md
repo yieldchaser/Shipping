@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-03-18_tanker-report-week-11_tanker.html
 source_stem: 2022-03-18_tanker-report-week-11_tanker
+source_url: null
 summary: 'Clean
 
   The BCTI held up just over the 1000 mark this week with high bunker prices (albeit

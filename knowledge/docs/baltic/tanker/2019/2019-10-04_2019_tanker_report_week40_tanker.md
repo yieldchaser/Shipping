@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week40_tanker.html
 source_stem: 2019_tanker-report-week40_tanker
+source_url: null
 summary: 'VLCC
 
   The markets made huge improvements, mainly due to the effects of an already tightening

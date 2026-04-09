@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-08-14_tanker-report-week-33_tanker.html
 source_stem: 2020-08-14_tanker-report-week-33_tanker
+source_url: null
 summary: 'VLCC
 
   Another week of static rates in this sector. 280,000mt Middle East Gulf to USG via

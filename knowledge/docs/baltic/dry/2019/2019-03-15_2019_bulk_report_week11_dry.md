@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week11_dry.html
 source_stem: 2019_bulk-report-week11_dry
+source_url: null
 summary: 'Capesize
 
   The Baltic Capesize market shrugged off its recent negative sentiment to post daily

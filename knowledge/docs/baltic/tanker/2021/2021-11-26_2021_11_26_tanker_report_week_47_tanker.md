@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-11-26_tanker-report-week-47_tanker.html
 source_stem: 2021-11-26_tanker-report-week-47_tanker
+source_url: null
 summary: 'VLCC
 
   Another slight slippage of the rates was seen this week. For the 280,000mt Middle

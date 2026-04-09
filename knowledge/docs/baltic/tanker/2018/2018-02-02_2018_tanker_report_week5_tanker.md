@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week5_tanker.html
 source_stem: 2018_tanker-report-week5_tanker
+source_url: null
 summary: 'VLCCs
 
   Charterers continued to have the upper hand as rates for 270,000 tonnes to China

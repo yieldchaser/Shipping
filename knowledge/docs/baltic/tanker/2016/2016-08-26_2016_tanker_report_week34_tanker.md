@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week34_tanker.html
 source_stem: 2016_tanker-report-week34_tanker
+source_url: null
 summary: 'VLCCs
 
   Middle East Gulf long and short has weakened since last week due to excess tonnage.

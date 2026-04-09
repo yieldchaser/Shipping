@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week35_tanker.html
 source_stem: 2016_tanker-report-week35_tanker
+source_url: null
 summary: 'VLCCs
 
   In the Middle East Gulf, rates have remained under pressure. There is more evidence

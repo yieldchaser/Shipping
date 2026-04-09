@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-02-04_tanker-report-week-5_tanker.html
 source_stem: 2022-02-04_tanker-report-week-5_tanker
+source_url: null
 summary: 'Clean
 
   There was little activity in the East this week on both LRs and MRs as a combination

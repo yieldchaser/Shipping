@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-07-02_tanker-report-week-26_tanker.html
 source_stem: 2021-07-02_tanker-report-week-26_tanker
+source_url: null
 summary: 'VLCC
 
   In the Middle East the market to US Gulf (TD1 280k routing via the Cape/Cape) remains

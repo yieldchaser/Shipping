@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week46_tanker.html
 source_stem: 2018_tanker-report-week46_tanker
+source_url: null
 summary: 'VLCC
 
   A slower week In the Middle East Gulf saw rates ease four points to WS 90 for 270,000mt

@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week9_dry.html
 source_stem: 2019_bulk-report-week9_dry
+source_url: null
 summary: 'Capesize
 
   Vale''s ongoing absence from the Brazil spot market continued to have a negative

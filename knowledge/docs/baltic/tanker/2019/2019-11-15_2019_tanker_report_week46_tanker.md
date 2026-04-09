@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week46_tanker.html
 source_stem: 2019_tanker-report-week46_tanker
+source_url: null
 summary: 'VLCC
 
   With at least half of the VLCC market participants meeting in Dubai this week, fixture

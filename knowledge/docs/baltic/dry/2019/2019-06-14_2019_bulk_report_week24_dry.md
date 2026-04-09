@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week24_dry.html
 source_stem: 2019_bulk-report-week24_dry
+source_url: null
 summary: 'Capesize
 
   The market closed on a quiet Friday last week after a few hectic days of mid-week

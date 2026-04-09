@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week2_tanker.html
 source_stem: 2017_tanker-report-week2_tanker
+source_url: null
 summary: 'VLCCs
 
   A very active third decade in the Middle East Gulf has enabled owners to steady

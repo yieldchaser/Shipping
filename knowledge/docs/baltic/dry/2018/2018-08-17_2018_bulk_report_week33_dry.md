@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week33_dry.html
 source_stem: 2018_bulk-report-week33_dry
+source_url: null
 summary: 'Capesize
 
   A week of largely unfulfilled expectations with holidays again curbing activity.

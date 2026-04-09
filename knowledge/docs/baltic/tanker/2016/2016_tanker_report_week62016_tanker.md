@@ -35,6 +35,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week62016_tanker.html
 source_stem: 2016_tanker-report-week62016_tanker
+source_url: null
 summary: 'VLCCs
 
   Not surprisingly the market remained largely unchanged due to the combination of

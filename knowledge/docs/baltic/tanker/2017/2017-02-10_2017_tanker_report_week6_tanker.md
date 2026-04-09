@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week6_tanker.html
 source_stem: 2017_tanker-report-week6_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been a better week for owners as a number of new buildings and older ships

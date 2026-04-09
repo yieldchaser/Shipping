@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-02-10_tanker-report-week-6_tanker.html
 source_stem: 2023-02-10_tanker-report-week-6_tanker
+source_url: null
 summary: 'Clean
 
   The Clean Product tanker market has seen improvements on all sectors and sizes this

@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-08-01_container-report-week-31_container.html
 source_stem: 2025-08-01_container-report-week-31_container
+source_url: null
 summary: 'Main
 
   As we arrive into August, we have seen the EU and USA finalise a 15pct tariff deal.

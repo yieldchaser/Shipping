@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week29_dry.html
 source_stem: 2019_bulk-report-week29_dry
+source_url: null
 summary: 'Capesize
 
   Another week of gains as the Atlantic basin continues to be pressurised on tonnage

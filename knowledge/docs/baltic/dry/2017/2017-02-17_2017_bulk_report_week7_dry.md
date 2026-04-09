@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report--week7_dry.html
 source_stem: 2017_bulk-report--week7_dry
+source_url: null
 summary: 'Capesize
 
   A more optimistic end to the week for the big ships with rates moving up in some

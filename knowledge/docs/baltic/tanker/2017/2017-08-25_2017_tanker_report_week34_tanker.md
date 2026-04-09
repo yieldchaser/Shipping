@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week34_tanker.html
 source_stem: 2017_tanker-report-week34_tanker
+source_url: null
 summary: 'VLCCs
 
   There has been very little change from last week in the Middle East Gulf with charterers

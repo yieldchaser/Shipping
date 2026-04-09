@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week12_dry.html
 source_stem: 2018_bulk-report-week12_dry
+source_url: null
 summary: 'Capesize
 
   After a relatively positive start, the market stalled mid-week, dropping below $6.00

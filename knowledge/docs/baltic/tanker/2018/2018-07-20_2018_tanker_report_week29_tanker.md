@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week29_tanker.html
 source_stem: 2018_tanker-report-week29_tanker
+source_url: null
 summary: 'VLCC
 
   Rates from ME Gulf eased down a point to WS 45.5/46 basis 270,000mt to China, although,

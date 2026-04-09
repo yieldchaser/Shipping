@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week1_tanker.html
 source_stem: 2018_tanker-report-week1_tanker
+source_url: null
 summary: 'VLCCs
 
   The market in the Middle East Gulf has remained under pressure since the start of

@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week7_tanker.html
 source_stem: 2018_tanker-report-week7_tanker
+source_url: null
 summary: 'VLCCs
 
   Rates in the Middle East Gulf for 270,000 tonnes to China came under renewed downward

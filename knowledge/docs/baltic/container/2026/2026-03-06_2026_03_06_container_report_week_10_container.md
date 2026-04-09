@@ -30,6 +30,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2026/2026-03-06_container-report-week-10_container.html
 source_stem: 2026-03-06_container-report-week-10_container
+source_url: null
 summary: 'Container
 
   The past week has seen disruption in the Middle East Gulf area following the disruption

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week37_tanker.html
 source_stem: 2019_tanker-report-week37_tanker
+source_url: null
 summary: 'VLCC
 
   Middle East Gulf rates recovered slightly with 280,000mt to US Gulf, basis Cape

@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week29_tanker.html
 source_stem: 2017_tanker-report-week29_tanker
+source_url: null
 summary: 'VLCCs
 
   The market in the Middle East Gulf has remained under downward pressure this week.

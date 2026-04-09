@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-01-29_tanker-report-week-4_tanker.html
 source_stem: 2021-01-29_tanker-report-week-4_tanker
+source_url: null
 summary: 'VLCC
 
   The VLCC sector saw rates pretty much static this week with ‘earnings'' ever so

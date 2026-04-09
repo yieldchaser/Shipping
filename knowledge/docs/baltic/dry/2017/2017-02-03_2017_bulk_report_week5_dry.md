@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week5_dry.html
 source_stem: 2017_bulk-report-week5_dry
+source_url: null
 summary: 'Capesize
 
   Whilst the Chinese New Year was celebrated there was a fall in all rates this week

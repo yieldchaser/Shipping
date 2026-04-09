@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week30_dry.html
 source_stem: 2017_bulk-report-week30_dry
+source_url: null
 summary: 'Capesize
 
   The week started and ended on an upward feeling for the west Australia to China

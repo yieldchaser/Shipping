@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week8_tanker.html
 source_stem: 2016_tanker-report-week8_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been another slow week in the Middle East Gulf with charterers able to pick

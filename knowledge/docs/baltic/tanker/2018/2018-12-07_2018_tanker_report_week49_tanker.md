@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week49_tanker.html
 source_stem: 2018_tanker-report-week49_tanker
+source_url: null
 summary: 'VLCC
 
   Rates in the Middle East Gulf softened around 2.5 points to WS 97/97.5 for 270,000mt

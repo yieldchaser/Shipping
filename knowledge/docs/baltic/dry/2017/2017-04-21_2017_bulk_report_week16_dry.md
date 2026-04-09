@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week16_dry.html
 source_stem: 2017_bulk-report-week16_dry
+source_url: null
 summary: 'Capesize
 
   Post Easter holiday blues hit the Capesize market with rates falling generally and

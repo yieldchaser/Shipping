@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week6_dry.html
 source_stem: 2017_bulk-report-week6_dry
+source_url: null
 summary: 'Capesize
 
   At the start of the week the west Australia/China route was fixing around the $4.70

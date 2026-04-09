@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-10-07_tanker-report-week-40_tanker.html
 source_stem: 2022-10-07_tanker-report-week-40_tanker
+source_url: null
 summary: 'Clean
 
   In the Middle East Gulf this week most LR runs have seen more declines from inactivity.

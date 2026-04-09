@@ -47,6 +47,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week43_dry.html
 source_stem: 2017_bulk-report-week43_dry
+source_url: null
 summary: 'Capesize
 
   The week saw a record rise in the BCI 5TC values early in the week but then tailed

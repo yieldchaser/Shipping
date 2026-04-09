@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week27_tanker.html
 source_stem: 2017_tanker-report-week27_tanker
+source_url: null
 summary: 'VLCCs
 
   Rates have remained static in the Middle East Gulf, hovering around the low WS 50s

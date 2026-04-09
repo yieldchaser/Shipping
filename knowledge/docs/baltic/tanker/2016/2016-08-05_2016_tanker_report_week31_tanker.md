@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week31_tanker.html
 source_stem: 2016_tanker-report-week31_tanker
+source_url: null
 summary: 'VLCCs
 
   The oversupply of tonnage and lack of fresh cargo in the Middle East continued into

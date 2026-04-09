@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week6_dry.html
 source_stem: 2019_bulk-report-week6_dry
+source_url: null
 summary: 'Capesize
 
   The Vale disaster weighed heavily on the market for big ships, with uncertainty

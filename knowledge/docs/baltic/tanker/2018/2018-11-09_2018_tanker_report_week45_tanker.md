@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week45_tanker.html
 source_stem: 2018_tanker-report-week45_tanker
+source_url: null
 summary: 'VLCC
 
   In the Middle East Gulf, enquiry slowed and rates eased to WS 93.75/94 for 270,000mt

@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-05-22_Tanker-report-Week-21_tanker.html
 source_stem: 2020-05-22_Tanker-report-Week-21_tanker
+source_url: null
 summary: 'VLCC
 
   There has again been a good volume of fixtures in all areas this week, with charterers

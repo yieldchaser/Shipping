@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week31_tanker.html
 source_stem: 2019_tanker-report-week31_tanker
+source_url: null
 summary: 'VLCC
 
   Middle East Gulf rates improved slightly, with 280,000mt Middle East Gulf to US

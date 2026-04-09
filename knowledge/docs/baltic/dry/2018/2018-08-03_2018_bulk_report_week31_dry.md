@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week31_dry.html
 source_stem: 2018_bulk-report-week31_dry
+source_url: null
 summary: 'Capesize
 
   Vale dominated the news for the big ships, with reports Brazilian miners took 20

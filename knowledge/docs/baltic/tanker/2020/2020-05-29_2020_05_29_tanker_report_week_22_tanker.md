@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-05-29_Tanker-report-Week-22_tanker.html
 source_stem: 2020-05-29_Tanker-report-Week-22_tanker
+source_url: null
 summary: 'VLCC
 
   Improved volumes have tightened the supply of vessels, enabling owners to regain

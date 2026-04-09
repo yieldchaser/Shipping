@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-03-10_tanker-report-week-10_tanker.html
 source_stem: 2023-03-10_tanker-report-week-10_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf has been active this week with rates improving on all sizes.

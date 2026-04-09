@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-03-11_tanker-report-week-10_tanker.html
 source_stem: 2022-03-11_tanker-report-week-10_tanker
+source_url: null
 summary: 'Clean
 
   The BCTI ticked over the 1000 mark this week as CPP tanker freight continued to

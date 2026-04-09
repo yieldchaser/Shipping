@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week11_tanker.html
 source_stem: 2019_tanker-report-week11_tanker
+source_url: null
 summary: 'VLCC
 
   A slower week saw rates in all areas generally come under downward pressure. Early

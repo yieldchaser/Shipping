@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week3_dry.html
 source_stem: 2018_bulk-report-week3_dry
+source_url: null
 summary: 'Capesize
 
   The week ended with further losses on all the routes, as the published Cape 5TC

@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week47_dry.html
 source_stem: 2018_bulk-report-week47_dry
+source_url: null
 summary: 'Capesize
 
   It was a positive end to the week, with West Australia/China making significant

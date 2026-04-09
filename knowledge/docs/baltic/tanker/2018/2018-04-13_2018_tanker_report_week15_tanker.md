@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week15_tanker.html
 source_stem: 2018_tanker-report-week15_tanker
+source_url: null
 summary: 'VLCCs
 
   Diminished volumes of enquiry have seen rates in the Middle East Gulf come under

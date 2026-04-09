@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week36_tanker.html
 source_stem: 2016_tanker-report-week36_tanker
+source_url: null
 summary: 'VLCCs
 
   Although there have been good levels of enquiry in the Middle East Gulf, rates have

@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week37_dry.html
 source_stem: 2018_bulk-report-week37_dry
+source_url: null
 summary: 'Capesize
 
   The Capesize market fell sharply across all areas with the positive sentiment for

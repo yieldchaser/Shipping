@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week33_dry.html
 source_stem: 2019_bulk-report-week33_dry
+source_url: null
 summary: 'Capesize
 
   The Capesize market was buoyant in both basins this week, posting gains across the

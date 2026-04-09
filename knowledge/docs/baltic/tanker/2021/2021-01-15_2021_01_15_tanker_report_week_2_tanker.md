@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-01-15_tanker-report-week-2_tanker.html
 source_stem: 2021-01-15_tanker-report-week-2_tanker
+source_url: null
 summary: 'VLCC
 
   A general further weakening of rates was seen across this sector. In the Middle

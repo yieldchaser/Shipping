@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week29_dry.html
 source_stem: 2016_bulk-report-week29_dry
+source_url: null
 summary: 'Capesize
 
   Another week of drifting rates in all areas of the market. On the active West Australia/China

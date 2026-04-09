@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-11-28_container-report-week-48_container.html
 source_stem: 2025-11-28_container-report-week-48_container
+source_url: null
 summary: 'Main
 
   The Suez Canal authority has this week announced that it has had talks between themselves,

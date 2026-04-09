@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week39_tanker.html
 source_stem: 2019_tanker-report-week39_tanker
+source_url: null
 summary: 'VLCC
 
   With 10 days having passed since the Saudi oilfield attacks, the Middle East Gulf

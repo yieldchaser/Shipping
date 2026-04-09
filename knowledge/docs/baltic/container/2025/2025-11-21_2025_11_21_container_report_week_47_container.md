@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-11-21_container-report-week-47_container.html
 source_stem: 2025-11-21_container-report-week-47_container
+source_url: null
 summary: 'Main
 
   As we approach December, we traditionally see a slowdown in container throughput

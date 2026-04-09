@@ -46,6 +46,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week42_dry.html
 source_stem: 2017_bulk-report-week42_dry
+source_url: null
 summary: 'Capesize
 
   A Singapore holiday mid-week disrupted trading for the big ships particularly in

@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week21_dry.html
 source_stem: 2019_bulk-report-week21_dry
+source_url: null
 summary: 'Capesize
 
   The past week marked one of the busier periods for Capesizes this year. With a subdued

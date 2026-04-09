@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2015/2015_outlook-bleak_dry.html
 source_stem: 2015_outlook-bleak_dry
+source_url: null
 summary: 'Capesize
 
   A bleak outlook for the big ships with the list of spot ships growing daily and

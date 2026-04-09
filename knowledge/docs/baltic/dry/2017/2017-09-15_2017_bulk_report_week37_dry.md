@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week37_dry.html
 source_stem: 2017_bulk-report-week37_dry
+source_url: null
 summary: 'Capesize
 
   A week of two halves with the market slipping at the start of the week and then

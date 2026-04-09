@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020_tanker-report-week5_tanker.html
 source_stem: 2020_tanker-report-week5_tanker
+source_url: null
 summary: 'VLCC
 
   The market in the Middle East tumbled this week, with most of the blame laying with

@@ -46,6 +46,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week36_dry.html
 source_stem: 2017_bulk-report-week36_dry
+source_url: null
 summary: 'Capesize
 
   A punchy week for the big ships as the rate for West Australia/China hit $8.00 the

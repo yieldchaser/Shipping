@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2026/2026-01-09_container-report-week-2_container.html
 source_stem: 2026-01-09_container-report-week-2_container
+source_url: null
 summary: 'Main
 
   The market is broadly flat week on week, with the Baltic spot indexes showing limited

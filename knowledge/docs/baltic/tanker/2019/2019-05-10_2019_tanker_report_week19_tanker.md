@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week19_tanker.html
 source_stem: 2019_tanker-report-week19_tanker
+source_url: null
 summary: 'VLCC
 
   An uninspiring week for owners saw rates flat at WS 37 for 270,000mt from the Middle

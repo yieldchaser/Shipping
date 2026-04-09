@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week4_tanker.html
 source_stem: 2018_tanker-report-week4_tanker
+source_url: null
 summary: 'VLCCs
 
   Rates softened as more cargo came to the market. Levels for 270,000 tonnes to China

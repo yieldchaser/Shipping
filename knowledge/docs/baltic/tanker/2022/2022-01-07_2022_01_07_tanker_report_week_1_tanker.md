@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-01-07_tanker-report-week-1_tanker.html
 source_stem: 2022-01-07_tanker-report-week-1_tanker
+source_url: null
 summary: 'VLCC
 
   As we start a new year we''ve seen a slow take-up the new increased flat rates with

@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-07-28_tanker-report-week-30_tanker.html
 source_stem: 2023-07-28_tanker-report-week-30_tanker
+source_url: null
 summary: 'Clean
 
   The BCTI finished the week at 671, up from 610 the previous week. In the Middle

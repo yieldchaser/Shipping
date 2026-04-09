@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week38_tanker.html
 source_stem: 2018_tanker-report-week38_tanker
+source_url: null
 summary: 'VLCC
 
   Rates for 270,000mt, from the Middle East Gulf to both China and Singapore, were

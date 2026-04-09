@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week49_dry.html
 source_stem: 2016_bulk-report-week49_dry
+source_url: null
 summary: 'Capesize
 
   Hopes that the recent firm rates would be maintained until at least the end of the

@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-06-05_Tanker-report-Week-23_tanker.html
 source_stem: 2020-06-05_Tanker-report-Week-23_tanker
+source_url: null
 summary: 'VLCC
 
   Another fairly active week in the Middle East. However, owners were powerless to

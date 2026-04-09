@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-07-03_Tanker-report-Week-27_tanker.html
 source_stem: 2020-07-03_Tanker-report-Week-27_tanker
+source_url: null
 summary: 'VLCC
 
   In the Middle East Gulf, rates eased a single point from last week''s levels with

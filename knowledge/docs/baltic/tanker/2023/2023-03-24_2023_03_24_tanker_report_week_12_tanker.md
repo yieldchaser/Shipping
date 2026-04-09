@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-03-24_tanker-report-week-12_tanker.html
 source_stem: 2023-03-24_tanker-report-week-12_tanker
+source_url: null
 summary: 'Clean
 
   The BCTI finished the week at 1,191, up from 1,077 the previous week. Rates for

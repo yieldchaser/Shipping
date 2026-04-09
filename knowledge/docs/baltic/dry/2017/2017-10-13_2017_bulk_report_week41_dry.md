@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week41_dry.html
 source_stem: 2017_bulk-report-week41_dry
+source_url: null
 summary: 'Capesize
 
   Vale hoovered up several ships for its November program from Brazil to China taking

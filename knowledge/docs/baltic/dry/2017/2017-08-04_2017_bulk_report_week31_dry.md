@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week31_dry.html
 source_stem: 2017_bulk-report-week31_dry
+source_url: null
 summary: 'Capesize
 
   A stronger week for the big ships but some cracks appearing as the week closed out

@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week51_dry.html
 source_stem: 2019_bulk-report-week51_dry
+source_url: null
 summary: 'Capesize
 
   The Capesize market this past week has been attempting to recalibrate itself in

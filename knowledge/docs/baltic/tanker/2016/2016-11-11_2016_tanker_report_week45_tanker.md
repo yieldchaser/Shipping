@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week45_tanker.html
 source_stem: 2016_tanker-report-week45_tanker
+source_url: null
 summary: 'VLCCs
 
   Although activity in the Middle East Gulf was less than expected, the market for

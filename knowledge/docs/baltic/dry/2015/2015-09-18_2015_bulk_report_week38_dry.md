@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2015/2015_bulk-report-week38_dry.html
 source_stem: 2015_bulk-report-week38_dry
+source_url: null
 summary: 'Capesize
 
   There was an upbeat end to the week with rates spiking sharply particularly in the

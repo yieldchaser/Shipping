@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_week-90_tanker.html
 source_stem: 2015_week-90_tanker
+source_url: null
 summary: 'VLCCs
 
   In the Middle East Gulf, it has been another slow week and rates continued to ease.

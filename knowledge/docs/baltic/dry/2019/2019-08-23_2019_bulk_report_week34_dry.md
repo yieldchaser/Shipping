@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week34_dry.html
 source_stem: 2019_bulk-report-week34_dry
+source_url: null
 summary: 'Capesize
 
   A tale of two halves this week as the market tide turned mid-week bringing a raft

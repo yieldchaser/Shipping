@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week29_tanker.html
 source_stem: 2016_tanker-report-week29_tanker
+source_url: null
 summary: 'VLCCs
 
   In the Middle East Gulf there has been a sense of déjà vu. Rates have been steady,

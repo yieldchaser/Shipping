@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-01-20_tanker-report-week-3_tanker.html
 source_stem: 2023-01-20_tanker-report-week-3_tanker
+source_url: null
 summary: 'Clean
 
   The CPP tanker market has for the most part continued its drop this week. As with

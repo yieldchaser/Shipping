@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week9_tanker.html
 source_stem: 2018_tanker-report-week9_tanker
+source_url: null
 summary: 'VLCCs
 
   There is a sense of déjà vu in the Middle East Gulf with rates for 270,000 tonnes

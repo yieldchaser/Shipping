@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-10-02_tanker-report-week-40_tanker.html
 source_stem: 2020-10-02_tanker-report-week-40_tanker
+source_url: null
 summary: 'VLCC
 
   Rates in this sector remained depressed this week. In the Middle East, we saw rates

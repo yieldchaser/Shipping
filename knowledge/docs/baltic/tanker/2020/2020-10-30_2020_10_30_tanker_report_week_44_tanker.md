@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-10-30_tanker-report---week-44_tanker.html
 source_stem: 2020-10-30_tanker-report---week-44_tanker
+source_url: null
 summary: 'VLCC
 
   Another difficult week for owners saw rates fail to gain any traction. There was

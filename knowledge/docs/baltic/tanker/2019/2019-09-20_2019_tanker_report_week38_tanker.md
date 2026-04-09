@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week38_tanker.html
 source_stem: 2019_tanker-report-week38_tanker
+source_url: null
 summary: 'VLCC
 
   The attack on Saudi Arabia led to volatile bunker prices and owners capitalised

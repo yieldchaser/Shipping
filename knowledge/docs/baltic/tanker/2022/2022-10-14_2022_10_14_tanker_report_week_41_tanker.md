@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-10-14_tanker-report-week-41_tanker.html
 source_stem: 2022-10-14_tanker-report-week-41_tanker
+source_url: null
 summary: 'Clean
 
   In the Middle East Gulf this week early activity saw rates begin to creep up. TC1

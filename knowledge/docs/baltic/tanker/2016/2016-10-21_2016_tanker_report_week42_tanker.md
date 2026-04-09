@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week42_tanker.html
 source_stem: 2016_tanker-report-week42_tanker
+source_url: null
 summary: 'VLCCs
 
   There is a feeling that the market might have peaked this week. In the Middle East

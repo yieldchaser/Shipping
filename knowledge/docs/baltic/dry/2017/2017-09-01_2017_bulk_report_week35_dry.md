@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week35_dry.html
 source_stem: 2017_bulk-report-week35_dry
+source_url: null
 summary: 'Main
 
   We are pleased to announce that David Knights has joined the Baltic Freight Market

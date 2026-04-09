@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week33_dry.html
 source_stem: 2016_bulk-report-week33_dry
+source_url: null
 summary: 'Capesize
 
   Despite several ships fixed on the key West Australia/China run at the beginning

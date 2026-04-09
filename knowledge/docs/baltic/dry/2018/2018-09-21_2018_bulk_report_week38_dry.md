@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week38_dry.html
 source_stem: 2018_bulk-report-week38_dry
+source_url: null
 summary: 'Capesize
 
   A mixed week for the big ships with unfulfilled expectations. Rates on the West

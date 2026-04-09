@@ -46,6 +46,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week10_dry.html
 source_stem: 2018_bulk-report-week10_dry
+source_url: null
 summary: 'Capesize
 
   Some relief for owners as the week closed out with the market finding a floor in

@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020_tanker-report-week2_tanker.html
 source_stem: 2020_tanker-report-week2_tanker
+source_url: null
 summary: 'VLCC
 
   Escalating tensions between the USA and Iran, in addition to a continuing strong

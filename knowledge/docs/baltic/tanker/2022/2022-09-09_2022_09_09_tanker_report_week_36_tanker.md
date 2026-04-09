@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-09-09_tanker-report-week-36_tanker.html
 source_stem: 2022-09-09_tanker-report-week-36_tanker
+source_url: null
 summary: 'Clean
 
   For the Middle East clean market it has been muted compared to last week. TC1 saw

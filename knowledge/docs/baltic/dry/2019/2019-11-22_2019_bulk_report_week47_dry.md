@@ -46,6 +46,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week47_dry.html
 source_stem: 2019_bulk-report-week47_dry
+source_url: null
 summary: 'Capesize
 
   After a week of value being eroded on the Capesize market, Friday brought improved

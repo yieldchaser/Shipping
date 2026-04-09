@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week5_dry.html
 source_stem: 2019_bulk-report-week5_dry
+source_url: null
 summary: 'Capesize
 
   The Vale dam tragedy sparked a sharp fall in rates across all regions even where

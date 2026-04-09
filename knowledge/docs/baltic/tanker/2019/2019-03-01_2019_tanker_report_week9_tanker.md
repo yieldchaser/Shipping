@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week9_tanker.html
 source_stem: 2019_tanker-report-week9_tanker
+source_url: null
 summary: 'VLCC
 
   Renewed activity from the US Gulf has been driving the market. A run to Korea went

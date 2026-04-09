@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week35_tanker.html
 source_stem: 2019_tanker-report-week35_tanker
+source_url: null
 summary: 'VLCC
 
   Middle East Gulf rates to Eastern destinations lost the five to six points gained

@@ -35,6 +35,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week34_tanker.html
 source_stem: 2018_tanker-report-week34_tanker
+source_url: null
 summary: 'VLCC
 
   Weather delays in the East and increased cargo avails pushed up rates six points

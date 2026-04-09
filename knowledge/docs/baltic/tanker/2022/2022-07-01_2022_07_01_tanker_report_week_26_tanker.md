@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-07-01_tanker-report-week-26_tanker.html
 source_stem: 2022-07-01_tanker-report-week-26_tanker
+source_url: null
 summary: 'Clean
 
   LRs in the Middle East Gulf have been subject to more freight rate reductions this

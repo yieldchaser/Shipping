@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week12_tanker.html
 source_stem: 2018_tanker-report-week12_tanker
+source_url: null
 summary: 'VLCCs
 
   A more active week in the Middle East Gulf saw owners capitalise, as rates for 270,000

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-03-25_tanker-report-week-12_tanker.html
 source_stem: 2022-03-25_tanker-report-week-12_tanker
+source_url: null
 summary: 'Clean
 
   In the Middle East Gulf, LR freight has weakened this week. However, the smaller

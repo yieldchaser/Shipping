@@ -29,6 +29,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-10-24_container-report-week-43_container.html
 source_stem: 2025-10-24_container-report-week-43_container
+source_url: null
 summary: 'Main
 
   In the last 7 days overall Baltic / FBX container shipping rates have held steady

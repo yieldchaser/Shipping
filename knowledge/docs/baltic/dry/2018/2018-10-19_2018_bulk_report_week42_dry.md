@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week42_dry.html
 source_stem: 2018_bulk-report-week42_dry
+source_url: null
 summary: 'Capesize
 
   A positive end to last week after a shaky start, with a Coaltrans taking participants

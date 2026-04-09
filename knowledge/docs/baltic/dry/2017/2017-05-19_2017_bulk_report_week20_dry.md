@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week20_dry.html
 source_stem: 2017_bulk-report-week20_dry
+source_url: null
 summary: 'Capesize
 
   Rates recovered as the week drew to a close, with this evident from Brazil and West

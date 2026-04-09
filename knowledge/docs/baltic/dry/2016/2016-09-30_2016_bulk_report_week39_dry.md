@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week39_dry.html
 source_stem: 2016_bulk-report-week39_dry
+source_url: null
 summary: 'Capesize
 
   The fundamental fragility in the market was highlighted this week as the upcoming

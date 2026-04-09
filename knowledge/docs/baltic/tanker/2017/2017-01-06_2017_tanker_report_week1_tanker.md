@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week1_tanker.html
 source_stem: 2017_tanker-report-week1_tanker
+source_url: null
 summary: 'VLCCs
 
   Market rates at present are very much guided by the type of ship that charterers

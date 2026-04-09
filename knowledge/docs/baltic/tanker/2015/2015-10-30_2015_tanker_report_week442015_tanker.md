@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_tanker-report-week442015_tanker.html
 source_stem: 2015_tanker-report-week442015_tanker
+source_url: null
 summary: 'VLCCs
 
   The Middle East Gulf remained a tale of two halves with rates initially falling

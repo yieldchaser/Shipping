@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-02-17_tanker-report-week-7_tanker.html
 source_stem: 2023-02-17_tanker-report-week-7_tanker
+source_url: null
 summary: 'Clean
 
   In the Middle East Gulf, LR2s have been leading the charge this week with consistently

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1320,
+  "token_count": 1323,
   "source_path": "reports/baltic/tanker/2024/2024-01-19_tanker-report-week-3_tanker.html",
   "source_url": null,
   "children": [
@@ -59,7 +59,7 @@
       "children": []
     },
     {
-      "node_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__s02_dirty",
+      "node_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__s03_dirty",
       "doc_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker",
       "parent_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__root",
       "title": "Dirty",
@@ -68,7 +68,7 @@
       ],
       "section_path_text": "Dirty",
       "level": 1,
-      "ordinal": 2,
+      "ordinal": 3,
       "summary": "Please note that TCE references below are based on the revised details, updated on 15 th January 2024 and available on the website.",
       "keywords": [
         "are",
@@ -87,7 +87,7 @@
       "children": []
     },
     {
-      "node_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__s03_vlcc",
+      "node_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__s04_vlcc",
       "doc_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker",
       "parent_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__root",
       "title": "VLCC",
@@ -96,7 +96,7 @@
       ],
       "section_path_text": "VLCC",
       "level": 1,
-      "ordinal": 3,
+      "ordinal": 4,
       "summary": "The market weakened this week with the 270,000 mt Middle East Gulf to China route losing 3.5 points to WS66.29, which translates into a daily round-trip TCE of $44,420 basis the Baltic Exchange's vessel description. In the Atlantic market, where a stepper drop occurred, the rate for 260,000 mt West Africa/China lost eight points to WS66.60 (which shows a round voyage TCE of $45,738 / day) while the rate for 270,000 mt US Gulf/China shed $627,777 to $9,555,556 (which provides a round-trip daily TCE of $51,078).",
       "keywords": [
         "china",
@@ -115,7 +115,7 @@
       "children": []
     },
     {
-      "node_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__s04_suezmax",
+      "node_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__s05_suezmax",
       "doc_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker",
       "parent_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__root",
       "title": "Suezmax",
@@ -124,7 +124,7 @@
       ],
       "section_path_text": "Suezmax",
       "level": 1,
-      "ordinal": 4,
+      "ordinal": 5,
       "summary": "Suezmaxes in West Africa have had another steady week, with rates overall for 130,000 mt Nigeria/UK-Continent route gaining only two points to WS143.41 (a daily round-trip TCE of $63,637). In the Mediterranean and Black Sea region the rate for 135,000 mt CPC/Med route has remained flat at around the WS145 level (showing a daily TCE of $68,873 round-trip).",
       "keywords": [
         "suezmax",
@@ -143,7 +143,7 @@
       "children": []
     },
     {
-      "node_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__s05_aframax",
+      "node_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__s06_aframax",
       "doc_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker",
       "parent_id": "baltic_tanker_2024-01-19_2024_01_19_tanker_report_week_3_tanker__root",
       "title": "Aframax",
@@ -152,7 +152,7 @@
       ],
       "section_path_text": "Aframax",
       "level": 1,
-      "ordinal": 5,
+      "ordinal": 6,
       "summary": "In the North Sea, the rate for the 80,000 mt Cross-UK-Continent route is marginally softer, easing two points to WS183.57 (showing a round-trip daily TCE of $74,751 basis Hound Point to Wilhelmshaven). In the Mediterranean market the rate for 80,000 mt Cross-Mediterranean has increased by 22 points to WS211 (basis Ceyhan to Lavera, that shows a daily round trip TCE of $71,568).",
       "keywords": [
         "atlantic",

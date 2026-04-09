@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week42_tanker.html
 source_stem: 2017_tanker-report-week42_tanker
+source_url: null
 summary: 'VLCCs
 
   Positive sentiment saw rates in the Middle East Gulf gain seven points to WS 73-74

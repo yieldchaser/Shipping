@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-11-04_tanker-report-week-44_tanker.html
 source_stem: 2022-11-04_tanker-report-week-44_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf has seen a mixture of behavior this week. LR2 demand has been

@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week34_dry.html
 source_stem: 2017_bulk-report-week34_dry
+source_url: null
 summary: 'Capesize
 
   Sharp rises in FFA trading as the week closed out appeared to drive a physical market

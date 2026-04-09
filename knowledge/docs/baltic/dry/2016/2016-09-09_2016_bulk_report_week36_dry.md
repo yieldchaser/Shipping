@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week36_dry.html
 source_stem: 2016_bulk-report-week36_dry
+source_url: null
 summary: 'Capesize
 
   An upbeat finish to the week with some heralding and early start to an anticipated

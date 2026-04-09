@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-07-08_tanker-report-week-27_tanker.html
 source_stem: 2022-07-08_tanker-report-week-27_tanker
+source_url: null
 summary: 'Clean
 
   Freight in the Middle East Gulf continued to decline this week. TC1 dropped 16.79

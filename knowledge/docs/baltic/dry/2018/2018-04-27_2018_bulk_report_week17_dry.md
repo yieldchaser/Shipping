@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week17_dry.html
 source_stem: 2018_bulk-report-week17_dry
+source_url: null
 summary: 'Capesize
 
   Rates eased in the East, as the week closed out with the momentum slowing. Levels

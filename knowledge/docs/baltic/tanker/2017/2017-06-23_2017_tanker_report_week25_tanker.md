@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week25_tanker.html
 source_stem: 2017_tanker-report-week25_tanker
+source_url: null
 summary: 'VLCCs
 
   Owners were encouraged by a significant uptick in demand in the Middle East Gulf,

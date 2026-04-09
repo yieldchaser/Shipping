@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week45_dry.html
 source_stem: 2018_bulk-report-week45_dry
+source_url: null
 summary: 'Capesize
 
   It was a brutal week for the big ships as rates tumbled on all routes. A BHP Billiton

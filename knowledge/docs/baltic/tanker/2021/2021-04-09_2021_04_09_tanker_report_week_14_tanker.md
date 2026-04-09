@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-04-09_tanker-report-week-14_tanker.html
 source_stem: 2021-04-09_tanker-report-week-14_tanker
+source_url: null
 summary: 'VLCC
 
   Rates have slipped in all sectors. In the Middle East the market for 280,000mt Middle

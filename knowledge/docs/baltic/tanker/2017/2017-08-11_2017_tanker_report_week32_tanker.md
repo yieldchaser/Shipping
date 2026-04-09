@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week32_tanker.html
 source_stem: 2017_tanker-report-week32_tanker
+source_url: null
 summary: 'VLCCs
 
   Improved amounts of enquiry in the Middle East Gulf have only served to highlight

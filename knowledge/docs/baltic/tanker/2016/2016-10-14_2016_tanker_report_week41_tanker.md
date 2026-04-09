@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week41_tanker.html
 source_stem: 2016_tanker-report-week41_tanker
+source_url: null
 summary: 'VLCCs
 
   Firm sentiment has seen the market continue its upward trajectory in all areas.

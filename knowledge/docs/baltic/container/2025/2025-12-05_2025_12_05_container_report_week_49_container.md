@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-12-05_container-report-week-49_container.html
 source_stem: 2025-12-05_container-report-week-49_container
+source_url: null
 summary: 'Main
 
   With the uncertainty continuing in the Red Sea, we are yet to hear any carrier formally

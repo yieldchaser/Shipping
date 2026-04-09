@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week28_dry.html
 source_stem: 2019_bulk-report-week28_dry
+source_url: null
 summary: 'Capesize
 
   It was a Brazilian affair with a strong splash of bunkers characterising the Capesize

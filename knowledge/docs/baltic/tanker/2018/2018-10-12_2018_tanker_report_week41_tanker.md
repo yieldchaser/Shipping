@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week41_tanker.html
 source_stem: 2018_tanker-report-week41_tanker
+source_url: null
 summary: 'VLCC
 
   Charterers took a step back last week after previously frenetic activity. In the

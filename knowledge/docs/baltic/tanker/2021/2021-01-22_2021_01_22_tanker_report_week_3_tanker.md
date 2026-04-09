@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-01-22_tanker-report-week-3_tanker.html
 source_stem: 2021-01-22_tanker-report-week-3_tanker
+source_url: null
 summary: 'VLCC
 
   The market weakened even further this week with rates dropping and the timecharter

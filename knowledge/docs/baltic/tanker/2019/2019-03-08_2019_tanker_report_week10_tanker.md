@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week10_tanker.html
 source_stem: 2019_tanker-report-week10_tanker
+source_url: null
 summary: 'VLCC
 
   Initial optimism of long east from the Middle East Gulf, fixing at close to WS 70

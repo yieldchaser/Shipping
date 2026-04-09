@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-04-16_tanker-report-week-15_tanker.html
 source_stem: 2021-04-16_tanker-report-week-15_tanker
+source_url: null
 summary: 'VLCC
 
   It has been a marginally better week for owners all round. In the Middle East Gulf

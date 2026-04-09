@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week4_dry.html
 source_stem: 2017_bulk-report-week4_dry
+source_url: null
 summary: 'Capesize
 
   A dismal week for the big ships with rates falling in all areas as the week closed

@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2026/2026-02-06_container-report-week-6_container.html
 source_stem: 2026-02-06_container-report-week-6_container
+source_url: null
 summary: 'Container
 
   Many liner owners are still not committing to a Red Sea return, with the exception

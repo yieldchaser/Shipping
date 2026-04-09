@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-02-26_tanker-report-week-8_tanker.html
 source_stem: 2021-02-26_tanker-report-week-8_tanker
+source_url: null
 summary: 'VLCC
 
   The return of Chinese charterers to the market after the Lunar New Year holiday

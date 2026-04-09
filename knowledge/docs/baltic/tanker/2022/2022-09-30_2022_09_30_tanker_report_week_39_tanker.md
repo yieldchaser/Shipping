@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-09-30_tanker-report-week-39_tanker.html
 source_stem: 2022-09-30_tanker-report-week-39_tanker
+source_url: null
 summary: 'Clean
 
   In the Middle East Gulf this week all Baltic TC sectors have suffered a decline

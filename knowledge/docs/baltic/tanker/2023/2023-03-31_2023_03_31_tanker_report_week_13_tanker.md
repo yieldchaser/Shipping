@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-03-31_tanker-report-week-13_tanker.html
 source_stem: 2023-03-31_tanker-report-week-13_tanker
+source_url: null
 summary: 'Clean
 
   The clean product freight market has been this week with LRs losing some of their

@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week40_dry.html
 source_stem: 2018_bulk-report-week40_dry
+source_url: null
 summary: 'Capesize
 
   It was a surprising start to the week, with rates moving in some key areas despite

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-05-20_tanker-report-week-20_tanker.html
 source_stem: 2022-05-20_tanker-report-week-20_tanker
+source_url: null
 summary: 'Clean
 
   LRs in the Middle East Gulf began the week with soft sentiment. However, good activity

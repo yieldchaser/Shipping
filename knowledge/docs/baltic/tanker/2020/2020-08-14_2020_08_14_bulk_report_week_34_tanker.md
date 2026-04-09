@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-08-14_bulk-report-week-34_tanker.html
 source_stem: 2020-08-14_bulk-report-week-34_tanker
+source_url: null
 summary: 'Capesize
 
   The capesize market this week continued its range-bound trading as neither bulls

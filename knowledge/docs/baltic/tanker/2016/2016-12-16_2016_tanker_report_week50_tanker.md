@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week50_tanker.html
 source_stem: 2016_tanker-report-week50_tanker
+source_url: null
 summary: 'VLCCs
 
   Delays in both China and India have continued to create uncertainty on itineraries

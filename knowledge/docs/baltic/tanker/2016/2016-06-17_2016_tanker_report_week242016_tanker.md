@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week242016_tanker.html
 source_stem: 2016_tanker-report-week242016_tanker
+source_url: null
 summary: 'VLCCs
 
   A grim week for owners as tonnage continued to build in the Middle East Gulf. Charterers

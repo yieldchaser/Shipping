@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week21_dry.html
 source_stem: 2017_bulk-report-week21_dry
+source_url: null
 summary: 'Capesize
 
   More holidays this week and the UK-US & Chinese holidays in the early part of next

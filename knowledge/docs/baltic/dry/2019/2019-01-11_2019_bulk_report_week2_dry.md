@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week2_dry.html
 source_stem: 2019_bulk-report-week2_dry
+source_url: null
 summary: 'Capesize
 
   Dashed hopes summed up the first full week of the New Year. A slow start followed

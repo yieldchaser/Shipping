@@ -25,6 +25,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-08-15_container-report-week-33_container.html
 source_stem: 2025-08-15_container-report-week-33_container
+source_url: null
 summary: 'Main
 
   The Baltic headline FBX index has remained mostly unchanged over the past week,

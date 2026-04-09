@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week37_dry.html
 source_stem: 2016_bulk-report-week37_dry
+source_url: null
 summary: 'Capesize
 
   The sudden dip in physical rates this week was largely seen as a mid-week blip with

@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-12-09_tanker-report-week-49_tanker.html
 source_stem: 2022-12-09_tanker-report-week-49_tanker
+source_url: null
 summary: 'Clean
 
   LR2s in the Middle East Gulf have remained stable this week with TC1 holding around

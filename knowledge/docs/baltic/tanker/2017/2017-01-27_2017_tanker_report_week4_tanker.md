@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week4_tanker.html
 source_stem: 2017_tanker-report-week4_tanker
+source_url: null
 summary: 'VLCCs
 
   Pressure has been building in the Middle East Gulf with rates for 270,000 tonnes

@@ -29,6 +29,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-05-09_container-report-week-19_container.html
 source_stem: 2025-05-09_container-report-week-19_container
+source_url: null
 summary: 'Main
 
   The US tariffs on China, raised to 145% in early April, have caused a significant

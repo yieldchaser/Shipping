@@ -29,6 +29,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-06-13_container-report-week-24_container.html
 source_stem: 2025-06-13_container-report-week-24_container
+source_url: null
 summary: 'Main
 
   Container rates held on to their gains of previous weeks due to early peak season

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-11-27_tanker-report-week-48_tanker.html
 source_stem: 2020-11-27_tanker-report-week-48_tanker
+source_url: null
 summary: However, with the bunker prices rising about $25/mt, the net result is lower
   earnings for owners and a deepening of the chasm between income and expenditure.
   In the Middle East, rates firmed a couple of points to WS28 for 280,000mt to China,

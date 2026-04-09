@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_tanker-report--week492015_tanker.html
 source_stem: 2015_tanker-report--week492015_tanker
+source_url: null
 summary: 'VLCCs
 
   The market in the Middle East Gulf started the week in the low WS 60s for long east

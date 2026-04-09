@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week36_tanker.html
 source_stem: 2019_tanker-report-week36_tanker
+source_url: null
 summary: 'VLCC
 
   Rates in the Middle East Gulf fell this week, as 280,000mt to the US Gulf, basis

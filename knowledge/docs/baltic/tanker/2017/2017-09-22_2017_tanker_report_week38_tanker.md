@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week38_tanker.html
 source_stem: 2017_tanker-report-week38_tanker
+source_url: null
 summary: 'VLCCs
 
   The October program brought with it increased activity in the Middle East Gulf and

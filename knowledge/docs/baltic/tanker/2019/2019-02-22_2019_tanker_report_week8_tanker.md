@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week8_tanker.html
 source_stem: 2019_tanker-report-week8_tanker
+source_url: null
 summary: 'VLCC
 
   The firm sentiment held in the Middle East Gulf with 270,000mt fixed to China at

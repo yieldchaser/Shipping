@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-08-29_container-report-week-35_container.html
 source_stem: 2025-08-29_container-report-week-35_container
+source_url: null
 summary: 'Main
 
   Rates on the key FBX routes ex Far East have all slipped lower by varying amounts.

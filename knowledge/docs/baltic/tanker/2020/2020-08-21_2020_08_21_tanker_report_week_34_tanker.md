@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-08-21_tanker-report-week-34_tanker.html
 source_stem: 2020-08-21_tanker-report-week-34_tanker
+source_url: null
 summary: 'VLCC
 
   There was a sense of déjà vu in the market as rates for 280,000mt from Middle East

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week212016_tanker.html
 source_stem: 2016_tanker-report-week212016_tanker
+source_url: null
 summary: 'VLCCs
 
   A lack of enquiry has enabled charterers to maintain the pressure on owners. Reduced

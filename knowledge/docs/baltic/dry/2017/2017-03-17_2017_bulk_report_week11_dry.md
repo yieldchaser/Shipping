@@ -46,6 +46,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week11_dry.html
 source_stem: 2017_bulk-report-week11_dry
+source_url: null
 summary: 'Capesize
 
   A heady week for the big ships as rates took off particularly in the Atlantic, with

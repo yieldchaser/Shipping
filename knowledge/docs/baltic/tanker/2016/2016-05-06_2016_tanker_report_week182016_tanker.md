@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week182016_tanker.html
 source_stem: 2016_tanker-report-week182016_tanker
+source_url: null
 summary: 'VLCCs
 
   A short week combined with various holidays led to a surge of enquiry and owners

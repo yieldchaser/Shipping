@@ -34,6 +34,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-08-26_tanker-report-week-34_tanker.html
 source_stem: 2022-08-26_tanker-report-week-34_tanker
+source_url: null
 summary: 'Clean
 
   Clean Petroleum Product freight saw a resurgence in the Middle East Gulf. TC1 has

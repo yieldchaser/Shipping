@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week27_dry.html
 source_stem: 2016_bulk-report-week27_dry
+source_url: null
 summary: 'Capesize
 
   A couple of holidays this week unsettled the market and despite a steady start rates

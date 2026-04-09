@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week38_dry.html
 source_stem: 2016_bulk-report-week38_dry
+source_url: null
 summary: 'Capesize
 
   Quite an active week as rates firmed up on all the routes every day. The Pacific

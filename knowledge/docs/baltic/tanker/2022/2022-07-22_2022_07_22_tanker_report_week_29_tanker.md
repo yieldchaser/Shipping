@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-07-22_tanker-report-week-29_tanker.html
 source_stem: 2022-07-22_tanker-report-week-29_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf CPP market has seen a mix of movements this week on the different

@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week25_tanker.html
 source_stem: 2018_tanker-report-week25_tanker
+source_url: null
 summary: 'VLCC
 
   Increased enquiry in the ME Gulf for modern tonnage saw rates gain around seven

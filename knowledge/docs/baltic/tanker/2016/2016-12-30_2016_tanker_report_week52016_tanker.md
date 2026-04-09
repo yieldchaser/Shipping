@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week52016_tanker.html
 source_stem: 2016_tanker-report-week52016_tanker
+source_url: null
 summary: 'VLCCs
 
   Fresh cargoes from Middle East Gulf have been slowly coming to the market, which

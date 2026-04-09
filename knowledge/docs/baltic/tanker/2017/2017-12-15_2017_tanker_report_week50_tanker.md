@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week50_tanker.html
 source_stem: 2017_tanker-report-week50_tanker
+source_url: null
 summary: 'VLCCs
 
   Improved levels of enquiry saw owners more bullish as charterers sought cover, pre-holidays.

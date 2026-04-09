@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-08-08_container-report-week-32_container.html
 source_stem: 2025-08-08_container-report-week-32_container
+source_url: null
 summary: 'Main
 
   This week, key container shipping routes have all lost some ground, with the headline

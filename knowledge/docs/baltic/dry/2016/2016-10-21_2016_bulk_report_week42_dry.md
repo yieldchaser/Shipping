@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week42_dry.html
 source_stem: 2016_bulk-report-week42_dry
+source_url: null
 summary: 'Capesize
 
   Coaltrans this week impacted on trading with limited activity, unsettling owners/operators

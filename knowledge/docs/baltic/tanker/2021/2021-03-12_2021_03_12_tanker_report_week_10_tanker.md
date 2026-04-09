@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-03-12_tanker-report-week-10_tanker.html
 source_stem: 2021-03-12_tanker-report-week-10_tanker
+source_url: null
 summary: 'VLCC
 
   Overall rates slipped further downwards, for Middle East region 280,000mt to US

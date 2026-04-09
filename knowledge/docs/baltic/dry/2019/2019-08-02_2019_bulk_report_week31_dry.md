@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week31_dry.html
 source_stem: 2019_bulk-report-week31_dry
+source_url: null
 summary: 'Capesize
 
   Having hit a high of $32,963 early last week, the Capesize 5TC now stands at $25,749.

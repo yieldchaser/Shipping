@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report--week10_dry.html
 source_stem: 2017_bulk-report--week10_dry
+source_url: null
 summary: 'Capesize
 
   The week ended with firmer markets both in Brazil and West Australia. Vale boosted

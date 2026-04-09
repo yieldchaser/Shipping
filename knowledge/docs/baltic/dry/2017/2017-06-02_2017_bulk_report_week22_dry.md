@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week22_dry.html
 source_stem: 2017_bulk-report-week22_dry
+source_url: null
 summary: 'Capesize
 
   Rates fell throughout the week as the market suffered due to a build-up of prompt

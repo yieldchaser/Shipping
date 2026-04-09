@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week36_tanker.html
 source_stem: 2017_tanker-report-week36_tanker
+source_url: null
 summary: 'VLCCs
 
   There has been a very modest improvement in rates in the Middle East Gulf. Healthy

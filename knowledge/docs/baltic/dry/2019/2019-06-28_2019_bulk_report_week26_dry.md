@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week26_dry.html
 source_stem: 2019_bulk-report-week26_dry
+source_url: null
 summary: 'Capesize
 
   The market showed variability over the past week, as most routes were active yet

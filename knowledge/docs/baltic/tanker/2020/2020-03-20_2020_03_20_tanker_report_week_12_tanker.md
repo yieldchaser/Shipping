@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-03-20_tanker-report---week-12_tanker.html
 source_stem: 2020-03-20_tanker-report---week-12_tanker
+source_url: null
 summary: 'VLCC
 
   After the Saudis lifted subjects on nearly all their VLCC in-charters last week,

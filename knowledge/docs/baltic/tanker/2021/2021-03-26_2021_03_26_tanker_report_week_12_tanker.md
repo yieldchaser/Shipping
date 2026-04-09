@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-03-26_tanker-report-week-12_tanker.html
 source_stem: 2021-03-26_tanker-report-week-12_tanker
+source_url: null
 summary: 'VLCC
 
   Rates have firmed in all sectors. In the Middle East the market for 280,000mt Middle

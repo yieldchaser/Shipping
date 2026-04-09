@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-06-12_Tanker-report-Week-24_tanker.html
 source_stem: 2020-06-12_Tanker-report-Week-24_tanker
+source_url: null
 summary: 'VLCC
 
   Another quiet week for the spot market in the Atlantic and Middle East, with owners

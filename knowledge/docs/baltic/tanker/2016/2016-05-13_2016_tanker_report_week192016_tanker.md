@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week192016_tanker.html
 source_stem: 2016_tanker-report-week192016_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been another positive week for owners as an active start saw rates firm significantly

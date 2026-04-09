@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week72016_dry.html
 source_stem: 2016_bulk-report-week72016_dry
+source_url: null
 summary: 'Capesize
 
   The Chinese return to work failed to produce any fireworks but a flurry of fixing

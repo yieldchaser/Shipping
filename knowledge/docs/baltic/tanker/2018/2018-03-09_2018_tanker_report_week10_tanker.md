@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week10_tanker.html
 source_stem: 2018_tanker-report-week10_tanker
+source_url: null
 summary: 'VLCCs
 
   An uneventful week in the Middle East Gulf saw rates for 270,000 tonnes to China

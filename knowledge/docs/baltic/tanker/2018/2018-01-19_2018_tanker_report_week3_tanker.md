@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week3_tanker.html
 source_stem: 2018_tanker-report-week3_tanker
+source_url: null
 summary: 'VLCCs
 
   Finally, there was some cheer for owners as rates for 270,000 tonnes in the Middle

@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-08-07_tanker-report-week-32_tanker.html
 source_stem: 2020-08-07_tanker-report-week-32_tanker
+source_url: null
 summary: 'VLCC
 
   A quiet week in the Middle East resulted in little movement on the rates. 280,000mt

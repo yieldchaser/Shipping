@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-04-25_container-report-week-17_container.html
 source_stem: 2025-04-25_container-report-week-17_container
+source_url: null
 summary: 'Main
 
   Despite some relaxation from original positions on port costs for Chinese built

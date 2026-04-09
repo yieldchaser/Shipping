@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week14_tanker.html
 source_stem: 2018_tanker-report-week14_tanker
+source_url: null
 summary: 'VLCCs
 
   After two short weeks, rates have come under pressure with the market for 270,000

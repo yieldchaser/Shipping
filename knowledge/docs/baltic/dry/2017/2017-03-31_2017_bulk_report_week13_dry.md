@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week13_dry.html
 source_stem: 2017_bulk-report-week13_dry
+source_url: null
 summary: 'Capesize
 
   A volatile market this week, with the bullish sentiment from last Friday carried

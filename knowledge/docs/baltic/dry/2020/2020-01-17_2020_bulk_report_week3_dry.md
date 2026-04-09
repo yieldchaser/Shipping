@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2020/2020_bulk-report-week3_dry.html
 source_stem: 2020_bulk-report-week3_dry
+source_url: null
 summary: 'Capesize
 
   The market was relatively stable over this past week putting an end to the past

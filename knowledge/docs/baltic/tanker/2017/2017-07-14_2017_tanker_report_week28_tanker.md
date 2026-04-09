@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week28_tanker.html
 source_stem: 2017_tanker-report-week28_tanker
+source_url: null
 summary: 'VLCCs
 
   The July program in the Middle East Gulf is all but covered now, the slow week has

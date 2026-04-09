@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020_tanker-report-week6_tanker.html
 source_stem: 2020_tanker-report-week6_tanker
+source_url: null
 summary: 'VLCC
 
   The market in the Middle East dropped further this week, with the deepening impact

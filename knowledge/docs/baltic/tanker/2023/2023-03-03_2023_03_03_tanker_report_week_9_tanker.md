@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-03-03_tanker-report-week-9_tanker.html
 source_stem: 2023-03-03_tanker-report-week-9_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf has been stable by comparison to recent weeks. TC1 (75kt MEG/Japan)

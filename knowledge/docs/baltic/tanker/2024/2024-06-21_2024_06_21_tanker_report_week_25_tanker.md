@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2024/2024-06-21_tanker-report-week-25_tanker.html
 source_stem: 2024-06-21_tanker-report-week-25_tanker
+source_url: null
 summary: 'Clean
 
   The BCTI finished the week at 799, down from 831 the previous week. Rates for MRs

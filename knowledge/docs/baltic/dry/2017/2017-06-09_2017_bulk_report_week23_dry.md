@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week23_dry.html
 source_stem: 2017_bulk-report-week23_dry
+source_url: null
 summary: 'Capesize
 
   A lacklustre week for the big ships with owners trying to resist but having only

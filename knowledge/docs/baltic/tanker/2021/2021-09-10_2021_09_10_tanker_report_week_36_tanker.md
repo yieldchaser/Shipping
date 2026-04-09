@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-09-10_tanker-report-week-36_tanker.html
 source_stem: 2021-09-10_tanker-report-week-36_tanker
+source_url: null
 summary: 'VLCC
 
   A busier market saw a few more fixtures this week and rates marginally improved

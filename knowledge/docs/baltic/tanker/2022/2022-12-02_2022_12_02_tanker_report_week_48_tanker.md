@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-12-02_tanker-report-week-48_tanker.html
 source_stem: 2022-12-02_tanker-report-week-48_tanker
+source_url: null
 summary: 'Clean
 
   The Atlantic front and backhaul has been active with TC2 Cont-USAC 37,000mt CPP

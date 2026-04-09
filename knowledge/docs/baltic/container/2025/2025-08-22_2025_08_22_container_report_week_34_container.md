@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-08-22_container-report-week-34_container.html
 source_stem: 2025-08-22_container-report-week-34_container
+source_url: null
 summary: 'Main
 
   While we have seen China and the United States extend their tariff pause for a further

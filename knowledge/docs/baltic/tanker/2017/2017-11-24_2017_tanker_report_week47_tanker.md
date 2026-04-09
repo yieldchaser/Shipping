@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week47_tanker.html
 source_stem: 2017_tanker-report-week47_tanker
+source_url: null
 summary: 'VLCCs
 
   Limited demand saw Middle East Gulf rates for 270,000 tonnes under renewed downward

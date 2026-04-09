@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week9_dry.html
 source_stem: 2018_bulk-report-week9_dry
+source_url: null
 summary: 'Capesize
 
   Cautious optimism was eroded early in the in the first full working week since the

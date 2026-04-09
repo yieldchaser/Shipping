@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week15_tanker.html
 source_stem: 2019_tanker-report-week15_tanker
+source_url: null
 summary: 'VLCC
 
   The market in the Middle East Gulf bottomed out and after WS 36 was agreed for 270,000mt

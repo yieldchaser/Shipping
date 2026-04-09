@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week14_dry.html
 source_stem: 2019_bulk-report-week14_dry
+source_url: null
 summary: 'Capesize
 
   The Capesize market over the past week looked to have found a floor on Tuesday with

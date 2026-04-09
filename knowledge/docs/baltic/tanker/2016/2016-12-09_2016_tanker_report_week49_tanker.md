@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week49_tanker.html
 source_stem: 2016_tanker-report-week49_tanker
+source_url: null
 summary: 'VLCCs
 
   Healthy levels of enquiry, combined with increased delays in both India and China

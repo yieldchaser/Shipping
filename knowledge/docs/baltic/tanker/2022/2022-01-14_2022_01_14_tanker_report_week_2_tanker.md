@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-01-14_tanker-report-week-2_tanker.html
 source_stem: 2022-01-14_tanker-report-week-2_tanker
+source_url: null
 summary: 'VLCC
 
   The first full week back has yielded little change, with the increased flat rates

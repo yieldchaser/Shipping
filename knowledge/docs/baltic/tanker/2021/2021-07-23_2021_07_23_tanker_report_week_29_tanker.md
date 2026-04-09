@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-07-23_tanker-report-week-29_tanker.html
 source_stem: 2021-07-23_tanker-report-week-29_tanker
+source_url: null
 summary: 'VLCC
 
   Another week of static rates on the whole in this sector. In the Middle East rates

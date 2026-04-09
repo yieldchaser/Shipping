@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-03-06_tanker-report---week-10_tanker.html
 source_stem: 2020-03-06_tanker-report---week-10_tanker
+source_url: null
 summary: 'VLCC
 
   The Middle East market was static over the course of the last week, with rates for

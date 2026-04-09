@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report--week9_dry.html
 source_stem: 2017_bulk-report--week9_dry
+source_url: null
 summary: 'Capesize
 
   It all happened at the end of the week with a flood of fixing on the key West Australia/China

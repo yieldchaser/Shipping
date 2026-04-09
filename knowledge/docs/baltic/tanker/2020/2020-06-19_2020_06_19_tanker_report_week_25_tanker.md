@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-06-19_Tanker-report-Week-25_tanker.html
 source_stem: 2020-06-19_Tanker-report-Week-25_tanker
+source_url: null
 summary: 'VLCC
 
   It has been a busier week than the previous two weeks in the Middle East as the

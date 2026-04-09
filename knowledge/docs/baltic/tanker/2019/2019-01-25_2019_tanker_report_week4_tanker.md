@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week4_tanker.html
 source_stem: 2019_tanker-report-week4_tanker
+source_url: null
 summary: 'VLCC
 
   In the Middle East Gulf, 270,000mt to China came under renewed downward pressure,

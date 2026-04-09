@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week49_dry.html
 source_stem: 2017_bulk-report-week49_dry
+source_url: null
 summary: 'Capesize
 
   The cape market continued to firm with the 5TC average pushing to further record

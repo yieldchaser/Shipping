@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-10-29_tanker-report-week-43_tanker.html
 source_stem: 2021-10-29_tanker-report-week-43_tanker
+source_url: null
 summary: 'VLCC
 
   Further rate gains have been seen as Chinese charterers amongst others were a little

@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-07-29_tanker-report-week-30_tanker.html
 source_stem: 2022-07-29_tanker-report-week-30_tanker
+source_url: null
 summary: 'Clean
 
   This week the Middle East Gulf LR2s have seen a small upturn, climbing 7.5 points

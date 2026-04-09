@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week43_tanker.html
 source_stem: 2019_tanker-report-week43_tanker
+source_url: null
 summary: 'VLCC
 
   Sentiment again played a big part as the markets fell globally. In the Middle East

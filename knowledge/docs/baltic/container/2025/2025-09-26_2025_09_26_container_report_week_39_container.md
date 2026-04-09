@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-09-26_container-report-week-39_container.html
 source_stem: 2025-09-26_container-report-week-39_container
+source_url: null
 summary: 'Main
 
   COSCO has announced this week they will not move away from services into the USA

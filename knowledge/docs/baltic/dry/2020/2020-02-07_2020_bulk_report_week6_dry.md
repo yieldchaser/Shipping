@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2020/2020_bulk-report-week6_dry.html
 source_stem: 2020_bulk-report-week6_dry
+source_url: null
 summary: 'Capesize
 
   The Capesize market endured another dreadful week of calamitous rate level falls,

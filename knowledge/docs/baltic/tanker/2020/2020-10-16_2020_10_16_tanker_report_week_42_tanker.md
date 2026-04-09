@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-10-16_tanker-report-week-42_tanker.html
 source_stem: 2020-10-16_tanker-report-week-42_tanker
+source_url: null
 summary: 'VLCC
 
   A slight improvement was seen this week on certain routes in this sector. A voyage

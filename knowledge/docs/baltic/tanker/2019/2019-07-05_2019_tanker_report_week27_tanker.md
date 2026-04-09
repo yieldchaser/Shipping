@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week27_tanker.html
 source_stem: 2019_tanker-report-week27_tanker
+source_url: null
 summary: 'VLCC
 
   Rates in the Middle East arena softened by WS 1.5-2 points over the week, despite

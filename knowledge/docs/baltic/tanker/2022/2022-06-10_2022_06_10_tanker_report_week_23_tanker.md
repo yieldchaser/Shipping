@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-06-10_tanker-report-week-23_tanker.html
 source_stem: 2022-06-10_tanker-report-week-23_tanker
+source_url: null
 summary: 'Clean
 
   LR''s in the Middle East Gulf saw a welcome upturn after several weeks of being

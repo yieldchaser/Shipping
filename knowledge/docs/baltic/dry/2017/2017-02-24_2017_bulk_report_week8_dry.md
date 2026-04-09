@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week8_dry.html
 source_stem: 2017_bulk-report-week8_dry
+source_url: null
 summary: 'Capesize
 
   No surprise that trading slowed for the big ships today as a busy second half of

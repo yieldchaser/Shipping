@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week17_tanker.html
 source_stem: 2018_tanker-report-week17_tanker
+source_url: null
 summary: 'VLCCs
 
   Rates in the Middle East Gulf for 270,000 mt to China eased a point to WS 39, and

@@ -24,8 +24,8 @@
     "india",
     "us_gulf"
   ],
-  "page_start": null,
-  "page_end": null,
+  "page_start": 5,
+  "page_end": 184,
   "token_count": 323024,
   "source_path": "reports/Lloyds_Maritime_Atlas_24th_Edition.pdf",
   "source_url": null,
@@ -52,8 +52,8 @@
         "india",
         "singapore"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 5,
+      "page_end": 19,
       "token_count": 3397,
       "section_type": "chapter",
       "children": []
@@ -80,8 +80,8 @@
         "maps",
         "maritime"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 20,
+      "page_end": 20,
       "token_count": 418,
       "section_type": "chapter",
       "children": []
@@ -108,8 +108,8 @@
         "april",
         "fogspring"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 23,
+      "page_end": 23,
       "token_count": 871,
       "section_type": "chapter",
       "children": []
@@ -136,8 +136,8 @@
         "august",
         "march"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 24,
+      "page_end": 24,
       "token_count": 587,
       "section_type": "chapter",
       "children": []
@@ -164,8 +164,8 @@
         "winter",
         "area"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 25,
+      "page_end": 25,
       "token_count": 821,
       "section_type": "chapter",
       "children": []
@@ -192,8 +192,8 @@
         "lake",
         "gulf"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 27,
+      "page_end": 27,
       "token_count": 1517,
       "section_type": "chapter",
       "children": []
@@ -220,8 +220,8 @@
         "nile",
         "sea"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 28,
+      "page_end": 28,
       "token_count": 2666,
       "section_type": "chapter",
       "children": []
@@ -248,8 +248,8 @@
         "gas",
         "gbr"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 29,
+      "page_end": 29,
       "token_count": 1572,
       "section_type": "chapter",
       "children": []
@@ -276,8 +276,8 @@
         "tan",
         "aus"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 30,
+      "page_end": 30,
       "token_count": 2176,
       "section_type": "chapter",
       "children": []
@@ -304,8 +304,8 @@
         "islands",
         "sea"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 31,
+      "page_end": 31,
       "token_count": 1674,
       "section_type": "chapter",
       "children": []
@@ -332,8 +332,8 @@
         "lake",
         "island"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 32,
+      "page_end": 32,
       "token_count": 1494,
       "section_type": "chapter",
       "children": []
@@ -360,8 +360,8 @@
         "ice",
         "ross"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 34,
+      "page_end": 34,
       "token_count": 1329,
       "section_type": "chapter",
       "children": []
@@ -388,8 +388,8 @@
         "dock",
         "isle"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 36,
+      "page_end": 36,
       "token_count": 2181,
       "section_type": "chapter",
       "children": []
@@ -416,8 +416,8 @@
         "hutton",
         "islands"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 38,
+      "page_end": 38,
       "token_count": 1461,
       "section_type": "chapter",
       "children": []
@@ -444,8 +444,8 @@
         "land",
         "northern"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 39,
+      "page_end": 39,
       "token_count": 1729,
       "section_type": "chapter",
       "children": []
@@ -472,8 +472,8 @@
         "bergen",
         "cape"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 40,
+      "page_end": 40,
       "token_count": 1451,
       "section_type": "chapter",
       "children": []
@@ -500,8 +500,8 @@
         "flensburg",
         "flushing"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 41,
+      "page_end": 41,
       "token_count": 1058,
       "section_type": "chapter",
       "children": []
@@ -528,8 +528,8 @@
         "agne",
         "alje"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 43,
+      "page_end": 43,
       "token_count": 1724,
       "section_type": "chapter",
       "children": []
@@ -556,8 +556,8 @@
         "beirut",
         "ibiza"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 47,
+      "page_end": 47,
       "token_count": 2261,
       "section_type": "chapter",
       "children": []
@@ -584,8 +584,8 @@
         "sirte",
         "adabiya"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 48,
+      "page_end": 48,
       "token_count": 2101,
       "section_type": "chapter",
       "children": []
@@ -612,8 +612,8 @@
         "charente",
         "corunna"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 49,
+      "page_end": 49,
       "token_count": 1161,
       "section_type": "chapter",
       "children": []
@@ -640,8 +640,8 @@
         "nautical",
         "venice"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 50,
+      "page_end": 50,
       "token_count": 1251,
       "section_type": "chapter",
       "children": []
@@ -668,8 +668,8 @@
         "cape",
         "said"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 52,
+      "page_end": 53,
       "token_count": 3416,
       "section_type": "chapter",
       "children": []
@@ -696,8 +696,8 @@
         "channel",
         "ras"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 54,
+      "page_end": 54,
       "token_count": 1992,
       "section_type": "chapter",
       "children": []
@@ -724,8 +724,8 @@
         "cheju",
         "east"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 58,
+      "page_end": 58,
       "token_count": 1919,
       "section_type": "chapter",
       "children": []
@@ -752,8 +752,8 @@
         "batu",
         "brunei"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 61,
+      "page_end": 61,
       "token_count": 1805,
       "section_type": "chapter",
       "children": []
@@ -780,8 +780,8 @@
         "gulf",
         "teluk"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 62,
+      "page_end": 62,
       "token_count": 1089,
       "section_type": "chapter",
       "children": []
@@ -808,8 +808,8 @@
         "bay",
         "busan"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 64,
+      "page_end": 64,
       "token_count": 1144,
       "section_type": "chapter",
       "children": []
@@ -836,8 +836,8 @@
         "atlas",
         "bahe"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 66,
+      "page_end": 66,
       "token_count": 442,
       "section_type": "chapter",
       "children": []
@@ -864,8 +864,8 @@
         "sea",
         "new"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 67,
+      "page_end": 67,
       "token_count": 1161,
       "section_type": "chapter",
       "children": []
@@ -892,8 +892,8 @@
         "island",
         "nzl"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 68,
+      "page_end": 68,
       "token_count": 661,
       "section_type": "chapter",
       "children": []
@@ -920,8 +920,8 @@
         "point",
         "river"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 69,
+      "page_end": 69,
       "token_count": 1319,
       "section_type": "chapter",
       "children": []
@@ -948,8 +948,8 @@
         "new",
         "st."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 70,
+      "page_end": 70,
       "token_count": 1444,
       "section_type": "chapter",
       "children": []
@@ -976,8 +976,8 @@
         "bay",
         "alice"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 71,
+      "page_end": 71,
       "token_count": 878,
       "section_type": "chapter",
       "children": []
@@ -1004,8 +1004,8 @@
         "bay",
         "santa"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 72,
+      "page_end": 74,
       "token_count": 1977,
       "section_type": "chapter",
       "children": []
@@ -1032,8 +1032,8 @@
         "island",
         "point"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 77,
+      "page_end": 77,
       "token_count": 1107,
       "section_type": "chapter",
       "children": []
@@ -1060,8 +1060,8 @@
         "castilla",
         "ceiba"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 79,
+      "page_end": 79,
       "token_count": 1494,
       "section_type": "chapter",
       "children": []
@@ -1088,8 +1088,8 @@
         "castries",
         "domingo"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 80,
+      "page_end": 80,
       "token_count": 1831,
       "section_type": "chapter",
       "children": []
@@ -1116,8 +1116,8 @@
         "pacific",
         "meg"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 87,
+      "page_end": 152,
       "token_count": 163683,
       "section_type": "chapter",
       "children": []
@@ -1144,8 +1144,8 @@
         "abu",
         "terminal"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 153,
+      "page_end": 153,
       "token_count": 3136,
       "section_type": "chapter",
       "children": []
@@ -1172,8 +1172,8 @@
         "terminal",
         "bahia"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 154,
+      "page_end": 154,
       "token_count": 3080,
       "section_type": "chapter",
       "children": []
@@ -1200,8 +1200,8 @@
         "terminal",
         "no."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 155,
+      "page_end": 155,
       "token_count": 3166,
       "section_type": "chapter",
       "children": []
@@ -1228,8 +1228,8 @@
         "bay",
         "no."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 156,
+      "page_end": 156,
       "token_count": 3018,
       "section_type": "chapter",
       "children": []
@@ -1256,8 +1256,8 @@
         "cape",
         "cabo"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 157,
+      "page_end": 157,
       "token_count": 3080,
       "section_type": "chapter",
       "children": []
@@ -1284,8 +1284,8 @@
         "island",
         "bay"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 158,
+      "page_end": 158,
       "token_count": 3138,
       "section_type": "chapter",
       "children": []
@@ -1312,8 +1312,8 @@
         "river",
         "bay"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 159,
+      "page_end": 159,
       "token_count": 3044,
       "section_type": "chapter",
       "children": []
@@ -1340,8 +1340,8 @@
         "see",
         "terminal"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 160,
+      "page_end": 160,
       "token_count": 3113,
       "section_type": "chapter",
       "children": []
@@ -1368,8 +1368,8 @@
         "river",
         "fort"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 161,
+      "page_end": 161,
       "token_count": 3096,
       "section_type": "chapter",
       "children": []
@@ -1396,8 +1396,8 @@
         "bay",
         "no."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 162,
+      "page_end": 162,
       "token_count": 3074,
       "section_type": "chapter",
       "children": []
@@ -1424,8 +1424,8 @@
         "no.",
         "river"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 163,
+      "page_end": 163,
       "token_count": 3109,
       "section_type": "chapter",
       "children": []
@@ -1452,8 +1452,8 @@
         "island",
         "bay"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 164,
+      "page_end": 164,
       "token_count": 3132,
       "section_type": "chapter",
       "children": []
@@ -1480,8 +1480,8 @@
         "river",
         "bay"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 165,
+      "page_end": 165,
       "token_count": 3095,
       "section_type": "chapter",
       "children": []
@@ -1508,8 +1508,8 @@
         "khor",
         "terminal"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 166,
+      "page_end": 166,
       "token_count": 3206,
       "section_type": "chapter",
       "children": []
@@ -1536,8 +1536,8 @@
         "las",
         "no."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 167,
+      "page_end": 167,
       "token_count": 3238,
       "section_type": "chapter",
       "children": []
@@ -1564,8 +1564,8 @@
         "loch",
         "little"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 168,
+      "page_end": 168,
       "token_count": 3071,
       "section_type": "chapter",
       "children": []
@@ -1592,8 +1592,8 @@
         "bay",
         "see"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 169,
+      "page_end": 169,
       "token_count": 3094,
       "section_type": "chapter",
       "children": []
@@ -1620,8 +1620,8 @@
         "no.",
         "river"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 170,
+      "page_end": 170,
       "token_count": 3109,
       "section_type": "chapter",
       "children": []
@@ -1648,8 +1648,8 @@
         "europe",
         "gas"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 171,
+      "page_end": 171,
       "token_count": 3114,
       "section_type": "chapter",
       "children": []
@@ -1676,8 +1676,8 @@
         "river",
         "see"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 172,
+      "page_end": 172,
       "token_count": 3176,
       "section_type": "chapter",
       "children": []
@@ -1704,8 +1704,8 @@
         "see",
         "bay"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 173,
+      "page_end": 173,
       "token_count": 3130,
       "section_type": "chapter",
       "children": []
@@ -1732,8 +1732,8 @@
         "island",
         "no."
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 174,
+      "page_end": 174,
       "token_count": 3199,
       "section_type": "chapter",
       "children": []
@@ -1760,8 +1760,8 @@
         "porto",
         "island"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 175,
+      "page_end": 175,
       "token_count": 3229,
       "section_type": "chapter",
       "children": []
@@ -1788,8 +1788,8 @@
         "island",
         "rio"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 176,
+      "page_end": 176,
       "token_count": 3127,
       "section_type": "chapter",
       "children": []
@@ -1816,8 +1816,8 @@
         "harbour",
         "juan"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 177,
+      "page_end": 177,
       "token_count": 3383,
       "section_type": "chapter",
       "children": []
@@ -1844,8 +1844,8 @@
         "cruz",
         "river"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 178,
+      "page_end": 178,
       "token_count": 3205,
       "section_type": "chapter",
       "children": []
@@ -1872,8 +1872,8 @@
         "south",
         "island"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 179,
+      "page_end": 179,
       "token_count": 3163,
       "section_type": "chapter",
       "children": []
@@ -1900,8 +1900,8 @@
         "sungei",
         "terminal"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 180,
+      "page_end": 180,
       "token_count": 3114,
       "section_type": "chapter",
       "children": []
@@ -1928,8 +1928,8 @@
         "river",
         "bay"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 181,
+      "page_end": 181,
       "token_count": 3259,
       "section_type": "chapter",
       "children": []
@@ -1956,8 +1956,8 @@
         "river",
         "see"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 182,
+      "page_end": 182,
       "token_count": 3114,
       "section_type": "chapter",
       "children": []
@@ -1984,8 +1984,8 @@
         "bay",
         "island"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 183,
+      "page_end": 183,
       "token_count": 3115,
       "section_type": "chapter",
       "children": []
@@ -2012,8 +2012,8 @@
         "bay",
         "aan"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 184,
+      "page_end": 184,
       "token_count": 2454,
       "section_type": "chapter",
       "children": []

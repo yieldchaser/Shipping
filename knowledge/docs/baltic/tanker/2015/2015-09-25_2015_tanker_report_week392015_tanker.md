@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_tanker-report-week392015_tanker.html
 source_stem: 2015_tanker-report-week392015_tanker
+source_url: null
 summary: 'VLCCs
 
   A steady week for VLCC owners with the market holding at around WS 64/65 level basis

@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week17_tanker.html
 source_stem: 2017_tanker-report-week17_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been another difficult week for owners with a number of charterers focusing

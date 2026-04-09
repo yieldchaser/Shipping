@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-03-05_tanker-report-week-9_tanker.html
 source_stem: 2021-03-05_tanker-report-week-9_tanker
+source_url: null
 summary: 'VLCC
 
   OPEC seemed to be the focus of most players this week, with production quotas being

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-01-08_tanker-report-week-1_tanker.html
 source_stem: 2021-01-08_tanker-report-week-1_tanker
+source_url: null
 summary: 'VLCC
 
   A relatively quiet start to 2021. On the new 2021 Worldscale schedule, flat rates

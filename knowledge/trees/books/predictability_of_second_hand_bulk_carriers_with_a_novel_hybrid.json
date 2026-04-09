@@ -24,8 +24,8 @@
     "gas",
     "forecasting"
   ],
-  "page_start": null,
-  "page_end": null,
+  "page_start": 2,
+  "page_end": 11,
   "token_count": 5185,
   "source_path": "reports/Predictability of second-hand bulk carriers with a novel hybrid.pdf",
   "source_url": null,
@@ -52,8 +52,8 @@
         "asset",
         "ship"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 2,
+      "page_end": 2,
       "token_count": 1291,
       "section_type": "chapter",
       "children": []
@@ -80,8 +80,8 @@
         "al.",
         "proposed"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 4,
+      "page_end": 4,
       "token_count": 992,
       "section_type": "chapter",
       "children": []
@@ -108,8 +108,8 @@
         "article",
         "asian"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 5,
+      "page_end": 5,
       "token_count": 129,
       "section_type": "chapter",
       "children": []
@@ -136,8 +136,8 @@
         "carriers",
         "explanatory"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 10,
+      "page_end": 10,
       "token_count": 756,
       "section_type": "chapter",
       "children": []
@@ -164,8 +164,8 @@
         "economics",
         "logistics"
       ],
-      "page_start": null,
-      "page_end": null,
+      "page_start": 11,
+      "page_end": 11,
       "token_count": 1998,
       "section_type": "chapter",
       "children": []

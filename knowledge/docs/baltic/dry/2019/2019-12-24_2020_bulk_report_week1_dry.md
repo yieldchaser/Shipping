@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2020/2020_bulk-report-week1_dry.html
 source_stem: 2020_bulk-report-week1_dry
+source_url: null
 summary: 'Capesize
 
   The New Year started with an erosion on pre-Christmas rates as the higher low sulphur

@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week232016_tanker.html
 source_stem: 2016_tanker-report-week232016_tanker
+source_url: null
 summary: 'VLCCs
 
   The market in the Middle East Gulf has been steady throughout the week. Although

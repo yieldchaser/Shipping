@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-10-01_tanker-report-week-39_tanker.html
 source_stem: 2021-10-01_tanker-report-week-39_tanker
+source_url: null
 summary: 'VLCC
 
   The Middle East remained active this week, whilst the Atlantic region seemingly

@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week49_tanker.html
 source_stem: 2019_tanker-report-week49_tanker
+source_url: null
 summary: 'VLCC
 
   Middle East Gulf rates came under persistent downward pressure early on, although

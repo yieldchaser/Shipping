@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week42_dry.html
 source_stem: 2019_bulk-report-week42_dry
+source_url: null
 summary: 'Capesize
 
   The market traded in a relatively stable supported manner in the Pacific this week

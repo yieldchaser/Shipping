@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week45_tanker.html
 source_stem: 2017_tanker-report-week45_tanker
+source_url: null
 summary: 'VLCCs
 
   Middle East Gulf rates for 270,000 tonnes going long east have remained steady in

@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-08-05_tanker-report-week-31_tanker.html
 source_stem: 2022-08-05_tanker-report-week-31_tanker
+source_url: null
 summary: 'Clean
 
   In the Middle East Gulf this week the LR2s have been subject to supply outstripping

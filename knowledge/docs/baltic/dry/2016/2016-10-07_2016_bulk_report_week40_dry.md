@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week40_dry.html
 source_stem: 2016_bulk-report-week40_dry
+source_url: null
 summary: 'Capesize
 
   A surprisingly busy week for the big ships despite the Chinese holidays, as owners

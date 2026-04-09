@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week31_tanker.html
 source_stem: 2017_tanker-report-week31_tanker
+source_url: null
 summary: 'VLCCs
 
   The Middle East Gulf rates have eased around four points this week for 270,000 tonnes

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-12-11_tanker-report-week-50_tanker.html
 source_stem: 2020-12-11_tanker-report-week-50_tanker
+source_url: null
 summary: 'VLCC
 
   Rates in this sector marginally improved then lost a little ground late in the week.

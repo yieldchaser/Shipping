@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week33_tanker.html
 source_stem: 2019_tanker-report-week33_tanker
+source_url: null
 summary: 'VLCC
 
   Middle East Gulf rates initially eased, with rates for 270,000mt to China hovering

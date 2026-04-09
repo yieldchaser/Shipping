@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week16_tanker.html
 source_stem: 2017_tanker-report-week16_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been another positive week for owners in the Middle East Gulf. Healthy amounts

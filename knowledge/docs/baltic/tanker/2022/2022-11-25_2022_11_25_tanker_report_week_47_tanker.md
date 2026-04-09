@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-11-25_tanker-report-week-47_tanker.html
 source_stem: 2022-11-25_tanker-report-week-47_tanker
+source_url: null
 summary: 'Clean
 
   The market has generally seen improvements all round this week. This was reflected

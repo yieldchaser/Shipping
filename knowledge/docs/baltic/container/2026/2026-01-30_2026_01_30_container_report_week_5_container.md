@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2026/2026-01-30_container-report-week-5_container.html
 source_stem: 2026-01-30_container-report-week-5_container
+source_url: null
 summary: 'Container
 
   2026 is looking to be an interesting year for the container shipping market. With

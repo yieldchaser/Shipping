@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week24_tanker.html
 source_stem: 2017_tanker-report-week24_tanker
+source_url: null
 summary: 'VLCCs
 
   A rather lackluster start to the week in the Middle East Gulf, saw rates initially

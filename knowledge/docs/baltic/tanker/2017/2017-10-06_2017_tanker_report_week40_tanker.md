@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week40_tanker.html
 source_stem: 2017_tanker-report-week40_tanker
+source_url: null
 summary: 'VLCCs
 
   Despite holidays in the Far East, healthy enquiry in the Atlantic thinned tonnage

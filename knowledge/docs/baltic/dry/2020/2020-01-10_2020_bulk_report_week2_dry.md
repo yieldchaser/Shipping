@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2020/2020_bulk-report-week2_dry.html
 source_stem: 2020_bulk-report-week2_dry
+source_url: null
 summary: 'Capesize
 
   Closing out the first full trading week of 2020, the Capesize market is struggling

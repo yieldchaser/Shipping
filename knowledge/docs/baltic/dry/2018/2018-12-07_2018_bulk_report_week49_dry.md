@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week49_dry.html
 source_stem: 2018_bulk-report-week49_dry
+source_url: null
 summary: 'Capesize
 
   Last week was less eventful than the previous week. After a negative start on Monday

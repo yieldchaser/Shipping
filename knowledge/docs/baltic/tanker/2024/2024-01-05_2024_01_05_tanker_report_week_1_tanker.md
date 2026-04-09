@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2024/2024-01-05_tanker-report-week-1_tanker.html
 source_stem: 2024-01-05_tanker-report-week-1_tanker
+source_url: null
 summary: 'Main
 
   ALL WS RATES MENTIONED BELOW ARE BASIS THE 2024 WORLDSCALE SCHEDULE

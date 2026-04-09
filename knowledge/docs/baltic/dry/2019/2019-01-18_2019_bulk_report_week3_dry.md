@@ -41,6 +41,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week3_dry.html
 source_stem: 2019_bulk-report-week3_dry
+source_url: null
 summary: 'Capesize
 
   A positive end to a week that saw rates on the West Australia/China run slip below

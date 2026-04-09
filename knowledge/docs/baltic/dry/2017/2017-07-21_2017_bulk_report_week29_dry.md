@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week29_dry.html
 source_stem: 2017_bulk-report-week29_dry
+source_url: null
 summary: 'Capesize
 
   A steady end to the week for the big ships trading from Brazil and West Australia.

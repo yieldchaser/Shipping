@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-05-27_tanker-report-week-21_tanker.html
 source_stem: 2022-05-27_tanker-report-week-21_tanker
+source_url: null
 summary: 'Clean
 
   LRs in the Middle East Gulf have again softened this week with available tonnage

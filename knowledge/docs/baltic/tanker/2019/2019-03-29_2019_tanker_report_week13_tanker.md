@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2019/2019_tanker-report-week13_tanker.html
 source_stem: 2019_tanker-report-week13_tanker
+source_url: null
 summary: 'VLCC
 
   It was another bad week for owners, who saw rates continue to slide, with Unipec

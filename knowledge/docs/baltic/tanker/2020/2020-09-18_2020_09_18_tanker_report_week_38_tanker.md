@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-09-18_tanker-report-week-38_tanker.html
 source_stem: 2020-09-18_tanker-report-week-38_tanker
+source_url: null
 summary: 'VLCC
 
   Another lacklustre week has seen a slight downturn in rates for most of the routes.

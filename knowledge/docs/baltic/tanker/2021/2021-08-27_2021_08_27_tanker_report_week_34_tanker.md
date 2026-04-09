@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-08-27_tanker-report-week-34_tanker.html
 source_stem: 2021-08-27_tanker-report-week-34_tanker
+source_url: null
 summary: 'VLCC
 
   There has been plenty of activity in the Middle East this week giving a much needed

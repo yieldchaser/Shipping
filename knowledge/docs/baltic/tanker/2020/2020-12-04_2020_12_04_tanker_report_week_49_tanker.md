@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-12-04_tanker-report-week-49_tanker.html
 source_stem: 2020-12-04_tanker-report-week-49_tanker
+source_url: null
 summary: 'VLCC
 
   Rates rose again this week, albeit modestly, which translates into an uplift in

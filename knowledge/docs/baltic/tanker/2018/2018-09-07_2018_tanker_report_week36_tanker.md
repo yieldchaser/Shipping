@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2018/2018_tanker-report-week36_tanker.html
 source_stem: 2018_tanker-report-week36_tanker
+source_url: null
 summary: 'VLCC
 
   Charterers were in no rush to fix this week and with healthy availability of tonnage,

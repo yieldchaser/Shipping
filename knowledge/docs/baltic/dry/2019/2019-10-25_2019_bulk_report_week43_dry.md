@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week43_dry.html
 source_stem: 2019_bulk-report-week43_dry
+source_url: null
 summary: 'Capesize
 
   The end of the week brought about a small increase in sentiment heading into a long

@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week15_dry.html
 source_stem: 2019_bulk-report-week15_dry
+source_url: null
 summary: 'Capesize
 
   The market saw a steep ascent from the depths of last week. The Baltic Capesize

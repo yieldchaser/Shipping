@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week7_dry.html
 source_stem: 2018_bulk-report-week7_dry
+source_url: null
 summary: 'Capesize
 
   A drifting market with holidays culminating in Chinese New Year celebrations significantly

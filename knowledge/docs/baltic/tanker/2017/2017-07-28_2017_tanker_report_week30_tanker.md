@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week30_tanker.html
 source_stem: 2017_tanker-report-week30_tanker
+source_url: null
 summary: 'VLCCs
 
   In the Middle East Gulf there seemed to be considerable tonnage to choose from.

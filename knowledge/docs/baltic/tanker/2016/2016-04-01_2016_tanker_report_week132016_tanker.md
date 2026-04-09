@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week132016_tanker.html
 source_stem: 2016_tanker-report-week132016_tanker
+source_url: null
 summary: 'VLCCs
 
   With delays still prevalent both at discharge ports in China and also for loading

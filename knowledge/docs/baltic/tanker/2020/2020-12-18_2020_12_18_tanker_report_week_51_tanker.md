@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-12-18_tanker-report-week-51_tanker.html
 source_stem: 2020-12-18_tanker-report-week-51_tanker
+source_url: null
 summary: 'VLCC
 
   Rates in this sector were mostly static. In the Middle East 280,000mt to US Gulf

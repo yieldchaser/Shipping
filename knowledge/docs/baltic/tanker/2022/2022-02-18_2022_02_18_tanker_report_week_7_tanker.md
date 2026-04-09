@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-02-18_tanker-report-week-7_tanker.html
 source_stem: 2022-02-18_tanker-report-week-7_tanker
+source_url: null
 summary: 'VLCC
 
   There is a continued weakness in the Atlantic and Middle East markets. Rates for

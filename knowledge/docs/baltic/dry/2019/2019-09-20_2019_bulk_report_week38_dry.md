@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week38_dry.html
 source_stem: 2019_bulk-report-week38_dry
+source_url: null
 summary: 'Capesize
 
   The market trended down over this past week, breaking the market out of its upward

@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2023/2023-09-22_tanker-report-week-38_tanker.html
 source_stem: 2023-09-22_tanker-report-week-38_tanker
+source_url: null
 summary: 'Clean
 
   The BCTI finished the week at 869, up from 849 the previous week. Rates for MRs

@@ -36,6 +36,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2022/2022-08-12_tanker-report-week-32_tanker.html
 source_stem: 2022-08-12_tanker-report-week-32_tanker
+source_url: null
 summary: 'Clean
 
   The Middle East Gulf has been lacklustre this week on all sizes. On the LR2''s tonnage

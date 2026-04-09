@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-11-05_tanker-report-week-44_tanker.html
 source_stem: 2021-11-05_tanker-report-week-44_tanker
+source_url: null
 summary: 'VLCC
 
   Rates slipped slightly in both the Middle East Gulf and Atlantic regions. For the

@@ -43,6 +43,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2019/2019_bulk-report-week39_dry.html
 source_stem: 2019_bulk-report-week39_dry
+source_url: null
 summary: 'Capesize
 
   This week marked further considerable decline in rates for the Capesize market.

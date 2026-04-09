@@ -42,6 +42,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week2_dry.html
 source_stem: 2018_bulk-report-week2_dry
+source_url: null
 summary: 'Capesize
 
   It looked set to be a gloomy end to the week particularly in the East where a tentative

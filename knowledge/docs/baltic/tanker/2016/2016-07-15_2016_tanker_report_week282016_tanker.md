@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2016/2016_tanker-report-week282016_tanker.html
 source_stem: 2016_tanker-report-week282016_tanker
+source_url: null
 summary: 'VLCCs
 
   Despite a good volume of fixing, rates have remained steady with 270,000 tonnes

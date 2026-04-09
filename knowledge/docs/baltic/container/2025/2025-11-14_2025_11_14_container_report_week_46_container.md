@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-11-14_container-report-week-46_container.html
 source_stem: 2025-11-14_container-report-week-46_container
+source_url: null
 summary: 'Main
 
   A mostly uneventful week for liner market, however a letter signed by the Houthi

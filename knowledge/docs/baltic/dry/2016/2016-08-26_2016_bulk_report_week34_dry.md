@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2016/2016_bulk-report-week34_dry.html
 source_stem: 2016_bulk-report-week34_dry
+source_url: null
 summary: 'Capesize
 
   A sustained improvement for the big ships over the week and some sources suggested

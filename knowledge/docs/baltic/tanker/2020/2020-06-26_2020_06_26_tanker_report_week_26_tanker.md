@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2020/2020-06-26_Tanker-report-Week-26_tanker.html
 source_stem: 2020-06-26_Tanker-report-Week-26_tanker
+source_url: null
 summary: 'VLCC
 
   This sector had a torrid week with Charterers firmly in the driving seat. Rates

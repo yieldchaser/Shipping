@@ -39,6 +39,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2021/2021-12-03_tanker-report-week-48_tanker.html
 source_stem: 2021-12-03_tanker-report-week-48_tanker
+source_url: null
 summary: 'VLCC
 
   The market eased again in both the Middle East and the Atlantic. For the 280,000mt

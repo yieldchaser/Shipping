@@ -38,6 +38,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week39_tanker.html
 source_stem: 2017_tanker-report-week39_tanker
+source_url: null
 summary: 'VLCCs
 
   Improved Middle East Gulf activity for 270,000 tonnes long east saw rates rise 10

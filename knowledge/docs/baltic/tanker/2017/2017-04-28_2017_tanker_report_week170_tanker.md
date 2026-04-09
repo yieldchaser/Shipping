@@ -40,6 +40,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2017/2017_tanker-report-week170_tanker.html
 source_stem: 2017_tanker-report-week170_tanker
+source_url: null
 summary: 'VLCCs
 
   It has been a slower week as charterers successfully managed to take the steam out

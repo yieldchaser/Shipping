@@ -44,6 +44,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2017/2017_bulk-report-week46_dry.html
 source_stem: 2017_bulk-report-week46_dry
+source_url: null
 summary: 'Capesize
 
   Rates found some support in the east as the week closed out, with the busy West

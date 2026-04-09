@@ -28,6 +28,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/container/2025/2025-10-17_container-report-week-42_container.html
 source_stem: 2025-10-17_container-report-week-42_container
+source_url: null
 summary: 'Main
 
   In the past fortnight we have seen the introduction of new port fees at US ports

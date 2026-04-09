@@ -45,6 +45,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/dry/2018/2018_bulk-report-week28_dry.html
 source_stem: 2018_bulk-report-week28_dry
+source_url: null
 summary: 'Capesize
 
   A shaky start to the week in Asia where rates on the key West Australia/China run

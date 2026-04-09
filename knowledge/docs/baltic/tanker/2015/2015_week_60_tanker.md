@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_week-60_tanker.html
 source_stem: 2015_week-60_tanker
+source_url: null
 summary: 'VLCCs
 
   At the start of the week, rates in the Middle East Gulf went in to freefall as a

@@ -37,6 +37,7 @@ signals: {}
 source: baltic
 source_path: reports/baltic/tanker/2015/2015_tanker-report-week432015_tanker.html
 source_stem: 2015_tanker-report-week432015_tanker
+source_url: null
 summary: 'VLCCs
 
   In the Middle East Gulf, it has been a slow week with charterers drip feeding the
