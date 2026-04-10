@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-01-23_2022_01_23_crouching_tiger__root",
+  "doc_id": "breakwave_insights_insights_2022-01-23_2022_01_23_crouching_tiger",
+  "parent_id": null,
+  "title": "Crouching Tiger",
+  "section_path": [
+    "Crouching Tiger"
+  ],
+  "section_path_text": "Crouching Tiger",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n\" In waking a tiger, use a long stick.\"\nMao Zedong (December 26, 1893 - September 9, 1976) - also known as Chairman Mao, founding father of the People's Republic of China\nChinese New Year, also known as Lunar New Year or Spring Festival, is just around the corner; Each Lunar New Year is characterized by one of 12 animals which appear in the Chinese zodiac. 2022 is the Year of the Tiger (starting 1st of February) and as a public holiday, Chinese people will be on 7 days holidays (from 31st January to 6th February). According to the legend, the Jade Emperor (玉皇 Yùhuáng, one of the most important Chinese Gods) invited all animals in the Kingdom to compete to a \"Great Race\".",
+  "keywords": [
+    "container",
+    "china",
+    "grain",
+    "year",
+    "tiger",
+    "chinese",
+    "all",
+    "animals",
+    "known",
+    "new",
+    "people",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 683,
+  "source_path": "reports/breakwave/2022/2022-01-23_crouching-tiger.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/1/23/crouching-tiger",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-01-23_2022_01_23_crouching_tiger__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-01-23_2022_01_23_crouching_tiger",
+      "parent_id": "breakwave_insights_insights_2022-01-23_2022_01_23_crouching_tiger__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "\" In waking a tiger, use a long stick.\"\nMao Zedong (December 26, 1893 - September 9, 1976) - also known as Chairman Mao, founding father of the People's Republic of China\nChinese New Year, also known as Lunar New Year or Spring Festival, is just around the corner; Each Lunar New Year is characterized by one of 12 animals which appear in the Chinese zodiac. 2022 is the Year of the Tiger (starting 1st of February) and as a public holiday, Chinese people will be on 7 days holidays (from 31st January to 6th February).",
+      "keywords": [
+        "container",
+        "china",
+        "grain",
+        "year",
+        "tiger",
+        "chinese",
+        "all",
+        "animals"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 681,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

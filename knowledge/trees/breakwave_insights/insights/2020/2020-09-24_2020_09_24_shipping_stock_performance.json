@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-09-24_2020_09_24_shipping_stock_performance__root",
+  "doc_id": "breakwave_insights_insights_2020-09-24_2020_09_24_shipping_stock_performance",
+  "parent_id": null,
+  "title": "Shipping Stock Performance",
+  "section_path": [
+    "Shipping Stock Performance"
+  ],
+  "section_path_text": "Shipping Stock Performance",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe US equity markets have had quite a year so far. The S&P 500 is currently at the same level it started the year at, while NASDAQ has outperformed and is showing a healthy return for the year so far. Both indices suffered heavy losses in the early part of the year and were down by 25 and 30 percent respectively in late March.",
+  "keywords": [
+    "crude_oil",
+    "equities",
+    "year",
+    "markets",
+    "often",
+    "oil",
+    "share",
+    "tend",
+    "companies",
+    "equity",
+    "get",
+    "had"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 664,
+  "source_path": "reports/breakwave/2020/2020-09-24_shipping-stock-performance.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/9/24/shipping-stock-performance",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-09-24_2020_09_24_shipping_stock_performance__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-09-24_2020_09_24_shipping_stock_performance",
+      "parent_id": "breakwave_insights_insights_2020-09-24_2020_09_24_shipping_stock_performance__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe US equity markets have had quite a year so far. The S&P 500 is currently at the same level it started the year at, while NASDAQ has outperformed and is showing a healthy return for the year so far.",
+      "keywords": [
+        "crude_oil",
+        "equities",
+        "year",
+        "markets",
+        "often",
+        "oil",
+        "share",
+        "tend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 662,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

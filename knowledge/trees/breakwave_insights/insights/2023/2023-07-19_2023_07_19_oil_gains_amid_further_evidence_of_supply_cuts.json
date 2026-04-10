@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-19_2023_07_19_oil_gains_amid_further_evidence_of_supply_cuts__root",
+  "doc_id": "breakwave_insights_insights_2023-07-19_2023_07_19_oil_gains_amid_further_evidence_of_supply_cuts",
+  "parent_id": null,
+  "title": "Oil Gains Amid Further Evidence Of Supply Cuts",
+  "section_path": [
+    "Oil Gains Amid Further Evidence Of Supply Cuts"
+  ],
+  "section_path_text": "Oil Gains Amid Further Evidence Of Supply Cuts",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nEarly losses following weak economic data were reversed as the spectre of an end to the interest rate hike cycle increased. Base metals edged lower following Monday's sell-off as concerns over Chinese demand continue to emanate across the sector. China's Q2 GDP grew 6.3% y/y, posing challenges to growth in the second half of this year.",
+  "keywords": [
+    "lng",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "demand",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 615,
+  "source_path": "reports/breakwave/2023/2023-07-19_oil-gains-amid-further-evidence-of-supply-cuts.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/19/oil-gains-amid-further-evidence-of-supply-cuts",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-19_2023_07_19_oil_gains_amid_further_evidence_of_supply_cuts__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-19_2023_07_19_oil_gains_amid_further_evidence_of_supply_cuts",
+      "parent_id": "breakwave_insights_insights_2023-07-19_2023_07_19_oil_gains_amid_further_evidence_of_supply_cuts__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nEarly losses following weak economic data were reversed as the spectre of an end to the interest rate hike cycle increased. Base metals edged lower following Monday's sell-off as concerns over Chinese demand continue to emanate across the sector.",
+      "keywords": [
+        "lng",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "japan",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 613,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

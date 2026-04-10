@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-17_2023_05_17_are_vlccs_making_use_of_triangulation_patterns_in_the_oil_ma__root",
+  "doc_id": "breakwave_insights_insights_2023-05-17_2023_05_17_are_vlccs_making_use_of_triangulation_patterns_in_the_oil_ma",
+  "parent_id": null,
+  "title": "Are Vlccs Making Use Of Triangulation Patterns In The Oil Market",
+  "section_path": [
+    "Are Vlccs Making Use Of Triangulation Patterns In The Oil Market"
+  ],
+  "section_path_text": "Are Vlccs Making Use Of Triangulation Patterns In The Oil Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "VLCC demand has grown in the last few months. In this insight, we investigate whether this has sparked a change in VLCC tanker behaviour, or if traditional round voyages have prevailed in a high demand environment. By Dylan Simpson\nSince the Russian invasion of Ukraine, VLCC activity in the West of Suez has been on the rise.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "voyages",
+    "laden",
+    "triangulation",
+    "east",
+    "round"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1057,
+  "source_path": "reports/breakwave/2023/2023-05-17_are-vlccs-making-use-of-triangulation-patterns-in-the-oil-ma.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/17/are-vlccs-making-use-of-triangulation-patterns-in-the-oil-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-17_2023_05_17_are_vlccs_making_use_of_triangulation_patterns_in_the_oil_ma__s01_vlcc_demand_has_grown_in_the_last_few_months_in_this_insight_we_investigate_whether_this_has_sparked_a_change_in_vlcc_tanker_behaviour_or_if_traditional_round_voyages_have_prevailed_in_a_high_demand_environment",
+      "doc_id": "breakwave_insights_insights_2023-05-17_2023_05_17_are_vlccs_making_use_of_triangulation_patterns_in_the_oil_ma",
+      "parent_id": "breakwave_insights_insights_2023-05-17_2023_05_17_are_vlccs_making_use_of_triangulation_patterns_in_the_oil_ma__root",
+      "title": "VLCC demand has grown in the last few months. In this insight, we investigate whether this has sparked a change in VLCC tanker behaviour, or if traditional round voyages have prevailed in a high demand environment.",
+      "section_path": [
+        "VLCC demand has grown in the last few months. In this insight, we investigate whether this has sparked a change in VLCC tanker behaviour, or if traditional round voyages have prevailed in a high demand environment."
+      ],
+      "section_path_text": "VLCC demand has grown in the last few months. In this insight, we investigate whether this has sparked a change in VLCC tanker behaviour, or if traditional round voyages have prevailed in a high demand environment.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Dylan Simpson\nSince the Russian invasion of Ukraine, VLCC activity in the West of Suez has been on the rise. This increase includes flows on existing routes such as TD22 (US Gulf-to-China) as well as an introduction of VLCCs on the previously Afra/Suezmax-dominated route, TD25 (US Gulf-to-Europe).",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "laden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1014,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

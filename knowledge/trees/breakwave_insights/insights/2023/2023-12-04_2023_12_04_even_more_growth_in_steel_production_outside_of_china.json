@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-12-04_2023_12_04_even_more_growth_in_steel_production_outside_of_china__root",
+  "doc_id": "breakwave_insights_insights_2023-12-04_2023_12_04_even_more_growth_in_steel_production_outside_of_china",
+  "parent_id": null,
+  "title": "Even More Growth In Steel Production Outside Of China",
+  "section_path": [
+    "Even More Growth In Steel Production Outside Of China"
+  ],
+  "section_path_text": "Even More Growth In Steel Production Outside Of China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nGlobal steel production totaled approximately 150 million tons in October. This is up month-on-month by 700,000 tons (1%) and is 2.7 million tons (2%) more than was reported last year for October 2022's production. Production outside of China totaled 70.9 million tons.",
+  "keywords": [
+    "china",
+    "india",
+    "steel",
+    "tons",
+    "production",
+    "million",
+    "october",
+    "was",
+    "outside",
+    "last",
+    "year-on-year",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 404,
+  "source_path": "reports/breakwave/2023/2023-12-04_even-more-growth-in-steel-production-outside-of-china.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/12/4/even-more-growth-in-steel-production-outside-of-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-12-04_2023_12_04_even_more_growth_in_steel_production_outside_of_china__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-12-04_2023_12_04_even_more_growth_in_steel_production_outside_of_china",
+      "parent_id": "breakwave_insights_insights_2023-12-04_2023_12_04_even_more_growth_in_steel_production_outside_of_china__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nGlobal steel production totaled approximately 150 million tons in October. This is up month-on-month by 700,000 tons (1%) and is 2.7 million tons (2%) more than was reported last year for October 2022's production.",
+      "keywords": [
+        "china",
+        "india",
+        "steel",
+        "tons",
+        "production",
+        "million",
+        "october",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 402,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

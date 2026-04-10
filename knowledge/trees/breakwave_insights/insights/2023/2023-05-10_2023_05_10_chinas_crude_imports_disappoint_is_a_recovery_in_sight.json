@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-10_2023_05_10_chinas_crude_imports_disappoint_is_a_recovery_in_sight__root",
+  "doc_id": "breakwave_insights_insights_2023-05-10_2023_05_10_chinas_crude_imports_disappoint_is_a_recovery_in_sight",
+  "parent_id": null,
+  "title": "Chinas Crude Imports Disappoint Is A Recovery In Sight",
+  "section_path": [
+    "Chinas Crude Imports Disappoint Is A Recovery In Sight"
+  ],
+  "section_path_text": "Chinas Crude Imports Disappoint Is A Recovery In Sight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "China's April oil import figures have declined from March's peak, along with other economic signals. Has the market been overoptimistic on China's recovery? By Emma Li\nChina's seaborne crude imports came in shy of 10mbd in April, down more than 10% from the 30-month high in March, as more state-owned and independent refiners started turnarounds last month and a fresh round of customs inspections on crude imports delayed discharges.",
+  "keywords": [
+    "china",
+    "meg",
+    "india",
+    "us_gulf",
+    "singapore",
+    "crude_oil",
+    "products",
+    "crude",
+    "imports",
+    "oil",
+    "bitumen",
+    "country"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 962,
+  "source_path": "reports/breakwave/2023/2023-05-10_chinas-crude-imports-disappoint-is-a-recovery-in-sight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/10/chinas-crude-imports-disappoint-is-a-recovery-in-sight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-10_2023_05_10_chinas_crude_imports_disappoint_is_a_recovery_in_sight__s01_china_s_april_oil_import_figures_have_declined_from_march_s_peak_along_with_other_economic_signals_has_the_market_been_overoptimistic_on_china_s_recovery",
+      "doc_id": "breakwave_insights_insights_2023-05-10_2023_05_10_chinas_crude_imports_disappoint_is_a_recovery_in_sight",
+      "parent_id": "breakwave_insights_insights_2023-05-10_2023_05_10_chinas_crude_imports_disappoint_is_a_recovery_in_sight__root",
+      "title": "China's April oil import figures have declined from March's peak, along with other economic signals. Has the market been overoptimistic on China's recovery?",
+      "section_path": [
+        "China's April oil import figures have declined from March's peak, along with other economic signals. Has the market been overoptimistic on China's recovery?"
+      ],
+      "section_path_text": "China's April oil import figures have declined from March's peak, along with other economic signals. Has the market been overoptimistic on China's recovery?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Emma Li\nChina's seaborne crude imports came in shy of 10mbd in April, down more than 10% from the 30-month high in March, as more state-owned and independent refiners started turnarounds last month and a fresh round of customs inspections on crude imports delayed discharges. The country's domestic demand has shown a steady recovery in the first quarter, and in the recent week has been boosted by the Labour Day holidays, as travel activity rose in the country's first restriction-free Golden week after more than three years.",
+      "keywords": [
+        "china",
+        "meg",
+        "india",
+        "us_gulf",
+        "singapore",
+        "crude_oil",
+        "products",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 931,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

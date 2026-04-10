@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping__root",
+  "doc_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping",
+  "parent_id": null,
+  "title": "Us Response To Russian Invasion With Sanctions On Shipping",
+  "section_path": [
+    "Us Response To Russian Invasion With Sanctions On Shipping"
+  ],
+  "section_path_text": "Us Response To Russian Invasion With Sanctions On Shipping",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "responded to the Russian invasion of Ukraine by imposing sanction measures targeting not only the core infrastructure of the Russian financial system but also the shipping industry. The US Department of Treasury's Office of Foreign Assets Control (OFAC) expanded debt and equity restrictions on 13 main Russian enterprises. The impact on the freight industry can not be ignored for crude oil trading as earlier news of this week added further tension following U.S.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "aframax",
+    "china",
+    "europe",
+    "coal",
+    "grain",
+    "crude_oil",
+    "gas",
+    "russian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2471,
+  "source_path": "reports/breakwave/2022/2022-03-02_us-response-to-russian-invasion-with-sanctions-on-shipping.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/3/2/us-response-to-russian-invasion-with-sanctions-on-shipping",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping",
+      "parent_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "responded to the Russian invasion of Ukraine by imposing sanction measures targeting not only the core infrastructure of the Russian financial system but also the shipping industry. The US Department of Treasury's Office of Foreign Assets Control (OFAC) expanded debt and equity restrictions on 13 main Russian enterprises.",
+      "keywords": [
+        "europe",
+        "grain",
+        "crude_oil",
+        "gas",
+        "are",
+        "oil",
+        "russian",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 626,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping__s02_cargo_activity_ports_russian_federation",
+      "doc_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping",
+      "parent_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping__root",
+      "title": "Cargo Activity - Ports, Russian Federation",
+      "section_path": [
+        "Cargo Activity - Ports, Russian Federation"
+      ],
+      "section_path_text": "Cargo Activity - Ports, Russian Federation",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "There is an increased risk on cargo flows from Russian ports despite the existing reluctance of the West to impose sanctions on Russian exports. The current situation provokes a potential threat on the Russian economy for SWIFT sanctions that could damage the country's major banks that typically manage transactions with foreign buyers of Russian exports and eventually lead to disruptions in commodity flows.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "aframax",
+        "coal",
+        "grain",
+        "russian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 548,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping__s03_freight_market_tanker",
+      "doc_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping",
+      "parent_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping__root",
+      "title": "Freight Market - Tanker",
+      "section_path": [
+        "Freight Market - Tanker"
+      ],
+      "section_path_text": "Freight Market - Tanker",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The last few days we experienced a stronger momentum of tanker rates in the Aframax segment, where Baltic to Europe rates are on a remarkable rise. Following the announcement of US sanctions on five Russian ships as response to the Ukraine invasion, the supply of ships in the Baltic route has started to show a sharp decrease with owners reluctant to send their ships to Russian ports and crude buyers struggling to find their ship for seaborne transportation.",
+      "keywords": [
+        "aframax",
+        "europe",
+        "days",
+        "russian",
+        "supply",
+        "ships",
+        "signal",
+        "tondays"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 704,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping__s04_freight_market_dry",
+      "doc_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping",
+      "parent_id": "breakwave_insights_insights_2022-03-02_2022_03_02_us_response_to_russian_invasion_with_sanctions_on_shipping__root",
+      "title": "Freight Market - Dry",
+      "section_path": [
+        "Freight Market - Dry"
+      ],
+      "section_path_text": "Freight Market - Dry",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "When it comes to the dry freight market we see the Supramax and Handysize ships to be mainly affected by the overall situation. Supply shortages of wheat will boost demand as Russia and Ukraine are key exporting hubs and along with grain port closures in the Black Sea could drive the freight rates to surprising levels for the first quarter of the year.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "china",
+        "grain",
+        "ports",
+        "are",
+        "sea",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 570,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

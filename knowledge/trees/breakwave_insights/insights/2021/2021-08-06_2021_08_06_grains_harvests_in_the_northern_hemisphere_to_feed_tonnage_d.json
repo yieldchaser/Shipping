@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-08-06_2021_08_06_grains_harvests_in_the_northern_hemisphere_to_feed_tonnage_d__root",
+  "doc_id": "breakwave_insights_insights_2021-08-06_2021_08_06_grains_harvests_in_the_northern_hemisphere_to_feed_tonnage_d",
+  "parent_id": null,
+  "title": "Grains Harvests In The Northern Hemisphere To Feed Tonnage Demand",
+  "section_path": [
+    "Grains Harvests In The Northern Hemisphere To Feed Tonnage Demand"
+  ],
+  "section_path_text": "Grains Harvests In The Northern Hemisphere To Feed Tonnage Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe last fifteen months have been rather eventful for the grains and oilseeds markets, with the first twelve months of the period witnessing a rally of epic proportions. During that period prices for many agricultural commodities, such as soybeans and corn, gained in the region of a hundred per cent. The last three months have however seen very different markets, with volatility being the main theme and prices retreating somewhat.",
+  "keywords": [
+    "panamax",
+    "china",
+    "brazil",
+    "grain",
+    "crude_oil",
+    "per",
+    "cent",
+    "expected",
+    "year",
+    "grains",
+    "million",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1137,
+  "source_path": "reports/breakwave/2021/2021-08-06_grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-d.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/8/6/grains-harvests-in-the-northern-hemisphere-to-feed-tonnage-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-08-06_2021_08_06_grains_harvests_in_the_northern_hemisphere_to_feed_tonnage_d__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-08-06_2021_08_06_grains_harvests_in_the_northern_hemisphere_to_feed_tonnage_d",
+      "parent_id": "breakwave_insights_insights_2021-08-06_2021_08_06_grains_harvests_in_the_northern_hemisphere_to_feed_tonnage_d__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe last fifteen months have been rather eventful for the grains and oilseeds markets, with the first twelve months of the period witnessing a rally of epic proportions. During that period prices for many agricultural commodities, such as soybeans and corn, gained in the region of a hundred per cent.",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "grain",
+        "crude_oil",
+        "per",
+        "cent",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1135,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

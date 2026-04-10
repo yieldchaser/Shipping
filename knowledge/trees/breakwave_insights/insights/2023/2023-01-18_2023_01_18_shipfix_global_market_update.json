@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nChinese growth during last year's final quarter proved more resilient than most economists had expected. However, the 2.9 per cent year-on-year growth in the past three months contributed to the full-year GDP expanding by the least since the 1970s. The Chinese economy grew by three per cent during 2022, well below the country's original official target of 5.5 per cent.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "india",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1129,
+  "source_path": "reports/breakwave/2023/2023-01-18_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/18/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Chinese growth during last year's final quarter proved more resilient than most economists had expected. However, the 2.9 per cent year-on-year growth in the past three months contributed to the full-year GDP expanding by the least since the 1970s.",
+      "keywords": [
+        "china",
+        "chinese",
+        "during",
+        "growth",
+        "per",
+        "cent",
+        "country",
+        "quarter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "A renewed focus on weak global growth rates weighed on crude oil prices on Monday as optimism over a rebound in Chinese demand moderated. The Brent futures ended last week's winning streak and declined by one per cent, settling at 84.46 dollars per barrel.",
+      "keywords": [
+        "lng",
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 431,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "By recent standards, the Baltic Exchange's dry bulk freight indices had a quiet day yesterday. The headline Baltic Dry Index remained unchanged as the larger segments recorded modest gains, while the smaller vessels saw their gauges continuing to retreat.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-18_2023_01_18_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "European coal prices have been on a downward trend since the end of November. The February futures for delivery in the North-Western parts of the continent have declined by 44 per cent since then, as demand has weakened amid lower natural gas prices and well-filled inventories.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "india",
+        "coal",
+        "gas",
+        "russian",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 282,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

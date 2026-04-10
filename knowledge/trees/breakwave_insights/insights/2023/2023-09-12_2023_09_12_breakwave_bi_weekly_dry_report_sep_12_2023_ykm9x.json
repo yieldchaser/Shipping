@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-12_2023_09_12_breakwave_bi_weekly_dry_report_sep_12_2023_ykm9x__root",
+  "doc_id": "breakwave_insights_insights_2023-09-12_2023_09_12_breakwave_bi_weekly_dry_report_sep_12_2023_ykm9x",
+  "parent_id": null,
+  "title": "Breakwave Bi Weekly Dry Report Sep 12 2023 Ykm9X",
+  "section_path": [
+    "Breakwave Bi Weekly Dry Report Sep 12 2023 Ykm9X"
+  ],
+  "section_path_text": "Breakwave Bi Weekly Dry Report Sep 12 2023 Ykm9X",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Will the third time be the charm? Spot rates continue to creep higher - Despite the strong iron ore export volumes for August, the dry bulk market remains stagnant and in the tight range that has prevailed over the past three months. Two prior attempts to break out have already failed, but once again, spot rates are moving higher towards the upper end of the range.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "west_africa",
+    "iron_ore",
+    "bauxite",
+    "economic",
+    "should",
+    "might",
+    "out"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 640,
+  "source_path": "reports/breakwave/2023/2023-09-12_breakwave-bi-weekly-dry-report-sep-12-2023-ykm9x.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/12/breakwave-bi-weekly-dry-report-sep-12-2023-ykm9x",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-12_2023_09_12_breakwave_bi_weekly_dry_report_sep_12_2023_ykm9x__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-12_2023_09_12_breakwave_bi_weekly_dry_report_sep_12_2023_ykm9x",
+      "parent_id": "breakwave_insights_insights_2023-09-12_2023_09_12_breakwave_bi_weekly_dry_report_sep_12_2023_ykm9x__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Will the third time be the charm? Spot rates continue to creep higher - Despite the strong iron ore export volumes for August, the dry bulk market remains stagnant and in the tight range that has prevailed over the past three months.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "west_africa",
+        "iron_ore",
+        "bauxite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 638,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

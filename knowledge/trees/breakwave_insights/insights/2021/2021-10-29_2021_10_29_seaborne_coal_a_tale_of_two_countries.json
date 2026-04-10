@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-10-29_2021_10_29_seaborne_coal_a_tale_of_two_countries__root",
+  "doc_id": "breakwave_insights_insights_2021-10-29_2021_10_29_seaborne_coal_a_tale_of_two_countries",
+  "parent_id": null,
+  "title": "Seaborne Coal A Tale Of Two Countries",
+  "section_path": [
+    "Seaborne Coal A Tale Of Two Countries"
+  ],
+  "section_path_text": "Seaborne Coal A Tale Of Two Countries",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThermal coal prices have in recent days given up some of the spectacular gains the commodity has recorded since September last year. At its peak at the beginning of October, the fossil fuel had seen an increase of 450 per cent in thirteen months. However, since then, gC Newcastle coal futures have retreated almost fifteen per cent to just above 220 dollars per tonne.",
+  "keywords": [
+    "china",
+    "brazil",
+    "india",
+    "coal",
+    "imports",
+    "power",
+    "million",
+    "seaborne",
+    "indian",
+    "chinese",
+    "months.",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 939,
+  "source_path": "reports/breakwave/2021/2021-10-29_seaborne-coal-a-tale-of-two-countries.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/10/29/seaborne-coal-a-tale-of-two-countries",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-10-29_2021_10_29_seaborne_coal_a_tale_of_two_countries__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-10-29_2021_10_29_seaborne_coal_a_tale_of_two_countries",
+      "parent_id": "breakwave_insights_insights_2021-10-29_2021_10_29_seaborne_coal_a_tale_of_two_countries__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThermal coal prices have in recent days given up some of the spectacular gains the commodity has recorded since September last year. At its peak at the beginning of October, the fossil fuel had seen an increase of 450 per cent in thirteen months.",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "coal",
+        "imports",
+        "power",
+        "million",
+        "seaborne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 937,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

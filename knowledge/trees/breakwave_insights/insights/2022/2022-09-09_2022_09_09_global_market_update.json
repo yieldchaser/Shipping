@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update",
+  "parent_id": null,
+  "title": "Global Market Update",
+  "section_path": [
+    "Global Market Update"
+  ],
+  "section_path_text": "Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nMuch of today's focus will be on the European Central Bank and its decision on interest rates due this afternoon. The bank look set to follow the US Federal Reserve's example with a substantial move to combat surging price levels, with economists expecting interest rates to rise from zero to 0.75 per cent. The balancing act facing the bank's policymakers of controlling the rising inflation without imposing too much economic pain on the continent has become somewhat less arduous following yesterday's upward revision of the currency area's GDP for the second quarter.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1082,
+  "source_path": "reports/breakwave/2022/2022-09-09_global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/9/global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Much of today's focus will be on the European Central Bank and its decision on interest rates due this afternoon. The bank look set to follow the US Federal Reserve's example with a substantial move to combat surging price levels, with economists expecting interest rates to rise from zero to 0.75 per cent.",
+      "keywords": [
+        "china",
+        "europe",
+        "bank",
+        "city",
+        "central",
+        "interest",
+        "lockdown",
+        "move"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil prices tumbled yesterday as a weakening demand outlook driven by aggressive monetary tightening and persistent economic concerns, partially fuelled by rising Covid infection rates, in the world's preeminent importer, China, continued to weigh on the prices. The Brent futures dropped by 5.2 per cent and settled at 88 dollars per barrel, the lowest level since late January.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 443,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The markets for seaborne freight experienced a day of mixed performances yesterday. For the dry bulk sector, the 1.7 per cent gain for the headline Baltic Dry Index obscured the diverging fortunes across the different tonnage segments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "coal",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-09-09_2022_09_09_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While thermal coal prices have been caught up in the general retreat among energy commodities recently, prices remain only a few per cent below their recent all-time highs amid strong global demand and limited supply growth. Unless the global economy enters a deep recession with substantial demand destruction, prices and demand look set to remain high.",
+      "keywords": [
+        "panamax",
+        "coal",
+        "demand",
+        "prices",
+        "recent",
+        "volumes.",
+        "cargo",
+        "cent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 177,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

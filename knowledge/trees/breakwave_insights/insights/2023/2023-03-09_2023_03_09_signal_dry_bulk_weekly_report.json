@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week Dry Bulk: Indian port congestion, Panamax\nSigns of an increase in the number of vessels for the 1st quarter higher than in 2021 and 2022\nData Source: The Signal Ocean Platform, Dry bulk flows https://go.signalocean.com/e/983831/ry-dynamic-area-congestion-dry/2nq26g/306387475?h=lLbLT9oTUGTfhE8c3-OpF-vRG8yMJ4jhzKfVGqTVTTw\nThe first half of March began with stronger momentum compared to the previous two months of the first quarter, and recent demand growth rates confers optimism for a rebound in rates. It is interesting to note, however, that the number of ballast vessels has increased in recent days, and it is questionable whether recent demand will be sufficient to provide adequate employment opportunities for vessels waiting for fixtures at the increased rates. On the supply side, there has been an increase in the number of vessels congested in Chinese and Indian ports.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "europe",
+    "india",
+    "vessels",
+    "number",
+    "now",
+    "demand",
+    "first"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1090,
+  "source_path": "reports/breakwave/2023/2023-03-09_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/9/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_indian_port_congestion_panamax",
+      "doc_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: Indian port congestion, Panamax",
+      "section_path": [
+        "Chart of the Week Dry Bulk: Indian port congestion, Panamax"
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: Indian port congestion, Panamax",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Signs of an increase in the number of vessels for the 1st quarter higher than in 2021 and 2022\nData Source: The Signal Ocean Platform, Dry bulk flows https://go.signalocean.com/e/983831/ry-dynamic-area-congestion-dry/2nq26g/306387475?h=lLbLT9oTUGTfhE8c3-OpF-vRG8yMJ4jhzKfVGqTVTTw\nThe first half of March began with stronger momentum compared to the previous two months of the first quarter, and recent demand growth rates confers optimism for a rebound in rates. It is interesting to note, however, that the number of ballast vessels has increased in recent days, and it is questionable whether recent demand will be sufficient to provide adequate employment opportunities for vessels waiting for fixtures at the increased rates.",
+      "keywords": [
+        "panamax",
+        "china",
+        "india",
+        "vessels",
+        "demand",
+        "indian",
+        "number",
+        "recent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 282,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_firmer",
+      "doc_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nStrength continued across all vessel size categories in the second week of March, with the Panamax Cont- FE route recording one of its highest levels since the previous peak in week 43 of last year. Capesize vessel freight rates are now at $18.8/tonne and holding for the current week, up $2.5/tonne from the end of week 5.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "now",
+        "route"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__s03_section_2_supply_ballasters_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ballast vessels increased significantly in all size classes in the first days of March, with the Capesize and Supramax segments recording new highs\nCapesize SE Africa: The number of vessels now stands at 106, which is 14 more than two weeks ago, and 32% more than the annual average. Panamax SE Africa: The number of vessels increased to 96, 6 more than two weeks ago, with a tendency to increase further in the coming days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "ago",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__s04_section_3_demand_tondays_increasing",
+      "doc_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Increasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Increasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "March began with an upward trend for all ship size categories, fueling optimism for firmer freight rates toward the end of the first quarter. Capesize demand ton-days: The upward trend has now strengthened and the growth level is now above the low reached in week 7.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "end",
+        "growth",
+        "ton-days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__s05_section_4_port_congestion_no_of_vessels_increasing_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-09_2023_03_09_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "March began with a sharp increase in the number of ship congestion compared to the previous two weeks, with a significant increase in the Handysize and Supramax segments. Capesize: The number of vessels is 110, which is 17 more than the previous week, with an upward trend in the first half of March.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "previous",
+        "vessels",
+        "first"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-11-09_2022_11_09_mmi_daily_iron_ore_index_report_november_09_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-11-09_2022_11_09_mmi_daily_iron_ore_index_report_november_09_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report November 09 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report November 09 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report November 09 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 09/11/2022\nDCE iron ore futures rose by 2.62% today, the main contract closed 686. The traders' willingness to ship is general. The steel mills are purchase on demand.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "month",
+    "ore",
+    "year",
+    "iron",
+    "blast",
+    "dealt",
+    "fell",
+    "furnace",
+    "general."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 362,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-11-09_mmi-daily-iron-ore-index-report-november-09-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-09-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-11-09_2022_11_09_mmi_daily_iron_ore_index_report_november_09_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-11-09_2022_11_09_mmi_daily_iron_ore_index_report_november_09_2022",
+      "parent_id": "hellenic_iron_ore_2022-11-09_2022_11_09_mmi_daily_iron_ore_index_report_november_09_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 09/11/2022\nDCE iron ore futures rose by 2.62% today, the main contract closed 686. The traders' willingness to ship is general.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "month",
+        "ore",
+        "year",
+        "iron",
+        "blast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 360,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

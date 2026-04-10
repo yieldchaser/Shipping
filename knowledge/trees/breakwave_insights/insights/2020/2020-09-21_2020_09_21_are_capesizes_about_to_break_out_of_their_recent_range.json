@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-09-21_2020_09_21_are_capesizes_about_to_break_out_of_their_recent_range__root",
+  "doc_id": "breakwave_insights_insights_2020-09-21_2020_09_21_are_capesizes_about_to_break_out_of_their_recent_range",
+  "parent_id": null,
+  "title": "Are Capesizes About To Break Out Of Their Recent Range",
+  "section_path": [
+    "Are Capesizes About To Break Out Of Their Recent Range"
+  ],
+  "section_path_text": "Are Capesizes About To Break Out Of Their Recent Range",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSince late July, the Capesize spot index has traded in a relatively tight range of about 5,000 (range of approximately 15,000 to 20,000), in an uneventful market dominated by small moves in both the Atlantic and Pacific regions. Although consolidation phases after significant rate moves are normal in shipping like it is in other financial markets, two months is a long time for shipping and thus a resolution should be coming sooner rather than later, especially as seasonality kicks in. Given the fundamental setup, a breakout higher is more likely, although the magnitude of the move is surely debatable with some upside potential already priced-in the futures curve.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "iron_ore",
+    "bauxite",
+    "steel",
+    "although",
+    "should",
+    "balance"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 539,
+  "source_path": "reports/breakwave/2020/2020-09-21_are-capesizes-about-to-break-out-of-their-recent-range.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/9/21/are-capesizes-about-to-break-out-of-their-recent-range",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-09-21_2020_09_21_are_capesizes_about_to_break_out_of_their_recent_range__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-09-21_2020_09_21_are_capesizes_about_to_break_out_of_their_recent_range",
+      "parent_id": "breakwave_insights_insights_2020-09-21_2020_09_21_are_capesizes_about_to_break_out_of_their_recent_range__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since late July, the Capesize spot index has traded in a relatively tight range of about 5,000 (range of approximately 15,000 to 20,000), in an uneventful market dominated by small moves in both the Atlantic and Pacific regions. Although consolidation phases after significant rate moves are normal in shipping like it is in other financial markets, two months is a long time for shipping and thus a resolution should be coming sooner rather than later, especially as seasonality kicks in.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "iron_ore",
+        "bauxite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 537,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

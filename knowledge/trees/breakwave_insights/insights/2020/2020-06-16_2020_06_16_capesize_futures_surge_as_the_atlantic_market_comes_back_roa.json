@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-16_2020_06_16_capesize_futures_surge_as_the_atlantic_market_comes_back_roa__root",
+  "doc_id": "breakwave_insights_insights_2020-06-16_2020_06_16_capesize_futures_surge_as_the_atlantic_market_comes_back_roa",
+  "parent_id": null,
+  "title": "Capesize Futures Surge As The Atlantic Market Comes Back Roaring",
+  "section_path": [
+    "Capesize Futures Surge As The Atlantic Market Comes Back Roaring"
+  ],
+  "section_path_text": "Capesize Futures Surge As The Atlantic Market Comes Back Roaring",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA mad day in freight futures today , as improving spot rates across the globe and better sentiment in macroeconomic fundamentals (see infrastructure spending ) pushed freight futures higher, aided by significant short covering of bearish bets made earlier in the year. As the spot Capesize market is repeating its year ago pattern (with a brief interruption in May), and with significant volume expected out of Brazil in the second half of the year , physical players seem to have been caught short freight (i.e. not enough chartered-in vessels to ship the anticipated higher volume), rushing into the futures market to take cover.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "europe",
+    "iron_ore",
+    "bauxite",
+    "steel",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 666,
+  "source_path": "reports/breakwave/2020/2020-06-16_capesize-futures-surge-as-the-atlantic-market-comes-back-roa.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/16/capesize-futures-surge-as-the-atlantic-market-comes-back-roaring",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-16_2020_06_16_capesize_futures_surge_as_the_atlantic_market_comes_back_roa__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-16_2020_06_16_capesize_futures_surge_as_the_atlantic_market_comes_back_roa",
+      "parent_id": "breakwave_insights_insights_2020-06-16_2020_06_16_capesize_futures_surge_as_the_atlantic_market_comes_back_roa__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A mad day in freight futures today , as improving spot rates across the globe and better sentiment in macroeconomic fundamentals (see infrastructure spending ) pushed freight futures higher, aided by significant short covering of bearish bets made earlier in the year. As the spot Capesize market is repeating its year ago pattern (with a brief interruption in May), and with significant volume expected out of Brazil in the second half of the year , physical players seem to have been caught short freight (i.e.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 664,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

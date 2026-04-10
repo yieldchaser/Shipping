@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-10-10_2023_10_10_breakwave_bi_weekly_drybulk_report_oct_10_2023_98rk6__root",
+  "doc_id": "breakwave_insights_insights_2023-10-10_2023_10_10_breakwave_bi_weekly_drybulk_report_oct_10_2023_98rk6",
+  "parent_id": null,
+  "title": "Breakwave Bi Weekly Drybulk Report Oct 10 2023 98Rk6",
+  "section_path": [
+    "Breakwave Bi Weekly Drybulk Report Oct 10 2023 98Rk6"
+  ],
+  "section_path_text": "Breakwave Bi Weekly Drybulk Report Oct 10 2023 98Rk6",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Capesize spot rates reach 16-month highs amid a tighter Atlantic market - Once again, dry bulk volatility comes back with a vengeance as supply/demand balance in the Atlantic is now tilted towards stronger rates for the foreseeable future. Such a shift comes despite an unfavorable macro picture, with China continuing to suffer from weak steel demand (although we believe this is about to change as discussed below). Freight futures clearly demonstrate such a pessimism, with a sharply backwardated curve for the next several months against a Capesize spot market that is pushing towards the 30,000 mark.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "iron_ore",
+    "bauxite",
+    "steel",
+    "back",
+    "year",
+    "next",
+    "believe"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 641,
+  "source_path": "reports/breakwave/2023/2023-10-10_breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/10/10/breakwave-bi-weekly-drybulk-report-oct-10-2023-98rk6",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-10-10_2023_10_10_breakwave_bi_weekly_drybulk_report_oct_10_2023_98rk6__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-10-10_2023_10_10_breakwave_bi_weekly_drybulk_report_oct_10_2023_98rk6",
+      "parent_id": "breakwave_insights_insights_2023-10-10_2023_10_10_breakwave_bi_weekly_drybulk_report_oct_10_2023_98rk6__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Capesize spot rates reach 16-month highs amid a tighter Atlantic market - Once again, dry bulk volatility comes back with a vengeance as supply/demand balance in the Atlantic is now tilted towards stronger rates for the foreseeable future. Such a shift comes despite an unfavorable macro picture, with China continuing to suffer from weak steel demand (although we believe this is about to change as discussed below).",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "iron_ore",
+        "bauxite",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 639,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

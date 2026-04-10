@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-07-12_2022_07_12_mmi_daily_iron_ore_index_report_july_12_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-07-12_2022_07_12_mmi_daily_iron_ore_index_report_july_12_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report July 12 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report July 12 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report July 12 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 12/07/2022\nDCE iron ore was was shocked all the day.The main contract closed at 707,decreased of 4.97%. Traders are generally motivated to ship,steel mills are mainly on the sidelines, and there are few transactions in the market. PBF at Shandong port dealt 754-775 yuan/mt,decrease 5-\n20 yuan/mt than yesterday; PBF at Tangshan port dealt 772-782 yuan/mt,decrease 13-23yuan/mt than yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "are",
+    "yuan/mt",
+    "data",
+    "iron",
+    "mills",
+    "ore",
+    "dealt",
+    "decrease",
+    "main"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 316,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-07-12_mmi-daily-iron-ore-index-report-july-12-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-12-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-07-12_2022_07_12_mmi_daily_iron_ore_index_report_july_12_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-07-12_2022_07_12_mmi_daily_iron_ore_index_report_july_12_2022",
+      "parent_id": "hellenic_iron_ore_2022-07-12_2022_07_12_mmi_daily_iron_ore_index_report_july_12_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 12/07/2022\nDCE iron ore was was shocked all the day.The main contract closed at 707,decreased of 4.97%. Traders are generally motivated to ship,steel mills are mainly on the sidelines, and there are few transactions in the market.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "are",
+        "yuan/mt",
+        "data",
+        "iron",
+        "mills"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 314,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

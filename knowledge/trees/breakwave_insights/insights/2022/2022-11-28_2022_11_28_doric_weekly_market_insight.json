@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-28_2022_11_28_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2022-11-28_2022_11_28_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nIn a sea full of reds, the forty-seventh trading week painted our screens with few brushstrokes of green at last! In fact, on the early side of the week, Capesizes took the lead, revisiting the five-digit territory on Wednesday and concluding today at $13,373 daily. Panamaxes have made some baby steps towards the right direction on the second half of the week, yet closing the last full trading week of November down at $13,310 daily.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "container",
+    "china",
+    "europe",
+    "iron_ore",
+    "steel",
+    "global",
+    "percent",
+    "trade",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 972,
+  "source_path": "reports/breakwave/2022/2022-11-28_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/28/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-28_2022_11_28_doric_weekly_market_insight__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-28_2022_11_28_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2022-11-28_2022_11_28_doric_weekly_market_insight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nIn a sea full of reds, the forty-seventh trading week painted our screens with few brushstrokes of green at last! In fact, on the early side of the week, Capesizes took the lead, revisiting the five-digit territory on Wednesday and concluding today at $13,373 daily.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "container",
+        "china",
+        "europe",
+        "iron_ore",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 970,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

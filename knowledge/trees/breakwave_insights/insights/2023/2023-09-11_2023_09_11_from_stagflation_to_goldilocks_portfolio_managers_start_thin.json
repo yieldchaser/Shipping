@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-11_2023_09_11_from_stagflation_to_goldilocks_portfolio_managers_start_thin__root",
+  "doc_id": "breakwave_insights_insights_2023-09-11_2023_09_11_from_stagflation_to_goldilocks_portfolio_managers_start_thin",
+  "parent_id": null,
+  "title": "From Stagflation To Goldilocks Portfolio Managers Start Thinking Small",
+  "section_path": [
+    "From Stagflation To Goldilocks Portfolio Managers Start Thinking Small"
+  ],
+  "section_path_text": "From Stagflation To Goldilocks Portfolio Managers Start Thinking Small",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nThe three things I would tell my clients this week:\nVisibility remains undeniably low. The range of economic scenarios is very wide, and any of them could be realised. The Fed is entering officially a \"wait and see mode\".",
+  "keywords": [
+    "capesize",
+    "china",
+    "india",
+    "grain",
+    "crude_oil",
+    "one",
+    "can",
+    "but",
+    "would",
+    "any",
+    "are",
+    "down"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1246,
+  "source_path": "reports/breakwave/2023/2023-09-11_from-stagflation-to-goldilocks-portfolio-managers-start-thin.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/11/from-stagflation-to-goldilocks-portfolio-managers-start-thinking-small",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-11_2023_09_11_from_stagflation_to_goldilocks_portfolio_managers_start_thin__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-11_2023_09_11_from_stagflation_to_goldilocks_portfolio_managers_start_thin",
+      "parent_id": "breakwave_insights_insights_2023-09-11_2023_09_11_from_stagflation_to_goldilocks_portfolio_managers_start_thin__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nThe three things I would tell my clients this week:\nVisibility remains undeniably low. The range of economic scenarios is very wide, and any of them could be realised.",
+      "keywords": [
+        "capesize",
+        "china",
+        "india",
+        "grain",
+        "crude_oil",
+        "one",
+        "can",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1244,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-10-11_2021_10_11_port_congestions_arent_dealt_with_interest_rate_hikes__root",
+  "doc_id": "breakwave_insights_insights_2021-10-11_2021_10_11_port_congestions_arent_dealt_with_interest_rate_hikes",
+  "parent_id": null,
+  "title": "Port Congestions Arent Dealt With Interest Rate Hikes",
+  "section_path": [
+    "Port Congestions Arent Dealt With Interest Rate Hikes"
+  ],
+  "section_path_text": "Port Congestions Arent Dealt With Interest Rate Hikes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nAs inflation is rising and energy prices are soaring, central banks are preparing to deal with the possibility of having to raise interest rates to fight it. The Fed has said that asset purchase tapering is in the cards in the next two months and interest rate hikes near the end of 2022, while the ECB last week noted that \"inflation risks are now tilted on the upside\". The question before us is: The world's major central banks are arguably the most powerful institutions run by unelected leaders.",
+  "keywords": [
+    "are",
+    "inflation",
+    "central",
+    "two",
+    "banks",
+    "before",
+    "but",
+    "energy",
+    "expectations",
+    "interest",
+    "what",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 730,
+  "source_path": "reports/breakwave/2021/2021-10-11_port-congestions-arent-dealt-with-interest-rate-hikes.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/10/11/port-congestions-arent-dealt-with-interest-rate-hikes",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-10-11_2021_10_11_port_congestions_arent_dealt_with_interest_rate_hikes__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-10-11_2021_10_11_port_congestions_arent_dealt_with_interest_rate_hikes",
+      "parent_id": "breakwave_insights_insights_2021-10-11_2021_10_11_port_congestions_arent_dealt_with_interest_rate_hikes__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nAs inflation is rising and energy prices are soaring, central banks are preparing to deal with the possibility of having to raise interest rates to fight it. The Fed has said that asset purchase tapering is in the cards in the next two months and interest rate hikes near the end of 2022, while the ECB last week noted that \"inflation risks are now tilted on the upside\".",
+      "keywords": [
+        "are",
+        "inflation",
+        "central",
+        "two",
+        "banks",
+        "before",
+        "but",
+        "energy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 728,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

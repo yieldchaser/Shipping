@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-22_2022_09_22_the_shipfix_blog_is_the_capesize_recovery_sustainable__root",
+  "doc_id": "breakwave_insights_insights_2022-09-22_2022_09_22_the_shipfix_blog_is_the_capesize_recovery_sustainable",
+  "parent_id": null,
+  "title": "The Shipfix Blog Is The Capesize Recovery Sustainable",
+  "section_path": [
+    "The Shipfix Blog Is The Capesize Recovery Sustainable"
+  ],
+  "section_path_text": "The Shipfix Blog Is The Capesize Recovery Sustainable",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nUnder normal circumstances, a three-quarter gain in freight rates for the Panamaxes during the first half of September would have been considered a sterling performance for the tonnage segment and dominated the headlines. However, in the post-pandemic world, with rising geopolitical tensions and the global economy potentially on the verge of a recession, circumstances are anything but ordinary, and the segment's performance pales compared with the Capesizes. As one of Shipfix's previous market blogs highlighted, the past summer's performance for the Capeszes is probably best forgotten.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "last",
+    "chinese",
+    "could",
+    "demand",
+    "global",
+    "seen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1214,
+  "source_path": "reports/breakwave/2022/2022-09-22_the-shipfix-blog-is-the-capesize-recovery-sustainable.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/22/the-shipfix-blog-is-the-capesize-recovery-sustainable",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-22_2022_09_22_the_shipfix_blog_is_the_capesize_recovery_sustainable__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-22_2022_09_22_the_shipfix_blog_is_the_capesize_recovery_sustainable",
+      "parent_id": "breakwave_insights_insights_2022-09-22_2022_09_22_the_shipfix_blog_is_the_capesize_recovery_sustainable__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nUnder normal circumstances, a three-quarter gain in freight rates for the Panamaxes during the first half of September would have been considered a sterling performance for the tonnage segment and dominated the headlines. However, in the post-pandemic world, with rising geopolitical tensions and the global economy potentially on the verge of a recession, circumstances are anything but ordinary, and the segment's performance pales compared with the Capesizes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "atlantic",
+        "iron_ore",
+        "coal",
+        "last",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1212,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

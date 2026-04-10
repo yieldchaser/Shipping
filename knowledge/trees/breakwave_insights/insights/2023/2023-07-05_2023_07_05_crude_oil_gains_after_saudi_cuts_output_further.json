@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-05_2023_07_05_crude_oil_gains_after_saudi_cuts_output_further__root",
+  "doc_id": "breakwave_insights_insights_2023-07-05_2023_07_05_crude_oil_gains_after_saudi_cuts_output_further",
+  "parent_id": null,
+  "title": "Crude Oil Gains After Saudi Cuts Output Further",
+  "section_path": [
+    "Crude Oil Gains After Saudi Cuts Output Further"
+  ],
+  "section_path_text": "Crude Oil Gains After Saudi Cuts Output Further",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nThe weak economic backdrop continues to weigh on sentiment across the commodity complex. However, this was mitigated by further supply side issues. Liquidity was low with US markets closed.",
+  "keywords": [
+    "lng",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "its",
+    "data",
+    "further",
+    "traders"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 603,
+  "source_path": "reports/breakwave/2023/2023-07-05_crude-oil-gains-after-saudi-cuts-output-further.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/5/crude-oil-gains-after-saudi-cuts-output-further",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-05_2023_07_05_crude_oil_gains_after_saudi_cuts_output_further__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-05_2023_07_05_crude_oil_gains_after_saudi_cuts_output_further",
+      "parent_id": "breakwave_insights_insights_2023-07-05_2023_07_05_crude_oil_gains_after_saudi_cuts_output_further__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nThe weak economic backdrop continues to weigh on sentiment across the commodity complex. However, this was mitigated by further supply side issues.",
+      "keywords": [
+        "lng",
+        "china",
+        "brazil",
+        "europe",
+        "iron_ore",
+        "crude_oil",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 601,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-07-13_2020_07_13_e0s2hxlpf3orcqw1x94wjq6ijf6503__root",
+  "doc_id": "breakwave_insights_insights_2020-07-13_2020_07_13_e0s2hxlpf3orcqw1x94wjq6ijf6503",
+  "parent_id": null,
+  "title": "E0S2Hxlpf3Orcqw1X94Wjq6Ijf6503",
+  "section_path": [
+    "E0S2Hxlpf3Orcqw1X94Wjq6Ijf6503"
+  ],
+  "section_path_text": "E0S2Hxlpf3Orcqw1X94Wjq6Ijf6503",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDespite well supported overnight steel markets in China, with iron ore further building on last week's impressive gains and now pushing toward $108/mt, Capesize rates remain under pressure, reflecting among other factors, efforts by major miners to cool down an overheated freight market. Yet, the reality is that the spot market lacks activity at the moment, and any resurgence in such activity should see a rapid turnaround in spot rates as the near term supply demand balance remains in favor of stronger rates. Looking at Brazil's iron ore exports, spot activity has recovered, but remains below levels achieved in the last several years.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "iron_ore",
+    "steel",
+    "are",
+    "last",
+    "activity",
+    "but",
+    "fact",
+    "remains",
+    "trading"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 311,
+  "source_path": "reports/breakwave/2020/2020-07-13_e0s2hxlpf3orcqw1x94wjq6ijf6503.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/7/13/e0s2hxlpf3orcqw1x94wjq6ijf6503",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-07-13_2020_07_13_e0s2hxlpf3orcqw1x94wjq6ijf6503__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-07-13_2020_07_13_e0s2hxlpf3orcqw1x94wjq6ijf6503",
+      "parent_id": "breakwave_insights_insights_2020-07-13_2020_07_13_e0s2hxlpf3orcqw1x94wjq6ijf6503__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Despite well supported overnight steel markets in China, with iron ore further building on last week's impressive gains and now pushing toward $108/mt, Capesize rates remain under pressure, reflecting among other factors, efforts by major miners to cool down an overheated freight market. Yet, the reality is that the spot market lacks activity at the moment, and any resurgence in such activity should see a rapid turnaround in spot rates as the near term supply demand balance remains in favor of stronger rates.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "steel",
+        "are",
+        "last",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 309,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

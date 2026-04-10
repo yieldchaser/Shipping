@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: VLCC Tonne Miles AG to the Far East\nVLCC tonne miles from AG to China have been fluctuating at a lower level since the last peak in late June\nData Source: https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2p7sfm/337435593?h=159-7CfwdERWZbKkfBF9ecFB-bKCHc_XK6feRaWNHOM\nIn the first days of August, sentiment in the crude tanker market continues to be under pressure, and there are no signs of recovery yet, while on AG the growth of tonne-miles towards the Far East (see image above) is continuously revised downwards. After the last peak in rates from AG to China at the end of July, sentiment has deteriorated while weakness continues on the Aframax-Med route. However, there is a glimmer of hope in the MR clean segment, as it shows promising signs of recovery.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "days",
+    "last",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1249,
+  "source_path": "reports/breakwave/2023/2023-08-04_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/4/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__s01_chart_of_the_week_vlcc_tonne_miles_ag_to_the_far_east",
+      "doc_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__root",
+      "title": "Chart of the Week: VLCC Tonne Miles AG to the Far East",
+      "section_path": [
+        "Chart of the Week: VLCC Tonne Miles AG to the Far East"
+      ],
+      "section_path_text": "Chart of the Week: VLCC Tonne Miles AG to the Far East",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC tonne miles from AG to China have been fluctuating at a lower level since the last peak in late June\nData Source: https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2p7sfm/337435593?h=159-7CfwdERWZbKkfBF9ecFB-bKCHc_XK6feRaWNHOM\nIn the first days of August, sentiment in the crude tanker market continues to be under pressure, and there are no signs of recovery yet, while on AG the growth of tonne-miles towards the Far East (see image above) is continuously revised downwards. After the last peak in rates from AG to China at the end of July, sentiment has deteriorated while weakness continues on the Aframax-Med route.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "crude_oil",
+        "are",
+        "oil",
+        "prices",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 400,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__s03_dirty_ws_vlcc_suezmax_aframax_weaker",
+      "doc_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__root",
+      "title": "‘Dirty' WS VLCC - Suezmax - Aframax Weaker",
+      "section_path": [
+        "‘Dirty' WS VLCC - Suezmax - Aframax Weaker"
+      ],
+      "section_path_text": "‘Dirty' WS VLCC - Suezmax - Aframax Weaker",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The first days of August continued to be quiet, with crude oil tanker freight rates softening as the summer season appears to be bringing a slowdown in demand in the Far East, with the Aframax-Med route still subject to a significant downward correction. VLCC MEG-China freight rates fell below the 50 WS mark, down almost 1 point from the previous week, while rates fell for the first time since the end of week 23.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__s04_product_ws_lr_weaker",
+      "doc_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__root",
+      "title": "‘Product' WS LR Weaker",
+      "section_path": [
+        "‘Product' WS LR Weaker"
+      ],
+      "section_path_text": "‘Product' WS LR Weaker",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "LR2 AG freight rates fell to WS95 this week, down 25 points from early last week, with signs of weaker momentum in the coming days of August. Panamax Carib-to-USG rates have been stable around WS180 since late last week with relatively flat dynamics in early August.",
+      "keywords": [
+        "panamax",
+        "europe",
+        "points",
+        "august.",
+        "continent",
+        "down",
+        "early",
+        "fell"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__s06_dirty_vessels_mixed",
+      "doc_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__root",
+      "title": "Dirty (#vessels) - Mixed",
+      "section_path": [
+        "Dirty (#vessels) - Mixed"
+      ],
+      "section_path_text": "Dirty (#vessels) - Mixed",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Crude oil tanker supply showed a mixed picture at the beginning, with a downward trend in VLCC and an upward trend in Suezmax Wafr and Aframax Med. VLCC Ras Tanura: The current count is about 62 ships, which is 10 less than the average for the year, and there is still a tendency for the number to fall further in the coming days of August.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "crude_oil",
+        "august.",
+        "ships",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__s08_mr1_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__root",
+      "title": "MR1 (#vessels) - Decreasing",
+      "section_path": [
+        "MR1 (#vessels) - Decreasing"
+      ],
+      "section_path_text": "MR1 (#vessels) - Decreasing",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Clean LR2 AG Jubail: The current number of ships is currently 8, which is 8 less than the peak in week 29. Clean MR1 Algeria Skikda: The current ship count is now 30 ships, which is about 18 ships less than the last peak during week 28, with a downward trend below the annual average over the last three weeks.",
+      "keywords": [
+        "ships",
+        "clean",
+        "current",
+        "last",
+        "less",
+        "peak",
+        "algeria",
+        "annual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 78,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__s10_dirty_tonne_days_mixed",
+      "doc_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__root",
+      "title": "‘Dirty' Tonne Days Mixed",
+      "section_path": [
+        "‘Dirty' Tonne Days Mixed"
+      ],
+      "section_path_text": "‘Dirty' Tonne Days Mixed",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Dirty tonne days: In early August, the downward revision of the percentage increase in demand (tonnage days) for the VLCC segment seemed to have now reversed to an upward trajectory, whereas the decrease continues in the Suezmax and Aframax segments.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "days",
+        "august",
+        "continues",
+        "decrease",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 52,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__s11_clean_tonne_days_panamax_increasing_mr_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-04_2023_08_04_signal_tanker_weekly_report__root",
+      "title": "‘Clean' Tonne Days Panamax Increasing / MR Decreasing",
+      "section_path": [
+        "‘Clean' Tonne Days Panamax Increasing / MR Decreasing"
+      ],
+      "section_path_text": "‘Clean' Tonne Days Panamax Increasing / MR Decreasing",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Panamax tonne days: The significant downward correction recorded in the last weeks of July has returned to a higher level in the first days of August and must be confirmed, as we have been experiencing a period of strong volatility since the end of week 19. Clean MR tonne days: The first upward trend in tonne-miles continued in early August for the MR2 size, while the weak picture of the previous July days persisted for the MR1 size.",
+      "keywords": [
+        "panamax",
+        "days",
+        "august",
+        "first",
+        "july",
+        "tonne",
+        "clean",
+        "confirmed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 99,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

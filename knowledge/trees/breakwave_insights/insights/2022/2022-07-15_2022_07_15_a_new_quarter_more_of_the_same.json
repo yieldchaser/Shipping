@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-15_2022_07_15_a_new_quarter_more_of_the_same__root",
+  "doc_id": "breakwave_insights_insights_2022-07-15_2022_07_15_a_new_quarter_more_of_the_same",
+  "parent_id": null,
+  "title": "A New Quarter More Of The Same",
+  "section_path": [
+    "A New Quarter More Of The Same"
+  ],
+  "section_path_text": "A New Quarter More Of The Same",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nIt is difficult not to get caught up in the general feeling of doom and gloom when it comes to the global economy. War in the eastern parts of Europe, an increased risk of renewed Covid-restrictions in China, rapidly rising inflation and a brewing energy crisis in Europe are some of the factors that contribute to the increasing headwinds that the global economy is facing. After an extended period of Covid-related disruptions, the new year provided some promises of a return to something that resembled normality for the commodities and dry bulk freight markets.",
+  "keywords": [
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "coal",
+    "gas",
+    "demand",
+    "commodities",
+    "inflation",
+    "prices",
+    "are",
+    "would"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1475,
+  "source_path": "reports/breakwave/2022/2022-07-15_a-new-quarter-more-of-the-same.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/15/a-new-quarter-more-of-the-same",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-15_2022_07_15_a_new_quarter_more_of_the_same__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-15_2022_07_15_a_new_quarter_more_of_the_same",
+      "parent_id": "breakwave_insights_insights_2022-07-15_2022_07_15_a_new_quarter_more_of_the_same__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nIt is difficult not to get caught up in the general feeling of doom and gloom when it comes to the global economy. War in the eastern parts of Europe, an increased risk of renewed Covid-restrictions in China, rapidly rising inflation and a brewing energy crisis in Europe are some of the factors that contribute to the increasing headwinds that the global economy is facing.",
+      "keywords": [
+        "china",
+        "brazil",
+        "europe",
+        "iron_ore",
+        "coal",
+        "gas",
+        "demand",
+        "commodities"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1473,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

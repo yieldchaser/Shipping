@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import hashlib
 import json
 from collections import Counter
@@ -29,6 +31,13 @@ ROW_ORDER = [
     ("baltic", "gas", "baltic/gas"),
     ("baltic", "container", "baltic/container"),
     ("baltic", "ningbo", "baltic/ningbo"),
+    ("breakwave_insights", "insights", "breakwave_insights/insights"),
+    ("hellenic", "dry_charter", "hellenic/dry_charter"),
+    ("hellenic", "tanker_charter", "hellenic/tanker_charter"),
+    ("hellenic", "iron_ore", "hellenic/iron_ore"),
+    ("hellenic", "vessel_valuations", "hellenic/vessel_valuations"),
+    ("hellenic", "demolition", "hellenic/demolition"),
+    ("hellenic", "shipbuilding", "hellenic/shipbuilding"),
     ("book", "book", "books"),
 ]
 
@@ -71,6 +80,13 @@ def count_source_files():
         ("baltic", "gas"): len(list((REPORTS_ROOT / "baltic" / "gas").rglob("*.html"))),
         ("baltic", "container"): len(list((REPORTS_ROOT / "baltic" / "container").rglob("*.html"))),
         ("baltic", "ningbo"): len(list((REPORTS_ROOT / "baltic" / "ningbo").rglob("*.html"))),
+        ("breakwave_insights", "insights"): len(list((REPORTS_ROOT / "breakwave").rglob("*.html"))),
+        ("hellenic", "dry_charter"): len(list((REPORTS_ROOT / "hellenic" / "dry_charter").rglob("*.html"))),
+        ("hellenic", "tanker_charter"): len(list((REPORTS_ROOT / "hellenic" / "tanker_charter").rglob("*.html"))),
+        ("hellenic", "iron_ore"): len(list((REPORTS_ROOT / "hellenic" / "iron_ore").rglob("*.html"))),
+        ("hellenic", "vessel_valuations"): len(list((REPORTS_ROOT / "hellenic" / "vessel_valuations").rglob("*.html"))),
+        ("hellenic", "demolition"): len(list((REPORTS_ROOT / "hellenic" / "demolition").rglob("*.html"))),
+        ("hellenic", "shipbuilding"): len(list((REPORTS_ROOT / "hellenic" / "shipbuilding").rglob("*.html"))),
         ("book", "book"): len(list(REPORTS_ROOT.glob("*.pdf"))),
     }
 
@@ -211,6 +227,8 @@ def inspect_chunks(documents: list[dict], section_ids_by_doc: dict[str, set[str]
         seen_files.add(chunk_file)
         path = REPO_ROOT / chunk_file
         count = 0
+        first_source = None
+        first_category = None
 
         if path.exists():
             with path.open("r", encoding="utf-8") as handle:
@@ -230,6 +248,10 @@ def inspect_chunks(documents: list[dict], section_ids_by_doc: dict[str, set[str]
                         duplicate_chunk_ids.add(chunk_id)
                     seen_chunk_ids.add(chunk_id)
 
+                    if first_source is None and obj.get("source") and obj.get("category"):
+                        first_source = obj.get("source")
+                        first_category = obj.get("category")
+
                     doc_id = obj.get("doc_id")
                     section_id = obj.get("section_id")
                     section_path = obj.get("section_path")
@@ -238,14 +260,20 @@ def inspect_chunks(documents: list[dict], section_ids_by_doc: dict[str, set[str]
                     elif doc_id in section_ids_by_doc and section_id not in section_ids_by_doc[doc_id]:
                         invalid_section_refs.add(chunk_id)
 
-        if "books.jsonl" in chunk_file:
+        if first_source and first_category:
+            key = (first_source, first_category)
+        elif "books.jsonl" in chunk_file:
             key = ("book", "book")
         else:
             stem = path.stem
-            if stem.startswith("breakwave_"):
+            if stem.startswith("breakwave_insights_"):
+                key = ("breakwave_insights", stem.split("breakwave_insights_", 1)[1])
+            elif stem.startswith("breakwave_"):
                 key = ("breakwave", stem.split("_", 1)[1])
             elif stem.startswith("baltic_"):
                 key = ("baltic", stem.split("_", 1)[1])
+            elif stem.startswith("hellenic_"):
+                key = ("hellenic", stem.split("hellenic_", 1)[1])
             else:
                 continue
         chunk_counts[key] = count

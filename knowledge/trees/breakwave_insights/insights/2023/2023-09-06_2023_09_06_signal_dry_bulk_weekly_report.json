@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Panamax Singapore RV via Atlantic Ballast Vessels\nHigher freight rates despite the increase in the volume of ballast ships as demand gradually rises\nAs September began, freight rates continued to remain firm, as recorded at the end of the summer season. However, the Capesize segment remained under downward pressure. On the other hand, the Panamax and Handysize vessel freight rates showed an upturn.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "grain",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1184,
+  "source_path": "reports/breakwave/2023/2023-09-06_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/6/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__s01_chart_of_the_week_panamax_singapore_rv_via_atlantic_ballast_vessels",
+      "doc_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week: Panamax Singapore RV via Atlantic Ballast Vessels",
+      "section_path": [
+        "Chart of the Week: Panamax Singapore RV via Atlantic Ballast Vessels"
+      ],
+      "section_path_text": "Chart of the Week: Panamax Singapore RV via Atlantic Ballast Vessels",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Higher freight rates despite the increase in the volume of ballast ships as demand gradually rises\nAs September began, freight rates continued to remain firm, as recorded at the end of the summer season. However, the Capesize segment remained under downward pressure.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "china",
+        "singapore",
+        "iron_ore",
+        "grain",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 317,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Firmer\nThe rise in Panamax and Handysize freight rates continued during the first week of September, while Capesize rates remained low. Capesize vessel freight rates from Brazil to North China hovered around $17/tonne, while rates appear to be under downward pressure with no spikes in the last three weeks.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (# vessels) Mixed\nThe number of ballast ships showed a mixed picture, with a downward trend in the Capesize, Supramax and Handysize segments but an upward trend in Panamax. Capesize SE Africa: The number of ballasters is 109, down 6% from the previous week and down 13% from the last high recorded in week 29.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "trend",
+        "number",
+        "ballast",
+        "ballasters"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 212,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size TonneDays Decreasing\nThe overall picture of tonne-day growth observed in the first days of September continued the downward trend of the last days of August, while the Capesize shipping showed a level of gradual improvement. Capesize: Although demand growth does not approach the peak of week 27, there is a higher momentum compared to the last low of week 30.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "september",
+        "trend",
+        "days",
+        "downward"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-06_2023_09_06_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports No of Vessels Increasing\nThere was a surge in vessel congestion in China at the start of September, but there may be a downward correction in the coming days following a lower level at the end of the previous month. The rise in numbers is due to the Panamax, Supramax, and Handysize categories of ships.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "number",
+        "previous",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 231,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

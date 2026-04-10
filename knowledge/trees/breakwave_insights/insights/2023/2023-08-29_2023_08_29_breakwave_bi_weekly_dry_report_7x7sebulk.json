@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-29_2023_08_29_breakwave_bi_weekly_dry_report_7x7sebulk__root",
+  "doc_id": "breakwave_insights_insights_2023-08-29_2023_08_29_breakwave_bi_weekly_dry_report_7x7sebulk",
+  "parent_id": null,
+  "title": "Breakwave Bi Weekly Dry Report 7X7Sebulk",
+  "section_path": [
+    "Breakwave Bi Weekly Dry Report 7X7Sebulk"
+  ],
+  "section_path_text": "Breakwave Bi Weekly Dry Report 7X7Sebulk",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• A muted, rangebound market continues as fleet inefficiencies hit record lows - The dry bulk market seems to operate in a very streamlined and efficient manner, with effective supply now even higher than in the pre-Covid years. Although the present situation is limiting the ability of freight rates to move higher, looking forward, the stage is set for a tightening in such effective supply once weather issues appear and as the winter months approach. However, despite the well-supplied market, spot rates remain relatively elevated versus previous instances when charterers had managed to push rates for Capesize ships in the low single digit levels.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "bauxite",
+    "demand",
+    "economic",
+    "growth",
+    "supply",
+    "are",
+    "back"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 621,
+  "source_path": "reports/breakwave/2023/2023-08-29_breakwave-bi-weekly-dry-report-7x7sebulk.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/29/breakwave-bi-weekly-dry-report-7x7sebulk",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-29_2023_08_29_breakwave_bi_weekly_dry_report_7x7sebulk__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-08-29_2023_08_29_breakwave_bi_weekly_dry_report_7x7sebulk",
+      "parent_id": "breakwave_insights_insights_2023-08-29_2023_08_29_breakwave_bi_weekly_dry_report_7x7sebulk__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• A muted, rangebound market continues as fleet inefficiencies hit record lows - The dry bulk market seems to operate in a very streamlined and efficient manner, with effective supply now even higher than in the pre-Covid years. Although the present situation is limiting the ability of freight rates to move higher, looking forward, the stage is set for a tightening in such effective supply once weather issues appear and as the winter months approach.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "bauxite",
+        "demand",
+        "economic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 619,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

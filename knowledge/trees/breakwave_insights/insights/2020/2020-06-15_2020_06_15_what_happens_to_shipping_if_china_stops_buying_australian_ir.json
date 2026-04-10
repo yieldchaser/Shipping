@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-15_2020_06_15_what_happens_to_shipping_if_china_stops_buying_australian_ir__root",
+  "doc_id": "breakwave_insights_insights_2020-06-15_2020_06_15_what_happens_to_shipping_if_china_stops_buying_australian_ir",
+  "parent_id": null,
+  "title": "What Happens To Shipping If China Stops Buying Australian Iron Ore",
+  "section_path": [
+    "What Happens To Shipping If China Stops Buying Australian Iron Ore"
+  ],
+  "section_path_text": "What Happens To Shipping If China Stops Buying Australian Iron Ore",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe weekend article in Global Times that touched on China-Australia relations and the impact on iron ore trade is of particular importance for the dry bulk market. Australia ships more than 700 million tons of iron ore per year to China, and thus such trade is one the most important demand drivers for dry bulk shipping globally. The article discusses the potential for a disruption in iron ore trade between the two countries due to recent trade frictions and how Australia's economy will be equally hurt in such a scenario.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "iron",
+    "ore",
+    "trade",
+    "australian",
+    "not",
+    "imports",
+    "would"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 744,
+  "source_path": "reports/breakwave/2020/2020-06-15_what-happens-to-shipping-if-china-stops-buying-australian-ir.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/15/what-happens-to-shipping-if-china-stops-buying-australian-iron-ore",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-15_2020_06_15_what_happens_to_shipping_if_china_stops_buying_australian_ir__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-15_2020_06_15_what_happens_to_shipping_if_china_stops_buying_australian_ir",
+      "parent_id": "breakwave_insights_insights_2020-06-15_2020_06_15_what_happens_to_shipping_if_china_stops_buying_australian_ir__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The weekend article in Global Times that touched on China-Australia relations and the impact on iron ore trade is of particular importance for the dry bulk market. Australia ships more than 700 million tons of iron ore per year to China, and thus such trade is one the most important demand drivers for dry bulk shipping globally.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "iron",
+        "ore",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 742,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

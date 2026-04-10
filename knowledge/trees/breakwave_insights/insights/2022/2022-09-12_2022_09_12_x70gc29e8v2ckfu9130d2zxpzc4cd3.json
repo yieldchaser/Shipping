@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-12_2022_09_12_x70gc29e8v2ckfu9130d2zxpzc4cd3__root",
+  "doc_id": "breakwave_insights_insights_2022-09-12_2022_09_12_x70gc29e8v2ckfu9130d2zxpzc4cd3",
+  "parent_id": null,
+  "title": "X70Gc29E8V2Ckfu9130D2Zxpzc4Cd3",
+  "section_path": [
+    "X70Gc29E8V2Ckfu9130D2Zxpzc4Cd3"
+  ],
+  "section_path_text": "X70Gc29E8V2Ckfu9130D2Zxpzc4Cd3",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nWhile we have remained bearish for much of the global economy and certainly for the steel market outside of China, one positive issue that we have continued to stress in our Weekly Dry Bulk Reports and Weekly China Reports is that there has been a very solid chance that China's steel production bottomed in late July. New this week has been data released showing that China's steel production increased again in late August, just as it increased first back in early August and then again during the middle of the month. Daily crude steel production at large and medium-sized mills in China averaged 2.03 million tons during August 21- 31.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "steel",
+    "production",
+    "august",
+    "iron",
+    "million",
+    "ore",
+    "our"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 460,
+  "source_path": "reports/breakwave/2022/2022-09-12_x70gc29e8v2ckfu9130d2zxpzc4cd3.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/12/x70gc29e8v2ckfu9130d2zxpzc4cd3",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-12_2022_09_12_x70gc29e8v2ckfu9130d2zxpzc4cd3__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-12_2022_09_12_x70gc29e8v2ckfu9130d2zxpzc4cd3",
+      "parent_id": "breakwave_insights_insights_2022-09-12_2022_09_12_x70gc29e8v2ckfu9130d2zxpzc4cd3__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nWhile we have remained bearish for much of the global economy and certainly for the steel market outside of China, one positive issue that we have continued to stress in our Weekly Dry Bulk Reports and Weekly China Reports is that there has been a very solid chance that China's steel production bottomed in late July. New this week has been data released showing that China's steel production increased again in late August, just as it increased first back in early August and then again during the middle of the month.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "steel",
+        "production",
+        "august"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 458,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

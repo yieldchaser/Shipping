@@ -1,0 +1,108 @@
+---
+category: insights
+commodities:
+- iron_ore
+- coal
+- grain
+- crude_oil
+- products
+- gas
+date: '2022-10-04'
+doc_id: breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update
+document_type: insights_note
+key_entities:
+- China
+- Vale
+- OPEC
+keywords:
+- capesize
+- panamax
+- supramax
+- handysize
+- lng
+- lpg
+- china
+- brazil
+- meg
+- europe
+- singapore
+- iron_ore
+market_tone: cautiously_bearish
+regions:
+- china
+- brazil
+- australia
+- atlantic
+- pacific
+- meg
+- west_africa
+- europe
+- singapore
+section_count: 5
+signals: {}
+source: breakwave_insights
+source_path: reports/breakwave/2022/2022-10-04_shipfix-global-market-update.html
+source_stem: 2022-10-04_shipfix-global-market-update
+source_url: https://www.breakwaveadvisors.com/insights/2022/10/4/shipfix-global-market-update
+summary: 'Main
+
+  By Ulf Bergman
+
+
+  Macro/Geopolitics
+
+  Last week was dominated by rising geopolitical tensions and weak economic data.
+  However, despite the increasingly sombre outlook, the US dollar ended its recent
+  relentless march upward and lost some strength following comments from one of the
+  Federal Reserve''s policymakers highlighting the challenges ahead. The somewhat
+  softer dollar provided some relief for the commodities markets.'
+themes:
+- capesize
+- panamax
+- supramax
+- handysize
+- lng
+- lpg
+title: Shipfix Global Market Update
+vessel_classes:
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
+- aframax
+- lng
+- lpg
+---
+
+## Summary
+Main
+By Ulf Bergman
+
+Macro/Geopolitics
+Last week was dominated by rising geopolitical tensions and weak economic data. However, despite the increasingly sombre outlook, the US dollar ended its recent relentless march upward and lost some strength following comments from one of the Federal Reserve's policymakers highlighting the challenges ahead. The somewhat softer dollar provided some relief for the commodities markets.
+
+## Main
+By Ulf Bergman
+
+## Macro/Geopolitics
+Last week was dominated by rising geopolitical tensions and weak economic data. However, despite the increasingly sombre outlook, the US dollar ended its recent relentless march upward and lost some strength following comments from one of the Federal Reserve's policymakers highlighting the challenges ahead. The somewhat softer dollar provided some relief for the commodities markets. Also, reports that Chinese authorities are asking the country's banks to reduce their dollar positions and buy the Chinese yuan could put additional pressure on the dollar.
+In China, the release of two different sets of PMI data for September provided some conflicting points of view last week. The official manufacturing PMI, released by the country's statistics authority, beat expectations and ended up in expansionary territory by the smallest of margins. In contrast, Caixin's equivalent failed to meet expectations and drifted further into contraction with a reading of 48.1. Still, despite the mixed picture, the Chinese economy continues to exhibit weakness, and the country's leadership may find that more stimulus may be required. In the coming week, it will be the US's turn to release PMI data for September. The numbers will be closely watched for any indications of the health of the US economy and the size of future interest hikes.
+
+## Commodity Markets
+Following a volatile week, the Brent crude oil futures ended last week just above 85 dollars per barrel. The contracts fell below 83 dollars and to the lowest levels since mid-January in the early parts of the week, but recovered as the week progressed. Despite a marginal weekly gain, the contracts ended the third quarter nearly twenty per cent below the levels seen at the end of June, as a stronger dollar and weaker economic outlook have weighed on the demand outlook. Still, the week ahead could see some of the losses reversed amid reports that OPEC+ is considering additional cuts to production.
+European natural gas prices ended the week nearly seven per cent lower, with the November contracts settling at 188,80 euros per megawatt-hour on Friday. Still, the week did not pass without some drama, and prices were volatile throughout the week due to the partial destruction of the Nord Stream pipelines. Despite the potential for more disruption to European natural gas supplies, prices fell on a weaker demand outlook amid increasingly negative economic data for the continent.
+Thermal coal futures moved higher last week amid continued robust demand. The Newcastle futures for delivery in November gained 1.6 per cent during the week despite losses during the second half of the week and ended Friday's session at 418 dollars per tonne. In contrast, the contracts for delivery in North-West Europe next month gained during the latter parts of last week and settled at 313 dollars per tonne, following a 4.9 per cent advance for the week.
+Iron ore futures trading on the Singapore Exchange continued on their downward trajectory last week despite suggestions that Chinese construction activities are picking up. Concerns over the strength of any recovery continued to weigh on prices, with the November contracts ending the week above 94 dollars per tonne following a weekly decline of 2.8 per cent.
+Only copper managed to stay out of the red last week among the base metals. The red metal's futures trading at the London Metal Exchange gained 1.7 per cent last week. The aluminium contracts shed a marginal 0.1 per cent, while the zinc futures retreated by 1.3 per cent. Nickel proved to be last week's biggest loser among the base metals, with the futures declining by nearly ten per cent amid rising production and fears that weakening global growth will put pressure on demand.
+The agricultural commodities saw diverging fortunes last week. The wheat futures trading in Chicago gained around seven per cent as the threat of an escalation of the war in Ukraine put a renewed focus on global supplies. In contrast, the soybean futures retreated by more than four per cent following an unexpected increase in US inventories. For the corn futures, last week proved to be rather uneventful, with only limited moves.
+
+## Freight Markets
+A volatile third quarter ended quietly last week, with most of the Baltic's indices only recording limited moves on Friday. The past quarter provided extensive drama as geopolitics, and the increased risk for a global recession weighed on the demand outlook and sentiments. Still, the past three months have not offered only doom and gloom for the Baltic's freight indices. The Capesizes performed a robust recovery during the second half, and the gauge for the LNG carriers saw a fivefold increase, to name a few positives.
+Despite a marginal 0.2 per cent gain on Friday, the Baltic Dry Index retreated by 3.1 per cent last week. True to recent form, the Capesizes were responsible for last week's decline in the headline index. The sub-index for the largest vessels remained broadly unchanged on the final day of the quarter, but following a large decline on Thursday, the spot freight rates for the segment dropped by an average of 11.4 per cent last week. In contrast, some of their smaller siblings enjoyed a week of healthy gains, with gauges for both the Panamaxes and the Handysizes advancing by nearly 4.5 per cent. For the Supramaxes, the week was somewhat less successful, with their sub-index gaining only 0.7 per cent following losses during the last two days of the week.
+Souring sentiments also weighed on the Baltic's dirty and clean tanker indicators. Both indices ended the week in the red following mostly negative daily returns during the past five days. The dirty tanker index retreated by 1.4 per cent, while their clean siblings fared even worse with a weekly decline of 6.4 per cent. For the gas carriers, the past week was considerably more positive. The Baltic's indicator for the LNG freight rates soared by more than 59 per cent last week, while the gauge for the LPG carriers gained 7.2 per cent.
+
+## The View from the Shipfix Desk
+The Baltic Exchange's Capesize index retreated by more than eleven per cent last week. Despite this, Shipfix cargo order volumes for the segment recovered from previous lows last week and can be expected to move higher when the data for last Friday become available. The global vessel supply in the segment also remained at recent low levels, suggesting that freight rates could recover should the order volumes remain at the current trajectory.
+Data Source: Shipfix

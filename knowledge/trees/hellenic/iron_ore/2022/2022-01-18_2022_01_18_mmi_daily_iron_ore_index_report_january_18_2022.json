@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-01-18_2022_01_18_mmi_daily_iron_ore_index_report_january_18_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-01-18_2022_01_18_mmi_daily_iron_ore_index_report_january_18_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report January 18 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report January 18 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report January 18 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 18/01/2022\nDEC swings down in the morning , but afternoon bounce, the main contract closed 715. an increase of 1.06% throughout the day. The spotquotation in the morning almost kept steady.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "million",
+    "down",
+    "port",
+    "ports",
+    "yuan/mt",
+    "arrivals",
+    "dealt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 452,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-01-18_mmi-daily-iron-ore-index-report-january-18-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-january-18-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-01-18_2022_01_18_mmi_daily_iron_ore_index_report_january_18_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-01-18_2022_01_18_mmi_daily_iron_ore_index_report_january_18_2022",
+      "parent_id": "hellenic_iron_ore_2022-01-18_2022_01_18_mmi_daily_iron_ore_index_report_january_18_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 18/01/2022\nDEC swings down in the morning , but afternoon bounce, the main contract closed 715. an increase of 1.06% throughout the day.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "million",
+        "down",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 450,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

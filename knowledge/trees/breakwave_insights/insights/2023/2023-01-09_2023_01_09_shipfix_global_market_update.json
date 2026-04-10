@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nWith the global newsflow still subdued in the past week, following the Christmas and New Year holidays in large parts of the world, the macro picture was dominated by mounting concerns over the health of the global economy. The International Monetary Fund suggested that a third of the world may be affected by a recession this year. The IMF also said that it is too early to say that the US fight against high inflation has been won, which also was confirmed by the release of stronger-than-expected labour data for the world's largest economy during the past week.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal",
+    "grain"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1294,
+  "source_path": "reports/breakwave/2023/2023-01-09_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/9/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "With the global newsflow still subdued in the past week, following the Christmas and New Year holidays in large parts of the world, the macro picture was dominated by mounting concerns over the health of the global economy. The International Monetary Fund suggested that a third of the world may be affected by a recession this year.",
+      "keywords": [
+        "china",
+        "inflation",
+        "world",
+        "chinese",
+        "data",
+        "during",
+        "global",
+        "past"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 190,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil saw a weak start to the year, with the Brent futures shedding 8.5 per cent during the first week. Most of the losses were realised during the first half of the week, but a marginal 0.2 decline on Friday saw the contracts ending the week at 78.57 dollars per barrel.",
+      "keywords": [
+        "lng",
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 741,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Exchange's seaborne freight indices recorded considerable losses during the past week, as the markets reopened after the extensive closure over the Christmas and New Year holidays. The dry bulk indices were led lower by the gauge for the Capesizes, which lost a third over the four-day week amid concerns over the near-term strength of the Chinese economy.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "europe",
+        "singapore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-09_2023_01_09_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Agricultural commodity prices lost some ground in the past week as weakening global growth rates were seen to weigh on demand. However, an improving supply situation has also contributed to the weaker prices, with wheat being particularly affected.",
+      "keywords": [
+        "grain",
+        "prices",
+        "past",
+        "pressure",
+        "wheat",
+        "addition",
+        "additional",
+        "affected."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

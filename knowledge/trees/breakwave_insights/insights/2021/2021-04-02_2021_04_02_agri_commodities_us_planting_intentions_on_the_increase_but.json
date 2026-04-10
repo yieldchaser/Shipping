@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-02_2021_04_02_agri_commodities_us_planting_intentions_on_the_increase_but__root",
+  "doc_id": "breakwave_insights_insights_2021-04-02_2021_04_02_agri_commodities_us_planting_intentions_on_the_increase_but",
+  "parent_id": null,
+  "title": "Agri Commodities Us Planting Intentions On The Increase But Fail To Match Expectations",
+  "section_path": [
+    "Agri Commodities Us Planting Intentions On The Increase But Fail To Match Expectations"
+  ],
+  "section_path_text": "Agri Commodities Us Planting Intentions On The Increase But Fail To Match Expectations",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nUS soybean and corn prices have remained somewhat stagnant in recent weeks compared with the steep rally in the second half of 2020. Wednesday's release of estimates for corn and soybean plantings by the US Department of Agriculture (USDA) changed that, as the numbers failed to match the analysts' lofty expectations and drove futures prices sharply higher. According to the data, farmers plan to sow 87.6 million acres with soybeans, which is the highest since 2018 and an increase of five per cent on last year's acreage.",
+  "keywords": [
+    "capesize",
+    "container",
+    "china",
+    "brazil",
+    "grain",
+    "corn",
+    "per",
+    "cent",
+    "increase",
+    "soybean",
+    "are",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 735,
+  "source_path": "reports/breakwave/2021/2021-04-02_agri-commodities-us-planting-intentions-on-the-increase-but.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/2/agri-commodities-us-planting-intentions-on-the-increase-but-fail-to-match-expectations",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-02_2021_04_02_agri_commodities_us_planting_intentions_on_the_increase_but__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-02_2021_04_02_agri_commodities_us_planting_intentions_on_the_increase_but",
+      "parent_id": "breakwave_insights_insights_2021-04-02_2021_04_02_agri_commodities_us_planting_intentions_on_the_increase_but__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nUS soybean and corn prices have remained somewhat stagnant in recent weeks compared with the steep rally in the second half of 2020. Wednesday's release of estimates for corn and soybean plantings by the US Department of Agriculture (USDA) changed that, as the numbers failed to match the analysts' lofty expectations and drove futures prices sharply higher.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "brazil",
+        "grain",
+        "corn",
+        "per",
+        "cent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 733,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

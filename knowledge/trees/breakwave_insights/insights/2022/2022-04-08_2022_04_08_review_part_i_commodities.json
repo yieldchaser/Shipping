@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-04-08_2022_04_08_review_part_i_commodities__root",
+  "doc_id": "breakwave_insights_insights_2022-04-08_2022_04_08_review_part_i_commodities",
+  "parent_id": null,
+  "title": "Review Part I Commodities",
+  "section_path": [
+    "Review Part I Commodities"
+  ],
+  "section_path_text": "Review Part I Commodities",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWhen we bid 2021 farewell and entered 2022, an abrupt month-long coal ban by Indonesia authorities and a war happening between the two countries collectively known as the ‘Breadbasket of the World\" are certainty not on everyone's wish list. Yet here we are, as Indonesia has been busy clearing January order backlogs while meeting fresh demand (amidst limited capacity) to Europe. Meanwhile, the invasion of Ukraine is now in its second month with no end in sight.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "volumes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1007,
+  "source_path": "reports/breakwave/2022/2022-04-08_review-part-i-commodities.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/4/8/review-part-i-commodities",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-04-08_2022_04_08_review_part_i_commodities__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-04-08_2022_04_08_review_part_i_commodities",
+      "parent_id": "breakwave_insights_insights_2022-04-08_2022_04_08_review_part_i_commodities__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "When we bid 2021 farewell and entered 2022, an abrupt month-long coal ban by Indonesia authorities and a war happening between the two countries collectively known as the ‘Breadbasket of the World\" are certainty not on everyone's wish list. Yet here we are, as Indonesia has been busy clearing January order backlogs while meeting fresh demand (amidst limited capacity) to Europe.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "australia",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1005,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

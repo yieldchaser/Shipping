@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-06-15_2022_06_15_mmi_daily_iron_ore_index_report_june_15_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-06-15_2022_06_15_mmi_daily_iron_ore_index_report_june_15_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report June 15 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report June 15 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report June 15 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 15/06/2022\nDCE iron ore was shocked and continued downward all the day.The main contract closed 867,decreased of 3.18%. Traders are generallyenthusiastic about selling, steel mills are mainly keep take and see attitude, and the market transaction atmosphere is positive. PBF at Shandong port deal t 930-963 yuan/mt,decreased 13-20 yuan/mt compare with yesterday .PBF at Tangshan port dealt940-960 yuan/mt, decreased10-20 yuan/mt than yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "yuan/mt",
+    "continued",
+    "data",
+    "iron",
+    "may",
+    "mills",
+    "was",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 262,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-06-15_mmi-daily-iron-ore-index-report-june-15-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-june-15-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-06-15_2022_06_15_mmi_daily_iron_ore_index_report_june_15_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-06-15_2022_06_15_mmi_daily_iron_ore_index_report_june_15_2022",
+      "parent_id": "hellenic_iron_ore_2022-06-15_2022_06_15_mmi_daily_iron_ore_index_report_june_15_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 15/06/2022\nDCE iron ore was shocked and continued downward all the day.The main contract closed 867,decreased of 3.18%. Traders are generallyenthusiastic about selling, steel mills are mainly keep take and see attitude, and the market transaction atmosphere is positive.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "yuan/mt",
+        "continued",
+        "data",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 260,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -4,7 +4,7 @@ categories:
 - ningbo
 document_count: 250
 evidence_count: 250
-generated_at: '2026-04-10T02:02:05Z'
+generated_at: '2026-04-10T14:49:32Z'
 latest_evidence_date: '2026-04-03'
 page_type: topic_wiki
 related_topics: []
@@ -31,14 +31,14 @@ Container route pricing, Ningbo-linked export sentiment, rate pressure across ma
 - 2026-03-06 | baltic ningbo | Main: Weekly composite index covering 20ft, 40ft and Hi Cube box rates by The weekly Ningbo Containerised Freight Index is compiled by the Ningbo Shipping Exchange and promoted by the Baltic Exchange. The index is reported every Friday (except Chinese holidays) at 1600 (Beijing). [doc_id: baltic_ningbo_2026-03-06_2026_03_06_ningbo_containerised_freight_index_06032_ningbo | section_id: baltic_ningbo_2026-03-06_2026_03_06_ningbo_containerised_freight_index_06032_ningbo__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2022-04-08 to 2026-04-03 across 5 calendar years.
-- Most-covered years: 2025: 78, 2023: 53, 2024: 52
+- Coverage span: 2022-03-04 to 2026-04-03 across 5 calendar years.
+- Most-covered years: 2025: 74, 2023: 53, 2024: 51
 - Recurring evidence markers: china, container, rate, ningbo, europe, feu
 
 ## Cross-Source View
 - Source coverage: baltic: 250
-- Category coverage: ningbo: 212, container: 38
-- Tone distribution: neutral: 235, cautiously_bearish: 10, constructive: 5
+- Category coverage: ningbo: 213, container: 37
+- Tone distribution: neutral: 236, cautiously_bearish: 10, constructive: 4
 
 ## Key Documents
 - 2026-04-03 | Ningbo Containerised Freight Index [doc_id: baltic_ningbo_2026-04-03_2026_04_03_ningbo_containerised_freight_index_27040_ningbo | section_id: baltic_ningbo_2026-04-03_2026_04_03_ningbo_containerised_freight_index_27040_ningbo__s01_main | pages n/a]

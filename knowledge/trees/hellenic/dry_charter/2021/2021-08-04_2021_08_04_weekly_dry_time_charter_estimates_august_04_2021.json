@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-08-04_2021_08_04_weekly_dry_time_charter_estimates_august_04_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-08-04_2021_08_04_weekly_dry_time_charter_estimates_august_04_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, August 04 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, August 04 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, August 04 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA stable week for the capesize period marker with some short-term activity reported in the pacific. Kamsarmax/panamax rates dipped slightly this week with demand low in the Atlantic. Some echoing of this in the pacific although the south, whilst experiencing some pressure, continues to see activity on the Indonesia to China route.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "atlantic",
+    "pacific",
+    "activity",
+    "although",
+    "are",
+    "atlantic.",
+    "basins",
+    "black",
+    "both"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 155,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-08-04_weekly-dry-time-charter-estimates-august-04-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-august-04-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-08-04_2021_08_04_weekly_dry_time_charter_estimates_august_04_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-08-04_2021_08_04_weekly_dry_time_charter_estimates_august_04_2021",
+      "parent_id": "hellenic_dry_charter_2021-08-04_2021_08_04_weekly_dry_time_charter_estimates_august_04_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A stable week for the capesize period marker with some short-term activity reported in the pacific. Kamsarmax/panamax rates dipped slightly this week with demand low in the Atlantic.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "atlantic",
+        "pacific",
+        "activity",
+        "although",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

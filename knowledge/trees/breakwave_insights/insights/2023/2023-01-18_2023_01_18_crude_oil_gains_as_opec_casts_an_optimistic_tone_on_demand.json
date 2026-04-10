@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-18_2023_01_18_crude_oil_gains_as_opec_casts_an_optimistic_tone_on_demand__root",
+  "doc_id": "breakwave_insights_insights_2023-01-18_2023_01_18_crude_oil_gains_as_opec_casts_an_optimistic_tone_on_demand",
+  "parent_id": null,
+  "title": "Crude Oil Gains As Opec Casts An Optimistic Tone On Demand",
+  "section_path": [
+    "Crude Oil Gains As Opec Casts An Optimistic Tone On Demand"
+  ],
+  "section_path_text": "Crude Oil Gains As Opec Casts An Optimistic Tone On Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nSentiment was broadly positive as optimism regarding China's reopening returned. A slightly weaker USD also added support. Crude oil edged higher as OPEC set a more optimistic tone on demand.",
+  "keywords": [
+    "lng",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "gas",
+    "was",
+    "are",
+    "carbon",
+    "asian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 597,
+  "source_path": "reports/breakwave/2023/2023-01-18_crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/18/crude-oil-gains-as-opec-casts-an-optimistic-tone-on-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-18_2023_01_18_crude_oil_gains_as_opec_casts_an_optimistic_tone_on_demand__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-18_2023_01_18_crude_oil_gains_as_opec_casts_an_optimistic_tone_on_demand",
+      "parent_id": "breakwave_insights_insights_2023-01-18_2023_01_18_crude_oil_gains_as_opec_casts_an_optimistic_tone_on_demand__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nSentiment was broadly positive as optimism regarding China's reopening returned. A slightly weaker USD also added support.",
+      "keywords": [
+        "lng",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "japan",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 595,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

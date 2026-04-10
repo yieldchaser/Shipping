@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import os, re, json, time, hashlib, argparse, traceback, shutil, sys, warnings
 from pathlib import Path
 from datetime import datetime, timezone
@@ -10,7 +12,10 @@ from dotenv import load_dotenv
 from build_health_report import build_health_reports
 from build_wiki import build_wiki
 warnings.simplefilter("ignore", FutureWarning)
-import google.generativeai as genai
+try:
+    import google.generativeai as genai
+except Exception:
+    genai = None
 
 load_dotenv()
 REPO_ROOT = Path(__file__).parent.parent
@@ -19,7 +24,7 @@ KNOWLEDGE = REPO_ROOT / "knowledge"
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY")
 TOKENIZER = tiktoken.get_encoding("cl100k_base")
 
-if GEMINI_KEY:
+if GEMINI_KEY and genai is not None:
     genai.configure(api_key=GEMINI_KEY)
     GEMINI = genai.GenerativeModel("gemini-2.0-flash")
 else:
@@ -132,6 +137,8 @@ KEYWORD_TAXONOMY = {
 
 TITLE_DATE_RE = re.compile(r"Date:\s*([0-9]{1,2}\s+\w+\s+[0-9]{4})", re.I)
 ISO_PREFIX_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})")
+BALTIC_CATEGORIES = ["dry", "tanker", "gas", "container", "ningbo"]
+HELLENIC_CATEGORIES = ["dry_charter", "tanker_charter", "iron_ore", "vessel_valuations", "demolition", "shipbuilding"]
 
 
 def ensure_layout():
@@ -399,7 +406,14 @@ def build_sources_registry():
         },
         "baltic": {
             category: len(list((REPORTS_ROOT / "baltic" / category).rglob("*.html")))
-            for category in ["dry", "tanker", "gas", "container", "ningbo"]
+            for category in BALTIC_CATEGORIES
+        },
+        "breakwave_insights": {
+            "insights": len(list((REPORTS_ROOT / "breakwave").rglob("*.html"))),
+        },
+        "hellenic": {
+            category: len(list((REPORTS_ROOT / "hellenic" / category).rglob("*.html")))
+            for category in HELLENIC_CATEGORIES
         },
         "books": {
             "book": len(list(REPORTS_ROOT.glob("*.pdf"))),
@@ -415,7 +429,14 @@ def build_sources_registry():
             },
             "baltic": {
                 category: relpath(REPORTS_ROOT / "baltic" / category)
-                for category in ["dry", "tanker", "gas", "container", "ningbo"]
+                for category in BALTIC_CATEGORIES
+            },
+            "breakwave_insights": {
+                "insights": relpath(REPORTS_ROOT / "breakwave"),
+            },
+            "hellenic": {
+                category: relpath(REPORTS_ROOT / "hellenic" / category)
+                for category in HELLENIC_CATEGORIES
             },
             "books": {
                 "book": relpath(REPORTS_ROOT),
@@ -434,9 +455,16 @@ def iter_source_files(source_filter: str | None):
             for path in sorted((REPORTS_ROOT / category).rglob("*.pdf")):
                 yield "breakwave", category, path
     if source_filter in (None, "baltic", "all"):
-        for category in ["dry", "tanker", "gas", "container", "ningbo"]:
+        for category in BALTIC_CATEGORIES:
             for path in sorted((REPORTS_ROOT / "baltic" / category).rglob("*.html")):
                 yield "baltic", category, path
+    if source_filter in (None, "breakwave_insights", "all"):
+        for path in sorted((REPORTS_ROOT / "breakwave").rglob("*.html")):
+            yield "breakwave_insights", "insights", path
+    if source_filter in (None, "hellenic", "all"):
+        for category in HELLENIC_CATEGORIES:
+            for path in sorted((REPORTS_ROOT / "hellenic" / category).rglob("*.html")):
+                yield "hellenic", category, path
 
 
 def default_lists_for_doc(source: str, category: str):
@@ -447,6 +475,13 @@ def default_lists_for_doc(source: str, category: str):
         ("baltic", "tanker"): ["vlcc", "suezmax", "aframax"],
         ("baltic", "gas"): ["lng", "lpg"],
         ("baltic", "container"): ["container"],
+        ("breakwave_insights", "insights"): ["capesize", "panamax", "supramax", "handysize", "vlcc", "suezmax", "aframax"],
+        ("hellenic", "dry_charter"): ["capesize", "panamax", "supramax", "handysize"],
+        ("hellenic", "tanker_charter"): ["vlcc", "suezmax", "aframax"],
+        ("hellenic", "iron_ore"): ["capesize", "panamax"],
+        ("hellenic", "vessel_valuations"): ["capesize", "panamax", "supramax", "handysize", "vlcc", "suezmax", "aframax", "container"],
+        ("hellenic", "demolition"): ["capesize", "panamax", "supramax", "handysize", "vlcc", "suezmax", "aframax", "container"],
+        ("hellenic", "shipbuilding"): ["capesize", "panamax", "supramax", "handysize", "vlcc", "suezmax", "aframax", "container", "lng", "lpg"],
     }
     commodity_defaults = {
         ("breakwave", "drybulk"): ["iron_ore", "coal", "grain", "bauxite"],
@@ -456,6 +491,13 @@ def default_lists_for_doc(source: str, category: str):
         ("baltic", "gas"): ["gas"],
         ("baltic", "container"): [],
         ("baltic", "ningbo"): [],
+        ("breakwave_insights", "insights"): ["iron_ore", "coal", "grain", "crude_oil", "products", "gas"],
+        ("hellenic", "dry_charter"): ["iron_ore", "coal", "grain", "bauxite"],
+        ("hellenic", "tanker_charter"): ["crude_oil", "products"],
+        ("hellenic", "iron_ore"): ["iron_ore", "steel"],
+        ("hellenic", "vessel_valuations"): ["iron_ore", "coal", "grain", "crude_oil", "products", "gas"],
+        ("hellenic", "demolition"): [],
+        ("hellenic", "shipbuilding"): [],
         ("book", "book"): [],
     }
     region_defaults = {
@@ -466,6 +508,13 @@ def default_lists_for_doc(source: str, category: str):
         ("baltic", "gas"): ["atlantic", "pacific"],
         ("baltic", "container"): [],
         ("baltic", "ningbo"): ["china"],
+        ("breakwave_insights", "insights"): ["china", "brazil", "australia", "atlantic", "pacific", "meg", "west_africa", "europe"],
+        ("hellenic", "dry_charter"): ["atlantic", "pacific", "china", "brazil", "australia"],
+        ("hellenic", "tanker_charter"): ["meg", "west_africa", "europe", "china"],
+        ("hellenic", "iron_ore"): ["china", "brazil", "australia"],
+        ("hellenic", "vessel_valuations"): ["atlantic", "pacific", "china", "europe", "meg"],
+        ("hellenic", "demolition"): ["india", "china", "europe"],
+        ("hellenic", "shipbuilding"): ["china", "japan", "europe"],
         ("book", "book"): [],
     }
     return (
@@ -743,6 +792,66 @@ def make_baltic_doc_id(html_path: Path, category: str, fallback_date: str | None
 
 def make_book_doc_id(pdf_path: Path) -> str:
     return f"book_{slugify(pdf_path.stem)}"
+
+
+def make_archive_doc_id(source: str, category: str, html_path: Path, date_str: str | None) -> str:
+    date_part = date_str or "no_date"
+    return f"{source}_{category}_{date_part}_{slugify(html_path.stem)}"
+
+
+def find_archive_source_url(soup: BeautifulSoup) -> str | None:
+    for selector, attr in [
+        ("meta[name='archive-url']", "content"),
+        ("link[rel='canonical']", "href"),
+        ("meta[property='og:url']", "content"),
+        ("meta[name='twitter:url']", "content"),
+    ]:
+        tag = soup.select_one(selector)
+        if tag and tag.get(attr):
+            return norm_space(tag[attr])
+    return None
+
+
+def find_archive_date(soup: BeautifulSoup, html_path: Path) -> str | None:
+    meta_date = soup.select_one("meta[name='archive-date']")
+    if meta_date and meta_date.get("content"):
+        raw = norm_space(meta_date.get("content"))
+        if raw and raw.lower() != "unknown":
+            parsed = parse_iso_date(raw)
+            if parsed:
+                return parsed.isoformat()
+    prefix = ISO_PREFIX_RE.match(html_path.stem)
+    if prefix:
+        return prefix.group(1)
+    return None
+
+
+def table_to_text(table) -> str:
+    rows = []
+    for row in table.find_all("tr"):
+        cells = row.find_all(["th", "td"])
+        values = [norm_space(cell.get_text(" ", strip=True)) for cell in cells]
+        values = [value for value in values if value]
+        if values:
+            rows.append(" | ".join(values))
+    if not rows:
+        return ""
+    return "Table:\n" + "\n".join(rows)
+
+
+def infer_document_type(source: str, category: str) -> str:
+    if source == "breakwave_insights":
+        return "insights_note"
+    if source == "hellenic":
+        return {
+            "dry_charter": "charter_estimates",
+            "tanker_charter": "charter_estimates",
+            "iron_ore": "commodity_update",
+            "vessel_valuations": "asset_valuations",
+            "demolition": "demolition_update",
+            "shipbuilding": "shipbuilding_update",
+        }.get(category, "archive_report")
+    return "archive_report"
 
 
 def extract_breakwave_changes(lines: list[str], category: str) -> dict:
@@ -1077,6 +1186,88 @@ def adapt_baltic(html_path: Path, category: str, existing_metadata: dict | None 
     return {"text": full_text, "metadata": metadata, "sections": sections}
 
 
+def adapt_archive_html(
+    html_path: Path,
+    source: str,
+    category: str,
+    existing_metadata: dict | None = None,
+) -> dict:
+    existing_metadata = existing_metadata or {}
+    soup = BeautifulSoup(html_path.read_text(encoding="utf-8", errors="ignore"), "lxml")
+    title = norm_space((soup.find("h1") or soup.find("title")).get_text(" ", strip=True)) if (soup.find("h1") or soup.find("title")) else html_path.stem
+    date_str = find_archive_date(soup, html_path)
+    source_url = find_archive_source_url(soup)
+    root = soup.select_one("body > section") or soup.select_one("section") or soup.body or soup
+
+    sections = []
+    current_heading = None
+    current_lines = []
+    last_line = None
+
+    for node in root.find_all(["h2", "h3", "h4", "p", "li", "blockquote", "table", "img"]):
+        text = ""
+        if node.name in {"h2", "h3", "h4"}:
+            heading = norm_space(node.get_text(" ", strip=True))
+            if heading:
+                if current_heading or current_lines:
+                    sections.append({"heading": current_heading or "Main", "text": "\n".join(current_lines).strip()})
+                current_heading = heading
+                current_lines = []
+                last_line = None
+            continue
+        if node.name == "table":
+            text = table_to_text(node)
+        elif node.name == "img":
+            alt = norm_space(node.get("alt") or "")
+            src = norm_space(node.get("src") or "")
+            img_ref = alt or src
+            text = f"Image reference: {img_ref}" if img_ref else ""
+        else:
+            text = norm_space(node.get_text(" ", strip=True))
+        if text and text != last_line:
+            current_lines.append(text)
+            last_line = text
+
+    if current_heading or current_lines:
+        sections.append({"heading": current_heading or "Main", "text": "\n".join(current_lines).strip()})
+
+    if not sections:
+        fallback = norm_space(root.get_text("\n", strip=True))
+        if not fallback:
+            fallback = title
+        sections = [{"heading": "Main", "text": fallback}]
+
+    full_text = "\n\n".join(
+        f"{section['heading']}\n{section['text']}" if section["heading"] else section["text"]
+        for section in sections
+    )
+    vessels, regions, commodities = infer_taxonomy(full_text, source, category)
+    theme_data = merge_existing_theme_data(heuristic_theme_payload(full_text, category), existing_metadata)
+    keywords = existing_metadata.get("keywords") if isinstance(existing_metadata.get("keywords"), list) and existing_metadata["keywords"] else extract_keywords(full_text)
+
+    metadata = {
+        "doc_id": make_archive_doc_id(source, category, html_path, date_str),
+        "source": source,
+        "category": category,
+        "date": date_str,
+        "title": title,
+        "source_path": relpath(html_path),
+        "source_url": source_url,
+        "source_stem": html_path.stem,
+        "document_type": infer_document_type(source, category),
+        "vessel_classes": vessels,
+        "regions": regions,
+        "commodities": commodities,
+        "signals": {},
+        "summary": existing_metadata.get("summary") or heuristic_summary(full_text),
+        "keywords": keywords,
+        "themes": theme_data["themes"],
+        "key_entities": theme_data["key_entities"],
+        "market_tone": theme_data["market_tone"],
+    }
+    return {"text": full_text, "metadata": metadata, "sections": sections}
+
+
 def looks_like_toc(lines: list[str]) -> bool:
     if len(lines) < 8:
         return False
@@ -1233,7 +1424,7 @@ def doc_output_path(metadata: dict) -> Path:
         return DOCS_DIR / "books" / f"{slugify(title)}.md"
     source_stem = slugify(metadata.get("source_stem") or Path(metadata["source_path"]).stem)
     year = date_str[:4] if date_str else Path(metadata["source_path"]).parent.name
-    if source == "baltic" and date_str:
+    if source in {"baltic", "breakwave_insights", "hellenic"} and date_str:
         filename = f"{date_str}_{source_stem}.md"
     else:
         filename = f"{date_str}.md" if date_str else f"{source_stem}.md"
@@ -1298,6 +1489,8 @@ def adapt_source_file(source: str, category: str, path: Path, llm_enabled: bool,
         return adapt_breakwave(path, category, llm_enabled, existing_metadata=existing_metadata)
     if source == "baltic":
         return adapt_baltic(path, category, existing_metadata=existing_metadata)
+    if source in {"breakwave_insights", "hellenic"}:
+        return adapt_archive_html(path, source, category, existing_metadata=existing_metadata)
     return adapt_book(path, llm_enabled, existing_metadata=existing_metadata)
 
 
@@ -1495,7 +1688,7 @@ def build_derived(llm_enabled: bool = False):
 
 def main():
     parser = argparse.ArgumentParser(description="Shipping knowledge compiler")
-    parser.add_argument("--source", choices=["breakwave", "baltic", "books", "all"], default=None)
+    parser.add_argument("--source", choices=["breakwave", "baltic", "breakwave_insights", "hellenic", "books", "all"], default=None)
     parser.add_argument("--rebuild", action="store_true")
     parser.add_argument("--no-llm", action="store_true")
     parser.add_argument("--derived-only", action="store_true")

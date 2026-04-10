@@ -1,0 +1,314 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nMarch had a better feeling in the spot market\n\"Looking forward towards the seasonally strongest period of Q2 and Q3, market sentiment remains rather mixed, anticipating a few generous spikes but being pensive for the annual average performance.\" Read More\n\nWhat are the immediate areas of risk we should be focusing on? In my nearly 20 years in investments there's one rule that seems to work under any circumstance: Warren Buffet's \"Only when the tide goes out do you discover who's been swimming naked.\" Read More\n\nDirty tanker rates are already lofty and even more upside is expected for the remainder of the year\nNumerous structural and seasonal factors are pointing to higher crude prices in the coming months, and onshore crude inventories are already drawing right now. Read More\n\nSnapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions\nIn the first week of April, there were signs of firmness in the larger vessel segments, while there was some weakening in Supramax and Handysize vessels.",
+  "keywords": [
+    "supramax",
+    "handysize",
+    "vlcc",
+    "china",
+    "europe",
+    "crude_oil",
+    "products",
+    "steel",
+    "read",
+    "are",
+    "crude",
+    "already"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 450,
+  "source_path": "reports/breakwave/2023/2023-04-09_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/9/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__s02_march_had_a_better_feeling_in_the_spot_market",
+      "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+      "title": "March had a better feeling in the spot market",
+      "section_path": [
+        "March had a better feeling in the spot market"
+      ],
+      "section_path_text": "March had a better feeling in the spot market",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "\"Looking forward towards the seasonally strongest period of Q2 and Q3, market sentiment remains rather mixed, anticipating a few generous spikes but being pensive for the annual average performance.\" Read More",
+      "keywords": [
+        "annual",
+        "anticipating",
+        "average",
+        "being",
+        "but",
+        "few",
+        "forward",
+        "generous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__s03_what_are_the_immediate_areas_of_risk_we_should_be_focusing_on",
+      "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+      "title": "What are the immediate areas of risk we should be focusing on?",
+      "section_path": [
+        "What are the immediate areas of risk we should be focusing on?"
+      ],
+      "section_path_text": "What are the immediate areas of risk we should be focusing on?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "In my nearly 20 years in investments there's one rule that seems to work under any circumstance: Warren Buffet's \"Only when the tide goes out do you discover who's been swimming naked.\" Read More",
+      "keywords": [
+        "any",
+        "buffet",
+        "circumstance",
+        "discover",
+        "goes",
+        "investments",
+        "naked.",
+        "nearly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__s04_dirty_tanker_rates_are_already_lofty_and_even_more_upside_is_expected_for_the_remainder_of_the_year",
+      "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+      "title": "Dirty tanker rates are already lofty and even more upside is expected for the remainder of the year",
+      "section_path": [
+        "Dirty tanker rates are already lofty and even more upside is expected for the remainder of the year"
+      ],
+      "section_path_text": "Dirty tanker rates are already lofty and even more upside is expected for the remainder of the year",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Numerous structural and seasonal factors are pointing to higher crude prices in the coming months, and onshore crude inventories are already drawing right now.",
+      "keywords": [
+        "are",
+        "crude",
+        "already",
+        "coming",
+        "drawing",
+        "factors",
+        "higher",
+        "inventories"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__s05_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "In the first week of April, there were signs of firmness in the larger vessel segments, while there was some weakening in Supramax and Handysize vessels.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "april",
+        "firmness",
+        "first",
+        "larger",
+        "read",
+        "segments"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__s06_concerning_is_that_global_crude_steel_production_outside_of_china_has_now_contracted_on_a_year_on_year_basis_for_twelve_straight_months",
+      "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+      "title": "Concerning is that global crude steel production outside of China has now contracted on a year-on-year basis for twelve straight months",
+      "section_path": [
+        "Concerning is that global crude steel production outside of China has now contracted on a year-on-year basis for twelve straight months"
+      ],
+      "section_path_text": "Concerning is that global crude steel production outside of China has now contracted on a year-on-year basis for twelve straight months",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Global crude steel production totaled 142.4 million tons in February.",
+      "keywords": [
+        "steel",
+        "crude",
+        "february.",
+        "global",
+        "million",
+        "production",
+        "read",
+        "tons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__s07_the_rally_in_oil_also_seemed_to_raise_concerns_for_industrial_metals",
+      "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+      "title": "The rally in oil also seemed to raise concerns for industrial metals",
+      "section_path": [
+        "The rally in oil also seemed to raise concerns for industrial metals"
+      ],
+      "section_path_text": "The rally in oil also seemed to raise concerns for industrial metals",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Weak economic data weighed on sentiment across the commodity complex.",
+      "keywords": [
+        "commodity",
+        "complex.",
+        "data",
+        "economic",
+        "read",
+        "sentiment",
+        "weak",
+        "weighed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__s08_changing_trade_flows_in_q1_2023",
+      "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+      "title": "Changing trade flows in Q1 2023",
+      "section_path": [
+        "Changing trade flows in Q1 2023"
+      ],
+      "section_path_text": "Changing trade flows in Q1 2023",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "The European Union embargo on Russian petroleum products took effect on 5 February and is based on the $60 oil price cap introduced on 5 December by the major G7 (Group of Seven) countries.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "based",
+        "cap",
+        "countries.",
+        "december",
+        "effect"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__s09_significant_progress",
+      "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+      "title": "Significant progress",
+      "section_path": [
+        "Significant progress"
+      ],
+      "section_path_text": "Significant progress",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Often in our Weekly China Reports last year, we discussed Chinese efforts to end US dollar hegemony.",
+      "keywords": [
+        "china",
+        "chinese",
+        "discussed",
+        "dollar",
+        "efforts",
+        "end",
+        "hegemony.",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__s10_opec_cuts_expose_vlccs_usg_dirty_rates_slide",
+      "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+      "title": "OPEC cuts expose VLCCs|| USG dirty rates slide",
+      "section_path": [
+        "OPEC cuts expose VLCCs|| USG dirty rates slide"
+      ],
+      "section_path_text": "OPEC cuts expose VLCCs|| USG dirty rates slide",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "OPEC+ cuts could shape up the VLCC trade, while leaving the rest of the vessel classes unscathed Read More",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "classes",
+        "could",
+        "cuts",
+        "leaving",
+        "opec",
+        "read"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__s11_macro_geopolitics_commodity_markets_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-04-09_2023_04_09_weekly_insights_review__root",
+      "title": "Macro/Geopolitics, Commodity Markets, Freight and Bunker Markets",
+      "section_path": [
+        "Macro/Geopolitics, Commodity Markets, Freight and Bunker Markets"
+      ],
+      "section_path_text": "Macro/Geopolitics, Commodity Markets, Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "The past 24 hours have seen the releases of PMI data for the services sectors in the world's two largest economies.",
+      "keywords": [
+        "data",
+        "economies.",
+        "hours",
+        "largest",
+        "past",
+        "pmi",
+        "read",
+        "releases"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

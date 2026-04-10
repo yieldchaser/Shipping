@@ -1,0 +1,85 @@
+---
+category: insights
+commodities:
+- iron_ore
+- coal
+- grain
+- crude_oil
+- products
+- gas
+date: '2021-12-14'
+doc_id: breakwave_insights_insights_2021-12-14_2021_12_14_european_coal_imports_on_the_rise_as_winter_arrives_early
+document_type: insights_note
+key_entities:
+- China
+- Australia
+keywords:
+- capesize
+- panamax
+- china
+- australia
+- europe
+- coal
+- gas
+- european
+- cent
+- per
+- its
+- prices
+market_tone: constructive
+regions:
+- china
+- brazil
+- australia
+- atlantic
+- pacific
+- meg
+- west_africa
+- europe
+section_count: 1
+signals: {}
+source: breakwave_insights
+source_path: reports/breakwave/2021/2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early.html
+source_stem: 2021-12-14_european-coal-imports-on-the-rise-as-winter-arrives-early
+source_url: https://www.breakwaveadvisors.com/insights/2021/12/14/european-coal-imports-on-the-rise-as-winter-arrives-early
+summary: 'Main
+
+  By Ulf Bergman
+
+  The winter has arrived ahead of schedule in many parts of Europe. A colder than
+  usual December has added to the continent''s energy woes, with electricity prices
+  trading around all-time highs in Germany and France. With most of the winter still
+  ahead of us, the early spike in demand will guarantee elevated energy prices for
+  the rest of the season as the already strained inventories will face further pressure.'
+themes:
+- capesize
+- panamax
+- china
+- australia
+- europe
+- coal
+title: European Coal Imports On The Rise As Winter Arrives Early
+vessel_classes:
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
+- aframax
+---
+
+## Summary
+Main
+By Ulf Bergman
+The winter has arrived ahead of schedule in many parts of Europe. A colder than usual December has added to the continent's energy woes, with electricity prices trading around all-time highs in Germany and France. With most of the winter still ahead of us, the early spike in demand will guarantee elevated energy prices for the rest of the season as the already strained inventories will face further pressure.
+
+## Main
+By Ulf Bergman
+The winter has arrived ahead of schedule in many parts of Europe. A colder than usual December has added to the continent's energy woes, with electricity prices trading around all-time highs in Germany and France. With most of the winter still ahead of us, the early spike in demand will guarantee elevated energy prices for the rest of the season as the already strained inventories will face further pressure. Beyond rising demand, Europe is also facing a squeeze on supplies as the global competition for energy commodities heats up and natural gas deliveries from its traditional sources fail to meet requirements.
+European natural gas prices have surged amid rising tensions between Russia and the US following the former's build-up of military forces along its border with Ukraine. Prices are now only marginally below the all-time high set in early October, as traders worry that extensive sanctions could be levied on Russian exports should hostilities commence in earnest. In addition, one of Norway's largest gas fields, Troll, suffered an unplanned outage during last week, and shipments from the country slumped by almost thirteen per cent as a result and contributed to the bullish sentiment in the European gas markets.
+In the wake of rising natural gas prices and tight supply, the importance of thermal coal to the energy mix has been increasing in many European countries. After many years of declining use, the unusually frigid conditions have forced many power plants to boost the use of fossil fuels to keep up with rising electricity demand. At the same time, as surging demand has pushed European electricity prices into record territory, the production is facing a double whammy in terms of costs. Alongside rising energy commodity prices, the increasing use of fossil fuels has seen European carbon credits trading ever higher during the fourth quarter. While the carbon permits are trading some ten per cent lower than the recent peak, the allowances are still 150 per cent more expensive than at the beginning of the year.
+Europe is widely seen as one of the leading players in the drive towards decarbonisation, so it is perhaps a bit surprising that the continent's seaborne coal imports have been steadily increasing during the second half of the year. However, the uncertainty surrounding the continent's primary supplier of natural gas, Russia, has been amplified by low gas inventory levels ahead of the winter. As a result, thermal coal has seen a temporary reversal of its fortunes. Last month recorded the highest volume of coal discharged in European ports since October 2019, at 9.7 million tonnes or 45 per cent above the same month the previous year. Based on the quantities offloaded during the last two weeks, it is possible that the volumes in December will record a similar year-on-year growth and top ten million tonnes. However, the total imports for the year still look set to be 25 per cent below the pre-pandemic levels of 2019.
+As for natural gas, Europe has become increasingly reliant on coal shipments from Russia. Since 2016, the country has doubled its share of the European market for seaborne coal to 41 per cent at the same time as total import volumes have shrunk by more than a third. While Russia has become the dominant coal supplier to the European market, the previous champion, Colombia, has seen its share dwindling to ten per cent over the same period. Australia is another winner, with its market share doubling as some of the coal previously destined for China finds its way to European ports. On average, 1.5 million tonnes of Australian coal have been discharged in European ports during the current year, approximately fifty per cent more than during 2020.
+The demise of the long-distance coal trade with Colombia in recent years has resulted in the Capesize segment's market share shrinking. The growing importance of exports from Russia has made the trade increasingly dominated by the Panamax segment for the shorter voyages. However, in the wake of the Chinese import embargo on Australian coal, the increasing volumes shipped from Australia to Europe have led to the larger tonnage reclaiming some of the lost business.
+The early arrival of the winter in Europe looks set to keep coal imports high in the coming months, as inventories for both gas and coal remain low. However, the energy crunch has generated a record amount of renewable-power supply deals, suggesting that a repeat next winter is becoming somewhat less likely. Increasing tensions in Eastern Europe, with the possibility of additional US and European sanctions on Russian trade, could see coal traders looking to source the commodity from other countries. Given that Russia is Europe's nearest supplier, any such change in the trade patterns would increase the tonne-mile demand.

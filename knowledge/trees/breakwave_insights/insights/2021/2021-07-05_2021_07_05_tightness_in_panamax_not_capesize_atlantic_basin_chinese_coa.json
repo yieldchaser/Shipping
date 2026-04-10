@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-07-05_2021_07_05_tightness_in_panamax_not_capesize_atlantic_basin_chinese_coa__root",
+  "doc_id": "breakwave_insights_insights_2021-07-05_2021_07_05_tightness_in_panamax_not_capesize_atlantic_basin_chinese_coa",
+  "parent_id": null,
+  "title": "Tightness In Panamax Not Capesize Atlantic Basin Chinese Coal And Brazilian Iron Ore Prospects Remain Encouraging",
+  "section_path": [
+    "Tightness In Panamax Not Capesize Atlantic Basin Chinese Coal And Brazilian Iron Ore Prospects Remain Encouraging"
+  ],
+  "section_path_text": "Tightness In Panamax Not Capesize Atlantic Basin Chinese Coal And Brazilian Iron Ore Prospects Remain Encouraging",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nDry bulk freight rates were mixed last week, with capesize rates declining while rates in the rest of the market increased. Earlier, capesize rates appeared likely to begin another rally soon - but this has not occurred as expected. However, we are bullish for capesize prospects for the second half of the year, and already rates are at firm levels even as capesize Atlantic basin availability has not yet significantly tightened.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "last",
+    "likely",
+    "year-on-year",
+    "basin",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 571,
+  "source_path": "reports/breakwave/2021/2021-07-05_tightness-in-panamax-not-capesize-atlantic-basin-chinese-coa.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/7/5/tightness-in-panamax-not-capesize-atlantic-basin-chinese-coal-and-brazilian-iron-ore-prospects-remain-encouraging",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-07-05_2021_07_05_tightness_in_panamax_not_capesize_atlantic_basin_chinese_coa__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-07-05_2021_07_05_tightness_in_panamax_not_capesize_atlantic_basin_chinese_coa",
+      "parent_id": "breakwave_insights_insights_2021-07-05_2021_07_05_tightness_in_panamax_not_capesize_atlantic_basin_chinese_coa__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nDry bulk freight rates were mixed last week, with capesize rates declining while rates in the rest of the market increased. Earlier, capesize rates appeared likely to begin another rally soon - but this has not occurred as expected.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "atlantic",
+        "iron_ore",
+        "coal",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 569,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-26_2023_09_26_breakwave_bi_weekly_drybulk_report_sep_26_2023_kx7ah__root",
+  "doc_id": "breakwave_insights_insights_2023-09-26_2023_09_26_breakwave_bi_weekly_drybulk_report_sep_26_2023_kx7ah",
+  "parent_id": null,
+  "title": "Breakwave Bi Weekly Drybulk Report Sep 26 2023 Kx7Ah",
+  "section_path": [
+    "Breakwave Bi Weekly Drybulk Report Sep 26 2023 Kx7Ah"
+  ],
+  "section_path_text": "Breakwave Bi Weekly Drybulk Report Sep 26 2023 Kx7Ah",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Capesize spot rates approaching the 20,000 mark as seasonality kicks in - With the summer dull days coming to an end, dry bulk activity is once again picking up, and with that, Capesize spot rates have begun to creep higher, although still inside the tight range that has prevailed for most of the past 18 months. \"Unexciting\" has been the word to characterize the state of the dry bulk market recently, but as always has been the case in the last few years, the surprise element is always one headline away. Are we about to experience a stronger than expected winter rally?",
+  "keywords": [
+    "capesize",
+    "china",
+    "west_africa",
+    "europe",
+    "iron_ore",
+    "coal",
+    "bauxite",
+    "growth",
+    "could",
+    "demand",
+    "strong",
+    "back"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 650,
+  "source_path": "reports/breakwave/2023/2023-09-26_breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/26/breakwave-bi-weekly-drybulk-report-sep-26-2023-kx7ah",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-26_2023_09_26_breakwave_bi_weekly_drybulk_report_sep_26_2023_kx7ah__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-26_2023_09_26_breakwave_bi_weekly_drybulk_report_sep_26_2023_kx7ah",
+      "parent_id": "breakwave_insights_insights_2023-09-26_2023_09_26_breakwave_bi_weekly_drybulk_report_sep_26_2023_kx7ah__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Capesize spot rates approaching the 20,000 mark as seasonality kicks in - With the summer dull days coming to an end, dry bulk activity is once again picking up, and with that, Capesize spot rates have begun to creep higher, although still inside the tight range that has prevailed for most of the past 18 months. \"Unexciting\" has been the word to characterize the state of the dry bulk market recently, but as always has been the case in the last few years, the surprise element is always one headline away.",
+      "keywords": [
+        "capesize",
+        "china",
+        "west_africa",
+        "europe",
+        "iron_ore",
+        "coal",
+        "bauxite",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 648,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

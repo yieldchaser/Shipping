@@ -1,0 +1,284 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nLatest Trends\nClass society DNV has unveiled the sixth edition of its Maritime Forecast to 2050 report with a new focus on how to overcome the \"ultimate hurdle\" of fuel availability. Read More\n\nAny future disruptions could push prices sharply higher\nLast week saw the European Central Bank following the US Federal Reserve's example with a sizeable interest rate hike to combat the continent's rising prices. Read More\n\nSnapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions\nPrices for iron ore cargoes containing 63.5% iron for delivery to Tianjin rose to around $105, the highest level in nearly three weeks, boosted by the prospect of increased Chinese demand.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "europe",
+    "india",
+    "iron_ore",
+    "coal",
+    "read",
+    "economic",
+    "further",
+    "iron",
+    "million",
+    "sector"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 437,
+  "source_path": "reports/breakwave/2022/2022-09-18_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/18/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__s02_latest_trends",
+      "doc_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__root",
+      "title": "Latest Trends",
+      "section_path": [
+        "Latest Trends"
+      ],
+      "section_path_text": "Latest Trends",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Class society DNV has unveiled the sixth edition of its Maritime Forecast to 2050 report with a new focus on how to overcome the \"ultimate hurdle\" of fuel availability.",
+      "keywords": [
+        "availability.",
+        "class",
+        "dnv",
+        "focus",
+        "forecast",
+        "fuel",
+        "how",
+        "hurdle"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__s03_any_future_disruptions_could_push_prices_sharply_higher",
+      "doc_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__root",
+      "title": "Any future disruptions could push prices sharply higher",
+      "section_path": [
+        "Any future disruptions could push prices sharply higher"
+      ],
+      "section_path_text": "Any future disruptions could push prices sharply higher",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Last week saw the European Central Bank following the US Federal Reserve's example with a sizeable interest rate hike to combat the continent's rising prices.",
+      "keywords": [
+        "europe",
+        "bank",
+        "central",
+        "combat",
+        "continent",
+        "european",
+        "example",
+        "federal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__s04_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Prices for iron ore cargoes containing 63.5% iron for delivery to Tianjin rose to around $105, the highest level in nearly three weeks, boosted by the prospect of increased Chinese demand.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "iron",
+        "around",
+        "boosted",
+        "cargoes",
+        "chinese",
+        "containing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__s05_more_support_for_the_construction_sector_is_expected_as_beijing_looks_to_boost_economic_activity",
+      "doc_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__root",
+      "title": "More support for the construction sector is expected as Beijing looks to boost economic activity",
+      "section_path": [
+        "More support for the construction sector is expected as Beijing looks to boost economic activity"
+      ],
+      "section_path_text": "More support for the construction sector is expected as Beijing looks to boost economic activity",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Higher than expected inflation in the US raised fears of further aggressive hikes by the Fed.",
+      "keywords": [
+        "aggressive",
+        "expected",
+        "fears",
+        "fed.",
+        "further",
+        "higher",
+        "hikes",
+        "inflation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__s06_recent_positive_developments_in_the_vlcc_sector",
+      "doc_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__root",
+      "title": "Recent positive developments in the VLCC sector",
+      "section_path": [
+        "Recent positive developments in the VLCC sector"
+      ],
+      "section_path_text": "Recent positive developments in the VLCC sector",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "While the talk of the town has been of the VLCC sector's spike in rates in recent weeks, this article focuses on some of the key variables that have afflicted these vessels over the past few years and kept market sentiment so low for so long.",
+      "keywords": [
+        "vlcc",
+        "afflicted",
+        "article",
+        "few",
+        "focuses",
+        "kept",
+        "key",
+        "long."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 52,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__s07_us_spr_releases_bring_much_needed_supply_to_a_tight_market",
+      "doc_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__root",
+      "title": "US SPR releases bring much needed supply to a tight market",
+      "section_path": [
+        "US SPR releases bring much needed supply to a tight market"
+      ],
+      "section_path_text": "US SPR releases bring much needed supply to a tight market",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "As global fuel demand falls amidst a broader economic slowdown that is brewing behind the wings, we see its impact on US crude/condensate flows.",
+      "keywords": [
+        "amidst",
+        "behind",
+        "brewing",
+        "broader",
+        "crude/condensate",
+        "demand",
+        "economic",
+        "falls"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__s08_production_has_continued_to_achieve_strong_year_on_year_growth",
+      "doc_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__root",
+      "title": "Production has continued to achieve strong year-on-year growth",
+      "section_path": [
+        "Production has continued to achieve strong year-on-year growth"
+      ],
+      "section_path_text": "Production has continued to achieve strong year-on-year growth",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Coal India produced approximately 46.2 million tons of coal last month, which marks a month-on-month decline of 1.1 million tons (-2%) but a year-on-year increase of 3.6 million tons (9%).",
+      "keywords": [
+        "india",
+        "coal",
+        "million",
+        "tons",
+        "approximately",
+        "but",
+        "decline",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__s09_iron_ore_futures_were_steady_as_easing_curbs_in_chengdu_aided_the_demand_outlook",
+      "doc_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__root",
+      "title": "Iron ore futures were steady as easing curbs in Chengdu aided the demand outlook",
+      "section_path": [
+        "Iron ore futures were steady as easing curbs in Chengdu aided the demand outlook"
+      ],
+      "section_path_text": "Iron ore futures were steady as easing curbs in Chengdu aided the demand outlook",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Commodity markets suffered further losses as mixed economic data did nothing to change expectations of further aggressive hikes by the Fed.",
+      "keywords": [
+        "further",
+        "aggressive",
+        "change",
+        "commodity",
+        "data",
+        "did",
+        "economic",
+        "expectations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__s10_flickering_light_at_the_end_of_the_tunnel_with_a_fresh_report_of_the_resumption_of_construction_projects",
+      "doc_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-18_2022_09_18_weekly_insights_review__root",
+      "title": "Flickering light at the end of the tunnel with a fresh report of the resumption of construction projects",
+      "section_path": [
+        "Flickering light at the end of the tunnel with a fresh report of the resumption of construction projects"
+      ],
+      "section_path_text": "Flickering light at the end of the tunnel with a fresh report of the resumption of construction projects",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "is the norm in these fast-changing times.",
+      "keywords": [
+        "breaking",
+        "fast-changing",
+        "news...",
+        "norm",
+        "read",
+        "times."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-12_2020_06_12_highest_capesize_index_print_of_the_year_as_brazil_comes_bac__root",
+  "doc_id": "breakwave_insights_insights_2020-06-12_2020_06_12_highest_capesize_index_print_of_the_year_as_brazil_comes_bac",
+  "parent_id": null,
+  "title": "Highest Capesize Index Print Of The Year As Brazil Comes Back To Life",
+  "section_path": [
+    "Highest Capesize Index Print Of The Year As Brazil Comes Back To Life"
+  ],
+  "section_path_text": "Highest Capesize Index Print Of The Year As Brazil Comes Back To Life",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize spot rates continued to advance, as the Index hits the highest level of the year on the back of strong interest from major miners, both in Australia as well as in Brazil, for iron ore shipments to China. Still, the transatlantic market is lagging, as European demand for bulk commodities remains lackluster. For now however, China's appetite for iron ore is more than enough to keep the momentum in freight going.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "europe",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "quarter"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 635,
+  "source_path": "reports/breakwave/2020/2020-06-12_highest-capesize-index-print-of-the-year-as-brazil-comes-bac.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/12/highest-capesize-index-print-of-the-year-as-brazil-comes-back-to-life",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-12_2020_06_12_highest_capesize_index_print_of_the_year_as_brazil_comes_bac__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-12_2020_06_12_highest_capesize_index_print_of_the_year_as_brazil_comes_bac",
+      "parent_id": "breakwave_insights_insights_2020-06-12_2020_06_12_highest_capesize_index_print_of_the_year_as_brazil_comes_bac__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize spot rates continued to advance, as the Index hits the highest level of the year on the back of strong interest from major miners, both in Australia as well as in Brazil, for iron ore shipments to China. Still, the transatlantic market is lagging, as European demand for bulk commodities remains lackluster.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "europe",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 633,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

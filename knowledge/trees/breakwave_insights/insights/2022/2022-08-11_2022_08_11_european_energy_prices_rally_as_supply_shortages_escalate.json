@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-11_2022_08_11_european_energy_prices_rally_as_supply_shortages_escalate__root",
+  "doc_id": "breakwave_insights_insights_2022-08-11_2022_08_11_european_energy_prices_rally_as_supply_shortages_escalate",
+  "parent_id": null,
+  "title": "European Energy Prices Rally As Supply Shortages Escalate",
+  "section_path": [
+    "European Energy Prices Rally As Supply Shortages Escalate"
+  ],
+  "section_path_text": "European Energy Prices Rally As Supply Shortages Escalate",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nA lower-than-expected inflation print saw a risk-on tone across markets push commodity markets higher. This was supported by signs of improving demand for some commodities. Crude oil gained amidst a risk-on tone across markets as signs of cooling inflation and a weaker USD boosted sentiment.",
+  "keywords": [
+    "lng",
+    "australia",
+    "europe",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "was",
+    "energy",
+    "concerns",
+    "demand",
+    "european"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 698,
+  "source_path": "reports/breakwave/2022/2022-08-11_european-energy-prices-rally-as-supply-shortages-escalate.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/11/european-energy-prices-rally-as-supply-shortages-escalate",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-11_2022_08_11_european_energy_prices_rally_as_supply_shortages_escalate__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-08-11_2022_08_11_european_energy_prices_rally_as_supply_shortages_escalate",
+      "parent_id": "breakwave_insights_insights_2022-08-11_2022_08_11_european_energy_prices_rally_as_supply_shortages_escalate__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nA lower-than-expected inflation print saw a risk-on tone across markets push commodity markets higher. This was supported by signs of improving demand for some commodities.",
+      "keywords": [
+        "lng",
+        "australia",
+        "europe",
+        "coal",
+        "crude_oil",
+        "products",
+        "gas",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 696,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

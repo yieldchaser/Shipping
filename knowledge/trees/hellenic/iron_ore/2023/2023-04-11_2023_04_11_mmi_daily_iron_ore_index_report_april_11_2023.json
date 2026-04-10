@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-04-11_2023_04_11_mmi_daily_iron_ore_index_report_april_11_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-04-11_2023_04_11_mmi_daily_iron_ore_index_report_april_11_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report April 11 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report April 11 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report April 11 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 11/04/2023\nDCE iron ore futures open lower and go higher, the main contract I 2309 closed 798.5, an increase of 1.53% throughout the day.some traders were active to sell, Some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high. Today the overall market transaction atmosphere is acceptable. PBF at Shandong port dealt 885-896 yuan/mt; prices are mixed today over yesterday.",
+  "keywords": [
+    "china",
+    "australia",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "prices",
+    "main",
+    "port",
+    "price",
+    "today",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 286,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-04-11_mmi-daily-iron-ore-index-report-april-11-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-11-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-04-11_2023_04_11_mmi_daily_iron_ore_index_report_april_11_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-04-11_2023_04_11_mmi_daily_iron_ore_index_report_april_11_2023",
+      "parent_id": "hellenic_iron_ore_2023-04-11_2023_04_11_mmi_daily_iron_ore_index_report_april_11_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 11/04/2023\nDCE iron ore futures open lower and go higher, the main contract I 2309 closed 798.5, an increase of 1.53% throughout the day.some traders were active to sell, Some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high. Today the overall market transaction atmosphere is acceptable.",
+      "keywords": [
+        "china",
+        "australia",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "prices",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 284,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

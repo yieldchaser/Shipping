@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-06_2022_07_06_crude_oil_plunges_amid_rising_recessionary_fears__root",
+  "doc_id": "breakwave_insights_insights_2022-07-06_2022_07_06_crude_oil_plunges_amid_rising_recessionary_fears",
+  "parent_id": null,
+  "title": "Crude Oil Plunges Amid Rising Recessionary Fears",
+  "section_path": [
+    "Crude Oil Plunges Amid Rising Recessionary Fears"
+  ],
+  "section_path_text": "Crude Oil Plunges Amid Rising Recessionary Fears",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nRecession fears gripped commodity markets, with crude oil and metals suffering sharp losses. A stronger USD also weighed on investor sentiment. Crude oil prices slumped as fears of weaker demand amid slowing economic growth outweighed a fundamentally tight market.",
+  "keywords": [
+    "lng",
+    "china",
+    "brazil",
+    "europe",
+    "japan",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "steel",
+    "gas",
+    "fears",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 721,
+  "source_path": "reports/breakwave/2022/2022-07-06_crude-oil-plunges-amid-rising-recessionary-fears.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/6/crude-oil-plunges-amid-rising-recessionary-fears",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-06_2022_07_06_crude_oil_plunges_amid_rising_recessionary_fears__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-06_2022_07_06_crude_oil_plunges_amid_rising_recessionary_fears",
+      "parent_id": "breakwave_insights_insights_2022-07-06_2022_07_06_crude_oil_plunges_amid_rising_recessionary_fears__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nRecession fears gripped commodity markets, with crude oil and metals suffering sharp losses. A stronger USD also weighed on investor sentiment.",
+      "keywords": [
+        "lng",
+        "china",
+        "brazil",
+        "europe",
+        "japan",
+        "iron_ore",
+        "coal",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 719,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

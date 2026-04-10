@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-14_2022_07_14_brazil_iron_ore_contraction_continues_eventual_china_improve__root",
+  "doc_id": "breakwave_insights_insights_2022-07-14_2022_07_14_brazil_iron_ore_contraction_continues_eventual_china_improve",
+  "parent_id": null,
+  "title": "Brazil Iron Ore Contraction Continues Eventual China Improvement Likely",
+  "section_path": [
+    "Brazil Iron Ore Contraction Continues Eventual China Improvement Likely"
+  ],
+  "section_path_text": "Brazil Iron Ore Contraction Continues Eventual China Improvement Likely",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nOne of the most negative issues for the capesize market this year has been that Brazil's iron ore exports have continued to contract on a year-on-year basis. Most recently, Brazil's iron ore exports totaled 32.1 million tons in June. While this is 6.6 million tons (26%) more than was exported in May, it is 400,000 tons (-5%) less than was exported in June 2021.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "year",
+    "iron",
+    "million",
+    "ore",
+    "tons",
+    "exports",
+    "half"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 490,
+  "source_path": "reports/breakwave/2022/2022-07-14_brazil-iron-ore-contraction-continues-eventual-china-improve.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/14/brazil-iron-ore-contraction-continues-eventual-china-improvement-likely",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-14_2022_07_14_brazil_iron_ore_contraction_continues_eventual_china_improve__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-14_2022_07_14_brazil_iron_ore_contraction_continues_eventual_china_improve",
+      "parent_id": "breakwave_insights_insights_2022-07-14_2022_07_14_brazil_iron_ore_contraction_continues_eventual_china_improve__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nOne of the most negative issues for the capesize market this year has been that Brazil's iron ore exports have continued to contract on a year-on-year basis. Most recently, Brazil's iron ore exports totaled 32.1 million tons in June.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "year",
+        "iron",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 488,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

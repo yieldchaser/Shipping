@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_tanker_charter_2021-10-27_2021_10_27_weekly_tanker_time_charter_estimates_october_27_2021__root",
+  "doc_id": "hellenic_tanker_charter_2021-10-27_2021_10_27_weekly_tanker_time_charter_estimates_october_27_2021",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, October 27 2021",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, October 27 2021"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, October 27 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn the crude market slightly more timecharter interest reported this week as the market showed some small signs of positivity. The main focus of interest has been in the suezmax sector with demand for all periods. The clean market continues to underperform although with owners rate ideas are more positive than charterers and therefore a gap that needs to be bridged between bid and offer.",
+  "keywords": [
+    "suezmax",
+    "interest",
+    "main",
+    "all",
+    "although",
+    "are",
+    "between",
+    "bid",
+    "bridged",
+    "charterers",
+    "clean",
+    "continues"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 108,
+  "source_path": "reports/hellenic/tanker_charter/2021/2021-10-27_weekly-tanker-time-charter-estimates-october-27-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-october-27-2021",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2021-10-27_2021_10_27_weekly_tanker_time_charter_estimates_october_27_2021__s01_main",
+      "doc_id": "hellenic_tanker_charter_2021-10-27_2021_10_27_weekly_tanker_time_charter_estimates_october_27_2021",
+      "parent_id": "hellenic_tanker_charter_2021-10-27_2021_10_27_weekly_tanker_time_charter_estimates_october_27_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the crude market slightly more timecharter interest reported this week as the market showed some small signs of positivity. The main focus of interest has been in the suezmax sector with demand for all periods.",
+      "keywords": [
+        "suezmax",
+        "interest",
+        "all",
+        "although",
+        "are",
+        "between",
+        "bid",
+        "bridged"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

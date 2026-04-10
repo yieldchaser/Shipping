@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: VLCC MEG - China\nThe freight rates for the MEG (Middle East Gulf) to China have decreased in May\nData Source: The Signal Ocean Platform- Supply / Demand Ton Charts https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2nymrj/320259852?h=h4z-JkOpuQ4cUrF-0OfQzFHPdhbyrNEH_2qh4Rfh39k https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nymrm/320259852?h=h4z-JkOpuQ4cUrF-0OfQzFHPdhbyrNEH_2qh4Rfh39k\nThe sustained decline in Very Large Crude Carrier (VLCC) freight rates from the Middle East Gulf (MEG) to China continues, despite expectations of increased Chinese oil demand this year, as projected by the latest estimates from the International Energy Agency (IEA). The sustained decrease in rates throughout May reflects the prevailing market conditions and suggests a notable shift in the supply and demand dynamics in this particular trade route.The left chart above illustrates this downward trend, with freight rates (WS rates) currently at their lowest level since the start of the year. Consequently, this has led to a reduction in high seagoing ballast speeds, as depicted in the right chart above, compared to the earlier recorded levels earlier thi",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "japan",
+    "crude_oil",
+    "trend",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1618,
+  "source_path": "reports/breakwave/2023/2023-05-19_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/19/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__s01_chart_of_the_week_vlcc_meg_china",
+      "doc_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__root",
+      "title": "Chart of the Week: VLCC MEG - China",
+      "section_path": [
+        "Chart of the Week: VLCC MEG - China"
+      ],
+      "section_path_text": "Chart of the Week: VLCC MEG - China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The freight rates for the MEG (Middle East Gulf) to China have decreased in May\nData Source: The Signal Ocean Platform- Supply / Demand Ton Charts https://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2nymrj/320259852?h=h4z-JkOpuQ4cUrF-0OfQzFHPdhbyrNEH_2qh4Rfh39k https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nymrm/320259852?h=h4z-JkOpuQ4cUrF-0OfQzFHPdhbyrNEH_2qh4Rfh39k\nThe sustained decline in Very Large Crude Carrier (VLCC) freight rates from the Middle East Gulf (MEG) to China continues, despite expectations of increased Chinese oil demand this year, as projected by the latest estimates from the International Energy Agency (IEA). The sustained decrease in rates throughout May reflects the prevailing market conditions and suggests a notable shift in the supply and demand dynamics in this particular trade route.The left chart above illustrates this downward trend, with freight rates (WS rates) currently at their lowest level since the start of the year.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "demand",
+        "supply",
+        "oil",
+        "above"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 425,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__s03_dirty_vlcc_weaker_suezmax_aframax_firmer",
+      "doc_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__root",
+      "title": "‘Dirty' VLCC - Weaker | Suezmax - Aframax - Firmer",
+      "section_path": [
+        "‘Dirty' VLCC - Weaker | Suezmax - Aframax - Firmer"
+      ],
+      "section_path_text": "‘Dirty' VLCC - Weaker | Suezmax - Aframax - Firmer",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Sentiment surrounding VLCC crude oil freight rates continues to weaken for the third consecutive week, while the Suezmax Wafr-Cont route has shown noticeable signs of firmness. VLCC AG-FE freight rates reached WS44, representing a modest increase of only 3 points compared to the previous week.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "compared",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 203,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__s04_product_lr_weaker",
+      "doc_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__root",
+      "title": "‘Product' LR Weaker",
+      "section_path": [
+        "‘Product' LR Weaker"
+      ],
+      "section_path_text": "‘Product' LR Weaker",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "LR2 AG freight rates have experienced a significant decline, dropping to approximately WS 120. This represents a substantial decrease of 40 points compared to rates observed two weeks ago.",
+      "keywords": [
+        "panamax",
+        "meg",
+        "japan",
+        "compared",
+        "decrease",
+        "observed",
+        "ago.",
+        "decline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__s06_clean_mr2_mr1_weaker",
+      "doc_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__root",
+      "title": "Clean' MR2 - MR1 - Weaker",
+      "section_path": [
+        "Clean' MR2 - MR1 - Weaker"
+      ],
+      "section_path_text": "Clean' MR2 - MR1 - Weaker",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "MR1 rates for shipments from Algeria to the Mediterranean decreased to WS145, which is 5 points lower compared to the previous week and nearly 50% lower than the rates in mid-April. Similarly, in the Baltic to Continent route, the MR1 rates experienced a more significant decline, dropping to approximately WS120, marking a 40% decrease compared to the levels observed in late April.",
+      "keywords": [
+        "europe",
+        "lower",
+        "april.",
+        "compared",
+        "continent",
+        "decline",
+        "late",
+        "levels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__s07_section_2_supply_vessels_dirty_supply_trend_lines_for_key_load_areas_vlcc_aframax_decreasing_suezmax_increasing",
+      "doc_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Decreasing | Suezmax - Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Decreasing | Suezmax - Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Decreasing | Suezmax - Increasing",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "In the third week of May, there was an upward trend observed in the supply of VLCC crude oil tankers, particularly in the Suezmax segment. However, there are indications of a downward correction following the escalation witnessed in the earlier days of the month.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "crude_oil",
+        "annual",
+        "vessels",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__s09_clean_supply_trend_lines_for_key_load_areas_mr1_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "section_path": [
+        "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Clean LR2 AG Jubail: The number of vessels has been on an upward trend, surpassing the annual average of 14. However, it is currently 4 vessels lower than the peak observed in week 14.",
+      "keywords": [
+        "vessels",
+        "clean",
+        "decrease",
+        "number",
+        "trend",
+        "ago.",
+        "algeria",
+        "annual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__s12_clean_panamax_mr_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-19_2023_05_19_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' | Panamax - MR - Decreasing",
+      "section_path": [
+        "‘ Clean ' | Panamax - MR - Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' | Panamax - MR - Decreasing",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Dirty demand ton-days: The demand for VLCCs has not exhibited any signs of improvement, persistently declining throughout the month of May. Conversely, the Aframax segments have experienced an upswing, rebounding after a significant decline in week 18.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "aframax",
+        "demand",
+        "clean",
+        "decline",
+        "observed",
+        "significant"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

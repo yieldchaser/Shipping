@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-11_2022_10_11_allied_weekly_market_report__root",
+  "doc_id": "breakwave_insights_insights_2022-10-11_2022_10_11_allied_weekly_market_report",
+  "parent_id": null,
+  "title": "Allied Weekly Market Report",
+  "section_path": [
+    "Allied Weekly Market Report"
+  ],
+  "section_path_text": "Allied Weekly Market Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Thomas Chasapis\nMarket sentiment is a finicky thing to accurately capture and quantify, yet it plays a strong role in directing the market and gives a basis for any and all excess noted in terms of market noise. The basic idea behind the below graph is to show the development, during the course of a year, of daily mid-closing levels of FFA contracts with swap period the next calendar year. In this particular case, we have taken FFA contracts with an underlying benchmark the Capesize 5TC figure.",
+  "keywords": [
+    "capesize",
+    "brazil",
+    "are",
+    "time",
+    "year",
+    "capture",
+    "contracts",
+    "course",
+    "how",
+    "noted",
+    "period",
+    "sentiment"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 569,
+  "source_path": "reports/breakwave/2022/2022-10-11_allied-weekly-market-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/11/allied-weekly-market-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-11_2022_10_11_allied_weekly_market_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-11_2022_10_11_allied_weekly_market_report",
+      "parent_id": "breakwave_insights_insights_2022-10-11_2022_10_11_allied_weekly_market_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Thomas Chasapis\nMarket sentiment is a finicky thing to accurately capture and quantify, yet it plays a strong role in directing the market and gives a basis for any and all excess noted in terms of market noise. The basic idea behind the below graph is to show the development, during the course of a year, of daily mid-closing levels of FFA contracts with swap period the next calendar year.",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "are",
+        "time",
+        "year",
+        "capture",
+        "contracts",
+        "course"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 567,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

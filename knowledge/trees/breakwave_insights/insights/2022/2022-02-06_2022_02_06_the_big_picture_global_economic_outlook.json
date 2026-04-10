@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook__root",
+  "doc_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook",
+  "parent_id": null,
+  "title": "The Big Picture Global Economic Outlook",
+  "section_path": [
+    "The Big Picture Global Economic Outlook"
+  ],
+  "section_path_text": "The Big Picture Global Economic Outlook",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Abhinav Gupta\nThe IMF recently published its latest World Economic Outlook with updated macroeconomic and global output growth projections. Since the Fund's last report in October, global economic growth forecasts have been marked down due to several headwinds among both developed and developing economies. Easing momentum\nSince the IMF's previous World Economic Outlook (WEO) in October 2021, the global economy seems to be in a more fragile state than previously expected.",
+  "keywords": [
+    "capesize",
+    "china",
+    "india",
+    "japan",
+    "growth",
+    "economy",
+    "grow",
+    "now",
+    "chinese",
+    "country",
+    "economic",
+    "expected"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 955,
+  "source_path": "reports/breakwave/2022/2022-02-06_the-big-picture-global-economic-outlook.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/6/the-big-picture-global-economic-outlook",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook",
+      "parent_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Abhinav Gupta\nThe IMF recently published its latest World Economic Outlook with updated macroeconomic and global output growth projections. Since the Fund's last report in October, global economic growth forecasts have been marked down due to several headwinds among both developed and developing economies.",
+      "keywords": [
+        "economic",
+        "global",
+        "growth",
+        "abhinav",
+        "among",
+        "both",
+        "developed",
+        "developing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook__s02_easing_momentum",
+      "doc_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook",
+      "parent_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook__root",
+      "title": "Easing momentum",
+      "section_path": [
+        "Easing momentum"
+      ],
+      "section_path_text": "Easing momentum",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Since the IMF's previous World Economic Outlook (WEO) in October 2021, the global economy seems to be in a more fragile state than previously expected. The global economy is now expected to have an annual growth rate of 4.4% in 2022, half a percentage point lower than the forecast prior in October, and sharply lower from the 5.9% growth realised in 2021.",
+      "keywords": [
+        "china",
+        "growth",
+        "lower",
+        "economic",
+        "economy",
+        "expected.",
+        "global",
+        "imf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook__s03_regional_review",
+      "doc_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook",
+      "parent_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook__root",
+      "title": "Regional review",
+      "section_path": [
+        "Regional review"
+      ],
+      "section_path_text": "Regional review",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "There have been some significant adjustments on a regional level. Among the developed economies, the world's largest economy, the US, is now projected to grow by 4.0% in 2022, down from 5.2% projected in the IMF's October outlook.",
+      "keywords": [
+        "china",
+        "india",
+        "japan",
+        "economy",
+        "grow",
+        "growth",
+        "now",
+        "correction"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 350,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook__s04_china_landscape",
+      "doc_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook",
+      "parent_id": "breakwave_insights_insights_2022-02-06_2022_02_06_the_big_picture_global_economic_outlook__root",
+      "title": "China landscape",
+      "section_path": [
+        "China landscape"
+      ],
+      "section_path_text": "China landscape",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "China accounted for about 44% of all bulk carrier demand in 2021 (in dwt days). The next four large importers - Japan, India, Korea, and the US - accounted for a combined 20% of demand last year.",
+      "keywords": [
+        "china",
+        "india",
+        "japan",
+        "demand",
+        "chinese",
+        "country",
+        "growth",
+        "accounted"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 351,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

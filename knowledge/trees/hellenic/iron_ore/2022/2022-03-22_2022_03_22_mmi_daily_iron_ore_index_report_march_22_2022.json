@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-03-22_2022_03_22_mmi_daily_iron_ore_index_report_march_22_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-03-22_2022_03_22_mmi_daily_iron_ore_index_report_march_22_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report March 22 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report March 22 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report March 22 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 22/03/2022\nDCE iron ore futures market falling trends，an decrease of 3.62% throughout the day; the main contract closed 799. The spot quotation inthe morning almost kept steady. but as the disk continues to decline, some traders decreased the price.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "tons",
+    "million",
+    "period",
+    "ore",
+    "yuan/mt",
+    "decreased",
+    "increased"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 420,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-03-22_mmi-daily-iron-ore-index-report-march-22-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-march-22-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-03-22_2022_03_22_mmi_daily_iron_ore_index_report_march_22_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-03-22_2022_03_22_mmi_daily_iron_ore_index_report_march_22_2022",
+      "parent_id": "hellenic_iron_ore_2022-03-22_2022_03_22_mmi_daily_iron_ore_index_report_march_22_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 22/03/2022\nDCE iron ore futures market falling trends，an decrease of 3.62% throughout the day; the main contract closed 799. The spot quotation inthe morning almost kept steady.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "tons",
+        "million",
+        "period"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 418,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

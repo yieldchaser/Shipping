@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-17_2022_06_17_small_reduction_in_global_grain_trade_forecast__root",
+  "doc_id": "breakwave_insights_insights_2022-06-17_2022_06_17_small_reduction_in_global_grain_trade_forecast",
+  "parent_id": null,
+  "title": "Small Reduction In Global Grain Trade Forecast",
+  "section_path": [
+    "Small Reduction In Global Grain Trade Forecast"
+  ],
+  "section_path_text": "Small Reduction In Global Grain Trade Forecast",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nThe United States Department of Agriculture (USDA) recently released their second global grain export forecast for the upcoming 2022/23 season. The forecast is still very preliminary, but of note is that only 486.3 million tons of exports are expected. This is 1 million tons less than was forecast a month ago and would mark a year-on-year decline of 11.9 million tons (-2%) from the 498.2 million tons that is now expected for the current 2021/22 season.",
+  "keywords": [
+    "grain",
+    "tons",
+    "million",
+    "are",
+    "exports",
+    "forecast",
+    "expected",
+    "ago",
+    "global",
+    "mark",
+    "month",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 382,
+  "source_path": "reports/breakwave/2022/2022-06-17_small-reduction-in-global-grain-trade-forecast.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/17/small-reduction-in-global-grain-trade-forecast",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-17_2022_06_17_small_reduction_in_global_grain_trade_forecast__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-17_2022_06_17_small_reduction_in_global_grain_trade_forecast",
+      "parent_id": "breakwave_insights_insights_2022-06-17_2022_06_17_small_reduction_in_global_grain_trade_forecast__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nThe United States Department of Agriculture (USDA) recently released their second global grain export forecast for the upcoming 2022/23 season. The forecast is still very preliminary, but of note is that only 486.3 million tons of exports are expected.",
+      "keywords": [
+        "grain",
+        "tons",
+        "million",
+        "are",
+        "exports",
+        "forecast",
+        "expected",
+        "ago"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 380,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-08-24_2022_08_24_mmi_daily_iron_ore_index_report_august_24_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-08-24_2022_08_24_mmi_daily_iron_ore_index_report_august_24_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 24 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 24 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 24 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 24/08/2022\nDCE iron ore was was shocked and keep upward all the day.The main contract closed at 716,increased of 2.65 %. Steel mills are more mainly on the sidelines, and market turnover continues to pick up.PBF at Shandong port dealt 750-755 uan/mt,increase 5yuan/mt than yesterday. PBF at Tangshan dealt 755-760 yuan/mt,keep stable compare with yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "are",
+    "dealt",
+    "demand",
+    "keep",
+    "main",
+    "plant",
+    "port"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 265,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-08-24_mmi-daily-iron-ore-index-report-august-24-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-24-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-08-24_2022_08_24_mmi_daily_iron_ore_index_report_august_24_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-08-24_2022_08_24_mmi_daily_iron_ore_index_report_august_24_2022",
+      "parent_id": "hellenic_iron_ore_2022-08-24_2022_08_24_mmi_daily_iron_ore_index_report_august_24_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 24/08/2022\nDCE iron ore was was shocked and keep upward all the day.The main contract closed at 716,increased of 2.65 %. Steel mills are more mainly on the sidelines, and market turnover continues to pick up.PBF at Shandong port dealt 750-755 uan/mt,increase 5yuan/mt than yesterday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "are",
+        "dealt",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 263,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

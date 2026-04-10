@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-09-09_2022_09_09_mmi_daily_iron_ore_index_report_september_09_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-09-09_2022_09_09_mmi_daily_iron_ore_index_report_september_09_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 09 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 09 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 09 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 09/09/2022\nDCE iron ore futures rose largely by 3.74% today, the main contract closed 720.5. some traders were active to sell, Some steel mills tended tobe wait-and-see, and purchasing enthusiasm is not high. total transactions remained insipid.PBF at Shandong port dealt 755 yuan/mt; increased 5 yuan/mt over yesterday.SSF at Shandong port dealt 645 yuan/mt over yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "products",
+    "steel",
+    "yuan/mt",
+    "port",
+    "tons",
+    "increased",
+    "million",
+    "dealt",
+    "demand",
+    "increase"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 360,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-09-09_mmi-daily-iron-ore-index-report-september-09-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-09-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-09-09_2022_09_09_mmi_daily_iron_ore_index_report_september_09_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-09-09_2022_09_09_mmi_daily_iron_ore_index_report_september_09_2022",
+      "parent_id": "hellenic_iron_ore_2022-09-09_2022_09_09_mmi_daily_iron_ore_index_report_september_09_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 09/09/2022\nDCE iron ore futures rose largely by 3.74% today, the main contract closed 720.5. some traders were active to sell, Some steel mills tended tobe wait-and-see, and purchasing enthusiasm is not high.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "products",
+        "steel",
+        "yuan/mt",
+        "port",
+        "tons",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 358,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

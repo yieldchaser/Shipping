@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-09-07_2021_09_08_capesize_forecasts_chinas_wrath_guinea_pigs_and_the_brazilia__root",
+  "doc_id": "breakwave_insights_insights_2021-09-07_2021_09_08_capesize_forecasts_chinas_wrath_guinea_pigs_and_the_brazilia",
+  "parent_id": null,
+  "title": "Capesize Forecasts Chinas Wrath Guinea Pigs And The Brazilian Comrades",
+  "section_path": [
+    "Capesize Forecasts Chinas Wrath Guinea Pigs And The Brazilian Comrades"
+  ],
+  "section_path_text": "Capesize Forecasts Chinas Wrath Guinea Pigs And The Brazilian Comrades",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n\"Be careful what you wish for\"… Such an expression describes particularly well the humility that one has to possess when making forecasts for the shipping markets. Supply and demand projections and the resulting balance are the easiest way for analysts to promote their own narrative in a convincing way but the hard truth is that shipping is much more complicated and virtually impossible to model using such simplistic econometric equations. In an ever-changing geopolitical map, shipping plays the role of connecting economies through mutual trade, and thus remains highly sensitive to global events that affect and transform such economic relationships, in the process throwing out of balance any analyst's supply and demand forecast.",
+  "keywords": [
+    "capesize",
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "bauxite",
+    "crude_oil",
+    "steel",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1564,
+  "source_path": "reports/breakwave/2021/2021-09-08_capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilia.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/9/7/capesize-forecasts-chinas-wrath-guinea-pigs-and-the-brazilian-comrades",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-09-07_2021_09_08_capesize_forecasts_chinas_wrath_guinea_pigs_and_the_brazilia__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-09-07_2021_09_08_capesize_forecasts_chinas_wrath_guinea_pigs_and_the_brazilia",
+      "parent_id": "breakwave_insights_insights_2021-09-07_2021_09_08_capesize_forecasts_chinas_wrath_guinea_pigs_and_the_brazilia__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "\"Be careful what you wish for\"… Such an expression describes particularly well the humility that one has to possess when making forecasts for the shipping markets. Supply and demand projections and the resulting balance are the easiest way for analysts to promote their own narrative in a convincing way but the hard truth is that shipping is much more complicated and virtually impossible to model using such simplistic econometric equations.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1562,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

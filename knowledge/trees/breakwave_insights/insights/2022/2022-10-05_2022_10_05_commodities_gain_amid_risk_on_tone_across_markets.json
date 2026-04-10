@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-05_2022_10_05_commodities_gain_amid_risk_on_tone_across_markets__root",
+  "doc_id": "breakwave_insights_insights_2022-10-05_2022_10_05_commodities_gain_amid_risk_on_tone_across_markets",
+  "parent_id": null,
+  "title": "Commodities Gain Amid Risk On Tone Across Markets",
+  "section_path": [
+    "Commodities Gain Amid Risk On Tone Across Markets"
+  ],
+  "section_path_text": "Commodities Gain Amid Risk On Tone Across Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nCommodities rallied as concerns over further tightening eased. This was compounded by a rally in energy amid ongoing supply side issues. Crude oil prices surged higher amid speculation that OPEC is considering an even larger cut to production than first thought.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "crude_oil",
+    "gas",
+    "are",
+    "amid",
+    "would",
+    "commodities",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 707,
+  "source_path": "reports/breakwave/2022/2022-10-05_commodities-gain-amid-risk-on-tone-across-markets.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/5/commodities-gain-amid-risk-on-tone-across-markets",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-05_2022_10_05_commodities_gain_amid_risk_on_tone_across_markets__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-05_2022_10_05_commodities_gain_amid_risk_on_tone_across_markets",
+      "parent_id": "breakwave_insights_insights_2022-10-05_2022_10_05_commodities_gain_amid_risk_on_tone_across_markets__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nCommodities rallied as concerns over further tightening eased. This was compounded by a rally in energy amid ongoing supply side issues.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "crude_oil",
+        "gas",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 705,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

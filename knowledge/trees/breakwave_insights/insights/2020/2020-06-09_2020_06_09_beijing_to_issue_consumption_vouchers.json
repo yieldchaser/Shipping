@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-09_2020_06_09_beijing_to_issue_consumption_vouchers__root",
+  "doc_id": "breakwave_insights_insights_2020-06-09_2020_06_09_beijing_to_issue_consumption_vouchers",
+  "parent_id": null,
+  "title": "Beijing To Issue Consumption Vouchers",
+  "section_path": [
+    "Beijing To Issue Consumption Vouchers"
+  ],
+  "section_path_text": "Beijing To Issue Consumption Vouchers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Beijing municipality government last week announced that it will be issuing 12.2 billion yuan ($1.7 billion) in consumption vouchers beginning on Saturday. The vouchers can be used in person or online in various sectors including shopping, tourism, education, and sports. Similar vouchers were also issued by other cities in recent months as China's central government remains focused on stimulating both the industrial and consumer sectors.",
+  "keywords": [
+    "china",
+    "vouchers",
+    "beijing",
+    "billion",
+    "cities",
+    "consumer",
+    "government",
+    "industrial",
+    "months",
+    "recent",
+    "remains",
+    "sector"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 156,
+  "source_path": "reports/breakwave/2020/2020-06-09_beijing-to-issue-consumption-vouchers.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/9/beijing-to-issue-consumption-vouchers",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-09_2020_06_09_beijing_to_issue_consumption_vouchers__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-09_2020_06_09_beijing_to_issue_consumption_vouchers",
+      "parent_id": "breakwave_insights_insights_2020-06-09_2020_06_09_beijing_to_issue_consumption_vouchers__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Beijing municipality government last week announced that it will be issuing 12.2 billion yuan ($1.7 billion) in consumption vouchers beginning on Saturday. The vouchers can be used in person or online in various sectors including shopping, tourism, education, and sports.",
+      "keywords": [
+        "china",
+        "vouchers",
+        "beijing",
+        "billion",
+        "cities",
+        "consumer",
+        "government",
+        "industrial"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-22_2023_03_22_is_the_vlcc_freight_rate_rebound_here_to_stay__root",
+  "doc_id": "breakwave_insights_insights_2023-03-22_2023_03_22_is_the_vlcc_freight_rate_rebound_here_to_stay",
+  "parent_id": null,
+  "title": "Is The Vlcc Freight Rate Rebound Here To Stay",
+  "section_path": [
+    "Is The Vlcc Freight Rate Rebound Here To Stay"
+  ],
+  "section_path_text": "Is The Vlcc Freight Rate Rebound Here To Stay",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nOn the back of the recent VLCC rally, Vortexa summarises the key reasons led to this uptick in rates, and provides an outlook on how the fundamentals will unfold for the remainder of 2023. By Ioannis Papadimitriou\nVLCC rates have performed another comeback in recent days across routes. Main trade mark routes of Middle East-to-East Asia ( TD3C ), West Africa-to-East Asia ( TD15 ) and US Gulf-to-East Asia ( TD22 ) have recorded m-o-m increase in the range of 30-45%.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "not",
+    "demand",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 677,
+  "source_path": "reports/breakwave/2023/2023-03-22_is-the-vlcc-freight-rate-rebound-here-to-stay.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/22/is-the-vlcc-freight-rate-rebound-here-to-stay",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-22_2023_03_22_is_the_vlcc_freight_rate_rebound_here_to_stay__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-22_2023_03_22_is_the_vlcc_freight_rate_rebound_here_to_stay",
+      "parent_id": "breakwave_insights_insights_2023-03-22_2023_03_22_is_the_vlcc_freight_rate_rebound_here_to_stay__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "On the back of the recent VLCC rally, Vortexa summarises the key reasons led to this uptick in rates, and provides an outlook on how the fundamentals will unfold for the remainder of 2023. By Ioannis Papadimitriou\nVLCC rates have performed another comeback in recent days across routes.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 675,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-02_2022_11_02_commodities_rally_amid_speculation_china_will_ease_covid_19__root",
+  "doc_id": "breakwave_insights_insights_2022-11-02_2022_11_02_commodities_rally_amid_speculation_china_will_ease_covid_19",
+  "parent_id": null,
+  "title": "Commodities Rally Amid Speculation China Will Ease Covid 19 Policy",
+  "section_path": [
+    "Commodities Rally Amid Speculation China Will Ease Covid 19 Policy"
+  ],
+  "section_path_text": "Commodities Rally Amid Speculation China Will Ease Covid 19 Policy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nCommodities rallied on reports that China will ease COVID-19 restrictions. Speculation of a less hawkish Federal Reserve also boosted sentiment. Copper led the base metals sector higher on speculation that Beijing is preparing to ease China's stringent COVID-19 rules.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "are",
+    "covid-19",
+    "demand."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 710,
+  "source_path": "reports/breakwave/2022/2022-11-02_commodities-rally-amid-speculation-china-will-ease-covid-19.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/2/commodities-rally-amid-speculation-china-will-ease-covid-19-policy",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-02_2022_11_02_commodities_rally_amid_speculation_china_will_ease_covid_19__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-02_2022_11_02_commodities_rally_amid_speculation_china_will_ease_covid_19",
+      "parent_id": "breakwave_insights_insights_2022-11-02_2022_11_02_commodities_rally_amid_speculation_china_will_ease_covid_19__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nCommodities rallied on reports that China will ease COVID-19 restrictions. Speculation of a less hawkish Federal Reserve also boosted sentiment.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 708,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

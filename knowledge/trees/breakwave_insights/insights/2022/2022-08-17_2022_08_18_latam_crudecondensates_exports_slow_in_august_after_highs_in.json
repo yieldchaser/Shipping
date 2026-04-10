@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-17_2022_08_18_latam_crudecondensates_exports_slow_in_august_after_highs_in__root",
+  "doc_id": "breakwave_insights_insights_2022-08-17_2022_08_18_latam_crudecondensates_exports_slow_in_august_after_highs_in",
+  "parent_id": null,
+  "title": "Latam Crudecondensates Exports Slow In August After Highs In July",
+  "section_path": [
+    "Latam Crudecondensates Exports Slow In August After Highs In July"
+  ],
+  "section_path_text": "Latam Crudecondensates Exports Slow In August After Highs In July",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Rohit Rathod\nLatAm crude/condensates exports (excluding Venezuela) for the first half of August came in at 3.1mbd - a sharp decline from the multiyear high seen in July. Lower Brazilian exports are responsible for the majority of this decline (see chart below), while exports from Mexico and Colombia also fell to a smaller extent. Guyana and Argentina have been the only LatAm nations with growing exports so far in August.",
+  "keywords": [
+    "brazil",
+    "europe",
+    "india",
+    "exports",
+    "august",
+    "mbd",
+    "latam",
+    "crude",
+    "crude/condensates",
+    "kbd",
+    "are",
+    "july"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 566,
+  "source_path": "reports/breakwave/2022/2022-08-18_latam-crudecondensates-exports-slow-in-august-after-highs-in.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/17/latam-crudecondensates-exports-slow-in-august-after-highs-in-july",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-17_2022_08_18_latam_crudecondensates_exports_slow_in_august_after_highs_in__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-08-17_2022_08_18_latam_crudecondensates_exports_slow_in_august_after_highs_in",
+      "parent_id": "breakwave_insights_insights_2022-08-17_2022_08_18_latam_crudecondensates_exports_slow_in_august_after_highs_in__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Rohit Rathod\nLatAm crude/condensates exports (excluding Venezuela) for the first half of August came in at 3.1mbd - a sharp decline from the multiyear high seen in July. Lower Brazilian exports are responsible for the majority of this decline (see chart below), while exports from Mexico and Colombia also fell to a smaller extent.",
+      "keywords": [
+        "brazil",
+        "europe",
+        "india",
+        "exports",
+        "august",
+        "mbd",
+        "latam",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 564,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

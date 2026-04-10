@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions\nCustoms data show that Chinese iron ore imports rose 1% in July compared to last year, as steelmakers' profit margins improve demand concerns. The world's largest iron ore consumer imported 91.24 million tonnes last month, up from 88.51 million tonnes in July 2021, according to the General Administration of Customs. Imports also rose 2.6% in July compared to June.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1161,
+  "source_path": "reports/breakwave/2022/2022-08-10_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/10/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__s01_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Customs data show that Chinese iron ore imports rose 1% in July compared to last year, as steelmakers' profit margins improve demand concerns. The world's largest iron ore consumer imported 91.24 million tonnes last month, up from 88.51 million tonnes in July 2021, according to the General Administration of Customs.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "steel",
+        "million",
+        "tonnes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 469,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nWeaker freight rate sentiment persisted across all ship size categories in the second week of August. Capesize freight rates from Brazil to North China fell to $22/tonne, down $10/tonne from the week 29 peak.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__s04_number_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__root",
+      "title": "Number of Vessels - Increasing",
+      "section_path": [
+        "Number of Vessels - Increasing"
+      ],
+      "section_path_text": "Number of Vessels - Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of Capesize vessels sailing ballast continued to increase significantly in August, while the number of Handysize and Supramax vessels increased at a similar rate. Panamax appears to be the only size class in which the number of ships sailing in ballast approaches the annual average.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "increase",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 167,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__s06_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__root",
+      "title": "Decreasing",
+      "section_path": [
+        "Decreasing"
+      ],
+      "section_path_text": "Decreasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The downward trend in the Capesize segment continued in the second week of August, while Panamax and Supramax have been trending upward since late July. Capesize demand ton-days: The percentage increase remains at the lowest level since the end of week 6.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "trend",
+        "downward"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__s08_number_of_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-08-10_2022_08_10_signal_dry_bulk_weekly_report__root",
+      "title": "Number of Vessels - Decreasing",
+      "section_path": [
+        "Number of Vessels - Decreasing"
+      ],
+      "section_path_text": "Number of Vessels - Decreasing",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Dry bulk ships congested at Chinese ports\nThe number of congested vessels continued the upward trend of the previous week, with Supramax and Handysize vessels showing significantly higher congestion levels than other vessel categories. Capesize: The number of congested ships remained constant at 103, as in the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "congested",
+        "number",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

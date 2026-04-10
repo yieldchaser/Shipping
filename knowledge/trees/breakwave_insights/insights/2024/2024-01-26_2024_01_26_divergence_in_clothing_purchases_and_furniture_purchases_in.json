@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-26_2024_01_26_divergence_in_clothing_purchases_and_furniture_purchases_in__root",
+  "doc_id": "breakwave_insights_insights_2024-01-26_2024_01_26_divergence_in_clothing_purchases_and_furniture_purchases_in",
+  "parent_id": null,
+  "title": "Divergence In Clothing Purchases And Furniture Purchases In China",
+  "section_path": [
+    "Divergence In Clothing Purchases And Furniture Purchases In China"
+  ],
+  "section_path_text": "Divergence In Clothing Purchases And Furniture Purchases In China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina's retail sales in December grew year-on-year by 7.4%. This is down from November's recent peak but is still a healthy level. Taking December's 0.3% contraction into account, retail sales adjusted for inflation grew year-on-year by 7.7%.",
+  "keywords": [
+    "china",
+    "europe",
+    "sales",
+    "last",
+    "year-on-year",
+    "retail",
+    "basis",
+    "months.",
+    "clothing",
+    "consumers",
+    "during",
+    "furniture"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 339,
+  "source_path": "reports/breakwave/2024/2024-01-26_divergence-in-clothing-purchases-and-furniture-purchases-in.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/26/divergence-in-clothing-purchases-and-furniture-purchases-in-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-26_2024_01_26_divergence_in_clothing_purchases_and_furniture_purchases_in__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-26_2024_01_26_divergence_in_clothing_purchases_and_furniture_purchases_in",
+      "parent_id": "breakwave_insights_insights_2024-01-26_2024_01_26_divergence_in_clothing_purchases_and_furniture_purchases_in__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina's retail sales in December grew year-on-year by 7.4%. This is down from November's recent peak but is still a healthy level.",
+      "keywords": [
+        "china",
+        "europe",
+        "sales",
+        "last",
+        "year-on-year",
+        "retail",
+        "basis",
+        "months."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 337,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

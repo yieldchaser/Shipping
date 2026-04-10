@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-12-21_2020_12_21_commodities_regaining_popularity_among_investors__root",
+  "doc_id": "breakwave_insights_insights_2020-12-21_2020_12_21_commodities_regaining_popularity_among_investors",
+  "parent_id": null,
+  "title": "Commodities Regaining Popularity Among Investors",
+  "section_path": [
+    "Commodities Regaining Popularity Among Investors"
+  ],
+  "section_path_text": "Commodities Regaining Popularity Among Investors",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAs cyclical assets come, commodities are to be found somewhere around the top of the list. Typically, the asset prices and investor interest fluctuate with the fortunes of the global economy. The first decade of the millennium saw commodity prices soaring as the Chinese economy became more and more integral to the global supply chains.",
+  "keywords": [
+    "china",
+    "brazil",
+    "iron_ore",
+    "crude_oil",
+    "commodities",
+    "prices",
+    "are",
+    "recovery",
+    "asset",
+    "demand",
+    "iron",
+    "ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 842,
+  "source_path": "reports/breakwave/2020/2020-12-21_commodities-regaining-popularity-among-investors.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/12/21/commodities-regaining-popularity-among-investors",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-12-21_2020_12_21_commodities_regaining_popularity_among_investors__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-12-21_2020_12_21_commodities_regaining_popularity_among_investors",
+      "parent_id": "breakwave_insights_insights_2020-12-21_2020_12_21_commodities_regaining_popularity_among_investors__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAs cyclical assets come, commodities are to be found somewhere around the top of the list. Typically, the asset prices and investor interest fluctuate with the fortunes of the global economy.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "crude_oil",
+        "commodities",
+        "prices",
+        "are",
+        "recovery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 840,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

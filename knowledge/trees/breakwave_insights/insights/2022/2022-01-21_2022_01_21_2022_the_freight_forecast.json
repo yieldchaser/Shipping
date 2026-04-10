@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__root",
+  "doc_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast",
+  "parent_id": null,
+  "title": "2022 The Freight Forecast",
+  "section_path": [
+    "2022 The Freight Forecast"
+  ],
+  "section_path_text": "2022 The Freight Forecast",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Arthur Richier\nIn last year's freight forecast we described 2020 as one of the most volatile years on record. 2021 saw a more tepid year, with freight rates overall languishing at their lowest levels in years. Whilst oil demand continued to recover, helped by a global vaccination drive and re-opening economies, this has not been sufficient to jumpstart a morose tanker market.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3142,
+  "source_path": "reports/breakwave/2022/2022-01-21_2022-the-freight-forecast.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/1/21/2022-the-freight-forecast",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast",
+      "parent_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Arthur Richier\nIn last year's freight forecast we described 2020 as one of the most volatile years on record. 2021 saw a more tepid year, with freight rates overall languishing at their lowest levels in years.",
+      "keywords": [
+        "crude_oil",
+        "year",
+        "helped",
+        "demand",
+        "levels",
+        "markets",
+        "opec",
+        "recovery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 263,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__s02_2021_a_year_to_forget_for_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast",
+      "parent_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__root",
+      "title": "2021: A Year to Forget for Freight Markets",
+      "section_path": [
+        "2021: A Year to Forget for Freight Markets"
+      ],
+      "section_path_text": "2021: A Year to Forget for Freight Markets",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "It is not an understatement to say that freight market participants were fairly optimistic that they had seen the worst of pandemic-related impacts in 2020 and that 2021 would bring about a strong recovery across tanker markets. It was uneven to say the least.",
+      "keywords": [
+        "atlantic",
+        "west_africa",
+        "crude_oil",
+        "crude",
+        "demand",
+        "prices",
+        "recovery",
+        "uneven"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 303,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__s03_a_positive_momentum_for_freight_rates",
+      "doc_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast",
+      "parent_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__root",
+      "title": "A Positive Momentum for Freight Rates",
+      "section_path": [
+        "A Positive Momentum for Freight Rates"
+      ],
+      "section_path_text": "A Positive Momentum for Freight Rates",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "2021 averages across major vessel classes benchmark routes\nThroughout 2021, freight rates remained weak. One could easily think it was only a weakness compared to exceptional earnings during the first half of 2020, as well as the second half of 2019.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "classes",
+        "demand",
+        "very",
+        "above",
+        "average",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 331,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__s04_demand_is_there_enough_fuel_for_recovery_left_in_the_crude_market",
+      "doc_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast",
+      "parent_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__root",
+      "title": "Demand: Is there enough fuel for recovery left in the crude market?",
+      "section_path": [
+        "Demand: Is there enough fuel for recovery left in the crude market?"
+      ],
+      "section_path_text": "Demand: Is there enough fuel for recovery left in the crude market?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2019 average by vessel class\nWithout a doubt crude/dirty tanker segments have been hit the hardest in 2021. To see how much hope there is for 2021, we will tackle the outlook in four steps:\nWhat is the outlook for the underlying oil consumption?",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1102,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__s05_demand_refined_products_demand_kept_clean_tankers_afloat",
+      "doc_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast",
+      "parent_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__root",
+      "title": "Demand: Refined products demand kept clean tankers afloat",
+      "section_path": [
+        "Demand: Refined products demand kept clean tankers afloat"
+      ],
+      "section_path_text": "Demand: Refined products demand kept clean tankers afloat",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "2019 average by vessel class\nClean tanker segments have fared better throughout 2021 than their dirty counterparts. Through the lens of Vortexa's freight data, we can see that CPP tanker tonne-miles were above their 2019 levels for both vessel classes by March 2021 and remained that way, seeing strong support in Q2 and Q3 specifically.",
+      "keywords": [
+        "australia",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "clean",
+        "cpp"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 509,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__s06_supply_overcapacity_will_keep_a_lid_on_rates_in_2022",
+      "doc_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast",
+      "parent_id": "breakwave_insights_insights_2022-01-21_2022_01_21_2022_the_freight_forecast__root",
+      "title": "Supply: Overcapacity will keep a lid on rates in 2022",
+      "section_path": [
+        "Supply: Overcapacity will keep a lid on rates in 2022"
+      ],
+      "section_path_text": "Supply: Overcapacity will keep a lid on rates in 2022",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Net fleet additions by class vs. average fleet speed\nWhen it comes to fleet supply, 2021 saw a net addition of 109 vessels across the 5 main tanker classes in focus, equivalent to approximately 3% of total fleet growth.",
+      "keywords": [
+        "suezmax",
+        "container",
+        "brazil",
+        "steel",
+        "fleet",
+        "are",
+        "expected",
+        "net"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 572,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

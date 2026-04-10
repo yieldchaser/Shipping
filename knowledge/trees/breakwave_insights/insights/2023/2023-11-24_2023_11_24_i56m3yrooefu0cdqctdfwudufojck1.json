@@ -1,0 +1,286 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__root",
+  "doc_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1",
+  "parent_id": null,
+  "title": "I56M3Yrooefu0Cdqctdfwudufojck1",
+  "section_path": [
+    "I56M3Yrooefu0Cdqctdfwudufojck1"
+  ],
+  "section_path_text": "I56M3Yrooefu0Cdqctdfwudufojck1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Saudi Arabian crude oil flows\nDaily 25d moving average at a higher volume pace with VLCC tankers amid production cuts\nIn the last week of November, the crude oil freight market showed continued weakness in sentiment, although earlier expectations pointed to a recovery in the very large crude carrier (VLCC) segment. At present, the market appears to be struggling to find a balance between the availability of ships and the still erratic growth in demand. With the ongoing winter season in December, there is optimism that momentum will pick up and concerns about tight supply have gradually eased.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "around",
+    "previous",
+    "last"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1139,
+  "source_path": "reports/breakwave/2023/2023-11-24_i56m3yrooefu0cdqctdfwudufojck1.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/24/i56m3yrooefu0cdqctdfwudufojck1",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__s01_chart_of_the_week_saudi_arabian_crude_oil_flows",
+      "doc_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1",
+      "parent_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__root",
+      "title": "Chart of the Week: Saudi Arabian crude oil flows",
+      "section_path": [
+        "Chart of the Week: Saudi Arabian crude oil flows"
+      ],
+      "section_path_text": "Chart of the Week: Saudi Arabian crude oil flows",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Daily 25d moving average at a higher volume pace with VLCC tankers amid production cuts\nIn the last week of November, the crude oil freight market showed continued weakness in sentiment, although earlier expectations pointed to a recovery in the very large crude carrier (VLCC) segment. At present, the market appears to be struggling to find a balance between the availability of ships and the still erratic growth in demand.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "crude",
+        "average",
+        "day",
+        "gradually",
+        "increased",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 222,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1",
+      "parent_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Market Rates (WS)\n‘Dirty' WS - Weaker VLCC - Suezmax - Aframax\nCrude oil freight rates maintained the decline of previous weeks, while weak signs for a brief recovery in the VLCC segment envisaged last week have not been confirmed at the end of the month. VLCC MEG-China freight rates dropped to 65 WS, down 10% from the previous week, but 25% higher than a similar week a year ago.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__s03_product_ws_lr2_steady",
+      "doc_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1",
+      "parent_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__root",
+      "title": "‘Product' WS LR2 Steady",
+      "section_path": [
+        "‘Product' WS LR2 Steady"
+      ],
+      "section_path_text": "‘Product' WS LR2 Steady",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "LR2 AG freight rates continued a similar dynamic to the previous week and stood at around 128 WS, which is 27% weaker than a month ago.",
+      "keywords": [
+        "ago.",
+        "around",
+        "continued",
+        "dynamic",
+        "lr2",
+        "month",
+        "previous",
+        "similar"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__s04_panamax_steady",
+      "doc_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1",
+      "parent_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__root",
+      "title": "Panamax Steady",
+      "section_path": [
+        "Panamax Steady"
+      ],
+      "section_path_text": "Panamax Steady",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Panamax Carib-to-USG rates held a steady sentiment for two consecutive weeks at around 230WS, 15% higher than a month ago.",
+      "keywords": [
+        "panamax",
+        "ago.",
+        "around",
+        "carib-to-usg",
+        "consecutive",
+        "held",
+        "higher",
+        "month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__s05_clean_mr_mixed",
+      "doc_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1",
+      "parent_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__root",
+      "title": "‘Clean' MR Mixed",
+      "section_path": [
+        "‘Clean' MR Mixed"
+      ],
+      "section_path_text": "‘Clean' MR Mixed",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "MR1 rates for the Baltic continent begun to show a firmer momentum at levels around 190 WS, a 60% decrease compared to a similar week a year ago. MR2 rates for shipments from the continent to the U.S.",
+      "keywords": [
+        "europe",
+        "continent",
+        "ago.",
+        "annualised",
+        "around",
+        "basis.",
+        "begun",
+        "compared"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__s06_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1",
+      "parent_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "'Dirty' (#vessels) - Decreasing\nThe last week of November brings signs of a downward correction, however, recent activity still paints a heavy picture in the Suezmax Wafr. VLCC Ras Tanura: The number of ships fell close to the annual average of 60, which is 8 fewer than in the previous week, whereas two weeks ago activity of around 70 was indicated.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "number",
+        "ships",
+        "around",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 202,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__s08_mr1_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1",
+      "parent_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__root",
+      "title": "MR1 (#vessels) - Decreasing",
+      "section_path": [
+        "MR1 (#vessels) - Decreasing"
+      ],
+      "section_path_text": "MR1 (#vessels) - Decreasing",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Clean LR2 AG Jubail: The latest figure held decreasing activity of the previous week at around 13 ships after peaking at 18 two weeks ago, with the upward trend above the annual average over the last four weeks. Clean MR1 Algeria Skikda: There has been a downward trend since the end of week 34, which seems to be pulling the sentiment on the freight market upwards.",
+      "keywords": [
+        "above",
+        "annual",
+        "clean",
+        "trend",
+        "activity",
+        "after",
+        "ago",
+        "algeria"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__s10_dirty_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1",
+      "parent_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__root",
+      "title": "‘Dirty' Decreasing",
+      "section_path": [
+        "‘Dirty' Decreasing"
+      ],
+      "section_path_text": "‘Dirty' Decreasing",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Dirty tonne days: The last week of November brought a gradual upward trend in the VLCC tonne days growth, while uncertainty persists with significantly lower levels than four weeks ago. In the meantime, growth rates in the Suezmax segment have weakened, which is reflected in the downward trend in freight rates, and in the Aframax segment the sudden decline has not yet been reflected in market prices.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "days",
+        "growth",
+        "reflected",
+        "segment",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 80,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__s11_clean_mixed",
+      "doc_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1",
+      "parent_id": "breakwave_insights_insights_2023-11-24_2023_11_24_i56m3yrooefu0cdqctdfwudufojck1__root",
+      "title": "‘Clean' Mixed",
+      "section_path": [
+        "‘Clean' Mixed"
+      ],
+      "section_path_text": "‘Clean' Mixed",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Panamax tonne days: During the fourth week of November, there was a modest upturn, marking the first positive movement since the conclusion of week 43. The current growth rate aligns closely with the figures observed in week 29.",
+      "keywords": [
+        "panamax",
+        "days",
+        "growth",
+        "recent",
+        "tonne",
+        "aligns",
+        "appears",
+        "clean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 97,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

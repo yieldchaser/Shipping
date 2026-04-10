@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-09-29_2021_09_29_weekly_dry_time_charter_estimates_september_29_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-09-29_2021_09_29_weekly_dry_time_charter_estimates_september_29_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, September 29 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, September 29 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, September 29 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe capesize market has continued to surge with the BCI hitting the highest levels since 2008 due to rocketing coal demand, port congestion in China and high iron ore exports. The period market has also been strong with rates for one-year up to an average of $32,000/pdpr. Boosted by the buoyant cape market, rates in the kamsarmax/panamax sector have moved up with plenty of period interest reported, thanks to demand in Southeast Asia.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "atlantic",
+    "pacific",
+    "us_gulf",
+    "iron_ore",
+    "coal",
+    "demand",
+    "period",
+    "activity",
+    "another"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 158,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-09-29_weekly-dry-time-charter-estimates-september-29-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-september-29-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-09-29_2021_09_29_weekly_dry_time_charter_estimates_september_29_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-09-29_2021_09_29_weekly_dry_time_charter_estimates_september_29_2021",
+      "parent_id": "hellenic_dry_charter_2021-09-29_2021_09_29_weekly_dry_time_charter_estimates_september_29_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The capesize market has continued to surge with the BCI hitting the highest levels since 2008 due to rocketing coal demand, port congestion in China and high iron ore exports. The period market has also been strong with rates for one-year up to an average of $32,000/pdpr.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "atlantic",
+        "pacific",
+        "us_gulf",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

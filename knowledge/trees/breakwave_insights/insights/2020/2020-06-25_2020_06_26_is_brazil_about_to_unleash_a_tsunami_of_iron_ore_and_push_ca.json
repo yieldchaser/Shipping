@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-25_2020_06_26_is_brazil_about_to_unleash_a_tsunami_of_iron_ore_and_push_ca__root",
+  "doc_id": "breakwave_insights_insights_2020-06-25_2020_06_26_is_brazil_about_to_unleash_a_tsunami_of_iron_ore_and_push_ca",
+  "parent_id": null,
+  "title": "Is Brazil About To Unleash A Tsunami Of Iron Ore And Push Capes To New Highs",
+  "section_path": [
+    "Is Brazil About To Unleash A Tsunami Of Iron Ore And Push Capes To New Highs"
+  ],
+  "section_path_text": "Is Brazil About To Unleash A Tsunami Of Iron Ore And Push Capes To New Highs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nMuch ink has been spent on the importance of Brazil in the dry bulk market. The significant sailing distance to China and the high commodity export nature of its economy makes Brazil a key region for the dry bulk market. Thus, any change, positive or negative, in the rate of bulk exports, and dry bulk owners and investors alike should pay close attention.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "grain",
+    "iron",
+    "ore",
+    "vale",
+    "year",
+    "exports",
+    "expects"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 753,
+  "source_path": "reports/breakwave/2020/2020-06-26_is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-ca.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/25/is-brazil-about-to-unleash-a-tsunami-of-iron-ore-and-push-capes-to-new-highs",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-25_2020_06_26_is_brazil_about_to_unleash_a_tsunami_of_iron_ore_and_push_ca__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-25_2020_06_26_is_brazil_about_to_unleash_a_tsunami_of_iron_ore_and_push_ca",
+      "parent_id": "breakwave_insights_insights_2020-06-25_2020_06_26_is_brazil_about_to_unleash_a_tsunami_of_iron_ore_and_push_ca__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Much ink has been spent on the importance of Brazil in the dry bulk market. The significant sailing distance to China and the high commodity export nature of its economy makes Brazil a key region for the dry bulk market.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "grain",
+        "iron",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 751,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

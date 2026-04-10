@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-19_2022_08_19_crude_oil_gains_as_inventories_fall_and_gasoline_demand_pick__root",
+  "doc_id": "breakwave_insights_insights_2022-08-19_2022_08_19_crude_oil_gains_as_inventories_fall_and_gasoline_demand_pick",
+  "parent_id": null,
+  "title": "Crude Oil Gains As Inventories Fall And Gasoline Demand Picks Up",
+  "section_path": [
+    "Crude Oil Gains As Inventories Fall And Gasoline Demand Picks Up"
+  ],
+  "section_path_text": "Crude Oil Gains As Inventories Fall And Gasoline Demand Picks Up",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nSigns of robust demand helped assuage concerns that rising interest rates would curb economic growth. Supply issues are also in focus, amid the ongoing energy crisis. Aluminium gained after Europe's energy crisis claimed another victim.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "are",
+    "after"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 712,
+  "source_path": "reports/breakwave/2022/2022-08-19_crude-oil-gains-as-inventories-fall-and-gasoline-demand-pick.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/19/crude-oil-gains-as-inventories-fall-and-gasoline-demand-picks-up",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-19_2022_08_19_crude_oil_gains_as_inventories_fall_and_gasoline_demand_pick__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-08-19_2022_08_19_crude_oil_gains_as_inventories_fall_and_gasoline_demand_pick",
+      "parent_id": "breakwave_insights_insights_2022-08-19_2022_08_19_crude_oil_gains_as_inventories_fall_and_gasoline_demand_pick__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nSigns of robust demand helped assuage concerns that rising interest rates would curb economic growth. Supply issues are also in focus, amid the ongoing energy crisis.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 710,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFreight rate dynamics remain weak, but there are signs of firming in the Panamax segment. The number of ships in ballast increased for the second week in a row, while the largest upward movement was seen in handysize. Discussions on the Black Sea Grain Corridors have been in the spotlight in recent days as the Black Sea Grain Initiative expires in the second half of November.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "grain",
+    "vessels",
+    "number",
+    "previous",
+    "increased"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 984,
+  "source_path": "reports/breakwave/2022/2022-10-27_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/27/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Freight rate dynamics remain weak, but there are signs of firming in the Panamax segment. The number of ships in ballast increased for the second week in a row, while the largest upward movement was seen in handysize.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "grain",
+        "black",
+        "sea",
+        "all",
+        "impact",
+        "initiative"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 298,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nIn the last week of October, the downward trend of the previous week continued in all size classes, with Panamax rates remaining stable. Capesize freight rates from Brazil to North China fell to $21.57/tonne, down nearly $4/tonne from week 40.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__s03_section_2_supply_ballasters_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ships in ballast was below the annual average for the Panamax size, while the trend for the other size classes is upward, and there is a clear upward trend for the Handysize size. Capesize SE Africa: The number of vessels increased to 90, up 36% from the low in week 39 and 10 above the annual average of 79 vessels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "annual",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__s04_section_3_demand_tondays_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Decreasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Decreasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Decreasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "October will end with a downward trend after a significant upswing in Capesize in the previous month. However, Capesize demand growth is still higher than in the second quarter, while Panamax remains relatively stable.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "growth",
+        "signs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__s05_section_4_port_congestion_no_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-10-27_2022_10_27_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports\nThe number of congested vessels has increased again after the downward trend observed in the previous week. Capesize: The number of vessels increased to 108, 7 more than the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "vessels",
+        "number",
+        "congested"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

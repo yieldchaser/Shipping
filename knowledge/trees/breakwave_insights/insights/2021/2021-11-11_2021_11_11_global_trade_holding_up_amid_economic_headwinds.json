@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-11-11_2021_11_11_global_trade_holding_up_amid_economic_headwinds__root",
+  "doc_id": "breakwave_insights_insights_2021-11-11_2021_11_11_global_trade_holding_up_amid_economic_headwinds",
+  "parent_id": null,
+  "title": "Global Trade Holding Up Amid Economic Headwinds",
+  "section_path": [
+    "Global Trade Holding Up Amid Economic Headwinds"
+  ],
+  "section_path_text": "Global Trade Holding Up Amid Economic Headwinds",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe global economy may be facing its fair share of dark clouds at the horizon, with the path of the post-pandemic recovery more turbulent than envisaged only a few months ago. China, which spearheaded the global return to growth, looks set to face a decelerating expansion during the last quarter of the year. The country is wrestling with, among other things, problems in the property sector and uncertain energy supplies, which are taking their toll on industrial production.",
+  "keywords": [
+    "china",
+    "india",
+    "iron_ore",
+    "global",
+    "per",
+    "trade",
+    "cent",
+    "demand",
+    "month",
+    "chinese",
+    "economy",
+    "exports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 730,
+  "source_path": "reports/breakwave/2021/2021-11-11_global-trade-holding-up-amid-economic-headwinds.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/11/11/global-trade-holding-up-amid-economic-headwinds",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-11-11_2021_11_11_global_trade_holding_up_amid_economic_headwinds__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-11-11_2021_11_11_global_trade_holding_up_amid_economic_headwinds",
+      "parent_id": "breakwave_insights_insights_2021-11-11_2021_11_11_global_trade_holding_up_amid_economic_headwinds__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe global economy may be facing its fair share of dark clouds at the horizon, with the path of the post-pandemic recovery more turbulent than envisaged only a few months ago. China, which spearheaded the global return to growth, looks set to face a decelerating expansion during the last quarter of the year.",
+      "keywords": [
+        "china",
+        "india",
+        "iron_ore",
+        "global",
+        "per",
+        "trade",
+        "cent",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 728,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

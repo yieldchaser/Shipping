@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-07-16_2021_07_16_chinese_economy_spectacular_being_replaced_by_steady__root",
+  "doc_id": "breakwave_insights_insights_2021-07-16_2021_07_16_chinese_economy_spectacular_being_replaced_by_steady",
+  "parent_id": null,
+  "title": "Chinese Economy Spectacular Being Replaced By Steady",
+  "section_path": [
+    "Chinese Economy Spectacular Being Replaced By Steady"
+  ],
+  "section_path_text": "Chinese Economy Spectacular Being Replaced By Steady",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe economic data coming out of China in recent weeks have painted a rather mixed picture of the current state of the Chinese economy. The GDP growth for the second quarter fell short of the consensus expectations of 8.1 per cent, prompting some pundits to question the momentum of the economy as we enter the second half of the year. While the second-quarter growth disappointed many observers, the 7.9 per cent growth achieved will allow China to comfortably meet its annual target of a GDP expansion of more than six per cent.",
+  "keywords": [
+    "china",
+    "brazil",
+    "japan",
+    "iron_ore",
+    "steel",
+    "chinese",
+    "growth",
+    "demand",
+    "iron",
+    "ore",
+    "economy",
+    "likely"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1039,
+  "source_path": "reports/breakwave/2021/2021-07-16_chinese-economy-spectacular-being-replaced-by-steady.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/7/16/chinese-economy-spectacular-being-replaced-by-steady",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-07-16_2021_07_16_chinese_economy_spectacular_being_replaced_by_steady__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-07-16_2021_07_16_chinese_economy_spectacular_being_replaced_by_steady",
+      "parent_id": "breakwave_insights_insights_2021-07-16_2021_07_16_chinese_economy_spectacular_being_replaced_by_steady__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe economic data coming out of China in recent weeks have painted a rather mixed picture of the current state of the Chinese economy. The GDP growth for the second quarter fell short of the consensus expectations of 8.1 per cent, prompting some pundits to question the momentum of the economy as we enter the second half of the year.",
+      "keywords": [
+        "china",
+        "brazil",
+        "japan",
+        "iron_ore",
+        "steel",
+        "chinese",
+        "growth",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1037,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

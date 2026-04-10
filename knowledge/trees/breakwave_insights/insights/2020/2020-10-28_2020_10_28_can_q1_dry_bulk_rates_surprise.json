@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-10-28_2020_10_28_can_q1_dry_bulk_rates_surprise__root",
+  "doc_id": "breakwave_insights_insights_2020-10-28_2020_10_28_can_q1_dry_bulk_rates_surprise",
+  "parent_id": null,
+  "title": "Can Q1 Dry Bulk Rates Surprise",
+  "section_path": [
+    "Can Q1 Dry Bulk Rates Surprise"
+  ],
+  "section_path_text": "Can Q1 Dry Bulk Rates Surprise",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nShipping is cyclical and it is well known in the industry that for dry bulk the first quarter is considered the weakest period of any given year for various reasons related to both supply and demand of raw materials. Such seasonality is, most of the times, reflected in the futures market, where the first quarter contracts trade below each subsequent quarter well in advance. Despite the ups and downs in spot rates, the first quarter 2021 contracts for dry bulk have been trading in a narrow range and well below the rest of them respective annual contract, reflecting the broader expectation for another seasonally weak period.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "iron_ore",
+    "steel",
+    "first",
+    "quarter",
+    "are",
+    "below",
+    "year",
+    "years"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 950,
+  "source_path": "reports/breakwave/2020/2020-10-28_can-q1-dry-bulk-rates-surprise.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/10/28/can-q1-dry-bulk-rates-surprise",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-10-28_2020_10_28_can_q1_dry_bulk_rates_surprise__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-10-28_2020_10_28_can_q1_dry_bulk_rates_surprise",
+      "parent_id": "breakwave_insights_insights_2020-10-28_2020_10_28_can_q1_dry_bulk_rates_surprise__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Shipping is cyclical and it is well known in the industry that for dry bulk the first quarter is considered the weakest period of any given year for various reasons related to both supply and demand of raw materials. Such seasonality is, most of the times, reflected in the futures market, where the first quarter contracts trade below each subsequent quarter well in advance.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "iron_ore",
+        "steel",
+        "first",
+        "quarter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 948,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

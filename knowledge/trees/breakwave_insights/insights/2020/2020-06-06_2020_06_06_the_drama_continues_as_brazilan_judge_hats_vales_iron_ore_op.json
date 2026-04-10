@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-06_2020_06_06_the_drama_continues_as_brazilan_judge_hats_vales_iron_ore_op__root",
+  "doc_id": "breakwave_insights_insights_2020-06-06_2020_06_06_the_drama_continues_as_brazilan_judge_hats_vales_iron_ore_op",
+  "parent_id": null,
+  "title": "The Drama Continues As Brazilan Judge Hats Vales Iron Ore Operations In The South",
+  "section_path": [
+    "The Drama Continues As Brazilan Judge Hats Vales Iron Ore Operations In The South"
+  ],
+  "section_path_text": "The Drama Continues As Brazilan Judge Hats Vales Iron Ore Operations In The South",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nOnce again, the iron ore market has to make sense of the ever developing situation in Brazil, with Vale's iron ore output struggling to find a footing between COVID-19, heavy rains, regulatory issues related to last year's dam accident and Carajas logistical issues. The latest development is again focused on the southern mining complex, where, as Reuters reports, a Brazilian judge has shut down several mines in the Minas Gerais region , which has been the target of regulators over the past year. Obviously, such order by itself is a negative development, although it is unclear what the impact will end up being, as limited information is available at this time on the extend of the shutdown.( Vale put out a press release late Saturday, as updated below)\nFrom Reuters:\n\" A Brazilian judge ordered the closure of a series of mines operated by mining company Vale SA over coronavirus concerns, labor prosecutors said on Friday, a development that puts more than 10% of the firm's iron ore output offline and will likely send jitters through the global iron ore market.",
+  "keywords": [
+    "capesize",
+    "brazil",
+    "iron_ore",
+    "vale",
+    "iron",
+    "ore",
+    "complex",
+    "impact",
+    "production",
+    "development",
+    "itabira",
+    "again"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 624,
+  "source_path": "reports/breakwave/2020/2020-06-06_the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-op.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/6/the-drama-continues-as-brazilan-judge-hats-vales-iron-ore-operations-in-the-south",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-06_2020_06_06_the_drama_continues_as_brazilan_judge_hats_vales_iron_ore_op__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-06_2020_06_06_the_drama_continues_as_brazilan_judge_hats_vales_iron_ore_op",
+      "parent_id": "breakwave_insights_insights_2020-06-06_2020_06_06_the_drama_continues_as_brazilan_judge_hats_vales_iron_ore_op__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Once again, the iron ore market has to make sense of the ever developing situation in Brazil, with Vale's iron ore output struggling to find a footing between COVID-19, heavy rains, regulatory issues related to last year's dam accident and Carajas logistical issues. The latest development is again focused on the southern mining complex, where, as Reuters reports, a Brazilian judge has shut down several mines in the Minas Gerais region , which has been the target of regulators over the past year.",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "iron_ore",
+        "vale",
+        "iron",
+        "ore",
+        "complex",
+        "impact"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 622,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

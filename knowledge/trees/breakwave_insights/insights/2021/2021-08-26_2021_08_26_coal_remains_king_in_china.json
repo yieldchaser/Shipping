@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-08-26_2021_08_26_coal_remains_king_in_china__root",
+  "doc_id": "breakwave_insights_insights_2021-08-26_2021_08_26_coal_remains_king_in_china",
+  "parent_id": null,
+  "title": "Coal Remains King In China",
+  "section_path": [
+    "Coal Remains King In China"
+  ],
+  "section_path_text": "Coal Remains King In China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina's coal-derived electricity generation has continued to fare much better than domestic coal production and this remains very positive for China's coal import prospects. China's coal production most recently totaled 314.2 million tons in July. This is down month-on-month by 9 million tons (-3%) and is down year-on-year by 3.7 million tons (-1%).",
+  "keywords": [
+    "china",
+    "coal",
+    "production",
+    "electricity",
+    "year-on-year",
+    "billion",
+    "kilowatt",
+    "power",
+    "hours",
+    "totaled",
+    "contributed",
+    "far"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 447,
+  "source_path": "reports/breakwave/2021/2021-08-26_coal-remains-king-in-china.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/8/26/coal-remains-king-in-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-08-26_2021_08_26_coal_remains_king_in_china__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-08-26_2021_08_26_coal_remains_king_in_china",
+      "parent_id": "breakwave_insights_insights_2021-08-26_2021_08_26_coal_remains_king_in_china__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina's coal-derived electricity generation has continued to fare much better than domestic coal production and this remains very positive for China's coal import prospects. China's coal production most recently totaled 314.2 million tons in July.",
+      "keywords": [
+        "china",
+        "coal",
+        "production",
+        "electricity",
+        "year-on-year",
+        "billion",
+        "kilowatt",
+        "power"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 445,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

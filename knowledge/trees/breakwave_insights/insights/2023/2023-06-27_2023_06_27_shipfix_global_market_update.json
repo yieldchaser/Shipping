@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nCentral banks dominated much of the past week's news flow. The week began with the People's Bank of China lowering its key interest rates for the first time in ten months to boost confidence in the world's second-largest economy. However, while the cuts were widely expected, they were deemed by many too small to make any material impact on the flagging economic recovery and many commodities suffered as a result.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1415,
+  "source_path": "reports/breakwave/2023/2023-06-27_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/27/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Central banks dominated much of the past week's news flow. The week began with the People's Bank of China lowering its key interest rates for the first time in ten months to boost confidence in the world's second-largest economy.",
+      "keywords": [
+        "china",
+        "further",
+        "many",
+        "cent",
+        "data",
+        "interest",
+        "markets",
+        "past"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 220,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "After a week's pause, crude oil prices resumed their journey south during the past five sessions. The Brent August futures recorded a weekly loss of 3.6 per cent as the demand outlook darkened amid expectations of more monetary tightening in the US and Chinese stimulus failing to impress.",
+      "keywords": [
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 575,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index delivered a third consecutive week in the black as the headline indicator advanced by 15.2 per cent over the past five sessions. However, the gains were solely due to a solid week for the Capesizes, as the other segments ended the week in the red.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 342,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-27_2023_06_27_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Temperatures in parts of China have been soaring in recent days, with the quicksilver topping 40 degrees Celsius in the country's capital. China's Meteorological Administration has also forecast that the extreme conditions will persist across much of the country's northern parts for the remainder of the week.",
+      "keywords": [
+        "china",
+        "australia",
+        "coal",
+        "country",
+        "demand",
+        "electricity",
+        "order",
+        "temperatures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

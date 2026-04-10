@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-23_2021_04_23_change_of_us_stance_on_shipping_emissions_likely_to_maintain__root",
+  "doc_id": "breakwave_insights_insights_2021-04-23_2021_04_23_change_of_us_stance_on_shipping_emissions_likely_to_maintain",
+  "parent_id": null,
+  "title": "Change Of Us Stance On Shipping Emissions Likely To Maintain Thin Dry Bulk Newbuild Order Books",
+  "section_path": [
+    "Change Of Us Stance On Shipping Emissions Likely To Maintain Thin Dry Bulk Newbuild Order Books"
+  ],
+  "section_path_text": "Change Of Us Stance On Shipping Emissions Likely To Maintain Thin Dry Bulk Newbuild Order Books",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe US envoy on climate, John Kerry, called on the International Maritime Organization (IMO) earlier in the week to up its game on climate change. The current IMO goals on maritime emissions aim at a reduction of 50 per cent by 2050, compared to the levels seen in 2008. However, Mr Kerry suggested the IMO should be steering the industry towards zero emissions by that year instead.",
+  "keywords": [
+    "lng",
+    "container",
+    "gas",
+    "new",
+    "could",
+    "vessels",
+    "are",
+    "before",
+    "can",
+    "current",
+    "imo",
+    "many"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 812,
+  "source_path": "reports/breakwave/2021/2021-04-23_change-of-us-stance-on-shipping-emissions-likely-to-maintain.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/23/change-of-us-stance-on-shipping-emissions-likely-to-maintain-thin-dry-bulk-newbuild-order-books",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-23_2021_04_23_change_of_us_stance_on_shipping_emissions_likely_to_maintain__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-23_2021_04_23_change_of_us_stance_on_shipping_emissions_likely_to_maintain",
+      "parent_id": "breakwave_insights_insights_2021-04-23_2021_04_23_change_of_us_stance_on_shipping_emissions_likely_to_maintain__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe US envoy on climate, John Kerry, called on the International Maritime Organization (IMO) earlier in the week to up its game on climate change. The current IMO goals on maritime emissions aim at a reduction of 50 per cent by 2050, compared to the levels seen in 2008.",
+      "keywords": [
+        "lng",
+        "container",
+        "gas",
+        "new",
+        "could",
+        "vessels",
+        "are",
+        "before"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 810,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

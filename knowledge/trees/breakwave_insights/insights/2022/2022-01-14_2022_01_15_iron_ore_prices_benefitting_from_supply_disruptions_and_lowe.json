@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-01-14_2022_01_15_iron_ore_prices_benefitting_from_supply_disruptions_and_lowe__root",
+  "doc_id": "breakwave_insights_insights_2022-01-14_2022_01_15_iron_ore_prices_benefitting_from_supply_disruptions_and_lowe",
+  "parent_id": null,
+  "title": "Iron Ore Prices Benefitting From Supply Disruptions And Lower Chinese Inflation",
+  "section_path": [
+    "Iron Ore Prices Benefitting From Supply Disruptions And Lower Chinese Inflation"
+  ],
+  "section_path_text": "Iron Ore Prices Benefitting From Supply Disruptions And Lower Chinese Inflation",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAfter an eventful year, which saw iron ore prices gaining around fifty per cent in five months to a new record followed by a retreat of epic proportions that gave up all the gains with a considerable margin, the last two months have seen prices recovering. Since the middle of November, iron ore spot prices for delivery in the Chinese port of Tianjin has surged by approximately fifty per cent and are currently at their highest since the middle of October. Iron ore with 63.5 per cent FE content - USD/tonne\nThe recent gains have been driven by expectations of a rebound in demand for the steel-making ingredient, at the same time as supplies have been hampered by the adverse weather conditions affecting the world's second-largest largest provider of the commodity.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "cent",
+    "per",
+    "chinese",
+    "year",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1054,
+  "source_path": "reports/breakwave/2022/2022-01-15_iron-ore-prices-benefitting-from-supply-disruptions-and-lowe.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/1/14/iron-ore-prices-benefitting-from-supply-disruptions-and-lower-chinese-inflation",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-01-14_2022_01_15_iron_ore_prices_benefitting_from_supply_disruptions_and_lowe__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-01-14_2022_01_15_iron_ore_prices_benefitting_from_supply_disruptions_and_lowe",
+      "parent_id": "breakwave_insights_insights_2022-01-14_2022_01_15_iron_ore_prices_benefitting_from_supply_disruptions_and_lowe__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAfter an eventful year, which saw iron ore prices gaining around fifty per cent in five months to a new record followed by a retreat of epic proportions that gave up all the gains with a considerable margin, the last two months have seen prices recovering. Since the middle of November, iron ore spot prices for delivery in the Chinese port of Tianjin has surged by approximately fifty per cent and are currently at their highest since the middle of October.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "cent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1052,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

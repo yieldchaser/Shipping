@@ -1,0 +1,342 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nLatest Trends\nCountries should work harder to develop renewable energy interconnections that allow multiple countries to share greater production capacity and build stronger markets. Read More\n\nSimple rules which may help\nThe global financial system is trying to cope with a series of exogenous shocks increasing in magnitude using internal tools. Read More\n\nImports from Indonesia have remained China's primary source and Russia the second largest source\nChina's coal import data for August by origin was recently released and showed that imports from Indonesia have remained China's primary source and Russia the second largest source.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "china",
+    "atlantic",
+    "europe",
+    "coal",
+    "grain",
+    "crude_oil",
+    "products",
+    "read",
+    "increase"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 600,
+  "source_path": "reports/breakwave/2022/2022-10-16_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/16/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s02_latest_trends",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "Latest Trends",
+      "section_path": [
+        "Latest Trends"
+      ],
+      "section_path_text": "Latest Trends",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Countries should work harder to develop renewable energy interconnections that allow multiple countries to share greater production capacity and build stronger markets.",
+      "keywords": [
+        "countries",
+        "allow",
+        "build",
+        "capacity",
+        "develop",
+        "energy",
+        "greater",
+        "harder"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 26,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s03_simple_rules_which_may_help",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "Simple rules which may help",
+      "section_path": [
+        "Simple rules which may help"
+      ],
+      "section_path_text": "Simple rules which may help",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The global financial system is trying to cope with a series of exogenous shocks increasing in magnitude using internal tools.",
+      "keywords": [
+        "cope",
+        "exogenous",
+        "financial",
+        "global",
+        "increasing",
+        "internal",
+        "magnitude",
+        "read"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s04_imports_from_indonesia_have_remained_china_s_primary_source_and_russia_the_second_largest_source",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "Imports from Indonesia have remained China's primary source and Russia the second largest source",
+      "section_path": [
+        "Imports from Indonesia have remained China's primary source and Russia the second largest source"
+      ],
+      "section_path_text": "Imports from Indonesia have remained China's primary source and Russia the second largest source",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "China's coal import data for August by origin was recently released and showed that imports from Indonesia have remained China's primary source and Russia the second largest source.",
+      "keywords": [
+        "china",
+        "coal",
+        "august",
+        "data",
+        "import",
+        "imports",
+        "indonesia",
+        "largest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s05_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The second week saw a continued upswing in Panamax freight rates, with signs of strength in the Capesize class, while the ballast vessel count is still below the annual average, leading to an optimistic outlook for fourth quarter freight rates.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "annual",
+        "average",
+        "ballast",
+        "below",
+        "class",
+        "continued"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 51,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s06_market_sentiment_is_a_finicky_thing_to_accurately_capture_and_quantify",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "Market sentiment is a finicky thing to accurately capture and quantify",
+      "section_path": [
+        "Market sentiment is a finicky thing to accurately capture and quantify"
+      ],
+      "section_path_text": "Market sentiment is a finicky thing to accurately capture and quantify",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Market sentiment is a finicky thing to accurately capture and quantify, yet it plays a strong role in directing the market and gives a basis for any and all excess noted in terms of market noise.",
+      "keywords": [
+        "accurately",
+        "all",
+        "any",
+        "basis",
+        "capture",
+        "directing",
+        "excess",
+        "finicky"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s07_capesize_freight_rates_have_staged_a_remarkable_recovery_since_the_beginning_of_september_following_an_abysmal_three_months",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "Capesize freight rates have staged a remarkable recovery since the beginning of September, following an abysmal three months",
+      "section_path": [
+        "Capesize freight rates have staged a remarkable recovery since the beginning of September, following an abysmal three months"
+      ],
+      "section_path_text": "Capesize freight rates have staged a remarkable recovery since the beginning of September, following an abysmal three months",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "The case for another out-sized interest rate hike in the US continues to strengthen. Producer prices in the world's largest economy rose by more than expected last month.",
+      "keywords": [
+        "another",
+        "case",
+        "continues",
+        "economy",
+        "expected",
+        "hike",
+        "interest",
+        "largest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s08_the_last_quarter_of_this_volatile_trading_year_started_this_week_with_baltic_indices_hovering_at_two_month_highs",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "The last quarter of this volatile trading year started this week with Baltic indices hovering at two-month highs",
+      "section_path": [
+        "The last quarter of this volatile trading year started this week with Baltic indices hovering at two-month highs"
+      ],
+      "section_path_text": "The last quarter of this volatile trading year started this week with Baltic indices hovering at two-month highs",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "For the first half of 2022, dry bulk market was echoing the fertile 2021 trading environment.",
+      "keywords": [
+        "echoing",
+        "environment.",
+        "fertile",
+        "first",
+        "half",
+        "read",
+        "trading",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s09_as_the_eu_policies_against_russia_loom_we_explore_the_impact_of_trade_flows_reshuffling_and_the_eu_shipping_ban_on_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "As the EU policies against Russia loom, we explore the impact of trade flows reshuffling and the EU shipping ban on freight markets.",
+      "section_path": [
+        "As the EU policies against Russia loom, we explore the impact of trade flows reshuffling and the EU shipping ban on freight markets."
+      ],
+      "section_path_text": "As the EU policies against Russia loom, we explore the impact of trade flows reshuffling and the EU shipping ban on freight markets.",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "With the EU ban on Russian crude and products just round the corner, the unwinding of the Russian-European oil interdependency is underway.",
+      "keywords": [
+        "europe",
+        "grain",
+        "crude_oil",
+        "products",
+        "ban",
+        "corner",
+        "crude",
+        "interdependency"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s10_the_big_picture_atlantic_seasonality",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "The Big Picture: Atlantic seasonality",
+      "section_path": [
+        "The Big Picture: Atlantic seasonality"
+      ],
+      "section_path_text": "The Big Picture: Atlantic seasonality",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "In the past several weeks, the Capesize C3 route has held relatively firm, printing at $23.4/t at the time of writing, 16.4% higher MoM. Rates more recently, however, have started to soften as prompt demand is now covered and more vessels are appearing which had previously been waiting for better opportunities.",
+      "keywords": [
+        "capesize",
+        "appearing",
+        "are",
+        "better",
+        "covered",
+        "demand",
+        "firm",
+        "had"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s11_industrial_production_also_impressively_grew_year_on_year_by_at_least_3",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "Industrial production also impressively grew year-on-year by at least 3%",
+      "section_path": [
+        "Industrial production also impressively grew year-on-year by at least 3%"
+      ],
+      "section_path_text": "Industrial production also impressively grew year-on-year by at least 3%",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "As we have continued to stress in Commodore's Weekly China Reports, coronavirus cases and restrictions eased significantly in June and this helped allow both consumer spending and industrial production to enjoy sustained year-on-year growth.",
+      "keywords": [
+        "china",
+        "allow",
+        "both",
+        "cases",
+        "commodore",
+        "consumer",
+        "continued",
+        "coronavirus"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__s12_the_vlcc_freight_market_saw_a_surprise_rate_increase_in_september",
+      "doc_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-16_2022_10_16_weekly_insights_review__root",
+      "title": "The VLCC freight market saw a surprise rate increase in September",
+      "section_path": [
+        "The VLCC freight market saw a surprise rate increase in September"
+      ],
+      "section_path_text": "The VLCC freight market saw a surprise rate increase in September",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "The VLCC freight market saw a surprise rate increase in September, accompanied by an increase in demand (in terms of ton-days and miles), leading to a further improvement in sentiment by the end of the third quarter.",
+      "keywords": [
+        "vlcc",
+        "increase",
+        "accompanied",
+        "demand",
+        "end",
+        "further",
+        "improvement",
+        "leading"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

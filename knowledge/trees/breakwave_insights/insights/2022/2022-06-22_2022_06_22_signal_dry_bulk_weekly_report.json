@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFreight rates kept dropping, as seen in the last few weeks, while the number of ballasters increases, excluding the Handysize segment. In the iron ore market, prices for iron ore cargoes with a 63.5% iron content for delivery into Tianjin slid to a six-month low of $111.35/ton following an 8% drop on Monday, pursuant to reports of Chinese steel mills cutting production. This last movement reflected a ninth straight session of declines, while analysts have warned that it could now fall to as low as $100/ton, for the first time since November.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1177,
+  "source_path": "reports/breakwave/2022/2022-06-22_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/22/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Freight rates kept dropping, as seen in the last few weeks, while the number of ballasters increases, excluding the Handysize segment. In the iron ore market, prices for iron ore cargoes with a 63.5% iron content for delivery into Tianjin slid to a six-month low of $111.35/ton following an 8% drop on Monday, pursuant to reports of Chinese steel mills cutting production.",
+      "keywords": [
+        "handysize",
+        "china",
+        "europe",
+        "india",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 421,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nThis week sees a continued drop in freight rates, while small signs of a rebound could be seen in the Panamax segment. Capesize Brazil-to-North China freight rates dropped further to $32/t, $6/t less than the end of Week 20.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__s04_number_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__root",
+      "title": "Number of Vessels - Increasing",
+      "section_path": [
+        "Number of Vessels - Increasing"
+      ],
+      "section_path_text": "Number of Vessels - Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ballasters kept rising, as seen in the last couple of weeks, with the exception of the handysize segment, where the last three weeks have seen a sharp drop. Capesize SE Africa: The number of vessels sailing in ballast stayed at the yearly average of 78 vessels, 23 more than the end of Week 20.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "number",
+        "ballast",
+        "sailing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__s06_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__root",
+      "title": "Decreasing",
+      "section_path": [
+        "Decreasing"
+      ],
+      "section_path_text": "Decreasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The third week of June saw demand growth recovering in the Capesize segment, whereas there is still a decrease in ton days growth for the other vessel class categories. Capesize demand ton-days: The last four weeks have seen a steady increase; having said that, the current levels are still lower than the high of Week 20.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "still",
+        "ton-days",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__s09_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-06-22_2022_06_22_signal_dry_bulk_weekly_report__root",
+      "title": "Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Dry bulk ships in congestion appear to have plateaued in recent days, remaining level in the last days of June. Be that as it may, the Handysize segment still exhibits an upward trend.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "ships",
+        "congestion",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-07-06_2022_07_06_mmi_daily_iron_ore_index_report_july_06_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-07-06_2022_07_06_mmi_daily_iron_ore_index_report_july_06_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report July 06 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report July 06 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report July 06 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 06/07/2022\nDCE iron ore was was shocked all the day.The main contract closed at 747,increased of 1.84%. Traders are generally motivated to ship, steelmills are mainly on the sidelines, and there are few transactions in the market. PBF at Tangshan port dealt 805yuan/mt,keep stable compare with yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "ore",
+    "iron",
+    "are",
+    "prices",
+    "was",
+    "main",
+    "output"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 270,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-07-06_mmi-daily-iron-ore-index-report-july-06-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-06-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-07-06_2022_07_06_mmi_daily_iron_ore_index_report_july_06_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-07-06_2022_07_06_mmi_daily_iron_ore_index_report_july_06_2022",
+      "parent_id": "hellenic_iron_ore_2022-07-06_2022_07_06_mmi_daily_iron_ore_index_report_july_06_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 06/07/2022\nDCE iron ore was was shocked all the day.The main contract closed at 747,increased of 1.84%. Traders are generally motivated to ship, steelmills are mainly on the sidelines, and there are few transactions in the market.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "steel",
+        "ore",
+        "iron",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 268,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

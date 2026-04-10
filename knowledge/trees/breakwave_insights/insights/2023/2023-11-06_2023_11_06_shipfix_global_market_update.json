@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDespite a rebound on Friday for the Capesizes, the past week saw dry bulk spot freight rates continuing to decline. The headline BDI shed more than six per cent as cargo order volumes remained under pressure. Among the commodities, iron ore was one of the past week's winners as investors upgraded their expectations for Chinese demand.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1669,
+  "source_path": "reports/breakwave/2023/2023-11-06_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/6/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Despite a rebound on Friday for the Capesizes, the past week saw dry bulk spot freight rates continuing to decline. The headline BDI shed more than six per cent as cargo order volumes remained under pressure.",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "past",
+        "among",
+        "bdi",
+        "bergman",
+        "capesizes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Signs that the US labour market is coming under some pressure contributed to the dollar recording a significant decline last week. Softer-than-expected US jobs data released on Friday suggested that the Federal Reserve may refrain from further interest hikes during the current cycle, and, as a result, the US dollar index fell by 1.4 per cent over the past five sessions.",
+      "keywords": [
+        "china",
+        "data",
+        "country",
+        "decline",
+        "dollar",
+        "during",
+        "exports",
+        "further"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil recorded a significant decline under volatile conditions over the past week as concerns over global supplies receded. A combination of lower US demand and easing concerns over supplies from the Middle East contributed to the January Brent futures declining by 4.8 per cent during the past five trading days.",
+      "keywords": [
+        "china",
+        "brazil",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 626,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Exchange's dry bulk freight indices recorded a second consecutive week with all indicators in the red. Despite a positive performance on Friday amid a rebound for the Capesizes, the headline Baltic Dry Index declined by 6.5 per cent last week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 423,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-11-06_2023_11_06_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The tug-of-war between China bears and bulls remains firmly in place, with the past week's weak PMI data for the country's manufacturing sector providing the pessimists with additional fuel for their arguments. Still, there are some signs that the Chinese economy may be on course for improving conditions.",
+      "keywords": [
+        "china",
+        "steel",
+        "chinese",
+        "demand",
+        "amid",
+        "cargo",
+        "exports",
+        "higher"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 333,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-28_2023_06_28_prospect_of_chinese_stimulus_measures_pushes_metals_higher__root",
+  "doc_id": "breakwave_insights_insights_2023-06-28_2023_06_28_prospect_of_chinese_stimulus_measures_pushes_metals_higher",
+  "parent_id": null,
+  "title": "Prospect Of Chinese Stimulus Measures Pushes Metals Higher",
+  "section_path": [
+    "Prospect Of Chinese Stimulus Measures Pushes Metals Higher"
+  ],
+  "section_path_text": "Prospect Of Chinese Stimulus Measures Pushes Metals Higher",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nPositive economic data and prospects of stimulus measures in China boosted sentiment across commodity markets. That was mitigated somewhat by concerns of further monetary tightening. Base metal rallied amid an improving outlook for demand in China.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "further",
+    "data",
+    "measures",
+    "oil",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 575,
+  "source_path": "reports/breakwave/2023/2023-06-28_prospect-of-chinese-stimulus-measures-pushes-metals-higher.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/28/prospect-of-chinese-stimulus-measures-pushes-metals-higher",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-28_2023_06_28_prospect_of_chinese_stimulus_measures_pushes_metals_higher__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-28_2023_06_28_prospect_of_chinese_stimulus_measures_pushes_metals_higher",
+      "parent_id": "breakwave_insights_insights_2023-06-28_2023_06_28_prospect_of_chinese_stimulus_measures_pushes_metals_higher__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nPositive economic data and prospects of stimulus measures in China boosted sentiment across commodity markets. That was mitigated somewhat by concerns of further monetary tightening.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "iron_ore",
+        "crude_oil",
+        "steel",
+        "gas",
+        "further"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 573,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

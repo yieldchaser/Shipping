@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__root",
+  "doc_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand",
+  "parent_id": null,
+  "title": "The Big Picture Chinese Bulker Demand",
+  "section_path": [
+    "The Big Picture Chinese Bulker Demand"
+  ],
+  "section_path_text": "The Big Picture Chinese Bulker Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe well documented slowdown in the Chinese economy has raised demand worries across the dry bulk market. We look at the causes and where potential upside may come from. By Mark Nugent\n\nDemand softening in Q4\nA series of defaults in the property sector and slowing consumer activity following fresh Covid-19 restrictions has reared cause for concern over the strength of the Chinese economy.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "chinese",
+    "demand",
+    "since"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1203,
+  "source_path": "reports/breakwave/2022/2022-01-22_the-big-picture-chinese-bulker-demand.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/1/22/the-big-picture-chinese-bulker-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand",
+      "parent_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The well documented slowdown in the Chinese economy has raised demand worries across the dry bulk market. We look at the causes and where potential upside may come from.",
+      "keywords": [
+        "china",
+        "causes",
+        "chinese",
+        "come",
+        "demand",
+        "documented",
+        "economy",
+        "from."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__s02_demand_softening_in_q4",
+      "doc_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand",
+      "parent_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__root",
+      "title": "Demand softening in Q4",
+      "section_path": [
+        "Demand softening in Q4"
+      ],
+      "section_path_text": "Demand softening in Q4",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A series of defaults in the property sector and slowing consumer activity following fresh Covid-19 restrictions has reared cause for concern over the strength of the Chinese economy. Chinese GDP increased by 4% YoY in Q4 2021, compared to growth of 6.5% over the same period a year ago, its slowest rate of growth over the last 18 months.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "brazil",
+        "steel",
+        "chinese",
+        "yoy",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 324,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__s03_commodity_breakdown",
+      "doc_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand",
+      "parent_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__root",
+      "title": "Commodity breakdown",
+      "section_path": [
+        "Commodity breakdown"
+      ],
+      "section_path_text": "Commodity breakdown",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "When breaking this down by commodity, shipping demand from Chinese iron ore imports has gained over two consecutive quarters, improving by 2.3% YoY in Q4. However, it has been the recent uptick in coal trade that has seen the greatest demand growth across all bulk commodities as China sought to ramp up inventories in 2H21 amidst domestic supply disruptions.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain",
+        "demand",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 336,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__s04_steel_production_still_muted",
+      "doc_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand",
+      "parent_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__root",
+      "title": "Steel production still muted",
+      "section_path": [
+        "Steel production still muted"
+      ],
+      "section_path_text": "Steel production still muted",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Chinese crude steel production totalled 86.2m tonnes in December according to the National Bureau of Statistics. Despite a 24.4% MoM improvement and the highest monthly output since July, this is still 5.5% lower YoY.",
+      "keywords": [
+        "china",
+        "steel",
+        "chinese",
+        "december",
+        "mills",
+        "production",
+        "sector",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__s05_continued_drawdowns_in_housing",
+      "doc_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand",
+      "parent_id": "breakwave_insights_insights_2022-01-22_2022_01_22_the_big_picture_chinese_bulker_demand__root",
+      "title": "Continued drawdowns in housing",
+      "section_path": [
+        "Continued drawdowns in housing"
+      ],
+      "section_path_text": "Continued drawdowns in housing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The Chinese property market has seen a swift decline since default rumours surrounding the Evergrande Property Group first emerged in September. Since then, more property firms have missed loan repayments, including those whose credit rating was investment grade, raising concerns the crisis is more systemic than previously thought.",
+      "keywords": [
+        "china",
+        "steel",
+        "chinese",
+        "property",
+        "several",
+        "activity",
+        "are",
+        "before"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 305,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

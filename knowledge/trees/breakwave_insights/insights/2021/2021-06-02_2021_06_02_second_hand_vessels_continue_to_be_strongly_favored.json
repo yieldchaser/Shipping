@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-06-02_2021_06_02_second_hand_vessels_continue_to_be_strongly_favored__root",
+  "doc_id": "breakwave_insights_insights_2021-06-02_2021_06_02_second_hand_vessels_continue_to_be_strongly_favored",
+  "parent_id": null,
+  "title": "Second Hand Vessels Continue To Be Strongly Favored",
+  "section_path": [
+    "Second Hand Vessels Continue To Be Strongly Favored"
+  ],
+  "section_path_text": "Second Hand Vessels Continue To Be Strongly Favored",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nDespite dry bulk rates having set new multi-year highs this year, newbuilding orders have fortunately stayed at only a moderate level as owners have continued to significantly favor second hand vessel purchases. Most recently, last month saw only approximately 24 new dry bulk vessels ordered. In comparison, approximately 84 existing dry bulk vessels exchanged hands in the second hand market.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "day",
+    "vessels",
+    "approximately",
+    "averaged",
+    "average",
+    "day.",
+    "hand",
+    "ordered"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 664,
+  "source_path": "reports/breakwave/2021/2021-06-02_second-hand-vessels-continue-to-be-strongly-favored.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/6/2/second-hand-vessels-continue-to-be-strongly-favored",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-06-02_2021_06_02_second_hand_vessels_continue_to_be_strongly_favored__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-06-02_2021_06_02_second_hand_vessels_continue_to_be_strongly_favored",
+      "parent_id": "breakwave_insights_insights_2021-06-02_2021_06_02_second_hand_vessels_continue_to_be_strongly_favored__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nDespite dry bulk rates having set new multi-year highs this year, newbuilding orders have fortunately stayed at only a moderate level as owners have continued to significantly favor second hand vessel purchases. Most recently, last month saw only approximately 24 new dry bulk vessels ordered.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "day",
+        "vessels",
+        "approximately",
+        "averaged"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 662,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

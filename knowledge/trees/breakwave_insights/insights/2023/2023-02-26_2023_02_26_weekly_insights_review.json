@@ -1,0 +1,286 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nLatest Trends on fuel transition, shipyard actions, government, ports, financing and industry players\nToday, shipping companies should look at carbon strategies - compulsory and voluntary - as impactful legislation is fast approaching. Read More\n\n\"Taste of spring\"\nWintertime in Greece, much like in the spot market, can be harsher than expected, with low temperatures and cloudy skies. Read More\n\nBest candidates to lead the next bull market\nLast week saw more persistent than expected inflation and very strong January retail sales in the US.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "read",
+    "growth",
+    "retail",
+    "sales",
+    "trends",
+    "around",
+    "exceeding",
+    "expected",
+    "inflation",
+    "key"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 342,
+  "source_path": "reports/breakwave/2023/2023-02-26_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/26/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__s02_latest_trends_on_fuel_transition_shipyard_actions_government_ports_financing_and_industry_players",
+      "doc_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__root",
+      "title": "Latest Trends on fuel transition, shipyard actions, government, ports, financing and industry players",
+      "section_path": [
+        "Latest Trends on fuel transition, shipyard actions, government, ports, financing and industry players"
+      ],
+      "section_path_text": "Latest Trends on fuel transition, shipyard actions, government, ports, financing and industry players",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Today, shipping companies should look at carbon strategies - compulsory and voluntary - as impactful legislation is fast approaching.",
+      "keywords": [
+        "approaching.",
+        "carbon",
+        "companies",
+        "compulsory",
+        "fast",
+        "impactful",
+        "legislation",
+        "look"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__s03_taste_of_spring",
+      "doc_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__root",
+      "title": "\"Taste of spring\"",
+      "section_path": [
+        "\"Taste of spring\""
+      ],
+      "section_path_text": "\"Taste of spring\"",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Wintertime in Greece, much like in the spot market, can be harsher than expected, with low temperatures and cloudy skies.",
+      "keywords": [
+        "can",
+        "cloudy",
+        "expected",
+        "greece",
+        "harsher",
+        "like",
+        "low",
+        "much"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__s04_best_candidates_to_lead_the_next_bull_market",
+      "doc_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__root",
+      "title": "Best candidates to lead the next bull market",
+      "section_path": [
+        "Best candidates to lead the next bull market"
+      ],
+      "section_path_text": "Best candidates to lead the next bull market",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Last week saw more persistent than expected inflation and very strong January retail sales in the US.",
+      "keywords": [
+        "expected",
+        "inflation",
+        "january",
+        "last",
+        "persistent",
+        "read",
+        "retail",
+        "sales"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__s05_not_a_surprise",
+      "doc_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__root",
+      "title": "Not a surprise",
+      "section_path": [
+        "Not a surprise"
+      ],
+      "section_path_text": "Not a surprise",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Chinese banks issued a record 4.9 trillion yuan in new loans in January.",
+      "keywords": [
+        "china",
+        "banks",
+        "chinese",
+        "issued",
+        "january.",
+        "loans",
+        "new",
+        "read"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__s06_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The freight market is not yet showing signs of firmness, as demand growth in both the large and smaller ship segments is down significantly.",
+      "keywords": [
+        "both",
+        "demand",
+        "down",
+        "firmness",
+        "growth",
+        "large",
+        "not",
+        "read"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__s07_opec_loading_activity_highlights_divergence_between_members",
+      "doc_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__root",
+      "title": "OPEC loading activity highlights divergence between members",
+      "section_path": [
+        "OPEC loading activity highlights divergence between members"
+      ],
+      "section_path_text": "OPEC loading activity highlights divergence between members",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "In this insight, we investigate the different trends emerging in crude/condensate loadings from key producers and the impact on global supplies.",
+      "keywords": [
+        "crude/condensate",
+        "different",
+        "emerging",
+        "global",
+        "impact",
+        "insight",
+        "investigate",
+        "key"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__s08_ongoing_supply_side_issues_helped_mitigate_the_losses",
+      "doc_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__root",
+      "title": "Ongoing supply side issues helped mitigate the losses",
+      "section_path": [
+        "Ongoing supply side issues helped mitigate the losses"
+      ],
+      "section_path_text": "Ongoing supply side issues helped mitigate the losses",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "A risk-off tone across markets weighed on sentiment in key commodities.",
+      "keywords": [
+        "commodities.",
+        "key",
+        "markets",
+        "read",
+        "risk-off",
+        "sentiment",
+        "tone",
+        "weighed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 15,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__s09_driving_force",
+      "doc_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__root",
+      "title": "Driving Force",
+      "section_path": [
+        "Driving Force"
+      ],
+      "section_path_text": "Driving Force",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "China's dramatic shift away from its strict zero covid policy at the end of 2022 defied expectations of a gradual reopening over the course of 2023.",
+      "keywords": [
+        "china",
+        "away",
+        "course",
+        "covid",
+        "defied",
+        "dramatic",
+        "end",
+        "expectations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__s10_nflation_has_been_exceeding_retail_sales_growth_in_china_and_around_the_world",
+      "doc_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-26_2023_02_26_weekly_insights_review__root",
+      "title": "Ιnflation has been exceeding retail sales growth in China and around the world",
+      "section_path": [
+        "Ιnflation has been exceeding retail sales growth in China and around the world"
+      ],
+      "section_path_text": "Ιnflation has been exceeding retail sales growth in China and around the world",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "As we have been discussing in Commodore's Weekly Dry Bulk Reports and Weekly China Reports, inflation has been exceeding retail sales growth in China and around the world.",
+      "keywords": [
+        "china",
+        "around",
+        "commodore",
+        "discussing",
+        "exceeding",
+        "growth",
+        "inflation",
+        "read"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

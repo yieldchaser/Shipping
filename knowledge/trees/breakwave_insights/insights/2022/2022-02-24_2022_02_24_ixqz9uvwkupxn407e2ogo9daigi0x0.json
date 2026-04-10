@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-24_2022_02_24_ixqz9uvwkupxn407e2ogo9daigi0x0__root",
+  "doc_id": "breakwave_insights_insights_2022-02-24_2022_02_24_ixqz9uvwkupxn407e2ogo9daigi0x0",
+  "parent_id": null,
+  "title": "Ixqz9Uvwkupxn407E2Ogo9Daigi0X0",
+  "section_path": [
+    "Ixqz9Uvwkupxn407E2Ogo9Daigi0X0"
+  ],
+  "section_path_text": "Ixqz9Uvwkupxn407E2Ogo9Daigi0X0",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nTwo topics, invasion and inflation, have dominated the global news flow for quite some time, with no signs of disappearing. Monday's move by the Russian leader to formally recognise the breakaway regions in Eastern Ukraine, and the subsequent deployment of Russian troops to the areas for \"peacekeeping\", has raised the probability of hostilities between the belligerents to commence in earnest. This development followed a barrage of contradictory reports on diplomatic efforts, which saw risk aversion going in and out of fashion daily or even hourly.",
+  "keywords": [
+    "china",
+    "australia",
+    "pacific",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "gas",
+    "are",
+    "russian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 884,
+  "source_path": "reports/breakwave/2022/2022-02-24_ixqz9uvwkupxn407e2ogo9daigi0x0.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/24/ixqz9uvwkupxn407e2ogo9daigi0x0",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-24_2022_02_24_ixqz9uvwkupxn407e2ogo9daigi0x0__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-24_2022_02_24_ixqz9uvwkupxn407e2ogo9daigi0x0",
+      "parent_id": "breakwave_insights_insights_2022-02-24_2022_02_24_ixqz9uvwkupxn407e2ogo9daigi0x0__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nTwo topics, invasion and inflation, have dominated the global news flow for quite some time, with no signs of disappearing. Monday's move by the Russian leader to formally recognise the breakaway regions in Eastern Ukraine, and the subsequent deployment of Russian troops to the areas for \"peacekeeping\", has raised the probability of hostilities between the belligerents to commence in earnest.",
+      "keywords": [
+        "china",
+        "australia",
+        "pacific",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 882,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

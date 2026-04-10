@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-27_2022_06_27_morning_market_comment_pressure_points__root",
+  "doc_id": "breakwave_insights_insights_2022-06-27_2022_06_27_morning_market_comment_pressure_points",
+  "parent_id": null,
+  "title": "Morning Market Comment Pressure Points",
+  "section_path": [
+    "Morning Market Comment Pressure Points"
+  ],
+  "section_path_text": "Morning Market Comment Pressure Points",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nPressure points\nEquities rebounded somewhat at the back end of last week in what was mostly a relief rally. Far from being considered a full recovery, last week illustrates how high market volatility is and how fragile sentiment remains. Looking at markets, it isn't easy to ascertain a direction.",
+  "keywords": [
+    "china",
+    "europe",
+    "grain",
+    "are",
+    "not",
+    "economic",
+    "what",
+    "markets",
+    "global",
+    "last",
+    "still",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1524,
+  "source_path": "reports/breakwave/2022/2022-06-27_morning-market-comment-pressure-points.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/27/morning-market-comment-pressure-points",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-27_2022_06_27_morning_market_comment_pressure_points__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-27_2022_06_27_morning_market_comment_pressure_points",
+      "parent_id": "breakwave_insights_insights_2022-06-27_2022_06_27_morning_market_comment_pressure_points__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nPressure points\nEquities rebounded somewhat at the back end of last week in what was mostly a relief rally. Far from being considered a full recovery, last week illustrates how high market volatility is and how fragile sentiment remains.",
+      "keywords": [
+        "china",
+        "europe",
+        "grain",
+        "are",
+        "not",
+        "economic",
+        "what",
+        "markets"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1522,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

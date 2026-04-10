@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-15_2024_01_15_oil_rebounds_as_geopolitical_tensions_rise__root",
+  "doc_id": "breakwave_insights_insights_2024-01-15_2024_01_15_oil_rebounds_as_geopolitical_tensions_rise",
+  "parent_id": null,
+  "title": "Oil Rebounds As Geopolitical Tensions Rise",
+  "section_path": [
+    "Oil Rebounds As Geopolitical Tensions Rise"
+  ],
+  "section_path_text": "Oil Rebounds As Geopolitical Tensions Rise",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nGeopolitical risks drive sentiment across the energy complex. However, the market still has one eye on the outlook for interest rates following economic data from China and the US. Crude oil ended the week largely unchanged despite wild swings as the market contemplated increasing geopolitical tensions amid signs of weak demand.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "prices",
+    "amid",
+    "concerns",
+    "demand",
+    "geopolitical"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 597,
+  "source_path": "reports/breakwave/2024/2024-01-15_oil-rebounds-as-geopolitical-tensions-rise.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/15/oil-rebounds-as-geopolitical-tensions-rise",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-15_2024_01_15_oil_rebounds_as_geopolitical_tensions_rise__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-15_2024_01_15_oil_rebounds_as_geopolitical_tensions_rise",
+      "parent_id": "breakwave_insights_insights_2024-01-15_2024_01_15_oil_rebounds_as_geopolitical_tensions_rise__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nGeopolitical risks drive sentiment across the energy complex. However, the market still has one eye on the outlook for interest rates following economic data from China and the US.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "iron_ore",
+        "crude_oil",
+        "steel",
+        "gas",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 595,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

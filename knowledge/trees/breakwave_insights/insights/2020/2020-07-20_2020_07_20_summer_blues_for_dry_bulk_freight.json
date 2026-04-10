@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-07-20_2020_07_20_summer_blues_for_dry_bulk_freight__root",
+  "doc_id": "breakwave_insights_insights_2020-07-20_2020_07_20_summer_blues_for_dry_bulk_freight",
+  "parent_id": null,
+  "title": "Summer Blues For Dry Bulk Freight",
+  "section_path": [
+    "Summer Blues For Dry Bulk Freight"
+  ],
+  "section_path_text": "Summer Blues For Dry Bulk Freight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFollowing its peak just two weeks ago at ~34,000, the Capesize index has been in a correction mode loosing almost 10,000 in value, in the process dragging Panamax rates down and possibly even Supramax rates soon. The recent supply tightness in the Atlantic remains but the demand has now declined versus early July and thus the slowdown in fixing activity is pushing rates lower. Freight futures have been range-bound over the last week or so, still pricing further declines in spot rates for the rest of the year, an outcome that seems contradictory to broader shipping fundamentals.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "atlantic",
+    "iron_ore",
+    "steel",
+    "production",
+    "year",
+    "rest",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 585,
+  "source_path": "reports/breakwave/2020/2020-07-20_summer-blues-for-dry-bulk-freight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/7/20/summer-blues-for-dry-bulk-freight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-07-20_2020_07_20_summer_blues_for_dry_bulk_freight__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-07-20_2020_07_20_summer_blues_for_dry_bulk_freight",
+      "parent_id": "breakwave_insights_insights_2020-07-20_2020_07_20_summer_blues_for_dry_bulk_freight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Following its peak just two weeks ago at ~34,000, the Capesize index has been in a correction mode loosing almost 10,000 in value, in the process dragging Panamax rates down and possibly even Supramax rates soon. The recent supply tightness in the Atlantic remains but the demand has now declined versus early July and thus the slowdown in fixing activity is pushing rates lower.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "atlantic",
+        "iron_ore",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 583,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

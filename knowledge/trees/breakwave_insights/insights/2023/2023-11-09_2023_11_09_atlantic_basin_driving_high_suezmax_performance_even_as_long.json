@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-09_2023_11_09_atlantic_basin_driving_high_suezmax_performance_even_as_long__root",
+  "doc_id": "breakwave_insights_insights_2023-11-09_2023_11_09_atlantic_basin_driving_high_suezmax_performance_even_as_long",
+  "parent_id": null,
+  "title": "Atlantic Basin Driving High Suezmax Performance Even As Long Haul Russian Employment Falters",
+  "section_path": [
+    "Atlantic Basin Driving High Suezmax Performance Even As Long Haul Russian Employment Falters"
+  ],
+  "section_path_text": "Atlantic Basin Driving High Suezmax Performance Even As Long Haul Russian Employment Falters",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Despite average voyage mileage reaching a 2023 low, a record-setting number of voyages and high tanker demand from West Africa was enough for Suezmax freight rates to reach 2023 highs in October. By Mary Melton\nSuezmax freight rates have surged to 2023 highs over the past month, but average mileage for all completed voyages on Suezmax tankers has continued to decrease for the past three months and is well below seasonal averages. Utilisation is increasing due to a high number of voyages but has not yet reached the multi-year high seen in April.",
+  "keywords": [
+    "suezmax",
+    "china",
+    "atlantic",
+    "pacific",
+    "meg",
+    "west_africa",
+    "europe",
+    "voyages",
+    "average",
+    "mileage",
+    "suezmaxes",
+    "voyage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 599,
+  "source_path": "reports/breakwave/2023/2023-11-09_atlantic-basin-driving-high-suezmax-performance-even-as-long.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/9/atlantic-basin-driving-high-suezmax-performance-even-as-long-haul-russian-employment-falters",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-09_2023_11_09_atlantic_basin_driving_high_suezmax_performance_even_as_long__s01_despite_average_voyage_mileage_reaching_a_2023_low_a_record_setting_number_of_voyages_and_high_tanker_demand_from_west_africa_was_enough_for_suezmax_freight_rates_to_reach_2023_highs_in_october",
+      "doc_id": "breakwave_insights_insights_2023-11-09_2023_11_09_atlantic_basin_driving_high_suezmax_performance_even_as_long",
+      "parent_id": "breakwave_insights_insights_2023-11-09_2023_11_09_atlantic_basin_driving_high_suezmax_performance_even_as_long__root",
+      "title": "Despite average voyage mileage reaching a 2023 low, a record-setting number of voyages and high tanker demand from West Africa was enough for Suezmax freight rates to reach 2023 highs in October.",
+      "section_path": [
+        "Despite average voyage mileage reaching a 2023 low, a record-setting number of voyages and high tanker demand from West Africa was enough for Suezmax freight rates to reach 2023 highs in October."
+      ],
+      "section_path_text": "Despite average voyage mileage reaching a 2023 low, a record-setting number of voyages and high tanker demand from West Africa was enough for Suezmax freight rates to reach 2023 highs in October.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Mary Melton\nSuezmax freight rates have surged to 2023 highs over the past month, but average mileage for all completed voyages on Suezmax tankers has continued to decrease for the past three months and is well below seasonal averages. Utilisation is increasing due to a high number of voyages but has not yet reached the multi-year high seen in April.",
+      "keywords": [
+        "suezmax",
+        "china",
+        "atlantic",
+        "pacific",
+        "meg",
+        "west_africa",
+        "europe",
+        "voyages"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 557,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

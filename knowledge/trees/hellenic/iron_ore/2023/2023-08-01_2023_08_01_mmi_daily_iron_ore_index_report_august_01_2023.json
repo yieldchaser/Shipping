@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-08-01_2023_08_01_mmi_daily_iron_ore_index_report_august_01_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-08-01_2023_08_01_mmi_daily_iron_ore_index_report_august_01_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 01 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 01 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 01 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 01/08/2023\nDCE iron ore futures rose by 0.96 % today, the main contract closed at 838.5.The traders' willingness to ship is general.The steel mills are not active to purchase.The overall trading sentiment of the market is less.PBF at Shandong port deal 871-872 yuan/mt,decrease 5-6 yuan/mt. PBF at Tangshan port deal 885 yuan/mt,increase 5 yuan/mt. According to SMM's maintenance data, the impact of blast furnace maintenance this week on molten iron is 1.2172 million tons, an increase of 4100 tons compared to last week's maintenance impact.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "maintenance",
+    "tons",
+    "blast",
+    "increase",
+    "ore",
+    "compared",
+    "deal",
+    "decrease"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 308,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-08-01_mmi-daily-iron-ore-index-report-august-01-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-01-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-08-01_2023_08_01_mmi_daily_iron_ore_index_report_august_01_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-08-01_2023_08_01_mmi_daily_iron_ore_index_report_august_01_2023",
+      "parent_id": "hellenic_iron_ore_2023-08-01_2023_08_01_mmi_daily_iron_ore_index_report_august_01_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 01/08/2023\nDCE iron ore futures rose by 0.96 % today, the main contract closed at 838.5.The traders' willingness to ship is general.The steel mills are not active to purchase.The overall trading sentiment of the market is less.PBF at Shandong port deal 871-872 yuan/mt,decrease 5-6 yuan/mt. PBF at Tangshan port deal 885 yuan/mt,increase 5 yuan/mt.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "maintenance",
+        "tons",
+        "blast",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 306,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

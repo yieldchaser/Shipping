@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-03-15_2021_03_16_chinese_economy_an_uneven_recovery_highlights_the_need_to_su__root",
+  "doc_id": "breakwave_insights_insights_2021-03-15_2021_03_16_chinese_economy_an_uneven_recovery_highlights_the_need_to_su",
+  "parent_id": null,
+  "title": "Chinese Economy An Uneven Recovery Highlights The Need To Support The Domestic Demand",
+  "section_path": [
+    "Chinese Economy An Uneven Recovery Highlights The Need To Support The Domestic Demand"
+  ],
+  "section_path_text": "Chinese Economy An Uneven Recovery Highlights The Need To Support The Domestic Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nHot on the heels of Chinese Premier Li Keqiang's speech, announcing that the country was targeting a fairly modest growth in excess of six per cent for the year, the latest economic data released on Monday suggest that large parts of the economy remain in rude health. Retail sales and industrial production grew by around 34 and 35 per cent respectively during the first two months of the year, beating the economists' expectations by a considerable margin. While the year-on-year growth numbers were distorted by the weak comparison base from a coronavirus-hit 2020, the fact that they were better than expected signals that the economy has continued to gain momentum in the first two months of 2021.",
+  "keywords": [
+    "container",
+    "china",
+    "data",
+    "year",
+    "economy",
+    "continued",
+    "chinese",
+    "domestic",
+    "economic",
+    "growth",
+    "industrial",
+    "likely"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 638,
+  "source_path": "reports/breakwave/2021/2021-03-16_chinese-economy-an-uneven-recovery-highlights-the-need-to-su.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/3/15/chinese-economy-an-uneven-recovery-highlights-the-need-to-support-the-domestic-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-03-15_2021_03_16_chinese_economy_an_uneven_recovery_highlights_the_need_to_su__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-03-15_2021_03_16_chinese_economy_an_uneven_recovery_highlights_the_need_to_su",
+      "parent_id": "breakwave_insights_insights_2021-03-15_2021_03_16_chinese_economy_an_uneven_recovery_highlights_the_need_to_su__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nHot on the heels of Chinese Premier Li Keqiang's speech, announcing that the country was targeting a fairly modest growth in excess of six per cent for the year, the latest economic data released on Monday suggest that large parts of the economy remain in rude health. Retail sales and industrial production grew by around 34 and 35 per cent respectively during the first two months of the year, beating the economists' expectations by a considerable margin.",
+      "keywords": [
+        "container",
+        "china",
+        "data",
+        "year",
+        "economy",
+        "continued",
+        "chinese",
+        "domestic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 636,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

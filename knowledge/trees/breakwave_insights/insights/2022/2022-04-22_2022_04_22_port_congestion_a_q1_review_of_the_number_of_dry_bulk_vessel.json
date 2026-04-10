@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__root",
+  "doc_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel",
+  "parent_id": null,
+  "title": "Port Congestion A Q1 Review Of The Number Of Dry Bulk Vessels",
+  "section_path": [
+    "Port Congestion A Q1 Review Of The Number Of Dry Bulk Vessels"
+  ],
+  "section_path_text": "Port Congestion A Q1 Review Of The Number Of Dry Bulk Vessels",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe first quarter of the year comes with an overall upward trend in the number of vessels in waiting and operating status at worldwide ports. Although the last year seemed to be the year of record-high levels, we have seen even stronger figures each month in 2022. In the below screenshot from the Signal Ocean Platform , we view the number of vessels congested at worldwide ports and it is clear that even April comes with a higher trend than the same month last year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "vessels",
+    "congestion",
+    "port",
+    "ports",
+    "number"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1149,
+  "source_path": "reports/breakwave/2022/2022-04-22_port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessel.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/4/22/port-congestion-a-q1-review-of-the-number-of-dry-bulk-vessels",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel",
+      "parent_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The first quarter of the year comes with an overall upward trend in the number of vessels in waiting and operating status at worldwide ports. Although the last year seemed to be the year of record-high levels, we have seen even stronger figures each month in 2022.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "year",
+        "last",
+        "levels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 305,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__s03_capesize_500_vessels",
+      "doc_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel",
+      "parent_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__root",
+      "title": "Capesize ~ 500 Vessels",
+      "section_path": [
+        "Capesize ~ 500 Vessels"
+      ],
+      "section_path_text": "Capesize ~ 500 Vessels",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Image 2 Capesize | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020",
+      "keywords": [
+        "capesize",
+        "average",
+        "congestion",
+        "days",
+        "image",
+        "moving",
+        "ocean",
+        "platform"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__s04_panamax_1000_vessels",
+      "doc_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel",
+      "parent_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__root",
+      "title": "Panamax ~ 1000 Vessels",
+      "section_path": [
+        "Panamax ~ 1000 Vessels"
+      ],
+      "section_path_text": "Panamax ~ 1000 Vessels",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Image 3 Panamax | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020",
+      "keywords": [
+        "panamax",
+        "average",
+        "congestion",
+        "days",
+        "image",
+        "moving",
+        "ocean",
+        "platform"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__s05_supramax_1500_vessels",
+      "doc_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel",
+      "parent_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__root",
+      "title": "Supramax ~ 1500 Vessels",
+      "section_path": [
+        "Supramax ~ 1500 Vessels"
+      ],
+      "section_path_text": "Supramax ~ 1500 Vessels",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Image 4 Supramax | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020",
+      "keywords": [
+        "supramax",
+        "average",
+        "congestion",
+        "days",
+        "image",
+        "moving",
+        "ocean",
+        "platform"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__s06_handysize_1300_vessels",
+      "doc_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel",
+      "parent_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__root",
+      "title": "Handysize ~ 1300 Vessels",
+      "section_path": [
+        "Handysize ~ 1300 Vessels"
+      ],
+      "section_path_text": "Handysize ~ 1300 Vessels",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Image 5 Handysize | Source: The Signal Ocean Platform Port Congestion, Worldwide Ports, 3 days moving average, Years 2022-2021-2020\n‍\nIt is interesting to examine the breakdown of volume per port and distinguish today's top ports' activity (April 20), where we will see that Chinese ports come in the first ranking along with Brazil and Australia. Tianjin, Santos, Ningbo, and Port Hedland appear to be the hotspots for vessel congestion.",
+      "keywords": [
+        "handysize",
+        "china",
+        "brazil",
+        "australia",
+        "port",
+        "ports",
+        "activity",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 166,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__s07_summary_of_chinese_dry_bulk_ship_congestions_increasing",
+      "doc_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel",
+      "parent_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__root",
+      "title": "Summary of Chinese Dry Bulk Ship Congestions - Increasing",
+      "section_path": [
+        "Summary of Chinese Dry Bulk Ship Congestions - Increasing"
+      ],
+      "section_path_text": "Summary of Chinese Dry Bulk Ship Congestions - Increasing",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "With an overall eye on the latest status of Chinese dry bulk ship congestions, we see a sharp increasing trend for the last two consecutive weeks of April as the Chinese economy continues with zero-COVID measures while the rest of the world has decided to live with coronavirus. Graph 1 | Source: The Signal Ocean Data, Summary of Chinese Dry Bulk Ship Congestions, per Vessel Class, Years 2021-2022\nThe situation is extremely tight in Shanghai , where there has been a complete lockdown for half a month at high social and economic costs.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "congestion",
+        "increase",
+        "number"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 383,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__s08_conclusion",
+      "doc_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel",
+      "parent_id": "breakwave_insights_insights_2022-04-22_2022_04_22_port_congestion_a_q1_review_of_the_number_of_dry_bulk_vessel__root",
+      "title": "Conclusion ‍",
+      "section_path": [
+        "Conclusion ‍"
+      ],
+      "section_path_text": "Conclusion ‍",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Looking at the next days of April, the strict policy of China's zero-COVID is likely to prolong the escalated levels of vessels congestion already recorded in the dry bulk segment. It seems that the second quarter of the year may bring new highs that we have not seen even 12 months ago, as the Chinese zero-COVID policy along with the current Russia-Ukraine geopolitical uncertainties stimulates an upward swing in the freight rates supported by the port supply disruptions and logistics issues.",
+      "keywords": [
+        "china",
+        "policy",
+        "zero-covid",
+        "ago",
+        "along",
+        "already",
+        "april",
+        "bring"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 101,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

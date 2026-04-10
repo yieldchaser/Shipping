@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-04-09_2022_04_09_middle_east_is_not_the_place_to_look_at_for_european_re_supp__root",
+  "doc_id": "breakwave_insights_insights_2022-04-09_2022_04_09_middle_east_is_not_the_place_to_look_at_for_european_re_supp",
+  "parent_id": null,
+  "title": "Middle East Is Not The Place To Look At For European Re Supply",
+  "section_path": [
+    "Middle East Is Not The Place To Look At For European Re Supply"
+  ],
+  "section_path_text": "Middle East Is Not The Place To Look At For European Re Supply",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy David Wech\nThe oil and gas markets are watching the steady escalation of the Russia-Ukraine war. The situation now easily has the potential to become the biggest challenge in the two markets' history. This raises the question about alternative supply sources from a European perspective, but ultimately also from a global one, as Russian production shut-ins are very likely already happening across the hydrocarbon slate.",
+  "keywords": [
+    "lng",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "middle",
+    "european",
+    "but",
+    "eastern",
+    "are",
+    "diesel",
+    "east"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 900,
+  "source_path": "reports/breakwave/2022/2022-04-09_middle-east-is-not-the-place-to-look-at-for-european-re-supp.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/4/9/middle-east-is-not-the-place-to-look-at-for-european-re-supply",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-04-09_2022_04_09_middle_east_is_not_the_place_to_look_at_for_european_re_supp__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-04-09_2022_04_09_middle_east_is_not_the_place_to_look_at_for_european_re_supp",
+      "parent_id": "breakwave_insights_insights_2022-04-09_2022_04_09_middle_east_is_not_the_place_to_look_at_for_european_re_supp__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By David Wech\nThe oil and gas markets are watching the steady escalation of the Russia-Ukraine war. The situation now easily has the potential to become the biggest challenge in the two markets' history.",
+      "keywords": [
+        "lng",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "middle",
+        "european",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 898,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

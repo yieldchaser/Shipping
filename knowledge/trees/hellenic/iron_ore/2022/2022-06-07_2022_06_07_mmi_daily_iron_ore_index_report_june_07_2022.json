@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-06-07_2022_06_07_mmi_daily_iron_ore_index_report_june_07_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-06-07_2022_06_07_mmi_daily_iron_ore_index_report_june_07_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report June 07 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report June 07 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report June 07 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 07/06/2022\nDCE iron ore futures had wide amplitude oscillation operation. The main contract closed 928.5,decreased of 0.59%. Traders are generallyenthusiastic about selling, steel mills are mainly keep take and see attitude, and the market transaction atmosphere is positive.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "tons",
+    "last",
+    "million",
+    "period",
+    "decreased",
+    "month",
+    "yuan/mt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 365,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-06-07_mmi-daily-iron-ore-index-report-june-07-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-june-07-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-06-07_2022_06_07_mmi_daily_iron_ore_index_report_june_07_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-06-07_2022_06_07_mmi_daily_iron_ore_index_report_june_07_2022",
+      "parent_id": "hellenic_iron_ore_2022-06-07_2022_06_07_mmi_daily_iron_ore_index_report_june_07_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 07/06/2022\nDCE iron ore futures had wide amplitude oscillation operation. The main contract closed 928.5,decreased of 0.59%.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "tons",
+        "last",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 363,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

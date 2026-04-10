@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-18_2024_01_18_metals_fall_following_mixed_economic_data_in_china__root",
+  "doc_id": "breakwave_insights_insights_2024-01-18_2024_01_18_metals_fall_following_mixed_economic_data_in_china",
+  "parent_id": null,
+  "title": "Metals Fall Following Mixed Economic Data In China",
+  "section_path": [
+    "Metals Fall Following Mixed Economic Data In China"
+  ],
+  "section_path_text": "Metals Fall Following Mixed Economic Data In China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nDisappointing economic data weighed on sentiment across the commodities complex. A stronger USD also kept investor appetite low. Copper extended recent losses after economic data in China missed expectations.",
+  "keywords": [
+    "lng",
+    "china",
+    "singapore",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "data",
+    "economic",
+    "oil",
+    "recent",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 628,
+  "source_path": "reports/breakwave/2024/2024-01-18_metals-fall-following-mixed-economic-data-in-china.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/18/metals-fall-following-mixed-economic-data-in-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-18_2024_01_18_metals_fall_following_mixed_economic_data_in_china__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-18_2024_01_18_metals_fall_following_mixed_economic_data_in_china",
+      "parent_id": "breakwave_insights_insights_2024-01-18_2024_01_18_metals_fall_following_mixed_economic_data_in_china__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nDisappointing economic data weighed on sentiment across the commodities complex. A stronger USD also kept investor appetite low.",
+      "keywords": [
+        "lng",
+        "china",
+        "singapore",
+        "iron_ore",
+        "crude_oil",
+        "steel",
+        "gas",
+        "data"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 626,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

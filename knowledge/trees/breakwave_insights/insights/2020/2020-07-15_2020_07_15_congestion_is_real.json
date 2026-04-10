@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-07-15_2020_07_15_congestion_is_real__root",
+  "doc_id": "breakwave_insights_insights_2020-07-15_2020_07_15_congestion_is_real",
+  "parent_id": null,
+  "title": "Congestion Is Real",
+  "section_path": [
+    "Congestion Is Real"
+  ],
+  "section_path_text": "Congestion Is Real",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAlthough most of the market narrative related to the recent rally has been focusing on the demand side, especially increasing iron ore export volume out of Brazil and Australia, little has been said about the supply side. That is natural, as supply changes are slow to evolve mainly reflecting new vessel deliveries and scrapping of older, less efficient vessels, both of which are slow moving parameters. Yet, a major factor when it comes to short term supply changes is port congestion.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "congestion",
+    "are",
+    "port",
+    "global",
+    "supply",
+    "almost",
+    "changes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 429,
+  "source_path": "reports/breakwave/2020/2020-07-15_congestion-is-real.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/7/15/congestion-is-real",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-07-15_2020_07_15_congestion_is_real__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-07-15_2020_07_15_congestion_is_real",
+      "parent_id": "breakwave_insights_insights_2020-07-15_2020_07_15_congestion_is_real__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Although most of the market narrative related to the recent rally has been focusing on the demand side, especially increasing iron ore export volume out of Brazil and Australia, little has been said about the supply side. That is natural, as supply changes are slow to evolve mainly reflecting new vessel deliveries and scrapping of older, less efficient vessels, both of which are slow moving parameters.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "congestion",
+        "are",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 427,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

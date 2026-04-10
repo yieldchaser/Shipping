@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-11-02_2021_11_02_coal_prices_taking_a_tumble__root",
+  "doc_id": "breakwave_insights_insights_2021-11-02_2021_11_02_coal_prices_taking_a_tumble",
+  "parent_id": null,
+  "title": "Coal Prices Taking A Tumble",
+  "section_path": [
+    "Coal Prices Taking A Tumble"
+  ],
+  "section_path_text": "Coal Prices Taking A Tumble",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe new month has started rather dramatically for the coal markets. In the shadow of the United Nations' COP26 summit on climate change, market prices for what is perceived to be one of the largest culprits are tumbling. The first trading session of the month saw gC Newcastle thermal coal futures dropping by a third to 150 dollars per tonne, which is the lowest since the end of July.",
+  "keywords": [
+    "china",
+    "europe",
+    "coal",
+    "gas",
+    "million",
+    "per",
+    "prices",
+    "tonnes",
+    "year",
+    "cent",
+    "chinese",
+    "energy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 817,
+  "source_path": "reports/breakwave/2021/2021-11-02_coal-prices-taking-a-tumble.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/11/2/coal-prices-taking-a-tumble",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-11-02_2021_11_02_coal_prices_taking_a_tumble__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-11-02_2021_11_02_coal_prices_taking_a_tumble",
+      "parent_id": "breakwave_insights_insights_2021-11-02_2021_11_02_coal_prices_taking_a_tumble__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe new month has started rather dramatically for the coal markets. In the shadow of the United Nations' COP26 summit on climate change, market prices for what is perceived to be one of the largest culprits are tumbling.",
+      "keywords": [
+        "china",
+        "europe",
+        "coal",
+        "gas",
+        "million",
+        "per",
+        "prices",
+        "tonnes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 815,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

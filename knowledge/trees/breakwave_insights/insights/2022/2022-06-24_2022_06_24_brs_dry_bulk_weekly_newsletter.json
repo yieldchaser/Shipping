@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter__root",
+  "doc_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter",
+  "parent_id": null,
+  "title": "Brs Dry Bulk Weekly Newsletter",
+  "section_path": [
+    "Brs Dry Bulk Weekly Newsletter"
+  ],
+  "section_path_text": "Brs Dry Bulk Weekly Newsletter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "1H 2022 Recap and 2H Outlook\nIn a blink of the eye, we are near the mid-way mark of 2022. Concurrent and/or sequential events (Ukrainian war's impact on crude oil and inflation, Indonesia & India imposing abrupt changes to their exports policies for various commodities etc) had massive repercussions on the shipping markets down the road. Yet, these events tend to have time-lagged effects which made mapping out the mid-term outlook for dry freight a rather hazardous exercise.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "europe",
+    "india",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1005,
+  "source_path": "reports/breakwave/2022/2022-06-24_brs-dry-bulk-weekly-newsletter.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/24/brs-dry-bulk-weekly-newsletter",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter__s01_1h_2022_recap_and_2h_outlook",
+      "doc_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter__root",
+      "title": "1H 2022 Recap and 2H Outlook",
+      "section_path": [
+        "1H 2022 Recap and 2H Outlook"
+      ],
+      "section_path_text": "1H 2022 Recap and 2H Outlook",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In a blink of the eye, we are near the mid-way mark of 2022. Concurrent and/or sequential events (Ukrainian war's impact on crude oil and inflation, Indonesia & India imposing abrupt changes to their exports policies for various commodities etc) had massive repercussions on the shipping markets down the road.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "europe",
+        "india",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 557,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter__s02_freight_rates",
+      "doc_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter__root",
+      "title": "FREIGHT RATES",
+      "section_path": [
+        "FREIGHT RATES"
+      ],
+      "section_path_text": "FREIGHT RATES",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "As mentioned above, despite the few % drop in YTD drybulk volumes, the drybulk market had managed to keep a relatively firm footing in the 1H-22. That said, there's still a distinction between Cape and sub-capes segments performance.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "brazil",
+        "australia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 291,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter__s03_bunkers",
+      "doc_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2022-06-24_2022_06_24_brs_dry_bulk_weekly_newsletter__root",
+      "title": "BUNKERS",
+      "section_path": [
+        "BUNKERS"
+      ],
+      "section_path_text": "BUNKERS",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "As Russian crude oil shipments divert toward Asia instead of USA & Europe, this flooded the region with copious volumes of IFO380 just as supply for distillates was unable to meet end-consumer demands, widening the Singapore scrubber spread (VLSFO- IFO 380) which hit north of $500/mt by early Jun-22. Even the Rotterdam scrubber spread had risen in tandem to a peak $380/mt.",
+      "keywords": [
+        "europe",
+        "singapore",
+        "crude_oil",
+        "had",
+        "placed",
+        "potential",
+        "scrubber",
+        "spread"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

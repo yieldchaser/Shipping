@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-09_2022_09_09_metals_gain_as_tightness_in_physical_markets_comes_into_focu__root",
+  "doc_id": "breakwave_insights_insights_2022-09-09_2022_09_09_metals_gain_as_tightness_in_physical_markets_comes_into_focu",
+  "parent_id": null,
+  "title": "Metals Gain As Tightness In Physical Markets Comes Into Focus",
+  "section_path": [
+    "Metals Gain As Tightness In Physical Markets Comes Into Focus"
+  ],
+  "section_path_text": "Metals Gain As Tightness In Physical Markets Comes Into Focus",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nCommodity markets shrugged off a stronger USD and hawkish central bankers to focus on tightness in physical markets. Falling inventories and strong premiums helped boost sentiment. Copper led the base metals sector higher amid signs of physical tightness despite the global economic headwinds.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "oil",
+    "demand",
+    "energy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 728,
+  "source_path": "reports/breakwave/2022/2022-09-09_metals-gain-as-tightness-in-physical-markets-comes-into-focu.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/9/metals-gain-as-tightness-in-physical-markets-comes-into-focus",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-09_2022_09_09_metals_gain_as_tightness_in_physical_markets_comes_into_focu__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-09_2022_09_09_metals_gain_as_tightness_in_physical_markets_comes_into_focu",
+      "parent_id": "breakwave_insights_insights_2022-09-09_2022_09_09_metals_gain_as_tightness_in_physical_markets_comes_into_focu__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nCommodity markets shrugged off a stronger USD and hawkish central bankers to focus on tightness in physical markets. Falling inventories and strong premiums helped boost sentiment.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 726,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

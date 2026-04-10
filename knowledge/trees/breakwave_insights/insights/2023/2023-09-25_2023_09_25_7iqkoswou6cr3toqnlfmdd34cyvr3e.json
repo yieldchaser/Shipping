@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-25_2023_09_25_7iqkoswou6cr3toqnlfmdd34cyvr3e__root",
+  "doc_id": "breakwave_insights_insights_2023-09-25_2023_09_25_7iqkoswou6cr3toqnlfmdd34cyvr3e",
+  "parent_id": null,
+  "title": "7Iqkoswou6Cr3Toqnlfmdd34Cyvr3E",
+  "section_path": [
+    "7Iqkoswou6Cr3Toqnlfmdd34Cyvr3E"
+  ],
+  "section_path_text": "7Iqkoswou6Cr3Toqnlfmdd34Cyvr3E",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"Whilst higher rates seem to be the new reality and inflation remains stubbornly above medium-term target, Baltic indices managed to step on China's positive momentum of late and take a much-needed breather.\"\nBy Michalis Voutsinas\n\"The dry bulk market spent most part of the thirty-eighth trading week trying to understand which narrative to follow. On the one hand, most of the major central banks reasserted their commitments to tame a galloping inflation, stressing that a painless way to achieve this goal might not be on the table anymore. On the other hand, hopes of more stimulus to shore up China's Covid-hit economy added to the buoyant mood of late.",
+  "keywords": [
+    "china",
+    "europe",
+    "japan",
+    "bank",
+    "policy",
+    "inflation",
+    "interest",
+    "central",
+    "its",
+    "monetary",
+    "target",
+    "decided"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1040,
+  "source_path": "reports/breakwave/2023/2023-09-25_7iqkoswou6cr3toqnlfmdd34cyvr3e.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/25/7iqkoswou6cr3toqnlfmdd34cyvr3e",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-25_2023_09_25_7iqkoswou6cr3toqnlfmdd34cyvr3e__s01_whilst_higher_rates_seem_to_be_the_new_reality_and_inflation_remains_stubbornly_above_medium_term_target_baltic_indices_managed_to_step_on_china_s_positive_momentum_of_late_and_take_a_much_needed_breather",
+      "doc_id": "breakwave_insights_insights_2023-09-25_2023_09_25_7iqkoswou6cr3toqnlfmdd34cyvr3e",
+      "parent_id": "breakwave_insights_insights_2023-09-25_2023_09_25_7iqkoswou6cr3toqnlfmdd34cyvr3e__root",
+      "title": "\"Whilst higher rates seem to be the new reality and inflation remains stubbornly above medium-term target, Baltic indices managed to step on China's positive momentum of late and take a much-needed breather.\"",
+      "section_path": [
+        "\"Whilst higher rates seem to be the new reality and inflation remains stubbornly above medium-term target, Baltic indices managed to step on China's positive momentum of late and take a much-needed breather.\""
+      ],
+      "section_path_text": "\"Whilst higher rates seem to be the new reality and inflation remains stubbornly above medium-term target, Baltic indices managed to step on China's positive momentum of late and take a much-needed breather.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\n\"The dry bulk market spent most part of the thirty-eighth trading week trying to understand which narrative to follow. On the one hand, most of the major central banks reasserted their commitments to tame a galloping inflation, stressing that a painless way to achieve this goal might not be on the table anymore.",
+      "keywords": [
+        "china",
+        "europe",
+        "japan",
+        "bank",
+        "policy",
+        "interest",
+        "inflation",
+        "central"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1000,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

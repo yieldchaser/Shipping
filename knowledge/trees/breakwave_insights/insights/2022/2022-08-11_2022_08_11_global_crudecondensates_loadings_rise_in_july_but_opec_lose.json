@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-11_2022_08_11_global_crudecondensates_loadings_rise_in_july_but_opec_lose__root",
+  "doc_id": "breakwave_insights_insights_2022-08-11_2022_08_11_global_crudecondensates_loadings_rise_in_july_but_opec_lose",
+  "parent_id": null,
+  "title": "Global Crudecondensates Loadings Rise In July But Opec Lose Share",
+  "section_path": [
+    "Global Crudecondensates Loadings Rise In July But Opec Lose Share"
+  ],
+  "section_path_text": "Global Crudecondensates Loadings Rise In July But Opec Lose Share",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nGlobal seaborne liftings in July rose sharply m-o-m to almost 49mbd, the highest monthly total seen since April 2020. Amid a worsening macroeconomic outlook, rising waterborne supplies may well add even more pressure to short term crude prices. By Jay Maroo\nGlobal crude/condensate loadings in July posted a 2.1mbd m-o-m rise, reversing the previous two months' declines.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "loadings",
+    "mbd",
+    "july",
+    "crude",
+    "opec",
+    "m-o-m",
+    "global",
+    "kbd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 678,
+  "source_path": "reports/breakwave/2022/2022-08-11_global-crudecondensates-loadings-rise-in-july-but-opec-lose.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/11/global-crudecondensates-loadings-rise-in-july-but-opec-lose-share",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-11_2022_08_11_global_crudecondensates_loadings_rise_in_july_but_opec_lose__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-08-11_2022_08_11_global_crudecondensates_loadings_rise_in_july_but_opec_lose",
+      "parent_id": "breakwave_insights_insights_2022-08-11_2022_08_11_global_crudecondensates_loadings_rise_in_july_but_opec_lose__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Global seaborne liftings in July rose sharply m-o-m to almost 49mbd, the highest monthly total seen since April 2020. Amid a worsening macroeconomic outlook, rising waterborne supplies may well add even more pressure to short term crude prices.",
+      "keywords": [
+        "crude_oil",
+        "july",
+        "loadings",
+        "crude/condensate",
+        "global",
+        "mbd",
+        "opec",
+        "m-o-m"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-08-11_2022_08_11_global_crudecondensates_loadings_rise_in_july_but_opec_lose__s02_key_takeaways_for_july_loadings",
+      "doc_id": "breakwave_insights_insights_2022-08-11_2022_08_11_global_crudecondensates_loadings_rise_in_july_but_opec_lose",
+      "parent_id": "breakwave_insights_insights_2022-08-11_2022_08_11_global_crudecondensates_loadings_rise_in_july_but_opec_lose__root",
+      "title": "Key takeaways for July loadings:",
+      "section_path": [
+        "Key takeaways for July loadings:"
+      ],
+      "section_path_text": "Key takeaways for July loadings:",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Total OPEC crude loadings stood at around 22mbd in July, approx. 600kbd higher than June, but loadings from the rest of the word (excluding Russia), rose by 1.55mbd over the same period to also reach 22mbd\nRussian loadings remain largely unchanged m-o-m at 4.9mbd, but a reduction in flows from the Far East Russia, Siberia and the Baltics was offset by higher Black Sea loadings\nWithin the core OPEC group, Saudi loadings continued to be the main source of growth, rising by around 700kbd m-o-m to 8.2mbd - the highest monthly total seen since April 2020 - UAE and Iraq loadings also increased m-o-m by a combined 550kbd\nNigerian loadings continued their downward trajectory in July, falling to just 1.2 mbd, a new record low - changes to loadings schedules and more general concerns over the reliability of exports have also dampened traders' interest\nLooking at non-OPEC+ loadings, a key source of growth in July was from the Americas, as the US, Brazil and Mexico all increased loading activity by a combined 600kbd - though Europe is keen on taking more transatlantic crude, stronger Asian demand has pulled more cargoes further east\nGiven the backdrop of weaker pricing across the oil complex -",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "loadings",
+        "mbd",
+        "crude",
+        "kbd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 485,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

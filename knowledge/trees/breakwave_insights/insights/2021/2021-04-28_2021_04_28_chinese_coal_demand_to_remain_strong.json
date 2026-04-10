@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-28_2021_04_28_chinese_coal_demand_to_remain_strong__root",
+  "doc_id": "breakwave_insights_insights_2021-04-28_2021_04_28_chinese_coal_demand_to_remain_strong",
+  "parent_id": null,
+  "title": "Chinese Coal Demand To Remain Strong",
+  "section_path": [
+    "Chinese Coal Demand To Remain Strong"
+  ],
+  "section_path_text": "Chinese Coal Demand To Remain Strong",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we have been discussing in our Weekly China Reports, it has been very encouraging for the dry bulk market that China's coal-derived electricity generation growth returned to exceeding coal production growth last month. Coal-derived electricity generation rose year-on-year by 27% in March, while coal production was flat. In addition, another key theme in our reports in recent months has been that China's coal-derived electricity generation has been poised to stay strong even as renewable sources of electricity continue to experience their own production increases.",
+  "keywords": [
+    "china",
+    "coal",
+    "production",
+    "electricity",
+    "year-on-year",
+    "power",
+    "coal-derived",
+    "generation",
+    "marked",
+    "last",
+    "growth",
+    "billion"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 546,
+  "source_path": "reports/breakwave/2021/2021-04-28_chinese-coal-demand-to-remain-strong.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/28/chinese-coal-demand-to-remain-strong",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-28_2021_04_28_chinese_coal_demand_to_remain_strong__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-28_2021_04_28_chinese_coal_demand_to_remain_strong",
+      "parent_id": "breakwave_insights_insights_2021-04-28_2021_04_28_chinese_coal_demand_to_remain_strong__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we have been discussing in our Weekly China Reports, it has been very encouraging for the dry bulk market that China's coal-derived electricity generation growth returned to exceeding coal production growth last month. Coal-derived electricity generation rose year-on-year by 27% in March, while coal production was flat.",
+      "keywords": [
+        "china",
+        "coal",
+        "production",
+        "electricity",
+        "year-on-year",
+        "power",
+        "coal-derived",
+        "generation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 544,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

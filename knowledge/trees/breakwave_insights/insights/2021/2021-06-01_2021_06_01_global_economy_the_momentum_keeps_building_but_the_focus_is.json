@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-06-01_2021_06_01_global_economy_the_momentum_keeps_building_but_the_focus_is__root",
+  "doc_id": "breakwave_insights_insights_2021-06-01_2021_06_01_global_economy_the_momentum_keeps_building_but_the_focus_is",
+  "parent_id": null,
+  "title": "Global Economy The Momentum Keeps Building But The Focus Is Shifting",
+  "section_path": [
+    "Global Economy The Momentum Keeps Building But The Focus Is Shifting"
+  ],
+  "section_path_text": "Global Economy The Momentum Keeps Building But The Focus Is Shifting",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAt the same time as the Chinese economy is showing some signs of plateauing, the OECD has upgraded its projections for global economic growth. The parallel events highlight the widely expected shift in post-pandemic growth, with the focus moving away from China to other parts of the world. The official Chinese purchasing managers' index (PMI) for May was released on Monday and at 51.0 was only just below April's disappointing reading of 51.1.",
+  "keywords": [
+    "capesize",
+    "china",
+    "india",
+    "iron_ore",
+    "steel",
+    "chinese",
+    "may",
+    "economy",
+    "was",
+    "are",
+    "commodity",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 882,
+  "source_path": "reports/breakwave/2021/2021-06-01_global-economy-the-momentum-keeps-building-but-the-focus-is.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/6/1/global-economy-the-momentum-keeps-building-but-the-focus-is-shifting",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-06-01_2021_06_01_global_economy_the_momentum_keeps_building_but_the_focus_is__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-06-01_2021_06_01_global_economy_the_momentum_keeps_building_but_the_focus_is",
+      "parent_id": "breakwave_insights_insights_2021-06-01_2021_06_01_global_economy_the_momentum_keeps_building_but_the_focus_is__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAt the same time as the Chinese economy is showing some signs of plateauing, the OECD has upgraded its projections for global economic growth. The parallel events highlight the widely expected shift in post-pandemic growth, with the focus moving away from China to other parts of the world.",
+      "keywords": [
+        "capesize",
+        "china",
+        "india",
+        "iron_ore",
+        "steel",
+        "chinese",
+        "may",
+        "economy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 880,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

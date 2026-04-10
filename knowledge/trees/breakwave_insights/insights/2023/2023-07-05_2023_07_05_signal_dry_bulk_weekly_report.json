@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: The Black Sea Grain Shipments\nDominant Destination: China Receives the Lion's Share of Black Sea Grain Shipments\nThe initial days of July concluded on a positive note, with a buoyant sentiment surrounding vessel freight rates in the Capesize segment. Additionally, both the Panamax and Supramax segments experienced a firmer momentum. However, the uncertainty surrounding the potential extension of the Black Sea Grain Initiative casts a shadow over the outlook for smaller vessel sizes.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "grain",
+    "steel",
+    "vessel",
+    "trend"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1435,
+  "source_path": "reports/breakwave/2023/2023-07-05_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/5/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__s01_chart_of_the_week_the_black_sea_grain_shipments",
+      "doc_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week: The Black Sea Grain Shipments",
+      "section_path": [
+        "Chart of the Week: The Black Sea Grain Shipments"
+      ],
+      "section_path_text": "Chart of the Week: The Black Sea Grain Shipments",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dominant Destination: China Receives the Lion's Share of Black Sea Grain Shipments\nThe initial days of July concluded on a positive note, with a buoyant sentiment surrounding vessel freight rates in the Capesize segment. Additionally, both the Panamax and Supramax segments experienced a firmer momentum.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "iron_ore",
+        "grain",
+        "steel",
+        "black"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 280,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Firmer\nTowards the conclusion of the second quarter of this year, the freight rates experienced a notable upswing, signaling a more robust momentum in the industry. Simultaneously, the Capesize segment continues to demonstrate a consistent level of momentum, comparable to that observed ten weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 285,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (# vessels) Decreasing\nThe initial week of July remains consistent with the declining pattern observed towards the end of June, as the number of ballasters hovers around the annual average for most vessel sizes. However, it is noteworthy that the Panamax vessel size deviates from this trend, showcasing a distinct pattern in contrast to the other vessel categories.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessel",
+        "annual",
+        "count",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 289,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size TonneDays Increasing\nJuly witnessed a notable surge in demand growth, further propelling the positive momentum in the shipping industry. Among the various segments, the Capesize category continued to attract significant attention, as it consistently experienced weekly increases.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "growth",
+        "trend",
+        "continued",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 234,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-07-05_2023_07_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports\nThe month of July maintains the positive trajectory observed in the previous month, as congestion levels for Supramax and Handysize vessel sizes continue to rise, indicating a higher volume of shipping bottlenecks. Capesize : Contrary to predictions of increased congestion, the current number of vessels stands at approximately 118, surpassing the count from three weeks ago by three.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "congestion",
+        "vessels",
+        "levels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 304,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

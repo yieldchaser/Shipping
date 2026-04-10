@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-23_2023_03_23_jsg1mnc919cdlntpj81a1ciys1ak34__root",
+  "doc_id": "breakwave_insights_insights_2023-03-23_2023_03_23_jsg1mnc919cdlntpj81a1ciys1ak34",
+  "parent_id": null,
+  "title": "Jsg1Mnc919Cdlntpj81A1Ciys1Ak34",
+  "section_path": [
+    "Jsg1Mnc919Cdlntpj81A1Ciys1Ak34"
+  ],
+  "section_path_text": "Jsg1Mnc919Cdlntpj81A1Ciys1Ak34",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTankers from the word tank, as these ships were created to transport liquids such as crude oil and petroleum products. During their creation, large capacity tanks were envisioned, which could safely and quickly transport liquids\n\nTankers transport 2/3 of all crude\nThe crude tanker market exists due to the geographic distances between oil fields and refining capacity. Oil fields that are economically viable to extract are geographically concentrated.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "are",
+    "oil",
+    "crude",
+    "transport",
+    "fields",
+    "liquids",
+    "tankers",
+    "all",
+    "assets",
+    "between"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 109,
+  "source_path": "reports/breakwave/2023/2023-03-23_jsg1mnc919cdlntpj81a1ciys1ak34.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/23/jsg1mnc919cdlntpj81a1ciys1ak34",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-23_2023_03_23_jsg1mnc919cdlntpj81a1ciys1ak34__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-23_2023_03_23_jsg1mnc919cdlntpj81a1ciys1ak34",
+      "parent_id": "breakwave_insights_insights_2023-03-23_2023_03_23_jsg1mnc919cdlntpj81a1ciys1ak34__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tankers from the word tank, as these ships were created to transport liquids such as crude oil and petroleum products. During their creation, large capacity tanks were envisioned, which could safely and quickly transport liquids",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "liquids",
+        "transport",
+        "capacity",
+        "could",
+        "created",
+        "creation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-23_2023_03_23_jsg1mnc919cdlntpj81a1ciys1ak34__s02_tankers_transport_2_3_of_all_crude",
+      "doc_id": "breakwave_insights_insights_2023-03-23_2023_03_23_jsg1mnc919cdlntpj81a1ciys1ak34",
+      "parent_id": "breakwave_insights_insights_2023-03-23_2023_03_23_jsg1mnc919cdlntpj81a1ciys1ak34__root",
+      "title": "Tankers transport 2/3 of all crude",
+      "section_path": [
+        "Tankers transport 2/3 of all crude"
+      ],
+      "section_path_text": "Tankers transport 2/3 of all crude",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The crude tanker market exists due to the geographic distances between oil fields and refining capacity. Oil fields that are economically viable to extract are geographically concentrated.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "are",
+        "oil",
+        "fields",
+        "assets",
+        "between",
+        "built"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 55,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

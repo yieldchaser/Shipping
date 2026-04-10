@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-29_2022_08_01_chinas_coal_imports_from_russia_continue_to_climb_as_predict__root",
+  "doc_id": "breakwave_insights_insights_2022-07-29_2022_08_01_chinas_coal_imports_from_russia_continue_to_climb_as_predict",
+  "parent_id": null,
+  "title": "Chinas Coal Imports From Russia Continue To Climb As Predicted",
+  "section_path": [
+    "Chinas Coal Imports From Russia Continue To Climb As Predicted"
+  ],
+  "section_path_text": "Chinas Coal Imports From Russia Continue To Climb As Predicted",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina's coal import data for June by origin has been released and shows imports from Indonesia have remained the primary source of imports and Russia the second largest source of imports. Also of note regarding Russian imports is that their volume came in at the highest level seen in twelve months and contributed to a very significant 32% of all of China's coal imports. China's coal imports from Indonesia totaled only 9.6 million tons in June, which is down from May by 2.8 million tons (-23%) and down year-on-year by 7.4 million tons (-44%).",
+  "keywords": [
+    "china",
+    "coal",
+    "imports",
+    "russia",
+    "million",
+    "tons",
+    "tariff",
+    "indonesia",
+    "its",
+    "had",
+    "import",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 423,
+  "source_path": "reports/breakwave/2022/2022-08-01_chinas-coal-imports-from-russia-continue-to-climb-as-predict.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/29/chinas-coal-imports-from-russia-continue-to-climb-as-predicted",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-29_2022_08_01_chinas_coal_imports_from_russia_continue_to_climb_as_predict__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-29_2022_08_01_chinas_coal_imports_from_russia_continue_to_climb_as_predict",
+      "parent_id": "breakwave_insights_insights_2022-07-29_2022_08_01_chinas_coal_imports_from_russia_continue_to_climb_as_predict__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina's coal import data for June by origin has been released and shows imports from Indonesia have remained the primary source of imports and Russia the second largest source of imports. Also of note regarding Russian imports is that their volume came in at the highest level seen in twelve months and contributed to a very significant 32% of all of China's coal imports.",
+      "keywords": [
+        "china",
+        "coal",
+        "imports",
+        "russia",
+        "million",
+        "tons",
+        "tariff",
+        "indonesia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 421,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

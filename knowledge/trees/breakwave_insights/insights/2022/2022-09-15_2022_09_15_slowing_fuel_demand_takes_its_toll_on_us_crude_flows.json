@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__root",
+  "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows",
+  "parent_id": null,
+  "title": "Slowing Fuel Demand Takes Its Toll On Us Crude Flows",
+  "section_path": [
+    "Slowing Fuel Demand Takes Its Toll On Us Crude Flows"
+  ],
+  "section_path_text": "Slowing Fuel Demand Takes Its Toll On Us Crude Flows",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Rohit Rathod\nAs global fuel demand falls amidst a broader economic slowdown that is brewing behind the wings, we see its impact on US crude/condensate flows. Vortexa data shows US seaborne crude/condensate imports in August falling to 4-month lows after the multi-year highs reached in July. Exports on the other hand have managed to remain unchanged in August.",
+  "keywords": [
+    "china",
+    "atlantic",
+    "europe",
+    "india",
+    "singapore",
+    "crude_oil",
+    "products",
+    "crude",
+    "exports",
+    "august",
+    "imports",
+    "barrels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 807,
+  "source_path": "reports/breakwave/2022/2022-09-15_slowing-fuel-demand-takes-its-toll-on-us-crude-flows.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/15/slowing-fuel-demand-takes-its-toll-on-us-crude-flows",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows",
+      "parent_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Rohit Rathod\nAs global fuel demand falls amidst a broader economic slowdown that is brewing behind the wings, we see its impact on US crude/condensate flows. Vortexa data shows US seaborne crude/condensate imports in August falling to 4-month lows after the multi-year highs reached in July.",
+      "keywords": [
+        "crude/condensate",
+        "after",
+        "amidst",
+        "august",
+        "august.",
+        "behind",
+        "brewing",
+        "broader"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__s02_us_crude_exports_hold_steady_in_august",
+      "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows",
+      "parent_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__root",
+      "title": "US crude exports hold steady in August",
+      "section_path": [
+        "US crude exports hold steady in August"
+      ],
+      "section_path_text": "US crude exports hold steady in August",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "US crude/condensates exports in July were 3.4mbd - strongest since December 2019 when similar volumes were exported, setting an all time record. August saw these strong exports remain unchanged at 3.4mbd.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "singapore",
+        "exports",
+        "august",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 247,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__s03_us_crude_imports_drop_significantly_in_anticipation_of_fall_refinery_turnarounds",
+      "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows",
+      "parent_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__root",
+      "title": "US crude imports drop significantly in anticipation of fall refinery turnarounds",
+      "section_path": [
+        "US crude imports drop significantly in anticipation of fall refinery turnarounds"
+      ],
+      "section_path_text": "US crude imports drop significantly in anticipation of fall refinery turnarounds",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "US crude/condensates imports by origin region (mbd)\nUS waterborne crude imports dropped sharply m-o-m in August as only 2.6mbd of crude made its way to American shores, compared to 3.2mbd in July. This was mainly due to US refiners gearing up for fall maintenance season as well as a general slowing in US demand for transportation fuels.",
+      "keywords": [
+        "imports",
+        "mbd",
+        "barrels.",
+        "contributing",
+        "crude",
+        "additional",
+        "against",
+        "american"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__s04_us_spr_releases_bring_much_needed_supply_to_a_tight_market",
+      "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows",
+      "parent_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__root",
+      "title": "US SPR releases bring much needed supply to a tight market",
+      "section_path": [
+        "US SPR releases bring much needed supply to a tight market"
+      ],
+      "section_path_text": "US SPR releases bring much needed supply to a tight market",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "So far, the US has released over 130mb of crude oil from its Strategic Petroleum Reserves (SPR) since the start of the year. SPR sales mostly released sour barrels, but the recent two sales released ~45mb of sweet barrels with deliveries scheduled from 16 August to 21 October.",
+      "keywords": [
+        "crude_oil",
+        "barrels",
+        "released",
+        "spr",
+        "but",
+        "crude",
+        "sales",
+        "sweet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__s05_oil_demand_under_pressure_as_energy_costs_rise",
+      "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows",
+      "parent_id": "breakwave_insights_insights_2022-09-15_2022_09_15_slowing_fuel_demand_takes_its_toll_on_us_crude_flows__root",
+      "title": "Oil demand under pressure as energy costs rise",
+      "section_path": [
+        "Oil demand under pressure as energy costs rise"
+      ],
+      "section_path_text": "Oil demand under pressure as energy costs rise",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The recently announced OPEC+ supply cuts underpin the group's concerns on demand amid global recessionary fears, limited spare capacity led supply risks and most importantly changed price targets. To conclude, we believe that in spite of the strong US crude exports in August, oil demand in a global economy with lower GDP and rising energy costs will remain under pressure.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "crude",
+        "supply",
+        "demand",
+        "exports",
+        "global",
+        "remain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

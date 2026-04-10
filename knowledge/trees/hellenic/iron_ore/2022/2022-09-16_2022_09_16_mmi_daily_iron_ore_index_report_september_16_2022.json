@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-09-16_2022_09_16_mmi_daily_iron_ore_index_report_september_16_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-09-16_2022_09_16_mmi_daily_iron_ore_index_report_september_16_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 16 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 16 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 16 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 16/09/2022\nDCE iron ore futures declined by 1.24% today, the main contract closed 715. Some traders were active to sell. More steel mills tended topurchase, and purchasing enthusiasm is high.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "tons",
+    "port",
+    "yuan/mt",
+    "decreased",
+    "iron",
+    "compared",
+    "dealt",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 340,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-09-16_mmi-daily-iron-ore-index-report-september-16-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-16-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-09-16_2022_09_16_mmi_daily_iron_ore_index_report_september_16_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-09-16_2022_09_16_mmi_daily_iron_ore_index_report_september_16_2022",
+      "parent_id": "hellenic_iron_ore_2022-09-16_2022_09_16_mmi_daily_iron_ore_index_report_september_16_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 16/09/2022\nDCE iron ore futures declined by 1.24% today, the main contract closed 715. Some traders were active to sell.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "tons",
+        "port",
+        "yuan/mt",
+        "decreased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 338,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

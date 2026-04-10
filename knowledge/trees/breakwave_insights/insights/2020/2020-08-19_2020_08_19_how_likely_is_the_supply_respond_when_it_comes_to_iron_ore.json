@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-08-19_2020_08_19_how_likely_is_the_supply_respond_when_it_comes_to_iron_ore__root",
+  "doc_id": "breakwave_insights_insights_2020-08-19_2020_08_19_how_likely_is_the_supply_respond_when_it_comes_to_iron_ore",
+  "parent_id": null,
+  "title": "How Likely Is The Supply Respond When It Comes To Iron Ore",
+  "section_path": [
+    "How Likely Is The Supply Respond When It Comes To Iron Ore"
+  ],
+  "section_path_text": "How Likely Is The Supply Respond When It Comes To Iron Ore",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn the classic story \"The boy who cried wolf\", the tale concerns a shepherd boy who repeatedly tricks nearby villagers into thinking a wolf is attacking his town's flock. When a wolf actually does appear and the boy again calls for help, the villagers believe that it is another false alarm and the sheep are eaten by the wolf. With iron ore prices now approaching $130 per ton, a level not seen since 2014, most major miners have been cautious on the price outlook, citing increasing supply as the catalyst for a correction.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "europe",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "iron",
+    "ore",
+    "supply",
+    "again"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1279,
+  "source_path": "reports/breakwave/2020/2020-08-19_how-likely-is-the-supply-respond-when-it-comes-to-iron-ore.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/8/19/how-likely-is-the-supply-respond-when-it-comes-to-iron-ore",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-08-19_2020_08_19_how_likely_is_the_supply_respond_when_it_comes_to_iron_ore__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-08-19_2020_08_19_how_likely_is_the_supply_respond_when_it_comes_to_iron_ore",
+      "parent_id": "breakwave_insights_insights_2020-08-19_2020_08_19_how_likely_is_the_supply_respond_when_it_comes_to_iron_ore__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the classic story \"The boy who cried wolf\", the tale concerns a shepherd boy who repeatedly tricks nearby villagers into thinking a wolf is attacking his town's flock. When a wolf actually does appear and the boy again calls for help, the villagers believe that it is another false alarm and the sheep are eaten by the wolf.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "europe",
+        "iron_ore",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1277,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nHawkish comments regarding interest rates from the Chair of the Federal Reserve during a testimony to the US Congress led to the dollar gaining considerable ground yesterday. According to the statement, it is increasingly likely that the US central bank will have to raise interest rates higher and faster than previously envisaged as inflation remains persistently high. The more aggressive rhetoric led to many investors anticipating a return to 50 basis point increases in the coming month and supported the US dollar while equities and commodities suffered.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia",
+    "meg",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1204,
+  "source_path": "reports/breakwave/2023/2023-03-08_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/8/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Hawkish comments regarding interest rates from the Chair of the Federal Reserve during a testimony to the US Congress led to the dollar gaining considerable ground yesterday. According to the statement, it is increasingly likely that the US central bank will have to raise interest rates higher and faster than previously envisaged as inflation remains persistently high.",
+      "keywords": [
+        "interest",
+        "dollar",
+        "higher",
+        "led",
+        "according",
+        "aggressive",
+        "anticipating",
+        "bank"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The hawkish statement on interest rates from the Fed's Chair erased the past week's gains for crude oil. The Brent May contracts fell by 3.4 per cent and settled at 83.29 dollars per barrel.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 489,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index continued to advance on Tuesday, as sentiments in the Capesize segment remained robust. The headline index gained 3.2 per cent, as the sub-index for the largest vessels surged by 10.7 per cent amid a solid start to the week for global ordering activities.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 289,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-08_2023_03_08_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While European sanctions do not directly target Russian exports of fertilisers, cargo order volumes for the commodity loading in the country's Baltic ports destined for Europe have nevertheless decreased during the past year. In contrast, cargo order volumes in February for Russian fertilisers bound for Brazil and the east coast of South America have more than doubled , compared to the same month in the past two years.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "india",
+        "coal",
+        "past",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 274,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

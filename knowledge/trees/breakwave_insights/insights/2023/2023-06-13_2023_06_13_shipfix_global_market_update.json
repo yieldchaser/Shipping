@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nThe past week saw additional signs that the Chinese economy is struggling to gain traction after last year's removal of anti-Covid policies. Trade data highlighted falling domestic and overseas demand, with exports and imports falling compared to a year ago. In addition, continued low inflation confirmed sluggish domestic demand growth.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1497,
+  "source_path": "reports/breakwave/2023/2023-06-13_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/13/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The past week saw additional signs that the Chinese economy is struggling to gain traction after last year's removal of anti-Covid policies. Trade data highlighted falling domestic and overseas demand, with exports and imports falling compared to a year ago.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "data",
+        "inflation",
+        "demand",
+        "interest",
+        "after",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Despite Saudi Arabia's unilateral decision to reduce crude oil production next month, prices retreated for a second consecutive week amid concerns over the global demand outlook following weak Chinese economic data. The Brent August futures declined by 1.8 per cent last week and settled at 74.79 dollars per barrel, following a 1.5 per cent retreat on Friday.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 650,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index recorded its first weekly gain since April during the past week amid positive developments for the larger vessel segments. The headline index recorded a weekly increase of 14.8 per cent amid a sizeable rebound for the Capesizes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 386,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-13_2023_06_13_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "In the past few weeks, grain prices have been recovering from recent lows amid increasing uncertainty over the future of the Black Sea Grain Initiative. In addition to rising tensions in the wake of the recent dam destruction in eastern Ukraine and increasing military activities, Russia has signalled that it is unhappy with the deal and may terminate its participation or refuse a further extension.",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "grain",
+        "fertilisers",
+        "increasing",
+        "may",
+        "russian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

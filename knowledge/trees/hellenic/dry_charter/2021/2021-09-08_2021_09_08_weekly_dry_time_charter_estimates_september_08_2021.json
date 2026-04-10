@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-09-08_2021_09_08_weekly_dry_time_charter_estimates_september_08_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-09-08_2021_09_08_weekly_dry_time_charter_estimates_september_08_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, September 08 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, September 08 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, September 08 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe capesize period market experienced a correction this week as the market came under pressure, with concerns over the situation in Guinea that could impact vessel demand in the region. Kamsarmax/panamax period rates have dipped slightly this week due to lack of fresh demand, the average rate for one-year is currently estimated as $27,750/pdpr. A stable week for the smaller sizes with rates correcting lower for some periods as the situation with port congestion in China eases somewhat.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "demand",
+    "period",
+    "situation",
+    "average",
+    "came",
+    "concerns",
+    "congestion",
+    "correcting",
+    "correction"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 132,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-09-08_weekly-dry-time-charter-estimates-september-08-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-september-08-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-09-08_2021_09_08_weekly_dry_time_charter_estimates_september_08_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-09-08_2021_09_08_weekly_dry_time_charter_estimates_september_08_2021",
+      "parent_id": "hellenic_dry_charter_2021-09-08_2021_09_08_weekly_dry_time_charter_estimates_september_08_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The capesize period market experienced a correction this week as the market came under pressure, with concerns over the situation in Guinea that could impact vessel demand in the region. Kamsarmax/panamax period rates have dipped slightly this week due to lack of fresh demand, the average rate for one-year is currently estimated as $27,750/pdpr.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "demand",
+        "period",
+        "situation",
+        "average",
+        "came"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

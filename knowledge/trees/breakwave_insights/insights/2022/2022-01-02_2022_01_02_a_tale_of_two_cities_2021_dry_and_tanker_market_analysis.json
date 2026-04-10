@@ -1,0 +1,342 @@
+{
+  "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+  "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+  "parent_id": null,
+  "title": "A Tale Of Two Cities 2021 Dry And Tanker Market Analysis",
+  "section_path": [
+    "A Tale Of Two Cities 2021 Dry And Tanker Market Analysis"
+  ],
+  "section_path_text": "A Tale Of Two Cities 2021 Dry And Tanker Market Analysis",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nUsing Signal Ocean data, we analyse the trends and changes across the major vessel sizes in the dry and tanker freight market for 2021. This report provides data on demand, supply and how the latest developments determined the performance of vessels' earnings. The year to date evolution in supply and demand paves the way for the stronger or weaker performance of freight rates in parallel with the global changes in the macroeconomic environment and the challenges arising from the growth of the world's second largest economy: China.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "west_africa",
+    "europe",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2933,
+  "source_path": "reports/breakwave/2022/2022-01-02_a-tale-of-two-cities-2021-dry-and-tanker-market-analysis.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/1/2/a-tale-of-two-cities-2021-dry-and-tanker-market-analysis",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Using Signal Ocean data, we analyse the trends and changes across the major vessel sizes in the dry and tanker freight market for 2021. This report provides data on demand, supply and how the latest developments determined the performance of vessels' earnings.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "china",
+        "year",
+        "demand",
+        "supply",
+        "growth",
+        "changes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 288,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s03_dry_the_big_picture_and_smaller_vessels",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "Dry - The Big Picture and Smaller Vessels",
+      "section_path": [
+        "Dry - The Big Picture and Smaller Vessels"
+      ],
+      "section_path_text": "Dry - The Big Picture and Smaller Vessels",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The big challenge for the evolution of seaborne demand for dry vessels is always the performance of the Chinese economy. We estimated the demand in ton days growth for this year per main dry bulk ship size and we envisaged a clear higher trend of growth for the Capesize segment, (chart 1), that boosted the sentiment of Capesize freight rates during October to the highest level since 2009.",
+      "keywords": [
+        "capesize",
+        "china",
+        "growth",
+        "demand",
+        "year",
+        "chinese",
+        "second",
+        "ton"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 281,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s04_tankers_demand_crude_and_product",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "Tankers - Demand Crude and Product",
+      "section_path": [
+        "Tankers - Demand Crude and Product"
+      ],
+      "section_path_text": "Tankers - Demand Crude and Product",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "2021 ends with significant recovery in demand for Very Large Crude Carriers (VLCCs), whereas the last quarter has seen downward movements for Suezmax and Aframax vessels (chart 2). In the product segment, demand gives signs of slowing down with December ending at lower levels than the levels of the beginning of the fourth quarter.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "demand",
+        "ton",
+        "days",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 415,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s06_dry_capesize_panamax_supramax_handysize",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "Dry- Capesize, Panamax, Supramax, Handysize",
+      "section_path": [
+        "Dry- Capesize, Panamax, Supramax, Handysize"
+      ],
+      "section_path_text": "Dry- Capesize, Panamax, Supramax, Handysize",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The evolution of dry market rates for the current year, chart 4, is undoubtedly one of the most profitable that dry bulk shipowners have seen lately, with rates following the ending of summer season surging to ten year highs. It was a year for Capesize and Panamax vessels, but it ended with a year of stronger performance for smaller vessels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "china",
+        "coal",
+        "steel",
+        "year",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s07_tankers_crude_and_product",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "Tankers - Crude and Product",
+      "section_path": [
+        "Tankers - Crude and Product"
+      ],
+      "section_path_text": "Tankers - Crude and Product",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Although dry bulk rates were hovering throughout the year above their 2016-2020 average, crude tanker rates performed at very weak levels during the second and third quarters of this year, with a trend of recovery in December (chart 5). Overall, 2021 is on track to be one of the worst years for spot crude trades since 2009.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "europe",
+        "chart",
+        "are",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s08_section_3_supply_trend",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "SECTION 3: Supply Trend",
+      "section_path": [
+        "SECTION 3: Supply Trend"
+      ],
+      "section_path_text": "SECTION 3: Supply Trend",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "In this section, we monitor the evolution of ballasters for dry bulker vessels at key main trading routes with impact on benchmark freight route rate assessments, and in the tanker segment, the supply trend for the crude and product tanker vessel sizes at selective key trading routes in line with the performance of WS rates. We illustrate the issue of port congestion for dry bulk vessels in China and the number of last days of the year.",
+      "keywords": [
+        "china",
+        "congestion",
+        "impact",
+        "key",
+        "routes",
+        "trading",
+        "vessel",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s09_dry_ballasters_view",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "Dry - Ballasters' View",
+      "section_path": [
+        "Dry - Ballasters' View"
+      ],
+      "section_path_text": "Dry - Ballasters' View",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "The current picture of the number of vessels sailing in ballast status (chart 7) is now on a decreasing trend, standing below the one year average apart from the Handysize vessels. The last quarter of the year signalled a gradual easing of the number of vessels sailing without cargo as this coincided with the resolving issue of port congestion (chart 8) around Chinese ports.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "number",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 305,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s10_port_congestion_china_dry_vessels",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "Port Congestion - China, Dry Vessels",
+      "section_path": [
+        "Port Congestion - China, Dry Vessels"
+      ],
+      "section_path_text": "Port Congestion - China, Dry Vessels",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "It is immediately apparent when looking at dry bulk vessel congestion, chart 9, that the smaller dry bulk vessel sizes, Handysize-Handymax, are still experiencing port logistics supply chain issues. These are the only vessel sizes appearing with still high levels throughout the year that can also explain the upward sentiment of freight rates in the Handysize market in NOPAC area during December.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "china",
+        "vessel",
+        "sizes",
+        "are",
+        "chart",
+        "congestion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s11_tankers_supply_trend",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "Tankers - Supply Trend",
+      "section_path": [
+        "Tankers - Supply Trend"
+      ],
+      "section_path_text": "Tankers - Supply Trend",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "The supply trend for crude and product tankers at the key trading routes, chart 9, confirm the optimistic sentiment of the upward trend of rates at the last days of December towards the beginning of the new year. In the VLCC segment, load port Ras Tanura, we see that the market experiences a declining number of sailing ships from week 45, at the beginning of November, and fetched levels far below the average of one year ~ nearing to 60 vessels compared to more than 100 vessels at the beginning of August.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "days",
+        "forward",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 291,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s12_bunker_prices_and_savings_for_shipowners",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "Bunker prices and Savings for Shipowners",
+      "section_path": [
+        "Bunker prices and Savings for Shipowners"
+      ],
+      "section_path_text": "Bunker prices and Savings for Shipowners",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Compared to the turmoil of 2020, this year has been relatively straightforward for bunker prices - they have only really moved one way - up. January 2021 saw prices for VLSFO in Singapore start at around US$415 per MT and reach US$640 by the end of November, representing gains of more than 50% before falling to US$600 per MT on the back of Omicron-fuelled fears of a global economic slowdown.",
+      "keywords": [
+        "singapore",
+        "crude_oil",
+        "per",
+        "year",
+        "before",
+        "grades",
+        "low",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__s13_what_does_this_year_say_for_2022",
+      "doc_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis",
+      "parent_id": "breakwave_insights_insights_2022-01-02_2022_01_02_a_tale_of_two_cities_2021_dry_and_tanker_market_analysis__root",
+      "title": "What does this year say for 2022?",
+      "section_path": [
+        "What does this year say for 2022?"
+      ],
+      "section_path_text": "What does this year say for 2022?",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "Overall, identifying the winning vessel class of 2021 is not an easy task. 2021 will be remembered for the exceptional bounce back that dry Capesize bulkers experienced.",
+      "keywords": [
+        "capesize",
+        "china",
+        "days",
+        "bulkers",
+        "chinese",
+        "crude",
+        "demand",
+        "energy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 203,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

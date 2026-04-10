@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-12-05_2023_12_05_9lkdvuaq27e30msiugo52tztpvti3c__root",
+  "doc_id": "breakwave_insights_insights_2023-12-05_2023_12_05_9lkdvuaq27e30msiugo52tztpvti3c",
+  "parent_id": null,
+  "title": "9Lkdvuaq27E30Msiugo52Tztpvti3C",
+  "section_path": [
+    "9Lkdvuaq27E30Msiugo52Tztpvti3C"
+  ],
+  "section_path_text": "9Lkdvuaq27E30Msiugo52Tztpvti3C",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Russia's fuel oil exports are facing growing headwinds as more Middle East and West of Suez supplies head towards Asia. By Serena Huang\nMore Russian fuel oil cargoes are heading to Asia in search of buyers, as Middle East reduces its intake and sanctions continue to keep the EU and US markets out of reach. This shift has coincided with a significant reduction in Middle Eastern fuel oil exports, which have hit a six-month low in November due to extensive autumn refinery maintenance that is further exacerbated by the unplanned shutdown of Kuwait's Al-Zour refinery.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "india",
+    "singapore",
+    "crude_oil",
+    "fuel",
+    "oil",
+    "russian",
+    "asia",
+    "are",
+    "middle"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 588,
+  "source_path": "reports/breakwave/2023/2023-12-05_9lkdvuaq27e30msiugo52tztpvti3c.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/12/5/9lkdvuaq27e30msiugo52tztpvti3c",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-12-05_2023_12_05_9lkdvuaq27e30msiugo52tztpvti3c__s01_russia_s_fuel_oil_exports_are_facing_growing_headwinds_as_more_middle_east_and_west_of_suez_supplies_head_towards_asia",
+      "doc_id": "breakwave_insights_insights_2023-12-05_2023_12_05_9lkdvuaq27e30msiugo52tztpvti3c",
+      "parent_id": "breakwave_insights_insights_2023-12-05_2023_12_05_9lkdvuaq27e30msiugo52tztpvti3c__root",
+      "title": "Russia's fuel oil exports are facing growing headwinds as more Middle East and West of Suez supplies head towards Asia.",
+      "section_path": [
+        "Russia's fuel oil exports are facing growing headwinds as more Middle East and West of Suez supplies head towards Asia."
+      ],
+      "section_path_text": "Russia's fuel oil exports are facing growing headwinds as more Middle East and West of Suez supplies head towards Asia.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Serena Huang\nMore Russian fuel oil cargoes are heading to Asia in search of buyers, as Middle East reduces its intake and sanctions continue to keep the EU and US markets out of reach. This shift has coincided with a significant reduction in Middle Eastern fuel oil exports, which have hit a six-month low in November due to extensive autumn refinery maintenance that is further exacerbated by the unplanned shutdown of Kuwait's Al-Zour refinery.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "india",
+        "singapore",
+        "crude_oil",
+        "fuel",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 563,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter__root",
+  "doc_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter",
+  "parent_id": null,
+  "title": "Brs Dry Bulk Weekly Newsletter",
+  "section_path": [
+    "Brs Dry Bulk Weekly Newsletter"
+  ],
+  "section_path_text": "Brs Dry Bulk Weekly Newsletter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "is the norm in these fast-changing times. Every day, a fresh development will paint various eye-catching economic scenarios that will supposedly change our world. Without a doubt, the list is long for events that could (permanently) alter the established protocols and tacit agreements of conducting international trade.",
+  "keywords": [
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "india",
+    "coal",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1782,
+  "source_path": "reports/breakwave/2022/2022-09-17_brs-dry-bulk-weekly-newsletter.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/17/brs-dry-bulk-weekly-newsletter",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "is the norm in these fast-changing times. Every day, a fresh development will paint various eye-catching economic scenarios that will supposedly change our world.",
+      "keywords": [
+        "could",
+        "economic",
+        "agreements",
+        "alter",
+        "ambiguities",
+        "analysts",
+        "assumptions",
+        "before."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter__s02_world_uncertainty_index_wui",
+      "doc_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter__root",
+      "title": "World Uncertainty Index (WUI):",
+      "section_path": [
+        "World Uncertainty Index (WUI):"
+      ],
+      "section_path_text": "World Uncertainty Index (WUI):",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "WUI is a broad concept relating to macro phenomena like GDP growth intertwined with events like elections, wars, and climate change across 143 countries in the world. As depicted in the graph above, taking into consideration of all the \"Breaking News\" events over the past decade, global uncertainty reached unprecedented magnitude with the initial coronavirus outbreak in 2019.",
+      "keywords": [
+        "china",
+        "had",
+        "uncertainty",
+        "world",
+        "chinese",
+        "outbreak",
+        "demand",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 472,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter__s03_economic_uncertainty",
+      "doc_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2022-09-17_2022_09_17_brs_dry_bulk_weekly_newsletter__root",
+      "title": "Economic Uncertainty:",
+      "section_path": [
+        "Economic Uncertainty:"
+      ],
+      "section_path_text": "Economic Uncertainty:",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The US Dollar and the Euro have long played a ‘duopoly' as invoicing currencies in international trade, but an unexpected breakthrough in the Russia-Ukraine war has shifted the gears amid geopolitical tensions. As a result, the dollar's share as foreign-exchange reserves have declined as countries opted for a non-dollar payment system.",
+      "keywords": [
+        "lng",
+        "container",
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "india",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1141,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

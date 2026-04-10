@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-05_2020_06_05_atlantic_market_is_tightening__root",
+  "doc_id": "breakwave_insights_insights_2020-06-05_2020_06_05_atlantic_market_is_tightening",
+  "parent_id": null,
+  "title": "Atlantic Market Is Tightening",
+  "section_path": [
+    "Atlantic Market Is Tightening"
+  ],
+  "section_path_text": "Atlantic Market Is Tightening",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThere is some much needed tightening going on in the Atlantic market, as evident by a rumored North Atlantic fixture that was reported late in the day, albeit for a shorter duration voyage and a better described ship. The Capesize index now stands at 7,307, but we are marking it closer to 8,500, based on today's fixtures, rumors and bunkers. Only time will tell, but Early next week looks positive.",
+  "keywords": [
+    "capesize",
+    "china",
+    "atlantic",
+    "iron_ore",
+    "but",
+    "next",
+    "now",
+    "time",
+    "air",
+    "albeit",
+    "are",
+    "based"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 142,
+  "source_path": "reports/breakwave/2020/2020-06-05_atlantic-market-is-tightening.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/5/atlantic-market-is-tightening",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-05_2020_06_05_atlantic_market_is_tightening__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-05_2020_06_05_atlantic_market_is_tightening",
+      "parent_id": "breakwave_insights_insights_2020-06-05_2020_06_05_atlantic_market_is_tightening__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "There is some much needed tightening going on in the Atlantic market, as evident by a rumored North Atlantic fixture that was reported late in the day, albeit for a shorter duration voyage and a better described ship. The Capesize index now stands at 7,307, but we are marking it closer to 8,500, based on today's fixtures, rumors and bunkers.",
+      "keywords": [
+        "capesize",
+        "china",
+        "atlantic",
+        "iron_ore",
+        "but",
+        "next",
+        "now",
+        "time"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

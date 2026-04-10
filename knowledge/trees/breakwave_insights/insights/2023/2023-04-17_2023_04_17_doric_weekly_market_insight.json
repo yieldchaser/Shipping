@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-17_2023_04_17_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-04-17_2023_04_17_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"In the tug-of-war between alarming macro fundamentals pulling from one side and auspicious seasonality from the other, Baltic indices need once again to perform a balancing act.\"\nBy Michalis Voutsinas\nFollowing last week's downward revision of merchandise trade volume growth by the World Trade Organization, the International Monetary Fund lowered its forecast for global economic growth this year to 3.6 percent. Unusually high uncertainty surrounds the aforementioned forecast though, and downside risks to the global outlook dominate - including from a further escalation of the war, stricter sanctions against Russia, a sharper-than-anticipated deceleration in China as a strict zero-Covid strategy is tested by Omicron, and a renewed flare-up of the pandemic should a new, more virulent virus strain emerge.\" was the opening paragraph of Doric's Weekly Insight this day last year. At that time, Capesizes had yet to wake up from their typical Q1 hibernation, balancing at $11,370 daily.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "china",
+    "products",
+    "percent",
+    "growth",
+    "expected",
+    "are",
+    "economies",
+    "forecast",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1008,
+  "source_path": "reports/breakwave/2023/2023-04-17_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/17/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-17_2023_04_17_doric_weekly_market_insight__s01_in_the_tug_of_war_between_alarming_macro_fundamentals_pulling_from_one_side_and_auspicious_seasonality_from_the_other_baltic_indices_need_once_again_to_perform_a_balancing_act",
+      "doc_id": "breakwave_insights_insights_2023-04-17_2023_04_17_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-04-17_2023_04_17_doric_weekly_market_insight__root",
+      "title": "\"In the tug-of-war between alarming macro fundamentals pulling from one side and auspicious seasonality from the other, Baltic indices need once again to perform a balancing act.\"",
+      "section_path": [
+        "\"In the tug-of-war between alarming macro fundamentals pulling from one side and auspicious seasonality from the other, Baltic indices need once again to perform a balancing act.\""
+      ],
+      "section_path_text": "\"In the tug-of-war between alarming macro fundamentals pulling from one side and auspicious seasonality from the other, Baltic indices need once again to perform a balancing act.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nFollowing last week's downward revision of merchandise trade volume growth by the World Trade Organization, the International Monetary Fund lowered its forecast for global economic growth this year to 3.6 percent. Unusually high uncertainty surrounds the aforementioned forecast though, and downside risks to the global outlook dominate - including from a further escalation of the war, stricter sanctions against Russia, a sharper-than-anticipated deceleration in China as a strict zero-Covid strategy is tested by Omicron, and a renewed flare-up of the pandemic should a new, more virulent virus strain emerge.\" was the opening paragraph of Doric's Weekly Insight this day last year.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "china",
+        "products",
+        "percent",
+        "growth",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 975,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

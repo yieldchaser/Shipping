@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-13_2022_06_13_morning_comment_what_do_you_do_when_the_only_game_in_town_is__root",
+  "doc_id": "breakwave_insights_insights_2022-06-13_2022_06_13_morning_comment_what_do_you_do_when_the_only_game_in_town_is",
+  "parent_id": null,
+  "title": "Morning Comment What Do You Do When The Only Game In Town Is A Bad One",
+  "section_path": [
+    "Morning Comment What Do You Do When The Only Game In Town Is A Bad One"
+  ],
+  "section_path_text": "Morning Comment What Do You Do When The Only Game In Town Is A Bad One",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nMarkets crashed at the back end of last week, as US inflation surprised again on the upside, registering a new cycle-high. The S&P 500 is back below 4000 points, as investors are pricing in a more aggressive policy stance. Frankly, we are somewhat surprised also.",
+  "keywords": [
+    "china",
+    "europe",
+    "inflation",
+    "are",
+    "could",
+    "investors",
+    "economy",
+    "policy",
+    "remain",
+    "but",
+    "come",
+    "last"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 662,
+  "source_path": "reports/breakwave/2022/2022-06-13_morning-comment-what-do-you-do-when-the-only-game-in-town-is.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/13/morning-comment-what-do-you-do-when-the-only-game-in-town-is-a-bad-one",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-13_2022_06_13_morning_comment_what_do_you_do_when_the_only_game_in_town_is__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-13_2022_06_13_morning_comment_what_do_you_do_when_the_only_game_in_town_is",
+      "parent_id": "breakwave_insights_insights_2022-06-13_2022_06_13_morning_comment_what_do_you_do_when_the_only_game_in_town_is__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nMarkets crashed at the back end of last week, as US inflation surprised again on the upside, registering a new cycle-high. The S&P 500 is back below 4000 points, as investors are pricing in a more aggressive policy stance.",
+      "keywords": [
+        "china",
+        "europe",
+        "inflation",
+        "are",
+        "could",
+        "investors",
+        "economy",
+        "policy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 660,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

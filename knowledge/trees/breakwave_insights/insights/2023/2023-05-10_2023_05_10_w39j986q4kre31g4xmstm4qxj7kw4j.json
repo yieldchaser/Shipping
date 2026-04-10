@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-10_2023_05_10_w39j986q4kre31g4xmstm4qxj7kw4j__root",
+  "doc_id": "breakwave_insights_insights_2023-05-10_2023_05_10_w39j986q4kre31g4xmstm4qxj7kw4j",
+  "parent_id": null,
+  "title": "W39J986Q4Kre31G4Xmstm4Qxj7Kw4J",
+  "section_path": [
+    "W39J986Q4Kre31G4Xmstm4Qxj7Kw4J"
+  ],
+  "section_path_text": "W39J986Q4Kre31G4Xmstm4Qxj7Kw4J",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Sign of the Times\nNorth Sea Brent, the main global benchmark for crude oil pricing is moving with the times to reflect new market realities. Originally based on North Sea production since the 1970s, questions have arisen in recent years over the benchmark's viability for pricing oil contracts, given the declining output of Brent and other North Sea grades with the implications this could have for trading liquidity. Brent has now been thrown a lifeline with the inclusion of US WTI crude into the dated Brent basket which should in theory alleviate concerns about volumes by significantly increasing the quantity of delivered crude into the North Sea basin, providing a liquidity boost going forward.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "crude",
+    "brent",
+    "pricing",
+    "should",
+    "cargo",
+    "may"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 594,
+  "source_path": "reports/breakwave/2023/2023-05-10_w39j986q4kre31g4xmstm4qxj7kw4j.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/10/w39j986q4kre31g4xmstm4qxj7kw4j",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-10_2023_05_10_w39j986q4kre31g4xmstm4qxj7kw4j__s01_a_sign_of_the_times",
+      "doc_id": "breakwave_insights_insights_2023-05-10_2023_05_10_w39j986q4kre31g4xmstm4qxj7kw4j",
+      "parent_id": "breakwave_insights_insights_2023-05-10_2023_05_10_w39j986q4kre31g4xmstm4qxj7kw4j__root",
+      "title": "A Sign of the Times",
+      "section_path": [
+        "A Sign of the Times"
+      ],
+      "section_path_text": "A Sign of the Times",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "North Sea Brent, the main global benchmark for crude oil pricing is moving with the times to reflect new market realities. Originally based on North Sea production since the 1970s, questions have arisen in recent years over the benchmark's viability for pricing oil contracts, given the declining output of Brent and other North Sea grades with the implications this could have for trading liquidity.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "crude",
+        "brent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 588,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

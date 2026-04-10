@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-07-01_2020_07_01_first_day_of_quarter_prints_almost_31000_on_capes_with_futur__root",
+  "doc_id": "breakwave_insights_insights_2020-07-01_2020_07_01_first_day_of_quarter_prints_almost_31000_on_capes_with_futur",
+  "parent_id": null,
+  "title": "First Day Of Quarter Prints Almost 31000 On Capes With Futures At 35 Discount",
+  "section_path": [
+    "First Day Of Quarter Prints Almost 31000 On Capes With Futures At 35 Discount"
+  ],
+  "section_path_text": "First Day Of Quarter Prints Almost 31000 On Capes With Futures At 35 Discount",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFirst day of the new quarter and the story in the dry bulk freight market remains the same: A well-supported Capesize spot index and a bearish futures curve (in all fairness, some cracks on spot rates appeared earlier today in Asia, as the Australia-China route ticked lower, but it seems highly date-dependent). The sharp increase in spot rates over the last month has failed to convince market participants on the sustainability of the strength, while at the same time, speculative capital betting on the possible upcoming correction of the spot index keeps pushing futures lower. The end result is one of the most backwardated markets in recent history (if not the most) when it comes to Capesize futures.",
+  "keywords": [
+    "capesize",
+    "china",
+    "australia",
+    "bulls",
+    "can",
+    "correction",
+    "history",
+    "month",
+    "same",
+    "sharp",
+    "above",
+    "against"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 278,
+  "source_path": "reports/breakwave/2020/2020-07-01_first-day-of-quarter-prints-almost-31000-on-capes-with-futur.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/7/1/first-day-of-quarter-prints-almost-31000-on-capes-with-futures-at-35-discount",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-07-01_2020_07_01_first_day_of_quarter_prints_almost_31000_on_capes_with_futur__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-07-01_2020_07_01_first_day_of_quarter_prints_almost_31000_on_capes_with_futur",
+      "parent_id": "breakwave_insights_insights_2020-07-01_2020_07_01_first_day_of_quarter_prints_almost_31000_on_capes_with_futur__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "First day of the new quarter and the story in the dry bulk freight market remains the same: A well-supported Capesize spot index and a bearish futures curve (in all fairness, some cracks on spot rates appeared earlier today in Asia, as the Australia-China route ticked lower, but it seems highly date-dependent). The sharp increase in spot rates over the last month has failed to convince market participants on the sustainability of the strength, while at the same time, speculative capital betting on the possible upcoming correction of the spot index keeps pushing futures lower.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "bulls",
+        "can",
+        "correction",
+        "history",
+        "month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 276,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

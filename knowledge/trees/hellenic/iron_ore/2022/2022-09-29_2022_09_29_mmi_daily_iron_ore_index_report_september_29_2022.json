@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-09-29_2022_09_29_mmi_daily_iron_ore_index_report_september_29_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-09-29_2022_09_29_mmi_daily_iron_ore_index_report_september_29_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 29 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 29 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 29 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 29/09/2022\nDCE iron ore futures rose by 0.77% today, the main contract closed 722.5. The enthusiasm of the traders for shipment is fair, and the steelmills are mainly wait-and-see, with few transactions in the market.PBF at Shandong port dealt 753-755 yuan/mt; increased 5-10 yuan/mt than yesterday.PBF at Tangshan port dealt 770-785 yuan/mt ; increased 20-35 yuan/mt than yesterday. According to the inventory data of the top ten ports tracked by SMM, the total inventory of the ten ports this week accumulated 0.3% month-on-month to 90.11 million tons.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "iron",
+    "yuan/mt",
+    "before",
+    "dealt",
+    "decreased",
+    "demand",
+    "expected",
+    "increased"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 330,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-09-29_mmi-daily-iron-ore-index-report-september-29-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-29-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-09-29_2022_09_29_mmi_daily_iron_ore_index_report_september_29_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-09-29_2022_09_29_mmi_daily_iron_ore_index_report_september_29_2022",
+      "parent_id": "hellenic_iron_ore_2022-09-29_2022_09_29_mmi_daily_iron_ore_index_report_september_29_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 29/09/2022\nDCE iron ore futures rose by 0.77% today, the main contract closed 722.5. The enthusiasm of the traders for shipment is fair, and the steelmills are mainly wait-and-see, with few transactions in the market.PBF at Shandong port dealt 753-755 yuan/mt; increased 5-10 yuan/mt than yesterday.PBF at Tangshan port dealt 770-785 yuan/mt ; increased 20-35 yuan/mt than yesterday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "iron",
+        "yuan/mt",
+        "before",
+        "dealt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 328,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

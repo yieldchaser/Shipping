@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-01-20_2022_01_20_w4rf15aavhostkk1kykaqgo3nfyr85__root",
+  "doc_id": "breakwave_insights_insights_2022-01-20_2022_01_20_w4rf15aavhostkk1kykaqgo3nfyr85",
+  "parent_id": null,
+  "title": "W4Rf15Aavhostkk1Kykaqgo3Nfyr85",
+  "section_path": [
+    "W4Rf15Aavhostkk1Kykaqgo3Nfyr85"
+  ],
+  "section_path_text": "W4Rf15Aavhostkk1Kykaqgo3Nfyr85",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nWhile global seaborne grain trade prospects for the current 2021/22 season remain quite bullish, expectations for trade volumes have been lowered recently. The United States Department of Agriculture has released their latest forecasts for 2021/22 and is now forecasting global grain exports will total 507.5 million tons. This is 1.5 million tons less than was forecast a month ago but would mark a year-on-year increase of 25.3 million tons (5%).",
+  "keywords": [
+    "iron_ore",
+    "grain",
+    "million",
+    "tons",
+    "global",
+    "exports",
+    "less",
+    "ago",
+    "are",
+    "forecast",
+    "increase",
+    "mark"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 430,
+  "source_path": "reports/breakwave/2022/2022-01-20_w4rf15aavhostkk1kykaqgo3nfyr85.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/1/20/w4rf15aavhostkk1kykaqgo3nfyr85",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-01-20_2022_01_20_w4rf15aavhostkk1kykaqgo3nfyr85__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-01-20_2022_01_20_w4rf15aavhostkk1kykaqgo3nfyr85",
+      "parent_id": "breakwave_insights_insights_2022-01-20_2022_01_20_w4rf15aavhostkk1kykaqgo3nfyr85__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nWhile global seaborne grain trade prospects for the current 2021/22 season remain quite bullish, expectations for trade volumes have been lowered recently. The United States Department of Agriculture has released their latest forecasts for 2021/22 and is now forecasting global grain exports will total 507.5 million tons.",
+      "keywords": [
+        "iron_ore",
+        "grain",
+        "million",
+        "tons",
+        "global",
+        "exports",
+        "less",
+        "ago"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 428,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

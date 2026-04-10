@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-05-24_2023_05_24_mmi_daily_iron_ore_index_report_may_24_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-05-24_2023_05_24_mmi_daily_iron_ore_index_report_may_24_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report May 24 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report May 24 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report May 24 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 24/05/2023\nDCE iron ore futures market falling sharply trends, the main contract closed 682.5, an decrease of 4.61% throughout the day;Some traders refuse to sell due to significant losses. Some steel mills tended to buy low prices. PBF at Shandong port dealt 745-755 yuan/mt; decreased 20 yuan/mt over yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "yuan/mt",
+    "dealt",
+    "decreased",
+    "demand",
+    "fell",
+    "main",
+    "port"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 226,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-05-24_mmi-daily-iron-ore-index-report-may-24-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-24-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-05-24_2023_05_24_mmi_daily_iron_ore_index_report_may_24_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-05-24_2023_05_24_mmi_daily_iron_ore_index_report_may_24_2023",
+      "parent_id": "hellenic_iron_ore_2023-05-24_2023_05_24_mmi_daily_iron_ore_index_report_may_24_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 24/05/2023\nDCE iron ore futures market falling sharply trends, the main contract closed 682.5, an decrease of 4.61% throughout the day;Some traders refuse to sell due to significant losses. Some steel mills tended to buy low prices.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "yuan/mt",
+        "dealt",
+        "decreased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 224,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

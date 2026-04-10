@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-10-22_2021_10_22_mmi_daily_iron_ore_index_report_october_22_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-10-22_2021_10_22_mmi_daily_iron_ore_index_report_october_22_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report October 22 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report October 22 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report October 22 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 22/10/2021\nDCE iron ore futures continued to fluctuate in a day, main contract closed689.5. a decrease of 1.5% throughout the day. The spot quotation inmorning almost kept steady.Most traders tended to be wait-and-see，and the purchasing number is small。PBF at Shandong port dealt 840 yuan/mt, increased 22 yuan/mt over yesterday; PBF at Tangshan port dealt 850 yuan/mt,；The iron ore inventories across 35 ports tracked by SMM totalled 138.77 million mt as of October 22, an increase of 950,000 mt from the previous week and 11.58 million mt on the year.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "ports",
+    "main",
+    "deliveries",
+    "port",
+    "daily",
+    "increase",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 347,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-10-22_mmi-daily-iron-ore-index-report-october-22-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-22-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-10-22_2021_10_22_mmi_daily_iron_ore_index_report_october_22_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-10-22_2021_10_22_mmi_daily_iron_ore_index_report_october_22_2021",
+      "parent_id": "hellenic_iron_ore_2021-10-22_2021_10_22_mmi_daily_iron_ore_index_report_october_22_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 22/10/2021\nDCE iron ore futures continued to fluctuate in a day, main contract closed689.5. a decrease of 1.5% throughout the day.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "ports",
+        "deliveries",
+        "main"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 345,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

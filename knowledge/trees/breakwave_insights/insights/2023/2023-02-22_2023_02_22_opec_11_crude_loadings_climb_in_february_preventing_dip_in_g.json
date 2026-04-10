@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-22_2023_02_22_opec_11_crude_loadings_climb_in_february_preventing_dip_in_g__root",
+  "doc_id": "breakwave_insights_insights_2023-02-22_2023_02_22_opec_11_crude_loadings_climb_in_february_preventing_dip_in_g",
+  "parent_id": null,
+  "title": "Opec 11 Crude Loadings Climb In February Preventing Dip In Global Seaborne Supply",
+  "section_path": [
+    "Opec 11 Crude Loadings Climb In February Preventing Dip In Global Seaborne Supply"
+  ],
+  "section_path_text": "Opec 11 Crude Loadings Climb In February Preventing Dip In Global Seaborne Supply",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn this insight, we investigate the different trends emerging in crude/condensate loadings from key producers and the impact on global supplies. By Jay Maroo\nΟPEC-11 crude/condensates loadings show a preliminary gain this month of 500kbd from January levels, as key Middle East nations are raising waterborne supplies. Higher loading activity from the key regional producers has helped nudge global loadings marginally higher over the same period despite weak loadings from other regions.",
+  "keywords": [
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "loadings",
+    "kbd",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1137,
+  "source_path": "reports/breakwave/2023/2023-02-22_opec-11-crude-loadings-climb-in-february-preventing-dip-in-g.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/22/opec-11-crude-loadings-climb-in-february-preventing-dip-in-global-seaborne-supply",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-22_2023_02_22_opec_11_crude_loadings_climb_in_february_preventing_dip_in_g__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-22_2023_02_22_opec_11_crude_loadings_climb_in_february_preventing_dip_in_g",
+      "parent_id": "breakwave_insights_insights_2023-02-22_2023_02_22_opec_11_crude_loadings_climb_in_february_preventing_dip_in_g__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In this insight, we investigate the different trends emerging in crude/condensate loadings from key producers and the impact on global supplies. By Jay Maroo\nΟPEC-11 crude/condensates loadings show a preliminary gain this month of 500kbd from January levels, as key Middle East nations are raising waterborne supplies.",
+      "keywords": [
+        "products",
+        "loadings",
+        "global",
+        "key",
+        "higher",
+        "producers",
+        "supplies.",
+        "waterborne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-22_2023_02_22_opec_11_crude_loadings_climb_in_february_preventing_dip_in_g__s02_opec_loading_activity_highlights_divergence_between_members",
+      "doc_id": "breakwave_insights_insights_2023-02-22_2023_02_22_opec_11_crude_loadings_climb_in_february_preventing_dip_in_g",
+      "parent_id": "breakwave_insights_insights_2023-02-22_2023_02_22_opec_11_crude_loadings_climb_in_february_preventing_dip_in_g__root",
+      "title": "OPEC loading activity highlights divergence between members",
+      "section_path": [
+        "OPEC loading activity highlights divergence between members"
+      ],
+      "section_path_text": "OPEC loading activity highlights divergence between members",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "excluding Iran and Venezuela) stand at just shy of 21mbd for February, an increase of about 0.5mbd from full-month January levels. But on closer inspection, we see in our February data a strong divergence in the performance of the big Middle East producers versus the rest of the OPEC group.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 978,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "node_id": "breakwave_insights_insights_2023-12-06_2023_12_06_too_much_or_too_little__root",
+  "doc_id": "breakwave_insights_insights_2023-12-06_2023_12_06_too_much_or_too_little",
+  "parent_id": null,
+  "title": "Too Much Or Too Little",
+  "section_path": [
+    "Too Much Or Too Little"
+  ],
+  "section_path_text": "Too Much Or Too Little",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n2023 has seen a notable increase in new tanker ordering activity and as the year slowly draws to its end, it is perhaps time to reflect on where investment in new tonnage has been the strongest and where it is still lacking. For the year to date, ordering activity has been the strongest in the Aframax/LR2 segment, with the focus largely on coated tonnage. Here, circa 80 fresh orders have been placed, with the attractiveness of this asset class being fuelled by very robust spot tanker earnings, particularly in the Aframax segment.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "tankers",
+    "orders",
+    "ageing",
+    "date",
+    "years",
+    "activity",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 781,
+  "source_path": "reports/breakwave/2023/2023-12-06_too-much-or-too-little.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/12/6/too-much-or-too-little",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-12-06_2023_12_06_too_much_or_too_little__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-12-06_2023_12_06_too_much_or_too_little",
+      "parent_id": "breakwave_insights_insights_2023-12-06_2023_12_06_too_much_or_too_little__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "2023 has seen a notable increase in new tanker ordering activity and as the year slowly draws to its end, it is perhaps time to reflect on where investment in new tonnage has been the strongest and where it is still lacking. For the year to date, ordering activity has been the strongest in the Aframax/LR2 segment, with the focus largely on coated tonnage.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "tankers",
+        "orders",
+        "ageing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 759,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-12-06_2023_12_06_too_much_or_too_little__s02_tanker_orderbook_vs_tanker_supply_15_years",
+      "doc_id": "breakwave_insights_insights_2023-12-06_2023_12_06_too_much_or_too_little",
+      "parent_id": "breakwave_insights_insights_2023-12-06_2023_12_06_too_much_or_too_little__root",
+      "title": "Tanker Orderbook vs Tanker Supply 15+ Years",
+      "section_path": [
+        "Tanker Orderbook vs Tanker Supply 15+ Years"
+      ],
+      "section_path_text": "Tanker Orderbook vs Tanker Supply 15+ Years",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "data",
+        "gibson",
+        "shipbrokers",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

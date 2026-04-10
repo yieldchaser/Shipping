@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-05-20_2022_05_20_mmi_daily_iron_ore_index_report_may_20_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-05-20_2022_05_20_mmi_daily_iron_ore_index_report_may_20_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report May 20 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report May 20 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report May 20 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 20/05/2022\nMay 20th, 2022 CFR Qingdao, USD/dry tonne DCE iron ore futures market riseing sharply trends by 5.31%, the main contract closed 842.5.The spot quotation in the morning almost kept steady. but as the disk continues to rose, The traders increased 20-30 yuan/mt. Traders increased speculative trading, steel mills purchased on demand.",
+  "keywords": [
+    "china",
+    "australia",
+    "iron_ore",
+    "steel",
+    "port",
+    "increased",
+    "yuan/mt",
+    "decline",
+    "tons",
+    "million",
+    "ore",
+    "continued"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 433,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-05-20_mmi-daily-iron-ore-index-report-may-20-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-20-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-05-20_2022_05_20_mmi_daily_iron_ore_index_report_may_20_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-05-20_2022_05_20_mmi_daily_iron_ore_index_report_may_20_2022",
+      "parent_id": "hellenic_iron_ore_2022-05-20_2022_05_20_mmi_daily_iron_ore_index_report_may_20_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 20/05/2022\nMay 20th, 2022 CFR Qingdao, USD/dry tonne DCE iron ore futures market riseing sharply trends by 5.31%, the main contract closed 842.5.The spot quotation in the morning almost kept steady. but as the disk continues to rose, The traders increased 20-30 yuan/mt.",
+      "keywords": [
+        "china",
+        "australia",
+        "iron_ore",
+        "steel",
+        "port",
+        "increased",
+        "yuan/mt",
+        "decline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 431,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

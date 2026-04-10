@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-02-11_2021_02_11_iron_ore_demand_to_remain_firm_on_recovery_in_non_chinese_ma__root",
+  "doc_id": "breakwave_insights_insights_2021-02-11_2021_02_11_iron_ore_demand_to_remain_firm_on_recovery_in_non_chinese_ma",
+  "parent_id": null,
+  "title": "Iron Ore Demand To Remain Firm On Recovery In Non Chinese Markets",
+  "section_path": [
+    "Iron Ore Demand To Remain Firm On Recovery In Non Chinese Markets"
+  ],
+  "section_path_text": "Iron Ore Demand To Remain Firm On Recovery In Non Chinese Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAny notions that the Chinese New Year would send iron prices lower have so far been unfounded. On the contrary, prices for iron ore for delivery to Tianjin have rebounded to the 160 dollars per tonne territory, after a sharp drop during the second half of January. The lacklustre annual output data from Vale for last year and signs of a continued struggle for the Brazilian company to return to full production are partly to blame for the recent bounce.",
+  "keywords": [
+    "china",
+    "brazil",
+    "europe",
+    "japan",
+    "iron_ore",
+    "iron",
+    "ore",
+    "year",
+    "are",
+    "demand",
+    "many",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 648,
+  "source_path": "reports/breakwave/2021/2021-02-11_iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-ma.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/2/11/iron-ore-demand-to-remain-firm-on-recovery-in-non-chinese-markets",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-02-11_2021_02_11_iron_ore_demand_to_remain_firm_on_recovery_in_non_chinese_ma__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-02-11_2021_02_11_iron_ore_demand_to_remain_firm_on_recovery_in_non_chinese_ma",
+      "parent_id": "breakwave_insights_insights_2021-02-11_2021_02_11_iron_ore_demand_to_remain_firm_on_recovery_in_non_chinese_ma__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAny notions that the Chinese New Year would send iron prices lower have so far been unfounded. On the contrary, prices for iron ore for delivery to Tianjin have rebounded to the 160 dollars per tonne territory, after a sharp drop during the second half of January.",
+      "keywords": [
+        "china",
+        "brazil",
+        "europe",
+        "japan",
+        "iron_ore",
+        "iron",
+        "ore",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 646,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

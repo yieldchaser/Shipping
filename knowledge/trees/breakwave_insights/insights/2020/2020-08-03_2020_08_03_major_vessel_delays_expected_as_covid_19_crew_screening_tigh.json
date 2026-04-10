@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-08-03_2020_08_03_major_vessel_delays_expected_as_covid_19_crew_screening_tigh__root",
+  "doc_id": "breakwave_insights_insights_2020-08-03_2020_08_03_major_vessel_delays_expected_as_covid_19_crew_screening_tigh",
+  "parent_id": null,
+  "title": "Major Vessel Delays Expected As Covid 19 Crew Screening Tightens",
+  "section_path": [
+    "Major Vessel Delays Expected As Covid 19 Crew Screening Tightens"
+  ],
+  "section_path_text": "Major Vessel Delays Expected As Covid 19 Crew Screening Tightens",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs the new month begins, it was a positive day for dry bulk rates with futures moving higher and now standing well above 20,000/day for Capesizes for the next several months. The upcoming seasonal increase in dry bulk demand is ahead of us, but another unexpected factor might exaggerate any potential increase in freight rates, causing more confusion in an already turbulent year. According to broker reports, in the last several days, China has increased COVID-19 screening for crew members, which means longer delays in discharging ports and thus higher congestion.",
+  "keywords": [
+    "capesize",
+    "china",
+    "atlantic",
+    "pacific",
+    "grain",
+    "higher",
+    "increase",
+    "another",
+    "are",
+    "causing",
+    "crew",
+    "day"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 245,
+  "source_path": "reports/breakwave/2020/2020-08-03_major-vessel-delays-expected-as-covid-19-crew-screening-tigh.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/8/3/major-vessel-delays-expected-as-covid-19-crew-screening-tightens",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-08-03_2020_08_03_major_vessel_delays_expected_as_covid_19_crew_screening_tigh__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-08-03_2020_08_03_major_vessel_delays_expected_as_covid_19_crew_screening_tigh",
+      "parent_id": "breakwave_insights_insights_2020-08-03_2020_08_03_major_vessel_delays_expected_as_covid_19_crew_screening_tigh__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the new month begins, it was a positive day for dry bulk rates with futures moving higher and now standing well above 20,000/day for Capesizes for the next several months. The upcoming seasonal increase in dry bulk demand is ahead of us, but another unexpected factor might exaggerate any potential increase in freight rates, causing more confusion in an already turbulent year.",
+      "keywords": [
+        "capesize",
+        "china",
+        "atlantic",
+        "pacific",
+        "grain",
+        "higher",
+        "increase",
+        "another"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 243,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

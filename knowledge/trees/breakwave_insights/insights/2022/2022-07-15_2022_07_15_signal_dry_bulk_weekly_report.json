@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSentiment in the freight market has weakened further for smaller ship sizes, while the Capesize segment is still in a recovery phase. In the iron ore market, prices picked up again on Wednesday. According to Fastmarkets MB, the 62% Fe benchmark imported to North China changed hands for $108.91/tonne, up 3.72%.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "iron_ore",
+    "coal",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 981,
+  "source_path": "reports/breakwave/2022/2022-07-15_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/15/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Sentiment in the freight market has weakened further for smaller ship sizes, while the Capesize segment is still in a recovery phase. In the iron ore market, prices picked up again on Wednesday.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "china",
+        "india",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 315,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__s02_chart_of_the_week_dry_bulk_flows_coal_to_india_record_high_in_june",
+      "doc_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of The Week: Dry Bulk Flows, Coal, to India: Record high in June",
+      "section_path": [
+        "Chart of The Week: Dry Bulk Flows, Coal, to India: Record high in June"
+      ],
+      "section_path_text": "Chart of The Week: Dry Bulk Flows, Coal, to India: Record high in June",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Data Source: The Signal Ocean Platform, Dry Bulk Flows, Coal, from ALL Countries to India, 2021-2022",
+      "keywords": [
+        "india",
+        "coal",
+        "all",
+        "countries",
+        "data",
+        "flows",
+        "ocean",
+        "platform"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__s03_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nThe Capesize segment showed a sustained upward trend, while the other vessel categories continued to show a downward trend over the last three weeks. Capesize Brazil-to-North China freight rates held at a level of about $31/tonne with an upward trend.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__s05_number_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__root",
+      "title": "Number of Vessels - Increasing",
+      "section_path": [
+        "Number of Vessels - Increasing"
+      ],
+      "section_path_text": "Number of Vessels - Increasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ships sailing ballast increased sharply in the Supramax segment, while there was a sudden drop in Handysize. Capesize SE Africa: The number of vessels increased to 73, 7 more than week 26.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "increased",
+        "ships",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__s07_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__root",
+      "title": "Decreasing",
+      "section_path": [
+        "Decreasing"
+      ],
+      "section_path_text": "Decreasing",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "A downward trend emerged in the second week of July, with the Handysize and Capesize segments showing significantly lower growth. Capesize demand ton-days: The percentage increase this week shows a downward trend and disappoints expectations for an upturn in July.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "downward",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__s10_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-15_2022_07_15_signal_dry_bulk_weekly_report__root",
+      "title": "Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "The number of congested vessels has remained excessive since the end of June. Capesize: The number of congested vessels increased to 130, 7 more than the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "congested",
+        "appeared"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 109,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

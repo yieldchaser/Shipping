@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-13_2023_01_13_gold_rallies_amid_expectations_of_slower_rate_hikes_from_fed__root",
+  "doc_id": "breakwave_insights_insights_2023-01-13_2023_01_13_gold_rallies_amid_expectations_of_slower_rate_hikes_from_fed",
+  "parent_id": null,
+  "title": "Gold Rallies Amid Expectations Of Slower Rate Hikes From Fed",
+  "section_path": [
+    "Gold Rallies Amid Expectations Of Slower Rate Hikes From Fed"
+  ],
+  "section_path_text": "Gold Rallies Amid Expectations Of Slower Rate Hikes From Fed",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nSlowing US inflation saw risk appetite rise sharply across the complex. This increased confidence of demand strengthening as China's reopens its economy. Gold rallied after inflation slowed in the US.",
+  "keywords": [
+    "lng",
+    "china",
+    "australia",
+    "europe",
+    "japan",
+    "crude_oil",
+    "gas",
+    "was",
+    "amid",
+    "demand",
+    "appetite",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 566,
+  "source_path": "reports/breakwave/2023/2023-01-13_gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/13/gold-rallies-amid-expectations-of-slower-rate-hikes-from-fed",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-13_2023_01_13_gold_rallies_amid_expectations_of_slower_rate_hikes_from_fed__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-13_2023_01_13_gold_rallies_amid_expectations_of_slower_rate_hikes_from_fed",
+      "parent_id": "breakwave_insights_insights_2023-01-13_2023_01_13_gold_rallies_amid_expectations_of_slower_rate_hikes_from_fed__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nSlowing US inflation saw risk appetite rise sharply across the complex. This increased confidence of demand strengthening as China's reopens its economy.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "europe",
+        "japan",
+        "crude_oil",
+        "gas",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 564,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

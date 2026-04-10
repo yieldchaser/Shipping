@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-13_2023_09_13_oil_gains_as_opec_warns_of_a_tight_market__root",
+  "doc_id": "breakwave_insights_insights_2023-09-13_2023_09_13_oil_gains_as_opec_warns_of_a_tight_market",
+  "parent_id": null,
+  "title": "Oil Gains As Opec Warns Of A Tight Market",
+  "section_path": [
+    "Oil Gains As Opec Warns Of A Tight Market"
+  ],
+  "section_path_text": "Oil Gains As Opec Warns Of A Tight Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nA loss in momentum in China's property sector weighed on industrial metals. Oil gained amid the prospect of tight supplies in coming months. Crude oil rallied to a 10-month high after OPEC forecast a significantly tight market.",
+  "keywords": [
+    "lng",
+    "china",
+    "australia",
+    "europe",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "expected",
+    "mb/d",
+    "oil",
+    "opec"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 629,
+  "source_path": "reports/breakwave/2023/2023-09-13_oil-gains-as-opec-warns-of-a-tight-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/13/oil-gains-as-opec-warns-of-a-tight-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-13_2023_09_13_oil_gains_as_opec_warns_of_a_tight_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-13_2023_09_13_oil_gains_as_opec_warns_of_a_tight_market",
+      "parent_id": "breakwave_insights_insights_2023-09-13_2023_09_13_oil_gains_as_opec_warns_of_a_tight_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nA loss in momentum in China's property sector weighed on industrial metals. Oil gained amid the prospect of tight supplies in coming months.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "europe",
+        "iron_ore",
+        "crude_oil",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 627,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

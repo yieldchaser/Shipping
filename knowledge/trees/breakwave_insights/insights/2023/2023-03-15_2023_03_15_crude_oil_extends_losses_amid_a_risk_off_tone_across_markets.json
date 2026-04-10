@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-15_2023_03_15_crude_oil_extends_losses_amid_a_risk_off_tone_across_markets__root",
+  "doc_id": "breakwave_insights_insights_2023-03-15_2023_03_15_crude_oil_extends_losses_amid_a_risk_off_tone_across_markets",
+  "parent_id": null,
+  "title": "Crude Oil Extends Losses Amid A Risk Off Tone Across Markets",
+  "section_path": [
+    "Crude Oil Extends Losses Amid A Risk Off Tone Across Markets"
+  ],
+  "section_path_text": "Crude Oil Extends Losses Amid A Risk Off Tone Across Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nFlight to safety was the dominant theme, although panic selling of risk assets eased. Commodities remained under pressure amid concerns of further economic weakness. Gold was steady as investor demand eased back following a surge yesterday amid the US banking ructions.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "was",
+    "demand",
+    "data",
+    "its",
+    "amid"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 577,
+  "source_path": "reports/breakwave/2023/2023-03-15_crude-oil-extends-losses-amid-a-risk-off-tone-across-markets.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/15/crude-oil-extends-losses-amid-a-risk-off-tone-across-markets",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-15_2023_03_15_crude_oil_extends_losses_amid_a_risk_off_tone_across_markets__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-15_2023_03_15_crude_oil_extends_losses_amid_a_risk_off_tone_across_markets",
+      "parent_id": "breakwave_insights_insights_2023-03-15_2023_03_15_crude_oil_extends_losses_amid_a_risk_off_tone_across_markets__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nFlight to safety was the dominant theme, although panic selling of risk assets eased. Commodities remained under pressure amid concerns of further economic weakness.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "iron_ore",
+        "crude_oil",
+        "steel",
+        "gas",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 575,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

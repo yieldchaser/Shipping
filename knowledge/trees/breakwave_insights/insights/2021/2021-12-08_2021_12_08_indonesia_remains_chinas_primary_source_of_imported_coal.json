@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-12-08_2021_12_08_indonesia_remains_chinas_primary_source_of_imported_coal__root",
+  "doc_id": "breakwave_insights_insights_2021-12-08_2021_12_08_indonesia_remains_chinas_primary_source_of_imported_coal",
+  "parent_id": null,
+  "title": "Indonesia Remains Chinas Primary Source Of Imported Coal",
+  "section_path": [
+    "Indonesia Remains Chinas Primary Source Of Imported Coal"
+  ],
+  "section_path_text": "Indonesia Remains Chinas Primary Source Of Imported Coal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nCoal import data for October by origin shows that imports from Indonesia have remained China's primary source of imports. October also finally saw imports from Australia however. Imports from Indonesia totaled approximately 15.6 million tons, which is down month-on-month by 5.8 million tons (-27%) but up year-on-year by 12.8 million tons (457%).",
+  "keywords": [
+    "china",
+    "australia",
+    "coal",
+    "tons",
+    "imports",
+    "million",
+    "approximately",
+    "down",
+    "month-on-month",
+    "tons.",
+    "totaled",
+    "year-on-year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 503,
+  "source_path": "reports/breakwave/2021/2021-12-08_indonesia-remains-chinas-primary-source-of-imported-coal.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/12/8/indonesia-remains-chinas-primary-source-of-imported-coal",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-12-08_2021_12_08_indonesia_remains_chinas_primary_source_of_imported_coal__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-12-08_2021_12_08_indonesia_remains_chinas_primary_source_of_imported_coal",
+      "parent_id": "breakwave_insights_insights_2021-12-08_2021_12_08_indonesia_remains_chinas_primary_source_of_imported_coal__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nCoal import data for October by origin shows that imports from Indonesia have remained China's primary source of imports. October also finally saw imports from Australia however.",
+      "keywords": [
+        "china",
+        "australia",
+        "coal",
+        "tons",
+        "imports",
+        "million",
+        "approximately",
+        "down"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 501,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

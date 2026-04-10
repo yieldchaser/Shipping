@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Panamax Vessel Speed Ballast / Laden Speed and Freight Index\nUpward revision to Panamax ship speed in August as freight market signals recover\nhttps://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p9d88/340887919?h=TBVl4pMEiX_MWhVTqtZnvCd3CoUmdGuPfMXPq7JcDDY\nThe third week of August began with more robust sentiment, which countered fears about a possible downward trend in the Capesize segment. This change in sentiment is particularly evident as the Baltic Dry Index gains momentum, driven by Panamax and smaller ship categories. The upward trend in Panamax freight prices has led to a corresponding acceleration in vessel speeds, both ballasted and loaded.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "coal",
+    "grain",
+    "trend",
+    "vessel",
+    "number"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1188,
+  "source_path": "reports/breakwave/2023/2023-08-23_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/23/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__s01_chart_of_the_week_panamax_vessel_speed_ballast_laden_speed_and_freight_index",
+      "doc_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week: Panamax Vessel Speed Ballast / Laden Speed and Freight Index",
+      "section_path": [
+        "Chart of the Week: Panamax Vessel Speed Ballast / Laden Speed and Freight Index"
+      ],
+      "section_path_text": "Chart of the Week: Panamax Vessel Speed Ballast / Laden Speed and Freight Index",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Upward revision to Panamax ship speed in August as freight market signals recover\nhttps://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p9d88/340887919?h=TBVl4pMEiX_MWhVTqtZnvCd3CoUmdGuPfMXPq7JcDDY\nThe third week of August began with more robust sentiment, which countered fears about a possible downward trend in the Capesize segment. This change in sentiment is particularly evident as the Baltic Dry Index gains momentum, driven by Panamax and smaller ship categories.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "grain",
+        "trend",
+        "upward",
+        "vessel",
+        "august",
+        "corridor"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 348,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Firmer\nThe third week of August started with a firmer sentiment with the increase being more profound in the Panamax vessel segment, while a downward pressure was revealed in the Capesize segment. Capesize vessel freight rates from Brazil to North China fell below $19/tonne, while stronger momentum appeared to be in place at the end of the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 220,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (# vessels) Mixed\nThe number of ballast vessels showed a mixed picture with a downward trend in the Capesize and Panamax regions, although the Handy NOPAC region continues to experience upward pressure. .Capesize SE Africa: The number of ballasters is 115, 9% below the peak in week 26.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "ballast",
+        "ballasters",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size TonneDays Decreasing\nThe upward surge in tonne-day growth seen during the second week of August appears to have levelled off with a downward trend in the large vessel categories. Capesize: Demand for Capesize ships has slowed in recent days, with the last peak recorded in week 26.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "coal",
+        "days",
+        "downward"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-23_2023_08_23_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports No of Vessels Decreasing\nThe upward revision in the number of vessel congestions appears to have moderated after the last peak in week 32, but the increase in the Panamax segment remained strong. Capesize: The current number of vessel congestion is 109, 10 lower than in week 32.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "number",
+        "vessel",
+        "congested"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

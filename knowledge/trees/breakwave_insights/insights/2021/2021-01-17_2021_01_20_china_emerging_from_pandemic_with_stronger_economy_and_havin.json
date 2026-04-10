@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-01-17_2021_01_20_china_emerging_from_pandemic_with_stronger_economy_and_havin__root",
+  "doc_id": "breakwave_insights_insights_2021-01-17_2021_01_20_china_emerging_from_pandemic_with_stronger_economy_and_havin",
+  "parent_id": null,
+  "title": "China Emerging From Pandemic With Stronger Economy And Having Not Experienced Newfound Shift To Some Degree Of Authoritarianism",
+  "section_path": [
+    "China Emerging From Pandemic With Stronger Economy And Having Not Experienced Newfound Shift To Some Degree Of Authoritarianism"
+  ],
+  "section_path_text": "China Emerging From Pandemic With Stronger Economy And Having Not Experienced Newfound Shift To Some Degree Of Authoritarianism",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nby Jeffrey Landsberg\nAs we have continued to highlight in our Weekly China Reports, China's central government in 2019 made a very significant decision to begin limiting lending, but that decision was reversed early last year when the economy was temporarily crippled by the nation's coronavirus pandemic. March 2020 witnessed a sudden pivot in lending and government policy, and this pivot remains in place. The central government is continuing to work on reducing risk in the housing market, but overall lending has stayed strong and we expect the government will continue to focus on growth (at the expense of adding to the nation's debt and maintaining structural issues that remain lurking under the surface of the financial system).",
+  "keywords": [
+    "china",
+    "grain",
+    "crude_oil",
+    "government",
+    "growth",
+    "lending",
+    "new",
+    "but",
+    "continue",
+    "its",
+    "seen",
+    "very"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 915,
+  "source_path": "reports/breakwave/2021/2021-01-20_china-emerging-from-pandemic-with-stronger-economy-and-havin.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/1/17/china-emerging-from-pandemic-with-stronger-economy-and-having-not-experienced-newfound-shift-to-some-degree-of-authoritarianism",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-01-17_2021_01_20_china_emerging_from_pandemic_with_stronger_economy_and_havin__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-01-17_2021_01_20_china_emerging_from_pandemic_with_stronger_economy_and_havin",
+      "parent_id": "breakwave_insights_insights_2021-01-17_2021_01_20_china_emerging_from_pandemic_with_stronger_economy_and_havin__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "by Jeffrey Landsberg\nAs we have continued to highlight in our Weekly China Reports, China's central government in 2019 made a very significant decision to begin limiting lending, but that decision was reversed early last year when the economy was temporarily crippled by the nation's coronavirus pandemic. March 2020 witnessed a sudden pivot in lending and government policy, and this pivot remains in place.",
+      "keywords": [
+        "china",
+        "grain",
+        "crude_oil",
+        "government",
+        "growth",
+        "lending",
+        "new",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 913,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

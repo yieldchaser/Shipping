@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week : Capesize tonne days Brazil to China\nSignificant increase in Capesize tonne days from Brazil to China since the beginning of December\nIn the third week of December, sentiment in the freight market for large vessel sizes has shown signs of weakening. However, optimism grows for a robust month-end, given the declining number of ballasters in the Panamax Continent Far East. Within the Capesize segment, there's been a notable increase in tonne days from Brazil to China, contrasting with the market price decline.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "number",
+    "previous",
+    "since",
+    "ships",
+    "tonne"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1113,
+  "source_path": "reports/breakwave/2023/2023-12-21_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/12/21/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__s01_chart_of_the_week_capesize_tonne_days_brazil_to_china",
+      "doc_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week : Capesize tonne days Brazil to China",
+      "section_path": [
+        "Chart of the Week : Capesize tonne days Brazil to China"
+      ],
+      "section_path_text": "Chart of the Week : Capesize tonne days Brazil to China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Significant increase in Capesize tonne days from Brazil to China since the beginning of December\nIn the third week of December, sentiment in the freight market for large vessel sizes has shown signs of weakening. However, optimism grows for a robust month-end, given the declining number of ballasters in the Panamax Continent Far East.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "europe",
+        "economic",
+        "december",
+        "ballasters"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Weaker\nIn the third week of December, the dry freight market showed a weakening trend for the Capesize and Panamax, while the Handy-NOPAC-FE route showed signs of an upturn before the end of December. Capesize vessel freight rates from Brazil to North China from Brazil to North China fell to $22/t, down $6/t from week 48.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "ago."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (#vessels) Increasing\nThe number of ballasters was above the annual average for all ship size classes, with the exception of Panamax ships, where the number has been falling continuously since the end of week 38. Capesize SE Africa: The number of ballasters held accelerated levels at around 108, with the last low in week 40 (~76).",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "ballasters",
+        "ships",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size Tonne Days Mixed\nIn the third week of December, the declining demand persisted; however, there were indications of a rebound in Capesize from the previous week, suggesting the potential for further recovery in the upcoming days. Capesize: The upward trend, starting from the lows of week 47, has now reached one of its highest points since the conclusion of week 39.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "since",
+        "conclusion",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-12-21_2023_12_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports No of Vessels Increasing\nThe number of dry bulk vessels congested at Chinese ports continued the previous week's rise and has now reached one of the highest levels since the peak in week 32. Capesize: The number of congested vessels rose to 143, the highest level of the entire year and 13 more than in the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "congested",
+        "number",
+        "previous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

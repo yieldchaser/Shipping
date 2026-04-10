@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-16_2023_05_16_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-05-16_2023_05_16_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"In a week overwhelmed by macro dynamics and lack of vividness down to the spot arena, the leading Baltic Dry Index trended sideways, in anticipation of what lies ahead.\"\nBy Michalis Voutsinas\nAfter hiding behind various public holidays during last week, Baltic indices started the current one in search for direction. There was a widespread sense in the spot market that previous week's softer tone was just an outlier and sooner rather than later activity would see sunny days. This feeling was further supported from a definitely positive opening for the Capesizes, with Baltic exchange's first published index for the week being in the green at noontime on Tuesday.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "april",
+    "data",
+    "imports",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 970,
+  "source_path": "reports/breakwave/2023/2023-05-16_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/16/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-16_2023_05_16_doric_weekly_market_insight__s01_in_a_week_overwhelmed_by_macro_dynamics_and_lack_of_vividness_down_to_the_spot_arena_the_leading_baltic_dry_index_trended_sideways_in_anticipation_of_what_lies_ahead",
+      "doc_id": "breakwave_insights_insights_2023-05-16_2023_05_16_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-05-16_2023_05_16_doric_weekly_market_insight__root",
+      "title": "\"In a week overwhelmed by macro dynamics and lack of vividness down to the spot arena, the leading Baltic Dry Index trended sideways, in anticipation of what lies ahead.\"",
+      "section_path": [
+        "\"In a week overwhelmed by macro dynamics and lack of vividness down to the spot arena, the leading Baltic Dry Index trended sideways, in anticipation of what lies ahead.\""
+      ],
+      "section_path_text": "\"In a week overwhelmed by macro dynamics and lack of vividness down to the spot arena, the leading Baltic Dry Index trended sideways, in anticipation of what lies ahead.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nAfter hiding behind various public holidays during last week, Baltic indices started the current one in search for direction. There was a widespread sense in the spot market that previous week's softer tone was just an outlier and sooner rather than later activity would see sunny days.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 936,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nThe European Commission signalled yesterday that the EU as a bloc might avoid a recession during the coming year. While some individual countries in the bloc may enter recession, the union's economy is expected to grow by 0.9 per cent this year. The latest projection is an upgrade from the previous estimate of 0.3 per cent growth, which was made in November.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "atlantic",
+    "meg",
+    "europe",
+    "us_gulf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1291,
+  "source_path": "reports/breakwave/2023/2023-02-14_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/14/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The European Commission signalled yesterday that the EU as a bloc might avoid a recession during the coming year. While some individual countries in the bloc may enter recession, the union's economy is expected to grow by 0.9 per cent this year.",
+      "keywords": [
+        "europe",
+        "inflation",
+        "per",
+        "are",
+        "bloc",
+        "cent",
+        "coming",
+        "economy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 191,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Yesterday's session proved to be somewhat volatile for crude oil as traders reflected on the impact of the Russian output reduction and prospects of further rate hikes. The Brent futures recovered from initial losses of more than one per cent but retreated again during the latter parts of the session as concerns over supply disruptions waned.",
+      "keywords": [
+        "lng",
+        "atlantic",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 545,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Capesizes maintained the positive momentum from the end of last week on Monday, with the Baltic Exchange's freight index for the vessel segment advancing by 9.9 per cent. The headline Baltic Dry Index also remained in the black with a 2.3 per cent gain amid only limited losses across the mid and small-sized segments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 276,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-14_2023_02_14_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Thermal coal prices have come under pressure in recent weeks amid high volatility and easing global demand as the winter in the Northern Hemisphere is coming to an end. The past six months have also been dominated by changes to the traditional trade flows for the dirtiest of fossil fuels, as European buyers were forced to find alternative sources amid sanctions on Russian imports.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "coal",
+        "russian",
+        "cargo",
+        "past",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 246,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

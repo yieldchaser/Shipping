@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-02_2022_06_02_indonesia_and_russia_remain_chinas_primary_sources_of_coal_i__root",
+  "doc_id": "breakwave_insights_insights_2022-06-02_2022_06_02_indonesia_and_russia_remain_chinas_primary_sources_of_coal_i",
+  "parent_id": null,
+  "title": "Indonesia And Russia Remain Chinas Primary Sources Of Coal Imports",
+  "section_path": [
+    "Indonesia And Russia Remain Chinas Primary Sources Of Coal Imports"
+  ],
+  "section_path_text": "Indonesia And Russia Remain Chinas Primary Sources Of Coal Imports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina's April coal import data by origin was recently released and shows that imports from Indonesia have remained the primary source of imports and Russia the second largest source of imports. Imports from Indonesia totaled 16 million tons, which is up from March by 6 million tons (60%) and up year-on-year by 4.3 million tons (37%). Imports from Russia totaled 3.9 million tons, which is up from March by 800,000 tons (26%) but down year-on-year by 600,000 tons (-13%).",
+  "keywords": [
+    "china",
+    "australia",
+    "coal",
+    "tons",
+    "imports",
+    "march",
+    "million",
+    "was",
+    "year-on-year",
+    "down",
+    "totaled",
+    "april"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 549,
+  "source_path": "reports/breakwave/2022/2022-06-02_indonesia-and-russia-remain-chinas-primary-sources-of-coal-i.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/2/indonesia-and-russia-remain-chinas-primary-sources-of-coal-imports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-02_2022_06_02_indonesia_and_russia_remain_chinas_primary_sources_of_coal_i__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-02_2022_06_02_indonesia_and_russia_remain_chinas_primary_sources_of_coal_i",
+      "parent_id": "breakwave_insights_insights_2022-06-02_2022_06_02_indonesia_and_russia_remain_chinas_primary_sources_of_coal_i__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina's April coal import data by origin was recently released and shows that imports from Indonesia have remained the primary source of imports and Russia the second largest source of imports. Imports from Indonesia totaled 16 million tons, which is up from March by 6 million tons (60%) and up year-on-year by 4.3 million tons (37%).",
+      "keywords": [
+        "china",
+        "australia",
+        "coal",
+        "tons",
+        "imports",
+        "march",
+        "million",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 547,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

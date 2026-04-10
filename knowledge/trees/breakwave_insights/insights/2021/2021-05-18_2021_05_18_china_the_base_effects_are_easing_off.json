@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-05-18_2021_05_18_china_the_base_effects_are_easing_off__root",
+  "doc_id": "breakwave_insights_insights_2021-05-18_2021_05_18_china_the_base_effects_are_easing_off",
+  "parent_id": null,
+  "title": "China The Base Effects Are Easing Off",
+  "section_path": [
+    "China The Base Effects Are Easing Off"
+  ],
+  "section_path_text": "China The Base Effects Are Easing Off",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe first few months of last year saw many parts of the Chinese economy severely impacted by the early stages of the global pandemic, something that has had considerable base effects as the strong recovery continued into this year. However, as the year progresses these effects will disappear with the points of reference now being after the Chinese economy started its strong recovery. Given the strength of the recovery during last autumn, numbers may even start to look underwhelming for the casual observer during the second half of the year.",
+  "keywords": [
+    "china",
+    "europe",
+    "iron_ore",
+    "steel",
+    "chinese",
+    "growth",
+    "per",
+    "cent",
+    "may",
+    "prices",
+    "production",
+    "year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 765,
+  "source_path": "reports/breakwave/2021/2021-05-18_china-the-base-effects-are-easing-off.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/5/18/china-the-base-effects-are-easing-off",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-05-18_2021_05_18_china_the_base_effects_are_easing_off__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-05-18_2021_05_18_china_the_base_effects_are_easing_off",
+      "parent_id": "breakwave_insights_insights_2021-05-18_2021_05_18_china_the_base_effects_are_easing_off__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe first few months of last year saw many parts of the Chinese economy severely impacted by the early stages of the global pandemic, something that has had considerable base effects as the strong recovery continued into this year. However, as the year progresses these effects will disappear with the points of reference now being after the Chinese economy started its strong recovery.",
+      "keywords": [
+        "china",
+        "europe",
+        "iron_ore",
+        "steel",
+        "chinese",
+        "growth",
+        "per",
+        "cent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 763,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

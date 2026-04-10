@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nIn light of the collapse of the Silicon Valley Bank, the latest release of US inflation data did not make the Federal Reserve's job any easier. While prices generally rose in line with expectations during the past month, the core inflation was marginally higher than in January and also somewhat higher than anticipated. Hence, the US central bank's interest rate-setters will have to contend with both high inflation rates and a financial system under some stress when they meet next week.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia",
+    "meg",
+    "europe",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1518,
+  "source_path": "reports/breakwave/2023/2023-03-15_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/15/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In light of the collapse of the Silicon Valley Bank, the latest release of US inflation data did not make the Federal Reserve's job any easier. While prices generally rose in line with expectations during the past month, the core inflation was marginally higher than in January and also somewhat higher than anticipated.",
+      "keywords": [
+        "china",
+        "inflation",
+        "during",
+        "bank",
+        "basis",
+        "cent",
+        "chinese",
+        "data"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 254,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The continued travails of the US banking sector weighed on sentiments in the crude oil markets yesterday, with the Brent May futures retreating by 4.1 per cent and settling at 77.46 dollars per barrel. The contracts rebounded in today's early trading with gains of around one per cent, following OPEC's upward revision of its projections for Chinese demand.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 578,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Exchange's dry bulk freight rate gauges continued to defy gravity yesterday, with all segments advancing for a fourth consecutive session. After a few days of increases in the single-digit territory, the Capesizes recorded extensive gains yesterday, with their sub-index advancing by 15.9 per cent amid another day of solid ordering activities.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 329,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-15_2023_03_15_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While Swedish iron ore production is considerably lower than the global heavyweights of Australia and Brazil, it nevertheless ranks somewhere in the middle of the top ten for the world's largest exporters of the commodity. One unique aspect of the Swedish seaborne iron ore exports is that most of it is not loaded onto vessels in the country's own ports but is shipped through the Norwegian port of Narvik.",
+      "keywords": [
+        "brazil",
+        "australia",
+        "europe",
+        "iron_ore",
+        "iron",
+        "swedish",
+        "ore",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 324,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

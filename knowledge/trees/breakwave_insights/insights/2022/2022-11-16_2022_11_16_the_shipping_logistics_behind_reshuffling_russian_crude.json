@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-16_2022_11_16_the_shipping_logistics_behind_reshuffling_russian_crude__root",
+  "doc_id": "breakwave_insights_insights_2022-11-16_2022_11_16_the_shipping_logistics_behind_reshuffling_russian_crude",
+  "parent_id": null,
+  "title": "The Shipping Logistics Behind Reshuffling Russian Crude",
+  "section_path": [
+    "The Shipping Logistics Behind Reshuffling Russian Crude"
+  ],
+  "section_path_text": "The Shipping Logistics Behind Reshuffling Russian Crude",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nRussian crude exports are having to travel farther as the country redirects flows to \"friendly\" nations. In this insight, we assess the implications for Russia's shipping logistics, and hence the feasibility of this reshuffle. By Dylan Simpson\nΙn the past, Russian crude exports have largely been sent to relatively short-haul destinations.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "crude",
+    "russian",
+    "exports",
+    "russia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 929,
+  "source_path": "reports/breakwave/2022/2022-11-16_the-shipping-logistics-behind-reshuffling-russian-crude.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/16/the-shipping-logistics-behind-reshuffling-russian-crude",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-16_2022_11_16_the_shipping_logistics_behind_reshuffling_russian_crude__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-16_2022_11_16_the_shipping_logistics_behind_reshuffling_russian_crude",
+      "parent_id": "breakwave_insights_insights_2022-11-16_2022_11_16_the_shipping_logistics_behind_reshuffling_russian_crude__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Russian crude exports are having to travel farther as the country redirects flows to \"friendly\" nations. In this insight, we assess the implications for Russia's shipping logistics, and hence the feasibility of this reshuffle.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 927,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-09_2023_06_09_significant_amount_of_coal_remains_stockpiled_in_india__root",
+  "doc_id": "breakwave_insights_insights_2023-06-09_2023_06_09_significant_amount_of_coal_remains_stockpiled_in_india",
+  "parent_id": null,
+  "title": "Significant Amount Of Coal Remains Stockpiled In India",
+  "section_path": [
+    "Significant Amount Of Coal Remains Stockpiled In India"
+  ],
+  "section_path_text": "Significant Amount Of Coal Remains Stockpiled In India",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore's most recent Weekly Dry Bulk Report, Coal India produced 59.9 million tons of coal last month. This has marked a month-on-month increase of 2.3 million tons (4%) and a year-on-year increase of 5.2 million tons (10%). Coal India's production has now increased on a year-on-year basis during twenty-four of the last twenty-five months, and last month's 10% growth has marked the second largest growth seen all year.",
+  "keywords": [
+    "india",
+    "coal",
+    "million",
+    "last",
+    "tons",
+    "increase",
+    "months",
+    "now",
+    "offtake",
+    "year-on-year",
+    "month",
+    "all"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 267,
+  "source_path": "reports/breakwave/2023/2023-06-09_significant-amount-of-coal-remains-stockpiled-in-india.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/9/significant-amount-of-coal-remains-stockpiled-in-india",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-09_2023_06_09_significant_amount_of_coal_remains_stockpiled_in_india__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-09_2023_06_09_significant_amount_of_coal_remains_stockpiled_in_india",
+      "parent_id": "breakwave_insights_insights_2023-06-09_2023_06_09_significant_amount_of_coal_remains_stockpiled_in_india__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore's most recent Weekly Dry Bulk Report, Coal India produced 59.9 million tons of coal last month. This has marked a month-on-month increase of 2.3 million tons (4%) and a year-on-year increase of 5.2 million tons (10%).",
+      "keywords": [
+        "india",
+        "coal",
+        "million",
+        "last",
+        "tons",
+        "increase",
+        "months",
+        "now"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 265,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

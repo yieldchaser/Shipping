@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-06-06_2023_06_06_mmi_daily_iron_ore_index_report_june_06_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-06-06_2023_06_06_mmi_daily_iron_ore_index_report_june_06_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report June 06 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report June 06 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report June 06 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 06/06/2023\nDCE iron ore futures tight，the main contract closed 766.5，an increase of 1.32% throughout the day. some traders were active to sell,Some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high. PBF at Shandong port dealt 820-830 yuan/mt; increased 5-10 yuan/mt over yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "ore",
+    "iron",
+    "port",
+    "still",
+    "dealt",
+    "increased",
+    "prices",
+    "yesterday."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 358,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-06-06_mmi-daily-iron-ore-index-report-june-06-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-june-06-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-06-06_2023_06_06_mmi_daily_iron_ore_index_report_june_06_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-06-06_2023_06_06_mmi_daily_iron_ore_index_report_june_06_2023",
+      "parent_id": "hellenic_iron_ore_2023-06-06_2023_06_06_mmi_daily_iron_ore_index_report_june_06_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 06/06/2023\nDCE iron ore futures tight，the main contract closed 766.5，an increase of 1.32% throughout the day. some traders were active to sell,Some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "ore",
+        "iron",
+        "port",
+        "still"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 356,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

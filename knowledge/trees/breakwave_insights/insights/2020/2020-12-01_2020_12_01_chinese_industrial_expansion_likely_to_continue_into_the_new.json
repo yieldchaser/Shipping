@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-12-01_2020_12_01_chinese_industrial_expansion_likely_to_continue_into_the_new__root",
+  "doc_id": "breakwave_insights_insights_2020-12-01_2020_12_01_chinese_industrial_expansion_likely_to_continue_into_the_new",
+  "parent_id": null,
+  "title": "Chinese Industrial Expansion Likely To Continue Into The New Year",
+  "section_path": [
+    "Chinese Industrial Expansion Likely To Continue Into The New Year"
+  ],
+  "section_path_text": "Chinese Industrial Expansion Likely To Continue Into The New Year",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nChina is firmly positioning itself as the only major economy that will see the end of the year from a position of strength. The most recent purchasing managers' index data released are pointing towards an accelerating economy, with most components increasing from the previous month's levels. The manufacturing sector recorded its highest level for over three years and was also higher than the economists' expectations.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "chinese",
+    "are",
+    "economy",
+    "industrial",
+    "continued",
+    "copper",
+    "expansion",
+    "gold"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 541,
+  "source_path": "reports/breakwave/2020/2020-12-01_chinese-industrial-expansion-likely-to-continue-into-the-new.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/12/1/chinese-industrial-expansion-likely-to-continue-into-the-new-year",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-12-01_2020_12_01_chinese_industrial_expansion_likely_to_continue_into_the_new__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-12-01_2020_12_01_chinese_industrial_expansion_likely_to_continue_into_the_new",
+      "parent_id": "breakwave_insights_insights_2020-12-01_2020_12_01_chinese_industrial_expansion_likely_to_continue_into_the_new__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nChina is firmly positioning itself as the only major economy that will see the end of the year from a position of strength. The most recent purchasing managers' index data released are pointing towards an accelerating economy, with most components increasing from the previous month's levels.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "chinese",
+        "are",
+        "economy",
+        "industrial"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 539,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

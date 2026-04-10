@@ -1,0 +1,286 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nThings investors need to know\nEvery time I hear about quantitative easing, the lyrics of the Eagle's 1976 classic \" Hotel California \" come to mind: ‘You can check out any time you like, but you can never leave'. Quantitative easing is the ultimate tool to pacify markets. Read More\n\nSupramaxes continue to outperform larger bulk carriers\nToday we look into how they have fared during the current market downturn and what the main drivers will be in the short and medium term.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "coal",
+    "crude_oil",
+    "read",
+    "seen",
+    "you",
+    "economic",
+    "last",
+    "quantitative",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 404,
+  "source_path": "reports/breakwave/2022/2022-10-09_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/9/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__s02_things_investors_need_to_know",
+      "doc_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__root",
+      "title": "Things investors need to know",
+      "section_path": [
+        "Things investors need to know"
+      ],
+      "section_path_text": "Things investors need to know",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Every time I hear about quantitative easing, the lyrics of the Eagle's 1976 classic \" Hotel California \" come to mind: ‘You can check out any time you like, but you can never leave'. Quantitative easing is the ultimate tool to pacify markets.",
+      "keywords": [
+        "you",
+        "can",
+        "easing",
+        "quantitative",
+        "time",
+        "any",
+        "but",
+        "california"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 56,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__s03_supramaxes_continue_to_outperform_larger_bulk_carriers",
+      "doc_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__root",
+      "title": "Supramaxes continue to outperform larger bulk carriers",
+      "section_path": [
+        "Supramaxes continue to outperform larger bulk carriers"
+      ],
+      "section_path_text": "Supramaxes continue to outperform larger bulk carriers",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Today we look into how they have fared during the current market downturn and what the main drivers will be in the short and medium term.",
+      "keywords": [
+        "current",
+        "downturn",
+        "drivers",
+        "during",
+        "fared",
+        "how",
+        "look",
+        "main"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__s04_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the first days of October, freight rates have firmed in the Panamax segment, while Capesize has seen a slight downward trend and Supramax rates have stabilised in the last four weeks.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "days",
+        "downward",
+        "firmed",
+        "first",
+        "four"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 44,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__s05_the_bulls_and_the_bears",
+      "doc_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__root",
+      "title": "The Bulls and the Bears",
+      "section_path": [
+        "The Bulls and the Bears"
+      ],
+      "section_path_text": "The Bulls and the Bears",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "With the global economic picture continuing to be dominated by bearish sentiment, and oil prices falling to lows not seen since the start of the year, the picture couldn't be more different in the tanker market.",
+      "keywords": [
+        "crude_oil",
+        "picture",
+        "bearish",
+        "continuing",
+        "couldn",
+        "different",
+        "dominated",
+        "economic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__s06_commodities_rallied_as_concerns_over_further_tightening_eased",
+      "doc_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__root",
+      "title": "Commodities rallied as concerns over further tightening eased",
+      "section_path": [
+        "Commodities rallied as concerns over further tightening eased"
+      ],
+      "section_path_text": "Commodities rallied as concerns over further tightening eased",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "This was compounded by a rally in energy amid ongoing supply side issues.",
+      "keywords": [
+        "amid",
+        "compounded",
+        "energy",
+        "issues.",
+        "ongoing",
+        "rally",
+        "read",
+        "side"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__s07_global_vessel_supply_in_the_segment_remained_at_recent_low_levels",
+      "doc_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__root",
+      "title": "Global vessel supply in the segment remained at recent low levels",
+      "section_path": [
+        "Global vessel supply in the segment remained at recent low levels"
+      ],
+      "section_path_text": "Global vessel supply in the segment remained at recent low levels",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "The US economy has seen a few weaker-than-expected economic data releases so far this week.",
+      "keywords": [
+        "data",
+        "economic",
+        "economy",
+        "far",
+        "few",
+        "read",
+        "releases",
+        "seen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__s08_hermal_coal_demand_is_set_to_continue_to_grow",
+      "doc_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__root",
+      "title": "Τhermal coal demand is set to continue to grow",
+      "section_path": [
+        "Τhermal coal demand is set to continue to grow"
+      ],
+      "section_path_text": "Τhermal coal demand is set to continue to grow",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Last week began with the pound experiencing a flash crash, and then two days later the Bank of England pivoting away from quantitative tightening.",
+      "keywords": [
+        "last",
+        "away",
+        "bank",
+        "began",
+        "crash",
+        "days",
+        "england",
+        "experiencing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__s09_dry_bulk_freight_rates_only_registered_minor_changes",
+      "doc_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__root",
+      "title": "Dry bulk freight rates only registered minor changes",
+      "section_path": [
+        "Dry bulk freight rates only registered minor changes"
+      ],
+      "section_path_text": "Dry bulk freight rates only registered minor changes",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "The US economy has seen a few weaker-than-expected economic data releases so far this week.",
+      "keywords": [
+        "data",
+        "economic",
+        "economy",
+        "far",
+        "few",
+        "read",
+        "releases",
+        "seen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__s10_supply_side_issues_dominated_sentiment",
+      "doc_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-09_2022_10_09_weekly_insights_review__root",
+      "title": "Supply side issues dominated sentiment",
+      "section_path": [
+        "Supply side issues dominated sentiment"
+      ],
+      "section_path_text": "Supply side issues dominated sentiment",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "The spectre of further disruptions saw metals and energy rise. This offset the headwinds from hawkish central banks that helped push the USD higher.",
+      "keywords": [
+        "banks",
+        "central",
+        "disruptions",
+        "energy",
+        "further",
+        "hawkish",
+        "headwinds",
+        "helped"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

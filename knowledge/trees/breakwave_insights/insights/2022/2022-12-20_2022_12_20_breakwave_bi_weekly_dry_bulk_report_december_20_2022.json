@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-20_2022_12_20_breakwave_bi_weekly_dry_bulk_report_december_20_2022__root",
+  "doc_id": "breakwave_insights_insights_2022-12-20_2022_12_20_breakwave_bi_weekly_dry_bulk_report_december_20_2022",
+  "parent_id": null,
+  "title": "Breakwave Bi Weekly Dry Bulk Report December 20 2022",
+  "section_path": [
+    "Breakwave Bi Weekly Dry Bulk Report December 20 2022"
+  ],
+  "section_path_text": "Breakwave Bi Weekly Dry Bulk Report December 20 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSanta rally for spot, doom and gloom for futures - All it took was some (anticipated?) delays and inclement weather in the North Atlantic for spot Capesize rates to recover, albeit at a much later stage than historically has been the case. December, which has been the weakest link of the fourth quarter for many months now, seems to be heading for a relatively strong close with both the monthly average and the spot level at multi-month highs. Yet, the bearishness of market participants remain amble, with the forward curve lingering at particularly depressing levels despite the spot market revival.",
+  "keywords": [
+    "capesize",
+    "china",
+    "atlantic",
+    "iron_ore",
+    "steel",
+    "year",
+    "are",
+    "back",
+    "demand",
+    "new",
+    "strong",
+    "activity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 655,
+  "source_path": "reports/breakwave/2022/2022-12-20_breakwave-bi-weekly-dry-bulk-report-december-20-2022.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/20/breakwave-bi-weekly-dry-bulk-report-december-20-2022",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-20_2022_12_20_breakwave_bi_weekly_dry_bulk_report_december_20_2022__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-20_2022_12_20_breakwave_bi_weekly_dry_bulk_report_december_20_2022",
+      "parent_id": "breakwave_insights_insights_2022-12-20_2022_12_20_breakwave_bi_weekly_dry_bulk_report_december_20_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Santa rally for spot, doom and gloom for futures - All it took was some (anticipated?) delays and inclement weather in the North Atlantic for spot Capesize rates to recover, albeit at a much later stage than historically has been the case. December, which has been the weakest link of the fourth quarter for many months now, seems to be heading for a relatively strong close with both the monthly average and the spot level at multi-month highs.",
+      "keywords": [
+        "capesize",
+        "china",
+        "atlantic",
+        "iron_ore",
+        "steel",
+        "year",
+        "are",
+        "back"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 653,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

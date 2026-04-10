@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-05-07_2021_05_07_the_big_picture_capesize_market__root",
+  "doc_id": "breakwave_insights_insights_2021-05-07_2021_05_07_the_big_picture_capesize_market",
+  "parent_id": null,
+  "title": "The Big Picture Capesize Market",
+  "section_path": [
+    "The Big Picture Capesize Market"
+  ],
+  "section_path_text": "The Big Picture Capesize Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nick Ristic\nSince we last wrote about this market, rates have continued to strengthen approaching ‘good old days' territory. Both fundamentals and improved sentiment have brought us this far, but have we reached a short-term peak? Rally in context\nIt's only been three weeks since our last report on the Capesize market, but the blistering surge in freight to decade-high levels warrants taking a step back and giving an update on the drivers of this bull run.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "pacific",
+    "india",
+    "iron_ore",
+    "coal",
+    "steel",
+    "last",
+    "demand",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1124,
+  "source_path": "reports/breakwave/2021/2021-05-07_the-big-picture-capesize-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/5/7/the-big-picture-capesize-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-05-07_2021_05_07_the_big_picture_capesize_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-05-07_2021_05_07_the_big_picture_capesize_market",
+      "parent_id": "breakwave_insights_insights_2021-05-07_2021_05_07_the_big_picture_capesize_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nick Ristic\nSince we last wrote about this market, rates have continued to strengthen approaching ‘good old days' territory. Both fundamentals and improved sentiment have brought us this far, but have we reached a short-term peak?",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "pacific",
+        "india",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1122,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

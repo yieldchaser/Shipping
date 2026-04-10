@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-06_2023_11_06_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-11-06_2023_11_06_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nIn spite of an impressive Capesize reaction in the last trading day, the forty-fourth week was one of those uninspiring periods typically taking place in the seasonal weakest first quarter of every trading year rather than the fourth one. In fact, with all sub-indices being in the red, Baltic Dry Index concluded today at 1462 points. Reporting circa 4 percent weekly losses, the leading Baltic Capesize index was flirting with the mid teens, before bouncing back to $17,690 daily on this week's closing.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "india",
+    "japan",
+    "manufacturing",
+    "pmi",
+    "october",
+    "september.",
+    "trading"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 958,
+  "source_path": "reports/breakwave/2023/2023-11-06_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/6/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-06_2023_11_06_doric_weekly_market_insight__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-06_2023_11_06_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-11-06_2023_11_06_doric_weekly_market_insight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nIn spite of an impressive Capesize reaction in the last trading day, the forty-fourth week was one of those uninspiring periods typically taking place in the seasonal weakest first quarter of every trading year rather than the fourth one. In fact, with all sub-indices being in the red, Baltic Dry Index concluded today at 1462 points.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "india",
+        "japan",
+        "manufacturing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 956,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

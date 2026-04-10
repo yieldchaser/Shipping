@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-08-04_2021_08_05_global_iron_ore_production_dictates_chinas_iron_ore_import_v__root",
+  "doc_id": "breakwave_insights_insights_2021-08-04_2021_08_05_global_iron_ore_production_dictates_chinas_iron_ore_import_v",
+  "parent_id": null,
+  "title": "Global Iron Ore Production Dictates Chinas Iron Ore Import Volume",
+  "section_path": [
+    "Global Iron Ore Production Dictates Chinas Iron Ore Import Volume"
+  ],
+  "section_path_text": "Global Iron Ore Production Dictates Chinas Iron Ore Import Volume",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nIn recent weeks, more provinces in China have been announcing that they will be reducing steel production as the central government continues to voice that it wants to cap 2021's crude steel production at 2020's total. While it is virtually impossible that China's crude steel production this year will total no more than 2020's year's record 1.05 billion ton total, steel production will certainly continue to come under some government-mandated pressure. However, we remain of our view that steel production this year will ultimately not come close to contracting.",
+  "keywords": [
+    "china",
+    "brazil",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "production",
+    "crude",
+    "imports",
+    "year-on-year",
+    "year",
+    "grew"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 957,
+  "source_path": "reports/breakwave/2021/2021-08-05_global-iron-ore-production-dictates-chinas-iron-ore-import-v.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/8/4/global-iron-ore-production-dictates-chinas-iron-ore-import-volume",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-08-04_2021_08_05_global_iron_ore_production_dictates_chinas_iron_ore_import_v__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-08-04_2021_08_05_global_iron_ore_production_dictates_chinas_iron_ore_import_v",
+      "parent_id": "breakwave_insights_insights_2021-08-04_2021_08_05_global_iron_ore_production_dictates_chinas_iron_ore_import_v__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nIn recent weeks, more provinces in China have been announcing that they will be reducing steel production as the central government continues to voice that it wants to cap 2021's crude steel production at 2020's total. While it is virtually impossible that China's crude steel production this year will total no more than 2020's year's record 1.05 billion ton total, steel production will certainly continue to come under some government-mandated pressure.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "production",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 955,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-12-15_2020_12_15_commodity_prices_the_pressure_is_on__root",
+  "doc_id": "breakwave_insights_insights_2020-12-15_2020_12_15_commodity_prices_the_pressure_is_on",
+  "parent_id": null,
+  "title": "Commodity Prices The Pressure Is On",
+  "section_path": [
+    "Commodity Prices The Pressure Is On"
+  ],
+  "section_path_text": "Commodity Prices The Pressure Is On",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nChina is starting to see surging commodity prices as a potential threat to industrial profit margins and the continued strength of the country's industrial expansion, which by now is well beyond what can be deemed a recovery. In many aspects, the country is at risk of being a victim of its own success, with its appetite driving commodity prices higher. Recent news that Chinese authorities are requesting iron ore producers, such as BHP, to explain the surging prices must be seen as an acknowledgement that the strength of the industrial commodity markets could dent the ongoing industrial success story.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "europe",
+    "iron_ore",
+    "coal",
+    "prices",
+    "chinese",
+    "are",
+    "iron",
+    "ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 703,
+  "source_path": "reports/breakwave/2020/2020-12-15_commodity-prices-the-pressure-is-on.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/12/15/commodity-prices-the-pressure-is-on",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-12-15_2020_12_15_commodity_prices_the_pressure_is_on__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-12-15_2020_12_15_commodity_prices_the_pressure_is_on",
+      "parent_id": "breakwave_insights_insights_2020-12-15_2020_12_15_commodity_prices_the_pressure_is_on__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nChina is starting to see surging commodity prices as a potential threat to industrial profit margins and the continued strength of the country's industrial expansion, which by now is well beyond what can be deemed a recovery. In many aspects, the country is at risk of being a victim of its own success, with its appetite driving commodity prices higher.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "europe",
+        "iron_ore",
+        "coal",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 701,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

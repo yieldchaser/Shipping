@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_tanker_charter_2021-09-08_2021_09_08_weekly_tanker_time_charter_estimates_september_08_2021__root",
+  "doc_id": "hellenic_tanker_charter_2021-09-08_2021_09_08_weekly_tanker_time_charter_estimates_september_08_2021",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, September 08 2021",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, September 08 2021"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, September 08 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn the crude spot market, rates firmed slightly as more cargo entered the market but this has yet to have an impacton the period market where rates remained flat. Limited fresh period business to report on the clean side as the market remained at low levels. Oil prices fell mid-week on concerns over weak demand in the US and Asia and pressure from a strong dollar.",
+  "keywords": [
+    "us_gulf",
+    "crude_oil",
+    "period",
+    "remained",
+    "asia",
+    "business",
+    "but",
+    "capped",
+    "cargo",
+    "clean",
+    "coast",
+    "concerns"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 119,
+  "source_path": "reports/hellenic/tanker_charter/2021/2021-09-08_weekly-tanker-time-charter-estimates-september-08-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-september-08-2021",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2021-09-08_2021_09_08_weekly_tanker_time_charter_estimates_september_08_2021__s01_main",
+      "doc_id": "hellenic_tanker_charter_2021-09-08_2021_09_08_weekly_tanker_time_charter_estimates_september_08_2021",
+      "parent_id": "hellenic_tanker_charter_2021-09-08_2021_09_08_weekly_tanker_time_charter_estimates_september_08_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the crude spot market, rates firmed slightly as more cargo entered the market but this has yet to have an impacton the period market where rates remained flat. Limited fresh period business to report on the clean side as the market remained at low levels.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "period",
+        "remained",
+        "asia",
+        "business",
+        "but",
+        "capped"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

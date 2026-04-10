@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-11-10_2021_11_10_mmi_daily_iron_ore_index_report_november_10_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-11-10_2021_11_10_mmi_daily_iron_ore_index_report_november_10_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report November 10 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report November 10 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report November 10 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 10/11/2021\nDCE iron ore futures fell sharply today, and I2201 hit new low of 671 yuan/mt. an decrease of 4.62% throughout the day;the quotation in themorning was decreased by 30-50 yuan/mt over yesterday. some traders were active to sell, and they were gived more bargain space.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "iron",
+    "mills",
+    "ore",
+    "active",
+    "dealt",
+    "decreased",
+    "expected",
+    "low"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 261,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-11-10_mmi-daily-iron-ore-index-report-november-10-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-10-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-11-10_2021_11_10_mmi_daily_iron_ore_index_report_november_10_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-11-10_2021_11_10_mmi_daily_iron_ore_index_report_november_10_2021",
+      "parent_id": "hellenic_iron_ore_2021-11-10_2021_11_10_mmi_daily_iron_ore_index_report_november_10_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 10/11/2021\nDCE iron ore futures fell sharply today, and I2201 hit new low of 671 yuan/mt. an decrease of 4.62% throughout the day;the quotation in themorning was decreased by 30-50 yuan/mt over yesterday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "iron",
+        "mills",
+        "ore",
+        "active"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

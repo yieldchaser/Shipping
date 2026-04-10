@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-10-20_2020_10_20_vale_where_is_all_the_iron_ore_going_to__root",
+  "doc_id": "breakwave_insights_insights_2020-10-20_2020_10_20_vale_where_is_all_the_iron_ore_going_to",
+  "parent_id": null,
+  "title": "Vale Where Is All The Iron Ore Going To",
+  "section_path": [
+    "Vale Where Is All The Iron Ore Going To"
+  ],
+  "section_path_text": "Vale Where Is All The Iron Ore Going To",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVale, the Brazilian mining company, yesterday reported third quarter production figures, and although production numbers were generally in line with expectations, reported sales for iron ore were well below what the historical relationship between production and sales would have pointed to. In fact, despite iron ore production being about 2mt above last year's level, iron ore sales were almost 11mt below last year. Such a variation can have a major impact on shipping volumes, although it is unclear what the size of such impact is at any given time.",
+  "keywords": [
+    "china",
+    "brazil",
+    "iron_ore",
+    "vale",
+    "production",
+    "sales",
+    "but",
+    "inventories",
+    "iron",
+    "last",
+    "below",
+    "ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 524,
+  "source_path": "reports/breakwave/2020/2020-10-20_vale-where-is-all-the-iron-ore-going-to.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/10/20/vale-where-is-all-the-iron-ore-going-to",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-10-20_2020_10_20_vale_where_is_all_the_iron_ore_going_to__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-10-20_2020_10_20_vale_where_is_all_the_iron_ore_going_to",
+      "parent_id": "breakwave_insights_insights_2020-10-20_2020_10_20_vale_where_is_all_the_iron_ore_going_to__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Vale, the Brazilian mining company, yesterday reported third quarter production figures, and although production numbers were generally in line with expectations, reported sales for iron ore were well below what the historical relationship between production and sales would have pointed to. In fact, despite iron ore production being about 2mt above last year's level, iron ore sales were almost 11mt below last year.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "vale",
+        "production",
+        "sales",
+        "but",
+        "inventories"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 522,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

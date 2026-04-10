@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-19_2023_01_20_russia_overcomes_eu_ban_with_record_high_crude_exports_to_in__root",
+  "doc_id": "breakwave_insights_insights_2023-01-19_2023_01_20_russia_overcomes_eu_ban_with_record_high_crude_exports_to_in",
+  "parent_id": null,
+  "title": "Russia Overcomes Eu Ban With Record High Crude Exports To India",
+  "section_path": [
+    "Russia Overcomes Eu Ban With Record High Crude Exports To India"
+  ],
+  "section_path_text": "Russia Overcomes Eu Ban With Record High Crude Exports To India",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Serena Huang\nRussia exported record-high volumes of crude to India in 1H January, facilitated by tonnage supply from existing and incumbent shipowners. Since the EU ban took effect last December, the reshuffle of Russian crude has been much smoother than many market participants had anticipated. Russian Urals trading at prices below the price cap has been a key enabler, with existing and incumbent shipowners offering sufficient tonnage to ship Russian crude to Asia despite the longer distances compared to before.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "crude",
+    "russian",
+    "december",
+    "russia",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 811,
+  "source_path": "reports/breakwave/2023/2023-01-20_russia-overcomes-eu-ban-with-record-high-crude-exports-to-in.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/19/russia-overcomes-eu-ban-with-record-high-crude-exports-to-india",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-19_2023_01_20_russia_overcomes_eu_ban_with_record_high_crude_exports_to_in__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-19_2023_01_20_russia_overcomes_eu_ban_with_record_high_crude_exports_to_in",
+      "parent_id": "breakwave_insights_insights_2023-01-19_2023_01_20_russia_overcomes_eu_ban_with_record_high_crude_exports_to_in__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Serena Huang\nRussia exported record-high volumes of crude to India in 1H January, facilitated by tonnage supply from existing and incumbent shipowners. Since the EU ban took effect last December, the reshuffle of Russian crude has been much smoother than many market participants had anticipated.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 673,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-19_2023_01_20_russia_overcomes_eu_ban_with_record_high_crude_exports_to_in__s02_count_of_vessels_that_loaded_russian_crude_to_india_after_5_dec_by_age_profile",
+      "doc_id": "breakwave_insights_insights_2023-01-19_2023_01_20_russia_overcomes_eu_ban_with_record_high_crude_exports_to_in",
+      "parent_id": "breakwave_insights_insights_2023-01-19_2023_01_20_russia_overcomes_eu_ban_with_record_high_crude_exports_to_in__root",
+      "title": "Count of vessels that loaded Russian crude to India after 5 Dec by age profile",
+      "section_path": [
+        "Count of vessels that loaded Russian crude to India after 5 Dec by age profile"
+      ],
+      "section_path_text": "Count of vessels that loaded Russian crude to India after 5 Dec by age profile",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The implementation of the 5 February EU ban will see another round of dislocation of Russian oil products, but the additional dirty tanker tonnage required arising from the reshuffle of Russian fuel oil to Asia and the Middle East is expected to be minimal. The diversion of Russian fuel oil away from the EU started last May, and as of December, only 350kt (or 10%) of exports are headed to the EU.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "oil",
+        "russian",
+        "exports",
+        "fuel",
+        "its",
+        "additional"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

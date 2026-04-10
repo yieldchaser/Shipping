@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-23_2023_05_23_brs_dry_bulk_weekly_newsletter__root",
+  "doc_id": "breakwave_insights_insights_2023-05-23_2023_05_23_brs_dry_bulk_weekly_newsletter",
+  "parent_id": null,
+  "title": "Brs Dry Bulk Weekly Newsletter",
+  "section_path": [
+    "Brs Dry Bulk Weekly Newsletter"
+  ],
+  "section_path_text": "Brs Dry Bulk Weekly Newsletter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Between The Promise of Tomorrow & The Reality of Today\nIn our earlier issue dated 13th April, we dissected several talking points that shaped India's narrative as an alternative to China for decades to come. Now, it is worth looking at the structural factors of why India's outlook should be steadfast at a time when the global economy is pitching in heavy seas. The Ministry of Commerce and Industry data suggest that India's merchandise imports value has hovered above USD 400 billion, while exports were circa USD 300 billion from 2016 to 2020 until the pandemic lockdowns came into force.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "japan",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "products",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2160,
+  "source_path": "reports/breakwave/2023/2023-05-23_brs-dry-bulk-weekly-newsletter.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/23/brs-dry-bulk-weekly-newsletter",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-23_2023_05_23_brs_dry_bulk_weekly_newsletter__s01_between_the_promise_of_tomorrow_the_reality_of_today",
+      "doc_id": "breakwave_insights_insights_2023-05-23_2023_05_23_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-05-23_2023_05_23_brs_dry_bulk_weekly_newsletter__root",
+      "title": "Between The Promise of Tomorrow & The Reality of Today",
+      "section_path": [
+        "Between The Promise of Tomorrow & The Reality of Today"
+      ],
+      "section_path_text": "Between The Promise of Tomorrow & The Reality of Today",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In our earlier issue dated 13th April, we dissected several talking points that shaped India's narrative as an alternative to China for decades to come. Now, it is worth looking at the structural factors of why India's outlook should be steadfast at a time when the global economy is pitching in heavy seas.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "pacific",
+        "europe",
+        "india",
+        "japan",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1928,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-23_2023_05_23_brs_dry_bulk_weekly_newsletter__s02_future_outlook",
+      "doc_id": "breakwave_insights_insights_2023-05-23_2023_05_23_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-05-23_2023_05_23_brs_dry_bulk_weekly_newsletter__root",
+      "title": "Future Outlook:",
+      "section_path": [
+        "Future Outlook:"
+      ],
+      "section_path_text": "Future Outlook:",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "India's dependency on imports to meet its energy needs is slated to only grow as domestic production couldn't keep up with the consumption growth at a time when the country is being projected as the fastest-growing economy. The uncertainty, however, looms as its major trading partners, China (trade deficit) and the USA (trade surplus) face significant headwinds down the road.",
+      "keywords": [
+        "china",
+        "india",
+        "its",
+        "country",
+        "given",
+        "trade",
+        "usa",
+        "advantage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 218,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

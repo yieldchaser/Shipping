@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nInterest rates dominated the past week's news flow. After bringing the interest rate to the highest level since 2007, the Federal Reserve paused its current hiking cycle as US inflation showed signs of slowing. However, officials from the US central bank stressed after the announcement that there is more to be done in the fight against inflation, and that more hikes are on the cards.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "pacific",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1468,
+  "source_path": "reports/breakwave/2023/2023-06-20_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/20/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Interest rates dominated the past week's news flow. After bringing the interest rate to the highest level since 2007, the Federal Reserve paused its current hiking cycle as US inflation showed signs of slowing.",
+      "keywords": [
+        "china",
+        "pacific",
+        "inflation",
+        "interest",
+        "after",
+        "are",
+        "bank",
+        "central"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 177,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil swung between daily gains and losses last week as traders dealt with opposing economic signals. Continued uncertainty over the global economy competed with expectations of more Chinese stimulus, contributing to the week's volatile conditions.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 625,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Despite a 1.6 per cent decline on Friday, the Baltic Dry Index recorded a gain of 2.0 per cent during the past week. Friday's negative performance for the headline index was mostly due to a 4.4 per cent drop for the Capesizes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 424,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-20_2023_06_20_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Despite gaining around 25 per cent month-to-date, European coal prices remain nearly 70 per cent below the levels recorded in September last year. A substantial drop in natural gas prices has tempered the continent's newfound appetite for the dirtiest of fossil fuels and seen cargo order volumes for coal discharging in Europe trending lower since the third quarter of last year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "europe",
+        "coal",
+        "gas",
+        "european",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

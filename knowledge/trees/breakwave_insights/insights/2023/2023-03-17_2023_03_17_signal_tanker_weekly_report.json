@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Crude Oil Flows from the U.S. to Asia reach a peak in March\nData Source: The Signal Ocean Platform, Toncharts - Oil Flows https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2nr2jx/308109267?h=p1xmSLqTiy2avUK-112PL1_Kghc4XUSNUuNqwTqVMIw\nCrude oil freight rates continue higher, as crude oil tanker supply declines in the first half of March. Interestingly, there is an upward trend in the clean segment for product and MR tankers, which is expected to continue in the coming days of March.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1185,
+  "source_path": "reports/breakwave/2023/2023-03-17_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/17/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__s01_chart_of_the_week_crude_oil_flows_from_the_u_s_to_asia_reach_a_peak_in_march",
+      "doc_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__root",
+      "title": "Chart of the Week: Crude Oil Flows from the U.S. to Asia reach a peak in March",
+      "section_path": [
+        "Chart of the Week: Crude Oil Flows from the U.S. to Asia reach a peak in March"
+      ],
+      "section_path_text": "Chart of the Week: Crude Oil Flows from the U.S. to Asia reach a peak in March",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Data Source: The Signal Ocean Platform, Toncharts - Oil Flows https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2nr2jx/308109267?h=p1xmSLqTiy2avUK-112PL1_Kghc4XUSNUuNqwTqVMIw\nCrude oil freight rates continue higher, as crude oil tanker supply declines in the first half of March. Interestingly, there is an upward trend in the clean segment for product and MR tankers, which is expected to continue in the coming days of March.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil",
+        "crude",
+        "demand",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 368,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__s03_dirty_vlcc_suezmax_aframax_firmer",
+      "doc_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__root",
+      "title": "‘ Dirty ' VLCC , Suezmax, Aframax- Firmer",
+      "section_path": [
+        "‘ Dirty ' VLCC , Suezmax, Aframax- Firmer"
+      ],
+      "section_path_text": "‘ Dirty ' VLCC , Suezmax, Aframax- Firmer",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil freight rate sentiment continued to improve with a steady increase in the VLCC segment and consistent momentum for Aframax vessels. VLCC AG-FE freight rates were at WS92, almost 20 points higher than two weeks ago.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "almost",
+        "points"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__s04_product_lr2_lr1_softening",
+      "doc_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__root",
+      "title": "‘ Product ' LR2 - LR1 | Softening",
+      "section_path": [
+        "‘ Product ' LR2 - LR1 | Softening"
+      ],
+      "section_path_text": "‘ Product ' LR2 - LR1 | Softening",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "LR2 AG freight rates saw a slowdown in momentum, falling to WS 185, almost 10 points lower than a week ago. LR1 MEG -to-Japan freight rates posted a similar weakening to LR2, falling 10 points to WS195, with signs of a possible further decline in the coming days.",
+      "keywords": [
+        "panamax",
+        "meg",
+        "japan",
+        "almost",
+        "falling",
+        "lr2",
+        "points",
+        "rising"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 113,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__s05_clean_mr2_mr1_firmer",
+      "doc_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' MR2, MR1 - Firmer",
+      "section_path": [
+        "‘ Clean ' MR2, MR1 - Firmer"
+      ],
+      "section_path_text": "‘ Clean ' MR2, MR1 - Firmer",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "MR1 rates Algeria-to-Med are now at WS335, almost 86% higher than a week ago. MR1 rates Baltic-to-Cont are now at WS210, 42 points higher than a week earlier.",
+      "keywords": [
+        "are",
+        "now",
+        "higher",
+        "mr1",
+        "ago.",
+        "ahead.",
+        "algeria-to-med",
+        "almost"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__s06_section_2_supply_vessels_dirty_supply_trend_lines_for_key_load_areas_vlcc_aframax_decreasing_suezmax_increasing",
+      "doc_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Decreasing | Suezmax - Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Decreasing | Suezmax - Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Decreasing | Suezmax - Increasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The supply of crude oil tankers has increased significantly in the Suezmax, while the number of vessels in the VLCC segment is still below the annual average. VLCC Ras Tanura : The number of vessels is now around 48, 28 less than the annual average.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "crude_oil",
+        "number",
+        "annual",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__s08_clean_supply_trend_lines_for_key_load_areas_mr1_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "section_path": [
+        "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Clean LR2 AG Jubail: The number of vessels held at a level of about 12, with an increasing trend in the third week of March, approaching the annual average. Clean MR1 Algeria Skikda: The number of vessels decreased to 25, 5 less than the previous week and 7 below the average for the year.",
+      "keywords": [
+        "clean",
+        "number",
+        "vessels",
+        "algeria",
+        "annual",
+        "approaching",
+        "average",
+        "average."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 70,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__s11_clean_panamax_increasing_mr2_mr1_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-17_2023_03_17_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' | Panamax - Increasing | MR2 - MR1 - Decreasing",
+      "section_path": [
+        "‘ Clean ' | Panamax - Increasing | MR2 - MR1 - Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' | Panamax - Increasing | MR2 - MR1 - Decreasing",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Dirty demand ton-days: The significant strength in the VLCC segment is keeping up in March, while the slowing momentum in the Suezmax is still there with a soft gradual upward trend seen in the Aframax. Clean demand ton-days / Panamax demand: The previous week's decline reversed into a positive trend, and it remains to be seen whether this will also be the case in the second half of March.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "trend",
+        "demand",
+        "clean",
+        "march."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

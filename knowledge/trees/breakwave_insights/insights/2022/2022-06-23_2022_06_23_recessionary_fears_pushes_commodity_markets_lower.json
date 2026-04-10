@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-23_2022_06_23_recessionary_fears_pushes_commodity_markets_lower__root",
+  "doc_id": "breakwave_insights_insights_2022-06-23_2022_06_23_recessionary_fears_pushes_commodity_markets_lower",
+  "parent_id": null,
+  "title": "Recessionary Fears Pushes Commodity Markets Lower",
+  "section_path": [
+    "Recessionary Fears Pushes Commodity Markets Lower"
+  ],
+  "section_path_text": "Recessionary Fears Pushes Commodity Markets Lower",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nRecessionary fears rattled commodity markets, with metals and oil falling sharply. Conversely, precious metals found support on strong haven demand. Copper led the base metals sector lower as concerns of an economic slowdown intensified.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "amid",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 697,
+  "source_path": "reports/breakwave/2022/2022-06-23_recessionary-fears-pushes-commodity-markets-lower.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/23/recessionary-fears-pushes-commodity-markets-lower",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-23_2022_06_23_recessionary_fears_pushes_commodity_markets_lower__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-23_2022_06_23_recessionary_fears_pushes_commodity_markets_lower",
+      "parent_id": "breakwave_insights_insights_2022-06-23_2022_06_23_recessionary_fears_pushes_commodity_markets_lower__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nRecessionary fears rattled commodity markets, with metals and oil falling sharply. Conversely, precious metals found support on strong haven demand.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 695,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

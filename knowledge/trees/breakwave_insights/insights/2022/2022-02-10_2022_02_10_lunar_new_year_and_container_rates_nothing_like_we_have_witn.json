@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-10_2022_02_10_lunar_new_year_and_container_rates_nothing_like_we_have_witn__root",
+  "doc_id": "breakwave_insights_insights_2022-02-10_2022_02_10_lunar_new_year_and_container_rates_nothing_like_we_have_witn",
+  "parent_id": null,
+  "title": "Lunar New Year And Container Rates Nothing Like We Have Witnessed Before",
+  "section_path": [
+    "Lunar New Year And Container Rates Nothing Like We Have Witnessed Before"
+  ],
+  "section_path_text": "Lunar New Year And Container Rates Nothing Like We Have Witnessed Before",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Patrik Berglund\nIt was different pre-Covid. Typically, in the four-week run-up from 1st January to the start of Lunar New Year, box rates would rise, container availability in Asia would start to tighten, and neophyte traders and western buyers would panic. Traders would suddenly realize that the holiday was far more complicated than an evening of fireworks and large red dragon kites during this period.",
+  "keywords": [
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "are",
+    "new",
+    "holiday",
+    "would",
+    "year",
+    "beijing",
+    "box",
+    "lunar"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1008,
+  "source_path": "reports/breakwave/2022/2022-02-10_lunar-new-year-and-container-rates-nothing-like-we-have-witn.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/10/lunar-new-year-and-container-rates-nothing-like-we-have-witnessed-before",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-10_2022_02_10_lunar_new_year_and_container_rates_nothing_like_we_have_witn__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-10_2022_02_10_lunar_new_year_and_container_rates_nothing_like_we_have_witn",
+      "parent_id": "breakwave_insights_insights_2022-02-10_2022_02_10_lunar_new_year_and_container_rates_nothing_like_we_have_witn__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Patrik Berglund\nIt was different pre-Covid. Typically, in the four-week run-up from 1st January to the start of Lunar New Year, box rates would rise, container availability in Asia would start to tighten, and neophyte traders and western buyers would panic.",
+      "keywords": [
+        "container",
+        "china",
+        "holiday",
+        "was",
+        "would",
+        "availability",
+        "asia",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-10_2022_02_10_lunar_new_year_and_container_rates_nothing_like_we_have_witn__s02_but_it_s_clearly_different_today",
+      "doc_id": "breakwave_insights_insights_2022-02-10_2022_02_10_lunar_new_year_and_container_rates_nothing_like_we_have_witn",
+      "parent_id": "breakwave_insights_insights_2022-02-10_2022_02_10_lunar_new_year_and_container_rates_nothing_like_we_have_witn__root",
+      "title": "But it's clearly different today.",
+      "section_path": [
+        "But it's clearly different today."
+      ],
+      "section_path_text": "But it's clearly different today.",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Lunar New Year in China is virtually canceled for the third year running as China's Zero-Covid policy has now turned into Zero-Omicron policy. Beijing's strategy of locking-down cities and curbing domestic travel includes and affects container movements and port operations.",
+      "keywords": [
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "are",
+        "beijing",
+        "new",
+        "box"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 798,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

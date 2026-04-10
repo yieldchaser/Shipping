@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-09-10_2021_09_10_china_the_growth_is_under_pressure_but_indicators_remain_mix__root",
+  "doc_id": "breakwave_insights_insights_2021-09-10_2021_09_10_china_the_growth_is_under_pressure_but_indicators_remain_mix",
+  "parent_id": null,
+  "title": "China The Growth Is Under Pressure But Indicators Remain Mixed",
+  "section_path": [
+    "China The Growth Is Under Pressure But Indicators Remain Mixed"
+  ],
+  "section_path_text": "China The Growth Is Under Pressure But Indicators Remain Mixed",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe Chinese economy is, after a long period of exceptional growth, showing signs of a slowdown. The release of the inflation data earlier in the week yet again showed the disconnect between the export-driven industry and the domestic economy. The year-on-year price increases that the Chinese producers are facing are the steepest in thirteen years, at 9.5 per cent, and was above what the economists were anticipating.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "chinese",
+    "economy",
+    "cent",
+    "per",
+    "domestic",
+    "property",
+    "economic",
+    "growth",
+    "analysts"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 934,
+  "source_path": "reports/breakwave/2021/2021-09-10_china-the-growth-is-under-pressure-but-indicators-remain-mix.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/9/10/china-the-growth-is-under-pressure-but-indicators-remain-mixed",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-09-10_2021_09_10_china_the_growth_is_under_pressure_but_indicators_remain_mix__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-09-10_2021_09_10_china_the_growth_is_under_pressure_but_indicators_remain_mix",
+      "parent_id": "breakwave_insights_insights_2021-09-10_2021_09_10_china_the_growth_is_under_pressure_but_indicators_remain_mix__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe Chinese economy is, after a long period of exceptional growth, showing signs of a slowdown. The release of the inflation data earlier in the week yet again showed the disconnect between the export-driven industry and the domestic economy.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "chinese",
+        "economy",
+        "cent",
+        "per",
+        "domestic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 932,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

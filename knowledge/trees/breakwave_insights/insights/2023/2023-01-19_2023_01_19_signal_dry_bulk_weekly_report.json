@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe start of the new year brings weaker sentiment in freight rates, with an increase in the number of ballast vessels and significant downward revisions in demand growth. Although December ended with a stable monthly volume of iron ore flows to China (see chart below), January indicates a slowdown in capesize freight rate momentum. It remains to be seen how freight rate sentiment will evolve in the coming days, as China's reopening of COVID -19 restrictions has fueled hopes for stronger economic activity and a surge in imports.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "europe",
+    "iron_ore",
+    "steel",
+    "number",
+    "vessels",
+    "demand",
+    "end"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1070,
+  "source_path": "reports/breakwave/2023/2023-01-19_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/19/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The start of the new year brings weaker sentiment in freight rates, with an increase in the number of ballast vessels and significant downward revisions in demand growth. Although December ended with a stable monthly volume of iron ore flows to China (see chart below), January indicates a slowdown in capesize freight rate momentum.",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "year",
+        "new",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 240,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nIn January, a weaker trend in spot freight rates emerged for all ship size classes, with the decline in the Supramax segment appearing to be more pronounced at the beginning of the new year. Capesize vessel freight rates fell to $17.7/tonne, down $3.5/tonne from the last few days of December, while today's level is similar to the sentiment that prevailed on similar days a year ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "down",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 236,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__s03_section_2_supply_ballasters_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ballast ships in the Handysize, Supramax and Panamax size classes has increased and has been above the annual average since the end of the second week of January. Capesize SE Africa: The number of vessels is now 72, 14 more than in the last week of December, continues to increase and is approaching the annual average of 78.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "annual",
+        "average",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 192,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__s04_section_3_demand_tondays_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Decreasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Decreasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Decreasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Demand growth slowed significantly with the start of the new year, with the sharpest decline in demand for Handysize vessels. Capesize demand ton-days: The downward trend in the three weeks of January supported weaker sentiment in freight rates, which are expected to weaken further by the end of the month.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "downward",
+        "ton-days",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__s05_section_4_port_congestion_no_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-19_2023_01_19_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "In the first days of January, congestion reached a new high, exceeding the high level of week 27, with a significant increase in the Panamax and Handysize segments. Capesize: The number of vessels increased to 154, 7 more than the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "increased",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

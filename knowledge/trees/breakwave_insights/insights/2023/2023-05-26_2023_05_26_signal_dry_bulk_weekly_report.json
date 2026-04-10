@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week Dry Bulk: Ukraine grains to all destinations\nDespite signs of recovery in the 1Q, the volume of flows is still lower than last year\nData Source: The Signal Ocean Platform, Dry Bulk Flows https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nzhdm/321955743?h=olvQJblfjdhCN66ma6KDF7nxt2xFcQdU0D_YySc2VAk\nIn the closing days of May, the freight market experienced a notable slowdown in momentum, primarily observed in the Capesize segment. Conversely, the smaller vessel size segments have maintained a relatively stable outlook. However, uncertainty continues to prevail as the demand picture remains relatively weak.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "europe",
+    "iron_ore",
+    "grain",
+    "previous",
+    "vessels",
+    "count",
+    "number"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1249,
+  "source_path": "reports/breakwave/2023/2023-05-26_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/26/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_ukraine_grains_to_all_destinations",
+      "doc_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: Ukraine grains to all destinations",
+      "section_path": [
+        "Chart of the Week Dry Bulk: Ukraine grains to all destinations"
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: Ukraine grains to all destinations",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Despite signs of recovery in the 1Q, the volume of flows is still lower than last year\nData Source: The Signal Ocean Platform, Dry Bulk Flows https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nzhdm/321955743?h=olvQJblfjdhCN66ma6KDF7nxt2xFcQdU0D_YySc2VAk\nIn the closing days of May, the freight market experienced a notable slowdown in momentum, primarily observed in the Capesize segment. Conversely, the smaller vessel size segments have maintained a relatively stable outlook.",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "grain",
+        "volume",
+        "black",
+        "demand",
+        "extension"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 329,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t",
+      "doc_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t)",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t)"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Capesize - Softening | Panamax - Weaker | Supramax - Handysize - Steady\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nIn the fourth week of May, the performance of freight rates across different vessel size categories presented a mixed outlook. The Panamax segment experienced relatively weaker performance compared to other categories, while a steady sentiment prevailed in the Supramax segment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "below",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 248,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__s03_section_2_supply_ballasters_vessels",
+      "doc_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels)",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels)"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Capesize - Panamax - Supramax - Handysize Increasing\nSupply Trend Lines for Key Load Areas\nThe number of ballasters continues to show an upward trend across larger ship categories, indicating sustained growth. Furthermore, there are signs of an increase in ballasters among Supramax and Handysize ships.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "previous",
+        "number",
+        "above"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__s04_section_3_demand_tondays_softening",
+      "doc_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Softening",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Softening"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Softening",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The number of ballasters continues to show an upward trend across larger ship categories, indicating a sustained growth. Furthermore, there are signs of an increase in ballasters among Supramax and Handysize ships.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "previous",
+        "number",
+        "above"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__s05_section_4_port_congestion_no_of_vessels_increasing_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-26_2023_05_26_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "May witnessed a persistent increase in congestion for the third consecutive week, setting a new record high. Notably, the Capesize and Handysize segments experienced noticeable increments in congestion levels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "count",
+        "previous",
+        "congestion",
+        "ships"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

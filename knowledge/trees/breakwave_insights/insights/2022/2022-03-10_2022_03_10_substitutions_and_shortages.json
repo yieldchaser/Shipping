@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-03-10_2022_03_10_substitutions_and_shortages__root",
+  "doc_id": "breakwave_insights_insights_2022-03-10_2022_03_10_substitutions_and_shortages",
+  "parent_id": null,
+  "title": "Substitutions And Shortages",
+  "section_path": [
+    "Substitutions And Shortages"
+  ],
+  "section_path_text": "Substitutions And Shortages",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe number of destinations available for Russian exports is rapidly being decimated. An increasing number of formal economic sanctions combined with more informal corporate decisions to cease trading with Russia has made any trade with the country perhaps not impossible but increasingly challenging. The sale of Russian energy commodities to Western countries has become progressively more contentious, despite being excluded from the initial batch of sanctions targeting the Russian economy.",
+  "keywords": [
+    "china",
+    "australia",
+    "europe",
+    "coal",
+    "crude_oil",
+    "gas",
+    "russian",
+    "supplies",
+    "energy",
+    "export",
+    "are",
+    "sanctions"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1208,
+  "source_path": "reports/breakwave/2022/2022-03-10_substitutions-and-shortages.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/3/10/substitutions-and-shortages",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-03-10_2022_03_10_substitutions_and_shortages__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-03-10_2022_03_10_substitutions_and_shortages",
+      "parent_id": "breakwave_insights_insights_2022-03-10_2022_03_10_substitutions_and_shortages__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe number of destinations available for Russian exports is rapidly being decimated. An increasing number of formal economic sanctions combined with more informal corporate decisions to cease trading with Russia has made any trade with the country perhaps not impossible but increasingly challenging.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "coal",
+        "crude_oil",
+        "gas",
+        "russian",
+        "supplies"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1206,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

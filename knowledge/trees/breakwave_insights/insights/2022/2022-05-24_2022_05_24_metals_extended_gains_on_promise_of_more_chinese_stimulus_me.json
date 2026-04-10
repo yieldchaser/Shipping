@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-24_2022_05_24_metals_extended_gains_on_promise_of_more_chinese_stimulus_me__root",
+  "doc_id": "breakwave_insights_insights_2022-05-24_2022_05_24_metals_extended_gains_on_promise_of_more_chinese_stimulus_me",
+  "parent_id": null,
+  "title": "Metals Extended Gains On Promise Of More Chinese Stimulus Measures",
+  "section_path": [
+    "Metals Extended Gains On Promise Of More Chinese Stimulus Measures"
+  ],
+  "section_path_text": "Metals Extended Gains On Promise Of More Chinese Stimulus Measures",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nA risk-on tone across markets helped pushed the commodity complex higher. Industrials led the gains amid increasing hopes of stimulus boosting economic activity. A weaker USD also boosted investor appetite.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "japan",
+    "crude_oil",
+    "gas",
+    "russian",
+    "european",
+    "its",
+    "oil",
+    "prices",
+    "cut"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 783,
+  "source_path": "reports/breakwave/2022/2022-05-24_metals-extended-gains-on-promise-of-more-chinese-stimulus-me.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/24/metals-extended-gains-on-promise-of-more-chinese-stimulus-measures",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-24_2022_05_24_metals_extended_gains_on_promise_of_more_chinese_stimulus_me__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-24_2022_05_24_metals_extended_gains_on_promise_of_more_chinese_stimulus_me",
+      "parent_id": "breakwave_insights_insights_2022-05-24_2022_05_24_metals_extended_gains_on_promise_of_more_chinese_stimulus_me__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nA risk-on tone across markets helped pushed the commodity complex higher. Industrials led the gains amid increasing hopes of stimulus boosting economic activity.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "japan",
+        "crude_oil",
+        "gas",
+        "russian",
+        "european"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 781,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

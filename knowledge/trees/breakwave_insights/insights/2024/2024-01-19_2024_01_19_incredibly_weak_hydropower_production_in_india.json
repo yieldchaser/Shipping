@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-19_2024_01_19_incredibly_weak_hydropower_production_in_india__root",
+  "doc_id": "breakwave_insights_insights_2024-01-19_2024_01_19_incredibly_weak_hydropower_production_in_india",
+  "parent_id": null,
+  "title": "Incredibly Weak Hydropower Production In India",
+  "section_path": [
+    "Incredibly Weak Hydropower Production In India"
+  ],
+  "section_path_text": "Incredibly Weak Hydropower Production In India",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nFor the near-term, it has remained India's thermal coal import demand where we have been particularly bullish for the dry bulk market. As we started to highlight late last year in Commodore's Weekly Dry Bulk Reports, demand for thermal coal in India has been extremely likely to rise from an already strong base, and in our view new records have been very likely to begin to be set by March. India's economy has been fairing very well while India's hydropower production has been incredibly weak.",
+  "keywords": [
+    "india",
+    "coal",
+    "kilowatt",
+    "billion",
+    "electricity",
+    "hours",
+    "production",
+    "thermal",
+    "year-on-year",
+    "coal-derived",
+    "generation",
+    "hydropower"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 460,
+  "source_path": "reports/breakwave/2024/2024-01-19_incredibly-weak-hydropower-production-in-india.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/19/incredibly-weak-hydropower-production-in-india",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-19_2024_01_19_incredibly_weak_hydropower_production_in_india__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-19_2024_01_19_incredibly_weak_hydropower_production_in_india",
+      "parent_id": "breakwave_insights_insights_2024-01-19_2024_01_19_incredibly_weak_hydropower_production_in_india__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nFor the near-term, it has remained India's thermal coal import demand where we have been particularly bullish for the dry bulk market. As we started to highlight late last year in Commodore's Weekly Dry Bulk Reports, demand for thermal coal in India has been extremely likely to rise from an already strong base, and in our view new records have been very likely to begin to be set by March.",
+      "keywords": [
+        "india",
+        "coal",
+        "kilowatt",
+        "billion",
+        "electricity",
+        "hours",
+        "production",
+        "thermal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 458,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

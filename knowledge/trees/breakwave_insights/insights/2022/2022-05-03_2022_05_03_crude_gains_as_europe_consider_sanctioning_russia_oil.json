@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-03_2022_05_03_crude_gains_as_europe_consider_sanctioning_russia_oil__root",
+  "doc_id": "breakwave_insights_insights_2022-05-03_2022_05_03_crude_gains_as_europe_consider_sanctioning_russia_oil",
+  "parent_id": null,
+  "title": "Crude Gains As Europe Consider Sanctioning Russia Oil",
+  "section_path": [
+    "Crude Gains As Europe Consider Sanctioning Russia Oil"
+  ],
+  "section_path_text": "Crude Gains As Europe Consider Sanctioning Russia Oil",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nWeak economic data in China weighed on sentiment early in the session. Thin liquidity was an issue with most markets closed for holidays. Crude oil fell in Asian trading after data showed the full impact of lockdowns in China.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "are",
+    "oil",
+    "amid",
+    "demand",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 759,
+  "source_path": "reports/breakwave/2022/2022-05-03_crude-gains-as-europe-consider-sanctioning-russia-oil.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/3/crude-gains-as-europe-consider-sanctioning-russia-oil",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-03_2022_05_03_crude_gains_as_europe_consider_sanctioning_russia_oil__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-03_2022_05_03_crude_gains_as_europe_consider_sanctioning_russia_oil",
+      "parent_id": "breakwave_insights_insights_2022-05-03_2022_05_03_crude_gains_as_europe_consider_sanctioning_russia_oil__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nWeak economic data in China weighed on sentiment early in the session. Thin liquidity was an issue with most markets closed for holidays.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "products",
+        "gas",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 757,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

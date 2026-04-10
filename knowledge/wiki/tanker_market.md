@@ -1,58 +1,56 @@
 ---
 categories:
-- tanker
-- tankers
-document_count: 76
+- insights
+document_count: 152
 evidence_count: 250
-generated_at: '2026-04-10T02:02:05Z'
-latest_evidence_date: '2026-04-07'
+generated_at: '2026-04-10T14:49:32Z'
+latest_evidence_date: '2026-04-08'
 page_type: topic_wiki
 related_topics:
 - vlcc_and_suezmax
 - oil_and_opec
 sources:
-- baltic
-- breakwave
+- breakwave_insights
 title: Tanker Market
 topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 76 documents across baltic, breakwave. Recent evidence runs through 2026-04-07, with the strongest recurring markers being crude, products, tanker, clean, europe. Primary coverage comes from categories such as tanker, tankers.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 152 documents across breakwave_insights. Recent evidence runs through 2026-04-08, with the strongest recurring markers being crude, products, china, crude_oil, vlcc. Primary coverage comes from categories such as insights.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
 
 ## Recent Evidence
-- 2026-04-07 | breakwave tankers | Fundamentals: - World Oil Demand (YTD: 106,069 kbpd, YOY: 1.0%) - Oil Supply, OPEC (YTD: 29,520 kbpd, YOY: 7.2%) - Oil Supply, non-OPEC (YTD: 73,916 kbpd, YOY: 1.0%) - OECD Total Crude Oil Stocks (YTD: 1020.4 MMbls, YOY: 1.2%) - US Crude Oil Exports (YTD: 51.8 MMbls, YOY: -2.4%) - China Oil Imports (YTD: 675.9 MMbls, YOY: 6.1%) - Global Crude Oil On Water (YTD: 1192.3 MMbls, YOY: -0.4%) - Tanker Fleet (YTD: 717.8 mdwt, YOY: 2.9%) - VLCC Middle East-Asia, USD/ton (YTD: 21.62, YOY: 71.1%) - Suezmax West Africa-Europe, USD/ton (YTD: 22.47, YOY: 27.9%) [doc_id: breakwave_tankers_2026-04-07 | section_id: breakwave_tankers_2026-04-07__s02_fundamentals | pages 2-2]
-- 2026-04-07 | breakwave tankers | Overview: - Little Progress for MEG VLCCs as War Enters its Second Month - Over the - The Clock is Ticking as Inventories Draw and Oil Deliveries Dry Out - Over a - Our Long-term View - The tanker market is recovering from a long period of [doc_id: breakwave_tankers_2026-04-07 | section_id: breakwave_tankers_2026-04-07__s01_overview | pages 1-1]
-- 2026-03-27 | baltic tanker | Aframax: In the North Sea, the rate for 80,000mt Cross-UK Continent route (TD7) moved up 110 points to WS410, giving a daily round-trip TCE of about $306,750 basis Hound Point to Wilhelmshaven. In the Mediterranean, the rate for 80,000mt Cross-Mediterranean (TD19) also strengthened strongly, from WS451 to almost WS640 (basis Ceyhan to Lavera, that shows a daily round trip TCE of nearly $293,400). [doc_id: baltic_tanker_2026-03-27_2026_03_27_tanker_report_week_13_tanker | section_id: baltic_tanker_2026-03-27_2026_03_27_tanker_report_week_13_tanker__s04_aframax | pages n/a]
-- 2026-03-27 | baltic tanker | VLCC: The ongoing situation in the Middle East is still causing the Baltic panellists some difficulties in assessing the Baltic routes from the region. As a result, Baltic Exchange has started an alternative to the TD3C route, which is on public trial currently. [doc_id: baltic_tanker_2026-03-27_2026_03_27_tanker_report_week_13_tanker | section_id: baltic_tanker_2026-03-27_2026_03_27_tanker_report_week_13_tanker__s02_vlcc | pages n/a]
-- 2026-03-27 | baltic tanker | Suezmax: In the Suezmax sector, markets in the West have significantly improved from the already firm situation. The rate for the 130,000mt Nigeria/UK Continent voyage (TD20) trip increased just over 50% to WS412.78 which translates into a daily round-trip TCE of about $215,300. [doc_id: baltic_tanker_2026-03-27_2026_03_27_tanker_report_week_13_tanker | section_id: baltic_tanker_2026-03-27_2026_03_27_tanker_report_week_13_tanker__s03_suezmax | pages n/a]
-- 2026-03-27 | baltic tanker | Clean: LR2 The TC1 75kt MEG/Japan index went from WS383 to WS411 this week. A voyage west also saw the TC20 90kt MEG/UK-Continent index climb a little to $7.32 million (+$78,100). [doc_id: baltic_tanker_2026-03-27_2026_03_27_tanker_report_week_13_tanker | section_id: baltic_tanker_2026-03-27_2026_03_27_tanker_report_week_13_tanker__s01_clean | pages n/a]
-- 2026-03-24 | breakwave tankers | Fundamentals: - World Oil Demand (YTD: 106,032 kbpd, YOY: 0.9%) - Oil Supply, OPEC (YTD: 29,520 kbpd, YOY: 7.2%) - Oil Supply, non-OPEC (YTD: 73,756 kbpd, YOY: 0.7%) - OECD Total Crude Oil Stocks (YTD: 1023.2 MMbls, YOY: 1.3%) - US Crude Oil Exports (YTD: 47.9 MMbls, YOY: -2.6%) - China Oil Imports (YTD: 675.9 MMbls, YOY: 6.1%) - Global Crude Oil On Water (YTD: 1167.3 MMbls, YOY: -1.6%) - Tanker Fleet (YTD: 717.8 mdwt, YOY: 2.9%) - VLCC Middle East-Asia, USD/ton (YTD: 20.05, YOY: 58.9%) - Suezmax West Africa-Europe, USD/ton (YTD: 21.21, YOY: 20.8%) [doc_id: breakwave_tankers_2026-03-24 | section_id: breakwave_tankers_2026-03-24__s02_fundamentals | pages 2-2]
-- 2026-03-24 | breakwave tankers | Overview: - Straits Remain Unnavigable as Tanker Market Adjusts to Alternatives - - Damage Already Done, Oil Prices to Remain Elevated for Quite Some Time - YOY: 478.5% ↑ - Our Long-term View - The tanker market is recovering from a long period of [doc_id: breakwave_tankers_2026-03-24 | section_id: breakwave_tankers_2026-03-24__s01_overview | pages 1-1]
+- 2026-04-08 | breakwave_insights insights | Main: By Nikolaos Tagoulis In a global environment defined by geopolitical uncertainty and inflationary pressures, India continues to demonstrate resilient growth potential. Although the OECD has estimated a slowdown in India's GDP growth from 7.6% in FY 2025-2026 to 6.1% in FY 2026-2027, reflecting challenges such as energy supply disrup-tions, currency depreciation, and inflation, India is still projected to record the highest growth among G20 economies. [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential__s01_main | pages n/a]
+- 2026-04-08 | breakwave_insights insights | Main: By Jeffrey Landsberg As we discussed in Commodore Research's most recent Weekly Executive Report, India produced approximately 134.9 billion kilowatt hours of electricity last month. This is up month-on-month by 15.3 billion kilowatt hours (13%) but is down year-on-year by 1.2 billion kilowatt hours (-1%). [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak__s01_main | pages n/a]
+- 2026-04-07 | breakwave_insights insights | Main: By Eirini Diamantara & Dimitris Roumeliotis The first quarter of 2026 delivered one of the most active S&P periods in recent memory, with 351 transactions recorded across tankers and dry bulk, representing a combined investment of approximately $11.5 billion. Activity was front-loaded into January, which alone accounted for nearly 40% of total volume, reflecting a wave of positioning decisions as the new year opened against an already elevated geopolitical backdrop. [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__s01_main | pages n/a]
+- 2026-04-07 | breakwave_insights insights | Main: • Little Progress for MEG VLCCs as War Enters its Second Month - Over the past fortnight, VLCC activity originating from the Arabian Gulf has remained subdued, prompting the market to pivot its focus toward cargo loadings from Yanbu and the Gulf of Oman, where volumes have surged significantly above pre-conflict levels. While global attention remains fixed on the Strait of Hormuz, the extreme volatility of the situation precludes definitive short-term projections ; currently, transit through the straits is largely restricted, with activity primarily limited to Iranian-linked cargoes. [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726 | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726__s01_main | pages n/a]
+- 2026-04-06 | breakwave_insights insights | Main: The dry bulk market entered 2026 with remarkable momentum, delivering a broadly robust performance across all vessel classes in the first two months of the year. From Capesizes to Handysizes, spot rates trended higher on a year-on-year basis, supported by sustained strength even through the typically quieter Chinese New Year period. [doc_id: breakwave_insights_insights_2026-04-06_2026_04_06_dry_bulk_1q26_momentum_to_mayhem | section_id: breakwave_insights_insights_2026-04-06_2026_04_06_dry_bulk_1q26_momentum_to_mayhem__s01_main | pages n/a]
+- 2026-04-02 | breakwave_insights insights | Main: Excerpt from Signal Ocean's SoH Update: What's Next for Tanker Freight? The knock-on effects for importing nations are equally severe. [doc_id: breakwave_insights_insights_2026-04-02_2026_04_02_indias_energy_crisis_deepens | section_id: breakwave_insights_insights_2026-04-02_2026_04_02_indias_energy_crisis_deepens__s01_main | pages n/a]
+- 2026-04-02 | breakwave_insights insights | Main: Iranian strikes on EGA and Alba, combined with the closure of the Strait of Hormuz, represent the most severe supply disruption since 2022. This week, Allied QuantumSea Research examines an alternative angle on the escalation in Hormuz, focusing on its implications for the aluminium industry. [doc_id: breakwave_insights_insights_2026-04-02_2026_04_02_gulf_aluminium_supply_shock | section_id: breakwave_insights_insights_2026-04-02_2026_04_02_gulf_aluminium_supply_shock__s01_main | pages n/a]
+- 2026-04-02 | breakwave_insights insights | Main: By Jeffrey Landsberg As we discussed in Commodore Research's most recent Weekly China Report, China's overall consumer sector has improved recently (even while vehicle sales have remained weak). The most recently released data shows that China's retail sales in February grew year-on-year by 2.8%. [doc_id: breakwave_insights_insights_2026-04-02_2026_04_02_chinas_consumer_sector_faring_better_than_us_consumer_sector | section_id: breakwave_insights_insights_2026-04-02_2026_04_02_chinas_consumer_sector_faring_better_than_us_consumer_sector__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2025-03-28 to 2026-04-07 across 2 calendar years.
-- Most-covered years: 2025: 188, 2026: 62
-- Recurring evidence markers: crude, products, tanker, clean, europe, atlantic
+- Coverage span: 2026-01-09 to 2026-04-08 across 1 calendar years.
+- Most-covered years: 2026: 250
+- Recurring evidence markers: crude, products, china, crude_oil, vlcc, tanker
 
 ## Cross-Source View
-- Source coverage: baltic: 198, breakwave: 52
-- Category coverage: tanker: 198, tankers: 52
-- Tone distribution: neutral: 103, cautiously_bearish: 102, constructive: 45
+- Source coverage: breakwave_insights: 250
+- Category coverage: insights: 250
+- Tone distribution: constructive: 147, neutral: 59, cautiously_bearish: 44
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
-- 2026-04-07 | Tanker Shipping - April 7, 2026 [doc_id: breakwave_tankers_2026-04-07 | section_id: breakwave_tankers_2026-04-07__s02_fundamentals | pages 2-2]
-- 2026-03-27 | Tanker report - Week 13 [doc_id: baltic_tanker_2026-03-27_2026_03_27_tanker_report_week_13_tanker | section_id: baltic_tanker_2026-03-27_2026_03_27_tanker_report_week_13_tanker__s04_aframax | pages n/a]
-- 2026-03-24 | Tanker Shipping - March 24, 2026 [doc_id: breakwave_tankers_2026-03-24 | section_id: breakwave_tankers_2026-03-24__s02_fundamentals | pages 2-2]
-- 2026-03-20 | Tanker report - Week 12 [doc_id: baltic_tanker_2026-03-20_2026_03_20_tanker_report_week_12_tanker | section_id: baltic_tanker_2026-03-20_2026_03_20_tanker_report_week_12_tanker__s04_aframax | pages n/a]
-- 2026-03-13 | Tanker report - Week 11 [doc_id: baltic_tanker_2026-03-13_2026_03_13_tanker_report_week_11_tanker | section_id: baltic_tanker_2026-03-13_2026_03_13_tanker_report_week_11_tanker__s04_aframax | pages n/a]
-- 2026-03-10 | Tanker Shipping - March 10, 2026 [doc_id: breakwave_tankers_2026-03-10 | section_id: breakwave_tankers_2026-03-10__s02_fundamentals | pages 2-2]
-- 2026-03-06 | Tanker report - Week 10 [doc_id: baltic_tanker_2026-03-06_2026_03_06_tanker_report_week_10_tanker | section_id: baltic_tanker_2026-03-06_2026_03_06_tanker_report_week_10_tanker__s04_aframax | pages n/a]
-- 2026-02-27 | Tanker report - Week 9 [doc_id: baltic_tanker_2026-02-27_2026_02_27_tanker_report_week_9_tanker | section_id: baltic_tanker_2026-02-27_2026_02_27_tanker_report_week_9_tanker__s04_aframax | pages n/a]
+- 2026-04-08 | Indias Growth Potential [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential__s01_main | pages n/a]
+- 2026-04-08 | Indian Electricity Production Remains Weak [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak__s01_main | pages n/a]
+- 2026-04-07 | One Of The Most Active Sampp Periods In Recent Memory [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__s01_main | pages n/a]
+- 2026-04-07 | Tanker4726 [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726 | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726__s01_main | pages n/a]
+- 2026-04-06 | Dry Bulk 1Q26 Momentum To Mayhem [doc_id: breakwave_insights_insights_2026-04-06_2026_04_06_dry_bulk_1q26_momentum_to_mayhem | section_id: breakwave_insights_insights_2026-04-06_2026_04_06_dry_bulk_1q26_momentum_to_mayhem__s01_main | pages n/a]
+- 2026-04-02 | Indias Energy Crisis Deepens [doc_id: breakwave_insights_insights_2026-04-02_2026_04_02_indias_energy_crisis_deepens | section_id: breakwave_insights_insights_2026-04-02_2026_04_02_indias_energy_crisis_deepens__s01_main | pages n/a]
+- 2026-04-02 | Gulf Aluminium Supply Shock [doc_id: breakwave_insights_insights_2026-04-02_2026_04_02_gulf_aluminium_supply_shock | section_id: breakwave_insights_insights_2026-04-02_2026_04_02_gulf_aluminium_supply_shock__s01_main | pages n/a]
+- 2026-04-02 | Chinas Consumer Sector Faring Better Than Us Consumer Sector [doc_id: breakwave_insights_insights_2026-04-02_2026_04_02_chinas_consumer_sector_faring_better_than_us_consumer_sector | section_id: breakwave_insights_insights_2026-04-02_2026_04_02_chinas_consumer_sector_faring_better_than_us_consumer_sector__s01_main | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax

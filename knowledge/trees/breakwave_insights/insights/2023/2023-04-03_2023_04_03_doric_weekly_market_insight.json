@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-03_2023_04_03_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-04-03_2023_04_03_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"Looking forward towards the seasonally strongest period of Q2 and Q3, market sentiment remains rather mixed, anticipating a few generous spikes but being pensive for the annual average performance.\"\nBy Michalis Voutsinas\nFollowing a quite uninspiring fourth quarter of 2022, Baltic Dry Index stepped into the first quarter of the current trading year with a rather tepid feeling. In fact, one should dig well into trading history to draw a parallel with this quarter's steep downward correction of the spot market, with all segments being under severe pressure. Additionally, softer Chinese growth in the closing months of 2022 underscored the hefty costs of Beijing's longstanding zero-Covid policy.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "average",
+    "quarter",
+    "percent",
+    "first",
+    "had"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1257,
+  "source_path": "reports/breakwave/2023/2023-04-03_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/3/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-03_2023_04_03_doric_weekly_market_insight__s01_looking_forward_towards_the_seasonally_strongest_period_of_q2_and_q3_market_sentiment_remains_rather_mixed_anticipating_a_few_generous_spikes_but_being_pensive_for_the_annual_average_performance",
+      "doc_id": "breakwave_insights_insights_2023-04-03_2023_04_03_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-04-03_2023_04_03_doric_weekly_market_insight__root",
+      "title": "\"Looking forward towards the seasonally strongest period of Q2 and Q3, market sentiment remains rather mixed, anticipating a few generous spikes but being pensive for the annual average performance.\"",
+      "section_path": [
+        "\"Looking forward towards the seasonally strongest period of Q2 and Q3, market sentiment remains rather mixed, anticipating a few generous spikes but being pensive for the annual average performance.\""
+      ],
+      "section_path_text": "\"Looking forward towards the seasonally strongest period of Q2 and Q3, market sentiment remains rather mixed, anticipating a few generous spikes but being pensive for the annual average performance.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nFollowing a quite uninspiring fourth quarter of 2022, Baltic Dry Index stepped into the first quarter of the current trading year with a rather tepid feeling. In fact, one should dig well into trading history to draw a parallel with this quarter's steep downward correction of the spot market, with all segments being under severe pressure.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "iron_ore",
+        "crude_oil",
+        "steel",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1220,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-12-10_2020_12_10_iron_ore_trade_what_is_the_crystal_ball_saying__root",
+  "doc_id": "breakwave_insights_insights_2020-12-10_2020_12_10_iron_ore_trade_what_is_the_crystal_ball_saying",
+  "parent_id": null,
+  "title": "Iron Ore Trade What Is The Crystal Ball Saying",
+  "section_path": [
+    "Iron Ore Trade What Is The Crystal Ball Saying"
+  ],
+  "section_path_text": "Iron Ore Trade What Is The Crystal Ball Saying",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nIt is the time of the year when the crystal balls get dusted off and put to work to see what next year will bring. Any projections made a year ago are likely to have missed the targets by a considerable margin, as the COVID-19 barely registered for pundits at that stage. The focus then was on a potential trade deal between China and the US, with declining geopolitical tensions and a boost in trade as a result.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "iron",
+    "ore",
+    "year",
+    "chinese",
+    "production"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 721,
+  "source_path": "reports/breakwave/2020/2020-12-10_iron-ore-trade-what-is-the-crystal-ball-saying.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/12/10/iron-ore-trade-what-is-the-crystal-ball-saying",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-12-10_2020_12_10_iron_ore_trade_what_is_the_crystal_ball_saying__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-12-10_2020_12_10_iron_ore_trade_what_is_the_crystal_ball_saying",
+      "parent_id": "breakwave_insights_insights_2020-12-10_2020_12_10_iron_ore_trade_what_is_the_crystal_ball_saying__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nIt is the time of the year when the crystal balls get dusted off and put to work to see what next year will bring. Any projections made a year ago are likely to have missed the targets by a considerable margin, as the COVID-19 barely registered for pundits at that stage.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "steel",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 719,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

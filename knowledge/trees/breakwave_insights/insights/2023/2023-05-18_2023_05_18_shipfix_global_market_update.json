@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nYesterday was a day when key economic data in the world's largest economies failed to match expectations. First out was Chinese data for industrial production and retail sales during April. While the former delivered an annual increase well above what was observed in March, the reading of 5.6 per cent fell well short of the 10.9 per cent consensus projection.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "pacific",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1486,
+  "source_path": "reports/breakwave/2023/2023-05-18_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/18/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Yesterday was a day when key economic data in the world's largest economies failed to match expectations. First out was Chinese data for industrial production and retail sales during April.",
+      "keywords": [
+        "china",
+        "pacific",
+        "per",
+        "cent",
+        "retail",
+        "sales",
+        "was",
+        "failed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 252,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil endured a volatile session yesterday as traders digested the contradictory signals of weaker-than-expected Chinese industrial production and a bullish demand outlook from the International Energy Agency. The Brent futures for delivery in July eventually settled at 74.91 dollars per barrel, following a 0.4 per cent drop for the day.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 493,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "For a fourth consecutive session, all of the Baltic Exchange's dry bulk freight indices were in the red yesterday. The headline Baltic Dry Index retreated by 3.0 per cent, with the largest two segments the main contributors to the weak performance.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 474,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-05-18_2023_05_18_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "As the last vessel loaded with corn left Ukraine before tomorrow's expiry of the Black Sea Grain Initiative, the future of Ukrainian seaborne exports of agricultural commodities from the country's ports is becoming increasingly uncertain. While talks aiming at rescuing the deal are supposedly ongoing at various levels, there has so far been no sign of an immediate breakthrough.",
+      "keywords": [
+        "grain",
+        "ports",
+        "cargo",
+        "exports",
+        "ukraine",
+        "agricultural",
+        "alternative",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 234,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

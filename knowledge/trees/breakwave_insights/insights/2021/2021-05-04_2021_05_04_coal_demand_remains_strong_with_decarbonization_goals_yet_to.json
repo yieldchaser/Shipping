@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-05-04_2021_05_04_coal_demand_remains_strong_with_decarbonization_goals_yet_to__root",
+  "doc_id": "breakwave_insights_insights_2021-05-04_2021_05_04_coal_demand_remains_strong_with_decarbonization_goals_yet_to",
+  "parent_id": null,
+  "title": "Coal Demand Remains Strong With Decarbonization Goals Yet To Make An Impact",
+  "section_path": [
+    "Coal Demand Remains Strong With Decarbonization Goals Yet To Make An Impact"
+  ],
+  "section_path_text": "Coal Demand Remains Strong With Decarbonization Goals Yet To Make An Impact",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe much-maligned global trade in coal trade shows no signs of diminishing, despite many nations publicly committing to decarbonize and limiting their use of coal and other fossil fuels. The world's largest consumer, China, has recently declared that it will start reducing the use of coal in earnest during the next economic five-year plan, while the annual increase in demand should be \"limited\" during the current plan. Therefore, the peak in Chinese demand is likely to be in the middle of the decade, when the current five-year plan ends.",
+  "keywords": [
+    "panamax",
+    "china",
+    "australia",
+    "india",
+    "us_gulf",
+    "japan",
+    "iron_ore",
+    "coal",
+    "chinese",
+    "trade",
+    "are",
+    "australian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 862,
+  "source_path": "reports/breakwave/2021/2021-05-04_coal-demand-remains-strong-with-decarbonization-goals-yet-to.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/5/4/coal-demand-remains-strong-with-decarbonization-goals-yet-to-make-an-impact",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-05-04_2021_05_04_coal_demand_remains_strong_with_decarbonization_goals_yet_to__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-05-04_2021_05_04_coal_demand_remains_strong_with_decarbonization_goals_yet_to",
+      "parent_id": "breakwave_insights_insights_2021-05-04_2021_05_04_coal_demand_remains_strong_with_decarbonization_goals_yet_to__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe much-maligned global trade in coal trade shows no signs of diminishing, despite many nations publicly committing to decarbonize and limiting their use of coal and other fossil fuels. The world's largest consumer, China, has recently declared that it will start reducing the use of coal in earnest during the next economic five-year plan, while the annual increase in demand should be \"limited\" during the current plan.",
+      "keywords": [
+        "panamax",
+        "china",
+        "australia",
+        "india",
+        "us_gulf",
+        "japan",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 860,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

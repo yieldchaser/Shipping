@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-12_2022_12_12_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2022-12-12_2022_12_12_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nNovember was a rather uninspiring month for the world's second largest economy, with all main macro data indicating a softer tone across the board. In particular, the purchasing managers' index (PMI) for China's manufacturing sector came in at 48 in November, down from 49.2 in October, according to data from the National Bureau of Statistics. With a reading below 50 indicating contraction, November figure was weighed on by sporadic and scattered Covid-19 resurgences and the complex international environment, the bureau's senior statistician Zhao Qinghe said.",
+  "keywords": [
+    "china",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "percent",
+    "november",
+    "imports",
+    "october",
+    "year",
+    "data"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 837,
+  "source_path": "reports/breakwave/2022/2022-12-12_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/12/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-12_2022_12_12_doric_weekly_market_insight__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-12_2022_12_12_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2022-12-12_2022_12_12_doric_weekly_market_insight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nNovember was a rather uninspiring month for the world's second largest economy, with all main macro data indicating a softer tone across the board. In particular, the purchasing managers' index (PMI) for China's manufacturing sector came in at 48 in November, down from 49.2 in October, according to data from the National Bureau of Statistics.",
+      "keywords": [
+        "china",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "steel",
+        "percent",
+        "november"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 835,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-09-23_2020_09_23_wind_of_optimism_pushes_capesize_q4_futures_above_20k_for_fi__root",
+  "doc_id": "breakwave_insights_insights_2020-09-23_2020_09_23_wind_of_optimism_pushes_capesize_q4_futures_above_20k_for_fi",
+  "parent_id": null,
+  "title": "Wind Of Optimism Pushes Capesize Q4 Futures Above 20K For First Time",
+  "section_path": [
+    "Wind Of Optimism Pushes Capesize Q4 Futures Above 20K For First Time"
+  ],
+  "section_path_text": "Wind Of Optimism Pushes Capesize Q4 Futures Above 20K For First Time",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize rates are back into rally mode, with the spot average approaching fast the psychologically important 20,000 mark (should get there by Friday), while futures have already broken out of their recent range and settled for the first time ever above 20,000 for this year's fourth quarter contract. Optimism is in the air, and with the third quarter likely to settle above 20,000 as well, expectations are for a continuing push in the spot market as we approach the final stretch of the year. Smaller sizes (Panamax, Supramax) have yet to break out of their recent ranges, as spot rates are struggling to follow the dynamics of the larger ships, although indices remain in an upward trajectory as well.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "vale",
+    "production",
+    "recent",
+    "are",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 784,
+  "source_path": "reports/breakwave/2020/2020-09-23_wind-of-optimism-pushes-capesize-q4-futures-above-20k-for-fi.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/9/23/wind-of-optimism-pushes-capesize-q4-futures-above-20k-for-first-time",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-09-23_2020_09_23_wind_of_optimism_pushes_capesize_q4_futures_above_20k_for_fi__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-09-23_2020_09_23_wind_of_optimism_pushes_capesize_q4_futures_above_20k_for_fi",
+      "parent_id": "breakwave_insights_insights_2020-09-23_2020_09_23_wind_of_optimism_pushes_capesize_q4_futures_above_20k_for_fi__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize rates are back into rally mode, with the spot average approaching fast the psychologically important 20,000 mark (should get there by Friday), while futures have already broken out of their recent range and settled for the first time ever above 20,000 for this year's fourth quarter contract. Optimism is in the air, and with the third quarter likely to settle above 20,000 as well, expectations are for a continuing push in the spot market as we approach the final stretch of the year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "iron_ore",
+        "vale"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 782,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

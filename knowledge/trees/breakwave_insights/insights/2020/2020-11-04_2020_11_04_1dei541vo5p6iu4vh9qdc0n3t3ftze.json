@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-11-04_2020_11_04_1dei541vo5p6iu4vh9qdc0n3t3ftze__root",
+  "doc_id": "breakwave_insights_insights_2020-11-04_2020_11_04_1dei541vo5p6iu4vh9qdc0n3t3ftze",
+  "parent_id": null,
+  "title": "1Dei541Vo5P6Iu4Vh9Qdc0N3T3Ftze",
+  "section_path": [
+    "1Dei541Vo5P6Iu4Vh9Qdc0N3T3Ftze"
+  ],
+  "section_path_text": "1Dei541Vo5P6Iu4Vh9Qdc0N3T3Ftze",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIt is no secret that over the last two years Brazilian iron ore has been in short supply, mainly reflecting the major deadly dam incident in early 2019 as well as the COVID-19 pandemic this year which, combined with heavy rains in northern Brazil during the first half of the year, led to some of the lowest monthly exports out of the region in quite sometime. Yet, out of both of catastrophes, Brazil's iron ore industry seems to be coming out in a better shape overall, as the back-to-back impacts of those events allowed major miners to push prices higher and better control their supply chains and, as a result, the ultimate selling price for their product and thus compensating for the lower volumes produced. Indeed, there has been a scarcity of high quality iron ore in the world, and given the ever increasing Chinese demand for such product, mainly due to environmental issues but also steel mill profitability, headline iron ore prices (62%Fe) tend to move more dramatically during periods of short supply versus higher quality material (65%+Fe) which usually originates in Brazil.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "brazilian",
+    "inventories",
+    "strategy",
+    "price"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 899,
+  "source_path": "reports/breakwave/2020/2020-11-04_1dei541vo5p6iu4vh9qdc0n3t3ftze.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/11/4/1dei541vo5p6iu4vh9qdc0n3t3ftze",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-11-04_2020_11_04_1dei541vo5p6iu4vh9qdc0n3t3ftze__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-11-04_2020_11_04_1dei541vo5p6iu4vh9qdc0n3t3ftze",
+      "parent_id": "breakwave_insights_insights_2020-11-04_2020_11_04_1dei541vo5p6iu4vh9qdc0n3t3ftze__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "It is no secret that over the last two years Brazilian iron ore has been in short supply, mainly reflecting the major deadly dam incident in early 2019 as well as the COVID-19 pandemic this year which, combined with heavy rains in northern Brazil during the first half of the year, led to some of the lowest monthly exports out of the region in quite sometime. Yet, out of both of catastrophes, Brazil's iron ore industry seems to be coming out in a better shape overall, as the back-to-back impacts of those events allowed major miners to push prices higher and better control their supply chains and, as a result, the ultimate selling price for their product and thus compensating for the lower volumes produced.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 897,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

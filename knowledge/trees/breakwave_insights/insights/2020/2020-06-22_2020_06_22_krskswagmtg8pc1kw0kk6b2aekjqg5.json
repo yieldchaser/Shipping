@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-22_2020_06_22_krskswagmtg8pc1kw0kk6b2aekjqg5__root",
+  "doc_id": "breakwave_insights_insights_2020-06-22_2020_06_22_krskswagmtg8pc1kw0kk6b2aekjqg5",
+  "parent_id": null,
+  "title": "Krskswagmtg8Pc1Kw0Kk6B2Aekjqg5",
+  "section_path": [
+    "Krskswagmtg8Pc1Kw0Kk6B2Aekjqg5"
+  ],
+  "section_path_text": "Krskswagmtg8Pc1Kw0Kk6B2Aekjqg5",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSoybeans dipped in overnight trading following a Reuters report quoting White House trade advisor Peter Navarro saying that the China trade deal \"is over\". From Reuters:\n\" It's over,\" Navarro told Fox News in an interview when asked about the trade agreement. He said the \"turning point\" came when the United States learned about the spreading coronavirus only after a Chinese delegation had left Washington following the signing of the Phase 1 deal on Jan.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "grain",
+    "soybeans",
+    "trade",
+    "deal",
+    "especially",
+    "following",
+    "had",
+    "navarro"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 193,
+  "source_path": "reports/breakwave/2020/2020-06-22_krskswagmtg8pc1kw0kk6b2aekjqg5.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/22/krskswagmtg8pc1kw0kk6b2aekjqg5",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-22_2020_06_22_krskswagmtg8pc1kw0kk6b2aekjqg5__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-22_2020_06_22_krskswagmtg8pc1kw0kk6b2aekjqg5",
+      "parent_id": "breakwave_insights_insights_2020-06-22_2020_06_22_krskswagmtg8pc1kw0kk6b2aekjqg5__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Soybeans dipped in overnight trading following a Reuters report quoting White House trade advisor Peter Navarro saying that the China trade deal \"is over\". From Reuters:\n\" It's over,\" Navarro told Fox News in an interview when asked about the trade agreement.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "grain",
+        "soybeans",
+        "trade",
+        "deal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 191,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

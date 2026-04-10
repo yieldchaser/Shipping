@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-14_2022_02_14_inflation_will_ease_but_higher_prices_may_be_here_to_stay_fo__root",
+  "doc_id": "breakwave_insights_insights_2022-02-14_2022_02_14_inflation_will_ease_but_higher_prices_may_be_here_to_stay_fo",
+  "parent_id": null,
+  "title": "Inflation Will Ease But Higher Prices May Be Here To Stay For Some Time",
+  "section_path": [
+    "Inflation Will Ease But Higher Prices May Be Here To Stay For Some Time"
+  ],
+  "section_path_text": "Inflation Will Ease But Higher Prices May Be Here To Stay For Some Time",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nLast week saw the US registering the highest headline inflation number in over 40 years, 7.5%. Equity and bond markets roiled, with the US 10-year Treasury yield rising above 2% and the S&P 500 shedding nearly 2% for the week. Currently, markets are pricing in nearly more than six rate hikes by the end of the year instead of less than two, three months ago.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "inflation",
+    "are",
+    "demand",
+    "supply",
+    "one",
+    "would",
+    "episode",
+    "major",
+    "was",
+    "world"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1299,
+  "source_path": "reports/breakwave/2022/2022-02-14_inflation-will-ease-but-higher-prices-may-be-here-to-stay-fo.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/14/inflation-will-ease-but-higher-prices-may-be-here-to-stay-for-some-time",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-14_2022_02_14_inflation_will_ease_but_higher_prices_may_be_here_to_stay_fo__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-14_2022_02_14_inflation_will_ease_but_higher_prices_may_be_here_to_stay_fo",
+      "parent_id": "breakwave_insights_insights_2022-02-14_2022_02_14_inflation_will_ease_but_higher_prices_may_be_here_to_stay_fo__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nLast week saw the US registering the highest headline inflation number in over 40 years, 7.5%. Equity and bond markets roiled, with the US 10-year Treasury yield rising above 2% and the S&P 500 shedding nearly 2% for the week.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "inflation",
+        "are",
+        "demand",
+        "supply",
+        "one",
+        "would"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1297,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

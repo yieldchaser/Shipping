@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-08-17_2023_08_17_mmi_daily_iron_ore_index_report_august_17_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-08-17_2023_08_17_mmi_daily_iron_ore_index_report_august_17_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 17 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 17 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 17 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 17/08/2023\nDCE iron ore futures rose by 4.34 % today, the main contract closed at 768.5. The traders' willingness to ship is general. The steel mills are active to purchase.The overall trading sentiment of the market is better.PBF at Shandong port deal 860 yuan/mt,increase 10 yuan/mt.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "mills",
+    "deal",
+    "increase",
+    "main",
+    "policy",
+    "port",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 239,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-08-17_mmi-daily-iron-ore-index-report-august-17-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-17-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-08-17_2023_08_17_mmi_daily_iron_ore_index_report_august_17_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-08-17_2023_08_17_mmi_daily_iron_ore_index_report_august_17_2023",
+      "parent_id": "hellenic_iron_ore_2023-08-17_2023_08_17_mmi_daily_iron_ore_index_report_august_17_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 17/08/2023\nDCE iron ore futures rose by 4.34 % today, the main contract closed at 768.5. The traders' willingness to ship is general.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "mills",
+        "deal",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

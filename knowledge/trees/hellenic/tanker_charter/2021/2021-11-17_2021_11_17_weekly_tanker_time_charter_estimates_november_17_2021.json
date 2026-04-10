@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_tanker_charter_2021-11-17_2021_11_17_weekly_tanker_time_charter_estimates_november_17_2021__root",
+  "doc_id": "hellenic_tanker_charter_2021-11-17_2021_11_17_weekly_tanker_time_charter_estimates_november_17_2021",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, November 17 2021",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, November 17 2021"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, November 17 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn the crude market a rebound is slowly emerging and we are seeing more and more interest in long term deals of around three years. The average rate for three years is up $1000 to an average of $36,000/pdpr. On the clean side, there has been interest in all sectors although the short-term rates have strengthened, for most periods rate-levels have remained flat.",
+  "keywords": [
+    "crude_oil",
+    "although",
+    "average",
+    "interest",
+    "oil",
+    "prices",
+    "three",
+    "above",
+    "all",
+    "are",
+    "around",
+    "barrel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 149,
+  "source_path": "reports/hellenic/tanker_charter/2021/2021-11-17_weekly-tanker-time-charter-estimates-november-17-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-november-17-2021",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2021-11-17_2021_11_17_weekly_tanker_time_charter_estimates_november_17_2021__s01_main",
+      "doc_id": "hellenic_tanker_charter_2021-11-17_2021_11_17_weekly_tanker_time_charter_estimates_november_17_2021",
+      "parent_id": "hellenic_tanker_charter_2021-11-17_2021_11_17_weekly_tanker_time_charter_estimates_november_17_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the crude market a rebound is slowly emerging and we are seeing more and more interest in long term deals of around three years. The average rate for three years is up $1000 to an average of $36,000/pdpr.",
+      "keywords": [
+        "crude_oil",
+        "although",
+        "average",
+        "interest",
+        "oil",
+        "prices",
+        "three",
+        "above"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

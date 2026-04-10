@@ -1,0 +1,84 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-20_2022_05_20_turbulent_seas_for_the_vlccs__root",
+  "doc_id": "breakwave_insights_insights_2022-05-20_2022_05_20_turbulent_seas_for_the_vlccs",
+  "parent_id": null,
+  "title": "Turbulent Seas For The Vlccs",
+  "section_path": [
+    "Turbulent Seas For The Vlccs"
+  ],
+  "section_path_text": "Turbulent Seas For The Vlccs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ioannis Papadimitriou\n\nIn this insight, Vortexa examines the current status-quo for VLCC rates, and provides an outlook of whether the repositioning to the Western hemisphere can prove to be supportive in the months to come. After a short-lived spike during the start of April, VLCC rates have tumbled, losing around 25% of the value on the most heavily traded route worldwide: Middle East-to-East Asia (TD3C). The main drivers for this shortfall lie on both the export and the importing side:\nOPEC crude exports are set to drop for the third consecutive month in May.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "west",
+    "are",
+    "vlccs"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1050,
+  "source_path": "reports/breakwave/2022/2022-05-20_turbulent-seas-for-the-vlccs.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/20/turbulent-seas-for-the-vlccs",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-20_2022_05_20_turbulent_seas_for_the_vlccs__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-20_2022_05_20_turbulent_seas_for_the_vlccs",
+      "parent_id": "breakwave_insights_insights_2022-05-20_2022_05_20_turbulent_seas_for_the_vlccs__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "ioannis",
+        "papadimitriou"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-20_2022_05_20_turbulent_seas_for_the_vlccs__s02_in_this_insight_vortexa_examines_the_current_status_quo_for_vlcc_rates_and_provides_an_outlook_of_whether_the_repositioning_to_the_western_hemisphere_can_prove_to_be_supportive_in_the_months_to_come",
+      "doc_id": "breakwave_insights_insights_2022-05-20_2022_05_20_turbulent_seas_for_the_vlccs",
+      "parent_id": "breakwave_insights_insights_2022-05-20_2022_05_20_turbulent_seas_for_the_vlccs__root",
+      "title": "In this insight, Vortexa examines the current status-quo for VLCC rates, and provides an outlook of whether the repositioning to the Western hemisphere can prove to be supportive in the months to come.",
+      "section_path": [
+        "In this insight, Vortexa examines the current status-quo for VLCC rates, and provides an outlook of whether the repositioning to the Western hemisphere can prove to be supportive in the months to come."
+      ],
+      "section_path_text": "In this insight, Vortexa examines the current status-quo for VLCC rates, and provides an outlook of whether the repositioning to the Western hemisphere can prove to be supportive in the months to come.",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "After a short-lived spike during the start of April, VLCC rates have tumbled, losing around 25% of the value on the most heavily traded route worldwide: Middle East-to-East Asia (TD3C). The main drivers for this shortfall lie on both the export and the importing side:\nOPEC crude exports are set to drop for the third consecutive month in May.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "india",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 996,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

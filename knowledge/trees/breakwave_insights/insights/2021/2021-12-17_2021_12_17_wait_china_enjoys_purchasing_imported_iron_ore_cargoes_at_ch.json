@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-12-17_2021_12_17_wait_china_enjoys_purchasing_imported_iron_ore_cargoes_at_ch__root",
+  "doc_id": "breakwave_insights_insights_2021-12-17_2021_12_17_wait_china_enjoys_purchasing_imported_iron_ore_cargoes_at_ch",
+  "parent_id": null,
+  "title": "Wait China Enjoys Purchasing Imported Iron Ore Cargoes At Cheaper Prices",
+  "section_path": [
+    "Wait China Enjoys Purchasing Imported Iron Ore Cargoes At Cheaper Prices"
+  ],
+  "section_path_text": "Wait China Enjoys Purchasing Imported Iron Ore Cargoes At Cheaper Prices",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "China enjoys purchasing imported iron ore cargoes at cheaper prices. We continue to stress that China's iron ore imports can fare well even when steel production declines. This year's decline in iron ore imports began well before steel production peaked, and a rebound has remained in place even though steel production has continued to decline.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "production",
+    "imports",
+    "can",
+    "continued",
+    "even",
+    "million",
+    "recently"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 346,
+  "source_path": "reports/breakwave/2021/2021-12-17_wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-ch.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/12/17/wait-china-enjoys-purchasing-imported-iron-ore-cargoes-at-cheaper-prices",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-12-17_2021_12_17_wait_china_enjoys_purchasing_imported_iron_ore_cargoes_at_ch__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-12-17_2021_12_17_wait_china_enjoys_purchasing_imported_iron_ore_cargoes_at_ch",
+      "parent_id": "breakwave_insights_insights_2021-12-17_2021_12_17_wait_china_enjoys_purchasing_imported_iron_ore_cargoes_at_ch__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "China enjoys purchasing imported iron ore cargoes at cheaper prices. We continue to stress that China's iron ore imports can fare well even when steel production declines.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "production",
+        "imports",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 344,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

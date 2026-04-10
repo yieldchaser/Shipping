@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_chinas_coal_production_remains_strongest__root",
+  "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_chinas_coal_production_remains_strongest",
+  "parent_id": null,
+  "title": "Chinas Coal Production Remains Strongest",
+  "section_path": [
+    "Chinas Coal Production Remains Strongest"
+  ],
+  "section_path_text": "Chinas Coal Production Remains Strongest",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina's coal production averaged 367.1 million tons in January/February. This marks a decline of 35.6 million tons (-9%) from December's record production but is up year-on-year by 23.8 million tons (7%). As we have been stressing in our work, the government last year shifted its focus to ensuring robust coal production rather than focusing on mine safety.",
+  "keywords": [
+    "china",
+    "coal",
+    "billion",
+    "kilowatt",
+    "production",
+    "hours",
+    "decline",
+    "electricity",
+    "year-on-year",
+    "averaged",
+    "december",
+    "marks"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 333,
+  "source_path": "reports/breakwave/2023/2023-03-24_chinas-coal-production-remains-strongest.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/24/chinas-coal-production-remains-strongest",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_chinas_coal_production_remains_strongest__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_chinas_coal_production_remains_strongest",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_chinas_coal_production_remains_strongest__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina's coal production averaged 367.1 million tons in January/February. This marks a decline of 35.6 million tons (-9%) from December's record production but is up year-on-year by 23.8 million tons (7%).",
+      "keywords": [
+        "china",
+        "coal",
+        "billion",
+        "kilowatt",
+        "production",
+        "hours",
+        "decline",
+        "electricity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 331,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week Dry Bulk: Coal from Australia to China\nRise in April to the highest level since September 2020\nData Source: The Signal Ocean Platform, Dry Bulk Flows\nhttps://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nx3wq/316996770?h=RaNuUW8OGTfivQSRIogdgYVb-BuD99yF7jGZQQooM4o\nIn the first days of May, we have seen that the Capesize freight market momentum is still solid, while there are signs of a slowdown in Panamax. It is interesting to note that the Chinese (see picture above) have stepped up their Australian thermal coal imports again after the lifting of the ban, which will eventually have a positive impact on Panamax rates. April was the first month of the highest Chinese thermal coal imports from Australia, with the trend of increased purchases continuing in the second quarter.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "australia",
+    "europe",
+    "coal",
+    "grain",
+    "products",
+    "demand",
+    "number"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1139,
+  "source_path": "reports/breakwave/2023/2023-05-05_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/5/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_coal_from_australia_to_china",
+      "doc_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: Coal from Australia to China",
+      "section_path": [
+        "Chart of the Week Dry Bulk: Coal from Australia to China"
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: Coal from Australia to China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Rise in April to the highest level since September 2020\nData Source: The Signal Ocean Platform, Dry Bulk Flows\nhttps://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2nx3wq/316996770?h=RaNuUW8OGTfivQSRIogdgYVb-BuD99yF7jGZQQooM4o\nIn the first days of May, we have seen that the Capesize freight market momentum is still solid, while there are signs of a slowdown in Panamax. It is interesting to note that the Chinese (see picture above) have stepped up their Australian thermal coal imports again after the lifting of the ban, which will eventually have a positive impact on Panamax rates.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "australia",
+        "europe",
+        "coal",
+        "grain",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 299,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t",
+      "doc_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t)",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t)"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Capesize - Firmer | Panamax - Weaker | Supramax - HandysizeSoftening\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nIn early May, the Capesize segment saw stronger momentum, while rates for Panamax vessels were gradually revised downward, and the strength of recent days in the smaller vessel categories has waned. Capesize vessel freight rates are now close to $23/tonne, surpassing the recent peak of week 14.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "are",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__s03_section_2_supply_ballasters_vessels",
+      "doc_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels)",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels)"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Capesize-Panamax-Supramax Increasing |Handysize Steady\nSupply Trend Lines for Key Load Areas\nThe number of ballast vessels has continued to increase in the major vessel categories as May shows an upward trend after the record low in week 13. The recent increase in the Capesize and Panamax segments appears to be higher than the recent highs recorded in Week 5.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "above",
+        "ago"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 215,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__s04_section_3_demand_tondays_softening",
+      "doc_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Softening",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Softening"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Softening",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In May, the upward trend observed at the end of April weakened, but demand still appears high compared to the lows recorded in week 7. Capesize demand ton-days: A gradual downward trend has been observed since the highs of week 15, with early signs of stronger momentum in the coming days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "downward",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__s05_section_4_port_congestion_no_of_vessels_increasing_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-05_2023_05_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Congestion continued the strong upward trend seen at the end of April, with increases in the Capesize, Panamax and Handysize segments. Capesize: The number of vessels now stands at 103, 9 more than the last week of April.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "end",
+        "number",
+        "ships",
+        "now"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

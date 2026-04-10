@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-27_2023_05_27_brs_iron_ore_amp_steel_bi_weekly_newsletter__root",
+  "doc_id": "breakwave_insights_insights_2023-05-27_2023_05_27_brs_iron_ore_amp_steel_bi_weekly_newsletter",
+  "parent_id": null,
+  "title": "Brs Iron Ore And Steel Bi Weekly Newsletter",
+  "section_path": [
+    "Brs Iron Ore And Steel Bi Weekly Newsletter"
+  ],
+  "section_path_text": "Brs Iron Ore And Steel Bi Weekly Newsletter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn April, crude steel production in the 63 countries reporting to the World Steel Association declined to 161.4 million tons, representing a decrease of 2.4% compared to the corresponding period last year. During the first four months of the year, Japan and South Korea combined produced 51.2 million tons, experiencing a slight decrease of 1.7 million tons compared to the same period last year. In contrast, India's steel production maintains firm, with an annual growth of 3%.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "steel",
+    "million",
+    "construction",
+    "estate",
+    "real",
+    "april",
+    "first",
+    "output"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 599,
+  "source_path": "reports/breakwave/2023/2023-05-27_brs-iron-ore-amp-steel-bi-weekly-newsletter.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/27/brs-iron-ore-amp-steel-bi-weekly-newsletter",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-27_2023_05_27_brs_iron_ore_amp_steel_bi_weekly_newsletter__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-05-27_2023_05_27_brs_iron_ore_amp_steel_bi_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-05-27_2023_05_27_brs_iron_ore_amp_steel_bi_weekly_newsletter__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In April, crude steel production in the 63 countries reporting to the World Steel Association declined to 161.4 million tons, representing a decrease of 2.4% compared to the corresponding period last year. During the first four months of the year, Japan and South Korea combined produced 51.2 million tons, experiencing a slight decrease of 1.7 million tons compared to the same period last year.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "steel",
+        "million",
+        "construction",
+        "estate"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 597,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

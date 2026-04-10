@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-10-22_2021_10_22_indonesian_exports_of_raw_materials_under_threat__root",
+  "doc_id": "breakwave_insights_insights_2021-10-22_2021_10_22_indonesian_exports_of_raw_materials_under_threat",
+  "parent_id": null,
+  "title": "Indonesian Exports Of Raw Materials Under Threat",
+  "section_path": [
+    "Indonesian Exports Of Raw Materials Under Threat"
+  ],
+  "section_path_text": "Indonesian Exports Of Raw Materials Under Threat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nIndonesia is looking at moving up the international value chain, with the island nation's President, Joko Widodo, stating that the country will \"hit the brakes\" on exports of raw commodities. The country is the world's leading exporter of thermal coal, palm oil and tin. In addition, it is a significant exporter of, among others, nickel and copper.",
+  "keywords": [
+    "china",
+    "australia",
+    "west_africa",
+    "coal",
+    "bauxite",
+    "crude_oil",
+    "products",
+    "nickel",
+    "exports",
+    "country",
+    "indonesian",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1072,
+  "source_path": "reports/breakwave/2021/2021-10-22_indonesian-exports-of-raw-materials-under-threat.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/10/22/indonesian-exports-of-raw-materials-under-threat",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-10-22_2021_10_22_indonesian_exports_of_raw_materials_under_threat__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-10-22_2021_10_22_indonesian_exports_of_raw_materials_under_threat",
+      "parent_id": "breakwave_insights_insights_2021-10-22_2021_10_22_indonesian_exports_of_raw_materials_under_threat__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nIndonesia is looking at moving up the international value chain, with the island nation's President, Joko Widodo, stating that the country will \"hit the brakes\" on exports of raw commodities. The country is the world's leading exporter of thermal coal, palm oil and tin.",
+      "keywords": [
+        "china",
+        "australia",
+        "west_africa",
+        "coal",
+        "bauxite",
+        "crude_oil",
+        "products",
+        "nickel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1070,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

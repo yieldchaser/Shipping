@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-07-21_2021_07_21_weekly_dry_time_charter_estimates_july_21_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-07-21_2021_07_21_weekly_dry_time_charter_estimates_july_21_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, July 21 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, July 21 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, July 21 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe capesize period market came under pressure again this week and rates softened once again this week. Looking further ahead there is somepositivity in the Atlantic with potential demand from Brazil in the coming weeks. Somewhat less positivity in the kamsarmax/panamax sector this week due to an oversupply of tonnage in the Atlantic.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "brazil",
+    "atlantic",
+    "again",
+    "demand",
+    "ahead",
+    "atlantic.",
+    "average",
+    "came",
+    "coming",
+    "due"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 148,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-07-21_weekly-dry-time-charter-estimates-july-21-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-july-21-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-07-21_2021_07_21_weekly_dry_time_charter_estimates_july_21_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-07-21_2021_07_21_weekly_dry_time_charter_estimates_july_21_2021",
+      "parent_id": "hellenic_dry_charter_2021-07-21_2021_07_21_weekly_dry_time_charter_estimates_july_21_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The capesize period market came under pressure again this week and rates softened once again this week. Looking further ahead there is somepositivity in the Atlantic with potential demand from Brazil in the coming weeks.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "brazil",
+        "atlantic",
+        "again",
+        "demand",
+        "ahead",
+        "atlantic."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 146,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

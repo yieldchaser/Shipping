@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe dry bulk freight market is gaining further upward momentum in the main trading routes, with the handysize and Panamax vessel segments signaling record high levels for the first time since the beginning of this year. The booming of freight rates raises concerns about the future as the uncertainty of the Russian-Ukrainian war has shocked the world economy with the rise in commodity prices. The historical surge of wheat prices is said to trigger Canadian farmers to sow more acres to replace the loss in Ukrainian wheat supplies.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1126,
+  "source_path": "reports/breakwave/2022/2022-03-09_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/3/9/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The dry bulk freight market is gaining further upward momentum in the main trading routes, with the handysize and Panamax vessel segments signaling record high levels for the first time since the beginning of this year. The booming of freight rates raises concerns about the future as the uncertainty of the Russian-Ukrainian war has shocked the world economy with the rise in commodity prices.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "china",
+        "australia",
+        "europe",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 432,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_firmer",
+      "doc_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Firmer",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Firmer"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Firmer",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nCapesize Brazil to NChina rates increased to levels $25/t this week, with an accelerated trend since Week 7, compared to the lows of $18/t at Week 3. Panamax Continent to Far East rates continue the outstanding rise following the Russian-Ukraine tensions and surged to $53/t, when they were around $39/t at Week 5.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "compared"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__s04_number_of_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__root",
+      "title": "Number of Vessels - Decreasing",
+      "section_path": [
+        "Number of Vessels - Decreasing"
+      ],
+      "section_path_text": "Number of Vessels - Decreasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe ballasters' view keeps the same contradictory picture of three weeks ago, which is a decreasing trend in the Capesize and Panamax sectors, and an aggressive increase in the handysize segment. In the Capesize segment, the number of vessels sailing in ballast status has now dropped to the one-year average of 80 vessels, while in the Panamax, the trend is below the average to 92 vessels compared to the peak of 156 vessels at Week 5.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "average",
+        "trend",
+        "now"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__s06_increasing",
+      "doc_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__root",
+      "title": "Increasing",
+      "section_path": [
+        "Increasing"
+      ],
+      "section_path_text": "Increasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The dry bulk demand evolution keeps a significantly higher growth for the Panamax size in two consecutive weeks, followed by worries for disruptions on Russian coal. It is interesting to see that the growth in the Panamax is evolving higher than in the Capesize segment in the aftermath of war tensions.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "coal",
+        "grain",
+        "higher",
+        "areas",
+        "black"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__s09_dry_bulk_ships_congested_around_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-03-09_2022_03_09_signal_dry_bulk_weekly_report__root",
+      "title": "Dry bulk ships congested around Chinese ports",
+      "section_path": [
+        "Dry bulk ships congested around Chinese ports"
+      ],
+      "section_path_text": "Dry bulk ships congested around Chinese ports",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "The number of ship congestion is on an increasing trend for two consecutive weeks. The levels have surpassed the minimum of 860 vessels, while the lowest figure for this year was evidenced at Week 8.",
+      "keywords": [
+        "supramax",
+        "vessels",
+        "appear",
+        "around",
+        "congested",
+        "congestion",
+        "consecutive",
+        "evidenced"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 73,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

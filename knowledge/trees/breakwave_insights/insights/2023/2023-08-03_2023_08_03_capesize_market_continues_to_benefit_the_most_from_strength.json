@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-03_2023_08_03_capesize_market_continues_to_benefit_the_most_from_strength__root",
+  "doc_id": "breakwave_insights_insights_2023-08-03_2023_08_03_capesize_market_continues_to_benefit_the_most_from_strength",
+  "parent_id": null,
+  "title": "Capesize Market Continues To Benefit The Most From Strength In China",
+  "section_path": [
+    "Capesize Market Continues To Benefit The Most From Strength In China"
+  ],
+  "section_path_text": "Capesize Market Continues To Benefit The Most From Strength In China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nDry bulk rates were mixed last week, with capesize and panamax rates rising while supramax and handysize rates fell. We remain most bullish for the capesize market. Rates have not increased solely due to last week's typhoon in the Pacific basin.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "pacific",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "ore",
+    "remains"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 390,
+  "source_path": "reports/breakwave/2023/2023-08-03_capesize-market-continues-to-benefit-the-most-from-strength.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/3/capesize-market-continues-to-benefit-the-most-from-strength-in-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-03_2023_08_03_capesize_market_continues_to_benefit_the_most_from_strength__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-08-03_2023_08_03_capesize_market_continues_to_benefit_the_most_from_strength",
+      "parent_id": "breakwave_insights_insights_2023-08-03_2023_08_03_capesize_market_continues_to_benefit_the_most_from_strength__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nDry bulk rates were mixed last week, with capesize and panamax rates rising while supramax and handysize rates fell. We remain most bullish for the capesize market.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "pacific",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 388,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-27_2023_11_27_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-11-27_2023_11_27_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"With Hang Seng Mainland Properties index reporting gains at last, iron ore prices galloping and Capesize spot market rocketing on Friday, hopes have resurfaced that light can be cast over the shadow of the property crisis in China in the next year.\"\nBy Michalis Voutsinas\nIn a poetic analogy, John Lasseter, the director of the animated sports comedy film Cars, likened the love for cars to the sound of a throaty V-8 rumbling and revving, the acceleration throwing you back in the seat, especially when cruising on a beautiful, winding road with light dappling through the trees. Coincidentally, mirroring this exhilarating sensation, the Capesize segment experienced a noteworthy acceleration in this week's closing, with a remarkable $5,855 daily rise. This propelled the leading segment of the dry bulk spectrum to a balance of $28,071 daily at the conclusion of the fortyseventh trading week.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "singapore",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "iron",
+    "ore",
+    "percent"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 969,
+  "source_path": "reports/breakwave/2023/2023-11-27_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/27/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-27_2023_11_27_doric_weekly_market_insight__s01_with_hang_seng_mainland_properties_index_reporting_gains_at_last_iron_ore_prices_galloping_and_capesize_spot_market_rocketing_on_friday_hopes_have_resurfaced_that_light_can_be_cast_over_the_shadow_of_the_property_crisis_in_china_in_the_next_year",
+      "doc_id": "breakwave_insights_insights_2023-11-27_2023_11_27_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-11-27_2023_11_27_doric_weekly_market_insight__root",
+      "title": "\"With Hang Seng Mainland Properties index reporting gains at last, iron ore prices galloping and Capesize spot market rocketing on Friday, hopes have resurfaced that light can be cast over the shadow of the property crisis in China in the next year.\"",
+      "section_path": [
+        "\"With Hang Seng Mainland Properties index reporting gains at last, iron ore prices galloping and Capesize spot market rocketing on Friday, hopes have resurfaced that light can be cast over the shadow of the property crisis in China in the next year.\""
+      ],
+      "section_path_text": "\"With Hang Seng Mainland Properties index reporting gains at last, iron ore prices galloping and Capesize spot market rocketing on Friday, hopes have resurfaced that light can be cast over the shadow of the property crisis in China in the next year.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nIn a poetic analogy, John Lasseter, the director of the animated sports comedy film Cars, likened the love for cars to the sound of a throaty V-8 rumbling and revving, the acceleration throwing you back in the seat, especially when cruising on a beautiful, winding road with light dappling through the trees. Coincidentally, mirroring this exhilarating sensation, the Capesize segment experienced a noteworthy acceleration in this week's closing, with a remarkable $5,855 daily rise.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "singapore",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 915,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

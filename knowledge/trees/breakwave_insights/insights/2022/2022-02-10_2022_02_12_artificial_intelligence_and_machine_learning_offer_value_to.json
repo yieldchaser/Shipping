@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-10_2022_02_12_artificial_intelligence_and_machine_learning_offer_value_to__root",
+  "doc_id": "breakwave_insights_insights_2022-02-10_2022_02_12_artificial_intelligence_and_machine_learning_offer_value_to",
+  "parent_id": null,
+  "title": "Artificial Intelligence And Machine Learning Offer Value To The Shipping Community",
+  "section_path": [
+    "Artificial Intelligence And Machine Learning Offer Value To The Shipping Community"
+  ],
+  "section_path_text": "Artificial Intelligence And Machine Learning Offer Value To The Shipping Community",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Mike Konstantinidis\nThe shipping industry is at a time of major change, having to deal with issues that are mainly relevant to the regulatory framework, while ship-owning and ship-management companies as well as charterers are required to make important decisions about their model of operation and strategic decisions on their business activity and investments. The optimization of environmental footprint of the cargo vessels becomes more and more pressing through ever increasing stricter regulatory obligations. The development, however, which is revolutionizing the maritime sector has to do with the exploitation of all those data produced onboard the vessels and the extraction of the actionable intelligence that is hidden inside them.",
+  "keywords": [
+    "data",
+    "learning",
+    "significant",
+    "are",
+    "machine",
+    "maritime",
+    "process",
+    "vessel",
+    "all",
+    "any",
+    "companies",
+    "fuel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 872,
+  "source_path": "reports/breakwave/2022/2022-02-12_artificial-intelligence-and-machine-learning-offer-value-to.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/10/artificial-intelligence-and-machine-learning-offer-value-to-the-shipping-community",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-10_2022_02_12_artificial_intelligence_and_machine_learning_offer_value_to__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-10_2022_02_12_artificial_intelligence_and_machine_learning_offer_value_to",
+      "parent_id": "breakwave_insights_insights_2022-02-10_2022_02_12_artificial_intelligence_and_machine_learning_offer_value_to__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Mike Konstantinidis\nThe shipping industry is at a time of major change, having to deal with issues that are mainly relevant to the regulatory framework, while ship-owning and ship-management companies as well as charterers are required to make important decisions about their model of operation and strategic decisions on their business activity and investments. The optimization of environmental footprint of the cargo vessels becomes more and more pressing through ever increasing stricter regulatory obligations.",
+      "keywords": [
+        "data",
+        "learning",
+        "significant",
+        "are",
+        "machine",
+        "maritime",
+        "process",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 870,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

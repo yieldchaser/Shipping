@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-03_2022_10_03_mazars_comment_bad_news_is_on_its_way_to_becoming_good_news__root",
+  "doc_id": "breakwave_insights_insights_2022-10-03_2022_10_03_mazars_comment_bad_news_is_on_its_way_to_becoming_good_news",
+  "parent_id": null,
+  "title": "Mazars Comment Bad News Is On Its Way To Becoming Good News Again",
+  "section_path": [
+    "Mazars Comment Bad News Is On Its Way To Becoming Good News Again"
+  ],
+  "section_path_text": "Mazars Comment Bad News Is On Its Way To Becoming Good News Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nEvery time I hear about quantitative easing, the lyrics of the Eagle's 1976 classic \" Hotel California \" come to mind: ‘You can check out any time you like, but you can never leave'. Quantitative easing is the ultimate tool to pacify markets. Once it was applied with success, it became very difficult for policymakers to consider other options to restore market calm.",
+  "keywords": [
+    "china",
+    "are",
+    "markets",
+    "may",
+    "central",
+    "was",
+    "banks",
+    "bond",
+    "fed",
+    "not",
+    "quantitative",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1225,
+  "source_path": "reports/breakwave/2022/2022-10-03_mazars-comment-bad-news-is-on-its-way-to-becoming-good-news.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/3/mazars-comment-bad-news-is-on-its-way-to-becoming-good-news-again",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-03_2022_10_03_mazars_comment_bad_news_is_on_its_way_to_becoming_good_news__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-03_2022_10_03_mazars_comment_bad_news_is_on_its_way_to_becoming_good_news",
+      "parent_id": "breakwave_insights_insights_2022-10-03_2022_10_03_mazars_comment_bad_news_is_on_its_way_to_becoming_good_news__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nEvery time I hear about quantitative easing, the lyrics of the Eagle's 1976 classic \" Hotel California \" come to mind: ‘You can check out any time you like, but you can never leave'. Quantitative easing is the ultimate tool to pacify markets.",
+      "keywords": [
+        "china",
+        "are",
+        "markets",
+        "may",
+        "central",
+        "was",
+        "banks",
+        "bond"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1223,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

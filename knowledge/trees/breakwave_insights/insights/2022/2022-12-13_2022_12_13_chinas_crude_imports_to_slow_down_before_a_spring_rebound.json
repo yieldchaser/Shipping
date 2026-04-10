@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-13_2022_12_13_chinas_crude_imports_to_slow_down_before_a_spring_rebound__root",
+  "doc_id": "breakwave_insights_insights_2022-12-13_2022_12_13_chinas_crude_imports_to_slow_down_before_a_spring_rebound",
+  "parent_id": null,
+  "title": "Chinas Crude Imports To Slow Down Before A Spring Rebound",
+  "section_path": [
+    "Chinas Crude Imports To Slow Down Before A Spring Rebound"
+  ],
+  "section_path_text": "Chinas Crude Imports To Slow Down Before A Spring Rebound",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Emma Li\nAfter nine months of lacklustre performance, Chinese refiners have stepped on the accelerator and ramped up refining runs in Q4, incentivised by additional import and export quotas. As China works towards pivoting away from its stringent Covid policy, a recovery in domestic demand would support its crude imports, but anticipated cuts in export quotas next year back to 1H 2022 levels look likely to stall the momentum. China's seaborne crude imports in November have breached the 10mbd mark, rising for four consecutive months and exhibiting a second straight month of year-on-year growth.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "atlantic",
+    "meg",
+    "crude_oil",
+    "products",
+    "crude",
+    "export",
+    "refiners",
+    "imports",
+    "its",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 976,
+  "source_path": "reports/breakwave/2022/2022-12-13_chinas-crude-imports-to-slow-down-before-a-spring-rebound.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/13/chinas-crude-imports-to-slow-down-before-a-spring-rebound",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-13_2022_12_13_chinas_crude_imports_to_slow_down_before_a_spring_rebound__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-13_2022_12_13_chinas_crude_imports_to_slow_down_before_a_spring_rebound",
+      "parent_id": "breakwave_insights_insights_2022-12-13_2022_12_13_chinas_crude_imports_to_slow_down_before_a_spring_rebound__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Emma Li\nAfter nine months of lacklustre performance, Chinese refiners have stepped on the accelerator and ramped up refining runs in Q4, incentivised by additional import and export quotas. As China works towards pivoting away from its stringent Covid policy, a recovery in domestic demand would support its crude imports, but anticipated cuts in export quotas next year back to 1H 2022 levels look likely to stall the momentum.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "meg",
+        "crude_oil",
+        "products",
+        "crude",
+        "export"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 974,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

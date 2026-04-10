@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nChart of the Week : Dry Bulk Grain flows from the U.S & Brazil Brazilian grain exports broke records this year, outpacing weak US exports\nAs we enter the fourth quarter of this year, the market is showing a strong resurgence with rates increasing year-over-year. Notably, Capesize Brazil to North China rates have exceeded $20 per tonne. This significant upswing in the freight market's momentum is evident not only in the large vessel size segment but also in the Supramax and Handysize categories.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "grain",
+    "number",
+    "ships",
+    "growth",
+    "increase"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1138,
+  "source_path": "reports/breakwave/2023/2023-10-04_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/10/4/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Chart of the Week : Dry Bulk Grain flows from the U.S & Brazil Brazilian grain exports broke records this year, outpacing weak US exports\nAs we enter the fourth quarter of this year, the market is showing a strong resurgence with rates increasing year-over-year. Notably, Capesize Brazil to North China rates have exceeded $20 per tonne.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "grain",
+        "exports",
+        "brazilian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 331,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Firmer\nThe first week of October began with significant increases in rates, indicating that the lows witnessed six weeks ago are firmly in the past. Notably, Capesize rates for Brazil to North China have now exceeded the $20 per tonne threshold.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "monthly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 242,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (# vessels) Decreasing\nThe number of ballast ships has decreased since September, particularly in the Capesize and Panamax segments, while increasing for Handysize vessels. Capesize SE Africa: The number of ballasters dropped to 76, which is 32 vessels less than two weeks ago and 15 below the annual average.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "annual",
+        "ballast",
+        "ships"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size Tonne Days Mixed\nThe first signs of recovery in the Capesize segment at the end of September continued and the growth rate was higher than three weeks ago, while the Panamax segment continues to see a downward correction. Capesize: Demand growth in tons per day has accelerated since last week, fueling optimism for a freight rate recovery.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "growth",
+        "continued",
+        "demand",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-04_2023_10_04_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry Bulk Ships Congested at Chinese Ports\nThe level of ship congestion has remained steady over the past two weeks, with all sizes showing signs of increase except for Supramax. Capesize: The number of congested vessels has increased by 7 from the previous week to 101, the same level as week 36, although it remains to be seen whether the number of congested vessels will continue to exceed 100.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "congested",
+        "number",
+        "ships"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

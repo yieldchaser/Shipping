@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-09-10_2020_09_10_chinas_plan_to_stockpile_commodities_should_support_shipping__root",
+  "doc_id": "breakwave_insights_insights_2020-09-10_2020_09_10_chinas_plan_to_stockpile_commodities_should_support_shipping",
+  "parent_id": null,
+  "title": "Chinas Plan To Stockpile Commodities Should Support Shipping",
+  "section_path": [
+    "Chinas Plan To Stockpile Commodities Should Support Shipping"
+  ],
+  "section_path_text": "Chinas Plan To Stockpile Commodities Should Support Shipping",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAlthough the day-to-day drivers of freight rates are usually dominating shipping market discussions, long term fundamentals remain vague in an industry with such a high degree of volatility. And yet, shipping cycles can be longer and stronger versus short term shipping rate fluctuations as investors learned well in the 2000's shipping cycle. By now, most people that have looked at shipping investments know that China has and will be the main driver of demand, as the country continues to absorb vast quantities of commodities with much higher growth rates versus the rest of the world.",
+  "keywords": [
+    "capesize",
+    "china",
+    "australia",
+    "crude_oil",
+    "products",
+    "are",
+    "demand",
+    "growth",
+    "commodities",
+    "years",
+    "consumption",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 765,
+  "source_path": "reports/breakwave/2020/2020-09-10_chinas-plan-to-stockpile-commodities-should-support-shipping.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/9/10/chinas-plan-to-stockpile-commodities-should-support-shipping",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-09-10_2020_09_10_chinas_plan_to_stockpile_commodities_should_support_shipping__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-09-10_2020_09_10_chinas_plan_to_stockpile_commodities_should_support_shipping",
+      "parent_id": "breakwave_insights_insights_2020-09-10_2020_09_10_chinas_plan_to_stockpile_commodities_should_support_shipping__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Although the day-to-day drivers of freight rates are usually dominating shipping market discussions, long term fundamentals remain vague in an industry with such a high degree of volatility. And yet, shipping cycles can be longer and stronger versus short term shipping rate fluctuations as investors learned well in the 2000's shipping cycle.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "crude_oil",
+        "products",
+        "are",
+        "demand",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 763,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

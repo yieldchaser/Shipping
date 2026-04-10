@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-06-22_2021_06_22_commodity_prices_inflation_and_shipping_profits__root",
+  "doc_id": "breakwave_insights_insights_2021-06-22_2021_06_22_commodity_prices_inflation_and_shipping_profits",
+  "parent_id": null,
+  "title": "Commodity Prices Inflation And Shipping Profits",
+  "section_path": [
+    "Commodity Prices Inflation And Shipping Profits"
+  ],
+  "section_path_text": "Commodity Prices Inflation And Shipping Profits",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\"Lagom\" is a Swedish word that can be translated as \"just right\" in the context of \"not too little, not too much\". Beyond its literal translation, it is a quintessential Swedish word and is often seen as a key to understanding the Swedish culture. Typically, the use of the word implies that one actually should know what the right amount/level should be, notwithstanding one's personal preferences.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "pacific",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "steel",
+    "prices",
+    "commodity",
+    "are",
+    "volumes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 909,
+  "source_path": "reports/breakwave/2021/2021-06-22_commodity-prices-inflation-and-shipping-profits.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/6/22/commodity-prices-inflation-and-shipping-profits",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-06-22_2021_06_22_commodity_prices_inflation_and_shipping_profits__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-06-22_2021_06_22_commodity_prices_inflation_and_shipping_profits",
+      "parent_id": "breakwave_insights_insights_2021-06-22_2021_06_22_commodity_prices_inflation_and_shipping_profits__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\n\"Lagom\" is a Swedish word that can be translated as \"just right\" in the context of \"not too little, not too much\". Beyond its literal translation, it is a quintessential Swedish word and is often seen as a key to understanding the Swedish culture.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "pacific",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 907,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

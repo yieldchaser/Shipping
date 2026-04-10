@@ -1,0 +1,49 @@
+{
+  "node_id": "hellenic_tanker_charter_2022-11-16_2022_11_16_weekly_tanker_time_charter_estimates_november_16_2022__root",
+  "doc_id": "hellenic_tanker_charter_2022-11-16_2022_11_16_weekly_tanker_time_charter_estimates_november_16_2022",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, November 16 2022",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, November 16 2022"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, November 16 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "",
+  "keywords": [
+    "image",
+    "main",
+    "reference",
+    "weekly-tanker-time-charter-estimates-november-16-2022_img2.jpg"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 33,
+  "source_path": "reports/hellenic/tanker_charter/2022/2022-11-16_weekly-tanker-time-charter-estimates-november-16-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-november-16-2022",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2022-11-16_2022_11_16_weekly_tanker_time_charter_estimates_november_16_2022__s01_main",
+      "doc_id": "hellenic_tanker_charter_2022-11-16_2022_11_16_weekly_tanker_time_charter_estimates_november_16_2022",
+      "parent_id": "hellenic_tanker_charter_2022-11-16_2022_11_16_weekly_tanker_time_charter_estimates_november_16_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "image",
+        "reference",
+        "weekly-tanker-time-charter-estimates-november-16-2022_img2.jpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-09-15_2021_09_15_mmi_daily_iron_ore_index_report_september_15_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-09-15_2021_09_15_mmi_daily_iron_ore_index_report_september_15_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 15 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 15 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 15 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 15/09/2021\nDCE iron ore futures market continued dropping tendency and I2201 recorded new low since from last May to 682.5yuan/mt. The physical portstock prices plummeted further and PBF in Shandong market was closed at 880yuan/mt, with price drop of 20- 30yuan/mt. In Tangshan market, PBF was closed at 940-950yuan/mt, with price decline of 20yuan/mt.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "blast",
+    "furnaces",
+    "iron",
+    "ore",
+    "was",
+    "yuan/mt.",
+    "closed",
+    "continued",
+    "increasing"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 270,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-09-15_mmi-daily-iron-ore-index-report-september-15-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-15-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-09-15_2021_09_15_mmi_daily_iron_ore_index_report_september_15_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-09-15_2021_09_15_mmi_daily_iron_ore_index_report_september_15_2021",
+      "parent_id": "hellenic_iron_ore_2021-09-15_2021_09_15_mmi_daily_iron_ore_index_report_september_15_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 15/09/2021\nDCE iron ore futures market continued dropping tendency and I2201 recorded new low since from last May to 682.5yuan/mt. The physical portstock prices plummeted further and PBF in Shandong market was closed at 880yuan/mt, with price drop of 20- 30yuan/mt.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "blast",
+        "furnaces",
+        "iron",
+        "ore",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 268,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

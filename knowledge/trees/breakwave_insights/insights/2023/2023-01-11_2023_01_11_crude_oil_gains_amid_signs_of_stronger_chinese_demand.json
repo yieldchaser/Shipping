@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-11_2023_01_11_crude_oil_gains_amid_signs_of_stronger_chinese_demand__root",
+  "doc_id": "breakwave_insights_insights_2023-01-11_2023_01_11_crude_oil_gains_amid_signs_of_stronger_chinese_demand",
+  "parent_id": null,
+  "title": "Crude Oil Gains Amid Signs Of Stronger Chinese Demand",
+  "section_path": [
+    "Crude Oil Gains Amid Signs Of Stronger Chinese Demand"
+  ],
+  "section_path_text": "Crude Oil Gains Amid Signs Of Stronger Chinese Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nCommodity markets were mixed as optimism over China's reopening was offset by concerns of further monetary tightening by central banks. A weaker USD ultimately helped push the sector higher. Crude oil prices were under pressure early in the session after two Fed official said the bank will likely need to raise rates above 5% to combat inflation.",
+  "keywords": [
+    "lng",
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "demand",
+    "was",
+    "after",
+    "its",
+    "amid"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 582,
+  "source_path": "reports/breakwave/2023/2023-01-11_crude-oil-gains-amid-signs-of-stronger-chinese-demand.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/11/crude-oil-gains-amid-signs-of-stronger-chinese-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-11_2023_01_11_crude_oil_gains_amid_signs_of_stronger_chinese_demand__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-11_2023_01_11_crude_oil_gains_amid_signs_of_stronger_chinese_demand",
+      "parent_id": "breakwave_insights_insights_2023-01-11_2023_01_11_crude_oil_gains_amid_signs_of_stronger_chinese_demand__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nCommodity markets were mixed as optimism over China's reopening was offset by concerns of further monetary tightening by central banks. A weaker USD ultimately helped push the sector higher.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "crude_oil",
+        "gas",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 580,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

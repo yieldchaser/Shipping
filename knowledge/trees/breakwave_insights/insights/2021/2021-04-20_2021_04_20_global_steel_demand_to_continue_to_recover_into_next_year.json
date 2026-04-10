@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-20_2021_04_20_global_steel_demand_to_continue_to_recover_into_next_year__root",
+  "doc_id": "breakwave_insights_insights_2021-04-20_2021_04_20_global_steel_demand_to_continue_to_recover_into_next_year",
+  "parent_id": null,
+  "title": "Global Steel Demand To Continue To Recover Into Next Year",
+  "section_path": [
+    "Global Steel Demand To Continue To Recover Into Next Year"
+  ],
+  "section_path_text": "Global Steel Demand To Continue To Recover Into Next Year",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe world's demand for steel is set to grow by almost six per cent this year, after edging down by 0.2 per cent last year. The World Steel Association is projecting in its latest outlook that the full-year global demand will reach 1,874 million tonnes and continue to grow next year by an additional 2.7 per cent. The more restrained outlook for 2022 reflects a diminished impact of stimulus spending programmes.",
+  "keywords": [
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "iron_ore",
+    "products",
+    "steel",
+    "demand",
+    "year",
+    "iron",
+    "during",
+    "expected"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 800,
+  "source_path": "reports/breakwave/2021/2021-04-20_global-steel-demand-to-continue-to-recover-into-next-year.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/20/global-steel-demand-to-continue-to-recover-into-next-year",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-20_2021_04_20_global_steel_demand_to_continue_to_recover_into_next_year__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-20_2021_04_20_global_steel_demand_to_continue_to_recover_into_next_year",
+      "parent_id": "breakwave_insights_insights_2021-04-20_2021_04_20_global_steel_demand_to_continue_to_recover_into_next_year__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe world's demand for steel is set to grow by almost six per cent this year, after edging down by 0.2 per cent last year. The World Steel Association is projecting in its latest outlook that the full-year global demand will reach 1,874 million tonnes and continue to grow next year by an additional 2.7 per cent.",
+      "keywords": [
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "iron_ore",
+        "products",
+        "steel",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 798,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

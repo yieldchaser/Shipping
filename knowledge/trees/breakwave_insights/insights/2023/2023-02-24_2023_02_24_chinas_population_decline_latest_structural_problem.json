@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-24_2023_02_24_chinas_population_decline_latest_structural_problem__root",
+  "doc_id": "breakwave_insights_insights_2023-02-24_2023_02_24_chinas_population_decline_latest_structural_problem",
+  "parent_id": null,
+  "title": "Chinas Population Decline Latest Structural Problem",
+  "section_path": [
+    "Chinas Population Decline Latest Structural Problem"
+  ],
+  "section_path_text": "Chinas Population Decline Latest Structural Problem",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we have been discussing in Commodore's Weekly Dry Bulk Reports and Weekly China Reports, inflation has been exceeding retail sales growth in China and around the world. Taking into account inflation when examining retail sales sheds much more light on how consumers are actually faring. Often, it is only retail sales data that is discussed by major media outlets and research providers, but retail sales are measured in currency and not goods.",
+  "keywords": [
+    "china",
+    "sales",
+    "last",
+    "retail",
+    "was",
+    "year",
+    "are",
+    "back",
+    "currency",
+    "goods",
+    "growth",
+    "inflation"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 412,
+  "source_path": "reports/breakwave/2023/2023-02-24_chinas-population-decline-latest-structural-problem.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/24/chinas-population-decline-latest-structural-problem",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-24_2023_02_24_chinas_population_decline_latest_structural_problem__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-24_2023_02_24_chinas_population_decline_latest_structural_problem",
+      "parent_id": "breakwave_insights_insights_2023-02-24_2023_02_24_chinas_population_decline_latest_structural_problem__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we have been discussing in Commodore's Weekly Dry Bulk Reports and Weekly China Reports, inflation has been exceeding retail sales growth in China and around the world. Taking into account inflation when examining retail sales sheds much more light on how consumers are actually faring.",
+      "keywords": [
+        "china",
+        "sales",
+        "last",
+        "retail",
+        "was",
+        "year",
+        "are",
+        "back"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 410,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

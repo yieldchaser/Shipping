@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-16_2023_01_16_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-01-16_2023_01_16_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nFollowing a quite uninspiring second half of 2022, Baltic Dry Index stepped into the New Year with a rather tepid and lukewarm feeling. In fact, one should dig well into trading history in order to draw a parallel of the current steep downward correction of the spot market, with all segments being under severe pressure. In spite of that, our clients and friends replied to our annual sentiment survey that they remain \"cautiously optimistic\" for the next twelve months -or at least the majority of them.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "percent",
+    "year",
+    "average",
+    "our",
+    "current",
+    "one",
+    "optimistic",
+    "rather",
+    "trading"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 982,
+  "source_path": "reports/breakwave/2023/2023-01-16_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/16/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-16_2023_01_16_doric_weekly_market_insight__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-16_2023_01_16_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-01-16_2023_01_16_doric_weekly_market_insight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nFollowing a quite uninspiring second half of 2022, Baltic Dry Index stepped into the New Year with a rather tepid and lukewarm feeling. In fact, one should dig well into trading history in order to draw a parallel of the current steep downward correction of the spot market, with all segments being under severe pressure.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "percent",
+        "year",
+        "average",
+        "our",
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 980,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

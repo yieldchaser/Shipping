@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-10-03_2023_10_03_braemar_weekly_dry_market_report__root",
+  "doc_id": "breakwave_insights_insights_2023-10-03_2023_10_03_braemar_weekly_dry_market_report",
+  "parent_id": null,
+  "title": "Braemar Weekly Dry Market Report",
+  "section_path": [
+    "Braemar Weekly Dry Market Report"
+  ],
+  "section_path_text": "Braemar Weekly Dry Market Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Big Picture: Fluctuating grain trade volumes from Argentina\nHistoric drought had stifled grain exports earlier in the year, but now shipments on the rise. Recent impetus came from the \"Export Increase Programme\", a 25% devaluation against the official exchange rate for some agricultural exports, introduced in late July until end-August (the so-called \"corn dollar\"). The main positive risk to the trade outlook would be an election victory for one of two candidates in the 22 October presidential election to support a cut in grain export taxes.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "grain",
+    "exports",
+    "argentina",
+    "tonnes",
+    "export"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1117,
+  "source_path": "reports/breakwave/2023/2023-10-03_braemar-weekly-dry-market-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/10/3/braemar-weekly-dry-market-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-10-03_2023_10_03_braemar_weekly_dry_market_report__s01_the_big_picture_fluctuating_grain_trade_volumes_from_argentina",
+      "doc_id": "breakwave_insights_insights_2023-10-03_2023_10_03_braemar_weekly_dry_market_report",
+      "parent_id": "breakwave_insights_insights_2023-10-03_2023_10_03_braemar_weekly_dry_market_report__root",
+      "title": "The Big Picture: Fluctuating grain trade volumes from Argentina",
+      "section_path": [
+        "The Big Picture: Fluctuating grain trade volumes from Argentina"
+      ],
+      "section_path_text": "The Big Picture: Fluctuating grain trade volumes from Argentina",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Historic drought had stifled grain exports earlier in the year, but now shipments on the rise. Recent impetus came from the \"Export Increase Programme\", a 25% devaluation against the official exchange rate for some agricultural exports, introduced in late July until end-August (the so-called \"corn dollar\").",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1104,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

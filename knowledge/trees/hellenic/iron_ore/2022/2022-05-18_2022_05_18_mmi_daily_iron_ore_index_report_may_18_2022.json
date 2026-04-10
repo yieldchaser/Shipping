@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-05-18_2022_05_18_mmi_daily_iron_ore_index_report_may_18_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-05-18_2022_05_18_mmi_daily_iron_ore_index_report_may_18_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report May 18 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report May 18 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report May 18 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 18/05/2022\nDCE iron ore futures market falling sharply trends by 5.27%, the main contract closed 791, the quotation in the morning was decreased by10-15 yuan/mt over yesterday. some traders quotation is still stronger, Some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high. PBF at Shandong port dealt 910-925 yuan/mt; decreased 15-30 yuan/mt over yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "decreased",
+    "iron",
+    "yesterday.",
+    "dealt",
+    "ore",
+    "port",
+    "mills",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 346,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-05-18_mmi-daily-iron-ore-index-report-may-18-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-18-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-05-18_2022_05_18_mmi_daily_iron_ore_index_report_may_18_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-05-18_2022_05_18_mmi_daily_iron_ore_index_report_may_18_2022",
+      "parent_id": "hellenic_iron_ore_2022-05-18_2022_05_18_mmi_daily_iron_ore_index_report_may_18_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 18/05/2022\nDCE iron ore futures market falling sharply trends by 5.27%, the main contract closed 791, the quotation in the morning was decreased by10-15 yuan/mt over yesterday. some traders quotation is still stronger, Some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "decreased",
+        "iron",
+        "yesterday.",
+        "dealt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 344,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

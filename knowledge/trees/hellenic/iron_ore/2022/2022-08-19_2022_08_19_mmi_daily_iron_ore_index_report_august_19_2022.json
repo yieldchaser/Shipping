@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-08-19_2022_08_19_mmi_daily_iron_ore_index_report_august_19_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-08-19_2022_08_19_mmi_daily_iron_ore_index_report_august_19_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 19 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 19 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 19 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 19/08/2022\nDCE iron ore was was shocked sharply all the day.The main contract closed at 673.5,decreased of 1.97 %. Traders are no more motivated toship. Steel mills are more mainly on the sidelines, and market turnover continues to pick up.PBF at Shandong port dealt 730-745 yuan/ mt,increase 5 yuan/mt than yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "tons",
+    "iron",
+    "ore",
+    "port",
+    "million",
+    "mills",
+    "prices",
+    "are",
+    "dealt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 340,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-08-19_mmi-daily-iron-ore-index-report-august-19-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-19-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-08-19_2022_08_19_mmi_daily_iron_ore_index_report_august_19_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-08-19_2022_08_19_mmi_daily_iron_ore_index_report_august_19_2022",
+      "parent_id": "hellenic_iron_ore_2022-08-19_2022_08_19_mmi_daily_iron_ore_index_report_august_19_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 19/08/2022\nDCE iron ore was was shocked sharply all the day.The main contract closed at 673.5,decreased of 1.97 %. Traders are no more motivated toship.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "tons",
+        "iron",
+        "ore",
+        "port",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 338,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

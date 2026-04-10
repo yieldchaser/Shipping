@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-15_2022_08_15_signs_of_stronger_demand_boosts_sentiment_in_commodity_marke__root",
+  "doc_id": "breakwave_insights_insights_2022-08-15_2022_08_15_signs_of_stronger_demand_boosts_sentiment_in_commodity_marke",
+  "parent_id": null,
+  "title": "Signs Of Stronger Demand Boosts Sentiment In Commodity Markets",
+  "section_path": [
+    "Signs Of Stronger Demand Boosts Sentiment In Commodity Markets"
+  ],
+  "section_path_text": "Signs Of Stronger Demand Boosts Sentiment In Commodity Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nCommodity markets were buoyed by better-than-expected data. Energy led the gains, as the positive demand backdrop met ongoing supply issues. Crude oil posted a weekly gain, despite edging lower on Friday as the prospect of stronger demand improved.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "demand",
+    "last",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 717,
+  "source_path": "reports/breakwave/2022/2022-08-15_signs-of-stronger-demand-boosts-sentiment-in-commodity-marke.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/15/signs-of-stronger-demand-boosts-sentiment-in-commodity-markets",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-15_2022_08_15_signs_of_stronger_demand_boosts_sentiment_in_commodity_marke__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-08-15_2022_08_15_signs_of_stronger_demand_boosts_sentiment_in_commodity_marke",
+      "parent_id": "breakwave_insights_insights_2022-08-15_2022_08_15_signs_of_stronger_demand_boosts_sentiment_in_commodity_marke__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nCommodity markets were buoyed by better-than-expected data. Energy led the gains, as the positive demand backdrop met ongoing supply issues.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 715,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

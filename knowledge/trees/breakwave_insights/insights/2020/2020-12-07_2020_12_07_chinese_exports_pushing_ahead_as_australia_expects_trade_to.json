@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-12-07_2020_12_07_chinese_exports_pushing_ahead_as_australia_expects_trade_to__root",
+  "doc_id": "breakwave_insights_insights_2020-12-07_2020_12_07_chinese_exports_pushing_ahead_as_australia_expects_trade_to",
+  "parent_id": null,
+  "title": "Chinese Exports Pushing Ahead As Australia Expects Trade To Weaken",
+  "section_path": [
+    "Chinese Exports Pushing Ahead As Australia Expects Trade To Weaken"
+  ],
+  "section_path_text": "Chinese Exports Pushing Ahead As Australia Expects Trade To Weaken",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThat the Chinese export industry keeps doing well will hardly come as a surprise, especially as container spot rates have been soaring in the last few months. However, the latest release of data managed to surprise the pundits, with export volumes even stronger than the already high numbers expected. November's numbers jumped by a healthy 21 percent compared with the same month last year, while economists were expecting a respectable twelve percent increase.",
+  "keywords": [
+    "container",
+    "china",
+    "australia",
+    "coal",
+    "grain",
+    "chinese",
+    "are",
+    "export",
+    "trade",
+    "australian",
+    "exports",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 649,
+  "source_path": "reports/breakwave/2020/2020-12-07_chinese-exports-pushing-ahead-as-australia-expects-trade-to.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/12/7/chinese-exports-pushing-ahead-as-australia-expects-trade-to-weaken",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-12-07_2020_12_07_chinese_exports_pushing_ahead_as_australia_expects_trade_to__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-12-07_2020_12_07_chinese_exports_pushing_ahead_as_australia_expects_trade_to",
+      "parent_id": "breakwave_insights_insights_2020-12-07_2020_12_07_chinese_exports_pushing_ahead_as_australia_expects_trade_to__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThat the Chinese export industry keeps doing well will hardly come as a surprise, especially as container spot rates have been soaring in the last few months. However, the latest release of data managed to surprise the pundits, with export volumes even stronger than the already high numbers expected.",
+      "keywords": [
+        "container",
+        "china",
+        "australia",
+        "coal",
+        "grain",
+        "chinese",
+        "are",
+        "export"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 647,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

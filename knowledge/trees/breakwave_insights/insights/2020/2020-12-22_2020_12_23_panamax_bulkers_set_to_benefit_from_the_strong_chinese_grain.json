@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-12-22_2020_12_23_panamax_bulkers_set_to_benefit_from_the_strong_chinese_grain__root",
+  "doc_id": "breakwave_insights_insights_2020-12-22_2020_12_23_panamax_bulkers_set_to_benefit_from_the_strong_chinese_grain",
+  "parent_id": null,
+  "title": "Panamax Bulkers Set To Benefit From The Strong Chinese Grain Demand In 2021",
+  "section_path": [
+    "Panamax Bulkers Set To Benefit From The Strong Chinese Grain Demand In 2021"
+  ],
+  "section_path_text": "Panamax Bulkers Set To Benefit From The Strong Chinese Grain Demand In 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Sevi Katemoglou\nIn the midst of a generalized turmoil caused by a health crisis, subdued trading activity and political tensions in many fronts, we turn to grains to find some positive insights. It is true that this year grains have managed to \"save the day\" for Panamaxes as they proved to be a significant pillar of support for the medium-sized bulkers, which on many occasions ran unusually higher than the larger asset class of Capesizes. Although Panamax carriers' TCE rates in 2020 so far did not manage to hit highs that would exceed the 2019 marks, the longhaul grain volumes somewhat offset the thinning trade of other major dry bulk commodities, essentially offering some comfort to Panamax and Kamsarmax Owners.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "products",
+    "are",
+    "exports",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 731,
+  "source_path": "reports/breakwave/2020/2020-12-23_panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/12/22/panamax-bulkers-set-to-benefit-from-the-strong-chinese-grain-demand-in-2021",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-12-22_2020_12_23_panamax_bulkers_set_to_benefit_from_the_strong_chinese_grain__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-12-22_2020_12_23_panamax_bulkers_set_to_benefit_from_the_strong_chinese_grain",
+      "parent_id": "breakwave_insights_insights_2020-12-22_2020_12_23_panamax_bulkers_set_to_benefit_from_the_strong_chinese_grain__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Sevi Katemoglou\nIn the midst of a generalized turmoil caused by a health crisis, subdued trading activity and political tensions in many fronts, we turn to grains to find some positive insights. It is true that this year grains have managed to \"save the day\" for Panamaxes as they proved to be a significant pillar of support for the medium-sized bulkers, which on many occasions ran unusually higher than the larger asset class of Capesizes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 729,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

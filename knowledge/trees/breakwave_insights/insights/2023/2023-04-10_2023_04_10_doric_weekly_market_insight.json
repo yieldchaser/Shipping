@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-10_2023_04_10_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-04-10_2023_04_10_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"With the Brazilian soybean's solid global demand and favorable competitiveness due to the strong US dollar, Refinitiv forecasts 2022/23 Brazilian soybean exports at 92.8 million tonnes, considerably higher year-on-year.\"\nBy Michalis Voutsinas\nSpot market was a tale of two segments during the fourteenth week, with the gearless ones steaming further north and the geared losing some steam. In fact, reporting solid gains, Baltic Capesize and Panamax indices trended upwards, concluding yesterday at very similar levels of $16,928 and $16,661 daily respectively. Conversely, drifting lower, Baltic Supramax and Handy indices reverted back to mid-March levels of $12,773 and $11,578 daily respectively.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "atlantic",
+    "grain",
+    "brazilian",
+    "manufacturing",
+    "percent",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 906,
+  "source_path": "reports/breakwave/2023/2023-04-10_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/10/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-10_2023_04_10_doric_weekly_market_insight__s01_with_the_brazilian_soybean_s_solid_global_demand_and_favorable_competitiveness_due_to_the_strong_us_dollar_refinitiv_forecasts_2022_23_brazilian_soybean_exports_at_92_8_million_tonnes_considerably_higher_year_on_year",
+      "doc_id": "breakwave_insights_insights_2023-04-10_2023_04_10_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-04-10_2023_04_10_doric_weekly_market_insight__root",
+      "title": "\"With the Brazilian soybean's solid global demand and favorable competitiveness due to the strong US dollar, Refinitiv forecasts 2022/23 Brazilian soybean exports at 92.8 million tonnes, considerably higher year-on-year.\"",
+      "section_path": [
+        "\"With the Brazilian soybean's solid global demand and favorable competitiveness due to the strong US dollar, Refinitiv forecasts 2022/23 Brazilian soybean exports at 92.8 million tonnes, considerably higher year-on-year.\""
+      ],
+      "section_path_text": "\"With the Brazilian soybean's solid global demand and favorable competitiveness due to the strong US dollar, Refinitiv forecasts 2022/23 Brazilian soybean exports at 92.8 million tonnes, considerably higher year-on-year.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nSpot market was a tale of two segments during the fourteenth week, with the gearless ones steaming further north and the geared losing some steam. In fact, reporting solid gains, Baltic Capesize and Panamax indices trended upwards, concluding yesterday at very similar levels of $16,928 and $16,661 daily respectively.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "atlantic",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 860,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

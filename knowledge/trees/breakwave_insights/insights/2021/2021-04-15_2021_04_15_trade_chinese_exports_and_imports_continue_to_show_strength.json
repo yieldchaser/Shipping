@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-15_2021_04_15_trade_chinese_exports_and_imports_continue_to_show_strength__root",
+  "doc_id": "breakwave_insights_insights_2021-04-15_2021_04_15_trade_chinese_exports_and_imports_continue_to_show_strength",
+  "parent_id": null,
+  "title": "Trade Chinese Exports And Imports Continue To Show Strength",
+  "section_path": [
+    "Trade Chinese Exports And Imports Continue To Show Strength"
+  ],
+  "section_path_text": "Trade Chinese Exports And Imports Continue To Show Strength",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThis week saw yet another set of bullish data coming out of China, with both imports and exports in rude health. The strong showing indicates that the global post-pandemic economic recovery is well on track, as vaccine rollouts around the world pick up the pace. Strong US retail sales and employment data are further contributing to a picture of a recovering global economy.",
+  "keywords": [
+    "china",
+    "australia",
+    "europe",
+    "products",
+    "per",
+    "cent",
+    "growth",
+    "chinese",
+    "exports",
+    "during",
+    "global",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 854,
+  "source_path": "reports/breakwave/2021/2021-04-15_trade-chinese-exports-and-imports-continue-to-show-strength.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/15/trade-chinese-exports-and-imports-continue-to-show-strength",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-15_2021_04_15_trade_chinese_exports_and_imports_continue_to_show_strength__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-15_2021_04_15_trade_chinese_exports_and_imports_continue_to_show_strength",
+      "parent_id": "breakwave_insights_insights_2021-04-15_2021_04_15_trade_chinese_exports_and_imports_continue_to_show_strength__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThis week saw yet another set of bullish data coming out of China, with both imports and exports in rude health. The strong showing indicates that the global post-pandemic economic recovery is well on track, as vaccine rollouts around the world pick up the pace.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "products",
+        "per",
+        "cent",
+        "growth",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 852,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

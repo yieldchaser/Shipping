@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-05-12_2023_05_12_mmi_daily_iron_ore_index_report_may_12_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-05-12_2023_05_12_mmi_daily_iron_ore_index_report_may_12_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report May 12 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report May 12 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report May 12 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 12/05/2023\nDCE iron ore futures declined by 1.97 % today, the main contract closed at 697. The traders' willingness to ship is general.The steel mills are not active to purchase. The overall trading sentiment of the market is less.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "deal",
+    "port",
+    "but",
+    "continue",
+    "contract",
+    "main",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 264,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-05-12_mmi-daily-iron-ore-index-report-may-12-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-12-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-05-12_2023_05_12_mmi_daily_iron_ore_index_report_may_12_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-05-12_2023_05_12_mmi_daily_iron_ore_index_report_may_12_2023",
+      "parent_id": "hellenic_iron_ore_2023-05-12_2023_05_12_mmi_daily_iron_ore_index_report_may_12_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 12/05/2023\nDCE iron ore futures declined by 1.97 % today, the main contract closed at 697. The traders' willingness to ship is general.The steel mills are not active to purchase.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "deal",
+        "port",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

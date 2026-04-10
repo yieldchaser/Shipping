@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-09-21_2020_09_21_what_will_a_post_pandemic_recovery_look_like__root",
+  "doc_id": "breakwave_insights_insights_2020-09-21_2020_09_21_what_will_a_post_pandemic_recovery_look_like",
+  "parent_id": null,
+  "title": "What Will A Post Pandemic Recovery Look Like",
+  "section_path": [
+    "What Will A Post Pandemic Recovery Look Like"
+  ],
+  "section_path_text": "What Will A Post Pandemic Recovery Look Like",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nPossibly a premature question, as there are still no effective treatments or vaccines available and infection rates are on the rise yet again. However, assuming a vaccine will be fund in the not too distant future, the answer to the question is likely to be quite different depending on what industry one is looking at. A recovery could be a rather uneven affair, both in terms of industrial sectors and regions.",
+  "keywords": [
+    "lng",
+    "china",
+    "india",
+    "iron_ore",
+    "gas",
+    "are",
+    "commodities",
+    "could",
+    "announced",
+    "infrastructure",
+    "not",
+    "both"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 602,
+  "source_path": "reports/breakwave/2020/2020-09-21_what-will-a-post-pandemic-recovery-look-like.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/9/21/what-will-a-post-pandemic-recovery-look-like",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-09-21_2020_09_21_what_will_a_post_pandemic_recovery_look_like__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-09-21_2020_09_21_what_will_a_post_pandemic_recovery_look_like",
+      "parent_id": "breakwave_insights_insights_2020-09-21_2020_09_21_what_will_a_post_pandemic_recovery_look_like__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nPossibly a premature question, as there are still no effective treatments or vaccines available and infection rates are on the rise yet again. However, assuming a vaccine will be fund in the not too distant future, the answer to the question is likely to be quite different depending on what industry one is looking at.",
+      "keywords": [
+        "lng",
+        "china",
+        "india",
+        "iron_ore",
+        "gas",
+        "are",
+        "commodities",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 600,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

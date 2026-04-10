@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nChinese New Year for this week fuels an air of optimism with the Capesize freight rates posting an upward trend following three consecutive weeks of declines. In the iron ore market, prices with 63.5% iron content for delivery to Tianjin started to show signs of increase to levels above $130/t, the highest level since September 7th, amid concerns over supply after major miners in Australia warned of disruptions from labor shortages with the rapid spread of the Omicron coronavirus variant. There are expectations that China's central bank will be providing more stimulus to shore up its slowing economy that will further support the rebound of iron ore prices with strong demand.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1005,
+  "source_path": "reports/breakwave/2022/2022-02-02_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/2/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Chinese New Year for this week fuels an air of optimism with the Capesize freight rates posting an upward trend following three consecutive weeks of declines. In the iron ore market, prices with 63.5% iron content for delivery to Tianjin started to show signs of increase to levels above $130/t, the highest level since September 7th, amid concerns over supply after major miners in Australia warned of disruptions from labor shortages with the rapid spread of the Omicron coronavirus variant.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 328,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nCapesize Brazil to NChina rates inched up for the first time since the beginning of the new year. Rates are now eventually heading to stand above $20/t, however, the sentiment is still weak vs ~$30/t at Week 49, 2021).",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "levels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__s04_number_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "Number of Vessels - Increasing",
+      "section_path": [
+        "Number of Vessels - Increasing"
+      ],
+      "section_path_text": "Number of Vessels - Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of vessels sailing in ballast status is still evolving above the average trend line for the handysize, supramax and Panamax segments. In the Capesize segment, there were some signs of a slight drop in the previous week, with the number moving to less than 70 ballasters, however, the beginning of Chinese New Year signals an indication of an increase.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "number",
+        "vessels",
+        "ballast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__s06_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "Decreasing",
+      "section_path": [
+        "Decreasing"
+      ],
+      "section_path_text": "Decreasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The end of January does not look positive for the Capesize and demand evolution growth with the Chinese New Year averting an increase of growth. In the Panamax segment, the Indonesian coal ban's expiry is fuelling a sense of optimism for more demand in the coming days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "coal",
+        "grain",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 127,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__s09_dry_bulk_ships_congested_around_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-02-02_2022_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "Dry bulk ships congested around Chinese ports",
+      "section_path": [
+        "Dry bulk ships congested around Chinese ports"
+      ],
+      "section_path_text": "Dry bulk ships congested around Chinese ports",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Chinese dry bulk port congestion is still hovering at lower levels than the highs of Weeks 51 & 52. 2021 and below the average of ~1120 vessels.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "china",
+        "number",
+        "vessels",
+        "congestion",
+        "first",
+        "increasing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths__root",
+  "doc_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths",
+  "parent_id": null,
+  "title": "Mazars Comment Difficult Decisions And Difficult Truths",
+  "section_path": [
+    "Mazars Comment Difficult Decisions And Difficult Truths"
+  ],
+  "section_path_text": "Mazars Comment Difficult Decisions And Difficult Truths",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBreakwave Advisors 2nd annual shipping market event\nBy George Lagarias\nThis isn't a weekly I was particularly eager to write. It requires telling truths, and truths are always uneasy. The Pivot\nFor one, it's bad news for our ‘pivoting' camp, a word that in the past few months has been grossly and infuriatingly overused.",
+  "keywords": [
+    "our",
+    "not",
+    "very",
+    "could",
+    "investors",
+    "acknowledge",
+    "are",
+    "bad",
+    "government",
+    "managers",
+    "markets",
+    "meanwhile"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1085,
+  "source_path": "reports/breakwave/2022/2022-11-21_mazars-comment-difficult-decisions-and-difficult-truths.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/21/mazars-comment-difficult-decisions-and-difficult-truths",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths",
+      "parent_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Breakwave Advisors 2nd annual shipping market event\nBy George Lagarias\nThis isn't a weekly I was particularly eager to write. It requires telling truths, and truths are always uneasy.",
+      "keywords": [
+        "truths",
+        "always",
+        "annual",
+        "are",
+        "eager",
+        "event",
+        "george",
+        "isn"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths__s02_the_pivot",
+      "doc_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths",
+      "parent_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths__root",
+      "title": "The Pivot",
+      "section_path": [
+        "The Pivot"
+      ],
+      "section_path_text": "The Pivot",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "For one, it's bad news for our ‘pivoting' camp, a word that in the past few months has been grossly and infuriatingly overused. Not only is the Fed speeding up the rate of Quantitative Tightening, but it is also showing no signs that it is ready to change its aggressive tightening policy.",
+      "keywords": [
+        "bad",
+        "credit",
+        "accident",
+        "but",
+        "case",
+        "conditions",
+        "deteriorate",
+        "economy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 366,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths__s03_the_budget",
+      "doc_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths",
+      "parent_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths__root",
+      "title": "The Budget",
+      "section_path": [
+        "The Budget"
+      ],
+      "section_path_text": "The Budget",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Unfortunately, the Fed is not the only one viewing things parochially. Last week, pundits cheered Jeremy Hunt's new budget.",
+      "keywords": [
+        "government",
+        "very",
+        "after",
+        "bond",
+        "brexit",
+        "budget.",
+        "not",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 346,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths__s04_what_investors_and_managers_need_to_do",
+      "doc_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths",
+      "parent_id": "breakwave_insights_insights_2022-11-21_2022_11_21_mazars_comment_difficult_decisions_and_difficult_truths__root",
+      "title": "What investors and managers need to do",
+      "section_path": [
+        "What investors and managers need to do"
+      ],
+      "section_path_text": "What investors and managers need to do",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Our job number one is to acknowledge risks. We have unwaveringly done so and have been keen to share our concerns with clients.",
+      "keywords": [
+        "our",
+        "acknowledge",
+        "are",
+        "cash",
+        "managers",
+        "asset",
+        "can",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 318,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

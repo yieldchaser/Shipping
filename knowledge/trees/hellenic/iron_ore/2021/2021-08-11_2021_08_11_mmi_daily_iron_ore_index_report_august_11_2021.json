@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-08-11_2021_08_11_mmi_daily_iron_ore_index_report_august_11_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-08-11_2021_08_11_mmi_daily_iron_ore_index_report_august_11_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 11 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 11 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 11 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 11/08/2021\nAug 11th, 2021 CFR Qingdao, USD/dry tonne DCE iron ore futures market bounced up from the continuous slump in the past few weeks, tradersheld their quotations relatively firm and PBF was closed at 1155-1160yuan/mt in Shandong market, mixed with small ups and downs over yesterday. As the price falling of mainstream medium iron ore products accelerated recently, including PBF has higher cost performance for the moment. SMM's data showed the price spread between PBF and SSF has shrank to current 380yuan/mt from more than 450yuan/mt in this early July.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "products",
+    "steel",
+    "yuan/mt",
+    "iron",
+    "ore",
+    "mills",
+    "pbf",
+    "price",
+    "mainstream",
+    "medium"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 297,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-08-11_mmi-daily-iron-ore-index-report-august-11-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-11-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-08-11_2021_08_11_mmi_daily_iron_ore_index_report_august_11_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-08-11_2021_08_11_mmi_daily_iron_ore_index_report_august_11_2021",
+      "parent_id": "hellenic_iron_ore_2021-08-11_2021_08_11_mmi_daily_iron_ore_index_report_august_11_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 11/08/2021\nAug 11th, 2021 CFR Qingdao, USD/dry tonne DCE iron ore futures market bounced up from the continuous slump in the past few weeks, tradersheld their quotations relatively firm and PBF was closed at 1155-1160yuan/mt in Shandong market, mixed with small ups and downs over yesterday. As the price falling of mainstream medium iron ore products accelerated recently, including PBF has higher cost performance for the moment.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "products",
+        "steel",
+        "yuan/mt",
+        "iron",
+        "ore",
+        "mills"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 295,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

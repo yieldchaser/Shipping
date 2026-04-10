@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-22_2022_07_22_ndias_coal_production_and_thermal_coal_derived_electricity_g__root",
+  "doc_id": "breakwave_insights_insights_2022-07-22_2022_07_22_ndias_coal_production_and_thermal_coal_derived_electricity_g",
+  "parent_id": null,
+  "title": "Ndias Coal Production And Thermal Coal Derived Electricity Generation Both Remain Strong",
+  "section_path": [
+    "Ndias Coal Production And Thermal Coal Derived Electricity Generation Both Remain Strong"
+  ],
+  "section_path_text": "Ndias Coal Production And Thermal Coal Derived Electricity Generation Both Remain Strong",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nCoal India produced approximately 51.6 million tons of coal last month, which marks a month-on-month decline of 3.1 million tons (-6%) but a year-on-year increase of 11.6 million tons (29%). This 29% growth is just shy of the 30% growth seen in May which marked the largest year-on-year growth since September 2020. Also of note is that the first six months of this year have now seen Coal India's production grow year-on-year by 41.1 million tons (13%).",
+  "keywords": [
+    "india",
+    "coal",
+    "tons",
+    "million",
+    "year-on-year",
+    "months",
+    "now",
+    "electricity",
+    "growth",
+    "last",
+    "seen",
+    "stockpiles"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 442,
+  "source_path": "reports/breakwave/2022/2022-07-22_ndias-coal-production-and-thermal-coal-derived-electricity-g.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/22/ndias-coal-production-and-thermal-coal-derived-electricity-generation-both-remain-strong",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-22_2022_07_22_ndias_coal_production_and_thermal_coal_derived_electricity_g__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-22_2022_07_22_ndias_coal_production_and_thermal_coal_derived_electricity_g",
+      "parent_id": "breakwave_insights_insights_2022-07-22_2022_07_22_ndias_coal_production_and_thermal_coal_derived_electricity_g__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nCoal India produced approximately 51.6 million tons of coal last month, which marks a month-on-month decline of 3.1 million tons (-6%) but a year-on-year increase of 11.6 million tons (29%). This 29% growth is just shy of the 30% growth seen in May which marked the largest year-on-year growth since September 2020.",
+      "keywords": [
+        "india",
+        "coal",
+        "tons",
+        "million",
+        "year-on-year",
+        "months",
+        "now",
+        "electricity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 440,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

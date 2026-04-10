@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-12-15_2022_12_15_mmi_daily_iron_ore_index_report_december_15_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-12-15_2022_12_15_mmi_daily_iron_ore_index_report_december_15_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report December 15 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report December 15 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report December 15 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 15/12/2022\nDCE iron ore futures open lower and go higher. the main contract I2305 closed 830. an increase of 3.23% throughout the day.some traders were active to sell, but some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "increased",
+    "iron",
+    "ore",
+    "addition",
+    "dealt",
+    "demand",
+    "expected",
+    "inventory"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 333,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-12-15_mmi-daily-iron-ore-index-report-december-15-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-december-15-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-12-15_2022_12_15_mmi_daily_iron_ore_index_report_december_15_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-12-15_2022_12_15_mmi_daily_iron_ore_index_report_december_15_2022",
+      "parent_id": "hellenic_iron_ore_2022-12-15_2022_12_15_mmi_daily_iron_ore_index_report_december_15_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 15/12/2022\nDCE iron ore futures open lower and go higher. the main contract I2305 closed 830.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "increased",
+        "iron",
+        "ore",
+        "addition"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 331,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

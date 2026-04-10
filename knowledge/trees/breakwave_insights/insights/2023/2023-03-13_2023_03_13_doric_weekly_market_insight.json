@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-13_2023_03_13_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-03-13_2023_03_13_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"At the same time as Chinese Congress renewed its faith to Xi Jinping, dry bulk forward curves were demonstrating market's credence for a positive outlook for the months to come in the ever-challenging spot arena.\"\nBy Michalis Voutsinas\nReleasing the first major economic indicator since fully relaxing its zero-Covid policy, China reconfirmed this week what the dry bulk and container sectors were feeling during the first couple of trading months. Pointing to a slowdown in the recovery of the world's second largest economy, customs data emerged showing China's exports in the January-February period fell considerably from a year earlier. In tandem, imports also decreased, at an even faster rate, reflecting a decelerating global economy and weak domestic demand.",
+  "keywords": [
+    "container",
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "chinese",
+    "economy",
+    "million",
+    "tonnes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 815,
+  "source_path": "reports/breakwave/2023/2023-03-13_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/13/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-13_2023_03_13_doric_weekly_market_insight__s01_at_the_same_time_as_chinese_congress_renewed_its_faith_to_xi_jinping_dry_bulk_forward_curves_were_demonstrating_market_s_credence_for_a_positive_outlook_for_the_months_to_come_in_the_ever_challenging_spot_arena",
+      "doc_id": "breakwave_insights_insights_2023-03-13_2023_03_13_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-03-13_2023_03_13_doric_weekly_market_insight__root",
+      "title": "\"At the same time as Chinese Congress renewed its faith to Xi Jinping, dry bulk forward curves were demonstrating market's credence for a positive outlook for the months to come in the ever-challenging spot arena.\"",
+      "section_path": [
+        "\"At the same time as Chinese Congress renewed its faith to Xi Jinping, dry bulk forward curves were demonstrating market's credence for a positive outlook for the months to come in the ever-challenging spot arena.\""
+      ],
+      "section_path_text": "\"At the same time as Chinese Congress renewed its faith to Xi Jinping, dry bulk forward curves were demonstrating market's credence for a positive outlook for the months to come in the ever-challenging spot arena.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nReleasing the first major economic indicator since fully relaxing its zero-Covid policy, China reconfirmed this week what the dry bulk and container sectors were feeling during the first couple of trading months. Pointing to a slowdown in the recovery of the world's second largest economy, customs data emerged showing China's exports in the January-February period fell considerably from a year earlier.",
+      "keywords": [
+        "container",
+        "china",
+        "brazil",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 773,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

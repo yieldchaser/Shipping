@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-13_2023_08_13_doric_weekly_dry_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-08-13_2023_08_13_doric_weekly_dry_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Dry Market Insight",
+  "section_path": [
+    "Doric Weekly Dry Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Dry Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n'Summertime and the living ain't easy .. (for dry shipping)'\nBy Michalis Voutsinas\nWell into the third quarter of 2023 and the dry bulk market has yet to find the footing most of us had expected, or at least hoped. All eyes at the start were on China with it's post-covid opening meant to buoy the market back to health.",
+  "keywords": [
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "was",
+    "containers",
+    "bulkers",
+    "cargo",
+    "demand",
+    "global",
+    "had",
+    "inflation"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 591,
+  "source_path": "reports/breakwave/2023/2023-08-13_doric-weekly-dry-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/13/doric-weekly-dry-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-13_2023_08_13_doric_weekly_dry_market_insight__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-08-13_2023_08_13_doric_weekly_dry_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-08-13_2023_08_13_doric_weekly_dry_market_insight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "'Summertime and the living ain't easy .. (for dry shipping)'\nBy Michalis Voutsinas\nWell into the third quarter of 2023 and the dry bulk market has yet to find the footing most of us had expected, or at least hoped.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "was",
+        "containers",
+        "bulkers",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 589,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nThe past 24 hours have seen the releases of PMI data for the services sectors in the world's two largest economies. The gauges painted very different pictures of the state of affairs on the different sides of the Pacific. In the US, the purchasing managers' index remained in expansionary territory, but with a reading of 51.2, it fell well short of the market expectation of 54.5.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "pacific",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1224,
+  "source_path": "reports/breakwave/2023/2023-04-07_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/7/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The past 24 hours have seen the releases of PMI data for the services sectors in the world's two largest economies. The gauges painted very different pictures of the state of affairs on the different sides of the Pacific.",
+      "keywords": [
+        "china",
+        "pacific",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 681,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update__s03_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The Baltic Dry Index advanced by 3.5 per cent on Wednesday amid continued strength for the two largest vessel segments. The sub-index for the Capesizes gained 4.8 per cent as cargo order volumes improved on last week's subdued activities.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 299,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update__s04_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-07_2023_04_07_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Iron ore prices have come under pressure in the past three weeks. Since reaching 131 dollars per tonne in the middle of March, the steelmaking ingredient has been trending lower and is currently trading more than ten per cent below the recent high.",
+      "keywords": [
+        "china",
+        "europe",
+        "iron_ore",
+        "steel",
+        "middle",
+        "months.",
+        "recent",
+        "trending"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 215,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

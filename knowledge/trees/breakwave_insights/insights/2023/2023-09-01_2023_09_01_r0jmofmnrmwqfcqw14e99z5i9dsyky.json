@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-01_2023_09_01_r0jmofmnrmwqfcqw14e99z5i9dsyky__root",
+  "doc_id": "breakwave_insights_insights_2023-09-01_2023_09_01_r0jmofmnrmwqfcqw14e99z5i9dsyky",
+  "parent_id": null,
+  "title": "R0Jmofmnrmwqfcqw14E99Z5I9Dsyky",
+  "section_path": [
+    "R0Jmofmnrmwqfcqw14E99Z5I9Dsyky"
+  ],
+  "section_path_text": "R0Jmofmnrmwqfcqw14E99Z5I9Dsyky",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Is the growing importance of West Africa for Capesizes changing the seasonality of the Atlantic market and, thus, the Cape market as a whole? The best news for the Capesize market in 2023 has arguably been Brazil's iron ore exports finally clawing its way back to pre-Brumadinho-disaster levels and the continued growth in Guinea's bauxite exports. By Roar Adland\nBoth trades exhibit strong seasonality in volumes due to the countries' respective rainy seasons (Guinea: May to Oct; Brazil: Oct to Apr), with exports bottoming during the peak rains.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "atlantic",
+    "west_africa",
+    "iron_ore",
+    "bauxite",
+    "exports",
+    "seasonality",
+    "guinea",
+    "iron",
+    "ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 496,
+  "source_path": "reports/breakwave/2023/2023-09-01_r0jmofmnrmwqfcqw14e99z5i9dsyky.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/1/r0jmofmnrmwqfcqw14e99z5i9dsyky",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-01_2023_09_01_r0jmofmnrmwqfcqw14e99z5i9dsyky__s01_is_the_growing_importance_of_west_africa_for_capesizes_changing_the_seasonality_of_the_atlantic_market_and_thus_the_cape_market_as_a_whole",
+      "doc_id": "breakwave_insights_insights_2023-09-01_2023_09_01_r0jmofmnrmwqfcqw14e99z5i9dsyky",
+      "parent_id": "breakwave_insights_insights_2023-09-01_2023_09_01_r0jmofmnrmwqfcqw14e99z5i9dsyky__root",
+      "title": "Is the growing importance of West Africa for Capesizes changing the seasonality of the Atlantic market and, thus, the Cape market as a whole?",
+      "section_path": [
+        "Is the growing importance of West Africa for Capesizes changing the seasonality of the Atlantic market and, thus, the Cape market as a whole?"
+      ],
+      "section_path_text": "Is the growing importance of West Africa for Capesizes changing the seasonality of the Atlantic market and, thus, the Cape market as a whole?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The best news for the Capesize market in 2023 has arguably been Brazil's iron ore exports finally clawing its way back to pre-Brumadinho-disaster levels and the continued growth in Guinea's bauxite exports. By Roar Adland\nBoth trades exhibit strong seasonality in volumes due to the countries' respective rainy seasons (Guinea: May to Oct; Brazil: Oct to Apr), with exports bottoming during the peak rains.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "iron_ore",
+        "bauxite",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 466,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

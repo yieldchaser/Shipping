@@ -1,0 +1,226 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__root",
+  "doc_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22",
+  "parent_id": null,
+  "title": "Doric China Barometer Part 22",
+  "section_path": [
+    "Doric China Barometer Part 22"
+  ],
+  "section_path_text": "Doric China Barometer Part 22",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas and Helen Vlassi\n\nCRUDE OIL/NATURAL GAS\nChina brought in 43.14 million tonnes of crude oil in October, equivalent to 10.16 million barrels per day, or circa 14.0 percent up from a year earlier. October's reading rebounded to the highest level since May, marking its first annual growth in five months, as refiners embraced to replenish stocks amid soaring global crude prices. From January to October, crude imports totalled 413.53 million tonnes, down circa 2.7 percent from a year earlier.",
+  "keywords": [
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "gas",
+    "million",
+    "october",
+    "percent",
+    "tonnes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1149,
+  "source_path": "reports/breakwave/2022/2022-11-25_doric-china-barometer-part-22.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/25/doric-china-barometer-part-22",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22",
+      "parent_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas and Helen Vlassi",
+      "keywords": [
+        "helen",
+        "michalis",
+        "vlassi",
+        "voutsinas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__s02_crude_oil_natural_gas",
+      "doc_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22",
+      "parent_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__root",
+      "title": "CRUDE OIL/NATURAL GAS",
+      "section_path": [
+        "CRUDE OIL/NATURAL GAS"
+      ],
+      "section_path_text": "CRUDE OIL/NATURAL GAS",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "China brought in 43.14 million tonnes of crude oil in October, equivalent to 10.16 million barrels per day, or circa 14.0 percent up from a year earlier. October's reading rebounded to the highest level since May, marking its first annual growth in five months, as refiners embraced to replenish stocks amid soaring global crude prices.",
+      "keywords": [
+        "china",
+        "brazil",
+        "crude_oil",
+        "gas",
+        "million",
+        "october",
+        "tonnes",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__s03_iron_ore_october_2022",
+      "doc_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22",
+      "parent_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__root",
+      "title": "IRON ORE OCTOBER 2022",
+      "section_path": [
+        "IRON ORE OCTOBER 2022"
+      ],
+      "section_path_text": "IRON ORE OCTOBER 2022",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "China brought in 94.97 million tonnes of iron ore in October, down by circa 4.7 percent year-on-year. During the first ten months of 2022, China imported 917.0 million tonnes of iron ore, a dive of 1.7 percent from 935.0 million tonnes reported in the same period a year earlier.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "million",
+        "tonnes",
+        "iron",
+        "october",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 192,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__s04_coal",
+      "doc_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22",
+      "parent_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__root",
+      "title": "COAL",
+      "section_path": [
+        "COAL"
+      ],
+      "section_path_text": "COAL",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "China imported 29.18 million tonnes of coal in October, up 8.3 percent year-onyear. On a monthly basis, China's coal imports stood 7.7 percentage points higher.",
+      "keywords": [
+        "china",
+        "coal",
+        "million",
+        "percent",
+        "tonnes",
+        "circa",
+        "domestic",
+        "october"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 194,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__s05_grains",
+      "doc_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22",
+      "parent_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__root",
+      "title": "GRAINS",
+      "section_path": [
+        "GRAINS"
+      ],
+      "section_path_text": "GRAINS",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "China's soybean imports in October decreased by 19.0 percent from a year earlier to 4.14 million tonnes. China's October imports stood circa 46.4 percent lower than a reading of 7.72 million tonnes in the previous month, hitting the lowest level since 2014, amid high global prices and poor crush margins.",
+      "keywords": [
+        "china",
+        "grain",
+        "circa",
+        "imports",
+        "million",
+        "percent",
+        "october",
+        "tonnes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__s06_minors_exports",
+      "doc_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22",
+      "parent_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__root",
+      "title": "MINORS (EXPORTS)",
+      "section_path": [
+        "MINORS (EXPORTS)"
+      ],
+      "section_path_text": "MINORS (EXPORTS)",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "China fertilizer exports in October shrank to 2.93 million tonnes, or down 8.9 percent year-on-year. During the first ten months of 2022, China exported circa 19.8 million tonnes of fertilizers, down by circa 37.2 percent year-on-year.",
+      "keywords": [
+        "china",
+        "steel",
+        "million",
+        "percent",
+        "exports",
+        "tonnes",
+        "circa",
+        "down"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__s07_minors_imports",
+      "doc_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22",
+      "parent_id": "breakwave_insights_insights_2022-11-25_2022_11_25_doric_china_barometer_part_22__root",
+      "title": "MINORS (IMPORTS)",
+      "section_path": [
+        "MINORS (IMPORTS)"
+      ],
+      "section_path_text": "MINORS (IMPORTS)",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "China's steel imports during October fell by 31.7 percent year-on-year to 0.8 million tonnes. From January to October, Chinese steel imports stood 18.9 percent lower than the respective period a year earlier, or at 9.57 million tonnes.",
+      "keywords": [
+        "china",
+        "steel",
+        "october",
+        "imports",
+        "million",
+        "percent",
+        "timber",
+        "basis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

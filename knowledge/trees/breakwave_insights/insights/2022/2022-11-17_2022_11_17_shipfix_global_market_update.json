@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nDespite recent moves by the Chinese authorities to ease some of its Covid policies and provide support for the country's beleaguered property sector, rising infection rates put pressure on the Chinese demand outlook for many commodities. In addition, the latest development has also seen the Chinese currency weakening against the US dollar after gaining ground since the beginning of the month. Should the yuan continue to weaken against the US currency, it will yet again reduce the room for manoeuvre for the Chinese central bank in its quest to support the country's flagging growth.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1043,
+  "source_path": "reports/breakwave/2022/2022-11-17_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/17/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Despite recent moves by the Chinese authorities to ease some of its Covid policies and provide support for the country's beleaguered property sector, rising infection rates put pressure on the Chinese demand outlook for many commodities. In addition, the latest development has also seen the Chinese currency weakening against the US dollar after gaining ground since the beginning of the month.",
+      "keywords": [
+        "china",
+        "chinese",
+        "against",
+        "country",
+        "currency",
+        "demand",
+        "its",
+        "support"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 120,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Following Tuesday's marginal gains, the Brent crude oil futures returned to their recent downward trajectory. The contracts ended yesterday's trading at 92.86 dollars per barrel, following a 1.1 per cent decline for the day.",
+      "keywords": [
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 482,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The pattern that has dominated the dry bulk freight market in recent days remained in place on Wednesday as well, albeit to a lesser extent. The Capesizes continued to underperform their smaller siblings, with the Baltic Exchange's gauge for freight rates in the segment retreating by 2.8 per cent.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "gas",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-17_2022_11_17_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Rising expectations that the UN-monitored deal that has allowed Ukraine to recommence its seaborne exports of agricultural commodities will be extended weighed on prices yesterday. Today's confirmation that the agreement has been prolonged for another 120 days is likely to put additional pressure on prices.",
+      "keywords": [
+        "grain",
+        "deal",
+        "agreement",
+        "exports",
+        "its",
+        "recent",
+        "ukraine",
+        "un-monitored"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

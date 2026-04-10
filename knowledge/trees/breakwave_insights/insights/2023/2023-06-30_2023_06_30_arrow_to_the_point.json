@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-30_2023_06_30_arrow_to_the_point__root",
+  "doc_id": "breakwave_insights_insights_2023-06-30_2023_06_30_arrow_to_the_point",
+  "parent_id": null,
+  "title": "Arrow To The Point",
+  "section_path": [
+    "Arrow To The Point"
+  ],
+  "section_path_text": "Arrow To The Point",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Macro Fallout Echoes In The Spot Market\nOver the past few weeks, the souring economic outlook from China appears to have very quickly fed into the spot market in a way we would have not normally expected. The Hang Seng Property Index and the Bloomberg Industrial Metal Subindex have both lead the BDI recently, a hint that perhaps the BDI has been taking its cues from the China story. Over the past decade, the correlation between the Hang Seng Property Index and BDI has been around 0, however over the past 30 days, it is 0.82*.",
+  "keywords": [
+    "china",
+    "ffa",
+    "macro",
+    "sentiment",
+    "chartering",
+    "economic",
+    "data",
+    "recent",
+    "are",
+    "bdi",
+    "down",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 631,
+  "source_path": "reports/breakwave/2023/2023-06-30_arrow-to-the-point.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/30/arrow-to-the-point",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-30_2023_06_30_arrow_to_the_point__s01_macro_fallout_echoes_in_the_spot_market",
+      "doc_id": "breakwave_insights_insights_2023-06-30_2023_06_30_arrow_to_the_point",
+      "parent_id": "breakwave_insights_insights_2023-06-30_2023_06_30_arrow_to_the_point__root",
+      "title": "Macro Fallout Echoes In The Spot Market",
+      "section_path": [
+        "Macro Fallout Echoes In The Spot Market"
+      ],
+      "section_path_text": "Macro Fallout Echoes In The Spot Market",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Over the past few weeks, the souring economic outlook from China appears to have very quickly fed into the spot market in a way we would have not normally expected. The Hang Seng Property Index and the Bloomberg Industrial Metal Subindex have both lead the BDI recently, a hint that perhaps the BDI has been taking its cues from the China story.",
+      "keywords": [
+        "china",
+        "ffa",
+        "sentiment",
+        "chartering",
+        "economic",
+        "macro",
+        "data",
+        "recent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 622,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

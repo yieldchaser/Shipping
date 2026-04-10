@@ -1,0 +1,83 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-05_2023_04_05_odzn86c14jl5mxlgrju9q70dtly66k__root",
+  "doc_id": "breakwave_insights_insights_2023-04-05_2023_04_05_odzn86c14jl5mxlgrju9q70dtly66k",
+  "parent_id": null,
+  "title": "Odzn86C14Jl5Mxlgrju9Q70Dtly66K",
+  "section_path": [
+    "Odzn86C14Jl5Mxlgrju9Q70Dtly66K"
+  ],
+  "section_path_text": "Odzn86C14Jl5Mxlgrju9Q70Dtly66K",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA tank terminal is a facility that houses multiple bulk liquid storage tanks. Liquid storage tanks house all types of products, from petroleum and petroleum products, like crude oil, gasoline, diesel and jet fuel, biofuels, agricultural goods such as olive oil and molasses, chemicals, asphalt, and so much more. Tanks allow owners of the liquid products to store their products in a location as terminal operators work to help them arrange logistics operations to get the liquids to their destination.",
+  "keywords": [
+    "europe",
+    "singapore",
+    "crude_oil",
+    "products",
+    "gas",
+    "liquid",
+    "storage",
+    "oil",
+    "petroleum",
+    "tanks",
+    "terminal",
+    "agricultural"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 139,
+  "source_path": "reports/breakwave/2023/2023-04-05_odzn86c14jl5mxlgrju9q70dtly66k.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/5/odzn86c14jl5mxlgrju9q70dtly66k",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-05_2023_04_05_odzn86c14jl5mxlgrju9q70dtly66k__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-04-05_2023_04_05_odzn86c14jl5mxlgrju9q70dtly66k",
+      "parent_id": "breakwave_insights_insights_2023-04-05_2023_04_05_odzn86c14jl5mxlgrju9q70dtly66k__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A tank terminal is a facility that houses multiple bulk liquid storage tanks. Liquid storage tanks house all types of products, from petroleum and petroleum products, like crude oil, gasoline, diesel and jet fuel, biofuels, agricultural goods such as olive oil and molasses, chemicals, asphalt, and so much more.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "liquid",
+        "oil",
+        "petroleum",
+        "storage",
+        "tanks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-05_2023_04_05_odzn86c14jl5mxlgrju9q70dtly66k__s03_some_of_the_best_known",
+      "doc_id": "breakwave_insights_insights_2023-04-05_2023_04_05_odzn86c14jl5mxlgrju9q70dtly66k",
+      "parent_id": "breakwave_insights_insights_2023-04-05_2023_04_05_odzn86c14jl5mxlgrju9q70dtly66k__root",
+      "title": "Some of the best known:",
+      "section_path": [
+        "Some of the best known:"
+      ],
+      "section_path_text": "Some of the best known:",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "",
+      "keywords": [
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

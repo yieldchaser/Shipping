@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-02-16_2022_02_16_mmi_daily_iron_ore_index_report_february_16_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-02-16_2022_02_16_mmi_daily_iron_ore_index_report_february_16_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report February 16 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report February 16 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report February 16 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 16/02/2022\nDCE iron ore futures continued to drop today, an decrease of 1.10% throughout the day; the main contract closed 720. The spot quotationin the morning was steady, afternoon upward. Some steel mills tended to be wait-and-see.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "yuan/mt",
+    "iron",
+    "dealt",
+    "increased",
+    "port",
+    "main",
+    "pbf",
+    "shandong"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 285,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-02-16_mmi-daily-iron-ore-index-report-february-16-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-february-16-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-02-16_2022_02_16_mmi_daily_iron_ore_index_report_february_16_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-02-16_2022_02_16_mmi_daily_iron_ore_index_report_february_16_2022",
+      "parent_id": "hellenic_iron_ore_2022-02-16_2022_02_16_mmi_daily_iron_ore_index_report_february_16_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 16/02/2022\nDCE iron ore futures continued to drop today, an decrease of 1.10% throughout the day; the main contract closed 720. The spot quotationin the morning was steady, afternoon upward.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "yuan/mt",
+        "iron",
+        "dealt",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 283,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

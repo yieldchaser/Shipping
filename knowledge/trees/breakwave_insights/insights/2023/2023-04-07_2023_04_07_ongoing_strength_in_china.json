@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_ongoing_strength_in_china__root",
+  "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_ongoing_strength_in_china",
+  "parent_id": null,
+  "title": "Ongoing Strength In China",
+  "section_path": [
+    "Ongoing Strength In China"
+  ],
+  "section_path_text": "Ongoing Strength In China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nOften in our Weekly China Reports last year, we discussed Chinese efforts to end US dollar hegemony. Particularly notable to us last year was when Russian coal sales started to be settled in Chinese yuan even when China was not involved on the import or export side. We discussed this development in our July 4th Weekly China Report, and also discussed a few weeks later in our July 18th report how BHP that month completed its first yuan-based spot trade iron ore sale to Chinese buyers and opened its first a wholly-owned subsidiary Shanghai branch.",
+  "keywords": [
+    "lng",
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "steel",
+    "gas",
+    "its",
+    "chinese",
+    "continue",
+    "dollar",
+    "year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 382,
+  "source_path": "reports/breakwave/2023/2023-04-07_ongoing-strength-in-china.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/7/ongoing-strength-in-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_ongoing_strength_in_china__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_ongoing_strength_in_china",
+      "parent_id": "breakwave_insights_insights_2023-04-07_2023_04_07_ongoing_strength_in_china__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nOften in our Weekly China Reports last year, we discussed Chinese efforts to end US dollar hegemony. Particularly notable to us last year was when Russian coal sales started to be settled in Chinese yuan even when China was not involved on the import or export side.",
+      "keywords": [
+        "lng",
+        "china",
+        "brazil",
+        "iron_ore",
+        "coal",
+        "steel",
+        "gas",
+        "its"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 380,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

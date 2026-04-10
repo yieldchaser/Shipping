@@ -1,0 +1,86 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-15_2023_11_15_winter_is_coming__root",
+  "doc_id": "breakwave_insights_insights_2023-11-15_2023_11_15_winter_is_coming",
+  "parent_id": null,
+  "title": "Winter Is Coming",
+  "section_path": [
+    "Winter Is Coming"
+  ],
+  "section_path_text": "Winter Is Coming",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn the crude tanker market, we have witnessed a return of spectacular volatility, with spot earnings on several key Suezmax and Aframax trades in the Atlantic Basin briefly spiking close or in some cases even above $100,000/day on a non-scrubber, non eco basis recently. VLCCs, the tanker segment most vulnerable to the Middle East OPEC+ production cuts, have also seen a sizable uplift in earnings, albeit perhaps not as impressive as the one experienced by smaller segments. What has driven this spike and more importantly is this impressive volatility here to stay?",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "crude",
+    "exports",
+    "russian",
+    "opec",
+    "production"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 750,
+  "source_path": "reports/breakwave/2023/2023-11-15_winter-is-coming.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/15/winter-is-coming",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-15_2023_11_15_winter_is_coming__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-15_2023_11_15_winter_is_coming",
+      "parent_id": "breakwave_insights_insights_2023-11-15_2023_11_15_winter_is_coming__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the crude tanker market, we have witnessed a return of spectacular volatility, with spot earnings on several key Suezmax and Aframax trades in the Atlantic Basin briefly spiking close or in some cases even above $100,000/day on a non-scrubber, non eco basis recently. VLCCs, the tanker segment most vulnerable to the Middle East OPEC+ production cuts, have also seen a sizable uplift in earnings, albeit perhaps not as impressive as the one experienced by smaller segments.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 730,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-15_2023_11_15_winter_is_coming__s02_russian_crude_exports_in_the_west_kbd",
+      "doc_id": "breakwave_insights_insights_2023-11-15_2023_11_15_winter_is_coming",
+      "parent_id": "breakwave_insights_insights_2023-11-15_2023_11_15_winter_is_coming__root",
+      "title": "Russian Crude Exports in the West (kbd)",
+      "section_path": [
+        "Russian Crude Exports in the West (kbd)"
+      ],
+      "section_path_text": "Russian Crude Exports in the West (kbd)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "data",
+        "gibson",
+        "shipbrokers",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-01-20_2022_01_20_coal_indonesian_export_ban_yet_to_shift_seaborne_cargo_flows__root",
+  "doc_id": "breakwave_insights_insights_2022-01-20_2022_01_20_coal_indonesian_export_ban_yet_to_shift_seaborne_cargo_flows",
+  "parent_id": null,
+  "title": "Coal Indonesian Export Ban Yet To Shift Seaborne Cargo Flows",
+  "section_path": [
+    "Coal Indonesian Export Ban Yet To Shift Seaborne Cargo Flows"
+  ],
+  "section_path_text": "Coal Indonesian Export Ban Yet To Shift Seaborne Cargo Flows",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe year has started with a significant disruption of the global seaborne coal market, with the world's largest exporter effectively banning all shipments of the commodity to foreign destinations during January. The move by the Indonesian government followed increasing concerns that the low supplies at many domestic power plants could lead to widespread blackouts. It also highlights a rising tendency for Indonesia, under President Joko Widodo, to exert greater control over its natural resources and move the nation further up on the international value chain.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "australia",
+    "japan",
+    "coal",
+    "are",
+    "indonesian",
+    "per",
+    "export",
+    "year",
+    "ban"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1115,
+  "source_path": "reports/breakwave/2022/2022-01-20_coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/1/20/coal-indonesian-export-ban-yet-to-shift-seaborne-cargo-flows",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-01-20_2022_01_20_coal_indonesian_export_ban_yet_to_shift_seaborne_cargo_flows__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-01-20_2022_01_20_coal_indonesian_export_ban_yet_to_shift_seaborne_cargo_flows",
+      "parent_id": "breakwave_insights_insights_2022-01-20_2022_01_20_coal_indonesian_export_ban_yet_to_shift_seaborne_cargo_flows__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe year has started with a significant disruption of the global seaborne coal market, with the world's largest exporter effectively banning all shipments of the commodity to foreign destinations during January. The move by the Indonesian government followed increasing concerns that the low supplies at many domestic power plants could lead to widespread blackouts.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "australia",
+        "japan",
+        "coal",
+        "are",
+        "indonesian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1113,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

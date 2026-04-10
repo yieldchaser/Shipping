@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-30_2023_03_30_copper_gains_as_risk_appetite_improves__root",
+  "doc_id": "breakwave_insights_insights_2023-03-30_2023_03_30_copper_gains_as_risk_appetite_improves",
+  "parent_id": null,
+  "title": "Copper Gains As Risk Appetite Improves",
+  "section_path": [
+    "Copper Gains As Risk Appetite Improves"
+  ],
+  "section_path_text": "Copper Gains As Risk Appetite Improves",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nA further recovery in risk appetite lifted commodities, but gains were limited amid concerns of weaker demand. Copper inched higher amid a broader recovery in risk appetite. As fear for the banking sector fades, investors have begun dipping their toes back into commodities.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "demand.",
+    "amid",
+    "concerns",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 576,
+  "source_path": "reports/breakwave/2023/2023-03-30_copper-gains-as-risk-appetite-improves.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/30/copper-gains-as-risk-appetite-improves",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-30_2023_03_30_copper_gains_as_risk_appetite_improves__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-30_2023_03_30_copper_gains_as_risk_appetite_improves",
+      "parent_id": "breakwave_insights_insights_2023-03-30_2023_03_30_copper_gains_as_risk_appetite_improves__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nA further recovery in risk appetite lifted commodities, but gains were limited amid concerns of weaker demand. Copper inched higher amid a broader recovery in risk appetite.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 574,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

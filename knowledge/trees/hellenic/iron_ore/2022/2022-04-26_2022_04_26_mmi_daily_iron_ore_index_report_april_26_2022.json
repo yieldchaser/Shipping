@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-04-26_2022_04_26_mmi_daily_iron_ore_index_report_april_26_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-04-26_2022_04_26_mmi_daily_iron_ore_index_report_april_26_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report April 26 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report April 26 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report April 26 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 26/04/2022\nCFR Qingdao, USD/dry tonne DCE iron ore futures stop falling and rebounds，the main contract closed 809，an decrease of 2.53%throughout the day; the quotation in the morning was increased by 5 yuan/mt over yesterday. some traders were active to sell, steel mills purchased on demand. today's overall market transaction significantly improved.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "tons",
+    "yuan/mt",
+    "increased",
+    "period",
+    "yesterday.",
+    "dealt",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 464,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-04-26_mmi-daily-iron-ore-index-report-april-26-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-26-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-04-26_2022_04_26_mmi_daily_iron_ore_index_report_april_26_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-04-26_2022_04_26_mmi_daily_iron_ore_index_report_april_26_2022",
+      "parent_id": "hellenic_iron_ore_2022-04-26_2022_04_26_mmi_daily_iron_ore_index_report_april_26_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 26/04/2022\nCFR Qingdao, USD/dry tonne DCE iron ore futures stop falling and rebounds，the main contract closed 809，an decrease of 2.53%throughout the day; the quotation in the morning was increased by 5 yuan/mt over yesterday. some traders were active to sell, steel mills purchased on demand.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "tons",
+        "yuan/mt",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 462,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

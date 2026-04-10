@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week : Dry Bulk Grain Flows from Middle East\nIncrease in the percentage share of Supramax vessel size for October\nAs November starts, there is uncertainty about how dry bulk freight rates will perform in the future. Optimism in earlier days has faded due to recent weekly declines, and the market's strength in the final quarter of the year is now in question. On the supply side, there has been an increase in the number of ballasters for Capesize vessels, while in the Panamax category, there is still a decrease, indicating the possibility of a more robust rate environment.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "grain",
+    "number",
+    "vessel",
+    "vessels",
+    "below"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 938,
+  "source_path": "reports/breakwave/2023/2023-11-02_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/2/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_grain_flows_from_middle_east",
+      "doc_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week : Dry Bulk Grain Flows from Middle East",
+      "section_path": [
+        "Chart of the Week : Dry Bulk Grain Flows from Middle East"
+      ],
+      "section_path_text": "Chart of the Week : Dry Bulk Grain Flows from Middle East",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Increase in the percentage share of Supramax vessel size for October\nAs November starts, there is uncertainty about how dry bulk freight rates will perform in the future. Optimism in earlier days has faded due to recent weekly declines, and the market's strength in the final quarter of the year is now in question.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "grain",
+        "east",
+        "exports",
+        "increase",
+        "middle"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Weaker\nThe freight market momentum weakened at the beginning of November. Capesize Brazil to North China freight rates hit new lows compared to the peak two weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (#vessels) Mixed\nIn November, the Capesize segment experiences a significant increase in the number of ballast vessels, while the Panamax segment sees a steep downward trend. Capesize SE Africa: The number of ballasters rose to 100, 25 higher than the low of week 40, and 7 above the annual average.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "ballast",
+        "ballasters",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size Tonne Days Decreasing\nDemand growth exhibited a pronounced decline across all vessel size categories, with the Handysize category experiencing a more pronounced reduction than the other segments. Capesize: The declining trend has now reached its lowest growth rate since the end of week 39, and it appears that November will introduce further downward pressure.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "grain",
+        "growth",
+        "demand",
+        "its"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-02_2023_11_02_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports No of Vessels Steady\nThe level of ship congestion remained steady from the previous week but was still higher than levels four weeks ago. Capesize: The number of congested vessels rose to 120, exceeding week 40 levels by over 20 vessels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "congested",
+        "number",
+        "ships"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

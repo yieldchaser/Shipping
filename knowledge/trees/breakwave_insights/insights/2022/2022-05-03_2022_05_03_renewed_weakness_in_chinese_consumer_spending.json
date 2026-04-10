@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-03_2022_05_03_renewed_weakness_in_chinese_consumer_spending__root",
+  "doc_id": "breakwave_insights_insights_2022-05-03_2022_05_03_renewed_weakness_in_chinese_consumer_spending",
+  "parent_id": null,
+  "title": "Renewed Weakness In Chinese Consumer Spending",
+  "section_path": [
+    "Renewed Weakness In Chinese Consumer Spending"
+  ],
+  "section_path_text": "Renewed Weakness In Chinese Consumer Spending",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nThe ongoing surge of new daily coronavirus cases in China, which began last month, has been leading to renewed weakness in the nation's consumer spending. March saw consumer spending fall on a year-on-year basis by 3.5%, which has marked the first year-on-year contraction seen since July 2020. Another contraction will very likely be reported once April data is released later next month.",
+  "keywords": [
+    "china",
+    "sales",
+    "year-on-year",
+    "contraction",
+    "basis",
+    "appliance",
+    "march",
+    "marked",
+    "during",
+    "last",
+    "billion",
+    "consumer"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 341,
+  "source_path": "reports/breakwave/2022/2022-05-03_renewed-weakness-in-chinese-consumer-spending.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/3/renewed-weakness-in-chinese-consumer-spending",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-03_2022_05_03_renewed_weakness_in_chinese_consumer_spending__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-03_2022_05_03_renewed_weakness_in_chinese_consumer_spending",
+      "parent_id": "breakwave_insights_insights_2022-05-03_2022_05_03_renewed_weakness_in_chinese_consumer_spending__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nThe ongoing surge of new daily coronavirus cases in China, which began last month, has been leading to renewed weakness in the nation's consumer spending. March saw consumer spending fall on a year-on-year basis by 3.5%, which has marked the first year-on-year contraction seen since July 2020.",
+      "keywords": [
+        "china",
+        "sales",
+        "year-on-year",
+        "contraction",
+        "basis",
+        "appliance",
+        "march",
+        "marked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 339,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-23_2022_11_23_ekejsqcl0jjqj2qrwm57x5yfyhzykz__root",
+  "doc_id": "breakwave_insights_insights_2022-11-23_2022_11_23_ekejsqcl0jjqj2qrwm57x5yfyhzykz",
+  "parent_id": null,
+  "title": "Ekejsqcl0Jjqj2Qrwm57X5Yfyhzykz",
+  "section_path": [
+    "Ekejsqcl0Jjqj2Qrwm57X5Yfyhzykz"
+  ],
+  "section_path_text": "Ekejsqcl0Jjqj2Qrwm57X5Yfyhzykz",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nA risk on tone across markets boosted sentiment across the commodity complex. This was further supported by ongoing supply side issues. Crude oil struggled to keep its head above water in early trading amid an uncertain economic backdrop.",
+  "keywords": [
+    "lng",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "japan",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "gas",
+    "after",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 690,
+  "source_path": "reports/breakwave/2022/2022-11-23_ekejsqcl0jjqj2qrwm57x5yfyhzykz.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/23/ekejsqcl0jjqj2qrwm57x5yfyhzykz",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-23_2022_11_23_ekejsqcl0jjqj2qrwm57x5yfyhzykz__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-23_2022_11_23_ekejsqcl0jjqj2qrwm57x5yfyhzykz",
+      "parent_id": "breakwave_insights_insights_2022-11-23_2022_11_23_ekejsqcl0jjqj2qrwm57x5yfyhzykz__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nA risk on tone across markets boosted sentiment across the commodity complex. This was further supported by ongoing supply side issues.",
+      "keywords": [
+        "lng",
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "japan",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 688,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

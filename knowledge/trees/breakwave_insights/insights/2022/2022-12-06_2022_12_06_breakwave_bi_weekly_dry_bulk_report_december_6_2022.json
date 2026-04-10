@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-06_2022_12_06_breakwave_bi_weekly_dry_bulk_report_december_6_2022__root",
+  "doc_id": "breakwave_insights_insights_2022-12-06_2022_12_06_breakwave_bi_weekly_dry_bulk_report_december_6_2022",
+  "parent_id": null,
+  "title": "Breakwave Bi Weekly Dry Bulk Report December 6 2022",
+  "section_path": [
+    "Breakwave Bi Weekly Dry Bulk Report December 6 2022"
+  ],
+  "section_path_text": "Breakwave Bi Weekly Dry Bulk Report December 6 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA quiet December for dry bulk freight? - Spot dry bulk rates have stabilized in the~13,000 range for all asset classes in an uneventful two-week period despite significant news flow on the macro front. Brazilian iron ore cargoes have only trickled into the market and thus there has been no urgency from charterers to secure tonnage while the Pacific market has been relatively steady on the back of flattish export volumes.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "steel",
+    "any",
+    "back",
+    "thus",
+    "tightness",
+    "economic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 609,
+  "source_path": "reports/breakwave/2022/2022-12-06_breakwave-bi-weekly-dry-bulk-report-december-6-2022.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/6/breakwave-bi-weekly-dry-bulk-report-december-6-2022",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-06_2022_12_06_breakwave_bi_weekly_dry_bulk_report_december_6_2022__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-06_2022_12_06_breakwave_bi_weekly_dry_bulk_report_december_6_2022",
+      "parent_id": "breakwave_insights_insights_2022-12-06_2022_12_06_breakwave_bi_weekly_dry_bulk_report_december_6_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A quiet December for dry bulk freight? - Spot dry bulk rates have stabilized in the~13,000 range for all asset classes in an uneventful two-week period despite significant news flow on the macro front.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "iron_ore",
+        "steel",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 607,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe freight market sentiment sustained the firmness of the last days with revival seen in the Capesize and Handysize segment, and Panamax recorded a gradual upward trend. There are still concerns about the iron ore outlook as iron ore prices plunged on Monday as COVID-19 restrictions prompted traders to be cautious and fuelled uncertainty over global demand. Prices for iron ore cargoes with a 63.5% iron content for delivery into Tianjin tumbled to an over two-month low of around $135 /t, while Chinese iron ore imports recorded a decreasing trend.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "iron_ore",
+    "coal",
+    "grain",
+    "vessels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1063,
+  "source_path": "reports/breakwave/2022/2022-05-12_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/12/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The freight market sentiment sustained the firmness of the last days with revival seen in the Capesize and Handysize segment, and Panamax recorded a gradual upward trend. There are still concerns about the iron ore outlook as iron ore prices plunged on Monday as COVID-19 restrictions prompted traders to be cautious and fuelled uncertainty over global demand.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "china",
+        "india",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 344,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_firmer",
+      "doc_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Firmer",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Firmer"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Firmer",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nThe revival continues with a significant upturn of freight rates in the Capesize segment, whereas there is a sustained steadiness in the Supramax. Capesize Brazil-to-North China freight rates increased to $31/t, $5/t more than the ending of Week 17.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__s04_number_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__root",
+      "title": "Number of Vessels - Increasing",
+      "section_path": [
+        "Number of Vessels - Increasing"
+      ],
+      "section_path_text": "Number of Vessels - Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ballasters increased sharply in the Panamax and Handysize segment for the second week of May, while in the Capesize, levels remain below the one-year average since the ending of Week 9. Capesize SE Africa: The number of vessels sailing in ballast decreased further to 61 vessels, 10 vessels less than the ending of Week 17 with a 25% decrease from the last peak of Week 11.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "number",
+        "ballast",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__s06_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__root",
+      "title": "Decreasing",
+      "section_path": [
+        "Decreasing"
+      ],
+      "section_path_text": "Decreasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The overall trend of demand ton-days sustained the decreasing trend for the last four weeks. Capesize demand ton-days: The revival seems to hold but with a softer pace than last week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "last",
+        "seems"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__s09_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-05-12_2022_05_12_signal_dry_bulk_weekly_report__root",
+      "title": "Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Dry bulk ships in congestion seemed to have sustained a softer pace in May since the last spike of Week 17. Capesize: The number of ships in congestion sustained levels of less than 130 over the last two weeks.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "ships",
+        "congestion",
+        "number",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 157,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

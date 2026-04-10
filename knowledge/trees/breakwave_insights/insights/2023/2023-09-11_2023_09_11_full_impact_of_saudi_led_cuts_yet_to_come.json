@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-11_2023_09_11_full_impact_of_saudi_led_cuts_yet_to_come__root",
+  "doc_id": "breakwave_insights_insights_2023-09-11_2023_09_11_full_impact_of_saudi_led_cuts_yet_to_come",
+  "parent_id": null,
+  "title": "Full Impact Of Saudi Led Cuts Yet To Come",
+  "section_path": [
+    "Full Impact Of Saudi Led Cuts Yet To Come"
+  ],
+  "section_path_text": "Full Impact Of Saudi Led Cuts Yet To Come",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Saudi crude exports have been cut drastically in August, and a continuation over coming months threatens to tighten the market substantially, even without noticeable help from other OPEC+ countries. By David Wech\nProbably not coincidentally timed with one of the industry's biggest gatherings at APPEC in Singapore, Saudi Arabia and Russia announced that they would continue there latest voluntary cuts of 1mbd (in supply) and 300kbd (in exports) not only in October, but throughout the end of the year. This does not mean, however, that the concrete figures cannot change on the monthly basis.",
+  "keywords": [
+    "china",
+    "singapore",
+    "coal",
+    "crude_oil",
+    "products",
+    "saudi",
+    "exports",
+    "are",
+    "crude",
+    "cuts",
+    "kbd",
+    "opec"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 781,
+  "source_path": "reports/breakwave/2023/2023-09-11_full-impact-of-saudi-led-cuts-yet-to-come.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/11/full-impact-of-saudi-led-cuts-yet-to-come",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-11_2023_09_11_full_impact_of_saudi_led_cuts_yet_to_come__s01_saudi_crude_exports_have_been_cut_drastically_in_august_and_a_continuation_over_coming_months_threatens_to_tighten_the_market_substantially_even_without_noticeable_help_from_other_opec_countries",
+      "doc_id": "breakwave_insights_insights_2023-09-11_2023_09_11_full_impact_of_saudi_led_cuts_yet_to_come",
+      "parent_id": "breakwave_insights_insights_2023-09-11_2023_09_11_full_impact_of_saudi_led_cuts_yet_to_come__root",
+      "title": "Saudi crude exports have been cut drastically in August, and a continuation over coming months threatens to tighten the market substantially, even without noticeable help from other OPEC+ countries.",
+      "section_path": [
+        "Saudi crude exports have been cut drastically in August, and a continuation over coming months threatens to tighten the market substantially, even without noticeable help from other OPEC+ countries."
+      ],
+      "section_path_text": "Saudi crude exports have been cut drastically in August, and a continuation over coming months threatens to tighten the market substantially, even without noticeable help from other OPEC+ countries.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By David Wech\nProbably not coincidentally timed with one of the industry's biggest gatherings at APPEC in Singapore, Saudi Arabia and Russia announced that they would continue there latest voluntary cuts of 1mbd (in supply) and 300kbd (in exports) not only in October, but throughout the end of the year. This does not mean, however, that the concrete figures cannot change on the monthly basis.",
+      "keywords": [
+        "china",
+        "singapore",
+        "coal",
+        "crude_oil",
+        "products",
+        "saudi",
+        "exports",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 747,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

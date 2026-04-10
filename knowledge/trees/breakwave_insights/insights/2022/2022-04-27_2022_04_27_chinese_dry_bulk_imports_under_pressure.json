@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-04-27_2022_04_27_chinese_dry_bulk_imports_under_pressure__root",
+  "doc_id": "breakwave_insights_insights_2022-04-27_2022_04_27_chinese_dry_bulk_imports_under_pressure",
+  "parent_id": null,
+  "title": "Chinese Dry Bulk Imports Under Pressure",
+  "section_path": [
+    "Chinese Dry Bulk Imports Under Pressure"
+  ],
+  "section_path_text": "Chinese Dry Bulk Imports Under Pressure",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe continued lockdowns and other Covid-related restrictions in China have put renewed focus on the long-term outlook for the world's second-largest economy. While the growth rate for the first quarter of the year surprised on the upside, the better-than-expected data highlighted some potential concerns for the coming months. Much of the strong economic performance was centred on the first two months of the quarter, which benefited from considerable base-effects in comparison with last year.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "india",
+    "japan",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1272,
+  "source_path": "reports/breakwave/2022/2022-04-27_chinese-dry-bulk-imports-under-pressure.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/4/27/chinese-dry-bulk-imports-under-pressure",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-04-27_2022_04_27_chinese_dry_bulk_imports_under_pressure__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-04-27_2022_04_27_chinese_dry_bulk_imports_under_pressure",
+      "parent_id": "breakwave_insights_insights_2022-04-27_2022_04_27_chinese_dry_bulk_imports_under_pressure__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe continued lockdowns and other Covid-related restrictions in China have put renewed focus on the long-term outlook for the world's second-largest economy. While the growth rate for the first quarter of the year surprised on the upside, the better-than-expected data highlighted some potential concerns for the coming months.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "india",
+        "japan",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1270,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

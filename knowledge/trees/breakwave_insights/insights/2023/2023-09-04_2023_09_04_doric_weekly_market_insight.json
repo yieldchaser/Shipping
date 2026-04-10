@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-04_2023_09_04_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-09-04_2023_09_04_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"Interest rates on new mortgages in China are being slashed by about 40 percentage points after the central bank set a lower minimum premium to its benchmark loan prime rate.\"\nBy Michalis Voutsinas\nHaving spent a good part of the thirty-fifth trading week in search of direction, Baltic Dry Index concluded on Friday at 1084 points, without any significant change week-on-week. By decomposing the leading index, Capesizes took a dive whilst the rest of the pack reported needful gains. Being the only segment in the red, Capesizes were trading somewhere between a stimulus anticipation and the actual needs of the spot market, balancing today at just 8,561 daily, considerably lower week-on-week.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "china",
+    "japan",
+    "manufacturing",
+    "august",
+    "july.",
+    "month",
+    "percent",
+    "pmi",
+    "activity",
+    "contraction"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1266,
+  "source_path": "reports/breakwave/2023/2023-09-04_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/4/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-04_2023_09_04_doric_weekly_market_insight__s01_interest_rates_on_new_mortgages_in_china_are_being_slashed_by_about_40_percentage_points_after_the_central_bank_set_a_lower_minimum_premium_to_its_benchmark_loan_prime_rate",
+      "doc_id": "breakwave_insights_insights_2023-09-04_2023_09_04_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-09-04_2023_09_04_doric_weekly_market_insight__root",
+      "title": "\"Interest rates on new mortgages in China are being slashed by about 40 percentage points after the central bank set a lower minimum premium to its benchmark loan prime rate.\"",
+      "section_path": [
+        "\"Interest rates on new mortgages in China are being slashed by about 40 percentage points after the central bank set a lower minimum premium to its benchmark loan prime rate.\""
+      ],
+      "section_path_text": "\"Interest rates on new mortgages in China are being slashed by about 40 percentage points after the central bank set a lower minimum premium to its benchmark loan prime rate.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nHaving spent a good part of the thirty-fifth trading week in search of direction, Baltic Dry Index concluded on Friday at 1084 points, without any significant change week-on-week. By decomposing the leading index, Capesizes took a dive whilst the rest of the pack reported needful gains.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "japan",
+        "manufacturing",
+        "august",
+        "july.",
+        "month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1233,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

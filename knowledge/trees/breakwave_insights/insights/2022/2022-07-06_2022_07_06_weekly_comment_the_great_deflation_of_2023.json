@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-06_2022_07_06_weekly_comment_the_great_deflation_of_2023__root",
+  "doc_id": "breakwave_insights_insights_2022-07-06_2022_07_06_weekly_comment_the_great_deflation_of_2023",
+  "parent_id": null,
+  "title": "Weekly Comment The Great Deflation Of 2023",
+  "section_path": [
+    "Weekly Comment The Great Deflation Of 2023"
+  ],
+  "section_path_text": "Weekly Comment The Great Deflation Of 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nLast week featured more volatility, with the world's leading indices anchoring at bear-market levels in anticipation of new sharp rate hikes by the Fed. Currently, investors anticipate three 0.25% rate hikes late in the month and another two in September, towards a grand total of seven until the end of the year. Yet, we feel that markets might once again be missing the forest for the trees.",
+  "keywords": [
+    "china",
+    "brazil",
+    "meg",
+    "crude_oil",
+    "inflation",
+    "are",
+    "effect",
+    "should",
+    "markets",
+    "prices",
+    "come",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1030,
+  "source_path": "reports/breakwave/2022/2022-07-06_weekly-comment-the-great-deflation-of-2023.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/6/weekly-comment-the-great-deflation-of-2023",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-06_2022_07_06_weekly_comment_the_great_deflation_of_2023__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-06_2022_07_06_weekly_comment_the_great_deflation_of_2023",
+      "parent_id": "breakwave_insights_insights_2022-07-06_2022_07_06_weekly_comment_the_great_deflation_of_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nLast week featured more volatility, with the world's leading indices anchoring at bear-market levels in anticipation of new sharp rate hikes by the Fed. Currently, investors anticipate three 0.25% rate hikes late in the month and another two in September, towards a grand total of seven until the end of the year.",
+      "keywords": [
+        "china",
+        "brazil",
+        "meg",
+        "crude_oil",
+        "inflation",
+        "are",
+        "effect",
+        "should"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1028,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

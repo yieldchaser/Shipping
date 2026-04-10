@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-05-16_2022_05_16_mmi_daily_iron_ore_index_report_may_16_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-05-16_2022_05_16_mmi_daily_iron_ore_index_report_may_16_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report May 16 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report May 16 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report May 16 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 16/05/2022\nMay 16th, 2022 CFR Qingdao, USD/dry tonne DCE iron ore futures rose largely by 3.85% today，the main contract closed 834.5. thequotation in the morning was increased by 5-10 yuan/mt from last Friday. Some traders adopt separate quotations, Some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "expected",
+    "friday.",
+    "increased",
+    "last",
+    "ore",
+    "dealt",
+    "iron",
+    "main"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 298,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-05-16_mmi-daily-iron-ore-index-report-may-16-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-16-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-05-16_2022_05_16_mmi_daily_iron_ore_index_report_may_16_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-05-16_2022_05_16_mmi_daily_iron_ore_index_report_may_16_2022",
+      "parent_id": "hellenic_iron_ore_2022-05-16_2022_05_16_mmi_daily_iron_ore_index_report_may_16_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 16/05/2022\nMay 16th, 2022 CFR Qingdao, USD/dry tonne DCE iron ore futures rose largely by 3.85% today，the main contract closed 834.5. thequotation in the morning was increased by 5-10 yuan/mt from last Friday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "expected",
+        "friday.",
+        "increased",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 296,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

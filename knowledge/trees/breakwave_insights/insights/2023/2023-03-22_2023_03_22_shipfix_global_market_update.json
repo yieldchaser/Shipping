@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nYesterday, the US currency dropped to its lowest level since the middle of February amid a 0.4 per cent decline for the dollar index. An expectation among inventors that the Federal Reserve will adopt a more cautious approach for its fight against high inflation amid the ongoing turmoil in the global banking sector weighed on the US currency. While the travails of the financial industry will add to the uncertainty over global growth rates and, by extension, the demand outlook for commodities, the weaker dollar is likely to offset some of the negative impacts.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "europe",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1272,
+  "source_path": "reports/breakwave/2023/2023-03-22_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/22/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Yesterday, the US currency dropped to its lowest level since the middle of February amid a 0.4 per cent decline for the dollar index. An expectation among inventors that the Federal Reserve will adopt a more cautious approach for its fight against high inflation amid the ongoing turmoil in the global banking sector weighed on the US currency.",
+      "keywords": [
+        "crude_oil",
+        "amid",
+        "dollar",
+        "global",
+        "its",
+        "add",
+        "adopt",
+        "against"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The crude oil futures ended Monday's session in the black and reversed some of the past week's losses, as the improving demand outlook for China outweighed the adverse effects of the turmoil in the global banking sector. The Brent May futures recorded a daily gain of 0.8 per cent and settled at 73.54 dollars per barrel.",
+      "keywords": [
+        "lng",
+        "china",
+        "atlantic",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 576,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The new week began with the Baltic Dry Index returning to positive territory, but in the context of recent daily moves, the gain was modest at 0.5 per cent. A negative performance for the Panamaxes contributed to the limited gains for the headline index, while the freight rate gauges for the other vessel segments advanced on Monday.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 352,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-22_2023_03_22_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "In the past five weeks, cargo order volumes for agricultural commodities loading on the east coast of South America have come off from the highs recorded during January. However, given the forward-looking nature of the cargo order data, it reflects the advancing harvest season in the Southern Hemisphere.",
+      "keywords": [
+        "china",
+        "brazil",
+        "east",
+        "order",
+        "cargo",
+        "far",
+        "average",
+        "data"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 205,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

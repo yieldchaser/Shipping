@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_tanker_charter_2021-08-18_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021__root",
+  "doc_id": "hellenic_tanker_charter_2021-08-18_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, August 18 2021",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, August 18 2021"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, August 18 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSome very short term aframax fixtures reported in the crude market although rates remain flatas there is still a way to go until this sector sees some form of recovery. Very little to report on the clean side in terms of fixture activity this week, with market players hoping for some activity towards the end of the month as the summer holiday season winds down. Oil prices have eased slightly this week as further lockdowns in Asia weaken demand sentiment.",
+  "keywords": [
+    "aframax",
+    "crude_oil",
+    "activity",
+    "very",
+    "although",
+    "asia",
+    "clean",
+    "crude",
+    "demand",
+    "down.",
+    "eased",
+    "end"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 120,
+  "source_path": "reports/hellenic/tanker_charter/2021/2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-august-18-2021",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2021-08-18_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021__s01_main",
+      "doc_id": "hellenic_tanker_charter_2021-08-18_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021",
+      "parent_id": "hellenic_tanker_charter_2021-08-18_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Some very short term aframax fixtures reported in the crude market although rates remain flatas there is still a way to go until this sector sees some form of recovery. Very little to report on the clean side in terms of fixture activity this week, with market players hoping for some activity towards the end of the month as the summer holiday season winds down.",
+      "keywords": [
+        "aframax",
+        "crude_oil",
+        "activity",
+        "very",
+        "although",
+        "asia",
+        "clean",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

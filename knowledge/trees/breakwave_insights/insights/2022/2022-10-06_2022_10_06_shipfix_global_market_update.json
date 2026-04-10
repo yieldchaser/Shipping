@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nThe US economy has seen a few weaker-than-expected economic data releases so far this week. Following Monday's weak ISM Manufacturing PMI, yesterday saw the number of job openings during August failing to meet expectations by quite a margin and reaching the lowest levels since June last year. Still, the number of new jobs remains above what was observed prior to the pandemic.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1075,
+  "source_path": "reports/breakwave/2022/2022-10-06_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/6/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The US economy has seen a few weaker-than-expected economic data releases so far this week. Following Monday's weak ISM Manufacturing PMI, yesterday saw the number of job openings during August failing to meet expectations by quite a margin and reaching the lowest levels since June last year.",
+      "keywords": [
+        "could",
+        "data",
+        "economic",
+        "job",
+        "manufacturing",
+        "number",
+        "pmi",
+        "releases"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil prices have rallied this week, ahead of today's OPEC+ meeting. Traders are expecting that the cartel will impose production cuts to support the markets amid falling prices.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 498,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Most tanker and dry bulk freight rates only registered minor changes yesterday. However, the Baltic Exchange's indicators for the rates for the Capesizes and the LNG carriers did stand out from the crowd with extensive gains.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-06_2022_10_06_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "European thermal coal prices have been declining since early September, as natural gas prices on the continent have retreated amid easing demand and an improving supply outlook for the coming winter. Still, despite falling by more than twenty per cent, prices remain well above the levels observed before the Russian invasion of Ukraine amid continued robust demand from European buyers.",
+      "keywords": [
+        "europe",
+        "coal",
+        "gas",
+        "prices",
+        "european",
+        "amid",
+        "are",
+        "coming"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

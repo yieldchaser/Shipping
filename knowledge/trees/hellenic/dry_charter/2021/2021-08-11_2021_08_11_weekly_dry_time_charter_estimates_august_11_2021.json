@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-08-11_2021_08_11_weekly_dry_time_charter_estimates_august_11_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-08-11_2021_08_11_weekly_dry_time_charter_estimates_august_11_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, August 11 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, August 11 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, August 11 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAnother stable week for the capesize period supported by short-term sentiment in the paper market and plenty of demand in the Pacific. The kamsarmax/panamax period rates moved up this week and despite many players being out of the market due to the summer season, there have been some short-term fixtures reported in the panamax sector. The average rate for one-year in the pacific moved up this week to $26,000/pdpr.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "pacific",
+    "period",
+    "being",
+    "despite",
+    "moved",
+    "sentiment",
+    "short-term",
+    "stable",
+    "summer",
+    "another"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 149,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-08-11_weekly-dry-time-charter-estimates-august-11-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-august-11-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-08-11_2021_08_11_weekly_dry_time_charter_estimates_august_11_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-08-11_2021_08_11_weekly_dry_time_charter_estimates_august_11_2021",
+      "parent_id": "hellenic_dry_charter_2021-08-11_2021_08_11_weekly_dry_time_charter_estimates_august_11_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Another stable week for the capesize period supported by short-term sentiment in the paper market and plenty of demand in the Pacific. The kamsarmax/panamax period rates moved up this week and despite many players being out of the market due to the summer season, there have been some short-term fixtures reported in the panamax sector.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "pacific",
+        "period",
+        "being",
+        "despite",
+        "moved",
+        "sentiment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

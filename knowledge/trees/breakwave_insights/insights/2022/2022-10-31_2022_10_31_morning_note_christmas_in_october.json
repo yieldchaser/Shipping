@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-31_2022_10_31_morning_note_christmas_in_october__root",
+  "doc_id": "breakwave_insights_insights_2022-10-31_2022_10_31_morning_note_christmas_in_october",
+  "parent_id": null,
+  "title": "Morning Note Christmas In October",
+  "section_path": [
+    "Morning Note Christmas In October"
+  ],
+  "section_path_text": "Morning Note Christmas In October",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nI am one of those people who get silently and ever so slightly irritated with Christmas decorations in October. I mean, I get the festive season and all… but it's October. We are barely out of Halloween.",
+  "keywords": [
+    "brazil",
+    "europe",
+    "coal",
+    "not",
+    "but",
+    "bond",
+    "may",
+    "was",
+    "are",
+    "decisions",
+    "markets",
+    "october"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1140,
+  "source_path": "reports/breakwave/2022/2022-10-31_morning-note-christmas-in-october.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/31/morning-note-christmas-in-october",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-31_2022_10_31_morning_note_christmas_in_october__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-31_2022_10_31_morning_note_christmas_in_october",
+      "parent_id": "breakwave_insights_insights_2022-10-31_2022_10_31_morning_note_christmas_in_october__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nI am one of those people who get silently and ever so slightly irritated with Christmas decorations in October. I mean, I get the festive season and all… but it's October.",
+      "keywords": [
+        "brazil",
+        "europe",
+        "coal",
+        "not",
+        "but",
+        "bond",
+        "may",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1138,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

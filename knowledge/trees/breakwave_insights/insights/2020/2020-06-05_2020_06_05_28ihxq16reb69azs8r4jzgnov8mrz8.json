@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-05_2020_06_05_28ihxq16reb69azs8r4jzgnov8mrz8__root",
+  "doc_id": "breakwave_insights_insights_2020-06-05_2020_06_05_28ihxq16reb69azs8r4jzgnov8mrz8",
+  "parent_id": null,
+  "title": "28Ihxq16Reb69Azs8R4Jzgnov8Mrz8",
+  "section_path": [
+    "28Ihxq16Reb69Azs8R4Jzgnov8Mrz8"
+  ],
+  "section_path_text": "28Ihxq16Reb69Azs8R4Jzgnov8Mrz8",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nLast week, three more Very Large Ore Carriers headed for scrapping, that is a combined ~850,000 dwt that has now permanently removed from the active fleet. Stellar Samba, 1994, 291,000 dwt\nGuofeng Enterprise, 1993, 261,000 dwt\nStellar Iris, 1995, 288,000 dwt\nObviously a positive development for the dry bulk market, but one should remember the very large newbuilding program for this year. Fleet growth should be positive this year, although delays in deliveries and Vale's commitment to stop using older VLOCs might make it a close-to-call year in terms of fleet growth.",
+  "keywords": [
+    "brazil",
+    "dwt",
+    "fleet",
+    "although",
+    "development",
+    "large",
+    "positive",
+    "should",
+    "stellar",
+    "very",
+    "year",
+    "year."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 207,
+  "source_path": "reports/breakwave/2020/2020-06-05_28ihxq16reb69azs8r4jzgnov8mrz8.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/5/28ihxq16reb69azs8r4jzgnov8mrz8",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-05_2020_06_05_28ihxq16reb69azs8r4jzgnov8mrz8__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-05_2020_06_05_28ihxq16reb69azs8r4jzgnov8mrz8",
+      "parent_id": "breakwave_insights_insights_2020-06-05_2020_06_05_28ihxq16reb69azs8r4jzgnov8mrz8__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last week, three more Very Large Ore Carriers headed for scrapping, that is a combined ~850,000 dwt that has now permanently removed from the active fleet. Stellar Samba, 1994, 291,000 dwt\nGuofeng Enterprise, 1993, 261,000 dwt\nStellar Iris, 1995, 288,000 dwt\nObviously a positive development for the dry bulk market, but one should remember the very large newbuilding program for this year.",
+      "keywords": [
+        "brazil",
+        "dwt",
+        "fleet",
+        "although",
+        "development",
+        "large",
+        "positive",
+        "should"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 205,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

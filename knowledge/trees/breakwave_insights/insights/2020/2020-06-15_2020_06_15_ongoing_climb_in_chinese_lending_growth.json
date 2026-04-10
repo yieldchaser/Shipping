@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-15_2020_06_15_ongoing_climb_in_chinese_lending_growth__root",
+  "doc_id": "breakwave_insights_insights_2020-06-15_2020_06_15_ongoing_climb_in_chinese_lending_growth",
+  "parent_id": null,
+  "title": "Ongoing Climb In Chinese Lending Growth",
+  "section_path": [
+    "Ongoing Climb In Chinese Lending Growth"
+  ],
+  "section_path_text": "Ongoing Climb In Chinese Lending Growth",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nChinese banks issued 1.48 trillion yuan in new loans in May, which marks a month-on-month decline of 220 billion yuan (-13%) but a year-on-year increase of 300 billion yuan (25%). The first five months of this year have seen lending grow year-on-year by 28%. This marks a significant shift from last year, as lending last year grew year-on-year by only 4%.",
+  "keywords": [
+    "china",
+    "growth",
+    "marks",
+    "lending",
+    "may",
+    "year",
+    "year-on-year",
+    "yuan",
+    "billion",
+    "chinese",
+    "increase",
+    "last"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 183,
+  "source_path": "reports/breakwave/2020/2020-06-15_ongoing-climb-in-chinese-lending-growth.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/15/ongoing-climb-in-chinese-lending-growth",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-15_2020_06_15_ongoing_climb_in_chinese_lending_growth__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-15_2020_06_15_ongoing_climb_in_chinese_lending_growth",
+      "parent_id": "breakwave_insights_insights_2020-06-15_2020_06_15_ongoing_climb_in_chinese_lending_growth__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Chinese banks issued 1.48 trillion yuan in new loans in May, which marks a month-on-month decline of 220 billion yuan (-13%) but a year-on-year increase of 300 billion yuan (25%). The first five months of this year have seen lending grow year-on-year by 28%.",
+      "keywords": [
+        "china",
+        "growth",
+        "marks",
+        "lending",
+        "may",
+        "year",
+        "year-on-year",
+        "yuan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

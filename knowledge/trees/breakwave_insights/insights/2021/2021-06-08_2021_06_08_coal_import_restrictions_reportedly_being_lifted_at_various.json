@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-06-08_2021_06_08_coal_import_restrictions_reportedly_being_lifted_at_various__root",
+  "doc_id": "breakwave_insights_insights_2021-06-08_2021_06_08_coal_import_restrictions_reportedly_being_lifted_at_various",
+  "parent_id": null,
+  "title": "Coal Import Restrictions Reportedly Being Lifted At Various Chinese Provinces",
+  "section_path": [
+    "Coal Import Restrictions Reportedly Being Lifted At Various Chinese Provinces"
+  ],
+  "section_path_text": "Coal Import Restrictions Reportedly Being Lifted At Various Chinese Provinces",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in a special client update yesterday, two new coal mine accidents and deaths occurred in China over the weekend. While extremely tragic, accidents and deaths are continuing to ensure the prioritization of safety, inspections, and restrictions over coal production growth. This remains helpful for the dry bulk market and coal import market as China's coal-derived electricity generation remains very likely to continue to far outpace domestic coal production.",
+  "keywords": [
+    "china",
+    "coal",
+    "accidents",
+    "companies",
+    "remains",
+    "are",
+    "electricity",
+    "not",
+    "notice",
+    "reportedly",
+    "safety",
+    "all"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 325,
+  "source_path": "reports/breakwave/2021/2021-06-08_coal-import-restrictions-reportedly-being-lifted-at-various.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/6/8/coal-import-restrictions-reportedly-being-lifted-at-various-chinese-provinces",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-06-08_2021_06_08_coal_import_restrictions_reportedly_being_lifted_at_various__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-06-08_2021_06_08_coal_import_restrictions_reportedly_being_lifted_at_various",
+      "parent_id": "breakwave_insights_insights_2021-06-08_2021_06_08_coal_import_restrictions_reportedly_being_lifted_at_various__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in a special client update yesterday, two new coal mine accidents and deaths occurred in China over the weekend. While extremely tragic, accidents and deaths are continuing to ensure the prioritization of safety, inspections, and restrictions over coal production growth.",
+      "keywords": [
+        "china",
+        "coal",
+        "accidents",
+        "companies",
+        "remains",
+        "are",
+        "electricity",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 323,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

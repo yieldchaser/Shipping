@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly__root",
+  "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly",
+  "parent_id": null,
+  "title": "Vortexa Freight Weekly",
+  "section_path": [
+    "Vortexa Freight Weekly"
+  ],
+  "section_path_text": "Vortexa Freight Weekly",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis week, we look at how sustainable the recent rally in VLCC rates towards China is, and examine the drivers behind declining Pacific MR freight rates. In the West, Aframax rates have begun to cool, and freight fundamentals may not be there to catch them. By Dylan Simpson\n\nANALYSIS / EAST OF SUEZ / DIRTY\nVLCC utilisation by voyage status\nVLCC freight rates performed a mini-rally, with a 33% and a 12% w-o-w increase on the Middle East-to-China (TD3C) and US Gulf-to-China (TD22) respectively.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "pacific",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "demand",
+    "not",
+    "towards",
+    "utilisation"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 509,
+  "source_path": "reports/breakwave/2023/2023-03-16_vortexa-freight-weekly.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/16/vortexa-freight-weekly",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, we look at how sustainable the recent rally in VLCC rates towards China is, and examine the drivers behind declining Pacific MR freight rates. In the West, Aframax rates have begun to cool, and freight fundamentals may not be there to catch them.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "pacific",
+        "begun",
+        "behind",
+        "catch",
+        "cool"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 56,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly__s02_analysis_east_of_suez_dirty",
+      "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly__root",
+      "title": "ANALYSIS / EAST OF SUEZ / DIRTY",
+      "section_path": [
+        "ANALYSIS / EAST OF SUEZ / DIRTY"
+      ],
+      "section_path_text": "ANALYSIS / EAST OF SUEZ / DIRTY",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "VLCC utilisation by voyage status\nVLCC freight rates performed a mini-rally, with a 33% and a 12% w-o-w increase on the Middle East-to-China (TD3C) and US Gulf-to-China (TD22) respectively. While a flurry of fixtures from both regions was observed, this increase in rates might not be sustained.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "us_gulf",
+        "crude_oil",
+        "demand",
+        "not",
+        "fixtures",
+        "following"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly__s03_analysis_west_of_suez_dirty",
+      "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-03-16_2023_03_16_vortexa_freight_weekly__root",
+      "title": "ANALYSIS / WEST OF SUEZ / DIRTY",
+      "section_path": [
+        "ANALYSIS / WEST OF SUEZ / DIRTY"
+      ],
+      "section_path_text": "ANALYSIS / WEST OF SUEZ / DIRTY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Aframaxes hesitate as European crude demand falters\nAframax utilisation towards Europe vs. availability in the US Gulf (RHS)\nAframax freight rates from the US Gulf-to-Europe (TD25) have slumped this month after picking up over 50% in February.",
+      "keywords": [
+        "aframax",
+        "europe",
+        "us_gulf",
+        "products",
+        "demand",
+        "out",
+        "towards",
+        "availability"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

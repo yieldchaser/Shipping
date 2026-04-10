@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-10-19_2021_10_19_chinese_economy_the_warning_lights_are_flashing__root",
+  "doc_id": "breakwave_insights_insights_2021-10-19_2021_10_19_chinese_economy_the_warning_lights_are_flashing",
+  "parent_id": null,
+  "title": "Chinese Economy The Warning Lights Are Flashing",
+  "section_path": [
+    "Chinese Economy The Warning Lights Are Flashing"
+  ],
+  "section_path_text": "Chinese Economy The Warning Lights Are Flashing",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe latest release of gross domestic product (GDP) data from the Chinese National Bureau of Statistics made for sobering reading. While the 4.9 per cent year-on-year growth during the third quarter would be impressive for most countries, it must be considered meagre in the context of the Chinese economy. In addition, the latest reading failed to meet the 5.0 to 5.2 per cent consensus expectations published by different news outlets.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "per",
+    "cent",
+    "growth",
+    "chinese",
+    "month",
+    "year",
+    "during",
+    "september",
+    "last"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 969,
+  "source_path": "reports/breakwave/2021/2021-10-19_chinese-economy-the-warning-lights-are-flashing.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/10/19/chinese-economy-the-warning-lights-are-flashing",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-10-19_2021_10_19_chinese_economy_the_warning_lights_are_flashing__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-10-19_2021_10_19_chinese_economy_the_warning_lights_are_flashing",
+      "parent_id": "breakwave_insights_insights_2021-10-19_2021_10_19_chinese_economy_the_warning_lights_are_flashing__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe latest release of gross domestic product (GDP) data from the Chinese National Bureau of Statistics made for sobering reading. While the 4.9 per cent year-on-year growth during the third quarter would be impressive for most countries, it must be considered meagre in the context of the Chinese economy.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "per",
+        "cent",
+        "growth",
+        "chinese",
+        "month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 967,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

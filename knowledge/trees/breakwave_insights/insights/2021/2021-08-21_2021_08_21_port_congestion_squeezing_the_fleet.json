@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet__root",
+  "doc_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet",
+  "parent_id": null,
+  "title": "Port Congestion Squeezing The Fleet",
+  "section_path": [
+    "Port Congestion Squeezing The Fleet"
+  ],
+  "section_path_text": "Port Congestion Squeezing The Fleet",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nick Ristic\nA surge in the number of ships waiting outside ports in China is tightening effective fleet supply and helping to push rates to record levels. We look at the drivers behind this and how freight is being affected. Another China story\nAt the global level, queues of bulk carriers at ports and anchorages hit a peak of almost 142m dwt over the weekend, the highest level we have on record and about 15% higher YoY.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "india",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "ships",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1226,
+  "source_path": "reports/breakwave/2021/2021-08-21_port-congestion-squeezing-the-fleet.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/8/21/port-congestion-squeezing-the-fleet",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet",
+      "parent_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nick Ristic\nA surge in the number of ships waiting outside ports in China is tightening effective fleet supply and helping to push rates to record levels. We look at the drivers behind this and how freight is being affected.",
+      "keywords": [
+        "china",
+        "affected.",
+        "behind",
+        "being",
+        "drivers",
+        "effective",
+        "fleet",
+        "helping"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet__s02_another_china_story",
+      "doc_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet",
+      "parent_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet__root",
+      "title": "Another China story",
+      "section_path": [
+        "Another China story"
+      ],
+      "section_path_text": "Another China story",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "At the global level, queues of bulk carriers at ports and anchorages hit a peak of almost 142m dwt over the weekend, the highest level we have on record and about 15% higher YoY. However, drilling into this data by region, elevated congestion in China appears to be the driving force behind this trend.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "china",
+        "india",
+        "coal",
+        "congestion",
+        "ports",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 548,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet__s03_grain_storage_still_an_issue",
+      "doc_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet",
+      "parent_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet__root",
+      "title": "Grain storage still an issue",
+      "section_path": [
+        "Grain storage still an issue"
+      ],
+      "section_path_text": "Grain storage still an issue",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "For the Panamaxes specifically, another key driver of congestion has been a lack of grain storage capacity in China. The country's binge on foreign grain supplies over the last few months has translated to a spike in the number of laden vessels arriving, but terminals' infrastructure has not been able to keep up, and ships are facing lengthy stays outside ports before being able to discharge.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "grain",
+        "are",
+        "imports",
+        "ships",
+        "tonnes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 372,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet__s04_the_market",
+      "doc_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet",
+      "parent_id": "breakwave_insights_insights_2021-08-21_2021_08_21_port_congestion_squeezing_the_fleet__root",
+      "title": "The market",
+      "section_path": [
+        "The market"
+      ],
+      "section_path_text": "The market",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "With the carrying capacity of the fleet being trimmed, the market is clearly receiving support. After underperforming relative to the smaller ships, average Capesize rates are now approaching the $50,000 per day mark (not seen since June 2010), while near-term freight futures have rocketed by about 47% in the space of a month, implying further rises in freight.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "iron_ore",
+        "grain",
+        "crude_oil",
+        "ships",
+        "capacity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

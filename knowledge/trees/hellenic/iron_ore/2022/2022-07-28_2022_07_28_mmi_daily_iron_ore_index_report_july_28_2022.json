@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-07-28_2022_07_28_mmi_daily_iron_ore_index_report_july_28_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-07-28_2022_07_28_mmi_daily_iron_ore_index_report_july_28_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report July 28 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report July 28 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report July 28 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 28/07/2022\nDCE iron ore was was shocked and keep upward all the day.The main contract closed at 793.5,increased of 7.16%. Traders are activelymotivated to ship, Speculative demand increases. Steel mills are mainly on the sidelines, and market turnover continues to pick up.PBF at Shandong port dealt 772-780yuan/mt;increase 25-50 yuan/mt than yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "demand",
+    "increase",
+    "mills",
+    "are",
+    "increased",
+    "main",
+    "month"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 342,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-07-28_mmi-daily-iron-ore-index-report-july-28-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-28-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-07-28_2022_07_28_mmi_daily_iron_ore_index_report_july_28_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-07-28_2022_07_28_mmi_daily_iron_ore_index_report_july_28_2022",
+      "parent_id": "hellenic_iron_ore_2022-07-28_2022_07_28_mmi_daily_iron_ore_index_report_july_28_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 28/07/2022\nDCE iron ore was was shocked and keep upward all the day.The main contract closed at 793.5,increased of 7.16%. Traders are activelymotivated to ship, Speculative demand increases.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "demand",
+        "increase",
+        "mills"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 340,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

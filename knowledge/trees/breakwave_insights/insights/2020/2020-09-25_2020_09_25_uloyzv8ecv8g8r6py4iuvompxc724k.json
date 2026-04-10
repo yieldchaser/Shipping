@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-09-25_2020_09_25_uloyzv8ecv8g8r6py4iuvompxc724k__root",
+  "doc_id": "breakwave_insights_insights_2020-09-25_2020_09_25_uloyzv8ecv8g8r6py4iuvompxc724k",
+  "parent_id": null,
+  "title": "Uloyzv8Ecv8G8R6Py4Iuvompxc724K",
+  "section_path": [
+    "Uloyzv8Ecv8G8R6Py4Iuvompxc724K"
+  ],
+  "section_path_text": "Uloyzv8Ecv8G8R6Py4Iuvompxc724K",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nick Ristic\nLow orderbooks\n2020 has been a big year for supply growth so far. While the pandemic has generated some degree of slippage, certain sectors have seen heavy additions. The dry bulk fleet as a while has grown by almost 25m dwt, an increase of nearly 3% since the start of the year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "grain",
+    "steel",
+    "gas",
+    "dwt",
+    "fleet",
+    "seen",
+    "orderbook"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1169,
+  "source_path": "reports/breakwave/2020/2020-09-25_uloyzv8ecv8g8r6py4iuvompxc724k.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/9/25/uloyzv8ecv8g8r6py4iuvompxc724k",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-09-25_2020_09_25_uloyzv8ecv8g8r6py4iuvompxc724k__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-09-25_2020_09_25_uloyzv8ecv8g8r6py4iuvompxc724k",
+      "parent_id": "breakwave_insights_insights_2020-09-25_2020_09_25_uloyzv8ecv8g8r6py4iuvompxc724k__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nick Ristic\nLow orderbooks\n2020 has been a big year for supply growth so far. While the pandemic has generated some degree of slippage, certain sectors have seen heavy additions.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "grain",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1167,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

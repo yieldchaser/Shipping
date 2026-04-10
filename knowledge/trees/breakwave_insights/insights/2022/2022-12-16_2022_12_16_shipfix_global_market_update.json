@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nUS inflation in November was lower than expected by the market, with the annual rate retreating to 7.1 per cent from 7.7 per cent in October. The latest reading also failed to match the consensus expectation of 7.3 per cent. The softer inflation data led to a weakening of the US dollar, as the Federal Reserve is likely to be able to slow down the pace of interest rate hikes as a result of it.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1205,
+  "source_path": "reports/breakwave/2022/2022-12-16_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/16/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "US inflation in November was lower than expected by the market, with the annual rate retreating to 7.1 per cent from 7.7 per cent in October. The latest reading also failed to match the consensus expectation of 7.3 per cent.",
+      "keywords": [
+        "per",
+        "cent",
+        "dollar",
+        "inflation",
+        "interest",
+        "able",
+        "annual",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "A weaker dollar and an improving demand outlook in the wake of the weaker-than-expected US inflation data contributed to crude oil prices extending Monday's gains yesterday. The Brent futures gained 3.4 per cent during yesterday's trading session and settled at 80.68 dollars per tonne.",
+      "keywords": [
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 461,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Ahead of the release of US inflation data, dry bulk freight rates remained under pressure, with most of the Baltic Exchange's indices in the red yesterday. The sub-index for the Capesizes was the day's weakest performer amid a loss of 1.1 per cent.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 335,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-12-16_2022_12_16_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The wheat futures trading in Chicago have declined by more than forty per cent since their peak in May and are currently near the lowest levels since October 2021. The Russian invasion of Ukraine initially fuelled fears that global supplies would be insufficient, with prices gaining substantially as a result.",
+      "keywords": [
+        "china",
+        "grain",
+        "russian",
+        "wheat",
+        "chinese",
+        "since",
+        "considerable",
+        "economy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

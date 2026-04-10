@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-07-10_2021_07_10_breakwave_talks_to_rightship_about_their_carbon_accounting_w__root",
+  "doc_id": "breakwave_insights_insights_2021-07-10_2021_07_10_breakwave_talks_to_rightship_about_their_carbon_accounting_w",
+  "parent_id": null,
+  "title": "Breakwave Talks To Rightship About Their Carbon Accounting White Paper A Sustainable Road Map",
+  "section_path": [
+    "Breakwave Talks To Rightship About Their Carbon Accounting White Paper A Sustainable Road Map"
+  ],
+  "section_path_text": "Breakwave Talks To Rightship About Their Carbon Accounting White Paper A Sustainable Road Map",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs we continue to focus on a feasible transition to a zero-carbon maritime economy, Breakwave Advisors spoke with RightShip to learn about their Carbon Accounting product and recent research that underpins their objectives\nBy Thanos Sofios\nThere is much industry discussion taking place regarding the feasibility of meeting IMO 2030 and 2050 emissions reduction targets. Leading maritime risk and due diligence firm RightShip has been looking closely at the tools required for the industry to meet IMO emissions reductions targets. It recently completed research into the potential impact of Carbon Accounting.",
+  "keywords": [
+    "australia",
+    "gas",
+    "rightship",
+    "emissions",
+    "paper",
+    "white",
+    "accounting",
+    "can",
+    "carbon",
+    "company",
+    "customers",
+    "data"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 620,
+  "source_path": "reports/breakwave/2021/2021-07-10_breakwave-talks-to-rightship-about-their-carbon-accounting-w.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/7/10/breakwave-talks-to-rightship-about-their-carbon-accounting-white-paper-a-sustainable-road-map",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-07-10_2021_07_10_breakwave_talks_to_rightship_about_their_carbon_accounting_w__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-07-10_2021_07_10_breakwave_talks_to_rightship_about_their_carbon_accounting_w",
+      "parent_id": "breakwave_insights_insights_2021-07-10_2021_07_10_breakwave_talks_to_rightship_about_their_carbon_accounting_w__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we continue to focus on a feasible transition to a zero-carbon maritime economy, Breakwave Advisors spoke with RightShip to learn about their Carbon Accounting product and recent research that underpins their objectives\nBy Thanos Sofios\nThere is much industry discussion taking place regarding the feasibility of meeting IMO 2030 and 2050 emissions reduction targets. Leading maritime risk and due diligence firm RightShip has been looking closely at the tools required for the industry to meet IMO emissions reductions targets.",
+      "keywords": [
+        "australia",
+        "gas",
+        "rightship",
+        "emissions",
+        "paper",
+        "white",
+        "accounting",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 618,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-07-21_2020_07_21_vales_results_positive_for_dry_bulk_with_a_caveat__root",
+  "doc_id": "breakwave_insights_insights_2020-07-21_2020_07_21_vales_results_positive_for_dry_bulk_with_a_caveat",
+  "parent_id": null,
+  "title": "Vales Results Positive For Dry Bulk With A Caveat",
+  "section_path": [
+    "Vales Results Positive For Dry Bulk With A Caveat"
+  ],
+  "section_path_text": "Vales Results Positive For Dry Bulk With A Caveat",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nLast night, Vale provided their second quarter production results as well as their guidance for the rest of the year. Although their production numbers for Q2 fell short of expectations, especially when it comes to sales, the company reaffirmed their annual production guidance, which points to a strong output for the second part of the year, something that should help dry bulk rates in general and Capesize spot rates more specifically. For the second quarter, Vale's iron ore production was 67.6 million tons, lower than our 70mt expectation and also below the consensus of about 69mt.",
+  "keywords": [
+    "capesize",
+    "brazil",
+    "west_africa",
+    "iron_ore",
+    "guidance",
+    "production",
+    "vale",
+    "second",
+    "half",
+    "year",
+    "last",
+    "sales"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 607,
+  "source_path": "reports/breakwave/2020/2020-07-21_vales-results-positive-for-dry-bulk-with-a-caveat.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/7/21/vales-results-positive-for-dry-bulk-with-a-caveat",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-07-21_2020_07_21_vales_results_positive_for_dry_bulk_with_a_caveat__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-07-21_2020_07_21_vales_results_positive_for_dry_bulk_with_a_caveat",
+      "parent_id": "breakwave_insights_insights_2020-07-21_2020_07_21_vales_results_positive_for_dry_bulk_with_a_caveat__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Last night, Vale provided their second quarter production results as well as their guidance for the rest of the year. Although their production numbers for Q2 fell short of expectations, especially when it comes to sales, the company reaffirmed their annual production guidance, which points to a strong output for the second part of the year, something that should help dry bulk rates in general and Capesize spot rates more specifically.",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "west_africa",
+        "iron_ore",
+        "guidance",
+        "production",
+        "vale",
+        "second"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 605,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-08-04_2021_08_04_mmi_daily_iron_ore_index_report_august_04_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-08-04_2021_08_04_mmi_daily_iron_ore_index_report_august_04_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 04 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 04 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 04 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 04/08/2021\nThe physical port stock prices mixed with ups and downs as DCE iron ore futures market vibrated narrowly. Total transactions fell off as some steelmills have finished their weekly purchasing missions early this morning. PBF was closed at 1260-1265yuan/mt in Shandong and Tangshan markets.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "products",
+    "steel",
+    "mills",
+    "iron",
+    "lump",
+    "ore",
+    "prices",
+    "production",
+    "purchasing",
+    "say"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 195,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-08-04_mmi-daily-iron-ore-index-report-august-04-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-04-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-08-04_2021_08_04_mmi_daily_iron_ore_index_report_august_04_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-08-04_2021_08_04_mmi_daily_iron_ore_index_report_august_04_2021",
+      "parent_id": "hellenic_iron_ore_2021-08-04_2021_08_04_mmi_daily_iron_ore_index_report_august_04_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 04/08/2021\nThe physical port stock prices mixed with ups and downs as DCE iron ore futures market vibrated narrowly. Total transactions fell off as some steelmills have finished their weekly purchasing missions early this morning.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "products",
+        "steel",
+        "mills",
+        "iron",
+        "lump",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

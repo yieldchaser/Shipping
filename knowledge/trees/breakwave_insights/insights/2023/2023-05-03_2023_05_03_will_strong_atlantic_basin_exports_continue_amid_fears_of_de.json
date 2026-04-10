@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-03_2023_05_03_will_strong_atlantic_basin_exports_continue_amid_fears_of_de__root",
+  "doc_id": "breakwave_insights_insights_2023-05-03_2023_05_03_will_strong_atlantic_basin_exports_continue_amid_fears_of_de",
+  "parent_id": null,
+  "title": "Will Strong Atlantic Basin Exports Continue Amid Fears Of Demand Slowdown",
+  "section_path": [
+    "Will Strong Atlantic Basin Exports Continue Amid Fears Of Demand Slowdown"
+  ],
+  "section_path_text": "Will Strong Atlantic Basin Exports Continue Amid Fears Of Demand Slowdown",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Atlantic basin exports of crude and products are showing signs\n\n\nof a slowdown after two exceptionally strong months\nBy Rohit Rathod\nAtlantic basin exports of oil mainly driven by the US and Russia have remained strong, and the star of the show for these players remains crude. Seaborne crude exports from these countries show a m-o-m growth in April, when compared to other products including diesel which make up for the overall decline from both regions. The question that remains to be answered is: will these levels of crude exports be sustained going forward?",
+  "keywords": [
+    "china",
+    "atlantic",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "exports",
+    "crude",
+    "are",
+    "oil",
+    "russia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 779,
+  "source_path": "reports/breakwave/2023/2023-05-03_will-strong-atlantic-basin-exports-continue-amid-fears-of-de.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/3/will-strong-atlantic-basin-exports-continue-amid-fears-of-demand-slowdown",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-03_2023_05_03_will_strong_atlantic_basin_exports_continue_amid_fears_of_de__s02_of_a_slowdown_after_two_exceptionally_strong_months",
+      "doc_id": "breakwave_insights_insights_2023-05-03_2023_05_03_will_strong_atlantic_basin_exports_continue_amid_fears_of_de",
+      "parent_id": "breakwave_insights_insights_2023-05-03_2023_05_03_will_strong_atlantic_basin_exports_continue_amid_fears_of_de__root",
+      "title": "of a slowdown after two exceptionally strong months",
+      "section_path": [
+        "of a slowdown after two exceptionally strong months"
+      ],
+      "section_path_text": "of a slowdown after two exceptionally strong months",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "By Rohit Rathod\nAtlantic basin exports of oil mainly driven by the US and Russia have remained strong, and the star of the show for these players remains crude. Seaborne crude exports from these countries show a m-o-m growth in April, when compared to other products including diesel which make up for the overall decline from both regions.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 759,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

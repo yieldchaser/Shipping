@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-22_2020_06_22_atlantic_strengthens_as_open_ships_remain_scarce__root",
+  "doc_id": "breakwave_insights_insights_2020-06-22_2020_06_22_atlantic_strengthens_as_open_ships_remain_scarce",
+  "parent_id": null,
+  "title": "Atlantic Strengthens As Open Ships Remain Scarce",
+  "section_path": [
+    "Atlantic Strengthens As Open Ships Remain Scarce"
+  ],
+  "section_path_text": "Atlantic Strengthens As Open Ships Remain Scarce",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAnother day of tight availability for the Capesize segment, with ships open to conclude voyages in the Atlantic basin difficult to find. Capesize futures reacted early in the morning, as it was evident that rates are not softening materially for now. As a result, the near dated contracts rallied back to last week's highs, before the spot index, which came out almost flat, but seemed undermarked given the concluded and rumored fixtures.",
+  "keywords": [
+    "capesize",
+    "atlantic",
+    "are",
+    "ships",
+    "all",
+    "another",
+    "basin",
+    "conclude",
+    "day",
+    "last",
+    "main",
+    "now"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 266,
+  "source_path": "reports/breakwave/2020/2020-06-22_atlantic-strengthens-as-open-ships-remain-scarce.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/22/atlantic-strengthens-as-open-ships-remain-scarce",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-22_2020_06_22_atlantic_strengthens_as_open_ships_remain_scarce__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-22_2020_06_22_atlantic_strengthens_as_open_ships_remain_scarce",
+      "parent_id": "breakwave_insights_insights_2020-06-22_2020_06_22_atlantic_strengthens_as_open_ships_remain_scarce__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Another day of tight availability for the Capesize segment, with ships open to conclude voyages in the Atlantic basin difficult to find. Capesize futures reacted early in the morning, as it was evident that rates are not softening materially for now.",
+      "keywords": [
+        "capesize",
+        "atlantic",
+        "are",
+        "ships",
+        "all",
+        "another",
+        "basin",
+        "conclude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 264,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

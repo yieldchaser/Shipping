@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-09-03_2021_09_03_coal_indias_seaborne_imports_poised_to_increase__root",
+  "doc_id": "breakwave_insights_insights_2021-09-03_2021_09_03_coal_indias_seaborne_imports_poised_to_increase",
+  "parent_id": null,
+  "title": "Coal Indias Seaborne Imports Poised To Increase",
+  "section_path": [
+    "Coal Indias Seaborne Imports Poised To Increase"
+  ],
+  "section_path_text": "Coal Indias Seaborne Imports Poised To Increase",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAt the same time as the dark clouds are gathering above the horizon for Chinese manufacturing and steel production, India is facing rapidly depleting stockpiles of coal. An industrial recovery, following the easing of restrictions in the wake of falling Covid infections, has fueled a surge in demand for electricity. Coal-fired power production has been widely employed to satisfy the growth in demand.",
+  "keywords": [
+    "china",
+    "australia",
+    "india",
+    "coal",
+    "steel",
+    "indian",
+    "year",
+    "per",
+    "cent",
+    "during",
+    "power",
+    "australian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 898,
+  "source_path": "reports/breakwave/2021/2021-09-03_coal-indias-seaborne-imports-poised-to-increase.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/9/3/coal-indias-seaborne-imports-poised-to-increase",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-09-03_2021_09_03_coal_indias_seaborne_imports_poised_to_increase__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-09-03_2021_09_03_coal_indias_seaborne_imports_poised_to_increase",
+      "parent_id": "breakwave_insights_insights_2021-09-03_2021_09_03_coal_indias_seaborne_imports_poised_to_increase__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAt the same time as the dark clouds are gathering above the horizon for Chinese manufacturing and steel production, India is facing rapidly depleting stockpiles of coal. An industrial recovery, following the easing of restrictions in the wake of falling Covid infections, has fueled a surge in demand for electricity.",
+      "keywords": [
+        "china",
+        "australia",
+        "india",
+        "coal",
+        "steel",
+        "indian",
+        "year",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 896,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__root",
+  "doc_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd",
+  "parent_id": null,
+  "title": "6Phjt8Ej59Eirdv4E0Gpn78782I4Hd",
+  "section_path": [
+    "6Phjt8Ej59Eirdv4E0Gpn78782I4Hd"
+  ],
+  "section_path_text": "6Phjt8Ej59Eirdv4E0Gpn78782I4Hd",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Capesize Iron Ore Flows to China\nIron ore flows to China have experienced a substantial increase, particularly following the end of the first quarter\nhttps://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p3xfr/329656696?h=fIVv1hfU9h5WsCEMxUOhVKdma8Fy1Ie0-N2cx50RGNg\nAs we are nearing the end of June, the freight market sentiment remained robust for the Capesize segment, while the softening trend is still there for the other smaller vessel size categories. The market remains challenging from the number of ballasters, where there is an increasing trend throughout June, with the Capesize segment recording significant downward revisions. There seems to be a healthier outlook for the larger vessel size categories, as we have already entered the manufacturing season in China, and the volume of iron ore shipments from Brazil and Australia increases.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "iron_ore",
+    "steel",
+    "trend",
+    "vessels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1438,
+  "source_path": "reports/breakwave/2023/2023-06-28_6phjt8ej59eirdv4e0gpn78782i4hd.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/28/6phjt8ej59eirdv4e0gpn78782i4hd",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__s01_chart_of_the_week_capesize_iron_ore_flows_to_china",
+      "doc_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd",
+      "parent_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__root",
+      "title": "Chart of the Week: Capesize Iron Ore Flows to China",
+      "section_path": [
+        "Chart of the Week: Capesize Iron Ore Flows to China"
+      ],
+      "section_path_text": "Chart of the Week: Capesize Iron Ore Flows to China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Iron ore flows to China have experienced a substantial increase, particularly following the end of the first quarter\nhttps://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p3xfr/329656696?h=fIVv1hfU9h5WsCEMxUOhVKdma8Fy1Ie0-N2cx50RGNg\nAs we are nearing the end of June, the freight market sentiment remained robust for the Capesize segment, while the softening trend is still there for the other smaller vessel size categories. The market remains challenging from the number of ballasters, where there is an increasing trend throughout June, with the Capesize segment recording significant downward revisions.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 354,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd",
+      "parent_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Softening\nThe Capesize segment has shown resilience and maintained a strong position, while a softening trend persists for other vessel sizes as we approach the end of the first half of this year. Capesize vessel freight rates have experienced a significant increase, reaching $22 per tonne, which is a notable $4 per tonne higher than the previous low recorded at the end of week 22.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "per",
+        "tonne",
+        "downward"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 255,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd",
+      "parent_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (# vessels) Decreasing\nIn the Capesize segment, the number of ballast ships remains significantly lower than the peak levels observed three weeks ago, indicating a sustained decrease in availability. Conversely, the Supramax segment has begun to experience a downward trend, but it is yet to be confirmed if this will lead to further declines.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "number",
+        "count",
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 337,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd",
+      "parent_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size TonDays Decreasing\nThroughout the month of June, there has been a consistent pattern of progress, with each week exhibiting a similar trend. Notably, the Capesize segment has experienced a continuous upward recovery, indicating positive growth and improving conditions in this particular vessel size category.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "growth",
+        "similar",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd",
+      "parent_id": "breakwave_insights_insights_2023-06-28_2023_06_28_6phjt8ej59eirdv4e0gpn78782i4hd__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports No of Vessels Increasing\nAs we enter the final week of June, there has been a notable increase in ship congestion compared to the previous week across all main size categories. This escalation in congestion levels is significant, indicating a growing number of vessels experiencing delays and extended waiting times.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "compared",
+        "increase",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 238,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

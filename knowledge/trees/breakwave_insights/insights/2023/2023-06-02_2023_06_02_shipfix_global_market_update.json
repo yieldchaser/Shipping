@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nFollowing Wednesday's disappointing official Chinese PMI data, which raised concern over the strength of the Chinese economy and the demand outlook for commodities, today's release of the Caixin PMI for the manufacturing sector painted a somewhat different picture. The gauge, which S&P Global compiles, surprised on the upside and indicated that Chinese factory activity expanded slightly in May. While the Caixin gauge has a greater focus on smaller and more export-oriented businesses than the official PMI, the contradictory signals highlight the growing uncertainty over the direction of the world's second-largest economy.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal",
+    "grain"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1194,
+  "source_path": "reports/breakwave/2023/2023-06-02_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/2/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Following Wednesday's disappointing official Chinese PMI data, which raised concern over the strength of the Chinese economy and the demand outlook for commodities, today's release of the Caixin PMI for the manufacturing sector painted a somewhat different picture. The gauge, which S&P Global compiles, surprised on the upside and indicated that Chinese factory activity expanded slightly in May.",
+      "keywords": [
+        "china",
+        "chinese",
+        "pmi",
+        "caixin",
+        "gauge",
+        "official",
+        "activity",
+        "businesses"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 111,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The weaker-than-expected PMI data in China and a surprise build-up of US inventories weighed on crude oil prices yesterday. The Brent August futures declined by 1.5 per cent and ended the day at 72.60 dollars per barrel.",
+      "keywords": [
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 450,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "For dry bulk freight rates, red remains the colour of the season, and all of the Baltic Exchange's indicators declined yesterday. Rising headwinds for the global economy and the Chinese economy, in particular, contributed to the Baltic Dry Index declining by 13.0 per cent on Wednesday.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 411,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-02_2023_06_02_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Copper prices fell nearly six per cent during the past month. While the prices are expected to rise in the future as the worldwide supply situation will become increasingly tight as the energy transition will see rising demand, the recent decline suggests that the global economy faces increasing headwinds in the short term.",
+      "keywords": [
+        "china",
+        "demand",
+        "order",
+        "aggregate",
+        "copper",
+        "data",
+        "global",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

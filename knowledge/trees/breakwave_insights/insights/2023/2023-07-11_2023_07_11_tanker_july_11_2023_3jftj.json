@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-11_2023_07_11_tanker_july_11_2023_3jftj__root",
+  "doc_id": "breakwave_insights_insights_2023-07-11_2023_07_11_tanker_july_11_2023_3jftj",
+  "parent_id": null,
+  "title": "Tanker July 11 2023 3Jftj",
+  "section_path": [
+    "Tanker July 11 2023 3Jftj"
+  ],
+  "section_path_text": "Tanker July 11 2023 3Jftj",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• VLCC rates weaken as vessel surplus takes a toll - The brief spike in VLCC spot rates around mid-June proved unstainable and, as widely expected, the first week of July pushed spot rates lower in the Middle East to China route along with the West Africa to China route. Shipowners are now facing increased pressure as they anticipate further rate decreases due to an ever-weakening Atlantic market. Interest in chartering for August shipments from West Africa has so far been limited, prompting shipowners to seek alternative employment opportunities.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "atlantic",
+    "west_africa",
+    "crude_oil",
+    "products",
+    "oil",
+    "demand",
+    "are",
+    "activity",
+    "production",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 599,
+  "source_path": "reports/breakwave/2023/2023-07-11_tanker-july-11-2023-3jftj.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/11/tanker-july-11-2023-3jftj",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-11_2023_07_11_tanker_july_11_2023_3jftj__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-11_2023_07_11_tanker_july_11_2023_3jftj",
+      "parent_id": "breakwave_insights_insights_2023-07-11_2023_07_11_tanker_july_11_2023_3jftj__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• VLCC rates weaken as vessel surplus takes a toll - The brief spike in VLCC spot rates around mid-June proved unstainable and, as widely expected, the first week of July pushed spot rates lower in the Middle East to China route along with the West Africa to China route. Shipowners are now facing increased pressure as they anticipate further rate decreases due to an ever-weakening Atlantic market.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "west_africa",
+        "crude_oil",
+        "products",
+        "oil",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 597,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

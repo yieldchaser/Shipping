@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know__root",
+  "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know",
+  "parent_id": null,
+  "title": "Did You Know",
+  "section_path": [
+    "Did You Know"
+  ],
+  "section_path_text": "Did You Know",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nOil and gas platforms or offshore drilling rigs are constructed for extracting, storing and processing petroleum and natural gas lying beneath the ocean floor. Fun fact: Most of these platforms are equipped with basic amenities as workers live on these structures to oversee the operations. Witch are 3 of the biggest oil platforms in the world?",
+  "keywords": [
+    "pacific",
+    "us_gulf",
+    "japan",
+    "crude_oil",
+    "gas",
+    "oil",
+    "platform",
+    "are",
+    "biggest",
+    "gulf",
+    "near",
+    "platforms"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 307,
+  "source_path": "reports/breakwave/2023/2023-04-07_did-you-know.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/7/did-you-know",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Oil and gas platforms or offshore drilling rigs are constructed for extracting, storing and processing petroleum and natural gas lying beneath the ocean floor. Fun fact: Most of these platforms are equipped with basic amenities as workers live on these structures to oversee the operations.",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "are",
+        "platforms",
+        "oil",
+        "amenities",
+        "basic",
+        "beneath"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 63,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know__s02_berkut_oil_rig",
+      "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know__root",
+      "title": "Berkut oil rig",
+      "section_path": [
+        "Berkut oil rig"
+      ],
+      "section_path_text": "Berkut oil rig",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Berkut is the biggest platform in the world situated near the Russian coastline facing the Pacific Ocean, near the island of Sakhalin close to the Japanese mainland. It is truly an engineering marvel, weighing about 200,000 tons and 35 m deep from the seafloor.",
+      "keywords": [
+        "pacific",
+        "japan",
+        "crude_oil",
+        "near",
+        "platform",
+        "tons",
+        "berkut",
+        "biggest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know__s03_perdido",
+      "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know__root",
+      "title": "Perdido",
+      "section_path": [
+        "Perdido"
+      ],
+      "section_path_text": "Perdido",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The second biggest in the world located near the US Gulf of Mexico. The project was quite challenging in terms of geographical restraints since the gulf is ridden with typhoons and hurricanes.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "gas",
+        "gulf",
+        "around",
+        "became",
+        "biggest",
+        "challenging"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know__s04_petronius",
+      "doc_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-04-07_2023_04_07_did_you_know__root",
+      "title": "Petronius",
+      "section_path": [
+        "Petronius"
+      ],
+      "section_path_text": "Petronius",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Petronius oil platform is situated in the Gulf of Mexico, close to New Orleans in the US. The construction of this fixed, compliant tower type rig began in 1997 and ended in 2000.",
+      "keywords": [
+        "us_gulf",
+        "crude_oil",
+        "began",
+        "close",
+        "compliant",
+        "construction",
+        "depth",
+        "ended"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

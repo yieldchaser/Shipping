@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-02-25_2021_02_25_commodity_boom_supercycle_me__root",
+  "doc_id": "breakwave_insights_insights_2021-02-25_2021_02_25_commodity_boom_supercycle_me",
+  "parent_id": null,
+  "title": "Commodity Boom Supercycle Me",
+  "section_path": [
+    "Commodity Boom Supercycle Me"
+  ],
+  "section_path_text": "Commodity Boom Supercycle Me",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nby Maria Bertzeletou\nThe world changed dramatically in January 2020 with the realization of the seriousness of the coronavirus outbreak and its impact on lives worldwide. On January 23, China locked down Wuhan, a city of 11 million, to contain the spread of the highly contagious and deadly \"novel coronavirus,\" as it was then called (it was not until March that the World Health Organization declared a global pandemic). Beijing's timely and robust steps to contain the outbreak, coupled with massive government financial support, allowed the Chinese economy to lead the global recovery from the damage caused by the pandemic.",
+  "keywords": [
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "steel",
+    "gas",
+    "its",
+    "world",
+    "commodities",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2032,
+  "source_path": "reports/breakwave/2021/2021-02-25_commodity-boom-supercycle-me.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/2/25/commodity-boom-supercycle-me",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-02-25_2021_02_25_commodity_boom_supercycle_me__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-02-25_2021_02_25_commodity_boom_supercycle_me",
+      "parent_id": "breakwave_insights_insights_2021-02-25_2021_02_25_commodity_boom_supercycle_me__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "by Maria Bertzeletou\nThe world changed dramatically in January 2020 with the realization of the seriousness of the coronavirus outbreak and its impact on lives worldwide. On January 23, China locked down Wuhan, a city of 11 million, to contain the spread of the highly contagious and deadly \"novel coronavirus,\" as it was then called (it was not until March that the World Health Organization declared a global pandemic).",
+      "keywords": [
+        "china",
+        "brazil",
+        "europe",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2030,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

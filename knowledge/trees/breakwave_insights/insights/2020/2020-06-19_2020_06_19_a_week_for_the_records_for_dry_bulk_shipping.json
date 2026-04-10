@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-19_2020_06_19_a_week_for_the_records_for_dry_bulk_shipping__root",
+  "doc_id": "breakwave_insights_insights_2020-06-19_2020_06_19_a_week_for_the_records_for_dry_bulk_shipping",
+  "parent_id": null,
+  "title": "A Week For The Records For Dry Bulk Shipping",
+  "section_path": [
+    "A Week For The Records For Dry Bulk Shipping"
+  ],
+  "section_path_text": "A Week For The Records For Dry Bulk Shipping",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nOne of the most exciting weeks in recent memory for dry bulk shipping comes to an end, with many people starting to use more and more the phrase \"the good ol' days are back\" as volatility once again appears out of nowhere and brings excitement back to a market that has struggled for most of the year. Capesize spot and futures naturally led the way, but one should not disregard the smaller size segments, with Panamax futures actually performing equally well (although trading at significant premiums to spot throughout the week). As the week comes to an end and volatility has calm down a bit, the usual question of what comes next is the obvious topic of discussion in the market.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "should",
+    "demand",
+    "next",
+    "now",
+    "volatility"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 753,
+  "source_path": "reports/breakwave/2020/2020-06-19_a-week-for-the-records-for-dry-bulk-shipping.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/19/a-week-for-the-records-for-dry-bulk-shipping",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-19_2020_06_19_a_week_for_the_records_for_dry_bulk_shipping__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-19_2020_06_19_a_week_for_the_records_for_dry_bulk_shipping",
+      "parent_id": "breakwave_insights_insights_2020-06-19_2020_06_19_a_week_for_the_records_for_dry_bulk_shipping__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One of the most exciting weeks in recent memory for dry bulk shipping comes to an end, with many people starting to use more and more the phrase \"the good ol' days are back\" as volatility once again appears out of nowhere and brings excitement back to a market that has struggled for most of the year. Capesize spot and futures naturally led the way, but one should not disregard the smaller size segments, with Panamax futures actually performing equally well (although trading at significant premiums to spot throughout the week).",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "iron_ore",
+        "should"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 751,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

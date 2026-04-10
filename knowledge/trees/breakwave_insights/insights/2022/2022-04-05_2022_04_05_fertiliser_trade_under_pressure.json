@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-04-05_2022_04_05_fertiliser_trade_under_pressure__root",
+  "doc_id": "breakwave_insights_insights_2022-04-05_2022_04_05_fertiliser_trade_under_pressure",
+  "parent_id": null,
+  "title": "Fertiliser Trade Under Pressure",
+  "section_path": [
+    "Fertiliser Trade Under Pressure"
+  ],
+  "section_path_text": "Fertiliser Trade Under Pressure",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe Russian invasion of Ukraine has upended large parts of the global trade flow for agricultural commodities, with the grains from the fertile soils of Ukraine and Russia becoming unavailable for most international buyers. For example, around a quarter of global exports of wheat is being affected by the hostilities. However, it is essential to remember that many of the world's largest consumers of grains, e.g.",
+  "keywords": [
+    "china",
+    "india",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "prices",
+    "fertiliser",
+    "global",
+    "last",
+    "volumes",
+    "year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1155,
+  "source_path": "reports/breakwave/2022/2022-04-05_fertiliser-trade-under-pressure.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/4/5/fertiliser-trade-under-pressure",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-04-05_2022_04_05_fertiliser_trade_under_pressure__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-04-05_2022_04_05_fertiliser_trade_under_pressure",
+      "parent_id": "breakwave_insights_insights_2022-04-05_2022_04_05_fertiliser_trade_under_pressure__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe Russian invasion of Ukraine has upended large parts of the global trade flow for agricultural commodities, with the grains from the fertile soils of Ukraine and Russia becoming unavailable for most international buyers. For example, around a quarter of global exports of wheat is being affected by the hostilities.",
+      "keywords": [
+        "china",
+        "india",
+        "grain",
+        "crude_oil",
+        "products",
+        "gas",
+        "prices",
+        "fertiliser"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1153,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

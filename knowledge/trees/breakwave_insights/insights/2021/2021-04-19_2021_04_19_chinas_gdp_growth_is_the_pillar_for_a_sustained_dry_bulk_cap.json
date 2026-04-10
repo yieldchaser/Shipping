@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-19_2021_04_19_chinas_gdp_growth_is_the_pillar_for_a_sustained_dry_bulk_cap__root",
+  "doc_id": "breakwave_insights_insights_2021-04-19_2021_04_19_chinas_gdp_growth_is_the_pillar_for_a_sustained_dry_bulk_cap",
+  "parent_id": null,
+  "title": "Chinas Gdp Growth Is The Pillar For A Sustained Dry Bulk Capesize Prosperity",
+  "section_path": [
+    "Chinas Gdp Growth Is The Pillar For A Sustained Dry Bulk Capesize Prosperity"
+  ],
+  "section_path_text": "Chinas Gdp Growth Is The Pillar For A Sustained Dry Bulk Capesize Prosperity",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nby Maria Bertzeletou\nChina's economy grew at the slowest pace in more than four decades last year despite a rebound after the country's coronavirus outbreak. The 2.3% expansion is the lowest figure since the Chinese economy embarked on major reforms in the 1970s. The National Bureau of Statistics (NBS) said 2020 was a \"grave and complex environment both at home and abroad\" with the pandemic having a \"huge impact.\"\nThe figure was a marked slowdown from 2019 growth of 6.1% - itself already the lowest in decades - with the country hit by weak domestic demand and trade tensions.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "steel",
+    "gas",
+    "growth",
+    "ore",
+    "iron",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1959,
+  "source_path": "reports/breakwave/2021/2021-04-19_chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-cap.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/19/chinas-gdp-growth-is-the-pillar-for-a-sustained-dry-bulk-capesize-prosperity",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-19_2021_04_19_chinas_gdp_growth_is_the_pillar_for_a_sustained_dry_bulk_cap__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-19_2021_04_19_chinas_gdp_growth_is_the_pillar_for_a_sustained_dry_bulk_cap",
+      "parent_id": "breakwave_insights_insights_2021-04-19_2021_04_19_chinas_gdp_growth_is_the_pillar_for_a_sustained_dry_bulk_cap__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "by Maria Bertzeletou\nChina's economy grew at the slowest pace in more than four decades last year despite a rebound after the country's coronavirus outbreak. The 2.3% expansion is the lowest figure since the Chinese economy embarked on major reforms in the 1970s.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1957,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

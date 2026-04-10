@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-25_2023_01_25_favorable_tailwinds_developing_for_us_seaborne_crude_exports__root",
+  "doc_id": "breakwave_insights_insights_2023-01-25_2023_01_25_favorable_tailwinds_developing_for_us_seaborne_crude_exports",
+  "parent_id": null,
+  "title": "Favorable Tailwinds Developing For Us Seaborne Crude Exports",
+  "section_path": [
+    "Favorable Tailwinds Developing For Us Seaborne Crude Exports"
+  ],
+  "section_path_text": "Favorable Tailwinds Developing For Us Seaborne Crude Exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "US crude exports expected to remain strong as indications of demand from refiners in Asia surface along with existing demand from Europe\nBy Rohit Rathod\nUS seaborne crude/condensate exports seem to have slowed down in January 2023 compared to the record highs seen in 4Q 2022, but developments in Asia suggesting strong refinery demand along with Europe's continued need to replace Russian barrels provide strong tailwinds for US crude exports. As for the decrease in January US crude exports, a strong December for global refined product exports and subsequent well supplied product markets, we believe were the reason behind this temporary dip. US crude/condensate exports by destination region (mbd)\nUS seaborne crude exports in December 2022 reached 3.7mbd which were lower than the record high of 3.8mbd set in October.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "products",
+    "exports",
+    "crude",
+    "strong",
+    "january",
+    "well",
+    "demand",
+    "imports",
+    "mbd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 683,
+  "source_path": "reports/breakwave/2023/2023-01-25_favorable-tailwinds-developing-for-us-seaborne-crude-exports.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/25/favorable-tailwinds-developing-for-us-seaborne-crude-exports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-25_2023_01_25_favorable_tailwinds_developing_for_us_seaborne_crude_exports__s01_us_crude_exports_expected_to_remain_strong_as_indications_of_demand_from_refiners_in_asia_surface_along_with_existing_demand_from_europe",
+      "doc_id": "breakwave_insights_insights_2023-01-25_2023_01_25_favorable_tailwinds_developing_for_us_seaborne_crude_exports",
+      "parent_id": "breakwave_insights_insights_2023-01-25_2023_01_25_favorable_tailwinds_developing_for_us_seaborne_crude_exports__root",
+      "title": "US crude exports expected to remain strong as indications of demand from refiners in Asia surface along with existing demand from Europe",
+      "section_path": [
+        "US crude exports expected to remain strong as indications of demand from refiners in Asia surface along with existing demand from Europe"
+      ],
+      "section_path_text": "US crude exports expected to remain strong as indications of demand from refiners in Asia surface along with existing demand from Europe",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Rohit Rathod\nUS seaborne crude/condensate exports seem to have slowed down in January 2023 compared to the record highs seen in 4Q 2022, but developments in Asia suggesting strong refinery demand along with Europe's continued need to replace Russian barrels provide strong tailwinds for US crude exports. As for the decrease in January US crude exports, a strong December for global refined product exports and subsequent well supplied product markets, we believe were the reason behind this temporary dip.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "products",
+        "exports",
+        "crude",
+        "strong",
+        "january"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 659,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

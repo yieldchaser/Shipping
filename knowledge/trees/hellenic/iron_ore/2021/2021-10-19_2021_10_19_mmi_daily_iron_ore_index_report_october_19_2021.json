@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-10-19_2021_10_19_mmi_daily_iron_ore_index_report_october_19_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-10-19_2021_10_19_mmi_daily_iron_ore_index_report_october_19_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report October 19 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report October 19 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report October 19 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 19/10/2021\nDCE iron ore futures continued to fluctuate in a day, main contract closed707. The spot quotation in the morning quoted varied. Some steelprocurement more cautious, the continuation of a small number of multi-frequency procurement strategy；but some traders quotation is still stronger, The overall deal atmosphere was general today。PBF at Shandong port dealt 865 yuan/mt, increased 15-25 yuan/mt over yesterday; PBF at Tangshan port dealt 870-890 yuan/ton, prices are mixed today over yesterday.According to data tracked by SMM, 82 ships arrived at domestic main ports from October 11-17.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "million",
+    "iron",
+    "ore",
+    "ports",
+    "main",
+    "are",
+    "arrivals"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 350,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-10-19_mmi-daily-iron-ore-index-report-october-19-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-19-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-10-19_2021_10_19_mmi_daily_iron_ore_index_report_october_19_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-10-19_2021_10_19_mmi_daily_iron_ore_index_report_october_19_2021",
+      "parent_id": "hellenic_iron_ore_2021-10-19_2021_10_19_mmi_daily_iron_ore_index_report_october_19_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 19/10/2021\nDCE iron ore futures continued to fluctuate in a day, main contract closed707. The spot quotation in the morning quoted varied.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "million",
+        "iron",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 348,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-20_2023_03_20_did_you_know__root",
+  "doc_id": "breakwave_insights_insights_2023-03-20_2023_03_20_did_you_know",
+  "parent_id": null,
+  "title": "Did You Know",
+  "section_path": [
+    "Did You Know"
+  ],
+  "section_path_text": "Did You Know",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNamed for the Persian prophet Zarathustra, the world's first tanker ship - the Zoroaster tanker was put into operation in the year 1878. The tanker ship was built with steel while its oil tanker holds were built of iron. Prior to the use of tanker ships, oil was transported by a crude method across water channels, which caused problems, and that's why it was essential the creation of a new, fast and safe way of transport.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "steel",
+    "are",
+    "oil",
+    "was",
+    "built",
+    "crude",
+    "fields",
+    "ship",
+    "all",
+    "assets"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 170,
+  "source_path": "reports/breakwave/2023/2023-03-20_did-you-know.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/20/did-you-know",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-20_2023_03_20_did_you_know__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-20_2023_03_20_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-20_2023_03_20_did_you_know__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Named for the Persian prophet Zarathustra, the world's first tanker ship - the Zoroaster tanker was put into operation in the year 1878. The tanker ship was built with steel while its oil tanker holds were built of iron.",
+      "keywords": [
+        "crude_oil",
+        "steel",
+        "was",
+        "built",
+        "oil",
+        "ship",
+        "caused",
+        "channels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-20_2023_03_20_did_you_know__s02_since_then_till_today_tankers_transport_2_3_of_all_crude",
+      "doc_id": "breakwave_insights_insights_2023-03-20_2023_03_20_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-20_2023_03_20_did_you_know__root",
+      "title": "Since then, till today, tankers transport 2/3 of all crude:",
+      "section_path": [
+        "Since then, till today, tankers transport 2/3 of all crude:"
+      ],
+      "section_path_text": "Since then, till today, tankers transport 2/3 of all crude:",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "• The crude tanker market exists due to the geographic distances between oil fields and refining capacity. • Oil fields that are economically viable to extract are geographically concentrated.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "are",
+        "oil",
+        "fields",
+        "assets",
+        "between",
+        "built"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 58,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-04-19_2023_04_19_mmi_daily_iron_ore_index_report_april_19_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-04-19_2023_04_19_mmi_daily_iron_ore_index_report_april_19_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report April 19 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report April 19 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report April 19 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 19/04/2023\nDCE iron ore futures declined by 0.96% today, the main contract closed at 777.5.T he traders' willingness to ship is better.The steel mills are active to purchase.The overall trading sentiment of the market is better. PBF at Shandong port deal 889-890 yuan/mt, PBF at Tangshan port deal 905yuan/mt. Today, the National Development and Reform Commission made a statement to firmly curb the unreasonable rise in iron ore prices, and the iron ore futures market responded with a decline.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "prices",
+    "are",
+    "deal",
+    "decline.",
+    "main",
+    "mills",
+    "pbf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 245,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-04-19_mmi-daily-iron-ore-index-report-april-19-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-19-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-04-19_2023_04_19_mmi_daily_iron_ore_index_report_april_19_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-04-19_2023_04_19_mmi_daily_iron_ore_index_report_april_19_2023",
+      "parent_id": "hellenic_iron_ore_2023-04-19_2023_04_19_mmi_daily_iron_ore_index_report_april_19_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 19/04/2023\nDCE iron ore futures declined by 0.96% today, the main contract closed at 777.5.T he traders' willingness to ship is better.The steel mills are active to purchase.The overall trading sentiment of the market is better. PBF at Shandong port deal 889-890 yuan/mt, PBF at Tangshan port deal 905yuan/mt.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "prices",
+        "are",
+        "deal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 243,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

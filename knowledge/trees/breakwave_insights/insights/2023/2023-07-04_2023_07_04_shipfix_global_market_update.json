@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nFollowing last week's release of China's official manufacturing PMI, which suggested that the country's industrial sector remained in contraction territory for a third consecutive month, the Caixin manufacturing PMI painted a somewhat less negative picture today. While the alternative gauge, which has a greater focus on smaller and exporting companies, remained in expansionary territory last month and was stronger than expected, it nevertheless declined from the May reading. Hence, it highlighted the continued headwinds for the world's second-largest economy.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "atlantic",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal",
+    "grain"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1325,
+  "source_path": "reports/breakwave/2023/2023-07-04_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/4/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Following last week's release of China's official manufacturing PMI, which suggested that the country's industrial sector remained in contraction territory for a third consecutive month, the Caixin manufacturing PMI painted a somewhat less negative picture today. While the alternative gauge, which has a greater focus on smaller and exporting companies, remained in expansionary territory last month and was stronger than expected, it nevertheless declined from the May reading.",
+      "keywords": [
+        "china",
+        "manufacturing",
+        "pmi",
+        "sector",
+        "continued",
+        "country",
+        "economy.",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 249,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil prices bounced back last week after a retreat during the previous five trading sessions. The Brent August futures recorded a weekly gain of 1.9 per cent and ended Friday's session at 75.41 dollars per barrel as tight global supplies provided support.",
+      "keywords": [
+        "lng",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 494,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "After three weeks of gains, the Baltic Dry Index ended the past week in the red. The headline index recorded a weekly decline of 12.0 per cent amid weakness for all segments apart from the Supramaxes.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 355,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-04_2023_07_04_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While European coal prices have recorded gains of more than 30 per cent since the end of May, they remain around 50 per cent below the levels recorded a year ago as concerns over the continent's energy supplies have eased. Following the implementation of sanctions on Russian coal shipments, European buyers found alternative supplies of the dirtiest of fossil fuels around the world, with the Transatlantic trade being one of the main beneficiaries.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "europe",
+        "coal",
+        "gas",
+        "european",
+        "per",
+        "around"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 194,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

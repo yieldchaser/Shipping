@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-06-07_2021_06_07_chinese_steel_production_remains_strong_beijings_air_polluti__root",
+  "doc_id": "breakwave_insights_insights_2021-06-07_2021_06_07_chinese_steel_production_remains_strong_beijings_air_polluti",
+  "parent_id": null,
+  "title": "Chinese Steel Production Remains Strong Beijings Air Pollution Remains Moderate",
+  "section_path": [
+    "Chinese Steel Production Remains Strong Beijings Air Pollution Remains Moderate"
+  ],
+  "section_path_text": "Chinese Steel Production Remains Strong Beijings Air Pollution Remains Moderate",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChinese steel prices remain high and finally rebounded last week. The average price of hot rolled coil, for example, ended last week at 5,705 yuan/ton which is 145 yuan (3%) more than a week ago. Previously, prices had fallen for two consecutive weeks.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "products",
+    "steel",
+    "last",
+    "production",
+    "air",
+    "beijing",
+    "pollution",
+    "prices",
+    "remain",
+    "stockpiles"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 374,
+  "source_path": "reports/breakwave/2021/2021-06-07_chinese-steel-production-remains-strong-beijings-air-polluti.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/6/7/chinese-steel-production-remains-strong-beijings-air-pollution-remains-moderate",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-06-07_2021_06_07_chinese_steel_production_remains_strong_beijings_air_polluti__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-06-07_2021_06_07_chinese_steel_production_remains_strong_beijings_air_polluti",
+      "parent_id": "breakwave_insights_insights_2021-06-07_2021_06_07_chinese_steel_production_remains_strong_beijings_air_polluti__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChinese steel prices remain high and finally rebounded last week. The average price of hot rolled coil, for example, ended last week at 5,705 yuan/ton which is 145 yuan (3%) more than a week ago.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "products",
+        "steel",
+        "last",
+        "production",
+        "air",
+        "beijing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 372,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

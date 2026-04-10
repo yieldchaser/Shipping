@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-03_2022_06_03_russian_exports_surging_despite_the_war__root",
+  "doc_id": "breakwave_insights_insights_2022-06-03_2022_06_03_russian_exports_surging_despite_the_war",
+  "parent_id": null,
+  "title": "Russian Exports Surging Despite The War",
+  "section_path": [
+    "Russian Exports Surging Despite The War"
+  ],
+  "section_path_text": "Russian Exports Surging Despite The War",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe Russian assault on Ukraine has passed the 100 days mark, and no end to the conflict appears to be in sight. While Russian military and political leaders are likely to be disappointed over how the war has evolved, it has galvanised the US and many of its allies to put up a united front politically. Beyond the physical deliveries of weapons and other materials for the Ukrainian armed forces, several rounds of extensive economic sanctions on Russian interests have perhaps been the most tangible results of the allies' newfound unity.",
+  "keywords": [
+    "china",
+    "brazil",
+    "pacific",
+    "europe",
+    "india",
+    "japan",
+    "coal",
+    "grain",
+    "crude_oil",
+    "products",
+    "gas",
+    "russian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1173,
+  "source_path": "reports/breakwave/2022/2022-06-03_russian-exports-surging-despite-the-war.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/3/russian-exports-surging-despite-the-war",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-03_2022_06_03_russian_exports_surging_despite_the_war__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-03_2022_06_03_russian_exports_surging_despite_the_war",
+      "parent_id": "breakwave_insights_insights_2022-06-03_2022_06_03_russian_exports_surging_despite_the_war__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe Russian assault on Ukraine has passed the 100 days mark, and no end to the conflict appears to be in sight. While Russian military and political leaders are likely to be disappointed over how the war has evolved, it has galvanised the US and many of its allies to put up a united front politically.",
+      "keywords": [
+        "china",
+        "brazil",
+        "pacific",
+        "europe",
+        "india",
+        "japan",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1171,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

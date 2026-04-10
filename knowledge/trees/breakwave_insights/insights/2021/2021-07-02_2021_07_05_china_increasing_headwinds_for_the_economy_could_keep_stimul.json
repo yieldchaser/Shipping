@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-07-02_2021_07_05_china_increasing_headwinds_for_the_economy_could_keep_stimul__root",
+  "doc_id": "breakwave_insights_insights_2021-07-02_2021_07_05_china_increasing_headwinds_for_the_economy_could_keep_stimul",
+  "parent_id": null,
+  "title": "China Increasing Headwinds For The Economy Could Keep Stimulus In Place For Longer",
+  "section_path": [
+    "China Increasing Headwinds For The Economy Could Keep Stimulus In Place For Longer"
+  ],
+  "section_path_text": "China Increasing Headwinds For The Economy Could Keep Stimulus In Place For Longer",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe Chinese economy has provided a considerable number of spectacular data releases in the last fifteen months, as it recovered from the initial effects of the COVID19 outbreak. However, the most recent release of the official purchasing managers' index (PMI) is pointing towards increasing headwinds for the economy in the months to come. While the manufacturing sector is remaining stable with only a marginal shave compared to May and broadly in line with economists' anticipations at 50.9, the non-manufacturing gauge failed to meet expectations with a reading of 53.5, compared to 55.2 previously.",
+  "keywords": [
+    "china",
+    "coal",
+    "steel",
+    "chinese",
+    "economy",
+    "recent",
+    "demand",
+    "domestic",
+    "are",
+    "continued",
+    "economic",
+    "hence"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 737,
+  "source_path": "reports/breakwave/2021/2021-07-05_china-increasing-headwinds-for-the-economy-could-keep-stimul.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/7/2/china-increasing-headwinds-for-the-economy-could-keep-stimulus-in-place-for-longer",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-07-02_2021_07_05_china_increasing_headwinds_for_the_economy_could_keep_stimul__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-07-02_2021_07_05_china_increasing_headwinds_for_the_economy_could_keep_stimul",
+      "parent_id": "breakwave_insights_insights_2021-07-02_2021_07_05_china_increasing_headwinds_for_the_economy_could_keep_stimul__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe Chinese economy has provided a considerable number of spectacular data releases in the last fifteen months, as it recovered from the initial effects of the COVID19 outbreak. However, the most recent release of the official purchasing managers' index (PMI) is pointing towards increasing headwinds for the economy in the months to come.",
+      "keywords": [
+        "china",
+        "coal",
+        "steel",
+        "chinese",
+        "economy",
+        "recent",
+        "demand",
+        "domestic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 735,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

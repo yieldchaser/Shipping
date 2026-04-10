@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-08-05_2022_08_05_mmi_daily_iron_ore_index_report_august_05_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-08-05_2022_08_05_mmi_daily_iron_ore_index_report_august_05_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 05 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 05 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 05 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 05/08/2022\nDCE iron ore was was shocked and keep downward all the day.The main contract closed at 780.5,increased of 1.30%. Traders are generallymotivated to ship, Speculative demand increases. Steel mills are mainly on the sidelines, and market turnover continues to pick up.PBF at Shandong port dealt 766-786 yuan/mt;,increase 10 yuan/mt than yesterday;SSF at Shandong port dealt 630-645 yuan/mt,increase 15 yuan/ mt.PBF at Tangshan dealt 770 yuan/mt,increase 10 yuan/mt than yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "port",
+    "increased",
+    "tons",
+    "yuan/mt",
+    "increase",
+    "million",
+    "dealt",
+    "period",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 342,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-08-05_mmi-daily-iron-ore-index-report-august-05-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-05-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-08-05_2022_08_05_mmi_daily_iron_ore_index_report_august_05_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-08-05_2022_08_05_mmi_daily_iron_ore_index_report_august_05_2022",
+      "parent_id": "hellenic_iron_ore_2022-08-05_2022_08_05_mmi_daily_iron_ore_index_report_august_05_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 05/08/2022\nDCE iron ore was was shocked and keep downward all the day.The main contract closed at 780.5,increased of 1.30%. Traders are generallymotivated to ship, Speculative demand increases.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "port",
+        "increased",
+        "tons",
+        "yuan/mt",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 340,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

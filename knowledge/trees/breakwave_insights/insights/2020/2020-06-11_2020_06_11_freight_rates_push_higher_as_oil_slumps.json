@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-11_2020_06_11_freight_rates_push_higher_as_oil_slumps__root",
+  "doc_id": "breakwave_insights_insights_2020-06-11_2020_06_11_freight_rates_push_higher_as_oil_slumps",
+  "parent_id": null,
+  "title": "Freight Rates Push Higher As Oil Slumps",
+  "section_path": [
+    "Freight Rates Push Higher As Oil Slumps"
+  ],
+  "section_path_text": "Freight Rates Push Higher As Oil Slumps",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA good day for owners of dry bulk ships, as rates continue to advance across every asset class. This is particularly true for ships able to do business in the Atlantic, as cargo flow remains healthy and ship availability relatively low. The Capesize market is closing in to last year's levels (by tomorrow we believe the index will be only a few thousand USD away from last year's level), while the futures market is already more or less there, at roughly 15,000-16,000 for the third quarter expected average rates.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "atlantic",
+    "grain",
+    "crude_oil",
+    "steel",
+    "last",
+    "year",
+    "but",
+    "only",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 487,
+  "source_path": "reports/breakwave/2020/2020-06-11_freight-rates-push-higher-as-oil-slumps.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/11/freight-rates-push-higher-as-oil-slumps",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-11_2020_06_11_freight_rates_push_higher_as_oil_slumps__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-11_2020_06_11_freight_rates_push_higher_as_oil_slumps",
+      "parent_id": "breakwave_insights_insights_2020-06-11_2020_06_11_freight_rates_push_higher_as_oil_slumps__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A good day for owners of dry bulk ships, as rates continue to advance across every asset class. This is particularly true for ships able to do business in the Atlantic, as cargo flow remains healthy and ship availability relatively low.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "grain",
+        "crude_oil",
+        "steel",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 485,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

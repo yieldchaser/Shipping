@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-11-30_2021_11_30_chinese_imports_from_the_us_are_still_lagging_behind_the_dea__root",
+  "doc_id": "breakwave_insights_insights_2021-11-30_2021_11_30_chinese_imports_from_the_us_are_still_lagging_behind_the_dea",
+  "parent_id": null,
+  "title": "Chinese Imports From The Us Are Still Lagging Behind The Deal",
+  "section_path": [
+    "Chinese Imports From The Us Are Still Lagging Behind The Deal"
+  ],
+  "section_path_text": "Chinese Imports From The Us Are Still Lagging Behind The Deal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThere is no shortage of issues that are causing friction between the world's two largest economies. The trade tensions which dominated much of the relationship between the US and China under the previous US administration has faded somewhat from the headlines. While not resolved, the significance of the unbalanced trans-Pacific flow of manufactured goods and commodities has paled compared to other potential flashpoints, such as military tension in the South China Sea.",
+  "keywords": [
+    "china",
+    "pacific",
+    "coal",
+    "grain",
+    "year",
+    "chinese",
+    "per",
+    "cent",
+    "last",
+    "trade",
+    "are",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 734,
+  "source_path": "reports/breakwave/2021/2021-11-30_chinese-imports-from-the-us-are-still-lagging-behind-the-dea.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/11/30/chinese-imports-from-the-us-are-still-lagging-behind-the-deal",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-11-30_2021_11_30_chinese_imports_from_the_us_are_still_lagging_behind_the_dea__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-11-30_2021_11_30_chinese_imports_from_the_us_are_still_lagging_behind_the_dea",
+      "parent_id": "breakwave_insights_insights_2021-11-30_2021_11_30_chinese_imports_from_the_us_are_still_lagging_behind_the_dea__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThere is no shortage of issues that are causing friction between the world's two largest economies. The trade tensions which dominated much of the relationship between the US and China under the previous US administration has faded somewhat from the headlines.",
+      "keywords": [
+        "china",
+        "pacific",
+        "coal",
+        "grain",
+        "year",
+        "chinese",
+        "per",
+        "cent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 732,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

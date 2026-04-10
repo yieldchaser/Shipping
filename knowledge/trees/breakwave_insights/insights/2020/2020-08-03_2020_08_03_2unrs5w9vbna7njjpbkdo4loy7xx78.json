@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-08-03_2020_08_03_2unrs5w9vbna7njjpbkdo4loy7xx78__root",
+  "doc_id": "breakwave_insights_insights_2020-08-03_2020_08_03_2unrs5w9vbna7njjpbkdo4loy7xx78",
+  "parent_id": null,
+  "title": "2Unrs5W9Vbna7Njjpbkdo4Loy7Xx78",
+  "section_path": [
+    "2Unrs5W9Vbna7Njjpbkdo4Loy7Xx78"
+  ],
+  "section_path_text": "2Unrs5W9Vbna7Njjpbkdo4Loy7Xx78",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs we highlighted in several notes last month, China has recently made several unprecedented large purchases of corn from the United States. Overall, any deterioration in US-China relations is not having an impact on China's agricultural purchases. July 10th saw China purchase 1.365 million tons of US corn, which at the time marked China's largest one-day purchase of US corn since 1994.",
+  "keywords": [
+    "china",
+    "grain",
+    "corn",
+    "july",
+    "purchases",
+    "quality",
+    "largest",
+    "million",
+    "one-day",
+    "problems",
+    "purchase",
+    "saw"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 371,
+  "source_path": "reports/breakwave/2020/2020-08-03_2unrs5w9vbna7njjpbkdo4loy7xx78.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/8/3/2unrs5w9vbna7njjpbkdo4loy7xx78",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-08-03_2020_08_03_2unrs5w9vbna7njjpbkdo4loy7xx78__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-08-03_2020_08_03_2unrs5w9vbna7njjpbkdo4loy7xx78",
+      "parent_id": "breakwave_insights_insights_2020-08-03_2020_08_03_2unrs5w9vbna7njjpbkdo4loy7xx78__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we highlighted in several notes last month, China has recently made several unprecedented large purchases of corn from the United States. Overall, any deterioration in US-China relations is not having an impact on China's agricultural purchases.",
+      "keywords": [
+        "china",
+        "grain",
+        "corn",
+        "july",
+        "purchases",
+        "quality",
+        "largest",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 369,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

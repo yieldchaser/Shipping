@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe narrative of the Capesizes propelling the Baltic Dry Index higher came to an end, as the freight rate indicator for the largest vessels retreated into the red for the first time in over a week. Among the commodities, iron ore and base metals faced headwinds amid further woes for the embattled Chinese real estate sector. By Ulf Bergman\n\nMacro/Geopolitics\nThe International Monetary Fund delivered its latest assessment of the state of the global economy .",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1499,
+  "source_path": "reports/breakwave/2023/2023-10-12_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/10/12/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The narrative of the Capesizes propelling the Baltic Dry Index higher came to an end, as the freight rate indicator for the largest vessels retreated into the red for the first time in over a week. Among the commodities, iron ore and base metals faced headwinds amid further woes for the embattled Chinese real estate sector.",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "amid",
+        "among",
+        "base",
+        "bergman",
+        "came"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The International Monetary Fund delivered its latest assessment of the state of the global economy . The Washington-based organisation said it expects inflation to be higher than previously envisaged and urged the world's central banks to remain vigilant in their fight against elevated price increases.",
+      "keywords": [
+        "china",
+        "imf",
+        "per",
+        "economy",
+        "growth",
+        "its",
+        "year",
+        "cent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 274,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "After Monday's substantial gains in the wake of the attacks on Israel over the weekend, crude oil prices stabilised yesterday. The December Brent futures declined by just over half a per cent, settling at 87.65 dollars per barrel, as concerns over supplies subsided.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 444,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "After six days of gains, the Baltic Dry Index retreated yesterday as the Capesizes ran out of steam following days of solid performances. The headline index declined by 0.4 per cent as gains for the Panamaxes and Supramaxes were insufficient to offset losses in the largest segment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 383,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-10-12_2023_10_12_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "In the past month, as the Baltic Exchange's Capesize index has surged by around 165 per cent, the Supramaxes have enjoyed healthy by far from such spectacular gains. The freight rate gauge for the vessel segment has recorded a gain of more than fifteen per cent for the past month.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "atlantic",
+        "pacific",
+        "india",
+        "last",
+        "during",
+        "global"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 298,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

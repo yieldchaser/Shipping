@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2022-03-08_2022_03_08_cancelling_russia_will_be_expensive__root",
+  "doc_id": "breakwave_insights_insights_2022-03-08_2022_03_08_cancelling_russia_will_be_expensive",
+  "parent_id": null,
+  "title": "Cancelling Russia Will Be Expensive",
+  "section_path": [
+    "Cancelling Russia Will Be Expensive"
+  ],
+  "section_path_text": "Cancelling Russia Will Be Expensive",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\n‘Cancel culture' is not a new thing. Ancient Egyptians did it regularly for Pharaohs who were not liked by their successors, like Queen Hatshepsut (1507-1458 BCE). Publius Septimius Geta (AD 189-211) was an emperor slain by his brother, Caracalla, and virtually expunged from history.",
+  "keywords": [
+    "china",
+    "brazil",
+    "europe",
+    "grain",
+    "crude_oil",
+    "are",
+    "but",
+    "was",
+    "could",
+    "economic",
+    "prices",
+    "russia"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1471,
+  "source_path": "reports/breakwave/2022/2022-03-08_cancelling-russia-will-be-expensive.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/3/8/cancelling-russia-will-be-expensive",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-03-08_2022_03_08_cancelling_russia_will_be_expensive__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-03-08_2022_03_08_cancelling_russia_will_be_expensive",
+      "parent_id": "breakwave_insights_insights_2022-03-08_2022_03_08_cancelling_russia_will_be_expensive__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\n‘Cancel culture' is not a new thing. Ancient Egyptians did it regularly for Pharaohs who were not liked by their successors, like Queen Hatshepsut (1507-1458 BCE).",
+      "keywords": [
+        "china",
+        "brazil",
+        "europe",
+        "grain",
+        "crude_oil",
+        "are",
+        "was",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1200,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-08_2022_03_08_cancelling_russia_will_be_expensive__s02_what_does_it_all_mean_for_investors",
+      "doc_id": "breakwave_insights_insights_2022-03-08_2022_03_08_cancelling_russia_will_be_expensive",
+      "parent_id": "breakwave_insights_insights_2022-03-08_2022_03_08_cancelling_russia_will_be_expensive__root",
+      "title": "What does it all mean for investors?",
+      "section_path": [
+        "What does it all mean for investors?"
+      ],
+      "section_path_text": "What does it all mean for investors?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The point we are trying to make is that the war in Ukraine and the concomitant reactions will have consequences we can't yet imagine or, frankly, predict and plan for. As economic concerns take a backseat over geopolitical objectives, so will final decisions and, inasmuch as policy affects them, the returns for risk assets.",
+      "keywords": [
+        "risk",
+        "but",
+        "economic",
+        "financial",
+        "high",
+        "investors",
+        "significant",
+        "war"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 261,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

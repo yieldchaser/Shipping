@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-24_2023_07_24_chinese_steel_export_peak_thesis_so_far_validated__root",
+  "doc_id": "breakwave_insights_insights_2023-07-24_2023_07_24_chinese_steel_export_peak_thesis_so_far_validated",
+  "parent_id": null,
+  "title": "Chinese Steel Export Peak Thesis So Far Validated",
+  "section_path": [
+    "Chinese Steel Export Peak Thesis So Far Validated"
+  ],
+  "section_path_text": "Chinese Steel Export Peak Thesis So Far Validated",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nBack in our June 12th Weekly Dry Bulk Report, we opined for the first time this year that China's steel exports had very likely peaked. At that time, May's data had just been released and that showed exports totaled a very robust 8.4 million tons (which marked the most exported since September 2016). While sentiment at the time was that exports would continue to rise - even Baosteel was publicly predicting a continue climb in China's steel exports - it appeared likely to us that exports would actually begin to fall due to a firming in global steel output outside of China coinciding with a decline in China's steel output.",
+  "keywords": [
+    "handysize",
+    "china",
+    "steel",
+    "exports",
+    "had",
+    "last",
+    "time",
+    "year-on-year",
+    "continue",
+    "down",
+    "our",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 386,
+  "source_path": "reports/breakwave/2023/2023-07-24_chinese-steel-export-peak-thesis-so-far-validated.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/24/chinese-steel-export-peak-thesis-so-far-validated",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-24_2023_07_24_chinese_steel_export_peak_thesis_so_far_validated__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-24_2023_07_24_chinese_steel_export_peak_thesis_so_far_validated",
+      "parent_id": "breakwave_insights_insights_2023-07-24_2023_07_24_chinese_steel_export_peak_thesis_so_far_validated__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nBack in our June 12th Weekly Dry Bulk Report, we opined for the first time this year that China's steel exports had very likely peaked. At that time, May's data had just been released and that showed exports totaled a very robust 8.4 million tons (which marked the most exported since September 2016).",
+      "keywords": [
+        "handysize",
+        "china",
+        "steel",
+        "exports",
+        "had",
+        "last",
+        "time",
+        "year-on-year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 384,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

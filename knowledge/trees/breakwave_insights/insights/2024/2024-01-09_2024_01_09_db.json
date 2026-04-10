@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-09_2024_01_09_db__root",
+  "doc_id": "breakwave_insights_insights_2024-01-09_2024_01_09_db",
+  "parent_id": null,
+  "title": "Db",
+  "section_path": [
+    "Db"
+  ],
+  "section_path_text": "Db",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Despite winter blues, expectations remain high - The first week of the New Year saw limited action as it relates to Capesize fixing. Geographically the tables have turned, with the Pacific spot market having weakened materially to below 20,000 while the Atlantic remains short in tonnage, at least for the month of January, with the respective spot rate sitting above 40,000 for the N. Yet, the futures market indicates significant deterioration in the spot average, and although the element of surprise is always at play, we believe this time around it is the spot market that will trend towards futures rather than the other way around.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "steel",
+    "demand",
+    "chinese",
+    "year",
+    "although"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 653,
+  "source_path": "reports/breakwave/2024/2024-01-09_db.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/9/db",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-09_2024_01_09_db__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-09_2024_01_09_db",
+      "parent_id": "breakwave_insights_insights_2024-01-09_2024_01_09_db__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Despite winter blues, expectations remain high - The first week of the New Year saw limited action as it relates to Capesize fixing. Geographically the tables have turned, with the Pacific spot market having weakened materially to below 20,000 while the Atlantic remains short in tonnage, at least for the month of January, with the respective spot rate sitting above 40,000 for the N.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific",
+        "iron_ore",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 651,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

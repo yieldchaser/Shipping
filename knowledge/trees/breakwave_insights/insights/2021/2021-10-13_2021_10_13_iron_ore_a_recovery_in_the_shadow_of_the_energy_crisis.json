@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-10-13_2021_10_13_iron_ore_a_recovery_in_the_shadow_of_the_energy_crisis__root",
+  "doc_id": "breakwave_insights_insights_2021-10-13_2021_10_13_iron_ore_a_recovery_in_the_shadow_of_the_energy_crisis",
+  "parent_id": null,
+  "title": "Iron Ore A Recovery In The Shadow Of The Energy Crisis",
+  "section_path": [
+    "Iron Ore A Recovery In The Shadow Of The Energy Crisis"
+  ],
+  "section_path_text": "Iron Ore A Recovery In The Shadow Of The Energy Crisis",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAs Chinese Golden Weeks come, the latest instalment did not conform to traditions and is likely to be treated as an outlier by analysts in the coming years. The weeklong national celebrations are typically the trigger for a slowdown in commodities and shipping markets activities, with prices and freight rates softening to some extent. While the rest of the world continues to trade, the sheer dominance of China in the markets usually mean it will have a global impact.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "steel",
+    "ore",
+    "iron",
+    "chinese",
+    "energy",
+    "may",
+    "could",
+    "imports",
+    "month"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 891,
+  "source_path": "reports/breakwave/2021/2021-10-13_iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/10/13/iron-ore-a-recovery-in-the-shadow-of-the-energy-crisis",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-10-13_2021_10_13_iron_ore_a_recovery_in_the_shadow_of_the_energy_crisis__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-10-13_2021_10_13_iron_ore_a_recovery_in_the_shadow_of_the_energy_crisis",
+      "parent_id": "breakwave_insights_insights_2021-10-13_2021_10_13_iron_ore_a_recovery_in_the_shadow_of_the_energy_crisis__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAs Chinese Golden Weeks come, the latest instalment did not conform to traditions and is likely to be treated as an outlier by analysts in the coming years. The weeklong national celebrations are typically the trigger for a slowdown in commodities and shipping markets activities, with prices and freight rates softening to some extent.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "steel",
+        "ore",
+        "iron",
+        "chinese",
+        "energy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 889,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__root",
+  "doc_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment",
+  "parent_id": null,
+  "title": "Dry Bulk Newbuilding Review The Spring Sentiment",
+  "section_path": [
+    "Dry Bulk Newbuilding Review The Spring Sentiment"
+  ],
+  "section_path_text": "Dry Bulk Newbuilding Review The Spring Sentiment",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAmid a climate of increased uncertainty fuelled by a variety of admittedly worrying factors, investors' appetite for newbuilding orders in the dry bulk segment remains relatively controlled, thus offering ground for low fleet growth and utilization projections. China's \"zero-covid\" policy measures that trigger concerns regarding domestic steel production and thereby iron ore demand as well as the Russia-Ukraine war which has jeopardised coal and grain cargo flows, appear to pressure contracting interest. The trend is further enhanced by the costly decarbonisation solutions that are being put forward and the technological challenges that lie ahead as well as the limited availability of slots in the yards.",
+  "keywords": [
+    "capesize",
+    "handysize",
+    "lng",
+    "china",
+    "japan",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "gas",
+    "chinese",
+    "ultramax"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1277,
+  "source_path": "reports/breakwave/2022/2022-05-19_dry-bulk-newbuilding-review-the-spring-sentiment.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/19/dry-bulk-newbuilding-review-the-spring-sentiment",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment",
+      "parent_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Amid a climate of increased uncertainty fuelled by a variety of admittedly worrying factors, investors' appetite for newbuilding orders in the dry bulk segment remains relatively controlled, thus offering ground for low fleet growth and utilization projections. China's \"zero-covid\" policy measures that trigger concerns regarding domestic steel production and thereby iron ore demand as well as the Russia-Ukraine war which has jeopardised coal and grain cargo flows, appear to pressure contracting interest.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "grain",
+        "steel",
+        "activity",
+        "compared",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 224,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__s02_contracting_activity_thus_far",
+      "doc_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment",
+      "parent_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__root",
+      "title": "Contracting Activity Thus Far",
+      "section_path": [
+        "Contracting Activity Thus Far"
+      ],
+      "section_path_text": "Contracting Activity Thus Far",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The lion's share of the bulker ordering is taken by the medium-sized Kamsarmax and Ultramax vessels, particularly in Chinese shipyards, while Japanese builders saw some fresh activity in the Capesize sector with LNG-fuelled vessel ordering by NYK Line. January and April were the busiest months of 2022 so far, with January taking a 23% share of the total volume of new orders and April 48%.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "china",
+        "japan",
+        "gas",
+        "chinese",
+        "ultramax",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 354,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__s03_indicative_chinese_newbuilding_prices",
+      "doc_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment",
+      "parent_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__root",
+      "title": "Indicative Chinese Newbuilding Prices",
+      "section_path": [
+        "Indicative Chinese Newbuilding Prices"
+      ],
+      "section_path_text": "Indicative Chinese Newbuilding Prices",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The activity of new orders at Chinese yards in April brings a spike in prices. In the Capesize segment, indicative prices rose above US$60m while in the Kamsarmax segment, levels stood in excess of US$35m.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "china",
+        "segment",
+        "above",
+        "activity",
+        "april",
+        "brings"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__s04_chinese_newbuilding_price_index",
+      "doc_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment",
+      "parent_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__root",
+      "title": "Chinese Newbuilding Price Index",
+      "section_path": [
+        "Chinese Newbuilding Price Index"
+      ],
+      "section_path_text": "Chinese Newbuilding Price Index",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The China Newbuilding Price Index (CNPI) released at the end of April rose by another 11 points to 1033, while the China Newbuilding Dry Price Index (CNDPI) has increased by 12 points to 1,066 (Chart 5). The index was higher in major vessel size categories: Newcastlemax (1.4%), Capesize (1.35%), Ultramax (1.35%), Handysize (1.1%), Kamsarmax (0.8%), with limited yard availability and an expected delivery in 2024.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "china",
+        "newbuilding",
+        "points",
+        "price",
+        "another",
+        "april"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__s05_lng_fuelled_fleet_development",
+      "doc_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment",
+      "parent_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__root",
+      "title": "LNG-fuelled Fleet Development",
+      "section_path": [
+        "LNG-fuelled Fleet Development"
+      ],
+      "section_path_text": "LNG-fuelled Fleet Development",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Capesize orderbook acquires the largest share in the overall dry bulk orderbook with mainly Newcastlemax and Capesize newbuildings to proceed with LNG technology. However, the overall dry bulk LNG-fuelled fleet, both in operation and on order, is at the lowest level compared to the other vessel segments (Chart 8).",
+      "keywords": [
+        "capesize",
+        "lng",
+        "gas",
+        "orderbook",
+        "overall",
+        "acquires",
+        "both",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 69,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__s06_tonnage_supply_growth_projections",
+      "doc_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment",
+      "parent_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__root",
+      "title": "Tonnage Supply Growth Projections",
+      "section_path": [
+        "Tonnage Supply Growth Projections"
+      ],
+      "section_path_text": "Tonnage Supply Growth Projections",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The orderbook to fleet ratio currenlty stands at nearly 8%, in terms of million dwt, cruising at a two-decade low (Chart 9). Further, the projected annual fleet growth remains controlled, by a gross 3% of the fleet for full year 2022.",
+      "keywords": [
+        "fleet",
+        "nearly",
+        "year",
+        "annual",
+        "are",
+        "assets",
+        "capacity",
+        "challenges"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__s07_going_forward",
+      "doc_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment",
+      "parent_id": "breakwave_insights_insights_2022-05-19_2022_05_19_dry_bulk_newbuilding_review_the_spring_sentiment__root",
+      "title": "Going Forward",
+      "section_path": [
+        "Going Forward"
+      ],
+      "section_path_text": "Going Forward",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Ultimately, the question is whether the projected mid-term fleet supply will outpace the existing and future dry bulk demand growth. In our view, we will be witnessing a two-tier market where the larger Capesize vessels will face increased volatility underpinned by the relatively weak steel industry in China, whereas the Sub-Capesize segment is likely to see a healthy demand, mainly assisted by the more flexible trade that these vessels can accommodate as well as the increased tonne-miles as a by-product of the geopolitical tensions in key regions.",
+      "keywords": [
+        "capesize",
+        "china",
+        "steel",
+        "are",
+        "relatively",
+        "year",
+        "appetite",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 269,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

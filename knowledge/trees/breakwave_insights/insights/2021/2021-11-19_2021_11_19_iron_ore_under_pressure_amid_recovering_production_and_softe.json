@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-11-19_2021_11_19_iron_ore_under_pressure_amid_recovering_production_and_softe__root",
+  "doc_id": "breakwave_insights_insights_2021-11-19_2021_11_19_iron_ore_under_pressure_amid_recovering_production_and_softe",
+  "parent_id": null,
+  "title": "Iron Ore Under Pressure Amid Recovering Production And Softening Demand",
+  "section_path": [
+    "Iron Ore Under Pressure Amid Recovering Production And Softening Demand"
+  ],
+  "section_path_text": "Iron Ore Under Pressure Amid Recovering Production And Softening Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAfter an extensive slide, iron ore prices have found some support at an eighteen-month low. Iron ore with 63.5 per cent iron content for delivery in Tianjin is currently trading at 85 dollars per tonne, a level that was last seen in May 2020 when China embarked on its spectacular V-shaped post-pandemic recovery. The recent travails of the Chinese economy, with softening demand for steel from a sluggish real estate and property sector, and the curbs on the country's steel production have received much of the blame for the bearish sentiment in the iron ore markets.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "per",
+    "production",
+    "are",
+    "cent",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1102,
+  "source_path": "reports/breakwave/2021/2021-11-19_iron-ore-under-pressure-amid-recovering-production-and-softe.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/11/19/iron-ore-under-pressure-amid-recovering-production-and-softening-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-11-19_2021_11_19_iron_ore_under_pressure_amid_recovering_production_and_softe__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-11-19_2021_11_19_iron_ore_under_pressure_amid_recovering_production_and_softe",
+      "parent_id": "breakwave_insights_insights_2021-11-19_2021_11_19_iron_ore_under_pressure_amid_recovering_production_and_softe__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAfter an extensive slide, iron ore prices have found some support at an eighteen-month low. Iron ore with 63.5 per cent iron content for delivery in Tianjin is currently trading at 85 dollars per tonne, a level that was last seen in May 2020 when China embarked on its spectacular V-shaped post-pandemic recovery.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1100,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

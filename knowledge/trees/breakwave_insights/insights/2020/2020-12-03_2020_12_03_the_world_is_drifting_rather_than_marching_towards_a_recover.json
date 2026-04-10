@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-12-03_2020_12_03_the_world_is_drifting_rather_than_marching_towards_a_recover__root",
+  "doc_id": "breakwave_insights_insights_2020-12-03_2020_12_03_the_world_is_drifting_rather_than_marching_towards_a_recover",
+  "parent_id": null,
+  "title": "The World Is Drifting Rather Than Marching Towards A Recovery",
+  "section_path": [
+    "The World Is Drifting Rather Than Marching Towards A Recovery"
+  ],
+  "section_path_text": "The World Is Drifting Rather Than Marching Towards A Recovery",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nWith a bit of selective reading it is possible to become rather optimistic about the immediate future for the global economy, with Chinese industrial production expanding and business activities in the service industry at the highest levels in a decade. Likewise, the US labour market shows signs of improvements, with less Americans filing for unemployment benefits last week, despite rising COVID19 infection rates. The seasonally adjusted numbers were considerable better than expected by many economists and the first drop in three weeks.",
+  "keywords": [
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "iron_ore",
+    "products",
+    "likely",
+    "can",
+    "chinese",
+    "restrictions",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 706,
+  "source_path": "reports/breakwave/2020/2020-12-03_the-world-is-drifting-rather-than-marching-towards-a-recover.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/12/3/the-world-is-drifting-rather-than-marching-towards-a-recovery",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-12-03_2020_12_03_the_world_is_drifting_rather_than_marching_towards_a_recover__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-12-03_2020_12_03_the_world_is_drifting_rather_than_marching_towards_a_recover",
+      "parent_id": "breakwave_insights_insights_2020-12-03_2020_12_03_the_world_is_drifting_rather_than_marching_towards_a_recover__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nWith a bit of selective reading it is possible to become rather optimistic about the immediate future for the global economy, with Chinese industrial production expanding and business activities in the service industry at the highest levels in a decade. Likewise, the US labour market shows signs of improvements, with less Americans filing for unemployment benefits last week, despite rising COVID19 infection rates.",
+      "keywords": [
+        "container",
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "iron_ore",
+        "products",
+        "likely"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 704,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

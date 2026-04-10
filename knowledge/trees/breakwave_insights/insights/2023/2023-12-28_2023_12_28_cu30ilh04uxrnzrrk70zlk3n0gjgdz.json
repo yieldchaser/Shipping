@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-12-28_2023_12_28_cu30ilh04uxrnzrrk70zlk3n0gjgdz__root",
+  "doc_id": "breakwave_insights_insights_2023-12-28_2023_12_28_cu30ilh04uxrnzrrk70zlk3n0gjgdz",
+  "parent_id": null,
+  "title": "Cu30Ilh04Uxrnzrrk70Zlk3N0Gjgdz",
+  "section_path": [
+    "Cu30Ilh04Uxrnzrrk70Zlk3N0Gjgdz"
+  ],
+  "section_path_text": "Cu30Ilh04Uxrnzrrk70Zlk3N0Gjgdz",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn the fourth quarter, the Israel-Hamas conflict led to increased geopolitical tensions, especially within the oil sector, reshaping dynamics within the industry. After the end of September, freight rates firmed in October, influenced notably by Russia. Based on a Bloomberg study, Russia successfully sold a significant volume of crude oil exports surpassing the $60/barrel price threshold.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "crude_oil",
+    "oil",
+    "crude",
+    "demand",
+    "barrels",
+    "growth",
+    "million",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 668,
+  "source_path": "reports/breakwave/2023/2023-12-28_cu30ilh04uxrnzrrk70zlk3n0gjgdz.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/12/28/cu30ilh04uxrnzrrk70zlk3n0gjgdz",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-12-28_2023_12_28_cu30ilh04uxrnzrrk70zlk3n0gjgdz__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-12-28_2023_12_28_cu30ilh04uxrnzrrk70zlk3n0gjgdz",
+      "parent_id": "breakwave_insights_insights_2023-12-28_2023_12_28_cu30ilh04uxrnzrrk70zlk3n0gjgdz__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the fourth quarter, the Israel-Hamas conflict led to increased geopolitical tensions, especially within the oil sector, reshaping dynamics within the industry. After the end of September, freight rates firmed in October, influenced notably by Russia.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "crude_oil",
+        "oil",
+        "crude",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 666,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

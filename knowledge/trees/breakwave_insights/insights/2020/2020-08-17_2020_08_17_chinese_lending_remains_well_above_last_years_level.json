@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-08-17_2020_08_17_chinese_lending_remains_well_above_last_years_level__root",
+  "doc_id": "breakwave_insights_insights_2020-08-17_2020_08_17_chinese_lending_remains_well_above_last_years_level",
+  "parent_id": null,
+  "title": "Chinese Lending Remains Well Above Last Years Level",
+  "section_path": [
+    "Chinese Lending Remains Well Above Last Years Level"
+  ],
+  "section_path_text": "Chinese Lending Remains Well Above Last Years Level",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nChinese banks issued 993 billion yuan in new loans in July, which marks a month-on-month decline of 817 billion yuan (-45%) and a year-on-year decline of 67 billion yuan (-6%). Despite the decline, the first seven months of this year have still seen lending grow year-on-year by 22%. In comparison, lending during all of last year grew year-on-year by only 4%.",
+  "keywords": [
+    "china",
+    "growth",
+    "loan",
+    "outstanding",
+    "year",
+    "billion",
+    "decline",
+    "last",
+    "lending",
+    "months",
+    "seen",
+    "year-on-year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 200,
+  "source_path": "reports/breakwave/2020/2020-08-17_chinese-lending-remains-well-above-last-years-level.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/8/17/chinese-lending-remains-well-above-last-years-level",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-08-17_2020_08_17_chinese_lending_remains_well_above_last_years_level__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-08-17_2020_08_17_chinese_lending_remains_well_above_last_years_level",
+      "parent_id": "breakwave_insights_insights_2020-08-17_2020_08_17_chinese_lending_remains_well_above_last_years_level__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Chinese banks issued 993 billion yuan in new loans in July, which marks a month-on-month decline of 817 billion yuan (-45%) and a year-on-year decline of 67 billion yuan (-6%). Despite the decline, the first seven months of this year have still seen lending grow year-on-year by 22%.",
+      "keywords": [
+        "china",
+        "growth",
+        "loan",
+        "outstanding",
+        "year",
+        "billion",
+        "decline",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 198,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

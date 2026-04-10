@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week Dry Bulk: Ton Miles\nRise in March-April to the highest level in last two years, with Surpamax marking a remarkable turnaround\nData Source: The Signal Ocean Platform, Dry Bulk Demand\nhttps://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nt6kk/311942776?h=WGo_srG_5_TZU4RFO_gL74q4FueMx7m3En4Er4t4UVE\nIn the first week of April, there were signs of firmness in the larger vessel segments, while there was some weakening in Supramax and Handysize vessels. Nonetheless, bulk demand growth in tonne-miles is now at its highest level in two years, with a notable turnaround in Supramax vessels. Using data from Signal Ocean, we can see the trend (left chart above) in total growth in tonne-miles for Capesize, Panamax, Supramax and Handysize this year compared to the previous two years, with a focus on Supramax (right chart).",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "australia",
+    "europe",
+    "coal",
+    "grain",
+    "steel",
+    "demand",
+    "number"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1152,
+  "source_path": "reports/breakwave/2023/2023-04-05_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/5/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_ton_miles",
+      "doc_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: Ton Miles",
+      "section_path": [
+        "Chart of the Week Dry Bulk: Ton Miles"
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: Ton Miles",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Rise in March-April to the highest level in last two years, with Surpamax marking a remarkable turnaround\nData Source: The Signal Ocean Platform, Dry Bulk Demand\nhttps://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nt6kk/311942776?h=WGo_srG_5_TZU4RFO_gL74q4FueMx7m3En4Er4t4UVE\nIn the first week of April, there were signs of firmness in the larger vessel segments, while there was some weakening in Supramax and Handysize vessels. Nonetheless, bulk demand growth in tonne-miles is now at its highest level in two years, with a notable turnaround in Supramax vessels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "grain",
+        "steel",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 308,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_capesize_panamax_firmer_supramax_handysize_softening",
+      "doc_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Capesize - Panamax Firmer | Supramax - Handysize Softening",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Capesize - Panamax Firmer | Supramax - Handysize Softening"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Capesize - Panamax Firmer | Supramax - Handysize Softening",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nIn early April, the strength of recent days in the smaller vessel categories has weakened, while rates for Capesize and Panamax vessels continue to rise. Capesize vessel freight rates are now at $21/tonne, up nearly $5/tonne from 5 weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "above",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__s03_section_2_supply_ballasters_vessels_capesize_panamax_decreasing_supramax_increasing",
+      "doc_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels) Capesize - Panamax Decreasing | Supramax Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels) Capesize - Panamax Decreasing | Supramax Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels) Capesize - Panamax Decreasing | Supramax Increasing",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ballast ships continues to decrease in the Capesize and Panamax segments, while increasing in the smaller ship categories. Capesize SE Africa: The number of vessels now stands at 70, down 2 from the previous week and 10 below the annual average.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "annual",
+        "vessels",
+        "above"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 167,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__s04_section_3_demand_tondays_increasing",
+      "doc_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Increasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Increasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "April marks a continued recovery in demand growth in the Panamax segment, and the Supramax segment also gives reason for further optimism, as recent growth appears to be the highest compared to the beginning of the year and last year. Capesize demand ton-days: The upward trend of the last six weeks continues, but we expect even higher growth rates in the second half of the year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "australia",
+        "coal",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__s05_section_4_port_congestion_no_of_vessels_increasing_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-05_2023_04_05_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Congestion continued the strong upward trend from late March, with the Handysize, Supramax, and Panamax segments continuing to lead in the last two weeks of the uptrend, approaching the highs seen in the final weeks of 2022. Capesize: The number of vessels now stands at 103, up 6 from the last week of March.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "ships",
+        "end",
+        "now"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

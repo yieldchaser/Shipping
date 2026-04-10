@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCongestion at Australia's major Queensland ports increased in January, compared with low levels in the previous two years, 2022 and 2021, with the latest record increase reportedly due to mainly a recovery in metallurgical coal demand as China reopens. The long list of vessels now tops 50, compared to about 20 in a similar week in January 2021. The recent ship queues at Australian coal ports have helped keep Panamax freight rates stable after they fell earlier in the year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "australia",
+    "europe",
+    "iron_ore",
+    "coal",
+    "january",
+    "vessels",
+    "number"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1073,
+  "source_path": "reports/breakwave/2023/2023-01-26_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/26/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Congestion at Australia's major Queensland ports increased in January, compared with low levels in the previous two years, 2022 and 2021, with the latest record increase reportedly due to mainly a recovery in metallurgical coal demand as China reopens. The long list of vessels now tops 50, compared to about 20 in a similar week in January 2021.",
+      "keywords": [
+        "panamax",
+        "china",
+        "australia",
+        "iron_ore",
+        "coal",
+        "iron",
+        "demand",
+        "january"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 269,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__s02_chart_of_the_week_dry_bulk_australian_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: Australian port congestion",
+      "section_path": [
+        "Chart of the Week Dry Bulk: Australian port congestion"
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: Australian port congestion",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Rising trend in January to the highest level since 2021\nData Source: The Signal Ocean Platform, Port Congestion, Australian Hay Point port\nhttps://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nkmh5/298760347?h=a_yy6abVdCKt3CV6MbzEhVRk7HkyYJ1H0aAx7Y4R9ws",
+      "keywords": [
+        "australia",
+        "port",
+        "a_yy6abvdckt3cv6mbzehvrk7hkyyj1h0aax7y4r9ws",
+        "australian",
+        "congestion",
+        "data",
+        "go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nkmh5/298760347",
+        "hay"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__s03_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nIn the last week of January, the weaker trend in spot freight rates continued for all ship size classes, with signs of recovery for Supramax and Panamax. Capesize vessel freight rates fell to $17/tonne, down $3.5/tonne from the last few days of December, while today's trend continues downward toward the end of the month.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "last",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 205,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__s04_section_2_supply_ballasters_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ballast ships increased significantly in the third week of January, with the exception of the Handysize segment. Capesize SE Africa: The number of vessels is now approaching the yearly average of 78, 20 more than the low in week 51.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "first",
+        "vessels",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__s05_section_3_demand_tondays_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Decreasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Decreasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Decreasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Demand growth continues to slow significantly, with sharp declines in all vessel categories, with the exception of supramax vessels, where there has been strong volatility, with no actual trend of increase or decrease. Capesize demand ton-days: The downward trend observed in January fuels the pessimistic outlook for a significant recovery toward the end of the month.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "trend",
+        "downward"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__s06_section_4_port_congestion_no_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-01-26_2023_01_26_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Dry bulk ships congested at Chinese ports\nIn the January days, congestion reached a new record level, surpassing the peak of week 52 last year. Capesize: The number of vessels held is about 150, 10 more than at the end of last year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "number",
+        "vessels",
+        "congested"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

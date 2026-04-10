@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-11-16_2020_11_16_global_grain_trade_estimate_raised__root",
+  "doc_id": "breakwave_insights_insights_2020-11-16_2020_11_16_global_grain_trade_estimate_raised",
+  "parent_id": null,
+  "title": "Global Grain Trade Estimate Raised",
+  "section_path": [
+    "Global Grain Trade Estimate Raised"
+  ],
+  "section_path_text": "Global Grain Trade Estimate Raised",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe United States Department of Agriculture (USDA) has released its latest trade forecast. Global grain exports for the 2020/21 cycle are now expected to total 458.9 million tons. This is 1.8 million tons more than was forecast last month and would mark a year-on-year jump of 16.7 million tons (4%) from the 457.1 million tons estimated for 2019/20.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "grain",
+    "million",
+    "year-on-year",
+    "expected",
+    "tons",
+    "exports",
+    "are",
+    "forecast"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 459,
+  "source_path": "reports/breakwave/2020/2020-11-16_global-grain-trade-estimate-raised.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/11/16/global-grain-trade-estimate-raised",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-11-16_2020_11_16_global_grain_trade_estimate_raised__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-11-16_2020_11_16_global_grain_trade_estimate_raised",
+      "parent_id": "breakwave_insights_insights_2020-11-16_2020_11_16_global_grain_trade_estimate_raised__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The United States Department of Agriculture (USDA) has released its latest trade forecast. Global grain exports for the 2020/21 cycle are now expected to total 458.9 million tons.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "grain",
+        "million",
+        "year-on-year",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 457,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

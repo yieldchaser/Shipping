@@ -1,0 +1,116 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly__root",
+  "doc_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly",
+  "parent_id": null,
+  "title": "Vortexa Freight Weekly",
+  "section_path": [
+    "Vortexa Freight Weekly"
+  ],
+  "section_path_text": "Vortexa Freight Weekly",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "VLCC rates subside || Impact of new EU sanctions negligible\nBy Ioannis Papadimitriou\nANALYSIS / EAST OF SUEZ / DIRTY\n\nVLCC rates under pressure, signalling weaker Chinese demand? Chart: China crude imports (LHS), vs VLCC utilisation to Asia (RHS)\nAll trademark VLCC rates across the globe have dropped markedly from recent peaks observed in late June. More specifically TD3C, TD15 as well as TD22 fell by 32%, 25% and 20% respectively.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "us_gulf",
+    "coal",
+    "crude_oil",
+    "crude",
+    "russia",
+    "sanctions",
+    "sts"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 485,
+  "source_path": "reports/breakwave/2023/2023-07-07_vortexa-freight-weekly.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/7/vortexa-freight-weekly",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly__s01_vlcc_rates_subside_impact_of_new_eu_sanctions_negligible",
+      "doc_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly__root",
+      "title": "VLCC rates subside || Impact of new EU sanctions negligible",
+      "section_path": [
+        "VLCC rates subside || Impact of new EU sanctions negligible"
+      ],
+      "section_path_text": "VLCC rates subside || Impact of new EU sanctions negligible",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ioannis Papadimitriou\nANALYSIS / EAST OF SUEZ / DIRTY",
+      "keywords": [
+        "analysis",
+        "dirty",
+        "east",
+        "ioannis",
+        "papadimitriou",
+        "suez"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly__s02_vlcc_rates_under_pressure_signalling_weaker_chinese_demand",
+      "doc_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly__root",
+      "title": "VLCC rates under pressure, signalling weaker Chinese demand?",
+      "section_path": [
+        "VLCC rates under pressure, signalling weaker Chinese demand?"
+      ],
+      "section_path_text": "VLCC rates under pressure, signalling weaker Chinese demand?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Chart: China crude imports (LHS), vs VLCC utilisation to Asia (RHS)\nAll trademark VLCC rates across the globe have dropped markedly from recent peaks observed in late June. More specifically TD3C, TD15 as well as TD22 fell by 32%, 25% and 20% respectively.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "west_africa",
+        "us_gulf",
+        "coal",
+        "crude_oil",
+        "crude",
+        "asia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly__s03_what_is_the_impact_of_new_eu_sanctions_on_crude_tankers",
+      "doc_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-07-07_2023_07_07_vortexa_freight_weekly__root",
+      "title": "What is the impact of new EU sanctions on crude tankers?",
+      "section_path": [
+        "What is the impact of new EU sanctions on crude tankers?"
+      ],
+      "section_path_text": "What is the impact of new EU sanctions on crude tankers?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Suezmaxes ballast distribution after discharging Russia crude barrels\nThe introduction of the EU sanctions programme against Russia confirmed a ban on EU ports for tankers that have undertaken \"dark\" STS transfers or if are suspected to be in breach of the price cap mechanism, or if they do not notify authorities at least 48 hours in advance about STS within a member states' Exclusive Economic Zone (EEZ). Looking however, at the fleet behaviour of vessels trading in Russia, the effect of the sanctions is expected to be minimal.",
+      "keywords": [
+        "suezmax",
+        "atlantic",
+        "russia",
+        "sts",
+        "are",
+        "vessels",
+        "dark",
+        "hand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 226,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

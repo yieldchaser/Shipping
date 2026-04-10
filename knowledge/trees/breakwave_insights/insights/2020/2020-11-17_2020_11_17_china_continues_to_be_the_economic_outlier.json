@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-11-17_2020_11_17_china_continues_to_be_the_economic_outlier__root",
+  "doc_id": "breakwave_insights_insights_2020-11-17_2020_11_17_china_continues_to_be_the_economic_outlier",
+  "parent_id": null,
+  "title": "China Continues To Be The Economic Outlier",
+  "section_path": [
+    "China Continues To Be The Economic Outlier"
+  ],
+  "section_path_text": "China Continues To Be The Economic Outlier",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nIndustrial production in China keeps rising, with the data for October showing better than expected growth and in line with the previous month's strong growth. The Chinese economic strength is at odds with most other countries, which again are grappling with rising COVID19 infection rates and new social restrictions. High-frequency data recently published by Bloomberg also showed economic activity dropping sharply in Europe, as new lockdowns and curbs take effect.",
+  "keywords": [
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "japan",
+    "coal",
+    "growth",
+    "production",
+    "are",
+    "industrial",
+    "chinese",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 546,
+  "source_path": "reports/breakwave/2020/2020-11-17_china-continues-to-be-the-economic-outlier.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/11/17/china-continues-to-be-the-economic-outlier",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-11-17_2020_11_17_china_continues_to_be_the_economic_outlier__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-11-17_2020_11_17_china_continues_to_be_the_economic_outlier",
+      "parent_id": "breakwave_insights_insights_2020-11-17_2020_11_17_china_continues_to_be_the_economic_outlier__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nIndustrial production in China keeps rising, with the data for October showing better than expected growth and in line with the previous month's strong growth. The Chinese economic strength is at odds with most other countries, which again are grappling with rising COVID19 infection rates and new social restrictions.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "japan",
+        "coal",
+        "growth",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 544,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

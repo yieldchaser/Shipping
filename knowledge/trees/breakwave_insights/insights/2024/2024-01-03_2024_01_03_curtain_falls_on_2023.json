@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-03_2024_01_03_curtain_falls_on_2023__root",
+  "doc_id": "breakwave_insights_insights_2024-01-03_2024_01_03_curtain_falls_on_2023",
+  "parent_id": null,
+  "title": "Curtain Falls On 2023",
+  "section_path": [
+    "Curtain Falls On 2023"
+  ],
+  "section_path_text": "Curtain Falls On 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs 2023 draws to a close, this tumultuous year stands out as a pivotal moment in recent trading history, marked by significant economic, geopolitical, and environmental upheavals. From combating record-high inflation rates to grappling with another fullscale war, a myriad of events and circumstances continuously reshaped dynamics and balances across global markets. The ardently awaited post-pandemic recovery encountered significant hurdles in the latter half of the challenging 2022, as the global economy was facing an uncommon alignment of adversities.",
+  "keywords": [
+    "china",
+    "global",
+    "economic",
+    "growth",
+    "trade",
+    "was",
+    "economy",
+    "demand",
+    "geopolitical",
+    "inflation",
+    "widespread",
+    "year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 861,
+  "source_path": "reports/breakwave/2024/2024-01-03_curtain-falls-on-2023.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/3/curtain-falls-on-2023",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-03_2024_01_03_curtain_falls_on_2023__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-03_2024_01_03_curtain_falls_on_2023",
+      "parent_id": "breakwave_insights_insights_2024-01-03_2024_01_03_curtain_falls_on_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As 2023 draws to a close, this tumultuous year stands out as a pivotal moment in recent trading history, marked by significant economic, geopolitical, and environmental upheavals. From combating record-high inflation rates to grappling with another fullscale war, a myriad of events and circumstances continuously reshaped dynamics and balances across global markets.",
+      "keywords": [
+        "china",
+        "global",
+        "economic",
+        "growth",
+        "trade",
+        "was",
+        "economy",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 859,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

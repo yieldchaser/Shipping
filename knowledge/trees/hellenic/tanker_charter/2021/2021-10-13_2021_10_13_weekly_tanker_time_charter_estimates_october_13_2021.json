@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_tanker_charter_2021-10-13_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021__root",
+  "doc_id": "hellenic_tanker_charter_2021-10-13_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, October 13 2021",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, October 13 2021"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, October 13 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA flat week for the crude market and although the global energy supply shortage has boosted sentiment somewhat, this has yet to translate to any upwards momentum in rates. On the clean side, there has been some demand for LR2s this week with interest shown from charterers for both eco and non eco vessels, one-year rates for this sector remained at an estimated $16,500/pdpr. Oil prices surged to the highest levels in three years fueled by hopes of rebounding global demand and energy shortages in key economies such as China.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "demand",
+    "eco",
+    "energy",
+    "global",
+    "although",
+    "any",
+    "boosted",
+    "both",
+    "charterers",
+    "china."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 140,
+  "source_path": "reports/hellenic/tanker_charter/2021/2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-october-13-2021",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2021-10-13_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021__s01_main",
+      "doc_id": "hellenic_tanker_charter_2021-10-13_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021",
+      "parent_id": "hellenic_tanker_charter_2021-10-13_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A flat week for the crude market and although the global energy supply shortage has boosted sentiment somewhat, this has yet to translate to any upwards momentum in rates. On the clean side, there has been some demand for LR2s this week with interest shown from charterers for both eco and non eco vessels, one-year rates for this sector remained at an estimated $16,500/pdpr.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "demand",
+        "eco",
+        "energy",
+        "global",
+        "although",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

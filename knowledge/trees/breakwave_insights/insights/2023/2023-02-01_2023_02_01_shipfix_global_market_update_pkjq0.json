@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__root",
+  "doc_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update Pkjq0",
+  "section_path": [
+    "Shipfix Global Market Update Pkjq0"
+  ],
+  "section_path_text": "Shipfix Global Market Update Pkjq0",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nThe International Monetary Fund began the year with a few pessimistic statements regarding the outlook for the global economy from some of its leading officials, which led many to assume that the organisation was preparing the ground for a downgrade of its economic projections. The World Bank also followed suit with a downgrade of its forecast for growth in the year ahead. However, today's release of the IMF's World Economic Outlook provided an upgrade to the institution's expectations for the year, compared to the previous projections published in October last year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1184,
+  "source_path": "reports/breakwave/2023/2023-02-01_shipfix-global-market-update-pkjq0.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/1/shipfix-global-market-update-Pkjq0",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0",
+      "parent_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0",
+      "parent_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The International Monetary Fund began the year with a few pessimistic statements regarding the outlook for the global economy from some of its leading officials, which led many to assume that the organisation was preparing the ground for a downgrade of its economic projections. The World Bank also followed suit with a downgrade of its forecast for growth in the year ahead.",
+      "keywords": [
+        "china",
+        "year",
+        "economic",
+        "was",
+        "chinese",
+        "economy",
+        "its",
+        "current"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 241,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0",
+      "parent_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The return to normality following the Chinese holidays did not boost the crude oil markets. The Brent futures retreated by 2.2 per cent on Monday as traders worried about the prospects of more interest hikes from some of the world's leading central banks during the coming week.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 452,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0",
+      "parent_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index ended its recent run of daily declines with a gain of 0.6 per cent on Monday. While the sub-index for the Capesizes remained in the red with a minor 0.2 per cent retreat, the freight rate indicators for the mid and small-sized segments were all in the black yesterday.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 267,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0",
+      "parent_id": "breakwave_insights_insights_2023-02-01_2023_02_01_shipfix_global_market_update_pkjq0__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "After giving up considerable ground from the high recorded during the second quarter of last year, soybean prices have been trending higher since October. Chinese buyers' renewed appetite for the oilseed has contributed to the gains.",
+      "keywords": [
+        "china",
+        "grain",
+        "crude_oil",
+        "chinese",
+        "orders",
+        "prices",
+        "recent",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 191,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

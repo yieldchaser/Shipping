@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week : Dry Bulk Capesize Demand\nCapesize tonne days growth from Brazil to China reaches new high, surpassing last year's growth\nThe third week of October witnessed robust Capesize Brazil to China freight rates, as indicated in the chart above. Furthermore, the demand in tonne days exhibited a noteworthy surge in recent days. Nevertheless, the recent uptick in the number of ballasters presents a downward pressure to the latest recovery signs.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "iron_ore",
+    "number",
+    "demand",
+    "ships",
+    "trend",
+    "downward"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 802,
+  "source_path": "reports/breakwave/2023/2023-10-18_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/10/18/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_capesize_demand",
+      "doc_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week : Dry Bulk Capesize Demand",
+      "section_path": [
+        "Chart of the Week : Dry Bulk Capesize Demand"
+      ],
+      "section_path_text": "Chart of the Week : Dry Bulk Capesize Demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize tonne days growth from Brazil to China reaches new high, surpassing last year's growth\nThe third week of October witnessed robust Capesize Brazil to China freight rates, as indicated in the chart above. Furthermore, the demand in tonne days exhibited a noteworthy surge in recent days.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "recent",
+        "bank",
+        "banking",
+        "billion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Mixed\nIn terms of the number of ballast vessels, the third week of October saw an upward trend in all ship size segments, with peaks in Supramax and Handysize. Capesize SE Africa: The number of ballasters rose to 88, 13 higher than the low of week 39, and 3 below the annual average.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "trend",
+        "annual",
+        "ballast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 234,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report__s03_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size Tonne Days Mixed\nThere are still signs of recovery in the Capesize segment, while the downward trend continues in the other ship size categories. Capesize: Demand growth peaked in the previous week and seemed to stabilise towards the end of the month.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "end",
+        "growth",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report__s04_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-18_2023_10_18_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Dry bulk ships congested at Chinese ports No of Vessels Decreasing\nThe level of ship congestion decreased in the third week of October, with a downward trend in the Capesize, Panamax and Handysize segments. Capesize: The number of congested vessels fell below 100, defying previous records of a higher level.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "congested",
+        "number",
+        "ships"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-14_2022_06_14_metals_fall_sharply_amid_a_broader_risk_off_across_markets__root",
+  "doc_id": "breakwave_insights_insights_2022-06-14_2022_06_14_metals_fall_sharply_amid_a_broader_risk_off_across_markets",
+  "parent_id": null,
+  "title": "Metals Fall Sharply Amid A Broader Risk Off Across Markets",
+  "section_path": [
+    "Metals Fall Sharply Amid A Broader Risk Off Across Markets"
+  ],
+  "section_path_text": "Metals Fall Sharply Amid A Broader Risk Off Across Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nA broad risk-off tone across markets saw commodities start the week under further pressure. Precious and industrial metals led the complex lower as the USD weighed on investor appetite. Gold fell the most in three months as rampant inflation raised the prospect of aggressive monetary tightening by the US Federal Reserve.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "crude_oil",
+    "gas",
+    "oil",
+    "could",
+    "demand.",
+    "european",
+    "further",
+    "its",
+    "strong"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 753,
+  "source_path": "reports/breakwave/2022/2022-06-14_metals-fall-sharply-amid-a-broader-risk-off-across-markets.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/14/metals-fall-sharply-amid-a-broader-risk-off-across-markets",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-14_2022_06_14_metals_fall_sharply_amid_a_broader_risk_off_across_markets__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-14_2022_06_14_metals_fall_sharply_amid_a_broader_risk_off_across_markets",
+      "parent_id": "breakwave_insights_insights_2022-06-14_2022_06_14_metals_fall_sharply_amid_a_broader_risk_off_across_markets__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nA broad risk-off tone across markets saw commodities start the week under further pressure. Precious and industrial metals led the complex lower as the USD weighed on investor appetite.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "crude_oil",
+        "gas",
+        "oil",
+        "could",
+        "demand."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 751,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

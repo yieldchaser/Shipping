@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-12_2023_06_12_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-06-12_2023_06_12_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"Geared segments concluded today in the red, mirroring concerns for the big picture on their balancing levels. On the flip side, gearless segments focused on specific commodity trades and reported weekly gains, anticipating more active weeks in the usual staple iron ore and grain runs.\"\nBy Michalis Voutsinas\nAfter growing 3.1 percent last year, global economy is set to slow substantially to 2.1 percent during the current trading year, amid continued monetary policy tightening to rein in high inflation, according to the World Bank. In 2024, the economy is forecasted to recover tepidly to 2.4 percent.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "percent",
+    "year",
+    "may",
+    "growth",
+    "economic",
+    "expected"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1026,
+  "source_path": "reports/breakwave/2023/2023-06-12_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/12/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-12_2023_06_12_doric_weekly_market_insight__s01_geared_segments_concluded_today_in_the_red_mirroring_concerns_for_the_big_picture_on_their_balancing_levels_on_the_flip_side_gearless_segments_focused_on_specific_commodity_trades_and_reported_weekly_gains_anticipating_more_active_weeks_in_the_usual_staple_iron_ore_and_grain_runs",
+      "doc_id": "breakwave_insights_insights_2023-06-12_2023_06_12_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-06-12_2023_06_12_doric_weekly_market_insight__root",
+      "title": "\"Geared segments concluded today in the red, mirroring concerns for the big picture on their balancing levels. On the flip side, gearless segments focused on specific commodity trades and reported weekly gains, anticipating more active weeks in the usual staple iron ore and grain runs.\"",
+      "section_path": [
+        "\"Geared segments concluded today in the red, mirroring concerns for the big picture on their balancing levels. On the flip side, gearless segments focused on specific commodity trades and reported weekly gains, anticipating more active weeks in the usual staple iron ore and grain runs.\""
+      ],
+      "section_path_text": "\"Geared segments concluded today in the red, mirroring concerns for the big picture on their balancing levels. On the flip side, gearless segments focused on specific commodity trades and reported weekly gains, anticipating more active weeks in the usual staple iron ore and grain runs.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nAfter growing 3.1 percent last year, global economy is set to slow substantially to 2.1 percent during the current trading year, amid continued monetary policy tightening to rein in high inflation, according to the World Bank. In 2024, the economy is forecasted to recover tepidly to 2.4 percent.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "steel",
+        "percent",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 972,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-10-28_2021_10_28_mmi_daily_iron_ore_index_report_october_28_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-10-28_2021_10_28_mmi_daily_iron_ore_index_report_october_28_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report October 28 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report October 28 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report October 28 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 28/10/2021\nDCE iron ore futures market falling trends, the main contract closed 683.5, an decrease of 2.36% throughout the day; the quotation in themorning was decreased by 30-40 yuan/mt over lastday; Market wait-and-see sentiment increased. PBF at Shandong port dealt 800 yuan/mt, decreased 25-45 yuan/mt over yesterday; PBF at Tangshan port dealt 810 yuan/mt, decreased 30-35 yuan/mt over yesterday.PB lump trading volumes has increased. Since 20 o ‘clock yesterday, tangshan city started heavy pollution weather II emergency response, lifting time to notice; According to SMM, during the warning period, 15 blast furnaces at 11 steel mills were involved in the suspension of production, affecting about 45,800 tons of molten iron per day.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "iron",
+    "decreased",
+    "ore",
+    "dealt",
+    "increased.",
+    "main",
+    "pbf",
+    "port"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 264,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-10-28_mmi-daily-iron-ore-index-report-october-28-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-28-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-10-28_2021_10_28_mmi_daily_iron_ore_index_report_october_28_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-10-28_2021_10_28_mmi_daily_iron_ore_index_report_october_28_2021",
+      "parent_id": "hellenic_iron_ore_2021-10-28_2021_10_28_mmi_daily_iron_ore_index_report_october_28_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 28/10/2021\nDCE iron ore futures market falling trends, the main contract closed 683.5, an decrease of 2.36% throughout the day; the quotation in themorning was decreased by 30-40 yuan/mt over lastday; Market wait-and-see sentiment increased. PBF at Shandong port dealt 800 yuan/mt, decreased 25-45 yuan/mt over yesterday; PBF at Tangshan port dealt 810 yuan/mt, decreased 30-35 yuan/mt over yesterday.PB lump trading volumes has increased.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "iron",
+        "decreased",
+        "ore",
+        "dealt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

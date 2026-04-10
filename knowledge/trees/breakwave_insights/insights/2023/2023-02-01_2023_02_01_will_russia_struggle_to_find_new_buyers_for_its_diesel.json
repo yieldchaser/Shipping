@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-01_2023_02_01_will_russia_struggle_to_find_new_buyers_for_its_diesel__root",
+  "doc_id": "breakwave_insights_insights_2023-02-01_2023_02_01_will_russia_struggle_to_find_new_buyers_for_its_diesel",
+  "parent_id": null,
+  "title": "Will Russia Struggle To Find New Buyers For Its Diesel",
+  "section_path": [
+    "Will Russia Struggle To Find New Buyers For Its Diesel"
+  ],
+  "section_path_text": "Will Russia Struggle To Find New Buyers For Its Diesel",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWe review the trends in Russian diesel, crude and other products for exports, imports and oil on the water, singling out factors that define the ease of reshuffling. By David Wech\nΜany market commentators suggest that the diesel reshuffling, necessary with the EU Russian product import ban taking place on Feb 5, will be more challenging than the relatively easy sailing on the crude oil side. While there is surely a lot of uncertainty ahead, we will raise in this blog a couple of factors suggesting a smooth transition on diesel as well.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "russian",
+    "diesel",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1584,
+  "source_path": "reports/breakwave/2023/2023-02-01_will-russia-struggle-to-find-new-buyers-for-its-diesel.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/1/will-russia-struggle-to-find-new-buyers-for-its-diesel",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-01_2023_02_01_will_russia_struggle_to_find_new_buyers_for_its_diesel__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-01_2023_02_01_will_russia_struggle_to_find_new_buyers_for_its_diesel",
+      "parent_id": "breakwave_insights_insights_2023-02-01_2023_02_01_will_russia_struggle_to_find_new_buyers_for_its_diesel__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "We review the trends in Russian diesel, crude and other products for exports, imports and oil on the water, singling out factors that define the ease of reshuffling. By David Wech\nΜany market commentators suggest that the diesel reshuffling, necessary with the EU Russian product import ban taking place on Feb 5, will be more challenging than the relatively easy sailing on the crude oil side.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1582,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

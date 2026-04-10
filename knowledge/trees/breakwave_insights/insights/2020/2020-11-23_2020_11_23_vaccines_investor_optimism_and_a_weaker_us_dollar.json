@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-11-23_2020_11_23_vaccines_investor_optimism_and_a_weaker_us_dollar__root",
+  "doc_id": "breakwave_insights_insights_2020-11-23_2020_11_23_vaccines_investor_optimism_and_a_weaker_us_dollar",
+  "parent_id": null,
+  "title": "Vaccines Investor Optimism And A Weaker Us Dollar",
+  "section_path": [
+    "Vaccines Investor Optimism And A Weaker Us Dollar"
+  ],
+  "section_path_text": "Vaccines Investor Optimism And A Weaker Us Dollar",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAs China forges ahead with its economic recovery, Europe appears to be on the second leg down in what could turn out to be a W-shaped recovery. The results of IHS Markit's survey of purchasing managers across the Eurozone indicate that the 19-members bloc is slipping back into contraction. Hardly surprising, the service sector is leading the plunge, as restaurants and other parts of the hospitality industry have been forced to close in many countries.",
+  "keywords": [
+    "china",
+    "brazil",
+    "europe",
+    "crude_oil",
+    "could",
+    "investors",
+    "recovery",
+    "demand",
+    "its",
+    "not",
+    "parts",
+    "sector"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 575,
+  "source_path": "reports/breakwave/2020/2020-11-23_vaccines-investor-optimism-and-a-weaker-us-dollar.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/11/23/vaccines-investor-optimism-and-a-weaker-us-dollar",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-11-23_2020_11_23_vaccines_investor_optimism_and_a_weaker_us_dollar__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-11-23_2020_11_23_vaccines_investor_optimism_and_a_weaker_us_dollar",
+      "parent_id": "breakwave_insights_insights_2020-11-23_2020_11_23_vaccines_investor_optimism_and_a_weaker_us_dollar__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAs China forges ahead with its economic recovery, Europe appears to be on the second leg down in what could turn out to be a W-shaped recovery. The results of IHS Markit's survey of purchasing managers across the Eurozone indicate that the 19-members bloc is slipping back into contraction.",
+      "keywords": [
+        "china",
+        "brazil",
+        "europe",
+        "crude_oil",
+        "could",
+        "investors",
+        "recovery",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 573,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

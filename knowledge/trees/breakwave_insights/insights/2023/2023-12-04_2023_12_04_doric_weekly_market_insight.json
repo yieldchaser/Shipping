@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-12-04_2023_12_04_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-12-04_2023_12_04_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"During the forty-eighth trading week, the spot market appeared solely fixated on one question: How high could it soar?\"\nBy Michalis Voutsinas\nIn sharp contrast to the euphoric feeling of the spot market, the Organisation for Economic Cooperation and Development has expressed concerns for the course of global economy in the following year. The global product proved more resilient than expected in the first half of 2023, but the growth outlook remains weak. The global economy is expected to slow slightly next year but the risk of a hard landing has subsided despite high levels of debt and uncertainty over interest rates, OECD stressed on Wednesday.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "india",
+    "japan",
+    "coal",
+    "grain",
+    "growth",
+    "percent"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1120,
+  "source_path": "reports/breakwave/2023/2023-12-04_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/12/4/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-12-04_2023_12_04_doric_weekly_market_insight__s01_during_the_forty_eighth_trading_week_the_spot_market_appeared_solely_fixated_on_one_question_how_high_could_it_soar",
+      "doc_id": "breakwave_insights_insights_2023-12-04_2023_12_04_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-12-04_2023_12_04_doric_weekly_market_insight__root",
+      "title": "\"During the forty-eighth trading week, the spot market appeared solely fixated on one question: How high could it soar?\"",
+      "section_path": [
+        "\"During the forty-eighth trading week, the spot market appeared solely fixated on one question: How high could it soar?\""
+      ],
+      "section_path_text": "\"During the forty-eighth trading week, the spot market appeared solely fixated on one question: How high could it soar?\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nIn sharp contrast to the euphoric feeling of the spot market, the Organisation for Economic Cooperation and Development has expressed concerns for the course of global economy in the following year. The global product proved more resilient than expected in the first half of 2023, but the growth outlook remains weak.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "india",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1094,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

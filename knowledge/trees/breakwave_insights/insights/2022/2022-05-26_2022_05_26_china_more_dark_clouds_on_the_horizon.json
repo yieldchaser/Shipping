@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-26_2022_05_26_china_more_dark_clouds_on_the_horizon__root",
+  "doc_id": "breakwave_insights_insights_2022-05-26_2022_05_26_china_more_dark_clouds_on_the_horizon",
+  "parent_id": null,
+  "title": "China More Dark Clouds On The Horizon",
+  "section_path": [
+    "China More Dark Clouds On The Horizon"
+  ],
+  "section_path_text": "China More Dark Clouds On The Horizon",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nChina's recent release of disappointing data for industrial production during April has triggered a new round of downgrades to growth projections among economists and other China watchers. While the first-quarter growth was more robust than expected, it did not reflect the period of extensive restrictions that the Chinese economy has faced in light of the recent flare-up of Covid infection rates. However, with last month dominated by lockdowns in Shanghai and other Chinese provinces, the industrial production data for April could serve as a leading indicator for the second-quarter growth.",
+  "keywords": [
+    "china",
+    "coal",
+    "chinese",
+    "economy",
+    "country",
+    "growth",
+    "commodity",
+    "recent",
+    "volumes",
+    "imports",
+    "last",
+    "april"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1398,
+  "source_path": "reports/breakwave/2022/2022-05-26_china-more-dark-clouds-on-the-horizon.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/26/china-more-dark-clouds-on-the-horizon",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-26_2022_05_26_china_more_dark_clouds_on_the_horizon__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-26_2022_05_26_china_more_dark_clouds_on_the_horizon",
+      "parent_id": "breakwave_insights_insights_2022-05-26_2022_05_26_china_more_dark_clouds_on_the_horizon__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nChina's recent release of disappointing data for industrial production during April has triggered a new round of downgrades to growth projections among economists and other China watchers. While the first-quarter growth was more robust than expected, it did not reflect the period of extensive restrictions that the Chinese economy has faced in light of the recent flare-up of Covid infection rates.",
+      "keywords": [
+        "china",
+        "coal",
+        "chinese",
+        "economy",
+        "country",
+        "growth",
+        "commodity",
+        "recent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1396,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

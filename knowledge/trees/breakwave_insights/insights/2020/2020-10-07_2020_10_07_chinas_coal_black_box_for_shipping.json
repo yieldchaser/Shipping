@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-10-07_2020_10_07_chinas_coal_black_box_for_shipping__root",
+  "doc_id": "breakwave_insights_insights_2020-10-07_2020_10_07_chinas_coal_black_box_for_shipping",
+  "parent_id": null,
+  "title": "Chinas Coal Black Box For Shipping",
+  "section_path": [
+    "Chinas Coal Black Box For Shipping"
+  ],
+  "section_path_text": "Chinas Coal Black Box For Shipping",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCoal is the second most important commodity for dry bulk behind iron ore, and in the last several years, coal trading has been a swing factor when it comes to the strength of the broader dry bulk market. With most of the world rapidly eliminating coal from its energy mix, especially in the western world, China has been left as the only demand growth region for coal as it continues to add considerable coal power generation capacity in its energy mix. For dry bulk, such a development is welcomed news, although it does not totally offset declining demand elsewhere especially given the relatively short distances involved (Indonesia, South Africa and Australia are the three major exporting regions when it comes to coal).",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "year",
+    "imports",
+    "trading",
+    "growth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 996,
+  "source_path": "reports/breakwave/2020/2020-10-07_chinas-coal-black-box-for-shipping.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/10/7/chinas-coal-black-box-for-shipping",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-10-07_2020_10_07_chinas_coal_black_box_for_shipping__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-10-07_2020_10_07_chinas_coal_black_box_for_shipping",
+      "parent_id": "breakwave_insights_insights_2020-10-07_2020_10_07_chinas_coal_black_box_for_shipping__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Coal is the second most important commodity for dry bulk behind iron ore, and in the last several years, coal trading has been a swing factor when it comes to the strength of the broader dry bulk market. With most of the world rapidly eliminating coal from its energy mix, especially in the western world, China has been left as the only demand growth region for coal as it continues to add considerable coal power generation capacity in its energy mix.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 994,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

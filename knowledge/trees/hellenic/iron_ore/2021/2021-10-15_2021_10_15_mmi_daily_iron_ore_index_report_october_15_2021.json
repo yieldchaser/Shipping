@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-10-15_2021_10_15_mmi_daily_iron_ore_index_report_october_15_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-10-15_2021_10_15_mmi_daily_iron_ore_index_report_october_15_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report October 15 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report October 15 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report October 15 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 15/10/2021\nAs of October 15, the iron ore inventories across 35 ports tracked by SMM totalled 137.82 million mt, up 4.11 million mt from a week ago and11.15 million mt from a year ago. The daily average deliveries from the 35 ports decreased 68,000 mt on a weekly basis to 2.59 million mt, the lowest in nearly two months. Recently, more imported ore arrived at Chinese ports.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "ports",
+    "million",
+    "ore",
+    "port",
+    "yuan/mt",
+    "iron",
+    "main"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 414,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-10-15_mmi-daily-iron-ore-index-report-october-15-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-15-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-10-15_2021_10_15_mmi_daily_iron_ore_index_report_october_15_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-10-15_2021_10_15_mmi_daily_iron_ore_index_report_october_15_2021",
+      "parent_id": "hellenic_iron_ore_2021-10-15_2021_10_15_mmi_daily_iron_ore_index_report_october_15_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 15/10/2021\nAs of October 15, the iron ore inventories across 35 ports tracked by SMM totalled 137.82 million mt, up 4.11 million mt from a week ago and11.15 million mt from a year ago. The daily average deliveries from the 35 ports decreased 68,000 mt on a weekly basis to 2.59 million mt, the lowest in nearly two months.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "ports",
+        "million",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 412,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

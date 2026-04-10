@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-10-15_2020_10_15_the_chinese_economy_continues_to_show_strength_exports_and_i__root",
+  "doc_id": "breakwave_insights_insights_2020-10-15_2020_10_15_the_chinese_economy_continues_to_show_strength_exports_and_i",
+  "parent_id": null,
+  "title": "The Chinese Economy Continues To Show Strength Exports And Imports On The Rise",
+  "section_path": [
+    "The Chinese Economy Continues To Show Strength Exports And Imports On The Rise"
+  ],
+  "section_path_text": "The Chinese Economy Continues To Show Strength Exports And Imports On The Rise",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n﻿ The Chinese economy continues to show considerable strength, with exports rising for the fourth consecutive month in September and beating the economists' expectations yet again. The exports increased by just shy of ten percent in US dollar terms, compared to the same month last year and it was also 1.9 percent higher than the previous month. However, despite the recent solid statistics, the total export volumes for the year-to-date are still lagging compared to the same period last year.",
+  "keywords": [
+    "china",
+    "pacific",
+    "europe",
+    "iron_ore",
+    "grain",
+    "products",
+    "chinese",
+    "percent",
+    "exports",
+    "are",
+    "dollar",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 553,
+  "source_path": "reports/breakwave/2020/2020-10-15_the-chinese-economy-continues-to-show-strength-exports-and-i.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/10/15/the-chinese-economy-continues-to-show-strength-exports-and-imports-on-the-rise",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-10-15_2020_10_15_the_chinese_economy_continues_to_show_strength_exports_and_i__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-10-15_2020_10_15_the_chinese_economy_continues_to_show_strength_exports_and_i",
+      "parent_id": "breakwave_insights_insights_2020-10-15_2020_10_15_the_chinese_economy_continues_to_show_strength_exports_and_i__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\n﻿ The Chinese economy continues to show considerable strength, with exports rising for the fourth consecutive month in September and beating the economists' expectations yet again. The exports increased by just shy of ten percent in US dollar terms, compared to the same month last year and it was also 1.9 percent higher than the previous month.",
+      "keywords": [
+        "china",
+        "pacific",
+        "europe",
+        "iron_ore",
+        "grain",
+        "products",
+        "chinese",
+        "percent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 551,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

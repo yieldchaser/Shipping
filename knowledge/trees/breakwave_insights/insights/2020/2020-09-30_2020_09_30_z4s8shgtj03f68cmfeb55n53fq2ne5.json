@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-09-30_2020_09_30_z4s8shgtj03f68cmfeb55n53fq2ne5__root",
+  "doc_id": "breakwave_insights_insights_2020-09-30_2020_09_30_z4s8shgtj03f68cmfeb55n53fq2ne5",
+  "parent_id": null,
+  "title": "Z4S8Shgtj03F68Cmfeb55N53Fq2Ne5",
+  "section_path": [
+    "Z4S8Shgtj03F68Cmfeb55N53Fq2Ne5"
+  ],
+  "section_path_text": "Z4S8Shgtj03F68Cmfeb55N53Fq2Ne5",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize spot rates carried on with their ascent undisturbed, as both the Pacific and the Atlantic markets continue to post gains day after day. Increasing Brazilian iron ore exports remain the main driver in the Atlantic while more cargo flow out of Canada and West Africa are adding fuel to the fire when it comes to the demand side. Given that the European economy still struggling, iron ore cargoes destined for the Continent (mainly from Canada) have now to find a new home, and China's appetite for the steelmaking ingredient remains robust.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "iron_ore",
+    "coal",
+    "steel",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 899,
+  "source_path": "reports/breakwave/2020/2020-09-30_z4s8shgtj03f68cmfeb55n53fq2ne5.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/9/30/z4s8shgtj03f68cmfeb55n53fq2ne5",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-09-30_2020_09_30_z4s8shgtj03f68cmfeb55n53fq2ne5__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-09-30_2020_09_30_z4s8shgtj03f68cmfeb55n53fq2ne5",
+      "parent_id": "breakwave_insights_insights_2020-09-30_2020_09_30_z4s8shgtj03f68cmfeb55n53fq2ne5__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize spot rates carried on with their ascent undisturbed, as both the Pacific and the Atlantic markets continue to post gains day after day. Increasing Brazilian iron ore exports remain the main driver in the Atlantic while more cargo flow out of Canada and West Africa are adding fuel to the fire when it comes to the demand side.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 897,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

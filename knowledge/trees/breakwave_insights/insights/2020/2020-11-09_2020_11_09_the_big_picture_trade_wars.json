@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-11-09_2020_11_09_the_big_picture_trade_wars__root",
+  "doc_id": "breakwave_insights_insights_2020-11-09_2020_11_09_the_big_picture_trade_wars",
+  "parent_id": null,
+  "title": "The Big Picture Trade Wars",
+  "section_path": [
+    "The Big Picture Trade Wars"
+  ],
+  "section_path_text": "The Big Picture Trade Wars",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nick Ristic\nBackground\nEarlier this year, diplomatic tensions between Canberra and Beijing flared up over calls from the Australian government for an investigation into the origins of the Covid-19 outbreak. As we covered at the time, this was followed by China imposing restrictions on imports of Australian produce, in the form of an 80% tariff on barley purchases. Since then, the dispute has continued to rumble on, encroaching more and more on dry bulk trade.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "india",
+    "iron_ore",
+    "coal",
+    "steel",
+    "gas",
+    "australian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1318,
+  "source_path": "reports/breakwave/2020/2020-11-09_the-big-picture-trade-wars.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/11/9/the-big-picture-trade-wars",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-11-09_2020_11_09_the_big_picture_trade_wars__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-11-09_2020_11_09_the_big_picture_trade_wars",
+      "parent_id": "breakwave_insights_insights_2020-11-09_2020_11_09_the_big_picture_trade_wars__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nick Ristic\nBackground\nEarlier this year, diplomatic tensions between Canberra and Beijing flared up over calls from the Australian government for an investigation into the origins of the Covid-19 outbreak. As we covered at the time, this was followed by China imposing restrictions on imports of Australian produce, in the form of an 80% tariff on barley purchases.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "india",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1316,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

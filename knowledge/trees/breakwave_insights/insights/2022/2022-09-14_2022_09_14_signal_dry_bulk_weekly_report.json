@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nPrices for iron ore cargoes containing 63.5% iron for delivery to Tianjin rose to around $105, the highest level in nearly three weeks, boosted by the prospect of increased Chinese demand. At the same time, the Chinese city of Zhengzhou has pledged to resume all stalled construction projects by early October, easing worries about the ailing property market and boosting demand for building components. Firmer sentiment in iron ore prices comes amid confidence among global mining companies that the Chinese stimulus package will boost demand for steel and iron ore.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "india",
+    "iron_ore",
+    "coal",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 922,
+  "source_path": "reports/breakwave/2022/2022-09-14_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/14/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Prices for iron ore cargoes containing 63.5% iron for delivery to Tianjin rose to around $105, the highest level in nearly three weeks, boosted by the prospect of increased Chinese demand. At the same time, the Chinese city of Zhengzhou has pledged to resume all stalled construction projects by early October, easing worries about the ailing property market and boosting demand for building components.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "iron_ore",
+        "coal",
+        "steel",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 433,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The second week of September sees weaker sentiment in freight rates across all vessel categories, with an uptick in Panamax vessels. Capesize freight rates from Brazil to North China fell to $18.7/tonne, down from over $20/tonne in mid-August.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 157,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report__s04_supply_trend_lines_for_key_load_areas",
+      "doc_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report__root",
+      "title": "Supply Trend Lines for Key Load Areas",
+      "section_path": [
+        "Supply Trend Lines for Key Load Areas"
+      ],
+      "section_path_text": "Supply Trend Lines for Key Load Areas",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The number of Capesize and Panamax vessels sailing ballast has fallen below the annual average, while the number of Handysize and Supramax vessels has increased significantly compared to previous weekly figures. Capesize SE Africa: The number of vessels has decreased to 77, a 37% decrease from the peak in week 32.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "annual",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report__s05_section_3_demand_tondays_increasing",
+      "doc_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-14_2022_09_14_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Increasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Increasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Increasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The number of congested vessels has risen again after two consecutive weeks of decline, with the Supramax and Panamax segments triggering the latest increase. Capesize: The number of congested ships reached 100, 6 more than the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "congested",
+        "vessels",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

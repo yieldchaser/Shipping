@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-02-13_2023_02_13_mmi_daily_iron_ore_index_report_february_13_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-02-13_2023_02_13_mmi_daily_iron_ore_index_report_february_13_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report February 13 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report February 13 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report February 13 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 13/02/2023\nDCE iron ore futures declined by 2.21 % today, the main contract closed 841.5.The traders' willingness to ship is more.The steel mills are activeto purchase .The overall trading sentiment of the market is better.PBF at Shandong port deal 855-865 yuan/mt, decrease 5-17 yuan/ mt.PBF at Tangshan port deal 863-873 yuan/mt,decrease 2-12 yuan /mt. Fundamentally, Australia's supply has been slightly tightened due to the impact of the BHP railway incident and the port clearance of Walcott Port. The iron ore supply in Brazil has been slowly repaired, and the supply end is generally at the average level of the same period in previous years.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "main",
+    "port",
+    "still",
+    "supply",
+    "deal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 322,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-02-13_mmi-daily-iron-ore-index-report-february-13-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-february-13-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-02-13_2023_02_13_mmi_daily_iron_ore_index_report_february_13_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-02-13_2023_02_13_mmi_daily_iron_ore_index_report_february_13_2023",
+      "parent_id": "hellenic_iron_ore_2023-02-13_2023_02_13_mmi_daily_iron_ore_index_report_february_13_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 13/02/2023\nDCE iron ore futures declined by 2.21 % today, the main contract closed 841.5.The traders' willingness to ship is more.The steel mills are activeto purchase .The overall trading sentiment of the market is better.PBF at Shandong port deal 855-865 yuan/mt, decrease 5-17 yuan/ mt.PBF at Tangshan port deal 863-873 yuan/mt,decrease 2-12 yuan /mt. Fundamentally, Australia's supply has been slightly tightened due to the impact of the BHP railway incident and the port clearance of Walcott Port.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 320,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

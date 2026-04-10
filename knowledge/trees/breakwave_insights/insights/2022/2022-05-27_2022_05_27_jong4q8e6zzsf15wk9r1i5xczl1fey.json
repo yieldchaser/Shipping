@@ -1,0 +1,84 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-27_2022_05_27_jong4q8e6zzsf15wk9r1i5xczl1fey__root",
+  "doc_id": "breakwave_insights_insights_2022-05-27_2022_05_27_jong4q8e6zzsf15wk9r1i5xczl1fey",
+  "parent_id": null,
+  "title": "Jong4Q8E6Zzsf15Wk9R1I5Xczl1Fey",
+  "section_path": [
+    "Jong4Q8E6Zzsf15Wk9R1I5Xczl1Fey"
+  ],
+  "section_path_text": "Jong4Q8E6Zzsf15Wk9R1I5Xczl1Fey",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Mark Nugent\n\nFresh demand in the Atlantic\nAs trade flows continue to change as the Ukraine-Russia war unfolds, we look at how the US has increased shipments to Europe across several dry bulk commodities and what it means for dry bulk markets. So far since the Russian invasion of Ukraine and significant dry bulk trade routes have changed, transatlantic flows from the US to Europe have been particularly strong. The US government has pledged to support European countries which are now facing deficits across several commodities as a result of sanctions and the closure of Ukrainian ports.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "japan",
+    "coal",
+    "grain",
+    "steel",
+    "trade",
+    "tonnes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1267,
+  "source_path": "reports/breakwave/2022/2022-05-27_jong4q8e6zzsf15wk9r1i5xczl1fey.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/27/jong4q8e6zzsf15wk9r1i5xczl1fey",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-27_2022_05_27_jong4q8e6zzsf15wk9r1i5xczl1fey__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-27_2022_05_27_jong4q8e6zzsf15wk9r1i5xczl1fey",
+      "parent_id": "breakwave_insights_insights_2022-05-27_2022_05_27_jong4q8e6zzsf15wk9r1i5xczl1fey__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "mark",
+        "nugent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-05-27_2022_05_27_jong4q8e6zzsf15wk9r1i5xczl1fey__s02_fresh_demand_in_the_atlantic",
+      "doc_id": "breakwave_insights_insights_2022-05-27_2022_05_27_jong4q8e6zzsf15wk9r1i5xczl1fey",
+      "parent_id": "breakwave_insights_insights_2022-05-27_2022_05_27_jong4q8e6zzsf15wk9r1i5xczl1fey__root",
+      "title": "Fresh demand in the Atlantic",
+      "section_path": [
+        "Fresh demand in the Atlantic"
+      ],
+      "section_path_text": "Fresh demand in the Atlantic",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "As trade flows continue to change as the Ukraine-Russia war unfolds, we look at how the US has increased shipments to Europe across several dry bulk commodities and what it means for dry bulk markets. So far since the Russian invasion of Ukraine and significant dry bulk trade routes have changed, transatlantic flows from the US to Europe have been particularly strong.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "atlantic",
+        "pacific",
+        "europe",
+        "japan",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1254,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

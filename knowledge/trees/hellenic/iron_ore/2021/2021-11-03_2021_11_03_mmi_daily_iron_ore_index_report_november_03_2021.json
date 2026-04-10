@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-11-03_2021_11_03_mmi_daily_iron_ore_index_report_november_03_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-11-03_2021_11_03_mmi_daily_iron_ore_index_report_november_03_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report November 03 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report November 03 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report November 03 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 03/11/2021\nDCE iron ore futures continued to drop today, the main contract closed 589.5.an decrease of 0.42% throughout the day; The spot quotation inthe morning almost kept steady.and Some traders were not for sell, wait-and-see sentiment increased; Some steel mills purchasing enthusiasm is not high. today's overall market transaction atmosphere in general. PBF at Shandong port dealt 695-710 yuan/mt,increased 5-20 yuan/mt over yesterday; PBF at Jiangnei port dealt 710 yuan/mt,；SSF at Tangshan port dealt 400-405 yuan/mt；SMM analysis, the port inventory of imported ore has exceeded 145 million mt, supply pressure is large.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "iron",
+    "port",
+    "yuan/mt",
+    "dealt",
+    "not",
+    "decrease",
+    "increased",
+    "main"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 256,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-11-03_mmi-daily-iron-ore-index-report-november-03-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-03-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-11-03_2021_11_03_mmi_daily_iron_ore_index_report_november_03_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-11-03_2021_11_03_mmi_daily_iron_ore_index_report_november_03_2021",
+      "parent_id": "hellenic_iron_ore_2021-11-03_2021_11_03_mmi_daily_iron_ore_index_report_november_03_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 03/11/2021\nDCE iron ore futures continued to drop today, the main contract closed 589.5.an decrease of 0.42% throughout the day; The spot quotation inthe morning almost kept steady.and Some traders were not for sell, wait-and-see sentiment increased; Some steel mills purchasing enthusiasm is not high. today's overall market transaction atmosphere in general.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "iron",
+        "port",
+        "yuan/mt",
+        "dealt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 254,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

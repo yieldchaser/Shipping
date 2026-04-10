@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-08-18_2022_08_18_mmi_daily_iron_ore_index_report_august_18_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-08-18_2022_08_18_mmi_daily_iron_ore_index_report_august_18_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 18 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 18 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 18 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 18/08/2022\nDCE iron ore was shocked and keep downward all the day. The main contract closed at 678.5,decreased of 3.96 %. Traders are no more motivated to ship.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "month",
+    "iron",
+    "ports",
+    "production",
+    "ten",
+    "top",
+    "are",
+    "dealt",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 305,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-08-18_mmi-daily-iron-ore-index-report-august-18-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-18-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-08-18_2022_08_18_mmi_daily_iron_ore_index_report_august_18_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-08-18_2022_08_18_mmi_daily_iron_ore_index_report_august_18_2022",
+      "parent_id": "hellenic_iron_ore_2022-08-18_2022_08_18_mmi_daily_iron_ore_index_report_august_18_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 18/08/2022\nDCE iron ore was shocked and keep downward all the day. The main contract closed at 678.5,decreased of 3.96 %.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "month",
+        "iron",
+        "ports",
+        "production",
+        "ten"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 303,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

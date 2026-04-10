@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nChinese exports dropped by 6.8 per cent during the year's first two months compared to the same period last year. While the decline was an improvement on December's reading and less bad than many economists had expected, it still highlights the headwinds the Chinese economy faces amid lower demand globally for its exports and the increasing importance of the domestic economy for growth. The country's imports also fell during the past two months and were 10.2 per cent lower than a year ago.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "meg",
+    "europe",
+    "india",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1268,
+  "source_path": "reports/breakwave/2023/2023-03-07_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/7/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Chinese exports dropped by 6.8 per cent during the year's first two months compared to the same period last year. While the decline was an improvement on December's reading and less bad than many economists had expected, it still highlights the headwinds the Chinese economy faces amid lower demand globally for its exports and the increasing importance of the domestic economy for growth.",
+      "keywords": [
+        "china",
+        "chinese",
+        "lower",
+        "was",
+        "cent",
+        "decline",
+        "demand",
+        "domestic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil was among the few commodities that advanced yesterday, but the gains were nevertheless minor. The Brent May futures increased by 0.4 per cent and ended the session at 86.18 dollars per session.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 462,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Friday's narrative for the dry bulk freight market remained broadly intact on Monday, with the Capesizes largely responsible for the headline Baltic Dry Index gaining 3.9 per cent. The largest vessels were the day's star performers, with the Capesize sub-index gaining 11.2 per cent amid a strong start to the week for cargo order volumes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 299,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-07_2023_03_07_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Thermal coal prices remain under pressure, with the futures trading at levels last seen over a year ago as fears over energy shortages amid disruptions in the wake of the war in Ukraine fade. However, sanctions on Russian coal have forced many buyers to find alternative suppliers of the fossil fuel.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "coal",
+        "gas",
+        "cargo",
+        "european"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 318,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

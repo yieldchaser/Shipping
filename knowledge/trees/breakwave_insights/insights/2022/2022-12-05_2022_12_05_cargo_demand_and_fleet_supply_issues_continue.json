@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-05_2022_12_05_cargo_demand_and_fleet_supply_issues_continue__root",
+  "doc_id": "breakwave_insights_insights_2022-12-05_2022_12_05_cargo_demand_and_fleet_supply_issues_continue",
+  "parent_id": null,
+  "title": "Cargo Demand And Fleet Supply Issues Continue",
+  "section_path": [
+    "Cargo Demand And Fleet Supply Issues Continue"
+  ],
+  "section_path_text": "Cargo Demand And Fleet Supply Issues Continue",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nGlobal crude steel production totaled 147.3 million tons last month. This is down month-on-month by 4.4 million tons (-3%) but is 1.6 million tons (1%) more than was reported last year for October 2021's production. Global crude steel production has now increased on a year-on-year basis for two straight months after previously contracting on a year-on-year basis for twelve straight months.",
+  "keywords": [
+    "china",
+    "steel",
+    "crude",
+    "last",
+    "million",
+    "tons",
+    "production",
+    "year-on-year",
+    "basis",
+    "global",
+    "outside",
+    "straight"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 327,
+  "source_path": "reports/breakwave/2022/2022-12-05_cargo-demand-and-fleet-supply-issues-continue.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/5/cargo-demand-and-fleet-supply-issues-continue",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-05_2022_12_05_cargo_demand_and_fleet_supply_issues_continue__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-05_2022_12_05_cargo_demand_and_fleet_supply_issues_continue",
+      "parent_id": "breakwave_insights_insights_2022-12-05_2022_12_05_cargo_demand_and_fleet_supply_issues_continue__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nGlobal crude steel production totaled 147.3 million tons last month. This is down month-on-month by 4.4 million tons (-3%) but is 1.6 million tons (1%) more than was reported last year for October 2021's production.",
+      "keywords": [
+        "china",
+        "steel",
+        "crude",
+        "last",
+        "million",
+        "tons",
+        "production",
+        "year-on-year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 325,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

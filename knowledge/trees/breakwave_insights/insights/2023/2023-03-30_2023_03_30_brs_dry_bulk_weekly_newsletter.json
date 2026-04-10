@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-30_2023_03_30_brs_dry_bulk_weekly_newsletter__root",
+  "doc_id": "breakwave_insights_insights_2023-03-30_2023_03_30_brs_dry_bulk_weekly_newsletter",
+  "parent_id": null,
+  "title": "Brs Dry Bulk Weekly Newsletter",
+  "section_path": [
+    "Brs Dry Bulk Weekly Newsletter"
+  ],
+  "section_path_text": "Brs Dry Bulk Weekly Newsletter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nChina has been long considered as a policy maker, with every decision subsequently causing great impact (intended or unintended) on the shipping industry with respect to fluctuations in both trade flows and commodity prices. For instance, the restrictions implemented on steel output in November 2021 resulted in a sharp reduction of seaborne iron ore imports in China, the world's largest consumer and importer of the steelmaking ingredient. Not to be outdone, the coal market has been the center of attention for the past few years as environmental agendas gained political prominence.",
+  "keywords": [
+    "china",
+    "australia",
+    "iron_ore",
+    "coal",
+    "steel",
+    "expected",
+    "import",
+    "tons",
+    "imports",
+    "million",
+    "supply",
+    "consumption"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1354,
+  "source_path": "reports/breakwave/2023/2023-03-30_brs-dry-bulk-weekly-newsletter.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/30/brs-dry-bulk-weekly-newsletter",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-30_2023_03_30_brs_dry_bulk_weekly_newsletter__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-30_2023_03_30_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-03-30_2023_03_30_brs_dry_bulk_weekly_newsletter__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "China has been long considered as a policy maker, with every decision subsequently causing great impact (intended or unintended) on the shipping industry with respect to fluctuations in both trade flows and commodity prices. For instance, the restrictions implemented on steel output in November 2021 resulted in a sharp reduction of seaborne iron ore imports in China, the world's largest consumer and importer of the steelmaking ingredient.",
+      "keywords": [
+        "china",
+        "australia",
+        "iron_ore",
+        "coal",
+        "steel",
+        "expected",
+        "import",
+        "tons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1352,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

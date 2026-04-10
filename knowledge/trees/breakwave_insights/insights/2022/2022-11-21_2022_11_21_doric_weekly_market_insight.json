@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-21_2022_11_21_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2022-11-21_2022_11_21_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBreakwave Advisors 2nd annual shipping market event\nBy Michalis Voutsinas\nThe forty-sixth week started with the IMF stressing that global economic growth prospects are confronting a unique mix of headwinds, including Russia's invasion of Ukraine, interest rate increases to contain inflation, and lingering pandemic effects such as China's lockdowns and disruptions in supply chains. With such a demoralizing start, few assets could find the courage to defy the law of gravity. Baltic indices were not among them, with the whole pack being dragged down to multi-month minima.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "europe",
+    "iron_ore",
+    "crude_oil",
+    "are",
+    "global",
+    "concerns",
+    "covid"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 844,
+  "source_path": "reports/breakwave/2022/2022-11-21_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/21/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-21_2022_11_21_doric_weekly_market_insight__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-21_2022_11_21_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2022-11-21_2022_11_21_doric_weekly_market_insight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Breakwave Advisors 2nd annual shipping market event\nBy Michalis Voutsinas\nThe forty-sixth week started with the IMF stressing that global economic growth prospects are confronting a unique mix of headwinds, including Russia's invasion of Ukraine, interest rate increases to contain inflation, and lingering pandemic effects such as China's lockdowns and disruptions in supply chains. With such a demoralizing start, few assets could find the courage to defy the law of gravity.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "europe",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 842,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

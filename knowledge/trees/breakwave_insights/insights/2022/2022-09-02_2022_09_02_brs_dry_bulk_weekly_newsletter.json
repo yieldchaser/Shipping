@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-02_2022_09_02_brs_dry_bulk_weekly_newsletter__root",
+  "doc_id": "breakwave_insights_insights_2022-09-02_2022_09_02_brs_dry_bulk_weekly_newsletter",
+  "parent_id": null,
+  "title": "Brs Dry Bulk Weekly Newsletter",
+  "section_path": [
+    "Brs Dry Bulk Weekly Newsletter"
+  ],
+  "section_path_text": "Brs Dry Bulk Weekly Newsletter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThere had been a shortage of power supply caused by high temperatures and worsened by sparse rains in major Chinese provinces including Sichuan, Chongqing, Zhejiang, Anhui and Jiangsu. In response, the Chinese government, in a bid to ensure ample power for residential consumption, had issued a series of notices on electricity consumption, requiring industrial enterprises to consume electricity in an orderly fashion and execute off-peak electricity consumption plan. This latest manoeuvre is yet another large-scale power curtailment measure since last September-21.",
+  "keywords": [
+    "china",
+    "australia",
+    "coal",
+    "power",
+    "electricity",
+    "consumption",
+    "generation",
+    "thermal",
+    "increase",
+    "seaborne",
+    "supply",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1324,
+  "source_path": "reports/breakwave/2022/2022-09-02_brs-dry-bulk-weekly-newsletter.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/2/brs-dry-bulk-weekly-newsletter",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-02_2022_09_02_brs_dry_bulk_weekly_newsletter__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-02_2022_09_02_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2022-09-02_2022_09_02_brs_dry_bulk_weekly_newsletter__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "There had been a shortage of power supply caused by high temperatures and worsened by sparse rains in major Chinese provinces including Sichuan, Chongqing, Zhejiang, Anhui and Jiangsu. In response, the Chinese government, in a bid to ensure ample power for residential consumption, had issued a series of notices on electricity consumption, requiring industrial enterprises to consume electricity in an orderly fashion and execute off-peak electricity consumption plan.",
+      "keywords": [
+        "china",
+        "australia",
+        "coal",
+        "electricity",
+        "power",
+        "consumption",
+        "generation",
+        "thermal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1004,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-02_2022_09_02_brs_dry_bulk_weekly_newsletter__s02_impact_on_seaborne_market",
+      "doc_id": "breakwave_insights_insights_2022-09-02_2022_09_02_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2022-09-02_2022_09_02_brs_dry_bulk_weekly_newsletter__root",
+      "title": "IMPACT ON SEABORNE MARKET",
+      "section_path": [
+        "IMPACT ON SEABORNE MARKET"
+      ],
+      "section_path_text": "IMPACT ON SEABORNE MARKET",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The recent hydropower shortage caused by the heatwaves once again display the irreplaceable status of thermal power generation in the short term. NEA reiterated that China would strengthen thermal power generation to minimize the potential power supply uncertainties from hydro and other renewable energy under extreme conditions.",
+      "keywords": [
+        "china",
+        "coal",
+        "power",
+        "seaborne",
+        "could",
+        "fujian",
+        "plants",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 308,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-29_2022_09_29_geopolitical_risks_push_energy_prices_higher__root",
+  "doc_id": "breakwave_insights_insights_2022-09-29_2022_09_29_geopolitical_risks_push_energy_prices_higher",
+  "parent_id": null,
+  "title": "Geopolitical Risks Push Energy Prices Higher",
+  "section_path": [
+    "Geopolitical Risks Push Energy Prices Higher"
+  ],
+  "section_path_text": "Geopolitical Risks Push Energy Prices Higher",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nA weaker USD helped boost investor appetite in commodity markets. Rising geopolitical risks were also front of mind following damage to energy infrastructure earlier this week. European natural gas extended gains after Russia warned of further risks to supply.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "us_gulf",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "european",
+    "after",
+    "concerns"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 710,
+  "source_path": "reports/breakwave/2022/2022-09-29_geopolitical-risks-push-energy-prices-higher.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/29/geopolitical-risks-push-energy-prices-higher",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-29_2022_09_29_geopolitical_risks_push_energy_prices_higher__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-29_2022_09_29_geopolitical_risks_push_energy_prices_higher",
+      "parent_id": "breakwave_insights_insights_2022-09-29_2022_09_29_geopolitical_risks_push_energy_prices_higher__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nA weaker USD helped boost investor appetite in commodity markets. Rising geopolitical risks were also front of mind following damage to energy infrastructure earlier this week.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "us_gulf",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 708,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

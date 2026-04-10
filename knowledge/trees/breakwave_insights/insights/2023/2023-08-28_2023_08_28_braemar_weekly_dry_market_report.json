@@ -1,0 +1,81 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-28_2023_08_28_braemar_weekly_dry_market_report__root",
+  "doc_id": "breakwave_insights_insights_2023-08-28_2023_08_28_braemar_weekly_dry_market_report",
+  "parent_id": null,
+  "title": "Braemar Weekly Dry Market Report",
+  "section_path": [
+    "Braemar Weekly Dry Market Report"
+  ],
+  "section_path_text": "Braemar Weekly Dry Market Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n﻿\n\nThe Big Picture: US grain effect\nUS grain trades have been less prominent this year, mainly to the detriment of Panamaxes, but also negative for geared sectors. With a view to the Q4, it looks likely that the main US soybean export season will benefit Panamax demand in particular. With the Supramax 10 TC average having briefly crept above $10,000/day this week and increased grain-related Panamax enquiry emerging in the Atlantic, the main US soybean export season has attracted our attention.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "brazil",
+    "atlantic",
+    "us_gulf",
+    "grain",
+    "tonnes",
+    "exports",
+    "soybean",
+    "corn",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 779,
+  "source_path": "reports/breakwave/2023/2023-08-28_braemar-weekly-dry-market-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/28/braemar-weekly-dry-market-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-28_2023_08_28_braemar_weekly_dry_market_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-08-28_2023_08_28_braemar_weekly_dry_market_report",
+      "parent_id": "breakwave_insights_insights_2023-08-28_2023_08_28_braemar_weekly_dry_market_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-28_2023_08_28_braemar_weekly_dry_market_report__s02_the_big_picture_us_grain_effect",
+      "doc_id": "breakwave_insights_insights_2023-08-28_2023_08_28_braemar_weekly_dry_market_report",
+      "parent_id": "breakwave_insights_insights_2023-08-28_2023_08_28_braemar_weekly_dry_market_report__root",
+      "title": "The Big Picture: US grain effect",
+      "section_path": [
+        "The Big Picture: US grain effect"
+      ],
+      "section_path_text": "The Big Picture: US grain effect",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "US grain trades have been less prominent this year, mainly to the detriment of Panamaxes, but also negative for geared sectors. With a view to the Q4, it looks likely that the main US soybean export season will benefit Panamax demand in particular.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "brazil",
+        "atlantic",
+        "us_gulf",
+        "grain",
+        "tonnes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 768,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

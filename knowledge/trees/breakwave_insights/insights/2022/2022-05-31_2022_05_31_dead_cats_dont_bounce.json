@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-31_2022_05_31_dead_cats_dont_bounce__root",
+  "doc_id": "breakwave_insights_insights_2022-05-31_2022_05_31_dead_cats_dont_bounce",
+  "parent_id": null,
+  "title": "Dead Cats Dont Bounce",
+  "section_path": [
+    "Dead Cats Dont Bounce"
+  ],
+  "section_path_text": "Dead Cats Dont Bounce",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nLast week saw the best performing week since November 2020 for equities, after the Fed's Minutes suggested that the Fed will not be more aggressive than already anticipated. Ostensibly, everything in this move screams \"Bear Market rally\". After all, how can we call an end to the Bear Market when Quantitative Tightening, the great process to unwind some of the Fed's recent purchases, hasn't even began.",
+  "keywords": [
+    "markets",
+    "quantitative",
+    "fed",
+    "not",
+    "are",
+    "bear",
+    "after",
+    "but",
+    "can",
+    "enough",
+    "inflation",
+    "latest"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 680,
+  "source_path": "reports/breakwave/2022/2022-05-31_dead-cats-dont-bounce.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/31/dead-cats-dont-bounce",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-31_2022_05_31_dead_cats_dont_bounce__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-31_2022_05_31_dead_cats_dont_bounce",
+      "parent_id": "breakwave_insights_insights_2022-05-31_2022_05_31_dead_cats_dont_bounce__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nLast week saw the best performing week since November 2020 for equities, after the Fed's Minutes suggested that the Fed will not be more aggressive than already anticipated. Ostensibly, everything in this move screams \"Bear Market rally\".",
+      "keywords": [
+        "markets",
+        "quantitative",
+        "fed",
+        "not",
+        "are",
+        "bear",
+        "after",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 678,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

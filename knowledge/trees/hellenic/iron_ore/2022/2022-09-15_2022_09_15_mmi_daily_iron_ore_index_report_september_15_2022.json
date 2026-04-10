@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-09-15_2022_09_15_mmi_daily_iron_ore_index_report_september_15_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-09-15_2022_09_15_mmi_daily_iron_ore_index_report_september_15_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 15 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 15 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 15 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 15/09/2022\nDCE iron ore futures rose by 0.70% today, the main contract closed 722.5. Some traders were active to sell. More steel mills tended topurchase, and purchasing enthusiasm is high.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "dealt",
+    "iron",
+    "ore",
+    "port",
+    "are",
+    "increased",
+    "main",
+    "mills"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 293,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-09-15_mmi-daily-iron-ore-index-report-september-15-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-15-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-09-15_2022_09_15_mmi_daily_iron_ore_index_report_september_15_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-09-15_2022_09_15_mmi_daily_iron_ore_index_report_september_15_2022",
+      "parent_id": "hellenic_iron_ore_2022-09-15_2022_09_15_mmi_daily_iron_ore_index_report_september_15_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 15/09/2022\nDCE iron ore futures rose by 0.70% today, the main contract closed 722.5. Some traders were active to sell.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "dealt",
+        "iron",
+        "ore",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 291,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

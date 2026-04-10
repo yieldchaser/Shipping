@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2023-10-19_2023_10_19_will_us_product_exports_continue_at_current_levels_as_refini__root",
+  "doc_id": "breakwave_insights_insights_2023-10-19_2023_10_19_will_us_product_exports_continue_at_current_levels_as_refini",
+  "parent_id": null,
+  "title": "Will Us Product Exports Continue At Current Levels As Refining Margins Fall",
+  "section_path": [
+    "Will Us Product Exports Continue At Current Levels As Refining Margins Fall"
+  ],
+  "section_path_text": "Will Us Product Exports Continue At Current Levels As Refining Margins Fall",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "As refining margins in the US fall, we explore whether product exports will be able to continue their current momentum\nBy Rohit Rathod\nUS refined product exports, led by diesel, have performed well this year despite facing competition from Russian barrels to traditional markets. A combination of a growing European diesel short and increased gasoline demand from Mexico (refinery outages and delayed refinery start-up) have kept these waterborne flows high during 2023. As refining margins begin to narrow in the domestic market and refineries begin their fall maintenance season, will the US be able to sustain these exports?",
+  "keywords": [
+    "brazil",
+    "pacific",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "diesel",
+    "exports",
+    "demand",
+    "product",
+    "refining",
+    "domestic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 759,
+  "source_path": "reports/breakwave/2023/2023-10-19_will-us-product-exports-continue-at-current-levels-as-refini.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/10/19/will-us-product-exports-continue-at-current-levels-as-refining-margins-fall",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-10-19_2023_10_19_will_us_product_exports_continue_at_current_levels_as_refini__s01_as_refining_margins_in_the_us_fall_we_explore_whether_product_exports_will_be_able_to_continue_their_current_momentum",
+      "doc_id": "breakwave_insights_insights_2023-10-19_2023_10_19_will_us_product_exports_continue_at_current_levels_as_refini",
+      "parent_id": "breakwave_insights_insights_2023-10-19_2023_10_19_will_us_product_exports_continue_at_current_levels_as_refini__root",
+      "title": "As refining margins in the US fall, we explore whether product exports will be able to continue their current momentum",
+      "section_path": [
+        "As refining margins in the US fall, we explore whether product exports will be able to continue their current momentum"
+      ],
+      "section_path_text": "As refining margins in the US fall, we explore whether product exports will be able to continue their current momentum",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Rohit Rathod\nUS refined product exports, led by diesel, have performed well this year despite facing competition from Russian barrels to traditional markets. A combination of a growing European diesel short and increased gasoline demand from Mexico (refinery outages and delayed refinery start-up) have kept these waterborne flows high during 2023.",
+      "keywords": [
+        "europe",
+        "products",
+        "gas",
+        "begin",
+        "diesel",
+        "exports",
+        "refinery",
+        "able"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-19_2023_10_19_will_us_product_exports_continue_at_current_levels_as_refini__s02_product_exports_moving_counter_seasonal",
+      "doc_id": "breakwave_insights_insights_2023-10-19_2023_10_19_will_us_product_exports_continue_at_current_levels_as_refini",
+      "parent_id": "breakwave_insights_insights_2023-10-19_2023_10_19_will_us_product_exports_continue_at_current_levels_as_refini__root",
+      "title": "Product exports moving counter-seasonal",
+      "section_path": [
+        "Product exports moving counter-seasonal"
+      ],
+      "section_path_text": "Product exports moving counter-seasonal",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "US seaborne transportation fuel (diesel, gasoline, and jet) exports (mbd)\nUS transportation fuel exports have remained above seasonal averages so far in the second half of 2023. Seasonal refinery turnarounds normally peak in October in the US and exports normally drop as a result, however early indications in our data (Oct 1-15) have seen a 20% increase y-o-y in seaborne exports.",
+      "keywords": [
+        "brazil",
+        "pacific",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "diesel",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 634,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-01_2023_11_01_intermodal_weekly_market_report__root",
+  "doc_id": "breakwave_insights_insights_2023-11-01_2023_11_01_intermodal_weekly_market_report",
+  "parent_id": null,
+  "title": "Intermodal Weekly Market Report",
+  "section_path": [
+    "Intermodal Weekly Market Report"
+  ],
+  "section_path_text": "Intermodal Weekly Market Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Chara Georgousi and Fotis Kanatas\nIn a week characterized by a 1.8% drop in Brent crude prices and a slight 0.1% uptick in WTI, conflicting viewpoints on the trajectory of global oil demand have come to the forefront. The International Energy Agency (IEA) has offered a starkly different analysis compared to OPEC in its latest World Energy Outlook. According to the IEA, the demand for oil, natural gas, and coal is set to peak within this decade under existing governmental policies.",
+  "keywords": [
+    "suezmax",
+    "europe",
+    "coal",
+    "crude_oil",
+    "gas",
+    "oil",
+    "are",
+    "mediterranean",
+    "day",
+    "demand",
+    "east",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 591,
+  "source_path": "reports/breakwave/2023/2023-11-01_intermodal-weekly-market-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/1/intermodal-weekly-market-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-01_2023_11_01_intermodal_weekly_market_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-01_2023_11_01_intermodal_weekly_market_report",
+      "parent_id": "breakwave_insights_insights_2023-11-01_2023_11_01_intermodal_weekly_market_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Chara Georgousi and Fotis Kanatas\nIn a week characterized by a 1.8% drop in Brent crude prices and a slight 0.1% uptick in WTI, conflicting viewpoints on the trajectory of global oil demand have come to the forefront. The International Energy Agency (IEA) has offered a starkly different analysis compared to OPEC in its latest World Energy Outlook.",
+      "keywords": [
+        "suezmax",
+        "europe",
+        "coal",
+        "crude_oil",
+        "gas",
+        "oil",
+        "are",
+        "mediterranean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 589,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

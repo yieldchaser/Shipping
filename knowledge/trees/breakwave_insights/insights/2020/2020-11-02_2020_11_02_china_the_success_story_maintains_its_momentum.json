@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-11-02_2020_11_02_china_the_success_story_maintains_its_momentum__root",
+  "doc_id": "breakwave_insights_insights_2020-11-02_2020_11_02_china_the_success_story_maintains_its_momentum",
+  "parent_id": null,
+  "title": "China The Success Story Maintains Its Momentum",
+  "section_path": [
+    "China The Success Story Maintains Its Momentum"
+  ],
+  "section_path_text": "China The Success Story Maintains Its Momentum",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe reporting surrounding the Chinese economic recovery may start sounding like a broken record, with positive data being released almost on a weekly basis. The weekend saw the latest instalment in the ongoing saga, with the release of the official purchasing managers' index (PMI). For the eighth consecutive month the index remained above 50, signaling an expansion of the economic activities in the manufacturing sector.",
+  "keywords": [
+    "china",
+    "europe",
+    "chinese",
+    "could",
+    "economic",
+    "many",
+    "positive",
+    "are",
+    "consumer",
+    "data",
+    "economy",
+    "momentum"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 557,
+  "source_path": "reports/breakwave/2020/2020-11-02_china-the-success-story-maintains-its-momentum.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/11/2/china-the-success-story-maintains-its-momentum",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-11-02_2020_11_02_china_the_success_story_maintains_its_momentum__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-11-02_2020_11_02_china_the_success_story_maintains_its_momentum",
+      "parent_id": "breakwave_insights_insights_2020-11-02_2020_11_02_china_the_success_story_maintains_its_momentum__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe reporting surrounding the Chinese economic recovery may start sounding like a broken record, with positive data being released almost on a weekly basis. The weekend saw the latest instalment in the ongoing saga, with the release of the official purchasing managers' index (PMI).",
+      "keywords": [
+        "china",
+        "europe",
+        "chinese",
+        "could",
+        "economic",
+        "many",
+        "positive",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 555,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

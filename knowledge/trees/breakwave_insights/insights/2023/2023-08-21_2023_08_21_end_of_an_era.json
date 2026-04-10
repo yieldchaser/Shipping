@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-21_2023_08_21_end_of_an_era__root",
+  "doc_id": "breakwave_insights_insights_2023-08-21_2023_08_21_end_of_an_era",
+  "parent_id": null,
+  "title": "End Of An Era",
+  "section_path": [
+    "End Of An Era"
+  ],
+  "section_path_text": "End Of An Era",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWeekly Tanker Market Report\nFor product tankers, much of the past decade's investment was focused on changing dynamics in the global refining scene. In short, the story of expanding capacity in the East, primarily driven by Middle East export refineries, and capacity rationalisation in the West supported the case for strong tonne mile demand growth. However, with most Middle East refining projects nearing completion, and plans to close capacity in the West being reassessed in the name of energy security, the sector needs to find a new investment case for the next decade.",
+  "keywords": [
+    "china",
+    "meg",
+    "europe",
+    "india",
+    "products",
+    "east",
+    "middle",
+    "capacity",
+    "next",
+    "refining",
+    "are",
+    "case"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 504,
+  "source_path": "reports/breakwave/2023/2023-08-21_end-of-an-era.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/21/end-of-an-era",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-21_2023_08_21_end_of_an_era__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-08-21_2023_08_21_end_of_an_era",
+      "parent_id": "breakwave_insights_insights_2023-08-21_2023_08_21_end_of_an_era__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Weekly Tanker Market Report\nFor product tankers, much of the past decade's investment was focused on changing dynamics in the global refining scene. In short, the story of expanding capacity in the East, primarily driven by Middle East export refineries, and capacity rationalisation in the West supported the case for strong tonne mile demand growth.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "india",
+        "products",
+        "east",
+        "middle",
+        "capacity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 502,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-10-26_2020_10_26_china_into_the_future_the_next_five_year_plan__root",
+  "doc_id": "breakwave_insights_insights_2020-10-26_2020_10_26_china_into_the_future_the_next_five_year_plan",
+  "parent_id": null,
+  "title": "China Into The Future The Next Five Year Plan",
+  "section_path": [
+    "China Into The Future The Next Five Year Plan"
+  ],
+  "section_path_text": "China Into The Future The Next Five Year Plan",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThat China has posted strong economic data in the past few month have been some of the very few pieces of good news for the world economy, with most countries seeing contracting economic activity. The strength of the Chinese economy has been welcomed by many observers and seen as the growth engine that will pull the world out of the doldrums. However, some China watchers have urged caution over the strength of the economic recovery, with some underlying data supposedly at odds with the headline numbers.",
+  "keywords": [
+    "china",
+    "japan",
+    "coal",
+    "chinese",
+    "economy",
+    "world",
+    "economic",
+    "investments",
+    "but",
+    "domestic",
+    "likely",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 770,
+  "source_path": "reports/breakwave/2020/2020-10-26_china-into-the-future-the-next-five-year-plan.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/10/26/china-into-the-future-the-next-five-year-plan",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-10-26_2020_10_26_china_into_the_future_the_next_five_year_plan__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-10-26_2020_10_26_china_into_the_future_the_next_five_year_plan",
+      "parent_id": "breakwave_insights_insights_2020-10-26_2020_10_26_china_into_the_future_the_next_five_year_plan__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThat China has posted strong economic data in the past few month have been some of the very few pieces of good news for the world economy, with most countries seeing contracting economic activity. The strength of the Chinese economy has been welcomed by many observers and seen as the growth engine that will pull the world out of the doldrums.",
+      "keywords": [
+        "china",
+        "japan",
+        "coal",
+        "chinese",
+        "economy",
+        "world",
+        "economic",
+        "investments"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 768,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

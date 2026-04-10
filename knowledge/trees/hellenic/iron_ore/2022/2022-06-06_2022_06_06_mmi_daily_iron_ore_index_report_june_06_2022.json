@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-06-06_2022_06_06_mmi_daily_iron_ore_index_report_june_06_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-06-06_2022_06_06_mmi_daily_iron_ore_index_report_june_06_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report June 06 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report June 06 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report June 06 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 06/06/2022\nJun 6th, 2022 CFR Qingdao, USD/dry tonne DCE iron ore futures operated with shock all day. The main contract closed 925,increased of0.65%. Traders are generally enthusiastic about selling, steel mills are mainly keep take and see attitude, and the market transaction atmosphere is positive.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "port",
+    "yuan/mt",
+    "demand",
+    "increased",
+    "last"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 356,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-06-06_mmi-daily-iron-ore-index-report-june-06-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-june-06-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-06-06_2022_06_06_mmi_daily_iron_ore_index_report_june_06_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-06-06_2022_06_06_mmi_daily_iron_ore_index_report_june_06_2022",
+      "parent_id": "hellenic_iron_ore_2022-06-06_2022_06_06_mmi_daily_iron_ore_index_report_june_06_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 06/06/2022\nJun 6th, 2022 CFR Qingdao, USD/dry tonne DCE iron ore futures operated with shock all day. The main contract closed 925,increased of0.65%.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 354,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

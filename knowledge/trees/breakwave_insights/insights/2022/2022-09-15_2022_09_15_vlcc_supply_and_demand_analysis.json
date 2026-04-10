@@ -1,0 +1,170 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__root",
+  "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis",
+  "parent_id": null,
+  "title": "Vlcc Supply And Demand Analysis",
+  "section_path": [
+    "Vlcc Supply And Demand Analysis"
+  ],
+  "section_path_text": "Vlcc Supply And Demand Analysis",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Graham Close and George Delaney\n\nIntroduction\nWhile the talk of the town has been of the VLCC sector's spike in rates in recent weeks, this article focuses on some of the key variables that have afflicted these vessels over the past few years and kept market sentiment so low for so long. The VLCC-TCE is a weighted average of earnings for conventional, non scrubber fitted VLCCs, incorporating two key routes: the TD1-TCE (Middle East Gulf to US Gulf) and the TD3C-TCE (Middle East Gulf to China). This estimate had been valued below zero from the beginning of 2021 until August 2022.",
+  "keywords": [
+    "vlcc",
+    "container",
+    "china",
+    "meg",
+    "us_gulf",
+    "crude_oil",
+    "steel",
+    "gas",
+    "vessels",
+    "seen",
+    "cargo",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1645,
+  "source_path": "reports/breakwave/2022/2022-09-15_vlcc-supply-and-demand-analysis.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/15/vlcc-supply-and-demand-analysis",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis",
+      "parent_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Graham Close and George Delaney",
+      "keywords": [
+        "close",
+        "delaney",
+        "george",
+        "graham"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__s02_introduction",
+      "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis",
+      "parent_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__root",
+      "title": "Introduction",
+      "section_path": [
+        "Introduction"
+      ],
+      "section_path_text": "Introduction",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While the talk of the town has been of the VLCC sector's spike in rates in recent weeks, this article focuses on some of the key variables that have afflicted these vessels over the past few years and kept market sentiment so low for so long. The VLCC-TCE is a weighted average of earnings for conventional, non scrubber fitted VLCCs, incorporating two key routes: the TD1-TCE (Middle East Gulf to US Gulf) and the TD3C-TCE (Middle East Gulf to China).",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "us_gulf",
+        "earnings",
+        "gulf",
+        "east",
+        "key"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__s03_supply_and_demand",
+      "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis",
+      "parent_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__root",
+      "title": "Supply and Demand",
+      "section_path": [
+        "Supply and Demand"
+      ],
+      "section_path_text": "Supply and Demand",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply growth over the past year had stayed relatively flat at c. 3.0% to 4.5%; the live fleet stood at 861 vessels in July 2022.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "cargo",
+        "june",
+        "miles",
+        "demand",
+        "mt-nm",
+        "month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 442,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__s04_newbuild_and_demolition",
+      "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis",
+      "parent_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__root",
+      "title": "Newbuild and Demolition",
+      "section_path": [
+        "Newbuild and Demolition"
+      ],
+      "section_path_text": "Newbuild and Demolition",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Newbuilding orders from 2018 through to 2021 remained relatively stable, peaking at 40 vessels ordered in 2018 and remaining in the mid to low 30s in the 3 subsequent years. In total, 135 vessels have been contracted in these 4 years, worth a combined c.",
+      "keywords": [
+        "vlcc",
+        "container",
+        "china",
+        "crude_oil",
+        "steel",
+        "gas",
+        "vessels",
+        "vlccs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 641,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__s05_summary",
+      "doc_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis",
+      "parent_id": "breakwave_insights_insights_2022-09-15_2022_09_15_vlcc_supply_and_demand_analysis__root",
+      "title": "Summary",
+      "section_path": [
+        "Summary"
+      ],
+      "section_path_text": "Summary",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Previous years' fleet supply had remained relatively stable and, with the orderbook standing at 41, is set to remain steady, particularly with the dearth of newbuilding orders seen in 2022. Demand, similarly, has remained relatively stable over the course of 2021 and 2022.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "steel",
+        "seen",
+        "demand",
+        "demolition",
+        "figures"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 340,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

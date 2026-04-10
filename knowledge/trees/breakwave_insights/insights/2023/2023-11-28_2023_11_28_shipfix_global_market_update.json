@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA late rebound for the Capesizes contributed to the BDI advancing by more than fifteen per cent last week, with pressure on tonnage supply chiefly responsible for the turnaround. The week was a tale of mixed fortunes for the commodities as a US public holiday put pressure on market activities. By Ulf Bergman\n\nMacro/Geopolitics\nA slowdown in Chinese industrial profits during October has reignited investors' concerns that the Chinese recovery remains sluggish.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1565,
+  "source_path": "reports/breakwave/2023/2023-11-28_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/28/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A late rebound for the Capesizes contributed to the BDI advancing by more than fifteen per cent last week, with pressure on tonnage supply chiefly responsible for the turnaround. The week was a tale of mixed fortunes for the commodities as a US public holiday put pressure on market activities.",
+      "keywords": [
+        "capesize",
+        "pressure",
+        "activities.",
+        "advancing",
+        "bdi",
+        "bergman",
+        "capesizes",
+        "cent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "A slowdown in Chinese industrial profits during October has reignited investors' concerns that the Chinese recovery remains sluggish. According to data released earlier today, profits in China's industrial sector grew by 2.7 per cent year-on-year in October.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "cent",
+        "chinese",
+        "data",
+        "per",
+        "further",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 191,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "After gaining ground during the first half of the week, the announcement of a delay to an OPEC+ meeting amid Saudi Arabian grievances over other members' lack of output reductions offset the early advances. The January Brent futures shed 1.0 per cent on Friday and ended the session at 80.58 dollars per barrel, broadly in line with the previous week's close.",
+      "keywords": [
+        "china",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 563,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "A strong recovery for the Capesizes on Thursday and Friday saw the Baltic Dry Index delivering a third week of double-digit gains. The headline index rose by 15.5 per cent over the past week, with all segments solidly in the black.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "brazil",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 417,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-11-28_2023_11_28_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The past week's 22.5 per cent surge for the Baltic Exchange's Capesize index was the result of a late recovery, as the early parts of the week saw the gauge dip into the red amid weak demand in the Atlantic. Still, the late rebound in cargo ordering activities was insufficient to match the preceding week's order volumes, and the surge in spot freight rates was mainly due to a drop in available vessels across all major basins.",
+      "keywords": [
+        "capesize",
+        "atlantic",
+        "coal",
+        "cargo",
+        "order",
+        "volumes",
+        "was",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 304,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

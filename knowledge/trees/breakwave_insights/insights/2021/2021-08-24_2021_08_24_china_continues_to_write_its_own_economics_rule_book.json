@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-08-24_2021_08_24_china_continues_to_write_its_own_economics_rule_book__root",
+  "doc_id": "breakwave_insights_insights_2021-08-24_2021_08_24_china_continues_to_write_its_own_economics_rule_book",
+  "parent_id": null,
+  "title": "China Continues To Write Its Own Economics Rule Book",
+  "section_path": [
+    "China Continues To Write Its Own Economics Rule Book"
+  ],
+  "section_path_text": "China Continues To Write Its Own Economics Rule Book",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAfter \"dual-circulation\" comes \"cross-cyclical\" as a motto for Beijing's latest economic policy initiative aiming at creating a more resilient and independent domestic economy. Like its forerunner, the term is unlikely to be found in any textbooks in Economics, as it must be seen in the context of the distinctive nature of the Chinese economy. According to some economists with links to the Chinese government, the purpose of the new programme is for the authorities to take action sooner, but in smaller increments and with a more long-term outlook.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "chinese",
+    "iron",
+    "economy",
+    "ore",
+    "seen",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1148,
+  "source_path": "reports/breakwave/2021/2021-08-24_china-continues-to-write-its-own-economics-rule-book.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/8/24/china-continues-to-write-its-own-economics-rule-book",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-08-24_2021_08_24_china_continues_to_write_its_own_economics_rule_book__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-08-24_2021_08_24_china_continues_to_write_its_own_economics_rule_book",
+      "parent_id": "breakwave_insights_insights_2021-08-24_2021_08_24_china_continues_to_write_its_own_economics_rule_book__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAfter \"dual-circulation\" comes \"cross-cyclical\" as a motto for Beijing's latest economic policy initiative aiming at creating a more resilient and independent domestic economy. Like its forerunner, the term is unlikely to be found in any textbooks in Economics, as it must be seen in the context of the distinctive nature of the Chinese economy.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "chinese",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1146,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

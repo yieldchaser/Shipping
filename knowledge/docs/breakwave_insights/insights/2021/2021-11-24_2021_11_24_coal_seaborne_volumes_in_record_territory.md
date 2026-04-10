@@ -1,0 +1,90 @@
+---
+category: insights
+commodities:
+- iron_ore
+- coal
+- grain
+- crude_oil
+- products
+- gas
+date: '2021-11-24'
+doc_id: breakwave_insights_insights_2021-11-24_2021_11_24_coal_seaborne_volumes_in_record_territory
+document_type: insights_note
+key_entities:
+- China
+- Australia
+keywords:
+- china
+- australia
+- europe
+- india
+- coal
+- products
+- volumes
+- per
+- cent
+- chinese
+- million
+- tonnes
+market_tone: constructive
+regions:
+- china
+- brazil
+- australia
+- atlantic
+- pacific
+- meg
+- west_africa
+- europe
+- india
+section_count: 1
+signals: {}
+source: breakwave_insights
+source_path: reports/breakwave/2021/2021-11-24_coal-seaborne-volumes-in-record-territory.html
+source_stem: 2021-11-24_coal-seaborne-volumes-in-record-territory
+source_url: https://www.breakwaveadvisors.com/insights/2021/11/24/coal-seaborne-volumes-in-record-territory
+summary: 'Main
+
+  By Ulf Bergman
+
+  After a thirteen-month rally that saw coal prices rising by 450 per cent, Beijing''s
+  recent intervention has resulted in prices retreating more than forty per cent in
+  a month. A combination of political pressure on coal producers and importers and
+  increasing Chinese output has seen the gC Newcastle coal futures stabilising around
+  150 dollars per tonne after months of high drama. In an effort to limit power shortages
+  and bring energy price inflation under control, Chinese authorities have authorised
+  increased production in more than 150 coal mines.'
+themes:
+- china
+- australia
+- europe
+- india
+- coal
+- products
+title: Coal Seaborne Volumes In Record Territory
+vessel_classes:
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
+- aframax
+---
+
+## Summary
+Main
+By Ulf Bergman
+After a thirteen-month rally that saw coal prices rising by 450 per cent, Beijing's recent intervention has resulted in prices retreating more than forty per cent in a month. A combination of political pressure on coal producers and importers and increasing Chinese output has seen the gC Newcastle coal futures stabilising around 150 dollars per tonne after months of high drama. In an effort to limit power shortages and bring energy price inflation under control, Chinese authorities have authorised increased production in more than 150 coal mines.
+
+## Main
+By Ulf Bergman
+After a thirteen-month rally that saw coal prices rising by 450 per cent, Beijing's recent intervention has resulted in prices retreating more than forty per cent in a month. A combination of political pressure on coal producers and importers and increasing Chinese output has seen the gC Newcastle coal futures stabilising around 150 dollars per tonne after months of high drama. In an effort to limit power shortages and bring energy price inflation under control, Chinese authorities have authorised increased production in more than 150 coal mines. During October, Chinese mines produced 357 million tonnes, the highest monthly volume since 2015 and 23 million tonnes more than in the previous month. Production in the first ten months of the year grew by four per cent and reached 3.3 billion tonnes, contributing to the declining prices for Chinese buyers. However, US thermal coal prices have reached a twelve-year high, with the benchmark spot price in the Central Appalachia region surging by close to fifteen per cent in the last week. The renewed interest in coal among European power plants has also driven the continent's carbon emission futures to new highs.
+Coal - gC Newcastle coal futures (USD/tonne)
+Despite the increase in Chinese domestic production, the country's seaborne import volumes have remained robust during the year's second half. While the last few months have not quite matched the record levels discharged in Chinese ports in August, monthly volumes have nevertheless remained well above average. With a bit more than a week remaining of the current month, coal volumes discharged in Chinese ports suggest that monthly volumes are yet again on the rise. A linear projection of the seaborne import quantities points towards a total of 32 million tonnes in November, some twelve per cent above last month but four per cent below the record set in August. However, cargo tracking data from Oceanbolt indicate that imports in December could weaken, as exports destined for Chinese ports have decreased during November compared to previous months.
+Globally, monthly seaborne import volumes of the dirtiest fossil fuel have remained remarkably robust for most of the current year. After declining by almost twenty per cent during the pandemic last year, volumes have recovered the lost ground and continued to edge upwards, as global energy shortages are fuelling demand for the commodity. The current monthly record, set in August, may even be at risk in November despite the month being a day shorter.
+While global seaborne coal import volumes have remained in the vicinity of 120 million tonnes per month for much of the last year, the two largest exporters, Indonesia and Australia, have seen their exports coming under pressure during the second half of the year. Shipments from Indonesia, the world's premier exporter of seaborne coal, have been volatile in the face of adverse weather conditions and Covid-outbreaks in recent months. A recovery in October also appears to have been short-lived, with volumes so far in the current month pointing towards a month-on-month decline of approximately seven per cent.
+Australian coal exports have been under pressure since the Chinese authorities imposed an import embargo on many commodities and products from the country. While Chinese customs cleared limited quantities of Australian coal in October, there is precious little to suggest that this is the beginning of the end of the ban. Australia has had some success in finding new markets for its coal exports, but total volumes remain well below the peaks seen in 2019 and have been trending lower during the second half of the year. Notably, exports to South Korea have dropped by more than four million tonnes, or sixty per cent, between July and October. However, volumes have been recovering somewhat in November, and Australian coal exports to the country are on track to reach four million tonnes by the end of the month.
+At the same time as the largest shippers of coal have been struggling to maintain volumes, South Africa's coal exports have been recovering following months of disruptions caused by surging Covid-infection rates and civil unrest. Monthly exports during the second and third quarters remained subdued at around five million tonnes, but if the current pace is maintained the fourth quarter is likely to see monthly shipped volumes topping six million tonnes. While India remains the major importer of South African coal, China's share has tripled in the last year to twelve per cent compared to its long-term average.
+After trending lower for most of the year, inventory levels in South Africa's main coal export port, Richards Bay, have improved following the period of unrest and a train derailment. According to satellite data from Tathya.earth, the recovery began in late August, in time for the global pick up in demand for coal. However, the strong exports have since seen inventory levels coming off their recent highs.
+The global energy crunch has seen a revival in demand for thermal coal, with a new monthly record for global seaborne import volumes potentially on the cards for this month. However, the more forward-looking export data suggest that discharged volumes may weaken during the last month of the year. According to data from Oceanbolt, 85 million tonnes of coal has been exported globally month to date, which implies 113 million tonnes for the whole month or nine per cent below the volumes recorded in October.

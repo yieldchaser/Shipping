@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-09-03_2020_09_03_capesize_rates_where_do_we_stand_vs_the_past__root",
+  "doc_id": "breakwave_insights_insights_2020-09-03_2020_09_03_capesize_rates_where_do_we_stand_vs_the_past",
+  "parent_id": null,
+  "title": "Capesize Rates Where Do We Stand Vs The Past",
+  "section_path": [
+    "Capesize Rates Where Do We Stand Vs The Past"
+  ],
+  "section_path_text": "Capesize Rates Where Do We Stand Vs The Past",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe last few weeks have been quite uneventful for Capesizes, while in the last few days, spot Capesize rates have been drifting lower amid a dull and uneventful market. Futures are closely following the spot market, as there is little confidence among market participants about the near term direction of spot rates. Yet, if one were to look back at recent history, Capesize rates are not that different for this time of the year.",
+  "keywords": [
+    "capesize",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "are",
+    "year",
+    "historical",
+    "iron",
+    "ore",
+    "range",
+    "ratio",
+    "quarter"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 604,
+  "source_path": "reports/breakwave/2020/2020-09-03_capesize-rates-where-do-we-stand-vs-the-past.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/9/3/capesize-rates-where-do-we-stand-vs-the-past",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-09-03_2020_09_03_capesize_rates_where_do_we_stand_vs_the_past__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-09-03_2020_09_03_capesize_rates_where_do_we_stand_vs_the_past",
+      "parent_id": "breakwave_insights_insights_2020-09-03_2020_09_03_capesize_rates_where_do_we_stand_vs_the_past__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The last few weeks have been quite uneventful for Capesizes, while in the last few days, spot Capesize rates have been drifting lower amid a dull and uneventful market. Futures are closely following the spot market, as there is little confidence among market participants about the near term direction of spot rates.",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "are",
+        "year",
+        "historical",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 602,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

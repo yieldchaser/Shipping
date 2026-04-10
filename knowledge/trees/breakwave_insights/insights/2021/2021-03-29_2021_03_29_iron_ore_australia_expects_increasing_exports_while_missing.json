@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-03-29_2021_03_29_iron_ore_australia_expects_increasing_exports_while_missing__root",
+  "doc_id": "breakwave_insights_insights_2021-03-29_2021_03_29_iron_ore_australia_expects_increasing_exports_while_missing",
+  "parent_id": null,
+  "title": "Iron Ore Australia Expects Increasing Exports While Missing Out On Chinese Growth",
+  "section_path": [
+    "Iron Ore Australia Expects Increasing Exports While Missing Out On Chinese Growth"
+  ],
+  "section_path_text": "Iron Ore Australia Expects Increasing Exports While Missing Out On Chinese Growth",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe Australian government is anticipating the country to export a record-breaking AUD 136 billion (USD 104 billion) worth of iron ore in the financial year ending in June, as the world's steel production recovers in the wake of the pandemic. The optimistic projection comes despite a decline in the exports of metalliferous ores, which mostly mean iron ore, in February, with a month-on-month decline of almost six per cent. However, compared to a year ago the value of the exports in February was, hardly surprising, up by a hefty 60 per cent, as the baseline was distorted by the accelerating pandemic.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "bauxite",
+    "steel",
+    "iron",
+    "ore",
+    "exports",
+    "australian",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 824,
+  "source_path": "reports/breakwave/2021/2021-03-29_iron-ore-australia-expects-increasing-exports-while-missing.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/3/29/iron-ore-australia-expects-increasing-exports-while-missing-out-on-chinese-growth",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-03-29_2021_03_29_iron_ore_australia_expects_increasing_exports_while_missing__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-03-29_2021_03_29_iron_ore_australia_expects_increasing_exports_while_missing",
+      "parent_id": "breakwave_insights_insights_2021-03-29_2021_03_29_iron_ore_australia_expects_increasing_exports_while_missing__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe Australian government is anticipating the country to export a record-breaking AUD 136 billion (USD 104 billion) worth of iron ore in the financial year ending in June, as the world's steel production recovers in the wake of the pandemic. The optimistic projection comes despite a decline in the exports of metalliferous ores, which mostly mean iron ore, in February, with a month-on-month decline of almost six per cent.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "bauxite",
+        "steel",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 822,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

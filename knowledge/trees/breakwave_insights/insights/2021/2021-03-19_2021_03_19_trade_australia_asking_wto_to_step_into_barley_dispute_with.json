@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-03-19_2021_03_19_trade_australia_asking_wto_to_step_into_barley_dispute_with__root",
+  "doc_id": "breakwave_insights_insights_2021-03-19_2021_03_19_trade_australia_asking_wto_to_step_into_barley_dispute_with",
+  "parent_id": null,
+  "title": "Trade Australia Asking Wto To Step Into Barley Dispute With China",
+  "section_path": [
+    "Trade Australia Asking Wto To Step Into Barley Dispute With China"
+  ],
+  "section_path_text": "Trade Australia Asking Wto To Step Into Barley Dispute With China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe Australian government has asked the WTO to formally establish a dispute-settlement panel after the initial informal talks on the trade of barley with China have failed to gain traction. The informal consultations were the first steps following Canberra's formal complaint to the international trade body after Chinese authorities imposed 80 per cent duties on imports of barley from Australia. According to the Australian Trade Minister, contacts have yet to reach ministerial levels and have only been between officials so far.",
+  "keywords": [
+    "china",
+    "australia",
+    "europe",
+    "iron_ore",
+    "grain",
+    "barley",
+    "australian",
+    "chinese",
+    "trade",
+    "million",
+    "tonnes",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 826,
+  "source_path": "reports/breakwave/2021/2021-03-19_trade-australia-asking-wto-to-step-into-barley-dispute-with.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/3/19/trade-australia-asking-wto-to-step-into-barley-dispute-with-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-03-19_2021_03_19_trade_australia_asking_wto_to_step_into_barley_dispute_with__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-03-19_2021_03_19_trade_australia_asking_wto_to_step_into_barley_dispute_with",
+      "parent_id": "breakwave_insights_insights_2021-03-19_2021_03_19_trade_australia_asking_wto_to_step_into_barley_dispute_with__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe Australian government has asked the WTO to formally establish a dispute-settlement panel after the initial informal talks on the trade of barley with China have failed to gain traction. The informal consultations were the first steps following Canberra's formal complaint to the international trade body after Chinese authorities imposed 80 per cent duties on imports of barley from Australia.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "iron_ore",
+        "grain",
+        "barley",
+        "australian",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 824,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

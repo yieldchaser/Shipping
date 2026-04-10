@@ -1,0 +1,112 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s__root",
+  "doc_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s",
+  "parent_id": null,
+  "title": "13S2Kwa4Isr51E418Plw93B9U2Es7S",
+  "section_path": [
+    "13S2Kwa4Isr51E418Plw93B9U2Es7S"
+  ],
+  "section_path_text": "13S2Kwa4Isr51E418Plw93B9U2Es7S",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Dylan Simpson\n\nANALYSIS / EAST OF SUEZ / DIRTY\nFlexibility and diversity keeping Suezmaxes afloat\nAframax and Suezmax utilisation for Russian crude\nIn the last few weeks, Suezmax utilisation for Russian crude has stagnated but remains high. In contrast, Aframax utilisation for Russian crude has declined almost 20% in the same period. This is currently driven by lower tonne-miles into East Asia for both tanker classes.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "europe",
+    "crude",
+    "russian",
+    "utilisation",
+    "demand",
+    "east",
+    "high"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 455,
+  "source_path": "reports/breakwave/2023/2023-06-29_13s2kwa4isr51e418plw93b9u2es7s.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/29/13s2kwa4isr51e418plw93b9u2es7s",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s",
+      "parent_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "dylan",
+        "simpson"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s__s02_analysis_east_of_suez_dirty",
+      "doc_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s",
+      "parent_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s__root",
+      "title": "ANALYSIS / EAST OF SUEZ / DIRTY",
+      "section_path": [
+        "ANALYSIS / EAST OF SUEZ / DIRTY"
+      ],
+      "section_path_text": "ANALYSIS / EAST OF SUEZ / DIRTY",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Flexibility and diversity keeping Suezmaxes afloat\nAframax and Suezmax utilisation for Russian crude\nIn the last few weeks, Suezmax utilisation for Russian crude has stagnated but remains high. In contrast, Aframax utilisation for Russian crude has declined almost 20% in the same period.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "europe",
+        "russian",
+        "crude",
+        "flexibility",
+        "other",
+        "suezmaxes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s__s03_analysis_west_of_suez_dirty",
+      "doc_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s",
+      "parent_id": "breakwave_insights_insights_2023-06-29_2023_06_29_13s2kwa4isr51e418plw93b9u2es7s__root",
+      "title": "ANALYSIS / WEST OF SUEZ / DIRTY",
+      "section_path": [
+        "ANALYSIS / WEST OF SUEZ / DIRTY"
+      ],
+      "section_path_text": "ANALYSIS / WEST OF SUEZ / DIRTY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "VLCCs set to find support USG-to-Europe\nWeekly crude tanker utilisation USG-to-Europe by vessel class\nTransatlantic crude tanker demand has been high as a result of Europe's multi-year high US crude imports . Aframax tonne-mile demand was especially high at the end of May on the back of the inclusion of WTI in the Brent pricing assessment.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "europe",
+        "utilisation",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

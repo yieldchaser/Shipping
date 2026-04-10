@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__root",
+  "doc_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations",
+  "parent_id": null,
+  "title": "The Big Picture Major Escalations",
+  "section_path": [
+    "The Big Picture Major Escalations"
+  ],
+  "section_path_text": "The Big Picture Major Escalations",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Mark Nugent\nSince our previous analysis on the ongoing situation between Russia and Ukraine, tensions have escalated and a first round of sanctions has been put in place. We update on how things have transpired and how it is affecting the dry bulk market. Tensions Rising\nIn the early hours on Thursday it was revealed the Russian military would conduct ‘special military operations‘ in Ukraine.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "australia",
+    "europe",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "gas",
+    "russian",
+    "sanctions"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1115,
+  "source_path": "reports/breakwave/2022/2022-02-27_the-big-picture-major-escalations.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/27/the-big-picture-major-escalations",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations",
+      "parent_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Mark Nugent\nSince our previous analysis on the ongoing situation between Russia and Ukraine, tensions have escalated and a first round of sanctions has been put in place. We update on how things have transpired and how it is affecting the dry bulk market.",
+      "keywords": [
+        "how",
+        "affecting",
+        "analysis",
+        "between",
+        "escalated",
+        "first",
+        "mark",
+        "market."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 51,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__s02_tensions_rising",
+      "doc_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations",
+      "parent_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__root",
+      "title": "Tensions Rising",
+      "section_path": [
+        "Tensions Rising"
+      ],
+      "section_path_text": "Tensions Rising",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In the early hours on Thursday it was revealed the Russian military would conduct ‘special military operations‘ in Ukraine. Following the announcement, attacks were reported across the Russian-Ukrainian border, threatening to start a full-scale war.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "europe",
+        "grain",
+        "crude_oil",
+        "gas",
+        "prices",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 210,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__s03_sanctions_rolling_out",
+      "doc_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations",
+      "parent_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__root",
+      "title": "Sanctions rolling out",
+      "section_path": [
+        "Sanctions rolling out"
+      ],
+      "section_path_text": "Sanctions rolling out",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "As of today, sanctions imposed on Russia include several of the country's banks and high net-worth individuals. Germany also moved to halt the Nord Stream 2 gas pipeline project, although existing pipelines from Russia into Europe remain operational and unaffected at this time.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "coal",
+        "grain",
+        "gas",
+        "russia",
+        "russian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 363,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__s04_congestion",
+      "doc_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations",
+      "parent_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__root",
+      "title": "Congestion",
+      "section_path": [
+        "Congestion"
+      ],
+      "section_path_text": "Congestion",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Bulker queues in the Black Sea region stood at 2.1m dwt before the events of last night, amounting to 37 vessels across all vessel types sub-Cape. At 2.1m dwt, bulker queues in the Black Sea stood 10.1% above the 5 year average and 61.2% higher than levels seen this time last year.",
+      "keywords": [
+        "capesize",
+        "black",
+        "sea",
+        "are",
+        "bulker",
+        "dwt",
+        "last",
+        "queues"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__s05_ukraine_port_operations_halted",
+      "doc_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations",
+      "parent_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__root",
+      "title": "Ukraine port operations halted",
+      "section_path": [
+        "Ukraine port operations halted"
+      ],
+      "section_path_text": "Ukraine port operations halted",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Whilst the situation continues to unfold, the Ukrainian military has reportedly suspended all port operations in Ukraine, particularly as regions such as Odessa become increasingly under fire. Before this, some ports had already declared force majeure as port staff returned home for safety.",
+      "keywords": [
+        "coal",
+        "grain",
+        "steel",
+        "ports",
+        "azov",
+        "due",
+        "had",
+        "home"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__s06_moving_forward",
+      "doc_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations",
+      "parent_id": "breakwave_insights_insights_2022-02-27_2022_02_27_the_big_picture_major_escalations__root",
+      "title": "Moving forward",
+      "section_path": [
+        "Moving forward"
+      ],
+      "section_path_text": "Moving forward",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Increased sanctions on major Russian financial institutions will prohibit these banks from transacting with buyers of Russian exports in the countries which enforced them. In the scenario of mass sanctions on Russian exports, this will have a similar effect.",
+      "keywords": [
+        "china",
+        "europe",
+        "coal",
+        "gas",
+        "russian",
+        "sanctions",
+        "countries",
+        "elsewhere"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

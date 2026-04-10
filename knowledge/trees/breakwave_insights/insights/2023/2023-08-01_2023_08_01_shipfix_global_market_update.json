@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nA rebound for the Capesize freight rates contributed to the BDI advancing by more than thirteen per cent last week. Among the commodities, crude oil continued to recover as the global supply situation continued to look increasingly tight, while softer demand weighed on the other energy commodities and iron ore. Macro/Geopolitics\nThe new week has begun with the Chinese statistics authority publishing the Purchasing Manager Indices for July.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1472,
+  "source_path": "reports/breakwave/2023/2023-08-01_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/1/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nA rebound for the Capesize freight rates contributed to the BDI advancing by more than thirteen per cent last week. Among the commodities, crude oil continued to recover as the global supply situation continued to look increasingly tight, while softer demand weighed on the other energy commodities and iron ore.",
+      "keywords": [
+        "capesize",
+        "iron_ore",
+        "crude_oil",
+        "commodities",
+        "continued",
+        "advancing",
+        "among",
+        "bdi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 63,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The new week has begun with the Chinese statistics authority publishing the Purchasing Manager Indices for July. The reading for the manufacturing sector was marginally higher than the market expectations, but at 49.3, it was nevertheless in contraction territory.",
+      "keywords": [
+        "china",
+        "sector",
+        "chinese",
+        "pmi",
+        "data",
+        "manufacturing",
+        "provide",
+        "released"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 277,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil extended gains into a fifth consecutive week as an improving Chinese demand outlook and concerns over the global supply situation supported prices. The October Brent futures advanced by 4.4 per cent over the course of the week and ended Friday's session at 84.41 dollars per barrel.",
+      "keywords": [
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 540,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index bounced back last week, with the Capesizes providing much of the fuel for the gains. The headline index advanced by 13.5 per cent over the week, with much of the increase realised on Wednesday.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 382,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-08-01_2023_08_01_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "US September rough rice futures have seen continued volatility during July, with the contracts gaining nearly ten per cent during the middle of the month. However, the contracts have come under renewed pressure during the past week, with losses exceeding four per cent.",
+      "keywords": [
+        "india",
+        "during",
+        "rice",
+        "july",
+        "middle",
+        "prices",
+        "recent",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-09_2021_04_09_coal_contradictions_define_chinese_demand__root",
+  "doc_id": "breakwave_insights_insights_2021-04-09_2021_04_09_coal_contradictions_define_chinese_demand",
+  "parent_id": null,
+  "title": "Coal Contradictions Define Chinese Demand",
+  "section_path": [
+    "Coal Contradictions Define Chinese Demand"
+  ],
+  "section_path_text": "Coal Contradictions Define Chinese Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThere are currently several contradictions and question marks regarding the Chinese demand for coal, both in the short and longer terms. The increasing political drive towards a decarbonised economy by the Chinese leadership would suggest a decreasing demand for the black stuff in the not too distant future. At the same time, the country is the global leader in developing new coal-fired power plants by a considerable margin.",
+  "keywords": [
+    "lng",
+    "china",
+    "australia",
+    "europe",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "chinese",
+    "energy",
+    "are",
+    "australian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 956,
+  "source_path": "reports/breakwave/2021/2021-04-09_coal-contradictions-define-chinese-demand.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/9/coal-contradictions-define-chinese-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-09_2021_04_09_coal_contradictions_define_chinese_demand__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-09_2021_04_09_coal_contradictions_define_chinese_demand",
+      "parent_id": "breakwave_insights_insights_2021-04-09_2021_04_09_coal_contradictions_define_chinese_demand__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThere are currently several contradictions and question marks regarding the Chinese demand for coal, both in the short and longer terms. The increasing political drive towards a decarbonised economy by the Chinese leadership would suggest a decreasing demand for the black stuff in the not too distant future.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "europe",
+        "coal",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 954,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

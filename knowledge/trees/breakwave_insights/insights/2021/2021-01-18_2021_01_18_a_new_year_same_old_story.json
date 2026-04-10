@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-01-18_2021_01_18_a_new_year_same_old_story__root",
+  "doc_id": "breakwave_insights_insights_2021-01-18_2021_01_18_a_new_year_same_old_story",
+  "parent_id": null,
+  "title": "A New Year Same Old Story",
+  "section_path": [
+    "A New Year Same Old Story"
+  ],
+  "section_path_text": "A New Year Same Old Story",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nOnly a few weeks into the new year and it is already looking extraordinarily similar to the second half of the previous one. The news flow feels remarkably familiar, i.e., China is doing very well, and the rest of the world is not. The Chinese economy has been widely expected to deliver positive growth for the full year, given the strength of the second half of last year, and the official 2.3 percent growth published on Monday was even slightly better than the economists' expectations.",
+  "keywords": [
+    "china",
+    "australia",
+    "coal",
+    "year",
+    "chinese",
+    "growth",
+    "are",
+    "economy",
+    "levels",
+    "continued",
+    "demand",
+    "full"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 562,
+  "source_path": "reports/breakwave/2021/2021-01-18_a-new-year-same-old-story.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/1/18/a-new-year-same-old-story",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-01-18_2021_01_18_a_new_year_same_old_story__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-01-18_2021_01_18_a_new_year_same_old_story",
+      "parent_id": "breakwave_insights_insights_2021-01-18_2021_01_18_a_new_year_same_old_story__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nOnly a few weeks into the new year and it is already looking extraordinarily similar to the second half of the previous one. The news flow feels remarkably familiar, i.e., China is doing very well, and the rest of the world is not.",
+      "keywords": [
+        "china",
+        "australia",
+        "coal",
+        "year",
+        "chinese",
+        "growth",
+        "are",
+        "economy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 560,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-12-05_2021_12_05_the_big_picture_2021_in_review_pt1__root",
+  "doc_id": "breakwave_insights_insights_2021-12-05_2021_12_05_the_big_picture_2021_in_review_pt1",
+  "parent_id": null,
+  "title": "The Big Picture 2021 In Review Pt1",
+  "section_path": [
+    "The Big Picture 2021 In Review Pt1"
+  ],
+  "section_path_text": "The Big Picture 2021 In Review Pt1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nick Ristic\nThe Capes\nAs the year draws to a close, we review the wild ride that has been the Cape market in 2021. We've seen multi-year highs for freight and commodity prices, and with 2022 looming, the market remains on good, albeit volatile, footing. Ramping up\n2021 started with an unseasonable jump in Cape rates in January, boosted by a surge in congestion in the Far East (a recurring theme this year).",
+  "keywords": [
+    "capesize",
+    "china",
+    "australia",
+    "iron_ore",
+    "coal",
+    "steel",
+    "year",
+    "cape",
+    "levels",
+    "was",
+    "but",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1188,
+  "source_path": "reports/breakwave/2021/2021-12-05_the-big-picture-2021-in-review-pt1.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/12/5/the-big-picture-2021-in-review-pt1",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-12-05_2021_12_05_the_big_picture_2021_in_review_pt1__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-12-05_2021_12_05_the_big_picture_2021_in_review_pt1",
+      "parent_id": "breakwave_insights_insights_2021-12-05_2021_12_05_the_big_picture_2021_in_review_pt1__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nick Ristic\nThe Capes\nAs the year draws to a close, we review the wild ride that has been the Cape market in 2021. We've seen multi-year highs for freight and commodity prices, and with 2022 looming, the market remains on good, albeit volatile, footing.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "iron_ore",
+        "coal",
+        "steel",
+        "year",
+        "cape"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1186,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

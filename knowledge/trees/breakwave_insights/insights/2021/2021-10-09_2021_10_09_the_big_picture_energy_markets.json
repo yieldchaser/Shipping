@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__root",
+  "doc_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets",
+  "parent_id": null,
+  "title": "The Big Picture Energy Markets",
+  "section_path": [
+    "The Big Picture Energy Markets"
+  ],
+  "section_path_text": "The Big Picture Energy Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nick Ristic\nCoal chaos\nThe shipping markets have been pulled further into wild markets of coal and other energy sources. Given how nebulous this sector is, it's always difficult to point to individual stories that are impacting freight, the below is an overview of how shipping is being affected in the various corners of this market. Enormous volatility\nAnother day, another supply chain crisis.",
+  "keywords": [
+    "capesize",
+    "lng",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "europe",
+    "india",
+    "iron_ore",
+    "coal",
+    "grain",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1437,
+  "source_path": "reports/breakwave/2021/2021-10-09_the-big-picture-energy-markets.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/10/9/the-big-picture-energy-markets",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets",
+      "parent_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nick Ristic\nCoal chaos\nThe shipping markets have been pulled further into wild markets of coal and other energy sources. Given how nebulous this sector is, it's always difficult to point to individual stories that are impacting freight, the below is an overview of how shipping is being affected in the various corners of this market.",
+      "keywords": [
+        "coal",
+        "grain",
+        "how",
+        "markets",
+        "affected",
+        "always",
+        "are",
+        "being"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__s02_enormous_volatility",
+      "doc_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets",
+      "parent_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__root",
+      "title": "Enormous volatility",
+      "section_path": [
+        "Enormous volatility"
+      ],
+      "section_path_text": "Enormous volatility",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Another day, another supply chain crisis. Since we last wrote about coal a few weeks ago, the market has continued to tighten, with the commodity becoming exceptionally scarce.",
+      "keywords": [
+        "lng",
+        "europe",
+        "coal",
+        "gas",
+        "prices",
+        "per",
+        "here",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 359,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__s03_china_getting_tighter",
+      "doc_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets",
+      "parent_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__root",
+      "title": "China getting tighter",
+      "section_path": [
+        "China getting tighter"
+      ],
+      "section_path_text": "China getting tighter",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "As we have written for much of this year, China has been facing extremely high coal prices due to its import quotas, the ban on Australian supply, COVID-related restrictions on overland imports and shortfalls in domestic supply. But in recent weeks the situation has deteriorated and end-users are scrambling for material.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "coal",
+        "imports",
+        "supply",
+        "volumes",
+        "yoy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 337,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__s04_india_too",
+      "doc_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets",
+      "parent_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__root",
+      "title": "India too",
+      "section_path": [
+        "India too"
+      ],
+      "section_path_text": "India too",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "More recently, India has joined the ranks of countries experiencing fuel shortages, helping to propel coal prices higher. Coal India, the country's state-owned producer that accounts for about 80% of the country's output has seen its operations throttled by flooding, while Indian power demand is resurging from the pandemic lows.",
+      "keywords": [
+        "india",
+        "coal",
+        "are",
+        "demand",
+        "power",
+        "supply",
+        "country",
+        "domestic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 221,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__s05_freight",
+      "doc_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets",
+      "parent_id": "breakwave_insights_insights_2021-10-09_2021_10_09_the_big_picture_energy_markets__root",
+      "title": "Freight",
+      "section_path": [
+        "Freight"
+      ],
+      "section_path_text": "Freight",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Amid this coal rush, freight rates have also surged for the larger bulk carriers, with Capesize utilisation rates now at the extremely high levels that the geared ships have been at for the last few months. The bump in demand has come on top of healthy volumes of iron ore shipments in both basins and continued congestion issues in China, which are currently sapping about 6.6% of Capesize supply.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "iron_ore",
+        "coal",
+        "shipments",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 437,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

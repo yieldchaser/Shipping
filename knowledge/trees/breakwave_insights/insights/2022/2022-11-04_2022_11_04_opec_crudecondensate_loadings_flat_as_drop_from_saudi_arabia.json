@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-04_2022_11_04_opec_crudecondensate_loadings_flat_as_drop_from_saudi_arabia__root",
+  "doc_id": "breakwave_insights_insights_2022-11-04_2022_11_04_opec_crudecondensate_loadings_flat_as_drop_from_saudi_arabia",
+  "parent_id": null,
+  "title": "Opec Crudecondensate Loadings Flat As Drop From Saudi Arabia Offset By Other Middle East And Africa 1",
+  "section_path": [
+    "Opec Crudecondensate Loadings Flat As Drop From Saudi Arabia Offset By Other Middle East And Africa 1"
+  ],
+  "section_path_text": "Opec Crudecondensate Loadings Flat As Drop From Saudi Arabia Offset By Other Middle East And Africa 1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jay Maroo\nTotal OPEC+ crude/condensate loadings in October stood at around 29.5, of which OPEC Middle East's contributed 18.5mbd - both totals show little change from September. But within the Middle East, the m-o-m change in Saudi loadings showed a sharp contrast to those elsewhere in the region. OPEC+ crude/condensate loadings by region (mbd)\nSaudi loadings fell by 570kbd on the month in October, the largest drop observed since March 2022.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "loadings",
+    "crude",
+    "mbd",
+    "opec",
+    "sharp",
+    "after",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 723,
+  "source_path": "reports/breakwave/2022/2022-11-04_opec-crudecondensate-loadings-flat-as-drop-from-saudi-arabia.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/4/opec-crudecondensate-loadings-flat-as-drop-from-saudi-arabia-offset-by-other-middle-east-and-africa-1",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-04_2022_11_04_opec_crudecondensate_loadings_flat_as_drop_from_saudi_arabia__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-04_2022_11_04_opec_crudecondensate_loadings_flat_as_drop_from_saudi_arabia",
+      "parent_id": "breakwave_insights_insights_2022-11-04_2022_11_04_opec_crudecondensate_loadings_flat_as_drop_from_saudi_arabia__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jay Maroo\nTotal OPEC+ crude/condensate loadings in October stood at around 29.5, of which OPEC Middle East's contributed 18.5mbd - both totals show little change from September. But within the Middle East, the m-o-m change in Saudi loadings showed a sharp contrast to those elsewhere in the region.",
+      "keywords": [
+        "brazil",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "loadings",
+        "crude",
+        "mbd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 721,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

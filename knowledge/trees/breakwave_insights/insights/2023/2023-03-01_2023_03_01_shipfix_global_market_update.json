@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Macro/Geopolitics\nChinese manufacturing is recovering quickly following the country's removal of its strict Covid policies. The PMI data for February published earlier today point towards a rapid recovery for Chinese industrial production, with both the official survey from the country's statistics agency and the Caixin beating market expectations. The official PMI surged to 52.6 last month from 50.1 in January, surpassing expectations of 50.5 by a considerable margin and reaching the highest level in over ten years.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia",
+    "meg",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1275,
+  "source_path": "reports/breakwave/2023/2023-03-01_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/1/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update__s01_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Chinese manufacturing is recovering quickly following the country's removal of its strict Covid policies. The PMI data for February published earlier today point towards a rapid recovery for Chinese industrial production, with both the official survey from the country's statistics agency and the Caixin beating market expectations.",
+      "keywords": [
+        "china",
+        "chinese",
+        "official",
+        "country",
+        "pmi",
+        "beating",
+        "caixin",
+        "considerable"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update__s02_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Brent crude oil advanced by 1.7 per cent yesterday and settled at 83.45 dollars per barrel amid rising concerns over global supplies as Russian production is set to decrease in the coming month. The May contracts have swung between gains and losses during today's trading session, with the stronger-than-expected Chinese PMI temporarily pushing the prices into the black.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 434,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update__s03_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The recent development of all Baltic Exchange's dry bulk indices advancing at the same time extended into a sixth consecutive session yesterday, albeit in a more balanced fashion. The headline Baltic Dry Index increased by 5.9 per cent for a second day in a row, but, unlike the past week, the Capesizes were not the main drivers.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "brazil",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 341,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update__s04_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-01_2023_03_01_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Following the European ban on imports of Russian coal, the miners have been forced to find alternative markets for their output. The loss of the closest market has seen Russian coal loading in the Baltic Sea travelling longer distances to reach the new export markets.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "coal",
+        "east",
+        "asian",
+        "far"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

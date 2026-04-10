@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-19_2022_12_19_mazars_notea_positive_message_for_2023_the_world_is_rebootin__root",
+  "doc_id": "breakwave_insights_insights_2022-12-19_2022_12_19_mazars_notea_positive_message_for_2023_the_world_is_rebootin",
+  "parent_id": null,
+  "title": "Mazars Notea Positive Message For 2023 The World Is Rebooting And Thats Good",
+  "section_path": [
+    "Mazars Notea Positive Message For 2023 The World Is Rebooting And Thats Good"
+  ],
+  "section_path_text": "Mazars Notea Positive Message For 2023 The World Is Rebooting And Thats Good",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nIt is an uncomfortable message that we end the year with, yet a necessary one. Stability should never be seen as the ‘normal' state of things. And that's well and truly better for truly long-term investors.",
+  "keywords": [
+    "europe",
+    "steel",
+    "not",
+    "investors",
+    "but",
+    "can",
+    "may",
+    "new",
+    "stability",
+    "economy",
+    "global",
+    "only"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1162,
+  "source_path": "reports/breakwave/2022/2022-12-19_mazars-notea-positive-message-for-2023-the-world-is-rebootin.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/19/mazars-notea-positive-message-for-2023-the-world-is-rebooting-and-thats-good",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-19_2022_12_19_mazars_notea_positive_message_for_2023_the_world_is_rebootin__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-19_2022_12_19_mazars_notea_positive_message_for_2023_the_world_is_rebootin",
+      "parent_id": "breakwave_insights_insights_2022-12-19_2022_12_19_mazars_notea_positive_message_for_2023_the_world_is_rebootin__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nIt is an uncomfortable message that we end the year with, yet a necessary one. Stability should never be seen as the ‘normal' state of things.",
+      "keywords": [
+        "europe",
+        "steel",
+        "not",
+        "investors",
+        "but",
+        "can",
+        "may",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1160,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

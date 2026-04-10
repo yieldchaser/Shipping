@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-01-10_2022_01_10_935dp1ga04w23r3nszondofnfu4egu__root",
+  "doc_id": "breakwave_insights_insights_2022-01-10_2022_01_10_935dp1ga04w23r3nszondofnfu4egu",
+  "parent_id": null,
+  "title": "935Dp1Ga04W23R3Nszondofnfu4Egu",
+  "section_path": [
+    "935Dp1Ga04W23R3Nszondofnfu4Egu"
+  ],
+  "section_path_text": "935Dp1Ga04W23R3Nszondofnfu4Egu",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWeek ahead\nLast week saw the second-worst opening to the year for US equities post-Lehman, prompted by a hawkish Fed and led by a decline in highly valued US tech stocks. This week is expected to provide the definitive test for the world's most prominent sector and possibly set the tone for the next few months. Meanwhile, the earnings season has begun in the US, with banks reporting throughout the week.",
+  "keywords": [
+    "china",
+    "europe",
+    "crude_oil",
+    "are",
+    "central",
+    "but",
+    "inflation",
+    "world",
+    "end",
+    "especially",
+    "new",
+    "pandemic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1275,
+  "source_path": "reports/breakwave/2022/2022-01-10_935dp1ga04w23r3nszondofnfu4egu.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/1/10/935dp1ga04w23r3nszondofnfu4egu",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-01-10_2022_01_10_935dp1ga04w23r3nszondofnfu4egu__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-01-10_2022_01_10_935dp1ga04w23r3nszondofnfu4egu",
+      "parent_id": "breakwave_insights_insights_2022-01-10_2022_01_10_935dp1ga04w23r3nszondofnfu4egu__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Week ahead\nLast week saw the second-worst opening to the year for US equities post-Lehman, prompted by a hawkish Fed and led by a decline in highly valued US tech stocks. This week is expected to provide the definitive test for the world's most prominent sector and possibly set the tone for the next few months.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "are",
+        "central",
+        "but",
+        "inflation",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1273,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-05-11_2021_05_11_south_american_grain_exports_on_the_rise_but_in_the_shadow_o__root",
+  "doc_id": "breakwave_insights_insights_2021-05-11_2021_05_11_south_american_grain_exports_on_the_rise_but_in_the_shadow_o",
+  "parent_id": null,
+  "title": "South American Grain Exports On The Rise But In The Shadow Of Iron Ore",
+  "section_path": [
+    "South American Grain Exports On The Rise But In The Shadow Of Iron Ore"
+  ],
+  "section_path_text": "South American Grain Exports On The Rise But In The Shadow Of Iron Ore",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe drought and rain that delayed the Brazilian soybean harvest have produced some statistical consequences. The Brazilian Trade Ministry announced last week that the country exported 12.6 million tonnes to China in April, an increase of nineteen per cent on the same month last year. It represented the largest monthly increase since records began in 1997.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "grain",
+    "crude_oil",
+    "export",
+    "soybean",
+    "chinese",
+    "iron",
+    "ore",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 689,
+  "source_path": "reports/breakwave/2021/2021-05-11_south-american-grain-exports-on-the-rise-but-in-the-shadow-o.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/5/11/south-american-grain-exports-on-the-rise-but-in-the-shadow-of-iron-ore",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-05-11_2021_05_11_south_american_grain_exports_on_the_rise_but_in_the_shadow_o__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-05-11_2021_05_11_south_american_grain_exports_on_the_rise_but_in_the_shadow_o",
+      "parent_id": "breakwave_insights_insights_2021-05-11_2021_05_11_south_american_grain_exports_on_the_rise_but_in_the_shadow_o__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe drought and rain that delayed the Brazilian soybean harvest have produced some statistical consequences. The Brazilian Trade Ministry announced last week that the country exported 12.6 million tonnes to China in April, an increase of nineteen per cent on the same month last year.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "grain",
+        "crude_oil",
+        "export",
+        "soybean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 687,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

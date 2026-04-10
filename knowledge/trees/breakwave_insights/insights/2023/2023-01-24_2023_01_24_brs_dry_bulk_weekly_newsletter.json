@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter__root",
+  "doc_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter",
+  "parent_id": null,
+  "title": "Brs Dry Bulk Weekly Newsletter",
+  "section_path": [
+    "Brs Dry Bulk Weekly Newsletter"
+  ],
+  "section_path_text": "Brs Dry Bulk Weekly Newsletter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "CII : The New Pandora Box? As we embark on 2023, the most anticipated (or not?) regulation that impacts shipping will be the Carbon Intensity Indicator (CII) via amendments to MARPOL Annex VI. The first annual reporting will be completed in 2023, with initial CII ratings given in 2024.",
+  "keywords": [
+    "china",
+    "australia",
+    "singapore",
+    "japan",
+    "coal",
+    "gas",
+    "cii",
+    "would",
+    "ship",
+    "had",
+    "its",
+    "port"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2743,
+  "source_path": "reports/breakwave/2023/2023-01-24_brs-dry-bulk-weekly-newsletter.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/24/brs-dry-bulk-weekly-newsletter",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter__s01_cii_the_new_pandora_box",
+      "doc_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter__root",
+      "title": "CII : The New Pandora Box?",
+      "section_path": [
+        "CII : The New Pandora Box?"
+      ],
+      "section_path_text": "CII : The New Pandora Box?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we embark on 2023, the most anticipated (or not?) regulation that impacts shipping will be the Carbon Intensity Indicator (CII) via amendments to MARPOL Annex VI. The first annual reporting will be completed in 2023, with initial CII ratings given in 2024.",
+      "keywords": [
+        "gas",
+        "cii",
+        "ship",
+        "being",
+        "imo",
+        "carbon",
+        "emissions",
+        "even"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 380,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter__s02_commercial_operational_pain_points",
+      "doc_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter__root",
+      "title": "Commercial & Operational Pain Points?",
+      "section_path": [
+        "Commercial & Operational Pain Points?"
+      ],
+      "section_path_text": "Commercial & Operational Pain Points?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The CII formula is basically the product of \"Full Voyage Fuel Burned and Carbon Factor (depending on fuel type used)\" divided by the product of \"Summer Deadweight Ton (DWT) and Full Distance (both ballast and laden)\". The result is to calculate the amount of CO2 (grams) emitted per DWTnautical mile aka carbon intensity.",
+      "keywords": [
+        "china",
+        "australia",
+        "singapore",
+        "japan",
+        "coal",
+        "cii",
+        "its",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1075,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter__s03_policy_legal_hurdles",
+      "doc_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter__root",
+      "title": "Policy & Legal Hurdles?",
+      "section_path": [
+        "Policy & Legal Hurdles?"
+      ],
+      "section_path_text": "Policy & Legal Hurdles?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "For any policy/law/regulation to be effective, we need to ensure there will be strict and fair enforcement and clear penalties for non-compliance. Otherwise, it will amount to a ‘paper tiger'.",
+      "keywords": [
+        "rating",
+        "cii",
+        "had",
+        "would",
+        "action",
+        "charterers",
+        "consecutive",
+        "corrective"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 663,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter__s04_2023_expectations",
+      "doc_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-01-24_2023_01_24_brs_dry_bulk_weekly_newsletter__root",
+      "title": "2023 Expectations?",
+      "section_path": [
+        "2023 Expectations?"
+      ],
+      "section_path_text": "2023 Expectations?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Back in 2022, the consensus among shipping analysts was that dry bulk net fleet growth in 2023 should not exceed 2%. This was partly rooted in the belief that the CII should weed out any poor-performing ships.",
+      "keywords": [
+        "china",
+        "cii",
+        "any",
+        "demolition",
+        "had",
+        "speed",
+        "would",
+        "commercial"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 599,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

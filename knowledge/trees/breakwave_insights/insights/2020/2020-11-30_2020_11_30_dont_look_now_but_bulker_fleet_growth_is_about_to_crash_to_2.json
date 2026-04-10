@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-11-30_2020_11_30_dont_look_now_but_bulker_fleet_growth_is_about_to_crash_to_2__root",
+  "doc_id": "breakwave_insights_insights_2020-11-30_2020_11_30_dont_look_now_but_bulker_fleet_growth_is_about_to_crash_to_2",
+  "parent_id": null,
+  "title": "Dont Look Now But Bulker Fleet Growth Is About To Crash To 20 Year Lows",
+  "section_path": [
+    "Dont Look Now But Bulker Fleet Growth Is About To Crash To 20 Year Lows"
+  ],
+  "section_path_text": "Dont Look Now But Bulker Fleet Growth Is About To Crash To 20 Year Lows",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe past decade has been quite challenging (to say the least) for dry bulk, as the ordering frenzy of the late 2000s had a meaningful impact on fleet growth in the early years of the decade outpacing demand growth by a wide margin and pushing fleet utilization to low levels. The dry bulk fleet almost doubled from 2000 to 2010, and it went to further increase by another 70% from 2010 to 2020. Although weak freight rates also led to higher scrapping with about 25% of the fleet ending up in scrapyards during the decade, that was no match for the significant growth in new deliveries.",
+  "keywords": [
+    "iron_ore",
+    "coal",
+    "fleet",
+    "sector",
+    "low",
+    "new",
+    "but",
+    "growth",
+    "world",
+    "years",
+    "cost",
+    "current"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 793,
+  "source_path": "reports/breakwave/2020/2020-11-30_dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-2.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/11/30/dont-look-now-but-bulker-fleet-growth-is-about-to-crash-to-20-year-lows",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-11-30_2020_11_30_dont_look_now_but_bulker_fleet_growth_is_about_to_crash_to_2__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-11-30_2020_11_30_dont_look_now_but_bulker_fleet_growth_is_about_to_crash_to_2",
+      "parent_id": "breakwave_insights_insights_2020-11-30_2020_11_30_dont_look_now_but_bulker_fleet_growth_is_about_to_crash_to_2__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The past decade has been quite challenging (to say the least) for dry bulk, as the ordering frenzy of the late 2000s had a meaningful impact on fleet growth in the early years of the decade outpacing demand growth by a wide margin and pushing fleet utilization to low levels. The dry bulk fleet almost doubled from 2000 to 2010, and it went to further increase by another 70% from 2010 to 2020.",
+      "keywords": [
+        "iron_ore",
+        "coal",
+        "fleet",
+        "sector",
+        "low",
+        "new",
+        "but",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 791,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

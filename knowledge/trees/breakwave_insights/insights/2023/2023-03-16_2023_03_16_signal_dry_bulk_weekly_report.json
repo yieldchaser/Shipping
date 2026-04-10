@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week Dry Bulk: Capesize Demand Ton Charts\nRemarkable increase of ton days and miles from Australia to China in the 1h of March\n\nData Source: The Signal Ocean Platform, Demand https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nqvh7/307767933?h=jlHAaj_BLZ8Rg2nGXAKidQPHOmN-K45Rk-fluYEKa24\nThe second week of March fueled optimism for a month of higher rates, as demand for Capesize vessels surprisingly increased in the face of increased Chinese demand for iron ore. Looking at the trend in demand growth (ton-days) from Australia to China (see chart above), we can see an upturn not seen in a similar period in the previous two years. It remains to be seen whether this upswing will continue at a similarly high level in the next few days of March.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "australia",
+    "europe",
+    "iron_ore",
+    "vessels",
+    "demand",
+    "number",
+    "increasing"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1044,
+  "source_path": "reports/breakwave/2023/2023-03-16_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/16/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_capesize_demand_ton_charts",
+      "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: Capesize Demand Ton Charts",
+      "section_path": [
+        "Chart of the Week Dry Bulk: Capesize Demand Ton Charts"
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: Capesize Demand Ton Charts",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Remarkable increase of ton days and miles from Australia to China in the 1h of March",
+      "keywords": [
+        "china",
+        "australia",
+        "days",
+        "increase",
+        "march",
+        "miles",
+        "remarkable",
+        "ton"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__s02_data_source_the_signal_ocean_platform_demand_https_go_signalocean_com_e_983831_dry_reports_ton_charts_dry_2nqvh7_307767933_h_jlhaaj_blz8rg2ngxakidqphomn_k45rk_fluyeka24",
+      "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__root",
+      "title": "Data Source: The Signal Ocean Platform, Demand https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nqvh7/307767933?h=jlHAaj_BLZ8Rg2nGXAKidQPHOmN-K45Rk-fluYEKa24",
+      "section_path": [
+        "Data Source: The Signal Ocean Platform, Demand https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nqvh7/307767933?h=jlHAaj_BLZ8Rg2nGXAKidQPHOmN-K45Rk-fluYEKa24"
+      ],
+      "section_path_text": "Data Source: The Signal Ocean Platform, Demand https://go.signalocean.com/e/983831/dry-reports-ton-charts-dry/2nqvh7/307767933?h=jlHAaj_BLZ8Rg2nGXAKidQPHOmN-K45Rk-fluYEKa24",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The second week of March fueled optimism for a month of higher rates, as demand for Capesize vessels surprisingly increased in the face of increased Chinese demand for iron ore. Looking at the trend in demand growth (ton-days) from Australia to China (see chart above), we can see an upturn not seen in a similar period in the previous two years.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "iron_ore",
+        "demand",
+        "see",
+        "vessels",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__s03_section_1_freight_market_rates_t_firmer",
+      "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nStrength continued across all vessel size categories during the second week of March, and further upside is expected in the coming days based on increasing growth in ton-days demand. Capesize vessel freight rates are now approaching the $20/tonne mark, nearly $3.5/tonne higher than 5 weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "vessel",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 203,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__s04_section_2_supply_ballasters_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ballast ships has increased in all size classes, with only supramax ships showing a slowdown. Capesize SE Africa: The number of vessels now stands at 103, which is 16% more than in week 7 and 29% more than the annual average.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "above",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 173,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__s05_section_3_demand_tondays_increasing",
+      "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Increasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Increasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Increasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The second week of March surprised with the strong upward trend observed in the Capesize segment. Capesize demand ton-days: The upward trend has now reached the growth level of the end of last year, and it remains to be seen whether this momentum will continue in the coming days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "level",
+        "ton-days",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__s06_section_4_port_congestion_no_of_vessels_increasing_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-16_2023_03_16_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "In the second week of March, the highs of the first week were maintained, with volumes in the Panamax, Supramax and Handysize segments increasing significantly. Capesize: The number of vessels now stands at 108, up 3 from the previous week and up 15 from two weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "weeks",
+        "ago."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 166,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

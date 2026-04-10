@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-09-18_2023_09_18_mmi_daily_iron_ore_index_report_september_18_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-09-18_2023_09_18_mmi_daily_iron_ore_index_report_september_18_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 18 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 18 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 18 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 18/09/2023\nDCE iron ore futures declined by 0.17 % today, the main contract closed at 871.5 .The traders' willingness to ship is low.The steel mills are wait and see. The overall trading sentiment of the market is less. SSF at Shandong port deal 842 yuan/mt, PBF at Tangshan port deal 952yuan/mt,.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "products",
+    "steel",
+    "increase",
+    "port",
+    "arrival",
+    "data",
+    "iron",
+    "ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 350,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-09-18_mmi-daily-iron-ore-index-report-september-18-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-18-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-09-18_2023_09_18_mmi_daily_iron_ore_index_report_september_18_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-09-18_2023_09_18_mmi_daily_iron_ore_index_report_september_18_2023",
+      "parent_id": "hellenic_iron_ore_2023-09-18_2023_09_18_mmi_daily_iron_ore_index_report_september_18_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 18/09/2023\nDCE iron ore futures declined by 0.17 % today, the main contract closed at 871.5 .The traders' willingness to ship is low.The steel mills are wait and see. The overall trading sentiment of the market is less.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "products",
+        "steel",
+        "increase",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 348,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

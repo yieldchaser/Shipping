@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-11-17_2021_11_17_weekly_dry_time_charter_estimates_november_17_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-11-17_2021_11_17_weekly_dry_time_charter_estimates_november_17_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, November 17 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, November 17 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, November 17 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize period rates have tumbled again to the lowest point since April. That said, it is important to remember that these ratesare still comparatively high and rates for one-year are currently 35% higher than the five-year average for this at $24,000/pdpr. Kamsarmax/panamax rates fell again this week and the general sentiment seems to be that rates may continue to fall further with signs of improvement in the near future.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "again",
+    "activity",
+    "april.",
+    "are",
+    "average",
+    "comparatively",
+    "continue",
+    "currently",
+    "fall",
+    "fell"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 147,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-11-17_weekly-dry-time-charter-estimates-november-17-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-november-17-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-11-17_2021_11_17_weekly_dry_time_charter_estimates_november_17_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-11-17_2021_11_17_weekly_dry_time_charter_estimates_november_17_2021",
+      "parent_id": "hellenic_dry_charter_2021-11-17_2021_11_17_weekly_dry_time_charter_estimates_november_17_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize period rates have tumbled again to the lowest point since April. That said, it is important to remember that these ratesare still comparatively high and rates for one-year are currently 35% higher than the five-year average for this at $24,000/pdpr.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "again",
+        "activity",
+        "april.",
+        "are",
+        "average",
+        "comparatively"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-07-28_2020_07_28_shifting_currents_beneath_the_calm_in_dry_bulk__root",
+  "doc_id": "breakwave_insights_insights_2020-07-28_2020_07_28_shifting_currents_beneath_the_calm_in_dry_bulk",
+  "parent_id": null,
+  "title": "Shifting Currents Beneath The Calm In Dry Bulk",
+  "section_path": [
+    "Shifting Currents Beneath The Calm In Dry Bulk"
+  ],
+  "section_path_text": "Shifting Currents Beneath The Calm In Dry Bulk",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs the rate of descent in dry bulk freight rates decreases, some much needed stability has penetrated the spot market, and in some cases even reverted the declines experienced in the last few days. We remain of the view that soon spot rates will turn higher, and the combination of a number of bullish factors will tighten the market again as we head into the final four months of the year. Still, at the moment, the spot market is not ready for a significant rally.",
+  "keywords": [
+    "capesize",
+    "china",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "coal",
+    "higher",
+    "last",
+    "needed",
+    "recent",
+    "side",
+    "still"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 574,
+  "source_path": "reports/breakwave/2020/2020-07-28_shifting-currents-beneath-the-calm-in-dry-bulk.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/7/28/shifting-currents-beneath-the-calm-in-dry-bulk",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-07-28_2020_07_28_shifting_currents_beneath_the_calm_in_dry_bulk__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-07-28_2020_07_28_shifting_currents_beneath_the_calm_in_dry_bulk",
+      "parent_id": "breakwave_insights_insights_2020-07-28_2020_07_28_shifting_currents_beneath_the_calm_in_dry_bulk__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As the rate of descent in dry bulk freight rates decreases, some much needed stability has penetrated the spot market, and in some cases even reverted the declines experienced in the last few days. We remain of the view that soon spot rates will turn higher, and the combination of a number of bullish factors will tighten the market again as we head into the final four months of the year.",
+      "keywords": [
+        "capesize",
+        "china",
+        "atlantic",
+        "pacific",
+        "iron_ore",
+        "coal",
+        "higher",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 572,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

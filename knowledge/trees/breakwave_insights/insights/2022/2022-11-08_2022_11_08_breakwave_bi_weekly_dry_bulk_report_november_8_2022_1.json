@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-08_2022_11_08_breakwave_bi_weekly_dry_bulk_report_november_8_2022_1__root",
+  "doc_id": "breakwave_insights_insights_2022-11-08_2022_11_08_breakwave_bi_weekly_dry_bulk_report_november_8_2022_1",
+  "parent_id": null,
+  "title": "Breakwave Bi Weekly Dry Bulk Report November 8 2022 1",
+  "section_path": [
+    "Breakwave Bi Weekly Dry Bulk Report November 8 2022 1"
+  ],
+  "section_path_text": "Breakwave Bi Weekly Dry Bulk Report November 8 2022 1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n· Seasonal patterns matter - In the last five years, Capesize rates have found a short-term bottom during the second week of November, followed by a tight range of outcomes but generally indicating to an average of ~ 10,000-point rally from the early month lows. With spot rates sitting at roughly 12,000 and with futures backwardated to spot, such a potential development will come as a great surprise to the market. How likely is such a scenario this time around?",
+  "keywords": [
+    "capesize",
+    "china",
+    "demand",
+    "but",
+    "year",
+    "back",
+    "commodities",
+    "curve",
+    "next",
+    "patterns",
+    "revival",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 623,
+  "source_path": "reports/breakwave/2022/2022-11-08_breakwave-bi-weekly-dry-bulk-report-november-8-2022-1.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/8/breakwave-bi-weekly-dry-bulk-report-november-8-2022-1",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-08_2022_11_08_breakwave_bi_weekly_dry_bulk_report_november_8_2022_1__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-08_2022_11_08_breakwave_bi_weekly_dry_bulk_report_november_8_2022_1",
+      "parent_id": "breakwave_insights_insights_2022-11-08_2022_11_08_breakwave_bi_weekly_dry_bulk_report_november_8_2022_1__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "· Seasonal patterns matter - In the last five years, Capesize rates have found a short-term bottom during the second week of November, followed by a tight range of outcomes but generally indicating to an average of ~ 10,000-point rally from the early month lows. With spot rates sitting at roughly 12,000 and with futures backwardated to spot, such a potential development will come as a great surprise to the market.",
+      "keywords": [
+        "capesize",
+        "china",
+        "demand",
+        "but",
+        "year",
+        "back",
+        "commodities",
+        "curve"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 621,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-05-15_2021_05_15_correlation_of_freight_prices_and_indicators__root",
+  "doc_id": "breakwave_insights_insights_2021-05-15_2021_05_15_correlation_of_freight_prices_and_indicators",
+  "parent_id": null,
+  "title": "Correlation Of Freight Prices And Indicators",
+  "section_path": [
+    "Correlation Of Freight Prices And Indicators"
+  ],
+  "section_path_text": "Correlation Of Freight Prices And Indicators",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nby Niclas Priess*\nThe article was originally posted as part of Oceanbolt's Python SDK Learning Series, but given the relevance for the Breakwave Dry Bulk Shipping ETF, this is a repost to a relevant audience. In recent weeks dry bulk rates have rallied and attracted the World's attention. Most of the articles written on this topic explore the underlying causes for the rally.",
+  "keywords": [
+    "correlation",
+    "fleet",
+    "indicators",
+    "oceanbolt",
+    "https",
+    "price",
+    "you",
+    "bdry",
+    "etf",
+    "port",
+    "utilization",
+    "congestion"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1010,
+  "source_path": "reports/breakwave/2021/2021-05-15_correlation-of-freight-prices-and-indicators.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/5/15/correlation-of-freight-prices-and-indicators",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-05-15_2021_05_15_correlation_of_freight_prices_and_indicators__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-05-15_2021_05_15_correlation_of_freight_prices_and_indicators",
+      "parent_id": "breakwave_insights_insights_2021-05-15_2021_05_15_correlation_of_freight_prices_and_indicators__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "by Niclas Priess*\nThe article was originally posted as part of Oceanbolt's Python SDK Learning Series, but given the relevance for the Breakwave Dry Bulk Shipping ETF, this is a repost to a relevant audience. In recent weeks dry bulk rates have rallied and attracted the World's attention.",
+      "keywords": [
+        "correlation",
+        "fleet",
+        "indicators",
+        "oceanbolt",
+        "https",
+        "price",
+        "you",
+        "bdry"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1008,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

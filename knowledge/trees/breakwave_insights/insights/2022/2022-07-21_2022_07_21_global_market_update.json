@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update",
+  "parent_id": null,
+  "title": "Global Market Update",
+  "section_path": [
+    "Global Market Update"
+  ],
+  "section_path_text": "Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nThe US dollar has lost some ground since reaching a twenty-year high a week ago, providing some relief for global inflationary pressures. The surging greenback has made dollar-denominated commodities more expensive in many parts of the world and provided fuel for inflation. Hence, central banks around the world are likely to join the US with aggressive interest rate hikes.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "meg",
+    "west_africa",
+    "europe",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1018,
+  "source_path": "reports/breakwave/2022/2022-07-21_global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/21/global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The US dollar has lost some ground since reaching a twenty-year high a week ago, providing some relief for global inflationary pressures. The surging greenback has made dollar-denominated commodities more expensive in many parts of the world and provided fuel for inflation.",
+      "keywords": [
+        "europe",
+        "interest",
+        "basis",
+        "central",
+        "dollar",
+        "join",
+        "meeting",
+        "point"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Brent crude oil futures declined by 0.4 per cent on Tuesday following official data pointing towards weaker US petrol demand despite the country being in the middle of the summer driving season. Data from the EIA showed that US inventories rose during the previous week and the Brent contracts settled just below 107 dollars per barrel.",
+      "keywords": [
+        "china",
+        "brazil",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 511,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The dry bulk freight markets saw a narrative yesterday similar to Tuesday's, where gains in the Panamax segment failed to offset the losses seen by their larger siblings. The Baltic Dry Index shed 1.5 per cent following extensive losses for the Capesizes, with the largest vessels' sub-index retreating by 6.2 per cent.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "gas",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Aluminium prices have recovered in recent days following trading at the lowest levels for over a year. Still, the metal is trading more than 35 per cent below the peak recorded in early March.",
+      "keywords": [
+        "west_africa",
+        "bauxite",
+        "aluminium",
+        "demand",
+        "energy",
+        "prices",
+        "recent",
+        "trading"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

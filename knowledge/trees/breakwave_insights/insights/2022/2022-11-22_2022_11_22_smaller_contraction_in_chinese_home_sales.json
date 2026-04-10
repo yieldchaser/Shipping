@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-22_2022_11_22_smaller_contraction_in_chinese_home_sales__root",
+  "doc_id": "breakwave_insights_insights_2022-11-22_2022_11_22_smaller_contraction_in_chinese_home_sales",
+  "parent_id": null,
+  "title": "Smaller Contraction In Chinese Home Sales",
+  "section_path": [
+    "Smaller Contraction In Chinese Home Sales"
+  ],
+  "section_path_text": "Smaller Contraction In Chinese Home Sales",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we have been highlighting in our Weekly China Reports, sales of commercial buildings in China (the vast majority of which are residential homes) have remained in contraction, but the contraction has at least continued to slow in recent months. The most recent data shows commercial building sales totaled 1.35 trillion yuan in September. This is up month-on-month by 34% and is down year-on-year by only 14%.",
+  "keywords": [
+    "china",
+    "sales",
+    "contraction",
+    "year-on-year",
+    "building",
+    "commercial",
+    "months.",
+    "residential",
+    "basis",
+    "buildings",
+    "contracted",
+    "down"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 231,
+  "source_path": "reports/breakwave/2022/2022-11-22_smaller-contraction-in-chinese-home-sales.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/22/smaller-contraction-in-chinese-home-sales",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-22_2022_11_22_smaller_contraction_in_chinese_home_sales__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-22_2022_11_22_smaller_contraction_in_chinese_home_sales",
+      "parent_id": "breakwave_insights_insights_2022-11-22_2022_11_22_smaller_contraction_in_chinese_home_sales__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we have been highlighting in our Weekly China Reports, sales of commercial buildings in China (the vast majority of which are residential homes) have remained in contraction, but the contraction has at least continued to slow in recent months. The most recent data shows commercial building sales totaled 1.35 trillion yuan in September.",
+      "keywords": [
+        "china",
+        "sales",
+        "contraction",
+        "year-on-year",
+        "building",
+        "commercial",
+        "months.",
+        "residential"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 229,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

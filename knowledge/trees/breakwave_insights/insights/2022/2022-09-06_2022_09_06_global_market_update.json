@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update",
+  "parent_id": null,
+  "title": "Global Market Update",
+  "section_path": [
+    "Global Market Update"
+  ],
+  "section_path_text": "Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nYesterday, for the first time, Russia directly linked its natural gas exports to the economic sanctions the country is facing following its invasion of Ukraine. In, what appears to be an attempt to break up European unity, the government said that the flow of natural gas through the Nord Stream 1 pipeline would not be fully restored until the European sanctions are lifted. While European natural gas inventories have filled up faster than expected, a winter without additional supplies from the east could seriously affect countries and public opinion in countries that have been heavily reliant on Russian gas in the past, e.g.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1190,
+  "source_path": "reports/breakwave/2022/2022-09-06_global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/6/global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Yesterday, for the first time, Russia directly linked its natural gas exports to the economic sanctions the country is facing following its invasion of Ukraine. In, what appears to be an attempt to break up European unity, the government said that the flow of natural gas through the Nord Stream 1 pipeline would not be fully restored until the European sanctions are lifted.",
+      "keywords": [
+        "china",
+        "europe",
+        "gas",
+        "chinese",
+        "country",
+        "european",
+        "natural",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Brent crude oil futures gained nearly three per cent on Monday to end the day at 95.74 dollars per barrel as OPEC+ moved to support the falling oil prices with a minor production cut. In the last three months, crude oil prices have fallen by more than twenty per cent amid increasing headwinds for the global economy.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 548,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index continued to move higher yesterday, propelled by the robust recovery for the Capesize sub-index. The Panamaxes also contributed to the headline index's gain of 4.3 per cent, but the smaller vessels continued to suffer.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "gas",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-09-06_2022_09_06_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While copper prices staged a bit of a comeback during the second half of July and August, following the steep decline during the end of the second quarter, recent weeks have seen the red metal retreating. Given its central role in manufacturing, copper is often seen as a bellwether for the global economy's health.",
+      "keywords": [
+        "china",
+        "data",
+        "copper",
+        "global",
+        "recent",
+        "seen",
+        "bit",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 202,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

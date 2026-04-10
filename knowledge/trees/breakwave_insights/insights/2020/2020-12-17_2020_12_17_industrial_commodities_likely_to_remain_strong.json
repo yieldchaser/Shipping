@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-12-17_2020_12_17_industrial_commodities_likely_to_remain_strong__root",
+  "doc_id": "breakwave_insights_insights_2020-12-17_2020_12_17_industrial_commodities_likely_to_remain_strong",
+  "parent_id": null,
+  "title": "Industrial Commodities Likely To Remain Strong",
+  "section_path": [
+    "Industrial Commodities Likely To Remain Strong"
+  ],
+  "section_path_text": "Industrial Commodities Likely To Remain Strong",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAs US lawmakers are inching towards a virus-relief deal, the latest sets of economic data provided quite a mixed picture of the current state of the nation's economy. Contrary to the US equity markets, which are at all-time high levels, the labour market is struggling to regain its traction and posted the largest increase in new fillings for unemployment benefits since the beginning of September. On a seasonally adjusted basis around 885,000 Americans signed up for benefits last week, which was around ten percent higher than the consensus expectations, as virus infection rates soar and new lockdowns are introduced across the country.",
+  "keywords": [
+    "china",
+    "europe",
+    "iron_ore",
+    "steel",
+    "are",
+    "new",
+    "high",
+    "around",
+    "economic",
+    "european",
+    "further",
+    "industrial"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 540,
+  "source_path": "reports/breakwave/2020/2020-12-17_industrial-commodities-likely-to-remain-strong.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/12/17/industrial-commodities-likely-to-remain-strong",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-12-17_2020_12_17_industrial_commodities_likely_to_remain_strong__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-12-17_2020_12_17_industrial_commodities_likely_to_remain_strong",
+      "parent_id": "breakwave_insights_insights_2020-12-17_2020_12_17_industrial_commodities_likely_to_remain_strong__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAs US lawmakers are inching towards a virus-relief deal, the latest sets of economic data provided quite a mixed picture of the current state of the nation's economy. Contrary to the US equity markets, which are at all-time high levels, the labour market is struggling to regain its traction and posted the largest increase in new fillings for unemployment benefits since the beginning of September.",
+      "keywords": [
+        "china",
+        "europe",
+        "iron_ore",
+        "steel",
+        "are",
+        "new",
+        "high",
+        "around"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 538,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

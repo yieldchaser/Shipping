@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-11-11_2021_11_11_mmi_daily_iron_ore_index_report_november_11_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-11-11_2021_11_11_mmi_daily_iron_ore_index_report_november_11_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report November 11 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report November 11 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report November 11 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 11/11/2021\nDCE iron ore futures rose largely today，the main contract closed 570.5，an increase of 6.84 % throughout the day. the quotation in the morningwas increased by 10-20 yuan/mt over yesterday. some traders were active to sell，and steel mills also active to purchase; total transactions was increased; significantly.BF at Shandong port dealt 610-625 yuan/mt, decreased 10-25yuan/mt over yesterday ; PBF at Tangshan port dealt 615 yuan/mt; increased 15 yuan/mt over yesterday.This week, SMM statistics of blast furnace operating rate is 78.5%, week on month up 1.39%, but with the recent collapse of steel prices, the vast majority of domestic steel companies have been in the margin of loss or loss, there is more news that Shanxi steel companies will jointly reduce production, if the subsequent material prices continue to fall, profit deterioration, will form further pressure on iron ore prices.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "increased",
+    "iron",
+    "ore",
+    "prices",
+    "active",
+    "companies",
+    "dealt",
+    "loss"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 264,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-11-11_mmi-daily-iron-ore-index-report-november-11-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-11-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-11-11_2021_11_11_mmi_daily_iron_ore_index_report_november_11_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-11-11_2021_11_11_mmi_daily_iron_ore_index_report_november_11_2021",
+      "parent_id": "hellenic_iron_ore_2021-11-11_2021_11_11_mmi_daily_iron_ore_index_report_november_11_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 11/11/2021\nDCE iron ore futures rose largely today，the main contract closed 570.5，an increase of 6.84 % throughout the day. the quotation in the morningwas increased by 10-20 yuan/mt over yesterday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "increased",
+        "iron",
+        "ore",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

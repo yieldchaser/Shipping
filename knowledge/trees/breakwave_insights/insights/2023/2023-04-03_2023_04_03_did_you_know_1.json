@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-03_2023_04_03_did_you_know_1__root",
+  "doc_id": "breakwave_insights_insights_2023-04-03_2023_04_03_did_you_know_1",
+  "parent_id": null,
+  "title": "Did You Know 1",
+  "section_path": [
+    "Did You Know 1"
+  ],
+  "section_path_text": "Did You Know 1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe term \"monkey island\" refers to a place on the ship which is located at the top most accessible height. Technically, it is a deck located directly above the navigating bridge of the ship. It is also referred to as the flying bridge on top of a pilothouse or chart house, and also as the ship's upper bridge.",
+  "keywords": [
+    "bridge",
+    "located",
+    "ship",
+    "top",
+    "above",
+    "accessible",
+    "bridge.",
+    "chart",
+    "deck",
+    "directly",
+    "flying",
+    "height."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 77,
+  "source_path": "reports/breakwave/2023/2023-04-03_did-you-know-1.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/3/did-you-know-1",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-03_2023_04_03_did_you_know_1__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-04-03_2023_04_03_did_you_know_1",
+      "parent_id": "breakwave_insights_insights_2023-04-03_2023_04_03_did_you_know_1__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The term \"monkey island\" refers to a place on the ship which is located at the top most accessible height. Technically, it is a deck located directly above the navigating bridge of the ship.",
+      "keywords": [
+        "bridge",
+        "located",
+        "ship",
+        "top",
+        "above",
+        "accessible",
+        "bridge.",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 69,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

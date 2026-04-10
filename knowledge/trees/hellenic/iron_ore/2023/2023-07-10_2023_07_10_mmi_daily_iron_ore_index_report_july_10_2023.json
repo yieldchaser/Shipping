@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-07-10_2023_07_10_mmi_daily_iron_ore_index_report_july_10_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-07-10_2023_07_10_mmi_daily_iron_ore_index_report_july_10_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report July 10 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report July 10 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report July 10 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 10/07/2023\nDCE iron ore futures market falling trends by 3.46%.the main contract closed 795.5. some traders were active to sell, Some steel mills tended tobe wait-and-see, and purchasing enthusiasm is not high. today's overall market transaction atmosphere in general.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "iron",
+    "decreased",
+    "increase",
+    "main",
+    "month",
+    "month.",
+    "port",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 311,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-07-10_mmi-daily-iron-ore-index-report-july-10-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-10-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-07-10_2023_07_10_mmi_daily_iron_ore_index_report_july_10_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-07-10_2023_07_10_mmi_daily_iron_ore_index_report_july_10_2023",
+      "parent_id": "hellenic_iron_ore_2023-07-10_2023_07_10_mmi_daily_iron_ore_index_report_july_10_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 10/07/2023\nDCE iron ore futures market falling trends by 3.46%.the main contract closed 795.5. some traders were active to sell, Some steel mills tended tobe wait-and-see, and purchasing enthusiasm is not high.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "iron",
+        "decreased",
+        "increase",
+        "month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 309,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

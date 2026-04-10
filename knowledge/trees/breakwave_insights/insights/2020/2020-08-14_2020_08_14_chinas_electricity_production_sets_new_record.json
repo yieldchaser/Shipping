@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-08-14_2020_08_14_chinas_electricity_production_sets_new_record__root",
+  "doc_id": "breakwave_insights_insights_2020-08-14_2020_08_14_chinas_electricity_production_sets_new_record",
+  "parent_id": null,
+  "title": "Chinas Electricity Production Sets New Record",
+  "section_path": [
+    "Chinas Electricity Production Sets New Record"
+  ],
+  "section_path_text": "Chinas Electricity Production Sets New Record",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nData released today shows China's coal production totaled 317.9 million tons last month. This mark's a year-on-year decline of 1%. Coal-derived electricity generation totaled 460 billion kilowatt hours last month, which marks year-on-year growth of 1%.",
+  "keywords": [
+    "china",
+    "coal",
+    "electricity",
+    "generation",
+    "last",
+    "marks",
+    "month",
+    "production",
+    "coal-derived",
+    "growth",
+    "totaled",
+    "year-on-year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 203,
+  "source_path": "reports/breakwave/2020/2020-08-14_chinas-electricity-production-sets-new-record.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/8/14/chinas-electricity-production-sets-new-record",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-08-14_2020_08_14_chinas_electricity_production_sets_new_record__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-08-14_2020_08_14_chinas_electricity_production_sets_new_record",
+      "parent_id": "breakwave_insights_insights_2020-08-14_2020_08_14_chinas_electricity_production_sets_new_record__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Data released today shows China's coal production totaled 317.9 million tons last month. This mark's a year-on-year decline of 1%.",
+      "keywords": [
+        "china",
+        "coal",
+        "electricity",
+        "generation",
+        "last",
+        "marks",
+        "month",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

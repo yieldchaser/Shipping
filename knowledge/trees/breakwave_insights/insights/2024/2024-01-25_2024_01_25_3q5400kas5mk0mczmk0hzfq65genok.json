@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__root",
+  "doc_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok",
+  "parent_id": null,
+  "title": "3Q5400Kas5Mk0Mczmk0Hzfq65Genok",
+  "section_path": [
+    "3Q5400Kas5Mk0Mczmk0Hzfq65Genok"
+  ],
+  "section_path_text": "3Q5400Kas5Mk0Mczmk0Hzfq65Genok",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic Dry Index retreated into the red on Tuesday amid headwinds for the capesizes. Among the commodities, base metals and iron ore were among the day's winners, while energy prices generally recorded modest moves. By Ulf Bergman\n\nMacro/Geopolitics\nAmid the continued challenges for the Chinese economy and an ongoing rout for the country's equity market, the People's Bank of China announced that it is lowering the required reserve ratio for the country's banks with effect from early February.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1414,
+  "source_path": "reports/breakwave/2024/2024-01-25_3q5400kas5mk0mczmk0hzfq65genok.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/25/3q5400kas5mk0mczmk0hzfq65genok",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok",
+      "parent_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic Dry Index retreated into the red on Tuesday amid headwinds for the capesizes. Among the commodities, base metals and iron ore were among the day's winners, while energy prices generally recorded modest moves.",
+      "keywords": [
+        "capesize",
+        "iron_ore",
+        "among",
+        "amid",
+        "base",
+        "bergman",
+        "capesizes.",
+        "commodities"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok",
+      "parent_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Amid the continued challenges for the Chinese economy and an ongoing rout for the country's equity market, the People's Bank of China announced that it is lowering the required reserve ratio for the country's banks with effect from early February. The move aims to inject more money into the banking system to support lending and economic growth, as foreign investors are taking an increasingly dim view of the outlook for the world's second-largest economy.",
+      "keywords": [
+        "china",
+        "chinese",
+        "country",
+        "economy",
+        "support",
+        "aims",
+        "amid",
+        "announced"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 116,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok",
+      "parent_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil prices had a relatively quiet session on Tuesday as expectations of lower demand balanced fears over supply disruptions. The March Brent futures declined by 0.6 per cent, ending the day at 79.55 dollars per barrel.",
+      "keywords": [
+        "china",
+        "brazil",
+        "europe",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 445,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok",
+      "parent_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "After three consecutive sessions of gains, the Baltic Dry Index retreated into the red yesterday. The headline indicator declined by 3.0 per cent on the back of weakness for the capesizes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 322,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok",
+      "parent_id": "breakwave_insights_insights_2024-01-25_2024_01_25_3q5400kas5mk0mczmk0hzfq65genok__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The announcement that China's central bank is lowering the required reserve ratio for the country's commercial banks from next month highlights that Beijing remains concerned over sluggish growth rates. Also, the manner in which it was presented, i.e.",
+      "keywords": [
+        "china",
+        "chinese",
+        "last",
+        "month",
+        "year",
+        "per",
+        "was",
+        "cent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 454,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

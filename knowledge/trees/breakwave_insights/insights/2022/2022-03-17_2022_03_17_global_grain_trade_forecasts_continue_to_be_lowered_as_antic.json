@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-03-17_2022_03_17_global_grain_trade_forecasts_continue_to_be_lowered_as_antic__root",
+  "doc_id": "breakwave_insights_insights_2022-03-17_2022_03_17_global_grain_trade_forecasts_continue_to_be_lowered_as_antic",
+  "parent_id": null,
+  "title": "Global Grain Trade Forecasts Continue To Be Lowered As Anticipated",
+  "section_path": [
+    "Global Grain Trade Forecasts Continue To Be Lowered As Anticipated"
+  ],
+  "section_path_text": "Global Grain Trade Forecasts Continue To Be Lowered As Anticipated",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we have been examining in our Weekly Dry Bulk Reports since the start of the conflict in Ukraine, we continue to stress that a prolonged conflict will continue to increase the likelihood of the dry bulk market being unable to fully offset a loss of Russian/Ukrainian cargoes from other nations. The sooner the conflict ends, the less that total grain export volume is likely to be affected. We still do not see any major replacement for lost Ukrainian and Russian grain cargo volumes.",
+  "keywords": [
+    "brazil",
+    "grain",
+    "exports",
+    "million",
+    "global",
+    "tons",
+    "forecast",
+    "ago",
+    "are",
+    "less",
+    "month",
+    "tons."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 486,
+  "source_path": "reports/breakwave/2022/2022-03-17_global-grain-trade-forecasts-continue-to-be-lowered-as-antic.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/3/17/global-grain-trade-forecasts-continue-to-be-lowered-as-anticipated",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-03-17_2022_03_17_global_grain_trade_forecasts_continue_to_be_lowered_as_antic__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-03-17_2022_03_17_global_grain_trade_forecasts_continue_to_be_lowered_as_antic",
+      "parent_id": "breakwave_insights_insights_2022-03-17_2022_03_17_global_grain_trade_forecasts_continue_to_be_lowered_as_antic__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we have been examining in our Weekly Dry Bulk Reports since the start of the conflict in Ukraine, we continue to stress that a prolonged conflict will continue to increase the likelihood of the dry bulk market being unable to fully offset a loss of Russian/Ukrainian cargoes from other nations. The sooner the conflict ends, the less that total grain export volume is likely to be affected.",
+      "keywords": [
+        "brazil",
+        "grain",
+        "exports",
+        "million",
+        "global",
+        "tons",
+        "forecast",
+        "ago"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 484,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

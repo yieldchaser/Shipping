@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-09-28_2021_09_28_the_deepening_energy_crisis_is_likely_to_benefit_seaborne_co__root",
+  "doc_id": "breakwave_insights_insights_2021-09-28_2021_09_28_the_deepening_energy_crisis_is_likely_to_benefit_seaborne_co",
+  "parent_id": null,
+  "title": "The Deepening Energy Crisis Is Likely To Benefit Seaborne Coal Volumes 1",
+  "section_path": [
+    "The Deepening Energy Crisis Is Likely To Benefit Seaborne Coal Volumes 1"
+  ],
+  "section_path_text": "The Deepening Energy Crisis Is Likely To Benefit Seaborne Coal Volumes 1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nOn the back of an escalating energy crisis in Europe, coal prices in the region have kept rising and have reached two hundred dollars per tonne for the first time in thirteen years. While much of Europe is committed to decarbonisation and limiting the use of coal for power production, a tight supply situation for natural gas have seen demand for the dirtier fossil fuel back in vogue. The lengthy cold conditions during last winter have left gas inventories depleted across the continent, at the same time as supplies from Norway and Russia have remained under pressure.",
+  "keywords": [
+    "capesize",
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "coal",
+    "gas",
+    "european",
+    "year",
+    "are",
+    "last",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 832,
+  "source_path": "reports/breakwave/2021/2021-09-28_the-deepening-energy-crisis-is-likely-to-benefit-seaborne-co.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/9/28/the-deepening-energy-crisis-is-likely-to-benefit-seaborne-coal-volumes-1",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-09-28_2021_09_28_the_deepening_energy_crisis_is_likely_to_benefit_seaborne_co__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-09-28_2021_09_28_the_deepening_energy_crisis_is_likely_to_benefit_seaborne_co",
+      "parent_id": "breakwave_insights_insights_2021-09-28_2021_09_28_the_deepening_energy_crisis_is_likely_to_benefit_seaborne_co__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nOn the back of an escalating energy crisis in Europe, coal prices in the region have kept rising and have reached two hundred dollars per tonne for the first time in thirteen years. While much of Europe is committed to decarbonisation and limiting the use of coal for power production, a tight supply situation for natural gas have seen demand for the dirtier fossil fuel back in vogue.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "coal",
+        "gas",
+        "european"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 830,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

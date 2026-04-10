@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-05_2023_09_05_breakwave_bi_weekly_tanker_report_sep_5_2023_8g9mb__root",
+  "doc_id": "breakwave_insights_insights_2023-09-05_2023_09_05_breakwave_bi_weekly_tanker_report_sep_5_2023_8g9mb",
+  "parent_id": null,
+  "title": "Breakwave Bi Weekly Tanker Report Sep 5 2023 8G9Mb",
+  "section_path": [
+    "Breakwave Bi Weekly Tanker Report Sep 5 2023 8G9Mb"
+  ],
+  "section_path_text": "Breakwave Bi Weekly Tanker Report Sep 5 2023 8G9Mb",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• VLCCs plummet as OPEC cuts take a toll, but sentiment remains upbeat - Spot VLCC rates have now dropped back to their 2021 range and below $10/ton, as lower exports out of the Middle East due to the recent OPEC export cuts have reduced demand for tonnage. There is little evidence of an imminent rebound, however, fourth quarter futures remain at elevated levels, reflecting the ongoing optimism for the overall tanker sector that is faced with record low fleet supply growth, a very bullish setup if and when demand recovers. Such a development has already been reflected in oil prices that recently hit the highest level this year, as recovering transportation fuel demand combined with the beforementioned OPEC cuts and the limited potential for increased supply from non-OPEC producers have led to a tight global oil market.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "oil",
+    "demand",
+    "crude",
+    "cuts",
+    "prices",
+    "recovering",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 597,
+  "source_path": "reports/breakwave/2023/2023-09-05_breakwave-bi-weekly-tanker-report-sep-5-2023-8g9mb.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/5/breakwave-bi-weekly-tanker-report-sep-5-2023-8g9mb",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-05_2023_09_05_breakwave_bi_weekly_tanker_report_sep_5_2023_8g9mb__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-05_2023_09_05_breakwave_bi_weekly_tanker_report_sep_5_2023_8g9mb",
+      "parent_id": "breakwave_insights_insights_2023-09-05_2023_09_05_breakwave_bi_weekly_tanker_report_sep_5_2023_8g9mb__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• VLCCs plummet as OPEC cuts take a toll, but sentiment remains upbeat - Spot VLCC rates have now dropped back to their 2021 range and below $10/ton, as lower exports out of the Middle East due to the recent OPEC export cuts have reduced demand for tonnage. There is little evidence of an imminent rebound, however, fourth quarter futures remain at elevated levels, reflecting the ongoing optimism for the overall tanker sector that is faced with record low fleet supply growth, a very bullish setup if and when demand recovers.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil",
+        "demand",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 595,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

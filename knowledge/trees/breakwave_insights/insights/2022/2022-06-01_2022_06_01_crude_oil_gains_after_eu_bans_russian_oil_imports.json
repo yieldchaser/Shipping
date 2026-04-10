@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-01_2022_06_01_crude_oil_gains_after_eu_bans_russian_oil_imports__root",
+  "doc_id": "breakwave_insights_insights_2022-06-01_2022_06_01_crude_oil_gains_after_eu_bans_russian_oil_imports",
+  "parent_id": null,
+  "title": "Crude Oil Gains After Eu Bans Russian Oil Imports",
+  "section_path": [
+    "Crude Oil Gains After Eu Bans Russian Oil Imports"
+  ],
+  "section_path_text": "Crude Oil Gains After Eu Bans Russian Oil Imports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nEnergy markets gained amid concerns of further supply disruptions. That was offset by concerns of inflation-induced slowdown in economic activity, which weighed on sentiment across metals and agriculture sectors. Crude oil prices jumped sharply as the European Union finally managed to agree to a sanction package that includes a ban on Russian oil imports.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "oil",
+    "crude",
+    "cut"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 767,
+  "source_path": "reports/breakwave/2022/2022-06-01_crude-oil-gains-after-eu-bans-russian-oil-imports.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/1/crude-oil-gains-after-eu-bans-russian-oil-imports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-01_2022_06_01_crude_oil_gains_after_eu_bans_russian_oil_imports__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-01_2022_06_01_crude_oil_gains_after_eu_bans_russian_oil_imports",
+      "parent_id": "breakwave_insights_insights_2022-06-01_2022_06_01_crude_oil_gains_after_eu_bans_russian_oil_imports__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nEnergy markets gained amid concerns of further supply disruptions. That was offset by concerns of inflation-induced slowdown in economic activity, which weighed on sentiment across metals and agriculture sectors.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 765,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-10-22_2020_10_22_2021_dry_bulk_outlook__root",
+  "doc_id": "breakwave_insights_insights_2020-10-22_2020_10_22_2021_dry_bulk_outlook",
+  "parent_id": null,
+  "title": "2021 Dry Bulk Outlook",
+  "section_path": [
+    "2021 Dry Bulk Outlook"
+  ],
+  "section_path_text": "2021 Dry Bulk Outlook",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Peter Lindström\nIn the following weeks Klaveness Research will in a series of articles have a look at how we believe the fundamentals impacting dry bulk freight rates are shaping up for 2021. In this week's article we start with having a look at the big picture. In subsequent reports we will drill further down into the major dry bulk commodity groups of iron ore, coal, grains and minor bulks before we finish of with looking at the supply side.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "japan",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "steel",
+    "global",
+    "demand",
+    "iron"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1132,
+  "source_path": "reports/breakwave/2020/2020-10-22_2021-dry-bulk-outlook.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/10/22/2021-dry-bulk-outlook",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-10-22_2020_10_22_2021_dry_bulk_outlook__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-10-22_2020_10_22_2021_dry_bulk_outlook",
+      "parent_id": "breakwave_insights_insights_2020-10-22_2020_10_22_2021_dry_bulk_outlook__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Peter Lindström\nIn the following weeks Klaveness Research will in a series of articles have a look at how we believe the fundamentals impacting dry bulk freight rates are shaping up for 2021. In this week's article we start with having a look at the big picture.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "japan",
+        "iron_ore",
+        "coal",
+        "grain",
+        "bauxite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1130,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

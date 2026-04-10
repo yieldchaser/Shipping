@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-04-14_2023_04_14_mmi_daily_iron_ore_index_report_april_14_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-04-14_2023_04_14_mmi_daily_iron_ore_index_report_april_14_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report April 14 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report April 14 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report April 14 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 14/04/2023\nDCE iron ore first rose and then fell, the main contract I2309 closed 769. an decrease of 0.83% throughout the day;part of the business quotation shipping mentality turn weak; Some steel procurement more cautious, the continuation of a small number of multi-frequency procurement strategy .today's overall market transaction atmosphere in general. PBF at Shandong port dealt 880 yuan/mt; the same as yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "tons",
+    "million",
+    "port",
+    "decrease",
+    "mills",
+    "yuan/mt",
+    "average",
+    "clearance",
+    "compared"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 327,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-04-14_mmi-daily-iron-ore-index-report-april-14-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-14-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-04-14_2023_04_14_mmi_daily_iron_ore_index_report_april_14_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-04-14_2023_04_14_mmi_daily_iron_ore_index_report_april_14_2023",
+      "parent_id": "hellenic_iron_ore_2023-04-14_2023_04_14_mmi_daily_iron_ore_index_report_april_14_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 14/04/2023\nDCE iron ore first rose and then fell, the main contract I2309 closed 769. an decrease of 0.83% throughout the day;part of the business quotation shipping mentality turn weak; Some steel procurement more cautious, the continuation of a small number of multi-frequency procurement strategy .today's overall market transaction atmosphere in general.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "tons",
+        "million",
+        "port",
+        "decrease",
+        "mills"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 325,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

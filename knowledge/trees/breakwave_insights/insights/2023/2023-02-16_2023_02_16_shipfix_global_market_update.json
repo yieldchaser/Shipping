@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nWhile yesterday's release of US inflation data for January showed that the rate of price increases in the world's largest economy is decelerating, it did not slow as much as widely expected. The year-on-year inflation rate of 6.4 per cent last month was lower than the 6.5 per cent reading for December but was higher than the consensus forecast of 6.2 per cent. The higher-than-expected inflation rate is likely to keep the Federal Reserve on the current path of interest hikes, especially against a background of the lowest unemployment since the 1960s.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia",
+    "meg",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1284,
+  "source_path": "reports/breakwave/2023/2023-02-16_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/16/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While yesterday's release of US inflation data for January showed that the rate of price increases in the world's largest economy is decelerating, it did not slow as much as widely expected. The year-on-year inflation rate of 6.4 per cent last month was lower than the 6.5 per cent reading for December but was higher than the consensus forecast of 6.2 per cent.",
+      "keywords": [
+        "inflation",
+        "per",
+        "cent",
+        "dollar",
+        "higher-than-expected",
+        "increases",
+        "january",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil prices gave up parts of recent gains during Tuesday's trading session following news that the US government is planning to release 26 million barrels of oil from its strategic reserves to offset upcoming Russian production cuts. The Brent April futures ended the day at 85.58 dollars per barrel following a 1.2 per cent decline.",
+      "keywords": [
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 443,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Exchange's Capesize index took a nosedive yesterday, with the gauge shedding 28.5 per cent amid limited demand and reaching the lowest level since the end of August last year. However, as a testament to the index's low level, it only translated into an 8.6 per cent drop for the headline Baltic Dry Index amid limited moves for the other vessel segments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 377,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-16_2023_02_16_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While Indian iron ore export volumes are a far cry from what the giants of the trade, Australia and Brazil, ship annually, the country nevertheless remain a significant producer of the steelmaking ingredient. Normally, the country ranks somewhere in the middle of the world's top ten ranking of producers.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "india",
+        "iron_ore",
+        "coal",
+        "steel",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 246,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

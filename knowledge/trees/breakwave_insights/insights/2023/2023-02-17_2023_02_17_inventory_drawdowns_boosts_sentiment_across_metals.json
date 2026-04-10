@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-17_2023_02_17_inventory_drawdowns_boosts_sentiment_across_metals__root",
+  "doc_id": "breakwave_insights_insights_2023-02-17_2023_02_17_inventory_drawdowns_boosts_sentiment_across_metals",
+  "parent_id": null,
+  "title": "Inventory Drawdowns Boosts Sentiment Across Metals",
+  "section_path": [
+    "Inventory Drawdowns Boosts Sentiment Across Metals"
+  ],
+  "section_path_text": "Inventory Drawdowns Boosts Sentiment Across Metals",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nSigns of stronger demand in China boosted sentiment and was aided by falls in inventories across various markets. Copper led the base metals sector higher amid signs of stronger demand. Copper stockpiles on the Shanghai Futures Exchange fell for the first time in two months.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "was",
+    "data",
+    "january"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 603,
+  "source_path": "reports/breakwave/2023/2023-02-17_inventory-drawdowns-boosts-sentiment-across-metals.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/17/inventory-drawdowns-boosts-sentiment-across-metals",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-17_2023_02_17_inventory_drawdowns_boosts_sentiment_across_metals__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-17_2023_02_17_inventory_drawdowns_boosts_sentiment_across_metals",
+      "parent_id": "breakwave_insights_insights_2023-02-17_2023_02_17_inventory_drawdowns_boosts_sentiment_across_metals__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nSigns of stronger demand in China boosted sentiment and was aided by falls in inventories across various markets. Copper led the base metals sector higher amid signs of stronger demand.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 601,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

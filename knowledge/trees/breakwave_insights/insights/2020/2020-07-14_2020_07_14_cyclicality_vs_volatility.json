@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-07-14_2020_07_14_cyclicality_vs_volatility__root",
+  "doc_id": "breakwave_insights_insights_2020-07-14_2020_07_14_cyclicality_vs_volatility",
+  "parent_id": null,
+  "title": "Cyclicality Vs Volatility",
+  "section_path": [
+    "Cyclicality Vs Volatility"
+  ],
+  "section_path_text": "Cyclicality Vs Volatility",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs is the case when rates are rising with demand exceeding available supply, when rates are falling, the opposite can be said. However, it is not always as straightforward as it sounds. Capesize rates recently experienced one of the best four weeks on record and arguing about the absolute level of rates that the market should clear is not really a useful exercise.",
+  "keywords": [
+    "capesize",
+    "last",
+    "should",
+    "year",
+    "correction",
+    "flow",
+    "move",
+    "quite",
+    "recently",
+    "similar",
+    "weeks",
+    "when"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 440,
+  "source_path": "reports/breakwave/2020/2020-07-14_cyclicality-vs-volatility.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/7/14/cyclicality-vs-volatility",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-07-14_2020_07_14_cyclicality_vs_volatility__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-07-14_2020_07_14_cyclicality_vs_volatility",
+      "parent_id": "breakwave_insights_insights_2020-07-14_2020_07_14_cyclicality_vs_volatility__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As is the case when rates are rising with demand exceeding available supply, when rates are falling, the opposite can be said. However, it is not always as straightforward as it sounds.",
+      "keywords": [
+        "capesize",
+        "last",
+        "should",
+        "year",
+        "correction",
+        "flow",
+        "move",
+        "quite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 438,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

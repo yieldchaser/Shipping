@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-04_2022_11_04_crude_oil_gains_following_further_drawdowns_in_inventories__root",
+  "doc_id": "breakwave_insights_insights_2022-11-04_2022_11_04_crude_oil_gains_following_further_drawdowns_in_inventories",
+  "parent_id": null,
+  "title": "Crude Oil Gains Following Further Drawdowns In Inventories",
+  "section_path": [
+    "Crude Oil Gains Following Further Drawdowns In Inventories"
+  ],
+  "section_path_text": "Crude Oil Gains Following Further Drawdowns In Inventories",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nCommodity markets were mixed as signs of tightness via lower inventories was weighed against the gloomy economic backdrop. Sentiment in China's markets remains positive amid ongoing rumours of an easing in COVID-19 restrictions. Crude oil rallied amid signs of further tightness.",
+  "keywords": [
+    "lng",
+    "china",
+    "australia",
+    "europe",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "gas",
+    "was",
+    "amid",
+    "inventories"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 702,
+  "source_path": "reports/breakwave/2022/2022-11-04_crude-oil-gains-following-further-drawdowns-in-inventories.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/4/crude-oil-gains-following-further-drawdowns-in-inventories",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-04_2022_11_04_crude_oil_gains_following_further_drawdowns_in_inventories__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-04_2022_11_04_crude_oil_gains_following_further_drawdowns_in_inventories",
+      "parent_id": "breakwave_insights_insights_2022-11-04_2022_11_04_crude_oil_gains_following_further_drawdowns_in_inventories__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nCommodity markets were mixed as signs of tightness via lower inventories was weighed against the gloomy economic backdrop. Sentiment in China's markets remains positive amid ongoing rumours of an easing in COVID-19 restrictions.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "europe",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 700,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

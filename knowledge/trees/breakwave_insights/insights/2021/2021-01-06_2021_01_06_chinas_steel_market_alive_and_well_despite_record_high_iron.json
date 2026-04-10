@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-01-06_2021_01_06_chinas_steel_market_alive_and_well_despite_record_high_iron__root",
+  "doc_id": "breakwave_insights_insights_2021-01-06_2021_01_06_chinas_steel_market_alive_and_well_despite_record_high_iron",
+  "parent_id": null,
+  "title": "Chinas Steel Market Alive And Well Despite Record High Iron Ore",
+  "section_path": [
+    "Chinas Steel Market Alive And Well Despite Record High Iron Ore"
+  ],
+  "section_path_text": "Chinas Steel Market Alive And Well Despite Record High Iron Ore",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIron ore prices entered the New Year at the highest level in almost a decade, as the supply squeeze due to slower Brazilian exports combined with strong demand from China has created the perfect storm for the steelmaking material. Still, high input costs don't bode well for steel mills and combined with very also high coking coal prices, another important ingredient for steel mills, margins remain under pressure. If one looks strictly at the headline profit margin as constructed by what the average steel mill needs in order to produce one tonne of steel, margins have been under pressure for quite some time now.",
+  "keywords": [
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "steel",
+    "iron",
+    "ore",
+    "prices",
+    "are",
+    "mills",
+    "production",
+    "high"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1108,
+  "source_path": "reports/breakwave/2021/2021-01-06_chinas-steel-market-alive-and-well-despite-record-high-iron.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/1/6/chinas-steel-market-alive-and-well-despite-record-high-iron-ore",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-01-06_2021_01_06_chinas_steel_market_alive_and_well_despite_record_high_iron__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-01-06_2021_01_06_chinas_steel_market_alive_and_well_despite_record_high_iron",
+      "parent_id": "breakwave_insights_insights_2021-01-06_2021_01_06_chinas_steel_market_alive_and_well_despite_record_high_iron__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Iron ore prices entered the New Year at the highest level in almost a decade, as the supply squeeze due to slower Brazilian exports combined with strong demand from China has created the perfect storm for the steelmaking material. Still, high input costs don't bode well for steel mills and combined with very also high coking coal prices, another important ingredient for steel mills, margins remain under pressure.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "coal",
+        "steel",
+        "iron",
+        "ore",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1106,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

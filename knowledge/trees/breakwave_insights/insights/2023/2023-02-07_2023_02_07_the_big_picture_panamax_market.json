@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market__root",
+  "doc_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market",
+  "parent_id": null,
+  "title": "The Big Picture Panamax Market",
+  "section_path": [
+    "The Big Picture Panamax Market"
+  ],
+  "section_path_text": "The Big Picture Panamax Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Big Picture: Panamax market\n\n\nSlow start to the year\nSince the turn of the year, in tandem with the other dry bulk markets, Panamax rates have shed 31% in value. We look at several factors that have caused this move lower. By Mark Nugent\nThe Baltic Panamax index time-charter equivalent declined by $368/day today, printing at $8,894/day at the time of writing, as dry bulk markets move past the holiday period in the Far East.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "japan",
+    "coal",
+    "grain",
+    "tonnes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1141,
+  "source_path": "reports/breakwave/2023/2023-02-07_the-big-picture-panamax-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/7/the-big-picture-panamax-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market__s02_slow_start_to_the_year",
+      "doc_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market",
+      "parent_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market__root",
+      "title": "Slow start to the year",
+      "section_path": [
+        "Slow start to the year"
+      ],
+      "section_path_text": "Slow start to the year",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Since the turn of the year, in tandem with the other dry bulk markets, Panamax rates have shed 31% in value. We look at several factors that have caused this move lower.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "coal",
+        "year",
+        "much",
+        "compared"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 268,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market__s03_pacific_coal",
+      "doc_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market",
+      "parent_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market__root",
+      "title": "Pacific coal",
+      "section_path": [
+        "Pacific coal"
+      ],
+      "section_path_text": "Pacific coal",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "January proved to be a solid month for Indonesian coal shipments which totalled 40.1m tonnes in January, 6.4% above 2021 levels. The Panamaxes lifted 57% of these volumes, at 22.9m tonnes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 520,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market__s04_slow_start_in_the_atlantic",
+      "doc_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market",
+      "parent_id": "breakwave_insights_insights_2023-02-07_2023_02_07_the_big_picture_panamax_market__root",
+      "title": "Slow start in the Atlantic",
+      "section_path": [
+        "Slow start in the Atlantic"
+      ],
+      "section_path_text": "Slow start in the Atlantic",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Printing $6,625/day at the time of writing, the Baltic-assessed P1A_82 route is now at its lowest point since June 2020. Fresh cargoes in the Atlantic have been few and far between, with new reports of delays to the Brazilian soybean export season surfacing in the past several days.",
+      "keywords": [
+        "panamax",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "coal",
+        "grain",
+        "demand",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 330,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

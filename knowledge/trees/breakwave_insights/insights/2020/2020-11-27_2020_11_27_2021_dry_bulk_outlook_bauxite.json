@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-11-27_2020_11_27_2021_dry_bulk_outlook_bauxite__root",
+  "doc_id": "breakwave_insights_insights_2020-11-27_2020_11_27_2021_dry_bulk_outlook_bauxite",
+  "parent_id": null,
+  "title": "2021 Dry Bulk Outlook Bauxite",
+  "section_path": [
+    "2021 Dry Bulk Outlook Bauxite"
+  ],
+  "section_path_text": "2021 Dry Bulk Outlook Bauxite",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Peter Lindström\nThis article is the 6th in a series of seven where Klaveness Research goes through how the fundamentals impacting dry bulk freight rates are shaping up for 2021. In the first article we started off by having a look at the big picture . In the subsequent four articles we drilled further down into the details of the seaborne iron ore , coal , grains and minor bulks trade.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1673,
+  "source_path": "reports/breakwave/2020/2020-11-27_2021-dry-bulk-outlook-bauxite.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/11/27/2021-dry-bulk-outlook-bauxite",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-11-27_2020_11_27_2021_dry_bulk_outlook_bauxite__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-11-27_2020_11_27_2021_dry_bulk_outlook_bauxite",
+      "parent_id": "breakwave_insights_insights_2020-11-27_2020_11_27_2021_dry_bulk_outlook_bauxite__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Peter Lindström\nThis article is the 6th in a series of seven where Klaveness Research goes through how the fundamentals impacting dry bulk freight rates are shaping up for 2021. In the first article we started off by having a look at the big picture .",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "australia",
+        "atlantic",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1671,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

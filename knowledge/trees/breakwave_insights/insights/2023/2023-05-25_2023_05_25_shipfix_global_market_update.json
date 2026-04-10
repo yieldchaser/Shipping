@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nYesterday, purchasing managers' indices were released in several of the world's larger economies. In the US, the services PMI exceeded expectations by quite a margin with a reading of 55.1. In contrast, the manufacturing sector in the world's largest economy failed to live up to consensus projections.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "australia",
+    "atlantic",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1445,
+  "source_path": "reports/breakwave/2023/2023-05-25_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/25/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Yesterday, purchasing managers' indices were released in several of the world's larger economies. In the US, the services PMI exceeded expectations by quite a margin with a reading of 55.1.",
+      "keywords": [
+        "atlantic",
+        "manufacturing",
+        "demand",
+        "pmi",
+        "pressure",
+        "reading",
+        "sectors",
+        "services"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Despite continued concerns over a US default as a deal to raise the debt ceiling remained elusive, crude oil prices advanced yesterday. The mood turned bullish as Saudi Arabia's top energy official warned that short positions in the crude oil market could become costly for traders, suggesting that OPEC+ may reduce output when they meet at the beginning of June.",
+      "keywords": [
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 600,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The narrative of the recent days remained intact for the Baltic Exchange's dry bulk freight indices, with all of the indicators in the red for a ninth consecutive session. The headline Baltic Dry Index declined by 1.2 per cent.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 376,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-05-25_2023_05_25_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While European front-month coal futures have recovered somewhat after briefly dropping below 100 dollars per tonne last week, they still remain close to the lowest levels recorded in nearly two years. Ample supplies of natural gas amid robust inflows of seaborne LNG and falling demand have contributed to the pressure on prices.",
+      "keywords": [
+        "lng",
+        "australia",
+        "atlantic",
+        "europe",
+        "coal",
+        "gas",
+        "cargo",
+        "european"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 280,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-05-28_2021_05_28_trade_tensions_back_on_the_trans_pacific_agenda__root",
+  "doc_id": "breakwave_insights_insights_2021-05-28_2021_05_28_trade_tensions_back_on_the_trans_pacific_agenda",
+  "parent_id": null,
+  "title": "Trade Tensions Back On The Trans Pacific Agenda",
+  "section_path": [
+    "Trade Tensions Back On The Trans Pacific Agenda"
+  ],
+  "section_path_text": "Trade Tensions Back On The Trans Pacific Agenda",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe trade tensions between the US and China of recent years have been largely absent in the news flow during the past few months. There has been no shortage of potential flashpoints between the two countries, but trade has not featured in any meaningful way in the disagreements since President Biden was inaugurated. While many analysts view this week's over-due resumption of trade talks as a positive development, any immediate breakthroughs look unlikely to materialise.",
+  "keywords": [
+    "china",
+    "grain",
+    "products",
+    "prices",
+    "are",
+    "cent",
+    "commodity",
+    "per",
+    "chinese",
+    "trade",
+    "its",
+    "targets"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 827,
+  "source_path": "reports/breakwave/2021/2021-05-28_trade-tensions-back-on-the-trans-pacific-agenda.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/5/28/trade-tensions-back-on-the-trans-pacific-agenda",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-05-28_2021_05_28_trade_tensions_back_on_the_trans_pacific_agenda__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-05-28_2021_05_28_trade_tensions_back_on_the_trans_pacific_agenda",
+      "parent_id": "breakwave_insights_insights_2021-05-28_2021_05_28_trade_tensions_back_on_the_trans_pacific_agenda__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe trade tensions between the US and China of recent years have been largely absent in the news flow during the past few months. There has been no shortage of potential flashpoints between the two countries, but trade has not featured in any meaningful way in the disagreements since President Biden was inaugurated.",
+      "keywords": [
+        "china",
+        "grain",
+        "products",
+        "prices",
+        "are",
+        "cent",
+        "commodity",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 825,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

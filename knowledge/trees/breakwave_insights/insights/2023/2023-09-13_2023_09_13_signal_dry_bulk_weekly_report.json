@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Dry Bulk Iron Ore Flows from Brazil to China\nBrazilian iron ore export volumes increased in August, leading to a boost in Capesize tonne days\nhttps://go.signalocean.com/e/983831/ic-timeseries-dry-downloadable/2pcmrx/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4 https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2pcms1/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4\nIn the second week of September, despite the ongoing challenges surrounding China's economic recovery and uncertainties regarding grain trade negotiations between Ukraine and Russia, we observed a continued firm momentum of freight rates. It is uncertain if the current situation will continue, as there has been a decline in the growth rate of tonne days demand and an increase in the number of ballast vessels. Based on recent supply and demand figures, there may be a decrease in freight rates towards the end of the third quarter this year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "grain",
+    "tonne",
+    "number",
+    "increased"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1287,
+  "source_path": "reports/breakwave/2023/2023-09-13_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/13/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_iron_ore_flows_from_brazil_to_china",
+      "doc_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week: Dry Bulk Iron Ore Flows from Brazil to China",
+      "section_path": [
+        "Chart of the Week: Dry Bulk Iron Ore Flows from Brazil to China"
+      ],
+      "section_path_text": "Chart of the Week: Dry Bulk Iron Ore Flows from Brazil to China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Brazilian iron ore export volumes increased in August, leading to a boost in Capesize tonne days\nhttps://go.signalocean.com/e/983831/ic-timeseries-dry-downloadable/2pcmrx/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4 https://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2pcms1/345557934?h=zKu4Vss9Wc8o2XS2Y9d2XrwkpRGmFsNmN7lY_Ni-IB4\nIn the second week of September, despite the ongoing challenges surrounding China's economic recovery and uncertainties regarding grain trade negotiations between Ukraine and Russia, we observed a continued firm momentum of freight rates. It is uncertain if the current situation will continue, as there has been a decline in the growth rate of tonne days demand and an increase in the number of ballast vessels.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "grain",
+        "tonne",
+        "days",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 460,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Firmer\nThe second week of September saw Panamax rates continuing to recover and sentiment remaining buoyant, while signs of a weekly revamp emerged in the Capesize market. Capesize vessel freight rates from Brazil to North China exceeded $17/tonne, representing a 3% w-o-w increase, although still below early summer levels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (# vessels) Increasing\nThe number of ballast vessels increased unexpectedly at the start of the week for the Panamax, Supramax and Handysize segments. Capesize levels for the week remained almost the same as the previous week with a minor increase.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "previous",
+        "increased",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 215,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size Tonne Days Mixed\nThe demand tonne days in the Capesize segment have increased during the last two weeks, leading to optimism for rate recovery in the second week of September compared to the beginning of August. Capesize: Tonne-day demand growth has reached its highest point since week 33.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "grain",
+        "demand",
+        "downward",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-13_2023_09_13_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports\nNo of Vessels Increasing\nThe sharp increase in vessel congestion in China in early September continued, with significant increases in the Handysize, Panamax and Capesize vessel segments. Capesize: The number of congested ships has increased to 121, up from 91 three weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "number",
+        "ships",
+        "ago."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-19_2023_05_19_more_grain_exports_expected_next_season__root",
+  "doc_id": "breakwave_insights_insights_2023-05-19_2023_05_19_more_grain_exports_expected_next_season",
+  "parent_id": null,
+  "title": "More Grain Exports Expected Next Season",
+  "section_path": [
+    "More Grain Exports Expected Next Season"
+  ],
+  "section_path_text": "More Grain Exports Expected Next Season",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nThe United States Department of Agriculture (USDA) recently released its initial global grain trade forecast for the upcoming 2023/24 season. Global grain exports are expected to total 500.4 million tons, which is 14.8 million tons (3%) more than is expected for the current 2022/23 season. As we have been stressing in our Weekly Dry Bulk Reports, however, the current 2022/23 season is expected to see exports total only 485.8 million tons, which would mark a year-on-year decline of 27.5 million tons (-5%).",
+  "keywords": [
+    "grain",
+    "million",
+    "expected",
+    "tons",
+    "are",
+    "coarse",
+    "exports",
+    "total",
+    "current",
+    "global",
+    "season",
+    "season."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 367,
+  "source_path": "reports/breakwave/2023/2023-05-19_more-grain-exports-expected-next-season.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/19/more-grain-exports-expected-next-season",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-19_2023_05_19_more_grain_exports_expected_next_season__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-05-19_2023_05_19_more_grain_exports_expected_next_season",
+      "parent_id": "breakwave_insights_insights_2023-05-19_2023_05_19_more_grain_exports_expected_next_season__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nThe United States Department of Agriculture (USDA) recently released its initial global grain trade forecast for the upcoming 2023/24 season. Global grain exports are expected to total 500.4 million tons, which is 14.8 million tons (3%) more than is expected for the current 2022/23 season.",
+      "keywords": [
+        "grain",
+        "million",
+        "expected",
+        "tons",
+        "are",
+        "coarse",
+        "exports",
+        "total"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 365,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

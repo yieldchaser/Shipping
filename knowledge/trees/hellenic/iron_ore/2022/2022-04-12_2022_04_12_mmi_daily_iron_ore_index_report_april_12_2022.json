@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-04-12_2022_04_12_mmi_daily_iron_ore_index_report_april_12_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-04-12_2022_04_12_mmi_daily_iron_ore_index_report_april_12_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report April 12 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report April 12 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report April 12 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 12/04/2022\nDCE iron ore futures open lower and go higher，an increase of 4.40%throughout the day, the main contract closed 797.5. the quotation inthe morning was increased by 10 yuan/mt over yesterday, and continue to increase 10-20 yuan as the disk rise. some traders were active to sell, steel mills purchased on demand.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "tons",
+    "yuan/mt",
+    "increased",
+    "period",
+    "million",
+    "shipments",
+    "dealt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 468,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-04-12_mmi-daily-iron-ore-index-report-april-12-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-12-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-04-12_2022_04_12_mmi_daily_iron_ore_index_report_april_12_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-04-12_2022_04_12_mmi_daily_iron_ore_index_report_april_12_2022",
+      "parent_id": "hellenic_iron_ore_2022-04-12_2022_04_12_mmi_daily_iron_ore_index_report_april_12_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 12/04/2022\nDCE iron ore futures open lower and go higher，an increase of 4.40%throughout the day, the main contract closed 797.5. the quotation inthe morning was increased by 10 yuan/mt over yesterday, and continue to increase 10-20 yuan as the disk rise.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "tons",
+        "yuan/mt",
+        "increased"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 466,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-23_2023_02_23_gibsons_tanker_market_report__root",
+  "doc_id": "breakwave_insights_insights_2023-02-23_2023_02_23_gibsons_tanker_market_report",
+  "parent_id": null,
+  "title": "Gibsons Tanker Market Report",
+  "section_path": [
+    "Gibsons Tanker Market Report"
+  ],
+  "section_path_text": "Gibsons Tanker Market Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Driving Force\nChina's dramatic shift away from its strict zero covid policy at the end of 2022 defied expectations of a gradual reopening over the course of 2023. Inevitably fuel demand is now projected to grow strongly over the course of 2023, with the IEA predicting growth of 900kbd, whilst Refinitiv Oil Research forecasts crude imports gaining 10% year on year. However, resurgent Chinese demand raises several key questions.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "west_africa",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "crude",
+    "expected",
+    "exports",
+    "growth",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 631,
+  "source_path": "reports/breakwave/2023/2023-02-23_gibsons-tanker-market-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/23/gibsons-tanker-market-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-23_2023_02_23_gibsons_tanker_market_report__s01_driving_force",
+      "doc_id": "breakwave_insights_insights_2023-02-23_2023_02_23_gibsons_tanker_market_report",
+      "parent_id": "breakwave_insights_insights_2023-02-23_2023_02_23_gibsons_tanker_market_report__root",
+      "title": "Driving Force",
+      "section_path": [
+        "Driving Force"
+      ],
+      "section_path_text": "Driving Force",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "China's dramatic shift away from its strict zero covid policy at the end of 2022 defied expectations of a gradual reopening over the course of 2023. Inevitably fuel demand is now projected to grow strongly over the course of 2023, with the IEA predicting growth of 900kbd, whilst Refinitiv Oil Research forecasts crude imports gaining 10% year on year.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "west_africa",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 628,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

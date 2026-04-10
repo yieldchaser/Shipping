@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-08-17_2022_08_17_mmi_daily_iron_ore_index_report_august_17_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-08-17_2022_08_17_mmi_daily_iron_ore_index_report_august_17_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 17 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 17 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 17 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 17/08/2022\nDCE iron ore was was shocked and keep downward all the day.The main contract closed at 684,decreased of 4.34 %. Traders are no moremotivated to ship. Steel mills are mainly on the sidelines, and market turnover continues to pick up.PBF at Shandong port dealt 745-752 yuan/ mt,decrease 10-20yuan/mt than yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "yuan/mt",
+    "according",
+    "are",
+    "dealt",
+    "decrease",
+    "demand",
+    "macro"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 276,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-08-17_mmi-daily-iron-ore-index-report-august-17-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-17-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-08-17_2022_08_17_mmi_daily_iron_ore_index_report_august_17_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-08-17_2022_08_17_mmi_daily_iron_ore_index_report_august_17_2022",
+      "parent_id": "hellenic_iron_ore_2022-08-17_2022_08_17_mmi_daily_iron_ore_index_report_august_17_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 17/08/2022\nDCE iron ore was was shocked and keep downward all the day.The main contract closed at 684,decreased of 4.34 %. Traders are no moremotivated to ship.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "yuan/mt",
+        "according",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 274,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nYesterday, the International Monetary Fund shaved off 0.1 per cent from its projection for the year's economic growth. The IMF now expects that the global economy will expand by 2.8 per cent this year and 3.0 per cent next year, as financial-sector turmoil adds to the pressures from tighter monetary policy and Russia's invasion of Ukraine. The fund's chief economist also highlighted that the risks for the global economy remain on the downside, as banks may become increasingly restrictive in their lending.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "meg",
+    "europe",
+    "india",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1060,
+  "source_path": "reports/breakwave/2023/2023-04-13_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/13/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Yesterday, the International Monetary Fund shaved off 0.1 per cent from its projection for the year's economic growth. The IMF now expects that the global economy will expand by 2.8 per cent this year and 3.0 per cent next year, as financial-sector turmoil adds to the pressures from tighter monetary policy and Russia's invasion of Ukraine.",
+      "keywords": [
+        "crude_oil",
+        "cent",
+        "per",
+        "year",
+        "economy",
+        "fund",
+        "global",
+        "monetary"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 101,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil prices advanced yesterday amid continued concerns over supplies from OPEC+. The May Brent futures recorded a daily gain of 1.7 and settled at 85.61 dollars per barrel.",
+      "keywords": [
+        "australia",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 471,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-13_2023_04_13_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The headline Baltic Dry Index retreated by 3.4 per cent on Tuesday. Among the dry bulk freight indices, only the gauge for the Panamaxes remained in the black yesterday, albeit only marginally, with a daily gain of 0.1 per cent.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 463,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

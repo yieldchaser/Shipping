@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__root",
+  "doc_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q",
+  "parent_id": null,
+  "title": "Sa5Wzhysci878S5X7Trr4Ncmu4188Q",
+  "section_path": [
+    "Sa5Wzhysci878S5X7Trr4Ncmu4188Q"
+  ],
+  "section_path_text": "Sa5Wzhysci878S5X7Trr4Ncmu4188Q",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nThe rising stakes in the war in Ukraine, following the Russian announcement of a partial mobilisation, and interest hikes by several central banks dominated last week's headlines. The mounting risks of a global recession following another large move by the Federal Reserve and increasingly hawkish language from its Chairman sent the dollar sharply higher. In contrast to the greenback, most risky assets declined during the week as investors assessed their appetite for risk.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1186,
+  "source_path": "reports/breakwave/2022/2022-09-27_sa5wzhysci878s5x7trr4ncmu4188q.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/27/sa5wzhysci878s5x7trr4ncmu4188q",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q",
+      "parent_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q",
+      "parent_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The rising stakes in the war in Ukraine, following the Russian announcement of a partial mobilisation, and interest hikes by several central banks dominated last week's headlines. The mounting risks of a global recession following another large move by the Federal Reserve and increasingly hawkish language from its Chairman sent the dollar sharply higher.",
+      "keywords": [
+        "china",
+        "central",
+        "dollar",
+        "bank",
+        "banks",
+        "can",
+        "chinese",
+        "currency"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q",
+      "parent_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil prices tumbled last week, with the Brent futures recording a weekly loss of nearly six per cent. However, for most parts of last week, the trading was relatively sedate with only limited daily moves.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 460,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q",
+      "parent_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Unlike the commodities markets, seaborne freight rates had another week of mostly solid gains. As has often been the case in recent weeks, the largest dry bulk vessels provided the standout performance.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "gas",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 227,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q",
+      "parent_id": "breakwave_insights_insights_2022-09-27_2022_09_27_sa5wzhysci878s5x7trr4ncmu4188q__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The move by the Russian leadership to call for a partial mobilisation could further escalate the war in Ukraine. Hence, the deal that allowed Ukraine to resume its seaborne exports of agricultural commodities could come under threat, especially as the Russian leader has already expressed some grievances regarding it.",
+      "keywords": [
+        "capesize",
+        "grain",
+        "could",
+        "since",
+        "agricultural",
+        "below",
+        "commodities",
+        "deal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 246,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry bulk freight rates have sustained a weaker momentum for the first half of April, while the demand ton-days growth continues to decrease, but is expected to recover once Covid-19 cases in China start to calm down. In the iron ore market, seaborne iron ore prices dropped on Monday due to depressed market sentiment. Prices for iron ore cargoes with a 63.5% iron content for delivery into Tianjin dropped to below $150/t, pressured by fears that the coronavirus outbreak in China could dampen economic growth and metals demand in the world's second-largest economy.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "vessels",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1128,
+  "source_path": "reports/breakwave/2022/2022-04-13_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/4/13/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry bulk freight rates have sustained a weaker momentum for the first half of April, while the demand ton-days growth continues to decrease, but is expected to recover once Covid-19 cases in China start to calm down. In the iron ore market, seaborne iron ore prices dropped on Monday due to depressed market sentiment.",
+      "keywords": [
+        "china",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "iron",
+        "demand",
+        "high"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 331,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nA weaker sentiment of freight rates is sustained for the second week of April with losses on small and large vessel size categories. Handysize presents the sharpest decrease among the vessel sizes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "less"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 227,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__s04_number_of_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__root",
+      "title": "Number of Vessels - Decreasing",
+      "section_path": [
+        "Number of Vessels - Decreasing"
+      ],
+      "section_path_text": "Number of Vessels - Decreasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ballasters signals a decreasing trend for all vessel size categories for the second week of April at levels below the one-year average in all vessel size categories, despite the upward movement last week. Capesize SE Africa: The number of vessels sailing in ballast held a pace of around 70 vessels, which is 12 vessels less than the last peak of Week 11.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "number",
+        "around",
+        "ballast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 207,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__s06_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__root",
+      "title": "Decreasing",
+      "section_path": [
+        "Decreasing"
+      ],
+      "section_path_text": "Decreasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The overall trend of demand ton-days keeps decreasing, while there is a sharp downward trajectory in the Capesize and Panamax segment. Capesize demand ton-days: There is a sustained decrease for two consecutive weeks compared to the peak during Week 12.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "downward",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__s09_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-04-13_2022_04_13_signal_dry_bulk_weekly_report__root",
+      "title": "Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Dry bulk ships in congestion have shown a sharp increase for the second week of April, stemming mainly from the Handysize and Supramax segment. Capesize : The number of ships in congestion increased to 132 vessels when last week we saw the figure not surpassing the limit of 130 vessels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "congestion",
+        "ships",
+        "vessels",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

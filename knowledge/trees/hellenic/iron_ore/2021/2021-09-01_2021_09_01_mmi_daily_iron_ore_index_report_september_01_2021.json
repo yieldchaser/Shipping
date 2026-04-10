@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-09-01_2021_09_01_mmi_daily_iron_ore_index_report_september_01_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-09-01_2021_09_01_mmi_daily_iron_ore_index_report_september_01_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 01 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 01 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 01 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 01/09/2021\nDCE iron ore futures fell sharply today, the main contract decreased by around 7.8% in a day. The spot quotation in the morning has increasedby 10yuan/mt over yesterday, while traders gradually lowered the quotations and accepted the bargain space, although they had bad selling mood today. PBF at Shandong port dealt 1020yuan/mt, fell by 70yuan/mt; presell PBF at Shandong port dealt 1010-1015yuan/mt, fell by 50- 55yuan/mt over yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "yuan/mt",
+    "fell",
+    "control",
+    "dealt",
+    "main",
+    "mood",
+    "pbf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 298,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-09-01_mmi-daily-iron-ore-index-report-september-01-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-01-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-09-01_2021_09_01_mmi_daily_iron_ore_index_report_september_01_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-09-01_2021_09_01_mmi_daily_iron_ore_index_report_september_01_2021",
+      "parent_id": "hellenic_iron_ore_2021-09-01_2021_09_01_mmi_daily_iron_ore_index_report_september_01_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 01/09/2021\nDCE iron ore futures fell sharply today, the main contract decreased by around 7.8% in a day. The spot quotation in the morning has increasedby 10yuan/mt over yesterday, while traders gradually lowered the quotations and accepted the bargain space, although they had bad selling mood today.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "yuan/mt",
+        "fell",
+        "control"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 296,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

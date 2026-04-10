@@ -1,0 +1,252 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__root",
+  "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle",
+  "parent_id": null,
+  "title": "Congestion Is A Big Piece Of The Supply And Demand Puzzle",
+  "section_path": [
+    "Congestion Is A Big Piece Of The Supply And Demand Puzzle"
+  ],
+  "section_path_text": "Congestion Is A Big Piece Of The Supply And Demand Puzzle",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Vivek Srivastava\n\nIntroduction\nDry Bulk and Containership markets have exhibited sharp declines in earnings over the summer. Many have attributed this to a drop in congestion. However, our data shows congestion persists at high levels, though it has shifted from more visible to less visible regions of the world.",
+  "keywords": [
+    "capesize",
+    "container",
+    "australia",
+    "europe",
+    "coal",
+    "steel",
+    "gas",
+    "congestion",
+    "port",
+    "waiting",
+    "vessels",
+    "times"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2181,
+  "source_path": "reports/breakwave/2022/2022-09-28_congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/28/congestion-is-a-big-piece-of-the-supply-amp-demand-puzzle",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle",
+      "parent_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "srivastava",
+        "vivek"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__s02_introduction",
+      "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle",
+      "parent_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__root",
+      "title": "Introduction",
+      "section_path": [
+        "Introduction"
+      ],
+      "section_path_text": "Introduction",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Dry Bulk and Containership markets have exhibited sharp declines in earnings over the summer. Many have attributed this to a drop in congestion.",
+      "keywords": [
+        "capesize",
+        "container",
+        "congestion",
+        "per",
+        "usd",
+        "visible",
+        "day",
+        "feu"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 299,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__s03_congestion_persists_in_between_headline_grabbing_flare_ups",
+      "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle",
+      "parent_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__root",
+      "title": "Congestion Persists in Between Headline Grabbing Flare Ups",
+      "section_path": [
+        "Congestion Persists in Between Headline Grabbing Flare Ups"
+      ],
+      "section_path_text": "Congestion Persists in Between Headline Grabbing Flare Ups",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Analysts sometimes think of port congestion as a vast black hole that sucks up productive Shipping capacity and transforms it into stationary steel statues. Vessels are only productive when they are moving and Figure 1, below, shows that the proportions of both the Dry Bulk Carrier and the Containership fleets not moving remain near pandemic highs, at 17% and 9% respectively.",
+      "keywords": [
+        "container",
+        "steel",
+        "vessels",
+        "are",
+        "both",
+        "carrier",
+        "case",
+        "congestion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__s04_the_tale_of_pandemic_told_through_the_eyes_of_a_shipping_economist",
+      "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle",
+      "parent_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__root",
+      "title": "The Tale of Pandemic, Told Through the Eyes of a Shipping Economist",
+      "section_path": [
+        "The Tale of Pandemic, Told Through the Eyes of a Shipping Economist"
+      ],
+      "section_path_text": "The Tale of Pandemic, Told Through the Eyes of a Shipping Economist",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Perhaps the clearest example of congestion shifting between regions has occurred in the US. Port congestion caught the public imagination early on in the pandemic, when staff absences afflicted LAX/Long Beach on the US West Coast, just as the population was urged to \"stay home\" and households abruptly switched spending from services to goods.",
+      "keywords": [
+        "container",
+        "coast",
+        "east",
+        "was",
+        "congestion",
+        "hours",
+        "port",
+        "then"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 560,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__s05_shanghai_changed_the_way_we_measure_congestion",
+      "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle",
+      "parent_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__root",
+      "title": "Shanghai Changed the Way We Measure Congestion",
+      "section_path": [
+        "Shanghai Changed the Way We Measure Congestion"
+      ],
+      "section_path_text": "Shanghai Changed the Way We Measure Congestion",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "On 5th April 2022, Shanghai, the biggest city in the biggest market for most commodity Shipping sectors, went into lockdown. As 26 million people endured eight weeks of hardship, we at VesselsValue quickly realised we had to revise our methodology for measuring congestion.",
+      "keywords": [
+        "container",
+        "waiting",
+        "shanghai",
+        "times",
+        "april",
+        "average",
+        "had",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 251,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__s06_clogged_up_conflict_forces_european_power_sector_back_to_coal",
+      "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle",
+      "parent_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__root",
+      "title": "Clogged Up: Conflict Forces European Power Sector Back to Coal",
+      "section_path": [
+        "Clogged Up: Conflict Forces European Power Sector Back to Coal"
+      ],
+      "section_path_text": "Clogged Up: Conflict Forces European Power Sector Back to Coal",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "While we were monitoring Container ports in the Western Hemisphere for knock on effects of the Shanghai lockdown, congestion next reared its head in the Dry Bulk sector, taking the market somewhat by surprise. As shown in Figure 4 below, average waiting times for Bulkers in Northwest Europe had been above the top end of the historical range for most of the first five months of 2022.",
+      "keywords": [
+        "capesize",
+        "container",
+        "australia",
+        "europe",
+        "coal",
+        "gas",
+        "had",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 362,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__s07_storm_on_the_horizon_port_worker_strikes",
+      "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle",
+      "parent_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__root",
+      "title": "Storm on the Horizon: Port Worker Strikes",
+      "section_path": [
+        "Storm on the Horizon: Port Worker Strikes"
+      ],
+      "section_path_text": "Storm on the Horizon: Port Worker Strikes",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "The energy crisis is, in turn, one of several factors contributing to a wider cost of living crisis, fomenting growing industrial unrest in many parts of the world. The UK was hit by an eight day port workers' strike at its largest container port, Felixstowe, in late August 2022.",
+      "keywords": [
+        "container",
+        "europe",
+        "average",
+        "port",
+        "several",
+        "strike",
+        "times",
+        "waiting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 296,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__s08_port_congestion_is_a_barometer_of_macroeconomic_and_geopolitical_trends",
+      "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle",
+      "parent_id": "breakwave_insights_insights_2022-09-28_2022_09_28_congestion_is_a_big_piece_of_the_supply_amp_demand_puzzle__root",
+      "title": "Port Congestion is a Barometer of Macroeconomic and Geopolitical Trends",
+      "section_path": [
+        "Port Congestion is a Barometer of Macroeconomic and Geopolitical Trends"
+      ],
+      "section_path_text": "Port Congestion is a Barometer of Macroeconomic and Geopolitical Trends",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "The last two and half years have been truly tumultuous. From the pandemic to the Russia/Ukraine conflict, the resultant energy and cost of living crises, and labour unrest, a variety of unexpected threats have surfaced to disrupt trade flows and supply chains in the major arteries and veins of the global economy.",
+      "keywords": [
+        "container",
+        "port",
+        "supply",
+        "analyst",
+        "any",
+        "arteries",
+        "blame",
+        "broader"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

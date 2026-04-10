@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe past week saw the BDI extending on recent gains, with a strong performance for the Panamaxes more than offsetting losses in the other segments. Likewise, the commodities also experienced a week of mixed fortunes. The agricultural commodities and iron ore faced significant headwinds, while supply concerns contributed to gains for many energy commodities.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal",
+    "grain"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1439,
+  "source_path": "reports/breakwave/2023/2023-08-08_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/8/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe past week saw the BDI extending on recent gains, with a strong performance for the Panamaxes more than offsetting losses in the other segments. Likewise, the commodities also experienced a week of mixed fortunes.",
+      "keywords": [
+        "panamax",
+        "iron_ore",
+        "commodities",
+        "gains",
+        "agricultural",
+        "bdi",
+        "bergman",
+        "commodities."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The US dollar came under pressure on Friday, with the greenback declining by around half a per cent against a basket of foreign currencies. Weaker-than-expected labour market data contributed to increasing signs that the world's largest economy is slowing down and weighed on the US currency.",
+      "keywords": [
+        "china",
+        "data",
+        "largest",
+        "release",
+        "see",
+        "world",
+        "addition",
+        "against"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil prices advanced last week as concerns over global supplies mounted amid reports that Saudi Arabia is extending its unilateral output reduction. The September Brent futures recorded a weekly gain of 2.2 per cent and ended Friday's session at 86.24 dollars per tonne.",
+      "keywords": [
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 530,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Spot freight rates for the different dry bulk segments developed along diverging paths last week. A strong showing for the Panamaxes offset losses in the other segments, and the Baltic Dry Index advanced by 2.3 per cent over the past week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 390,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-08-08_2023_08_08_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The Baltic Exchange's freight rate indicator for the Supramaxes has almost halved since its high for the year in late March. After staging a minor recovery amid higher demand during the first two weeks of July, the segment's index declined during the past fortnight.",
+      "keywords": [
+        "supramax",
+        "coal",
+        "demand",
+        "during",
+        "order",
+        "past",
+        "segment",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 244,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

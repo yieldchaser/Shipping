@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Agricultural flows from Brazil\nJan-May ‘23: 80% increase in the monthly volume of Brazilian agricultural exports to all destinations\nData Source: The Signal Ocean Platform, Dry Bulk Flows\nThe Capesize and Panamax freight rates are showing signs of a revival, suggesting a positive turnaround in the shipping industry. Furthermore, the number of Capesize vessels ballasting in SE Africa has experienced a significant downward trend after maintaining persistently high levels above the annual average for several weeks. This decline in ballasters can potentially reinforce the recent recovery in the sector.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "products",
+    "number",
+    "vessels",
+    "tonne"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1090,
+  "source_path": "reports/breakwave/2023/2023-06-15_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/15/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__s01_chart_of_the_week_agricultural_flows_from_brazil",
+      "doc_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week: Agricultural flows from Brazil",
+      "section_path": [
+        "Chart of the Week: Agricultural flows from Brazil"
+      ],
+      "section_path_text": "Chart of the Week: Agricultural flows from Brazil",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Jan-May ‘23: 80% increase in the monthly volume of Brazilian agricultural exports to all destinations\nData Source: The Signal Ocean Platform, Dry Bulk Flows\nThe Capesize and Panamax freight rates are showing signs of a revival, suggesting a positive turnaround in the shipping industry. Furthermore, the number of Capesize vessels ballasting in SE Africa has experienced a significant downward trend after maintaining persistently high levels above the annual average for several weeks.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "iron_ore",
+        "products",
+        "after",
+        "agricultural"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 301,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__s02_section_1_freight_the_big_picture_capesize_and_panamax_bulkers_and_smaller_ship_sizes",
+      "doc_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT ‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes",
+      "section_path": [
+        "SECTION 1/ FREIGHT ‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT ‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Market Rates ($/t) Firmer\nThe dry freight market began to strengthen, with the Capesize and Panamax segments leading the revival, while weaker momentum was seen in the smaller vessel categories. Capesize vessel freight rates rose to $19.7/tonne, up nearly $ 1/tonne from two weeks ago, but it remains to be seen if the upward sentiment will continue.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "below",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 198,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__s03_section_2_supply_supply_trend_lines_for_key_load_areas_ballasters_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY Supply Trend Lines for Key Load Areas Ballasters (# vessels) Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY Supply Trend Lines for Key Load Areas Ballasters (# vessels) Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY Supply Trend Lines for Key Load Areas Ballasters (# vessels) Increasing",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The number of ballast ships is still on an upward trend, but there are signs of a downward correction in Capesize ships after more than ten weeks of steady increases and a strong upward movement in Handysize. Capesize SE Africa: The current number of ships has now dropped to the annual average of 82, 23 fewer than the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "previous",
+        "ships",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 205,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__s04_section_3_demand_summary_of_dry_bulk_demand_per_ship_size",
+      "doc_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ Demand Summary of Dry Bulk Demand, per Ship Size",
+      "section_path": [
+        "SECTION 3/ Demand Summary of Dry Bulk Demand, per Ship Size"
+      ],
+      "section_path_text": "SECTION 3/ Demand Summary of Dry Bulk Demand, per Ship Size",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The first half of June saw a downward trend in demand for Panamax and Handysize tonnage days, while Capesize vessels gradually regained momentum after bottoming out in week 8. Capesize: Demand growth appears to be one of the strongest points feeding optimism for late June and for a recovery in freight rates.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "growth",
+        "june",
+        "are",
+        "compared"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__s05_section_4_port_congestion_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-15_2023_06_15_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The first half of June ends with a a sustained upward trend in the number of vessel congestions in the Handysize and Supramax segments. Capesize: The number of vessels is still at a level of almost over 100, with an increase of 20 ships compared to three weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "ago.",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

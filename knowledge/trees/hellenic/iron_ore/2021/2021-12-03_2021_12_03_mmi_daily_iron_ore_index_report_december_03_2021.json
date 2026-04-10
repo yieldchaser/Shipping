@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-12-03_2021_12_03_mmi_daily_iron_ore_index_report_december_03_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-12-03_2021_12_03_mmi_daily_iron_ore_index_report_december_03_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report December 03 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report December 03 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report December 03 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 03/12/2021\nDCE iron ore futures market falling trends by 3.08%,the main contract 2201 closed 597. the quotation in the morning was decreased by10-20 yuan/mt over yesterday. some traders give more bargain space on some brands and their negotiation pattern is more flexible，Some steel procurement more cautious.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "products",
+    "steel",
+    "ports",
+    "yuan/mt",
+    "million",
+    "port",
+    "dealt",
+    "decreased"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 360,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-12-03_mmi-daily-iron-ore-index-report-december-03-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-december-03-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-12-03_2021_12_03_mmi_daily_iron_ore_index_report_december_03_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-12-03_2021_12_03_mmi_daily_iron_ore_index_report_december_03_2021",
+      "parent_id": "hellenic_iron_ore_2021-12-03_2021_12_03_mmi_daily_iron_ore_index_report_december_03_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 03/12/2021\nDCE iron ore futures market falling trends by 3.08%,the main contract 2201 closed 597. the quotation in the morning was decreased by10-20 yuan/mt over yesterday.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "products",
+        "steel",
+        "ports",
+        "yuan/mt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 358,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

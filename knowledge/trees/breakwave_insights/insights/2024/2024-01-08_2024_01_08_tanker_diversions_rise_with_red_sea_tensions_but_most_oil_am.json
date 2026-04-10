@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-08_2024_01_08_tanker_diversions_rise_with_red_sea_tensions_but_most_oil_am__root",
+  "doc_id": "breakwave_insights_insights_2024-01-08_2024_01_08_tanker_diversions_rise_with_red_sea_tensions_but_most_oil_am",
+  "parent_id": null,
+  "title": "Tanker Diversions Rise With Red Sea Tensions But Most Oil And Gas Shippers Still Transit The Red Sea",
+  "section_path": [
+    "Tanker Diversions Rise With Red Sea Tensions But Most Oil And Gas Shippers Still Transit The Red Sea"
+  ],
+  "section_path_text": "Tanker Diversions Rise With Red Sea Tensions But Most Oil And Gas Shippers Still Transit The Red Sea",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "As attacks in the Red Sea persist, only freight rates for key flows via the region have surged. Tanker diversions have picked up but not en-masse, as volumes continue to flow via the Red Sea. By Ioannis Papadimitriou\nAs attacks in the Red Sea persist, freight rates for key flows via the region have surged but remain unaffected on a global scale.",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "crude_oil",
+    "gas",
+    "via",
+    "red",
+    "are",
+    "sea",
+    "attacks"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 799,
+  "source_path": "reports/breakwave/2024/2024-01-08_tanker-diversions-rise-with-red-sea-tensions-but-most-oil-am.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/8/tanker-diversions-rise-with-red-sea-tensions-but-most-oil-amp-gas-shippers-still-transit-the-red-sea",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-08_2024_01_08_tanker_diversions_rise_with_red_sea_tensions_but_most_oil_am__s01_as_attacks_in_the_red_sea_persist_only_freight_rates_for_key_flows_via_the_region_have_surged_tanker_diversions_have_picked_up_but_not_en_masse_as_volumes_continue_to_flow_via_the_red_sea",
+      "doc_id": "breakwave_insights_insights_2024-01-08_2024_01_08_tanker_diversions_rise_with_red_sea_tensions_but_most_oil_am",
+      "parent_id": "breakwave_insights_insights_2024-01-08_2024_01_08_tanker_diversions_rise_with_red_sea_tensions_but_most_oil_am__root",
+      "title": "As attacks in the Red Sea persist, only freight rates for key flows via the region have surged. Tanker diversions have picked up but not en-masse, as volumes continue to flow via the Red Sea.",
+      "section_path": [
+        "As attacks in the Red Sea persist, only freight rates for key flows via the region have surged. Tanker diversions have picked up but not en-masse, as volumes continue to flow via the Red Sea."
+      ],
+      "section_path_text": "As attacks in the Red Sea persist, only freight rates for key flows via the region have surged. Tanker diversions have picked up but not en-masse, as volumes continue to flow via the Red Sea.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ioannis Papadimitriou\nAs attacks in the Red Sea persist, freight rates for key flows via the region have surged but remain unaffected on a global scale. Tanker diversions have picked up in the span of the last two weeks, but these are not occurring en-masse as tankers and volumes continue to flow via the Red Sea.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "crude_oil",
+        "gas",
+        "via"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 756,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

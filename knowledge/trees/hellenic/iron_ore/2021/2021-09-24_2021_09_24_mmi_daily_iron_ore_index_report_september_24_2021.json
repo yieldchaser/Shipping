@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-09-24_2021_09_24_mmi_daily_iron_ore_index_report_september_24_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-09-24_2021_09_24_mmi_daily_iron_ore_index_report_september_24_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 24 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 24 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 24 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 24/09/2021\nAs of September 24, the iron ore inventories across 35 ports tracked by SMM totaled 127.35 million mt, a decrease of 1.94 million mt from theprevious week, but up 8.45 million mt year on year. Recent arrivals of imported iron ore at ports fell sharply, and the shipment congestion at some ports did not ease, so the port inventories continued to decline. The daily average deliveries from the 35 ports increased 62,000 mt on a weekly basis to 2.73 million mt this week.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ports",
+    "deliveries",
+    "iron",
+    "million",
+    "ore",
+    "average",
+    "daily",
+    "increased",
+    "yuan/mt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 334,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-09-24_mmi-daily-iron-ore-index-report-september-24-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-24-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-09-24_2021_09_24_mmi_daily_iron_ore_index_report_september_24_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-09-24_2021_09_24_mmi_daily_iron_ore_index_report_september_24_2021",
+      "parent_id": "hellenic_iron_ore_2021-09-24_2021_09_24_mmi_daily_iron_ore_index_report_september_24_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 24/09/2021\nAs of September 24, the iron ore inventories across 35 ports tracked by SMM totaled 127.35 million mt, a decrease of 1.94 million mt from theprevious week, but up 8.45 million mt year on year. Recent arrivals of imported iron ore at ports fell sharply, and the shipment congestion at some ports did not ease, so the port inventories continued to decline.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ports",
+        "deliveries",
+        "iron",
+        "million",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 332,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

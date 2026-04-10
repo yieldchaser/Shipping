@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-03-10_2022_03_10_mmi_daily_iron_ore_index_report_march_10_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-03-10_2022_03_10_mmi_daily_iron_ore_index_report_march_10_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report March 10 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report March 10 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report March 10 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 10/03/2022\nDCE iron ore futures market trend by 3.24% . the quotation in the morning was decreased by 20-30 yuan/mtover yesterday. some traders were negative to sell, Some steel procurement more cautious, the continuation of a small number of multi- frequency procurement strategy.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "dealt",
+    "decreased",
+    "iron",
+    "port",
+    "shandong",
+    "yesterday.",
+    "blast",
+    "furnaces"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 295,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-03-10_mmi-daily-iron-ore-index-report-march-10-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-march-10-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-03-10_2022_03_10_mmi_daily_iron_ore_index_report_march_10_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-03-10_2022_03_10_mmi_daily_iron_ore_index_report_march_10_2022",
+      "parent_id": "hellenic_iron_ore_2022-03-10_2022_03_10_mmi_daily_iron_ore_index_report_march_10_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 10/03/2022\nDCE iron ore futures market trend by 3.24% . the quotation in the morning was decreased by 20-30 yuan/mtover yesterday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "dealt",
+        "decreased",
+        "iron",
+        "port"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 293,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

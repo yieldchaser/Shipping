@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__root",
+  "doc_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq",
+  "parent_id": null,
+  "title": "E1Njt7R3Oqra6Fv188Cit77Qy9H9Pq",
+  "section_path": [
+    "E1Njt7R3Oqra6Fv188Cit77Qy9H9Pq"
+  ],
+  "section_path_text": "E1Njt7R3Oqra6Fv188Cit77Qy9H9Pq",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nThe US inflation data for October that was released last week proved to be softer than expected. At 7.7 per cent, the year-on-year increase in consumer prices was lower than the eight per cent consensus expectation and also lower than what was recorded in September. The lower-than-expected reading prompted speculations that the Federal Reserve will adopt a less aggressive stance at the next rate-setting meeting in December, resulting in the US dollar taking a tumble.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1274,
+  "source_path": "reports/breakwave/2022/2022-11-15_e1njt7r3oqra6fv188cit77qy9h9pq.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/15/e1njt7r3oqra6fv188cit77qy9h9pq",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq",
+      "parent_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq",
+      "parent_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The US inflation data for October that was released last week proved to be softer than expected. At 7.7 per cent, the year-on-year increase in consumer prices was lower than the eight per cent consensus expectation and also lower than what was recorded in September.",
+      "keywords": [
+        "china",
+        "was",
+        "among",
+        "cent",
+        "chinese",
+        "country",
+        "demand",
+        "dollar"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq",
+      "parent_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil prices saw a recovery during the latter part of last week following a weak start. An improving demand outlook amid softer US inflation data and a weaker dollar saw the Brent futures offsetting some of the week's early losses but nevertheless ended the week in the red.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 575,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq",
+      "parent_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "A rebound for the Capesizes dominated the dry bulk freight markets last week. The Baltic Exchange's sub-index for the largest vessels gained fifteen per cent following amid robust gains during the early parts of the week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "gas",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 249,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq",
+      "parent_id": "breakwave_insights_insights_2022-11-15_2022_11_15_e1njt7r3oqra6fv188cit77qy9h9pq__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "An extension of the deal that has allowed Ukraine to resume its grain exports may depend on the fortunes of Russian fertiliser exports. The facilitation of Russian exports of grains and fertilisers was also part of the original deal.",
+      "keywords": [
+        "europe",
+        "grain",
+        "russian",
+        "deal.",
+        "current",
+        "exports",
+        "fertilisers",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

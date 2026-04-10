@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-14_2022_09_14_higher_than_expected_inflation_pushes_commodities_lower__root",
+  "doc_id": "breakwave_insights_insights_2022-09-14_2022_09_14_higher_than_expected_inflation_pushes_commodities_lower",
+  "parent_id": null,
+  "title": "Higher Than Expected Inflation Pushes Commodities Lower",
+  "section_path": [
+    "Higher Than Expected Inflation Pushes Commodities Lower"
+  ],
+  "section_path_text": "Higher Than Expected Inflation Pushes Commodities Lower",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nHigher than expected inflation in the US raised fears of further aggressive hikes by the Fed. Risk assets subsequently suffered, with commodities coming under pressure. Supply side issues softened the blow in several markets.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "gas",
+    "after",
+    "supply",
+    "was",
+    "back"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 728,
+  "source_path": "reports/breakwave/2022/2022-09-14_higher-than-expected-inflation-pushes-commodities-lower.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/14/higher-than-expected-inflation-pushes-commodities-lower",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-14_2022_09_14_higher_than_expected_inflation_pushes_commodities_lower__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-14_2022_09_14_higher_than_expected_inflation_pushes_commodities_lower",
+      "parent_id": "breakwave_insights_insights_2022-09-14_2022_09_14_higher_than_expected_inflation_pushes_commodities_lower__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nHigher than expected inflation in the US raised fears of further aggressive hikes by the Fed. Risk assets subsequently suffered, with commodities coming under pressure.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 726,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

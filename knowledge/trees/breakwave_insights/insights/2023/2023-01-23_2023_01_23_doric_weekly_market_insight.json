@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-23_2023_01_23_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-01-23_2023_01_23_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nThe third week of the trading year kicked off with a slew of data, including China's fourth-quarter economic performance. In the last quarter of the previous year, GDP was flat compared with the third quarter and rose 2.9 percent year-on-year, higher than analyst expectations of a marginal 1.6 percent increase. As far as the trailing four quarters go, China's economy grew by just 3 percent during 2022, underscoring the hefty costs of the Beijing's longstanding zero-Covid policy.",
+  "keywords": [
+    "china",
+    "percent",
+    "was",
+    "year",
+    "economic",
+    "economy",
+    "sales",
+    "expectations",
+    "zero-covid",
+    "billion",
+    "compared",
+    "development"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 860,
+  "source_path": "reports/breakwave/2023/2023-01-23_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/23/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-23_2023_01_23_doric_weekly_market_insight__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-23_2023_01_23_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-01-23_2023_01_23_doric_weekly_market_insight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nThe third week of the trading year kicked off with a slew of data, including China's fourth-quarter economic performance. In the last quarter of the previous year, GDP was flat compared with the third quarter and rose 2.9 percent year-on-year, higher than analyst expectations of a marginal 1.6 percent increase.",
+      "keywords": [
+        "china",
+        "percent",
+        "was",
+        "year",
+        "economic",
+        "economy",
+        "sales",
+        "expectations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 858,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

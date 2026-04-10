@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Increased ballast speed in the crude oil tanker segment\nData Source: The Signal Ocean Platform, Toncharts - Vessel Speeds https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nrrfb/308951187?h=nsVKyXtPOhFKdGqf1wf8uuL0wXygghrKTH87E2s_HF0\nEuphoria appears to be unabated, particularly in the crude tanker segment, with demand growth at Suezmax and Aframax showing clear signs of firmness. Meanwhile, the first quarter upturn is intensely reflected in crude oil tanker seagoing ballast speed, with owners willing to run even higher ballast speeds to take advantage of profitable rate employment opportunities in the physical market. As the first quarter of the year draws to a close, crude oil tanker ballast speeds are now marking the highest level not only for this year but also for 2022 and 2021 in a similar time frame (see chart above).",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "japan",
+    "crude_oil",
+    "now",
+    "trend"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1123,
+  "source_path": "reports/breakwave/2023/2023-03-24_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/24/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__s01_chart_of_the_week_increased_ballast_speed_in_the_crude_oil_tanker_segment",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__root",
+      "title": "Chart of the Week: Increased ballast speed in the crude oil tanker segment",
+      "section_path": [
+        "Chart of the Week: Increased ballast speed in the crude oil tanker segment"
+      ],
+      "section_path_text": "Chart of the Week: Increased ballast speed in the crude oil tanker segment",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Data Source: The Signal Ocean Platform, Toncharts - Vessel Speeds https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2nrrfb/308951187?h=nsVKyXtPOhFKdGqf1wf8uuL0wXygghrKTH87E2s_HF0\nEuphoria appears to be unabated, particularly in the crude tanker segment, with demand growth at Suezmax and Aframax showing clear signs of firmness. Meanwhile, the first quarter upturn is intensely reflected in crude oil tanker seagoing ballast speed, with owners willing to run even higher ballast speeds to take advantage of profitable rate employment opportunities in the physical market.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "crude_oil",
+        "oil",
+        "ballast",
+        "crude",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 318,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__s03_dirty_vlcc_suezmax_aframax_firmer",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__root",
+      "title": "‘ Dirty ' VLCC - Suezmax - Aframax- Firmer",
+      "section_path": [
+        "‘ Dirty ' VLCC - Suezmax - Aframax- Firmer"
+      ],
+      "section_path_text": "‘ Dirty ' VLCC - Suezmax - Aframax- Firmer",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil freight rate sentiment improved across all size classes, with the Aframax-Med route showing a notable increase. VLCC AG-FE freight rates were at WS96, up nearly 40 points from earlier in the year.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "points",
+        "ago"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__s04_product_lr2_lr1_softening",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__root",
+      "title": "‘ Product ' LR2 - LR1 | Softening",
+      "section_path": [
+        "‘ Product ' LR2 - LR1 | Softening"
+      ],
+      "section_path_text": "‘ Product ' LR2 - LR1 | Softening",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "LR2 AG freight rates continued to lose momentum, falling to WS 175, down nearly 10 points from a week ago. LR1 MEG -to-Japan freight rates continued a similar weakening as LR2 freight rates, falling 10 points to WS180, with signs of a possible further decline by the end of March.",
+      "keywords": [
+        "panamax",
+        "meg",
+        "japan",
+        "continued",
+        "end",
+        "falling",
+        "lr2",
+        "march."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 107,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__s05_clean_mr2_mr1_firmer",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' MR2 - MR1 - Firmer",
+      "section_path": [
+        "‘ Clean ' MR2 - MR1 - Firmer"
+      ],
+      "section_path_text": "‘ Clean ' MR2 - MR1 - Firmer",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "MR1 rates Algeria-to-Med are now at WS405, almost 20% higher than a week ago. MR1 rates Baltic-to-Cont are now at WS275, 40 points higher than a week earlier.",
+      "keywords": [
+        "are",
+        "now",
+        "higher",
+        "mr1",
+        "ago.",
+        "algeria-to-med",
+        "almost",
+        "baltic-to-cont"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__s06_section_2_supply_vessels_dirty_supply_trend_lines_for_key_load_areas_vlcc_aframax_suezmax_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Suezmax Decreasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Suezmax Decreasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Suezmax Decreasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The supply of crude oil tankers has decreased significantly for the VLCC and Suezmax, and there is also a downward trend for Aframax. VLCC Ras Tanura : The number of vessels is now around 50, 26 less than the annual average.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "crude_oil",
+        "now",
+        "number",
+        "annual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__s08_clean_supply_trend_lines_for_key_load_areas_mr1_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "section_path": [
+        "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Clean LR2 AG Jubail: The number of vessels is currently 7, with a decreasing trend in the last days of March and below the annual average of 13. Clean MR1 Algeria Skikda: The number of vessels has fallen to a record low of 20 since the previous week and is 7 below the annual average.",
+      "keywords": [
+        "annual",
+        "below",
+        "clean",
+        "number",
+        "vessels",
+        "algeria",
+        "average",
+        "average."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 69,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__s11_clean_panamax_increasing_mr2_mr1_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' | Panamax - Increasing | MR2 - MR1 - Decreasing",
+      "section_path": [
+        "‘ Clean ' | Panamax - Increasing | MR2 - MR1 - Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' | Panamax - Increasing | MR2 - MR1 - Decreasing",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Dirty demand ton-days: Suezmax vessel demand is now posting its strongest growth since the end of week 4, while Aframax vessel sentiment is improving and VLCC vessels are seeing a downward correction. Clean demand ton-days / Panamax demand: The upward trend of the previous week has now been confirmed in the last week of March and reached the highest level after the low of week 10.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "demand",
+        "clean",
+        "downward",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

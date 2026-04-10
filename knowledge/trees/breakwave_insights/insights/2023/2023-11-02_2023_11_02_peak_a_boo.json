@@ -1,0 +1,86 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-02_2023_11_02_peak_a_boo__root",
+  "doc_id": "breakwave_insights_insights_2023-11-02_2023_11_02_peak_a_boo",
+  "parent_id": null,
+  "title": "Peak A Boo",
+  "section_path": [
+    "Peak A Boo"
+  ],
+  "section_path_text": "Peak A Boo",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFollowing on from last month's release of the IEA Net Zero (NZE) 2050 report, the publishing of its World Energy Outlook (WEO) 2023 provides a glimpse into when oil demand may peak based on the Stated Policy Scenario (STEPS) framework, which is based on the current trajectory of global decarbonisation polices and is less pessimistic in its demand outlook. However, it is important to note that it is just one of three alternative forecast scenarios and contrasts with the conclusions of the NZE scenario which assumes net zero by 2050 and the Announced Pledges Scenario (APS) which explores the full and timely implementation of national energy and climate goals. However, we have already started to see some countries back away from their climate commitment, which adds further ambiguity to long term forecasts.",
+  "keywords": [
+    "china",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "oil",
+    "are",
+    "mbd",
+    "energy",
+    "peak",
+    "terms"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 729,
+  "source_path": "reports/breakwave/2023/2023-11-02_peak-a-boo.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/2/peak-a-boo",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-02_2023_11_02_peak_a_boo__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-02_2023_11_02_peak_a_boo",
+      "parent_id": "breakwave_insights_insights_2023-11-02_2023_11_02_peak_a_boo__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Following on from last month's release of the IEA Net Zero (NZE) 2050 report, the publishing of its World Energy Outlook (WEO) 2023 provides a glimpse into when oil demand may peak based on the Stated Policy Scenario (STEPS) framework, which is based on the current trajectory of global decarbonisation polices and is less pessimistic in its demand outlook. However, it is important to note that it is just one of three alternative forecast scenarios and contrasts with the conclusions of the NZE scenario which assumes net zero by 2050 and the Announced Pledges Scenario (APS) which explores the full and timely implementation of national energy and climate goals.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "are",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 710,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-02_2023_11_02_peak_a_boo__s02_iea_oil_demand_scenarios_mbd",
+      "doc_id": "breakwave_insights_insights_2023-11-02_2023_11_02_peak_a_boo",
+      "parent_id": "breakwave_insights_insights_2023-11-02_2023_11_02_peak_a_boo__root",
+      "title": "IEA Oil Demand Scenarios (mbd)",
+      "section_path": [
+        "IEA Oil Demand Scenarios (mbd)"
+      ],
+      "section_path_text": "IEA Oil Demand Scenarios (mbd)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "data",
+        "gibson",
+        "shipbrokers",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

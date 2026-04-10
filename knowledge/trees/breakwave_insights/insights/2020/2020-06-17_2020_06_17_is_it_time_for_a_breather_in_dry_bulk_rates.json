@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-17_2020_06_17_is_it_time_for_a_breather_in_dry_bulk_rates__root",
+  "doc_id": "breakwave_insights_insights_2020-06-17_2020_06_17_is_it_time_for_a_breather_in_dry_bulk_rates",
+  "parent_id": null,
+  "title": "Is It Time For A Breather In Dry Bulk Rates",
+  "section_path": [
+    "Is It Time For A Breather In Dry Bulk Rates"
+  ],
+  "section_path_text": "Is It Time For A Breather In Dry Bulk Rates",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAn impressive rally in dry bulk freight rates has once again revealed the extremely volatile nature of shipping, where short term imbalances between supply and demand can cause sharp moves in freight rates, in any macro environment. This time around, Capesize rates have skyrocketed in less than a month from ~3,000/day to more than 20,000/day in a relentless rally that has caught even seasoned traders and physical users of freight by surprise. However, the significant increase in rates is naturally bringing up the question of where does the upward move end.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "iron_ore",
+    "last",
+    "rally",
+    "ton",
+    "year",
+    "recent",
+    "although",
+    "are",
+    "even"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 862,
+  "source_path": "reports/breakwave/2020/2020-06-17_is-it-time-for-a-breather-in-dry-bulk-rates.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/17/is-it-time-for-a-breather-in-dry-bulk-rates",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-17_2020_06_17_is_it_time_for_a_breather_in_dry_bulk_rates__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-17_2020_06_17_is_it_time_for_a_breather_in_dry_bulk_rates",
+      "parent_id": "breakwave_insights_insights_2020-06-17_2020_06_17_is_it_time_for_a_breather_in_dry_bulk_rates__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "An impressive rally in dry bulk freight rates has once again revealed the extremely volatile nature of shipping, where short term imbalances between supply and demand can cause sharp moves in freight rates, in any macro environment. This time around, Capesize rates have skyrocketed in less than a month from ~3,000/day to more than 20,000/day in a relentless rally that has caught even seasoned traders and physical users of freight by surprise.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "last",
+        "rally",
+        "ton",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 860,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

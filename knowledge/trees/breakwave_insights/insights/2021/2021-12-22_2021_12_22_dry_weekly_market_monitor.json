@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__root",
+  "doc_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor",
+  "parent_id": null,
+  "title": "Dry Weekly Market Monitor",
+  "section_path": [
+    "Dry Weekly Market Monitor"
+  ],
+  "section_path_text": "Dry Weekly Market Monitor",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWeek 51 comes to confirm that the sentiment of December is supportive for an upward push of rates in the smaller ship sizes. Few days before Christmas, Capesize rates fell to the lowest level of one month, however, the demand trend line keeps an optimistic trend for an upcoming rebound. In the Panamax segment, the market experiences the same downward direction and the spike comes from the smallest ship size segment, the handysize.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "steel",
+    "trend",
+    "ships",
+    "levels",
+    "number",
+    "segment"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 951,
+  "source_path": "reports/breakwave/2021/2021-12-22_dry-weekly-market-monitor.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/12/22/dry-weekly-market-monitor",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Week 51 comes to confirm that the sentiment of December is supportive for an upward push of rates in the smaller ship sizes. Few days before Christmas, Capesize rates fell to the lowest level of one month, however, the demand trend line keeps an optimistic trend for an upcoming rebound.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "trend",
+        "last",
+        "segment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 306,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nFollowing the highs recorded at Week 49 for Capesize ships, the momentum was weakened for two consecutive weeks with Brazil to NChina rates now heading below $23/ton, however, the market remains healthy compared to December 2020. In the Panamax segment, the decreasing trend is even more pronounced with Cont-Far East rates at less than $45/t, while it seems a challenge for the market to fetch again levels in the range of $50/t.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "levels",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__s03_section_2_supply_ballasters_view_number_of_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__root",
+      "title": "SECTION 2 - SUPPLY - Ballasters View Number of Vessels - Decreasing",
+      "section_path": [
+        "SECTION 2 - SUPPLY - Ballasters View Number of Vessels - Decreasing"
+      ],
+      "section_path_text": "SECTION 2 - SUPPLY - Ballasters View Number of Vessels - Decreasing",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe supply trend line has kept the decreasing trend from Week 49 up to now as we mentioned in our previous Weekly Monitor. However, this week comes with a significant spike in the handysize NOPAC area.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "ships",
+        "last",
+        "number",
+        "trend",
+        "ballast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__s05_increasing_for_supramax",
+      "doc_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__root",
+      "title": "Increasing for Supramax",
+      "section_path": [
+        "Increasing for Supramax"
+      ],
+      "section_path_text": "Increasing for Supramax",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Evolution of Demand -% Growth\nThe opening of the third week of December comes to confirm that the increasing trend in ton days demand growth remains in the supramax segment. In the Capesize segment, the momentum has now started to decrease with challenges from the Chinese economy and levels of steel production during December.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "steel",
+        "growth",
+        "chinese",
+        "days",
+        "december"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 101,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__s06_section_4_chinese_port_congestions_number_of_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2021-12-22_2021_12_22_dry_weekly_market_monitor__root",
+      "title": "SECTION 4 - CHINESE PORT CONGESTIONS - Number of Vessels - Decreasing",
+      "section_path": [
+        "SECTION 4 - CHINESE PORT CONGESTIONS - Number of Vessels - Decreasing"
+      ],
+      "section_path_text": "SECTION 4 - CHINESE PORT CONGESTIONS - Number of Vessels - Decreasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Dry bulk ships congested around Chinese ports\nWeek 51 keeps the decreasing trend below the average trend line of previous weeks, however, we see a sense of upward trend stemming from the smaller ship sizes. In the Capesize segment, the number of ships congested around Chinese ports has decreased by 20% compared to the levels of ten weeks ago, whereas in the handysize segment, we notice similar levels of congestion.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "china",
+        "trend",
+        "around",
+        "chinese",
+        "congested",
+        "levels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

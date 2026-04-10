@@ -1,0 +1,258 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: VLCC Market Prices MEG/ China\nContinued downward pressure with a significant decline in VLCC demand growth rates\nhttps://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2pct2x/345834117?h=tJXVDVv4lo_UW2gCwqKkKSKcNPft6FTT0PK9j0ig344\nhttps://go.signalocean.com/e/983831/timeseries-tanker-downloadable/2pct31/345834117?h=tJXVDVv4lo_UW2gCwqKkKSKcNPft6FTT0PK9j0ig344\nThe second week of September maintains its grip on the crude oil freight market's sentiments, as VLCC rates have yet to display the anticipated rebound. The struggle persists in the VLCC MEG-China rates, leaving industry observers closely monitoring the demand dynamics of the Chinese economy as we approach the end of September. Illustrated in the accompanying graph, the growth in VLCC demand tonne days has eroded since July, approaching levels last seen in September 2021.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "days",
+    "demand",
+    "below"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1250,
+  "source_path": "reports/breakwave/2023/2023-09-15_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/15/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__s01_chart_of_the_week_vlcc_market_prices_meg_china",
+      "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__root",
+      "title": "Chart of the Week: VLCC Market Prices MEG/ China",
+      "section_path": [
+        "Chart of the Week: VLCC Market Prices MEG/ China"
+      ],
+      "section_path_text": "Chart of the Week: VLCC Market Prices MEG/ China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Continued downward pressure with a significant decline in VLCC demand growth rates\nhttps://go.signalocean.com/e/983831/-dynamic-market-prices-tankers/2pct2x/345834117?h=tJXVDVv4lo_UW2gCwqKkKSKcNPft6FTT0PK9j0ig344\nhttps://go.signalocean.com/e/983831/timeseries-tanker-downloadable/2pct31/345834117?h=tJXVDVv4lo_UW2gCwqKkKSKcNPft6FTT0PK9j0ig344\nThe second week of September maintains its grip on the crude oil freight market's sentiments, as VLCC rates have yet to display the anticipated rebound. The struggle persists in the VLCC MEG-China rates, leaving industry observers closely monitoring the demand dynamics of the Chinese economy as we approach the end of September.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "crude",
+        "demand",
+        "oil",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 438,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__s02_section_1_freight_market_rates_ws",
+      "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT Market Rates (WS)",
+      "section_path": [
+        "SECTION 1/ FREIGHT Market Rates (WS)"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT Market Rates (WS)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘Dirty' WS VLCC - Suezmax - Aframax Weaker\nThe crude oil freight market sentiment remains uncertain with no clear shift towards stability. It's unclear how the upcoming winter season will impact Asian energy demand dynamics.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__s03_product_ws_lr2_firmer",
+      "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__root",
+      "title": "‘Product' WS LR2 Firmer",
+      "section_path": [
+        "‘Product' WS LR2 Firmer"
+      ],
+      "section_path_text": "‘Product' WS LR2 Firmer",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "LR2 AG freight rates peaked at 147.5 WS, up 7.5 points from the end of the previous week after holding steady for three weeks. Panamax Carib-to-USG rates fell to 133 WS, down 66% from a year ago, with the downward trend continuing since the end of Week 27.",
+      "keywords": [
+        "panamax",
+        "end",
+        "after",
+        "ago",
+        "carib-to-usg",
+        "continuing",
+        "down",
+        "downward"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 69,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__s04_clean_mr1_steady_mr2_weaker",
+      "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__root",
+      "title": "‘Clean' MR1 Steady - MR2 Weaker",
+      "section_path": [
+        "‘Clean' MR1 Steady - MR2 Weaker"
+      ],
+      "section_path_text": "‘Clean' MR1 Steady - MR2 Weaker",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "MR1 rates for the Baltic continent remained at the previous week's level of about WS 183, while the upward trend seems to be flattening. MR2 rates for shipments from the continent to the U.S.",
+      "keywords": [
+        "europe",
+        "continent",
+        "are",
+        "august",
+        "below",
+        "but",
+        "firmed",
+        "flattening."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 61,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__s06_dirty_vessels_mixed",
+      "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__root",
+      "title": "Dirty (#vessels) - Mixed",
+      "section_path": [
+        "Dirty (#vessels) - Mixed"
+      ],
+      "section_path_text": "Dirty (#vessels) - Mixed",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Crude oil tanker supply continued to develop unevenly in the second week of September. On the Suezmax West Africa route, the increase appears to be continuing, while there are signs of a decline in the number of Aframax tankers.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "crude_oil",
+        "ships",
+        "number",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 202,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__s08_mr1_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__root",
+      "title": "MR1 (#vessels) - Decreasing",
+      "section_path": [
+        "MR1 (#vessels) - Decreasing"
+      ],
+      "section_path_text": "MR1 (#vessels) - Decreasing",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Clean LR2 AG Jubail: The number of ships has been consistently decreasing for the past five weeks, and currently stands at 4, which is 12 below the yearly average. Clean MR1 Algeria Skikda: The current count is 19 ships, surprisingly below the week 35 peak (~40), while the trend continues downward over the next few days of September.",
+      "keywords": [
+        "below",
+        "clean",
+        "ships",
+        "algeria",
+        "average.",
+        "consistently",
+        "continues",
+        "count"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__s10_dirty_tonne_days_mixed",
+      "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__root",
+      "title": "‘Dirty' Tonne Days Mixed",
+      "section_path": [
+        "‘Dirty' Tonne Days Mixed"
+      ],
+      "section_path_text": "‘Dirty' Tonne Days Mixed",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Dirty tonne days: In the second week of September, the percentage increase in demand (tonnage days) for VLCC and Suezmax tankers declined steadily, while Aframax tonne days gradually showed an upward trend.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "days",
+        "tonne",
+        "declined",
+        "demand",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__s11_clean_tonne_days_panamax_mr_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-09-15_2023_09_15_signal_tanker_weekly_report__root",
+      "title": "‘Clean' Tonne Days Panamax / MR Decreasing",
+      "section_path": [
+        "‘Clean' Tonne Days Panamax / MR Decreasing"
+      ],
+      "section_path_text": "‘Clean' Tonne Days Panamax / MR Decreasing",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Panamax tonne days: Downward pressure is maintained for the second week of September, but growth rates are still above the record low of week 31. Clean MR tonne days: There was downward pressure on both MR1 and MR2 size, although the growth rate of demand for MR1 showed significant swings in week 34.",
+      "keywords": [
+        "panamax",
+        "days",
+        "downward",
+        "growth",
+        "mr1",
+        "pressure",
+        "tonne",
+        "above"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

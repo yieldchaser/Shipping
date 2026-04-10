@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe BDI was propelled eight per cent higher by the Panamaxes and Capesizes last week amid a healthy demand situation. For the commodities, the past five trading sessions were mixed, with metals and iron ore gaining ground following a weaker dollar and hopes of more support measures for the Chinese economy, while coal and natural gas faced headwinds. Macro/Geopolitics\nFurther evidence that the world's second-largest economy continues to face challenges emerged today, with the Chinese GDP data for the second quarter failing to meet expectations.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal",
+    "grain"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1408,
+  "source_path": "reports/breakwave/2023/2023-07-18_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/18/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe BDI was propelled eight per cent higher by the Panamaxes and Capesizes last week amid a healthy demand situation. For the commodities, the past five trading sessions were mixed, with metals and iron ore gaining ground following a weaker dollar and hopes of more support measures for the Chinese economy, while coal and natural gas faced headwinds.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "iron_ore",
+        "coal",
+        "gas",
+        "amid",
+        "bdi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Further evidence that the world's second-largest economy continues to face challenges emerged today, with the Chinese GDP data for the second quarter failing to meet expectations. The Chinese economy grew by 6.3 per cent during the past three months compared to the same period last year.",
+      "keywords": [
+        "china",
+        "data",
+        "cent",
+        "economy",
+        "growth",
+        "per",
+        "chinese",
+        "during"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil went against the general flow for energy commodities during the past week as supply concerns supported prices. Despite a 1.8 per cent decline during the week's final session, the Brent September futures advanced for a third consecutive week and settled at 79.87 dollars per barrel on Friday amid a weekly gain of 1.8 per cent.",
+      "keywords": [
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 516,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Despite weakness on Friday, with the exception of the Handysizes, all of the Baltic Exchange's dry bulk indices recorded robust weekly performances. The headline Baltic Dry Index advanced by 8.0 per cent over the week, with the Panamaxes and Capesizes providing most of the support.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 324,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-18_2023_07_18_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The past week saw grain prices recovering from recent lows as concerns over the future of the Black Sea Grain Initiative kept rising. The fears proved to be well founded, as Russia announced earlier today that it is terminating its participation in the agreement.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "grain",
+        "cargo",
+        "past",
+        "ports",
+        "volumes",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 286,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

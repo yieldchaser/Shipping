@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nLatest Trends\nPorts need to accelerate action in the race to a zero-emission ocean shipping future, environmental organizations Pacific Environment and Opportunity Green said in a new playbook released in connection with Climate Week NYC 2022. Read More\n\nGlobal wheat exports would mark a year-on-year increase\nThe United States Department of Agriculture (USDA) has released their latest global grain export forecast for the upcoming 2022/23 season and has reduced its expectations. Read More\n\nSnapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions\nIron ore prices are rising toward the end of September, and low steel inventories indicate a possible increase in demand for blast furnaces.",
+  "keywords": [
+    "capesize",
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "iron_ore",
+    "grain",
+    "steel",
+    "read",
+    "global",
+    "markets",
+    "rising"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 310,
+  "source_path": "reports/breakwave/2022/2022-10-02_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/2/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__s02_latest_trends",
+      "doc_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__root",
+      "title": "Latest Trends",
+      "section_path": [
+        "Latest Trends"
+      ],
+      "section_path_text": "Latest Trends",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ports need to accelerate action in the race to a zero-emission ocean shipping future, environmental organizations Pacific Environment and Opportunity Green said in a new playbook released in connection with Climate Week NYC 2022.",
+      "keywords": [
+        "pacific",
+        "accelerate",
+        "action",
+        "climate",
+        "connection",
+        "environment",
+        "environmental",
+        "future"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__s03_global_wheat_exports_would_mark_a_year_on_year_increase",
+      "doc_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__root",
+      "title": "Global wheat exports would mark a year-on-year increase",
+      "section_path": [
+        "Global wheat exports would mark a year-on-year increase"
+      ],
+      "section_path_text": "Global wheat exports would mark a year-on-year increase",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The United States Department of Agriculture (USDA) has released their latest global grain export forecast for the upcoming 2022/23 season and has reduced its expectations.",
+      "keywords": [
+        "grain",
+        "agriculture",
+        "department",
+        "expectations.",
+        "export",
+        "forecast",
+        "global",
+        "its"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__s04_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Iron ore prices are rising toward the end of September, and low steel inventories indicate a possible increase in demand for blast furnaces.",
+      "keywords": [
+        "iron_ore",
+        "steel",
+        "are",
+        "blast",
+        "demand",
+        "end",
+        "furnaces.",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__s05_drivers_of_congestion",
+      "doc_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__root",
+      "title": "Drivers of congestion",
+      "section_path": [
+        "Drivers of congestion"
+      ],
+      "section_path_text": "Drivers of congestion",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry Bulk and Containership markets have exhibited sharp declines in earnings over the summer.",
+      "keywords": [
+        "container",
+        "containership",
+        "declines",
+        "earnings",
+        "exhibited",
+        "markets",
+        "read",
+        "sharp"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 18,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__s06_that_optimism_was_also_present_in_the_iron_ore_market",
+      "doc_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__root",
+      "title": "That optimism was also present in the iron ore market",
+      "section_path": [
+        "That optimism was also present in the iron ore market"
+      ],
+      "section_path_text": "That optimism was also present in the iron ore market",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "An escalation in Europe's energy crisis saw commodity markets gain as the focus returned to supply side issues.",
+      "keywords": [
+        "europe",
+        "commodity",
+        "crisis",
+        "energy",
+        "escalation",
+        "focus",
+        "gain",
+        "issues."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__s07_capesize_freight_rates_have_staged_a_remarkable_recovery_since_the_beginning_of_september",
+      "doc_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__root",
+      "title": "Capesize freight rates have staged a remarkable recovery since the beginning of September",
+      "section_path": [
+        "Capesize freight rates have staged a remarkable recovery since the beginning of September"
+      ],
+      "section_path_text": "Capesize freight rates have staged a remarkable recovery since the beginning of September",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "The rising stakes in the war in Ukraine, following the Russian announcement of a partial mobilisation, and interest hikes by several central banks dominated last week's headlines.",
+      "keywords": [
+        "announcement",
+        "banks",
+        "central",
+        "dominated",
+        "following",
+        "headlines.",
+        "hikes",
+        "interest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__s08_a_weaker_usd_helped_boost_investor_appetite_in_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-10-02_2022_10_02_weekly_insights_review__root",
+      "title": "A weaker USD helped boost investor appetite in commodity markets",
+      "section_path": [
+        "A weaker USD helped boost investor appetite in commodity markets"
+      ],
+      "section_path_text": "A weaker USD helped boost investor appetite in commodity markets",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Rising geopolitical risks were also front of mind following damage to energy infrastructure earlier this week. In China production finally grew\nGlobal crude steel production totaled 150.6 million tons last month.",
+      "keywords": [
+        "china",
+        "steel",
+        "production",
+        "read",
+        "crude",
+        "damage",
+        "earlier",
+        "energy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 44,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

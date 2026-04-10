@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-06_2023_04_06_06m5d20vesu5oj8syk3lxfg9not6vv__root",
+  "doc_id": "breakwave_insights_insights_2023-04-06_2023_04_06_06m5d20vesu5oj8syk3lxfg9not6vv",
+  "parent_id": null,
+  "title": "06M5D20Vesu5Oj8Syk3Lxfg9Not6Vv",
+  "section_path": [
+    "06M5D20Vesu5Oj8Syk3Lxfg9Not6Vv"
+  ],
+  "section_path_text": "06M5D20Vesu5Oj8Syk3Lxfg9Not6Vv",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Maria Bertzeletou\n‍\nThe European Union embargo on Russian petroleum products took effect on 5 February and is based on the $60 oil price cap introduced on 5 December by the major G7 (Group of Seven) countries. In the first quarter of 2023, China, India and Turkey, in particular, increased their purchases to partially offset the decline in Russian crude oil exports to Europe. Interestingly, Russian oil continues to enter Europe through the key Druzhba pipeline and via tankers across the Black Sea to Bulgaria, which are exempt from the EU embargo.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2116,
+  "source_path": "reports/breakwave/2023/2023-04-06_06m5d20vesu5oj8syk3lxfg9not6vv.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/6/06m5d20vesu5oj8syk3lxfg9not6vv",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-06_2023_04_06_06m5d20vesu5oj8syk3lxfg9not6vv__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-04-06_2023_04_06_06m5d20vesu5oj8syk3lxfg9not6vv",
+      "parent_id": "breakwave_insights_insights_2023-04-06_2023_04_06_06m5d20vesu5oj8syk3lxfg9not6vv__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Maria Bertzeletou\n‍\nThe European Union embargo on Russian petroleum products took effect on 5 February and is based on the $60 oil price cap introduced on 5 December by the major G7 (Group of Seven) countries. In the first quarter of 2023, China, India and Turkey, in particular, increased their purchases to partially offset the decline in Russian crude oil exports to Europe.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "europe",
+        "india",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2114,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

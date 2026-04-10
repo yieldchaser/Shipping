@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-27_2023_04_27_mixed_performances_in_chinese_renewables_last_month__root",
+  "doc_id": "breakwave_insights_insights_2023-04-27_2023_04_27_mixed_performances_in_chinese_renewables_last_month",
+  "parent_id": null,
+  "title": "Mixed Performances In Chinese Renewables Last Month",
+  "section_path": [
+    "Mixed Performances In Chinese Renewables Last Month"
+  ],
+  "section_path_text": "Mixed Performances In Chinese Renewables Last Month",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore's most recent Weekly Dry Bulk Report, China's hydropower production totaled only 68.4 billion kilowatt hours last month. This is the same amount that was produced in February and is down year-on-year by 12.1 billion kilowatt hours (-15%). This weakness has contributed to significant strength in China's thermal coal burn.",
+  "keywords": [
+    "china",
+    "coal",
+    "kilowatt",
+    "billion",
+    "hours",
+    "february",
+    "production",
+    "totaled",
+    "year-on-year",
+    "increase",
+    "marked",
+    "power"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 261,
+  "source_path": "reports/breakwave/2023/2023-04-27_mixed-performances-in-chinese-renewables-last-month.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/27/mixed-performances-in-chinese-renewables-last-month",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-27_2023_04_27_mixed_performances_in_chinese_renewables_last_month__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-04-27_2023_04_27_mixed_performances_in_chinese_renewables_last_month",
+      "parent_id": "breakwave_insights_insights_2023-04-27_2023_04_27_mixed_performances_in_chinese_renewables_last_month__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore's most recent Weekly Dry Bulk Report, China's hydropower production totaled only 68.4 billion kilowatt hours last month. This is the same amount that was produced in February and is down year-on-year by 12.1 billion kilowatt hours (-15%).",
+      "keywords": [
+        "china",
+        "coal",
+        "kilowatt",
+        "billion",
+        "hours",
+        "february",
+        "production",
+        "totaled"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

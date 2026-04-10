@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-29_2023_05_29_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-05-29_2023_05_29_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"While global stock markets continue to anticipate a \"soft landing\" and remain at their highest levels, the price of copper is following closely Baltic indices on their downward trend\"\nBy Michalis Voutsinas\nWith Baltic Capesize indices in a freefalling mode, the gauge of activity in the dry bulk sector didn't have any other choice but to report losses during the twenty-first week of the year. After steaming for eleven trading days north of the 3000-point-mark and touching five-month highs, Baltic Dry Index trended downwards to 2681 points on this Friday's closing. Whilst Baltic indices were losing their recent highs, market uncertainty was on a rise.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "china",
+    "europe",
+    "iron_ore",
+    "steel",
+    "indices",
+    "was",
+    "year",
+    "after",
+    "last",
+    "price"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 950,
+  "source_path": "reports/breakwave/2023/2023-05-29_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/29/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-29_2023_05_29_doric_weekly_market_insight__s01_while_global_stock_markets_continue_to_anticipate_a_soft_landing_and_remain_at_their_highest_levels_the_price_of_copper_is_following_closely_baltic_indices_on_their_downward_trend",
+      "doc_id": "breakwave_insights_insights_2023-05-29_2023_05_29_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-05-29_2023_05_29_doric_weekly_market_insight__root",
+      "title": "\"While global stock markets continue to anticipate a \"soft landing\" and remain at their highest levels, the price of copper is following closely Baltic indices on their downward trend\"",
+      "section_path": [
+        "\"While global stock markets continue to anticipate a \"soft landing\" and remain at their highest levels, the price of copper is following closely Baltic indices on their downward trend\""
+      ],
+      "section_path_text": "\"While global stock markets continue to anticipate a \"soft landing\" and remain at their highest levels, the price of copper is following closely Baltic indices on their downward trend\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nWith Baltic Capesize indices in a freefalling mode, the gauge of activity in the dry bulk sector didn't have any other choice but to report losses during the twenty-first week of the year. After steaming for eleven trading days north of the 3000-point-mark and touching five-month highs, Baltic Dry Index trended downwards to 2681 points on this Friday's closing.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "europe",
+        "iron_ore",
+        "steel",
+        "indices",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 917,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

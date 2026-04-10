@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-08-11_2020_08_11_covid_19_related_delays_boost_rates_in_asia__root",
+  "doc_id": "breakwave_insights_insights_2020-08-11_2020_08_11_covid_19_related_delays_boost_rates_in_asia",
+  "parent_id": null,
+  "title": "Covid 19 Related Delays Boost Rates In Asia",
+  "section_path": [
+    "Covid 19 Related Delays Boost Rates In Asia"
+  ],
+  "section_path_text": "Covid 19 Related Delays Boost Rates In Asia",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWith more than six months into the pandemic, the impact on shipping is only now begging to become visible in pricing, as COVID-19 related delays continue to add to port congestion and tie up more and more ships in the process. With more than 80% of Asian ports closed to crew changes , crew change regulations are becoming stricter and the length of round-trip voyages have been extended by a significant amount, especially in Asia where one-way laden voyages are below the 14-day quarantine threshold for most countries. As a result, charterers and miners are increasingly looking at ships outside their usual pool of vessels, with today's rumored fixture priced well above index for a 20-year old vessel in Australia as an example.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "iron_ore",
+    "are",
+    "crew",
+    "delays",
+    "change",
+    "last",
+    "miners",
+    "months"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 473,
+  "source_path": "reports/breakwave/2020/2020-08-11_covid-19-related-delays-boost-rates-in-asia.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/8/11/covid-19-related-delays-boost-rates-in-asia",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-08-11_2020_08_11_covid_19_related_delays_boost_rates_in_asia__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-08-11_2020_08_11_covid_19_related_delays_boost_rates_in_asia",
+      "parent_id": "breakwave_insights_insights_2020-08-11_2020_08_11_covid_19_related_delays_boost_rates_in_asia__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With more than six months into the pandemic, the impact on shipping is only now begging to become visible in pricing, as COVID-19 related delays continue to add to port congestion and tie up more and more ships in the process. With more than 80% of Asian ports closed to crew changes , crew change regulations are becoming stricter and the length of round-trip voyages have been extended by a significant amount, especially in Asia where one-way laden voyages are below the 14-day quarantine threshold for most countries.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "iron_ore",
+        "are",
+        "crew",
+        "delays"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 471,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

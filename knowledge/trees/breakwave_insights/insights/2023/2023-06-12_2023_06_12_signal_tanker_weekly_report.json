@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Seagoing Laden Speed\nSeagoing Laden Speed in the Suezmax and Aframax increased to the highest levels in\nData Source: The Signal Ocean Platform- Seagoing Laden Speed https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2p1zfx/325063059?h=_5duIxsKNwwK3MyEfMxUtikrRYIFdcdR8OhRb9bfaUE\nJune has witnessed a persistently weaker sentiment in crude freight rates. Nevertheless, a noteworthy development has been the notable increase in seagoing-laden speed. Despite the ongoing challenges in supply and demand dynamics, the first half of the year has witnessed an upward trend in the seagoing-laden speed of Suezmax and Aframax tankers.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "japan",
+    "crude_oil",
+    "observed",
+    "trend"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1436,
+  "source_path": "reports/breakwave/2023/2023-06-12_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/12/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__s01_chart_of_the_week_seagoing_laden_speed",
+      "doc_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__root",
+      "title": "Chart of the Week: Seagoing Laden Speed",
+      "section_path": [
+        "Chart of the Week: Seagoing Laden Speed"
+      ],
+      "section_path_text": "Chart of the Week: Seagoing Laden Speed",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Seagoing Laden Speed in the Suezmax and Aframax increased to the highest levels in\nData Source: The Signal Ocean Platform- Seagoing Laden Speed https://go.signalocean.com/e/983831/tanker-reports-vesselSpeeds/2p1zfx/325063059?h=_5duIxsKNwwK3MyEfMxUtikrRYIFdcdR8OhRb9bfaUE\nJune has witnessed a persistently weaker sentiment in crude freight rates. Nevertheless, a noteworthy development has been the notable increase in seagoing-laden speed.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "crude_oil",
+        "speed",
+        "seagoing-laden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 365,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__s03_dirty_vlcc_suezmax_aframax_weaker",
+      "doc_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__root",
+      "title": "‘Dirty' VLCC - Suezmax - Aframax Weaker",
+      "section_path": [
+        "‘Dirty' VLCC - Suezmax - Aframax Weaker"
+      ],
+      "section_path_text": "‘Dirty' VLCC - Suezmax - Aframax Weaker",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Early June continues to witness a prevailing weaker sentiment in the crude oil freight market, particularly in the Suezmax and Aframax segments, which are experiencing a notable downward trend. VLCC AG-FE freight rates are now around WS46, a 60% drop from the peak observed in week 12.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "are",
+        "around"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__s04_product_lr_weaker",
+      "doc_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__root",
+      "title": "‘Product' LR Weaker",
+      "section_path": [
+        "‘Product' LR Weaker"
+      ],
+      "section_path_text": "‘Product' LR Weaker",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "During the first week of June, LR2 AG and LR1 MEG Japan freight rates experienced a notable decline, indicating a weaker outlook. Currently, both rates are approaching approximately 135 Worldscale (WS), which reflects a decrease of nearly 12 points compared to the rates observed just a week ago.",
+      "keywords": [
+        "panamax",
+        "meg",
+        "japan",
+        "approximately",
+        "compared",
+        "observed",
+        "reflects",
+        "stability"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__s05_clean_mr1_weaker_mr2_softening",
+      "doc_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__root",
+      "title": "‘Clean' MR1 Weaker | MR2 Softening",
+      "section_path": [
+        "‘Clean' MR1 Weaker | MR2 Softening"
+      ],
+      "section_path_text": "‘Clean' MR1 Weaker | MR2 Softening",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The MR1 rates for shipments from Algeria to the Mediterranean have remained unchanged, settling at the weak levels observed in the previous week, approximately around WS135. Conversely, there has been a slight improvement in the MR1 rates for the Baltic Continent, which have now experienced a mild increase to levels around WS143.",
+      "keywords": [
+        "europe",
+        "around",
+        "observed",
+        "approximately",
+        "are",
+        "compared",
+        "continent",
+        "experienced"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__s06_section_2_supply_vessels_decreasing_dirty_supply_trend_lines_for_key_load_are_as",
+      "doc_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - (# vessels) Decreasing 'Dirty' Supply Trend Lines for Key Load Are as",
+      "section_path": [
+        "SECTION 2/ SUPPLY - (# vessels) Decreasing 'Dirty' Supply Trend Lines for Key Load Are as"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - (# vessels) Decreasing 'Dirty' Supply Trend Lines for Key Load Are as",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The first week of June ends with a downward revision in the supply of VLCC and Suezmax crude oil tankers, while Aframax Primorsk continue to show signs of increasing. VLCC Ras Tanura: The current vessel count stands at 42, a deviation of 30 vessels from the annual average and a significant drop of almost 50% from the peak in week 18.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "crude_oil",
+        "count",
+        "vessels",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__s08_clean_supply_trend_lines_for_key_load_areas_mr1_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "section_path": [
+        "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Clean LR2 AG Jubail: The significant downward trend observed in May, which saw rates fall below the annual average, has persisted into June. Currently, the number of ships stands at 7, indicating a relatively low level of activity.",
+      "keywords": [
+        "ships",
+        "annual",
+        "below",
+        "clean",
+        "currently",
+        "level",
+        "number",
+        "observed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__s11_clean_panamax_mr_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-12_2023_06_12_signal_tanker_weekly_report__root",
+      "title": "‘Clean' | Panamax - MR Decreasing",
+      "section_path": [
+        "‘Clean' | Panamax - MR Decreasing"
+      ],
+      "section_path_text": "‘Clean' | Panamax - MR Decreasing",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Dirty demand ton-days: Amid indications of a stronger demand outlook in the Suezmax segment, there is a growing sense of optimism in the VLCC market. In recent days, the VLCC segment has experienced higher growth rates compared to levels observed three weeks ago.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "demand",
+        "clean",
+        "correction",
+        "growth",
+        "observed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

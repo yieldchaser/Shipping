@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Naphtha Oil Flows from Russia to China\n\n\nChinese buy more Russian naphtha\nhttps://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2nwl6x/316443720?h=h4nlXFCYO58g2BbEaTm_qN58Ji0F8JTLA91iWL-nbDM\nCrude oil freight rates saw a slowdown in momentum at the end of April, while the clean market continues to drop to lower levels. On the demand side, despite the recent slowdown, the trend in VLCC (ton-days) is promising for freight rate strength. More interesting for the clean segment is the role of Asian countries in Russian naphtha imports.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1113,
+  "source_path": "reports/breakwave/2023/2023-04-28_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/28/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__s02_chinese_buy_more_russian_naphtha",
+      "doc_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__root",
+      "title": "Chinese buy more Russian naphtha",
+      "section_path": [
+        "Chinese buy more Russian naphtha"
+      ],
+      "section_path_text": "Chinese buy more Russian naphtha",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "https://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2nwl6x/316443720?h=h4nlXFCYO58g2BbEaTm_qN58Ji0F8JTLA91iWL-nbDM\nCrude oil freight rates saw a slowdown in momentum at the end of April, while the clean market continues to drop to lower levels. On the demand side, despite the recent slowdown, the trend in VLCC (ton-days) is promising for freight rate strength.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "aframax",
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 342,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__s04_dirty_vlcc_suezmax_aframax_weaker",
+      "doc_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__root",
+      "title": "‘ Dirty ' VLCC - Suezmax - Aframax- Weaker",
+      "section_path": [
+        "‘ Dirty ' VLCC - Suezmax - Aframax- Weaker"
+      ],
+      "section_path_text": "‘ Dirty ' VLCC - Suezmax - Aframax- Weaker",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Crude oil freight rate sentiment deteriorated in late April, with the Aframax-Med route showing a sharp decline after peaking in week 13. VLCC AG-FE freight rates were at WS60, down nearly 8 points from three weeks ago.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "points",
+        "weeks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__s05_product_lr2_lr1_steady",
+      "doc_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__root",
+      "title": "‘ Product ' LR2 - LR1 | Steady",
+      "section_path": [
+        "‘ Product ' LR2 - LR1 | Steady"
+      ],
+      "section_path_text": "‘ Product ' LR2 - LR1 | Steady",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "LR2 AG freight rates an almost steady dynamic over the past six weeks, hovering around WS 180. LR1 MEG -to-Japan freight rates posted a similar momentum to LR2, holding steady around WS 190.",
+      "keywords": [
+        "panamax",
+        "meg",
+        "japan",
+        "around",
+        "lr2",
+        "steady",
+        "weeks",
+        "ago."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__s06_clean_mr2_mr1_weaker",
+      "doc_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' MR2 - MR1 - Weaker",
+      "section_path": [
+        "‘ Clean ' MR2 - MR1 - Weaker"
+      ],
+      "section_path_text": "‘ Clean ' MR2 - MR1 - Weaker",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "MR1 rates Algeria-to-Med are now at WS180, almost 60% lower, and Baltic-to-Cont MR1 rates are 40% lower (~ WS195) than in early April. MR2 rates Cont-to-US are now at WS150, indicating weaker momentum in the coming days, and down nearly 50% from early April.",
+      "keywords": [
+        "are",
+        "april.",
+        "early",
+        "lower",
+        "mr1",
+        "now",
+        "algeria-to-med",
+        "almost"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 71,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__s07_section_2_supply_vessels_dirty_supply_trend_lines_for_key_load_areas_vlcc_aframax_suezmax_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Suezmax Decreasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Suezmax Decreasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC - Aframax - Suezmax Decreasing",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Crude oil tanker supply showed a downward trend at the end of April, and there are no signs of a firm increase yet. VLCC Ras Tanura : The number of vessels is now 64, 10 less than the annual average.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "crude_oil",
+        "number",
+        "vessels",
+        "annual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__s09_clean_supply_trend_lines_for_key_load_areas_mr1_increasing",
+      "doc_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Increasing",
+      "section_path": [
+        "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Increasing"
+      ],
+      "section_path_text": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Increasing",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Clean LR2 AG Jubail: The number of vessels held at a level of about 8, with a downward trend below the annual average of 13 in the last three weeks. Clean MR1 Algeria Skikda: The number of vessels increased to over 30, 3 less than the annual average, with a tendency for a further increase in early May.",
+      "keywords": [
+        "annual",
+        "average",
+        "clean",
+        "number",
+        "vessels",
+        "algeria",
+        "below",
+        "downward"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 74,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__s12_clean_panamax_increasing_mr2_mr1_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-04-28_2023_04_28_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' | Panamax - Increasing | MR2 - MR1 - Decreasing",
+      "section_path": [
+        "‘ Clean ' | Panamax - Increasing | MR2 - MR1 - Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' | Panamax - Increasing | MR2 - MR1 - Decreasing",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Dirty demand ton-days: Strength in the VLCC segment continues in April, while momentum in the Suezmax and Aframax segments slows. Clean demand ton-days / Panamax demand: A positive trend is emerging in the last three weeks, with signs of a growth spike similar to earlier in the year.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "demand",
+        "growth",
+        "april",
+        "clean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 101,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

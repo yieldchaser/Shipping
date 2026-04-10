@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nIn recent days, the US dollar has given up some of the gains recorded during the past week and on Monday. Comments from the Chair of the Federal Reserve, which suggested that the disinflationary process has already started, have been received by the markets as less hawkish than previous statements, which has contributed to the reversal of fortunes for the greenback. However, fears remain that the robust labour market data released last week will stimulate consumer spending and renew the upward pressure on inflation rates.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia",
+    "meg",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1150,
+  "source_path": "reports/breakwave/2023/2023-02-09_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/9/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In recent days, the US dollar has given up some of the gains recorded during the past week and on Monday. Comments from the Chair of the Federal Reserve, which suggested that the disinflationary process has already started, have been received by the markets as less hawkish than previous statements, which has contributed to the reversal of fortunes for the greenback.",
+      "keywords": [
+        "data",
+        "dollar",
+        "inflation",
+        "already",
+        "await",
+        "chair",
+        "comments",
+        "consumer"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil gained on Wednesday amid reports of greater demand from Chinese refineries. The Brent April futures extended on the gains from the previous two sessions and settled at 85.28 dollars per barrel amid a daily advance of 1.9 per cent.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 431,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "After five consecutive days in the red, the Baltic Dry Index recorded a marginal gain yesterday. Following a seven per cent increase for the Capesize freight gauge amid signs of a recovery in ordering activities, the headline index gained 0.3 despite declines for the Panamaxes and Supramaxes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 311,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-02-09_2023_02_09_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "French farmers were bringing parts of central Paris to a standstill yesterday as they were driving their tractors through the streets of the Capital in protest against a ban of a pesticide, which has reduced the country's sugar output. The prohibition of neonicotinoids across the European Union, combined with hot and dry summers, has resulted in increasing imports of the sweetener for the continent.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "india",
+        "coal",
+        "recent",
+        "sugar"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 253,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

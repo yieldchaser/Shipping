@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import json
 from collections import Counter, defaultdict
 from datetime import date, datetime, timezone
@@ -16,6 +18,13 @@ EXPECTED_CADENCE_DAYS = {
     ("baltic", "gas"): 7,
     ("baltic", "container"): 7,
     ("baltic", "ningbo"): 7,
+    ("breakwave_insights", "insights"): 14,
+    ("hellenic", "dry_charter"): 14,
+    ("hellenic", "tanker_charter"): 14,
+    ("hellenic", "iron_ore"): 14,
+    ("hellenic", "vessel_valuations"): 14,
+    ("hellenic", "demolition"): 21,
+    ("hellenic", "shipbuilding"): 21,
 }
 
 ROW_ORDER = [
@@ -26,6 +35,13 @@ ROW_ORDER = [
     ("baltic", "gas", "baltic/gas"),
     ("baltic", "container", "baltic/container"),
     ("baltic", "ningbo", "baltic/ningbo"),
+    ("breakwave_insights", "insights", "breakwave_insights/insights"),
+    ("hellenic", "dry_charter", "hellenic/dry_charter"),
+    ("hellenic", "tanker_charter", "hellenic/tanker_charter"),
+    ("hellenic", "iron_ore", "hellenic/iron_ore"),
+    ("hellenic", "vessel_valuations", "hellenic/vessel_valuations"),
+    ("hellenic", "demolition", "hellenic/demolition"),
+    ("hellenic", "shipbuilding", "hellenic/shipbuilding"),
     ("book", "book", "books"),
 ]
 

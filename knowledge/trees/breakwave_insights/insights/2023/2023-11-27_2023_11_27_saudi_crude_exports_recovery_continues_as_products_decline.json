@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-27_2023_11_27_saudi_crude_exports_recovery_continues_as_products_decline__root",
+  "doc_id": "breakwave_insights_insights_2023-11-27_2023_11_27_saudi_crude_exports_recovery_continues_as_products_decline",
+  "parent_id": null,
+  "title": "Saudi Crude Exports Recovery Continues As Products Decline",
+  "section_path": [
+    "Saudi Crude Exports Recovery Continues As Products Decline"
+  ],
+  "section_path_text": "Saudi Crude Exports Recovery Continues As Products Decline",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Saudi Arabia's crude exports in November have continued to rise m-o-m following a slump in August, but refined products exports have fallen to multi-year lows. In this insight, we examine the magnitude of this divergence and put it in context of wider OPEC+ trends. By Jay Maroo\nVortexa preliminary data for the first half of November (days 1-15) show Saudi exports have crossed the 6.5mbd mark for the first time since June this year.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "exports",
+    "crude",
+    "saudi",
+    "mbd",
+    "arabia",
+    "opec",
+    "november",
+    "august",
+    "but",
+    "data"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 673,
+  "source_path": "reports/breakwave/2023/2023-11-27_saudi-crude-exports-recovery-continues-as-products-decline.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/27/saudi-crude-exports-recovery-continues-as-products-decline",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-27_2023_11_27_saudi_crude_exports_recovery_continues_as_products_decline__s01_saudi_arabia_s_crude_exports_in_november_have_continued_to_rise_m_o_m_following_a_slump_in_august_but_refined_products_exports_have_fallen_to_multi_year_lows_in_this_insight_we_examine_the_magnitude_of_this_divergence_and_put_it_in_context_of_wider_opec_trends",
+      "doc_id": "breakwave_insights_insights_2023-11-27_2023_11_27_saudi_crude_exports_recovery_continues_as_products_decline",
+      "parent_id": "breakwave_insights_insights_2023-11-27_2023_11_27_saudi_crude_exports_recovery_continues_as_products_decline__root",
+      "title": "Saudi Arabia's crude exports in November have continued to rise m-o-m following a slump in August, but refined products exports have fallen to multi-year lows. In this insight, we examine the magnitude of this divergence and put it in context of wider OPEC+ trends.",
+      "section_path": [
+        "Saudi Arabia's crude exports in November have continued to rise m-o-m following a slump in August, but refined products exports have fallen to multi-year lows. In this insight, we examine the magnitude of this divergence and put it in context of wider OPEC+ trends."
+      ],
+      "section_path_text": "Saudi Arabia's crude exports in November have continued to rise m-o-m following a slump in August, but refined products exports have fallen to multi-year lows. In this insight, we examine the magnitude of this divergence and put it in context of wider OPEC+ trends.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jay Maroo\nVortexa preliminary data for the first half of November (days 1-15) show Saudi exports have crossed the 6.5mbd mark for the first time since June this year. The November figure also marks a strong rebound from the 5.4mbd seen in August (see chart below).",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "exports",
+        "crude",
+        "saudi",
+        "mbd",
+        "arabia",
+        "opec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 619,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

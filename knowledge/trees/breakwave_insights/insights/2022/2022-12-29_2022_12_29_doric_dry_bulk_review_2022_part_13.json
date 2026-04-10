@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_13__root",
+  "doc_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_13",
+  "parent_id": null,
+  "title": "Doric Dry Bulk Review 2022 Part 13",
+  "section_path": [
+    "Doric Dry Bulk Review 2022 Part 13"
+  ],
+  "section_path_text": "Doric Dry Bulk Review 2022 Part 13",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Prelude\nEnsuing one of the most generous and fertile trading years of the recent past with an annual average of some 2943 points, Baltic Dry Index stepped into the new year with a rather tepid and lukewarm feeling. In fact, one should take a long trip down the memory lane to draw a parallel of the spot market's steep downward correction in end of 2021, with Capesizes mainly being under severe pressure. In spite of the adverse currents, our clients and friends replied to our annual sentiment survey in early January that they remain \"cautiously optimistic\" for the next twelve months - or at least the majority of them.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "europe",
+    "india",
+    "japan"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5960,
+  "source_path": "reports/breakwave/2022/2022-12-29_doric-dry-bulk-review-2022-part-13.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-13",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_13__s01_prelude",
+      "doc_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_13",
+      "parent_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_13__root",
+      "title": "Prelude",
+      "section_path": [
+        "Prelude"
+      ],
+      "section_path_text": "Prelude",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Ensuing one of the most generous and fertile trading years of the recent past with an annual average of some 2943 points, Baltic Dry Index stepped into the new year with a rather tepid and lukewarm feeling. In fact, one should take a long trip down the memory lane to draw a parallel of the spot market's steep downward correction in end of 2021, with Capesizes mainly being under severe pressure.",
+      "keywords": [
+        "capesize",
+        "china",
+        "points",
+        "percent",
+        "year",
+        "average",
+        "first",
+        "optimistic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 796,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_13__s02_act_i_what_is_past_is_prologue",
+      "doc_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_13",
+      "parent_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_13__root",
+      "title": "Act I - \"What is past is prologue\"",
+      "section_path": [
+        "Act I - \"What is past is prologue\""
+      ],
+      "section_path_text": "Act I - \"What is past is prologue\"",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The trading year embarked to the first quarter of its 2022 trip in rather meek spirits, anticipating a reversal of the previous period harsh downward correction. In spite of the descending trend of late, Baltic TCAs continued lingering well above OPEX in all segments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "brazil",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5150,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

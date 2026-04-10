@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-31_2023_05_31_new_locations_arise_for_russian_urals_sts_activity__root",
+  "doc_id": "breakwave_insights_insights_2023-05-31_2023_05_31_new_locations_arise_for_russian_urals_sts_activity",
+  "parent_id": null,
+  "title": "New Locations Arise For Russian Urals Sts Activity",
+  "section_path": [
+    "New Locations Arise For Russian Urals Sts Activity"
+  ],
+  "section_path_text": "New Locations Arise For Russian Urals Sts Activity",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "We explore the latest trends and shifts in Urals STS locations, their relevance and the profile of tankers involved. By Armen Azizian\nAs we approach the six-month mark of the EU-ban on Russian crude imports, we are seeing an increase in ship-to-ship transfers (STS) of Russian Urals in previously obscure locations. The Atlantic Ocean is emerging as a hub for STS transfers of Russian Urals, accounting for 90kbd in May (days 1-25), 44% of all transfers.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "aframax",
+    "china",
+    "atlantic",
+    "india",
+    "singapore",
+    "sts",
+    "offshore",
+    "urals",
+    "ocean",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1266,
+  "source_path": "reports/breakwave/2023/2023-05-31_new-locations-arise-for-russian-urals-sts-activity.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/31/new-locations-arise-for-russian-urals-sts-activity",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-31_2023_05_31_new_locations_arise_for_russian_urals_sts_activity__s01_we_explore_the_latest_trends_and_shifts_in_urals_sts_locations_their_relevance_and_the_profile_of_tankers_involved",
+      "doc_id": "breakwave_insights_insights_2023-05-31_2023_05_31_new_locations_arise_for_russian_urals_sts_activity",
+      "parent_id": "breakwave_insights_insights_2023-05-31_2023_05_31_new_locations_arise_for_russian_urals_sts_activity__root",
+      "title": "We explore the latest trends and shifts in Urals STS locations, their relevance and the profile of tankers involved.",
+      "section_path": [
+        "We explore the latest trends and shifts in Urals STS locations, their relevance and the profile of tankers involved."
+      ],
+      "section_path_text": "We explore the latest trends and shifts in Urals STS locations, their relevance and the profile of tankers involved.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Armen Azizian\nAs we approach the six-month mark of the EU-ban on Russian crude imports, we are seeing an increase in ship-to-ship transfers (STS) of Russian Urals in previously obscure locations. The Atlantic Ocean is emerging as a hub for STS transfers of Russian Urals, accounting for 90kbd in May (days 1-25), 44% of all transfers.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "china",
+        "atlantic",
+        "india",
+        "singapore",
+        "sts"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1242,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

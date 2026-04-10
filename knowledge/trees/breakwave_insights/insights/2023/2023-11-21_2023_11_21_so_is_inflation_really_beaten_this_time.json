@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-21_2023_11_21_so_is_inflation_really_beaten_this_time__root",
+  "doc_id": "breakwave_insights_insights_2023-11-21_2023_11_21_so_is_inflation_really_beaten_this_time",
+  "parent_id": null,
+  "title": "So Is Inflation Really Beaten This Time",
+  "section_path": [
+    "So Is Inflation Really Beaten This Time"
+  ],
+  "section_path_text": "So Is Inflation Really Beaten This Time",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe three things investors should know at the beginning of the week\nInflation might be down, but it is probably not out. Consumers might come back for the festive season, geopolitics remain challenging, the labour market remains tight and rent prices are still high. Where we stand today, we need to see more compelling evidence of consumer weakness, as well as government restraint against pro-cyclical fiscal expansion.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "are",
+    "inflation",
+    "not",
+    "might",
+    "but",
+    "need",
+    "central",
+    "coming",
+    "investors",
+    "spending"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1045,
+  "source_path": "reports/breakwave/2023/2023-11-21_so-is-inflation-really-beaten-this-time.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/21/so-is-inflation-really-beaten-this-time",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-21_2023_11_21_so_is_inflation_really_beaten_this_time__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-21_2023_11_21_so_is_inflation_really_beaten_this_time",
+      "parent_id": "breakwave_insights_insights_2023-11-21_2023_11_21_so_is_inflation_really_beaten_this_time__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The three things investors should know at the beginning of the week\nInflation might be down, but it is probably not out. Consumers might come back for the festive season, geopolitics remain challenging, the labour market remains tight and rent prices are still high.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "are",
+        "inflation",
+        "not",
+        "might",
+        "but",
+        "need"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1043,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

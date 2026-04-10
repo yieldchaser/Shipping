@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-05-24_2021_05_24_dry_bulk_commodities_and_asset_values_steely_resolve__root",
+  "doc_id": "breakwave_insights_insights_2021-05-24_2021_05_24_dry_bulk_commodities_and_asset_values_steely_resolve",
+  "parent_id": null,
+  "title": "Dry Bulk Commodities And Asset Values Steely Resolve",
+  "section_path": [
+    "Dry Bulk Commodities And Asset Values Steely Resolve"
+  ],
+  "section_path_text": "Dry Bulk Commodities And Asset Values Steely Resolve",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSince the advent of the pandemic in early 2020 and following the initial shock causing a deep dive in economic output worldwide, after China's successful handing of the health crisis, two buzzwords have been in market participants' lips: \"vaccines rollout\" and \"post-pandemic economic recovery\", with a third one appearing in 1Q21 in the name of \"supercycle\" referring to commodities' bullish sentiment. Thus, market expectations of 2021 economic bounce back were blended with commodities rapacious ascent driving projections of 4.3-5.0% GDP growth (following last year's contraction of 3.8%) which, if realised, will propel global GDP to pre-pandemic levels up to 6 months sooner than some analysts had initially expected. Roaring commodities, rampant steel production\nMining commodities, especially iron ore and copper, have skyrocketed with iron ore to have hit a record high shy of US$230/t by mid-May, before retreating to sub US$200/t levels, albeit with fundamentals on its bench.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "lng",
+    "container",
+    "china",
+    "australia",
+    "japan",
+    "iron_ore",
+    "steel",
+    "gas",
+    "built",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1343,
+  "source_path": "reports/breakwave/2021/2021-05-24_dry-bulk-commodities-and-asset-values-steely-resolve.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/5/24/dry-bulk-commodities-and-asset-values-steely-resolve",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-05-24_2021_05_24_dry_bulk_commodities_and_asset_values_steely_resolve__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-05-24_2021_05_24_dry_bulk_commodities_and_asset_values_steely_resolve",
+      "parent_id": "breakwave_insights_insights_2021-05-24_2021_05_24_dry_bulk_commodities_and_asset_values_steely_resolve__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Since the advent of the pandemic in early 2020 and following the initial shock causing a deep dive in economic output worldwide, after China's successful handing of the health crisis, two buzzwords have been in market participants' lips: \"vaccines rollout\" and \"post-pandemic economic recovery\", with a third one appearing in 1Q21 in the name of \"supercycle\" referring to commodities' bullish sentiment. Thus, market expectations of 2021 economic bounce back were blended with commodities rapacious ascent driving projections of 4.3-5.0% GDP growth (following last year's contraction of 3.8%) which, if realised, will propel global GDP to pre-pandemic levels up to 6 months sooner than some analysts had initially expected.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "container",
+        "china",
+        "australia",
+        "japan",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1341,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

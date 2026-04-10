@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nRising Covid infection rates in China dominated the news flow last week, even before the reports of protests and unrest started to emerge. The number of new cases has surpassed the highs recorded during the lockdown of Shanghai earlier in the year, increasing the likelihood of new restrictions and lockdowns. However, the protests across the country over the weekend against the country's strict zero-Covid policy have added an extra dimension to the country's continued fight against rising infection rates.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "europe",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1254,
+  "source_path": "reports/breakwave/2022/2022-11-29_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/29/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Rising Covid infection rates in China dominated the news flow last week, even before the reports of protests and unrest started to emerge. The number of new cases has surpassed the highs recorded during the lockdown of Shanghai earlier in the year, increasing the likelihood of new restrictions and lockdowns.",
+      "keywords": [
+        "china",
+        "country",
+        "last",
+        "could",
+        "manufacturing",
+        "sector",
+        "additional",
+        "against"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 286,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Renewed concerns over global demand in general and Chinese demand, in particular, saw the Brent crude oil futures recording a third consecutive weekly decline. The contracts ended last week at 83.63 dollars per barrel, the lowest since the end of September, following a 4.6 per cent retreat for the week.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 553,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The dry bulk freight market was dominated by the strong performance of the largest vessels. The Baltic Exchange's sub-index for the Capesizes soared by nearly 44 per cent, contributing to an 11.4 per cent gain for the headline Baltic Dry Index.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "brazil",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 244,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-29_2022_11_29_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Thermal coal prices have staged a comeback during the second half of the month as colder weather in the Northern Hemisphere has boosted demand at the same time as supply disruptions have reduced shipments from some of the largest producers. However, easing concerns over Europe's energy supply situation for the coming winter and well-stocked coal inventories have put pressure on the continent's demand for additional supplies of the dirtiest of fossil fuels.",
+      "keywords": [
+        "europe",
+        "coal",
+        "coming",
+        "data",
+        "demand",
+        "pressure",
+        "south",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

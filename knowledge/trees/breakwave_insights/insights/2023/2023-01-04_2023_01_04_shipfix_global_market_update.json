@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe new year has begun with commodities and seaborne freight markets facing renewed headwinds. Concerns over global growth rates weighed on the global demand outlook on Tuesday, with many commodities and freight rates ending the day in the red. The first update of the Baltic's dry bulk indices since before Christmas saw the BDI retreating by more than seventeen per cent amid extensive losses for the Capesizes.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "china",
+    "atlantic",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1427,
+  "source_path": "reports/breakwave/2023/2023-01-04_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/4/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe new year has begun with commodities and seaborne freight markets facing renewed headwinds. Concerns over global growth rates weighed on the global demand outlook on Tuesday, with many commodities and freight rates ending the day in the red.",
+      "keywords": [
+        "capesize",
+        "commodities",
+        "global",
+        "amid",
+        "bdi",
+        "before",
+        "begun",
+        "bergman"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While the commodities and seaborne freight markets have remained relatively quiet amid public holidays and limited market liquidity, the rising Covid infection rates in China and rising global recession risks have dominated much of the news flow over the holidays. The extensive breakout of the coronavirus in the world's most populous country following the easing of restrictions weighed on Chinese economic activities in December, and the country's official manufacturing PMI suffered as a result.",
+      "keywords": [
+        "china",
+        "global",
+        "recession",
+        "risks",
+        "amid",
+        "are",
+        "cent",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 254,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The Brent futures began the year in the red, as the weak Chinese PMI data put a dent in the demand outlook for crude oil. The contracts fell by more than three per cent and settled at 83.20 dollars per barrel.",
+      "keywords": [
+        "lng",
+        "china",
+        "atlantic",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 474,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The first update of the Baltic Exchange's indices since before Christmas provided some sizeable moves yesterday as the spot market caught up with market sentiments. The Baltic Dry Index retreated by a whopping 17.5 per cent on Tuesday amid weakness across all dry bulk vessel segments as rising Covid infection rates in China and the approaching Chinese New Year weighed on ordering activities.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "europe",
+        "singapore",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 324,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-01-04_2023_01_04_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The new year has started with temperature records across many parts of Europe as mild weather continues to dominate large parts of the continent. The warmer-than-usual weather has eased fears of a crunch on European energy supplies during the current winter, with the risks of blackouts and energy rationing fading rapidly.",
+      "keywords": [
+        "europe",
+        "coal",
+        "gas",
+        "european",
+        "last",
+        "during",
+        "levels",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 261,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

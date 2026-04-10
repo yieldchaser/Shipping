@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-12_2022_10_12_eu_shipping_ban_to_be_the_deciding_factor_for_russia_volumes__root",
+  "doc_id": "breakwave_insights_insights_2022-10-12_2022_10_12_eu_shipping_ban_to_be_the_deciding_factor_for_russia_volumes",
+  "parent_id": null,
+  "title": "Eu Shipping Ban To Be The Deciding Factor For Russia Volumes And Tanker Fates",
+  "section_path": [
+    "Eu Shipping Ban To Be The Deciding Factor For Russia Volumes And Tanker Fates"
+  ],
+  "section_path_text": "Eu Shipping Ban To Be The Deciding Factor For Russia Volumes And Tanker Fates",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ioannis Papadimitriou\nWith the EU ban on Russian crude and products just round the corner, the unwinding of the Russian-European oil interdependency is underway. For crude barrels this has been the case for quite a while, with Europe managing to reduce its Russian crude purchases significantly. Yet for clean products (CPP) the change in trade patterns has just commenced.",
+  "keywords": [
+    "europe",
+    "india",
+    "grain",
+    "crude_oil",
+    "products",
+    "russia",
+    "russian",
+    "oil",
+    "would",
+    "are",
+    "ban",
+    "cap"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1250,
+  "source_path": "reports/breakwave/2022/2022-10-12_eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/12/eu-shipping-ban-to-be-the-deciding-factor-for-russia-volumes-and-tanker-fates",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-12_2022_10_12_eu_shipping_ban_to_be_the_deciding_factor_for_russia_volumes__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-12_2022_10_12_eu_shipping_ban_to_be_the_deciding_factor_for_russia_volumes",
+      "parent_id": "breakwave_insights_insights_2022-10-12_2022_10_12_eu_shipping_ban_to_be_the_deciding_factor_for_russia_volumes__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ioannis Papadimitriou\nWith the EU ban on Russian crude and products just round the corner, the unwinding of the Russian-European oil interdependency is underway. For crude barrels this has been the case for quite a while, with Europe managing to reduce its Russian crude purchases significantly.",
+      "keywords": [
+        "europe",
+        "india",
+        "grain",
+        "crude_oil",
+        "products",
+        "russia",
+        "russian",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1248,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

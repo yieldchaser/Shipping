@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-25_2020_06_25_as_capesize_spot_almost_touches_30k_futures_point_to_a_rever__root",
+  "doc_id": "breakwave_insights_insights_2020-06-25_2020_06_25_as_capesize_spot_almost_touches_30k_futures_point_to_a_rever",
+  "parent_id": null,
+  "title": "As Capesize Spot Almost Touches 30K Futures Point To A Reversal",
+  "section_path": [
+    "As Capesize Spot Almost Touches 30K Futures Point To A Reversal"
+  ],
+  "section_path_text": "As Capesize Spot Almost Touches 30K Futures Point To A Reversal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSpot indices continue to advance, but the rate of increase has slowed down and small cracks are showing up in certain routes that might drag the spot indices lower next week. The futures market has anticipating such move for days now, as Capesize futures for the third quarter are trading at the sharpest discount to spot in at least five years, now at a staggering 30%(it is not unheard off to see such discounts during the fourth quarter, as seasonally the first quarter of each year is much weaker than the fourth and thus Q1 usually trades at a discount to spot. However, the third quarter is seasonally strong, so the discount here appears excessive versus history).",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "iron_ore",
+    "steel",
+    "year",
+    "are",
+    "half",
+    "quarter",
+    "versus",
+    "congestion",
+    "discount"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 795,
+  "source_path": "reports/breakwave/2020/2020-06-25_as-capesize-spot-almost-touches-30k-futures-point-to-a-rever.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/25/as-capesize-spot-almost-touches-30k-futures-point-to-a-reversal",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-25_2020_06_25_as_capesize_spot_almost_touches_30k_futures_point_to_a_rever__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-25_2020_06_25_as_capesize_spot_almost_touches_30k_futures_point_to_a_rever",
+      "parent_id": "breakwave_insights_insights_2020-06-25_2020_06_25_as_capesize_spot_almost_touches_30k_futures_point_to_a_rever__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Spot indices continue to advance, but the rate of increase has slowed down and small cracks are showing up in certain routes that might drag the spot indices lower next week. The futures market has anticipating such move for days now, as Capesize futures for the third quarter are trading at the sharpest discount to spot in at least five years, now at a staggering 30%(it is not unheard off to see such discounts during the fourth quarter, as seasonally the first quarter of each year is much weaker than the fourth and thus Q1 usually trades at a discount to spot.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "steel",
+        "year",
+        "are",
+        "half"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 793,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

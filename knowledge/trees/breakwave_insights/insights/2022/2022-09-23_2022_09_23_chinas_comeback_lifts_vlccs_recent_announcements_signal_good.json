@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-23_2022_09_23_chinas_comeback_lifts_vlccs_recent_announcements_signal_good__root",
+  "doc_id": "breakwave_insights_insights_2022-09-23_2022_09_23_chinas_comeback_lifts_vlccs_recent_announcements_signal_good",
+  "parent_id": null,
+  "title": "Chinas Comeback Lifts Vlccs Recent Announcements Signal Good Omens",
+  "section_path": [
+    "Chinas Comeback Lifts Vlccs Recent Announcements Signal Good Omens"
+  ],
+  "section_path_text": "Chinas Comeback Lifts Vlccs Recent Announcements Signal Good Omens",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ioannis Papadimitriou\nChina's rebound in purchasing amid a much more ample global crude market lifts VLCC rates across all fronts, with much higher anticipated clean product exports from China, additional US SPR releases and imminent peak winter demand all pointing to a sustainable demand for crude tanker owners for the remainder of the year. VLCC rates across the board, like the trademark routes TD3C, TD15 and TD22, managed to surpass the levels reached during Q2 2022 following the Russian invasion in Ukraine, moving recently to fresh 2.5-year highs. The surge on rates is partially tied with China's comeback in purchasing more crude after a very weak summer period (in terms of arrivals).",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "products",
+    "crude",
+    "demand",
+    "tonne-miles"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 851,
+  "source_path": "reports/breakwave/2022/2022-09-23_chinas-comeback-lifts-vlccs-recent-announcements-signal-good.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/23/chinas-comeback-lifts-vlccs-recent-announcements-signal-good-omens",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-23_2022_09_23_chinas_comeback_lifts_vlccs_recent_announcements_signal_good__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-23_2022_09_23_chinas_comeback_lifts_vlccs_recent_announcements_signal_good",
+      "parent_id": "breakwave_insights_insights_2022-09-23_2022_09_23_chinas_comeback_lifts_vlccs_recent_announcements_signal_good__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ioannis Papadimitriou\nChina's rebound in purchasing amid a much more ample global crude market lifts VLCC rates across all fronts, with much higher anticipated clean product exports from China, additional US SPR releases and imminent peak winter demand all pointing to a sustainable demand for crude tanker owners for the remainder of the year. VLCC rates across the board, like the trademark routes TD3C, TD15 and TD22, managed to surpass the levels reached during Q2 2022 following the Russian invasion in Ukraine, moving recently to fresh 2.5-year highs.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 849,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nLatest Trends\nEnergy and shipping organizations have met to outline plans to accelerate the development of a green corridor to transport iron ore between Australia and East Asia. Read More\n\nA week is an eternity in geopolitics\nThe drone attacks on Russian naval assets in Crimea last weekend led to the suspension of the country's participation in the deal that has allowed Ukraine to recommence seaborne exports of grains. Read More\n\nNo coal was imported from the Philippines, South Africa or Colombia\nCoal import data for September by origin has been released and shows that imports from Indonesia have remained China's primary source and Russia the second largest source.",
+  "keywords": [
+    "china",
+    "australia",
+    "india",
+    "iron_ore",
+    "coal",
+    "grain",
+    "read",
+    "billion",
+    "down",
+    "exports",
+    "hours",
+    "kilowatt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 370,
+  "source_path": "reports/breakwave/2022/2022-11-13_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/13/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__s02_latest_trends",
+      "doc_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__root",
+      "title": "Latest Trends",
+      "section_path": [
+        "Latest Trends"
+      ],
+      "section_path_text": "Latest Trends",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Energy and shipping organizations have met to outline plans to accelerate the development of a green corridor to transport iron ore between Australia and East Asia.",
+      "keywords": [
+        "australia",
+        "iron_ore",
+        "accelerate",
+        "asia.",
+        "between",
+        "corridor",
+        "development",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__s03_a_week_is_an_eternity_in_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__root",
+      "title": "A week is an eternity in geopolitics",
+      "section_path": [
+        "A week is an eternity in geopolitics"
+      ],
+      "section_path_text": "A week is an eternity in geopolitics",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The drone attacks on Russian naval assets in Crimea last weekend led to the suspension of the country's participation in the deal that has allowed Ukraine to recommence seaborne exports of grains.",
+      "keywords": [
+        "grain",
+        "allowed",
+        "assets",
+        "attacks",
+        "country",
+        "crimea",
+        "deal",
+        "drone"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__s04_no_coal_was_imported_from_the_philippines_south_africa_or_colombia",
+      "doc_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__root",
+      "title": "No coal was imported from the Philippines, South Africa or Colombia",
+      "section_path": [
+        "No coal was imported from the Philippines, South Africa or Colombia"
+      ],
+      "section_path_text": "No coal was imported from the Philippines, South Africa or Colombia",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Coal import data for September by origin has been released and shows that imports from Indonesia have remained China's primary source and Russia the second largest source.",
+      "keywords": [
+        "china",
+        "coal",
+        "data",
+        "import",
+        "imports",
+        "indonesia",
+        "largest",
+        "origin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__s05_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "In the second week of November, the downward trend in freight rates has not yet reversed, with the number of ships sailing ballast gradually increasing, while demand (ton days) is growing even more slowly.",
+      "keywords": [
+        "ballast",
+        "days",
+        "demand",
+        "downward",
+        "even",
+        "gradually",
+        "growing",
+        "increasing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__s06_a_weaker_usd_also_helped_support_investor_appetite",
+      "doc_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__root",
+      "title": "A weaker USD also helped support investor appetite",
+      "section_path": [
+        "A weaker USD also helped support investor appetite"
+      ],
+      "section_path_text": "A weaker USD also helped support investor appetite",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Rising COVID-19 cases in China weighed on sentiment across commodity markets.",
+      "keywords": [
+        "china",
+        "cases",
+        "commodity",
+        "covid-19",
+        "markets.",
+        "read",
+        "rising",
+        "sentiment"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 17,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__s07_the_factors_driving_the_sharp_rebound_in_iranian_crude_exports",
+      "doc_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__root",
+      "title": "The factors driving the sharp rebound in Iranian crude exports",
+      "section_path": [
+        "The factors driving the sharp rebound in Iranian crude exports"
+      ],
+      "section_path_text": "The factors driving the sharp rebound in Iranian crude exports",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "This insight explores the sharp climb in Iran's crude/condensate exports observed in October, changes to floating storage and Russia's impact on Iranian fleet activity.",
+      "keywords": [
+        "activity.",
+        "changes",
+        "climb",
+        "crude/condensate",
+        "explores",
+        "exports",
+        "fleet",
+        "floating"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__s08_the_big_picture_supply_forecast",
+      "doc_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__root",
+      "title": "The Big Picture: Supply forecast",
+      "section_path": [
+        "The Big Picture: Supply forecast"
+      ],
+      "section_path_text": "The Big Picture: Supply forecast",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Ordering this year has naturally slowed down as the freight market softened throughout the year.",
+      "keywords": [
+        "down",
+        "naturally",
+        "ordering",
+        "read",
+        "slowed",
+        "softened",
+        "throughout",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__s09_the_weakness_has_come_as_a_surprise",
+      "doc_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-13_2022_11_13_weekly_insights_review__root",
+      "title": "The weakness has come as a surprise",
+      "section_path": [
+        "The weakness has come as a surprise"
+      ],
+      "section_path_text": "The weakness has come as a surprise",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "As we discussed in our most recent Weekly Dry Bulk Report, India produced only 109.6 billion kilowatt hours of electricity last month which is down month-on-month by 10.4 billion kilowatt hours (-9%) and down year-on-year by 1.2 billion kilowatt hours (-1%).",
+      "keywords": [
+        "india",
+        "billion",
+        "hours",
+        "kilowatt",
+        "down",
+        "discussed",
+        "electricity",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

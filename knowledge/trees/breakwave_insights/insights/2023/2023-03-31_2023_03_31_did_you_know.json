@@ -1,0 +1,143 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know__root",
+  "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know",
+  "parent_id": null,
+  "title": "Did You Know",
+  "section_path": [
+    "Did You Know"
+  ],
+  "section_path_text": "Did You Know",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "VLCC*: ~300,000 tons\nLargest cargo ship; Mainly used for transporting crude oil to US and Asia from Middle East\n*VLCC: Very Large Crude Carrier\n\nSuezmax: ~150,000 tons\nHalf-size of VLCCs; Mainly used in the Atlantic; Largest tanker that can use the Suez Canal\n\nAframax: ~105,000 tons\nMost versatile crude oil tanker; Can access most ports\n\nPanamax: ~80,000 tons\nMainly used for refined oil product trading",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "atlantic",
+    "crude_oil",
+    "tons",
+    "crude",
+    "mainly",
+    "oil",
+    "can",
+    "largest"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 111,
+  "source_path": "reports/breakwave/2023/2023-03-31_did-you-know.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/31/did-you-know",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know__s01_vlcc_300_000_tons",
+      "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know__root",
+      "title": "VLCC*: ~300,000 tons",
+      "section_path": [
+        "VLCC*: ~300,000 tons"
+      ],
+      "section_path_text": "VLCC*: ~300,000 tons",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Largest cargo ship; Mainly used for transporting crude oil to US and Asia from Middle East\n*VLCC: Very Large Crude Carrier",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "crude",
+        "asia",
+        "cargo",
+        "carrier",
+        "east",
+        "large"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know__s02_suezmax_150_000_tons",
+      "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know__root",
+      "title": "Suezmax: ~150,000 tons",
+      "section_path": [
+        "Suezmax: ~150,000 tons"
+      ],
+      "section_path_text": "Suezmax: ~150,000 tons",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Half-size of VLCCs; Mainly used in the Atlantic; Largest tanker that can use the Suez Canal",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "can",
+        "canal",
+        "half-size",
+        "largest",
+        "mainly",
+        "suez"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know__s03_aframax_105_000_tons",
+      "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know__root",
+      "title": "Aframax: ~105,000 tons",
+      "section_path": [
+        "Aframax: ~105,000 tons"
+      ],
+      "section_path_text": "Aframax: ~105,000 tons",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Most versatile crude oil tanker; Can access most ports",
+      "keywords": [
+        "crude_oil",
+        "access",
+        "can",
+        "crude",
+        "oil",
+        "ports",
+        "versatile"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know__s04_panamax_80_000_tons",
+      "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-31_2023_03_31_did_you_know__root",
+      "title": "Panamax: ~80,000 tons",
+      "section_path": [
+        "Panamax: ~80,000 tons"
+      ],
+      "section_path_text": "Panamax: ~80,000 tons",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Mainly used for refined oil product trading",
+      "keywords": [
+        "crude_oil",
+        "mainly",
+        "oil",
+        "product",
+        "refined",
+        "trading"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-21_2023_08_21_china_continues_to_consume_large_amount_of_thermal_coal_and__root",
+  "doc_id": "breakwave_insights_insights_2023-08-21_2023_08_21_china_continues_to_consume_large_amount_of_thermal_coal_and",
+  "parent_id": null,
+  "title": "China Continues To Consume Large Amount Of Thermal Coal And Iron Ore",
+  "section_path": [
+    "China Continues To Consume Large Amount Of Thermal Coal And Iron Ore"
+  ],
+  "section_path_text": "China Continues To Consume Large Amount Of Thermal Coal And Iron Ore",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nThe most recently released data shows that daily crude steel output at large and medium-sized mills in China averaged 2.15 million tons during August 1 - 10. This marks a 0.5% increase from late July and is up year-on-year by 11%. We continue to stress that China is producing a very healthy amount of steel (and is consuming a very healthy amount of iron ore).",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "steel",
+    "billion",
+    "electricity",
+    "hours",
+    "kilowatt",
+    "thermal",
+    "year-on-year",
+    "coal-derived",
+    "generation"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 334,
+  "source_path": "reports/breakwave/2023/2023-08-21_china-continues-to-consume-large-amount-of-thermal-coal-and.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/21/china-continues-to-consume-large-amount-of-thermal-coal-and-iron-ore",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-21_2023_08_21_china_continues_to_consume_large_amount_of_thermal_coal_and__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-08-21_2023_08_21_china_continues_to_consume_large_amount_of_thermal_coal_and",
+      "parent_id": "breakwave_insights_insights_2023-08-21_2023_08_21_china_continues_to_consume_large_amount_of_thermal_coal_and__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nThe most recently released data shows that daily crude steel output at large and medium-sized mills in China averaged 2.15 million tons during August 1 - 10. This marks a 0.5% increase from late July and is up year-on-year by 11%.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "steel",
+        "billion",
+        "electricity",
+        "hours",
+        "kilowatt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 332,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-10-01_2021_10_01_china_the_not_so_golden_week__root",
+  "doc_id": "breakwave_insights_insights_2021-10-01_2021_10_01_china_the_not_so_golden_week",
+  "parent_id": null,
+  "title": "China The Not So Golden Week",
+  "section_path": [
+    "China The Not So Golden Week"
+  ],
+  "section_path_text": "China The Not So Golden Week",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThis Friday marks the beginning of the Chinese celebrations of its National Day and the following Golden Week. Contrary to last year, the festivities occur in the shadow of rising challenges for the Chinese economy. A year ago, manufacturing exports and imports of commodities were surging, prompting many pundits to believe that we were witnessing a new dawn.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "steel",
+    "chinese",
+    "are",
+    "energy",
+    "iron",
+    "ore",
+    "economy",
+    "manufacturing",
+    "economic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 772,
+  "source_path": "reports/breakwave/2021/2021-10-01_china-the-not-so-golden-week.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/10/1/china-the-not-so-golden-week",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-10-01_2021_10_01_china_the_not_so_golden_week__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-10-01_2021_10_01_china_the_not_so_golden_week",
+      "parent_id": "breakwave_insights_insights_2021-10-01_2021_10_01_china_the_not_so_golden_week__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThis Friday marks the beginning of the Chinese celebrations of its National Day and the following Golden Week. Contrary to last year, the festivities occur in the shadow of rising challenges for the Chinese economy.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "steel",
+        "chinese",
+        "are",
+        "energy",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 770,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

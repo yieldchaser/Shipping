@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-26_2023_06_26_ob4d1fbja62l66yhamd2r2xv5ttewg__root",
+  "doc_id": "breakwave_insights_insights_2023-06-26_2023_06_26_ob4d1fbja62l66yhamd2r2xv5ttewg",
+  "parent_id": null,
+  "title": "Ob4D1Fbja62L66Yhamd2R2Xv5Ttewg",
+  "section_path": [
+    "Ob4D1Fbja62L66Yhamd2R2Xv5Ttewg"
+  ],
+  "section_path_text": "Ob4D1Fbja62L66Yhamd2R2Xv5Ttewg",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"Dry bulk market and commodities had a mixed reaction to the latest stimulus measures.\"\nBy Michalis Voutsinas\nOne week before the second quarter's curtain fall, Baltic Dry Index concluded today in the green at 1240 points, reporting three-digitpoint weekly gains. By de-composing the general index though, a slightly different picture becomes apparent. It was solely the leading Capesize segment that push the main gauge of activity in the dry bulk spectrum higher.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "india",
+    "japan",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "steel",
+    "percent",
+    "billion"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1082,
+  "source_path": "reports/breakwave/2023/2023-06-26_ob4d1fbja62l66yhamd2r2xv5ttewg.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/26/ob4d1fbja62l66yhamd2r2xv5ttewg",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-26_2023_06_26_ob4d1fbja62l66yhamd2r2xv5ttewg__s01_dry_bulk_market_and_commodities_had_a_mixed_reaction_to_the_latest_stimulus_measures",
+      "doc_id": "breakwave_insights_insights_2023-06-26_2023_06_26_ob4d1fbja62l66yhamd2r2xv5ttewg",
+      "parent_id": "breakwave_insights_insights_2023-06-26_2023_06_26_ob4d1fbja62l66yhamd2r2xv5ttewg__root",
+      "title": "\"Dry bulk market and commodities had a mixed reaction to the latest stimulus measures.\"",
+      "section_path": [
+        "\"Dry bulk market and commodities had a mixed reaction to the latest stimulus measures.\""
+      ],
+      "section_path_text": "\"Dry bulk market and commodities had a mixed reaction to the latest stimulus measures.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nOne week before the second quarter's curtain fall, Baltic Dry Index concluded today in the green at 1240 points, reporting three-digitpoint weekly gains. By de-composing the general index though, a slightly different picture becomes apparent.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "india",
+        "japan",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1066,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

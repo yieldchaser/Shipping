@@ -1,0 +1,226 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__root",
+  "doc_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12",
+  "parent_id": null,
+  "title": "Doric China Barometer Part 12",
+  "section_path": [
+    "Doric China Barometer Part 12"
+  ],
+  "section_path_text": "Doric China Barometer Part 12",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas and Helen Vlassi\n\nMACRO ENVIRONMENT\nChina's industrial output grew by 2.2 percent year-on-year in November, slowing from a 5.0 percent pace seen in previous month and missing expectations for 3.6 percent growth. November's retail sales marked the worst contraction since May, shrinking by 5.9 percent year-on-year, compared to expectations for a 3.7 percent drop. China's State council issued a strategic plan to support domestic demand and stimulate consumption investment until 2035.",
+  "keywords": [
+    "china",
+    "steel",
+    "percent",
+    "november",
+    "year-on-year",
+    "month.",
+    "previous",
+    "power",
+    "billion",
+    "circa",
+    "output",
+    "during"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1125,
+  "source_path": "reports/breakwave/2023/2023-01-05_doric-china-barometer-part-12.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/5/doric-china-barometer-part-12",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12",
+      "parent_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas and Helen Vlassi",
+      "keywords": [
+        "helen",
+        "michalis",
+        "vlassi",
+        "voutsinas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__s02_macro_environment",
+      "doc_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12",
+      "parent_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__root",
+      "title": "MACRO ENVIRONMENT",
+      "section_path": [
+        "MACRO ENVIRONMENT"
+      ],
+      "section_path_text": "MACRO ENVIRONMENT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "China's industrial output grew by 2.2 percent year-on-year in November, slowing from a 5.0 percent pace seen in previous month and missing expectations for 3.6 percent growth. November's retail sales marked the worst contraction since May, shrinking by 5.9 percent year-on-year, compared to expectations for a 3.7 percent drop.",
+      "keywords": [
+        "china",
+        "percent",
+        "november",
+        "billion",
+        "usd",
+        "year-on-year",
+        "previous",
+        "compared"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 202,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__s03_price_environment",
+      "doc_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12",
+      "parent_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__root",
+      "title": "PRICE ENVIRONMENT",
+      "section_path": [
+        "PRICE ENVIRONMENT"
+      ],
+      "section_path_text": "PRICE ENVIRONMENT",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "China's producer-price index slipped to 1.3 percent from a year earlier in November. \\\nChina's factory-gate prices showed an annual drop for a second straight month in November, indicating weak activity and soft demand due to strict pandemicrelated measures.",
+      "keywords": [
+        "china",
+        "percent",
+        "november",
+        "price",
+        "basis",
+        "consumer",
+        "earlier",
+        "its"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__s04_manufacturing_1_2",
+      "doc_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12",
+      "parent_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__root",
+      "title": "MANUFACTURING 1/2",
+      "section_path": [
+        "MANUFACTURING 1/2"
+      ],
+      "section_path_text": "MANUFACTURING 1/2",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "China's production of crude steel shrank by 6.5 percent from a year earlier in November to 74.54 million tonnes, as mills cut output to stem losses. Average daily output in November stood at 2.49 million tonnes, marking its slowest pace since the beginning of the year.",
+      "keywords": [
+        "china",
+        "steel",
+        "percent",
+        "down",
+        "million",
+        "november",
+        "tonnes",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__s05_manufacturing_2_2",
+      "doc_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12",
+      "parent_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__root",
+      "title": "MANUFACTURING 2/2",
+      "section_path": [
+        "MANUFACTURING 2/2"
+      ],
+      "section_path_text": "MANUFACTURING 2/2",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "China's real estate investment dropped by 19.9 percent year-on-year in November, marking its steepest drop since 2000, after a slump of 16.0 percent in previous month. Property sales by floor area dropped by 14.0 percent year-on-year in November, continuing the double-digits fall for the 9 th straight month.",
+      "keywords": [
+        "china",
+        "percent",
+        "added",
+        "increased",
+        "november",
+        "value",
+        "dropped",
+        "month."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 204,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__s06_energy_1_2",
+      "doc_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12",
+      "parent_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__root",
+      "title": "ENERGY 1/2",
+      "section_path": [
+        "ENERGY 1/2"
+      ],
+      "section_path_text": "ENERGY 1/2",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Electricity production in China reached circa 666.7 billion kwh in November, or with a marginal year-on-year increase of 0.1 percent. From January to November, the power generation was 7.6 trillion kwh, up by circa 2.1 percent year-on-year.",
+      "keywords": [
+        "china",
+        "november",
+        "percent",
+        "power",
+        "billion",
+        "kwh",
+        "year-on-year",
+        "circa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__s07_energy_2_2",
+      "doc_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12",
+      "parent_id": "breakwave_insights_insights_2023-01-05_2023_01_05_doric_china_barometer_part_12__root",
+      "title": "ENERGY 2/2",
+      "section_path": [
+        "ENERGY 2/2"
+      ],
+      "section_path_text": "ENERGY 2/2",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Electricity generated from thermal power in China balanced at circa 475.41 terawatthours in the previous month. China ‘s thermal power output increased by 1.4 percent year-on-year in November.",
+      "keywords": [
+        "china",
+        "power",
+        "circa",
+        "during",
+        "month.",
+        "percent",
+        "electricity",
+        "generated"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

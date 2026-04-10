@@ -1,0 +1,314 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nLatest Trends\nTo achieve 2030 national climate goals, 700 low-emission and 400 zero-emission ships will be required in Norway alone, according to Norwegian maritime organizations and the shipping industry. Read More\n\nMacro/Geopolitics,Commodity and Freight Markets\nThe US inflation data for October that was released last week proved to be softer than expected. VLCC earnings have been remarkably strong over the past few months despite the prospect of OPEC+ production cuts which are largely focused on the Middle East.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "china",
+    "grain",
+    "crude_oil",
+    "read",
+    "are",
+    "export",
+    "its",
+    "latest",
+    "chinese",
+    "country"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 403,
+  "source_path": "reports/breakwave/2022/2022-11-20_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/20/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__s02_latest_trends",
+      "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+      "title": "Latest Trends",
+      "section_path": [
+        "Latest Trends"
+      ],
+      "section_path_text": "Latest Trends",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "To achieve 2030 national climate goals, 700 low-emission and 400 zero-emission ships will be required in Norway alone, according to Norwegian maritime organizations and the shipping industry.",
+      "keywords": [
+        "according",
+        "achieve",
+        "alone",
+        "climate",
+        "goals",
+        "industry.",
+        "low-emission",
+        "maritime"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__s03_macro_geopolitics_commodity_and_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+      "title": "Macro/Geopolitics,Commodity and Freight Markets",
+      "section_path": [
+        "Macro/Geopolitics,Commodity and Freight Markets"
+      ],
+      "section_path_text": "Macro/Geopolitics,Commodity and Freight Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The US inflation data for October that was released last week proved to be softer than expected.",
+      "keywords": [
+        "data",
+        "expected.",
+        "inflation",
+        "last",
+        "october",
+        "proved",
+        "read",
+        "released"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__s04_fair_value",
+      "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+      "title": "Fair Value?",
+      "section_path": [
+        "Fair Value?"
+      ],
+      "section_path_text": "Fair Value?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "VLCC earnings have been remarkably strong over the past few months despite the prospect of OPEC+ production cuts which are largely focused on the Middle East.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "are",
+        "cuts",
+        "despite",
+        "earnings",
+        "east.",
+        "few"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__s05_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The third week of November is characterized by a continued weaker trend in freight rates and demand for smaller vessel categories, while there are signs of stronger momentum in Capesize.",
+      "keywords": [
+        "capesize",
+        "are",
+        "capesize.",
+        "categories",
+        "characterized",
+        "continued",
+        "demand",
+        "momentum"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__s06_russia_is_already_having_to_travel_further_to_export_its_crude",
+      "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+      "title": "Russia is already having to travel further to export its crude",
+      "section_path": [
+        "Russia is already having to travel further to export its crude"
+      ],
+      "section_path_text": "Russia is already having to travel further to export its crude",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Russian crude exports are having to travel farther as the country redirects flows to \"friendly\" nations. In this insight, we assess the implications for Russia's shipping logistics, and hence the feasibility of this reshuffle.",
+      "keywords": [
+        "are",
+        "assess",
+        "country",
+        "crude",
+        "exports",
+        "farther",
+        "feasibility",
+        "flows"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 44,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__s07_sentiment_across_markets_was_boosted_by_further_signs_of_easing_inflationary_pressures",
+      "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+      "title": "Sentiment across markets was boosted by further signs of easing inflationary pressures",
+      "section_path": [
+        "Sentiment across markets was boosted by further signs of easing inflationary pressures"
+      ],
+      "section_path_text": "Sentiment across markets was boosted by further signs of easing inflationary pressures",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Commodities gained as the subsequent weaker USD supported investor appetite in the sector.",
+      "keywords": [
+        "appetite",
+        "commodities",
+        "gained",
+        "investor",
+        "read",
+        "sector.",
+        "subsequent",
+        "supported"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 18,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__s08_rising_expectations",
+      "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+      "title": "Rising expectations",
+      "section_path": [
+        "Rising expectations"
+      ],
+      "section_path_text": "Rising expectations",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Despite recent moves by the Chinese authorities to ease some of its Covid policies and provide support for the country's beleaguered property sector, rising infection rates put pressure on the Chinese demand outlook for many commodities.",
+      "keywords": [
+        "china",
+        "chinese",
+        "authorities",
+        "beleaguered",
+        "commodities.",
+        "country",
+        "covid",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 44,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__s09_latest_global_grain_export_forecasts",
+      "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+      "title": "Latest global grain export forecasts",
+      "section_path": [
+        "Latest global grain export forecasts"
+      ],
+      "section_path_text": "Latest global grain export forecasts",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "The United States Department of Agriculture (USDA) recently released their latest global grain export forecast for the 2022/23 season and has again reduced its expectations.",
+      "keywords": [
+        "grain",
+        "again",
+        "agriculture",
+        "department",
+        "expectations.",
+        "export",
+        "forecast",
+        "global"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__s10_cost_of_covid_acceptance",
+      "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+      "title": "Cost of COVID Acceptance",
+      "section_path": [
+        "Cost of COVID Acceptance"
+      ],
+      "section_path_text": "Cost of COVID Acceptance",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "The world has moved on from the coronavirus pandemic - except for China.",
+      "keywords": [
+        "china",
+        "china.",
+        "coronavirus",
+        "except",
+        "moved",
+        "pandemic",
+        "read",
+        "world"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__s11_electric_currents",
+      "doc_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-11-20_2022_11_20_weekly_insights_review__root",
+      "title": "Electric Currents",
+      "section_path": [
+        "Electric Currents"
+      ],
+      "section_path_text": "Electric Currents",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Electric vehicles (EVs) can rightfully claim to be a leading technology to reduce emissions.",
+      "keywords": [
+        "can",
+        "claim",
+        "electric",
+        "emissions.",
+        "evs",
+        "leading",
+        "read",
+        "reduce"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

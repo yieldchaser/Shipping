@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-10-20_2021_10_20_weekly_dry_time_charter_estimates_october_20_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-10-20_2021_10_20_weekly_dry_time_charter_estimates_october_20_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, October 20 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, October 20 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, October 20 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAfter a period of gains, momentum in the capesize market decreased slightly and as such rates received a slight correction to an average of $51,000/pdpr for six month periods. Kamsarmax/panamax period rates moved up this week with talk of cargo splits as demand improved for this sector, rates were still comparatively more competitive than for their larger counterparts. Rates for the smaller sizes strengthened this week thanks to strong support in the Atlantic.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "atlantic",
+    "period",
+    "after",
+    "atlantic.",
+    "average",
+    "cargo",
+    "comparatively",
+    "competitive",
+    "correction",
+    "counterparts."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 125,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-10-20_weekly-dry-time-charter-estimates-october-20-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-october-20-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-10-20_2021_10_20_weekly_dry_time_charter_estimates_october_20_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-10-20_2021_10_20_weekly_dry_time_charter_estimates_october_20_2021",
+      "parent_id": "hellenic_dry_charter_2021-10-20_2021_10_20_weekly_dry_time_charter_estimates_october_20_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After a period of gains, momentum in the capesize market decreased slightly and as such rates received a slight correction to an average of $51,000/pdpr for six month periods. Kamsarmax/panamax period rates moved up this week with talk of cargo splits as demand improved for this sector, rates were still comparatively more competitive than for their larger counterparts.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "atlantic",
+        "period",
+        "after",
+        "atlantic.",
+        "average",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 123,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

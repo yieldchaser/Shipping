@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_tanker_charter_2021-11-10_2021_11_10_weekly_tanker_time_charter_estimates_november_10_2021__root",
+  "doc_id": "hellenic_tanker_charter_2021-11-10_2021_11_10_weekly_tanker_time_charter_estimates_november_10_2021",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, November 10 2021",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, November 10 2021"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, November 10 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThere seems to be slightly more interest in the crude sector this week and sentiment is growing that we are at the beginning of an upwards period. A handful of short-term VLCC period fixtures were reported and rates moved higher with the one-year average for VLCCs up $1,000 to an estimated $22,500/pdpr. On the clean side, there has been little to report in the way of fixtures although rates for MRs increased slightly across all periods with one-year periods now approximately $12,250/pdpr.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "crude",
+    "fixtures",
+    "oil",
+    "one-year",
+    "pdpr.",
+    "periods",
+    "reported",
+    "slightly",
+    "all",
+    "although"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 176,
+  "source_path": "reports/hellenic/tanker_charter/2021/2021-11-10_weekly-tanker-time-charter-estimates-november-10-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-november-10-2021",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2021-11-10_2021_11_10_weekly_tanker_time_charter_estimates_november_10_2021__s01_main",
+      "doc_id": "hellenic_tanker_charter_2021-11-10_2021_11_10_weekly_tanker_time_charter_estimates_november_10_2021",
+      "parent_id": "hellenic_tanker_charter_2021-11-10_2021_11_10_weekly_tanker_time_charter_estimates_november_10_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "There seems to be slightly more interest in the crude sector this week and sentiment is growing that we are at the beginning of an upwards period. A handful of short-term VLCC period fixtures were reported and rates moved higher with the one-year average for VLCCs up $1,000 to an estimated $22,500/pdpr.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "crude",
+        "fixtures",
+        "oil",
+        "one-year",
+        "pdpr.",
+        "periods"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

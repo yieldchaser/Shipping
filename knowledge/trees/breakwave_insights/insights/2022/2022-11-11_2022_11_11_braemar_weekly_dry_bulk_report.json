@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-11_2022_11_11_braemar_weekly_dry_bulk_report__root",
+  "doc_id": "breakwave_insights_insights_2022-11-11_2022_11_11_braemar_weekly_dry_bulk_report",
+  "parent_id": null,
+  "title": "Braemar Weekly Dry Bulk Report",
+  "section_path": [
+    "Braemar Weekly Dry Bulk Report"
+  ],
+  "section_path_text": "Braemar Weekly Dry Bulk Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Mark Nugent\nGrowth slowing across all sectors\nVessel ordering in the dry bulk market has maintained its subdued nature throughout the year as freight rates have weakened and uncertainty over future regulation persists. We go through our latest supply-side forecast . 2022 setting the tone\nOrdering this year has naturally slowed down as the freight market softened throughout the year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "lng",
+    "container",
+    "china",
+    "crude_oil",
+    "products",
+    "gas",
+    "year",
+    "ordering",
+    "expect"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1144,
+  "source_path": "reports/breakwave/2022/2022-11-11_braemar-weekly-dry-bulk-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/11/braemar-weekly-dry-bulk-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-11_2022_11_11_braemar_weekly_dry_bulk_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-11_2022_11_11_braemar_weekly_dry_bulk_report",
+      "parent_id": "breakwave_insights_insights_2022-11-11_2022_11_11_braemar_weekly_dry_bulk_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Mark Nugent\nGrowth slowing across all sectors\nVessel ordering in the dry bulk market has maintained its subdued nature throughout the year as freight rates have weakened and uncertainty over future regulation persists. We go through our latest supply-side forecast .",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "lng",
+        "container",
+        "china",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1142,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-15_2023_06_15_china_continues_to_diverge_away_from_a_consumer_collapse_in__root",
+  "doc_id": "breakwave_insights_insights_2023-06-15_2023_06_15_china_continues_to_diverge_away_from_a_consumer_collapse_in",
+  "parent_id": null,
+  "title": "China Continues To Diverge Away From A Consumer Collapse In The Us And Various Other Nations 1",
+  "section_path": [
+    "China Continues To Diverge Away From A Consumer Collapse In The Us And Various Other Nations 1"
+  ],
+  "section_path_text": "China Continues To Diverge Away From A Consumer Collapse In The Us And Various Other Nations 1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWhile China's retail sales data at the time of writing is still pending for May, of note is that inflation in May grew year-on-year by only 0.2%. This is close to April's 0.1% growth (which marked the lowest inflation seen since February 2021), and it is all but guaranteed that China's retail sales growth again exceeded inflation last month. Overall, it remains very significant that the last four months of 2022 all saw inflation in China exceed retail sales growth (even during the months where there were no new coronavirus surges or restrictions), and that retail sales growth this year has shifted and exceeded inflation throughout the year.",
+  "keywords": [
+    "china",
+    "inflation",
+    "remains",
+    "growth",
+    "retail",
+    "sales",
+    "year",
+    "are",
+    "consumer",
+    "industrial",
+    "months",
+    "much"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 380,
+  "source_path": "reports/breakwave/2023/2023-06-15_china-continues-to-diverge-away-from-a-consumer-collapse-in.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/15/china-continues-to-diverge-away-from-a-consumer-collapse-in-the-us-and-various-other-nations-1",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-15_2023_06_15_china_continues_to_diverge_away_from_a_consumer_collapse_in__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-15_2023_06_15_china_continues_to_diverge_away_from_a_consumer_collapse_in",
+      "parent_id": "breakwave_insights_insights_2023-06-15_2023_06_15_china_continues_to_diverge_away_from_a_consumer_collapse_in__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "While China's retail sales data at the time of writing is still pending for May, of note is that inflation in May grew year-on-year by only 0.2%. This is close to April's 0.1% growth (which marked the lowest inflation seen since February 2021), and it is all but guaranteed that China's retail sales growth again exceeded inflation last month.",
+      "keywords": [
+        "china",
+        "inflation",
+        "remains",
+        "growth",
+        "retail",
+        "sales",
+        "year",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 378,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

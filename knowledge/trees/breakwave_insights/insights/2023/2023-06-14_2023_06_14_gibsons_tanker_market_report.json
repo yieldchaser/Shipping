@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-14_2023_06_14_gibsons_tanker_market_report__root",
+  "doc_id": "breakwave_insights_insights_2023-06-14_2023_06_14_gibsons_tanker_market_report",
+  "parent_id": null,
+  "title": "Gibsons Tanker Market Report",
+  "section_path": [
+    "Gibsons Tanker Market Report"
+  ],
+  "section_path_text": "Gibsons Tanker Market Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "A Need for Renewal\nAgainst the backdrop of escalating environmental pressure and a political focus on developing renewable energy in recent years, we also see increasing warnings from oil producers and industry veterans that significant new investment in global upstream oil and gas development is needed by 2030 to meet market needs and to prevent a supply shortfall, even if demand growth slows toward a plateau in the longer term. For those in the tanker market, a similar trend has been in the making. The tanker fleet is ageing fast, ironically \"helped\" by virtually non-existing demolition over the past 12 months on the back of a dramatic improvement in tanker earnings and the gradual exit of predominantly ageing tankers into the dark fleet, destined to trade almost solely Russian barrels.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "suezmax",
+    "aframax",
+    "lng",
+    "crude_oil",
+    "gas",
+    "demand",
+    "orders",
+    "oil",
+    "russian",
+    "vessels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 723,
+  "source_path": "reports/breakwave/2023/2023-06-14_gibsons-tanker-market-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/14/gibsons-tanker-market-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-14_2023_06_14_gibsons_tanker_market_report__s01_a_need_for_renewal",
+      "doc_id": "breakwave_insights_insights_2023-06-14_2023_06_14_gibsons_tanker_market_report",
+      "parent_id": "breakwave_insights_insights_2023-06-14_2023_06_14_gibsons_tanker_market_report__root",
+      "title": "A Need for Renewal",
+      "section_path": [
+        "A Need for Renewal"
+      ],
+      "section_path_text": "A Need for Renewal",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Against the backdrop of escalating environmental pressure and a political focus on developing renewable energy in recent years, we also see increasing warnings from oil producers and industry veterans that significant new investment in global upstream oil and gas development is needed by 2030 to meet market needs and to prevent a supply shortfall, even if demand growth slows toward a plateau in the longer term. For those in the tanker market, a similar trend has been in the making.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "suezmax",
+        "aframax",
+        "lng",
+        "crude_oil",
+        "gas",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 717,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

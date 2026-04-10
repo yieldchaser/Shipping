@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-18_2022_02_18_brs_dry_bulk_weekly_newsletter__root",
+  "doc_id": "breakwave_insights_insights_2022-02-18_2022_02_18_brs_dry_bulk_weekly_newsletter",
+  "parent_id": null,
+  "title": "Brs Dry Bulk Weekly Newsletter",
+  "section_path": [
+    "Brs Dry Bulk Weekly Newsletter"
+  ],
+  "section_path_text": "Brs Dry Bulk Weekly Newsletter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis year has started with bang as a sustained rally in oil prices has propelled marine fuel prices to their highest levels since 1 January 2020, when the majority of the world's fleet switched to lower sulphur fuel. This week, we present our outlook for crude and marine fuel prices and discuss whether higher marine fuel prices, and wider spreads between low sulphur and high sulphur fuels, are here to stay. Crude prices hit eight-year highs\nCrude prices have surged to eight-year highs since the start of the year after being stoked by a combination of a relatively tight physical crude market, oil inventories in several major consumer languishing at low levels, tightening global middle distillates markets and simmering geopolitical tensions between Ukraine and Russia so that front month ICE Brent and NYMEX WTI are currently oscillating around $93/bbl and $91/bbl, respectively.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "brazil",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "prices",
+    "crude",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1412,
+  "source_path": "reports/breakwave/2022/2022-02-18_brs-dry-bulk-weekly-newsletter.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/18/brs-dry-bulk-weekly-newsletter",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-18_2022_02_18_brs_dry_bulk_weekly_newsletter__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-18_2022_02_18_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2022-02-18_2022_02_18_brs_dry_bulk_weekly_newsletter__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This year has started with bang as a sustained rally in oil prices has propelled marine fuel prices to their highest levels since 1 January 2020, when the majority of the world's fleet switched to lower sulphur fuel. This week, we present our outlook for crude and marine fuel prices and discuss whether higher marine fuel prices, and wider spreads between low sulphur and high sulphur fuels, are here to stay.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "brazil",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1410,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

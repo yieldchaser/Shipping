@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-09-15_2023_09_15_mmi_daily_iron_ore_index_report_september_15_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-09-15_2023_09_15_mmi_daily_iron_ore_index_report_september_15_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 15 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 15 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 15 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 15/09/2023\nCE I2401 iron ore contract closed up 2.33% at 879 yuan/mt today. Traders were motivated to ship goods and iron ore quotations were firm.The waitand-see sentiment among steel mills intensified, and the overall transaction atmosphere was sluggish. PBF at Shandong port dealt 943-947 yuan/mt; increased 8-12 yuan/mt over yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "iron",
+    "yuan/mt",
+    "increased",
+    "million",
+    "was",
+    "cargo",
+    "dealt",
+    "high"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 349,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-09-15_mmi-daily-iron-ore-index-report-september-15-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-15-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-09-15_2023_09_15_mmi_daily_iron_ore_index_report_september_15_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-09-15_2023_09_15_mmi_daily_iron_ore_index_report_september_15_2023",
+      "parent_id": "hellenic_iron_ore_2023-09-15_2023_09_15_mmi_daily_iron_ore_index_report_september_15_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 15/09/2023\nCE I2401 iron ore contract closed up 2.33% at 879 yuan/mt today. Traders were motivated to ship goods and iron ore quotations were firm.The waitand-see sentiment among steel mills intensified, and the overall transaction atmosphere was sluggish.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "iron",
+        "yuan/mt",
+        "increased",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 347,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-08-27_2021_08_27_mmi_daily_iron_ore_index_report_august_27_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-08-27_2021_08_27_mmi_daily_iron_ore_index_report_august_27_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 27 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 27 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 27 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 27/08/2021\nAs of August 27, iron ore inventories across 35 ports tracked by SMM totalled 121.46 million mt, up 1.12 million mt from a week ago and 14.18million mt from a year ago. Daily average deliveries from the 35 ports increased 26,000 mt on a weekly basis to 2.70 million mt last week. Prices of imported ore stopped falling and stabilised.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "port",
+    "yuan/mt",
+    "increased",
+    "iron",
+    "million",
+    "ports",
+    "inventory",
+    "mills"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 365,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-08-27_mmi-daily-iron-ore-index-report-august-27-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-27-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-08-27_2021_08_27_mmi_daily_iron_ore_index_report_august_27_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-08-27_2021_08_27_mmi_daily_iron_ore_index_report_august_27_2021",
+      "parent_id": "hellenic_iron_ore_2021-08-27_2021_08_27_mmi_daily_iron_ore_index_report_august_27_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 27/08/2021\nAs of August 27, iron ore inventories across 35 ports tracked by SMM totalled 121.46 million mt, up 1.12 million mt from a week ago and 14.18million mt from a year ago. Daily average deliveries from the 35 ports increased 26,000 mt on a weekly basis to 2.70 million mt last week.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "port",
+        "yuan/mt",
+        "increased",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 363,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

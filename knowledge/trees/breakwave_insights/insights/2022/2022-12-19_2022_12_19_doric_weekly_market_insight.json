@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-19_2022_12_19_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2022-12-19_2022_12_19_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nFew trading days are left before the final curtain and the Baltic Dry Indices are still in search for at least one great victory in the fourth quarter. Setting aside some strong daily gains in the Capesize segment every now and then and a modest mid-November positive Panamax reaction, the tone of the market during this final quarter has been rather soft. The aforementioned trend became apparent especially in the geared segments, with both BSI TCA and BHSI TCA losing more than five thousand dollars quarter to date.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "europe",
+    "crude_oil",
+    "gas",
+    "trade",
+    "global",
+    "are",
+    "quarter",
+    "expected",
+    "prices",
+    "value"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 710,
+  "source_path": "reports/breakwave/2022/2022-12-19_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/19/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-19_2022_12_19_doric_weekly_market_insight__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-19_2022_12_19_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2022-12-19_2022_12_19_doric_weekly_market_insight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nFew trading days are left before the final curtain and the Baltic Dry Indices are still in search for at least one great victory in the fourth quarter. Setting aside some strong daily gains in the Capesize segment every now and then and a modest mid-November positive Panamax reaction, the tone of the market during this final quarter has been rather soft.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "europe",
+        "crude_oil",
+        "gas",
+        "trade",
+        "global",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 708,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

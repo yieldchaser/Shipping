@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-10_2024_01_10_signal_dru_bulk_annual_review__root",
+  "doc_id": "breakwave_insights_insights_2024-01-10_2024_01_10_signal_dru_bulk_annual_review",
+  "parent_id": null,
+  "title": "Signal Dru Bulk Annual Review",
+  "section_path": [
+    "Signal Dru Bulk Annual Review"
+  ],
+  "section_path_text": "Signal Dru Bulk Annual Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe year 2023 witnessed significant shifts in commodity patterns, exacerbated by a difficult economic environment in China and geopolitical tensions, especially between Russia and Ukraine, which led to significant shifts in commodity development. The Chinese economic environment in 2023 posed a challenge, which had a particular impact on iron ore prices and demand for raw materials. The slowdown in Chinese economic growth and strict regulatory requirements impacted infrastructure and construction activity and dampened demand for iron ore.",
+  "keywords": [
+    "china",
+    "brazil",
+    "india",
+    "japan",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "demand",
+    "chinese",
+    "global",
+    "between"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 665,
+  "source_path": "reports/breakwave/2024/2024-01-10_signal-dru-bulk-annual-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/10/signal-dru-bulk-annual-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-10_2024_01_10_signal_dru_bulk_annual_review__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-10_2024_01_10_signal_dru_bulk_annual_review",
+      "parent_id": "breakwave_insights_insights_2024-01-10_2024_01_10_signal_dru_bulk_annual_review__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The year 2023 witnessed significant shifts in commodity patterns, exacerbated by a difficult economic environment in China and geopolitical tensions, especially between Russia and Ukraine, which led to significant shifts in commodity development. The Chinese economic environment in 2023 posed a challenge, which had a particular impact on iron ore prices and demand for raw materials.",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "japan",
+        "iron_ore",
+        "coal",
+        "grain",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 663,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

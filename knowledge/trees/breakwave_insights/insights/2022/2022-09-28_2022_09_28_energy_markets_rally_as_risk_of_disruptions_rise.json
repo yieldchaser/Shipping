@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_energy_markets_rally_as_risk_of_disruptions_rise__root",
+  "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_energy_markets_rally_as_risk_of_disruptions_rise",
+  "parent_id": null,
+  "title": "Energy Markets Rally As Risk Of Disruptions Rise",
+  "section_path": [
+    "Energy Markets Rally As Risk Of Disruptions Rise"
+  ],
+  "section_path_text": "Energy Markets Rally As Risk Of Disruptions Rise",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nAn escalation in Europe's energy crisis saw commodity markets gain as the focus returned to supply side issues. Some relief from selling was also found from a halt to the recent rally in the USD. European natural gas rallied as risks to further supply disruptions rattled an already fragile market.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "us_gulf",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "after",
+    "already",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 722,
+  "source_path": "reports/breakwave/2022/2022-09-28_energy-markets-rally-as-risk-of-disruptions-rise.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/28/energy-markets-rally-as-risk-of-disruptions-rise",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-28_2022_09_28_energy_markets_rally_as_risk_of_disruptions_rise__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-28_2022_09_28_energy_markets_rally_as_risk_of_disruptions_rise",
+      "parent_id": "breakwave_insights_insights_2022-09-28_2022_09_28_energy_markets_rally_as_risk_of_disruptions_rise__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nAn escalation in Europe's energy crisis saw commodity markets gain as the focus returned to supply side issues. Some relief from selling was also found from a halt to the recent rally in the USD.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "us_gulf",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 720,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

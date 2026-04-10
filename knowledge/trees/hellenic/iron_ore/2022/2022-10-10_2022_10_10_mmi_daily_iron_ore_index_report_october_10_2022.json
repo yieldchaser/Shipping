@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-10-10_2022_10_10_mmi_daily_iron_ore_index_report_october_10_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-10-10_2022_10_10_mmi_daily_iron_ore_index_report_october_10_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report October 10 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report October 10 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report October 10 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 10/10/2022\nDCE iron ore futures rose by 2.21% today, the main contract closed 739.5.More transactions in the market.PBF at Shandong port dealt 763-768 yuan/mt, increase 3-13yuan/mt;PBF at Tangshan port dealt 775 yuan/mt ;increase 5 yuan/mt. According to SMM statistics, the global iron ore shipments this week totaled 30.47 million tons, down 4.6% month on month. Among them, 13.27 million tons were sent from Australia to China, a decrease of 17% month on month; Brazil sent 3.42 million tons to China, down 8.3% month on month.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "iron",
+    "month",
+    "ore",
+    "after",
+    "demand",
+    "million",
+    "plant"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 352,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-10-10_mmi-daily-iron-ore-index-report-october-10-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-10-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-10-10_2022_10_10_mmi_daily_iron_ore_index_report_october_10_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-10-10_2022_10_10_mmi_daily_iron_ore_index_report_october_10_2022",
+      "parent_id": "hellenic_iron_ore_2022-10-10_2022_10_10_mmi_daily_iron_ore_index_report_october_10_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 10/10/2022\nDCE iron ore futures rose by 2.21% today, the main contract closed 739.5.More transactions in the market.PBF at Shandong port dealt 763-768 yuan/mt, increase 3-13yuan/mt;PBF at Tangshan port dealt 775 yuan/mt ;increase 5 yuan/mt. According to SMM statistics, the global iron ore shipments this week totaled 30.47 million tons, down 4.6% month on month.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "iron",
+        "month",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 350,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-07_2021_04_07_z1m5fi0p0bpmi2etcyebwf28932cdt__root",
+  "doc_id": "breakwave_insights_insights_2021-04-07_2021_04_07_z1m5fi0p0bpmi2etcyebwf28932cdt",
+  "parent_id": null,
+  "title": "Z1M5Fi0P0Bpmi2Etcyebwf28932Cdt",
+  "section_path": [
+    "Z1M5Fi0P0Bpmi2Etcyebwf28932Cdt"
+  ],
+  "section_path_text": "Z1M5Fi0P0Bpmi2Etcyebwf28932Cdt",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nOnce again, shipping is capturing the attention of the broader media, as rates for both dry bulk and containers have surged in recent months and now is showing up on the price of goods across the globe. The Suez Canal incident also added fuel to the fire and brought the shipping market in the frontpage of newspapers globally, although the actual impact ended up minimal given the nature of the disruption, as we have also highlighted in the past few weeks. Bloomberg is out with an article this morning, underscoring all the above and setting the facts straight, while in addition painting a bullish picture for dry bulk for the rest of the year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "handysize",
+    "container",
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "are",
+    "all"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 941,
+  "source_path": "reports/breakwave/2021/2021-04-07_z1m5fi0p0bpmi2etcyebwf28932cdt.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/7/z1m5fi0p0bpmi2etcyebwf28932cdt",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-07_2021_04_07_z1m5fi0p0bpmi2etcyebwf28932cdt__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-07_2021_04_07_z1m5fi0p0bpmi2etcyebwf28932cdt",
+      "parent_id": "breakwave_insights_insights_2021-04-07_2021_04_07_z1m5fi0p0bpmi2etcyebwf28932cdt__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Once again, shipping is capturing the attention of the broader media, as rates for both dry bulk and containers have surged in recent months and now is showing up on the price of goods across the globe. The Suez Canal incident also added fuel to the fire and brought the shipping market in the frontpage of newspapers globally, although the actual impact ended up minimal given the nature of the disruption, as we have also highlighted in the past few weeks.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "container",
+        "china",
+        "brazil",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 939,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

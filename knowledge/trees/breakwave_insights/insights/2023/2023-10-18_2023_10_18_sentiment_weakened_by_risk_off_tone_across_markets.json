@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-10-18_2023_10_18_sentiment_weakened_by_risk_off_tone_across_markets__root",
+  "doc_id": "breakwave_insights_insights_2023-10-18_2023_10_18_sentiment_weakened_by_risk_off_tone_across_markets",
+  "parent_id": null,
+  "title": "Sentiment Weakened By Risk Off Tone Across Markets",
+  "section_path": [
+    "Sentiment Weakened By Risk Off Tone Across Markets"
+  ],
+  "section_path_text": "Sentiment Weakened By Risk Off Tone Across Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nA risk off tone across markets weighed on sentiment amid concerns of tight monetary policy and darkening geopolitical backdrop. Crude oil prices traded in a tight range as the market weighed up diplomatic efforts in the Middle East against the broader impact of geopolitical tensions on oil supply. The White House confirmed that President Joe Biden will travel to Israel this week in an effort to prevent a regional outbreak of the Israel-Hamas war.",
+  "keywords": [
+    "lng",
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "amid",
+    "demand",
+    "prices",
+    "both",
+    "comes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 573,
+  "source_path": "reports/breakwave/2023/2023-10-18_sentiment-weakened-by-risk-off-tone-across-markets.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/10/18/sentiment-weakened-by-risk-off-tone-across-markets",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-10-18_2023_10_18_sentiment_weakened_by_risk_off_tone_across_markets__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-10-18_2023_10_18_sentiment_weakened_by_risk_off_tone_across_markets",
+      "parent_id": "breakwave_insights_insights_2023-10-18_2023_10_18_sentiment_weakened_by_risk_off_tone_across_markets__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nA risk off tone across markets weighed on sentiment amid concerns of tight monetary policy and darkening geopolitical backdrop. Crude oil prices traded in a tight range as the market weighed up diplomatic efforts in the Middle East against the broader impact of geopolitical tensions on oil supply.",
+      "keywords": [
+        "lng",
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "crude_oil",
+        "gas",
+        "amid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 571,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-01_2022_07_01_oil_falls_as_focus_returns_to_economic_slowdown__root",
+  "doc_id": "breakwave_insights_insights_2022-07-01_2022_07_01_oil_falls_as_focus_returns_to_economic_slowdown",
+  "parent_id": null,
+  "title": "Oil Falls As Focus Returns To Economic Slowdown",
+  "section_path": [
+    "Oil Falls As Focus Returns To Economic Slowdown"
+  ],
+  "section_path_text": "Oil Falls As Focus Returns To Economic Slowdown",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nFurther weak economic data saw fears of an economic slowdown weighing on sentiment in commodity markets. A stronger USD also impacted investor appetite. Crude oil extended losses after US consumer spending fell in May for the first time this year.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "demand",
+    "economic",
+    "after"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 737,
+  "source_path": "reports/breakwave/2022/2022-07-01_oil-falls-as-focus-returns-to-economic-slowdown.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/1/oil-falls-as-focus-returns-to-economic-slowdown",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-01_2022_07_01_oil_falls_as_focus_returns_to_economic_slowdown__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-01_2022_07_01_oil_falls_as_focus_returns_to_economic_slowdown",
+      "parent_id": "breakwave_insights_insights_2022-07-01_2022_07_01_oil_falls_as_focus_returns_to_economic_slowdown__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nFurther weak economic data saw fears of an economic slowdown weighing on sentiment in commodity markets. A stronger USD also impacted investor appetite.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 735,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

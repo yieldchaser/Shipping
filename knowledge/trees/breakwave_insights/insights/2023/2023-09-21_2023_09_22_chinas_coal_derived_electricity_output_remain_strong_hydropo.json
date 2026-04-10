@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-21_2023_09_22_chinas_coal_derived_electricity_output_remain_strong_hydropo__root",
+  "doc_id": "breakwave_insights_insights_2023-09-21_2023_09_22_chinas_coal_derived_electricity_output_remain_strong_hydropo",
+  "parent_id": null,
+  "title": "Chinas Coal Derived Electricity Output Remain Strong Hydropower Output Has Returned To Finding Growth",
+  "section_path": [
+    "Chinas Coal Derived Electricity Output Remain Strong Hydropower Output Has Returned To Finding Growth"
+  ],
+  "section_path_text": "Chinas Coal Derived Electricity Output Remain Strong Hydropower Output Has Returned To Finding Growth",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina produced 382.2 million tons of coal in August. This has marked a month-on-month increase of 4.7 million tons (1%) and is up year-on-year by 11.8 million tons (3%). As we have been stressing in our Weekly Dry Bulk Reports and Weekly China Reports, China's central government last year shifted to no longer focusing on improving mine safety and instead focusing on ensuring strong coal production.",
+  "keywords": [
+    "china",
+    "coal",
+    "billion",
+    "electricity",
+    "kilowatt",
+    "coal-derived",
+    "generation",
+    "growth",
+    "hours",
+    "production",
+    "year-on-year",
+    "hydropower"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 329,
+  "source_path": "reports/breakwave/2023/2023-09-22_chinas-coal-derived-electricity-output-remain-strong-hydropo.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/21/chinas-coal-derived-electricity-output-remain-strong-hydropower-output-has-returned-to-finding-growth",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-21_2023_09_22_chinas_coal_derived_electricity_output_remain_strong_hydropo__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-21_2023_09_22_chinas_coal_derived_electricity_output_remain_strong_hydropo",
+      "parent_id": "breakwave_insights_insights_2023-09-21_2023_09_22_chinas_coal_derived_electricity_output_remain_strong_hydropo__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina produced 382.2 million tons of coal in August. This has marked a month-on-month increase of 4.7 million tons (1%) and is up year-on-year by 11.8 million tons (3%).",
+      "keywords": [
+        "china",
+        "coal",
+        "billion",
+        "electricity",
+        "kilowatt",
+        "coal-derived",
+        "generation",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 327,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

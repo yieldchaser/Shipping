@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-02_2022_08_02_w459zdcm4w7tj4oj32fgw4yppsm97i__root",
+  "doc_id": "breakwave_insights_insights_2022-08-02_2022_08_02_w459zdcm4w7tj4oj32fgw4yppsm97i",
+  "parent_id": null,
+  "title": "W459Zdcm4W7Tj4Oj32Fgw4Yppsm97I",
+  "section_path": [
+    "W459Zdcm4W7Tj4Oj32Fgw4Yppsm97I"
+  ],
+  "section_path_text": "W459Zdcm4W7Tj4Oj32Fgw4Yppsm97I",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nMacro/Geopolitics\nYesterday's release of US PMI data for the country's manufacturing sector provided some evidence that the path to a recession is not a straight line and, indeed, not a foregone conclusion. While the data point towards a slowdown in US industrial production, the reading was higher than widely expected. Markets had been expecting the indicator to fall to 52 from 53 in June, but the actual reading only retreated marginally to 52.8 and remained in the expansionary territory with a margin.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "pacific",
+    "meg",
+    "europe",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1119,
+  "source_path": "reports/breakwave/2022/2022-08-02_w459zdcm4w7tj4oj32fgw4yppsm97i.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/2/w459zdcm4w7tj4oj32fgw4yppsm97i",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-02_2022_08_02_w459zdcm4w7tj4oj32fgw4yppsm97i__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-08-02_2022_08_02_w459zdcm4w7tj4oj32fgw4yppsm97i",
+      "parent_id": "breakwave_insights_insights_2022-08-02_2022_08_02_w459zdcm4w7tj4oj32fgw4yppsm97i__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nMacro/Geopolitics\nYesterday's release of US PMI data for the country's manufacturing sector provided some evidence that the path to a recession is not a straight line and, indeed, not a foregone conclusion. While the data point towards a slowdown in US industrial production, the reading was higher than widely expected.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1117,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

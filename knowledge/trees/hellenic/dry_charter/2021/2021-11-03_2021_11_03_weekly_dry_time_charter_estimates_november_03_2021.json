@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-11-03_2021_11_03_weekly_dry_time_charter_estimates_november_03_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-11-03_2021_11_03_weekly_dry_time_charter_estimates_november_03_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, November 03 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, November 03 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, November 03 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe capesize market continued to fall alongside a plunging FFA market, that did nothing to improve sentiment overall as fearsover Chinese steel production and a slowdown in Iron ore production from Brazil put pressure on this sector. The downward trend also filtered through into the sub-cape sectors as rates for the Kamsarmax/panamax sector took a dip this week. The average period rate for one-year is currently estimated as $27,625/pdpr across both basins.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "iron_ore",
+    "steel",
+    "overall",
+    "production",
+    "sentiment",
+    "alongside",
+    "average",
+    "basins."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 151,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-11-03_weekly-dry-time-charter-estimates-november-03-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-november-03-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-11-03_2021_11_03_weekly_dry_time_charter_estimates_november_03_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-11-03_2021_11_03_weekly_dry_time_charter_estimates_november_03_2021",
+      "parent_id": "hellenic_dry_charter_2021-11-03_2021_11_03_weekly_dry_time_charter_estimates_november_03_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The capesize market continued to fall alongside a plunging FFA market, that did nothing to improve sentiment overall as fearsover Chinese steel production and a slowdown in Iron ore production from Brazil put pressure on this sector. The downward trend also filtered through into the sub-cape sectors as rates for the Kamsarmax/panamax sector took a dip this week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "iron_ore",
+        "steel",
+        "overall",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

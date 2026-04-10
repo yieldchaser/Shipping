@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-04-16_2022_04_16_q1_2022_tonne_mile_review__root",
+  "doc_id": "breakwave_insights_insights_2022-04-16_2022_04_16_q1_2022_tonne_mile_review",
+  "parent_id": null,
+  "title": "Q1 2022 Tonne Mile Review",
+  "section_path": [
+    "Q1 2022 Tonne Mile Review"
+  ],
+  "section_path_text": "Q1 2022 Tonne Mile Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Dylan Simpson\nAs we move into the second quarter of this year, we analyse the effects of recent developments on the tonne-mile demand of crude and clean tanker fleets. Individual crude tanker classes are indicating a tonne-mile trend reversal, as well as clean LR tankers, while MRs have shown signs of continued strength in the months ahead. Crude: VLCC tonne-miles prevail, but trade shifts mean a reversal is on the cards\nGlobal crude exports have held at a similar level to last quarter, with a decrease of less than 0.5mbd q-o-q.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "tonne-miles"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1086,
+  "source_path": "reports/breakwave/2022/2022-04-16_q1-2022-tonne-mile-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/4/16/q1-2022-tonne-mile-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-04-16_2022_04_16_q1_2022_tonne_mile_review__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-04-16_2022_04_16_q1_2022_tonne_mile_review",
+      "parent_id": "breakwave_insights_insights_2022-04-16_2022_04_16_q1_2022_tonne_mile_review__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Dylan Simpson\nAs we move into the second quarter of this year, we analyse the effects of recent developments on the tonne-mile demand of crude and clean tanker fleets. Individual crude tanker classes are indicating a tonne-mile trend reversal, as well as clean LR tankers, while MRs have shown signs of continued strength in the months ahead.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1084,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

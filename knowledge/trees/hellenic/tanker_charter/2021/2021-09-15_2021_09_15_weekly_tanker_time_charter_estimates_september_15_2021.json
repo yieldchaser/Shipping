@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_tanker_charter_2021-09-15_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021__root",
+  "doc_id": "hellenic_tanker_charter_2021-09-15_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, September 15 2021",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, September 15 2021"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, September 15 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA few short-term period fixtures reported in the crude sector this week and this has given the market a slight sense of optimism. Little fresh business to report on the clean side this week with rate levels so low and some owners prepared to wait, ever optimistic about some form of recovery in Q4. Oil prices have climbed mid-week as industry data shows a larger than expected drawdown in US crude inventories and growing expectations that demand levels will rise once again as the vaccination program broadens.",
+  "keywords": [
+    "crude_oil",
+    "crude",
+    "levels",
+    "again",
+    "broadens.",
+    "business",
+    "clean",
+    "climbed",
+    "data",
+    "demand",
+    "drawdown",
+    "ever"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 130,
+  "source_path": "reports/hellenic/tanker_charter/2021/2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-september-15-2021",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2021-09-15_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021__s01_main",
+      "doc_id": "hellenic_tanker_charter_2021-09-15_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021",
+      "parent_id": "hellenic_tanker_charter_2021-09-15_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A few short-term period fixtures reported in the crude sector this week and this has given the market a slight sense of optimism. Little fresh business to report on the clean side this week with rate levels so low and some owners prepared to wait, ever optimistic about some form of recovery in Q4.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "levels",
+        "again",
+        "broadens.",
+        "business",
+        "clean",
+        "climbed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 128,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

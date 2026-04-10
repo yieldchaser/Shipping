@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-10-12_2022_10_12_mmi_daily_iron_ore_index_report_october_12_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-10-12_2022_10_12_mmi_daily_iron_ore_index_report_october_12_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report October 12 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report October 12 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report October 12 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 12/10/2022\nDCE iron ore futures declined by 2.12% today, the main contract closed 714.5.General transactions in the market.PBF at Shandong port dealt738-755 yuan/mt, decrease 10-17 yuan/mt;PBF at Tangshan port dealt 748-755 yuan/mt ;decrease 10-20 yuan/mt. On the macro level, based on the current domestic and international economic environment, the market has certain expectations for important national conferences. In terms of supply, Australia and Brazil are about to enter the rainy season, which may lead to a reduction in shipment.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "yuan/mt",
+    "decrease",
+    "main",
+    "port",
+    "affected"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 241,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-10-12_mmi-daily-iron-ore-index-report-october-12-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-12-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-10-12_2022_10_12_mmi_daily_iron_ore_index_report_october_12_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-10-12_2022_10_12_mmi_daily_iron_ore_index_report_october_12_2022",
+      "parent_id": "hellenic_iron_ore_2022-10-12_2022_10_12_mmi_daily_iron_ore_index_report_october_12_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 12/10/2022\nDCE iron ore futures declined by 2.12% today, the main contract closed 714.5.General transactions in the market.PBF at Shandong port dealt738-755 yuan/mt, decrease 10-17 yuan/mt;PBF at Tangshan port dealt 748-755 yuan/mt ;decrease 10-20 yuan/mt. On the macro level, based on the current domestic and international economic environment, the market has certain expectations for important national conferences.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "yuan/mt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 239,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

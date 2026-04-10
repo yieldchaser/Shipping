@@ -1,0 +1,258 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nLatest Trends\nRenewable-based power systems, backed by grid balancing engines and energy storage, can enable Southeast Asian countries to reach net zero by mid-century whilst cutting the levelized cost of electricity (LCOE) by over 20%, when taking into account likely future carbon taxes, according to technology group Wärtsilä. Read More\n\nSnapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions\nAt the beginning of the third week of September, the picture of freight rates in the Capesize segment has strengthened, while the percentage increase in demand in ton-days is increasing and the number of ships sailing ballast is falling below the annual average trend. Read More\n\nMore steel-heavy construction work\nAppetite for riskier assets remained weak ahead of the FOMC meeting on Wednesday.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "china",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "read",
+    "crude",
+    "demand",
+    "much",
+    "all"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 434,
+  "source_path": "reports/breakwave/2022/2022-09-25_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/25/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__s02_latest_trends",
+      "doc_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__root",
+      "title": "Latest Trends",
+      "section_path": [
+        "Latest Trends"
+      ],
+      "section_path_text": "Latest Trends",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Renewable-based power systems, backed by grid balancing engines and energy storage, can enable Southeast Asian countries to reach net zero by mid-century whilst cutting the levelized cost of electricity (LCOE) by over 20%, when taking into account likely future carbon taxes, according to technology group Wärtsilä.",
+      "keywords": [
+        "according",
+        "account",
+        "asian",
+        "backed",
+        "balancing",
+        "can",
+        "carbon",
+        "cost"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__s03_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "At the beginning of the third week of September, the picture of freight rates in the Capesize segment has strengthened, while the percentage increase in demand in ton-days is increasing and the number of ships sailing ballast is falling below the annual average trend.",
+      "keywords": [
+        "capesize",
+        "annual",
+        "average",
+        "ballast",
+        "beginning",
+        "below",
+        "demand",
+        "falling"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__s04_more_steel_heavy_construction_work",
+      "doc_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__root",
+      "title": "More steel-heavy construction work",
+      "section_path": [
+        "More steel-heavy construction work"
+      ],
+      "section_path_text": "More steel-heavy construction work",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Appetite for riskier assets remained weak ahead of the FOMC meeting on Wednesday.",
+      "keywords": [
+        "ahead",
+        "appetite",
+        "assets",
+        "fomc",
+        "meeting",
+        "read",
+        "remained",
+        "riskier"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__s05_top_talking_points",
+      "doc_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__root",
+      "title": "Top talking points",
+      "section_path": [
+        "Top talking points"
+      ],
+      "section_path_text": "Top talking points",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "On the crude oil supply side, there was wide agreement that the market is now much looser than it was in H1 2022, and forward views suggested that 2023 may be on the long side.",
+      "keywords": [
+        "crude_oil",
+        "was",
+        "agreement",
+        "crude",
+        "forward",
+        "long",
+        "looser",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__s06_higher_freight_rates_in_the_short_term",
+      "doc_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__root",
+      "title": "Higher freight rates in the short term",
+      "section_path": [
+        "Higher freight rates in the short term"
+      ],
+      "section_path_text": "Higher freight rates in the short term",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Under normal circumstances, a three-quarter gain in freight rates for the Panamaxes during the first half of September would have been considered a sterling performance for the tonnage segment and dominated the headlines.",
+      "keywords": [
+        "panamax",
+        "circumstances",
+        "considered",
+        "dominated",
+        "during",
+        "first",
+        "gain",
+        "half"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__s07_china_s_steel_output_has_now_risen_to_the_highest_level",
+      "doc_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__root",
+      "title": "China's steel output has now risen to the highest level",
+      "section_path": [
+        "China's steel output has now risen to the highest level"
+      ],
+      "section_path_text": "China's steel output has now risen to the highest level",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "In our Weekly Dry Bulk Report published two weeks ago, we highlighted how China's iron ore port stockpiles finally fell after previously rising for ten straight weeks, and also highlighted how steel production in China continues to rise.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "highlighted",
+        "how",
+        "weeks",
+        "after",
+        "ago"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__s08_surge_on_rates",
+      "doc_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__root",
+      "title": "Surge on rates",
+      "section_path": [
+        "Surge on rates"
+      ],
+      "section_path_text": "Surge on rates",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "China's rebound in purchasing amid a much more ample global crude market lifts VLCC rates across all fronts, with much higher anticipated clean product exports from China, additional US SPR releases and imminent peak winter demand all pointing to a sustainable demand for crude tanker owners for the remainder of the year.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "all",
+        "crude",
+        "demand",
+        "much",
+        "additional",
+        "amid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 59,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__s09_iron_ore_gained_amid_signs_of_increasing_construction_activity_in_china",
+      "doc_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-25_2022_09_25_weekly_insights_review__root",
+      "title": "Iron ore gained amid signs of increasing construction activity in China",
+      "section_path": [
+        "Iron ore gained amid signs of increasing construction activity in China"
+      ],
+      "section_path_text": "Iron ore gained amid signs of increasing construction activity in China",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Commodity markets shrugged off interest rate hikes by central banks to focus on supply side issues.",
+      "keywords": [
+        "banks",
+        "central",
+        "commodity",
+        "focus",
+        "hikes",
+        "interest",
+        "issues.",
+        "markets"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-11-24_2021_11_24_coal_seaborne_volumes_in_record_territory__root",
+  "doc_id": "breakwave_insights_insights_2021-11-24_2021_11_24_coal_seaborne_volumes_in_record_territory",
+  "parent_id": null,
+  "title": "Coal Seaborne Volumes In Record Territory",
+  "section_path": [
+    "Coal Seaborne Volumes In Record Territory"
+  ],
+  "section_path_text": "Coal Seaborne Volumes In Record Territory",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAfter a thirteen-month rally that saw coal prices rising by 450 per cent, Beijing's recent intervention has resulted in prices retreating more than forty per cent in a month. A combination of political pressure on coal producers and importers and increasing Chinese output has seen the gC Newcastle coal futures stabilising around 150 dollars per tonne after months of high drama. In an effort to limit power shortages and bring energy price inflation under control, Chinese authorities have authorised increased production in more than 150 coal mines.",
+  "keywords": [
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "coal",
+    "products",
+    "volumes",
+    "per",
+    "cent",
+    "chinese",
+    "million",
+    "tonnes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1051,
+  "source_path": "reports/breakwave/2021/2021-11-24_coal-seaborne-volumes-in-record-territory.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/11/24/coal-seaborne-volumes-in-record-territory",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-11-24_2021_11_24_coal_seaborne_volumes_in_record_territory__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-11-24_2021_11_24_coal_seaborne_volumes_in_record_territory",
+      "parent_id": "breakwave_insights_insights_2021-11-24_2021_11_24_coal_seaborne_volumes_in_record_territory__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAfter a thirteen-month rally that saw coal prices rising by 450 per cent, Beijing's recent intervention has resulted in prices retreating more than forty per cent in a month. A combination of political pressure on coal producers and importers and increasing Chinese output has seen the gC Newcastle coal futures stabilising around 150 dollars per tonne after months of high drama.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "coal",
+        "products",
+        "volumes",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1049,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

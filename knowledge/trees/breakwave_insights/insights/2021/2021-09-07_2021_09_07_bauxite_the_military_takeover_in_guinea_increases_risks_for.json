@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-09-07_2021_09_07_bauxite_the_military_takeover_in_guinea_increases_risks_for__root",
+  "doc_id": "breakwave_insights_insights_2021-09-07_2021_09_07_bauxite_the_military_takeover_in_guinea_increases_risks_for",
+  "parent_id": null,
+  "title": "Bauxite The Military Takeover In Guinea Increases Risks For Global Supplies",
+  "section_path": [
+    "Bauxite The Military Takeover In Guinea Increases Risks For Global Supplies"
+  ],
+  "section_path_text": "Bauxite The Military Takeover In Guinea Increases Risks For Global Supplies",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe coup d'etat in Guinea over the weekend has resulted in freight rates falling and aluminium futures rising to a ten-year high. While not the largest bauxite producer in the world, the West African nation has in only a few years become the world's largest exporter of the commodity vital to the aluminium industry. The country's shipments of the ore have become especially important to China, as part of its policy to reduce its reliance on imports from Australia.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "australia",
+    "west_africa",
+    "iron_ore",
+    "bauxite",
+    "guinea",
+    "chinese",
+    "could",
+    "are",
+    "last"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 966,
+  "source_path": "reports/breakwave/2021/2021-09-07_bauxite-the-military-takeover-in-guinea-increases-risks-for.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/9/7/bauxite-the-military-takeover-in-guinea-increases-risks-for-global-supplies",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-09-07_2021_09_07_bauxite_the_military_takeover_in_guinea_increases_risks_for__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-09-07_2021_09_07_bauxite_the_military_takeover_in_guinea_increases_risks_for",
+      "parent_id": "breakwave_insights_insights_2021-09-07_2021_09_07_bauxite_the_military_takeover_in_guinea_increases_risks_for__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe coup d'etat in Guinea over the weekend has resulted in freight rates falling and aluminium futures rising to a ten-year high. While not the largest bauxite producer in the world, the West African nation has in only a few years become the world's largest exporter of the commodity vital to the aluminium industry.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "australia",
+        "west_africa",
+        "iron_ore",
+        "bauxite",
+        "guinea"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 964,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

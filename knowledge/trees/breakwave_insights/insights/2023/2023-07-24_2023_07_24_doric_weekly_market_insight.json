@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-24_2023_07_24_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-07-24_2023_07_24_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"Although US soy imports are likely to plunged to near zero in the coming months, active imports from South American countries (mainly Brazil) should maintain China soybean imports at near record high levels.\"\nBy Michalis Voutsinas\nTypically, in late July, dry bulk shipping reports are painted with bright colours, with most of the weekly spot market commentators trying to guestimate at what levels Baltic indices are going to peak in the end. However, in this bizarre trading year, any such conversation seems to have disappeared into a bottomless pit. On Thursday, the gauge of activity in the dry bulk spectrum, Baltic Dry Index, revisited the three-digit territory, concluding the twenty-nineth week down at 950 points.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "grain",
+    "soybean",
+    "million",
+    "tonnes",
+    "imports",
+    "exports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1151,
+  "source_path": "reports/breakwave/2023/2023-07-24_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/24/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-24_2023_07_24_doric_weekly_market_insight__s01_although_us_soy_imports_are_likely_to_plunged_to_near_zero_in_the_coming_months_active_imports_from_south_american_countries_mainly_brazil_should_maintain_china_soybean_imports_at_near_record_high_levels",
+      "doc_id": "breakwave_insights_insights_2023-07-24_2023_07_24_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-07-24_2023_07_24_doric_weekly_market_insight__root",
+      "title": "\"Although US soy imports are likely to plunged to near zero in the coming months, active imports from South American countries (mainly Brazil) should maintain China soybean imports at near record high levels.\"",
+      "section_path": [
+        "\"Although US soy imports are likely to plunged to near zero in the coming months, active imports from South American countries (mainly Brazil) should maintain China soybean imports at near record high levels.\""
+      ],
+      "section_path_text": "\"Although US soy imports are likely to plunged to near zero in the coming months, active imports from South American countries (mainly Brazil) should maintain China soybean imports at near record high levels.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nTypically, in late July, dry bulk shipping reports are painted with bright colours, with most of the weekly spot market commentators trying to guestimate at what levels Baltic indices are going to peak in the end. However, in this bizarre trading year, any such conversation seems to have disappeared into a bottomless pit.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "grain",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1111,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

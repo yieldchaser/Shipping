@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-24_2023_04_24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl__root",
+  "doc_id": "breakwave_insights_insights_2023-04-24_2023_04_24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl",
+  "parent_id": null,
+  "title": "1U1Kdsl1Eq8Eom9C1Itfn6Kn7Lr4Nl",
+  "section_path": [
+    "1U1Kdsl1Eq8Eom9C1Itfn6Kn7Lr4Nl"
+  ],
+  "section_path_text": "1U1Kdsl1Eq8Eom9C1Itfn6Kn7Lr4Nl",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "China, China, China\nIn the latest World Economic Outlook published by the IMF on 11th April, a gloomy tone on the global economy was conveyed. Indeed, it appears that the global fortunes continue to deteriorate. One of the main composites of this depressing outlook is the expected level of inflation worldwide.",
+  "keywords": [
+    "china",
+    "europe",
+    "iron_ore",
+    "global",
+    "are",
+    "chart",
+    "consumption",
+    "domestic",
+    "exports",
+    "inflation",
+    "see",
+    "would"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1678,
+  "source_path": "reports/breakwave/2023/2023-04-24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/24/1u1kdsl1eq8eom9c1itfn6kn7lr4nl",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-24_2023_04_24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl__s01_china_china_china",
+      "doc_id": "breakwave_insights_insights_2023-04-24_2023_04_24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl",
+      "parent_id": "breakwave_insights_insights_2023-04-24_2023_04_24_1u1kdsl1eq8eom9c1itfn6kn7lr4nl__root",
+      "title": "China, China, China",
+      "section_path": [
+        "China, China, China"
+      ],
+      "section_path_text": "China, China, China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the latest World Economic Outlook published by the IMF on 11th April, a gloomy tone on the global economy was conveyed. Indeed, it appears that the global fortunes continue to deteriorate.",
+      "keywords": [
+        "china",
+        "europe",
+        "iron_ore",
+        "global",
+        "are",
+        "chart",
+        "consumption",
+        "domestic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1672,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

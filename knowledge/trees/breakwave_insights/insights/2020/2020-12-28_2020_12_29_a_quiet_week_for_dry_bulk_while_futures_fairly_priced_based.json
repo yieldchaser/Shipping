@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-12-28_2020_12_29_a_quiet_week_for_dry_bulk_while_futures_fairly_priced_based__root",
+  "doc_id": "breakwave_insights_insights_2020-12-28_2020_12_29_a_quiet_week_for_dry_bulk_while_futures_fairly_priced_based",
+  "parent_id": null,
+  "title": "A Quiet Week For Dry Bulk While Futures Fairly Priced Based On History",
+  "section_path": [
+    "A Quiet Week For Dry Bulk While Futures Fairly Priced Based On History"
+  ],
+  "section_path_text": "A Quiet Week For Dry Bulk While Futures Fairly Priced Based On History",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe week between Christmas and New Year's has historically been a very quiet period for shipping, as is the case in many other markets, especially given the absence of reported indices and thus limited information on the state of the physical market. The rally in Capesize rates over the past two weeks that brought the index above the 16,000 mark has more than offset the weakness in the smaller size segments, with he Baltic Dry Index (BDI) also seeing good support towards the end of the year. As a result of this end-of-year rally, Capesize spot rates, as reflected in the Baltic Capesize Index, closed at the highest level for any end-of-year value in seven years, with the only exception of 2017 (although the index during that period was in a steep decline duting most of December, opening at ~15,000 on January 2, 2018).",
+  "keywords": [
+    "capesize",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "last",
+    "pattern",
+    "december",
+    "during",
+    "optimism",
+    "ten",
+    "bdi",
+    "days"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 606,
+  "source_path": "reports/breakwave/2020/2020-12-29_a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/12/28/a-quiet-week-for-dry-bulk-while-futures-fairly-priced-based-on-history",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-12-28_2020_12_29_a_quiet_week_for_dry_bulk_while_futures_fairly_priced_based__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-12-28_2020_12_29_a_quiet_week_for_dry_bulk_while_futures_fairly_priced_based",
+      "parent_id": "breakwave_insights_insights_2020-12-28_2020_12_29_a_quiet_week_for_dry_bulk_while_futures_fairly_priced_based__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The week between Christmas and New Year's has historically been a very quiet period for shipping, as is the case in many other markets, especially given the absence of reported indices and thus limited information on the state of the physical market. The rally in Capesize rates over the past two weeks that brought the index above the 16,000 mark has more than offset the weakness in the smaller size segments, with he Baltic Dry Index (BDI) also seeing good support towards the end of the year.",
+      "keywords": [
+        "capesize",
+        "atlantic",
+        "pacific",
+        "iron_ore",
+        "last",
+        "pattern",
+        "december",
+        "during"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 604,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

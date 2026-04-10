@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-06-23_2021_06_23_incorporating_data_driven_decision_making_in_dry_bulk_shippi__root",
+  "doc_id": "breakwave_insights_insights_2021-06-23_2021_06_23_incorporating_data_driven_decision_making_in_dry_bulk_shippi",
+  "parent_id": null,
+  "title": "Incorporating Data Driven Decision Making In Dry Bulk Shipping",
+  "section_path": [
+    "Incorporating Data Driven Decision Making In Dry Bulk Shipping"
+  ],
+  "section_path_text": "Incorporating Data Driven Decision Making In Dry Bulk Shipping",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nby Phoebus Kaloudis\nTen years ago, the shipping industry (and most other industries for that matter) participants came to the realisation that it was going to be affected greatly by data, data capturing, data analytics and subsequently data driven decision making. However, as is many times the case with large disrupting events, the details on how it would be affected, how data was to be used, was not clear, neither was the timeline. Today, some 30 years since the first use of the term Big Data.",
+  "keywords": [
+    "capesize",
+    "brazil",
+    "grain",
+    "data",
+    "are",
+    "models",
+    "can",
+    "business",
+    "model",
+    "one",
+    "when",
+    "cargo"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1990,
+  "source_path": "reports/breakwave/2021/2021-06-23_incorporating-data-driven-decision-making-in-dry-bulk-shippi.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/6/23/incorporating-data-driven-decision-making-in-dry-bulk-shipping",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-06-23_2021_06_23_incorporating_data_driven_decision_making_in_dry_bulk_shippi__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-06-23_2021_06_23_incorporating_data_driven_decision_making_in_dry_bulk_shippi",
+      "parent_id": "breakwave_insights_insights_2021-06-23_2021_06_23_incorporating_data_driven_decision_making_in_dry_bulk_shippi__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "by Phoebus Kaloudis\nTen years ago, the shipping industry (and most other industries for that matter) participants came to the realisation that it was going to be affected greatly by data, data capturing, data analytics and subsequently data driven decision making. However, as is many times the case with large disrupting events, the details on how it would be affected, how data was to be used, was not clear, neither was the timeline.",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "grain",
+        "data",
+        "are",
+        "models",
+        "can",
+        "business"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1988,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

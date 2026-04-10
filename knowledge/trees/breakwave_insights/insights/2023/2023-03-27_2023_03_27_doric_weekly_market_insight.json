@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-27_2023_03_27_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-03-27_2023_03_27_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"Dalian and Singapore iron ore futures rebounded during Friday afternoon trading , helped by data showing that inventories at Chinese ports continued to fall\"\nBy Michalis Voutsinas\nGlobal growth in 2022 came at 3.2 percent, some 1.3 percentage points weaker than expected in the December 2021 OECD Economic Outlook, reflecting the effects of Russo-Ukrainian conflict, the drag on household incomes from high inflation, rising interest rates and continued disruptions in China. In the fourth quarter of last year, global trade declined, with a continued recovery in international tourism offset by a drop in merchandise trade volumes. Outcomes were particularly soft in the Asia-Pacific region in the last few months of 2022, with output stagnating in Japan, activity in China held back by continued lockdowns and a wave of infections, and a downturn in the tech sector hitting exports in Korea, according to the OECD.",
+  "keywords": [
+    "capesize",
+    "china",
+    "pacific",
+    "india",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "steel",
+    "global",
+    "growth",
+    "but",
+    "continued"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 841,
+  "source_path": "reports/breakwave/2023/2023-03-27_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/27/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-27_2023_03_27_doric_weekly_market_insight__s01_dalian_and_singapore_iron_ore_futures_rebounded_during_friday_afternoon_trading_helped_by_data_showing_that_inventories_at_chinese_ports_continued_to_fall",
+      "doc_id": "breakwave_insights_insights_2023-03-27_2023_03_27_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-03-27_2023_03_27_doric_weekly_market_insight__root",
+      "title": "\"Dalian and Singapore iron ore futures rebounded during Friday afternoon trading , helped by data showing that inventories at Chinese ports continued to fall\"",
+      "section_path": [
+        "\"Dalian and Singapore iron ore futures rebounded during Friday afternoon trading , helped by data showing that inventories at Chinese ports continued to fall\""
+      ],
+      "section_path_text": "\"Dalian and Singapore iron ore futures rebounded during Friday afternoon trading , helped by data showing that inventories at Chinese ports continued to fall\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nGlobal growth in 2022 came at 3.2 percent, some 1.3 percentage points weaker than expected in the December 2021 OECD Economic Outlook, reflecting the effects of Russo-Ukrainian conflict, the drag on household incomes from high inflation, rising interest rates and continued disruptions in China. In the fourth quarter of last year, global trade declined, with a continued recovery in international tourism offset by a drop in merchandise trade volumes.",
+      "keywords": [
+        "capesize",
+        "china",
+        "pacific",
+        "india",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 813,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

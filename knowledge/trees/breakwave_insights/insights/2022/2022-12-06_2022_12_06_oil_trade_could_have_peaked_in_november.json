@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-06_2022_12_06_oil_trade_could_have_peaked_in_november__root",
+  "doc_id": "breakwave_insights_insights_2022-12-06_2022_12_06_oil_trade_could_have_peaked_in_november",
+  "parent_id": null,
+  "title": "Oil Trade Could Have Peaked In November",
+  "section_path": [
+    "Oil Trade Could Have Peaked In November"
+  ],
+  "section_path_text": "Oil Trade Could Have Peaked In November",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNovember oil flow data paints a picture of very healthy refinery operations, with record crude imports and clean product liftings, lead by Asia. By David Wech\nlobal seaborne crude and condensate imports are set to undoubtedly mark the highest level in the Covid era in November. Based on preliminary data for days 1-25, crude imports could reach 42.3mbd, the highest since January 2020, and 2.4mbd higher than the average level over the last 12 months.",
+  "keywords": [
+    "lpg",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "product",
+    "crude",
+    "clean",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 580,
+  "source_path": "reports/breakwave/2022/2022-12-06_oil-trade-could-have-peaked-in-november.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/6/oil-trade-could-have-peaked-in-november",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-06_2022_12_06_oil_trade_could_have_peaked_in_november__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-06_2022_12_06_oil_trade_could_have_peaked_in_november",
+      "parent_id": "breakwave_insights_insights_2022-12-06_2022_12_06_oil_trade_could_have_peaked_in_november__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "November oil flow data paints a picture of very healthy refinery operations, with record crude imports and clean product liftings, lead by Asia. By David Wech\nlobal seaborne crude and condensate imports are set to undoubtedly mark the highest level in the Covid era in November.",
+      "keywords": [
+        "lpg",
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 578,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

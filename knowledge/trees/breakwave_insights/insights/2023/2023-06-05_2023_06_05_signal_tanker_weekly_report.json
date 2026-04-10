@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Dirty Ton Miles\nVLCC growth in ton-miles declines vs. better outlook for Suezmax\\\nData Source: The Signal Ocean Platform- Oil Flows\nhttps://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2p1dqx/323633154?h=GYf1pH_Zrw1ISo2rLKkQ-mt7nlY03zuBOD9Z5HOSAc8\nAs May drew to a close, the sentiment in the crude freight market for VLCC tankers continued to lag behind the heights witnessed in the first quarter of the year. The demand ton miles for VLCC tankers has been on a declining trend, significantly impacting freight rates.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "trend",
+    "clean",
+    "weeks"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1304,
+  "source_path": "reports/breakwave/2023/2023-06-05_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/5/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__s01_chart_of_the_week_dirty_ton_miles",
+      "doc_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__root",
+      "title": "Chart of the Week: Dirty Ton Miles",
+      "section_path": [
+        "Chart of the Week: Dirty Ton Miles"
+      ],
+      "section_path_text": "Chart of the Week: Dirty Ton Miles",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC growth in ton-miles declines vs. better outlook for Suezmax\\\nData Source: The Signal Ocean Platform- Oil Flows\nhttps://go.signalocean.com/e/983831/tanker-dynamic-oilflows/2p1dqx/323633154?h=GYf1pH_Zrw1ISo2rLKkQ-mt7nlY03zuBOD9Z5HOSAc8\nAs May drew to a close, the sentiment in the crude freight market for VLCC tankers continued to lag behind the heights witnessed in the first quarter of the year.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "europe",
+        "crude_oil",
+        "may",
+        "sanctions",
+        "ton"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 372,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__s03_dirty_vlcc_suezmax_aframax_weaker",
+      "doc_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__root",
+      "title": "‘Dirty' VLCC - Suezmax - Aframax Weaker",
+      "section_path": [
+        "‘Dirty' VLCC - Suezmax - Aframax Weaker"
+      ],
+      "section_path_text": "‘Dirty' VLCC - Suezmax - Aframax Weaker",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Overall sentiment in the crude oil freight market remained weaker in May, except for the Aframax Med route, which finally saw a rebound after the last low in week 17. VLCC AG-FE freight rates have fallen to WS45, a 60% drop from the peak observed in week 12.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "are",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__s04_product_lr_steady",
+      "doc_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__root",
+      "title": "‘Product' LR Steady",
+      "section_path": [
+        "‘Product' LR Steady"
+      ],
+      "section_path_text": "‘Product' LR Steady",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "LR2 AG freight rates continue to be stable and are now around 148 WS, while LR1 MEG Jpn rates also continue to be around 158 WS with no fluctuations. Product' Panamax - Softening\nPanamax Carib-to-USG rates continued the downward trend of the last two weeks and are now at 270 WS, 30 points lower than two weeks ago.",
+      "keywords": [
+        "panamax",
+        "meg",
+        "are",
+        "around",
+        "continue",
+        "now",
+        "two",
+        "weeks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__s05_clean_mr2_weaker_mr1_steady",
+      "doc_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__root",
+      "title": "‘Clean' MR2 - Weaker | MR1 - Steady",
+      "section_path": [
+        "‘Clean' MR2 - Weaker | MR1 - Steady"
+      ],
+      "section_path_text": "‘Clean' MR2 - Weaker | MR1 - Steady",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The MR1 rates for shipments from Algeria to the Mediterranean have shown continued weakness, staying consistent with the previous week's settled levels of around WS135. Notably, the MR1 rates for the Baltic Continent have now matched the rates for the Algeria-Mediterranean route, reaching the same levels.",
+      "keywords": [
+        "europe",
+        "continent",
+        "levels",
+        "mr1",
+        "notably",
+        "shipments",
+        "algeria",
+        "algeria-mediterranean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 107,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__s06_section_2_supply_vessels_increasing_dirty_supply_trend_lines_for_key_load_areas",
+      "doc_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - (# vessels) Increasing 'Dirty' Supply Trend Lines for Key Load Areas",
+      "section_path": [
+        "SECTION 2/ SUPPLY - (# vessels) Increasing 'Dirty' Supply Trend Lines for Key Load Areas"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - (# vessels) Increasing 'Dirty' Supply Trend Lines for Key Load Areas",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Despite an overall increasing trend in the supply of crude oil tankers, recent data reveals that both the VLCC Ras Tanura and Aframax Baltic are currently experiencing levels below the annual average. VLCC Ras Tanura: The current vessel count stands at 67, reflecting a deviation of 7 vessels from the annual average and a significant drop of nearly 17 vessels compared to the peak observed just four weeks ago.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "crude_oil",
+        "ships",
+        "annual",
+        "count"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__s08_clean_supply_trend_lines_for_key_load_areas_mr1_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "section_path": [
+        "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Clean LR2 AG Jubail: The significant downward trend recorded in the last three weeks continues in early June. The number of ships now stands at 6, 7 lower than the average for the year.",
+      "keywords": [
+        "average",
+        "clean",
+        "number",
+        "previous",
+        "ships",
+        "year.",
+        "after",
+        "algeria"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__s11_clean_panamax_mr_increasing",
+      "doc_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-05_2023_06_05_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' | Panamax - MR Increasing",
+      "section_path": [
+        "‘ Clean ' | Panamax - MR Increasing"
+      ],
+      "section_path_text": "‘ Clean ' | Panamax - MR Increasing",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Dirty demand ton-days: The demand for crude oil tankers in the Suezmax segment has remained considerably strong, indicating a positive outlook. Additionally, there are early indications of a recovery in the growth of VLCC ton days, suggesting a potential turnaround in this sector.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "crude_oil",
+        "demand",
+        "weeks",
+        "clean",
+        "considerably"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 173,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

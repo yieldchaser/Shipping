@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAt the beginning of the third week of September, the picture of freight rates in the Capesize segment has strengthened, while the percentage increase in demand in ton-days is increasing and the number of ships sailing ballast is falling below the annual average trend. Prices for iron ore cargoes with an iron content of 63.5% for delivery to Tianjin fell to $100 per tonne, well below the peak of $106 reached last week, as ongoing problems in China's real estate sector pressured expectations for steel demand, offsetting better-than-expected industrial production data and new stimulus measures. Real estate investment in the world's second-largest economy fell 13.8% in August, while property prices and sales also continued to fall.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "iron_ore",
+    "coal",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1051,
+  "source_path": "reports/breakwave/2022/2022-09-21_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/21/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "At the beginning of the third week of September, the picture of freight rates in the Capesize segment has strengthened, while the percentage increase in demand in ton-days is increasing and the number of ships sailing ballast is falling below the annual average trend. Prices for iron ore cargoes with an iron content of 63.5% for delivery to Tianjin fell to $100 per tonne, well below the peak of $106 reached last week, as ongoing problems in China's real estate sector pressured expectations for steel demand, offsetting better-than-expected industrial production data and new stimulus measures.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "europe",
+        "iron_ore",
+        "coal",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 344,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_firmer",
+      "doc_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nIn the third week of September, freight rate sentiment firmed across all vessel categories, with a downward trend for Panamax vessels. Capesize freight rates from Brazil to North China rose to $22/tonne, just $2/tonne below the last peak of week 32.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__s03_section_2_supply_ballasters_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of Capesize and Panamax vessels sailing with ballast remained below the annual average, while the number of Handysize and Supramax vessels followed the previous week's sharp increase. Capesize SE Africa: The number of vessels remained at 76, a 37% decrease from the peak in week 32.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "previous",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__s04_section_3_demand_tondays_increasing",
+      "doc_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Increasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Increasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The third week of September saw a continuation of the upward trend in Capesize vessels, while some firmness was observed in the Supramax and Panamax segment. Capesize demand ton-days: The percentage increase remained at the highest level since the last peak in week 27.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "last",
+        "ton-days",
+        "september"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__s05_section_4_port_congestion_no_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-21_2022_09_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports\nThe number of congested vessels has accelerated over the past two weeks, with significant increases in all vessel size categories. Capesize: The number of congested ships reached 137, 33 more than the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "congested",
+        "number",
+        "previous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

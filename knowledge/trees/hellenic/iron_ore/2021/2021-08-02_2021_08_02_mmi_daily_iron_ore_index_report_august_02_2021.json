@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-08-02_2021_08_02_mmi_daily_iron_ore_index_report_august_02_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-08-02_2021_08_02_mmi_daily_iron_ore_index_report_august_02_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 02 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 02 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 02 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 02/08/2021\nDCE iron ore futures market vibrated narrowly and quotations in the physical port stock market dropped by 40yuan/mt over last Friday. Steelmills' purchasing intentions picked up and some trader gradually up adjusted their quotations by 5-10yuan/mt. PBF was closed at 1260yuan/mt in Shandong market, with price down of 30yuan/mt over last Friday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "yuan/mt",
+    "friday.",
+    "inventory",
+    "last",
+    "mills",
+    "physical",
+    "ports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 254,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-08-02_mmi-daily-iron-ore-index-report-august-02-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-02-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-08-02_2021_08_02_mmi_daily_iron_ore_index_report_august_02_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-08-02_2021_08_02_mmi_daily_iron_ore_index_report_august_02_2021",
+      "parent_id": "hellenic_iron_ore_2021-08-02_2021_08_02_mmi_daily_iron_ore_index_report_august_02_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 02/08/2021\nDCE iron ore futures market vibrated narrowly and quotations in the physical port stock market dropped by 40yuan/mt over last Friday. Steelmills' purchasing intentions picked up and some trader gradually up adjusted their quotations by 5-10yuan/mt.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "yuan/mt",
+        "friday.",
+        "inventory"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 252,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

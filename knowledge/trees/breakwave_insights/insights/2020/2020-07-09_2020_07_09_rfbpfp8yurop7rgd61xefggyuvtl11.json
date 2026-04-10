@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-07-09_2020_07_09_rfbpfp8yurop7rgd61xefggyuvtl11__root",
+  "doc_id": "breakwave_insights_insights_2020-07-09_2020_07_09_rfbpfp8yurop7rgd61xefggyuvtl11",
+  "parent_id": null,
+  "title": "Rfbpfp8Yurop7Rgd61Xefggyuvtl11",
+  "section_path": [
+    "Rfbpfp8Yurop7Rgd61Xefggyuvtl11"
+  ],
+  "section_path_text": "Rfbpfp8Yurop7Rgd61Xefggyuvtl11",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n2020 is shaping out to be one of the strongest years on record for the iron ore market. A combination of events and circumstances have not only pushed iron ore prices to multi-year highs but supply from certain regions are reaching new highs while at the same time constraints in other parts of the world are helping the market to remain in the sweet spot of perceived tightness. The result of such circumstances is a thinly balanced market for the commodity and ongoing significant market share gains for the largest iron ore producing country in the world, namely Australia.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "india",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "are",
+    "demand",
+    "exports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 472,
+  "source_path": "reports/breakwave/2020/2020-07-09_rfbpfp8yurop7rgd61xefggyuvtl11.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/7/9/rfbpfp8yurop7rgd61xefggyuvtl11",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-07-09_2020_07_09_rfbpfp8yurop7rgd61xefggyuvtl11__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-07-09_2020_07_09_rfbpfp8yurop7rgd61xefggyuvtl11",
+      "parent_id": "breakwave_insights_insights_2020-07-09_2020_07_09_rfbpfp8yurop7rgd61xefggyuvtl11__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "2020 is shaping out to be one of the strongest years on record for the iron ore market. A combination of events and circumstances have not only pushed iron ore prices to multi-year highs but supply from certain regions are reaching new highs while at the same time constraints in other parts of the world are helping the market to remain in the sweet spot of perceived tightness.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "india",
+        "iron_ore",
+        "steel",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 470,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

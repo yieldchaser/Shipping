@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-25_2022_02_25_russia_ukraine_update__root",
+  "doc_id": "breakwave_insights_insights_2022-02-25_2022_02_25_russia_ukraine_update",
+  "parent_id": null,
+  "title": "Russia Ukraine Update",
+  "section_path": [
+    "Russia Ukraine Update"
+  ],
+  "section_path_text": "Russia Ukraine Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we have been discussing in recent updates, one of the biggest potential issues with the Russia/Ukraine conflict is if trade volumes will experience any significant losses over time. Just a few days ago, Ukraine's Ministry of Infrastructure celebrated \"an absolutely normal situation in shipping\", but of course much has changed. An overall brief conflict would help the dry bulk shipping market with some increases in port congestion, shipping delays, and longer ton miles, but a longer-term conflict would lead to a loss of cargo volume.",
+  "keywords": [
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "gas",
+    "russia",
+    "conflict",
+    "but",
+    "million",
+    "tons",
+    "would"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 965,
+  "source_path": "reports/breakwave/2022/2022-02-25_russia-ukraine-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/25/russia-ukraine-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-25_2022_02_25_russia_ukraine_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-25_2022_02_25_russia_ukraine_update",
+      "parent_id": "breakwave_insights_insights_2022-02-25_2022_02_25_russia_ukraine_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we have been discussing in recent updates, one of the biggest potential issues with the Russia/Ukraine conflict is if trade volumes will experience any significant losses over time. Just a few days ago, Ukraine's Ministry of Infrastructure celebrated \"an absolutely normal situation in shipping\", but of course much has changed.",
+      "keywords": [
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas",
+        "russia",
+        "conflict"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 963,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-20_2022_09_20_commodities_edge_higher_as_the_market_braces_for_further_rat__root",
+  "doc_id": "breakwave_insights_insights_2022-09-20_2022_09_20_commodities_edge_higher_as_the_market_braces_for_further_rat",
+  "parent_id": null,
+  "title": "Commodities Edge Higher As The Market Braces For Further Rate Hikes",
+  "section_path": [
+    "Commodities Edge Higher As The Market Braces For Further Rate Hikes"
+  ],
+  "section_path_text": "Commodities Edge Higher As The Market Braces For Further Rate Hikes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nAppetite for riskier assets remained weak ahead of the FOMC meeting on Wednesday. Nevertheless, commodities managed to edge higher amid signs of robust physical demand. Crude oil eked out a small gain, aided by a weaker USD.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "was",
+    "earlier"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 751,
+  "source_path": "reports/breakwave/2022/2022-09-20_commodities-edge-higher-as-the-market-braces-for-further-rat.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/20/commodities-edge-higher-as-the-market-braces-for-further-rate-hikes",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-20_2022_09_20_commodities_edge_higher_as_the_market_braces_for_further_rat__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-20_2022_09_20_commodities_edge_higher_as_the_market_braces_for_further_rat",
+      "parent_id": "breakwave_insights_insights_2022-09-20_2022_09_20_commodities_edge_higher_as_the_market_braces_for_further_rat__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nAppetite for riskier assets remained weak ahead of the FOMC meeting on Wednesday. Nevertheless, commodities managed to edge higher amid signs of robust physical demand.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 749,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

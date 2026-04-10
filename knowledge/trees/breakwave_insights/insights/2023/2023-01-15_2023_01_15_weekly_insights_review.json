@@ -1,0 +1,313 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\nAs we start the new year, we look into some of the factors that may play a role in determining freight rates for the year ahead. Read More\n\nMacro/Geopolitics, Commodity Markets, Freight and Bunker Markets\nWith the global newsflow still subdued in the past week, following the Christmas and New Year holidays in large parts of the world, the macro picture was dominated by mounting concerns over the health of the global economy. Read More\n\nLatest Trends\nThe IMO's carbon intensity regulations, specifically the carbon intensity indicator (CII) in place since 1 January, are likely to dramatically impact the LNG fleet supply, which could lead to ‘stranded' assets later this decade.",
+  "keywords": [
+    "lng",
+    "china",
+    "grain",
+    "crude_oil",
+    "gas",
+    "read",
+    "year",
+    "markets",
+    "commodity",
+    "ended",
+    "was",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 402,
+  "source_path": "reports/breakwave/2023/2023-01-15_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/15/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__s01_read_here_everything_you_need_to_know",
+      "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+      "title": "Read here everything you need to know",
+      "section_path": [
+        "Read here everything you need to know"
+      ],
+      "section_path_text": "Read here everything you need to know",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As we start the new year, we look into some of the factors that may play a role in determining freight rates for the year ahead.",
+      "keywords": [
+        "year",
+        "ahead.",
+        "determining",
+        "factors",
+        "look",
+        "may",
+        "new",
+        "play"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__s02_macro_geopolitics_commodity_markets_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+      "title": "Macro/Geopolitics, Commodity Markets, Freight and Bunker Markets",
+      "section_path": [
+        "Macro/Geopolitics, Commodity Markets, Freight and Bunker Markets"
+      ],
+      "section_path_text": "Macro/Geopolitics, Commodity Markets, Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "With the global newsflow still subdued in the past week, following the Christmas and New Year holidays in large parts of the world, the macro picture was dominated by mounting concerns over the health of the global economy.",
+      "keywords": [
+        "global",
+        "christmas",
+        "concerns",
+        "dominated",
+        "economy.",
+        "following",
+        "health",
+        "holidays"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 44,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__s03_latest_trends",
+      "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+      "title": "Latest Trends",
+      "section_path": [
+        "Latest Trends"
+      ],
+      "section_path_text": "Latest Trends",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The IMO's carbon intensity regulations, specifically the carbon intensity indicator (CII) in place since 1 January, are likely to dramatically impact the LNG fleet supply, which could lead to ‘stranded' assets later this decade.",
+      "keywords": [
+        "lng",
+        "gas",
+        "carbon",
+        "intensity",
+        "are",
+        "assets",
+        "cii",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 48,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__s04_grim_economic_picture_at_the_start_of_the_year",
+      "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+      "title": "Grim economic picture at the start of the year",
+      "section_path": [
+        "Grim economic picture at the start of the year"
+      ],
+      "section_path_text": "Grim economic picture at the start of the year",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Opportunities need swift entry and a lot of patience Read More",
+      "keywords": [
+        "entry",
+        "lot",
+        "need",
+        "opportunities",
+        "patience",
+        "read",
+        "swift"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__s05_the_year_ended_with_critical_changes",
+      "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+      "title": "The year ended with critical changes",
+      "section_path": [
+        "The year ended with critical changes"
+      ],
+      "section_path_text": "The year ended with critical changes",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The year ended with critical changes in grain flows due to geopolitical tensions between Russia and Ukraine.",
+      "keywords": [
+        "grain",
+        "between",
+        "changes",
+        "critical",
+        "due",
+        "ended",
+        "flows",
+        "geopolitical"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__s06_commodity_markets_were_mixed",
+      "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+      "title": "Commodity markets were mixed",
+      "section_path": [
+        "Commodity markets were mixed"
+      ],
+      "section_path_text": "Commodity markets were mixed",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Commodity markets were mixed as optimism over China's reopening was offset by concerns of further monetary tightening by central banks.",
+      "keywords": [
+        "china",
+        "banks.",
+        "central",
+        "commodity",
+        "concerns",
+        "further",
+        "markets",
+        "mixed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__s07_demand_recovery_however_is_far_from_imminent",
+      "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+      "title": "Demand recovery, however, is far from imminent",
+      "section_path": [
+        "Demand recovery, however, is far from imminent"
+      ],
+      "section_path_text": "Demand recovery, however, is far from imminent",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "China's recent allocation of oil quotas signals Beijing's intention to accelerate economic recovery whilst sticking to its longer-term goal of controlling emissions.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "accelerate",
+        "allocation",
+        "beijing",
+        "controlling",
+        "economic",
+        "emissions."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 28,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__s08_fundamentals_suggest_that_supply_demand_balance_is_likely_to_remain_tight_this_year",
+      "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+      "title": "Fundamentals suggest that supply/demand balance is likely to remain tight this year",
+      "section_path": [
+        "Fundamentals suggest that supply/demand balance is likely to remain tight this year"
+      ],
+      "section_path_text": "Fundamentals suggest that supply/demand balance is likely to remain tight this year",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Whilst 2022 ended with a fanfare, there is now a quieter feel for tanker markets as we step into 2023.",
+      "keywords": [
+        "ended",
+        "fanfare",
+        "feel",
+        "markets",
+        "now",
+        "quieter",
+        "read",
+        "step"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__s09_slowing_us_inflation_saw_risk_appetite_rise_sharply_across_the_complex",
+      "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+      "title": "Slowing US inflation saw risk appetite rise sharply across the complex",
+      "section_path": [
+        "Slowing US inflation saw risk appetite rise sharply across the complex"
+      ],
+      "section_path_text": "Slowing US inflation saw risk appetite rise sharply across the complex",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "This increased confidence of demand strengthening as China's reopens its economy.",
+      "keywords": [
+        "china",
+        "confidence",
+        "demand",
+        "economy.",
+        "increased",
+        "its",
+        "read",
+        "reopens"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__s10_consumers_in_china_are_still_not_actually_buying_more_goods_compared_to_a_year_ago",
+      "doc_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-01-15_2023_01_15_weekly_insights_review__root",
+      "title": "Consumers in China are still not actually buying more goods compared to a year ago",
+      "section_path": [
+        "Consumers in China are still not actually buying more goods compared to a year ago"
+      ],
+      "section_path_text": "Consumers in China are still not actually buying more goods compared to a year ago",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "As we have been stressing in our Weekly China Reports, inflation exceeding retail sales growth in both September and October in China was a troubling and almost unprecedented event.",
+      "keywords": [
+        "china",
+        "almost",
+        "both",
+        "event.",
+        "exceeding",
+        "growth",
+        "inflation",
+        "october"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

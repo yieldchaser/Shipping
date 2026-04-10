@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-15_2023_09_18_housing_market_continues_to_have_no_bearing_on_chinas_dry_bu__root",
+  "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_18_housing_market_continues_to_have_no_bearing_on_chinas_dry_bu",
+  "parent_id": null,
+  "title": "Housing Market Continues To Have No Bearing On Chinas Dry Bulk Imports",
+  "section_path": [
+    "Housing Market Continues To Have No Bearing On Chinas Dry Bulk Imports"
+  ],
+  "section_path_text": "Housing Market Continues To Have No Bearing On Chinas Dry Bulk Imports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina's coal, iron ore, and soybean imports collectively totaled a record 160.1 million tons in August. This is up month-on-month by 17.6 million tons (12%) and is up year-on-year by 27.3 million tons (21%). Overall, China's dry bulk commodity imports have stayed strong as we have been predicting, and we continue to stress that supply and demand of homes is not at all dictating China's dry bulk demand.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "grain",
+    "million",
+    "tons",
+    "imports",
+    "month-on-month",
+    "totaled",
+    "year-on-year",
+    "tons.",
+    "iron"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 256,
+  "source_path": "reports/breakwave/2023/2023-09-18_housing-market-continues-to-have-no-bearing-on-chinas-dry-bu.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/15/housing-market-continues-to-have-no-bearing-on-chinas-dry-bulk-imports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-15_2023_09_18_housing_market_continues_to_have_no_bearing_on_chinas_dry_bu__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-15_2023_09_18_housing_market_continues_to_have_no_bearing_on_chinas_dry_bu",
+      "parent_id": "breakwave_insights_insights_2023-09-15_2023_09_18_housing_market_continues_to_have_no_bearing_on_chinas_dry_bu__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina's coal, iron ore, and soybean imports collectively totaled a record 160.1 million tons in August. This is up month-on-month by 17.6 million tons (12%) and is up year-on-year by 27.3 million tons (21%).",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "grain",
+        "million",
+        "tons",
+        "imports",
+        "month-on-month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 254,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

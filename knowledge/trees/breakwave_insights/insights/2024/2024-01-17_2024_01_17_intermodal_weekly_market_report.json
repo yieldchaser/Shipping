@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-17_2024_01_17_intermodal_weekly_market_report__root",
+  "doc_id": "breakwave_insights_insights_2024-01-17_2024_01_17_intermodal_weekly_market_report",
+  "parent_id": null,
+  "title": "Intermodal Weekly Market Report",
+  "section_path": [
+    "Intermodal Weekly Market Report"
+  ],
+  "section_path_text": "Intermodal Weekly Market Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Yiannis Parganas\nThe onset of 2024 has ushered in a downward trend for dry bulk owners. Historically, the initial two months of each year typically exhibit a subdued freight market performance. Presently, a multitude of factors are influencing the diminished demand for tonnage.",
+  "keywords": [
+    "china",
+    "brazil",
+    "grain",
+    "soybean",
+    "corn",
+    "million",
+    "exports",
+    "year",
+    "tons",
+    "are",
+    "january",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 592,
+  "source_path": "reports/breakwave/2024/2024-01-17_intermodal-weekly-market-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/17/intermodal-weekly-market-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-17_2024_01_17_intermodal_weekly_market_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-17_2024_01_17_intermodal_weekly_market_report",
+      "parent_id": "breakwave_insights_insights_2024-01-17_2024_01_17_intermodal_weekly_market_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Yiannis Parganas\nThe onset of 2024 has ushered in a downward trend for dry bulk owners. Historically, the initial two months of each year typically exhibit a subdued freight market performance.",
+      "keywords": [
+        "china",
+        "brazil",
+        "grain",
+        "soybean",
+        "corn",
+        "million",
+        "exports",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 590,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

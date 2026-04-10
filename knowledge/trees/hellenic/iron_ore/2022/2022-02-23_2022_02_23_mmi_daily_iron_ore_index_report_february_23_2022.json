@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-02-23_2022_02_23_mmi_daily_iron_ore_index_report_february_23_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-02-23_2022_02_23_mmi_daily_iron_ore_index_report_february_23_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report February 23 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report February 23 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report February 23 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 23/02/2022\nDCE iron ore fluctuated to the upside in the morning and retreated in the afternoon. an decrease of 0.78%throughout the day; The quotation in the morning steady decline over yesterday. Market wait-and-see sentiment increased, and port spot turnover continues low.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "port",
+    "ore",
+    "yuan/mt",
+    "iron",
+    "dealt",
+    "increased",
+    "high",
+    "level",
+    "main"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 292,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-02-23_mmi-daily-iron-ore-index-report-february-23-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-february-23-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-02-23_2022_02_23_mmi_daily_iron_ore_index_report_february_23_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-02-23_2022_02_23_mmi_daily_iron_ore_index_report_february_23_2022",
+      "parent_id": "hellenic_iron_ore_2022-02-23_2022_02_23_mmi_daily_iron_ore_index_report_february_23_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 23/02/2022\nDCE iron ore fluctuated to the upside in the morning and retreated in the afternoon. an decrease of 0.78%throughout the day; The quotation in the morning steady decline over yesterday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "port",
+        "ore",
+        "yuan/mt",
+        "iron",
+        "dealt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 290,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

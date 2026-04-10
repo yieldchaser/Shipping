@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nAccording to data released yesterday, the Chinese economic recovery is in full swing. The world's second-largest economy grew by 4.5 per cent during the first quarter of the year compared to the same period last year. The pace of the growth was the highest in a year and exceeded the consensus expectation of a four per cent expansion.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1258,
+  "source_path": "reports/breakwave/2023/2023-04-19_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/19/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "According to data released yesterday, the Chinese economic recovery is in full swing. The world's second-largest economy grew by 4.5 per cent during the first quarter of the year compared to the same period last year.",
+      "keywords": [
+        "china",
+        "during",
+        "year",
+        "chinese",
+        "economic",
+        "cent",
+        "growth",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 235,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "A stronger dollar and the prospects of additional interest rate hikes weighed on crude oil prices yesterday. The Brent June contracts retreated by 1.8 per cent and settled at 84.76 dollars per barrel.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 423,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Continued weakness for the two largest dry bulk vessel segments weighed on the Baltic Dry Index yesterday. The headline index declined by 1.6 per cent, as the sub-indices for the Capesizes and Panamaxes fell by 2.6 and 1.6 per cent, respectively.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 301,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-04-19_2023_04_19_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The better-than-expected Chinese growth during the first quarter of the year puts the world's second-largest economy on track to reach the year's rather conservative growth target of five per cent. However, disappointing industrial production during March suggest that the road ahead may not be without its challenges for the Chinese economy.",
+      "keywords": [
+        "china",
+        "month",
+        "cargo",
+        "chinese",
+        "data",
+        "during",
+        "growth",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 266,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

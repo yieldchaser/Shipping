@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-29_2022_08_29_its_not_the_equity_volatility_its_whats_coming_next__root",
+  "doc_id": "breakwave_insights_insights_2022-08-29_2022_08_29_its_not_the_equity_volatility_its_whats_coming_next",
+  "parent_id": null,
+  "title": "Its Not The Equity Volatility Its Whats Coming Next",
+  "section_path": [
+    "Its Not The Equity Volatility Its Whats Coming Next"
+  ],
+  "section_path_text": "Its Not The Equity Volatility Its Whats Coming Next",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nA lot can happen in eight minutes. You can read eight pages of a novel. You can wait for the sun's light to reach you.",
+  "keywords": [
+    "crude_oil",
+    "not",
+    "are",
+    "fed",
+    "can",
+    "markets",
+    "but",
+    "central",
+    "its",
+    "may",
+    "you",
+    "after"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 977,
+  "source_path": "reports/breakwave/2022/2022-08-29_its-not-the-equity-volatility-its-whats-coming-next.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/29/its-not-the-equity-volatility-its-whats-coming-next",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-29_2022_08_29_its_not_the_equity_volatility_its_whats_coming_next__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-08-29_2022_08_29_its_not_the_equity_volatility_its_whats_coming_next",
+      "parent_id": "breakwave_insights_insights_2022-08-29_2022_08_29_its_not_the_equity_volatility_its_whats_coming_next__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nA lot can happen in eight minutes. You can read eight pages of a novel.",
+      "keywords": [
+        "crude_oil",
+        "not",
+        "are",
+        "fed",
+        "can",
+        "markets",
+        "but",
+        "central"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 975,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

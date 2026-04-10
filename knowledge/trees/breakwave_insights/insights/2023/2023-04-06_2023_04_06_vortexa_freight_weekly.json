@@ -1,0 +1,112 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly__root",
+  "doc_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly",
+  "parent_id": null,
+  "title": "Vortexa Freight Weekly",
+  "section_path": [
+    "Vortexa Freight Weekly"
+  ],
+  "section_path_text": "Vortexa Freight Weekly",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "OPEC cuts expose VLCCs|| USG dirty rates slide\nBy Ioannis Papadimitriou\n\nANALYSIS / EAST OF SUEZ / DIRTY\nOPEC+ cuts could shape up the VLCC trade, while leaving the rest of the vessel classes unscathed\nTanker Utilisation from OPEC+ members involved in May 23 cuts vs. Global Tanker utilisation, split by vessel class\nOPEC+ led by Saudi Arabia and other members caught the world in surprise by announcing a voluntary cut of around 1.2 million bpd. The voluntary cuts are expected to start in May 2023 and last until the end of the year.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "cuts",
+    "opec",
+    "crude",
+    "could",
+    "utilisation"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 531,
+  "source_path": "reports/breakwave/2023/2023-04-06_vortexa-freight-weekly.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/6/vortexa-freight-weekly",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly__s01_opec_cuts_expose_vlccs_usg_dirty_rates_slide",
+      "doc_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly__root",
+      "title": "OPEC cuts expose VLCCs|| USG dirty rates slide",
+      "section_path": [
+        "OPEC cuts expose VLCCs|| USG dirty rates slide"
+      ],
+      "section_path_text": "OPEC cuts expose VLCCs|| USG dirty rates slide",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "ioannis",
+        "papadimitriou"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly__s02_analysis_east_of_suez_dirty",
+      "doc_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly__root",
+      "title": "ANALYSIS / EAST OF SUEZ / DIRTY",
+      "section_path": [
+        "ANALYSIS / EAST OF SUEZ / DIRTY"
+      ],
+      "section_path_text": "ANALYSIS / EAST OF SUEZ / DIRTY",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "OPEC+ cuts could shape up the VLCC trade, while leaving the rest of the vessel classes unscathed\nTanker Utilisation from OPEC+ members involved in May 23 cuts vs. Global Tanker utilisation, split by vessel class\nOPEC+ led by Saudi Arabia and other members caught the world in surprise by announcing a voluntary cut of around 1.2 million bpd.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "atlantic",
+        "crude_oil",
+        "cuts",
+        "opec",
+        "utilisation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 249,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly__s03_analysis_west_of_suez_dirty",
+      "doc_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-04-06_2023_04_06_vortexa_freight_weekly__root",
+      "title": "ANALYSIS / WEST OF SUEZ / DIRTY",
+      "section_path": [
+        "ANALYSIS / WEST OF SUEZ / DIRTY"
+      ],
+      "section_path_text": "ANALYSIS / WEST OF SUEZ / DIRTY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "USG rates slide but OPEC+ cuts could drive a comeback\nUS Gulf-to-Europe (TD25) freight rates vs Aframax availability in the US Gulf\nUS crude exports reached a dataset high in March, standing at almost 2mbd. Crude tonne-days out of the US Gulf show that most of these volumes have headed towards Europe and Asia, with VLCC tonne-days showing the steepest increase.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "crude",
+        "availability",
+        "could"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

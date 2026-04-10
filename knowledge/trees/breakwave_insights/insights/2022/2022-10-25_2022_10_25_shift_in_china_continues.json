@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-25_2022_10_25_shift_in_china_continues__root",
+  "doc_id": "breakwave_insights_insights_2022-10-25_2022_10_25_shift_in_china_continues",
+  "parent_id": null,
+  "title": "Shift In China Continues",
+  "section_path": [
+    "Shift In China Continues"
+  ],
+  "section_path_text": "Shift In China Continues",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChinese banks issued 2.47 trillion yuan in new loans in September. This marks a month-on-month increase of 1.22 trillion yuan (98%) and a year-on-year increase of 810 billion yuan (49%). China's new loans have each now increased on both a month-on-month and year-on-year basis during four of the last five months.",
+  "keywords": [
+    "china",
+    "growth",
+    "last",
+    "remains",
+    "yuan",
+    "are",
+    "came",
+    "chinese",
+    "loan",
+    "loans",
+    "new",
+    "only"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 360,
+  "source_path": "reports/breakwave/2022/2022-10-25_shift-in-china-continues.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/25/shift-in-china-continues",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-25_2022_10_25_shift_in_china_continues__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-25_2022_10_25_shift_in_china_continues",
+      "parent_id": "breakwave_insights_insights_2022-10-25_2022_10_25_shift_in_china_continues__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChinese banks issued 2.47 trillion yuan in new loans in September. This marks a month-on-month increase of 1.22 trillion yuan (98%) and a year-on-year increase of 810 billion yuan (49%).",
+      "keywords": [
+        "china",
+        "growth",
+        "last",
+        "remains",
+        "yuan",
+        "are",
+        "came",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 358,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

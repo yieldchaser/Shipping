@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       source:
-        description: 'Source: breakwave | baltic | books | all'
+        description: 'Source: breakwave | baltic | breakwave_insights | hellenic | books | all'
         default: 'all'
       rebuild:
         description: 'Full rebuild: true | false'

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-08_2023_06_08_chinas_industrial_sector_continues_to_stall_ongoing_recessio__root",
+  "doc_id": "breakwave_insights_insights_2023-06-08_2023_06_08_chinas_industrial_sector_continues_to_stall_ongoing_recessio",
+  "parent_id": null,
+  "title": "Chinas Industrial Sector Continues To Stall Ongoing Recession In United States And Other Nations",
+  "section_path": [
+    "Chinas Industrial Sector Continues To Stall Ongoing Recession In United States And Other Nations"
+  ],
+  "section_path_text": "Chinas Industrial Sector Continues To Stall Ongoing Recession In United States And Other Nations",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina's manufacturing purchasing managers' index (PMI) fell to 48.8 in May, which has marked a second straight month of contraction. This weak PMI data is not surprising and is down slightly from the 49.2 contraction seen in April. Overall, it remains clear that China's industrial recovery has stalled in recent months.",
+  "keywords": [
+    "china",
+    "pmi",
+    "contraction",
+    "last",
+    "retail",
+    "sales",
+    "during",
+    "financial",
+    "may",
+    "receiving",
+    "seen",
+    "states"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 353,
+  "source_path": "reports/breakwave/2023/2023-06-08_chinas-industrial-sector-continues-to-stall-ongoing-recessio.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/8/chinas-industrial-sector-continues-to-stall-ongoing-recession-in-united-states-and-other-nations",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-08_2023_06_08_chinas_industrial_sector_continues_to_stall_ongoing_recessio__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-08_2023_06_08_chinas_industrial_sector_continues_to_stall_ongoing_recessio",
+      "parent_id": "breakwave_insights_insights_2023-06-08_2023_06_08_chinas_industrial_sector_continues_to_stall_ongoing_recessio__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina's manufacturing purchasing managers' index (PMI) fell to 48.8 in May, which has marked a second straight month of contraction. This weak PMI data is not surprising and is down slightly from the 49.2 contraction seen in April.",
+      "keywords": [
+        "china",
+        "pmi",
+        "contraction",
+        "last",
+        "retail",
+        "sales",
+        "during",
+        "financial"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 351,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-23_2023_11_23_uncertainty_for_mrs_migrating_to_the_atlantic_basin_panama_c__root",
+  "doc_id": "breakwave_insights_insights_2023-11-23_2023_11_23_uncertainty_for_mrs_migrating_to_the_atlantic_basin_panama_c",
+  "parent_id": null,
+  "title": "Uncertainty For Mrs Migrating To The Atlantic Basin Panama Canal Congestion Could Create Global Fleet Distribution Rigidity",
+  "section_path": [
+    "Uncertainty For Mrs Migrating To The Atlantic Basin Panama Canal Congestion Could Create Global Fleet Distribution Rigidity"
+  ],
+  "section_path_text": "Uncertainty For Mrs Migrating To The Atlantic Basin Panama Canal Congestion Could Create Global Fleet Distribution Rigidity",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Incentives for MRs to migrate East-to-West are currently high, but a mixed outlook in the Atlantic Basin due to weak product export demand awaits, and Panama Canal congestion could mean vessels cannot easily reposition going forward. By Mary Melton\nMigration to the West of Suez is increasing as Atlantic Basin earnings are now more than double Pacific Earnings (source: Baltic Exchange). East Asia and South East Asia's exports on MRs have declined and Pacific Basin freight rates ( TC7 , TC10 , TC11 ) have been under pressure as East Asia prompt availability surpasses multi-year highs.",
+  "keywords": [
+    "china",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "canal",
+    "mrs",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 797,
+  "source_path": "reports/breakwave/2023/2023-11-23_uncertainty-for-mrs-migrating-to-the-atlantic-basin-panama-c.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/23/uncertainty-for-mrs-migrating-to-the-atlantic-basin-panama-canal-congestion-could-create-global-fleet-distribution-rigidity",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-23_2023_11_23_uncertainty_for_mrs_migrating_to_the_atlantic_basin_panama_c__s01_incentives_for_mrs_to_migrate_east_to_west_are_currently_high_but_a_mixed_outlook_in_the_atlantic_basin_due_to_weak_product_export_demand_awaits_and_panama_canal_congestion_could_mean_vessels_cannot_easily_reposition_going_forward",
+      "doc_id": "breakwave_insights_insights_2023-11-23_2023_11_23_uncertainty_for_mrs_migrating_to_the_atlantic_basin_panama_c",
+      "parent_id": "breakwave_insights_insights_2023-11-23_2023_11_23_uncertainty_for_mrs_migrating_to_the_atlantic_basin_panama_c__root",
+      "title": "Incentives for MRs to migrate East-to-West are currently high, but a mixed outlook in the Atlantic Basin due to weak product export demand awaits, and Panama Canal congestion could mean vessels cannot easily reposition going forward.",
+      "section_path": [
+        "Incentives for MRs to migrate East-to-West are currently high, but a mixed outlook in the Atlantic Basin due to weak product export demand awaits, and Panama Canal congestion could mean vessels cannot easily reposition going forward."
+      ],
+      "section_path_text": "Incentives for MRs to migrate East-to-West are currently high, but a mixed outlook in the Atlantic Basin due to weak product export demand awaits, and Panama Canal congestion could mean vessels cannot easily reposition going forward.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Mary Melton\nMigration to the West of Suez is increasing as Atlantic Basin earnings are now more than double Pacific Earnings (source: Baltic Exchange). East Asia and South East Asia's exports on MRs have declined and Pacific Basin freight rates ( TC7 , TC10 , TC11 ) have been under pressure as East Asia prompt availability surpasses multi-year highs.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "pacific",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 752,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

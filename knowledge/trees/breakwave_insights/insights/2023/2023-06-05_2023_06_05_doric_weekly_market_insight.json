@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-05_2023_06_05_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-06-05_2023_06_05_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"China's raw material inventory index balanced at 47.6 in May, indicating a decline in the inventory of major raw materials in the manufacturing sector\"\nBy Michalis Voutsinas\nAmidst a tumbling spot market and a wounded market sentiment, the World Trade Organization (WTO) published this week the latest update of the \"Goods Trade Barometer\". WTO's barometer is a composite leading indicator for world trade, providing real time information on the trajectory of merchandise trade relative to recent trends. The current reading of 95.6 is up compared to the previous four months but well below the baseline value of 100.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "products",
+    "trade",
+    "was",
+    "manufacturing",
+    "percent",
+    "raw",
+    "time",
+    "inventory",
+    "previous"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 786,
+  "source_path": "reports/breakwave/2023/2023-06-05_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/5/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-05_2023_06_05_doric_weekly_market_insight__s01_china_s_raw_material_inventory_index_balanced_at_47_6_in_may_indicating_a_decline_in_the_inventory_of_major_raw_materials_in_the_manufacturing_sector",
+      "doc_id": "breakwave_insights_insights_2023-06-05_2023_06_05_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-06-05_2023_06_05_doric_weekly_market_insight__root",
+      "title": "\"China's raw material inventory index balanced at 47.6 in May, indicating a decline in the inventory of major raw materials in the manufacturing sector\"",
+      "section_path": [
+        "\"China's raw material inventory index balanced at 47.6 in May, indicating a decline in the inventory of major raw materials in the manufacturing sector\""
+      ],
+      "section_path_text": "\"China's raw material inventory index balanced at 47.6 in May, indicating a decline in the inventory of major raw materials in the manufacturing sector\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nAmidst a tumbling spot market and a wounded market sentiment, the World Trade Organization (WTO) published this week the latest update of the \"Goods Trade Barometer\". WTO's barometer is a composite leading indicator for world trade, providing real time information on the trajectory of merchandise trade relative to recent trends.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "products",
+        "trade",
+        "was",
+        "percent",
+        "manufacturing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 755,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

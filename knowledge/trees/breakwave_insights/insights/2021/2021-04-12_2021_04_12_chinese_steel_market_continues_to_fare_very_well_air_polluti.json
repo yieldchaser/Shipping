@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-12_2021_04_12_chinese_steel_market_continues_to_fare_very_well_air_polluti__root",
+  "doc_id": "breakwave_insights_insights_2021-04-12_2021_04_12_chinese_steel_market_continues_to_fare_very_well_air_polluti",
+  "parent_id": null,
+  "title": "Chinese Steel Market Continues To Fare Very Well Air Pollution Remains Much Improved",
+  "section_path": [
+    "Chinese Steel Market Continues To Fare Very Well Air Pollution Remains Much Improved"
+  ],
+  "section_path_text": "Chinese Steel Market Continues To Fare Very Well Air Pollution Remains Much Improved",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDaily crude steel output at large and medium-sized mills in China averaged 2.21 million tons during March 21 - March 31. This is the same robust level that was seen during the previous ten days and is up year-on-year by 21%. As we have been discussing in our recent Weekly Dry Bulk Reports and Weekly China Reports, China's steel production has been poised to stay strong even as the government works to place limitations on heavy polluting mills near Beijing.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "last",
+    "levels",
+    "days",
+    "march",
+    "million",
+    "consecutive",
+    "exceeded"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 469,
+  "source_path": "reports/breakwave/2021/2021-04-12_chinese-steel-market-continues-to-fare-very-well-air-polluti.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/12/chinese-steel-market-continues-to-fare-very-well-air-pollution-remains-much-improved",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-12_2021_04_12_chinese_steel_market_continues_to_fare_very_well_air_polluti__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-12_2021_04_12_chinese_steel_market_continues_to_fare_very_well_air_polluti",
+      "parent_id": "breakwave_insights_insights_2021-04-12_2021_04_12_chinese_steel_market_continues_to_fare_very_well_air_polluti__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Daily crude steel output at large and medium-sized mills in China averaged 2.21 million tons during March 21 - March 31. This is the same robust level that was seen during the previous ten days and is up year-on-year by 21%.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "steel",
+        "last",
+        "levels",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 467,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

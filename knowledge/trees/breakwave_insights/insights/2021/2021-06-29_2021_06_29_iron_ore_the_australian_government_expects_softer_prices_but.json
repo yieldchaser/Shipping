@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-06-29_2021_06_29_iron_ore_the_australian_government_expects_softer_prices_but__root",
+  "doc_id": "breakwave_insights_insights_2021-06-29_2021_06_29_iron_ore_the_australian_government_expects_softer_prices_but",
+  "parent_id": null,
+  "title": "Iron Ore The Australian Government Expects Softer Prices But With Continued Growth In Global Trade Volumes",
+  "section_path": [
+    "Iron Ore The Australian Government Expects Softer Prices But With Continued Growth In Global Trade Volumes"
+  ],
+  "section_path_text": "Iron Ore The Australian Government Expects Softer Prices But With Continued Growth In Global Trade Volumes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAs the Baltic Dry Index hit the highest levels since June 2010 on Monday, China upped the ante in its ongoing diplomatic spat with Australia. In what is widely seen as a break from its traditional approach, Beijing has lodged a complaint against some Australian anti-dumping duties at the World Trade Organization (WTO). There are also suggestions that a longer list of Chinese grievances against Australian trade policies will find its way to the WTO very soon.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "india",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "australian",
+    "iron",
+    "ore",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 873,
+  "source_path": "reports/breakwave/2021/2021-06-29_iron-ore-the-australian-government-expects-softer-prices-but.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/6/29/iron-ore-the-australian-government-expects-softer-prices-but-with-continued-growth-in-global-trade-volumes",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-06-29_2021_06_29_iron_ore_the_australian_government_expects_softer_prices_but__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-06-29_2021_06_29_iron_ore_the_australian_government_expects_softer_prices_but",
+      "parent_id": "breakwave_insights_insights_2021-06-29_2021_06_29_iron_ore_the_australian_government_expects_softer_prices_but__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAs the Baltic Dry Index hit the highest levels since June 2010 on Monday, China upped the ante in its ongoing diplomatic spat with Australia. In what is widely seen as a break from its traditional approach, Beijing has lodged a complaint against some Australian anti-dumping duties at the World Trade Organization (WTO).",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "india",
+        "iron_ore",
+        "coal",
+        "grain",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 871,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

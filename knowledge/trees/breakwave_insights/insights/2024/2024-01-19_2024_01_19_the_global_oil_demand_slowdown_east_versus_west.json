@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-19_2024_01_19_the_global_oil_demand_slowdown_east_versus_west__root",
+  "doc_id": "breakwave_insights_insights_2024-01-19_2024_01_19_the_global_oil_demand_slowdown_east_versus_west",
+  "parent_id": null,
+  "title": "The Global Oil Demand Slowdown East Versus West",
+  "section_path": [
+    "The Global Oil Demand Slowdown East Versus West"
+  ],
+  "section_path_text": "The Global Oil Demand Slowdown East Versus West",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "While global oil demand has been blanketed by bearish sentiments, this downturn is notably more pronounced in the West than the East of Suez market. By Serena Huang\nRising geopolitical tensions set against a backdrop of global economic challenges and fading seasonal demand has cast much uncertainty on global oil demand growth this year, at least in the first half. Arbitrage economics for several key clean product trade routes are either closed or narrowly workable, signalling ample supply arising from demand weakness, among other factors.",
+  "keywords": [
+    "capesize",
+    "australia",
+    "europe",
+    "us_gulf",
+    "singapore",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "imports",
+    "east",
+    "last"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 686,
+  "source_path": "reports/breakwave/2024/2024-01-19_the-global-oil-demand-slowdown-east-versus-west.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/19/the-global-oil-demand-slowdown-east-versus-west",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-19_2024_01_19_the_global_oil_demand_slowdown_east_versus_west__s01_while_global_oil_demand_has_been_blanketed_by_bearish_sentiments_this_downturn_is_notably_more_pronounced_in_the_west_than_the_east_of_suez_market",
+      "doc_id": "breakwave_insights_insights_2024-01-19_2024_01_19_the_global_oil_demand_slowdown_east_versus_west",
+      "parent_id": "breakwave_insights_insights_2024-01-19_2024_01_19_the_global_oil_demand_slowdown_east_versus_west__root",
+      "title": "While global oil demand has been blanketed by bearish sentiments, this downturn is notably more pronounced in the West than the East of Suez market.",
+      "section_path": [
+        "While global oil demand has been blanketed by bearish sentiments, this downturn is notably more pronounced in the West than the East of Suez market."
+      ],
+      "section_path_text": "While global oil demand has been blanketed by bearish sentiments, this downturn is notably more pronounced in the West than the East of Suez market.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Serena Huang\nRising geopolitical tensions set against a backdrop of global economic challenges and fading seasonal demand has cast much uncertainty on global oil demand growth this year, at least in the first half. Arbitrage economics for several key clean product trade routes are either closed or narrowly workable, signalling ample supply arising from demand weakness, among other factors.",
+      "keywords": [
+        "capesize",
+        "australia",
+        "europe",
+        "us_gulf",
+        "singapore",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 656,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

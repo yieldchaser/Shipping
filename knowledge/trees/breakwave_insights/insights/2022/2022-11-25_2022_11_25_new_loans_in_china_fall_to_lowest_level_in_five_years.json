@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-25_2022_11_25_new_loans_in_china_fall_to_lowest_level_in_five_years__root",
+  "doc_id": "breakwave_insights_insights_2022-11-25_2022_11_25_new_loans_in_china_fall_to_lowest_level_in_five_years",
+  "parent_id": null,
+  "title": "New Loans In China Fall To Lowest Level In Five Years",
+  "section_path": [
+    "New Loans In China Fall To Lowest Level In Five Years"
+  ],
+  "section_path_text": "New Loans In China Fall To Lowest Level In Five Years",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed back in Commodore's November 14th Weekly China Report, Chinese banks issued only 615 billion yuan in new loans in October. This marked a month-on-month decline of 1.86 trillion yuan (-75%) and a year-on-year decline of 211 billion yuan (-26%). New loans had previously increased on a year-on-year basis during four of the prior five months.",
+  "keywords": [
+    "china",
+    "growth",
+    "loans",
+    "new",
+    "outstanding",
+    "yuan",
+    "billion",
+    "loan",
+    "prior",
+    "seen",
+    "banks",
+    "basis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 313,
+  "source_path": "reports/breakwave/2022/2022-11-25_new-loans-in-china-fall-to-lowest-level-in-five-years.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/25/new-loans-in-china-fall-to-lowest-level-in-five-years",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-25_2022_11_25_new_loans_in_china_fall_to_lowest_level_in_five_years__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-25_2022_11_25_new_loans_in_china_fall_to_lowest_level_in_five_years",
+      "parent_id": "breakwave_insights_insights_2022-11-25_2022_11_25_new_loans_in_china_fall_to_lowest_level_in_five_years__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed back in Commodore's November 14th Weekly China Report, Chinese banks issued only 615 billion yuan in new loans in October. This marked a month-on-month decline of 1.86 trillion yuan (-75%) and a year-on-year decline of 211 billion yuan (-26%).",
+      "keywords": [
+        "china",
+        "growth",
+        "loans",
+        "new",
+        "outstanding",
+        "yuan",
+        "billion",
+        "loan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 311,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

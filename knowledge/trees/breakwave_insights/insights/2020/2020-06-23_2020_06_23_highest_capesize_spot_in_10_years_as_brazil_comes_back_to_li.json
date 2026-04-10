@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-23_2020_06_23_highest_capesize_spot_in_10_years_as_brazil_comes_back_to_li__root",
+  "doc_id": "breakwave_insights_insights_2020-06-23_2020_06_23_highest_capesize_spot_in_10_years_as_brazil_comes_back_to_li",
+  "parent_id": null,
+  "title": "Highest Capesize Spot In 10 Years As Brazil Comes Back To Life",
+  "section_path": [
+    "Highest Capesize Spot In 10 Years As Brazil Comes Back To Life"
+  ],
+  "section_path_text": "Highest Capesize Spot In 10 Years As Brazil Comes Back To Life",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAnother day of higher dry bulk rates, with Capesize spot levels reaching the highest point for any given July in the last 10 years as both basins see tight vessel availability and strong demand for ships. On the Atlantic front, that has been suffering from cargo flow for most of the year, Brazilian iron ore export volumes have been plentiful and thus demand for ships to transport such cargoes has increased considerably. As a result, more vessels are steaming towards the Atlantic but now such trend is causing a tighter market in the Pacific, thus pushing Australia-China rates higher in the process.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "steel",
+    "are",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 736,
+  "source_path": "reports/breakwave/2020/2020-06-23_highest-capesize-spot-in-10-years-as-brazil-comes-back-to-li.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/23/highest-capesize-spot-in-10-years-as-brazil-comes-back-to-life",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-23_2020_06_23_highest_capesize_spot_in_10_years_as_brazil_comes_back_to_li__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-23_2020_06_23_highest_capesize_spot_in_10_years_as_brazil_comes_back_to_li",
+      "parent_id": "breakwave_insights_insights_2020-06-23_2020_06_23_highest_capesize_spot_in_10_years_as_brazil_comes_back_to_li__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Another day of higher dry bulk rates, with Capesize spot levels reaching the highest point for any given July in the last 10 years as both basins see tight vessel availability and strong demand for ships. On the Atlantic front, that has been suffering from cargo flow for most of the year, Brazilian iron ore export volumes have been plentiful and thus demand for ships to transport such cargoes has increased considerably.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 734,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__root",
+  "doc_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il",
+  "parent_id": null,
+  "title": "Z1Ie3Abd76W69Mdayn9Zgy5A92C7Il",
+  "section_path": [
+    "Z1Ie3Abd76W69Mdayn9Zgy5A92C7Il"
+  ],
+  "section_path_text": "Z1Ie3Abd76W69Mdayn9Zgy5A92C7Il",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Dry Bulk Coal flows from India\nBrazilian iron ore export volumes increased in August, leading to a boost in Capesize tonne days\nThroughout the last week of September, freight rates maintaining the strength observed in previous days. It appears that the third quarter will conclude with higher freight rates than those witnessed in the preceding two months. Notable increases were seen on a monthly basis in the freight market for large vessel sizes, particularly in the Capesize West Australia to China route and the Panamax Far East RV.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "india",
+    "iron_ore",
+    "coal",
+    "number"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1050,
+  "source_path": "reports/breakwave/2023/2023-09-27_z1ie3abd76w69mdayn9zgy5a92c7il.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/27/z1ie3abd76w69mdayn9zgy5a92c7il",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__s01_chart_of_the_week_dry_bulk_coal_flows_from_india",
+      "doc_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il",
+      "parent_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__root",
+      "title": "Chart of the Week: Dry Bulk Coal flows from India",
+      "section_path": [
+        "Chart of the Week: Dry Bulk Coal flows from India"
+      ],
+      "section_path_text": "Chart of the Week: Dry Bulk Coal flows from India",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Brazilian iron ore export volumes increased in August, leading to a boost in Capesize tonne days\nThroughout the last week of September, freight rates maintaining the strength observed in previous days. It appears that the third quarter will conclude with higher freight rates than those witnessed in the preceding two months.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "australia",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 331,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il",
+      "parent_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Firmer\nThe sentiment in the freight market has improved across all vessel sizes since last week, as shown in the above image for specific routes. Capesize vessel freight rates from Brazil to North China rose to almost $20/ton, marking a 6% weekly increase and 18% monthly gain.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "vessel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 203,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il",
+      "parent_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (# vessels) Decreasing\nThe number of ballast ships shows a decreasing trend, especially in the Capesize segment. Capesize SE Africa: The number of ballasters dropped to 100, which is 22 vessels less than six weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "ballast",
+        "ballasters",
+        "ships"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il",
+      "parent_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size Tonne Days Mixed\nThere seem to be the first signs of a recovery in the Capesize, while a downward revision persists in the Supramax and Handysize segments. Capesize : Demand growth in tonnes per day seems to have found a slightly higher pace of growth since the end of the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "growth",
+        "previous",
+        "september",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il",
+      "parent_id": "breakwave_insights_insights_2023-09-27_2023_09_27_z1ie3abd76w69mdayn9zgy5a92c7il__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports No of Vessels Increasing\nThe level of ship congestion increased in late September due to the Supramax and Panamax vessels. Capesize: The number of congested ships decreased to 104, down by 2 from last week, and the trend is still holding lower than at the start of the month.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "ships",
+        "congested",
+        "number"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

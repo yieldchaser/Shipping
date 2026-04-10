@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_23__root",
+  "doc_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_23",
+  "parent_id": null,
+  "title": "Doric Dry Bulk Review 2022 Part 23",
+  "section_path": [
+    "Doric Dry Bulk Review 2022 Part 23"
+  ],
+  "section_path_text": "Doric Dry Bulk Review 2022 Part 23",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Act II - \"April hath put a spirit of youth in everything.\"\nFor nearly two years, China's daily Covid-19 cases rarely extended into three digits, and often weeks went by without a single case. China's zero-Covid policy had been among the strictest approaches to tackling the pandemic anywhere in the world. Even as the rest of the world struggled to contain the more transmissible new variants, China remained largely untouched.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "pacific",
+    "meg",
+    "europe",
+    "india",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 14150,
+  "source_path": "reports/breakwave/2022/2022-12-29_doric-dry-bulk-review-2022-part-23.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/29/doric-dry-bulk-review-2022-part-23",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_23__s01_act_ii_april_hath_put_a_spirit_of_youth_in_everything",
+      "doc_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_23",
+      "parent_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_23__root",
+      "title": "Act II - \"April hath put a spirit of youth in everything.\"",
+      "section_path": [
+        "Act II - \"April hath put a spirit of youth in everything.\""
+      ],
+      "section_path_text": "Act II - \"April hath put a spirit of youth in everything.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For nearly two years, China's daily Covid-19 cases rarely extended into three digits, and often weeks went by without a single case. China's zero-Covid policy had been among the strictest approaches to tackling the pandemic anywhere in the world.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "pacific",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7486,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_23__s02_act_iii_tis_not_enough_to_help_the_feeble_up_but_to_support_them_after",
+      "doc_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_23",
+      "parent_id": "breakwave_insights_insights_2022-12-29_2022_12_29_doric_dry_bulk_review_2022_part_23__root",
+      "title": "Act III - \"'Tis not enough to help the feeble up, but to support them after.\"",
+      "section_path": [
+        "Act III - \"'Tis not enough to help the feeble up, but to support them after.\""
+      ],
+      "section_path_text": "Act III - \"'Tis not enough to help the feeble up, but to support them after.\"",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The first trading week of the third quarter saw Baltic indices steaming further south, with the Baltic Dry Index balancing midweek at three-month minima. Growing concern that out-of-control inflation, rising interest rates and slowing growth could join forces to tip the world into recession had a negative bearing on market activity.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "brazil",
+        "australia",
+        "meg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6629,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

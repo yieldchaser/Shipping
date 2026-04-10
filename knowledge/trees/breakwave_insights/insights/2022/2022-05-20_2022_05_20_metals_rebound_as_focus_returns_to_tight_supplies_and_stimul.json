@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-20_2022_05_20_metals_rebound_as_focus_returns_to_tight_supplies_and_stimul__root",
+  "doc_id": "breakwave_insights_insights_2022-05-20_2022_05_20_metals_rebound_as_focus_returns_to_tight_supplies_and_stimul",
+  "parent_id": null,
+  "title": "Metals Rebound As Focus Returns To Tight Supplies And Stimulus Measures",
+  "section_path": [
+    "Metals Rebound As Focus Returns To Tight Supplies And Stimulus Measures"
+  ],
+  "section_path_text": "Metals Rebound As Focus Returns To Tight Supplies And Stimulus Measures",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nCommodities gained as investors shrugged off concerns of weaker economic growth to focus on the broad tightness across most markets amid supply side issues. A weaker USD also helped support investor appetite. Crude oil prices were under pressure early in the session as concerns of weaker economic growth amid tighter monetary policies by central banks remained the focus.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "amid",
+    "demand",
+    "weaker",
+    "european",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 743,
+  "source_path": "reports/breakwave/2022/2022-05-20_metals-rebound-as-focus-returns-to-tight-supplies-and-stimul.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/20/metals-rebound-as-focus-returns-to-tight-supplies-and-stimulus-measures",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-20_2022_05_20_metals_rebound_as_focus_returns_to_tight_supplies_and_stimul__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-20_2022_05_20_metals_rebound_as_focus_returns_to_tight_supplies_and_stimul",
+      "parent_id": "breakwave_insights_insights_2022-05-20_2022_05_20_metals_rebound_as_focus_returns_to_tight_supplies_and_stimul__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nCommodities gained as investors shrugged off concerns of weaker economic growth to focus on the broad tightness across most markets amid supply side issues. A weaker USD also helped support investor appetite.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas",
+        "amid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 741,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

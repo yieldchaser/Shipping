@@ -1,0 +1,112 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly__root",
+  "doc_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly",
+  "parent_id": null,
+  "title": "Vortexa Freight Weekly",
+  "section_path": [
+    "Vortexa Freight Weekly"
+  ],
+  "section_path_text": "Vortexa Freight Weekly",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Mary Melton\n\nANALYSIS / EAST OF SUEZ / DIRTY\n\n\nTanker supply weighs on VLCC rates\nGlobal VLCC utilisation (excl. Iran & Venezuela) per voyage status\nCrude exports out of the Middle East fell by almost 10% in August due to voluntary Saudi cuts. Breaking this down by vessel class, VLCCs have seen Middle Eastern crude flows decline by almost 10% while on other vessel classes, flows increased by over 10%.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "west_africa",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "crude",
+    "east",
+    "utilisation"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 449,
+  "source_path": "reports/breakwave/2023/2023-09-14_vortexa-freight-weekly.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/14/vortexa-freight-weekly",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "mary",
+        "melton"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly__s03_tanker_supply_weighs_on_vlcc_rates",
+      "doc_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly__root",
+      "title": "Tanker supply weighs on VLCC rates",
+      "section_path": [
+        "Tanker supply weighs on VLCC rates"
+      ],
+      "section_path_text": "Tanker supply weighs on VLCC rates",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Iran & Venezuela) per voyage status\nCrude exports out of the Middle East fell by almost 10% in August due to voluntary Saudi cuts. Breaking this down by vessel class, VLCCs have seen Middle Eastern crude flows decline by almost 10% while on other vessel classes, flows increased by over 10%.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "west_africa",
+        "us_gulf",
+        "crude_oil",
+        "almost",
+        "crude",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 228,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly__s05_latam_east_coast_crude_tanker_utilisation_falls_due_to_lower_brazilian_exports",
+      "doc_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-09-14_2023_09_14_vortexa_freight_weekly__root",
+      "title": "LatAm East Coast crude tanker utilisation falls due to lower Brazilian exports",
+      "section_path": [
+        "LatAm East Coast crude tanker utilisation falls due to lower Brazilian exports"
+      ],
+      "section_path_text": "LatAm East Coast crude tanker utilisation falls due to lower Brazilian exports",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "LatAm East Coast crude tonne-miles (LHS) and utilisation (RHS)\nBrazilian crude exports fell m-o-m in August as policy intended to price domestic products lower than imports led to increased refinery runs, and therefore less crude available to export (source: Argus). As a result, utilisation from LatAm East Coast (Mexico + South America East Coast) for VLCCs, Suezmaxes and Aframaxes has been falling.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "products",
+        "crude",
+        "coast",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

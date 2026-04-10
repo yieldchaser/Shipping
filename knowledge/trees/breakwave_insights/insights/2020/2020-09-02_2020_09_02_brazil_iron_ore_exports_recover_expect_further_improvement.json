@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-09-02_2020_09_02_brazil_iron_ore_exports_recover_expect_further_improvement__root",
+  "doc_id": "breakwave_insights_insights_2020-09-02_2020_09_02_brazil_iron_ore_exports_recover_expect_further_improvement",
+  "parent_id": null,
+  "title": "Brazil Iron Ore Exports Recover Expect Further Improvement",
+  "section_path": [
+    "Brazil Iron Ore Exports Recover Expect Further Improvement"
+  ],
+  "section_path_text": "Brazil Iron Ore Exports Recover Expect Further Improvement",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFor the month of August and based on official data by the Brazilian Ministry of Economy, Brazil saw a month-over-month decline in iron ore exports, with an estimated 1.0 million tons of daily exports, an 8% drop over July. Additionally, at 31.3 million tons for the whole month, the total was below last year's 33.8 million tons. Port tracking data, however, indicates a jump in iron ore loadings for August, up some 16% from July, but still down from last year's level.",
+  "keywords": [
+    "brazil",
+    "iron_ore",
+    "last",
+    "year",
+    "iron",
+    "ore",
+    "august",
+    "brazilian",
+    "data",
+    "exports",
+    "million",
+    "july"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 383,
+  "source_path": "reports/breakwave/2020/2020-09-02_brazil-iron-ore-exports-recover-expect-further-improvement.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/9/2/brazil-iron-ore-exports-recover-expect-further-improvement",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-09-02_2020_09_02_brazil_iron_ore_exports_recover_expect_further_improvement__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-09-02_2020_09_02_brazil_iron_ore_exports_recover_expect_further_improvement",
+      "parent_id": "breakwave_insights_insights_2020-09-02_2020_09_02_brazil_iron_ore_exports_recover_expect_further_improvement__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "For the month of August and based on official data by the Brazilian Ministry of Economy, Brazil saw a month-over-month decline in iron ore exports, with an estimated 1.0 million tons of daily exports, an 8% drop over July. Additionally, at 31.3 million tons for the whole month, the total was below last year's 33.8 million tons.",
+      "keywords": [
+        "brazil",
+        "iron_ore",
+        "last",
+        "year",
+        "iron",
+        "ore",
+        "august",
+        "brazilian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 381,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-09_2022_11_09_metals_gain_as_low_inventories_spark_concerns_of_supply_shor__root",
+  "doc_id": "breakwave_insights_insights_2022-11-09_2022_11_09_metals_gain_as_low_inventories_spark_concerns_of_supply_shor",
+  "parent_id": null,
+  "title": "Metals Gain As Low Inventories Spark Concerns Of Supply Shortages",
+  "section_path": [
+    "Metals Gain As Low Inventories Spark Concerns Of Supply Shortages"
+  ],
+  "section_path_text": "Metals Gain As Low Inventories Spark Concerns Of Supply Shortages",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nRising COVID-19 cases in China weighed on sentiment across commodity markets. This was offset in industrial commodity sectors by further falls in inventories. A weaker USD also helped support investor appetite.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "gas",
+    "was",
+    "energy",
+    "amid",
+    "are",
+    "cases"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 737,
+  "source_path": "reports/breakwave/2022/2022-11-09_metals-gain-as-low-inventories-spark-concerns-of-supply-shor.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/9/metals-gain-as-low-inventories-spark-concerns-of-supply-shortages",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-09_2022_11_09_metals_gain_as_low_inventories_spark_concerns_of_supply_shor__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-09_2022_11_09_metals_gain_as_low_inventories_spark_concerns_of_supply_shor",
+      "parent_id": "breakwave_insights_insights_2022-11-09_2022_11_09_metals_gain_as_low_inventories_spark_concerns_of_supply_shor__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nRising COVID-19 cases in China weighed on sentiment across commodity markets. This was offset in industrial commodity sectors by further falls in inventories.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "gas",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 735,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

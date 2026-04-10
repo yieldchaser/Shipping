@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-12-14_2023_12_14_zler9kwha8m413zqrl4k40stes4zcm__root",
+  "doc_id": "breakwave_insights_insights_2023-12-14_2023_12_14_zler9kwha8m413zqrl4k40stes4zcm",
+  "parent_id": null,
+  "title": "Zler9Kwha8M413Zqrl4K40Stes4Zcm",
+  "section_path": [
+    "Zler9Kwha8M413Zqrl4K40Stes4Zcm"
+  ],
+  "section_path_text": "Zler9Kwha8M413Zqrl4K40Stes4Zcm",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nMarkets were steady ahead of the FOMC meeting. Industrial metals fell on weak Chinese economic data. However, energy markets rebounded following further drawdowns in inventories.",
+  "keywords": [
+    "lng",
+    "china",
+    "singapore",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "economic",
+    "oil",
+    "supply",
+    "amid"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 592,
+  "source_path": "reports/breakwave/2023/2023-12-14_zler9kwha8m413zqrl4k40stes4zcm.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/12/14/zler9kwha8m413zqrl4k40stes4zcm",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-12-14_2023_12_14_zler9kwha8m413zqrl4k40stes4zcm__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-12-14_2023_12_14_zler9kwha8m413zqrl4k40stes4zcm",
+      "parent_id": "breakwave_insights_insights_2023-12-14_2023_12_14_zler9kwha8m413zqrl4k40stes4zcm__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nMarkets were steady ahead of the FOMC meeting. Industrial metals fell on weak Chinese economic data.",
+      "keywords": [
+        "lng",
+        "china",
+        "singapore",
+        "iron_ore",
+        "crude_oil",
+        "products",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 590,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

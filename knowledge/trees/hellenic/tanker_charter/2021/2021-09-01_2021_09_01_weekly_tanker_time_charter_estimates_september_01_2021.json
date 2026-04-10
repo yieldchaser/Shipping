@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_tanker_charter_2021-09-01_2021_09_01_weekly_tanker_time_charter_estimates_september_01_2021__root",
+  "doc_id": "hellenic_tanker_charter_2021-09-01_2021_09_01_weekly_tanker_time_charter_estimates_september_01_2021",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, September 01 2021",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, September 01 2021"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, September 01 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nLittle change in the crude market from last week, some short-term period interest has been reported however with rate levels remaining low, there is little incentive for owners to consider longer periods as they hold out for an improvement in rates. Limited fresh business to report in the clean market, aside from one or two MR fixtures, as this sector continues to struggle from a lack of demand.",
+  "keywords": [
+    "little",
+    "aside",
+    "business",
+    "change",
+    "clean",
+    "consider",
+    "continues",
+    "crude",
+    "demand.",
+    "fixtures",
+    "fresh",
+    "hold"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 108,
+  "source_path": "reports/hellenic/tanker_charter/2021/2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-september-01-2021",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2021-09-01_2021_09_01_weekly_tanker_time_charter_estimates_september_01_2021__s01_main",
+      "doc_id": "hellenic_tanker_charter_2021-09-01_2021_09_01_weekly_tanker_time_charter_estimates_september_01_2021",
+      "parent_id": "hellenic_tanker_charter_2021-09-01_2021_09_01_weekly_tanker_time_charter_estimates_september_01_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Little change in the crude market from last week, some short-term period interest has been reported however with rate levels remaining low, there is little incentive for owners to consider longer periods as they hold out for an improvement in rates. Limited fresh business to report in the clean market, aside from one or two MR fixtures, as this sector continues to struggle from a lack of demand.",
+      "keywords": [
+        "little",
+        "aside",
+        "business",
+        "change",
+        "clean",
+        "consider",
+        "continues",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

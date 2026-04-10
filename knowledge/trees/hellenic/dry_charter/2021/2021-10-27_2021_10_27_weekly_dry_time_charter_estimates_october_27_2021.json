@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-10-27_2021_10_27_weekly_dry_time_charter_estimates_october_27_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-10-27_2021_10_27_weekly_dry_time_charter_estimates_october_27_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, October 27 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, October 27 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, October 27 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe capsize market continued to correct this week with pressure in the pacific as port congestion easedand allowed for iron ore to be discharged in China, releasing tonnage in to the market. Although rates for the kamsarmax/panamax sector came off slightly this week, this market continued to benefit from cargo splits as rates remained more favourable than for the larger vessels. The smaller sizes remained stable this week thanks to a strong market in the Atlantic.",
+  "keywords": [
+    "panamax",
+    "china",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "continued",
+    "remained",
+    "allowed",
+    "although",
+    "atlantic.",
+    "benefit",
+    "came"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 124,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-10-27_weekly-dry-time-charter-estimates-october-27-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-october-27-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-10-27_2021_10_27_weekly_dry_time_charter_estimates_october_27_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-10-27_2021_10_27_weekly_dry_time_charter_estimates_october_27_2021",
+      "parent_id": "hellenic_dry_charter_2021-10-27_2021_10_27_weekly_dry_time_charter_estimates_october_27_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The capsize market continued to correct this week with pressure in the pacific as port congestion easedand allowed for iron ore to be discharged in China, releasing tonnage in to the market. Although rates for the kamsarmax/panamax sector came off slightly this week, this market continued to benefit from cargo splits as rates remained more favourable than for the larger vessels.",
+      "keywords": [
+        "panamax",
+        "china",
+        "atlantic",
+        "pacific",
+        "iron_ore",
+        "continued",
+        "remained",
+        "allowed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

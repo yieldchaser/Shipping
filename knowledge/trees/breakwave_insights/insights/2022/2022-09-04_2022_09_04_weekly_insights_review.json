@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nMillion tons of exports are now expected\nWaste-based biofuels could be a key driver of the energy transition transforming today's limited supply of low-carbon transportation fuels and creating a local, circular economy, according to a new report by research and consultancy group Wood Mackenzie. Read More\n\nA lot can happen in eight minutes\nA lot can happen in eight minutes. You can read eight pages of a novel.",
+  "keywords": [
+    "china",
+    "coal",
+    "crude_oil",
+    "products",
+    "read",
+    "can",
+    "you",
+    "imports",
+    "eight",
+    "power",
+    "source",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 356,
+  "source_path": "reports/breakwave/2022/2022-09-04_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/4/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__s02_million_tons_of_exports_are_now_expected",
+      "doc_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__root",
+      "title": "Million tons of exports are now expected",
+      "section_path": [
+        "Million tons of exports are now expected"
+      ],
+      "section_path_text": "Million tons of exports are now expected",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Waste-based biofuels could be a key driver of the energy transition transforming today's limited supply of low-carbon transportation fuels and creating a local, circular economy, according to a new report by research and consultancy group Wood Mackenzie.",
+      "keywords": [
+        "according",
+        "biofuels",
+        "circular",
+        "consultancy",
+        "could",
+        "creating",
+        "driver",
+        "economy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__s03_a_lot_can_happen_in_eight_minutes",
+      "doc_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__root",
+      "title": "A lot can happen in eight minutes",
+      "section_path": [
+        "A lot can happen in eight minutes"
+      ],
+      "section_path_text": "A lot can happen in eight minutes",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "A lot can happen in eight minutes. You can read eight pages of a novel.",
+      "keywords": [
+        "crude_oil",
+        "can",
+        "you",
+        "eight",
+        "read",
+        "apparently",
+        "billion",
+        "boil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 56,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__s04_the_path_to_a_recession_is_rarely_a_straight_line",
+      "doc_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__root",
+      "title": "The path to a recession is rarely a straight line",
+      "section_path": [
+        "The path to a recession is rarely a straight line"
+      ],
+      "section_path_text": "The path to a recession is rarely a straight line",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "There will be data releases pointing towards a recovery rather than a further weakening of the business cycle, providing the temptation to signal the all-clear.",
+      "keywords": [
+        "all-clear.",
+        "business",
+        "cycle",
+        "data",
+        "further",
+        "pointing",
+        "providing",
+        "rather"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__s05_a_risk_off_tone_across_markets_saw_commodity_markets_come_under_pressure",
+      "doc_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__root",
+      "title": "A risk off tone across markets saw commodity markets come under pressure",
+      "section_path": [
+        "A risk off tone across markets saw commodity markets come under pressure"
+      ],
+      "section_path_text": "A risk off tone across markets saw commodity markets come under pressure",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "This was exacerbated by worsening outbreaks of COVID-19 in China, raising fears of further lockdowns weakening demand.",
+      "keywords": [
+        "china",
+        "covid-19",
+        "demand.",
+        "exacerbated",
+        "fears",
+        "further",
+        "lockdowns",
+        "outbreaks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__s06_imports_from_indonesia_have_remained_the_primary_source_of_imports_and_russia_the_second_largest_source",
+      "doc_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__root",
+      "title": "Imports from Indonesia have remained the primary source of imports and Russia the second largest source",
+      "section_path": [
+        "Imports from Indonesia have remained the primary source of imports and Russia the second largest source"
+      ],
+      "section_path_text": "Imports from Indonesia have remained the primary source of imports and Russia the second largest source",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "China's coal import data for July by origin was recently released and shows that imports from Indonesia have remained the primary source of imports and Russia the second largest source.",
+      "keywords": [
+        "china",
+        "coal",
+        "imports",
+        "data",
+        "import",
+        "indonesia",
+        "july",
+        "largest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__s08_china_sufferd_power_shortage_amid_extreme_weather_conditions",
+      "doc_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-09-04_2022_09_04_weekly_insights_review__root",
+      "title": "China Sufferd Power Shortage Amid Extreme Weather Conditions",
+      "section_path": [
+        "China Sufferd Power Shortage Amid Extreme Weather Conditions"
+      ],
+      "section_path_text": "China Sufferd Power Shortage Amid Extreme Weather Conditions",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "There had been a shortage of power supply caused by high temperatures and worsened by sparse rains in major Chinese provinces including Sichuan, Chongqing, Zhejiang, Anhui and Jiangsu. We try to put some structure to this highly complex question, comparing the evident upside for diesel from power and heat generation to already obvious supply and demand-side adjustments Read More",
+      "keywords": [
+        "china",
+        "products",
+        "power",
+        "read",
+        "supply",
+        "adjustments",
+        "already",
+        "anhui"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

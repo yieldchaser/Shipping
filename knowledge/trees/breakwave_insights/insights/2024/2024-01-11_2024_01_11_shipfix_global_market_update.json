@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWeakness across all dry bulk vessel segments on Tuesday kept the BDI in the red for a second consecutive session. The Capesizes provided most of the negative momentum as cargo order volumes remained subdued. The commodities had experienced a mixed session, with a stronger dollar delivering some headwinds.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1452,
+  "source_path": "reports/breakwave/2024/2024-01-11_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/11/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Weakness across all dry bulk vessel segments on Tuesday kept the BDI in the red for a second consecutive session. The Capesizes provided most of the negative momentum as cargo order volumes remained subdued.",
+      "keywords": [
+        "capesize",
+        "all",
+        "bdi",
+        "bergman",
+        "capesizes",
+        "cargo",
+        "commodities",
+        "consecutive"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 63,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The US dollar gained ground yesterday as investors grew increasingly concerned about the inflation data due for release later this week amid recent solid labour market numbers. A decreased likelihood of a rate cut in March saw the US dollar index rise by a third of a per cent on Tuesday.",
+      "keywords": [
+        "capesize",
+        "per",
+        "cent",
+        "dollar",
+        "march",
+        "according",
+        "all",
+        "amid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil maintained the pattern for the year so far yesterday, with a daily swing between gains and losses. The March Brent futures recovered much of Monday's losses yesterday as concerns over global supplies grew amid rising tensions in the Middle East and halted production in Libya.",
+      "keywords": [
+        "china",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 504,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Exchange's dry bulk indices recorded a second consecutive session with losses across the board. The Baltic Dry Index shed 7.3 per cent, with the Capesizes contributing to much of the decline.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "atlantic",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 384,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2024-01-11_2024_01_11_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Following a solid start to the new year, fortunes have shifted for the Capesizes during the early parts of this week. The Baltic Exchange's index for the segment declined by 14.5 per cent over the week's first two sessions, more than offsetting the 11.8 per cent gain recorded last week.",
+      "keywords": [
+        "capesize",
+        "atlantic",
+        "pacific",
+        "capesizes",
+        "during",
+        "last",
+        "but",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 303,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

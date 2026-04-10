@@ -1,0 +1,314 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nLatest Trends on fuel transition, shipyard actions, government, ports, financing and industry players\nThe U.S. Department of Transportation's Federal Transit Administration (FTA) has announced $384.4 million in federal funding from the Biden-Harris Administration to expand and improve ferry service in communities across the country and accelerate the transition to zero-emission transportation. Read More\n\nLooking forward\nIt was early October 2021 when IMF stressed that global economic upswing was continuing, even as the pandemic resurged.",
+  "keywords": [
+    "panamax",
+    "china",
+    "brazil",
+    "iron_ore",
+    "crude_oil",
+    "read",
+    "demand",
+    "markets",
+    "was",
+    "chinese",
+    "commodity",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 508,
+  "source_path": "reports/breakwave/2023/2023-02-12_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/12/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__s02_latest_trends_on_fuel_transition_shipyard_actions_government_ports_financing_and_industry_players",
+      "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+      "title": "Latest Trends on fuel transition, shipyard actions, government, ports, financing and industry players",
+      "section_path": [
+        "Latest Trends on fuel transition, shipyard actions, government, ports, financing and industry players"
+      ],
+      "section_path_text": "Latest Trends on fuel transition, shipyard actions, government, ports, financing and industry players",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Department of Transportation's Federal Transit Administration (FTA) has announced $384.4 million in federal funding from the Biden-Harris Administration to expand and improve ferry service in communities across the country and accelerate the transition to zero-emission transportation.",
+      "keywords": [
+        "administration",
+        "federal",
+        "accelerate",
+        "announced",
+        "biden-harris",
+        "communities",
+        "country",
+        "department"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__s03_looking_forward",
+      "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+      "title": "Looking forward",
+      "section_path": [
+        "Looking forward"
+      ],
+      "section_path_text": "Looking forward",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "It was early October 2021 when IMF stressed that global economic upswing was continuing, even as the pandemic resurged.",
+      "keywords": [
+        "was",
+        "continuing",
+        "early",
+        "economic",
+        "even",
+        "global",
+        "however..",
+        "imf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__s04_why_the_dichotomy",
+      "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+      "title": "Why the dichotomy?",
+      "section_path": [
+        "Why the dichotomy?"
+      ],
+      "section_path_text": "Why the dichotomy?",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Equity and bond markets continue to rally, with the FTSE 100 hitting all-time highs last week.",
+      "keywords": [
+        "all-time",
+        "bond",
+        "continue",
+        "equity",
+        "ftse",
+        "highs",
+        "hitting",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__s05_slow_start_to_the_year",
+      "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+      "title": "Slow start to the year",
+      "section_path": [
+        "Slow start to the year"
+      ],
+      "section_path_text": "Slow start to the year",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The Baltic Panamax index time-charter equivalent declined by $368/day today, printing at $8,894/day at the time of writing, as dry bulk markets move past the holiday period in the Far East.",
+      "keywords": [
+        "panamax",
+        "brazil",
+        "day",
+        "declined",
+        "east.",
+        "equivalent",
+        "far",
+        "holiday"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__s06_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The first half of February provides a weaker trend in freight rates, while the number of ballasters continues to weigh on freight market sentiment, as the imbalance between supply and demand diminishes the chances of an early recovery.",
+      "keywords": [
+        "ballasters",
+        "between",
+        "chances",
+        "continues",
+        "demand",
+        "diminishes",
+        "early",
+        "february"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__s07_expectations_of_lower_inflation_in_2023",
+      "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+      "title": "Expectations of lower inflation in 2023",
+      "section_path": [
+        "Expectations of lower inflation in 2023"
+      ],
+      "section_path_text": "Expectations of lower inflation in 2023",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Signs of improving demand boosted sentiment across commodity markets.",
+      "keywords": [
+        "boosted",
+        "commodity",
+        "demand",
+        "improving",
+        "markets.",
+        "read",
+        "sentiment",
+        "signs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 13,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__s08_remaining_a_significant_issue_in_china_is_that_the_housing_market_continues_to_deteriorate",
+      "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+      "title": "Remaining a significant issue in China is that the housing market continues to deteriorate.",
+      "section_path": [
+        "Remaining a significant issue in China is that the housing market continues to deteriorate."
+      ],
+      "section_path_text": "Remaining a significant issue in China is that the housing market continues to deteriorate.",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Some positive sentiment was spreading in the dry bulk market a few weeks ago regarding recent improvement in Chinese excavator sales and robust savings among Chinese citizens, but there still is a grim likelihood that existing housing supply far exceeds both current demand and also any higher level of demand that could come this year.",
+      "keywords": [
+        "china",
+        "chinese",
+        "demand",
+        "ago",
+        "among",
+        "any",
+        "both",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__s09_previously_stockpiles_had_decreased_for_two_straight_weeks",
+      "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+      "title": "Previously, stockpiles had decreased for two straight weeks",
+      "section_path": [
+        "Previously, stockpiles had decreased for two straight weeks"
+      ],
+      "section_path_text": "Previously, stockpiles had decreased for two straight weeks",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "China's commodity stockpiles have been rising. 136.5 million tons of iron ore is now stockpiled at Chinese ports, which is 3.1 million tons (2%) more than was stockpiled a week ago.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "million",
+        "stockpiled",
+        "stockpiles",
+        "tons",
+        "ago.",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 63,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__s10_crude_oil_edged_lower",
+      "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+      "title": "Crude oil edged lower",
+      "section_path": [
+        "Crude oil edged lower"
+      ],
+      "section_path_text": "Crude oil edged lower",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Markets were mixed as traders balanced stronger demand in China against the prospects of weaker economic growth in the US.",
+      "keywords": [
+        "china",
+        "against",
+        "balanced",
+        "demand",
+        "economic",
+        "growth",
+        "markets",
+        "mixed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__s11_macro_geopolitics_commodity_markets_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2023-02-12_2023_02_12_weekly_insights_review__root",
+      "title": "Macro/Geopolitics, Commodity Markets, Freight and Bunker Markets",
+      "section_path": [
+        "Macro/Geopolitics, Commodity Markets, Freight and Bunker Markets"
+      ],
+      "section_path_text": "Macro/Geopolitics, Commodity Markets, Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "In recent days, the US dollar has given up some of the gains recorded during the past week and on Monday.",
+      "keywords": [
+        "days",
+        "dollar",
+        "during",
+        "gains",
+        "given",
+        "monday.",
+        "past",
+        "read"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

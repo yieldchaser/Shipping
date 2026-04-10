@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-14_2022_12_14_chappells_shipping_show_as_we_wrap_up_2022_its_important_to__root",
+  "doc_id": "breakwave_insights_insights_2022-12-14_2022_12_14_chappells_shipping_show_as_we_wrap_up_2022_its_important_to",
+  "parent_id": null,
+  "title": "Chappells Shipping Show As We Wrap Up 2022 Its Important To Keep Perspective",
+  "section_path": [
+    "Chappells Shipping Show As We Wrap Up 2022 Its Important To Keep Perspective"
+  ],
+  "section_path_text": "Chappells Shipping Show As We Wrap Up 2022 Its Important To Keep Perspective",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jonathan Chappell and Sean Morgan\nIn our last report of 2022, we address the elephant in the room following a tremendous year for tanker rates and equities (the 8 under our coverage are up 77-339%). Strategic Petroleum Reserve releases slowing, OPEC+ production cuts beginning, the global economy teetering, and the sanctions and price cap on Russian crude implemented as of last Monday, VLCC spot rates have come off the boil of late (see Figure 1). The recent, and rapid, decline has again spurred talk of \"the cycle is already over\" or \"the impact of the global trade map shift is completed,\" and even though rates in most other segments have held near multi-year highs (especially for product tankers), once fear (\"it's over\") and greed (\"time to take profits\") take over, the narrative is tough to fight.",
+  "keywords": [
+    "vlcc",
+    "europe",
+    "crude_oil",
+    "are",
+    "year",
+    "down",
+    "global",
+    "see",
+    "still",
+    "because",
+    "but",
+    "decline"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 498,
+  "source_path": "reports/breakwave/2022/2022-12-14_chappells-shipping-show-as-we-wrap-up-2022-its-important-to.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/14/chappells-shipping-show-as-we-wrap-up-2022-its-important-to-keep-perspective",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-14_2022_12_14_chappells_shipping_show_as_we_wrap_up_2022_its_important_to__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-14_2022_12_14_chappells_shipping_show_as_we_wrap_up_2022_its_important_to",
+      "parent_id": "breakwave_insights_insights_2022-12-14_2022_12_14_chappells_shipping_show_as_we_wrap_up_2022_its_important_to__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jonathan Chappell and Sean Morgan\nIn our last report of 2022, we address the elephant in the room following a tremendous year for tanker rates and equities (the 8 under our coverage are up 77-339%). Strategic Petroleum Reserve releases slowing, OPEC+ production cuts beginning, the global economy teetering, and the sanctions and price cap on Russian crude implemented as of last Monday, VLCC spot rates have come off the boil of late (see Figure 1).",
+      "keywords": [
+        "vlcc",
+        "europe",
+        "crude_oil",
+        "are",
+        "year",
+        "down",
+        "global",
+        "see"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 496,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

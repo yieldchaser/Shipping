@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know__root",
+  "doc_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know",
+  "parent_id": null,
+  "title": "Did You Know",
+  "section_path": [
+    "Did You Know"
+  ],
+  "section_path_text": "Did You Know",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Jamnagar Refinery\nThe Jamnagar Refinery is the private sector crude oil refinery owned by Reliance Industries in Jamnagar, Gujarat, India. The refinery was commissioned on 14 July 1999 with an installed capacity of 668,000 barrels per day. Its current installed capacity is 1,240,000 barrels per day, and it is currently the largest refinery in the world.",
+  "keywords": [
+    "india",
+    "crude_oil",
+    "refinery",
+    "oil",
+    "barrels",
+    "capacity",
+    "per",
+    "complex",
+    "crude",
+    "jamnagar",
+    "ruwais",
+    "abu"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 238,
+  "source_path": "reports/breakwave/2023/2023-03-29_did-you-know.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/29/did-you-know",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know__s01_jamnagar_refinery",
+      "doc_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know__root",
+      "title": "Jamnagar Refinery",
+      "section_path": [
+        "Jamnagar Refinery"
+      ],
+      "section_path_text": "Jamnagar Refinery",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Jamnagar Refinery is the private sector crude oil refinery owned by Reliance Industries in Jamnagar, Gujarat, India. The refinery was commissioned on 14 July 1999 with an installed capacity of 668,000 barrels per day.",
+      "keywords": [
+        "india",
+        "crude_oil",
+        "refinery",
+        "barrels",
+        "capacity",
+        "installed",
+        "jamnagar",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 77,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know__s02_paraguan_refinery",
+      "doc_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know__root",
+      "title": "Paraguaná Refinery",
+      "section_path": [
+        "Paraguaná Refinery"
+      ],
+      "section_path_text": "Paraguaná Refinery",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Paraguaná Refinery is a crude oil refinery complex in Venezuela. It started operations in 1949 with capacity to refine 30 thousand barrels per day.",
+      "keywords": [
+        "crude_oil",
+        "capacity",
+        "complex",
+        "refinery",
+        "venezuela",
+        "accounts",
+        "barrels",
+        "belongs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know__s03_ruwais_refinery",
+      "doc_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-29_2023_03_29_did_you_know__root",
+      "title": "Ruwais Refinery",
+      "section_path": [
+        "Ruwais Refinery"
+      ],
+      "section_path_text": "Ruwais Refinery",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The Ruwais Refinery is operated by the Abu Dhabi National Oil Company. The complex can process up to 837,000 barrels of crude oil and condensate per day, making it the fourth-largest single-site oil refinery in the world and the biggest in the Middle East.",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "refinery",
+        "abu",
+        "dhabi",
+        "ruwais",
+        "barrels",
+        "biggest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

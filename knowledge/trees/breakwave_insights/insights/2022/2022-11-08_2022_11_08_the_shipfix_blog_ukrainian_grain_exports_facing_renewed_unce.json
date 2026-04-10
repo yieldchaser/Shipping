@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-08_2022_11_08_the_shipfix_blog_ukrainian_grain_exports_facing_renewed_unce__root",
+  "doc_id": "breakwave_insights_insights_2022-11-08_2022_11_08_the_shipfix_blog_ukrainian_grain_exports_facing_renewed_unce",
+  "parent_id": null,
+  "title": "The Shipfix Blog Ukrainian Grain Exports Facing Renewed Uncertainty",
+  "section_path": [
+    "The Shipfix Blog Ukrainian Grain Exports Facing Renewed Uncertainty"
+  ],
+  "section_path_text": "The Shipfix Blog Ukrainian Grain Exports Facing Renewed Uncertainty",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe drone attacks on Russian naval assets in Crimea last weekend led to the suspension of the country's participation in the deal that has allowed Ukraine to recommence seaborne exports of grains. Still, despite the withdrawal of one of the agreement's signatories, Ukraine and Turkey said they were looking to maintain the flow of grains to the Bosporus. Several vessels laden with agricultural commodities did also depart from Ukraine on Monday and Tuesday.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "grain",
+    "russian",
+    "deal",
+    "data",
+    "could",
+    "still",
+    "ukrainian",
+    "vessels",
+    "agreement",
+    "ukraine"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 937,
+  "source_path": "reports/breakwave/2022/2022-11-08_the-shipfix-blog-ukrainian-grain-exports-facing-renewed-unce.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/8/the-shipfix-blog-ukrainian-grain-exports-facing-renewed-uncertainty",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-08_2022_11_08_the_shipfix_blog_ukrainian_grain_exports_facing_renewed_unce__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-08_2022_11_08_the_shipfix_blog_ukrainian_grain_exports_facing_renewed_unce",
+      "parent_id": "breakwave_insights_insights_2022-11-08_2022_11_08_the_shipfix_blog_ukrainian_grain_exports_facing_renewed_unce__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe drone attacks on Russian naval assets in Crimea last weekend led to the suspension of the country's participation in the deal that has allowed Ukraine to recommence seaborne exports of grains. Still, despite the withdrawal of one of the agreement's signatories, Ukraine and Turkey said they were looking to maintain the flow of grains to the Bosporus.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "grain",
+        "russian",
+        "deal",
+        "data",
+        "could",
+        "still"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 935,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nLast week ended with signs that the US labour market is slowing down amid mounting economic headwinds and rising interest rates. The world's largest economy added 209,000 jobs in June, the lowest since December 2020. However, the country's unemployment rate retreated marginally despite the weaker-than-expected reading.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1277,
+  "source_path": "reports/breakwave/2023/2023-07-11_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/11/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Last week ended with signs that the US labour market is slowing down amid mounting economic headwinds and rising interest rates. The world's largest economy added 209,000 jobs in June, the lowest since December 2020.",
+      "keywords": [
+        "china",
+        "data",
+        "interest",
+        "june",
+        "last",
+        "world",
+        "economy",
+        "further"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Following a robust session on Friday, crude oil prices advanced over the course of the past week as concerns over tight global supplies and a weaker dollar supported the prices. The September Brent futures recorded a weekly advance of 4.1 per cent and ended Friday's session at 78.47 dollars per barrel.",
+      "keywords": [
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 495,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Despite gains for the larger segments on Thursday and Friday, the Baltic Dry Index recorded a sharp decline last week. The headline index shed 7.5 per cent amid weekly losses across all dry bulk segments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 320,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-11_2023_07_11_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Cargo order volumes for Russian coal loading in the Baltic Sea remained under pressure during the past month. The loss of the European market in the wake of sanctions initially saw an increase in shipments to the distant ports in Asia.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "coal",
+        "cargo",
+        "order",
+        "remained",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 192,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

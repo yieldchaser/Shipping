@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-08_2022_07_08_metals_rebound_as_china_plans_further_stimulus_measures__root",
+  "doc_id": "breakwave_insights_insights_2022-07-08_2022_07_08_metals_rebound_as_china_plans_further_stimulus_measures",
+  "parent_id": null,
+  "title": "Metals Rebound As China Plans Further Stimulus Measures",
+  "section_path": [
+    "Metals Rebound As China Plans Further Stimulus Measures"
+  ],
+  "section_path_text": "Metals Rebound As China Plans Further Stimulus Measures",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nCommodity markets rebounded as the focus returned to tightness in physical markets. Sentiment was also boosted by China's move to support economic growth with fiscal stimulus measures. Base metals rebounded sharply as China considered a massive USD224bn stimulus to boost growth.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "are",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 789,
+  "source_path": "reports/breakwave/2022/2022-07-08_metals-rebound-as-china-plans-further-stimulus-measures.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/8/metals-rebound-as-china-plans-further-stimulus-measures",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-08_2022_07_08_metals_rebound_as_china_plans_further_stimulus_measures__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-08_2022_07_08_metals_rebound_as_china_plans_further_stimulus_measures",
+      "parent_id": "breakwave_insights_insights_2022-07-08_2022_07_08_metals_rebound_as_china_plans_further_stimulus_measures__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nCommodity markets rebounded as the focus returned to tightness in physical markets. Sentiment was also boosted by China's move to support economic growth with fiscal stimulus measures.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 787,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

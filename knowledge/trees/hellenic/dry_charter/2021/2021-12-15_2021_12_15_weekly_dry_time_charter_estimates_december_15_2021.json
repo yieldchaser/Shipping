@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-12-15_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-12-15_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, December 15 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, December 15 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, December 15 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize TC rates continued to firm slightly this week. However we expect sentiment in the period market to dip in the coming weeks, following the pattern of the spot rates as the market winds down ahead of the Christmas period. A quiet week for the panamax/kamsarmax sector and rates moved sideways although the underlying sentiment remains positive.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "ahead",
+    "sector",
+    "sentiment",
+    "although",
+    "christmas",
+    "coming",
+    "continued",
+    "dip",
+    "down",
+    "expect"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 131,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-12-15_weekly-dry-time-charter-estimates-december-15-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-december-15-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-12-15_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-12-15_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021",
+      "parent_id": "hellenic_dry_charter_2021-12-15_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize TC rates continued to firm slightly this week. However we expect sentiment in the period market to dip in the coming weeks, following the pattern of the spot rates as the market winds down ahead of the Christmas period.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "ahead",
+        "sector",
+        "sentiment",
+        "although",
+        "christmas",
+        "coming"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

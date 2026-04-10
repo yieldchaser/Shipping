@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-04-04_2022_04_04_global_steel_output_remains_strong_outside_china__root",
+  "doc_id": "breakwave_insights_insights_2022-04-04_2022_04_04_global_steel_output_remains_strong_outside_china",
+  "parent_id": null,
+  "title": "Global Steel Output Remains Strong Outside China",
+  "section_path": [
+    "Global Steel Output Remains Strong Outside China"
+  ],
+  "section_path_text": "Global Steel Output Remains Strong Outside China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nGlobal crude steel production totaled 142.7 million tons in February. This is down month-on-month by 12.3 million tons (-8%) and is 7.5 million tons (-5%) less than was reported last year for February 2021's production. The year-on-year contraction has remained mostly due to the contraction in China.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "steel",
+    "tons",
+    "million",
+    "production",
+    "was",
+    "produced",
+    "crude",
+    "year-on-year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 406,
+  "source_path": "reports/breakwave/2022/2022-04-04_global-steel-output-remains-strong-outside-china.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/4/4/global-steel-output-remains-strong-outside-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-04-04_2022_04_04_global_steel_output_remains_strong_outside_china__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-04-04_2022_04_04_global_steel_output_remains_strong_outside_china",
+      "parent_id": "breakwave_insights_insights_2022-04-04_2022_04_04_global_steel_output_remains_strong_outside_china__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nGlobal crude steel production totaled 142.7 million tons in February. This is down month-on-month by 12.3 million tons (-8%) and is 7.5 million tons (-5%) less than was reported last year for February 2021's production.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "steel",
+        "tons",
+        "million",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 404,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

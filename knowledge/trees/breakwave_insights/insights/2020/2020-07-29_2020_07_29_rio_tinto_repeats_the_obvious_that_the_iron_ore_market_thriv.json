@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-07-29_2020_07_29_rio_tinto_repeats_the_obvious_that_the_iron_ore_market_thriv__root",
+  "doc_id": "breakwave_insights_insights_2020-07-29_2020_07_29_rio_tinto_repeats_the_obvious_that_the_iron_ore_market_thriv",
+  "parent_id": null,
+  "title": "Rio Tinto Repeats The Obvious That The Iron Ore Market Thrives",
+  "section_path": [
+    "Rio Tinto Repeats The Obvious That The Iron Ore Market Thrives"
+  ],
+  "section_path_text": "Rio Tinto Repeats The Obvious That The Iron Ore Market Thrives",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nReaders of our columns know by now that we continue to view the current circumstances in the iron ore market as particularly bullish for freight. The progression of events in the last two years in the $120 billion per year iron ore trade combined with shifting macro fundamentals due to major global events, have basically set up the stage for a surge in exports that has pushed freight rates and will continue to support them for the reminder of this year and possibly beyond. A confirmation of such development also comes from Rio Tinto that today reported almost $10 billion in 1H EBITDA, calling the Chinese recovery \"amazing\".",
+  "keywords": [
+    "china",
+    "brazil",
+    "iron_ore",
+    "iron",
+    "ore",
+    "all",
+    "amazing",
+    "are",
+    "billion",
+    "chinese",
+    "continue",
+    "due"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 261,
+  "source_path": "reports/breakwave/2020/2020-07-29_rio-tinto-repeats-the-obvious-that-the-iron-ore-market-thriv.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/7/29/rio-tinto-repeats-the-obvious-that-the-iron-ore-market-thrives",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-07-29_2020_07_29_rio_tinto_repeats_the_obvious_that_the_iron_ore_market_thriv__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-07-29_2020_07_29_rio_tinto_repeats_the_obvious_that_the_iron_ore_market_thriv",
+      "parent_id": "breakwave_insights_insights_2020-07-29_2020_07_29_rio_tinto_repeats_the_obvious_that_the_iron_ore_market_thriv__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Readers of our columns know by now that we continue to view the current circumstances in the iron ore market as particularly bullish for freight. The progression of events in the last two years in the $120 billion per year iron ore trade combined with shifting macro fundamentals due to major global events, have basically set up the stage for a surge in exports that has pushed freight rates and will continue to support them for the reminder of this year and possibly beyond.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "iron",
+        "ore",
+        "all",
+        "amazing",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-06_2023_07_06_irans_june_crudecondensate_exports_show_decline_from_record__root",
+  "doc_id": "breakwave_insights_insights_2023-07-06_2023_07_06_irans_june_crudecondensate_exports_show_decline_from_record",
+  "parent_id": null,
+  "title": "Irans June Crudecondensate Exports Show Decline From Record High",
+  "section_path": [
+    "Irans June Crudecondensate Exports Show Decline From Record High"
+  ],
+  "section_path_text": "Irans June Crudecondensate Exports Show Decline From Record High",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "This insight explores why Iran's crude/condensate export levels observed in May were not sustained, Iran's onshore inventories showed stock draws whilst Shandong inventories built stocks and Iranian floating storage declined. By Armen Azizian\nIran's crude/condensate exports reached 1.3mbd in June, a 200kbd decline from May's record high. This marked Q2 exports at 1.35mbd, a 300kbd increase q-o-q and 350kbd higher than the 2022 average, a record-quarter of Iran's crude/condensate exports since sanctions were imposed in November 2018.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "crude_oil",
+    "iranian",
+    "crude/condensate",
+    "floating",
+    "storage",
+    "crude",
+    "iran",
+    "tankers",
+    "exports",
+    "inventories"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 980,
+  "source_path": "reports/breakwave/2023/2023-07-06_irans-june-crudecondensate-exports-show-decline-from-record.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/6/irans-june-crudecondensate-exports-show-decline-from-record-high",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-06_2023_07_06_irans_june_crudecondensate_exports_show_decline_from_record__s01_this_insight_explores_why_iran_s_crude_condensate_export_levels_observed_in_may_were_not_sustained_iran_s_onshore_inventories_showed_stock_draws_whilst_shandong_inventories_built_stocks_and_iranian_floating_storage_declined",
+      "doc_id": "breakwave_insights_insights_2023-07-06_2023_07_06_irans_june_crudecondensate_exports_show_decline_from_record",
+      "parent_id": "breakwave_insights_insights_2023-07-06_2023_07_06_irans_june_crudecondensate_exports_show_decline_from_record__root",
+      "title": "This insight explores why Iran's crude/condensate export levels observed in May were not sustained, Iran's onshore inventories showed stock draws whilst Shandong inventories built stocks and Iranian floating storage declined.",
+      "section_path": [
+        "This insight explores why Iran's crude/condensate export levels observed in May were not sustained, Iran's onshore inventories showed stock draws whilst Shandong inventories built stocks and Iranian floating storage declined."
+      ],
+      "section_path_text": "This insight explores why Iran's crude/condensate export levels observed in May were not sustained, Iran's onshore inventories showed stock draws whilst Shandong inventories built stocks and Iranian floating storage declined.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Armen Azizian\nIran's crude/condensate exports reached 1.3mbd in June, a 200kbd decline from May's record high. This marked Q2 exports at 1.35mbd, a 300kbd increase q-o-q and 350kbd higher than the 2022 average, a record-quarter of Iran's crude/condensate exports since sanctions were imposed in November 2018.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "iranian",
+        "crude/condensate",
+        "floating",
+        "storage",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 937,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

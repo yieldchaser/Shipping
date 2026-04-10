@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-08-17_2021_08_17_mmi_daily_iron_ore_index_report_august_17_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-08-17_2021_08_17_mmi_daily_iron_ore_index_report_august_17_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 17 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 17 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 17 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 17/08/2021\nAccording to data tracked by SMM, 78 ships arrived at domestic main ports during August 9-15. Arrivals of iron ore cargoes are estimated to standat 12.49 million mt, down 2.68 million mt from the previous week, and a decrease of 2.32 million mt from the same period last year. Shipments that departed Australian ports were estimated to decrease 4.39 million mt week on week to 14.24 million mt, down 2.07 million mt year on year, and that from Brazilian ports decreased 270,000 mt to 6.01 million mt on a weekly basis, down 1.58 million mt on the year.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "million",
+    "ore",
+    "iron",
+    "down",
+    "ports",
+    "are",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 338,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-08-17_mmi-daily-iron-ore-index-report-august-17-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-17-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-08-17_2021_08_17_mmi_daily_iron_ore_index_report_august_17_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-08-17_2021_08_17_mmi_daily_iron_ore_index_report_august_17_2021",
+      "parent_id": "hellenic_iron_ore_2021-08-17_2021_08_17_mmi_daily_iron_ore_index_report_august_17_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 17/08/2021\nAccording to data tracked by SMM, 78 ships arrived at domestic main ports during August 9-15. Arrivals of iron ore cargoes are estimated to standat 12.49 million mt, down 2.68 million mt from the previous week, and a decrease of 2.32 million mt from the same period last year.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "million",
+        "ore",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 336,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

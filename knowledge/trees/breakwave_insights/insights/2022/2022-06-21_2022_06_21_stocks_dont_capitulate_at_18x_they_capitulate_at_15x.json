@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-21_2022_06_21_stocks_dont_capitulate_at_18x_they_capitulate_at_15x__root",
+  "doc_id": "breakwave_insights_insights_2022-06-21_2022_06_21_stocks_dont_capitulate_at_18x_they_capitulate_at_15x",
+  "parent_id": null,
+  "title": "Stocks Dont Capitulate At 18X They Capitulate At 15X",
+  "section_path": [
+    "Stocks Dont Capitulate At 18X They Capitulate At 15X"
+  ],
+  "section_path_text": "Stocks Dont Capitulate At 18X They Capitulate At 15X",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nCycles of boom and bust often end with money printing and money devaluation. It's pretty clear we are seeing the end of one this time. However, we don't know how long it will last, nor can we be sure we have seen the end of money-printing.",
+  "keywords": [
+    "its",
+    "would",
+    "all",
+    "fed",
+    "investors",
+    "one",
+    "should",
+    "are",
+    "capitulation",
+    "earnings",
+    "end",
+    "financial"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 975,
+  "source_path": "reports/breakwave/2022/2022-06-21_stocks-dont-capitulate-at-18x-they-capitulate-at-15x.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/21/stocks-dont-capitulate-at-18x-they-capitulate-at-15x",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-21_2022_06_21_stocks_dont_capitulate_at_18x_they_capitulate_at_15x__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-21_2022_06_21_stocks_dont_capitulate_at_18x_they_capitulate_at_15x",
+      "parent_id": "breakwave_insights_insights_2022-06-21_2022_06_21_stocks_dont_capitulate_at_18x_they_capitulate_at_15x__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nCycles of boom and bust often end with money printing and money devaluation. It's pretty clear we are seeing the end of one this time.",
+      "keywords": [
+        "its",
+        "would",
+        "all",
+        "fed",
+        "investors",
+        "one",
+        "should",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 973,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

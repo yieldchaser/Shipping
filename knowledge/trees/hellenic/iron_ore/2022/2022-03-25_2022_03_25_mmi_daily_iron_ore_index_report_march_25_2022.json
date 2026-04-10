@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-03-25_2022_03_25_mmi_daily_iron_ore_index_report_march_25_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-03-25_2022_03_25_mmi_daily_iron_ore_index_report_march_25_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report March 25 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report March 25 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report March 25 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 25/03/2022\nDCE iron ore futures market rose by 3.69%,the main contract closed 856, the quotation in the morning was increased by 10 yuan/mt overyesterday. and as the disk continues to rise, Traders' quotations are rising. But steel mills tended to be wait-and-see, and purchasing enthusiasm is not high.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "port",
+    "increased",
+    "tons",
+    "dealt",
+    "mills",
+    "ore",
+    "yesterday.",
+    "epidemic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 449,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-03-25_mmi-daily-iron-ore-index-report-march-25-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-march-25-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-03-25_2022_03_25_mmi_daily_iron_ore_index_report_march_25_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-03-25_2022_03_25_mmi_daily_iron_ore_index_report_march_25_2022",
+      "parent_id": "hellenic_iron_ore_2022-03-25_2022_03_25_mmi_daily_iron_ore_index_report_march_25_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 25/03/2022\nDCE iron ore futures market rose by 3.69%,the main contract closed 856, the quotation in the morning was increased by 10 yuan/mt overyesterday. and as the disk continues to rise, Traders' quotations are rising.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "port",
+        "increased",
+        "tons",
+        "dealt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 447,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

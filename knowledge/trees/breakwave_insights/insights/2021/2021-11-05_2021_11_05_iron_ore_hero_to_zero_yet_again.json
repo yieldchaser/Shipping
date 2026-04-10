@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-11-05_2021_11_05_iron_ore_hero_to_zero_yet_again__root",
+  "doc_id": "breakwave_insights_insights_2021-11-05_2021_11_05_iron_ore_hero_to_zero_yet_again",
+  "parent_id": null,
+  "title": "Iron Ore Hero To Zero Yet Again",
+  "section_path": [
+    "Iron Ore Hero To Zero Yet Again"
+  ],
+  "section_path_text": "Iron Ore Hero To Zero Yet Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nFollowing iron ore's well-publicised two-month slide from the end of July to the end of September, when the commodity dropped more than fifty per cent, the price recovered, and the steel-making ingredient was again, for a time, one of the better performers among the commodities. However, after gaining some thirteen per cent in three weeks, the party ended yet again in the middle of October. Since then, iron ore prices have rejoined the journey south, with the price dropping a further 28 per cent.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "chinese",
+    "iron",
+    "ore",
+    "demand",
+    "prices",
+    "production",
+    "during",
+    "per",
+    "since"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 782,
+  "source_path": "reports/breakwave/2021/2021-11-05_iron-ore-hero-to-zero-yet-again.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/11/5/iron-ore-hero-to-zero-yet-again",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-11-05_2021_11_05_iron_ore_hero_to_zero_yet_again__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-11-05_2021_11_05_iron_ore_hero_to_zero_yet_again",
+      "parent_id": "breakwave_insights_insights_2021-11-05_2021_11_05_iron_ore_hero_to_zero_yet_again__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nFollowing iron ore's well-publicised two-month slide from the end of July to the end of September, when the commodity dropped more than fifty per cent, the price recovered, and the steel-making ingredient was again, for a time, one of the better performers among the commodities. However, after gaining some thirteen per cent in three weeks, the party ended yet again in the middle of October.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "chinese",
+        "iron",
+        "ore",
+        "demand",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 780,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nToday's release of Chinese PMI data showed that the rebound for the world's second-largest economy is accelerating following last year's removal of the country's strict anti-Covid policies. The indicators for industrial production, services and construction remained robust despite global headwinds and delivered a promise of solid Chinese growth for the remainder of the year. The development is likely to lend support to commodity demand and prices in the near term, which will benefit freight rates in both the dry and wet markets.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1190,
+  "source_path": "reports/breakwave/2023/2023-03-31_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/31/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Today's release of Chinese PMI data showed that the rebound for the world's second-largest economy is accelerating following last year's removal of the country's strict anti-Covid policies. The indicators for industrial production, services and construction remained robust despite global headwinds and delivered a promise of solid Chinese growth for the remainder of the year.",
+      "keywords": [
+        "china",
+        "construction",
+        "pmi",
+        "chinese",
+        "remained",
+        "accelerating",
+        "anti-covid",
+        "benefit"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 191,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The crude oil futures recovered from Wednesday's marginal losses yesterday and moved higher on signs of a recovery in demand and an unexpected drop in US crude oil inventories. The Brent June futures recorded a daily gain of 1,3 per cent, ending Thursday's session at 78.60 dollars per barrel.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 473,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The headline Baltic Dry Index declined by 0.3 per cent yesterday amid weakness for the smaller vessel segments, with the Supramaxes particularly severely affected. In contrast, the Capesizes and Panamaxes extended on Wednesday's gains amid a recovery in ordering activities.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 309,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-03-31_2023_03_31_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Today's release of robust Chinese PMI is putting the world's second-largest on track for solid growth during the remainder of the year. On the back of the high readings, many economists expect the year's growth to top five per cent.",
+      "keywords": [
+        "china",
+        "chinese",
+        "copper",
+        "volumes",
+        "cargo",
+        "continue",
+        "data",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

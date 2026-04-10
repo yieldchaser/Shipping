@@ -1,0 +1,255 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\n\n\nLatest Trends on fuel transition, shipyard actions, government, ports, financing and industry players. There are growing calls for a carbon tax on shipping emissions. Read More\n\nSnapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions\nWeaker sentiment in freight rates continued in the last week of June, however, iron ore price hit a one-week high on China's demand hopes amid easing Covid-19 curbs and President Xi Jinping's pledge to take more effective measures to achieve the country's economic and social development goals.",
+  "keywords": [
+    "capesize",
+    "china",
+    "europe",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "steel",
+    "gas",
+    "read",
+    "production",
+    "economic",
+    "last"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 370,
+  "source_path": "reports/breakwave/2022/2022-07-03_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/3/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__s02_latest_trends_on_fuel_transition_shipyard_actions_government_ports_financing_and_industry_players",
+      "doc_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__root",
+      "title": "Latest Trends on fuel transition, shipyard actions, government, ports, financing and industry players.",
+      "section_path": [
+        "Latest Trends on fuel transition, shipyard actions, government, ports, financing and industry players."
+      ],
+      "section_path_text": "Latest Trends on fuel transition, shipyard actions, government, ports, financing and industry players.",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "There are growing calls for a carbon tax on shipping emissions.",
+      "keywords": [
+        "are",
+        "calls",
+        "carbon",
+        "emissions.",
+        "growing",
+        "read",
+        "tax"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 14,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__s03_snapshot_of_spot_freight_rates_supply_demand_trends_port_congestions",
+      "doc_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__root",
+      "title": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "section_path": [
+        "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions"
+      ],
+      "section_path_text": "Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Weaker sentiment in freight rates continued in the last week of June, however, iron ore price hit a one-week high on China's demand hopes amid easing Covid-19 curbs and President Xi Jinping's pledge to take more effective measures to achieve the country's economic and social development goals.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "achieve",
+        "amid",
+        "continued",
+        "country",
+        "covid-19",
+        "curbs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 60,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__s04_china_s_coal_production_has_remained_quite_strong",
+      "doc_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__root",
+      "title": "China's coal production has remained quite strong",
+      "section_path": [
+        "China's coal production has remained quite strong"
+      ],
+      "section_path_text": "China's coal production has remained quite strong",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "As we have discussed in Commodore's recent Weekly Dry Bulk Reports and Weekly China Reports, China's coal production in May totaled 367.8 million tons.",
+      "keywords": [
+        "china",
+        "coal",
+        "commodore",
+        "discussed",
+        "may",
+        "million",
+        "production",
+        "read"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__s05_looking_forward_to_q3",
+      "doc_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__root",
+      "title": "Looking forward to Q3",
+      "section_path": [
+        "Looking forward to Q3"
+      ],
+      "section_path_text": "Looking forward to Q3",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Having reached the halfway point of the year, we look at what has been driving the recent drawdown in Capesize rates and what may be in store for the rest of the year.",
+      "keywords": [
+        "capesize",
+        "what",
+        "drawdown",
+        "driving",
+        "halfway",
+        "having",
+        "look",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__s06_equities_rebounded_somewhat_at_the_back_end_of_last_week_in_what_was_mostly_a_relief_rally",
+      "doc_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__root",
+      "title": "Equities rebounded somewhat at the back end of last week in what was mostly a relief rally",
+      "section_path": [
+        "Equities rebounded somewhat at the back end of last week in what was mostly a relief rally"
+      ],
+      "section_path_text": "Equities rebounded somewhat at the back end of last week in what was mostly a relief rally",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Far from being considered a full recovery, last week illustrates how high market volatility is and how fragile sentiment remains.",
+      "keywords": [
+        "how",
+        "being",
+        "considered",
+        "far",
+        "fragile",
+        "full",
+        "high",
+        "illustrates"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__s07_global_crude_steel_production_has_now_contracted_on_a_year_on_year_basis_for_nine_straight_months",
+      "doc_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__root",
+      "title": "Global crude steel production has now contracted on a year-on-year basis for nine straight months",
+      "section_path": [
+        "Global crude steel production has now contracted on a year-on-year basis for nine straight months"
+      ],
+      "section_path_text": "Global crude steel production has now contracted on a year-on-year basis for nine straight months",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Global crude steel production totaled 169.5 million tons in May.",
+      "keywords": [
+        "steel",
+        "crude",
+        "global",
+        "may.",
+        "million",
+        "production",
+        "read",
+        "tons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__s08_russian_oil_in_transit_is_hitting_record_highs_driven_by_the_need_to_send_barrels_to_the_east_and_is_inspiring_new_shipping_practices",
+      "doc_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__root",
+      "title": "Russian oil in-transit is hitting record highs, driven by the need to send barrels to the East, and is inspiring new shipping practices",
+      "section_path": [
+        "Russian oil in-transit is hitting record highs, driven by the need to send barrels to the East, and is inspiring new shipping practices"
+      ],
+      "section_path_text": "Russian oil in-transit is hitting record highs, driven by the need to send barrels to the East, and is inspiring new shipping practices",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Russia's oil exports over Q2 have been pretty stable, a contrast to Russian natural gas flows into Europe.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "gas",
+        "contrast",
+        "europe.",
+        "exports",
+        "flows",
+        "natural"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__s09_further_weak_economic_data_saw_fears_of_an_economic_slowdown_weighing_on_sentiment_in_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2022-07-03_2022_07_03_weekly_insights_review__root",
+      "title": "Further weak economic data saw fears of an economic slowdown weighing on sentiment in commodity markets",
+      "section_path": [
+        "Further weak economic data saw fears of an economic slowdown weighing on sentiment in commodity markets"
+      ],
+      "section_path_text": "Further weak economic data saw fears of an economic slowdown weighing on sentiment in commodity markets",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "A stronger USD also impacted investor appetite.",
+      "keywords": [
+        "appetite.",
+        "impacted",
+        "investor",
+        "read",
+        "stronger",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

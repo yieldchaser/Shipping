@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_0000-00-00_0000_00_00_weekly_dry_time_charter_estimates_march_23_2022__root",
+  "doc_id": "hellenic_dry_charter_0000-00-00_0000_00_00_weekly_dry_time_charter_estimates_march_23_2022",
+  "parent_id": null,
+  "title": "This site can't be reached",
+  "section_path": [
+    "This site can't be reached"
+  ],
+  "section_path_text": "This site can't be reached",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe webpage at https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-march-23-2022/ might be temporarily down or it may have moved permanently to a new web address.",
+  "keywords": [
+    "address.",
+    "down",
+    "https",
+    "main",
+    "may",
+    "might",
+    "moved",
+    "new",
+    "permanently",
+    "temporarily",
+    "web",
+    "webpage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 48,
+  "source_path": "reports/hellenic/dry_charter/unknown/0000-00-00_weekly-dry-time-charter-estimates-march-23-2022.html",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_0000-00-00_0000_00_00_weekly_dry_time_charter_estimates_march_23_2022__s01_main",
+      "doc_id": "hellenic_dry_charter_0000-00-00_0000_00_00_weekly_dry_time_charter_estimates_march_23_2022",
+      "parent_id": "hellenic_dry_charter_0000-00-00_0000_00_00_weekly_dry_time_charter_estimates_march_23_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The webpage at https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-march-23-2022/ might be temporarily down or it may have moved permanently to a new web address.",
+      "keywords": [
+        "address.",
+        "down",
+        "https",
+        "may",
+        "might",
+        "moved",
+        "new",
+        "permanently"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

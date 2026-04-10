@@ -1,0 +1,84 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-30_2023_01_30_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-01-30_2023_01_30_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\n\n\"Looking forward, Chinese households have accumulated $2.6tn of bank deposits last year alone, feverishly heating the pent-up demand engine and building higher expectations for the months to come.\"\nIn a typical spiritless Q1 week, the Baltic Dry Index trended downwards, concluding today at 676 points last seen in early June 2020. Losing another 32 percent on a weekly basis, Capesizes balanced this Friday at $4,433 daily. Finishing the fourth trading week above their intra-week lows, the mid-size segments moved mostly sideways, with Panamaxes and Supramaxes laying at $9,487 and $7,150 respectively.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "percent",
+    "uncertainty"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 947,
+  "source_path": "reports/breakwave/2023/2023-01-30_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/30/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-30_2023_01_30_doric_weekly_market_insight__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-30_2023_01_30_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-01-30_2023_01_30_doric_weekly_market_insight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "michalis",
+        "voutsinas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-01-30_2023_01_30_doric_weekly_market_insight__s02_looking_forward_chinese_households_have_accumulated_2_6tn_of_bank_deposits_last_year_alone_feverishly_heating_the_pent_up_demand_engine_and_building_higher_expectations_for_the_months_to_come",
+      "doc_id": "breakwave_insights_insights_2023-01-30_2023_01_30_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-01-30_2023_01_30_doric_weekly_market_insight__root",
+      "title": "\"Looking forward, Chinese households have accumulated $2.6tn of bank deposits last year alone, feverishly heating the pent-up demand engine and building higher expectations for the months to come.\"",
+      "section_path": [
+        "\"Looking forward, Chinese households have accumulated $2.6tn of bank deposits last year alone, feverishly heating the pent-up demand engine and building higher expectations for the months to come.\""
+      ],
+      "section_path_text": "\"Looking forward, Chinese households have accumulated $2.6tn of bank deposits last year alone, feverishly heating the pent-up demand engine and building higher expectations for the months to come.\"",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "In a typical spiritless Q1 week, the Baltic Dry Index trended downwards, concluding today at 676 points last seen in early June 2020. Losing another 32 percent on a weekly basis, Capesizes balanced this Friday at $4,433 daily.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "europe",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 900,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

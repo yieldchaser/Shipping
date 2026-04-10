@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-13_2022_05_13_european_gas_surges_higher_as_russia_gas_flows_continue_to_f__root",
+  "doc_id": "breakwave_insights_insights_2022-05-13_2022_05_13_european_gas_surges_higher_as_russia_gas_flows_continue_to_f",
+  "parent_id": null,
+  "title": "European Gas Surges Higher As Russia Gas Flows Continue To Fall",
+  "section_path": [
+    "European Gas Surges Higher As Russia Gas Flows Continue To Fall"
+  ],
+  "section_path_text": "European Gas Surges Higher As Russia Gas Flows Continue To Fall",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nMounting growth concerns weigh on commodity markets, with metals leading the complex lower. Energy managed to buck the trend with supply side issues pushing prices higher. Crude oil ended the session higher following another rollercoaster ride.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "india",
+    "coal",
+    "crude_oil",
+    "gas",
+    "amid",
+    "oil",
+    "ban",
+    "flows",
+    "higher"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 727,
+  "source_path": "reports/breakwave/2022/2022-05-13_european-gas-surges-higher-as-russia-gas-flows-continue-to-f.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/13/european-gas-surges-higher-as-russia-gas-flows-continue-to-fall",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-13_2022_05_13_european_gas_surges_higher_as_russia_gas_flows_continue_to_f__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-13_2022_05_13_european_gas_surges_higher_as_russia_gas_flows_continue_to_f",
+      "parent_id": "breakwave_insights_insights_2022-05-13_2022_05_13_european_gas_surges_higher_as_russia_gas_flows_continue_to_f__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nMounting growth concerns weigh on commodity markets, with metals leading the complex lower. Energy managed to buck the trend with supply side issues pushing prices higher.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "india",
+        "coal",
+        "crude_oil",
+        "gas",
+        "amid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 725,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

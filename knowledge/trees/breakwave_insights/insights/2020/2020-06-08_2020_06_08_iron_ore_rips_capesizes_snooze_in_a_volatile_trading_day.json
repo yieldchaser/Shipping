@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-08_2020_06_08_iron_ore_rips_capesizes_snooze_in_a_volatile_trading_day__root",
+  "doc_id": "breakwave_insights_insights_2020-06-08_2020_06_08_iron_ore_rips_capesizes_snooze_in_a_volatile_trading_day",
+  "parent_id": null,
+  "title": "Iron Ore Rips Capesizes Snooze In A Volatile Trading Day",
+  "section_path": [
+    "Iron Ore Rips Capesizes Snooze In A Volatile Trading Day"
+  ],
+  "section_path_text": "Iron Ore Rips Capesizes Snooze In A Volatile Trading Day",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWith the weekend news relating to Vale's mining operations flowing into the Asian market early Monday, iron ore futures gapped up, reaching the highest level since last summer and trading above the psychological $100/t mark. Supply concerns, that have dominated the news cycle relating to iron ore once again are front and center, and uncertainty about the future availability of high quality iron ore out of Brazil kept the iron ore market well bid all day. Capesize futures initially saw similar volatility, with the prompt quarter (Q3) contract gapping down ~9%, but very quickly offers disappeared and prices rallied back to Friday's closing levels, a surprising development for much of the market participants.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "news",
+    "out",
+    "vale",
+    "all",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 380,
+  "source_path": "reports/breakwave/2020/2020-06-08_iron-ore-rips-capesizes-snooze-in-a-volatile-trading-day.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/8/iron-ore-rips-capesizes-snooze-in-a-volatile-trading-day",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-08_2020_06_08_iron_ore_rips_capesizes_snooze_in_a_volatile_trading_day__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-08_2020_06_08_iron_ore_rips_capesizes_snooze_in_a_volatile_trading_day",
+      "parent_id": "breakwave_insights_insights_2020-06-08_2020_06_08_iron_ore_rips_capesizes_snooze_in_a_volatile_trading_day__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With the weekend news relating to Vale's mining operations flowing into the Asian market early Monday, iron ore futures gapped up, reaching the highest level since last summer and trading above the psychological $100/t mark. Supply concerns, that have dominated the news cycle relating to iron ore once again are front and center, and uncertainty about the future availability of high quality iron ore out of Brazil kept the iron ore market well bid all day.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "news"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 378,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

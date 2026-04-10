@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-07_2022_10_07_metals_gain_as_lme_places_restrictions_on_russian_zinc_and_a__root",
+  "doc_id": "breakwave_insights_insights_2022-10-07_2022_10_07_metals_gain_as_lme_places_restrictions_on_russian_zinc_and_a",
+  "parent_id": null,
+  "title": "Metals Gain As Lme Places Restrictions On Russian Zinc And Aluminium",
+  "section_path": [
+    "Metals Gain As Lme Places Restrictions On Russian Zinc And Aluminium"
+  ],
+  "section_path_text": "Metals Gain As Lme Places Restrictions On Russian Zinc And Aluminium",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nSupply side issues dominated sentiment. The spectre of further disruptions saw metals and energy rise. This offset the headwinds from hawkish central banks that helped push the USD higher.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "gas",
+    "its",
+    "cut",
+    "european",
+    "energy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 722,
+  "source_path": "reports/breakwave/2022/2022-10-07_metals-gain-as-lme-places-restrictions-on-russian-zinc-and-a.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/7/metals-gain-as-lme-places-restrictions-on-russian-zinc-and-aluminium",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-07_2022_10_07_metals_gain_as_lme_places_restrictions_on_russian_zinc_and_a__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-07_2022_10_07_metals_gain_as_lme_places_restrictions_on_russian_zinc_and_a",
+      "parent_id": "breakwave_insights_insights_2022-10-07_2022_10_07_metals_gain_as_lme_places_restrictions_on_russian_zinc_and_a__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nSupply side issues dominated sentiment. The spectre of further disruptions saw metals and energy rise.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 720,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

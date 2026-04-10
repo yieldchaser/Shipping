@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-07-01_2020_07_02_a_repeat_of_2019_could_mean_high_profits_for_freight_investo__root",
+  "doc_id": "breakwave_insights_insights_2020-07-01_2020_07_02_a_repeat_of_2019_could_mean_high_profits_for_freight_investo",
+  "parent_id": null,
+  "title": "A Repeat Of 2019 Could Mean High Profits For Freight Investors",
+  "section_path": [
+    "A Repeat Of 2019 Could Mean High Profits For Freight Investors"
+  ],
+  "section_path_text": "A Repeat Of 2019 Could Mean High Profits For Freight Investors",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nWith the recent second quarter rally in freight rates behind us, market participants are currently taking a more cautious stance when it comes to the future, as the rapid and significant increase in spot rates, especially for Capesizes, has led a lot of people to start thinking that the best might be behind us. Yet, as we enter July, the futures market is not that different versus last year. In fact, as of today, the futures market is almost identical to last year , despite the fact that spot rates for Capesizes stand some 50% higher versus this time last year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "last",
+    "year",
+    "are",
+    "versus",
+    "almost",
+    "bdry",
+    "early",
+    "was",
+    "year."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 995,
+  "source_path": "reports/breakwave/2020/2020-07-02_a-repeat-of-2019-could-mean-high-profits-for-freight-investo.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/7/1/a-repeat-of-2019-could-mean-high-profits-for-freight-investors",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-07-01_2020_07_02_a_repeat_of_2019_could_mean_high_profits_for_freight_investo__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-07-01_2020_07_02_a_repeat_of_2019_could_mean_high_profits_for_freight_investo",
+      "parent_id": "breakwave_insights_insights_2020-07-01_2020_07_02_a_repeat_of_2019_could_mean_high_profits_for_freight_investo__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "With the recent second quarter rally in freight rates behind us, market participants are currently taking a more cautious stance when it comes to the future, as the rapid and significant increase in spot rates, especially for Capesizes, has led a lot of people to start thinking that the best might be behind us. Yet, as we enter July, the futures market is not that different versus last year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "last",
+        "year",
+        "are",
+        "versus",
+        "almost"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 993,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

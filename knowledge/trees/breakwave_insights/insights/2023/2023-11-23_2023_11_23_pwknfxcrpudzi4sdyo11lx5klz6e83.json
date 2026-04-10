@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-23_2023_11_23_pwknfxcrpudzi4sdyo11lx5klz6e83__root",
+  "doc_id": "breakwave_insights_insights_2023-11-23_2023_11_23_pwknfxcrpudzi4sdyo11lx5klz6e83",
+  "parent_id": null,
+  "title": "Pwknfxcrpudzi4Sdyo11Lx5Klz6E83",
+  "section_path": [
+    "Pwknfxcrpudzi4Sdyo11Lx5Klz6E83"
+  ],
+  "section_path_text": "Pwknfxcrpudzi4Sdyo11Lx5Klz6E83",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nBack in Commodore's June 12th Weekly Dry Bulk Report, we predicted that China's steel exports had very likely peaked. At that time, May's data had just been released and that showed that exports totaled a very robust 8.4 million tons (which marked the largest amount of steel exported since September 2016). While sentiment at the time was that steel exports would continue to rise - even Baosteel was publicly predicting a continued climb in China's steel exports - it appeared very likely to us that exports would begin to fall due to a firming in global steel output outside of China coinciding with a decline in China's steel output.",
+  "keywords": [
+    "china",
+    "steel",
+    "output",
+    "exports",
+    "million",
+    "outside",
+    "tons",
+    "had",
+    "june",
+    "year-on-year",
+    "during",
+    "fallen"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 540,
+  "source_path": "reports/breakwave/2023/2023-11-23_pwknfxcrpudzi4sdyo11lx5klz6e83.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/23/pwknfxcrpudzi4sdyo11lx5klz6e83",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-23_2023_11_23_pwknfxcrpudzi4sdyo11lx5klz6e83__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-23_2023_11_23_pwknfxcrpudzi4sdyo11lx5klz6e83",
+      "parent_id": "breakwave_insights_insights_2023-11-23_2023_11_23_pwknfxcrpudzi4sdyo11lx5klz6e83__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nBack in Commodore's June 12th Weekly Dry Bulk Report, we predicted that China's steel exports had very likely peaked. At that time, May's data had just been released and that showed that exports totaled a very robust 8.4 million tons (which marked the largest amount of steel exported since September 2016).",
+      "keywords": [
+        "china",
+        "steel",
+        "output",
+        "exports",
+        "million",
+        "outside",
+        "tons",
+        "had"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 538,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

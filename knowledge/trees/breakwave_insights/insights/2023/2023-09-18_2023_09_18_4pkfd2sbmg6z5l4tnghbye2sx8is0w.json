@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-18_2023_09_18_4pkfd2sbmg6z5l4tnghbye2sx8is0w__root",
+  "doc_id": "breakwave_insights_insights_2023-09-18_2023_09_18_4pkfd2sbmg6z5l4tnghbye2sx8is0w",
+  "parent_id": null,
+  "title": "4Pkfd2Sbmg6Z5L4Tnghbye2Sx8Is0W",
+  "section_path": [
+    "4Pkfd2Sbmg6Z5L4Tnghbye2Sx8Is0W"
+  ],
+  "section_path_text": "4Pkfd2Sbmg6Z5L4Tnghbye2Sx8Is0W",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "All in all, economic activity in China appeared to improve in August, with recent data suggesting a downturn in growth may be stabilizing. Conversely, real estate data highlighted the challenges that still lie ahead. By Michalis Voutsinas\nWith all segments reporting double-digit weekly gains, the general Baltic Dry Index concluded today at 1381 points.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "iron_ore",
+    "grain",
+    "steel",
+    "gas",
+    "percent",
+    "august"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 971,
+  "source_path": "reports/breakwave/2023/2023-09-18_4pkfd2sbmg6z5l4tnghbye2sx8is0w.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/18/4pkfd2sbmg6z5l4tnghbye2sx8is0w",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-18_2023_09_18_4pkfd2sbmg6z5l4tnghbye2sx8is0w__s01_all_in_all_economic_activity_in_china_appeared_to_improve_in_august_with_recent_data_suggesting_a_downturn_in_growth_may_be_stabilizing_conversely_real_estate_data_highlighted_the_challenges_that_still_lie_ahead",
+      "doc_id": "breakwave_insights_insights_2023-09-18_2023_09_18_4pkfd2sbmg6z5l4tnghbye2sx8is0w",
+      "parent_id": "breakwave_insights_insights_2023-09-18_2023_09_18_4pkfd2sbmg6z5l4tnghbye2sx8is0w__root",
+      "title": "All in all, economic activity in China appeared to improve in August, with recent data suggesting a downturn in growth may be stabilizing. Conversely, real estate data highlighted the challenges that still lie ahead.",
+      "section_path": [
+        "All in all, economic activity in China appeared to improve in August, with recent data suggesting a downturn in growth may be stabilizing. Conversely, real estate data highlighted the challenges that still lie ahead."
+      ],
+      "section_path_text": "All in all, economic activity in China appeared to improve in August, with recent data suggesting a downturn in growth may be stabilizing. Conversely, real estate data highlighted the challenges that still lie ahead.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nWith all segments reporting double-digit weekly gains, the general Baltic Dry Index concluded today at 1381 points. Following iron ore prices higher, the leading Capesize submarket covered some of the late August losses, balancing today at $13,284 daily.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 931,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

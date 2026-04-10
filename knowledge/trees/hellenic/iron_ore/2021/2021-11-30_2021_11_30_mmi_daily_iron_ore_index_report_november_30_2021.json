@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-11-30_2021_11_30_mmi_daily_iron_ore_index_report_november_30_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-11-30_2021_11_30_mmi_daily_iron_ore_index_report_november_30_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report November 30 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report November 30 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report November 30 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 30/11/2021\nDCE iron ore futures tight，the main contract closed 609.5，an increase of 2.44% throughout the day. The spot quotation in the morningalmost kept steady. some traders were active to sell, steel mills purchased on demand.today's overall market transaction atmosphere in general.PBF at Shandong port dealt 660 yuan/mt,the same as yesterday; PBF at Tangshan port dealt 660-665 yuan/mt the same as yesterday; According to data tracked by SMM, 54 ships arrived at domestic main ports in November 22-29.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "million",
+    "mills",
+    "ore",
+    "down",
+    "iron",
+    "main",
+    "ports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 412,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-11-30_mmi-daily-iron-ore-index-report-november-30-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-30-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-11-30_2021_11_30_mmi_daily_iron_ore_index_report_november_30_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-11-30_2021_11_30_mmi_daily_iron_ore_index_report_november_30_2021",
+      "parent_id": "hellenic_iron_ore_2021-11-30_2021_11_30_mmi_daily_iron_ore_index_report_november_30_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 30/11/2021\nDCE iron ore futures tight，the main contract closed 609.5，an increase of 2.44% throughout the day. The spot quotation in the morningalmost kept steady.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "million",
+        "mills",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 410,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

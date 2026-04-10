@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-30_2020_06_30_as_we_exit_the_strongest_month_in_10_years_a_skeptical_capes__root",
+  "doc_id": "breakwave_insights_insights_2020-06-30_2020_06_30_as_we_exit_the_strongest_month_in_10_years_a_skeptical_capes",
+  "parent_id": null,
+  "title": "As We Exit The Strongest Month In 10 Years A Skeptical Capesize Market Remains",
+  "section_path": [
+    "As We Exit The Strongest Month In 10 Years A Skeptical Capesize Market Remains"
+  ],
+  "section_path_text": "As We Exit The Strongest Month In 10 Years A Skeptical Capesize Market Remains",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA June for the records, as Capesize rates surged 10-fold , from around 3,000 at the beginning of the month to more than 30,000, in a relentless rally that caught lot of market participants by surprise and has now brought the spot market to a new level for the year, a level that is highly profitable for a lot of owners and operators alike. However, freight traders remain unimpressed when judged by the reaction in futures, that although initially followed the spot market higher, more recently have failed to reflect any optimism about the future: Capesize futures for the second half of the year trade at extremely steep discounts to spot and at an average rate of 18,500 versus current spot rates of around 30,000. Are we due for a correction?",
+  "keywords": [
+    "capesize",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "are",
+    "higher",
+    "not",
+    "now",
+    "remain",
+    "all"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 728,
+  "source_path": "reports/breakwave/2020/2020-06-30_as-we-exit-the-strongest-month-in-10-years-a-skeptical-capes.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/30/as-we-exit-the-strongest-month-in-10-years-a-skeptical-capesize-market-remains",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-30_2020_06_30_as_we_exit_the_strongest_month_in_10_years_a_skeptical_capes__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-30_2020_06_30_as_we_exit_the_strongest_month_in_10_years_a_skeptical_capes",
+      "parent_id": "breakwave_insights_insights_2020-06-30_2020_06_30_as_we_exit_the_strongest_month_in_10_years_a_skeptical_capes__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A June for the records, as Capesize rates surged 10-fold , from around 3,000 at the beginning of the month to more than 30,000, in a relentless rally that caught lot of market participants by surprise and has now brought the spot market to a new level for the year, a level that is highly profitable for a lot of owners and operators alike. However, freight traders remain unimpressed when judged by the reaction in futures, that although initially followed the spot market higher, more recently have failed to reflect any optimism about the future: Capesize futures for the second half of the year trade at extremely steep discounts to spot and at an average rate of 18,500 versus current spot rates of around 30,000.",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific",
+        "iron_ore",
+        "are",
+        "higher"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 726,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

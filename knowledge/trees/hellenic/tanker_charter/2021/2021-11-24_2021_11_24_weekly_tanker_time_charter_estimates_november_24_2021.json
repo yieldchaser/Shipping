@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_tanker_charter_2021-11-24_2021_11_24_weekly_tanker_time_charter_estimates_november_24_2021__root",
+  "doc_id": "hellenic_tanker_charter_2021-11-24_2021_11_24_weekly_tanker_time_charter_estimates_november_24_2021",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, November 24 2021",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, November 24 2021"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, November 24 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn the crude sector this week a small number of deals were reported, with fixtures ranging from four to six months to three years. The average rate for a VLCC for one-year has moved up slightly this week to an average of $23,500/pdpr. After last week's positive sentiment, the clean market seems to have taken a breather in the last few days as news of new lockdowns in Europe cast uncertainty over oil demand.",
+  "keywords": [
+    "vlcc",
+    "europe",
+    "crude_oil",
+    "average",
+    "last",
+    "after",
+    "breather",
+    "cast",
+    "clean",
+    "crude",
+    "days",
+    "deals"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 123,
+  "source_path": "reports/hellenic/tanker_charter/2021/2021-11-24_weekly-tanker-time-charter-estimates-november-24-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-november-24-2021",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2021-11-24_2021_11_24_weekly_tanker_time_charter_estimates_november_24_2021__s01_main",
+      "doc_id": "hellenic_tanker_charter_2021-11-24_2021_11_24_weekly_tanker_time_charter_estimates_november_24_2021",
+      "parent_id": "hellenic_tanker_charter_2021-11-24_2021_11_24_weekly_tanker_time_charter_estimates_november_24_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the crude sector this week a small number of deals were reported, with fixtures ranging from four to six months to three years. The average rate for a VLCC for one-year has moved up slightly this week to an average of $23,500/pdpr.",
+      "keywords": [
+        "vlcc",
+        "europe",
+        "crude_oil",
+        "average",
+        "last",
+        "after",
+        "breather",
+        "cast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 121,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

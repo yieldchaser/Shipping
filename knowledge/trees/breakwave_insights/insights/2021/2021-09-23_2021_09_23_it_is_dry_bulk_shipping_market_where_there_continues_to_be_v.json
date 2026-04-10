@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-09-23_2021_09_23_it_is_dry_bulk_shipping_market_where_there_continues_to_be_v__root",
+  "doc_id": "breakwave_insights_insights_2021-09-23_2021_09_23_it_is_dry_bulk_shipping_market_where_there_continues_to_be_v",
+  "parent_id": null,
+  "title": "It Is Dry Bulk Shipping Market Where There Continues To Be Very Real And Impressive Profits",
+  "section_path": [
+    "It Is Dry Bulk Shipping Market Where There Continues To Be Very Real And Impressive Profits"
+  ],
+  "section_path_text": "It Is Dry Bulk Shipping Market Where There Continues To Be Very Real And Impressive Profits",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nSentiment in the dry bulk market became extremely bearish at the start of this week due to Evergrande concerns - but actual dry bulk freight rates all climbed higher that day. As we stressed in a client note at the time, the Evergrande issue was not having any impact on actual dry bulk spot fundamentals, and this remains true today as freight rates have climbed even higher. While the Evergrande issue could still easily result in more short-term periods of volatility and panic, our view has been that there is only a very low chance of it causing a sudden drastic decline in Chinese homebuilding and/or a \"Lehman\" type spillover into the broader company.",
+  "keywords": [
+    "china",
+    "government",
+    "evergrande",
+    "but",
+    "economy",
+    "housing",
+    "not",
+    "view",
+    "chinese",
+    "continue",
+    "issue",
+    "our"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 488,
+  "source_path": "reports/breakwave/2021/2021-09-23_it-is-dry-bulk-shipping-market-where-there-continues-to-be-v.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/9/23/it-is-dry-bulk-shipping-market-where-there-continues-to-be-very-real-and-impressive-profits",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-09-23_2021_09_23_it_is_dry_bulk_shipping_market_where_there_continues_to_be_v__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-09-23_2021_09_23_it_is_dry_bulk_shipping_market_where_there_continues_to_be_v",
+      "parent_id": "breakwave_insights_insights_2021-09-23_2021_09_23_it_is_dry_bulk_shipping_market_where_there_continues_to_be_v__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nSentiment in the dry bulk market became extremely bearish at the start of this week due to Evergrande concerns - but actual dry bulk freight rates all climbed higher that day. As we stressed in a client note at the time, the Evergrande issue was not having any impact on actual dry bulk spot fundamentals, and this remains true today as freight rates have climbed even higher.",
+      "keywords": [
+        "china",
+        "government",
+        "evergrande",
+        "but",
+        "economy",
+        "housing",
+        "not",
+        "view"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 486,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

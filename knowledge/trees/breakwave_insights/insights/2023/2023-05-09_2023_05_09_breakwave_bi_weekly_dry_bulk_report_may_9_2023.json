@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-09_2023_05_09_breakwave_bi_weekly_dry_bulk_report_may_9_2023__root",
+  "doc_id": "breakwave_insights_insights_2023-05-09_2023_05_09_breakwave_bi_weekly_dry_bulk_report_may_9_2023",
+  "parent_id": null,
+  "title": "Breakwave Bi Weekly Dry Bulk Report May 9 2023",
+  "section_path": [
+    "Breakwave Bi Weekly Dry Bulk Report May 9 2023"
+  ],
+  "section_path_text": "Breakwave Bi Weekly Dry Bulk Report May 9 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n· Stability brings optimism, as Capesize spot rates reach 20,000 - As Capesize rates continue to gently move higher, one can feel an air of optimism amongst market participants. After all, with volatility having abated considerably from the highs of the last few years, the lack of steep drops in the spot market has translated to expectations for stronger rates for the rest of the year. On the other hand, the lack of volatility is also the exact reason why the futures curve has slowly converged to spot, thus flattening the curve , as the \"embedded optionality value\" has naturally also declined.",
+  "keywords": [
+    "capesize",
+    "china",
+    "australia",
+    "iron_ore",
+    "iron",
+    "ore",
+    "higher",
+    "volatility",
+    "back",
+    "feel",
+    "fundamentals",
+    "hand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 608,
+  "source_path": "reports/breakwave/2023/2023-05-09_breakwave-bi-weekly-dry-bulk-report-may-9-2023.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/8/breakwave-bi-weekly-dry-bulk-report-may-9-2023",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-09_2023_05_09_breakwave_bi_weekly_dry_bulk_report_may_9_2023__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-05-09_2023_05_09_breakwave_bi_weekly_dry_bulk_report_may_9_2023",
+      "parent_id": "breakwave_insights_insights_2023-05-09_2023_05_09_breakwave_bi_weekly_dry_bulk_report_may_9_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "· Stability brings optimism, as Capesize spot rates reach 20,000 - As Capesize rates continue to gently move higher, one can feel an air of optimism amongst market participants. After all, with volatility having abated considerably from the highs of the last few years, the lack of steep drops in the spot market has translated to expectations for stronger rates for the rest of the year.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "iron_ore",
+        "iron",
+        "ore",
+        "higher",
+        "volatility"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 606,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

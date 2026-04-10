@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week Dry Bulk: South African Coal to India\nRise in April to the highest level in a year, with Dharma the top destination port\nData Source: The Signal Ocean Platform, Dry Bulk Flows https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nxs94/318228156?h=tvCjPtFa1TyZ3zwi3M09OjbqdQVP3ptBWqufiBTbdnM\nIn the second week of May, we saw weaker dynamics in freight rates, with the Capesize segment registering some firmness. Interestingly, the Indian economy is seeing strong South African coal imports, with the Capesize segment gaining strength in this type of trade, with recent weekly volumes reaching their highest levels in the last year. (See chart of 25-day moving average above left).",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "europe",
+    "india",
+    "coal",
+    "grain",
+    "number",
+    "may",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1104,
+  "source_path": "reports/breakwave/2023/2023-05-11_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/11/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_south_african_coal_to_india",
+      "doc_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: South African Coal to India",
+      "section_path": [
+        "Chart of the Week Dry Bulk: South African Coal to India"
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: South African Coal to India",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Rise in April to the highest level in a year, with Dharma the top destination port\nData Source: The Signal Ocean Platform, Dry Bulk Flows https://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nxs94/318228156?h=tvCjPtFa1TyZ3zwi3M09OjbqdQVP3ptBWqufiBTbdnM\nIn the second week of May, we saw weaker dynamics in freight rates, with the Capesize segment registering some firmness. Interestingly, the Indian economy is seeing strong South African coal imports, with the Capesize segment gaining strength in this type of trade, with recent weekly volumes reaching their highest levels in the last year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "india",
+        "coal",
+        "grain",
+        "may",
+        "segment",
+        "african"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 306,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t",
+      "doc_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t)",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t)"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Capesize - Firmer | Panamax - Supramax - Handysize Weaker\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nIn the second half of May, the Capesize segment continued the stronger momentum of the previous week, while rates for other vessel size classes showed a weaker outlook. Capesize vessel freight rates are now at $22/tonne, up $7/tonne from week 8.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "vessel",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 198,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__s03_section_2_supply_ballasters_vessels",
+      "doc_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels)",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels)"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Capesize-Panamax - Handysize Increasing | Supramax Decreasing\nSupply Trend Lines for Key Load Areas\nThe number of ballast ships has continued to increase in the Capesize, Panamax and Handysize segments, while there are signs of a decline in Supramax. Capesize SE Africa: The number of vessels now stands at 111, 55% higher than six weeks ago and 30 above the annual average.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "ago",
+        "annual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__s04_section_3_demand_tondays_softening",
+      "doc_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Softening",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Softening"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Softening",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the second week of May, the weakening of demand dynamics continues, with signs of a firmer trend in Capesize. Capesize demand ton-days: A gradual upward trend was observed in the second week of May, after a low was recorded in week 16.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "trend",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__s05_section_4_port_congestion_no_of_vessels_increasing_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-11_2023_05_11_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Congestion increased due to the upward trend in all ship size categories. The second week of May developed with a surprising upward trend at similar levels to the second week of this year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "ships",
+        "end",
+        "now"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

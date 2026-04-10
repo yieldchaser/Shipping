@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-19_2023_06_19_mazars_comment_know_when_to_take_risks_and_when_not_to__root",
+  "doc_id": "breakwave_insights_insights_2023-06-19_2023_06_19_mazars_comment_know_when_to_take_risks_and_when_not_to",
+  "parent_id": null,
+  "title": "Mazars Comment Know When To Take Risks And When Not To",
+  "section_path": [
+    "Mazars Comment Know When To Take Risks And When Not To"
+  ],
+  "section_path_text": "Mazars Comment Know When To Take Risks And When Not To",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nThe three things I would tell my clients this week. Central bankers made it clear last week that they are determined to step up the fight against inflation. Policymakers are emboldened in their course of action, by the rally in equity markets, overall financial stability and a benign economic slowdown.",
+  "keywords": [
+    "europe",
+    "are",
+    "but",
+    "inflation",
+    "liquidity",
+    "bad",
+    "can",
+    "central",
+    "even",
+    "may",
+    "not",
+    "risks"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1219,
+  "source_path": "reports/breakwave/2023/2023-06-19_mazars-comment-know-when-to-take-risks-and-when-not-to.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/19/mazars-comment-know-when-to-take-risks-and-when-not-to",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-19_2023_06_19_mazars_comment_know_when_to_take_risks_and_when_not_to__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-19_2023_06_19_mazars_comment_know_when_to_take_risks_and_when_not_to",
+      "parent_id": "breakwave_insights_insights_2023-06-19_2023_06_19_mazars_comment_know_when_to_take_risks_and_when_not_to__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nThe three things I would tell my clients this week. Central bankers made it clear last week that they are determined to step up the fight against inflation.",
+      "keywords": [
+        "are",
+        "action",
+        "central",
+        "inflation",
+        "inflation.",
+        "liquidity",
+        "lower",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-19_2023_06_19_mazars_comment_know_when_to_take_risks_and_when_not_to__s02_know_when_to_take_risks_and_when_not_to",
+      "doc_id": "breakwave_insights_insights_2023-06-19_2023_06_19_mazars_comment_know_when_to_take_risks_and_when_not_to",
+      "parent_id": "breakwave_insights_insights_2023-06-19_2023_06_19_mazars_comment_know_when_to_take_risks_and_when_not_to__root",
+      "title": "Know when to take risks, and when not to.",
+      "section_path": [
+        "Know when to take risks, and when not to."
+      ],
+      "section_path_text": "Know when to take risks, and when not to.",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘Providence protect idiots' Otto Von Bismarck once exclaimed. I'm never quite sure what the direct intentions of the Almighty are.",
+      "keywords": [
+        "europe",
+        "are",
+        "but",
+        "inflation",
+        "liquidity",
+        "bad",
+        "can",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1026,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

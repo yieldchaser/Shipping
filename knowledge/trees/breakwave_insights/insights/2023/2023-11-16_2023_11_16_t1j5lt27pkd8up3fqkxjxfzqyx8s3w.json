@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-16_2023_11_16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w__root",
+  "doc_id": "breakwave_insights_insights_2023-11-16_2023_11_16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w",
+  "parent_id": null,
+  "title": "T1J5Lt27Pkd8Up3Fqkxjxfzqyx8S3W",
+  "section_path": [
+    "T1J5Lt27Pkd8Up3Fqkxjxfzqyx8S3W"
+  ],
+  "section_path_text": "T1J5Lt27Pkd8Up3Fqkxjxfzqyx8S3W",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "This insight explores why Iran's crude/condensate export levels slowed from previous months and floating storage levels declined. By Armen Azizian\nIran's crude/condensate exports were observed at 1.3mbd in October, a 100kbd decline from the Q3 average and the lowest volume observed since May. This is still 300kbd higher than the 2022 average and is a 100kbd increase y-o-y, supporting Iran's elevated crude exports observed this year.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "crude_oil",
+    "iran",
+    "iranian",
+    "crude/condensate",
+    "exports",
+    "crude",
+    "floating",
+    "storage",
+    "october"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 986,
+  "source_path": "reports/breakwave/2023/2023-11-16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/16/t1j5lt27pkd8up3fqkxjxfzqyx8s3w",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-16_2023_11_16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w__s01_this_insight_explores_why_iran_s_crude_condensate_export_levels_slowed_from_previous_months_and_floating_storage_levels_declined",
+      "doc_id": "breakwave_insights_insights_2023-11-16_2023_11_16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w",
+      "parent_id": "breakwave_insights_insights_2023-11-16_2023_11_16_t1j5lt27pkd8up3fqkxjxfzqyx8s3w__root",
+      "title": "This insight explores why Iran's crude/condensate export levels slowed from previous months and floating storage levels declined.",
+      "section_path": [
+        "This insight explores why Iran's crude/condensate export levels slowed from previous months and floating storage levels declined."
+      ],
+      "section_path_text": "This insight explores why Iran's crude/condensate export levels slowed from previous months and floating storage levels declined.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Armen Azizian\nIran's crude/condensate exports were observed at 1.3mbd in October, a 100kbd decline from the Q3 average and the lowest volume observed since May. This is still 300kbd higher than the 2022 average and is a 100kbd increase y-o-y, supporting Iran's elevated crude exports observed this year.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "crude_oil",
+        "iran",
+        "iranian",
+        "exports",
+        "crude/condensate"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 963,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

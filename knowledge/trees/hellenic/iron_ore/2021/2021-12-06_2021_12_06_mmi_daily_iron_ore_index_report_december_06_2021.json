@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-12-06_2021_12_06_mmi_daily_iron_ore_index_report_december_06_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-12-06_2021_12_06_mmi_daily_iron_ore_index_report_december_06_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report December 06 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report December 06 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report December 06 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 06/12/2021\nDCE iron ore futures tight ,the main contract 2205 closed 615.5, an increase of 1.57% throughout the day. the quotation in the morning wasincreased by 20 yuan/mt from last Friday. some traders were active to sell, and steel mills purchased still on demand.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "iron",
+    "yuan/mt",
+    "port",
+    "dealt",
+    "increased",
+    "last",
+    "prices",
+    "demand."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 285,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-12-06_mmi-daily-iron-ore-index-report-december-06-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-december-06-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-12-06_2021_12_06_mmi_daily_iron_ore_index_report_december_06_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-12-06_2021_12_06_mmi_daily_iron_ore_index_report_december_06_2021",
+      "parent_id": "hellenic_iron_ore_2021-12-06_2021_12_06_mmi_daily_iron_ore_index_report_december_06_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 06/12/2021\nDCE iron ore futures tight ,the main contract 2205 closed 615.5, an increase of 1.57% throughout the day. the quotation in the morning wasincreased by 20 yuan/mt from last Friday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "iron",
+        "yuan/mt",
+        "port",
+        "dealt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 283,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

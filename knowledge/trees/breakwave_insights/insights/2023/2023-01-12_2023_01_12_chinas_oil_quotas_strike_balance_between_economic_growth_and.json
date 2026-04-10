@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-12_2023_01_12_chinas_oil_quotas_strike_balance_between_economic_growth_and__root",
+  "doc_id": "breakwave_insights_insights_2023-01-12_2023_01_12_chinas_oil_quotas_strike_balance_between_economic_growth_and",
+  "parent_id": null,
+  "title": "Chinas Oil Quotas Strike Balance Between Economic Growth And Emissions Control",
+  "section_path": [
+    "Chinas Oil Quotas Strike Balance Between Economic Growth And Emissions Control"
+  ],
+  "section_path_text": "Chinas Oil Quotas Strike Balance Between Economic Growth And Emissions Control",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nChina's recent allocation of oil quotas signals Beijing's intention to accelerate economic recovery whilst sticking to its longer-term goal of controlling emissions. By Emma Li\nChina recently lifted almost all of its travel restrictions and quarantine requirements in a sudden shift away from its zero-Covid policy towards a full re-opening of its economy, taking the market by surprise. Demand recovery, however, is far from imminent given the infection waves across the country which have crippled mobility and economic activities.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "quotas",
+    "refiners",
+    "its",
+    "year",
+    "crude",
+    "batch",
+    "issued",
+    "demand",
+    "export",
+    "beijing"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 775,
+  "source_path": "reports/breakwave/2023/2023-01-12_chinas-oil-quotas-strike-balance-between-economic-growth-and.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/12/chinas-oil-quotas-strike-balance-between-economic-growth-and-emissions-control",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-12_2023_01_12_chinas_oil_quotas_strike_balance_between_economic_growth_and__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-12_2023_01_12_chinas_oil_quotas_strike_balance_between_economic_growth_and",
+      "parent_id": "breakwave_insights_insights_2023-01-12_2023_01_12_chinas_oil_quotas_strike_balance_between_economic_growth_and__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "China's recent allocation of oil quotas signals Beijing's intention to accelerate economic recovery whilst sticking to its longer-term goal of controlling emissions. By Emma Li\nChina recently lifted almost all of its travel restrictions and quarantine requirements in a sudden shift away from its zero-Covid policy towards a full re-opening of its economy, taking the market by surprise.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "quotas",
+        "refiners",
+        "its",
+        "year",
+        "crude",
+        "batch"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 773,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

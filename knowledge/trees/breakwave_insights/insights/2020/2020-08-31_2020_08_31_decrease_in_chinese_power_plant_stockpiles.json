@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-08-31_2020_08_31_decrease_in_chinese_power_plant_stockpiles__root",
+  "doc_id": "breakwave_insights_insights_2020-08-31_2020_08_31_decrease_in_chinese_power_plant_stockpiles",
+  "parent_id": null,
+  "title": "Decrease In Chinese Power Plant Stockpiles",
+  "section_path": [
+    "Decrease In Chinese Power Plant Stockpiles"
+  ],
+  "section_path_text": "Decrease In Chinese Power Plant Stockpiles",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe latest data as of August 23rd shows that coal stockpiles at major power plants have fallen to 80.2 million tons. This marks the lowest amount seen since June and is down by 9.3 million tons (-10%) from this year's 89.5 million ton peak seen in late July. On a year-on-year basis, power plant stockpiles are down by 3.3 million tons (-4%).",
+  "keywords": [
+    "china",
+    "coal",
+    "hydropower",
+    "million",
+    "not",
+    "seen",
+    "are",
+    "growth",
+    "marks",
+    "power",
+    "rainfall",
+    "stockpiles"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 300,
+  "source_path": "reports/breakwave/2020/2020-08-31_decrease-in-chinese-power-plant-stockpiles.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/8/31/decrease-in-chinese-power-plant-stockpiles",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-08-31_2020_08_31_decrease_in_chinese_power_plant_stockpiles__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-08-31_2020_08_31_decrease_in_chinese_power_plant_stockpiles",
+      "parent_id": "breakwave_insights_insights_2020-08-31_2020_08_31_decrease_in_chinese_power_plant_stockpiles__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The latest data as of August 23rd shows that coal stockpiles at major power plants have fallen to 80.2 million tons. This marks the lowest amount seen since June and is down by 9.3 million tons (-10%) from this year's 89.5 million ton peak seen in late July.",
+      "keywords": [
+        "china",
+        "coal",
+        "hydropower",
+        "million",
+        "not",
+        "seen",
+        "are",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 298,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

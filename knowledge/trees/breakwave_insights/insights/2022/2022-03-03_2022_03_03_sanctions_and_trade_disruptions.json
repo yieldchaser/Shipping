@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-03-03_2022_03_03_sanctions_and_trade_disruptions__root",
+  "doc_id": "breakwave_insights_insights_2022-03-03_2022_03_03_sanctions_and_trade_disruptions",
+  "parent_id": null,
+  "title": "Sanctions And Trade Disruptions",
+  "section_path": [
+    "Sanctions And Trade Disruptions"
+  ],
+  "section_path_text": "Sanctions And Trade Disruptions",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe war in Ukraine is less than a week old. The humanitarian costs are rapidly escalating, as casualties are mounting and many residents are forced to flee their homes for safety elsewhere. Beyond the immediate effects on the ground in the country, the ramifications are rapidly spreading across the globe as more and more economic sanctions are imposed on commercial entities and the flow of goods and commodities originating in Russia.",
+  "keywords": [
+    "china",
+    "europe",
+    "singapore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "gas",
+    "are",
+    "russian",
+    "sanctions",
+    "many",
+    "increasing"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1233,
+  "source_path": "reports/breakwave/2022/2022-03-03_sanctions-and-trade-disruptions.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/3/3/sanctions-and-trade-disruptions",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-03-03_2022_03_03_sanctions_and_trade_disruptions__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-03-03_2022_03_03_sanctions_and_trade_disruptions",
+      "parent_id": "breakwave_insights_insights_2022-03-03_2022_03_03_sanctions_and_trade_disruptions__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe war in Ukraine is less than a week old. The humanitarian costs are rapidly escalating, as casualties are mounting and many residents are forced to flee their homes for safety elsewhere.",
+      "keywords": [
+        "china",
+        "europe",
+        "singapore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1231,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

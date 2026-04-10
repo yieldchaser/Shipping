@@ -1,0 +1,90 @@
+---
+category: insights
+commodities:
+- iron_ore
+- coal
+- grain
+- crude_oil
+- products
+- gas
+date: '2021-10-05'
+doc_id: breakwave_insights_insights_2021-10-05_2021_10_05_surging_energy_prices_and_agricultural_commodities
+document_type: insights_note
+key_entities:
+- China
+- Brazil
+keywords:
+- china
+- brazil
+- pacific
+- us_gulf
+- coal
+- grain
+- crude_oil
+- products
+- gas
+- prices
+- are
+- chinese
+market_tone: constructive
+regions:
+- china
+- brazil
+- australia
+- atlantic
+- pacific
+- meg
+- west_africa
+- europe
+- us_gulf
+section_count: 1
+signals: {}
+source: breakwave_insights
+source_path: reports/breakwave/2021/2021-10-05_surging-energy-prices-and-agricultural-commodities.html
+source_stem: 2021-10-05_surging-energy-prices-and-agricultural-commodities
+source_url: https://www.breakwaveadvisors.com/insights/2021/10/5/surging-energy-prices-and-agricultural-commodities
+summary: 'Main
+
+  By Ulf Bergman
+
+  The global energy crunch continues to evolve, with international competition for
+  scarce supplies driving prices ever higher. Thermal coal has gained just shy of
+  thirty per cent since the middle of September, bringing the gains for the last twelve
+  months close to a massive three hundred per cent. The global shortage of natural
+  gas has seen many utilities and countries switching to the dirtier but cheaper fossil
+  fuel, leading it to join the general surge in energy prices despite ever higher
+  ambitions for decarbonisation.'
+themes:
+- china
+- brazil
+- pacific
+- us_gulf
+- coal
+- grain
+title: Surging Energy Prices And Agricultural Commodities
+vessel_classes:
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
+- aframax
+---
+
+## Summary
+Main
+By Ulf Bergman
+The global energy crunch continues to evolve, with international competition for scarce supplies driving prices ever higher. Thermal coal has gained just shy of thirty per cent since the middle of September, bringing the gains for the last twelve months close to a massive three hundred per cent. The global shortage of natural gas has seen many utilities and countries switching to the dirtier but cheaper fossil fuel, leading it to join the general surge in energy prices despite ever higher ambitions for decarbonisation.
+
+## Main
+By Ulf Bergman
+The global energy crunch continues to evolve, with international competition for scarce supplies driving prices ever higher. Thermal coal has gained just shy of thirty per cent since the middle of September, bringing the gains for the last twelve months close to a massive three hundred per cent. The global shortage of natural gas has seen many utilities and countries switching to the dirtier but cheaper fossil fuel, leading it to join the general surge in energy prices despite ever higher ambitions for decarbonisation. Last week's reports that the Chinese Vice Premier Han Zheng ordered the country's energy companies to secure coal supplies for the winter at any cost has amplified an already tight supply situation, created by production curbs in the wake of environmental policies and a lack of investments in new production capacity.
+Coal - USD/tonne
+Beyond rising energy costs in general, agricultural production and food prices could become collateral damage in the squeeze on energy. Both the production of fertilisers and the harvest processing could fall victim to increasing energy shortages and costs. The energy-intensive nature of synthetic fertiliser production will increase the costs. Additionally, curbs on electricity consumption will add to the shortages and push prices even higher. Increasing fertiliser outlays for the farmers could see a reduction in the use and yield smaller harvests. Increasing fertiliser prices could also tempt farmers to switch from wheat and corn to less fertiliser-intensive plants and further eroding the global supplies. The threat of tighter supplies has also contributed to wheat and corn prices edging higher in recent days. There are suggestions that soybean plantings could benefit, at the expense of nitrogen-heavy corn and wheat, for next year's US growing season should fertilisers remain expensive.
+Wheat - US cents per bushel
+China faces a challenging harvest season against the backdrop of soaring energy prices and power shortages. The original expectation of growing production has come under threat, following concerns that the country may struggle to harvest crops, such as corn and soybeans. The autumn harvest in the world's agricultural producer has begun as the country faces power shortages in many industrial centres. The northeastern provinces such as Jilin, Liaoning and Heilongjiang, where about half of China's corn and soybeans are grown, are among the most affected by the power rationing. In recent weeks, several plants, such as soybean processors, had to shut, or reduce output, to conserve electricity. Any delays in the processing of the crops could also see a deterioration in quality and the raw material go to waste. The recent development is also likely to wreak havoc with the Chinese leadership's ambitions for less reliance on imported food supplies as part of the dual-circulation policy.
+During the last twelve months, a domestic shortage has forced China to import record volumes of agricultural products, pushing prices and global food costs to multiyear highs. With no end in sight for the energy shortage and the time lag involved in the restocking of the coal inventories, any plans to reduce the import of agricultural commodities are likely to face postponement. Chinese buyers' continued robust demand for imported grains and oilseeds will also increase the risk of global food prices drifting ever higher as demand keeps growing.
+On the other side of the Pacific, US farmers are facing different challenges. The lingering impact of Hurricane Ida in the Gulf of Mexico has kept disrupting port operations, with congestion remaining high and creating bottlenecks in the supply chain inland. In addition, the collapse of a crane in Grays Harbor, which handles approximately twenty per cent of the soybean meal shipments from the US West Coast, is adding to the global supply chain disruptions. The crane repairs are expected to take several months, with vessels initially diverted to a grain terminal in Longview, Washington. The late September incident also saw an increase in congestion on the US West Coast.
+The last year has seen US agricultural exports to China surging. While the aggregate year to date numbers remain impressive, much of the shipments took place during the first quarter. During the last two quarters, monthly import volumes have remained stable at around 3.5 million tonnes. However, as the fourth quarter progress, it can be expected that the numbers will pick up as the new harvest reaches the Chinese ports. The disruptions in the US ports, combined with extensive congestion around the Chinese ports, may increase import volumes later than last year. There are also concerns that China is failing to live up to its commitments under the Phase One trade agreement, with the US Trade Representative, Katherine Tai, set to bring up the subject with Chinese Vice Premier Liu He. As of August, Chinese imports of US agricultural products were 30 billion dollars short of the full-year goal of 80 billion dollars.
+With less domestic production than expected as the energy crunch hits, Chinese seaborne imports of grains and oilseeds are likely to increase in the coming months. The renewed pressure from the US administration regarding the commitments under last year's trade deal and the seasonal reduction in shipments from Brazil should benefit the US farmers. For dry bulk shipping, it will contribute to the continued tight supply situation, as the long distances involved ties up tonnage for extensive periods.

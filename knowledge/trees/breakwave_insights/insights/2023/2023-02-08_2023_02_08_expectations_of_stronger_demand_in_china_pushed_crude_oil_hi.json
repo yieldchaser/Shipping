@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-08_2023_02_08_expectations_of_stronger_demand_in_china_pushed_crude_oil_hi__root",
+  "doc_id": "breakwave_insights_insights_2023-02-08_2023_02_08_expectations_of_stronger_demand_in_china_pushed_crude_oil_hi",
+  "parent_id": null,
+  "title": "Expectations Of Stronger Demand In China Pushed Crude Oil Higher",
+  "section_path": [
+    "Expectations Of Stronger Demand In China Pushed Crude Oil Higher"
+  ],
+  "section_path_text": "Expectations Of Stronger Demand In China Pushed Crude Oil Higher",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nSigns of improving demand boosted sentiment across commodity markets. This was aided by a reversal in the USD late in the session amid expectations of lower inflation in 2023. Crude oil gained as Saudi Aramco's move to raise prices boosted sentiment.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "gas",
+    "was",
+    "amid",
+    "its",
+    "last",
+    "against"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 617,
+  "source_path": "reports/breakwave/2023/2023-02-08_expectations-of-stronger-demand-in-china-pushed-crude-oil-hi.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/8/expectations-of-stronger-demand-in-china-pushed-crude-oil-higher",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-08_2023_02_08_expectations_of_stronger_demand_in_china_pushed_crude_oil_hi__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-08_2023_02_08_expectations_of_stronger_demand_in_china_pushed_crude_oil_hi",
+      "parent_id": "breakwave_insights_insights_2023-02-08_2023_02_08_expectations_of_stronger_demand_in_china_pushed_crude_oil_hi__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nSigns of improving demand boosted sentiment across commodity markets. This was aided by a reversal in the USD late in the session amid expectations of lower inflation in 2023.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "crude_oil",
+        "gas",
+        "was"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 615,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

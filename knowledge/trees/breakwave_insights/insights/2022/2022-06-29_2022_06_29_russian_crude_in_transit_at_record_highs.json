@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-06-29_2022_06_29_russian_crude_in_transit_at_record_highs__root",
+  "doc_id": "breakwave_insights_insights_2022-06-29_2022_06_29_russian_crude_in_transit_at_record_highs",
+  "parent_id": null,
+  "title": "Russian Crude In Transit At Record Highs",
+  "section_path": [
+    "Russian Crude In Transit At Record Highs"
+  ],
+  "section_path_text": "Russian Crude In Transit At Record Highs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy David Wech\nRussia's oil exports over Q2 have been pretty stable, a contrast to Russian natural gas flows into Europe. But there are a couple of interesting nuances in the latest data that could indicate new trends. Overall, seaborne Russian oil in-transit is likely at all-time record highs, driven by crude.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "atlantic",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "russian",
+    "exports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 864,
+  "source_path": "reports/breakwave/2022/2022-06-29_russian-crude-in-transit-at-record-highs.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/6/29/russian-crude-in-transit-at-record-highs",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-06-29_2022_06_29_russian_crude_in_transit_at_record_highs__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-06-29_2022_06_29_russian_crude_in_transit_at_record_highs",
+      "parent_id": "breakwave_insights_insights_2022-06-29_2022_06_29_russian_crude_in_transit_at_record_highs__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By David Wech\nRussia's oil exports over Q2 have been pretty stable, a contrast to Russian natural gas flows into Europe. But there are a couple of interesting nuances in the latest data that could indicate new trends.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 862,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

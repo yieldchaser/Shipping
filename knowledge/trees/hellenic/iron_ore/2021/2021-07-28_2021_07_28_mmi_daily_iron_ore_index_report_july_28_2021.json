@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-07-28_2021_07_28_mmi_daily_iron_ore_index_report_july_28_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-07-28_2021_07_28_mmi_daily_iron_ore_index_report_july_28_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report July 28 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report July 28 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report July 28 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 28/07/2021\nIron ore quotations in the physical port stock market declined by 15-20yuan/mt early this morning, while traders performed to be firm on theirquotations gradually when DCE iron ore futures market recovered. PBF was concluded at 1365-1378yuan/ mt in Shandong market and that in Tangshan was 1360yuan/mt, a price hike of 5yuan/mt over yesterday. According to SMM, mills profits for rebar and HRC ascended to 522yuan/mt and 875yuan/mt, based on iron ore price of 205USD/mt, which promoted mills demands for mainstream medium products again.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "products",
+    "steel",
+    "iron",
+    "ore",
+    "yuan/mt",
+    "mills",
+    "price",
+    "prices",
+    "was",
+    "according"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 235,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-07-28_mmi-daily-iron-ore-index-report-july-28-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-28-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-07-28_2021_07_28_mmi_daily_iron_ore_index_report_july_28_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-07-28_2021_07_28_mmi_daily_iron_ore_index_report_july_28_2021",
+      "parent_id": "hellenic_iron_ore_2021-07-28_2021_07_28_mmi_daily_iron_ore_index_report_july_28_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 28/07/2021\nIron ore quotations in the physical port stock market declined by 15-20yuan/mt early this morning, while traders performed to be firm on theirquotations gradually when DCE iron ore futures market recovered. PBF was concluded at 1365-1378yuan/ mt in Shandong market and that in Tangshan was 1360yuan/mt, a price hike of 5yuan/mt over yesterday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "products",
+        "steel",
+        "iron",
+        "ore",
+        "yuan/mt",
+        "mills"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

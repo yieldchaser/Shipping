@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-09-24_2021_09_24_more_chinese_infrastructure_investments_will_benefit_tonnage__root",
+  "doc_id": "breakwave_insights_insights_2021-09-24_2021_09_24_more_chinese_infrastructure_investments_will_benefit_tonnage",
+  "parent_id": null,
+  "title": "More Chinese Infrastructure Investments Will Benefit Tonnage Demand",
+  "section_path": [
+    "More Chinese Infrastructure Investments Will Benefit Tonnage Demand"
+  ],
+  "section_path_text": "More Chinese Infrastructure Investments Will Benefit Tonnage Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe ongoing fallout of the Evergrande debacle is eventually leading to some political consequences. At the same time as Beijing appears reluctant to bail out the ailing property developer, the Chinese government has vowed to stabilise the economy as it is facing multiple headwinds. On Wednesday, the Chinese cabinet accordingly approved the 2021-25 plan for infrastructure investments, which seeks to stimulate domestic demand, promote economic transformation, and increase the growth potential.",
+  "keywords": [
+    "china",
+    "brazil",
+    "iron_ore",
+    "steel",
+    "chinese",
+    "iron",
+    "production",
+    "ore",
+    "are",
+    "demand",
+    "infrastructure",
+    "tonnage"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 842,
+  "source_path": "reports/breakwave/2021/2021-09-24_more-chinese-infrastructure-investments-will-benefit-tonnage.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/9/24/more-chinese-infrastructure-investments-will-benefit-tonnage-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-09-24_2021_09_24_more_chinese_infrastructure_investments_will_benefit_tonnage__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-09-24_2021_09_24_more_chinese_infrastructure_investments_will_benefit_tonnage",
+      "parent_id": "breakwave_insights_insights_2021-09-24_2021_09_24_more_chinese_infrastructure_investments_will_benefit_tonnage__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe ongoing fallout of the Evergrande debacle is eventually leading to some political consequences. At the same time as Beijing appears reluctant to bail out the ailing property developer, the Chinese government has vowed to stabilise the economy as it is facing multiple headwinds.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "steel",
+        "chinese",
+        "iron",
+        "production",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 840,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

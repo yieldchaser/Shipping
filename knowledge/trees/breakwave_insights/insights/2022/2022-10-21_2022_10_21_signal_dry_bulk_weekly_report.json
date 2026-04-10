@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFreight rates in the Capesize and Panamax segments, as well as in the smaller vessel categories, weakened in the third week of October, indicating slower percentage demand growth. However, dry bulk coal flows continue to see an increase in shipments to Europe, with the Netherlands, Germany, Italy, and Spain as the main destinations, and Russia still considered the main country of origin. Chart of the Week Dry Bulk Flows: Europe continues to import coal The Netherlands at the top\nData Source: The Signal Ocean Platform, Dry Bulk Flows https://go.signalocean.com/e/983831/dry-reports-drybulkflows/2kk94v/280281820?h=kO7eAqUxpoIeVOcP1sJzboQA187-UsG8IoyZKvbCA0o\nIn the iron ore market, Mining.com news reported a drop in prices as China's zero-tolerance approach to Covid-19 has caused supply chain disruptions, dampened demand and dramatically slowed China's economy.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "coal",
+    "vessels",
+    "demand",
+    "tonne"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 820,
+  "source_path": "reports/breakwave/2022/2022-10-21_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/21/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Freight rates in the Capesize and Panamax segments, as well as in the smaller vessel categories, weakened in the third week of October, indicating slower percentage demand growth. However, dry bulk coal flows continue to see an increase in shipments to Europe, with the Netherlands, Germany, Italy, and Spain as the main destinations, and Russia still considered the main country of origin.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "europe",
+        "iron_ore",
+        "coal",
+        "demand",
+        "flows"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 281,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nThe third week of October began with a downward trend in all size categories, with Panamax and Capesize rates still firmer than in September despite the recent slump. Capesize freight rates from Brazil to North China fell to $23.5/tonne, down nearly $2/tonne from week 40.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report__s03_section_2_supply_ballasters_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe trend has decreased significantly in the Capesize segment, while a strong downward correction is observed in the Supramax segment. Capesize demand ton-days: The percentage increase is now at its lowest level in a month, while freight rates showed a weaker picture in the October days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "trend",
+        "days."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 156,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report__s04_section_4_port_congestion_no_of_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-10-21_2022_10_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Decreasing",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Decreasing"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Decreasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Dry bulk ships congested at Chinese ports\nThe number of congested vessels showed a downward trend after an accelerated increase in the previous weeks, while in the smaller vessel categories the numbers seemed to remain at a high level. Capesize: The number of vessels dropped to less than 100 for the first time since week 36.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "vessels",
+        "number",
+        "congested"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

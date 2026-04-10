@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe freight market is not yet showing signs of firmness, as demand growth in both the large and smaller ship segments is down significantly. Overall, freight rate sentiment seems to have deteriorated in the first quarter, and the economic recovery in China has not yet had a positive impact on rate development. Meanwhile, compared to the previous two years, Chinese port congestion reached one of the lowest levels in a similar period, with Capesize congestion in the first quarter of this year appearing to drive the downward trend.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "australia",
+    "europe",
+    "iron_ore",
+    "steel",
+    "number",
+    "vessels",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1082,
+  "source_path": "reports/breakwave/2023/2023-02-23_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/23/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The freight market is not yet showing signs of firmness, as demand growth in both the large and smaller ship segments is down significantly. Overall, freight rate sentiment seems to have deteriorated in the first quarter, and the economic recovery in China has not yet had a positive impact on rate development.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "iron_ore",
+        "steel",
+        "first",
+        "chinese",
+        "congestion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 256,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__s02_chart_of_the_week_dry_bulk_capesize_chinese_port_congestion_decreases",
+      "doc_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: Capesize Chinese port congestion decreases",
+      "section_path": [
+        "Chart of the Week Dry Bulk: Capesize Chinese port congestion decreases"
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: Capesize Chinese port congestion decreases",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Data Source: The Signal Ocean Platform, Chinese dry bulk port congestion\nhttps://go.signalocean.com/e/983831/ry-dynamic-area-congestion-dry/2nnlhk/303346285?h=RuBEKp3nBW8yp_Gn6dR9movQUnVc8TEI2pjury_cwMY",
+      "keywords": [
+        "china",
+        "chinese",
+        "congestion",
+        "data",
+        "go.signalocean.com/e/983831/ry-dynamic-area-congestion-dry/2nnlhk/303346285",
+        "https",
+        "ocean",
+        "platform"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 76,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__s03_section_1_freight_market_rates_t_steady",
+      "doc_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Steady",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Steady"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Steady",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nIn the last days of February, rates are at similar levels as last week, while the general sentiment continues to weaken, with the Supramax segment offering stronger resistance to a downward trend. Capesize vessel freight rates are now at $16/tonne, with March sentiment even weaker.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "are",
+        "tonne",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__s04_section_2_supply_ballasters_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ballast ships has continued to increase significantly, apart from the Panamax segment. Capesize SE Africa: The number of vessels now stands at 91, which is 12 more than the average for the year and 55% more than the lowest level in week 51.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "above",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__s05_section_3_demand_tondays_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Decreasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Decreasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Decreasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "February saw a significant decline in demand growth, with the Capesize segment showing the strongest downward trend. Capesize demand ton-days: The downward trend remained as strong as in early February, with weak expectations for an upturn.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "downward",
+        "ton-days",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__s06_section_4_port_congestion_no_of_vessels_steady",
+      "doc_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-23_2023_02_23_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Steady",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Steady"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Steady",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Dry bulk ships congested at Chinese ports\nIn the last days of February ending, the last high of the third week of the month seemed to continue, driven by the rise in the Panamax, Supramax and Handysize segments. The Capesize segment appeared to be the only one that saw a significant decline.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "number",
+        "previous",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 186,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

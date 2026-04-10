@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-07_2023_07_07_q7m784nj8y6ewhvxk4cryv75827azc__root",
+  "doc_id": "breakwave_insights_insights_2023-07-07_2023_07_07_q7m784nj8y6ewhvxk4cryv75827azc",
+  "parent_id": null,
+  "title": "Q7M784Nj8Y6Ewhvxk4Cryv75827Azc",
+  "section_path": [
+    "Q7M784Nj8Y6Ewhvxk4Cryv75827Azc"
+  ],
+  "section_path_text": "Q7M784Nj8Y6Ewhvxk4Cryv75827Azc",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The Big Picture: El Niño: Risks to Dry Bulk Trades\nRisk of disruption to dry bulk cargo supply in some key exporters from a 90% chance of El Niño ... … but also some positives from an end to La Niña\nMeteorologists predict El Niño, in tandem with climate change, will generate more extreme weather events. There are precious few certainties in dry bulk shipping, so the World Meteorological Organisation (WMO)'s assessment on 4 July of a 90% probability of El Niño (of at least moderate strength) extending into the second half of 2023 gives us enough of a reason to a look at the potential consequences.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "coal",
+    "bauxite",
+    "steel",
+    "supply",
+    "would",
+    "coking",
+    "noaa"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 966,
+  "source_path": "reports/breakwave/2023/2023-07-07_q7m784nj8y6ewhvxk4cryv75827azc.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/7/q7m784nj8y6ewhvxk4cryv75827azc",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-07_2023_07_07_q7m784nj8y6ewhvxk4cryv75827azc__s01_the_big_picture_el_ni_o_risks_to_dry_bulk_trades",
+      "doc_id": "breakwave_insights_insights_2023-07-07_2023_07_07_q7m784nj8y6ewhvxk4cryv75827azc",
+      "parent_id": "breakwave_insights_insights_2023-07-07_2023_07_07_q7m784nj8y6ewhvxk4cryv75827azc__root",
+      "title": "The Big Picture: El Niño: Risks to Dry Bulk Trades",
+      "section_path": [
+        "The Big Picture: El Niño: Risks to Dry Bulk Trades"
+      ],
+      "section_path_text": "The Big Picture: El Niño: Risks to Dry Bulk Trades",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Risk of disruption to dry bulk cargo supply in some key exporters from a 90% chance of El Niño ... … but also some positives from an end to La Niña\nMeteorologists predict El Niño, in tandem with climate change, will generate more extreme weather events.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "australia",
+        "atlantic",
+        "west_africa",
+        "coal",
+        "bauxite",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 951,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

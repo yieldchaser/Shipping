@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-11_2022_11_11_decline_in_indias_electricity_production__root",
+  "doc_id": "breakwave_insights_insights_2022-11-11_2022_11_11_decline_in_indias_electricity_production",
+  "parent_id": null,
+  "title": "Decline In Indias Electricity Production",
+  "section_path": [
+    "Decline In Indias Electricity Production"
+  ],
+  "section_path_text": "Decline In Indias Electricity Production",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in our most recent Weekly Dry Bulk Report, India produced only 109.6 billion kilowatt hours of electricity last month which is down month-on-month by 10.4 billion kilowatt hours (-9%) and down year-on-year by 1.2 billion kilowatt hours (-1%). The weakness has come as a surprise. Electricity production had previously grown on a year-on-year basis for seven straight months.",
+  "keywords": [
+    "india",
+    "coal",
+    "billion",
+    "hours",
+    "kilowatt",
+    "year-on-year",
+    "basis",
+    "last",
+    "month-on-month",
+    "decline",
+    "down",
+    "electricity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 285,
+  "source_path": "reports/breakwave/2022/2022-11-11_decline-in-indias-electricity-production.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/11/decline-in-indias-electricity-production",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-11_2022_11_11_decline_in_indias_electricity_production__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-11_2022_11_11_decline_in_indias_electricity_production",
+      "parent_id": "breakwave_insights_insights_2022-11-11_2022_11_11_decline_in_indias_electricity_production__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in our most recent Weekly Dry Bulk Report, India produced only 109.6 billion kilowatt hours of electricity last month which is down month-on-month by 10.4 billion kilowatt hours (-9%) and down year-on-year by 1.2 billion kilowatt hours (-1%). The weakness has come as a surprise.",
+      "keywords": [
+        "india",
+        "coal",
+        "billion",
+        "hours",
+        "kilowatt",
+        "year-on-year",
+        "basis",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 283,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

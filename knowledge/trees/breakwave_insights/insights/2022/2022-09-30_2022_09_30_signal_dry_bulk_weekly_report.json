@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIron ore prices are rising toward the end of September, and low steel inventories indicate a possible increase in demand for blast furnaces. Stimulus measures announced by the Chinese government to boost the local economy in the summer following a series of COVID -19 closures appeared to add to the momentum in iron ore prices at the end of the third quarter this year. Iron ore futures rose to surprisingly high levels on Tuesday as strong construction activity fueled the recent price increase.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1079,
+  "source_path": "reports/breakwave/2022/2022-09-30_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/30/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Iron ore prices are rising toward the end of September, and low steel inventories indicate a possible increase in demand for blast furnaces. Stimulus measures announced by the Chinese government to boost the local economy in the summer following a series of COVID -19 closures appeared to add to the momentum in iron ore prices at the end of the third quarter this year.",
+      "keywords": [
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "steel",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 408,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_firmer",
+      "doc_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nDuring the last week of September, freight rate sentiment remained stable across all vessel categories, with a clear upward trend for Capesize vessels. Capesize freight rates from Brazil to North China rose to $25/tonne, up $5/tonne from the week 35 low.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__s04_supply_trend_lines_for_key_load_areas",
+      "doc_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__root",
+      "title": "Supply Trend Lines for Key Load Areas",
+      "section_path": [
+        "Supply Trend Lines for Key Load Areas"
+      ],
+      "section_path_text": "Supply Trend Lines for Key Load Areas",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The number of Capesize and Panamax vessels sailing with ballast has gradually declined over the past three weeks, while the number of Supramax and Handysize vessels has slowly declined after peaking last week. Capesize SE Africa: The number of vessels dropped to 68, a 44% decrease from the peak in week 32.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "number",
+        "week.",
+        "previous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__s05_section_3_demand_tondays_increasing",
+      "doc_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Increasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Increasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Increasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "At the end of September, the surprising upward trend in Capesize vessels continued, while some firmness remained in the Supramax segment. Capesize demand ton-days: The percentage increase recorded its highest level since the beginning of the year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "observed",
+        "continued"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 123,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__s06_section_4_port_congestion_no_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-30_2022_09_30_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Dry bulk ships congested at Chinese ports\nThe number of congested vessels remains accelerated for the end of September, with a significant increase in the Panamax and Supramax segments. Capesize: The number of congested vessels decreased to 111, down 16 from the previous week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "congested",
+        "number",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

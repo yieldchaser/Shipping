@@ -1,0 +1,49 @@
+{
+  "node_id": "hellenic_tanker_charter_2023-01-25_2023_01_25_weekly_tanker_time_charter_estimates_january_25_2023__root",
+  "doc_id": "hellenic_tanker_charter_2023-01-25_2023_01_25_weekly_tanker_time_charter_estimates_january_25_2023",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, January 25 2023",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, January 25 2023"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, January 25 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "",
+  "keywords": [
+    "image",
+    "main",
+    "reference",
+    "weekly-tanker-time-charter-estimates-january-25-2023_img2.jpg"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 33,
+  "source_path": "reports/hellenic/tanker_charter/2023/2023-01-25_weekly-tanker-time-charter-estimates-january-25-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-january-25-2023",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2023-01-25_2023_01_25_weekly_tanker_time_charter_estimates_january_25_2023__s01_main",
+      "doc_id": "hellenic_tanker_charter_2023-01-25_2023_01_25_weekly_tanker_time_charter_estimates_january_25_2023",
+      "parent_id": "hellenic_tanker_charter_2023-01-25_2023_01_25_weekly_tanker_time_charter_estimates_january_25_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "image",
+        "reference",
+        "weekly-tanker-time-charter-estimates-january-25-2023_img2.jpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

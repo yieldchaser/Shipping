@@ -1,0 +1,112 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly__root",
+  "doc_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly",
+  "parent_id": null,
+  "title": "Vortexa Freight Weekly",
+  "section_path": [
+    "Vortexa Freight Weekly"
+  ],
+  "section_path_text": "Vortexa Freight Weekly",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Dylan Simpson\n\nANALYSIS / EAST OF SUEZ / DIRTY\n\n\nChinese inspection has not triggered congestion, but intense scrutiny could impact Aframax and Suezmax opaque fleet supply\nVessels 10+ years old carrying Russian crude to China by effective controller nationality and origin\nThere have been reports of Chinese ports raising their scrutiny regarding port inspection when it comes to older tankers. The latest port to implement tighter measures is the port of Qingdao, focusing on 10+ years old foreign tankers that have changed hands in the past 3 years. According to our congestion data, there has not been any significant impact so far on Chinese ports for laden crude tankers.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "china",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "are",
+    "likely",
+    "chinese",
+    "could",
+    "not",
+    "port"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 496,
+  "source_path": "reports/breakwave/2023/2023-05-25_vortexa-freight-weekly.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/25/vortexa-freight-weekly",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "dylan",
+        "simpson"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly__s03_chinese_inspection_has_not_triggered_congestion_but_intense_scrutiny_could_impact_aframax_and_suezmax_opaque_fleet_supply",
+      "doc_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly__root",
+      "title": "Chinese inspection has not triggered congestion, but intense scrutiny could impact Aframax and Suezmax opaque fleet supply",
+      "section_path": [
+        "Chinese inspection has not triggered congestion, but intense scrutiny could impact Aframax and Suezmax opaque fleet supply"
+      ],
+      "section_path_text": "Chinese inspection has not triggered congestion, but intense scrutiny could impact Aframax and Suezmax opaque fleet supply",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Vessels 10+ years old carrying Russian crude to China by effective controller nationality and origin\nThere have been reports of Chinese ports raising their scrutiny regarding port inspection when it comes to older tankers. The latest port to implement tighter measures is the port of Qingdao, focusing on 10+ years old foreign tankers that have changed hands in the past 3 years.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "are",
+        "port",
+        "chinese",
+        "old"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 228,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly__s05_suezmax_tonne_miles_expected_to_bounce_back_in_may_however_early_signals_indicate_operation_in_shorter_haul_routes_for_june",
+      "doc_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-05-25_2023_05_25_vortexa_freight_weekly__root",
+      "title": "Suezmax tonne-miles expected to bounce back in May, however early signals indicate operation in shorter-haul routes for June",
+      "section_path": [
+        "Suezmax tonne-miles expected to bounce back in May, however early signals indicate operation in shorter-haul routes for June"
+      ],
+      "section_path_text": "Suezmax tonne-miles expected to bounce back in May, however early signals indicate operation in shorter-haul routes for June",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Ballast distribution for Suezmaxes discharging in Europe by selected regions (no. of vessels)\nPreliminary figures for global Suezmax tonne-miles stand at a 20% decline m-o-m but with one week remaining for a complete figure, it is likely that May levels will finish stronger than April.",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "likely",
+        "suezmaxes",
+        "africa",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

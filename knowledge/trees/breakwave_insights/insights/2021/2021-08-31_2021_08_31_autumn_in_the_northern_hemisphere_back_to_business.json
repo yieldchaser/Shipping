@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-08-31_2021_08_31_autumn_in_the_northern_hemisphere_back_to_business__root",
+  "doc_id": "breakwave_insights_insights_2021-08-31_2021_08_31_autumn_in_the_northern_hemisphere_back_to_business",
+  "parent_id": null,
+  "title": "Autumn In The Northern Hemisphere Back To Business",
+  "section_path": [
+    "Autumn In The Northern Hemisphere Back To Business"
+  ],
+  "section_path_text": "Autumn In The Northern Hemisphere Back To Business",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nIn France, the build-up to the annual phenomena of \"la rentrée\", loosely translated as back to school, is currently underway. Much of the focus is on the amount of stationery and any other products that the children will need in the coming school year, with the merchandise dominating much of the floor space in the supermarkets and letterboxes being swamped with advertising leaflets. This year prices and availability are also likely to have been affected by the rising freight prices and delays in the container sector.",
+  "keywords": [
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "products",
+    "steel",
+    "iron",
+    "ore",
+    "year",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 950,
+  "source_path": "reports/breakwave/2021/2021-08-31_autumn-in-the-northern-hemisphere-back-to-business.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/8/31/autumn-in-the-northern-hemisphere-back-to-business",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-08-31_2021_08_31_autumn_in_the_northern_hemisphere_back_to_business__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-08-31_2021_08_31_autumn_in_the_northern_hemisphere_back_to_business",
+      "parent_id": "breakwave_insights_insights_2021-08-31_2021_08_31_autumn_in_the_northern_hemisphere_back_to_business__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nIn France, the build-up to the annual phenomena of \"la rentrée\", loosely translated as back to school, is currently underway. Much of the focus is on the amount of stationery and any other products that the children will need in the coming school year, with the merchandise dominating much of the floor space in the supermarkets and letterboxes being swamped with advertising leaflets.",
+      "keywords": [
+        "container",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 948,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

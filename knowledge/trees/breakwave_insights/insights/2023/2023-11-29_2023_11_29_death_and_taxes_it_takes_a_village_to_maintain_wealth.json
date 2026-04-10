@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-29_2023_11_29_death_and_taxes_it_takes_a_village_to_maintain_wealth__root",
+  "doc_id": "breakwave_insights_insights_2023-11-29_2023_11_29_death_and_taxes_it_takes_a_village_to_maintain_wealth",
+  "parent_id": null,
+  "title": "Death And Taxes It Takes A Village To Maintain Wealth",
+  "section_path": [
+    "Death And Taxes It Takes A Village To Maintain Wealth"
+  ],
+  "section_path_text": "Death And Taxes It Takes A Village To Maintain Wealth",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe three things I'm thinking about this week\nWe don't have any evidence to say that this Santa rally signals the beginning of a sustainable bull market just yet. Into 2024 though, a bull market prompted by the cessation of Quantitative Tightening is a real possibility. In terms of the UK budget: The Fiscal Drag (no change in the income bands) balances out the negative fiscal effects of the Chancellor's giveaways.",
+  "keywords": [
+    "fiscal",
+    "income",
+    "drag",
+    "bull",
+    "inflation",
+    "all",
+    "land",
+    "managers",
+    "rally",
+    "tax",
+    "toy",
+    "wealth"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 937,
+  "source_path": "reports/breakwave/2023/2023-11-29_death-and-taxes-it-takes-a-village-to-maintain-wealth.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/29/death-and-taxes-it-takes-a-village-to-maintain-wealth",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-29_2023_11_29_death_and_taxes_it_takes_a_village_to_maintain_wealth__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-29_2023_11_29_death_and_taxes_it_takes_a_village_to_maintain_wealth",
+      "parent_id": "breakwave_insights_insights_2023-11-29_2023_11_29_death_and_taxes_it_takes_a_village_to_maintain_wealth__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The three things I'm thinking about this week\nWe don't have any evidence to say that this Santa rally signals the beginning of a sustainable bull market just yet. Into 2024 though, a bull market prompted by the cessation of Quantitative Tightening is a real possibility.",
+      "keywords": [
+        "fiscal",
+        "income",
+        "drag",
+        "bull",
+        "inflation",
+        "all",
+        "land",
+        "managers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 935,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-01-17_2023_01_17_issues_remain_for_dry_bulk_market__root",
+  "doc_id": "breakwave_insights_insights_2023-01-17_2023_01_17_issues_remain_for_dry_bulk_market",
+  "parent_id": null,
+  "title": "Issues Remain For Dry Bulk Market",
+  "section_path": [
+    "Issues Remain For Dry Bulk Market"
+  ],
+  "section_path_text": "Issues Remain For Dry Bulk Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nOne key theme we have been stressing in recent work is that passenger travel in China via road, subways, and air are increasing (along with other consumer activity), but some industrial markets in China continue to face significant pressure. Coal burn at power plants recently fell to the lowest level seen since early December and has been down year-on-year by 6%. Steel production has also continued to fall, and ended the final days of December at the lowest level seen since late July and down year-on-year by 8%.",
+  "keywords": [
+    "china",
+    "coal",
+    "steel",
+    "housing",
+    "but",
+    "continue",
+    "year-on-year",
+    "amount",
+    "can",
+    "december",
+    "down",
+    "recently"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 476,
+  "source_path": "reports/breakwave/2023/2023-01-17_issues-remain-for-dry-bulk-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/1/17/issues-remain-for-dry-bulk-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-01-17_2023_01_17_issues_remain_for_dry_bulk_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-01-17_2023_01_17_issues_remain_for_dry_bulk_market",
+      "parent_id": "breakwave_insights_insights_2023-01-17_2023_01_17_issues_remain_for_dry_bulk_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nOne key theme we have been stressing in recent work is that passenger travel in China via road, subways, and air are increasing (along with other consumer activity), but some industrial markets in China continue to face significant pressure. Coal burn at power plants recently fell to the lowest level seen since early December and has been down year-on-year by 6%.",
+      "keywords": [
+        "china",
+        "coal",
+        "steel",
+        "housing",
+        "but",
+        "continue",
+        "year-on-year",
+        "amount"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 474,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

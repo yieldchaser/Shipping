@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-06-25_2021_06_25_iron_ore_and_coal_a_continued_strong_demand_offsets_attempts__root",
+  "doc_id": "breakwave_insights_insights_2021-06-25_2021_06_25_iron_ore_and_coal_a_continued_strong_demand_offsets_attempts",
+  "parent_id": null,
+  "title": "Iron Ore And Coal A Continued Strong Demand Offsets Attempts To Control The Prices",
+  "section_path": [
+    "Iron Ore And Coal A Continued Strong Demand Offsets Attempts To Control The Prices"
+  ],
+  "section_path_text": "Iron Ore And Coal A Continued Strong Demand Offsets Attempts To Control The Prices",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThat the Chinese leadership has a desire to bring commodity prices under control is by now well documented, with various measures implemented to bring this about. If the attempts are successful in the long run remain to be seen. Some observers are sceptical about any lasting effects, with Glencore's outgoing Chief Executive Officer, Ivan Glasenberg, saying earlier in the week that the Chinese efforts to cool rising commodity prices cannot be sustained for long.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "australia",
+    "japan",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "chinese",
+    "are",
+    "iron"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1000,
+  "source_path": "reports/breakwave/2021/2021-06-25_iron-ore-and-coal-a-continued-strong-demand-offsets-attempts.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/6/25/iron-ore-and-coal-a-continued-strong-demand-offsets-attempts-to-control-the-prices",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-06-25_2021_06_25_iron_ore_and_coal_a_continued_strong_demand_offsets_attempts__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-06-25_2021_06_25_iron_ore_and_coal_a_continued_strong_demand_offsets_attempts",
+      "parent_id": "breakwave_insights_insights_2021-06-25_2021_06_25_iron_ore_and_coal_a_continued_strong_demand_offsets_attempts__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThat the Chinese leadership has a desire to bring commodity prices under control is by now well documented, with various measures implemented to bring this about. If the attempts are successful in the long run remain to be seen.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "australia",
+        "japan",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 998,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

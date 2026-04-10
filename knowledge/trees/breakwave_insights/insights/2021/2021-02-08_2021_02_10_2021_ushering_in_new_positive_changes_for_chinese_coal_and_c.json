@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-02-08_2021_02_10_2021_ushering_in_new_positive_changes_for_chinese_coal_and_c__root",
+  "doc_id": "breakwave_insights_insights_2021-02-08_2021_02_10_2021_ushering_in_new_positive_changes_for_chinese_coal_and_c",
+  "parent_id": null,
+  "title": "2021 Ushering In New Positive Changes For Chinese Coal And Corn Demand",
+  "section_path": [
+    "2021 Ushering In New Positive Changes For Chinese Coal And Corn Demand"
+  ],
+  "section_path_text": "2021 Ushering In New Positive Changes For Chinese Coal And Corn Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nDry bulk prospects for this year remain promising. While the upcoming Lunar New Year holiday has ushered in a normal cooling in spot cargo demand, China's overall economy remains very encouraging. In addition, SHIBOR lending rates fell significantly last week.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "electricity",
+    "production",
+    "year",
+    "last",
+    "very",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 835,
+  "source_path": "reports/breakwave/2021/2021-02-10_2021-ushering-in-new-positive-changes-for-chinese-coal-and-c.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/2/8/2021-ushering-in-new-positive-changes-for-chinese-coal-and-corn-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-02-08_2021_02_10_2021_ushering_in_new_positive_changes_for_chinese_coal_and_c__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-02-08_2021_02_10_2021_ushering_in_new_positive_changes_for_chinese_coal_and_c",
+      "parent_id": "breakwave_insights_insights_2021-02-08_2021_02_10_2021_ushering_in_new_positive_changes_for_chinese_coal_and_c__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nDry bulk prospects for this year remain promising. While the upcoming Lunar New Year holiday has ushered in a normal cooling in spot cargo demand, China's overall economy remains very encouraging.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "steel",
+        "electricity",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 833,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

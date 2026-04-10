@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-11-10_2022_11_10_mmi_daily_iron_ore_index_report_november_10_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-11-10_2022_11_10_mmi_daily_iron_ore_index_report_november_10_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report November 10 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report November 10 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report November 10 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 10/11/2022\nDCE iron ore futures declined by 1.39% today, the main contract closed 675.5. The traders' willingness to ship is general.The steel mills are purchase on demand. The overall trading senTment of the market is less.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "inventory",
+    "main",
+    "ore",
+    "port",
+    "according",
+    "accumulated",
+    "coarse",
+    "dealt",
+    "decrease"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 329,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-11-10_mmi-daily-iron-ore-index-report-november-10-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-10-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-11-10_2022_11_10_mmi_daily_iron_ore_index_report_november_10_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-11-10_2022_11_10_mmi_daily_iron_ore_index_report_november_10_2022",
+      "parent_id": "hellenic_iron_ore_2022-11-10_2022_11_10_mmi_daily_iron_ore_index_report_november_10_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 10/11/2022\nDCE iron ore futures declined by 1.39% today, the main contract closed 675.5. The traders' willingness to ship is general.The steel mills are purchase on demand.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "inventory",
+        "ore",
+        "port",
+        "according",
+        "accumulated"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 327,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

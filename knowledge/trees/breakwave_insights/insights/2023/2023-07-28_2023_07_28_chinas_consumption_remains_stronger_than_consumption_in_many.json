@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-28_2023_07_28_chinas_consumption_remains_stronger_than_consumption_in_many__root",
+  "doc_id": "breakwave_insights_insights_2023-07-28_2023_07_28_chinas_consumption_remains_stronger_than_consumption_in_many",
+  "parent_id": null,
+  "title": "Chinas Consumption Remains Stronger Than Consumption In Many Other Nations",
+  "section_path": [
+    "Chinas Consumption Remains Stronger Than Consumption In Many Other Nations"
+  ],
+  "section_path_text": "Chinas Consumption Remains Stronger Than Consumption In Many Other Nations",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina's June retail sales data has recently been released and has shown year-on-year growth of 3.1%. This has once again come in lower than many expectations and has been disappointing to many pundits. However, unlike in various other nations, including in the United States, China's retail sales growth continues to far exceed inflation.",
+  "keywords": [
+    "china",
+    "sales",
+    "last",
+    "states",
+    "united",
+    "year-on-year",
+    "again",
+    "goods",
+    "growth",
+    "home",
+    "retail",
+    "various"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 303,
+  "source_path": "reports/breakwave/2023/2023-07-28_chinas-consumption-remains-stronger-than-consumption-in-many.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/28/chinas-consumption-remains-stronger-than-consumption-in-many-other-nations",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-28_2023_07_28_chinas_consumption_remains_stronger_than_consumption_in_many__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-28_2023_07_28_chinas_consumption_remains_stronger_than_consumption_in_many",
+      "parent_id": "breakwave_insights_insights_2023-07-28_2023_07_28_chinas_consumption_remains_stronger_than_consumption_in_many__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina's June retail sales data has recently been released and has shown year-on-year growth of 3.1%. This has once again come in lower than many expectations and has been disappointing to many pundits.",
+      "keywords": [
+        "china",
+        "sales",
+        "last",
+        "states",
+        "united",
+        "year-on-year",
+        "again",
+        "goods"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 301,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

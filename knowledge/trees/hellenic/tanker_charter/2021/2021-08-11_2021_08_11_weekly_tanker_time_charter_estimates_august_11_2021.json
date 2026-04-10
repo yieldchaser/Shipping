@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_tanker_charter_2021-08-11_2021_08_11_weekly_tanker_time_charter_estimates_august_11_2021__root",
+  "doc_id": "hellenic_tanker_charter_2021-08-11_2021_08_11_weekly_tanker_time_charter_estimates_august_11_2021",
+  "parent_id": null,
+  "title": "Weekly Tanker Time Charter Estimates, August 11 2021",
+  "section_path": [
+    "Weekly Tanker Time Charter Estimates, August 11 2021"
+  ],
+  "section_path_text": "Weekly Tanker Time Charter Estimates, August 11 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVery little period activity reported in the crude sector once again this week, aside from one or two long term deals reported in the suezmax and aframax sectors. On the whole the market remains subdued, and rates have moved sideways. On the clean side, some very short-term period fixtures were reported in the MR and LR1 sectors although rates remained flat.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "crude_oil",
+    "reported",
+    "period",
+    "very",
+    "activity",
+    "again",
+    "although",
+    "aside",
+    "clean",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 131,
+  "source_path": "reports/hellenic/tanker_charter/2021/2021-08-11_weekly-tanker-time-charter-estimates-august-11-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-august-11-2021",
+  "children": [
+    {
+      "node_id": "hellenic_tanker_charter_2021-08-11_2021_08_11_weekly_tanker_time_charter_estimates_august_11_2021__s01_main",
+      "doc_id": "hellenic_tanker_charter_2021-08-11_2021_08_11_weekly_tanker_time_charter_estimates_august_11_2021",
+      "parent_id": "hellenic_tanker_charter_2021-08-11_2021_08_11_weekly_tanker_time_charter_estimates_august_11_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Very little period activity reported in the crude sector once again this week, aside from one or two long term deals reported in the suezmax and aframax sectors. On the whole the market remains subdued, and rates have moved sideways.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "reported",
+        "period",
+        "very",
+        "activity",
+        "again"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

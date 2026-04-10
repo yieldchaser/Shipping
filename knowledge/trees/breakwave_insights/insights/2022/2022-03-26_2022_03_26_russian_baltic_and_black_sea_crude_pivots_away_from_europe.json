@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-03-26_2022_03_26_russian_baltic_and_black_sea_crude_pivots_away_from_europe__root",
+  "doc_id": "breakwave_insights_insights_2022-03-26_2022_03_26_russian_baltic_and_black_sea_crude_pivots_away_from_europe",
+  "parent_id": null,
+  "title": "Russian Baltic And Black Sea Crude Pivots Away From Europe",
+  "section_path": [
+    "Russian Baltic And Black Sea Crude Pivots Away From Europe"
+  ],
+  "section_path_text": "Russian Baltic And Black Sea Crude Pivots Away From Europe",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jay Maroo\nA month on from Russia's invasion into Ukraine, the impact of European and US buyers shunning Russian oil is no longer just moving prices, but also driving change in physcial cargo movements. In this insight, we explore how Russian crude oil is now pivoting away from Europe and shed light on tradeflows that were once deemed unusual, but now may be the start of a new trend. Russian crude oil exports have been viewed by European and US buyers as highly risky or simply unwanted for a month now, with spot cargo prices for grades such as Urals having dropped and stayed low amid little-to-zero buying interest for weeks.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "russian",
+    "crude",
+    "sea",
+    "exports",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 595,
+  "source_path": "reports/breakwave/2022/2022-03-26_russian-baltic-and-black-sea-crude-pivots-away-from-europe.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/3/26/russian-baltic-and-black-sea-crude-pivots-away-from-europe",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-03-26_2022_03_26_russian_baltic_and_black_sea_crude_pivots_away_from_europe__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-03-26_2022_03_26_russian_baltic_and_black_sea_crude_pivots_away_from_europe",
+      "parent_id": "breakwave_insights_insights_2022-03-26_2022_03_26_russian_baltic_and_black_sea_crude_pivots_away_from_europe__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jay Maroo\nA month on from Russia's invasion into Ukraine, the impact of European and US buyers shunning Russian oil is no longer just moving prices, but also driving change in physcial cargo movements. In this insight, we explore how Russian crude oil is now pivoting away from Europe and shed light on tradeflows that were once deemed unusual, but now may be the start of a new trend.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "russian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 593,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

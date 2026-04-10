@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-04-01_2022_04_01_mmi_daily_iron_ore_index_report_april_01_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-04-01_2022_04_01_mmi_daily_iron_ore_index_report_april_01_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report April 01 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report April 01 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report April 01 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 01/04/2022\nDCE iron ore futures open lower and go higher, an increase of 3.46% throughout the day, the main contract closed 926. The spot quotation inthe morning almost kept steady. some traders were active to sell, steel mills purchased on demand; but speculative trading has increased; Today the overall market transaction atmosphere is acceptable.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "port",
+    "yuan/mt",
+    "increased",
+    "ore",
+    "tons",
+    "dealt",
+    "million",
+    "daily",
+    "epidemic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 457,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-04-01_mmi-daily-iron-ore-index-report-april-01-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-01-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-04-01_2022_04_01_mmi_daily_iron_ore_index_report_april_01_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-04-01_2022_04_01_mmi_daily_iron_ore_index_report_april_01_2022",
+      "parent_id": "hellenic_iron_ore_2022-04-01_2022_04_01_mmi_daily_iron_ore_index_report_april_01_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 01/04/2022\nDCE iron ore futures open lower and go higher, an increase of 3.46% throughout the day, the main contract closed 926. The spot quotation inthe morning almost kept steady.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "port",
+        "yuan/mt",
+        "increased",
+        "ore",
+        "tons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 455,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

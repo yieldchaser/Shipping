@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report",
+  "parent_id": null,
+  "title": "Signal Weekly Report",
+  "section_path": [
+    "Signal Weekly Report"
+  ],
+  "section_path_text": "Signal Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe last week of December comes with negative momentum of rates for capesize, supramax and handysize, while rates for panamax bulkers improved slightly compared to last week's levels. Freight rates for capesize bulkers are still facing negative pressure, whereas the demand, in ton days, posed an increase despite the festive season and the estimates for a slower Chinese economic growth. In the previous week, we reported a decrease in the growth of capesize demand that seems to be not permanent.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "coal",
+    "steel",
+    "vessels",
+    "number"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 883,
+  "source_path": "reports/breakwave/2021/2021-12-29_signal-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/12/29/signal-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report",
+      "parent_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The last week of December comes with negative momentum of rates for capesize, supramax and handysize, while rates for panamax bulkers improved slightly compared to last week's levels. Freight rates for capesize bulkers are still facing negative pressure, whereas the demand, in ton days, posed an increase despite the festive season and the estimates for a slower Chinese economic growth.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "iron_ore",
+        "steel",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 284,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report",
+      "parent_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nWeek 52 begins with Brazil to North China rates at levels below $22.5/ton, while the year will end with week 40 of October recording the highest level for this year ~$51/ton. In the panamax segment, Continent to Far East Rates are on increase towards $45/ton and it remains to be seen if Chinese coal demand will continue to strengthen this sentiment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 225,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__s03_section_2_supply_ballasters_view_number_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report",
+      "parent_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__root",
+      "title": "SECTION 2 - SUPPLY - Ballasters View Number of Vessels - Increasing",
+      "section_path": [
+        "SECTION 2 - SUPPLY - Ballasters View Number of Vessels - Increasing"
+      ],
+      "section_path_text": "SECTION 2 - SUPPLY - Ballasters View Number of Vessels - Increasing",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of vessels sailing in ballast has now again started to increase for capesize and panamax vessels nearing the one year average number, for capesize~80 vessels, and panamax~100 vessels. Supramax ships sailing in ballast status in SE Asia are now nearing the average number of 90 vessels, and it remains to be seen whether this increasing momentum will continue in the coming days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "number",
+        "average",
+        "ballast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__s04_section_3_demand_in_ton_days",
+      "doc_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report",
+      "parent_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__root",
+      "title": "SECTION 3 - DEMAND - In Ton Days",
+      "section_path": [
+        "SECTION 3 - DEMAND - In Ton Days"
+      ],
+      "section_path_text": "SECTION 3 - DEMAND - In Ton Days",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Increasing Evolution of Demand -% Growth\nThe last week of December holds the increasing trend in ton days demand for the supramax segment, whereas the handysize and panamax vessels have not yet shown indications of rebound. In the capesize segment, we see an increase towards the end of this year that will support the upward movement of rates, however, there are mixed fears for the duration of this due to the festive season and usual slowdown of Chinese iron ore demand.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "iron_ore",
+        "demand",
+        "increasing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__s05_section_4_chinese_port_congestions_number_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report",
+      "parent_id": "breakwave_insights_insights_2021-12-29_2021_12_29_signal_weekly_report__root",
+      "title": "SECTION 4 - CHINESE PORT CONGESTIONS - Number of Vessels - Increasing",
+      "section_path": [
+        "SECTION 4 - CHINESE PORT CONGESTIONS - Number of Vessels - Increasing"
+      ],
+      "section_path_text": "SECTION 4 - CHINESE PORT CONGESTIONS - Number of Vessels - Increasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested around Chinese ports\nWeek 52 confirms the upward trend of congested vessels witnessed from previous week. The total number is now nearing the levels of week 46 and is one step before touching the one year average.",
+      "keywords": [
+        "handysize",
+        "china",
+        "congested",
+        "one",
+        "around",
+        "average.",
+        "before",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 82,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

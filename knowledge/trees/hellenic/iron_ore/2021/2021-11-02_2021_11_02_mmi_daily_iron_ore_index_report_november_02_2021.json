@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-11-02_2021_11_02_mmi_daily_iron_ore_index_report_november_02_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-11-02_2021_11_02_mmi_daily_iron_ore_index_report_november_02_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report November 02 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report November 02 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report November 02 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 02/11/2021\nDCE iron ore futures fell sharply today, the main contract closed 565.5, an decrease of 9.95% throughout the day; the quotation in the morningwas decreased follow the disk. Market wait-and-see sentiment increased; some traders have significantly adjusted their prices. Steel mills bought on their demands.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "million",
+    "ore",
+    "iron",
+    "decreased",
+    "yuan/mt",
+    "main",
+    "port"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 431,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-11-02_mmi-daily-iron-ore-index-report-november-02-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-02-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-11-02_2021_11_02_mmi_daily_iron_ore_index_report_november_02_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-11-02_2021_11_02_mmi_daily_iron_ore_index_report_november_02_2021",
+      "parent_id": "hellenic_iron_ore_2021-11-02_2021_11_02_mmi_daily_iron_ore_index_report_november_02_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 02/11/2021\nDCE iron ore futures fell sharply today, the main contract closed 565.5, an decrease of 9.95% throughout the day; the quotation in the morningwas decreased follow the disk. Market wait-and-see sentiment increased; some traders have significantly adjusted their prices.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "million",
+        "ore",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 429,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

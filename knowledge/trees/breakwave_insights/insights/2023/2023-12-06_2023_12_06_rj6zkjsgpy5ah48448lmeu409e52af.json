@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-12-06_2023_12_06_rj6zkjsgpy5ah48448lmeu409e52af__root",
+  "doc_id": "breakwave_insights_insights_2023-12-06_2023_12_06_rj6zkjsgpy5ah48448lmeu409e52af",
+  "parent_id": null,
+  "title": "Rj6Zkjsgpy5Ah48448Lmeu409E52Af",
+  "section_path": [
+    "Rj6Zkjsgpy5Ah48448Lmeu409E52Af"
+  ],
+  "section_path_text": "Rj6Zkjsgpy5Ah48448Lmeu409E52Af",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nCoal India produced approximately 66 million tons of coal last month, which marks a month-on-month increase of 5 million tons (8%) and a year-on-year increase of 5.3 million tons (9%). Coal India's production has now increased on a year-on-year basis during thirty of the last thirty-one months. Coal India's production has grown this year by 62.6 million tons (10%).",
+  "keywords": [
+    "china",
+    "india",
+    "coal",
+    "steel",
+    "million",
+    "tons",
+    "last",
+    "coking",
+    "increase",
+    "now",
+    "offtake",
+    "year-on-year"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 297,
+  "source_path": "reports/breakwave/2023/2023-12-06_rj6zkjsgpy5ah48448lmeu409e52af.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/12/6/rj6zkjsgpy5ah48448lmeu409e52af",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-12-06_2023_12_06_rj6zkjsgpy5ah48448lmeu409e52af__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-12-06_2023_12_06_rj6zkjsgpy5ah48448lmeu409e52af",
+      "parent_id": "breakwave_insights_insights_2023-12-06_2023_12_06_rj6zkjsgpy5ah48448lmeu409e52af__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nCoal India produced approximately 66 million tons of coal last month, which marks a month-on-month increase of 5 million tons (8%) and a year-on-year increase of 5.3 million tons (9%). Coal India's production has now increased on a year-on-year basis during thirty of the last thirty-one months.",
+      "keywords": [
+        "china",
+        "india",
+        "coal",
+        "steel",
+        "million",
+        "tons",
+        "last",
+        "coking"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 295,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

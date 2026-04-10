@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-13_2023_02_13_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-02-13_2023_02_13_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"Price appreciation of shipping shares of late doesn't seem to question whether there will be a decisive way forward but rather the actual timing of it.\"\nBy Michalis Voutsinas\nReporting double-digit weekly gains but still balancing at uninspiring levels, the leading Capesize Baltic index concluded on Friday at $4,033 daily. Setting aside few trading days in last August, one has to go back to the initial phase of the Covid-19 pandemic to see similar levels. Along with Capesizes, the general Baltic Index landed last week at nearly three-year lows of 602 points, last seen in early June 2020.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "singapore",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "tonnes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 912,
+  "source_path": "reports/breakwave/2023/2023-02-13_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/13/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-13_2023_02_13_doric_weekly_market_insight__s01_price_appreciation_of_shipping_shares_of_late_doesn_t_seem_to_question_whether_there_will_be_a_decisive_way_forward_but_rather_the_actual_timing_of_it",
+      "doc_id": "breakwave_insights_insights_2023-02-13_2023_02_13_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-02-13_2023_02_13_doric_weekly_market_insight__root",
+      "title": "\"Price appreciation of shipping shares of late doesn't seem to question whether there will be a decisive way forward but rather the actual timing of it.\"",
+      "section_path": [
+        "\"Price appreciation of shipping shares of late doesn't seem to question whether there will be a decisive way forward but rather the actual timing of it.\""
+      ],
+      "section_path_text": "\"Price appreciation of shipping shares of late doesn't seem to question whether there will be a decisive way forward but rather the actual timing of it.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nReporting double-digit weekly gains but still balancing at uninspiring levels, the leading Capesize Baltic index concluded on Friday at $4,033 daily. Setting aside few trading days in last August, one has to go back to the initial phase of the Covid-19 pandemic to see similar levels.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific",
+        "singapore",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 883,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

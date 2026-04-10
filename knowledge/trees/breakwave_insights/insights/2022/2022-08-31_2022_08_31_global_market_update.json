@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update",
+  "parent_id": null,
+  "title": "Global Market Update",
+  "section_path": [
+    "Global Market Update"
+  ],
+  "section_path_text": "Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nAs previously mentioned in The Fix, the path to a recession is rarely a straight line. There will be data releases pointing towards a recovery rather than a further weakening of the business cycle, providing the temptation to signal the all-clear. Yesterday was such a day, with US consumer confidence and job openings surprising with better-than-expected numbers.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1167,
+  "source_path": "reports/breakwave/2022/2022-08-31_global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/31/global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "As previously mentioned in The Fix, the path to a recession is rarely a straight line. There will be data releases pointing towards a recovery rather than a further weakening of the business cycle, providing the temptation to signal the all-clear.",
+      "keywords": [
+        "china",
+        "new",
+        "are",
+        "cases",
+        "country",
+        "data",
+        "further",
+        "providing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Concerns that China will impose new restrictions amid rising Covid infection rates and expectations of more interest rate hikes among the world's leading economies weighed heavily on crude oil prices yesterday. Brent crude oil futures fell below 100 dollars per barrel following a 5.5 per cent drop.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 499,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Except for the Baltic Exchange's indices for the gas carriers, freight rates declined yesterday across the board. A softening demand outlook amid Covid concerns in China and weaker global growth contributed to the declines.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 226,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-08-31_2022_08_31_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "After falling sharply during the latter parts of the second quarter and the early parts of the third, agricultural commodities have rallied in recent weeks. The initial excitement over the deal that allow Ukraine to resume its grain exports has receded somewhat and contributed to the resurgent prices, as the scale of the project to shift the country's stockpiles is becoming increasingly evident.",
+      "keywords": [
+        "grain",
+        "data",
+        "grains",
+        "ukrainian",
+        "deal",
+        "during",
+        "exports",
+        "hence"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 215,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

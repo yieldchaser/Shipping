@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-12-24_2021_12_24_mmi_daily_iron_ore_index_report_december_24_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-12-24_2021_12_24_mmi_daily_iron_ore_index_report_december_24_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report December 24 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report December 24 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report December 24 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 24/12/2021\nDCE iron ore futures market rose by 3.93%，the main contract closed 713.5. the quotation in the morning was increased by 10 yuan/mtover yesterday. and the price continued to increase by 10-20 yuan/mt afternoon.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "increased",
+    "ore",
+    "dealt",
+    "iron",
+    "port",
+    "yesterday",
+    "million",
+    "pbf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 360,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-12-24_mmi-daily-iron-ore-index-report-december-24-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-december-24-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-12-24_2021_12_24_mmi_daily_iron_ore_index_report_december_24_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-12-24_2021_12_24_mmi_daily_iron_ore_index_report_december_24_2021",
+      "parent_id": "hellenic_iron_ore_2021-12-24_2021_12_24_mmi_daily_iron_ore_index_report_december_24_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 24/12/2021\nDCE iron ore futures market rose by 3.93%，the main contract closed 713.5. the quotation in the morning was increased by 10 yuan/mtover yesterday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "increased",
+        "ore",
+        "dealt",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 358,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

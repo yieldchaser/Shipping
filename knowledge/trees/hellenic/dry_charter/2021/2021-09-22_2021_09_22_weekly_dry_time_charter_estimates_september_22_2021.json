@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-09-22_2021_09_22_weekly_dry_time_charter_estimates_september_22_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-09-22_2021_09_22_weekly_dry_time_charter_estimates_september_22_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, September 22 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, September 22 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, September 22 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAnother firm week for the capsize period thanks to strong iron ore exports from Brazil to China, port congestion in China has also lent support to this sector and the average rate for four to six months is currently estimated as $44,250/pdpr. Plenty of period activity reported in the kamsarmax/panamax sector reported over the past week and short term rates for this sector have firmed as exports from the Atlantic resumed following some weeks of disruption in the wake of the Hurricanes earlier this month. Rates for the smaller sizes remained firm thanks to continued support from the Indonesia to China coal trade and grain trades from the Black Sea.",
+  "keywords": [
+    "panamax",
+    "china",
+    "brazil",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "grain",
+    "sector",
+    "exports",
+    "firm",
+    "period",
+    "reported"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 162,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-09-22_weekly-dry-time-charter-estimates-september-22-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-september-22-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-09-22_2021_09_22_weekly_dry_time_charter_estimates_september_22_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-09-22_2021_09_22_weekly_dry_time_charter_estimates_september_22_2021",
+      "parent_id": "hellenic_dry_charter_2021-09-22_2021_09_22_weekly_dry_time_charter_estimates_september_22_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Another firm week for the capsize period thanks to strong iron ore exports from Brazil to China, port congestion in China has also lent support to this sector and the average rate for four to six months is currently estimated as $44,250/pdpr. Plenty of period activity reported in the kamsarmax/panamax sector reported over the past week and short term rates for this sector have firmed as exports from the Atlantic resumed following some weeks of disruption in the wake of the Hurricanes earlier this month.",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "atlantic",
+        "iron_ore",
+        "coal",
+        "grain",
+        "sector"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 160,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

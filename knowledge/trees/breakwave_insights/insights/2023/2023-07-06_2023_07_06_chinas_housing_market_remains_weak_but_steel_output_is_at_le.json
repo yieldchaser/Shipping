@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-06_2023_07_06_chinas_housing_market_remains_weak_but_steel_output_is_at_le__root",
+  "doc_id": "breakwave_insights_insights_2023-07-06_2023_07_06_chinas_housing_market_remains_weak_but_steel_output_is_at_le",
+  "parent_id": null,
+  "title": "Chinas Housing Market Remains Weak But Steel Output Is At Least Improving",
+  "section_path": [
+    "Chinas Housing Market Remains Weak But Steel Output Is At Least Improving"
+  ],
+  "section_path_text": "Chinas Housing Market Remains Weak But Steel Output Is At Least Improving",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we have been stressing in Commodore's Weekly Dry Bulk Reports, China's consumer recovery remains underway and we expect that its industrial recovery will resume this quarter. The housing market is set to remain a significant problem however. China's housing supply has continued to decline by a small amount - but compared to the end of the last several years, current floor space still marks the largest amount available since 2016.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "steel",
+    "last",
+    "prices",
+    "production",
+    "year-on-year",
+    "amount",
+    "continued",
+    "during",
+    "housing",
+    "marked"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 267,
+  "source_path": "reports/breakwave/2023/2023-07-06_chinas-housing-market-remains-weak-but-steel-output-is-at-le.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/6/chinas-housing-market-remains-weak-but-steel-output-is-at-least-improving",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-06_2023_07_06_chinas_housing_market_remains_weak_but_steel_output_is_at_le__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-06_2023_07_06_chinas_housing_market_remains_weak_but_steel_output_is_at_le",
+      "parent_id": "breakwave_insights_insights_2023-07-06_2023_07_06_chinas_housing_market_remains_weak_but_steel_output_is_at_le__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we have been stressing in Commodore's Weekly Dry Bulk Reports, China's consumer recovery remains underway and we expect that its industrial recovery will resume this quarter. The housing market is set to remain a significant problem however.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "steel",
+        "last",
+        "prices",
+        "production",
+        "year-on-year",
+        "amount"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 265,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

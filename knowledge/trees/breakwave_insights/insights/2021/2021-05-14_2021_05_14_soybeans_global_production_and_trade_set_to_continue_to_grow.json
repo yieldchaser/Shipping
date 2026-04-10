@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-05-14_2021_05_14_soybeans_global_production_and_trade_set_to_continue_to_grow__root",
+  "doc_id": "breakwave_insights_insights_2021-05-14_2021_05_14_soybeans_global_production_and_trade_set_to_continue_to_grow",
+  "parent_id": null,
+  "title": "Soybeans Global Production And Trade Set To Continue To Grow",
+  "section_path": [
+    "Soybeans Global Production And Trade Set To Continue To Grow"
+  ],
+  "section_path_text": "Soybeans Global Production And Trade Set To Continue To Grow",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nSoybean futures are trading within striking distance of the all-time high set in September 2012. After gaining over 90 per cent in the last year, another eight per cent price rise would relegate the previous record to the history books. The robust prices have been supported by the low inventories of oilseeds, despite fears that the worsening coronavirus situation in India would reduce vegetable oil demand in India.",
+  "keywords": [
+    "panamax",
+    "china",
+    "brazil",
+    "india",
+    "grain",
+    "crude_oil",
+    "million",
+    "soybean",
+    "tonnes",
+    "cent",
+    "demand",
+    "expected"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 736,
+  "source_path": "reports/breakwave/2021/2021-05-14_soybeans-global-production-and-trade-set-to-continue-to-grow.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/5/14/soybeans-global-production-and-trade-set-to-continue-to-grow",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-05-14_2021_05_14_soybeans_global_production_and_trade_set_to_continue_to_grow__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-05-14_2021_05_14_soybeans_global_production_and_trade_set_to_continue_to_grow",
+      "parent_id": "breakwave_insights_insights_2021-05-14_2021_05_14_soybeans_global_production_and_trade_set_to_continue_to_grow__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nSoybean futures are trading within striking distance of the all-time high set in September 2012. After gaining over 90 per cent in the last year, another eight per cent price rise would relegate the previous record to the history books.",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "india",
+        "grain",
+        "crude_oil",
+        "million",
+        "soybean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 734,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

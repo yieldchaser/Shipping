@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nYesterday, the International Monetary Fund upgraded its projections for global growth this year. An improving outlook and a shrinking risk of the global economy performing a hard landing led the IMF to adjust its expected growth to 3.0 per cent, up from a projection of 2.8 per cent in April. Still, the global economy is expected to expand by less than last year's 3.5 per cent, and the IMF also warned that significant downside risks remain in place.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal",
+    "grain"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1168,
+  "source_path": "reports/breakwave/2023/2023-07-27_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/27/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Yesterday, the International Monetary Fund upgraded its projections for global growth this year. An improving outlook and a shrinking risk of the global economy performing a hard landing led the IMF to adjust its expected growth to 3.0 per cent, up from a projection of 2.8 per cent in April.",
+      "keywords": [
+        "economy",
+        "cent",
+        "global",
+        "imf",
+        "its",
+        "per",
+        "expected",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "An improving demand outlook for China amid expectations of more economic stimulus contributed to crude oil prices rising yesterday. The September Brent futures recorded a daily gain of 1.1 per cent and settled at 83.64 dollars per barrel on Tuesday.",
+      "keywords": [
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 488,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index declined by 0.5 per cent on Tuesday, with the negative contribution originating in the mid-sized segments. The freight rate gauge for the Panamaxes declined by 1.6 per cent, while the indicator for the Supramaxes shed 0.5 per cent.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-07-27_2023_07_27_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "According to data released by the China Iron and Steel Association earlier in the month, Chinese steel exports rose by nearly a third during the first half of the year compared to the same period last year. However, the data also highlighted that export volumes declined on a month-on-month basis in June, the first such drop for the year.",
+      "keywords": [
+        "china",
+        "steel",
+        "data",
+        "chinese",
+        "cargo",
+        "exports",
+        "increase",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 241,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

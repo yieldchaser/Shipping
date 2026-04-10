@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe past week witnessed extensive volatility across the global commodities markets as traders digested contradicting signals. Weaker-than-expected Chinese data and lower demand in the Northern Hemisphere contributed to falling energy prices. At the same time, metals and agricultural commodities generally gained some ground over the course of the week.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "pacific",
+    "europe",
+    "india",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1416,
+  "source_path": "reports/breakwave/2023/2023-06-06_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/6/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The past week witnessed extensive volatility across the global commodities markets as traders digested contradicting signals. Weaker-than-expected Chinese data and lower demand in the Northern Hemisphere contributed to falling energy prices.",
+      "keywords": [
+        "capesize",
+        "china",
+        "commodities",
+        "agricultural",
+        "bergman",
+        "capesizes",
+        "chinese",
+        "contradicting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 84,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Last week saw the release of several contradictory signals for the health of the global economy. Two sets of Chinese manufacturing PMI data pointed in opposite directions.",
+      "keywords": [
+        "china",
+        "pacific",
+        "chinese",
+        "manufacturing",
+        "continued",
+        "data",
+        "economy",
+        "gauge"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Despite solid gains on Friday, crude oil declined over the course of the past five trading sessions amid volatile conditions. After gaining 2.5 per cent during the week's last day, the August Brent futures settled at 76.13 dollars per barrel, 1.1 per cent below the previous week's close.",
+      "keywords": [
+        "china",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 560,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "While the past week was shorter than usual because of a public holiday in the UK, there was no shortage of drama during the remaining four days. The headline Baltic dry Index declined by 21.6 per cent over the past four sessions, with the Capesizes providing much of the headwinds.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 369,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-06-06_2023_06_06_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "While European coal imports remain on a downward trend, Indian imports of the commodity have been buoyant. A spike in cargo order volumes for coal discharging in India during March has translated into very substantial import volumes during the past month.",
+      "keywords": [
+        "australia",
+        "europe",
+        "india",
+        "coal",
+        "during",
+        "imports",
+        "cargo",
+        "volumes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

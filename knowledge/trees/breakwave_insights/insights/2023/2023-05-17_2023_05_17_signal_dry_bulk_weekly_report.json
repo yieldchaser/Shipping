@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week Dry Bulk: Brazil grains to China\nBrazilian soybean exports to China increase higher than last year\nData Source: The Signal Ocean Platform, Dry Bulk Flows\nhttps://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nyfg7/319669314?h=lROgeqzzaKabyu2dPQkB7ciQZBxMVUBe6dcwQHeP9gg\nIn the third week of May, we still see a slowing momentum in the smaller vessel categories, while the Capesize segment still shows an upward trend, and demand growth also shows a recovery compared to the end of April. Meanwhile, the Panamax segment is getting a boost from the increase in soybean exports from Brazil to China, with monthly volumes reaching a peak towards the end of the first quarter, which is higher than last quarter (left chart above). Looking in parallel at the trend in ton-miles from Brazil to China (right chart above) for all size classes of dry bulk vessels, there is a clear upward curve since the end of February.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "grain",
+    "number",
+    "vessels",
+    "trend",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1167,
+  "source_path": "reports/breakwave/2023/2023-05-17_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/17/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_brazil_grains_to_china",
+      "doc_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: Brazil grains to China",
+      "section_path": [
+        "Chart of the Week Dry Bulk: Brazil grains to China"
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: Brazil grains to China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Brazilian soybean exports to China increase higher than last year\nData Source: The Signal Ocean Platform, Dry Bulk Flows\nhttps://go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nyfg7/319669314?h=lROgeqzzaKabyu2dPQkB7ciQZBxMVUBe6dcwQHeP9gg\nIn the third week of May, we still see a slowing momentum in the smaller vessel categories, while the Capesize segment still shows an upward trend, and demand growth also shows a recovery compared to the end of April. Meanwhile, the Panamax segment is getting a boost from the increase in soybean exports from Brazil to China, with monthly volumes reaching a peak towards the end of the first quarter, which is higher than last quarter (left chart above).",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "grain",
+        "end",
+        "segment",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 343,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t",
+      "doc_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t)",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t)"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Capesize - Firmer | Panamax - Supramax - Handysize - Weaker\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nIn the third week of May, the Capesize segment recorded a similar firm level to the previous week, while rates for other vessel size classes offered a weaker outlook over the past five weeks. Capesize vessel freight rates are at $22/tonne, and have held at that level for the past three weeks and are up from the 8th week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "past",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__s03_section_2_supply_ballasters_vessels",
+      "doc_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels)",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels)"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels)",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Capesize-Panamax- Decreasing | Supramax - Handysize Increasing\nSupply Trend Lines for Key Load Areas\nAs far as the number of ballast ships is concerned, an upward trend can be observed for the smaller ship categories, while a downward correction seems to be taking place for the Capesize and Panamax ships. Capesize SE Africa: The number of vessels is now 106, 5 less than the previous week and 60% higher than the peak of seven weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "previous",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 203,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__s04_section_3_demand_tondays_softening",
+      "doc_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Softening",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Softening"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Softening",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "In the third week of May, there is a significant downward correction in the Panamax and Supramax segments, while the Capesize segment continues to show a firm trend. Capesize demand ton-days: The upward trend has continued since the end of week 16, and this week's increase is now at the high of five weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "growth",
+        "level"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__s05_section_4_port_congestion_no_of_vessels_increasing_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-17_2023_05_17_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "For the second week in a row, congestion increased in May as the number of Panamax and Handysize vessels increased. Capesize: The number of vessels now stands at 105, down 9 from the first week of May.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "ships",
+        "now",
+        "previous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe expanded Russian-Ukraine invasion intensifies worries for disruptions in the exports of all commodities from oil and metals to grains, while commodity prices are rising. Grain and soybean futures settled at sharply higher levels and current estimates indicate a further rise given that Black sea commodity exports are already facing port closures with vessels avoiding sailings towards key export hubs of high risk. In the iron ore market, commodity prices also climbed, and the most-traded May iron ore contract ended at $112/t on Monday.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 847,
+  "source_path": "reports/breakwave/2022/2022-03-03_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/3/3/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The expanded Russian-Ukraine invasion intensifies worries for disruptions in the exports of all commodities from oil and metals to grains, while commodity prices are rising. Grain and soybean futures settled at sharply higher levels and current estimates indicate a further rise given that Black sea commodity exports are already facing port closures with vessels avoiding sailings towards key export hubs of high risk.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "australia",
+        "europe",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 314,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_firmer",
+      "doc_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Firmer",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Firmer"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Firmer",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nCapesize Brazil to NChina rates dropped to levels of below $23/t this week, but they maintain stronger momentum compared to the lows of $18/t at Week 3. Panamax Continent to Far East rates continued the spike of last week and are now above $48/t.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "compared"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__s04_number_of_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__root",
+      "title": "Number of Vessels - Decreasing",
+      "section_path": [
+        "Number of Vessels - Decreasing"
+      ],
+      "section_path_text": "Number of Vessels - Decreasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe ballasters' view keeps the downward correction that was signaled almost three weeks ago in the Capesize and Panamax sectors. In the Capesize segment, the number of vessels sailing in ballast status has now eventually dropped below the one-year average of 80 vessels, while in the Panamax, the trend is near to 90 vessels compared to the peak of 156 vessels at Week 5.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "trend",
+        "average",
+        "now"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 162,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__s06_increasing",
+      "doc_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__root",
+      "title": "Increasing",
+      "section_path": [
+        "Increasing"
+      ],
+      "section_path_text": "Increasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The dry bulk demand evolution shows significantly higher growth this week for the Panamax size, followed by worries for disruptions on Russian coal,\nIn the supramax segment, we see also the trend to be aggressively higher than the other vessel sizes, with Ukrainian grain ports now closed and buyers seeking alternatives.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "coal",
+        "grain",
+        "higher",
+        "aggressively",
+        "alternatives.",
+        "buyers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 59,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__s09_dry_bulk_ships_congested_around_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-03-03_2022_03_03_signal_dry_bulk_weekly_report__root",
+      "title": "Dry bulk ships congested around Chinese ports",
+      "section_path": [
+        "Dry bulk ships congested around Chinese ports"
+      ],
+      "section_path_text": "Dry bulk ships congested around Chinese ports",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Although the last week gave signals for a downward movement of Chinese port congestion, we see now eventually an increase with levels above the one-year minimum of 860 vessels. The ships queues are longer in the handysize, supramax and Panamax sizes.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "are",
+        "last",
+        "above",
+        "although"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

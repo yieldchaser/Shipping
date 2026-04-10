@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-20_2023_11_20_9j1lbdouo3d74axzywcylr5k1ajqzy__root",
+  "doc_id": "breakwave_insights_insights_2023-11-20_2023_11_20_9j1lbdouo3d74axzywcylr5k1ajqzy",
+  "parent_id": null,
+  "title": "9J1Lbdouo3D74Axzywcylr5K1Ajqzy",
+  "section_path": [
+    "9J1Lbdouo3D74Axzywcylr5K1Ajqzy"
+  ],
+  "section_path_text": "9J1Lbdouo3D74Axzywcylr5K1Ajqzy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"The overall macroeconomic landscape appears more resilient at last, promising the potential for improved conditions in the coming year. \"\nBy Michalis Voutsinas\nHistorically high temperatures have been recorded in the year 2023 in the Atlantic Ocean, exacerbated by the presence of the El Niño phenomenon. This phenomenon elevates the temperature of the Pacific Ocean and, in the case of Panama, has caused a delay in the onset of the rainy season.",
+  "keywords": [
+    "capesize",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "canal",
+    "global",
+    "panama",
+    "year.",
+    "are",
+    "growth",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 883,
+  "source_path": "reports/breakwave/2023/2023-11-20_9j1lbdouo3d74axzywcylr5k1ajqzy.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/20/9j1lbdouo3d74axzywcylr5k1ajqzy",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-20_2023_11_20_9j1lbdouo3d74axzywcylr5k1ajqzy__s01_the_overall_macroeconomic_landscape_appears_more_resilient_at_last_promising_the_potential_for_improved_conditions_in_the_coming_year",
+      "doc_id": "breakwave_insights_insights_2023-11-20_2023_11_20_9j1lbdouo3d74axzywcylr5k1ajqzy",
+      "parent_id": "breakwave_insights_insights_2023-11-20_2023_11_20_9j1lbdouo3d74axzywcylr5k1ajqzy__root",
+      "title": "\"The overall macroeconomic landscape appears more resilient at last, promising the potential for improved conditions in the coming year. \"",
+      "section_path": [
+        "\"The overall macroeconomic landscape appears more resilient at last, promising the potential for improved conditions in the coming year. \""
+      ],
+      "section_path_text": "\"The overall macroeconomic landscape appears more resilient at last, promising the potential for improved conditions in the coming year. \"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nHistorically high temperatures have been recorded in the year 2023 in the Atlantic Ocean, exacerbated by the presence of the El Niño phenomenon. This phenomenon elevates the temperature of the Pacific Ocean and, in the case of Panama, has caused a delay in the onset of the rainy season.",
+      "keywords": [
+        "capesize",
+        "china",
+        "atlantic",
+        "pacific",
+        "europe",
+        "canal",
+        "global",
+        "panama"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 860,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

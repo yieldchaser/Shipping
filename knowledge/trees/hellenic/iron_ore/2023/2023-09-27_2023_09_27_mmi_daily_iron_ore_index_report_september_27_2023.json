@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-09-27_2023_09_27_mmi_daily_iron_ore_index_report_september_27_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-09-27_2023_09_27_mmi_daily_iron_ore_index_report_september_27_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 27 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 27 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 27 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 27/09/2023\nDCE iron ore futures rose smally today by 0.59%. the main contract I2401 closed 846.5. Some traders have already goneon vacation, and there are fewer shipping traders.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "today",
+    "fewer",
+    "high",
+    "main",
+    "maintenance",
+    "molten",
+    "ore",
+    "yuan/mt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 215,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-09-27_mmi-daily-iron-ore-index-report-september-27-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-27-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-09-27_2023_09_27_mmi_daily_iron_ore_index_report_september_27_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-09-27_2023_09_27_mmi_daily_iron_ore_index_report_september_27_2023",
+      "parent_id": "hellenic_iron_ore_2023-09-27_2023_09_27_mmi_daily_iron_ore_index_report_september_27_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 27/09/2023\nDCE iron ore futures rose smally today by 0.59%. the main contract I2401 closed 846.5.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "today",
+        "fewer",
+        "high",
+        "maintenance"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

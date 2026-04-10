@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-08-10_2022_08_10_mmi_daily_iron_ore_index_report_august_10_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-08-10_2022_08_10_mmi_daily_iron_ore_index_report_august_10_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 10 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 10 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 10 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 10/08/2022\nDCE iron ore was was shocked sharply all the day.The main contract closed at 724.5,decreased of 1.7%. Traders are generally motivated toship, Speculative demand increases. Steel mills are mainly on the sidelines, and market turnover continues to pick up.PBF at Shandong port dealt 780 -785 yuan/mt;,decrease 5-15 yuan/mt than yesterday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "yuan/mt",
+    "was",
+    "dealt",
+    "increase",
+    "iron",
+    "mills",
+    "are",
+    "main",
+    "ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 312,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-08-10_mmi-daily-iron-ore-index-report-august-10-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-10-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-08-10_2022_08_10_mmi_daily_iron_ore_index_report_august_10_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-08-10_2022_08_10_mmi_daily_iron_ore_index_report_august_10_2022",
+      "parent_id": "hellenic_iron_ore_2022-08-10_2022_08_10_mmi_daily_iron_ore_index_report_august_10_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 10/08/2022\nDCE iron ore was was shocked sharply all the day.The main contract closed at 724.5,decreased of 1.7%. Traders are generally motivated toship, Speculative demand increases.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "yuan/mt",
+        "was",
+        "dealt",
+        "increase",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 310,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

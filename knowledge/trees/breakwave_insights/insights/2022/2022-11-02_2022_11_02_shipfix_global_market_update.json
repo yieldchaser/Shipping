@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nMuch of today's focus will be on the Federal Reserve and its decision on interest rates. The US central bank is widely expected to raise interest rates by another 75 basis points. However, traders and investors will be paying close attention to the Chairman's wording during the press conference for any indications of the size of future hikes.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "meg",
+    "europe"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1042,
+  "source_path": "reports/breakwave/2022/2022-11-02_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/2/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Much of today's focus will be on the Federal Reserve and its decision on interest rates. The US central bank is widely expected to raise interest rates by another 75 basis points.",
+      "keywords": [
+        "interest",
+        "decision",
+        "today",
+        "traders",
+        "another",
+        "any",
+        "are",
+        "attention"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil futures advanced yesterday amid reports of a sizeable drawdown in US crude inventories, signalling a continued robust demand for the commodity. The Brent contracts ended Tuesday's session at 94.85 dollars per barrel, following a 2.2 per cent increase for the day.",
+      "keywords": [
+        "china",
+        "atlantic",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 487,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Exchange's dry bulk freight indices were deeply in the red on Tuesday, with the headline Baltic Dry Index retreating by 5.8 per cent. The largest vessel segment was the day's worst performers, with the Capesizes' sub-index leading the way down with an eleven per cent drop amid limited ordering activities.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "brazil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-11-02_2022_11_02_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The European import ban on Russian coal has forced the continent's buyers to seek alternative sources of the fossil fuel amid a tightening energy supply situation. It has resulted in increasing shipments from more distant shores, such as South Africa and Australia.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "coal",
+        "russian",
+        "data",
+        "order"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 204,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

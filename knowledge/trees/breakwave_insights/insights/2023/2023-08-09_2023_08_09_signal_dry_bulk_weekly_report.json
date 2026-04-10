@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Grain Flows from Brazil to China\nUpward revision of grain flows from Brazil to China throughout this year\nAs the second week of August commenced, the momentum in the freight market exhibited greater resilience, particularly marked by substantial gains in the larger vessel size segments. Concurrently, persistent geopolitical challenges continued to exert a downward influence on the smaller vessel size categories. Notably, the rising count of ballast ships sent escalating signals, raising apprehensions about the sustainability of the upward trajectory of freight rates as the summer season progresses.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "grain",
+    "upward",
+    "number",
+    "vessel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1212,
+  "source_path": "reports/breakwave/2023/2023-08-09_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/9/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__s01_chart_of_the_week_grain_flows_from_brazil_to_china",
+      "doc_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week: Grain Flows from Brazil to China",
+      "section_path": [
+        "Chart of the Week: Grain Flows from Brazil to China"
+      ],
+      "section_path_text": "Chart of the Week: Grain Flows from Brazil to China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Upward revision of grain flows from Brazil to China throughout this year\nAs the second week of August commenced, the momentum in the freight market exhibited greater resilience, particularly marked by substantial gains in the larger vessel size segments. Concurrently, persistent geopolitical challenges continued to exert a downward influence on the smaller vessel size categories.",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "grain",
+        "months",
+        "above",
+        "agreement",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 258,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The beginning of the second week in August saw an increase in rate development for larger vessels, while smaller vessel categories still faced challenges in rebalancing their rates to exceed those of the previous days in July. Capesize vessel freight rates from Brazil to North China hovered around $19.6/tonne, up nearly $3/tonne from three weeks ago, with the last low coming in week 22 when rates fell below $19/tonne.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas | Ballasters (# vessels) Increasing\nThe count of ballasters has consistently remained notably elevated compared to the preceding weeks, and this upward trajectory has become even more pronounced within the Handysize segment during the second week of August. Capesize SE Africa: The number of ballasters is 123, well above the annual average of 83 for the last six consecutive weeks and 46% from the low in week 26.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "ballasters",
+        "number",
+        "average",
+        "weeks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size | TonneDays Increasing\nAn upward surge in tonne-day growth became evident during the second week of August, primarily driven by robust performances in the Capesize, Panamax, and Supramax vessel segments. Capesize: The demand for Capesize vessels experienced a noteworthy acceleration in growth, gaining momentum from the latter part of the first week of August.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "grain",
+        "growth",
+        "upward",
+        "august."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 251,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-08-09_2023_08_09_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports | No of Vessels Increasing\nThe upward revision in the number of vessel congestions continued for a second consecutive week, with a notable increase in the Supramax, Panamax and Handysize segments. Capesize: The current number of vessel congestion has been around 100 for three weeks, and there is no sign of an upward trend yet.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "number",
+        "previous",
+        "ships"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 219,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

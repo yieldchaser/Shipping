@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-10-09_2023_10_09_long_term_yields_come_with_risks__root",
+  "doc_id": "breakwave_insights_insights_2023-10-09_2023_10_09_long_term_yields_come_with_risks",
+  "parent_id": null,
+  "title": "Long Term Yields Come With Risks",
+  "section_path": [
+    "Long Term Yields Come With Risks"
+  ],
+  "section_path_text": "Long Term Yields Come With Risks",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nThe resurgence of the Middle East conflict is likely to affect the possible Saudi-Israel deal which had been pushing oil prices down. Inflation may be pressured higher, due to a stronger-than-expected economy and a possible new wave of high energy prices. For the past few weeks, the yield curve has been dis-inverting, i.e.",
+  "keywords": [
+    "crude_oil",
+    "are",
+    "long",
+    "bonds",
+    "but",
+    "higher",
+    "inflation",
+    "longer",
+    "not",
+    "who",
+    "yield",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1239,
+  "source_path": "reports/breakwave/2023/2023-10-09_long-term-yields-come-with-risks.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/10/9/long-term-yields-come-with-risks",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-10-09_2023_10_09_long_term_yields_come_with_risks__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-10-09_2023_10_09_long_term_yields_come_with_risks",
+      "parent_id": "breakwave_insights_insights_2023-10-09_2023_10_09_long_term_yields_come_with_risks__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nThe resurgence of the Middle East conflict is likely to affect the possible Saudi-Israel deal which had been pushing oil prices down. Inflation may be pressured higher, due to a stronger-than-expected economy and a possible new wave of high energy prices.",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "long",
+        "bonds",
+        "but",
+        "higher",
+        "inflation",
+        "longer"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1237,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

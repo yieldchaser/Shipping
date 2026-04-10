@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-17_2022_08_17_daily_coal_burn_in_china_has_set_another_record__root",
+  "doc_id": "breakwave_insights_insights_2022-08-17_2022_08_17_daily_coal_burn_in_china_has_set_another_record",
+  "parent_id": null,
+  "title": "Daily Coal Burn In China Has Set Another Record",
+  "section_path": [
+    "Daily Coal Burn In China Has Set Another Record"
+  ],
+  "section_path_text": "Daily Coal Burn In China Has Set Another Record",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nThe most recently released data as of August 7th shows that the daily coal burn rate at China's six major coastal power plants has come in at 916,000 tons. This is up week-on-week by 2%, up year-on-year by 15%, and is a new record. Coal burn has now set records during three of the last four weeks as China continues to experience warmer than usual temperatures and in some places new records.",
+  "keywords": [
+    "china",
+    "coal",
+    "year",
+    "much",
+    "new",
+    "thermal",
+    "but",
+    "chinese",
+    "continues",
+    "during",
+    "last",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 403,
+  "source_path": "reports/breakwave/2022/2022-08-17_daily-coal-burn-in-china-has-set-another-record.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/17/daily-coal-burn-in-china-has-set-another-record",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-17_2022_08_17_daily_coal_burn_in_china_has_set_another_record__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-08-17_2022_08_17_daily_coal_burn_in_china_has_set_another_record",
+      "parent_id": "breakwave_insights_insights_2022-08-17_2022_08_17_daily_coal_burn_in_china_has_set_another_record__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nThe most recently released data as of August 7th shows that the daily coal burn rate at China's six major coastal power plants has come in at 916,000 tons. This is up week-on-week by 2%, up year-on-year by 15%, and is a new record.",
+      "keywords": [
+        "china",
+        "coal",
+        "year",
+        "much",
+        "new",
+        "thermal",
+        "but",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 401,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

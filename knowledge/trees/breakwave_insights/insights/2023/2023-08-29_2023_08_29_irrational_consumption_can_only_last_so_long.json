@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-29_2023_08_29_irrational_consumption_can_only_last_so_long__root",
+  "doc_id": "breakwave_insights_insights_2023-08-29_2023_08_29_irrational_consumption_can_only_last_so_long",
+  "parent_id": null,
+  "title": "Irrational Consumption Can Only Last So Long",
+  "section_path": [
+    "Irrational Consumption Can Only Last So Long"
+  ],
+  "section_path_text": "Irrational Consumption Can Only Last So Long",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nThe three things I would tell my investors this week\nJerome Powell's speech at Jackson Hole had a little in it for everyone. Some hawkish talk about raising interest rates if consumption continues to be strong and some dovish talk about the labour market. As far as markets are concerned, the central banking main \"event of the year\" had all the excitement of a corporate away day.",
+  "keywords": [
+    "crude_oil",
+    "products",
+    "gas",
+    "consumption",
+    "all",
+    "are",
+    "money",
+    "can",
+    "markets",
+    "when",
+    "central",
+    "economy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1398,
+  "source_path": "reports/breakwave/2023/2023-08-29_irrational-consumption-can-only-last-so-long.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/29/irrational-consumption-can-only-last-so-long",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-29_2023_08_29_irrational_consumption_can_only_last_so_long__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-08-29_2023_08_29_irrational_consumption_can_only_last_so_long",
+      "parent_id": "breakwave_insights_insights_2023-08-29_2023_08_29_irrational_consumption_can_only_last_so_long__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nThe three things I would tell my investors this week\nJerome Powell's speech at Jackson Hole had a little in it for everyone. Some hawkish talk about raising interest rates if consumption continues to be strong and some dovish talk about the labour market.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "gas",
+        "consumption",
+        "all",
+        "are",
+        "money",
+        "can"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1396,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

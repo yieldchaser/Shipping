@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-04_2022_02_04_steel_output_remains_strong_outside_of_china__root",
+  "doc_id": "breakwave_insights_insights_2022-02-04_2022_02_04_steel_output_remains_strong_outside_of_china",
+  "parent_id": null,
+  "title": "Steel Output Remains Strong Outside Of China",
+  "section_path": [
+    "Steel Output Remains Strong Outside Of China"
+  ],
+  "section_path_text": "Steel Output Remains Strong Outside Of China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nGlobal crude steel production totaled 158.7 million tons last month. This is up month-on-month by 15.4 million tons (11%) but is 2.2 million tons (-1%) less than was reported last year for December's 2020's production. The year-on-year contraction has been mostly entirely due to the contraction in China.",
+  "keywords": [
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "tons",
+    "last",
+    "million",
+    "production",
+    "was",
+    "year",
+    "year-on-year",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 397,
+  "source_path": "reports/breakwave/2022/2022-02-04_steel-output-remains-strong-outside-of-china.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/4/steel-output-remains-strong-outside-of-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-04_2022_02_04_steel_output_remains_strong_outside_of_china__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-04_2022_02_04_steel_output_remains_strong_outside_of_china",
+      "parent_id": "breakwave_insights_insights_2022-02-04_2022_02_04_steel_output_remains_strong_outside_of_china__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nGlobal crude steel production totaled 158.7 million tons last month. This is up month-on-month by 15.4 million tons (11%) but is 2.2 million tons (-1%) less than was reported last year for December's 2020's production.",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "steel",
+        "tons",
+        "last",
+        "million",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 395,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

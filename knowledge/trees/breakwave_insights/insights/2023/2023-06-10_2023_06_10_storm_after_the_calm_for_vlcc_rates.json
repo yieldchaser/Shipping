@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates__root",
+  "doc_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates",
+  "parent_id": null,
+  "title": "Storm After The Calm For Vlcc Rates",
+  "section_path": [
+    "Storm After The Calm For Vlcc Rates"
+  ],
+  "section_path_text": "Storm After The Calm For Vlcc Rates",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe huge drop we recently experienced on the Very Large Crude Carrier (VLCC) freight rates was only seasonal. Rising oil prices and the start of refining maintenance season in China contributed to a cutback in VLCC activity (and rates) in April and May. According to the Norwegian Arctic Securities, latest China data sends positive signals.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "crude_oil",
+    "oil",
+    "demand",
+    "prices",
+    "lower",
+    "not",
+    "price",
+    "according",
+    "always"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 453,
+  "source_path": "reports/breakwave/2023/2023-06-10_storm-after-the-calm-for-vlcc-rates.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/10/storm-after-the-calm-for-vlcc-rates",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates",
+      "parent_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The huge drop we recently experienced on the Very Large Crude Carrier (VLCC) freight rates was only seasonal. Rising oil prices and the start of refining maintenance season in China contributed to a cutback in VLCC activity (and rates) in April and May.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "believe",
+        "demand",
+        "according",
+        "activity",
+        "appear"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 126,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates__s02_the_correlation_between_oil_price_and_tanker_rates",
+      "doc_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates",
+      "parent_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates__root",
+      "title": "The correlation between oil price and tanker rates",
+      "section_path": [
+        "The correlation between oil price and tanker rates"
+      ],
+      "section_path_text": "The correlation between oil price and tanker rates",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The relationship between oil prices and tanker rates is not always straightforward as this Poten & Partners chart illustrates. However, sometimes there is a correlation.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "oil",
+        "lower",
+        "prices",
+        "always",
+        "chinese",
+        "earnings."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 180,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates__s03_attractive_entry_point",
+      "doc_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates",
+      "parent_id": "breakwave_insights_insights_2023-06-10_2023_06_10_storm_after_the_calm_for_vlcc_rates__root",
+      "title": "Attractive entry point?",
+      "section_path": [
+        "Attractive entry point?"
+      ],
+      "section_path_text": "Attractive entry point?",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "According to Arctic, the fundamentally strong demand coupled with the constrained supply side (the tankers fleet is expected to actually shrink in size in the foreseeable future) leads to \"now, is good time to enter the tankers space\". VLCC spot rates for the Middle East Gulf to China benchmark route (TD3C) and the Breakwave Tanker Shipping ETF (BWET) were both up about 10% yesterday.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "bwet",
+        "future",
+        "not",
+        "tankers",
+        "td3c"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

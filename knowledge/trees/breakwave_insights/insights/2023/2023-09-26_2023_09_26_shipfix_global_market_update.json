@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic Dry Index advanced for a third consecutive week amid gains across all vessel segments. The Capesizes delivered the most sizeable gains amid continued robust order volumes in the spot market. In contrast, the commodities endured a mixed week with volatility.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1343,
+  "source_path": "reports/breakwave/2023/2023-09-26_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/26/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic Dry Index advanced for a third consecutive week amid gains across all vessel segments. The Capesizes delivered the most sizeable gains amid continued robust order volumes in the spot market.",
+      "keywords": [
+        "capesize",
+        "europe",
+        "iron_ore",
+        "coal",
+        "gas",
+        "amid",
+        "among",
+        "commodities"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 81,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The new week has begun with renewed concerns over the state of the Chinese real estate sector. After reports of cancelled investor meetings, embattled property developer Evergrande is looking increasingly unlikely to succeed in its efforts to restructure its operations.",
+      "keywords": [
+        "china",
+        "europe",
+        "iron_ore",
+        "chinese",
+        "data",
+        "its",
+        "property",
+        "addition"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The crude oil markets experienced a week with limited daily moves. After beginning the week in the black, the remainder of the week saw prices drifting lower as concerns over the demand outlook offset tighter global supplies.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 547,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index surged by 15.4 per cent last week amid gains across all vessel segments. In line with the preceding two weeks, much of the headline index's performance originated in the largest segment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 320,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2023-09-26_2023_09_26_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Over the past month, the Panamaxes have been the dry bulk sector's laggards. While the Baltic Exchange's freight index for the segment has advanced by more than eleven per cent since late August, the Panamaxes lag their smaller and larger relatives by quite a distance.",
+      "keywords": [
+        "panamax",
+        "atlantic",
+        "pacific",
+        "india",
+        "coal",
+        "demand",
+        "indian",
+        "panamaxes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 218,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

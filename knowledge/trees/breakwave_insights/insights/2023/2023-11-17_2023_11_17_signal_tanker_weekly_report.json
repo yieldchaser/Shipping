@@ -1,0 +1,286 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: VLCC dirty tonne days\nGrowth in VLCC dirty tonne days slowed to its lowest level of the year in the fourth quarter\nIn the third week of November, crude freight market sentiment recorded a decrease with VLCC AG to China rates holding a resistance for firmer levels, however, when looking at the demand side there has been a further decrease in VLCC dirty tonne days growth. In the clean segment, there has been a rather steady sentiment amid a weakening picture of the previous weeks, while demand does not yet still provoke signs of recovery. Overall, the fourth quarter of the year seems to evolve with a downward pressure on freight rates despite optimism for a winter demand boosting the rates.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "previous",
+    "demand",
+    "days"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1168,
+  "source_path": "reports/breakwave/2023/2023-11-17_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/17/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__s01_chart_of_the_week_vlcc_dirty_tonne_days",
+      "doc_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__root",
+      "title": "Chart of the Week: VLCC dirty tonne days",
+      "section_path": [
+        "Chart of the Week: VLCC dirty tonne days"
+      ],
+      "section_path_text": "Chart of the Week: VLCC dirty tonne days",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Growth in VLCC dirty tonne days slowed to its lowest level of the year in the fourth quarter\nIn the third week of November, crude freight market sentiment recorded a decrease with VLCC AG to China rates holding a resistance for firmer levels, however, when looking at the demand side there has been a further decrease in VLCC dirty tonne days growth. In the clean segment, there has been a rather steady sentiment amid a weakening picture of the previous weeks, while demand does not yet still provoke signs of recovery.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "demand",
+        "decrease",
+        "sentiment",
+        "crude",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 257,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Market Rates (WS)\n‘Dirty' WS - Decreasing VLCC - Suezmax - Aframax\nThe crude oil freight market rates declined in the third week of November, although the recovery in the VLCC segment gave cause for optimism. VLCC MEG-China freight rates firmer momentum above 70 WS, up 25% from a similar week in the previous month, but 40% lower than a year ago.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__s03_product_ws_lr2_weaker",
+      "doc_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__root",
+      "title": "‘Product' WS LR2 Weaker",
+      "section_path": [
+        "‘Product' WS LR2 Weaker"
+      ],
+      "section_path_text": "‘Product' WS LR2 Weaker",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "LR2 AG freight rates continued their weakness and fell to 125 WS, which is 10% less than the previous week and 19% less than a month ago.",
+      "keywords": [
+        "less",
+        "ago.",
+        "continued",
+        "fell",
+        "lr2",
+        "month",
+        "previous",
+        "weakness"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__s04_panamax_steady",
+      "doc_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__root",
+      "title": "Panamax Steady",
+      "section_path": [
+        "Panamax Steady"
+      ],
+      "section_path_text": "Panamax Steady",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Panamax Carib-to-USG rates appeared to stabilise at around 260 WS, 23% higher than a month ago.",
+      "keywords": [
+        "panamax",
+        "ago.",
+        "appeared",
+        "around",
+        "carib-to-usg",
+        "higher",
+        "month",
+        "stabilise"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__s05_clean_mr_steady",
+      "doc_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__root",
+      "title": "‘Clean' MR Steady",
+      "section_path": [
+        "‘Clean' MR Steady"
+      ],
+      "section_path_text": "‘Clean' MR Steady",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "MR1 rates for the Baltic continent remained almost at the same level as the previous week and were around 170 WS, a 70% decrease compared to a similar week a year ago. MR2 rates for shipments from the continent to the U.S.",
+      "keywords": [
+        "europe",
+        "continent",
+        "level",
+        "previous",
+        "annualised",
+        "basis.",
+        "decline",
+        "dropping"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 131,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__s06_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "'Dirty' (#vessels) - Mixed\nThe third week of November brings downward pressure in the VLCC Ras Tanura, while the Suezmax Wafr Bonny has peaked in the last four weeks. VLCC Ras Tanura: The number of ships dropped to 65, 7 less than the previous week but still above the annual average, while the last low was reached in week 42.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "number",
+        "ships",
+        "average.",
+        "dropped"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__s08_mr1_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__root",
+      "title": "MR1 (#vessels) - Decreasing",
+      "section_path": [
+        "MR1 (#vessels) - Decreasing"
+      ],
+      "section_path_text": "MR1 (#vessels) - Decreasing",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Clean LR2 AG Jubail: The latest figure has been revised downwards to 13 ships after peaking at 18 two weeks ago, with the upward trend above the annual average. Clean MR1 Algeria Skikda: There has been a downward trend recently, with readings at 25.5 lower than the previous week, and it remains to be seen whether the last few days of the month will see a trend below the annual average of 33.",
+      "keywords": [
+        "trend",
+        "annual",
+        "clean",
+        "above",
+        "after",
+        "ago",
+        "algeria",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__s09_section_3_demand_tonne_days",
+      "doc_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__root",
+      "title": "SECTION 3/ DEMAND (Tonne Days)",
+      "section_path": [
+        "SECTION 3/ DEMAND (Tonne Days)"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND (Tonne Days)",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "‘Dirty' Mixed\nDirty tonne days: The third week of November saw a continuation of the significant downward correction in demand growth for VLCCs since week 42, with sentiment also weakening for Aframax. However, the Suezmax maintained the firmness of two weeks ago with an upward trend for the next few days.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "dirty",
+        "aframax.",
+        "ago",
+        "continuation",
+        "correction"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 67,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__s10_clean_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-11-17_2023_11_17_signal_tanker_weekly_report__root",
+      "title": "‘Clean' Decreasing",
+      "section_path": [
+        "‘Clean' Decreasing"
+      ],
+      "section_path_text": "‘Clean' Decreasing",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Panamax tonne days: The growth rate is revised downwards significantly as we approach the end of the week, while the last peak was recorded in week 34. Clean MR tonne days: The outlook for demand growth held the weakness of previous weeks for MR1, while the downward trend for MR2 remained less pronounced than the lows of weeks 25 and 27 for two consecutive weeks.",
+      "keywords": [
+        "panamax",
+        "days",
+        "growth",
+        "tonne",
+        "weeks",
+        "approach",
+        "clean",
+        "consecutive"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 85,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

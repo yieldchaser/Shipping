@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-10-27_2021_10_27_chinese_iron_ore_imports_on_the_rise_in_the_shadow_of_a_wors__root",
+  "doc_id": "breakwave_insights_insights_2021-10-27_2021_10_27_chinese_iron_ore_imports_on_the_rise_in_the_shadow_of_a_wors",
+  "parent_id": null,
+  "title": "Chinese Iron Ore Imports On The Rise In The Shadow Of A Worsening Economic Outlook",
+  "section_path": [
+    "Chinese Iron Ore Imports On The Rise In The Shadow Of A Worsening Economic Outlook"
+  ],
+  "section_path_text": "Chinese Iron Ore Imports On The Rise In The Shadow Of A Worsening Economic Outlook",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nWith an increasingly grim news flow coming out of China, there are suggestions among analysts that the world's second-largest economy may decelerate faster than many global investors realise. While the recovery following the initial wave of the pandemic has been impressive, the uneven character of the resurgence highlighted the challenges the Chinese leadership were facing. In parallel with a booming export industry, the domestic economy struggled to regain its momentum as consumer confidence has remained weak following recurring Covid-19 outbreaks and a sluggish labour market.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "grain",
+    "steel",
+    "chinese",
+    "growth",
+    "are",
+    "economy",
+    "economic",
+    "month",
+    "iron",
+    "may"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 824,
+  "source_path": "reports/breakwave/2021/2021-10-27_chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-wors.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/10/27/chinese-iron-ore-imports-on-the-rise-in-the-shadow-of-a-worsening-economic-outlook",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-10-27_2021_10_27_chinese_iron_ore_imports_on_the_rise_in_the_shadow_of_a_wors__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-10-27_2021_10_27_chinese_iron_ore_imports_on_the_rise_in_the_shadow_of_a_wors",
+      "parent_id": "breakwave_insights_insights_2021-10-27_2021_10_27_chinese_iron_ore_imports_on_the_rise_in_the_shadow_of_a_wors__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nWith an increasingly grim news flow coming out of China, there are suggestions among analysts that the world's second-largest economy may decelerate faster than many global investors realise. While the recovery following the initial wave of the pandemic has been impressive, the uneven character of the resurgence highlighted the challenges the Chinese leadership were facing.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "grain",
+        "steel",
+        "chinese",
+        "growth",
+        "are",
+        "economy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 822,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

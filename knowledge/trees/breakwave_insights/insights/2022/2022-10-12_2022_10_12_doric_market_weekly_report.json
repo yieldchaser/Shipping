@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-12_2022_10_12_doric_market_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-10-12_2022_10_12_doric_market_weekly_report",
+  "parent_id": null,
+  "title": "Doric Market Weekly Report",
+  "section_path": [
+    "Doric Market Weekly Report"
+  ],
+  "section_path_text": "Doric Market Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nFor the first half of 2022, dry bulk market was echoing the fertile 2021 trading environment. However, it was around the end of May, when numerous bearish factors began kicking in, blurring the picture. Among them, a feeling of a softening world trade activity started building momentum.",
+  "keywords": [
+    "container",
+    "china",
+    "crude_oil",
+    "percent",
+    "trade",
+    "world",
+    "was",
+    "global",
+    "indices",
+    "tca",
+    "being",
+    "consecutive"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 796,
+  "source_path": "reports/breakwave/2022/2022-10-12_doric-market-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/12/doric-market-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-12_2022_10_12_doric_market_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-12_2022_10_12_doric_market_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-10-12_2022_10_12_doric_market_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nFor the first half of 2022, dry bulk market was echoing the fertile 2021 trading environment. However, it was around the end of May, when numerous bearish factors began kicking in, blurring the picture.",
+      "keywords": [
+        "container",
+        "china",
+        "crude_oil",
+        "percent",
+        "trade",
+        "world",
+        "was",
+        "global"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 763,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

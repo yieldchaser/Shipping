@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-06-24_2020_06_24_bearish_sentiment_takes_hold_of_traders_as_spot_continues_to__root",
+  "doc_id": "breakwave_insights_insights_2020-06-24_2020_06_24_bearish_sentiment_takes_hold_of_traders_as_spot_continues_to",
+  "parent_id": null,
+  "title": "Bearish Sentiment Takes Hold Of Traders As Spot Continues To Advance",
+  "section_path": [
+    "Bearish Sentiment Takes Hold Of Traders As Spot Continues To Advance"
+  ],
+  "section_path_text": "Bearish Sentiment Takes Hold Of Traders As Spot Continues To Advance",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFreight futures dipped, as nervousness about the near term direction of spot led to some profit taking following the significant advances over the last few days. At the end of the trading day, Capesize futures were down ~7% while Panamax futures closed down 5% with the Capesize spot now at almost 29,000,but it seems there is more caution on further advances as the month comes to a close with the July futures marked at around 23,500. The potential pause in the rate of increase was enough to bring sellers, even if there is no real indication of weaker spot anytime soon.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "atlantic",
+    "us_gulf",
+    "iron_ore",
+    "crude_oil",
+    "activity",
+    "july",
+    "levels",
+    "still"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 707,
+  "source_path": "reports/breakwave/2020/2020-06-24_bearish-sentiment-takes-hold-of-traders-as-spot-continues-to.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/6/24/bearish-sentiment-takes-hold-of-traders-as-spot-continues-to-advance",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-06-24_2020_06_24_bearish_sentiment_takes_hold_of_traders_as_spot_continues_to__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-06-24_2020_06_24_bearish_sentiment_takes_hold_of_traders_as_spot_continues_to",
+      "parent_id": "breakwave_insights_insights_2020-06-24_2020_06_24_bearish_sentiment_takes_hold_of_traders_as_spot_continues_to__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Freight futures dipped, as nervousness about the near term direction of spot led to some profit taking following the significant advances over the last few days. At the end of the trading day, Capesize futures were down ~7% while Panamax futures closed down 5% with the Capesize spot now at almost 29,000,but it seems there is more caution on further advances as the month comes to a close with the July futures marked at around 23,500.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "atlantic",
+        "us_gulf",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 705,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

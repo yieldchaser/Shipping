@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-12_2024_01_12_the_most_important_chart_moving_from_2023_into_2024__root",
+  "doc_id": "breakwave_insights_insights_2024-01-12_2024_01_12_the_most_important_chart_moving_from_2023_into_2024",
+  "parent_id": null,
+  "title": "The Most Important Chart Moving From 2023 Into 2024",
+  "section_path": [
+    "The Most Important Chart Moving From 2023 Into 2024"
+  ],
+  "section_path_text": "The Most Important Chart Moving From 2023 Into 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Motor fuel import demand has slowed substantially over Q4, aligning well with an ailing pricing complex while dampening the repercussions from Red Sea risks. By David Wech\nΕarlier this month, I was honoured to speak at the HC Insider Podcast on key features of the oil market in 2023 as well as the outlook for 2024. While a lot of relevant things happened last year with knock-on effects into 2024 and new issues are popping up, I would say the most important current feature and chart is the substantial slowdown in motor fuel import demand over the last couple of months.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "demand",
+    "are",
+    "diesel",
+    "fuel",
+    "gasoline",
+    "import",
+    "month",
+    "had"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 676,
+  "source_path": "reports/breakwave/2024/2024-01-12_the-most-important-chart-moving-from-2023-into-2024.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/12/the-most-important-chart-moving-from-2023-into-2024",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-12_2024_01_12_the_most_important_chart_moving_from_2023_into_2024__s01_motor_fuel_import_demand_has_slowed_substantially_over_q4_aligning_well_with_an_ailing_pricing_complex_while_dampening_the_repercussions_from_red_sea_risks",
+      "doc_id": "breakwave_insights_insights_2024-01-12_2024_01_12_the_most_important_chart_moving_from_2023_into_2024",
+      "parent_id": "breakwave_insights_insights_2024-01-12_2024_01_12_the_most_important_chart_moving_from_2023_into_2024__root",
+      "title": "Motor fuel import demand has slowed substantially over Q4, aligning well with an ailing pricing complex while dampening the repercussions from Red Sea risks.",
+      "section_path": [
+        "Motor fuel import demand has slowed substantially over Q4, aligning well with an ailing pricing complex while dampening the repercussions from Red Sea risks."
+      ],
+      "section_path_text": "Motor fuel import demand has slowed substantially over Q4, aligning well with an ailing pricing complex while dampening the repercussions from Red Sea risks.",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By David Wech\nΕarlier this month, I was honoured to speak at the HC Insider Podcast on key features of the oil market in 2023 as well as the outlook for 2024. While a lot of relevant things happened last year with knock-on effects into 2024 and new issues are popping up, I would say the most important current feature and chart is the substantial slowdown in motor fuel import demand over the last couple of months.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand",
+        "are",
+        "diesel",
+        "gasoline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 646,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

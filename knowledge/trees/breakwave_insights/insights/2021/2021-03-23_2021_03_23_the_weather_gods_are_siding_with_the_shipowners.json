@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-03-23_2021_03_23_the_weather_gods_are_siding_with_the_shipowners__root",
+  "doc_id": "breakwave_insights_insights_2021-03-23_2021_03_23_the_weather_gods_are_siding_with_the_shipowners",
+  "parent_id": null,
+  "title": "The Weather Gods Are Siding With The Shipowners",
+  "section_path": [
+    "The Weather Gods Are Siding With The Shipowners"
+  ],
+  "section_path_text": "The Weather Gods Are Siding With The Shipowners",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\"Red sky at night, sailors delight\", the old saying suggests that a beautiful red sky at the sunset would bring good weather conditions at sea the following day and make the day a bit easier for the seafarers. However, adverse meteorological conditions are on the other hand, albeit within reason, good news for the shipowners, as they can disrupt the tonnage supply in a short space of time and fuel higher freight rates. Difficult weather conditions, such as storms, may force vessels to take a longer route or to slow down to avoid the worst impact.",
+  "keywords": [
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "us_gulf",
+    "coal",
+    "grain",
+    "are",
+    "port",
+    "conditions",
+    "ports",
+    "weather"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 769,
+  "source_path": "reports/breakwave/2021/2021-03-23_the-weather-gods-are-siding-with-the-shipowners.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/3/23/the-weather-gods-are-siding-with-the-shipowners",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-03-23_2021_03_23_the_weather_gods_are_siding_with_the_shipowners__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-03-23_2021_03_23_the_weather_gods_are_siding_with_the_shipowners",
+      "parent_id": "breakwave_insights_insights_2021-03-23_2021_03_23_the_weather_gods_are_siding_with_the_shipowners__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\n\"Red sky at night, sailors delight\", the old saying suggests that a beautiful red sky at the sunset would bring good weather conditions at sea the following day and make the day a bit easier for the seafarers. However, adverse meteorological conditions are on the other hand, albeit within reason, good news for the shipowners, as they can disrupt the tonnage supply in a short space of time and fuel higher freight rates.",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "us_gulf",
+        "coal",
+        "grain",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 767,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

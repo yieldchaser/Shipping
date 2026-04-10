@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-11-05_2020_11_05_australian_exports_to_china_facing_more_disruptions__root",
+  "doc_id": "breakwave_insights_insights_2020-11-05_2020_11_05_australian_exports_to_china_facing_more_disruptions",
+  "parent_id": null,
+  "title": "Australian Exports To China Facing More Disruptions",
+  "section_path": [
+    "Australian Exports To China Facing More Disruptions"
+  ],
+  "section_path_text": "Australian Exports To China Facing More Disruptions",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe ongoing political friction between China and Australia has heated up quite a few notches in the last few days, with additional trade restrictions imposed by China on multiple Australian products. The spat between the two nations is a long running saga, which has turned increasingly acrimonious this year. Authorities in China have orally informed traders that many products imported from Australia will not clear customs, from as early as this week.",
+  "keywords": [
+    "lng",
+    "china",
+    "brazil",
+    "australia",
+    "pacific",
+    "europe",
+    "japan",
+    "iron_ore",
+    "coal",
+    "products",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 771,
+  "source_path": "reports/breakwave/2020/2020-11-05_australian-exports-to-china-facing-more-disruptions.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/11/5/australian-exports-to-china-facing-more-disruptions",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-11-05_2020_11_05_australian_exports_to_china_facing_more_disruptions__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-11-05_2020_11_05_australian_exports_to_china_facing_more_disruptions",
+      "parent_id": "breakwave_insights_insights_2020-11-05_2020_11_05_australian_exports_to_china_facing_more_disruptions__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe ongoing political friction between China and Australia has heated up quite a few notches in the last few days, with additional trade restrictions imposed by China on multiple Australian products. The spat between the two nations is a long running saga, which has turned increasingly acrimonious this year.",
+      "keywords": [
+        "lng",
+        "china",
+        "brazil",
+        "australia",
+        "pacific",
+        "europe",
+        "japan",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 769,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

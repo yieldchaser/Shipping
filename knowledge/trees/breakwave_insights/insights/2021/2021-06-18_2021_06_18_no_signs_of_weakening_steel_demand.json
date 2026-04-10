@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-06-18_2021_06_18_no_signs_of_weakening_steel_demand__root",
+  "doc_id": "breakwave_insights_insights_2021-06-18_2021_06_18_no_signs_of_weakening_steel_demand",
+  "parent_id": null,
+  "title": "No Signs Of Weakening Steel Demand",
+  "section_path": [
+    "No Signs Of Weakening Steel Demand"
+  ],
+  "section_path_text": "No Signs Of Weakening Steel Demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nChinese steel prices are staging a modest comeback after performing a nose dive during the second half of May. Steel rebar futures traded in Shanghai dropped by more than twenty per cent following Beijing's announcement that it intended to clamp down on surging commodity prices. Following the drop, Chinese steel prices have recovered by six per cent and are up by seventeen per cent year-to-date.",
+  "keywords": [
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "iron_ore",
+    "steel",
+    "prices",
+    "demand",
+    "iron",
+    "are",
+    "cent",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 931,
+  "source_path": "reports/breakwave/2021/2021-06-18_no-signs-of-weakening-steel-demand.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/6/18/no-signs-of-weakening-steel-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-06-18_2021_06_18_no_signs_of_weakening_steel_demand__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-06-18_2021_06_18_no_signs_of_weakening_steel_demand",
+      "parent_id": "breakwave_insights_insights_2021-06-18_2021_06_18_no_signs_of_weakening_steel_demand__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nChinese steel prices are staging a modest comeback after performing a nose dive during the second half of May. Steel rebar futures traded in Shanghai dropped by more than twenty per cent following Beijing's announcement that it intended to clamp down on surging commodity prices.",
+      "keywords": [
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "iron_ore",
+        "steel",
+        "prices",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 929,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-08-25_2023_08_25_mmi_daily_iron_ore_index_report_august_25_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-08-25_2023_08_25_mmi_daily_iron_ore_index_report_august_25_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 25 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 25 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 25 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 25/08/2023\nDCE iron ore futures tight by 0.55%. the main contract I2401 closed 811, Traders ship according to market conditions,Some steel mills purchasing enthusiasm. today's overall market transaction atmosphere in general.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "iron",
+    "tons",
+    "port",
+    "yuan/mt",
+    "demand",
+    "high",
+    "million",
+    "clearance"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 339,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-08-25_mmi-daily-iron-ore-index-report-august-25-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-25-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-08-25_2023_08_25_mmi_daily_iron_ore_index_report_august_25_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-08-25_2023_08_25_mmi_daily_iron_ore_index_report_august_25_2023",
+      "parent_id": "hellenic_iron_ore_2023-08-25_2023_08_25_mmi_daily_iron_ore_index_report_august_25_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 25/08/2023\nDCE iron ore futures tight by 0.55%. the main contract I2401 closed 811, Traders ship according to market conditions,Some steel mills purchasing enthusiasm.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "iron",
+        "tons",
+        "port",
+        "yuan/mt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 337,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

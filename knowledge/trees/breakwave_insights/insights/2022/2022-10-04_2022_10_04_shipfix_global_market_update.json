@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nLast week was dominated by rising geopolitical tensions and weak economic data. However, despite the increasingly sombre outlook, the US dollar ended its recent relentless march upward and lost some strength following comments from one of the Federal Reserve's policymakers highlighting the challenges ahead. The somewhat softer dollar provided some relief for the commodities markets.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1301,
+  "source_path": "reports/breakwave/2022/2022-10-04_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/4/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Last week was dominated by rising geopolitical tensions and weak economic data. However, despite the increasingly sombre outlook, the US dollar ended its recent relentless march upward and lost some strength following comments from one of the Federal Reserve's policymakers highlighting the challenges ahead.",
+      "keywords": [
+        "china",
+        "brazil",
+        "chinese",
+        "country",
+        "dollar",
+        "pmi",
+        "data",
+        "despite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 243,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Following a volatile week, the Brent crude oil futures ended last week just above 85 dollars per barrel. The contracts fell below 83 dollars and to the lowest levels since mid-January in the early parts of the week, but recovered as the week progressed.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 552,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "A volatile third quarter ended quietly last week, with most of the Baltic's indices only recording limited moves on Friday. The past quarter provided extensive drama as geopolitics, and the increased risk for a global recession weighed on the demand outlook and sentiments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "gas",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 390,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-04_2022_10_04_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The Baltic Exchange's Capesize index retreated by more than eleven per cent last week. Despite this, Shipfix cargo order volumes for the segment recovered from previous lows last week and can be expected to move higher when the data for last Friday become available.",
+      "keywords": [
+        "capesize",
+        "last",
+        "data",
+        "order",
+        "segment",
+        "shipfix",
+        "volumes",
+        "available."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 86,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

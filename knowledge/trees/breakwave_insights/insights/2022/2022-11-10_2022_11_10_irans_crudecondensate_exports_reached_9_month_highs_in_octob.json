@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-10_2022_11_10_irans_crudecondensate_exports_reached_9_month_highs_in_octob__root",
+  "doc_id": "breakwave_insights_insights_2022-11-10_2022_11_10_irans_crudecondensate_exports_reached_9_month_highs_in_octob",
+  "parent_id": null,
+  "title": "Irans Crudecondensate Exports Reached 9 Month Highs In October 2022",
+  "section_path": [
+    "Irans Crudecondensate Exports Reached 9 Month Highs In October 2022"
+  ],
+  "section_path_text": "Irans Crudecondensate Exports Reached 9 Month Highs In October 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis insight explores the sharp climb in Iran's crude/condensate exports observed in October, changes to floating storage and Russia's impact on Iranian fleet activity. By Armen Azizian\nΙran exported 1mbd of crude/condensate in October 2022, a 300kbd increase m-o-m and 100kbd above the 12 month average. This marks October as Iran's highest crude/condensate exports since January 2022, where exports surpassed 1.1mbd.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "atlantic",
+    "india",
+    "crude_oil",
+    "products",
+    "iranian",
+    "tankers",
+    "crude",
+    "floating",
+    "october",
+    "russian"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1236,
+  "source_path": "reports/breakwave/2022/2022-11-10_irans-crudecondensate-exports-reached-9-month-highs-in-octob.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/10/irans-crudecondensate-exports-reached-9-month-highs-in-october-2022",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-10_2022_11_10_irans_crudecondensate_exports_reached_9_month_highs_in_octob__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-10_2022_11_10_irans_crudecondensate_exports_reached_9_month_highs_in_octob",
+      "parent_id": "breakwave_insights_insights_2022-11-10_2022_11_10_irans_crudecondensate_exports_reached_9_month_highs_in_octob__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This insight explores the sharp climb in Iran's crude/condensate exports observed in October, changes to floating storage and Russia's impact on Iranian fleet activity. By Armen Azizian\nΙran exported 1mbd of crude/condensate in October 2022, a 300kbd increase m-o-m and 100kbd above the 12 month average.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "india",
+        "crude_oil",
+        "products",
+        "iranian",
+        "tankers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1234,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

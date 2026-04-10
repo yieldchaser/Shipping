@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-21_2022_12_21_what_does_2023_hold_for_the_oil_market__root",
+  "doc_id": "breakwave_insights_insights_2022-12-21_2022_12_21_what_does_2023_hold_for_the_oil_market",
+  "parent_id": null,
+  "title": "What Does 2023 Hold For The Oil Market",
+  "section_path": [
+    "What Does 2023 Hold For The Oil Market"
+  ],
+  "section_path_text": "What Does 2023 Hold For The Oil Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n2023 is shaping up to be a tough year for the oil market but China's re-opening could cushion the global demand slowdown in the medium term. By Serena Huang\nRising interest rates, soaring inflation, and a slowing global economy have slammed the brakes on the world's oil demand growth, in a sharp reversal from just a few months ago when the oil market experienced one of its tightest periods in history. Leading trade flows and price signals suggest that the demand slowdown could accelerate as we step into the new year.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "australia",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "demand",
+    "diesel",
+    "exports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 758,
+  "source_path": "reports/breakwave/2022/2022-12-21_what-does-2023-hold-for-the-oil-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/21/what-does-2023-hold-for-the-oil-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-21_2022_12_21_what_does_2023_hold_for_the_oil_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-12-21_2022_12_21_what_does_2023_hold_for_the_oil_market",
+      "parent_id": "breakwave_insights_insights_2022-12-21_2022_12_21_what_does_2023_hold_for_the_oil_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "2023 is shaping up to be a tough year for the oil market but China's re-opening could cushion the global demand slowdown in the medium term. By Serena Huang\nRising interest rates, soaring inflation, and a slowing global economy have slammed the brakes on the world's oil demand growth, in a sharp reversal from just a few months ago when the oil market experienced one of its tightest periods in history.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "australia",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 756,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

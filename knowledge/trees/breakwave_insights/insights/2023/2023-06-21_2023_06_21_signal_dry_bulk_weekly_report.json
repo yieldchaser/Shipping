@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Capesize ton days and laden speed West Africa to China\nA remarkable turnaround in ton days for Capesize West Africa to China has increased rates and laden speed in the Q2\nhttps://go.signalocean.com/e/983831/ic-timeseries-dry-downloadable/2p37by/327695386?h=bwkkjIFpZSE-pMfz3BYSnUG9XZaOd6CL4yNFWVFp1f0\nThere has been a remarkable turnaround in ton days for Capesize shipments from West Africa to China, as illustrated in the provided image, leading to increased rates and improved laden speed during the second quarter. This positive shift signifies improved performance in terms of cargo volume and transportation efficiency in this specific trade route. The higher rates and faster laden speed highlight favorable market conditions and potentially enhanced operational capabilities within the Capesize segment for this particular route.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "west_africa",
+    "europe",
+    "grain",
+    "observed",
+    "per",
+    "days",
+    "trend"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1145,
+  "source_path": "reports/breakwave/2023/2023-06-21_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/21/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report__s01_chart_of_the_week_capesize_ton_days_and_laden_speed_west_africa_to_china",
+      "doc_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week: Capesize ton days and laden speed West Africa to China",
+      "section_path": [
+        "Chart of the Week: Capesize ton days and laden speed West Africa to China"
+      ],
+      "section_path_text": "Chart of the Week: Capesize ton days and laden speed West Africa to China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A remarkable turnaround in ton days for Capesize West Africa to China has increased rates and laden speed in the Q2\nhttps://go.signalocean.com/e/983831/ic-timeseries-dry-downloadable/2p37by/327695386?h=bwkkjIFpZSE-pMfz3BYSnUG9XZaOd6CL4yNFWVFp1f0\nThere has been a remarkable turnaround in ton days for Capesize shipments from West Africa to China, as illustrated in the provided image, leading to increased rates and improved laden speed during the second quarter. This positive shift signifies improved performance in terms of cargo volume and transportation efficiency in this specific trade route.",
+      "keywords": [
+        "capesize",
+        "china",
+        "west_africa",
+        "grain",
+        "africa",
+        "increased",
+        "laden",
+        "route."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 337,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Softer\nDuring the third week of June, the dry freight market displayed a varied performance. The Capesize segment exhibited strength, indicating positive market conditions.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "per",
+        "tonne",
+        "tonne."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 313,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (# vessels) Decreasing\nDespite an overall downward trend in the growth of ton days, there has been a persistent recovery observed in the Capesize segments over the past five consecutive weeks. Capesize : Demand growth has continued to remain robust, reaching one of the highest levels recorded since the market bottomed out in week 9.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "downward",
+        "growth",
+        "trend",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 242,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report__s04_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-21_2023_06_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Dry bulk ships congested at Chinese ports No of Vessels Increasing\nThe third week of June solidifies the ongoing upward trend observed in the preceding days, particularly notable in the Handysize and Supramax segments. Capesize : The number of vessels has surged to 119, marking a substantial increase of 30% compared to the count recorded three weeks ago.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "number",
+        "vessels",
+        "count"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 211,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

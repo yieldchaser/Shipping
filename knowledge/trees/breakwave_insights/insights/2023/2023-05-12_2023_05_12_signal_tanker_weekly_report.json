@@ -1,0 +1,258 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: VLCC AG-FE Supply - Demand\nNumber of ships at Ras Tanura port of loading increases as demand ton-miles drops to FE\nData Source: The Signal Ocean Platform- Supply / Demand Ton Charts\nhttps://go.signalocean.com/e/983831/tanker-reports-historicaltl/2nxx2t/318438471?h=iE-9c3fddzTNyk9GXeEOH8rtwBgseygv3M9OZzjfK0M\nhttps://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nxx2x/318438471?h=iE-9c3fddzTNyk9GXeEOH8rtwBgseygv3M9OZzjfK0M\nFreight rates for VLCC crude oil tankers continued to weaken in the second week of May, with the number of vessels at the Ras Tanura port of loading rising to a surprising level (left chart above) and reaching a high of more than 100 while ton-miles demanded from AG to China for VLCC tankers is at a lower level than the same period last year. In the oil market, the economic recession and rising oil inventories in the U.S. Oilprice.com reported that Brent crude traded down 1.86% on the day to $76.00 per barrel, with a loss of $1.44, while West Texas Intermediate traded down 2.13% on the day to $72.14 per barrel, with a loss of $1.57.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "japan",
+    "crude_oil",
+    "demand",
+    "trend"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1208,
+  "source_path": "reports/breakwave/2023/2023-05-12_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/12/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__s01_chart_of_the_week_vlcc_ag_fe_supply_demand",
+      "doc_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__root",
+      "title": "Chart of the Week: VLCC AG-FE Supply - Demand",
+      "section_path": [
+        "Chart of the Week: VLCC AG-FE Supply - Demand"
+      ],
+      "section_path_text": "Chart of the Week: VLCC AG-FE Supply - Demand",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Number of ships at Ras Tanura port of loading increases as demand ton-miles drops to FE\nData Source: The Signal Ocean Platform- Supply / Demand Ton Charts\nhttps://go.signalocean.com/e/983831/tanker-reports-historicaltl/2nxx2t/318438471?h=iE-9c3fddzTNyk9GXeEOH8rtwBgseygv3M9OZzjfK0M\nhttps://go.signalocean.com/e/983831/tanker-reports-toncharts-trade/2nxx2x/318438471?h=iE-9c3fddzTNyk9GXeEOH8rtwBgseygv3M9OZzjfK0M\nFreight rates for VLCC crude oil tankers continued to weaken in the second week of May, with the number of vessels at the Ras Tanura port of loading rising to a surprising level (left chart above) and reaching a high of more than 100 while ton-miles demanded from AG to China for VLCC tankers is at a lower level than the same period last year. In the oil market, the economic recession and rising oil inventories in the U.S.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "oil",
+        "crude",
+        "demand",
+        "above",
+        "barrel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 404,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__s03_dirty_vlcc_weaker_suezmax_aframax_firmer",
+      "doc_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__root",
+      "title": "‘ Dirty ' VLCC - Weaker | Suezmax - Aframax - Firmer",
+      "section_path": [
+        "‘ Dirty ' VLCC - Weaker | Suezmax - Aframax - Firmer"
+      ],
+      "section_path_text": "‘ Dirty ' VLCC - Weaker | Suezmax - Aframax - Firmer",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Sentiment on VLCC crude oil freight rates weakened in the second week of May, with the Aframax Med route experiencing an upward correction in the last three weeks. VLCC AG-FE freight rates were at WS42, nearly 30 points below the recent peak in week 16.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "points",
+        "rose"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__s04_product_lr2_firmer_lr1_softening",
+      "doc_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__root",
+      "title": "‘ Product ' LR2 - Firmer | LR1 - Softening",
+      "section_path": [
+        "‘ Product ' LR2 - Firmer | LR1 - Softening"
+      ],
+      "section_path_text": "‘ Product ' LR2 - Firmer | LR1 - Softening",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "LR2 AG freight rates hovered around WS 160, 10 points higher than the previous week. LR1 MEG -to-Japan freight rates eased to WS 180, 20 points lower than the previous week.",
+      "keywords": [
+        "meg",
+        "japan",
+        "points",
+        "previous",
+        "week.",
+        "around",
+        "eased",
+        "higher"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__s05_product_panamax_weaker",
+      "doc_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__root",
+      "title": "Product ' Panamax - Weaker",
+      "section_path": [
+        "Product ' Panamax - Weaker"
+      ],
+      "section_path_text": "Product ' Panamax - Weaker",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Panamax Carib-to-USG rates have weakened further since late April. Rates are now at WS 190, down 50% from the recent peak in weeks 12 and 13.",
+      "keywords": [
+        "panamax",
+        "april.",
+        "are",
+        "carib-to-usg",
+        "down",
+        "further",
+        "late",
+        "now"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__s06_clean_mr2_mr1_weaker",
+      "doc_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' MR2 - MR1 - Weaker",
+      "section_path": [
+        "‘ Clean ' MR2 - MR1 - Weaker"
+      ],
+      "section_path_text": "‘ Clean ' MR2 - MR1 - Weaker",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "MR1 rates Algeria-to-Med rates remained at WS150, almost 50% lower than mid-April, and Baltic-to-Cont MR1 rates fell to ~ WS140, 20 points lower than the previous week. MR2 rates Cont-to-US are now at WS125, indicating decreasing trend dynamics, down nearly 60% from early April.",
+      "keywords": [
+        "lower",
+        "mr1",
+        "algeria-to-med",
+        "almost",
+        "april.",
+        "are",
+        "baltic-to-cont",
+        "cont-to-us"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 72,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__s07_section_2_supply_vessels_dirty_supply_trend_lines_for_key_load_areas_vlcc_increasing_aframax_suezmax_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC Increasing | Aframax - Suezmax Decreasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC Increasing | Aframax - Suezmax Decreasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - (# vessels) 'Dirty' Supply Trend Lines for Key Load Areas VLCC Increasing | Aframax - Suezmax Decreasing",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "The supply of VLCC crude oil tankers showed an upward trend in the first half of May, while the other crude oil tanker classes showed a downward trend. VLCC Ras Tanura : The number of vessels is now 81, 7 more than the annual average.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "crude_oil",
+        "number",
+        "annual",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__s09_clean_supply_trend_lines_for_key_load_areas_mr1_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "section_path": [
+        "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' Supply Trend Lines for Key Load Areas | MR1 | Decreasing",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Clean LR2 AG Jubail: The number of vessels continues to increase and tends to fall below the annual average of 14 after three consecutive weeks of increase. Clean MR1 Algeria Skikda: The number of vessels decreased to 38, 12 less than the previous week, with a trend of further decrease in the third week of May.",
+      "keywords": [
+        "clean",
+        "number",
+        "vessels",
+        "after",
+        "algeria",
+        "annual",
+        "average",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 70,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__s12_clean_panamax_mr2_mr1_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-05-12_2023_05_12_signal_tanker_weekly_report__root",
+      "title": "‘ Clean ' | Panamax - MR2 - MR1 - Decreasing",
+      "section_path": [
+        "‘ Clean ' | Panamax - MR2 - MR1 - Decreasing"
+      ],
+      "section_path_text": "‘ Clean ' | Panamax - MR2 - MR1 - Decreasing",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Dirty demand ton-days: VLCC demand continued to weaken, while the Suezmax and Aframax segments continued to experience an upswing. Clean demand ton-days / Panamax demand: The previous week's high was eroded by a sharp downward correction in the second week of May, and there is uncertainty about a recovery in the coming days.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "demand",
+        "clean",
+        "continued",
+        "previous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 110,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

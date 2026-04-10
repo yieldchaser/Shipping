@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: Capesize Bauxite from Guinea to China\nBauxite volumes from Wafr to China experienced significant growth in the first half of 2023\nhttps://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p5gdg/332070280?h=IPQ5AM-Hwe-2OaL2pT8xR7NK3j-OA26TxbVrnIAoei4\nThe start of the week on July 28 brought a downward trend in freight rates across all vessel sizes, indicating negative momentum. While concerns about rate stability continue, there was some positive news for the Capesize and Panamax segments as the Baltic Dry Index closed with a positive signal on July 10. Specifically for the Capesize segment, there were promising developments on the Africa to China route.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "west_africa",
+    "europe",
+    "grain",
+    "bauxite",
+    "around",
+    "downward"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1179,
+  "source_path": "reports/breakwave/2023/2023-07-12_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/12/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__s01_chart_of_the_week_capesize_bauxite_from_guinea_to_china",
+      "doc_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week: Capesize Bauxite from Guinea to China",
+      "section_path": [
+        "Chart of the Week: Capesize Bauxite from Guinea to China"
+      ],
+      "section_path_text": "Chart of the Week: Capesize Bauxite from Guinea to China",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bauxite volumes from Wafr to China experienced significant growth in the first half of 2023\nhttps://go.signalocean.com/e/983831/amic-drybulkflows-downloadable/2p5gdg/332070280?h=IPQ5AM-Hwe-2OaL2pT8xR7NK3j-OA26TxbVrnIAoei4\nThe start of the week on July 28 brought a downward trend in freight rates across all vessel sizes, indicating negative momentum. While concerns about rate stability continue, there was some positive news for the Capesize and Panamax segments as the Baltic Dry Index closed with a positive signal on July 10.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "west_africa",
+        "grain",
+        "bauxite",
+        "africa",
+        "discussions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 321,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes Market Rates ($/t) Weaker\nThe second week of July begins with downward pressure on interest rates, while the recent sentiment appears relatively flat compared with the results of the previous two weeks. Capesize vessel freight rates from Brazil to North China are now around $20 per tonne, with rates not falling below the recent low of week 22.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__s03_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Supply Trend Lines for Key Load Areas Ballasters (# vessels) Increasing\nIn the second week of July, contrary to earlier indications for a drop nearly to the annual average, we now see an increasing pattern with a downward trend in the Handysize segment. Capesize SE Africa: Presently, the ship count stands above 100, which is significantly higher compared to the last week ending at the annual average of 83.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "annual",
+        "average",
+        "ships",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__s04_section_3_demand",
+      "doc_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND",
+      "section_path": [
+        "SECTION 3/ DEMAND"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Summary of Dry Bulk Demand, per Ship Size TonneDays Decreasing\nThe second week of July saw negative momentum in the growth of tonne days with the first signs of a downward correction in the Capesize segment, while the other vessel sizes continue to face serious challenges stemming from the uncertainty surrounding the possible extension of the Black Sea Grain Agreement. Capesize: Demand growth immediately declined from the previous weak peak, but is still well above the level of week 22.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "grain",
+        "growth",
+        "downward",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 192,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__s05_section_4_port_congestion",
+      "doc_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-07-12_2023_07_12_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Dry bulk ships congested at Chinese ports No of Vessels Increasing\nThe second week of July began with a further increase in the number of vessel overloads, mainly from the Capesize, Supramax and Handysize segments. Capesize: The current number of ships is around 130, which is 20 more than the previous week, and it remains to be seen if today's level can be maintained or if it will drop again to a number around 110 ships.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "around",
+        "number",
+        "now"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 211,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

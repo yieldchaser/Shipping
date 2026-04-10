@@ -43,7 +43,7 @@ The dashboard itself still fetches everything client-side at page load — no ba
   - `scripts/breakwave_insights_scraper.py --dry-run --year 2026` -> `ok=213, failed=0`
   - `scripts/hellenic_scraper.py --category all --dry-run --year 2026` -> `ok=220, failed=0`
 - Collection automation is now scheduled for both core and extended report sources.
-- Data collection is production-ready for the next knowledge-integration phase.
+- Data collection and knowledge integration are production-ready for the expanded source set.
 
 ---
 
@@ -52,7 +52,9 @@ The dashboard itself still fetches everything client-side at page load — no ba
 The repo now includes an incremental shipping intelligence knowledge layer built from:
 
 - Breakwave Advisors bi-weekly dry bulk and tanker PDFs
+- Breakwave Insights HTML commentary archive
 - Baltic Exchange weekly HTML roundups across dry, tanker, gas, container, and Ningbo
+- Hellenic Shipping News HTML archive (dry/tanker charter, iron ore, vessel valuations, demolition, shipbuilding)
 - A local library of shipping reference books stored in `reports/`
 
 Knowledge outputs live under `knowledge/`:
@@ -70,7 +72,7 @@ Knowledge outputs live under `knowledge/`:
 The compiler is `scripts/process_knowledge.py`, and corpus validation is handled by `scripts/validate_knowledge.py`.
 New report families or book collections can be added later by dropping raw files into `reports/` and wiring a small source adapter into the compiler.
 The future-source onboarding playbook, including guidance for image-table sources, lives in `knowledge/CLAUDE.md`.
-Current compiler adapters are production-ready for `breakwave`, `baltic`, and `books`; expanded Breakwave Insights + Hellenic collections are now collected and normalized in `reports/`, ready for the next adapter phase.
+Current compiler adapters are production-ready for `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, and `books`.
 
 ### Knowledge System Status
 
@@ -415,6 +417,7 @@ As a zero-infrastructure platform processing thousands of data points client-sid
 
 - Incrementally compiles `reports/` into `knowledge/docs/`, `knowledge/chunks/`, `knowledge/trees/`, `knowledge/manifests/`, `knowledge/derived/`, `knowledge/wiki/`, and `knowledge/reports/`
 - Supports `--source`, `--rebuild`, `--no-llm`, and `--derived-only`
+- `--source` supports `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, `books`, or `all`
 - Skips already-processed documents unless a rebuild or schema upgrade is required
 - Reuses existing enriched frontmatter during structural upgrades so tree/index migrations do not re-spend LLM calls unnecessarily
 - Uses Gemini only for server-side Breakwave enrichment and regex-fallback signal extraction
@@ -487,6 +490,8 @@ python scripts/validate_source_archives.py --source all
 python scripts/process_knowledge.py --source books --no-llm
 python scripts/process_knowledge.py --source breakwave
 python scripts/process_knowledge.py --source baltic --no-llm
+python scripts/process_knowledge.py --source breakwave_insights --no-llm
+python scripts/process_knowledge.py --source hellenic --no-llm
 python scripts/process_knowledge.py --derived-only
 python scripts/build_health_report.py
 python scripts/validate_knowledge.py
@@ -548,4 +553,4 @@ pdfplumber · beautifulsoup4 · lxml · google-generativeai · tiktoken · pytho
 - `Shipping_Main.xlsm` is an offline Excel workbook for ad-hoc analysis consuming the same CSV data
 - Capesize went briefly negative in 2020; the yearly Range % uses `(max−min)/avg` rather than `(max−min)/min` to avoid nonsensical outputs in such years
 - `GEMINI_API_KEY` is only needed for knowledge-workflow enrichment and local LLM-enabled Breakwave runs; the dashboard does not expose or require it
-- Knowledge processing currently compiles `breakwave`, `baltic`, and `books`; Breakwave Insights + Hellenic are fully collected/validated and ready for the next compiler-adapter phase.
+- Knowledge processing now compiles `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, and `books`.

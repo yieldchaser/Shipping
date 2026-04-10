@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-12-10_2021_12_10_mmi_daily_iron_ore_index_report_december_10_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-12-10_2021_12_10_mmi_daily_iron_ore_index_report_december_10_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report December 10 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report December 10 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report December 10 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 10/12/2021\nDCE iron ore futures continued to drop today. The spot quotation in the morning almost kept steady. some tradersquotation is still stronger, and Some steel mills purchased on demand.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "ore",
+    "port",
+    "yuan/mt",
+    "iron",
+    "ports",
+    "dealt",
+    "decreased",
+    "shipments",
+    "tangshan"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 394,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-12-10_mmi-daily-iron-ore-index-report-december-10-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-december-10-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-12-10_2021_12_10_mmi_daily_iron_ore_index_report_december_10_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-12-10_2021_12_10_mmi_daily_iron_ore_index_report_december_10_2021",
+      "parent_id": "hellenic_iron_ore_2021-12-10_2021_12_10_mmi_daily_iron_ore_index_report_december_10_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 10/12/2021\nDCE iron ore futures continued to drop today. The spot quotation in the morning almost kept steady.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "ore",
+        "port",
+        "yuan/mt",
+        "iron",
+        "ports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 392,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

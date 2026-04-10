@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-06_2023_02_06_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-02-06_2023_02_06_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"China's dramatic reopening has clearly triggered an outbreak of bullishness across the board. However, the optimism has yet to bear any fruits in the spot market.\"\nBy Michalis Voutsinas\nIt was early October 2021 when IMF stressed that global economic upswing was continuing, even as the pandemic resurged. However, economic recovery was losing momentum, hobbled by the highly transmissible Delta variant and its repercussions.",
+  "keywords": [
+    "china",
+    "growth",
+    "percent",
+    "economic",
+    "global",
+    "was",
+    "economies",
+    "percentage",
+    "point",
+    "projected",
+    "rise",
+    "world"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 965,
+  "source_path": "reports/breakwave/2023/2023-02-06_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/6/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-06_2023_02_06_doric_weekly_market_insight__s01_china_s_dramatic_reopening_has_clearly_triggered_an_outbreak_of_bullishness_across_the_board_however_the_optimism_has_yet_to_bear_any_fruits_in_the_spot_market",
+      "doc_id": "breakwave_insights_insights_2023-02-06_2023_02_06_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-02-06_2023_02_06_doric_weekly_market_insight__root",
+      "title": "\"China's dramatic reopening has clearly triggered an outbreak of bullishness across the board. However, the optimism has yet to bear any fruits in the spot market.\"",
+      "section_path": [
+        "\"China's dramatic reopening has clearly triggered an outbreak of bullishness across the board. However, the optimism has yet to bear any fruits in the spot market.\""
+      ],
+      "section_path_text": "\"China's dramatic reopening has clearly triggered an outbreak of bullishness across the board. However, the optimism has yet to bear any fruits in the spot market.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nIt was early October 2021 when IMF stressed that global economic upswing was continuing, even as the pandemic resurged. However, economic recovery was losing momentum, hobbled by the highly transmissible Delta variant and its repercussions.",
+      "keywords": [
+        "china",
+        "growth",
+        "percent",
+        "economic",
+        "global",
+        "was",
+        "economies",
+        "percentage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 933,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

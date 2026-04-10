@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-11-02_2021_11_02_china_lights_out_now_what_for_dry_bulk__root",
+  "doc_id": "breakwave_insights_insights_2021-11-02_2021_11_02_china_lights_out_now_what_for_dry_bulk",
+  "parent_id": null,
+  "title": "China Lights Out Now What For Dry Bulk",
+  "section_path": [
+    "China Lights Out Now What For Dry Bulk"
+  ],
+  "section_path_text": "China Lights Out Now What For Dry Bulk",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Without adequate energy supply, life would be massively different. And yet, in our every day lives, a flip of a switch leads to a guaranteed outcome without second thoughts. But what if there was a risk that such an outcome would be trivial?",
+  "keywords": [
+    "capesize",
+    "china",
+    "iron_ore",
+    "coal",
+    "steel",
+    "not",
+    "energy",
+    "growth",
+    "chinese",
+    "demand",
+    "now",
+    "outcome"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 974,
+  "source_path": "reports/breakwave/2021/2021-11-02_china-lights-out-now-what-for-dry-bulk.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/11/2/china-lights-out-now-what-for-dry-bulk",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-11-02_2021_11_02_china_lights_out_now_what_for_dry_bulk__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-11-02_2021_11_02_china_lights_out_now_what_for_dry_bulk",
+      "parent_id": "breakwave_insights_insights_2021-11-02_2021_11_02_china_lights_out_now_what_for_dry_bulk__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Without adequate energy supply, life would be massively different. And yet, in our every day lives, a flip of a switch leads to a guaranteed outcome without second thoughts.",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "coal",
+        "steel",
+        "not",
+        "energy",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 972,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

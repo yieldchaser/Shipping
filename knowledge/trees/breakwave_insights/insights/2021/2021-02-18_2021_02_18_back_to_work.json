@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-02-18_2021_02_18_back_to_work__root",
+  "doc_id": "breakwave_insights_insights_2021-02-18_2021_02_18_back_to_work",
+  "parent_id": null,
+  "title": "Back To Work",
+  "section_path": [
+    "Back To Work"
+  ],
+  "section_path_text": "Back To Work",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe week-long holiday for the Chinese Lunar New Year is over and the world's second largest economy is getting back to work. As widely expected, travel during the period was a far cry from the levels usually seen. The Ministry of Transport reported a 73 percent decline of daily trips compared to 2019, the last normal year.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "are",
+    "year",
+    "chinese",
+    "copper",
+    "during",
+    "economic",
+    "economy",
+    "last",
+    "likely",
+    "travel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 575,
+  "source_path": "reports/breakwave/2021/2021-02-18_back-to-work.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/2/18/back-to-work",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-02-18_2021_02_18_back_to_work__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-02-18_2021_02_18_back_to_work",
+      "parent_id": "breakwave_insights_insights_2021-02-18_2021_02_18_back_to_work__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe week-long holiday for the Chinese Lunar New Year is over and the world's second largest economy is getting back to work. As widely expected, travel during the period was a far cry from the levels usually seen.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "are",
+        "year",
+        "chinese",
+        "copper",
+        "during",
+        "economic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 573,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

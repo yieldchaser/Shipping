@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-01-04_2021_01_05_a_new_year_and_yet_another_year_with_high_expectations_for_s__root",
+  "doc_id": "breakwave_insights_insights_2021-01-04_2021_01_05_a_new_year_and_yet_another_year_with_high_expectations_for_s",
+  "parent_id": null,
+  "title": "A New Year And Yet Another Year With High Expectations For Shipping This Time It Might Turn Out To Be Right",
+  "section_path": [
+    "A New Year And Yet Another Year With High Expectations For Shipping This Time It Might Turn Out To Be Right"
+  ],
+  "section_path_text": "A New Year And Yet Another Year With High Expectations For Shipping This Time It Might Turn Out To Be Right",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nEvery beginning a new year brings a plethora of predictions for the for the coming twelve months, with many pundits, in line with tradition, proclaiming it to be the year of shipping investments. Often, the sector fails to live up to the lofty expectations set in the beginning of a year, especially from an equity perspective. This year is no exception, with many analysts presenting bullish outlook for the year.",
+  "keywords": [
+    "china",
+    "europe",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "year",
+    "likely",
+    "are",
+    "demand",
+    "many",
+    "industrial",
+    "recovery"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 760,
+  "source_path": "reports/breakwave/2021/2021-01-05_a-new-year-and-yet-another-year-with-high-expectations-for-s.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/1/4/a-new-year-and-yet-another-year-with-high-expectations-for-shipping-this-time-it-might-turn-out-to-be-right",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-01-04_2021_01_05_a_new_year_and_yet_another_year_with_high_expectations_for_s__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-01-04_2021_01_05_a_new_year_and_yet_another_year_with_high_expectations_for_s",
+      "parent_id": "breakwave_insights_insights_2021-01-04_2021_01_05_a_new_year_and_yet_another_year_with_high_expectations_for_s__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nEvery beginning a new year brings a plethora of predictions for the for the coming twelve months, with many pundits, in line with tradition, proclaiming it to be the year of shipping investments. Often, the sector fails to live up to the lofty expectations set in the beginning of a year, especially from an equity perspective.",
+      "keywords": [
+        "china",
+        "europe",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "year",
+        "likely",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 758,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

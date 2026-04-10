@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-03-14_2022_03_14_the_great_commodity_crisis_gcc_may_force_the_feds_hand__root",
+  "doc_id": "breakwave_insights_insights_2022-03-14_2022_03_14_the_great_commodity_crisis_gcc_may_force_the_feds_hand",
+  "parent_id": null,
+  "title": "The Great Commodity Crisis Gcc May Force The Feds Hand",
+  "section_path": [
+    "The Great Commodity Crisis Gcc May Force The Feds Hand"
+  ],
+  "section_path_text": "The Great Commodity Crisis Gcc May Force The Feds Hand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nOne of the great myths of capitalism is that financial markets are predictive mechanisms. The idea is that \"there's wisdom in the crowds\" and therefore wherever markets choose to go, this is the highest probability event. Reality is, of course, far removed from ideological fantasies.",
+  "keywords": [
+    "china",
+    "europe",
+    "steel",
+    "are",
+    "markets",
+    "but",
+    "commodity",
+    "global",
+    "not",
+    "volatility",
+    "predict",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1124,
+  "source_path": "reports/breakwave/2022/2022-03-14_the-great-commodity-crisis-gcc-may-force-the-feds-hand.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/3/14/the-great-commodity-crisis-gcc-may-force-the-feds-hand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-03-14_2022_03_14_the_great_commodity_crisis_gcc_may_force_the_feds_hand__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-03-14_2022_03_14_the_great_commodity_crisis_gcc_may_force_the_feds_hand",
+      "parent_id": "breakwave_insights_insights_2022-03-14_2022_03_14_the_great_commodity_crisis_gcc_may_force_the_feds_hand__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nOne of the great myths of capitalism is that financial markets are predictive mechanisms. The idea is that \"there's wisdom in the crowds\" and therefore wherever markets choose to go, this is the highest probability event.",
+      "keywords": [
+        "china",
+        "europe",
+        "steel",
+        "are",
+        "markets",
+        "but",
+        "commodity",
+        "global"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1122,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

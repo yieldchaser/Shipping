@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-02-11_2022_02_11_relative_weakness_in_indian_electricity_production_strength__root",
+  "doc_id": "breakwave_insights_insights_2022-02-11_2022_02_11_relative_weakness_in_indian_electricity_production_strength",
+  "parent_id": null,
+  "title": "Relative Weakness In Indian Electricity Production Strength In Coal Production",
+  "section_path": [
+    "Relative Weakness In Indian Electricity Production Strength In Coal Production"
+  ],
+  "section_path_text": "Relative Weakness In Indian Electricity Production Strength In Coal Production",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nIndia's overall electricity production and coal-derived electricity generation each managed to contract on a year-on-year basis again last month, while Coal India's production and offtake found even greater strength. As a result, India's power plant coal stockpiles have continued to climb and are now at the highest levels since June. India produced approximately 108.1 billion kilowatt hours of electricity last month, which is up month-on-month by 1.8 billion kilowatt hours (2%) but down year-on-year by 300 million kilowatt hours.",
+  "keywords": [
+    "india",
+    "coal",
+    "kilowatt",
+    "million",
+    "year-on-year",
+    "hours",
+    "last",
+    "electricity",
+    "tons",
+    "billion",
+    "increase",
+    "month"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 425,
+  "source_path": "reports/breakwave/2022/2022-02-11_relative-weakness-in-indian-electricity-production-strength.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/2/11/relative-weakness-in-indian-electricity-production-strength-in-coal-production",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-02-11_2022_02_11_relative_weakness_in_indian_electricity_production_strength__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-02-11_2022_02_11_relative_weakness_in_indian_electricity_production_strength",
+      "parent_id": "breakwave_insights_insights_2022-02-11_2022_02_11_relative_weakness_in_indian_electricity_production_strength__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nIndia's overall electricity production and coal-derived electricity generation each managed to contract on a year-on-year basis again last month, while Coal India's production and offtake found even greater strength. As a result, India's power plant coal stockpiles have continued to climb and are now at the highest levels since June.",
+      "keywords": [
+        "india",
+        "coal",
+        "kilowatt",
+        "million",
+        "year-on-year",
+        "hours",
+        "last",
+        "electricity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 423,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

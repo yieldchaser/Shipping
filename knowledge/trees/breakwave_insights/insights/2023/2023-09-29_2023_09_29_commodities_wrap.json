@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-29_2023_09_29_commodities_wrap__root",
+  "doc_id": "breakwave_insights_insights_2023-09-29_2023_09_29_commodities_wrap",
+  "parent_id": null,
+  "title": "Commodities Wrap",
+  "section_path": [
+    "Commodities Wrap"
+  ],
+  "section_path_text": "Commodities Wrap",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nCommodity prices saw some mean reversion, with oil prices retreating from a recent high while metals pared some of their recent losses. Crude oil prices retreated after touching a high of USD97/bbl on Wednesday. US oil inventories fell to a multi-year seasonal low; this supported the steepening backwardated curve for both Brent and WTI.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "gas",
+    "prices",
+    "oil",
+    "inventories"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 516,
+  "source_path": "reports/breakwave/2023/2023-09-29_commodities-wrap.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/29/commodities-wrap",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-29_2023_09_29_commodities_wrap__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-29_2023_09_29_commodities_wrap",
+      "parent_id": "breakwave_insights_insights_2023-09-29_2023_09_29_commodities_wrap__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nCommodity prices saw some mean reversion, with oil prices retreating from a recent high while metals pared some of their recent losses. Crude oil prices retreated after touching a high of USD97/bbl on Wednesday.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "iron_ore",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 514,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-12-04_2021_12_04_iron_ore_another_bounce_as_demand_is_expected_to_recover__root",
+  "doc_id": "breakwave_insights_insights_2021-12-04_2021_12_04_iron_ore_another_bounce_as_demand_is_expected_to_recover",
+  "parent_id": null,
+  "title": "Iron Ore Another Bounce As Demand Is Expected To Recover",
+  "section_path": [
+    "Iron Ore Another Bounce As Demand Is Expected To Recover"
+  ],
+  "section_path_text": "Iron Ore Another Bounce As Demand Is Expected To Recover",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nIron ore prices are continuing their volatile journey. November saw the steel-making ingredient recovering from an eighteen-month low and rallying almost twenty per cent during the last three weeks of the month. While prices are a far cry from the high recorded in early May, the recent recovery has been driven by expectations of higher steel output in China during the final month of the year, as reduction targets have been met.",
+  "keywords": [
+    "china",
+    "brazil",
+    "iron_ore",
+    "products",
+    "steel",
+    "chinese",
+    "iron",
+    "ore",
+    "are",
+    "per",
+    "cent",
+    "during"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 980,
+  "source_path": "reports/breakwave/2021/2021-12-04_iron-ore-another-bounce-as-demand-is-expected-to-recover.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/12/4/iron-ore-another-bounce-as-demand-is-expected-to-recover",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-12-04_2021_12_04_iron_ore_another_bounce_as_demand_is_expected_to_recover__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-12-04_2021_12_04_iron_ore_another_bounce_as_demand_is_expected_to_recover",
+      "parent_id": "breakwave_insights_insights_2021-12-04_2021_12_04_iron_ore_another_bounce_as_demand_is_expected_to_recover__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nIron ore prices are continuing their volatile journey. November saw the steel-making ingredient recovering from an eighteen-month low and rallying almost twenty per cent during the last three weeks of the month.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "products",
+        "steel",
+        "chinese",
+        "iron",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 978,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2022-12-30_2022_12_30_doric_dry_bulk_review_2022_part_33__root",
+  "doc_id": "breakwave_insights_insights_2022-12-30_2022_12_30_doric_dry_bulk_review_2022_part_33",
+  "parent_id": null,
+  "title": "Doric Dry Bulk Review 2022 Part 33",
+  "section_path": [
+    "Doric Dry Bulk Review 2022 Part 33"
+  ],
+  "section_path_text": "Doric Dry Bulk Review 2022 Part 33",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Act IV - \"Expectation is the root of all heartache.\"\nThe last quarter of this volatile trading year started with Baltic indices hovering at two-month highs. In spite of this positivity of late in the spot market, international organizations and central banks kept revisiting downwards their GDP growth and world trade volume projections. In particular, in early October, World Trade Organization stressed that world trade was expected to lose momentum in the second half of 2022 and remain subdued in 2023 as multiple shocks weigh on the global economy.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 7813,
+  "source_path": "reports/breakwave/2022/2022-12-30_doric-dry-bulk-review-2022-part-33.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/12/30/doric-dry-bulk-review-2022-part-33",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-12-30_2022_12_30_doric_dry_bulk_review_2022_part_33__s01_act_iv_expectation_is_the_root_of_all_heartache",
+      "doc_id": "breakwave_insights_insights_2022-12-30_2022_12_30_doric_dry_bulk_review_2022_part_33",
+      "parent_id": "breakwave_insights_insights_2022-12-30_2022_12_30_doric_dry_bulk_review_2022_part_33__root",
+      "title": "Act IV - \"Expectation is the root of all heartache.\"",
+      "section_path": [
+        "Act IV - \"Expectation is the root of all heartache.\""
+      ],
+      "section_path_text": "Act IV - \"Expectation is the root of all heartache.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The last quarter of this volatile trading year started with Baltic indices hovering at two-month highs. In spite of this positivity of late in the spot market, international organizations and central banks kept revisiting downwards their GDP growth and world trade volume projections.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "pacific",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7001,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-12-30_2022_12_30_doric_dry_bulk_review_2022_part_33__s02_curtain_falls_on_2022",
+      "doc_id": "breakwave_insights_insights_2022-12-30_2022_12_30_doric_dry_bulk_review_2022_part_33",
+      "parent_id": "breakwave_insights_insights_2022-12-30_2022_12_30_doric_dry_bulk_review_2022_part_33__root",
+      "title": "Curtain Falls On 2022",
+      "section_path": [
+        "Curtain Falls On 2022"
+      ],
+      "section_path_text": "Curtain Falls On 2022",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "At the outset of 2022, the current challenging trading year can be considered a tipping point in recent history, characterized by economic, geopolitical, and environmental disruptions. From fighting off what was hopefully the final phase of the pandemic to a full-blown war, a plethora of events and circumstances kept shifting dynamics and balances in most of the markets across the globe.",
+      "keywords": [
+        "china",
+        "europe",
+        "global",
+        "economic",
+        "growth",
+        "percent",
+        "supply",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 789,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

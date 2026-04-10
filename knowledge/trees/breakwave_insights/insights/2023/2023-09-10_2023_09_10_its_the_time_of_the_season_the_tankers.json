@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-09-10_2023_09_10_its_the_time_of_the_season_the_tankers__root",
+  "doc_id": "breakwave_insights_insights_2023-09-10_2023_09_10_its_the_time_of_the_season_the_tankers",
+  "parent_id": null,
+  "title": "Its The Time Of The Season The Tankers",
+  "section_path": [
+    "Its The Time Of The Season The Tankers"
+  ],
+  "section_path_text": "Its The Time Of The Season The Tankers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Thanos Sofios\nTanker rates, both for crude oil and product tankers, are both cyclical and seasonal. Freight rates have tended to perform better during the fourth quarter (and the first one) of a calendar year. With 90% of the global population living in the northern hemisphere, more oil is required during the northern hemisphere winter hence more oil is consumed during these quarters.",
+  "keywords": [
+    "vlcc",
+    "crude_oil",
+    "products",
+    "are",
+    "crude",
+    "oil",
+    "demand",
+    "exports",
+    "saudi",
+    "seasonal",
+    "both",
+    "during"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 731,
+  "source_path": "reports/breakwave/2023/2023-09-10_its-the-time-of-the-season-the-tankers.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/9/10/its-the-time-of-the-season-the-tankers",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-09-10_2023_09_10_its_the_time_of_the_season_the_tankers__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-09-10_2023_09_10_its_the_time_of_the_season_the_tankers",
+      "parent_id": "breakwave_insights_insights_2023-09-10_2023_09_10_its_the_time_of_the_season_the_tankers__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Thanos Sofios\nTanker rates, both for crude oil and product tankers, are both cyclical and seasonal. Freight rates have tended to perform better during the fourth quarter (and the first one) of a calendar year.",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "products",
+        "are",
+        "crude",
+        "oil",
+        "demand",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 729,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

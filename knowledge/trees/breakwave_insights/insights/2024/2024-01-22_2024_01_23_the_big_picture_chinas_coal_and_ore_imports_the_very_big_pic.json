@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-22_2024_01_23_the_big_picture_chinas_coal_and_ore_imports_the_very_big_pic__root",
+  "doc_id": "breakwave_insights_insights_2024-01-22_2024_01_23_the_big_picture_chinas_coal_and_ore_imports_the_very_big_pic",
+  "parent_id": null,
+  "title": "The Big Picture Chinas Coal And Ore Imports The Very Big Picture",
+  "section_path": [
+    "The Big Picture Chinas Coal And Ore Imports The Very Big Picture"
+  ],
+  "section_path_text": "The Big Picture Chinas Coal And Ore Imports The Very Big Picture",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe first chart, below left, demonstrates that 2023 was a huge year for Chinese imports of coal and ore-even by the standards of the last 20 years. The second chart, below right, shows that this is not a pure coal and iron ore story-that bauxite and other ores have also experienced sizeable trend growth. Combining all coal types with bauxite, and chrome, copper, iron, manganese and nickel ores and concentrates, last year's import total of 1.92 billion tonnes was historic on a number of accounts:\n2023 was not only a record year, but marked a record annual leap of 283m tonnes (17%), which exceeded the previous (China stimulus-fuelled) all-time high of 274m tonnes in 2009 in volume.",
+  "keywords": [
+    "capesize",
+    "china",
+    "iron_ore",
+    "coal",
+    "bauxite",
+    "steel",
+    "was",
+    "tonnes",
+    "last",
+    "year",
+    "ore",
+    "imports"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 701,
+  "source_path": "reports/breakwave/2024/2024-01-23_the-big-picture-chinas-coal-and-ore-imports-the-very-big-pic.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/22/the-big-picture-chinas-coal-and-ore-imports-the-very-big-picture",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-22_2024_01_23_the_big_picture_chinas_coal_and_ore_imports_the_very_big_pic__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-22_2024_01_23_the_big_picture_chinas_coal_and_ore_imports_the_very_big_pic",
+      "parent_id": "breakwave_insights_insights_2024-01-22_2024_01_23_the_big_picture_chinas_coal_and_ore_imports_the_very_big_pic__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The first chart, below left, demonstrates that 2023 was a huge year for Chinese imports of coal and ore-even by the standards of the last 20 years. The second chart, below right, shows that this is not a pure coal and iron ore story-that bauxite and other ores have also experienced sizeable trend growth.",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "coal",
+        "bauxite",
+        "steel",
+        "was",
+        "tonnes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 699,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

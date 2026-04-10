@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe first few days of February seem to provide a somewhat firmer outlook for freight rates, although the number of ballasters has increased in all ship size classes except the Supramax segment. As far as demand growth is concerned, there is no firm upswing yet to be seen for the next few days of February, even though demand for Panamax vessels has started to show higher percentage growth than in the first days of January. It is interesting to note the increasing dynamics of monthly volumes of thermal coal from the U.S.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "europe",
+    "japan",
+    "iron_ore",
+    "coal",
+    "trend",
+    "demand",
+    "january"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1244,
+  "source_path": "reports/breakwave/2023/2023-02-02_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/2/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The first few days of February seem to provide a somewhat firmer outlook for freight rates, although the number of ballasters has increased in all ship size classes except the Supramax segment. As far as demand growth is concerned, there is no firm upswing yet to be seen for the next few days of February, even though demand for Panamax vessels has started to show higher percentage growth than in the first days of January.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "china",
+        "japan",
+        "iron_ore",
+        "coal",
+        "days",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 194,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__s02_chart_of_the_week_dry_bulk_thermal_coal_flows_from_the_u_s",
+      "doc_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: Thermal coal flows from the U.S.",
+      "section_path": [
+        "Chart of the Week Dry Bulk: Thermal coal flows from the U.S."
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: Thermal coal flows from the U.S.",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Rising trend in January with the recent peak of one of the highest levels since the end of the 4th quarter of 2022\nData Source: The Signal Ocean Platform, Dry Bulk Coal Flows from the U.S.",
+      "keywords": [
+        "coal",
+        "data",
+        "end",
+        "flows",
+        "go.signalocean.com/e/983831/dry-dynamic-drybulkflows/2nl8ky/299943724",
+        "highest",
+        "https",
+        "january"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 110,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__s03_section_1_freight_market_rates_t_firmer",
+      "doc_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Firmer",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nJanuary ended with slight signs of a gradual recovery in freight rates, which, however, still show a weakening momentum compared to the recent peak at the end of last year. Capesize vessel freight rates are still approaching the $17/tonne mark, down $3.5/tonne from the last few days of December.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "days",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__s04_section_2_supply_ballasters_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "section_path": [
+        "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY - Ballasters (# vessels) Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Supply Trend Lines for Key Load Areas\nThe number of ballast ships increased significantly at the end of January, with the surprising upward trend accelerating in the Panamax and Handysize segments. Capesize SE Africa: The number of vessels now stands at 89, which is 11 more than the average for the year and 53% more than the lowest level in week 51.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "africa",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 173,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__s05_section_3_demand_tondays_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Decreasing",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Decreasing"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Decreasing",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Demand growth continues to slow significantly, with early signs of a slight upward trend in the Panamax segment, while the decline in the Handysize and Capesize segments is very strong. Capesize demand ton-days: The downward trend observed in January does not seem to change dramatically in February, but it is likely to continue to decline at a slower pace.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "trend",
+        "ton-days",
+        "decline"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__s06_section_4_port_congestion_no_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Dry bulk ships congested at Chinese ports\nDemand growth continues to slow significantly, with early signs of a slight upward trend in the Panamax segment, while the decline in the Handysize and Capesize segments is very strong. Capesize demand ton-days: The downward trend observed in January does not seem to change dramatically in February, but it is likely to continue to decline at a slower pace.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "demand",
+        "trend",
+        "ton-days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 161,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__s07_section_4_port_congestion_no_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-02-02_2023_02_02_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Dry bulk ships congested at Chinese ports\nIn the last days of January, congestion continued to increase but remained below the peak of week 52 last year. Capesize: The number of vesselss is about 140, 14 less than at the end of week 1, and the trend of increase is slower than the last highs at the end of week 52.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "last",
+        "congested",
+        "number"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

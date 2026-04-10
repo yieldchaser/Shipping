@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-20_2023_07_20_gibson_tanker_market_report__root",
+  "doc_id": "breakwave_insights_insights_2023-07-20_2023_07_20_gibson_tanker_market_report",
+  "parent_id": null,
+  "title": "Gibson Tanker Market Report",
+  "section_path": [
+    "Gibson Tanker Market Report"
+  ],
+  "section_path_text": "Gibson Tanker Market Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Vaca Muerta Vive\nThe explosive growth in Americas crude production has repeatedly focused on prospects in the United States, Guyana, Brazil and Canada. In the US, developments in the shale sector have been closely monitored, with regular data and the involvement of public companies allowing for closer scrutiny of developments. In Guyana, Brazil and Canada, longer term E&P projects and the use of FPSOs or major pipeline developments allow for easier analysis of future production volumes.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "crude_oil",
+    "production",
+    "crude",
+    "export",
+    "argentina"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 589,
+  "source_path": "reports/breakwave/2023/2023-07-20_gibson-tanker-market-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/20/gibson-tanker-market-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-20_2023_07_20_gibson_tanker_market_report__s01_vaca_muerta_vive",
+      "doc_id": "breakwave_insights_insights_2023-07-20_2023_07_20_gibson_tanker_market_report",
+      "parent_id": "breakwave_insights_insights_2023-07-20_2023_07_20_gibson_tanker_market_report__root",
+      "title": "Vaca Muerta Vive",
+      "section_path": [
+        "Vaca Muerta Vive"
+      ],
+      "section_path_text": "Vaca Muerta Vive",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The explosive growth in Americas crude production has repeatedly focused on prospects in the United States, Guyana, Brazil and Canada. In the US, developments in the shale sector have been closely monitored, with regular data and the involvement of public companies allowing for closer scrutiny of developments.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 583,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

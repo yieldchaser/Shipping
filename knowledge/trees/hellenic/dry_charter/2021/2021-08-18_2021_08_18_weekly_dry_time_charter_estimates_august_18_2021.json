@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-08-18_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-08-18_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, August 18 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, August 18 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, August 18 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe capesize market continued to witness gains this week as weather conditions improved in China and in the Atlantic, there has been plenty of activity from Brazil. Short term period rates for the kamsarmax/panamax sector moved up slightly this week due to a healthy market in the Atlantic and a steady flow of cargoes in the pacific. Rates for the smaller sizes have remained flat this week but demand for this sector is firm.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "sector",
+    "activity",
+    "brazil.",
+    "but",
+    "cargoes",
+    "conditions"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 121,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-08-18_weekly-dry-time-charter-estimates-august-18-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-august-18-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-08-18_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-08-18_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021",
+      "parent_id": "hellenic_dry_charter_2021-08-18_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The capesize market continued to witness gains this week as weather conditions improved in China and in the Atlantic, there has been plenty of activity from Brazil. Short term period rates for the kamsarmax/panamax sector moved up slightly this week due to a healthy market in the Atlantic and a steady flow of cargoes in the pacific.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "sector",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

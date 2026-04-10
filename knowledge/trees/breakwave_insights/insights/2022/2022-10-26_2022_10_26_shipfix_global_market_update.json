@@ -1,0 +1,168 @@
+{
+  "node_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__root",
+  "doc_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update",
+  "parent_id": null,
+  "title": "Shipfix Global Market Update",
+  "section_path": [
+    "Shipfix Global Market Update"
+  ],
+  "section_path_text": "Shipfix Global Market Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\n\nMacro/Geopolitics\nYesterday's data dump of delayed Chinese economic data highlighted the continued two-speed development of the country's economy. Since the pandemic, the Chinese economy has been primarily propelled forward by manufacturing and exports. At the same time, the domestic economy has been plagued by sluggish growth amid low consumer spending and a weak labour market.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 925,
+  "source_path": "reports/breakwave/2022/2022-10-26_shipfix-global-market-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/10/26/shipfix-global-market-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "bergman",
+        "ulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Yesterday's data dump of delayed Chinese economic data highlighted the continued two-speed development of the country's economy. Since the pandemic, the Chinese economy has been primarily propelled forward by manufacturing and exports.",
+      "keywords": [
+        "china",
+        "data",
+        "chinese",
+        "economy",
+        "domestic",
+        "expected.",
+        "manufacturing",
+        "rose"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The first trading session of the week saw the Brent crude oil futures recording a marginal daily loss of 0.3 per cent. The contracts continued to trade sideways as traders balanced the weak demand outlook against tighter global supplies and ended Monday's trading at 93.26 dollars per barrel.",
+      "keywords": [
+        "meg",
+        "europe",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 428,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__s04_freight_markets",
+      "doc_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__root",
+      "title": "Freight Markets",
+      "section_path": [
+        "Freight Markets"
+      ],
+      "section_path_text": "Freight Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Exchange's dry bulk freight indices began the week in the red, with losses across the board. The headline Baltic Dry Index fell by 1.2 per cent amid a weak start to the week for the larger vessels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "gas",
+        "per"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 207,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update",
+      "parent_id": "breakwave_insights_insights_2022-10-26_2022_10_26_shipfix_global_market_update__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Following a strong recovery during September, the Baltic Exchange's Capesize index has retreated by more than twenty per cent in the last three weeks. Cargo order volumes for the segment trended higher during most of the third quarter, which in combination with generally low vessel supply, contributed to the rebound.",
+      "keywords": [
+        "capesize",
+        "segment",
+        "cargo",
+        "during",
+        "order",
+        "seen",
+        "september",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 127,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

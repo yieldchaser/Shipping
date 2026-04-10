@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-03_2023_07_03_brs_dry_bulk_weekly_newsletter__root",
+  "doc_id": "breakwave_insights_insights_2023-07-03_2023_07_03_brs_dry_bulk_weekly_newsletter",
+  "parent_id": null,
+  "title": "Brs Dry Bulk Weekly Newsletter",
+  "section_path": [
+    "Brs Dry Bulk Weekly Newsletter"
+  ],
+  "section_path_text": "Brs Dry Bulk Weekly Newsletter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Capesize Shipments of Guinea Bauxite Forecasted to Slow Down in Q3 Amid Rainy Seasons\nBased on AXSMarine data, during the first five months of 2023, the seaborne export of bauxite remained strong, exhibiting a growth of 2.3 million tons (3.4% year-on-year) compared to the corresponding period of the previous year. When examining the distribution across vessel types, there was a notable movement towards larger sizes. This was demonstrated as Capesizes carried 6.3 million tons more (increasing by 15.7% y-o-y).",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "india",
+    "iron_ore",
+    "bauxite",
+    "million",
+    "tons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1743,
+  "source_path": "reports/breakwave/2023/2023-07-03_brs-dry-bulk-weekly-newsletter.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/3/brs-dry-bulk-weekly-newsletter",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-03_2023_07_03_brs_dry_bulk_weekly_newsletter__s01_capesize_shipments_of_guinea_bauxite_forecasted_to_slow_down_in_q3_amid_rainy_seasons",
+      "doc_id": "breakwave_insights_insights_2023-07-03_2023_07_03_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-07-03_2023_07_03_brs_dry_bulk_weekly_newsletter__root",
+      "title": "Capesize Shipments of Guinea Bauxite Forecasted to Slow Down in Q3 Amid Rainy Seasons",
+      "section_path": [
+        "Capesize Shipments of Guinea Bauxite Forecasted to Slow Down in Q3 Amid Rainy Seasons"
+      ],
+      "section_path_text": "Capesize Shipments of Guinea Bauxite Forecasted to Slow Down in Q3 Amid Rainy Seasons",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Based on AXSMarine data, during the first five months of 2023, the seaborne export of bauxite remained strong, exhibiting a growth of 2.3 million tons (3.4% year-on-year) compared to the corresponding period of the previous year. When examining the distribution across vessel types, there was a notable movement towards larger sizes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1720,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

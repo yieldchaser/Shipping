@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-04-10_2023_04_10_did_you_know__root",
+  "doc_id": "breakwave_insights_insights_2023-04-10_2023_04_10_did_you_know",
+  "parent_id": null,
+  "title": "Did You Know",
+  "section_path": [
+    "Did You Know"
+  ],
+  "section_path_text": "Did You Know",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker supply fundamentals are impacted by new orders, new deliveries and demolition of ships that are no longer viable to operate. • New orders are placed by shipowners anticipating future rates to exceed a break-even level that is determined by the purchase price of the ship as well as the projected cost to operate it. • New deliveries take place 2-3 years after a ship is ordered.",
+  "keywords": [
+    "are",
+    "new",
+    "ship",
+    "years",
+    "after",
+    "cost",
+    "deliveries",
+    "demolition",
+    "operate",
+    "orders",
+    "ships",
+    "age"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 131,
+  "source_path": "reports/breakwave/2023/2023-04-10_did-you-know.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/4/10/did-you-know",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-04-10_2023_04_10_did_you_know__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-04-10_2023_04_10_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-04-10_2023_04_10_did_you_know__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker supply fundamentals are impacted by new orders, new deliveries and demolition of ships that are no longer viable to operate. • New orders are placed by shipowners anticipating future rates to exceed a break-even level that is determined by the purchase price of the ship as well as the projected cost to operate it.",
+      "keywords": [
+        "are",
+        "new",
+        "ship",
+        "years",
+        "after",
+        "cost",
+        "deliveries",
+        "demolition"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 129,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

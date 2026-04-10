@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report__root",
+  "doc_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report",
+  "parent_id": null,
+  "title": "Braemar Weekly Dry Market Report",
+  "section_path": [
+    "Braemar Weekly Dry Market Report"
+  ],
+  "section_path_text": "Braemar Weekly Dry Market Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nChanging dynamics for Capes\nThe seaborne bauxite trade has witnessed a dramatic shift in recent years, as Guinean mines ramp up exports and Capes take a greater share of cargoes. Guinea's seasonal rainfall now presents a downside risk for freight rates in the second half of the year. We look at the impact on the Cape market and examine prospects for this trade.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "india",
+    "iron_ore",
+    "bauxite",
+    "steel",
+    "aluminium",
+    "guinea"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1072,
+  "source_path": "reports/breakwave/2023/2023-05-29_braemar-weekly-dry-market-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/29/braemar-weekly-dry-market-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report",
+      "parent_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Changing dynamics for Capes\nThe seaborne bauxite trade has witnessed a dramatic shift in recent years, as Guinean mines ramp up exports and Capes take a greater share of cargoes. Guinea's seasonal rainfall now presents a downside risk for freight rates in the second half of the year.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "india",
+        "iron_ore",
+        "bauxite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 456,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report__s02_indonesian_export_ban",
+      "doc_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report",
+      "parent_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report__root",
+      "title": "Indonesian export ban",
+      "section_path": [
+        "Indonesian export ban"
+      ],
+      "section_path_text": "Indonesian export ban",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Indonesia, the third largest exporter of bauxite last year, is introducing a ban on bauxite exports from June. The ban has already increased demand for Guinea's bauxite and reportedly accelerated the development of some projects.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "bauxite",
+        "ban",
+        "aluminium",
+        "exports",
+        "guinea"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 240,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report__s03_demand_prospects",
+      "doc_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report",
+      "parent_id": "breakwave_insights_insights_2023-05-29_2023_05_29_braemar_weekly_dry_market_report__root",
+      "title": "Demand prospects",
+      "section_path": [
+        "Demand prospects"
+      ],
+      "section_path_text": "Demand prospects",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "China's aluminium sector faces several challenges that could limit further increases in bauxite imports. According to estimates from International Aluminium, China's primary aluminium production increased by 4% in 2022, to a new record of 40.4m tonnes, as new capacity came online.",
+      "keywords": [
+        "china",
+        "bauxite",
+        "aluminium",
+        "production",
+        "capacity",
+        "new",
+        "april",
+        "become"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 365,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

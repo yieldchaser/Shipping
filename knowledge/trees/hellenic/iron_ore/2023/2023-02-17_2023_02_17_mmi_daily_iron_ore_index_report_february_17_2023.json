@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2023-02-17_2023_02_17_mmi_daily_iron_ore_index_report_february_17_2023__root",
+  "doc_id": "hellenic_iron_ore_2023-02-17_2023_02_17_mmi_daily_iron_ore_index_report_february_17_2023",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report February 17 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report February 17 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report February 17 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 17/02/2023\nDCE DCE iron ore futures rose by 2.01 % today, the main contract closed 889.5.The traders' willingness to ship is more.The steel mills are active to purchase.The overall trading sentiment of the market is better.PBF at Shandong port deal 885-895 yuan/mt, increase 3-15yuan/ mt.PBF at Tangshan port deal 897 yuan/mt,increase 14yuan/mt. As of February 17, the inventory of 35 ports tracked by SMM totaled 137.11 million tons, 1.02 million tons more than last week, 16.53 million tons less than the same period last year. The average daily port dredging volume of imported mines in this period increased by 79000 tons to 3028000 tons on a weekly basis.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "port",
+    "tons",
+    "iron",
+    "demand",
+    "increase",
+    "last",
+    "main",
+    "million",
+    "ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 342,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-02-17_mmi-daily-iron-ore-index-report-february-17-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-february-17-2023",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-02-17_2023_02_17_mmi_daily_iron_ore_index_report_february_17_2023__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-02-17_2023_02_17_mmi_daily_iron_ore_index_report_february_17_2023",
+      "parent_id": "hellenic_iron_ore_2023-02-17_2023_02_17_mmi_daily_iron_ore_index_report_february_17_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 17/02/2023\nDCE DCE iron ore futures rose by 2.01 % today, the main contract closed 889.5.The traders' willingness to ship is more.The steel mills are active to purchase.The overall trading sentiment of the market is better.PBF at Shandong port deal 885-895 yuan/mt, increase 3-15yuan/ mt.PBF at Tangshan port deal 897 yuan/mt,increase 14yuan/mt. As of February 17, the inventory of 35 ports tracked by SMM totaled 137.11 million tons, 1.02 million tons more than last week, 16.53 million tons less than the same period last year.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "port",
+        "tons",
+        "iron",
+        "demand",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 340,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

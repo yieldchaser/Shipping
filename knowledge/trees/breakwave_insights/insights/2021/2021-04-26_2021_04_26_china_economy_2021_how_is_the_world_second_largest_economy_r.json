@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-26_2021_04_26_china_economy_2021_how_is_the_world_second_largest_economy_r__root",
+  "doc_id": "breakwave_insights_insights_2021-04-26_2021_04_26_china_economy_2021_how_is_the_world_second_largest_economy_r",
+  "parent_id": null,
+  "title": "China Economy 2021 How Is The World Second Largest Economy Really Doing",
+  "section_path": [
+    "China Economy 2021 How Is The World Second Largest Economy Really Doing"
+  ],
+  "section_path_text": "China Economy 2021 How Is The World Second Largest Economy Really Doing",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nby Maria Bertzeletou\nNews reports trumped the record growth rate in the first quarter compared to a year earlier. But that didn't reflect actual economic performance since the comparison was against the largest-ever contraction in the Chinese economy. A look at a shorter-term indicator, first quarter growth versus the fourth quarter, showed a sharp slowdown.",
+  "keywords": [
+    "china",
+    "europe",
+    "per",
+    "cent",
+    "growth",
+    "year",
+    "march",
+    "february.",
+    "compared",
+    "economic",
+    "managers",
+    "pmi"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1867,
+  "source_path": "reports/breakwave/2021/2021-04-26_china-economy-2021-how-is-the-world-second-largest-economy-r.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/26/china-economy-2021-how-is-the-world-second-largest-economy-really-doing",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-26_2021_04_26_china_economy_2021_how_is_the_world_second_largest_economy_r__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-26_2021_04_26_china_economy_2021_how_is_the_world_second_largest_economy_r",
+      "parent_id": "breakwave_insights_insights_2021-04-26_2021_04_26_china_economy_2021_how_is_the_world_second_largest_economy_r__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "by Maria Bertzeletou\nNews reports trumped the record growth rate in the first quarter compared to a year earlier. But that didn't reflect actual economic performance since the comparison was against the largest-ever contraction in the Chinese economy.",
+      "keywords": [
+        "china",
+        "europe",
+        "per",
+        "cent",
+        "growth",
+        "year",
+        "march",
+        "february."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1865,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

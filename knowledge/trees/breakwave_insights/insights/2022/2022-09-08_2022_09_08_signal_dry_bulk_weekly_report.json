@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe dry bulk market remains in the doldrums, with signs of recovery in the Capesize segment. Towards the end of the third quarter, the Baltic Dry Index saw an upswing at the end of week 35, driven by large ship segments. The Capesize and Panamax Freight Indexes posted gains, while the Supramax Freight Index continued to decrease.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "india",
+    "singapore",
+    "iron_ore",
+    "steel",
+    "september",
+    "days",
+    "vessels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1386,
+  "source_path": "reports/breakwave/2022/2022-09-08_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/9/8/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The dry bulk market remains in the doldrums, with signs of recovery in the Capesize segment. Towards the end of the third quarter, the Baltic Dry Index saw an upswing at the end of week 35, driven by large ship segments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "singapore",
+        "iron_ore",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 338,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__s03_i_supply_ballasters_view_vs_freight_rate_ton_firmer",
+      "doc_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__root",
+      "title": "I. Supply: Ballasters View Vs Freight Rate ($/ton) Firmer",
+      "section_path": [
+        "I. Supply: Ballasters View Vs Freight Rate ($/ton) Firmer"
+      ],
+      "section_path_text": "I. Supply: Ballasters View Vs Freight Rate ($/ton) Firmer",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Data Source: C3 Dashboard , (Last Update 6 September)\nFewer than 100 ballast ships have sailed to South Africa since August 24, resulting in firmer freight rates from Brazil to China in the first days of September. The number of Capesize ballast vessels is now at its lowest level since January 2022, and rates for the Brazil- North China route have risen to $20/tonne.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "ballast",
+        "vessels",
+        "days",
+        "first",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 119,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__s04_ii_demand_daily_volume_loaded_increasing",
+      "doc_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__root",
+      "title": "II. Demand: Daily Volume Loaded Increasing",
+      "section_path": [
+        "II. Demand: Daily Volume Loaded Increasing"
+      ],
+      "section_path_text": "II. Demand: Daily Volume Loaded Increasing",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Daily volumes shipped have risen to 1 million tons since the end of August, a level not seen since July 18, 2022, and there are signs of a further increase in the coming days of September, which could support the recent upward trend given the lower number of ballast vessels. Data Source: C3 Dashboard , (Last Update 6 September)\nThe current trend in daily volume loaded (3w moving average) appears to be one of the highest since the beginning of the year after the last highs were reached in the first 20 days of July.",
+      "keywords": [
+        "since",
+        "daily",
+        "days",
+        "last",
+        "september",
+        "trend",
+        "after",
+        "appears"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 115,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__s05_iii_capes_congestion_per_discharging_country_waiting_days",
+      "doc_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__root",
+      "title": "III. Capes Congestion: Per Discharging Country & Waiting Days",
+      "section_path": [
+        "III. Capes Congestion: Per Discharging Country & Waiting Days"
+      ],
+      "section_path_text": "III. Capes Congestion: Per Discharging Country & Waiting Days",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The number of congested ships in both Brazil and China has declined, but there are signs of an increase in waiting days for unloading in Brazil, which could lead to an escalation of congestion in the coming weeks of September. Brazil - China: Capes Congestion Decreasing\nData Source: C3 Dashboard , (Last Update 6 September)\nWaiting Days for Discharging: Per Country Brazil: Increasing - China: Decreasing\nData Source: C3 Dashboard , (Last Update 6 September)\nThe number of congested ships in Brazil dropped to 22 in the first week of September, 10 fewer than the last peak on August 28.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "congestion",
+        "number",
+        "congested",
+        "last",
+        "september"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 225,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__s07_iv_supply_ballasters_view_vs_freight_rate_ton_firmer",
+      "doc_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-09-08_2022_09_08_signal_dry_bulk_weekly_report__root",
+      "title": "IV. Supply: Ballasters View Vs Freight Rate ($/ton) Firmer",
+      "section_path": [
+        "IV. Supply: Ballasters View Vs Freight Rate ($/ton) Firmer"
+      ],
+      "section_path_text": "IV. Supply: Ballasters View Vs Freight Rate ($/ton) Firmer",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Ballast shipments are averaging about 70 vessels, 16 vessels below the August 22, 2022 peak (~86 vessels), while P6_82 prices have risen to $12/tonne. The first few days of September indicate an upswing in freight rates, although ballast vessels have not yet reached the lows last recorded in the second week of June.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "india",
+        "vessels",
+        "september",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 505,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

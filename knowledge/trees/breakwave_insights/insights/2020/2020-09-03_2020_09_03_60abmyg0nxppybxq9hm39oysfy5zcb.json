@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-09-03_2020_09_03_60abmyg0nxppybxq9hm39oysfy5zcb__root",
+  "doc_id": "breakwave_insights_insights_2020-09-03_2020_09_03_60abmyg0nxppybxq9hm39oysfy5zcb",
+  "parent_id": null,
+  "title": "60Abmyg0Nxppybxq9Hm39Oysfy5Zcb",
+  "section_path": [
+    "60Abmyg0Nxppybxq9Hm39Oysfy5Zcb"
+  ],
+  "section_path_text": "60Abmyg0Nxppybxq9Hm39Oysfy5Zcb",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe United States Department of Agriculture announced today that US net farm income has continued to climb this year and is expected to again reach its highest level since 2013. This remains significant as US farmers have not been faring nearly as poorly as many pundits and media outlets have been reporting in recent years. As we have examined in prior work, net income has been rising on a steady basis since 2017 and continued to rise in recent years even despite the trade war with China.",
+  "keywords": [
+    "china",
+    "farm",
+    "income",
+    "net",
+    "since",
+    "would",
+    "year",
+    "billion.",
+    "highest",
+    "mark",
+    "are",
+    "continued"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 211,
+  "source_path": "reports/breakwave/2020/2020-09-03_60abmyg0nxppybxq9hm39oysfy5zcb.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/9/3/60abmyg0nxppybxq9hm39oysfy5zcb",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-09-03_2020_09_03_60abmyg0nxppybxq9hm39oysfy5zcb__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-09-03_2020_09_03_60abmyg0nxppybxq9hm39oysfy5zcb",
+      "parent_id": "breakwave_insights_insights_2020-09-03_2020_09_03_60abmyg0nxppybxq9hm39oysfy5zcb__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The United States Department of Agriculture announced today that US net farm income has continued to climb this year and is expected to again reach its highest level since 2013. This remains significant as US farmers have not been faring nearly as poorly as many pundits and media outlets have been reporting in recent years.",
+      "keywords": [
+        "china",
+        "farm",
+        "income",
+        "net",
+        "since",
+        "would",
+        "year",
+        "billion."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

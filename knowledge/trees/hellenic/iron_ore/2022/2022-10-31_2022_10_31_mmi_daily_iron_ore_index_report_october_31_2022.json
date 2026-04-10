@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2022-10-31_2022_10_31_mmi_daily_iron_ore_index_report_october_31_2022__root",
+  "doc_id": "hellenic_iron_ore_2022-10-31_2022_10_31_mmi_daily_iron_ore_index_report_october_31_2022",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report October 31 2022",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report October 31 2022"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report October 31 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 31/10/2022\nDCE iron ore futures declined by 4.11% today, the main contract closed 606.5. The traders' willingness to ship is less. The steel mills are purchase on demand.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "products",
+    "steel",
+    "iron",
+    "ore",
+    "port",
+    "dealt",
+    "decrease",
+    "million"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 311,
+  "source_path": "reports/hellenic/iron_ore/2022/2022-10-31_mmi-daily-iron-ore-index-report-october-31-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-31-2022",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2022-10-31_2022_10_31_mmi_daily_iron_ore_index_report_october_31_2022__s01_main",
+      "doc_id": "hellenic_iron_ore_2022-10-31_2022_10_31_mmi_daily_iron_ore_index_report_october_31_2022",
+      "parent_id": "hellenic_iron_ore_2022-10-31_2022_10_31_mmi_daily_iron_ore_index_report_october_31_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 31/10/2022\nDCE iron ore futures declined by 4.11% today, the main contract closed 606.5. The traders' willingness to ship is less.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "products",
+        "steel",
+        "iron",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 309,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

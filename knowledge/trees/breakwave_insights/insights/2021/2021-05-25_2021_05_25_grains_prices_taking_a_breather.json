@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-05-25_2021_05_25_grains_prices_taking_a_breather__root",
+  "doc_id": "breakwave_insights_insights_2021-05-25_2021_05_25_grains_prices_taking_a_breather",
+  "parent_id": null,
+  "title": "Grains Prices Taking A Breather",
+  "section_path": [
+    "Grains Prices Taking A Breather"
+  ],
+  "section_path_text": "Grains Prices Taking A Breather",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nIn the nine months between the middle of last August and the middle of May this year, the corn price was on an impressive trajectory and recorded an increase of close to 150 per cent when it hit an eight-year high two weeks ago. Since then, corn futures have dropped by around fifteen per cent, with investors losing some appetite for commodities following attempts by Chinese authorities to control surging commodity prices. Additionally, a recent report from the US Department of Agriculture (USDA) projected corn inventories to increase during the next agricultural marketing year, which begins in September.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "container",
+    "china",
+    "brazil",
+    "grain",
+    "crude_oil",
+    "year",
+    "corn",
+    "million",
+    "agricultural"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 883,
+  "source_path": "reports/breakwave/2021/2021-05-25_grains-prices-taking-a-breather.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/5/25/grains-prices-taking-a-breather",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-05-25_2021_05_25_grains_prices_taking_a_breather__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-05-25_2021_05_25_grains_prices_taking_a_breather",
+      "parent_id": "breakwave_insights_insights_2021-05-25_2021_05_25_grains_prices_taking_a_breather__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nIn the nine months between the middle of last August and the middle of May this year, the corn price was on an impressive trajectory and recorded an increase of close to 150 per cent when it hit an eight-year high two weeks ago. Since then, corn futures have dropped by around fifteen per cent, with investors losing some appetite for commodities following attempts by Chinese authorities to control surging commodity prices.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "container",
+        "china",
+        "brazil",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 881,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

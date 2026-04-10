@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-28_2022_07_28_a_recovery_for_the_ukrainian_grains_trade__root",
+  "doc_id": "breakwave_insights_insights_2022-07-28_2022_07_28_a_recovery_for_the_ukrainian_grains_trade",
+  "parent_id": null,
+  "title": "A Recovery For The Ukrainian Grains Trade",
+  "section_path": [
+    "A Recovery For The Ukrainian Grains Trade"
+  ],
+  "section_path_text": "A Recovery For The Ukrainian Grains Trade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThe deal that will allow Ukraine to recommence exports of grains from its ports in the Black Sea is only a few days old. Yet, its survival is already in doubt following the Russian missile attack on the docks of Odesa. While Ukrainian authorities have stated that the attack may jeopardise the agreement signed in Turkey last week, there appears to be a strong desire to make it work despite the uncertainty over the Russian commitment to the implementation.",
+  "keywords": [
+    "grain",
+    "are",
+    "ukrainian",
+    "grains",
+    "may",
+    "shipfix",
+    "black",
+    "exports",
+    "order",
+    "rising",
+    "russian",
+    "sea"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 702,
+  "source_path": "reports/breakwave/2022/2022-07-28_a-recovery-for-the-ukrainian-grains-trade.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/28/a-recovery-for-the-ukrainian-grains-trade",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-28_2022_07_28_a_recovery_for_the_ukrainian_grains_trade__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-28_2022_07_28_a_recovery_for_the_ukrainian_grains_trade",
+      "parent_id": "breakwave_insights_insights_2022-07-28_2022_07_28_a_recovery_for_the_ukrainian_grains_trade__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThe deal that will allow Ukraine to recommence exports of grains from its ports in the Black Sea is only a few days old. Yet, its survival is already in doubt following the Russian missile attack on the docks of Odesa.",
+      "keywords": [
+        "grain",
+        "are",
+        "ukrainian",
+        "grains",
+        "may",
+        "shipfix",
+        "black",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 700,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-22_2023_05_22_doric_weekly_market_insight__root",
+  "doc_id": "breakwave_insights_insights_2023-05-22_2023_05_22_doric_weekly_market_insight",
+  "parent_id": null,
+  "title": "Doric Weekly Market Insight",
+  "section_path": [
+    "Doric Weekly Market Insight"
+  ],
+  "section_path_text": "Doric Weekly Market Insight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "\"In spite of the cheerful tone in the soybean market, the main carriers of grains in these staple seaborn runs have diverted lately from their usual flight plan, ending the week at P6_82 (ECSA RV) levels of just $12,827 daily. As a flotilla of ballasters can attest, one swallow does not a summer make neither can a single load pocket enrich the freight market overall.\"\nBy Michalis Voutsinas\nFollowing last week's softish tone, the twentieth trading week started on the wrong foot. The leading Capesize index signalled the retreat on Monday morning and since then all main indices were in the red.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "grain",
+    "percent",
+    "million",
+    "soybean",
+    "billion",
+    "yuan",
+    "percent."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1009,
+  "source_path": "reports/breakwave/2023/2023-05-22_doric-weekly-market-insight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/22/doric-weekly-market-insight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-22_2023_05_22_doric_weekly_market_insight__s01_in_spite_of_the_cheerful_tone_in_the_soybean_market_the_main_carriers_of_grains_in_these_staple_seaborn_runs_have_diverted_lately_from_their_usual_flight_plan_ending_the_week_at_p6_82_ecsa_rv_levels_of_just_12_827_daily_as_a_flotilla_of_ballasters_can_attest_one_swallow_does_not_a_summer_make_neither_can_a_single_load_pocket_enrich_the_freight_market_overall",
+      "doc_id": "breakwave_insights_insights_2023-05-22_2023_05_22_doric_weekly_market_insight",
+      "parent_id": "breakwave_insights_insights_2023-05-22_2023_05_22_doric_weekly_market_insight__root",
+      "title": "\"In spite of the cheerful tone in the soybean market, the main carriers of grains in these staple seaborn runs have diverted lately from their usual flight plan, ending the week at P6_82 (ECSA RV) levels of just $12,827 daily. As a flotilla of ballasters can attest, one swallow does not a summer make neither can a single load pocket enrich the freight market overall.\"",
+      "section_path": [
+        "\"In spite of the cheerful tone in the soybean market, the main carriers of grains in these staple seaborn runs have diverted lately from their usual flight plan, ending the week at P6_82 (ECSA RV) levels of just $12,827 daily. As a flotilla of ballasters can attest, one swallow does not a summer make neither can a single load pocket enrich the freight market overall.\""
+      ],
+      "section_path_text": "\"In spite of the cheerful tone in the soybean market, the main carriers of grains in these staple seaborn runs have diverted lately from their usual flight plan, ending the week at P6_82 (ECSA RV) levels of just $12,827 daily. As a flotilla of ballasters can attest, one swallow does not a summer make neither can a single load pocket enrich the freight market overall.\"",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nFollowing last week's softish tone, the twentieth trading week started on the wrong foot. The leading Capesize index signalled the retreat on Monday morning and since then all main indices were in the red.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "grain",
+        "percent",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 925,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

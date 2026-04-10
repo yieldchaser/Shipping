@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-04-13_2021_04_13_china_sluggish_growth_in_consumer_spending_could_see_stimulu__root",
+  "doc_id": "breakwave_insights_insights_2021-04-13_2021_04_13_china_sluggish_growth_in_consumer_spending_could_see_stimulu",
+  "parent_id": null,
+  "title": "China Sluggish Growth In Consumer Spending Could See Stimulus In Place For Longer",
+  "section_path": [
+    "China Sluggish Growth In Consumer Spending Could See Stimulus In Place For Longer"
+  ],
+  "section_path_text": "China Sluggish Growth In Consumer Spending Could See Stimulus In Place For Longer",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAs the Chinese economy powers on, many commodity traders are likely to keep an anxious eye on the Chinese government and specifically its intentions regarding the future of the fiscal stimulus programmes. Much of the strength in the recent months for commodities and dry bulk shipping has been down to Chinese buyers purchasing unprecedented quantities of many commodities, as the stimulus fueled Chinese economic recovery took hold. There is a worry that the recent strong run for the economy will see the Chinese leadership reining in on the extent of fiscal measures it is providing to prop up the economy, as there is a risk that continued support could lead to asset bubbles and the economy overheating.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "steel",
+    "chinese",
+    "economy",
+    "economic",
+    "growth",
+    "recovery",
+    "stimulus",
+    "was",
+    "fiscal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 809,
+  "source_path": "reports/breakwave/2021/2021-04-13_china-sluggish-growth-in-consumer-spending-could-see-stimulu.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/4/13/china-sluggish-growth-in-consumer-spending-could-see-stimulus-in-place-for-longer",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-04-13_2021_04_13_china_sluggish_growth_in_consumer_spending_could_see_stimulu__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-04-13_2021_04_13_china_sluggish_growth_in_consumer_spending_could_see_stimulu",
+      "parent_id": "breakwave_insights_insights_2021-04-13_2021_04_13_china_sluggish_growth_in_consumer_spending_could_see_stimulu__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAs the Chinese economy powers on, many commodity traders are likely to keep an anxious eye on the Chinese government and specifically its intentions regarding the future of the fiscal stimulus programmes. Much of the strength in the recent months for commodities and dry bulk shipping has been down to Chinese buyers purchasing unprecedented quantities of many commodities, as the stimulus fueled Chinese economic recovery took hold.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "steel",
+        "chinese",
+        "economy",
+        "economic",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 807,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

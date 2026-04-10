@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-08-22_2022_08_22_market_comment_paradigm_shift_deferred_but_not_for_long__root",
+  "doc_id": "breakwave_insights_insights_2022-08-22_2022_08_22_market_comment_paradigm_shift_deferred_but_not_for_long",
+  "parent_id": null,
+  "title": "Market Comment Paradigm Shift Deferred But Not For Long",
+  "section_path": [
+    "Market Comment Paradigm Shift Deferred But Not For Long"
+  ],
+  "section_path_text": "Market Comment Paradigm Shift Deferred But Not For Long",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nFrank Herbert's ‘ Dune ', one of the most epic sci-fi novels of all time (and the subject of a less-great 1984 Kyle MacLachlan movie ), featured, amongst other things, a mystical far-future sisterhood, called the Bene Gesserit. The Sisterhood had developed a secret sign language, to be used alongside real spoken words. So while two Sisters would publicly discuss embroidery, their hand sign signals would be about plans to take down their enemies who would blithely sit at the next table.",
+  "keywords": [
+    "china",
+    "europe",
+    "crude_oil",
+    "fed",
+    "would",
+    "inflation",
+    "investors",
+    "not",
+    "central",
+    "markets",
+    "may",
+    "one"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1045,
+  "source_path": "reports/breakwave/2022/2022-08-22_market-comment-paradigm-shift-deferred-but-not-for-long.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/8/22/market-comment-paradigm-shift-deferred-but-not-for-long",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-08-22_2022_08_22_market_comment_paradigm_shift_deferred_but_not_for_long__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-08-22_2022_08_22_market_comment_paradigm_shift_deferred_but_not_for_long",
+      "parent_id": "breakwave_insights_insights_2022-08-22_2022_08_22_market_comment_paradigm_shift_deferred_but_not_for_long__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nFrank Herbert's ‘ Dune ', one of the most epic sci-fi novels of all time (and the subject of a less-great 1984 Kyle MacLachlan movie ), featured, amongst other things, a mystical far-future sisterhood, called the Bene Gesserit. The Sisterhood had developed a secret sign language, to be used alongside real spoken words.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "fed",
+        "would",
+        "inflation",
+        "investors",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1043,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-07_2023_11_07_ding_a_ling_financial_santa_is_in_the_house_but_does_he_also__root",
+  "doc_id": "breakwave_insights_insights_2023-11-07_2023_11_07_ding_a_ling_financial_santa_is_in_the_house_but_does_he_also",
+  "parent_id": null,
+  "title": "Ding A Ling Financial Santa Is In The House But Does He Also Bring Rate Cuts",
+  "section_path": [
+    "Ding A Ling Financial Santa Is In The House But Does He Also Bring Rate Cuts"
+  ],
+  "section_path_text": "Ding A Ling Financial Santa Is In The House But Does He Also Bring Rate Cuts",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nThe three things investors need to know this week\nThe combination of a rate pause confirmation along with a fiscal year-end for funds and short positioning catalysed a broad-based asset rally. The next big question for investors is now: when are the rate cuts? A market expectation of ten months seems reasonable on paper.",
+  "keywords": [
+    "are",
+    "fed",
+    "last",
+    "year",
+    "months",
+    "even",
+    "fiscal",
+    "investors",
+    "might",
+    "short",
+    "cuts",
+    "markets"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1351,
+  "source_path": "reports/breakwave/2023/2023-11-07_ding-a-ling-financial-santa-is-in-the-house-but-does-he-also.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/7/ding-a-ling-financial-santa-is-in-the-house-but-does-he-also-bring-rate-cuts",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-07_2023_11_07_ding_a_ling_financial_santa_is_in_the_house_but_does_he_also__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-07_2023_11_07_ding_a_ling_financial_santa_is_in_the_house_but_does_he_also",
+      "parent_id": "breakwave_insights_insights_2023-11-07_2023_11_07_ding_a_ling_financial_santa_is_in_the_house_but_does_he_also__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nThe three things investors need to know this week\nThe combination of a rate pause confirmation along with a fiscal year-end for funds and short positioning catalysed a broad-based asset rally. The next big question for investors is now: when are the rate cuts?",
+      "keywords": [
+        "are",
+        "fed",
+        "last",
+        "year",
+        "months",
+        "even",
+        "fiscal",
+        "investors"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1349,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

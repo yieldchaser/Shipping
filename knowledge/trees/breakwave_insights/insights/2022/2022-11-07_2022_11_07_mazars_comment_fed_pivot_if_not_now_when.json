@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-11-07_2022_11_07_mazars_comment_fed_pivot_if_not_now_when__root",
+  "doc_id": "breakwave_insights_insights_2022-11-07_2022_11_07_mazars_comment_fed_pivot_if_not_now_when",
+  "parent_id": null,
+  "title": "Mazars Comment Fed Pivot If Not Now When",
+  "section_path": [
+    "Mazars Comment Fed Pivot If Not Now When"
+  ],
+  "section_path_text": "Mazars Comment Fed Pivot If Not Now When",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nSummary\nWe need to acknowledge that the fight against inflation started from and is still primarily waged by the US Federal Reserve. Other central banks seem to already be lowering their colours. The calculus seems to be changing.",
+  "keywords": [
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "are",
+    "fed",
+    "but",
+    "can",
+    "central",
+    "not",
+    "inflation"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2122,
+  "source_path": "reports/breakwave/2022/2022-11-07_mazars-comment-fed-pivot-if-not-now-when.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/11/7/mazars-comment-fed-pivot-if-not-now-when",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-11-07_2022_11_07_mazars_comment_fed_pivot_if_not_now_when__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-11-07_2022_11_07_mazars_comment_fed_pivot_if_not_now_when",
+      "parent_id": "breakwave_insights_insights_2022-11-07_2022_11_07_mazars_comment_fed_pivot_if_not_now_when__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nSummary\nWe need to acknowledge that the fight against inflation started from and is still primarily waged by the US Federal Reserve. Other central banks seem to already be lowering their colours.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "crude_oil",
+        "are",
+        "fed",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2120,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

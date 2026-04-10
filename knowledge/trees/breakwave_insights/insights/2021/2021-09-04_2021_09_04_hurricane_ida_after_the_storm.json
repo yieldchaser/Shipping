@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm__root",
+  "doc_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm",
+  "parent_id": null,
+  "title": "Hurricane Ida After The Storm",
+  "section_path": [
+    "Hurricane Ida After The Storm"
+  ],
+  "section_path_text": "Hurricane Ida After The Storm",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFollowing Hurricane Ida's landfall on 29 August, some infrastructure critical to the USA's dry bulk exports has been damaged. We assess the potential impacts on trade flows and freight rates. By Nick Ristic\n\nWhat we know\nIda made landfall in south-eastern Louisiana on 29 August as a Category 4 hurricane, wreaking havoc across the state and causing power and water outages that may persist for weeks.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "china",
+    "pacific",
+    "us_gulf",
+    "coal",
+    "grain",
+    "are",
+    "shipments",
+    "could",
+    "but",
+    "may"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 922,
+  "source_path": "reports/breakwave/2021/2021-09-04_hurricane-ida-after-the-storm.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/9/4/hurricane-ida-after-the-storm",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm",
+      "parent_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Following Hurricane Ida's landfall on 29 August, some infrastructure critical to the USA's dry bulk exports has been damaged. We assess the potential impacts on trade flows and freight rates.",
+      "keywords": [
+        "assess",
+        "august",
+        "critical",
+        "damaged.",
+        "exports",
+        "flows",
+        "following",
+        "hurricane"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm__s02_what_we_know",
+      "doc_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm",
+      "parent_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm__root",
+      "title": "What we know",
+      "section_path": [
+        "What we know"
+      ],
+      "section_path_text": "What we know",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Ida made landfall in south-eastern Louisiana on 29 August as a Category 4 hurricane, wreaking havoc across the state and causing power and water outages that may persist for weeks. More recently, the weather event has caused serious flooding in regions to the north.",
+      "keywords": [
+        "us_gulf",
+        "coal",
+        "grain",
+        "export",
+        "ida",
+        "power",
+        "total",
+        "according"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 370,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm__s03_effect_on_market",
+      "doc_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm",
+      "parent_id": "breakwave_insights_insights_2021-09-04_2021_09_04_hurricane_ida_after_the_storm__root",
+      "title": "Effect on market",
+      "section_path": [
+        "Effect on market"
+      ],
+      "section_path_text": "Effect on market",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "So far, we have not seen too many ripples from the hurricane in the dry markets. Soybean futures in the US have dipped, anticipating slightly lower exports and greater domestic supply, but this may also be due to expectations of better harvests due to the increased rainfall.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "china",
+        "pacific",
+        "grain",
+        "are",
+        "shipments",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 499,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "node_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb__root",
+  "doc_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb",
+  "parent_id": null,
+  "title": "3Andlzzzbqrbf3Xlxvs231Z4Kj8Knb",
+  "section_path": [
+    "3Andlzzzbqrbf3Xlxvs231Z4Kj8Knb"
+  ],
+  "section_path_text": "3Andlzzzbqrbf3Xlxvs231Z4Kj8Knb",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ioannis Papadimitriou\n\nANALYSIS / EAST OF SUEZ / DIRTY\n\n\nLimited availability stabilised VLCC rates, but current trade demand fears questions upside potential\nVLCC utilisation by voyage status (excl. Iran, Venezuela and Russia)\nAfter reaching 1-year lows during the start of last week, VLCC rates across the board managed a slight uptick during the final days of the week. This was the result of tighter availability in key crude exporting hubs such as the Middle East and the US Gulf.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "share",
+    "crude",
+    "data",
+    "demand",
+    "route",
+    "gulf-to-europe"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 493,
+  "source_path": "reports/breakwave/2023/2023-05-18_3andlzzzbqrbf3xlxvs231z4kj8knb.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/5/18/3andlzzzbqrbf3xlxvs231z4kj8knb",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb",
+      "parent_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "ioannis",
+        "papadimitriou"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb__s03_limited_availability_stabilised_vlcc_rates_but_current_trade_demand_fears_questions_upside_potential",
+      "doc_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb",
+      "parent_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb__root",
+      "title": "Limited availability stabilised VLCC rates, but current trade demand fears questions upside potential",
+      "section_path": [
+        "Limited availability stabilised VLCC rates, but current trade demand fears questions upside potential"
+      ],
+      "section_path_text": "Limited availability stabilised VLCC rates, but current trade demand fears questions upside potential",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "VLCC utilisation by voyage status (excl. Iran, Venezuela and Russia)\nAfter reaching 1-year lows during the start of last week, VLCC rates across the board managed a slight uptick during the final days of the week.",
+      "keywords": [
+        "vlcc",
+        "us_gulf",
+        "crude_oil",
+        "russia",
+        "crude",
+        "demand",
+        "during",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb__s05_aframaxes_set_to_regain_market_share_on_td25",
+      "doc_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb",
+      "parent_id": "breakwave_insights_insights_2023-05-18_2023_05_18_3andlzzzbqrbf3xlxvs231z4kj8knb__root",
+      "title": "Aframaxes set to regain market share on TD25",
+      "section_path": [
+        "Aframaxes set to regain market share on TD25"
+      ],
+      "section_path_text": "Aframaxes set to regain market share on TD25",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Tonne-days on US Gulf-to-Europe crude route per vessel class vs. Aframax tonne-day share (RHS)\nThe US Gulf-to-Europe crude route has seen increased market share by VLCCs in the past 18 months.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "europe",
+        "us_gulf",
+        "data",
+        "route",
+        "share"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

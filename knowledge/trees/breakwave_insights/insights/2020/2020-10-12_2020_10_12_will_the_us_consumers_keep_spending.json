@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2020-10-12_2020_10_12_will_the_us_consumers_keep_spending__root",
+  "doc_id": "breakwave_insights_insights_2020-10-12_2020_10_12_will_the_us_consumers_keep_spending",
+  "parent_id": null,
+  "title": "Will The Us Consumers Keep Spending",
+  "section_path": [
+    "Will The Us Consumers Keep Spending"
+  ],
+  "section_path_text": "Will The Us Consumers Keep Spending",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nConsumer spending accounts for around two-thirds of economic activity in the US and as such it is an important gauge of the health of the world's largest economy. Friday this week will see the release of the data for consumer spending in September. After a sharp fall in the consumer activity during the first half of the year, as the pandemic forged its grip on the economy, retail spending has rebounded sharply with new highs recorded consecutively in June, July and August.",
+  "keywords": [
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "consumer",
+    "spending",
+    "another",
+    "are",
+    "data",
+    "levels",
+    "activity",
+    "economy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 503,
+  "source_path": "reports/breakwave/2020/2020-10-12_will-the-us-consumers-keep-spending.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2020/10/12/will-the-us-consumers-keep-spending",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2020-10-12_2020_10_12_will_the_us_consumers_keep_spending__s01_main",
+      "doc_id": "breakwave_insights_insights_2020-10-12_2020_10_12_will_the_us_consumers_keep_spending",
+      "parent_id": "breakwave_insights_insights_2020-10-12_2020_10_12_will_the_us_consumers_keep_spending__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nConsumer spending accounts for around two-thirds of economic activity in the US and as such it is an important gauge of the health of the world's largest economy. Friday this week will see the release of the data for consumer spending in September.",
+      "keywords": [
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "consumer",
+        "spending",
+        "another",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 501,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

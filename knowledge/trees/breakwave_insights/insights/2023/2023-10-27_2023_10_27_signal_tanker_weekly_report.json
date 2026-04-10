@@ -1,0 +1,286 @@
+{
+  "node_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report",
+  "parent_id": null,
+  "title": "Signal Tanker Weekly Report",
+  "section_path": [
+    "Signal Tanker Weekly Report"
+  ],
+  "section_path_text": "Signal Tanker Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week: VLCC ballast speeds - Bunker prices ($/d)\nUpward revision in VLCCs sailing ballast speed from the end of September, which coincides with a decrease in bunker prices\nIn the final week of October, crude freight rates on the VLCC MEG-China route witnessed a decline, accompanied by a noticeable uptick in the number of vessels at the VLCC Ras Tanura port. This occurred amidst persistent challenges in the oil industry, marked by ongoing crises that exert downward pressure on oil prices and production levels. However, it is interesting to note that the average ballast speed of VLCC tankers (see image above) increased to levels more than 12knots as the bunker prices cost ($/d) started to fall before the end of the month.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "ago.",
+    "clean",
+    "end"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1024,
+  "source_path": "reports/breakwave/2023/2023-10-27_signal-tanker-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/10/27/signal-tanker-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__s01_chart_of_the_week_vlcc_ballast_speeds_bunker_prices_d",
+      "doc_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__root",
+      "title": "Chart of the Week: VLCC ballast speeds - Bunker prices ($/d)",
+      "section_path": [
+        "Chart of the Week: VLCC ballast speeds - Bunker prices ($/d)"
+      ],
+      "section_path_text": "Chart of the Week: VLCC ballast speeds - Bunker prices ($/d)",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Upward revision in VLCCs sailing ballast speed from the end of September, which coincides with a decrease in bunker prices\nIn the final week of October, crude freight rates on the VLCC MEG-China route witnessed a decline, accompanied by a noticeable uptick in the number of vessels at the VLCC Ras Tanura port. This occurred amidst persistent challenges in the oil industry, marked by ongoing crises that exert downward pressure on oil prices and production levels.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "crude",
+        "oil",
+        "prices",
+        "ballast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 249,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__s02_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Market Rates (WS)\n‘Dirty' WS VLCC - Suezmax - Aframax Mixed\nThe VLCC MEG-China route saw a decrease in sentiment while Suezmax and Aframax routes remained strong. VLCC MEG-China freight rates fell to WS 50, a 15% drop from the previous week, but still similar to a month ago.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "previous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 167,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__s03_product_ws_lr2_firmer",
+      "doc_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__root",
+      "title": "‘Product' WS LR2 Firmer",
+      "section_path": [
+        "‘Product' WS LR2 Firmer"
+      ],
+      "section_path_text": "‘Product' WS LR2 Firmer",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "LR2 AG freight rates increased to 173 WS, a 28% rise in one month. Recent levels are now at their highest point since the end of week 31.",
+      "keywords": [
+        "are",
+        "end",
+        "highest",
+        "increased",
+        "levels",
+        "lr2",
+        "month.",
+        "now"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__s04_panamax_firmer",
+      "doc_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__root",
+      "title": "Panamax Firmer",
+      "section_path": [
+        "Panamax Firmer"
+      ],
+      "section_path_text": "Panamax Firmer",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Panamax Carib-to-USG rates sustained the firmer momentum of the previous week at levels WS 199, 50% more than a month ago.",
+      "keywords": [
+        "panamax",
+        "ago.",
+        "carib-to-usg",
+        "firmer",
+        "levels",
+        "momentum",
+        "month",
+        "previous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__s05_clean_mr_mixed",
+      "doc_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__root",
+      "title": "‘Clean' MR Mixed",
+      "section_path": [
+        "‘Clean' MR Mixed"
+      ],
+      "section_path_text": "‘Clean' MR Mixed",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "MR1 rates for the Baltic continent rose to WS 300, up 65% from a month ago. MR2 rates for shipments from the continent to the U.S.",
+      "keywords": [
+        "europe",
+        "ago.",
+        "continent",
+        "month",
+        "around",
+        "end",
+        "flat",
+        "held"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 58,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__s07_dirty_vessels_mixed",
+      "doc_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__root",
+      "title": "'Dirty' (#vessels) - Mixed",
+      "section_path": [
+        "'Dirty' (#vessels) - Mixed"
+      ],
+      "section_path_text": "'Dirty' (#vessels) - Mixed",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "The supply trend for the Ras Tanura VLCC has started to show signs of increase, while the Aframax trend remains downward. VLCC Ras Tanura: The number of ships has increased to 74, 12 above the annual average, with an upward trend for the ending of the month.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "number",
+        "ships",
+        "trend",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__s09_mr1_vessels_decreasing",
+      "doc_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__root",
+      "title": "MR1 (#vessels) - Decreasing",
+      "section_path": [
+        "MR1 (#vessels) - Decreasing"
+      ],
+      "section_path_text": "MR1 (#vessels) - Decreasing",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Clean LR2 AG Jubail: The number of recorded ships has remained below the average of the year, around 5. However, there are signs that this may increase in the coming days.",
+      "keywords": [
+        "below",
+        "clean",
+        "ships",
+        "algeria",
+        "annual",
+        "are",
+        "around",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 77,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__s11_dirty_mixed",
+      "doc_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__root",
+      "title": "‘Dirty' Mixed",
+      "section_path": [
+        "‘Dirty' Mixed"
+      ],
+      "section_path_text": "‘Dirty' Mixed",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Dirty tonne days: The outlook remained in decreasing trend for the VLCC and Suezmax segments, but there was a surprising upward trend in the Aframax segment, which had hit lows during week 39. Overall, uncertainties persist as geopolitical tensions worldwide continue to reshape the oil industry.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "trend",
+        "but",
+        "continue",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 58,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__s12_clean_mixed",
+      "doc_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-10-27_2023_10_27_signal_tanker_weekly_report__root",
+      "title": "‘Clean' Mixed",
+      "section_path": [
+        "‘Clean' Mixed"
+      ],
+      "section_path_text": "‘Clean' Mixed",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Panamax tonne days: The growth rate has shown signs of improvement after hitting lows in weeks 39 and 41. Clean MR tonne days: The demand growth outlook for MR1 size has reached new lows, while for MR2 appears stagnant over the past four weeks.",
+      "keywords": [
+        "panamax",
+        "days",
+        "growth",
+        "lows",
+        "tonne",
+        "after",
+        "appears",
+        "clean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 62,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

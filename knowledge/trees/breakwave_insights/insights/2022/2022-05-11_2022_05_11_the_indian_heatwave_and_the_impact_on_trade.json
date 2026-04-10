@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2022-05-11_2022_05_11_the_indian_heatwave_and_the_impact_on_trade__root",
+  "doc_id": "breakwave_insights_insights_2022-05-11_2022_05_11_the_indian_heatwave_and_the_impact_on_trade",
+  "parent_id": null,
+  "title": "The Indian Heatwave And The Impact On Trade",
+  "section_path": [
+    "The Indian Heatwave And The Impact On Trade"
+  ],
+  "section_path_text": "The Indian Heatwave And The Impact On Trade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nTemperatures in India have been soaring to unprecedented levels in recent days and weeks, putting lives, crops and energy supplies at risk. While the weather conditions have become increasingly extreme recently, the South Asian nation has faced elevated temperatures since March. Beyond the effects on human health, the high temperatures have been boosting the country's demand for electricity as the use of air conditioning and refrigeration have risen sharply.",
+  "keywords": [
+    "lng",
+    "europe",
+    "india",
+    "coal",
+    "grain",
+    "gas",
+    "indian",
+    "country",
+    "wheat",
+    "are",
+    "levels",
+    "supplies"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1061,
+  "source_path": "reports/breakwave/2022/2022-05-11_the-indian-heatwave-and-the-impact-on-trade.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/5/11/the-indian-heatwave-and-the-impact-on-trade",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-05-11_2022_05_11_the_indian_heatwave_and_the_impact_on_trade__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-05-11_2022_05_11_the_indian_heatwave_and_the_impact_on_trade",
+      "parent_id": "breakwave_insights_insights_2022-05-11_2022_05_11_the_indian_heatwave_and_the_impact_on_trade__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nTemperatures in India have been soaring to unprecedented levels in recent days and weeks, putting lives, crops and energy supplies at risk. While the weather conditions have become increasingly extreme recently, the South Asian nation has faced elevated temperatures since March.",
+      "keywords": [
+        "lng",
+        "europe",
+        "india",
+        "coal",
+        "grain",
+        "gas",
+        "indian",
+        "country"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1059,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

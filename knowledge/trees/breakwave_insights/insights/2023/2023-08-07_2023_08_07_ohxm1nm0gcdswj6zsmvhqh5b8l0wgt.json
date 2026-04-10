@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-08-07_2023_08_07_ohxm1nm0gcdswj6zsmvhqh5b8l0wgt__root",
+  "doc_id": "breakwave_insights_insights_2023-08-07_2023_08_07_ohxm1nm0gcdswj6zsmvhqh5b8l0wgt",
+  "parent_id": null,
+  "title": "Ohxm1Nm0Gcdswj6Zsmvhqh5B8L0Wgt",
+  "section_path": [
+    "Ohxm1Nm0Gcdswj6Zsmvhqh5B8L0Wgt"
+  ],
+  "section_path_text": "Ohxm1Nm0Gcdswj6Zsmvhqh5B8L0Wgt",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nSentiment remained well supported last week by renewed side issues amid a broader improvement in risk appetite across markets. This was aided by weaker USD. Crude oil gained last week as evidence mounts of tightness in supplies.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "last",
+    "demand",
+    "its",
+    "support",
+    "was"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 533,
+  "source_path": "reports/breakwave/2023/2023-08-07_ohxm1nm0gcdswj6zsmvhqh5b8l0wgt.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/8/7/ohxm1nm0gcdswj6zsmvhqh5b8l0wgt",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-08-07_2023_08_07_ohxm1nm0gcdswj6zsmvhqh5b8l0wgt__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-08-07_2023_08_07_ohxm1nm0gcdswj6zsmvhqh5b8l0wgt",
+      "parent_id": "breakwave_insights_insights_2023-08-07_2023_08_07_ohxm1nm0gcdswj6zsmvhqh5b8l0wgt__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nSentiment remained well supported last week by renewed side issues amid a broader improvement in risk appetite across markets. This was aided by weaker USD.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "iron_ore",
+        "crude_oil",
+        "steel",
+        "gas",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 531,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

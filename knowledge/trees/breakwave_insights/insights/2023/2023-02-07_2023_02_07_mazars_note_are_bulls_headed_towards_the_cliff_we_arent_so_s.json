@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-02-07_2023_02_07_mazars_note_are_bulls_headed_towards_the_cliff_we_arent_so_s__root",
+  "doc_id": "breakwave_insights_insights_2023-02-07_2023_02_07_mazars_note_are_bulls_headed_towards_the_cliff_we_arent_so_s",
+  "parent_id": null,
+  "title": "Mazars Note Are Bulls Headed Towards The Cliff We Arent So Sure",
+  "section_path": [
+    "Mazars Note Are Bulls Headed Towards The Cliff We Arent So Sure"
+  ],
+  "section_path_text": "Mazars Note Are Bulls Headed Towards The Cliff We Arent So Sure",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Summary\nEquity and bond markets continue to rally, with the FTSE 100 hitting all-time highs last week. However, the economic realities of last week are in antithesis with this bull market. In the past fifteen days, the Fed raised rates into a cooling economy and warned markets that it will continue to do so in the coming months.",
+  "keywords": [
+    "china",
+    "meg",
+    "europe",
+    "are",
+    "what",
+    "could",
+    "earnings",
+    "fed",
+    "not",
+    "one",
+    "investors",
+    "best"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1306,
+  "source_path": "reports/breakwave/2023/2023-02-07_mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-s.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/2/7/mazars-note-are-bulls-headed-towards-the-cliff-we-arent-so-sure",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-02-07_2023_02_07_mazars_note_are_bulls_headed_towards_the_cliff_we_arent_so_s__s01_summary",
+      "doc_id": "breakwave_insights_insights_2023-02-07_2023_02_07_mazars_note_are_bulls_headed_towards_the_cliff_we_arent_so_s",
+      "parent_id": "breakwave_insights_insights_2023-02-07_2023_02_07_mazars_note_are_bulls_headed_towards_the_cliff_we_arent_so_s__root",
+      "title": "Summary",
+      "section_path": [
+        "Summary"
+      ],
+      "section_path_text": "Summary",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Equity and bond markets continue to rally, with the FTSE 100 hitting all-time highs last week. However, the economic realities of last week are in antithesis with this bull market.",
+      "keywords": [
+        "china",
+        "meg",
+        "europe",
+        "are",
+        "what",
+        "could",
+        "earnings",
+        "fed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1304,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

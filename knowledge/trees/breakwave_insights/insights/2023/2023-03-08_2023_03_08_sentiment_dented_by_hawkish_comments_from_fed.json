@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-08_2023_03_08_sentiment_dented_by_hawkish_comments_from_fed__root",
+  "doc_id": "breakwave_insights_insights_2023-03-08_2023_03_08_sentiment_dented_by_hawkish_comments_from_fed",
+  "parent_id": null,
+  "title": "Sentiment Dented By Hawkish Comments From Fed",
+  "section_path": [
+    "Sentiment Dented By Hawkish Comments From Fed"
+  ],
+  "section_path_text": "Sentiment Dented By Hawkish Comments From Fed",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Daniel Hynes\nHawkish comments from central bankers weighed on sentiment across markets. The subsequent risk off tone saw commodities come under pressure. Crude oil extended losses after Fed Chair Jerome Powell warned that the central bank may need to raise rates faster than expected, and to a higher endpoint.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "demand",
+    "amid",
+    "copper"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 573,
+  "source_path": "reports/breakwave/2023/2023-03-08_sentiment-dented-by-hawkish-comments-from-fed.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/8/sentiment-dented-by-hawkish-comments-from-fed",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-08_2023_03_08_sentiment_dented_by_hawkish_comments_from_fed__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-03-08_2023_03_08_sentiment_dented_by_hawkish_comments_from_fed",
+      "parent_id": "breakwave_insights_insights_2023-03-08_2023_03_08_sentiment_dented_by_hawkish_comments_from_fed__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Daniel Hynes\nHawkish comments from central bankers weighed on sentiment across markets. The subsequent risk off tone saw commodities come under pressure.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 571,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFreight rates maintained the weak momentum seen in recent weeks, while seaborne flows are gradually recovering, which will have a positive impact on the future development of rates. In the iron ore market, the price of iron ore rose above $100 as China intervened to alleviate real estate problems. Recent news underscored that China is planning a state-backed iron ore company to oversee everything from massive mining investments in West Africa to buying steel from global suppliers.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "europe",
+    "iron_ore",
+    "coal",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1103,
+  "source_path": "reports/breakwave/2022/2022-07-21_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2022/7/21/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__s01_main",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Freight rates maintained the weak momentum seen in recent weeks, while seaborne flows are gradually recovering, which will have a positive impact on the future development of rates. In the iron ore market, the price of iron ore rose above $100 as China intervened to alleviate real estate problems.",
+      "keywords": [
+        "china",
+        "australia",
+        "west_africa",
+        "europe",
+        "iron_ore",
+        "coal",
+        "steel",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 310,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__s02_chart_of_the_week_seaborne_coal_imports_south_africa_to_the_netherlands",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of The Week: Seaborne Coal Imports, South Africa to the Netherlands",
+      "section_path": [
+        "Chart of The Week: Seaborne Coal Imports, South Africa to the Netherlands"
+      ],
+      "section_path_text": "Chart of The Week: Seaborne Coal Imports, South Africa to the Netherlands",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Accelerated growth after 2 years of near standstill",
+      "keywords": [
+        "accelerated",
+        "after",
+        "growth",
+        "near",
+        "standstill",
+        "years"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__s03_top_origin_and_top_destination_ports_share_from_africa_to_the_netherlands",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__root",
+      "title": "Top Origin and Top Destination Ports, % share, from Africa to the Netherlands",
+      "section_path": [
+        "Top Origin and Top Destination Ports, % share, from Africa to the Netherlands"
+      ],
+      "section_path_text": "Top Origin and Top Destination Ports, % share, from Africa to the Netherlands",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Data Source: The Signal Ocean Platform, Dry Bulk Flows, Coal, from South Africa to the Netherlands, 2020-2022",
+      "keywords": [
+        "coal",
+        "africa",
+        "data",
+        "flows",
+        "netherlands",
+        "ocean",
+        "platform",
+        "signal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 28,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__s04_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "section_path": [
+        "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker"
+      ],
+      "section_path_text": "SECTION 1 - FREIGHT - Market Rates ($/t) - Weaker",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nFreight sentiment remained unchanged compared to the previous weeks of July, as a downward trend continued to be observed in the smaller vessel categories. The Capesize segment continued its ongoing upward trend in July, while the Panamax and Handysize segments recorded a steady decline.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__s06_number_of_vessels_increasing",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__root",
+      "title": "Number of Vessels - Increasing",
+      "section_path": [
+        "Number of Vessels - Increasing"
+      ],
+      "section_path_text": "Number of Vessels - Increasing",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Supply Trend Lines for Key Load Areas\nIn the Supramax segment, the number of ships continued to increase, while, there was also a clear upward trend in the number of Capesize vessels. Capesize SE Africa: The number of vessels increased to 88, 23 more than week 26.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "ships",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__s08_decreasing",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__root",
+      "title": "Decreasing",
+      "section_path": [
+        "Decreasing"
+      ],
+      "section_path_text": "Decreasing",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "The downward trend continued in the third week of July, with the Handysize, Panamax, and Capesize segments recording significantly lower growth. Capesize demand ton-days: The percentage increase this week shows another clear downward trend, approaching the low point in weeks 21 and 22.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "demand",
+        "ton-days",
+        "downward",
+        "trend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__s11_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2022-07-21_2022_07_21_signal_dry_bulk_weekly_report__root",
+      "title": "Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "While the number of congested vessels is still below average, we have seen a week-over-week rise in recent days. There was a further increase in the Handysize segment, while a downward trend was recorded in the larger ship categories.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vessels",
+        "number",
+        "congested",
+        "previous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 142,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

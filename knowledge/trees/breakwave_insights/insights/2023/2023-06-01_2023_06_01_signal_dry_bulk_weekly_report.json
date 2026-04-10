@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__root",
+  "doc_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report",
+  "parent_id": null,
+  "title": "Signal Dry Bulk Weekly Report",
+  "section_path": [
+    "Signal Dry Bulk Weekly Report"
+  ],
+  "section_path_text": "Signal Dry Bulk Weekly Report",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Chart of the Week Dry Bulk: Ballasters to South Africa\nThe number of ballasters has been steadily increasing since the beginning of April\nData Source: The Signal Ocean Platform, C3 Dashboard\nhttps://go.signalocean.com/e/983831/dry-dynamic-c3/2p15qb/323368539?h=2znq_HgXwCtivbRVlMf0BjvUjZ4xiO725308zuBNEVg\nThe Chinese economy is grappling with challenges as the property sector weakens and iron ore prices slide. Chinese demand for iron ore is on a decreasing trend, while it seems that we are nearing the end of an era for Chinese construction. Chinese steel producers have expressed the need for production cuts this year due to a batch of worrisome macroeconomic and property sector data.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "iron_ore",
+    "grain",
+    "steel",
+    "number"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1155,
+  "source_path": "reports/breakwave/2023/2023-06-01_signal-dry-bulk-weekly-report.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/6/1/signal-dry-bulk-weekly-report",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__s01_chart_of_the_week_dry_bulk_ballasters_to_south_africa",
+      "doc_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__root",
+      "title": "Chart of the Week Dry Bulk: Ballasters to South Africa",
+      "section_path": [
+        "Chart of the Week Dry Bulk: Ballasters to South Africa"
+      ],
+      "section_path_text": "Chart of the Week Dry Bulk: Ballasters to South Africa",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The number of ballasters has been steadily increasing since the beginning of April\nData Source: The Signal Ocean Platform, C3 Dashboard\nhttps://go.signalocean.com/e/983831/dry-dynamic-c3/2p15qb/323368539?h=2znq_HgXwCtivbRVlMf0BjvUjZ4xiO725308zuBNEVg\nThe Chinese economy is grappling with challenges as the property sector weakens and iron ore prices slide. Chinese demand for iron ore is on a decreasing trend, while it seems that we are nearing the end of an era for Chinese construction.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "chinese",
+        "property"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 340,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__s02_section_1_freight_market_rates_t_weaker",
+      "doc_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "section_path": [
+        "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT - Market Rates ($/t) Weaker",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nThe dry freight market ends May with weaker momentum in the Capesize and Panamax segments, while there are some signs of an upward correction in the smaller vessel categories. Capesize vessel freight rates fell below $20/tonne, down $2/tonne from two weeks ago and with signs of a continued downward correction over the past four weeks.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "tonne",
+        "vessel",
+        "below"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__s04_supply_trend_lines_for_key_load_areas",
+      "doc_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__root",
+      "title": "Supply Trend Lines for Key Load Areas",
+      "section_path": [
+        "Supply Trend Lines for Key Load Areas"
+      ],
+      "section_path_text": "Supply Trend Lines for Key Load Areas",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The number of ballasters continues to show an upward trend for the larger ship categories, while an increase was also recorded for the smaller ships at the end of May. Capesize SE Africa: The current number of ships increased to 115, 15 more than two weeks ago and 62% more than the last low in week 16.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "above",
+        "low"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__s05_section_3_demand_tondays_weaker",
+      "doc_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 3/ DEMAND - TonDays Weaker",
+      "section_path": [
+        "SECTION 3/ DEMAND - TonDays Weaker"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND - TonDays Weaker",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The growth in demand ton days has continued to weaken, with the Panamax segment experiencing the most significant downward revision. Capesize: The current trend appears to have lost the momentum it had earlier in May, with growth rates declining as the month comes to an end.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "grain",
+        "growth",
+        "are",
+        "correction"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 200,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__s06_section_4_port_congestion_no_of_vessels_increasing_dry_bulk_ships_congested_at_chinese_ports",
+      "doc_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report",
+      "parent_id": "breakwave_insights_insights_2023-06-01_2023_06_01_signal_dry_bulk_weekly_report__root",
+      "title": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "section_path": [
+        "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports"
+      ],
+      "section_path_text": "SECTION 4/ PORT CONGESTION - No of Vessels Increasing Dry bulk ships congested at Chinese ports",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "May ends another increase in congestion, reaching a new high for the year, with signs of a downward correction in the Capesize segment. Capesize: The number of vessels now stands at 100, 13 fewer than in the last week of May.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "number",
+        "vessels",
+        "increased",
+        "beginning"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

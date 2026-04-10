@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-07-14_2021_07_14_weekly_dry_time_charter_estimates_july_14_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-07-14_2021_07_14_weekly_dry_time_charter_estimates_july_14_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, July 14 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, July 14 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, July 14 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize rates for six months softened slightly this week dropping to an average of $33,000/pdpr, although it is usual for rates to begin their summer decline at this time of the year, rate levels remain high overall. In the kamsarmax/panamax sector, TC rates for longer periods of one and two years moved in a very positive direction due to continued support in the Atlantic basin. Support from East Coast South America and the Black Sea continued to propel rates for the smaller sizes upwards to an average of $27,250/pdpr for one year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "atlantic",
+    "average",
+    "continued",
+    "one",
+    "pdpr",
+    "support",
+    "although",
+    "america",
+    "basin.",
+    "begin"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 150,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-07-14_weekly-dry-time-charter-estimates-july-14-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-july-14-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-07-14_2021_07_14_weekly_dry_time_charter_estimates_july_14_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-07-14_2021_07_14_weekly_dry_time_charter_estimates_july_14_2021",
+      "parent_id": "hellenic_dry_charter_2021-07-14_2021_07_14_weekly_dry_time_charter_estimates_july_14_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize rates for six months softened slightly this week dropping to an average of $33,000/pdpr, although it is usual for rates to begin their summer decline at this time of the year, rate levels remain high overall. In the kamsarmax/panamax sector, TC rates for longer periods of one and two years moved in a very positive direction due to continued support in the Atlantic basin.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "atlantic",
+        "average",
+        "continued",
+        "one",
+        "pdpr",
+        "support"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

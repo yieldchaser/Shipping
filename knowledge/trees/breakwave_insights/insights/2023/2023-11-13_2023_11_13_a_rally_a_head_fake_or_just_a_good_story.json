@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-13_2023_11_13_a_rally_a_head_fake_or_just_a_good_story__root",
+  "doc_id": "breakwave_insights_insights_2023-11-13_2023_11_13_a_rally_a_head_fake_or_just_a_good_story",
+  "parent_id": null,
+  "title": "A Rally A Head Fake Or Just A Good Story",
+  "section_path": [
+    "A Rally A Head Fake Or Just A Good Story"
+  ],
+  "section_path_text": "A Rally A Head Fake Or Just A Good Story",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe headline numbers are telling the story of a strong risk asset rebound and economic soft landing or no-landing on the back of a stoppage in rate hikes. Looking under the hood suggests that the current central narrative, while still very much possible, is on the upper end of potential outcomes. Rates can still go up, quantitative easing probably makes equity rallies unsustainable and governments are borrowing heavily to sustain growth.",
+  "keywords": [
+    "china",
+    "grain",
+    "products",
+    "are",
+    "not",
+    "but",
+    "one",
+    "should",
+    "stories",
+    "was",
+    "good",
+    "how"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1504,
+  "source_path": "reports/breakwave/2023/2023-11-13_a-rally-a-head-fake-or-just-a-good-story.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/13/a-rally-a-head-fake-or-just-a-good-story",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-13_2023_11_13_a_rally_a_head_fake_or_just_a_good_story__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-13_2023_11_13_a_rally_a_head_fake_or_just_a_good_story",
+      "parent_id": "breakwave_insights_insights_2023-11-13_2023_11_13_a_rally_a_head_fake_or_just_a_good_story__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The headline numbers are telling the story of a strong risk asset rebound and economic soft landing or no-landing on the back of a stoppage in rate hikes. Looking under the hood suggests that the current central narrative, while still very much possible, is on the upper end of potential outcomes.",
+      "keywords": [
+        "china",
+        "grain",
+        "products",
+        "are",
+        "not",
+        "but",
+        "one",
+        "should"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1502,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

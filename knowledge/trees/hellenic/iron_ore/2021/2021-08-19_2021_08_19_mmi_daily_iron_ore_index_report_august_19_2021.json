@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-08-19_2021_08_19_mmi_daily_iron_ore_index_report_august_19_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-08-19_2021_08_19_mmi_daily_iron_ore_index_report_august_19_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 19 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 19 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 19 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 19/08/2021\nDCE iron ore futures continued to decrease largely today, the main contract I2201 has dropped by around 7.2% throughout the day, reachingthe lowest level since the same period last year. The spot quotations tended to decrease by around 40-50yuan/ mt in the morning. After continuously decreasing price, some traders tend to sell in order to lower the loss space.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "steel",
+    "yuan/mt",
+    "around",
+    "iron",
+    "ore",
+    "coke",
+    "day",
+    "dealt",
+    "decrease"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 263,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-08-19_mmi-daily-iron-ore-index-report-august-19-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-19-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-08-19_2021_08_19_mmi_daily_iron_ore_index_report_august_19_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-08-19_2021_08_19_mmi_daily_iron_ore_index_report_august_19_2021",
+      "parent_id": "hellenic_iron_ore_2021-08-19_2021_08_19_mmi_daily_iron_ore_index_report_august_19_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 19/08/2021\nDCE iron ore futures continued to decrease largely today, the main contract I2201 has dropped by around 7.2% throughout the day, reachingthe lowest level since the same period last year. The spot quotations tended to decrease by around 40-50yuan/ mt in the morning.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "steel",
+        "yuan/mt",
+        "around",
+        "iron",
+        "ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 261,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

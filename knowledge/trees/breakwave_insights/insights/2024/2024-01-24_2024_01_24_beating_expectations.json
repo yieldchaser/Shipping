@@ -1,0 +1,86 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-24_2024_01_24_beating_expectations__root",
+  "doc_id": "breakwave_insights_insights_2024-01-24_2024_01_24_beating_expectations",
+  "parent_id": null,
+  "title": "Beating Expectations",
+  "section_path": [
+    "Beating Expectations"
+  ],
+  "section_path_text": "Beating Expectations",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Beating Expectations\nBack in January 2023, the US Energy Information Administration (EIA) envisaged US crude production growing by 550kbd over the course of the year. The reality however has beaten all expectations, with the country's output increasing by 1.01 mbd according to the latest assessments. There also was strong growth in Natural Gas Liquids (NGL) production, which gained by 490kbd YoY.",
+  "keywords": [
+    "vlcc",
+    "atlantic",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "gas",
+    "kbd",
+    "production",
+    "crude",
+    "growth",
+    "year",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 697,
+  "source_path": "reports/breakwave/2024/2024-01-24_beating-expectations.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/24/beating-expectations",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-24_2024_01_24_beating_expectations__s01_beating_expectations",
+      "doc_id": "breakwave_insights_insights_2024-01-24_2024_01_24_beating_expectations",
+      "parent_id": "breakwave_insights_insights_2024-01-24_2024_01_24_beating_expectations__root",
+      "title": "Beating Expectations",
+      "section_path": [
+        "Beating Expectations"
+      ],
+      "section_path_text": "Beating Expectations",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Back in January 2023, the US Energy Information Administration (EIA) envisaged US crude production growing by 550kbd over the course of the year. The reality however has beaten all expectations, with the country's output increasing by 1.01 mbd according to the latest assessments.",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "europe",
+        "us_gulf",
+        "crude_oil",
+        "gas",
+        "kbd",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 675,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-24_2024_01_24_beating_expectations__s02_outlook_for_us_oil_supply_mbd",
+      "doc_id": "breakwave_insights_insights_2024-01-24_2024_01_24_beating_expectations",
+      "parent_id": "breakwave_insights_insights_2024-01-24_2024_01_24_beating_expectations__root",
+      "title": "Outlook for US oil supply (mbd)",
+      "section_path": [
+        "Outlook for US oil supply (mbd)"
+      ],
+      "section_path_text": "Outlook for US oil supply (mbd)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "",
+      "keywords": [
+        "data",
+        "gibson",
+        "shipbrokers",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

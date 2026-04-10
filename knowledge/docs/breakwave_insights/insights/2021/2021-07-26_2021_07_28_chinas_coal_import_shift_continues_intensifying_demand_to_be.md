@@ -1,0 +1,84 @@
+---
+category: insights
+commodities:
+- iron_ore
+- coal
+- grain
+- crude_oil
+- products
+- gas
+date: '2021-07-26'
+doc_id: breakwave_insights_insights_2021-07-26_2021_07_28_chinas_coal_import_shift_continues_intensifying_demand_to_be
+document_type: insights_note
+key_entities:
+- China
+- Australia
+keywords:
+- china
+- australia
+- coal
+- tons
+- year-on-year
+- imported
+- million
+- are
+- imports
+- month-on-month
+- indonesia
+- africa
+market_tone: constructive
+regions:
+- china
+- brazil
+- australia
+- atlantic
+- pacific
+- meg
+- west_africa
+- europe
+section_count: 1
+signals: {}
+source: breakwave_insights
+source_path: reports/breakwave/2021/2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-be.html
+source_stem: 2021-07-28_chinas-coal-import-shift-continues-intensifying-demand-to-be
+source_url: https://www.breakwaveadvisors.com/insights/2021/7/26/chinas-coal-import-shift-continues-intensifying-demand-to-become-even-stronger
+summary: 'Main
+
+  By Jeffrey Landsberg
+
+  China''s coal import data for June by origin was released recently and shows imports
+  from Indonesia have remained the primary source of coal imports while the ban on
+  Australia remains in place. June has marked the seventh straight month where China
+  has not imported any Australian coal. China imported 17 million tons of coal from
+  Indonesia in June, which is up month-on-month by 5.8 million tons (52%) and up year-on-year
+  by 6.2 million tons (57%).'
+themes:
+- china
+- australia
+- coal
+- tons
+- year-on-year
+- imported
+title: Chinas Coal Import Shift Continues Intensifying Demand To Become Even Stronger
+vessel_classes:
+- capesize
+- panamax
+- supramax
+- handysize
+- vlcc
+- suezmax
+- aframax
+---
+
+## Summary
+Main
+By Jeffrey Landsberg
+China's coal import data for June by origin was released recently and shows imports from Indonesia have remained the primary source of coal imports while the ban on Australia remains in place. June has marked the seventh straight month where China has not imported any Australian coal. China imported 17 million tons of coal from Indonesia in June, which is up month-on-month by 5.8 million tons (52%) and up year-on-year by 6.2 million tons (57%).
+
+## Main
+By Jeffrey Landsberg
+China's coal import data for June by origin was released recently and shows imports from Indonesia have remained the primary source of coal imports while the ban on Australia remains in place. June has marked the seventh straight month where China has not imported any Australian coal.
+China imported 17 million tons of coal from Indonesia in June, which is up month-on-month by 5.8 million tons (52%) and up year-on-year by 6.2 million tons (57%). China imported 5.3 million tons from Russia, which is up month-on-month by 200,000 tons (4%) and up year-on-year by 2.4 million tons (83%). Overall, Indonesia has remained the primary source of China's coal imports while Russia has remained the clear secondary source. Basically all of Indonesia's coal exports are thermal coal cargoes, while the majority of Russia's coal exports are coking coal cargoes.
+Also notable is imports from Canada, the Philippines, the United States, Colombia, and South Africa all experienced year-on-year growth. China imported 1.1 million tons from Canada, which is up month-on-month by 600,000 tons (120%) and up year-on-year by 500,000 tons (83%). China imported 1 million tons from the Philippines, which is down month-on-month by 200,000 tons (-17%) but up year-on-year by 900,000 tons (900%). China imported 900,000 tons from the United States, which is up month-on month by 200,000 tons (29%) and up year-on-year by 600,000 tons (200%). China imported 800,000 tons from Colombia, which is unchanged from May and up year-on-year by 600,000 tons (300%). China imported 800,000 tons from South Africa, which is up month-on-month by 400,000 tons (100%) and up year-on-year by 800,000 tons.
+While still remaining relatively low in volume, it is encouraging for the dry bulk shipping market that China's coal imports from Canada, the Philippines, the United States, Colombia, and South Africa have all been experiencing year-on-year growth recently. In addition, the monthly volumes from many of these nations have recently climbed to multi-year highs. These are very helpful cargoes due to their lengthier ton miles, and these cargoes continue to add support to the dry bulk shipping market.
+In the near term, China's coal imports from most exporters other than Australia are poised to continue to grow as China continues to have a shortage of both thermal and coking coal. The thermal coal shortage is particularly significant at present as peak summer electricity demand season remains underway. Coal-derived electricity generation during the last four months has risen year-on-year by 14%, while domestic coal production during the last four months has fallen year-on-year by 0.2%. That 14% growth is also extremely significant as power plant stockpiles in China are now down year-on-year by approximately 30%. In addition, major coal port stockpiles in China are now down year-on-year by approximately 15%. China's coal import demand has continued to rise in recent weeks and is poised to find much greater strength in the near term.

@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-09-07_2021_09_07_mmi_daily_iron_ore_index_report_september_07_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-09-07_2021_09_07_mmi_daily_iron_ore_index_report_september_07_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report September 07 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report September 07 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report September 07 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 07/09/2021\nDCE iron ore futures rose slightly today, the spot price in the morning has decreased by around 30yuan/mt over yesterday. Some traders slightlyincrease the quotation and narrow their bargain space today. PBF at Shandong port dealt 975-995yuan/mt; PBF at Tangshan port dealt 1050yuan/mt, up 10-25yuan/mt; PBF at Jiangnei port dealt 1000yuan/mt.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "million",
+    "ports",
+    "yuan/mt",
+    "are",
+    "dealt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 424,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-09-07_mmi-daily-iron-ore-index-report-september-07-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-september-07-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-09-07_2021_09_07_mmi_daily_iron_ore_index_report_september_07_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-09-07_2021_09_07_mmi_daily_iron_ore_index_report_september_07_2021",
+      "parent_id": "hellenic_iron_ore_2021-09-07_2021_09_07_mmi_daily_iron_ore_index_report_september_07_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 07/09/2021\nDCE iron ore futures rose slightly today, the spot price in the morning has decreased by around 30yuan/mt over yesterday. Some traders slightlyincrease the quotation and narrow their bargain space today.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 422,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-14_2023_03_14_mazars_comment_svb_is_not_a_lehman_moment_and_probably_wont__root",
+  "doc_id": "breakwave_insights_insights_2023-03-14_2023_03_14_mazars_comment_svb_is_not_a_lehman_moment_and_probably_wont",
+  "parent_id": null,
+  "title": "Mazars Comment Svb Is Not A Lehman Moment And Probably Wont Become One",
+  "section_path": [
+    "Mazars Comment Svb Is Not A Lehman Moment And Probably Wont Become One"
+  ],
+  "section_path_text": "Mazars Comment Svb Is Not A Lehman Moment And Probably Wont Become One",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "S VB is not a Lehman moment, and probably won't become one. Summary\nThe US experienced the second biggest bank failure in its history on Friday when $209bn worth Silicon Valley Bank failed and was taken over by the regulator. However, despite the eerie echoes of 2008, we don't believe we are in a Lehman moment.",
+  "keywords": [
+    "bank",
+    "not",
+    "are",
+    "svb",
+    "lehman",
+    "money",
+    "was",
+    "all",
+    "its",
+    "moment.",
+    "one",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1363,
+  "source_path": "reports/breakwave/2023/2023-03-14_mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/14/mazars-comment-svb-is-not-a-lehman-moment-and-probably-wont-become-one",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-14_2023_03_14_mazars_comment_svb_is_not_a_lehman_moment_and_probably_wont__s02_summary",
+      "doc_id": "breakwave_insights_insights_2023-03-14_2023_03_14_mazars_comment_svb_is_not_a_lehman_moment_and_probably_wont",
+      "parent_id": "breakwave_insights_insights_2023-03-14_2023_03_14_mazars_comment_svb_is_not_a_lehman_moment_and_probably_wont__root",
+      "title": "Summary",
+      "section_path": [
+        "Summary"
+      ],
+      "section_path_text": "Summary",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The US experienced the second biggest bank failure in its history on Friday when $209bn worth Silicon Valley Bank failed and was taken over by the regulator. However, despite the eerie echoes of 2008, we don't believe we are in a Lehman moment.",
+      "keywords": [
+        "bank",
+        "not",
+        "are",
+        "svb",
+        "money",
+        "was",
+        "lehman",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1345,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

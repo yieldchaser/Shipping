@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-10_2023_07_10_mazars_comment_policy_is_not_uncertain_traders_are__root",
+  "doc_id": "breakwave_insights_insights_2023-07-10_2023_07_10_mazars_comment_policy_is_not_uncertain_traders_are",
+  "parent_id": null,
+  "title": "Mazars Comment Policy Is Not Uncertain Traders Are",
+  "section_path": [
+    "Mazars Comment Policy Is Not Uncertain Traders Are"
+  ],
+  "section_path_text": "Mazars Comment Policy Is Not Uncertain Traders Are",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nThe three things I would tell my clients this week\nLast week's volatility wasn't about the jobs market. Partly it was about taking some profit from the AI-driven rally. Partly it was a -welcome- return to the reality of higher interest rates and lower growth in the months to come.",
+  "keywords": [
+    "europe",
+    "india",
+    "are",
+    "interest",
+    "can",
+    "last",
+    "was",
+    "high",
+    "inflation",
+    "markets",
+    "too",
+    "banks"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1339,
+  "source_path": "reports/breakwave/2023/2023-07-10_mazars-comment-policy-is-not-uncertain-traders-are.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/10/mazars-comment-policy-is-not-uncertain-traders-are",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-10_2023_07_10_mazars_comment_policy_is_not_uncertain_traders_are__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-10_2023_07_10_mazars_comment_policy_is_not_uncertain_traders_are",
+      "parent_id": "breakwave_insights_insights_2023-07-10_2023_07_10_mazars_comment_policy_is_not_uncertain_traders_are__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nThe three things I would tell my clients this week\nLast week's volatility wasn't about the jobs market. Partly it was about taking some profit from the AI-driven rally.",
+      "keywords": [
+        "europe",
+        "india",
+        "are",
+        "interest",
+        "can",
+        "last",
+        "was",
+        "high"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1337,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

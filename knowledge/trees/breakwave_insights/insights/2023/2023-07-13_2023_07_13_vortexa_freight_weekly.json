@@ -1,0 +1,112 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly__root",
+  "doc_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly",
+  "parent_id": null,
+  "title": "Vortexa Freight Weekly",
+  "section_path": [
+    "Vortexa Freight Weekly"
+  ],
+  "section_path_text": "Vortexa Freight Weekly",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Dylan Simpson\n\nANALYSIS / EAST OF SUEZ / DIRTY\n\n\nChinese crude demand sees crude tankers slump across the board\nAframax & Suezmax utilisation towards China (RHS) vs towards the rest of the world\nOverall crude tanker demand towards China has declined almost 25% since May, mostly led by a drop in VLCC utilisation. However, other tanker classes are also being hit hard. Suezmax tankers have seen almost a 50% drop in tonne-miles towards China (mostly out of the Black Sea) and Aframax tonne-miles towards China have decreased by over 40% - mostly driven by sharp declines out of the Baltic.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "west_africa",
+    "europe",
+    "india",
+    "us_gulf",
+    "products",
+    "towards",
+    "crude",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 495,
+  "source_path": "reports/breakwave/2023/2023-07-13_vortexa-freight-weekly.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/13/vortexa-freight-weekly",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "dylan",
+        "simpson"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly__s03_chinese_crude_demand_sees_crude_tankers_slump_across_the_board",
+      "doc_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly__root",
+      "title": "Chinese crude demand sees crude tankers slump across the board",
+      "section_path": [
+        "Chinese crude demand sees crude tankers slump across the board"
+      ],
+      "section_path_text": "Chinese crude demand sees crude tankers slump across the board",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Aframax & Suezmax utilisation towards China (RHS) vs towards the rest of the world\nOverall crude tanker demand towards China has declined almost 25% since May, mostly led by a drop in VLCC utilisation. However, other tanker classes are also being hit hard.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "west_africa",
+        "europe",
+        "india",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 224,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly__s05_suezmax_utilisation_drops_and_availability_creeps_upwards_signalling_a_slowdown_on_tradeflows",
+      "doc_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly",
+      "parent_id": "breakwave_insights_insights_2023-07-13_2023_07_13_vortexa_freight_weekly__root",
+      "title": "Suezmax utilisation drops and availability creeps upwards, signalling a slowdown on tradeflows",
+      "section_path": [
+        "Suezmax utilisation drops and availability creeps upwards, signalling a slowdown on tradeflows"
+      ],
+      "section_path_text": "Suezmax utilisation drops and availability creeps upwards, signalling a slowdown on tradeflows",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Suezmax utilisation for selected flows\nSuezmax strength has started to subside on a global level, as utilisation is on a downward trajectory since late May. This is reflected both on the utilisation of the segment on both the \"mainstream\" trade as well as out of Russia.",
+      "keywords": [
+        "suezmax",
+        "west_africa",
+        "us_gulf",
+        "products",
+        "exports",
+        "utilisation",
+        "both",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

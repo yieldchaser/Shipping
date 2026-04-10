@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_iron_ore_2021-08-09_2021_08_09_mmi_daily_iron_ore_index_report_august_09_2021__root",
+  "doc_id": "hellenic_iron_ore_2021-08-09_2021_08_09_mmi_daily_iron_ore_index_report_august_09_2021",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report August 09 2021",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report August 09 2021"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report August 09 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 09/08/2021\nCE iron ore futures main contract dropped by 4.43%, and quotations in the physical port stock market declined by 20-25yuan/mt. Steel millsfrom North China showed relatively active intentions in inquiring and traders offered further concessions in transaction prices. PBF in Shandong market was closed at 1190yuan/mt, with price drop of 15-25yuan/mt, and that in Tangshan market was concluded at 1185-1190yuan/mt, fell by 30-45yuan/mt compared with last Friday.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "domestic",
+    "yuan/mt",
+    "production",
+    "was",
+    "when",
+    "again",
+    "inventory"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 267,
+  "source_path": "reports/hellenic/iron_ore/2021/2021-08-09_mmi-daily-iron-ore-index-report-august-09-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-09-2021",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2021-08-09_2021_08_09_mmi_daily_iron_ore_index_report_august_09_2021__s01_main",
+      "doc_id": "hellenic_iron_ore_2021-08-09_2021_08_09_mmi_daily_iron_ore_index_report_august_09_2021",
+      "parent_id": "hellenic_iron_ore_2021-08-09_2021_08_09_mmi_daily_iron_ore_index_report_august_09_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Chinese iron ore and steelmaking prices 09/08/2021\nCE iron ore futures main contract dropped by 4.43%, and quotations in the physical port stock market declined by 20-25yuan/mt. Steel millsfrom North China showed relatively active intentions in inquiring and traders offered further concessions in transaction prices.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "domestic",
+        "yuan/mt",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 265,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

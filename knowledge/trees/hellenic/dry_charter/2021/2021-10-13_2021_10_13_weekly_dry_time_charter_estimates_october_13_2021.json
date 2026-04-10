@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_dry_charter_2021-10-13_2021_10_13_weekly_dry_time_charter_estimates_october_13_2021__root",
+  "doc_id": "hellenic_dry_charter_2021-10-13_2021_10_13_weekly_dry_time_charter_estimates_october_13_2021",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, October 13 2021",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, October 13 2021"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, October 13 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize period rates remained firm due to low vessel availability, the pacific market contributed to the strength in TC rates as the recent public holidays added to the list of vessels waiting to deliver in port. A mixed week for the kamsarmax/panamax market as the Atlantic seemed to have found a floor despite there being little change in the fundamentals. The Pacific began to gain strength as it returned to work with rates improving on last done.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "atlantic",
+    "pacific",
+    "coal",
+    "strength",
+    "added",
+    "availability",
+    "began",
+    "being"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 145,
+  "source_path": "reports/hellenic/dry_charter/2021/2021-10-13_weekly-dry-time-charter-estimates-october-13-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-october-13-2021",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2021-10-13_2021_10_13_weekly_dry_time_charter_estimates_october_13_2021__s01_main",
+      "doc_id": "hellenic_dry_charter_2021-10-13_2021_10_13_weekly_dry_time_charter_estimates_october_13_2021",
+      "parent_id": "hellenic_dry_charter_2021-10-13_2021_10_13_weekly_dry_time_charter_estimates_october_13_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize period rates remained firm due to low vessel availability, the pacific market contributed to the strength in TC rates as the recent public holidays added to the list of vessels waiting to deliver in port. A mixed week for the kamsarmax/panamax market as the Atlantic seemed to have found a floor despite there being little change in the fundamentals.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "atlantic",
+        "pacific",
+        "coal",
+        "strength"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

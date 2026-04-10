@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__root",
+  "doc_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix",
+  "parent_id": null,
+  "title": "The Fix Global Market Update From Shipfix",
+  "section_path": [
+    "The Fix Global Market Update From Shipfix"
+  ],
+  "section_path_text": "The Fix Global Market Update From Shipfix",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nMixed fortunes across the dry bulk vessel segments contributed to a marginal loss for the Baltic Dry Index yesterday. A solid start to the year for the Capesizes has offset weakness in the mid and small-sized segments. Falling temperatures in parts of the Northern Hemisphere contributed to gains for coal on Thursday.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "atlantic",
+    "europe",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1738,
+  "source_path": "reports/breakwave/2024/2024-01-05_the-fix-global-market-update-from-shipfix.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/1/5/the-fix-global-market-update-from-shipfix",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix",
+      "parent_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Mixed fortunes across the dry bulk vessel segments contributed to a marginal loss for the Baltic Dry Index yesterday. A solid start to the year for the Capesizes has offset weakness in the mid and small-sized segments.",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "coal",
+        "contributed",
+        "amid",
+        "base",
+        "bergman"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 87,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix",
+      "parent_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The past few weeks have been challenging for the China bulls. Much of the data released have suggested that the world's second-largest economy will continue to face significant headwinds.",
+      "keywords": [
+        "china",
+        "data",
+        "economy",
+        "expectations",
+        "but",
+        "chinese",
+        "contraction",
+        "fell"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 281,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix",
+      "parent_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "After recovering some of the losses sustained during December's final week on Wednesday amid rising tensions in the Middle East, crude oil prices lost their positive momentum yesterday. Rising US inventories signalled weaker demand and contributed to the shift in sentiments.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 528,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix",
+      "parent_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index has remained close to the levels recorded before the Christmas break, as daily moves in the new year have been modest. However, the developments for the headline index mask the diverging fortunes that the different tonnage segments have faced over the past few days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "atlantic",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 402,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix",
+      "parent_id": "breakwave_insights_insights_2024-01-05_2024_01_05_the_fix_global_market_update_from_shipfix__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "After an absence of more than one and a half years, China reintroduced tariffs on Russian coal imports at the beginning of the month. The levies were suspended in May 2022 to safeguard against supply disruptions in the wake of the Russian invasion of Ukraine.",
+      "keywords": [
+        "china",
+        "australia",
+        "coal",
+        "russian",
+        "imports",
+        "chinese",
+        "volumes",
+        "during"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 412,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

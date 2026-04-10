@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know__root",
+  "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know",
+  "parent_id": null,
+  "title": "Did You Know",
+  "section_path": [
+    "Did You Know"
+  ],
+  "section_path_text": "Did You Know",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "1.Seawise Giant\nSeawise Giant was the longest self-propelled ship in history, built in 1974-1979. The heaviest self-propelled ship of any kind, and with a laden draft of 24.6 m (81 ft), she was incapable of navigating the English Channel,[5] the Suez Canal or the Panama Canal. She was sunk in 1988 during the Iran-Iraq War, but was later salvaged and restored to service.",
+  "keywords": [
+    "crude_oil",
+    "was",
+    "tonnage",
+    "built",
+    "batillus",
+    "class",
+    "deadweight",
+    "giant",
+    "gross",
+    "guillaumat",
+    "its",
+    "pierre"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 257,
+  "source_path": "reports/breakwave/2023/2023-03-24_did-you-know.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/3/24/did-you-know",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know__s01_1_seawise_giant",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know__root",
+      "title": "1.Seawise Giant",
+      "section_path": [
+        "1.Seawise Giant"
+      ],
+      "section_path_text": "1.Seawise Giant",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Seawise Giant was the longest self-propelled ship in history, built in 1974-1979. The heaviest self-propelled ship of any kind, and with a laden draft of 24.6 m (81 ft), she was incapable of navigating the English Channel,[5] the Suez Canal or the Panama Canal.",
+      "keywords": [
+        "was",
+        "self-propelled",
+        "she",
+        "ship",
+        "any",
+        "built",
+        "but",
+        "canal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know__s02_2_pierre_guillaumat",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know__root",
+      "title": "2.Pierre Guillaumat",
+      "section_path": [
+        "2.Pierre Guillaumat"
+      ],
+      "section_path_text": "2.Pierre Guillaumat",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Built in 1977, Pierre Guillaumat was one of four Batillus class supertankers. It had a length of 414.23 m (1,359 ft), a deadweight tonnage of 555,051, a gross tonnage of 274,837 and was named after the French politician.",
+      "keywords": [
+        "tonnage",
+        "was",
+        "after",
+        "batillus",
+        "built",
+        "class",
+        "deadweight",
+        "four"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 66,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know__s03_3_prairial",
+      "doc_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know",
+      "parent_id": "breakwave_insights_insights_2023-03-24_2023_03_24_did_you_know__root",
+      "title": "3.Prairial",
+      "section_path": [
+        "3.Prairial"
+      ],
+      "section_path_text": "3.Prairial",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Similar to the other Batillus class oil tankers, Prairial was built in the Chantiers de l'Atlantique shipyard located in Saint-Nazaire, France. It measures an impressive 414.22 m or 1,359.0 feet in length.",
+      "keywords": [
+        "crude_oil",
+        "was",
+        "its",
+        "tonnage",
+        "atlantique",
+        "batillus",
+        "built",
+        "chantiers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 79,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

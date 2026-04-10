@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2021-02-15_2021_02_17_cargo_demand_and_vessel_supply_dynamics_remain_favorable_for__root",
+  "doc_id": "breakwave_insights_insights_2021-02-15_2021_02_17_cargo_demand_and_vessel_supply_dynamics_remain_favorable_for",
+  "parent_id": null,
+  "title": "Cargo Demand And Vessel Supply Dynamics Remain Favorable For Dry Bulk Market",
+  "section_path": [
+    "Cargo Demand And Vessel Supply Dynamics Remain Favorable For Dry Bulk Market"
+  ],
+  "section_path_text": "Cargo Demand And Vessel Supply Dynamics Remain Favorable For Dry Bulk Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nDry bulk rates were mixed last week, with capesize rates declining while rates in the other segments all increased. Of note, though, is that capesize rates were basically flat on Friday and capesize FFA values also found significant support during the second half the week. Going forward, we remain bullish for the overall dry bulk market for this year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "handysize",
+    "china",
+    "coal",
+    "grain",
+    "vessels",
+    "delivery",
+    "last",
+    "volume",
+    "year",
+    "handymax"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 548,
+  "source_path": "reports/breakwave/2021/2021-02-17_cargo-demand-and-vessel-supply-dynamics-remain-favorable-for.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2021/2/15/cargo-demand-and-vessel-supply-dynamics-remain-favorable-for-dry-bulk-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2021-02-15_2021_02_17_cargo_demand_and_vessel_supply_dynamics_remain_favorable_for__s01_main",
+      "doc_id": "breakwave_insights_insights_2021-02-15_2021_02_17_cargo_demand_and_vessel_supply_dynamics_remain_favorable_for",
+      "parent_id": "breakwave_insights_insights_2021-02-15_2021_02_17_cargo_demand_and_vessel_supply_dynamics_remain_favorable_for__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nDry bulk rates were mixed last week, with capesize rates declining while rates in the other segments all increased. Of note, though, is that capesize rates were basically flat on Friday and capesize FFA values also found significant support during the second half the week.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "china",
+        "coal",
+        "grain",
+        "vessels",
+        "delivery"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 546,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

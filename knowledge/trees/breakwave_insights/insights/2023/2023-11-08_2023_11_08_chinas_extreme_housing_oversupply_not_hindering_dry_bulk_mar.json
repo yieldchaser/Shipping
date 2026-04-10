@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2023-11-08_2023_11_08_chinas_extreme_housing_oversupply_not_hindering_dry_bulk_mar__root",
+  "doc_id": "breakwave_insights_insights_2023-11-08_2023_11_08_chinas_extreme_housing_oversupply_not_hindering_dry_bulk_mar",
+  "parent_id": null,
+  "title": "Chinas Extreme Housing Oversupply Not Hindering Dry Bulk Market",
+  "section_path": [
+    "Chinas Extreme Housing Oversupply Not Hindering Dry Bulk Market"
+  ],
+  "section_path_text": "Chinas Extreme Housing Oversupply Not Hindering Dry Bulk Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nSeptember ended with 645 million square meters of floor space available in China's commercial buildings (which includes residential buildings). This is down slightly from the 648 million square meters of floor space that was available at the end of August, but compared to the end of the last several years, this 645 million square meters of floor space continues to mark the largest amount available since 2016. As we have continued to stress in Commodore's Weekly China Reports, a huge excess of homes remains available in China's housing market.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "coal",
+    "steel",
+    "million",
+    "imports",
+    "tons",
+    "available",
+    "are",
+    "floor",
+    "iron",
+    "meters"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 346,
+  "source_path": "reports/breakwave/2023/2023-11-08_chinas-extreme-housing-oversupply-not-hindering-dry-bulk-mar.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/11/8/chinas-extreme-housing-oversupply-not-hindering-dry-bulk-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-11-08_2023_11_08_chinas_extreme_housing_oversupply_not_hindering_dry_bulk_mar__s01_main",
+      "doc_id": "breakwave_insights_insights_2023-11-08_2023_11_08_chinas_extreme_housing_oversupply_not_hindering_dry_bulk_mar",
+      "parent_id": "breakwave_insights_insights_2023-11-08_2023_11_08_chinas_extreme_housing_oversupply_not_hindering_dry_bulk_mar__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nSeptember ended with 645 million square meters of floor space available in China's commercial buildings (which includes residential buildings). This is down slightly from the 648 million square meters of floor space that was available at the end of August, but compared to the end of the last several years, this 645 million square meters of floor space continues to mark the largest amount available since 2016.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "coal",
+        "steel",
+        "million",
+        "imports",
+        "tons",
+        "available"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 344,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

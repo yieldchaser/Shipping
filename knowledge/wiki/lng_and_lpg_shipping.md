@@ -3,7 +3,7 @@ categories:
 - gas
 document_count: 125
 evidence_count: 250
-generated_at: '2026-04-10T02:02:05Z'
+generated_at: '2026-04-10T14:49:32Z'
 latest_evidence_date: '2026-03-27'
 page_type: topic_wiki
 related_topics:
@@ -31,8 +31,8 @@ Gas carrier market structure, LNG and LPG trade patterns, route disruptions, and
 - 2026-03-06 | baltic gas | LPG: With ongoing tensions surrounding Iran, the LPG market experienced a mixed week. The West saw a sharp increase at the beginning of the week before gradually softening as sentiment eased toward the end of the period. [doc_id: baltic_gas_2026-03-06_2026_03_06_gas_report_week_10_gas | section_id: baltic_gas_2026-03-06_2026_03_06_gas_report_week_10_gas__s02_lpg | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2023-09-15 to 2026-03-27 across 4 calendar years.
-- Most-covered years: 2024: 100, 2025: 98, 2023: 28
+- Coverage span: 2023-09-08 to 2026-03-27 across 4 calendar years.
+- Most-covered years: 2024: 98, 2025: 98, 2023: 30
 - Recurring evidence markers: gas, lng, lpg, atlantic, spot, europe
 
 ## Cross-Source View

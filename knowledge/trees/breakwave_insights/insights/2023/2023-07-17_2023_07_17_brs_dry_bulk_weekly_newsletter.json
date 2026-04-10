@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter__root",
+  "doc_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter",
+  "parent_id": null,
+  "title": "Brs Dry Bulk Weekly Newsletter",
+  "section_path": [
+    "Brs Dry Bulk Weekly Newsletter"
+  ],
+  "section_path_text": "Brs Dry Bulk Weekly Newsletter",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "1H-23 Dry Bulk Fleet Recap\nIn the absence of an unexpected curveball(s), such as a sudden spike in fresh shipyard capacity or a unified consensus in fuel regulations, the supply narrative of dry bulkers (since 2018) is one of muted growth (see chart below). As fresh ordering gradually dissipated, the incumbent dry bulk orderbook represents just 8.13% of the active bulk fleet. By the end of 2023, and considering slippage (deliveries delayed or canceled), we anticipate a historically low net growth rate of 2.5%-3.0%.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "lng",
+    "container",
+    "china",
+    "japan",
+    "gas",
+    "fleet",
+    "dwt",
+    "vessel",
+    "vessels"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1389,
+  "source_path": "reports/breakwave/2023/2023-07-17_brs-dry-bulk-weekly-newsletter.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2023/7/17/brs-dry-bulk-weekly-newsletter",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter__s01_1h_23_dry_bulk_fleet_recap",
+      "doc_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter__root",
+      "title": "1H-23 Dry Bulk Fleet Recap",
+      "section_path": [
+        "1H-23 Dry Bulk Fleet Recap"
+      ],
+      "section_path_text": "1H-23 Dry Bulk Fleet Recap",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the absence of an unexpected curveball(s), such as a sudden spike in fresh shipyard capacity or a unified consensus in fuel regulations, the supply narrative of dry bulkers (since 2018) is one of muted growth (see chart below). As fresh ordering gradually dissipated, the incumbent dry bulk orderbook represents just 8.13% of the active bulk fleet.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "lng",
+        "container",
+        "china",
+        "japan",
+        "gas",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 292,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter__s02_1_vessels_above_100_000_dwt",
+      "doc_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter__root",
+      "title": "1. Vessels above 100,000 dwt",
+      "section_path": [
+        "1. Vessels above 100,000 dwt"
+      ],
+      "section_path_text": "1. Vessels above 100,000 dwt",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Looking at the active large-sized vessel fleet, which includes Babycape to VLOC (100K dwt & above), we can see that capacity is overwhelmingly dominated by Capesize (160 to 220K), followed by VLOC (220K & above). The fleet remains relatively young, with only 11.5% falling under the \"15 & above\" age bracket.",
+      "keywords": [
+        "capesize",
+        "age",
+        "above",
+        "carriers",
+        "fleet",
+        "had",
+        "mln",
+        "vloc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 384,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter__s03_2_vessels_between_68_000_and_100_000_dwt",
+      "doc_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter__root",
+      "title": "2. Vessels between 68,000 and 100,000 dwt",
+      "section_path": [
+        "2. Vessels between 68,000 and 100,000 dwt"
+      ],
+      "section_path_text": "2. Vessels between 68,000 and 100,000 dwt",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "For the middle-sized vessel fleet, which includes Panamax to Over Panamax (68,000 to 100,000 dwt), we can see that Kamsarmaxes have surpassed Panamax vessels in terms of total deadweight tonnage, further solidifying its leading position in this middle-sized vessel fleet sector. There is a significant divergence within this subsegment between the older and younger fleets.",
+      "keywords": [
+        "panamax",
+        "fleet",
+        "scrapping",
+        "vessels",
+        "can",
+        "kamsarmax",
+        "middle-sized",
+        "mln"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 278,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter__s04_3_vessels_between_40_000_and_68_000_dwt",
+      "doc_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter",
+      "parent_id": "breakwave_insights_insights_2023-07-17_2023_07_17_brs_dry_bulk_weekly_newsletter__root",
+      "title": "3. Vessels between 40,000 and 68,000 dwt",
+      "section_path": [
+        "3. Vessels between 40,000 and 68,000 dwt"
+      ],
+      "section_path_text": "3. Vessels between 40,000 and 68,000 dwt",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "For the small-sized vessel fleet, which includes Supramax to Ultramax (50,000 to 68,000 dwt), it presents a similar situation as that of the middle-sized vessel fleet. Slightly slower in the pace of renewal and replacement for small-sized fleets compared to mid-sized fleets, Supramax remains the main staple in the small-sized vessel fleet sector and occupies a larger share of the fleet (58.3%).",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "fleet",
+        "vessel",
+        "small-sized",
+        "year",
+        "coming"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 377,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
