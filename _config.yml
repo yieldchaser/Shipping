@@ -1,0 +1,8 @@
+title: Shipping
+
+# GitHub Pages uses Jekyll by default for this repository.
+# The knowledge corpus contains operational markdown/frontmatter files
+# (including placeholder dates like 0000-00-00) that are not website pages.
+# Excluding the corpus prevents Pages build failures while keeping dashboard files served.
+exclude:
+  - knowledge/
