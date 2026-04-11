@@ -3,7 +3,7 @@
 ## Your Environment
 - Repo: `C:\Users\Dell\Github\Shipping`
 - Agent: Codex
-- Gemini API Key: `AIzaSyCIXEZtsD86VZAy74OKNxgSfd7MDJ3EDL8`
+- Gemini API Key: `<REDACTED>`
 - Python: 3.11 (confirmed in status bar)
 
 ## Your Mission
@@ -74,7 +74,7 @@ knowledge/
 
 Create `.env` in repo root:
 ```
-GEMINI_API_KEY=AIzaSyCIXEZtsD86VZAy74OKNxgSfd7MDJ3EDL8
+GEMINI_API_KEY=<YOUR_GEMINI_API_KEY>
 ```
 
 Ensure `.gitignore` contains `.env` — add it if missing.
@@ -568,7 +568,7 @@ jobs:
 
 Using the GitHub CLI or direct API call, add the secret to the repo:
 ```bash
-gh secret set GEMINI_API_KEY --body "AIzaSyCIXEZtsD86VZAy74OKNxgSfd7MDJ3EDL8" --repo yieldchaser/Shipping
+gh secret set GEMINI_API_KEY --body "<YOUR_GEMINI_API_KEY>" --repo yieldchaser/Shipping
 ```
 If `gh` CLI is not available, print a reminder to the user to add it manually at:
 `github.com/yieldchaser/Shipping → Settings → Secrets → Actions → New repository secret`
