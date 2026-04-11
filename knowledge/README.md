@@ -98,14 +98,24 @@ Important caveats:
 - OCR for raster images is best-effort. If OCR dependencies are missing, the image is still ingested as a linked image section with metadata/reference.
 
 
-## 4) Gemini Behavior And 429 Protection
+## 4) LLM Provider Behavior And 429 Protection
 
-Gemini calls are controlled in `scripts/process_knowledge.py` with:
+LLM calls are controlled in `scripts/process_knowledge.py` with provider chaining:
+
+- `Gemini -> Ollama -> heuristic extraction`
+
+Gemini controls:
 
 - request pacing (`GEMINI_MIN_INTERVAL_SEC`)
 - retry/backoff/jitter (`GEMINI_MAX_RETRIES`, `GEMINI_BACKOFF_BASE_SEC`, `GEMINI_MAX_BACKOFF_SEC`)
 - retry-after parsing for rate-limit responses
 - model override via `GEMINI_MODEL` (default `gemini-2.0-flash`)
+
+Ollama controls:
+
+- base URL / key / model (`OLLAMA_BASE_URL`, `OLLAMA_API_KEY`, `OLLAMA_MODEL`)
+- request pacing (`OLLAMA_MIN_INTERVAL_SEC`)
+- retry/backoff/jitter (`OLLAMA_MAX_RETRIES`, `OLLAMA_BACKOFF_BASE_SEC`, `OLLAMA_MAX_BACKOFF_SEC`)
 
 Workflow env defaults are set in:
 
@@ -117,6 +127,7 @@ Why AI Studio may show no new calls:
 - run used `--no-llm`
 - run skipped all unchanged docs
 - `GEMINI_API_KEY` missing in runtime environment
+- Gemini failed and fallback provider handled the run
 
 
 ## 5) Online Trigger Runbook
@@ -189,4 +200,3 @@ Knowledge pipeline dependencies are in `requirements_knowledge.txt`, including:
 
 - `pdfplumber`, `beautifulsoup4`, `lxml`, `tiktoken`, `python-frontmatter`, `python-dotenv`, `google-generativeai`
 - `pandas`, `openpyxl`, `Pillow` for robust linked spreadsheet/image handling
-

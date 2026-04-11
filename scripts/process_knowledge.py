@@ -4,6 +4,7 @@ import os, re, json, time, hashlib, argparse, traceback, shutil, sys, warnings, 
 from pathlib import Path
 from datetime import datetime, timezone
 from urllib.parse import urlparse
+from urllib import request as urllib_request, error as urllib_error
 
 import pdfplumber
 from bs4 import BeautifulSoup
@@ -24,6 +25,14 @@ REPORTS_ROOT = REPO_ROOT / "reports"
 KNOWLEDGE = REPO_ROOT / "knowledge"
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY")
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
+OLLAMA_API_KEY = os.environ.get("OLLAMA_API_KEY")
+OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "").strip()
+OLLAMA_BASE_URL = (os.environ.get("OLLAMA_BASE_URL") or "").strip().rstrip("/")
+if OLLAMA_BASE_URL and not OLLAMA_BASE_URL.endswith("/api"):
+    if OLLAMA_BASE_URL.endswith("/v1"):
+        OLLAMA_BASE_URL = OLLAMA_BASE_URL[:-3] + "/api"
+    else:
+        OLLAMA_BASE_URL = OLLAMA_BASE_URL + "/api"
 TOKENIZER = tiktoken.get_encoding("cl100k_base")
 
 if GEMINI_KEY and genai is not None:
@@ -67,7 +76,12 @@ GEMINI_MIN_INTERVAL_SEC = float(os.environ.get("GEMINI_MIN_INTERVAL_SEC", "2.5")
 GEMINI_MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "6"))
 GEMINI_BACKOFF_BASE_SEC = float(os.environ.get("GEMINI_BACKOFF_BASE_SEC", "3.0"))
 GEMINI_MAX_BACKOFF_SEC = float(os.environ.get("GEMINI_MAX_BACKOFF_SEC", "60.0"))
+OLLAMA_MIN_INTERVAL_SEC = float(os.environ.get("OLLAMA_MIN_INTERVAL_SEC", "2.5"))
+OLLAMA_MAX_RETRIES = int(os.environ.get("OLLAMA_MAX_RETRIES", "6"))
+OLLAMA_BACKOFF_BASE_SEC = float(os.environ.get("OLLAMA_BACKOFF_BASE_SEC", "3.0"))
+OLLAMA_MAX_BACKOFF_SEC = float(os.environ.get("OLLAMA_MAX_BACKOFF_SEC", "60.0"))
 _last_gemini_call_ts = 0.0
+_last_ollama_call_ts = 0.0
 
 BREAKWAVE_DRY_FIELDS = [
     "China Steel Production",
@@ -731,6 +745,104 @@ def call_gemini(prompt: str, retries: int | None = None) -> str | None:
                 return None
 
 
+def ollama_available() -> bool:
+    return bool(OLLAMA_BASE_URL and OLLAMA_MODEL)
+
+
+def llm_available() -> bool:
+    return GEMINI is not None or ollama_available()
+
+
+def _ollama_sleep_interval():
+    global _last_ollama_call_ts
+    now = time.monotonic()
+    elapsed = now - _last_ollama_call_ts
+    wait_for = OLLAMA_MIN_INTERVAL_SEC - elapsed
+    if wait_for > 0:
+        time.sleep(wait_for)
+
+
+def _call_ollama_once(prompt: str) -> str | None:
+    if not ollama_available():
+        return None
+    payload = {
+        "model": OLLAMA_MODEL,
+        "messages": [{"role": "user", "content": prompt}],
+        "stream": False,
+    }
+    body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    headers = {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+    }
+    if OLLAMA_API_KEY:
+        headers["Authorization"] = f"Bearer {OLLAMA_API_KEY}"
+
+    req = urllib_request.Request(
+        f"{OLLAMA_BASE_URL}/chat",
+        data=body,
+        headers=headers,
+        method="POST",
+    )
+    try:
+        with urllib_request.urlopen(req, timeout=90) as response:
+            raw = response.read().decode("utf-8", errors="replace")
+    except urllib_error.HTTPError as exc:
+        retry_after = exc.headers.get("Retry-After") if exc.headers else None
+        err_body = exc.read().decode("utf-8", errors="replace")
+        details = err_body or str(exc)
+        if retry_after:
+            details = f"{details} retry_after {retry_after}"
+        raise RuntimeError(f"Ollama HTTP {exc.code}: {details}") from exc
+    except urllib_error.URLError as exc:
+        raise RuntimeError(f"Ollama connection error: {exc}") from exc
+
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Ollama returned non-JSON payload: {raw[:200]}") from exc
+
+    msg = data.get("message") or {}
+    text = norm_space(msg.get("content"))
+    return text or None
+
+
+def call_ollama(prompt: str, retries: int | None = None) -> str | None:
+    if not ollama_available():
+        return None
+    retries = retries or OLLAMA_MAX_RETRIES
+    global _last_ollama_call_ts
+    for attempt in range(retries):
+        try:
+            _ollama_sleep_interval()
+            text = _call_ollama_once(prompt)
+            _last_ollama_call_ts = time.monotonic()
+            return text
+        except Exception as exc:
+            _last_ollama_call_ts = time.monotonic()
+            if attempt < retries - 1:
+                exc_text = str(exc)
+                retry_after = _parse_retry_after(exc_text)
+                if retry_after is not None:
+                    delay = retry_after
+                elif _is_rate_limit_error(exc_text):
+                    delay = OLLAMA_BACKOFF_BASE_SEC * (2 ** attempt)
+                else:
+                    delay = OLLAMA_BACKOFF_BASE_SEC * (attempt + 1)
+                delay = min(delay, OLLAMA_MAX_BACKOFF_SEC)
+                delay += random.uniform(0.1, 0.9)
+                time.sleep(delay)
+            else:
+                return None
+
+
+def call_llm(prompt: str) -> str | None:
+    primary = call_gemini(prompt)
+    if primary:
+        return primary
+    return call_ollama(prompt)
+
+
 def extract_json_payload(text: str) -> dict | None:
     if not text:
         return None
@@ -748,7 +860,7 @@ def extract_json_payload(text: str) -> dict | None:
 
 
 def run_doc_llm(text: str, source: str, category: str, signal_keys: list[str] | None = None) -> dict:
-    if GEMINI is None:
+    if not llm_available():
         return {}
     prompt = "Return strict JSON with keys: summary, keywords, themes, key_entities, market_tone"
     if signal_keys:
@@ -758,7 +870,7 @@ def run_doc_llm(text: str, source: str, category: str, signal_keys: list[str] | 
         "market_tone should be a short snake_case string, and missing values should be null. "
         f"Source={source}, category={category}. Text:\n{text[:6000]}"
     )
-    payload = extract_json_payload(call_gemini(prompt))
+    payload = extract_json_payload(call_llm(prompt))
     return payload or {}
 
 
@@ -2130,12 +2242,12 @@ def main():
         ensure_layout()
 
         if args.derived_only:
-            build_derived(llm_enabled=GEMINI is not None and not args.no_llm)
+            build_derived(llm_enabled=llm_available() and not args.no_llm)
             print("[DERIVED] rebuilt")
             return 0
 
         build_sources_registry()
-        llm_enabled = GEMINI is not None and not args.no_llm
+        llm_enabled = llm_available() and not args.no_llm
         manifest_rows = prune_missing_sources(load_manifest_rows())
         write_manifest_rows(manifest_rows)
         processed_index = latest_rows_by_source(manifest_rows)

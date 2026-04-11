@@ -31,7 +31,7 @@ The repository now maintains itself through six GitHub Actions workflows:
 
 All six workflows are **idempotent** — safe to re-run at any time. The data-update jobs keep the dashboard fresh, `report_ingest.yml` keeps the source archive fresh, and the knowledge jobs keep the research corpus fresh. Each workflow pulls the latest remote state before writing to reduce push conflicts.
 
-The dashboard itself still fetches everything client-side at page load — no backend, no browser-side secrets. The only secret used in automation is `GEMINI_API_KEY`, consumed server-side by the knowledge pipeline for Breakwave enrichment and fallback extraction.
+The dashboard itself still fetches everything client-side at page load — no backend, no browser-side secrets. Knowledge automation uses server-side secrets only (`GEMINI_API_KEY` plus optional `OLLAMA_BASE_URL` / `OLLAMA_API_KEY` / `OLLAMA_MODEL` fallback settings).
 
 ---
 
@@ -421,7 +421,7 @@ As a zero-infrastructure platform processing thousands of data points client-sid
 - `--source` supports `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, `books`, or `all`
 - Skips already-processed documents unless a rebuild or schema upgrade is required
 - Reuses existing enriched frontmatter during structural upgrades so tree/index migrations do not re-spend LLM calls unnecessarily
-- Uses Gemini only for server-side Breakwave enrichment and regex-fallback signal extraction
+- Uses provider chaining for server-side Breakwave enrichment (`Gemini -> Ollama -> heuristic extraction`)
 - Preserves source attribution via stable `doc_id`, `source_path`, section IDs, page-aware chunk metadata, topic-evidence citations, and knowledge-health reports
 
 ### `scripts/validate_knowledge.py`
@@ -553,5 +553,5 @@ pdfplumber · beautifulsoup4 · lxml · google-generativeai · tiktoken · pytho
 - The FFA term structure chart is only as fresh as the last `bdry_holdings.csv` / `bwet_holdings.csv` commit — check the commit timestamp to confirm
 - `Shipping_Main.xlsm` is an offline Excel workbook for ad-hoc analysis consuming the same CSV data
 - Capesize went briefly negative in 2020; the yearly Range % uses `(max−min)/avg` rather than `(max−min)/min` to avoid nonsensical outputs in such years
-- `GEMINI_API_KEY` is only needed for knowledge-workflow enrichment and local LLM-enabled Breakwave runs; the dashboard does not expose or require it
+- `GEMINI_API_KEY` is primary for knowledge-workflow enrichment; `OLLAMA_BASE_URL` / `OLLAMA_API_KEY` / `OLLAMA_MODEL` can be set for automatic fallback. The dashboard does not expose or require any LLM secret
 - Knowledge processing now compiles `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, and `books`.
