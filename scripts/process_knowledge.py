@@ -782,9 +782,14 @@ def format_fundamentals_markdown(fundamentals: dict) -> str:
 
 
 def source_hash(path: Path) -> str:
-    stat = path.stat()
-    payload = f"{relpath(path)}:{stat.st_size}:{int(stat.st_mtime)}"
-    return hashlib.sha1(payload.encode("utf-8")).hexdigest()
+    # Use content hash (not filesystem mtime) so incremental behavior is stable
+    # across fresh checkouts in CI where mtimes are recreated.
+    digest = hashlib.sha1()
+    digest.update(relpath(path).encode("utf-8"))
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
 
 
 def merge_existing_theme_data(theme_data: dict, existing_metadata: dict | None) -> dict:

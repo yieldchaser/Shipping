@@ -40,8 +40,13 @@ jobs:
           if [ ! -f "$MANIFEST" ]; then
             echo "new=true" >> "$GITHUB_OUTPUT"
           else
-            NEWER="$(find reports/ \( -name "*.pdf" -o -name "*.html" \) -newer "$MANIFEST" -print -quit 2>/dev/null)"
-            [ -n "$NEWER" ] && echo "new=true" >> "$GITHUB_OUTPUT" || echo "new=false" >> "$GITHUB_OUTPUT"
+            REPORTS_TS="$(git log -1 --format=%ct -- reports 2>/dev/null || echo 0)"
+            MANIFEST_TS="$(git log -1 --format=%ct -- "$MANIFEST" 2>/dev/null || echo 0)"
+            if [ "$REPORTS_TS" -gt "$MANIFEST_TS" ]; then
+              echo "new=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "new=false" >> "$GITHUB_OUTPUT"
+            fi
           fi
 
       - name: Process new reports
