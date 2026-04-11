@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 06/12/2024\nToday, iron ore ﬂuctuated downward throughout the day, with the most-traded contract I2501 closing at 797.5 yuan/mt, down 0.93% for the day.Traders showed moderate willingness to sell; steel mills remained cautious, with some planning tenders. In Shandong, mainstream transaction prices for PB fines were 780-785 yuan/mt, down 0-5 yuan/mt from yesterday; in Tangshan, transaction prices for PB fines were 795-800 yuan/mt, down 5-10 yuan/mt from yesterday. Looking ahead to next week, the fundamentals of iron ore are expected to remain stable.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
-    "yuan/mt",
+    "fines",
     "iron",
     "ore",
-    "prices",
-    "down",
-    "are",
-    "fines",
-    "main",
-    "next"
+    "dec"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 270,
+  "token_count": 11741,
   "source_path": "reports/hellenic/iron_ore/2024/2024-12-06_mmi-daily-iron-ore-index-report-december-06-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-december-06-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 268,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2024-12-06_2024_12_06_mmi_daily_iron_ore_index_report_december_06_2024__s02_linked_asset_2024_12_06_mmi_daily_iron_ore_report_for_6th_december_2024_pdf",
+      "doc_id": "hellenic_iron_ore_2024-12-06_2024_12_06_mmi_daily_iron_ore_index_report_december_06_2024",
+      "parent_id": "hellenic_iron_ore_2024-12-06_2024_12_06_mmi_daily_iron_ore_index_report_december_06_2024__root",
+      "title": "Linked asset: 2024-12-06_MMi-Daily-Iron-Ore-Report-for-6th-December-2024.pdf",
+      "section_path": [
+        "Linked asset: 2024-12-06_MMi-Daily-Iron-Ore-Report-for-6th-December-2024.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-12-06_MMi-Daily-Iron-Ore-Report-for-6th-December-2024.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2024-12-06_MMi-Daily-Iron-Ore-Report-for-6th-December-2024.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Dec 6th, 2024\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n793 905 711\n-2 -0.25% -2.00 -0.22% -1 -0.14%\nDec 6th, 2024 Dec 6th, 2024 Dec 6th, 2024\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n107.75 116.94 900\n-0.20 -0.19% 0.54 0.46% 5 0.56%\nDec 6th, 2024 Dec 6th, 2024 Week Ending Dec 6th, 2024\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2501 (Jan) RMB/t (3pm close) January 25 USD/dmt RB2501 (Jan) RMB/t\n797.50 103.20 3311\n-3.00 -0.37% -0.65 -0.63% -30 -0.90%\nDec 6th, 2024 (3pm close) Dec 6th, 2024 (5.30 pm Print) Dec 6th, 2024 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n17.51 7.38 3403\n-0.62 -3",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11440,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "panamax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "recycling",
-    "ship",
-    "certainly",
-    "global",
-    "markets",
-    "peace",
-    "tonnage"
+    "singapore",
+    "japan",
+    "grain",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 666,
+  "token_count": 7363,
   "source_path": "reports/hellenic/demolition/2025/2025-10-13_gms-week-41-whoananza.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-41-whoananza",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 664,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-10-13_2025_10_13_gms_week_41_whoananza__s02_linked_asset_2025_10_13_ship_recycling_market_insight_week_41_10_10_2025_whoananza_pdf",
+      "doc_id": "hellenic_demolition_2025-10-13_2025_10_13_gms_week_41_whoananza",
+      "parent_id": "hellenic_demolition_2025-10-13_2025_10_13_gms_week_41_whoananza__root",
+      "title": "Linked asset: 2025-10-13_Ship-recycling-market-insight-Week-41-10-10-2025-Whoananza.pdf",
+      "section_path": [
+        "Linked asset: 2025-10-13_Ship-recycling-market-insight-Week-41-10-10-2025-Whoananza.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-10-13_Ship-recycling-market-insight-Week-41-10-10-2025-Whoananza.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-10-13_Ship-recycling-market-insight-Week-41-10-10-2025-Whoananza.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nOctober 10th, 2025\n1\n\"If you're not positive energy, you're negative energy.\"\nWeek 41\nVolume 277, Issue 1206 - Marc Cuban\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6662,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

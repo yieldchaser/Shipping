@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "supramax",
+    "handysize",
     "container",
+    "china",
+    "brazil",
     "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "are",
-    "ship",
-    "yards",
-    "all"
+    "singapore",
+    "japan",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 715,
+  "token_count": 7049,
   "source_path": "reports/hellenic/demolition/2025/2025-10-06_gms-week-40-halloween-already.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-40-halloween-already",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 713,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-10-06_2025_10_06_gms_week_40_halloween_already__s02_linked_asset_2025_10_06_ship_recycling_market_insight_week_40_10_03_2025_halloween_already_pdf",
+      "doc_id": "hellenic_demolition_2025-10-06_2025_10_06_gms_week_40_halloween_already",
+      "parent_id": "hellenic_demolition_2025-10-06_2025_10_06_gms_week_40_halloween_already__root",
+      "title": "Linked asset: 2025-10-06_Ship-recycling-market-insight-Week-40-10-03-2025-Halloween_Already.pdf",
+      "section_path": [
+        "Linked asset: 2025-10-06_Ship-recycling-market-insight-Week-40-10-03-2025-Halloween_Already.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-10-06_Ship-recycling-market-insight-Week-40-10-03-2025-Halloween_Already.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-10-06_Ship-recycling-market-insight-Week-40-10-03-2025-Halloween_Already.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nOctober 3rd, 2025\n1\nI have stood on a mountain of \"no's\" for one \"yes\". Week 40\nVolume 277, Issue 1205 - Barbara Smith\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "brazil",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6299,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

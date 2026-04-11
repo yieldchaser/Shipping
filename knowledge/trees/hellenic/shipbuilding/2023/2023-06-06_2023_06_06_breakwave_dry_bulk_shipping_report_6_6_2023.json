@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 6.6.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 06/06/2023\nShifting tides in the Atlantic is all that matters for Q3 - The last five years have seen dramatic changes when it comes to the spot Atlantic\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 06/06/2023\nShifting tides in the Atlantic is all that matters for Q3 - The last five years have seen dramatic changes when it comes to the spot Atlantic\nSource: Breakwave Advisors\n\nLinked asset: 2023-06-06_BreakwaveJune62023Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-06-06_BreakwaveJune62023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 6, 2023\nBreakwave Dry Futures Index: 1,344 Baltic Dry Index (spot): 939 Short-term Indicators:\n↓ 30D: -21.1% ↓ 30D: -39.7% Momentum: Negative\n↑ YTD: 30.8% ↓ YTD: -38.0% Sentiment: Negative\n↓ YOY: -56.6% ↓ YOY: -64.3% Fundamentals: Neutral\nBi-Weekly Report\n• Shifting tides in the Atlantic is all that matters for Q3 - The last five years have seen dramatic changes when it\ncomes to the spot Atlantic Capesize market. Lower iron ore volumes from Brazil (2018-2023 change of some -35mt)\nand higher bauxite volumes out of Guinea (2018-2023 change of about +42mt) have shifted the balance of shipping\nquite a bit, although on a total volume basis Brazil still exports ~3x more. However, what shapes Capesize rates is\nthe spot cargo volumes.",
   "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
     "atlantic",
-    "all",
-    "changes",
-    "comes",
-    "dramatic",
-    "five",
-    "last",
-    "main",
-    "matters",
-    "seen",
-    "shifting",
-    "shipbuilding"
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 51,
+  "token_count": 1464,
   "source_path": "reports/hellenic/shipbuilding/2023/2023-06-06_breakwave-dry-bulk-shipping-report-6-6-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-6-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 49,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-06-06_2023_06_06_breakwave_dry_bulk_shipping_report_6_6_2023__s02_linked_asset_2023_06_06_breakwavejune62023report_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-06-06_2023_06_06_breakwave_dry_bulk_shipping_report_6_6_2023",
+      "parent_id": "hellenic_shipbuilding_2023-06-06_2023_06_06_breakwave_dry_bulk_shipping_report_6_6_2023__root",
+      "title": "Linked asset: 2023-06-06_BreakwaveJune62023Report.pdf",
+      "section_path": [
+        "Linked asset: 2023-06-06_BreakwaveJune62023Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-06-06_BreakwaveJune62023Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-06_BreakwaveJune62023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 6, 2023\nBreakwave Dry Futures Index: 1,344 Baltic Dry Index (spot): 939 Short-term Indicators:\n↓ 30D: -21.1% ↓ 30D: -39.7% Momentum: Negative\n↑ YTD: 30.8% ↓ YTD: -38.0% Sentiment: Negative\n↓ YOY: -56.6% ↓ YOY: -64.3% Fundamentals: Neutral\nBi-Weekly Report\n• Shifting tides in the Atlantic is all that matters for Q3 - The last five years have seen dramatic changes when it\ncomes to the spot Atlantic Capesize market. Lower iron ore volumes from Brazil (2018-2023 change of some -35mt)\nand higher bauxite volumes out of Guinea (2018-2023 change of about +42mt) have shifted the balance of shipping\nquite a bit, although on a total volume basis Brazil still exports ~3x more.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1393,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

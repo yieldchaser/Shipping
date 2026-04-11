@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 03/04/2023\nImage reference: 2023-04-03_gms-week-13-more-muted_img1.jpg\nAs the Holy month of Ramadan descends across much of the sub-continent and Turkey, it has once again been a far quieter weekin terms of sales activity, and sentiments do seem to be more muted, with focuses currently shifted elsewhere. With Container & Dry Bulk rates firming once again, the number of firm sales candidates also appears to have dried up and this is leaving keen recyclers empty handed for yet another week. While there have been a plethora of sales at the start of the year, particularly in the Capesize Bulker and Container sectors, the supply has surprisingly slowed so much of late, it nearly seems like it has timed itself in sync with declining sub-continent prices.",
   "keywords": [
     "capesize",
+    "lpg",
     "container",
+    "china",
+    "meg",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "are",
-    "sales",
-    "again",
-    "bangladesh",
-    "far",
-    "gms",
-    "image"
+    "gas",
+    "are"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 455,
+  "token_count": 4550,
   "source_path": "reports/hellenic/demolition/2023/2023-04-03_gms-week-13-more-muted.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-13-more-muted",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 453,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-04-03_2023_04_03_gms_week_13_more_muted__s02_linked_asset_2023_04_03_ship_recycling_market_insight_week_13_2023_more_muted_pdf",
+      "doc_id": "hellenic_demolition_2023-04-03_2023_04_03_gms_week_13_more_muted",
+      "parent_id": "hellenic_demolition_2023-04-03_2023_04_03_gms_week_13_more_muted__root",
+      "title": "Linked asset: 2023-04-03_Ship-recycling-market-insight-week-13-2023-More-Muted.pdf",
+      "section_path": [
+        "Linked asset: 2023-04-03_Ship-recycling-market-insight-week-13-2023-More-Muted.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-04-03_Ship-recycling-market-insight-week-13-2023-More-Muted.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-04-03_Ship-recycling-market-insight-week-13-2023-More-Muted.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nMarch 31 st, 2023\n\"We are not our best intentions. We are what we do.\"\nVolume 248, Issue 1076\nWeek 13 - Amy Dickinson\nHighlights: MARKET COMMENTARY\nMORE MUTED!",
+      "keywords": [
+        "capesize",
+        "lpg",
+        "container",
+        "china",
+        "meg",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4065,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

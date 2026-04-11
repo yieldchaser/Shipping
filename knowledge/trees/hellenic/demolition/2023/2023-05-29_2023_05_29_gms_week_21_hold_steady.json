@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 29/05/2023\nImage reference: 2023-05-29_gms-week-21-hold-steady_img1.jpg\nAmidst the ongoing slowdown in the supply of tonnage and the onset of the traditionally quieter summer / monsoonmonths that would certainly help ease off the demand, prices across the sub-continent markets remained steady for another week. There is also the impending budget on June 1st in Bangladesh and many End Buyers are waiting to see if any new changes / taxes are imposed on the domestic ship recycling sector before offering afresh on tonnage. However, the general consensus on the upcoming budget is that no changes are expected and that it may actually be positive on the overall business outlook in Bangladesh, amidst a growing demand for steel and raw materials due to various upcoming construction and infrastructure projects that are due in the summer months.",
   "keywords": [
+    "container",
+    "china",
+    "atlantic",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "grain",
+    "crude_oil",
     "steel",
-    "are",
-    "bangladesh",
-    "demand",
-    "remains",
-    "amidst",
-    "any",
-    "before",
-    "budget",
-    "buyers"
+    "may",
+    "bangladesh"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 455,
+  "token_count": 4865,
   "source_path": "reports/hellenic/demolition/2023/2023-05-29_gms-week-21-hold-steady.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-21-hold-steady",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 453,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-05-29_2023_05_29_gms_week_21_hold_steady__s02_linked_asset_2023_05_29_ship_recycling_market_insight_week_21_2023_hold_steady_pdf",
+      "doc_id": "hellenic_demolition_2023-05-29_2023_05_29_gms_week_21_hold_steady",
+      "parent_id": "hellenic_demolition_2023-05-29_2023_05_29_gms_week_21_hold_steady__root",
+      "title": "Linked asset: 2023-05-29_Ship-recycling-market-insight-week-21-2023-Hold-Steady.pdf",
+      "section_path": [
+        "Linked asset: 2023-05-29_Ship-recycling-market-insight-week-21-2023-Hold-Steady.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-05-29_Ship-recycling-market-insight-week-21-2023-Hold-Steady.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-05-29_Ship-recycling-market-insight-week-21-2023-Hold-Steady.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nMay 26th , 2023\n\"It is never too late to be what you might have been.\"\nVolume 249, Issue 1084\n- George Eliot\nWeek 21\nHighlights: MARKET COMMENTARY\nHOLD STEADY! \"There are only two options regarding commitment.",
+      "keywords": [
+        "container",
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4379,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

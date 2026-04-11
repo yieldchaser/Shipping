@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 7.16.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 16/07/2024\nVLCCs remain weak as activity plummets - The first half of July reflected an almost identical sentiment to the end of June\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 16/07/2024\nVLCCs remain weak as activity plummets - The first half of July reflected an almost identical sentiment to the end of June\nSource: Breakwave Advisors\n\nLinked asset: 2024-07-16_BreakwaveTankersJuly162024Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-07-16_BreakwaveTankersJuly162024Report.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJuly 16, 2024\nBreakwave Tanker Futures Index: 1,162 VLCC Middle East-Asia Spot Rates: $11.31 Short-term Indicators:\n↑ 30D: 2.7% ↓ 30D: -8.9% Momentum: Positive\n↓ YTD: -4.3% ↓ YTD: -14.6% Sentiment: Neutral\n↓ YOY: -8.0% ↓ YOY: -22.7% Fundamentals: Neutral\nBi-Weekly Report\n• VLCCs remain weak as activity plummets - The first half of July reflected an almost identical sentiment to the end of June,\nwith the VLCC market experiencing steady yet sluggish activity. Tonnage flow remains constant, with not many vessels\npredicted to set sail in the coming days, providing a semblance of stability. The freight market sentiment is quite\ndepressed, with rates continuing to decline in both the Middle East Gulf (MEG) and West Africa basins, with rates slipping\nby about 12% month-over-month.",
   "keywords": [
     "vlcc",
-    "activity",
-    "almost",
-    "end",
-    "first",
+    "suezmax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "crude",
+    "demand",
     "half",
-    "identical",
-    "july",
-    "june",
-    "main",
-    "plummets",
-    "reflected"
+    "imports"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 47,
+  "token_count": 1515,
   "source_path": "reports/hellenic/shipbuilding/2024/2024-07-16_breakwave-tanker-report-7-16-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-7-16-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 45,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-07-16_2024_07_16_breakwave_tanker_report_7_16_2024__s02_linked_asset_2024_07_16_breakwavetankersjuly162024report_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-07-16_2024_07_16_breakwave_tanker_report_7_16_2024",
+      "parent_id": "hellenic_shipbuilding_2024-07-16_2024_07_16_breakwave_tanker_report_7_16_2024__root",
+      "title": "Linked asset: 2024-07-16_BreakwaveTankersJuly162024Report.pdf",
+      "section_path": [
+        "Linked asset: 2024-07-16_BreakwaveTankersJuly162024Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-07-16_BreakwaveTankersJuly162024Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-07-16_BreakwaveTankersJuly162024Report.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJuly 16, 2024\nBreakwave Tanker Futures Index: 1,162 VLCC Middle East-Asia Spot Rates: $11.31 Short-term Indicators:\n↑ 30D: 2.7% ↓ 30D: -8.9% Momentum: Positive\n↓ YTD: -4.3% ↓ YTD: -14.6% Sentiment: Neutral\n↓ YOY: -8.0% ↓ YOY: -22.7% Fundamentals: Neutral\nBi-Weekly Report\n• VLCCs remain weak as activity plummets - The first half of July reflected an almost identical sentiment to the end of June,\nwith the VLCC market experiencing steady yet sluggish activity. Tonnage flow remains constant, with not many vessels\npredicted to set sail in the coming days, providing a semblance of stability.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1446,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

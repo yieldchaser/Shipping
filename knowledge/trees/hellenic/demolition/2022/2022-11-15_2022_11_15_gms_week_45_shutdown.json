@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 15/11/2022\nImage reference: 2022-11-15_gms-week-45-shutdown_img1.jpg\nThe decline of the sub-continent markets came into stark view once again this week, with even vintage tonnage being returned to trading lanes, such is the ineptitude and reluctance of collective sub-continent recyclers to commit on the paucity of any available units, at anywhere near sensible numbers. Reliability and workable L/Cs remain a key concern for Cash Buyers and Ship Owners alike, with Bangladesh all but limiting new arrivals as the Central State bank refuses to sanction any fresh financing for ship recycling endeavors. Reportedly, only essentials (such as food, fuel, and fertilizers) are able to procure Central State bank approval in Bangladesh, especially for the valuable reserves of U.S.",
   "keywords": [
+    "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
+    "november",
     "are",
-    "any",
-    "markets",
-    "prices",
-    "all",
-    "buyers",
-    "even",
-    "plate",
-    "recycling"
+    "ldt",
+    "any"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 491,
+  "token_count": 4660,
   "source_path": "reports/hellenic/demolition/2022/2022-11-15_gms-week-45-shutdown.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-45-shutdown",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 489,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-11-15_2022_11_15_gms_week_45_shutdown__s02_linked_asset_2022_11_15_ship_recycling_market_insight_week_45_2022_shutdown_pdf",
+      "doc_id": "hellenic_demolition_2022-11-15_2022_11_15_gms_week_45_shutdown",
+      "parent_id": "hellenic_demolition_2022-11-15_2022_11_15_gms_week_45_shutdown__root",
+      "title": "Linked asset: 2022-11-15_Ship-recycling-market-insight-week-45-2022-Shutdown.pdf",
+      "section_path": [
+        "Linked asset: 2022-11-15_Ship-recycling-market-insight-week-45-2022-Shutdown.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-11-15_Ship-recycling-market-insight-week-45-2022-Shutdown.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-11-15_Ship-recycling-market-insight-week-45-2022-Shutdown.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nNovemb er 11th, 2022 \"You'll never get bored when you try something new. Volume 244, Issue 1056 There's really no limit to what you can do.\"\nWeek 45\n- Cormac McCarthy\nHighlights: MARKET COMMENTARY\nSHUTDOWN!",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4141,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 15/03/2023\nDCE iron ore futures closed at 926.5.The traders' willingness to ship is more.The steel mills are more active to purchase.The overall tradingsentement of the market is general.PBF at Shandong port deal 930-939 yuan/mt, PBF at Tangshan port deal 950-955 yuan/mt,increase 5-10 yuan/mt. According to the news, rumors about the impact of overseas accidents on supply and production restriction are still circulating, but not the main transaction logic of the market. According to SMM statistics, the operaƟng rate of blast furnace increased by 0.74% to 93.16%, and the utilization rate of blast furnace capacity increased by 0.66% to 93.88%.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
+    "fines",
     "ore",
     "iron",
-    "according",
-    "are",
-    "blast",
-    "deal",
-    "furnace",
-    "increased",
-    "main"
+    "mar"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 291,
+  "token_count": 9739,
   "source_path": "reports/hellenic/iron_ore/2023/2023-03-15_mmi-daily-iron-ore-index-report-march-15-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-march-15-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 289,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2023-03-15_2023_03_15_mmi_daily_iron_ore_index_report_march_15_2023__s02_linked_asset_2023_03_15_mmi_daily_iron_ore_report_for_15th_march_2023_compressed_pdf",
+      "doc_id": "hellenic_iron_ore_2023-03-15_2023_03_15_mmi_daily_iron_ore_index_report_march_15_2023",
+      "parent_id": "hellenic_iron_ore_2023-03-15_2023_03_15_mmi_daily_iron_ore_index_report_march_15_2023__root",
+      "title": "Linked asset: 2023-03-15_MMi-Daily-Iron-Ore-Report-for-15th-March-2023_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2023-03-15_MMi-Daily-Iron-Ore-Report-for-15th-March-2023_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-03-15_MMi-Daily-Iron-Ore-Report-for-15th-March-2023_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2023-03-15_MMi-Daily-Iron-Ore-Report-for-15th-March-2023_compressed.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Mar 15th, 2023\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n939 1051 849\n-8 -0.84% -9.00 -0.85% 2 0.24%\nMar 15th, 2023 Mar 15th, 2023 Mar 15th, 2023\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n133.65 147.35 1005\n0.20 0.15% -0.20 -0.14% -15 -1.47%\nMar 15th, 2023 Mar 15th, 2023 Week Ending Mar 10th, 2023\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2305 (Jan) RMB/t (3pm close) April 23 USD/dmt RB2305 (Jan) RMB/t\n926.50 131.50 4332\n6.50 0.71% 0.95 0.73% -41 -0.94%\nMar 15th, 2023 (3pm close) Mar 15th, 2023 (5.30 pm Print) Mar 15th, 2023 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n21.42 9.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9415,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

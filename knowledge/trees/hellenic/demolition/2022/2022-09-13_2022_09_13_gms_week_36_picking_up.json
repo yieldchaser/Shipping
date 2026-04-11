@@ -14,19 +14,19 @@
     "capesize",
     "suezmax",
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
-    "are",
-    "further",
-    "still",
-    "usd",
     "ldt",
-    "place"
+    "september"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 496,
+  "token_count": 4739,
   "source_path": "reports/hellenic/demolition/2022/2022-09-13_gms-week-36-picking-up.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-36-picking-up",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 494,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-09-13_2022_09_13_gms_week_36_picking_up__s02_linked_asset_2022_09_13_ship_recycling_market_insight_week_36_2022_picking_up_pdf",
+      "doc_id": "hellenic_demolition_2022-09-13_2022_09_13_gms_week_36_picking_up",
+      "parent_id": "hellenic_demolition_2022-09-13_2022_09_13_gms_week_36_picking_up__root",
+      "title": "Linked asset: 2022-09-13_Ship-recycling-market-insight-week-36-2022-Picking-Up.pdf",
+      "section_path": [
+        "Linked asset: 2022-09-13_Ship-recycling-market-insight-week-36-2022-Picking-Up.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-09-13_Ship-recycling-market-insight-week-36-2022-Picking-Up.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-09-13_Ship-recycling-market-insight-week-36-2022-Picking-Up.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nSeptemb er 9th, 2022 \"The two most important days in your life are the day you're born and\nVolume 242, Issue 1048 the day you find out why.\"\nWeek 36\n- Mark Twain\nHighlights: MARKET COMMENTARY\nPICKING UP! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "suezmax",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4214,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

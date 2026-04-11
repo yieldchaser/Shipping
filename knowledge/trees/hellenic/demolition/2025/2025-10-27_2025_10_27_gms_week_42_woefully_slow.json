@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "supramax",
+    "handysize",
+    "lng",
     "container",
     "china",
     "brazil",
+    "australia",
+    "atlantic",
     "europe",
-    "india",
-    "crude_oil",
-    "products",
-    "steel",
-    "global"
+    "india"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 719,
+  "token_count": 6792,
   "source_path": "reports/hellenic/demolition/2025/2025-10-27_gms-week-42-woefully-slow.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-42-woefully-slow",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 717,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-10-27_2025_10_27_gms_week_42_woefully_slow__s02_linked_asset_2025_10_27_ship_recycling_market_insight_week_43_10_24_2025_woefully_slow_pdf",
+      "doc_id": "hellenic_demolition_2025-10-27_2025_10_27_gms_week_42_woefully_slow",
+      "parent_id": "hellenic_demolition_2025-10-27_2025_10_27_gms_week_42_woefully_slow__root",
+      "title": "Linked asset: 2025-10-27_Ship-recycling-market-insight-Week-43-10-24-2025-Woefully_Slow.pdf",
+      "section_path": [
+        "Linked asset: 2025-10-27_Ship-recycling-market-insight-Week-43-10-24-2025-Woefully_Slow.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-10-27_Ship-recycling-market-insight-Week-43-10-24-2025-Woefully_Slow.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-10-27_Ship-recycling-market-insight-Week-43-10-24-2025-Woefully_Slow.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nOctober 24th, 2025\n1\n\"I always wanted to be somebody,\nWeek 43 but now I realize I should have been more specific.\"\nVolume 277, Issue 1208\n- Lily Tomlin\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "container",
+        "china",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6037,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

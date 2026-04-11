@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 3.1.2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 01/03/2022\nAll eyes on Ukraine, as geopolitical risk surges - Dry bulk shipping is a vital part of the global economy, and as a result, the rapid\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 01/03/2022\nAll eyes on Ukraine, as geopolitical risk surges - Dry bulk shipping is a vital part of the global economy, and as a result, the rapid\nSource: Breakwave Advisors\n\nLinked asset: 2022-03-01_BreakwaveMarch12022Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-03-01_BreakwaveMarch12022Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 1, 2022\nBreakwave Dry Futures Index: 2,324 Baltic Dry Index (spot): 2,040 Short-term Indicators:\n↑ 30D: 15.8% ↑ 30D: 43.9% Momentum: Neutral\n↑ YTD: 11.6% ↓ YTD: -8.0% Sentiment: Positive\n↑ YOY: 50.9% ↑ YOY: 21.8% Fundamentals: Positive\nBi-Weekly Report\n• All eyes on Ukraine, as geopolitical risk surges - Dry bulk shipping is a vital part of the global economy, and as a\nresult, the rapid developments in Ukraine have naturally dominated traders' attention in the last several days. Risk\nappetite has been reduced, and with that, forward premiums in the futures market have shrunk. Although the\nsmaller size vessels continue to find support as a result of an already stretched global supply chain, the larger\nCapesizes lack the cargo flow momentum needed to propel spot rates higher, and thus, a correctio",
   "keywords": [
-    "all",
-    "economy",
-    "eyes",
-    "geopolitical",
-    "global",
-    "main",
-    "part",
-    "rapid",
-    "result",
-    "risk",
-    "shipbuilding",
-    "source"
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 51,
+  "token_count": 1421,
   "source_path": "reports/hellenic/shipbuilding/2022/2022-03-01_breakwave-dry-bulk-shipping-report-3-1-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-3-1-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 49,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-03-01_2022_03_01_breakwave_dry_bulk_shipping_report_3_1_2022__s02_linked_asset_2022_03_01_breakwavemarch12022report_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-03-01_2022_03_01_breakwave_dry_bulk_shipping_report_3_1_2022",
+      "parent_id": "hellenic_shipbuilding_2022-03-01_2022_03_01_breakwave_dry_bulk_shipping_report_3_1_2022__root",
+      "title": "Linked asset: 2022-03-01_BreakwaveMarch12022Report.pdf",
+      "section_path": [
+        "Linked asset: 2022-03-01_BreakwaveMarch12022Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-03-01_BreakwaveMarch12022Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-03-01_BreakwaveMarch12022Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 1, 2022\nBreakwave Dry Futures Index: 2,324 Baltic Dry Index (spot): 2,040 Short-term Indicators:\n↑ 30D: 15.8% ↑ 30D: 43.9% Momentum: Neutral\n↑ YTD: 11.6% ↓ YTD: -8.0% Sentiment: Positive\n↑ YOY: 50.9% ↑ YOY: 21.8% Fundamentals: Positive\nBi-Weekly Report\n• All eyes on Ukraine, as geopolitical risk surges - Dry bulk shipping is a vital part of the global economy, and as a\nresult, the rapid developments in Ukraine have naturally dominated traders' attention in the last several days. Risk\nappetite has been reduced, and with that, forward premiums in the futures market have shrunk.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1350,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

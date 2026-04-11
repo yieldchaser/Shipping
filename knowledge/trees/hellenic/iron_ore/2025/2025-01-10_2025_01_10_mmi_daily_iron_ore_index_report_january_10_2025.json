@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 10/01/2025\nToday, DCE iron ore futures opened lower but moved higher throughout the day, fluctuating upward. The most-tradedI2505 contract finally closed at 754.5 yuan/mt, up 0.53% for the day. Traders showed moderate enthusiasm for selling, while steel mills purchased as needed.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "products",
     "steel",
+    "fines",
     "ore",
-    "prices",
-    "yuan/mt",
-    "are",
-    "iron",
-    "continued",
-    "demand",
-    "expected"
+    "iron"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 295,
+  "token_count": 10071,
   "source_path": "reports/hellenic/iron_ore/2025/2025-01-10_mmi-daily-iron-ore-index-report-january-10-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-january-10-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 293,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2025-01-10_2025_01_10_mmi_daily_iron_ore_index_report_january_10_2025__s02_linked_asset_2025_01_10_mmi_daily_iron_ore_report_for_10th_january_2024_pdf",
+      "doc_id": "hellenic_iron_ore_2025-01-10_2025_01_10_mmi_daily_iron_ore_index_report_january_10_2025",
+      "parent_id": "hellenic_iron_ore_2025-01-10_2025_01_10_mmi_daily_iron_ore_index_report_january_10_2025__root",
+      "title": "Linked asset: 2025-01-10_MMi-Daily-Iron-Ore-Report-for-10th-January-2024.pdf",
+      "section_path": [
+        "Linked asset: 2025-01-10_MMi-Daily-Iron-Ore-Report-for-10th-January-2024.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-01-10_MMi-Daily-Iron-Ore-Report-for-10th-January-2024.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-01-10_MMi-Daily-Iron-Ore-Report-for-10th-January-2024.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Jan 10th, 2025\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n771 883 680\n0 0.00% 0.00 0.00% 0 0.00%\nJan 10th, 2025 Jan 10th, 2025 Jan 10th, 2025\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n96.10 106.88 895\n0.00 0.00% 0.00 0.00% -5 -0.56%\nJan 10th, 2025 Jan 10th, 2025 Week Ending Jan 10th, 2025\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2505 (May) RMB/t (3pm close) February 25 USD/dmt RB2505 (Jan) RMB/t\n753.50 97.15 3202\n-1.00 -0.13% 0.15 0.15% -3 -0.09%\nJan 10th, 2025 (3pm close) Jan 10th, 2025 (5.30 pm Print) Jan 10th, 2025 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n17.34 6.18 3328\n0.14 0.8",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9745,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

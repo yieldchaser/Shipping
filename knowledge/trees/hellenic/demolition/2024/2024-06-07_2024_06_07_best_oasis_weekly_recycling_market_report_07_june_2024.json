@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 07 June 2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 07/06/2024\nWe extend our sincere gratitude to all who attended our cocktail party in Athens, Greece. Your presence contributed to the success of the event, creating an atmosphere of joy and celebration.",
+  "summary": "Main\nin Weekly Demolition Reports 07/06/2024\nWe extend our sincere gratitude to all who attended our cocktail party in Athens, Greece. Your presence contributed to the success of the event, creating an atmosphere of joy and celebration. Source: Best Oasis Limited\n\nLinked asset: 2024-06-07_Weekly-Ship-Recycling-Report-01-June-07-June-2024_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2024-06-07_Weekly-Ship-Recycling-Report-01-June-07-June-2024_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n01 June - 07 May 2024\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nWe extend our sincere gratitude to all who attended our cocktail party in Athens, Greece.",
   "keywords": [
-    "our",
-    "all",
-    "athens",
-    "atmosphere",
-    "attended",
-    "best",
-    "celebration.",
-    "cocktail",
-    "contributed",
-    "creating",
-    "demolition",
-    "event"
+    "container",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "steel",
+    "previous",
+    "recycling",
+    "june"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 56,
+  "token_count": 2293,
   "source_path": "reports/hellenic/demolition/2024/2024-06-07_best-oasis-weekly-recycling-market-report-07-june-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-07-june-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 54,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-06-07_2024_06_07_best_oasis_weekly_recycling_market_report_07_june_2024__s02_linked_asset_2024_06_07_weekly_ship_recycling_report_01_june_07_june_2024_compressed_pdf",
+      "doc_id": "hellenic_demolition_2024-06-07_2024_06_07_best_oasis_weekly_recycling_market_report_07_june_2024",
+      "parent_id": "hellenic_demolition_2024-06-07_2024_06_07_best_oasis_weekly_recycling_market_report_07_june_2024__root",
+      "title": "Linked asset: 2024-06-07_Weekly-Ship-Recycling-Report-01-June-07-June-2024_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2024-06-07_Weekly-Ship-Recycling-Report-01-June-07-June-2024_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-06-07_Weekly-Ship-Recycling-Report-01-June-07-June-2024_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-06-07_Weekly-Ship-Recycling-Report-01-June-07-June-2024_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n01 June - 07 May 2024\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nWe extend our sincere gratitude to all who attended our cocktail party in Athens, Greece. Your presence contributed to the success of the event, creating an\natmosphere of joy and celebration.",
+      "keywords": [
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2202,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 5.13.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 13/05/2025\nPeak Trade War Behind Us, Dry Bulk Could See Higher US Exports - The recent announcement regarding a reset in trade relations between the\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 13/05/2025\nPeak Trade War Behind Us, Dry Bulk Could See Higher US Exports - The recent announcement regarding a reset in trade relations between the\nSource: Breakwave Advisors\n\nLinked asset: 2025-05-13_BreakwaveDryMay122025Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-05-13_BreakwaveDryMay122025Report.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMay 12, 2025\n• Peak Trade War Behind Us, Dry Bulk Could See Higher US Exports - The recent\nShort-term Indicators\nannouncement regarding a reset in trade relations between the U.S. and China is\nMomentum: Neutral\na positive development for the dry bulk shipping market. Firstly, the easing of\ntensions between the two largest economies has improved global growth Sentiment: Positive\nsentiment.",
   "keywords": [
-    "trade",
-    "announcement",
-    "behind",
-    "between",
-    "could",
-    "exports",
-    "higher",
-    "main",
-    "peak",
-    "recent",
-    "regarding",
-    "relations"
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 47,
+  "token_count": 1735,
   "source_path": "reports/hellenic/shipbuilding/2025/2025-05-13_breakwave-dry-bulk-shipping-report-5-13-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-13-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 45,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-05-13_2025_05_13_breakwave_dry_bulk_shipping_report_5_13_2025__s02_linked_asset_2025_05_13_breakwavedrymay122025report_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-05-13_2025_05_13_breakwave_dry_bulk_shipping_report_5_13_2025",
+      "parent_id": "hellenic_shipbuilding_2025-05-13_2025_05_13_breakwave_dry_bulk_shipping_report_5_13_2025__root",
+      "title": "Linked asset: 2025-05-13_BreakwaveDryMay122025Report.pdf",
+      "section_path": [
+        "Linked asset: 2025-05-13_BreakwaveDryMay122025Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-05-13_BreakwaveDryMay122025Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-05-13_BreakwaveDryMay122025Report.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMay 12, 2025\n• Peak Trade War Behind Us, Dry Bulk Could See Higher US Exports - The recent\nShort-term Indicators\nannouncement regarding a reset in trade relations between the U.S. and China is\nMomentum: Neutral\na positive development for the dry bulk shipping market.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1667,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

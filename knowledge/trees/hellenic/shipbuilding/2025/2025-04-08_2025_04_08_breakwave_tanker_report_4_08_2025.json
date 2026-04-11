@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 4.08.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 08/04/2025\nTrade Tensions Affect VLCC Sentiment - The VLCC market entered April on a mixed note, with regional dynamics reflecting a combination\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 08/04/2025\nTrade Tensions Affect VLCC Sentiment - The VLCC market entered April on a mixed note, with regional dynamics reflecting a combination\nSource: Breakwave Advisors\n\nLinked asset: 2025-04-08_BreakwaveTankersApril82025Report2.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-04-08_BreakwaveTankersApril82025Report2.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nApril 8, 2025\n• Trade Tensions Affect VLCC Sentiment - The VLCC market entered April on a Short-term Indicators\nmixed note, with regional dynamics reflecting a combination of transient strength\nMomentum: Neutral\nand underlying caution. In the Middle East, the month commenced with a moderate\nSentiment: Neutral\nincrease in chartering activity for second-decade April stems, briefly buoying market\nFundamentals: Positive\nsentiment. Owners were initially optimistic that the positive momentum observed\nin March would translate into firmer rates.",
   "keywords": [
     "vlcc",
-    "affect",
-    "april",
-    "combination",
-    "dynamics",
-    "entered",
-    "main",
-    "mixed",
-    "note",
-    "reflecting",
-    "regional",
-    "sentiment"
+    "suezmax",
+    "china",
+    "brazil",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "funds",
+    "crude",
+    "investment",
+    "not"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 48,
+  "token_count": 1738,
   "source_path": "reports/hellenic/shipbuilding/2025/2025-04-08_breakwave-tanker-report-4-08-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-4-08-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 46,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-04-08_2025_04_08_breakwave_tanker_report_4_08_2025__s02_linked_asset_2025_04_08_breakwavetankersapril82025report2_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-04-08_2025_04_08_breakwave_tanker_report_4_08_2025",
+      "parent_id": "hellenic_shipbuilding_2025-04-08_2025_04_08_breakwave_tanker_report_4_08_2025__root",
+      "title": "Linked asset: 2025-04-08_BreakwaveTankersApril82025Report2.pdf",
+      "section_path": [
+        "Linked asset: 2025-04-08_BreakwaveTankersApril82025Report2.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-04-08_BreakwaveTankersApril82025Report2.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-04-08_BreakwaveTankersApril82025Report2.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nApril 8, 2025\n• Trade Tensions Affect VLCC Sentiment - The VLCC market entered April on a Short-term Indicators\nmixed note, with regional dynamics reflecting a combination of transient strength\nMomentum: Neutral\nand underlying caution. In the Middle East, the month commenced with a moderate\nSentiment: Neutral\nincrease in chartering activity for second-decade April stems, briefly buoying market\nFundamentals: Positive\nsentiment.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1667,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

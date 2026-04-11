@@ -14,19 +14,19 @@
     "capesize",
     "handysize",
     "lng",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "gas",
-    "recycling",
-    "ship",
-    "being",
-    "last"
+    "steel",
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 760,
+  "token_count": 7112,
   "source_path": "reports/hellenic/demolition/2025/2025-11-03_gms-week-44-halloween-november.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-44-halloween-november",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 758,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-11-03_2025_11_03_gms_week_44_halloween_november__s02_linked_asset_2025_11_03_ship_recycling_market_insight_week_44_10_31_2025_halloween_november_pdf",
+      "doc_id": "hellenic_demolition_2025-11-03_2025_11_03_gms_week_44_halloween_november",
+      "parent_id": "hellenic_demolition_2025-11-03_2025_11_03_gms_week_44_halloween_november__root",
+      "title": "Linked asset: 2025-11-03_Ship-recycling-market-insight-Week-44-10-31-2025-Halloween_November.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-03_Ship-recycling-market-insight-Week-44-10-31-2025-Halloween_November.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-03_Ship-recycling-market-insight-Week-44-10-31-2025-Halloween_November.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-11-03_Ship-recycling-market-insight-Week-44-10-31-2025-Halloween_November.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nOctober 31st, 2025\n1\n\"Someone's sitting in the shade today because someone planted a tree a\nWeek 44 long time ago.\"\nVolume 277, Issue 1209\n- Warren Buffet\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6316,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

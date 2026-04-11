@@ -15,18 +15,18 @@
     "handysize",
     "lng",
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "gas",
-    "are",
-    "even",
-    "recycling",
-    "its"
+    "steel",
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 788,
+  "token_count": 7006,
   "source_path": "reports/hellenic/demolition/2025/2025-07-21_gms-week-29-slowdown-surprise.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-29-slowdown-surprise",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 786,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-07-21_2025_07_21_gms_week_29_slowdown_surprise__s02_linked_asset_2025_07_21_ship_recycling_market_insight_week_29_07_18_2025_slowdown_surprise_pdf",
+      "doc_id": "hellenic_demolition_2025-07-21_2025_07_21_gms_week_29_slowdown_surprise",
+      "parent_id": "hellenic_demolition_2025-07-21_2025_07_21_gms_week_29_slowdown_surprise__root",
+      "title": "Linked asset: 2025-07-21_Ship-recycling-market-insight-Week-29-07-18-2025-Slowdown_Surprise.pdf",
+      "section_path": [
+        "Linked asset: 2025-07-21_Ship-recycling-market-insight-Week-29-07-18-2025-Slowdown_Surprise.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-07-21_Ship-recycling-market-insight-Week-29-07-18-2025-Slowdown_Surprise.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-07-21_Ship-recycling-market-insight-Week-29-07-18-2025-Slowdown_Surprise.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nJuly 18th, 2025\n1\n\"The road to success and the road to failure are almost exactly the same.\"\nWeek 29\n- Colin R. Davis\nVolume 274, Issue 1194\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6181,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

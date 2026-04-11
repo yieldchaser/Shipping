@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 6.4.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 04/06/2024\nVLCC Market Faces Downward Pressure Amid Sluggish Activity and OPEC+ Production Cuts - The VLCC market is once\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 04/06/2024\nVLCC Market Faces Downward Pressure Amid Sluggish Activity and OPEC+ Production Cuts - The VLCC market is once\nSource: Breakwave Advisors\n\nLinked asset: 2024-06-04_BreakwaveTankersJune42024Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-06-04_BreakwaveTankersJune42024Report.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJune 4, 2024\nBreakwave Tanker Futures Index: 1,209 VLCC Middle East-Asia Spot Rates: $14.05 Short-term Indicators:\n↓ 30D: -7.2% ↓ 30D: -13.5% Momentum: Negative\n↓ YTD: -0.4% ↑ YTD: 6.1% Sentiment: Neutral\n↑ YOY: 13.3% ↑ YOY: 11.9% Fundamentals: Neutral\nBi-Weekly Report\n• VLCC Market Faces Downward Pressure Amid Sluggish Activity and OPEC+ Production Cuts - The VLCC market is once\nagain under renewed pressure as we enter the month of June. Although by Mid-May signs of firmness seemed evident\ndriven by uncertainties about a potentially robust market heading into early summer, these expectations were dampened\nas concerns about an oversupply of tonnage proved to be well-founded and, as a result, the spot VLCC market weakened\nat the end of last week. On the key AG-China route, spot VLCC rates have now recorded an almost",
   "keywords": [
     "vlcc",
+    "suezmax",
+    "china",
+    "west_africa",
+    "europe",
+    "india",
     "crude_oil",
-    "activity",
-    "amid",
-    "cuts",
-    "downward",
-    "faces",
-    "main",
-    "once",
+    "oil",
     "opec",
-    "pressure",
-    "production"
+    "crude",
+    "demand",
+    "supply"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 47,
+  "token_count": 1485,
   "source_path": "reports/hellenic/shipbuilding/2024/2024-06-04_breakwave-tanker-report-6-4-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-6-4-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 45,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-06-04_2024_06_04_breakwave_tanker_report_6_4_2024__s02_linked_asset_2024_06_04_breakwavetankersjune42024report_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-06-04_2024_06_04_breakwave_tanker_report_6_4_2024",
+      "parent_id": "hellenic_shipbuilding_2024-06-04_2024_06_04_breakwave_tanker_report_6_4_2024__root",
+      "title": "Linked asset: 2024-06-04_BreakwaveTankersJune42024Report.pdf",
+      "section_path": [
+        "Linked asset: 2024-06-04_BreakwaveTankersJune42024Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-06-04_BreakwaveTankersJune42024Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-06-04_BreakwaveTankersJune42024Report.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJune 4, 2024\nBreakwave Tanker Futures Index: 1,209 VLCC Middle East-Asia Spot Rates: $14.05 Short-term Indicators:\n↓ 30D: -7.2% ↓ 30D: -13.5% Momentum: Negative\n↓ YTD: -0.4% ↑ YTD: 6.1% Sentiment: Neutral\n↑ YOY: 13.3% ↑ YOY: 11.9% Fundamentals: Neutral\nBi-Weekly Report\n• VLCC Market Faces Downward Pressure Amid Sluggish Activity and OPEC+ Production Cuts - The VLCC market is once\nagain under renewed pressure as we enter the month of June. Although by Mid-May signs of firmness seemed evident\ndriven by uncertainties about a potentially robust market heading into early summer, these expectations were dampened\nas concerns about an oversupply of tonnage proved to be well-founded and, as a result, the spot VLCC market weakened\nat the end of last week.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1416,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

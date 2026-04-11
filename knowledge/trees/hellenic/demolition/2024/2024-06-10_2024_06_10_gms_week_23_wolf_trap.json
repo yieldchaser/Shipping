@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 10/06/2024\nImage reference: 2024-06-10_gms-week-23-wolf-trap_img1.jpg\nAn eventful week in the ship recycling industry saw the announcement of the Bangladeshi budget surprisingly deliver negative newsfor Chattogram's ship recycling sector, in addition to the conclusion of India's election cycle that has gripped the country since April 24th and pleasantly welcomed Mr. Narendra Modi being re-elected to govern as India's Prime Minster on June 5th, for an unprecedented third term in the nation's 2024 General Elections. Unfortunately, PM Modi's ‘Bhartiya Janta Party' (BJP), was unable to breach the minimum seats required to form a ruling government and this has subsequently left reliance on a coalition of several smaller parties as the only viable option for the BJP to govern - at least until the next Election cycle come May 2029.",
   "keywords": [
+    "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "coal",
     "steel",
+    "june",
+    "ldt",
     "ship",
-    "only",
-    "recycling",
-    "further",
-    "its",
-    "markets",
-    "are",
-    "bjp"
+    "bangladesh"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 631,
+  "token_count": 5724,
   "source_path": "reports/hellenic/demolition/2024/2024-06-10_gms-week-23-wolf-trap.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-23-wolf-trap",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 629,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-06-10_2024_06_10_gms_week_23_wolf_trap__s02_linked_asset_2024_06_10_ship_recycling_market_insight_week_23_6_07_2024_wolf_trap_pdf",
+      "doc_id": "hellenic_demolition_2024-06-10_2024_06_10_gms_week_23_wolf_trap",
+      "parent_id": "hellenic_demolition_2024-06-10_2024_06_10_gms_week_23_wolf_trap__root",
+      "title": "Linked asset: 2024-06-10_Ship-recycling-market-insight-Week-23-6-07-2024-Wolf_Trap.pdf",
+      "section_path": [
+        "Linked asset: 2024-06-10_Ship-recycling-market-insight-Week-23-6-07-2024-Wolf_Trap.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-06-10_Ship-recycling-market-insight-Week-23-6-07-2024-Wolf_Trap.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-06-10_Ship-recycling-market-insight-Week-23-6-07-2024-Wolf_Trap.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nJune 7th, 2024\n1\n\" You don't overcome challenges by making them smaller, but by making\nWeek 23 yourself bigger.\"\nVolume 262, Issue 1137 - John C. Maxwell\nHighlig hts: - MARKET COMMENTARY -\nWOLF TRAP!",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "coal",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5058,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

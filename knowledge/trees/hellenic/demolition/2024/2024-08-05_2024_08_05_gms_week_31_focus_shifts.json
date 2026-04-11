@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 05/08/2024\nImage reference: 2024-08-05_gms-week-31-focus-shifts_img1.jpg\nZooming out of the ship recycling markets, we see geopolitical events take centerstage across all shipping sectors (trading and recycling) for yet anotherweek and can easily be forecasted to do so into the foreseeable future i.e. through Q3 and likely well into Q4 as the mysterious bombing assassination of one of the founding members of Hezbollah in the heart of the Iranian capital city of Tehran early in the week sent shockwaves across the Arab world, followed by Iranian leaders vowing to avenge his death with a purported \"new phase of war\" in an already TNT loaded situation. Thereafter, news of Hezbollah firing a bevy of rockets into Northern Israel surfaced late in the week, none of which have resulted in casualties so far.",
   "keywords": [
+    "container",
+    "china",
+    "europe",
     "india",
+    "singapore",
+    "japan",
+    "grain",
     "steel",
     "recycling",
-    "ship",
-    "are",
-    "now",
-    "see",
-    "being",
-    "city",
-    "continue",
-    "dead",
-    "deaths"
+    "ldt",
+    "local",
+    "prices"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 666,
+  "token_count": 6314,
   "source_path": "reports/hellenic/demolition/2024/2024-08-05_gms-week-31-focus-shifts.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-31-focus-shifts",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 664,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-08-05_2024_08_05_gms_week_31_focus_shifts__s02_linked_asset_2024_08_05_ship_recycling_market_insight_week_31_7_26_2024_focus_shifts_pdf",
+      "doc_id": "hellenic_demolition_2024-08-05_2024_08_05_gms_week_31_focus_shifts",
+      "parent_id": "hellenic_demolition_2024-08-05_2024_08_05_gms_week_31_focus_shifts__root",
+      "title": "Linked asset: 2024-08-05_Ship-recycling-market-insight-Week-31-7-26-2024-Focus_Shifts.pdf",
+      "section_path": [
+        "Linked asset: 2024-08-05_Ship-recycling-market-insight-Week-31-7-26-2024-Focus_Shifts.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_Ship-recycling-market-insight-Week-31-7-26-2024-Focus_Shifts.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-08-05_Ship-recycling-market-insight-Week-31-7-26-2024-Focus_Shifts.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\n1\nAugust 3rd, 2024 \"Reality is created by the mind;\nWeek 31 we can change our reality by changing our mind.\"\nVolume 263, Issue 1145\n- Plato\nHighlig hts: - MARKET COMMENTARY -\nFOCUS SHIFTS! \"There are only two options regarding commitment.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "grain",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5612,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

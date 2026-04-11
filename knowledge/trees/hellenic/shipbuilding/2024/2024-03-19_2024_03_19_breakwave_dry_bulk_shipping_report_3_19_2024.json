@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 3.19.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 19/03/2024\nBooming dry bulk market defies red flag warnings emerging from the steel complex - Once again, the Capesize\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 19/03/2024\nBooming dry bulk market defies red flag warnings emerging from the steel complex - Once again, the Capesize\nSource: Breakwave Advisors\n\nLinked asset: 2024-03-19_BreakwaveDryMarch192024Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-03-19_BreakwaveDryMarch192024Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 19, 2024\nBreakwave Dry Futures Index: 2,536 Baltic Dry Index (spot): 2,419 Short-term Indicators:\n↑ 30D: 31.7% ↑ 30D: 50.2% Momentum: Neutral\n↑ YTD: 69.2% ↑ YTD: 15.5% Sentiment: Positive\n↑ YOY: 44.2% ↑ YOY: 57.6% Fundamentals: Neutral\nBi-Weekly Report\n• Booming dry bulk market defies red flag warnings emerging from the steel complex - Once again, the Capesize\nsector is leading the dry bulk rally although Panamax rates have also experienced a very strong performance with spot\nrates now hovering close to the 20,000-mark for the first time since December. Both the Pacific and Atlantic markets\nremain well supported, each for different reasons, and any indication of softening is perceived as an opportunity to\neither take-in tonnage (for the physical market) or add to long positions (for the freight futures market). Se",
   "keywords": [
     "capesize",
-    "steel",
-    "again",
-    "booming",
-    "complex",
-    "defies",
-    "emerging",
-    "flag",
-    "main",
-    "once",
-    "red",
-    "shipbuilding"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 44,
+  "token_count": 1485,
   "source_path": "reports/hellenic/shipbuilding/2024/2024-03-19_breakwave-dry-bulk-shipping-report-3-19-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-3-19-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 42,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-03-19_2024_03_19_breakwave_dry_bulk_shipping_report_3_19_2024__s02_linked_asset_2024_03_19_breakwavedrymarch192024report_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-03-19_2024_03_19_breakwave_dry_bulk_shipping_report_3_19_2024",
+      "parent_id": "hellenic_shipbuilding_2024-03-19_2024_03_19_breakwave_dry_bulk_shipping_report_3_19_2024__root",
+      "title": "Linked asset: 2024-03-19_BreakwaveDryMarch192024Report.pdf",
+      "section_path": [
+        "Linked asset: 2024-03-19_BreakwaveDryMarch192024Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-03-19_BreakwaveDryMarch192024Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-03-19_BreakwaveDryMarch192024Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMarch 19, 2024\nBreakwave Dry Futures Index: 2,536 Baltic Dry Index (spot): 2,419 Short-term Indicators:\n↑ 30D: 31.7% ↑ 30D: 50.2% Momentum: Neutral\n↑ YTD: 69.2% ↑ YTD: 15.5% Sentiment: Positive\n↑ YOY: 44.2% ↑ YOY: 57.6% Fundamentals: Neutral\nBi-Weekly Report\n• Booming dry bulk market defies red flag warnings emerging from the steel complex - Once again, the Capesize\nsector is leading the dry bulk rally although Panamax rates have also experienced a very strong performance with spot\nrates now hovering close to the 20,000-mark for the first time since December. Both the Pacific and Atlantic markets\nremain well supported, each for different reasons, and any indication of softening is perceived as an opportunity to\neither take-in tonnage (for the physical market) or add to long positions (for the freight futures market).",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1420,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

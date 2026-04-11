@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 1.3.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 03/01/2023\nQuiet holiday break drives spot Capesize rates lower - As the Christmas holiday break comes to an end and\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 03/01/2023\nQuiet holiday break drives spot Capesize rates lower - As the Christmas holiday break comes to an end and\nSource: Breakwave Advisors\n\nLinked asset: 2023-01-03_BreakwaveJanuary32023Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-01-03_BreakwaveJanuary32023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 3, 2023\nBreakwave Dry Futures Index: 1,027 Baltic Dry Index (spot): 1,515 Short-term Indicators:\n↑ 30D: 5.0% ↑ 30D: 14.4% Momentum: Positive\n↓ YTD: 0.0% ↓ YTD: 0.0% Sentiment: Negative\n↓ YOY: -50.6% ↓ YOY: -31.7% Fundamentals: Neutral\nBi-Weekly Report\n• Quiet holiday break drives spot Capesize rates lower - As the Christmas holiday break comes to an end and traders\nreturn to their desks, the Capesize rate market is once again faced with a significant divergence between spot and\nfutures. On the one hand, although the spot market has weakened quite a bit during the holidays, it remains above\nthe futures market. This is not a surprise: the first quarter has traditionally been the softest quarter of the year with\ninclement weather in both the Pacific and Atlantic basins usually affecting loading operations, and as a resul",
   "keywords": [
     "capesize",
-    "break",
-    "holiday",
-    "christmas",
-    "comes",
-    "drives",
-    "end",
-    "lower",
-    "main",
-    "quiet",
-    "shipbuilding",
-    "source"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 42,
+  "token_count": 1469,
   "source_path": "reports/hellenic/shipbuilding/2023/2023-01-03_breakwave-dry-bulk-shipping-report-1-3-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-1-3-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 40,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-01-03_2023_01_03_breakwave_dry_bulk_shipping_report_1_3_2023__s02_linked_asset_2023_01_03_breakwavejanuary32023report_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-01-03_2023_01_03_breakwave_dry_bulk_shipping_report_1_3_2023",
+      "parent_id": "hellenic_shipbuilding_2023-01-03_2023_01_03_breakwave_dry_bulk_shipping_report_1_3_2023__root",
+      "title": "Linked asset: 2023-01-03_BreakwaveJanuary32023Report.pdf",
+      "section_path": [
+        "Linked asset: 2023-01-03_BreakwaveJanuary32023Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-01-03_BreakwaveJanuary32023Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-01-03_BreakwaveJanuary32023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 3, 2023\nBreakwave Dry Futures Index: 1,027 Baltic Dry Index (spot): 1,515 Short-term Indicators:\n↑ 30D: 5.0% ↑ 30D: 14.4% Momentum: Positive\n↓ YTD: 0.0% ↓ YTD: 0.0% Sentiment: Negative\n↓ YOY: -50.6% ↓ YOY: -31.7% Fundamentals: Neutral\nBi-Weekly Report\n• Quiet holiday break drives spot Capesize rates lower - As the Christmas holiday break comes to an end and traders\nreturn to their desks, the Capesize rate market is once again faced with a significant divergence between spot and\nfutures. On the one hand, although the spot market has weakened quite a bit during the holidays, it remains above\nthe futures market.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1407,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

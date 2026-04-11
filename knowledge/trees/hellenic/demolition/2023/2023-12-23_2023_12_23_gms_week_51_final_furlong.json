@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 23/12/2023\nImage reference: 2023-12-23_gms-week-51-final-furlong_img1.jpg\nAs we enter the last week of 2023, sub continent markets struggle on, going the final furlong to round out what has been an overall disappointing year in terms of pricing and volumes. Prices have once again collapsed from over USD 600/LDT to below USD 500/LDT over certain stages this year, seeing around USD 150/LDT wiped from residual values in a shock for owners and cash buyers alike. Now that currencies and steel prices seem to have stabilized across the board for the time being, many will be hoping for a more bullish 2024, particularly as the supply of tonnage is set to increase - from both the dry bulk and container sectors.",
   "keywords": [
+    "panamax",
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "year",
-    "are",
-    "last",
+    "december",
     "ldt",
-    "markets",
     "prices",
-    "usd",
-    "actually"
+    "year"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 390,
+  "token_count": 3639,
   "source_path": "reports/hellenic/demolition/2023/2023-12-23_gms-week-51-final-furlong.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-51-final-furlong",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 388,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-12-23_2023_12_23_gms_week_51_final_furlong__s02_linked_asset_2023_12_23_22_20december_202023_pdf",
+      "doc_id": "hellenic_demolition_2023-12-23_2023_12_23_gms_week_51_final_furlong",
+      "parent_id": "hellenic_demolition_2023-12-23_2023_12_23_gms_week_51_final_furlong__root",
+      "title": "Linked asset: 2023-12-23_22%20December,%202023.pdf",
+      "section_path": [
+        "Linked asset: 2023-12-23_22%20December,%202023.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-12-23_22%20December,%202023.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-12-23_22%20December,%202023.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nDecembe r 22nd, 2023 \"At Christmas, all roads lead home.\"\nVolume 2 56, Issue 1114\n- Marjorie Holmes\nWeek 51\nHighlights: MARKET COMMENTARY\nFINAL FURLONG! \"There are only two options regarding commitment.",
+      "keywords": [
+        "panamax",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3228,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

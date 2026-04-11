@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 07/08/2023\nImage reference: 2023-08-07_gms-week-31-avoid_img1.jpg\nThis week, recycling markets essentially became an unfeasible business-place as very few Recyclers werewilling to table any firm offers, instead, tabling only low-ball indications as the remainder of the end Buyers remained rather quiet, waiting and watching the market before deciding, which direction the domestic industry is ready to proceed in. There remain a number of unsold units that are currently being diverted to other destinations from Bangladesh, including India, in additional to a recently re-emerging Pakistani market. Owners with vessels to sell are being price-shocked into diverting their vessels to another market or withdrawing them from the market entirely, due to a lack of sensible offers that present no encouragement / motivation / interest from Owners (or Cash Buyers) to commit for recycling.",
   "keywords": [
+    "container",
+    "china",
+    "europe",
     "india",
+    "singapore",
+    "japan",
+    "steel",
+    "august",
+    "ldt",
     "are",
-    "buyers",
-    "being",
-    "cash",
-    "levels",
-    "offers",
-    "owners",
-    "vessels",
     "bangladesh",
-    "before",
-    "especially"
+    "prices"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 446,
+  "token_count": 4834,
   "source_path": "reports/hellenic/demolition/2023/2023-08-07_gms-week-31-avoid.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-31-avoid",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 444,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-08-07_2023_08_07_gms_week_31_avoid__s02_linked_asset_2023_08_07_ship_recycling_market_insight_week_31_2023_avoid_pdf",
+      "doc_id": "hellenic_demolition_2023-08-07_2023_08_07_gms_week_31_avoid",
+      "parent_id": "hellenic_demolition_2023-08-07_2023_08_07_gms_week_31_avoid__root",
+      "title": "Linked asset: 2023-08-07_Ship-recycling-market-insight-week-31-2023-Avoid.pdf",
+      "section_path": [
+        "Linked asset: 2023-08-07_Ship-recycling-market-insight-week-31-2023-Avoid.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-08-07_Ship-recycling-market-insight-week-31-2023-Avoid.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-08-07_Ship-recycling-market-insight-week-31-2023-Avoid.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nAugust 4 th, 2023 \"We cannot solve problems with the kind of thinking we employed when\nVolume 252, Issue 1094 we came up with them.\"\nWeek 31\n- Albert Einstein\nHighlights: MARKET COMMENTARY\nAVOID! \"There are only two options regarding commitment.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel",
+        "august"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4360,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

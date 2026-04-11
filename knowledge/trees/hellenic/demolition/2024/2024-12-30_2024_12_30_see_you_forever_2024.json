@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "supramax",
+    "container",
     "china",
+    "brazil",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "steel",
-    "recycling",
-    "year",
-    "all",
-    "bangladesh"
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 855,
+  "token_count": 6492,
   "source_path": "reports/hellenic/demolition/2024/2024-12-30_see-you-forever-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/see-you-forever-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 853,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-12-30_2024_12_30_see_you_forever_2024__s02_linked_asset_2024_12_30_ship_recycling_market_insight_week_52_12_27_2024_see_you_forever_2024_pdf",
+      "doc_id": "hellenic_demolition_2024-12-30_2024_12_30_see_you_forever_2024",
+      "parent_id": "hellenic_demolition_2024-12-30_2024_12_30_see_you_forever_2024__root",
+      "title": "Linked asset: 2024-12-30_Ship-recycling-market-insight-Week-52-12-27-2024-See_you_Forever_2024.pdf",
+      "section_path": [
+        "Linked asset: 2024-12-30_Ship-recycling-market-insight-Week-52-12-27-2024-See_you_Forever_2024.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-12-30_Ship-recycling-market-insight-Week-52-12-27-2024-See_you_Forever_2024.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-12-30_Ship-recycling-market-insight-Week-52-12-27-2024-See_you_Forever_2024.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nDecember 27th, 2024\n1\n\"If you constantly think of illness, you eventually become ill;\nWeek 52\nif you believe yourself to be beautiful, you become so.\"\nVolume 267, Issue 1166\n- Shakti Gawain\nHighlig hts: -- MARKET COMMENTARY --\nSEE YOU FOREVER 2024! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5597,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

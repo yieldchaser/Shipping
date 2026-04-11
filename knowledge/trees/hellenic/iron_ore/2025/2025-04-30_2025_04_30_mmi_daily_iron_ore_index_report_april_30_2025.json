@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 30/04/2025\nToday, DCE iron ore futures continued to trade in the doldrums, with the most-traded contract I2509 closing at 703.5, down 0.78% for the day.Traders' enthusiasm for selling was moderate; steel mills had largely completed their pre-holiday inventory restocking, resulting in fewer inquiries. The market trading atmosphere was moderate. In the Shandong region, the mainstream transaction prices of PB fines were around 755-760 yuan/mt, down 5-10 yuan/mt from yesterday's prices.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
     "iron",
     "ore",
-    "prices",
-    "production",
-    "was",
-    "yuan/mt",
-    "mills",
-    "pig",
-    "prices."
+    "grade",
+    "high"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 369,
+  "token_count": 17019,
   "source_path": "reports/hellenic/iron_ore/2025/2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-30-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 367,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025__s02_linked_asset_2025_04_30_mmi_daily_iron_ore_index_prices_for_30th_april_2025_pdf",
+      "doc_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025",
+      "parent_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025__root",
+      "title": "Linked asset: 2025-04-30_MMi-Daily-Iron-Ore-Index-Prices-for-30th-April-2025.pdf",
+      "section_path": [
+        "Linked asset: 2025-04-30_MMi-Daily-Iron-Ore-Index-Prices-for-30th-April-2025.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-04-30_MMi-Daily-Iron-Ore-Index-Prices-for-30th-April-2025.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-04-30_MMi-Daily-Iron-Ore-Index-Prices-for-30th-April-2025.pdf\n\n[Page 1]\nMMiDaily Iron Ore Index Report\nMMI Dashboard\nIron Ore Price Indices\nExchange Traded Contracts\nFreight Rates Steel Price\nInventory Levels Steel Price\nwww.mmiprices.com Page 2/6\nA\nA\np\np\nr\nr\n3\n3\n0\n0\nt\nt\nIr o n O r e P\nIO P I6 2\nh , 2 0 2 5\nIr o n O r e S\nIO S I6 2 6\nh , 2 0 2 5\no r t S t o c k ( F O T Q in g d a o )\n6 2 % F e F in e s R M B / t\n7 7 1\n- 3 - 0 . e a b o r n e ( C F R Q in g d a o )\n2 % F e F in e s U S D / d m t\n9 9 .",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16617,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -14,19 +14,19 @@
     "capesize",
     "handysize",
     "lng",
+    "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
     "steel",
-    "gas",
-    "oil",
-    "markets",
-    "prices",
-    "again"
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 674,
+  "token_count": 7440,
   "source_path": "reports/hellenic/demolition/2026/2026-03-16_gms-week-10-turbulent-tides.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-10-turbulent-tides",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 672,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-16_2026_03_16_gms_week_10_turbulent_tides__s02_linked_asset_2026_03_16_ship_recycling_market_insight_week_11_03_13_2026_turbulent_tides_pdf",
+      "doc_id": "hellenic_demolition_2026-03-16_2026_03_16_gms_week_10_turbulent_tides",
+      "parent_id": "hellenic_demolition_2026-03-16_2026_03_16_gms_week_10_turbulent_tides__root",
+      "title": "Linked asset: 2026-03-16_Ship-recycling-market-insight-Week-11-03-13-2026-Turbulent_Tides.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-16_Ship-recycling-market-insight-Week-11-03-13-2026-Turbulent_Tides.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-16_Ship-recycling-market-insight-Week-11-03-13-2026-Turbulent_Tides.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-03-16_Ship-recycling-market-insight-Week-11-03-13-2026-Turbulent_Tides.pdf\n\n[Page 1]\n1. ` *I\n, l'\n-+Ali / +N\nMarch 13 th, 2026\n1\n\\\nWeek 11\n\"Success is the sum of small efforts, repeated day-in and day-out.\"\nVolume 2 82, Issue 1226 -Robert Collier\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6730,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

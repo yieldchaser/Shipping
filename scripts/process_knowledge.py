@@ -1,8 +1,9 @@
 from __future__ import annotations
 
-import os, re, json, time, hashlib, argparse, traceback, shutil, sys, warnings, stat
+import os, re, json, time, hashlib, argparse, traceback, shutil, sys, warnings, stat, csv, random
 from pathlib import Path
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 import pdfplumber
 from bs4 import BeautifulSoup
@@ -22,11 +23,12 @@ REPO_ROOT = Path(__file__).parent.parent
 REPORTS_ROOT = REPO_ROOT / "reports"
 KNOWLEDGE = REPO_ROOT / "knowledge"
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
 TOKENIZER = tiktoken.get_encoding("cl100k_base")
 
 if GEMINI_KEY and genai is not None:
     genai.configure(api_key=GEMINI_KEY)
-    GEMINI = genai.GenerativeModel("gemini-2.0-flash")
+    GEMINI = genai.GenerativeModel(GEMINI_MODEL)
 else:
     GEMINI = None
 
@@ -56,6 +58,16 @@ TOPIC_EVIDENCE_DERIVED = DERIVED_DIR / "topic_evidence.jsonl"
 TIMELINES_DERIVED = DERIVED_DIR / "timelines.json"
 HEALTH_SUMMARY = KNOWLEDGE_REPORTS_DIR / "health_summary.md"
 COMPILER_VERSION = 2
+REPO_ROOT_RESOLVED = REPO_ROOT.resolve()
+LINKED_PDF_PAGE_LIMIT = 8
+LINKED_TEXT_CHAR_LIMIT = 50000
+LINKED_TABLE_ROW_LIMIT = 250
+LINKED_TABLE_COL_LIMIT = 20
+GEMINI_MIN_INTERVAL_SEC = float(os.environ.get("GEMINI_MIN_INTERVAL_SEC", "2.5"))
+GEMINI_MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "6"))
+GEMINI_BACKOFF_BASE_SEC = float(os.environ.get("GEMINI_BACKOFF_BASE_SEC", "3.0"))
+GEMINI_MAX_BACKOFF_SEC = float(os.environ.get("GEMINI_MAX_BACKOFF_SEC", "60.0"))
+_last_gemini_call_ts = 0.0
 
 BREAKWAVE_DRY_FIELDS = [
     "China Steel Production",
@@ -408,18 +420,26 @@ def remove_manifest_sources(rows: list[dict], source_paths: set[str]) -> list[di
     kept_tree_paths = {row.get("tree_path") for row in kept_rows if row.get("tree_path")}
     removed_doc_ids_by_chunk = {}
 
+    def _best_effort_unlink(target: Path):
+        try:
+            unlink_with_retries(target)
+        except PermissionError:
+            # Windows antivirus/indexing/editor handles can transiently block deletion.
+            # Continue so the file can still be overwritten during reprocessing.
+            pass
+
     for row in removed_rows:
         doc_path = row.get("doc_path")
         if doc_path and doc_path not in kept_doc_paths:
             target = REPO_ROOT / doc_path
             if target.exists():
-                unlink_with_retries(target)
+                _best_effort_unlink(target)
 
         tree_path = row.get("tree_path")
         if tree_path and tree_path not in kept_tree_paths:
             target = REPO_ROOT / tree_path
             if target.exists():
-                unlink_with_retries(target)
+                _best_effort_unlink(target)
 
         chunk_file = row.get("chunk_file")
         doc_id = row.get("doc_id")
@@ -653,20 +673,60 @@ def heuristic_theme_payload(text: str, category: str) -> dict:
     }
 
 
-def call_gemini(prompt: str, retries: int = 3) -> str | None:
+def _parse_retry_after(exc_text: str) -> float | None:
+    if not exc_text:
+        return None
+    match = re.search(r"retry(?:\s+after)?\s+(\d+(?:\.\d+)?)", exc_text, flags=re.I)
+    if not match:
+        return None
+    try:
+        return float(match.group(1))
+    except ValueError:
+        return None
+
+
+def _is_rate_limit_error(exc_text: str) -> bool:
+    lower = (exc_text or "").lower()
+    return "429" in lower or "too many requests" in lower or "quota" in lower or "rate limit" in lower
+
+
+def _gemini_sleep_interval():
+    global _last_gemini_call_ts
+    now = time.monotonic()
+    elapsed = now - _last_gemini_call_ts
+    wait_for = GEMINI_MIN_INTERVAL_SEC - elapsed
+    if wait_for > 0:
+        time.sleep(wait_for)
+
+
+def call_gemini(prompt: str, retries: int | None = None) -> str | None:
     if GEMINI is None:
         return None
+    retries = retries or GEMINI_MAX_RETRIES
+    global _last_gemini_call_ts
     for attempt in range(retries):
         try:
-            time.sleep(1.5)
+            _gemini_sleep_interval()
             response = GEMINI.generate_content(prompt)
+            _last_gemini_call_ts = time.monotonic()
             text = getattr(response, "text", None)
             if text:
                 return text.strip()
             return None
-        except Exception:
+        except Exception as exc:
+            _last_gemini_call_ts = time.monotonic()
             if attempt < retries - 1:
-                time.sleep(4 * (attempt + 1))
+                exc_text = str(exc)
+                retry_after = _parse_retry_after(exc_text)
+                if retry_after is not None:
+                    delay = retry_after
+                elif _is_rate_limit_error(exc_text):
+                    delay = GEMINI_BACKOFF_BASE_SEC * (2 ** attempt)
+                else:
+                    delay = GEMINI_BACKOFF_BASE_SEC * (attempt + 1)
+                delay = min(delay, GEMINI_MAX_BACKOFF_SEC)
+                delay += random.uniform(0.1, 0.9)
+                time.sleep(delay)
             else:
                 return None
 
@@ -897,6 +957,298 @@ def table_to_text(table) -> str:
     if not rows:
         return ""
     return "Table:\n" + "\n".join(rows)
+
+
+def truncate_linked_text(text: str, limit: int = LINKED_TEXT_CHAR_LIMIT) -> str:
+    cleaned = (text or "").strip()
+    if len(cleaned) <= limit:
+        return cleaned
+    return cleaned[:limit].rstrip() + "\n\n[Truncated linked content excerpt.]"
+
+
+def resolve_archive_link_path(html_path: Path, href: str) -> Path | None:
+    clean = norm_space(href)
+    if not clean:
+        return None
+    if clean.lower().startswith(("mailto:", "javascript:")):
+        return None
+    clean = clean.split("#", 1)[0].split("?", 1)[0]
+    if not clean:
+        return None
+
+    parsed = urlparse(clean)
+    if parsed.scheme in {"http", "https"}:
+        link_name = Path(parsed.path).name
+        if not link_name:
+            return None
+        candidate_dirs = [
+            html_path.parent,
+            html_path.parent / "pdfs",
+            html_path.parent / "assets",
+            html_path.parent / "files",
+            html_path.parent / "attachments",
+        ]
+        for candidate_dir in candidate_dirs:
+            candidate = (candidate_dir / link_name).resolve()
+            try:
+                candidate.relative_to(REPO_ROOT_RESOLVED)
+            except ValueError:
+                continue
+            if candidate.exists() and candidate.is_file():
+                return candidate
+        return None
+
+    try:
+        candidate = (html_path.parent / clean).resolve()
+    except OSError:
+        return None
+
+    try:
+        candidate.relative_to(REPO_ROOT_RESOLVED)
+    except ValueError:
+        return None
+
+    if not candidate.exists() or not candidate.is_file():
+        return None
+    return candidate
+
+
+def extract_linked_pdf_text(pdf_path: Path) -> str:
+    sections = []
+    total_chars = 0
+    extracted_pages = 0
+    total_pages = 0
+    with pdfplumber.open(pdf_path) as pdf:
+        total_pages = len(pdf.pages)
+        for index, page in enumerate(pdf.pages[:LINKED_PDF_PAGE_LIMIT], start=1):
+            page_text = norm_multiline(page.extract_text() or "")
+            if not page_text:
+                continue
+            entry = f"[Page {index}]\n{page_text}"
+            sections.append(entry)
+            extracted_pages = index
+            total_chars += len(entry)
+            if total_chars >= LINKED_TEXT_CHAR_LIMIT:
+                break
+
+    if not sections:
+        return ""
+
+    payload = "\n\n".join(sections)
+    payload = truncate_linked_text(payload)
+    if total_pages > extracted_pages:
+        payload += f"\n\n[Truncated linked PDF: extracted up to page {extracted_pages} of {total_pages}.]"
+    return payload
+
+
+def extract_linked_html_text(html_path: Path) -> str:
+    soup = BeautifulSoup(html_path.read_text(encoding="utf-8", errors="ignore"), "lxml")
+    root = soup.select_one("body") or soup
+    lines = []
+    last_line = None
+    for node in root.find_all(["h1", "h2", "h3", "h4", "p", "li", "blockquote", "table"]):
+        if node.name == "table":
+            line = table_to_text(node)
+        else:
+            line = norm_space(node.get_text(" ", strip=True))
+        if line and line != last_line:
+            lines.append(line)
+            last_line = line
+
+    if not lines:
+        fallback = norm_space(root.get_text("\n", strip=True))
+        if fallback:
+            lines = [fallback]
+
+    return truncate_linked_text("\n".join(lines))
+
+
+def extract_linked_tabular_text(path: Path, delimiter: str = ",") -> str:
+    rows = []
+    with path.open("r", encoding="utf-8", errors="ignore", newline="") as handle:
+        reader = csv.reader(handle, delimiter=delimiter)
+        for row_index, row in enumerate(reader, start=1):
+            if row_index > LINKED_TABLE_ROW_LIMIT:
+                break
+            cells = [norm_space(str(value)) for value in row[:LINKED_TABLE_COL_LIMIT]]
+            cells = [cell for cell in cells if cell]
+            if cells:
+                rows.append(" | ".join(cells))
+    if not rows:
+        return ""
+    if len(rows) >= LINKED_TABLE_ROW_LIMIT:
+        rows.append("[Truncated linked table rows.]")
+    return truncate_linked_text("Table:\n" + "\n".join(rows))
+
+
+def extract_linked_json_text(path: Path) -> str:
+    raw = path.read_text(encoding="utf-8", errors="ignore")
+    try:
+        parsed = json.loads(raw)
+    except json.JSONDecodeError:
+        return truncate_linked_text(raw)
+    return truncate_linked_text(json.dumps(parsed, indent=2, ensure_ascii=False))
+
+
+def extract_linked_spreadsheet_text(path: Path) -> str:
+    try:
+        import pandas as pd
+    except Exception:
+        return ""
+
+    sheet_blocks = []
+    try:
+        workbook = pd.ExcelFile(path)
+    except Exception:
+        return ""
+
+    for sheet_name in workbook.sheet_names[:5]:
+        try:
+            frame = pd.read_excel(workbook, sheet_name=sheet_name, header=None, dtype=str)
+        except Exception:
+            continue
+        if frame.empty:
+            continue
+        frame = frame.fillna("").iloc[:LINKED_TABLE_ROW_LIMIT, :LINKED_TABLE_COL_LIMIT]
+        rows = []
+        for _, row in frame.iterrows():
+            values = [norm_space(str(value)) for value in row.tolist()]
+            values = [value for value in values if value]
+            if values:
+                rows.append(" | ".join(values))
+        if not rows:
+            continue
+        block = [f"Sheet: {sheet_name}", "Table:", *rows]
+        if len(rows) >= LINKED_TABLE_ROW_LIMIT:
+            block.append("[Truncated linked spreadsheet rows.]")
+        sheet_blocks.append("\n".join(block))
+    if not sheet_blocks:
+        return ""
+    return truncate_linked_text("\n\n".join(sheet_blocks))
+
+
+def extract_linked_image_text(path: Path) -> str:
+    lines = [f"Linked image asset: {path.name}"]
+    suffix = path.suffix.lower()
+
+    if suffix == ".svg":
+        svg = BeautifulSoup(path.read_text(encoding="utf-8", errors="ignore"), "xml")
+        svg_text = []
+        for node in svg.find_all(["title", "desc", "text"]):
+            content = norm_space(node.get_text(" ", strip=True))
+            if content:
+                svg_text.append(content)
+        if svg_text:
+            lines.append("SVG text:\n" + "\n".join(dict.fromkeys(svg_text)))
+
+    try:
+        from PIL import ExifTags, Image
+
+        with Image.open(path) as image:
+            lines.append(f"Image metadata: {image.format} {image.width}x{image.height} mode={image.mode}")
+            info_pairs = []
+            for key, value in (image.info or {}).items():
+                value_text = norm_space(str(value))
+                if value_text:
+                    info_pairs.append(f"{key}: {value_text}")
+            if info_pairs:
+                lines.append("Embedded info:\n" + "\n".join(info_pairs[:8]))
+
+            exif = image.getexif()
+            if exif:
+                exif_lines = []
+                for tag, value in exif.items():
+                    name = ExifTags.TAGS.get(tag, str(tag))
+                    if name not in {"ImageDescription", "XPTitle", "XPComment", "UserComment"}:
+                        continue
+                    value_text = norm_space(str(value))
+                    if value_text:
+                        exif_lines.append(f"{name}: {value_text}")
+                if exif_lines:
+                    lines.append("EXIF text:\n" + "\n".join(exif_lines))
+    except Exception:
+        pass
+
+    try:
+        import pytesseract
+        from PIL import Image
+
+        with Image.open(path) as image:
+            ocr_text = norm_multiline(pytesseract.image_to_string(image) or "")
+        if ocr_text:
+            lines.append("OCR text:\n" + truncate_linked_text(ocr_text, limit=12000))
+        else:
+            lines.append("[No OCR text detected in linked image.]")
+    except Exception:
+        lines.append("[OCR unavailable; install pytesseract to ingest raster text from images.]")
+
+    return truncate_linked_text("\n\n".join(lines))
+
+
+def extract_linked_text_asset(asset_path: Path) -> str:
+    suffix = asset_path.suffix.lower()
+    if suffix == ".pdf":
+        return extract_linked_pdf_text(asset_path)
+    if suffix in {".html", ".htm"}:
+        return extract_linked_html_text(asset_path)
+    if suffix in {".csv", ".tsv"}:
+        delimiter = "," if suffix == ".csv" else "\t"
+        return extract_linked_tabular_text(asset_path, delimiter=delimiter)
+    if suffix in {".xls", ".xlsx", ".xlsm"}:
+        return extract_linked_spreadsheet_text(asset_path)
+    if suffix == ".json":
+        return extract_linked_json_text(asset_path)
+    if suffix in {".txt", ".md"}:
+        raw = asset_path.read_text(encoding="utf-8", errors="ignore")
+        return truncate_linked_text(raw)
+    if suffix in {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}:
+        return extract_linked_image_text(asset_path)
+    return ""
+
+
+def collect_linked_asset_sections(source: str, html_path: Path, root) -> list[dict]:
+    if source != "hellenic" or root is None:
+        return []
+
+    sections = []
+    seen_paths = set()
+    link_candidates = []
+    for anchor in root.find_all("a", href=True):
+        link_candidates.append(anchor.get("href"))
+    for image in root.find_all("img", src=True):
+        link_candidates.append(image.get("src"))
+
+    for candidate in link_candidates:
+        href = norm_space(candidate)
+        if not href:
+            continue
+        linked_path = resolve_archive_link_path(html_path, href)
+        if linked_path is None:
+            continue
+        linked_rel = relpath(linked_path)
+        if linked_rel in seen_paths:
+            continue
+        seen_paths.add(linked_rel)
+
+        linked_text = extract_linked_text_asset(linked_path)
+        if not linked_text:
+            continue
+
+        section_type = "linked_asset"
+        if linked_path.suffix.lower() == ".pdf":
+            section_type = "linked_pdf"
+        elif linked_path.suffix.lower() in {".html", ".htm", ".txt", ".md", ".csv", ".tsv", ".json", ".xls", ".xlsx", ".xlsm"}:
+            section_type = "linked_text_asset"
+        elif linked_path.suffix.lower() in {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg"}:
+            section_type = "linked_image_asset"
+
+        sections.append({
+            "heading": f"Linked asset: {linked_path.name}",
+            "text": f"Source asset: {linked_rel}\n\n{linked_text}",
+            "section_type": section_type,
+        })
+
+    return sections
 
 
 def infer_document_type(source: str, category: str) -> str:
@@ -1279,9 +1631,16 @@ def adapt_archive_html(
             text = table_to_text(node)
         elif node.name == "img":
             alt = norm_space(node.get("alt") or "")
+            title_attr = norm_space(node.get("title") or "")
             src = norm_space(node.get("src") or "")
-            img_ref = alt or src
-            text = f"Image reference: {img_ref}" if img_ref else ""
+            figure_caption = ""
+            parent_figure = node.find_parent("figure")
+            if parent_figure:
+                caption_node = parent_figure.find("figcaption")
+                if caption_node:
+                    figure_caption = norm_space(caption_node.get_text(" ", strip=True))
+            parts = [part for part in [alt, title_attr, figure_caption, src] if part]
+            text = f"Image reference: {' | '.join(parts)}" if parts else ""
         else:
             text = norm_space(node.get_text(" ", strip=True))
         if text and text != last_line:
@@ -1296,6 +1655,10 @@ def adapt_archive_html(
         if not fallback:
             fallback = title
         sections = [{"heading": "Main", "text": fallback}]
+
+    linked_sections = collect_linked_asset_sections(source, html_path, root)
+    if linked_sections:
+        sections.extend(linked_sections)
 
     full_text = "\n\n".join(
         f"{section['heading']}\n{section['text']}" if section["heading"] else section["text"]

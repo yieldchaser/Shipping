@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "iron_ore",
     "products",
     "steel",
-    "prices",
-    "rather",
-    "remains",
-    "sub-continent",
-    "usd"
+    "gas",
+    "ldt"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 488,
+  "token_count": 4804,
   "source_path": "reports/hellenic/demolition/2022/2022-11-29_gms-week-47-duties-reduced-prices-down.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-47-duties-reduced-prices-down",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 486,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-11-29_2022_11_29_gms_week_47_duties_reduced_prices_down__s02_linked_asset_2022_11_29_ship_recycling_market_insight_week_47_2022_duties_reduced_prices_down_pdf",
+      "doc_id": "hellenic_demolition_2022-11-29_2022_11_29_gms_week_47_duties_reduced_prices_down",
+      "parent_id": "hellenic_demolition_2022-11-29_2022_11_29_gms_week_47_duties_reduced_prices_down__root",
+      "title": "Linked asset: 2022-11-29_Ship-recycling-market-insight-week-47-2022-Duties-Reduced-Prices-Down.pdf",
+      "section_path": [
+        "Linked asset: 2022-11-29_Ship-recycling-market-insight-week-47-2022-Duties-Reduced-Prices-Down.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-11-29_Ship-recycling-market-insight-week-47-2022-Duties-Reduced-Prices-Down.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-11-29_Ship-recycling-market-insight-week-47-2022-Duties-Reduced-Prices-Down.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nNovember 25th, 2022 \"Get a good idea and stay with it. Volume 244, Issue 1058 Dog it, and work at it until it's done right.\"\nWeek 47 - Walt Disney\nHighlights: MARKET COMMENTARY\nD\n\"Th\nU\ner\nT\ne a\nI\nr\nE\ne\nS\non\nR\nly\nE\ntw\nD\no\nU\nop\nC\ntio\nE\nn\nD\ns r\n,\ne\nP\nga\nR\nrd\nI\ni\nC\nng\nE\nc\nS\nom\nD\nmi\nO\ntm\nW\nen\nN\nt.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4280,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

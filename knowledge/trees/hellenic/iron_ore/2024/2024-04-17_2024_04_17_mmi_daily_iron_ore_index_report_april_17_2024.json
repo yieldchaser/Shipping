@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 17/04/2024\nDCE iron ore futures today, and experienced a significant increase in the afternoon.The main contract I2409 closed at 870, with a daily increase of 4.25%. Traders are actively selling, while steel mills are cautious and have reduced their inquiries. Overall, the market has a good trading atmosphere today.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
-    "increase",
+    "fines",
     "iron",
-    "period.",
-    "previous",
-    "was",
-    "are",
-    "blast",
-    "daily",
-    "furnace"
+    "ore",
+    "apr"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 252,
+  "token_count": 10434,
   "source_path": "reports/hellenic/iron_ore/2024/2024-04-17_mmi-daily-iron-ore-index-report-april-17-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-17-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 250,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2024-04-17_2024_04_17_mmi_daily_iron_ore_index_report_april_17_2024__s02_linked_asset_2024_04_17_mmi_daily_iron_ore_report_for_17th_april_2024_pdf",
+      "doc_id": "hellenic_iron_ore_2024-04-17_2024_04_17_mmi_daily_iron_ore_index_report_april_17_2024",
+      "parent_id": "hellenic_iron_ore_2024-04-17_2024_04_17_mmi_daily_iron_ore_index_report_april_17_2024__root",
+      "title": "Linked asset: 2024-04-17_MMi-Daily-Iron-Ore-Report-for-17th-April-2024.pdf",
+      "section_path": [
+        "Linked asset: 2024-04-17_MMi-Daily-Iron-Ore-Report-for-17th-April-2024.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-04-17_MMi-Daily-Iron-Ore-Report-for-17th-April-2024.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2024-04-17_MMi-Daily-Iron-Ore-Report-for-17th-April-2024.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Apr 17th, 2024\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n870 981 717\n26 3.11% 26.21 2.74% 20 2.84%\nApr 17th, 2024 Apr 17th, 2024 Apr 17th, 2024\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n113.36 125.48 976\n3.44 3.13% 4.37 3.61% 76 8.44%\nApr 17th, 2024 Apr 17th, 2024 Week Ending Apr 12th, 2024\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2409 (sep) RMB/t (3pm close) May 24 USD/dmt RB2410 (oct) RMB/t\n870.00 115.45 3682\n44.00 5.33% 5.95 5.43% 74 2.05%\nApr 17th, 2024 (3pm close) Apr 17th, 2024 (5.30 pm Print) Apr 17th, 2024 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n26.41 10.92 3570\n0.66 2.58% 0",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10151,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

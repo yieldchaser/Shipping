@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 28/05/2025\nToday, the DCE Iron Ore futures market experienced repeated fluctuations, with the most-traded contract I2509 eventually closing at 698.5, unchangedfrom yesterday's closing price, and recording a daily decline of 0.14%. Traders are shipping normally; steel mills are inquiring cautiously and purchasing as needed. The market transaction atmosphere is average.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
     "iron",
-    "mills",
     "ore",
-    "are",
-    "decline",
-    "price",
-    "production",
-    "transaction",
-    "yesterday"
+    "may",
+    "grade"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 402,
+  "token_count": 17089,
   "source_path": "reports/hellenic/iron_ore/2025/2025-05-28_mmi-daily-iron-ore-index-report-may-28-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-28-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 400,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2025-05-28_2025_05_28_mmi_daily_iron_ore_index_report_may_28_2025__s02_linked_asset_2025_05_28_mmi_daily_iron_ore_report_for_28th_may_2025_pdf",
+      "doc_id": "hellenic_iron_ore_2025-05-28_2025_05_28_mmi_daily_iron_ore_index_report_may_28_2025",
+      "parent_id": "hellenic_iron_ore_2025-05-28_2025_05_28_mmi_daily_iron_ore_index_report_may_28_2025__root",
+      "title": "Linked asset: 2025-05-28_MMi-Daily-Iron-Ore-Report-for-28th-May-2025.pdf",
+      "section_path": [
+        "Linked asset: 2025-05-28_MMi-Daily-Iron-Ore-Report-for-28th-May-2025.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-05-28_MMi-Daily-Iron-Ore-Report-for-28th-May-2025.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-05-28_MMi-Daily-Iron-Ore-Report-for-28th-May-2025.pdf\n\n[Page 1]\nMMiDaily Iron Ore Index Report\nMMI Dashboard\nIron Ore Price Indices\nExchange Traded Contracts\nFreight Rates Steel Price\nInventory Levels Steel Price\nwww.mmiprices.com Page 1/6\nM\nM\na\na\ny\ny\n2\n2\n8\n8\nIr o n O r e P\nIO P I6 2\nt h , 2 0 2 5\nIr o n O r e S\nIO S I6 2 6\nt h , 2 0 2 5\no r t S t o c k ( F O T Q in g d a o )\n6 2 % F e F in e s R M B / t\n7 5 4\n- 1 - 0 . e a b o r n e ( C F R Q in g d a o )\n2 % F e F in e s U S D / d m t\n9 7 .",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16657,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

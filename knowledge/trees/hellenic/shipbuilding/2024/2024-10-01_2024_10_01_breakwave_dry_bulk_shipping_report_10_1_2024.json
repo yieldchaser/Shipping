@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 10.1.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 01/10/2024\nCapesize Rates Continue to Climb on the Back of Favorable Seasonality - Although volatility remains subdued across the dry bulk sector, Capesize\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 01/10/2024\nCapesize Rates Continue to Climb on the Back of Favorable Seasonality - Although volatility remains subdued across the dry bulk sector, Capesize\nSource: Breakwave Advisors\n\nLinked asset: 2024-10-01_BreakwaveDryOctober12024Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-10-01_BreakwaveDryOctober12024Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nOctober 1, 2024\nBreakwave Dry Futures Index: 2,092 Baltic Dry Index (spot): 2,084 Short-term Indicators:\n↓ 30D: -2.8% ↑ 30D: 14.9% Momentum: Neutral\n↑ YTD: 39.6% ↑ YTD: 0.8% Sentiment: Positive\n↑ YOY: 34.9% ↑ YOY: 24.0% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Rates Continue to Climb on the Back of Favorable Seasonality - Although volatility remains subdued across\nthe dry bulk sector, Capesize rates continue to show decent upside momentum, while we sense an air of optimism\ncharacteristic of periods preceding major rallies. At about 30,000, Capesize spot rates have clearly outperformed the\nsmaller sizes, as cargo flow for the large bulkers remains remarkably strong. With the North Atlantic spot market\nfinally catching up to the rest of the basins in terms of rates and with ",
   "keywords": [
     "capesize",
-    "although",
-    "back",
-    "climb",
-    "continue",
-    "favorable",
-    "main",
-    "remains",
-    "seasonality",
-    "sector",
-    "shipbuilding",
-    "source"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 51,
+  "token_count": 1500,
   "source_path": "reports/hellenic/shipbuilding/2024/2024-10-01_breakwave-dry-bulk-shipping-report-10-1-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-10-1-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 49,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-10-01_2024_10_01_breakwave_dry_bulk_shipping_report_10_1_2024__s02_linked_asset_2024_10_01_breakwavedryoctober12024report_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-10-01_2024_10_01_breakwave_dry_bulk_shipping_report_10_1_2024",
+      "parent_id": "hellenic_shipbuilding_2024-10-01_2024_10_01_breakwave_dry_bulk_shipping_report_10_1_2024__root",
+      "title": "Linked asset: 2024-10-01_BreakwaveDryOctober12024Report.pdf",
+      "section_path": [
+        "Linked asset: 2024-10-01_BreakwaveDryOctober12024Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-10-01_BreakwaveDryOctober12024Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-10-01_BreakwaveDryOctober12024Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nOctober 1, 2024\nBreakwave Dry Futures Index: 2,092 Baltic Dry Index (spot): 2,084 Short-term Indicators:\n↓ 30D: -2.8% ↑ 30D: 14.9% Momentum: Neutral\n↑ YTD: 39.6% ↑ YTD: 0.8% Sentiment: Positive\n↑ YOY: 34.9% ↑ YOY: 24.0% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Rates Continue to Climb on the Back of Favorable Seasonality - Although volatility remains subdued across\nthe dry bulk sector, Capesize rates continue to show decent upside momentum, while we sense an air of optimism\ncharacteristic of periods preceding major rallies. At about 30,000, Capesize spot rates have clearly outperformed the\nsmaller sizes, as cargo flow for the large bulkers remains remarkably strong.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1428,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

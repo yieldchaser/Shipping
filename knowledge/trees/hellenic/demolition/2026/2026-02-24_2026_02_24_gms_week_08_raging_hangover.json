@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "supramax",
+    "lng",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "steel",
-    "figures",
-    "recycling",
-    "all",
-    "are"
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 785,
+  "token_count": 7348,
   "source_path": "reports/hellenic/demolition/2026/2026-02-24_gms-week-08-raging-hangover.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-08-raging-hangover",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 783,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-02-24_2026_02_24_gms_week_08_raging_hangover__s02_linked_asset_2026_02_24_ship_recycling_market_insight_week_08_02_20_2026_raging_hangover_pdf",
+      "doc_id": "hellenic_demolition_2026-02-24_2026_02_24_gms_week_08_raging_hangover",
+      "parent_id": "hellenic_demolition_2026-02-24_2026_02_24_gms_week_08_raging_hangover__root",
+      "title": "Linked asset: 2026-02-24_Ship-recycling-market-insight-Week-08-02-20-2026-Raging_Hangover.pdf",
+      "section_path": [
+        "Linked asset: 2026-02-24_Ship-recycling-market-insight-Week-08-02-20-2026-Raging_Hangover.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-02-24_Ship-recycling-market-insight-Week-08-02-20-2026-Raging_Hangover.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-02-24_Ship-recycling-market-insight-Week-08-02-20-2026-Raging_Hangover.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nFebruary 20th, 2026\n1\n\"The best way to predict the future is to create it.\"\nWeek 8\nVolume 2 81, Issue 1224 - Abraham Lincoln\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6527,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

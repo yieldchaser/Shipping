@@ -16,17 +16,17 @@
     "supramax",
     "handysize",
     "lng",
+    "container",
     "china",
     "brazil",
+    "europe",
     "india",
-    "steel",
-    "gas",
-    "recycling",
-    "ship"
+    "singapore",
+    "japan"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 804,
+  "token_count": 7790,
   "source_path": "reports/hellenic/demolition/2025/2025-07-14_gms-week-28-summer-sufferance.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-28-summer-sufferance",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 802,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-07-14_2025_07_14_gms_week_28_summer_sufferance__s02_linked_asset_2025_07_14_ship_recycling_market_insight_week_28_07_11_2025_summer_sufferance_pdf",
+      "doc_id": "hellenic_demolition_2025-07-14_2025_07_14_gms_week_28_summer_sufferance",
+      "parent_id": "hellenic_demolition_2025-07-14_2025_07_14_gms_week_28_summer_sufferance__root",
+      "title": "Linked asset: 2025-07-14_Ship-recycling-market-insight-Week-28-07-11-2025-Summer_Sufferance.pdf",
+      "section_path": [
+        "Linked asset: 2025-07-14_Ship-recycling-market-insight-Week-28-07-11-2025-Summer_Sufferance.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-07-14_Ship-recycling-market-insight-Week-28-07-11-2025-Summer_Sufferance.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-07-14_Ship-recycling-market-insight-Week-28-07-11-2025-Summer_Sufferance.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nJuly 11th, 2025\n1\n\"You don't have to see the whole staircase, just take the first step.\"\nWeek 28\n- Dr. Volume 274, Issue 1193\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "container",
+        "china",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6950,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

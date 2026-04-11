@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 16/12/2023\nImage reference: 2023-12-16_gms-week-49-no-bumper-xmas_img1.jpg\nAs we enter the final few weeks of the year, it is clear that sub continent markets are not going to have the bumper conclusion to 2023 that many had been hoping for. Instead, only a trickle of deals are being done to muted markets, as demand and sentiments continue to struggle for another week. There was one further container deal done, amidst a last quarter flurry, but dry bulk supply has stalled as trading markets have enjoyed an unexpected spike, and it seems many owners are holding on to see if either recycling prices or charter rates improve going into next year.",
   "keywords": [
+    "panamax",
     "container",
+    "china",
     "europe",
+    "india",
+    "singapore",
+    "japan",
+    "steel",
+    "december",
+    "ldt",
     "are",
-    "uae",
-    "ahead",
-    "markets",
-    "next",
-    "only",
-    "recycling",
-    "ruling",
-    "vessels",
-    "but"
+    "bangladesh"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 381,
+  "token_count": 4162,
   "source_path": "reports/hellenic/demolition/2023/2023-12-16_gms-week-49-no-bumper-xmas.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-49-no-bumper-xmas",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 379,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-12-16_2023_12_16_gms_week_49_no_bumper_xmas__s02_linked_asset_2023_12_16_15_20december_202023_pdf",
+      "doc_id": "hellenic_demolition_2023-12-16_2023_12_16_gms_week_49_no_bumper_xmas",
+      "parent_id": "hellenic_demolition_2023-12-16_2023_12_16_gms_week_49_no_bumper_xmas__root",
+      "title": "Linked asset: 2023-12-16_15%20December,%202023.pdf",
+      "section_path": [
+        "Linked asset: 2023-12-16_15%20December,%202023.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-12-16_15%20December,%202023.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-12-16_15%20December,%202023.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nDecembe r 15th, 2023 \"Fall seven times. Stand up eight.\"\nVolume 2 56, Issue 1113\n- Japanese Proverb\nWeek 50\nHighlights: MARKET COMMENTARY\nNO BUMPER XMAS!",
+      "keywords": [
+        "panamax",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3760,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

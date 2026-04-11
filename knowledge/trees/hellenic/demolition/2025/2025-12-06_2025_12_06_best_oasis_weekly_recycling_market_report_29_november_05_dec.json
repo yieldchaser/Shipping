@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 29 November - 05 December 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 06/12/2025\nThe market remains highly cautious, as the sharp decline in the dollar over the past two weeks has distorted price expectations\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 06/12/2025\nThe market remains highly cautious, as the sharp decline in the dollar over the past two weeks has distorted price expectations\nSource: Best Oasis Limited\n\nLinked asset: 2025-12-06_Weekly-Ship-Recycling-Report-29-November-05-December-2025.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-12-06_Weekly-Ship-Recycling-Report-29-November-05-December-2025.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(29 NOVEMBER - 05 DECEMBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe market remains highly cautious, as the sharp decline in the dollar over the past\ntwo weeks has distorted price expectations, leaving buyers unable to match offered\nlevels with prevailing local steel prices. Ship availability is extremely limited, with most of the few units available, heading\ntoward Bangladesh, resulting in Indian yards staying largely idle. Current activity is driven primarily by dark-fleet tonnage; however, only a small\nnumber of yards are engaging in such purchases, keeping",
   "keywords": [
-    "best",
-    "cautious",
-    "decline",
-    "demolition",
-    "distorted",
-    "dollar",
-    "expectations",
-    "highly",
-    "limited",
-    "main",
-    "oasis",
-    "past"
+    "lng",
+    "lpg",
+    "container",
+    "india",
+    "steel",
+    "gas",
+    "bangladesh",
+    "activity",
+    "any",
+    "are",
+    "buyers",
+    "price"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 44,
+  "token_count": 1283,
   "source_path": "reports/hellenic/demolition/2025/2025-12-06_best-oasis-weekly-recycling-market-report-29-november-05-dec.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-29-november-05-december-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 42,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-12-06_2025_12_06_best_oasis_weekly_recycling_market_report_29_november_05_dec__s02_linked_asset_2025_12_06_weekly_ship_recycling_report_29_november_05_december_2025_pdf",
+      "doc_id": "hellenic_demolition_2025-12-06_2025_12_06_best_oasis_weekly_recycling_market_report_29_november_05_dec",
+      "parent_id": "hellenic_demolition_2025-12-06_2025_12_06_best_oasis_weekly_recycling_market_report_29_november_05_dec__root",
+      "title": "Linked asset: 2025-12-06_Weekly-Ship-Recycling-Report-29-November-05-December-2025.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-06_Weekly-Ship-Recycling-Report-29-November-05-December-2025.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-06_Weekly-Ship-Recycling-Report-29-November-05-December-2025.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-12-06_Weekly-Ship-Recycling-Report-29-November-05-December-2025.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(29 NOVEMBER - 05 DECEMBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe market remains highly cautious, as the sharp decline in the dollar over the past\ntwo weeks has distorted price expectations, leaving buyers unable to match offered\nlevels with prevailing local steel prices. Ship availability is extremely limited, with most of the few units available, heading\ntoward Bangladesh, resulting in Indian yards staying largely idle.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "india",
+        "steel",
+        "gas",
+        "bangladesh",
+        "activity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1206,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

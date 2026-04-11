@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 29/04/2024\nImage reference: 2024-04-29_gms-week-17-crop-of-corrosion_img1.jpg\nOn the back of freight markets that are finally facing their first set of 2024 jitters, the industryis gradually witnessing an increasing number of units being proposed for a recycling sale, all of which are being confirmed via the sudden influx of tonnage at the Indian and Bangladeshi waterfronts this week, just as the Pakistani market (as expected) starts to fall behind on its domestic arrivals and at this rate, India looks set to sneak past the Pakistani market in the rankings soon enough. Notwithstanding, the increased inflow of tonnage and subsequent (market / private) fixtures into the sub-continent recycling markets, there seems to be a slight mismatch in terms of price expectations vs. Although there remain a limited number of open and able Recyclers with ready L/Cs to pick up units, this is proving increasingly troublesome for Owners & Cash Buyers who continue trying to conclude subpar, poorer condition units, and these vessels are not only seeing prices discounted in line with their reality, but some are even facing lower than expected levels - such sticklers ha",
   "keywords": [
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
     "are",
-    "recycling",
-    "tonnage",
-    "units",
-    "back",
-    "being",
-    "buyers",
-    "increasingly"
+    "april",
+    "may",
+    "ldt"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 662,
+  "token_count": 5708,
   "source_path": "reports/hellenic/demolition/2024/2024-04-29_gms-week-17-crop-of-corrosion.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-17-crop-of-corrosion",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 660,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-04-29_2024_04_29_gms_week_17_crop_of_corrosion__s02_linked_asset_2024_04_29_ship_recycling_market_insight_week_17_2024_crop_of_corrosion_pdf",
+      "doc_id": "hellenic_demolition_2024-04-29_2024_04_29_gms_week_17_crop_of_corrosion",
+      "parent_id": "hellenic_demolition_2024-04-29_2024_04_29_gms_week_17_crop_of_corrosion__root",
+      "title": "Linked asset: 2024-04-29_Ship-recycling-market-insight-week-17-2024-Crop_of_Corrosion.pdf",
+      "section_path": [
+        "Linked asset: 2024-04-29_Ship-recycling-market-insight-week-17-2024-Crop_of_Corrosion.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-04-29_Ship-recycling-market-insight-week-17-2024-Crop_of_Corrosion.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-04-29_Ship-recycling-market-insight-week-17-2024-Crop_of_Corrosion.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nApril 26th, 2024\n\"Your mind will give back to you exactly what you put into it.\"\nWeek 17\nVolume 260, Issue 1131 - James Joyce\nHighlig hts: - MARKET COMMENTARY -\nCROP OF CORROSION! \"There are only two options regarding commitment.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5013,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

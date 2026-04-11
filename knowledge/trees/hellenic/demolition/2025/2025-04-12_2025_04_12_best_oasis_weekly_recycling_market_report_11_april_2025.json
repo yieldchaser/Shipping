@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 11 April 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 12/04/2025\nThe ship recycling market remained largely unchanged this week, with activity levels steady across key destinations and no major shifts in sentiment.",
+  "summary": "Main\nin Weekly Demolition Reports 12/04/2025\nThe ship recycling market remained largely unchanged this week, with activity levels steady across key destinations and no major shifts in sentiment. Source: Best Oasis Limited\n\nLinked asset: 2025-04-12_Weekly-Ship-Recycling-Report-05-April-11-April-2025_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-04-12_Weekly-Ship-Recycling-Report-05-April-11-April-2025_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n05 April - 11 April 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThe ship recycling market remained largely unchanged this week, with activity levels steady across key destinations and no major shifts in sentiment. In\nIndia, the market held firm, though local buyers stayed cautious as rising domestic steel prices faced growing pressure from more competitively priced\nChinese alternatives.",
   "keywords": [
-    "activity",
-    "best",
-    "demolition",
-    "destinations",
-    "key",
-    "largely",
-    "levels",
-    "limited",
-    "main",
-    "major",
-    "oasis",
-    "recycling"
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "steel",
+    "ship",
+    "previous",
+    "recycling",
+    "april",
+    "prices"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 45,
+  "token_count": 2434,
   "source_path": "reports/hellenic/demolition/2025/2025-04-12_best-oasis-weekly-recycling-market-report-11-april-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-11-april-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 43,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-04-12_2025_04_12_best_oasis_weekly_recycling_market_report_11_april_2025__s02_linked_asset_2025_04_12_weekly_ship_recycling_report_05_april_11_april_2025_compressed_pdf",
+      "doc_id": "hellenic_demolition_2025-04-12_2025_04_12_best_oasis_weekly_recycling_market_report_11_april_2025",
+      "parent_id": "hellenic_demolition_2025-04-12_2025_04_12_best_oasis_weekly_recycling_market_report_11_april_2025__root",
+      "title": "Linked asset: 2025-04-12_Weekly-Ship-Recycling-Report-05-April-11-April-2025_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2025-04-12_Weekly-Ship-Recycling-Report-05-April-11-April-2025_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-04-12_Weekly-Ship-Recycling-Report-05-April-11-April-2025_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-04-12_Weekly-Ship-Recycling-Report-05-April-11-April-2025_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n05 April - 11 April 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThe ship recycling market remained largely unchanged this week, with activity levels steady across key destinations and no major shifts in sentiment. In\nIndia, the market held firm, though local buyers stayed cautious as rising domestic steel prices faced growing pressure from more competitively priced\nChinese alternatives.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel",
+        "ship"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2354,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

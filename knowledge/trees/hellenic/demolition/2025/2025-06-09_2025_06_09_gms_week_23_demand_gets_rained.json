@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "lng",
+    "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
     "steel",
-    "gas",
-    "recycling",
-    "are",
-    "local",
-    "recyclers"
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 747,
+  "token_count": 7393,
   "source_path": "reports/hellenic/demolition/2025/2025-06-09_gms-week-23-demand-gets-rained.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-23-demand-gets-rained",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 745,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-06-09_2025_06_09_gms_week_23_demand_gets_rained__s02_linked_asset_2025_06_09_ship_recycling_market_insight_week_23_06_06_2025_demand_gets_rained_pdf",
+      "doc_id": "hellenic_demolition_2025-06-09_2025_06_09_gms_week_23_demand_gets_rained",
+      "parent_id": "hellenic_demolition_2025-06-09_2025_06_09_gms_week_23_demand_gets_rained__root",
+      "title": "Linked asset: 2025-06-09_Ship-recycling-market-insight-Week-23-06-06-2025-Demand_Gets_Rained.pdf",
+      "section_path": [
+        "Linked asset: 2025-06-09_Ship-recycling-market-insight-Week-23-06-06-2025-Demand_Gets_Rained.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-06-09_Ship-recycling-market-insight-Week-23-06-06-2025-Demand_Gets_Rained.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-06-09_Ship-recycling-market-insight-Week-23-06-06-2025-Demand_Gets_Rained.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nJune 6th, 2025\n1\n\"You are never too old to set another goal or to dream a new dream.\"\nWeek 23\nVolume 273, Issue 1188 - C.S. Lewis\nHighlig hts: -- MARKET COMMENTARY --\nDEMAND GETS RAINED!",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6609,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

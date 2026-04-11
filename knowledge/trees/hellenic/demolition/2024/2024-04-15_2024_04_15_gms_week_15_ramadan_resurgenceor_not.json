@@ -15,18 +15,18 @@
     "china",
     "europe",
     "india",
-    "recycling",
-    "are",
-    "indian",
-    "ship",
-    "containers",
-    "markets",
-    "overall",
-    "several"
+    "singapore",
+    "japan",
+    "steel",
+    "gas",
+    "april",
+    "ldt",
+    "prices",
+    "recycling"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 599,
+  "token_count": 5419,
   "source_path": "reports/hellenic/demolition/2024/2024-04-15_gms-week-15-ramadan-resurgenceor-not.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-15-ramadan-resurgenceor-not",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 597,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-04-15_2024_04_15_gms_week_15_ramadan_resurgenceor_not__s02_linked_asset_2024_04_15_ship_recycling_market_insight_week_15_2024_ramadan_resurgence_or_not_pdf",
+      "doc_id": "hellenic_demolition_2024-04-15_2024_04_15_gms_week_15_ramadan_resurgenceor_not",
+      "parent_id": "hellenic_demolition_2024-04-15_2024_04_15_gms_week_15_ramadan_resurgenceor_not__root",
+      "title": "Linked asset: 2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence…Or_Not.pdf",
+      "section_path": [
+        "Linked asset: 2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence…Or_Not.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence…Or_Not.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-04-15_Ship-recycling-market-insight-week-15-2024-Ramadan_Resurgence…Or_Not.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nApril 12th, 2024 \"People seldom do what they believe in. Week 15 They do what is convenient, and then repent.\"\nVolume 2 60, Issue 1129\n- Bob Dylan\n`\nHighlights: MARKET COMMENTARY\nR\n\"\nA\nTh\nM\nere\nA\na\nD\nre\nA\non\nN\nly t\nR\nwo\nE\no\nS\np\nU\ntio\nR\nns\nG\nre\nE\ng\nN\nard\nC\nin\nE\ng\n…\ncom\nO\nm\nR\nit m\nN\ne\nO\nnt.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4786,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

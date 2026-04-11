@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "lng",
+    "lpg",
     "container",
+    "china",
+    "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
-    "gas",
-    "are",
-    "vessels",
-    "back",
-    "markets",
-    "recycling",
-    "after"
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 467,
+  "token_count": 4703,
   "source_path": "reports/hellenic/demolition/2023/2023-03-13_gms-week-10-firmly-poised.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-10-firmly-poised",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 465,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-03-13_2023_03_13_gms_week_10_firmly_poised__s02_linked_asset_2023_03_13_ship_recycling_market_insight_week_10_2023_firmly_poised_pdf",
+      "doc_id": "hellenic_demolition_2023-03-13_2023_03_13_gms_week_10_firmly_poised",
+      "parent_id": "hellenic_demolition_2023-03-13_2023_03_13_gms_week_10_firmly_poised__root",
+      "title": "Linked asset: 2023-03-13_Ship-recycling-market-insight-week-10-2023-Firmly-Poised.pdf",
+      "section_path": [
+        "Linked asset: 2023-03-13_Ship-recycling-market-insight-week-10-2023-Firmly-Poised.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-03-13_Ship-recycling-market-insight-week-10-2023-Firmly-Poised.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-03-13_Ship-recycling-market-insight-week-10-2023-Firmly-Poised.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nMarch 10 th, 2023\n\"When it comes to luck, you make your own.\"\nVolume 248, Issue 1073\nWeek 10 - Bruce Springsteen\nHighlights: MARKET COMMENTARY\nFIRMLY POISED! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4204,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

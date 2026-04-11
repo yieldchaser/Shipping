@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 02/01/2024\nImage reference: 2024-01-02_gms-week-52-with-mixed-feelings-adieu-2023_img1.jpg\nThe last week of the year delivered unto the international ship recycling community& industry overall, a ship load of mixed feelings. On the one hand, we have seen comparatively more deals concluded in 2023 than we did in 2022, with 2022 being the weakest of years over the last decade (in terms of the volume of vessels recycled in a single year). On the other hand, despite the industry witnessing a far firmer volume of vessels recycled this year, when compared to a bloated global NB orderbook (particularly in the container sector), the recycling industry still fell short of the number of permanent exits needed in order to balance out global fleets.",
   "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
     "container",
+    "china",
     "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
-    "year",
-    "all",
-    "are",
-    "gms",
-    "new",
-    "prices",
-    "ship",
-    "vessel",
-    "being"
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 572,
+  "token_count": 5130,
   "source_path": "reports/hellenic/demolition/2024/2024-01-02_gms-week-52-with-mixed-feelings-adieu-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-52-with-mixed-feelings-adieu-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 570,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-01-02_2024_01_02_gms_week_52_with_mixed_feelings_adieu_2023__s02_linked_asset_2024_01_02_ship_recycling_market_insight_week_52_2023_with_mixed_feelings_adieu_2023_pdf",
+      "doc_id": "hellenic_demolition_2024-01-02_2024_01_02_gms_week_52_with_mixed_feelings_adieu_2023",
+      "parent_id": "hellenic_demolition_2024-01-02_2024_01_02_gms_week_52_with_mixed_feelings_adieu_2023__root",
+      "title": "Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf",
+      "section_path": [
+        "Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-01-02_Ship-recycling-market-insight-week-52-2023-With-Mixed-Feelings-Adieu-2023.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nDecembe r 29th, 2023\n\"Don't worry about failure; you only have to be right once.\"\nVolume 256, Issue 1115\n- Drew Houston\nWeek 52\nHighlights: MARKET COMMENTARY\nWITH MIXED FEELINGS, ADIEU 2023! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4520,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

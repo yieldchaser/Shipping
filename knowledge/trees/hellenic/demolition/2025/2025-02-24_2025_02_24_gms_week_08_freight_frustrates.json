@@ -13,20 +13,20 @@
   "keywords": [
     "panamax",
     "lng",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
+    "products",
     "steel",
-    "gas",
-    "are",
-    "recycling",
-    "ship",
-    "further"
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 783,
+  "token_count": 6907,
   "source_path": "reports/hellenic/demolition/2025/2025-02-24_gms-week-08-freight-frustrates.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-08-freight-frustrates",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 781,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-02-24_2025_02_24_gms_week_08_freight_frustrates__s02_linked_asset_2025_02_24_ship_recycling_market_insight_week_08_02_21_2025_freight_frustrates_pdf",
+      "doc_id": "hellenic_demolition_2025-02-24_2025_02_24_gms_week_08_freight_frustrates",
+      "parent_id": "hellenic_demolition_2025-02-24_2025_02_24_gms_week_08_freight_frustrates__root",
+      "title": "Linked asset: 2025-02-24_Ship-recycling-market-insight-Week-08-02-21-2025-Freight_Frustrates.pdf",
+      "section_path": [
+        "Linked asset: 2025-02-24_Ship-recycling-market-insight-Week-08-02-21-2025-Freight_Frustrates.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-02-24_Ship-recycling-market-insight-Week-08-02-21-2025-Freight_Frustrates.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-02-24_Ship-recycling-market-insight-Week-08-02-21-2025-Freight_Frustrates.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nFebruary 21st, 2025\n1\n\"Once you've accepted your flaws, no one can use them against you.\"\nWeek 8\n- George R. Martin\nVolume 269, Issue 1173\nHighlig hts: -- MARKET COMMENTARY --\nFREIGHT FRUSTRATES!",
+      "keywords": [
+        "panamax",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6086,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

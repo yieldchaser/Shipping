@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 18 July 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 19/07/2025\nShip recycling markets across South Asia and Türkiye remain largely subdued, with sentiment cautious and activity restricted\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 19/07/2025\nShip recycling markets across South Asia and Türkiye remain largely subdued, with sentiment cautious and activity restricted\nSource: Best Oasis Limited\n\nLinked asset: 2025-07-19_Weekly-Ship-Recycling-Report-12-July-18-July-2025_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-07-19_Weekly-Ship-Recycling-Report-12-July-18-July-2025_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n12 July - 18 July 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nShip recycling markets across South Asia and Türkiye remain largely subdued, with sentiment cautious and activity restricted by a mix of seasonal and\nstructural factors. In India, limited market traction was observed early in the week, but momentum soon faded as buying interest softened. While inquiries\nhave been present, the continued lack of available vessels has prevented any notable movement.",
   "keywords": [
-    "activity",
-    "asia",
-    "best",
-    "cautious",
-    "demolition",
-    "largely",
-    "limited",
-    "main",
-    "markets",
-    "oasis",
+    "lng",
+    "container",
+    "europe",
+    "india",
+    "singapore",
+    "gas",
+    "previous",
     "recycling",
-    "remain"
+    "change",
+    "ship",
+    "limited",
+    "price"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 41,
+  "token_count": 2015,
   "source_path": "reports/hellenic/demolition/2025/2025-07-19_best-oasis-weekly-recycling-market-report-18-july-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-18-july-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 39,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-07-19_2025_07_19_best_oasis_weekly_recycling_market_report_18_july_2025__s02_linked_asset_2025_07_19_weekly_ship_recycling_report_12_july_18_july_2025_compressed_pdf",
+      "doc_id": "hellenic_demolition_2025-07-19_2025_07_19_best_oasis_weekly_recycling_market_report_18_july_2025",
+      "parent_id": "hellenic_demolition_2025-07-19_2025_07_19_best_oasis_weekly_recycling_market_report_18_july_2025__root",
+      "title": "Linked asset: 2025-07-19_Weekly-Ship-Recycling-Report-12-July-18-July-2025_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2025-07-19_Weekly-Ship-Recycling-Report-12-July-18-July-2025_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-07-19_Weekly-Ship-Recycling-Report-12-July-18-July-2025_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-07-19_Weekly-Ship-Recycling-Report-12-July-18-July-2025_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n12 July - 18 July 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nShip recycling markets across South Asia and Türkiye remain largely subdued, with sentiment cautious and activity restricted by a mix of seasonal and\nstructural factors. In India, limited market traction was observed early in the week, but momentum soon faded as buying interest softened.",
+      "keywords": [
+        "lng",
+        "container",
+        "europe",
+        "india",
+        "singapore",
+        "gas",
+        "previous",
+        "recycling"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1939,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

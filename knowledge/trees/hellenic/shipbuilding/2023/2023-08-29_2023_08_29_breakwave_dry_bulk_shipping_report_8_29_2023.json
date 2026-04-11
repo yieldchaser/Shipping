@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 8.29.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 29/08/2023\nA muted, rangebound market continues as fleet inefficiencies hit record lows - The dry bulk market seems to\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 29/08/2023\nA muted, rangebound market continues as fleet inefficiencies hit record lows - The dry bulk market seems to\nSource: Breakwave Advisors\n\nLinked asset: 2023-08-29_BreakwaveDryAugust292023Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-08-29_BreakwaveDryAugust292023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nAugust 29, 2023\nBreakwave Dry Futures Index: 1,356 Baltic Dry Index (spot): 1,080 Short-term Indicators:\n↑ 30D: 11.6% ↑ 30D: 12.3% Momentum: Neutral\n↑ YTD: 32.0% ↓ YTD: -28.7% Sentiment: Negative\n↑ YOY: 6.6% ↓ YOY: -3.8% Fundamentals: Neutral\nBi-Weekly Report\n• A muted, rangebound market continues as fleet inefficiencies hit record lows - The dry bulk market seems to\noperate in a very streamlined and efficient manner, with effective supply now even higher than in the pre-Covid\nyears. Although the present situation is limiting the ability of freight rates to move higher, looking forward, the\nstage is set for a tightening in such effective supply once weather issues appear and as the winter months approach. However, despite the well-supplied market, spot rates remain relatively elevated versus previous instances when\nch",
   "keywords": [
-    "continues",
-    "fleet",
-    "hit",
-    "inefficiencies",
-    "lows",
-    "main",
-    "muted",
-    "rangebound",
-    "record",
-    "seems",
-    "shipbuilding",
-    "source"
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 42,
+  "token_count": 1424,
   "source_path": "reports/hellenic/shipbuilding/2023/2023-08-29_breakwave-dry-bulk-shipping-report-8-29-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-8-29-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 40,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-08-29_2023_08_29_breakwave_dry_bulk_shipping_report_8_29_2023__s02_linked_asset_2023_08_29_breakwavedryaugust292023report_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-08-29_2023_08_29_breakwave_dry_bulk_shipping_report_8_29_2023",
+      "parent_id": "hellenic_shipbuilding_2023-08-29_2023_08_29_breakwave_dry_bulk_shipping_report_8_29_2023__root",
+      "title": "Linked asset: 2023-08-29_BreakwaveDryAugust292023Report.pdf",
+      "section_path": [
+        "Linked asset: 2023-08-29_BreakwaveDryAugust292023Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-08-29_BreakwaveDryAugust292023Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-08-29_BreakwaveDryAugust292023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nAugust 29, 2023\nBreakwave Dry Futures Index: 1,356 Baltic Dry Index (spot): 1,080 Short-term Indicators:\n↑ 30D: 11.6% ↑ 30D: 12.3% Momentum: Neutral\n↑ YTD: 32.0% ↓ YTD: -28.7% Sentiment: Negative\n↑ YOY: 6.6% ↓ YOY: -3.8% Fundamentals: Neutral\nBi-Weekly Report\n• A muted, rangebound market continues as fleet inefficiencies hit record lows - The dry bulk market seems to\noperate in a very streamlined and efficient manner, with effective supply now even higher than in the pre-Covid\nyears. Although the present situation is limiting the ability of freight rates to move higher, looking forward, the\nstage is set for a tightening in such effective supply once weather issues appear and as the winter months approach.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1361,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

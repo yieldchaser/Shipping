@@ -17,16 +17,16 @@
     "vlcc",
     "container",
     "china",
+    "brazil",
+    "atlantic",
     "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "even",
-    "pakistan"
+    "singapore",
+    "japan"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 769,
+  "token_count": 8259,
   "source_path": "reports/hellenic/demolition/2025/2025-03-31_gms-week-13-confusion.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-13-confusion",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 767,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-03-31_2025_03_31_gms_week_13_confusion__s02_linked_asset_2025_03_31_ship_recycling_market_insight_week_13_03_28_2025_confusion_1_pdf",
+      "doc_id": "hellenic_demolition_2025-03-31_2025_03_31_gms_week_13_confusion",
+      "parent_id": "hellenic_demolition_2025-03-31_2025_03_31_gms_week_13_confusion__root",
+      "title": "Linked asset: 2025-03-31_Ship-recycling-market-insight-Week-13-03-28-2025-Confusion-1.pdf",
+      "section_path": [
+        "Linked asset: 2025-03-31_Ship-recycling-market-insight-Week-13-03-28-2025-Confusion-1.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-03-31_Ship-recycling-market-insight-Week-13-03-28-2025-Confusion-1.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-03-31_Ship-recycling-market-insight-Week-13-03-28-2025-Confusion-1.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nMarch 28th, 2025\n1\n\"If you know you are going to fail, then fail gloriously.\"\nWeek 13\nVolume 270, Issue 1178 - Cate Blanchett\nHighlig hts: -- MARKET COMMENTARY --\nCONFUSION! \"There are only tw o options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "vlcc",
+        "container",
+        "china",
+        "brazil",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7454,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

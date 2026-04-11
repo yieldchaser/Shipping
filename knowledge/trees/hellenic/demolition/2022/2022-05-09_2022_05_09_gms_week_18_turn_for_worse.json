@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 09/05/2022\nImage reference: 2022-05-09_gms-week-18-turn-for-worse_img1.jpg\nSub-continent markets have taken a turn for the worse this week, as collapsing steel prices in India and Eid holidays in Pakistan, Bangladesh, and Turkey have led to depressed sentiments and virtually no new offers emanating on any available tonnage. Most End Users now want to wait-and watch-market developments before offering anew on vessels at far lower levels that seem more in line with the realistic USD 650s/LDT than the struggling USD 700s/LDT most in the industry were gunning for earlier on select units. There has certainly been some increasing and noteworthy reticence from sub-continent Recyclers about having to dip into levels at or above USD 700/LDT.",
   "keywords": [
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
-    "firm",
-    "prices",
-    "usd",
-    "are",
-    "levels",
-    "markets",
-    "sub-continent",
-    "all"
+    "gas",
+    "may",
+    "ldt",
+    "are"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 472,
+  "token_count": 4666,
   "source_path": "reports/hellenic/demolition/2022/2022-05-09_gms-week-18-turn-for-worse.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-18-turn-for-worse",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 470,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-05-09_2022_05_09_gms_week_18_turn_for_worse__s02_linked_asset_2022_05_09_2022_05_09xb_org_pdf",
+      "doc_id": "hellenic_demolition_2022-05-09_2022_05_09_gms_week_18_turn_for_worse",
+      "parent_id": "hellenic_demolition_2022-05-09_2022_05_09_gms_week_18_turn_for_worse__root",
+      "title": "Linked asset: 2022-05-09_2022-05-09XB_org.pdf",
+      "section_path": [
+        "Linked asset: 2022-05-09_2022-05-09XB_org.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-05-09_2022-05-09XB_org.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-05-09_2022-05-09XB_org.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nMay 6th, 2022\n\"One man with courage makes a majority.\"\nVolume 238, Issue 1030\n- Andrew Jackson\nWeek 18\nHighlights: MARKET COMMENTARY\nTURN FOR WORSE! \"There are only two options regarding commitment.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4172,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 19/08/2024\nImage reference: 2024-08-19_gms-week-33-silent-hill_img1.jpg\nAmidst an uncertain and tense week in the Middle East where the world anxiously awaited Iran's attack on Israel for the recent assassination of Hezbollah'sleader at the IRGC guesthouse in the heart of Tehran, global intelligence sources are reporting of an imminent two-wave attack against Israel i.e., not only is Hezbollah expected to trigger the first wave of (largely missile) attacks, but Iran is expected to dig deeper in via a second wave on the back of an assured Israeli retaliation that the IDF vows will be disproportionate to the level of incoming attacks, including just how soon this will all unfold given that Hezbollah and Iranian leaders disappointingly miss key mediations in Qatar this week. Down South, even the Houthis remain suspiciously silent as the world braces for an escalation in the region while international intervention pushes for peaceful resolve. Brewing in it is news of President Putin possibly ‘removed' due to Ukraine's successful invasion of \"Mother Russia\", resulting in freight sectors still performing unseasonably & unrelentingly well amidst all the u",
   "keywords": [
+    "container",
     "china",
     "india",
+    "singapore",
+    "japan",
+    "grain",
     "steel",
+    "august",
     "are",
-    "global",
-    "ship",
-    "attacks",
-    "expected",
-    "fundamentals",
-    "further",
-    "hezbollah",
-    "markets"
+    "ldt",
+    "local",
+    "recycling"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 651,
+  "token_count": 6247,
   "source_path": "reports/hellenic/demolition/2024/2024-08-19_gms-week-33-silent-hill.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-33-silent-hill",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 649,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-08-19_2024_08_19_gms_week_33_silent_hill__s02_linked_asset_2024_08_19_ship_recycling_market_insight_week_33_8_16_2024_silent_hill_pdf",
+      "doc_id": "hellenic_demolition_2024-08-19_2024_08_19_gms_week_33_silent_hill",
+      "parent_id": "hellenic_demolition_2024-08-19_2024_08_19_gms_week_33_silent_hill__root",
+      "title": "Linked asset: 2024-08-19_Ship-recycling-market-insight-Week-33-8-16-2024-Silent_Hill.pdf",
+      "section_path": [
+        "Linked asset: 2024-08-19_Ship-recycling-market-insight-Week-33-8-16-2024-Silent_Hill.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-08-19_Ship-recycling-market-insight-Week-33-8-16-2024-Silent_Hill.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-08-19_Ship-recycling-market-insight-Week-33-8-16-2024-Silent_Hill.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nAugust 16th, 2024\n1\n\"The past is a movie to remember, not relive.\"\nWeek 33\n- Unknown\nVolume 263, Issue 1147\nHighlig hts: -- MARKET COMMENTARY --\nSILENT HILL! \"There are only two options regarding commitment.",
+      "keywords": [
+        "container",
+        "china",
+        "india",
+        "singapore",
+        "japan",
+        "grain",
+        "steel",
+        "august"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5561,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

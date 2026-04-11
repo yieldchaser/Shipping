@@ -18,15 +18,15 @@
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
-    "even",
-    "prices",
-    "all",
-    "approvals"
+    "october"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 542,
+  "token_count": 5388,
   "source_path": "reports/hellenic/demolition/2023/2023-10-09_gms-week-40-resurgent.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-40-resurgent",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 540,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-10-09_2023_10_09_gms_week_40_resurgent__s02_linked_asset_2023_10_09_ship_recycling_market_insight_week_40_2023_q4_resurgent_pdf",
+      "doc_id": "hellenic_demolition_2023-10-09_2023_10_09_gms_week_40_resurgent",
+      "parent_id": "hellenic_demolition_2023-10-09_2023_10_09_gms_week_40_resurgent__root",
+      "title": "Linked asset: 2023-10-09_Ship-recycling-market-insight-week-40-2023-Q4-Resurgent.pdf",
+      "section_path": [
+        "Linked asset: 2023-10-09_Ship-recycling-market-insight-week-40-2023-Q4-Resurgent.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-10-09_Ship-recycling-market-insight-week-40-2023-Q4-Resurgent.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-10-09_Ship-recycling-market-insight-week-40-2023-Q4-Resurgent.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nOctober 6 th, 2023\n\"Opportunities don't happen, you create them.\"\nVolume 254, Issue 1103\nWeek 40 - Chris Grosser\nHighlights: MARKET COMMENTARY\nRESURGENT! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4815,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

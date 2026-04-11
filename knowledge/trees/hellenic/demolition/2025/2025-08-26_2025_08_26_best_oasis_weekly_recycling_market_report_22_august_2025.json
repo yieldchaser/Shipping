@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 22 August 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 26/08/2025\nShip recycling markets across South Asia and Türkiye showed steady trends this week, with India continuing to lead\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 26/08/2025\nShip recycling markets across South Asia and Türkiye showed steady trends this week, with India continuing to lead\nSource: Best Oasis Limited\n\nLinked asset: 2025-08-26_Weekly-Ship-Recycling-Report-16-August-22-August-2025.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-08-26_Weekly-Ship-Recycling-Report-16-August-22-August-2025.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n16 August - 22 August 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nShip recycling markets across South Asia and Türkiye showed steady trends this week, with India continuing to lead regional activity. Buyer sentiment in\nIndia remains positive, supported by stronger appetite and proactive purchasing, which is expected to keep the country ahead in securing available\ntonnage. Bangladesh stayed relatively quiet, with limited demand due to LC challenges and falling scrap prices impacting overall interest.",
   "keywords": [
+    "container",
+    "china",
+    "europe",
     "india",
-    "asia",
-    "best",
-    "continuing",
-    "demolition",
-    "lead",
-    "limited",
-    "main",
-    "markets",
-    "oasis",
+    "singapore",
+    "japan",
+    "steel",
     "recycling",
-    "rkiye"
+    "previous",
+    "limited",
+    "ship",
+    "price"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 42,
+  "token_count": 2019,
   "source_path": "reports/hellenic/demolition/2025/2025-08-26_best-oasis-weekly-recycling-market-report-22-august-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-22-august-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 40,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-08-26_2025_08_26_best_oasis_weekly_recycling_market_report_22_august_2025__s02_linked_asset_2025_08_26_weekly_ship_recycling_report_16_august_22_august_2025_pdf",
+      "doc_id": "hellenic_demolition_2025-08-26_2025_08_26_best_oasis_weekly_recycling_market_report_22_august_2025",
+      "parent_id": "hellenic_demolition_2025-08-26_2025_08_26_best_oasis_weekly_recycling_market_report_22_august_2025__root",
+      "title": "Linked asset: 2025-08-26_Weekly-Ship-Recycling-Report-16-August-22-August-2025.pdf",
+      "section_path": [
+        "Linked asset: 2025-08-26_Weekly-Ship-Recycling-Report-16-August-22-August-2025.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-08-26_Weekly-Ship-Recycling-Report-16-August-22-August-2025.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-08-26_Weekly-Ship-Recycling-Report-16-August-22-August-2025.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n16 August - 22 August 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nShip recycling markets across South Asia and Türkiye showed steady trends this week, with India continuing to lead regional activity. Buyer sentiment in\nIndia remains positive, supported by stronger appetite and proactive purchasing, which is expected to keep the country ahead in securing available\ntonnage.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel",
+        "previous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1944,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

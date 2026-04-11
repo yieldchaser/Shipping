@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 12/10/2023\nDCE iron ore futures rose by 1.64% today, the main contract closed at 837. The steel mills are active to purchase.The overall trading sentiment of the market is general. PBF at Shandong port deal 919-920 yuan/mt.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
     "meg",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "products",
     "steel",
-    "demand",
-    "ore",
-    "are",
-    "inventory",
-    "iron",
-    "deal",
-    "decreased"
+    "fines",
+    "ore"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 368,
+  "token_count": 10253,
   "source_path": "reports/hellenic/iron_ore/2023/2023-10-12_mmi-daily-iron-ore-index-report-october-12-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-12-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 366,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2023-10-12_2023_10_12_mmi_daily_iron_ore_index_report_october_12_2023__s02_linked_asset_2023_10_12_mmi_daily_iron_ore_report_for_12th_october_2023_pdf",
+      "doc_id": "hellenic_iron_ore_2023-10-12_2023_10_12_mmi_daily_iron_ore_index_report_october_12_2023",
+      "parent_id": "hellenic_iron_ore_2023-10-12_2023_10_12_mmi_daily_iron_ore_index_report_october_12_2023__root",
+      "title": "Linked asset: 2023-10-12_MMi-Daily-Iron-Ore-Report-for-12th-October-2023.pdf",
+      "section_path": [
+        "Linked asset: 2023-10-12_MMi-Daily-Iron-Ore-Report-for-12th-October-2023.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-10-12_MMi-Daily-Iron-Ore-Report-for-12th-October-2023.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2023-10-12_MMi-Daily-Iron-Ore-Report-for-12th-October-2023.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Oct 12th, 2023\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n955 1067 867\n27 2.91% 27.00 2.60% -5 -0.57%\nOct 12th, 2023 Oct 12th, 2023 Oct 12th, 2023\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n106.05 131.85 1095\n0.00 0.00% 0.00 0.00% 40 3.79%\nOct 12th, 2023 Oct 12th, 2023 Week Ending Oct 6th, 2023\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2401 (Jan) RMB/t (3pm close) November 23 USD/dmt RB2401 (Jan) RMB/t\n837.00 114.20 3627\n9.50 1.15% 1.65 1.47% 8 0.22%\nOct 12th, 2023 (3pm close) Oct 12th, 2023 (5.30 pm Print) Oct 12th, 2023 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n25.78 10.50 3830\n-0.40",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9854,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

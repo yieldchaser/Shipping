@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 29 November 2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 30/11/2024\nThe week in ship recycling saw a consistent lack of movement across the board, with no major surprises or shifts.",
+  "summary": "Main\nin Weekly Demolition Reports 30/11/2024\nThe week in ship recycling saw a consistent lack of movement across the board, with no major surprises or shifts. Source: Best Oasis Limited\n\nLinked asset: 2024-11-30_Weekly-Ship-Recycling-Report-23-November-29-November-2024_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2024-11-30_Weekly-Ship-Recycling-Report-23-November-29-November-2024_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n23 November - 29 November 2024\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThe week in ship recycling saw a consistent lack of movement across the board, with no major surprises or shifts. India stayed steady at its low levels from\nlast week.",
   "keywords": [
-    "best",
-    "board",
-    "consistent",
-    "demolition",
-    "lack",
-    "limited",
-    "main",
-    "major",
-    "movement",
-    "oasis",
+    "container",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "previous",
     "recycling",
-    "saw"
+    "ship",
+    "limited",
+    "best",
+    "hms"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 43,
+  "token_count": 2270,
   "source_path": "reports/hellenic/demolition/2024/2024-11-30_best-oasis-weekly-recycling-market-report-29-november-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-29-november-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 41,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-11-30_2024_11_30_best_oasis_weekly_recycling_market_report_29_november_2024__s02_linked_asset_2024_11_30_weekly_ship_recycling_report_23_november_29_november_2024_compressed_pdf",
+      "doc_id": "hellenic_demolition_2024-11-30_2024_11_30_best_oasis_weekly_recycling_market_report_29_november_2024",
+      "parent_id": "hellenic_demolition_2024-11-30_2024_11_30_best_oasis_weekly_recycling_market_report_29_november_2024__root",
+      "title": "Linked asset: 2024-11-30_Weekly-Ship-Recycling-Report-23-November-29-November-2024_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2024-11-30_Weekly-Ship-Recycling-Report-23-November-29-November-2024_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-11-30_Weekly-Ship-Recycling-Report-23-November-29-November-2024_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-11-30_Weekly-Ship-Recycling-Report-23-November-29-November-2024_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n23 November - 29 November 2024\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThe week in ship recycling saw a consistent lack of movement across the board, with no major surprises or shifts. India stayed steady at its low levels from\nlast week.",
+      "keywords": [
+        "container",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "previous",
+        "recycling"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2192,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

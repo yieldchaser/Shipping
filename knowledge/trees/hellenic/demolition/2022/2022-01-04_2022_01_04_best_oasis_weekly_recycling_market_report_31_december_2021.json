@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 31 December 2021",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 04/01/2022\nThe tumultuous 2021 has ended on an uncertain note as the effects and outcome of Omicron variant keeps the world on its toes\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 04/01/2022\nThe tumultuous 2021 has ended on an uncertain note as the effects and outcome of Omicron variant keeps the world on its toes\nSource: Best Oasis Limited\n\nLinked asset: 2021-07-03_Weekly-Ship-Recycling-Report.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-07-03_Weekly-Ship-Recycling-Report.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSH IP\nRECYCLING\nR EPORT\n25th June to 2nd July 2021\nHighlights of the Week\nThe end buyers in subcontinent are showing a decent appetite for available\ntonnage even with trepid domestic demand for steel because of the paucity\njhhnhu\nin the supply of tonnage in the demolition market. With escalating oil\nprices, the number of offshore vessels coming for recycling may take a hit. This scarcity in supply has maintained the attractive price levels and\ncom petition among buye rs to secure available units.",
   "keywords": [
-    "best",
-    "demolition",
-    "effects",
-    "ended",
-    "its",
-    "keeps",
-    "limited",
-    "main",
-    "note",
-    "oasis",
-    "omicron",
-    "outcome"
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "steel",
+    "july",
+    "previous",
+    "price"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 50,
+  "token_count": 1983,
   "source_path": "reports/hellenic/demolition/2022/2022-01-04_best-oasis-weekly-recycling-market-report-31-december-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-31-december-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 48,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-01-04_2022_01_04_best_oasis_weekly_recycling_market_report_31_december_2021__s02_linked_asset_2021_07_03_weekly_ship_recycling_report_pdf",
+      "doc_id": "hellenic_demolition_2022-01-04_2022_01_04_best_oasis_weekly_recycling_market_report_31_december_2021",
+      "parent_id": "hellenic_demolition_2022-01-04_2022_01_04_best_oasis_weekly_recycling_market_report_31_december_2021__root",
+      "title": "Linked asset: 2021-07-03_Weekly-Ship-Recycling-Report.pdf",
+      "section_path": [
+        "Linked asset: 2021-07-03_Weekly-Ship-Recycling-Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-07-03_Weekly-Ship-Recycling-Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-07-03_Weekly-Ship-Recycling-Report.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSH IP\nRECYCLING\nR EPORT\n25th June to 2nd July 2021\nHighlights of the Week\nThe end buyers in subcontinent are showing a decent appetite for available\ntonnage even with trepid domestic demand for steel because of the paucity\njhhnhu\nin the supply of tonnage in the demolition market. With escalating oil\nprices, the number of offshore vessels coming for recycling may take a hit.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1911,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

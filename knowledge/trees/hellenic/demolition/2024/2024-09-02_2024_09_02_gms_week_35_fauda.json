@@ -13,20 +13,20 @@
   "keywords": [
     "container",
     "china",
+    "australia",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "coal",
+    "grain",
     "crude_oil",
     "steel",
-    "ldt",
-    "recycling",
-    "global",
-    "one",
-    "recyclers"
+    "ldt"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 764,
+  "token_count": 6788,
   "source_path": "reports/hellenic/demolition/2024/2024-09-02_gms-week-35-fauda.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-35-fauda",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 762,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-09-02_2024_09_02_gms_week_35_fauda__s02_linked_asset_2024_09_02_ship_recycling_market_insight_week_35_8_30_2024_fauda_pdf",
+      "doc_id": "hellenic_demolition_2024-09-02_2024_09_02_gms_week_35_fauda",
+      "parent_id": "hellenic_demolition_2024-09-02_2024_09_02_gms_week_35_fauda__root",
+      "title": "Linked asset: 2024-09-02_Ship-recycling-market-insight-Week-35-8-30-2024-Fauda.pdf",
+      "section_path": [
+        "Linked asset: 2024-09-02_Ship-recycling-market-insight-Week-35-8-30-2024-Fauda.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-09-02_Ship-recycling-market-insight-Week-35-8-30-2024-Fauda.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-09-02_Ship-recycling-market-insight-Week-35-8-30-2024-Fauda.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nAugust 30th, 2024\n1\n\"The early bird gets the worm, but the second mouse gets the cheese.\"\nWeek 35\n- Steven Wright\nVolume 263, Issue 1149\nHighlig hts: -- MARKET COMMENTARY --\nFAUDA! \"There are only two options regarding commitment.",
+      "keywords": [
+        "container",
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5990,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

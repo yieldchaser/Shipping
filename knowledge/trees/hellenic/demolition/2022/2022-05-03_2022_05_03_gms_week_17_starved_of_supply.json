@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 03/05/2022\nImage reference: 2022-05-03_gms-week-17-starved-of-supply_img1.jpg\nIndia finally leads the way on pricing this week, as all of markets i.e. Pakistani, Bangladeshi and even the Turkish markets work their way towards Eid holidays and the end of the Holy month of Ramadan. In fact, several markets are likely to be closed anywhere from a couple of days (as in the sub-continent) with the Turkish market celebrating until Thursday.",
   "keywords": [
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
-    "even",
-    "markets",
-    "are",
-    "indian",
-    "sub-continent",
-    "suffered",
-    "another",
-    "away"
+    "april",
+    "may",
+    "ldt",
+    "beached"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 422,
+  "token_count": 4689,
   "source_path": "reports/hellenic/demolition/2022/2022-05-03_gms-week-17-starved-of-supply.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-17-starved-of-supply",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 420,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-05-03_2022_05_03_gms_week_17_starved_of_supply__s02_linked_asset_2022_04_25_2022_04_24jal_org_pdf",
+      "doc_id": "hellenic_demolition_2022-05-03_2022_05_03_gms_week_17_starved_of_supply",
+      "parent_id": "hellenic_demolition_2022-05-03_2022_05_03_gms_week_17_starved_of_supply__root",
+      "title": "Linked asset: 2022-04-25_2022-04-24jal_org.pdf",
+      "section_path": [
+        "Linked asset: 2022-04-25_2022-04-24jal_org.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-04-25_2022-04-24jal_org.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-04-25_2022-04-24jal_org.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nApril 22nd, 2022 \"Opportunity is missed by most people because it is dressed in overalls\nVolume 237, Issue 1028 and looks like work.\"\nWeek 16 - Thomas Edison\nHighlights: MARKET COMMENTARY\n\"There are\nE\non\nA\nly\nS\ntw\nT\no\nE\no\nR\npt i\nE\non\nX\ns\nC\nre\nE\nga\nP\nrd\nT\nin\nI\ng\nO\nco\nN\nm\n! You're either in or\nyou're out.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4245,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

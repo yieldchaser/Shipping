@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 153
+document_count: 142
 evidence_count: 250
-generated_at: '2026-04-11T00:16:28Z'
+generated_at: '2026-04-11T15:08:03Z'
 latest_evidence_date: '2026-04-10'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 153 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-10, with the strongest recurring markers being crude, products, china, crude_oil, tanker. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 142 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-10, with the strongest recurring markers being crude, products, china, crude_oil, tanker. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -37,18 +37,18 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-04-08 | breakwave_insights insights | Main: By Nikolaos Tagoulis In a global environment defined by geopolitical uncertainty and inflationary pressures, India continues to demonstrate resilient growth potential. Although the OECD has estimated a slowdown in India's GDP growth from 7.6% in FY 2025-2026 to 6.1% in FY 2026-2027, reflecting challenges such as energy supply disrup-tions, currency depreciation, and inflation, India is still projected to record the highest growth among G20 economies. [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential__s01_main | pages n/a]
 - 2026-04-08 | breakwave_insights insights | Main: By Jeffrey Landsberg As we discussed in Commodore Research's most recent Weekly Executive Report, India produced approximately 134.9 billion kilowatt hours of electricity last month. This is up month-on-month by 15.3 billion kilowatt hours (13%) but is down year-on-year by 1.2 billion kilowatt hours (-1%). [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak__s01_main | pages n/a]
 - 2026-04-07 | breakwave tankers | Fundamentals: - World Oil Demand (YTD: 106,069 kbpd, YOY: 1.0%) - Oil Supply, OPEC (YTD: 29,520 kbpd, YOY: 7.2%) - Oil Supply, non-OPEC (YTD: 73,916 kbpd, YOY: 1.0%) - OECD Total Crude Oil Stocks (YTD: 1020.4 MMbls, YOY: 1.2%) - US Crude Oil Exports (YTD: 51.8 MMbls, YOY: -2.4%) - China Oil Imports (YTD: 675.9 MMbls, YOY: 6.1%) - Global Crude Oil On Water (YTD: 1192.3 MMbls, YOY: -0.4%) - Tanker Fleet (YTD: 717.8 mdwt, YOY: 2.9%) - VLCC Middle East-Asia, USD/ton (YTD: 21.62, YOY: 71.1%) - Suezmax West Africa-Europe, USD/ton (YTD: 22.47, YOY: 27.9%) [doc_id: breakwave_tankers_2026-04-07 | section_id: breakwave_tankers_2026-04-07__s02_fundamentals | pages 2-2]
+- 2026-04-07 | hellenic shipbuilding | Linked asset: 2026-04-07_BreakwaveTankersApril72026Report.pdf: Source asset: reports/hellenic/shipbuilding/pdfs/2026-04-07_BreakwaveTankersApril72026Report.pdf [Page 1] Tanker Shipping Bi-Weekly Industry Report April 7, 2026 • Little Progress for MEG VLCCs as War Enters its Second Month - Over the Short-term Indicators past fortnight, VLCC activity originating from the Arabian Gulf has remained Momentum: Positive subdued, prompting the market to pivot its focus toward cargo loadings from Yanbu Sentiment: Positive and the Gulf of Oman, where volumes have surged significantly above pre-conflict levels. While global attention remains fixed on the Strait of Hormuz, the extreme Fundamentals: Positive volatility of the situation precludes definitive short-term projections; currently, transit through the straits is largely restricted, with activity primarily limited to Iranian- Breakwave Tanker 6032 linked cargoes. [doc_id: hellenic_shipbuilding_2026-04-07_2026_04_07_breakwave_tanker_report_4_07_2026 | section_id: hellenic_shipbuilding_2026-04-07_2026_04_07_breakwave_tanker_report_4_07_2026__s02_linked_asset_2026_04_07_breakwavetankersapril72026report_pdf | pages n/a]
 - 2026-04-07 | breakwave tankers | Overview: - Little Progress for MEG VLCCs as War Enters its Second Month - Over the - The Clock is Ticking as Inventories Draw and Oil Deliveries Dry Out - Over a - Our Long-term View - The tanker market is recovering from a long period of [doc_id: breakwave_tankers_2026-04-07 | section_id: breakwave_tankers_2026-04-07__s01_overview | pages 1-1]
-- 2026-04-07 | breakwave_insights insights | Main: By Eirini Diamantara & Dimitris Roumeliotis The first quarter of 2026 delivered one of the most active S&P periods in recent memory, with 351 transactions recorded across tankers and dry bulk, representing a combined investment of approximately $11.5 billion. Activity was front-loaded into January, which alone accounted for nearly 40% of total volume, reflecting a wave of positioning decisions as the new year opened against an already elevated geopolitical backdrop. [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-02-20 to 2026-04-10 across 1 calendar years.
+- Coverage span: 2026-02-24 to 2026-04-10 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: crude, products, china, crude_oil, tanker, europe
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 165, hellenic: 53, baltic: 24, breakwave: 8
-- Category coverage: insights: 165, demolition: 27, tanker: 24, shipbuilding: 14, tankers: 8, tanker_charter: 7, vessel_valuations: 5
-- Tone distribution: constructive: 114, neutral: 91, cautiously_bearish: 45
+- Source coverage: breakwave_insights: 152, hellenic: 70, baltic: 20, breakwave: 8
+- Category coverage: insights: 152, demolition: 40, tanker: 20, shipbuilding: 19, tankers: 8, tanker_charter: 7, vessel_valuations: 4
+- Tone distribution: constructive: 119, neutral: 80, cautiously_bearish: 51
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
@@ -58,8 +58,8 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-04-08 | Indias Growth Potential [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential__s01_main | pages n/a]
 - 2026-04-08 | Indian Electricity Production Remains Weak [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak__s01_main | pages n/a]
 - 2026-04-07 | Tanker Shipping - April 7, 2026 [doc_id: breakwave_tankers_2026-04-07 | section_id: breakwave_tankers_2026-04-07__s02_fundamentals | pages 2-2]
+- 2026-04-07 | Breakwave Tanker Report 4.07.2026 [doc_id: hellenic_shipbuilding_2026-04-07_2026_04_07_breakwave_tanker_report_4_07_2026 | section_id: hellenic_shipbuilding_2026-04-07_2026_04_07_breakwave_tanker_report_4_07_2026__s02_linked_asset_2026_04_07_breakwavetankersapril72026report_pdf | pages n/a]
 - 2026-04-07 | One Of The Most Active Sampp Periods In Recent Memory [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__s01_main | pages n/a]
-- 2026-04-07 | Tanker4726 [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726 | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726__s01_main | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax

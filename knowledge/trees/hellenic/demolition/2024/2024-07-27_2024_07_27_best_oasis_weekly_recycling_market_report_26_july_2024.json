@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 26 July 2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 27/07/2024\nThis week, ship recycling industry faced significant challenges across multiple regions. In India, the market has experienced a\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 27/07/2024\nThis week, ship recycling industry faced significant challenges across multiple regions. In India, the market has experienced a\nSource: Best Oasis Limited\n\nLinked asset: 2024-07-27_Weekly-Ship-Recycling-Report-20-July-26-July-2024.pdf\nSource asset: reports/hellenic/demolition/pdfs/2024-07-27_Weekly-Ship-Recycling-Report-20-July-26-July-2024.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n20 July - 26 July 2024\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThis week, ship recycling industry faced significant challenges across multiple regions. In India, the market has experienced a consistent decline over recent\nweeks, intensified by a pronounced lack of local demand and a shortage of available tonnage.",
   "keywords": [
+    "container",
+    "china",
+    "brazil",
+    "europe",
     "india",
-    "best",
-    "challenges",
-    "demolition",
-    "experienced",
-    "faced",
-    "limited",
-    "main",
-    "multiple",
-    "oasis",
+    "singapore",
+    "japan",
+    "steel",
     "recycling",
-    "regions."
+    "previous",
+    "ship",
+    "best"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 43,
+  "token_count": 2106,
   "source_path": "reports/hellenic/demolition/2024/2024-07-27_best-oasis-weekly-recycling-market-report-26-july-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-26-july-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 41,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-07-27_2024_07_27_best_oasis_weekly_recycling_market_report_26_july_2024__s02_linked_asset_2024_07_27_weekly_ship_recycling_report_20_july_26_july_2024_pdf",
+      "doc_id": "hellenic_demolition_2024-07-27_2024_07_27_best_oasis_weekly_recycling_market_report_26_july_2024",
+      "parent_id": "hellenic_demolition_2024-07-27_2024_07_27_best_oasis_weekly_recycling_market_report_26_july_2024__root",
+      "title": "Linked asset: 2024-07-27_Weekly-Ship-Recycling-Report-20-July-26-July-2024.pdf",
+      "section_path": [
+        "Linked asset: 2024-07-27_Weekly-Ship-Recycling-Report-20-July-26-July-2024.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-07-27_Weekly-Ship-Recycling-Report-20-July-26-July-2024.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-07-27_Weekly-Ship-Recycling-Report-20-July-26-July-2024.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n20 July - 26 July 2024\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThis week, ship recycling industry faced significant challenges across multiple regions. In India, the market has experienced a consistent decline over recent\nweeks, intensified by a pronounced lack of local demand and a shortage of available tonnage.",
+      "keywords": [
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2030,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

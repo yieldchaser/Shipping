@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "panamax",
+    "lng",
+    "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
     "steel",
-    "are",
-    "supply",
-    "usd",
-    "all",
-    "bangladesh",
-    "its"
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 699,
+  "token_count": 6877,
   "source_path": "reports/hellenic/demolition/2025/2025-12-15_gms-week-50-december-downers.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-50-december-downers",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 697,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-12-15_2025_12_15_gms_week_50_december_downers__s02_linked_asset_2025_12_15_ship_recycling_market_insight_week_50_12_12_2025_december_downers_pdf",
+      "doc_id": "hellenic_demolition_2025-12-15_2025_12_15_gms_week_50_december_downers",
+      "parent_id": "hellenic_demolition_2025-12-15_2025_12_15_gms_week_50_december_downers__root",
+      "title": "Linked asset: 2025-12-15_Ship-recycling-market-insight-Week-50-12-12-2025-December_Downers.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-15_Ship-recycling-market-insight-Week-50-12-12-2025-December_Downers.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-15_Ship-recycling-market-insight-Week-50-12-12-2025-December_Downers.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-12-15_Ship-recycling-market-insight-Week-50-12-12-2025-December_Downers.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nDecembe r 12th, 2025\n1\n\"A surplus of effort could overcome a deficit of confidence.\"\nWeek 50\nVolume 2 79, Issue 1215 - Sonia Sotomayor\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6143,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

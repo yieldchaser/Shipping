@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 2.13.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 13/02/2024\nVLCC market comes to life amid Lunar New Year rush and heightened geopolitical\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 13/02/2024\nVLCC market comes to life amid Lunar New Year rush and heightened geopolitical\nSource: Breakwave Advisors\n\nLinked asset: 2024-02-13_BreakwaveTankersFebruary132024Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-02-13_BreakwaveTankersFebruary132024Report.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nFebruary 13, 2024\nBreakwave Tanker Futures Index: 1,396 VLCC Middle East-Asia Spot Rates: $16.73 Short-term Indicators:\n↑ 30D: 0.1% ↓ 30D: -1.8% Momentum: Positive\n↑ YTD: 15.0% ↑ YTD: 26.4% Sentiment: Neutral\n↓ YOY: -1.1% ↑ YOY: 17.7% Fundamentals: Positive\nBi-Weekly Report\n• VLCC market comes to life amid Lunar New Year rush and heightened geopolitical tensions - Following an uneventful\nconclusion to January loadings, the VLCC (Very Large Crude Carrier) market displayed stronger indications across global\nregions in the second week of February as Charterers rushed to secure shipments ahead of the Lunar New Year,\nprompting a resurgence in rates. With a reduction in tonnage supply, particularly for earlier cargoes, owners found\nthemselves in a favorable position to capitalize on the tighter conditions. Notably, the market exhibited an upt",
   "keywords": [
     "vlcc",
-    "amid",
-    "comes",
-    "geopolitical",
-    "heightened",
-    "life",
-    "lunar",
-    "main",
-    "new",
-    "rush",
-    "shipbuilding",
-    "source"
+    "suezmax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "oil",
+    "demand",
+    "crude"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 35,
+  "token_count": 1448,
   "source_path": "reports/hellenic/shipbuilding/2024/2024-02-13_breakwave-tanker-report-2-13-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-2-13-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 33,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-02-13_2024_02_13_breakwave_tanker_report_2_13_2024__s02_linked_asset_2024_02_13_breakwavetankersfebruary132024report_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-02-13_2024_02_13_breakwave_tanker_report_2_13_2024",
+      "parent_id": "hellenic_shipbuilding_2024-02-13_2024_02_13_breakwave_tanker_report_2_13_2024__root",
+      "title": "Linked asset: 2024-02-13_BreakwaveTankersFebruary132024Report.pdf",
+      "section_path": [
+        "Linked asset: 2024-02-13_BreakwaveTankersFebruary132024Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-02-13_BreakwaveTankersFebruary132024Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-02-13_BreakwaveTankersFebruary132024Report.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nFebruary 13, 2024\nBreakwave Tanker Futures Index: 1,396 VLCC Middle East-Asia Spot Rates: $16.73 Short-term Indicators:\n↑ 30D: 0.1% ↓ 30D: -1.8% Momentum: Positive\n↑ YTD: 15.0% ↑ YTD: 26.4% Sentiment: Neutral\n↓ YOY: -1.1% ↑ YOY: 17.7% Fundamentals: Positive\nBi-Weekly Report\n• VLCC market comes to life amid Lunar New Year rush and heightened geopolitical tensions - Following an uneventful\nconclusion to January loadings, the VLCC (Very Large Crude Carrier) market displayed stronger indications across global\nregions in the second week of February as Charterers rushed to secure shipments ahead of the Lunar New Year,\nprompting a resurgence in rates. With a reduction in tonnage supply, particularly for earlier cargoes, owners found\nthemselves in a favorable position to capitalize on the tighter conditions.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1391,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

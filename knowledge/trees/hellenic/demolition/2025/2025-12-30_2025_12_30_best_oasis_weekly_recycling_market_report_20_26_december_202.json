@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 20 - 26 December 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 30/12/2025\nThe local market showed a marginal improvement compared to the previous week, with sentiment slightly firmer overall.",
+  "summary": "Main\nin Weekly Demolition Reports 30/12/2025\nThe local market showed a marginal improvement compared to the previous week, with sentiment slightly firmer overall. Source: Best Oasis Limited\n\nLinked asset: 2025-12-30_Weekly-Ship-Recycling-Report-20-December-26-December-2025.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-12-30_Weekly-Ship-Recycling-Report-20-December-26-December-2025.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(20 DECEMBER - 26 DECEMBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe local market showed a marginal improvement compared to the previous week,\nwith sentiment slightly firmer overall. However, due to adverse currency exchange movements, buyers who purchased over\nthe last three to four months continue to face losses, keeping confidence restrained.",
   "keywords": [
-    "best",
-    "compared",
-    "demolition",
-    "firmer",
-    "improvement",
+    "container",
+    "india",
+    "previous",
     "limited",
-    "local",
-    "main",
-    "marginal",
-    "oasis",
-    "overall.",
-    "previous"
+    "sentiment",
+    "any",
+    "bangladesh",
+    "best",
+    "buyers",
+    "change",
+    "continue",
+    "oasis"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 41,
+  "token_count": 1034,
   "source_path": "reports/hellenic/demolition/2025/2025-12-30_best-oasis-weekly-recycling-market-report-20-26-december-202.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-20-26-december-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 39,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-12-30_2025_12_30_best_oasis_weekly_recycling_market_report_20_26_december_202__s02_linked_asset_2025_12_30_weekly_ship_recycling_report_20_december_26_december_2025_pdf",
+      "doc_id": "hellenic_demolition_2025-12-30_2025_12_30_best_oasis_weekly_recycling_market_report_20_26_december_202",
+      "parent_id": "hellenic_demolition_2025-12-30_2025_12_30_best_oasis_weekly_recycling_market_report_20_26_december_202__root",
+      "title": "Linked asset: 2025-12-30_Weekly-Ship-Recycling-Report-20-December-26-December-2025.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-30_Weekly-Ship-Recycling-Report-20-December-26-December-2025.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-30_Weekly-Ship-Recycling-Report-20-December-26-December-2025.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-12-30_Weekly-Ship-Recycling-Report-20-December-26-December-2025.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(20 DECEMBER - 26 DECEMBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe local market showed a marginal improvement compared to the previous week,\nwith sentiment slightly firmer overall. However, due to adverse currency exchange movements, buyers who purchased over\nthe last three to four months continue to face losses, keeping confidence restrained.",
+      "keywords": [
+        "container",
+        "india",
+        "previous",
+        "any",
+        "bangladesh",
+        "buyers",
+        "change",
+        "continue"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 960,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 25/04/2022\nImage reference: 2022-04-25_gms-week-16-easter-exception_img1.jpg\nAs holidays descended across much of the sub-continent over the last week, activity and sales logically slowed as the recycling industry enjoyed a bit of a breather. Certainly, the recently ebullient Bangladeshi market has fallen out of contention over this past month, as domestic sentiments and pricing endured a sustained dip, despite having led the industry for much of this year. Instead, it is the rampant Pakistani and Indian markets that continue to lead the way and continue to pay the most impressive numbers close to (and even above) USD 700/LDT (in some cases).",
   "keywords": [
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
-    "markets",
-    "are",
-    "much",
-    "bit",
-    "continue",
-    "descended",
-    "firm",
-    "gms"
+    "april",
+    "may",
+    "ldt",
+    "beached"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 405,
+  "token_count": 4672,
   "source_path": "reports/hellenic/demolition/2022/2022-04-25_gms-week-16-easter-exception.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-16-easter-exception",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 403,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-04-25_2022_04_25_gms_week_16_easter_exception__s02_linked_asset_2022_04_25_2022_04_24jal_org_pdf",
+      "doc_id": "hellenic_demolition_2022-04-25_2022_04_25_gms_week_16_easter_exception",
+      "parent_id": "hellenic_demolition_2022-04-25_2022_04_25_gms_week_16_easter_exception__root",
+      "title": "Linked asset: 2022-04-25_2022-04-24jal_org.pdf",
+      "section_path": [
+        "Linked asset: 2022-04-25_2022-04-24jal_org.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-04-25_2022-04-24jal_org.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-04-25_2022-04-24jal_org.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nApril 22nd, 2022 \"Opportunity is missed by most people because it is dressed in overalls\nVolume 237, Issue 1028 and looks like work.\"\nWeek 16 - Thomas Edison\nHighlights: MARKET COMMENTARY\n\"There are\nE\non\nA\nly\nS\ntw\nT\no\nE\no\nR\npt i\nE\non\nX\ns\nC\nre\nE\nga\nP\nrd\nT\nin\nI\ng\nO\nco\nN\nm\n! You're either in or\nyou're out.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4245,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

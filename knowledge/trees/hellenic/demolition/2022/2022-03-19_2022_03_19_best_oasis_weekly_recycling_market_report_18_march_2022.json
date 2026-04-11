@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 18 March 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 19/03/2022\nShip recycling market is experiencing the same volatility and uncertainty that the global economy is going through as the supply chain\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 19/03/2022\nShip recycling market is experiencing the same volatility and uncertainty that the global economy is going through as the supply chain\nSource: Best Oasis Limited\n\nLinked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf\nSource asset: reports/hellenic/demolition/pdfs/2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n11th March to 18th March 2022\nH ighlights of the Week\nShip recycling market is experiencing the same volatility and uncertainty\ntjhhha nt hthue global economy is going through as the supply chain disruption\nrip s through the glo bal economy and the commodities market are eager\nto rally on every news. Steel prices have seen a slight correction in the\nsubcontinent nations with buyers remaining cautious due to dramatic price\nfluctuations and waiting for prices to stabilise. On the supply front, there\nis extreme shortage of tonnage in the recycling market as the surging\nocean freight rates have made the owners hold onto their assets tightly.",
   "keywords": [
-    "best",
-    "chain",
-    "demolition",
-    "economy",
-    "experiencing",
-    "global",
-    "going",
-    "limited",
-    "main",
-    "oasis",
-    "recycling",
-    "same"
+    "capesize",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "coal",
+    "crude_oil",
+    "products",
+    "steel",
+    "prices"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 43,
+  "token_count": 2143,
   "source_path": "reports/hellenic/demolition/2022/2022-03-19_best-oasis-weekly-recycling-market-report-18-march-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-18-march-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 41,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-03-19_2022_03_19_best_oasis_weekly_recycling_market_report_18_march_2022__s02_linked_asset_2022_03_19_weekly_ship_recycling_report_18_03_2022_pdf",
+      "doc_id": "hellenic_demolition_2022-03-19_2022_03_19_best_oasis_weekly_recycling_market_report_18_march_2022",
+      "parent_id": "hellenic_demolition_2022-03-19_2022_03_19_best_oasis_weekly_recycling_market_report_18_march_2022__root",
+      "title": "Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf",
+      "section_path": [
+        "Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-03-19_Weekly-Ship-Recycling-Report_18_03_2022.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n11th March to 18th March 2022\nH ighlights of the Week\nShip recycling market is experiencing the same volatility and uncertainty\ntjhhha nt hthue global economy is going through as the supply chain disruption\nrip s through the glo bal economy and the commodities market are eager\nto rally on every news. Steel prices have seen a slight correction in the\nsubcontinent nations with buyers remaining cautious due to dramatic price\nfluctuations and waiting for prices to stabilise.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2071,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

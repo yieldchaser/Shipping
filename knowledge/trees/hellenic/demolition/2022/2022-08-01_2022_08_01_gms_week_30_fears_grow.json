@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 01/08/2022\nImage reference: 2022-08-01_gms-week-30-fears-grow_img1.jpg\nFears and concerns across the sub-continent recycling markets continue to grow as local currencies across all major ship-recycling destinations continue to worryingly depreciate by the day and some even tougher restrictions reportedly set in place on the opening of fresh Letters of Credit (L/Cs) in Bangladesh this week, as the foreign currency crisis in the country deepens further. In fact, the currencies have been such a source of frustration for the ship recycling community that the U.S. Dollar transactions are getting uncontrollably out of hand.",
   "keywords": [
     "capesize",
+    "lpg",
+    "container",
+    "china",
+    "pacific",
     "europe",
     "india",
-    "steel",
-    "bangladesh",
-    "just",
-    "recycling",
-    "usd",
-    "are",
-    "bangladeshi",
-    "collapse",
-    "continue"
+    "singapore",
+    "japan",
+    "grain",
+    "crude_oil",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 538,
+  "token_count": 4964,
   "source_path": "reports/hellenic/demolition/2022/2022-08-01_gms-week-30-fears-grow.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-30-fears-grow",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 536,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-08-01_2022_08_01_gms_week_30_fears_grow__s02_linked_asset_2022_08_01_ship_recycling_market_insight_week_30_2022_fears_grow_pdf",
+      "doc_id": "hellenic_demolition_2022-08-01_2022_08_01_gms_week_30_fears_grow",
+      "parent_id": "hellenic_demolition_2022-08-01_2022_08_01_gms_week_30_fears_grow__root",
+      "title": "Linked asset: 2022-08-01_Ship-recycling-market-insight-week-30-2022-Fears-Grow.pdf",
+      "section_path": [
+        "Linked asset: 2022-08-01_Ship-recycling-market-insight-week-30-2022-Fears-Grow.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-08-01_Ship-recycling-market-insight-week-30-2022-Fears-Grow.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-08-01_Ship-recycling-market-insight-week-30-2022-Fears-Grow.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nJuly 29th, 2022\n\"I have stood on a mountain of no's for one yes.\"\nVolume 240, Issue 1042\n- Barbara Elaine Smith\nWeek 30\nHighlights: MARKET COMMENTARY\nFEARS GROW! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "lpg",
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4396,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

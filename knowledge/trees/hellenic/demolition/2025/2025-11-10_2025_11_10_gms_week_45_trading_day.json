@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "handysize",
+    "vlcc",
     "lng",
+    "container",
     "china",
     "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "gas",
-    "are",
-    "all"
+    "singapore",
+    "japan",
+    "coal"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 759,
+  "token_count": 6428,
   "source_path": "reports/hellenic/demolition/2025/2025-11-10_gms-week-45-trading-day.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-45-trading-day",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 757,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-11-10_2025_11_10_gms_week_45_trading_day__s02_linked_asset_2025_11_10_ship_recycling_market_insight_week_45_11_07_2025_trading_day_pdf",
+      "doc_id": "hellenic_demolition_2025-11-10_2025_11_10_gms_week_45_trading_day",
+      "parent_id": "hellenic_demolition_2025-11-10_2025_11_10_gms_week_45_trading_day__root",
+      "title": "Linked asset: 2025-11-10_Ship-recycling-market-insight-Week-45-11-07-2025-Trading_Day.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-10_Ship-recycling-market-insight-Week-45-11-07-2025-Trading_Day.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-10_Ship-recycling-market-insight-Week-45-11-07-2025-Trading_Day.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-11-10_Ship-recycling-market-insight-Week-45-11-07-2025-Trading_Day.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nNovember 7th, 2025\n1\n\"I think it's intoxicating when somebody is so unapologetically who they\nWeek 45 are.\"\nVolume 278, Issue 1210\n- Don Cheadle\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "vlcc",
+        "lng",
+        "container",
+        "china",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5634,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

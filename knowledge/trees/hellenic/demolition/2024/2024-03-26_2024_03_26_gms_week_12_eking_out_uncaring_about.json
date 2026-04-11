@@ -13,20 +13,20 @@
   "keywords": [
     "container",
     "china",
+    "australia",
+    "pacific",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
     "recycling",
-    "markets",
-    "despite",
-    "ship",
-    "prices",
-    "time",
-    "year"
+    "april",
+    "ship"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 648,
+  "token_count": 5625,
   "source_path": "reports/hellenic/demolition/2024/2024-03-26_gms-week-12-eking-out-uncaring-about.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-12-eking-out-uncaring-about",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 646,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-03-26_2024_03_26_gms_week_12_eking_out_uncaring_about__s02_linked_asset_2024_03_26_ship_recycling_market_insight_week_12_2024_eking_out_uncaring_about_pdf",
+      "doc_id": "hellenic_demolition_2024-03-26_2024_03_26_gms_week_12_eking_out_uncaring_about",
+      "parent_id": "hellenic_demolition_2024-03-26_2024_03_26_gms_week_12_eking_out_uncaring_about__root",
+      "title": "Linked asset: 2024-03-26_Ship-recycling-market-insight-week-12-2024-Eking-Out-Uncaring-About.pdf",
+      "section_path": [
+        "Linked asset: 2024-03-26_Ship-recycling-market-insight-week-12-2024-Eking-Out-Uncaring-About.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-03-26_Ship-recycling-market-insight-week-12-2024-Eking-Out-Uncaring-About.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-03-26_Ship-recycling-market-insight-week-12-2024-Eking-Out-Uncaring-About.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nMarch 22 nd, 2024\n\"The bad news is time flies. The good news is you're the pilot.\"\nWeek 12\n- Michael Altshuler\nVolume 259, Issue 1126\n`\nHighlights: MARKET COMMENTARY\nEKING OUT, UNCARING ABOUT!",
+      "keywords": [
+        "container",
+        "china",
+        "australia",
+        "pacific",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4943,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

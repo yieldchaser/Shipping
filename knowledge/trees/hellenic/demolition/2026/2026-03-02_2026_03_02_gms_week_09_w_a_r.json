@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "supramax",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "europe",
+    "india",
     "crude_oil",
     "steel",
-    "but",
-    "markets",
-    "another",
-    "are",
-    "around",
-    "iran",
-    "recycling"
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 690,
+  "token_count": 6610,
   "source_path": "reports/hellenic/demolition/2026/2026-03-02_gms-week-09-w-a-r.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-09-w-a-r",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 688,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-02_2026_03_02_gms_week_09_w_a_r__s02_linked_asset_2026_03_02_ship_recycling_market_insight_week_09_02_27_2026_w_a_r_pdf",
+      "doc_id": "hellenic_demolition_2026-03-02_2026_03_02_gms_week_09_w_a_r",
+      "parent_id": "hellenic_demolition_2026-03-02_2026_03_02_gms_week_09_w_a_r__root",
+      "title": "Linked asset: 2026-03-02_Ship-recycling-market-insight-Week-09-02-27-2026-W.A.R.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-02_Ship-recycling-market-insight-Week-09-02-27-2026-W.A.R.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-02_Ship-recycling-market-insight-Week-09-02-27-2026-W.A.R.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-03-02_Ship-recycling-market-insight-Week-09-02-27-2026-W.A.R.pdf\n\n[Page 1]\n1. ` *I\n, l'\n-+Ali / +N\n1\nFebruary 27th, 2026 \"Words of encouragement during a failure are worth more than an hour of\nWeek 9 praise after success\"\nVolume 2 81, Issue 1225\n- Unknown\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5886,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

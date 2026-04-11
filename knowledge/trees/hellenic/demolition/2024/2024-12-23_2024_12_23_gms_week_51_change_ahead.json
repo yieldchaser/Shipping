@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 23/12/2024\nImage reference: 2024-12-23_gms-week-51-change-ahead_img1.jpg\nAs the world stands teetering on the edge of completing another circle around our sun, economies worldwide continue to struggle amidst a greater prevailing unease. On the back of a strengthening U.S. Feds cut another 0.25% in interest rates this week, the U.S.",
   "keywords": [
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "recycling",
-    "end",
-    "ship",
-    "not",
-    "u.s.",
-    "are",
-    "compliant",
-    "continue"
+    "steel",
+    "gas",
+    "december",
+    "ldt",
+    "local"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 824,
+  "token_count": 6292,
   "source_path": "reports/hellenic/demolition/2024/2024-12-23_gms-week-51-change-ahead.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-51-change-ahead",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 822,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-12-23_2024_12_23_gms_week_51_change_ahead__s02_linked_asset_2024_12_23_ship_recycling_market_insight_week_51_12_13_2024_change_ahead_pdf",
+      "doc_id": "hellenic_demolition_2024-12-23_2024_12_23_gms_week_51_change_ahead",
+      "parent_id": "hellenic_demolition_2024-12-23_2024_12_23_gms_week_51_change_ahead__root",
+      "title": "Linked asset: 2024-12-23_Ship-recycling-market-insight-Week-51-12-13-2024-Change-Ahead.pdf",
+      "section_path": [
+        "Linked asset: 2024-12-23_Ship-recycling-market-insight-Week-51-12-13-2024-Change-Ahead.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-12-23_Ship-recycling-market-insight-Week-51-12-13-2024-Change-Ahead.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-12-23_Ship-recycling-market-insight-Week-51-12-13-2024-Change-Ahead.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nDecember 20th, 2024\n1\n\"The mark of greatness is when everything before you is obsolete, and\nWeek 51 everything after you bears your mark.\"\nVolume 267, Issue 1165\n- Dave Chappelle\nHighlig hts: -- MARKET COMMENTARY --\nCHANGE AHEAD! \"There are only two options regarding commitment.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5433,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

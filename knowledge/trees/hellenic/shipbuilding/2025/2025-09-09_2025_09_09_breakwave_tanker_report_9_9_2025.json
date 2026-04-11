@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 9.9.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 09/09/2025\nVLCC Strength Continues on the Back of Solid Oil Flows - VLCC spot rates entered September on their strongest footing since\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 09/09/2025\nVLCC Strength Continues on the Back of Solid Oil Flows - VLCC spot rates entered September on their strongest footing since\nSource: Breakwave Advisors\n\nLinked asset: 2025-09-09_BreakwaveTankersSeptember92025Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-09-09_BreakwaveTankersSeptember92025Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nSeptember 9, 2025\n• VLCC Strength Continues on the Back of Solid Oil Flows - VLCC spot rates\nShort-term Indicators\nentered September on their strongest footing since the earlier June surge, with\nMomentum: Positive\nuncovered third-decade stems in the East again driving heightened activity and\npushing AG-East rates higher. Chinese stockpiling continues to provide support, Sentiment: Positive\nwhile charterers face resistance as owners maintain a firm stance amid a tightening Fundamentals: Positive\ntonnage list. Rates for VLCCs moved sharply higher both East and West of Suez.",
   "keywords": [
     "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
     "crude_oil",
-    "back",
-    "continues",
-    "entered",
-    "flows",
-    "footing",
-    "main",
     "oil",
-    "september",
-    "shipbuilding",
-    "since"
+    "are",
+    "funds",
+    "not",
+    "could"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 46,
+  "token_count": 1756,
   "source_path": "reports/hellenic/shipbuilding/2025/2025-09-09_breakwave-tanker-report-9-9-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-9-9-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 44,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-09-09_2025_09_09_breakwave_tanker_report_9_9_2025__s02_linked_asset_2025_09_09_breakwavetankersseptember92025report_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-09-09_2025_09_09_breakwave_tanker_report_9_9_2025",
+      "parent_id": "hellenic_shipbuilding_2025-09-09_2025_09_09_breakwave_tanker_report_9_9_2025__root",
+      "title": "Linked asset: 2025-09-09_BreakwaveTankersSeptember92025Report.pdf",
+      "section_path": [
+        "Linked asset: 2025-09-09_BreakwaveTankersSeptember92025Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-09-09_BreakwaveTankersSeptember92025Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-09-09_BreakwaveTankersSeptember92025Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nSeptember 9, 2025\n• VLCC Strength Continues on the Back of Solid Oil Flows - VLCC spot rates\nShort-term Indicators\nentered September on their strongest footing since the earlier June surge, with\nMomentum: Positive\nuncovered third-decade stems in the East again driving heightened activity and\npushing AG-East rates higher. Chinese stockpiling continues to provide support, Sentiment: Positive\nwhile charterers face resistance as owners maintain a firm stance amid a tightening Fundamentals: Positive\ntonnage list.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1688,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

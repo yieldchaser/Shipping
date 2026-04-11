@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 22/08/2023\nDCE iron ore futures market roseing sharply trends in the afternoon. the main contract I2401 closed 805.5, an increase of 4.47%throughout the day; some traders quotation is still stronger. Some steel mills tended to be wait-and-see, and purchasing enthusiasm is not high.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
     "coal",
+    "bauxite",
+    "crude_oil",
     "steel",
+    "fines",
     "iron",
-    "increase",
-    "ore",
-    "addition",
-    "afternoon.",
-    "led",
-    "main",
-    "mine"
+    "ore"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 263,
+  "token_count": 9668,
   "source_path": "reports/hellenic/iron_ore/2023/2023-08-22_mmi-daily-iron-ore-index-report-august-22-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-22-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 261,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2023-08-22_2023_08_22_mmi_daily_iron_ore_index_report_august_22_2023__s02_linked_asset_2023_08_22_mmi_daily_iron_ore_report_for_22th_august_2023_compressed_pdf",
+      "doc_id": "hellenic_iron_ore_2023-08-22_2023_08_22_mmi_daily_iron_ore_index_report_august_22_2023",
+      "parent_id": "hellenic_iron_ore_2023-08-22_2023_08_22_mmi_daily_iron_ore_index_report_august_22_2023__root",
+      "title": "Linked asset: 2023-08-22_MMi-Daily-Iron-Ore-Report-for-22th-August-2023_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2023-08-22_MMi-Daily-Iron-Ore-Report-for-22th-August-2023_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-08-22_MMi-Daily-Iron-Ore-Report-for-22th-August-2023_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2023-08-22_MMi-Daily-Iron-Ore-Report-for-22th-August-2023_compressed.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Aug 22nd, 2023\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n881 993 765\n11 1.31% 11.42 1.16% 13 1.72%\nAug 22nd, 2023 Aug 22nd, 2023 Aug 22nd, 2023\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n107.50 169.65 945\n0.00 0.00% 0.00 0.00% 15 1.61%\nAug 22nd, 2023 Aug 22nd, 2023 Week Ending Aug 18th, 2023\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2401 (Jan) RMB/t (3pm close) September 23 USD/dmt RB2310 (Jan) RMB/t\n805.50 110.70 3667\n28.50 3.67% 3.20 2.98% 1 0.03%\nAug 22nd, 2023 (3pm close) Aug 22nd, 2023 (5.30 pm Print) Aug 22nd, 2023 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n20.87 z 7.74",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "coal",
+        "bauxite",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9372,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

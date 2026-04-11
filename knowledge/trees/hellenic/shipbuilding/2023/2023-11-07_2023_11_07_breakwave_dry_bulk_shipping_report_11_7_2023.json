@@ -9,23 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 11.7.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 07/11/2023\nShipping volatility is your friend… most of the time - Once again, the Capesize market has proven\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 07/11/2023\nShipping volatility is your friend… most of the time - Once again, the Capesize market has proven\nSource: Breakwave Advisors\n\nLinked asset: 2023-11-07_BreakwaveDryNovember72023Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-11-07_BreakwaveDryNovember72023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 7, 2023\nBreakwave Dry Futures Index: 1,098 Baltic Dry Index (spot): 1,462 Short-term Indicators:\n↓ 30D: -30.6% ↓ 30D: -17.9% Momentum: Negative\n↑ YTD: 7.6% ↓ YTD: -8.6% Sentiment: Negative\n↑ YOY: 4.6% ↑ YOY: 7.4% Fundamentals: Neutral\nBi-Weekly Report\n• Shipping volatility is your friend… most of the time - Once again, the Capesize market has proven what shipping is\nall about: Uncorrelated volatility. With spot rates doubling in a period of a month reaching north of 30,000, a harsh\ncorrection brought rates back to the 15,000 level in less than two weeks followed by a sharp bounce in the last few\ndays. Although such volatility is a characteristic of the spot market, futures only focus on averages (freight futures\nsettle over monthly averages of spot prices).",
   "keywords": [
     "capesize",
-    "again",
-    "friend",
-    "main",
-    "once",
-    "proven",
-    "shipbuilding",
-    "source",
-    "time",
-    "volatility",
-    "your"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "are",
+    "average"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 42,
+  "token_count": 1484,
   "source_path": "reports/hellenic/shipbuilding/2023/2023-11-07_breakwave-dry-bulk-shipping-report-11-7-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-7-2023",
   "children": [
@@ -55,6 +56,34 @@
       "page_end": null,
       "token_count": 40,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-11-07_2023_11_07_breakwave_dry_bulk_shipping_report_11_7_2023__s02_linked_asset_2023_11_07_breakwavedrynovember72023report_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-11-07_2023_11_07_breakwave_dry_bulk_shipping_report_11_7_2023",
+      "parent_id": "hellenic_shipbuilding_2023-11-07_2023_11_07_breakwave_dry_bulk_shipping_report_11_7_2023__root",
+      "title": "Linked asset: 2023-11-07_BreakwaveDryNovember72023Report.pdf",
+      "section_path": [
+        "Linked asset: 2023-11-07_BreakwaveDryNovember72023Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-11-07_BreakwaveDryNovember72023Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-11-07_BreakwaveDryNovember72023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 7, 2023\nBreakwave Dry Futures Index: 1,098 Baltic Dry Index (spot): 1,462 Short-term Indicators:\n↓ 30D: -30.6% ↓ 30D: -17.9% Momentum: Negative\n↑ YTD: 7.6% ↓ YTD: -8.6% Sentiment: Negative\n↑ YOY: 4.6% ↑ YOY: 7.4% Fundamentals: Neutral\nBi-Weekly Report\n• Shipping volatility is your friend… most of the time - Once again, the Capesize market has proven what shipping is\nall about: Uncorrelated volatility. With spot rates doubling in a period of a month reaching north of 30,000, a harsh\ncorrection brought rates back to the 15,000 level in less than two weeks followed by a sharp bounce in the last few\ndays.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1421,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

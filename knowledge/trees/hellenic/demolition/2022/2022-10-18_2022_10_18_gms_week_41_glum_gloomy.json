@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 18/10/2022\nImage reference: 2022-10-18_gms-week-41-glum-gloomy_img1.jpg\nAny vessels that were made available over the past few weeks have swiftly been withdrawn as recycling markets show an ineptitude to offer any sort of serious numbers, having seemingly forgotten how to buy ships after a prolonged period on the sidelines. Consequently, there have been no market sales for another week, especially as freight markets continue to impress across all sectors and recycling markets remain unchanged, depressed, and starved of tonnage all at once. Constant currency depreciations have been the chief culprit and there seems to be a lack of confidence to import vessels, with banks being much stricter on sanctioning precious U.S.",
   "keywords": [
+    "lpg",
+    "container",
+    "china",
     "europe",
     "india",
-    "markets",
-    "vessels",
-    "all",
-    "another",
-    "any",
-    "are",
-    "continue",
-    "depressed",
-    "especially",
-    "gms"
+    "singapore",
+    "japan",
+    "crude_oil",
+    "steel",
+    "gas",
+    "october",
+    "ldt"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 364,
+  "token_count": 4510,
   "source_path": "reports/hellenic/demolition/2022/2022-10-18_gms-week-41-glum-gloomy.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-41-glum-gloomy",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 362,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-10-18_2022_10_18_gms_week_41_glum_gloomy__s02_linked_asset_2022_10_18_ship_recycling_market_insight_week_41_2022_glum_and_gloomy_pdf",
+      "doc_id": "hellenic_demolition_2022-10-18_2022_10_18_gms_week_41_glum_gloomy",
+      "parent_id": "hellenic_demolition_2022-10-18_2022_10_18_gms_week_41_glum_gloomy__root",
+      "title": "Linked asset: 2022-10-18_Ship-recycling-market-insight-week-41-2022-Glum-and-Gloomy.pdf",
+      "section_path": [
+        "Linked asset: 2022-10-18_Ship-recycling-market-insight-week-41-2022-Glum-and-Gloomy.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-10-18_Ship-recycling-market-insight-week-41-2022-Glum-and-Gloomy.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-10-18_Ship-recycling-market-insight-week-41-2022-Glum-and-Gloomy.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nOctober 1 4th, 2022\n\"No one changes the world who isn't obsessed.\"\nVolume 243, Issue 1052\nWeek 41 - Billie Jean King\nHighlights: MARKET COMMENTARY\nGLUM & GLOOMY! \"There are only two options regarding commitment.",
+      "keywords": [
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4113,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -13,20 +13,20 @@
   "keywords": [
     "panamax",
     "handysize",
+    "lpg",
     "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "being",
-    "decent",
-    "usd",
-    "again",
+    "gas",
     "ldt"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 524,
+  "token_count": 5039,
   "source_path": "reports/hellenic/demolition/2023/2023-09-18_gms-week-37-food-for-thought.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-37-food-for-thought",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 522,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-09-18_2023_09_18_gms_week_37_food_for_thought__s02_linked_asset_2023_09_18_ship_recycling_market_insight_week_37_2023_food_for_thought_pdf",
+      "doc_id": "hellenic_demolition_2023-09-18_2023_09_18_gms_week_37_food_for_thought",
+      "parent_id": "hellenic_demolition_2023-09-18_2023_09_18_gms_week_37_food_for_thought__root",
+      "title": "Linked asset: 2023-09-18_Ship-recycling-market-insight-week-37-2023-Food-for-thought.pdf",
+      "section_path": [
+        "Linked asset: 2023-09-18_Ship-recycling-market-insight-week-37-2023-Food-for-thought.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-09-18_Ship-recycling-market-insight-week-37-2023-Food-for-thought.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-09-18_Ship-recycling-market-insight-week-37-2023-Food-for-thought.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nSeptember 15tht, 2023 \"You've got to get up every morning with determination,\nVolume 253, Issue 1100 if you're going to go to bed with satisfaction.\"\nWeek 37\n- George Lorimer\nHighlights: MARKET COMMENTARY\n\"There ar\nF\ne o\nO\nnl\nO\ny t\nD\nwo\nF\no\nO\npti\nR\non s\nT\nr\nH\nega\nO\nrd\nU\nin\nG\ng c\nH\nom\nT\nm\n! You're either in or\nyou're out.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4484,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

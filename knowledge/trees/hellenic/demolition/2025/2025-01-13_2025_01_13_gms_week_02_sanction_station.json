@@ -13,20 +13,20 @@
   "keywords": [
     "panamax",
     "handysize",
+    "vlcc",
     "lng",
+    "lpg",
+    "container",
     "china",
+    "brazil",
+    "australia",
     "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "gas",
-    "are",
-    "recycling",
-    "even"
+    "singapore"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 842,
+  "token_count": 7446,
   "source_path": "reports/hellenic/demolition/2025/2025-01-13_gms-week-02-sanction-station.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-02-sanction-station",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 840,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-01-13_2025_01_13_gms_week_02_sanction_station__s02_linked_asset_2025_01_13_ship_recycling_market_insight_week_02_01_10_2025_sanction_station_pdf",
+      "doc_id": "hellenic_demolition_2025-01-13_2025_01_13_gms_week_02_sanction_station",
+      "parent_id": "hellenic_demolition_2025-01-13_2025_01_13_gms_week_02_sanction_station__root",
+      "title": "Linked asset: 2025-01-13_Ship-recycling-market-insight-Week-02-01-10-2025-Sanction_Station.pdf",
+      "section_path": [
+        "Linked asset: 2025-01-13_Ship-recycling-market-insight-Week-02-01-10-2025-Sanction_Station.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-01-13_Ship-recycling-market-insight-Week-02-01-10-2025-Sanction_Station.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-01-13_Ship-recycling-market-insight-Week-02-01-10-2025-Sanction_Station.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nJanuary 10th, 2025\n1\n\"Forget about style; worry about results.\"\nWeek 2\n- Bobby Orr\nVolume 268, Issue 1168\nHighlig hts: -- MARKET COMMENTARY --\nSANCTION STATION! \"There are only tw o options regarding commitment.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6568,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

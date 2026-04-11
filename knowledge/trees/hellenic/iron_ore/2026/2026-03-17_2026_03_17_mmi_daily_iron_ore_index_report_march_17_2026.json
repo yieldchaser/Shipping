@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 17/03/2026\nToday， DCE iron ore futures generally strengthened today. The most-traded contract I2605 finally closed at816.5 yuan/mt, up 1.81% from the previous trading session. Meanwhile, the spot price rose by about 5 yuan from the previous trading day.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
     "india",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
-    "iron",
-    "ore",
-    "expected",
     "fines",
-    "million",
-    "are",
-    "blast",
-    "demand"
+    "iron",
+    "ore"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 330,
+  "token_count": 9340,
   "source_path": "reports/hellenic/iron_ore/2026/2026-03-17_mmi-daily-iron-ore-index-report-march-17-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-march-17-2026",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 328,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-03-17_2026_03_17_mmi_daily_iron_ore_index_report_march_17_2026__s02_linked_asset_2026_03_17_mmi_daily_iron_ore_report_for_17th_march_2026_pdf",
+      "doc_id": "hellenic_iron_ore_2026-03-17_2026_03_17_mmi_daily_iron_ore_index_report_march_17_2026",
+      "parent_id": "hellenic_iron_ore_2026-03-17_2026_03_17_mmi_daily_iron_ore_index_report_march_17_2026__root",
+      "title": "Linked asset: 2026-03-17_MMi-Daily-Iron-Ore-Report-for-17th-March-2026.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-17_MMi-Daily-Iron-Ore-Report-for-17th-March-2026.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_MMi-Daily-Iron-Ore-Report-for-17th-March-2026.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-03-17_MMi-Daily-Iron-Ore-Report-for-17th-March-2026.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Mar 17th, 2026\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI61 61% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n800 907 728\n5 0.62% 3.20 0.35% 5 0.64%\nMar 17th, 2026 Mar 17th, 2026 Mar 17th, 2026\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI61 61% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n106.60 124.75 910\n1.25 1.19% 2.05 1.67% 37 4.24%\nMar 17th, 2026 Mar 17th, 2026 Week Ending Mar 13th, 2026\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2605 (May) RMB/t (3pm close) March 26 USD/dmt RB2605 (Jan) RMB/t\n816.50 108.80 3148\n7.50 0.93% 1.30 1.21% 8 0.25%\nMar 17th, 2026 (3pm close) Mar 17th, 2026 (5.30 pm Print) Mar 17th, 2026 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n29.73 13.64 3164\n0.06 0.2% 0.68 ",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8979,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

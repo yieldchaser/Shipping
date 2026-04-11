@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 12.16.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 16/12/2025\nVLCC Market Holds Ground but Lacks Fuel into Yearend - In the lead-up to mid December, the Arabian Gulf VLCC market exhibited\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 16/12/2025\nVLCC Market Holds Ground but Lacks Fuel into Yearend - In the lead-up to mid December, the Arabian Gulf VLCC market exhibited\nSource: Breakwave Advisors\n\nLinked asset: 2025-12-16_BreakwaveTankersDecember162025Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-12-16_BreakwaveTankersDecember162025Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nDecember 16, 2025\n• VLCC Market Holds Ground but Lacks Fuel into Yearend - In the lead-up to mid-\nShort-term Indicators\nDecember, the Arabian Gulf VLCC market exhibited restrained sentiment, as\nMomentum: Neutral\nactivity remained muted due to limited new inquiries and ample available tonnage. Although a small cluster of prompt stems attracted temporary interest and led to a Sentiment: Positive\nbrief tightening in local supply, this effect proved transitory, with insufficient charterer Fundamentals: Positive\nengagement preventing any sustained momentum. By the close of the week, a\nsubstantial portion of third-decade December cargoes had been fixed, whereas\nforward January stems continued to encounter ample supply, restricting owners'\nBreakwave Tanker 1867\nleverage to inc",
   "keywords": [
     "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
     "meg",
-    "arabian",
-    "but",
-    "december",
-    "exhibited",
-    "fuel",
-    "ground",
-    "gulf",
-    "holds",
-    "lacks",
-    "lead-up"
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "demand",
+    "funds",
+    "supply"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 49,
+  "token_count": 1805,
   "source_path": "reports/hellenic/shipbuilding/2025/2025-12-16_breakwave-dry-bulk-shipping-report-12-16-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-12-16-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 47,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_dry_bulk_shipping_report_12_16_2025__s02_linked_asset_2025_12_16_breakwavetankersdecember162025report_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_dry_bulk_shipping_report_12_16_2025",
+      "parent_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_dry_bulk_shipping_report_12_16_2025__root",
+      "title": "Linked asset: 2025-12-16_BreakwaveTankersDecember162025Report.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-16_BreakwaveTankersDecember162025Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-16_BreakwaveTankersDecember162025Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-12-16_BreakwaveTankersDecember162025Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nDecember 16, 2025\n• VLCC Market Holds Ground but Lacks Fuel into Yearend - In the lead-up to mid-\nShort-term Indicators\nDecember, the Arabian Gulf VLCC market exhibited restrained sentiment, as\nMomentum: Neutral\nactivity remained muted due to limited new inquiries and ample available tonnage. Although a small cluster of prompt stems attracted temporary interest and led to a Sentiment: Positive\nbrief tightening in local supply, this effect proved transitory, with insufficient charterer Fundamentals: Positive\nengagement preventing any sustained momentum.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1734,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

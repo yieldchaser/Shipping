@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 13/11/2025\nDCE iron ore futures continued to fluctuate rangebound today, with the most-traded contract I2601 closing at 772.5 yuan,up 0.26% from the previous trading day. Main port spot cargo prices edged up 0-2 yuan/mt compared to the prior working day. In Shandong, transaction prices for PB fines with over 61% specifications were 780-783 yuan, while mainstream transactions for 60.8% PB fines were 775-778 yuan/mt, up 0-2 yuan/mt from yesterday.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "products",
     "steel",
-    "prices",
-    "yuan/mt",
-    "iron",
-    "ore",
     "fines",
-    "continued",
-    "day.",
-    "demand"
+    "iron",
+    "ore"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 287,
+  "token_count": 11883,
   "source_path": "reports/hellenic/iron_ore/2025/2025-11-13_mmi-daily-iron-ore-index-report-november-13-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-13-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 285,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2025-11-13_2025_11_13_mmi_daily_iron_ore_index_report_november_13_2025__s02_linked_asset_2025_11_13_mmi_daily_iron_ore_report_for_13th_november_2025_pdf",
+      "doc_id": "hellenic_iron_ore_2025-11-13_2025_11_13_mmi_daily_iron_ore_index_report_november_13_2025",
+      "parent_id": "hellenic_iron_ore_2025-11-13_2025_11_13_mmi_daily_iron_ore_index_report_november_13_2025__root",
+      "title": "Linked asset: 2025-11-13_MMi-Daily-Iron-Ore-Report-for-13th-November-2025.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-13_MMi-Daily-Iron-Ore-Report-for-13th-November-2025.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-13_MMi-Daily-Iron-Ore-Report-for-13th-November-2025.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-11-13_MMi-Daily-Iron-Ore-Report-for-13th-November-2025.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Nov 13th, 2025\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n799 911 714\n2 0.25% 2.03 0.22% 1 0.11%\nNov 13th, 2025 Nov 13th, 2025 Nov 13th, 2025\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n105.50 122.20 885\n0.10 0.09% 0.40 0.33% -30 -3.28%\nNov 13th, 2025 Nov 13th, 2025 Week Ending Nov 7th, 2025\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2601 (January) RMB/t (3pm close) December 25 USD/dmt RB2601 (Jan) RMB/t\n772.50 102.80 3046\n-1.50 -0.19% 0.05 0.05% 8 0.26%\nNov 13th, 2025 (3pm close) Nov 13th, 2025 (5.30 pm Print) Nov 13th, 2025 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n23.16 10.03 3078\n-0",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 11565,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

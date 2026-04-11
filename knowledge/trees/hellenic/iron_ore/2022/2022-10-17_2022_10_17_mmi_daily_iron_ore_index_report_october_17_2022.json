@@ -14,19 +14,19 @@
     "china",
     "brazil",
     "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "products",
     "steel",
+    "fines",
     "iron",
-    "ore",
-    "port",
-    "volume",
-    "dealt",
-    "decrease"
+    "ore"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 270,
+  "token_count": 10074,
   "source_path": "reports/hellenic/iron_ore/2022/2022-10-17_mmi-daily-iron-ore-index-report-october-17-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-17-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 268,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2022-10-17_2022_10_17_mmi_daily_iron_ore_index_report_october_17_2022__s02_linked_asset_2022_10_17_mmi_daily_iron_ore_report_for_17th_october_2022_compressed_pdf",
+      "doc_id": "hellenic_iron_ore_2022-10-17_2022_10_17_mmi_daily_iron_ore_index_report_october_17_2022",
+      "parent_id": "hellenic_iron_ore_2022-10-17_2022_10_17_mmi_daily_iron_ore_index_report_october_17_2022__root",
+      "title": "Linked asset: 2022-10-17_MMi-Daily-Iron-Ore-Report-for-17th-October-2022_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2022-10-17_MMi-Daily-Iron-Ore-Report-for-17th-October-2022_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-10-17_MMi-Daily-Iron-Ore-Report-for-17th-October-2022_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-10-17_MMi-Daily-Iron-Ore-Report-for-17th-October-2022_compressed.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Oct 17th, 2022\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n744 914 688\n-16 -2.11% 6.00 0.66% -12 -1.71%\nOct 17th, 2022 Oct 17th, 2022 Oct 17th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n96.80 109.50 900\n0.00 0.00% 0.00 0.00% 15 1.69%\nOct 17th, 2022 Oct 17th, 2022 Week Ending Oct 14th, 2022\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2301 (Jan) RMB/t (3pm close) November 22 USD/dmt RB2301 (Jan) RMB/t\n686.50 92.50 3675\n-16.00 -2.28% -1.20 -1.28% -84 -2.23%\nOct 17th, 2022 (3pm close) Oct 17th, 2022 (5.30 pm Print) Oct 17th, 2022 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n23.2",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9771,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

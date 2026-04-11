@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 5.20.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 20/05/2025\nStability Brings Optimism - The VLCC market has shown signs of stabilization, particularly on Eastern routes. Middle East to Asia and WAF\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 20/05/2025\nStability Brings Optimism - The VLCC market has shown signs of stabilization, particularly on Eastern routes. Middle East to Asia and WAF\nSource: Breakwave Advisors\n\nLinked asset: 2025-05-20_BreakwaveTankersMay202025Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-05-20_BreakwaveTankersMay202025Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 20, 2025\n• Stability Brings Optimism - The VLCC market has shown signs of stabilization, Short-term Indicators\nparticularly on Eastern routes. Middle East to Asia and WAF to Asia trades are\nMomentum: Positive\ngradually firming, supported by a combination of increased inquiry, a tightening\nSentiment: Positive\ntonnage list, and the ongoing uplift in OPEC output.",
   "keywords": [
     "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "meg",
     "west_africa",
-    "asia",
-    "brings",
-    "east",
-    "eastern",
-    "main",
-    "middle",
-    "optimism",
-    "particularly",
-    "routes.",
-    "shipbuilding"
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "gas",
+    "oil",
+    "are"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 50,
+  "token_count": 1685,
   "source_path": "reports/hellenic/shipbuilding/2025/2025-05-20_breakwave-tanker-report-5-20-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-5-20-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 48,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-05-20_2025_05_20_breakwave_tanker_report_5_20_2025__s02_linked_asset_2025_05_20_breakwavetankersmay202025report_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-05-20_2025_05_20_breakwave_tanker_report_5_20_2025",
+      "parent_id": "hellenic_shipbuilding_2025-05-20_2025_05_20_breakwave_tanker_report_5_20_2025__root",
+      "title": "Linked asset: 2025-05-20_BreakwaveTankersMay202025Report.pdf",
+      "section_path": [
+        "Linked asset: 2025-05-20_BreakwaveTankersMay202025Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-05-20_BreakwaveTankersMay202025Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-05-20_BreakwaveTankersMay202025Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 20, 2025\n• Stability Brings Optimism - The VLCC market has shown signs of stabilization, Short-term Indicators\nparticularly on Eastern routes. Middle East to Asia and WAF to Asia trades are\nMomentum: Positive\ngradually firming, supported by a combination of increased inquiry, a tightening\nSentiment: Positive\ntonnage list, and the ongoing uplift in OPEC output.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1613,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

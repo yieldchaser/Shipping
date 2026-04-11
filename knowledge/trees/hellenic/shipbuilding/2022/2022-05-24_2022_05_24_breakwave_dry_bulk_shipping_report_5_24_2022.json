@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 5.24.2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 24/05/2022\nCapesize rates surge 130% in less than a month as iron ore cargoes emerge - The volatile nature of the Capesize market was in full force once\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 24/05/2022\nCapesize rates surge 130% in less than a month as iron ore cargoes emerge - The volatile nature of the Capesize market was in full force once\nSource: Breakwave Advisors\n\nLinked asset: 2022-05-24_BreakwaveMay242022Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-05-24_BreakwaveMay242022Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 24, 2022\nBreakwave Dry Futures Index: 3,410 Baltic Dry Index (spot): 3,369 Short-term Indicators:\n↑ 30D: 15.9% ↑ 30D: 46.0% Momentum: Neutral\n↑ YTD: 63.8% ↑ YTD: 52.0% Sentiment: Positive\n↑ YOY: 6.2% ↑ YOY: 17.4% Fundamentals: Positive\nBi-Weekly Report\n• Capesize rates surge 130% in less than a month as iron ore cargoes emerge - The volatile nature of the Capesize\nmarket was in full force once again, with spot rates having now more than tripled since the lows of April. With the\nbroader dislocation of coal trade acting as the base for a tighter market, the emergence of iron ore cargoes out of\nBrazil added more fuel to the fire, and the spot index is now back to well above the 30,000 mark for the first time\nsince late last year. The natural question for market participants is whether we are nea",
   "keywords": [
     "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
     "iron_ore",
-    "cargoes",
-    "emerge",
-    "force",
-    "full",
+    "coal",
+    "grain",
+    "steel",
     "iron",
-    "less",
-    "main",
-    "month",
-    "nature",
-    "once"
+    "ore"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 55,
+  "token_count": 1470,
   "source_path": "reports/hellenic/shipbuilding/2022/2022-05-24_breakwave-dry-bulk-shipping-report-5-24-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-24-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 53,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-05-24_2022_05_24_breakwave_dry_bulk_shipping_report_5_24_2022__s02_linked_asset_2022_05_24_breakwavemay242022report_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-05-24_2022_05_24_breakwave_dry_bulk_shipping_report_5_24_2022",
+      "parent_id": "hellenic_shipbuilding_2022-05-24_2022_05_24_breakwave_dry_bulk_shipping_report_5_24_2022__root",
+      "title": "Linked asset: 2022-05-24_BreakwaveMay242022Report.pdf",
+      "section_path": [
+        "Linked asset: 2022-05-24_BreakwaveMay242022Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-05-24_BreakwaveMay242022Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-05-24_BreakwaveMay242022Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 24, 2022\nBreakwave Dry Futures Index: 3,410 Baltic Dry Index (spot): 3,369 Short-term Indicators:\n↑ 30D: 15.9% ↑ 30D: 46.0% Momentum: Neutral\n↑ YTD: 63.8% ↑ YTD: 52.0% Sentiment: Positive\n↑ YOY: 6.2% ↑ YOY: 17.4% Fundamentals: Positive\nBi-Weekly Report\n• Capesize rates surge 130% in less than a month as iron ore cargoes emerge - The volatile nature of the Capesize\nmarket was in full force once again, with spot rates having now more than tripled since the lows of April. With the\nbroader dislocation of coal trade acting as the base for a tighter market, the emergence of iron ore cargoes out of\nBrazil added more fuel to the fire, and the spot index is now back to well above the 30,000 mark for the first time\nsince late last year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1395,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

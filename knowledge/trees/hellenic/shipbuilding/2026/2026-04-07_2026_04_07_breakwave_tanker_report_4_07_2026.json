@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 4.07.2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 07/04/2026\nLittle Progress for MEG VLCCs as War Enters its Second Month - Over the past fortnight, VLCC activity originating from the Arabian Gulf\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 07/04/2026\nLittle Progress for MEG VLCCs as War Enters its Second Month - Over the past fortnight, VLCC activity originating from the Arabian Gulf\nSource: Breakwave Advisors\n\nLinked asset: 2026-04-07_BreakwaveTankersApril72026Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-04-07_BreakwaveTankersApril72026Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nApril 7, 2026\n• Little Progress for MEG VLCCs as War Enters its Second Month - Over the\nShort-term Indicators\npast fortnight, VLCC activity originating from the Arabian Gulf has remained\nMomentum: Positive\nsubdued, prompting the market to pivot its focus toward cargo loadings from Yanbu\nSentiment: Positive\nand the Gulf of Oman, where volumes have surged significantly above pre-conflict\nlevels. While global attention remains fixed on the Strait of Hormuz, the extreme Fundamentals: Positive\nvolatility of the situation precludes definitive short-term projections; currently,\ntransit through the straits is largely restricted, with activity primarily limited to Iranian- Breakwave Tanker\n6032\nlinked cargoes. Despite this regional instability, the broader VLCC market remains ",
   "keywords": [
+    "capesize",
     "vlcc",
+    "suezmax",
+    "china",
     "meg",
-    "activity",
-    "arabian",
-    "enters",
-    "fortnight",
-    "gulf",
-    "its",
-    "little",
-    "main",
-    "month",
-    "originating"
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "funds",
+    "global",
+    "are"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 51,
+  "token_count": 1710,
   "source_path": "reports/hellenic/shipbuilding/2026/2026-04-07_breakwave-tanker-report-4-07-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-4-07-2026",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 49,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-04-07_2026_04_07_breakwave_tanker_report_4_07_2026__s02_linked_asset_2026_04_07_breakwavetankersapril72026report_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-04-07_2026_04_07_breakwave_tanker_report_4_07_2026",
+      "parent_id": "hellenic_shipbuilding_2026-04-07_2026_04_07_breakwave_tanker_report_4_07_2026__root",
+      "title": "Linked asset: 2026-04-07_BreakwaveTankersApril72026Report.pdf",
+      "section_path": [
+        "Linked asset: 2026-04-07_BreakwaveTankersApril72026Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-04-07_BreakwaveTankersApril72026Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-04-07_BreakwaveTankersApril72026Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nApril 7, 2026\n• Little Progress for MEG VLCCs as War Enters its Second Month - Over the\nShort-term Indicators\npast fortnight, VLCC activity originating from the Arabian Gulf has remained\nMomentum: Positive\nsubdued, prompting the market to pivot its focus toward cargo loadings from Yanbu\nSentiment: Positive\nand the Gulf of Oman, where volumes have surged significantly above pre-conflict\nlevels. While global attention remains fixed on the Strait of Hormuz, the extreme Fundamentals: Positive\nvolatility of the situation precludes definitive short-term projections; currently,\ntransit through the straits is largely restricted, with activity primarily limited to Iranian- Breakwave Tanker\n6032\nlinked cargoes.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1637,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

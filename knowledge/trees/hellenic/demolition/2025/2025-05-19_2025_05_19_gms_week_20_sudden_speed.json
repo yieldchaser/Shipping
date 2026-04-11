@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 19/05/2025\nImage reference: 2025-05-19_gms-week-20-sudden-speed_img1.jpg\nAs the fragile India - Pakistan ceasefire continues to barely hold at the seams with sporadic instances of violence reportedly erupting along theLine of Control (LoC), PM Modi reassures the nation that Operation Sindoor is still very much in play as Indian Forces continue to target terrorists within Pakistan Occupied Kashmir, killing the mastermind behind reporter Daniel Pearl's tragic execution about 24 years ago, Israel simultaneously ramps up its attacks against Hamas as plans to re-occupy Gaza make the rounds again, and finally Ukraine and Russia continue to hammer each other amidst a growing controversy of arms and military aircraft exports to Ukraine from the EU, further raising the specter of a wider conflict between the nations, the world seems to have suddenly picked up speed for all of the wrong reasons over the last few weeks. All while President Trump visits the Middle East and accepts planes as gifts while complaining to senior staff about Congressional restrictions blocking such favors, world economies are meanwhile having a hell of a rollercoaster ride with frei",
   "keywords": [
+    "capesize",
+    "container",
     "china",
+    "meg",
     "india",
+    "singapore",
+    "japan",
     "grain",
     "crude_oil",
     "steel",
-    "markets",
-    "all",
-    "start",
-    "global",
-    "hkc",
-    "recent",
-    "recycling"
+    "may",
+    "ldt"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 719,
+  "token_count": 6862,
   "source_path": "reports/hellenic/demolition/2025/2025-05-19_gms-week-20-sudden-speed.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-20-sudden-speed",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 717,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-05-19_2025_05_19_gms_week_20_sudden_speed__s02_linked_asset_2025_05_19_ship_recycling_market_insight_week_20_05_16_2025_sudden_speed_1747622773_pdf",
+      "doc_id": "hellenic_demolition_2025-05-19_2025_05_19_gms_week_20_sudden_speed",
+      "parent_id": "hellenic_demolition_2025-05-19_2025_05_19_gms_week_20_sudden_speed__root",
+      "title": "Linked asset: 2025-05-19_Ship-recycling-market-insight-Week-20-05-16-2025-Sudden_Speed-1747622773.pdf",
+      "section_path": [
+        "Linked asset: 2025-05-19_Ship-recycling-market-insight-Week-20-05-16-2025-Sudden_Speed-1747622773.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-05-19_Ship-recycling-market-insight-Week-20-05-16-2025-Sudden_Speed-1747622773.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-05-19_Ship-recycling-market-insight-Week-20-05-16-2025-Sudden_Speed-1747622773.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\n1\nMay 16th, 2025 \"What is harder than rock, or softer than water? Week 20 Yet soft water hollows out hard rock.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "meg",
+        "india",
+        "singapore",
+        "japan",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6104,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

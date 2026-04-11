@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "supramax",
+    "handysize",
     "lng",
+    "lpg",
+    "container",
+    "china",
     "europe",
     "india",
-    "japan",
-    "grain",
-    "crude_oil",
-    "steel",
-    "gas",
-    "all"
+    "singapore",
+    "japan"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 865,
+  "token_count": 7872,
   "source_path": "reports/hellenic/demolition/2025/2025-07-28_gms-week-30-glimmer-of-life.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-30-glimmer-of-life",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 863,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-07-28_2025_07_28_gms_week_30_glimmer_of_life__s02_linked_asset_2025_07_28_ship_recycling_market_insight_week_31_07_25_2025_glimmer_of_life_pdf",
+      "doc_id": "hellenic_demolition_2025-07-28_2025_07_28_gms_week_30_glimmer_of_life",
+      "parent_id": "hellenic_demolition_2025-07-28_2025_07_28_gms_week_30_glimmer_of_life__root",
+      "title": "Linked asset: 2025-07-28_Ship-recycling-market-insight-Week-31-07-25-2025-Glimmer_of_Life.pdf",
+      "section_path": [
+        "Linked asset: 2025-07-28_Ship-recycling-market-insight-Week-31-07-25-2025-Glimmer_of_Life.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-07-28_Ship-recycling-market-insight-Week-31-07-25-2025-Glimmer_of_Life.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-07-28_Ship-recycling-market-insight-Week-31-07-25-2025-Glimmer_of_Life.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nJuly 25th, 2025\n1\n\"Success is getting what you want; happiness is wanting what you get.\"\nWeek 30\n- W. Kinsella\nVolume 274, Issue 1195\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "container",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6970,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

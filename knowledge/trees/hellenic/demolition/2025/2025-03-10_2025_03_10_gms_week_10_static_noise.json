@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "panamax",
+    "handysize",
+    "lng",
     "container",
+    "china",
+    "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "continue",
-    "recycling",
-    "prices",
-    "are",
-    "ship",
-    "another"
+    "singapore",
+    "japan",
+    "grain",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 756,
+  "token_count": 7706,
   "source_path": "reports/hellenic/demolition/2025/2025-03-10_gms-week-10-static-noise.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-10-static-noise",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 754,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-03-10_2025_03_10_gms_week_10_static_noise__s02_linked_asset_2025_03_10_ship_recycling_market_insight_week_10_03_07_2025_static_noise_pdf",
+      "doc_id": "hellenic_demolition_2025-03-10_2025_03_10_gms_week_10_static_noise",
+      "parent_id": "hellenic_demolition_2025-03-10_2025_03_10_gms_week_10_static_noise__root",
+      "title": "Linked asset: 2025-03-10_Ship-recycling-market-insight-Week-10-03-07-2025-Static_Noise.pdf",
+      "section_path": [
+        "Linked asset: 2025-03-10_Ship-recycling-market-insight-Week-10-03-07-2025-Static_Noise.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-03-10_Ship-recycling-market-insight-Week-10-03-07-2025-Static_Noise.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-03-10_Ship-recycling-market-insight-Week-10-03-07-2025-Static_Noise.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nMarch 7th, 2025\n1\n\"It's tough to get out of bed to do roadwork at 5 a.m. when you've been\nWeek 10 sleeping in silk pajamas.\"\nVolume 270, Issue 1175\n- Marvin Hagler\nHighlig hts: -- MARKET COMMENTARY --\n\"There are only two S oTptAionTsI rCeg aNrdOingI ScoEm!m itment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6915,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

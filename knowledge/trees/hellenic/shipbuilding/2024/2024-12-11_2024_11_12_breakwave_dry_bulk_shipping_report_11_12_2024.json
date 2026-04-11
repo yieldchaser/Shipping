@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 11.12.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 12/11/2024\nCapesize Activity Picks Up as Winter Market Takes Hold - The October slump in Capesize spot rates is now behind us, and we anticipate rates\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 12/11/2024\nCapesize Activity Picks Up as Winter Market Takes Hold - The October slump in Capesize spot rates is now behind us, and we anticipate rates\nSource: Breakwave Advisors\n\nLinked asset: 2024-11-12_BreakwaveDryNovember122024Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-11-12_BreakwaveDryNovember122024Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 12, 2024\nBreakwave Dry Futures Index: 1,433 Baltic Dry Index (spot): 1,495 Short-term Indicators:\n↓ 30D: -23.7% ↓ 30D: -19.6% Momentum: Positive\n↓ YTD: -4.1% ↓ YTD: -28.6% Sentiment: Positive\n↑ YOY: 22.3% ↓ YOY: -2.3% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Activity Picks Up as Winter Market Takes Hold - The October slump in Capesize spot rates is now behind us,\nand we anticipate rates will soon reach the mid-$20,000 range. Strong fixing activity in the Atlantic market drove the\nrecovery, lifting the overall spot market and improving sentiment in the struggling sub-Cape sectors. It's important to\nremember that, prior to 2020, seasonality in dry bulk meant the fourth quarter was the strongest period of the year.",
   "keywords": [
     "capesize",
-    "activity",
-    "anticipate",
-    "behind",
-    "hold",
-    "main",
-    "now",
-    "october",
-    "picks",
-    "shipbuilding",
-    "slump",
-    "source"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 51,
+  "token_count": 1415,
   "source_path": "reports/hellenic/shipbuilding/2024/2024-11-12_breakwave-dry-bulk-shipping-report-11-12-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-12-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 49,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-12-11_2024_11_12_breakwave_dry_bulk_shipping_report_11_12_2024__s02_linked_asset_2024_11_12_breakwavedrynovember122024report_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-12-11_2024_11_12_breakwave_dry_bulk_shipping_report_11_12_2024",
+      "parent_id": "hellenic_shipbuilding_2024-12-11_2024_11_12_breakwave_dry_bulk_shipping_report_11_12_2024__root",
+      "title": "Linked asset: 2024-11-12_BreakwaveDryNovember122024Report.pdf",
+      "section_path": [
+        "Linked asset: 2024-11-12_BreakwaveDryNovember122024Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-11-12_BreakwaveDryNovember122024Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-11-12_BreakwaveDryNovember122024Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 12, 2024\nBreakwave Dry Futures Index: 1,433 Baltic Dry Index (spot): 1,495 Short-term Indicators:\n↓ 30D: -23.7% ↓ 30D: -19.6% Momentum: Positive\n↓ YTD: -4.1% ↓ YTD: -28.6% Sentiment: Positive\n↑ YOY: 22.3% ↓ YOY: -2.3% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Activity Picks Up as Winter Market Takes Hold - The October slump in Capesize spot rates is now behind us,\nand we anticipate rates will soon reach the mid-$20,000 range. Strong fixing activity in the Atlantic market drove the\nrecovery, lifting the overall spot market and improving sentiment in the struggling sub-Cape sectors.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1343,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

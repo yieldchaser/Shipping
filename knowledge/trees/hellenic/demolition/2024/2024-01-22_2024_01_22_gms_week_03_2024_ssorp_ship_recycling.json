@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 22/01/2024\nImage reference: 2024-01-22_gms-week-03-2024-ssorp-ship-recycling_img1.jpg\nWith 2024 well underway and HKC sales having taken center stage of late, GMSremains delighted to remind our readers that its Sustainable Ship & Offshore Recycling Program (SSORP) continues to surpass all of the stipulations & requirements for the environmentally safe and responsible recycling of ships that are currently set by the Hong Kong Convention (HKC). Significantly, SSORP has become a guardian that ensures compliance monitoring and auditing initiatives, a process that has been rigorously verified & endorsed by Lloyd's Register Quality Assurance (LRQA). As adherence to safety and environmental standards becomes increasingly vital - ship owners, ship recycling facilities, and a growing number of maritime stakeholders are increasingly leveraging the strengths of SSORP, underscoring their own collective allegiances to sustainability.",
   "keywords": [
+    "handysize",
+    "container",
+    "china",
+    "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
     "recycling",
-    "ssorp",
-    "ship",
-    "only",
-    "are",
-    "offshore",
-    "compliance",
-    "end",
-    "gms",
-    "monitoring"
+    "ldt",
+    "january",
+    "only"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 694,
+  "token_count": 5463,
   "source_path": "reports/hellenic/demolition/2024/2024-01-22_gms-week-03-2024-ssorp-ship-recycling.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-03-2024-ssorp-ship-recycling",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 692,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-01-22_2024_01_22_gms_week_03_2024_ssorp_ship_recycling__s02_linked_asset_2024_01_22_ship_recycling_market_insight_week_03_2024_2024_ssorp_and_ship_recycling_pdf",
+      "doc_id": "hellenic_demolition_2024-01-22_2024_01_22_gms_week_03_2024_ssorp_ship_recycling",
+      "parent_id": "hellenic_demolition_2024-01-22_2024_01_22_gms_week_03_2024_ssorp_ship_recycling__root",
+      "title": "Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf",
+      "section_path": [
+        "Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-01-22_Ship-recycling-market-insight-week-03-2024-2024-SSORP-And-Ship-Recycling.pdf\n\n[Page 1]\n+I\n, l'\n-+Ali / +N\nJanuary 1 9th, 2024 \"Life becomes easier when you learn to accept\nVolume 257, Issue 1118 the apology you never got.\"\nWeek 3\n- R. Brault\nHighlights: MARKET COMMENTARY\n2024, SSORP, & SHIP RECYCLING!",
+      "keywords": [
+        "handysize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4729,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

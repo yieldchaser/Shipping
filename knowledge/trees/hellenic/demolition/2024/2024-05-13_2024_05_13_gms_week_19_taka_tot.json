@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "container",
+    "china",
+    "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "recyclers",
+    "ldt",
     "prices",
-    "recycling",
-    "continue",
-    "gadani",
-    "taka",
-    "was",
-    "any"
+    "may",
+    "june"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 712,
+  "token_count": 5969,
   "source_path": "reports/hellenic/demolition/2024/2024-05-13_gms-week-19-taka-tot.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-19-taka-tot",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 710,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-05-13_2024_05_13_gms_week_19_taka_tot__s02_linked_asset_2024_05_13_ship_recycling_market_insight_week_19_2024_taka_tot_pdf",
+      "doc_id": "hellenic_demolition_2024-05-13_2024_05_13_gms_week_19_taka_tot",
+      "parent_id": "hellenic_demolition_2024-05-13_2024_05_13_gms_week_19_taka_tot__root",
+      "title": "Linked asset: 2024-05-13_Ship-recycling-market-insight-week-19-2024-Taka_Tot.pdf",
+      "section_path": [
+        "Linked asset: 2024-05-13_Ship-recycling-market-insight-week-19-2024-Taka_Tot.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-05-13_Ship-recycling-market-insight-week-19-2024-Taka_Tot.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-05-13_Ship-recycling-market-insight-week-19-2024-Taka_Tot.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nMay 10th, 2024 1\n\"You never know what worse luck your bad luck has saved you from.\"\nWeek 19\nCormac McCarthy\nVolume 261, Issue 1133\nHighlig hts: - MARKET COMMENTARY -\nTAKA TöT*? \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5227,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

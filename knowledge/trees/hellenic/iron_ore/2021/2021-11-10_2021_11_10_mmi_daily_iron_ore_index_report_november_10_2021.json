@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 10/11/2021\nDCE iron ore futures fell sharply today, and I2201 hit new low of 671 yuan/mt. an decrease of 4.62% throughout the day;the quotation in themorning was decreased by 30-50 yuan/mt over yesterday. some traders were active to sell, and they were gived more bargain space.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
-    "yuan/mt",
-    "iron",
-    "mills",
-    "ore",
-    "active",
-    "dealt",
-    "decreased",
-    "expected",
-    "low"
+    "cid",
+    "fines",
+    "nov",
+    "high",
+    "change"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 261,
+  "token_count": 23945,
   "source_path": "reports/hellenic/iron_ore/2021/2021-11-10_mmi-daily-iron-ore-index-report-november-10-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-november-10-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 259,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2021-11-10_2021_11_10_mmi_daily_iron_ore_index_report_november_10_2021__s02_linked_asset_2021_11_10_mmi_daily_iron_ore_report_for_november_10th_2021_compressed_pdf",
+      "doc_id": "hellenic_iron_ore_2021-11-10_2021_11_10_mmi_daily_iron_ore_index_report_november_10_2021",
+      "parent_id": "hellenic_iron_ore_2021-11-10_2021_11_10_mmi_daily_iron_ore_index_report_november_10_2021__root",
+      "title": "Linked asset: 2021-11-10_MMi-Daily-Iron-Ore-Report-for-November-10th-2021_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2021-11-10_MMi-Daily-Iron-Ore-Report-for-November-10th-2021_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-11-10_MMi-Daily-Iron-Ore-Report-for-November-10th-2021_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2021-11-10_MMi-Daily-Iron-Ore-Report-for-November-10th-2021_compressed.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Nov 10th, 2021\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n667 905 484\n-6 -0.89% -10.00 -1.09% -12 -2.42%\nNov 10th, 2021 Nov 10th, 2021 Nov 10th, 2021\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n97.75 110.90 ",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel",
+        "cid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23651,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

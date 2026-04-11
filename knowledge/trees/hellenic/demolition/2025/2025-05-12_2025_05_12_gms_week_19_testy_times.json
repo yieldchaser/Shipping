@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "panamax",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
     "products",
     "steel",
-    "pakistan",
-    "trade",
-    "indian",
-    "u.s."
+    "pakistan"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 817,
+  "token_count": 7283,
   "source_path": "reports/hellenic/demolition/2025/2025-05-12_gms-week-19-testy-times.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-19-testy-times",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 815,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-05-12_2025_05_12_gms_week_19_testy_times__s02_linked_asset_2025_05_12_ship_recycling_market_insight_week_19_05_09_2025_testy_times_pdf",
+      "doc_id": "hellenic_demolition_2025-05-12_2025_05_12_gms_week_19_testy_times",
+      "parent_id": "hellenic_demolition_2025-05-12_2025_05_12_gms_week_19_testy_times__root",
+      "title": "Linked asset: 2025-05-12_Ship-recycling-market-insight-Week-19-05-09-2025-Testy_Times.pdf",
+      "section_path": [
+        "Linked asset: 2025-05-12_Ship-recycling-market-insight-Week-19-05-09-2025-Testy_Times.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-05-12_Ship-recycling-market-insight-Week-19-05-09-2025-Testy_Times.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-05-12_Ship-recycling-market-insight-Week-19-05-09-2025-Testy_Times.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\n1\nMay 9th, 2025 \"The mark of greatness is when everything before you is obsolete,\nWeek 19 and everything after you bears your mark.\"\nVolume 272, Issue 1184\n- Dave Chappelle\nHighlig hts: -- MARKET COMMENTARY --\n\"There are only two T opEtiSonTs Yre gTarIdMingE cSom! You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6430,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

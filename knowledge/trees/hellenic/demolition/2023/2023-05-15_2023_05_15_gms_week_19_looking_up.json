@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 15/05/2023\nImage reference: 2023-05-15_gms-week-19-looking-up_img1.jpg\nAfter some recent alarming declines in the sub-continent markets, we appeared to have reached the bottom early this weekas a certain \"stability\" across the markets led to some greater confidence to acquire some of the slim pickings of tonnage currently available for recycling. However, as the week came to an end, global currencies seemed to suffer against the U.S. Dollar in unison, as all of the major ship recycling destinations faced some declines (especially in Pakistan), leaving sentiments under pressure.",
   "keywords": [
+    "capesize",
+    "lpg",
     "container",
+    "china",
+    "pacific",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
-    "are",
-    "even",
-    "markets",
-    "after",
-    "buyers",
-    "end",
-    "remains",
-    "though"
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 505,
+  "token_count": 4923,
   "source_path": "reports/hellenic/demolition/2023/2023-05-15_gms-week-19-looking-up.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-19-looking-up",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 503,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-05-15_2023_05_15_gms_week_19_looking_up__s02_linked_asset_2023_05_15_ship_recycling_market_insight_week_19_2023_looking_up_pdf",
+      "doc_id": "hellenic_demolition_2023-05-15_2023_05_15_gms_week_19_looking_up",
+      "parent_id": "hellenic_demolition_2023-05-15_2023_05_15_gms_week_19_looking_up__root",
+      "title": "Linked asset: 2023-05-15_Ship-recycling-market-insight-week-19-2023-Looking-Up.pdf",
+      "section_path": [
+        "Linked asset: 2023-05-15_Ship-recycling-market-insight-week-19-2023-Looking-Up.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-05-15_Ship-recycling-market-insight-week-19-2023-Looking-Up.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-05-15_Ship-recycling-market-insight-week-19-2023-Looking-Up.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nMay 12th , 2023\n\"The only limit to our realization of tomorrow will be our doubts today.\"\nVolume 249, Issue 1082\n- Franklin D Roosevelt\nWeek 19\nHighlights: MARKET COMMENTARY\nLOOKING UP? \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "lpg",
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4388,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

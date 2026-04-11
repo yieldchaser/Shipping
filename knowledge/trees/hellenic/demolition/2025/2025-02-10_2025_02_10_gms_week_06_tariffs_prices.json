@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 10/02/2025\nImage reference: 2025-02-10_gms-week-06-tariffs-prices_img1.jpg\nWith week 6 of 2025 behind us, the raging fires of tariffs and counter-tariffs that continue to suppress recycling vesselprices via volatile fundamentals, are now creating a path for the (near) future of the ship recycling industry, one that seems to be headed for a Q1 and likely even Q2 of an industry that will likely be chasing falling prices. To start, some of the seriously older tonnage that has gotten an extension on their expiration dates via global events and wars that saw charter rates soar through the skies across 2023 and especially 2024, only subjected the ship recycling industry to one of the lowest volumes of tonnage offerings seen in about a decade. But with time trudging on and chances for further trades on these already rusty units getting slimmer at the seams with every passing week, the industry has as a result, seen a flurry of tonnage enter the markets since the onset of 2025, which was then followed by a surge in arrivals at respective waterfronts over the last couple of weeks including this one, with Pakistan finally breaking its mold of absence via a f",
   "keywords": [
+    "capesize",
     "panamax",
+    "vlcc",
     "lng",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "products",
-    "steel",
-    "gas",
-    "recycling",
-    "ship",
-    "even"
+    "products"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 833,
+  "token_count": 7615,
   "source_path": "reports/hellenic/demolition/2025/2025-02-10_gms-week-06-tariffs-prices.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-06-tariffs-prices",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 831,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-02-10_2025_02_10_gms_week_06_tariffs_prices__s02_linked_asset_2025_02_10_ship_recycling_market_insight_week_06_02_07_2025_tarrifs_and_prices_pdf",
+      "doc_id": "hellenic_demolition_2025-02-10_2025_02_10_gms_week_06_tariffs_prices",
+      "parent_id": "hellenic_demolition_2025-02-10_2025_02_10_gms_week_06_tariffs_prices__root",
+      "title": "Linked asset: 2025-02-10_Ship-recycling-market-insight-Week-06-02-07-2025-Tarrifs_and_Prices.pdf",
+      "section_path": [
+        "Linked asset: 2025-02-10_Ship-recycling-market-insight-Week-06-02-07-2025-Tarrifs_and_Prices.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-02-10_Ship-recycling-market-insight-Week-06-02-07-2025-Tarrifs_and_Prices.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-02-10_Ship-recycling-market-insight-Week-06-02-07-2025-Tarrifs_and_Prices.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nFebruary 7th, 2025\n1\n\"If people knew how hard I worked to achieve my mastery,\nWeek 6\nit wouldn't seem so wonderful after all.\"\nVolume 269, Issue 1172\n- Michaelangelo\nHighlig hts: -- MARKET COMMENTARY --\nTARIFFS & PRICES! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6745,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

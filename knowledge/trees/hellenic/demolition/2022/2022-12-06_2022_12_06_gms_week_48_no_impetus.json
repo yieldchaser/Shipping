@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 06/12/2022\nImage reference: 2022-12-06_gms-week-48-no-impetus_img1.jpg\nRecycling markets are ambling towards the end of the year without any real impetus, ability, aggression, or even an apparent willingness to engage in discussions to buy, so volatile has the situation been over the last 2 quarters. Prices have of course come off by about USD 200/LDT in the sub-continent markets since the stunning peaks witnessed over USD 700/LDT just earlier this year - for reference, on a standard Capesize Bulker, that is over USD 4 million lost on the residual value alone! Bangladesh still remains largely absent on the buying front with a majority of Buyers unable to get central bank financing to open fresh Letters of Credit.",
   "keywords": [
     "capesize",
+    "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "products",
     "steel",
-    "end",
-    "any",
-    "are",
-    "usd",
-    "year",
-    "after",
-    "buyers"
+    "gas",
+    "ldt",
+    "december"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 494,
+  "token_count": 4528,
   "source_path": "reports/hellenic/demolition/2022/2022-12-06_gms-week-48-no-impetus.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-48-no-impetus",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 492,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-12-06_2022_12_06_gms_week_48_no_impetus__s02_linked_asset_2022_12_06_ship_recycling_market_insight_week_48_2022_no_impetus_pdf",
+      "doc_id": "hellenic_demolition_2022-12-06_2022_12_06_gms_week_48_no_impetus",
+      "parent_id": "hellenic_demolition_2022-12-06_2022_12_06_gms_week_48_no_impetus__root",
+      "title": "Linked asset: 2022-12-06_Ship-recycling-market-insight-week-48-2022-No-Impetus.pdf",
+      "section_path": [
+        "Linked asset: 2022-12-06_Ship-recycling-market-insight-week-48-2022-No-Impetus.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-12-06_Ship-recycling-market-insight-week-48-2022-No-Impetus.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-12-06_Ship-recycling-market-insight-week-48-2022-No-Impetus.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nDecembe r 2nd, 2022\n\"The standard you walk past, is the standard you accept.\"\nVolume 245, Issue 1059\n- David Hurley\nWeek 48\nHighlights: MARKET COMMENTARY\nNO IMPETUS! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4004,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

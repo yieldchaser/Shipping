@@ -4,26 +4,27 @@ commodities: []
 date: '2021-07-14'
 doc_id: hellenic_demolition_2021-07-14_2021_07_14_athenian_shipbrokers_s_a_demolition_quick_update_week_27_202
 document_type: demolition_update
-key_entities: []
+key_entities:
+- China
 keywords:
+- china
+- india
+- ldt
+- usd
 - athenian
-- athenian-shipbrokers-s-a-demolition-quick-update-week-27-202_img1.jpg
-- available
-- continued
 - demolition
-- firm
-- image
-- lack
-- main
-- owed
-- prevail
 - prices
-market_tone: neutral
+- shipbrokers
+- any
+- pakistan
+- asset
+- atheniansa.gr
+market_tone: constructive
 regions:
 - india
 - china
 - europe
-section_count: 1
+section_count: 2
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-07-14_athenian-shipbrokers-s-a-demolition-quick-update-week-27-202.html
@@ -38,14 +39,53 @@ summary: 'Main
   Firm prices continued to prevail in the ship recycling market, primarily owed to
   the lack of available tonnage
 
-  Source: Athenian Shipbrokers S.A'
+  Source: Athenian Shipbrokers S.A
+
+
+  Linked asset: 2021-07-14_ship_Recycling__weekly_27_2021_Athenian.pdf
+
+  Source asset: reports/hellenic/demolition/pdfs/2021-07-14_ship_Recycling__weekly_27_2021_Athenian.pdf
+
+
+  [Page 1]
+
+  ATHENIAN SHIPBROKERS S.A. Pavlou Str., GR 166 73, Voula, Athens, Greece
+
+  Tel: +30 210 9659700 - Fax: +30 210 8996040
+
+  Email S & P : athenian@atheniansa.gr
+
+  Email Chartering : chartering@atheniansa.gr
+
+  www.atheniansa.gr
+
+  Week 27 2021 (5thJune- 9nd July)
+
+  SH IP R EC Y C LING MA R KET WEEKLY
+
+  Indicative Demolition Prices
+
+  BC/G. Cargo Tankers
+
+  Firm prices continued to prevail in the ship
+
+  India USD 542/lt Ldt USD 552/lt Ldt
+
+  recycling market, primarily owed to the lack of
+
+  Bangladesh USD 575/lt Ldt USD 584/lt Ldt
+
+  available tonnage, with the End Buyers giving Pakistan USD 564/lt Ldt USD 575/lt
+  Ldt
+
+  rates of high 500/LDT.'
 themes:
+- china
+- india
+- ldt
+- usd
 - athenian
-- athenian-shipbrokers-s-a-demolition-quick-update-week-27-202_img1.jpg
-- available
-- continued
 - demolition
-- firm
 title: Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 27, 2021
 vessel_classes:
 - capesize
@@ -65,8 +105,86 @@ Image reference: 2021-07-14_athenian-shipbrokers-s-a-demolition-quick-update-wee
 Firm prices continued to prevail in the ship recycling market, primarily owed to the lack of available tonnage
 Source: Athenian Shipbrokers S.A
 
+Linked asset: 2021-07-14_ship_Recycling__weekly_27_2021_Athenian.pdf
+Source asset: reports/hellenic/demolition/pdfs/2021-07-14_ship_Recycling__weekly_27_2021_Athenian.pdf
+
+[Page 1]
+ATHENIAN SHIPBROKERS S.A. Pavlou Str., GR 166 73, Voula, Athens, Greece
+Tel: +30 210 9659700 - Fax: +30 210 8996040
+Email S & P : athenian@atheniansa.gr
+Email Chartering : chartering@atheniansa.gr
+www.atheniansa.gr
+Week 27 2021 (5thJune- 9nd July)
+SH IP R EC Y C LING MA R KET WEEKLY
+Indicative Demolition Prices
+BC/G. Cargo Tankers
+Firm prices continued to prevail in the ship
+India USD 542/lt Ldt USD 552/lt Ldt
+recycling market, primarily owed to the lack of
+Bangladesh USD 575/lt Ldt USD 584/lt Ldt
+available tonnage, with the End Buyers giving Pakistan USD 564/lt Ldt USD 575/lt Ldt
+rates of high 500/LDT.
+
 ## Main
 in Weekly Demolition Reports 14/07/2021
 Image reference: 2021-07-14_athenian-shipbrokers-s-a-demolition-quick-update-week-27-202_img1.jpg
 Firm prices continued to prevail in the ship recycling market, primarily owed to the lack of available tonnage
 Source: Athenian Shipbrokers S.A
+
+## Linked asset: 2021-07-14_ship_Recycling__weekly_27_2021_Athenian.pdf
+Source asset: reports/hellenic/demolition/pdfs/2021-07-14_ship_Recycling__weekly_27_2021_Athenian.pdf
+
+[Page 1]
+ATHENIAN SHIPBROKERS S.A.
+107-109, Vas. Pavlou Str., GR 166 73, Voula, Athens, Greece
+Tel: +30 210 9659700 - Fax: +30 210 8996040
+Email S & P : athenian@atheniansa.gr
+Email Chartering : chartering@atheniansa.gr
+www.atheniansa.gr
+Week 27 2021 (5thJune- 9nd July)
+SH IP R EC Y C LING MA R KET WEEKLY
+Indicative Demolition Prices
+BC/G. Cargo Tankers
+Firm prices continued to prevail in the ship
+India USD 542/lt Ldt USD 552/lt Ldt
+recycling market, primarily owed to the lack of
+Bangladesh USD 575/lt Ldt USD 584/lt Ldt
+available tonnage, with the End Buyers giving Pakistan USD 564/lt Ldt USD 575/lt Ldt
+rates of high 500/LDT. Pakistan remained a Turkey USD 280/lt Ldt USD 300 /lt Ldt
+strong competitor in the market, but lost the lead to an incredible Bangladeshi market. India's
+supply of specialist vessels was steady, along with some green vessels, however that was not
+able to move them from the last place of the market.
+Total Demolition
+Mio Tons DWT
+60
+55,8
+47
+50
+44,6
+40
+38,8
+40
+35,3
+32 34,3 30,4
+30
+26 23,2
+16,9
+20
+13 13,6
+5,3
+10
+0
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+HISTORICAL DEMOLITION PRICES*
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+TANK 507 287 338 485 482 405 435 425 300 300 440 435 380 410 552
+BULK 472 268 328 437 456 375 410 400 285 280 425 425 370 390 542
+*Indian End of year prices
+PLEASED TO GUIDE YOU FURTHER WITH ANY DEMOLITION REQUIREMENTS YOU MAY HAVE, ACCOUNT ALWAYS WITH
+FIRST CLASS CASH BUYERS/SHIP RECYCLERS FOR DELY TURKEY / INDIA / BANGLADESH / PAKISTAN / CHINA RANGE.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Disclaimer: Information and data that appear in this report have been obtained from various sources which are believed to be correct and reliable. However,
+Athenian Shipbrokers S.A. does not guarantee their accuracy or completeness and therefore cannot be held liable for any loss incurred as a result of reliance in any
+way whatsoever on the information contained herein.
+Kind Regards,
+ATHENIAN SHIPBROKERS S.A

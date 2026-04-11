@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-11T00:16:48Z",
+  "generated_at": "2026-04-11T15:08:41Z",
   "current_date": "2026-04-11",
-  "warning_count": 8,
+  "warning_count": 7,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -10,8 +10,7 @@
       "watch": 4
     },
     "topics": {
-      "healthy": 9,
-      "watch": 1
+      "healthy": 10
     },
     "divergences": {
       "watch": 2
@@ -96,17 +95,6 @@
     },
     {
       "severity": "watch",
-      "kind": "topic_age",
-      "key": "lng_and_lpg_shipping",
-      "message": "lng_and_lpg_shipping is watch at 15 days since the latest evidence row.",
-      "details": {
-        "topic_id": "lng_and_lpg_shipping",
-        "latest_evidence_date": "2026-03-27",
-        "latest_evidence_age_days": 15
-      }
-    },
-    {
-      "severity": "watch",
       "kind": "topic_divergence",
       "key": "capesize",
       "message": "Capesize shows recent tone divergence: breakwave_insights reads constructive while baltic reads neutral.",
@@ -132,7 +120,7 @@
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.29,
+            "avg_tone_score": 0.21,
             "dominant_tone": "constructive",
             "doc_count": 6,
             "latest_date": "2026-04-09"
@@ -168,14 +156,14 @@
           },
           {
             "source": "breakwave",
-            "avg_tone_score": 0.2,
+            "avg_tone_score": 0.25,
             "dominant_tone": "constructive",
-            "doc_count": 5,
+            "doc_count": 4,
             "latest_date": "2026-03-31"
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.42,
+            "avg_tone_score": 0.33,
             "dominant_tone": "constructive",
             "doc_count": 6,
             "latest_date": "2026-04-09"

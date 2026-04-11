@@ -16,17 +16,17 @@
     "vlcc",
     "suezmax",
     "container",
+    "china",
+    "europe",
     "india",
-    "steel",
-    "alang",
-    "are",
-    "back",
-    "end",
-    "even"
+    "singapore",
+    "japan",
+    "grain",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 613,
+  "token_count": 5492,
   "source_path": "reports/hellenic/demolition/2024/2024-06-03_gms-week-22-mays-out-rains-out.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-22-mays-out-rains-out",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 611,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-06-03_2024_06_03_gms_week_22_mays_out_rains_out__s02_linked_asset_2024_06_03_ship_recycling_market_insight_week_22_5_24_2024_mays_out_rains_out_pdf",
+      "doc_id": "hellenic_demolition_2024-06-03_2024_06_03_gms_week_22_mays_out_rains_out",
+      "parent_id": "hellenic_demolition_2024-06-03_2024_06_03_gms_week_22_mays_out_rains_out__root",
+      "title": "Linked asset: 2024-06-03_Ship-recycling-market-insight-Week-22-5-24-2024-Mays_Out_Rains_Out.pdf",
+      "section_path": [
+        "Linked asset: 2024-06-03_Ship-recycling-market-insight-Week-22-5-24-2024-Mays_Out_Rains_Out.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-06-03_Ship-recycling-market-insight-Week-22-5-24-2024-Mays_Out_Rains_Out.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-06-03_Ship-recycling-market-insight-Week-22-5-24-2024-Mays_Out_Rains_Out.pdf\n\n[Page 1]\n+*I\n, l'\n-+Ali / +N\nMay 31st, 2024\n1\n\"Instead of looking at the past, I put myself ahead 20 years and try to look at\nWeek 22 what I need to do now in order to get there then.\"\nVolume 261, Issue 1136 - Diana Ross\nHighlig hts: - MARKET COMMENTARY -\nMAY'S OUT, RAINS OUT! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "container",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4842,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

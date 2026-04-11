@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 23/01/2023\nImage reference: 2023-01-23_gms-week-3-seeking-supply_img1.jpg\nA degree of increased positivity has entered recycling markets this week, as prices push on in both India (off the back of firming steel and settling currencies) and Bangladesh (off of a rising demand and a currency that has recently found its stability around BDT 105). In fact, a number of sales have reportedly even taken place at increasingly firm numbers, giving Ship Owners a greater sense of confidence to offer their recycling candidates up for sale, especially after an altogether bleak 2 quarters. Financing problems persist in both Bangladesh and Pakistan, but End Buyers in both locations are endeavoring to find alternate solutions (rarely successful at this stage) to open L/Cs (including private financing not going through government banks, foreign currency L/Cs and even usance L/Cs), now that markets seem to be stabilizing and even firming up again.",
   "keywords": [
+    "capesize",
     "container",
     "china",
+    "brazil",
+    "europe",
     "india",
+    "singapore",
+    "japan",
+    "grain",
+    "crude_oil",
     "steel",
-    "even",
-    "recycling",
-    "after",
-    "both",
-    "candidates",
-    "currency",
-    "l/cs",
-    "markets"
+    "january"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 470,
+  "token_count": 5021,
   "source_path": "reports/hellenic/demolition/2023/2023-01-23_gms-week-3-seeking-supply.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-3-seeking-supply",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 468,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-01-23_2023_01_23_gms_week_3_seeking_supply__s02_linked_asset_2023_01_23_ship_recycling_market_insight_week_03_2023_seeking_supply_pdf",
+      "doc_id": "hellenic_demolition_2023-01-23_2023_01_23_gms_week_3_seeking_supply",
+      "parent_id": "hellenic_demolition_2023-01-23_2023_01_23_gms_week_3_seeking_supply__root",
+      "title": "Linked asset: 2023-01-23_Ship-recycling-market-insight-week-03-2023-Seeking-Supply.pdf",
+      "section_path": [
+        "Linked asset: 2023-01-23_Ship-recycling-market-insight-week-03-2023-Seeking-Supply.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-01-23_Ship-recycling-market-insight-week-03-2023-Seeking-Supply.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-01-23_Ship-recycling-market-insight-week-03-2023-Seeking-Supply.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nJanuary 2 0th, 2023\n\"Believe you can and you're halfway there.\"\nVolume 246, Issue 1066\n- Theodore Roosevelt\nWeek 3\nHighlights: MARKET COMMENTARY\nSEEKING SUPPLY! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4520,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

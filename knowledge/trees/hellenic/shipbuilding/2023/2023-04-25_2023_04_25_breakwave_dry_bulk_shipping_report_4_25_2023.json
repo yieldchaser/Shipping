@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 4.25.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 25/04/2023\nVolatility declines as a wait-and-see approach takes center stage - The dry bulk market rarely stands still\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 25/04/2023\nVolatility declines as a wait-and-see approach takes center stage - The dry bulk market rarely stands still\nSource: Breakwave Advisors\n\nLinked asset: 2023-04-25_BreakwaveApril252023Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-04-25_BreakwaveApril252023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nApril 25, 2023\nBreakwave Dry Futures Index: 1,826 Baltic Dry Index (spot): 1,517 Short-term Indicators:\n↑ 30D: 2.2% ↑ 30D: 1.9% Momentum: Negative\n↑ YTD: 76.9% ↑ YTD: 0.1% Sentiment: Neutral\n↓ YOY: -38.2% ↓ YOY: -34.2% Fundamentals: Positive\nBi-Weekly Report\n• Volatility declines as a wait-and-see approach takes center stage - The dry bulk market rarely stands still, as by\nnature it is flooded with volatility, twists and turns, and a highly unpredictable spot market. Yet, the last several\nweeks have been unusually calm as spot rates have traded in a rather tight range. Both basins demonstrate signs\nof balance, and although demand for transportation has been gradually increasing with higher indicated iron ore\nexports from both Brazil and Australia, there have been sufficient ships open to absorb such volumes without any\nmeangi",
   "keywords": [
-    "approach",
-    "center",
-    "declines",
-    "main",
-    "rarely",
-    "shipbuilding",
-    "source",
-    "stage",
-    "stands",
-    "still",
-    "takes",
-    "volatility"
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 42,
+  "token_count": 1441,
   "source_path": "reports/hellenic/shipbuilding/2023/2023-04-25_breakwave-dry-bulk-shipping-report-4-25-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-4-25-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 40,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-04-25_2023_04_25_breakwave_dry_bulk_shipping_report_4_25_2023__s02_linked_asset_2023_04_25_breakwaveapril252023report_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-04-25_2023_04_25_breakwave_dry_bulk_shipping_report_4_25_2023",
+      "parent_id": "hellenic_shipbuilding_2023-04-25_2023_04_25_breakwave_dry_bulk_shipping_report_4_25_2023__root",
+      "title": "Linked asset: 2023-04-25_BreakwaveApril252023Report.pdf",
+      "section_path": [
+        "Linked asset: 2023-04-25_BreakwaveApril252023Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-04-25_BreakwaveApril252023Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-04-25_BreakwaveApril252023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nApril 25, 2023\nBreakwave Dry Futures Index: 1,826 Baltic Dry Index (spot): 1,517 Short-term Indicators:\n↑ 30D: 2.2% ↑ 30D: 1.9% Momentum: Negative\n↑ YTD: 76.9% ↑ YTD: 0.1% Sentiment: Neutral\n↓ YOY: -38.2% ↓ YOY: -34.2% Fundamentals: Positive\nBi-Weekly Report\n• Volatility declines as a wait-and-see approach takes center stage - The dry bulk market rarely stands still, as by\nnature it is flooded with volatility, twists and turns, and a highly unpredictable spot market. Yet, the last several\nweeks have been unusually calm as spot rates have traded in a rather tight range.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1379,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

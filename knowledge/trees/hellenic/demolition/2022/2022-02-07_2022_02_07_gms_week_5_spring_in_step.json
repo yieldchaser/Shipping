@@ -13,20 +13,20 @@
   "keywords": [
     "vlcc",
     "aframax",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "once",
-    "again",
-    "another",
-    "are",
-    "cash",
-    "even"
+    "gas",
+    "february",
+    "ldt"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 440,
+  "token_count": 4249,
   "source_path": "reports/hellenic/demolition/2022/2022-02-07_gms-week-5-spring-in-step.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-5-spring-in-step",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 438,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-02-07_2022_02_07_gms_week_5_spring_in_step__s02_linked_asset_2022_02_07_2022_02_07dpn_org_pdf",
+      "doc_id": "hellenic_demolition_2022-02-07_2022_02_07_gms_week_5_spring_in_step",
+      "parent_id": "hellenic_demolition_2022-02-07_2022_02_07_gms_week_5_spring_in_step__root",
+      "title": "Linked asset: 2022-02-07_2022-02-07Dpn_org.pdf",
+      "section_path": [
+        "Linked asset: 2022-02-07_2022-02-07Dpn_org.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-02-07_2022-02-07Dpn_org.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-02-07_2022-02-07Dpn_org.pdf\n\n[Page 1]\n,l'\n-+Ali / +N\nFebruary 4th, 2022\n\"Setting goals is the first step in turning the invisible into the visible.\"\nVolume 234, Issue 1017\nWeek 5 - Tony Robbins\nHighlights: MARKET COMMENTARY\nSPRING IN STEP! \"There are only two options regarding commitment.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3787,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

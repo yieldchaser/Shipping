@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 05/05/2023\nDCE iron ore futures declined by 0.99% today, the main contract closed at 697.5. The traders'willingness to ship is general.The steel mills are not acƟve to purchase.The overall trading senƟment of the market is less.PBF at Shandong port deal 772-777 yuan/mt,decrease 12-23yuan/mt. PBF at Tangshan port deal 788-800 yuan/mt,decrease 10 yuan/mt.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
     "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "products",
     "steel",
+    "fines",
     "iron",
-    "ore",
-    "deal",
-    "decrease",
-    "main",
-    "port",
-    "today"
+    "ore"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 249,
+  "token_count": 9322,
   "source_path": "reports/hellenic/iron_ore/2023/2023-05-05_mmi-daily-iron-ore-index-report-may-05-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-05-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 247,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2023-05-05_2023_05_05_mmi_daily_iron_ore_index_report_may_05_2023__s02_linked_asset_2023_05_05_mmi_daily_iron_ore_report_for_5th_may_2023_compressed_pdf",
+      "doc_id": "hellenic_iron_ore_2023-05-05_2023_05_05_mmi_daily_iron_ore_index_report_may_05_2023",
+      "parent_id": "hellenic_iron_ore_2023-05-05_2023_05_05_mmi_daily_iron_ore_index_report_may_05_2023__root",
+      "title": "Linked asset: 2023-05-05_MMi-Daily-Iron-Ore-Report-for-5th-May-2023_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2023-05-05_MMi-Daily-Iron-Ore-Report-for-5th-May-2023_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-05-05_MMi-Daily-Iron-Ore-Report-for-5th-May-2023_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2023-05-05_MMi-Daily-Iron-Ore-Report-for-5th-May-2023_compressed.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report May 5th, 2023\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n811 923 708\n-11 -1.34% -11.00 -1.18% -1 -0.14%\nMay 5th, 2023 May 5th, 2023 May 5th, 2023\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n111.60 132.15 945\nz\n0.00 0.00% 0.00 0.00% -30 -3.08%\nMay 5th, 2023 May 5th, 2023 Week Ending May 5th, 2023\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2309 (Jan) RMB/t (3pm close) June 23 USD/dmt RB2310 (Jan) RMB/t\n697.50 99.00 3622\n8.00 1.16% -0.05 -0.05% 7 0.19%\nMay 5th, 2023 (3pm close) May 5th, 2023 (5.30 pm Print) May 5th, 2023 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n22.34 8.72 3830\n-0.17 ",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9041,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

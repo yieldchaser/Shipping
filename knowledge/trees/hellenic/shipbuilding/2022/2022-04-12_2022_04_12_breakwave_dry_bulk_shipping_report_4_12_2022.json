@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 4.12.2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 12/04/2022\nFutures slump as spot freight rates refuse to rally - The recent divergence between the Capesize spot and futures markets has finally come to\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 12/04/2022\nFutures slump as spot freight rates refuse to rally - The recent divergence between the Capesize spot and futures markets has finally come to\nSource: Breakwave Advisors\n\nLinked asset: 2022-04-12_BreakwaveApril122022Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-04-12_BreakwaveApril122022Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nApril 12, 2022\nBreakwave Dry Futures Index: 2,735 Baltic Dry Index (spot): 2,031 Short-term Indicators:\n↓ 30D: -8.2% ↓ 30D: -25.3% Momentum: Negative\n↑ YTD: 31.4% ↓ YTD: -8.4% Sentiment: Positive\n↑ YOY: 25.0% ↓ YOY: -2.6% Fundamentals: Neutral\nBi-Weekly Report\n• Futures slump as spot freight rates refuse to rally - The recent divergence between the Capesize spot and futures\nmarkets has finally come to a shift conclusion, with the near-dated futures curve crumbling down to the mid-teens\nwhere spot resides, as market expectations for an imminent rally failed to materialize. Bullish traders have been in\na constant battle between an optimistic dry bulk futures market versus a stubbornly weak Capesize spot market and\nany attempt to climb up the steep contango ladder feels like a slippery slope on ",
   "keywords": [
     "capesize",
-    "between",
-    "come",
-    "divergence",
-    "finally",
-    "main",
-    "markets",
-    "rally",
-    "recent",
-    "refuse",
-    "shipbuilding",
-    "slump"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "iron",
+    "any"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 48,
+  "token_count": 1446,
   "source_path": "reports/hellenic/shipbuilding/2022/2022-04-12_breakwave-dry-bulk-shipping-report-4-12-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-4-12-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 46,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-04-12_2022_04_12_breakwave_dry_bulk_shipping_report_4_12_2022__s02_linked_asset_2022_04_12_breakwaveapril122022report_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-04-12_2022_04_12_breakwave_dry_bulk_shipping_report_4_12_2022",
+      "parent_id": "hellenic_shipbuilding_2022-04-12_2022_04_12_breakwave_dry_bulk_shipping_report_4_12_2022__root",
+      "title": "Linked asset: 2022-04-12_BreakwaveApril122022Report.pdf",
+      "section_path": [
+        "Linked asset: 2022-04-12_BreakwaveApril122022Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-04-12_BreakwaveApril122022Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-04-12_BreakwaveApril122022Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nApril 12, 2022\nBreakwave Dry Futures Index: 2,735 Baltic Dry Index (spot): 2,031 Short-term Indicators:\n↓ 30D: -8.2% ↓ 30D: -25.3% Momentum: Negative\n↑ YTD: 31.4% ↓ YTD: -8.4% Sentiment: Positive\n↑ YOY: 25.0% ↓ YOY: -2.6% Fundamentals: Neutral\nBi-Weekly Report\n• Futures slump as spot freight rates refuse to rally - The recent divergence between the Capesize spot and futures\nmarkets has finally come to a shift conclusion, with the near-dated futures curve crumbling down to the mid-teens\nwhere spot resides, as market expectations for an imminent rally failed to materialize. Bullish traders have been in\na constant battle between an optimistic dry bulk futures market versus a stubbornly weak Capesize spot market and\nany attempt to climb up the steep contango ladder feels like a slippery slope on the back of stagnant iron ore trade\nactivity.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1378,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

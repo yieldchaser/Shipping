@@ -17,16 +17,16 @@
     "handysize",
     "lng",
     "container",
+    "china",
     "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "gas",
-    "destinations"
+    "singapore",
+    "japan",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 618,
+  "token_count": 6042,
   "source_path": "reports/hellenic/demolition/2026/2026-02-09_gms-week-06-search-of-life.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-06-search-of-life",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 616,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-02-09_2026_02_09_gms_week_06_search_of_life__s02_linked_asset_2026_02_09_ship_recycling_market_insight_week_06_02_06_2026_search_of_life_pdf",
+      "doc_id": "hellenic_demolition_2026-02-09_2026_02_09_gms_week_06_search_of_life",
+      "parent_id": "hellenic_demolition_2026-02-09_2026_02_09_gms_week_06_search_of_life__root",
+      "title": "Linked asset: 2026-02-09_Ship-recycling-market-insight-Week-06-02-06-2026-Search_of_Life.pdf",
+      "section_path": [
+        "Linked asset: 2026-02-09_Ship-recycling-market-insight-Week-06-02-06-2026-Search_of_Life.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-02-09_Ship-recycling-market-insight-Week-06-02-06-2026-Search_of_Life.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-02-09_Ship-recycling-market-insight-Week-06-02-06-2026-Search_of_Life.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nFebruary 6th, 2026\n1\n\"If you're brave enough to say goodbye,\nWeek 6 life will reward you with a new hello.\"\nVolume 2 81, Issue 1222\n- Paulo Coehlo\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options regarding commitment. You're either in or\nyou're out.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "container",
+        "china",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5388,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

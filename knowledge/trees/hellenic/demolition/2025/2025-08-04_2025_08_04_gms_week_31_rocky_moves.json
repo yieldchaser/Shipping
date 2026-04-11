@@ -15,18 +15,18 @@
     "panamax",
     "supramax",
     "lng",
+    "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "gas",
-    "recycling",
-    "ship",
-    "are",
-    "even"
+    "products"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 788,
+  "token_count": 7615,
   "source_path": "reports/hellenic/demolition/2025/2025-08-04_gms-week-31-rocky-moves.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-31-rocky-moves",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 786,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-08-04_2025_08_04_gms_week_31_rocky_moves__s02_linked_asset_2025_08_04_ship_recycling_market_insight_week_31_08_01_2025_rocky_moves_1754288317_pdf",
+      "doc_id": "hellenic_demolition_2025-08-04_2025_08_04_gms_week_31_rocky_moves",
+      "parent_id": "hellenic_demolition_2025-08-04_2025_08_04_gms_week_31_rocky_moves__root",
+      "title": "Linked asset: 2025-08-04_Ship-recycling-market-insight-Week-31-08-01-2025-Rocky_Moves-1754288317.pdf",
+      "section_path": [
+        "Linked asset: 2025-08-04_Ship-recycling-market-insight-Week-31-08-01-2025-Rocky_Moves-1754288317.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-08-04_Ship-recycling-market-insight-Week-31-08-01-2025-Rocky_Moves-1754288317.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-08-04_Ship-recycling-market-insight-Week-31-08-01-2025-Rocky_Moves-1754288317.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nAugust 1st, 2025\n1\n\"You can't be that kid standing at the top of the waterslide, overthinking it. Week 31 You have to go down the chute.\"\nVolume 275, Issue 1196\n- Tina Fey\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6786,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

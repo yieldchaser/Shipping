@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 18 February 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 19/02/2022\nShip recycling market is experiencing a comparatively better inflow of tonnage than previous week due to a slight drop in sea freight\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 19/02/2022\nShip recycling market is experiencing a comparatively better inflow of tonnage than previous week due to a slight drop in sea freight\nSource: Best Oasis Limited\n\nLinked asset: 2022-02-19_Weekly-Ship-Recycling-Report_18_Feb.pdf\nSource asset: reports/hellenic/demolition/pdfs/2022-02-19_Weekly-Ship-Recycling-Report_18_Feb.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nS HIP\nRECYCLING\nR EPORT\n11th February to 18th February 2022\nHighlights of the Week\nShip recycling market is experiencing a comparatively better inflow of\njhhnhu\ntonnage than previous week due to a slight drop in sea freight rates,\nparticularly in the capesize segment and the firm rates being offered by\nthe recyclers, making the ship owners pay attention. Bangladesh is leading\nthe price chart with consistent demand from their domestic market for\nfinished steel closely followed by India whereas Pakistan is witnessing a\nslightly flatter demand curve due to weak demand from the local market. There seems to be no immediate solution to high oil prices as the demand\nhas roared back to pre-pandemic levels whereas the investment in oil and\ngas are not back to where they were before the COVID-19 crisis",
   "keywords": [
-    "best",
-    "better",
-    "comparatively",
-    "demolition",
-    "drop",
-    "due",
-    "experiencing",
-    "inflow",
-    "limited",
-    "main",
-    "oasis",
-    "previous"
+    "capesize",
+    "lpg",
+    "container",
+    "china",
+    "meg",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "coal",
+    "crude_oil",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 46,
+  "token_count": 1947,
   "source_path": "reports/hellenic/demolition/2022/2022-02-19_best-oasis-weekly-recycling-market-report-18-february-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-18-february-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 44,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-02-19_2022_02_19_best_oasis_weekly_recycling_market_report_18_february_2022__s02_linked_asset_2022_02_19_weekly_ship_recycling_report_18_feb_pdf",
+      "doc_id": "hellenic_demolition_2022-02-19_2022_02_19_best_oasis_weekly_recycling_market_report_18_february_2022",
+      "parent_id": "hellenic_demolition_2022-02-19_2022_02_19_best_oasis_weekly_recycling_market_report_18_february_2022__root",
+      "title": "Linked asset: 2022-02-19_Weekly-Ship-Recycling-Report_18_Feb.pdf",
+      "section_path": [
+        "Linked asset: 2022-02-19_Weekly-Ship-Recycling-Report_18_Feb.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-02-19_Weekly-Ship-Recycling-Report_18_Feb.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-02-19_Weekly-Ship-Recycling-Report_18_Feb.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nS HIP\nRECYCLING\nR EPORT\n11th February to 18th February 2022\nHighlights of the Week\nShip recycling market is experiencing a comparatively better inflow of\njhhnhu\ntonnage than previous week due to a slight drop in sea freight rates,\nparticularly in the capesize segment and the firm rates being offered by\nthe recyclers, making the ship owners pay attention. Bangladesh is leading\nthe price chart with consistent demand from their domestic market for\nfinished steel closely followed by India whereas Pakistan is witnessing a\nslightly flatter demand curve due to weak demand from the local market.",
+      "keywords": [
+        "capesize",
+        "lpg",
+        "container",
+        "china",
+        "meg",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1875,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

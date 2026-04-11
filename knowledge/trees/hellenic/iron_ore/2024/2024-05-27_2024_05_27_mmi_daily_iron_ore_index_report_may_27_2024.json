@@ -14,19 +14,19 @@
     "china",
     "brazil",
     "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
+    "fines",
     "iron",
     "ore",
-    "decreased",
-    "port",
-    "yuan/mt",
-    "month",
-    "month."
+    "may"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 411,
+  "token_count": 11096,
   "source_path": "reports/hellenic/iron_ore/2024/2024-05-27_mmi-daily-iron-ore-index-report-may-27-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-27-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 409,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2024-05-27_2024_05_27_mmi_daily_iron_ore_index_report_may_27_2024__s02_linked_asset_2024_05_27_mmi_daily_iron_ore_report_for_27th_may_2024_pdf",
+      "doc_id": "hellenic_iron_ore_2024-05-27_2024_05_27_mmi_daily_iron_ore_index_report_may_27_2024",
+      "parent_id": "hellenic_iron_ore_2024-05-27_2024_05_27_mmi_daily_iron_ore_index_report_may_27_2024__root",
+      "title": "Linked asset: 2024-05-27_MMi-Daily-Iron-Ore-Report-for-27th-May-2024.pdf",
+      "section_path": [
+        "Linked asset: 2024-05-27_MMi-Daily-Iron-Ore-Report-for-27th-May-2024.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-05-27_MMi-Daily-Iron-Ore-Report-for-27th-May-2024.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2024-05-27_MMi-Daily-Iron-Ore-Report-for-27th-May-2024.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report May 27th, 2024\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n899 1011 764\n-2 -0.27% -2.18 -0.22% -4 -0.47%\nMay 27th, 2024 May 27th, 2024 May 27th, 2024\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n119.47 136.43 1045\n-0.63 -0.52% -0.21 -0.15% 20 1.95%\nMay 27th, 2024 May 27th, 2024 Week Ending May 24th, 2024\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2409 (sep) RMB/t (3pm close) June 24 USD/dmt RB2410 (oct) RMB/t\n899.00 119.50 3763\n-9.00 -0.99% -1.10 -0.91% -25 -0.66%\nMay 27th, 2024 (3pm close) May 27th, 2024 (5.30 pm Print) May 27th, 2024 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n24.77 10.10 3730",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10655,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

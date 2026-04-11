@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "panamax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "steel",
-    "just",
-    "last",
-    "prices",
-    "recycling",
-    "tonnage",
-    "all"
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 726,
+  "token_count": 7532,
   "source_path": "reports/hellenic/demolition/2025/2025-10-20_gms-week-42-certainly-uncertain.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-42-certainly-uncertain",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 724,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-10-20_2025_10_20_gms_week_42_certainly_uncertain__s02_linked_asset_2025_10_20_ship_recycling_market_insight_week_42_10_17_2025_certainly_uncertain_pdf",
+      "doc_id": "hellenic_demolition_2025-10-20_2025_10_20_gms_week_42_certainly_uncertain",
+      "parent_id": "hellenic_demolition_2025-10-20_2025_10_20_gms_week_42_certainly_uncertain__root",
+      "title": "Linked asset: 2025-10-20_Ship-recycling-market-insight-Week-42-10-17-2025-Certainly_Uncertain.pdf",
+      "section_path": [
+        "Linked asset: 2025-10-20_Ship-recycling-market-insight-Week-42-10-17-2025-Certainly_Uncertain.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-10-20_Ship-recycling-market-insight-Week-42-10-17-2025-Certainly_Uncertain.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-10-20_Ship-recycling-market-insight-Week-42-10-17-2025-Certainly_Uncertain.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nOctober 17th, 2025\n1\n\"People often say that motivation doesn't last. Week 42 Well, neither does bathing-that's why we recommend it daily.\"\nVolume 277, Issue 1207\n- Zig Ziglar\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6769,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

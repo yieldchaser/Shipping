@@ -14,19 +14,19 @@
     "capesize",
     "container",
     "china",
+    "brazil",
     "europe",
     "india",
-    "recycling",
-    "ship",
-    "ago",
-    "all",
-    "bangladesh",
-    "continue",
-    "market."
+    "singapore",
+    "japan",
+    "crude_oil",
+    "steel",
+    "ldt",
+    "recycling"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 625,
+  "token_count": 5683,
   "source_path": "reports/hellenic/demolition/2024/2024-02-26_gms-week-08-over-heating.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-08-over-heating",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 623,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-02-26_2024_02_26_gms_week_08_over_heating__s02_linked_asset_2024_02_26_ship_recycling_market_insight_week_08_2024_over_heating_pdf",
+      "doc_id": "hellenic_demolition_2024-02-26_2024_02_26_gms_week_08_over_heating",
+      "parent_id": "hellenic_demolition_2024-02-26_2024_02_26_gms_week_08_over_heating__root",
+      "title": "Linked asset: 2024-02-26_Ship-recycling-market-insight-week-08-2024-Over_Heating.pdf",
+      "section_path": [
+        "Linked asset: 2024-02-26_Ship-recycling-market-insight-week-08-2024-Over_Heating.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-02-26_Ship-recycling-market-insight-week-08-2024-Over_Heating.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-02-26_Ship-recycling-market-insight-week-08-2024-Over_Heating.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nFebruary 23rd, 2024\n\"Before you can make a dream come true, you must first have one.\"\nVolume 258, Issue 1123\nWeek 8 - Ronald McNair\n`\nHighlights: MARKET COMMENTARY\nOVER HEATING…? \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5027,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

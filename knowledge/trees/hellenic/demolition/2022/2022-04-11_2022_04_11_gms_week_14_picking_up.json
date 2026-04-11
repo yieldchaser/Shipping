@@ -14,19 +14,19 @@
     "capesize",
     "vlcc",
     "aframax",
+    "lpg",
+    "container",
+    "china",
     "europe",
     "india",
-    "steel",
-    "are",
-    "bangladeshi",
-    "levels",
-    "much",
-    "after",
-    "even"
+    "singapore",
+    "japan",
+    "crude_oil",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 543,
+  "token_count": 4826,
   "source_path": "reports/hellenic/demolition/2022/2022-04-11_gms-week-14-picking-up.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-14-picking-up",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 541,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-04-11_2022_04_11_gms_week_14_picking_up__s02_linked_asset_2022_04_11_2022_04_11wod_org_pdf",
+      "doc_id": "hellenic_demolition_2022-04-11_2022_04_11_gms_week_14_picking_up",
+      "parent_id": "hellenic_demolition_2022-04-11_2022_04_11_gms_week_14_picking_up__root",
+      "title": "Linked asset: 2022-04-11_2022-04-11wOd_org.pdf",
+      "section_path": [
+        "Linked asset: 2022-04-11_2022-04-11wOd_org.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-04-11_2022-04-11wOd_org.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-04-11_2022-04-11wOd_org.pdf\n\n[Page 1]\n,l'\n-+Ali / +N\nApril 8th, 2022\n\"Either you run the day or the day runs you.\"\nVolume 237, Issue 1026\n- Jim Rohn\nWeek 14\nHighlights: MARKET COMMENTARY\nPICKING UP! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4260,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

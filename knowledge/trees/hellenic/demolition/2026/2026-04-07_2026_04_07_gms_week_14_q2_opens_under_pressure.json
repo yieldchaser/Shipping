@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 07/04/2026\nImage reference: 2026-04-07_gms-week-14-q2-opens-under-pressure_img1.jpg\nWeek 14 opens the second quarter of 2026 under the same structural pressures that defined Q1, and then some.The Iran war continues to dominate the macro agenda, with Brent crude holding above USD 109/barrel for a seventh consecutive week and the Strait of Hormuz remaining effectively constrained. Geopolitical risk has overtaken supply-demand fundamentals as the primary price driver in energy markets, and ship recycling is feeling the impact from both sides, as higher oil keeps aging vessels trading while a volatile USD makes confident bidding difficult to sustain. India delivered the week's most notable currency development, as the rupee rebounded sharply from its record low of 94.42 to 92.73 following intervention measures by the Reserve Bank of India, including curbs on forward transactions, limits on banks' FX positions, and restrictions on corporate rebooking of cancelled contracts.",
   "keywords": [
+    "vlcc",
+    "lpg",
+    "container",
+    "china",
+    "brazil",
+    "pacific",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "steel",
-    "continue",
-    "remains",
-    "tonnage",
-    "bangladesh",
-    "bidding",
-    "continues",
-    "oil",
-    "recycling"
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 658,
+  "token_count": 6112,
   "source_path": "reports/hellenic/demolition/2026/2026-04-07_gms-week-14-q2-opens-under-pressure.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-14-q2-opens-under-pressure",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 656,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-04-07_2026_04_07_gms_week_14_q2_opens_under_pressure__s02_linked_asset_2026_04_07_ship_recycling_market_insight_week_14_04_03_2026_q2_opens_under_pressure_pdf",
+      "doc_id": "hellenic_demolition_2026-04-07_2026_04_07_gms_week_14_q2_opens_under_pressure",
+      "parent_id": "hellenic_demolition_2026-04-07_2026_04_07_gms_week_14_q2_opens_under_pressure__root",
+      "title": "Linked asset: 2026-04-07_Ship-recycling-market-insight-Week-14-04-03-2026-Q2-Opens-Under-Pressure.pdf",
+      "section_path": [
+        "Linked asset: 2026-04-07_Ship-recycling-market-insight-Week-14-04-03-2026-Q2-Opens-Under-Pressure.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-04-07_Ship-recycling-market-insight-Week-14-04-03-2026-Q2-Opens-Under-Pressure.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-04-07_Ship-recycling-market-insight-Week-14-04-03-2026-Q2-Opens-Under-Pressure.pdf\n\n[Page 1]\n1. ` *I\n, l'\n-+Ali / +N\nApril 03r d, 2026\n1\n\\\n\"Patience is not simply the ability to wait, but how we behave while waiting.\"\nWeek 14\nVolume 2 82, Issue 1229 -Joyce Meyer\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "vlcc",
+        "lpg",
+        "container",
+        "china",
+        "brazil",
+        "pacific",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5415,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

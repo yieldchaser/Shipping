@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 05/02/2024\nImage reference: 2024-02-05_gms-week-05-fractured_img1.jpg\nDespite both Bangladeshi and Pakistani markets making noticeable improvements over recent weeks,unfortunately, the ongoing shortage in the global availability of ‘market' tonnage has ensured sales remain noticeably extricated, which has in turn restricted the industry's ability at assessing where levels really stand today. As evident from the number of arrivals & beachings this week (see Indian sub-continent port reports on Page 8), an increasing number of Ship Recyclers have clearly managed to and are reportedly still in the process of obtaining further approvals on L/Cs from their respective banks. As a result, there is now a noticeable disparity in offers emanating from recyclers from the same sub-continent destination, so fractured is the sub-continent ship recycling purview on the immediate future of fundamentals & vessel pricing across the board.",
   "keywords": [
+    "panamax",
+    "lpg",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "grain",
+    "crude_oil",
     "steel",
-    "number",
-    "are",
-    "recycling",
-    "ship",
-    "sub-continent",
-    "improvements",
-    "ongoing",
-    "recyclers"
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 607,
+  "token_count": 5614,
   "source_path": "reports/hellenic/demolition/2024/2024-02-05_gms-week-05-fractured.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-05-fractured",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 605,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-02-05_2024_02_05_gms_week_05_fractured__s02_linked_asset_2024_02_05_ship_recycling_market_insight_week_05_2024_fractured_pdf",
+      "doc_id": "hellenic_demolition_2024-02-05_2024_02_05_gms_week_05_fractured",
+      "parent_id": "hellenic_demolition_2024-02-05_2024_02_05_gms_week_05_fractured__root",
+      "title": "Linked asset: 2024-02-05_Ship-recycling-market-insight-week-05-2024-Fractured.pdf",
+      "section_path": [
+        "Linked asset: 2024-02-05_Ship-recycling-market-insight-week-05-2024-Fractured.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-02-05_Ship-recycling-market-insight-week-05-2024-Fractured.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-02-05_Ship-recycling-market-insight-week-05-2024-Fractured.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nFebruary 2nd, 2024 \"You are in danger of living a life so comfortable and soft that you will\nVolume 258, Issue 1120 die without ever realizing your true potential.\"\nWeek 5\n- David Goggins (Google him)\nHighlights: MARKET COMMENTARY\n\"There are only t\nF\nw\nR\no o\nA\npt\nC\nio\nT\nns\nU\nre\nR\nga\nE\nrd\nD\nin\n! You're either in or\nyou're out.",
+      "keywords": [
+        "panamax",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4977,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

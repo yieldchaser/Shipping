@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 21/02/2022\nImage reference: 2022-02-21_gms-week-6-promising_img1.jpg\nAnother promising week passed in the sub-continent markets this week, with resurgent Pakistani and Bangladeshi (in particular) markets putting down some show stopping numbers on available units. We have seen several Capes sold for HKC recycling in the mid USD 600s/LDT in recent weeks, especially as chartering rates in this sector have taken a bit of a dip. Tankers keep being introduced into the recycling markets and several deals have reportedly been concluded at levels in excess of USD 650/LT LDT in Bangladesh, as the Chattogram market heats up to some increasingly unprecedented levels.",
   "keywords": [
     "capesize",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
-    "are",
-    "markets",
-    "recycling",
-    "all",
-    "being",
-    "chinese",
-    "even"
+    "february",
+    "ldt",
+    "are"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 391,
+  "token_count": 4520,
   "source_path": "reports/hellenic/demolition/2022/2022-02-21_gms-week-6-promising.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-6-promising",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 389,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-02-21_2022_02_21_gms_week_6_promising__s02_linked_asset_2022_02_21_2022_02_21bs_org_pdf",
+      "doc_id": "hellenic_demolition_2022-02-21_2022_02_21_gms_week_6_promising",
+      "parent_id": "hellenic_demolition_2022-02-21_2022_02_21_gms_week_6_promising__root",
+      "title": "Linked asset: 2022-02-21_2022-02-21BS_org.pdf",
+      "section_path": [
+        "Linked asset: 2022-02-21_2022-02-21BS_org.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-02-21_2022-02-21BS_org.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-02-21_2022-02-21BS_org.pdf\n\n[Page 1]\n,l'\n-+Ali / +N\nFebruary 18th, 2022 \"The successful man will profit from his mistakes\nVolume 234, Issue 1019 and try again in a different way.\"\nWeek 7 - Dale Carnegie\nHighlights: MARKET COMMENTARY\n\"There are only t\nP\nwo\nR\no\nO\npti\nM\non\nI\ns\nS\nre\nI\ng\nN\nard\nG\nin\n! You're either in or\nyou're out.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4108,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

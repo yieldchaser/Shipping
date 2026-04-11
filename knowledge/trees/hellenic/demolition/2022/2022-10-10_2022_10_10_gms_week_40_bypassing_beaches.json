@@ -15,18 +15,18 @@
     "vlcc",
     "suezmax",
     "aframax",
+    "lpg",
+    "container",
+    "china",
     "europe",
     "india",
-    "steel",
-    "any",
-    "vessels",
-    "few",
-    "markets",
-    "prices"
+    "singapore",
+    "japan",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 462,
+  "token_count": 4755,
   "source_path": "reports/hellenic/demolition/2022/2022-10-10_gms-week-40-bypassing-beaches.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-40-bypassing-beaches",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 460,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-10-10_2022_10_10_gms_week_40_bypassing_beaches__s02_linked_asset_2022_10_10_ship_recycling_market_insight_week_40_2022_bypassing_beaches_pdf",
+      "doc_id": "hellenic_demolition_2022-10-10_2022_10_10_gms_week_40_bypassing_beaches",
+      "parent_id": "hellenic_demolition_2022-10-10_2022_10_10_gms_week_40_bypassing_beaches__root",
+      "title": "Linked asset: 2022-10-10_Ship-recycling-market-insight-week-40-2022-Bypassing-Beaches.pdf",
+      "section_path": [
+        "Linked asset: 2022-10-10_Ship-recycling-market-insight-week-40-2022-Bypassing-Beaches.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-10-10_Ship-recycling-market-insight-week-40-2022-Bypassing-Beaches.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-10-10_Ship-recycling-market-insight-week-40-2022-Bypassing-Beaches.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nOctober 7 th, 2022\nVolume 2 43, Issue 1051\n\"More is lost by indecision than wrong decision.\"\nWeek 40 - Marcus Tullius Cicero\nHighlights: MARKET COMMENTARY\nBYPASSING BEACHES! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lpg",
+        "container",
+        "china",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4261,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

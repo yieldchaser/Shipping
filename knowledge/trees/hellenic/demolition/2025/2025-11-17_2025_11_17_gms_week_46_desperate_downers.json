@@ -14,19 +14,19 @@
     "panamax",
     "handysize",
     "lng",
+    "container",
+    "china",
+    "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
     "steel",
-    "gas",
-    "recycling",
-    "are",
-    "remains",
-    "even",
-    "ship"
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 726,
+  "token_count": 6824,
   "source_path": "reports/hellenic/demolition/2025/2025-11-17_gms-week-46-desperate-downers.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-46-desperate-downers",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 724,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-11-17_2025_11_17_gms_week_46_desperate_downers__s02_linked_asset_2025_11_17_ship_recycling_market_insight_week_46_11_14_2025_desperate_downers_pdf",
+      "doc_id": "hellenic_demolition_2025-11-17_2025_11_17_gms_week_46_desperate_downers",
+      "parent_id": "hellenic_demolition_2025-11-17_2025_11_17_gms_week_46_desperate_downers__root",
+      "title": "Linked asset: 2025-11-17_Ship-recycling-market-insight-Week-46-11-14-2025-Desperate_Downers.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-17_Ship-recycling-market-insight-Week-46-11-14-2025-Desperate_Downers.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-17_Ship-recycling-market-insight-Week-46-11-14-2025-Desperate_Downers.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-11-17_Ship-recycling-market-insight-Week-46-11-14-2025-Desperate_Downers.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nNovemb er 14th, 2025\n1\n\"\"The only one who can tell you ‘you can't win' is you,\nWeek 46 and you don't have to listen.\"\nVolume 2 78, Issue 1211\n- Jessica Ennis\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options regarding commitment. You're either in or\nyou're out.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6062,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

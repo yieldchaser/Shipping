@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
     "steel",
-    "even",
-    "was",
-    "hezbollah",
+    "ldt",
     "recycling",
-    "ship",
-    "week.",
-    "against"
+    "ship"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 810,
+  "token_count": 6352,
   "source_path": "reports/hellenic/demolition/2024/2024-09-30_gms-week-39-ka-boom.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-39-ka-boom",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 808,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-09-30_2024_09_30_gms_week_39_ka_boom__s02_linked_asset_2024_09_30_ship_recycling_market_insight_week_39_9_27_2024_ka_boom_pdf",
+      "doc_id": "hellenic_demolition_2024-09-30_2024_09_30_gms_week_39_ka_boom",
+      "parent_id": "hellenic_demolition_2024-09-30_2024_09_30_gms_week_39_ka_boom__root",
+      "title": "Linked asset: 2024-09-30_Ship-recycling-market-insight-Week-39-9-27-2024-Ka-Boom.pdf",
+      "section_path": [
+        "Linked asset: 2024-09-30_Ship-recycling-market-insight-Week-39-9-27-2024-Ka-Boom.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-09-30_Ship-recycling-market-insight-Week-39-9-27-2024-Ka-Boom.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-09-30_Ship-recycling-market-insight-Week-39-9-27-2024-Ka-Boom.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nSeptember 27th, 2024\n1\n\"A wise man can play the part of a clown,\nWeek 39 but a clown can't play the part of a wise man.\"\nVolume 264, Issue 1153 - Malcolm X\nHighlig hts: -- MARKET COMMENTARY --\n\"There are only two op K tioAns BregOarOdiMng !c ommitment. You're either in or you're\n• Bunker busters.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5507,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

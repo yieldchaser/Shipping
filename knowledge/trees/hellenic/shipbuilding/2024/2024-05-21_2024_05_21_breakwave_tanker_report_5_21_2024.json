@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 5.21.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 21/05/2024\nThe VLCC Market Remains Well Supported as Attention Turns to Summer Demand - As the end of May approaches, the VLCC freight market has remained on a slight upward trajectory\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 21/05/2024\nThe VLCC Market Remains Well Supported as Attention Turns to Summer Demand - As the end of May approaches, the VLCC freight market has remained on a slight upward trajectory\nSource: Breakwave Advisors\n\nLinked asset: 2024-05-21_Breakwave+Tankers+May+21+2024+Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-05-21_Breakwave+Tankers+May+21+2024+Report.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nMay 21, 2024\nBreakwave Tanker Futures Index: 1,318 VLCC Middle East-Asia Spot Rates: $17.90 Short-term Indicators:\n↑ 30D: 4.6% ↑ 30D: 23.6% Momentum: Neutral\n↑ YTD: 8.5% ↑ YTD: 35.2% Sentiment: Positive\n↑ YOY: 27.2% ↑ YOY: 20.0% Fundamentals: Positive\nBi-Weekly Report\n• The VLCC Market Remains Well Supported as Attention Turns to Summer Demand - As the end of May approaches, the\nVLCC freight market has remained on a slight upward trajectory, with the benchmark rates from the Middle East Gulf to\nChina up approximately 15% since the beginning of the month. While freight rates when measured on a time-chartered-\nequivalent basis have shown a significant improvement of ~50% versus last year, it remains to be seen if this recent\nstability will be lo",
   "keywords": [
     "vlcc",
-    "approaches",
-    "attention",
+    "suezmax",
+    "china",
+    "brazil",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
     "demand",
-    "end",
-    "main",
     "may",
-    "remained",
-    "remains",
-    "shipbuilding",
-    "slight",
-    "source"
+    "middle"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 55,
+  "token_count": 1510,
   "source_path": "reports/hellenic/shipbuilding/2024/2024-05-21_breakwave-tanker-report-5-21-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-5-21-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 53,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-05-21_2024_05_21_breakwave_tanker_report_5_21_2024__s02_linked_asset_2024_05_21_breakwave_tankers_may_21_2024_report_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-05-21_2024_05_21_breakwave_tanker_report_5_21_2024",
+      "parent_id": "hellenic_shipbuilding_2024-05-21_2024_05_21_breakwave_tanker_report_5_21_2024__root",
+      "title": "Linked asset: 2024-05-21_Breakwave+Tankers+May+21+2024+Report.pdf",
+      "section_path": [
+        "Linked asset: 2024-05-21_Breakwave+Tankers+May+21+2024+Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-05-21_Breakwave+Tankers+May+21+2024+Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-05-21_Breakwave+Tankers+May+21+2024+Report.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nMay 21, 2024\nBreakwave Tanker Futures Index: 1,318 VLCC Middle East-Asia Spot Rates: $17.90 Short-term Indicators:\n↑ 30D: 4.6% ↑ 30D: 23.6% Momentum: Neutral\n↑ YTD: 8.5% ↑ YTD: 35.2% Sentiment: Positive\n↑ YOY: 27.2% ↑ YOY: 20.0% Fundamentals: Positive\nBi-Weekly Report\n• The VLCC Market Remains Well Supported as Attention Turns to Summer Demand - As the end of May approaches, the\nVLCC freight market has remained on a slight upward trajectory, with the benchmark rates from the Middle East Gulf to\nChina up approximately 15% since the beginning of the month. While freight rates when measured on a time-chartered-\nequivalent basis have shown a significant improvement of ~50% versus last year, it remains to be seen if this recent\nstability will be long-lasting, which in turn will be uncharacteristic of a rather volatile shipping sector.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1427,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

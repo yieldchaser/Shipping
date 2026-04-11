@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 2.17.2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 17/02/2026\nFebruary Curse is Broken as Capesize Rates Surge - The recent surge in dry bulk spot rates has defied the seasonal weakness\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 17/02/2026\nFebruary Curse is Broken as Capesize Rates Surge - The recent surge in dry bulk spot rates has defied the seasonal weakness\nSource: Breakwave Advisors\n\nLinked asset: 2026-02-17_BreakwaveDryFebruary172026Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-02-17_BreakwaveDryFebruary172026Report.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nFebruary 17, 2026\n• February Curse is Broken as Capesize Rates Surge - The recent surge in dry\nShort-term Indicators\nbulk spot rates has defied the seasonal weakness that typically characterizes the\nMomentum: Neutral\nmarket at this time of the year. Robust demand across all segments has propelled\nspot rates to record highs for this period, subsequently driving futures to historic Sentiment: Neutral\nlevels for as long as one can see. While fundamental data provides little immediate Fundamentals: Negative\njustification for this velocity, the market's upward trajectory remains undisputed.",
   "keywords": [
     "capesize",
-    "surge",
-    "broken",
-    "curse",
-    "defied",
-    "february",
-    "main",
-    "recent",
-    "seasonal",
-    "shipbuilding",
-    "source",
-    "weakness"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "iron"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 46,
+  "token_count": 1542,
   "source_path": "reports/hellenic/shipbuilding/2026/2026-02-17_breakwave-dry-bulk-shipping-report-2-17-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-2-17-2026",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 44,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-02-17_2026_02_17_breakwave_dry_bulk_shipping_report_2_17_2026__s02_linked_asset_2026_02_17_breakwavedryfebruary172026report_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-02-17_2026_02_17_breakwave_dry_bulk_shipping_report_2_17_2026",
+      "parent_id": "hellenic_shipbuilding_2026-02-17_2026_02_17_breakwave_dry_bulk_shipping_report_2_17_2026__root",
+      "title": "Linked asset: 2026-02-17_BreakwaveDryFebruary172026Report.pdf",
+      "section_path": [
+        "Linked asset: 2026-02-17_BreakwaveDryFebruary172026Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-02-17_BreakwaveDryFebruary172026Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-17_BreakwaveDryFebruary172026Report.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nFebruary 17, 2026\n• February Curse is Broken as Capesize Rates Surge - The recent surge in dry\nShort-term Indicators\nbulk spot rates has defied the seasonal weakness that typically characterizes the\nMomentum: Neutral\nmarket at this time of the year. Robust demand across all segments has propelled\nspot rates to record highs for this period, subsequently driving futures to historic Sentiment: Neutral\nlevels for as long as one can see.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1475,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

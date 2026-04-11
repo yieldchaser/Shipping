@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 1 July 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 02/07/2022\nThe landscape of ferrous scrap supply and demand is dramatically shifting due to the ongoing geopolitical shocks\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 02/07/2022\nThe landscape of ferrous scrap supply and demand is dramatically shifting due to the ongoing geopolitical shocks\nSource: Best Oasis Limited\n\nLinked asset: 2022-07-02_Weekly-Ship-Recycling-Report_1_July_2022-1.pdf\nSource asset: reports/hellenic/demolition/pdfs/2022-07-02_Weekly-Ship-Recycling-Report_1_July_2022-1.pdf\n\n[Page 1]\nWeekly\nShip Recycling\nReport\n#PartneringWithTheBest\n24 June - 1 July 2022\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the Week\nThe landscape of ferrous scrap supply and demand is dramatically shifting due to the ongoing geopolitical shocks and high inflationary\nenvironment. As a result of increasing interest rates and soaring energy prices, the consumer spending power is steadily declining, and the steel\nmarket is experiencing a strong downward pull in prices due to sluggish demand from end-user industries. Among the major recycling\ndestinations, Bangladesh and Pakistan witnessed a steep drop this week in prices offered by recyclers due to continual decline in international\nscrap prices and",
   "keywords": [
     "capesize",
-    "best",
-    "demand",
-    "demolition",
-    "dramatically",
-    "due",
-    "ferrous",
-    "geopolitical",
-    "landscape",
-    "limited",
-    "main",
-    "oasis"
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "coal",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 40,
+  "token_count": 2404,
   "source_path": "reports/hellenic/demolition/2022/2022-07-02_best-oasis-weekly-recycling-market-report-1-july-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-1-july-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 38,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-07-02_2022_07_02_best_oasis_weekly_recycling_market_report_1_july_2022__s02_linked_asset_2022_07_02_weekly_ship_recycling_report_1_july_2022_1_pdf",
+      "doc_id": "hellenic_demolition_2022-07-02_2022_07_02_best_oasis_weekly_recycling_market_report_1_july_2022",
+      "parent_id": "hellenic_demolition_2022-07-02_2022_07_02_best_oasis_weekly_recycling_market_report_1_july_2022__root",
+      "title": "Linked asset: 2022-07-02_Weekly-Ship-Recycling-Report_1_July_2022-1.pdf",
+      "section_path": [
+        "Linked asset: 2022-07-02_Weekly-Ship-Recycling-Report_1_July_2022-1.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-07-02_Weekly-Ship-Recycling-Report_1_July_2022-1.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-07-02_Weekly-Ship-Recycling-Report_1_July_2022-1.pdf\n\n[Page 1]\nWeekly\nShip Recycling\nReport\n#PartneringWithTheBest\n24 June - 1 July 2022\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the Week\nThe landscape of ferrous scrap supply and demand is dramatically shifting due to the ongoing geopolitical shocks and high inflationary\nenvironment. As a result of increasing interest rates and soaring energy prices, the consumer spending power is steadily declining, and the steel\nmarket is experiencing a strong downward pull in prices due to sluggish demand from end-user industries.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2333,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 29/07/2021\nIron ore physical prices dropped sharply when DCE iron ore futures market vibrated downward. PBF was closed at 1320- 1350yuan/mt in Shandongmarket, with price decline of 15-58yuan/mt. Some EAF steel mills from South China gradually shut down due to power rationing policy, and the resumption time remained unknown.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "products",
     "steel",
-    "iron",
-    "ore",
-    "prices",
-    "grade",
-    "medium",
-    "between",
-    "mainstream",
-    "policy"
+    "cid",
+    "fines",
+    "jul",
+    "high"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 221,
+  "token_count": 23959,
   "source_path": "reports/hellenic/iron_ore/2021/2021-07-29_mmi-daily-iron-ore-index-report-july-29-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-29-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 219,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2021-07-29_2021_07_29_mmi_daily_iron_ore_index_report_july_29_2021__s02_linked_asset_2021_07_29_mmi_daily_iron_ore_report_for_july_29th_2021_compressed_pdf",
+      "doc_id": "hellenic_iron_ore_2021-07-29_2021_07_29_mmi_daily_iron_ore_index_report_july_29_2021",
+      "parent_id": "hellenic_iron_ore_2021-07-29_2021_07_29_mmi_daily_iron_ore_index_report_july_29_2021__root",
+      "title": "Linked asset: 2021-07-29_MMi-Daily-Iron-Ore-Report-for-July-29th-2021_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2021-07-29_MMi-Daily-Iron-Ore-Report-for-July-29th-2021_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-07-29_MMi-Daily-Iron-Ore-Report-for-July-29th-2021_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2021-07-29_MMi-Daily-Iron-Ore-Report-for-July-29th-2021_compressed.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Jul 29th, 2021\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n1465 1685 1089\n19 1.31% 16.00 0.96% -5 -0.46%\nJul 29th, 2021 Jul 29th, 2021 Jul 29th, 2021\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n204.20 242.80 1810",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel",
+        "cid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23705,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

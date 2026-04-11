@@ -9,24 +9,24 @@
   "section_path_text": "MMI Daily Iron Ore Index Report February 23 2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Chinese iron ore and steelmaking prices 23/02/2026\nHOLIDAY\nImage reference: 2026-02-23_mmi-daily-iron-ore-index-report-february-23-2026_img2.jpg\nSource: Metals Market Index (MMI)",
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 23/02/2026\nHOLIDAY\nImage reference: 2026-02-23_mmi-daily-iron-ore-index-report-february-23-2026_img2.jpg\nSource: Metals Market Index (MMI)\n\nLinked asset: 2026-02-23_MMi-Daily-Iron-Ore-Report-for-23th-February-2026.pdf\nSource asset: reports/hellenic/iron_ore/pdfs/2026-02-23_MMi-Daily-Iron-Ore-Report-for-23th-February-2026.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Feb 23rd, 2026\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI61 61% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n758 840 691\nHOLIDAY HOLIDAY HOLIDAY\n-8 -1.04% -8.00 -0.94% -4 -0.58%\nFeb 23rd, 2026 Feb 23rd, 2026 Feb 23rd, 2026\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI61 61% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n97.36 118.32 835\n0.16 0.16% 0.77 0.66% -3 -0.36%\nFeb 23rd, 2026 Feb 23rd, 2026 Week Ending Feb 20th, 2026\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2605 (May) RMB/t (3pm close) December 25 USD/dmt RB260",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
-    "chinese",
-    "holiday",
-    "image",
+    "fines",
+    "feb",
     "iron",
-    "main",
-    "metals",
-    "mmi",
-    "mmi-daily-iron-ore-index-report-february-23-2026_img2.jpg",
     "ore"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 62,
+  "token_count": 8508,
   "source_path": "reports/hellenic/iron_ore/2026/2026-02-23_mmi-daily-iron-ore-index-report-february-23-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-february-23-2026",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 60,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-02-23_2026_02_23_mmi_daily_iron_ore_index_report_february_23_2026__s02_linked_asset_2026_02_23_mmi_daily_iron_ore_report_for_23th_february_2026_pdf",
+      "doc_id": "hellenic_iron_ore_2026-02-23_2026_02_23_mmi_daily_iron_ore_index_report_february_23_2026",
+      "parent_id": "hellenic_iron_ore_2026-02-23_2026_02_23_mmi_daily_iron_ore_index_report_february_23_2026__root",
+      "title": "Linked asset: 2026-02-23_MMi-Daily-Iron-Ore-Report-for-23th-February-2026.pdf",
+      "section_path": [
+        "Linked asset: 2026-02-23_MMi-Daily-Iron-Ore-Report-for-23th-February-2026.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-02-23_MMi-Daily-Iron-Ore-Report-for-23th-February-2026.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-02-23_MMi-Daily-Iron-Ore-Report-for-23th-February-2026.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Feb 23rd, 2026\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI61 61% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n758 840 691\nHOLIDAY HOLIDAY HOLIDAY\n-8 -1.04% -8.00 -0.94% -4 -0.58%\nFeb 23rd, 2026 Feb 23rd, 2026 Feb 23rd, 2026\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI61 61% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n97.36 118.32 835\n0.16 0.16% 0.77 0.66% -3 -0.36%\nFeb 23rd, 2026 Feb 23rd, 2026 Week Ending Feb 20th, 2026\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2605 (May) RMB/t (3pm close) December 25 USD/dmt RB2605 (Jan) RMB/t\n746.00 96.60 3055\nHOLIDAY HOLIDAY HOLIDAY\n-16.00 -2.10% -3.00 -3.01% 5 0.16%\nFeb 23rd, 2026 (3pm close) Feb 23rd, 2026 (5.30 pm Print) Feb 23rd, 2026 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Ste",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8415,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

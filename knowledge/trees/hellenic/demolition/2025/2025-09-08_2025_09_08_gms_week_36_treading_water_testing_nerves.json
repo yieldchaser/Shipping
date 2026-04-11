@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "supramax",
+    "lng",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
     "steel",
-    "recycling",
-    "remains",
-    "ship",
-    "continue",
-    "u.s."
+    "gas"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 766,
+  "token_count": 8685,
   "source_path": "reports/hellenic/demolition/2025/2025-09-08_gms-week-36-treading-water-testing-nerves.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-36-treading-water-testing-nerves",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 764,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-09-08_2025_09_08_gms_week_36_treading_water_testing_nerves__s02_linked_asset_2025_09_08_ship_recycling_market_insight_week_36_09_05_2025_treading_water_testing_nerves_pdf",
+      "doc_id": "hellenic_demolition_2025-09-08_2025_09_08_gms_week_36_treading_water_testing_nerves",
+      "parent_id": "hellenic_demolition_2025-09-08_2025_09_08_gms_week_36_treading_water_testing_nerves__root",
+      "title": "Linked asset: 2025-09-08_Ship-recycling-market-insight-Week-36-09-05-2025-Treading_Water_Testing_Nerves.pdf",
+      "section_path": [
+        "Linked asset: 2025-09-08_Ship-recycling-market-insight-Week-36-09-05-2025-Treading_Water_Testing_Nerves.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-09-08_Ship-recycling-market-insight-Week-36-09-05-2025-Treading_Water_Testing_Nerves.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-09-08_Ship-recycling-market-insight-Week-36-09-05-2025-Treading_Water_Testing_Nerves.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nSeptember 5th, 2025\n1\n\"One man with courage makes a majority.\"\nWeek 36\n- Andrew Jackson\nVolume 276, Issue 1201\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\no\nT\nut\nR\n.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7880,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

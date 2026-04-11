@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 28 January 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 29/01/2022\nThe subcontinent recycling market continues its strong price rally and aggressive appetite as demand outstrips supply amid scarcity of tonnage\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 29/01/2022\nThe subcontinent recycling market continues its strong price rally and aggressive appetite as demand outstrips supply amid scarcity of tonnage\nSource: Best Oasis Limited\n\nLinked asset: 2021-07-31_Weekly-Ship-Recycling-Report-4.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-07-31_Weekly-Ship-Recycling-Report-4.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSH IP\nRECYCLING\nR EPORT\n23rd July to 30th July 2021\nHighlights of the Week\nThe good news in th e recycling market is coming from India this week with\na significant increase in prices being offered by the end buyers. This\njhh nhu\ndevelopment is backed by the sharp economic recovery in the domestic\nmarket and has now brought India almost at par with its subcontinent\ncounterparts. Bangladesh market is going steady despite the strict\nnationwide lockdown which has brought the domestic market activities to a\nhalt whereas the end buyers from Pakistan are a bit apprehensive about the\nROI prospects from the current prevailing high prices.",
   "keywords": [
+    "container",
+    "china",
+    "atlantic",
     "europe",
-    "aggressive",
-    "amid",
-    "appetite",
-    "best",
-    "continues",
-    "demand",
-    "demolition",
-    "its",
-    "limited",
-    "main",
-    "oasis"
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "steel",
+    "august",
+    "prices"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 46,
+  "token_count": 1995,
   "source_path": "reports/hellenic/demolition/2022/2022-01-29_best-oasis-weekly-recycling-market-report-28-january-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-28-january-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 44,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-01-29_2022_01_29_best_oasis_weekly_recycling_market_report_28_january_2022__s02_linked_asset_2021_07_31_weekly_ship_recycling_report_4_pdf",
+      "doc_id": "hellenic_demolition_2022-01-29_2022_01_29_best_oasis_weekly_recycling_market_report_28_january_2022",
+      "parent_id": "hellenic_demolition_2022-01-29_2022_01_29_best_oasis_weekly_recycling_market_report_28_january_2022__root",
+      "title": "Linked asset: 2021-07-31_Weekly-Ship-Recycling-Report-4.pdf",
+      "section_path": [
+        "Linked asset: 2021-07-31_Weekly-Ship-Recycling-Report-4.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-07-31_Weekly-Ship-Recycling-Report-4.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-07-31_Weekly-Ship-Recycling-Report-4.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSH IP\nRECYCLING\nR EPORT\n23rd July to 30th July 2021\nHighlights of the Week\nThe good news in th e recycling market is coming from India this week with\na significant increase in prices being offered by the end buyers. This\njhh nhu\ndevelopment is backed by the sharp economic recovery in the domestic\nmarket and has now brought India almost at par with its subcontinent\ncounterparts.",
+      "keywords": [
+        "container",
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1925,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

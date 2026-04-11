@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "vlcc",
+    "lng",
+    "container",
+    "china",
+    "atlantic",
+    "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "recycling",
-    "ship",
-    "u.s.",
-    "are",
-    "even",
-    "its"
+    "singapore",
+    "japan",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 813,
+  "token_count": 7567,
   "source_path": "reports/hellenic/demolition/2025/2025-03-24_gms-week-12-usdn-uani-lists-ofac-sanctions.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-12-usdn-uani-lists-ofac-sanctions",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 811,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-03-24_2025_03_24_gms_week_12_usdn_uani_lists_ofac_sanctions__s02_linked_asset_2025_03_24_ship_recycling_market_insight_week_12_03_21_2025_usdn_uani_lists_ofac_sanctions_pdf",
+      "doc_id": "hellenic_demolition_2025-03-24_2025_03_24_gms_week_12_usdn_uani_lists_ofac_sanctions",
+      "parent_id": "hellenic_demolition_2025-03-24_2025_03_24_gms_week_12_usdn_uani_lists_ofac_sanctions__root",
+      "title": "Linked asset: 2025-03-24_Ship-recycling-market-insight-Week-12-03-21-2025-USDN_UANI_Lists_OFAC_Sanctions.pdf",
+      "section_path": [
+        "Linked asset: 2025-03-24_Ship-recycling-market-insight-Week-12-03-21-2025-USDN_UANI_Lists_OFAC_Sanctions.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-03-24_Ship-recycling-market-insight-Week-12-03-21-2025-USDN_UANI_Lists_OFAC_Sanctions.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-03-24_Ship-recycling-market-insight-Week-12-03-21-2025-USDN_UANI_Lists_OFAC_Sanctions.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nMarch 21st, 2025\n1\n\"Your attitude determines your altitude.\"\nWeek 12\nVolume 270, Issue 1177 - Unknown\nHighlig hts: -- MARKET COMMENTARY --\nUSDN / UANI LISTS & OFAC SANCTIONS! \"There are only tw o options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "lng",
+        "container",
+        "china",
+        "atlantic",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6711,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

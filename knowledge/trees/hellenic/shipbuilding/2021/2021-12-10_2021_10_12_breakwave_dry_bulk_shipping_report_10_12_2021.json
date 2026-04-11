@@ -9,23 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 10.12.2021",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 12/10/2021\nSpot Capesize rates consolidate as the steep futures backwardation points to a correction - There is a battle going on in the dry bulk market\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 12/10/2021\nSpot Capesize rates consolidate as the steep futures backwardation points to a correction - There is a battle going on in the dry bulk market\nSource: Breakwave Advisors\n\nLinked asset: 2021-10-12_BreakwaveOctober122021Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-10-12_BreakwaveOctober122021Report.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nOctober 12, 2021\nBreakwave Dry Futures Index: 4,460 Baltic Dry Index (spot): 5,488 Short-term Indicators:\n↑ 30D: 19.2% ↑ 30D: 42.0% Momentum: Positive\n↑ YTD: 350.1% ↑ YTD: 301.8% Sentiment: Positive\n↑ YOY: 194.6% ↑ YOY: 190.1% Fundamentals: Negative\nBi-Weekly Report\n• Spot Capesize rates consolidate as the steep futures backwardation points to a correction - There is a battle going\non in the dry bulk market, and the outcome will probably define the direction of rates over the next several months. On one hand, the considerable increase in freight costs is hurting commodity traders and producers although the\nhigh volatility in the underlying commodities makes it extremely difficult to estimate the impact of such increases. On the other hand, commodity demand, especially for co",
   "keywords": [
     "capesize",
-    "backwardation",
-    "battle",
-    "consolidate",
-    "correction",
-    "going",
-    "main",
-    "points",
-    "shipbuilding",
-    "source",
-    "steep"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "demand",
+    "average"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 49,
+  "token_count": 1477,
   "source_path": "reports/hellenic/shipbuilding/2021/2021-10-12_breakwave-dry-bulk-shipping-report-10-12-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-10-12-2021",
   "children": [
@@ -55,6 +56,34 @@
       "page_end": null,
       "token_count": 47,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-12-10_2021_10_12_breakwave_dry_bulk_shipping_report_10_12_2021__s02_linked_asset_2021_10_12_breakwaveoctober122021report_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-12-10_2021_10_12_breakwave_dry_bulk_shipping_report_10_12_2021",
+      "parent_id": "hellenic_shipbuilding_2021-12-10_2021_10_12_breakwave_dry_bulk_shipping_report_10_12_2021__root",
+      "title": "Linked asset: 2021-10-12_BreakwaveOctober122021Report.pdf",
+      "section_path": [
+        "Linked asset: 2021-10-12_BreakwaveOctober122021Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-10-12_BreakwaveOctober122021Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-10-12_BreakwaveOctober122021Report.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nOctober 12, 2021\nBreakwave Dry Futures Index: 4,460 Baltic Dry Index (spot): 5,488 Short-term Indicators:\n↑ 30D: 19.2% ↑ 30D: 42.0% Momentum: Positive\n↑ YTD: 350.1% ↑ YTD: 301.8% Sentiment: Positive\n↑ YOY: 194.6% ↑ YOY: 190.1% Fundamentals: Negative\nBi-Weekly Report\n• Spot Capesize rates consolidate as the steep futures backwardation points to a correction - There is a battle going\non in the dry bulk market, and the outcome will probably define the direction of rates over the next several months. On one hand, the considerable increase in freight costs is hurting commodity traders and producers although the\nhigh volatility in the underlying commodities makes it extremely difficult to estimate the impact of such increases.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1408,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

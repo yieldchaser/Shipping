@@ -3,30 +3,35 @@ category: iron_ore
 commodities:
 - iron_ore
 - steel
+- bauxite
+- crude_oil
 date: '2021-10-22'
 doc_id: hellenic_iron_ore_2021-10-22_2021_10_22_mmi_daily_iron_ore_index_report_october_22_2021
 document_type: commodity_update
 key_entities:
 - China
+- Brazil
+- Australia
+- Vale
 keywords:
 - china
+- brazil
+- australia
 - iron_ore
+- bauxite
+- crude_oil
 - steel
-- iron
-- ore
-- ports
-- main
-- deliveries
-- port
-- daily
-- increase
-- million
+- cid
+- fines
+- oct
+- high
+- change
 market_tone: neutral
 regions:
 - china
 - brazil
 - australia
-section_count: 1
+section_count: 2
 signals: {}
 source: hellenic
 source_path: reports/hellenic/iron_ore/2021/2021-10-22_mmi-daily-iron-ore-index-report-october-22-2021.html
@@ -45,11 +50,11 @@ summary: 'Main
   the previous week and 11.58 million mt on the year.'
 themes:
 - china
+- brazil
+- australia
 - iron_ore
-- steel
-- iron
-- ore
-- ports
+- bauxite
+- crude_oil
 title: MMi Daily Iron Ore Index Report October 22 2021
 vessel_classes:
 - capesize
@@ -66,3 +71,384 @@ in Chinese iron ore and steelmaking prices 22/10/2021
 DCE iron ore futures continued to fluctuate in a day, main contract closed689.5. a decrease of 1.5% throughout the day. The spot quotation inmorning almost kept steady.Most traders tended to be wait-and-see，and the purchasing number is small。PBF at Shandong port dealt 840 yuan/mt, increased 22 yuan/mt over yesterday; PBF at Tangshan port dealt 850 yuan/mt,；The iron ore inventories across 35 ports tracked by SMM totalled 138.77 million mt as of October 22, an increase of 950,000 mt from the previous week and 11.58 million mt on the year. The increase of port inventory slowed as the arrivals of iron ore at ports declined. The daily deliveries from the ports rose 78,000 mt to 2.67 million mt. The steel mills ramped up their restocking of iron ore as the power rationing policy has loosened recently, driving the daily deliveries from main ports to increase. The two main ports in Tangshan have been banned from making deliveries since October 19. The daily deliveries at these main ports fell 86,000 mt MoM to 174,000 mt.The inventory in Tangshan rose sharply. The port inventories of imported iron ore are expected to increase further as north China is likely to be subject to power rationing.
 Image reference: 2021-10-22_mmi-daily-iron-ore-index-report-october-22-2021_img2.jpg
 Source: Metals Market Index (MMi)
+
+## Linked asset: 2021-10-22_MMi-Daily-Iron-Ore-Report-for-October-22nd-2021_compressed.pdf
+Source asset: reports/hellenic/iron_ore/pdfs/2021-10-22_MMi-Daily-Iron-Ore-Report-for-October-22nd-2021_compressed.pdf
+
+[Page 1]
+(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Oct 22nd, 2021
+(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)
+(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)
+Iron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)
+IOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t
+869 1014 593
+-15 -1.70% -14.00 -1.36% -51 -7.92%
+Oct 22nd, 2021 Oct 22nd, 2021 Oct 22nd, 2021
+Iron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)
+IOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t
+125.90 148.55 1010
+-1.55 -1.22% -3.15 -2.08% -10 -0.98%
+Oct 22nd, 2021 Oct 22nd, 2021 Week Ending Oct 22nd, 2021
+(cid:28)(cid:454)(cid:272)(cid:346)(cid:258)(cid:374)(cid:336)(cid:286)(cid:3)(cid:100)(cid:396)(cid:258)(cid:282)(cid:286)(cid:282)(cid:3)(cid:18)(cid:381)(cid:374)(cid:410)(cid:396)(cid:258)(cid:272)(cid:410)(cid:400)
+DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar
+I2201 (Jan) RMB/t (3pm close) November 21 USD/dmt RB2201 (Jan) RMB/t
+689.50 118.35 4900
+39.00 6.00% 2.35 2.03% -76 -1.53%
+Oct 22nd, 2021 (3pm close) Oct 22nd, 2021 (5.30 pm Print) Oct 22nd, 2021 (3pm close)
+(cid:38)(cid:396)(cid:286)(cid:349)(cid:336)(cid:346)(cid:410)(cid:3)(cid:90)(cid:258)(cid:410)(cid:286)(cid:400) (cid:94)(cid:410)(cid:286)(cid:286)(cid:367)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)
+C3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t
+37.58 15.68 5380
+-1.72 -4.38% -1.05 -6.29% -460 -7.88%
+Oct 21st, 2021 Oct 21st, 2021 Week Ending Oct 22nd, 2021
+(cid:47)(cid:374)(cid:448)(cid:286)(cid:374)(cid:410)(cid:381)(cid:396)(cid:455)(cid:3)(cid:62)(cid:286)(cid:448)(cid:286)(cid:367)(cid:400) (cid:94)(cid:410)(cid:286)(cid:286)(cid:367)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)
+Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
+Steel HRC (China Domestic) RMB/t
+million tonnes million tonnes
+138.77 13.68 5550
+0.95 0.69% -0.89 -6.09% -250 -4.31%
+Week Ending Oct 22nd, 2021 Week Ending Oct 22nd, 2021 Week Ending Oct 22nd, 2021
+(cid:449)(cid:449)(cid:449)(cid:856)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373) (cid:87)(cid:258)(cid:336)(cid:286)(cid:3)(cid:1005)(cid:876)(cid:1010) (cid:3)(cid:3) Oct 22nd, 2021
+
+[Page 2]
+(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Oct 22nd, 2021
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:94)(cid:100)(cid:75)(cid:18)(cid:60)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:894)(cid:47)(cid:75)(cid:87)(cid:47)(cid:895)
+Oct 22nd, 2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
+Index Fe Content Price Change Change % MTD YTD Low ² High ² Price Change Change % MTD YTD Low ² High ²
+IOPI62 62% Fe Fines 869 -15 -1.7% 906 1241 762 1680 126.75 -2.13 -1.6% 131.39 180.48 109.14 247.30
+IOPI58 58% Fe Fines 593 -51 -7.9% 670 1010 518 1421 86.09 -7.67 -8.2% 97.09 147.57 73.66 210.83
+IOPI65 65% Fe Fines 1014 -14 -1.4% 1057 1444 952 1894 148.60 -1.95 -1.3% 153.88 210.63 133.20 278.61
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:94)(cid:28)(cid:4)(cid:17)(cid:75)(cid:90)(cid:69)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:894)(cid:47)(cid:75)(cid:94)(cid:47)(cid:895) (cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:18)(cid:75)(cid:68)(cid:68)(cid:28)(cid:69)(cid:100)(cid:4)(cid:90)(cid:122)
+Oct 22nd, 2021 CFR Qingdao, USD/dry tonne (cid:24)(cid:18)(cid:28)(cid:3)(cid:349)(cid:396)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:296)(cid:437)(cid:410)(cid:437)(cid:396)(cid:286)(cid:400)(cid:3)(cid:272)(cid:381)(cid:374)(cid:415)(cid:374)(cid:437)(cid:286)(cid:282)(cid:3)(cid:410)(cid:381)(cid:3)(cid:327)(cid:437)(cid:272)(cid:410)(cid:437)(cid:258)(cid:410)(cid:286)(cid:3)(cid:349)(cid:374)(cid:3)(cid:258)(cid:3)(cid:282)(cid:258)(cid:455)(cid:853)(cid:3)(cid:373)(cid:258)(cid:349)(cid:374)(cid:3)(cid:272)(cid:381)(cid:374)(cid:410)(cid:396)(cid:258)(cid:272)(cid:410)(cid:3)(cid:272)(cid:367)(cid:381)(cid:400)(cid:286)(cid:282)(cid:1010)(cid:1012)(cid:1013)(cid:856)(cid:1009)(cid:856)(cid:3)(cid:258)(cid:3)(cid:282)(cid:286)(cid:272)(cid:396)(cid:286)(cid:258)(cid:400)(cid:286)(cid:3)(cid:381)(cid:296)(cid:3)(cid:1005)(cid:856)(cid:1009)(cid:1081)(cid:3)(cid:410)(cid:346)(cid:396)(cid:381)(cid:437)(cid:336)(cid:346)(cid:381)(cid:437)(cid:410)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:282)(cid:258)(cid:455)(cid:3)。(cid:100)(cid:346)(cid:286)(cid:3)(cid:400)(cid:393)(cid:381)(cid:410)(cid:3)(cid:395)(cid:437)(cid:381)(cid:410)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:349)(cid:374)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:373)(cid:381)(cid:396)(cid:374)(cid:349)(cid:374)(cid:336)(cid:3)(cid:258)(cid:367)(cid:373)(cid:381)(cid:400)(cid:410)(cid:3)(cid:364)(cid:286)(cid:393)(cid:410)(cid:3)
+(cid:400)(cid:410)(cid:286)(cid:258)(cid:282)(cid:455)(cid:856)(cid:68)(cid:381)(cid:400)(cid:410)(cid:3)(cid:410)(cid:396)(cid:258)(cid:282)(cid:286)(cid:396)(cid:400)(cid:3)(cid:410)(cid:286)(cid:374)(cid:282)(cid:286)(cid:282)(cid:3)(cid:410)(cid:381)(cid:3)(cid:271)(cid:286)(cid:3)(cid:449)(cid:258)(cid:349)(cid:410)-(cid:258)(cid:374)(cid:282)-(cid:400)(cid:286)(cid:286)，(cid:258)(cid:374)(cid:282)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:393)(cid:437)(cid:396)(cid:272)(cid:346)(cid:258)(cid:400)(cid:349)(cid:374)(cid:336)(cid:3)(cid:374)(cid:437)(cid:373)(cid:271)(cid:286)(cid:396)(cid:3)(cid:349)(cid:400)(cid:3)(cid:400)(cid:373)(cid:258)(cid:367)(cid:367)。(cid:87)(cid:17)(cid:38)(cid:3)(cid:258)(cid:410)(cid:3)(cid:94)(cid:346)(cid:258)(cid:374)(cid:282)(cid:381)(cid:374)(cid:336)(cid:3)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:282)(cid:286)(cid:258)(cid:367)(cid:410)(cid:3)(cid:1012)(cid:1008)(cid:1004)(cid:3)(cid:455)(cid:437)(cid:258)(cid:374)(cid:876)(cid:373)(cid:410)(cid:853)(cid:3)(cid:349)(cid:374)(cid:272)(cid:396)(cid:286)(cid:258)(cid:400)(cid:286)(cid:282)(cid:3)(cid:1006)(cid:1006)(cid:3)(cid:455)(cid:437)(cid:258)(cid:374)(cid:876)(cid:373)(cid:410)(cid:3)(cid:381)(cid:448)(cid:286)(cid:396)(cid:3)(cid:455)(cid:286)(cid:400)(cid:410)(cid:286)(cid:396)(cid:282)(cid:258)(cid:455)(cid:854)(cid:3)
+Index Fe Content Price Change Change % MTD YTD Low 2 High 2 (cid:87)(cid:17)(cid:38)(cid:3)(cid:258)(cid:410)(cid:3)(cid:100)(cid:258)(cid:374)(cid:336)(cid:400)(cid:346)(cid:258)(cid:374)(cid:3)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:282)(cid:286)(cid:258)(cid:367)(cid:410)(cid:3)(cid:1012)(cid:1009)(cid:1004)(cid:3)(cid:455)(cid:437)(cid:258)(cid:374)(cid:876)(cid:373)(cid:410)(cid:853)；(cid:100)(cid:346)(cid:286)(cid:3)(cid:349)(cid:396)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:349)(cid:374)(cid:448)(cid:286)(cid:374)(cid:410)(cid:381)(cid:396)(cid:349)(cid:286)(cid:400)(cid:3)(cid:258)(cid:272)(cid:396)(cid:381)(cid:400)(cid:400)(cid:3)(cid:1007)(cid:1009)(cid:3)(cid:393)(cid:381)(cid:396)(cid:410)(cid:400)(cid:3)(cid:410)(cid:396)(cid:258)(cid:272)(cid:364)(cid:286)(cid:282)(cid:3)(cid:271)(cid:455)(cid:3)(cid:94)(cid:68)(cid:68)(cid:3)(cid:410)(cid:381)(cid:410)(cid:258)(cid:367)(cid:367)(cid:286)(cid:282)(cid:3)(cid:1005)(cid:1007)(cid:1012)(cid:856)(cid:1011)(cid:1011)(cid:3)(cid:373)(cid:349)(cid:367)(cid:367)(cid:349)(cid:381)(cid:374)(cid:3)(cid:373)(cid:410)(cid:3)(cid:258)(cid:400)(cid:3)(cid:381)(cid:296)(cid:3)(cid:75)(cid:272)(cid:410)(cid:381)(cid:271)(cid:286)(cid:396)(cid:3)(cid:1006)(cid:1006)(cid:853)(cid:3)(cid:258)(cid:374)(cid:3)(cid:349)(cid:374)(cid:272)(cid:396)(cid:286)(cid:258)(cid:400)(cid:286)(cid:3)(cid:381)(cid:296)(cid:3)(cid:1013)(cid:1009)(cid:1004)(cid:853)(cid:1004)(cid:1004)(cid:1004)(cid:3)
+(cid:373)(cid:410)(cid:3)(cid:296)(cid:396)(cid:381)(cid:373)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:393)(cid:396)(cid:286)(cid:448)(cid:349)(cid:381)(cid:437)(cid:400)(cid:3)(cid:449)(cid:286)(cid:286)(cid:364)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:1005)(cid:1005)(cid:856)(cid:1009)(cid:1012)(cid:3)(cid:373)(cid:349)(cid:367)(cid:367)(cid:349)(cid:381)(cid:374)(cid:3)(cid:373)(cid:410)(cid:3)(cid:381)(cid:374)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:455)(cid:286)(cid:258)(cid:396)(cid:856)(cid:3)(cid:100)(cid:346)(cid:286)(cid:3)(cid:349)(cid:374)(cid:272)(cid:396)(cid:286)(cid:258)(cid:400)(cid:286)(cid:3)(cid:381)(cid:296)(cid:3)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:349)(cid:374)(cid:448)(cid:286)(cid:374)(cid:410)(cid:381)(cid:396)(cid:455)(cid:3)(cid:400)(cid:367)(cid:381)(cid:449)(cid:286)(cid:282)(cid:3)(cid:258)(cid:400)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:258)(cid:396)(cid:396)(cid:349)(cid:448)(cid:258)(cid:367)(cid:400)(cid:3)(cid:381)(cid:296)(cid:3)(cid:349)(cid:396)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:258)(cid:410)(cid:3)(cid:393)(cid:381)(cid:396)(cid:410)(cid:400)(cid:3)(cid:282)(cid:286)(cid:272)(cid:367)(cid:349)(cid:374)(cid:286)(cid:282)(cid:856)(cid:3)(cid:100)(cid:346)(cid:286)(cid:3)(cid:282)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:282)(cid:286)(cid:367)(cid:349)(cid:448)(cid:286)(cid:396)(cid:349)(cid:286)(cid:400)(cid:3)(cid:296)(cid:396)(cid:381)(cid:373)(cid:3)
+IOSI62 62% Fe Fines 125.90 -1.55 -1.22% 127.72 174.60 112.75 230.50 (cid:410)(cid:346)(cid:286)(cid:3)(cid:393)(cid:381)(cid:396)(cid:410)(cid:400)(cid:3)(cid:396)(cid:381)(cid:400)(cid:286)(cid:3)(cid:1011)(cid:1012)(cid:853)(cid:1004)(cid:1004)(cid:1004)(cid:3)(cid:373)(cid:410)(cid:3)(cid:410)(cid:381)(cid:3)(cid:1006)(cid:856)(cid:1010)(cid:1011)(cid:3)(cid:373)(cid:349)(cid:367)(cid:367)(cid:349)(cid:381)(cid:374)(cid:3)(cid:373)(cid:410)(cid:856)(cid:3)(cid:100)(cid:346)(cid:286)(cid:3)(cid:400)(cid:410)(cid:286)(cid:286)(cid:367)(cid:3)(cid:373)(cid:349)(cid:367)(cid:367)(cid:400)(cid:3)(cid:396)(cid:258)(cid:373)(cid:393)(cid:286)(cid:282)(cid:3)(cid:437)(cid:393)(cid:3)(cid:410)(cid:346)(cid:286)(cid:349)(cid:396)(cid:3)(cid:396)(cid:286)(cid:400)(cid:410)(cid:381)(cid:272)(cid:364)(cid:349)(cid:374)(cid:336)(cid:3)(cid:381)(cid:296)(cid:3)(cid:349)(cid:396)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:258)(cid:400)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:393)(cid:381)(cid:449)(cid:286)(cid:396)(cid:3)(cid:396)(cid:258)(cid:415)(cid:381)(cid:374)(cid:349)(cid:374)(cid:336)(cid:3)(cid:393)(cid:381)(cid:367)(cid:349)(cid:272)(cid:455)(cid:3)(cid:346)(cid:258)(cid:400)(cid:3)(cid:367)(cid:381)(cid:381)(cid:400)(cid:286)(cid:374)(cid:286)(cid:282)(cid:3)(cid:396)(cid:286)(cid:272)(cid:286)(cid:374)(cid:410)(cid:367)(cid:455)(cid:853)(cid:3)(cid:282)(cid:396)(cid:349)(cid:448)(cid:349)(cid:374)(cid:336)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:282)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)
+(cid:282)(cid:286)(cid:367)(cid:349)(cid:448)(cid:286)(cid:396)(cid:349)(cid:286)(cid:400)(cid:3)(cid:296)(cid:396)(cid:381)(cid:373)(cid:3)(cid:373)(cid:258)(cid:349)(cid:374)(cid:3)(cid:393)(cid:381)(cid:396)(cid:410)(cid:400)(cid:3)(cid:410)(cid:381)(cid:3)(cid:349)(cid:374)(cid:272)(cid:396)(cid:286)(cid:258)(cid:400)(cid:286)(cid:856)(cid:3)(cid:100)(cid:346)(cid:286)(cid:3)(cid:410)(cid:449)(cid:381)(cid:3)(cid:373)(cid:258)(cid:349)(cid:374)(cid:3)(cid:393)(cid:381)(cid:396)(cid:410)(cid:400)(cid:3)(cid:349)(cid:374)(cid:3)(cid:100)(cid:258)(cid:374)(cid:336)(cid:400)(cid:346)(cid:258)(cid:374)(cid:3)(cid:346)(cid:258)(cid:448)(cid:286)(cid:3)(cid:271)(cid:286)(cid:286)(cid:374)(cid:3)(cid:271)(cid:258)(cid:374)(cid:374)(cid:286)(cid:282)(cid:3)(cid:296)(cid:396)(cid:381)(cid:373)(cid:3)(cid:373)(cid:258)(cid:364)(cid:349)(cid:374)(cid:336)(cid:3)(cid:282)(cid:286)(cid:367)(cid:349)(cid:448)(cid:286)(cid:396)(cid:349)(cid:286)(cid:400)(cid:3)(cid:400)(cid:349)(cid:374)(cid:272)(cid:286)(cid:3)(cid:75)(cid:272)(cid:410)(cid:381)(cid:271)(cid:286)(cid:396)(cid:3)(cid:1005)(cid:1013)(cid:856)(cid:3)(cid:100)(cid:346)(cid:286)(cid:3)(cid:282)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:282)(cid:286)(cid:367)(cid:349)(cid:448)(cid:286)(cid:396)(cid:349)(cid:286)(cid:400)(cid:3)(cid:258)(cid:410)(cid:3)(cid:410)(cid:346)(cid:286)(cid:400)(cid:286)(cid:3)(cid:373)(cid:258)(cid:349)(cid:374)(cid:3)
+(cid:393)(cid:381)(cid:396)(cid:410)(cid:400)(cid:3)(cid:296)(cid:286)(cid:367)(cid:367)(cid:3)(cid:1012)(cid:1010)(cid:853)(cid:1004)(cid:1004)(cid:1004)(cid:3)(cid:373)(cid:410)(cid:3)(cid:68)(cid:381)(cid:68)(cid:3)(cid:410)(cid:381)(cid:3)(cid:1005)(cid:1011)(cid:1008)(cid:853)(cid:1004)(cid:1004)(cid:1004)(cid:3)(cid:373)(cid:410)(cid:856)(cid:100)(cid:346)(cid:286)(cid:3)(cid:349)(cid:374)(cid:448)(cid:286)(cid:374)(cid:410)(cid:381)(cid:396)(cid:455)(cid:3)(cid:349)(cid:374)(cid:3)(cid:100)(cid:258)(cid:374)(cid:336)(cid:400)(cid:346)(cid:258)(cid:374)(cid:3)(cid:396)(cid:381)(cid:400)(cid:286)(cid:3)(cid:400)(cid:346)(cid:258)(cid:396)(cid:393)(cid:367)(cid:455)(cid:856)(cid:3)(cid:100)(cid:346)(cid:286)(cid:3)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:349)(cid:374)(cid:448)(cid:286)(cid:374)(cid:410)(cid:381)(cid:396)(cid:349)(cid:286)(cid:400)(cid:3)(cid:381)(cid:296)(cid:3)(cid:349)(cid:373)(cid:393)(cid:381)(cid:396)(cid:410)(cid:286)(cid:282)(cid:3)(cid:349)(cid:396)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:258)(cid:396)(cid:286)(cid:3)(cid:286)(cid:454)(cid:393)(cid:286)(cid:272)(cid:410)(cid:286)(cid:282)(cid:3)(cid:410)(cid:381)(cid:3)(cid:349)(cid:374)(cid:272)(cid:396)(cid:286)(cid:258)(cid:400)(cid:286)(cid:3)(cid:296)(cid:437)(cid:396)(cid:410)(cid:346)(cid:286)(cid:396)(cid:3)(cid:258)(cid:400)(cid:3)(cid:374)(cid:381)(cid:396)(cid:410)(cid:346)(cid:3)
+IOSI65 65% Fe Fines 148.55 -3.15 -2.08% 147.69 201.77 131.15 262.95 (cid:18)(cid:346)(cid:349)(cid:374)(cid:258)(cid:3)(cid:349)(cid:400)(cid:3)(cid:367)(cid:349)(cid:364)(cid:286)(cid:367)(cid:455)(cid:3)(cid:410)(cid:381)(cid:3)(cid:271)(cid:286)(cid:3)(cid:400)(cid:437)(cid:271)(cid:361)(cid:286)(cid:272)(cid:410)(cid:3)(cid:410)(cid:381)(cid:3)(cid:393)(cid:381)(cid:449)(cid:286)(cid:396)(cid:3)(cid:396)(cid:258)(cid:415)(cid:381)(cid:374)(cid:349)(cid:374)(cid:336)(cid:856)
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:62)(cid:104)(cid:68)(cid:87)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:894)(cid:47)(cid:75)(cid:87)(cid:62)(cid:47)(cid:895)
+Week Ending Oct 22nd, 2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3
+Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-oW Change % MTD YTD Low 2 High 2
+IOPLI62 62.5% Fe Lump 1010 -10 -1.0% 1015 1481 886 1868 141.37 -0.47 -0.33% 141.61 206.00 118.00 262.00
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:24)(cid:75)(cid:68)(cid:28)(cid:94)(cid:100)(cid:47)(cid:18)(cid:3)(cid:18)(cid:75)(cid:69)(cid:18)(cid:28)(cid:69)(cid:100)(cid:90)(cid:4)(cid:100)(cid:28)(cid:3)(cid:94)(cid:87)(cid:75)(cid:100)(cid:3)(cid:87)(cid:90)(cid:47)(cid:18)(cid:28)(cid:3)(cid:4)(cid:94)(cid:94)(cid:28)(cid:94)(cid:94)(cid:68)(cid:28)(cid:69)(cid:100)(cid:94)(cid:3)(cid:4)(cid:69)(cid:24)(cid:3)(cid:18)(cid:75)(cid:68)(cid:87)(cid:75)(cid:94)(cid:47)(cid:100)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)
+Week Ending Oct 22nd, 2021 RMB/tonne (excluding tax) 3 USD/tonne (excluding tax) 3
+Province Region Product Basis This week Change % Low ² High ² This week Change % Low ² High ²
+Hebei Hanxing 66% Fe Concentrate Dry 1050 5.5% 779 1645 163.98 6.25% 110.31 255.69
+Hebei Qian'an 65% Fe Concentrate Dry 1080 -5.3% 780 1630 168.67 -4.62% 110.51 251.57
+Liaoning Anshan 65% Fe Concentrate Wet 820 -3.5% 620 1310 128.06 -2.87% 87.40 202.32
+Shandong Zibo 65% Fe Concentrate Dry 1065 6.0% 865 1752 166.32 6.69% 122.55 272.32
+Week Ending Oct 22nd, 2021 This week Change % Low 2 High 2 (cid:1015)(cid:3)(cid:28)(cid:454)(cid:272)(cid:346)(cid:258)(cid:374)(cid:336)(cid:286)(cid:3)(cid:396)(cid:258)(cid:410)(cid:286)(cid:3)(cid:258)(cid:393)(cid:393)(cid:367)(cid:349)(cid:286)(cid:282)(cid:855)(cid:3)(cid:90)(cid:68)(cid:17)(cid:876)(cid:104)(cid:94)(cid:24)(cid:3)(cid:1089)(cid:3)(cid:3)(cid:3)(cid:1010)(cid:856)(cid:1008)(cid:1013)(cid:1007)(cid:1008)(cid:3)(cid:1016)(cid:62)(cid:258)(cid:400)(cid:410)(cid:3)(cid:1005)(cid:1006)(cid:3)(cid:373)(cid:381)(cid:374)(cid:410)(cid:346)(cid:400)(cid:3)
+(cid:3)(cid:1007)(cid:3)(cid:116)(cid:286)(cid:286)(cid:364)(cid:367)(cid:455)(cid:3)(cid:286)(cid:454)(cid:272)(cid:346)(cid:258)(cid:374)(cid:336)(cid:286)(cid:3)(cid:396)(cid:258)(cid:410)(cid:286)(cid:3)(cid:258)(cid:393)(cid:393)(cid:367)(cid:349)(cid:286)(cid:282)(cid:855)(cid:3)(cid:90)(cid:68)(cid:17)(cid:876)(cid:104)(cid:94)(cid:24)(cid:3)(cid:1010)(cid:856)(cid:1009)(cid:1004)(cid:1008)(cid:1008)
+China Mines Concentrate Composite Index RMB/WT 1004.63 3.61% 706.36 1511.22
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:38)(cid:75)(cid:100)(cid:3)(cid:89)(cid:47)(cid:69)(cid:39)(cid:24)(cid:4)(cid:75)(cid:3)(cid:894)(cid:90)(cid:68)(cid:17)(cid:876)(cid:116)(cid:100)(cid:895) (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:94)(cid:28)(cid:4)(cid:17)(cid:75)(cid:90)(cid:69)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:18)(cid:38)(cid:90)(cid:3)(cid:89)(cid:47)(cid:69)(cid:39)(cid:24)(cid:4)(cid:75)(cid:3)(cid:894)(cid:104)(cid:94)(cid:24)(cid:876)(cid:24)(cid:68)(cid:100)(cid:895)
+2050 320
+1850
+270
+1650
+1450 220
+1250
+170
+1050
+850 120
+650
+70
+450
+IOPI62 IOPI58 IOPI65 IOSI62 IOSI65
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:94)(cid:100)(cid:75)(cid:18)(cid:60)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:68)(cid:75)(cid:69)(cid:100)(cid:44)(cid:62)(cid:122)(cid:853)(cid:3)(cid:89)(cid:104)(cid:4)(cid:90)(cid:100)(cid:28)(cid:90)(cid:62)(cid:122)(cid:3)(cid:4)(cid:69)(cid:24)(cid:3)(cid:122)(cid:28)(cid:4)(cid:90)-(cid:100)(cid:75)-(cid:24)(cid:4)(cid:100)(cid:28)(cid:3)(cid:4)(cid:115)(cid:28)(cid:90)(cid:4)(cid:39)(cid:28)(cid:94)(cid:3)
+Oct 22nd, 2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne
+Index Fe Content June July August September MTD QTD YTD June July August September MTD QTD YTD
+IOPI62 62% Fe Fines 1524 1519 1174 937 906 906 1241 221.54 170.18 135.90 135.31 131.39 131.39 180.48
+IOPI58 58% Fe Fines 1199 1186 894 648 670 670 1010 173.94 130.00 93.62 93.31 97.09 97.09 147.57
+IOPI65 65% Fe Fines 1756 1750 1466 1152 1057 1057 1444 255.79 213.59 214.41 214.06 210.63 153.88 210.63
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:94)(cid:28)(cid:4)(cid:17)(cid:75)(cid:90)(cid:69)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:68)(cid:75)(cid:69)(cid:100)(cid:44)(cid:62)(cid:122)(cid:853)(cid:3)(cid:89)(cid:104)(cid:4)(cid:90)(cid:100)(cid:28)(cid:90)(cid:62)(cid:122)(cid:3)(cid:4)(cid:69)(cid:24)(cid:3)(cid:122)(cid:28)(cid:4)(cid:90)-(cid:100)(cid:75)-(cid:24)(cid:4)(cid:100)(cid:28)(cid:3)(cid:4)(cid:115)(cid:28)(cid:90)(cid:4)(cid:39)(cid:28)(cid:94)(cid:3) (cid:38)(cid:90)(cid:28)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:90)(cid:4)(cid:100)(cid:28)(cid:94)
+Oct 22nd, 2021 CFR Qingdao, USD/dry tonne Oct 21st, 2021 FREIGHT RATES - DRY BULK US$/wet tonne
+Index Fe Content June July August September MTD QTD YTD Route Designation Change Change % Low 2 High 2
+IOSI62 62% Fe Fines 213.90 211.65 162.80 128.43 127.72 127.72 174.60 W. Australia - Qingdao C5 15.68 -1.05 -6.29% 3.57 16.77
+IOSI65 65% Fe Fines 244.31 254.36 192.73 148.09 147.69 147.69 201.77 Tubarao - Qingdao C3 37.58 -1.72 -4.38% 6.70 36.40
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:62)(cid:104)(cid:68)(cid:87)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:68)(cid:75)(cid:69)(cid:100)(cid:44)(cid:62)(cid:122)(cid:853)(cid:3)(cid:89)(cid:104)(cid:4)(cid:90)(cid:100)(cid:28)(cid:90)(cid:62)(cid:122)(cid:3)(cid:4)(cid:69)(cid:24)(cid:3)(cid:122)(cid:28)(cid:4)(cid:90)-(cid:100)(cid:75)-(cid:24)(cid:4)(cid:100)(cid:28)(cid:3)(cid:4)(cid:115)(cid:28)(cid:90)(cid:4)(cid:39)(cid:28)(cid:94)(cid:3)
+Week Ending Oct 22nd, 2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
+Index Fe Content June July August September MTD QTD YTD June July August September MTD QTD YTD
+IOPLI62 62.5% Fe Lump 1735 1816 1409 1065 1015 1015 1481 245.23 254.64 196.49 147.90 141.61 141.61 206.00
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:87)(cid:90)(cid:28)(cid:68)(cid:47)(cid:104)(cid:68)(cid:94)(cid:876)(cid:24)(cid:47)(cid:94)(cid:18)(cid:75)(cid:104)(cid:69)(cid:100)(cid:94)
+Oct 22nd, 2021 PORT STOCK INDEX (RMB/WT) Oct 22nd, 2021 SEABORNE INDEX (USD/DMT)
+Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content Spread to IOSI62 % Spread to IOSI62
+IOPI58 58% Fe Fines -276 -31.76%
+IOPI65 65% Fe Fines 145 16.69% IOSI65 65% Fe Fines 22.65 17.99%
+(cid:449)(cid:449)(cid:449)(cid:856)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373) (cid:87)(cid:258)(cid:336)(cid:286)(cid:3)(cid:1006)(cid:876)(cid:1010) (cid:3)(cid:3) Oct 22nd, 2021
+(cid:18)(cid:75)(cid:87)(cid:122)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:68)(cid:28)(cid:100)(cid:4)(cid:62)(cid:94)(cid:3)(cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:4)(cid:62)(cid:62)(cid:3)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:94)(cid:3)(cid:90)(cid:28)(cid:94)(cid:28)(cid:90)(cid:115)(cid:28)(cid:24)
+
+[Page 3]
+(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Oct 22nd, 2021
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:18)(cid:75)(cid:68)(cid:87)(cid:4)(cid:90)(cid:47)(cid:94)(cid:75)(cid:69)(cid:94)(cid:3)(cid:894)(cid:104)(cid:94)(cid:24)(cid:876)(cid:24)(cid:68)(cid:100)(cid:895) (cid:18)(cid:44)(cid:47)(cid:69)(cid:4)(cid:3)(cid:24)(cid:75)(cid:68)(cid:28)(cid:94)(cid:100)(cid:47)(cid:18)(cid:3)(cid:18)(cid:75)(cid:68)(cid:87)(cid:75)(cid:94)(cid:47)(cid:100)(cid:28)(cid:3)(cid:68)(cid:47)(cid:69)(cid:28)(cid:94)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:894)(cid:90)(cid:68)(cid:17)(cid:876)(cid:116)(cid:286)(cid:410)(cid:3)(cid:100)(cid:381)(cid:374)(cid:374)(cid:286)(cid:853)(cid:3)(cid:349)(cid:374)(cid:272)(cid:367)(cid:437)(cid:282)(cid:349)(cid:374)(cid:336)(cid:3)(cid:115)(cid:4)(cid:100)(cid:895)
+270 1650
+1550
+230 1450
+1350
+190 1250
+1150
+150
+1050
+950
+110
+850
+750
+70
+650
+IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent) China Domestic Composite Mines Index
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:17)(cid:90)(cid:4)(cid:69)(cid:24)(cid:3)(cid:94)(cid:87)(cid:75)(cid:100)(cid:3)(cid:87)(cid:90)(cid:47)(cid:18)(cid:28)(cid:3)(cid:4)(cid:94)(cid:94)(cid:28)(cid:94)(cid:68)(cid:28)(cid:69)(cid:100)(cid:94)
+Oct 22nd, 2021 PORT STOCK INDEX (RMB/WT) Oct 22nd, 2021 SEABORNE INDEX (USD/DMT)
+Price Change Diff to IOPI62 Price Change Diff to IOSI62
+Roy Hill 817 -16 -52 Roy Hill 121.40 -1.55 -4.50
+SIMEC Fines 800 -17 -69 SIMEC Fines 117.90 -1.55 -8.00
+PB Fines 838 -16 -31 PB Fines 124.65 -1.55 -1.25
+Newman Fines 882 -15 13 Newman Fines 125.80 -1.55 -0.10
+MAC Fines 816 -17 -53 MAC Fines 121.80 -1.55 -4.10
+Jimblebar Blended Fines 767 -16 -102 Jimblebar Blended Fines 115.15 -1.55 -10.75
+Carajas Fines 1005 -14 136 Carajas Fines 155.45 -1.55 29.55
+Brazilian SSF 861 -15 -8 Brazilian SSF 129.65 -1.55 3.75
+Brazilian Blend Fines 870 -14 1 Brazilian Blend Fines 131.30 -1.55 5.40
+RTX Fines 761 -16 -108 RTX Fines 115.80 -1.55 -10.10
+West Pilbara Fines 802 -17 -67 West Pilbara Fines 120.15 -1.55 -5.75
+Oct 22nd, 2021 PORT STOCK INDEX (RMB/WT)
+Price Change Diff to IOPI58
+SSF 592 -51 -1
+FMG Blended Fines 598 -51 5
+Robe River 597 -51 4
+Western Fines 603 -52 10
+Atlas Fines 593 -51 0
+Yandi 589 -51 -4
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:69)(cid:75)(cid:90)(cid:68)(cid:4)(cid:62)(cid:47)(cid:94)(cid:4)(cid:100)(cid:47)(cid:75)(cid:69)(cid:3)(cid:24)(cid:47)(cid:38)(cid:38)(cid:28)(cid:90)(cid:28)(cid:69)(cid:100)(cid:47)(cid:4)(cid:62)(cid:94)
+Port Stock Index Product Differentials (RMB/wet tonne) Seaborne Index Product Differentials (USD/dry tonne)
+Applicable range Value Change Applicable range Value Change
+High Grade Fe 60 - 63% 27.00 1.00 High Grade Fe 60 - 63% 4.50 0.00
+High Grade Fe 63 - 64% 23.00 0.00 High Grade Fe 63 - 64% 3.25 0.00
+1% Fe High Grade Fe 64 - 65% 23.00 0.00 1% Fe High Grade Fe 64 - 65% 3.25 0.00
+High Grade Fe 65 - 65.5% 23.00 0.00 High Grade Fe 65 - 65.5% 3.25 0.00
+Low Grade Fe 25.00 0.00
+High Fe Grade Al <2.25% 5.00 0.00 High Fe Grade Al <2.25% 2.50 0.00
+High Fe Grade Al 2.25-4% 45.00 0.00 High Fe Grade Al 2.25-4% 1.75 0.00
+1% Alumina 1% Alumina
+Low Fe Grade Al <2.25% 30.00 -5.00
+Low Fe Grade Al 2.25-4% 40.00 -5.00
+High Fe Grade Si <4% 27.00 0.00 High Fe Grade Si <4% 4.00 0.00
+1% Silica High Fe Grade Si 4-6.5% 13.00 0.00 1% Silica High Fe Grade Si 4 - 6.5% 8.25 0.00
+Low Fe Grade 39.00 -2.00
+High Fe Grade 0.09%<P<0.115% 9.00 0.00 0.01% High Fe Grade 0.09%<P<0.115% 0.25 0.00
+0.01%
+High Fe Grade 0.115%<P<0.15% 9.00 0.00 Phosphorus High Fe Grade 0.115%<P<0.15% 0.50 0.00
+Phosphorus
+Low Fe Grade 0.09<P<0.1% 5.00 0.00
+Port Stock Price Differentials to Qingdao Port for PB Fines (RMB/wet tonne)
+Port Value Change Port Value Change Port Value Change Port Value Change
+Bayuquan -100.00 0.00 Fangcheng -25.00 0.00 Lanshan 0.00 0.00 Rizhao 0.00 0.00
+Beilun 0.00 0.00 Jiangyin -95.00 0.00 Lianyungang 0.00 0.00 Shekou 0.00 0.00
+Caofeidian -20.00 0.00 Jingtang -20.00 0.00 Majishan 0.00 0.00 Taicang -95.00 0.00
+Dalian 0.00 0.00 Lanqiao 0.00 0.00 Qingdao 0.00 0.00 Tianjin -40.00 0.00
+(cid:449)(cid:449)(cid:449)(cid:856)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373) (cid:87)(cid:258)(cid:336)(cid:286)(cid:3)(cid:1007)(cid:876)(cid:1010) (cid:3)(cid:3) Oct 22nd, 2021
+(cid:18)(cid:75)(cid:87)(cid:122)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:68)(cid:28)(cid:100)(cid:4)(cid:62)(cid:94)(cid:3)(cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:4)(cid:62)(cid:62)(cid:3)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:94)(cid:3)(cid:90)(cid:28)(cid:94)(cid:28)(cid:90)(cid:115)(cid:28)(cid:24)
+
+[Page 4]
+(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Oct 22nd, 2021
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:87)(cid:90)(cid:28)(cid:68)(cid:47)(cid:104)(cid:68)(cid:94)(cid:876)(cid:24)(cid:47)(cid:94)(cid:18)(cid:75)(cid:104)(cid:69)(cid:100)(cid:94)
+40% 30%
+30% 20%
+20%
+10%
+10%
+0%
+0%
+-10%
+-10%
+-20% -20%
+-30% -30%
+-40% -40%
+IOPI65 % Spread to IOPI62 IOPI58 % Spread to IOPI62 IOSI65 % Spread to IOSI62
+(cid:116)(cid:28)(cid:28)(cid:60)(cid:62)(cid:122)(cid:3)(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:94)(cid:100)(cid:75)(cid:18)(cid:60)(cid:3)(cid:62)(cid:104)(cid:68)(cid:87)(cid:3)(cid:87)(cid:90)(cid:28)(cid:68)(cid:47)(cid:104)(cid:68)(cid:3)(cid:894)(cid:90)(cid:68)(cid:17)(cid:876)(cid:24)(cid:68)(cid:100)(cid:104)(cid:895) (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:94)(cid:28)(cid:4)(cid:17)(cid:75)(cid:90)(cid:69)(cid:28)(cid:3)(cid:100)(cid:75)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:94)(cid:100)(cid:75)(cid:18)(cid:60)(cid:3)(cid:87)(cid:90)(cid:47)(cid:18)(cid:28)(cid:3)(cid:94)(cid:87)(cid:90)(cid:28)(cid:4)(cid:24)(cid:94)(cid:3)(cid:894)(cid:104)(cid:94)(cid:24)(cid:876)(cid:24)(cid:68)(cid:100)(cid:895)
+6.00 15
+10
+5.00
+5
+4.00 0
+3.00 -5
+-10
+2.00
+-15
+1.00 -20
+0.00 -25
+-30
+-1.00
+-35
+-2.00
+IOSI65 Spread to IOPI65 Equivalent (5-day average)
+62.5% Fe Lump Premium over 62% Fines RMB/dmtu IOSI62 Spread to IOPI62 Equivalent (5-day average)
+(cid:100)(cid:75)(cid:100)(cid:4)(cid:62)(cid:3)(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:47)(cid:69)(cid:115)(cid:28)(cid:69)(cid:100)(cid:75)(cid:90)(cid:47)(cid:28)(cid:94)(cid:3)(cid:4)(cid:100)(cid:3)(cid:18)(cid:44)(cid:47)(cid:69)(cid:4)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:94)(cid:3)(cid:894)(cid:68)(cid:47)(cid:62)(cid:62)(cid:47)(cid:75)(cid:69)(cid:3)(cid:100)(cid:75)(cid:69)(cid:69)(cid:28)(cid:94)(cid:895) (cid:38)(cid:104)(cid:100)(cid:104)(cid:90)(cid:28)(cid:3)(cid:100)(cid:90)(cid:4)(cid:24)(cid:47)(cid:69)(cid:39)-(cid:38)(cid:90)(cid:75)(cid:69)(cid:100)(cid:3)(cid:68)(cid:75)(cid:69)(cid:100)(cid:44)(cid:3)(cid:18)(cid:62)(cid:75)(cid:94)(cid:47)(cid:69)(cid:39)(cid:3)(cid:87)(cid:90)(cid:47)(cid:18)(cid:28)
+150 1500 250
+1400 230
+140 1300 210
+1200 190 130 1100
+170
+1000
+150
+120 900
+800 130
+110 700 110
+600 90
+100 500 70
+90
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:47)(cid:69)(cid:115)(cid:28)(cid:69)(cid:100)(cid:75)(cid:90)(cid:47)(cid:28)(cid:94)(cid:3)(cid:894)(cid:68)(cid:47)(cid:62)(cid:62)(cid:47)(cid:75)(cid:69)(cid:3)(cid:100)(cid:75)(cid:69)(cid:69)(cid:28)(cid:94)(cid:895) (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:38)(cid:104)(cid:100)(cid:104)(cid:90)(cid:28)(cid:94)(cid:3)(cid:18)(cid:75)(cid:69)(cid:100)(cid:90)(cid:4)(cid:18)(cid:100)(cid:94)
+(cid:24)(cid:90)(cid:122)(cid:3)(cid:17)(cid:104)(cid:62)(cid:60)(cid:3)(cid:38)(cid:90)(cid:28)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:90)(cid:4)(cid:100)(cid:28)(cid:94)(cid:3)(cid:894)(cid:104)(cid:94)(cid:24)(cid:876)(cid:68)(cid:100)(cid:895) (cid:100)(cid:75)(cid:100)(cid:4)(cid:62)(cid:3)(cid:18)(cid:44)(cid:47)(cid:69)(cid:4)(cid:3)(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:47)(cid:68)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:115)(cid:75)(cid:62)(cid:104)(cid:68)(cid:28)(cid:94)(cid:3)(cid:894)(cid:68)(cid:47)(cid:62)(cid:62)(cid:47)(cid:75)(cid:69)(cid:3)(cid:100)(cid:75)(cid:69)(cid:69)(cid:28)(cid:94)(cid:895)
+(cid:449)(cid:449)(cid:449)(cid:856)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373) (cid:87)(cid:258)(cid:336)(cid:286)(cid:3)(cid:1008)(cid:876)(cid:1010) (cid:3)(cid:3) Oct 22nd, 2021
+(cid:18)(cid:75)(cid:87)(cid:122)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:68)(cid:28)(cid:100)(cid:4)(cid:62)(cid:94)(cid:3)(cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:4)(cid:62)(cid:62)(cid:3)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:94)(cid:3)(cid:90)(cid:28)(cid:94)(cid:28)(cid:90)(cid:115)(cid:28)(cid:24)
+ennot/BMR TMD/DSU
+SGX Front Month 5.30pm (RHS)
+Week Ending Oct 22nd, 2021 DCE (RMB/WMT) SGX (USD/DMT)
+Province This week Change % Low 2 High 2 Closing Date Oct 22nd, 3pm close Oct 22nd, 5:30pm
+Jingtang 17.24 0.88% 12.26 19.20 Contract I2201 Change Change % Nov. 21 Change Change %
+Qingdao 23.36 2.59% 9.41 23.36 Closing Price 689.50 39.00 6.00% 118.35 2.35 2.03%
+Caofeidian 13.98 4.25% 11.25 16.25 Vol traded ('000 lots) 82.36 -18.41 -18.27% 1.73 -1.09 -38.65%
+Tianjin 10.58 1.63% 7.14 11.28 Open positions ('000 lots) 44.51 -3.31 -6.92% 17.97 0.07 0.38%
+Rizhao 14.21 1.43% 9.44 14.22 Day Low 653.0 11.00 1.71% 115.10 4.20 3.79%
+Total (35 Ports) 138.77 0.69% 98.80 138.77 Day High 698.0 -37.00 -5.03% 119.50 -0.59 -0.49%
+40 120
+35
+30 110
+25
+100
+20
+15 90
+10
+80
+5
+0
+70
+60
+C5 - W. Australia - Qingdao C3 - Tubarao - Qingdao
+
+[Page 5]
+(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Oct 22nd, 2021
+(cid:94)(cid:100)(cid:28)(cid:28)(cid:62)(cid:3)(cid:94)(cid:87)(cid:75)(cid:100)(cid:3)(cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:87)(cid:90)(cid:47)(cid:18)(cid:28)(cid:94)-(cid:18)(cid:44)(cid:47)(cid:69)(cid:4) (cid:18)(cid:44)(cid:47)(cid:69)(cid:28)(cid:94)(cid:28)(cid:3)(cid:94)(cid:100)(cid:28)(cid:28)(cid:62)(cid:3)(cid:68)(cid:47)(cid:62)(cid:62)(cid:3)(cid:87)(cid:90)(cid:75)(cid:38)(cid:47)(cid:100)(cid:4)(cid:17)(cid:47)(cid:62)(cid:47)(cid:100)(cid:122)
+Steel Spot Market RMB/tonne
+Product 2021/10/22 Change Change %
+ReBar HRB400 ɸ18mm 5,380 -460 -7.88%
+Wirerod Q300 ɸ6.5mm 5,700 -490 -7.92%
+HRC Q235/SS400 5.5mm*1500*C 5,550 -250 -4.31%
+CRC SPCC/ST12 1.0mm*1250*2500 6,410 -90 -1.38%
+Medium & Heavy Plate Q235B 20mm 5,680 -110 -1.90%
+GI ST02Z 1.0mm*1000*C 6,640 -100 -1.48%
+Colour Coated Plate 8,900 0 0.00%
+(cid:18)(cid:44)(cid:47)(cid:69)(cid:28)(cid:94)(cid:28)(cid:3)(cid:94)(cid:100)(cid:28)(cid:28)(cid:62)(cid:3)(cid:47)(cid:69)(cid:115)(cid:28)(cid:69)(cid:100)(cid:75)(cid:90)(cid:47)(cid:28)(cid:94) (cid:18)(cid:44)(cid:47)(cid:69)(cid:28)(cid:94)(cid:28)(cid:3)(cid:94)(cid:100)(cid:28)(cid:28)(cid:62)(cid:3)(cid:68)(cid:47)(cid:62)(cid:62)(cid:3)(cid:87)(cid:90)(cid:75)(cid:38)(cid:47)(cid:100)(cid:4)(cid:17)(cid:47)(cid:62)(cid:47)(cid:100)(cid:122)
+1,300
+1,100
+900
+700
+500
+300
+100
+-100
+-300
+(cid:449)(cid:449)(cid:449)(cid:856)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373) (cid:87)(cid:258)(cid:336)(cid:286)(cid:3)(cid:1009)(cid:876)(cid:1010) (cid:3)(cid:3) Oct 22nd, 2021
+(cid:18)(cid:75)(cid:87)(cid:122)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:68)(cid:28)(cid:100)(cid:4)(cid:62)(cid:94)(cid:3)(cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:4)(cid:62)(cid:62)(cid:3)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:94)(cid:3)(cid:90)(cid:28)(cid:94)(cid:28)(cid:90)(cid:115)(cid:28)(cid:24)
+ennot/BMR
+SMM Tracking of Steel Mill P&L - Rebar and Hot-rolled Coil (RMB/tonne)
+Category Price Change (WoW) Note
+MMi (Fe 62%), USD/mt exluding tax 127.45 4 Mmi CFR Equivalent index for 1st Feb
+Coke 4,210 0 2nd grade met coke, Tangshan, incl. tax
+Steel Scrap 3,620 -80 steel scrap (6mm) in Zhangjiagang, exl. tax
+Billet Cost 4,680 -28 Q234, incl. tax
+Rebar cost - Blast furnace 4,982 -34 calculated based on theoretical weight, incl. tax
+Rebar profit - Blast furnace 498 -408 based on Shanghai prices, incl. tax
+Hot-rolled coil cost - Blast furnace 4,960 -28 based on actual weight, incl. tax
+Hot-rolled coil proft - Blast furnace 590 -192 based on Shanghai prices, incl. tax
+Note: 1. Costs in the table are caluclated based on todays market prices and facout our management, sales, financial and depreciations fees.
+2. The cost refers to average cost in the industry based on SMM's survey of small, medium and large mills in China
+25
+20
+15
+10
+5
+0
+Rebar Profit for BOF Mill HRC Profit for BOF Mill
+(cid:18)(cid:44)(cid:47)(cid:69)(cid:28)(cid:94)(cid:28)(cid:3)(cid:94)(cid:100)(cid:28)(cid:28)(cid:62)(cid:3)(cid:68)(cid:47)(cid:62)(cid:62)(cid:3)(cid:87)(cid:90)(cid:75)(cid:38)(cid:47)(cid:100)(cid:4)(cid:17)(cid:47)(cid:62)(cid:47)(cid:100)(cid:122)-(cid:90)(cid:286)(cid:271)(cid:258)(cid:396) (cid:18)(cid:44)(cid:47)(cid:69)(cid:28)(cid:94)(cid:28)(cid:3)(cid:94)(cid:100)(cid:28)(cid:28)(cid:62)(cid:3)(cid:68)(cid:47)(cid:62)(cid:62)(cid:3)(cid:87)(cid:90)(cid:75)(cid:38)(cid:47)(cid:100)(cid:4)(cid:17)(cid:47)(cid:62)(cid:47)(cid:100)(cid:122)-(cid:44)(cid:381)(cid:410)-(cid:396)(cid:381)(cid:367)(cid:367)(cid:286)(cid:282)(cid:3)(cid:18)(cid:381)(cid:349)(cid:367)
+(cid:18)(cid:44)(cid:47)(cid:69)(cid:28)(cid:94)(cid:28)(cid:3)(cid:94)(cid:100)(cid:28)(cid:28)(cid:62)(cid:3)(cid:18)(cid:75)(cid:69)(cid:94)(cid:104)(cid:68)(cid:87)(cid:100)(cid:47)(cid:75)(cid:69)-(cid:90)(cid:286)(cid:271)(cid:258)(cid:396) (cid:18)(cid:44)(cid:47)(cid:69)(cid:28)(cid:94)(cid:28)(cid:3)(cid:94)(cid:100)(cid:28)(cid:28)(cid:62)(cid:3)(cid:18)(cid:75)(cid:69)(cid:94)(cid:104)(cid:68)(cid:87)(cid:100)(cid:47)(cid:75)(cid:69)-(cid:44)(cid:381)(cid:410)-(cid:396)(cid:381)(cid:367)(cid:367)(cid:286)(cid:282)(cid:3)(cid:18)(cid:381)(cid:349)(cid:367)
+(cid:18)(cid:44)(cid:47)(cid:69)(cid:28)(cid:94)(cid:28)(cid:3)(cid:94)(cid:100)(cid:28)(cid:28)(cid:62)(cid:3)(cid:87)(cid:90)(cid:75)(cid:24)(cid:104)(cid:18)(cid:100)(cid:47)(cid:75)(cid:69)-(cid:90)(cid:286)(cid:271)(cid:258)(cid:396) (cid:18)(cid:44)(cid:47)(cid:69)(cid:28)(cid:94)(cid:28)(cid:3)(cid:94)(cid:100)(cid:28)(cid:28)(cid:62)(cid:3)(cid:87)(cid:90)(cid:75)(cid:24)(cid:104)(cid:18)(cid:100)(cid:47)(cid:75)(cid:69)-(cid:44)(cid:381)(cid:410)-(cid:396)(cid:381)(cid:367)(cid:367)(cid:286)(cid:282)(cid:3)(cid:18)(cid:381)(cid:349)(cid:367)
+tm
+noillim
+Total Social Steel Inventory Total Steel Inventory at Steel Mills
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+0
+-200 01 02 03 04 05 06 07 08 09 10 11 12
+-400
+tm/BMR
+2018 2019 2020 2021
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+0
+01 02 03 04 05 06 07 08 09 10 11 12
+-200
+tm/BMR
+2018 2019 2020 2021
+2018 2019 2020 2021 2018 2019 2020 2021
+5500 4000
+4000 3600
+3200
+2500
+2800
+1000
+2400
+-500 01 02 03 04 05 06 07 08 09 10 11 12
+2000
+-2000 01 02 03 04 05 06 07 08 09 10 11 12
+2018 2019 2020 2021 2018 2019 2020 2021
+4500 3600
+4000
+3400
+3500
+3200
+3000
+3000
+2500
+2000 2800
+01 02 03 04 05 06 07 08 09 10 11 12 01 02 03 04 05 06 07 08 09 10 11 12
+
+[Page 6]
+(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Oct 22nd, 2021
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:94)(cid:87)(cid:28)(cid:18)(cid:47)(cid:38)(cid:47)(cid:18)(cid:4)(cid:100)(cid:47)(cid:75)(cid:69)(cid:94)(cid:853)(cid:3)(cid:18)(cid:75)(cid:68)(cid:87)(cid:47)(cid:62)(cid:4)(cid:100)(cid:47)(cid:75)(cid:69)(cid:3)(cid:90)(cid:4)(cid:100)(cid:47)(cid:75)(cid:69)(cid:4)(cid:62)(cid:28)(cid:3)(cid:4)(cid:69)(cid:24)(cid:3)(cid:24)(cid:4)(cid:100)(cid:4)(cid:3)(cid:28)(cid:121)(cid:18)(cid:62)(cid:104)(cid:94)(cid:47)(cid:75)(cid:69)(cid:94)
+Iron Ore Index Specifications (Port and Seaborne) (cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:18)(cid:381)(cid:373)(cid:393)(cid:349)(cid:367)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:90)(cid:258)(cid:415)(cid:381)(cid:374)(cid:258)(cid:367)(cid:286)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:24)(cid:258)(cid:410)(cid:258)(cid:3)(cid:28)(cid:454)(cid:272)(cid:367)(cid:437)(cid:400)(cid:349)(cid:381)(cid:374)(cid:400)
+65% Fe Fines 62% Fe Fines 58% Fe Fines 62.5% Fe Lump (cid:68)(cid:68)(cid:349)(cid:3)(cid:349)(cid:396)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)(cid:3)(cid:258)(cid:396)(cid:286)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:349)(cid:367)(cid:286)(cid:282)(cid:3)(cid:296)(cid:396)(cid:381)(cid:373)(cid:3)(cid:282)(cid:258)(cid:410)(cid:258)(cid:3)(cid:393)(cid:396)(cid:381)(cid:448)(cid:349)(cid:282)(cid:286)(cid:282)(cid:3)(cid:271)(cid:455)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:258)(cid:374)(cid:349)(cid:286)(cid:400)(cid:3)(cid:410)(cid:346)(cid:258)(cid:410)(cid:3)(cid:258)(cid:396)(cid:286)(cid:3)
+Fe % 65.00 62.00 58.00 62.50 (cid:393)(cid:258)(cid:396)(cid:410)(cid:3)(cid:381)(cid:296)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:349)(cid:396)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:400)(cid:437)(cid:393)(cid:393)(cid:367)(cid:455)(cid:3)(cid:272)(cid:346)(cid:258)(cid:349)(cid:374)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:349)(cid:374)(cid:448)(cid:381)(cid:367)(cid:448)(cid:286)(cid:282)(cid:3)(cid:349)(cid:374)(cid:3)(cid:400)(cid:393)(cid:381)(cid:410)(cid:3)(cid:373)(cid:258)(cid:396)(cid:364)(cid:286)(cid:410)(cid:3)(cid:410)(cid:396)(cid:258)(cid:374)(cid:400)(cid:258)(cid:272)(cid:415)(cid:381)(cid:374)(cid:400)(cid:856)(cid:3)(cid:100)(cid:346)(cid:286)(cid:3)
+(cid:349)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)(cid:3)(cid:258)(cid:396)(cid:286)(cid:3)(cid:272)(cid:258)(cid:367)(cid:272)(cid:437)(cid:367)(cid:258)(cid:410)(cid:286)(cid:282)(cid:3)(cid:437)(cid:400)(cid:349)(cid:374)(cid:336)(cid:3)(cid:282)(cid:286)(cid:410)(cid:258)(cid:349)(cid:367)(cid:286)(cid:282)(cid:3)(cid:410)(cid:396)(cid:258)(cid:374)(cid:400)(cid:258)(cid:272)(cid:415)(cid:381)(cid:374)-(cid:367)(cid:286)(cid:448)(cid:286)(cid:367)(cid:3)(cid:282)(cid:258)(cid:410)(cid:258)(cid:3)(cid:400)(cid:437)(cid:271)(cid:373)(cid:349)(cid:425)(cid:286)(cid:282)(cid:3)(cid:410)(cid:381)(cid:3)(cid:68)(cid:68)(cid:349)(cid:3)(cid:271)(cid:455)(cid:3)
+Alumina % 1.40 2.25 2.25 1.50 (cid:410)(cid:346)(cid:286)(cid:400)(cid:286)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:258)(cid:374)(cid:349)(cid:286)(cid:400)(cid:856)(cid:3)(cid:100)(cid:346)(cid:349)(cid:400)(cid:3)(cid:282)(cid:258)(cid:410)(cid:258)(cid:3)(cid:349)(cid:400)(cid:3)(cid:374)(cid:381)(cid:396)(cid:373)(cid:258)(cid:367)(cid:349)(cid:400)(cid:286)(cid:282)(cid:3)(cid:410)(cid:381)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:258)(cid:393)(cid:393)(cid:396)(cid:381)(cid:393)(cid:396)(cid:349)(cid:258)(cid:410)(cid:286)(cid:3)(cid:400)(cid:393)(cid:286)(cid:272)(cid:349)(cid:302)(cid:272)(cid:258)(cid:415)(cid:381)(cid:374)(cid:400)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)
+(cid:400)(cid:272)(cid:396)(cid:286)(cid:286)(cid:374)(cid:286)(cid:282)(cid:3)(cid:410)(cid:381)(cid:3)(cid:396)(cid:286)(cid:373)(cid:381)(cid:448)(cid:286)(cid:3)(cid:381)(cid:437)(cid:410)(cid:367)(cid:349)(cid:286)(cid:396)(cid:400)(cid:3)(cid:271)(cid:286)(cid:296)(cid:381)(cid:396)(cid:286)(cid:3)(cid:448)(cid:381)(cid:367)(cid:437)(cid:373)(cid:286)-(cid:449)(cid:286)(cid:349)(cid:336)(cid:346)(cid:410)(cid:286)(cid:282)(cid:3)(cid:258)(cid:448)(cid:286)(cid:396)(cid:258)(cid:336)(cid:286)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:3)(cid:258)(cid:396)(cid:286)(cid:3)
+Silica% 1.50 4.00 5.50 3.50
+(cid:272)(cid:258)(cid:367)(cid:272)(cid:437)(cid:367)(cid:258)(cid:410)(cid:286)(cid:282)(cid:3)(cid:296)(cid:396)(cid:381)(cid:373)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:396)(cid:286)(cid:373)(cid:258)(cid:349)(cid:374)(cid:349)(cid:374)(cid:336)(cid:3)(cid:272)(cid:381)(cid:396)(cid:286)(cid:3)(cid:400)(cid:286)(cid:410)(cid:3)(cid:381)(cid:296)(cid:3)(cid:282)(cid:258)(cid:410)(cid:258)(cid:856)
+Phosphorus % 0.06 0.09 0.05 0.08
+(cid:38)(cid:381)(cid:396)(cid:3)(cid:373)(cid:381)(cid:396)(cid:286)(cid:3)(cid:282)(cid:286)(cid:410)(cid:258)(cid:349)(cid:367)(cid:400)(cid:3)(cid:381)(cid:374)(cid:3)(cid:68)(cid:68)(cid:349)(cid:918)(cid:400)(cid:3)(cid:349)(cid:396)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:373)(cid:286)(cid:410)(cid:346)(cid:381)(cid:282)(cid:381)(cid:367)(cid:381)(cid:336)(cid:455)(cid:3)(cid:393)(cid:367)(cid:286)(cid:258)(cid:400)(cid:286)(cid:3)(cid:282)(cid:381)(cid:449)(cid:374)(cid:367)(cid:381)(cid:258)(cid:282)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:336)(cid:437)(cid:349)(cid:282)(cid:286)(cid:3)
+Sulphur % 0.01 0.02 0.02 0.02 (cid:393)(cid:437)(cid:271)(cid:367)(cid:349)(cid:400)(cid:346)(cid:286)(cid:282)(cid:3)(cid:381)(cid:374)(cid:3)(cid:381)(cid:437)(cid:396)(cid:3)(cid:449)(cid:286)(cid:271)(cid:400)(cid:349)(cid:410)(cid:286)(cid:3)(cid:258)(cid:410)(cid:855)(cid:3)(cid:449)(cid:449)(cid:449)(cid:856)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373)(cid:3)
+Moisture % 8.00 8.00 9.00 4.00
+Data Exclusions*
+Granular size below 10mm for at least 90% of cargo; Size below 6.3mm max 15%
+Sizing 62% 58% 65%
+maximum of 40% below 150 micron Size above 31.15mm max 25% Port Index 0 0 0
+Seaborne index 0 0
+Pricing Point Qingdao Port (FOT and CFR respectively) FOT Qingdao Port Lump Index 62.5 0
+Timing (Seaborne) Loading within 4 weeks, Delivery within 8 weeks Delivery within 2 weeks (cid:910)(cid:3)(cid:69)(cid:437)(cid:373)(cid:271)(cid:286)(cid:396)(cid:3)(cid:381)(cid:296)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:400)(cid:437)(cid:271)(cid:373)(cid:349)(cid:400)(cid:400)(cid:349)(cid:381)(cid:374)(cid:400)(cid:3)(cid:296)(cid:381)(cid:396)(cid:3)(cid:349)(cid:396)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)(cid:3)(cid:410)(cid:346)(cid:258)(cid:410)(cid:3)(cid:449)(cid:286)(cid:396)(cid:286)(cid:3)(cid:286)(cid:454)(cid:272)(cid:367)(cid:437)(cid:282)(cid:286)(cid:282)(cid:3)(cid:296)(cid:396)(cid:381)(cid:373)(cid:3)
+(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:272)(cid:258)(cid:367)(cid:272)(cid:437)(cid:367)(cid:258)(cid:415)(cid:381)(cid:374)(cid:400)(cid:3)(cid:410)(cid:381)(cid:282)(cid:258)(cid:455)(cid:3)(cid:258)(cid:400)(cid:3)(cid:410)(cid:346)(cid:286)(cid:455)(cid:3)(cid:449)(cid:286)(cid:396)(cid:286)(cid:3)(cid:258)(cid:374)(cid:381)(cid:373)(cid:258)(cid:367)(cid:381)(cid:437)(cid:400)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:272)(cid:381)(cid:437)(cid:367)(cid:282)(cid:3)(cid:374)(cid:381)(cid:410)(cid:3)(cid:271)(cid:286)(cid:3)(cid:448)(cid:286)(cid:396)(cid:349)(cid:302)(cid:286)(cid:282)
+Payment Terms L/C at sight L/C at sight or CAD
+(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:24)(cid:75)(cid:68)(cid:28)(cid:94)(cid:100)(cid:47)(cid:18)(cid:3)(cid:18)(cid:75)(cid:69)(cid:18)(cid:28)(cid:69)(cid:100)(cid:90)(cid:4)(cid:100)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:18)(cid:4)(cid:62)(cid:18)(cid:104)(cid:62)(cid:4)(cid:100)(cid:47)(cid:75)(cid:69)(cid:3)(cid:68)(cid:28)(cid:100)(cid:44)(cid:75)(cid:24)(cid:75)(cid:62)(cid:75)(cid:39)(cid:122)
+(cid:100)(cid:346)(cid:286)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:349)(cid:367)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:373)(cid:286)(cid:410)(cid:346)(cid:381)(cid:282)(cid:3)(cid:296)(cid:381)(cid:396)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:336)(cid:286)(cid:374)(cid:286)(cid:396)(cid:258)(cid:367)(cid:367)(cid:455)(cid:3)(cid:396)(cid:286)(cid:296)(cid:286)(cid:396)(cid:400)(cid:3)(cid:410)(cid:381)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:349)(cid:367)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:373)(cid:286)(cid:410)(cid:346)(cid:381)(cid:282)(cid:3)(cid:381)(cid:296)(cid:3)(cid:18)(cid:87)(cid:47)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:381)(cid:410)(cid:346)(cid:286)(cid:396)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)(cid:853)(cid:3)(cid:271)(cid:396)(cid:286)(cid:258)(cid:364)(cid:282)(cid:381)(cid:449)(cid:374)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:282)(cid:258)(cid:410)(cid:258)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:272)(cid:258)(cid:367)(cid:272)(cid:437)(cid:367)(cid:258)(cid:410)(cid:286)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:258)(cid:448)(cid:286)(cid:396)(cid:258)(cid:336)(cid:286)(cid:3)(cid:448)(cid:258)(cid:367)(cid:437)(cid:286)(cid:3)(cid:258)(cid:272)(cid:272)(cid:381)(cid:396)(cid:282)(cid:349)(cid:374)(cid:336)(cid:3)
+(cid:410)(cid:381)(cid:3)(cid:258)(cid:3)(cid:272)(cid:286)(cid:396)(cid:410)(cid:258)(cid:349)(cid:374)(cid:3)(cid:373)(cid:286)(cid:410)(cid:346)(cid:381)(cid:282)(cid:853)(cid:3)(cid:410)(cid:258)(cid:364)(cid:349)(cid:374)(cid:336)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:448)(cid:286)(cid:396)(cid:415)(cid:272)(cid:258)(cid:367)(cid:3)(cid:258)(cid:454)(cid:349)(cid:400)(cid:3)(cid:258)(cid:400)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:396)(cid:286)(cid:336)(cid:349)(cid:381)(cid:374)(cid:258)(cid:367)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:381)(cid:400)(cid:349)(cid:410)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:894)(cid:258)(cid:448)(cid:286)(cid:396)(cid:258)(cid:336)(cid:286)(cid:3)(cid:381)(cid:29
+
+[Truncated linked content excerpt.]

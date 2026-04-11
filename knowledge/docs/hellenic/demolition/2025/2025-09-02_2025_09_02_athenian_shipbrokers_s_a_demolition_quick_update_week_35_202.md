@@ -4,25 +4,27 @@ commodities: []
 date: '2025-09-02'
 doc_id: hellenic_demolition_2025-09-02_2025_09_02_athenian_shipbrokers_s_a_demolition_quick_update_week_35_202
 document_type: demolition_update
-key_entities: []
+key_entities:
+- China
 keywords:
+- china
+- india
 - athenian
 - shipbrokers
-- athenian-shipbrokers-s-a-demolition-quick-update-week-35-202_img1.jpg
+- any
 - demolition
-- image
-- main
-- recycling
-- reference
 - s.a.
-- ship
-- source
+- asset
+- atheniansa.gr
+- august
+- bangladesh
+- chartering
 market_tone: neutral
 regions:
 - india
 - china
 - europe
-section_count: 1
+section_count: 2
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-09-02_athenian-shipbrokers-s-a-demolition-quick-update-week-35-202.html
@@ -36,14 +38,81 @@ summary: 'Main
 
   Athenian Shipbrokers SA Ship Recycling Weekly Report
 
-  Source: ATHENIAN SHIPBROKERS S.A.'
+  Source: ATHENIAN SHIPBROKERS S.A. Linked asset: 2025-09-02_Week_35_Athenian_Demo_Report.pdf
+
+  Source asset: reports/hellenic/demolition/pdfs/2025-09-02_Week_35_Athenian_Demo_Report.pdf
+
+
+  [Page 1]
+
+  Vasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE
+
+  Tel:+30 210 9659700 -Fax: +30 210 8996040
+
+  Email S & P: athenian@atheniansa.gr / Email Chartering: chartering@atheniansa.gr
+
+  Ship Recycling Market Report
+
+  Week 35 (25th August 2025 to 31st August 2025)
+
+  India Bangladesh Pakistan Turkey
+
+  WEEKLY TREND: Upwards
+
+  $US/LT Ldt
+
+  $445 $420 $425 $251
+
+  $460 $440 $445 $261
+
+  $475 $450 $440 $281
+
+  Yearly Demolition 2010-2025
+
+  Mio Tons DWT
+
+  60
+
+  55.8
+
+  50 47
+
+  44.6
+
+  40 40 38.8
+
+  34.3 35.3
+
+  30 30.4
+
+  26
+
+  23.2 23.7
+
+  20 16.9
+
+  12.5
+
+  10.5 9.85
+
+  10 6.45
+
+  0
+
+  2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+  PLEASED TO GUIDE YOU FURTHER WITH ANY DEMOLITION REQUIREMENTS YOU MAY HAVE, ALWAYS
+  WITH FIRST
+
+  CLASS CASH BUYERS/SHIP RECYCLERS FOR DELY TURKEY / INDIA / BANGLADESH / PAKISTAN
+  / CHINA RANGE. www.atheniansa.c'
 themes:
+- china
+- india
 - athenian
 - shipbrokers
-- athenian-shipbrokers-s-a-demolition-quick-update-week-35-202_img1.jpg
+- any
 - demolition
-- image
-- main
 title: Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 35, 2025
 vessel_classes:
 - capesize
@@ -61,10 +130,81 @@ Main
 in Weekly Demolition Reports 02/09/2025
 Image reference: 2025-09-02_athenian-shipbrokers-s-a-demolition-quick-update-week-35-202_img1.jpg
 Athenian Shipbrokers SA Ship Recycling Weekly Report
-Source: ATHENIAN SHIPBROKERS S.A.
+Source: ATHENIAN SHIPBROKERS S.A. Linked asset: 2025-09-02_Week_35_Athenian_Demo_Report.pdf
+Source asset: reports/hellenic/demolition/pdfs/2025-09-02_Week_35_Athenian_Demo_Report.pdf
+
+[Page 1]
+Vasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE
+Tel:+30 210 9659700 -Fax: +30 210 8996040
+Email S & P: athenian@atheniansa.gr / Email Chartering: chartering@atheniansa.gr
+Ship Recycling Market Report
+Week 35 (25th August 2025 to 31st August 2025)
+India Bangladesh Pakistan Turkey
+WEEKLY TREND: Upwards
+$US/LT Ldt
+$445 $420 $425 $251
+$460 $440 $445 $261
+$475 $450 $440 $281
+Yearly Demolition 2010-2025
+Mio Tons DWT
+60
+55.8
+50 47
+44.6
+40 40 38.8
+34.3 35.3
+30 30.4
+26
+23.2 23.7
+20 16.9
+12.5
+10.5 9.85
+10 6.45
+0
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+PLEASED TO GUIDE YOU FURTHER WITH ANY DEMOLITION REQUIREMENTS YOU MAY HAVE, ALWAYS WITH FIRST
+CLASS CASH BUYERS/SHIP RECYCLERS FOR DELY TURKEY / INDIA / BANGLADESH / PAKISTAN / CHINA RANGE. www.atheniansa.c
 
 ## Main
 in Weekly Demolition Reports 02/09/2025
 Image reference: 2025-09-02_athenian-shipbrokers-s-a-demolition-quick-update-week-35-202_img1.jpg
 Athenian Shipbrokers SA Ship Recycling Weekly Report
 Source: ATHENIAN SHIPBROKERS S.A.
+
+## Linked asset: 2025-09-02_Week_35_Athenian_Demo_Report.pdf
+Source asset: reports/hellenic/demolition/pdfs/2025-09-02_Week_35_Athenian_Demo_Report.pdf
+
+[Page 1]
+Vasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE
+Tel:+30 210 9659700 -Fax: +30 210 8996040
+Email S & P: athenian@atheniansa.gr / Email Chartering: chartering@atheniansa.gr
+Ship Recycling Market Report
+Week 35 (25th August 2025 to 31st August 2025)
+India Bangladesh Pakistan Turkey
+WEEKLY TREND: Upwards
+$US/LT Ldt
+$445 $420 $425 $251
+$460 $440 $445 $261
+$475 $450 $440 $281
+Yearly Demolition 2010-2025
+Mio Tons DWT
+60
+55.8
+50 47
+44.6
+40 40 38.8
+34.3 35.3
+30 30.4
+26
+23.2 23.7
+20 16.9
+12.5
+10.5 9.85
+10 6.45
+0
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+PLEASED TO GUIDE YOU FURTHER WITH ANY DEMOLITION REQUIREMENTS YOU MAY HAVE, ALWAYS WITH FIRST
+CLASS CASH BUYERS/SHIP RECYCLERS FOR DELY TURKEY / INDIA / BANGLADESH / PAKISTAN / CHINA RANGE.
+www.atheniansa.com
+Disclaimer: Information and data that appear in this report have been obtained from various sources which are believed to be correct and reliable. However, Athenian Shipbrokers S.A. does not guarantee their accuracy or completeness and therefore cannot be held liable for any loss incurred as a result of reliance in any way whatsoever on the information contained herein
+Infographic Copyrights(c)2021 All Rights Reserverd Athenian Shipbrokers S.A.

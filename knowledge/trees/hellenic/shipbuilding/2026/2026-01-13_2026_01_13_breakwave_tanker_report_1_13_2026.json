@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 1.13.2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 13/01/2026\nVLCC Futures Curve in Contango as Optimism Returns - Following the stabilization observed in mid-December,\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 13/01/2026\nVLCC Futures Curve in Contango as Optimism Returns - Following the stabilization observed in mid-December,\nSource: Breakwave Advisors\n\nLinked asset: 2026-01-13_BreakwaveTankersJanuary132026Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-01-13_BreakwaveTankersJanuary132026Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJanuary 13, 2026\n• VLCC Futures Curve in Contango as Optimism Returns - Following the\nShort-term Indicators\nstabilization observed in mid-December, the Very Large Crude Carrier (VLCC) spot\nMomentum: Neutral\nmarket has entered the new year with a cautious outlook, as charterers leverage\npersistent oversupply and limited forward-coverage urgency to pressure freight Sentiment: Positive\nrates. While geopolitical volatility in regions like Iran and Venezuela has buoyed Fundamentals: Positive\noptimism in the freight futures market, the immediate impact on VLCC demand\nremains constrained; specifically, the shift of Venezuelan exports toward the U.S. favors Aframax and Suezmax vessels, thereby reducing overall tonne-mile\nBreakwave Tanker 1766\nintensity.",
   "keywords": [
     "vlcc",
-    "contango",
-    "curve",
-    "following",
-    "main",
-    "mid-december",
-    "observed",
-    "optimism",
-    "returns",
-    "shipbuilding",
-    "source",
-    "stabilization"
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "funds",
+    "not",
+    "crude"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 41,
+  "token_count": 1672,
   "source_path": "reports/hellenic/shipbuilding/2026/2026-01-13_breakwave-tanker-report-1-13-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-1-13-2026",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 39,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-01-13_2026_01_13_breakwave_tanker_report_1_13_2026__s02_linked_asset_2026_01_13_breakwavetankersjanuary132026report_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-01-13_2026_01_13_breakwave_tanker_report_1_13_2026",
+      "parent_id": "hellenic_shipbuilding_2026-01-13_2026_01_13_breakwave_tanker_report_1_13_2026__root",
+      "title": "Linked asset: 2026-01-13_BreakwaveTankersJanuary132026Report.pdf",
+      "section_path": [
+        "Linked asset: 2026-01-13_BreakwaveTankersJanuary132026Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-01-13_BreakwaveTankersJanuary132026Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-01-13_BreakwaveTankersJanuary132026Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nJanuary 13, 2026\n• VLCC Futures Curve in Contango as Optimism Returns - Following the\nShort-term Indicators\nstabilization observed in mid-December, the Very Large Crude Carrier (VLCC) spot\nMomentum: Neutral\nmarket has entered the new year with a cautious outlook, as charterers leverage\npersistent oversupply and limited forward-coverage urgency to pressure freight Sentiment: Positive\nrates. While geopolitical volatility in regions like Iran and Venezuela has buoyed Fundamentals: Positive\noptimism in the freight futures market, the immediate impact on VLCC demand\nremains constrained; specifically, the shift of Venezuelan exports toward the U.S.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1609,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 17/03/2025\nImage reference: 2025-03-17_gms-week-11-splurging-end_img1.jpg\nAfter what has certainly been a hectic January of negotiations and a late February / early March of unending deliveries with nearly200K of LDT delivered in recent weeks, a period of calm reflection descended across Indian sub-continent ship recycling markets with an alarmingly minimal number of deals being fixed over recent weeks including this one. And ever since prices have been at and even well under the now chased after USD 450s/LDT across the board (as confirmed via last week's logger sale into Bangladesh), barely any sales have even been rumored to take place. Speaking of, Bangladesh remains ahead of its regional competitors with (weakening) levels still emanating from India and an inadvertently more competitive / stable Pakistan not far behind, snapping on their heels for the slim picking of units available.",
   "keywords": [
+    "lng",
     "container",
     "china",
+    "brazil",
+    "atlantic",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "grain",
     "crude_oil",
-    "steel",
-    "are",
-    "after",
-    "bangladesh",
-    "finally",
-    "now",
-    "pakistan"
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 789,
+  "token_count": 7640,
   "source_path": "reports/hellenic/demolition/2025/2025-03-17_gms-week-11-splurging-end.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-11-splurging-end",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 787,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-03-17_2025_03_17_gms_week_11_splurging_end__s02_linked_asset_2025_03_17_ship_recycling_market_insight_week_11_03_14_2025_spluring_end_pdf",
+      "doc_id": "hellenic_demolition_2025-03-17_2025_03_17_gms_week_11_splurging_end",
+      "parent_id": "hellenic_demolition_2025-03-17_2025_03_17_gms_week_11_splurging_end__root",
+      "title": "Linked asset: 2025-03-17_Ship-recycling-market-insight-Week-11-03-14-2025-Spluring_End.pdf",
+      "section_path": [
+        "Linked asset: 2025-03-17_Ship-recycling-market-insight-Week-11-03-14-2025-Spluring_End.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-03-17_Ship-recycling-market-insight-Week-11-03-14-2025-Spluring_End.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-03-17_Ship-recycling-market-insight-Week-11-03-14-2025-Spluring_End.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\n1\nMarch 14th, 2025 \"Never be afraid to try something new. Week 11 Remember, amateurs built the ark.",
+      "keywords": [
+        "lng",
+        "container",
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6816,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

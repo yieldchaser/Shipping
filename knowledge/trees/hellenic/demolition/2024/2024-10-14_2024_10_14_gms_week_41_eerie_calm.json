@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 14/10/2024\nImage reference: 2024-10-14_gms-week-41-eerie-calm_img1.jpg\nA comparatively (and mercifully) quieter week (in comparison to those past) ensued, not only across the warring landscapes but evena static sub-continent ship recycling market that refuses to show any signs of stability (far from any marked improvement), as our world spins through its final lap around the sun. In the ‘hot-zone', other than ongoing skirmishes in the Russia - Ukraine war as well as the regular state of incursions by Israel into Gaza in the West and Lebanon in the North, the world (and global economies) terrifyingly await Israel's deadly and pending incursion(s) against Iran, which it says will primarily be aimed at crippling key economic sectors of the Iranian nation, resulting in crude oil already on the rise in anticipation of such an attack. As an eerie calm descended across tense global economies including a destitute ship recycling sector, it truly has been a hot minute since a regular supply of a decent variety of vessels has been available on the regular (likely the worst in a decade), as levels themselves having declined by over USD 100/LDT since the peaks",
   "keywords": [
     "capesize",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "grain",
     "crude_oil",
+    "products",
     "steel",
-    "recycling",
-    "ship",
-    "are",
-    "global",
-    "any",
-    "economies"
+    "recycling"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 789,
+  "token_count": 5798,
   "source_path": "reports/hellenic/demolition/2024/2024-10-14_gms-week-41-eerie-calm.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-41-eerie-calm",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 787,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-10-14_2024_10_14_gms_week_41_eerie_calm__s02_linked_asset_2024_10_14_ship_recycling_market_insight_week_41_10_11_2024_eerie_calm_pdf",
+      "doc_id": "hellenic_demolition_2024-10-14_2024_10_14_gms_week_41_eerie_calm",
+      "parent_id": "hellenic_demolition_2024-10-14_2024_10_14_gms_week_41_eerie_calm__root",
+      "title": "Linked asset: 2024-10-14_Ship-recycling-market-insight-Week-41-10-11-2024-Eerie_Calm.pdf",
+      "section_path": [
+        "Linked asset: 2024-10-14_Ship-recycling-market-insight-Week-41-10-11-2024-Eerie_Calm.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-10-14_Ship-recycling-market-insight-Week-41-10-11-2024-Eerie_Calm.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-10-14_Ship-recycling-market-insight-Week-41-10-11-2024-Eerie_Calm.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nOctober 11th, 2024\n1\n\"Never burn bridges. Today's junior jerk, tomorrow's senior partner.\"\nWeek 41\n- Sigourney Weaver\nVolume 265, Issue 1155\nHighlig hts: -- MARKET COMMENTARY --\nEERIE CALM!!",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4974,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

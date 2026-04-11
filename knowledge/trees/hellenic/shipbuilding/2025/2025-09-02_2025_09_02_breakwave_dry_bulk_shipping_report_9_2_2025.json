@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 9.2.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 02/09/2025\nCapesize Enters September on a High Note - Following one of the strongest Augusts in recent history for Capesize spot rates,\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 02/09/2025\nCapesize Enters September on a High Note - Following one of the strongest Augusts in recent history for Capesize spot rates,\nSource: Breakwave Advisors\n\nLinked asset: 2025-09-02_BreakwaveDrySeptember22025Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-09-02_BreakwaveDrySeptember22025Report.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nSeptember 2, 2025\n• Capesize Enters September on a High Note - Following one of the strongest\nShort-term Indicators\nAugusts in recent history for Capesize spot rates, early September appears\nMomentum: Neutral\nequally promising for large bulk carriers. In the Atlantic basin, steady demand has\nabsorbed the excess tonnage that accumulated in recent weeks, keeping rates firm. Sentiment: Neutral\nIn the Pacific, robust iron ore exports from Australia continue to drive demand and Fundamentals: Neutral\nattract tonnage, thereby limiting the number of ballasting vessels.",
   "keywords": [
     "capesize",
-    "augusts",
-    "enters",
-    "following",
-    "high",
-    "history",
-    "main",
-    "note",
-    "one",
-    "recent",
-    "september",
-    "shipbuilding"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 48,
+  "token_count": 1579,
   "source_path": "reports/hellenic/shipbuilding/2025/2025-09-02_breakwave-dry-bulk-shipping-report-9-2-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-2-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 46,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-09-02_2025_09_02_breakwave_dry_bulk_shipping_report_9_2_2025__s02_linked_asset_2025_09_02_breakwavedryseptember22025report_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-09-02_2025_09_02_breakwave_dry_bulk_shipping_report_9_2_2025",
+      "parent_id": "hellenic_shipbuilding_2025-09-02_2025_09_02_breakwave_dry_bulk_shipping_report_9_2_2025__root",
+      "title": "Linked asset: 2025-09-02_BreakwaveDrySeptember22025Report.pdf",
+      "section_path": [
+        "Linked asset: 2025-09-02_BreakwaveDrySeptember22025Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-09-02_BreakwaveDrySeptember22025Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-09-02_BreakwaveDrySeptember22025Report.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nSeptember 2, 2025\n• Capesize Enters September on a High Note - Following one of the strongest\nShort-term Indicators\nAugusts in recent history for Capesize spot rates, early September appears\nMomentum: Neutral\nequally promising for large bulk carriers. In the Atlantic basin, steady demand has\nabsorbed the excess tonnage that accumulated in recent weeks, keeping rates firm.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1510,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

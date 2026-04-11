@@ -14,19 +14,19 @@
     "china",
     "brazil",
     "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
+    "fines",
     "ore",
     "iron",
-    "million",
-    "month",
-    "tons",
-    "yuan/mt",
-    "compared"
+    "jul"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 367,
+  "token_count": 11144,
   "source_path": "reports/hellenic/iron_ore/2023/2023-07-24_mmi-daily-iron-ore-index-report-july-24-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-24-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 365,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2023-07-24_2023_07_24_mmi_daily_iron_ore_index_report_july_24_2023__s02_linked_asset_2023_07_24_mmi_daily_iron_ore_report_for_24th_july_pdf",
+      "doc_id": "hellenic_iron_ore_2023-07-24_2023_07_24_mmi_daily_iron_ore_index_report_july_24_2023",
+      "parent_id": "hellenic_iron_ore_2023-07-24_2023_07_24_mmi_daily_iron_ore_index_report_july_24_2023__root",
+      "title": "Linked asset: 2023-07-24_MMi-Daily-Iron-Ore-Report-for-24th-July.pdf",
+      "section_path": [
+        "Linked asset: 2023-07-24_MMi-Daily-Iron-Ore-Report-for-24th-July.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-07-24_MMi-Daily-Iron-Ore-Report-for-24th-July.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2023-07-24_MMi-Daily-Iron-Ore-Report-for-24th-July.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Jul 24th, 2023\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n912 1023 783\n9 0.98% 9.00 0.89% 1 0.17%\nJul 24th, 2023 Jul 24th, 2023 Jul 24th, 2023\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n101.10 149.35 990\n0.00 0.00% 0.00 0.00% 10 1.02%\nJul 24th, 2023 Jul 24th, 2023 Week Ending Jul 21st, 2023\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2309 (Jan) RMB/t (3pm close) August 23 USD/dmt RB2310 (Jan) RMB/t\n843.00 112.45 3793\nz\n-3.50 -0.41% -1.00 -0.88% -30 -0.78%\nJul 24th, 2023 (3pm close) Jul 24th, 2023 (5.30 pm Print) Jul 24th, 2023 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n19.12 7.67 3730\n0.04 0.20% ",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10749,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

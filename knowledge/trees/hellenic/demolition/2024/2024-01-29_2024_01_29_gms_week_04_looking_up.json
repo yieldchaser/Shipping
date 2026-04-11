@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 29/01/2024\nImage reference: 2024-01-29_gms-week-04-looking-up_img1.jpg\nOngoing geopolitical events and the recently unfolding conflict in the Middle East have certainlymanaged to keep global trading lanes busier and the freight markets unseasonably high, all at a time when many had been expecting the Dry Bulk & Container sectors to cool off as the industry approaches the traditionally quieter Chinese New Year holidays early next month. Moreover, as ship recycling sentiments & vessel prices started to inch up in both Pakistan & Bangladesh over the last several weeks, sub-continent recycling markets finally seemed poised to be gathering some much-needed steam. Unfortunately for both destinations, apart from the steady stream of HKC only MSC containers that have been committed (4 in 4 weeks in 2024 thus far) to a limited number of pre-approved Alang yards, the ever-persistent hope for an increase in the supply of tonnage has yet to manifest itself in the ship recycling world.",
   "keywords": [
+    "lpg",
     "container",
     "china",
+    "brazil",
     "europe",
     "india",
+    "singapore",
     "japan",
+    "crude_oil",
     "steel",
-    "recycling",
-    "ship",
-    "are",
-    "bangladesh",
-    "further",
-    "last"
+    "gas",
+    "recycling"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 539,
+  "token_count": 4945,
   "source_path": "reports/hellenic/demolition/2024/2024-01-29_gms-week-04-looking-up.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-04-looking-up",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 537,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-01-29_2024_01_29_gms_week_04_looking_up__s02_linked_asset_2024_01_29_ship_recycling_market_insight_week_04_2024_2024_looking_up_pdf",
+      "doc_id": "hellenic_demolition_2024-01-29_2024_01_29_gms_week_04_looking_up",
+      "parent_id": "hellenic_demolition_2024-01-29_2024_01_29_gms_week_04_looking_up__root",
+      "title": "Linked asset: 2024-01-29_Ship-recycling-market-insight-week-04-2024-2024-Looking-Up.pdf",
+      "section_path": [
+        "Linked asset: 2024-01-29_Ship-recycling-market-insight-week-04-2024-2024-Looking-Up.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-01-29_Ship-recycling-market-insight-week-04-2024-2024-Looking-Up.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-01-29_Ship-recycling-market-insight-week-04-2024-2024-Looking-Up.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nJanuary 2 6th, 2024\n\"If you don't fall, how are you going to know what getting up is like?\"\nVolume 257, Issue 1119\nWeek 4 - Steph Curry\nHighlights: MARKET COMMENTARY\nLOOKING UP? \"There are only two options regarding commitment.",
+      "keywords": [
+        "lpg",
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4373,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

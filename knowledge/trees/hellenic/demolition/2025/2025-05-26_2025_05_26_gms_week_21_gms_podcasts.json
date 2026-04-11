@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 26/05/2025\nImage reference: 2025-05-26_gms-week-21-gms-podcasts_img1.jpg\nGMS is pleased to announce a new social-media avenue to reach our readers on the go with the launch of GMS Podcasts,a brand-new series focused on the upcoming enforcement of the Hong Kong Convention as it goes live on June 26th, 2025, across all sub-continent ship recycling markets. GMS Podcasts will be an avenue to address increasingly important topics across the maritime and ship recycling spaces, bringing them to the fore for a wider audience with the help of the latest AI tools. Episode 1 is now live covering the origins of the HKC, the countries and people behind it, what a post June 26th world means for the future of ship recycling, and what ship owners should prepare for when they eventually decide to pull out their recycling charts.",
   "keywords": [
+    "lng",
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "recycling",
-    "ship",
-    "gms",
-    "hkc",
-    "are",
-    "end",
-    "global",
+    "steel",
+    "gas",
+    "ldt",
     "june"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 791,
+  "token_count": 7321,
   "source_path": "reports/hellenic/demolition/2025/2025-05-26_gms-week-21-gms-podcasts.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-21-gms-podcasts",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 789,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-05-26_2025_05_26_gms_week_21_gms_podcasts__s02_linked_asset_2025_05_26_ship_recycling_market_insight_week_21_05_23_2025_gms_podcasts_pdf",
+      "doc_id": "hellenic_demolition_2025-05-26_2025_05_26_gms_week_21_gms_podcasts",
+      "parent_id": "hellenic_demolition_2025-05-26_2025_05_26_gms_week_21_gms_podcasts__root",
+      "title": "Linked asset: 2025-05-26_Ship-recycling-market-insight-Week-21-05-23-2025-GMS_Podcasts.pdf",
+      "section_path": [
+        "Linked asset: 2025-05-26_Ship-recycling-market-insight-Week-21-05-23-2025-GMS_Podcasts.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-05-26_Ship-recycling-market-insight-Week-21-05-23-2025-GMS_Podcasts.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-05-26_Ship-recycling-market-insight-Week-21-05-23-2025-GMS_Podcasts.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nMay 24th, 2025\n1\n\"If everyone is thinking alike, then somebody isn't thinking.\"\nWeek 21\nVolume 272, Issue 1186 - General George Patton\nHighlig hts: -- MARKET COMMENTARY --\nGMS PODCASTS! \"There are only two options regarding commitment.",
+      "keywords": [
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6494,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

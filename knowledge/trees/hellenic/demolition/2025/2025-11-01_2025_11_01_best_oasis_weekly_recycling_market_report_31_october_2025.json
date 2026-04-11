@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 31 October 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 01/11/2025\nThe Indian market has finally shown a very slight sign of hope, indicating a possible improvement after a prolonged quiet period.",
+  "summary": "Main\nin Weekly Demolition Reports 01/11/2025\nThe Indian market has finally shown a very slight sign of hope, indicating a possible improvement after a prolonged quiet period. Source: Best Oasis Limited\n\nLinked asset: 2025-11-01_Weekly-Ship-Recycling-Report-25-October-31-October-2025_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-11-01_Weekly-Ship-Recycling-Report-25-October-31-October-2025_compressed.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(25 OCTOBER - 31 OCTOBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe Indian market has finally shown a very slight sign of hope, indicating a possible\nimprovement after a prolonged quiet period. dollar has strengthened considerably, limiting any positive impact\nthis minor shift could have brought.",
   "keywords": [
+    "container",
+    "china",
     "india",
-    "after",
+    "steel",
+    "any",
+    "previous",
+    "remains",
+    "usd",
+    "are",
+    "bangladesh",
     "best",
-    "demolition",
-    "finally",
-    "hope",
-    "improvement",
-    "indian",
-    "indicating",
-    "limited",
-    "main",
-    "oasis"
+    "limited"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 44,
+  "token_count": 1044,
   "source_path": "reports/hellenic/demolition/2025/2025-11-01_best-oasis-weekly-recycling-market-report-31-october-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-31-october-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 42,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-11-01_2025_11_01_best_oasis_weekly_recycling_market_report_31_october_2025__s02_linked_asset_2025_11_01_weekly_ship_recycling_report_25_october_31_october_2025_compressed_pdf",
+      "doc_id": "hellenic_demolition_2025-11-01_2025_11_01_best_oasis_weekly_recycling_market_report_31_october_2025",
+      "parent_id": "hellenic_demolition_2025-11-01_2025_11_01_best_oasis_weekly_recycling_market_report_31_october_2025__root",
+      "title": "Linked asset: 2025-11-01_Weekly-Ship-Recycling-Report-25-October-31-October-2025_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-01_Weekly-Ship-Recycling-Report-25-October-31-October-2025_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-01_Weekly-Ship-Recycling-Report-25-October-31-October-2025_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-11-01_Weekly-Ship-Recycling-Report-25-October-31-October-2025_compressed.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(25 OCTOBER - 31 OCTOBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe Indian market has finally shown a very slight sign of hope, indicating a possible\nimprovement after a prolonged quiet period. dollar has strengthened considerably, limiting any positive impact\nthis minor shift could have brought.",
+      "keywords": [
+        "container",
+        "china",
+        "india",
+        "steel",
+        "any",
+        "previous",
+        "remains",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 965,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

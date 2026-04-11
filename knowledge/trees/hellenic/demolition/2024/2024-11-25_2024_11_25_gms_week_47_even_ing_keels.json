@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 25/11/2024\nImage reference: 2024-11-25_gms-week-47-even-ing-keels_img1.jpg\nAs tensions escalate across the warring landscapes, economies continue to react in kind as volatility seems to have largely resumed acrossthe global maritime landscape, with both crude oil and the Baltic Exchange maintaining new directions from last week. As barrel futures climbed 1.6% to $71.2 by close of Friday (marking an over 5% increase overall), it further added a layer of geopolitical ‘risk premium' to oil prices. Moreover, on the one hand, as the Russia - Ukraine conflict rages on and the U.S.",
   "keywords": [
     "capesize",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
+    "products",
     "steel",
     "recycling",
-    "its",
-    "chinese",
-    "continue",
-    "global",
-    "seen"
+    "ship"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 810,
+  "token_count": 7117,
   "source_path": "reports/hellenic/demolition/2024/2024-11-25_gms-week-47-even-ing-keels.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-47-even-ing-keels",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 808,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-11-25_2024_11_25_gms_week_47_even_ing_keels__s02_linked_asset_2024_11_25_ship_recycling_market_insight_week_47_11_22_2024_even_ing_keels_pdf",
+      "doc_id": "hellenic_demolition_2024-11-25_2024_11_25_gms_week_47_even_ing_keels",
+      "parent_id": "hellenic_demolition_2024-11-25_2024_11_25_gms_week_47_even_ing_keels__root",
+      "title": "Linked asset: 2024-11-25_Ship-recycling-market-insight-Week-47-11-22-2024-Even-ing_Keels.pdf",
+      "section_path": [
+        "Linked asset: 2024-11-25_Ship-recycling-market-insight-Week-47-11-22-2024-Even-ing_Keels.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-11-25_Ship-recycling-market-insight-Week-47-11-22-2024-Even-ing_Keels.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-11-25_Ship-recycling-market-insight-Week-47-11-22-2024-Even-ing_Keels.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nNovember 22nd, 2024\n1\n\\\n\" Whatever you do, always give 100 percent. Unless you're donating blood.\"\nWeek 47\nVolume 266, Issue 1161 - Bill Murray\nHighlig hts: -- MARKET COMMENTARY --\nEVEN-ING KEELS!",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6270,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 5.6.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 06/05/2025\nSpot VLCC Rates Ease Following Recent Strong Rally - Over the past few weeks, positional imbalances have pushed freight rates toward the upper\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 06/05/2025\nSpot VLCC Rates Ease Following Recent Strong Rally - Over the past few weeks, positional imbalances have pushed freight rates toward the upper\nSource: Breakwave Advisors\n\nLinked asset: 2025-05-06_BreakwaveTankersMay62025Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-05-06_BreakwaveTankersMay62025Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 6, 2025\n• Spot VLCC Rates Ease Following Recent Strong Rally - Over the past few Short-term Indicators\nweeks, positional imbalances have pushed freight rates toward the upper end of the\nMomentum: Positive\nrecent range and at relatively flat levels versus last year. However, they remain\nSentiment: Positive\nsubdued compared to historical averages, primarily due to the ongoing constrained\nFundamentals: Positive\nMiddle East export volumes, which continue to negatively impact demand. Recently,\nsentiment has shifted, as OPEC appears to plan a significant increase in oil\nproduction over the coming months.",
   "keywords": [
     "vlcc",
-    "ease",
-    "few",
-    "following",
-    "imbalances",
-    "main",
-    "past",
-    "positional",
-    "pushed",
-    "rally",
-    "recent",
-    "shipbuilding"
+    "suezmax",
+    "china",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "gas",
+    "oil",
+    "funds",
+    "demand",
+    "are",
+    "crude"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 47,
+  "token_count": 1731,
   "source_path": "reports/hellenic/shipbuilding/2025/2025-05-06_breakwave-tanker-report-5-6-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-5-6-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 45,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-05-06_2025_05_06_breakwave_tanker_report_5_6_2025__s02_linked_asset_2025_05_06_breakwavetankersmay62025report_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-05-06_2025_05_06_breakwave_tanker_report_5_6_2025",
+      "parent_id": "hellenic_shipbuilding_2025-05-06_2025_05_06_breakwave_tanker_report_5_6_2025__root",
+      "title": "Linked asset: 2025-05-06_BreakwaveTankersMay62025Report.pdf",
+      "section_path": [
+        "Linked asset: 2025-05-06_BreakwaveTankersMay62025Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-05-06_BreakwaveTankersMay62025Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-05-06_BreakwaveTankersMay62025Report.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 6, 2025\n• Spot VLCC Rates Ease Following Recent Strong Rally - Over the past few Short-term Indicators\nweeks, positional imbalances have pushed freight rates toward the upper end of the\nMomentum: Positive\nrecent range and at relatively flat levels versus last year. However, they remain\nSentiment: Positive\nsubdued compared to historical averages, primarily due to the ongoing constrained\nFundamentals: Positive\nMiddle East export volumes, which continue to negatively impact demand.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "gas",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1662,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

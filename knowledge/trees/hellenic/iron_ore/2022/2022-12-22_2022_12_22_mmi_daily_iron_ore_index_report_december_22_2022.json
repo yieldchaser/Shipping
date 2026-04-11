@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 22/12/2022\nDCE iron ore futures rose by 0.68% today, the main contract closed 817.5. The traders' willingness to ship is less.The steel mills are wait and see.The overall trading sentiment of the market isworse. PBF at Tangshan port dealt 829-830 yuan/mt, SSF at Tangshan port dealt 692 yuan/ mt .According to the inventory data of the top ten ports tracked by SMM, the total inventory of the top ten ports fell 0.4% month on month to 90.17 million tons this week.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
+    "fines",
     "ore",
     "iron",
-    "inventory",
-    "port",
-    "prices",
-    "data",
-    "dealt",
-    "end",
-    "main"
+    "dec"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 300,
+  "token_count": 10219,
   "source_path": "reports/hellenic/iron_ore/2022/2022-12-22_mmi-daily-iron-ore-index-report-december-22-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-december-22-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 298,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2022-12-22_2022_12_22_mmi_daily_iron_ore_index_report_december_22_2022__s02_linked_asset_2022_12_22_mmi_daily_iron_ore_report_for_22th_december_2022_compressed_pdf",
+      "doc_id": "hellenic_iron_ore_2022-12-22_2022_12_22_mmi_daily_iron_ore_index_report_december_22_2022",
+      "parent_id": "hellenic_iron_ore_2022-12-22_2022_12_22_mmi_daily_iron_ore_index_report_december_22_2022__root",
+      "title": "Linked asset: 2022-12-22_MMi-Daily-Iron-Ore-Report-for-22th-December-2022_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2022-12-22_MMi-Daily-Iron-Ore-Report-for-22th-December-2022_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-12-22_MMi-Daily-Iron-Ore-Report-for-22th-December-2022_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-12-22_MMi-Daily-Iron-Ore-Report-for-22th-December-2022_compressed.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Dec 22nd, 2022\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n833 945 727\n3 0.36% 3.00 0.32% 0 0.00%\nDec 22nd, 2022 Dec 22nd, 2022 Dec 22nd, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n111.95 116.75 920\n1.55 1.40% 2.00 1.74% -10 -1.08%\nDec 22nd, 2022 Dec 22nd, 2022 Week Ending Dec 16th, 2022\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2305 (Jan) RMB/t (3pm close) January 23 USD/dmt RB2305 (Jan) RMB/t\n817.50 111.00 4034\n-11.50 -1.39% -1.10 -0.98% 9 0.22%\nDec 22nd, 2022 (3pm close) Dec 22nd, 2022 (5.30 pm Print) Dec 22nd, 2022 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n23.22 9.1",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9886,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

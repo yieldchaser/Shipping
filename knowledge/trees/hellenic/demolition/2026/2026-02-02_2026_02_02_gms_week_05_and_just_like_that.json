@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "supramax",
+    "handysize",
     "lng",
+    "container",
     "china",
     "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "gas",
-    "recycling",
-    "markets"
+    "singapore",
+    "japan",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 752,
+  "token_count": 6667,
   "source_path": "reports/hellenic/demolition/2026/2026-02-02_gms-week-05-and-just-like-that.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-05-and-just-like-that",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 750,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-02-02_2026_02_02_gms_week_05_and_just_like_that__s02_linked_asset_2026_02_02_ship_recycling_market_insight_week_05_01_30_2026_and_just_ike_that_pdf",
+      "doc_id": "hellenic_demolition_2026-02-02_2026_02_02_gms_week_05_and_just_like_that",
+      "parent_id": "hellenic_demolition_2026-02-02_2026_02_02_gms_week_05_and_just_like_that__root",
+      "title": "Linked asset: 2026-02-02_Ship-recycling-market-insight-Week-05-01-30-2026-And_just_ike_that.pdf",
+      "section_path": [
+        "Linked asset: 2026-02-02_Ship-recycling-market-insight-Week-05-01-30-2026-And_just_ike_that.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-02-02_Ship-recycling-market-insight-Week-05-01-30-2026-And_just_ike_that.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-02-02_Ship-recycling-market-insight-Week-05-01-30-2026-And_just_ike_that.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nJanuary 3 0th, 2026\n1\n\"Tomorrow is the first blank page of a 365-page book. Write a good one.\"\nWeek 5\n- Brad Paisley\nVolume 280, Issue 1221\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "container",
+        "china",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5877,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 30/03/2026\nImage reference: 2026-03-30_gms-week-13-wait-goes-on_img1.jpg\nAs the world's ship recycling markets emerge from the Eid al-Fitr holidays, they do so into an environment thatcontinues to generate more questions than answers. The post-holiday reopening, always anticipated as a potential catalyst for pent-up activity, has instead delivered something more characteristic of the broader 2026 narrative: confusion. Steel plate prices played opposite roles in Pakistan and India this week, as Indian levels recorded an impressive jump while Pakistani levels continued to bleed, declining non-stop over the course of the last month now.",
   "keywords": [
+    "capesize",
+    "vlcc",
+    "lpg",
+    "container",
     "china",
+    "brazil",
     "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "levels",
-    "tonnage",
-    "recyclers",
-    "activity",
-    "against",
-    "are",
-    "bangladesh"
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 568,
+  "token_count": 5593,
   "source_path": "reports/hellenic/demolition/2026/2026-03-30_gms-week-13-wait-goes-on.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-13-wait-goes-on",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 566,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-30_2026_03_30_gms_week_13_wait_goes_on__s02_linked_asset_2026_03_30_ship_recycling_market_insight_week_13_03_27_2026_wait_goes_on_pdf",
+      "doc_id": "hellenic_demolition_2026-03-30_2026_03_30_gms_week_13_wait_goes_on",
+      "parent_id": "hellenic_demolition_2026-03-30_2026_03_30_gms_week_13_wait_goes_on__root",
+      "title": "Linked asset: 2026-03-30_Ship-recycling-market-insight-Week-13-03-27-2026-Wait-goes-on.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-30_Ship-recycling-market-insight-Week-13-03-27-2026-Wait-goes-on.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-30_Ship-recycling-market-insight-Week-13-03-27-2026-Wait-goes-on.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-03-30_Ship-recycling-market-insight-Week-13-03-27-2026-Wait-goes-on.pdf\n\n[Page 1]\n1. ` *I\n, l'\n-+Ali / +N\nMarch 27 th, 2026\n1\n\\\nWeek 13\n\"The two most powerful warriors are patience and time.\"\nVolume 2 82, Issue 1228 -Leo Tolstoy\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "lpg",
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4989,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

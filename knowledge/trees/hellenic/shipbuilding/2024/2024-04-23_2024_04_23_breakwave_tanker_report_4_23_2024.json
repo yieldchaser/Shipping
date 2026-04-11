@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Tanker Report 4.23.2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 23/04/2024\nVLCC Rates Continue to Soften Amid Subdued Activity and a Cautious Charterer Stance - With May fixing activity in full force, the VLCC freight market continued its descent\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 23/04/2024\nVLCC Rates Continue to Soften Amid Subdued Activity and a Cautious Charterer Stance - With May fixing activity in full force, the VLCC freight market continued its descent\nSource: Breakwave Advisors\n\nLinked asset: 2024-04-23_BreakwaveTankersApril232024Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-04-23_BreakwaveTankersApril232024Report.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nApril 23, 2024\nBreakwave Tanker Futures Index: 1,260 VLCC Middle East-Asia Spot Rates: $14.49 Short-term Indicators:\n↓ 30D: -7.9% ↓ 30D: -27.5% Momentum: Negative\n↑ YTD: 3.8% ↑ YTD: 9.4% Sentiment: Neutral\n↓ YOY: -5.6% ↓ YOY: -18.0% Fundamentals: Positive\nBi-Weekly Report\n• VLCC Rates Continue to Soften Amid Subdued Activity and a Cautious Charterer Stance - With May fixing activity in full\nforce, the VLCC freight market continued its descent, a trend evident across both the Atlantic and Pacific regions. Such\ndecline unfolded against a backdrop of subdued activity, mirroring the prevailing market sentiment. In the Middle East\nGulf, an area of significant VLCC activity, the market found itself in a transitional phase between April and May cargo dates,\n",
   "keywords": [
     "vlcc",
-    "activity",
-    "amid",
-    "cautious",
-    "charterer",
-    "continue",
-    "continued",
-    "descent",
-    "fixing",
-    "force",
-    "full",
-    "its"
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 58,
+  "token_count": 1523,
   "source_path": "reports/hellenic/shipbuilding/2024/2024-04-23_breakwave-tanker-report-4-23-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-4-23-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 56,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-04-23_2024_04_23_breakwave_tanker_report_4_23_2024__s02_linked_asset_2024_04_23_breakwavetankersapril232024report_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-04-23_2024_04_23_breakwave_tanker_report_4_23_2024",
+      "parent_id": "hellenic_shipbuilding_2024-04-23_2024_04_23_breakwave_tanker_report_4_23_2024__root",
+      "title": "Linked asset: 2024-04-23_BreakwaveTankersApril232024Report.pdf",
+      "section_path": [
+        "Linked asset: 2024-04-23_BreakwaveTankersApril232024Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-04-23_BreakwaveTankersApril232024Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-04-23_BreakwaveTankersApril232024Report.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nApril 23, 2024\nBreakwave Tanker Futures Index: 1,260 VLCC Middle East-Asia Spot Rates: $14.49 Short-term Indicators:\n↓ 30D: -7.9% ↓ 30D: -27.5% Momentum: Negative\n↑ YTD: 3.8% ↑ YTD: 9.4% Sentiment: Neutral\n↓ YOY: -5.6% ↓ YOY: -18.0% Fundamentals: Positive\nBi-Weekly Report\n• VLCC Rates Continue to Soften Amid Subdued Activity and a Cautious Charterer Stance - With May fixing activity in full\nforce, the VLCC freight market continued its descent, a trend evident across both the Atlantic and Pacific regions. Such\ndecline unfolded against a backdrop of subdued activity, mirroring the prevailing market sentiment.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "meg",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1443,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

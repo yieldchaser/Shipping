@@ -13,20 +13,20 @@
   "keywords": [
     "lng",
     "container",
+    "china",
+    "atlantic",
+    "europe",
     "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "steel",
     "gas",
-    "hkc",
-    "usd",
-    "are",
-    "bangladesh",
-    "certainly",
-    "committed",
-    "finally",
-    "gms"
+    "ldt"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 477,
+  "token_count": 4966,
   "source_path": "reports/hellenic/demolition/2023/2023-05-22_gms-week-20-upward-trajectory.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-20-upward-trajectory",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 475,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-05-22_2023_05_22_gms_week_20_upward_trajectory__s02_linked_asset_2023_05_22_ship_recycling_market_insight_week_20_2023_upward_trajectory_pdf",
+      "doc_id": "hellenic_demolition_2023-05-22_2023_05_22_gms_week_20_upward_trajectory",
+      "parent_id": "hellenic_demolition_2023-05-22_2023_05_22_gms_week_20_upward_trajectory__root",
+      "title": "Linked asset: 2023-05-22_Ship-recycling-market-insight-week-20-2023-Upward-Trajectory.pdf",
+      "section_path": [
+        "Linked asset: 2023-05-22_Ship-recycling-market-insight-week-20-2023-Upward-Trajectory.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-05-22_Ship-recycling-market-insight-week-20-2023-Upward-Trajectory.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-05-22_Ship-recycling-market-insight-week-20-2023-Upward-Trajectory.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nMay 19th , 2023\n\"It is never too late to be what you might have been.\"\nVolume 249, Issue 1083\n- George Elliott\nWeek 20\nHighlights: MARKET COMMENTARY\nUPWARD TRAJECTORY! \"There are only two options regarding commitment.",
+      "keywords": [
+        "lng",
+        "container",
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4458,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

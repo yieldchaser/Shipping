@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "panamax",
+    "lng",
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "grain",
     "crude_oil",
-    "steel",
-    "year",
-    "out",
-    "recycling",
-    "u.s."
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 760,
+  "token_count": 8278,
   "source_path": "reports/hellenic/demolition/2025/2025-12-22_wtdecember.html",
   "source_url": "https://www.hellenicshippingnews.com/wtdecember",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 758,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-12-22_2025_12_22_wtdecember__s02_linked_asset_2025_12_22_ship_recycling_market_insight_week_51_12_19_2025_wt_december_pdf",
+      "doc_id": "hellenic_demolition_2025-12-22_2025_12_22_wtdecember",
+      "parent_id": "hellenic_demolition_2025-12-22_2025_12_22_wtdecember__root",
+      "title": "Linked asset: 2025-12-22_Ship-recycling-market-insight-Week-51-12-19-2025-WT...December.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-22_Ship-recycling-market-insight-Week-51-12-19-2025-WT...December.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-22_Ship-recycling-market-insight-Week-51-12-19-2025-WT...December.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-12-22_Ship-recycling-market-insight-Week-51-12-19-2025-WT...December.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nDecembe r 19th, 2025\n1\n\"If you make it to hell, heck at least make it comfy.\"\nWeek 51\nVolume 2 79, Issue 1216 - Anonymous\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 7483,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

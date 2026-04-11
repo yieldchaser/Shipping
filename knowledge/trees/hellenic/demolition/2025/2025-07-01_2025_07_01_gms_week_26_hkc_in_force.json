@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 01/07/2025\nImage reference: 2025-07-01_gms-week-26-hkc-in-force_img1.jpg\nAfter decades of ongoing efforts, the Hong Kong Convention (HKC) finally entered into force this week with big changes underway for the industry, particularly in the Bangladeshiand Pakistani markets who still have a lot of work to do and catch up to the strides India has already made in upgrading their facilities over the last decade. This is certainly great news for stakeholders, ship owners, cash buyers, recyclers, and the environment at large, as positive strides at improving industry standards will further serve as a catalyst in the crucial circular world of shipping, we are all in today. Of course, in the short term, there is likely to be a testy period of transition whilst everyone in the industry gets accustomed to the changing regulations, inward formality procedures, and additional documents required when a vessel is being transacted for HKC recycling from here on.",
   "keywords": [
     "capesize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "pacific",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "steel",
-    "are",
-    "recycling",
-    "continue",
-    "hkc",
-    "last",
-    "owners",
-    "all"
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 731,
+  "token_count": 6149,
   "source_path": "reports/hellenic/demolition/2025/2025-07-01_gms-week-26-hkc-in-force.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-26-hkc-in-force",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 729,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-07-01_2025_07_01_gms_week_26_hkc_in_force__s02_linked_asset_2025_07_01_ship_recycling_market_insight_week_25_06_27_2025_hkc_in_force_pdf",
+      "doc_id": "hellenic_demolition_2025-07-01_2025_07_01_gms_week_26_hkc_in_force",
+      "parent_id": "hellenic_demolition_2025-07-01_2025_07_01_gms_week_26_hkc_in_force__root",
+      "title": "Linked asset: 2025-07-01_Ship-recycling-market-insight-Week-25-06-27-2025-HKC_In_Force.pdf",
+      "section_path": [
+        "Linked asset: 2025-07-01_Ship-recycling-market-insight-Week-25-06-27-2025-HKC_In_Force.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-07-01_Ship-recycling-market-insight-Week-25-06-27-2025-HKC_In_Force.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-07-01_Ship-recycling-market-insight-Week-25-06-27-2025-HKC_In_Force.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nJune 27th, 2025\n1\n\"Don't be the one to face problems. Become the one who delivers them.\"\nWeek 26\nVolume 273, Issue 1191 - Kamal Datta\nHighlig hts: -- MARKET COMMENTARY --\nHKC IN FORCE!",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5382,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

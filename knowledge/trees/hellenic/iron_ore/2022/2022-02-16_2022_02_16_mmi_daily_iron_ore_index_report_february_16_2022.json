@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 16/02/2022\nDCE iron ore futures continued to drop today, an decrease of 1.10% throughout the day; the main contract closed 720. The spot quotationin the morning was steady, afternoon upward. Some steel mills tended to be wait-and-see.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
-    "ore",
-    "yuan/mt",
-    "iron",
-    "dealt",
-    "increased",
-    "port",
-    "main",
-    "pbf",
-    "shandong"
+    "cid",
+    "fines",
+    "feb",
+    "high",
+    "change"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 285,
+  "token_count": 23979,
   "source_path": "reports/hellenic/iron_ore/2022/2022-02-16_mmi-daily-iron-ore-index-report-february-16-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-february-16-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 283,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2022-02-16_2022_02_16_mmi_daily_iron_ore_index_report_february_16_2022__s02_linked_asset_2022_02_16_mmi_daily_iron_ore_report_for_16th_february_2022_compressed_pdf",
+      "doc_id": "hellenic_iron_ore_2022-02-16_2022_02_16_mmi_daily_iron_ore_index_report_february_16_2022",
+      "parent_id": "hellenic_iron_ore_2022-02-16_2022_02_16_mmi_daily_iron_ore_index_report_february_16_2022__root",
+      "title": "Linked asset: 2022-02-16_MMi-Daily-Iron-Ore-Report-for-16th-February-2022_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2022-02-16_MMi-Daily-Iron-Ore-Report-for-16th-February-2022_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-02-16_MMi-Daily-Iron-Ore-Report-for-16th-February-2022_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-02-16_MMi-Daily-Iron-Ore-Report-for-16th-February-2022_compressed.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Feb 16th, 2022\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n928 1122 660\n6 0.65% 6.00 0.54% 3 0.46%\nFeb 16th, 2022 Feb 16th, 2022 Feb 16th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n152.60 182.70 1145\n0",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel",
+        "cid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23661,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

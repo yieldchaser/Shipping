@@ -13,20 +13,20 @@
   "keywords": [
     "panamax",
     "handysize",
+    "container",
     "china",
+    "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "prices",
-    "all",
-    "are",
-    "but",
-    "certainly",
-    "even",
-    "finally"
+    "gas",
+    "july",
+    "ldt"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 505,
+  "token_count": 4961,
   "source_path": "reports/hellenic/demolition/2023/2023-07-24_gms-week-29-decline-fall.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-29-decline-fall",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 503,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-07-24_2023_07_24_gms_week_29_decline_fall__s02_linked_asset_2023_07_24_ship_recycling_market_insight_week_29_2023_decline_and_fall_pdf",
+      "doc_id": "hellenic_demolition_2023-07-24_2023_07_24_gms_week_29_decline_fall",
+      "parent_id": "hellenic_demolition_2023-07-24_2023_07_24_gms_week_29_decline_fall__root",
+      "title": "Linked asset: 2023-07-24_Ship-recycling-market-insight-week-29-2023-Decline-and-Fall.pdf",
+      "section_path": [
+        "Linked asset: 2023-07-24_Ship-recycling-market-insight-week-29-2023-Decline-and-Fall.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-07-24_Ship-recycling-market-insight-week-29-2023-Decline-and-Fall.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-07-24_Ship-recycling-market-insight-week-29-2023-Decline-and-Fall.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nJuly 21st, 2023\n\"The only journeys we truly make are the ones within.\"\nVolume 251, Issue 1092\n- Anonymous\nWeek 29\nHighlights: MARKET COMMENTARY\nDECLINE & FALL! \"There are only two options regarding commitment.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4424,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

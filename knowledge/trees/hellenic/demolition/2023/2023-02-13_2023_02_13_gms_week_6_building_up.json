@@ -14,19 +14,19 @@
     "panamax",
     "container",
     "china",
+    "europe",
     "india",
-    "are",
-    "flow",
-    "markets",
-    "new",
-    "recycling",
-    "tonnage",
-    "year",
-    "after"
+    "singapore",
+    "japan",
+    "steel",
+    "february",
+    "ldt",
+    "bangladesh",
+    "are"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 462,
+  "token_count": 4722,
   "source_path": "reports/hellenic/demolition/2023/2023-02-13_gms-week-6-building-up.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-6-building-up",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 460,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-02-13_2023_02_13_gms_week_6_building_up__s02_linked_asset_2023_02_13_ship_recycling_market_insight_week_06_2023_building_up_pdf",
+      "doc_id": "hellenic_demolition_2023-02-13_2023_02_13_gms_week_6_building_up",
+      "parent_id": "hellenic_demolition_2023-02-13_2023_02_13_gms_week_6_building_up__root",
+      "title": "Linked asset: 2023-02-13_Ship-recycling-market-insight-week-06-2023-Building-Up.pdf",
+      "section_path": [
+        "Linked asset: 2023-02-13_Ship-recycling-market-insight-week-06-2023-Building-Up.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-02-13_Ship-recycling-market-insight-week-06-2023-Building-Up.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-02-13_Ship-recycling-market-insight-week-06-2023-Building-Up.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nFebruary 10th, 2023\n\"Real change, enduring change, happens one step at a time.\"\nVolume 247, Issue 1069\n- Ruth Bader Ginsburg\nWeek 6\nHighlights: MARKET COMMENTARY\nBUILDING UP! \"There are only two options regarding commitment.",
+      "keywords": [
+        "panamax",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4230,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

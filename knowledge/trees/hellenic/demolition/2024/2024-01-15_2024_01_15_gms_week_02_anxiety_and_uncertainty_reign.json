@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 15/01/2024\nImage reference: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img1.jpg\nAnxiety and uncertainty reign across the Ship-owning community at large, especially for thosewith units trading in, or simply passing through the shipping lanes that are currently besieged by Houthi Rebel attacks in the Red Sea. This is invariably resulting in many Owners' avoiding a voyage via the (Suez) Canal altogether; electing instead to sail around the Cape and subsequently increase voyage times, costs, and inadvertently assist global inflation. have however, swiftly responded by targeting terror sites in the area, as the ongoing situation in the Middle East continues to unravel and escalate.",
   "keywords": [
     "capesize",
+    "lng",
+    "container",
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "are",
-    "ongoing",
-    "elections",
-    "bangladeshi",
-    "continues",
-    "global",
-    "increase"
+    "steel",
+    "gas",
+    "january"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 645,
+  "token_count": 5280,
   "source_path": "reports/hellenic/demolition/2024/2024-01-15_gms-week-02-anxiety-and-uncertainty-reign.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-02-anxiety-and-uncertainty-reign",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 643,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-01-15_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign__s02_linked_asset_2024_01_15_ship_recycling_market_insight_week_02_2024_anxiety_and_uncertainty_reign_pdf",
+      "doc_id": "hellenic_demolition_2024-01-15_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign",
+      "parent_id": "hellenic_demolition_2024-01-15_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign__root",
+      "title": "Linked asset: 2024-01-15_Ship-recycling-market-insight-week-02-2024-Anxiety-and-Uncertainty-Reign.pdf",
+      "section_path": [
+        "Linked asset: 2024-01-15_Ship-recycling-market-insight-week-02-2024-Anxiety-and-Uncertainty-Reign.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-01-15_Ship-recycling-market-insight-week-02-2024-Anxiety-and-Uncertainty-Reign.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-01-15_Ship-recycling-market-insight-week-02-2024-Anxiety-and-Uncertainty-Reign.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nJanuary 12th, 2024 \"A man who has committed a mistake and doesn't correct it,\nVolume 257, Issue 1117 is committing an even bigger mistake.\"\nWeek 2 - Confucius Kongzi\nHighlights: MARKET COMMENTARY\nA\n\"\nN\nTh\nX\ne\nI\nre\nE\na\nT\nre\nY\no n\nA\nly\nN\ntw\nD\no o\nU\npt\nN\nion\nC\ns\nE\nre\nR\nga\nT\nrd\nA\nin\nI\ng\nN\nco\nT\nm\nY\nm i\nR\ntm\nE\ne\nI\nn\nG\nt. ' re either in or\nyou're out.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4601,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

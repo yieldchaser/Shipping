@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 08 April 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 09/04/2022\nThe ongoing war in Ukraine and widespread lockdowns in China have altered trade flows, thereby leading to an increase in ocean freight rates\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 09/04/2022\nThe ongoing war in Ukraine and widespread lockdowns in China have altered trade flows, thereby leading to an increase in ocean freight rates\nSource: Best Oasis Limited\n\nLinked asset: 2022-04-09_Weekly-Ship-Recycling-Report_8_April_2022.pdf\nSource asset: reports/hellenic/demolition/pdfs/2022-04-09_Weekly-Ship-Recycling-Report_8_April_2022.pdf\n\n[Page 1]\nWEEKLY\nShekHllenic IP\nRECYCLING\nR EPORT\n1st April to 8th April 2022\nHi ghlights of the Week\nThe ongoing war in Ukraine and widespread lockdowns in China have\njhh nhu\naltered trade flows, thereby leading to an increase in ocean freight rates. The Tanker segment, which has been the major contributor to the recycling\nma rket since the pandemic, is now seeing steady freight rates as oil buyers\nrep lenish inventories and IEA's 31 member nations plan to release 120\nmillion barrels from their emergency oil reserves. On the other hand, the\nfalling yen is encouraging Japanese owners to consider recycling their\naging assets to benefit from dollar-denominated ship sales.",
   "keywords": [
+    "container",
     "china",
-    "altered",
-    "best",
-    "demolition",
-    "flows",
-    "increase",
-    "leading",
-    "limited",
-    "lockdowns",
-    "main",
-    "oasis",
-    "ocean"
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "are",
+    "prices"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 47,
+  "token_count": 1987,
   "source_path": "reports/hellenic/demolition/2022/2022-04-09_best-oasis-weekly-recycling-market-report-08-april-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-08-april-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 45,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-04-09_2022_04_09_best_oasis_weekly_recycling_market_report_08_april_2022__s02_linked_asset_2022_04_09_weekly_ship_recycling_report_8_april_2022_pdf",
+      "doc_id": "hellenic_demolition_2022-04-09_2022_04_09_best_oasis_weekly_recycling_market_report_08_april_2022",
+      "parent_id": "hellenic_demolition_2022-04-09_2022_04_09_best_oasis_weekly_recycling_market_report_08_april_2022__root",
+      "title": "Linked asset: 2022-04-09_Weekly-Ship-Recycling-Report_8_April_2022.pdf",
+      "section_path": [
+        "Linked asset: 2022-04-09_Weekly-Ship-Recycling-Report_8_April_2022.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-04-09_Weekly-Ship-Recycling-Report_8_April_2022.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-04-09_Weekly-Ship-Recycling-Report_8_April_2022.pdf\n\n[Page 1]\nWEEKLY\nShekHllenic IP\nRECYCLING\nR EPORT\n1st April to 8th April 2022\nHi ghlights of the Week\nThe ongoing war in Ukraine and widespread lockdowns in China have\njhh nhu\naltered trade flows, thereby leading to an increase in ocean freight rates. The Tanker segment, which has been the major contributor to the recycling\nma rket since the pandemic, is now seeing steady freight rates as oil buyers\nrep lenish inventories and IEA's 31 member nations plan to release 120\nmillion barrels from their emergency oil reserves.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1910,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

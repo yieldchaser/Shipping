@@ -13,20 +13,20 @@
   "keywords": [
     "capesize",
     "panamax",
+    "lng",
+    "container",
+    "china",
+    "pacific",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "steel",
-    "recycling",
-    "tonnage",
-    "global",
-    "ship",
-    "markets",
-    "all"
+    "products"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 837,
+  "token_count": 7493,
   "source_path": "reports/hellenic/demolition/2025/2025-06-23_gms-week-25-landmark-weekahead.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-25-landmark-weekahead",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 835,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-06-23_2025_06_23_gms_week_25_landmark_weekahead__s02_linked_asset_2025_06_23_ship_recycling_market_insight_week_25_06_20_2025_landmark_week_ahead_pdf",
+      "doc_id": "hellenic_demolition_2025-06-23_2025_06_23_gms_week_25_landmark_weekahead",
+      "parent_id": "hellenic_demolition_2025-06-23_2025_06_23_gms_week_25_landmark_weekahead__root",
+      "title": "Linked asset: 2025-06-23_Ship-recycling-market-insight-Week-25-06-20-2025-Landmark-Week...Ahead_.pdf",
+      "section_path": [
+        "Linked asset: 2025-06-23_Ship-recycling-market-insight-Week-25-06-20-2025-Landmark-Week...Ahead_.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-06-23_Ship-recycling-market-insight-Week-25-06-20-2025-Landmark-Week...Ahead_.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-06-23_Ship-recycling-market-insight-Week-25-06-20-2025-Landmark-Week...Ahead_.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nJune 20th, 2025\n1\n\"If you're brave enough to say goodbye,\nWeek 25 life will reward you with a new hello.\"\nVolume 273, Issue 1190\n- Paolo Coehlo\nHighlig hts: -- MARKET COMMENTARY --\n\"There a L reA onNlyD twMo oAptRioKns rWegaErdEiKng… comAmHitEmAenDt. ou're either in or you're\n• Markets creak.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6617,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

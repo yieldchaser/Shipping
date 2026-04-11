@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "supramax",
+    "handysize",
+    "lpg",
+    "container",
+    "china",
+    "brazil",
+    "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "recycling",
-    "ship",
-    "markets",
-    "seen",
-    "all",
-    "down"
+    "singapore",
+    "japan"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 697,
+  "token_count": 7235,
   "source_path": "reports/hellenic/demolition/2025/2025-09-29_gms-week-39-disconnect.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-39-disconnect",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 695,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-09-29_2025_09_29_gms_week_39_disconnect__s02_linked_asset_2025_09_29_ship_recycling_market_insight_week_39_09_26_2025_disconnect_pdf",
+      "doc_id": "hellenic_demolition_2025-09-29_2025_09_29_gms_week_39_disconnect",
+      "parent_id": "hellenic_demolition_2025-09-29_2025_09_29_gms_week_39_disconnect__root",
+      "title": "Linked asset: 2025-09-29_Ship-recycling-market-insight-Week-39-09-26-2025-Disconnect.pdf",
+      "section_path": [
+        "Linked asset: 2025-09-29_Ship-recycling-market-insight-Week-39-09-26-2025-Disconnect.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-09-29_Ship-recycling-market-insight-Week-39-09-26-2025-Disconnect.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-09-29_Ship-recycling-market-insight-Week-39-09-26-2025-Disconnect.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nSeptember 26th, 2025\n1\n\"The greater the difficulty, the more the glory in surmounting it.\"\nWeek 39\nVolume 276, Issue 1204 - Epicurus\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lpg",
+        "container",
+        "china",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6505,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

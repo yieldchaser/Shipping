@@ -12,21 +12,21 @@
   "summary": "Main\nin Weekly Demolition Reports 29/11/2023\nImage reference: 2023-11-29_gms-week-47-meandering_img1.jpg\nSub continent pricing and sentiments remain stranded in the low 500s/LDT and for certain units even below, as we meanderaimlessly towards the end of the year with very little serious and enticing levels to induce either owners or cash buyers to sell. Of course LCs and available financing remain a big issue in both the Pakistan and Bangladesh markets, and there are only very tentative offers emanating as a result, on mostly smaller LDT vessels such is the precarious nature of their respective economies. Container and dry bulk markets continue to provide the still fairly limited supply of vessels for recycling, and one sale from each sector was concluded this week - probably for the more reliable shores of Alang (although the ‘as is' vessel could end up anywhere if a particular buyer emerges).",
   "keywords": [
     "container",
+    "china",
     "europe",
-    "are",
-    "big",
-    "alang",
-    "facilities",
-    "few",
+    "india",
+    "singapore",
+    "japan",
+    "steel",
+    "previous",
     "recycling",
-    "years",
-    "approved",
-    "end",
-    "finally"
+    "are",
+    "bangladesh",
+    "ship"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 430,
+  "token_count": 2663,
   "source_path": "reports/hellenic/demolition/2023/2023-11-29_gms-week-47-meandering.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-47-meandering",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 428,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-11-29_2023_11_29_gms_week_47_meandering__s02_linked_asset_2023_11_25_weekly_ship_recycling_report_18_november_24_november_2023_pdf",
+      "doc_id": "hellenic_demolition_2023-11-29_2023_11_29_gms_week_47_meandering",
+      "parent_id": "hellenic_demolition_2023-11-29_2023_11_29_gms_week_47_meandering__root",
+      "title": "Linked asset: 2023-11-25_Weekly-Ship-Recycling-Report-18-November-24-November-2023.pdf",
+      "section_path": [
+        "Linked asset: 2023-11-25_Weekly-Ship-Recycling-Report-18-November-24-November-2023.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-11-25_Weekly-Ship-Recycling-Report-18-November-24-November-2023.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-11-25_Weekly-Ship-Recycling-Report-18-November-24-November-2023.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n18 November 2023 - 24 November 2023\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the Week\nThe ship recycling activity for this week has continued to exhibit a sluggish pace, mirroring the trends observed in the preceding week. In the Indian market,\nthere has been a consistent reflection of the previous week's trends, with prices remaining constant.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel",
+        "previous"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2200,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

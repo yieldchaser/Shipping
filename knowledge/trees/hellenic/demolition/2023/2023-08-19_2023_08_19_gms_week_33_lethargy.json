@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 19/08/2023\nImage reference: 2023-08-19_gms-week-33-lethargy_img1.jpg\nThe lethargy in sub continent recycling markets continues for another week as owners and cash buyers comtinue to offload tonnage at spiralling prices, chasing down rates seemingly by the day. Indeed we have seen prices decline from over USD 600/LT LDT earlier this year, to seeing several standard (albeit poor condition) dry bulk sales below USD 500/LDT recently. So a fall of over USD 100/LDT has been realized in recycling markets since the start of the summer and the age old problems persist of strained LCs and lack of financing, meaning there appear to be more vessels than capable end buyers at present - certainly in the more challenging markets of Pakistan and Bangladesh.",
   "keywords": [
+    "lng",
+    "container",
     "china",
     "europe",
     "india",
-    "buyers",
-    "end",
-    "markets",
-    "tonnage",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "steel",
+    "gas",
     "ldt",
-    "once",
-    "prices",
-    "usd",
-    "are"
+    "august"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 410,
+  "token_count": 4420,
   "source_path": "reports/hellenic/demolition/2023/2023-08-19_gms-week-33-lethargy.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-33-lethargy",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 408,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-08-19_2023_08_19_gms_week_33_lethargy__s02_linked_asset_2023_08_19_ship_recycling_market_insight_week_33_2023_lethargy_pdf",
+      "doc_id": "hellenic_demolition_2023-08-19_2023_08_19_gms_week_33_lethargy",
+      "parent_id": "hellenic_demolition_2023-08-19_2023_08_19_gms_week_33_lethargy__root",
+      "title": "Linked asset: 2023-08-19_Ship-recycling-market-insight-week-33-2023-Lethargy.pdf",
+      "section_path": [
+        "Linked asset: 2023-08-19_Ship-recycling-market-insight-week-33-2023-Lethargy.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-08-19_Ship-recycling-market-insight-week-33-2023-Lethargy.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-08-19_Ship-recycling-market-insight-week-33-2023-Lethargy.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nAugust 1 8th, 2023 \"It is often the small steps, not the giant leaps, that bring about the most\nVolume 252, Issue 1096 lasting change.\"\nWeek 33\n- Queen Elizabeth II\nHighlights: MARKET COMMENTARY\nLETHARGY! \"There are only two options regarding commitment.",
+      "keywords": [
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3980,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

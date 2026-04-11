@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 9.26.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 26/09/2023\nCapesize spot rates approaching the 20,000 mark as seasonality kicks in - With the summer dull days coming to\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 26/09/2023\nCapesize spot rates approaching the 20,000 mark as seasonality kicks in - With the summer dull days coming to\nSource: Breakwave Advisors\n\nLinked asset: 2023-09-26_BreakwaveDrySeptember262023Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-09-26_BreakwaveDrySeptember262023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nSeptember 26, 2023\nBreakwave Dry Futures Index: 1,563 Baltic Dry Index (spot): 1,593 Short-term Indicators:\n↑ 30D: 17.9% ↑ 30D: 47.5% Momentum: Positive\n↑ YTD: 52.1% ↑ YTD: 5.1% Sentiment: Positive\n↓ YOY: -12.4% ↓ YOY: -12.3% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize spot rates approaching the 20,000 mark as seasonality kicks in - With the summer dull days coming to\nan end, dry bulk activity is once again picking up, and with that, Capesize spot rates have begun to creep higher,\nalthough still inside the tight range that has prevailed for most of the past 18 months. \"Unexciting\" has been the\nword to characterize the state of the dry bulk market recently, but as always has been the case in the last few years,\nthe surprise element is always one headline away. Are we about to experience a stronger than ex",
   "keywords": [
     "capesize",
-    "approaching",
-    "coming",
-    "days",
-    "dull",
-    "kicks",
-    "main",
-    "mark",
-    "seasonality",
-    "shipbuilding",
-    "source",
-    "summer"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 46,
+  "token_count": 1454,
   "source_path": "reports/hellenic/shipbuilding/2023/2023-09-26_breakwave-dry-bulk-shipping-report-9-26-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-26-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 44,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-09-26_2023_09_26_breakwave_dry_bulk_shipping_report_9_26_2023__s02_linked_asset_2023_09_26_breakwavedryseptember262023report_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-09-26_2023_09_26_breakwave_dry_bulk_shipping_report_9_26_2023",
+      "parent_id": "hellenic_shipbuilding_2023-09-26_2023_09_26_breakwave_dry_bulk_shipping_report_9_26_2023__root",
+      "title": "Linked asset: 2023-09-26_BreakwaveDrySeptember262023Report.pdf",
+      "section_path": [
+        "Linked asset: 2023-09-26_BreakwaveDrySeptember262023Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-09-26_BreakwaveDrySeptember262023Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-09-26_BreakwaveDrySeptember262023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nSeptember 26, 2023\nBreakwave Dry Futures Index: 1,563 Baltic Dry Index (spot): 1,593 Short-term Indicators:\n↑ 30D: 17.9% ↑ 30D: 47.5% Momentum: Positive\n↑ YTD: 52.1% ↑ YTD: 5.1% Sentiment: Positive\n↓ YOY: -12.4% ↓ YOY: -12.3% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize spot rates approaching the 20,000 mark as seasonality kicks in - With the summer dull days coming to\nan end, dry bulk activity is once again picking up, and with that, Capesize spot rates have begun to creep higher,\nalthough still inside the tight range that has prevailed for most of the past 18 months. \"Unexciting\" has been the\nword to characterize the state of the dry bulk market recently, but as always has been the case in the last few years,\nthe surprise element is always one headline away.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "europe",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1387,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

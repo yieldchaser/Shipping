@@ -15,18 +15,18 @@
     "panamax",
     "supramax",
     "handysize",
+    "container",
+    "china",
+    "australia",
     "europe",
     "india",
-    "crude_oil",
-    "steel",
-    "recycling",
-    "hkc",
-    "continued",
-    "only"
+    "singapore",
+    "japan",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 831,
+  "token_count": 7508,
   "source_path": "reports/hellenic/demolition/2025/2025-07-07_gms-week-27-wiley-july.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-27-wiley-july",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 829,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-07-07_2025_07_07_gms_week_27_wiley_july__s02_linked_asset_2025_07_07_ship_recycling_market_insight_week_07_04_2025_wiley_july_pdf",
+      "doc_id": "hellenic_demolition_2025-07-07_2025_07_07_gms_week_27_wiley_july",
+      "parent_id": "hellenic_demolition_2025-07-07_2025_07_07_gms_week_27_wiley_july__root",
+      "title": "Linked asset: 2025-07-07_Ship-recycling-market-insight-Week-07-04-2025-Wiley_July.pdf",
+      "section_path": [
+        "Linked asset: 2025-07-07_Ship-recycling-market-insight-Week-07-04-2025-Wiley_July.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-07-07_Ship-recycling-market-insight-Week-07-04-2025-Wiley_July.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-07-07_Ship-recycling-market-insight-Week-07-04-2025-Wiley_July.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nJuly 4th, 2025\n1\n\"What a wonderful thought it is that some of the best days of our lives\nWeek 27\nhaven't even happened yet.\"\nVolume 274, Issue 1192\n- Anne Frank\nHighlig hts: -- MARKET COMMENTARY --\nWILEY JULY! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "australia",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6644,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

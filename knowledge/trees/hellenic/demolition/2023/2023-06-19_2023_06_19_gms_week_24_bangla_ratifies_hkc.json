@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 19/06/2023\nImage reference: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img1.jpg\nThis week, the big news revolved around the momentous and much anticipated ratification of the Hong Kong Convention in Bangladesh thathas finally come to pass. Two weeks ago, after high-level local meetings, all that remains now is for the Marshall Island or Liberian Flags to complete the approval process so that the HKC can enter into force. Bangladesh levels and L/C approvals have continued to struggle post-budget, and it seems that for the time being, there will be some stricter requirements imposed from the Central Bank for Chattogram Recyclers to secure tonnage.",
   "keywords": [
+    "container",
+    "china",
+    "brazil",
+    "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "are",
+    "june",
+    "ldt",
     "bangladesh",
-    "demand",
-    "levels",
-    "markets",
-    "not",
-    "still",
-    "usd",
-    "all",
-    "can"
+    "july"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 527,
+  "token_count": 4952,
   "source_path": "reports/hellenic/demolition/2023/2023-06-19_gms-week-24-bangla-ratifies-hkc.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-24-bangla-ratifies-hkc",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 525,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-06-19_2023_06_19_gms_week_24_bangla_ratifies_hkc__s02_linked_asset_2023_06_19_ship_recycling_market_insight_week_24_2023_bangla_ratifies_hkc_pdf",
+      "doc_id": "hellenic_demolition_2023-06-19_2023_06_19_gms_week_24_bangla_ratifies_hkc",
+      "parent_id": "hellenic_demolition_2023-06-19_2023_06_19_gms_week_24_bangla_ratifies_hkc__root",
+      "title": "Linked asset: 2023-06-19_Ship-recycling-market-insight-week-24-2023-Bangla-Ratifies-HKC.pdf",
+      "section_path": [
+        "Linked asset: 2023-06-19_Ship-recycling-market-insight-week-24-2023-Bangla-Ratifies-HKC.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-06-19_Ship-recycling-market-insight-week-24-2023-Bangla-Ratifies-HKC.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-06-19_Ship-recycling-market-insight-week-24-2023-Bangla-Ratifies-HKC.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nJune 16th , 2023 \" We all have problems. Volume 250, Issue 1087 But it's not what happens to us, [it 's] the choices we make after.",
+      "keywords": [
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4391,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -3,32 +3,37 @@ category: iron_ore
 commodities:
 - iron_ore
 - steel
+- bauxite
+- crude_oil
 date: '2026-03-30'
 doc_id: hellenic_iron_ore_2026-03-30_2026_03_30_mmi_daily_iron_ore_index_report_march_30_2026
 document_type: commodity_update
 key_entities:
 - China
+- Brazil
 - Australia
+- Vale
 - Middle East
 keywords:
 - china
+- brazil
 - australia
+- singapore
 - iron_ore
+- bauxite
+- crude_oil
 - steel
+- fines
 - ore
 - iron
-- prices
-- trend
-- shipments
-- supply
-- destocking
-- impact
+- mar
 market_tone: constructive
 regions:
 - china
 - brazil
 - australia
-section_count: 1
+- singapore
+section_count: 2
 signals: {}
 source: hellenic
 source_path: reports/hellenic/iron_ore/2026/2026-03-30_mmi-daily-iron-ore-index-report-march-30-2026.html
@@ -45,11 +50,11 @@ summary: 'Main
   spot market transactions have been limited so far.'
 themes:
 - china
+- brazil
 - australia
+- singapore
 - iron_ore
-- steel
-- ore
-- iron
+- bauxite
 title: MMI Daily Iron Ore Index Report March 30 2026
 vessel_classes:
 - capesize
@@ -66,3 +71,443 @@ in Chinese iron ore and steelmaking prices 30/03/2026
 Today, iron ore prices opened higher but showed a volatile weakening trend during the session.The main contract I2605 closed at 813 yuan/ton, up 0.06% from the previous trading session. Spot prices remained largely stable compared to the previous trading day. Traders showed subdued pricing initiative, while steel mills made few inquiries; spot market transactions have been limited so far. According to SMM shipping data, iron ore supply has tightened this week, with global total shipments decreasing by 14.8% month-on-month due to the impact of a cyclone in Australia, bringing total shipments to 28.66 million tons. In contrast, China's iron ore arrivals fell by 1.5% month-on-month to 26.74 million tons. Meanwhile, structural differentiation persists in port inventories, with high-grade fines experiencing a clear destocking trend, while the destocking trend for lump ore has slowed. Overall, the tightening supply, coupled with steady growth in demand, has provided strong support for iron ore prices this week. However, as the impact of weather factors on shipments diminishes and iron ore redirected from the Middle East flows into China, the supply side is expected to remain relatively loose in the future. Therefore, iron ore prices are likely to maintain a high-level volatile trend this week.
 Image reference: 2026-03-30_mmi-daily-iron-ore-index-report-march-30-2026_img2.jpg
 Source: Metals Market Index (MMI)
+
+## Linked asset: 2026-03-30_MMi-Daily-Iron-Ore-Report-for-30th-March-2026.pdf
+Source asset: reports/hellenic/iron_ore/pdfs/2026-03-30_MMi-Daily-Iron-Ore-Report-for-30th-March-2026.pdf
+
+[Page 1]
+MMi Daily Iron Ore Index Report Mar 30th, 2026
+MMi Dashboard
+Iron Ore Price Indices
+Iron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)
+IOPI61 61% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t
+792 958 721
+-1 -0.13% 5.00 0.52% 1 0.14%
+Mar 30th, 2026 Mar 30th, 2026 Mar 30th, 2026
+Iron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)
+IOSI61 61% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t
+106.95 126.20 893
+-0.07 -0.07% -0.02 -0.02% -7 -0.78%
+Mar 30th, 2026 Mar 30th, 2026 Week Ending Mar 27th, 2026
+Exchange Traded Contracts
+DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar
+I2605 (May) RMB/t (3pm close) March 26 USD/dmt RB2605 (Jan) RMB/t
+813.00 107.25 3139
+1.00 0.12% 0.20 0.19% 15 0.48%
+Mar 30th, 2026 (3pm close) Mar 30th, 2026 (5.30 pm Print) Mar 30th, 2026 (3pm close)
+Freight Rates Steel Price
+C3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t
+30.66 10.76 3154
+0.52 1.7% 0.05 0.4% 0 0.00%
+Mar 27th, 2026 Mar 27th, 2026 Week Ending Mar 27th, 2026
+Inventory Levels Steel Price
+Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
+Steel HRC (China Domestic) RMB/t
+million tonnes million tonnes
+155.78 14.65 3283
+-0.61 -0.39% -0.51 -3.37% 8 0.23%
+Week Ending Mar 27th, 2026 Week Ending Mar 27th, 2026 Week Ending Mar 27th, 2026
+Page 1/6 Mar 30th, 2026
+
+[Page 2]
+MMi Daily Iron Ore Index Report Mar 30th, 2026
+IRON ORE PORT STOCK INDEX (IOPI)
+Mar 30th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
+Index Fe Content Price Change Change % MTD YTD Low ² High ² Price Change Change % MTD YTD Low ² High ²
+IOPI62 62% Fe Fines 792 -1 -0.1% 787 827 683 1063 106.16 -0.27 -0.2% 102.68 108.08 89.33 140.24
+IOPI58 58% Fe Fines 721 1 0.1% 694 727 610 963 97.36 0.03 0.0% 91.11 95.61 80.25 128.13
+IOPI65 65% Fe Fines 958 5 0.5% 897 938 794 1175 129.23 0.54 0.4% 117.51 123.00 104.47 155.37
+IRON ORE SEABORNE INDEX (IOSI) MARKET COMMENTARY
+Mar 30th, 2026 CFR Qingdao, USD/dry tonne Today, iron ore prices opened higher but showed a vola(cid:415)le weakening trend during the session. The main contract I2605 closed at 813 yuan/ton, up 0.06% from the previous trading
+session. Spot prices remained largely stable compared to the previous trading day. Traders showed subdued pricing ini(cid:415)a(cid:415)ve, while steel mills made few inquiries; spot market
+transac(cid:415)ons have been limited so far.
+Index Fe Content Price Change Change % MTD YTD Low 2 High 2
+According to SMM shipping data, iron ore supply has (cid:415)ghtened this week, with global total shipments decreasing by 14.8% month-on-month due to the impact of a cyclone in Australia,
+bringing total shipments to 28.66 million tons. In contrast, China's iron ore arrivals fell by 1.5% month-on-month to 26.74 million tons. Meanwhile, structural differen(cid:415)a(cid:415)on persists in
+IOSI62 62% Fe Fines 106.95 -0.07 -0.07% 103.56 109.03 89.79 142.65 port inventories, with high-grade fines experiencing a clear destocking trend, while the destocking trend for lump ore has slowed.
+Overall, the (cid:415)ghtening supply, coupled with steady growth in demand, has provided strong support for iron ore prices this week. However, as the impact of weather factors on shipments
+IOSI65 65% Fe Fines 126.20 -0.02 -0.02% 115.88 123.71 98.23 171.65 diminishes and iron ore redirected from the Middle East flows into China, the supply side is expected to remain rela(cid:415)vely loose in the future. Therefore, iron ore prices are likely to
+maintain a high-level vola(cid:415)le trend this week.
+IRON ORE PORT LUMP INDEX (IOPLI)
+Week Ending Mar 27th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3
+Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-oW Change % MTD YTD Low 2 High 2
+IOPLI62 62.5% Fe Lump 893 -7 -0.8% 895 952 820 1210 115.54 -1.03 -0.88% 112.30 119.63 102.77 153.57
+IRON ORE DOMESTIC CONCENTRATE SPOT PRICE ASSESSMENTS AND COMPOSITE INDEX
+Week Ending Mar 27th, 2026 RMB/tonne (excluding tax) 3 USD/tonne (excluding tax) 3
+Province Region Product Basis This week Change % Low ² High ² This week Change % Low ² High ²
+Hebei Hanxing 66% Fe Concentrate Dry 981 1.8% 859 1226 142.14 1.68% 119.88 172.59
+Hebei Qian'an 65% Fe Concentrate Dry 970 -0.5% 880 1300 140.54 -0.60% 122.81 183.23
+Liaoning Anshan 65% Fe Concentrate Wet 745 0.0% 690 970 107.94 -0.08% 96.49 136.72
+Shandong Zibo 65% Fe Concentrate Dry 1016 1.9% 878 1294 147.21 1.82% 122.53 182.16
+Week Ending Mar 27th, 2026 This week Change % Low 2 High 2 ¹ Exchange rate applied: RMB/USD = 7.191 ²Last 12 months
+3 Weekly exchange rate applied: RMB/USD =7.19258
+China Mines Concentrate Composite Index RMB/WT 883.03 1.44% 802.20 905.40
+IRON ORE PORT INDEX, FOT QINGDAO (RMB/WT) IRON ORE SEABORNE INDEX, CFR QINGDAO (USD/DMT)
+2050 320
+1850
+270
+1650
+1450 220
+1250
+170
+1050
+850 120
+650 70
+450
+IOPI62 IOPI58 IOPI65 IOSI62 IOSI65
+IRON ORE PORT STOCK INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES
+Mar 30th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne
+Index Fe Content NovemberDecember January February MTD QTD YTD NovemberDecember January February MTD QTD YTD
+IOPI62 62% Fe Fines 805 798 810 769 787 783 827 105.46 100.24 107.43 102.60 102.68 102.06 108.08
+IOPI58 58% Fe Fines 720 716 719 699 694 689 727 95.02 94.72 96.04 93.94 91.11 90.43 95.61
+IOPI65 65% Fe Fines 917 925 900 852 897 893 938 120.64 122.17 119.85 114.11 117.51 116.92 123.00
+IRON ORE SEABORNE INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES FREIGHT RATES
+Mar 30th, 2026 CFR Qingdao, USD/dry tonne Mar 27th, 2026 FREIGHT RATES - DRY BULK US$/wet tonne
+Index Fe Content NovemberDecember January February MTD QTD YTD Route Designation Change Change % Low 2 High 2
+IOSI62 62% Fe Fines 106.33 105.42 106.27 99.65 103.56 102.90 109.03 W. Australia - Qingdao C5 10.76 0.05 0.4% 5.92 14.89
+IOSI65 65% Fe Fines 122.46 121.09 121.51 118.61 115.88 115.06 123.71 Tubarao - Qingdao C3 30.66 0.52 1.7% 16.08 35.02
+IRON ORE PORT LUMP INDEX MONTHLY, QUARTERLY AND YEAR-TO-DATE AVERAGES
+Week Ending Mar 27th, 2026 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
+Index Fe Content NovemberDecember January February MTD QTD YTD NovemberDecember January February MTD QTD YTD
+IOPLI62 62.5% Fe Lump 880 864 875 844 895 891 952 114.52 110.83 111.50 108.31 112.30 111.88 119.63
+IRON ORE INDEX PREMIUMS/DISCOUNTS
+Mar 30th, 2026 PORT STOCK INDEX (RMB/WT) Mar 30th, 2026 SEABORNE INDEX (USD/DMT)
+Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content Spread to IOSI62 % Spread to IOSI62
+IOPI58 58% Fe Fines -71 -8.96%
+IOPI65 65% Fe Fines 166 20.96% IOSI65 65% Fe Fines 19.25 18.00%
+Page 2/6 Mar 30th, 2026
+COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
+
+[Page 3]
+MMi Daily Iron Ore Index Report Mar 30th, 2026
+IRON ORE INDEX COMPARISONS (USD/DMT) CHINA DOMESTIC COMPOSITE MINES INDEX (RMB/Wet Tonne, including VAT)
+270.00 1,650.00
+1,550.00
+230.00 1,450.00
+1,350.00
+190.00 1,250.00
+1,150.00
+150.00
+1,050.00
+950.00
+110.00
+850.00
+750.00
+70.00
+650.00
+IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent) China Domestic Composite Mines Index
+IRON ORE BRAND SPOT PRICE ASSESMENTS
+Mar 30th, 2026 PORT STOCK INDEX (RMB/WT) Mar 30th, 2026 SEABORNE INDEX (USD/DMT)
+Price Change Diff to IOPI62 Price Change Diff to IOSI62
+Roy Hill 739 -16 -53 Roy Hill 100.25 -0.15 -6.70
+SIMEC Fines 765 -16 -27 SIMEC Fines 95.40 -0.30 -11.55
+PB Fines 820 18 28 PB Fines 106.70 -0.05 -0.25
+Newman Fines 810 11 18 Newman Fines 103.70 -0.05 -3.25
+MAC Fines 785 -8 -7 MAC Fines 103.25 -0.20 -3.70
+Jimblebar Blended Fines 713 2 -79 Jimblebar Blended Fines 95.85 -0.25 -11.10
+Carajas Fines 960 75 168 Carajas Fines 125.80 -0.05 18.85
+Brazilian SSF 880 13 88 Brazilian SSF 103.00 -0.05 -3.95
+Brazilian Blend Fines 887 28 95 Brazilian Blend Fines 113.40 -0.05 6.45
+RTX Fines 704 34 -88 RTX Fines 96.10 -0.05 -10.85
+West Pilbara Fines 778 -14 -14 West Pilbara Fines 97.55 -0.30 -9.40
+Mar 30th, 2026 PORT STOCK INDEX (RMB/WT)
+Price Change Diff to IOPI58
+SSF 679 1 -42
+FMG Blended Fines 735 1 14
+Robe River 734 1 13
+Western Fines 709 1 -12
+Atlas Fines 736 1 15
+Yandi 711 1 -10
+IRON ORE INDEX NORMALISATION DIFFERENTIALS
+Port Stock Index Product Differentials (RMB/wet tonne) Seaborne Index Product Differentials (USD/dry tonne)
+Applicable range Value Change Applicable range Value Change
+High Grade Fe 60 - 63% 25.00 5.00 High Grade Fe 60 - 63% 6.00 0.25
+High Grade Fe 63 - 64% 5.00 0.00 High Grade Fe 63 - 64% 2.00 0.00
+1% Fe High Grade Fe 64 - 65% 5.00 0.00 1% Fe High Grade Fe 64 - 65% 2.00 0.00
+High Grade Fe 65 - 65.5% 5.00 0.00 High Grade Fe 65 - 65.5% 2.00 0.00
+Low Grade Fe 22.00 1.00
+High Fe Grade Al <2.25% 60.00 0.00 High Fe Grade Al <2.25% 7.75 0.00
+High Fe Grade Al 2.25-4% 66.00 0.00 High Fe Grade Al 2.25-4% 7.75 0.00
+1% Alumina 1% Alumina
+Low Fe Grade Al <2.25% 35.00 0.00
+Low Fe Grade Al 2.25-4% 15.00 5.00
+High Fe Grade Si <4% 28.00 0.00 High Fe Grade Si <4% 2.50 0.00
+1% Silica High Fe Grade Si 4-6.5% 20.00 0.00 1% Silica High Fe Grade Si 4 - 6.5% 6.75 0.00
+Low Fe Grade 15.00 6.00
+High Fe Grade 0.09%<P<0.115% 15.00 0.00 0.01% High Fe Grade 0.09%<P<0.115% 1.75 0.00
+0.01%
+High Fe Grade 0.115%<P<0.15% 15.00 0.00 Phosphorus High Fe Grade 0.115%<P<0.15% 1.75 0.00
+Phosphorus
+Low Fe Grade 0.09<P<0.1% 5.00 0.00
+Port Stock Price Differentials to Qingdao Port for PB Fines (RMB/wet tonne)
+Port Value Change Port Value Change Port Value Change Port Value Change
+Bayuquan -20.00 0.00 Fangcheng -25.00 0.00 Lanshan 0.00 0.00 Rizhao 0.00 0.00
+Beilun 0.00 0.00 Jiangyin -18.00 0.00 Lianyungang -3.00 0.00 Shekou 0.00 0.00
+Caofeidian -15.00 0.00 Jingtang -16.00 0.00 Majishan 0.00 0.00 Taicang -18.00 0.00
+Dalian 0.00 0.00 Lanqiao 0.00 0.00 Qingdao 0.00 0.00 Tianjin -20.00 0.00
+Page 3/6 Mar 30th, 2026
+COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
+
+[Page 4]
+MMi Daily Iron Ore Index Report Mar 30th, 2026
+IRON ORE INDEX PREMIUMS/DISCOUNTS
+50%
+40%
+30%
+20%
+10%
+0%
+-10%
+-20%
+-30%
+-40%
+-50%
+WEEKLY IRON ORE PORT STOCK LUMP PREMIUM (RMB/DMTU) IRON ORE SEABORNE TO PORT STOCK PRICE SPREADS (USD/DMT)
+TOTAL IRON ORE INVENTORIES AT CHINA PORTS (MILLION TONNES) FUTURE TRADING-FRONT MONTH CLOSING PRICE
+IRON ORE PORT INVENTORIES (MILLION TONNES) IRON ORE FUTURES CONTRACTS
+DRY BULK FREIGHT RATES (USD/MT) TOTAL CHINA IRON ORE IMPORT VOLUMES (MILLION TONNES)
+Page 4/6 Mar 30th, 2026
+COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
+12-naJ-41 12-rpA-41 12-luJ-41 12-tcO-41 22-naJ-41 22-rpA-41 22-luJ-41 22-tcO-41 32-naJ-41 32-rpA-41 32-luJ-41 32-tcO-41 42-naJ-41 42-rpA-41 42-luJ-41 42-tcO-41 52-naJ-41 52-rpA-41 52-luJ-41 52-tcO-41 62-naJ-41
+50%
+40%
+30%
+20%
+10%
+0%
+-10%
+-20%
+-30%
+-40%
+IOPI65 % Spread to IOPI62 IOPI58 % Spread to IOPI62
+12-naJ-41 12-rpA-41 12-luJ-41 12-tcO-41 22-naJ-41 22-rpA-41 22-luJ-41 22-tcO-41 32-naJ-41 32-rpA-41 32-luJ-41 32-tcO-41 42-naJ-41 42-rpA-41 42-luJ-41 42-tcO-41 52-naJ-41 52-rpA-41 52-luJ-41 52-tcO-41 62-naJ-41
+IOSI65 % Spread to IOSI62
+7.00
+6.00
+5.00
+4.00
+3.00
+2.00
+1.00
+0.00
+-1.00
+-2.00
+1/1/1202 1/4/1202 1/7/1202 1/01/1202 1/1/2202 1/4/2202 1/7/2202 1/01/2202 1/1/3202 1/4/3202 1/7/3202 1/01/3202 1/1/4202 1/4/4202 1/7/4202 1/01/4202 1/1/5202 1/4/5202 1/7/5202 1/01/5202 1/1/6202
+40
+30
+20
+10
+0
+-10
+-20
+-30
+-40
+IOSI65 Spread to IOPI65 Equivalent (5-day average)
+62.5% Fe Lump Premium over 62% Fines RMB/dmtu IOSI62 Spread to IOPI62 Equivalent (5-day average)
+180 1500.00 250.00
+170 1400.00 230.00
+160 1300.00 210.00
+1200.00
+190.00 150 1100.00
+170.00
+140 1000.00
+150.00
+130 900.00
+130.00
+800.00
+120 700.00 110.00
+110 600.00 90.00
+100 500.00 70.00
+90
+ennot/BMR TMD/DSU
+DCE closing price SGX Front Month 5.30pm (RHS)
+Week Ending Mar 27th, 2026 DCE (RMB/WMT) SGX (USD/DMT)
+Province This week Change % Low 2 High 2 Closing Date Mar 30th, 3pm close Mar 30th, 5:30pm
+Jingtang 18.94 2.54% 8.29 18.94 Contract I2605 Change Change % Mar. 26 Change Change %
+Qingdao 32.70 1.24% 22.28 34.83 Closing Price 813.00 1.00 0.12% 107.25 0.20 0.19%
+Caofeidian 17.66 -0.11% 7.56 20.28 Vol traded ('000 lots) 14.30 -4.10 -22.29% 5.60 -8.51 -60.34%
+Tianjin 12.51 2.12% 6.64 12.52 Open positions ('000 lots) 37.14 -1.58 -4.09% 38.50 -1.36 -3.42%
+Rizhao 11.41 -10.23% 11.41 21.35 Day Low 811.0 4.00 0.50% 106.75 0.65 0.61%
+Total (35 Ports) 155.78 -0.39% 105.01 166.39 Day High 819.5 0.50 0.06% 107.50 0.45 0.42%
+60.00 130
+50.00 120
+40.00
+110
+30.00
+100
+20.00
+90
+10.00
+80
+0.00
+70
+60
+C5 - W. Australia - Qingdao C3 - Tubarao - Qingdao
+
+[Page 5]
+MMi Daily Iron Ore Index Report Mar 30th, 2026
+STEEL SPOT MARKET PRICES-CHINA CHINESE STEEL MILL PROFITABILITY
+Steel Spot Market RMB/tonne
+Product 2026/03/27 Change Change %
+ReBar HRB400 ɸ18mm 3,154 0 0.00%
+Wirerod Q300 ɸ6.5mm 3,348 -3 -0.09%
+HRC Q235/SS400 5.5mm*1500*C 3,283 8 0.23%
+CRC SPCC/ST12 1.0mm*1250*2500 3,793 10 0.26%
+Medium & Heavy Plate Q235B 20mm 3,393 10 0.30%
+GI ST02Z 1.0mm*1000*C 4,053 0 0.00%
+Colour Coated Plate 6,300 -50 -0.79%
+CHINESE STEEL INVENTORIES CHINESE STEEL MILL PROFITABILITY
+1,300
+800
+300
+-200
+-700
+Page 5/6 Mar 30th, 2026
+COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
+ennot/BMR
+SMM Tracking of Steel Mill P&L - Rebar and Hot-rolled Coil (RMB/tonne)
+Category Price Change (WoW) Note
+MMi (Fe 62%), USD/mt exluding tax 106.43 -0.84 Mmi CFR Equivalent index for 1st Feb
+Coke 1,605 0 2nd grade met coke, Tangshan, incl. tax
+Steel Scrap 2,450 -30 steel scrap (6mm) in Zhangjiagang, exl. tax
+Billet Cost 2,592 9 Q234, incl. tax
+Rebar cost - Blast furnace 3,155 11 calculated based on theoretical weight, incl. tax
+Rebar profit - Blast furnace -25 -11 based on Shanghai prices, incl. tax
+Hot-rolled coil cost - Blast furnace 3,219 7 based on actual weight, incl. tax
+Hot-rolled coil proft - Blast furnace 71 -7 based on Shanghai prices, incl. tax
+Note: 1. Costs in the table are caluclated based on todays market prices and facout our management, sales, financial and depreciations fees.
+2. The cost refers to average cost in the industry based on SMM's survey of small, medium and large mills in China
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+Rebar Profit for BOF Mill HRC Profit for BOF Mill
+CHINESE STEEL MILL PROFITABILITY-Rebar CHINESE STEEL MILL PROFITABILITY-Hot-rolled Coil
+CHINESE STEEL CONSUMPTION-Rebar CHINESE STEEL CONSUMPTION-Hot-rolled Coil
+CHINESE STEEL PRODUCTION-Rebar CHINESE STEEL PRODUCTION-Hot-rolled Coil
+tm
+noillim
+Total Social Steel Inventory Total Steel Inventory at Steel Mills
+600.0
+400.0
+200.0
+0.0
+-200.0
+-400.0
+-600.0
+-800.0
+01 02 03 04 05 06 07 08 09 10 11 12
+tm/BMR
+2022 2023 2024 2025 2026
+800.00
+600.00
+400.00
+200.00
+0.00
+-200.00
+-400.00
+-600.00
+-800.00
+01 02 03 04 05 06 07 08 09 10 11 12
+tm/BMR
+2022 2023 2024 2025 2026
+2022 2023 2024 2025 2026 2022 2023 2024 2025 2026
+4500
+3900
+3000 3500
+3100
+1500
+2700
+0
+2300
+-1500
+1900
+-3000 1500
+01 02 03 04 05 06 07 08 09 10 11 12 01 02 03 04 05 06 07 08 09 10 11 12
+2022 2023 2024 2025 2026 2022 2023 2024 2025 2026
+4500 3600
+4000
+3400
+3500
+3000 3200
+2500
+3000
+2000
+1500 2800
+01 02 03 04 05 06 07 08 09 10 11 12 01 02 03 04 05 06 07 08 09 10 11 12
+
+[Page 6]
+MMi Daily Iron Ore Index Report Mar 30th, 2026
+IRON ORE INDEX SPECIFICATIONS, COMPILATION RATIONALE AND DATA EXCLUSIONS
+Iron Ore Index Specifications (Port and Seaborne) Iron Ore Index Compila(cid:415)on Ra(cid:415)onale and Data Exclusions
+65% Fe Fines 62% Fe Fines 58% Fe Fines 62.5% Fe Lump MMi iron ore indices are compiled from data provided by companies that
+Fe % 65.00 62.00 58.00 62.50 are part of the iron ore supply chain and involved in spot market transac-
+(cid:415)ons. The indices are calculated using detailed transac(cid:415)on-level data
+Alumina % 1.40 2.25 2.25 1.50
+submi(cid:425)ed to MMi by these companies. This data is normalised to the
+Silica% 1.50 4.00 5.50 3.50 appropriate specifica(cid:415)ons and screened to remove outliers before
+volume-weighted average prices are calculated from the remaining core
+Phosphorus % 0.06 0.09 0.05 0.08
+set of data.
+Sulphur % 0.01 0.02 0.02 0.02
+Moisture % 8.00 8.00 9.00 4.00
+Data Exclusions*
+Granular size below 10mm for at least 90% of cargo; Size below 6.3mm max 15%
+Sizing 62% 58% 65%
+maximum of 40% below 150 micron Size above 31.15mm max 25% Port Index 0 0 0
+Seaborne index 0 0
+Pricing Point Qingdao Port (FOT and CFR respectively) FOT Qingdao Port Lump Index 62.5 0
+Timing (Seaborne) Loading within 4 weeks, Delivery within 8 weeks Delivery within 2 weeks * Number of price submissions for iron ore indices that were excluded from
+index calcula(cid:415)ons today as they were anomalous and could not be verified
+Payment Terms L/C at sight L/C at sight or CAD
+IRON ORE DOMESTIC CONCENTRATE INDEX CALCULATION METHODOLOGY
+The compila(cid:415)on method for price index generally refers to the compila(cid:415)on method of CPI price index and other price indices, breakdown the price data and calculate the average value according
+to a certain method, taking the ver(cid:415)cal axis as the regional composite index (average of different grade index) and the horizontal axis as the grade composite index (average of different regional
+index), a total composite index for domes(cid:415)c ore can be output ul(cid:415)mately. The process system is also adopted in the calcula(cid:415)on i.e. each sub-index can be obtained as well.
+AVERAGE IRON ORE SPECIFICATIONS APPLIED FOR BRAND PRICE ASSESSMENTS
+PORT STOCK BRANDS SEABORNE BRANDS
+Mar 30th, 2026 Specifications applied for 62% brand assessments Specifications applied for 62% brand assessments
+Fe Alumina Silica Phos Moisture Fe Alumina Silica Phos Moisture
+Roy Hill 60.88% 2.35% 4.45% 0.055% 9.26% Roy Hill 60.70% 2.30% 4.90% 0.055% 8.00%
+SIMEC Fines 60.00% 2.30% 6.30% 0.060% 6.00% SIMEC Fines 60.00% 2.30% 6.30% 0.060% 6.00%
+PB Fines 61.64% 2.31% 3.87% 0.099% 9.45% PB Fines 62% 62.00% 2.60% 4.30% 0.090% 9.50%
+Newman Fines 62.49% 2.31% 3.98% 0.090% 7.72% Newman Fines 62.30% 2.40% 4.40% 0.090% 8.00%
+MAC Fines 60.43% 2.38% 4.64% 0.078% 7.57% MAC Fines 60.80% 2.35% 4.70% 0.080% 7.80%
+Jimblebar Blended Fines 60.87% 2.95% 4.53% 0.111% 7.32% Jimblebar Blended Fines 60.50% 3.00% 4.50% 0.120% 8.00%
+Carajas Fines 64.90% 1.39% 1.82% 0.080% 7.78% Carajas Fines 65.10% 1.50% 1.70% 0.080% 8.50%
+Brazilian SSF 62.00% 1.00% 6.50% 0.040% 6.00% Brazilian SSF 62.00% 1.00% 6.50% 0.040% 6.00%
+Brazilian Blend Fines 62.56% 1.58% 4.79% 0.091% 8.72% Brazilian Blend Fines 63.00% 1.50% 5.00% 0.070% 7.00%
+RTX Fines 61.00% 3.10% 4.50% 0.135% 7.50% RTX Fines 61.00% 3.10% 4.50% 0.135% 7.50%
+West Pilbara Fines 60.10% 2.30% 4.70% 0.075% 8.50% West Pilbara Fines 60.10% 2.30% 4.70% 0.075% 8.50%
+Mar 30th, 2026 Specifications applied for 58% brand assessments
+Fe Alumina Silica Phos Moisture
+SSF 56.49% 3.20% 6.19% 0.065% 9.18%
+FMG Blended Fines 58.20% 2.43% 5.54% 0.057% 8.29%
+Robe River 56.44% 3.16% 5.73% 0.042% 8.44%
+Western Fines 57.88% 2.87% 7.50% 0.062% 7.45%
+Atlas Fines 58.00% 1.85% 5.50% 0.090% 9.00%
+Yandi 56.87% 1.58% 6.41% 0.042% 9.53%
+BLOOMBERG TICKERS
+PORT STOCK INDICES SEABORNE INDICES
+FOT Qingdao (RMB/wet tonne) CFR Qingdao Equivalent (USD/dry tonne) CFR Qingdao (USD/DMT)
+IOPI62 IRCNQ001 IRCNQ004 IOSI62 IRCN0034
+IOPI58 IRCNQ002 IRCNQ005 IOSI65 IRCN0035
+IOPI65 IRCNQ003 IRCNQ006
+IOPLI62 IRCN0036 IRCN0037
+CONTACT US
+MMI Singapore Office Details: Level 28, Manulife Tower, 8 Cross Street Singapore. Tel: + 65 6850 7629 E: prices@mmiprices.com
+SMM Singapore Office Details: Level 28, Manulife Tower, 8 Cross Street Singapore. Tel: + 65 6850 7630 E: service.en@smm.cn
+SMM Shanghai Office Details: 9th FL, Building 9, Lujiazui So(cid:332)ware Park, No.20, Lane 91, Pudong, Shanghai Tel: +86 021 5155 0306 E: service.en@smm.cn
+This informa(cid:415)on has been prepared by Metals Market Index ("MMi"). Use of the informa(cid:415)on presented here is at your sole risk, and any content, material and/or data presented or otherwise obtained through your use of the informa(cid:415)on in this document is at your own
+discre(cid:415)on and risk and you will be solely responsible for any damage to you personally or your company or organisa(cid:415)on or business associates whatsoever which in anyway results from the use, reliance or applica(cid:415)on of such content material and/or informa(cid:415)on. Certain
+data has been obtained from various sources and any copyright exis(cid:415)ng in such data shall remain the property of the source. Except for the foregoing, MMi retains all copyright within this document. The copying or redistribu(cid:415)on of any part of this document without the
+express wri(cid:425)en authority of MMi is forbidden.
+Page 6/6 Mar 30th, 2026
+COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED

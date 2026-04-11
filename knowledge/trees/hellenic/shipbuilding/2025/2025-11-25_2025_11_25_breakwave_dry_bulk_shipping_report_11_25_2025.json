@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 11.25.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 25/11/2025\nElevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with historical trends, the fourth quarter is once again poised\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 25/11/2025\nElevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with historical trends, the fourth quarter is once again poised\nSource: Breakwave Advisors\n\nLinked asset: 2025-11-25_BreakwaveDryNovember252025Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-11-25_BreakwaveDryNovember252025Report.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nNovember 25, 2025\n• Elevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with\nShort-term Indicators\nhistorical trends, the fourth quarter is once again poised to be the strongest period\nMomentum: Neutral\nof the year for dry bulk shipping. Current Capesize rates exceeding $30,000,\ncoupled with lower-than-average rate volatility, suggest market confidence in Sentiment: Positive\nforward pricing, with elevated rates projected even for Q1. We hold a dissenting Fundamentals: Negative\nview.",
   "keywords": [
-    "again",
-    "alive",
-    "consistent",
-    "elevated",
-    "fourth",
-    "historical",
-    "main",
-    "once",
-    "poised",
-    "quarter",
-    "seasonality",
-    "shipbuilding"
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 48,
+  "token_count": 1665,
   "source_path": "reports/hellenic/shipbuilding/2025/2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-25-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 46,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-11-25_2025_11_25_breakwave_dry_bulk_shipping_report_11_25_2025__s02_linked_asset_2025_11_25_breakwavedrynovember252025report_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-11-25_2025_11_25_breakwave_dry_bulk_shipping_report_11_25_2025",
+      "parent_id": "hellenic_shipbuilding_2025-11-25_2025_11_25_breakwave_dry_bulk_shipping_report_11_25_2025__root",
+      "title": "Linked asset: 2025-11-25_BreakwaveDryNovember252025Report.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-25_BreakwaveDryNovember252025Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-25_BreakwaveDryNovember252025Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-25_BreakwaveDryNovember252025Report.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nNovember 25, 2025\n• Elevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with\nShort-term Indicators\nhistorical trends, the fourth quarter is once again poised to be the strongest period\nMomentum: Neutral\nof the year for dry bulk shipping. Current Capesize rates exceeding $30,000,\ncoupled with lower-than-average rate volatility, suggest market confidence in Sentiment: Positive\nforward pricing, with elevated rates projected even for Q1.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1596,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

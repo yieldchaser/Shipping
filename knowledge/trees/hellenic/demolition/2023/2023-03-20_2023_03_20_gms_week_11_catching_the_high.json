@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 20/03/2023\nImage reference: 2023-03-20_gms-week-11-catching-the-high_img1.jpg\nThe ongoing surge in recycling rates has sustained for another week, even though a slight reduction in supplycoupled with some volatility on steel plate prices (especially in India), seemed to put a minor dampener across markets over the last few days. An improvement in Container and Dry Bulk charter rates has reduced the flow of candidates for recycling over the last couple of weeks and so much of the firming local demand may still go unrealized for some time. Indeed, there has only been a trickle of vessels for sale in this last week, and so only a few Owners appear to have cashed in at these higher rates, perhaps at the peak of the market.",
   "keywords": [
+    "lpg",
     "container",
+    "china",
+    "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "last",
-    "l/c",
+    "gas",
     "ldt",
-    "ongoing",
-    "tonnage",
-    "vessels",
-    "continue",
-    "demand",
-    "few"
+    "april",
+    "march"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 463,
+  "token_count": 4681,
   "source_path": "reports/hellenic/demolition/2023/2023-03-20_gms-week-11-catching-the-high.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-11-catching-the-high",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 461,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-03-20_2023_03_20_gms_week_11_catching_the_high__s02_linked_asset_2023_03_20_ship_recycling_market_insight_week_11_2023_catching_the_high_pdf",
+      "doc_id": "hellenic_demolition_2023-03-20_2023_03_20_gms_week_11_catching_the_high",
+      "parent_id": "hellenic_demolition_2023-03-20_2023_03_20_gms_week_11_catching_the_high__root",
+      "title": "Linked asset: 2023-03-20_Ship-recycling-market-insight-week-11-2023-Catching-the-High.pdf",
+      "section_path": [
+        "Linked asset: 2023-03-20_Ship-recycling-market-insight-week-11-2023-Catching-the-High.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-03-20_Ship-recycling-market-insight-week-11-2023-Catching-the-High.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-03-20_Ship-recycling-market-insight-week-11-2023-Catching-the-High.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nMarch 17 th, 2023\n\"We generate fears while we sit. We overcome them by action.\"\nVolume 248, Issue 1074\nWeek 11 - Henry Link\nHighlights: MARKET COMMENTARY\nCATCHING THE HIGH!",
+      "keywords": [
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4187,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

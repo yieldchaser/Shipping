@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 10 June 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 11/06/2022\nThe Ship Recycling market remains motionless with barely any activity being witnessed due to lack of tonnage being offered\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 11/06/2022\nThe Ship Recycling market remains motionless with barely any activity being witnessed due to lack of tonnage being offered\nSource: Best Oasis Limited\n\nLinked asset: 2022-06-11_Weekly-Ship-Recycling-Report_10_June_2022.pdf\nSource asset: reports/hellenic/demolition/pdfs/2022-06-11_Weekly-Ship-Recycling-Report_10_June_2022.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n3rd June to 10th June 2022\nHighlights of the Week\nTh e Ship Recycling market remains motionless with barely any activity being\njhhnhu\nwitnessed due to lack of tonnage being offered combined with a significant\ngap in the price expectations of the ship owners and the recyclers. In the\nsubcontinent market, buying inquiries have started coming from Bangladesh\nand Pakistan as their inventories continue to shrink, leading to an increase\nin offer prices by about USD 10/LDT, while the steel prices continue to\ndecline in India, leading to a further softening of offer prices by USD 10/LDT. Going forward, we are cautiously optimistic that the offer prices will remain\nstable with a chance to move northwards if the shortage of tonnage persists.",
   "keywords": [
-    "being",
-    "activity",
-    "any",
-    "barely",
-    "best",
-    "demolition",
-    "due",
-    "lack",
-    "limited",
-    "main",
-    "motionless",
-    "oasis"
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "prices",
+    "price"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 43,
+  "token_count": 2136,
   "source_path": "reports/hellenic/demolition/2022/2022-06-11_best-oasis-weekly-recycling-market-report-10-june-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-10-june-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 41,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-06-11_2022_06_11_best_oasis_weekly_recycling_market_report_10_june_2022__s02_linked_asset_2022_06_11_weekly_ship_recycling_report_10_june_2022_pdf",
+      "doc_id": "hellenic_demolition_2022-06-11_2022_06_11_best_oasis_weekly_recycling_market_report_10_june_2022",
+      "parent_id": "hellenic_demolition_2022-06-11_2022_06_11_best_oasis_weekly_recycling_market_report_10_june_2022__root",
+      "title": "Linked asset: 2022-06-11_Weekly-Ship-Recycling-Report_10_June_2022.pdf",
+      "section_path": [
+        "Linked asset: 2022-06-11_Weekly-Ship-Recycling-Report_10_June_2022.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-06-11_Weekly-Ship-Recycling-Report_10_June_2022.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-06-11_Weekly-Ship-Recycling-Report_10_June_2022.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n3rd June to 10th June 2022\nHighlights of the Week\nTh e Ship Recycling market remains motionless with barely any activity being\njhhnhu\nwitnessed due to lack of tonnage being offered combined with a significant\ngap in the price expectations of the ship owners and the recyclers. In the\nsubcontinent market, buying inquiries have started coming from Bangladesh\nand Pakistan as their inventories continue to shrink, leading to an increase\nin offer prices by about USD 10/LDT, while the steel prices continue to\ndecline in India, leading to a further softening of offer prices by USD 10/LDT.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2064,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

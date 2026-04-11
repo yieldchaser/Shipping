@@ -9,21 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 11.21.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 21/11/2023\nCapesize Spot Index bounces back in the 20s… but is a correction inevitable? - Capesize spot\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 21/11/2023\nCapesize Spot Index bounces back in the 20s… but is a correction inevitable? - Capesize spot\nSource: Breakwave Advisors\n\nLinked asset: 2023-11-21_BreakwaveDryNovember212023Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-11-21_BreakwaveDryNovember212023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 21, 2023\nBreakwave Dry Futures Index: 1,276 Baltic Dry Index (spot): 1,817 Short-term Indicators:\n↓ 30D: -9.7% ↓ 30D: -11.2% Momentum: Positive\n↑ YTD: 24.2% ↑ YTD: 19.9% Sentiment: Neutral\n↑ YOY: 31.7% ↑ YOY: 54.4% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Spot Index bounces back in the 20s… but is a correction inevitable? - Capesize spot rates staged a sharp\nrebound following an earlier drop into the mid-teens, with the Index moving firmly above 20,000.",
   "keywords": [
     "capesize",
-    "back",
-    "bounces",
-    "but",
-    "correction",
-    "inevitable",
-    "main",
-    "shipbuilding",
-    "source"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 46,
+  "token_count": 1471,
   "source_path": "reports/hellenic/shipbuilding/2023/2023-11-21_breakwave-dry-bulk-shipping-report-11-21-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-21-2023",
   "children": [
@@ -53,6 +56,34 @@
       "page_end": null,
       "token_count": 44,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-11-21_2023_11_21_breakwave_dry_bulk_shipping_report_11_21_2023__s02_linked_asset_2023_11_21_breakwavedrynovember212023report_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-11-21_2023_11_21_breakwave_dry_bulk_shipping_report_11_21_2023",
+      "parent_id": "hellenic_shipbuilding_2023-11-21_2023_11_21_breakwave_dry_bulk_shipping_report_11_21_2023__root",
+      "title": "Linked asset: 2023-11-21_BreakwaveDryNovember212023Report.pdf",
+      "section_path": [
+        "Linked asset: 2023-11-21_BreakwaveDryNovember212023Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-11-21_BreakwaveDryNovember212023Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-11-21_BreakwaveDryNovember212023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 21, 2023\nBreakwave Dry Futures Index: 1,276 Baltic Dry Index (spot): 1,817 Short-term Indicators:\n↓ 30D: -9.7% ↓ 30D: -11.2% Momentum: Positive\n↑ YTD: 24.2% ↑ YTD: 19.9% Sentiment: Neutral\n↑ YOY: 31.7% ↑ YOY: 54.4% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize Spot Index bounces back in the 20s… but is a correction inevitable? - Capesize spot rates staged a sharp\nrebound following an earlier drop into the mid-teens, with the Index moving firmly above 20,000.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1404,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

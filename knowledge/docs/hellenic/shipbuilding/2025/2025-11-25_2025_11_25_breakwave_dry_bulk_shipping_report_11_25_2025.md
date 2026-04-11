@@ -1,29 +1,41 @@
 ---
 category: shipbuilding
-commodities: []
+commodities:
+- iron_ore
+- coal
+- grain
+- bauxite
+- crude_oil
+- steel
 date: '2025-11-25'
 doc_id: hellenic_shipbuilding_2025-11-25_2025_11_25_breakwave_dry_bulk_shipping_report_11_25_2025
 document_type: shipbuilding_update
-key_entities: []
+key_entities:
+- China
+- Brazil
+- Australia
 keywords:
-- again
-- alive
-- consistent
-- elevated
-- fourth
-- historical
-- main
-- once
-- poised
-- quarter
-- seasonality
-- shipbuilding
-market_tone: neutral
+- capesize
+- panamax
+- supramax
+- china
+- brazil
+- australia
+- west_africa
+- iron_ore
+- coal
+- grain
+- bauxite
+- crude_oil
+market_tone: cautiously_bearish
 regions:
 - china
 - japan
 - europe
-section_count: 1
+- brazil
+- australia
+- west_africa
+section_count: 2
 signals: {}
 source: hellenic
 source_path: reports/hellenic/shipbuilding/2025/2025-11-25_breakwave-dry-bulk-shipping-report-11-25-2025.html
@@ -36,14 +48,46 @@ summary: 'Main
   Elevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with historical
   trends, the fourth quarter is once again poised
 
-  Source: Breakwave Advisors'
+  Source: Breakwave Advisors
+
+
+  Linked asset: 2025-11-25_BreakwaveDryNovember252025Report.pdf
+
+  Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-25_BreakwaveDryNovember252025Report.pdf
+
+
+  [Page 1]
+
+  Dry Bulk Shipping
+
+  Bi-Weekly Industry Report
+
+  November 25, 2025
+
+  • Elevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with
+
+  Short-term Indicators
+
+  historical trends, the fourth quarter is once again poised to be the strongest period
+
+  Momentum: Neutral
+
+  of the year for dry bulk shipping. Current Capesize rates exceeding $30,000,
+
+  coupled with lower-than-average rate volatility, suggest market confidence in Sentiment:
+  Positive
+
+  forward pricing, with elevated rates projected even for Q1. We hold a dissenting
+  Fundamentals: Negative
+
+  view.'
 themes:
-- again
-- alive
-- consistent
-- elevated
-- fourth
-- historical
+- capesize
+- panamax
+- supramax
+- china
+- brazil
+- australia
 title: Breakwave Dry Bulk Shipping Report 11.25.2025
 vessel_classes:
 - capesize
@@ -64,7 +108,133 @@ in Weekly Shipbuilding Reports 25/11/2025
 Elevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with historical trends, the fourth quarter is once again poised
 Source: Breakwave Advisors
 
+Linked asset: 2025-11-25_BreakwaveDryNovember252025Report.pdf
+Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-25_BreakwaveDryNovember252025Report.pdf
+
+[Page 1]
+Dry Bulk Shipping
+Bi-Weekly Industry Report
+November 25, 2025
+• Elevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with
+Short-term Indicators
+historical trends, the fourth quarter is once again poised to be the strongest period
+Momentum: Neutral
+of the year for dry bulk shipping. Current Capesize rates exceeding $30,000,
+coupled with lower-than-average rate volatility, suggest market confidence in Sentiment: Positive
+forward pricing, with elevated rates projected even for Q1. We hold a dissenting Fundamentals: Negative
+view.
+
 ## Main
 in Weekly Shipbuilding Reports 25/11/2025
 Elevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with historical trends, the fourth quarter is once again poised
 Source: Breakwave Advisors
+
+## Linked asset: 2025-11-25_BreakwaveDryNovember252025Report.pdf
+Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-25_BreakwaveDryNovember252025Report.pdf
+
+[Page 1]
+Dry Bulk Shipping
+Bi-Weekly Industry Report
+November 25, 2025
+• Elevated Spot Rates Show Q4 Seasonality Alive and Well - Consistent with
+Short-term Indicators
+historical trends, the fourth quarter is once again poised to be the strongest period
+Momentum: Neutral
+of the year for dry bulk shipping. Current Capesize rates exceeding $30,000,
+coupled with lower-than-average rate volatility, suggest market confidence in Sentiment: Positive
+forward pricing, with elevated rates projected even for Q1. We hold a dissenting Fundamentals: Negative
+view. While we anticipate a stable market overall for the coming year, we believe
+the expected Q1 rate strength will not fully materialize. The risk-reward profile,
+based on current futures pricing, appears unfavorable. Although West African
+Breakwave Dry
+1838
+Futures Index:
+bauxite trade may mitigate some the seasonal weakness in iron ore cargo flow,
+30D: 1.7% ↑
+the anticipated Q1 dip in fixtures will remain significant and challenging to fully offset.
+Consequently, we project some spot market weakness in the beginning of next
+YTD: 81.2% ↑
+year. While some of this is reflected in the futures curve, we believe the eventual YOY: 42.4% ↑
+spot weakness will be more pronounced than currently priced. This divergence is
+not due to fundamental issues within the dry bulk market, but rather a reflection of
+Baltic Dry Index
+the enduring seasonal cycle, where low recent volatility has led market expectations 2295
+(spot):
+to exceed a reasonable risk/reward threshold.
+30D: 15.3% ↑
+YTD: 130.2% ↑
+• The Most "Boring" Commodity of the Year - The year 2025 may conclude as the
+YOY: 49.3% ↑
+least volatile year for iron ore, a commodity historically characterized by extreme
+price swings. For the majority of the year, iron ore prices have maintained a
+remarkably tight trading range, centering around the $100/ton mark, a price level
+Reuters: BDRY.K
+seemingly acceptable to both major producers and consumers. However,
+Bloomberg: BDRY US
+fundamental pressures are accumulating. The market is anticipating a near-term
+Exchange: NYSE
+increase in new supply (Simandou), compounded by a potential substitution effect
+driven by changing steel mill dynamics. While the industry has recently increased Breakwave Advisors Research
+research@breakwaveadvisors.com
+the use of lower-quality iron ore to boost benchmark steel margins, the premium
+associated with higher-quality ore suggests a shift toward substitution will
+ultimately place downward pressure on pricing. This is due to the inherent difficulty
+steel mills will face in covering expenses otherwise. While bearish price forecasts
+have persisted for some time, the physical market has remained stubbornly resilient.
+Nevertheless, we project that 2026 will be the year in which the average iron ore
+price settles into double-digit territory. Given the delivered price nature of the iron
+ore market, this could consequently have a significant impact on freight rates as
+well.
+• Our Long-term View - The last few years have been characterized by increased
+geopolitical uncertainty. Going forward, we expect such events to continue to affect
+global trade and have a meaningful impact on effective vessel supply. Combined
+with the potential for a multi-year cyclical rebound in China's economic activity
+following the recent economic turmoil, dry bulk shipping should experience higher
+volatility on top of a secular tightness driven by stable bulk commodity demand and
+a slower fleet growth owing to a relatively low orderbook.
+Breakwave Advisors LLC  17 State Street  New York, NY  breakwaveadvisors.com
+
+[Page 2]
+Baltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF)
+2500
+2000
+1500
+1000
+500
+BDIY (spot) BDRYFF (futures)
+0
+Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25 Sep-25 Oct-25 Nov-25
+The Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.
+The Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%
+Supramax and a weighted average maturity of approximately 50-70 days.
+Dry Bulk Fundamentals
+Demand YTD YOY
+China Steel Production 818mt -3.9%
+China Steel Inventories 4.1mt 33.8%
+China Iron Ore Inventories 140mt -7.4%
+China Iron Ore Imports 1030mt 0.6%
+China Coal Imports 388mt -10.9%
+China Soybean Imports 96mt 6.4%
+Brazil Iron Ore Exports 343mt 5.7%
+Australia Iron Ore Exports 681mt -0.1%
+Supply
+Dry Bulk Fleet 1061 mdwt 3.1%
+Freight Rates
+Baltic Dry Index, Average 1,616 -10.7%
+Capesize Spot Rates, Average 20,015 -14.7%
+Panamax Spot rates, Average 11,842 -10.5%
+Note: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals
+Sources: Bloomberg, IEA, Clarksons and Breakwave Advisors
+Disclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's internal use only.
+This report does not constitute and will not form part of and should not be construed as a solicitation of any offer or advice to buy or sell any security,
+commodity or instrument or related derivative or to participate in any trading or investment strategy. The opinions and estimates included herein reflect
+views and available information as of the dates specified and may have been and may be subject to change without notice. An investment in BDRY and/or BWET
+("the Funds") involves significant risks. You could lose all or part of your investment in the Funds, and each of the Fund's performance could trail that of other
+investments. The value of the Shares of the Funds relates directly to the value of, and realized profit or loss from, the Freight Futures and other assets held by the
+Fund, and fluctuations in price could materially affect the Funds' shares. Investments in freight futures typically fluctuate in value with changes in spot charter rates.
+Charter rates for dry bulk and tanker vessels are volatile and have declined significantly since their historic highs and may remain at low levels or decrease further
+in the future. The Funds will not take defensive positions to protect against declining freight rates, which could cause a decline to the value of the Funds' shares.
+The Funds are not a mutual funds or any other type of investment company within the meaning of the Investment Company Act of 1940, as amended,
+and are not subject to regulation thereunder.
+Please visit www.breakwaveadvisors.com/disclosures
+Breakwave Advisors LLC  17 State Street  New York, NY  breakwaveadvisors.com

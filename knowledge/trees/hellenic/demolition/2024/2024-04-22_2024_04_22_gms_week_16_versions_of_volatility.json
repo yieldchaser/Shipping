@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 22/04/2024\nImage reference: 2024-04-22_gms-week-16-versions-of-volatility_img1.jpg\nThis week, various holidays concluded across the globe just as Indian sub-continent ship recyclingmarkets started to perk up amidst fundamentals that have independently enjoyed varying degrees of volatility and resurgence over recent weeks. In fact, steel plate prices in Bangladesh & Pakistan remained flatlined at respectively firm levels - the effects of which has only helped these markets grab their share of high-priced fixtures since the start the of the year - all while the ever-volatile Indian plate price that fell last week, firmed, and even surged impressively this week. Currencies too have suffered tragic fates of late as nearly all recycling nation currencies have individually agonized through their own versions of volatility.",
   "keywords": [
+    "capesize",
+    "panamax",
     "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "ship",
-    "various",
-    "are",
-    "especially",
-    "even",
-    "now",
-    "recent",
-    "recyclers"
+    "ldt",
+    "may",
+    "april"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 680,
+  "token_count": 5737,
   "source_path": "reports/hellenic/demolition/2024/2024-04-22_gms-week-16-versions-of-volatility.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-16-versions-of-volatility",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 678,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-04-22_2024_04_22_gms_week_16_versions_of_volatility__s02_linked_asset_2024_04_22_ship_recycling_market_insight_week_16_2024_versions_of_volatility_pdf",
+      "doc_id": "hellenic_demolition_2024-04-22_2024_04_22_gms_week_16_versions_of_volatility",
+      "parent_id": "hellenic_demolition_2024-04-22_2024_04_22_gms_week_16_versions_of_volatility__root",
+      "title": "Linked asset: 2024-04-22_Ship-recycling-market-insight-week-16-2024-Versions_of_Volatility.pdf",
+      "section_path": [
+        "Linked asset: 2024-04-22_Ship-recycling-market-insight-week-16-2024-Versions_of_Volatility.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-04-22_Ship-recycling-market-insight-week-16-2024-Versions_of_Volatility.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-04-22_Ship-recycling-market-insight-week-16-2024-Versions_of_Volatility.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nApril 19th, 2024 \"Life is one fool thing after another,\nWeek 16 whereas love is two fool things after each other.\"\nVolume 2 60, Issue 1130\n- Oscar Wilde\n`\nHighlights: MARKET COMMENTARY\n\"Ther\nV\ne a\nE\nre\nR\non\nS\nl\nI\ny\nO\ntw\nN\no o\nS\np t\nO\nion\nF\ns\nV\nreg\nO\nar\nL\ndi\nA\nng\nT\nc\nI\no\nL\nm\nI\nm\nT\nit\nY\nm\n! You're either in or\nyou're out.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5025,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

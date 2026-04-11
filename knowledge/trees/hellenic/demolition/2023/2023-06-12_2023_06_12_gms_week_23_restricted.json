@@ -13,20 +13,20 @@
   "keywords": [
     "container",
     "china",
+    "atlantic",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "last",
-    "are",
-    "busy",
-    "buyers",
-    "currency",
-    "end",
-    "ongoing"
+    "gas",
+    "june",
+    "ldt",
+    "beached"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 520,
+  "token_count": 4966,
   "source_path": "reports/hellenic/demolition/2023/2023-06-12_gms-week-23-restricted.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-23-restricted",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 518,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-06-12_2023_06_12_gms_week_23_restricted__s02_linked_asset_2023_06_12_ship_recycling_market_insight_week_23_2023_restricted_pdf",
+      "doc_id": "hellenic_demolition_2023-06-12_2023_06_12_gms_week_23_restricted",
+      "parent_id": "hellenic_demolition_2023-06-12_2023_06_12_gms_week_23_restricted__root",
+      "title": "Linked asset: 2023-06-12_Ship-recycling-market-insight-week-23-2023-Restricted.pdf",
+      "section_path": [
+        "Linked asset: 2023-06-12_Ship-recycling-market-insight-week-23-2023-Restricted.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-06-12_Ship-recycling-market-insight-week-23-2023-Restricted.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-06-12_Ship-recycling-market-insight-week-23-2023-Restricted.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nJune 9th, 2023 \"You're never born into a h appy life, nor d o you find one along the way,\nVolume 2 50, Issue 1086 you just have to make one.\"\nWeek 23\n- Anonymous\nHighlights: MARKET COMMENTARY\n\"There are only t R woE oSpTtioRnIs CreTgaErdDin!g commitment. You're either in or\nyou're out.",
+      "keywords": [
+        "container",
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4417,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -15,18 +15,18 @@
     "panamax",
     "supramax",
     "lng",
+    "lpg",
     "container",
+    "china",
     "europe",
     "india",
-    "grain",
-    "crude_oil",
-    "steel",
-    "gas",
-    "continue"
+    "singapore",
+    "japan",
+    "coal"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 650,
+  "token_count": 6861,
   "source_path": "reports/hellenic/demolition/2025/2025-09-22_gms-week-38-september-serene.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-38-september-serene",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 648,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-09-22_2025_09_22_gms_week_38_september_serene__s02_linked_asset_2025_09_22_ship_recycling_market_insight_week_38_09_19_2025_september_serene_pdf",
+      "doc_id": "hellenic_demolition_2025-09-22_2025_09_22_gms_week_38_september_serene",
+      "parent_id": "hellenic_demolition_2025-09-22_2025_09_22_gms_week_38_september_serene__root",
+      "title": "Linked asset: 2025-09-22_Ship-recycling-market-insight-Week-38-09-19-2025-September_Serene.pdf",
+      "section_path": [
+        "Linked asset: 2025-09-22_Ship-recycling-market-insight-Week-38-09-19-2025-September_Serene.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-09-22_Ship-recycling-market-insight-Week-38-09-19-2025-September_Serene.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-09-22_Ship-recycling-market-insight-Week-38-09-19-2025-September_Serene.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nSeptember 19th, 2025\n1\n\"The most difficult thing is the decision to act; the rest is merely tenacity.\"\nWeek 38\nVolume 276, Issue 1203 - Amelia Earhart\nHighlig hts: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6175,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

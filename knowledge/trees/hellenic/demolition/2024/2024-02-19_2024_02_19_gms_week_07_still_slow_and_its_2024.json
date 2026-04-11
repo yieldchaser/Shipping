@@ -16,17 +16,17 @@
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
+    "coal",
     "steel",
-    "are",
-    "overall",
-    "recycling",
-    "all",
-    "continue",
-    "markets"
+    "gas",
+    "february",
+    "bangladesh"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 581,
+  "token_count": 5420,
   "source_path": "reports/hellenic/demolition/2024/2024-02-19_gms-week-07-still-slow-and-its-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-07-still-slow-and-its-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 579,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-02-19_2024_02_19_gms_week_07_still_slow_and_its_2024__s02_linked_asset_2024_02_19_ship_recycling_market_insight_week_07_2024_still_slow_and_its_2024_pdf",
+      "doc_id": "hellenic_demolition_2024-02-19_2024_02_19_gms_week_07_still_slow_and_its_2024",
+      "parent_id": "hellenic_demolition_2024-02-19_2024_02_19_gms_week_07_still_slow_and_its_2024__root",
+      "title": "Linked asset: 2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf",
+      "section_path": [
+        "Linked asset: 2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-02-19_Ship-recycling-market-insight-week-07-2024-Still-Slow-And-Its-2024.pdf\n\n[Page 1]\n*I\n, l'\n-+Ali / +N\nFebruary 16th, 2024 \"Basically, the first half of life is writing the text, and the second half is\nVolume 258, Issue 1122 writing the commentary on that text.\"\nWeek 7 - Richard Rohr\n`\nHighlights: MARKET COMMENTARY\nSTILL SLOW… AND IT'S 2024! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4802,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

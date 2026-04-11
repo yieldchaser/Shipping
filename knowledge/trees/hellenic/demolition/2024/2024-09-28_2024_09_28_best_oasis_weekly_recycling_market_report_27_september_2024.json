@@ -9,24 +9,24 @@
   "section_path_text": "Best Oasis Weekly Recycling Market Report, 27 September 2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 28/09/2024\nThis week, the ship recycling industry displayed varied dynamics across different regions. In India, the market experienced a noticeable improvement\nSource: Best Oasis Limited",
+  "summary": "Main\nin Weekly Demolition Reports 28/09/2024\nThis week, the ship recycling industry displayed varied dynamics across different regions. In India, the market experienced a noticeable improvement\nSource: Best Oasis Limited\n\nLinked asset: 2024-09-28_Weekly-Ship-Recycling-Report-21-September-27-September-2024_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2024-09-28_Weekly-Ship-Recycling-Report-21-September-27-September-2024_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n21 September - 27 September 2024\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThis week, the ship recycling industry displayed varied dynamics across different regions. In India, the market experienced a noticeable improvement,\nparticularly in the local scrap market, which brought a wave of optimism.",
   "keywords": [
+    "capesize",
+    "container",
+    "china",
+    "europe",
     "india",
-    "best",
-    "demolition",
-    "different",
-    "displayed",
-    "dynamics",
-    "experienced",
-    "improvement",
-    "limited",
-    "main",
-    "noticeable",
-    "oasis"
+    "singapore",
+    "japan",
+    "steel",
+    "previous",
+    "recycling",
+    "ship",
+    "october"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 45,
+  "token_count": 2077,
   "source_path": "reports/hellenic/demolition/2024/2024-09-28_best-oasis-weekly-recycling-market-report-27-september-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-27-september-2024",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 43,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-09-28_2024_09_28_best_oasis_weekly_recycling_market_report_27_september_2024__s02_linked_asset_2024_09_28_weekly_ship_recycling_report_21_september_27_september_2024_compressed_pdf",
+      "doc_id": "hellenic_demolition_2024-09-28_2024_09_28_best_oasis_weekly_recycling_market_report_27_september_2024",
+      "parent_id": "hellenic_demolition_2024-09-28_2024_09_28_best_oasis_weekly_recycling_market_report_27_september_2024__root",
+      "title": "Linked asset: 2024-09-28_Weekly-Ship-Recycling-Report-21-September-27-September-2024_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2024-09-28_Weekly-Ship-Recycling-Report-21-September-27-September-2024_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-09-28_Weekly-Ship-Recycling-Report-21-September-27-September-2024_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-09-28_Weekly-Ship-Recycling-Report-21-September-27-September-2024_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n21 September - 27 September 2024\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThis week, the ship recycling industry displayed varied dynamics across different regions. In India, the market experienced a noticeable improvement,\nparticularly in the local scrap market, which brought a wave of optimism.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1997,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

@@ -15,18 +15,18 @@
     "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
     "steel",
-    "pakistan",
-    "recycling",
+    "january",
+    "ldt",
     "bangladesh",
-    "prices",
-    "vessels",
-    "year"
+    "prices"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 411,
+  "token_count": 4578,
   "source_path": "reports/hellenic/demolition/2023/2023-01-30_gms-week-4-looking-up.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-4-looking-up",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 409,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-01-30_2023_01_30_gms_week_4_looking_up__s02_linked_asset_2023_01_30_ship_recycling_market_insight_week_04_2023_looking_up_pdf",
+      "doc_id": "hellenic_demolition_2023-01-30_2023_01_30_gms_week_4_looking_up",
+      "parent_id": "hellenic_demolition_2023-01-30_2023_01_30_gms_week_4_looking_up__root",
+      "title": "Linked asset: 2023-01-30_Ship-recycling-market-insight-week-04-2023-Looking-Up.pdf",
+      "section_path": [
+        "Linked asset: 2023-01-30_Ship-recycling-market-insight-week-04-2023-Looking-Up.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-01-30_Ship-recycling-market-insight-week-04-2023-Looking-Up.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-01-30_Ship-recycling-market-insight-week-04-2023-Looking-Up.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nJanuary 2 7th, 2023\n\"Weaknesses are just strengths in the wrong environment.\"\nVolume 246, Issue 1067\n- Marianne Cantwell\nWeek 4\nHighlights: MARKET COMMENTARY\nLOOKING UP! \"There are only two options regarding commitment.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4137,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

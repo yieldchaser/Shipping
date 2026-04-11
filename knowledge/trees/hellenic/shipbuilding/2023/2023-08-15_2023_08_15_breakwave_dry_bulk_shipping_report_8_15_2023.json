@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 8.15.2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 15/08/2023\nPanamax spot rates shine as grain and mineral demand increases - The past few weeks have been quite positive for the smaller size dry bulk vessels,\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 15/08/2023\nPanamax spot rates shine as grain and mineral demand increases - The past few weeks have been quite positive for the smaller size dry bulk vessels,\nSource: Breakwave Advisors\n\nLinked asset: 2023-08-15_BreakwaveDryAugust152023Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-08-15_BreakwaveDryAugust152023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nAugust 15, 2023\nBreakwave Dry Futures Index: 1,382 Baltic Dry Index (spot): 1,135 Short-term Indicators:\n↑ 30D: 11.2% ↑ 30D: 4.1% Momentum: Positive\n↑ YTD: 34.5% ↓ YTD: -25.1% Sentiment: Neutral\n↓ YOY: -16.3% ↓ YOY: -23.2% Fundamentals: Neutral\nBi-Weekly Report\n• Panamax spot rates shine as grain and mineral demand increases - The past few weeks have been quite positive\nfor the smaller size dry bulk vessels, with Panamax spot rates up more than 60% from recent lows while Supramax\nspot rates also have followed the move higher, though to a lesser extent. Strong demand for grains but also for coal\nare the main reasons for the recovery, which should remain in place for the foreseeable future as the North Atlantic\nmarket appears tight in tonnage. On the other hand, little has changed",
   "keywords": [
+    "capesize",
     "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "iron_ore",
+    "coal",
     "grain",
-    "demand",
-    "few",
-    "increases",
-    "main",
-    "mineral",
-    "past",
-    "positive",
-    "quite",
-    "shine",
-    "shipbuilding"
+    "crude_oil",
+    "products"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 48,
+  "token_count": 1440,
   "source_path": "reports/hellenic/shipbuilding/2023/2023-08-15_breakwave-dry-bulk-shipping-report-8-15-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-8-15-2023",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 46,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-08-15_2023_08_15_breakwave_dry_bulk_shipping_report_8_15_2023__s02_linked_asset_2023_08_15_breakwavedryaugust152023report_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-08-15_2023_08_15_breakwave_dry_bulk_shipping_report_8_15_2023",
+      "parent_id": "hellenic_shipbuilding_2023-08-15_2023_08_15_breakwave_dry_bulk_shipping_report_8_15_2023__root",
+      "title": "Linked asset: 2023-08-15_BreakwaveDryAugust152023Report.pdf",
+      "section_path": [
+        "Linked asset: 2023-08-15_BreakwaveDryAugust152023Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-08-15_BreakwaveDryAugust152023Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-08-15_BreakwaveDryAugust152023Report.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nAugust 15, 2023\nBreakwave Dry Futures Index: 1,382 Baltic Dry Index (spot): 1,135 Short-term Indicators:\n↑ 30D: 11.2% ↑ 30D: 4.1% Momentum: Positive\n↑ YTD: 34.5% ↓ YTD: -25.1% Sentiment: Neutral\n↓ YOY: -16.3% ↓ YOY: -23.2% Fundamentals: Neutral\nBi-Weekly Report\n• Panamax spot rates shine as grain and mineral demand increases - The past few weeks have been quite positive\nfor the smaller size dry bulk vessels, with Panamax spot rates up more than 60% from recent lows while Supramax\nspot rates also have followed the move higher, though to a lesser extent. Strong demand for grains but also for coal\nare the main reasons for the recovery, which should remain in place for the foreseeable future as the North Atlantic\nmarket appears tight in tonnage.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1371,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

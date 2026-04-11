@@ -9,24 +9,24 @@
   "section_path_text": "Breakwave Dry Bulk Shipping Report 6.24.2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 24/06/2025\nCapesize Spike Fades as Market Balance Loosens - The recent rally that pushed spot Capesize rates to the $30,000 mark is beginning to lose steam,\nSource: Breakwave Advisors",
+  "summary": "Main\nin Weekly Shipbuilding Reports 24/06/2025\nCapesize Spike Fades as Market Balance Loosens - The recent rally that pushed spot Capesize rates to the $30,000 mark is beginning to lose steam,\nSource: Breakwave Advisors\n\nLinked asset: 2025-06-24_BreakwaveDryJune242025Report.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-06-24_BreakwaveDryJune242025Report.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJune 24, 2025\n• Capesize Spike Fades as Market Balance Loosens - The recent rally that pushed\nShort-term Indicators\nspot Capesize rates to the $30,000 mark is beginning to lose steam, with signs of\nMomentum: Neutral\nweakness emerging in the Pacific market. Simultaneously, the previously\noverheated Atlantic basin is now experiencing an increase in vessel availability Sentiment: Negative\nfor July loading dates. These developments have long been anticipated by the Fundamentals: Neutral\nfreight futures market, which has notably not mirrored the surge in spot rates to the\nsame extent.",
   "keywords": [
     "capesize",
-    "balance",
-    "beginning",
-    "fades",
-    "loosens",
-    "lose",
-    "main",
-    "mark",
-    "pushed",
-    "rally",
-    "recent",
-    "shipbuilding"
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 56,
+  "token_count": 1728,
   "source_path": "reports/hellenic/shipbuilding/2025/2025-06-24_breakwave-dry-bulk-shipping-report-6-24-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-24-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 54,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-06-24_2025_06_24_breakwave_dry_bulk_shipping_report_6_24_2025__s02_linked_asset_2025_06_24_breakwavedryjune242025report_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-06-24_2025_06_24_breakwave_dry_bulk_shipping_report_6_24_2025",
+      "parent_id": "hellenic_shipbuilding_2025-06-24_2025_06_24_breakwave_dry_bulk_shipping_report_6_24_2025__root",
+      "title": "Linked asset: 2025-06-24_BreakwaveDryJune242025Report.pdf",
+      "section_path": [
+        "Linked asset: 2025-06-24_BreakwaveDryJune242025Report.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-06-24_BreakwaveDryJune242025Report.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-06-24_BreakwaveDryJune242025Report.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJune 24, 2025\n• Capesize Spike Fades as Market Balance Loosens - The recent rally that pushed\nShort-term Indicators\nspot Capesize rates to the $30,000 mark is beginning to lose steam, with signs of\nMomentum: Neutral\nweakness emerging in the Pacific market. Simultaneously, the previously\noverheated Atlantic basin is now experiencing an increase in vessel availability Sentiment: Negative\nfor July loading dates.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1651,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

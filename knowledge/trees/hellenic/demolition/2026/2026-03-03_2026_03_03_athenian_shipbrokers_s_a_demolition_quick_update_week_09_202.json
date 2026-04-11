@@ -9,23 +9,24 @@
   "section_path_text": "Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 09, 2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Demolition Reports 03/03/2026\nImage reference: 2026-03-03_athenian-shipbrokers-s-a-demolition-quick-update-week-09-202_img1.jpg\nAthenian Shipbrokers SA Ship Recycling Weekly Report\nSource: ATHENIAN SHIPBROKERS S.A.",
+  "summary": "Main\nin Weekly Demolition Reports 03/03/2026\nImage reference: 2026-03-03_athenian-shipbrokers-s-a-demolition-quick-update-week-09-202_img1.jpg\nAthenian Shipbrokers SA Ship Recycling Weekly Report\nSource: ATHENIAN SHIPBROKERS S.A. Linked asset: 2026-03-03_Week_09_Athenian_Demolition_Report_2026.pdf\nSource asset: reports/hellenic/demolition/pdfs/2026-03-03_Week_09_Athenian_Demolition_Report_2026.pdf\n\n[Page 1]\nVasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE\nTel:+30 210 9659700\nEmail S & P: athenian@atheniansa.gr / Email Chartering: chartering@atheniansa.gr\nShip Recycling Market Report\nWeek 09 (23rd February 2026 to 28th February 2026)\nIndia Bangladesh Pakistan Turkey\nWEEKLY TREND: UPWARDS\n$US/LT Ldt\n$410 $410 $425 $276\n$425 $425 $445 $286\n$455\n$435 $435 $296\nYearly Demolition 2011-2026\nMio Tons DWT\n60 55.8\n50 47 44.6\n40\n40 38.8\n34.3 35.3 30.4\n30\n23.2 23.7\n20 16.9\n12.5\n10.5 9.85 11.45\n10\n1.75\n0\n2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026\nPLEASED TO GUIDE YOU FURTHER WITH ANY DEMOLITION REQUIREMENTS YOU MAY HAVE, ALWAYS WITH FIRST\nCLASS CASH BUYERS/SHIP RECYCLERS FOR DELY TURKEY / INDIA / BANGLADESH / PAKISTAN / CHINA RANGE. www.athen",
   "keywords": [
+    "china",
+    "india",
     "athenian",
     "shipbrokers",
-    "athenian-shipbrokers-s-a-demolition-quick-update-week-09-202_img1.jpg",
+    "any",
     "demolition",
-    "image",
-    "main",
-    "recycling",
-    "reference",
     "s.a.",
-    "ship",
-    "source"
+    "asset",
+    "atheniansa.gr",
+    "bangladesh",
+    "chartering",
+    "email"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 77,
+  "token_count": 582,
   "source_path": "reports/hellenic/demolition/2026/2026-03-03_athenian-shipbrokers-s-a-demolition-quick-update-week-09-202.html",
   "source_url": "https://www.hellenicshippingnews.com/athenian-shipbrokers-s-a-demolition-quick-update-week-09-2026",
   "children": [
@@ -55,6 +56,34 @@
       "page_end": null,
       "token_count": 75,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-03_2026_03_03_athenian_shipbrokers_s_a_demolition_quick_update_week_09_202__s02_linked_asset_2026_03_03_week_09_athenian_demolition_report_2026_pdf",
+      "doc_id": "hellenic_demolition_2026-03-03_2026_03_03_athenian_shipbrokers_s_a_demolition_quick_update_week_09_202",
+      "parent_id": "hellenic_demolition_2026-03-03_2026_03_03_athenian_shipbrokers_s_a_demolition_quick_update_week_09_202__root",
+      "title": "Linked asset: 2026-03-03_Week_09_Athenian_Demolition_Report_2026.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-03_Week_09_Athenian_Demolition_Report_2026.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-03_Week_09_Athenian_Demolition_Report_2026.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-03-03_Week_09_Athenian_Demolition_Report_2026.pdf\n\n[Page 1]\nVasileos Pavlou Avenue 107 - 109,GR 166 73, Voula, Athens,GREECE\nTel:+30 210 9659700\nEmail S & P: athenian@atheniansa.gr / Email Chartering: chartering@atheniansa.gr\nShip Recycling Market Report\nWeek 09 (23rd February 2026 to 28th February 2026)\nIndia Bangladesh Pakistan Turkey\nWEEKLY TREND: UPWARDS\n$US/LT Ldt\n$410 $410 $425 $276\n$425 $425 $445 $286\n$455\n$435 $435 $296\nYearly Demolition 2011-2026\nMio Tons DWT\n60 55.8\n50 47 44.6\n40\n40 38.8\n34.3 35.3 30.4\n30\n23.2 23.7\n20 16.9\n12.5\n10.5 9.85 11.45\n10\n1.75\n0\n2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026\nPLEASED TO GUIDE YOU FURTHER WITH ANY DEMOLITION REQUIREMENTS YOU MAY HAVE, ALWAYS WITH FIRST\nCLASS CASH BUYERS/SHIP RECYCLERS FOR DELY TURKEY / INDIA / BANGLADESH / PAKISTAN / CHINA RANGE. www.atheniansa.com\nDisclaimer: Information and data that appear in this report have been obtained from various sources which are believed to be correct and reliable.",
+      "keywords": [
+        "china",
+        "india",
+        "any",
+        "athenian",
+        "atheniansa.gr",
+        "bangladesh",
+        "chartering",
+        "demolition"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 478,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

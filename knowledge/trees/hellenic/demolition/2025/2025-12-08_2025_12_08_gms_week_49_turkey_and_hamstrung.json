@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "lng",
+    "lpg",
+    "container",
+    "china",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
-    "steel",
-    "gas",
-    "ship",
-    "all",
-    "recycling",
-    "lack"
+    "steel"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 626,
+  "token_count": 6653,
   "source_path": "reports/hellenic/demolition/2025/2025-12-08_gms-week-49-turkey-and-hamstrung.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-49-turkey-and-hamstrung",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 624,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-12-08_2025_12_08_gms_week_49_turkey_and_hamstrung__s02_linked_asset_2025_12_08_ship_recycling_market_insight_week_49_12_05_2025_turkey_and_ham_strung_pdf",
+      "doc_id": "hellenic_demolition_2025-12-08_2025_12_08_gms_week_49_turkey_and_hamstrung",
+      "parent_id": "hellenic_demolition_2025-12-08_2025_12_08_gms_week_49_turkey_and_hamstrung__root",
+      "title": "Linked asset: 2025-12-08_Ship-recycling-market-insight-Week-49-12-05-2025-Turkey_and-Ham...Strung.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-08_Ship-recycling-market-insight-Week-49-12-05-2025-Turkey_and-Ham...Strung.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-08_Ship-recycling-market-insight-Week-49-12-05-2025-Turkey_and-Ham...Strung.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-12-08_Ship-recycling-market-insight-Week-49-12-05-2025-Turkey_and-Ham...Strung.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nDecembe r 5th, 2025\n1\n\"\"If you don't risk anything, you risk even more.\"\nWeek 49\nVolume 2 79, Issue 1214 - Erica Jong\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment. You're either in or you're\nout.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 5987,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

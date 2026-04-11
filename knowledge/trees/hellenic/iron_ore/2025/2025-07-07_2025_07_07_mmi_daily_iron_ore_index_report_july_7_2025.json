@@ -12,21 +12,21 @@
   "summary": "Main\nin Chinese iron ore and steelmaking prices 07/07/2025\nToday, Dalian iron ore futures pulled back from highs and traded in the doldrums throughout the day. The most-traded contract I2509eventually closed at 731, with a daily decline of 0.68%. Traders sold goods according to market conditions.",
   "keywords": [
     "china",
+    "brazil",
+    "australia",
+    "singapore",
     "iron_ore",
+    "bauxite",
+    "crude_oil",
     "steel",
+    "fines",
     "ore",
-    "prices",
-    "yuan/mt",
     "iron",
-    "transaction",
-    "around",
-    "back",
-    "end",
-    "fines"
+    "jul"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 318,
+  "token_count": 10753,
   "source_path": "reports/hellenic/iron_ore/2025/2025-07-07_mmi-daily-iron-ore-index-report-july-7-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-july-7-2025",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 316,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2025-07-07_2025_07_07_mmi_daily_iron_ore_index_report_july_7_2025__s02_linked_asset_2025_07_07_mmi_daily_iron_ore_report_for_7th_july_2025_compressed_pdf",
+      "doc_id": "hellenic_iron_ore_2025-07-07_2025_07_07_mmi_daily_iron_ore_index_report_july_7_2025",
+      "parent_id": "hellenic_iron_ore_2025-07-07_2025_07_07_mmi_daily_iron_ore_index_report_july_7_2025__root",
+      "title": "Linked asset: 2025-07-07_MMi-Daily-Iron-Ore-Report-for-7th-July-2025_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2025-07-07_MMi-Daily-Iron-Ore-Report-for-7th-July-2025_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-07-07_MMi-Daily-Iron-Ore-Report-for-7th-July-2025_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-07-07_MMi-Daily-Iron-Ore-Report-for-7th-July-2025_compressed.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Jul 7th, 2025\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n743 855 647\n-1 -0.15% -0.84 -0.10% 0 -0.05%\nJul 7th, 2025 Jul 7th, 2025 Jul 7th, 2025\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n96.89 102.00 873\n0.07 0.07% -0.22 -0.22% 18 2.11%\nJul 7th, 2025 Jul 7th, 2025 Week Ending Jul 4th, 2025\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2509 (September) RMB/t (3pm close) August 25 USD/dmt RB2510 (Jan) RMB/t\n731.00 95.20 3061\n-1.50 -0.20% -0.65 -0.68% -11 -0.36%\nJul 7th, 2025 (3pm close) Jul 7th, 2025 (5.30 pm Print) Jul 7th, 2025 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n18.61 7.39 311",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 10402,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

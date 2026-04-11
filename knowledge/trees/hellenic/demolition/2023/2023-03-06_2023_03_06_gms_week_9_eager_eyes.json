@@ -14,19 +14,19 @@
     "capesize",
     "lng",
     "container",
+    "china",
+    "meg",
     "india",
+    "singapore",
+    "japan",
+    "steel",
     "gas",
-    "markets",
-    "are",
-    "local",
-    "recycling",
-    "bangladesh",
-    "even",
-    "few"
+    "ldt",
+    "march"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 499,
+  "token_count": 4834,
   "source_path": "reports/hellenic/demolition/2023/2023-03-06_gms-week-9-eager-eyes.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-9-eager-eyes",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 497,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-03-06_2023_03_06_gms_week_9_eager_eyes__s02_linked_asset_2023_03_06_ship_recycling_market_insight_week_09_2023_eager_eyes_pdf",
+      "doc_id": "hellenic_demolition_2023-03-06_2023_03_06_gms_week_9_eager_eyes",
+      "parent_id": "hellenic_demolition_2023-03-06_2023_03_06_gms_week_9_eager_eyes__root",
+      "title": "Linked asset: 2023-03-06_Ship-recycling-market-insight-week-09-2023-Eager-Eyes.pdf",
+      "section_path": [
+        "Linked asset: 2023-03-06_Ship-recycling-market-insight-week-09-2023-Eager-Eyes.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-03-06_Ship-recycling-market-insight-week-09-2023-Eager-Eyes.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-03-06_Ship-recycling-market-insight-week-09-2023-Eager-Eyes.pdf\n\n[Page 1]\nI\n, l'\n-+Ali / +N\nMarch 3r d, 2023\n\"Don't try to lessen yourself for the world; let the world catch up to you.\"\nVolume 248, Issue 1072\nWeek 9 - Beyonce\nHighlights: MARKET COMMENTARY\nEAGER EYES! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "container",
+        "china",
+        "meg",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4305,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

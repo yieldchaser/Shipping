@@ -14,19 +14,19 @@
     "capesize",
     "panamax",
     "handysize",
+    "container",
+    "china",
+    "west_africa",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "steel",
-    "buyers",
-    "are",
-    "all",
-    "any",
-    "cash",
-    "prices"
+    "ldt"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 432,
+  "token_count": 4557,
   "source_path": "reports/hellenic/demolition/2022/2022-11-01_gms-week-43-two-tier-market.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-43-two-tier-market",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 430,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-11-01_2022_11_01_gms_week_43_two_tier_market__s02_linked_asset_2022_11_01_ship_recycling_market_insight_week_43_2022_two_tier_market_pdf",
+      "doc_id": "hellenic_demolition_2022-11-01_2022_11_01_gms_week_43_two_tier_market",
+      "parent_id": "hellenic_demolition_2022-11-01_2022_11_01_gms_week_43_two_tier_market__root",
+      "title": "Linked asset: 2022-11-01_Ship-recycling-market-insight-week-43-2022-Two-Tier-Market.pdf",
+      "section_path": [
+        "Linked asset: 2022-11-01_Ship-recycling-market-insight-week-43-2022-Two-Tier-Market.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-11-01_Ship-recycling-market-insight-week-43-2022-Two-Tier-Market.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-11-01_Ship-recycling-market-insight-week-43-2022-Two-Tier-Market.pdf\n\n[Page 1]\n, l'\n-+Ali / +N\nOctober 28th, 2022\n\"Keep a little fire burning; however small, however hidden.\"\nVolume 243, Issue 1054\n- Cormac McCarthy\nWeek 43\nHighlights: MARKET COMMENTARY\nTWO TIER MARKET! \"There are only two options regarding commitment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "container",
+        "china",
+        "west_africa",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4093,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

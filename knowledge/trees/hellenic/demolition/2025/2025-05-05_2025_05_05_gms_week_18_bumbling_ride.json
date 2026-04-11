@@ -11,22 +11,22 @@
   "ordinal": 0,
   "summary": "Main\nin Weekly Demolition Reports 05/05/2025\nImage reference: 2025-05-05_gms-week-18-bumbling-ride_img1.jpg\nDespite Trumpian-economics reversing course on nearly all executive trade actions and decisions within a few weeks of world economies collapsingand retaliatory tariffs to recent U.S. trade policies has seen a growing number of countries taking an opposing stance against this regime and has resulted in global trade being severely affected as major ports across American coastlines are slowly turning empty. And as inflation starts to slowly ramp up across the world, America on the other hand is gradually heading for a recession as the American economy shrank through Q1 and nothing has shown this more glaringly than the performance of the U.S.",
   "keywords": [
+    "container",
     "china",
+    "pacific",
     "europe",
     "india",
+    "singapore",
+    "japan",
     "crude_oil",
     "steel",
-    "trade",
-    "ship",
-    "against",
-    "being",
-    "markets",
-    "recycling",
-    "seems"
+    "may",
+    "ldt",
+    "pakistan"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 722,
+  "token_count": 7091,
   "source_path": "reports/hellenic/demolition/2025/2025-05-05_gms-week-18-bumbling-ride.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-18-bumbling-ride",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 720,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-05-05_2025_05_05_gms_week_18_bumbling_ride__s02_linked_asset_2025_05_05_ship_recycling_market_insight_week_18_05_02_2025_bumbling_ride_1746403441_pdf",
+      "doc_id": "hellenic_demolition_2025-05-05_2025_05_05_gms_week_18_bumbling_ride",
+      "parent_id": "hellenic_demolition_2025-05-05_2025_05_05_gms_week_18_bumbling_ride__root",
+      "title": "Linked asset: 2025-05-05_Ship-recycling-market-insight-Week-18-05-02-2025-Bumbling_Ride-1746403441.pdf",
+      "section_path": [
+        "Linked asset: 2025-05-05_Ship-recycling-market-insight-Week-18-05-02-2025-Bumbling_Ride-1746403441.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-05-05_Ship-recycling-market-insight-Week-18-05-02-2025-Bumbling_Ride-1746403441.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-05-05_Ship-recycling-market-insight-Week-18-05-02-2025-Bumbling_Ride-1746403441.pdf\n\n[Page 1]\n` *I\n, l'\n-+Ali / +N\nMay 2nd, 2025\n1\n\"Live your life as an Exclamation rather than an Explanation.\"\nWeek 18\n- Isaac Newton\nVolume 272, Issue 1183\nHighlig hts: -- MARKET COMMENTARY --\nBUMBLING RIDE! \"There are only two options regarding commitment.",
+      "keywords": [
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6329,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]

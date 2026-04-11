@@ -9,24 +9,24 @@
   "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
   "level": 0,
   "ordinal": 0,
-  "summary": "Main\nin Weekly Shipbuilding Reports 16/07/2021\nIn the tanker market, it was reported that an unknown owner ordered two firm 50k dwt MR tankers at STX, with both vessels to be delivered in 4Q\nSource: Clarkson Platou (Hellas) ltd\ntweet",
+  "summary": "Main\nin Weekly Shipbuilding Reports 16/07/2021\nIn the tanker market, it was reported that an unknown owner ordered two firm 50k dwt MR tankers at STX, with both vessels to be delivered in 4Q\nSource: Clarkson Platou (Hellas) ltd\ntweet\n\nLinked asset: 2021-07-16_REPORT-16-07-2021.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-07-16_REPORT-16-07-2021.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 16 July 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S70MC-C SS 10/25\nBULK DENMARK 181,458 2010 KOYO RGN USD 31 M GREEKS\nBWTS & Scrubber fitted DD 11/23\nMAN-B&W 6S60MC-C SS 09/25 USD 21 M\nLOWLANDS GREEN 95,650 2011 IMABARI U/D\nBWTS fitted DD 12/23 (Delivery Jan 2022)\nMAN-B&W 7S50MC-C SS 02/26\nNAVIOS MARCO POLO 80,647 2011 UNIVERSAL HIGH $ 22 U/D\nBWTS fitted DD 02/24\nMAN-B&W 6S50MC-C8.1 SS 06/22 CHINESE\nBELFRI 55,866 2007 KAWASAKI USD 15.3 M\n4 x 30 T DD 06/22 (c/o Jinhui)\nMAN-B&W 6S42MC\nSS 01/26\nGREAT RESOURCE 31,776 2010 GUANGZHOU HUANGPU 4 x 30 T USD 12.6 M GREEKS\nDD 11/23\nBWTS fitted, Ice-1B\nMAN-B&W 6S42MC\nSS 10/22 HIGH USD 12 M HK BASED\nKING RICE 28,250 2012 I-S 4 x 30 T\nDD 10/22 (Delivery Jan 2022) (c/o Taylor Maritime)\nBWTS fitted\nTANKERS - C",
   "keywords": [
-    "both",
-    "clarkson",
-    "delivered",
-    "dwt",
-    "firm",
-    "hellas",
-    "ltd",
-    "main",
-    "ordered",
-    "owner",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "gas",
+    "any",
+    "information",
+    "clarksons",
     "platou",
-    "reported"
+    "delivery"
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 65,
+  "token_count": 2356,
   "source_path": "reports/hellenic/shipbuilding/2021/2021-07-16_clarkson-platou-hellas-sp-weekly-bulletin-109.html",
   "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-109",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 63,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-07-16_2021_07_16_clarkson_platou_hellas_sp_weekly_bulletin_109__s02_linked_asset_2021_07_16_report_16_07_2021_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-07-16_2021_07_16_clarkson_platou_hellas_sp_weekly_bulletin_109",
+      "parent_id": "hellenic_shipbuilding_2021-07-16_2021_07_16_clarkson_platou_hellas_sp_weekly_bulletin_109__root",
+      "title": "Linked asset: 2021-07-16_REPORT-16-07-2021.pdf",
+      "section_path": [
+        "Linked asset: 2021-07-16_REPORT-16-07-2021.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-07-16_REPORT-16-07-2021.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-07-16_REPORT-16-07-2021.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 16 July 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S70MC-C SS 10/25\nBULK DENMARK 181,458 2010 KOYO RGN USD 31 M GREEKS\nBWTS & Scrubber fitted DD 11/23\nMAN-B&W 6S60MC-C SS 09/25 USD 21 M\nLOWLANDS GREEN 95,650 2011 IMABARI U/D\nBWTS fitted DD 12/23 (Delivery Jan 2022)\nMAN-B&W 7S50MC-C SS 02/26\nNAVIOS MARCO POLO 80,647 2011 UNIVERSAL HIGH $ 22 U/D\nBWTS fitted DD 02/24\nMAN-B&W 6S50MC-C8.1 SS 06/22 CHINESE\nBELFRI 55,866 2007 KAWASAKI USD 15.3 M\n4 x 30 T DD 06/22 (c/o Jinhui)\nMAN-B&W 6S42MC\nSS 01/26\nGREAT RESOURCE 31,776 2010 GUANGZHOU HUANGPU 4 x 30 T USD 12.6 M GREEKS\nDD 11/23\nBWTS fitted, Ice-1B\nMAN-B&W 6S42MC\nSS 10/22 HIGH USD 12 M HK BASED\nKING RICE 28,250 2012 I-S 4 x 30 T\nDD 10/22 (Delivery Jan 2022) (c/o Taylor Maritime)\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 03/25\nTAKAHASHI 314,020 2007 NACKS MAN-B&W 7S80MC-C RGN USD 34 M GREEKS\nDD 03/23\nMAN-B&W 6S50MC-C SS 04/22\nFS SINCERITY 48,045 2009 NAIKAI HIGH USD 13 M U/D\n4 Pumps DD 04/22\nNEW BUILDING\nPage 1 of 3\n\n[Page 2]\n1\nSale an",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "gas",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2270,
+      "section_type": "linked_pdf",
       "children": []
     }
   ]
