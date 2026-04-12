@@ -24,7 +24,7 @@ regions:
 - india
 - china
 - europe
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-07-05_gms-week-27-double-trouble.html
@@ -82,3 +82,27 @@ Covid-19 continues to present significant problems across the sub-continent mark
 For week 27 of 2021, GMS demo rankings / pricing for the week are as below.
 Image reference: 2021-07-05_gms-week-27-double-trouble_img2.jpg
 Source: GMS
+
+## Linked asset: 2021-07-05_gms-week-27-double-trouble_img1.jpg
+Source asset: reports/hellenic/demolition/2021/2021-07-05_gms-week-27-double-trouble_img1.jpg
+
+Linked image asset: 2021-07-05_gms-week-27-double-trouble_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-07-05_gms-week-27-double-trouble_img2.jpg
+Source asset: reports/hellenic/demolition/2021/2021-07-05_gms-week-27-double-trouble_img2.jpg
+
+Linked image asset: 2021-07-05_gms-week-27-double-trouble_img2.jpg
+
+Image metadata: JPEG 620x178 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 403,
+  "token_count": 632,
   "source_path": "reports/hellenic/demolition/2021/2021-07-05_gms-week-27-double-trouble.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-27-double-trouble",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 401,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-07-05_2021_07_05_gms_week_27_double_trouble__s02_linked_asset_2021_07_05_gms_week_27_double_trouble_img1_jpg",
+      "doc_id": "hellenic_demolition_2021-07-05_2021_07_05_gms_week_27_double_trouble",
+      "parent_id": "hellenic_demolition_2021-07-05_2021_07_05_gms_week_27_double_trouble__root",
+      "title": "Linked asset: 2021-07-05_gms-week-27-double-trouble_img1.jpg",
+      "section_path": [
+        "Linked asset: 2021-07-05_gms-week-27-double-trouble_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-07-05_gms-week-27-double-trouble_img1.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/2021/2021-07-05_gms-week-27-double-trouble_img1.jpg\n\nLinked image asset: 2021-07-05_gms-week-27-double-trouble_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-27-double-trouble_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-07-05_2021_07_05_gms_week_27_double_trouble__s03_linked_asset_2021_07_05_gms_week_27_double_trouble_img2_jpg",
+      "doc_id": "hellenic_demolition_2021-07-05_2021_07_05_gms_week_27_double_trouble",
+      "parent_id": "hellenic_demolition_2021-07-05_2021_07_05_gms_week_27_double_trouble__root",
+      "title": "Linked asset: 2021-07-05_gms-week-27-double-trouble_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-07-05_gms-week-27-double-trouble_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-07-05_gms-week-27-double-trouble_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2021/2021-07-05_gms-week-27-double-trouble_img2.jpg\n\nLinked image asset: 2021-07-05_gms-week-27-double-trouble_img2.jpg\n\nImage metadata: JPEG 620x178 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-27-double-trouble_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

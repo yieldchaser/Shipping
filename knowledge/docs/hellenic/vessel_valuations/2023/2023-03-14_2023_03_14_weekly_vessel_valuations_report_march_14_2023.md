@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-03-14_weekly-vessel-valuations-report-march-14-2023.html
@@ -100,3 +100,40 @@ MR1 (Chem / Product) Inviken and Utviken (37,900 DWT, Apr 2009, Hyundai Mipo) so
 Containers : Post Panamax values have softened
 Post Panamax TS Dubai and TS Mumbai (6,350 TEU, 5,551 TEU Nov 2007, April 2003, Koyo Dock, Hyundai HI) sold to MSC in an en bloc deal for USD 55 mil, VV Value USD 65.36 mil - SS/DD Due.
 Image reference: 2023-03-14_weekly-vessel-valuations-report-march-14-2023_img2.jpg
+
+## Linked asset: 2023-03-14_weekly-vessel-valuations-report-march-14-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-03-14_weekly-vessel-valuations-report-march-14-2023_img1.png
+
+Linked image asset: 2023-03-14_weekly-vessel-valuations-report-march-14-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-03-14_weekly-vessel-valuations-report-march-14-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-03-14_weekly-vessel-valuations-report-march-14-2023_img2.jpg
+
+Linked image asset: 2023-03-14_weekly-vessel-valuations-report-march-14-2023_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+O vesselsValue= | $$
+14 March 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra LRL MR Cape Pmax Supra Handy oon Pmax Handy = Fmax
+° 10.8% 40.7% 40.1% 0.2% - +0.3% 11.8% 43.6% 19.3% 11.3% 0.3% 0.0% 40.3% - 10.3%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+5 40.6% -+2.0% - -0.2% = -0.2% = +0.5% 42.7% 43.9% - +6.3% - +1.9% "1.1% = 0.0% = 40.3% = +0.1%
+320k 160k 110k 75k 50k 180k 80k 60k 38% 7000 4250 1750 1100
+io 40.5% +3.0% -0.2% -0.2% +0.9% 42.4% +3.5% +3.7% +1.9% -1.8% 0.0% +0.3% 0.0%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
+1s 40.7% 43.6% 0.0% -0.2% +1.5% +1.1% +2.3% +1.3% +1.6% -2.6% 0.0% 40.3% 0.2%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
+20 10.9% 43.5% 10.3% -O.1% - 1.6% 10.8% - +0.2% 0.7% - 10.4% 3.4% 0.0% 60.5% 0.4%
+305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
+as 11.0% +2.8% +0.5% N/A +0.5% 10.8% 40.9% 2.2% - -1.1% 4.2% 40.8% 40.5% - -0.6%
+300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100

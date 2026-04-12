@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2021/2021-11-23_weekly-vessel-valuations-report-november-23-2021-2.html
@@ -87,3 +87,40 @@ Handy Bulkers Dry Beam Neo (38,200 DWT, Dec 2019, Shin Kochi) and Fragrant Athen
 Container: Container values have softened.
 Sub Panamax AS Petulia (2,578 TEU, Aug 2008, Xiamen Shipbuilding Ind) and AS Palatia (2,526 TEU, Apr 2006, STX Offshore) sold in an en bloc deal for USD 71.60 mil, VV value USD 78.22 mil.
 Image reference: 2021-11-23_weekly-vessel-valuations-report-november-23-2021-2_img2.jpg
+
+## Linked asset: 2021-11-23_weekly-vessel-valuations-report-november-23-2021-2_img1.png
+Source asset: reports/hellenic/vessel_valuations/2021/2021-11-23_weekly-vessel-valuations-report-november-23-2021-2_img1.png
+
+Linked image asset: 2021-11-23_weekly-vessel-valuations-report-november-23-2021-2_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-11-23_weekly-vessel-valuations-report-november-23-2021-2_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2021/2021-11-23_weekly-vessel-valuations-report-november-23-2021-2_img2.jpg
+
+Linked image asset: 2021-11-23_weekly-vessel-valuations-report-november-23-2021-2_img2.jpg
+
+Image metadata: JPEG 678x286 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+© VesselsVabne™ © A$
+23 November 2021 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra LRL MR Cape Pmax Supra Handy peat Pmax Handy = Fmax
+0 "0.3% -0.2% -0.2% -0.1% +1.2% "1.2% -2.1% -2.1% -2.9% ~0.8% -2.8% -3.2% -2.5%
+320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100
+5 0.4% -0.2% +0.9% -0.2% +3.9% "1.1% -2.2% -2.1% -2.3% -0.8% -3.0% -3.5% -2.5%
+320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100
+10 0.4% -0.2% -0.6% -0.2% +2.8% "1.0% -2.1% -2.2% -2.6% 0.8% -3.1% -3.9% -2.5%
+310K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100
+15 0.5% -0.2% -0.6% -0.2% +1.2% 0.8% -2.2% -2.2% -3.0% -0.8% -3.3% -4.3% -2.5%
+310K 160K 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100
+20 43.2% 43.2% +3.2% +3.2% +3.1% +3.2% -2.0% -2.2% -3.4% -0.6% -3.8% -4.7% -2.5%
+300K 155K 105K 70K 45K 175K 75K SOK 30K 6500 4000 1750 1100
+25 +3.2% N/A +3.2% +3.1% +3.2% +3.2% -0.4% -2.2% -3.7% 0.0% -4.0% -5.1% -2.4%
+- 295K NWA 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 1100

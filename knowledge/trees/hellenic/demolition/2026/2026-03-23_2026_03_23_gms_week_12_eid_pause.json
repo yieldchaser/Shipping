@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 7037,
+  "token_count": 7319,
   "source_path": "reports/hellenic/demolition/2026/2026-03-23_gms-week-12-eid-pause.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-12-eid-pause",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 6382,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__s03_linked_asset_2026_03_23_gms_week_12_eid_pause_img1_jpg",
+      "doc_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause",
+      "parent_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__root",
+      "title": "Linked asset: 2026-03-23_gms-week-12-eid-pause_img1.jpg",
+      "section_path": [
+        "Linked asset: 2026-03-23_gms-week-12-eid-pause_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-23_gms-week-12-eid-pause_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2026/2026-03-23_gms-week-12-eid-pause_img1.jpg\n\nLinked image asset: 2026-03-23_gms-week-12-eid-pause_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-12-eid-pause_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__s04_linked_asset_2026_03_23_gms_week_12_eid_pause_img2_jpg",
+      "doc_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause",
+      "parent_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__root",
+      "title": "Linked asset: 2026-03-23_gms-week-12-eid-pause_img2.jpg",
+      "section_path": [
+        "Linked asset: 2026-03-23_gms-week-12-eid-pause_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-23_gms-week-12-eid-pause_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2026/2026-03-23_gms-week-12-eid-pause_img2.jpg\n\nLinked image asset: 2026-03-23_gms-week-12-eid-pause_img2.jpg\n\nImage metadata: JPEG 977x217 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\né : Dry Bulk Tankers Containers\npints | Weetics Sentiment ~~ Usp /LDI_ ‘USD/LDT__‘ USD/ LDT\n[4 [Turkey [Steady | 270/LbT | 280/LDT | 290/LDT",
+      "keywords": [
+        "container",
+        "ldt",
+        "asset",
+        "image",
+        "containers",
+        "dpi",
+        "embedded",
+        "gms-week-12-eid-pause_img2.jpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 141,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

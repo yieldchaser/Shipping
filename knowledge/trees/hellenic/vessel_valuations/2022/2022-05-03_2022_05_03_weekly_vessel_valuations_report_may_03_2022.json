@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 760,
+  "token_count": 1693,
   "source_path": "reports/hellenic/vessel_valuations/2022/2022-05-03_weekly-vessel-valuations-report-may-03-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-03-2022",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 758,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2022-05-03_2022_05_03_weekly_vessel_valuations_report_may_03_2022__s02_linked_asset_2022_05_03_weekly_vessel_valuations_report_may_03_2022_img1_png",
+      "doc_id": "hellenic_vessel_valuations_2022-05-03_2022_05_03_weekly_vessel_valuations_report_may_03_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-05-03_2022_05_03_weekly_vessel_valuations_report_may_03_2022__root",
+      "title": "Linked asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_img1.png",
+      "section_path": [
+        "Linked asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_img1.png"
+      ],
+      "section_path_text": "Linked asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_img1.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2022/2022-05-03_weekly-vessel-valuations-report-may-03-2022_img1.png\n\nLinked image asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_img1.png\n\nImage metadata: PNG 150x150 mode=RGB\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr",
+        "pixels",
+        "png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2022-05-03_2022_05_03_weekly_vessel_valuations_report_may_03_2022__s03_linked_asset_2022_05_03_weekly_vessel_valuations_report_may_03_2022_img2_png",
+      "doc_id": "hellenic_vessel_valuations_2022-05-03_2022_05_03_weekly_vessel_valuations_report_may_03_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-05-03_2022_05_03_weekly_vessel_valuations_report_may_03_2022__root",
+      "title": "Linked asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_img2.png",
+      "section_path": [
+        "Linked asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_img2.png"
+      ],
+      "section_path_text": "Linked asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_img2.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2022/2022-05-03_weekly-vessel-valuations-report-may-03-2022_img2.png\n\nLinked image asset: 2022-05-03_weekly-vessel-valuations-report-may-03-2022_img2.png\n\nImage metadata: PNG 678x252 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\n© VesselsValuey\n03 May 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vicc «Suez = Afra. LRA MR Cape Pmax Supra Handy pot Pmax Handy Fmax\n° 0.0% +0.8% 0.0% +0.3% +1.2% +0.7% +0.3% +0.8% +0.6% +1.7% -0.9% -5.2% -1.9%\n520K «160K 110K 75K SOK 180K 82K OK 37K 7000 4250 ©1750 «= 1100\ns 0.0% +1.4% +0.2% +0.1% +1.2% +0.7% +0.3% +1.1% +0.6% +1.7% -0.9% -5.2% -1.9%\n520K 160K 110K.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "sok",
+        "asset",
+        "gok",
+        "handy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 783,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

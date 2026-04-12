@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-06-14_weekly-vessel-valuations-report-june-14-2022.html
@@ -97,3 +97,40 @@ MR1 (Chem / Product) Hans Scholl (40,300 DWT, Jul 2004, SLS) sold to undisclosed
 Containers: Post Panamax Container values have softened
 Post Panamax Cont Archimidis and Agamemnon (7,943 TEU, May 2006/Jan 2007, Daewoo) sold to undisclosed buyers for USD 130.00 mil, VV Value USD 259.88 mil - Inc Charter 21,850 USD/Day until Feb 2024.
 Image reference: 2022-06-14_weekly-vessel-valuations-report-june-14-2022_img2.png
+
+## Linked asset: 2022-06-14_weekly-vessel-valuations-report-june-14-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-06-14_weekly-vessel-valuations-report-june-14-2022_img1.png
+
+Linked image asset: 2022-06-14_weekly-vessel-valuations-report-june-14-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-06-14_weekly-vessel-valuations-report-june-14-2022_img2.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-06-14_weekly-vessel-valuations-report-june-14-2022_img2.png
+
+Linked image asset: 2022-06-14_weekly-vessel-valuations-report-june-14-2022_img2.png
+
+Image metadata: PNG 678x249 mode=RGBA
+
+Embedded info:
+dpi: (143.99259999999998, 143.99259999999998)
+
+OCR text:
+© vesselsValue®™
+14 June 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vicc Suez Afra, LRT MR Cape Pmax Supra Handy ost pmax Handy Fmax
+0 +0.1% +0.4% 0.0% 0.0% +1.5% 0.6% -0.4% -0.4% -0.2% 3.2% -0.5% +0.2% +0.0%
+320K 160K 410K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100
+5 10.1% 10.4% 0.0% 0.0% 11.4% 0.7% 0.4% 0.2% 0.3% 3.3% 0.8% 10.3% 10.1%
+320K 160K «110K 75K == SOK 180K 80K = 60K 30K 7000 ©4250 ©1750 1100
+10 +0.1% +0.4% 0.0% 0.0% +1.6% 0.8% -0.4% -0.2% -0.2% 3.6% -1.5% +0.3% +0.3%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 10.1% 10.5% 0.0% 0.0% 11.6% 0.8% 0.4% 0.2% 0.2% 4.2% 2.0% 10.2% 10.3%
+310K 160K «110K 75K SOK 180K 75K = S5K 30K 7000 ©4250 «©1750 ~~ 1100
+20 +0.1% +0.5% 0.0% 0.0% +0.5% 0.0% -0.4% -0.3% -0.3% A.6% -1.8% 0.0% -0.3%
+305K 155K 105K 70K 45K 175K 75K SOK 30K 6500 4000 1750 1100
+25 0.0% N/A 0.0% 0.0% 0.0% 0.0% 0.2% 0.5% 0.1% 5.1% 0.5% 0.2% 2.5%
+300K N/A 105K-s«OSK 45K 170K 75K = 48K 30K 5500 4000 1750 1100

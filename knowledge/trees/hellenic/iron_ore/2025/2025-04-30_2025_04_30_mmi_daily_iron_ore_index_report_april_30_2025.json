@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 17019,
+  "token_count": 17855,
   "source_path": "reports/hellenic/iron_ore/2025/2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-30-2025",
   "children": [
@@ -84,6 +84,34 @@
       "page_end": null,
       "token_count": 16617,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025__s03_linked_asset_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025_img2_jpg",
+      "doc_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025",
+      "parent_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025__root",
+      "title": "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img2.jpg",
+      "section_path": [
+        "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/2025/2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img2.jpg\n\nLinked image asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n. 7\nMMi Daily Iron Ore Index Report April 30, 2025\n| IRON ORE PORT STOCK INDEX (IOPI)\nApr 30th, 2025 FOT Qingdao (inc.",
+      "keywords": [
+        "brazil",
+        "iron_ore",
+        "steel",
+        "change",
+        "ore",
+        "fines",
+        "iron",
+        "low"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 804,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

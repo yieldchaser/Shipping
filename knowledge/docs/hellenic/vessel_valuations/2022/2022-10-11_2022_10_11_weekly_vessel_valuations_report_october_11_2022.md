@@ -34,7 +34,7 @@ regions:
 - europe
 - meg
 - brazil
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-10-11_weekly-vessel-valuations-report-october-11-2022.html
@@ -97,3 +97,40 @@ MR1 (Chem / Product) Synergy (34,700 DWT, Jan 2020, Fujian Mawei Shipbuilding) s
 Containers: Container values have softened due to earnings.
 Panamax Cont Genova (4,253 TEU, Apr 2007, Dalian Shipbuilding Industry Corp) sold to MSC for USD 45.00 mil, VV Value USD 48.78 mil - SS Passed.
 Image reference: 2022-10-11_weekly-vessel-valuations-report-october-11-2022_img2.jpg
+
+## Linked asset: 2022-10-11_weekly-vessel-valuations-report-october-11-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-10-11_weekly-vessel-valuations-report-october-11-2022_img1.png
+
+Linked image asset: 2022-10-11_weekly-vessel-valuations-report-october-11-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-10-11_weekly-vessel-valuations-report-october-11-2022_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2022/2022-10-11_weekly-vessel-valuations-report-october-11-2022_img2.jpg
+
+Linked image asset: 2022-10-11_weekly-vessel-valuations-report-october-11-2022_img2.jpg
+
+Image metadata: JPEG 687x255 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+© VesselsValue™
+11 October 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra RL MR Cape Pmax Supra Handy pitied Pmax Handy Fmax
+° 40.1% 0.0% 40.4% +0,4% 40.2% OA% +0.6% 40.4% +0.9% "10.9% -7.5% -6.2% -4.9%
+320K 160K 110K 75K SOK 180K 82K 60K 38K 7000 4250 1750 1100
+5 40.1% 0.0% +0.4% +0.4% 40.7% "14% +0.1% -O.1% +0.9% "10.9% -74% -6.2% -4.8%
+320K 160K 110K 75K SOK 180K 80K 60K 35K 7000 4250 1750 1100
+10 0.0% -0.1% +0.4% +0.3% +0.5% 0.3% +0.6% -0.6% +0.9% -10.9% -7.3% -6.2% -4.9%
+310K 160K 110K 75K SOK 180K 80K 60K 32K 7000 4250 1750 1100
+15 0.1% 0.1% +0.4% 40.3% +0.5% 42.4% 40.7% -1.3% +0.9% 11.0% -7.3% -6.1% -4.9%
+310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100
+20 0.1% 0.1% +0.4% 10.4% 1.4% 0.0% 11.8% 1.9% 11.0% 10.9% 7.7% 6.0% 4.9%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+or 0.1% N/A 40.5% 40.5% +1.8% 0.0% +2.6% -2.4% +0.8% "10.6% -8.3% -6.0% -4.8%
+300K WA 105K 65K 45K 170K 75K 48K 30K 5500 4000 1750 1100

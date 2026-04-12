@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-04-15_weekly-vessel-valuations-report-april-15-2025.html
@@ -122,3 +122,40 @@ Sub Panamax Protostar N (2,741 TEU, Apr 2007, Wadan Yards MTW) sold to undisclos
 Feedermax Nordic Hamburg (1,036 TEU, May 2010, Jiangdong) sold to Drevin Reederei for USD 13 mil (inc. TC & DD Due), VV Value USD 11.34 mil.
 Feedermax Diana J (951 TEU, Mar 2006, Detlef Hegemann Rolandwerft) sold to undisclosed buyers for USD 9.7 mil (inc. TC), VV Value USD 8.51 mil.
 Image reference: 2025-04-15_weekly-vessel-valuations-report-april-15-2025_img2.jpg
+
+## Linked asset: 2025-04-15_weekly-vessel-valuations-report-april-15-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-04-15_weekly-vessel-valuations-report-april-15-2025_img1.png
+
+Linked image asset: 2025-04-15_weekly-vessel-valuations-report-april-15-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-04-15_weekly-vessel-valuations-report-april-15-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-04-15_weekly-vessel-valuations-report-april-15-2025_img2.jpg
+
+Linked image asset: 2025-04-15_weekly-vessel-valuations-report-april-15-2025_img2.jpg
+
+Image metadata: JPEG 678x255 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+(>) VesselsValue ---
+15 April 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra um mR Cape Pmax Supra. Handy ok pmax Mandy Fax
+0.0% 00% O45 0.0% OS O26 0.0% 204% 70.9% 0.0% 70.1% 70.4% 703%
+ad 320k 160k nk 78k 50% 180 82k 62k 38K 70004250 1750 noo
+5 0.0% 02% O04 0.0% O56 O26 205% ous 13% 0.0% 710% 204% *22%
+320k 160K nok 7Sk Sk 180k 82k 60k 38k 7O00 4250 1780 noo
+1 0.0% 03" 04% 0.0% 05% O26 las ad 76% 0.0% 18% 70.6% +45
+320k woK nok 7Sk SOx 180K 80K 60k 3Sk 7o0o 4250 1780 noo
+0.0% 02% O4% 0.0% 05% 02% «-+22% SH 41H 10.1% = +23% LOH +6.
+" SOK OK nok 75k SOK 180k 80K SSK 30K 700 4250 1750 noo
+20 20.1% +0.2% O04 Om 05% 02% 2.7% +0.9% 70.9% 70.1% 719% *1s% *5.0%
+310k OK nok 70k 4Sk 180k 7S SSk 30k 7o00 4250 1780 noo
+2s 0.0% as O02 0.1% 05% 0.0% 0.0% oon% 70.2% 70.26% 0.6% 72m 737%
+300k 185k 105k 70k 45k 17Sk 75k 48k 30k 6500 4000 1780 noo |

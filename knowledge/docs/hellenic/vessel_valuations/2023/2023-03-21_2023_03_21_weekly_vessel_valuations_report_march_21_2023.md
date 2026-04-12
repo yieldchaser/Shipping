@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-03-21_weekly-vessel-valuations-report-march-21-2023.html
@@ -100,3 +100,40 @@ Post Panamax Northern Justice (8,814 TEU, Mar 2010, Daewoo) sold to undisclosed 
 Panamax Northern Debonair (3,534 TEU, Oct 2007, Shanghai Shipyard) sold to unknown Chinese buyers for USD 14.80 mil, VV Value USD 15.81 mil - SS/DD Passed.
 Feedermax Elbsummer (1,025 TEU, Jul 2009, Fujian Mawei Shipbuilding) sold to ElbFeeder for USD 12.50 mil, VV Value USD 8.25 mil - Inc TC.
 Image reference: 2023-03-21_weekly-vessel-valuations-report-march-21-2023_img2.jpg
+
+## Linked asset: 2023-03-21_weekly-vessel-valuations-report-march-21-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-03-21_weekly-vessel-valuations-report-march-21-2023_img1.png
+
+Linked image asset: 2023-03-21_weekly-vessel-valuations-report-march-21-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-03-21_weekly-vessel-valuations-report-march-21-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-03-21_weekly-vessel-valuations-report-march-21-2023_img2.jpg
+
+Linked image asset: 2023-03-21_weekly-vessel-valuations-report-march-21-2023_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+O vesselsValue= | $$
+21 March 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Sucz Afra LtR1 MR Cape Pmax Supra Handy P td Pmax Handy Fmax
+° 11.0% +0.1% 0.0% 0.0% +0.2% 113.9% 41.7% 43.4% 41.5% 0.0% 10.3% 40.4% 40.5%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+5 41.3% 40.1% 40.2% - -0.2% 0.5% 48.6% 41.7% +3.0% - +1.8% 0.0% - +0.7% = +0.4% + +4.4%
+320k 160k 110k 75k 50k 180k 80k 60k 38% 7000 4250 1750 1100
+io 41.6% +0.2% +0.2% 40.1% +1.2% 44.8% +1.7% +2.8% +1.8% 0.0% -+1.3% +0.4% +8.6%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
+1s +2.2% 40.2% +0.1% +0.8% +1.7% +2.6% +1.7% +2.9% +1.5% 0.0% +1.9% +0.4% +13.0%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
+20 12.7% 40.2% 0.1% 42.0% 1.5% 10.8% +1.6% 435.2% 10.7% 0.0% = 12.5% 40.39% 117.5%
+305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
+as +2.8% +0.2% -0.2% N/A +2.2% 10.9% 40.8% +3.5% -0.2% 0.0% §- 10.8% 0.3% 122.3%
+300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100

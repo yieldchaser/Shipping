@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4955,
+  "token_count": 5236,
   "source_path": "reports/hellenic/demolition/2023/2023-10-30_gms-week-43-softening-sentiments.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-43-softening-sentiments",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4436,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-10-30_2023_10_30_gms_week_43_softening_sentiments__s03_linked_asset_2023_10_30_gms_week_43_softening_sentiments_img1_jpg",
+      "doc_id": "hellenic_demolition_2023-10-30_2023_10_30_gms_week_43_softening_sentiments",
+      "parent_id": "hellenic_demolition_2023-10-30_2023_10_30_gms_week_43_softening_sentiments__root",
+      "title": "Linked asset: 2023-10-30_gms-week-43-softening-sentiments_img1.jpg",
+      "section_path": [
+        "Linked asset: 2023-10-30_gms-week-43-softening-sentiments_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-10-30_gms-week-43-softening-sentiments_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-10-30_gms-week-43-softening-sentiments_img1.jpg\n\nLinked image asset: 2023-10-30_gms-week-43-softening-sentiments_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-43-softening-sentiments_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-10-30_2023_10_30_gms_week_43_softening_sentiments__s04_linked_asset_2023_10_30_gms_week_43_softening_sentiments_img2_jpg",
+      "doc_id": "hellenic_demolition_2023-10-30_2023_10_30_gms_week_43_softening_sentiments",
+      "parent_id": "hellenic_demolition_2023-10-30_2023_10_30_gms_week_43_softening_sentiments__root",
+      "title": "Linked asset: 2023-10-30_gms-week-43-softening-sentiments_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-10-30_gms-week-43-softening-sentiments_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-10-30_gms-week-43-softening-sentiments_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-10-30_gms-week-43-softening-sentiments_img2.jpg\n\nLinked image asset: 2023-10-30_gms-week-43-softening-sentiments_img2.jpg\n\nImage metadata: JPEG 1014x242 mode=RGB\n\nEmbedded info:\ndpi: (144, 144)\n\nOCR text:\n, , Dry Bulk Tankers Containers\nRank Location Sentiment\nUSD /LDT USD / LDT USD /LDT\nBangladesh* 505/LDT | 525/LDT | 545/LDT",
+      "keywords": [
+        "container",
+        "ldt",
+        "usd",
+        "asset",
+        "image",
+        "bangladesh",
+        "containers",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

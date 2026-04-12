@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 690,
+  "token_count": 1616,
   "source_path": "reports/hellenic/vessel_valuations/2022/2022-10-25_weekly-vessel-valuations-report-october-25-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-october-25-2022",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 688,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2022-10-25_2022_10_25_weekly_vessel_valuations_report_october_25_2022__s02_linked_asset_2022_10_25_weekly_vessel_valuations_report_october_25_2022_img1_png",
+      "doc_id": "hellenic_vessel_valuations_2022-10-25_2022_10_25_weekly_vessel_valuations_report_october_25_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-10-25_2022_10_25_weekly_vessel_valuations_report_october_25_2022__root",
+      "title": "Linked asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img1.png",
+      "section_path": [
+        "Linked asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img1.png"
+      ],
+      "section_path_text": "Linked asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img1.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2022/2022-10-25_weekly-vessel-valuations-report-october-25-2022_img1.png\n\nLinked image asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img1.png\n\nImage metadata: PNG 150x150 mode=RGB\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr",
+        "pixels",
+        "png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2022-10-25_2022_10_25_weekly_vessel_valuations_report_october_25_2022__s03_linked_asset_2022_10_25_weekly_vessel_valuations_report_october_25_2022_img2_jpg",
+      "doc_id": "hellenic_vessel_valuations_2022-10-25_2022_10_25_weekly_vessel_valuations_report_october_25_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-10-25_2022_10_25_weekly_vessel_valuations_report_october_25_2022__root",
+      "title": "Linked asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2022/2022-10-25_weekly-vessel-valuations-report-october-25-2022_img2.jpg\n\nLinked image asset: 2022-10-25_weekly-vessel-valuations-report-october-25-2022_img2.jpg\n\nImage metadata: JPEG 678x262 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nQ VesselsValue®\n25 October 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Suez Afra LR MR Cape Pmax Supra Handy hoe a Pmax Handy Fmax\n© 40.4% -3.3% 0.0% 0.0% 40.2% 0.5% -0.5% 40.2% +0.3% 5.5% 54% 47.9% -5.1%\n320K 160K 110K 75K SOK 180K 82K 60K 58K 7000 «4250 «1750'S 1100\n5 10.4% -2.4% 0.0% 0.0% -0.1% +0.3% +0.9% +0.1% +0.1% 5.5% -5.6% +7.1% -5.1%\n320K 160K 110K = 75K 50K 180K 80K 60K 35K 7000 «4250-1750 1100\n10 +0.3% -1,9% 0.0% 0.0% -0,6% +2,1% +1.5% 0.0% -0.2% 5.6% -6.0% +4.4% -5.2%\n3IOK 160K «110K 75K 50K 180K 80K 60K 32K 7000 «©4250-1750 1100\nis 40.1% -1.9% 0.0% 0.0% -0.5% +4.6% -0.4% +0.1% -0.6% \"5.7% -6.7% +0.4% -5.3%\n310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100\n20 40.1% -2.8% 0.0% -0.1% +0.2% +1.2% -1.9% 40.2% -0.8% -6.1% -7.5% -4.4% -5.4%\n305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100\n35 40.2% N/A 40.1% -0.1% 40.7% 0.0% -3.5% 40.5% -1.2%",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "asset",
+        "handy",
+        "image",
+        "n/a"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 772,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

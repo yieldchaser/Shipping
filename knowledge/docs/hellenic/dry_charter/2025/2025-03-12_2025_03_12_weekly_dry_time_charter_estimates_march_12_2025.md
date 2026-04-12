@@ -21,13 +21,82 @@ regions:
 - china
 - brazil
 - australia
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: handysize
+    source_line: HANDY (32k out) 11,500 12,000 11,500 12,000 10,850 11,000
+    timeframe: null
+    unit: null
+    values:
+    - 32.0
+    - 11500.0
+    - 12000.0
+    - 11500.0
+    - 12000.0
+    - 10850.0
+    - 11000.0
+  - segment: capesize
+    source_line: CAPESIZE 22,500 22,500 22,000 22,000 21,000 21,000
+    timeframe: null
+    unit: null
+    values:
+    - 22500.0
+    - 22500.0
+    - 22000.0
+    - 22000.0
+    - 21000.0
+    - 21000.0
+  rate_summary:
+    capesize: 21000.0
+    handysize: 11000.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/dry_charter/2025/2025-03-12_weekly-dry-time-charter-estimates-march-12-2025.html
 source_stem: 2025-03-12_weekly-dry-time-charter-estimates-march-12-2025
 source_url: https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-march-12-2025
-summary: ''
+summary: 'Main
+
+  Image reference: 2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+
+
+  Linked asset: 2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+
+  Source asset: reports/hellenic/dry_charter/2025/2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+
+
+  Linked image asset: 2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (144.0, 144.0)
+
+
+  OCR text:
+
+  AL B RA Updated Weds 4203/2025
+
+  Shipping United
+
+  DRY BULK TIME CHARTER ESTIMATES (S/pdpr)
+
+  PERIOD 4/6 MOS 1YR 2YR
+
+  SIZE ATL PAC ATL PAC ATL PAC
+
+  HANDY (32k out) 11,500 12,000 11,500 12,000 10,850 11,000
+
+  SMAXJULTRA 13,500 15,000 14,000 14,500 13,000 13,250
+
+  PANAIKMAX 13,650 13,750 13,750 13,750 13,500 13,500
+
+  CAPESIZE 22,500 22,500 22,000 22,000 21,000 21,000'
 themes:
 - image
 - main
@@ -41,5 +110,51 @@ vessel_classes:
 - handysize
 ---
 
+## Summary
+Main
+Image reference: 2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+
+Linked asset: 2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+Source asset: reports/hellenic/dry_charter/2025/2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+
+Linked image asset: 2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+AL B RA Updated Weds 4203/2025
+Shipping United
+DRY BULK TIME CHARTER ESTIMATES (S/pdpr)
+PERIOD 4/6 MOS 1YR 2YR
+SIZE ATL PAC ATL PAC ATL PAC
+HANDY (32k out) 11,500 12,000 11,500 12,000 10,850 11,000
+SMAXJULTRA 13,500 15,000 14,000 14,500 13,000 13,250
+PANAIKMAX 13,650 13,750 13,750 13,750 13,500 13,500
+CAPESIZE 22,500 22,500 22,000 22,000 21,000 21,000
+
 ## Main
 Image reference: 2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+
+## Linked asset: 2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+Source asset: reports/hellenic/dry_charter/2025/2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+
+Linked image asset: 2025-03-12_weekly-dry-time-charter-estimates-march-12-2025_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+AL B RA Updated Weds 4203/2025
+Shipping United
+DRY BULK TIME CHARTER ESTIMATES (S/pdpr)
+PERIOD 4/6 MOS 1YR 2YR
+SIZE ATL PAC ATL PAC ATL PAC
+HANDY (32k out) 11,500 12,000 11,500 12,000 10,850 11,000
+SMAXJULTRA 13,500 15,000 14,000 14,500 13,000 13,250
+PANAIKMAX 13,650 13,750 13,750 13,750 13,500 13,500
+CAPESIZE 22,500 22,500 22,000 22,000 21,000 21,000

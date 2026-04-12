@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-04-06_weekly-vessel-valuations-report-april-05-2022.html
@@ -96,3 +96,40 @@ LR2 STI Carnaby, STI Savile Row (110,000 DWT, Jun-Sep 2015, Sungdong) Sold to Ad
 Containers: Panamax Containers have softened.
 No sales to report.
 Image reference: 2022-04-06_weekly-vessel-valuations-report-april-05-2022_img2.jpg
+
+## Linked asset: 2022-04-06_weekly-vessel-valuations-report-april-05-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-04-06_weekly-vessel-valuations-report-april-05-2022_img1.png
+
+Linked image asset: 2022-04-06_weekly-vessel-valuations-report-april-05-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-04-06_weekly-vessel-valuations-report-april-05-2022_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2022/2022-04-06_weekly-vessel-valuations-report-april-05-2022_img2.jpg
+
+Linked image asset: 2022-04-06_weekly-vessel-valuations-report-april-05-2022_img2.jpg
+
+Image metadata: JPEG 678x281 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+oO VesselsValue™ --a-----------------_-_-_=_=_ a
+05 April 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra LR1 MR Cape Pmax Supra Handy Pea Pmax Handy = Fmax
+a +0.1% +0.5% +0.2% +1.8% +0.4% +0.3% -0.5% -1.1% -1.0% +0.3% -0.6% -0.6% +0.5%
+320K 160K 110K 7SK SOK 180K 82K 60K 37K 7000 4250 1750 1100
+5 +0.1% +0.5% +0.2% 0.0% +0.4% +0.4% +0.5% -0.5% +0.3% +0.3% -0.7% -0.7% +0.5%
+320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+10 40.1% +0.5% +0.2% +0.0% +0.4% 40.4% +1.4% +0.1% +0.6% 40.2% -0.7% -0.8% +0.2%
+310K 160K = 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+ge 40.1% 40.5% 40.1% 40.7% 40.4% +0.5% +2.3% +0.7% 40.8% +0.2% -0.8% -1.1% 0.0%
+310K 160K = 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100
+0 -2.2% -2.2% -2.2% -2.1% -2.2% -2.2% +2.8% 40.6% 40.6% +0.2% -0.9% -1.5% +0.2%
+30SK 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+eS "2.2% N/A -2.2% -2.2% -2.3% -2.2% 41.0% -0.3% 40.4% +0.1% -1.0% -2.0% +1.0%
+300K N/A 105K 65K 45K 170K 75K 48K 30K 5500 4000 1750 1100

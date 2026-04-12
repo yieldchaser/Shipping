@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4181,
+  "token_count": 4444,
   "source_path": "reports/hellenic/demolition/2021/2021-12-07_gms-week-50-subdued.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-50-subdued",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 3742,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-12-07_2021_12_07_gms_week_50_subdued__s03_linked_asset_2021_12_07_gms_week_50_subdued_img1_jpg",
+      "doc_id": "hellenic_demolition_2021-12-07_2021_12_07_gms_week_50_subdued",
+      "parent_id": "hellenic_demolition_2021-12-07_2021_12_07_gms_week_50_subdued__root",
+      "title": "Linked asset: 2021-12-07_gms-week-50-subdued_img1.jpg",
+      "section_path": [
+        "Linked asset: 2021-12-07_gms-week-50-subdued_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-12-07_gms-week-50-subdued_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2021/2021-12-07_gms-week-50-subdued_img1.jpg\n\nLinked image asset: 2021-12-07_gms-week-50-subdued_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-50-subdued_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-12-07_2021_12_07_gms_week_50_subdued__s04_linked_asset_2021_12_07_gms_week_50_subdued_img2_jpg",
+      "doc_id": "hellenic_demolition_2021-12-07_2021_12_07_gms_week_50_subdued",
+      "parent_id": "hellenic_demolition_2021-12-07_2021_12_07_gms_week_50_subdued__root",
+      "title": "Linked asset: 2021-12-07_gms-week-50-subdued_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-12-07_gms-week-50-subdued_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-12-07_gms-week-50-subdued_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2021/2021-12-07_gms-week-50-subdued_img2.jpg\n\nLinked image asset: 2021-12-07_gms-week-50-subdued_img2.jpg\n\nImage metadata: JPEG 855x186 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nDemo loosen Sentiment Dry Bulk Tankers Containers\nRank USD /LDT USD / LDT USD / LDT\n| 4 [Turkey | Steady [ 330/LDT_ | 340/LDT_ | 350/LDT_|",
+      "keywords": [
+        "container",
+        "ldt",
+        "usd",
+        "asset",
+        "image",
+        "containers",
+        "demo",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

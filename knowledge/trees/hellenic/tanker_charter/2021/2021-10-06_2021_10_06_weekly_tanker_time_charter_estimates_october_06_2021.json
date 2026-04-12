@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 141,
+  "token_count": 483,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-10-06_weekly-tanker-time-charter-estimates-october-06-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-october-06-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 139,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2021-10-06_2021_10_06_weekly_tanker_time_charter_estimates_october_06_2021__s02_linked_asset_2021_10_06_weekly_tanker_time_charter_estimates_october_06_2021_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2021-10-06_2021_10_06_weekly_tanker_time_charter_estimates_october_06_2021",
+      "parent_id": "hellenic_tanker_charter_2021-10-06_2021_10_06_weekly_tanker_time_charter_estimates_october_06_2021__root",
+      "title": "Linked asset: 2021-10-06_weekly-tanker-time-charter-estimates-october-06-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-10-06_weekly-tanker-time-charter-estimates-october-06-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-10-06_weekly-tanker-time-charter-estimates-october-06-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-10-06_weekly-tanker-time-charter-estimates-october-06-2021_img2.jpg\n\nLinked image asset: 2021-10-06_weekly-tanker-time-charter-estimates-october-06-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nSJALIBRA Updated Wednesday 06 October 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR \"3 YR \"5 YR\nHANDY = 11,000 |= 12,250 |= 14500 | ~ 14,000\n‘MR IMO3 ~ 11000 |= 13000 |= 16,000 | = 16,350\nLR1 vy 12500 |= 15,250 |= 17,250 | = 17,500\nLR2 = 16500 |= 19,750 |= 24,950 | = 25,500\nAFRA ~ 15000 |= 18000 |= 23,000 | = 24500\nSUEZ y 16500 |= 20500 |= 26,000 | = 27,000\nvice y 20000 | ~ 25000 |= 35,000 | = 36,500",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "afra",
+        "charter",
+        "dpi",
+        "embedded",
+        "estimates"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 309,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

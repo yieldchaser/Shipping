@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 6314,
+  "token_count": 6543,
   "source_path": "reports/hellenic/demolition/2024/2024-08-05_gms-week-31-focus-shifts.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-31-focus-shifts",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 5612,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-08-05_2024_08_05_gms_week_31_focus_shifts__s03_linked_asset_2024_08_05_gms_week_31_focus_shifts_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-08-05_2024_08_05_gms_week_31_focus_shifts",
+      "parent_id": "hellenic_demolition_2024-08-05_2024_08_05_gms_week_31_focus_shifts__root",
+      "title": "Linked asset: 2024-08-05_gms-week-31-focus-shifts_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-08-05_gms-week-31-focus-shifts_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_gms-week-31-focus-shifts_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-08-05_gms-week-31-focus-shifts_img1.jpg\n\nLinked image asset: 2024-08-05_gms-week-31-focus-shifts_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-31-focus-shifts_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-08-05_2024_08_05_gms_week_31_focus_shifts__s04_linked_asset_2024_08_05_gms_week_31_focus_shifts_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-08-05_2024_08_05_gms_week_31_focus_shifts",
+      "parent_id": "hellenic_demolition_2024-08-05_2024_08_05_gms_week_31_focus_shifts__root",
+      "title": "Linked asset: 2024-08-05_gms-week-31-focus-shifts_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-08-05_gms-week-31-focus-shifts_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_gms-week-31-focus-shifts_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-08-05_gms-week-31-focus-shifts_img2.jpg\n\nLinked image asset: 2024-08-05_gms-week-31-focus-shifts_img2.jpg\n\nImage metadata: JPEG 688x167 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-31-focus-shifts_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

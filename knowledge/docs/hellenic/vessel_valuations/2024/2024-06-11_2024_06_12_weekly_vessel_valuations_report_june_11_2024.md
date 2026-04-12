@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2024/2024-06-12_weekly-vessel-valuations-report-june-11-2024.html
@@ -111,3 +111,40 @@ MR2 (Chem/Prod) Alhena (52,400 DWT, May 2012, Guangzhou CSSC Longxue Shipbuildin
 J19 Stainless Steel MTM Antwerp (20,700 DWT, May 2004, Usuki Zosensho) sold to undisclosed buyers for USD 15 mil, VV Value USD 14.88 mil
 Containers: Secondhand values appreciated across the board driven by higher earnings
 Image reference: 2024-06-12_weekly-vessel-valuations-report-june-11-2024_img2.jpg
+
+## Linked asset: 2024-06-12_weekly-vessel-valuations-report-june-11-2024_img1.png
+Source asset: reports/hellenic/vessel_valuations/2024/2024-06-12_weekly-vessel-valuations-report-june-11-2024_img1.png
+
+Linked image asset: 2024-06-12_weekly-vessel-valuations-report-june-11-2024_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2024-06-12_weekly-vessel-valuations-report-june-11-2024_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2024/2024-06-12_weekly-vessel-valuations-report-june-11-2024_img2.jpg
+
+Linked image asset: 2024-06-12_weekly-vessel-valuations-report-june-11-2024_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+bs) VesselsVaue@
+11 June 2024 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Ara LRI MR Cape Pmax Supra Handy Dinas Pmax Handy - Fmax
+rn 40.2% 40.1% +0.1% 40.1% 0.0% 0.5% 0.0% +0.2% 0.1% +1.2% +1.8% +1.8% +1.5%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250, « «1750-1100
+5 40.2% 0.0% +0.1% 41.0% 0.0% 0.3% 0.1% 0.0% "0.2% +1.7% +1.9% +1.9% 41.4%
+320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 «1750 = 1100
+‘6 40.2% 0.0% +0.1% 41.5% 0.0% "0.3% 0.1% 0.4% - -0.3% $2.0% +2.1% 41.9% - +1.3%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250» «1750 = 1100
+- 40.2% +0.1% +0.1% +1.6% 0.0% "0.4% -0.1% 0.3% -0.4% 42.0% +2.1% +1.9% +1.4%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 «= «17501100
+~ 40.2% 40.1% +0.1% +0.9% 0.0% 0.6% 0.1% +1.1% -0.6% 11.6% 41.9% +1.7% +1.8%
+305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 4250 -= «1750 = 1100
+25 40.1% 40.1% 0.0% "0.5% 0.0% 0.0% 0.0% +3.4% 0.9% 40.8% +1.4% +1.7% 42.6%
+u 300k 150k 105k 65k 45k = =- 170k 75k 48k 30k = 6800s 4O0-"(éeisUFSD- 4400 SC

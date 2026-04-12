@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 98,
+  "token_count": 431,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-12-22_weekly-tanker-time-charter-estimates-december-22-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-december-22-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 96,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2021-12-22_2021_12_22_weekly_tanker_time_charter_estimates_december_22_2021__s02_linked_asset_2021_12_22_weekly_tanker_time_charter_estimates_december_22_2021_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2021-12-22_2021_12_22_weekly_tanker_time_charter_estimates_december_22_2021",
+      "parent_id": "hellenic_tanker_charter_2021-12-22_2021_12_22_weekly_tanker_time_charter_estimates_december_22_2021__root",
+      "title": "Linked asset: 2021-12-22_weekly-tanker-time-charter-estimates-december-22-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-12-22_weekly-tanker-time-charter-estimates-december-22-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-12-22_weekly-tanker-time-charter-estimates-december-22-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-12-22_weekly-tanker-time-charter-estimates-december-22-2021_img2.jpg\n\nLinked image asset: 2021-12-22_weekly-tanker-time-charter-estimates-december-22-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALIBRA Updated Wednesday 22 December 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR *3YR *5YR\nHANDY = 11250 |= 12,250 |= 14500 | = 14,500\nMR IMO3 = 12000 |= 13500 |= 16500 | = 16,500\ntrl = 13500 |= 15250 |= 17,250 | = 17,500\nLR2 = 16500 |= 19,750 |= 24950 | = 26,000\nAFRA = 16000 |= 18750 |= 23500 | = 25,000\nSUEZ = 18250 |= 21000 |= 27500 | = 27,000\nvice = 21500 | = 26000 |= 36000 | = 37,500",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "afra",
+        "alibra",
+        "charter",
+        "december",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 300,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

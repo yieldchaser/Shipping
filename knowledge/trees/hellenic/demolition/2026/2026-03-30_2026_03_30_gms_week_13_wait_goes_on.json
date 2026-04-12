@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5593,
+  "token_count": 5874,
   "source_path": "reports/hellenic/demolition/2026/2026-03-30_gms-week-13-wait-goes-on.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-13-wait-goes-on",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4989,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-30_2026_03_30_gms_week_13_wait_goes_on__s03_linked_asset_2026_03_30_gms_week_13_wait_goes_on_img1_jpg",
+      "doc_id": "hellenic_demolition_2026-03-30_2026_03_30_gms_week_13_wait_goes_on",
+      "parent_id": "hellenic_demolition_2026-03-30_2026_03_30_gms_week_13_wait_goes_on__root",
+      "title": "Linked asset: 2026-03-30_gms-week-13-wait-goes-on_img1.jpg",
+      "section_path": [
+        "Linked asset: 2026-03-30_gms-week-13-wait-goes-on_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-30_gms-week-13-wait-goes-on_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2026/2026-03-30_gms-week-13-wait-goes-on_img1.jpg\n\nLinked image asset: 2026-03-30_gms-week-13-wait-goes-on_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-13-wait-goes-on_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-30_2026_03_30_gms_week_13_wait_goes_on__s04_linked_asset_2026_03_30_gms_week_13_wait_goes_on_img2_jpg",
+      "doc_id": "hellenic_demolition_2026-03-30_2026_03_30_gms_week_13_wait_goes_on",
+      "parent_id": "hellenic_demolition_2026-03-30_2026_03_30_gms_week_13_wait_goes_on__root",
+      "title": "Linked asset: 2026-03-30_gms-week-13-wait-goes-on_img2.jpg",
+      "section_path": [
+        "Linked asset: 2026-03-30_gms-week-13-wait-goes-on_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-30_gms-week-13-wait-goes-on_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2026/2026-03-30_gms-week-13-wait-goes-on_img2.jpg\n\nLinked image asset: 2026-03-30_gms-week-13-wait-goes-on_img2.jpg\n\nImage metadata: JPEG 853x187 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nRank lineation re ent Dry Bulk Tankers Containers\nUSD / LDT USD /LDT USD /LDT\n| 4 [Turkey | Steady [| 270/LDT_ | 280/LDT_ | 290/LDT _|",
+      "keywords": [
+        "container",
+        "ldt",
+        "usd",
+        "asset",
+        "image",
+        "containers",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 136,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

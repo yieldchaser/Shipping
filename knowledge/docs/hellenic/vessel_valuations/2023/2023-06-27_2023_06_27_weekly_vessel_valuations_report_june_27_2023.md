@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-06-27_weekly-vessel-valuations-report-june-27-2023.html
@@ -117,3 +117,40 @@ Containers : Handy Containers have firmed
 Sub Panamax Northern Vigour (2,750 TEU, Aug 2005, Aker Ostsee) sold to MSC for USD 17 mil (DD Passed), VV Value USD 14.10 mil
 Sub Panamax Ella (2,450 TEU, Mar 2003, Naikai Setoda) sold to MSC for USD 14 mil, VV Value USD 13.95 mil
 Image reference: 2023-06-27_weekly-vessel-valuations-report-june-27-2023_img2.jpg
+
+## Linked asset: 2023-06-27_weekly-vessel-valuations-report-june-27-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-06-27_weekly-vessel-valuations-report-june-27-2023_img1.png
+
+Linked image asset: 2023-06-27_weekly-vessel-valuations-report-june-27-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-06-27_weekly-vessel-valuations-report-june-27-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-06-27_weekly-vessel-valuations-report-june-27-2023_img2.jpg
+
+Linked image asset: 2023-06-27_weekly-vessel-valuations-report-june-27-2023_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+O vesselsValue= | $$
+27 June 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Sucz Afra LRI MR Cape Pmax Supra Handy oon Pmax Handy Fmax
+° 0.3% §-+0.3% 10.3% 0.4% 1.4% 1.5% 0.6% 0.9% - - 1.2% +1.3% 0.0% +#2.7% 42.7%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+5 0.3% - 40.2% 1.2% = - 40.7% = 1.4% ".A% - -1.0% - 0.9% 1.3% +1.8% 0.0% +3.0% - +0.9%
+320k 160k 110k 75k 50k 180k 80k 60k 38% 7000 4250 1750 1100
+10 0.2% = -O.7% = +1.9% 40.3% -- 1.5% -1A% = -2.4% = -0.7% - -1.3% +1.3% 0.0% +4.3% -1.0%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
+15 "0.2% = -1.4% = +2.3% --1.2% © -1.5% "1.4% = -3.1% = 0.8% - -1.2% 0.0% 0.0% +5.9% -2.9%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
+20 0.2% 1.5% 12.3% ---S.5% «1% 0.0% 1.2% 0.8% - 1.2% 2.0% 0.1% 46.4% 4.7%
+305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
+25 0.2% 0.4% +1.9% N/A "1.0% 0.0% 0.0% "1.0% 1.1% 4.2% 0.0% *5.3% - -6.5%
+300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100

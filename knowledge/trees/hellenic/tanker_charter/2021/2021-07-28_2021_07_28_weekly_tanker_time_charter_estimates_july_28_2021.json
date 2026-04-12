@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 103,
+  "token_count": 435,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-07-28_weekly-tanker-time-charter-estimates-july-28-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-july-28-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 101,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2021-07-28_2021_07_28_weekly_tanker_time_charter_estimates_july_28_2021__s02_linked_asset_2021_07_28_weekly_tanker_time_charter_estimates_july_28_2021_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2021-07-28_2021_07_28_weekly_tanker_time_charter_estimates_july_28_2021",
+      "parent_id": "hellenic_tanker_charter_2021-07-28_2021_07_28_weekly_tanker_time_charter_estimates_july_28_2021__root",
+      "title": "Linked asset: 2021-07-28_weekly-tanker-time-charter-estimates-july-28-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-07-28_weekly-tanker-time-charter-estimates-july-28-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-07-28_weekly-tanker-time-charter-estimates-july-28-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-07-28_weekly-tanker-time-charter-estimates-july-28-2021_img2.jpg\n\nLinked image asset: 2021-07-28_weekly-tanker-time-charter-estimates-july-28-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nALI B RA Updated Wednesday 28 July 2021\nWET TIME CHARTER ESTIMATES (S$/pdpr)\nSIZE 1YR 2 YR \"3 YR \"5 YR\nHANDY 11,000 = 12,250 » 14,000 3 14,250\nMR IMO3 12,000 = 13,000 = 16,000 16,350\nLRI 13,500 = 15,250 17,250 17,500\nLR2 = 16,500 = 19,750 = 24,950 = 25,500\nAFRA wv 15,750 ~ 18,000 22,500 23,000\nSUEZ = 18,000 = 19,500 = 26,000 = 27,000\nVLCC v 23,000 = 25,500 35,000 36,500",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "asset",
+        "image",
+        "afra",
+        "ali",
+        "charter",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 300,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Dry Time Charter Estimates, March 09 2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2024-03-06_weekly-dry-time-charter-estimates-march-09-2024_img2.jpg\n\nLinked asset: 2024-03-06_weekly-dry-time-charter-estimates-march-09-2024_img2.jpg\nSource asset: reports/hellenic/dry_charter/2024/2024-03-06_weekly-dry-time-charter-estimates-march-09-2024_img2.jpg\n\nLinked image asset: 2024-03-06_weekly-dry-time-charter-estimates-march-09-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nAL BR A Updated Weds 9 Mar 2024\nShipping Umited\nORY TIME CHARTER ESTIMATES ($/pdpr)\nSIZE ATL PAC ATL PAC ATL PAC\n| HANDY (384 ont) | 13,000 | A 14,250 13,250 | A 14,250 12,000 | 12,750 |\nSMAXIULTRA 16,000 | 4 16,000 15500 | 4 15,250 14,250 |& 14,250\n| PANAKMAX | A 20,850 | 18000 | A 18750 |4 17,500 |4 15,500 15,000 |\nCAPESZE (A 31,000 | A 31,000 [4 29500 (4 29500 | 4 26000 | 4 26,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 32,
+  "token_count": 355,
   "source_path": "reports/hellenic/dry_charter/2024/2024-03-06_weekly-dry-time-charter-estimates-march-09-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-march-09-2024",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 30,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2024-03-09_2024_03_06_weekly_dry_time_charter_estimates_march_09_2024__s02_linked_asset_2024_03_06_weekly_dry_time_charter_estimates_march_09_2024_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2024-03-09_2024_03_06_weekly_dry_time_charter_estimates_march_09_2024",
+      "parent_id": "hellenic_dry_charter_2024-03-09_2024_03_06_weekly_dry_time_charter_estimates_march_09_2024__root",
+      "title": "Linked asset: 2024-03-06_weekly-dry-time-charter-estimates-march-09-2024_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-03-06_weekly-dry-time-charter-estimates-march-09-2024_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-03-06_weekly-dry-time-charter-estimates-march-09-2024_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2024/2024-03-06_weekly-dry-time-charter-estimates-march-09-2024_img2.jpg\n\nLinked image asset: 2024-03-06_weekly-dry-time-charter-estimates-march-09-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nAL BR A Updated Weds 9 Mar 2024\nShipping Umited\nORY TIME CHARTER ESTIMATES ($/pdpr)\nSIZE ATL PAC ATL PAC ATL PAC\n| HANDY (384 ont) | 13,000 | A 14,250 13,250 | A 14,250 12,000 | 12,750 |\nSMAXIULTRA 16,000 | 4 16,000 15500 | 4 15,250 14,250 |& 14,250\n| PANAKMAX | A 20,850 | 18000 | A 18750 |4 17,500 |4 15,500 15,000 |\nCAPESZE (A 31,000 | A 31,000 [4 29500 (4 29500 | 4 26000 | 4 26,000",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "capesze",
+        "charter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 291,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

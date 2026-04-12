@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Tanker Time Charter Estimates, January 28 2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026_img2.jpg\n\nLinked asset: 2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026_img2.jpg\nSource asset: reports/hellenic/tanker_charter/2026/2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026_img2.jpg\n\nLinked image asset: 2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n7 & A LI B R A Updated Weds 21/01/26\nShipping Umited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE (S/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY 21,000 19,000 20,000 19,000\nMR IMO3 23,500 22,000 22,500 20,000\nLR1 26,500 24,000 27,250 25,250\nLR2 38,500 32,500 36,500 33,500\nAFRA (115k dwt) 41,500 35,000 36,500 32,500\nSUEZ 45,000 40,000 42,500 40,000\nvicc 75,000 67,500 63,500 60,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 33,
+  "token_count": 371,
   "source_path": "reports/hellenic/tanker_charter/2026/2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-january-28-2026",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 31,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2026-01-28_2026_01_28_weekly_tanker_time_charter_estimates_january_28_2026__s02_linked_asset_2026_01_28_weekly_tanker_time_charter_estimates_january_28_2026_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2026-01-28_2026_01_28_weekly_tanker_time_charter_estimates_january_28_2026",
+      "parent_id": "hellenic_tanker_charter_2026-01-28_2026_01_28_weekly_tanker_time_charter_estimates_january_28_2026__root",
+      "title": "Linked asset: 2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026_img2.jpg",
+      "section_path": [
+        "Linked asset: 2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2026/2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026_img2.jpg\n\nLinked image asset: 2026-01-28_weekly-tanker-time-charter-estimates-january-28-2026_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n7 & A LI B R A Updated Weds 21/01/26\nShipping Umited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE (S/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY 21,000 19,000 20,000 19,000\nMR IMO3 23,500 22,000 22,500 20,000\nLR1 26,500 24,000 27,250 25,250\nLR2 38,500 32,500 36,500 33,500\nAFRA (115k dwt) 41,500 35,000 36,500 32,500\nSUEZ 45,000 40,000 42,500 40,000\nvicc 75,000 67,500 63,500 60,000",
+      "keywords": [
+        "handysize",
+        "year",
+        "asset",
+        "image",
+        "afra",
+        "charter",
+        "dpi",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 305,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-10-31_weekly-vessel-valuations-report-october-31-2023.html
@@ -126,3 +126,40 @@ Containers
 Last week saw continued erosion in second-hand values across the board as buyers sat on the fence waiting for lower prices in a falling market
 Sub Panamax Wan Hai 301 and Wan Hai 302 (2,496 TEU, 2001/2002, Naikai Setoda) sold to Interasia in an en bloc deal for USD 15 mil, VV Value USD 13.3 mil
 Image reference: 2023-10-31_weekly-vessel-valuations-report-october-31-2023_img2.jpg
+
+## Linked asset: 2023-10-31_weekly-vessel-valuations-report-october-31-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-10-31_weekly-vessel-valuations-report-october-31-2023_img1.png
+
+Linked image asset: 2023-10-31_weekly-vessel-valuations-report-october-31-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-10-31_weekly-vessel-valuations-report-october-31-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-10-31_weekly-vessel-valuations-report-october-31-2023_img2.jpg
+
+Linked image asset: 2023-10-31_weekly-vessel-valuations-report-october-31-2023_img2.jpg
+
+Image metadata: JPEG 678x256 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+() VesselsValue™- -A
+31 October 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Sucz Afra LR MR Cape Pmax Supra Handy Pmax Pmax Handy = Fmax
+° 40.1% +2.0% +1.0% -0.3% +0.8% +0.4% 0.5% - +0.6% - -0.3% 0.5% -0.9% -+2.2% - -0.9%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+s 0.0% +2.7% +1.4% -0.3% +0.6% +0.3% 0.9% +0.1% +0.9% "1.0% -0.8% +1.9% -0.8%
+320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 ©4250 1750 1100
+20 0.0% +7.8% +1.9% -0.3% 0.0% +0.3% -1.1% = +0.4% +0.8% 0.9% -0.8% +1.0% -0.8%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 «4250 1750 1100
+15 0.0% +1.9% +2.2% -0.3% -0.2% 40.3% -1.2% +1.7% -0.6% 0.0% -0.8% -0.5% -0.9%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 = 4250 1750 1100
+20 0.0% 40.1% 12.4% 0.3% 40.6% 0.0% --1.2% 43.3% -2.6% 11.7% 0.7% -1.9% -1.0%
+305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
+5 +0.1% -1.4% +2.2% N/A #2.3% 0.0% 0.0% 0.0% "5.2% 0.0% 0.0% 0.0% "1.2%
+300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100

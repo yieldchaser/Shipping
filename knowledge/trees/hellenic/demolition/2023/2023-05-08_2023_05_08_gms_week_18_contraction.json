@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4839,
+  "token_count": 5113,
   "source_path": "reports/hellenic/demolition/2023/2023-05-08_gms-week-18-contraction.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-18-contraction",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4349,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-05-08_2023_05_08_gms_week_18_contraction__s03_linked_asset_2023_05_08_gms_week_18_contraction_img1_jpg",
+      "doc_id": "hellenic_demolition_2023-05-08_2023_05_08_gms_week_18_contraction",
+      "parent_id": "hellenic_demolition_2023-05-08_2023_05_08_gms_week_18_contraction__root",
+      "title": "Linked asset: 2023-05-08_gms-week-18-contraction_img1.jpg",
+      "section_path": [
+        "Linked asset: 2023-05-08_gms-week-18-contraction_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-05-08_gms-week-18-contraction_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-05-08_gms-week-18-contraction_img1.jpg\n\nLinked image asset: 2023-05-08_gms-week-18-contraction_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-18-contraction_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-05-08_2023_05_08_gms_week_18_contraction__s04_linked_asset_2023_05_08_gms_week_18_contraction_img2_jpg",
+      "doc_id": "hellenic_demolition_2023-05-08_2023_05_08_gms_week_18_contraction",
+      "parent_id": "hellenic_demolition_2023-05-08_2023_05_08_gms_week_18_contraction__root",
+      "title": "Linked asset: 2023-05-08_gms-week-18-contraction_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-05-08_gms-week-18-contraction_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-05-08_gms-week-18-contraction_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-05-08_gms-week-18-contraction_img2.jpg\n\nLinked image asset: 2023-05-08_gms-week-18-contraction_img2.jpg\n\nImage metadata: JPEG 682x238 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nRank Location Sentiment eid gies poe ey\nUSD/LDT USD/LDT USD / LDT\n| 4 | turkey | Dectining | 320/~bT | 330/Lpr_ | s40/LDT__|\n*Subject L/C approval",
+      "keywords": [
+        "asset",
+        "image",
+        "usd/ldt",
+        "approval",
+        "dectining",
+        "dpi",
+        "eid",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

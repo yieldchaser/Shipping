@@ -32,7 +32,7 @@ regions:
 - europe
 - meg
 - india
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-12-16_weekly-vessel-valuations-report-december-16-2025.html
@@ -118,3 +118,40 @@ MR2 (Chemical/Product) Sea Adore (47,800 DWT, Mar 2004, Hyundai Mipo) sold to Un
 Containers: Minimal value movements this week
 No notable sales
 Image reference: 2025-12-16_weekly-vessel-valuations-report-december-16-2025_img2.jpg
+
+## Linked asset: 2025-12-16_weekly-vessel-valuations-report-december-16-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-12-16_weekly-vessel-valuations-report-december-16-2025_img1.png
+
+Linked image asset: 2025-12-16_weekly-vessel-valuations-report-december-16-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-12-16_weekly-vessel-valuations-report-december-16-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-12-16_weekly-vessel-valuations-report-december-16-2025_img2.jpg
+
+Linked image asset: 2025-12-16_weekly-vessel-valuations-report-december-16-2025_img2.jpg
+
+Image metadata: JPEG 600x278 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+© VessetsVal re AR
+16 December 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra um MR Cape Pmax ‘Supra Handy badd Prax Handy Fmax
+14% 10.1% 105% 104% 0.6 10.6% 202% 0% -+0.8% 2% (0.0% 04K OTK
+© 320k 160k Sk Tsk SOK 180k 82k 62k 38% 7000 4250 780 noo
+s 10.1% 02% 06% 104% 10.8% 10.1% 10.2% 109% 0.0% 19% 00K 04K OTK
+320k 160k nOk Tsk SOK 180K 82k 60k 38% 7000 4250 780 noo
+10.4% ON 0.9% 10.4% HL 10.6% 02% «1.0% -#0.1%6 AS% OK OK OK
+320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo
+% 118% 40.7% 408% 104% 40.2% 121% 102% HSH (OOK UO OAK OK
+S0k = 60K Ok 73k 50k 180k 80k 58k 30k 7000 ««4250«s«SO.-sNOO
+si *33% 124% HOZK OTH ASH 141% 10.1% 124% OOH OTH 0M OAK OK
+B0k 160k NOk 70k 45k 180k 75k 55k 30k 7000 4250 S000.
+- 14% 4K OAH 103% RT 44% 0.0% 435% 0.0% 04% 02% 04% 03%
+300k = 1SSk 105k 70k 45k 175k 75k 48k 30k 6500 4000 TSO N00

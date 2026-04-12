@@ -26,8 +26,23 @@ regions:
 - west_africa
 - europe
 - china
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: mr
+    source_line: MR IMO3 = 12000 |= 13000 |= 16000 | = 16,350
+    timeframe: null
+    unit: null
+    values:
+    - 12000.0
+    - 13000.0
+    - 16000.0
+    - 16350.0
+  rate_summary:
+    mr: 16350.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2021/2021-10-20_weekly-tanker-time-charter-estimates-october-20-2021.html
 source_stem: 2021-10-20_weekly-tanker-time-charter-estimates-october-20-2021
@@ -52,6 +67,7 @@ vessel_classes:
 - vlcc
 - suezmax
 - aframax
+- handysize
 ---
 
 ## Summary
@@ -63,3 +79,25 @@ Some increased interest in the VLCC period market this week although with a gap 
 On the clean side, interest in the LR2 sector has continued this week and on the MRs rate sentiment has firmed slightly providing some optimism.
 Oil prices continued to surge this week reaching multi year highs thanks to the global energy supply crunch.
 Image reference: 2021-10-20_weekly-tanker-time-charter-estimates-october-20-2021_img2.jpg
+
+## Linked asset: 2021-10-20_weekly-tanker-time-charter-estimates-october-20-2021_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2021/2021-10-20_weekly-tanker-time-charter-estimates-october-20-2021_img2.jpg
+
+Linked image asset: 2021-10-20_weekly-tanker-time-charter-estimates-october-20-2021_img2.jpg
+
+Image metadata: JPEG 658x358 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+OCR text:
+A LI B RA Updated Wednesday 20 October 2021
+WET TIME CHARTER ESTIMATES ($/pdpr)
+SIZE 1YR 2YR "3 YR "5 YR
+HANDY = 11000 |= 12250 |= 14500 | = 14,000
+MR IMO3 = 12000 |= 13000 |= 16000 | = 16,350
+tR1 = 12,500 15,250 17,250 | « 17,500
+1R2 = 18250 |= 19,750 |= 24950 | = 25,500
+AFRA = 16000 |= 18000 |= 23000 | = 24,500
+SUEZ = 17,000 |= 20500 |= 26000 | = 27,000
+vice = 21500 |= 25000 |= 35000 | = 36,500

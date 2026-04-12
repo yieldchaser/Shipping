@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5420,
+  "token_count": 5691,
   "source_path": "reports/hellenic/demolition/2024/2024-02-19_gms-week-07-still-slow-and-its-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-07-still-slow-and-its-2024",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4802,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-02-19_2024_02_19_gms_week_07_still_slow_and_its_2024__s03_linked_asset_2024_02_19_gms_week_07_still_slow_and_its_2024_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-02-19_2024_02_19_gms_week_07_still_slow_and_its_2024",
+      "parent_id": "hellenic_demolition_2024-02-19_2024_02_19_gms_week_07_still_slow_and_its_2024__root",
+      "title": "Linked asset: 2024-02-19_gms-week-07-still-slow-and-its-2024_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-02-19_gms-week-07-still-slow-and-its-2024_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-02-19_gms-week-07-still-slow-and-its-2024_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-02-19_gms-week-07-still-slow-and-its-2024_img1.jpg\n\nLinked image asset: 2024-02-19_gms-week-07-still-slow-and-its-2024_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-07-still-slow-and-its-2024_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-02-19_2024_02_19_gms_week_07_still_slow_and_its_2024__s04_linked_asset_2024_02_19_gms_week_07_still_slow_and_its_2024_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-02-19_2024_02_19_gms_week_07_still_slow_and_its_2024",
+      "parent_id": "hellenic_demolition_2024-02-19_2024_02_19_gms_week_07_still_slow_and_its_2024__root",
+      "title": "Linked asset: 2024-02-19_gms-week-07-still-slow-and-its-2024_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-02-19_gms-week-07-still-slow-and-its-2024_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-02-19_gms-week-07-still-slow-and-its-2024_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-02-19_gms-week-07-still-slow-and-its-2024_img2.jpg\n\nLinked image asset: 2024-02-19_gms-week-07-still-slow-and-its-2024_img2.jpg\n\nImage metadata: JPEG 688x172 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-07-still-slow-and-its-2024_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

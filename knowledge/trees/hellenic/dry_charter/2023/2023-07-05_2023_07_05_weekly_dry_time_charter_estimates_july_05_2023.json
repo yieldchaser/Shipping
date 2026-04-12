@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Dry Time Charter Estimates, July 05 2023",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2023-07-05_weekly-dry-time-charter-estimates-july-05-2023_img2.jpg\n\nLinked asset: 2023-07-05_weekly-dry-time-charter-estimates-july-05-2023_img2.jpg\nSource asset: reports/hellenic/dry_charter/2023/2023-07-05_weekly-dry-time-charter-estimates-july-05-2023_img2.jpg\n\nLinked image asset: 2023-07-05_weekly-dry-time-charter-estimates-july-05-2023_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nAll B R A Updated Weds 05 July 23\nStipping Limited\nDRY TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSiZE ATL PAC ATL PAC ATL PAC\nHANDY (32k out) 10,000 10,500 10,750 12,000 11,250 12,000\nSMAXJULTRA 11,000 11,500 10,500 12,250 12,500 13,000\nPANAKMAX 13,250 11,750 13,500 12,350 14,250 13,250\nCAPESIZE 15,000 15,000 |¥ 15,500 15,500 17,000 17,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 32,
+  "token_count": 345,
   "source_path": "reports/hellenic/dry_charter/2023/2023-07-05_weekly-dry-time-charter-estimates-july-05-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-july-05-2023",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 30,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2023-07-05_2023_07_05_weekly_dry_time_charter_estimates_july_05_2023__s02_linked_asset_2023_07_05_weekly_dry_time_charter_estimates_july_05_2023_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2023-07-05_2023_07_05_weekly_dry_time_charter_estimates_july_05_2023",
+      "parent_id": "hellenic_dry_charter_2023-07-05_2023_07_05_weekly_dry_time_charter_estimates_july_05_2023__root",
+      "title": "Linked asset: 2023-07-05_weekly-dry-time-charter-estimates-july-05-2023_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-07-05_weekly-dry-time-charter-estimates-july-05-2023_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-07-05_weekly-dry-time-charter-estimates-july-05-2023_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2023/2023-07-05_weekly-dry-time-charter-estimates-july-05-2023_img2.jpg\n\nLinked image asset: 2023-07-05_weekly-dry-time-charter-estimates-july-05-2023_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nAll B R A Updated Weds 05 July 23\nStipping Limited\nDRY TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSiZE ATL PAC ATL PAC ATL PAC\nHANDY (32k out) 10,000 10,500 10,750 12,000 11,250 12,000\nSMAXJULTRA 11,000 11,500 10,500 12,250 12,500 13,000\nPANAKMAX 13,250 11,750 13,500 12,350 14,250 13,250\nCAPESIZE 15,000 15,000 |¥ 15,500 15,500 17,000 17,000",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "all",
+        "charter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 281,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

@@ -32,7 +32,7 @@ regions:
 - europe
 - meg
 - japan
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-07-12_weekly-vessel-valuations-report-july-12-2022.html
@@ -95,3 +95,40 @@ Post Panamax (Clean) Stena Paris (65,200 DWT, Dec 2005, Brodosplit) sold to Unio
 Containers: Post Panamax values have softened
 Post Panamax Conts Northern Jasper and Northern Jupiter (8,814 TEU, Aug 2009/Feb 2010, Daewoo) sold to Moller Maersk AS for USD 268.00 mil, VV Value USD 273.98 mil - En Bloc.
 Image reference: 2022-07-12_weekly-vessel-valuations-report-july-12-2022_img2.png
+
+## Linked asset: 2022-07-12_weekly-vessel-valuations-report-july-12-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-07-12_weekly-vessel-valuations-report-july-12-2022_img1.png
+
+Linked image asset: 2022-07-12_weekly-vessel-valuations-report-july-12-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-07-12_weekly-vessel-valuations-report-july-12-2022_img2.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-07-12_weekly-vessel-valuations-report-july-12-2022_img2.png
+
+Linked image asset: 2022-07-12_weekly-vessel-valuations-report-july-12-2022_img2.png
+
+Image metadata: PNG 678x249 mode=RGBA
+
+Embedded info:
+dpi: (143.99259999999998, 143.99259999999998)
+
+OCR text:
+© VesselsValue™
+12 July 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra. = LRT MR Cape Pmax Supra Handy ost pmax Handy Fmax
+0 -O.1% +0.4% 41.5% 41.1% -0.1% "0.8% -1.5% -2.5% -2.3% -1.2% +0.3% +0.6% -0.0%
+320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100
+5 11.9% 12.9% +2.8% +¢1.2% 0.2% 1.1% 1.9% 0.0% 2.1% 1.3% +0.2% 10.6% 1.1%
+320K 160K 110K = 75K ~-S0K 180K 80K 60K 30K 7000 4250 ©1750 ~--1100
+10 +1.6% +3.1% +7.2% +4.3% -0.5% "1.1% -0.86% +1.5% -1.0% -1.5% -0.3% +0.6% -1.4%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 10.4% 41.3% 12.8% +#9.8% 0.7% 1.0% +¢1.7% +2.0% 10.6% 1.8% 1.7% +0.5% 1.0%
+310K 160K 110K 75K ~- «SOK 180K 75K 55K 30K 7000 4250 «1750 ‘1100
+20 0.6% 0.0% +5.4% +16.9% -0.1% "1.7% +5.2% +0.7% +7.8% 2.4% -4.0% +0.6% -0.4%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 1.6% N/A 42.6% 1.7% 1.5% 1.7% +9.3% 2.4% 45.4% 3.2% 7.5% +0.6% 0.6%
+300K N/A -105K-s«OSK «45K 170K 75K -s«4BKSOK 5500 4000 1750 1100

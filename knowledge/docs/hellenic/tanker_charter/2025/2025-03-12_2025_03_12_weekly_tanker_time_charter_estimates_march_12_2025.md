@@ -18,13 +18,91 @@ regions:
 - west_africa
 - europe
 - china
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: mr
+    source_line: MR IMO3 18,000 + 18,500 v 22,000 Vv 21,500
+    timeframe: null
+    unit: null
+    values:
+    - 18000.0
+    - 18500.0
+    - 22000.0
+    - 21500.0
+  - segment: lr1
+    source_line: LR1 21,000 20,000 24,500 23,500
+    timeframe: null
+    unit: null
+    values:
+    - 21000.0
+    - 20000.0
+    - 24500.0
+    - 23500.0
+  - segment: lr2
+    source_line: LR2 27,500 28,000 30,500 29,500
+    timeframe: null
+    unit: null
+    values:
+    - 27500.0
+    - 28000.0
+    - 30500.0
+    - 29500.0
+  rate_summary:
+    lr1: 23500.0
+    lr2: 29500.0
+    mr: 21500.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2025/2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025.html
 source_stem: 2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025
 source_url: https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-march-12-2025
-summary: ''
+summary: 'Main
+
+  Image reference: 2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+
+
+  Linked asset: 2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+
+  Source asset: reports/hellenic/tanker_charter/2025/2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+
+
+  Linked image asset: 2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (144.0, 144.0)
+
+
+  OCR text:
+
+  y <3 | A LI B R A Updated Weds 12/03/2025
+
+  Shipping Limited * Eco tonnage with Scrubber fitted
+
+  TANKER TIME CHARTER ESTIMATE ($/pdpr)
+
+  SIZE 4 YEAR 2 YEAR 3 YEAR* 5 YEAR *
+
+  HANDY 18,000 17,500 16,500 20,000
+
+  MR IMO3 18,000 + 18,500 v 22,000 Vv 21,500
+
+  LR1 21,000 20,000 24,500 23,500
+
+  LR2 27,500 28,000 30,500 29,500
+
+  AFRA (115k dwt) 28,000 28,000 30,000 29,000
+
+  SUEZ 36,000 34,000 37,500 36,500
+
+  vicc 46,500 44,500 50,000 48,500'
 themes:
 - image
 - main
@@ -35,7 +113,58 @@ vessel_classes:
 - vlcc
 - suezmax
 - aframax
+- handysize
 ---
+
+## Summary
+Main
+Image reference: 2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+
+Linked asset: 2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2025/2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+
+Linked image asset: 2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+y <3 | A LI B R A Updated Weds 12/03/2025
+Shipping Limited * Eco tonnage with Scrubber fitted
+TANKER TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 4 YEAR 2 YEAR 3 YEAR* 5 YEAR *
+HANDY 18,000 17,500 16,500 20,000
+MR IMO3 18,000 + 18,500 v 22,000 Vv 21,500
+LR1 21,000 20,000 24,500 23,500
+LR2 27,500 28,000 30,500 29,500
+AFRA (115k dwt) 28,000 28,000 30,000 29,000
+SUEZ 36,000 34,000 37,500 36,500
+vicc 46,500 44,500 50,000 48,500
 
 ## Main
 Image reference: 2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+
+## Linked asset: 2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2025/2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+
+Linked image asset: 2025-03-12_weekly-tanker-time-charter-estimates-march-12-2025_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+y <3 | A LI B R A Updated Weds 12/03/2025
+Shipping Limited * Eco tonnage with Scrubber fitted
+TANKER TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 4 YEAR 2 YEAR 3 YEAR* 5 YEAR *
+HANDY 18,000 17,500 16,500 20,000
+MR IMO3 18,000 + 18,500 v 22,000 Vv 21,500
+LR1 21,000 20,000 24,500 23,500
+LR2 27,500 28,000 30,500 29,500
+AFRA (115k dwt) 28,000 28,000 30,000 29,000
+SUEZ 36,000 34,000 37,500 36,500
+vicc 46,500 44,500 50,000 48,500

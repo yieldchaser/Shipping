@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2024/2024-05-07_weekly-vessel-valuations-report-may-07-2024.html
@@ -118,3 +118,40 @@ MR2 Dai Minh (47,100 DWT, Jan 2004, Onomichi Dockyard) sold to Unknown Greek buy
 Containers: Container values firmed across the board from improved earnings, except for vintage Feedermax that lost up to 1.2%
 No notable sales
 Image reference: 2024-05-07_weekly-vessel-valuations-report-may-07-2024_img2.jpg
+
+## Linked asset: 2024-05-07_weekly-vessel-valuations-report-may-07-2024_img1.png
+Source asset: reports/hellenic/vessel_valuations/2024/2024-05-07_weekly-vessel-valuations-report-may-07-2024_img1.png
+
+Linked image asset: 2024-05-07_weekly-vessel-valuations-report-may-07-2024_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2024-05-07_weekly-vessel-valuations-report-may-07-2024_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2024/2024-05-07_weekly-vessel-valuations-report-may-07-2024_img2.jpg
+
+Linked image asset: 2024-05-07_weekly-vessel-valuations-report-may-07-2024_img2.jpg
+
+Image metadata: JPEG 678x256 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+Db) VesselsValue
+07 May 2024 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra tRI MR Cape Pmax Supra Mandy Peied Pmax Mandy Fmax
+° 0.0% 0.3% 10.3% 10.7% 1.5% 0.5% 0.2% 10.4% 10.1% +0.6% 10.7% 10.6% 0.0%
+520k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 «©1750 = 1100
+5 0.0% 04% 40.6% 10.6% 0.5% 0.5% 0.2% +1.2% 40.1% 40.2% 40.9% 10.6% 0.0%
+320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250-1750 = 1100
+10 0.0% 0.6% 40.8% 41.0% +0.2% 0.5% 0.2% +1.6% 40.2% 40.6% +1.0% 40.6% 40.1%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250-1750 = 1100
+1s 0.0% -0.7% +0.8% +1.9% +0.4% -0.5% -0.2% +1.4% +0.2% 40.9% +1.0% +0.6% 0.0%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250, « «17501100
+20 0.0% 0.5% +0.6% +3.0% -0.2% 0.5% 0.2% 40.6% +0.2% +0.8% 40.7% +0.5% +0.3%
+305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 4250S «1750» 1100
+25 0.0% 0.1% 0.3% 44.4% -1.0% 0.0% 0.0% 0.7% +0.2% 0.1% 0.0% +0.7% +0.6%
+. 300k 150k 105k 65k 45k 170k 75k 48k 30k 6500 4000 1750 1100

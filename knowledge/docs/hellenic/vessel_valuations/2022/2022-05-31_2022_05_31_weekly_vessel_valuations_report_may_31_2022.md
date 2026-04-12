@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-05-31_weekly-vessel-valuations-report-may-31-2022.html
@@ -92,3 +92,41 @@ Suezmax Libya (159,200 DWT, Mar 2007, Hyundai Samho Heavy Ind) sold to Imperial 
 Containers: Container Values have softened.
 Sub Panamax Cont Maersk Niagara, Nijmegen and Niamey (2,592 TEU, Nov 2008, May 2009 & March 2009, Hyundai Heavy Ind) sold en bloc to MSC for USD 150 mil, VV Value USD 161.68 mil.
 Image reference: 2022-05-31_weekly-vessel-valuations-report-may-31-2022_img2.png
+
+## Linked asset: 2022-05-31_weekly-vessel-valuations-report-may-31-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-05-31_weekly-vessel-valuations-report-may-31-2022_img1.png
+
+Linked image asset: 2022-05-31_weekly-vessel-valuations-report-may-31-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-05-31_weekly-vessel-valuations-report-may-31-2022_img2.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-05-31_weekly-vessel-valuations-report-may-31-2022_img2.png
+
+Linked image asset: 2022-05-31_weekly-vessel-valuations-report-may-31-2022_img2.png
+
+Image metadata: PNG 1313x507 mode=RGB
+
+Embedded info:
+dpi: (95.9866, 95.9866)
+Software: Greenshot
+
+OCR text:
+© vesselsValue"
+31 May 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra LR1 MR Cape Pmax Supra Handy post Pmax Handy Fmax
+0 -0.0% +0.2% -0.5% +0.1% 0.0% -0.3% -0.1% +0.4% -0.2% -0.2% -0.4% -2.5% -1.4%
+320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100
+5 -0.0% +0.2% -0.2% -0.1% -0.4% -0.3% +1.1% -0.1% -1.4% -0.2% -0.4% -2.6% -1.4%
+320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+10 -0.0% +0.2% -0.5% -1.6% -0.1% -0.3% +1.6% +0.2% -1.4% -0.2% -0.4% -2.6% -1.4%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 -0.0% +0.2% -1.0% -3.6% 0.0% -0.3% +1.3% +1.2% +0.1% -0.2% -0.5% -2.8% -1.4%
+310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100
+20 0.0% -2.9% -1.1% -3.0% -1.0% -3.0% +0.7% +2.7% +2.9% -0.2% -0.3% -3.0% -1.4%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 -3.0% N/A -3.0% -2.9% -3.0% -3.0% -0.4% +4.6% +6.5% -0.2% 0.0% -3.2% -1.3%
+300K N/A 105K 65K 45K 170K 75K 48K 30K 5500 4000 1750 1100

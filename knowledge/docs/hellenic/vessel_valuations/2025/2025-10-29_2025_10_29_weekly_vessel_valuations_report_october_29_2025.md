@@ -33,7 +33,7 @@ regions:
 - meg
 - india
 - singapore
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-10-29_weekly-vessel-valuations-report-october-29-2025.html
@@ -104,3 +104,40 @@ MR2 (Chemical/Product) Petite Soeur (50,400 DWT, Jul 2011, Guangzhou Shipyard In
 Containers: Midage Feedermax values have been increasing this week.
 No notable sales
 Image reference: 2025-10-29_weekly-vessel-valuations-report-october-29-2025_img2.jpg
+
+## Linked asset: 2025-10-29_weekly-vessel-valuations-report-october-29-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-10-29_weekly-vessel-valuations-report-october-29-2025_img1.png
+
+Linked image asset: 2025-10-29_weekly-vessel-valuations-report-october-29-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-10-29_weekly-vessel-valuations-report-october-29-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-10-29_weekly-vessel-valuations-report-october-29-2025_img2.jpg
+
+Linked image asset: 2025-10-29_weekly-vessel-valuations-report-october-29-2025_img2.jpg
+
+Image metadata: JPEG 600x278 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+© Vessels Va ere Pai
+29 October 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra um mR Cape Pmax ‘Supra Handy nests Prax Handy Fmax
+6 102% 0.1% = 03% OK 10.2% 10.1% 30.7% 03% 10.5% 03% 02% OFF 05%
+320k 160k Sk Tsk SOK 180k 8m 62k 38% 7000 4250 80 noo
+s 10.1% 0.0% 03% ON +0.2% 10.1% 16% 03% 20.2% O36 02% 03% -*1.8%
+220k 160k NOk Sk SOK 180k ame 60k 38 7000 4250 780 noo
+= 104% 10.1% 03% 09% 40.2% 10.1% -+20% 04% 02% 03% 02% 03% 135%
+20k 160k nOk Sk SOk 180K 80k 60k Sk 7000 4250 780 100
+6 10.7% 0.0% 03% 22% +0.2% 10.1% 18% 08K BH 03% 0 OTH HAH
+B0k 160k NOK 73k SOk 180k 80k SSK 30k 7000 4250-80-00.
+ee 105% 0.0% 03% 3K +0.2% 10.0% 406% ZH LA 03% 02% 03K 12K
+Sk 160k NOk 70% 45k 180k 75k SSK 30k 7000 «4250-80-00.
+se 00% 03% 03K 40% +0. 00% LH 9K -2OK 02% 03% 03% 09%
+300k = 1SSk 105k 70k 45k 17S 75k 48k 30k 6500 4000 150 ‘oo

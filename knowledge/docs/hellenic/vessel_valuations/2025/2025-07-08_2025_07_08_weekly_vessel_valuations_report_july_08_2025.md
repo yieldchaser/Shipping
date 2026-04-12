@@ -32,7 +32,7 @@ regions:
 - europe
 - meg
 - india
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-07-08_weekly-vessel-valuations-report-july-08-2025.html
@@ -116,3 +116,40 @@ Handy Container Hansa Horneburg (1,732 TEU, Sept 2007, Guangzhou Wenchong) sold 
 Handy Container Norderney (1,930 TEU, Sep 2023, Guangzhou Huangpu) sold to Goldenport for USD 35 mil inc TC, VV Value USD 37.2 mil.
 Sub Panamax Shirin M (2,546 TEU, Nov 2007, Jiangsu Yangzijiang) sold to Erasmus for USD 22.5 mil inc TC, VV Value USD 24.3 mil.
 Image reference: 2025-07-08_weekly-vessel-valuations-report-july-08-2025_img2.jpg
+
+## Linked asset: 2025-07-08_weekly-vessel-valuations-report-july-08-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-07-08_weekly-vessel-valuations-report-july-08-2025_img1.png
+
+Linked image asset: 2025-07-08_weekly-vessel-valuations-report-july-08-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-07-08_weekly-vessel-valuations-report-july-08-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-07-08_weekly-vessel-valuations-report-july-08-2025_img2.jpg
+
+Linked image asset: 2025-07-08_weekly-vessel-valuations-report-july-08-2025_img2.jpg
+
+Image metadata: JPEG 678x314 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+(Ds) VesselsValue --------- eon
+08 July 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra LRT MR Cape Pmax Supra Handy eed Pmax Handy Fmax
+° 70.1% 10.1% 03% 0.1% +e 71.0% +0.1% 0.0% 10.1% OB% 10.4% 0.0% +0.2%
+320k 160k nSk 75k 50k 180k 82k 62k 38k 7000 4250 1750 noo
+‘ 0.0% +01% 04% 40.1% 20.1% 104% 40.2% 0.0% +0.8% 05% 405% 02% +0.2%
+320k Ok Ok Tsk Sk 180k 82k 60k Bek 7000 4250 1780 neo
+% 0.0% +01 04% 40.1% 80.4% 06% 101% 0.0% +20% 03% 405% «03% = 10.2%
+520k Ok nok Tsk SOk 180k 80k 60k Sk 7000 4250 780 noo
+0.0% 40.1% 04% 40.1. UT% = =- 40.2% 40.2% = #8.0% 02% 104% 04% 402%
+id 310k 160k Nk 78k 50k 180k 80k 55k 30k 7000 4250 1780 noo
+35 40.0% = 0.15 03% HOM «= #2 21% = 0.1% 103% HHH 02% 10.1% KKH 10.2%
+310k 160k NOk 70k 45k 180k 75k SSk 30k 7000 4250 1780 noo
+0.1% 0.1% 0.1% 70.1% +1S% "Ls Ls 204% 45.0% 03% -O5S% 0.45 0.1%
+te 300k 155k 105k 70k 45k 17k 78k 48k 30k 6500 4000 1750 noo

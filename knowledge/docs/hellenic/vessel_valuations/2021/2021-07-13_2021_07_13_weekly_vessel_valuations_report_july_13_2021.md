@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2021/2021-07-13_weekly-vessel-valuations-report-july-13-2021.html
@@ -92,3 +92,39 @@ Handy Bulker Dry Beam Neo (38,200 DWT, Dec 2019, Shin Kochi) sold to Nova Marine
 Container: Container values have firmed.
 No sales have been reported.
 Image reference: 2021-07-13_weekly-vessel-valuations-report-july-13-2021_img2.jpg
+
+## Linked asset: 2021-07-13_weekly-vessel-valuations-report-july-13-2021_img1.png
+Source asset: reports/hellenic/vessel_valuations/2021/2021-07-13_weekly-vessel-valuations-report-july-13-2021_img1.png
+
+Linked image asset: 2021-07-13_weekly-vessel-valuations-report-july-13-2021_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-07-13_weekly-vessel-valuations-report-july-13-2021_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2021/2021-07-13_weekly-vessel-valuations-report-july-13-2021_img2.jpg
+
+Linked image asset: 2021-07-13_weekly-vessel-valuations-report-july-13-2021_img2.jpg
+
+Image metadata: JPEG 678x309 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+13 July 2021 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra' =-sLR1 MR Cape Pmax Supra Handy bibl Pmax Handy Fmax
+0 0.0% -0.1% 0.6% +0.4% 0.0% +0.5% +1.0% +2.2% +0.6% +2.3% +2.5% +2.5% +2.4%
+320K___160K__110K 75K 50K 180K 82K 60K 37K 7000 __ 4250 __1750__1100
+5 0.0% -0.1% 0.5% +0.3% 0.0% +0.8% +1.6% +2.2% +0.6% +3.5% +2.8% +1.6% +0.9%
+320K___160K__110K 75K 50K 180K 80K 60K 30K 7000 __ 4250 __‘1750__1100
+40 0.0% 40.1% 0.6% -0.2% 0.0% +1.0% +1.9% +2.2% +1.4% +4.0% +3.1% +2.7% +1.0%
+310K _160K__110K 75K 50K 180K 80K 60K 30K 7000 4250 ~_(‘1750__1100
+16 0.0% 40.2% 0.9% 0.8% 0.0% +1.0% +1.8% +2.2% +2.5% +3.9% +3.4% +6.2% +2.7%
+310K __ 160K __110K 70K 45K 180K 75K 55K 30K 7000 4250 (‘1750 ~_‘1100
+20 0.0% 40.4% 0.0% 0.0% 0.0% 0.0% +1.6% +2.2% +3.8% +3.5% +3.8% +12.0% +5.3%
+300K 155K __ 105K 70K 45K 175K 75K 50K 30K 6500 4000 ~-_-*'1750___-*1100
+25 0.0% NIA 0.0% 0.0% 0.0% 0.0% 0.0% +2.3% +5.3% +2.8% +4.1% +20.5% +8.2%
+295K N/A 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 1100

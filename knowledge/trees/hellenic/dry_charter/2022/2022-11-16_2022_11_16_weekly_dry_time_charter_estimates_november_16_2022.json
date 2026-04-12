@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Dry Time Charter Estimates, November 16 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2022-11-16_weekly-dry-time-charter-estimates-november-16-2022_img2.jpg\n\nLinked asset: 2022-11-16_weekly-dry-time-charter-estimates-november-16-2022_img2.jpg\nSource asset: reports/hellenic/dry_charter/2022/2022-11-16_weekly-dry-time-charter-estimates-november-16-2022_img2.jpg\n\nLinked image asset: 2022-11-16_weekly-dry-time-charter-estimates-november-16-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA [| RB R A Updated Weds 16 Nov 2022\nStipping Limited\nORY TIME CHARTER ESTIMATES (Sipdpr)\nPERIOD 416 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\n| HANDY (28 cut) | 18,500 | ¥ 12,250 17,500 |¥ 13,000 | 14850 |¥ 12,500\nSMAXIULTRA 19,500 13,500 18,000 |¥ 11,750 14,500 13,000\n| PANAJKMAX | 19,750 14,500 15,000 14,150 | 13,000 12,500\nCAPESIZE 14,000 14,000 14,650 14,650 16,000 16,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 33,
+  "token_count": 357,
   "source_path": "reports/hellenic/dry_charter/2022/2022-11-16_weekly-dry-time-charter-estimates-november-16-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-november-16-2022",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 31,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2022-11-16_2022_11_16_weekly_dry_time_charter_estimates_november_16_2022__s02_linked_asset_2022_11_16_weekly_dry_time_charter_estimates_november_16_2022_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2022-11-16_2022_11_16_weekly_dry_time_charter_estimates_november_16_2022",
+      "parent_id": "hellenic_dry_charter_2022-11-16_2022_11_16_weekly_dry_time_charter_estimates_november_16_2022__root",
+      "title": "Linked asset: 2022-11-16_weekly-dry-time-charter-estimates-november-16-2022_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-11-16_weekly-dry-time-charter-estimates-november-16-2022_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-11-16_weekly-dry-time-charter-estimates-november-16-2022_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2022/2022-11-16_weekly-dry-time-charter-estimates-november-16-2022_img2.jpg\n\nLinked image asset: 2022-11-16_weekly-dry-time-charter-estimates-november-16-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA [| RB R A Updated Weds 16 Nov 2022\nStipping Limited\nORY TIME CHARTER ESTIMATES (Sipdpr)\nPERIOD 416 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\n| HANDY (28 cut) | 18,500 | ¥ 12,250 17,500 |¥ 13,000 | 14850 |¥ 12,500\nSMAXIULTRA 19,500 13,500 18,000 |¥ 11,750 14,500 13,000\n| PANAJKMAX | 19,750 14,500 15,000 14,150 | 13,000 12,500\nCAPESIZE 14,000 14,000 14,650 14,650 16,000 16,000",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "charter",
+        "cut"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 291,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

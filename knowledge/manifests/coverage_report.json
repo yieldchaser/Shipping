@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-12T06:55:42Z",
+  "generated_at": "2026-04-12T13:43:37Z",
   "current_date": "2026-04-12",
   "corpus": {
     "document_count": 7535,
-    "chunk_count": 68116,
-    "section_count": 17630,
+    "chunk_count": 73085,
+    "section_count": 20377,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -217,22 +217,22 @@
       "relevant_corpus_latest_date": "2026-04-10",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 150,
+      "document_count": 126,
       "source_counts": {
-        "baltic": 16,
-        "breakwave": 6,
-        "breakwave_insights": 111,
-        "hellenic": 117
+        "baltic": 12,
+        "breakwave": 4,
+        "breakwave_insights": 82,
+        "hellenic": 152
       },
       "category_counts": {
-        "demolition": 36,
-        "dry": 16,
-        "dry_charter": 6,
-        "drybulk": 6,
-        "insights": 111,
-        "iron_ore": 54,
-        "shipbuilding": 17,
-        "vessel_valuations": 4
+        "demolition": 48,
+        "dry": 12,
+        "dry_charter": 10,
+        "drybulk": 4,
+        "insights": 82,
+        "iron_ore": 69,
+        "shipbuilding": 16,
+        "vessel_valuations": 9
       },
       "recent_sources_present": [
         "baltic",
@@ -242,9 +242,9 @@
       ],
       "missing_recent_sources": [],
       "tone_distribution": {
-        "cautiously_bearish": 25,
-        "constructive": 80,
-        "neutral": 45
+        "cautiously_bearish": 22,
+        "constructive": 64,
+        "neutral": 40
       }
     },
     {
@@ -257,21 +257,21 @@
       "relevant_corpus_latest_date": "2026-04-10",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 142,
+      "document_count": 129,
       "source_counts": {
         "baltic": 20,
-        "breakwave": 8,
-        "breakwave_insights": 152,
-        "hellenic": 70
+        "breakwave": 6,
+        "breakwave_insights": 124,
+        "hellenic": 100
       },
       "category_counts": {
-        "demolition": 40,
-        "insights": 152,
-        "shipbuilding": 19,
+        "demolition": 58,
+        "insights": 124,
+        "shipbuilding": 18,
         "tanker": 20,
-        "tanker_charter": 7,
-        "tankers": 8,
-        "vessel_valuations": 4
+        "tanker_charter": 12,
+        "tankers": 6,
+        "vessel_valuations": 12
       },
       "recent_sources_present": [
         "baltic",
@@ -281,9 +281,9 @@
       ],
       "missing_recent_sources": [],
       "tone_distribution": {
-        "cautiously_bearish": 19,
-        "constructive": 70,
-        "neutral": 53
+        "cautiously_bearish": 18,
+        "constructive": 65,
+        "neutral": 46
       }
     },
     {
@@ -296,19 +296,20 @@
       "relevant_corpus_latest_date": "2026-04-10",
       "lag_days": 1,
       "evidence_count": 250,
-      "document_count": 168,
+      "document_count": 138,
       "source_counts": {
-        "baltic": 15,
-        "breakwave": 12,
-        "breakwave_insights": 87,
-        "hellenic": 136
+        "baltic": 11,
+        "breakwave": 10,
+        "breakwave_insights": 68,
+        "hellenic": 161
       },
       "category_counts": {
-        "dry": 15,
-        "drybulk": 12,
-        "insights": 87,
-        "iron_ore": 126,
-        "vessel_valuations": 10
+        "dry": 11,
+        "dry_charter": 10,
+        "drybulk": 10,
+        "insights": 68,
+        "iron_ore": 137,
+        "vessel_valuations": 14
       },
       "recent_sources_present": [
         "baltic",
@@ -318,9 +319,9 @@
       ],
       "missing_recent_sources": [],
       "tone_distribution": {
-        "cautiously_bearish": 33,
-        "constructive": 99,
-        "neutral": 36
+        "cautiously_bearish": 27,
+        "constructive": 73,
+        "neutral": 38
       }
     },
     {
@@ -333,18 +334,19 @@
       "relevant_corpus_latest_date": "2026-04-10",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 183,
+      "document_count": 178,
       "source_counts": {
-        "baltic": 66,
-        "breakwave": 11,
-        "breakwave_insights": 152,
-        "hellenic": 21
+        "baltic": 54,
+        "breakwave": 10,
+        "breakwave_insights": 132,
+        "hellenic": 54
       },
       "category_counts": {
-        "dry": 66,
-        "drybulk": 11,
-        "insights": 152,
-        "vessel_valuations": 21
+        "dry": 54,
+        "dry_charter": 19,
+        "drybulk": 10,
+        "insights": 132,
+        "vessel_valuations": 35
       },
       "recent_sources_present": [
         "baltic",
@@ -356,7 +358,7 @@
       "tone_distribution": {
         "cautiously_bearish": 27,
         "constructive": 69,
-        "neutral": 31
+        "neutral": 45
       }
     },
     {
@@ -405,18 +407,19 @@
       "relevant_corpus_latest_date": "2026-04-10",
       "lag_days": 1,
       "evidence_count": 250,
-      "document_count": 157,
+      "document_count": 137,
       "source_counts": {
-        "baltic": 20,
+        "baltic": 14,
         "breakwave": 8,
-        "breakwave_insights": 134,
-        "hellenic": 88
+        "breakwave_insights": 114,
+        "hellenic": 114
       },
       "category_counts": {
-        "dry": 20,
+        "dry": 14,
+        "dry_charter": 8,
         "drybulk": 8,
-        "insights": 134,
-        "iron_ore": 88
+        "insights": 114,
+        "iron_ore": 106
       },
       "recent_sources_present": [
         "baltic",
@@ -426,9 +429,9 @@
       ],
       "missing_recent_sources": [],
       "tone_distribution": {
-        "cautiously_bearish": 30,
-        "constructive": 94,
-        "neutral": 33
+        "cautiously_bearish": 25,
+        "constructive": 78,
+        "neutral": 34
       }
     },
     {
@@ -441,29 +444,30 @@
       "relevant_corpus_latest_date": "2026-04-10",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 169,
+      "document_count": 173,
       "source_counts": {
-        "baltic": 60,
-        "breakwave": 11,
-        "breakwave_insights": 179
+        "baltic": 56,
+        "breakwave": 9,
+        "breakwave_insights": 170,
+        "hellenic": 15
       },
       "category_counts": {
-        "dry": 60,
-        "drybulk": 11,
-        "insights": 179
+        "dry": 56,
+        "dry_charter": 15,
+        "drybulk": 9,
+        "insights": 170
       },
       "recent_sources_present": [
         "baltic",
         "breakwave",
-        "breakwave_insights"
-      ],
-      "missing_recent_sources": [
+        "breakwave_insights",
         "hellenic"
       ],
+      "missing_recent_sources": [],
       "tone_distribution": {
         "cautiously_bearish": 28,
         "constructive": 95,
-        "neutral": 31
+        "neutral": 45
       }
     },
     {
@@ -542,16 +546,16 @@
       "relevant_corpus_latest_date": "2026-04-07",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 218,
+      "document_count": 179,
       "source_counts": {
-        "baltic": 107,
-        "hellenic": 143
+        "baltic": 92,
+        "hellenic": 158
       },
       "category_counts": {
         "container": 38,
-        "ningbo": 69,
-        "shipbuilding": 82,
-        "vessel_valuations": 61
+        "ningbo": 54,
+        "shipbuilding": 65,
+        "vessel_valuations": 93
       },
       "recent_sources_present": [
         "baltic",
@@ -567,6 +571,43 @@
   ],
   "divergences": [
     {
+      "topic_id": "dry_bulk_market",
+      "title": "Dry Bulk Market",
+      "severity": "watch",
+      "score_diff": 0.95,
+      "source_scores": [
+        {
+          "source": "baltic",
+          "avg_tone_score": -0.33,
+          "dominant_tone": "cautiously_bearish",
+          "doc_count": 3,
+          "latest_date": "2026-03-27"
+        },
+        {
+          "source": "hellenic",
+          "avg_tone_score": 0.08,
+          "dominant_tone": "cautiously_bearish",
+          "doc_count": 6,
+          "latest_date": "2026-04-09"
+        },
+        {
+          "source": "breakwave",
+          "avg_tone_score": 0.12,
+          "dominant_tone": "cautiously_bearish",
+          "doc_count": 2,
+          "latest_date": "2026-03-31"
+        },
+        {
+          "source": "breakwave_insights",
+          "avg_tone_score": 0.62,
+          "dominant_tone": "constructive",
+          "doc_count": 6,
+          "latest_date": "2026-04-10"
+        }
+      ],
+      "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while baltic reads cautiously_bearish."
+    },
+    {
       "topic_id": "capesize",
       "title": "Capesize",
       "severity": "watch",
@@ -580,18 +621,18 @@
           "latest_date": "2026-03-27"
         },
         {
-          "source": "breakwave",
-          "avg_tone_score": 0.17,
-          "dominant_tone": "neutral",
-          "doc_count": 6,
-          "latest_date": "2026-03-31"
-        },
-        {
           "source": "hellenic",
-          "avg_tone_score": 0.21,
-          "dominant_tone": "constructive",
+          "avg_tone_score": 0.08,
+          "dominant_tone": "cautiously_bearish",
           "doc_count": 6,
           "latest_date": "2026-04-09"
+        },
+        {
+          "source": "breakwave",
+          "avg_tone_score": 0.2,
+          "dominant_tone": "constructive",
+          "doc_count": 5,
+          "latest_date": "2026-03-31"
         },
         {
           "source": "breakwave_insights",
@@ -617,18 +658,18 @@
           "latest_date": "2026-03-27"
         },
         {
+          "source": "hellenic",
+          "avg_tone_score": 0.21,
+          "dominant_tone": "constructive",
+          "doc_count": 6,
+          "latest_date": "2026-04-09"
+        },
+        {
           "source": "breakwave",
           "avg_tone_score": 0.25,
           "dominant_tone": "constructive",
           "doc_count": 4,
           "latest_date": "2026-03-31"
-        },
-        {
-          "source": "hellenic",
-          "avg_tone_score": 0.33,
-          "dominant_tone": "constructive",
-          "doc_count": 6,
-          "latest_date": "2026-04-09"
         },
         {
           "source": "breakwave_insights",

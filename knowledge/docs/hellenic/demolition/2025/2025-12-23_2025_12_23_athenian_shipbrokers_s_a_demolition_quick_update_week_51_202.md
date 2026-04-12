@@ -24,7 +24,7 @@ regions:
 - india
 - china
 - europe
-section_count: 2
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-12-23_athenian-shipbrokers-s-a-demolition-quick-update-week-51-202.html
@@ -203,3 +203,15 @@ CLASS CASH BUYERS/SHIP RECYCLERS FOR DELY TURKEY / INDIA / BANGLADESH / PAKISTAN
 www.atheniansa.gr
 Disclaimer: Information and data that appear in this report have been obtained from various sources which are believed to be correct and reliable. However, Athenian Shipbrokers S.A. does not guarantee their accuracy or completeness and therefore cannot be held liable for any loss incurred as a result of reliance in any way whatsoever on the information contained herein
 Infographic Copyrights(c)2021 All Rights Reserverd Athenian Shipbrokers S.A.
+
+## Linked asset: 2025-12-23_athenian-shipbrokers-s-a-demolition-quick-update-week-51-202_img1.jpg
+Source asset: reports/hellenic/demolition/2025/2025-12-23_athenian-shipbrokers-s-a-demolition-quick-update-week-51-202_img1.jpg
+
+Linked image asset: 2025-12-23_athenian-shipbrokers-s-a-demolition-quick-update-week-51-202_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (72, 72)
+
+[OCR skipped for small image (< 150000 pixels).]

@@ -21,7 +21,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 47,
+  "token_count": 370,
   "source_path": "reports/hellenic/dry_charter/2023/2023-10-25_weekly-dry-time-charter-estimates-october-25-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-october-25-2023",
   "children": [
@@ -49,6 +49,34 @@
       "page_end": null,
       "token_count": 45,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2023-10-25_2023_10_25_weekly_dry_time_charter_estimates_october_25_2023__s02_linked_asset_2023_10_25_weekly_dry_time_charter_estimates_october_25_2023_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2023-10-25_2023_10_25_weekly_dry_time_charter_estimates_october_25_2023",
+      "parent_id": "hellenic_dry_charter_2023-10-25_2023_10_25_weekly_dry_time_charter_estimates_october_25_2023__root",
+      "title": "Linked asset: 2023-10-25_weekly-dry-time-charter-estimates-october-25-2023_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-10-25_weekly-dry-time-charter-estimates-october-25-2023_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-10-25_weekly-dry-time-charter-estimates-october-25-2023_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2023/2023-10-25_weekly-dry-time-charter-estimates-october-25-2023_img2.jpg\n\nLinked image asset: 2023-10-25_weekly-dry-time-charter-estimates-october-25-2023_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nALIBRA Updated Weds 25 Oct 2023\nShipping Limited\nORY TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (28k cot) 12,000 |¥ 12,000 12,500 12,000 11,500 11,500\nSMAX/ULTRA 16,000 13,500 | 4 16000 |¥ 13,500 14,000 |¥ 13,500\nPANAKMAX | ¥ 13,850 | ¥ 14,000 13,000 13,000 | ¥ 13,250 |¥ 13,250\nCAPESIZE 15,500 15,500 16,500 16,500 17,000 17,000",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "alibra",
+        "charter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 290,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

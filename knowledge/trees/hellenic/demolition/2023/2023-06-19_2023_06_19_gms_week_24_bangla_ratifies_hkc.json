@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4952,
+  "token_count": 5256,
   "source_path": "reports/hellenic/demolition/2023/2023-06-19_gms-week-24-bangla-ratifies-hkc.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-24-bangla-ratifies-hkc",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4391,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-06-19_2023_06_19_gms_week_24_bangla_ratifies_hkc__s03_linked_asset_2023_06_19_gms_week_24_bangla_ratifies_hkc_img1_jpg",
+      "doc_id": "hellenic_demolition_2023-06-19_2023_06_19_gms_week_24_bangla_ratifies_hkc",
+      "parent_id": "hellenic_demolition_2023-06-19_2023_06_19_gms_week_24_bangla_ratifies_hkc__root",
+      "title": "Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img1.jpg",
+      "section_path": [
+        "Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-06-19_gms-week-24-bangla-ratifies-hkc_img1.jpg\n\nLinked image asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-24-bangla-ratifies-hkc_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-06-19_2023_06_19_gms_week_24_bangla_ratifies_hkc__s04_linked_asset_2023_06_19_gms_week_24_bangla_ratifies_hkc_img2_jpg",
+      "doc_id": "hellenic_demolition_2023-06-19_2023_06_19_gms_week_24_bangla_ratifies_hkc",
+      "parent_id": "hellenic_demolition_2023-06-19_2023_06_19_gms_week_24_bangla_ratifies_hkc__root",
+      "title": "Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-06-19_gms-week-24-bangla-ratifies-hkc_img2.jpg\n\nLinked image asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img2.jpg\n\nImage metadata: JPEG 688x240 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nRank Location Sentiment Dy Belk nai anaes\nUSD/LDT USD/LDT USD / LDT\n| 4 [turkey | Steady | 320/ubT | 330/~pr | s40/LDT_|\n*Subject L/C approval",
+      "keywords": [
+        "asset",
+        "image",
+        "usd/ldt",
+        "anaes",
+        "approval",
+        "belk",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

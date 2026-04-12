@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 678,
+  "token_count": 1404,
   "source_path": "reports/hellenic/vessel_valuations/2026/2026-04-01_weekly-vessel-valuations-report-march-31-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-march-31-2026",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 676,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-03-31_2026_04_01_weekly_vessel_valuations_report_march_31_2026__s02_linked_asset_2026_04_01_weekly_vessel_valuations_report_march_31_2026_img1_png",
+      "doc_id": "hellenic_vessel_valuations_2026-03-31_2026_04_01_weekly_vessel_valuations_report_march_31_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-03-31_2026_04_01_weekly_vessel_valuations_report_march_31_2026__root",
+      "title": "Linked asset: 2026-04-01_weekly-vessel-valuations-report-march-31-2026_img1.png",
+      "section_path": [
+        "Linked asset: 2026-04-01_weekly-vessel-valuations-report-march-31-2026_img1.png"
+      ],
+      "section_path_text": "Linked asset: 2026-04-01_weekly-vessel-valuations-report-march-31-2026_img1.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/2026-04-01_weekly-vessel-valuations-report-march-31-2026_img1.png\n\nLinked image asset: 2026-04-01_weekly-vessel-valuations-report-march-31-2026_img1.png\n\nImage metadata: PNG 150x150 mode=RGB\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr",
+        "pixels",
+        "png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-03-31_2026_04_01_weekly_vessel_valuations_report_march_31_2026__s03_linked_asset_2026_04_01_weekly_vessel_valuations_report_march_31_2026_img2_jpeg",
+      "doc_id": "hellenic_vessel_valuations_2026-03-31_2026_04_01_weekly_vessel_valuations_report_march_31_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-03-31_2026_04_01_weekly_vessel_valuations_report_march_31_2026__root",
+      "title": "Linked asset: 2026-04-01_weekly-vessel-valuations-report-march-31-2026_img2.jpeg",
+      "section_path": [
+        "Linked asset: 2026-04-01_weekly-vessel-valuations-report-march-31-2026_img2.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2026-04-01_weekly-vessel-valuations-report-march-31-2026_img2.jpeg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/2026-04-01_weekly-vessel-valuations-report-march-31-2026_img2.jpeg\n\nLinked image asset: 2026-04-01_weekly-vessel-valuations-report-march-31-2026_img2.jpeg\n\nImage metadata: JPEG 600x278 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) Vessels Vale) pa\n31 March 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra mi MR Cape Pmax ‘Supra Handy poe Prax Handy Fmax\nAe +2 7 10.6% 12% 0.6% 06% ass 104% +O. 10.1% 10.8% 102%\n© 320k 160k Sk Sk SOK 180k 8% 62k 38% 7000 4250 80 noo\ns 14% #23 HLH 60S LDH 06% 09% HOA 00% = 0.0% 0.6K 03%\n520k 160k nNOk 78k SOK 180K oak 60k 3a 7000 4250 780 noo\n= Seo) lt eS) sd 06% 401% 125% 10.5% 0% 10.2% 10.7% 0.8%\n320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo\n* Src rt et Ys 00% 10.7% 129% 10.4% 0% 10.3% LHL\n30k = 160k NOk 78k Sk 180k 80k 60k 3k 7000 «4250-80-00\n5 4% 474 OTH NH 06% 102% 129% 10.41 102% «403% SH\nSk 160k NOk 70K 45k 180k 75k SSK 30k 7000 4250-8000.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "brazil",
+        "nok",
+        "noo",
+        "sok"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 576,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

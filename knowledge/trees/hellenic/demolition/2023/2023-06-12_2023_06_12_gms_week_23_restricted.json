@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4966,
+  "token_count": 5232,
   "source_path": "reports/hellenic/demolition/2023/2023-06-12_gms-week-23-restricted.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-23-restricted",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4417,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-06-12_2023_06_12_gms_week_23_restricted__s03_linked_asset_2023_06_12_gms_week_23_restricted_img1_jpg",
+      "doc_id": "hellenic_demolition_2023-06-12_2023_06_12_gms_week_23_restricted",
+      "parent_id": "hellenic_demolition_2023-06-12_2023_06_12_gms_week_23_restricted__root",
+      "title": "Linked asset: 2023-06-12_gms-week-23-restricted_img1.jpg",
+      "section_path": [
+        "Linked asset: 2023-06-12_gms-week-23-restricted_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-06-12_gms-week-23-restricted_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-06-12_gms-week-23-restricted_img1.jpg\n\nLinked image asset: 2023-06-12_gms-week-23-restricted_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-23-restricted_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-06-12_2023_06_12_gms_week_23_restricted__s04_linked_asset_2023_06_12_gms_week_23_restricted_img2_jpg",
+      "doc_id": "hellenic_demolition_2023-06-12_2023_06_12_gms_week_23_restricted",
+      "parent_id": "hellenic_demolition_2023-06-12_2023_06_12_gms_week_23_restricted__root",
+      "title": "Linked asset: 2023-06-12_gms-week-23-restricted_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-06-12_gms-week-23-restricted_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-06-12_gms-week-23-restricted_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-06-12_gms-week-23-restricted_img2.jpg\n\nLinked image asset: 2023-06-12_gms-week-23-restricted_img2.jpg\n\nImage metadata: JPEG 682x237 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nRank Location Sentiment Doves mnie ee\nUSD / LDT USD / LDT USD / LDT\n[4 [Ttkey [Steady | 320 /tpT_[330/tT | 30/toT_\n*Subject L/C approval",
+      "keywords": [
+        "ldt",
+        "usd",
+        "asset",
+        "image",
+        "approval",
+        "doves",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

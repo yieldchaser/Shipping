@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 626,
+  "token_count": 1459,
   "source_path": "reports/hellenic/vessel_valuations/2025/2025-07-16_weekly-vessel-valuations-report-july-15-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-15-2025",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 624,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2025-07-15_2025_07_16_weekly_vessel_valuations_report_july_15_2025__s02_linked_asset_2025_07_16_weekly_vessel_valuations_report_july_15_2025_img1_png",
+      "doc_id": "hellenic_vessel_valuations_2025-07-15_2025_07_16_weekly_vessel_valuations_report_july_15_2025",
+      "parent_id": "hellenic_vessel_valuations_2025-07-15_2025_07_16_weekly_vessel_valuations_report_july_15_2025__root",
+      "title": "Linked asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img1.png",
+      "section_path": [
+        "Linked asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img1.png"
+      ],
+      "section_path_text": "Linked asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img1.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/2025-07-16_weekly-vessel-valuations-report-july-15-2025_img1.png\n\nLinked image asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img1.png\n\nImage metadata: PNG 150x150 mode=RGB\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr",
+        "pixels",
+        "png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2025-07-15_2025_07_16_weekly_vessel_valuations_report_july_15_2025__s03_linked_asset_2025_07_16_weekly_vessel_valuations_report_july_15_2025_img2_jpg",
+      "doc_id": "hellenic_vessel_valuations_2025-07-15_2025_07_16_weekly_vessel_valuations_report_july_15_2025",
+      "parent_id": "hellenic_vessel_valuations_2025-07-15_2025_07_16_weekly_vessel_valuations_report_july_15_2025__root",
+      "title": "Linked asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img2.jpg",
+      "section_path": [
+        "Linked asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/2025-07-16_weekly-vessel-valuations-report-july-15-2025_img2.jpg\n\nLinked image asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img2.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) VesselsValue 2 -~-SS\n15 July 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra La MR Cape Pmax Supra Handy ees. Pmax Handy = Fmax\n-O.% 00% O36 70.1% 00% 10.7% +13% 03% +02% \"1.0% +03% +0.9% 40.3%\n‘4 320k 160k nSk 75k SOk 180k 82k 62k 38k 7000 4250 1750 noo\ns 0.6 0.8% 03% 0.8% 0.0% 203% 70.5% 02% 202% 13% *0.3% +20% *0.3%\n320k 160k nok 75k SOk 180k 82k 60k 38k 7000 4250 780 noo\nio 0.0% 1.0% 03% 1.8% 0.0% 04% 10.4% +0.2% 10.7% 19% +0.3% *33% 10.2%\n320k 160k N0k 78k SOk 180k 80k 60k 3S 7000 4250 1780 noo\ns 0.0% 05% 03% 2.6% 0.0% Ws 70.5% 1.0% 14% 16% +0.3% 14% 20.2%\n310k 160k NOk 78k SOk 180k 80k SSK 30k 7000 4250 1780 noo\n6 0.1% +05% 03% SAS 0.0% \"2m 13% +2.% +2.0% 0.8% +0.2% +*58% +0.1%\n3IOk 160k NOk 70k 45k 180k 78k SSk 30k 7000 4250 1780 noo\n0.0% +1.0% O26 \"3.8% 00% As \"10% +3.3% +246 20.5% 20.1% +686 0.1%\na 300k 155k 105k 70k 45k 17Sk 75k 48k 30k 6500 4000 175",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "noo",
+        "sok",
+        "nok",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 683,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

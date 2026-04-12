@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-07-16_weekly-vessel-valuations-report-july-15-2025.html
@@ -114,3 +114,40 @@ Containers: Post panamax midage values down following a recent sale, and handy c
 Post Panamax Hakata Seoul (8,540 TEU, Aug 2010, Mitsubishi HI) sold to MSC for USD 75 mil, VV Value USD 77.6 mil
 Handy Container A Obelix (1,702 TEU, Sep 2008, Wadan Yards MTW) sold to Heidmar for USD 25.25 mil inc TC, VV Value USD 16 mil.
 Image reference: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img2.jpg
+
+## Linked asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-07-16_weekly-vessel-valuations-report-july-15-2025_img1.png
+
+Linked image asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-07-16_weekly-vessel-valuations-report-july-15-2025_img2.jpg
+
+Linked image asset: 2025-07-16_weekly-vessel-valuations-report-july-15-2025_img2.jpg
+
+Image metadata: JPEG 678x314 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+Ds) VesselsValue 2 -~-SS
+15 July 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra La MR Cape Pmax Supra Handy ees. Pmax Handy = Fmax
+-O.% 00% O36 70.1% 00% 10.7% +13% 03% +02% "1.0% +03% +0.9% 40.3%
+‘4 320k 160k nSk 75k SOk 180k 82k 62k 38k 7000 4250 1750 noo
+s 0.6 0.8% 03% 0.8% 0.0% 203% 70.5% 02% 202% 13% *0.3% +20% *0.3%
+320k 160k nok 75k SOk 180k 82k 60k 38k 7000 4250 780 noo
+io 0.0% 1.0% 03% 1.8% 0.0% 04% 10.4% +0.2% 10.7% 19% +0.3% *33% 10.2%
+320k 160k N0k 78k SOk 180k 80k 60k 3S 7000 4250 1780 noo
+s 0.0% 05% 03% 2.6% 0.0% Ws 70.5% 1.0% 14% 16% +0.3% 14% 20.2%
+310k 160k NOk 78k SOk 180k 80k SSK 30k 7000 4250 1780 noo
+6 0.1% +05% 03% SAS 0.0% "2m 13% +2.% +2.0% 0.8% +0.2% +*58% +0.1%
+3IOk 160k NOk 70k 45k 180k 78k SSk 30k 7000 4250 1780 noo
+0.0% +1.0% O26 "3.8% 00% As "10% +3.3% +246 20.5% 20.1% +686 0.1%
+a 300k 155k 105k 70k 45k 17Sk 75k 48k 30k 6500 4000 1750 N00

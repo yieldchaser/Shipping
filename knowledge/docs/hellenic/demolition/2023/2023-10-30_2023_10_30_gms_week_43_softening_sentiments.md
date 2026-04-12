@@ -27,7 +27,7 @@ regions:
 - europe
 - singapore
 - japan
-section_count: 2
+section_count: 4
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-10-30_gms-week-43-softening-sentiments.html
@@ -685,3 +685,31 @@ P R IC E S U S D
 E L
 / T
 Steel Plate Prices Page 8 of 8
+
+## Linked asset: 2023-10-30_gms-week-43-softening-sentiments_img1.jpg
+Source asset: reports/hellenic/demolition/2023/2023-10-30_gms-week-43-softening-sentiments_img1.jpg
+
+Linked image asset: 2023-10-30_gms-week-43-softening-sentiments_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-10-30_gms-week-43-softening-sentiments_img2.jpg
+Source asset: reports/hellenic/demolition/2023/2023-10-30_gms-week-43-softening-sentiments_img2.jpg
+
+Linked image asset: 2023-10-30_gms-week-43-softening-sentiments_img2.jpg
+
+Image metadata: JPEG 1014x242 mode=RGB
+
+Embedded info:
+dpi: (144, 144)
+
+OCR text:
+, , Dry Bulk Tankers Containers
+Rank Location Sentiment
+USD /LDT USD / LDT USD /LDT
+Bangladesh* 505/LDT | 525/LDT | 545/LDT

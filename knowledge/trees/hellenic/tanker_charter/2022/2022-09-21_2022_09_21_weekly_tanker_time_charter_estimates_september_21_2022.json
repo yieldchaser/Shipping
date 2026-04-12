@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Tanker Time Charter Estimates, September 21 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022_img2.jpg\n\nLinked asset: 2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022_img2.jpg\nSource asset: reports/hellenic/tanker_charter/2022/2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022_img2.jpg\n\nLinked image asset: 2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nBAALIBRA Updated Weds 21 Sep 2022\nDisping tniied\nWET TIME CHARTER ESTIMATE (S/pdpr)\nsve 1 YEAR 2 YEAR 3 YEAR\" 5 YEAR'\nHANDY 21,000 17,500 19,000 18,000\nMR IMO3 a 28,500 2 23,500 24,000 22.500\niR1 \"4 33,500 a 27,500 Ps 26,000 a 26,000\nLR2 a 40,000 36,500 33,500 32.500\nAPRA (10 aeq | 32,500 35,000 31,000 30,000\nSUEZ A 35,000 A 29,000 a 35,000 33,500\nvicc A 40.000 28.000 40.000 40.000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 33,
+  "token_count": 375,
   "source_path": "reports/hellenic/tanker_charter/2022/2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-september-21-2022",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 31,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2022-09-21_2022_09_21_weekly_tanker_time_charter_estimates_september_21_2022__s02_linked_asset_2022_09_21_weekly_tanker_time_charter_estimates_september_21_2022_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2022-09-21_2022_09_21_weekly_tanker_time_charter_estimates_september_21_2022",
+      "parent_id": "hellenic_tanker_charter_2022-09-21_2022_09_21_weekly_tanker_time_charter_estimates_september_21_2022__root",
+      "title": "Linked asset: 2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2022/2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022_img2.jpg\n\nLinked image asset: 2022-09-21_weekly-tanker-time-charter-estimates-september-21-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nBAALIBRA Updated Weds 21 Sep 2022\nDisping tniied\nWET TIME CHARTER ESTIMATE (S/pdpr)\nsve 1 YEAR 2 YEAR 3 YEAR\" 5 YEAR'\nHANDY 21,000 17,500 19,000 18,000\nMR IMO3 a 28,500 2 23,500 24,000 22.500\niR1 \"4 33,500 a 27,500 Ps 26,000 a 26,000\nLR2 a 40,000 36,500 33,500 32.500\nAPRA (10 aeq | 32,500 35,000 31,000 30,000\nSUEZ A 35,000 A 29,000 a 35,000 33,500\nvicc A 40.000 28.000 40.000 40.000",
+      "keywords": [
+        "handysize",
+        "year",
+        "asset",
+        "image",
+        "aeq",
+        "apra",
+        "baalibra",
+        "charter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 309,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Dry Time Charter Estimates, April 16 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2025-04-16_weekly-dry-time-charter-estimates-april-16-2025_img2.jpg\n\nLinked asset: 2025-04-16_weekly-dry-time-charter-estimates-april-16-2025_img2.jpg\nSource asset: reports/hellenic/dry_charter/2025/2025-04-16_weekly-dry-time-charter-estimates-april-16-2025_img2.jpg\n\nLinked image asset: 2025-04-16_weekly-dry-time-charter-estimates-april-16-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nALIBR A Updated Weds 16/04/2025\nShipping Umited\nORY BULK TIME CHARTER ESTIMATES ($/pdpr)\nSIZE ATL PAC ATL PAC ATL PAC\nwon | 13,000 13,000 | 42,500 12,500 | 42,000 42,000 |\nSMAXIULTRA 14,250 15,000 14,000 ‘4500 | 13,000 13,850\npa 14,000 |¥ 13,000 | 43,750 13,000 } 43,500 13500 |\nCAPESIZE 22,000 22,000 21,000 21,000 | 24,000 21,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 32,
+  "token_count": 326,
   "source_path": "reports/hellenic/dry_charter/2025/2025-04-16_weekly-dry-time-charter-estimates-april-16-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-april-16-2025",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 30,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2025-04-16_2025_04_16_weekly_dry_time_charter_estimates_april_16_2025__s02_linked_asset_2025_04_16_weekly_dry_time_charter_estimates_april_16_2025_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2025-04-16_2025_04_16_weekly_dry_time_charter_estimates_april_16_2025",
+      "parent_id": "hellenic_dry_charter_2025-04-16_2025_04_16_weekly_dry_time_charter_estimates_april_16_2025__root",
+      "title": "Linked asset: 2025-04-16_weekly-dry-time-charter-estimates-april-16-2025_img2.jpg",
+      "section_path": [
+        "Linked asset: 2025-04-16_weekly-dry-time-charter-estimates-april-16-2025_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-04-16_weekly-dry-time-charter-estimates-april-16-2025_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2025/2025-04-16_weekly-dry-time-charter-estimates-april-16-2025_img2.jpg\n\nLinked image asset: 2025-04-16_weekly-dry-time-charter-estimates-april-16-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nALIBR A Updated Weds 16/04/2025\nShipping Umited\nORY BULK TIME CHARTER ESTIMATES ($/pdpr)\nSIZE ATL PAC ATL PAC ATL PAC\nwon | 13,000 13,000 | 42,500 12,500 | 42,000 42,000 |\nSMAXIULTRA 14,250 15,000 14,000 ‘4500 | 13,000 13,850\npa 14,000 |¥ 13,000 | 43,750 13,000 } 43,500 13500 |\nCAPESIZE 22,000 22,000 21,000 21,000 | 24,000 21,000",
+      "keywords": [
+        "capesize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "alibr",
+        "charter",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

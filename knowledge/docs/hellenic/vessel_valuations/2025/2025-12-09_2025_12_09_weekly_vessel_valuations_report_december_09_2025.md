@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-12-09_weekly-vessel-valuations-report-december-09-2025.html
@@ -118,3 +118,40 @@ MR2 (Chemical/Product) UACC Manama (45,600 DWT, Sep 2010, SLS) sold by United Ov
 Containers: Minimal value movements this week with limited charter-free tonnage available
 Post Panamax Containers Cypress, Koi and Lotus A (8,586 TEU, 2010/11, Hyundai Samho HI) sold en bloc to Global Ship Lease for USD 90 mil Inc TC to CMA CGM, VV Value USD 231.5 mil
 Image reference: 2025-12-09_weekly-vessel-valuations-report-december-09-2025_img2.jpeg
+
+## Linked asset: 2025-12-09_weekly-vessel-valuations-report-december-09-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-12-09_weekly-vessel-valuations-report-december-09-2025_img1.png
+
+Linked image asset: 2025-12-09_weekly-vessel-valuations-report-december-09-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-12-09_weekly-vessel-valuations-report-december-09-2025_img2.jpeg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-12-09_weekly-vessel-valuations-report-december-09-2025_img2.jpeg
+
+Linked image asset: 2025-12-09_weekly-vessel-valuations-report-december-09-2025_img2.jpeg
+
+Image metadata: JPEG 600x278 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+© VessetsValre ADM
+09 December 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra mi MR Cape Pmax ‘Supra Handy poet Prax Handy Fmax
+105% 14% 0.6% 10.4% +02 102% 102% «10.1% 40.9% 0% OM OTK 02%
+© 320k 160k Sk Sk SOK 180k 8m 62k 38% 7000 4250 80 noo
+s 10.1% 10.1% 406% = 40.3% 40.3% + 103% OOK 40.7% OM 01 OH =--02K
+520k 160k nNOk Tsk SOx 180K ame 60k 38% 7000 4250 780 noo
+= *20% 908% 106% 103% 20.2% 17% 0.2% ON HK 0% =O OK OH
+320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo
+* 140% 104% 40.6% 40.5% +O. IH 02% OTH HRA 0% 01 16H OTK
+50k 160k NOk Sk SOk 180k 80k SSk 30k 7000 4250 1780 noo
+ss 139% = 09% 106% 10.7% 10.2% 14% 40.3% OOK #33 0% 02% 26% 02%
+Hk 160k NOK 70k 45k 190k 75k SSK 30k 7000 4250-8000.
+i 10.7% 00% = 40.8% 10.9% 10.5% 00% 10.2% 103% +36% 0% 03% 35% 03%
+300k = 1SSk 105k 70k 45k 175k 75k 48k 30k 6500 4000 TSO 1100

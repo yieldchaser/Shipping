@@ -18,13 +18,34 @@ regions:
 - west_africa
 - europe
 - china
-section_count: 1
+section_count: 2
 signals: {}
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2022/2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022.html
 source_stem: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022
 source_url: https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-september-14-2022
-summary: ''
+summary: 'Main
+
+  Image reference: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+
+
+  Linked asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+
+  Source asset: reports/hellenic/tanker_charter/2022/2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+
+
+  Linked image asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+
+
+  Image metadata: JPEG 442x309 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (120, 120)
+
+
+  [OCR skipped for small image (< 150000 pixels).]'
 themes:
 - image
 - main
@@ -37,5 +58,33 @@ vessel_classes:
 - aframax
 ---
 
+## Summary
+Main
+Image reference: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+
+Linked asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2022/2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+
+Linked image asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+
+Image metadata: JPEG 442x309 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]
+
 ## Main
 Image reference: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+
+## Linked asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2022/2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+
+Linked image asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg
+
+Image metadata: JPEG 442x309 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]

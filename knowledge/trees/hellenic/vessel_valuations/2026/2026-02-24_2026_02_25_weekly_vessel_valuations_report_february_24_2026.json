@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 483,
+  "token_count": 1340,
   "source_path": "reports/hellenic/vessel_valuations/2026/2026-02-25_weekly-vessel-valuations-report-february-24-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-february-24-2026",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 481,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-02-24_2026_02_25_weekly_vessel_valuations_report_february_24_2026__s02_linked_asset_2026_02_25_weekly_vessel_valuations_report_february_24_2026_img1_png",
+      "doc_id": "hellenic_vessel_valuations_2026-02-24_2026_02_25_weekly_vessel_valuations_report_february_24_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-02-24_2026_02_25_weekly_vessel_valuations_report_february_24_2026__root",
+      "title": "Linked asset: 2026-02-25_weekly-vessel-valuations-report-february-24-2026_img1.png",
+      "section_path": [
+        "Linked asset: 2026-02-25_weekly-vessel-valuations-report-february-24-2026_img1.png"
+      ],
+      "section_path_text": "Linked asset: 2026-02-25_weekly-vessel-valuations-report-february-24-2026_img1.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/2026-02-25_weekly-vessel-valuations-report-february-24-2026_img1.png\n\nLinked image asset: 2026-02-25_weekly-vessel-valuations-report-february-24-2026_img1.png\n\nImage metadata: PNG 150x150 mode=RGB\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr",
+        "pixels",
+        "png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-02-24_2026_02_25_weekly_vessel_valuations_report_february_24_2026__s03_linked_asset_2026_02_25_weekly_vessel_valuations_report_february_24_2026_img2_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-02-24_2026_02_25_weekly_vessel_valuations_report_february_24_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-02-24_2026_02_25_weekly_vessel_valuations_report_february_24_2026__root",
+      "title": "Linked asset: 2026-02-25_weekly-vessel-valuations-report-february-24-2026_img2.jpg",
+      "section_path": [
+        "Linked asset: 2026-02-25_weekly-vessel-valuations-report-february-24-2026_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-02-25_weekly-vessel-valuations-report-february-24-2026_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/2026-02-25_weekly-vessel-valuations-report-february-24-2026_img2.jpg\n\nLinked image asset: 2026-02-25_weekly-vessel-valuations-report-february-24-2026_img2.jpg\n\nImage metadata: JPEG 687x318 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nC VesselsValue = -- SS\n24 February 2026 VV Mini Matrix - Weekly Change\niate mL RAM\nfet AR OA OLRM = MRI FONT SSI BRE REN BSR SIM REM ARM\nnm 10.9% +15% 1s 11% 10.1% 114% 70.3% 0.0% 20.4% -0.1%6 0.1% 0.0% 10.2%\n320k 160k Sk 75k SOk 180k 82k 62k 38k 7000 4250 1750 noo\n5 40.9% +15% +0.8% +1.1% 0.4% +15% 40.7% 204% +0.5% 0.1% ON 0.0% +0.1%\n320k 160k 0k 75k SOk 180k 82k 60k 38k 7000 4250 1750 noo\n+0.9% +136 14% +11% +1 +168 40.7% 40.5% +0.1% -O.%6 0.1% 0.0% 0.1%\nLs 320k 160k nN0k 75k SOk 180K 80k 60k 35k 7000 4250 1750 noo\n6 40.9% +0.9% *1.9% ie +29% 1.6% 10.7% 10.5% 0.1% -0.1% -O.1% 0.0% ~0.1%\n310k 160k nok 75k SOk 180K 80k 60K 32k 7000 4250 1750 noo\naa +0,.9% +0.6% 715% 11% +28% 15% oI 40.3% 0.0% 0.2% 0.1% 0.0% 0.1%\n310k 160k nok 70k 45k 180k 75k SSk 30k 7000 4250 1750 noo\n+0.9% +s 40.4% +1L% 0.1% +13% 42.4% 0.2% 0.0% 0.1% 0.3% 0.0% +0.1%\n= 300k 1SSk 105k 70k 45k 178k 75k SOk 30k 6500 4000 1780",
+      "keywords": [
+        "noo",
+        "sok",
+        "asset",
+        "image",
+        "nok",
+        "ssk",
+        "arm",
+        "bre"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 707,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

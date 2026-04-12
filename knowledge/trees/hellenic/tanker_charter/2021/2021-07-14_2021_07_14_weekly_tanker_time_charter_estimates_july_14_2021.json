@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 113,
+  "token_count": 458,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-07-14_weekly-tanker-time-charter-estimates-july-14-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-july-14-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 111,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2021-07-14_2021_07_14_weekly_tanker_time_charter_estimates_july_14_2021__s02_linked_asset_2021_07_14_weekly_tanker_time_charter_estimates_july_14_2021_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2021-07-14_2021_07_14_weekly_tanker_time_charter_estimates_july_14_2021",
+      "parent_id": "hellenic_tanker_charter_2021-07-14_2021_07_14_weekly_tanker_time_charter_estimates_july_14_2021__root",
+      "title": "Linked asset: 2021-07-14_weekly-tanker-time-charter-estimates-july-14-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-07-14_weekly-tanker-time-charter-estimates-july-14-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-07-14_weekly-tanker-time-charter-estimates-july-14-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-07-14_weekly-tanker-time-charter-estimates-july-14-2021_img2.jpg\n\nLinked image asset: 2021-07-14_weekly-tanker-time-charter-estimates-july-14-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nShipping Umited *3 & Syrs inc. scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2 YR *3 YR *5 YR\nHANDY 10,500 = 12,250 v 14,000 14,250\nMR IMO3 > 12,000 = 13,500 > 15,750 = 16,350\nLRI 13,500 = 15,250 4 17,250 c 17,500\nLR2 = 16,500 = 19,750 4 25,000 = 25,000\nAFRA 16,000 = 19,000 > 23,000 c 24,000\nSUEZ vy 18,000 vy 20,750 = 26,000 = 27,000\nvicc v 25,000 = 26,500 » 36,000 c 37,500",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "afra",
+        "charter",
+        "dpi",
+        "eco",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 313,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

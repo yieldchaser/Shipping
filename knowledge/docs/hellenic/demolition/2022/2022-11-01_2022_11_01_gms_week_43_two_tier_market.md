@@ -28,7 +28,7 @@ regions:
 - west_africa
 - singapore
 - japan
-section_count: 2
+section_count: 4
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-11-01_gms-week-43-two-tier-market.html
@@ -672,3 +672,27 @@ P R IC E S U S D
 E L
 / T
 Steel Plate Prices Page 8 of 8
+
+## Linked asset: 2022-11-01_gms-week-43-two-tier-market_img1.jpg
+Source asset: reports/hellenic/demolition/2022/2022-11-01_gms-week-43-two-tier-market_img1.jpg
+
+Linked image asset: 2022-11-01_gms-week-43-two-tier-market_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-11-01_gms-week-43-two-tier-market_img2.jpg
+Source asset: reports/hellenic/demolition/2022/2022-11-01_gms-week-43-two-tier-market_img2.jpg
+
+Linked image asset: 2022-11-01_gms-week-43-two-tier-market_img2.jpg
+
+Image metadata: JPEG 600x158 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+[OCR skipped for small image (< 150000 pixels).]

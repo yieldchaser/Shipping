@@ -28,7 +28,7 @@ regions:
 - europe
 - singapore
 - japan
-section_count: 2
+section_count: 4
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-09-25_gms-week-38-feverish-buying.html
@@ -700,3 +700,27 @@ CHINA STEEL PRICES USD/T
 368.00
 367.00
 366.00
+
+## Linked asset: 2023-09-25_gms-week-38-feverish-buying_img1.jpg
+Source asset: reports/hellenic/demolition/2023/2023-09-25_gms-week-38-feverish-buying_img1.jpg
+
+Linked image asset: 2023-09-25_gms-week-38-feverish-buying_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-09-25_gms-week-38-feverish-buying_img2.jpg
+Source asset: reports/hellenic/demolition/2023/2023-09-25_gms-week-38-feverish-buying_img2.jpg
+
+Linked image asset: 2023-09-25_gms-week-38-feverish-buying_img2.jpg
+
+Image metadata: JPEG 682x165 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]

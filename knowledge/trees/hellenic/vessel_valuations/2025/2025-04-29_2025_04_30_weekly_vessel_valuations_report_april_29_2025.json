@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 620,
+  "token_count": 1459,
   "source_path": "reports/hellenic/vessel_valuations/2025/2025-04-30_weekly-vessel-valuations-report-april-29-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-april-29-2025",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 618,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2025-04-29_2025_04_30_weekly_vessel_valuations_report_april_29_2025__s02_linked_asset_2025_04_30_weekly_vessel_valuations_report_april_29_2025_img1_png",
+      "doc_id": "hellenic_vessel_valuations_2025-04-29_2025_04_30_weekly_vessel_valuations_report_april_29_2025",
+      "parent_id": "hellenic_vessel_valuations_2025-04-29_2025_04_30_weekly_vessel_valuations_report_april_29_2025__root",
+      "title": "Linked asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img1.png",
+      "section_path": [
+        "Linked asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img1.png"
+      ],
+      "section_path_text": "Linked asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img1.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/2025-04-30_weekly-vessel-valuations-report-april-29-2025_img1.png\n\nLinked image asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img1.png\n\nImage metadata: PNG 150x150 mode=RGB\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr",
+        "pixels",
+        "png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2025-04-29_2025_04_30_weekly_vessel_valuations_report_april_29_2025__s03_linked_asset_2025_04_30_weekly_vessel_valuations_report_april_29_2025_img2_jpg",
+      "doc_id": "hellenic_vessel_valuations_2025-04-29_2025_04_30_weekly_vessel_valuations_report_april_29_2025",
+      "parent_id": "hellenic_vessel_valuations_2025-04-29_2025_04_30_weekly_vessel_valuations_report_april_29_2025__root",
+      "title": "Linked asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img2.jpg",
+      "section_path": [
+        "Linked asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/2025-04-30_weekly-vessel-valuations-report-april-29-2025_img2.jpg\n\nLinked image asset: 2025-04-30_weekly-vessel-valuations-report-april-29-2025_img2.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) VesselsValue 2 -~-SS\n29 Apeil 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra ua MR Cape Pmax Supra. Pmax Handy Fax\n> 0.0% 00% 02% 0% 05% 08% 02% 00% 0.1% 40.1% 402% «= 40.2% = 40.4%\n320k 160k nSk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo\n‘ 0.0% 00% 02% 0.1% -0.4% 12% 02% 02% 00% 10.1% = 0.2% «= 40.2% = 40.7%\n320k 160k Nk 75k 50k 180k 82k 60k 38k 7000 42501780 N00\n~ 0.0% 00% 01% 01% 03% AS% = -O2% «10.4% 0.1% 10.1% «403% «=O.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "noo",
+        "nok",
+        "sok",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 689,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 24206,
+  "token_count": 25159,
   "source_path": "reports/hellenic/iron_ore/2021/2021-12-09_mmi-daily-iron-ore-index-report-december-09-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-december-09-2021",
   "children": [
@@ -84,6 +84,34 @@
       "page_end": null,
       "token_count": 23795,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2021-12-09_2021_12_09_mmi_daily_iron_ore_index_report_december_09_2021__s03_linked_asset_2021_12_09_mmi_daily_iron_ore_index_report_december_09_2021_img2_jpg",
+      "doc_id": "hellenic_iron_ore_2021-12-09_2021_12_09_mmi_daily_iron_ore_index_report_december_09_2021",
+      "parent_id": "hellenic_iron_ore_2021-12-09_2021_12_09_mmi_daily_iron_ore_index_report_december_09_2021__root",
+      "title": "Linked asset: 2021-12-09_mmi-daily-iron-ore-index-report-december-09-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-12-09_mmi-daily-iron-ore-index-report-december-09-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-12-09_mmi-daily-iron-ore-index-report-december-09-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/2021/2021-12-09_mmi-daily-iron-ore-index-report-december-09-2021_img2.jpg\n\nLinked image asset: 2021-12-09_mmi-daily-iron-ore-index-report-december-09-2021_img2.jpg\n\nImage metadata: JPEG 1600x726 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nMMi Daily Iron Ore Index Report Dec 9th, 2021\nIRON ORE PORT STOCK INDEX (IOP!)\nDec 9th, 2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "change",
+        "ore",
+        "price",
+        "high",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 921,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

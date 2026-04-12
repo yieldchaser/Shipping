@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Dry Time Charter Estimates, August 30 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2022-08-31_weekly-dry-time-charter-estimates-august-30-2022_img2.jpg\n\nLinked asset: 2022-08-31_weekly-dry-time-charter-estimates-august-30-2022_img2.jpg\nSource asset: reports/hellenic/dry_charter/2022/2022-08-31_weekly-dry-time-charter-estimates-august-30-2022_img2.jpg\n\nLinked image asset: 2022-08-31_weekly-dry-time-charter-estimates-august-30-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALIBRA ‘peseiegs\nShipping Limited\nDRY TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (seem) | ¥ 16,000 | A 23000 |¥ 18000 ja 19000 |¥ 17,000 18,000\nSMAXJULTRA | ¥ 18,500 20500 |¥ 19500 |¥ 18500 |¥ 17850 |¥ 16850\nPANAKMAX | ¥ 19,750 | ¥ 19250 |¥ 17,000 |¥ 17,000 |¥ 15500 |¥ 15,500\ncaPeszE |¥ 14500 |¥ 14500 |¥ 13000 |¥ 13000 |¥ 16000 |¥ 16,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 33,
+  "token_count": 368,
   "source_path": "reports/hellenic/dry_charter/2022/2022-08-31_weekly-dry-time-charter-estimates-august-30-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-august-30-2022",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 31,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2022-08-30_2022_08_31_weekly_dry_time_charter_estimates_august_30_2022__s02_linked_asset_2022_08_31_weekly_dry_time_charter_estimates_august_30_2022_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2022-08-30_2022_08_31_weekly_dry_time_charter_estimates_august_30_2022",
+      "parent_id": "hellenic_dry_charter_2022-08-30_2022_08_31_weekly_dry_time_charter_estimates_august_30_2022__root",
+      "title": "Linked asset: 2022-08-31_weekly-dry-time-charter-estimates-august-30-2022_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-08-31_weekly-dry-time-charter-estimates-august-30-2022_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-08-31_weekly-dry-time-charter-estimates-august-30-2022_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2022/2022-08-31_weekly-dry-time-charter-estimates-august-30-2022_img2.jpg\n\nLinked image asset: 2022-08-31_weekly-dry-time-charter-estimates-august-30-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALIBRA ‘peseiegs\nShipping Limited\nDRY TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (seem) | ¥ 16,000 | A 23000 |¥ 18000 ja 19000 |¥ 17,000 18,000\nSMAXJULTRA | ¥ 18,500 20500 |¥ 19500 |¥ 18500 |¥ 17850 |¥ 16850\nPANAKMAX | ¥ 19,750 | ¥ 19250 |¥ 17,000 |¥ 17,000 |¥ 15500 |¥ 15,500\ncaPeszE |¥ 14500 |¥ 14500 |¥ 13000 |¥ 13000 |¥ 16000 |¥ 16,000",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "alibra",
+        "capesze"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 302,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

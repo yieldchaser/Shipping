@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2024/2024-07-02_weekly-vessel-valuations-report-july-02-2024.html
@@ -117,3 +117,40 @@ Aframax Pusaka Java (108,500 DWT, Jan 2018, Tsuneishi Zosen) sold to Eastern Pac
 Containers: Secondhand values continued to spike from firmed earnings, with impressive gains for 15YO Panamax in response to sales
 No notable sales
 Image reference: 2024-07-02_weekly-vessel-valuations-report-july-02-2024_img2.jpg
+
+## Linked asset: 2024-07-02_weekly-vessel-valuations-report-july-02-2024_img1.png
+Source asset: reports/hellenic/vessel_valuations/2024/2024-07-02_weekly-vessel-valuations-report-july-02-2024_img1.png
+
+Linked image asset: 2024-07-02_weekly-vessel-valuations-report-july-02-2024_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2024-07-02_weekly-vessel-valuations-report-july-02-2024_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2024/2024-07-02_weekly-vessel-valuations-report-july-02-2024_img2.jpg
+
+Linked image asset: 2024-07-02_weekly-vessel-valuations-report-july-02-2024_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+bs) VessebsVaue@
+02 duly 2024 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Mra LRI MR Cape Pmax Supra Handy Dinex Pmax Handy Fmax
+0 40.6% 0.0% +0.1% 40.1% +0.9% 0.2% 42.1% -0.1% -0.4% +3.1% 44.0% +3.3% 42.1%
+320k = «160k = 110k 75k 50k 180k 82k 60k 38k 7000 4250 «1750-4100
+5 0.6% 0.0% +0.1% 40.1% +0.4% +4.B% 41.3% -0.1% 0.4% 44.4% 44.9% +3.7% +2.1%
+320k = 160k 110k 75k 50k 180k 80k 60k 38k 7000 © 4250 «17501100
+10 2.2% 0.0% 40.1% 40.1% -0.2% 47.1% = -O.1% 0.0% "0.4% 43.8% +5.2% 46.9% +2.0%
+320k = 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 «1750 = 1100
+is -3.8% 0.0% +0.1% +0.1% -0.6% 45.7% -0.9% +0.1% -0.4% +3.0% +4,7% +11,7% +2.0%
+310k = 160k = 110k 75k 50k 180k 80k 55k 30k 7000 ©4250 «1750 = 1100
+20 "37% 0.0% 40.1% 40.1% -1,0% +0.9% -0.6% 0.2% 0.4% 43.8% +3.4% +16.6% +2.2%
+305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 4250 1750 1100
+25 "1A% 0.0% 0.0% 40.1% 0.3% 0.0% 0.0% +0.3% 0.3% +7.0% +1.5% +20.7% +2.2%
+i 300k 150k =: 105k 65k 45k 170k 75k 48k 30k 6500 4000 1750 8©1100 |

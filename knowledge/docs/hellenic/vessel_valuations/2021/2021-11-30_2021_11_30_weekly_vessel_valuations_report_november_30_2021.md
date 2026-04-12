@@ -10,7 +10,8 @@ commodities:
 date: '2021-11-30'
 doc_id: hellenic_vessel_valuations_2021-11-30_2021_11_30_weekly_vessel_valuations_report_november_30_2021
 document_type: asset_valuations
-key_entities: []
+key_entities:
+- Vale
 keywords:
 - capesize
 - panamax
@@ -31,8 +32,9 @@ regions:
 - china
 - europe
 - meg
+- brazil
 - singapore
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2021/2021-11-30_weekly-vessel-valuations-report-november-30-2021.html
@@ -89,3 +91,40 @@ Handy Bulker Royal Justice (37,000 DWT, Dec 2012, Saiki) sold to Fortius Ship Ma
 Container: Container values have softened due to earnings.
 No Container sales to report this week.
 Image reference: 2021-11-30_weekly-vessel-valuations-report-november-30-2021_img2.jpg
+
+## Linked asset: 2021-11-30_weekly-vessel-valuations-report-november-30-2021_img1.png
+Source asset: reports/hellenic/vessel_valuations/2021/2021-11-30_weekly-vessel-valuations-report-november-30-2021_img1.png
+
+Linked image asset: 2021-11-30_weekly-vessel-valuations-report-november-30-2021_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-11-30_weekly-vessel-valuations-report-november-30-2021_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2021/2021-11-30_weekly-vessel-valuations-report-november-30-2021_img2.jpg
+
+Linked image asset: 2021-11-30_weekly-vessel-valuations-report-november-30-2021_img2.jpg
+
+Image metadata: JPEG 700x294 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+© VesselsVale" © AAA
+30 November 2021 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra LRI MR Cape Pmax Supra Handy eee Pmax Handy = Fmax
+0 -0.9% -0.7% -0.2% -0.2% -0.3% -1.1% -1.4% -1.3% +0.6% -1.9% -2.0% -3.3% -3.0%
+320K 160K ~-- 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100
+a 0.9% -0.3% +0.6% +0.0% -0.3% 1.2% -1.1% -0.4% +5.8% 1.9% -2.0% -3.3% -2.9%
+320K 160K = 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+‘0 "0.9% +0.8% +0.1% +0.8% -0.3% -1.3% -0.5% +0.6% +8.7% -1.8% -2.1% -3.2% -2.9%
+310K 160K = 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 1.0% +1.6% -0.7% +1.9% -0.4% -1.4% +0.4% 41.9% +11.4% -1.6% -2.1% -3.2% -3.0%
+310K 160K ~- 110K 70K 45K 180K 75K 55K 30K 7000 «4250 «1750 1100
+20 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% +1.6% +3.2% +13.9% -1.1% -2.1% -3.2% -2.9%
+300K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 0.0% N/A 0.0% 0.0% 0.0% 0.0% +2.9% +4.2% +16.4% 0.0% -2.1% -3.1% -3.1%
+295K N/A 100K 65K 45K 160K JFOK 48K 30K 5500 4000 1750 1100

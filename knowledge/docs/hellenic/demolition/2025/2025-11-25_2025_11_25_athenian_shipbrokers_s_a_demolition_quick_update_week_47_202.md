@@ -22,7 +22,7 @@ regions:
 - india
 - china
 - europe
-section_count: 1
+section_count: 2
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202.html
@@ -68,3 +68,15 @@ in Weekly Demolition Reports 25/11/2025
 Image reference: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg
 Athenian Shipbrokers SA Ship Recycling Weekly Report
 Source: ATHENIAN SHIPBROKERS S.A.
+
+## Linked asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg
+Source asset: reports/hellenic/demolition/2025/2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg
+
+Linked image asset: 2025-11-25_athenian-shipbrokers-s-a-demolition-quick-update-week-47-202_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (72, 72)
+
+[OCR skipped for small image (< 150000 pixels).]

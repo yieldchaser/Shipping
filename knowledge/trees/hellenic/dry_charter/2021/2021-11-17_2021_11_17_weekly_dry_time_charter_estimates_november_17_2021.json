@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 147,
+  "token_count": 519,
   "source_path": "reports/hellenic/dry_charter/2021/2021-11-17_weekly-dry-time-charter-estimates-november-17-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-november-17-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 145,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2021-11-17_2021_11_17_weekly_dry_time_charter_estimates_november_17_2021__s02_linked_asset_2021_11_17_weekly_dry_time_charter_estimates_november_17_2021_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2021-11-17_2021_11_17_weekly_dry_time_charter_estimates_november_17_2021",
+      "parent_id": "hellenic_dry_charter_2021-11-17_2021_11_17_weekly_dry_time_charter_estimates_november_17_2021__root",
+      "title": "Linked asset: 2021-11-17_weekly-dry-time-charter-estimates-november-17-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-11-17_weekly-dry-time-charter-estimates-november-17-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-11-17_weekly-dry-time-charter-estimates-november-17-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2021/2021-11-17_weekly-dry-time-charter-estimates-november-17-2021_img2.jpg\n\nLinked image asset: 2021-11-17_weekly-dry-time-charter-estimates-november-17-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA LI B RA Updated Wednesday 17 November 2021\nAy ay Contact us for rates/charts on scrubber & eco tonnage. SIZE 6 MOS 1YR 2YR\nPERIOD ATL PAC ATL PAC ATL PAC\nHANDY == 33,500\\\" 25,000, - 25,500 % 20,000) 16,000 = 15,500\nSUPRAMAX | 36,750) 22,750, Y 27,000: 20,500}™= 16,500 |= 16,000\nULTRAMAX |W 38,250|' 23,500) WY 28,000) 20,500/- 17,500 |= 17,000\nPANA/KMAX |‘ 28,750\\ == 26,000; w 24,000) 23,750)== 19,250 |= 18,750\nCAPESIZE W 27,000) 25,500) - 24,500 - 23,500.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "contact"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 339,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

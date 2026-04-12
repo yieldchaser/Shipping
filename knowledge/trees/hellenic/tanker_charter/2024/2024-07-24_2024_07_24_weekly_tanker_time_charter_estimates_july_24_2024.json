@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Tanker Time Charter Estimates, July 24 2024",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2024-07-24_weekly-tanker-time-charter-estimates-july-24-2024_img2.jpg\n\nLinked asset: 2024-07-24_weekly-tanker-time-charter-estimates-july-24-2024_img2.jpg\nSource asset: reports/hellenic/tanker_charter/2024/2024-07-24_weekly-tanker-time-charter-estimates-july-24-2024_img2.jpg\n\nLinked image asset: 2024-07-24_weekly-tanker-time-charter-estimates-july-24-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\ny <3 A LI B R A Updated Weds 24 Jul 2024\nShopng Umited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR'\nHANDY 28,850 26,000 24,000 22,000\nMR IMO3 30,000 27,000 29,000 24,500\nLRI 39,000 32,500 33,000 31,000\nLR2 51,500 42,500 44,500 38,500\nAPRA (115% owt) 50,000 42,500 43,500 37,500\nSUEZ 45,000 42,500 45,500 42,500\nvice Mf 46,000 45,000 54,500 50,000\nArrows only indicate the movement compared to the past week hence not necessarily the market trends\nCall for an in-depth update www alibrashipping com",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 32,
+  "token_count": 396,
   "source_path": "reports/hellenic/tanker_charter/2024/2024-07-24_weekly-tanker-time-charter-estimates-july-24-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-july-24-2024",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 30,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2024-07-24_2024_07_24_weekly_tanker_time_charter_estimates_july_24_2024__s02_linked_asset_2024_07_24_weekly_tanker_time_charter_estimates_july_24_2024_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2024-07-24_2024_07_24_weekly_tanker_time_charter_estimates_july_24_2024",
+      "parent_id": "hellenic_tanker_charter_2024-07-24_2024_07_24_weekly_tanker_time_charter_estimates_july_24_2024__root",
+      "title": "Linked asset: 2024-07-24_weekly-tanker-time-charter-estimates-july-24-2024_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-24_weekly-tanker-time-charter-estimates-july-24-2024_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-24_weekly-tanker-time-charter-estimates-july-24-2024_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2024/2024-07-24_weekly-tanker-time-charter-estimates-july-24-2024_img2.jpg\n\nLinked image asset: 2024-07-24_weekly-tanker-time-charter-estimates-july-24-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\ny <3 A LI B R A Updated Weds 24 Jul 2024\nShopng Umited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR'\nHANDY 28,850 26,000 24,000 22,000\nMR IMO3 30,000 27,000 29,000 24,500\nLRI 39,000 32,500 33,000 31,000\nLR2 51,500 42,500 44,500 38,500\nAPRA (115% owt) 50,000 42,500 43,500 37,500\nSUEZ 45,000 42,500 45,500 42,500\nvice Mf 46,000 45,000 54,500 50,000\nArrows only indicate the movement compared to the past week hence not necessarily the market trends\nCall for an in-depth update www alibrashipping com",
+      "keywords": [
+        "handysize",
+        "year",
+        "asset",
+        "image",
+        "alibrashipping",
+        "apra",
+        "arrows",
+        "call"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 332,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

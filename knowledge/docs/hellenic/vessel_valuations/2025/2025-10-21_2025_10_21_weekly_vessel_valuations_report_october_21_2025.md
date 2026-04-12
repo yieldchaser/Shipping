@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-10-21_weekly-vessel-valuations-report-october-21-2025.html
@@ -115,3 +115,40 @@ Containers: Sub Panamax and Handy values continue to be positive across all ages
 Sub Panamax X Press Karakoram (2,741 TEU, Jul 2008, Aker Ostsee) sold to Undisclosed buyers for USD 30 mil Inc TC, VV Value USD 27.68 mil
 Handy Okee Cuno (1,688 TEU, Dec 2008, Guangzhou Wenchong) sold to Global Feeder Shipping for USD 21 mil, VV Value USD 21.03 mil
 Image reference: 2025-10-21_weekly-vessel-valuations-report-october-21-2025_img2.jpg
+
+## Linked asset: 2025-10-21_weekly-vessel-valuations-report-october-21-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-10-21_weekly-vessel-valuations-report-october-21-2025_img1.png
+
+Linked image asset: 2025-10-21_weekly-vessel-valuations-report-october-21-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-10-21_weekly-vessel-valuations-report-october-21-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-10-21_weekly-vessel-valuations-report-october-21-2025_img2.jpg
+
+Linked image asset: 2025-10-21_weekly-vessel-valuations-report-october-21-2025_img2.jpg
+
+Image metadata: JPEG 678x314 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+Ds) VesselsValue HH
+21 October 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra La MR Cape Pmax Supra Handy oes. Pmax Handy = Fmax
+70.1% 026 Lie 70.1% 03% 0.0% 20.3% 70.1% 026 -O3% 02% *Ls% -O3%
+. 320k 160k nSk 75k 50k 180k 82k 62k 38k 7000 42501780 N00
+70.1% 0.1% 19% VAN 114% 0.0% 04% 0.8% 202% OM 02% 118% -O3%
+? 320k 160k Nok 75k 50k 180k 82k 60k 38k 7000 4250-1780 n100
+0.1% +0.2% 13% 1.8% 20.7% 03% 1.0% As 10.3% 0.1% 0.1% +226 -O3%
+¥ 320k 160k NOk 78k SOk 180k 80k 60k 3Sk 7000 4250 790 noo
++0.1% 70.9% 10.1% 2.3% 02% OBs 1S% 0.8% 10.6% 0.0% O.1% +2.6% 03%
+® SNOk 160k NOk 7Sk SOk 180k 80k 55k 30k 7000 4250 1780 noo
++0.1% 1.8% 02% 2.6% +05% ss AI +0.2% 108% 40.1% 00% +29% O26
+a 3NOk 160k NOk 70k 45k 180k 78k SSk 30k 7000 4250 1780 noo
+70.1% 3.0% *LO% 4 20% +136 138% 718% *LO% 20.2% 20.1% +29% -O3%
+iad 300k 155k 105k 70k 45k 175k 75k 48k 30k 6500 4000 1750 N00

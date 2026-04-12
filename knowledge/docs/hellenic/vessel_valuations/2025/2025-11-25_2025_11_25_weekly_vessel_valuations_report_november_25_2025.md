@@ -32,7 +32,7 @@ regions:
 - europe
 - meg
 - japan
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-11-25_weekly-vessel-valuations-report-november-25-2025.html
@@ -117,3 +117,40 @@ Handy Container CNC Saturn (1,952 TEU, Nov 2020, Tsuneishi Cebu) sold by Nissen 
 Handy Containers Contship Run & Contship Sea (1,574 TEU, 2007, Jiangsu Yangzijiang ) sold en bloc to MSC for USD 34 mil, VV Value USD 35.57 mil
 Feedermax KR Celebes (728 TEU, Nov 2002, Dae Sun) sold by Gluck Shipping for USD 7 mil, VV Value USD 6.94 mil
 Image reference: 2025-11-25_weekly-vessel-valuations-report-november-25-2025_img2.jpeg
+
+## Linked asset: 2025-11-25_weekly-vessel-valuations-report-november-25-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-11-25_weekly-vessel-valuations-report-november-25-2025_img1.png
+
+Linked image asset: 2025-11-25_weekly-vessel-valuations-report-november-25-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-11-25_weekly-vessel-valuations-report-november-25-2025_img2.jpeg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-11-25_weekly-vessel-valuations-report-november-25-2025_img2.jpeg
+
+Linked image asset: 2025-11-25_weekly-vessel-valuations-report-november-25-2025_img2.jpeg
+
+Image metadata: JPEG 600x265 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+(D) VesselsValue -
+25 November 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra um ma Cape Prax Supra Mandy par Pmax Handy Fax
+3 10.1% +L 10.6% 102% +326 0.6% ON 0.0% 0.0% OA 0.0% 0m Om
+520k 160k Se Tsk Sk 180K 8m 62% 38k 7000 4290 1780 100
+10.1% +25% 20.7% 10% *30% 0.9% *30% 0.0% 0.0% 00% Om Om Om
+® 320k 160k 0k Tk SOK 180k 82k 6k 38k 7000 4250 1780 neo
+10.1% 3 +0.7% 10% 105% 10.9% 22% 0.0% Om 0.0% om OTs Om
+A S20k 160k 0k 75k Ok 180K 80k 60K Sk 7000 4750 1750 noo
+s 10.1% +3 10.7% +0.3% OG 08% 108% Om 0.0% Om 10.2% 0 Om
+510k 160k 0k Tsk Sk 180K 80k SSk we 7000 4790 1780 no
+10.1% +2 10.7% 105% 14 104% +05% 10.0% 0.0% Om +2 OZ Om
+ad 310k 160k Ok 70k 6 180K Tk Sse wr 7000 4250 1780 n00
+5 10.0% Om 10.8% 10.8% 4% 0.0% +256 0.0% 00% Om 64% O26 Om
+300m 1SSk 105k 70k 45k 178k Tsk 45% wn 6500 4000 1750 100

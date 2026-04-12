@@ -18,13 +18,91 @@ regions:
 - west_africa
 - europe
 - china
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: mr
+    source_line: MR IMO3 31,000 E 27,500 28,500 4 24,850
+    timeframe: null
+    unit: null
+    values:
+    - 31000.0
+    - 27500.0
+    - 28500.0
+    - 24850.0
+  - segment: lr1
+    source_line: LR1 a 38,500 & 35,000 32,500 30,000
+    timeframe: null
+    unit: null
+    values:
+    - 38500.0
+    - 35000.0
+    - 32500.0
+    - 30000.0
+  - segment: lr2
+    source_line: LR2 A 49,500 A 42,500 A 45,000 A 38,500
+    timeframe: null
+    unit: null
+    values:
+    - 49500.0
+    - 42500.0
+    - 45000.0
+    - 38500.0
+  rate_summary:
+    lr1: 30000.0
+    lr2: 38500.0
+    mr: 24850.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2024/2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024.html
 source_stem: 2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024
 source_url: https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-february-21-2024
-summary: ''
+summary: 'Main
+
+  Image reference: 2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+
+
+  Linked asset: 2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+
+  Source asset: reports/hellenic/tanker_charter/2024/2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+
+
+  Linked image asset: 2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (144.0, 144.0)
+
+
+  OCR text:
+
+  LB A LI B R A Updated Weds 21 Feb 2024
+
+  Shipping Limited * Eco tonnage with Scrubber fitted
+
+  WET TIME CHARTER ESTIMATE ($/pdpr)
+
+  SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+
+  HANDY A 28,500 a 25,000 24,000 21,000
+
+  MR IMO3 31,000 E 27,500 28,500 4 24,850
+
+  LR1 a 38,500 & 35,000 32,500 30,000
+
+  LR2 A 49,500 A 42,500 A 45,000 A 38,500
+
+  AFRA (115k dwt) | & 48,500 A 42,500 a 44,500 A 37,500
+
+  SUEZ 45,000 A 39,500 A 43,500 A 38,500
+
+  vicc A 50,000 a 45,000 52,500 50,000'
 themes:
 - image
 - main
@@ -35,7 +113,58 @@ vessel_classes:
 - vlcc
 - suezmax
 - aframax
+- handysize
 ---
+
+## Summary
+Main
+Image reference: 2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+
+Linked asset: 2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2024/2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+
+Linked image asset: 2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+LB A LI B R A Updated Weds 21 Feb 2024
+Shipping Limited * Eco tonnage with Scrubber fitted
+WET TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+HANDY A 28,500 a 25,000 24,000 21,000
+MR IMO3 31,000 E 27,500 28,500 4 24,850
+LR1 a 38,500 & 35,000 32,500 30,000
+LR2 A 49,500 A 42,500 A 45,000 A 38,500
+AFRA (115k dwt) | & 48,500 A 42,500 a 44,500 A 37,500
+SUEZ 45,000 A 39,500 A 43,500 A 38,500
+vicc A 50,000 a 45,000 52,500 50,000
 
 ## Main
 Image reference: 2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+
+## Linked asset: 2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2024/2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+
+Linked image asset: 2024-02-21_weekly-tanker-time-charter-estimates-february-21-2024_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+LB A LI B R A Updated Weds 21 Feb 2024
+Shipping Limited * Eco tonnage with Scrubber fitted
+WET TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+HANDY A 28,500 a 25,000 24,000 21,000
+MR IMO3 31,000 E 27,500 28,500 4 24,850
+LR1 a 38,500 & 35,000 32,500 30,000
+LR2 A 49,500 A 42,500 A 45,000 A 38,500
+AFRA (115k dwt) | & 48,500 A 42,500 a 44,500 A 37,500
+SUEZ 45,000 A 39,500 A 43,500 A 38,500
+vicc A 50,000 a 45,000 52,500 50,000

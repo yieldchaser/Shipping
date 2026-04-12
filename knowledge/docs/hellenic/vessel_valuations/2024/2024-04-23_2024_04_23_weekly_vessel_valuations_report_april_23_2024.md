@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2024/2024-04-23_weekly-vessel-valuations-report-april-23-2024.html
@@ -115,3 +115,40 @@ Small Clean (Chem/Prod) Patagonia & Paterna (16,800 DWT, Apr/Jul 2006, Qiuxin/Ji
 Containers : Container values firmed across the board from improved earnings and higher asset demand. The only exception was the Feeder segment down 0.3% WoW
 No notable sales last week
 Image reference: 2024-04-23_weekly-vessel-valuations-report-april-23-2024_img2.jpg
+
+## Linked asset: 2024-04-23_weekly-vessel-valuations-report-april-23-2024_img1.png
+Source asset: reports/hellenic/vessel_valuations/2024/2024-04-23_weekly-vessel-valuations-report-april-23-2024_img1.png
+
+Linked image asset: 2024-04-23_weekly-vessel-valuations-report-april-23-2024_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2024-04-23_weekly-vessel-valuations-report-april-23-2024_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2024/2024-04-23_weekly-vessel-valuations-report-april-23-2024_img2.jpg
+
+Linked image asset: 2024-04-23_weekly-vessel-valuations-report-april-23-2024_img2.jpg
+
+Image metadata: JPEG 678x257 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+( ) VesselsValwe
+23 April 2024 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year VLCC Suez Afra tRI MR Cape Pmax Supra Handy Pr . Pmax Handy - Fmax
+Py 0.0% 0.0% = 10.1% 0.5% --#5.7% 0.9% 0.1% 10.6% - 10.1% +0.5% 42.2% +1.9% 40.2%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+5 0.0% §- 0.0% - 40.1% - 40.7% - +4.2% 0.9% - 0.2% - 0.5% - 40.1% +0.2% - +2.0% - +2.9% - +0.2%
+320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 1750 1100
+10 0.0% 0.0% 40.1% +2A%e +2.6% 0.9% 0.2% 0.6% 40.2% +0.5% 42.0% 42.4% 40.2%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
+15 0.0% 0.0% +0.1% +4.0% +2.0% -0.9% -0.1% 40.1% 40.1% +0.B% +2.3% +2.0% +0.1%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
+- 10.1% 0.0% 10.2% 44.7% +3.3% 0.9% -0.1% 10.6% 10.1% 10.7% 42.9% 92.7% 10.3%
+305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 4250 1750 1100
+= 0.0% 0.0% +0.4% +4.0% +7.4% 0.0% 0.0% -+0.8% - +0.2% 0.0% +0.9% +4.5% +0.6%
+300k 150k 105k 65k 45k 170k 75k 48k 30k 6500 4000 1750 1100

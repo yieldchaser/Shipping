@@ -18,13 +18,91 @@ regions:
 - west_africa
 - europe
 - china
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: mr
+    source_line: MR IMO3 28,750 27,500 27,500 25,000
+    timeframe: null
+    unit: null
+    values:
+    - 28750.0
+    - 27500.0
+    - 27500.0
+    - 25000.0
+  - segment: lr1
+    source_line: LR1 36,500 32,500 32,500 28,500
+    timeframe: null
+    unit: null
+    values:
+    - 36500.0
+    - 32500.0
+    - 32500.0
+    - 28500.0
+  - segment: lr2
+    source_line: LR2 42,000 37,500 36,500 33,500
+    timeframe: null
+    unit: null
+    values:
+    - 42000.0
+    - 37500.0
+    - 36500.0
+    - 33500.0
+  rate_summary:
+    lr1: 28500.0
+    lr2: 33500.0
+    mr: 25000.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2023/2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023.html
 source_stem: 2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023
 source_url: https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-march-15-2023
-summary: ''
+summary: 'Main
+
+  Image reference: 2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+
+
+  Linked asset: 2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+
+  Source asset: reports/hellenic/tanker_charter/2023/2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+
+
+  Linked image asset: 2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (144.0, 144.0)
+
+
+  OCR text:
+
+  & A Ll B R A Updated Weds 15 Mar 2023
+
+  Shipping Limited * Eco tonnage with Scrubber fitted
+
+  WET TIME CHARTER ESTIMATE ($/pdpr)
+
+  SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR"
+
+  HANDY 25,000 22,000 23,000 22,000
+
+  MR IMO3 28,750 27,500 27,500 25,000
+
+  LR1 36,500 32,500 32,500 28,500
+
+  LR2 42,000 37,500 36,500 33,500
+
+  AFRA (115k dwt) 40,000 38,500 37,500 32,500
+
+  SUEZ 42,500 33,500 37,500 35,000
+
+  vicc 45,000 42,500 50,000 45,000'
 themes:
 - image
 - main
@@ -35,7 +113,58 @@ vessel_classes:
 - vlcc
 - suezmax
 - aframax
+- handysize
 ---
+
+## Summary
+Main
+Image reference: 2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+
+Linked asset: 2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2023/2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+
+Linked image asset: 2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+& A Ll B R A Updated Weds 15 Mar 2023
+Shipping Limited * Eco tonnage with Scrubber fitted
+WET TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR"
+HANDY 25,000 22,000 23,000 22,000
+MR IMO3 28,750 27,500 27,500 25,000
+LR1 36,500 32,500 32,500 28,500
+LR2 42,000 37,500 36,500 33,500
+AFRA (115k dwt) 40,000 38,500 37,500 32,500
+SUEZ 42,500 33,500 37,500 35,000
+vicc 45,000 42,500 50,000 45,000
 
 ## Main
 Image reference: 2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+
+## Linked asset: 2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2023/2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+
+Linked image asset: 2023-03-15_weekly-tanker-time-charter-estimates-march-15-2023_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+& A Ll B R A Updated Weds 15 Mar 2023
+Shipping Limited * Eco tonnage with Scrubber fitted
+WET TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR"
+HANDY 25,000 22,000 23,000 22,000
+MR IMO3 28,750 27,500 27,500 25,000
+LR1 36,500 32,500 32,500 28,500
+LR2 42,000 37,500 36,500 33,500
+AFRA (115k dwt) 40,000 38,500 37,500 32,500
+SUEZ 42,500 33,500 37,500 35,000
+vicc 45,000 42,500 50,000 45,000

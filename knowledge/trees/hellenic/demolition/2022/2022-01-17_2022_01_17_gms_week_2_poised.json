@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4311,
+  "token_count": 4534,
   "source_path": "reports/hellenic/demolition/2022/2022-01-17_gms-week-2-poised.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-2-poised",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 3812,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-01-17_2022_01_17_gms_week_2_poised__s03_linked_asset_2022_01_17_gms_week_2_poised_img1_jpg",
+      "doc_id": "hellenic_demolition_2022-01-17_2022_01_17_gms_week_2_poised",
+      "parent_id": "hellenic_demolition_2022-01-17_2022_01_17_gms_week_2_poised__root",
+      "title": "Linked asset: 2022-01-17_gms-week-2-poised_img1.jpg",
+      "section_path": [
+        "Linked asset: 2022-01-17_gms-week-2-poised_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-01-17_gms-week-2-poised_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2022/2022-01-17_gms-week-2-poised_img1.jpg\n\nLinked image asset: 2022-01-17_gms-week-2-poised_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-2-poised_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-01-17_2022_01_17_gms_week_2_poised__s04_linked_asset_2022_01_17_gms_week_2_poised_img2_jpg",
+      "doc_id": "hellenic_demolition_2022-01-17_2022_01_17_gms_week_2_poised",
+      "parent_id": "hellenic_demolition_2022-01-17_2022_01_17_gms_week_2_poised__root",
+      "title": "Linked asset: 2022-01-17_gms-week-2-poised_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-01-17_gms-week-2-poised_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-01-17_gms-week-2-poised_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2022/2022-01-17_gms-week-2-poised_img2.jpg\n\nLinked image asset: 2022-01-17_gms-week-2-poised_img2.jpg\n\nImage metadata: JPEG 685x176 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-2-poised_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 90,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

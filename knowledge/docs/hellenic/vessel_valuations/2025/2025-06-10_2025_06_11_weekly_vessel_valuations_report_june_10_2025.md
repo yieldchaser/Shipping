@@ -32,7 +32,7 @@ regions:
 - europe
 - meg
 - japan
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-06-11_weekly-vessel-valuations-report-june-10-2025.html
@@ -115,3 +115,40 @@ MR1 (Chemical/Product) Osaka (37,900 DWT, Jan 2008, Hyundai Mipo) sold to undisc
 Containers: Older Post Panamaxes continue to rise this week, and midage Panamaxes are following suit on the back of recent sales
 Post Panamaxes Marcos V (6,350 TEU, May 2005, Koyo Dock) sold for USD 50 mil, VV Values USD 46.9 mil
 Image reference: 2025-06-11_weekly-vessel-valuations-report-june-10-2025_img2.jpg
+
+## Linked asset: 2025-06-11_weekly-vessel-valuations-report-june-10-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-06-11_weekly-vessel-valuations-report-june-10-2025_img1.png
+
+Linked image asset: 2025-06-11_weekly-vessel-valuations-report-june-10-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-06-11_weekly-vessel-valuations-report-june-10-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-06-11_weekly-vessel-valuations-report-june-10-2025_img2.jpg
+
+Linked image asset: 2025-06-11_weekly-vessel-valuations-report-june-10-2025_img2.jpg
+
+Image metadata: JPEG 678x309 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+© VesselsVabue@ § Appa
+10 June 2025 VV Mini Matrix - Weekly Change
+wae Lone A
+font SAM OMOEA! RIT URI MRT SMA ES RET RET BES SS Re ARM
+A 0.0% 0.0% 40.1% -O.% 02% 03% "0.96 -O.% 02% "Ls +0.7% +086 40.4%
+320k 160k nSk 75k 50k Ok 82k 62k 38k 7000 42507500
+0.0% 0.1% 0.0% 0.16 02% -O3% 0.1% 02% 0.7% +0.4% +1S% 0B +05%
+: 320k 160k NNO 75k SOk 10k 82k 60k 38k 7000 4250 «SOOO
+io 0.0% 0.1% 0.0% 02% 0.1% 03% 0.1% 03% "13% 18% 123% 108% 105%
+320k 160k NN0k 78k SOk 180k 80k 60k 35k 7000 4250 1780 noo
+s 0.0% 0.0% 10.1% 02% 0.1% 03% 0.1% 1.0% 18% *3.0% 12.9% 108% +0.6%
+SNOk 160k NOk 78k SOK 180k 80k SSk 30k 7000 4250 1780 noo
+20 0.0% 0.0% 40.1% -O.% 0.1% 04% 0.1% "1.0% 24% +3.6% +24% 108% 10.4%
+310k 160k nNOk 70K 45k 180k 78k SSk 30k 7000 4250 1780 noo
+0.0% 0.1% +03% -O.%6 0.1% 32% "33% 00% 2s +3.6% 04% +0.7% "0.1%
+* 300k -‘ISSK_-(105k 70k 45k 17Sk 75k 48k 30k 6500 4000 1750 Noo

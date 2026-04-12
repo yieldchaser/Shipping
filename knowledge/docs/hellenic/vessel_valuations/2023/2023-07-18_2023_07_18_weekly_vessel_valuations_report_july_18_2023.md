@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-07-18_weekly-vessel-valuations-report-july-18-2023.html
@@ -118,3 +118,40 @@ MR1 (Chem/Product) Advantage Pretty (37,300 DWT, Dec 2006, Hyundai Mipo) sold to
 Containers : Secondhand values have softened for Handy's, Feedermax, Sub Panamax and Panamax segments
 New Panamax Rome Express (13,371 TEU, Dec 2010, Samsung) sold by Navigare Capital to Ernst Russ "Undisclosed" including Time Charter, VV Value USD 93.60 mil
 Image reference: 2023-07-18_weekly-vessel-valuations-report-july-18-2023_img2.jpg
+
+## Linked asset: 2023-07-18_weekly-vessel-valuations-report-july-18-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-07-18_weekly-vessel-valuations-report-july-18-2023_img1.png
+
+Linked image asset: 2023-07-18_weekly-vessel-valuations-report-july-18-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-07-18_weekly-vessel-valuations-report-july-18-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-07-18_weekly-vessel-valuations-report-july-18-2023_img2.jpg
+
+Linked image asset: 2023-07-18_weekly-vessel-valuations-report-july-18-2023_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (72, 72)
+
+OCR text:
+© Vessels Value" © a
+18 July 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra LRL MR Cape Pmax Supra Handy pecs = : Pmax Handy = Fmax
+0 0.7% 41.1% +1.7% 40.7% +1.1% 0.1% 40.4% -0.7% --0.3% 40.2% -0.2% -2.6% -0.8%
+320k 160k 110k 75k 50k 180k 82k 60k 38% 7000 4250 1750 1100
+5 40.1% 41.2% +1.8% 40.7% +1.0% 40.3% -0.6% +0.1% -0.4% 0.0% -0.2% -3.3% -0.8%
+320k 160k 110k 75k 50k 180k 80k 60k 38% 7000 4250 1750 1100
+10 0.7% +1.2% +1.8% +0.7% +1.0% 40.3% -1.4% -0.1% 0.4% -0.2% -0.2% -5.8% -0.8%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
+1s 2.8% +1.1% +1.8% 40.7% +1.1% 0.2% - -2.0% -1.3% --0.4% 0.4% -0.2% -9.2% -0.8%
+310k 160k 110k 75k 50k 180k 80k 55k 30% 7000 4250 1750 1100
+20 5.4% 41.1% +1.6% 40.7% +1.3% 0.0% -2.3% 3.0% -0.4% 0.6% 0.2% -13.1% - -0.9%
+305% 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
+25 8.2% +1.1% +1.6% N/A +1.7% 0.0% -0.3% 3.6% -0.3% 0.8% 0.0% -16.6% -1.0%
+300k 150k 105k N/A 45k 170k 75k 48k 30% 6500 4000 1750 1100

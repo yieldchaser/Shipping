@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-08-19_weekly-vessel-valuations-report-august-19-2025.html
@@ -120,3 +120,40 @@ Containers
 Midage Handy Container values continue to rise as demand for second-hand vessels stays firm. Post Panamax newbuild values soften following recent orders
 Panamax Bach (3,534 TEU, Sept 2009, Shanghai Shipyard) sold to Asian buyers for USD 26 mil inc TC, VV Value USD 29.9 mil
 Image reference: 2025-08-19_weekly-vessel-valuations-report-august-19-2025_img2.jpg
+
+## Linked asset: 2025-08-19_weekly-vessel-valuations-report-august-19-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-08-19_weekly-vessel-valuations-report-august-19-2025_img1.png
+
+Linked image asset: 2025-08-19_weekly-vessel-valuations-report-august-19-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-08-19_weekly-vessel-valuations-report-august-19-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-08-19_weekly-vessel-valuations-report-august-19-2025_img2.jpg
+
+Linked image asset: 2025-08-19_weekly-vessel-valuations-report-august-19-2025_img2.jpg
+
+Image metadata: JPEG 678x314 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+Ds) VesselsValue ---£_@---
+19 August 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra wm mR Cape Pmax Supra Handy peed Pmax Handy Fmax
+-O.%6 0.7% 0.0% 0.0% 1% +LO0% +1.2% +0.2% +0.2% 14% 0.1% 0.1% 0.0%
+bd 320k 160k 11Sk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo
+5 0.1% 03% 0.0% 0.0% 0.0% +1L0% 10.2% 0.3% 10.2% 0.8% 03% 10.2% 0.0%
+320k 160k nlOk 7Sk SOk 180k 82k 60k 38k 7000 4250 1750 noo
+io 0.1% 0.0% 0.0% 70.1% 03% +10% 10.3% 70.7% 40.2% 0.3% 05% 10.5% 0.0%
+320k 160k nok 7Sk S5Ok 180k 80k 60k 35k 7000 4250 1750 loo
+s 0.1% 70.2% 0.0% 0.0% 0.0% +0.9% +1.2% +15% 40.2% 0.1% 0.7% +0.6% +0.1%
+3iOk 160k 0k 75k SOk 180k 80k SSK 30k 7000 4250 1750 noo
+Py 0.1% +0.3% 0.0% 0.0% +03% +10% +3S% +28% +0.3% 0.0% 0.8% 40.4% 40.1%
+510k 160k nok 70K 45k 180k 75k 58k 30k 7000 4250 1750 noo
+-O.% +0.2% 40.1% 0.0% +0.6% 0.0% +1.9% +44% +0.2% -O.% 0.6% 0.1% 0.0%
+si 300k 15Sk J0Sk 70k 45k 17Sk 75k 48k 30k 6500 4000 1750 noo

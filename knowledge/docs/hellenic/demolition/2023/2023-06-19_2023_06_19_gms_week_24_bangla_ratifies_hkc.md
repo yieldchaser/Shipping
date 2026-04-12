@@ -29,7 +29,7 @@ regions:
 - brazil
 - singapore
 - japan
-section_count: 2
+section_count: 4
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2023/2023-06-19_gms-week-24-bangla-ratifies-hkc.html
@@ -692,3 +692,31 @@ P R IC E S U S D
 E L
 / T
 Steel Plate Prices Page 8 of 8
+
+## Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img1.jpg
+Source asset: reports/hellenic/demolition/2023/2023-06-19_gms-week-24-bangla-ratifies-hkc_img1.jpg
+
+Linked image asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img2.jpg
+Source asset: reports/hellenic/demolition/2023/2023-06-19_gms-week-24-bangla-ratifies-hkc_img2.jpg
+
+Linked image asset: 2023-06-19_gms-week-24-bangla-ratifies-hkc_img2.jpg
+
+Image metadata: JPEG 688x240 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+OCR text:
+Rank Location Sentiment Dy Belk nai anaes
+USD/LDT USD/LDT USD / LDT
+| 4 [turkey | Steady | 320/ubT | 330/~pr | s40/LDT_|
+*Subject L/C approval

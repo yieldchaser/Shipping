@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-11-28_weekly-vessel-valuations-report-november-28-2023.html
@@ -118,3 +118,40 @@ MR2 (Chem/Product) Vasso (46,200 DWT, Nov 2006, STX Offshore) sold to undisclose
 Containers: 15YO secondhand values decreased c.4.5% for Sub Panamax and Handys
 Sub Panamax Leo Perdana (2,553 TEU, Nov 2007, Naikai Setoda) sold to Simatech Shipping for USD 11.05 mil, VV Value USD 11.48 mil
 Image reference: 2023-11-28_weekly-vessel-valuations-report-november-28-2023_img2.jpg
+
+## Linked asset: 2023-11-28_weekly-vessel-valuations-report-november-28-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-11-28_weekly-vessel-valuations-report-november-28-2023_img1.png
+
+Linked image asset: 2023-11-28_weekly-vessel-valuations-report-november-28-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-11-28_weekly-vessel-valuations-report-november-28-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-11-28_weekly-vessel-valuations-report-november-28-2023_img2.jpg
+
+Linked image asset: 2023-11-28_weekly-vessel-valuations-report-november-28-2023_img2.jpg
+
+Image metadata: JPEG 678x256 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+tb) VesselsValue ---
+28 November 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Sucz Afra LR MR Cape Pmax Supra Handy Pmax Pmax Handy = Fmax
+° 10.2% - 40.3% "0.1% 0.1% 10.1% 0.5% - -O.1% - -O.A% 0.7% 0.6% 0.8% --O.A% 1.0%
+920k 160k 110k 75k 50k 180k 82k 60k 38k 7000-4250 1750 1100
+5 +0.2% +0.3% 0.0% 0.0% +0.1% 0.5% 0.0% = +0.1% - -1.5% "0.7% - 0.8% - 0.8% -- 1.1%
+320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 ©4250 1750 1100
+10 +0.2% +0.3% +0.1% 0.0% +0.2% 0.8% 0.0% -+0.7% --1.9% 0.7% --0.7% == --2.2% = -1.1%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 ©4250 1750 1100
+1s 40.2% 40.3% +0.1% 0.0% +0.6% "1.3% - -0.1% = +1.0% - -1.3% "0.5% 0.7% = 4.2% = -1.0%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000-4250 1750 1100
+50 10.2% +0.4% 0.0% 0.0% +1.1% 0.0% 0.5% 0.7% 0.0% 0.2% 0.7% 6.6% 1.1%
+305K 155k 105k 70k 45k 175k 75k 50k 30k 6500-4000 1750 1100
+i 10.2% N/A 0.0% N/A +1.3% 0.0% - 0.0% - 0.2% 1.7% 0.9% 0.9% - 0.8% -0.9%
+300k 150k 105k NYA 45k 170k 75k 48k 30k 6500 4000 1750 1100

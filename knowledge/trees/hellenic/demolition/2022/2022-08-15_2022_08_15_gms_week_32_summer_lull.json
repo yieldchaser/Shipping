@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4968,
+  "token_count": 5301,
   "source_path": "reports/hellenic/demolition/2022/2022-08-15_gms-week-32-summer-lull.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-32-summer-lull",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4416,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-08-15_2022_08_15_gms_week_32_summer_lull__s03_linked_asset_2022_08_15_gms_week_32_summer_lull_img1_jpg",
+      "doc_id": "hellenic_demolition_2022-08-15_2022_08_15_gms_week_32_summer_lull",
+      "parent_id": "hellenic_demolition_2022-08-15_2022_08_15_gms_week_32_summer_lull__root",
+      "title": "Linked asset: 2022-08-15_gms-week-32-summer-lull_img1.jpg",
+      "section_path": [
+        "Linked asset: 2022-08-15_gms-week-32-summer-lull_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-08-15_gms-week-32-summer-lull_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2022/2022-08-15_gms-week-32-summer-lull_img1.jpg\n\nLinked image asset: 2022-08-15_gms-week-32-summer-lull_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-32-summer-lull_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-08-15_2022_08_15_gms_week_32_summer_lull__s04_linked_asset_2022_08_15_gms_week_32_summer_lull_img2_jpg",
+      "doc_id": "hellenic_demolition_2022-08-15_2022_08_15_gms_week_32_summer_lull",
+      "parent_id": "hellenic_demolition_2022-08-15_2022_08_15_gms_week_32_summer_lull__root",
+      "title": "Linked asset: 2022-08-15_gms-week-32-summer-lull_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-08-15_gms-week-32-summer-lull_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-08-15_gms-week-32-summer-lull_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2022/2022-08-15_gms-week-32-summer-lull_img2.jpg\n\nLinked image asset: 2022-08-15_gms-week-32-summer-lull_img2.jpg\n\nImage metadata: JPEG 771x353 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nTankers Z\n£ . Dry Bulk Containers\nDemo Rank Location Sentiment USD /\nUSD /LDT USD / LDT\nLDT\n580 /\n(small)\n1 Bangladesh Weak 570 / (small) LDT LDT 590 / (small) LDT\n570 /\n2 India Weak 560 / LDT LDT 580 / LDT\n560 /\n3 Pakistan Weak 550 / LDT LDT 570 / LDT\n250 /\nTurkey Weak 240 / LDT LDT 260 / LDT",
+      "keywords": [
+        "container",
+        "india",
+        "ldt",
+        "weak",
+        "small",
+        "usd",
+        "asset",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 192,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

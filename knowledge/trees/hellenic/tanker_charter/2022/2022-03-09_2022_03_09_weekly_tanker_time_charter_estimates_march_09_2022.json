@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Tanker Time Charter Estimates, March 09 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2022-03-09_weekly-tanker-time-charter-estimates-march-09-2022_img2.jpg\n\nLinked asset: 2022-03-09_weekly-tanker-time-charter-estimates-march-09-2022_img2.jpg\nSource asset: reports/hellenic/tanker_charter/2022/2022-03-09_weekly-tanker-time-charter-estimates-march-09-2022_img2.jpg\n\nLinked image asset: 2022-03-09_weekly-tanker-time-charter-estimates-march-09-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nShipping Limited *3 & Syrs inc scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1 YR 2 YR \"3 YR \"5 YR\nHANDY = 12,000 = 12,750 = 14,500 a 14,250\nMR IMO3 = 12,350 = 13,250 = 16,500 = 16,000\nLR1 = 14,500 = 15,250 = 17,500 = 17,250\nLR2 (115k dwt cpp & dpp) = 16,500 = 18,250 = 26,000 a 25,500\nAFRA (115« dwt) vw 15,500 = 17,000 = 25,000 = 25,000\nSUEZ > 18,000 = 20,000 = 28,000 ba 27,000\nVLCC = 20,500 = 22,500 = 34,000 = 36,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 32,
+  "token_count": 393,
   "source_path": "reports/hellenic/tanker_charter/2022/2022-03-09_weekly-tanker-time-charter-estimates-march-09-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-march-09-2022",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 30,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2022-03-09_2022_03_09_weekly_tanker_time_charter_estimates_march_09_2022__s02_linked_asset_2022_03_09_weekly_tanker_time_charter_estimates_march_09_2022_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2022-03-09_2022_03_09_weekly_tanker_time_charter_estimates_march_09_2022",
+      "parent_id": "hellenic_tanker_charter_2022-03-09_2022_03_09_weekly_tanker_time_charter_estimates_march_09_2022__root",
+      "title": "Linked asset: 2022-03-09_weekly-tanker-time-charter-estimates-march-09-2022_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-03-09_weekly-tanker-time-charter-estimates-march-09-2022_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-03-09_weekly-tanker-time-charter-estimates-march-09-2022_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2022/2022-03-09_weekly-tanker-time-charter-estimates-march-09-2022_img2.jpg\n\nLinked image asset: 2022-03-09_weekly-tanker-time-charter-estimates-march-09-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nShipping Limited *3 & Syrs inc scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1 YR 2 YR \"3 YR \"5 YR\nHANDY = 12,000 = 12,750 = 14,500 a 14,250\nMR IMO3 = 12,350 = 13,250 = 16,500 = 16,000\nLR1 = 14,500 = 15,250 = 17,500 = 17,250\nLR2 (115k dwt cpp & dpp) = 16,500 = 18,250 = 26,000 a 25,500\nAFRA (115« dwt) vw 15,500 = 17,000 = 25,000 = 25,000\nSUEZ > 18,000 = 20,000 = 28,000 ba 27,000\nVLCC = 20,500 = 22,500 = 34,000 = 36,000",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "asset",
+        "dwt",
+        "image",
+        "afra",
+        "charter",
+        "cpp"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 329,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

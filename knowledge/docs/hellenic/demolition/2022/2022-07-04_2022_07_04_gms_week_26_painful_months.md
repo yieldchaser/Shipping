@@ -28,7 +28,7 @@ regions:
 - europe
 - singapore
 - japan
-section_count: 2
+section_count: 4
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2022/2022-07-04_gms-week-26-painful-months.html
@@ -663,3 +663,27 @@ P R IC E S U S D
 E L
 / T
 Steel Plate Prices Page 8 of 8
+
+## Linked asset: 2022-07-04_gms-week-26-painful-months_img1.jpg
+Source asset: reports/hellenic/demolition/2022/2022-07-04_gms-week-26-painful-months_img1.jpg
+
+Linked image asset: 2022-07-04_gms-week-26-painful-months_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-07-04_gms-week-26-painful-months_img2.jpg
+Source asset: reports/hellenic/demolition/2022/2022-07-04_gms-week-26-painful-months_img2.jpg
+
+Linked image asset: 2022-07-04_gms-week-26-painful-months_img2.jpg
+
+Image metadata: JPEG 551x156 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]

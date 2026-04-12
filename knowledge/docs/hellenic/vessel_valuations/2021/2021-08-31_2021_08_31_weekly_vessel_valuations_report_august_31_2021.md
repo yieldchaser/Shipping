@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2021/2021-08-31_weekly-vessel-valuations-report-august-31-2021.html
@@ -85,3 +85,40 @@ Supramax Melati Laut (56,600 DWT, Dec 2011, Qingshan Shipyard) sold to Chinese b
 Container: Container values have firmed.
 Handy Container San Antonio (1,841 TEU, Feb 2008, Hyundai Mipo) sold to Seaboard Marine for USD 32.50 mil, VV value USD 30.58 mil.
 Image reference: 2021-08-31_weekly-vessel-valuations-report-august-31-2021_img2.jpg
+
+## Linked asset: 2021-08-31_weekly-vessel-valuations-report-august-31-2021_img1.png
+Source asset: reports/hellenic/vessel_valuations/2021/2021-08-31_weekly-vessel-valuations-report-august-31-2021_img1.png
+
+Linked image asset: 2021-08-31_weekly-vessel-valuations-report-august-31-2021_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-08-31_weekly-vessel-valuations-report-august-31-2021_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2021/2021-08-31_weekly-vessel-valuations-report-august-31-2021_img2.jpg
+
+Linked image asset: 2021-08-31_weekly-vessel-valuations-report-august-31-2021_img2.jpg
+
+Image metadata: JPEG 678x309 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+© VesselsValue
+31 August 2021 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra' =-sLR1 MR Cape Pmax Supra Handy roe Pmax Handy Fmax
+0 0.1% 40.6% -1.3% 0.3% 0.2% +1.0% +3.9% +3.1% +3.0% +2.1% +2.4% +3.1% +2.1%
+320K _160K__110K__75K__50K 180K___ 82K __-«60K__37K 7000 4250 __1750__1100
+5 1.2% 40.3% -1.3% 0.2% 0.1% +3.3% +3.4% +3.4% +2.4% +2.1% +2.4% +3.1% +1.7%
+320K _160K__110K__75K__50K 180K ___80K___-*60K__-30K 7000 4250 1750 __1100
+10 2.2% = -0.3% -1.3% 0.1% 0.2% +3.6% +2.8% +3.8% +3.7% +2.1% +2.4% +3.1% +1.8%
+310K 160K __110K__75K__50K 180K 80K__--60K__-30K 7000 4250 1750 __1100
+16 2.6% 0.8% -1.3% 0.6% -0.2% +2.3% +2.1% +4.7% +6.1% +2.1% +2.4% +3.1% +2.3%
+310K 160K __110K__70K__‘45K 180K ___75K__-"55K__30K 7000 4250 (1750 _1400
+20 1.6% -1.6% -1.6% -1.6% 0.1% -1.6% +1.3% +6.5% +9.4% +2.0% +2.4% +3.1% +3.1%
+300K 155K 105K 70K -_‘45K 175K __75K __50K__30K 6500 4000 (17501100
+25 1.6% NIA -1.6% -1.6% -1.5% -1.6% -1.7% +8.7% 413.3% +2.0% +2.4% +3.1% +3.9%
+295K N/A 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 1100

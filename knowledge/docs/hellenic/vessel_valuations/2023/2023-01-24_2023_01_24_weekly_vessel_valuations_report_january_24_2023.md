@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-01-24_weekly-vessel-valuations-report-january-24-2023.html
@@ -102,3 +102,40 @@ MR1 (Chem / Product) Olympic Vision (34,700 DWT, Sep 2006, Dalian Shipbuilding I
 Containers : Container values have softened
 No reported sales this week.
 Image reference: 2023-01-24_weekly-vessel-valuations-report-january-24-2023_img2.jpg
+
+## Linked asset: 2023-01-24_weekly-vessel-valuations-report-january-24-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-01-24_weekly-vessel-valuations-report-january-24-2023_img1.png
+
+Linked image asset: 2023-01-24_weekly-vessel-valuations-report-january-24-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-01-24_weekly-vessel-valuations-report-january-24-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-01-24_weekly-vessel-valuations-report-january-24-2023_img2.jpg
+
+Linked image asset: 2023-01-24_weekly-vessel-valuations-report-january-24-2023_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+© VesselsValue™
+24 January 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra RI MR Cape Pmax Supra Handy Fite, x Pmax Handy Fmax
+0 0.0% -0.1% +0.4% -0.7% 0.0% +0,3% +0,1% -2.9% -1.0% 4.8% -1.9% -0,2% -2.3%
+320K 160K 110K 75K 50K 180K 82K 60K 38K 7000 4250 1750 1100
+5 -0.1% -0.1% 40.5% -0.1% 0.0% +1.5% +0.1% -2.3% -2.1% 4.5% -1.8% -0.5% -1.9%
+320K 160K = 110K 75K 50K 180K BOK =60K = 38K 7000 «4250» 1750-1100
+10 0.2% --O.1% +0.4% +0.7% 0.0% +1.8% +0.1% -2.0% -2.2% 4.0% 2.7% -1.A% -1.5%
+320K 160K 110K 75K SOK 180K 80K 60K 32K 7000 4250 1750 1100
+1s 0.2% 0.1% 10.5% 41.4% 0.0% 11.4% 410.1% 1.8% -1.9% B.A% -AA% 3.9% 1%
+310K 160K 410K 75K 50K 180K 80K 55K 30K 7000 4250 1750 1100
+20 0.2% 0.1% 40.5% 42.3% 0.0% 0.0% 10.1% -2.0% -0.8% 2.8% 6.9% 9.2% --0.6%
+3OSK = I55K «105K 70K 45K 175K 75K SOK = 30K 6500 4000 «1750 = 1400
+95 0.2% N/A +0.5% +2.9% 0.0% 0.0% +0.1% -2.4% +1.0% 1.5% -9.2% -17.9% -0.3%
+300K N/A 105K 65K 45K 170K 75K 48K 30K 6500 4000 1750 1100

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 251,
+  "token_count": 459,
   "source_path": "reports/hellenic/iron_ore/2018/2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018.html",
   "source_url": "https://www.hellenicshippingnews.com/chinese-iron-ore-and-steelmaking-prices-july-19-2018",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 249,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2018-07-19_2018_07_19_chinese_iron_ore_and_steelmaking_prices_july_19_2018__s02_linked_asset_2018_07_19_chinese_iron_ore_and_steelmaking_prices_july_19_2018_img2_jpg",
+      "doc_id": "hellenic_iron_ore_2018-07-19_2018_07_19_chinese_iron_ore_and_steelmaking_prices_july_19_2018",
+      "parent_id": "hellenic_iron_ore_2018-07-19_2018_07_19_chinese_iron_ore_and_steelmaking_prices_july_19_2018__root",
+      "title": "Linked asset: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg",
+      "section_path": [
+        "Linked asset: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/2018/2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg\n\nLinked image asset: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg\n\nImage metadata: JPEG 878x791 mode=RGB\n\nOCR text:\nOverview of Iron and Steel Indicators in China on Jul 19, 2018\nBilt | ‘Square Bilt --=-=-«S20--=S AO SCTangshan\n|\nCusteel Index on Jul 18, 2018\n; 62%-Fe fines US$ 63.84 0.48 CFR Qingdao\nOre Price Index\nLU i %-F",
+      "keywords": [
+        "china",
+        "steel",
+        "asset",
+        "bilt",
+        "image",
+        "jul",
+        "cfr",
+        "chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

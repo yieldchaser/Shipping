@@ -18,13 +18,92 @@ regions:
 - west_africa
 - europe
 - china
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units:
+  - usd_per_day
+  rate_observations:
+  - segment: mr
+    source_line: MR IMO3 30,000 27,000 29,000 25,500
+    timeframe: null
+    unit: null
+    values:
+    - 30000.0
+    - 27000.0
+    - 29000.0
+    - 25500.0
+  - segment: lr1
+    source_line: LR1 \ 39,000 34,000 33,000 31,000
+    timeframe: null
+    unit: null
+    values:
+    - 39000.0
+    - 34000.0
+    - 33000.0
+    - 31000.0
+  - segment: lr2
+    source_line: LR2 $1,500 42,500 44,500 Vv 38,500
+    timeframe: null
+    unit: usd_per_day
+    values:
+    - 1500.0
+    - 42500.0
+    - 44500.0
+    - 38500.0
+  rate_summary:
+    lr1: 31000.0
+    lr2: 38500.0
+    mr: 25500.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2024/2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024.html
 source_stem: 2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024
 source_url: https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-june-26-2024
-summary: ''
+summary: 'Main
+
+  Image reference: 2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+
+
+  Linked asset: 2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+
+  Source asset: reports/hellenic/tanker_charter/2024/2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+
+
+  Linked image asset: 2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (144.0, 144.0)
+
+
+  OCR text:
+
+  y 3 | A LI B R A Updated Weds 26 Jun 2024
+
+  Shipping Umited * Eco tonnage with Scrubber fitted
+
+  TANKER TIME CHARTER ESTIMATE ($/pdpr)
+
+  SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+
+  HANDY v 28,000 26,000 24,000 22,000
+
+  MR IMO3 30,000 27,000 29,000 25,500
+
+  LR1 \ 39,000 34,000 33,000 31,000
+
+  LR2 $1,500 42,500 44,500 Vv 38,500
+
+  AFRA (115k dwt) 50,000 42,500 43,500 v 37,500
+
+  SUEZ 45,000 42,500 45,500 42,500
+
+  vicc 47,500 45,000 54,500 47,500'
 themes:
 - image
 - main
@@ -35,7 +114,58 @@ vessel_classes:
 - vlcc
 - suezmax
 - aframax
+- handysize
 ---
+
+## Summary
+Main
+Image reference: 2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+
+Linked asset: 2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2024/2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+
+Linked image asset: 2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+y 3 | A LI B R A Updated Weds 26 Jun 2024
+Shipping Umited * Eco tonnage with Scrubber fitted
+TANKER TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+HANDY v 28,000 26,000 24,000 22,000
+MR IMO3 30,000 27,000 29,000 25,500
+LR1 \ 39,000 34,000 33,000 31,000
+LR2 $1,500 42,500 44,500 Vv 38,500
+AFRA (115k dwt) 50,000 42,500 43,500 v 37,500
+SUEZ 45,000 42,500 45,500 42,500
+vicc 47,500 45,000 54,500 47,500
 
 ## Main
 Image reference: 2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+
+## Linked asset: 2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2024/2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+
+Linked image asset: 2024-06-26_weekly-tanker-time-charter-estimates-june-26-2024_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+y 3 | A LI B R A Updated Weds 26 Jun 2024
+Shipping Umited * Eco tonnage with Scrubber fitted
+TANKER TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+HANDY v 28,000 26,000 24,000 22,000
+MR IMO3 30,000 27,000 29,000 25,500
+LR1 \ 39,000 34,000 33,000 31,000
+LR2 $1,500 42,500 44,500 Vv 38,500
+AFRA (115k dwt) 50,000 42,500 43,500 v 37,500
+SUEZ 45,000 42,500 45,500 42,500
+vicc 47,500 45,000 54,500 47,500

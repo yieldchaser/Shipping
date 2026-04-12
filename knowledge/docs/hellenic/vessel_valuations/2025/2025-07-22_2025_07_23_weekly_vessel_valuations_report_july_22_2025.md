@@ -32,7 +32,8 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+- brazil
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-07-23_weekly-vessel-valuations-report-july-22-2025.html
@@ -101,3 +102,40 @@ Panamax Spring C (3,450 TEU, Jan 2007, Hyundai Mipo) sold to CMA CGM for USD 28 
 Feedermax Vega Alpha (917 TEU, Nov 2005, Volharding) sold to buyers from the UAE for USD 8 mil, VV Value USD 8.3 mil.
 Feedermax Shecan (908 TEU, Oct 2008, Nanjing Wujiazui) sold to Middle Eastern buyers for USD 9.5 mil, VV Value USD 9.1 mil.
 Image reference: 2025-07-23_weekly-vessel-valuations-report-july-22-2025_img2.jpg
+
+## Linked asset: 2025-07-23_weekly-vessel-valuations-report-july-22-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-07-23_weekly-vessel-valuations-report-july-22-2025_img1.png
+
+Linked image asset: 2025-07-23_weekly-vessel-valuations-report-july-22-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-07-23_weekly-vessel-valuations-report-july-22-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-07-23_weekly-vessel-valuations-report-july-22-2025_img2.jpg
+
+Linked image asset: 2025-07-23_weekly-vessel-valuations-report-july-22-2025_img2.jpg
+
+Image metadata: JPEG 678x314 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+© VessetsVale
+22 duly 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra, LRT MR Cape Pmax Supra Handy = POE pmax Handy Fmax
+‘ 03% O34 406% 402% 0.0% 403% 403% «03% 10.4% 0.0% +02% +10% +15%
+320k 160k nSk 75k SOk 180k 82k 62k 38x 7000 4250 1780 noo
+< 06% 03% 102% «40.1% 0.0% 103% = FI 04% 40.7% 10.1% 40.2% «= 40.2% = 40.8%
+320k 160k nlOk 7Sk SOK 180K 82k 60k 38k 7000 4250 1730 noo
+5 108% 03% 02% +0.% 0.0% 203% +R 02% 1.0% 10.2% +02% 409% +0.5%
+320k 160k nok 7k SOk 180k 80k 60k 35k 7000 4250 1780 noo
+é 435% 03% 05% = 40.1% 0.1% 103% 40.8% 40.4% «10.8% 10.2% «40.2% +2 40.5%
+3i0k 160K lok 7Sk SOK 180K 80k SSk 30k 7000 4250 17530 noo
+= +6.0% 03% 05% +0.1% 0.0% 104% O3% +h 03% 40.2% 40.1% «= +28% 40.3%
+310k 160K nNt0k 70k 45k 180k Tsk SSk 30k 7000 4250 780 n00
+a +1T% OS -O4% 410.0% 0.0% AQ AZ HHH OH 10.2% 40.1% = 2.6% 1.0%
+300k 1SSk 105k 70k 45k 178k 75k 48k 30k 6500 4000 1780 noo

@@ -21,13 +21,82 @@ regions:
 - china
 - brazil
 - australia
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: handysize
+    source_line: HANDY (38am) | A 12,750 | Vv 11,250 4 12.750 |¥ 11,500 11,000 11,000
+    timeframe: null
+    unit: null
+    values:
+    - 38.0
+    - 12750.0
+    - 11250.0
+    - 12.75
+    - 11500.0
+    - 11000.0
+    - 11000.0
+  - segment: capesize
+    source_line: CAPESIZE 20,000 20,000 | 4 20500 | a 20,250 19,250 19,250
+    timeframe: null
+    unit: null
+    values:
+    - 20000.0
+    - 20000.0
+    - 20500.0
+    - 20250.0
+    - 19250.0
+    - 19250.0
+  rate_summary:
+    capesize: 19250.0
+    handysize: 11000.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/dry_charter/2024/2024-01-24_weekly-dry-time-charter-estimates-january-24-2024.html
 source_stem: 2024-01-24_weekly-dry-time-charter-estimates-january-24-2024
 source_url: https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-january-24-2024
-summary: ''
+summary: 'Main
+
+  Image reference: 2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+
+
+  Linked asset: 2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+
+  Source asset: reports/hellenic/dry_charter/2024/2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+
+
+  Linked image asset: 2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (144.0, 144.0)
+
+
+  OCR text:
+
+  , A [| B R A Updated Weds 24 Jan 2023
+
+  Shipping United
+
+  DRY TIME CHARTER ESTIMATES ($/pdpr)
+
+  PERIOD 4/6 MOS 1YR 2YR
+
+  SIZE ATL PAC ATL PAC ATL PAC
+
+  HANDY (38am) | A 12,750 | Vv 11,250 4 12.750 |¥ 11,500 11,000 11,000
+
+  SMAXIULTRA | & 15,500 13,500 | 4 14,500 13,250 12,500 12,500
+
+  PANAWKMAX | & 20,000 | 14,250 | 4 17,250 |& 16250 | 4 15,000 | 4 13,750
+
+  CAPESIZE 20,000 20,000 | 4 20500 | a 20,250 19,250 19,250'
 themes:
 - image
 - main
@@ -41,5 +110,51 @@ vessel_classes:
 - handysize
 ---
 
+## Summary
+Main
+Image reference: 2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+
+Linked asset: 2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+Source asset: reports/hellenic/dry_charter/2024/2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+
+Linked image asset: 2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+, A [| B R A Updated Weds 24 Jan 2023
+Shipping United
+DRY TIME CHARTER ESTIMATES ($/pdpr)
+PERIOD 4/6 MOS 1YR 2YR
+SIZE ATL PAC ATL PAC ATL PAC
+HANDY (38am) | A 12,750 | Vv 11,250 4 12.750 |¥ 11,500 11,000 11,000
+SMAXIULTRA | & 15,500 13,500 | 4 14,500 13,250 12,500 12,500
+PANAWKMAX | & 20,000 | 14,250 | 4 17,250 |& 16250 | 4 15,000 | 4 13,750
+CAPESIZE 20,000 20,000 | 4 20500 | a 20,250 19,250 19,250
+
 ## Main
 Image reference: 2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+
+## Linked asset: 2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+Source asset: reports/hellenic/dry_charter/2024/2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+
+Linked image asset: 2024-01-24_weekly-dry-time-charter-estimates-january-24-2024_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+, A [| B R A Updated Weds 24 Jan 2023
+Shipping United
+DRY TIME CHARTER ESTIMATES ($/pdpr)
+PERIOD 4/6 MOS 1YR 2YR
+SIZE ATL PAC ATL PAC ATL PAC
+HANDY (38am) | A 12,750 | Vv 11,250 4 12.750 |¥ 11,500 11,000 11,000
+SMAXIULTRA | & 15,500 13,500 | 4 14,500 13,250 12,500 12,500
+PANAWKMAX | & 20,000 | 14,250 | 4 17,250 |& 16250 | 4 15,000 | 4 13,750
+CAPESIZE 20,000 20,000 | 4 20500 | a 20,250 19,250 19,250

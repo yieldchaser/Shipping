@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 6099,
+  "token_count": 6352,
   "source_path": "reports/hellenic/demolition/2024/2024-07-22_gms-week-29-decidedly-dicey.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-29-decidedly-dicey",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 5438,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-07-22_2024_07_22_gms_week_29_decidedly_dicey__s03_linked_asset_2024_07_22_gms_week_29_decidedly_dicey_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-07-22_2024_07_22_gms_week_29_decidedly_dicey",
+      "parent_id": "hellenic_demolition_2024-07-22_2024_07_22_gms_week_29_decidedly_dicey__root",
+      "title": "Linked asset: 2024-07-22_gms-week-29-decidedly-dicey_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-22_gms-week-29-decidedly-dicey_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-22_gms-week-29-decidedly-dicey_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-07-22_gms-week-29-decidedly-dicey_img1.jpg\n\nLinked image asset: 2024-07-22_gms-week-29-decidedly-dicey_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-29-decidedly-dicey_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 100,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-07-22_2024_07_22_gms_week_29_decidedly_dicey__s04_linked_asset_2024_07_22_gms_week_29_decidedly_dicey_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-07-22_2024_07_22_gms_week_29_decidedly_dicey",
+      "parent_id": "hellenic_demolition_2024-07-22_2024_07_22_gms_week_29_decidedly_dicey__root",
+      "title": "Linked asset: 2024-07-22_gms-week-29-decidedly-dicey_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-22_gms-week-29-decidedly-dicey_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-22_gms-week-29-decidedly-dicey_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-07-22_gms-week-29-decidedly-dicey_img2.jpg\n\nLinked image asset: 2024-07-22_gms-week-29-decidedly-dicey_img2.jpg\n\nImage metadata: JPEG 690x168 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-29-decidedly-dicey_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 100,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

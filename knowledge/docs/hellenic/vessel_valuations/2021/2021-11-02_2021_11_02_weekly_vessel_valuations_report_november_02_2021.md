@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2021/2021-11-02_weekly-vessel-valuations-report-november-02-2021.html
@@ -88,3 +88,40 @@ Panamax Key Discovery (82,200 DWT, Nov 2010, Tadotsu Tsuneishi), sold to Greek b
 Container: Panamax values have softened.
 No transactions to report.
 Image reference: 2021-11-02_weekly-vessel-valuations-report-november-02-2021_img2.jpg
+
+## Linked asset: 2021-11-02_weekly-vessel-valuations-report-november-02-2021_img1.png
+Source asset: reports/hellenic/vessel_valuations/2021/2021-11-02_weekly-vessel-valuations-report-november-02-2021_img1.png
+
+Linked image asset: 2021-11-02_weekly-vessel-valuations-report-november-02-2021_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-11-02_weekly-vessel-valuations-report-november-02-2021_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2021/2021-11-02_weekly-vessel-valuations-report-november-02-2021_img2.jpg
+
+Linked image asset: 2021-11-02_weekly-vessel-valuations-report-november-02-2021_img2.jpg
+
+Image metadata: JPEG 678x281 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+oO VesselsValue™ --a-----------------_-_-_=_=_ a
+02 November 2021 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra LR1 MR Cape Pmax Supra Handy Pea Pmax Handy = Fmax
+é +0.4% +0.6% +0.2% +0.4% +3.5% -1.2% -2.4% -3.2% -2.4% +1.8% -0.9% +0.4% -0.7%
+320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100
+; +0.5% +0.9% +0.6% +0.4% +0.1% -0.9% -3.3% -3.2% -1.9% +1.8% -1.6% +0.3% +1.5%
+320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+-" 40.7% +1.7% +1.4% +0.4% -2.6% -0.1% -3.3% -3.2% -1.5% +1.8% -2.3% +0.1% +2.3%
+310K 160K =: 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+ge +0.7% +2.3% +1.3% 40.4% -2.3% +1.2% -2.6% -2.7% -1.1% +1.8% -3.1% 0.0% +1.9%
+310K 160K = 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100
+0 +0.7% +0.8% +0.8% 40.9% +0.9% +40.9% -1.2% -2.3% -0.6% +1.9% -3.7% -0.1% +0.6%
+300K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+oS +0.8% N/A +0.8% 40.8% 40.9% +0.8% +0.4% -2.2% -0.1% +1.9% -4.4% -0.2% -1.3%
+295K N/A 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 #1100

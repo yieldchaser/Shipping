@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-09-09_weekly-vessel-valuations-report-september-09-2025.html
@@ -113,3 +113,40 @@ Containers: Midage Feedermaxes are up following a recent sale, other sectors rem
 Handy Container Alexander L (1,368 TEU, Jul 2011, Wuhu Xinlian Shipbuilding) sold for USD 19 mil, VV Value USD 18.71 mil
 Feedermax Nordic Porto (1,084 TEU, Jan 2011, Nanjing Wijiazu) sold for USD 14.61 mil, VV Value USD 13.48 mil
 Image reference: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img2.jpg
+
+## Linked asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-09-09_weekly-vessel-valuations-report-september-09-2025_img1.png
+
+Linked image asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-09-09_weekly-vessel-valuations-report-september-09-2025_img2.jpg
+
+Linked image asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img2.jpg
+
+Image metadata: JPEG 678x314 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+(Ds) VesselsValue --------- eon
+09 September 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra LRT MR Cape Prax Supra Handy eed Pmax Handy Fmax
+‘ 104% 10.3% O46 0.0% 10.3% 20.3% OS® 10.3% 10.3% 0.0% 10.2% 0.0% +0.%
+320k 160k NSk 75k 50k 180k 82k 62k ak 7000 4250 1750 noo
+‘ 10.1% 10.1% =O. 0.0% 10.2% 103% 408% 412% = -0.1% 00% 03% 10.4% 10.9%
+320k Ok Ok Tsk Sk 180k 82k 60k 3k 7000 4250 1780 neo
+% 02% 40.1% 102% 0.0% 10.2% 103% 60.7% 416% 1.0% 0.0% 403% 40.7% 1.9%
+320k 160k nok Tsk SOk 180k 80k 60k Sk 7000 4250 780 neo
+04% 40.2% = 10.4% 0.0% 40.3% 103% 0.7% = 0.6% 7% 00% 403% «= 10.7% 42.7%
+id 310k 160k 10k 75k 50k 180k 80k 55k 30k 7000 4250 1750 noo
+35 05% 405% «10.4% 0H 10.3% 04% 33% AK 16% 0.0% 0.0% 05% +27%
+310k 160k NOk 70k 45k 160k 75k SSk 30k 7000 4250 1790 neo
+03% Lae +0.3% 0.0% 10.3% ae 68% ATS OBe 0.0% 0.7% 20.2% 90.7%
+te 300k 155k 105k 70k 45k 195k 78k 48k 30k 6500 4000 1750 noo

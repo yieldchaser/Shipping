@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-08-26_weekly-vessel-valuations-report-august-26-2025.html
@@ -126,3 +126,40 @@ Midage Handy and Sub Panamax Container values continue to rise as demand for sec
 Handy Container Honrise (1,662 TEU, Jul 2001, Shin Kurushima Onishi) sold to FESCO for USD 13 mil, VV Value USD 12.7 mil
 Handy Container Easline Dalian (1,675 TEU, Oct 1998, Kanasashi) sold to Unknown buyers for USD 10 mil, VV Value USD 10.5 mil
 Image reference: 2025-08-26_weekly-vessel-valuations-report-august-26-2025_img2.jpg
+
+## Linked asset: 2025-08-26_weekly-vessel-valuations-report-august-26-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-08-26_weekly-vessel-valuations-report-august-26-2025_img1.png
+
+Linked image asset: 2025-08-26_weekly-vessel-valuations-report-august-26-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-08-26_weekly-vessel-valuations-report-august-26-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-08-26_weekly-vessel-valuations-report-august-26-2025_img2.jpg
+
+Linked image asset: 2025-08-26_weekly-vessel-valuations-report-august-26-2025_img2.jpg
+
+Image metadata: JPEG 678x314 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+Ds) VesselsValue ---£_@---
+26 August 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra wm mR Cape Pmax Supra Handy peed Pmax Handy Fmax
+-0.% +0.1% 0.0% 0.0% 0.0% 40.7% +0.8% +0.7% 03% 0.0% +0.1% -0.1% 40.1%
+: 320k 160k nSk 75k SOk 180k 82k 62k 38k 7000 4250 1750 noo
+-0.1% 0.0% 0.0% 0.0% 0.0% +18% 2% -0.1% 0.2% 0.0% +0.2% +O8% +0.1%6
+4 320k 160k NlOk 75k 50k 180k 82k 60k 38k 7000 4250 1750 n1l00
+io 0.1% 0.0% 0.0% 0.0% 0.0% +23% OAK 0.3% 0.2% 0.0% 70.3% +1.6% 10.1%
+320k 160k T10k 75k SOk 180k 80k 60k 35k 7000 4250 1750 n100
+0.1% 0.0% 0.0% 0.0% 0.0% +24% +2.3% 10.4% 05% 70.1% +0.2% +24% +0.1%
+id 310k 160k NOk 75k 50k 180k 80k 55k 30k 7000 4250 1750 noo
+20 0.2% 0.0% 0.0% 0.0% 0.0% +2.0% +6.6% +1.7% 0.9% +0.1% 0.0% 42.9% +0.1%
+310k 160k Nok 70k 45k 180k 75k 55k 30k 7000 4250 1750 noo
+-0.2% +0.1% 0.0% 0.0% 0.0% 0.0% +1.6% +42% 14% 40.1% 05% 429% 40.1%
+= 300k 15Sk 105k 70k 45k 17Sk 75k 48k 30k 6500 4000 1750 noo

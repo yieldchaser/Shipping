@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4867,
+  "token_count": 5138,
   "source_path": "reports/hellenic/demolition/2023/2023-07-10_gms-week-27-lethargic.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-27-lethargic",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4398,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-07-10_2023_07_10_gms_week_27_lethargic__s03_linked_asset_2023_07_10_gms_week_27_lethargic_img1_jpg",
+      "doc_id": "hellenic_demolition_2023-07-10_2023_07_10_gms_week_27_lethargic",
+      "parent_id": "hellenic_demolition_2023-07-10_2023_07_10_gms_week_27_lethargic__root",
+      "title": "Linked asset: 2023-07-10_gms-week-27-lethargic_img1.jpg",
+      "section_path": [
+        "Linked asset: 2023-07-10_gms-week-27-lethargic_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-07-10_gms-week-27-lethargic_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-07-10_gms-week-27-lethargic_img1.jpg\n\nLinked image asset: 2023-07-10_gms-week-27-lethargic_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-27-lethargic_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-07-10_2023_07_10_gms_week_27_lethargic__s04_linked_asset_2023_07_10_gms_week_27_lethargic_img2_jpg",
+      "doc_id": "hellenic_demolition_2023-07-10_2023_07_10_gms_week_27_lethargic",
+      "parent_id": "hellenic_demolition_2023-07-10_2023_07_10_gms_week_27_lethargic__root",
+      "title": "Linked asset: 2023-07-10_gms-week-27-lethargic_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-07-10_gms-week-27-lethargic_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-07-10_gms-week-27-lethargic_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-07-10_gms-week-27-lethargic_img2.jpg\n\nLinked image asset: 2023-07-10_gms-week-27-lethargic_img2.jpg\n\nImage metadata: JPEG 827x256 mode=RGB\n\nEmbedded info:\ndpi: (144, 144)\n\nOCR text:\n. Dry Bulk | Tankers Containers\nRank Location _-_‘Sentiment\nUSD/LDI__USD/LDT _USD/LDT\nBangladesh* 575/LDT | 605/LDT | 625/LDT",
+      "keywords": [
+        "container",
+        "ldt",
+        "asset",
+        "image",
+        "bangladesh",
+        "containers",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

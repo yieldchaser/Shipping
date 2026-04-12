@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5644,
+  "token_count": 5891,
   "source_path": "reports/hellenic/demolition/2024/2024-04-02_gms-week-13-stay-highor-nigh.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-13-stay-highor-nigh",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4949,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-04-02_2024_04_02_gms_week_13_stay_highor_nigh__s03_linked_asset_2024_04_02_gms_week_13_stay_highor_nigh_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-04-02_2024_04_02_gms_week_13_stay_highor_nigh",
+      "parent_id": "hellenic_demolition_2024-04-02_2024_04_02_gms_week_13_stay_highor_nigh__root",
+      "title": "Linked asset: 2024-04-02_gms-week-13-stay-highor-nigh_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-04-02_gms-week-13-stay-highor-nigh_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-04-02_gms-week-13-stay-highor-nigh_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-04-02_gms-week-13-stay-highor-nigh_img1.jpg\n\nLinked image asset: 2024-04-02_gms-week-13-stay-highor-nigh_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-13-stay-highor-nigh_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-04-02_2024_04_02_gms_week_13_stay_highor_nigh__s04_linked_asset_2024_04_02_gms_week_13_stay_highor_nigh_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-04-02_2024_04_02_gms_week_13_stay_highor_nigh",
+      "parent_id": "hellenic_demolition_2024-04-02_2024_04_02_gms_week_13_stay_highor_nigh__root",
+      "title": "Linked asset: 2024-04-02_gms-week-13-stay-highor-nigh_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-04-02_gms-week-13-stay-highor-nigh_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-04-02_gms-week-13-stay-highor-nigh_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-04-02_gms-week-13-stay-highor-nigh_img2.jpg\n\nLinked image asset: 2024-04-02_gms-week-13-stay-highor-nigh_img2.jpg\n\nImage metadata: JPEG 686x187 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-13-stay-highor-nigh_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

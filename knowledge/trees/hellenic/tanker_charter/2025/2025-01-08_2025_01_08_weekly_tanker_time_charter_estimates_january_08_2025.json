@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Tanker Time Charter Estimates, January 08 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2025-01-08_weekly-tanker-time-charter-estimates-january-08-2025_img2.jpg\n\nLinked asset: 2025-01-08_weekly-tanker-time-charter-estimates-january-08-2025_img2.jpg\nSource asset: reports/hellenic/tanker_charter/2025/2025-01-08_weekly-tanker-time-charter-estimates-january-08-2025_img2.jpg\n\nLinked image asset: 2025-01-08_weekly-tanker-time-charter-estimates-january-08-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\n7 <3| ALIBRA Updated Weds 08/01/2028\nEA Sncvina unos + Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE (S/pdpr)\nsize 4 YEAR 2YEAR 3 YEAR\" 5 YEAR\nHanoy | ¥ 21,000 | ¥ - 20,000 21,000 21,000\nMR Mos 21,500 21,000 |¥ 23,000 |v 22,500\nut y 24000 |v 24000 |v 25,500 |v 25,000\nure 32,500 30,500 | ¥ 32,500 33,500\nAERA (115k om) 34,000 33,000 32,500 32,500\nsuez |v 36500 |v 35,500 | ¥ 40,000 37,500\nvice 41,500 42,500 |¥ 47,500 |v 47,500",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 33,
+  "token_count": 394,
   "source_path": "reports/hellenic/tanker_charter/2025/2025-01-08_weekly-tanker-time-charter-estimates-january-08-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-january-08-2025",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 31,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2025-01-08_2025_01_08_weekly_tanker_time_charter_estimates_january_08_2025__s02_linked_asset_2025_01_08_weekly_tanker_time_charter_estimates_january_08_2025_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2025-01-08_2025_01_08_weekly_tanker_time_charter_estimates_january_08_2025",
+      "parent_id": "hellenic_tanker_charter_2025-01-08_2025_01_08_weekly_tanker_time_charter_estimates_january_08_2025__root",
+      "title": "Linked asset: 2025-01-08_weekly-tanker-time-charter-estimates-january-08-2025_img2.jpg",
+      "section_path": [
+        "Linked asset: 2025-01-08_weekly-tanker-time-charter-estimates-january-08-2025_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-01-08_weekly-tanker-time-charter-estimates-january-08-2025_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2025/2025-01-08_weekly-tanker-time-charter-estimates-january-08-2025_img2.jpg\n\nLinked image asset: 2025-01-08_weekly-tanker-time-charter-estimates-january-08-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\n7 <3| ALIBRA Updated Weds 08/01/2028\nEA Sncvina unos + Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE (S/pdpr)\nsize 4 YEAR 2YEAR 3 YEAR\" 5 YEAR\nHanoy | ¥ 21,000 | ¥ - 20,000 21,000 21,000\nMR Mos 21,500 21,000 |¥ 23,000 |v 22,500\nut y 24000 |v 24000 |v 25,500 |v 25,000\nure 32,500 30,500 | ¥ 32,500 33,500\nAERA (115k om) 34,000 33,000 32,500 32,500\nsuez |v 36500 |v 35,500 | ¥ 40,000 37,500\nvice 41,500 42,500 |¥ 47,500 |v 47,500",
+      "keywords": [
+        "year",
+        "asset",
+        "image",
+        "aera",
+        "alibra",
+        "charter",
+        "dpi",
+        "eco"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 328,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

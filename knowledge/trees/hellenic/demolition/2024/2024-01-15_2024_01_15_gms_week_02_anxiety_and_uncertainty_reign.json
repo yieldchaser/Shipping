@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5280,
+  "token_count": 5539,
   "source_path": "reports/hellenic/demolition/2024/2024-01-15_gms-week-02-anxiety-and-uncertainty-reign.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-02-anxiety-and-uncertainty-reign",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4601,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-01-15_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign__s03_linked_asset_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-01-15_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign",
+      "parent_id": "hellenic_demolition_2024-01-15_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign__root",
+      "title": "Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img1.jpg\n\nLinked image asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-02-anxiety-and-uncertainty-reign_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-01-15_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign__s04_linked_asset_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-01-15_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign",
+      "parent_id": "hellenic_demolition_2024-01-15_2024_01_15_gms_week_02_anxiety_and_uncertainty_reign__root",
+      "title": "Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img2.jpg\n\nLinked image asset: 2024-01-15_gms-week-02-anxiety-and-uncertainty-reign_img2.jpg\n\nImage metadata: JPEG 688x167 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-02-anxiety-and-uncertainty-reign_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

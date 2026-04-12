@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 151,
+  "token_count": 499,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-09-29_weekly-tanker-time-charter-estimates-september-29-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-september-29-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 149,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2021-09-29_2021_09_29_weekly_tanker_time_charter_estimates_september_29_2021__s02_linked_asset_2021_09_29_weekly_tanker_time_charter_estimates_september_29_2021_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2021-09-29_2021_09_29_weekly_tanker_time_charter_estimates_september_29_2021",
+      "parent_id": "hellenic_tanker_charter_2021-09-29_2021_09_29_weekly_tanker_time_charter_estimates_september_29_2021__root",
+      "title": "Linked asset: 2021-09-29_weekly-tanker-time-charter-estimates-september-29-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-09-29_weekly-tanker-time-charter-estimates-september-29-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-09-29_weekly-tanker-time-charter-estimates-september-29-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-09-29_weekly-tanker-time-charter-estimates-september-29-2021_img2.jpg\n\nLinked image asset: 2021-09-29_weekly-tanker-time-charter-estimates-september-29-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALl B RA Updoted Wednesday 29 September 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR \"3 YR *5 YR\nHANDY * 11,000 = 12,250 14,500 = 14,250\nMR IMO3 = 12,000 = 13,000 = 16,000 = 16,350\nLRI = 13,500 = 15,250 = 17,250 ba 17,500\nLR2 = 16,500 = 19,750 = 24,950 Le 25,500\nAFRA = 15,750 = 18,000 = 23,000 o 24,500\nSUEZ = 18,000 = 19,500 = 26,000 a 27,000\nvicc 4 25,000 = 25,500 = 35,000 = 36,500",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "afra",
+        "all",
+        "charter",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 315,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

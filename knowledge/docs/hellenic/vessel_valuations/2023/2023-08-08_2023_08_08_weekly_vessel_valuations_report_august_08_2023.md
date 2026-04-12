@@ -32,7 +32,7 @@ regions:
 - europe
 - meg
 - india
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-08-08_weekly-vessel-valuations-report-august-08-2023.html
@@ -114,3 +114,40 @@ MR2 (Chem/Product) Cassiopeia II (50,700 DWT, Jul 2008, SPP) sold to unknown Far
 Containers : Secondhand values softened for older vessels in ULCV and New Panamax sectors
 Handy Wan Hai 267 (1,662 TEU, Jun 2002, Shin Kurushima Onishi) sold by Wan Hai Lines to Indian buyer for an undisclosed price, VV Value USD 6.66 mil
 Image reference: 2023-08-08_weekly-vessel-valuations-report-august-08-2023_img2.jpg
+
+## Linked asset: 2023-08-08_weekly-vessel-valuations-report-august-08-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-08-08_weekly-vessel-valuations-report-august-08-2023_img1.png
+
+Linked image asset: 2023-08-08_weekly-vessel-valuations-report-august-08-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-08-08_weekly-vessel-valuations-report-august-08-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-08-08_weekly-vessel-valuations-report-august-08-2023_img2.jpg
+
+Linked image asset: 2023-08-08_weekly-vessel-valuations-report-august-08-2023_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (72, 72)
+
+OCR text:
+© Vessels Value" © a
+08 August 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra LRL MR Cape Pmax Supra Handy pce = a Pmax Handy = Fmax
+6 +0.2% 40.5% +0.9% 40.3% +0.8% 0.6% -0.4% -0.1% -1.1% 1.2% -0.8% -1.2% -1.0%
+320k 160k 110k 75k 50k 180k 82k 60k 38% 7000 4250 1750 1100
+5 0.6% +0.5% +0.9% +0.3% +0.7% 0.6% 0.0% 0.1% 0.5% "1.1% -0.8% -1.1% - -1.0%
+320k 160k 110k 75k 50k 180k 80% 60k 38% 7000 4250 1750 1100
+10 0.6% 40.5% +0.3% +0.3% +0.4% 0.6% -0.3% 0.0% +0.4% "1.1% --0.7% --1.1% - -1.0%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
+1s 0.1% 40.5% -1.0% +0.3% --0.2% "0.6% -1.2% -0.1% - +1.5% "1.0% -0.7% -1.1% - -1.0%
+310k 160k 110k 75k 50k 180k 80k 55k 30% 7000 4250 1750 1100
+ws +0.6% +0.5% -3.1% +0.3% -0.5% "2.5% -3.0% 0.0% +7.8% "1.0% 0.4% -1.1% --0.9%
+305% 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
+25 10.9% +0.4% -6.0% N/A 0.3% 2.5% -2.5% -2.5% 44.0% 1.0% -2.3% -1.2% -0.9%
+300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100

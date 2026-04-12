@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-09-20_weekly-vessel-valuations-report-september-20-2022.html
@@ -89,3 +89,40 @@ Aframax Beks Atlantica (114,900 DWT, Nov 2006, Samsung) sold to undisclosed buye
 Containers: Panamax values have softened
 No Container sales reported last week.
 Image reference: 2022-09-20_weekly-vessel-valuations-report-september-20-2022_img2.png
+
+## Linked asset: 2022-09-20_weekly-vessel-valuations-report-september-20-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-09-20_weekly-vessel-valuations-report-september-20-2022_img1.png
+
+Linked image asset: 2022-09-20_weekly-vessel-valuations-report-september-20-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-09-20_weekly-vessel-valuations-report-september-20-2022_img2.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-09-20_weekly-vessel-valuations-report-september-20-2022_img2.png
+
+Linked image asset: 2022-09-20_weekly-vessel-valuations-report-september-20-2022_img2.png
+
+Image metadata: PNG 678x248 mode=RGBA
+
+Embedded info:
+dpi: (143.99259999999998, 143.99259999999998)
+
+OCR text:
+© vesselsValue® |
+20 September 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vicc Suez Alra LRL MR Cape Pmax Supra Handy post Pmax Handy Fmax
+0 11.2% 10.9% 11.8% 10.9% 11.6% 1.2% 0.8% 1.7% 1.1% 2.7% 3.2% 3.7% 2.3%
+320K 160K «110K 75K = 50K 180K 82K GOK = 38K 7000 4250 ©«1750~--«1100
+5 40.8% +1.0% +1.4% 40.9% +1.6% 1.2% -O.8% -2.1% -0.7% 2.7% -3.5% -3.7% -2.3%
+320K 160K 110K 75K SOK 180K 80K 60K 35K 7000 4250 1750 41100
+10 41.7% +1.0% +2,1% +0.9% +1.6% "1.2% -0.7% -2.1% -0.5% "2.6% -4.5% -3.7% -2.4%
+310K 160K 110K 75K 50K 180K 80K 60K 32K 7000 4250 1750 1100
+15 4.1% +0.9% +3.3% +0.9% +1.6% 1.2% -0.8% -2.1% -0.4% -2.6% -5.8% -3.7% -2.4%
+310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100
+2» +5.4% +0,9% +4.4% +0.9% +1.6% +0.9% -0.8% -1.6% -0.4% -2.5% -6.8% -3.7% -2.5%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 44.7% N/A 44.5% +40.9% +1.5% 40.9% -0.7% -0.6% -0.4% 24% -7.3% -3.7% -2.5%
+300K N/A 105K 65K 45K 170K 75K 48K 30K 5500 4000 1750 1100

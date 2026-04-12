@@ -32,8 +32,530 @@ regions:
 - brazil
 - australia
 - singapore
-section_count: 2
-signals: {}
+section_count: 3
+signals:
+  benchmark_prices:
+    index_58_fines: 58.0
+    index_62_fines: 62.0
+    index_65_fines: 38.0
+  iron_ore_metrics:
+  - metric: numeric_observation
+    source_line: in Chinese iron ore and steelmaking prices 18/07/2025
+    unit: null
+    values:
+    - 18.0
+    - 7.0
+    - 2025.0
+  - metric: index_65_fines
+    source_line: Today, DCE iron ore futures jumped initially and then pulled back,
+      with the most-traded contract I2509 closing at 785, up0.38% for the day. Traders
+      were highly motivated to sell. Steel mills purchased as needed, and with the
+      weekend approaching, inquiry volume
+    unit: pct
+    values:
+    - 509.0
+    - 785.0
+    - 38.0
+    - 765.0
+    - 775.0
+    - -780.0
+  - metric: numeric_observation
+    source_line: 'Linked asset: 2025-07-18_MMi-Daily-Iron-Ore-Report-for-18th-July-2025.pdf'
+    unit: null
+    values:
+    - 2025.0
+    - -7.0
+    - -18.0
+    - 18.0
+    - 2025.0
+  - metric: index
+    source_line: MMi Daily Iron Ore Index Report Jul 18th, 2025
+    unit: null
+    values:
+    - 18.0
+    - 2025.0
+  - metric: index_62_fines
+    source_line: IOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe
+      Fines RMB/t
+    unit: pct
+    values:
+    - 2.0
+    - 62.0
+    - 5.0
+    - 65.0
+    - 8.0
+    - 58.0
+  - metric: index_62_fines
+    source_line: IOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5%
+      Fe Lump RMB/t
+    unit: usd_per_dmt
+    values:
+    - 2.0
+    - 62.0
+    - 5.0
+    - 65.0
+    - 62.5
+  - metric: index_62_fines
+    source_line: DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE
+      Rebar
+    unit: pct
+    values:
+    - 62.0
+    - 62.0
+  - metric: numeric_observation
+    source_line: I2509 (September) RMB/t (3pm close) August 25 USD/dmt RB2510 (Jan)
+      RMB/t
+    unit: usd_per_dmt
+    values:
+    - 509.0
+    - 3.0
+    - 25.0
+    - 510.0
+  - metric: numeric_observation
+    source_line: Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
+    unit: null
+    values:
+    - 35.0
+  - metric: numeric_observation
+    source_line: Jul 18th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
+      Equivalent (exc. 13% VAT), USD/dry tonne ¹
+    unit: usd
+    values:
+    - 18.0
+    - 2025.0
+    - 13.0
+    - 13.0
+  - metric: index_62_fines
+    source_line: IOPI62 62% Fe Fines 784 1 0.2% 778 839 683 1063 101.75 0.13 0.1%
+      100.52 109.28 89.33 140.24
+    unit: pct
+    values:
+    - 2.0
+    - 62.0
+    - 784.0
+    - 1.0
+    - 0.2
+    - 778.0
+    - 839.0
+    - 683.0
+  - metric: index_58_fines
+    source_line: IOPI58 58% Fe Fines 673 2 0.3% 680 734 610 963 87.78 0.25 0.3% 88.31
+      96.16 80.25 128.13
+    unit: pct
+    values:
+    - 8.0
+    - 58.0
+    - 673.0
+    - 2.0
+    - 0.3
+    - 680.0
+    - 734.0
+    - 610.0
+  - metric: index_65_fines
+    source_line: IOPI65 65% Fe Fines 896 1 0.1% 890 951 794 1175 116.78 0.11 0.1%
+      115.50 124.32 104.47 155.37
+    unit: pct
+    values:
+    - 5.0
+    - 65.0
+    - 896.0
+    - 1.0
+    - 0.1
+    - 890.0
+    - 951.0
+    - 794.0
+  - metric: numeric_observation
+    source_line: Jul 18th, 2025 CFR Qingdao, USD/dry tonne Today, DCE iron ore futures
+      jumped ini(cid:415)ally and then pulled back, with the most-traded contract
+      I2509 closing at 785, up 0.38% for the
+    unit: usd
+    values:
+    - 18.0
+    - 2025.0
+    - 415.0
+    - 509.0
+    - 785.0
+    - 0.38
+  - metric: index
+    source_line: Index Fe Content Price Change Change % MTD YTD Low 2 High 2 d w e
+      e c r l e in a e r d o . u T n h d e 7 m 6 a 5 r y k u e a t n tr / a m n t
+      s , a u c n (cid:415) c o h n a a n t g m ed o s f p ro h m er e y e w st a
+      e s r m da o y d 's e r p a r t ic e e . s
+    unit: pct
+    values:
+    - 2.0
+    - 2.0
+    - 6.0
+    - 5.0
+    - 415.0
+    - 415.0
+    - 415.0
+  - metric: index_62_fines
+    source_line: IOSI62 62% Fe Fines 102.30 0.20 0.20% 101.70 110.40 89.79 142.65
+      Today, iron ore futures prices jumped ini(cid:415)ally and then pulled back,
+      mainly due to the reduc(cid:415)on of long posi(cid:415)ons influenced by news.
+      In
+    unit: pct
+    values:
+    - 2.0
+    - 62.0
+    - 102.3
+    - 0.2
+    - 0.2
+    - 101.7
+    - 110.4
+    - 89.79
+  - metric: numeric_observation
+    source_line: the short term, the fundamentals of iron ore s(cid:415)ll provide
+      strong support. Coupled with the approaching Poli(cid:415)cal Bureau mee(cid:415)ng,
+      the
+    unit: null
+    values:
+    - 415.0
+    - 415.0
+    - 415.0
+  - metric: index_65_fines
+    source_line: 'IOSI65 65% Fe Fines 105.37 0.36 0.34% 111.27 124.79 98.23 171.65
+      m co a n r (cid:415) k n e u t e re t m o a h i o n l s d m u o p d w e e ra
+      ll t n e e ly x o t p w (cid:415) e m ek is , (cid:415) b c u t a b th o e u
+      t u t p h s e id i e n t p r o o t d e u '
+    unit: pct
+    values:
+    - 5.0
+    - 65.0
+    - 105.37
+    - 0.36
+    - 0.34
+    - 111.27
+    - 124.79
+    - 98.23
+  - metric: numeric_observation
+    source_line: Week Ending Jul 18th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
+      CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3
+    unit: usd
+    values:
+    - 18.0
+    - 2025.0
+    - 13.0
+    - 13.0
+    - 3.0
+  - metric: index
+    source_line: Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price
+      W-oW Change % MTD YTD Low 2 High 2
+    unit: pct
+    values:
+    - 2.0
+    - 2.0
+    - 2.0
+    - 2.0
+  - metric: numeric_observation
+    source_line: Hebei Qian'an 65% Fe Concentrate Dry 895 0.6% 880 1300 125.18 0.59%
+      122.81 183.23
+    unit: pct
+    values:
+    - 65.0
+    - 895.0
+    - 0.6
+    - 880.0
+    - 1300.0
+    - 125.18
+    - 0.59
+    - 122.81
+  - metric: numeric_observation
+    source_line: Liaoning Anshan 65% Fe Concentrate Wet 695 0.7% 690 970 97.21 0.75%
+      96.49 136.72
+    unit: pct
+    values:
+    - 65.0
+    - 695.0
+    - 0.7
+    - 690.0
+    - 970.0
+    - 97.21
+    - 0.75
+    - 96.49
+  - metric: numeric_observation
+    source_line: Shandong Zibo 65% Fe Concentrate Dry 901 1.5% 878 1294 126.02 1.49%
+      122.53 182.16
+    unit: pct
+    values:
+    - 65.0
+    - 901.0
+    - 1.5
+    - 878.0
+    - 1294.0
+    - 126.02
+    - 1.49
+    - 122.53
+  - metric: index
+    source_line: China Mines Concentrate Composite Index RMB/WT 811.21 1.12% 802.20
+      905.40
+    unit: pct
+    values:
+    - 811.21
+    - 1.12
+    - 802.2
+    - 905.4
+  - metric: numeric_observation
+    source_line: Jul 18th, 2025 CFR Qingdao, USD/dry tonne
+    unit: usd
+    values:
+    - 18.0
+    - 2025.0
+  - metric: index_62_fines
+    source_line: IOSI62 62% Fe Fines 102.47 101.62 100.10 96.53 101.70 100.90 110.40
+    unit: pct
+    values:
+    - 2.0
+    - 62.0
+    - 102.47
+    - 101.62
+    - 100.1
+    - 96.53
+    - 101.7
+    - 100.9
+  - metric: index_65_fines
+    source_line: IOSI65 65% Fe Fines 112.28 109.70 105.43 100.81 111.27 110.69 124.79
+    unit: pct
+    values:
+    - 5.0
+    - 65.0
+    - 112.28
+    - 109.7
+    - 105.43
+    - 100.81
+    - 111.27
+    - 110.69
+  - metric: index_62_fines
+    source_line: IOPI62 62% Fe Fines 787 771 770 738 778 772 839 101.83 99.27 99.19
+      95.15 100.52 99.84 109.28
+    unit: pct
+    values:
+    - 2.0
+    - 62.0
+    - 787.0
+    - 771.0
+    - 770.0
+    - 738.0
+    - 778.0
+    - 772.0
+  - metric: index_65_fines
+    source_line: IOPI58 58% Fe Fines 677 664 668 650 680 674 734 87.92 85.93 86.44
+      84.27 88.31 87.65 96.16
+    unit: pct
+    values:
+    - 8.0
+    - 58.0
+    - 677.0
+    - 664.0
+    - 668.0
+    - 650.0
+    - 680.0
+    - 674.0
+  - metric: index_65_fines
+    source_line: IOPI65 65% Fe Fines 899 883 882 850 890 883 951 116.79 114.18 114.14
+      110.12 115.50 114.85 124.32
+    unit: pct
+    values:
+    - 5.0
+    - 65.0
+    - 899.0
+    - 883.0
+    - 882.0
+    - 850.0
+    - 890.0
+    - 883.0
+  - metric: index
+    source_line: Jul 18th, 2025 PORT STOCK INDEX (RMB/WT) Jul 18th, 2025 SEABORNE
+      INDEX (USD/DMT)
+    unit: usd_per_dmt
+    values:
+    - 18.0
+    - 2025.0
+    - 18.0
+    - 2025.0
+  - metric: index_62_fines
+    source_line: Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content
+      Spread to IOSI62 % Spread to IOSI62
+    unit: pct
+    values:
+    - 2.0
+    - 2.0
+    - 2.0
+    - 2.0
+  - metric: index_58_fines
+    source_line: IOPI58 58% Fe Fines -111 -14.15%
+    unit: pct
+    values:
+    - 8.0
+    - 58.0
+    - -111.0
+    - -14.15
+  - metric: index_65_fines
+    source_line: IOPI65 65% Fe Fines 112 14.24% IOSI65 65% Fe Fines 3.07 3.00%
+    unit: pct
+    values:
+    - 5.0
+    - 65.0
+    - 112.0
+    - 14.24
+    - 5.0
+    - 65.0
+    - 3.07
+    - 3.0
+  - metric: index_65_fines
+    source_line: SIMEC Fines 654 1 -130 SIMEC Fines 94.30 0.20 -8.00
+    unit: null
+    values:
+    - 654.0
+    - 1.0
+    - -130.0
+    - 94.3
+    - 0.2
+    - -8.0
+  - metric: numeric_observation
+    source_line: PB Fines 753 1 -31 PB Fines 98.55 0.20 -3.75
+    unit: null
+    values:
+    - 753.0
+    - 1.0
+    - -31.0
+    - 98.55
+    - 0.2
+    - -3.75
+  - metric: numeric_observation
+    source_line: Newman Fines 752 1 -32 Newman Fines 101.43 0.20 -0.88
+    unit: null
+    values:
+    - 752.0
+    - 1.0
+    - -32.0
+    - 101.43
+    - 0.2
+    - -0.88
+  - metric: numeric_observation
+    source_line: MAC Fines 734 1 -50 MAC Fines 98.55 0.20 -3.75
+    unit: null
+    values:
+    - 734.0
+    - 1.0
+    - -50.0
+    - 98.55
+    - 0.2
+    - -3.75
+  - metric: numeric_observation
+    source_line: Jimblebar Blended Fines 648 1 -136 Jimblebar Blended Fines 90.93
+      0.20 -11.38
+    unit: null
+    values:
+    - 648.0
+    - 1.0
+    - -136.0
+    - 90.93
+    - 0.2
+    - -11.38
+  - metric: numeric_observation
+    source_line: Carajas Fines 964 1 180 Carajas Fines 131.85 0.20 29.55
+    unit: null
+    values:
+    - 964.0
+    - 1.0
+    - 180.0
+    - 131.85
+    - 0.2
+    - 29.55
+  - metric: numeric_observation
+    source_line: Brazilian Blend Fines 767 1 -17 Brazilian Blend Fines 107.68 0.20
+      5.38
+    unit: null
+    values:
+    - 767.0
+    - 1.0
+    - -17.0
+    - 107.68
+    - 0.2
+    - 5.38
+  - metric: numeric_observation
+    source_line: RTX Fines 667 1 -117 RTX Fines 92.18 0.20 -10.13
+    unit: null
+    values:
+    - 667.0
+    - 1.0
+    - -117.0
+    - 92.18
+    - 0.2
+    - -10.13
+  - metric: numeric_observation
+    source_line: West Pilbara Fines 696 1 -88 West Pilbara Fines 96.55 0.20 -5.75
+    unit: null
+    values:
+    - 696.0
+    - 1.0
+    - -88.0
+    - 96.55
+    - 0.2
+    - -5.75
+  - metric: numeric_observation
+    source_line: FMG Blended Fines 681 2 8
+    unit: null
+    values:
+    - 681.0
+    - 2.0
+    - 8.0
+  - metric: numeric_observation
+    source_line: Western Fines 684 2 11
+    unit: null
+    values:
+    - 684.0
+    - 2.0
+    - 11.0
+  - metric: numeric_observation
+    source_line: Atlas Fines 679 2 6
+    unit: null
+    values:
+    - 679.0
+    - 2.0
+    - 6.0
+  - metric: numeric_observation
+    source_line: 1% Fe High Grade Fe 64 - 65% 5.00 0.00 1% Fe High Grade Fe 64 - 65%
+      0.25 0.00
+    unit: pct
+    values:
+    - 1.0
+    - 64.0
+    - 65.0
+    - 5.0
+    - 0.0
+    - 1.0
+    - 64.0
+    - 65.0
+  - metric: index_62_fines
+    source_line: 62.5% Fe Lump Premium over 62% Fines RMB/dmtu
+    unit: usd_per_dmt
+    values:
+    - 62.5
+    - 62.0
+  - metric: index_62_fines
+    source_line: MMi (Fe 62%), USD/mt exluding tax 101.75 5.46 Mmi CFR Equivalent
+      index for 1st Feb
+    unit: usd
+    values:
+    - 62.0
+    - 101.75
+    - 5.46
+    - 1.0
+  - metric: index
+    source_line: Iron Ore Index Specifications (Port and Seaborne) Iron Ore Index
+      Compila(cid:415)on Ra(cid:415)onale and Data Exclusions
+    unit: null
+    values:
+    - 415.0
+    - 415.0
+  metric_units:
+  - pct
+  - usd
+  - usd_per_dmt
+  signal_family: hellenic_iron_ore_indices
 source: hellenic
 source_path: reports/hellenic/iron_ore/2025/2025-07-18_mmi-daily-iron-ore-index-report-july-18-2025.html
 source_stem: 2025-07-18_mmi-daily-iron-ore-index-report-july-18-2025
@@ -57,6 +579,7 @@ title: MMI Daily Iron Ore Index Report July 18 2025
 vessel_classes:
 - capesize
 - panamax
+- container
 ---
 
 ## Summary
@@ -532,3 +1055,35 @@ data has been obtained from various sources and any copyright exis(cid:415)ng in
 express wri(cid:425)en authority of MMi is forbidden.
 Page 6/6 Jul 18th, 2025
 COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
+
+## Linked asset: 2025-07-18_mmi-daily-iron-ore-index-report-july-18-2025_img2.jpg
+Source asset: reports/hellenic/iron_ore/2025/2025-07-18_mmi-daily-iron-ore-index-report-july-18-2025_img2.jpg
+
+Linked image asset: 2025-07-18_mmi-daily-iron-ore-index-report-july-18-2025_img2.jpg
+
+Image metadata: JPEG 1600x743 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+MMi Daily Iron Ore Index Report Jul 18th, 2025
+IRON ORE PORT STOCK INDEX (IOPI)
+Jul 18th,2025 0 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne *
+Index Fe Content Price Change Change% MTD YTD Low ? High ? Price Change Change% MTD YTD Low? High?
+IOPI62 62% Fe Fines 784 1 0.2% 778 839 683 1063 101.75 0.13 0.1% 100.52 109.28 89.33 140.24
+IOPI58 58% Fe Fines 673 2 0.3% 680 734 610 963 87.78 0.25 0.3% 88.31 96.16 80.25 128.13
+1OPI6S 65% Fe Fines 896 1 0.1% 890 951 794 1175 116.78 0.11 0.1% 115.50 124.32 104.47 155.37
+IRON ORE SEABORNE INDEX (IOSI) MARKET COMMENTARY
+Juli8th,202500 CFR Qingdao, USD/dry tonne Today, OCE iron ore futures jumped initially and then pulled back, with the most-traded contract 12509 closing at 785, up 0.38% for the
+day. Traders were highly motivated to sell. Steel mills purchased as needed, and with the weekend approaching, inquiry volumes slightly
+Geclined. The market transaction atmosphere was moderate. in the Shandong region, the mainstream transaction prices of PB fines
+Index Fe Content Price Change Change % MTD YTD Low 2 High 2 were around 765 yuan/mt, unchanged from yesterday's prices; in the Tangshan region, the transaction prices of PB fines were around
+775-780 yuan/mt, also unchanged from yesterday's prices.
+1osi62 62% FeFines| 10230 GOB B20 101.70 11040 89.79 142,65: |] Rim emceemrn mecca te peccmcs me sss nsrieen dl cosines eee
+10SI65 65% FeFines| 105.37 0.36 0.34% 111.27 124.79 98.23 171.65 || cnmetidwwuinedundk tuteusiepiedimy ite
+IRON ORE PORT LUMP INDEX (IOPLI)
+FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne °
+Index FeContent Price W-o-W Change% MTD YTD Low " High 7 Price W-oW Change% MTD YTD Low" High *
+IOPLI62 62.5% Fe Lump 915 15 1.7% 896 974 820 1210 114.37 1.96 1.75% 111.61 122.15 102.77 153.57
+www.mmiprices.com jarek@mmiprices.com

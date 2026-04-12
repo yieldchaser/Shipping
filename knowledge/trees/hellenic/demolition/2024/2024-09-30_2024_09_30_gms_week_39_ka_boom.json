@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 6352,
+  "token_count": 6587,
   "source_path": "reports/hellenic/demolition/2024/2024-09-30_gms-week-39-ka-boom.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-39-ka-boom",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 5507,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-09-30_2024_09_30_gms_week_39_ka_boom__s03_linked_asset_2024_09_30_gms_week_39_ka_boom_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-09-30_2024_09_30_gms_week_39_ka_boom",
+      "parent_id": "hellenic_demolition_2024-09-30_2024_09_30_gms_week_39_ka_boom__root",
+      "title": "Linked asset: 2024-09-30_gms-week-39-ka-boom_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-09-30_gms-week-39-ka-boom_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-09-30_gms-week-39-ka-boom_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-09-30_gms-week-39-ka-boom_img1.jpg\n\nLinked image asset: 2024-09-30_gms-week-39-ka-boom_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-39-ka-boom_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-09-30_2024_09_30_gms_week_39_ka_boom__s04_linked_asset_2024_09_30_gms_week_39_ka_boom_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-09-30_2024_09_30_gms_week_39_ka_boom",
+      "parent_id": "hellenic_demolition_2024-09-30_2024_09_30_gms_week_39_ka_boom__root",
+      "title": "Linked asset: 2024-09-30_gms-week-39-ka-boom_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-09-30_gms-week-39-ka-boom_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-09-30_gms-week-39-ka-boom_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-09-30_gms-week-39-ka-boom_img2.jpg\n\nLinked image asset: 2024-09-30_gms-week-39-ka-boom_img2.jpg\n\nImage metadata: JPEG 690x152 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-39-ka-boom_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

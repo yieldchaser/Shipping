@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-07-19_weekly-vessel-valuations-report-july-19-2022.html
@@ -96,3 +96,40 @@ MR1 (Chem / Product) Seaexplorer (40,000 DWT, Jan 2003, Hyundai Mipo) sold to Be
 Containers: Handysize and Feedermax values have softened
 Handy Container A Roku (1,708 TEU, Aug 2008, Imabari) sold to Hai An Transport & Stevedoring for USD 30.00 mil, VV Value USD 33.85 mil - SS Passed.
 Image reference: 2022-07-19_weekly-vessel-valuations-report-july-19-2022_img2.png
+
+## Linked asset: 2022-07-19_weekly-vessel-valuations-report-july-19-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-07-19_weekly-vessel-valuations-report-july-19-2022_img1.png
+
+Linked image asset: 2022-07-19_weekly-vessel-valuations-report-july-19-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-07-19_weekly-vessel-valuations-report-july-19-2022_img2.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-07-19_weekly-vessel-valuations-report-july-19-2022_img2.png
+
+Linked image asset: 2022-07-19_weekly-vessel-valuations-report-july-19-2022_img2.png
+
+Image metadata: PNG 678x249 mode=RGBA
+
+Embedded info:
+dpi: (143.99259999999998, 143.99259999999998)
+
+OCR text:
+© VesselsValue™
+19 July 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra. = LRT MR Cape Pmax Supra Handy ost pmax Handy Fmax
+0 +0.2% +0.7% +0.6% +0.6% -0.2% +0.6% +0.7% -1.5% -1.8% 40.3% 40.1% -1.9% -2.3%
+320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100
+5 10.8% 10.7% 10.6% 10.6% +1.5% 10.6% 1.1% 10.3% 0.1% 10.3% +0.1% 2.0% 3.8%
+320K 160K 110K 75K ~- SOK 180K 80K 60K 30K 7000 4250 ©1750 ~-‘1100
+10 +0.7% +0.7% +0.6% +0.5% +7.8% 0.1% +7.7% -0.1% -0.3% 40.3% +0.1% -2.3% -4.8%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 10.3% 10.6% 10.6% 60.5% +£2.3% 1.2% +#3.1% 1.6% 1.7% 40.3% +0.1% 2.8% 4.6%
+310K 160K 110K 75K = «SOK 180K 75K 55K 30K 7000 4250 ©1750 ‘1100
+20 0.0% +0.7% +0.6% +0.4% -2.3% 0.0% +7.0% -3.5% -4.1% 40.3% +0.2% -3.7% -2.4%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 0.0% N/A 40.5% +#0.3% 0.0% 0.0% 1.9% 4.9% 7.1% 40.3% +0.3% 4.8% 43.1%
+300K N/A -105K-s«OSK «45K 170K 75K -s«4BKS30K 5500 4000 1750 1100

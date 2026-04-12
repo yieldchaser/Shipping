@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 6112,
+  "token_count": 6359,
   "source_path": "reports/hellenic/demolition/2026/2026-04-07_gms-week-14-q2-opens-under-pressure.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-14-q2-opens-under-pressure",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 5415,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-04-07_2026_04_07_gms_week_14_q2_opens_under_pressure__s03_linked_asset_2026_04_07_gms_week_14_q2_opens_under_pressure_img1_jpg",
+      "doc_id": "hellenic_demolition_2026-04-07_2026_04_07_gms_week_14_q2_opens_under_pressure",
+      "parent_id": "hellenic_demolition_2026-04-07_2026_04_07_gms_week_14_q2_opens_under_pressure__root",
+      "title": "Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_img1.jpg",
+      "section_path": [
+        "Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2026/2026-04-07_gms-week-14-q2-opens-under-pressure_img1.jpg\n\nLinked image asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-14-q2-opens-under-pressure_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-04-07_2026_04_07_gms_week_14_q2_opens_under_pressure__s04_linked_asset_2026_04_07_gms_week_14_q2_opens_under_pressure_img2_jpg",
+      "doc_id": "hellenic_demolition_2026-04-07_2026_04_07_gms_week_14_q2_opens_under_pressure",
+      "parent_id": "hellenic_demolition_2026-04-07_2026_04_07_gms_week_14_q2_opens_under_pressure__root",
+      "title": "Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_img2.jpg",
+      "section_path": [
+        "Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2026/2026-04-07_gms-week-14-q2-opens-under-pressure_img2.jpg\n\nLinked image asset: 2026-04-07_gms-week-14-q2-opens-under-pressure_img2.jpg\n\nImage metadata: JPEG 688x152 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-14-q2-opens-under-pressure_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

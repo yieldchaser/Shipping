@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 408,
+  "token_count": 682,
   "source_path": "reports/hellenic/demolition/2021/2021-08-02_gms-week-30-firm-footing.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-30-firm-footing",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 406,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-08-02_2021_08_02_gms_week_30_firm_footing__s02_linked_asset_2021_08_02_gms_week_30_firm_footing_img1_jpg",
+      "doc_id": "hellenic_demolition_2021-08-02_2021_08_02_gms_week_30_firm_footing",
+      "parent_id": "hellenic_demolition_2021-08-02_2021_08_02_gms_week_30_firm_footing__root",
+      "title": "Linked asset: 2021-08-02_gms-week-30-firm-footing_img1.jpg",
+      "section_path": [
+        "Linked asset: 2021-08-02_gms-week-30-firm-footing_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-08-02_gms-week-30-firm-footing_img1.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/2021/2021-08-02_gms-week-30-firm-footing_img1.jpg\n\nLinked image asset: 2021-08-02_gms-week-30-firm-footing_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-30-firm-footing_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-08-02_2021_08_02_gms_week_30_firm_footing__s03_linked_asset_2021_08_02_gms_week_30_firm_footing_img2_jpg",
+      "doc_id": "hellenic_demolition_2021-08-02_2021_08_02_gms_week_30_firm_footing",
+      "parent_id": "hellenic_demolition_2021-08-02_2021_08_02_gms_week_30_firm_footing__root",
+      "title": "Linked asset: 2021-08-02_gms-week-30-firm-footing_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-08-02_gms-week-30-firm-footing_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-08-02_gms-week-30-firm-footing_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2021/2021-08-02_gms-week-30-firm-footing_img2.jpg\n\nLinked image asset: 2021-08-02_gms-week-30-firm-footing_img2.jpg\n\nImage metadata: JPEG 850x205 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nDemo Location Sentiment Dry Bulk Tankers Containers\nRank USD/LDT _USD/LDT USD /LDT\n| 4 |twkey | Steady | 280/LDT | 290/LDT | 300/LDT_ |",
+      "keywords": [
+        "container",
+        "ldt",
+        "asset",
+        "image",
+        "usd/ldt",
+        "containers",
+        "demo",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

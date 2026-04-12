@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Dry Time Charter Estimates, August 20 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2025-08-20_weekly-dry-time-charter-estimates-august-20-2025_img2.jpg\n\nLinked asset: 2025-08-20_weekly-dry-time-charter-estimates-august-20-2025_img2.jpg\nSource asset: reports/hellenic/dry_charter/2025/2025-08-20_weekly-dry-time-charter-estimates-august-20-2025_img2.jpg\n\nLinked image asset: 2025-08-20_weekly-dry-time-charter-estimates-august-20-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\n16) AL B R A Updated Weds 20108/2025\nDipping United\nDRY BULK TIME CHARTER ESTIMATES (Sipdpr)\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (384 ow) | 12,000 | A 13,500 13,000 | A 13,000 12,000 12,000\nSMAX/ULTRA 16,000 | 4 16,500 14500 | A 15,750 14,000 14,250\nPANAIKMAX | 16,500 | 13,500 | ¥ 14,000 | Vv 13,000 12,250 12,500\nCAPESIZE 21,500 21,500 |A 22,500 A 22500 |A& 21,000 | A 21,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 33,
+  "token_count": 354,
   "source_path": "reports/hellenic/dry_charter/2025/2025-08-20_weekly-dry-time-charter-estimates-august-20-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-august-20-2025",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 31,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2025-08-20_2025_08_20_weekly_dry_time_charter_estimates_august_20_2025__s02_linked_asset_2025_08_20_weekly_dry_time_charter_estimates_august_20_2025_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2025-08-20_2025_08_20_weekly_dry_time_charter_estimates_august_20_2025",
+      "parent_id": "hellenic_dry_charter_2025-08-20_2025_08_20_weekly_dry_time_charter_estimates_august_20_2025__root",
+      "title": "Linked asset: 2025-08-20_weekly-dry-time-charter-estimates-august-20-2025_img2.jpg",
+      "section_path": [
+        "Linked asset: 2025-08-20_weekly-dry-time-charter-estimates-august-20-2025_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-08-20_weekly-dry-time-charter-estimates-august-20-2025_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2025/2025-08-20_weekly-dry-time-charter-estimates-august-20-2025_img2.jpg\n\nLinked image asset: 2025-08-20_weekly-dry-time-charter-estimates-august-20-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\n16) AL B R A Updated Weds 20108/2025\nDipping United\nDRY BULK TIME CHARTER ESTIMATES (Sipdpr)\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (384 ow) | 12,000 | A 13,500 13,000 | A 13,000 12,000 12,000\nSMAX/ULTRA 16,000 | 4 16,500 14500 | A 15,750 14,000 14,250\nPANAIKMAX | 16,500 | 13,500 | ¥ 14,000 | Vv 13,000 12,250 12,500\nCAPESIZE 21,500 21,500 |A 22,500 A 22500 |A& 21,000 | A 21,000",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "charter",
+        "dipping"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 288,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4626,
+  "token_count": 4859,
   "source_path": "reports/hellenic/demolition/2022/2022-12-20_gms-week-50-limbo.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-50-limbo",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4179,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-12-20_2022_12_20_gms_week_50_limbo__s03_linked_asset_2022_12_20_gms_week_50_limbo_img1_jpg",
+      "doc_id": "hellenic_demolition_2022-12-20_2022_12_20_gms_week_50_limbo",
+      "parent_id": "hellenic_demolition_2022-12-20_2022_12_20_gms_week_50_limbo__root",
+      "title": "Linked asset: 2022-12-20_gms-week-50-limbo_img1.jpg",
+      "section_path": [
+        "Linked asset: 2022-12-20_gms-week-50-limbo_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-12-20_gms-week-50-limbo_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2022/2022-12-20_gms-week-50-limbo_img1.jpg\n\nLinked image asset: 2022-12-20_gms-week-50-limbo_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-50-limbo_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-12-20_2022_12_20_gms_week_50_limbo__s04_linked_asset_2022_12_20_gms_week_50_limbo_img2_jpg",
+      "doc_id": "hellenic_demolition_2022-12-20_2022_12_20_gms_week_50_limbo",
+      "parent_id": "hellenic_demolition_2022-12-20_2022_12_20_gms_week_50_limbo__root",
+      "title": "Linked asset: 2022-12-20_gms-week-50-limbo_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-12-20_gms-week-50-limbo_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-12-20_gms-week-50-limbo_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2022/2022-12-20_gms-week-50-limbo_img2.jpg\n\nLinked image asset: 2022-12-20_gms-week-50-limbo_img2.jpg\n\nImage metadata: JPEG 600x155 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-50-limbo_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

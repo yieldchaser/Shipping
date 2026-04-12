@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-12-02_weekly-vessel-valuations-report-december-02-2025.html
@@ -117,3 +117,40 @@ Containers: Older Feedermax values are up this week, alongside Handy containers 
 Sub Panamax Container Happy Lucky (2,553 TEU, Feb 2008, Naikai Setoda) sold DD Passed to Chinese buyers for USD 27.5 mil, VV Value USD 26.41 mil
 Handy Container Borkum (1,930 TEU, Oct 2023, Guangzhou Wenchong) sold to Chinese buyers for USD 36.9 mil, VV Value USD 35.9 mil
 Image reference: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img2.jpg
+
+## Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1.png
+
+Linked image asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-12-02_weekly-vessel-valuations-report-december-02-2025_img2.jpg
+
+Linked image asset: 2025-12-02_weekly-vessel-valuations-report-december-02-2025_img2.jpg
+
+Image metadata: JPEG 600x278 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+© VessetsVal re AR
+02 December 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra um MR Cape Pmax ‘Supra Handy - Prax Handy Fmax
+‘ 00% 10.9% 108% 102% 40.3% *1S% 108% EKO. 03% OM OM OTH
+320k 160k Sk Sk SOK 180k 82k 62k 38% 7000 4250 80 00
+s 00% 10.9% 108% 102% 10.6% 16% 18K LTH HB 03% 0M OM «02%
+320k 160k nOk Tsk SOK 180K 82k 60k 38% 7000 4250 780 noo
+00% 10.9% «10.8% =H HSH 14% RG LOH #28 O36 00 02K 10.6%
+320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo
+% 00% 40.9% 108% 40.2% «+23 109% 35.0% LAH #0 02% 02% 40.7% 1.8%
+S0k = 60K Mk 73k 50k 0k 80k 58k 30k 7000 42808000.
+ws 00% 409% 108% 403% 120% 103% 45.1% ATH #LOM OD 02 AK 13S
+B0k 160k NOk 70k 45k 180k 75k 55k 30k 7000 4250 «S000.
+_ OM 10.9% 0.8% OAH BA 00% +37 0.8% --+29% 00% 03% 920% 5.6%
+300k = 1SSk 105k 70k 45k 175k 75k 48k 30k 6500 4000 SO N00

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 7790,
+  "token_count": 8037,
   "source_path": "reports/hellenic/demolition/2025/2025-07-14_gms-week-28-summer-sufferance.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-28-summer-sufferance",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 6950,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-07-14_2025_07_14_gms_week_28_summer_sufferance__s03_linked_asset_2025_07_14_gms_week_28_summer_sufferance_img1_jpg",
+      "doc_id": "hellenic_demolition_2025-07-14_2025_07_14_gms_week_28_summer_sufferance",
+      "parent_id": "hellenic_demolition_2025-07-14_2025_07_14_gms_week_28_summer_sufferance__root",
+      "title": "Linked asset: 2025-07-14_gms-week-28-summer-sufferance_img1.jpg",
+      "section_path": [
+        "Linked asset: 2025-07-14_gms-week-28-summer-sufferance_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-07-14_gms-week-28-summer-sufferance_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2025/2025-07-14_gms-week-28-summer-sufferance_img1.jpg\n\nLinked image asset: 2025-07-14_gms-week-28-summer-sufferance_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-28-summer-sufferance_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-07-14_2025_07_14_gms_week_28_summer_sufferance__s04_linked_asset_2025_07_14_gms_week_28_summer_sufferance_img2_png",
+      "doc_id": "hellenic_demolition_2025-07-14_2025_07_14_gms_week_28_summer_sufferance",
+      "parent_id": "hellenic_demolition_2025-07-14_2025_07_14_gms_week_28_summer_sufferance__root",
+      "title": "Linked asset: 2025-07-14_gms-week-28-summer-sufferance_img2.png",
+      "section_path": [
+        "Linked asset: 2025-07-14_gms-week-28-summer-sufferance_img2.png"
+      ],
+      "section_path_text": "Linked asset: 2025-07-14_gms-week-28-summer-sufferance_img2.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2025/2025-07-14_gms-week-28-summer-sufferance_img2.png\n\nLinked image asset: 2025-07-14_gms-week-28-summer-sufferance_img2.png\n\nImage metadata: PNG 681x150 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-28-summer-sufferance_img2.png",
+        "info",
+        "linked",
+        "metadata"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

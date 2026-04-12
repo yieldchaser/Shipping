@@ -31,7 +31,7 @@ regions:
 - brazil
 - singapore
 - japan
-section_count: 2
+section_count: 4
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2025/2025-07-14_gms-week-28-summer-sufferance.html
@@ -1455,3 +1455,27 @@ Cumberland, USA Tel: +1.301.759.9240 Dubai, UAE Tel: +971.4.423.0720
 Hamburg, Germany Tel: +49.40. 3197.9963 New York, USA: +1.240.505.9716
 Shanghai, China Tel: +86.216.075.1900 Seoul, South Korea Tel: +82.10.4650.0720
 Singapore Tel: +65.6823.8037 Tokyo, Japan Tel: +81.3.5453.6311
+
+## Linked asset: 2025-07-14_gms-week-28-summer-sufferance_img1.jpg
+Source asset: reports/hellenic/demolition/2025/2025-07-14_gms-week-28-summer-sufferance_img1.jpg
+
+Linked image asset: 2025-07-14_gms-week-28-summer-sufferance_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-07-14_gms-week-28-summer-sufferance_img2.png
+Source asset: reports/hellenic/demolition/2025/2025-07-14_gms-week-28-summer-sufferance_img2.png
+
+Linked image asset: 2025-07-14_gms-week-28-summer-sufferance_img2.png
+
+Image metadata: PNG 681x150 mode=RGBA
+
+Embedded info:
+dpi: (119.9896, 119.9896)
+
+[OCR skipped for small image (< 150000 pixels).]

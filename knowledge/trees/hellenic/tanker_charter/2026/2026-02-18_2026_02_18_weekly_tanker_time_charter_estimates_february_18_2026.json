@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Tanker Time Charter Estimates, February 18 2026",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026_img2.jpg\n\nLinked asset: 2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026_img2.jpg\nSource asset: reports/hellenic/tanker_charter/2026/2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026_img2.jpg\n\nLinked image asset: 2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\ny <3} A Ll B R A Updated Weds 18/02/26\nShipping Limited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR * 5 YEAR\"\nHANDY A 21,500 19,000 19,000 18,000\nMR IMO3 23,500 22,000 22,500 19,000\nLR1 A 28,500 A 26,000 A 28,500 A 26,000\nLR2 a 40,000 A 37,500 36,500 33,500\nAFRA (115k dust) 42,500 A 36,500 A 37,500 32,500\nSUEZ A 52,500 A 42,500 a 44,000 40,000\nvicc A 77,500 67,500 60,000 55,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 32,
+  "token_count": 376,
   "source_path": "reports/hellenic/tanker_charter/2026/2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-february-18-2026",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 30,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2026-02-18_2026_02_18_weekly_tanker_time_charter_estimates_february_18_2026__s02_linked_asset_2026_02_18_weekly_tanker_time_charter_estimates_february_18_2026_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2026-02-18_2026_02_18_weekly_tanker_time_charter_estimates_february_18_2026",
+      "parent_id": "hellenic_tanker_charter_2026-02-18_2026_02_18_weekly_tanker_time_charter_estimates_february_18_2026__root",
+      "title": "Linked asset: 2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026_img2.jpg",
+      "section_path": [
+        "Linked asset: 2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2026/2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026_img2.jpg\n\nLinked image asset: 2026-02-18_weekly-tanker-time-charter-estimates-february-18-2026_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\ny <3} A Ll B R A Updated Weds 18/02/26\nShipping Limited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR * 5 YEAR\"\nHANDY A 21,500 19,000 19,000 18,000\nMR IMO3 23,500 22,000 22,500 19,000\nLR1 A 28,500 A 26,000 A 28,500 A 26,000\nLR2 a 40,000 A 37,500 36,500 33,500\nAFRA (115k dust) 42,500 A 36,500 A 37,500 32,500\nSUEZ A 52,500 A 42,500 a 44,000 40,000\nvicc A 77,500 67,500 60,000 55,000",
+      "keywords": [
+        "handysize",
+        "year",
+        "asset",
+        "image",
+        "afra",
+        "charter",
+        "dpi",
+        "dust"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 312,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

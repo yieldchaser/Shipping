@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4716,
+  "token_count": 4992,
   "source_path": "reports/hellenic/demolition/2023/2023-02-28_gms-week-7-impressing.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-7-impressing",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4219,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-02-28_2023_02_28_gms_week_7_impressing__s03_linked_asset_2023_02_28_gms_week_7_impressing_img1_jpg",
+      "doc_id": "hellenic_demolition_2023-02-28_2023_02_28_gms_week_7_impressing",
+      "parent_id": "hellenic_demolition_2023-02-28_2023_02_28_gms_week_7_impressing__root",
+      "title": "Linked asset: 2023-02-28_gms-week-7-impressing_img1.jpg",
+      "section_path": [
+        "Linked asset: 2023-02-28_gms-week-7-impressing_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-02-28_gms-week-7-impressing_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-02-28_gms-week-7-impressing_img1.jpg\n\nLinked image asset: 2023-02-28_gms-week-7-impressing_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-7-impressing_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-02-28_2023_02_28_gms_week_7_impressing__s04_linked_asset_2023_02_28_gms_week_7_impressing_img2_jpg",
+      "doc_id": "hellenic_demolition_2023-02-28_2023_02_28_gms_week_7_impressing",
+      "parent_id": "hellenic_demolition_2023-02-28_2023_02_28_gms_week_7_impressing__root",
+      "title": "Linked asset: 2023-02-28_gms-week-7-impressing_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-02-28_gms-week-7-impressing_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-02-28_gms-week-7-impressing_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-02-28_gms-week-7-impressing_img2.jpg\n\nLinked image asset: 2023-02-28_gms-week-7-impressing_img2.jpg\n\nImage metadata: JPEG 692x222 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nRank Location Sentiment Dey Balk bncepatis ona\nUSD/LDT USD/LDT USD / LDT\n| 4 [turkey | Positive | s30/~tpr_| s4o/epr | 350/LDT_|\n*Subject L/C approval",
+      "keywords": [
+        "asset",
+        "image",
+        "ldt",
+        "usd/ldt",
+        "approval",
+        "balk",
+        "bncepatis",
+        "dey"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

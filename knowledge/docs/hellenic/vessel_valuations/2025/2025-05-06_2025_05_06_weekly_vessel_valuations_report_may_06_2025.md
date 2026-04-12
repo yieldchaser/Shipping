@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-05-06_weekly-vessel-valuations-report-may-06-2025.html
@@ -114,3 +114,40 @@ Containers: Newbuild Sub Panamax and older Feedermaxes are up this week on the b
 Handy Container Mindoro (1,781 TEU, Dec 2022, Huanghai Shipyards) sold for USD 31.5 mil inc TC, VV Value USD 34 mil.
 5/9 x ULCV (18,500 TEU, 2028/29, NACKS/DACKS) ordered for USD 220 mil, VV Value USD 231 mil.
 Image reference: 2025-05-06_weekly-vessel-valuations-report-may-06-2025_img2.jpg
+
+## Linked asset: 2025-05-06_weekly-vessel-valuations-report-may-06-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-05-06_weekly-vessel-valuations-report-may-06-2025_img1.png
+
+Linked image asset: 2025-05-06_weekly-vessel-valuations-report-may-06-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-05-06_weekly-vessel-valuations-report-may-06-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-05-06_weekly-vessel-valuations-report-may-06-2025_img2.jpg
+
+Linked image asset: 2025-05-06_weekly-vessel-valuations-report-may-06-2025_img2.jpg
+
+Image metadata: JPEG 678x314 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+Ds) VesselsValue --@-WH-
+06 May 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra La MR Cape Pmax Supra Handy ees. Pmax Handy = Fmax
+0.0% +3 +0.9% 0.0% ATM! -OS*K -O.% O36 0. +0.6% 20.1% "27% 20.3%
+. 320k 160k nsk 75k 50k 180k 82k 62k 38 7000 4250-1780 N00
+s 70.5% +126 108% 0.0% ATS OS® 0.1% 70.1% 0.7% *0.6% 02% 7s +0.6%
+320k 160k nOk 75k SOk 180k 82k 60k 38k 7000 4250 1780 noo
+io +1.0% 1% 105% 0.0% "2.1% -OS*% 0.1% 12% 0.7% +0.6% +0.2% 09% +23%
+320k 160k nN0k 7Sk Sk 180k 80k 60k 3Sk 7000 4250 790 noo
+s 113% 05% Om 0.0% "2.3% OS® 0.1% *2.2% Om 20.5% 20.2% 02% 245%
+SNOk Ok NOk 78k SOk 180k 80k SSk 30k 7000 4250 1780 noo
+6 "1% O26 "0% 70.1% Ls OS® 0.1% AS® 12% 40.5% 00% +0.3% +5.1%
+3I0k 160k NOk 70K 45k 180k 78k SSk 30k 7000 4250 1780 noo
+20.7% 00% "24% 20.2% 20% +*LOK *1.0% +138 *26% +0.6% O4% 104% +23%
+iad 300k 155k 105k 70k 45k 17Sk 75k 48k 30k 6500 4000 1750 1100

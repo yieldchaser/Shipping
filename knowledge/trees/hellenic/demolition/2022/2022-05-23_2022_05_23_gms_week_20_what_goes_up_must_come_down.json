@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 485,
+  "token_count": 756,
   "source_path": "reports/hellenic/demolition/2022/2022-05-23_gms-week-20-what-goes-up-must-come-down.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-20-what-goes-up-must-come-down",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 483,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down__s02_linked_asset_2022_05_23_gms_week_20_what_goes_up_must_come_down_img1_jpg",
+      "doc_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down",
+      "parent_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down__root",
+      "title": "Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_img1.jpg",
+      "section_path": [
+        "Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_img1.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/2022/2022-05-23_gms-week-20-what-goes-up-must-come-down_img1.jpg\n\nLinked image asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-20-what-goes-up-must-come-down_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down__s03_linked_asset_2022_05_23_gms_week_20_what_goes_up_must_come_down_img2_jpg",
+      "doc_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down",
+      "parent_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down__root",
+      "title": "Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2022/2022-05-23_gms-week-20-what-goes-up-must-come-down_img2.jpg\n\nLinked image asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_img2.jpg\n\nImage metadata: JPEG 613x183 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-20-what-goes-up-must-come-down_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 106,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

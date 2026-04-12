@@ -18,13 +18,91 @@ regions:
 - west_africa
 - europe
 - china
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: mr
+    source_line: MR IMO3 18,000 16,500 A 19,000 a 19,000
+    timeframe: null
+    unit: null
+    values:
+    - 18000.0
+    - 16500.0
+    - 19000.0
+    - 19000.0
+  - segment: lr1
+    source_line: LR1 19,950 19,950 22,500 21,500
+    timeframe: null
+    unit: null
+    values:
+    - 19950.0
+    - 19950.0
+    - 22500.0
+    - 21500.0
+  - segment: lr2
+    source_line: LR2 25,000 23,500 4 28.000 28,000
+    timeframe: null
+    unit: null
+    values:
+    - 25000.0
+    - 23500.0
+    - 28.0
+    - 28000.0
+  rate_summary:
+    lr1: 21500.0
+    lr2: 28000.0
+    mr: 19000.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2022/2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022.html
 source_stem: 2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022
 source_url: https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-june-22-2022
-summary: ''
+summary: 'Main
+
+  Image reference: 2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+
+
+  Linked asset: 2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+
+  Source asset: reports/hellenic/tanker_charter/2022/2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+
+
+  Linked image asset: 2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (72.0, 72.0)
+
+
+  OCR text:
+
+  BAALIBRA Updated Weds 22 Jun 2022
+
+  Sieg erie:
+
+  WET TIME CHARTER ESTIMATE (S$/pdpr)
+
+  SIZE 1 YEAR 2 YEAR 3 YEAR'' 5 YEAR''
+
+  HANDY 16,500 15,500 A 15,500 aA 15,500
+
+  MR IMO3 18,000 16,500 A 19,000 a 19,000
+
+  LR1 19,950 19,950 22,500 21,500
+
+  LR2 25,000 23,500 4 28.000 28,000
+
+  AFRA (115k¢et) | W 22,000 22,500 27,500 27,500
+
+  SUEZ v 22,000 22,500 28,500 28,500
+
+  vicc Nf 20,000 22,500 v 35,000 v 35,000'
 themes:
 - image
 - main
@@ -35,7 +113,58 @@ vessel_classes:
 - vlcc
 - suezmax
 - aframax
+- handysize
 ---
+
+## Summary
+Main
+Image reference: 2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+
+Linked asset: 2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2022/2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+
+Linked image asset: 2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (72.0, 72.0)
+
+OCR text:
+BAALIBRA Updated Weds 22 Jun 2022
+Sieg erie:
+WET TIME CHARTER ESTIMATE (S$/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR' 5 YEAR'
+HANDY 16,500 15,500 A 15,500 aA 15,500
+MR IMO3 18,000 16,500 A 19,000 a 19,000
+LR1 19,950 19,950 22,500 21,500
+LR2 25,000 23,500 4 28.000 28,000
+AFRA (115k¢et) | W 22,000 22,500 27,500 27,500
+SUEZ v 22,000 22,500 28,500 28,500
+vicc Nf 20,000 22,500 v 35,000 v 35,000
 
 ## Main
 Image reference: 2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+
+## Linked asset: 2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2022/2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+
+Linked image asset: 2022-06-22_weekly-tanker-time-charter-estimates-june-22-2022_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (72.0, 72.0)
+
+OCR text:
+BAALIBRA Updated Weds 22 Jun 2022
+Sieg erie:
+WET TIME CHARTER ESTIMATE (S$/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR' 5 YEAR'
+HANDY 16,500 15,500 A 15,500 aA 15,500
+MR IMO3 18,000 16,500 A 19,000 a 19,000
+LR1 19,950 19,950 22,500 21,500
+LR2 25,000 23,500 4 28.000 28,000
+AFRA (115k¢et) | W 22,000 22,500 27,500 27,500
+SUEZ v 22,000 22,500 28,500 28,500
+vicc Nf 20,000 22,500 v 35,000 v 35,000

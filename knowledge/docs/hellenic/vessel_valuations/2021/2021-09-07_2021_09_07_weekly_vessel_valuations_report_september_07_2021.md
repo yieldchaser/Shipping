@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2021/2021-09-07_weekly-vessel-valuations-report-september-07-2021.html
@@ -88,3 +88,40 @@ Container: Container values have firmed.
 Post Panamax ER Denmark (5,990 TEU, Jul 2002, Samsung) sold for USD 43.50 mil, VV value USD 48.25 mil.
 Panamax MP The Edelman, MP The Gronk, MP The Brady & MP The Belichick (5,060 TEU, Jan 2005 - Nov 2006, Hanjin Heavy Industries) sold to MSC in an en bloc deal for USD 242.00 mil, VV en bloc Value USD 286.94 mil.
 Image reference: 2021-09-07_weekly-vessel-valuations-report-september-07-2021_img2.jpg
+
+## Linked asset: 2021-09-07_weekly-vessel-valuations-report-september-07-2021_img1.png
+Source asset: reports/hellenic/vessel_valuations/2021/2021-09-07_weekly-vessel-valuations-report-september-07-2021_img1.png
+
+Linked image asset: 2021-09-07_weekly-vessel-valuations-report-september-07-2021_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-09-07_weekly-vessel-valuations-report-september-07-2021_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2021/2021-09-07_weekly-vessel-valuations-report-september-07-2021_img2.jpg
+
+Linked image asset: 2021-09-07_weekly-vessel-valuations-report-september-07-2021_img2.jpg
+
+Image metadata: JPEG 678x281 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+© VesselsValue" --<§ Aaa
+07 September 2021 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra LRI MR Cape Pmax Supra Handy Pea Pmax Handy = Fmax
+a +0.6% -0.1% +1.1% -1.0% +0.9% +0.2% +1.1% +0.9% +1.9% +1.7% +2.6% +1.4% +1.7%
+320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100
+5 40.3% -0.1% +0.5% -1.0% +0.4% +0.5% +1.3% +1.7% +1.0% +1.7% +2.6% +1.5% +1.3%
+320K 160K 110K = 75K 50K 180K 80K 60K 30K 7000 4250 1750 ~=--:1100
+-" +0.6% -0.1% -0.9% -1.0% -0.8% -0.2% +1.2% +1.8% +2.0% +1.7% +2.6% +1.7% +1.5%
+310K 160K 110K = 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+ge 40.9% -0.1% -1.7% -1.0% -1.1% -0.3% +1.1% +1.1% 43.0% +1.7% +2.6% +1.8% +2.1%
+310K 160K 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100
+0 0.0% 0.0% 0.0% 0.0% -0.4% 0.0% +40.8% -0.4% 43.2% +1.7% +2.6% +1.9% +2.9%
+300K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+eS 0.0% N/A 0.0% 0.0% 0.0% 0.0% 0.0% -2.3% 42.4% +1.7% +2.6% +2.0% +3.7%
+295K N/A 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 #1100

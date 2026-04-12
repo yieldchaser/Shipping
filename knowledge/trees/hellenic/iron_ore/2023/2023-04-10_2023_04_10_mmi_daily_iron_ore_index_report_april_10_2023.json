@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 9861,
+  "token_count": 10787,
   "source_path": "reports/hellenic/iron_ore/2023/2023-04-10_mmi-daily-iron-ore-index-report-april-10-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-10-2023",
   "children": [
@@ -84,6 +84,34 @@
       "page_end": null,
       "token_count": 9489,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2023-04-10_2023_04_10_mmi_daily_iron_ore_index_report_april_10_2023__s03_linked_asset_2023_04_10_mmi_daily_iron_ore_index_report_april_10_2023_img2_jpg",
+      "doc_id": "hellenic_iron_ore_2023-04-10_2023_04_10_mmi_daily_iron_ore_index_report_april_10_2023",
+      "parent_id": "hellenic_iron_ore_2023-04-10_2023_04_10_mmi_daily_iron_ore_index_report_april_10_2023__root",
+      "title": "Linked asset: 2023-04-10_mmi-daily-iron-ore-index-report-april-10-2023_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-04-10_mmi-daily-iron-ore-index-report-april-10-2023_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-04-10_mmi-daily-iron-ore-index-report-april-10-2023_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/2023/2023-04-10_mmi-daily-iron-ore-index-report-april-10-2023_img2.jpg\n\nLinked image asset: 2023-04-10_mmi-daily-iron-ore-index-report-april-10-2023_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report | Apr 10th, 2023\nIRON ORE PORT STOCK INDEX (IOP!)\nApr 10th, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne | CFR Qingdao Equivalent (exc.",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "change",
+        "high",
+        "low",
+        "mtd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 894,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

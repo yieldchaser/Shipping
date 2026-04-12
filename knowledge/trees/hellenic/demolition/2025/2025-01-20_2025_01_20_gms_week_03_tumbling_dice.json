@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 7378,
+  "token_count": 7613,
   "source_path": "reports/hellenic/demolition/2025/2025-01-20_gms-week-03-tumbling-dice.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-03-tumbling-dice",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 6502,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-01-20_2025_01_20_gms_week_03_tumbling_dice__s03_linked_asset_2025_01_20_gms_week_03_tumbling_dice_img1_jpg",
+      "doc_id": "hellenic_demolition_2025-01-20_2025_01_20_gms_week_03_tumbling_dice",
+      "parent_id": "hellenic_demolition_2025-01-20_2025_01_20_gms_week_03_tumbling_dice__root",
+      "title": "Linked asset: 2025-01-20_gms-week-03-tumbling-dice_img1.jpg",
+      "section_path": [
+        "Linked asset: 2025-01-20_gms-week-03-tumbling-dice_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-01-20_gms-week-03-tumbling-dice_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2025/2025-01-20_gms-week-03-tumbling-dice_img1.jpg\n\nLinked image asset: 2025-01-20_gms-week-03-tumbling-dice_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-03-tumbling-dice_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-01-20_2025_01_20_gms_week_03_tumbling_dice__s04_linked_asset_2025_01_20_gms_week_03_tumbling_dice_img2_jpg",
+      "doc_id": "hellenic_demolition_2025-01-20_2025_01_20_gms_week_03_tumbling_dice",
+      "parent_id": "hellenic_demolition_2025-01-20_2025_01_20_gms_week_03_tumbling_dice__root",
+      "title": "Linked asset: 2025-01-20_gms-week-03-tumbling-dice_img2.jpg",
+      "section_path": [
+        "Linked asset: 2025-01-20_gms-week-03-tumbling-dice_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-01-20_gms-week-03-tumbling-dice_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2025/2025-01-20_gms-week-03-tumbling-dice_img2.jpg\n\nLinked image asset: 2025-01-20_gms-week-03-tumbling-dice_img2.jpg\n\nImage metadata: JPEG 686x150 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-03-tumbling-dice_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

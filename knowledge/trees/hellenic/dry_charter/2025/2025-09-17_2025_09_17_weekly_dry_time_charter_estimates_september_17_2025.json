@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Dry Time Charter Estimates, September 17 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2025-09-17_weekly-dry-time-charter-estimates-september-17-2025_img2.jpg\n\nLinked asset: 2025-09-17_weekly-dry-time-charter-estimates-september-17-2025_img2.jpg\nSource asset: reports/hellenic/dry_charter/2025/2025-09-17_weekly-dry-time-charter-estimates-september-17-2025_img2.jpg\n\nLinked image asset: 2025-09-17_weekly-dry-time-charter-estimates-september-17-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA [| B R A Updated Weds 17/09/2025\nShipping Limited\nDRY BULK TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4I6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (32k cut) 13,000 | 14,000 | 13,500 13,000 12,250 12,000\nSMAXUULTRA 17,000 18,000 16,000 17,000 14,500 14,750\nPANAKMAX | ¥ = 21,500 14,500 | 16,500 14,000 14,000 13,500\nCAPESIZE 22,750 | 22,750 22,750 22,750 22,000 22,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 33,
+  "token_count": 356,
   "source_path": "reports/hellenic/dry_charter/2025/2025-09-17_weekly-dry-time-charter-estimates-september-17-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-september-17-2025",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 31,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2025-09-17_2025_09_17_weekly_dry_time_charter_estimates_september_17_2025__s02_linked_asset_2025_09_17_weekly_dry_time_charter_estimates_september_17_2025_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2025-09-17_2025_09_17_weekly_dry_time_charter_estimates_september_17_2025",
+      "parent_id": "hellenic_dry_charter_2025-09-17_2025_09_17_weekly_dry_time_charter_estimates_september_17_2025__root",
+      "title": "Linked asset: 2025-09-17_weekly-dry-time-charter-estimates-september-17-2025_img2.jpg",
+      "section_path": [
+        "Linked asset: 2025-09-17_weekly-dry-time-charter-estimates-september-17-2025_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-09-17_weekly-dry-time-charter-estimates-september-17-2025_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2025/2025-09-17_weekly-dry-time-charter-estimates-september-17-2025_img2.jpg\n\nLinked image asset: 2025-09-17_weekly-dry-time-charter-estimates-september-17-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA [| B R A Updated Weds 17/09/2025\nShipping Limited\nDRY BULK TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4I6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (32k cut) 13,000 | 14,000 | 13,500 13,000 12,250 12,000\nSMAXUULTRA 17,000 18,000 16,000 17,000 14,500 14,750\nPANAKMAX | ¥ = 21,500 14,500 | 16,500 14,000 14,000 13,500\nCAPESIZE 22,750 | 22,750 22,750 22,750 22,000 22,000",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "charter",
+        "cut"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 290,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

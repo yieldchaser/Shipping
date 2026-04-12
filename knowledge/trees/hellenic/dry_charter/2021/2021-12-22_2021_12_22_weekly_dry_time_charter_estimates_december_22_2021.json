@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 132,
+  "token_count": 502,
   "source_path": "reports/hellenic/dry_charter/2021/2021-12-22_weekly-dry-time-charter-estimates-december-22-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-december-22-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 130,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2021-12-22_2021_12_22_weekly_dry_time_charter_estimates_december_22_2021__s02_linked_asset_2021_12_22_weekly_dry_time_charter_estimates_december_22_2021_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2021-12-22_2021_12_22_weekly_dry_time_charter_estimates_december_22_2021",
+      "parent_id": "hellenic_dry_charter_2021-12-22_2021_12_22_weekly_dry_time_charter_estimates_december_22_2021__root",
+      "title": "Linked asset: 2021-12-22_weekly-dry-time-charter-estimates-december-22-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-12-22_weekly-dry-time-charter-estimates-december-22-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-12-22_weekly-dry-time-charter-estimates-december-22-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2021/2021-12-22_weekly-dry-time-charter-estimates-december-22-2021_img2.jpg\n\nLinked image asset: 2021-12-22_weekly-dry-time-charter-estimates-december-22-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALIBRA Updated Wednesday 22 December 2021\nAy Abin tt Contact us for rates/charts on scrubber & eco tonnage. SIZE 6 MOS 1YR 2YR\nPERIOD ATL PAC ATL PAC ATL PAC\nHANDY w 28,000|= 23,500) ~ 24250)- 20,000|)= 16,000 |= 15,500\nSUPRAMAX | 28,500| 23,000} ~ 25,000}= 20,750)~ 16,250) 15,750\nULTRAMAX | 31,000|= 24,750) w 28,000)- 22,250|~ 16500) 16,000\nPANA/KMAX |\" 28,000) 25,500} ~ 22,000} 21,250)\" 17,000|}~ 17,000\nCAPESIZE | 25,750) 24,250!",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "abin"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 337,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

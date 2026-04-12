@@ -33,7 +33,7 @@ regions:
 - meg
 - singapore
 - japan
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2026/2026-03-03_weekly-vessel-valuations-report-march-03-2026.html
@@ -94,3 +94,40 @@ Panamax Container Seaspan Jakata (4,250 TEU, Feb 2006, Samsung) sold to Greek bu
 Handy Container Hansa Fresenburg (1,740 TEU, Feb 2013, Guangzhou Wenchong) sold to Global Feeder Shipping for USD 24.5 mil, VV Value USD 22.2 mil.
 Feedermax Spirit of Dubai (1,155 TEU, Jul 2009, Sedef) sold forward delivery to Turkish buyers for USD 13 mil, VV Value USD 17.1 mil
 Image reference: 2026-03-03_weekly-vessel-valuations-report-march-03-2026_img2.jpeg
+
+## Linked asset: 2026-03-03_weekly-vessel-valuations-report-march-03-2026_img1.png
+Source asset: reports/hellenic/vessel_valuations/2026/2026-03-03_weekly-vessel-valuations-report-march-03-2026_img1.png
+
+Linked image asset: 2026-03-03_weekly-vessel-valuations-report-march-03-2026_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2026-03-03_weekly-vessel-valuations-report-march-03-2026_img2.jpeg
+Source asset: reports/hellenic/vessel_valuations/2026/2026-03-03_weekly-vessel-valuations-report-march-03-2026_img2.jpeg
+
+Linked image asset: 2026-03-03_weekly-vessel-valuations-report-march-03-2026_img2.jpeg
+
+Image metadata: JPEG 687x318 mode=RGB
+
+Embedded info:
+dpi: (72.0, 72.0)
+
+OCR text:
+>) VesselsValue@_---------
+03 March 2026 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra Lat MR Cape Pmax Supra Handy pe . Pmax Handy Fmax
+is +116 +1.0%6 +25% +1.1% +14% 0.1% 0.8% 11.6% 10.4% 0.1% -O.1% 70.8% 0.0%
+320k 160k Sk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo
++1. *1.0% 91.0% +10% 0.3% 0.7% 95.9% *2.1% 20.4% 0.1% -O.1% 40.9% 0.0%
+. 320k 160k nok 75k SOk 180k 82k 60k 38k 7000 4250 1780 noo
++16 +1.0% 71.7% +0.9% +0.2% 11% +B.4% +2 40.4% 0.1% 0.1% +L 0.0%
+" 320k 160k nok 75k SOk 180k 80k 60k 35k 7000 4250 1750 noo
++1.2% +1.0%. +3.6% +0.9% +2.0% 41.2% 46.1% +15% +0.5% 02% 0.1% +13% 0.0%
+® 310k 160k nl0K 75k SOk 180K 80k 60k 32k 7000 4250 1750 noo
+t14% +1,0%6 th Ah +1.0% +3.0% 0.9% +1.8% 40.6% 70.4% 0.15% O16 14% +015
+2 310k 160k nok 70k 45k 180K 75k 5Sk 30k 7000 4250 1780 noo
+a +14% +1.0% +2.7% NAS +116 70.5% 27% 05% 10.4% 20.2% -O.1% +1.0% 0.0%
+300k 15Sk 105k 70k 45k 17Sk 7Sk 50k 30k 6500 4000 1750 noo

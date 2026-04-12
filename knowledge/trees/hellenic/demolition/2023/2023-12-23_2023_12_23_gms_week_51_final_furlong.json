@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 3639,
+  "token_count": 3878,
   "source_path": "reports/hellenic/demolition/2023/2023-12-23_gms-week-51-final-furlong.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-51-final-furlong",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 3228,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-12-23_2023_12_23_gms_week_51_final_furlong__s03_linked_asset_2023_12_23_gms_week_51_final_furlong_img1_jpg",
+      "doc_id": "hellenic_demolition_2023-12-23_2023_12_23_gms_week_51_final_furlong",
+      "parent_id": "hellenic_demolition_2023-12-23_2023_12_23_gms_week_51_final_furlong__root",
+      "title": "Linked asset: 2023-12-23_gms-week-51-final-furlong_img1.jpg",
+      "section_path": [
+        "Linked asset: 2023-12-23_gms-week-51-final-furlong_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-12-23_gms-week-51-final-furlong_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-12-23_gms-week-51-final-furlong_img1.jpg\n\nLinked image asset: 2023-12-23_gms-week-51-final-furlong_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-51-final-furlong_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-12-23_2023_12_23_gms_week_51_final_furlong__s04_linked_asset_2023_12_23_gms_week_51_final_furlong_img2_jpg",
+      "doc_id": "hellenic_demolition_2023-12-23_2023_12_23_gms_week_51_final_furlong",
+      "parent_id": "hellenic_demolition_2023-12-23_2023_12_23_gms_week_51_final_furlong__root",
+      "title": "Linked asset: 2023-12-23_gms-week-51-final-furlong_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-12-23_gms-week-51-final-furlong_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-12-23_gms-week-51-final-furlong_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-12-23_gms-week-51-final-furlong_img2.jpg\n\nLinked image asset: 2023-12-23_gms-week-51-final-furlong_img2.jpg\n\nImage metadata: JPEG 687x170 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-51-final-furlong_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

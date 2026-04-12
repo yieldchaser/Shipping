@@ -32,7 +32,7 @@ regions:
 - europe
 - meg
 - japan
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-11-16_weekly-vessel-valuations-report-november-15-2022.html
@@ -108,3 +108,40 @@ Small Chemical Tankers MTM Tokyo (20,900 DWT, Jan 2003, Kitanihon Zosen) and MTM
 Containers: Container values have softened
 No reported sales this week.
 Image reference: 2022-11-16_weekly-vessel-valuations-report-november-15-2022_img2.png
+
+## Linked asset: 2022-11-16_weekly-vessel-valuations-report-november-15-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-11-16_weekly-vessel-valuations-report-november-15-2022_img1.png
+
+Linked image asset: 2022-11-16_weekly-vessel-valuations-report-november-15-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-11-16_weekly-vessel-valuations-report-november-15-2022_img2.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-11-16_weekly-vessel-valuations-report-november-15-2022_img2.png
+
+Linked image asset: 2022-11-16_weekly-vessel-valuations-report-november-15-2022_img2.png
+
+Image metadata: PNG 678x259 mode=RGBA
+
+Embedded info:
+dpi: (95.9866, 95.9866)
+
+OCR text:
+O' h I \ f- i ~
+15 November 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC = Suez Afra LRI MR Cape Pmax Supra Handy ne Pmax Handy Fmax
+° +0.8% 41.0% 0.0% -1.3% +1.7% -0.8% +0.4% -0.6% -1.1% -3.3% -4.2% -3.6% -3.5%
+320K 160K = «110K 75K 50K 180K 82K = GOK 38K 7000 4250 «17501100
+5 +0.8% +2.2% 0.0% -1.5% -0.5% -1.0% +0.1% -0.6% -1.0% -2.7% -4.2% -3.5% -3.6%
+320K 160K = 110K 75K 50K 180K 80K 60K 35K 7000 «4250» 1750= 1100
+10 +0.8% +1.6% 0.0% -2.3% +0.4% "1.4% -0.7% -0.6% -1.0% -2.4% -4.2% -3.5% -3.8%
+310K 160K I10K- 75K 50K 180K 80K 60K = 32K 7000 4250 «1750-1100
+15 +0.7% 40.7% 0.0% -3.4% +5.4% -2.1% -1.5% -0.6% -1.0% 2.4% -4.3% -3.5% -4.0%
+310K = 160K = 110K 75K 50K 180K 75K 55K 30K 7000 «4250.» «17501100
+20 +0.7% +0.7% 0.0% -4.8% +12.1% -3.3% -2.8% -0.7% -1.1% -2.8% -4.8% -3.5% -4.3%
+305K 155K 105K 70K 45K 175K 75K SOK = 30K 6500 4000 1750 = 1100
+25 +0.7% N/A -0.1% -6.2% +15.0% -3.3% -3.2% -0.7% -1.1% -3.9% -5.A% -3.6% -4.5%
+300K N/A 105K --G5K 45K 170K 75K = 48K) 30K 5500 4000 1750 1100

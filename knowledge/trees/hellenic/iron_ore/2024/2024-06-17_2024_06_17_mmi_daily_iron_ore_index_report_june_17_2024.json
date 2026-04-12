@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 11216,
+  "token_count": 11851,
   "source_path": "reports/hellenic/iron_ore/2024/2024-06-17_mmi-daily-iron-ore-index-report-june-17-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-june-17-2024",
   "children": [
@@ -84,6 +84,34 @@
       "page_end": null,
       "token_count": 10811,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2024-06-17_2024_06_17_mmi_daily_iron_ore_index_report_june_17_2024__s03_linked_asset_2024_06_17_mmi_daily_iron_ore_index_report_june_17_2024_img2_jpg",
+      "doc_id": "hellenic_iron_ore_2024-06-17_2024_06_17_mmi_daily_iron_ore_index_report_june_17_2024",
+      "parent_id": "hellenic_iron_ore_2024-06-17_2024_06_17_mmi_daily_iron_ore_index_report_june_17_2024__root",
+      "title": "Linked asset: 2024-06-17_mmi-daily-iron-ore-index-report-june-17-2024_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-06-17_mmi-daily-iron-ore-index-report-june-17-2024_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-17_mmi-daily-iron-ore-index-report-june-17-2024_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/2024/2024-06-17_mmi-daily-iron-ore-index-report-june-17-2024_img2.jpg\n\nLinked image asset: 2024-06-17_mmi-daily-iron-ore-index-report-june-17-2024_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nfuni7h2n24 --|_----*FOT indo (in AGVAT, B/wettomne | CFR lingo Equant (ex. 13 VA,USDerytmne™\nIndex Fe Content Price Change Change% MTD YTD Low?",
+      "keywords": [
+        "change",
+        "high",
+        "low",
+        "mtd",
+        "price",
+        "ytd",
+        "fefines",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 603,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

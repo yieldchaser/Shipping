@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2021/2021-07-06_weekly-vessel-valuations-report-july-06-2021.html
@@ -93,3 +93,40 @@ Handy Bulker King Cotton (33,600 DWT, Oct 2011, Shin Kurushima) sold for USD 14.
 Container: Handy and Feedermax values have firmed.
 No sales with disclosed prices have been confirmed this week.
 Image reference: 2021-07-06_weekly-vessel-valuations-report-july-06-2021_img2.jpg
+
+## Linked asset: 2021-07-06_weekly-vessel-valuations-report-july-06-2021_img1.png
+Source asset: reports/hellenic/vessel_valuations/2021/2021-07-06_weekly-vessel-valuations-report-july-06-2021_img1.png
+
+Linked image asset: 2021-07-06_weekly-vessel-valuations-report-july-06-2021_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-07-06_weekly-vessel-valuations-report-july-06-2021_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2021/2021-07-06_weekly-vessel-valuations-report-july-06-2021_img2.jpg
+
+Linked image asset: 2021-07-06_weekly-vessel-valuations-report-july-06-2021_img2.jpg
+
+Image metadata: JPEG 678x309 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+© VesselsValue
+06 July 2021 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra' =-sLR1 MR Cape Pmax Supra Handy bibl Pmax Handy Fmax
+0 40.2% 0.0% +0.5% -0.2% 0.0% +0.5% +1.1% 41.1% +1.1% +0.1% 0.2% +2.4% +1.6%
+320K _160K__110K__75K__50K 180K___ 82K ___--60K__37K 7000 4250 1750 __1100
+5 40.3% 0.0% -0.4% 0.2% 0.0% +0.5% +14.1% 41.1% +1.0% 40.1% 0.0% +1.3% +1.3%
+320K _160K__110K__75K__50K 180K ___80K___-«60K__-30K 7000 4250 (1750 _1100
+10 40.2% 0.0% -2.3% 0.2% 0.0% +0.5% 41.1% 41.1% +1.0% +0.1% +0.2% +1.7% +1.8%
+310K 160K __110K__75K__50K 180K 80K__-«60K__-_-30K 7000 4250 (1750 __1100
+16 40.1% +0.0% -2.6% -0.5% 0.0% +0.5% +14.1% 41.1% +1.1% +0.1% +0.4% +4.8% +3.1%
+310K 160K 110K __70K__-45K 180K ___75K___-‘55K__30K 7000 4250 1750 _1400
+20 40.1% 40.1% 0.0% 0.4% 0.0% 0.0% +1.1% +1.1% +1.0% +0.1% +0.6% +11.4% +4.8%
+300K 155K 105K 70K -_-45K 175K 75K __50K__30K 6500 4000 1750 _1100
+25 0.0% NIA 0.0% 0.0% 0.0% 0.0% 0.0% +1.2% +1.2% +0.1% +0.9% +22.4% +6.3%
+295K N/A 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 1100

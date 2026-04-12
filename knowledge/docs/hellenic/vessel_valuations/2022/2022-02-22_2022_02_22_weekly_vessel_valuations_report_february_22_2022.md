@@ -32,7 +32,8 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+- brazil
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-02-22_weekly-vessel-valuations-report-february-22-2022.html
@@ -91,3 +92,40 @@ Post Panamaxes Navios Unite and Navios Utmost (8,204 TEU, Aug - Oct 2006, Hyunda
 Handy Containers Hull 1801, Hull 1802, Hull 1803 and Hull 1804 (1,868 TEU, Oct - Dec 2022, Yangfan Zhoushan) sold to CMA CGM in an en bloc deal for USD 178.00 mil, VV en bloc value USD 179.57 mil.
 Handy Container Hooge (1,402 TEU, Jul 2006, Jinling Shipyard Weihai) sold for USD 23.60 mil, VV value USD 25.57 mil - SS/DD Passed.
 Image reference: 2022-02-22_weekly-vessel-valuations-report-february-22-2022_img2.jpg
+
+## Linked asset: 2022-02-22_weekly-vessel-valuations-report-february-22-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-02-22_weekly-vessel-valuations-report-february-22-2022_img1.png
+
+Linked image asset: 2022-02-22_weekly-vessel-valuations-report-february-22-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-02-22_weekly-vessel-valuations-report-february-22-2022_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2022/2022-02-22_weekly-vessel-valuations-report-february-22-2022_img2.jpg
+
+Linked image asset: 2022-02-22_weekly-vessel-valuations-report-february-22-2022_img2.jpg
+
+Image metadata: JPEG 678x281 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+© Vessels Vale" -§-§ -ARA$AA
+22 February 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers containers
+fe vicc Suez Afra LRT MR Cape Pmax Supra Handy PS" Pmax Handy Fmax
+_ 0.6% 40.1% -04% 0.0% 40.2% 10.8% 10.6% 0.5% 41.9% 47.0% 44.4% 44.7% 40.5%
+420K 160K 110K 75K SOK««IBOK-«BIK~-«GOK--«BIK---7000-«4250-«*1750~-+1100
+: 03% 0.0% 40.1% 14% 1.6% 0.0% 10.5% 0.0% 12.6% 47.9% 44.5% 45.4% 41.3%
+20K 160K 110K 75K ~-«SOK-«80K=- KOK «OK=« 7000 «425017501300
+o 40.2% 12.8% 10.1% 2.7% 10.7% 40.0% -0.0% 0.0% 42:19 13.5% 15.0% 18.1% 12.0%
+NOK 160K 110K 75K «SOK 180K KOK «0K 7000 «425017501300
+= 403% 43.1% -0.2% 2.6% 40.39% 40.8% 0.7% 41.0% 19.3% 44.6% 16.0% 413.7% 42.7%
+"310K 160K 110K 75K SOK «SOK 75K ~-«SSK~-«OK 7000 4250--«1750-+100
+oo 10.7% 40.1% 40.7% $08 40.7% 40.7% 1.7% 415% 43.3% 463% 17.6% 423.2% 13.2%
+‘05K 155K 103K 70K ~-43K~-=«A7SK-«75K=-«SOK- «DOK 6500 4000-«1750-+1400
+= 40.7% N/A 40.1% 10.7% 40.8% 0.7% 10.8% 41.99% 12.0% 48.5% 410.2% +38.3% +3.59%
+Geni pate ale pele bei I pets oie oes ela pes Seri eee

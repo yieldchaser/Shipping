@@ -24,7 +24,7 @@ regions:
 - china
 - japan
 - europe
-section_count: 1
+section_count: 2
 signals: {}
 source: hellenic
 source_path: reports/hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec.html
@@ -75,3 +75,15 @@ The deal covers two 157,000-deadweight-ton tankers, with deliveries scheduled by
 HD Hyundai Samho is one of three shipbuilding affiliates under HD Korea Shipbuilding & Offshore Engineering (HD KSOE), along with HD Hyundai Heavy Industries and HD Hyundai Mipo Dockyard.
 HD KSOE is a sub-holding company of HD Hyundai, Korea's leading shipbuilding group.
 HD KSOE aims to secure $23.31 billion worth of orders this year, up from $18.16 billion last year. Source: Korea JoongAng Daily
+
+## Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg
+Source asset: reports/hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg
+
+Linked image asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (150, 150)
+
+[OCR skipped for small image (< 150000 pixels).]

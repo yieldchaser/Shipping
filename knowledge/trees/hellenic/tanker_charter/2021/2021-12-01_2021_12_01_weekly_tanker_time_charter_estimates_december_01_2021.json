@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 101,
+  "token_count": 438,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-12-01_weekly-tanker-time-charter-estimates-december-01-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-december-01-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 99,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2021-12-01_2021_12_01_weekly_tanker_time_charter_estimates_december_01_2021__s02_linked_asset_2021_12_01_weekly_tanker_time_charter_estimates_december_01_2021_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2021-12-01_2021_12_01_weekly_tanker_time_charter_estimates_december_01_2021",
+      "parent_id": "hellenic_tanker_charter_2021-12-01_2021_12_01_weekly_tanker_time_charter_estimates_december_01_2021__root",
+      "title": "Linked asset: 2021-12-01_weekly-tanker-time-charter-estimates-december-01-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-12-01_weekly-tanker-time-charter-estimates-december-01-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-12-01_weekly-tanker-time-charter-estimates-december-01-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-12-01_weekly-tanker-time-charter-estimates-december-01-2021_img2.jpg\n\nLinked image asset: 2021-12-01_weekly-tanker-time-charter-estimates-december-01-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nDeng Ne *3 & Syrs inc. scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1 YR 2 YR *3 YR *5 YR\nHANDY = 12,750 12,250 14,500 14,500\nMR IMO3 4 14,000 13,500 16,500 16,500\nLR1 4 15,000 15,250 17,250 | = 17,500\nLR2 4 19,000 19,750 24,950 26,000\nAFRA 4 18,250 18,750 23,500 25,000\nSUEZ 4 20,000 21,000 27,500 27,000\nvicc 4 23,500 26,000 36,000 37,500",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "afra",
+        "charter",
+        "deng",
+        "dpi",
+        "eco"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 304,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

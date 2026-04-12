@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2021/2021-07-27_weekly-vessel-valuations-report-july-27-2021.html
@@ -92,3 +92,39 @@ Handy Bulker Geki Star (28,400 DWT, Jul 2008, Shimanami) sold for USD 10.30 mil,
 Container: Container values have firmed.
 No sales with disclosed prices have been confirmed this week.
 Image reference: 2021-07-27_weekly-vessel-valuations-report-july-27-2021_img2.jpg
+
+## Linked asset: 2021-07-27_weekly-vessel-valuations-report-july-27-2021_img1.png
+Source asset: reports/hellenic/vessel_valuations/2021/2021-07-27_weekly-vessel-valuations-report-july-27-2021_img1.png
+
+Linked image asset: 2021-07-27_weekly-vessel-valuations-report-july-27-2021_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-07-27_weekly-vessel-valuations-report-july-27-2021_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2021/2021-07-27_weekly-vessel-valuations-report-july-27-2021_img2.jpg
+
+Linked image asset: 2021-07-27_weekly-vessel-valuations-report-july-27-2021_img2.jpg
+
+Image metadata: JPEG 678x298 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+OCR text:
+27 July 2021 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra LR1 MR Cape Pmax Supra Handy cost Pmax Handy Fmax
+0 40.2% +0.7% +0.6% -0.7% 41.1% -0.1% -1.6% -2.0% +0.8% +2.7% +6.6% +4.7% +5.3%
+320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100
+6 0.1% +0.6% +0.5% 0.7% -0.3% 0.2% -1.4% -2.2% +0.7% +3.2% +6.5% +4.6% +5.1%
+320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+10 0.7% 40.2% +0.8% -0.6% -0.1% -0.2% -1.0% -1.3% +0.7% +4.2% +6.3% +4.6% +5.8%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 0.8% -0.1% +1.0% 0.6% 40.5% -0.1% 0.4% +0.1% 40.7% +5.7% +6.2% +4.7% +7.2%
+310K 160K 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100
+20 0.0% -0.1% +0.9% +0.8% +0.5% +0.9% +0.3% +1.8% +0.7% +7.5% +6.1% +4.6% +8.9%
+300K 155K 105K 70K 45K 175K 75K SOK 30K 6500 4000 1750 1100
+26 +0.8% NIA +0.8% +0.7% +0.9% +0.8% +0.8% +3.1% +0.8% +9.8% +5.9% +4.6% +10.5%
+295K NA 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 1100

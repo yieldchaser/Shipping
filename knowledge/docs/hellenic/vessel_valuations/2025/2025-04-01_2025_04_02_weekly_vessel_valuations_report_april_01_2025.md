@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-04-02_weekly-vessel-valuations-report-april-01-2025.html
@@ -108,3 +108,40 @@ Aframax P Yanbu (105,400 DWT, Jan 2011, Sumitomo) sold to undisclosed buyers for
 Containers: Older Panamaxes are continuing up this week, smaller second-hand vessels nudging up too
 No notable sales this week
 Image reference: 2025-04-02_weekly-vessel-valuations-report-april-01-2025_img2.jpg
+
+## Linked asset: 2025-04-02_weekly-vessel-valuations-report-april-01-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-04-02_weekly-vessel-valuations-report-april-01-2025_img1.png
+
+Linked image asset: 2025-04-02_weekly-vessel-valuations-report-april-01-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-04-02_weekly-vessel-valuations-report-april-01-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-04-02_weekly-vessel-valuations-report-april-01-2025_img2.jpg
+
+Linked image asset: 2025-04-02_weekly-vessel-valuations-report-april-01-2025_img2.jpg
+
+Image metadata: JPEG 678x255 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+Ds) VesselsValue
+01 April 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra URL MR Cape Pmax Supra Handy Pico Pmax Handy Fmax
+0 40.1% +1.3% +0.2% -0.2% -0.6% 41.1% 40.3% +0.3% +0.7% 40.2% +0.5% -1.2% +0.5%
+320k 160k 115k 75k 50k 180k 82k 62k 38k 7000 © 4250 17501100
+s 0.0% -0.2% 40.4% -0.2% -0.6% 41.1% 40.4% 40.3% +1.2% 40.2% -1.3% -0.1% +0.5%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750-1100
+oa 40.1% -0.5% +1.7% -0.1% -0.6% 41.1% 40.4% +0.3% +1.7% 40.2% -2.7% +0.8% +0.5%
+320k 160k 110k 75k 50k 180k 80k 60k 35k 7000 = 4250 1750 1100
+ie 40.1% +1.0% +2.5% 0.0% -0.6% +1,1% 40.3% +0,3% +1.7% 40.2% -2.3% +1.4% +0.5%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 = 4250 17501100
+20 0.0% +4.1% +1.6% 0.0% -0.6% +1.1% 40.2% +0.2% +1.1% 40.2% +1.7% +1,8% +0.6%
+310k 160k 110k 70k 45k 180k 75k 55k 30k 7000 4250 1750 1100
+25 -0.1% +4.6% +0.6% -0.2% -0.6% 0.0% 0.0% +0.2% 0.0% 40.3% +12.3% +2.2% +0.6%
+B 300k 155k =: 105k 70k 45k 175k 75k 48k 30k 6500 4000 1750 #§=4100 |

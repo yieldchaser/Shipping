@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5564,
+  "token_count": 5815,
   "source_path": "reports/hellenic/demolition/2024/2024-03-19_gms-week-11-ramadan-reprieve.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-11-ramadan-reprieve",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4871,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-03-19_2024_03_19_gms_week_11_ramadan_reprieve__s03_linked_asset_2024_03_19_gms_week_11_ramadan_reprieve_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-03-19_2024_03_19_gms_week_11_ramadan_reprieve",
+      "parent_id": "hellenic_demolition_2024-03-19_2024_03_19_gms_week_11_ramadan_reprieve__root",
+      "title": "Linked asset: 2024-03-19_gms-week-11-ramadan-reprieve_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-03-19_gms-week-11-ramadan-reprieve_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-03-19_gms-week-11-ramadan-reprieve_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-03-19_gms-week-11-ramadan-reprieve_img1.jpg\n\nLinked image asset: 2024-03-19_gms-week-11-ramadan-reprieve_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-11-ramadan-reprieve_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-03-19_2024_03_19_gms_week_11_ramadan_reprieve__s04_linked_asset_2024_03_19_gms_week_11_ramadan_reprieve_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-03-19_2024_03_19_gms_week_11_ramadan_reprieve",
+      "parent_id": "hellenic_demolition_2024-03-19_2024_03_19_gms_week_11_ramadan_reprieve__root",
+      "title": "Linked asset: 2024-03-19_gms-week-11-ramadan-reprieve_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-03-19_gms-week-11-ramadan-reprieve_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-03-19_gms-week-11-ramadan-reprieve_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-03-19_gms-week-11-ramadan-reprieve_img2.jpg\n\nLinked image asset: 2024-03-19_gms-week-11-ramadan-reprieve_img2.jpg\n\nImage metadata: JPEG 692x206 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-11-ramadan-reprieve_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 545,
+  "token_count": 1379,
   "source_path": "reports/hellenic/vessel_valuations/2025/2025-09-09_weekly-vessel-valuations-report-september-09-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-09-2025",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 543,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2025-09-09_2025_09_09_weekly_vessel_valuations_report_september_09_2025__s02_linked_asset_2025_09_09_weekly_vessel_valuations_report_september_09_2025_img1_png",
+      "doc_id": "hellenic_vessel_valuations_2025-09-09_2025_09_09_weekly_vessel_valuations_report_september_09_2025",
+      "parent_id": "hellenic_vessel_valuations_2025-09-09_2025_09_09_weekly_vessel_valuations_report_september_09_2025__root",
+      "title": "Linked asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img1.png",
+      "section_path": [
+        "Linked asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img1.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img1.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/2025-09-09_weekly-vessel-valuations-report-september-09-2025_img1.png\n\nLinked image asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img1.png\n\nImage metadata: PNG 150x150 mode=RGB\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr",
+        "pixels",
+        "png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 95,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2025-09-09_2025_09_09_weekly_vessel_valuations_report_september_09_2025__s03_linked_asset_2025_09_09_weekly_vessel_valuations_report_september_09_2025_img2_jpg",
+      "doc_id": "hellenic_vessel_valuations_2025-09-09_2025_09_09_weekly_vessel_valuations_report_september_09_2025",
+      "parent_id": "hellenic_vessel_valuations_2025-09-09_2025_09_09_weekly_vessel_valuations_report_september_09_2025__root",
+      "title": "Linked asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img2.jpg",
+      "section_path": [
+        "Linked asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/2025-09-09_weekly-vessel-valuations-report-september-09-2025_img2.jpg\n\nLinked image asset: 2025-09-09_weekly-vessel-valuations-report-september-09-2025_img2.jpg\n\nImage metadata: JPEG 678x314 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\n(Ds) VesselsValue --------- eon\n09 September 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra LRT MR Cape Prax Supra Handy eed Pmax Handy Fmax\n‘ 104% 10.3% O46 0.0% 10.3% 20.3% OS® 10.3% 10.3% 0.0% 10.2% 0.0% +0.%\n320k 160k NSk 75k 50k 180k 82k 62k ak 7000 4250 1750 noo\n‘ 10.1% 10.1% =O. 0.0% 10.2% 103% 408% 412% = -0.1% 00% 03% 10.4% 10.9%\n320k Ok Ok Tsk Sk 180k 82k 60k 3k 7000 4250 1780 neo\n% 02% 40.1% 102% 0.0% 10.2% 103% 60.7% 416% 1.0% 0.0% 403% 40.7% 1.9%\n320k 160k nok Tsk SOk 180k 80k 60k Sk 7000 4250 780 neo\n04% 40.2% = 10.4% 0.0% 40.3% 103% 0.7% = 0.6% 7% 00% 403% «= 10.7% 42.7%\nid 310k 160k 10k 75k 50k 180k 80k 55k 30k 7000 4250 1750 noo\n35 05% 405% «10.4% 0H 10.3% 04% 33% AK 16% 0.0% 0.0% 05% +27%\n310k 160k NOk 70k 45k 160k 75k SSk 30k 7000 4250 1790 neo\n03% Lae +0.3% 0.0% 10.3% ae 68% ATS OBe 0.0% 0.7% 20.2% 90.7%\nte 300k 155k 105k 70k 45k 1",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "neo",
+        "noo",
+        "asset",
+        "handy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 680,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

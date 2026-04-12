@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-11-19_weekly-vessel-valuations-report-november-18-2025.html
@@ -113,3 +113,40 @@ Panamax Atlantica Power (4,586 TEU, Apr 2010, Daewoo) sold to MSC for USD 45 mil
 Panamax Irenes Resolve (3,739 TEU, Sep 2001, Samsung) sold to MSC for USD 23 mil Inc TC, VV Value USD 19.6 mil
 Panamax Rio Kobe (3,534 TEU, Dec 2009, Shanghai Shipyard) sold to MSC for USD 32.5 mil Inc TC, VV Value USD 30.5 mil
 Image reference: 2025-11-19_weekly-vessel-valuations-report-november-18-2025_img2.jpg
+
+## Linked asset: 2025-11-19_weekly-vessel-valuations-report-november-18-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-11-19_weekly-vessel-valuations-report-november-18-2025_img1.png
+
+Linked image asset: 2025-11-19_weekly-vessel-valuations-report-november-18-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-11-19_weekly-vessel-valuations-report-november-18-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-11-19_weekly-vessel-valuations-report-november-18-2025_img2.jpg
+
+Linked image asset: 2025-11-19_weekly-vessel-valuations-report-november-18-2025_img2.jpg
+
+Image metadata: JPEG 600x278 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+© VessetsVal re AR
+18 November 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra um MR Cape Pmax ‘Supra Handy badd Prax Handy Fmax
+5 10.1% LI OTH OK HEH 00% 04% «OK 40.5% 02% 00% 08K 0.1%
+320k 160k Sk Sk SOK 180k 82k 62k 38% 7000 4250 80 noo
+s 10.0% LIK HOH 08H 10.9% 07% 103% 0.0% 0.7% 2% 00% = =--O7% OK
+320k 160k nOk Tsk SOK 180K 82k 60k 38% 7000 4250 780 noo
+= 10.0% LIK OTH OTH 40.7% 09% OM 03% 13% 02% 100 OTK OH
+320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo
+i 101% LOH MK 10.9% 00% 04% UMS 02% 102% 08K 0.1%
+S0k = 60K Mk 73k 50k 10k 80k 58k 30k 7000 4280 «S000.
+si 10.0% LIK OTH 29% LAK 112% 04% 25H SH 02% 103% 09% 02%
+B0k 160k NOk 70k 45k 180k 75k 55k 30k 7000 4250 «S000.
+- 00% LIK HOH HOH HOH 00% 0.0% I O26 106% 09% 0.1%
+300k = 1SSk 105k 70k 45k 175k 75k 48k 30k 6500 4000 TSO N00

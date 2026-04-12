@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-10-07_weekly-vessel-valuations-report-october-07-2025.html
@@ -116,3 +116,40 @@ Containers: Second-hand values remain stable this week, the only notable change 
 Handy Container CNC Jupiter (1,952 TEU, Aug 2020, Tsuneishi Cebu) sold to CMA CGM for USD 36 mil, VV Value USD 37.4 mil.
 Feedermax SC Potomac (706 TEU, Jun 2002, Sedef) sold for USD 9.2 mil, VV Value USD 8.6 mil
 Image reference: 2025-10-07_weekly-vessel-valuations-report-october-07-2025_img2.jpg
+
+## Linked asset: 2025-10-07_weekly-vessel-valuations-report-october-07-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-10-07_weekly-vessel-valuations-report-october-07-2025_img1.png
+
+Linked image asset: 2025-10-07_weekly-vessel-valuations-report-october-07-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-10-07_weekly-vessel-valuations-report-october-07-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-10-07_weekly-vessel-valuations-report-october-07-2025_img2.jpg
+
+Linked image asset: 2025-10-07_weekly-vessel-valuations-report-october-07-2025_img2.jpg
+
+Image metadata: JPEG 678x314 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+Ds) Vrs bs Va a © pt$ me
+07 October 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra La MR Cape Pmax Supra Handy ees. Pmax Handy - Fmax
+40.4% 0.1% *23% 0.0% +0.2% +08% +0.1%6 +05% WAS 0.1% 0.1% 0.7% 02%
+7 320k 60K SK Sk SOK 180k 82k 62k 38k 7000 425078000
+‘ 205% 0.9% *SA% AK +0.2% t4 2% 20.5% *1.0% -OS% 0.1% 10.1% AB 02%
+320k 60K = MOK = Sk SOK 10k = 2k 60k 38K 7000 4250 «S000
+io 1% *1.6% +516 2.6% 20.2% *5.0% 10.4% 71.8% 0.7% 0.1% 0.0% AK 02%
+320k 160k nok 78k SOK 180k 80k 60k 35k 7000 4250 780 noo
+s +1.8% +1.8% +29% 37% 20.2% *3.7% 10.2% +3.3% AK 02% 0.0% 0.6% 0%
+50k 160k nok TSk SOK 180k 80k SSK 30k 7000 4250 1780 noo
+6 +2.1% +1S% +0.7% AM 40.3% +1S% +0.1% 44.8% "19% 03% 0.1% 20.2% 02%
+510k 160k NOx 70K 45k 180k 75k SSK 30k 7000 4250 780 noo
++2.1% 40.4% 02% 5.6% +03% 24% 70.2% 97% "25% 05% 03% 40.7% 03%
+a 300k = 155K NOSk OK = 45K Sk = 7Sk = 48k = 30k 6500 4000 1750 00

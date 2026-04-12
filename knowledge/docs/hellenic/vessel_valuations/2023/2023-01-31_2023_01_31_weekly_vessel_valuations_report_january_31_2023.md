@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-01-31_weekly-vessel-valuations-report-january-31-2023.html
@@ -89,3 +89,40 @@ MR2 Proodos (47,100 DWT, Jan 2005, STX Offshore) sold to Union Maritime for USD 
 Containers : Container values have softened
 Sub Panamax Cont SITC Surabaya (2,741 TEU, Jun 2006, Aker Ostsee) sold to undisclosed buyers for USD 13.00 mil, VV Value USD 14.15 mil.
 Image reference: 2023-01-31_weekly-vessel-valuations-report-january-31-2023_img2.jpg
+
+## Linked asset: 2023-01-31_weekly-vessel-valuations-report-january-31-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-01-31_weekly-vessel-valuations-report-january-31-2023_img1.png
+
+Linked image asset: 2023-01-31_weekly-vessel-valuations-report-january-31-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-01-31_weekly-vessel-valuations-report-january-31-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-01-31_weekly-vessel-valuations-report-january-31-2023_img2.jpg
+
+Linked image asset: 2023-01-31_weekly-vessel-valuations-report-january-31-2023_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+Ov I Vi i ~
+31 January 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra LRI MR Cape Pmax Supra Handy pote Pmax Handy Fmax
+. -0.1% +0.4% +0.8% +0.2% +0.1% +0.5% +0.1% -1.9% -0.5% "1.3% -1.2% -3.9% -2.8%
+320K 160K 110K = 75K 50K 180K 82K = GOK 38K 7000 4250 «1750 = 1100
+5 -0.1% -0.1% +0.1% 0.0% +0.4% +0.4% +0.1% -1.3% -0.5% -1.4% -3.4% -3.6% -2.7%
+320K 160K 110K 75K 50K 180K 80K 60K 38K 7000 «4250 « «1750 = 1100
+i -0.1% -0.1% -0.3% -0.1% +0.3% 40.2% +0.1% -1.1% -0.5% "1.8% -5.1% -2.7% -2.6%
+320K 160K 110K = 75K 50K 180K 80K 60K 32K 7000 4250 «1750 --1100
+1s "0.1% +0.9% -0.6% -0.1% -0.5% 0.1% +0.1% -1.3% -0.5% -2.3% -6.0% -1.9% -2.6%
+310K 160K 110K 75K 50K 180K 80K 55K 30K 7000 «4250.» «1750 = 1100
+20 -0.2% 43.1% -0.4% -0.1% -1.8% 42.7% +0.1% -1.6% -0.5% -3.0% -6.4% -3.1% -2.6%
+305K 155K 105K 70K 45K 175K 75K = SOK = 30K 6500 4000 1750 ©1100
+25 0.1% N/A -0.1% 0.0% -3.2% +2.7% +0.1% -2.1% -0.4% -3.8% -5.7% -9.6% -2.5%
+300K N/A 105K -«G5K 45K 170K 75K 948K =. 30K 6500 4000 1750 1100

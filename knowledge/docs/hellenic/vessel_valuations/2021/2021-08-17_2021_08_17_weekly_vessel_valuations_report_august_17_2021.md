@@ -33,7 +33,7 @@ regions:
 - europe
 - meg
 - singapore
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2021/2021-08-17_weekly-vessel-valuations-report-august-17-2021.html
@@ -91,3 +91,39 @@ Container: Container values have firmed.
 Handy container Gerrit Braren (1,682 TEU, May 2006, Wadan Yards MTW) sold to X-Press Feeders for USD 25.00 mil, VV value USD 20.83 mil.
 Handy container Jett (1,306 TEU, Jun 2007, Jinling Shipyard Weihai) sold to Israeli interests for USD 19.25 mil, VV Value USD 14.36 mil.
 Image reference: 2021-08-17_weekly-vessel-valuations-report-august-17-2021_img2.jpg
+
+## Linked asset: 2021-08-17_weekly-vessel-valuations-report-august-17-2021_img1.png
+Source asset: reports/hellenic/vessel_valuations/2021/2021-08-17_weekly-vessel-valuations-report-august-17-2021_img1.png
+
+Linked image asset: 2021-08-17_weekly-vessel-valuations-report-august-17-2021_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-08-17_weekly-vessel-valuations-report-august-17-2021_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2021/2021-08-17_weekly-vessel-valuations-report-august-17-2021_img2.jpg
+
+Linked image asset: 2021-08-17_weekly-vessel-valuations-report-august-17-2021_img2.jpg
+
+Image metadata: JPEG 678x298 mode=RGB
+
+Embedded info:
+dpi: (120, 120)
+
+OCR text:
+17 August 2021 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra LR1 MR Cape Pmax Supra Handy pd Pmax Handy Fmax
+0 0.3% -0.3% +0.8% +0.1% -0.6% +0.1% +0.7% +1.4% 0.0% +2.2% +4.3% +5.3% +5.3%
+320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100
+6 0.2% -0.3% 0.1% 0.3% 0.0% +0.1% +0.7% +1.4% -0.1% +3.4% +4.3% +7.4% +5.3%
+320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+10 07% 04% -1.2% 1.5% -1.4% 40.1% +0.7% +1.4% 0.0% +4.2% +4.3% +8.1% +6.9%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+16 "1.1% -0.4% +0.8% -2.8% -2.9% +0.1% +0.7% +1.4% -0.1% +4.5% +4.3% +7.3% +9.5%
+310K 160K 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100
+20 41.7% 41.6% 41.6% +1.7% 41.7% +1.6% +0.7% +1.3% 0.0% +4.4% +4.3% +4.9% +12.9%
+300K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+26 41.6% NIA 41.6% +1.7% 41.7% +1.6% 41.7% +1.4% 0.0% +4.0% +4.3% +1.3% +15.8%
+295K NWA 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 1100

@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2026/2026-03-24_weekly-vessel-valuations-report-march-24-2026.html
@@ -89,3 +89,40 @@ Containers: Older Sub Panamax containers are up a little this week following a r
 Sub Panamax Containers Margarete Schulte and Lucie Schulte (2,602 TEU, 2006, STX Offshore) sold to MSC for USD 50 mil en bloc, VV Value USD 49 mil.
 Feedermax Erasmus Oasis (1,049 TEU, Jun 2008, Dae Sun) sold to undisclosed buyers for USD 11 mil, VV Value USD 12.9 mil
 Image reference: 2026-03-24_weekly-vessel-valuations-report-march-24-2026_img2.jpeg
+
+## Linked asset: 2026-03-24_weekly-vessel-valuations-report-march-24-2026_img1.png
+Source asset: reports/hellenic/vessel_valuations/2026/2026-03-24_weekly-vessel-valuations-report-march-24-2026_img1.png
+
+Linked image asset: 2026-03-24_weekly-vessel-valuations-report-march-24-2026_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2026-03-24_weekly-vessel-valuations-report-march-24-2026_img2.jpeg
+Source asset: reports/hellenic/vessel_valuations/2026/2026-03-24_weekly-vessel-valuations-report-march-24-2026_img2.jpeg
+
+Linked image asset: 2026-03-24_weekly-vessel-valuations-report-march-24-2026_img2.jpeg
+
+Image metadata: JPEG 687x304 mode=RGB
+
+Embedded info:
+dpi: (72.0, 72.0)
+
+OCR text:
+© VesselsValuel¢ ---
+24 March 2026 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra iat MR Cape Prax Supra Handy Past Pmax Handy Fmax
++25% *3.0% *16% 108% *1.0% 04% 04% 02% *32% 10.2% 10.3% 0.6% 104%
+2 320k 160k Sk 75k SOk 180k 62k 62k 38x 7000 42590 790 noo
+5 125% +3.0% *1.6% 10.8% *1.0% 08% 09% 0.1% 118% 20.1% 10.3% 06% 0.1%
+320k 160k nOk 78k SOk 180k 62k 60K 38% 7000 4250 1780 noo
++25% +3.0% o1S% 10.7% +1.0% Ls LI 10.1% 204% 70.1% 40.3% OAM 0.7%
+© 320k 160k N0k Sk SOk 180k 80k 60k 3Sk 7000 4250 1780 noo
+ps +25% +3.0% +15% 108% +1.0% Ass AZ 40.1% 09% +0.1% +0.3% 0.0% "Ls
+Sk 10k nok Tsk Sk 180K 80k 60k 3m 7000 42590 1780 noo
++246 +3.0% +16% 20.7% *1.0% AS 2.0% 02% "16% +0.2% +0.3% 40.5% ASK
+2 Si0k OK nN0k 70k 45k 180k 75k SSK 30k 7000 4250 790 noo
+2s +25% *3.0% *1L7% 108% *1.0% AM ie 0.1% 19% 10.6% *02% 13% 10%
+300k ISSk 105k 70k 45k 175k 75k SOk 30k 6500 4000 1780 noo

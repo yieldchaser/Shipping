@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-02-02_weekly-vessel-valuations-report-february-01-2022.html
@@ -96,3 +96,40 @@ Container: Container values have firmed.
 Handy Container Kanway Galaxy (1,613 TEU, Oct 1997, Shin Kurushima Onishi) sold for USD 19.00 mil, VV value 19.41 mil.
 Feedermax Songa Cougar (1,118 TEU, Oct 2008, Jinling Shipyard Jiangsu) sold for USD 21.00 mil, VV value USD 20.68 mil - DD Passed.
 Image reference: 2022-02-02_weekly-vessel-valuations-report-february-01-2022_img2.jpg
+
+## Linked asset: 2022-02-02_weekly-vessel-valuations-report-february-01-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-02-02_weekly-vessel-valuations-report-february-01-2022_img1.png
+
+Linked image asset: 2022-02-02_weekly-vessel-valuations-report-february-01-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-02-02_weekly-vessel-valuations-report-february-01-2022_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2022/2022-02-02_weekly-vessel-valuations-report-february-01-2022_img2.jpg
+
+Linked image asset: 2022-02-02_weekly-vessel-valuations-report-february-01-2022_img2.jpg
+
+Image metadata: JPEG 700x296 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+D) VesselsValue™ $< ooo
+01 February 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age viCcc Suez Afra LR MR Cape Pmax Supra Handy roe Pmax Handy = Fmax
+0 "1.1% -0.9% -0.8% -0.3% -0.1% "1.5% +0.6% -2.2% -1.5% 46.2% +2.0% +3.7% +0.9%
+320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100
+5 "1.1% -1.4% -0.8% +5.3% +0.6% "6.5% +0.4% -3.3% -1.4% 46.2% +5.4% +3.9% +2.2%
+320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+10 0.9% -2.6% -0.8% +4.4% -1.4% -12.0% -0.4% -3.6% -2.3% +6.2% +7.6% +4.4% +3.1%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 0.9% -3.3% -0.7% -1.6% 0.0% -15.7% -1.4% -3.1% -3.6% +6.2% +8.3% +5.2% +3.5%
+310K 160K 110K 75K 50K 180K 75K SSK 30K 7000 4250 1750 1100
+20 +6.6% +6.6% +6.7% +6.7% +6.6% +6.7% -2.6% -2.4% -5.1% 46.0% +7.8% +6.4% +3.3%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 +6.6% N/A +6.6% +6.6% +6.6% +6.7% -3.5% -1.4% -7.0% +5.4% +5.0% +7.7% +2.6%
+300K N/A 105K 65K 45K 170K 75K 48K 30K 5500 4000 1750 1100

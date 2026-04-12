@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-06-21_weekly-vessel-valuations-report-june-21-2022.html
@@ -94,3 +94,40 @@ Containers: Container values have firmed
 Sub Panamax Cont Irenes Rainbow (2,824 TEU, Apr 2006, Hyundai Mipo) sold to CMA CGM for USD 45.00 mil, VV Value USD 43.95 mil.
 Handy Containers Hull 2415 and Hull 2416 (1,500 TEU, Jan 2023, Guangzhou Huangpu Shipbuilding) sold to Far Eastern buyers for USD 63.00 mil, VV Value USD 70.62 mil - Resale.
 Image reference: 2022-06-21_weekly-vessel-valuations-report-june-21-2022_img2.png
+
+## Linked asset: 2022-06-21_weekly-vessel-valuations-report-june-21-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-06-21_weekly-vessel-valuations-report-june-21-2022_img1.png
+
+Linked image asset: 2022-06-21_weekly-vessel-valuations-report-june-21-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-06-21_weekly-vessel-valuations-report-june-21-2022_img2.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-06-21_weekly-vessel-valuations-report-june-21-2022_img2.png
+
+Linked image asset: 2022-06-21_weekly-vessel-valuations-report-june-21-2022_img2.png
+
+Image metadata: PNG 678x249 mode=RGBA
+
+Embedded info:
+dpi: (143.99259999999998, 143.99259999999998)
+
+OCR text:
+© VesselsValue™
+21 June 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra. = LRT MR Cape Pmax Supra Handy ost pmax Handy Fmax
+0 +0.6% +0.4% 40.7% 41.3% +1.8% 0.9% -0.9% 0.0% 0.0% 40.4% +0.3% +0.5% +0.4%
+320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100
+5 10.2% 0.2% +10.4% +#0.2% 11.3% 0.9% 2.2% 0.2% 04% 10.5% +£0.3% 10.5% 10.4%
+320K 160K 110K 75K ~-«S0K 180K 80K 60K 30K 7000 4250 ©1750 ~-‘1100
+10 0.0% 0.9% +1.5% +0.3% +1.0% 0.9% -2.3% -0.6% -0.8% 40.5% 40.3% +0.5% +0.3%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 0.0% 1.3% +2.0% ¢1.1% +3.2% 0.9% 0.9% 1.3% 0.0% 40.5% 0.3% 10.5% 10.2%
+310K 160K 110K 75K = «SOK 180K 75K 55K 30K 7000 4250 © «1750 1100
+20 +0.2% -1.0% +1.2% 0.0% +3.1% 0.0% +1.4% -2.2% +1.7% 40.6% +0.4% +0.5% +0.4%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 0.0% N/A 0.0% 0.0% 0.0% 0.0% #4.4% 3.5% 43.9% 40.6% 0.4% +0.5% 41.6%
+300K N/A «105K-s«OSK «45K 170K 75K -«48KS 0K 5500 4000 1750 1100

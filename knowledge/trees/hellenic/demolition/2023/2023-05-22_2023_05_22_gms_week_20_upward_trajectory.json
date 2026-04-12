@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 4966,
+  "token_count": 5247,
   "source_path": "reports/hellenic/demolition/2023/2023-05-22_gms-week-20-upward-trajectory.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-20-upward-trajectory",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4458,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-05-22_2023_05_22_gms_week_20_upward_trajectory__s03_linked_asset_2023_05_22_gms_week_20_upward_trajectory_img1_jpg",
+      "doc_id": "hellenic_demolition_2023-05-22_2023_05_22_gms_week_20_upward_trajectory",
+      "parent_id": "hellenic_demolition_2023-05-22_2023_05_22_gms_week_20_upward_trajectory__root",
+      "title": "Linked asset: 2023-05-22_gms-week-20-upward-trajectory_img1.jpg",
+      "section_path": [
+        "Linked asset: 2023-05-22_gms-week-20-upward-trajectory_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-05-22_gms-week-20-upward-trajectory_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-05-22_gms-week-20-upward-trajectory_img1.jpg\n\nLinked image asset: 2023-05-22_gms-week-20-upward-trajectory_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-20-upward-trajectory_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-05-22_2023_05_22_gms_week_20_upward_trajectory__s04_linked_asset_2023_05_22_gms_week_20_upward_trajectory_img2_jpg",
+      "doc_id": "hellenic_demolition_2023-05-22_2023_05_22_gms_week_20_upward_trajectory",
+      "parent_id": "hellenic_demolition_2023-05-22_2023_05_22_gms_week_20_upward_trajectory__root",
+      "title": "Linked asset: 2023-05-22_gms-week-20-upward-trajectory_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-05-22_gms-week-20-upward-trajectory_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-05-22_gms-week-20-upward-trajectory_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-05-22_gms-week-20-upward-trajectory_img2.jpg\n\nLinked image asset: 2023-05-22_gms-week-20-upward-trajectory_img2.jpg\n\nImage metadata: JPEG 685x242 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nRank Location Sentiment Bey Balk Loamnics Contsiness\nUSD / LDT USD / LDT USD / LDT\n[4 [turkey [Weak | s00/upT | s80/tpr | _340/toT_|\n*Subject L/C approval",
+      "keywords": [
+        "ldt",
+        "usd",
+        "asset",
+        "image",
+        "approval",
+        "balk",
+        "bey",
+        "contsiness"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

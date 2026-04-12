@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5635,
+  "token_count": 5876,
   "source_path": "reports/hellenic/demolition/2024/2024-11-11_gms-week-45-victoryor-doom.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-45-victoryor-doom",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4763,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-11-11_2024_11_11_gms_week_45_victoryor_doom__s03_linked_asset_2024_11_11_gms_week_45_victoryor_doom_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-11-11_2024_11_11_gms_week_45_victoryor_doom",
+      "parent_id": "hellenic_demolition_2024-11-11_2024_11_11_gms_week_45_victoryor_doom__root",
+      "title": "Linked asset: 2024-11-11_gms-week-45-victoryor-doom_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-11-11_gms-week-45-victoryor-doom_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-11-11_gms-week-45-victoryor-doom_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-11-11_gms-week-45-victoryor-doom_img1.jpg\n\nLinked image asset: 2024-11-11_gms-week-45-victoryor-doom_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-45-victoryor-doom_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-11-11_2024_11_11_gms_week_45_victoryor_doom__s04_linked_asset_2024_11_11_gms_week_45_victoryor_doom_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-11-11_2024_11_11_gms_week_45_victoryor_doom",
+      "parent_id": "hellenic_demolition_2024-11-11_2024_11_11_gms_week_45_victoryor_doom__root",
+      "title": "Linked asset: 2024-11-11_gms-week-45-victoryor-doom_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-11-11_gms-week-45-victoryor-doom_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-11-11_gms-week-45-victoryor-doom_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-11-11_gms-week-45-victoryor-doom_img2.jpg\n\nLinked image asset: 2024-11-11_gms-week-45-victoryor-doom_img2.jpg\n\nImage metadata: JPEG 685x148 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-45-victoryor-doom_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

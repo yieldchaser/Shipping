@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5737,
+  "token_count": 5984,
   "source_path": "reports/hellenic/demolition/2024/2024-04-22_gms-week-16-versions-of-volatility.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-16-versions-of-volatility",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 5025,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-04-22_2024_04_22_gms_week_16_versions_of_volatility__s03_linked_asset_2024_04_22_gms_week_16_versions_of_volatility_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-04-22_2024_04_22_gms_week_16_versions_of_volatility",
+      "parent_id": "hellenic_demolition_2024-04-22_2024_04_22_gms_week_16_versions_of_volatility__root",
+      "title": "Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-04-22_gms-week-16-versions-of-volatility_img1.jpg\n\nLinked image asset: 2024-04-22_gms-week-16-versions-of-volatility_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-16-versions-of-volatility_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-04-22_2024_04_22_gms_week_16_versions_of_volatility__s04_linked_asset_2024_04_22_gms_week_16_versions_of_volatility_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-04-22_2024_04_22_gms_week_16_versions_of_volatility",
+      "parent_id": "hellenic_demolition_2024-04-22_2024_04_22_gms_week_16_versions_of_volatility__root",
+      "title": "Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-04-22_gms-week-16-versions-of-volatility_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-04-22_gms-week-16-versions-of-volatility_img2.jpg\n\nLinked image asset: 2024-04-22_gms-week-16-versions-of-volatility_img2.jpg\n\nImage metadata: JPEG 689x189 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-16-versions-of-volatility_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-07-16_weekly-vessel-valuations-report-july-26-2022.html
@@ -95,3 +95,40 @@ MR2 Challenge Phoenix (47,800 DWT, Oct 2007, STX Offshore) sold to R Shipping Pr
 Containers: Container values have softened
 No reported sales last week.
 Image reference: 2022-07-16_weekly-vessel-valuations-report-july-26-2022_img2.png
+
+## Linked asset: 2022-07-16_weekly-vessel-valuations-report-july-26-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-07-16_weekly-vessel-valuations-report-july-26-2022_img1.png
+
+Linked image asset: 2022-07-16_weekly-vessel-valuations-report-july-26-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-07-16_weekly-vessel-valuations-report-july-26-2022_img2.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-07-16_weekly-vessel-valuations-report-july-26-2022_img2.png
+
+Linked image asset: 2022-07-16_weekly-vessel-valuations-report-july-26-2022_img2.png
+
+Image metadata: PNG 678x249 mode=RGBA
+
+Embedded info:
+dpi: (143.99259999999998, 143.99259999999998)
+
+OCR text:
+© VesselsValue™
+26 July 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra. = LRT MR Cape Pmax Supra Handy ost pmax Handy Fmax
+0 40.3% +1.3% 44.4% +0.8% +0.8% +0.5% -1.1% -0.7% -1.1% -1.0% -0.3% -2.5% -0.6%
+320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100
+5 12.3% 13.0% 13.8% 10.8% 12.6% 0.5% 1.1% +0.2% 1.1% 1.1% 0.3% 2.6% 21%
+320K 160K 110K 75K == «SOK 180K 80K 60K 30K 7000 4250 ©-«1750 ~-‘1100
+10 +2.5% +4.4% +6.9% +0.8% +5.0% 0.4% -1.1% +0.6% -1.1% "1.1% -0.3% -2.7% -2.9%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 11.4% 14.4% +#11.3% +#0.7% 19.0% 41.3% 1.1% +0.9% 1.1% 1.2% 0.1% 3.0% 2.8%
+310K 160K 110K 75K = SOK 180K 75K 55K 30K 7000 4250 «1750 ‘1100
+20 40.4% +1.2% +13.5% +0.6% +17.6% "1.3% -1.1% +0.8% -1.1% "1.4% +0.1% -3.2% -1.0%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 1.7% N/A #10.3% +0.5% 1.7% 1.7% 1.2% +0.2% 1.1% 1.6% +0.4% 3.4% 42.7%
+300K N/A --105K-s«OSK «ASK 170K 75K 48K 30K 5500 4000 1750 1100

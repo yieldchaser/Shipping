@@ -24,7 +24,7 @@ regions:
 - india
 - china
 - europe
-section_count: 2
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/demolition/2021/2021-08-11_athenian-shipbrokers-s-a-demolition-quick-update-week-31-202.html
@@ -193,3 +193,15 @@ Athenian Shipbrokers S.A. does not guarantee their accuracy or completeness and 
 way whatsoever on the information contained herein.
 Kind Regards,
 ATHENIAN SHIPBROKERS S.A
+
+## Linked asset: 2021-08-11_athenian-shipbrokers-s-a-demolition-quick-update-week-31-202_img1.jpg
+Source asset: reports/hellenic/demolition/2021/2021-08-11_athenian-shipbrokers-s-a-demolition-quick-update-week-31-202_img1.jpg
+
+Linked image asset: 2021-08-11_athenian-shipbrokers-s-a-demolition-quick-update-week-31-202_img1.jpg
+
+Image metadata: JPEG 120x100 mode=RGB
+
+Embedded info:
+dpi: (72, 72)
+
+[OCR skipped for small image (< 150000 pixels).]

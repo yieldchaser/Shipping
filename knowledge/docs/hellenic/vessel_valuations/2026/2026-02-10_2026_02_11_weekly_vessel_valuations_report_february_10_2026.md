@@ -32,7 +32,7 @@ regions:
 - europe
 - meg
 - singapore
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2026/2026-02-11_weekly-vessel-valuations-report-february-10-2026.html
@@ -121,3 +121,40 @@ Panamax Container Rio Grande (4,253 TEU, Jul 2008, Samsung) sold to Singapore fo
 Handy Container Kanway Lucky (1,930 TEU, Nov 2022, Guangzhou Huangpu Shipbuilding) sold to Erasmus Shipinvest for USD 33 mil, VV Value USD 34.3 mil.
 Feedermax Nordic Porto (1,084 TEU, Jan 2011, Nanjing Wujiazui) sold to MSC for USD 14 mil, VV Value USD 12.6 mil
 Image reference: 2026-02-11_weekly-vessel-valuations-report-february-10-2026_img2.jpeg
+
+## Linked asset: 2026-02-11_weekly-vessel-valuations-report-february-10-2026_img1.png
+Source asset: reports/hellenic/vessel_valuations/2026/2026-02-11_weekly-vessel-valuations-report-february-10-2026_img1.png
+
+Linked image asset: 2026-02-11_weekly-vessel-valuations-report-february-10-2026_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2026-02-11_weekly-vessel-valuations-report-february-10-2026_img2.jpeg
+Source asset: reports/hellenic/vessel_valuations/2026/2026-02-11_weekly-vessel-valuations-report-february-10-2026_img2.jpeg
+
+Linked image asset: 2026-02-11_weekly-vessel-valuations-report-february-10-2026_img2.jpeg
+
+Image metadata: JPEG 687x318 mode=RGB
+
+Embedded info:
+dpi: (72.0, 72.0)
+
+OCR text:
+>) VesselsValue@_---------
+10 February 2026 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra Lat MR Cape Pmax Supra Handy pe . Pmax Handy Fmax
+is 2.2% 12.9% 1% +1.2% 40.2% 71.8% 10.3% 40.7% 10.2% 28% -O.1% 0.1% 02%
+320k 160k nSk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo
++1.7% 74.1% +1.2% +15% +0.2% *1.8% 40.3% +1.7% +1.9% 2.6% -O.1% -O.1% +11%
+. 320k 160k nok 75k 50k 180k 82k 60k 38k 7000 4250 1780 noo
++13% +5.S% +2.0% 44.2% +0.2% +1.8% 40.3% 41.7% +3.6% 1.8% 0.1% 0.1% +25%
+" 320k 160k nok 75k SOk 180k 80k 60k 35k 7000 4250 1750 noo
++1.0% +6.8% +4.0% +5.5% +0.2% +1.8% 40.3% +1.0% 44.0% 0.8% 0.2% 0.1% +38%
+® 310k 160k nok 75k SOk 180K 80k 60k 32k 7000 4250 1750 noo
+20 12% +7.3% 75.8% 14.2% +0.2% 71.8% 70.3% 03% +3.0% 0.0% 0.2% 01% 445%
+310k 160k nok 70k 45k 180K 7Sk 5Sk 30k 7000 4250 1780 noo
+a 91.3% 6.0% 24.7% 0.6% +0.3% 71.8% 70.3% 21% 10.4% 70.5% 0.3% 0.1% 243%
+300k 15Sk 105k 70k 45k 17Sk 7Sk 50k 30k 6500 4000 1750 noo

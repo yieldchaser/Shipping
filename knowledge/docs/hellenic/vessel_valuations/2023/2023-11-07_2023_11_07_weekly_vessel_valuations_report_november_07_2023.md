@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-11-07_weekly-vessel-valuations-report-november-07-2023.html
@@ -117,3 +117,40 @@ MR1 Dictador (34,700 DWT, Nov 2019, Fujian Mawei Shipbuilding) sold to undisclos
 Containers: Second-hand values continued to soften across the board last week. Values for 20YO Panamax, Sub Panamax, and Handy's depreciated the most down 0.9% on average
 Panamax Polonia (3,091 TEU, Feb 2003, Stocznia Szczecin Nowa) sold to MSC for USD 15 mil including TC until 2024, VV Value USD 8.4d mil
 Image reference: 2023-11-07_weekly-vessel-valuations-report-november-07-2023_img2.jpg
+
+## Linked asset: 2023-11-07_weekly-vessel-valuations-report-november-07-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-11-07_weekly-vessel-valuations-report-november-07-2023_img1.png
+
+Linked image asset: 2023-11-07_weekly-vessel-valuations-report-november-07-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-11-07_weekly-vessel-valuations-report-november-07-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-11-07_weekly-vessel-valuations-report-november-07-2023_img2.jpg
+
+Linked image asset: 2023-11-07_weekly-vessel-valuations-report-november-07-2023_img2.jpg
+
+Image metadata: JPEG 678x256 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+tb) VesseisVake
+07 November 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra, LR mR Cape Pmax Supra, Mandy = POS pmax Mandy Fmax
+‘ 0.0% 0.1% 0.1% 40.5% 0.0% 0.5% 0.5% 40.6% 40.3% 0.8% 0.9% 0.9% -1.2%
+320k 160k 1108 75k 50k 190% 82k Oe 38k 7000 4250-1780 1100
+5 40.7% -0.1% 0.1% 0.2% +0.1% 0.0% 40.6% +0.3% -0.3% 0.8% -0.9% 0.8% "1.2%
+3208 160% 110% 75k SOk 180% 80% 6on 388 7000 4250 1750 1100
+10 40.1% = =-0.1% 0.1% 40.2% +0.1% 0.3% 40.9% +0.7% 0.2% 0.8% 0.9% 0.9% 1.4%
+320% 160% 110% 75k SOk 180% 80% 608 32k 7000 4250 1750 1100
+15 19% 0.2% 0.1% +2.0% 0.0% 0.4% 40.6% +1.5% 40.5% 0.8% 0.9% 0.9% "1.4%
+310k 160% 110k 75k SOk 180% 80% Sse 30k 7000 4250 1730 1100
+20 3.6% 0.2% 0.1% 5.4% 02% 0.0% 0.1% ‘24% +1.3% 0.8% 0.9% 0.9% 1.4%
+305k = «1SSk 105k 70k 45k 173k 75k 50k 30k 6500 4000 «17501100
+ad 3.5% N/A 0.1% N/A -0.4% 0.0% 0.0% +0.4% +2.5% 0.0% 0.0% 0.0% -1.5%
+300k 150k 105k WA 45k 170k 75k 49% 30k 6500 4000 1750 1100

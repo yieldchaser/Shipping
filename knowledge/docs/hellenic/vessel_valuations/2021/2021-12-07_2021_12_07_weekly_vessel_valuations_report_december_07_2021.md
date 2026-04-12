@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2021/2021-12-07_weekly-vessel-valuations-report-december-07-2021.html
@@ -91,3 +91,40 @@ Container: Container values have softened.
 Handy Container A Fuji (1,800 TEU, Jan 2021, Jiangsu New Yangzijang) sold to Wan Hai Lines for USD 42.75 mil, VV value USD 45.12 mil.
 Handy Container Bremen Trader (1,800 TEU, Apr 2021, COSCO Guangdong) sold to Wan Hai Lines for USD 42.75 mil, VV value USD 45.52.
 Image reference: 2021-12-07_weekly-vessel-valuations-report-december-07-2021_img2.jpg
+
+## Linked asset: 2021-12-07_weekly-vessel-valuations-report-december-07-2021_img1.png
+Source asset: reports/hellenic/vessel_valuations/2021/2021-12-07_weekly-vessel-valuations-report-december-07-2021_img1.png
+
+Linked image asset: 2021-12-07_weekly-vessel-valuations-report-december-07-2021_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2021-12-07_weekly-vessel-valuations-report-december-07-2021_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2021/2021-12-07_weekly-vessel-valuations-report-december-07-2021_img2.jpg
+
+Linked image asset: 2021-12-07_weekly-vessel-valuations-report-december-07-2021_img2.jpg
+
+Image metadata: JPEG 678x286 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+© VesselsVabne™ © A$
+07 December 2021 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vicc Suez Afra LRI MR Cape Pmax Supra Handy peal Pmax Handy = Fmax
+0 "1.2% -0.8% -0.2% -0.1% -1.1% 40.3% +0.3% +0.8% +1.0% "1.1% -1.8% -2.9% -2.6%
+320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100
+5 "1.2% -0.6% -0.2% -0.1% -2.1% 1.0% +0.3% +1.2% +1.0% "1.1% -1.8% -2.8% -2.1%
+320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100
+10 "1.1% -0.1% -0.2% -0.1% -3.4% 0.9% +0.3% +1.6% +1.0% 0.8% -1.8% -2.8% -2.2%
+310K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100
+15 -1.2% -0.6% -0.1% -0.2% -1.4% 0.1% +0.3% +2.0% +1.0% -0.3% -1.8% -2.8% -3.0%
+310K 160K 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100
+20 3.1% -3.1% -3.1% -3.1% -3.0% -3.1% +0.3% +2.5% +1.0% +0.7% -1.8% -2.7% -4.1%
+300K 155K 105K 70K 45K 175K 75K SOK 30K 6500 4000 1750 1100
+25 ~3.1% N/A "3.1% -3.0% -3.1% "3.1% +0.2% +2.9% +1.1% +2.4% -1.9% -2.7% -5.5%
+295K N/A 100K 65K 45K 160K 70K 48K 30K 5500 4000 1750 1100

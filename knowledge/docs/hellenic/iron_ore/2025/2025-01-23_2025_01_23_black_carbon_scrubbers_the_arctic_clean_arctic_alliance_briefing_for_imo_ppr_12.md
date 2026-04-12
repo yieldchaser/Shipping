@@ -27,7 +27,22 @@ regions:
 - brazil
 - australia
 section_count: 1
-signals: {}
+signals:
+  benchmark_prices: {}
+  iron_ore_metrics:
+  - metric: numeric_observation
+    source_line: Ahead of the IMO's Pollution Prevention and Response sub-committee
+      (PPR 12), which will meet from27-31 January 2025, this online briefing will
+      provide insights on the agenda, likely discussions and possible outcomes of
+      importance to ship operations in the Arct
+    unit: null
+    values:
+    - 12.0
+    - 7.0
+    - -31.0
+    - 2025.0
+  metric_units: []
+  signal_family: hellenic_iron_ore_indices
 source: hellenic
 source_path: reports/hellenic/iron_ore/2025/2025-01-23_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12.html
 source_stem: 2025-01-23_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12

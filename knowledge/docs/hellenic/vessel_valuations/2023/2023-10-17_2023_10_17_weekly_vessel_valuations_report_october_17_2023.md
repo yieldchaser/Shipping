@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-10-17_weekly-vessel-valuations-report-october-17-2023.html
@@ -117,3 +117,40 @@ MR2 (Chem/Product) Lacerta & Bora Bora (50,000 DWT, Mar - Jun 2016, SPP) sold to
 Containers : Secondhand values for 15YO assets depreciated c.3% for Feedermax, Handy and Sub Panamax impacting small ship types the most. Other segments lost between 1 and 2%
 Panamax Oakland (4,890 TEU, Oct 2000, Hyundai HI) sold to unknown Chinese buyers for USD 11.90 mil, VV Value USD 11.29d
 Image reference: 2023-10-17_weekly-vessel-valuations-report-october-17-2023_img2.jpg
+
+## Linked asset: 2023-10-17_weekly-vessel-valuations-report-october-17-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-10-17_weekly-vessel-valuations-report-october-17-2023_img1.png
+
+Linked image asset: 2023-10-17_weekly-vessel-valuations-report-october-17-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-10-17_weekly-vessel-valuations-report-october-17-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-10-17_weekly-vessel-valuations-report-october-17-2023_img2.jpg
+
+Linked image asset: 2023-10-17_weekly-vessel-valuations-report-october-17-2023_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+O VesselsValue=§ AAA A AA AAs A
+17 October 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra LRL MR Cape Pmax Supra Handy Pas Pmax Handy = Fmax
+° O.1% 0.3% 0.2% = - 0.6% - 1.2% 10.8% 10.8% -0.8% 10.2% 0.7% 0.0% 1.3% 0.3%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+5 0.0% - -0.2% == 0.5% = -0.5% + 1.1% 43.3% 40.2% -+0.9% - 41.2% +0.6% - -1.4% - 40.9% - -0.5%
+320k 160k 110k 75k 50k 180k 80k 60k 38% 7000 4250 1750 1100
+10 +0.1% 0.2% 0.6% -0.5% +0.7% +3.8% - -1.1% 0.7% = +0.7% +0.8% --2.9% 40.2% - -1.2%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
+15 40.1% --0.2% -0.4% --0.5% 0.0% +2.5% -2.9% -3.7% - -0.8% "14% -3.8% -3.5% - -2.2%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
+20 0.0% 0.2% 0.1% 0.6% 0.6% 0.0% 3.1% 5.6% 5.3% 6.4% ---1LA% BTM 3.7%
+305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
+25 0.1% 0.2% +0.1% N/A 0.6% 0.0% 0.0% 0.0% 6.1% "2.8% 0.0% 14.1% -5.4%
+300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100

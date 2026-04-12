@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 224,
+  "token_count": 377,
   "source_path": "reports/hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec.html",
   "source_url": "https://www.hellenicshippingnews.com/hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greece",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 222,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-03-08_2026_03_08_hd_hyundai_samho_snags_179_million_oil_tanker_order_in_greec__s02_linked_asset_2026_03_08_hd_hyundai_samho_snags_179_million_oil_tanker_order_in_greec_img1_jpg",
+      "doc_id": "hellenic_shipbuilding_2026-03-08_2026_03_08_hd_hyundai_samho_snags_179_million_oil_tanker_order_in_greec",
+      "parent_id": "hellenic_shipbuilding_2026-03-08_2026_03_08_hd_hyundai_samho_snags_179_million_oil_tanker_order_in_greec__root",
+      "title": "Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg",
+      "section_path": [
+        "Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/2026/2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg\n\nLinked image asset: 2026-03-08_hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (150, 150)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "crude_oil",
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "hd-hyundai-samho-snags-179-million-oil-tanker-order-in-greec_img1.jpg",
+        "info",
+        "jpeg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 117,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

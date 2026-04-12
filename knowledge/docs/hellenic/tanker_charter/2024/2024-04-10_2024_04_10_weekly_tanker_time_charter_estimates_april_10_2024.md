@@ -18,13 +18,91 @@ regions:
 - west_africa
 - europe
 - china
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: mr
+    source_line: MR IMO3 31,000 27,000 28,500 24,000
+    timeframe: null
+    unit: null
+    values:
+    - 31000.0
+    - 27000.0
+    - 28500.0
+    - 24000.0
+  - segment: lr1
+    source_line: LR1 39,500 33,000 35,000 30,500
+    timeframe: null
+    unit: null
+    values:
+    - 39500.0
+    - 33000.0
+    - 35000.0
+    - 30500.0
+  - segment: lr2
+    source_line: LR2 50,000 42,500 44,000 38,500
+    timeframe: null
+    unit: null
+    values:
+    - 50000.0
+    - 42500.0
+    - 44000.0
+    - 38500.0
+  rate_summary:
+    lr1: 30500.0
+    lr2: 38500.0
+    mr: 24000.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2024/2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024.html
 source_stem: 2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024
 source_url: https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-april-10-2024
-summary: ''
+summary: 'Main
+
+  Image reference: 2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+
+
+  Linked asset: 2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+
+  Source asset: reports/hellenic/tanker_charter/2024/2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+
+
+  Linked image asset: 2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (144.0, 144.0)
+
+
+  OCR text:
+
+  y 3 | A LI B R A Updated Weds 10 Apr 2024
+
+  Shipping Umited * Eco tonnage with Scrubber fitted
+
+  TANKER TIME CHARTER ESTIMATE ($/pdpr)
+
+  SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+
+  HANDY 28,500 25,500 24,000 21,000
+
+  MR IMO3 31,000 27,000 28,500 24,000
+
+  LR1 39,500 33,000 35,000 30,500
+
+  LR2 50,000 42,500 44,000 38,500
+
+  AFRA (115k dwt) 48,500 40,500 42,500 37,500
+
+  SUEZ v 43,500 39,500 43,500 38,500
+
+  vice 47,500 45,000 52,500 49,500'
 themes:
 - image
 - main
@@ -35,7 +113,58 @@ vessel_classes:
 - vlcc
 - suezmax
 - aframax
+- handysize
 ---
+
+## Summary
+Main
+Image reference: 2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+
+Linked asset: 2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2024/2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+
+Linked image asset: 2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+y 3 | A LI B R A Updated Weds 10 Apr 2024
+Shipping Umited * Eco tonnage with Scrubber fitted
+TANKER TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+HANDY 28,500 25,500 24,000 21,000
+MR IMO3 31,000 27,000 28,500 24,000
+LR1 39,500 33,000 35,000 30,500
+LR2 50,000 42,500 44,000 38,500
+AFRA (115k dwt) 48,500 40,500 42,500 37,500
+SUEZ v 43,500 39,500 43,500 38,500
+vice 47,500 45,000 52,500 49,500
 
 ## Main
 Image reference: 2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+
+## Linked asset: 2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2024/2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+
+Linked image asset: 2024-04-10_weekly-tanker-time-charter-estimates-april-10-2024_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+y 3 | A LI B R A Updated Weds 10 Apr 2024
+Shipping Umited * Eco tonnage with Scrubber fitted
+TANKER TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+HANDY 28,500 25,500 24,000 21,000
+MR IMO3 31,000 27,000 28,500 24,000
+LR1 39,500 33,000 35,000 30,500
+LR2 50,000 42,500 44,000 38,500
+AFRA (115k dwt) 48,500 40,500 42,500 37,500
+SUEZ v 43,500 39,500 43,500 38,500
+vice 47,500 45,000 52,500 49,500

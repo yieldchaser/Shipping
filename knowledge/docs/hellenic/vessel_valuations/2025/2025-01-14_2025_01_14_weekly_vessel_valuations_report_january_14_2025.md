@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-01-14_weekly-vessel-valuations-report-january-14-2025.html
@@ -115,3 +115,40 @@ Containers: Container values remaining stable last week with older tonnage Feede
 Feedermax Contship Med (1,100 TEU, Dec 2004, Jinling Shipyard Jiangsu) sold to Medkon Lines for USD 7 mil, VV Value USD 7.24 mil
 Feedermax Contship Leo (1,118 TEU, Oct 2008, Taizhou Kouan Shipbuilding) sold to Safesea Group for USD 10 mil, VV Value USD 10.43 mil
 Image reference: 2025-01-14_weekly-vessel-valuations-report-january-14-2025_img2.jpg
+
+## Linked asset: 2025-01-14_weekly-vessel-valuations-report-january-14-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-01-14_weekly-vessel-valuations-report-january-14-2025_img1.png
+
+Linked image asset: 2025-01-14_weekly-vessel-valuations-report-january-14-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-01-14_weekly-vessel-valuations-report-january-14-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-01-14_weekly-vessel-valuations-report-january-14-2025_img2.jpg
+
+Linked image asset: 2025-01-14_weekly-vessel-valuations-report-january-14-2025_img2.jpg
+
+Image metadata: JPEG 678x255 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+Ds) NN
+14 January 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra tRI MR Cape Pmax Supra Handy ‘ ne Pmax Handy Fmax
+0 0.3% 0.5% 2.2% -1LA% "1.3% 0.7% 0.0% 0.4% 0.4% 40.1% 40.1% +0.6% 0.0%
+320k 160k 115k 75k SOk 180k 82k 62k 38k 7000 4250 1750 1100
+5 0.3% 0.6% 2.2% "14% "1.3% 0.7% 0.0% 0.9% 0.6% 40.1% 40.1% 40.5% 40.2%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+10 0.3% 0.6% "2.2% "14% "1.3% 0.7% 0.0% "14% 0.9% 0.2% 0.0% 40.5% 40.3%
+320k 160k 110k 75k 50k 180k 80k 60k 35k 7000 4250 1750 1100
+15 "0.3% -0.6% -2.2% -1.4% -1,3% "0.7% -O0.1% -1.7% -1.1% 40.6% 0.0% +0.5% --0,8%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
+20 0.2% 0.6% 2.2% -14% -1.3% 0.7% 0.0% -1.7% "1.2% +1.0% 0.0% +0.4% -3.6%
+310k 160k 110k 70k 45k 180k 75k SSk 30k 7000 4250 1750 1100
+25 0.2% 0.7% 2.2% 14% "14% 0.7% 0.0% "17% "1.4% +1.6% +0.1% +0.4% -7.5%
+300k 155k 105k 70k 45k 175k 75k 48k 30k 6500 4000 1750 1100

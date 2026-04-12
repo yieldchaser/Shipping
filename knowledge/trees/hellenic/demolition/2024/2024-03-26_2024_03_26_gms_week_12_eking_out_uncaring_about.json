@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5625,
+  "token_count": 5882,
   "source_path": "reports/hellenic/demolition/2024/2024-03-26_gms-week-12-eking-out-uncaring-about.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-12-eking-out-uncaring-about",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4943,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-03-26_2024_03_26_gms_week_12_eking_out_uncaring_about__s03_linked_asset_2024_03_26_gms_week_12_eking_out_uncaring_about_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-03-26_2024_03_26_gms_week_12_eking_out_uncaring_about",
+      "parent_id": "hellenic_demolition_2024-03-26_2024_03_26_gms_week_12_eking_out_uncaring_about__root",
+      "title": "Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-03-26_gms-week-12-eking-out-uncaring-about_img1.jpg\n\nLinked image asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-12-eking-out-uncaring-about_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 100,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-03-26_2024_03_26_gms_week_12_eking_out_uncaring_about__s04_linked_asset_2024_03_26_gms_week_12_eking_out_uncaring_about_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-03-26_2024_03_26_gms_week_12_eking_out_uncaring_about",
+      "parent_id": "hellenic_demolition_2024-03-26_2024_03_26_gms_week_12_eking_out_uncaring_about__root",
+      "title": "Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-03-26_gms-week-12-eking-out-uncaring-about_img2.jpg\n\nLinked image asset: 2024-03-26_gms-week-12-eking-out-uncaring-about_img2.jpg\n\nImage metadata: JPEG 692x192 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-12-eking-out-uncaring-about_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

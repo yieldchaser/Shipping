@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 574,
+  "token_count": 727,
   "source_path": "reports/hellenic/demolition/2023/2023-04-11_athenian-shipbrokers-s-a-demolition-quick-update-week-14-202.html",
   "source_url": "https://www.hellenicshippingnews.com/athenian-shipbrokers-s-a-demolition-quick-update-week-14-2023",
   "children": [
@@ -84,6 +84,34 @@
       "page_end": null,
       "token_count": 472,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-04-11_2023_04_11_athenian_shipbrokers_s_a_demolition_quick_update_week_14_202__s03_linked_asset_2023_04_11_athenian_shipbrokers_s_a_demolition_quick_update_week_14_202_img1_jpg",
+      "doc_id": "hellenic_demolition_2023-04-11_2023_04_11_athenian_shipbrokers_s_a_demolition_quick_update_week_14_202",
+      "parent_id": "hellenic_demolition_2023-04-11_2023_04_11_athenian_shipbrokers_s_a_demolition_quick_update_week_14_202__root",
+      "title": "Linked asset: 2023-04-11_athenian-shipbrokers-s-a-demolition-quick-update-week-14-202_img1.jpg",
+      "section_path": [
+        "Linked asset: 2023-04-11_athenian-shipbrokers-s-a-demolition-quick-update-week-14-202_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-04-11_athenian-shipbrokers-s-a-demolition-quick-update-week-14-202_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-04-11_athenian-shipbrokers-s-a-demolition-quick-update-week-14-202_img1.jpg\n\nLinked image asset: 2023-04-11_athenian-shipbrokers-s-a-demolition-quick-update-week-14-202_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (72, 72)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "athenian-shipbrokers-s-a-demolition-quick-update-week-14-202_img1.jpg",
+        "dpi",
+        "embedded",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

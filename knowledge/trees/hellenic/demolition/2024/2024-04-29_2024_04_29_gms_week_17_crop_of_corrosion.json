@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5708,
+  "token_count": 5996,
   "source_path": "reports/hellenic/demolition/2024/2024-04-29_gms-week-17-crop-of-corrosion.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-17-crop-of-corrosion",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 5013,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-04-29_2024_04_29_gms_week_17_crop_of_corrosion__s03_linked_asset_2024_04_29_gms_week_17_crop_of_corrosion_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-04-29_2024_04_29_gms_week_17_crop_of_corrosion",
+      "parent_id": "hellenic_demolition_2024-04-29_2024_04_29_gms_week_17_crop_of_corrosion__root",
+      "title": "Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-04-29_gms-week-17-crop-of-corrosion_img1.jpg\n\nLinked image asset: 2024-04-29_gms-week-17-crop-of-corrosion_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-17-crop-of-corrosion_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-04-29_2024_04_29_gms_week_17_crop_of_corrosion__s04_linked_asset_2024_04_29_gms_week_17_crop_of_corrosion_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-04-29_2024_04_29_gms_week_17_crop_of_corrosion",
+      "parent_id": "hellenic_demolition_2024-04-29_2024_04_29_gms_week_17_crop_of_corrosion__root",
+      "title": "Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-04-29_gms-week-17-crop-of-corrosion_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-04-29_gms-week-17-crop-of-corrosion_img2.jpg\n\nLinked image asset: 2024-04-29_gms-week-17-crop-of-corrosion_img2.jpg\n\nImage metadata: JPEG 723x216 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nee | eee | Gepee | OEE ae ee\nUSD/LDT USD/LDT USD/LDT\npa Ptaskey [Weak | 320/tpT_| 330/tor | _40/tOT\n*Subject L/C approval",
+      "keywords": [
+        "usd/ldt",
+        "asset",
+        "image",
+        "approval",
+        "dpi",
+        "eee",
+        "embedded",
+        "gepee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 139,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

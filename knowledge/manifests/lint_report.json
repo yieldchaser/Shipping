@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T06:55:42Z",
+  "generated_at": "2026-04-12T13:43:37Z",
   "current_date": "2026-04-12",
   "warning_count": 7,
   "high_severity_count": 0,
@@ -13,7 +13,7 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 2
+      "watch": 3
     }
   },
   "warnings": [
@@ -112,18 +112,18 @@
             "latest_date": "2026-03-27"
           },
           {
-            "source": "breakwave",
-            "avg_tone_score": 0.17,
-            "dominant_tone": "neutral",
-            "doc_count": 6,
-            "latest_date": "2026-03-31"
-          },
-          {
             "source": "hellenic",
-            "avg_tone_score": 0.21,
-            "dominant_tone": "constructive",
+            "avg_tone_score": 0.08,
+            "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
             "latest_date": "2026-04-09"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.2,
+            "dominant_tone": "constructive",
+            "doc_count": 5,
+            "latest_date": "2026-03-31"
           },
           {
             "source": "breakwave_insights",
@@ -155,18 +155,18 @@
             "latest_date": "2026-03-27"
           },
           {
+            "source": "hellenic",
+            "avg_tone_score": 0.21,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-04-09"
+          },
+          {
             "source": "breakwave",
             "avg_tone_score": 0.25,
             "dominant_tone": "constructive",
             "doc_count": 4,
             "latest_date": "2026-03-31"
-          },
-          {
-            "source": "hellenic",
-            "avg_tone_score": 0.33,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-04-09"
           },
           {
             "source": "breakwave_insights",
@@ -181,19 +181,45 @@
     },
     {
       "severity": "watch",
-      "kind": "topic_source_gap",
-      "key": "coal_and_grain_flows",
-      "message": "coal_and_grain_flows is missing recent evidence from expected sources: hellenic.",
+      "kind": "topic_divergence",
+      "key": "dry_bulk_market",
+      "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while baltic reads cautiously_bearish.",
       "details": {
-        "topic_id": "coal_and_grain_flows",
-        "missing_recent_sources": [
-          "hellenic"
+        "topic_id": "dry_bulk_market",
+        "title": "Dry Bulk Market",
+        "severity": "watch",
+        "score_diff": 0.95,
+        "source_scores": [
+          {
+            "source": "baltic",
+            "avg_tone_score": -0.33,
+            "dominant_tone": "cautiously_bearish",
+            "doc_count": 3,
+            "latest_date": "2026-03-27"
+          },
+          {
+            "source": "hellenic",
+            "avg_tone_score": 0.08,
+            "dominant_tone": "cautiously_bearish",
+            "doc_count": 6,
+            "latest_date": "2026-04-09"
+          },
+          {
+            "source": "breakwave",
+            "avg_tone_score": 0.12,
+            "dominant_tone": "cautiously_bearish",
+            "doc_count": 2,
+            "latest_date": "2026-03-31"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.62,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-04-10"
+          }
         ],
-        "recent_sources_present": [
-          "baltic",
-          "breakwave",
-          "breakwave_insights"
-        ]
+        "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while baltic reads cautiously_bearish."
       }
     }
   ]

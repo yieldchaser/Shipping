@@ -21,13 +21,82 @@ regions:
 - china
 - brazil
 - australia
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: handysize
+    source_line: HANDY (324 dot) 10,000 11,000 | 12,500 13,000 12,500 12,500
+    timeframe: null
+    unit: null
+    values:
+    - 324.0
+    - 10000.0
+    - 11000.0
+    - 12500.0
+    - 13000.0
+    - 12500.0
+    - 12500.0
+  - segment: capesize
+    source_line: CAPESIZE 13,250 13,250 14,750 14,750 16,000 16,000
+    timeframe: null
+    unit: null
+    values:
+    - 13250.0
+    - 13250.0
+    - 14750.0
+    - 14750.0
+    - 16000.0
+    - 16000.0
+  rate_summary:
+    capesize: 16000.0
+    handysize: 12500.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/dry_charter/2023/2023-02-15_weekly-dry-time-charter-estimates-february-15-2023.html
 source_stem: 2023-02-15_weekly-dry-time-charter-estimates-february-15-2023
 source_url: https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-february-15-2023
-summary: ''
+summary: 'Main
+
+  Image reference: 2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+
+
+  Linked asset: 2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+
+  Source asset: reports/hellenic/dry_charter/2023/2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+
+
+  Linked image asset: 2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (144.0, 144.0)
+
+
+  OCR text:
+
+  A | | B RA Updated Weds 15 Feb 2023
+
+  Shipping Umited r
+
+  DRY TIME CHARTER ESTIMATES ($/pdpr)
+
+  PERIOD: 4/6 MOS 1YR 2YR
+
+  SIZE ATL PAC ATL PAC ATL PAC
+
+  HANDY (324 dot) 10,000 11,000 | 12,500 13,000 12,500 12,500
+
+  SMAXULTRA | ¥ 11,000 11,000 13,500 12,500 12,500 12,000
+
+  PANAKMAX | V¥ 14,000 | ¥ 14,000 | 14,250 14,250 14,000 14,000
+
+  CAPESIZE 13,250 13,250 14,750 14,750 16,000 16,000'
 themes:
 - image
 - main
@@ -41,5 +110,51 @@ vessel_classes:
 - handysize
 ---
 
+## Summary
+Main
+Image reference: 2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+
+Linked asset: 2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+Source asset: reports/hellenic/dry_charter/2023/2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+
+Linked image asset: 2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+A | | B RA Updated Weds 15 Feb 2023
+Shipping Umited r
+DRY TIME CHARTER ESTIMATES ($/pdpr)
+PERIOD: 4/6 MOS 1YR 2YR
+SIZE ATL PAC ATL PAC ATL PAC
+HANDY (324 dot) 10,000 11,000 | 12,500 13,000 12,500 12,500
+SMAXULTRA | ¥ 11,000 11,000 13,500 12,500 12,500 12,000
+PANAKMAX | V¥ 14,000 | ¥ 14,000 | 14,250 14,250 14,000 14,000
+CAPESIZE 13,250 13,250 14,750 14,750 16,000 16,000
+
 ## Main
 Image reference: 2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+
+## Linked asset: 2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+Source asset: reports/hellenic/dry_charter/2023/2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+
+Linked image asset: 2023-02-15_weekly-dry-time-charter-estimates-february-15-2023_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+A | | B RA Updated Weds 15 Feb 2023
+Shipping Umited r
+DRY TIME CHARTER ESTIMATES ($/pdpr)
+PERIOD: 4/6 MOS 1YR 2YR
+SIZE ATL PAC ATL PAC ATL PAC
+HANDY (324 dot) 10,000 11,000 | 12,500 13,000 12,500 12,500
+SMAXULTRA | ¥ 11,000 11,000 13,500 12,500 12,500 12,000
+PANAKMAX | V¥ 14,000 | ¥ 14,000 | 14,250 14,250 14,000 14,000
+CAPESIZE 13,250 13,250 14,750 14,750 16,000 16,000

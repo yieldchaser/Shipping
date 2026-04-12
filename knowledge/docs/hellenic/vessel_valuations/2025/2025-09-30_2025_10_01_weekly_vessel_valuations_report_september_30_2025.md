@@ -33,7 +33,7 @@ regions:
 - europe
 - meg
 - brazil
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-10-01_weekly-vessel-valuations-report-september-30-2025.html
@@ -118,3 +118,40 @@ Post Panamax OOCL Brazil and OOCL Durban (8,540 TEU, 2010/2011, Hanjin HI) sold 
 Handy Container Nordpanther (1,730 TEU, Dec 2014, Zhejiang Ouhua) sold to CMA CGM for USD 27.5 mil, VV Value USD 25.9 mil.
 Feedermax Contship Oak (1,100 TEU, Nov 2007, Taizhou Kouan Shipbuilding) sold to MSC for USD 11.5 mil, VV Value USD 11.6 mil
 Image reference: 2025-10-01_weekly-vessel-valuations-report-september-30-2025_img2.jpg
+
+## Linked asset: 2025-10-01_weekly-vessel-valuations-report-september-30-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-10-01_weekly-vessel-valuations-report-september-30-2025_img1.png
+
+Linked image asset: 2025-10-01_weekly-vessel-valuations-report-september-30-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-10-01_weekly-vessel-valuations-report-september-30-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-10-01_weekly-vessel-valuations-report-september-30-2025_img2.jpg
+
+Linked image asset: 2025-10-01_weekly-vessel-valuations-report-september-30-2025_img2.jpg
+
+Image metadata: JPEG 678x314 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+DS) VesselsValue -------- > e-ow-v
+30 September 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year wice Suez Afra LR MR Cape Pmax ‘Supra Handy tesed Pmax Handy Fmax
+° 0.1% +0.3% 40.9% 02% 104% 10.4% 104% 10.4% +0.2% 10.2% 102% 02% Ls
+320k 160k NSk 75k 50k 180k 82k 62k 38k 7000 4250 1750 noo
+s 40.7% 10.3% 10.7% +0.1% 104% +2.% +13% +1.0% +02% 10.2% 10.2% 17% 19%
+320k 160k 10k Tsk SOK 180k 82k 60k 38k 7000 420 1780 noo
+10.8% 10.3% 105% 10% 104% +3.6% 114% 13% 102% 10.1% 10.1% +22% 19%
+Ld 320k 160k nNOk 75k SOx 180k 80k 60k 3S 7000 420 SO 00
+40.3% +0.3% 10.2% "22% +0.5% 14.0% 108% 1% +02% 0.0% 0.0% +1S% AS
+® SOK 160% 10k 75k SOK 180k 80k 58k 30k 7000 4250 1780 noo
+50 0.1% 40.1% 0% "2.8% +0.3% +346 70.1% 20.3% +0.% 02% 0.1% +0.1% "Lis
+Sk 160k N0k 70k 45k 180k 75k SSk 50k 7000 4250 1750 noo
+0.6 ON -OS*K "27% 40.3% Ls 0.7% 08% 02% 03% -O3% ms "22%
+a 300k 155k 105k 70k 45k 17Sk 75k 48 30k 6500 4000 1750 noo

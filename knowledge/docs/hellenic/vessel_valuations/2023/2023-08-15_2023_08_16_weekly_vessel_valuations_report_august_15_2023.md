@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-08-16_weekly-vessel-valuations-report-august-15-2023.html
@@ -111,3 +111,40 @@ Suezmax Monte Toledo (150,600 DWT, May 2004, Universal) sold to Undisclosed buye
 Containers : Secondhand values marginally softened for Feedermax, Handysize, Sub Panamax and Panamax segments following reduced earnings
 No notable sales this week
 Image reference: 2023-08-16_weekly-vessel-valuations-report-august-15-2023_img2.jpg
+
+## Linked asset: 2023-08-16_weekly-vessel-valuations-report-august-15-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-08-16_weekly-vessel-valuations-report-august-15-2023_img1.png
+
+Linked image asset: 2023-08-16_weekly-vessel-valuations-report-august-15-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-08-16_weekly-vessel-valuations-report-august-15-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-08-16_weekly-vessel-valuations-report-august-15-2023_img2.jpg
+
+Linked image asset: 2023-08-16_weekly-vessel-valuations-report-august-15-2023_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+O vesselsValue= | $$
+15 August 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Sucz Afra LRL MR Cape Pmax Supra Handy Pan: Pmax Handy = Fmax
+° 1.1% 1.0% 1.2% 2.0% 1.4% 0.6% 0.4% = 0.0% 42.7% 0.8% 0.9% 0.9% - -0.8%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+5 0.7% - 0.6% - -1.B% -=2.2% 1.3% 40.5% - -0.3% 0.0% - +0.1% 0.8% - -0.9% - -O.B% - 0.9%
+320k 160k 110k 75k 50k 180k 80k 60k 38% 7000 4250 1750 1100
+10 0.6% §- -O.5% - -1.2% = -2.0% = -1.0% +0.8% -0.4% 0.0% -1.0% 0.8% §- -0.9% = --0.8% -_-0.9%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
+15 "0.6% --0.7% = -1.1% = - 1.5% = -0.5% 40.4% -O.4% 0.0% - -1.1% 0.8% --0.9% -0.8% --0.9%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
+20 0.8% 1.1% 0.8% = 0.7% = - 0.2% 0.0% 0.4% 0.0% 0.2% 0.9% 0.9% 0.9% - 0.8%
+305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
+25 1.0% 0.0% 0.5% N/A 0.4% 0.0% 0.0% 0.0% 41.1% 0.9% - 0.0% 0.8% 0.4%
+300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100

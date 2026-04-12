@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-12-12_weekly-vessel-valuations-report-december-12-2023.html
@@ -117,3 +117,40 @@ MR2 (Chem/Product) Tradewind Energy (47,100 DWT, Feb 2009, Hyundai Mipo) sold to
 Containers : ULCV, New Panamax, and Post Panamax resales firmed 0.5%, 0.5%, and 4.8%
 Panamax Zhong Gu Fu Jian (4,860 TEU, Feb 2010, Daewoo-Mangalia) sold to unknown Chinese buyers for USD 18 mil, VV Value USD 20.31 mil
 Image reference: 2023-12-12_weekly-vessel-valuations-report-december-12-2023_img2.jpg
+
+## Linked asset: 2023-12-12_weekly-vessel-valuations-report-december-12-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-12-12_weekly-vessel-valuations-report-december-12-2023_img1.png
+
+Linked image asset: 2023-12-12_weekly-vessel-valuations-report-december-12-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-12-12_weekly-vessel-valuations-report-december-12-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-12-12_weekly-vessel-valuations-report-december-12-2023_img2.jpg
+
+Linked image asset: 2023-12-12_weekly-vessel-valuations-report-december-12-2023_img2.jpg
+
+Image metadata: JPEG 678x256 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+tb) VesselsValue ---$>Y>Y
+12 December 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Sucz Afra LR MR Cape Pmax Supra Handy Pica Pmax Handy = Fmax
+A +3,0% 40.7% +0.4% +0.2% +0.3% +2.8% +1.4% +0,2% +1.1% +3.0% -0.6% - -0.6% - -1.0%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+5 +1.6% +0.1% -0.6% +0.2% +0.2% +3.4% +1.1% +0.2% +1.6% +1.2% 0.3% = -0.6% - -0.3%
+320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 ©4250 1750 1100
+10 +0.9% -1.3% -0.5% +0.2% +0.2% +3.1% +0.5% +0.2% +1.2% 0.0% §--0.3% --0.5% 0.3%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000-4250 1750 1100
+15 -0.9% -2.3% +0.3% 40.2% +0.2% +2.3% -0.2% +0.2% +0.5% 0.3% -0.2% -0.6% -1.3%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 70004250 1750 1100
+20 1.9% 2.4% 11.4% 10.2% 40.1% 0.0% 0.4% 10.1% -0.4% 10.5% 0.2% 0.7% -3.0%
+305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
+25 "1.6% N/A +2.0% N/A 0.0% 0.0% 0.0% 0.0% "1.4% 0.0% 0.0% 0.0% 5.3%
+300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100

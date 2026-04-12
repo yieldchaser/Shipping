@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 426,
+  "token_count": 654,
   "source_path": "reports/hellenic/demolition/2021/2021-11-22_gms-week-48-topping-out.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-48-topping-out",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 424,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-11-22_2021_11_22_gms_week_48_topping_out__s02_linked_asset_2021_11_22_gms_week_48_topping_out_img1_jpg",
+      "doc_id": "hellenic_demolition_2021-11-22_2021_11_22_gms_week_48_topping_out",
+      "parent_id": "hellenic_demolition_2021-11-22_2021_11_22_gms_week_48_topping_out__root",
+      "title": "Linked asset: 2021-11-22_gms-week-48-topping-out_img1.jpg",
+      "section_path": [
+        "Linked asset: 2021-11-22_gms-week-48-topping-out_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-11-22_gms-week-48-topping-out_img1.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/2021/2021-11-22_gms-week-48-topping-out_img1.jpg\n\nLinked image asset: 2021-11-22_gms-week-48-topping-out_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-48-topping-out_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-11-22_2021_11_22_gms_week_48_topping_out__s03_linked_asset_2021_11_22_gms_week_48_topping_out_img2_jpg",
+      "doc_id": "hellenic_demolition_2021-11-22_2021_11_22_gms_week_48_topping_out",
+      "parent_id": "hellenic_demolition_2021-11-22_2021_11_22_gms_week_48_topping_out__root",
+      "title": "Linked asset: 2021-11-22_gms-week-48-topping-out_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-11-22_gms-week-48-topping-out_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-11-22_gms-week-48-topping-out_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2021/2021-11-22_gms-week-48-topping-out_img2.jpg\n\nLinked image asset: 2021-11-22_gms-week-48-topping-out_img2.jpg\n\nImage metadata: JPEG 687x177 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-48-topping-out_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 92,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

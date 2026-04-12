@@ -28,8 +28,43 @@ regions:
 - europe
 - china
 - us_gulf
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: mr
+    source_line: MR IMO3 = 12,250 = 13,000 = 16,000 oa 16,350
+    timeframe: null
+    unit: null
+    values:
+    - 12250.0
+    - 13000.0
+    - 16000.0
+    - 16350.0
+  - segment: lr2
+    source_line: LR2 = 16,500 = 19,750 = 24,950 a 25,500
+    timeframe: null
+    unit: null
+    values:
+    - 16500.0
+    - 19750.0
+    - 24950.0
+    - 25500.0
+  - segment: vlcc
+    source_line: VLCC = 22,500 = 25,500 = 35,000 pa 36,500
+    timeframe: null
+    unit: null
+    values:
+    - 22500.0
+    - 25500.0
+    - 35000.0
+    - 36500.0
+  rate_summary:
+    lr2: 25500.0
+    mr: 16350.0
+    vlcc: 36500.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2021/2021-09-08_weekly-tanker-time-charter-estimates-september-08-2021.html
 source_stem: 2021-09-08_weekly-tanker-time-charter-estimates-september-08-2021
@@ -53,6 +88,7 @@ vessel_classes:
 - vlcc
 - suezmax
 - aframax
+- handysize
 ---
 
 ## Summary
@@ -64,3 +100,25 @@ In the crude spot market, rates firmed slightly as more cargo entered the market
 Limited fresh period business to report on the clean side as the market remained at low levels.
 Oil prices fell mid-week on concerns over weak demand in the US and Asia and pressure from a strong dollar. Ongoing production outages on the US Gulf Coast capped losses.
 Image reference: 2021-09-08_weekly-tanker-time-charter-estimates-september-08-2021_img2.jpg
+
+## Linked asset: 2021-09-08_weekly-tanker-time-charter-estimates-september-08-2021_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2021/2021-09-08_weekly-tanker-time-charter-estimates-september-08-2021_img2.jpg
+
+Linked image asset: 2021-09-08_weekly-tanker-time-charter-estimates-september-08-2021_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (72.0, 72.0)
+
+OCR text:
+A L| B RA Updated Wednesday 08 September 2021
+WET TIME CHARTER ESTIMATES ($/pdpr)
+SIZE 1YR 2YR *3 YR *5 YR
+HANDY = 11,000 : 12,250 = 14,000 a 14,250
+MR IMO3 = 12,250 = 13,000 = 16,000 oa 16,350
+LRI = 13,500 = 15,250 = 17,250 oa 17,500
+LR2 = 16,500 = 19,750 = 24,950 a 25,500
+AFRA = 15,750 = 18,000 = 22,500 ot 23,000
+SUEZ = 18,000 = 19,500 = 26,000 a 27,000
+VLCC = 22,500 = 25,500 = 35,000 pa 36,500

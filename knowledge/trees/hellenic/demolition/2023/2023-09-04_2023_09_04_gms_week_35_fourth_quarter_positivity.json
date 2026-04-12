@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5355,
+  "token_count": 5602,
   "source_path": "reports/hellenic/demolition/2023/2023-09-04_gms-week-35-fourth-quarter-positivity.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-35-fourth-quarter-positivity",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 4774,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-09-04_2023_09_04_gms_week_35_fourth_quarter_positivity__s03_linked_asset_2023_09_04_gms_week_35_fourth_quarter_positivity_img1_jpg",
+      "doc_id": "hellenic_demolition_2023-09-04_2023_09_04_gms_week_35_fourth_quarter_positivity",
+      "parent_id": "hellenic_demolition_2023-09-04_2023_09_04_gms_week_35_fourth_quarter_positivity__root",
+      "title": "Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_img1.jpg",
+      "section_path": [
+        "Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-09-04_gms-week-35-fourth-quarter-positivity_img1.jpg\n\nLinked image asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-35-fourth-quarter-positivity_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-09-04_2023_09_04_gms_week_35_fourth_quarter_positivity__s04_linked_asset_2023_09_04_gms_week_35_fourth_quarter_positivity_img2_jpg",
+      "doc_id": "hellenic_demolition_2023-09-04_2023_09_04_gms_week_35_fourth_quarter_positivity",
+      "parent_id": "hellenic_demolition_2023-09-04_2023_09_04_gms_week_35_fourth_quarter_positivity__root",
+      "title": "Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_img2.jpg",
+      "section_path": [
+        "Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2023/2023-09-04_gms-week-35-fourth-quarter-positivity_img2.jpg\n\nLinked image asset: 2023-09-04_gms-week-35-fourth-quarter-positivity_img2.jpg\n\nImage metadata: JPEG 688x171 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-35-fourth-quarter-positivity_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

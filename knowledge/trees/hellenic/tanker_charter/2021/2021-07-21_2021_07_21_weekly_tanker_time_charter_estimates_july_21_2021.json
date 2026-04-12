@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 129,
+  "token_count": 469,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-07-21_weekly-tanker-time-charter-estimates-july-21-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-july-21-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 127,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2021-07-21_2021_07_21_weekly_tanker_time_charter_estimates_july_21_2021__s02_linked_asset_2021_07_21_weekly_tanker_time_charter_estimates_july_21_2021_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2021-07-21_2021_07_21_weekly_tanker_time_charter_estimates_july_21_2021",
+      "parent_id": "hellenic_tanker_charter_2021-07-21_2021_07_21_weekly_tanker_time_charter_estimates_july_21_2021__root",
+      "title": "Linked asset: 2021-07-21_weekly-tanker-time-charter-estimates-july-21-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-07-21_weekly-tanker-time-charter-estimates-july-21-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-07-21_weekly-tanker-time-charter-estimates-july-21-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-07-21_weekly-tanker-time-charter-estimates-july-21-2021_img2.jpg\n\nLinked image asset: 2021-07-21_weekly-tanker-time-charter-estimates-july-21-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nALIBRA Updated Wednesday 21 July 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR \"3 YR \"5 YR\nHANDY > 11,000 12,250 > 14,000 14,250\n‘MR IMO3 = 12350 |= 13,000 |= 16000 | = 16,350\nLR 13,500 15,250 > 17,250 17,500\n1R2 > 16,500 19,750 | © 24500 | = 25,500\nAFRA y 16,000 | ~ 18750 | ~ 22,500 | ~ 23,000\n‘SUEZ ~ 18,000 | ~ 19,500 » 26000 | = 27,000\nvicc y 24,000 | ~ 25,500 | ~ 35,000 | ~ 36,500",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "afra",
+        "alibra",
+        "charter",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 308,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

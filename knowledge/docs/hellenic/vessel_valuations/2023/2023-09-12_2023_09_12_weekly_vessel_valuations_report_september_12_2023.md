@@ -32,7 +32,7 @@ regions:
 - europe
 - meg
 - japan
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2023/2023-09-12_weekly-vessel-valuations-report-september-12-2023.html
@@ -115,3 +115,40 @@ Small Clean (Chem/Product) Fionia Swan (15,600 DWT, Nov 2005, Deniz Endustrisi C
 Containers : Secondhand values depreciated c.0.4% for mid age Post Panamax, Panamax, Sub Panamax, Handy and Feedermax
 No reported sales this week
 Image reference: 2023-09-12_weekly-vessel-valuations-report-september-12-2023_img2.jpg
+
+## Linked asset: 2023-09-12_weekly-vessel-valuations-report-september-12-2023_img1.png
+Source asset: reports/hellenic/vessel_valuations/2023/2023-09-12_weekly-vessel-valuations-report-september-12-2023_img1.png
+
+Linked image asset: 2023-09-12_weekly-vessel-valuations-report-september-12-2023_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2023-09-12_weekly-vessel-valuations-report-september-12-2023_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2023/2023-09-12_weekly-vessel-valuations-report-september-12-2023_img2.jpg
+
+Linked image asset: 2023-09-12_weekly-vessel-valuations-report-september-12-2023_img2.jpg
+
+Image metadata: JPEG 678x259 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+O vesselsValue= | $$
+12 September 2023 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Sucz Afra LRI MR Cape Pmax Supra Handy Pan: Pmax Handy = Fmax
+° 0.0% 0.0% 1.3% 41.5% £0.2% 11.6% -O.B% 0.2% 10.9% 0.6% 0.5% 0.5% 0.8%
+320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+5 40.4% 0.0% = -0.8% = -0.9% = +0.5% 40.1% 0.3% - -1.0% - 40.4% 0.6% = -0.4% - -O.A% 0.7%
+320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 1750 1100
+10 40.5% 0.0% -0.5% 40.3% +1.2% 0.4% = -0.3% = -1.1% = -0.2% 0.6% §-0.3% -0.4% --0.7%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
+15 +0.4% 0.0% -0.5% +3.3% +1.8% "0.1% = -0.8% 0.5% - 1.0% 0.6% §--0.3% = -0.5% --0.7%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
+0 10.2% 0.0% 0.4% 16.6% 1.5% 0.9% -2.0% 10.1% - 1.8% 0.6% 0.2% = O.4% 0.7%
+305k 155k 105k 70k 45k 175k 75k 50k 30k 6500 4000 1750 1100
+25 +0.1% 0.0% 1.4% N/A +0,9% 0.9% 3.0% +0.7% 2.7% 0.6% - 0.0% 0.4% = -0.6%
+300k 150k 105k N/A 45k 170k 75k 48k 30k 6500 4000 1750 1100

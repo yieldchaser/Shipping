@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 24192,
+  "token_count": 25145,
   "source_path": "reports/hellenic/iron_ore/2021/2021-10-19_mmi-daily-iron-ore-index-report-october-19-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-19-2021",
   "children": [
@@ -84,6 +84,34 @@
       "page_end": null,
       "token_count": 23809,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2021-10-19_2021_10_19_mmi_daily_iron_ore_index_report_october_19_2021__s03_linked_asset_2021_10_19_mmi_daily_iron_ore_index_report_october_19_2021_img2_jpg",
+      "doc_id": "hellenic_iron_ore_2021-10-19_2021_10_19_mmi_daily_iron_ore_index_report_october_19_2021",
+      "parent_id": "hellenic_iron_ore_2021-10-19_2021_10_19_mmi_daily_iron_ore_index_report_october_19_2021__root",
+      "title": "Linked asset: 2021-10-19_mmi-daily-iron-ore-index-report-october-19-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-10-19_mmi-daily-iron-ore-index-report-october-19-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-10-19_mmi-daily-iron-ore-index-report-october-19-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/2021/2021-10-19_mmi-daily-iron-ore-index-report-october-19-2021_img2.jpg\n\nLinked image asset: 2021-10-19_mmi-daily-iron-ore-index-report-october-19-2021_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report | Oct 19th, 2021\nIRON ORE PORT STOCK INDEX (IOPI)\nOct 19th, 2021 FOT Qingdao (inc. 13% VAT), RMB/wet tonne | CFR Qingdao Equivalent (exc.",
+      "keywords": [
+        "brazil",
+        "iron_ore",
+        "steel",
+        "change",
+        "ore",
+        "fefines",
+        "high",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 921,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 97,
+  "token_count": 435,
   "source_path": "reports/hellenic/tanker_charter/2022/2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-january-05-2022",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 95,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2022-01-05_2022_01_05_weekly_tanker_time_charter_estimates_january_05_2022__s02_linked_asset_2022_01_05_weekly_tanker_time_charter_estimates_january_05_2022_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2022-01-05_2022_01_05_weekly_tanker_time_charter_estimates_january_05_2022",
+      "parent_id": "hellenic_tanker_charter_2022-01-05_2022_01_05_weekly_tanker_time_charter_estimates_january_05_2022__root",
+      "title": "Linked asset: 2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2022/2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022_img2.jpg\n\nLinked image asset: 2022-01-05_weekly-tanker-time-charter-estimates-january-05-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALIBRA Updated Wednesday 05 January 2022\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR 3YR 5YR\nHANDY 12350 | 2 13000 |= 14500 | = 14,500\nMRIMO3 13350 | = 13,750 |= 16500 | = 16,500\nLR @ 14000 |= 15250 |= 17,250 | = 17,500\n1R2 = 16500 |= 19,750 |= 24950 | = 26,000\nAFRA = 16000 |= 18750 |= 23500 | = 25,000\nSUEZ = 18250 |= 21,000 |= 27500 | = 27,000\nvice = 21,500 | = 26000 |= 36000 | = _ 37,500",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "afra",
+        "alibra",
+        "charter",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 305,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

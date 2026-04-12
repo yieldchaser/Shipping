@@ -18,13 +18,91 @@ regions:
 - west_africa
 - europe
 - china
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: mr
+    source_line: MR IMO3 18,000 16,500 20,000 20,000
+    timeframe: null
+    unit: null
+    values:
+    - 18000.0
+    - 16500.0
+    - 20000.0
+    - 20000.0
+  - segment: lr1
+    source_line: LR1 19,950 v 19,000 23,000 21,500
+    timeframe: null
+    unit: null
+    values:
+    - 19950.0
+    - 19000.0
+    - 23000.0
+    - 21500.0
+  - segment: lr2
+    source_line: LR2 23,500 23,500 A 28,500 4a 28,500
+    timeframe: null
+    unit: null
+    values:
+    - 23500.0
+    - 23500.0
+    - 28500.0
+    - 28500.0
+  rate_summary:
+    lr1: 21500.0
+    lr2: 28500.0
+    mr: 20000.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/tanker_charter/2022/2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022.html
 source_stem: 2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022
 source_url: https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-july-06-2022
-summary: ''
+summary: 'Main
+
+  Image reference: 2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+
+
+  Linked asset: 2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+
+  Source asset: reports/hellenic/tanker_charter/2022/2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+
+
+  Linked image asset: 2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (72.0, 72.0)
+
+
+  OCR text:
+
+  LB 5A LIBRA Updated Weds 6 Jul 2022
+
+  Stipping Urited:
+
+  WET TIME CHARTER ESTIMATE ($/pdpr)
+
+  SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+
+  HANDY A 16,750 15,500 A 19,000 a 18,000
+
+  MR IMO3 18,000 16,500 20,000 20,000
+
+  LR1 19,950 v 19,000 23,000 21,500
+
+  LR2 23,500 23,500 A 28,500 4a 28,500
+
+  AFRA (115k dee) | A 22,000 22,000 a 28,500 A 28,500
+
+  SUEZ 21,500 21,500 A 30,000 A 30,000
+
+  vicc 20,000 22,500 35,000 A 37,500'
 themes:
 - image
 - main
@@ -35,7 +113,58 @@ vessel_classes:
 - vlcc
 - suezmax
 - aframax
+- handysize
 ---
+
+## Summary
+Main
+Image reference: 2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+
+Linked asset: 2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2022/2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+
+Linked image asset: 2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (72.0, 72.0)
+
+OCR text:
+LB 5A LIBRA Updated Weds 6 Jul 2022
+Stipping Urited:
+WET TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+HANDY A 16,750 15,500 A 19,000 a 18,000
+MR IMO3 18,000 16,500 20,000 20,000
+LR1 19,950 v 19,000 23,000 21,500
+LR2 23,500 23,500 A 28,500 4a 28,500
+AFRA (115k dee) | A 22,000 22,000 a 28,500 A 28,500
+SUEZ 21,500 21,500 A 30,000 A 30,000
+vicc 20,000 22,500 35,000 A 37,500
 
 ## Main
 Image reference: 2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+
+## Linked asset: 2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+Source asset: reports/hellenic/tanker_charter/2022/2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+
+Linked image asset: 2022-07-06_weekly-tanker-time-charter-estimates-july-06-2022_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (72.0, 72.0)
+
+OCR text:
+LB 5A LIBRA Updated Weds 6 Jul 2022
+Stipping Urited:
+WET TIME CHARTER ESTIMATE ($/pdpr)
+SIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*
+HANDY A 16,750 15,500 A 19,000 a 18,000
+MR IMO3 18,000 16,500 20,000 20,000
+LR1 19,950 v 19,000 23,000 21,500
+LR2 23,500 23,500 A 28,500 4a 28,500
+AFRA (115k dee) | A 22,000 22,000 a 28,500 A 28,500
+SUEZ 21,500 21,500 A 30,000 A 30,000
+vicc 20,000 22,500 35,000 A 37,500

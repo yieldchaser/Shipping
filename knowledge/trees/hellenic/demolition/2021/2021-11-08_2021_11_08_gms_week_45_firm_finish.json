@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 427,
+  "token_count": 661,
   "source_path": "reports/hellenic/demolition/2021/2021-11-08_gms-week-45-firm-finish.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-45-firm-finish",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 425,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-11-08_2021_11_08_gms_week_45_firm_finish__s02_linked_asset_2021_11_08_gms_week_45_firm_finish_img1_jpg",
+      "doc_id": "hellenic_demolition_2021-11-08_2021_11_08_gms_week_45_firm_finish",
+      "parent_id": "hellenic_demolition_2021-11-08_2021_11_08_gms_week_45_firm_finish__root",
+      "title": "Linked asset: 2021-11-08_gms-week-45-firm-finish_img1.jpg",
+      "section_path": [
+        "Linked asset: 2021-11-08_gms-week-45-firm-finish_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-11-08_gms-week-45-firm-finish_img1.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/2021/2021-11-08_gms-week-45-firm-finish_img1.jpg\n\nLinked image asset: 2021-11-08_gms-week-45-firm-finish_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-45-firm-finish_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-11-08_2021_11_08_gms_week_45_firm_finish__s03_linked_asset_2021_11_08_gms_week_45_firm_finish_img2_jpg",
+      "doc_id": "hellenic_demolition_2021-11-08_2021_11_08_gms_week_45_firm_finish",
+      "parent_id": "hellenic_demolition_2021-11-08_2021_11_08_gms_week_45_firm_finish__root",
+      "title": "Linked asset: 2021-11-08_gms-week-45-firm-finish_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-11-08_gms-week-45-firm-finish_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-11-08_gms-week-45-firm-finish_img2.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2021/2021-11-08_gms-week-45-firm-finish_img2.jpg\n\nLinked image asset: 2021-11-08_gms-week-45-firm-finish_img2.jpg\n\nImage metadata: JPEG 619x158 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-45-firm-finish_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

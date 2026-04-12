@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-11-11_weekly-vessel-valuations-report-november-11-2025.html
@@ -112,3 +112,40 @@ Containers: Smaller tonnage VV Container values continue to soften this week.
 Panamax Newnew Star 2 (3,534 TEU, Dec 2007, Shanghai Shipyard) sold to MSC for USD 26 mil, VV Value USD 25.8 mil
 Handy Container Panay (1,930 TEU, Jul 2023, Guangzhou Wenchong) sold to CMA CGM for USD 35.5 mil, VV Value USD 36.2 mil
 Image reference: 2025-11-11_weekly-vessel-valuations-report-november-11-2025_img2.jpeg
+
+## Linked asset: 2025-11-11_weekly-vessel-valuations-report-november-11-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-11-11_weekly-vessel-valuations-report-november-11-2025_img1.png
+
+Linked image asset: 2025-11-11_weekly-vessel-valuations-report-november-11-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-11-11_weekly-vessel-valuations-report-november-11-2025_img2.jpeg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-11-11_weekly-vessel-valuations-report-november-11-2025_img2.jpeg
+
+Linked image asset: 2025-11-11_weekly-vessel-valuations-report-november-11-2025_img2.jpeg
+
+Image metadata: JPEG 600x278 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+© VessetsValre ADM
+11 November 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra mi MR Cape Pmax ‘Supra Handy poet Prax Handy Fmax
+6 10. 0.0% 10.6% 10.1% us Om 10.1% Om 10.3% Om 0.0% Om 7"
+320k 160k Sk Sk SOK 180k 8m 62k 38 7000 4250 1780 noo
+s 10.1% 40.3% 405% 40.1% 0.0% OM 10.1% 105% 0.4% OTK 02% 02% = 30%
+520k 160k nNOk 78k SOK 180K ame 60k 3a 7000 4250 780 noo
+= 10.1% 108% «103% «0.03% ON 40.0% 40.8% LI. 02% 405% 02% 35%
+320k 160k nOk Sk SOK 180K 80k 60k Sk 7000 4250 1780 noo
+* 10.0% 12% 40.4% HO. OM 40.9% 105% -+2.0% 03% 108% O22 34%
+50k 160k nOk Tsk SOk 180k 80k SSk 30k 7000 4250 780 noo
+ss 10.1% 16% OTH OH 40.3% OM 0.0% 02K 32H 02% 109% O22 19K
+Hk 160k NOK 70k 45k 190k 75k SSK 30k 7000 4250 «S000.
+i 10.1% --+20% 406% 10. 03% 00% 0.0% ASK #2 02% 10. OZ +S
+300k = 1SSk 105k 70k 45k 175k 73k 48k 30k 6500 4000 TSO N00

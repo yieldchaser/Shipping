@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Dry Time Charter Estimates, May 11 2022",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2022-05-11_weekly-dry-time-charter-estimates-may-11-2022_img2.jpg\n\nLinked asset: 2022-05-11_weekly-dry-time-charter-estimates-may-11-2022_img2.jpg\nSource asset: reports/hellenic/dry_charter/2022/2022-05-11_weekly-dry-time-charter-estimates-may-11-2022_img2.jpg\n\nLinked image asset: 2022-05-11_weekly-dry-time-charter-estimates-may-11-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nUpdated Wednesday 11 May 2022\nAb ALIBRA *Contact us for rates/charts on scrubber & eco tonnage. DRY TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (sexawt} |W 27,000) 33,000| WY 27,000) 28,750)/4 25,000)\" 27,000\nSMAX/ULTRA | 29,000|4 34,000|Y 27,500; 27,750|4 26,000) 25,000\nPANA/KMAX |= 29,500) 29,000)\" 26,000|W 27,000) 24,000 w 23,500\nCAPESIZE 4 30,000)\" 31,000) 4 29,000) 29,000) 25,500) 25,500",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 32,
+  "token_count": 387,
   "source_path": "reports/hellenic/dry_charter/2022/2022-05-11_weekly-dry-time-charter-estimates-may-11-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-may-11-2022",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 30,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2022-05-11_2022_05_11_weekly_dry_time_charter_estimates_may_11_2022__s02_linked_asset_2022_05_11_weekly_dry_time_charter_estimates_may_11_2022_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2022-05-11_2022_05_11_weekly_dry_time_charter_estimates_may_11_2022",
+      "parent_id": "hellenic_dry_charter_2022-05-11_2022_05_11_weekly_dry_time_charter_estimates_may_11_2022__root",
+      "title": "Linked asset: 2022-05-11_weekly-dry-time-charter-estimates-may-11-2022_img2.jpg",
+      "section_path": [
+        "Linked asset: 2022-05-11_weekly-dry-time-charter-estimates-may-11-2022_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-05-11_weekly-dry-time-charter-estimates-may-11-2022_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2022/2022-05-11_weekly-dry-time-charter-estimates-may-11-2022_img2.jpg\n\nLinked image asset: 2022-05-11_weekly-dry-time-charter-estimates-may-11-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nUpdated Wednesday 11 May 2022\nAb ALIBRA *Contact us for rates/charts on scrubber & eco tonnage. DRY TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (sexawt} |W 27,000) 33,000| WY 27,000) 28,750)/4 25,000)\" 27,000\nSMAX/ULTRA | 29,000|4 34,000|Y 27,500; 27,750|4 26,000) 25,000\nPANA/KMAX |= 29,500) 29,000)\" 26,000|W 27,000) 24,000 w 23,500\nCAPESIZE 4 30,000)\" 31,000) 4 29,000) 29,000) 25,500) 25,500",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "alibra",
+        "charter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 323,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

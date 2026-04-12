@@ -33,7 +33,7 @@ regions:
 - europe
 - meg
 - brazil
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-06-28_weekly-vessel-valuations-report-june-28-2022.html
@@ -97,3 +97,40 @@ Small Clean Tanker (Chem/Prod) Maersk Borneo (29,000 DWT, Apr 2007, CSSC OME) so
 Containers: Older Handy Container values have firmed
 Panamax Cont Eastaway Malmsey (3,421 TEU, Nov 2011, Rongcheng Shenfei Shipbuilding) sold to Safeen Feeders for USD 65.00 mil, VV Value USD 65.72 mil.
 Image reference: 2022-06-28_weekly-vessel-valuations-report-june-28-2022_img2.png
+
+## Linked asset: 2022-06-28_weekly-vessel-valuations-report-june-28-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-06-28_weekly-vessel-valuations-report-june-28-2022_img1.png
+
+Linked image asset: 2022-06-28_weekly-vessel-valuations-report-june-28-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-06-28_weekly-vessel-valuations-report-june-28-2022_img2.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-06-28_weekly-vessel-valuations-report-june-28-2022_img2.png
+
+Linked image asset: 2022-06-28_weekly-vessel-valuations-report-june-28-2022_img2.png
+
+Image metadata: PNG 678x249 mode=RGBA
+
+Embedded info:
+dpi: (143.99259999999998, 143.99259999999998)
+
+OCR text:
+© VesselsValue™
+28 June 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra. = LRT MR Cape Pmax Supra Handy ost pmax Handy Fmax
+0 0.0% +0.7% +1.2% +27.1% +0.6% "1.8% -1.1% -1.2% -0.5% 40.5% +0.9% -1.1% +0.6%
+320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100
+5 10.5% 10.5% 12.2% 2.9% 10.6% 1.8% 2.2% 1.6% 0.8% 10.5% +1.0% 0.8% 10.6%
+320K 160K 110K 75K ~- «SOK 180K 80K 60K 30K 7000 4250 ©1750-1100
+10 +0.3% +27.0% +3.9% +5.5% +0.6% "1.8% -2.9% -2.2% -1.7% 40.5% +1.0% 0.0% +0.6%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 0.4% 412.8% 415.9% #9.2% 10.6% 1.8% 1.5% 2.7% 2.1% 40.5% +#1.2% 161.4% 10.6%
+310K 160K 110K 75K ~- SOK 180K 75K 55K 30K 7000 4250 «1750 ‘1100
+20 0.5% -0.7% +8.2% -3.2% +0.6% 3.9% -0.7% -2.9% -2.2% 40.5% +1.3% +3.2% +0.6%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 3.9% N/A 3.8% 3.8% 3.B% 3.9% +0.6% 2.6% 1.8% 40.5% +#1.5% +#5.5% 40.6%
+300K N/A 105K -s«OSK «45K 170K 75K ~-«48KS 30K 5500 4000 1750 1100

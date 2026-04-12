@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5986,
+  "token_count": 6267,
   "source_path": "reports/hellenic/demolition/2024/2024-07-01_gms-week-25-when-you-dont-know-where-youre-going.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-25-when-you-dont-know-where-youre-going",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 5276,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-07-01_2024_07_01_gms_week_25_when_you_dont_know_where_youre_going__s03_linked_asset_2024_07_01_gms_week_25_when_you_dont_know_where_youre_going_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-07-01_2024_07_01_gms_week_25_when_you_dont_know_where_youre_going",
+      "parent_id": "hellenic_demolition_2024-07-01_2024_07_01_gms_week_25_when_you_dont_know_where_youre_going__root",
+      "title": "Linked asset: 2024-07-01_gms-week-25-when-you-dont-know-where-youre-going_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-01_gms-week-25-when-you-dont-know-where-youre-going_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-01_gms-week-25-when-you-dont-know-where-youre-going_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-07-01_gms-week-25-when-you-dont-know-where-youre-going_img1.jpg\n\nLinked image asset: 2024-07-01_gms-week-25-when-you-dont-know-where-youre-going_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-25-when-you-dont-know-where-youre-going_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-07-01_2024_07_01_gms_week_25_when_you_dont_know_where_youre_going__s04_linked_asset_2024_07_01_gms_week_25_when_you_dont_know_where_youre_going_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-07-01_2024_07_01_gms_week_25_when_you_dont_know_where_youre_going",
+      "parent_id": "hellenic_demolition_2024-07-01_2024_07_01_gms_week_25_when_you_dont_know_where_youre_going__root",
+      "title": "Linked asset: 2024-07-01_gms-week-25-when-you-dont-know-where-youre-going_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-01_gms-week-25-when-you-dont-know-where-youre-going_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-01_gms-week-25-when-you-dont-know-where-youre-going_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-07-01_gms-week-25-when-you-dont-know-where-youre-going_img2.jpg\n\nLinked image asset: 2024-07-01_gms-week-25-when-you-dont-know-where-youre-going_img2.jpg\n\nImage metadata: JPEG 691x186 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-25-when-you-dont-know-where-youre-going_img2.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 112,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

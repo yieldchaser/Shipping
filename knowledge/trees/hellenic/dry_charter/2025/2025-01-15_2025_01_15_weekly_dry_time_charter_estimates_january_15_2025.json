@@ -9,7 +9,7 @@
   "section_path_text": "Weekly Dry Time Charter Estimates, January 15 2025",
   "level": 0,
   "ordinal": 0,
-  "summary": "",
+  "summary": "Main\nImage reference: 2025-01-15_weekly-dry-time-charter-estimates-january-15-2025_img2.jpg\n\nLinked asset: 2025-01-15_weekly-dry-time-charter-estimates-january-15-2025_img2.jpg\nSource asset: reports/hellenic/dry_charter/2025/2025-01-15_weekly-dry-time-charter-estimates-january-15-2025_img2.jpg\n\nLinked image asset: 2025-01-15_weekly-dry-time-charter-estimates-january-15-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nAll B R A Updated Weds 15101/2025|\nStipping Limited\nORY BULK TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4l6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (32% om) 10,000 10,500 | Vv 9,500 10,500 | 10,000 | 10,500 |\nSMAXIULTRA 12,500 13,500 | ¥ 12000 |¥ 13,000 |¥ 11,500 |¥ 12,000\nPANAIKMAX | ¥ 12,000 | ¥ 11,500 13,000 |¥ 11,750 |¥ 13,000 | y 12,500 |\nCAPESIZE 18,500 18,500 18,750 18,750 18,000 18,000",
   "keywords": [
     "image",
     "main",
@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 33,
+  "token_count": 370,
   "source_path": "reports/hellenic/dry_charter/2025/2025-01-15_weekly-dry-time-charter-estimates-january-15-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-january-15-2025",
   "children": [
@@ -43,6 +43,34 @@
       "page_end": null,
       "token_count": 31,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2025-01-15_2025_01_15_weekly_dry_time_charter_estimates_january_15_2025__s02_linked_asset_2025_01_15_weekly_dry_time_charter_estimates_january_15_2025_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2025-01-15_2025_01_15_weekly_dry_time_charter_estimates_january_15_2025",
+      "parent_id": "hellenic_dry_charter_2025-01-15_2025_01_15_weekly_dry_time_charter_estimates_january_15_2025__root",
+      "title": "Linked asset: 2025-01-15_weekly-dry-time-charter-estimates-january-15-2025_img2.jpg",
+      "section_path": [
+        "Linked asset: 2025-01-15_weekly-dry-time-charter-estimates-january-15-2025_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-01-15_weekly-dry-time-charter-estimates-january-15-2025_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2025/2025-01-15_weekly-dry-time-charter-estimates-january-15-2025_img2.jpg\n\nLinked image asset: 2025-01-15_weekly-dry-time-charter-estimates-january-15-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nAll B R A Updated Weds 15101/2025|\nStipping Limited\nORY BULK TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4l6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (32% om) 10,000 10,500 | Vv 9,500 10,500 | 10,000 | 10,500 |\nSMAXIULTRA 12,500 13,500 | ¥ 12000 |¥ 13,000 |¥ 11,500 |¥ 12,000\nPANAIKMAX | ¥ 12,000 | ¥ 11,500 13,000 |¥ 11,750 |¥ 13,000 | y 12,500 |\nCAPESIZE 18,500 18,500 18,750 18,750 18,000 18,000",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "all",
+        "charter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 304,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

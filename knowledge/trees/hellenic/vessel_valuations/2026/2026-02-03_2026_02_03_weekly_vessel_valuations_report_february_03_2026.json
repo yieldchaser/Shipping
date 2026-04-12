@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 832,
+  "token_count": 1717,
   "source_path": "reports/hellenic/vessel_valuations/2026/2026-02-03_weekly-vessel-valuations-report-february-03-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-february-03-2026",
   "children": [
@@ -56,6 +56,62 @@
       "page_end": null,
       "token_count": 830,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-02-03_2026_02_03_weekly_vessel_valuations_report_february_03_2026__s02_linked_asset_2026_02_03_weekly_vessel_valuations_report_february_03_2026_img1_png",
+      "doc_id": "hellenic_vessel_valuations_2026-02-03_2026_02_03_weekly_vessel_valuations_report_february_03_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-02-03_2026_02_03_weekly_vessel_valuations_report_february_03_2026__root",
+      "title": "Linked asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img1.png",
+      "section_path": [
+        "Linked asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img1.png"
+      ],
+      "section_path_text": "Linked asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img1.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/2026-02-03_weekly-vessel-valuations-report-february-03-2026_img1.png\n\nLinked image asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img1.png\n\nImage metadata: PNG 150x150 mode=RGB\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr",
+        "pixels",
+        "png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 93,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-02-03_2026_02_03_weekly_vessel_valuations_report_february_03_2026__s03_linked_asset_2026_02_03_weekly_vessel_valuations_report_february_03_2026_img2_jpeg",
+      "doc_id": "hellenic_vessel_valuations_2026-02-03_2026_02_03_weekly_vessel_valuations_report_february_03_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-02-03_2026_02_03_weekly_vessel_valuations_report_february_03_2026__root",
+      "title": "Linked asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img2.jpeg",
+      "section_path": [
+        "Linked asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img2.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img2.jpeg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/2026-02-03_weekly-vessel-valuations-report-february-03-2026_img2.jpeg\n\nLinked image asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img2.jpeg\n\nImage metadata: JPEG 687x318 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n>) VesselsValue@_---------\n03 February 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra Lat MR Cape Pmax Supra Handy pa . Pmax Handy Fmax\nis 40.7% +158 10.4% 10.8% +0.3% +1.7% 40.3% 0.0% 0.2% 03% -O.1% +1.1% 0.0%\n320k 160k mSk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo\n40.7% o17% 10.4% +*3.9% 0.6% +1.7% 10.9% 0.0% 0.2% 03% -O.1% +16 20.3%\n.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "noo",
+        "nok",
+        "sok",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 735,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

@@ -33,7 +33,7 @@ regions:
 - europe
 - meg
 - brazil
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2026/2026-02-03_weekly-vessel-valuations-report-february-03-2026.html
@@ -121,3 +121,40 @@ Containers: Second-hand Handy Containers have come up across the board following
 Handy Container H Cygnus (1,800 TEU, Jiangsu Yangzi Xinfu, Jan 2022) sold to Minerva Marine for USD 34 mil, VV Value USD 33 mil
 Handy Containers Valdivia, Valentina, Violetta (1,853 TEU, Sietas, 2007/08) sold to MSC for USD 57 mil en bloc, VV Value USD 57.34 mil en bloc
 Image reference: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img2.jpeg
+
+## Linked asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img1.png
+Source asset: reports/hellenic/vessel_valuations/2026/2026-02-03_weekly-vessel-valuations-report-february-03-2026_img1.png
+
+Linked image asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img2.jpeg
+Source asset: reports/hellenic/vessel_valuations/2026/2026-02-03_weekly-vessel-valuations-report-february-03-2026_img2.jpeg
+
+Linked image asset: 2026-02-03_weekly-vessel-valuations-report-february-03-2026_img2.jpeg
+
+Image metadata: JPEG 687x318 mode=RGB
+
+Embedded info:
+dpi: (72.0, 72.0)
+
+OCR text:
+>) VesselsValue@_---------
+03 February 2026 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra Lat MR Cape Pmax Supra Handy pa . Pmax Handy Fmax
+is 40.7% +158 10.4% 10.8% +0.3% +1.7% 40.3% 0.0% 0.2% 03% -O.1% +1.1% 0.0%
+320k 160k mSk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo
+40.7% o17% 10.4% +*3.9% 0.6% +1.7% 10.9% 0.0% 0.2% 03% -O.1% +16 20.3%
+. 320k 160k nok 75k SOk 180k 82k 60k 38k 7000 4250 1750 noo
++0.7% 41.7% 40.4% +468 40.1% 21.7% +0.8% 0.0% 0.1% 0.4% 0.1% +1.0% +05%
+" 320k 160k nok 75k SOk 180k 80k 60k 35k 7000 4250 1750 noo
++0.7% +1.4% +0.4% +3.2% +2.0% +1.7% +0.3% 0.0% 01% AO4% 0.1% +1.0% +0.7%
+® 310k 160k nok 75k SOk 180K 80k 60k 32k 7000 4250 1750 noo
+20 40.7% +1,0%6 70.3% 40.7% *3.3% +1.7% 0.6 0.0% 0.3% 02% 0.2% +0,9% 40.8%
+310K 160k nok 70k 45k 180K 7Sk 5Sk 30k 7000 4250 1750 noo
+2 40.7% 10.4% 70.3% 18% 4.0% *1.7% 0.3% 0.0% 0.6% 70.3% 0.6% 70.8% 70.6%
+300k 15Sk 105k 70k 45k 17Sk 7Sk 50k 30k 6500 4000 1750 noo

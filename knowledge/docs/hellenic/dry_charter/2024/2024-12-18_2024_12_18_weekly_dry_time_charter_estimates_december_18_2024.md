@@ -21,13 +21,34 @@ regions:
 - china
 - brazil
 - australia
-section_count: 1
+section_count: 2
 signals: {}
 source: hellenic
 source_path: reports/hellenic/dry_charter/2024/2024-12-18_weekly-dry-time-charter-estimates-december-18-2024.html
 source_stem: 2024-12-18_weekly-dry-time-charter-estimates-december-18-2024
 source_url: https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-december-18-2024
-summary: ''
+summary: 'Main
+
+  Image reference: 2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+
+
+  Linked asset: 2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+
+  Source asset: reports/hellenic/dry_charter/2024/2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+
+
+  Linked image asset: 2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+
+
+  Image metadata: JPEG 600x231 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (144.0, 144.0)
+
+
+  [OCR skipped for small image (< 150000 pixels).]'
 themes:
 - image
 - main
@@ -41,5 +62,33 @@ vessel_classes:
 - handysize
 ---
 
+## Summary
+Main
+Image reference: 2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+
+Linked asset: 2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+Source asset: reports/hellenic/dry_charter/2024/2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+
+Linked image asset: 2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+
+Image metadata: JPEG 600x231 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+[OCR skipped for small image (< 150000 pixels).]
+
 ## Main
 Image reference: 2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+
+## Linked asset: 2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+Source asset: reports/hellenic/dry_charter/2024/2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+
+Linked image asset: 2024-12-18_weekly-dry-time-charter-estimates-december-18-2024_img2.jpg
+
+Image metadata: JPEG 600x231 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+[OCR skipped for small image (< 150000 pixels).]

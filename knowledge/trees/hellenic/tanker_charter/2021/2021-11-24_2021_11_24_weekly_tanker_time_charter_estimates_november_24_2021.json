@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 123,
+  "token_count": 477,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-11-24_weekly-tanker-time-charter-estimates-november-24-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-november-24-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 121,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_tanker_charter_2021-11-24_2021_11_24_weekly_tanker_time_charter_estimates_november_24_2021__s02_linked_asset_2021_11_24_weekly_tanker_time_charter_estimates_november_24_2021_img2_jpg",
+      "doc_id": "hellenic_tanker_charter_2021-11-24_2021_11_24_weekly_tanker_time_charter_estimates_november_24_2021",
+      "parent_id": "hellenic_tanker_charter_2021-11-24_2021_11_24_weekly_tanker_time_charter_estimates_november_24_2021__root",
+      "title": "Linked asset: 2021-11-24_weekly-tanker-time-charter-estimates-november-24-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-11-24_weekly-tanker-time-charter-estimates-november-24-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-11-24_weekly-tanker-time-charter-estimates-november-24-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-11-24_weekly-tanker-time-charter-estimates-november-24-2021_img2.jpg\n\nLinked image asset: 2021-11-24_weekly-tanker-time-charter-estimates-november-24-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nShipping United \"3 & Syrs inc. scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR *3 YR *5 YR\nHANDY 4 12,750 » 12,250 » 14,500 » 14,500\nMR IMO3 4 14,750 = 13,500 = 16,500 » 16,500\nLR1 4 15,250 » 15,250 > 17,250 17,500\nLR2 & 19,750 > 19,750 = 24950 | = 26,000\nAFRA 4 18,750 = 18,750 = 23,500 » 25,000\nSUEZ 4 20,250 = 21,000 = 27,500 | = 27,000\nvicc 4 23,500 > 26,000 » 36,000 37,500",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "afra",
+        "charter",
+        "dpi",
+        "eco",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 321,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

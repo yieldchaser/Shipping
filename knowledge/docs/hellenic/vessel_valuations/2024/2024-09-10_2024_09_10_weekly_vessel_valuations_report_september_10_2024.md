@@ -32,7 +32,7 @@ regions:
 - europe
 - meg
 - india
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2024/2024-09-10_weekly-vessel-valuations-report-september-10-2024.html
@@ -120,3 +120,40 @@ Containers: Container values mostly remain stable this week, with gains restrict
 Sub-Panamax Buxfavourite (2,432 TEU, 1997, Daewoo) sold to Chinese interests for USD 10.8 mil, VV Value USD 11.9 mil
 Handysize AS Fatima (1,296 TEU, 2008, Zhejiang Ouhua) sold to undisclosed buyers for USD 11.9 mil, VV Value USD 12.1 mil
 Image reference: 2024-09-10_weekly-vessel-valuations-report-september-10-2024_img2.jpg
+
+## Linked asset: 2024-09-10_weekly-vessel-valuations-report-september-10-2024_img1.png
+Source asset: reports/hellenic/vessel_valuations/2024/2024-09-10_weekly-vessel-valuations-report-september-10-2024_img1.png
+
+Linked image asset: 2024-09-10_weekly-vessel-valuations-report-september-10-2024_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2024-09-10_weekly-vessel-valuations-report-september-10-2024_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2024/2024-09-10_weekly-vessel-valuations-report-september-10-2024_img2.jpg
+
+Linked image asset: 2024-09-10_weekly-vessel-valuations-report-september-10-2024_img2.jpg
+
+Image metadata: JPEG 678x255 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+Ds) NN
+10 September 2024 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra tRI MR Cape Pmax Supra Handy ‘ nol Pmax Handy Fmax
+0 0.1% 0.2% 0.4% 40.3% 1.9% +0.6% 0.8% 40.1% +0.1% 40.3% -0.2% 0.4% 0.0%
+320k 160k 110k 75k SOk 180k 82k 60k 38k 7000 4250 1750 1100
+5 0.1% 0.2% 0.3% "1.0% 0.6% 0.2% "1.5% 0.1% 0.6% 40.2% -0.2% 0.6% 0.0%
+320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 1750 1100
+10 0.2% 0.2% 0.3% "2.6% +0.3% 40.1% -2.0% 0.6% "1.2% 0.1% 0.2% "1.3% 0.0%
+320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100
+15 "0.1% -0.2% -0.4% -4.5% +0.2% +1.3% -2.0% -1.2% -0.9% "0.3% = -0.2% -2.2% 0.0%
+310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100
+20 "0.1% 0.2% 0.4% 6.1% -1.9% +3.1% -1.8% -1.9% +0.1% -OA% 0.2% -3.5% 0.0%
+305k 155k 105k 70k 45k 180k 75k SSk 30k 7000 4250 1750 1100
+25 0.1% 0.2% 0.4% -7.3% -2.8% 0.0% -1.2% 2.6% +1.2% 0.0% 0.1% 4.9% 0.2%
+300k 150k 105k 65k 45k 170k 75k 48k 30k 6500 4000 1750 1100

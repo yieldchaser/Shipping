@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2025/2025-03-19_weekly-vessel-valuations-report-march-18-2025.html
@@ -107,3 +107,40 @@ Containers: Stability continues for the larger sectors this week, whilst mid-age
 Handy Containers AS Fabiana and AS Franziska (1,296 TEU & 1,345 TEU, Oct 2007 & Jun 2005, Zhejiang Ouhua & Jiangsu Yangzijiang) sold to European buyers in an en bloc deal for USD 21 mil, VV en bloc value USD 22.1 mil.
 Sub Panamax Haris (2,194 TEU, Nov 2015, Guangzhou Wenchong) sold to Neptune Pacific Direct Line for USD 31 mil, VV Value USD 30.68 mil.
 Image reference: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img2.jpg
+
+## Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1.png
+Source asset: reports/hellenic/vessel_valuations/2025/2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1.png
+
+Linked image asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2025/2025-03-19_weekly-vessel-valuations-report-march-18-2025_img2.jpg
+
+Linked image asset: 2025-03-19_weekly-vessel-valuations-report-march-18-2025_img2.jpg
+
+Image metadata: JPEG 678x248 mode=RGB
+
+Embedded info:
+dpi: (96.0, 96.0)
+
+OCR text:
+(>) VesselsValue lO
+18 March 2025 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra iR1 MR Cape Pmax Supra Handy Pmax Pmax Handy Fmax
+A 40.1% -0.3% -0.8% -0.2% -0.4% +1.6% +0.4% +0.3% 40.8% -0.2% 40.1% 40.5% +0.5%
+320k 160k 115k 75k SOk 180k 82k 62k 38k 7000 4250 1750 1100
+5 +0.2% -0.3% 0.7% 0.2% 0.4% #1.6% +0.4% +0.3% 40.2% "0.1% +£0.8% +0.6% +0.5%
+320k = 160k = 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100
+10 +0.1% 0.3% 0.7% 0.2% "0.4% +1.6% +0.4% +0.3% +0.2% 0.0% +1.4% +40.6% +0.5%
+320k 160k 110k 75k 50k 180k 80k 60k 35k 7000 4250 1750 1100
+15 0.0% "0.3% -0.8% -0.2% -0.4% 41.6% +0.4% +0.4% +0.5% 0.0% 41.8% +0.5% +0.4%
+310k 160k 110k 75k SOk 180k 80k S5Sk 30k 7000 4250 1750 1100
+20 40.1% -0.3% 0.8% 0.2% 0.4% #1.6% +0.4% +0.4% 41.3% "0.1% 38=86941.7% 40.3% +0.6%
+310k = «160k = 110k 70k 45k 180k 75k 55k 30k 7000 4250 1750 1100
+25 +0.3% 0.2% -0.8% -0.2% -0.4% 0.0% 0.0% +0.4% +2.2% "0.2% +0.7% +0.1% +0.8%
+300k 155k 105k 7Ook 45k 175k 75k 48k 30k 6500 4000 1750 1100

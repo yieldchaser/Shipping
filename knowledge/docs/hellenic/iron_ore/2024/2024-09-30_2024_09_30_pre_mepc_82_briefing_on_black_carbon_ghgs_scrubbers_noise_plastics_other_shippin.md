@@ -26,7 +26,23 @@ regions:
 - brazil
 - australia
 section_count: 1
-signals: {}
+signals:
+  benchmark_prices: {}
+  iron_ore_metrics:
+  - metric: numeric_observation
+    source_line: This briefing aimed to provide insights on the agenda for climate
+      emissions and marine pollution discussions at the forthcoming82nd session of
+      the International Maritime Organization's (IMO) Marine Environment Protection
+      Committee (MEPC 82, 30 September - 4 Oc
+    unit: null
+    values:
+    - 2.0
+    - 82.0
+    - 30.0
+    - 4.0
+    - 2024.0
+  metric_units: []
+  signal_family: hellenic_iron_ore_indices
 source: hellenic
 source_path: reports/hellenic/iron_ore/2024/2024-09-30_pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-plastics-other-shippin.html
 source_stem: 2024-09-30_pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-plastics-other-shippin

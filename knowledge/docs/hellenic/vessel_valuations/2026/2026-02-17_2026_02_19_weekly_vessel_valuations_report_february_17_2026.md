@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2026/2026-02-19_weekly-vessel-valuations-report-february-17-2026.html
@@ -117,3 +117,40 @@ MR2 (Chemical/Product) Elandra Fjord & Elandra Baltic (51,400 DWT, Jul 2011, Hyu
 Containers: Values remain stable across the board this week, as S&P activity is slow
 Handy Container Warnow Beluga (1,300 TEU, May 2008, Zhejiang Ouhua) sold DD Due to Metrostar Management Corp for USD 13.5 mil, VV Value USD 14.22 mil
 Image reference: 2026-02-19_weekly-vessel-valuations-report-february-17-2026_img2.jpeg
+
+## Linked asset: 2026-02-19_weekly-vessel-valuations-report-february-17-2026_img1.png
+Source asset: reports/hellenic/vessel_valuations/2026/2026-02-19_weekly-vessel-valuations-report-february-17-2026_img1.png
+
+Linked image asset: 2026-02-19_weekly-vessel-valuations-report-february-17-2026_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2026-02-19_weekly-vessel-valuations-report-february-17-2026_img2.jpeg
+Source asset: reports/hellenic/vessel_valuations/2026/2026-02-19_weekly-vessel-valuations-report-february-17-2026_img2.jpeg
+
+Linked image asset: 2026-02-19_weekly-vessel-valuations-report-february-17-2026_img2.jpeg
+
+Image metadata: JPEG 687x318 mode=RGB
+
+Embedded info:
+dpi: (72.0, 72.0)
+
+OCR text:
+>) VesselsValue@_---------
+17 February 2026 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Year vice Suez Afra Lat MR Cape Pmax Supra Handy pe . Pmax Handy Fmax
+is +1.4% 14% 10.8% *22% 40.2% 91.5% 40.3% 10.1% 0.0% 0.1% -O.1% 0.0% -O0.B%
+320k 160k Sk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo
++20% o14% *1.0% 246% +0.2% 91.4% 10.4% 40.1% 0.0% 0.1% -O.1% 0.0% 0.4%
+. 320k 160k nok 75k SOk 180k 82k 60k 38k 7000 4250 1750 noo
++2.7% +1.6% 41.6% +9S% +0.2% +1.4% 40.3% 40.1% 0.1% 0.2% 0.1% 0.0% 0.0%
+" 320k 160k nok 75k SOk 180k 80k 60K 35k 7000 4250 1750 noo
++2.9% +2.0% +14% +14,0% +0.2% +1.4% +0.3% +0.1% 0.0% 02% 0.1% 0.0% +0.2%
+® 310k 160k nok 75k SOk 180K 80k 60k 32k 7000 4250 1750 noo
+20 *2.2% 425% +0.6% t13.4% 40.2% 14% 70.3% 40.2% 01% 02% 0.1% 0.0% 0.2%
+310K 160k nl0k 70k 45k 180K 7Sk 5Sk 30k 7000 4250 1750 noo
+2 40.9% +28% 70.3% 17.7% +0.3% *15% 70.3% 410.3% 0.0% 70.156 -O.1% 0.0% 0.0%
+300k 15Sk 105k 70k 45k 17Sk 7Sk 50k 30k 6500 4000 1750 noo

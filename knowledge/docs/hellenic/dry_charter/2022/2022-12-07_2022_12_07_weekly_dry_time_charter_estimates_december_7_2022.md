@@ -21,13 +21,82 @@ regions:
 - china
 - brazil
 - australia
-section_count: 1
-signals: {}
+section_count: 2
+signals:
+  metric_units: []
+  rate_observations:
+  - segment: handysize
+    source_line: HANDY (38% cat) | Y 13,000 |¥ 12,000 | v 14,000 13,000 13,500 | 12,750
+    timeframe: null
+    unit: null
+    values:
+    - 38.0
+    - 13000.0
+    - 12000.0
+    - 14000.0
+    - 13000.0
+    - 13500.0
+    - 12750.0
+  - segment: capesize
+    source_line: CAPESIZE 12,000 12,000 13,000 13,000 14,500 14,500
+    timeframe: null
+    unit: null
+    values:
+    - 12000.0
+    - 12000.0
+    - 13000.0
+    - 13000.0
+    - 14500.0
+    - 14500.0
+  rate_summary:
+    capesize: 14500.0
+    handysize: 12750.0
+  signal_family: hellenic_charter_rates
+  timeframes: []
 source: hellenic
 source_path: reports/hellenic/dry_charter/2022/2022-12-07_weekly-dry-time-charter-estimates-december-7-2022.html
 source_stem: 2022-12-07_weekly-dry-time-charter-estimates-december-7-2022
 source_url: https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-december-7-2022
-summary: ''
+summary: 'Main
+
+  Image reference: 2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+
+
+  Linked asset: 2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+
+  Source asset: reports/hellenic/dry_charter/2022/2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+
+
+  Linked image asset: 2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+
+
+  Image metadata: JPEG 600x320 mode=RGB
+
+
+  Embedded info:
+
+  dpi: (144.0, 144.0)
+
+
+  OCR text:
+
+  A L| B RA Updated Weds 7 Dec 2022
+
+  Stipping Urited
+
+  DRY TIME CHARTER ESTIMATES ($/pdpr)
+
+  PERIOD 416 MOS 1YR 2YR
+
+  SIZE ATL PAC ATL PAC ATL PAC
+
+  HANDY (38% cat) | Y 13,000 |¥ 12,000 | v 14,000 13,000 13,500 | 12,750
+
+  SMAXIULTRA | ¥ 15,500 | ¥ 12500 |¥ 14,750 | ¥ 9,500 Y= 12,000 | v 11,500
+
+  PANAIKMAX | 18,500 13,750 | 14,750 14,000 13,250 12,250
+
+  CAPESIZE 12,000 12,000 13,000 13,000 14,500 14,500'
 themes:
 - image
 - main
@@ -41,5 +110,51 @@ vessel_classes:
 - handysize
 ---
 
+## Summary
+Main
+Image reference: 2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+
+Linked asset: 2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+Source asset: reports/hellenic/dry_charter/2022/2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+
+Linked image asset: 2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+A L| B RA Updated Weds 7 Dec 2022
+Stipping Urited
+DRY TIME CHARTER ESTIMATES ($/pdpr)
+PERIOD 416 MOS 1YR 2YR
+SIZE ATL PAC ATL PAC ATL PAC
+HANDY (38% cat) | Y 13,000 |¥ 12,000 | v 14,000 13,000 13,500 | 12,750
+SMAXIULTRA | ¥ 15,500 | ¥ 12500 |¥ 14,750 | ¥ 9,500 Y= 12,000 | v 11,500
+PANAIKMAX | 18,500 13,750 | 14,750 14,000 13,250 12,250
+CAPESIZE 12,000 12,000 13,000 13,000 14,500 14,500
+
 ## Main
 Image reference: 2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+
+## Linked asset: 2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+Source asset: reports/hellenic/dry_charter/2022/2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+
+Linked image asset: 2022-12-07_weekly-dry-time-charter-estimates-december-7-2022_img2.jpg
+
+Image metadata: JPEG 600x320 mode=RGB
+
+Embedded info:
+dpi: (144.0, 144.0)
+
+OCR text:
+A L| B RA Updated Weds 7 Dec 2022
+Stipping Urited
+DRY TIME CHARTER ESTIMATES ($/pdpr)
+PERIOD 416 MOS 1YR 2YR
+SIZE ATL PAC ATL PAC ATL PAC
+HANDY (38% cat) | Y 13,000 |¥ 12,000 | v 14,000 13,000 13,500 | 12,750
+SMAXIULTRA | ¥ 15,500 | ¥ 12500 |¥ 14,750 | ¥ 9,500 Y= 12,000 | v 11,500
+PANAIKMAX | 18,500 13,750 | 14,750 14,000 13,250 12,250
+CAPESIZE 12,000 12,000 13,000 13,000 14,500 14,500

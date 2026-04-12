@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 132,
+  "token_count": 528,
   "source_path": "reports/hellenic/dry_charter/2021/2021-09-08_weekly-dry-time-charter-estimates-september-08-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-september-08-2021",
   "children": [
@@ -56,6 +56,34 @@
       "page_end": null,
       "token_count": 130,
       "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2021-09-08_2021_09_08_weekly_dry_time_charter_estimates_september_08_2021__s02_linked_asset_2021_09_08_weekly_dry_time_charter_estimates_september_08_2021_img2_jpg",
+      "doc_id": "hellenic_dry_charter_2021-09-08_2021_09_08_weekly_dry_time_charter_estimates_september_08_2021",
+      "parent_id": "hellenic_dry_charter_2021-09-08_2021_09_08_weekly_dry_time_charter_estimates_september_08_2021__root",
+      "title": "Linked asset: 2021-09-08_weekly-dry-time-charter-estimates-september-08-2021_img2.jpg",
+      "section_path": [
+        "Linked asset: 2021-09-08_weekly-dry-time-charter-estimates-september-08-2021_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-09-08_weekly-dry-time-charter-estimates-september-08-2021_img2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2021/2021-09-08_weekly-dry-time-charter-estimates-september-08-2021_img2.jpg\n\nLinked image asset: 2021-09-08_weekly-dry-time-charter-estimates-september-08-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALI B R A Updated Wednesday 08 September 2021\nAy Secbctinied Contact us for rates/charts on scrubber & eco tonnage. DRY TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 6 MOS 1YR 2YR\nPERIOD ATL PAC ATL PAC ATL PAC\nHANDY = 32,000|/= 35,000); = 26,000)= 24,500)- 19,500|=- 20,000\nSUPRAMAX |~ 37,000|~ 37,250) = 28,000)\" 27,000);= 21,500|= 20,500\nULTRAMAX | 38,000|~ 40,000) ~ 31,000)~ 30,250)= 25,000|= 24,000\nPANA/KMAX | 33,500|\" 30,250!",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "ali"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 363,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]

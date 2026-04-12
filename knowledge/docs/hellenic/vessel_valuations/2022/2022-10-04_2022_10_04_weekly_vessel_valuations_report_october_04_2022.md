@@ -32,7 +32,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-10-04_weekly-vessel-valuations-report-october-04-2022.html
@@ -100,3 +100,40 @@ Small Chemical Tanker Battersea Park (19,900 DWT, May 2002, Usuki Zosensho) sold
 Containers: Container Values have softened due to earnings.
 No Container sales reported last week.
 Image reference: 2022-10-04_weekly-vessel-valuations-report-october-04-2022_img2.jpg
+
+## Linked asset: 2022-10-04_weekly-vessel-valuations-report-october-04-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-10-04_weekly-vessel-valuations-report-october-04-2022_img1.png
+
+Linked image asset: 2022-10-04_weekly-vessel-valuations-report-october-04-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-10-04_weekly-vessel-valuations-report-october-04-2022_img2.jpg
+Source asset: reports/hellenic/vessel_valuations/2022/2022-10-04_weekly-vessel-valuations-report-october-04-2022_img2.jpg
+
+Linked image asset: 2022-10-04_weekly-vessel-valuations-report-october-04-2022_img2.jpg
+
+Image metadata: JPEG 678x262 mode=RGB
+
+Embedded info:
+dpi: (96, 96)
+
+OCR text:
+O' le I: \ / r ~
+04 October 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age vice Suez Afra LR MR Cape Pmax Supra Handy Fesat Pmax Handy Fmax
+° 40.3% 0.0% 10.6% 10.5% 40.9% 0.7% 40.7% 40.1% +0.2% 5.7% 54% 5.5% -4.3%
+320K 160K 110K 75K SOK 180K 82K 60K 58K 7000 «4250 «1750, 1100
+5 #0.6% 0.0% +0.6% 10.6% +0.9% "1.0% +0.7% 0.0% +0.2% "5.7% -5.4% -5.5% -5.0%
+320K 160K 110K = 75K 50K 180K 80K 60K 35K 7000. «4250-1750 1100
+10 +3.1% +0.1% +0.6% +0.6% +0,9% 0.7% +0.4% 0.0% +0,1% "5.7% -5.5% -5.5% -5.7%
+310K 160K «110K 75K 50K 180K 80K 60K 32K 7000 «©4250-1750 1100
+is 45.3% 40.1% +0.6% 40.6% +0.9% 0.1% 0.0% +0.1% +0.3% "5.7% -5.5% -5.5% -6.4%
+310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100
+20 +5.7% +0.1% +0.6% +0.6% +1.0% 0.9% -0.6% +0.1% +0.2% "5.7% -5.2% -5.5% -7.1%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 44.7% N/A 40.7% 40.5% 41.1% 0.9% -0.9% 0.0% +0.1% 5.7% -4.5% 5.4% -7.8%
+300K NA 105K 65K 45K 170K = 75K = 48K 30K 5500 4000 1750 1100

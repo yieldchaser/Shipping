@@ -31,7 +31,7 @@ regions:
 - china
 - europe
 - meg
-section_count: 1
+section_count: 3
 signals: {}
 source: hellenic
 source_path: reports/hellenic/vessel_valuations/2022/2022-06-07_weekly-vessel-valuations-report-june-07-2022.html
@@ -95,3 +95,40 @@ Handy BC Super Kate (32,200 DWT, Nov 2008, Hakodate Dock) sold to undisclosed bu
 Containers: Feedermax values have softened
 No reported Container sales this week.
 Image reference: 2022-06-07_weekly-vessel-valuations-report-june-07-2022_img2.png
+
+## Linked asset: 2022-06-07_weekly-vessel-valuations-report-june-07-2022_img1.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-06-07_weekly-vessel-valuations-report-june-07-2022_img1.png
+
+Linked image asset: 2022-06-07_weekly-vessel-valuations-report-june-07-2022_img1.png
+
+Image metadata: PNG 150x150 mode=RGB
+
+[OCR skipped for small image (< 150000 pixels).]
+
+## Linked asset: 2022-06-07_weekly-vessel-valuations-report-june-07-2022_img2.png
+Source asset: reports/hellenic/vessel_valuations/2022/2022-06-07_weekly-vessel-valuations-report-june-07-2022_img2.png
+
+Linked image asset: 2022-06-07_weekly-vessel-valuations-report-june-07-2022_img2.png
+
+Image metadata: PNG 678x250 mode=RGBA
+
+Embedded info:
+dpi: (143.99259999999998, 143.99259999999998)
+
+OCR text:
+© VesselsValue™ | -___-
+07 June 2022 VV Mini Matrix - Weekly Change
+Tankers Bulkers Containers
+Age VLCC Suez Afra LR1 MR Cape Pmax Supra Handy post Pmax Handy Fmax
+o 0.0% -0.1% 10.3% 0.0% +0.8% 0.3% #1.3% 10.8% 10.3% 0.0% -0.1% -0.9% 0.8%
+320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100
+s +0.1% -0.5% +0.1% 0.0% +0.8% 0.2% © +2.4% 40.1% +0.3% 0.0% -0.1% -0.9% -0.8%
+320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 «4250 «1750-1100
+10 0.1% 0.7% 13.5% 0.0% +0.8% 0.2% #3.1% 0.3% 10.3% 0.0% 0.0% 0.9% 0.8%
+310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100
+15 40.1% -O0.4% +3.9% 0.0% +0.8% 0.3% +3.3% -0.9% +0.3% 0.0% 0.0% -0.9% -0.8%
+310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 «4250 «17501100
+20 0.1% 40.1% 41.2% -1.5% +0.8% 1.5% #3.1% -1.0% 40.3% 10.1% 0.1% 0.8% -0.8%
+305K 155K 105K 70K 45K 175K 75K 50K 30K 6500 4000 1750 1100
+25 "1.5% N/A -1.5% -1.5% -1.5% "1.6% 40.5% -0.8% +0.4% 40.1% -0.3% -0.7% -0.7%
+300K N/A 105K 65K 45K 170K 75K 48K 30K 5500 4000 1750 1100

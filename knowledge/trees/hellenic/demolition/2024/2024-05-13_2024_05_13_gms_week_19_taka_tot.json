@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 5969,
+  "token_count": 6255,
   "source_path": "reports/hellenic/demolition/2024/2024-05-13_gms-week-19-taka-tot.html",
   "source_url": "https://www.hellenicshippingnews.com/gms-week-19-taka-tot",
   "children": [
@@ -84,6 +84,62 @@
       "page_end": null,
       "token_count": 5227,
       "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-05-13_2024_05_13_gms_week_19_taka_tot__s03_linked_asset_2024_05_13_gms_week_19_taka_tot_img1_jpg",
+      "doc_id": "hellenic_demolition_2024-05-13_2024_05_13_gms_week_19_taka_tot",
+      "parent_id": "hellenic_demolition_2024-05-13_2024_05_13_gms_week_19_taka_tot__root",
+      "title": "Linked asset: 2024-05-13_gms-week-19-taka-tot_img1.jpg",
+      "section_path": [
+        "Linked asset: 2024-05-13_gms-week-19-taka-tot_img1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-05-13_gms-week-19-taka-tot_img1.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-05-13_gms-week-19-taka-tot_img1.jpg\n\nLinked image asset: 2024-05-13_gms-week-19-taka-tot_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "gms-week-19-taka-tot_img1.jpg",
+        "info",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 94,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-05-13_2024_05_13_gms_week_19_taka_tot__s04_linked_asset_2024_05_13_gms_week_19_taka_tot_img2_jpg",
+      "doc_id": "hellenic_demolition_2024-05-13_2024_05_13_gms_week_19_taka_tot",
+      "parent_id": "hellenic_demolition_2024-05-13_2024_05_13_gms_week_19_taka_tot__root",
+      "title": "Linked asset: 2024-05-13_gms-week-19-taka-tot_img2.jpg",
+      "section_path": [
+        "Linked asset: 2024-05-13_gms-week-19-taka-tot_img2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-05-13_gms-week-19-taka-tot_img2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/hellenic/demolition/2024/2024-05-13_gms-week-19-taka-tot_img2.jpg\n\nLinked image asset: 2024-05-13_gms-week-19-taka-tot_img2.jpg\n\nImage metadata: JPEG 690x221 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nRank Location Sentiment Dabok ters caramuaie\nUSD/LDT USD/LDT USD /LDT\n| 4 | turkey | Hot] 3e0/upT | svo/epr | 380/LDT |\n* Tat = Dead in German ** +10K LDT Units",
+      "keywords": [
+        "ldt",
+        "asset",
+        "image",
+        "usd/ldt",
+        "caramuaie",
+        "dabok",
+        "dead",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": "linked_image_asset",
       "children": []
     }
   ]
