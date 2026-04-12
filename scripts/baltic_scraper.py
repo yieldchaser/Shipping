@@ -12,7 +12,9 @@ Changes in v3:
   - Other tabs: opens custom dropdown, cycles through each year option
 
 Output:
-  C:/Users/Dell/Github/Shipping/reports/baltic/{category}/{year}/{file}.html
+  reports/baltic/{category}/{year}/{file}.html
+  reports/baltic/{category}/{year}/assets/{asset}.{ext}
+  reports/baltic/{category}/pdfs/{asset}.pdf
 
 Install:
     pip install selenium requests beautifulsoup4 lxml
@@ -38,11 +40,26 @@ from urllib.parse import urljoin, urlparse
 from datetime import datetime
 from bs4 import BeautifulSoup
 
+from source_archive_utils_v2 import (
+    REPORTS_ROOT,
+    asset_kind,
+    clean_node_text,
+    deterministic_asset_filename,
+    infer_asset_extension,
+    is_mirrorable_asset,
+    minimum_asset_size,
+    normalize_asset_url,
+    relative_asset_href,
+    remove_empty_tags,
+    strip_attrs,
+    unwrap_redundant_containers,
+)
+
 # ── Config ────────────────────────────────────────────────────────────────────
 
 BASE_URL    = "https://www.balticexchange.com"
 LISTING_URL = "https://www.balticexchange.com/en/data-services/WeeklyRoundup.html"
-OUTPUT_ROOT = Path(r"C:\Users\Dell\Github\Shipping\reports\baltic")
+OUTPUT_ROOT = REPORTS_ROOT / "baltic"
 TAB_DIRECT_URLS = {
     "dry":       LISTING_URL,  # dry is default tab; hash fragment breaks it,
     "tanker":    LISTING_URL + "#tanker",
@@ -50,7 +67,7 @@ TAB_DIRECT_URLS = {
     "container": LISTING_URL + "#main_par_tabbedcontent2tabbedcontentitem_5",
     "ningbo":    LISTING_URL + "#ningbo",
 }
-DEBUG_DIR   = Path(r"C:\Users\Dell\Github\Shipping\reports\baltic\_debug")
+DEBUG_DIR   = OUTPUT_ROOT / "_debug"
 
 HEADERS = {
     "User-Agent": (
@@ -64,6 +81,7 @@ HEADERS = {
 
 PAGE_DELAY     = 1.2
 DOWNLOAD_DELAY = 1.5
+ASSET_DELAY    = 0.35
 
 CATEGORIES = {
     "dry": {
@@ -553,8 +571,52 @@ def extract_date_from_page(soup: BeautifulSoup) -> "datetime | None":
     return None
 
 
-def extract_article_html(soup: BeautifulSoup, url: str, title: str,
-                         date: "datetime | None") -> str:
+def mirror_asset(
+    *,
+    page_url: str,
+    raw_url: str,
+    base_name: str,
+    html_path: Path,
+    assets_dir: Path,
+    link_text: str = "",
+) -> tuple[str, str] | None:
+    absolute = normalize_asset_url(page_url, raw_url)
+    if not absolute or not is_mirrorable_asset(absolute, link_text):
+        return None
+
+    extension = infer_asset_extension(absolute, link_text)
+    if not extension:
+        return None
+    kind_name = asset_kind(extension)
+    min_size = minimum_asset_size(kind_name)
+
+    try:
+        response = session.get(absolute, timeout=30, stream=True)
+        response.raise_for_status()
+        payload = response.content
+    except Exception as exc:
+        print(f"    ! Asset download failed: {absolute[-80:]}  {exc}")
+        return None
+
+    if len(payload) <= min_size:
+        return None
+
+    assets_dir.mkdir(parents=True, exist_ok=True)
+    filename = deterministic_asset_filename(base_name, absolute, payload, extension)
+    destination = assets_dir / filename
+    if not destination.exists():
+        destination.write_bytes(payload)
+    time.sleep(ASSET_DELAY)
+    return relative_asset_href(html_path, destination), absolute
+
+
+def extract_article_html(
+    soup: BeautifulSoup,
+    url: str,
+    title: str,
+    date: "datetime | None",
+    html_dest: Path,
+) -> str:
     article = None
     for sel in ["article", ".article-content", ".news-content",
                 ".rte", ".content-body", "main", "#main",
@@ -566,12 +628,85 @@ def extract_article_html(soup: BeautifulSoup, url: str, title: str,
     if article is None:
         article = soup.find("body") or soup
 
-    for tag in article.find_all(["nav","header","footer","script","style",
-                                  "noscript","aside","iframe"]):
+    article_fragment = BeautifulSoup(str(article), "lxml")
+    article_root = article_fragment.find(["article", "body", "section", "div"]) or article_fragment
+
+    for tag in article_root.find_all(["nav", "header", "footer", "script", "style", "noscript", "aside"]):
         tag.decompose()
-    for tag in article.find_all(True):
-        for attr in ["onclick","onload","style","class","id"]:
-            tag.attrs.pop(attr, None)
+
+    base_name = html_dest.stem
+    assets_dir = html_dest.parent / "assets"
+    pdf_dir = html_dest.parent.parent / "pdfs"
+
+    for iframe in list(article_root.find_all("iframe")):
+        src = iframe.get("src") or ""
+        mirrored = mirror_asset(
+            page_url=url,
+            raw_url=src,
+            base_name=f"{base_name}_embed",
+            html_path=html_dest,
+            assets_dir=assets_dir,
+        ) if src else None
+        note = article_root.new_tag("div")
+        note["class"] = "archive-note"
+        if mirrored:
+            href, original = mirrored
+            link = article_root.new_tag("a", href=href)
+            link.string = f"Embedded asset: {Path(urlparse(original).path).name or 'download'}"
+            note.append(link)
+        else:
+            note.string = f"Embedded chart: {src}" if src else "Embedded content removed during archiving"
+        iframe.replace_with(note)
+
+    for anchor in list(article_root.find_all("a", href=True)):
+        href = anchor.get("href") or ""
+        link_text = anchor.get_text(" ", strip=True)
+        absolute = normalize_asset_url(url, href)
+        if not absolute:
+            anchor.decompose()
+            continue
+        extension = infer_asset_extension(absolute, link_text)
+        mirrored = mirror_asset(
+            page_url=url,
+            raw_url=href,
+            base_name=base_name,
+            html_path=html_dest,
+            assets_dir=pdf_dir if extension == ".pdf" else assets_dir,
+            link_text=link_text,
+        )
+        if mirrored:
+            local_href, original = mirrored
+            anchor["href"] = local_href
+            if not link_text:
+                anchor.string = f"Linked asset: {Path(urlparse(original).path).name or 'download'}"
+        else:
+            anchor["href"] = absolute
+
+    for img in list(article_root.find_all("img")):
+        src = img.get("src") or img.get("data-src") or img.get("data-lazy-src") or ""
+        if not src:
+            img.decompose()
+            continue
+        mirrored = mirror_asset(
+            page_url=url,
+            raw_url=src,
+            base_name=f"{base_name}_img",
+            html_path=html_dest,
+            assets_dir=assets_dir,
+        )
+        if mirrored:
+            local_src, _ = mirrored
+            img["src"] = local_src
+            img.attrs.pop("data-src", None)
+            img.attrs.pop("data-lazy-src", None)
+        else:
+            img["src"] = normalize_asset_url(url, src)
+        img["loading"] = "lazy"
+
+    clean_node_text(article_root)
+    strip_attrs(article_root)
+    unwrap_redundant_containers(article_root)
+    remove_empty_tags(article_root)
 
     date_str = date.strftime("%d %B %Y") if date else ""
     return f"""<!DOCTYPE html>
@@ -579,7 +714,7 @@ def extract_article_html(soup: BeautifulSoup, url: str, title: str,
 <style>{HTML_CSS}</style></head><body>
 <h1>{title}</h1>
 <p class="meta">Date: {date_str} &nbsp;|&nbsp; <a href="{url}">{url}</a></p><hr>
-{article}
+{article_root}
 </body></html>"""
 
 
@@ -644,7 +779,7 @@ def process_report(url: str, cat: str, dry_run: bool, driver=None) -> bool:
         print(f"    [DRY RUN] {ds}  {week+'  ' if week else ''}{title[:50]}  → {filename}")
         return True
 
-    html = extract_article_html(soup, url, title, date)
+    html = extract_article_html(soup, url, title, date, dest)
     return save_as_html_snapshot(html, dest)
 
 

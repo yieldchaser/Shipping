@@ -1,9 +1,12 @@
 from __future__ import annotations
 
+import hashlib
 import html
+import os
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup, Comment, NavigableString, Tag
 from bs4 import FeatureNotFound
@@ -19,6 +22,69 @@ ALLOWED_ATTRS = {
     "td": {"colspan", "rowspan"},
     "th": {"colspan", "rowspan"},
 }
+
+SUPPORTED_MIRROR_EXTENSIONS = {
+    ".pdf",
+    ".html",
+    ".htm",
+    ".txt",
+    ".md",
+    ".csv",
+    ".tsv",
+    ".json",
+    ".xls",
+    ".xlsx",
+    ".xlsm",
+    ".png",
+    ".jpg",
+    ".jpeg",
+    ".gif",
+    ".webp",
+    ".svg",
+}
+
+ARCHIVE_AUXILIARY_DIRS = {
+    "assets",
+    "pdfs",
+    "files",
+    "attachments",
+    "images",
+    "_debug",
+}
+
+ASSET_KIND_BY_EXT = {
+    ".pdf": "pdf",
+    ".html": "html",
+    ".htm": "html",
+    ".txt": "text",
+    ".md": "text",
+    ".csv": "table",
+    ".tsv": "table",
+    ".json": "json",
+    ".xls": "spreadsheet",
+    ".xlsx": "spreadsheet",
+    ".xlsm": "spreadsheet",
+    ".png": "image",
+    ".jpg": "image",
+    ".jpeg": "image",
+    ".gif": "image",
+    ".webp": "image",
+    ".svg": "image",
+}
+
+NON_CONTENT_LINK_HINTS = (
+    "mailto:",
+    "javascript:",
+    "facebook.com/sharer",
+    "twitter.com/intent",
+    "linkedin.com/share",
+    "pinterest.com/pin",
+    "whatsapp://",
+    "t.me/share",
+    "translate.google.com",
+    "webcache.googleusercontent",
+    "addtoany",
+)
 
 
 def configure_utf8_stdio() -> None:
@@ -66,6 +132,94 @@ def slugify(value: str) -> str:
 def humanize_slug(value: str) -> str:
     cleaned = repair_text(value.replace("-", " ").replace("_", " "))
     return cleaned[:140].strip()
+
+
+def normalize_asset_url(page_url: str, raw_url: str) -> str:
+    candidate = repair_text(raw_url or "").strip()
+    if not candidate:
+        return ""
+
+    candidate = re.sub(r"^(?:%20|\s)+", "", candidate)
+    embedded = re.search(r"https?://[^\s\"'<>]+", candidate)
+    if embedded:
+        candidate = embedded.group(0)
+    elif candidate.startswith("https:/") and not candidate.startswith("https://"):
+        candidate = "https://" + candidate[len("https:/") :].lstrip("/")
+    elif candidate.startswith("http:/") and not candidate.startswith("http://"):
+        candidate = "http://" + candidate[len("http:/") :].lstrip("/")
+    elif candidate.startswith("//"):
+        candidate = "https:" + candidate
+    elif candidate.startswith("www."):
+        candidate = "https://" + candidate
+    elif not candidate.startswith("http"):
+        candidate = urljoin(page_url, candidate)
+
+    return candidate
+
+
+def looks_like_non_content_link(asset_url: str) -> bool:
+    lower = repair_text(asset_url).lower()
+    if not lower:
+        return True
+    if lower.startswith("#") or lower.startswith("data:"):
+        return True
+    return any(token in lower for token in NON_CONTENT_LINK_HINTS)
+
+
+def infer_asset_extension(asset_url: str, link_text: str | None = None) -> str:
+    path = urlparse(asset_url).path or ""
+    ext = Path(path).suffix.lower()
+    if ext in SUPPORTED_MIRROR_EXTENSIONS:
+        return ext
+    text = repair_text(link_text or "").lower()
+    if "pdf" in text:
+        return ".pdf"
+    return ""
+
+
+def is_mirrorable_asset(asset_url: str, link_text: str | None = None) -> bool:
+    if looks_like_non_content_link(asset_url):
+        return False
+    return infer_asset_extension(asset_url, link_text) in SUPPORTED_MIRROR_EXTENSIONS
+
+
+def asset_kind(extension: str) -> str:
+    return ASSET_KIND_BY_EXT.get((extension or "").lower(), "other")
+
+
+def deterministic_asset_filename(base_name: str, asset_url: str, content: bytes, extension: str) -> str:
+    ext = (extension or "").lower()
+    if not ext.startswith("."):
+        ext = "." + ext
+    if ext not in SUPPORTED_MIRROR_EXTENSIONS:
+        ext = ".bin"
+    stem_source = Path(urlparse(asset_url).path).stem or "asset"
+    stem = slugify(stem_source) or "asset"
+    digest = hashlib.sha1(content).hexdigest()[:12]
+    return sanitize_filename(f"{base_name}_{stem[:36]}_{digest}{ext}")
+
+
+def relative_asset_href(from_html_path: Path, asset_path: Path) -> str:
+    try:
+        relative = asset_path.relative_to(from_html_path.parent)
+        return relative.as_posix()
+    except ValueError:
+        return Path(os.path.relpath(asset_path, from_html_path.parent)).as_posix()
+
+
+def minimum_asset_size(kind_name: str) -> int:
+    if kind_name == "image":
+        return 5_000
+    if kind_name == "pdf":
+        return 1_000
+    return 500
+
+
+def is_primary_archive_html_path(path: Path) -> bool:
+    if path.suffix.lower() != ".html":
+        return False
+    parts_lower = {part.lower() for part in path.parts}
+    return not any(part in ARCHIVE_AUXILIARY_DIRS for part in parts_lower)
 
 
 def clean_node_text(root: Tag) -> None:

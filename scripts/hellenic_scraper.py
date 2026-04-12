@@ -6,7 +6,7 @@ repo-local HTML snapshots with sidecar images and optional PDFs.
 
 Output:
   reports/hellenic/{category}/{year}/{date}_{slug}.html
-  reports/hellenic/{category}/{year}/{date}_{slug}_imgN.{ext}
+  reports/hellenic/{category}/{year}/assets/{asset}.{ext}
   reports/hellenic/{category}/pdfs/{date}_{filename}.pdf
 """
 
@@ -25,11 +25,18 @@ from bs4 import BeautifulSoup
 
 from source_archive_utils_v2 import (
     REPORTS_ROOT,
+    asset_kind,
     clean_node_text,
     configure_utf8_stdio,
+    deterministic_asset_filename,
+    infer_asset_extension,
+    is_mirrorable_asset,
     make_soup,
+    minimum_asset_size,
+    normalize_asset_url,
     remove_empty_tags,
     repair_text,
+    relative_asset_href,
     sanitize_filename,
     slugify,
     standard_archive_html,
@@ -279,43 +286,46 @@ def collect_category_urls(driver, category_name: str, category_url: str, year_fi
 
 def resolve_asset_url(page_url: str, raw_url: str) -> str:
     """Normalize malformed scraped asset URLs into a usable absolute URL."""
-    candidate = repair_text(raw_url or "").strip()
-    if not candidate:
-        return ""
-
-    candidate = re.sub(r"^(?:%20|\s)+", "", candidate)
-    embedded = re.search(r"https?://[^\s\"'<>]+", candidate)
-    if embedded:
-        candidate = embedded.group(0)
-    elif candidate.startswith("https:/") and not candidate.startswith("https://"):
-        candidate = "https://" + candidate[len("https:/") :].lstrip("/")
-    elif candidate.startswith("http:/") and not candidate.startswith("http://"):
-        candidate = "http://" + candidate[len("http:/") :].lstrip("/")
-    elif candidate.startswith("//"):
-        candidate = "https:" + candidate
-    elif candidate.startswith("www."):
-        candidate = "https://" + candidate
-    elif not candidate.startswith("http"):
-        candidate = urljoin(page_url, candidate)
-
-    return candidate
+    return normalize_asset_url(page_url, raw_url)
 
 
-def download_file(url: str, dest: Path, *, minimum_size: int = 500) -> bool:
-    if dest.exists() and dest.stat().st_size > minimum_size:
-        return True
-    dest.parent.mkdir(parents=True, exist_ok=True)
+def mirror_asset(
+    *,
+    page_url: str,
+    raw_url: str,
+    base_name: str,
+    html_path: Path,
+    assets_dir: Path,
+    link_text: str = "",
+) -> tuple[str, str] | None:
+    absolute = resolve_asset_url(page_url, raw_url)
+    if not absolute or not is_mirrorable_asset(absolute, link_text):
+        return None
+
+    extension = infer_asset_extension(absolute, link_text)
+    if not extension:
+        return None
+    kind_name = asset_kind(extension)
+    min_size = minimum_asset_size(kind_name)
+
     try:
-        response = dl_session.get(url, timeout=30, stream=True)
+        response = dl_session.get(absolute, timeout=30, stream=True)
         response.raise_for_status()
-        dest.write_bytes(response.content)
-        time.sleep(ASSET_DELAY)
-        return dest.exists() and dest.stat().st_size > minimum_size
+        payload = response.content
     except Exception as exc:
-        print(f"    ! Asset download failed: {url[-70:]}  {exc}")
-        if dest.exists():
-            dest.unlink()
-        return False
+        print(f"    ! Asset download failed: {absolute[-70:]}  {exc}")
+        return None
+
+    if len(payload) <= min_size:
+        return None
+
+    assets_dir.mkdir(parents=True, exist_ok=True)
+    filename = deterministic_asset_filename(base_name, absolute, payload, extension)
+    destination = assets_dir / filename
+    if not destination.exists():
+        destination.write_bytes(payload)
+    time.sleep(ASSET_DELAY)
+    return relative_asset_href(html_path, destination), absolute
 
 
 def parse_date(page_soup: BeautifulSoup, url: str) -> datetime | None:
@@ -426,7 +436,8 @@ def normalize_body(
     body: BeautifulSoup,
     page_url: str,
     base_name: str,
-    image_dir: Path,
+    html_path: Path,
+    assets_dir: Path,
     pdf_dir: Path,
 ) -> tuple[str, list[str]]:
     fragment = make_soup(f"<section>{str(body)}</section>").section
@@ -445,23 +456,33 @@ def normalize_body(
     seen_pdfs: set[str] = set()
     for anchor in list(fragment.find_all("a", href=True)):
         href = anchor.get("href", "")
+        link_text = repair_text(anchor.get_text(" ", strip=True))
         absolute = resolve_asset_url(page_url, href)
         if not absolute:
             anchor.decompose()
             continue
-        if ".pdf" in absolute.lower() or "pdf" in repair_text(anchor.get_text(" ", strip=True)).lower():
-            pdf_name = sanitize_filename(f"{base_name}_{absolute.split('/')[-1]}")
-            if not pdf_name.endswith(".pdf"):
-                pdf_name += ".pdf"
-            pdf_dest = pdf_dir / pdf_name
-            if download_file(absolute, pdf_dest, minimum_size=1000):
-                anchor["href"] = f"../../pdfs/{pdf_name}"
-                anchor.string = repair_text(anchor.get_text(" ", strip=True)) or f"Download PDF: {pdf_name}"
+
+        mirrored = mirror_asset(
+            page_url=page_url,
+            raw_url=href,
+            base_name=base_name,
+            html_path=html_path,
+            assets_dir=pdf_dir if infer_asset_extension(absolute, link_text) == ".pdf" else assets_dir,
+            link_text=link_text,
+        )
+        if mirrored:
+            local_href, mirrored_url = mirrored
+            anchor["href"] = local_href
+            if not link_text:
+                anchor.string = f"Linked asset: {Path(urlparse(mirrored_url).path).name or 'download'}"
+            if local_href.startswith("../../pdfs/"):
+                pdf_name = Path(local_href).name
                 if pdf_name not in seen_pdfs:
                     downloaded_pdfs.append(pdf_name)
                     seen_pdfs.add(pdf_name)
-            else:
-                anchor.decompose()
+            continue
+
+        anchor["href"] = absolute
 
     image_index = 0
     for img in list(fragment.find_all("img")):
@@ -477,15 +498,19 @@ def normalize_body(
             img.decompose()
             continue
         image_index += 1
-        ext = Path(urlparse(src).path).suffix or ".jpg"
-        if len(ext) > 5:
-            ext = ".jpg"
-        image_name = sanitize_filename(f"{base_name}_img{image_index}{ext}")
-        image_dest = image_dir / image_name
-        if not download_file(src, image_dest, minimum_size=5000):
-            img.decompose()
+        mirrored = mirror_asset(
+            page_url=page_url,
+            raw_url=src,
+            base_name=f"{base_name}_img{image_index}",
+            html_path=html_path,
+            assets_dir=assets_dir,
+        )
+        if mirrored:
+            local_src, _ = mirrored
+            img["src"] = local_src
+            img["loading"] = "lazy"
             continue
-        img["src"] = image_name
+        img["src"] = src
         img["loading"] = "lazy"
 
     clean_node_text(fragment)
@@ -518,7 +543,7 @@ def extract_and_save(
     base_name = sanitize_filename(f"{date_stamp}_{slug}")
     dest_html = OUTPUT_ROOT / category_name / year / f"{base_name}.html"
     dest_pdf_dir = OUTPUT_ROOT / category_name / "pdfs"
-    dest_img_dir = OUTPUT_ROOT / category_name / year
+    dest_assets_dir = OUTPUT_ROOT / category_name / year / "assets"
 
     if not overwrite and dest_html.exists() and dest_html.stat().st_size > 800:
         print(f"    skip: {dest_html.name}")
@@ -533,7 +558,14 @@ def extract_and_save(
     extra_parts: list[str] = []
 
     if body is not None:
-        body_html, pdf_names = normalize_body(body, url, base_name, dest_img_dir, dest_pdf_dir)
+        body_html, pdf_names = normalize_body(
+            body,
+            url,
+            base_name,
+            dest_html,
+            dest_assets_dir,
+            dest_pdf_dir,
+        )
         if pdf_names:
             pdf_links = "".join(
                 f'<p><a href="../../pdfs/{name}">Download PDF: {name}</a></p>' for name in pdf_names

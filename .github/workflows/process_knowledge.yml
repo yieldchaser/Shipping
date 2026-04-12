@@ -38,7 +38,7 @@ jobs:
         shell: bash
         run: |
           sudo apt-get update
-          sudo apt-get install -y tesseract-ocr tesseract-ocr-eng
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-eng poppler-utils
 
       - name: Install dependencies
         run: pip install -r requirements_knowledge.txt
@@ -62,9 +62,14 @@ jobs:
           OLLAMA_MAX_BACKOFF_SEC: "15.0"
           LLM_PROVIDER_ORDER: "ollama,gemini"
           MANIFEST_FLUSH_EVERY: "200"
-          LINKED_IMAGE_OCR_CHAR_LIMIT: "5000"
-          MIN_IMAGE_OCR_PIXELS: "150000"
-          MAX_LINKED_ASSETS_PER_DOC: "12"
+          LINKED_PDF_PAGE_LIMIT: "16"
+          LINKED_PDF_OCR_PAGE_LIMIT: "6"
+          LINKED_TEXT_CHAR_LIMIT: "120000"
+          LINKED_TABLE_ROW_LIMIT: "500"
+          LINKED_TABLE_COL_LIMIT: "36"
+          LINKED_IMAGE_OCR_CHAR_LIMIT: "9000"
+          MIN_IMAGE_OCR_PIXELS: "90000"
+          MAX_LINKED_ASSETS_PER_DOC: "28"
         shell: bash
         run: |
           set -o pipefail

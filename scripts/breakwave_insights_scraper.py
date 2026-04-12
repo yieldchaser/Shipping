@@ -3,17 +3,17 @@ Breakwave Advisors Insights Scraper
 ==================================
 Scrapes article pages from https://www.breakwaveadvisors.com/insights,
 stores clean self-contained HTML by year, and downloads article images
-into a shared repo-local image directory.
+plus linked assets into repo-local archive folders.
 
 Output:
   reports/breakwave/{year}/{date}_{slug}.html
-  reports/breakwave/images/{slug}_{image}_{hash}.{ext}
+  reports/breakwave/{year}/assets/{asset}.{ext}
+  reports/breakwave/pdfs/{asset}.pdf
 """
 
 from __future__ import annotations
 
 import argparse
-import hashlib
 import re
 import time
 from datetime import datetime
@@ -25,12 +25,19 @@ from bs4 import BeautifulSoup
 
 from source_archive_utils_v2 import (
     REPORTS_ROOT,
+    asset_kind,
     clean_node_text,
     configure_utf8_stdio,
+    deterministic_asset_filename,
     humanize_slug,
+    infer_asset_extension,
+    is_mirrorable_asset,
     make_soup,
+    minimum_asset_size,
+    normalize_asset_url,
     remove_empty_tags,
     repair_text,
+    relative_asset_href,
     sanitize_filename,
     slugify,
     standard_archive_html,
@@ -42,7 +49,6 @@ from source_archive_utils_v2 import (
 BASE_URL = "https://www.breakwaveadvisors.com"
 START_URL = f"{BASE_URL}/insights"
 OUTPUT_ROOT = REPORTS_ROOT / "breakwave"
-IMAGES_DIR = OUTPUT_ROOT / "images"
 
 HEADERS = {
     "User-Agent": (
@@ -220,29 +226,50 @@ def collect_all_article_urls(year_filter: int | None = None) -> list[str]:
     return sorted(all_links, reverse=True)
 
 
-def download_image(img_url: str, slug: str) -> tuple[str, str] | None:
-    IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-    parsed = urlparse(img_url)
-    ext = Path(parsed.path).suffix or ".jpg"
-    if len(ext) > 5:
-        ext = ".jpg"
-    img_slug = slugify(Path(parsed.path).stem or "img")
-    url_hash = hashlib.sha1(img_url.encode("utf-8")).hexdigest()[:10]
-    filename = sanitize_filename(f"{slug[:28]}_{img_slug[:30]}_{url_hash}{ext}")
-    dest = IMAGES_DIR / filename
+def mirror_asset(
+    *,
+    page_url: str,
+    raw_url: str,
+    base_name: str,
+    html_path: Path,
+    assets_dir: Path,
+    link_text: str = "",
+) -> tuple[str, str] | None:
+    absolute = normalize_asset_url(page_url, raw_url)
+    if not absolute or not is_mirrorable_asset(absolute, link_text):
+        return None
 
-    if dest.exists() and dest.stat().st_size > 500:
-        return f"../../images/{filename}", img_url
+    extension = infer_asset_extension(absolute, link_text)
+    if not extension:
+        return None
+    kind_name = asset_kind(extension)
+    minimum_size = minimum_asset_size(kind_name)
 
-    response = get(img_url, stream=True)
+    response = get(absolute, stream=True)
     if response is None:
         return None
-    dest.write_bytes(response.content)
+
+    payload = response.content
+    if len(payload) <= minimum_size:
+        return None
+
+    assets_dir.mkdir(parents=True, exist_ok=True)
+    filename = deterministic_asset_filename(base_name, absolute, payload, extension)
+    destination = assets_dir / filename
+    if not destination.exists():
+        destination.write_bytes(payload)
     time.sleep(IMAGE_DELAY)
-    return f"../../images/{filename}", img_url
+    return relative_asset_href(html_path, destination), absolute
 
 
-def clean_breakwave_body(body: BeautifulSoup, slug: str) -> tuple[str, list[str]]:
+def clean_breakwave_body(
+    body: BeautifulSoup,
+    page_url: str,
+    base_name: str,
+    html_path: Path,
+    assets_dir: Path,
+    pdf_dir: Path,
+) -> tuple[str, list[str]]:
     fragment = make_soup(f"<section>{str(body)}</section>").section
     if fragment is None:
         return "<p><em>No content extracted - visit the original URL.</em></p>", []
@@ -256,26 +283,76 @@ def clean_breakwave_body(body: BeautifulSoup, slug: str) -> tuple[str, list[str]
     seen_images: set[str] = set()
 
     for iframe in list(fragment.find_all("iframe")):
-        src = repair_text(iframe.get("src"))
+        src = repair_text(iframe.get("src") or "")
         note = fragment.new_tag("div")
         note["class"] = "archive-note"
-        note.string = f"Embedded chart: {src}" if src else "Embedded chart removed during archiving"
+        mirrored = mirror_asset(
+            page_url=page_url,
+            raw_url=src,
+            base_name=f"{base_name}_embed",
+            html_path=html_path,
+            assets_dir=assets_dir,
+        ) if src else None
+        if mirrored:
+            local_href, original = mirrored
+            link = fragment.new_tag("a", href=local_href)
+            link.string = f"Embedded asset: {Path(urlparse(original).path).name or 'download'}"
+            note.string = ""
+            note.append(link)
+            iframe_notes.append(local_href)
+        else:
+            note.string = f"Embedded chart: {src}" if src else "Embedded chart removed during archiving"
+            if src:
+                iframe_notes.append(src)
         iframe.replace_with(note)
-        if src:
-            iframe_notes.append(src)
+
+    for anchor in list(fragment.find_all("a", href=True)):
+        href = anchor.get("href", "")
+        link_text = repair_text(anchor.get_text(" ", strip=True))
+        absolute = normalize_asset_url(page_url, href)
+        if not absolute:
+            anchor.decompose()
+            continue
+
+        extension = infer_asset_extension(absolute, link_text)
+        target_dir = pdf_dir if extension == ".pdf" else assets_dir
+        mirrored = mirror_asset(
+            page_url=page_url,
+            raw_url=href,
+            base_name=base_name,
+            html_path=html_path,
+            assets_dir=target_dir,
+            link_text=link_text,
+        )
+        if mirrored:
+            local_href, mirrored_url = mirrored
+            anchor["href"] = local_href
+            if not link_text:
+                anchor.string = f"Linked asset: {Path(urlparse(mirrored_url).path).name or 'download'}"
+            continue
+
+        anchor["href"] = absolute
 
     for img in list(fragment.find_all("img")):
         src = img.get("src") or img.get("data-src") or ""
         if not src:
             img.decompose()
             continue
-        if not src.startswith("http"):
-            src = urljoin(BASE_URL, src)
+        src = normalize_asset_url(page_url, src)
+        if not src:
+            img.decompose()
+            continue
         if src in seen_images:
             img.decompose()
             continue
         seen_images.add(src)
-        result = download_image(src, slug)
+        result = mirror_asset(
+            page_url=page_url,
+            raw_url=src,
+            base_name=f"{base_name}_img",
+            html_path=html_path,
+            assets_dir=assets_dir,
+        )
         if result is None:
             note = fragment.new_tag("div")
             note["class"] = "archive-note"
@@ -384,16 +461,26 @@ def extract_article(page_soup: BeautifulSoup, url: str) -> dict:
     }
 
 
-def build_html(info: dict, slug: str) -> str:
+def build_html(info: dict, dest_html: Path) -> str:
     title = repair_text(info["title"])
     url = info["url"]
     date_str = info["date_str"] or "unknown"
     source = repair_text(info["source"]) or "Breakwave Advisors"
     tags = info["tags"]
     body = info["body"]
+    base_name = sanitize_filename(dest_html.stem)
+    assets_dir = dest_html.parent / "assets"
+    pdf_dir = OUTPUT_ROOT / "pdfs"
 
     if body:
-        body_html, iframe_notes = clean_breakwave_body(body, slug)
+        body_html, iframe_notes = clean_breakwave_body(
+            body,
+            url,
+            base_name,
+            dest_html,
+            assets_dir,
+            pdf_dir,
+        )
     else:
         body_html = "<p><em>No content extracted - visit the original URL.</em></p>"
         iframe_notes = []
@@ -443,7 +530,7 @@ def process_article(url: str, dry_run: bool, overwrite: bool) -> bool:
         print(f"    [DRY RUN] {info['date_str'] or 'unknown date'}  {info['title'][:70]} -> {dest.name}")
         return True
 
-    html_doc = build_html(info, slug)
+    html_doc = build_html(info, dest)
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(html_doc, encoding="utf-8")
     print(f"    saved: {dest.name}  ({dest.stat().st_size // 1024} KB)")

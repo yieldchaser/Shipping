@@ -15,6 +15,7 @@ from dotenv import load_dotenv
 from build_health_report import build_health_reports
 from build_wiki import build_wiki
 from knowledge_hash import SOURCE_HASH_VERSION, compute_source_hash
+from source_archive_utils_v2 import is_primary_archive_html_path, looks_like_non_content_link
 warnings.simplefilter("ignore", FutureWarning)
 try:
     import google.generativeai as genai
@@ -70,10 +71,11 @@ TIMELINES_DERIVED = DERIVED_DIR / "timelines.json"
 HEALTH_SUMMARY = KNOWLEDGE_REPORTS_DIR / "health_summary.md"
 COMPILER_VERSION = 2
 REPO_ROOT_RESOLVED = REPO_ROOT.resolve()
-LINKED_PDF_PAGE_LIMIT = 8
-LINKED_TEXT_CHAR_LIMIT = 50000
-LINKED_TABLE_ROW_LIMIT = 250
-LINKED_TABLE_COL_LIMIT = 20
+LINKED_PDF_PAGE_LIMIT = int(os.environ.get("LINKED_PDF_PAGE_LIMIT", "12"))
+LINKED_PDF_OCR_PAGE_LIMIT = int(os.environ.get("LINKED_PDF_OCR_PAGE_LIMIT", "4"))
+LINKED_TEXT_CHAR_LIMIT = int(os.environ.get("LINKED_TEXT_CHAR_LIMIT", "70000"))
+LINKED_TABLE_ROW_LIMIT = int(os.environ.get("LINKED_TABLE_ROW_LIMIT", "300"))
+LINKED_TABLE_COL_LIMIT = int(os.environ.get("LINKED_TABLE_COL_LIMIT", "24"))
 GEMINI_MIN_INTERVAL_SEC = float(os.environ.get("GEMINI_MIN_INTERVAL_SEC", "2.5"))
 GEMINI_MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "6"))
 GEMINI_BACKOFF_BASE_SEC = float(os.environ.get("GEMINI_BACKOFF_BASE_SEC", "3.0"))
@@ -86,6 +88,14 @@ MANIFEST_FLUSH_EVERY = int(os.environ.get("MANIFEST_FLUSH_EVERY", "200"))
 LINKED_IMAGE_OCR_CHAR_LIMIT = int(os.environ.get("LINKED_IMAGE_OCR_CHAR_LIMIT", "5000"))
 MIN_IMAGE_OCR_PIXELS = int(os.environ.get("MIN_IMAGE_OCR_PIXELS", "150000"))
 MAX_LINKED_ASSETS_PER_DOC = int(os.environ.get("MAX_LINKED_ASSETS_PER_DOC", "12"))
+LINKED_ASSET_SOURCES = {"baltic", "breakwave_insights", "hellenic"}
+LINKED_ASSET_FIELD_NAMES = [
+    "linked_assets_discovered",
+    "linked_assets_mirrored",
+    "linked_assets_ingested",
+    "linked_assets_skipped",
+    "linked_assets_failed",
+]
 LLM_PROVIDER_ORDER = [
     provider
     for provider in [part.strip().lower() for part in os.environ.get("LLM_PROVIDER_ORDER", "gemini,ollama").split(",")]
@@ -706,6 +716,27 @@ def migrate_manifest_hash_versions(rows: list[dict]) -> tuple[int, dict[str, str
     return updated, hash_cache
 
 
+def normalize_manifest_schema(rows: list[dict]) -> int:
+    updated = 0
+    for row in rows:
+        row_changed = False
+        for key, default in empty_linked_asset_stats().items():
+            if key not in row:
+                row[key] = default
+                row_changed = True
+            else:
+                try:
+                    coerced = max(0, int(row.get(key)))
+                except (TypeError, ValueError):
+                    coerced = default
+                if row.get(key) != coerced:
+                    row[key] = coerced
+                    row_changed = True
+        if row_changed:
+            updated += 1
+    return updated
+
+
 def load_existing_metadata(row: dict | None) -> dict:
     if not row:
         return {}
@@ -835,6 +866,21 @@ def prune_missing_sources(rows: list[dict]) -> list[dict]:
     return remove_manifest_sources(rows, missing_sources)
 
 
+def prune_non_primary_archive_sources(rows: list[dict]) -> list[dict]:
+    non_primary_sources = set()
+    for row in rows:
+        source = row.get("source")
+        source_path = row.get("source_path")
+        if source not in LINKED_ASSET_SOURCES or not source_path:
+            continue
+        full_path = REPO_ROOT / source_path
+        if full_path.suffix.lower() != ".html":
+            continue
+        if not is_primary_archive_html(full_path):
+            non_primary_sources.add(source_path)
+    return remove_manifest_sources(rows, non_primary_sources)
+
+
 def log_error(file_path: Path, error: str):
     append_jsonl(ERRORS_MANIFEST, {
         "file": relpath(file_path),
@@ -877,14 +923,32 @@ def build_sources_registry():
             "tankers": len(list((REPORTS_ROOT / "tankers").rglob("*.pdf"))),
         },
         "baltic": {
-            category: len(list((REPORTS_ROOT / "baltic" / category).rglob("*.html")))
+            category: len(
+                [
+                    path
+                    for path in (REPORTS_ROOT / "baltic" / category).rglob("*.html")
+                    if is_primary_archive_html(path)
+                ]
+            )
             for category in BALTIC_CATEGORIES
         },
         "breakwave_insights": {
-            "insights": len(list((REPORTS_ROOT / "breakwave").rglob("*.html"))),
+            "insights": len(
+                [
+                    path
+                    for path in (REPORTS_ROOT / "breakwave").rglob("*.html")
+                    if is_primary_archive_html(path)
+                ]
+            ),
         },
         "hellenic": {
-            category: len(list((REPORTS_ROOT / "hellenic" / category).rglob("*.html")))
+            category: len(
+                [
+                    path
+                    for path in (REPORTS_ROOT / "hellenic" / category).rglob("*.html")
+                    if is_primary_archive_html(path)
+                ]
+            )
             for category in HELLENIC_CATEGORIES
         },
         "books": {
@@ -929,14 +993,17 @@ def iter_source_files(source_filter: str | None):
     if source_filter in (None, "baltic", "all"):
         for category in BALTIC_CATEGORIES:
             for path in sorted((REPORTS_ROOT / "baltic" / category).rglob("*.html")):
-                yield "baltic", category, path
+                if is_primary_archive_html(path):
+                    yield "baltic", category, path
     if source_filter in (None, "breakwave_insights", "all"):
         for path in sorted((REPORTS_ROOT / "breakwave").rglob("*.html")):
-            yield "breakwave_insights", "insights", path
+            if is_primary_archive_html(path):
+                yield "breakwave_insights", "insights", path
     if source_filter in (None, "hellenic", "all"):
         for category in HELLENIC_CATEGORIES:
             for path in sorted((REPORTS_ROOT / "hellenic" / category).rglob("*.html")):
-                yield "hellenic", category, path
+                if is_primary_archive_html(path):
+                    yield "hellenic", category, path
 
 
 def default_lists_for_doc(source: str, category: str):
@@ -1295,6 +1362,20 @@ def source_hash(path: Path) -> str:
     return compute_source_hash(path, REPO_ROOT)
 
 
+def empty_linked_asset_stats() -> dict:
+    return {
+        "linked_assets_discovered": 0,
+        "linked_assets_mirrored": 0,
+        "linked_assets_ingested": 0,
+        "linked_assets_skipped": 0,
+        "linked_assets_failed": 0,
+    }
+
+
+def is_primary_archive_html(path: Path) -> bool:
+    return is_primary_archive_html_path(path)
+
+
 def merge_existing_theme_data(theme_data: dict, existing_metadata: dict | None) -> dict:
     existing_metadata = existing_metadata or {}
     if isinstance(existing_metadata.get("themes"), list) and existing_metadata["themes"]:
@@ -1495,6 +1576,10 @@ def resolve_archive_link_path(html_path: Path, href: str) -> Path | None:
             html_path.parent / "assets",
             html_path.parent / "files",
             html_path.parent / "attachments",
+            html_path.parent.parent / "pdfs",
+            html_path.parent.parent / "assets",
+            html_path.parent.parent / "files",
+            html_path.parent.parent / "attachments",
         ]
         for candidate_dir in candidate_dirs:
             candidate = (candidate_dir / link_name).resolve()
@@ -1521,6 +1606,46 @@ def resolve_archive_link_path(html_path: Path, href: str) -> Path | None:
     return candidate
 
 
+def extract_linked_pdf_ocr_text(pdf_path: Path) -> str:
+    if LINKED_PDF_OCR_PAGE_LIMIT <= 0:
+        return ""
+    try:
+        from pdf2image import convert_from_path
+        import pytesseract
+        from PIL import ImageOps
+    except Exception:
+        return ""
+
+    ocr_sections = []
+    try:
+        images = convert_from_path(
+            str(pdf_path),
+            dpi=260,
+            first_page=1,
+            last_page=max(1, LINKED_PDF_OCR_PAGE_LIMIT),
+            thread_count=1,
+        )
+    except Exception:
+        return ""
+
+    for index, image in enumerate(images, start=1):
+        try:
+            grayscale = image.convert("L")
+            candidates = [grayscale, ImageOps.autocontrast(grayscale)]
+            best_text = ""
+            for candidate in candidates:
+                candidate_text = norm_multiline(
+                    pytesseract.image_to_string(candidate, config="--oem 1 --psm 6") or ""
+                )
+                if len(candidate_text) > len(best_text):
+                    best_text = candidate_text
+            if best_text:
+                ocr_sections.append(f"[OCR Page {index}]\n{best_text}")
+        except Exception:
+            continue
+    return truncate_linked_text("\n\n".join(ocr_sections))
+
+
 def extract_linked_pdf_text(pdf_path: Path) -> str:
     sections = []
     total_chars = 0
@@ -1539,13 +1664,22 @@ def extract_linked_pdf_text(pdf_path: Path) -> str:
             if total_chars >= LINKED_TEXT_CHAR_LIMIT:
                 break
 
-    if not sections:
-        return ""
+    payload = ""
+    if sections:
+        payload = "\n\n".join(sections)
+        payload = truncate_linked_text(payload)
+        if total_pages > extracted_pages:
+            payload += f"\n\n[Truncated linked PDF: extracted up to page {extracted_pages} of {total_pages}.]"
 
-    payload = "\n\n".join(sections)
-    payload = truncate_linked_text(payload)
-    if total_pages > extracted_pages:
-        payload += f"\n\n[Truncated linked PDF: extracted up to page {extracted_pages} of {total_pages}.]"
+    text_chars = len(re.sub(r"\s+", "", payload))
+    if text_chars >= 450:
+        return payload
+
+    ocr_payload = extract_linked_pdf_ocr_text(pdf_path)
+    if ocr_payload:
+        if payload:
+            return truncate_linked_text(payload + "\n\n" + ocr_payload)
+        return ocr_payload
     return payload
 
 
@@ -1734,40 +1868,62 @@ def extract_linked_text_asset(asset_path: Path) -> str:
     return ""
 
 
-def collect_linked_asset_sections(source: str, html_path: Path, root) -> list[dict]:
-    if source != "hellenic" or root is None:
-        return []
+def collect_linked_asset_sections(source: str, html_path: Path, root) -> tuple[list[dict], dict]:
+    stats = empty_linked_asset_stats()
+    if source not in LINKED_ASSET_SOURCES or root is None:
+        return [], stats
 
     sections = []
     seen_paths = set()
+    truncated_notice_added = False
     link_candidates = []
     for anchor in root.find_all("a", href=True):
-        link_candidates.append(anchor.get("href"))
+        link_candidates.append((anchor.get("href"), "a", norm_space(anchor.get_text(" ", strip=True))))
     for image in root.find_all("img", src=True):
-        link_candidates.append(image.get("src"))
+        link_candidates.append((image.get("src"), "img", ""))
 
-    for candidate in link_candidates:
+    for candidate, _tag_name, link_text in link_candidates:
+        stats["linked_assets_discovered"] += 1
         if len(sections) >= MAX_LINKED_ASSETS_PER_DOC:
-            sections.append({
-                "heading": "Linked assets (truncated)",
-                "text": f"[Reached MAX_LINKED_ASSETS_PER_DOC={MAX_LINKED_ASSETS_PER_DOC}; additional linked assets skipped.]",
-                "section_type": "linked_asset_summary",
-            })
-            break
+            stats["linked_assets_skipped"] += 1
+            if not truncated_notice_added:
+                sections.append({
+                    "heading": "Linked assets (truncated)",
+                    "text": f"[Reached MAX_LINKED_ASSETS_PER_DOC={MAX_LINKED_ASSETS_PER_DOC}; additional linked assets skipped.]",
+                    "section_type": "linked_asset_summary",
+                })
+                truncated_notice_added = True
+            continue
+
         href = norm_space(candidate)
         if not href:
+            stats["linked_assets_skipped"] += 1
             continue
+        if looks_like_non_content_link(href):
+            stats["linked_assets_skipped"] += 1
+            continue
+
         linked_path = resolve_archive_link_path(html_path, href)
         if linked_path is None:
+            parsed = urlparse(href)
+            if parsed.scheme in {"http", "https"}:
+                stats["linked_assets_skipped"] += 1
+            else:
+                stats["linked_assets_failed"] += 1
             continue
+
+        stats["linked_assets_mirrored"] += 1
         linked_rel = relpath(linked_path)
         if linked_rel in seen_paths:
+            stats["linked_assets_skipped"] += 1
             continue
         seen_paths.add(linked_rel)
 
         linked_text = extract_linked_text_asset(linked_path)
         if not linked_text:
+            stats["linked_assets_failed"] += 1
             continue
+        stats["linked_assets_ingested"] += 1
 
         section_type = "linked_asset"
         if linked_path.suffix.lower() == ".pdf":
@@ -1783,7 +1939,58 @@ def collect_linked_asset_sections(source: str, html_path: Path, root) -> list[di
             "section_type": section_type,
         })
 
-    return sections
+    return sections, stats
+
+
+def infer_numeric_unit(line_lower: str) -> str | None:
+    if "usd/" in line_lower or "usd per" in line_lower:
+        return "usd_per_unit"
+    if "ws" in line_lower and "%" in line_lower:
+        return "worldscale_pct"
+    if "kt" in line_lower or "mt" in line_lower:
+        return "tonnage"
+    if "%" in line_lower:
+        return "pct"
+    if "$" in line_lower or "usd" in line_lower:
+        return "usd"
+    return None
+
+
+def extract_numeric_observations(sections: list[dict], limit: int = 160) -> list[dict]:
+    observations = []
+    seen = set()
+    for section in sections:
+        heading = norm_space(section.get("heading")) or "Main"
+        section_type = section.get("section_type")
+        for raw_line in (section.get("text") or "").splitlines():
+            line = norm_space(raw_line)
+            if not line or len(line) < 6:
+                continue
+            lower = line.lower()
+            if lower.startswith("[page ") or "source asset:" in lower:
+                continue
+            if "http://" in lower or "https://" in lower:
+                continue
+
+            values = extract_line_numbers(line, limit=10, min_abs_value=0.01)
+            if not values:
+                continue
+            key = (heading.lower(), tuple(round(value, 4) for value in values), lower[:120])
+            if key in seen:
+                continue
+            seen.add(key)
+            observations.append(
+                {
+                    "section": heading,
+                    "section_type": section_type,
+                    "values": values,
+                    "unit": infer_numeric_unit(lower),
+                    "source_line": line[:260],
+                }
+            )
+            if len(observations) >= limit:
+                return observations
+    return observations
 
 
 def infer_document_type(source: str, category: str) -> str:
@@ -2191,7 +2398,7 @@ def adapt_archive_html(
             fallback = title
         sections = [{"heading": "Main", "text": fallback}]
 
-    linked_sections = collect_linked_asset_sections(source, html_path, root)
+    linked_sections, linked_asset_stats = collect_linked_asset_sections(source, html_path, root)
     if linked_sections:
         sections.extend(linked_sections)
 
@@ -2203,6 +2410,10 @@ def adapt_archive_html(
     theme_data = merge_existing_theme_data(heuristic_theme_payload(full_text, category), existing_metadata)
     keywords = existing_metadata.get("keywords") if isinstance(existing_metadata.get("keywords"), list) and existing_metadata["keywords"] else extract_keywords(full_text)
     signals = extract_hellenic_signals(full_text, category, existing_metadata) if source == "hellenic" else {}
+    numeric_observations = extract_numeric_observations(sections)
+    if source == "hellenic" and isinstance(signals, dict) and numeric_observations:
+        signals.setdefault("numeric_observations", numeric_observations[:80])
+        signals.setdefault("numeric_observation_count", len(numeric_observations))
 
     metadata = {
         "doc_id": make_archive_doc_id(source, category, html_path, date_str),
@@ -2223,6 +2434,9 @@ def adapt_archive_html(
         "themes": theme_data["themes"],
         "key_entities": theme_data["key_entities"],
         "market_tone": theme_data["market_tone"],
+        "numeric_observations": numeric_observations[:120],
+        "numeric_observation_count": len(numeric_observations),
+        **linked_asset_stats,
     }
     return {"text": full_text, "metadata": metadata, "sections": sections}
 
@@ -2483,6 +2697,11 @@ def process_file(path: Path, adapted: dict, source_hash_value: str | None = None
         "source_hash_version": SOURCE_HASH_VERSION,
         "compiler_version": COMPILER_VERSION,
         "processed_at": utc_now_iso(),
+        "linked_assets_discovered": int(metadata.get("linked_assets_discovered") or 0),
+        "linked_assets_mirrored": int(metadata.get("linked_assets_mirrored") or 0),
+        "linked_assets_ingested": int(metadata.get("linked_assets_ingested") or 0),
+        "linked_assets_skipped": int(metadata.get("linked_assets_skipped") or 0),
+        "linked_assets_failed": int(metadata.get("linked_assets_failed") or 0),
     }
     return metadata, chunks, manifest_row
 
@@ -2584,6 +2803,18 @@ def build_derived(llm_enabled: bool = False):
                         "metric_units": signals.get("metric_units", []),
                     })
                 signal_rows.append(row)
+        elif source in {"baltic", "breakwave_insights"}:
+            numeric_observations = meta.get("numeric_observations", []) or []
+            if numeric_observations:
+                signal_rows.append({
+                    "date": date_str,
+                    "source": source,
+                    "category": category,
+                    "doc_id": doc_id,
+                    "signal_family": "numeric_observations",
+                    "numeric_observation_count": len(numeric_observations),
+                    "numeric_observations": numeric_observations[:80],
+                })
 
         if source in {"breakwave", "baltic"} and date_str:
             try:
@@ -2706,16 +2937,21 @@ def main():
         llm_enabled = llm_available() and not args.no_llm
         loaded_manifest_rows = load_manifest_rows()
         manifest_rows = prune_missing_sources(loaded_manifest_rows)
+        manifest_rows = prune_non_primary_archive_sources(manifest_rows)
         hash_version_updates, migrated_hash_cache = migrate_manifest_hash_versions(manifest_rows)
+        schema_updates = normalize_manifest_schema(manifest_rows)
         processed_index = latest_rows_by_source(manifest_rows)
-        if len(manifest_rows) != len(loaded_manifest_rows) or hash_version_updates:
+        if len(manifest_rows) != len(loaded_manifest_rows) or hash_version_updates or schema_updates:
             write_manifest_rows(list(processed_index.values()))
             if hash_version_updates:
                 print(f"[MANIFEST] source_hash_version_migrated={hash_version_updates}")
+            if schema_updates:
+                print(f"[MANIFEST] linked_asset_schema_normalized={schema_updates}")
 
         processed_count = 0
         skipped_count = 0
         error_count = 0
+        linked_asset_totals = empty_linked_asset_stats()
         pending_items = []
         existing_metadata_cache = {}
 
@@ -2749,6 +2985,8 @@ def main():
                 metadata, _, manifest_row = process_file(path, adapted, source_hash_value=current_hash)
                 processed_index[source_rel] = manifest_row
                 processed_count += 1
+                for field in LINKED_ASSET_FIELD_NAMES:
+                    linked_asset_totals[field] += int(manifest_row.get(field) or 0)
 
                 chunk_rel = manifest_row.get("chunk_file") or (existing_row or {}).get("chunk_file")
                 if chunk_rel:
@@ -2805,6 +3043,10 @@ def main():
 
         build_derived(llm_enabled=llm_enabled)
         print(f"[DONE] processed={processed_count} skipped={skipped_count} errors={error_count}")
+        print(
+            "[LINKED_ASSETS] "
+            + " ".join(f"{field}={linked_asset_totals[field]}" for field in LINKED_ASSET_FIELD_NAMES)
+        )
         print(
             "[LLM_STATS] "
             + " ".join(

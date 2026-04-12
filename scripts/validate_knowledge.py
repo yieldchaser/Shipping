@@ -3,9 +3,12 @@ from __future__ import annotations
 import json
 from collections import Counter
 from pathlib import Path
+from urllib.parse import urlparse
 
 import frontmatter
+from bs4 import BeautifulSoup
 from knowledge_hash import SOURCE_HASH_VERSION, compute_source_hash
+from source_archive_utils_v2 import infer_asset_extension, is_primary_archive_html_path, looks_like_non_content_link
 
 
 REPO_ROOT = Path(__file__).parent.parent
@@ -21,6 +24,14 @@ LINT_REPORT_PATH = KNOWLEDGE_ROOT / "manifests" / "lint_report.json"
 COVERAGE_REPORT_PATH = KNOWLEDGE_ROOT / "manifests" / "coverage_report.json"
 HEALTH_SUMMARY_PATH = KNOWLEDGE_ROOT / "reports" / "health_summary.md"
 COMPILER_VERSION = 2
+LINKED_ASSET_SOURCES = {"baltic", "breakwave_insights", "hellenic"}
+LINKED_ASSET_FIELDS = [
+    "linked_assets_discovered",
+    "linked_assets_mirrored",
+    "linked_assets_ingested",
+    "linked_assets_skipped",
+    "linked_assets_failed",
+]
 
 
 ROW_ORDER = [
@@ -73,18 +84,18 @@ def count_source_files():
     return {
         ("breakwave", "drybulk"): len(list((REPORTS_ROOT / "drybulk").rglob("*.pdf"))),
         ("breakwave", "tankers"): len(list((REPORTS_ROOT / "tankers").rglob("*.pdf"))),
-        ("baltic", "dry"): len(list((REPORTS_ROOT / "baltic" / "dry").rglob("*.html"))),
-        ("baltic", "tanker"): len(list((REPORTS_ROOT / "baltic" / "tanker").rglob("*.html"))),
-        ("baltic", "gas"): len(list((REPORTS_ROOT / "baltic" / "gas").rglob("*.html"))),
-        ("baltic", "container"): len(list((REPORTS_ROOT / "baltic" / "container").rglob("*.html"))),
-        ("baltic", "ningbo"): len(list((REPORTS_ROOT / "baltic" / "ningbo").rglob("*.html"))),
-        ("breakwave_insights", "insights"): len(list((REPORTS_ROOT / "breakwave").rglob("*.html"))),
-        ("hellenic", "dry_charter"): len(list((REPORTS_ROOT / "hellenic" / "dry_charter").rglob("*.html"))),
-        ("hellenic", "tanker_charter"): len(list((REPORTS_ROOT / "hellenic" / "tanker_charter").rglob("*.html"))),
-        ("hellenic", "iron_ore"): len(list((REPORTS_ROOT / "hellenic" / "iron_ore").rglob("*.html"))),
-        ("hellenic", "vessel_valuations"): len(list((REPORTS_ROOT / "hellenic" / "vessel_valuations").rglob("*.html"))),
-        ("hellenic", "demolition"): len(list((REPORTS_ROOT / "hellenic" / "demolition").rglob("*.html"))),
-        ("hellenic", "shipbuilding"): len(list((REPORTS_ROOT / "hellenic" / "shipbuilding").rglob("*.html"))),
+        ("baltic", "dry"): len([path for path in (REPORTS_ROOT / "baltic" / "dry").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("baltic", "tanker"): len([path for path in (REPORTS_ROOT / "baltic" / "tanker").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("baltic", "gas"): len([path for path in (REPORTS_ROOT / "baltic" / "gas").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("baltic", "container"): len([path for path in (REPORTS_ROOT / "baltic" / "container").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("baltic", "ningbo"): len([path for path in (REPORTS_ROOT / "baltic" / "ningbo").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("breakwave_insights", "insights"): len([path for path in (REPORTS_ROOT / "breakwave").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("hellenic", "dry_charter"): len([path for path in (REPORTS_ROOT / "hellenic" / "dry_charter").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("hellenic", "tanker_charter"): len([path for path in (REPORTS_ROOT / "hellenic" / "tanker_charter").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("hellenic", "iron_ore"): len([path for path in (REPORTS_ROOT / "hellenic" / "iron_ore").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("hellenic", "vessel_valuations"): len([path for path in (REPORTS_ROOT / "hellenic" / "vessel_valuations").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("hellenic", "demolition"): len([path for path in (REPORTS_ROOT / "hellenic" / "demolition").rglob("*.html") if is_primary_archive_html_path(path)]),
+        ("hellenic", "shipbuilding"): len([path for path in (REPORTS_ROOT / "hellenic" / "shipbuilding").rglob("*.html") if is_primary_archive_html_path(path)]),
         ("book", "book"): len(list(REPORTS_ROOT.glob("*.pdf"))),
     }
 
@@ -150,6 +161,133 @@ def validate_manifest(documents: list[dict]):
         "hash_mismatches": sorted(set(hash_mismatches)),
         "hash_version_drifts": sorted(set(hash_version_drifts)),
         "compiler_version_mismatches": sorted(set(compiler_version_mismatches)),
+    }
+
+
+def parse_non_negative_int(value):
+    try:
+        parsed = int(value)
+    except (TypeError, ValueError):
+        return None
+    if parsed < 0:
+        return None
+    return parsed
+
+
+def resolve_local_asset_reference(html_path: Path, ref: str) -> Path | None:
+    clean = (ref or "").strip()
+    if not clean:
+        return None
+    if looks_like_non_content_link(clean):
+        return None
+    if ":" in clean and not clean.startswith(("./", "../")) and not clean.startswith("/"):
+        parsed_scheme = clean.split(":", 1)[0].lower()
+        if parsed_scheme and parsed_scheme not in {"http", "https"}:
+            return None
+    clean = clean.split("#", 1)[0].split("?", 1)[0]
+    if not clean:
+        return None
+    parsed = urlparse(clean)
+    if parsed.scheme in {"http", "https"}:
+        return None
+    try:
+        candidate = (html_path.parent / clean).resolve()
+    except OSError:
+        return None
+    try:
+        candidate.relative_to(REPO_ROOT.resolve())
+    except ValueError:
+        return None
+    return candidate
+
+
+def validate_linked_asset_coverage(documents: list[dict]):
+    schema_issues = set()
+    consistency_issues = set()
+    unresolved_required_local = set()
+    external_non_mirrored = set()
+    totals = Counter()
+    rows_checked = 0
+    required_local_markers = ("/assets/", "/pdfs/", "/files/", "/attachments/")
+
+    for row in documents:
+        source = row.get("source")
+        source_path = row.get("source_path")
+        if source not in LINKED_ASSET_SOURCES or not source_path or not source_path.endswith(".html"):
+            continue
+
+        source_file = REPO_ROOT / source_path
+        if not source_file.exists():
+            continue
+        rows_checked += 1
+
+        parsed_fields = {}
+        for field in LINKED_ASSET_FIELDS:
+            parsed = parse_non_negative_int(row.get(field))
+            if parsed is None:
+                schema_issues.add(f"{source_path} missing-or-invalid {field}")
+                parsed = 0
+            parsed_fields[field] = parsed
+            totals[field] += parsed
+
+        discovered = parsed_fields["linked_assets_discovered"]
+        mirrored = parsed_fields["linked_assets_mirrored"]
+        ingested = parsed_fields["linked_assets_ingested"]
+        skipped = parsed_fields["linked_assets_skipped"]
+        failed = parsed_fields["linked_assets_failed"]
+        enforce_required_local_links = mirrored > 0
+
+        if mirrored > discovered:
+            consistency_issues.add(f"{source_path} mirrored ({mirrored}) > discovered ({discovered})")
+        if ingested > mirrored:
+            consistency_issues.add(f"{source_path} ingested ({ingested}) > mirrored ({mirrored})")
+        if skipped + failed > discovered:
+            consistency_issues.add(f"{source_path} skipped+failed ({skipped + failed}) > discovered ({discovered})")
+
+        if discovered <= 0 and mirrored <= 0 and failed <= 0:
+            continue
+
+        try:
+            soup = BeautifulSoup(source_file.read_text(encoding="utf-8", errors="ignore"), "lxml")
+        except OSError:
+            continue
+        root = soup.select_one("body > section") or soup.select_one("section") or soup.body or soup
+
+        for tag, attr in [("a", "href"), ("img", "src"), ("iframe", "src")]:
+            for node in root.find_all(tag):
+                raw_ref = (node.get(attr) or "").strip()
+                if not raw_ref:
+                    continue
+                clean_ref = raw_ref.split("#", 1)[0].split("?", 1)[0].strip()
+                if not clean_ref:
+                    continue
+                parsed_ref = urlparse(clean_ref)
+                if parsed_ref.scheme in {"http", "https"}:
+                    if infer_asset_extension(clean_ref, "") or tag in {"img", "iframe"}:
+                        external_non_mirrored.add(f"{source_path} -> {clean_ref}")
+                    continue
+                local_target = resolve_local_asset_reference(source_file, clean_ref)
+                if local_target is None:
+                    continue
+                normalized_ref = clean_ref.replace("\\", "/")
+                if not any(marker in normalized_ref for marker in required_local_markers):
+                    external_non_mirrored.add(f"{source_path} -> {normalized_ref}")
+                    continue
+                if not local_target.exists() or not local_target.is_file():
+                    if enforce_required_local_links:
+                        unresolved_required_local.add(
+                            f"{source_path} -> {Path(clean_ref).as_posix()}"
+                        )
+                    else:
+                        external_non_mirrored.add(f"{source_path} -> {normalized_ref}")
+
+    return {
+        "rows_checked": rows_checked,
+        "schema_issues": sorted(schema_issues),
+        "consistency_issues": sorted(consistency_issues),
+        "unresolved_required_local": sorted(unresolved_required_local),
+        "external_non_mirrored": sorted(external_non_mirrored),
+        "totals": dict(totals),
     }
 
 
@@ -656,6 +794,7 @@ def main():
     )
     wiki_page_issues = validate_wiki_pages(topic_config_issues["topic_ids"])
     health_report_issues = validate_health_outputs(topic_config_issues["topic_ids"])
+    linked_asset_issues = validate_linked_asset_coverage(documents)
     bad_frontmatter, breakwave_null_signals, section_count_mismatches = validate_frontmatter(
         documents,
         tree_issues["section_ids_by_doc"],
@@ -721,6 +860,16 @@ def main():
     print(f"Knowledge health warnings: {health_report_issues['warning_count']}")
     print(f"High-severity health warnings: {health_report_issues['high_severity_count']}")
     print(f"Cross-source divergence flags: {health_report_issues['divergence_count']}")
+    print(f"Linked-asset rows checked: {linked_asset_issues['rows_checked']}")
+    print(f"Linked assets discovered: {linked_asset_issues['totals'].get('linked_assets_discovered', 0)}")
+    print(f"Linked assets mirrored: {linked_asset_issues['totals'].get('linked_assets_mirrored', 0)}")
+    print(f"Linked assets ingested: {linked_asset_issues['totals'].get('linked_assets_ingested', 0)}")
+    print(f"Linked assets skipped: {linked_asset_issues['totals'].get('linked_assets_skipped', 0)}")
+    print(f"Linked assets failed: {linked_asset_issues['totals'].get('linked_assets_failed', 0)}")
+    print(f"Linked-asset schema issues: {len(linked_asset_issues['schema_issues'])}")
+    print(f"Linked-asset consistency issues: {len(linked_asset_issues['consistency_issues'])}")
+    print(f"Unresolved required local linked assets: {len(linked_asset_issues['unresolved_required_local'])}")
+    print(f"External linked assets not mirrored (warnings): {len(linked_asset_issues['external_non_mirrored'])}")
     print(f"Frontmatter errors: {len(bad_frontmatter)}")
     print(f"Frontmatter section-count mismatches: {len(section_count_mismatches)}")
     print(f"Breakwave reports with null primary signal: {breakwave_null_signals}")
@@ -767,6 +916,9 @@ def main():
         + len(health_report_issues["missing_files"])
         + len(health_report_issues["malformed_files"])
         + len(health_report_issues["invalid_payloads"])
+        + len(linked_asset_issues["schema_issues"])
+        + len(linked_asset_issues["consistency_issues"])
+        + len(linked_asset_issues["unresolved_required_local"])
         + len(bad_frontmatter)
         + len(section_count_mismatches)
         + breakwave_null_signals
@@ -804,11 +956,15 @@ def main():
         print_sample("Missing health outputs:", health_report_issues["missing_files"])
         print_sample("Malformed health outputs:", health_report_issues["malformed_files"])
         print_sample("Invalid health payloads:", health_report_issues["invalid_payloads"])
+        print_sample("Linked-asset schema issues:", linked_asset_issues["schema_issues"])
+        print_sample("Linked-asset consistency issues:", linked_asset_issues["consistency_issues"])
+        print_sample("Unresolved required local linked assets:", linked_asset_issues["unresolved_required_local"])
         print_sample("Invalid frontmatter docs:", bad_frontmatter)
         print_sample("Frontmatter section-count mismatches:", section_count_mismatches)
         return 1
 
     print_sample("Source hash version drifts (non-fatal):", manifest_issues["hash_version_drifts"])
+    print_sample("External linked assets not mirrored (non-fatal):", linked_asset_issues["external_non_mirrored"])
 
     print("Validation status: PASS")
     return 0
