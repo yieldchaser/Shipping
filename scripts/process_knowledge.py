@@ -5,6 +5,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 from urllib.parse import urlparse
 from urllib import request as urllib_request, error as urllib_error
+from collections import defaultdict
 
 import pdfplumber
 from bs4 import BeautifulSoup
@@ -80,6 +81,7 @@ OLLAMA_MIN_INTERVAL_SEC = float(os.environ.get("OLLAMA_MIN_INTERVAL_SEC", "2.5")
 OLLAMA_MAX_RETRIES = int(os.environ.get("OLLAMA_MAX_RETRIES", "6"))
 OLLAMA_BACKOFF_BASE_SEC = float(os.environ.get("OLLAMA_BACKOFF_BASE_SEC", "3.0"))
 OLLAMA_MAX_BACKOFF_SEC = float(os.environ.get("OLLAMA_MAX_BACKOFF_SEC", "60.0"))
+MANIFEST_FLUSH_EVERY = int(os.environ.get("MANIFEST_FLUSH_EVERY", "200"))
 _last_gemini_call_ts = 0.0
 _last_ollama_call_ts = 0.0
 
@@ -421,6 +423,33 @@ def rewrite_chunk_file(path: Path, removed_doc_ids: set[str]):
             kept_rows.append(row)
     path.write_text("", encoding="utf-8")
     for row in kept_rows:
+        append_jsonl(path, row)
+
+
+def compact_chunk_file(path: Path, remove_doc_ids: set[str] | None = None):
+    """Deduplicate chunk_id rows (keep latest) and optionally remove stale doc_ids."""
+    if not path.exists():
+        return
+    remove_doc_ids = remove_doc_ids or set()
+    filtered_rows = []
+    for row in load_jsonl(path):
+        if remove_doc_ids and row.get("doc_id") in remove_doc_ids:
+            continue
+        filtered_rows.append(row)
+
+    seen_chunk_ids = set()
+    deduped_reversed = []
+    for row in reversed(filtered_rows):
+        chunk_id = row.get("chunk_id")
+        if chunk_id and chunk_id in seen_chunk_ids:
+            continue
+        if chunk_id:
+            seen_chunk_ids.add(chunk_id)
+        deduped_reversed.append(row)
+    deduped_rows = list(reversed(deduped_reversed))
+
+    path.write_text("", encoding="utf-8")
+    for row in deduped_rows:
         append_jsonl(path, row)
 
 
@@ -2034,7 +2063,7 @@ def adapt_source_file(source: str, category: str, path: Path, llm_enabled: bool,
     return adapt_book(path, llm_enabled, existing_metadata=existing_metadata)
 
 
-def process_file(path: Path, adapted: dict):
+def process_file(path: Path, adapted: dict, source_hash_value: str | None = None):
     metadata = adapted["metadata"]
     adapted, tree = prepare_document_structure(adapted)
     output_path = doc_output_path(metadata)
@@ -2060,7 +2089,7 @@ def process_file(path: Path, adapted: dict):
         "tree_node_count": sum(1 for _ in iter_tree_nodes(tree)),
         "chunk_file": relpath(chunk_path),
         "chunk_count": len(chunks),
-        "source_hash": source_hash(path),
+        "source_hash": source_hash_value or source_hash(path),
         "compiler_version": COMPILER_VERSION,
         "processed_at": utc_now_iso(),
     }
@@ -2248,12 +2277,17 @@ def main():
 
         build_sources_registry()
         llm_enabled = llm_available() and not args.no_llm
-        manifest_rows = prune_missing_sources(load_manifest_rows())
-        write_manifest_rows(manifest_rows)
+        loaded_manifest_rows = load_manifest_rows()
+        manifest_rows = prune_missing_sources(loaded_manifest_rows)
         processed_index = latest_rows_by_source(manifest_rows)
+        if len(manifest_rows) != len(loaded_manifest_rows):
+            write_manifest_rows(list(processed_index.values()))
+
         processed_count = 0
         skipped_count = 0
         error_count = 0
+        pending_items = []
+        existing_metadata_cache = {}
 
         for source, category, path in iter_source_files(args.source):
             source_rel = relpath(path)
@@ -2269,26 +2303,74 @@ def main():
                 skipped_count += 1
                 continue
 
-            try:
-                existing_metadata = existing_metadata_index.get(source_rel) or load_existing_metadata(existing_row)
-                adapted = adapt_source_file(source, category, path, llm_enabled, existing_metadata=existing_metadata)
-                if existing_row:
-                    manifest_rows = remove_manifest_sources(manifest_rows, {source_rel})
-                    processed_index.pop(source_rel, None)
-                    write_manifest_rows(manifest_rows)
+            if existing_row:
+                existing_metadata_cache[source_rel] = existing_metadata_index.get(source_rel) or load_existing_metadata(existing_row)
+            pending_items.append((source, category, path, source_rel, current_hash, existing_row))
 
-                metadata, _, manifest_row = process_file(path, adapted)
-                manifest_rows.append(manifest_row)
-                write_manifest_rows(manifest_rows)
+        chunk_compaction_targets = defaultdict(set)
+        stale_doc_paths = set()
+        stale_tree_paths = set()
+
+        for source, category, path, source_rel, current_hash, existing_row in pending_items:
+            try:
+                existing_metadata = existing_metadata_cache.get(source_rel) or existing_metadata_index.get(source_rel) or {}
+                adapted = adapt_source_file(source, category, path, llm_enabled, existing_metadata=existing_metadata)
+                metadata, _, manifest_row = process_file(path, adapted, source_hash_value=current_hash)
                 processed_index[source_rel] = manifest_row
                 processed_count += 1
-                print(f"[{source.upper()}] [{metadata.get('date') or metadata.get('title')}] ✓")
+
+                chunk_rel = manifest_row.get("chunk_file") or (existing_row or {}).get("chunk_file")
+                if chunk_rel:
+                    chunk_compaction_targets.setdefault(chunk_rel, set())
+                    if existing_row:
+                        old_doc_id = existing_row.get("doc_id")
+                        new_doc_id = manifest_row.get("doc_id")
+                        if old_doc_id and new_doc_id and old_doc_id != new_doc_id:
+                            chunk_compaction_targets[chunk_rel].add(old_doc_id)
+
+                if existing_row:
+                    old_doc_path = existing_row.get("doc_path")
+                    if old_doc_path and old_doc_path != manifest_row.get("doc_path"):
+                        stale_doc_paths.add(old_doc_path)
+                    old_tree_path = existing_row.get("tree_path")
+                    if old_tree_path and old_tree_path != manifest_row.get("tree_path"):
+                        stale_tree_paths.add(old_tree_path)
+
+                if MANIFEST_FLUSH_EVERY > 0 and processed_count % MANIFEST_FLUSH_EVERY == 0:
+                    write_manifest_rows(list(processed_index.values()))
+
+                print(f"[{source.upper()}] [{metadata.get('date') or metadata.get('title')}] [OK]")
             except Exception as exc:
                 error_count += 1
                 reason = f"{exc}\n{traceback.format_exc()}"
                 log_error(path, reason)
                 date_hint = path.stem.split("_")[0]
-                print(f"[{source.upper()}] [{date_hint}] ✗ {exc}")
+                print(f"[{source.upper()}] [{date_hint}] [ERR] {exc}")
+
+        for chunk_rel, remove_doc_ids in chunk_compaction_targets.items():
+            compact_chunk_file(REPO_ROOT / chunk_rel, remove_doc_ids=remove_doc_ids)
+
+        final_manifest_rows = list(processed_index.values())
+        write_manifest_rows(final_manifest_rows)
+
+        kept_doc_paths = {row.get("doc_path") for row in final_manifest_rows if row.get("doc_path")}
+        kept_tree_paths = {row.get("tree_path") for row in final_manifest_rows if row.get("tree_path")}
+        for doc_path in stale_doc_paths:
+            if doc_path and doc_path not in kept_doc_paths:
+                target = REPO_ROOT / doc_path
+                if target.exists():
+                    try:
+                        unlink_with_retries(target)
+                    except PermissionError:
+                        pass
+        for tree_path in stale_tree_paths:
+            if tree_path and tree_path not in kept_tree_paths:
+                target = REPO_ROOT / tree_path
+                if target.exists():
+                    try:
+                        unlink_with_retries(target)
+                    except PermissionError:
+                        pass
 
         build_derived(llm_enabled=llm_enabled)
         print(f"[DONE] processed={processed_count} skipped={skipped_count} errors={error_count}")

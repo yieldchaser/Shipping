@@ -53,17 +53,18 @@ jobs:
         if: steps.check.outputs.new == 'true'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MIN_INTERVAL_SEC: "4.0"
-          GEMINI_MAX_RETRIES: "8"
-          GEMINI_BACKOFF_BASE_SEC: "4.0"
-          GEMINI_MAX_BACKOFF_SEC: "90.0"
+          GEMINI_MIN_INTERVAL_SEC: "2.5"
+          GEMINI_MAX_RETRIES: "3"
+          GEMINI_BACKOFF_BASE_SEC: "2.0"
+          GEMINI_MAX_BACKOFF_SEC: "20.0"
           OLLAMA_BASE_URL: ${{ secrets.OLLAMA_BASE_URL }}
           OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
           OLLAMA_MODEL: ${{ secrets.OLLAMA_MODEL }}
-          OLLAMA_MIN_INTERVAL_SEC: "2.5"
-          OLLAMA_MAX_RETRIES: "6"
-          OLLAMA_BACKOFF_BASE_SEC: "3.0"
-          OLLAMA_MAX_BACKOFF_SEC: "60.0"
+          OLLAMA_MIN_INTERVAL_SEC: "1.5"
+          OLLAMA_MAX_RETRIES: "3"
+          OLLAMA_BACKOFF_BASE_SEC: "1.5"
+          OLLAMA_MAX_BACKOFF_SEC: "15.0"
+          MANIFEST_FLUSH_EVERY: "200"
         run: python scripts/process_knowledge.py
 
       - name: Validate updated knowledge
