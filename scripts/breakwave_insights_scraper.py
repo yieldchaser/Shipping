@@ -270,7 +270,8 @@ def clean_breakwave_body(
     assets_dir: Path,
     pdf_dir: Path,
 ) -> tuple[str, list[str]]:
-    fragment = make_soup(f"<section>{str(body)}</section>").section
+    fragment_soup = make_soup(f"<section>{str(body)}</section>")
+    fragment = fragment_soup.section
     if fragment is None:
         return "<p><em>No content extracted - visit the original URL.</em></p>", []
 
@@ -284,7 +285,7 @@ def clean_breakwave_body(
 
     for iframe in list(fragment.find_all("iframe")):
         src = repair_text(iframe.get("src") or "")
-        note = fragment.new_tag("div")
+        note = fragment_soup.new_tag("div")
         note["class"] = "archive-note"
         mirrored = mirror_asset(
             page_url=page_url,
@@ -295,7 +296,7 @@ def clean_breakwave_body(
         ) if src else None
         if mirrored:
             local_href, original = mirrored
-            link = fragment.new_tag("a", href=local_href)
+            link = fragment_soup.new_tag("a", href=local_href)
             link.string = f"Embedded asset: {Path(urlparse(original).path).name or 'download'}"
             note.string = ""
             note.append(link)
@@ -354,7 +355,7 @@ def clean_breakwave_body(
             assets_dir=assets_dir,
         )
         if result is None:
-            note = fragment.new_tag("div")
+            note = fragment_soup.new_tag("div")
             note["class"] = "archive-note"
             note.string = f"Missing image: {src}"
             img.replace_with(note)
