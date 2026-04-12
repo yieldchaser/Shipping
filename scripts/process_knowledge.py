@@ -852,6 +852,24 @@ def clear_rebuild_outputs():
     ensure_layout()
 
 
+def manifest_sources_for_filter(source_filter: str | None) -> set[str]:
+    if source_filter in (None, "all"):
+        return {"breakwave", "baltic", "breakwave_insights", "hellenic", "book"}
+    if source_filter == "books":
+        return {"book"}
+    return {source_filter}
+
+
+def prune_manifest_for_sources(rows: list[dict], source_filter: str | None) -> list[dict]:
+    target_sources = manifest_sources_for_filter(source_filter)
+    source_paths = {
+        row.get("source_path")
+        for row in rows
+        if row.get("source_path") and row.get("source") in target_sources
+    }
+    return remove_manifest_sources(rows, source_paths)
+
+
 def build_sources_registry():
     counts = {
         "breakwave": {
@@ -2666,9 +2684,18 @@ def main():
     try:
         existing_metadata_index = {}
         if args.rebuild:
-            existing_metadata_index = build_existing_metadata_index(load_manifest_rows())
-            clear_rebuild_outputs()
-        ensure_layout()
+            loaded_rows = load_manifest_rows()
+            existing_metadata_index = build_existing_metadata_index(loaded_rows)
+            if args.source in (None, "all"):
+                print("[REBUILD] mode=full scope=all")
+                clear_rebuild_outputs()
+            else:
+                ensure_layout()
+                pruned_rows = prune_manifest_for_sources(loaded_rows, args.source)
+                write_manifest_rows(pruned_rows)
+                print(f"[REBUILD] mode=source scope={args.source} removed={len(loaded_rows) - len(pruned_rows)}")
+        else:
+            ensure_layout()
 
         if args.derived_only:
             build_derived(llm_enabled=llm_available() and not args.no_llm)
