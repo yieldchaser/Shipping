@@ -26,6 +26,12 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install OCR runtime
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-eng
+
       - name: Install dependencies
         run: pip install -r requirements_knowledge.txt
 

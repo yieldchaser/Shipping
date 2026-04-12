@@ -187,6 +187,37 @@ TITLE_DATE_RE = re.compile(r"Date:\s*([0-9]{1,2}\s+\w+\s+[0-9]{4})", re.I)
 ISO_PREFIX_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})")
 BALTIC_CATEGORIES = ["dry", "tanker", "gas", "container", "ningbo"]
 HELLENIC_CATEGORIES = ["dry_charter", "tanker_charter", "iron_ore", "vessel_valuations", "demolition", "shipbuilding"]
+HELLENIC_CHARTER_CATEGORIES = {"dry_charter", "tanker_charter"}
+CHARTER_SEGMENT_ALIASES = {
+    "dry_charter": {
+        "capesize": ["capesize", "cape"],
+        "panamax": ["panamax", "pmax"],
+        "supramax": ["supramax", "supra", "smx"],
+        "handysize": ["handysize", "handy", "hsize"],
+    },
+    "tanker_charter": {
+        "vlcc": ["vlcc"],
+        "suezmax": ["suezmax"],
+        "aframax": ["aframax"],
+        "lr2": ["lr2", "lr 2"],
+        "lr1": ["lr1", "lr 1"],
+        "mr": ["mr", "m.r."],
+    },
+}
+IRON_ORE_SIGNAL_HINTS = [
+    "iron ore",
+    "62%",
+    "65%",
+    "58%",
+    "dmt",
+    "cfr",
+    "fines",
+    "pellet",
+    "premium",
+    "discount",
+    "index",
+    "mmi",
+]
 
 
 def ensure_layout():
@@ -248,6 +279,263 @@ def parse_number(value):
         return float(match.group(0))
     except ValueError:
         return None
+
+
+def safe_inline_text(value, max_chars: int = 240) -> str:
+    if value is None:
+        return ""
+    if isinstance(value, bytes):
+        text = value.decode("utf-8", errors="ignore")
+    else:
+        text = str(value)
+    if not text:
+        return ""
+    text = text.replace("\x00", " ")
+    text = "".join(ch if ch.isprintable() else " " for ch in text)
+    text = norm_space(text)
+    if not text:
+        return ""
+    if len(text) > max_chars:
+        return text[:max_chars].rstrip() + "..."
+    return text
+
+
+def extract_line_numbers(text: str, limit: int = 8, min_abs_value: float | None = None) -> list[float]:
+    values = []
+    source = text or ""
+    for match in re.finditer(r"(?<![A-Za-z])[-+]?\d[\d,]{0,11}(?:\.\d+)?", source):
+        raw = match.group(0)
+        value = parse_number(raw)
+        if value is None:
+            continue
+        right = source[match.end() : match.end() + 10].lower()
+        if re.match(r"^\s*(y|yr|yrs|year|years|m|mo|mos|month|months)\b", right) and abs(value) <= 36:
+            continue
+        if min_abs_value is not None and abs(value) < min_abs_value:
+            continue
+        values.append(value)
+        if len(values) >= limit:
+            break
+    return values
+
+
+def detect_charter_timeframe(line_lower: str) -> str | None:
+    if "spot" in line_lower:
+        return "spot"
+    if re.search(r"\b6\s*(m|mo|month)\b", line_lower):
+        return "6m"
+    if re.search(r"\b12\s*(m|mo|month)\b", line_lower) or re.search(r"\b1\s*(y|yr|year)\b", line_lower):
+        return "1y"
+    if re.search(r"\b2\s*(y|yr|year)\b", line_lower):
+        return "2y"
+    if re.search(r"\b3\s*(y|yr|year)\b", line_lower):
+        return "3y"
+    if "period" in line_lower:
+        return "period"
+    return None
+
+
+def infer_charter_unit(line_lower: str) -> str | None:
+    if "ws" in line_lower:
+        return "ws"
+    if any(token in line_lower for token in ["usd", "$", "/day", "pdpr", "per day", "k/day"]):
+        return "usd_per_day"
+    return None
+
+
+def extract_hellenic_charter_signals(text: str, category: str) -> dict:
+    alias_map = CHARTER_SEGMENT_ALIASES.get(category, {})
+    observations = []
+    seen = set()
+    timeframes = set()
+    units = set()
+    lines = [norm_space(line) for line in (text or "").splitlines() if norm_space(line)]
+
+    for line in lines:
+        lower = line.lower()
+        if any(skip in lower for skip in ["image reference:", "source asset:", "linked image asset:", "embedded info:", "exif text:"]):
+            continue
+
+        matching_segments = [
+            segment
+            for segment, aliases in alias_map.items()
+            if any(alias in lower for alias in aliases)
+        ]
+        if not matching_segments:
+            continue
+
+        values = extract_line_numbers(line, limit=10, min_abs_value=10)
+        if not values:
+            continue
+
+        timeframe = detect_charter_timeframe(lower)
+        if timeframe:
+            timeframes.add(timeframe)
+        unit = infer_charter_unit(lower)
+        if unit:
+            units.add(unit)
+
+        for segment in matching_segments[:3]:
+            key = (segment, timeframe or "", tuple(values))
+            if key in seen:
+                continue
+            seen.add(key)
+            observations.append({
+                "segment": segment,
+                "timeframe": timeframe,
+                "values": values,
+                "unit": unit,
+                "source_line": line[:260],
+            })
+            if len(observations) >= 60:
+                break
+        if len(observations) >= 60:
+            break
+
+    if not observations:
+        return {}
+
+    rate_summary = {}
+    for row in observations:
+        segment = row.get("segment")
+        values = row.get("values") or []
+        if not segment or not values or segment in rate_summary:
+            continue
+        rate_summary[segment] = values[-1]
+
+    return {
+        "signal_family": "hellenic_charter_rates",
+        "rate_observations": observations,
+        "rate_summary": rate_summary,
+        "timeframes": sorted(timeframes),
+        "metric_units": sorted(units),
+    }
+
+
+def infer_iron_ore_metric(line_lower: str) -> str | None:
+    if "62" in line_lower and ("fines" in line_lower or "index" in line_lower):
+        return "index_62_fines"
+    if "65" in line_lower and ("fines" in line_lower or "index" in line_lower):
+        return "index_65_fines"
+    if "58" in line_lower and ("fines" in line_lower or "index" in line_lower):
+        return "index_58_fines"
+    if "pellet premium" in line_lower or ("pellet" in line_lower and "premium" in line_lower):
+        return "pellet_premium"
+    if "spread" in line_lower and "62" in line_lower and "65" in line_lower:
+        return "spread_65_62"
+    if "premium" in line_lower:
+        return "premium"
+    if "discount" in line_lower:
+        return "discount"
+    if "index" in line_lower:
+        return "index"
+    return None
+
+
+def infer_iron_ore_unit(line_lower: str) -> str | None:
+    if "dmt" in line_lower:
+        return "usd_per_dmt"
+    if "usd" in line_lower or "$" in line_lower:
+        return "usd"
+    if "%" in line_lower:
+        return "pct"
+    return None
+
+
+def pick_metric_value(metric: str, values: list[float]) -> float | None:
+    if not values:
+        return None
+    if metric in {"index_62_fines", "index_65_fines", "index_58_fines"}:
+        for value in values:
+            if 20 <= value <= 300:
+                return value
+        return None
+    if metric == "spread_65_62":
+        for value in values:
+            if -80 <= value <= 80:
+                return value
+        return None
+    if metric == "pellet_premium":
+        for value in values:
+            if -50 <= value <= 120:
+                return value
+        return None
+    return values[0]
+
+
+def extract_hellenic_iron_ore_signals(text: str) -> dict:
+    metrics = []
+    seen = set()
+    units = set()
+    lines = [norm_space(line) for line in (text or "").splitlines() if norm_space(line)]
+    for line in lines:
+        lower = line.lower()
+        if any(skip in lower for skip in ["image reference:", "source asset:", "linked image asset:", "embedded info:", "exif text:"]):
+            continue
+        if lower.startswith("[page ") or "http://" in lower or "https://" in lower or ".com/" in lower:
+            continue
+        if not any(hint in lower for hint in IRON_ORE_SIGNAL_HINTS):
+            continue
+
+        values = extract_line_numbers(line, limit=8)
+        if not values:
+            continue
+
+        metric = infer_iron_ore_metric(lower) or "numeric_observation"
+        unit = infer_iron_ore_unit(lower)
+        if unit:
+            units.add(unit)
+        key = (metric, tuple(values))
+        if key in seen:
+            continue
+        seen.add(key)
+        metrics.append({
+            "metric": metric,
+            "values": values,
+            "unit": unit,
+            "source_line": line[:260],
+        })
+        if len(metrics) >= 50:
+            break
+
+    if not metrics:
+        return {}
+
+    benchmark_prices = {}
+    for row in metrics:
+        metric = row.get("metric")
+        values = row.get("values") or []
+        if not metric or not values:
+            continue
+        if metric in {"index_62_fines", "index_65_fines", "index_58_fines", "spread_65_62", "pellet_premium"} and metric not in benchmark_prices:
+            picked = pick_metric_value(metric, values)
+            if picked is not None:
+                benchmark_prices[metric] = picked
+
+    return {
+        "signal_family": "hellenic_iron_ore_indices",
+        "iron_ore_metrics": metrics,
+        "benchmark_prices": benchmark_prices,
+        "metric_units": sorted(units),
+    }
+
+
+def extract_hellenic_signals(text: str, category: str, existing_metadata: dict | None = None) -> dict:
+    existing_metadata = existing_metadata or {}
+    existing_signals = existing_metadata.get("signals")
+
+    if category in HELLENIC_CHARTER_CATEGORIES:
+        parsed = extract_hellenic_charter_signals(text, category)
+    elif category == "iron_ore":
+        parsed = extract_hellenic_iron_ore_signals(text)
+    else:
+        parsed = {}
+
+    if parsed:
+        return parsed
+    if isinstance(existing_signals, dict) and existing_signals:
+        return existing_signals
+    return {}
 
 
 def parse_iso_date(value: str):
@@ -1352,7 +1640,10 @@ def extract_linked_image_text(path: Path) -> str:
             image_size = (image.width, image.height)
             info_pairs = []
             for key, value in (image.info or {}).items():
-                value_text = norm_space(str(value))
+                key_lower = norm_space(str(key)).lower()
+                if not any(token in key_lower for token in ["description", "comment", "title", "caption", "author", "software", "date", "dpi"]):
+                    continue
+                value_text = safe_inline_text(value, max_chars=180)
                 if value_text:
                     info_pairs.append(f"{key}: {value_text}")
             if info_pairs:
@@ -1363,9 +1654,9 @@ def extract_linked_image_text(path: Path) -> str:
                 exif_lines = []
                 for tag, value in exif.items():
                     name = ExifTags.TAGS.get(tag, str(tag))
-                    if name not in {"ImageDescription", "XPTitle", "XPComment", "UserComment"}:
+                    if name not in {"ImageDescription", "XPTitle", "XPComment"}:
                         continue
-                    value_text = norm_space(str(value))
+                    value_text = safe_inline_text(value, max_chars=220)
                     if value_text:
                         exif_lines.append(f"{name}: {value_text}")
                 if exif_lines:
@@ -1376,13 +1667,24 @@ def extract_linked_image_text(path: Path) -> str:
 
     try:
         import pytesseract
-        from PIL import Image
+        from PIL import Image, ImageOps
 
         if image_size is not None and (image_size[0] * image_size[1]) < MIN_IMAGE_OCR_PIXELS:
             lines.append(f"[OCR skipped for small image (< {MIN_IMAGE_OCR_PIXELS} pixels).]")
         else:
             with Image.open(path) as image:
-                ocr_text = norm_multiline(pytesseract.image_to_string(image) or "")
+                gray = image.convert("L")
+                candidates = [gray, ImageOps.autocontrast(gray)]
+                upscale = ImageOps.autocontrast(gray).resize((max(1, gray.width * 2), max(1, gray.height * 2)))
+                candidates.append(upscale)
+
+                ocr_text = ""
+                for candidate in candidates:
+                    text = norm_multiline(
+                        pytesseract.image_to_string(candidate, config="--oem 1 --psm 6") or ""
+                    )
+                    if len(text) > len(ocr_text):
+                        ocr_text = text
             if ocr_text:
                 lines.append("OCR text:\n" + truncate_linked_text(ocr_text, limit=LINKED_IMAGE_OCR_CHAR_LIMIT))
             else:
@@ -1882,6 +2184,7 @@ def adapt_archive_html(
     vessels, regions, commodities = infer_taxonomy(full_text, source, category)
     theme_data = merge_existing_theme_data(heuristic_theme_payload(full_text, category), existing_metadata)
     keywords = existing_metadata.get("keywords") if isinstance(existing_metadata.get("keywords"), list) and existing_metadata["keywords"] else extract_keywords(full_text)
+    signals = extract_hellenic_signals(full_text, category, existing_metadata) if source == "hellenic" else {}
 
     metadata = {
         "doc_id": make_archive_doc_id(source, category, html_path, date_str),
@@ -1896,7 +2199,7 @@ def adapt_archive_html(
         "vessel_classes": vessels,
         "regions": regions,
         "commodities": commodities,
-        "signals": {},
+        "signals": signals,
         "summary": existing_metadata.get("summary") or heuristic_summary(full_text),
         "keywords": keywords,
         "themes": theme_data["themes"],
@@ -2236,6 +2539,33 @@ def build_derived(llm_enabled: bool = False):
                     "tanker_fleet_yoy": parse_pct((fundamentals.get("Tanker Fleet") or {}).get("yoy_pct")),
                 })
             signal_rows.append(row)
+        elif source == "hellenic":
+            signals = meta.get("signals", {}) or {}
+            if signals:
+                row = {
+                    "date": date_str,
+                    "source": source,
+                    "category": category,
+                    "doc_id": doc_id,
+                    "signal_family": signals.get("signal_family"),
+                    "signals": signals,
+                }
+                if category in HELLENIC_CHARTER_CATEGORIES:
+                    observations = signals.get("rate_observations", []) or []
+                    row.update({
+                        "rate_observation_count": len(observations),
+                        "charter_rate_summary": signals.get("rate_summary", {}),
+                        "charter_timeframes": signals.get("timeframes", []),
+                        "metric_units": signals.get("metric_units", []),
+                    })
+                elif category == "iron_ore":
+                    metrics = signals.get("iron_ore_metrics", []) or []
+                    row.update({
+                        "metric_observation_count": len(metrics),
+                        "benchmark_prices": signals.get("benchmark_prices", {}),
+                        "metric_units": signals.get("metric_units", []),
+                    })
+                signal_rows.append(row)
 
         if source in {"breakwave", "baltic"} and date_str:
             try:
