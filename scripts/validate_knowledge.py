@@ -1,11 +1,11 @@
 from __future__ import annotations
 
-import hashlib
 import json
 from collections import Counter
 from pathlib import Path
 
 import frontmatter
+from knowledge_hash import SOURCE_HASH_VERSION, compute_source_hash
 
 
 REPO_ROOT = Path(__file__).parent.parent
@@ -60,9 +60,7 @@ def load_jsonl(path: Path) -> tuple[list[dict], int]:
 
 
 def source_hash(path: Path) -> str:
-    stat = path.stat()
-    payload = f"{path.relative_to(REPO_ROOT).as_posix()}:{stat.st_size}:{int(stat.st_mtime)}"
-    return hashlib.sha1(payload.encode("utf-8")).hexdigest()
+    return compute_source_hash(path, REPO_ROOT)
 
 
 def iter_tree_nodes(node: dict):
@@ -110,6 +108,7 @@ def validate_manifest(documents: list[dict]):
     missing_doc_files = []
     missing_chunk_files = []
     hash_mismatches = []
+    hash_version_drifts = []
     compiler_version_mismatches = []
 
     for row in documents:
@@ -117,6 +116,7 @@ def validate_manifest(documents: list[dict]):
         doc_path = row.get("doc_path")
         chunk_file = row.get("chunk_file")
         expected_hash = row.get("source_hash")
+        expected_hash_version = row.get("source_hash_version")
 
         if row.get("compiler_version") != COMPILER_VERSION:
             compiler_version_mismatches.append(row.get("doc_id") or source_path or "unknown")
@@ -125,8 +125,15 @@ def validate_manifest(documents: list[dict]):
             source_file = REPO_ROOT / source_path
             if not source_file.exists():
                 missing_source_files.append(source_path)
-            elif expected_hash and source_hash(source_file) != expected_hash:
-                hash_mismatches.append(source_path)
+            elif expected_hash:
+                actual_hash = source_hash(source_file)
+                if actual_hash != expected_hash:
+                    if expected_hash_version and expected_hash_version == SOURCE_HASH_VERSION:
+                        hash_mismatches.append(source_path)
+                    else:
+                        hash_version_drifts.append(
+                            f"{source_path} (manifest={expected_hash_version or 'missing'}, expected={SOURCE_HASH_VERSION})"
+                        )
 
         if doc_path and not (REPO_ROOT / doc_path).exists():
             missing_doc_files.append(doc_path)
@@ -141,6 +148,7 @@ def validate_manifest(documents: list[dict]):
         "missing_doc_files": sorted(set(missing_doc_files)),
         "missing_chunk_files": sorted(set(missing_chunk_files)),
         "hash_mismatches": sorted(set(hash_mismatches)),
+        "hash_version_drifts": sorted(set(hash_version_drifts)),
         "compiler_version_mismatches": sorted(set(compiler_version_mismatches)),
     }
 
@@ -680,6 +688,7 @@ def main():
     print(f"Missing generated docs in manifest: {len(manifest_issues['missing_doc_files'])}")
     print(f"Missing chunk files in manifest: {len(manifest_issues['missing_chunk_files'])}")
     print(f"Source hash mismatches: {len(manifest_issues['hash_mismatches'])}")
+    print(f"Source hash version drifts: {len(manifest_issues['hash_version_drifts'])}")
     print(f"Compiler version mismatches: {len(manifest_issues['compiler_version_mismatches'])}")
     print(f"Chunks missing section refs: {len(chunk_issues['missing_section_refs'])}")
     print(f"Chunks with invalid section refs: {len(chunk_issues['invalid_section_refs'])}")
@@ -773,6 +782,7 @@ def main():
         print_sample("Missing tree files:", tree_issues["missing_tree_files"])
         print_sample("Tree doc id mismatches:", tree_issues["tree_doc_id_mismatches"])
         print_sample("Source hash mismatches:", manifest_issues["hash_mismatches"])
+        print_sample("Source hash version drifts:", manifest_issues["hash_version_drifts"])
         print_sample("Compiler version mismatches:", manifest_issues["compiler_version_mismatches"])
         print_sample("Chunks missing section refs:", chunk_issues["missing_section_refs"])
         print_sample("Chunks with invalid section refs:", chunk_issues["invalid_section_refs"])
@@ -797,6 +807,8 @@ def main():
         print_sample("Invalid frontmatter docs:", bad_frontmatter)
         print_sample("Frontmatter section-count mismatches:", section_count_mismatches)
         return 1
+
+    print_sample("Source hash version drifts (non-fatal):", manifest_issues["hash_version_drifts"])
 
     print("Validation status: PASS")
     return 0

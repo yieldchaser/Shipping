@@ -64,12 +64,43 @@ jobs:
           OLLAMA_MAX_RETRIES: "3"
           OLLAMA_BACKOFF_BASE_SEC: "1.5"
           OLLAMA_MAX_BACKOFF_SEC: "15.0"
+          LLM_PROVIDER_ORDER: "ollama,gemini"
           MANIFEST_FLUSH_EVERY: "200"
-        run: python scripts/process_knowledge.py
+          LINKED_IMAGE_OCR_CHAR_LIMIT: "5000"
+          MIN_IMAGE_OCR_PIXELS: "150000"
+          MAX_LINKED_ASSETS_PER_DOC: "12"
+        shell: bash
+        run: |
+          set -o pipefail
+          python scripts/process_knowledge.py 2>&1 | tee knowledge_processor.log
 
       - name: Validate updated knowledge
         if: steps.check.outputs.new == 'true'
-        run: python scripts/validate_knowledge.py
+        shell: bash
+        run: |
+          set -o pipefail
+          python scripts/validate_knowledge.py 2>&1 | tee knowledge_validator.log
+
+      - name: Prepare failure diagnostics
+        if: failure() && steps.check.outputs.new == 'true'
+        shell: bash
+        run: |
+          git status --porcelain > knowledge_changed_files.txt || true
+          git diff --name-only > knowledge_changed_tracked.txt || true
+
+      - name: Upload failure diagnostics
+        if: failure() && steps.check.outputs.new == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-knowledge-failure-diagnostics-${{ github.run_id }}
+          if-no-files-found: warn
+          path: |
+            knowledge/manifests/**
+            knowledge/reports/**
+            knowledge_processor.log
+            knowledge_validator.log
+            knowledge_changed_files.txt
+            knowledge_changed_tracked.txt
 
       - name: Commit if changes
         if: steps.check.outputs.new == 'true'

@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import os, re, json, time, hashlib, argparse, traceback, shutil, sys, warnings, stat, csv, random
+import os, re, json, time, argparse, traceback, shutil, sys, warnings, stat, csv, random
 from pathlib import Path
 from datetime import datetime, timezone
 from urllib.parse import urlparse
@@ -14,6 +14,7 @@ import frontmatter
 from dotenv import load_dotenv
 from build_health_report import build_health_reports
 from build_wiki import build_wiki
+from knowledge_hash import SOURCE_HASH_VERSION, compute_source_hash
 warnings.simplefilter("ignore", FutureWarning)
 try:
     import google.generativeai as genai
@@ -82,8 +83,27 @@ OLLAMA_MAX_RETRIES = int(os.environ.get("OLLAMA_MAX_RETRIES", "6"))
 OLLAMA_BACKOFF_BASE_SEC = float(os.environ.get("OLLAMA_BACKOFF_BASE_SEC", "3.0"))
 OLLAMA_MAX_BACKOFF_SEC = float(os.environ.get("OLLAMA_MAX_BACKOFF_SEC", "60.0"))
 MANIFEST_FLUSH_EVERY = int(os.environ.get("MANIFEST_FLUSH_EVERY", "200"))
+LINKED_IMAGE_OCR_CHAR_LIMIT = int(os.environ.get("LINKED_IMAGE_OCR_CHAR_LIMIT", "5000"))
+MIN_IMAGE_OCR_PIXELS = int(os.environ.get("MIN_IMAGE_OCR_PIXELS", "150000"))
+MAX_LINKED_ASSETS_PER_DOC = int(os.environ.get("MAX_LINKED_ASSETS_PER_DOC", "12"))
+LLM_PROVIDER_ORDER = [
+    provider
+    for provider in [part.strip().lower() for part in os.environ.get("LLM_PROVIDER_ORDER", "gemini,ollama").split(",")]
+    if provider in {"gemini", "ollama"}
+]
+if not LLM_PROVIDER_ORDER:
+    LLM_PROVIDER_ORDER = ["gemini", "ollama"]
 _last_gemini_call_ts = 0.0
 _last_ollama_call_ts = 0.0
+LLM_STATS = {
+    "gemini_ok": 0,
+    "gemini_429": 0,
+    "gemini_error": 0,
+    "ollama_ok": 0,
+    "ollama_429": 0,
+    "ollama_error": 0,
+    "heuristic_used": 0,
+}
 
 BREAKWAVE_DRY_FIELDS = [
     "China Steel Production",
@@ -373,6 +393,29 @@ def write_manifest_rows(rows: list[dict]):
     DOCUMENTS_MANIFEST.write_text("", encoding="utf-8")
     for row in rows:
         append_jsonl(DOCUMENTS_MANIFEST, row)
+
+
+def migrate_manifest_hash_versions(rows: list[dict]) -> tuple[int, dict[str, str]]:
+    updated = 0
+    hash_cache = {}
+    for row in rows:
+        if row.get("source_hash_version") == SOURCE_HASH_VERSION:
+            continue
+        source_path = row.get("source_path")
+        if not source_path:
+            continue
+        source_file = REPO_ROOT / source_path
+        if not source_file.exists():
+            continue
+        try:
+            computed = source_hash(source_file)
+            row["source_hash"] = computed
+            row["source_hash_version"] = SOURCE_HASH_VERSION
+            hash_cache[source_path] = computed
+            updated += 1
+        except Exception:
+            continue
+    return updated, hash_cache
 
 
 def load_existing_metadata(row: dict | None) -> dict:
@@ -754,12 +797,17 @@ def call_gemini(prompt: str, retries: int | None = None) -> str | None:
             _last_gemini_call_ts = time.monotonic()
             text = getattr(response, "text", None)
             if text:
+                LLM_STATS["gemini_ok"] += 1
                 return text.strip()
             return None
         except Exception as exc:
             _last_gemini_call_ts = time.monotonic()
+            exc_text = str(exc)
+            if _is_rate_limit_error(exc_text):
+                LLM_STATS["gemini_429"] += 1
+            else:
+                LLM_STATS["gemini_error"] += 1
             if attempt < retries - 1:
-                exc_text = str(exc)
                 retry_after = _parse_retry_after(exc_text)
                 if retry_after is not None:
                     delay = retry_after
@@ -846,11 +894,17 @@ def call_ollama(prompt: str, retries: int | None = None) -> str | None:
             _ollama_sleep_interval()
             text = _call_ollama_once(prompt)
             _last_ollama_call_ts = time.monotonic()
+            if text:
+                LLM_STATS["ollama_ok"] += 1
             return text
         except Exception as exc:
             _last_ollama_call_ts = time.monotonic()
+            exc_text = str(exc)
+            if _is_rate_limit_error(exc_text):
+                LLM_STATS["ollama_429"] += 1
+            else:
+                LLM_STATS["ollama_error"] += 1
             if attempt < retries - 1:
-                exc_text = str(exc)
                 retry_after = _parse_retry_after(exc_text)
                 if retry_after is not None:
                     delay = retry_after
@@ -866,10 +920,16 @@ def call_ollama(prompt: str, retries: int | None = None) -> str | None:
 
 
 def call_llm(prompt: str) -> str | None:
-    primary = call_gemini(prompt)
-    if primary:
-        return primary
-    return call_ollama(prompt)
+    for provider in LLM_PROVIDER_ORDER:
+        if provider == "gemini":
+            text = call_gemini(prompt)
+        elif provider == "ollama":
+            text = call_ollama(prompt)
+        else:
+            continue
+        if text:
+            return text
+    return None
 
 
 def extract_json_payload(text: str) -> dict | None:
@@ -890,6 +950,7 @@ def extract_json_payload(text: str) -> dict | None:
 
 def run_doc_llm(text: str, source: str, category: str, signal_keys: list[str] | None = None) -> dict:
     if not llm_available():
+        LLM_STATS["heuristic_used"] += 1
         return {}
     prompt = "Return strict JSON with keys: summary, keywords, themes, key_entities, market_tone"
     if signal_keys:
@@ -900,6 +961,8 @@ def run_doc_llm(text: str, source: str, category: str, signal_keys: list[str] | 
         f"Source={source}, category={category}. Text:\n{text[:6000]}"
     )
     payload = extract_json_payload(call_llm(prompt))
+    if not payload:
+        LLM_STATS["heuristic_used"] += 1
     return payload or {}
 
 
@@ -923,14 +986,7 @@ def format_fundamentals_markdown(fundamentals: dict) -> str:
 
 
 def source_hash(path: Path) -> str:
-    # Use content hash (not filesystem mtime) so incremental behavior is stable
-    # across fresh checkouts in CI where mtimes are recreated.
-    digest = hashlib.sha1()
-    digest.update(relpath(path).encode("utf-8"))
-    with path.open("rb") as handle:
-        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
-            digest.update(chunk)
-    return digest.hexdigest()
+    return compute_source_hash(path, REPO_ROOT)
 
 
 def merge_existing_theme_data(theme_data: dict, existing_metadata: dict | None) -> dict:
@@ -1290,8 +1346,10 @@ def extract_linked_image_text(path: Path) -> str:
     try:
         from PIL import ExifTags, Image
 
+        image_size = None
         with Image.open(path) as image:
             lines.append(f"Image metadata: {image.format} {image.width}x{image.height} mode={image.mode}")
+            image_size = (image.width, image.height)
             info_pairs = []
             for key, value in (image.info or {}).items():
                 value_text = norm_space(str(value))
@@ -1313,18 +1371,22 @@ def extract_linked_image_text(path: Path) -> str:
                 if exif_lines:
                     lines.append("EXIF text:\n" + "\n".join(exif_lines))
     except Exception:
+        image_size = None
         pass
 
     try:
         import pytesseract
         from PIL import Image
 
-        with Image.open(path) as image:
-            ocr_text = norm_multiline(pytesseract.image_to_string(image) or "")
-        if ocr_text:
-            lines.append("OCR text:\n" + truncate_linked_text(ocr_text, limit=12000))
+        if image_size is not None and (image_size[0] * image_size[1]) < MIN_IMAGE_OCR_PIXELS:
+            lines.append(f"[OCR skipped for small image (< {MIN_IMAGE_OCR_PIXELS} pixels).]")
         else:
-            lines.append("[No OCR text detected in linked image.]")
+            with Image.open(path) as image:
+                ocr_text = norm_multiline(pytesseract.image_to_string(image) or "")
+            if ocr_text:
+                lines.append("OCR text:\n" + truncate_linked_text(ocr_text, limit=LINKED_IMAGE_OCR_CHAR_LIMIT))
+            else:
+                lines.append("[No OCR text detected in linked image.]")
     except Exception:
         lines.append("[OCR unavailable; install pytesseract to ingest raster text from images.]")
 
@@ -1365,6 +1427,13 @@ def collect_linked_asset_sections(source: str, html_path: Path, root) -> list[di
         link_candidates.append(image.get("src"))
 
     for candidate in link_candidates:
+        if len(sections) >= MAX_LINKED_ASSETS_PER_DOC:
+            sections.append({
+                "heading": "Linked assets (truncated)",
+                "text": f"[Reached MAX_LINKED_ASSETS_PER_DOC={MAX_LINKED_ASSETS_PER_DOC}; additional linked assets skipped.]",
+                "section_type": "linked_asset_summary",
+            })
+            break
         href = norm_space(candidate)
         if not href:
             continue
@@ -2090,6 +2159,7 @@ def process_file(path: Path, adapted: dict, source_hash_value: str | None = None
         "chunk_file": relpath(chunk_path),
         "chunk_count": len(chunks),
         "source_hash": source_hash_value or source_hash(path),
+        "source_hash_version": SOURCE_HASH_VERSION,
         "compiler_version": COMPILER_VERSION,
         "processed_at": utc_now_iso(),
     }
@@ -2279,9 +2349,12 @@ def main():
         llm_enabled = llm_available() and not args.no_llm
         loaded_manifest_rows = load_manifest_rows()
         manifest_rows = prune_missing_sources(loaded_manifest_rows)
+        hash_version_updates, migrated_hash_cache = migrate_manifest_hash_versions(manifest_rows)
         processed_index = latest_rows_by_source(manifest_rows)
-        if len(manifest_rows) != len(loaded_manifest_rows):
+        if len(manifest_rows) != len(loaded_manifest_rows) or hash_version_updates:
             write_manifest_rows(list(processed_index.values()))
+            if hash_version_updates:
+                print(f"[MANIFEST] source_hash_version_migrated={hash_version_updates}")
 
         processed_count = 0
         skipped_count = 0
@@ -2291,12 +2364,13 @@ def main():
 
         for source, category, path in iter_source_files(args.source):
             source_rel = relpath(path)
-            current_hash = source_hash(path)
+            current_hash = migrated_hash_cache.get(source_rel) or source_hash(path)
             existing_row = processed_index.get(source_rel)
 
             if (
                 not args.rebuild
                 and existing_row
+                and existing_row.get("source_hash_version") == SOURCE_HASH_VERSION
                 and existing_row.get("source_hash") == current_hash
                 and artifacts_current(existing_row)
             ):
@@ -2374,6 +2448,21 @@ def main():
 
         build_derived(llm_enabled=llm_enabled)
         print(f"[DONE] processed={processed_count} skipped={skipped_count} errors={error_count}")
+        print(
+            "[LLM_STATS] "
+            + " ".join(
+                [
+                    f"provider_order={','.join(LLM_PROVIDER_ORDER)}",
+                    f"gemini_ok={LLM_STATS['gemini_ok']}",
+                    f"gemini_429={LLM_STATS['gemini_429']}",
+                    f"gemini_error={LLM_STATS['gemini_error']}",
+                    f"ollama_ok={LLM_STATS['ollama_ok']}",
+                    f"ollama_429={LLM_STATS['ollama_429']}",
+                    f"ollama_error={LLM_STATS['ollama_error']}",
+                    f"heuristic_used={LLM_STATS['heuristic_used']}",
+                ]
+            )
+        )
         return 0
     except Exception as exc:
         log_error(Path(__file__), f"fatal: {exc}\n{traceback.format_exc()}")
