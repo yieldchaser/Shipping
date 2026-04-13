@@ -44,6 +44,21 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add bdiy_historical.csv cape_historical.csv panama_historical.csv suprama_historical.csv handysize_historical.csv cleantanker_historical.csv dirtytanker_historical.csv bdryff_history.csv bwetff_history.csv BDRY_Daily.csv BWET_Daily.csv sgx_cape_futures.csv sgx_panamax_futures.csv sgx_supramax_futures.csv sgx_handysize_futures.csv BDRY_flows.csv BWET_flows.csv
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update indices and flows $(date +'%Y-%m-%d %H:%M UTC')"
-        git pull --rebase origin main || echo "Nothing to pull or pull failed"
-        git push
+        if git diff --staged --quiet; then
+          echo "No index/flow changes to commit."
+          exit 0
+        fi
+
+        git commit -m "Update indices and flows $(date +'%Y-%m-%d %H:%M UTC')"
+
+        for attempt in 1 2 3; do
+          if git pull --rebase origin main && git push origin HEAD:main; then
+            echo "Push succeeded on attempt $attempt."
+            exit 0
+          fi
+          echo "Push race on attempt $attempt. Retrying in 10s..."
+          sleep 10
+        done
+
+        echo "Failed to push after 3 attempts."
+        exit 1

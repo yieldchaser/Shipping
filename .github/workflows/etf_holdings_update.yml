@@ -37,6 +37,21 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add bdry_holdings.csv bwet_holdings.csv bdry_liquidity.csv bwet_liquidity.csv
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update ETF holdings $(date +'%Y-%m-%d %H:%M UTC')"
-        git pull --rebase origin main || echo "Nothing to pull or pull failed"
-        git push
+        if git diff --staged --quiet; then
+          echo "No ETF holdings changes to commit."
+          exit 0
+        fi
+
+        git commit -m "Update ETF holdings $(date +'%Y-%m-%d %H:%M UTC')"
+
+        for attempt in 1 2 3; do
+          if git pull --rebase origin main && git push origin HEAD:main; then
+            echo "Push succeeded on attempt $attempt."
+            exit 0
+          fi
+          echo "Push race on attempt $attempt. Retrying in 10s..."
+          sleep 10
+        done
+
+        echo "Failed to push after 3 attempts."
+        exit 1
