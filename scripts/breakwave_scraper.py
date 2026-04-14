@@ -51,6 +51,7 @@ HEADERS = {
 PAGE_DELAY     = 1.5   # sec between page fetches
 DOWNLOAD_DELAY = 2.5   # sec between PDF downloads
 CURRENT_YEAR   = datetime.utcnow().year
+DRY_OLDER_MAX_YEAR = 2021
 
 # ─────────────────────── Known archive pages ──────────────────────────────────
 # Keys are the year (int) or "current" for the /publications page
@@ -315,13 +316,23 @@ def collect_links(category: str, year_filter: int | None = None) -> list[dict]:
             if key == "current":
                 if year_filter < CURRENT_YEAR:
                     continue
+            elif key == "older":
+                # Dry Bulk pre-2022 reports live in the shared older archive page.
+                if category != "dry" or year_filter > DRY_OLDER_MAX_YEAR:
+                    continue
             elif key != year_filter:
                 continue
 
         if key == "current":
             items = scrape_publications_page(category)
         elif key == "older":
-            items = scrape_archive_page(path, expected_year=None)
+            # When a specific old year is requested (2018-2021), filter on that year.
+            expected_year = (
+                year_filter
+                if year_filter and category == "dry" and year_filter <= DRY_OLDER_MAX_YEAR
+                else None
+            )
+            items = scrape_archive_page(path, expected_year=expected_year)
         else:
             items = scrape_archive_page(path, expected_year=key)
 
