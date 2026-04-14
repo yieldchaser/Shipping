@@ -310,6 +310,27 @@ def collect_links(category: str, year_filter: int | None = None) -> list[dict]:
     pages = DRY_PAGES if category == "dry" else TANKER_PAGES
     all_items = []
 
+    # Dry Bulk historical years (2018-2021) are not consistently exposed via one
+    # archive URL anymore. Try year-specific archive first, then older bucket.
+    if year_filter and category == "dry" and year_filter <= DRY_OLDER_MAX_YEAR:
+        candidate_paths = [f"/{year_filter}-reports", "/older-reports"]
+        for path in candidate_paths:
+            items = scrape_archive_page(path, expected_year=year_filter)
+            if items:
+                all_items.extend(items)
+                break
+
+        # If both probes fail, keep all_items empty and return gracefully.
+        # (No hard failure so workflow can continue with other years/categories.)
+        seen = set()
+        unique = []
+        for it in sorted(all_items, key=lambda x: x["date"], reverse=True):
+            k = it["date"].date()
+            if k not in seen:
+                seen.add(k)
+                unique.append(it)
+        return unique
+
     for key, path in pages.items():
         if year_filter:
             # Only process the matching year (or the current publications page).
