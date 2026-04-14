@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import json
 from collections import Counter
 from pathlib import Path
@@ -51,6 +52,75 @@ ROW_ORDER = [
     ("hellenic", "shipbuilding", "hellenic/shipbuilding"),
     ("book", "book", "books"),
 ]
+
+
+def normalize_source_filter(raw_source: str | None) -> set[str] | None:
+    if raw_source in (None, "", "all"):
+        return None
+    if raw_source == "books":
+        return {"book"}
+    return {raw_source}
+
+
+def filter_documents_by_source(documents: list[dict], selected_sources: set[str] | None) -> list[dict]:
+    if not selected_sources:
+        return documents
+    return [row for row in documents if row.get("source") in selected_sources]
+
+
+def empty_section_index_issues():
+    return {
+        "row_count": 0,
+        "malformed_lines": 0,
+        "duplicate_node_ids": [],
+        "unknown_node_ids": [],
+        "missing_node_ids": [],
+    }
+
+
+def empty_topic_config_issues():
+    return {
+        "missing_config": False,
+        "malformed_config": False,
+        "invalid_topics": [],
+        "duplicate_topic_ids": [],
+        "unknown_related_topics": [],
+        "topic_ids": set(),
+    }
+
+
+def empty_topic_evidence_issues():
+    return {
+        "row_count": 0,
+        "malformed_lines": 0,
+        "duplicate_refs": [],
+        "unknown_topic_ids": [],
+        "missing_doc_ids": [],
+        "invalid_section_refs": [],
+        "missing_topic_ids": [],
+    }
+
+
+def empty_wiki_page_issues():
+    return {
+        "missing_pages": [],
+        "bad_frontmatter": [],
+        "zero_evidence_pages": [],
+        "missing_citation_pages": [],
+        "unknown_pages": [],
+        "missing_index": False,
+    }
+
+
+def empty_health_report_issues():
+    return {
+        "missing_files": [],
+        "malformed_files": [],
+        "invalid_payloads": [],
+        "warning_count": 0,
+        "high_severity_count": 0,
+        "divergence_count": 0,
+    }
 
 
 def load_jsonl(path: Path) -> tuple[list[dict], int]:
@@ -778,31 +848,59 @@ def print_sample(title: str, values: list[str], limit: int = 20):
 
 
 def main():
-    documents, malformed_manifest_lines = load_jsonl(DOCS_MANIFEST)
+    parser = argparse.ArgumentParser(description="Validate shipping knowledge artifacts")
+    parser.add_argument(
+        "--source",
+        choices=["breakwave", "baltic", "breakwave_insights", "hellenic", "books", "all"],
+        default="all",
+    )
+    args = parser.parse_args()
+
+    selected_sources = normalize_source_filter(args.source)
+    scoped_mode = bool(selected_sources)
+
+    all_documents, malformed_manifest_lines = load_jsonl(DOCS_MANIFEST)
+    documents = filter_documents_by_source(all_documents, selected_sources)
+
     source_counts = count_source_files()
+    if selected_sources:
+        source_counts = {key: value for key, value in source_counts.items() if key[0] in selected_sources}
+
     processed_counts = count_processed_documents(documents)
     manifest_issues = validate_manifest(documents)
     tree_issues = inspect_trees(documents)
     chunk_issues = inspect_chunks(documents, tree_issues["section_ids_by_doc"])
     signal_counts, malformed_signal_lines = count_signal_rows()
-    section_index_issues = validate_section_index(tree_issues["section_ids_by_doc"])
-    topic_config_issues = validate_topic_config()
-    topic_evidence_issues = validate_topic_evidence(
-        topic_config_issues["topic_ids"],
-        tree_issues["section_ids_by_doc"],
-        {row.get("doc_id") for row in documents if row.get("doc_id")},
-    )
-    wiki_page_issues = validate_wiki_pages(topic_config_issues["topic_ids"])
-    health_report_issues = validate_health_outputs(topic_config_issues["topic_ids"])
+    if selected_sources:
+        signal_counts = {key: value for key, value in signal_counts.items() if key[0] in selected_sources}
+
+    if scoped_mode:
+        section_index_issues = empty_section_index_issues()
+        topic_config_issues = empty_topic_config_issues()
+        topic_evidence_issues = empty_topic_evidence_issues()
+        wiki_page_issues = empty_wiki_page_issues()
+        health_report_issues = empty_health_report_issues()
+    else:
+        section_index_issues = validate_section_index(tree_issues["section_ids_by_doc"])
+        topic_config_issues = validate_topic_config()
+        topic_evidence_issues = validate_topic_evidence(
+            topic_config_issues["topic_ids"],
+            tree_issues["section_ids_by_doc"],
+            {row.get("doc_id") for row in documents if row.get("doc_id")},
+        )
+        wiki_page_issues = validate_wiki_pages(topic_config_issues["topic_ids"])
+        health_report_issues = validate_health_outputs(topic_config_issues["topic_ids"])
+
     linked_asset_issues = validate_linked_asset_coverage(documents)
     bad_frontmatter, breakwave_null_signals, section_count_mismatches = validate_frontmatter(
         documents,
         tree_issues["section_ids_by_doc"],
     )
 
+    row_order = [row for row in ROW_ORDER if not selected_sources or row[0] in selected_sources]
     rows = []
     total_missing = 0
-    for source, category, label in ROW_ORDER:
+    for source, category, label in row_order:
         files = source_counts.get((source, category), 0)
         processed = processed_counts.get((source, category), 0)
         missing = files - processed
@@ -811,6 +909,10 @@ def main():
         signals = signal_counts.get((source, category)) if source == "breakwave" else None
         rows.append((label, files, processed, missing, chunks, signals))
 
+    scope_label = "all sources" if not selected_sources else ", ".join(sorted(selected_sources))
+    print(f"Validation scope: {scope_label}")
+    if scoped_mode:
+        print("Scoped mode: global wiki/health/topic cross-source checks are skipped for this run.")
     print_table(rows)
     print()
     print(f"Malformed manifest lines: {malformed_manifest_lines}")
@@ -874,6 +976,35 @@ def main():
     print(f"Frontmatter section-count mismatches: {len(section_count_mismatches)}")
     print(f"Breakwave reports with null primary signal: {breakwave_null_signals}")
 
+    global_failures = 0
+    if not scoped_mode:
+        global_failures = (
+            section_index_issues["malformed_lines"]
+            + len(section_index_issues["duplicate_node_ids"])
+            + len(section_index_issues["unknown_node_ids"])
+            + len(section_index_issues["missing_node_ids"])
+            + int(topic_config_issues["missing_config"])
+            + int(topic_config_issues["malformed_config"])
+            + len(topic_config_issues["invalid_topics"])
+            + len(topic_config_issues["duplicate_topic_ids"])
+            + len(topic_config_issues["unknown_related_topics"])
+            + topic_evidence_issues["malformed_lines"]
+            + len(topic_evidence_issues["duplicate_refs"])
+            + len(topic_evidence_issues["unknown_topic_ids"])
+            + len(topic_evidence_issues["missing_doc_ids"])
+            + len(topic_evidence_issues["invalid_section_refs"])
+            + len(topic_evidence_issues["missing_topic_ids"])
+            + len(wiki_page_issues["missing_pages"])
+            + len(wiki_page_issues["bad_frontmatter"])
+            + len(wiki_page_issues["zero_evidence_pages"])
+            + len(wiki_page_issues["missing_citation_pages"])
+            + len(wiki_page_issues["unknown_pages"])
+            + int(wiki_page_issues["missing_index"])
+            + len(health_report_issues["missing_files"])
+            + len(health_report_issues["malformed_files"])
+            + len(health_report_issues["invalid_payloads"])
+        )
+
     failures = (
         malformed_manifest_lines
         + chunk_issues["malformed_chunk_lines"]
@@ -892,30 +1023,6 @@ def main():
         + len(manifest_issues["compiler_version_mismatches"])
         + len(chunk_issues["missing_section_refs"])
         + len(chunk_issues["invalid_section_refs"])
-        + section_index_issues["malformed_lines"]
-        + len(section_index_issues["duplicate_node_ids"])
-        + len(section_index_issues["unknown_node_ids"])
-        + len(section_index_issues["missing_node_ids"])
-        + int(topic_config_issues["missing_config"])
-        + int(topic_config_issues["malformed_config"])
-        + len(topic_config_issues["invalid_topics"])
-        + len(topic_config_issues["duplicate_topic_ids"])
-        + len(topic_config_issues["unknown_related_topics"])
-        + topic_evidence_issues["malformed_lines"]
-        + len(topic_evidence_issues["duplicate_refs"])
-        + len(topic_evidence_issues["unknown_topic_ids"])
-        + len(topic_evidence_issues["missing_doc_ids"])
-        + len(topic_evidence_issues["invalid_section_refs"])
-        + len(topic_evidence_issues["missing_topic_ids"])
-        + len(wiki_page_issues["missing_pages"])
-        + len(wiki_page_issues["bad_frontmatter"])
-        + len(wiki_page_issues["zero_evidence_pages"])
-        + len(wiki_page_issues["missing_citation_pages"])
-        + len(wiki_page_issues["unknown_pages"])
-        + int(wiki_page_issues["missing_index"])
-        + len(health_report_issues["missing_files"])
-        + len(health_report_issues["malformed_files"])
-        + len(health_report_issues["invalid_payloads"])
         + len(linked_asset_issues["schema_issues"])
         + len(linked_asset_issues["consistency_issues"])
         + len(linked_asset_issues["unresolved_required_local"])
@@ -923,6 +1030,7 @@ def main():
         + len(section_count_mismatches)
         + breakwave_null_signals
         + total_missing
+        + global_failures
     )
 
     if failures:
@@ -938,24 +1046,25 @@ def main():
         print_sample("Compiler version mismatches:", manifest_issues["compiler_version_mismatches"])
         print_sample("Chunks missing section refs:", chunk_issues["missing_section_refs"])
         print_sample("Chunks with invalid section refs:", chunk_issues["invalid_section_refs"])
-        print_sample("Unknown section index node ids:", section_index_issues["unknown_node_ids"])
-        print_sample("Missing section index node ids:", section_index_issues["missing_node_ids"])
-        print_sample("Invalid wiki topic config rows:", topic_config_issues["invalid_topics"])
-        print_sample("Duplicate wiki topic ids:", topic_config_issues["duplicate_topic_ids"])
-        print_sample("Unknown related wiki topics:", topic_config_issues["unknown_related_topics"])
-        print_sample("Duplicate topic evidence refs:", topic_evidence_issues["duplicate_refs"])
-        print_sample("Unknown topic ids in evidence:", topic_evidence_issues["unknown_topic_ids"])
-        print_sample("Topic evidence rows with missing docs:", topic_evidence_issues["missing_doc_ids"])
-        print_sample("Topic evidence rows with invalid section refs:", topic_evidence_issues["invalid_section_refs"])
-        print_sample("Configured topics missing evidence:", topic_evidence_issues["missing_topic_ids"])
-        print_sample("Missing wiki pages:", wiki_page_issues["missing_pages"])
-        print_sample("Wiki pages with bad frontmatter:", wiki_page_issues["bad_frontmatter"])
-        print_sample("Wiki pages with zero evidence:", wiki_page_issues["zero_evidence_pages"])
-        print_sample("Wiki pages missing citations:", wiki_page_issues["missing_citation_pages"])
-        print_sample("Unknown wiki pages:", wiki_page_issues["unknown_pages"])
-        print_sample("Missing health outputs:", health_report_issues["missing_files"])
-        print_sample("Malformed health outputs:", health_report_issues["malformed_files"])
-        print_sample("Invalid health payloads:", health_report_issues["invalid_payloads"])
+        if not scoped_mode:
+            print_sample("Unknown section index node ids:", section_index_issues["unknown_node_ids"])
+            print_sample("Missing section index node ids:", section_index_issues["missing_node_ids"])
+            print_sample("Invalid wiki topic config rows:", topic_config_issues["invalid_topics"])
+            print_sample("Duplicate wiki topic ids:", topic_config_issues["duplicate_topic_ids"])
+            print_sample("Unknown related wiki topics:", topic_config_issues["unknown_related_topics"])
+            print_sample("Duplicate topic evidence refs:", topic_evidence_issues["duplicate_refs"])
+            print_sample("Unknown topic ids in evidence:", topic_evidence_issues["unknown_topic_ids"])
+            print_sample("Topic evidence rows with missing docs:", topic_evidence_issues["missing_doc_ids"])
+            print_sample("Topic evidence rows with invalid section refs:", topic_evidence_issues["invalid_section_refs"])
+            print_sample("Configured topics missing evidence:", topic_evidence_issues["missing_topic_ids"])
+            print_sample("Missing wiki pages:", wiki_page_issues["missing_pages"])
+            print_sample("Wiki pages with bad frontmatter:", wiki_page_issues["bad_frontmatter"])
+            print_sample("Wiki pages with zero evidence:", wiki_page_issues["zero_evidence_pages"])
+            print_sample("Wiki pages missing citations:", wiki_page_issues["missing_citation_pages"])
+            print_sample("Unknown wiki pages:", wiki_page_issues["unknown_pages"])
+            print_sample("Missing health outputs:", health_report_issues["missing_files"])
+            print_sample("Malformed health outputs:", health_report_issues["malformed_files"])
+            print_sample("Invalid health payloads:", health_report_issues["invalid_payloads"])
         print_sample("Linked-asset schema issues:", linked_asset_issues["schema_issues"])
         print_sample("Linked-asset consistency issues:", linked_asset_issues["consistency_issues"])
         print_sample("Unresolved required local linked assets:", linked_asset_issues["unresolved_required_local"])

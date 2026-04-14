@@ -84,7 +84,12 @@ jobs:
         shell: bash
         run: |
           set -o pipefail
-          python scripts/validate_knowledge.py 2>&1 | tee knowledge_validator.log
+          SRC="${{ github.event.inputs.source || 'all' }}"
+          if [ "$SRC" = "all" ]; then
+            python scripts/validate_knowledge.py 2>&1 | tee knowledge_validator.log
+          else
+            python scripts/validate_knowledge.py --source "$SRC" 2>&1 | tee knowledge_validator.log
+          fi
 
       - name: Prepare failure diagnostics
         if: failure()
