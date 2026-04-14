@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><link rel="canonical" href="https://www.bakerinstitute.org/search" />
+<meta property="og:site_name" content="Baker Institute" />
+<meta property="og:url" content="https://www.bakerinstitute.org/search" />
+<meta property="og:title" content="Search Results | Baker Institute" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Search Results | Baker Institute" />
+<meta name="twitter:site" content="@BakerInstitute" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<noscript>
+    <style>
+      .no-script--show {
+        display: block !important;
+      }
+      .no-script--hide {
+        display: none !important;
+      }
+    </style>
+    </noscript>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap" type="text/css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&amp;display=swap" type="text/css" />
+<link rel="icon" href="/themes/custom/baker-institute/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Search Results | Baker Institute</title>
+    <link rel="stylesheet" media="all" href="/modules/contrib/cohesion/css/reset.css?tcho79" />
+<link rel="stylesheet" media="all" href="/sites/default/files/cohesion/styles/base/baker-institute-stylesheet.min.css?tcho79" />
+<link rel="stylesheet" media="all" href="/sites/default/files/cohesion/styles/base/default-element-styles-element-container.css?tcho79" />
+<link rel="stylesheet" media="all" href="/sites/default/files/cohesion/styles/base/default-element-styles-element-drupal-menu.css?tcho79" />
+<link rel="stylesheet" media="all" href="/sites/default/files/cohesion/styles/base/default-element-styles-element-image.css?tcho79" />
+<link rel="stylesheet" media="all" href="/sites/default/files/cohesion/styles/base/default-element-styles-element-link.css?tcho79" />
+<link rel="stylesheet" media="all" href="/sites/default/files/cohesion/styles/base/default-element-styles-element-wysiwyg.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/components/progress.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/components/ajax-progress.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/align.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/fieldgroup.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/container-inline.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/clearfix.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/details.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/hidden.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/item-list.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/js.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/nowrap.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/position-container.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/reset-appearance.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/resize.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-counter.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-counters.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-general-info.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/tablesort.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/sites/default/files/cohesion/styles/theme/baker-institute-stylesheet.min.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/contextual/contextual.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/views/views.module.css?tcho79" />
+<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/contextual/contextual.theme.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/contextual/contextual.icons.theme.css?tcho79" />
+<link rel="stylesheet" media="all" href="/modules/contrib/facets/css/checkbox-widget.css?tcho79" />
+<link rel="stylesheet" media="all" href="/modules/contrib/selection_sharer/library/selection-sharer.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/custom/baker-institute/css/main.css?tcho79" />
+<link rel="stylesheet" media="all" href="/libraries/tippyjs/6.x/light/light.css?tcho79" />
+<link rel="stylesheet" media="all" href="/themes/contrib/cohesion-theme/css/main.css?tcho79" />
+
+    <script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.11.7" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/misc/touchevents-test.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+
+    <cohesion-placeholder></cohesion-placeholder>
+    
+<link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/baker-institute/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/baker-institute/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/baker-institute/favicons/favicon-16x16.png">
+<link rel="manifest" href="/themes/custom/baker-institute/favicons/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+    
+  </head>
+  <body class="context-show-on-search-page-enable path-search">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+    Skip to main content
+  </a>
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9587Z8"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+               <header role="banner" class="main-header">  <div class="coh-container print--hide coh-ce-99b01f2" >           <div class="coh-container ssa-component coh-component ssa-component-instance-0891c5c5-78f0-49e4-a90c-1f9e0d844123 coh-component-instance-0891c5c5-78f0-49e4-a90c-1f9e0d844123 js-header-component coh-ce-cpt_header_new-1cc80a49" >  <div class="coh-container header-inner coh-ce-cpt_header_new-9ef3a580" >  <div class="coh-block branding-block coh-ce-cpt_header_new-f0b3d6ed"> <div id="block-baker-institute-site-branding" class="contextual-region settings-tray-editable" data-drupal-settingstray="editable">
+          <a href="/" aria-label="Home" rel="home" class="logo">
+      <img src="/themes/custom/baker-institute/logo.svg" alt="Home" />
+    </a>
+  </div>
+ </div>  <div class="coh-container coh-ce-cpt_header_new-2f19474" >  <a href="/" class="coh-link" title="home" target="_self" >  <img class="coh-inline-element coh-image coh-image-responsive-xs" src="/themes/custom/baker-institute/logo-short.svg" alt="Home" class="coh-image coh-image-responsive-xs"></a> </div>  <button class="coh-button js-main-menu-mobile-toggle coh-ce-cpt_header_new-c47eb33 coh-interaction" title="Toggle Sidebar" data-interaction-modifiers="[{&quot;modifierType&quot;:&quot;toggle-modifier&quot;,&quot;interactionScope&quot;:&quot;document&quot;,&quot;interactionTarget&quot;:&quot;.js-mobile-dropdown-pane&quot;,&quot;modifierName&quot;:&quot;active-mobile&quot;},{&quot;modifierType&quot;:&quot;toggle-modifier&quot;,&quot;interactionScope&quot;:&quot;document&quot;,&quot;interactionTarget&quot;:&quot;.js-main-menu-mobile-toggle&quot;,&quot;modifierName&quot;:&quot;active-mobile&quot;}]" data-coh-settings='{ "xs":{"buttonAnimation":[{"animationType":"none"}]} }' type="button">  <span class="coh-inline-element new-header-hamburger-element"></span> </button>  <div class="coh-container js-mobile-dropdown-pane coh-ce-cpt_header_new-2b07ff4b" >  <div class="coh-block site-search coh-ce-cpt_header_new-da5d1089"> <div class="search-by-keyword-form contextual-region settings-tray-editable" data-drupal-selector="search-by-keyword-form" id="block-search-by-keyword-block" data-drupal-settingstray="editable">
+        <form action="/search" method="post" id="search-by-keyword-form" accept-charset="UTF-8" autocomplete="off">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search-textfield form-item-search-textfield">
+      <label class="visually-hidden" for="edit-search-textfield">Search Terms</label>
+        <input placeholder="Search by Keyword" data-drupal-selector="edit-search-textfield" type="text" id="edit-search-textfield" name="search_textfield" value="" size="60" maxlength="128" class="form-text" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-5z4gmdkiais1jm69bnzvpnldkvf8wnf2mh-eoeimpta" type="hidden" name="form_build_id" value="form-5z4GmdkIAIS1jm69BnzvpnldkvF8wNf2MH_EoEiMptA" />
+<input data-drupal-selector="edit-search-by-keyword-form" type="hidden" name="form_id" value="search_by_keyword_form" />
+<div data-drupal-selector="edit-search-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-search-actions"><input class="js-hide button button--primary js-form-submit form-submit" data-drupal-selector="edit-search-submit" type="submit" id="edit-search-submit" value="Search" />
+</div>
+
+</form>
+
+  </div>
+ </div>  <div class="coh-block main-menu-wrapper coh-ce-cpt_header_new-14d1b9bb"> <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="contextual-region settings-tray-editable" data-drupal-settingstray="editable">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu"></h2>
+  <div data-contextual-id="block:block=mainnavigation:has_overrides=0&amp;langcode=en|menu:menu=main:langcode=en|settings_tray::langcode=en" data-contextual-token="HUS-ksYayNpqnB-4VkZfH4NB7IaHbEAqDoH7RpyoCOU" data-drupal-ajax-container=""></div>
+
+        
+
+
+   
+
+  
+            <ul class="main-menu js-main-menu main-menu__level-0 js-main-menu__level-0" data-drupal-selector="main-menu" role="menubar">
+                          <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0 main-menu__item--collapsed">
+        <a href="/people" data-is-expandable-mobile="0" hide-cards="1" class="main-menu__link js-main-menu__link js-main-menu__link--level-0" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false" data-drupal-link-system-path="node/76866">People</a>
+        
+        
+        
+
+        
+      </li>
+                      <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0 js-menu-has-dropdown-pane">
+        <a href="/events" class="event-menu-item main-menu__link js-main-menu__link js-main-menu__link--level-0" data-is-expandable-mobile="0" hide-cards="0" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false" data-drupal-link-system-path="node/64751">Events</a>
+        
+                  <div class="main-menu__dropdown-pane js-dropdown-pane" style="display: none;">
+            <div class="coh-container-boxed">
+        
+        <div class="views-element-container">           <div  class="view view-event view-id-event view-display-id- js-view-dom-id-4994d512fcd977e9054cbffce9f68d752a02599c3b597a360ecf5ac2e256c27c coh-view"  >   <div> <div class="coh-view-contents views-infinite-scroll-content-wrapper clearfix" data-drupal-views-infinite-scroll-content-wrapper> <div class="coh-row coh-row-xs coh-row-visible-xs" data-coh-row-match-heights="{&quot;xs&quot;:{&quot;target&quot;:&quot;none&quot;}}"> <div class="coh-row-inner">      <div class="coh-column coh-ce-da9148fb coh-visible-xs coh-col-xs-4" >        <article  class="contextual-region" about="/event/baker-roundtable-annual-spring-dinner"><div data-contextual-id="node:node=83726:changed=1769464456&amp;langcode=en" data-contextual-token="N8UebfCAyfMFoajrMBu-8CADI9Yp5Vc-dV-Cyn30WQ0" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-94d8d325-0aa2-474a-8a94-99574ebcc6cc coh-component-instance-94d8d325-0aa2-474a-8a94-99574ebcc6cc coh-ce-cpt_event_vertical_dropdown_card-1990c705" >    <a href="javascript:void(0)" class="coh-link coh-ce-cpt_event_vertical_dropdown_card-44d5e58d" target="_self" aria-label="Image Link: Baker Roundtable Annual Spring Dinner" >      <picture>
+                  <source srcset="/sites/default/files/styles/5_2_medium_368x148/public/2022-08/BakerHall-Exterior-2.jpg?h=16b2dc28&amp;itok=0FapnNRm 1x, /sites/default/files/styles/5_2_medium_368x148_x2/public/2022-08/BakerHall-Exterior-2.jpg?h=16b2dc28&amp;itok=aiF0Y7Jm 2x" media="all and (min-width: 0)" type="image/jpeg" width="368" height="148"/>
+                  <img width="368" height="148" src="/sites/default/files/styles/5_2_medium_368x148/public/2022-08/BakerHall-Exterior-2.jpg?h=16b2dc28&amp;itok=0FapnNRm" alt="The front of Baker Hall, from across the plaza, with fountain in foreground" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>   <div class="coh-inline-element coh-ce-cpt_event_vertical_dropdown_card-4f3cf171"><a href="/events?f%5B0%5D=group%3ARoundtable">Roundtable</a></div>  <div class="coh-inline-element coh-ce-cpt_event_vertical_dropdown_card-7f66ef10">Wed, Apr. 15, 2026 | 6:30 pm - 8:30 pm</div>  <a href="https://www.bakerinstitute.org/event/baker-roundtable-annual-spring-dinner" class="coh-link coh-ce-cpt_event_vertical_dropdown_card-a5e4bf15" target="_self" > Baker Roundtable Annual Spring Dinner    </a>  <a href="https://www.bakerinstitute.org/event/baker-roundtable-annual-spring-dinner" class="coh-link coh-style-button-link--dark--link coh-ce-cpt_event_vertical_dropdown_card-e0c09173" target="_self" > See Details    </a> </div> 
+ </article> 
+   </div>      <div class="coh-column coh-ce-da9148fb coh-visible-xs coh-col-xs-4" >        <article  class="contextual-region" about="/event/article-ii-and-growth-american-presidency-john-yoo"><div data-contextual-id="node:node=84226:changed=1775490768&amp;langcode=en" data-contextual-token="lyIcIvbtEUJvOuprM7VGbN1guY6vYcbvRnaxW2IzZUk" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-94d8d325-0aa2-474a-8a94-99574ebcc6cc coh-component-instance-94d8d325-0aa2-474a-8a94-99574ebcc6cc coh-ce-cpt_event_vertical_dropdown_card-1990c705" >    <a href="javascript:void(0)" class="coh-link coh-ce-cpt_event_vertical_dropdown_card-44d5e58d" target="_self" aria-label="Image Link: Article II and the Growth of the American Presidency with John Yoo" >      <picture>
+                  <source srcset="/sites/default/files/styles/5_2_medium_368x148/public/2026-04/USConstitution_AdobeStock_336576387.jpg?h=34bbd072&amp;itok=9IGfgNlf 1x, /sites/default/files/styles/5_2_medium_368x148_x2/public/2026-04/USConstitution_AdobeStock_336576387.jpg?h=34bbd072&amp;itok=YkgFqutV 2x" media="all and (min-width: 0)" type="image/jpeg" width="368" height="148"/>
+                  <img width="368" height="148" src="/sites/default/files/styles/5_2_medium_368x148/public/2026-04/USConstitution_AdobeStock_336576387.jpg?h=34bbd072&amp;itok=9IGfgNlf" alt="USConstitution_BISFevent" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>   <div class="coh-inline-element coh-ce-cpt_event_vertical_dropdown_card-4f3cf171"><a href="/events?f%5B0%5D=group%3ABaker%20Institute%20Student%20Forum">Baker Institute Student Forum</a></div>  <div class="coh-inline-element coh-ce-cpt_event_vertical_dropdown_card-7f66ef10">Mon, Apr. 20, 2026 | 5 pm - 6:30 pm</div>  <a href="https://www.bakerinstitute.org/event/article-ii-and-growth-american-presidency-john-yoo" class="coh-link coh-ce-cpt_event_vertical_dropdown_card-a5e4bf15" target="_self" > Article II and the Growth of the American Presidency with John Yoo    </a>  <a href="https://www.bakerinstitute.org/event/article-ii-and-growth-american-presidency-john-yoo" class="coh-link coh-style-button-link--dark--link coh-ce-cpt_event_vertical_dropdown_card-e0c09173" target="_self" > See Details    </a> </div> 
+ </article> 
+   </div>      <div class="coh-column coh-ce-da9148fb coh-visible-xs coh-col-xs-4" >        <article  class="contextual-region" about="/event/last-lifeline-safeguarding-health-care-amidst-rising-global-conflict"><div data-contextual-id="node:node=84016:changed=1775511796&amp;langcode=en" data-contextual-token="4HJP85gjEB8VjXEE5GKLn7WEx-fgv4fW9y6ADQDif64" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-94d8d325-0aa2-474a-8a94-99574ebcc6cc coh-component-instance-94d8d325-0aa2-474a-8a94-99574ebcc6cc coh-ce-cpt_event_vertical_dropdown_card-1990c705" >    <a href="javascript:void(0)" class="coh-link coh-ce-cpt_event_vertical_dropdown_card-44d5e58d" target="_self" aria-label="Image Link: The Last Lifeline: Safeguarding Health Care Amidst Rising Global Conflict" >      <picture>
+                  <source srcset="/sites/default/files/styles/5_2_medium_368x148/public/2026-03/Al-Shifa%20Hospital_Ruins_2025_Wikipedia_WEB.jpg?h=d1cb525d&amp;itok=18OYH59G 1x, /sites/default/files/styles/5_2_medium_368x148_x2/public/2026-03/Al-Shifa%20Hospital_Ruins_2025_Wikipedia_WEB.jpg?h=d1cb525d&amp;itok=4anetnUX 2x" media="all and (min-width: 0)" type="image/jpeg" width="368" height="148"/>
+                  <img width="368" height="148" src="/sites/default/files/styles/5_2_medium_368x148/public/2026-03/Al-Shifa%20Hospital_Ruins_2025_Wikipedia_WEB.jpg?h=d1cb525d&amp;itok=18OYH59G" alt="Al-Shifa Hospital" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>   <div class="coh-inline-element coh-ce-cpt_event_vertical_dropdown_card-4f3cf171"></div>  <div class="coh-inline-element coh-ce-cpt_event_vertical_dropdown_card-7f66ef10">Tue, Apr. 21, 2026 | 9 am - 2:15 pm</div>  <a href="https://www.bakerinstitute.org/event/last-lifeline-safeguarding-health-care-amidst-rising-global-conflict" class="coh-link coh-ce-cpt_event_vertical_dropdown_card-a5e4bf15" target="_self" > The Last Lifeline: Safeguarding Health Care Amidst Rising Global Conflict    </a>  <a href="https://www.bakerinstitute.org/event/last-lifeline-safeguarding-health-care-amidst-rising-global-conflict" class="coh-link coh-style-button-link--dark--link coh-ce-cpt_event_vertical_dropdown_card-e0c09173" target="_self" > See Details    </a> </div> 
+ </article> 
+   </div>   </div> </div> </div>  </div> </div> 
+</div>
+
+
+                    </div>
+          </div>
+        
+      </li>
+                      <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0">
+        <a href="/podcasts" data-is-expandable-mobile="0" hide-cards="0" class="main-menu__link js-main-menu__link js-main-menu__link--level-0" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false" data-drupal-link-system-path="node/71871">Podcasts</a>
+        
+        
+        
+
+        
+      </li>
+                      <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0 main-menu__item--collapsed">
+        <a href="/centers-programs" class="main-menu__link js-main-menu__link js-main-menu__link--level-0" data-is-expandable-mobile="0" hide-cards="0" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false" data-drupal-link-system-path="node/64746">Research Programs</a>
+        
+        
+        
+
+        
+      </li>
+                      <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0">
+        <a href="/research-library" data-is-expandable-mobile="0" hide-cards="0" class="main-menu__link js-main-menu__link js-main-menu__link--level-0" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false" data-drupal-link-system-path="research-library">Research &amp; Commentary</a>
+        
+        
+        
+
+        
+      </li>
+                      <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0">
+        <a href="/press-room" data-is-expandable-mobile="0" hide-cards="0" class="main-menu__link js-main-menu__link js-main-menu__link--level-0" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false" data-drupal-link-system-path="node/77966">Press</a>
+        
+        
+        
+
+        
+      </li>
+                      <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0 main-menu__item--collapsed">
+        <a href="/support-institute" class="main-menu__link js-main-menu__link js-main-menu__link--level-0" data-is-expandable-mobile="0" hide-cards="0" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false" data-drupal-link-system-path="node/69121">Support</a>
+        
+        
+        
+
+        
+      </li>
+                      <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0 main-menu__item--collapsed">
+        <a href="/about-baker-institute-0" class="main-menu__link js-main-menu__link js-main-menu__link--level-0" data-is-expandable-mobile="0" hide-cards="0" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false" data-drupal-link-system-path="node/66661">About</a>
+        
+        
+        
+
+        
+      </li>
+                      <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0">
+        <a href="/newsletter" data-is-expandable-mobile="0" hide-cards="0" class="main-menu__link js-main-menu__link js-main-menu__link--level-0" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false" data-drupal-link-system-path="node/80021">Newsletter</a>
+        
+        
+        
+
+        
+      </li>
+                      <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0 main-menu__item--active-trail">
+        <a href="/search" data-is-expandable-mobile="0" hide-cards="0" class="main-menu__link js-main-menu__link js-main-menu__link--level-0 is-active" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false" data-drupal-link-system-path="search" aria-current="page">Search</a>
+        
+        
+        
+
+        
+      </li>
+                      <li class="main-menu__item js-main-menu__item main-menu__item--level-0 js-main-menu__item--level-0 main-menu__item--collapsed">
+        <span class="mobile-show-desktop-hide has-mobile-dropdown js-has-mobile-dropdown main-menu__link js-main-menu__link js-main-menu__link--level-0" data-is-expandable-mobile="1" tabindex="0" role="menuitem" aria-expanded="false" aria-haspopup="false">Research</span>
+        
+        
+        
+
+        
+      </li>
+              </ul>
+       
+
+  </nav>
+ </div>          <ul class="coh-menu-list-container coh-unordered-list coh-style-list-horizontal-no-markers coh-ce-529ce088"><li class="coh-menu-list-item" >   <a href="https://twitter.com/BakerInstitute"  target="_blank"   data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link js-coh-menu-item-link coh-style-social-link coh-style-social-link--twitter" >Twitter</a></li><li class="coh-menu-list-item" >   <a href="http://www.facebook.com/BakerInstitute"  target="_blank"   data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link js-coh-menu-item-link coh-style-social-link coh-style-social-link--facebook" >Facebook</a></li><li class="coh-menu-list-item" >   <a href="http://instagram.com/bakerinstitute"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link js-coh-menu-item-link coh-style-social-link coh-style-social-link--instagram" >instagram</a></li><li class="coh-menu-list-item" >   <a href="http://www.linkedin.com/company/james-a--baker-iii-institute-for-public-policy---rice-university"  target="_blank"   data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link js-coh-menu-item-link coh-style-social-link coh-style-social-link--linkedin" >Linkedin</a></li><li class="coh-menu-list-item" >   <a href="http://www.youtube.com/user/bakerinstitute"  target="_blank"   data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link js-coh-menu-item-link coh-style-social-link coh-style-social-link--youtube" >Youtube</a></li><li class="coh-menu-list-item" >   <a href="/newsletter"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link js-coh-menu-item-link coh-style-social-link coh-style-social-link--newsletter" >Newsletter</a></li></ul>   
+ </div>  <div class="coh-container research-menu coh-ce-cpt_header_new-d88cfe84" >  <div class="coh-container" >  <div class="coh-block bipp-topics coh-ce-cpt_header_new-f00b3ee8"> <div id="block-researchsubmenu" class="contextual-region settings-tray-editable" data-drupal-settingstray="editable">
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/economics-finance" data-is-expandable-mobile="0" hide-cards="0" data-drupal-link-system-path="node/65391">Economics &amp; Finance</a>
+              </li>
+                <li class="menu-item">
+        <a href="/latest-energy-research" data-is-expandable-mobile="0" hide-cards="0" data-drupal-link-system-path="node/65386">Energy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/foreign-policy" data-is-expandable-mobile="0" hide-cards="0" data-drupal-link-system-path="node/65396">Foreign Policy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/domestic-policy" data-is-expandable-mobile="0" hide-cards="0" data-drupal-link-system-path="node/65401">Domestic Policy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/health-science" data-is-expandable-mobile="0" hide-cards="0" data-drupal-link-system-path="node/65406">Health &amp; Science</a>
+              </li>
+                <li class="menu-item">
+        <a href="/research-library" class="has-arrow" data-is-expandable-mobile="0" data-drupal-link-system-path="research-library">All Publications</a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+ </div> </div> </div> </div> </div>     
+ </div> </header> <main role="main">
+<a id="main-content" tabindex="-1"></a>  <div class="coh-container coh-ce-87b02429" >                <div class="coh-inline-element ssa-component coh-component ssa-component-instance-3614402e-9a40-46fd-b1a2-db575d41f629 coh-component-instance-3614402e-9a40-46fd-b1a2-db575d41f629 banner-color--mint   coh-ce-cpt_banner_topic-1c734ebb">     <div class="coh-inline-element coh-ce-cpt_banner_topic-7025e63a"></div>     <div class="coh-container coh-ce-cpt_banner_topic-61fcb7af coh-container-boxed" >   <div class="coh-row coh-row-xs coh-row-visible-xs" data-coh-row-match-heights="{&quot;xs&quot;:{&quot;target&quot;:&quot;none&quot;}}"> <div class="coh-row-inner"> <div class="coh-column coh-col-xs coh-col-xs-push-0" > <h1 class="coh-heading coh-ce-cpt_banner_topic-3136dc50"  > Search Results </h1>   </div> </div> </div> </div>      </div> 
+  <div class="coh-container coh-container-boxed" >        <div class="coh-container ssa-component coh-component ssa-component-instance-2ba94f60-eb24-455d-b1f7-d413c4dadf24 coh-component-instance-2ba94f60-eb24-455d-b1f7-d413c4dadf24 print--hide coh-ce-cpt_drupal_admin_blocks_set-c6c4fbfb coh-container-boxed" >  <div class="coh-block"> <div data-drupal-messages-fallback class="hidden"></div>
+ </div>  <div class="coh-block">  </div>  <div class="coh-block">  </div> </div> 
+ <div class="coh-row coh-row-xs coh-row-visible-xs" data-coh-row-match-heights="{&quot;xs&quot;:{&quot;target&quot;:&quot;none&quot;}}"> <div class="coh-row-inner"> <div class="coh-column coh-style-separator-right-1-col-centered coh-ce-876e0ac0 coh-visible-xs coh-col-xs-12 coh-visible-md coh-col-md-4" >                <div class="coh-container ssa-component coh-component ssa-component-instance-0024319f-065b-44e0-ae52-fea7802faec2 coh-component-instance-0024319f-065b-44e0-ae52-fea7802faec2  hide-textfield-labels coh-ce-cpt_filters_mobile_pane_with_tog-7ab6cc6d" >  <div class="coh-container coh-ce-cpt_filters_mobile_pane_with_tog-8db1b045" >  <div class="coh-container coh-ce-cpt_filters_mobile_pane_with_tog-a7b46e2d" >     <div class="coh-block"> <div class="views-exposed-form bef-exposed-form contextual-region settings-tray-editable" data-bef-auto-submit-full-form="" data-bef-auto-submit="" data-bef-auto-submit-delay="500" data-drupal-selector="views-exposed-form-acquia-search-page" id="block-exposed-form-acquia-search-page" data-drupal-settingstray="editable">
+        <form action="/search" method="get" id="views-exposed-form-acquia-search-page" accept-charset="UTF-8" autocomplete="off">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search form-item-search">
+      <label for="edit-search--2">Search Terms</label>
+        <input placeholder="Search by Keyword" data-bef-auto-submit-exclude="" data-drupal-selector="edit-search" aria-label="Search Terms" type="text" id="edit-search--2" name="search" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-bef-auto-submit-click="" class="js-hide button js-form-submit form-submit" data-drupal-selector="edit-submit-acquia-search-2" type="submit" id="edit-submit-acquia-search--2" value="Search" />
+</div>
+
+
+</form>
+
+  </div>
+ </div>     </div>   <button class="coh-button js-toggle-filters mobile-show-desktop-hide coh-style-filters-toggler-button coh-ce-cpt_filters_mobile_pane_with_tog-171f634f coh-interaction" data-interaction-modifiers="[{&quot;modifierType&quot;:&quot;toggle-modifier&quot;,&quot;interactionScope&quot;:&quot;document&quot;,&quot;interactionTarget&quot;:&quot;.js-toggle-filters&quot;,&quot;modifierName&quot;:&quot;active&quot;}]" data-coh-settings='{ "xs":{"buttonAnimation":[{"animationType":"slide","animationScope":"document","animationDirection":"up","animationEasing":"swing","animationTarget":".js-mobile-hidden-filters"}]},"md":{"buttonAnimation":[{"animationType":"none"}]} }' type="button">Toggle Filters</button> </div>  <div class="coh-container js-mobile-hidden-filters coh-ce-cpt_filters_mobile_pane_with_tog-628d9401" >          <div class="coh-block coh-ce-ef7da4b4"> <div class="facet-inactive contextual-region block-facet--checkbox settings-tray-editable" id="block-contenttype" data-drupal-settingstray="editable">
+        
+  <div class="facets-widget-checkbox">
+              <div class="label">Filter By Type</div><ul data-drupal-facet-filter-key="f" data-drupal-facet-id="content_type" data-drupal-facet-alias="content_type" class="facet-inactive js-facets-checkbox-links item-list__checkbox coh-style-no-markers"><li class="facet-item"><a href="/search?f%5B0%5D=content_type%3Acenter" rel="nofollow" data-drupal-facet-item-id="content-type-center" data-drupal-facet-item-value="center" data-drupal-facet-item-count="5" data-drupal-facet-filter-value="content_type:center" data-drupal-facet-widget-element-class="facets-checkbox"><span class="facet-item__value">Center</span>
+</a></li>
+            <li class="facet-item"><a href="/search?f%5B0%5D=content_type%3Aevent" rel="nofollow" data-drupal-facet-item-id="content-type-event" data-drupal-facet-item-value="event" data-drupal-facet-item-count="1729" data-drupal-facet-filter-value="content_type:event" data-drupal-facet-widget-element-class="facets-checkbox"><span class="facet-item__value">Event</span>
+</a></li>
+            <li class="facet-item"><a href="/search?f%5B0%5D=content_type%3Aexpert" rel="nofollow" data-drupal-facet-item-id="content-type-expert" data-drupal-facet-item-value="expert" data-drupal-facet-item-count="209" data-drupal-facet-filter-value="content_type:expert" data-drupal-facet-widget-element-class="facets-checkbox"><span class="facet-item__value">Expert</span>
+</a></li>
+            <li class="facet-item"><a href="/search?f%5B0%5D=content_type%3Apage" rel="nofollow" data-drupal-facet-item-id="content-type-page" data-drupal-facet-item-value="page" data-drupal-facet-item-count="151" data-drupal-facet-filter-value="content_type:page" data-drupal-facet-widget-element-class="facets-checkbox"><span class="facet-item__value">Landing page</span>
+</a></li>
+            <li class="facet-item"><a href="/search?f%5B0%5D=content_type%3Amicrosite" rel="nofollow" data-drupal-facet-item-id="content-type-microsite" data-drupal-facet-item-value="microsite" data-drupal-facet-item-count="13" data-drupal-facet-filter-value="content_type:microsite" data-drupal-facet-widget-element-class="facets-checkbox"><span class="facet-item__value">Microsite</span>
+</a></li>
+            <li class="facet-item"><a href="/search?f%5B0%5D=content_type%3Aprogram" rel="nofollow" data-drupal-facet-item-id="content-type-program" data-drupal-facet-item-value="program" data-drupal-facet-item-count="24" data-drupal-facet-filter-value="content_type:program" data-drupal-facet-widget-element-class="facets-checkbox"><span class="facet-item__value">Program</span>
+</a></li>
+            <li class="facet-item"><a href="/search?f%5B0%5D=content_type%3Aresearch" rel="nofollow" data-drupal-facet-item-id="content-type-research" data-drupal-facet-item-value="research" data-drupal-facet-item-count="3286" data-drupal-facet-filter-value="content_type:research" data-drupal-facet-widget-element-class="facets-checkbox"><span class="facet-item__value">Research</span>
+</a></li>
+            <li class="facet-item"><a href="/search?f%5B0%5D=content_type%3Astaff" rel="nofollow" data-drupal-facet-item-id="content-type-staff" data-drupal-facet-item-value="staff" data-drupal-facet-item-count="35" data-drupal-facet-filter-value="content_type:staff" data-drupal-facet-widget-element-class="facets-checkbox"><span class="facet-item__value">Staff</span>
+</a></li>
+            </ul>  </div>
+  </div>
+ </div>    </div> </div> 
+ </div> <div class="coh-column coh-visible-xs coh-col-xs-12 coh-visible-md coh-col-md-8 coh-col-md-push-0 coh-col-md-pull-0 coh-col-md-offset-0" >   <div>
+    <div id="block-baker-institute-content">
+        <div class="views-element-container contextual-region">          <div  class="contextual-region view view-acquia-search view-id-acquia_search view-display-id- js-view-dom-id-716785951ca3a61a5177bb0266085bdbe9e2fce0d86657ee3bc527861ca45144 coh-view"  >   <div>   <div class="coh-container test coh-ce-744a068" > <div class="coh-view-contents views-infinite-scroll-content-wrapper clearfix" data-drupal-views-infinite-scroll-content-wrapper>  <strong class="coh-inline-element"> 5452 Results   </strong>             <article  class="contextual-region" about="/event/synthetic-biology-intersection-science-ethics-and-policy"><div data-contextual-id="node:node=84161:changed=1775234517&amp;langcode=en" data-contextual-token="Aqcez64Axo2IcSuH6k39DIkf44tIvf7FvBHCjCBhhOc" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 coh-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 test coh-ce-cpt_search_result_card-a09f7139" >  <a href="https://www.bakerinstitute.org/event/synthetic-biology-intersection-science-ethics-and-policy" class="coh-link mobile-hide-desktop-show ratio-1-1 coh-style-aspect-ratio-box coh-ce-cpt_search_result_card-1ed49813" target="_self" aria-label="Image Link: Synthetic Biology at the Intersection of Science, Ethics and Policy" >      <picture>
+                  <source srcset="/sites/default/files/styles/1_1_small_184x184/public/2026-04/STP-SynBio-Banner_CROP.jpg?h=ee3fe6a0&amp;itok=8KVvOLWE 1x, /sites/default/files/styles/1_1_small_184x184_x2/public/2026-04/STP-SynBio-Banner_CROP.jpg?h=ee3fe6a0&amp;itok=gKh3_vRZ 2x" media="all and (min-width: 0)" type="image/jpeg" width="184" height="184"/>
+                  <img width="184" height="184" src="/sites/default/files/styles/1_1_small_184x184/public/2026-04/STP-SynBio-Banner_CROP.jpg?h=ee3fe6a0&amp;itok=8KVvOLWE" alt="SynBio-Crop" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>  <div class="coh-inline-element coh-ce-cpt_search_result_card-d895dd4c">   <div class="coh-inline-element coh-ce-cpt_search_result_card-77d59f42"><a href="/scitech" hreflang="en">Science and Technology Policy</a></div>   <a href="https://www.bakerinstitute.org/event/synthetic-biology-intersection-science-ethics-and-policy" class="coh-link coh-ce-cpt_search_result_card-b0dae930" target="_self" > Synthetic Biology at the Intersection of Science, Ethics and Policy    </a>    <div class="coh-inline-element coh-ce-cpt_search_result_card-975390ea">  <p dir="ltr"><span>Synthetic biology is an interdisciplinary field combining biological and engineering to designing and redesigning genes…</span></p>
+
+</div>   <span class="coh-inline-element coh-ce-cpt_search_result_card-17c1a948">September 18, 2026</span> </div> </div> 
+ </article> 
+               <article  class="contextual-region" about="/event/addressing-protracted-displacement-middle-east-and-north-africa"><div data-contextual-id="node:node=84211:changed=1775573680&amp;langcode=en" data-contextual-token="5Q2X24a0XztTQVxwjUAFYa8dObMexbHPsDxErwdlVbI" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 coh-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 test coh-ce-cpt_search_result_card-a09f7139" >  <a href="https://www.bakerinstitute.org/event/addressing-protracted-displacement-middle-east-and-north-africa" class="coh-link mobile-hide-desktop-show ratio-1-1 coh-style-aspect-ratio-box coh-ce-cpt_search_result_card-1ed49813" target="_self" aria-label="Image Link: Addressing Protracted Displacement in the Middle East and North Africa" >      <picture>
+                  <source srcset="/sites/default/files/styles/1_1_small_184x184/public/2026-03/AdobeStock_628069197_Refugee_Camp.jpeg?h=2e111cc1&amp;itok=WlAHQSY5 1x, /sites/default/files/styles/1_1_small_184x184_x2/public/2026-03/AdobeStock_628069197_Refugee_Camp.jpeg?h=2e111cc1&amp;itok=_oqekv_V 2x" media="all and (min-width: 0)" type="image/jpeg" width="184" height="184"/>
+                  <img width="184" height="184" src="/sites/default/files/styles/1_1_small_184x184/public/2026-03/AdobeStock_628069197_Refugee_Camp.jpeg?h=2e111cc1&amp;itok=WlAHQSY5" alt="Syrian Refugee Camp" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>  <div class="coh-inline-element coh-ce-cpt_search_result_card-d895dd4c">   <div class="coh-inline-element coh-ce-cpt_search_result_card-77d59f42"><a href="/center/edward-p-djerejian-center-middle-east" hreflang="en">Edward P. Djerejian Center for the Middle East</a> | <a href="/program/womens-rights-human-rights-and-refugees" hreflang="en">Women’s Rights, Human Rights, and Refugees</a></div>   <a href="https://www.bakerinstitute.org/event/addressing-protracted-displacement-middle-east-and-north-africa" class="coh-link coh-ce-cpt_search_result_card-b0dae930" target="_self" > Addressing Protracted Displacement in the Middle East and North Africa    </a>    <div class="coh-inline-element coh-ce-cpt_search_result_card-975390ea">  <p dir="ltr"><span>Around the world, refugee situations are increasingly protracted, with displacement lasting about 20 years for refugees and…</span></p>
+
+</div>   <span class="coh-inline-element coh-ce-cpt_search_result_card-17c1a948">May 14, 2026</span> </div> </div> 
+ </article> 
+               <article  class="contextual-region" about="/event/kingdom-football-saudi-arabia-and-remaking-world-soccer"><div data-contextual-id="node:node=83841:changed=1771438106&amp;langcode=en" data-contextual-token="qXwbaioce3an5jXVDRKYr9fbHH6kHe5QQCvWvWYgNBg" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 coh-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 test coh-ce-cpt_search_result_card-a09f7139" >  <a href="https://www.bakerinstitute.org/event/kingdom-football-saudi-arabia-and-remaking-world-soccer" class="coh-link mobile-hide-desktop-show ratio-1-1 coh-style-aspect-ratio-box coh-ce-cpt_search_result_card-1ed49813" target="_self" aria-label="Image Link: Kingdom of Football: Saudi Arabia and the Remaking of World Soccer" >      <picture>
+                  <source srcset="/sites/default/files/styles/1_1_small_184x184/public/2026-02/AdobeStock_462624365_SaudiArabia_WorldCupjpeg.jpeg?h=94b3766a&amp;itok=V--l9U59 1x, /sites/default/files/styles/1_1_small_184x184_x2/public/2026-02/AdobeStock_462624365_SaudiArabia_WorldCupjpeg.jpeg?h=94b3766a&amp;itok=DFFm9Oiv 2x" media="all and (min-width: 0)" type="image/jpeg" width="184" height="184"/>
+                  <img width="184" height="184" src="/sites/default/files/styles/1_1_small_184x184/public/2026-02/AdobeStock_462624365_SaudiArabia_WorldCupjpeg.jpeg?h=94b3766a&amp;itok=V--l9U59" alt="Saudi Arabia World Cup" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>  <div class="coh-inline-element coh-ce-cpt_search_result_card-d895dd4c">   <div class="coh-inline-element coh-ce-cpt_search_result_card-77d59f42"><a href="/center/edward-p-djerejian-center-middle-east" hreflang="en">Edward P. Djerejian Center for the Middle East</a></div>   <a href="https://www.bakerinstitute.org/event/kingdom-football-saudi-arabia-and-remaking-world-soccer" class="coh-link coh-ce-cpt_search_result_card-b0dae930" target="_self" > Kingdom of Football: Saudi Arabia and the Remaking of World Soccer    </a>    <div class="coh-inline-element coh-ce-cpt_search_result_card-975390ea">  <p dir="ltr"><span>From signing Brazilian World Cup captain Roberto Rivelino back in 1978 to bringing in Cristiano Ronaldo, one of the most…</span></p>
+
+</div>   <span class="coh-inline-element coh-ce-cpt_search_result_card-17c1a948">April 29, 2026</span> </div> </div> 
+ </article> 
+               <article  class="contextual-region" about="/event/us-policy-outlook"><div data-contextual-id="node:node=83876:changed=1774645859&amp;langcode=en" data-contextual-token="dUAxJRjPH4y-SGtha_Ggs-LZAd1_KaKL4F_ss_M6TJ8" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 coh-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 test coh-ce-cpt_search_result_card-a09f7139" >  <a href="https://www.bakerinstitute.org/event/us-policy-outlook" class="coh-link mobile-hide-desktop-show ratio-1-1 coh-style-aspect-ratio-box coh-ce-cpt_search_result_card-1ed49813" target="_self" aria-label="Image Link: US Policy Outlook" >      <picture>
+                  <source srcset="/sites/default/files/styles/1_1_small_184x184/public/2026-02/AdobeStock_299870691_Capitol%20Hill_WEB.jpeg?h=1615299c&amp;itok=z_INu5n5 1x, /sites/default/files/styles/1_1_small_184x184_x2/public/2026-02/AdobeStock_299870691_Capitol%20Hill_WEB.jpeg?h=1615299c&amp;itok=nwbFSAYN 2x" media="all and (min-width: 0)" type="image/jpeg" width="184" height="184"/>
+                  <img width="184" height="184" src="/sites/default/files/styles/1_1_small_184x184/public/2026-02/AdobeStock_299870691_Capitol%20Hill_WEB.jpeg?h=1615299c&amp;itok=z_INu5n5" alt="Capitol Hill" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>  <div class="coh-inline-element coh-ce-cpt_search_result_card-d895dd4c">   <div class="coh-inline-element coh-ce-cpt_search_result_card-77d59f42"><a href="/center/claudio-x-gonzalez-center-us-and-mexico" hreflang="en">Claudio X. González Center for the US and Mexico</a></div>   <a href="https://www.bakerinstitute.org/event/us-policy-outlook" class="coh-link coh-ce-cpt_search_result_card-b0dae930" target="_self" > US Policy Outlook    </a>    <div class="coh-inline-element coh-ce-cpt_search_result_card-975390ea">  <p dir="ltr"><span>On April 28, in collaboration with&nbsp;</span><a href="https://www.consejomexicano.org/">Consejo Mexicano de Asuntos Internacionales (COMEXI<span>) </span></a><span>and&nbsp;</span><a href="https://mexicocomovamos.mx/">México, ¿cómo vamos?</a><span>, the Baker…</span></p>
+
+</div>   <span class="coh-inline-element coh-ce-cpt_search_result_card-17c1a948">April 28, 2026</span> </div> </div> 
+ </article> 
+               <article  class="contextual-region" about="/event/annual-sustainability-summit-innovations-and-collaborations-circularity-supply-chain"><div data-contextual-id="node:node=84021:changed=1775739532&amp;langcode=en" data-contextual-token="Jw6D5U6hWDmZ5Q-BTfu24X1EEnZdP6vdRhMTyNswsOk" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 coh-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 test coh-ce-cpt_search_result_card-a09f7139" >  <a href="https://www.bakerinstitute.org/event/annual-sustainability-summit-innovations-and-collaborations-circularity-supply-chain" class="coh-link mobile-hide-desktop-show ratio-1-1 coh-style-aspect-ratio-box coh-ce-cpt_search_result_card-1ed49813" target="_self" aria-label="Image Link: Annual Sustainability Summit: Innovations and Collaborations in Circularity &amp; Supply Chain Resilience" >      <picture>
+                  <source srcset="/sites/default/files/styles/1_1_small_184x184/public/2026-03/AdobeStock_454244890_SolarPanels_City_WEB.jpeg?h=76ee3549&amp;itok=JrGAxNLt 1x, /sites/default/files/styles/1_1_small_184x184_x2/public/2026-03/AdobeStock_454244890_SolarPanels_City_WEB.jpeg?h=76ee3549&amp;itok=YCYOCB6O 2x" media="all and (min-width: 0)" type="image/jpeg" width="184" height="184"/>
+                  <img width="184" height="184" src="/sites/default/files/styles/1_1_small_184x184/public/2026-03/AdobeStock_454244890_SolarPanels_City_WEB.jpeg?h=76ee3549&amp;itok=JrGAxNLt" alt="Solar panels with city view" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>  <div class="coh-inline-element coh-ce-cpt_search_result_card-d895dd4c">   <div class="coh-inline-element coh-ce-cpt_search_result_card-77d59f42"><a href="/center/center-energy-studies" hreflang="en">Center for Energy Studies</a></div>   <a href="https://www.bakerinstitute.org/event/annual-sustainability-summit-innovations-and-collaborations-circularity-supply-chain" class="coh-link coh-ce-cpt_search_result_card-b0dae930" target="_self" > Annual Sustainability Summit: Innovations and Collaborations in Circularity &amp; Supply Chain Resilience    </a>    <div class="coh-inline-element coh-ce-cpt_search_result_card-975390ea">  <p dir="ltr"><span>As sustainability continues to evolve in response to global challenges, addressing them at the intersection of energy…</span></p>
+
+</div>   <span class="coh-inline-element coh-ce-cpt_search_result_card-17c1a948">April 22, 2026</span> </div> </div> 
+ </article> 
+               <article  class="contextual-region" about="/event/last-lifeline-safeguarding-health-care-amidst-rising-global-conflict"><div data-contextual-id="node:node=84016:changed=1775511796&amp;langcode=en" data-contextual-token="4HJP85gjEB8VjXEE5GKLn7WEx-fgv4fW9y6ADQDif64" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 coh-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 test coh-ce-cpt_search_result_card-a09f7139" >  <a href="https://www.bakerinstitute.org/event/last-lifeline-safeguarding-health-care-amidst-rising-global-conflict" class="coh-link mobile-hide-desktop-show ratio-1-1 coh-style-aspect-ratio-box coh-ce-cpt_search_result_card-1ed49813" target="_self" aria-label="Image Link: The Last Lifeline: Safeguarding Health Care Amidst Rising Global Conflict" >      <picture>
+                  <source srcset="/sites/default/files/styles/1_1_small_184x184/public/2026-03/Al-Shifa%20Hospital_Ruins_2025_Wikipedia_WEB.jpg?h=d1cb525d&amp;itok=Ftg3P2_1 1x, /sites/default/files/styles/1_1_small_184x184_x2/public/2026-03/Al-Shifa%20Hospital_Ruins_2025_Wikipedia_WEB.jpg?h=d1cb525d&amp;itok=1FeJodnr 2x" media="all and (min-width: 0)" type="image/jpeg" width="184" height="184"/>
+                  <img width="184" height="184" src="/sites/default/files/styles/1_1_small_184x184/public/2026-03/Al-Shifa%20Hospital_Ruins_2025_Wikipedia_WEB.jpg?h=d1cb525d&amp;itok=Ftg3P2_1" alt="Al-Shifa Hospital" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>  <div class="coh-inline-element coh-ce-cpt_search_result_card-d895dd4c">   <a href="https://www.bakerinstitute.org/event/last-lifeline-safeguarding-health-care-amidst-rising-global-conflict" class="coh-link coh-ce-cpt_search_result_card-b0dae930" target="_self" > The Last Lifeline: Safeguarding Health Care Amidst Rising Global Conflict    </a>    <div class="coh-inline-element coh-ce-cpt_search_result_card-975390ea">  <p dir="ltr"><span>Hospitals and other health facilities perform life-saving functions during armed conflict and are protected under…</span></p>
+
+</div>   <span class="coh-inline-element coh-ce-cpt_search_result_card-17c1a948">April 21, 2026</span> </div> </div> 
+ </article> 
+               <article  class="contextual-region" about="/event/article-ii-and-growth-american-presidency-john-yoo"><div data-contextual-id="node:node=84226:changed=1775490768&amp;langcode=en" data-contextual-token="lyIcIvbtEUJvOuprM7VGbN1guY6vYcbvRnaxW2IzZUk" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 coh-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 test coh-ce-cpt_search_result_card-a09f7139" >  <a href="https://www.bakerinstitute.org/event/article-ii-and-growth-american-presidency-john-yoo" class="coh-link mobile-hide-desktop-show ratio-1-1 coh-style-aspect-ratio-box coh-ce-cpt_search_result_card-1ed49813" target="_self" aria-label="Image Link: Article II and the Growth of the American Presidency with John Yoo" >      <picture>
+                  <source srcset="/sites/default/files/styles/1_1_small_184x184/public/2026-04/USConstitution_AdobeStock_336576387.jpg?h=34bbd072&amp;itok=5XGhBXqd 1x, /sites/default/files/styles/1_1_small_184x184_x2/public/2026-04/USConstitution_AdobeStock_336576387.jpg?h=34bbd072&amp;itok=nwRheB6L 2x" media="all and (min-width: 0)" type="image/jpeg" width="184" height="184"/>
+                  <img width="184" height="184" src="/sites/default/files/styles/1_1_small_184x184/public/2026-04/USConstitution_AdobeStock_336576387.jpg?h=34bbd072&amp;itok=5XGhBXqd" alt="USConstitution_BISFevent" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>  <div class="coh-inline-element coh-ce-cpt_search_result_card-d895dd4c">   <div class="coh-inline-element coh-ce-cpt_search_result_card-77d59f42"><a href="/events?f%5B0%5D=group%3ABaker%20Institute%20Student%20Forum">Baker Institute Student Forum</a></div>   <a href="https://www.bakerinstitute.org/event/article-ii-and-growth-american-presidency-john-yoo" class="coh-link coh-ce-cpt_search_result_card-b0dae930" target="_self" > Article II and the Growth of the American Presidency with John Yoo    </a>    <div class="coh-inline-element coh-ce-cpt_search_result_card-975390ea">  <p dir="ltr"><span>As presidential power has expanded over time, questions about the limits of executive authority under Article II of the…</span></p>
+
+</div>   <span class="coh-inline-element coh-ce-cpt_search_result_card-17c1a948">April 20, 2026</span> </div> </div> 
+ </article> 
+               <article  class="contextual-region" about="/event/baker-roundtable-annual-spring-dinner"><div data-contextual-id="node:node=83726:changed=1769464456&amp;langcode=en" data-contextual-token="N8UebfCAyfMFoajrMBu-8CADI9Yp5Vc-dV-Cyn30WQ0" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 coh-component-instance-cf116c47-b741-4b69-b16b-2ffe6311ba75 test coh-ce-cpt_search_result_card-a09f7139" >  <a href="https://www.bakerinstitute.org/event/baker-roundtable-annual-spring-dinner" class="coh-link mobile-hide-desktop-show ratio-1-1 coh-style-aspect-ratio-box coh-ce-cpt_search_result_card-1ed49813" target="_self" aria-label="Image Link: Baker Roundtable Annual Spring Dinner" >      <picture>
+                  <source srcset="/sites/default/files/styles/1_1_small_184x184/public/2022-08/BakerHall-Exterior-2.jpg?h=16b2dc28&amp;itok=ljrxJ_MN 1x, /sites/default/files/styles/1_1_small_184x184_x2/public/2022-08/BakerHall-Exterior-2.jpg?h=16b2dc28&amp;itok=F18msK8S 2x" media="all and (min-width: 0)" type="image/jpeg" width="184" height="184"/>
+                  <img width="184" height="184" src="/sites/default/files/styles/1_1_small_184x184/public/2022-08/BakerHall-Exterior-2.jpg?h=16b2dc28&amp;itok=ljrxJ_MN" alt="The front of Baker Hall, from across the plaza, with fountain in foreground" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>  <div class="coh-inline-element coh-ce-cpt_search_result_card-d895dd4c">   <div class="coh-inline-element coh-ce-cpt_search_result_card-77d59f42"><a href="/events?f%5B0%5D=group%3ARoundtable">Roundtable</a></div>   <a href="https://www.bakerinstitute.org/event/baker-roundtable-annual-spring-dinner" class="coh-link coh-ce-cpt_search_result_card-b0dae930" target="_self" > Baker Roundtable Annual Spring Dinner    </a>    <div class="coh-inline-element coh-ce-cpt_search_result_card-975390ea">  <p dir="ltr"><span>Members of the&nbsp;</span><a href="https://www.bakerinstitute.org/join-baker-roundtable">Baker Roundtable</a><span> are invited to attend the Annual Baker Roundtable Spring Dinner. Guests will enjoy a…</span></p>
+
+</div>   <span class="coh-inline-element coh-ce-cpt_search_result_card-17c1a948">April 15, 2026</span> </div> </div> 
+ </article> 
+               <article  class="contextual-region" about="/research/binational-bank-tackling-borders-water-crisis"><div data-contextual-id="node:node=84306:changed=1776099664&amp;langcode=en" data-contextual-token="l6QBI6sDfm0AT0C53K5xDHEoeFEjiMqy_chysD2T7Eg" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-63228fc8-d39f-4aa9-8c90-da7e931ee2fb coh-component-instance-63228fc8-d39f-4aa9-8c90-da7e931ee2fb test coh-ce-cpt_search_result_card-a09f7139" >  <a href="https://www.bakerinstitute.org/research/binational-bank-tackling-borders-water-crisis" class="coh-link mobile-hide-desktop-show ratio-1-1 coh-style-aspect-ratio-box coh-ce-cpt_search_result_card-1ed49813" target="_self" aria-label="Image Link: The Binational Bank Tackling the Border’s Water Crisis" >      <picture>
+                  <source srcset="/sites/default/files/styles/1_1_small_184x184/public/2026-04/border%20water.png?h=c1db9d61&amp;itok=Sbm9JIUB 1x, /sites/default/files/styles/1_1_small_184x184_x2/public/2026-04/border%20water.png?h=c1db9d61&amp;itok=fyXE01J0 2x" media="all and (min-width: 0)" type="image/png" width="184" height="184"/>
+                  <img width="184" height="184" src="/sites/default/files/styles/1_1_small_184x184/public/2026-04/border%20water.png?h=c1db9d61&amp;itok=Sbm9JIUB" alt="u.s. Mexico border" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>  <div class="coh-inline-element coh-ce-cpt_search_result_card-d895dd4c">   <div class="coh-inline-element coh-ce-cpt_search_result_card-77d59f42"><a href="/program/judy-ley-allen-mexico-centered" hreflang="en">Judy Ley Allen México Centered</a> | <a href="/center/claudio-x-gonzalez-center-us-and-mexico" hreflang="en">Claudio X. González Center for the US and Mexico</a> | <a href="/research-library?new_jersey_state_exempt_firemen%27s_association=&amp;f%5B0%5D=type%3A5306" rel="nofollow">Podcast</a></div>   <a href="https://www.bakerinstitute.org/research/binational-bank-tackling-borders-water-crisis" class="coh-link coh-ce-cpt_search_result_card-b0dae930" target="_self" > The Binational Bank Tackling the Border’s Water Crisis    </a>    <div class="coh-inline-element coh-ce-cpt_search_result_card-975390ea">  Paco Calderón, a cartoonist who has documented much of Mexico's political and social landscape, joined “México Centered” to…
+
+</div>   <span class="coh-inline-element coh-ce-cpt_search_result_card-17c1a948">April 13, 2026</span> </div> </div> 
+ </article> 
+               <article  class="contextual-region" about="/research/new-texas-hemp-rules-and-future-cannabis-policy"><div data-contextual-id="node:node=84301:changed=1776104245&amp;langcode=en" data-contextual-token="_Ry3xskrN5m_bZi1TxewGdVqn7DPalzKyiTVTBELdKU" data-drupal-ajax-container=""></div>               <div class="coh-container ssa-component coh-component ssa-component-instance-63228fc8-d39f-4aa9-8c90-da7e931ee2fb coh-component-instance-63228fc8-d39f-4aa9-8c90-da7e931ee2fb test coh-ce-cpt_search_result_card-a09f7139" >  <a href="https://www.bakerinstitute.org/research/new-texas-hemp-rules-and-future-cannabis-policy" class="coh-link mobile-hide-desktop-show ratio-1-1 coh-style-aspect-ratio-box coh-ce-cpt_search_result_card-1ed49813" target="_self" aria-label="Image Link: New Texas Hemp Rules and the Future of Cannabis Policy" >      <picture>
+                  <source srcset="/sites/default/files/styles/1_1_small_184x184/public/2026-04/AdobeStock_491627578-Hemp%2BOil_Web.jpg?h=c3635fa2&amp;itok=cHk_QvVm 1x, /sites/default/files/styles/1_1_small_184x184_x2/public/2026-04/AdobeStock_491627578-Hemp%2BOil_Web.jpg?h=c3635fa2&amp;itok=twAXIjR6 2x" media="all and (min-width: 0)" type="image/jpeg" width="184" height="184"/>
+                  <img width="184" height="184" src="/sites/default/files/styles/1_1_small_184x184/public/2026-04/AdobeStock_491627578-Hemp%2BOil_Web.jpg?h=c3635fa2&amp;itok=cHk_QvVm" alt="Macro close up of droplet dosing a biological and ecological hemp" loading="lazy" typeof="foaf:Image" />
+
+  </picture>
+ </a>  <div class="coh-inline-element coh-ce-cpt_search_result_card-d895dd4c">   <div class="coh-inline-element coh-ce-cpt_search_result_card-77d59f42"><a href="/program/texas-briefing" hreflang="en">Texas Briefing</a> | <a href="/program/drug-policy" hreflang="en">Drug Policy</a> | <a href="/research-library?%D0%A6%D0%9A%D0%A1=&amp;f%5B0%5D=type%3A5306" rel="nofollow">Podcast</a></div>   <a href="https://www.bakerinstitute.org/research/new-texas-hemp-rules-and-future-cannabis-policy" class="coh-link coh-ce-cpt_search_result_card-b0dae930" target="_self" > New Texas Hemp Rules and the Future of Cannabis Policy    </a>    <div class="coh-inline-element coh-ce-cpt_search_result_card-975390ea">  In this episode, Ed Emmett and Katharine Neill Harris examine Texas’ new hemp regulations, including what has changed and…
+
+</div>   <span class="coh-inline-element coh-ce-cpt_search_result_card-17c1a948">April 13, 2026</span> </div> </div> 
+ </article> 
+     </div>    <nav class="pager" role="navigation" aria-labelledby="pagination-heading">
+    <div id="pagination-heading" class="visually-hidden">Pagination</div>
+    <ul class="pager__items js-pager__items">
+                                                        <li class="pager__item is-active">
+                                          <a href="?page=0" title="Current page" aria-label="Current page"  aria-current="page">
+            <span class="visually-hidden">
+              Current page
+            </span>1</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=1" title="Go to page 2" aria-label="Go to page 2" >
+            <span class="visually-hidden">
+              Page
+            </span>2</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=2" title="Go to page 3" aria-label="Go to page 3" >
+            <span class="visually-hidden">
+              Page
+            </span>3</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=3" title="Go to page 4" aria-label="Go to page 4" >
+            <span class="visually-hidden">
+              Page
+            </span>4</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=4" title="Go to page 5" aria-label="Go to page 5" >
+            <span class="visually-hidden">
+              Page
+            </span>5</a>
+        </li>
+              <li class="pager__item">
+                                          <a href="?page=5" title="Go to page 6" aria-label="Go to page 6" >
+            <span class="visually-hidden">
+              Page
+            </span>6</a>
+        </li>
+                          <li class="pager__item pager__item--ellipsis" role="presentation">&hellip;</li>
+                          <li class="pager__item pager__item--last">
+          <a href="?page=545" title="Go to last page" aria-label="Go to last page" >
+            <span class="visually-hidden">Last page</span>
+            <span aria-hidden="true">Last</span>
+          </a>
+        </li>
+                          <li class="pager__item pager__item--next">
+          <a href="?page=1" title="Go to next page" aria-label="Go to next page" rel="next">
+            <span class="visually-hidden">Next page</span>
+            <span aria-hidden="true">Next Page</span>
+          </a>
+        </li>
+      
+    </ul>
+  </nav>
+  </div>  </div> </div> 
+</div>
+
+  </div>
+
+  </div>
+ </div> </div> </div> </div> </div> </main> <footer role="contentinfo">  <div class="coh-container print--hide coh-ce-3985e4dd" >           <div class="coh-container ssa-component coh-component ssa-component-instance-5b31e2bb-1462-4b53-873e-d697ec0561ee coh-component-instance-5b31e2bb-1462-4b53-873e-d697ec0561ee coh-ce-cpt_footer_new-6b830285" >  <div class="coh-container coh-ce-cpt_footer_new-7f43b0e7" >  <div class="coh-container coh-container-boxed" > <div class="coh-row coh-row-xs coh-row-visible-xs" data-coh-row-match-heights="{&quot;xs&quot;:{&quot;target&quot;:&quot;none&quot;}}"> <div class="coh-row-inner coh-ce-cpt_footer_new-c6cf56d7"> <div class="coh-column coh-ce-cpt_footer_new-ec5c4da4 coh-visible-xs coh-col-xs-12 coh-visible-sm coh-col-sm-4 coh-visible-md coh-col-md-4 coh-visible-lg coh-col-lg-4" >  <a href="/" class="coh-link coh-ce-cpt_footer_new-3349dcac" target="_self" aria-label="Baker Insitute: Home" >  <div class="coh-inline-element mobile-show-tablet-hide"><svg
+   id="Layer_2"
+   viewBox="0 0 504.35 218.89"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;stroke-width:0px;}</style>
+  </defs>
+  <g
+     id="Layer_1-2">
+    <path
+       class="cls-1"
+       d="m185.35,91.93V27.33h26.64c6.96,0,12.28,1.47,15.97,4.41,3.69,2.94,5.53,7.2,5.53,12.78,0,3.24-.79,6.06-2.38,8.46-1.59,2.4-3.79,4.2-6.61,5.4,3.42,1.14,6.1,3.07,8.05,5.8s2.92,5.95,2.92,9.67c0,5.64-1.93,10.06-5.8,13.27s-9.22,4.81-16.06,4.81h-28.25Zm12.69-38.33h12.69c3.36,0,5.91-.65,7.65-1.93,1.74-1.29,2.61-3.19,2.61-5.71s-.87-4.35-2.61-5.67c-1.74-1.32-4.29-1.98-7.65-1.98h-12.69v15.3Zm0,10.71v16.56h14.67c3.12,0,5.56-.73,7.33-2.2,1.77-1.47,2.65-3.49,2.65-6.07s-.88-4.53-2.65-6.03c-1.77-1.5-4.21-2.25-7.33-2.25h-14.67Z"
+       id="path6" />
+    <path
+       class="cls-1"
+       d="m263.37,91.41c-2.4.87-5.1,1.31-8.1,1.31-4.74,0-8.61-1.25-11.61-3.75-3-2.5-4.5-5.76-4.5-9.78s1.39-7.14,4.18-9.56c2.79-2.41,7.09-4.12,12.91-5.11l11.79-2.18v-.7c0-2.15-.6-3.75-1.8-4.8-1.2-1.05-3.03-1.57-5.49-1.57-2.28,0-4.08.49-5.4,1.48-1.32.99-2.25,2.53-2.79,4.63l-11.97-2.18c1.2-4.25,3.64-7.65,7.33-10.21s8.11-3.84,13.27-3.84c6.18,0,10.92,1.37,14.22,4.1,3.3,2.74,4.95,6.69,4.95,11.87v18.77c0,1.22.3,2.05.9,2.49s1.59.57,2.97.39v9.17c-3.9.52-7.09.44-9.58-.26s-4.27-2.04-5.35-4.02c-1.56,1.63-3.54,2.88-5.94,3.75Zm1.75-10.13c1.95-1.45,2.93-3.35,2.93-5.67v-4.71l-9.27,1.83c-2.58.47-4.42,1.16-5.53,2.1-1.11.93-1.66,2.15-1.66,3.67s.55,2.79,1.66,3.67c1.11.87,2.63,1.31,4.54,1.31,2.94,0,5.38-.73,7.33-2.18Z"
+       id="path8" />
+    <path
+       class="cls-1"
+       d="m302.87,27.33v35.63l16.56-18.36h15.12l-17.37,18,18.72,29.33h-14.4l-13.05-20.25-5.58,5.76v14.49h-12.6V27.33h12.6Z"
+       id="path10" />
+    <path
+       class="cls-1"
+       d="m346.97,91.13c-2.94-1.2-5.46-2.94-7.56-5.22-2.04-2.22-3.6-4.83-4.68-7.83-1.08-3-1.62-6.27-1.62-9.81s.54-6.52,1.62-9.49c1.08-2.97,2.64-5.56,4.68-7.78,2.1-2.34,4.59-4.14,7.47-5.4,2.88-1.26,5.97-1.89,9.27-1.89,6.6,0,11.85,2.17,15.75,6.52s5.85,10.06,5.85,17.14v3.69h-32.57c.42,3.6,1.66,6.42,3.73,8.46,2.07,2.04,4.66,3.06,7.78,3.06,2.52,0,4.66-.6,6.43-1.8s3.01-2.91,3.73-5.13l10.62,3.78c-1.68,4.2-4.36,7.5-8.05,9.9s-7.96,3.6-12.82,3.6c-3.48,0-6.69-.6-9.63-1.8Zm2.47-35.09c-1.83,1.5-3.1,3.66-3.82,6.48h19.62c-.06-2.64-.91-4.75-2.56-6.34-1.65-1.59-3.85-2.38-6.61-2.38-2.58,0-4.78.75-6.61,2.25Z"
+       id="path12" />
+    <path
+       class="cls-1"
+       d="m411.17,44.38c.45.03,1.03.08,1.75.14v12.33c-.84-.12-1.56-.19-2.16-.23-.6-.03-1.23-.04-1.89-.04-3.48,0-6.28,1.02-8.41,3.06-2.13,2.04-3.19,4.8-3.19,8.28v24.03h-12.6v-47.33h12.6v6.66c1.08-2.16,2.74-3.85,4.99-5.08s4.78-1.84,7.6-1.84c.42,0,.85.01,1.3.04Z"
+       id="path14" />
+    <path
+       class="cls-1"
+       d="m198.58,98.75v64.61h-13.23v-64.61h13.23Z"
+       id="path16" />
+    <path
+       class="cls-1"
+       d="m206.95,163.36v-47.33h12.6v4.86c1.56-1.86,3.45-3.28,5.67-4.27s4.65-1.49,7.29-1.49c4.86,0,8.73,1.53,11.61,4.59,2.88,3.06,4.32,7.2,4.32,12.42v31.22h-12.6v-27.63c0-2.94-.64-5.19-1.93-6.75-1.29-1.56-3.16-2.34-5.62-2.34s-4.6.85-6.25,2.57c-1.65,1.71-2.47,3.97-2.47,6.79v27.35h-12.6Z"
+       id="path18" />
+    <path
+       class="cls-1"
+       d="m261.17,161.92c-3.99-1.62-7-3.81-9.04-6.57l7.83-8.01c1.62,2.16,3.73,3.9,6.34,5.22s5.26,1.98,7.96,1.98c2.46,0,4.39-.44,5.8-1.31s2.11-2.05,2.11-3.55c0-1.08-.33-1.93-.99-2.56s-1.83-1.15-3.51-1.57c-.42-.12-.93-.24-1.53-.36s-2.28-.45-5.04-.99c-3.06-.6-5.38-1.19-6.97-1.75-1.59-.57-2.95-1.21-4.09-1.93-1.68-1.08-2.94-2.44-3.78-4.09-.84-1.65-1.26-3.61-1.26-5.89,0-4.56,1.8-8.26,5.4-11.11,3.6-2.85,8.25-4.27,13.95-4.27,4.02,0,7.8.75,11.34,2.25,3.54,1.5,6.27,3.48,8.19,5.94l-7.2,7.92c-1.56-2.04-3.45-3.6-5.67-4.68-2.22-1.08-4.56-1.62-7.02-1.62-1.98,0-3.57.39-4.77,1.17-1.2.78-1.8,1.83-1.8,3.15,0,.9.27,1.62.81,2.16.54.54,1.44.99,2.7,1.35.48.18,1.03.35,1.67.49.63.15,1.9.41,3.82.77,3.66.78,6.3,1.44,7.92,1.98,1.62.54,3.03,1.14,4.23,1.8,1.98,1.14,3.46,2.58,4.45,4.32.99,1.74,1.48,3.81,1.48,6.21,0,4.74-1.93,8.59-5.8,11.56s-8.77,4.45-14.71,4.45c-4.56,0-8.83-.81-12.82-2.43Z"
+       id="path20" />
+    <path
+       class="cls-1"
+       d="m305.39,160.84c-2.28-2.04-3.42-5.31-3.42-9.81v-24.48h-5.24v-10.53h5.24v-13.5h12.42v13.5h9.63v10.53h-9.63v21.87c0,1.68.4,2.86,1.21,3.55.81.69,2.38,1.03,4.72,1.03.72,0,1.35-.01,1.89-.04.54-.03,1.35-.11,2.43-.23v10.44c-1.2.24-2.47.42-3.82.54s-2.77.18-4.27.18c-5.16,0-8.88-1.02-11.16-3.06Z"
+       id="path22" />
+    <path
+       class="cls-1"
+       d="m330.59,110.45v-11.7h12.87v11.7h-12.87Zm12.78,5.58v47.33h-12.6v-47.33h12.6Z"
+       id="path24" />
+    <path
+       class="cls-1"
+       d="m358.21,160.84c-2.28-2.04-3.42-5.31-3.42-9.81v-24.48h-6.3v-10.53h6.3v-13.5h12.42v13.5h9.63v10.53h-9.63v21.87c0,1.68.4,2.86,1.21,3.55.81.69,2.38,1.03,4.72,1.03.72,0,1.35-.01,1.89-.04.54-.03,1.35-.11,2.43-.23v10.44c-1.2.24-2.47.42-3.82.54-1.35.12-2.77.18-4.27.18-5.16,0-8.88-1.02-11.16-3.06Z"
+       id="path26" />
+    <path
+       class="cls-1"
+       d="m424.26,116.03v47.33h-12.6v-4.86c-1.62,1.92-3.51,3.37-5.67,4.36-2.16.99-4.53,1.48-7.11,1.48-4.86,0-8.76-1.54-11.7-4.63-2.94-3.09-4.41-7.21-4.41-12.37v-31.31h12.6v28.53c0,2.82.65,4.96,1.93,6.43s3.16,2.2,5.62,2.2,4.53-.87,6.21-2.61c1.68-1.74,2.52-3.99,2.52-6.75v-27.81h12.6Z"
+       id="path28" />
+    <path
+       class="cls-1"
+       d="m438.75,160.84c-2.28-2.04-3.42-5.31-3.42-9.81v-24.48h-6.3v-10.53h6.3v-13.5h12.42v13.5h9.63v10.53h-9.63v21.87c0,1.68.4,2.86,1.21,3.55.81.69,2.38,1.03,4.72,1.03.72,0,1.35-.01,1.89-.04.54-.03,1.35-.11,2.43-.23v10.44c-1.2.24-2.47.42-3.82.54s-2.77.18-4.27.18c-5.16,0-8.88-1.02-11.16-3.06Z"
+       id="path30" />
+    <path
+       class="cls-1"
+       d="m473.57,162.55c-2.94-1.2-5.46-2.94-7.56-5.22-2.04-2.22-3.6-4.83-4.68-7.83-1.08-3-1.62-6.27-1.62-9.81s.54-6.52,1.62-9.49,2.64-5.56,4.68-7.78c2.1-2.34,4.59-4.14,7.47-5.4,2.88-1.26,5.97-1.89,9.27-1.89,6.6,0,11.85,2.17,15.75,6.52s5.85,10.06,5.85,17.14v3.69h-32.57c.42,3.6,1.66,6.42,3.73,8.46,2.07,2.04,4.66,3.06,7.78,3.06,2.52,0,4.66-.6,6.43-1.8s3.01-2.91,3.73-5.13l10.62,3.78c-1.68,4.2-4.36,7.5-8.05,9.9s-7.96,3.6-12.82,3.6c-3.48,0-6.69-.6-9.63-1.8Zm2.47-35.09c-1.83,1.5-3.11,3.66-3.83,6.48h19.62c-.06-2.64-.91-4.75-2.56-6.34-1.65-1.59-3.85-2.38-6.61-2.38-2.58,0-4.78.75-6.61,2.25Z"
+       id="path32" />
+    <path
+       class="cls-1"
+       d="m195.83,177c.27.01.55.05.82.11v2.7c-.46-.06-.82-.1-1.08-.12-.26-.01-.54-.02-.85-.02-1.37,0-2.39.39-3.04,1.17-.66.78-.98,1.98-.98,3.59v1.97h5.67v2.61h-5.67v21.28h-3.07v-21.28h-3.75v-2.61h3.75v-2.2c0-2.26.61-4.03,1.83-5.31,1.22-1.28,2.9-1.92,5.03-1.92.61,0,1.05,0,1.33.02Z"
+       id="path34" />
+    <path
+       class="cls-1"
+       d="m217.75,193.56c.46,1.48.69,3.07.69,4.78s-.23,3.3-.69,4.78c-.46,1.48-1.14,2.77-2.06,3.87-.95,1.22-2.1,2.15-3.48,2.79-1.37.64-2.88.96-4.53.96s-3.15-.32-4.51-.96c-1.36-.64-2.52-1.57-3.5-2.79-.88-1.1-1.56-2.39-2.01-3.87s-.69-3.07-.69-4.78.23-3.3.69-4.78,1.13-2.77,2.01-3.87c.98-1.22,2.14-2.15,3.5-2.79,1.36-.64,2.86-.96,4.51-.96s3.16.32,4.53.96c1.37.64,2.53,1.57,3.48,2.79.92,1.1,1.6,2.39,2.06,3.87Zm-15.65-2.33c-1.4,1.78-2.1,4.16-2.1,7.11s.7,5.33,2.1,7.12c1.4,1.78,3.26,2.68,5.58,2.68s4.18-.89,5.58-2.68c1.4-1.79,2.1-4.16,2.1-7.12s-.7-5.33-2.1-7.11c-1.4-1.78-3.26-2.68-5.58-2.68s-4.18.89-5.58,2.68Z"
+       id="path36" />
+    <path
+       class="cls-1"
+       d="m234.31,186.22c.3.03.58.08.82.14v3.02c-.3-.06-.61-.11-.91-.14s-.66-.05-1.05-.05c-1.8,0-3.32.73-4.58,2.2-1.25,1.46-1.88,3.29-1.88,5.49v13.41h-3.02v-23.88h3.02v4.53c.61-1.5,1.49-2.66,2.65-3.5,1.16-.84,2.5-1.26,4.03-1.26.3,0,.61.02.92.05Z"
+       id="path38" />
+    <path
+       class="cls-1"
+       d="m251.7,195.65v14.64h-3.2v-32.85h12.08c3.48,0,6.17.79,8.08,2.38,1.91,1.59,2.86,3.83,2.86,6.72s-.97,5.1-2.9,6.7c-1.94,1.6-4.61,2.4-8.03,2.4h-8.88Zm0-2.79h8.65c2.56,0,4.54-.55,5.93-1.65s2.08-2.65,2.08-4.67-.69-3.61-2.06-4.69c-1.37-1.08-3.36-1.62-5.95-1.62h-8.65v12.63Z"
+       id="path40" />
+    <path
+       class="cls-1"
+       d="m292.74,186.4v23.88h-3.02v-3.84c-.76,1.34-1.8,2.39-3.11,3.16-1.31.76-2.78,1.14-4.39,1.14-2.47,0-4.41-.77-5.81-2.31-1.4-1.54-2.1-3.64-2.1-6.29v-15.74h3.02v15.19c0,2.04.48,3.61,1.44,4.71.96,1.1,2.36,1.65,4.19,1.65.91,0,1.79-.18,2.63-.55.84-.37,1.58-.87,2.22-1.51.64-.64,1.12-1.39,1.44-2.24.32-.85.48-1.77.48-2.75v-14.5h3.02Z"
+       id="path42" />
+    <path
+       class="cls-1"
+       d="m314.36,209.76c-1.33.66-2.78.98-4.37.98-1.74,0-3.3-.42-4.69-1.26s-2.45-1.99-3.18-3.45v4.26h-3.02v-32.85h3.02v13.22c.73-1.46,1.79-2.62,3.18-3.45s2.95-1.26,4.69-1.26c1.59,0,3.04.33,4.37.98,1.33.66,2.45,1.62,3.36,2.91.82,1.1,1.45,2.38,1.88,3.84.43,1.46.64,3.02.64,4.67s-.21,3.2-.64,4.67c-.43,1.46-1.05,2.75-1.88,3.84-.91,1.28-2.04,2.25-3.36,2.91Zm-11.83-15.74c-.3,1.02-.46,2.16-.46,3.41v1.97c0,1.22.15,2.34.46,3.36s.76,1.91,1.37,2.68c.7.85,1.54,1.51,2.52,1.97.98.46,2,.69,3.06.69,2.35,0,4.22-.89,5.63-2.68,1.4-1.78,2.1-4.14,2.1-7.07s-.7-5.28-2.1-7.05c-1.4-1.77-3.28-2.65-5.63-2.65-1.07,0-2.1.24-3.09.71-.99.47-1.82,1.14-2.49,1.99-.61.76-1.07,1.65-1.37,2.68Z"
+       id="path44" />
+    <path
+       class="cls-1"
+       d="m328.33,177.44v32.85h-3.02v-32.85h3.02Z"
+       id="path46" />
+    <path
+       class="cls-1"
+       d="m334.88,181.51v-4.07h3.52v4.07h-3.52Zm3.25,4.9v23.88h-3.02v-23.88h3.02Z"
+       id="path48" />
+    <path
+       class="cls-1"
+       d="m348.37,191.28c-1.43,1.78-2.15,4.14-2.15,7.07s.72,5.32,2.15,7.09c1.43,1.77,3.33,2.65,5.67,2.65,1.68,0,3.07-.48,4.19-1.44,1.11-.96,1.87-2.31,2.26-4.05l2.75,1.1c-.55,2.2-1.64,3.92-3.27,5.17s-3.61,1.88-5.93,1.88c-1.65,0-3.16-.31-4.55-.94-1.39-.63-2.57-1.55-3.55-2.77-.88-1.1-1.56-2.39-2.04-3.87-.47-1.48-.71-3.09-.71-4.83s.24-3.35.71-4.83c.47-1.48,1.15-2.77,2.04-3.87.98-1.19,2.16-2.1,3.55-2.74,1.39-.64,2.91-.96,4.55-.96,2.29,0,4.24.62,5.86,1.88,1.62,1.25,2.71,2.96,3.3,5.12l-2.7,1.14c-.4-1.74-1.15-3.09-2.26-4.05-1.11-.96-2.51-1.44-4.19-1.44-2.35,0-4.24.89-5.67,2.68Z"
+       id="path50" />
+    <path
+       class="cls-1"
+       d="m380.17,195.65v14.64h-3.2v-32.85h12.08c3.48,0,6.17.79,8.08,2.38,1.91,1.59,2.86,3.83,2.86,6.72s-.97,5.1-2.91,6.7-4.61,2.4-8.03,2.4h-8.88Zm0-2.79h8.65c2.56,0,4.54-.55,5.93-1.65s2.08-2.65,2.08-4.67-.69-3.61-2.06-4.69c-1.37-1.08-3.36-1.62-5.95-1.62h-8.65v12.63Z"
+       id="path52" />
+    <path
+       class="cls-1"
+       d="m421.44,193.56c.46,1.48.69,3.07.69,4.78s-.23,3.3-.69,4.78-1.14,2.77-2.06,3.87c-.95,1.22-2.1,2.15-3.48,2.79-1.37.64-2.88.96-4.53.96s-3.15-.32-4.51-.96c-1.36-.64-2.52-1.57-3.5-2.79-.89-1.1-1.56-2.39-2.01-3.87s-.69-3.07-.69-4.78.23-3.3.69-4.78,1.13-2.77,2.01-3.87c.98-1.22,2.14-2.15,3.5-2.79,1.36-.64,2.86-.96,4.51-.96s3.16.32,4.53.96c1.37.64,2.53,1.57,3.48,2.79.91,1.1,1.6,2.39,2.06,3.87Zm-15.65-2.33c-1.4,1.78-2.1,4.16-2.1,7.11s.7,5.33,2.1,7.12c1.4,1.78,3.26,2.68,5.58,2.68s4.18-.89,5.58-2.68c1.4-1.79,2.1-4.16,2.1-7.12s-.7-5.33-2.1-7.11c-1.4-1.78-3.26-2.68-5.58-2.68s-4.18.89-5.58,2.68Z"
+       id="path54" />
+    <path
+       class="cls-1"
+       d="m430.18,177.44v32.85h-3.02v-32.85h3.02Z"
+       id="path56" />
+    <path
+       class="cls-1"
+       d="m436.72,181.51v-4.07h3.52v4.07h-3.52Zm3.25,4.9v23.88h-3.02v-23.88h3.02Z"
+       id="path58" />
+    <path
+       class="cls-1"
+       d="m450.45,191.28c-1.43,1.78-2.15,4.14-2.15,7.07s.72,5.32,2.15,7.09c1.43,1.77,3.33,2.65,5.67,2.65,1.68,0,3.07-.48,4.19-1.44,1.11-.96,1.87-2.31,2.26-4.05l2.75,1.1c-.55,2.2-1.64,3.92-3.27,5.17s-3.61,1.88-5.93,1.88c-1.65,0-3.16-.31-4.55-.94-1.39-.63-2.57-1.55-3.55-2.77-.88-1.1-1.56-2.39-2.04-3.87-.47-1.48-.71-3.09-.71-4.83s.24-3.35.71-4.83c.47-1.48,1.15-2.77,2.04-3.87.98-1.19,2.16-2.1,3.55-2.74,1.39-.64,2.91-.96,4.55-.96,2.29,0,4.24.62,5.86,1.88,1.62,1.25,2.71,2.96,3.3,5.12l-2.7,1.14c-.4-1.74-1.15-3.09-2.26-4.05-1.11-.96-2.51-1.44-4.19-1.44-2.35,0-4.24.89-5.67,2.68Z"
+       id="path60" />
+    <path
+       class="cls-1"
+       d="m477.58,213.21c-.82,2.1-1.75,3.58-2.77,4.42s-2.31,1.26-3.87,1.26c-.4,0-.75-.02-1.08-.07-.32-.05-.69-.11-1.12-.21v-2.7c.37.12.69.21.98.25.29.05.65.07,1.08.07.91,0,1.65-.26,2.22-.78.56-.52,1.11-1.42,1.62-2.7l1.37-3.29-8.97-23.06h3.2l7.37,19.49,7.37-19.49h3.16l-10.57,26.81Z"
+       id="path62" />
+    <path
+       class="cls-1"
+       d="m31.49,156.61h2.4v-69.57h-2.42c-.31,0-.57-.28-.58-.62-.05-1.96-.67-3.39-1.28-4.35-.49-.77-1.33-1.23-2.24-1.23h-.1v-3.14h4.96v-18.08c0-17.81-14.42-32.26-32.22-32.3v136.06h27.26v-3.01h.13c.91,0,1.75-.28,2.24-.75.58-.55,1.17-1.36,1.27-2.46.03-.28.27-.55.59-.55ZM157.08.22v6.16H0V.22h157.08Zm-78.54,27.1h0,0Zm0,136.05h27.26v-3.01h.13c.91,0,1.75-.28,2.24-.75.58-.55,1.17-1.36,1.27-2.46.03-.28.27-.55.59-.55h2.4v-69.57h0s-2.42,0-2.42,0c-.31,0-.57-.28-.58-.62-.05-1.96-.67-3.39-1.28-4.35-.49-.77-1.33-1.23-2.24-1.23h-.1v-3.14h4.96v-18.08c0-17.81-14.42-32.25-32.22-32.3-17.84,0-32.31,14.46-32.31,32.31v18.08h4.96v3.14h-.13c-.91,0-1.75.47-2.24,1.23-.61.95-1.23,2.39-1.28,4.35,0,.34-.26.62-.58.62h-2.32v69.57h0s2.4,0,2.4,0c.32,0,.56.27.59.55.1,1.1.69,1.91,1.27,2.46.49.46,1.28.75,2.19.75h0s.1,0,.1,0v3.01h27.35m78.54,0V27.32c-17.84,0-32.31,14.46-32.31,32.31v18.08h4.96v3.14h-.13c-.91,0-1.75.47-2.24,1.23-.61.95-1.23,2.39-1.28,4.35,0,.34-.26.62-.58.62h-2.32s0,69.57,0,69.57h0s2.4,0,2.4,0c.32,0,.56.27.59.55.1,1.1.69,1.91,1.27,2.46.49.46,1.28.75,2.19.75h0s.1,0,.1,0v3.01h27.35"
+       id="path64" />
+    <path
+       class="cls-1"
+       d="m187.37,15.34h-2.02V.23h5.76c3.2,0,5.24,1.49,5.24,4.38,0,2.42-1.47,3.89-3.87,4.29l4.19,6.44h-2.31l-4.06-6.33h-2.92v6.33Zm3.64-8.08c2.15,0,3.35-.95,3.35-2.65s-1.2-2.63-3.35-2.63h-3.64v5.28h3.64Z"
+       id="path66" />
+    <path
+       class="cls-1"
+       d="m203.98,15.34h-2.02V.23h2.02v15.11Z"
+       id="path68" />
+    <path
+       class="cls-1"
+       d="m216.5,13.78c1.96,0,3.37-1.14,3.91-3.05l1.91.63c-.88,2.61-2.95,4.21-5.83,4.21-3.91,0-6.8-3.18-6.8-7.78s2.88-7.79,6.8-7.79c2.88,0,4.94,1.6,5.83,4.21l-1.91.63c-.55-1.91-1.96-3.05-3.91-3.05-2.8,0-4.78,2.42-4.78,6s1.98,6,4.78,6Z"
+       id="path70" />
+    <path
+       class="cls-1"
+       d="m237.5.23v1.77h-7.87v4.65h6.67v1.77h-6.67v5.16h7.87v1.77h-9.87V.23h9.87Z"
+       id="path72" />
+    <path
+       class="cls-1"
+       d="m251.09,9.36V.23h2.02v9.07c0,3.09,1.64,4.44,3.91,4.44s3.93-1.35,3.93-4.44V.23h2.02v9.13c0,4.17-2.52,6.19-5.95,6.19s-5.93-2.02-5.93-6.19Z"
+       id="path74" />
+    <path
+       class="cls-1"
+       d="m280.93,15.34h-1.75l-8.25-12.16v12.16h-1.94V.23h2.12l7.85,11.68V.23h1.96v15.11Z"
+       id="path76" />
+    <path
+       class="cls-1"
+       d="m289.87,15.34h-2.02V.23h2.02v15.11Z"
+       id="path78" />
+    <path
+       class="cls-1"
+       d="m300.06,15.34l-5.74-15.11h2.17l4.67,12.58,4.67-12.58h2.06l-5.7,15.11h-2.12Z"
+       id="path80" />
+    <path
+       class="cls-1"
+       d="m322.01.23v1.77h-7.87v4.65h6.67v1.77h-6.67v5.16h7.87v1.77h-9.87V.23h9.87Z"
+       id="path82" />
+    <path
+       class="cls-1"
+       d="m329.86,15.34h-2.02V.23h5.76c3.2,0,5.24,1.49,5.24,4.38,0,2.42-1.47,3.89-3.87,4.29l4.19,6.44h-2.31l-4.06-6.33h-2.93v6.33Zm3.64-8.08c2.15,0,3.35-.95,3.35-2.65s-1.2-2.63-3.35-2.63h-3.64v5.28h3.64Z"
+       id="path84" />
+    <path
+       class="cls-1"
+       d="m344.55,10.96c.95,1.81,2.65,2.86,4.61,2.86s3.47-.97,3.47-2.69c0-1.83-1.75-2.15-4.04-2.69-2.38-.57-4.73-1.22-4.73-4.06,0-2.65,2.29-4.38,5.16-4.38,2.63,0,4.52,1.26,5.43,2.97l-1.54,1.22c-.78-1.45-1.98-2.44-3.93-2.44-1.83,0-3.16,1.01-3.16,2.46,0,1.6,1.41,1.94,3.54,2.44,2.5.59,5.26,1.11,5.26,4.31,0,2.82-2.5,4.61-5.49,4.61-2.61,0-5.11-1.3-6.14-3.35l1.58-1.26Z"
+       id="path86" />
+    <path
+       class="cls-1"
+       d="m362.52,15.34h-2.02V.23h2.02v15.11Z"
+       id="path88" />
+    <path
+       class="cls-1"
+       d="m374.11,2v13.34h-2.02V2h-5.11V.23h12.24v1.77h-5.11Z"
+       id="path90" />
+    <path
+       class="cls-1"
+       d="m392.53.23h2.15l-5.47,8.75v6.35h-2.02v-6.35l-5.47-8.75h2.19l4.31,6.92,4.31-6.92Z"
+       id="path92" />
+    <path
+       class="cls-1"
+       d="m397.75.23h2.4v2.59c0,1.6-1.05,2.63-2.74,2.67v-1.09c.93-.08,1.43-.57,1.43-1.49v-.23h-1.09V.23Z"
+       id="path94" />
+    <path
+       class="cls-1"
+       d="m403.79,10.96c.95,1.81,2.65,2.86,4.61,2.86s3.47-.97,3.47-2.69c0-1.83-1.75-2.15-4.04-2.69-2.38-.57-4.73-1.22-4.73-4.06,0-2.65,2.29-4.38,5.16-4.38,2.63,0,4.52,1.26,5.43,2.97l-1.54,1.22c-.78-1.45-1.98-2.44-3.93-2.44-1.83,0-3.16,1.01-3.16,2.46,0,1.6,1.41,1.94,3.54,2.44,2.5.59,5.26,1.11,5.26,4.31,0,2.82-2.5,4.61-5.49,4.61-2.61,0-5.11-1.3-6.14-3.35l1.58-1.26Z"
+       id="path96" />
+  </g>
+</svg></div>  <div class="coh-inline-element mobile-hide-tablet-show coh-ce-cpt_footer_new-6bcde2e3"><svg
+   id="Layer_2"
+   viewBox="0 0 504.35 218.89"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;stroke-width:0px;}</style>
+  </defs>
+  <g
+     id="Layer_1-2">
+    <path
+       class="cls-1"
+       d="m185.35,91.93V27.33h26.64c6.96,0,12.28,1.47,15.97,4.41,3.69,2.94,5.53,7.2,5.53,12.78,0,3.24-.79,6.06-2.38,8.46-1.59,2.4-3.79,4.2-6.61,5.4,3.42,1.14,6.1,3.07,8.05,5.8s2.92,5.95,2.92,9.67c0,5.64-1.93,10.06-5.8,13.27s-9.22,4.81-16.06,4.81h-28.25Zm12.69-38.33h12.69c3.36,0,5.91-.65,7.65-1.93,1.74-1.29,2.61-3.19,2.61-5.71s-.87-4.35-2.61-5.67c-1.74-1.32-4.29-1.98-7.65-1.98h-12.69v15.3Zm0,10.71v16.56h14.67c3.12,0,5.56-.73,7.33-2.2,1.77-1.47,2.65-3.49,2.65-6.07s-.88-4.53-2.65-6.03c-1.77-1.5-4.21-2.25-7.33-2.25h-14.67Z"
+       id="path6" />
+    <path
+       class="cls-1"
+       d="m263.37,91.41c-2.4.87-5.1,1.31-8.1,1.31-4.74,0-8.61-1.25-11.61-3.75-3-2.5-4.5-5.76-4.5-9.78s1.39-7.14,4.18-9.56c2.79-2.41,7.09-4.12,12.91-5.11l11.79-2.18v-.7c0-2.15-.6-3.75-1.8-4.8-1.2-1.05-3.03-1.57-5.49-1.57-2.28,0-4.08.49-5.4,1.48-1.32.99-2.25,2.53-2.79,4.63l-11.97-2.18c1.2-4.25,3.64-7.65,7.33-10.21s8.11-3.84,13.27-3.84c6.18,0,10.92,1.37,14.22,4.1,3.3,2.74,4.95,6.69,4.95,11.87v18.77c0,1.22.3,2.05.9,2.49s1.59.57,2.97.39v9.17c-3.9.52-7.09.44-9.58-.26s-4.27-2.04-5.35-4.02c-1.56,1.63-3.54,2.88-5.94,3.75Zm1.75-10.13c1.95-1.45,2.93-3.35,2.93-5.67v-4.71l-9.27,1.83c-2.58.47-4.42,1.16-5.53,2.1-1.11.93-1.66,2.15-1.66,3.67s.55,2.79,1.66,3.67c1.11.87,2.63,1.31,4.54,1.31,2.94,0,5.38-.73,7.33-2.18Z"
+       id="path8" />
+    <path
+       class="cls-1"
+       d="m302.87,27.33v35.63l16.56-18.36h15.12l-17.37,18,18.72,29.33h-14.4l-13.05-20.25-5.58,5.76v14.49h-12.6V27.33h12.6Z"
+       id="path10" />
+    <path
+       class="cls-1"
+       d="m346.97,91.13c-2.94-1.2-5.46-2.94-7.56-5.22-2.04-2.22-3.6-4.83-4.68-7.83-1.08-3-1.62-6.27-1.62-9.81s.54-6.52,1.62-9.49c1.08-2.97,2.64-5.56,4.68-7.78,2.1-2.34,4.59-4.14,7.47-5.4,2.88-1.26,5.97-1.89,9.27-1.89,6.6,0,11.85,2.17,15.75,6.52s5.85,10.06,5.85,17.14v3.69h-32.57c.42,3.6,1.66,6.42,3.73,8.46,2.07,2.04,4.66,3.06,7.78,3.06,2.52,0,4.66-.6,6.43-1.8s3.01-2.91,3.73-5.13l10.62,3.78c-1.68,4.2-4.36,7.5-8.05,9.9s-7.96,3.6-12.82,3.6c-3.48,0-6.69-.6-9.63-1.8Zm2.47-35.09c-1.83,1.5-3.1,3.66-3.82,6.48h19.62c-.06-2.64-.91-4.75-2.56-6.34-1.65-1.59-3.85-2.38-6.61-2.38-2.58,0-4.78.75-6.61,2.25Z"
+       id="path12" />
+    <path
+       class="cls-1"
+       d="m411.17,44.38c.45.03,1.03.08,1.75.14v12.33c-.84-.12-1.56-.19-2.16-.23-.6-.03-1.23-.04-1.89-.04-3.48,0-6.28,1.02-8.41,3.06-2.13,2.04-3.19,4.8-3.19,8.28v24.03h-12.6v-47.33h12.6v6.66c1.08-2.16,2.74-3.85,4.99-5.08s4.78-1.84,7.6-1.84c.42,0,.85.01,1.3.04Z"
+       id="path14" />
+    <path
+       class="cls-1"
+       d="m198.58,98.75v64.61h-13.23v-64.61h13.23Z"
+       id="path16" />
+    <path
+       class="cls-1"
+       d="m206.95,163.36v-47.33h12.6v4.86c1.56-1.86,3.45-3.28,5.67-4.27s4.65-1.49,7.29-1.49c4.86,0,8.73,1.53,11.61,4.59,2.88,3.06,4.32,7.2,4.32,12.42v31.22h-12.6v-27.63c0-2.94-.64-5.19-1.93-6.75-1.29-1.56-3.16-2.34-5.62-2.34s-4.6.85-6.25,2.57c-1.65,1.71-2.47,3.97-2.47,6.79v27.35h-12.6Z"
+       id="path18" />
+    <path
+       class="cls-1"
+       d="m261.17,161.92c-3.99-1.62-7-3.81-9.04-6.57l7.83-8.01c1.62,2.16,3.73,3.9,6.34,5.22s5.26,1.98,7.96,1.98c2.46,0,4.39-.44,5.8-1.31s2.11-2.05,2.11-3.55c0-1.08-.33-1.93-.99-2.56s-1.83-1.15-3.51-1.57c-.42-.12-.93-.24-1.53-.36s-2.28-.45-5.04-.99c-3.06-.6-5.38-1.19-6.97-1.75-1.59-.57-2.95-1.21-4.09-1.93-1.68-1.08-2.94-2.44-3.78-4.09-.84-1.65-1.26-3.61-1.26-5.89,0-4.56,1.8-8.26,5.4-11.11,3.6-2.85,8.25-4.27,13.95-4.27,4.02,0,7.8.75,11.34,2.25,3.54,1.5,6.27,3.48,8.19,5.94l-7.2,7.92c-1.56-2.04-3.45-3.6-5.67-4.68-2.22-1.08-4.56-1.62-7.02-1.62-1.98,0-3.57.39-4.77,1.17-1.2.78-1.8,1.83-1.8,3.15,0,.9.27,1.62.81,2.16.54.54,1.44.99,2.7,1.35.48.18,1.03.35,1.67.49.63.15,1.9.41,3.82.77,3.66.78,6.3,1.44,7.92,1.98,1.62.54,3.03,1.14,4.23,1.8,1.98,1.14,3.46,2.58,4.45,4.32.99,1.74,1.48,3.81,1.48,6.21,0,4.74-1.93,8.59-5.8,11.56s-8.77,4.45-14.71,4.45c-4.56,0-8.83-.81-12.82-2.43Z"
+       id="path20" />
+    <path
+       class="cls-1"
+       d="m305.39,160.84c-2.28-2.04-3.42-5.31-3.42-9.81v-24.48h-5.24v-10.53h5.24v-13.5h12.42v13.5h9.63v10.53h-9.63v21.87c0,1.68.4,2.86,1.21,3.55.81.69,2.38,1.03,4.72,1.03.72,0,1.35-.01,1.89-.04.54-.03,1.35-.11,2.43-.23v10.44c-1.2.24-2.47.42-3.82.54s-2.77.18-4.27.18c-5.16,0-8.88-1.02-11.16-3.06Z"
+       id="path22" />
+    <path
+       class="cls-1"
+       d="m330.59,110.45v-11.7h12.87v11.7h-12.87Zm12.78,5.58v47.33h-12.6v-47.33h12.6Z"
+       id="path24" />
+    <path
+       class="cls-1"
+       d="m358.21,160.84c-2.28-2.04-3.42-5.31-3.42-9.81v-24.48h-6.3v-10.53h6.3v-13.5h12.42v13.5h9.63v10.53h-9.63v21.87c0,1.68.4,2.86,1.21,3.55.81.69,2.38,1.03,4.72,1.03.72,0,1.35-.01,1.89-.04.54-.03,1.35-.11,2.43-.23v10.44c-1.2.24-2.47.42-3.82.54-1.35.12-2.77.18-4.27.18-5.16,0-8.88-1.02-11.16-3.06Z"
+       id="path26" />
+    <path
+       class="cls-1"
+       d="m424.26,116.03v47.33h-12.6v-4.86c-1.62,1.92-3.51,3.37-5.67,4.36-2.16.99-4.53,1.48-7.11,1.48-4.86,0-8.76-1.54-11.7-4.63-2.94-3.09-4.41-7.21-4.41-12.37v-31.31h12.6v28.53c0,2.82.65,4.96,1.93,6.43s3.16,2.2,5.62,2.2,4.53-.87,6.21-2.61c1.68-1.74,2.52-3.99,2.52-6.75v-27.81h12.6Z"
+       id="path28" />
+    <path
+       class="cls-1"
+       d="m438.75,160.84c-2.28-2.04-3.42-5.31-3.42-9.81v-24.48h-6.3v-10.53h6.3v-13.5h12.42v13.5h9.63v10.53h-9.63v21.87c0,1.68.4,2.86,1.21,3.55.81.69,2.38,1.03,4.72,1.03.72,0,1.35-.01,1.89-.04.54-.03,1.35-.11,2.43-.23v10.44c-1.2.24-2.47.42-3.82.54s-2.77.18-4.27.18c-5.16,0-8.88-1.02-11.16-3.06Z"
+       id="path30" />
+    <path
+       class="cls-1"
+       d="m473.57,162.55c-2.94-1.2-5.46-2.94-7.56-5.22-2.04-2.22-3.6-4.83-4.68-7.83-1.08-3-1.62-6.27-1.62-9.81s.54-6.52,1.62-9.49,2.64-5.56,4.68-7.78c2.1-2.34,4.59-4.14,7.47-5.4,2.88-1.26,5.97-1.89,9.27-1.89,6.6,0,11.85,2.17,15.75,6.52s5.85,10.06,5.85,17.14v3.69h-32.57c.42,3.6,1.66,6.42,3.73,8.46,2.07,2.04,4.66,3.06,7.78,3.06,2.52,0,4.66-.6,6.43-1.8s3.01-2.91,3.73-5.13l10.62,3.78c-1.68,4.2-4.36,7.5-8.05,9.9s-7.96,3.6-12.82,3.6c-3.48,0-6.69-.6-9.63-1.8Zm2.47-35.09c-1.83,1.5-3.11,3.66-3.83,6.48h19.62c-.06-2.64-.91-4.75-2.56-6.34-1.65-1.59-3.85-2.38-6.61-2.38-2.58,0-4.78.75-6.61,2.25Z"
+       id="path32" />
+    <path
+       class="cls-1"
+       d="m195.83,177c.27.01.55.05.82.11v2.7c-.46-.06-.82-.1-1.08-.12-.26-.01-.54-.02-.85-.02-1.37,0-2.39.39-3.04,1.17-.66.78-.98,1.98-.98,3.59v1.97h5.67v2.61h-5.67v21.28h-3.07v-21.28h-3.75v-2.61h3.75v-2.2c0-2.26.61-4.03,1.83-5.31,1.22-1.28,2.9-1.92,5.03-1.92.61,0,1.05,0,1.33.02Z"
+       id="path34" />
+    <path
+       class="cls-1"
+       d="m217.75,193.56c.46,1.48.69,3.07.69,4.78s-.23,3.3-.69,4.78c-.46,1.48-1.14,2.77-2.06,3.87-.95,1.22-2.1,2.15-3.48,2.79-1.37.64-2.88.96-4.53.96s-3.15-.32-4.51-.96c-1.36-.64-2.52-1.57-3.5-2.79-.88-1.1-1.56-2.39-2.01-3.87s-.69-3.07-.69-4.78.23-3.3.69-4.78,1.13-2.77,2.01-3.87c.98-1.22,2.14-2.15,3.5-2.79,1.36-.64,2.86-.96,4.51-.96s3.16.32,4.53.96c1.37.64,2.53,1.57,3.48,2.79.92,1.1,1.6,2.39,2.06,3.87Zm-15.65-2.33c-1.4,1.78-2.1,4.16-2.1,7.11s.7,5.33,2.1,7.12c1.4,1.78,3.26,2.68,5.58,2.68s4.18-.89,5.58-2.68c1.4-1.79,2.1-4.16,2.1-7.12s-.7-5.33-2.1-7.11c-1.4-1.78-3.26-2.68-5.58-2.68s-4.18.89-5.58,2.68Z"
+       id="path36" />
+    <path
+       class="cls-1"
+       d="m234.31,186.22c.3.03.58.08.82.14v3.02c-.3-.06-.61-.11-.91-.14s-.66-.05-1.05-.05c-1.8,0-3.32.73-4.58,2.2-1.25,1.46-1.88,3.29-1.88,5.49v13.41h-3.02v-23.88h3.02v4.53c.61-1.5,1.49-2.66,2.65-3.5,1.16-.84,2.5-1.26,4.03-1.26.3,0,.61.02.92.05Z"
+       id="path38" />
+    <path
+       class="cls-1"
+       d="m251.7,195.65v14.64h-3.2v-32.85h12.08c3.48,0,6.17.79,8.08,2.38,1.91,1.59,2.86,3.83,2.86,6.72s-.97,5.1-2.9,6.7c-1.94,1.6-4.61,2.4-8.03,2.4h-8.88Zm0-2.79h8.65c2.56,0,4.54-.55,5.93-1.65s2.08-2.65,2.08-4.67-.69-3.61-2.06-4.69c-1.37-1.08-3.36-1.62-5.95-1.62h-8.65v12.63Z"
+       id="path40" />
+    <path
+       class="cls-1"
+       d="m292.74,186.4v23.88h-3.02v-3.84c-.76,1.34-1.8,2.39-3.11,3.16-1.31.76-2.78,1.14-4.39,1.14-2.47,0-4.41-.77-5.81-2.31-1.4-1.54-2.1-3.64-2.1-6.29v-15.74h3.02v15.19c0,2.04.48,3.61,1.44,4.71.96,1.1,2.36,1.65,4.19,1.65.91,0,1.79-.18,2.63-.55.84-.37,1.58-.87,2.22-1.51.64-.64,1.12-1.39,1.44-2.24.32-.85.48-1.77.48-2.75v-14.5h3.02Z"
+       id="path42" />
+    <path
+       class="cls-1"
+       d="m314.36,209.76c-1.33.66-2.78.98-4.37.98-1.74,0-3.3-.42-4.69-1.26s-2.45-1.99-3.18-3.45v4.26h-3.02v-32.85h3.02v13.22c.73-1.46,1.79-2.62,3.18-3.45s2.95-1.26,4.69-1.26c1.59,0,3.04.33,4.37.98,1.33.66,2.45,1.62,3.36,2.91.82,1.1,1.45,2.38,1.88,3.84.43,1.46.64,3.02.64,4.67s-.21,3.2-.64,4.67c-.43,1.46-1.05,2.75-1.88,3.84-.91,1.28-2.04,2.25-3.36,2.91Zm-11.83-15.74c-.3,1.02-.46,2.16-.46,3.41v1.97c0,1.22.15,2.34.46,3.36s.76,1.91,1.37,2.68c.7.85,1.54,1.51,2.52,1.97.98.46,2,.69,3.06.69,2.35,0,4.22-.89,5.63-2.68,1.4-1.78,2.1-4.14,2.1-7.07s-.7-5.28-2.1-7.05c-1.4-1.77-3.28-2.65-5.63-2.65-1.07,0-2.1.24-3.09.71-.99.47-1.82,1.14-2.49,1.99-.61.76-1.07,1.65-1.37,2.68Z"
+       id="path44" />
+    <path
+       class="cls-1"
+       d="m328.33,177.44v32.85h-3.02v-32.85h3.02Z"
+       id="path46" />
+    <path
+       class="cls-1"
+       d="m334.88,181.51v-4.07h3.52v4.07h-3.52Zm3.25,4.9v23.88h-3.02v-23.88h3.02Z"
+       id="path48" />
+    <path
+       class="cls-1"
+       d="m348.37,191.28c-1.43,1.78-2.15,4.14-2.15,7.07s.72,5.32,2.15,7.09c1.43,1.77,3.33,2.65,5.67,2.65,1.68,0,3.07-.48,4.19-1.44,1.11-.96,1.87-2.31,2.26-4.05l2.75,1.1c-.55,2.2-1.64,3.92-3.27,5.17s-3.61,1.88-5.93,1.88c-1.65,0-3.16-.31-4.55-.94-1.39-.63-2.57-1.55-3.55-2.77-.88-1.1-1.56-2.39-2.04-3.87-.47-1.48-.71-3.09-.71-4.83s.24-3.35.71-4.83c.47-1.48,1.15-2.77,2.04-3.87.98-1.19,2.16-2.1,3.55-2.74,1.39-.64,2.91-.96,4.55-.96,2.29,0,4.24.62,5.86,1.88,1.62,1.25,2.71,2.96,3.3,5.12l-2.7,1.14c-.4-1.74-1.15-3.09-2.26-4.05-1.11-.96-2.51-1.44-4.19-1.44-2.35,0-4.24.89-5.67,2.68Z"
+       id="path50" />
+    <path
+       class="cls-1"
+       d="m380.17,195.65v14.64h-3.2v-32.85h12.08c3.48,0,6.17.79,8.08,2.38,1.91,1.59,2.86,3.83,2.86,6.72s-.97,5.1-2.91,6.7-4.61,2.4-8.03,2.4h-8.88Zm0-2.79h8.65c2.56,0,4.54-.55,5.93-1.65s2.08-2.65,2.08-4.67-.69-3.61-2.06-4.69c-1.37-1.08-3.36-1.62-5.95-1.62h-8.65v12.63Z"
+       id="path52" />
+    <path
+       class="cls-1"
+       d="m421.44,193.56c.46,1.48.69,3.07.69,4.78s-.23,3.3-.69,4.78-1.14,2.77-2.06,3.87c-.95,1.22-2.1,2.15-3.48,2.79-1.37.64-2.88.96-4.53.96s-3.15-.32-4.51-.96c-1.36-.64-2.52-1.57-3.5-2.79-.89-1.1-1.56-2.39-2.01-3.87s-.69-3.07-.69-4.78.23-3.3.69-4.78,1.13-2.77,2.01-3.87c.98-1.22,2.14-2.15,3.5-2.79,1.36-.64,2.86-.96,4.51-.96s3.16.32,4.53.96c1.37.64,2.53,1.57,3.48,2.79.91,1.1,1.6,2.39,2.06,3.87Zm-15.65-2.33c-1.4,1.78-2.1,4.16-2.1,7.11s.7,5.33,2.1,7.12c1.4,1.78,3.26,2.68,5.58,2.68s4.18-.89,5.58-2.68c1.4-1.79,2.1-4.16,2.1-7.12s-.7-5.33-2.1-7.11c-1.4-1.78-3.26-2.68-5.58-2.68s-4.18.89-5.58,2.68Z"
+       id="path54" />
+    <path
+       class="cls-1"
+       d="m430.18,177.44v32.85h-3.02v-32.85h3.02Z"
+       id="path56" />
+    <path
+       class="cls-1"
+       d="m436.72,181.51v-4.07h3.52v4.07h-3.52Zm3.25,4.9v23.88h-3.02v-23.88h3.02Z"
+       id="path58" />
+    <path
+       class="cls-1"
+       d="m450.45,191.28c-1.43,1.78-2.15,4.14-2.15,7.07s.72,5.32,2.15,7.09c1.43,1.77,3.33,2.65,5.67,2.65,1.68,0,3.07-.48,4.19-1.44,1.11-.96,1.87-2.31,2.26-4.05l2.75,1.1c-.55,2.2-1.64,3.92-3.27,5.17s-3.61,1.88-5.93,1.88c-1.65,0-3.16-.31-4.55-.94-1.39-.63-2.57-1.55-3.55-2.77-.88-1.1-1.56-2.39-2.04-3.87-.47-1.48-.71-3.09-.71-4.83s.24-3.35.71-4.83c.47-1.48,1.15-2.77,2.04-3.87.98-1.19,2.16-2.1,3.55-2.74,1.39-.64,2.91-.96,4.55-.96,2.29,0,4.24.62,5.86,1.88,1.62,1.25,2.71,2.96,3.3,5.12l-2.7,1.14c-.4-1.74-1.15-3.09-2.26-4.05-1.11-.96-2.51-1.44-4.19-1.44-2.35,0-4.24.89-5.67,2.68Z"
+       id="path60" />
+    <path
+       class="cls-1"
+       d="m477.58,213.21c-.82,2.1-1.75,3.58-2.77,4.42s-2.31,1.26-3.87,1.26c-.4,0-.75-.02-1.08-.07-.32-.05-.69-.11-1.12-.21v-2.7c.37.12.69.21.98.25.29.05.65.07,1.08.07.91,0,1.65-.26,2.22-.78.56-.52,1.11-1.42,1.62-2.7l1.37-3.29-8.97-23.06h3.2l7.37,19.49,7.37-19.49h3.16l-10.57,26.81Z"
+       id="path62" />
+    <path
+       class="cls-1"
+       d="m31.49,156.61h2.4v-69.57h-2.42c-.31,0-.57-.28-.58-.62-.05-1.96-.67-3.39-1.28-4.35-.49-.77-1.33-1.23-2.24-1.23h-.1v-3.14h4.96v-18.08c0-17.81-14.42-32.26-32.22-32.3v136.06h27.26v-3.01h.13c.91,0,1.75-.28,2.24-.75.58-.55,1.17-1.36,1.27-2.46.03-.28.27-.55.59-.55ZM157.08.22v6.16H0V.22h157.08Zm-78.54,27.1h0,0Zm0,136.05h27.26v-3.01h.13c.91,0,1.75-.28,2.24-.75.58-.55,1.17-1.36,1.27-2.46.03-.28.27-.55.59-.55h2.4v-69.57h0s-2.42,0-2.42,0c-.31,0-.57-.28-.58-.62-.05-1.96-.67-3.39-1.28-4.35-.49-.77-1.33-1.23-2.24-1.23h-.1v-3.14h4.96v-18.08c0-17.81-14.42-32.25-32.22-32.3-17.84,0-32.31,14.46-32.31,32.31v18.08h4.96v3.14h-.13c-.91,0-1.75.47-2.24,1.23-.61.95-1.23,2.39-1.28,4.35,0,.34-.26.62-.58.62h-2.32v69.57h0s2.4,0,2.4,0c.32,0,.56.27.59.55.1,1.1.69,1.91,1.27,2.46.49.46,1.28.75,2.19.75h0s.1,0,.1,0v3.01h27.35m78.54,0V27.32c-17.84,0-32.31,14.46-32.31,32.31v18.08h4.96v3.14h-.13c-.91,0-1.75.47-2.24,1.23-.61.95-1.23,2.39-1.28,4.35,0,.34-.26.62-.58.62h-2.32s0,69.57,0,69.57h0s2.4,0,2.4,0c.32,0,.56.27.59.55.1,1.1.69,1.91,1.27,2.46.49.46,1.28.75,2.19.75h0s.1,0,.1,0v3.01h27.35"
+       id="path64" />
+    <path
+       class="cls-1"
+       d="m187.37,15.34h-2.02V.23h5.76c3.2,0,5.24,1.49,5.24,4.38,0,2.42-1.47,3.89-3.87,4.29l4.19,6.44h-2.31l-4.06-6.33h-2.92v6.33Zm3.64-8.08c2.15,0,3.35-.95,3.35-2.65s-1.2-2.63-3.35-2.63h-3.64v5.28h3.64Z"
+       id="path66" />
+    <path
+       class="cls-1"
+       d="m203.98,15.34h-2.02V.23h2.02v15.11Z"
+       id="path68" />
+    <path
+       class="cls-1"
+       d="m216.5,13.78c1.96,0,3.37-1.14,3.91-3.05l1.91.63c-.88,2.61-2.95,4.21-5.83,4.21-3.91,0-6.8-3.18-6.8-7.78s2.88-7.79,6.8-7.79c2.88,0,4.94,1.6,5.83,4.21l-1.91.63c-.55-1.91-1.96-3.05-3.91-3.05-2.8,0-4.78,2.42-4.78,6s1.98,6,4.78,6Z"
+       id="path70" />
+    <path
+       class="cls-1"
+       d="m237.5.23v1.77h-7.87v4.65h6.67v1.77h-6.67v5.16h7.87v1.77h-9.87V.23h9.87Z"
+       id="path72" />
+    <path
+       class="cls-1"
+       d="m251.09,9.36V.23h2.02v9.07c0,3.09,1.64,4.44,3.91,4.44s3.93-1.35,3.93-4.44V.23h2.02v9.13c0,4.17-2.52,6.19-5.95,6.19s-5.93-2.02-5.93-6.19Z"
+       id="path74" />
+    <path
+       class="cls-1"
+       d="m280.93,15.34h-1.75l-8.25-12.16v12.16h-1.94V.23h2.12l7.85,11.68V.23h1.96v15.11Z"
+       id="path76" />
+    <path
+       class="cls-1"
+       d="m289.87,15.34h-2.02V.23h2.02v15.11Z"
+       id="path78" />
+    <path
+       class="cls-1"
+       d="m300.06,15.34l-5.74-15.11h2.17l4.67,12.58,4.67-12.58h2.06l-5.7,15.11h-2.12Z"
+       id="path80" />
+    <path
+       class="cls-1"
+       d="m322.01.23v1.77h-7.87v4.65h6.67v1.77h-6.67v5.16h7.87v1.77h-9.87V.23h9.87Z"
+       id="path82" />
+    <path
+       class="cls-1"
+       d="m329.86,15.34h-2.02V.23h5.76c3.2,0,5.24,1.49,5.24,4.38,0,2.42-1.47,3.89-3.87,4.29l4.19,6.44h-2.31l-4.06-6.33h-2.93v6.33Zm3.64-8.08c2.15,0,3.35-.95,3.35-2.65s-1.2-2.63-3.35-2.63h-3.64v5.28h3.64Z"
+       id="path84" />
+    <path
+       class="cls-1"
+       d="m344.55,10.96c.95,1.81,2.65,2.86,4.61,2.86s3.47-.97,3.47-2.69c0-1.83-1.75-2.15-4.04-2.69-2.38-.57-4.73-1.22-4.73-4.06,0-2.65,2.29-4.38,5.16-4.38,2.63,0,4.52,1.26,5.43,2.97l-1.54,1.22c-.78-1.45-1.98-2.44-3.93-2.44-1.83,0-3.16,1.01-3.16,2.46,0,1.6,1.41,1.94,3.54,2.44,2.5.59,5.26,1.11,5.26,4.31,0,2.82-2.5,4.61-5.49,4.61-2.61,0-5.11-1.3-6.14-3.35l1.58-1.26Z"
+       id="path86" />
+    <path
+       class="cls-1"
+       d="m362.52,15.34h-2.02V.23h2.02v15.11Z"
+       id="path88" />
+    <path
+       class="cls-1"
+       d="m374.11,2v13.34h-2.02V2h-5.11V.23h12.24v1.77h-5.11Z"
+       id="path90" />
+    <path
+       class="cls-1"
+       d="m392.53.23h2.15l-5.47,8.75v6.35h-2.02v-6.35l-5.47-8.75h2.19l4.31,6.92,4.31-6.92Z"
+       id="path92" />
+    <path
+       class="cls-1"
+       d="m397.75.23h2.4v2.59c0,1.6-1.05,2.63-2.74,2.67v-1.09c.93-.08,1.43-.57,1.43-1.49v-.23h-1.09V.23Z"
+       id="path94" />
+    <path
+       class="cls-1"
+       d="m403.79,10.96c.95,1.81,2.65,2.86,4.61,2.86s3.47-.97,3.47-2.69c0-1.83-1.75-2.15-4.04-2.69-2.38-.57-4.73-1.22-4.73-4.06,0-2.65,2.29-4.38,5.16-4.38,2.63,0,4.52,1.26,5.43,2.97l-1.54,1.22c-.78-1.45-1.98-2.44-3.93-2.44-1.83,0-3.16,1.01-3.16,2.46,0,1.6,1.41,1.94,3.54,2.44,2.5.59,5.26,1.11,5.26,4.31,0,2.82-2.5,4.61-5.49,4.61-2.61,0-5.11-1.3-6.14-3.35l1.58-1.26Z"
+       id="path96" />
+  </g>
+</svg></div> </a> </div> <div class="coh-column coh-ce-cpt_footer_new-d93a92a2 coh-visible-xs coh-col-xs-12 coh-col-xs-push-0 coh-visible-sm coh-col-sm-3 coh-col-sm-push-0 coh-visible-md coh-col-md-3 coh-col-md-push-0 coh-visible-lg coh-col-lg-3 coh-col-lg-push-0" >          <ul class="coh-menu-list-container coh-unordered-list coh-style-no-markers coh-ce-de382c1d"><li class="coh-menu-list-item coh-ce-9486d617 js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="/contact-us"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-fd5fd9e3 js-coh-menu-item-link " >Contact Us</a></li><li class="coh-menu-list-item coh-ce-9486d617 js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="https://riceconnect.rice.edu/giving/baker-institute"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-fd5fd9e3 js-coh-menu-item-link " >Donate Now</a></li><li class="coh-menu-list-item coh-ce-9486d617 js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="/press-room"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-fd5fd9e3 js-coh-menu-item-link" >Press</a></li><li class="coh-menu-list-item coh-ce-9486d617 js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="/join-roundtable"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-fd5fd9e3 js-coh-menu-item-link" >Membership</a></li><li class="coh-menu-list-item coh-ce-9486d617 js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="/careers"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-fd5fd9e3 js-coh-menu-item-link " >Careers</a></li><li class="coh-menu-list-item coh-ce-9486d617 js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="/students"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-fd5fd9e3 js-coh-menu-item-link" >Student Opportunities</a></li><li class="coh-menu-list-item coh-ce-9486d617 js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="/about-baker-institute-0"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-fd5fd9e3 js-coh-menu-item-link" >About the Institute</a></li><li class="coh-menu-list-item coh-ce-9486d617 js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="http://rice.edu"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-fd5fd9e3 js-coh-menu-item-link " >Rice.edu</a></li></ul>   
+ </div> <div class="coh-column coh-ce-cpt_footer_new-27c6a8ba coh-hidden-xs coh-col-xs-push-0 coh-visible-sm coh-col-sm-3 coh-col-sm-push-0 coh-visible-md coh-col-md-3 coh-col-md-push-0 coh-visible-lg coh-col-lg-3 coh-col-lg-push-0" >  <div class="coh-wysiwyg coh-ce-cpt_footer_new-f2df2c33" >    <p>6100 Main Street<br>Baker Hall MS-40, Suite 120<br>Houston, TX 77005<br><br>Email: <a href="/cdn-cgi/l/email-protection#82e0ebf2f2c2f0ebe1e7ace7e6f7"><span class="__cf_email__" data-cfemail="6f0d061f1f2f1d060c0a410a0b1a">[email&#160;protected]</span></a><br>Phone: 713-348-4683<br>Fax: 713-348-5993</p> </div> </div> <div class="coh-column coh-hidden-xs coh-col-xs-push-0 coh-visible-sm coh-col-sm-2 coh-col-sm-push-0 coh-visible-lg coh-col-lg-2 coh-col-lg-push-0" >  <div class="coh-container coh-ce-cpt_footer_new-90d6644e" >          <ul class="coh-menu-list-container coh-unordered-list coh-style-no-markers"><li class="coh-menu-list-item coh-ce-1f955b0f js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="https://twitter.com/BakerInstitute"  target="_blank"   data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-b18a571b js-coh-menu-item-link coh-style-social-link coh-style-social-link--twitter" >Twitter</a></li><li class="coh-menu-list-item coh-ce-1f955b0f js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="http://www.facebook.com/BakerInstitute"  target="_blank"   data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-b18a571b js-coh-menu-item-link coh-style-social-link coh-style-social-link--facebook" >Facebook</a></li><li class="coh-menu-list-item coh-ce-1f955b0f js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="http://instagram.com/bakerinstitute"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-b18a571b js-coh-menu-item-link coh-style-social-link coh-style-social-link--instagram" >instagram</a></li><li class="coh-menu-list-item coh-ce-1f955b0f js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="http://www.linkedin.com/company/james-a--baker-iii-institute-for-public-policy---rice-university"  target="_blank"   data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-b18a571b js-coh-menu-item-link coh-style-social-link coh-style-social-link--linkedin" >Linkedin</a></li><li class="coh-menu-list-item coh-ce-1f955b0f js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="http://www.youtube.com/user/bakerinstitute"  target="_blank"   data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-b18a571b js-coh-menu-item-link coh-style-social-link coh-style-social-link--youtube" >Youtube</a></li><li class="coh-menu-list-item coh-ce-1f955b0f js-coh-menu-item" data-coh-settings='{"xs":"hidden"}' >   <a href="/newsletter"    data-is-expandable-mobile="0"  hide-cards="0"   data-coh-settings='{ "xs":{"link_interaction":"toggle-on-hover","animationType":"none"} }' class="coh-link coh-ce-b18a571b js-coh-menu-item-link coh-style-social-link coh-style-social-link--newsletter" >Newsletter</a></li></ul>   
+ </div> </div> </div> </div> </div> </div>  <div class="coh-container coh-ce-cpt_footer_new-87cbb11a coh-container-boxed" > <div class="coh-row coh-row-xs coh-row-visible-xs" data-coh-row-match-heights="{&quot;xs&quot;:{&quot;target&quot;:&quot;none&quot;}}"> <div class="coh-row-inner"> <div class="coh-column coh-visible-sm coh-col-sm-4" > </div> <div class="coh-column coh-ce-cpt_footer_new-10242d13 coh-col-xs coh-col-xs-push-0 coh-visible-sm coh-col-sm-8 coh-col-sm-push-0 coh-visible-md coh-col-md-8 coh-col-md-push-0" >              <div class="coh-container ssa-component coh-component ssa-component-instance-5b31e2bb-1462-4b53-873e-d697ec0561ee coh-component-instance-5b31e2bb-1462-4b53-873e-d697ec0561ee coh-ce-cpt_copyright_new-8f1b722c" > <ul class="coh-list-container coh-unordered-list coh-style-no-markers coh-ce-cpt_copyright_new-85f101cc"> <li class="coh-list-item">  <span class="coh-inline-element coh-ce-cpt_copyright_new-c60aceb8">© Rice University's Baker Institute for Public Policy</span> </li>  <li class="coh-list-item coh-ce-cpt_copyright_new-38d298671 coh-ce-cpt_copyright_new-38d29867">  <a href="https://access.rice.edu/" class="coh-link coh-ce-cpt_copyright_new-51f2bab71 coh-ce-cpt_copyright_new-51f2bab7" target="_self" > Web Accessibility    </a> </li>  <li class="coh-list-item coh-ce-cpt_copyright_new-38d298672 coh-ce-cpt_copyright_new-38d29867">  <a href="https://www.rice.edu/privacy" class="coh-link coh-ce-cpt_copyright_new-51f2bab72 coh-ce-cpt_copyright_new-51f2bab7" target="_self" > Privacy Policy    </a> </li>  </ul> </div> 
+ </div> </div> </div> </div> </div> 
+ </div> </footer>     
+
+  </div>
+
+  
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"search","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyVk2GSoyAQhS8koWpOsX_2DFSLLfYEwaGbVW-_bdxJJolJ1f6x4L0PGtpHC2csjhILSRW0IeYWomFZI6XQtA_2BAEN-5JjNNj36OUJKcgIxQ8GvM-lo5yekH8ApakKH7hR9_1Qm3R3FFEXlykzdq6nqFO2UCU7ru34GgmYsEBsfB6Q9RRWB0YGHPFOclptxCTO5yRAuubY7kqdIDod12OARu3NsaWtPB8788o0r-FmfhuC4xRBkE97YXNf-CX2h3B-hz2c8hm4P-uzX_Js-lyMz7GOiW_onhy9a1ugkJLq_Abxwy-kMMg78vOrYlldJbdnyqWc8H94jtS9WzCBJiHC4vbobsl-Dc-Uujzv5BVzl-Q8Po8tM7hIhWj3_p9uitk6yU0PHoW_7X128gP6c5sXM1MXUJqQc4joBIIN-nmcn-ATlntxbL4q-fNWw15HR5q7PKP9TW334AEKFnsVzEXoGl5Zf7JtgbHZQsT28t1L_xTG3NWIfwEtTKo8","theme":"baker_institute","theme_token":null},"ajaxTrustedUrl":{"\/search":true,"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"bigPipePlaceholderIds":[],"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"","blocklist_classes":"","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-M9587Z8"]},"cohesion":{"currentAdminTheme":"gin","front_end_settings":{"global_js":{"matchHeight":1,"parallax_scrolling":1,"cohMatchHeights":1}},"google_map_api_key":"","google_map_api_key_geo":null,"animate_on_view_mobile":"DISABLED","add_animation_classes":"DISABLED","responsive_grid_settings":{"gridType":"mobile-first","columns":12,"breakpoints":{"xs":{"innerGutter":20,"outerGutter":21,"mobilePlaceholderWidth":320,"mobilePlaceholderType":"fluid","previewColumns":4,"label":"Mobile","class":"coh-icon-mobile","iconHex":"F10B","boxedWidth":278,"width":320,"widthType":"fluid"},"ps":{"width":565,"innerGutter":20,"outerGutter":21,"widthType":"fluid","previewColumns":4,"label":"Mobile landscape","class":"coh-icon-mobile-landscape","iconHex":"E91E","boxedWidth":523},"sm":{"width":768,"innerGutter":20,"outerGutter":21,"widthType":"fluid","previewColumns":12,"label":"Tablet","class":"coh-icon-tablet","iconHex":"F10A","boxedWidth":726},"md":{"width":1024,"innerGutter":30,"outerGutter":30,"widthType":"fluid","previewColumns":12,"label":"Laptop","class":"coh-icon-laptop","iconHex":"F109","boxedWidth":964},"lg":{"width":1176,"innerGutter":24,"outerGutter":12,"widthType":"fixed","previewColumns":12,"label":"Desktop","class":"coh-icon-desktop","iconHex":"F108","boxedWidth":1152},"xl":{"width":1400,"innerGutter":24,"outerGutter":124,"widthType":"fixed","previewColumns":12,"label":"Television","class":"coh-icon-television","iconHex":"F26C","boxedWidth":1152}}},"default_font_settings":{"defaultFontStack":"$coh-font-soehne-bush","color":{"link":true,"value":{"hex":"#1b1b1b","rgba":"rgba(27, 27, 27, 1)"},"name":"black","uid":"black","class":".coh-color-black","variable":"$coh-color-black","wysiwyg":true,"inuse":false}},"use_dx8":true,"sidebar_view_style":"titles","log_dx8_error":false,"error_url":"\/cohesionapi\/logger\/jserrors","dx8_content_paths":[["settings","content"],["settings","content","text"],["settings","markerInfo","text"],["settings","title"],["markup","prefix"],["markup","suffix"],["markup","attributes",["value"]],["hideNoData","hideData"],["hideNoData","hideData","text"]]},"selection_sharer":{"jquery_selectors":[".research-description-share"]},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:4994d512fcd977e9054cbffce9f68d752a02599c3b597a360ecf5ac2e256c27c":{"view_name":"event","view_display_id":"upcoming_events","view_args":"","view_path":"\/node\/70771","view_base_path":null,"view_dom_id":"4994d512fcd977e9054cbffce9f68d752a02599c3b597a360ecf5ac2e256c27c","pager_element":0}}},"quicklink":{"admin_link_container_patterns":["#block-local-tasks-block a",".block-local-tasks-block a","#drupal-off-canvas a","#toolbar-administration a"],"ignore_admin_paths":true,"ignore_ajax_links":true,"ignore_file_ext":true,"total_request_limit":0,"concurrency_throttle_limit":0,"idle_wait_timeout":2000,"viewport_delay":0,"debug":false,"url_patterns_to_ignore":["user\/logout","#","\/admin","\/edit"]},"user":{"uid":0,"permissionsHash":"099e2d47ef6e76bf977a9b906426dc7963e2991c6921efa6547eba419a8b97ef"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.13.7" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="https://unpkg.com/quicklink@2.3.0/dist/quicklink.umd.js" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/assets/vendor/backbone/backbone-min.js?v=1.6.1" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/misc/drupal.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/misc/drupal.init.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/quicklink/js/quicklink_init.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/modules/contextual/js/contextual.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/modules/contextual/js/models/StateModel.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/modules/contextual/js/views/AuralView.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/modules/contextual/js/views/KeyboardView.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/modules/contextual/js/views/RegionView.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/modules/contextual/js/views/VisualView.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/themes/custom/baker-institute/js/scroll-effect-page-header.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/responsiveJs/responsive-js.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/accordion-tabs-container/jquery.responsiveTabs.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/accordion-tabs-container/init.responsiveTabs.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/themes/custom/baker-institute/js/research-accordion.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/themes/custom/baker-institute/js/search-inputs.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.8/umd/popper.min.js" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/libraries/tippyjs/6.x/tippy-bundle.umd.min.js?v=6.x" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/better_social_sharing_buttons/js/copy-current-url.js?v=1.x" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/themes/custom/baker-institute/js/sharing-popup-overrides.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/misc/progress.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/misc/debounce.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/misc/announce.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/misc/message.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/misc/ajax.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/themes/contrib/stable/js/ajax.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/modules/big_pipe/js/big_pipe.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/themes/custom/baker-institute/js/script.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/libraries/select2/dist/js/select2.min.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/themes/custom/baker-institute/js/select2.init.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/better_exposed_filters/js/auto_submit.js?v=6.x" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/better_exposed_filters/js/better_exposed_filters.js?v=6.x" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/drupal-menu/pep.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/drupal-menu/drupal-menu.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/drupal-view/drupal-view.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/intersectionobserver/intersection-observer.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/lazyload/lazyload.min.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/image/init.lazyload.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/link/jquery.scrollTo.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/link/link.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/matchHeight/jquery.matchHeight.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/cohContainerMatchHeights/coh-container-match-heights.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/row-for-columns/row-for-columns.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/cohMatchHeights/coh-match-heights.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/jquery_ui_effect/effect.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/jquery_ui_effect_slide/effect-slide.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/parallax_scrolling/jquery.paroller.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/parallax_scrolling/init.paroller.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/sites/default/files/cohesion/scripts/windowscroll/coh-scroll.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/facets/js/base-widget.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/facets/js/checkbox-widget.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tcho79" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/selection_sharer/library/selection-sharer.js?v=1.0.0" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/modules/contrib/selection_sharer/library/init-selection_shared.js?v=1.0.0" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/misc/jquery.form.js?v=4.3.0" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/modules/views/js/base.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+<script src="/core/modules/views/js/ajax_view.js?v=10.5.6" type="b5f36163467de7d7e9e40922-text/javascript"></script>
+
+  
+<foreignObject><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b5f36163467de7d7e9e40922-|49" defer></script></foreignObject><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9ebfd17cff84e74c',t:'MTc3NjEzOTM4MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"8a19a5df6c914e1f8d9608688d17cabe","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
