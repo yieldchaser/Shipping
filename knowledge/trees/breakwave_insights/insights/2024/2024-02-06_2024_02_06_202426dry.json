@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry__root",
+  "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Dry Bulk Report - February 6, 2024",
+  "section_path": [
+    "Breakwave Bi-Weekly Dry Bulk Report - February 6, 2024"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Dry Bulk Report - February 6, 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2024-02-06_202426dry_img_dryreporttop_3a0450e72b44.png\n· Chinese New Year sees Capesize spot rates at 15-year highs - As the celebrations for the Year of the Dragon are underway in China, Capesize owners have their own milestone to celebrate, with Capesize spot rates at 15-year highs for this time of the year , a period that traditionally had marked the low point for any given year. The Atlantic market remains the main driver of such an astonishing yet surprising performance, while the reasons behind the current strength all point to inadequate vessel supply in the western hemisphere. Although statistics show a trivial impact from the current Red Sea disruption when it comes to dry bulk, it seems that ballasting tonnage has indeed been dislocated (at a time when also the Panama Canal draught is affecting vessel supply), leading to the now months' long vessel shortage in that part of the world.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1732,
+  "source_path": "reports/breakwave/2024/2024-02-06_202426dry.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/202426dry",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2024-02-06_202426dry_img_dryreporttop_3a0450e72b44.png\n· Chinese New Year sees Capesize spot rates at 15-year highs - As the celebrations for the Year of the Dragon are underway in China, Capesize owners have their own milestone to celebrate, with Capesize spot rates at 15-year highs for this time of the year , a period that traditionally had marked the low point for any given year. The Atlantic market remains the main driver of such an astonishing yet surprising performance, while the reasons behind the current strength all point to inadequate vessel supply in the western hemisphere.",
+      "keywords": [
+        "capesize",
+        "china",
+        "atlantic",
+        "iron_ore",
+        "coal",
+        "crude_oil",
+        "year",
+        "years"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 758,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry__s02_linked_asset_2024_02_06_202426dry_img_dryreporttop_3a0450e72b44_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry__root",
+      "title": "Linked asset: 2024-02-06_202426dry_img_dryreporttop_3a0450e72b44.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_202426dry_img_dryreporttop_3a0450e72b44.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_202426dry_img_dryreporttop_3a0450e72b44.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_202426dry_img_dryreporttop_3a0450e72b44.png\n\nLinked image asset: 2024-02-06_202426dry_img_dryreporttop_3a0450e72b44.png\n\nImage metadata: PNG 1243x412 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nB D RY /© BREAKWAVE\nADVISORS\nDry Bulk Shipping\nBreakwave Dry Futures Index: 1,769 Baltic Dry Index (spot): 1,436 Short-term Indicators:\n* 30D: 16.9% W 30D: -31.9% Momentum:\n* YTD: 8.7% Ww YTD: -31.4% Sentiment: Positive\n* YOY: 68.6% 4 YOY: 131.2% Fundamentals:",
+      "keywords": [
+        "asset",
+        "image",
+        "yoy",
+        "ytd",
+        "dpi",
+        "dry_img_dryreporttop_3a0450e72b44.png",
+        "embedded",
+        "fundamentals"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 215,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry__s03_linked_asset_2024_02_06_202426dry_img_dryreportchart_b23dbb000bb0_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry__root",
+      "title": "Linked asset: 2024-02-06_202426dry_img_dryreportchart_b23dbb000bb0.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_202426dry_img_dryreportchart_b23dbb000bb0.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_202426dry_img_dryreportchart_b23dbb000bb0.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_202426dry_img_dryreportchart_b23dbb000bb0.png\n\nLinked image asset: 2024-02-06_202426dry_img_dryreportchart_b23dbb000bb0.png\n\nImage metadata: PNG 1201x742 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nJ BREAKWAVE\nBi-weekly Dry Bulk Shipping ADVISORS\nBaltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF)\n4000\n3500\n3000\n2500\n2000\n1500\n1000\n500\neee BDIY (spot) <=--=BDRYFF (futures)\n)\nFeb-23. May-23 = Jun-23 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23 Jan-24",
+      "keywords": [
+        "asset",
+        "bdiy",
+        "bdryff",
+        "image",
+        "apr-23.",
+        "aug-23",
+        "bi-weekly",
+        "dec-23"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry__s04_linked_asset_2024_02_06_202426dry_img_dryreportbottom_5cfc3abb3c7e_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_202426dry__root",
+      "title": "Linked asset: 2024-02-06_202426dry_img_dryreportbottom_5cfc3abb3c7e.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_202426dry_img_dryreportbottom_5cfc3abb3c7e.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_202426dry_img_dryreportbottom_5cfc3abb3c7e.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_202426dry_img_dryreportbottom_5cfc3abb3c7e.png\n\nLinked image asset: 2024-02-06_202426dry_img_dryreportbottom_5cfc3abb3c7e.png\n\nImage metadata: PNG 1171x844 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDry Bulk Fundamentals\nDemand YTD YoY\nChina Steel Production 1019mt\nChina Stee! Inventories 29.1%\nChina Iron Ore Inventories 125mt\nChina Iron Ore Imports 1181mt\nChina Coal Imports 474mt 61.8%\nChina Soybean Imports 102mt 11.6%\nBrazil Iron Ore Exports 378mt 10.0%\nAustralia Iron Ore Exports 820mt\nSupply\nDry Bulk Fleet 1006dwt\nFreight Rates\nBaltic Dry Index, Average 1,599 80.3%\nCapesize Spot Rates, Average 20,218 134.6%\nPanamax Spot rates, Average 12,875 46.5%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg and Breakwave Advisors\nDisclaimer: Contact:\nThis research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for Breakwave Advisors LLC\nthe recipient's internal use only.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 451,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

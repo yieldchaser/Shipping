@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__root",
+  "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons",
+  "parent_id": null,
+  "title": "A Tale of Two Very Different Rainy Seasons",
+  "section_path": [
+    "A Tale of Two Very Different Rainy Seasons"
+  ],
+  "section_path_text": "A Tale of Two Very Different Rainy Seasons",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we have been discussing in Commodore's Weekly Dry Bulk Reports, China's rainfall has been much greater than usual since April and has been resulting in a surge in hydropower output. April saw hydropower output grow year-on-year by 22%, and in May it grew 40% (which marked only the second time in the ten years where 40% growth occurred). Data is pending for June, but rainfall was greater than usual again in the south and hydropower output has certainly continued to surge.",
+  "keywords": [
+    "china",
+    "india",
+    "coal",
+    "hydropower",
+    "asset",
+    "image",
+    "output",
+    "linked",
+    "rainfall",
+    "kwh",
+    "but",
+    "chart"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1422,
+  "source_path": "reports/breakwave/2024/2024-07-05_a-tale-of-two-very-different-rainy-seasons.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/7/5/a-tale-of-two-very-different-rainy-seasons",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we have been discussing in Commodore's Weekly Dry Bulk Reports, China's rainfall has been much greater than usual since April and has been resulting in a surge in hydropower output. April saw hydropower output grow year-on-year by 22%, and in May it grew 40% (which marked only the second time in the ten years where 40% growth occurred).",
+      "keywords": [
+        "china",
+        "india",
+        "coal",
+        "hydropower",
+        "output",
+        "rainfall",
+        "but",
+        "chart"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 614,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__s02_linked_asset_2024_07_05_a_tale_of_two_very_different_rainy_seasons_img_chart1_bf03ba095a56_jpg",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__root",
+      "title": "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart1_bf03ba095a56.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart1_bf03ba095a56.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart1_bf03ba095a56.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart1_bf03ba095a56.jpg\n\nLinked image asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart1_bf03ba095a56.jpg\n\nImage metadata: JPEG 629x421 mode=RGB\n\nOCR text:\n30-Day Rainfall Compared to Historical Average\n+270mm\n, eo . +210mm\nP +150mm\nge +90mm\nP +30mm\nP s : +15mm\nrs : - J a ‘ -15mm\n«gi, ; * -30mm\n.",
+      "keywords": [
+        "asset",
+        "image",
+        "a-tale-of-two-very-different-rainy-seasons_img_chart1_bf03ba095a56.jpg",
+        "average",
+        "compared",
+        "day",
+        "historical",
+        "jpeg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__s03_linked_asset_2024_07_05_a_tale_of_two_very_different_rainy_seasons_img_chart2_dac81d889a32_jpg",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__root",
+      "title": "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart2_dac81d889a32.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart2_dac81d889a32.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart2_dac81d889a32.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart2_dac81d889a32.jpg\n\nLinked image asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart2_dac81d889a32.jpg\n\nImage metadata: JPEG 521x431 mode=RGB\n\nOCR text:\n30-Day Rainfall Compared to Historical Average\nCOP \\? +270mm\n+210mm\n+150mm\nCS 4 Ga +90mm\n: +30mm\n: 3 +15mm\n-15mm\n; -30mm\nwa -90mm\n‘ -150mm\n-210mm\n-270mm\n-",
+      "keywords": [
+        "asset",
+        "image",
+        "a-tale-of-two-very-different-rainy-seasons_img_chart2_dac81d889a32.jpg",
+        "average",
+        "compared",
+        "cop",
+        "day",
+        "historical"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__s04_linked_asset_2024_07_05_a_tale_of_two_very_different_rainy_seasons_img_chart3_19cde73bb153_jpg",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__root",
+      "title": "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart3_19cde73bb153.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart3_19cde73bb153.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart3_19cde73bb153.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart3_19cde73bb153.jpg\n\nLinked image asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart3_19cde73bb153.jpg\n\nImage metadata: JPEG 670x314 mode=RGB\n\nOCR text:\nIndian Hydropower Production (2019 - 2024)\n24kwh\n16kwh\n8kwh\nOkwh\n2019 2020 2021 2022 2023 2024\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "india",
+        "kwh",
+        "asset",
+        "image",
+        "a-tale-of-two-very-different-rainy-seasons_img_chart3_19cde73bb153.jpg",
+        "billion",
+        "hours",
+        "hydropower"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__s05_linked_asset_2024_07_05_a_tale_of_two_very_different_rainy_seasons_img_chart4_ce3f3a389257_jpg",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_a_tale_of_two_very_different_rainy_seasons__root",
+      "title": "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart4_ce3f3a389257.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart4_ce3f3a389257.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart4_ce3f3a389257.jpg",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart4_ce3f3a389257.jpg\n\nLinked image asset: 2024-07-05_a-tale-of-two-very-different-rainy-seasons_img_chart4_ce3f3a389257.jpg\n\nImage metadata: JPEG 670x314 mode=RGB\n\nOCR text:\nChinese Hydropower Production (2018 - 2024)\n160kwh\n120kwh\n80kwh\n40kwh\n2018 2019 2020 2021 2022 2023 2024\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "china",
+        "kwh",
+        "asset",
+        "image",
+        "a-tale-of-two-very-different-rainy-seasons_img_chart4_ce3f3a389257.jpg",
+        "billion",
+        "chinese",
+        "hours"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

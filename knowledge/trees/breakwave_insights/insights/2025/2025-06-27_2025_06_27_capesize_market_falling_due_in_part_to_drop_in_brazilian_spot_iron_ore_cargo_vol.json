@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-06-27_2025_06_27_capesize_market_falling_due_in_part_to_drop_in_brazilian_spot_iron_ore_cargo_vol__root",
+  "doc_id": "breakwave_insights_insights_2025-06-27_2025_06_27_capesize_market_falling_due_in_part_to_drop_in_brazilian_spot_iron_ore_cargo_vol",
+  "parent_id": null,
+  "title": "Capesize Market Falling Due In Part To Drop in Brazilian Spot Iron Ore Cargo Volume",
+  "section_path": [
+    "Capesize Market Falling Due In Part To Drop in Brazilian Spot Iron Ore Cargo Volume"
+  ],
+  "section_path_text": "Capesize Market Falling Due In Part To Drop in Brazilian Spot Iron Ore Cargo Volume",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's June 23rd Weekly Executive Report, overall dry bulk rates fell last week with capesize rates in particular coming under significant pressure. Brazilian spot iron ore cargo volume climbed even further last week, which helped propel capesize rates even higher during the first half the week. Last week's 9 officially announced Brazilian spot iron ore cargoes again marked the largest amount reported all year.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "iron",
+    "ore",
+    "brazilian",
+    "last",
+    "remain",
+    "asset",
+    "continue"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 555,
+  "source_path": "reports/breakwave/2025/2025-06-27_capesize-market-falling-due-in-part-to-drop-in-brazilian-spot-iron-ore-cargo-vol.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/6/27/capesize-market-falling-due-in-part-to-drop-in-brazilian-spot-iron-ore-cargo-volume",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-06-27_2025_06_27_capesize_market_falling_due_in_part_to_drop_in_brazilian_spot_iron_ore_cargo_vol__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-06-27_2025_06_27_capesize_market_falling_due_in_part_to_drop_in_brazilian_spot_iron_ore_cargo_vol",
+      "parent_id": "breakwave_insights_insights_2025-06-27_2025_06_27_capesize_market_falling_due_in_part_to_drop_in_brazilian_spot_iron_ore_cargo_vol__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's June 23rd Weekly Executive Report, overall dry bulk rates fell last week with capesize rates in particular coming under significant pressure. Brazilian spot iron ore cargo volume climbed even further last week, which helped propel capesize rates even higher during the first half the week.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "coal",
+        "iron",
+        "ore",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 331,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-27_2025_06_27_capesize_market_falling_due_in_part_to_drop_in_brazilian_spot_iron_ore_cargo_vol__s02_linked_asset_2025_06_27_capesize_market_falling_due_in_part_to_drop_in_brazilian_spot_iron_ore_cargo_vol_img_chart_0b00a81a7b61_jpg",
+      "doc_id": "breakwave_insights_insights_2025-06-27_2025_06_27_capesize_market_falling_due_in_part_to_drop_in_brazilian_spot_iron_ore_cargo_vol",
+      "parent_id": "breakwave_insights_insights_2025-06-27_2025_06_27_capesize_market_falling_due_in_part_to_drop_in_brazilian_spot_iron_ore_cargo_vol__root",
+      "title": "Linked asset: 2025-06-27_capesize-market-falling-due-in-part-to-drop-in-brazilian-spot-iron-ore-cargo-vol_img_chart_0b00a81a7b61.jpg",
+      "section_path": [
+        "Linked asset: 2025-06-27_capesize-market-falling-due-in-part-to-drop-in-brazilian-spot-iron-ore-cargo-vol_img_chart_0b00a81a7b61.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-06-27_capesize-market-falling-due-in-part-to-drop-in-brazilian-spot-iron-ore-cargo-vol_img_chart_0b00a81a7b61.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-27_capesize-market-falling-due-in-part-to-drop-in-brazilian-spot-iron-ore-cargo-vol_img_chart_0b00a81a7b61.jpg\n\nLinked image asset: 2025-06-27_capesize-market-falling-due-in-part-to-drop-in-brazilian-spot-iron-ore-cargo-vol_img_chart_0b00a81a7b61.jpg\n\nImage metadata: JPEG 591x245 mode=RGB\n\nOCR text:\nReported Brazilian Spot Iron Ore Gargoes (Week Ending May 16 - June 20)\n10\n8\n6\n4\n2\n0\nMay 16 May23. May 30 Jun 6 Jun 13, Jun 20",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "iron_ore",
+        "jun",
+        "may",
+        "asset",
+        "image",
+        "brazilian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 173,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

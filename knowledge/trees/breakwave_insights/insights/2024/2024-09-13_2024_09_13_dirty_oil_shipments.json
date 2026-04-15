@@ -1,0 +1,254 @@
+{
+  "node_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__root",
+  "doc_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments",
+  "parent_id": null,
+  "title": "Dirty Oil Shipments",
+  "section_path": [
+    "Dirty Oil Shipments"
+  ],
+  "section_path_text": "Dirty Oil Shipments",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Tanker - Weekly Market Monitor\nSnapshot of Crude Freight Rates, Supply-Demand\nWeek 37, September 13, 2024\n\nChart of the Week: Dirty Oil Shipments - Libya\nThis week's special focus is on the growth of VLCC AG supply for the first two weeks of September, as depicted in the left chart. The data shows promising signs of increasing supply, while WS rates are striving to establish firmer momentum. On the cargo side, illustrated in the right chart, the outlook appears more challenging.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "average",
+    "supply",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2289,
+  "source_path": "reports/breakwave/2024/2024-09-13_dirty-oil-shipments.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/9/13/dirty-oil-shipments",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__s01_tanker_weekly_market_monitor",
+      "doc_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__root",
+      "title": "Tanker - Weekly Market Monitor",
+      "section_path": [
+        "Tanker - Weekly Market Monitor"
+      ],
+      "section_path_text": "Tanker - Weekly Market Monitor",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Snapshot of Crude Freight Rates, Supply-Demand\nWeek 37, September 13, 2024",
+      "keywords": [
+        "crude",
+        "september",
+        "snapshot",
+        "supply-demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__s02_chart_of_the_week_dirty_oil_shipments_libya",
+      "doc_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__root",
+      "title": "Chart of the Week: Dirty Oil Shipments - Libya",
+      "section_path": [
+        "Chart of the Week: Dirty Oil Shipments - Libya"
+      ],
+      "section_path_text": "Chart of the Week: Dirty Oil Shipments - Libya",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This week's special focus is on the growth of VLCC AG supply for the first two weeks of September, as depicted in the left chart. The data shows promising signs of increasing supply, while WS rates are striving to establish firmer momentum.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "oil",
+        "supply",
+        "crude",
+        "saudi",
+        "arabia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 411,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__s03_section_1_freight",
+      "doc_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__root",
+      "title": "SECTION 1/ FREIGHT",
+      "section_path": [
+        "SECTION 1/ FREIGHT"
+      ],
+      "section_path_text": "SECTION 1/ FREIGHT",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Market Rates (WS) ‘Dirty' WS - Firmer VLCC - Suezmax - Aframax\nSentiment in the dirty freight market appears to be firming in the second week of September; however, current levels remain only marginally above the lows recorded during the summer season. The VLCC MEG-China freight rates rose to 50 WS, a weekly increase of 8%, and up 47% compared to the same week last September.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__s04_section_2_supply",
+      "doc_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__root",
+      "title": "SECTION 2/ SUPPLY",
+      "section_path": [
+        "SECTION 2/ SUPPLY"
+      ],
+      "section_path_text": "SECTION 2/ SUPPLY",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "‘Dirty' (# vessels) - Mixed\nImage reference: $1.png | assets/2024-09-13_dirty-oil-shipments_img_241_ef9cbf9f34c0.png\nThe supply of crude tankers showed an upward trend in the second week of September, exceeding the annual average on both the Suez West Africa and Aframax Mediterranean routes. In contrast, a downward trend was observed for VLCC activity on the Ras Tanura route.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "annual",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 247,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__s05_section_3_demand_tonne_days",
+      "doc_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__root",
+      "title": "SECTION 3/ DEMAND (Tonne Days)",
+      "section_path": [
+        "SECTION 3/ DEMAND (Tonne Days)"
+      ],
+      "section_path_text": "SECTION 3/ DEMAND (Tonne Days)",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "‘Dirty' Decreasing\nImage reference: $2.png | assets/2024-09-13_dirty-oil-shipments_img_242_83dbcab5a47c.png\nDirty tonne days: The decrease in VLCC tonne-days growth has persisted through the first half of September, raising uncertainties about the long-term stability of firmness for dirty freight rates. This decline reflects a weakening demand for VLCCs, contributing to market volatility.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "dirty",
+        "growth",
+        "tonne-days",
+        "signal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__s06_linked_asset_2024_09_13_dirty_oil_shipments_img_screenshot2024_09_13143406_ccb609323b7d_png",
+      "doc_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__root",
+      "title": "Linked asset: 2024-09-13_dirty-oil-shipments_img_screenshot2024-09-13143406_ccb609323b7d.png",
+      "section_path": [
+        "Linked asset: 2024-09-13_dirty-oil-shipments_img_screenshot2024-09-13143406_ccb609323b7d.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-13_dirty-oil-shipments_img_screenshot2024-09-13143406_ccb609323b7d.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-13_dirty-oil-shipments_img_screenshot2024-09-13143406_ccb609323b7d.png\n\nLinked image asset: 2024-09-13_dirty-oil-shipments_img_screenshot2024-09-13143406_ccb609323b7d.png\n\nImage metadata: PNG 848x363 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nAG VLCC Supply Vs WS TD3 Cargo Count Loaded\n14d MA 14d MA\n10\n100 120\n160 9\n100\nE 3 Pes i 44\né ™\"\n: eg B,\nFA é\n¥ a By ate, Al \\ ; Wa WE)\nbed as0Hal HE cays Alb= 0.0\n100 7\n4\n% 2: 2: 2. 6\nee epee wee eres wees Tan 2024 Mar 2024 May 2024 ya 2028 Sep 2024 Nov 2024\n-net Supply Tos\nDemand Benchmark: 85 2022 --2023 --2024\n270,000 Dirty 270K Middle East Gulf to China:",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "crude_oil",
+        "asset",
+        "image",
+        "supply",
+        "alb"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 282,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__s07_linked_asset_2024_09_13_dirty_oil_shipments_img_241_ef9cbf9f34c0_png",
+      "doc_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__root",
+      "title": "Linked asset: 2024-09-13_dirty-oil-shipments_img_241_ef9cbf9f34c0.png",
+      "section_path": [
+        "Linked asset: 2024-09-13_dirty-oil-shipments_img_241_ef9cbf9f34c0.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-13_dirty-oil-shipments_img_241_ef9cbf9f34c0.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-13_dirty-oil-shipments_img_241_ef9cbf9f34c0.png\n\nLinked image asset: 2024-09-13_dirty-oil-shipments_img_241_ef9cbf9f34c0.png\n\nImage metadata: PNG 940x658 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nEH\n@ 100\n£\n2 80 Average\nre) --- - - Hf ~~»\nSg 60 -- =-- Se |\n>\n§ 80 / \\ a Ne\n, / = ~ -\nei [| ~\\.f.A, =\ny YY _ | Qa ™\"_, YY _\n2 _/\n? 40\n20\ng\n° 10 Average a -~---- LN fr --->--------->* ewe =|\n50\n2\n= 40\n.",
+      "keywords": [
+        "crude_oil",
+        "average",
+        "asset",
+        "image",
+        "aka",
+        "dirty-oil-shipments_img_241_ef9cbf9f34c0.png",
+        "dpi",
+        "eee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 396,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__s08_linked_asset_2024_09_13_dirty_oil_shipments_img_242_83dbcab5a47c_png",
+      "doc_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-09-13_2024_09_13_dirty_oil_shipments__root",
+      "title": "Linked asset: 2024-09-13_dirty-oil-shipments_img_242_83dbcab5a47c.png",
+      "section_path": [
+        "Linked asset: 2024-09-13_dirty-oil-shipments_img_242_83dbcab5a47c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-13_dirty-oil-shipments_img_242_83dbcab5a47c.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-13_dirty-oil-shipments_img_242_83dbcab5a47c.png\n\nLinked image asset: 2024-09-13_dirty-oil-shipments_img_242_83dbcab5a47c.png\n\nImage metadata: PNG 940x548 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n£\nS\n© 100%\n4 Average\n2 ss -- ey ee, ee ee -----------1\n(=)\n5 95%\nVv\nVv\ng\n>\n90%\ng\n»\n3 100%\nBo. Average Lf Nf fe\n= 95%\nGj\ns\n90%\n3\nnn\n85%\n110%\n£\nS\n2\nG 105%\no Average of oe eee nnn nnn neee-\\fh----\\--s ny\n5 100%\n£\n<\n95%\n~ O29 + © NY & OD fF we mM Hw KR oOo FM YH HR BD fH Mm H RR DBD Be mM H\n22353 2.3 2232232235322 22322232232 32 23232232 2 2\nmm mM mM mM mo mM m S SF SF SF SB FSF SF FS tteetesetetysesesststsFtse es\n~N WN WN WN WwW w we w S&S BS BSB ES SHeNNNNHKRKNNKN NN KH KEK AN\nSo Ss Ss Ss & & & S&S k & R& RK RB 86 8S S&S &S &S S&S SC F&F S&S Ss F&F Ss Ss Ss\nN N N N N N N N N N N N N N N N N N N N N N",
+      "keywords": [
+        "crude_oil",
+        "average",
+        "asset",
+        "image",
+        "nnn",
+        "bo.",
+        "bsb",
+        "dbd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 409,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

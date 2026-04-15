@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities__root",
+  "doc_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities",
+  "parent_id": null,
+  "title": "2024 Realities",
+  "section_path": [
+    "2024 Realities"
+  ],
+  "section_path_text": "2024 Realities",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nAs we approach the final trading days of the year, the Baltic Dry Indices reflect the tempered realities of 2024, a year marked by subdued performance compared to the highs of 2023. The fourth quarter, once a period of peak activity for dry bulk trades, has been muted, with all market segments struggling to replicate last year's remarkable surge. The Capesize segment, which led the rally in 2023, saw its characteristic volatility replaced by stagnation.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "grain",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1954,
+  "source_path": "reports/breakwave/2024/2024-12-16_2024-realities.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/12/16/2024-realities",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities",
+      "parent_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nAs we approach the final trading days of the year, the Baltic Dry Indices reflect the tempered realities of 2024, a year marked by subdued performance compared to the highs of 2023. The fourth quarter, once a period of peak activity for dry bulk trades, has been muted, with all market segments struggling to replicate last year's remarkable surge.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "atlantic",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1194,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities__s02_linked_asset_2024_12_16_2024_realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb7e05c6fd58_png",
+      "doc_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities",
+      "parent_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities__root",
+      "title": "Linked asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb7e05c6fd58.png",
+      "section_path": [
+        "Linked asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb7e05c6fd58.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb7e05c6fd58.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb7e05c6fd58.png\n\nLinked image asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fb7e05c6fd58.png\n\nImage metadata: PNG 433x246 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nsie\n$15k\n$14K\n$13K\n$12K\n$11K\n$10K\n$9K\n$8k\n$7K\n$6K\n2-SEP 16-SEP 30-SEP 14-OCT 28-OCT 11-NOV 25-NOV 9-DEC",
+      "keywords": [
+        "sep",
+        "asset",
+        "image",
+        "nov",
+        "oct",
+        "dec",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities__s03_linked_asset_2024_12_16_2024_realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9010a15abe8d_png",
+      "doc_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities",
+      "parent_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities__root",
+      "title": "Linked asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9010a15abe8d.png",
+      "section_path": [
+        "Linked asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9010a15abe8d.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9010a15abe8d.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9010a15abe8d.png\n\nLinked image asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9010a15abe8d.png\n\nImage metadata: PNG 436x237 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n6500\n6000\n5500\n5000\n4500\n4000\nCPP POLO LE EL\nPR a Rh WW A a a OS as\n\"source: Nasdaq, Dorie Research",
+      "keywords": [
+        "asset",
+        "image",
+        "source",
+        "cpp",
+        "dorie",
+        "dpi",
+        "embedded",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities__s04_linked_asset_2024_12_16_2024_realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0716f01d00a1_png",
+      "doc_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities",
+      "parent_id": "breakwave_insights_insights_2024-12-16_2024_12_16_2024_realities__root",
+      "title": "Linked asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0716f01d00a1.png",
+      "section_path": [
+        "Linked asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0716f01d00a1.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0716f01d00a1.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0716f01d00a1.png\n\nLinked image asset: 2024-12-16_2024-realities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0716f01d00a1.png\n\nImage metadata: PNG 433x265 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nGlobal trade in goods and services\nAnnual growth in the value of trade in goods and services, 2019 Q1-2024 Q4\n30%\n20%\n10%\n0% -\n-10% m 2\n+\n-20% a0\n3<\n-30% 2 $\n2019 2020 2021 2022 2023 2024 2 at\nmmr Services --- Goods\nSource: UNCTAD, Doric Research",
+      "keywords": [
+        "goods",
+        "services",
+        "asset",
+        "image",
+        "source",
+        "trade",
+        "annual",
+        "doric"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 232,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

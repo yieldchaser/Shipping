@@ -1,0 +1,342 @@
+{
+  "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+  "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+  "parent_id": null,
+  "title": "Russian crude oil shipments",
+  "section_path": [
+    "Russian crude oil shipments"
+  ],
+  "section_path_text": "Russian crude oil shipments",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 31, August 02, 2024\nThis week's chart underscores the upward trend in the monthly quantity of Russian crude oil shipments to the Central Mediterranean and the Sea of Marmara. Italy has emerged as the leading destination country, reflecting a significant shift in trade routes. The Suezmax vessel size category has taken a substantial share, accounting for 46% of the shipment volume, while the Aframax size category leads with 54%.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5764,
+  "source_path": "reports/breakwave/2024/2024-08-05_russian-crude-oil-shipments.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/8/5/russian-crude-oil-shipments",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 31, August 02, 2024\nThis week's chart underscores the upward trend in the monthly quantity of Russian crude oil shipments to the Central Mediterranean and the Sea of Marmara. Italy has emerged as the leading destination country, reflecting a significant shift in trade routes.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2109,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s02_linked_asset_2024_08_05_russian_crude_oil_shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ebb212e128a_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ebb212e128a.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ebb212e128a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ebb212e128a.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ebb212e128a.png\n\nLinked image asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ebb212e128a.png\n\nImage metadata: PNG 666x636 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChart of the Week 31, 2024 Tanker Market Monitor\nRussian Crude Oil Flows\nDestinations: Central Med, Sea of Marmara\n&\nJan Feb Mar Apr May Jun Jal Avg Sep Oct Now Dec\nDestination Countries Vessel Classes\nSuezmax 46.3%\nCosts J rex\nTurkey Oo 72%\nMata ff 25%\nTunisia | 03%\nAtramax 53.7%",
+      "keywords": [
+        "suezmax",
+        "crude_oil",
+        "asset",
+        "image",
+        "apr",
+        "atramax",
+        "avg",
+        "central"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s03_linked_asset_2024_08_05_russian_crude_oil_shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_93ad6d867c9b_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_93ad6d867c9b.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_93ad6d867c9b.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_93ad6d867c9b.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_93ad6d867c9b.png\n\nLinked image asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_93ad6d867c9b.png\n\nImage metadata: PNG 659x580 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMarket Rates (WS)\n‘Dirty' WS - Mixed\nVLCC - Suezmax - Aframax\nWeekly Trends, WS Dirty Rates\nWE VLCC MEG/China @ Suez WaAfr to Cont I Suez Baltic Mec Wl Afra Med\n250\n200\ny\n= 150\n4\n6\n100\nee\ni)\nHBRBBERBRLESFSSLEESARKHESHERRERBH\nSSsssSsesesSssszFsFFTSFESESSSEsss ss\n~\" o ia] ~m \" ia] ~m 2 ia] ~m ix] nN Nx is] NX nN a zs = A =z = zs = + s+",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "crude_oil",
+        "asset",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s04_linked_asset_2024_08_05_russian_crude_oil_shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb7b2724b067_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb7b2724b067.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb7b2724b067.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb7b2724b067.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb7b2724b067.png\n\nLinked image asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cb7b2724b067.png\n\nImage metadata: PNG 657x485 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Product' WS\nLR2 Weaker\nWeekly Trends Clean LR2\n300\n250\nz\n= 200\nSo\n&\ng\n100\n50\n0\nBRRSRERSELFLFELRESELS EES SSSSERSERKRERASB\nSS 3335553532222 2233333 33333 8\nmm manmmnamnmmnemamnmnasnanwswsssrtrteseesesstse¢:\nNAN NA NANNKHHAKNKHKNK SF SF SF SBENKKRHKHAAKAKHNKRAKR A\nsesocesecseseseseeseesereBQ SSK SESS SESSSPSsesesse\nFRRRRRRRRRR SSRkRRRRRRKR",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "lr2",
+        "brrsrerselflfelresels",
+        "clean",
+        "dpi",
+        "ees"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 305,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s05_linked_asset_2024_08_05_russian_crude_oil_shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd66bc106e12_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd66bc106e12.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd66bc106e12.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd66bc106e12.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd66bc106e12.png\n\nLinked image asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dd66bc106e12.png\n\nImage metadata: PNG 656x385 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nLR1 Firmer\nWeekly Trends Clean Panamax\n600\n500\ng\n> 400\n°\n&\n2\n& 300\nv\n=\n200\n100\n0)\nBRRSRERELSTFSELRESSELSELSsERSBSRERGsSERKCRKERSA\nSSS 5353533533 5322522333333 333 38\nmmnnmmmma mmmmmaenanaskss FS ZTTTBEBETBERTE\nNAN NNN ANNAN AKHKN KW SF SFE SES SKRHAHKHNAKHKHN AA NK\nseo ceosecsecseseeseseseRRKR®it SS KR EOSsSESSESSeseseses\nRRRRRRRRRRR SRRRRRRAR RR",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "asset",
+        "image",
+        "akhkn",
+        "annan",
+        "brrsrerelstfselresselselssersbsrergsserkcrkersa",
+        "ceosecsecseseeseseserrkr"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 298,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s06_linked_asset_2024_08_05_russian_crude_oil_shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7d21aa4a4c6_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7d21aa4a4c6.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7d21aa4a4c6.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7d21aa4a4c6.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7d21aa4a4c6.png\n\nLinked image asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7d21aa4a4c6.png\n\nImage metadata: PNG 664x573 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nMR Mixed\nWeekly Trends Clean MR\n@ MR1 Baltic/UKC i MR2 Cont/USAC Mi MR2 USG/Cont\n400\n300\nnN\n200\n100\nte)\n400\n300\n200\n100\n0\nBSRESSESLSSESSSLLELSERRERSRRERS\nSSS3335 53533553222 22332323533333 8\nmaAannnnmnannoannmaAnnaansertsrtrteresreesesestsese\nNN NAKA NKNNKNNNKNN CEC BCOBSBSEBKRHKHNKNANANKRANN NK AH\nsescoococecogoceoeoeoonnnwnnweneseeseseeseseseseseesese\nRRRRKRERRRRRR RRERERRSRLRRRRR",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "clean",
+        "image",
+        "mr2",
+        "baltic/ukc",
+        "bcobsbsebkrhkhnknanankrann",
+        "bsresseslssesssllelserrersrrers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 318,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s07_linked_asset_2024_08_05_russian_crude_oil_shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e36ec521d253_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e36ec521d253.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e36ec521d253.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e36ec521d253.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e36ec521d253.png\n\nLinked image asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e36ec521d253.png\n\nImage metadata: PNG 665x586 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Dirty' (# vessels) - Mixed\n3\n& 100\né\n2 80 |Average\nyg om ae fe ee NVOONOOA f~\n= ---=- SS\n5 20\n: ;\n=< wer, - ot A AE. OY 4 ST\nS gp Average==----- ~~~ f -------- = _\nwy\n$\n° 40\n20\nz\n: a << .",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "average",
+        "image",
+        "nnn",
+        "aafl",
+        "adaom",
+        "ae."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 383,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s08_linked_asset_2024_08_05_russian_crude_oil_shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f580657cd40_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f580657cd40.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f580657cd40.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f580657cd40.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f580657cd40.png\n\nLinked image asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f580657cd40.png\n\nImage metadata: PNG 660x420 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nLR2 (#vessels) - Decreasing\n30\n25\n20\nJ\n<\nx\n315\naverage DA [\\\nwy O/T AR \\f¥\ns\nSSRSSRGFELS SPS Sse eregasBaesgsRsgags\nses Ss 5S 5S 5 5 5558 SS Ss 53 555353532858\nrmnnwananme-*manmnmm=amassistiaisgssestsstsF FSF FETE\nNAN NAAKANOKHANKNHAK SF SB SEB SBSHKABAKRHKAKHKHAHK HARA AN\nS<gsegeegeeeeseReRGCGSXFFieHenNenNQgRgeRgRgRgRgeegeResgees\naN a ON nN nN NNN NON NOONOOUNOOUNOUNOUN",
+      "keywords": [
+        "crude_oil",
+        "gas",
+        "asset",
+        "image",
+        "amassistiaisgssestsstsf",
+        "average",
+        "clean",
+        "decreasing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 330,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s09_linked_asset_2024_08_05_russian_crude_oil_shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7980553a1613_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7980553a1613.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7980553a1613.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7980553a1613.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7980553a1613.png\n\nLinked image asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7980553a1613.png\n\nImage metadata: PNG 657x401 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMR (#vessels) - Mixed\ng 40\n=\nFe\n, .. Average\n@ 30\n=\n20\nPON |\nEB Aterage-5 - = TX\n- -\n: \\/ V\n= 20\nam he e@ ee eeepunnnoudmeeraunnread\ng@eeeseeses se SST KkBEeBSeKFe*RBeEEEBEERKEHEKEYEY EE\nSs.",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "aterage-5",
+        "average",
+        "bsbbbaearkrkrehkheararkrokrnkr",
+        "dpi",
+        "eeepunnnoudmeeraunnread"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 360,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s10_linked_asset_2024_08_05_russian_crude_oil_shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a43ef264357_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a43ef264357.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a43ef264357.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a43ef264357.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a43ef264357.png\n\nLinked image asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a43ef264357.png\n\nImage metadata: PNG 657x508 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Pi J i\nDirty' Decreasing\ns\n=\nB 100%\nrf] Avelyge\ng\nF 95%\n&\n5\n<\n© 100%\n8 Average\n= 95%\nSs\nee\nyz 30%\na\n85%\na\n3 105%\nz =\ne Average\nF 100%\nAq\n= 95%\nBoSesSet 2 PsesFexeegeeseeae Bese arg SRE BB\n=F 255 5 5 FSS FFSPFFESPsesess SSS E\n72 Heenenannea tS FB BE REECE SEE E EEE\nSS<RKCRERRRRERREKREESEESERERESEERERRZSA\nSS 8 88 8 § 8 § § §S § FF F&F FF 8S FF $ 8 FS 8 BB\nRRR RRS RR RR A S 8 SS FR RRR A",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "average",
+        "image",
+        "rrr",
+        "arg",
+        "avelyge",
+        "bese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 343,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__s11_linked_asset_2024_08_05_russian_crude_oil_shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ff7a0dee678_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_russian_crude_oil_shipments__root",
+      "title": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ff7a0dee678.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ff7a0dee678.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ff7a0dee678.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ff7a0dee678.png\n\nLinked image asset: 2024-08-05_russian-crude-oil-shipments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3ff7a0dee678.png\n\nImage metadata: PNG 664x445 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘ 3 i\nClean' Decreasing\nTie\n2\ng *\" average\n2\n= 80%\n70%\ni\nF 205% ange\n2\nee\n=, 100%\n2\n=\nee\n3B Avpage\n4\n= nnn\n= 100%\n=-_ o & @ = 8 f 5 @ a =n @ 8 | 2 2] hf S\nESSssstrssr ser zszsszsEPEEEEEE EE\n28 €<RKSRSRKRERBESERSERE REE EE EERE RE SB\nRRERER RF RRER RRR RHR RH RE EKER ERE R KR",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "ange",
+        "average",
+        "avpage",
+        "clean",
+        "decreasing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 287,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

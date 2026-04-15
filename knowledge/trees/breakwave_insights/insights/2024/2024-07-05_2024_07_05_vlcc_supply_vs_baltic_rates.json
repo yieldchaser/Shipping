@@ -1,0 +1,342 @@
+{
+  "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+  "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+  "parent_id": null,
+  "title": "VLCC Supply Vs Baltic rates",
+  "section_path": [
+    "VLCC Supply Vs Baltic rates"
+  ],
+  "section_path_text": "VLCC Supply Vs Baltic rates",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 27, July 04, 2024\nImage reference: Στιγμιότυπο οθόνης 2024-07-05 084527.png | assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d05e536065f.png\nThe first week of July saw a continued weakening in crude oil freight rates, driven by the increasing supply of VLCCs, which exerted significant downward pressure on the market. The increased availability of spot relet vessels in Ras Tanura suggests a potential oversupply in the market, which has contributed to the decline in AG-China freight rates. As more vessels become available, competition among them intensifies, leading to lower rates.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 6056,
+  "source_path": "reports/breakwave/2024/2024-07-05_vlcc-supply-vs-baltic-rates.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/7/5/vlcc-supply-vs-baltic-rates",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Snapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 27, July 04, 2024\nImage reference: Στιγμιότυπο οθόνης 2024-07-05 084527.png | assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d05e536065f.png\nThe first week of July saw a continued weakening in crude oil freight rates, driven by the increasing supply of VLCCs, which exerted significant downward pressure on the market. The increased availability of spot relet vessels in Ras Tanura suggests a potential oversupply in the market, which has contributed to the decline in AG-China freight rates.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2255,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s02_linked_asset_2024_07_05_vlcc_supply_vs_baltic_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d05e536065f_png",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d05e536065f.png",
+      "section_path": [
+        "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d05e536065f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d05e536065f.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d05e536065f.png\n\nLinked image asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d05e536065f.png\n\nImage metadata: PNG 709x590 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChart of the Week: VLCC Supply Vs Baltic rates\nThis week's data highlights an increasing trend in VLCC available spot relet vessels to load\nin Ras Tanura in the next 30 days (left chart), coinciding with weakening AG-China freight\nmarket rates throughout June. This trend appears to be persisting into July, pushing WS\nTD3 rates to a new low for this year.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "chart",
+        "days",
+        "asset",
+        "data",
+        "dirty",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 421,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s03_linked_asset_2024_07_05_vlcc_supply_vs_baltic_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77ca087797cf_png",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77ca087797cf.png",
+      "section_path": [
+        "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77ca087797cf.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77ca087797cf.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77ca087797cf.png\n\nLinked image asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77ca087797cf.png\n\nImage metadata: PNG 741x547 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT\nMarket Rates (WS)\n‘Dirty' WS - Weaker\nVLCC - Suezmax - Aframax\nWeekly Trends, Dirty Rates\nHB VLCC MEG/China I Suez wafr cont i Suez Baltic ed Biafra med\nan\n400\n350\n300\n£ 250\n200\n150\n100\nSee Oe ea et ea\nBR ERSREBES REELS RES LEELARRERBARRA!A\n222222222 22225552 F FC FBBZFBBBBBB\nSSRXkAKSRKRARRRBKREKRRESESSESEERESEERSSEESES\nRES FERS SSRRERRERBR SF F SS ERKEREKRRRERR",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "asset",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 298,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s04_linked_asset_2024_07_05_vlcc_supply_vs_baltic_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39e4211197d5_png",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39e4211197d5.png",
+      "section_path": [
+        "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39e4211197d5.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39e4211197d5.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39e4211197d5.png\n\nLinked image asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_39e4211197d5.png\n\nImage metadata: PNG 705x443 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Product' WS\nLR2 Firmer\nWeekly Trends, Clean LR2\n350\n300\n\"\n¥ 200\n=\n150\n100\nBSERBRERBSESRLSESESELELHERREEBERESB\n22222222 22 2225 F FF FEPBBFBBBB2B 282\nSSSSKRRRBRBKRRHRKRKRKESESEESSESESEERESEES\nRS RERSRSRRRRRERRKRERWF KS FHF FE REKKRRRE RS",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "lr2",
+        "bserbrerbsesrlseseselelherreeberesb",
+        "clean",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 256,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s05_linked_asset_2024_07_05_vlcc_supply_vs_baltic_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40cad96bfca9_png",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40cad96bfca9.png",
+      "section_path": [
+        "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40cad96bfca9.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40cad96bfca9.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40cad96bfca9.png\n\nLinked image asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_40cad96bfca9.png\n\nImage metadata: PNG 739x378 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nLR1 Weaker\nWeekly Trends, Clean Panamax\n380\n300\n¥ aso\na\n3\n200\n150\nSka RS sBseseesezxsesesesesgeeseer'ssesesesetsseR RS\nSSs<sSsessessessszszseerzrTeesessessess ss\noanmnnnmnm~\" mmm mH Hh Hh WH HAN he Pe ststeesertestssts te Fe Fe FF\nNNN NHN NHEeONOOUUNRlCUCUNRUCU NU NDUCUChNFT NN SO TC KC 8S Se NHRHEONCUCUNCUCUNCUCUNDCUCUNDCUCUNCUNCUN\neeoectreeoceecocescesescoeosceenene nnn 8&€ S8Scos eoeoesesceeseseegese\nNNN NEN NN NONRONCUCUNOUN UN NNN NNN NNN",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "nnn",
+        "asset",
+        "image",
+        "aso",
+        "clean",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 351,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s06_linked_asset_2024_07_05_vlcc_supply_vs_baltic_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_961f019dbc11_png",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_961f019dbc11.png",
+      "section_path": [
+        "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_961f019dbc11.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_961f019dbc11.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_961f019dbc11.png\n\nLinked image asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_961f019dbc11.png\n\nImage metadata: PNG 708x454 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘ ,\nClean\nMR Firmer\nWeekly Trends, Clean MR\nBE mr2 Contyusac BE rz usa/cont Wri BalticfuKc\n1000\n800\n2 600\ng\n400\n0 peri Oe NS LOGIE\nbd an] \" » bed «= il wo Led a «= a - 9 \" 5s a - m yes\ns s s 7 s co o oc Pal\nSSESSESS SISSIES SsSSSS SERRE § § $8\nm m m m m m m m m m m m m NX N Nx NX NX a a a a vc a vc ses\nN NX NX NX Nn N NX N NX NX NX N NX J - -] i] = N N N NX N N N NN\nco co co cs co o oc co =) co cs cs co N N N N N cs o cs =) co cs co csc\nN N N N N N N N N N N N N N N N N N N N NN",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "clean",
+        "image",
+        "balticfukc",
+        "bed",
+        "contyusac",
+        "csc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 359,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s07_linked_asset_2024_07_05_vlcc_supply_vs_baltic_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9289a168022f_png",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9289a168022f.png",
+      "section_path": [
+        "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9289a168022f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9289a168022f.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9289a168022f.png\n\nLinked image asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9289a168022f.png\n\nImage metadata: PNG 711x699 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Dirty' (# vessels) - Mixed\n;°\n7 Averabe \\ M4 Naa | Fl [WM PA And A N\\N\n> roa! g VW a We |W\n3\n40\nF co\nF ,\n3\n\"\n40\nEo yy\n£ Ayer\n30\n£\n20\n» 4\n3»\n3 2\n£1 NIN rata pine ap Margit\n°\nBREERREREPSSSES SELLER RBRRESEE SE\nSSSSSPSSSSSssszzzrFzFSEsEEsErs s §E\na mm mm mH mH mH mH mm MH MH WY HS HS HS KA s Fs Fs FS FS HFT FT Tse\nSS SS SSSSESESESESESRRERKKEKSESESESESBESESESS\nNn NN NNN NOONCUCUNCUCUN ON ON UN nN NN ONON ON ON ON\nWeekly Supply Trend.",
+      "keywords": [
+        "vlcc",
+        "west_africa",
+        "days",
+        "forward",
+        "afra",
+        "asset",
+        "east",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 423,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s08_linked_asset_2024_07_05_vlcc_supply_vs_baltic_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f87575325c9_png",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f87575325c9.png",
+      "section_path": [
+        "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f87575325c9.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f87575325c9.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f87575325c9.png\n\nLinked image asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3f87575325c9.png\n\nImage metadata: PNG 715x453 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nLR2 (#vessels) - Increasing\n15\n10\nS = Average\nN\n«\n&\ns\nBRSLARBRBEBRBESRVSRSESRESLSLESAHAREATRRE\nSSFSSsSEsSsSssSssrrPrPrPrErSESTSErEEss Ss\nSRkARRRARKRRARRKKRARRSERBSSSESERSEREBS\nSSSRSRKERKRKRKFERKRKER SKF FHF KQVKKEKRKKRRR\nFee ear eran Declayment secure\nLR2 AG_Jubail, 10 days forwerds RD Cock Meanioroue days forward / MR1 Algetia_Skikda, 6 days forward",
+      "keywords": [
+        "vlcc",
+        "days",
+        "asset",
+        "forward",
+        "image",
+        "lr2",
+        "ag_jubail",
+        "algetia_skikda"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 304,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s09_linked_asset_2024_07_05_vlcc_supply_vs_baltic_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99c38c532962_png",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99c38c532962.png",
+      "section_path": [
+        "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99c38c532962.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99c38c532962.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99c38c532962.png\n\nLinked image asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_99c38c532962.png\n\nImage metadata: PNG 730x429 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMR (#vessels) - Increasing\na\n350\n% 4\n(eee va uit Dah AM, Wa yaa f \\ 4\ni APPARATLTTY V Wah AvY V\n3°\nJoy rian en, Shay pool\ng 2\n=o\nSSBRRBERERSLSESRERLSESARARAEE ES\nSSSsessessesssesrszszerrzrrsSsSsSsess ss\nRkRkRRRAKRRKRAKRARSESEESEESEEKRAKRRSRSKRSEESESR\nRERRkKRRRERKRKRKRKRKESNSNSS NS RFEKERKRKRKKKRK\nWeekly Supply Trend, Deployment: spot/relet. MR2 Cont_Amsterdam, 8 days forward / MR1 Algeria_Skikda, 6 days forward",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "days",
+        "forward",
+        "image",
+        "algeria_skikda",
+        "apparatltty",
+        "avy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 326,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s10_linked_asset_2024_07_05_vlcc_supply_vs_baltic_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3ecf80ed307_png",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3ecf80ed307.png",
+      "section_path": [
+        "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3ecf80ed307.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3ecf80ed307.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3ecf80ed307.png\n\nLinked image asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f3ecf80ed307.png\n\nImage metadata: PNG 688x510 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND (Tonne Days)\n‘Dirty' Decreasing\nBvicc B suez BB Aframax\n110%\n105%\n=\n= 100%\n4\n°\nF 959\n90%\n85%\nRBRAERBRBERBESLLSLSCFSSLELSARRERSARER\ncooceeoeeseoeseseseseceseseesgen»+nven*wn wn oeseseeseseeseeese\nLSLRSCKLRCRKCRk<Rek<geage ZLSk<RSRRRRR",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "asset",
+        "image",
+        "bvicc",
+        "cooceeoeeseoeseseseseceseseesgen",
+        "days",
+        "decreasing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__s11_linked_asset_2024_07_05_vlcc_supply_vs_baltic_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8822edede600_png",
+      "doc_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates",
+      "parent_id": "breakwave_insights_insights_2024-07-05_2024_07_05_vlcc_supply_vs_baltic_rates__root",
+      "title": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8822edede600.png",
+      "section_path": [
+        "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8822edede600.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8822edede600.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8822edede600.png\n\nLinked image asset: 2024-07-05_vlcc-supply-vs-baltic-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8822edede600.png\n\nImage metadata: PNG 709x433 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘ Mi\nClean' Mixed\nBH Panamax Mme Wi mez\n120%\nBas\n2\n| 100%\n100%\nae\noo\n2\nE a\nN nm mm © s Ts FF Ff WwW rnrts aA Ft NN NN\nSSSSSSSSSSSssSrrzrrTFsssssessss\nmnnnmnnmnnm me mh mH mh MNS HWE NO KN RAO ets sO sts Fests stsmUhUCT-C-~<h ][UTCT\nRSRSRRKRRKSKKRRKCRKRKKRRKRSN REXRSRRKRRKRAR",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "asset",
+        "image",
+        "bas",
+        "clean",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 280,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

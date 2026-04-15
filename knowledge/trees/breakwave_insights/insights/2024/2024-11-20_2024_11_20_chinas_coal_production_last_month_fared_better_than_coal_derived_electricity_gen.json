@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__root",
+  "doc_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen",
+  "parent_id": null,
+  "title": "China's Coal Production Last Month Fared Better Than Coal-Derived Electricity Generation",
+  "section_path": [
+    "China's Coal Production Last Month Fared Better Than Coal-Derived Electricity Generation"
+  ],
+  "section_path_text": "China's Coal Production Last Month Fared Better Than Coal-Derived Electricity Generation",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Dry Bulk Report, China's coal production in October totaled 411.8 million tons. This is down month-on-month by 2.7 million tons (-1%) but is up year-on-year by 23 million tons (6%). This has marked the largest production ever seen in the month of October and has marked a fifth straight month where China's coal production has grown on a year-on-year basis.",
+  "keywords": [
+    "china",
+    "coal",
+    "asset",
+    "billion",
+    "image",
+    "kilowatt",
+    "kwh",
+    "hours",
+    "production",
+    "linked",
+    "year-on-year",
+    "electricity"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1372,
+  "source_path": "reports/breakwave/2024/2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/11/20/chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-generation",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen",
+      "parent_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Dry Bulk Report, China's coal production in October totaled 411.8 million tons. This is down month-on-month by 2.7 million tons (-1%) but is up year-on-year by 23 million tons (6%).",
+      "keywords": [
+        "china",
+        "coal",
+        "billion",
+        "kilowatt",
+        "year-on-year",
+        "hours",
+        "electricity",
+        "generation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 572,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__s02_linked_asset_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen_img_chart1_5eec4ce3f079_jpg",
+      "doc_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen",
+      "parent_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__root",
+      "title": "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart1_5eec4ce3f079.jpg",
+      "section_path": [
+        "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart1_5eec4ce3f079.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart1_5eec4ce3f079.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart1_5eec4ce3f079.jpg\n\nLinked image asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart1_5eec4ce3f079.jpg\n\nImage metadata: JPEG 671x201 mode=RGB\n\nOCR text:\nChinese Coal Production (2018 - 2024)\n420mt\n320mt\n220mt\n2018 2019 2020 2021 2022 2023 2024",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart1_5eec4ce3f079.jpg",
+        "chinese",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__s03_linked_asset_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen_img_chart2_989d0379aaef_jpg",
+      "doc_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen",
+      "parent_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__root",
+      "title": "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart2_989d0379aaef.jpg",
+      "section_path": [
+        "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart2_989d0379aaef.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart2_989d0379aaef.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart2_989d0379aaef.jpg\n\nLinked image asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart2_989d0379aaef.jpg\n\nImage metadata: JPEG 671x224 mode=RGB\n\nOCR text:\nChinese Coal-Derived Electricity Production (2018 - 2024)\n620kwh\n520kwh\n420kwh\n320kwh\n2018 2019 2020 2021 2022 2023 2024\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "china",
+        "coal",
+        "kwh",
+        "asset",
+        "image",
+        "billion",
+        "chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart2_989d0379aaef.jpg",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__s04_linked_asset_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen_img_chart3_38fb7898ec64_jpg",
+      "doc_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen",
+      "parent_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__root",
+      "title": "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart3_38fb7898ec64.jpg",
+      "section_path": [
+        "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart3_38fb7898ec64.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart3_38fb7898ec64.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart3_38fb7898ec64.jpg\n\nLinked image asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart3_38fb7898ec64.jpg\n\nImage metadata: JPEG 671x224 mode=RGB\n\nOCR text:\nChinese Total Electricity Production (2018 - 2024)\n1000kwh\n800kwh\n600kwh\n400kwh\n2018 2019 2020 2021 2022 2023 2024\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "china",
+        "coal",
+        "kwh",
+        "asset",
+        "image",
+        "billion",
+        "chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart3_38fb7898ec64.jpg",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__s05_linked_asset_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen_img_chart4_b72178774310_jpg",
+      "doc_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen",
+      "parent_id": "breakwave_insights_insights_2024-11-20_2024_11_20_chinas_coal_production_last_month_fared_better_than_coal_derived_electricity_gen__root",
+      "title": "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart4_b72178774310.jpg",
+      "section_path": [
+        "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart4_b72178774310.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart4_b72178774310.jpg",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart4_b72178774310.jpg\n\nLinked image asset: 2024-11-20_chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart4_b72178774310.jpg\n\nImage metadata: JPEG 674x226 mode=RGB\n\nOCR text:\nChinese Hydropower Production (2018 - 2024)\n180kwh\n100kwh\n20kwh\n2018 2019 2020 2021 2022 2023 2024\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "china",
+        "coal",
+        "kwh",
+        "asset",
+        "image",
+        "billion",
+        "chinas-coal-production-last-month-fared-better-than-coal-derived-electricity-gen_img_chart4_b72178774310.jpg",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 155,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_shipping_is_at_the_centre_of_the_adjustment__root",
+  "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_shipping_is_at_the_centre_of_the_adjustment",
+  "parent_id": null,
+  "title": "Shipping is at the centre of the adjustment",
+  "section_path": [
+    "Shipping is at the centre of the adjustment"
+  ],
+  "section_path_text": "Shipping is at the centre of the adjustment",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-03-17_shipping-is-at-the-centre-of-the-adjustment_img_unsplash-image-ceibpffctha_0ffc288a5ac1.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe conflict in the Arabian Gulf has rapidly evolved from a geopolitical shock into a structural disruption for global energy logistics, forcing the oil market and the tanker industry to adjust in real time. What initially appeared as a military escalation between the US, Israel and Iran has quickly translated into one of the most serious threats to seaborne oil flows in decades. The effective paralysis of shipping linked to the Strait of Hormuz - a corridor through which roughly one fifth of global oil supply normally passes - has pushed governments and market participants into emergency mode, highlighting just how fragile the current energy transport system can be when a single chokepoint becomes compromised.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "meg",
+    "india",
+    "crude_oil",
+    "are",
+    "already",
+    "barrels",
+    "energy",
+    "oil",
+    "crude",
+    "flows"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1704,
+  "source_path": "reports/breakwave/2026/2026-03-17_shipping-is-at-the-centre-of-the-adjustment.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/3/17/shipping-is-at-the-centre-of-the-adjustment",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_shipping_is_at_the_centre_of_the_adjustment__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_shipping_is_at_the_centre_of_the_adjustment",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_shipping_is_at_the_centre_of_the_adjustment__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-03-17_shipping-is-at-the-centre-of-the-adjustment_img_unsplash-image-ceibpffctha_0ffc288a5ac1.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe conflict in the Arabian Gulf has rapidly evolved from a geopolitical shock into a structural disruption for global energy logistics, forcing the oil market and the tanker industry to adjust in real time. What initially appeared as a military escalation between the US, Israel and Iran has quickly translated into one of the most serious threats to seaborne oil flows in decades.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "india",
+        "crude_oil",
+        "are",
+        "already",
+        "barrels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 746,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_shipping_is_at_the_centre_of_the_adjustment__s02_linked_asset_2026_03_17_shipping_is_at_the_centre_of_the_adjustment_img_unsplash_image_ceibpffctha_0ffc288a5ac1_jpg",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_shipping_is_at_the_centre_of_the_adjustment",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_shipping_is_at_the_centre_of_the_adjustment__root",
+      "title": "Linked asset: 2026-03-17_shipping-is-at-the-centre-of-the-adjustment_img_unsplash-image-ceibpffctha_0ffc288a5ac1.jpg",
+      "section_path": [
+        "Linked asset: 2026-03-17_shipping-is-at-the-centre-of-the-adjustment_img_unsplash-image-ceibpffctha_0ffc288a5ac1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_shipping-is-at-the-centre-of-the-adjustment_img_unsplash-image-ceibpffctha_0ffc288a5ac1.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_shipping-is-at-the-centre-of-the-adjustment_img_unsplash-image-ceibpffctha_0ffc288a5ac1.jpg\n\nLinked image asset: 2026-03-17_shipping-is-at-the-centre-of-the-adjustment_img_unsplash-image-ceibpffctha_0ffc288a5ac1.jpg\n\nImage metadata: JPEG 2500x1667 mode=RGB\n\nOCR text:\nfae\naa ays,\noii RIMA Stout\n; ae eS - i\n+ el eo. i\nBPE Ser ent ga\n1 pees Laas ae = ,\n\" \\ eis BAS.",
+      "keywords": [
+        "aes",
+        "asset",
+        "eis",
+        "image",
+        "see",
+        "sss",
+        "aaa",
+        "aang"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 916,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

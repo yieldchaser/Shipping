@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__root",
+  "doc_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows",
+  "parent_id": null,
+  "title": "Soybean Dry Bulk Flows",
+  "section_path": [
+    "Soybean Dry Bulk Flows"
+  ],
+  "section_path_text": "Soybean Dry Bulk Flows",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 20, 2025 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions May 14, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-05-15 104113.png | assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png\nBrazil continues to strengthen its position as China's primary soybean supplier, with this dominance mainly attributed to the country's record harvests, competitive pricing, and the absence of tariffs that continue to impact U.S. Recent news revealed that China has lifted suspensions on five Brazilian soybean exporters, enhancing trade flows ahead of Brazilian President Lula da Silva's visit to Beijing. Additionally, China is investing in South American infrastructure, such as expanding Brazil's Santos port and constructing a $3.5 billion deep-water port in Peru, to streamline agricultural imports.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "pacific",
+    "europe",
+    "grain",
+    "asset",
+    "image",
+    "soybean"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3475,
+  "source_path": "reports/breakwave/2025/2025-05-15_soybean-dry-bulk-flows.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/5/15/soybean-dry-bulk-flows",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 20, 2025 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions May 14, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-05-15 104113.png | assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png\nBrazil continues to strengthen its position as China's primary soybean supplier, with this dominance mainly attributed to the country's record harvests, competitive pricing, and the absence of tariffs that continue to impact U.S. Recent news revealed that China has lifted suspensions on five Brazilian soybean exporters, enhancing trade flows ahead of Brazilian President Lula da Silva's visit to Beijing.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "pacific",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1921,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__s02_linked_asset_2025_05_15_soybean_dry_bulk_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7_png",
+      "doc_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__root",
+      "title": "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png",
+      "section_path": [
+        "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png\n\nLinked image asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e679e142b1f7.png\n\nImage metadata: PNG 592x689 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChart of the Week: Soybean Dry Bulk Flows (Brazil to China)\nBrazil solidifies dominance in China's soybean market\nBrazil Soybeans to China\nCargo Flows Timeseries\né\nEy\nCongestion Trend Analysis\n34 MA\nRates: P8: 66000 mt - Santas to Qingdao grain ($/MT. Jul 2022 Jan 2023 Jul 2023 Jan 2024 Jul 2024 Jan 2025 *\n> Wessel Count =~ Markel Rates Only completed days are included",
+      "keywords": [
+        "china",
+        "brazil",
+        "grain",
+        "jan",
+        "jul",
+        "asset",
+        "flows",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__s03_linked_asset_2025_05_15_soybean_dry_bulk_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48fdb9cfca27_png",
+      "doc_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__root",
+      "title": "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48fdb9cfca27.png",
+      "section_path": [
+        "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48fdb9cfca27.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48fdb9cfca27.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48fdb9cfca27.png\n\nLinked image asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48fdb9cfca27.png\n\nImage metadata: PNG 583x446 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT - Freight Rates ($/t) Mixed\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nBE Cape - Beart NChing Bi Prax -Cont Fe Supra - indo kc! BB Hancy NOPAC FE\nWeekly Trends\n40\n3\n»\n5.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "grain",
+        "asset",
+        "image",
+        "sss",
+        "annnannagnas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 286,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__s04_linked_asset_2025_05_15_soybean_dry_bulk_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464_png",
+      "doc_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__root",
+      "title": "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464.png",
+      "section_path": [
+        "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464.png\n\nLinked image asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7893606f7464.png\n\nImage metadata: PNG 577x405 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Increasing\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nCope SE Africa GB Pmax SE Afnice WB supra SE Aso BB hana, NOPAC\nWeekly Trends\nene a a oa\nAtrica a\n90\nswast faye A /\\\nAsia $ 00 ~\nPTETSLEEEEEEELEEEL EEE ELE ELLELLL bid CLELELLLLL",
+      "keywords": [
+        "supramax",
+        "grain",
+        "asset",
+        "ballasters",
+        "image",
+        "supply",
+        "afnice",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 243,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__s05_linked_asset_2025_05_15_soybean_dry_bulk_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0bb4fa5db23_png",
+      "doc_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__root",
+      "title": "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0bb4fa5db23.png",
+      "section_path": [
+        "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0bb4fa5db23.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0bb4fa5db23.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0bb4fa5db23.png\n\nLinked image asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b0bb4fa5db23.png\n\nImage metadata: PNG 586x456 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Mixed\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\nMi Cape TonD Growth i Pmax Tond Growth Mi SupraTond Growth Handy TonD Growth\nea ae\n# 100%\n0%\n80%\n70R6\nSLESELRESREFELLLILELESSESER\n=> > >= > > FS SF FFF FrmURmUc Uc FrhUc FF Hh huhhUuhrhlUrhhlUc ThUlUc FTUlUc FT FhUhUc Thm\nSa es\nSE SRSPRSEPSSERETESRETEREREPESSSRSRERRKA\nSSSsssssssSsssssssRrrrrsss sss\nRR SRRKRRRRRRRRRRRR RRRRR SR",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "grain",
+        "growth",
+        "tond",
+        "asset",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 319,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__s06_linked_asset_2025_05_15_soybean_dry_bulk_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a78aa53f4862_png",
+      "doc_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-05-15_2025_05_15_soybean_dry_bulk_flows__root",
+      "title": "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a78aa53f4862.png",
+      "section_path": [
+        "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a78aa53f4862.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a78aa53f4862.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a78aa53f4862.png\n\nLinked image asset: 2025-05-15_soybean-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a78aa53f4862.png\n\nImage metadata: PNG 583x405 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Decreasing\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\nBvx Biase B Post Pras Bove Bswe Bmax B raropere sow\nWeekly Trends\na0\n3",
+      "keywords": [
+        "china",
+        "grain",
+        "asset",
+        "chinese",
+        "image",
+        "biase",
+        "bmax",
+        "bove"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 202,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

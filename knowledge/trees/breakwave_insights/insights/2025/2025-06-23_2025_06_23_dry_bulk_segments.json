@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__root",
+  "doc_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments",
+  "parent_id": null,
+  "title": "Dry Bulk Segments",
+  "section_path": [
+    "Dry Bulk Segments"
+  ],
+  "section_path_text": "Dry Bulk Segments",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nIn a notable departure from the same period last year, the twenty-fifth trading week concluded with a far more subdued tone, particularly across the larger dry bulk segments. Exactly one year ago, the BDI hovered just below 2,000 points, capping off a week of positive sentiment. Capesizes led the charge, averaging $26,059 per day - a 6.3 percent weekly gain - while Supramax and Handysize earnings were also trending higher.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "india",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "percent"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2520,
+  "source_path": "reports/breakwave/2025/2025-06-23_dry-bulk-segments.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/6/23/dry-bulk-segments",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments",
+      "parent_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nIn a notable departure from the same period last year, the twenty-fifth trading week concluded with a far more subdued tone, particularly across the larger dry bulk segments. Exactly one year ago, the BDI hovered just below 2,000 points, capping off a week of positive sentiment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "india",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1672,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__s02_linked_asset_2025_06_23_dry_bulk_segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66f40d1a5449_png",
+      "doc_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments",
+      "parent_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__root",
+      "title": "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66f40d1a5449.png",
+      "section_path": [
+        "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66f40d1a5449.png"
+      ],
+      "section_path_text": "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66f40d1a5449.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66f40d1a5449.png\n\nLinked image asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66f40d1a5449.png\n\nImage metadata: PNG 428x197 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66f40d1a5449.png",
+        "embedded",
+        "info",
+        "linked",
+        "metadata"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__s03_linked_asset_2025_06_23_dry_bulk_segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f356923598ce_png",
+      "doc_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments",
+      "parent_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__root",
+      "title": "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f356923598ce.png",
+      "section_path": [
+        "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f356923598ce.png"
+      ],
+      "section_path_text": "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f356923598ce.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f356923598ce.png\n\nLinked image asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f356923598ce.png\n\nImage metadata: PNG 440x208 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n50 Kamsarmax Asset Price (5-Year-Old)\nusD mil\n40\n30\n20 »)\n10\n0\nJan-19 Jan-20 Jan-21 Jan-22 Jan-23 Jan-24 Jan-25",
+      "keywords": [
+        "asset",
+        "image",
+        "dpi",
+        "dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f356923598ce.png",
+        "embedded",
+        "info",
+        "jan-19",
+        "jan-20"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__s04_linked_asset_2025_06_23_dry_bulk_segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7ff73d8bdc0_png",
+      "doc_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments",
+      "parent_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__root",
+      "title": "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7ff73d8bdc0.png",
+      "section_path": [
+        "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7ff73d8bdc0.png"
+      ],
+      "section_path_text": "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7ff73d8bdc0.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7ff73d8bdc0.png\n\nLinked image asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7ff73d8bdc0.png\n\nImage metadata: PNG 438x196 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7ff73d8bdc0.png",
+        "embedded",
+        "info",
+        "linked",
+        "metadata"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__s05_linked_asset_2025_06_23_dry_bulk_segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fb7f979b92a_png",
+      "doc_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments",
+      "parent_id": "breakwave_insights_insights_2025-06-23_2025_06_23_dry_bulk_segments__root",
+      "title": "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fb7f979b92a.png",
+      "section_path": [
+        "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fb7f979b92a.png"
+      ],
+      "section_path_text": "Linked asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fb7f979b92a.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fb7f979b92a.png\n\nLinked image asset: 2025-06-23_dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fb7f979b92a.png\n\nImage metadata: PNG 432x221 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n40 Handysize Asset Price (3-Year-Otg]\nUsp mi\n30\n20\n: -\n°\nJan-19 Jan-20.",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "dpi",
+        "dry-bulk-segments_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fb7f979b92a.png",
+        "embedded",
+        "info",
+        "jan-19"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

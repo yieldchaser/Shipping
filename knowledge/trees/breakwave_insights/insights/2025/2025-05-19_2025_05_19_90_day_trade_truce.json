@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce__root",
+  "doc_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce",
+  "parent_id": null,
+  "title": "90-day Trade Truce",
+  "section_path": [
+    "90-day Trade Truce"
+  ],
+  "section_path_text": "90-day Trade Truce",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nThe recent 90-day trade truce between the United States and China has offered a brief pause in an otherwise protracted and disruptive chapter for global trade. The agreement includes a significant rollback of tariffs: Washington agreed to reduce duties on Chinese imports from an average of 145 percent to 30 percent, while Beijing responded by lowering its own tariffs on American goods to 10 percent. Additionally, China has agreed to suspend several non-tariff measures introduced after April 2, including export restrictions on critical raw materials such as rare earths -inputs vital to high-tech manufacturing and electric vehicle production.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "atlantic",
+    "pacific",
+    "india",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1894,
+  "source_path": "reports/breakwave/2025/2025-05-19_90-day-trade-truce.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/5/19/90-day-trade-truce",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce",
+      "parent_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nThe recent 90-day trade truce between the United States and China has offered a brief pause in an otherwise protracted and disruptive chapter for global trade. The agreement includes a significant rollback of tariffs: Washington agreed to reduce duties on Chinese imports from an average of 145 percent to 30 percent, while Beijing responded by lowering its own tariffs on American goods to 10 percent.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "atlantic",
+        "pacific",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1457,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce__s02_linked_asset_2025_05_19_90_day_trade_truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e35aa852974_png",
+      "doc_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce",
+      "parent_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce__root",
+      "title": "Linked asset: 2025-05-19_90-day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e35aa852974.png",
+      "section_path": [
+        "Linked asset: 2025-05-19_90-day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e35aa852974.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-19_90-day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e35aa852974.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-19_90-day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e35aa852974.png\n\nLinked image asset: 2025-05-19_90-day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e35aa852974.png\n\nImage metadata: PNG 440x221 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n60\n50\n40\n30\n20\n10\n0\nJan-25 Feb-25 Mar-25.",
+      "keywords": [
+        "asset",
+        "image",
+        "apr-25.",
+        "day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6e35aa852974.png",
+        "dpi",
+        "embedded",
+        "feb-25",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 164,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce__s03_linked_asset_2025_05_19_90_day_trade_truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f350e0dcd557_png",
+      "doc_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce",
+      "parent_id": "breakwave_insights_insights_2025-05-19_2025_05_19_90_day_trade_truce__root",
+      "title": "Linked asset: 2025-05-19_90-day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f350e0dcd557.png",
+      "section_path": [
+        "Linked asset: 2025-05-19_90-day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f350e0dcd557.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-19_90-day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f350e0dcd557.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-19_90-day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f350e0dcd557.png\n\nLinked image asset: 2025-05-19_90-day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f350e0dcd557.png\n\nImage metadata: PNG 446x206 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n6500\n6000\n5500 » j\n5000\n4500\n4000\nJan-25 Feb-25 Mar-25 Apr-25 May-25\nSource: Nasdaq, Doric Research",
+      "keywords": [
+        "asset",
+        "image",
+        "source",
+        "apr-25",
+        "day-trade-truce_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f350e0dcd557.png",
+        "doric",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 177,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

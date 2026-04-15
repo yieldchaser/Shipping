@@ -1,0 +1,229 @@
+{
+  "node_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__root",
+  "doc_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows",
+  "parent_id": null,
+  "title": "Dry Bulk Grain Flows",
+  "section_path": [
+    "Dry Bulk Grain Flows"
+  ],
+  "section_path_text": "Dry Bulk Grain Flows",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 43.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions October 23, 2024\n\nChart of the Week: Dry Bulk Grain Flows - The Russian aspect\nThis week, attention is drawn to the Russian grain sector and the notable recovery in shipments that began in June, culminating in a recent peak in September. It is particularly noteworthy that the quarterly volume shipped to all destinations has reached its highest levels for the year, surpassing figures from the same quarters in previous years since 2021. Image reference: Στιγμιότυπο οθόνης 2024-10-24 092249.png | assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649.png\nRussia plays a pivotal role as a supplier of wheat to Egypt, which holds the title of the world's largest wheat importer.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "grain",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3475,
+  "source_path": "reports/breakwave/2024/2024-10-24_dry-bulk-grain-flows.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/10/24/dry-bulk-grain-flows",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows",
+      "parent_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 43.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions October 23, 2024",
+      "keywords": [
+        "congestions",
+        "monitor",
+        "october",
+        "port",
+        "snapshot",
+        "supply-demand",
+        "trends"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__s02_chart_of_the_week_dry_bulk_grain_flows_the_russian_aspect",
+      "doc_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows",
+      "parent_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__root",
+      "title": "Chart of the Week: Dry Bulk Grain Flows - The Russian aspect",
+      "section_path": [
+        "Chart of the Week: Dry Bulk Grain Flows - The Russian aspect"
+      ],
+      "section_path_text": "Chart of the Week: Dry Bulk Grain Flows - The Russian aspect",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This week, attention is drawn to the Russian grain sector and the notable recovery in shipments that began in June, culminating in a recent peak in September. It is particularly noteworthy that the quarterly volume shipped to all destinations has reached its highest levels for the year, surpassing figures from the same quarters in previous years since 2021.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1908,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__s03_linked_asset_2024_10_24_dry_bulk_grain_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649_png",
+      "doc_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows",
+      "parent_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__root",
+      "title": "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649.png",
+      "section_path": [
+        "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649.png\n\nLinked image asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649.png\n\nImage metadata: PNG 650x379 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘ rm ~~ \\ terereee 3298 x s = 2\nre.",
+      "keywords": [
+        "grain",
+        "asset",
+        "image",
+        "dpi",
+        "dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b2d693633649.png",
+        "embedded",
+        "info",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__s04_linked_asset_2024_10_24_dry_bulk_grain_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ca29a208262_png",
+      "doc_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows",
+      "parent_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__root",
+      "title": "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ca29a208262.png",
+      "section_path": [
+        "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ca29a208262.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ca29a208262.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ca29a208262.png\n\nLinked image asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6ca29a208262.png\n\nImage metadata: PNG 660x521 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT - Freight Rates ($/t) Weaker\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nWi Cape - Brazil NCnina i Pmax-Cont FE i Supra - Inco EC! Wi Handy NOPAC FE\nWeekly Trends\n45\n40\n35\ne 30\na\n=\n$s\n20\n1s\n10 - OO",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "brazil",
+        "grain",
+        "asset",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 238,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__s05_linked_asset_2024_10_24_dry_bulk_grain_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db67b1feba03_png",
+      "doc_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows",
+      "parent_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__root",
+      "title": "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db67b1feba03.png",
+      "section_path": [
+        "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db67b1feba03.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db67b1feba03.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db67b1feba03.png\n\nLinked image asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db67b1feba03.png\n\nImage metadata: PNG 664x474 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Mixed\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nWi Cape SE Africa Bh Prax SE Africa Score SE Ana BB Hardy NOPAC\nWeekly Trends\n2 130\nCape SE 3 110 Area\nAfrica: > 90\n160,\nPra 8 S Average\n> 100\n120\nSupra SE ¥ x10.)\nAve $ 100\n90\n100\n#oNX\nHandy An\nNOPAC = 0\n70\nSULHSSHSHASHSHSSHSS SHAS ATES SSESESSLS SLES SESS SSS SSS ER SEES\nRERERRERR RK VS SSAARANR SERRE RRERRERRERRERRERRERRERKE RRR",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "grain",
+        "africa",
+        "asset",
+        "ballasters",
+        "cape"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 309,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__s06_linked_asset_2024_10_24_dry_bulk_grain_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4186d8eb12f_png",
+      "doc_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows",
+      "parent_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__root",
+      "title": "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4186d8eb12f.png",
+      "section_path": [
+        "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4186d8eb12f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4186d8eb12f.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4186d8eb12f.png\n\nLinked image asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c4186d8eb12f.png\n\nImage metadata: PNG 657x493 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Decreasing\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\n@ Cape Tond Growth i Pmax TonD Growth @ SupraTonD Growth Bi Handy TonD Growth\n115%\n110%\nwe 105%\n<=\n=\n£ 100%\nSo\n&\n95%\n90%\n85%\n80%\nSSSELFSSLSLSELSSRSESSKLKLEKLERBERBER\nSS 5533532222223 3333 3333353535335 55\nmm mm Mnananwswtktstsestesstsststsstesesesssstesse\nssSsSsSsSRg_gegegregessS S SSSSESSESS SES SSSSS\nN N N N N N nN Nn Nn nN N N N N N N N N N N N N N N N N N",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "grain",
+        "growth",
+        "tond",
+        "asset",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 329,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__s07_linked_asset_2024_10_24_dry_bulk_grain_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49fbf9226a7b_png",
+      "doc_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows",
+      "parent_id": "breakwave_insights_insights_2024-10-24_2024_10_24_dry_bulk_grain_flows__root",
+      "title": "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49fbf9226a7b.png",
+      "section_path": [
+        "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49fbf9226a7b.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49fbf9226a7b.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49fbf9226a7b.png\n\nLinked image asset: 2024-10-24_dry-bulk-grain-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_49fbf9226a7b.png\n\nImage metadata: PNG 665x476 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Decreasing\nDry bulk ships congested at Chinese ports\n‘Summary of Chinese Dry Bulk Ship Congestions\nave mows rocpeas MP moon te rece sna\nWeekly Trends:\nLOL LL) Pree Pree Per\n:\nZ2LPPTLILSLSISSSFSIPSSSLSLSFISLESTSPILSSLEIS2LS522222",
+      "keywords": [
+        "china",
+        "grain",
+        "asset",
+        "chinese",
+        "image",
+        "pree",
+        "ave",
+        "congested"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 234,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

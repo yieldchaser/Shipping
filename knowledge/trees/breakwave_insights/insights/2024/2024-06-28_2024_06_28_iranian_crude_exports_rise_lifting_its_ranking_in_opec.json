@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_iranian_crude_exports_rise_lifting_its_ranking_in_opec__root",
+  "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_iranian_crude_exports_rise_lifting_its_ranking_in_opec",
+  "parent_id": null,
+  "title": "Iranian crude exports rise, lifting its ranking in OPEC",
+  "section_path": [
+    "Iranian crude exports rise, lifting its ranking in OPEC"
+  ],
+  "section_path_text": "Iranian crude exports rise, lifting its ranking in OPEC",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis insight explores Iran's recent increase in its crude/condensate exports, making it OPEC's fourth largest crude exporter in May. By Armen Azizian\nIran's crude/condensate exports accounted for 9% of OPEC's crude/condensate exports in February 2024 and again in May 2024, the highest share since August 2018. Rising crude exports mean Iran has overtaken Kuwait and Nigeria to be the fourth largest crude/condensate exporter in OPEC.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "exports",
+    "iran",
+    "crude/condensate",
+    "kuwait",
+    "nigeria",
+    "opec",
+    "crude",
+    "increase",
+    "its",
+    "share"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 843,
+  "source_path": "reports/breakwave/2024/2024-06-28_iranian-crude-exports-rise-lifting-its-ranking-in-opec.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/6/28/iranian-crude-exports-rise-lifting-its-ranking-in-opec",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_iranian_crude_exports_rise_lifting_its_ranking_in_opec__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_iranian_crude_exports_rise_lifting_its_ranking_in_opec",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_iranian_crude_exports_rise_lifting_its_ranking_in_opec__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This insight explores Iran's recent increase in its crude/condensate exports, making it OPEC's fourth largest crude exporter in May. By Armen Azizian\nIran's crude/condensate exports accounted for 9% of OPEC's crude/condensate exports in February 2024 and again in May 2024, the highest share since August 2018.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "exports",
+        "iran",
+        "crude",
+        "crude/condensate",
+        "increase",
+        "its"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 446,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_iranian_crude_exports_rise_lifting_its_ranking_in_opec__s02_linked_asset_2024_06_28_iranian_crude_exports_rise_lifting_its_ranking_in_opec_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d8c4d9bb541_png",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_iranian_crude_exports_rise_lifting_its_ranking_in_opec",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_iranian_crude_exports_rise_lifting_its_ranking_in_opec__root",
+      "title": "Linked asset: 2024-06-28_iranian-crude-exports-rise-lifting-its-ranking-in-opec_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d8c4d9bb541.png",
+      "section_path": [
+        "Linked asset: 2024-06-28_iranian-crude-exports-rise-lifting-its-ranking-in-opec_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d8c4d9bb541.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_iranian-crude-exports-rise-lifting-its-ranking-in-opec_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d8c4d9bb541.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_iranian-crude-exports-rise-lifting-its-ranking-in-opec_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d8c4d9bb541.png\n\nLinked image asset: 2024-06-28_iranian-crude-exports-rise-lifting-its-ranking-in-opec_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d8c4d9bb541.png\n\nImage metadata: PNG 1025x730 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n8 Jun-24 data reflects days 1-25 14%\n7 12%\n6 |\n10%\n\"h |\n8%\n| | i fy) ‘VA °\n}\n‘ {i\nf 6%\n3 Hi\n4%\n2\n1 2%\n0 0%\nJan-16 Jan-17.- Jan-18 Jan-19_ Jan-20. Jan-21_ Jan-22_ Jan-23.- Jan-24\nKuwait mam Nigeria\nmmm Iran Kuwait as share of OPEC (RHS)\n--Nigeria as share of OPEC (RHS) ---Iran as share of OPEC (RHS)\nKuwait, Nigeria & Iran's crude/condensate exports (mbd, LHS) vs Kuwait, Nigeria & Iran's share of OPEC's total crude/condensate exports (%, RHS)",
+      "keywords": [
+        "crude_oil",
+        "iran",
+        "kuwait",
+        "nigeria",
+        "opec",
+        "rhs",
+        "share",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 336,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

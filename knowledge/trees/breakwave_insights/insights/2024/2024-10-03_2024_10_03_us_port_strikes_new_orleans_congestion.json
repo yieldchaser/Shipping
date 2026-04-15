@@ -1,0 +1,229 @@
+{
+  "node_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__root",
+  "doc_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion",
+  "parent_id": null,
+  "title": "US port strikes - New Orleans congestion",
+  "section_path": [
+    "US port strikes - New Orleans congestion"
+  ],
+  "section_path_text": "US port strikes - New Orleans congestion",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 40.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions October 03, 2024\n\nChart of the Week: US port strikes - New Orleans congestion\nThis week's focus is on the U.S. port congestion amid recent port strikes. port strikes, particularly at the Port of New Orleans, are causing significant congestion and delays.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "grain",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3369,
+  "source_path": "reports/breakwave/2024/2024-10-03_us-port-strikes-new-orleans-congestion.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/10/3/us-port-strikes-new-orleans-congestion",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion",
+      "parent_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 40.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions October 03, 2024",
+      "keywords": [
+        "congestions",
+        "monitor",
+        "october",
+        "port",
+        "snapshot",
+        "supply-demand",
+        "trends"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__s02_chart_of_the_week_us_port_strikes_new_orleans_congestion",
+      "doc_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion",
+      "parent_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__root",
+      "title": "Chart of the Week: US port strikes - New Orleans congestion",
+      "section_path": [
+        "Chart of the Week: US port strikes - New Orleans congestion"
+      ],
+      "section_path_text": "Chart of the Week: US port strikes - New Orleans congestion",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This week's focus is on the U.S. port congestion amid recent port strikes.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "brazil",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1691,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__s03_linked_asset_2024_10_03_us_port_strikes_new_orleans_congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05fc81527f9d_png",
+      "doc_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion",
+      "parent_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__root",
+      "title": "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05fc81527f9d.png",
+      "section_path": [
+        "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05fc81527f9d.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05fc81527f9d.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05fc81527f9d.png\n\nLinked image asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_05fc81527f9d.png\n\nImage metadata: PNG 667x245 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\ni y Abie M mi (BOR Alera yl i \" O ©\n- SIGNSL",
+      "keywords": [
+        "asset",
+        "image",
+        "abie",
+        "alera",
+        "bor",
+        "dpi",
+        "embedded",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__s04_linked_asset_2024_10_03_us_port_strikes_new_orleans_congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2512e030098_png",
+      "doc_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion",
+      "parent_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__root",
+      "title": "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2512e030098.png",
+      "section_path": [
+        "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2512e030098.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2512e030098.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2512e030098.png\n\nLinked image asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d2512e030098.png\n\nImage metadata: PNG 668x527 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT - Freight Rates ($/t) Mixed\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nWi Cape - Brazil NCnina i Pmax-Cont FE i Supra - Inco EC! Wi Handy NOPAC FE\nWeekly Trends\n45\na0 IV RLY.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "brazil",
+        "asset",
+        "image",
+        "big"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 274,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__s05_linked_asset_2024_10_03_us_port_strikes_new_orleans_congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ea9643e426_png",
+      "doc_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion",
+      "parent_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__root",
+      "title": "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ea9643e426.png",
+      "section_path": [
+        "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ea9643e426.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ea9643e426.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ea9643e426.png\n\nLinked image asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72ea9643e426.png\n\nImage metadata: PNG 663x472 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Mixed\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nCape SE Africa Pax SE Africa MW Scorn SE Ann BB Hardy NOPAC\nWeekly Trends\nz 130\nCapeSE | ... Average\nAttica 37°\n> 90\nPrax SE q 160 sverage\nAfrica $ 130 -- ee\n> 100\noe 120\nSupraSE $110 rverdoe\nAsie £ 100\n90\n100\nHandy q 9° Lavage\nNOPAC = 80\n70\nFSIFSILSFSFISRAASSSCSLESESLSLSSASSSSSARANKHERER SRERRSRERRSF\nFEZZZIZZIFZIRESZSESSSSSSSSSISISSSSSLSESLLSLESSLISSKSSSss sss\nRONSHRAAKSRRASHSSHSSSSSLESSRSSLESRSLSESRSZRRSSESLRERES\nRERRRRRR RRR RE SSS SSRSRARE LER RRR ERR ESKER RETR RRESRRERRE",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "grain",
+        "africa",
+        "asset",
+        "ballasters",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 393,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__s06_linked_asset_2024_10_03_us_port_strikes_new_orleans_congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7564fc344ed0_png",
+      "doc_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion",
+      "parent_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__root",
+      "title": "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7564fc344ed0.png",
+      "section_path": [
+        "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7564fc344ed0.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7564fc344ed0.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7564fc344ed0.png\n\nLinked image asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7564fc344ed0.png\n\nImage metadata: PNG 647x501 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Mixed\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\n@ Cape Tond Growth i Pmax TonD Growth @ SupraTonD Growth Bi Handy TonD Growth\n115%\n110%\nwe 105%\n<=\n:\n£ 100%\no\n&\n95%\n90%\n85%\n80%\nSs<sFsseRssSessesessesSERCRCsCsFERCRKeRRE\nSSS 553353272 F-35333 33333 535335353 585\nmmnmmmnmnn maenannansrtsst FS tteeesresesesrftfs Fs SFSKTses\nsssSSSESSERRREKRKSSSRBSEESSSESRssS SSSS\nSRkRRRKRR RSRFRKRKRKRKRKRRKKKRKKRRR",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "growth",
+        "tond",
+        "asset",
+        "demand",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 322,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__s07_linked_asset_2024_10_03_us_port_strikes_new_orleans_congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f87a5982896c_png",
+      "doc_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion",
+      "parent_id": "breakwave_insights_insights_2024-10-03_2024_10_03_us_port_strikes_new_orleans_congestion__root",
+      "title": "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f87a5982896c.png",
+      "section_path": [
+        "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f87a5982896c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f87a5982896c.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f87a5982896c.png\n\nLinked image asset: 2024-10-03_us-port-strikes-new-orleans-congestion_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f87a5982896c.png\n\nImage metadata: PNG 657x461 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Decreasing\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\nvoc Wi Cope i Post Pmax Bi Pmax Bi suore Bi hienax BE Hancysize Bsmen\nWeekly Trends\n1400 Average\n2 1000\na\n3\nzo",
+      "keywords": [
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "pmax",
+        "average",
+        "bsmen",
+        "congested"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 221,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

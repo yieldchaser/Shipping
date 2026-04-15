@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-07-02_2024_07_02_he_capesizes_fortunes_shifted__root",
+  "doc_id": "breakwave_insights_insights_2024-07-02_2024_07_02_he_capesizes_fortunes_shifted",
+  "parent_id": null,
+  "title": "Τhe capesizes' fortunes shifted",
+  "section_path": [
+    "Τhe capesizes' fortunes shifted"
+  ],
+  "section_path_text": "Τhe capesizes' fortunes shifted",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic Dry Index recorded a gain of nearly three per cent last week as the capesizes' fortunes shifted during the last three sessions. However, the panamaxes remained under pressure and offset some of the gains on the larger segment. Among the commodities, coal, grains and soybeans continued to face headwinds, while iron ore recovered somewhat following several weeks of losses.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1998,
+  "source_path": "reports/breakwave/2024/2024-07-02_he-capesizes-fortunes-shifted.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/7/2/he-capesizes-fortunes-shifted",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-07-02_2024_07_02_he_capesizes_fortunes_shifted__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-07-02_2024_07_02_he_capesizes_fortunes_shifted",
+      "parent_id": "breakwave_insights_insights_2024-07-02_2024_07_02_he_capesizes_fortunes_shifted__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic Dry Index recorded a gain of nearly three per cent last week as the capesizes' fortunes shifted during the last three sessions. However, the panamaxes remained under pressure and offset some of the gains on the larger segment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1704,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-02_2024_07_02_he_capesizes_fortunes_shifted__s02_linked_asset_2024_07_02_he_capesizes_fortunes_shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285_png",
+      "doc_id": "breakwave_insights_insights_2024-07-02_2024_07_02_he_capesizes_fortunes_shifted",
+      "parent_id": "breakwave_insights_insights_2024-07-02_2024_07_02_he_capesizes_fortunes_shifted__root",
+      "title": "Linked asset: 2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png",
+      "section_path": [
+        "Linked asset: 2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png\n\nLinked image asset: 2024-07-02_he-capesizes-fortunes-shifted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f3e0cb98285.png\n\nImage metadata: PNG 668x390 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Steel Products Loading in India\n25\n2\n15\nB 4\n2\n‘lh WL | uh | : |\nUN ll lu nb ALA la\nDP SP GP OP VP SP SP oP SP oP oP oP op pO BSP oP oh eth och och op0® gst och\nap SSE CSO SEI SEO PERI Os CAE gig\nData source: Shipfix",
+      "keywords": [
+        "capesize",
+        "india",
+        "products",
+        "steel",
+        "och",
+        "asset",
+        "image",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 240,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

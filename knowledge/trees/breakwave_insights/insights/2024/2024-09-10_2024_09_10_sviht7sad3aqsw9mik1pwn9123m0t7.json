@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-09-10_2024_09_10_sviht7sad3aqsw9mik1pwn9123m0t7__root",
+  "doc_id": "breakwave_insights_insights_2024-09-10_2024_09_10_sviht7sad3aqsw9mik1pwn9123m0t7",
+  "parent_id": null,
+  "title": "Capesizes continue to move higher.",
+  "section_path": [
+    "Capesizes continue to move higher."
+  ],
+  "section_path_text": "Capesizes continue to move higher.",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic Dry Index extended gains into a fourth week as the gauge for the capesizes continued to move higher. The indices for the mid and small-sized bulkers remained on downward trajectories and offset some of the gains for their larger siblings. Many commodities came under pressure as soft economic data weighed on the demand outlook.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "pacific",
+    "europe",
+    "us_gulf",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2013,
+  "source_path": "reports/breakwave/2024/2024-09-10_sviht7sad3aqsw9mik1pwn9123m0t7.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/9/10/sviht7sad3aqsw9mik1pwn9123m0t7",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-09-10_2024_09_10_sviht7sad3aqsw9mik1pwn9123m0t7__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-09-10_2024_09_10_sviht7sad3aqsw9mik1pwn9123m0t7",
+      "parent_id": "breakwave_insights_insights_2024-09-10_2024_09_10_sviht7sad3aqsw9mik1pwn9123m0t7__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic Dry Index extended gains into a fourth week as the gauge for the capesizes continued to move higher. The indices for the mid and small-sized bulkers remained on downward trajectories and offset some of the gains for their larger siblings.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1691,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-10_2024_09_10_sviht7sad3aqsw9mik1pwn9123m0t7__s02_linked_asset_2024_09_10_sviht7sad3aqsw9mik1pwn9123m0t7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_11183b68f6d5_png",
+      "doc_id": "breakwave_insights_insights_2024-09-10_2024_09_10_sviht7sad3aqsw9mik1pwn9123m0t7",
+      "parent_id": "breakwave_insights_insights_2024-09-10_2024_09_10_sviht7sad3aqsw9mik1pwn9123m0t7__root",
+      "title": "Linked asset: 2024-09-10_sviht7sad3aqsw9mik1pwn9123m0t7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_11183b68f6d5.png",
+      "section_path": [
+        "Linked asset: 2024-09-10_sviht7sad3aqsw9mik1pwn9123m0t7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_11183b68f6d5.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-10_sviht7sad3aqsw9mik1pwn9123m0t7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_11183b68f6d5.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-10_sviht7sad3aqsw9mik1pwn9123m0t7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_11183b68f6d5.png\n\nLinked image asset: 2024-09-10_sviht7sad3aqsw9mik1pwn9123m0t7_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_11183b68f6d5.png\n\nImage metadata: PNG 664x383 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Ags Loading USG by Segment\n® Handymax/size @ Supra/Ultramax ®@ Panamax\n4\n3\n- 2\n° |\n> a ot? so aah ooh oooh oad nob roth ooh ooh ooh\non tu a HO\nData source: Shipfix",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "ooh",
+        "asset",
+        "image",
+        "source",
+        "aah"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 257,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

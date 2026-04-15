@@ -1,0 +1,342 @@
+{
+  "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+  "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+  "parent_id": null,
+  "title": "VLCC AG Supply",
+  "section_path": [
+    "VLCC AG Supply"
+  ],
+  "section_path_text": "VLCC AG Supply",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 11, 13 March, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-03-14 135631.png | assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png\n\nVLCC Net Supply Trends, Baltic Rates Performance & Cargo Demand Projections\nThis week, we examine the evolution of VLCC net supply growth in the Arabian Gulf (AG), the performance of Baltic Rates (TD3), and how gross supply compares to cargo demand over the next 10, 20, and 30 days. These insights tie into the latest macro projections for global crude oil demand-especially from China-and whether a tightening vessel supply situation could boost Baltic rates. The first chart illustrates the historical trend of VLCC net supply in the AG (blue line) alongside the TD3 Baltic Rate index (red line).",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5159,
+  "source_path": "reports/breakwave/2025/2025-03-14_vlcc-ag-supply.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/3/14/vlcc-ag-supply",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 11, 13 March, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-03-14 135631.png | assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png",
+      "keywords": [
+        "vlcc",
+        "assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png",
+        "crude",
+        "image",
+        "march",
+        "monitor",
+        "png",
+        "product"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 109,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s02_vlcc_net_supply_trends_baltic_rates_performance_cargo_demand_projections",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "VLCC Net Supply Trends, Baltic Rates Performance & Cargo Demand Projections",
+      "section_path": [
+        "VLCC Net Supply Trends, Baltic Rates Performance & Cargo Demand Projections"
+      ],
+      "section_path_text": "VLCC Net Supply Trends, Baltic Rates Performance & Cargo Demand Projections",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This week, we examine the evolution of VLCC net supply growth in the Arabian Gulf (AG), the performance of Baltic Rates (TD3), and how gross supply compares to cargo demand over the next 10, 20, and 30 days. These insights tie into the latest macro projections for global crude oil demand-especially from China-and whether a tightening vessel supply situation could boost Baltic rates.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1740,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s03_linked_asset_2025_03_14_vlcc_ag_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff_png",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png",
+      "section_path": [
+        "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png\n\nLinked image asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ec5921b4ceff.png\n\nImage metadata: PNG 659x469 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChart of the Week: VLCC AG Supply\nThis week's focus is on the evolution of VLCC net supply growth in the Arabian Gulf (AG), the\nperformance of Baltic Rates, and a comparative analysis of Gross Supply versus Cargo Demand over\nthe next 10, 20, and 30 days. VLCC AG Supply Vs Demand & TD3\nSupply Trend vs Batic Rotes soma Net Supply Spot/Re et Gross Supply vs Cargo Demand\na ™ /\n>i] ww xe 7\n& z % -\n8\" te\ng ® \"\nNe Spey -T03 - ome teach Stan ey Stn Sy att Sem Hae",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "supply",
+        "demand",
+        "asset",
+        "cargo",
+        "gross",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 267,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s04_linked_asset_2025_03_14_vlcc_ag_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31df86b4b9b7_png",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31df86b4b9b7.png",
+      "section_path": [
+        "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31df86b4b9b7.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31df86b4b9b7.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31df86b4b9b7.png\n\nLinked image asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_31df86b4b9b7.png\n\nImage metadata: PNG 663x508 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMarket Rates (WS)\n‘Dirty' WS - Mixed\nVLCC - Suezmax - Aframax\nWeekly Trends, WS Dirty Rates\nGB VLCC MEG/China @ Suez WAfr to Cont @ Suez Baltic Med i Afra Med\n250\n200\ny\n= 150\na\n100 NN\na\n0\nsam 4un meme nrneadgceme neater nmoer ean dnd mevrag\nSS2SBESBRSRRRSERRKSRRSES RES RZSESSESS\nSs. 32 32 3223232 F232 32 F232 232 F232 23232232228257R%78 5% 65 GF F\na = + + = = + << s + + = =z + = = = + <= = + YN YX YX NX YX yp\nSSSSSESSBESESBESBSBESEEBSESSESEESEBEERRERKRS\nN N N N N Nn N N N N N N N N N N N N N N N Nn",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "f232",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 370,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s05_linked_asset_2025_03_14_vlcc_ag_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626_png",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626.png",
+      "section_path": [
+        "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626.png\n\nLinked image asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db455e194626.png\n\nImage metadata: PNG 660x466 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Product' WS\nLR2 Firmer\nWeekly Trends Clean LR2\n300\n250\n2\n= 200\ni]\n=\n= 150\nS\n100\n50\n0\nSSSSESSERKRKLERKESREREGSFSELSSEELSSEESES\nSESRBESESES22232 323 3232323232323 32 3 FF FRE\nSSRSRSERKSEKRREKRSEKREKRKRKREKSEKRKEKSEKRESEEBESSA\nee ceeseseeseeseeseeseeseeseeseeseeseeseeeseeseeseenvyrennenwan ee\nSRRRCRRRRRRRKRRKRRRRKRKR A R",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "lr2",
+        "ceeseseeseeseeseeseeseeseeseeseeseeseeeseeseeseenvyrennenwan",
+        "clean",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 282,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s06_linked_asset_2025_03_14_vlcc_ag_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d_png",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d.png",
+      "section_path": [
+        "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d.png\n\nLinked image asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a7c0ac5d671d.png\n\nImage metadata: PNG 667x400 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nLR1 Firmer\nWeekly Trends Clean Panamax\n600\n500\n2 200\n£\n2\n& 300\n2\n200\n100\n0\nSS RSESBSRRREKRAERBRRERBFPPERSRZELLEESS\nSSE S53 535 SBEBSBSSSSBSESEBSEEBEBBEBE RF KK DF F\nrr rr FTF TFTeteerertere FF FT Fs FT FS FT TF TF TFN HN KN HN HY\nyNno WN WYeNHNeHeNAeNeHeHeNHNHeaenaesnss 8Beaesssesseeese SeSYN\nSSSR RRRKRRRRKRKRKRKRRRRRKRKENNNN NK",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "asset",
+        "image",
+        "beaesssesseeese",
+        "clean",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 298,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s07_linked_asset_2025_03_14_vlcc_ag_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da_png",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da.png",
+      "section_path": [
+        "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da.png\n\nLinked image asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88e82d7ae6da.png\n\nImage metadata: PNG 668x562 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nMR Mixed\nWeekly Trends Clean MR\nMRI Baltic/UKC Ml MR2 Cont/USAC @ MR2 USG/Cont\n400\n300\ng\n& 200\n100\n0\n400\n300\nNA\n100\n0\nSSSRBESBRSRRARRAERREREPGRSESESSEESST\nSESESSESESBESB SBS 535353 E5B253 SEBERBBSBESB SRR GH TE\nSLTRSSSERSKRKSKRRRSERTEKRSRTRRSERKRRERSSSSSA\nSRRRRRRRTRRRRRRRRRRRRRNYSNSN NR",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "clean",
+        "image",
+        "mr2",
+        "baltic/ukc",
+        "cont/usac",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 282,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s08_linked_asset_2025_03_14_vlcc_ag_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23974a957b95_png",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23974a957b95.png",
+      "section_path": [
+        "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23974a957b95.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23974a957b95.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23974a957b95.png\n\nLinked image asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23974a957b95.png\n\nImage metadata: PNG 663x571 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Dirty' (# vessels) - Decreasing\nBH\n% 100\n&\nS80 a NN ---\n© a eae\ng 60 eens nnn SS \"\\\n>\n5 80 - Nn\ns 69 S882, a ana canner en eS SA aaa men ia\n40 =\n20\nz\n= 4 A [\n£ 10 Avera a ----\n<\ntr)\n50\n3\n= 40\n© werage [NVA /\\\n<\n20\na ™m w x a -~ ™m » Led a = o » Led bal = o » Land aD = baal ™m w baad a -~\ngoog ses es we nwenenenrmonnmnnmnset Fs FFkFHSESBSBSS ET\nSSEBE2232 22222222232 222222737727 BE\nss A s A A = A << A <= < < << A << A A <= s << XY XN xy YX xy y\nye wesesasgsgsgegseagesases anes np gogseeseesesesassseseeseseS88eE8\na [J 7 =} Sc Ss Ss Sc Sc =} cs Ss c o cs [- [J [~} cs sc N N N N N cs\nSLRS RSCSEskseesekCsekC SSCs seee &",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "led",
+        "aaa",
+        "ana",
+        "anes",
+        "avera"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 429,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s09_linked_asset_2025_03_14_vlcc_ag_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5778e021d26e_png",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5778e021d26e.png",
+      "section_path": [
+        "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5778e021d26e.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5778e021d26e.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5778e021d26e.png\n\nLinked image asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5778e021d26e.png\n\nImage metadata: PNG 656x382 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMR (#vessels) - Decreasing\n§ 40\n3\n9 vera A AL\\ hh\\ pA\n4 y oN o\n30\ng VY | U V\n20\n60\nBA\n© 40 ieee eee ----> Seely aay ee\n£ Average 7 \\ NOY\n< V \\/\n2 20\naman anmen 2285 sooner enanaaeneead\nES SESISERKRSRKRERRBERFSPSPESSELLETCE\nS222 22 232232232 2232232222232 323223223227727772 BE\nss += = S&S FS FS FSF FS FSF FS FS SF FS FS Ze FeeeseaensxnssxnsNs vf\nSSsSsssSSSRySSSRSSESs3ESESS3R3RSRRRERSB\nNN NN NN NNN NONOUONCOUNCUCUNCUCUNCUCUNCUCUNCUCUNCUNOUNOUN N",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "fsf",
+        "image",
+        "aay",
+        "aman",
+        "anmen",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 345,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s10_linked_asset_2025_03_14_vlcc_ag_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fce6889cb64a_png",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fce6889cb64a.png",
+      "section_path": [
+        "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fce6889cb64a.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fce6889cb64a.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fce6889cb64a.png\n\nLinked image asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fce6889cb64a.png\n\nImage metadata: PNG 660x479 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND (Tonne Days)\n‘Dirty' Mixed\nDirty Tonne Days - % Growth\n100%\n90%\n4g 110%\n4 ae\n105%\ny 100% -~\n- Average'\n£ 95% \"TT oe a SE eS\n90%\nPSPSPS LS SEP ESS EPPS Es eee s\nRZ RSBSERRRRPRERRERRRRRRRRRSERESESR\nRRR RRRRRRRRRRRRRRERRRERYTSTSTNTNS",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "days",
+        "dirty",
+        "image",
+        "tonne",
+        "average",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__s11_linked_asset_2025_03_14_vlcc_ag_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185_png",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_vlcc_ag_supply__root",
+      "title": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185.png",
+      "section_path": [
+        "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185.png\n\nLinked image asset: 2025-03-14_vlcc-ag-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_67bcfb177185.png\n\nImage metadata: PNG 661x471 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘ , i\nClean' Decreasing\n120%\n4\ng\nF 10% average\n2\n5\n2\nE 20%\n110%\n§\ne\nZ 105%\nFE: ve\ns\ny\n| om\n= 100%\n110%\ng\n108\n2 100% Avera\ns\n3\n& 95%\nseas eneeeneneeereeueeesbeunuaveeaes\nSRSRERSBARKERRERKRERBERSLEL RESELLERS S\nEBB 522222 2222252252 FER RR RD E\nse eT TT TTT ECU ETCUETCULheTULvTUhURTUCKR RG\nSSSESERESESESTERSETETETESTERRTERETEESSS SSR\nssssssssss ss 8 8 8 S SSSsSsSRRERRRS\nS<k<es< FFF FCRRRKRKRRERKRKRRRARER 8",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "avera",
+        "average",
+        "clean",
+        "decreasing",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 346,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-10-21_2024_10_21_931kl9b0keior5vhq21dfe2p9qnrb5__root",
+  "doc_id": "breakwave_insights_insights_2024-10-21_2024_10_21_931kl9b0keior5vhq21dfe2p9qnrb5",
+  "parent_id": null,
+  "title": "China's Manufacturing Production Growth Finally Below 5%",
+  "section_path": [
+    "China's Manufacturing Production Growth Finally Below 5%"
+  ],
+  "section_path_text": "China's Manufacturing Production Growth Finally Below 5%",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, newly released data has shown that China's manufacturing production increased on a year-on-year basis in August by 4.3% (manufacturing is defined as the creation or production of goods with the help of equipment, labor, machines, tools, chemical or biological processing, formulation, etc). While still fairly decent, this has marked a fourth straight month of lower growth and the lowest seen in over a year. China's manufacturing production growth last reached such a low level in July 2023.",
+  "keywords": [
+    "china",
+    "steel",
+    "manufacturing",
+    "production",
+    "growth",
+    "asset",
+    "image",
+    "year-on-year",
+    "commodore",
+    "deal",
+    "doing",
+    "economy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 511,
+  "source_path": "reports/breakwave/2024/2024-10-21_931kl9b0keior5vhq21dfe2p9qnrb5.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/10/21/931kl9b0keior5vhq21dfe2p9qnrb5",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-10-21_2024_10_21_931kl9b0keior5vhq21dfe2p9qnrb5__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-10-21_2024_10_21_931kl9b0keior5vhq21dfe2p9qnrb5",
+      "parent_id": "breakwave_insights_insights_2024-10-21_2024_10_21_931kl9b0keior5vhq21dfe2p9qnrb5__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, newly released data has shown that China's manufacturing production increased on a year-on-year basis in August by 4.3% (manufacturing is defined as the creation or production of goods with the help of equipment, labor, machines, tools, chemical or biological processing, formulation, etc). While still fairly decent, this has marked a fourth straight month of lower growth and the lowest seen in over a year.",
+      "keywords": [
+        "china",
+        "steel",
+        "manufacturing",
+        "production",
+        "growth",
+        "commodore",
+        "deal",
+        "doing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 318,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-21_2024_10_21_931kl9b0keior5vhq21dfe2p9qnrb5__s02_linked_asset_2024_10_21_931kl9b0keior5vhq21dfe2p9qnrb5_img_chart_331e923e9fe6_jpg",
+      "doc_id": "breakwave_insights_insights_2024-10-21_2024_10_21_931kl9b0keior5vhq21dfe2p9qnrb5",
+      "parent_id": "breakwave_insights_insights_2024-10-21_2024_10_21_931kl9b0keior5vhq21dfe2p9qnrb5__root",
+      "title": "Linked asset: 2024-10-21_931kl9b0keior5vhq21dfe2p9qnrb5_img_chart_331e923e9fe6.jpg",
+      "section_path": [
+        "Linked asset: 2024-10-21_931kl9b0keior5vhq21dfe2p9qnrb5_img_chart_331e923e9fe6.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-10-21_931kl9b0keior5vhq21dfe2p9qnrb5_img_chart_331e923e9fe6.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-21_931kl9b0keior5vhq21dfe2p9qnrb5_img_chart_331e923e9fe6.jpg\n\nLinked image asset: 2024-10-21_931kl9b0keior5vhq21dfe2p9qnrb5_img_chart_331e923e9fe6.jpg\n\nImage metadata: JPEG 1197x879 mode=RGB\n\nOCR text:\nYear-On-Year Growth in Chinese Manufacturing Production (2022 - 2024)\n10%\n5%\n0%\n5% -§_ -$A sss\n2022 2023 2024",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "chinese",
+        "growth",
+        "jpeg",
+        "kl9b0keior5vhq21dfe2p9qnrb5_img_chart_331e923e9fe6.jpg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

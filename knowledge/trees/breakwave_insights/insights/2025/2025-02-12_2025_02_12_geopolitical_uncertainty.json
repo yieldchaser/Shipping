@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty__root",
+  "doc_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty",
+  "parent_id": null,
+  "title": "Geopolitical Uncertainty",
+  "section_path": [
+    "Geopolitical Uncertainty"
+  ],
+  "section_path_text": "Geopolitical Uncertainty",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Yiannis Parganas\nIn recent years, geopolitical uncertainty has been a defining characteristic of the global landscape. The recent election of the U.S. President has been followed by numerous announcements regarding tariffs, including the latest imposition of a 25% tax on all steel and aluminum imports into the country, further exacerbating this uncertainty.",
+  "keywords": [
+    "capesize",
+    "handysize",
+    "steel",
+    "asset",
+    "price",
+    "was",
+    "image",
+    "vessel",
+    "year",
+    "year-old",
+    "are",
+    "current"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1465,
+  "source_path": "reports/breakwave/2025/2025-02-12_geopolitical-uncertainty.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/2/12/geopolitical-uncertainty",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty",
+      "parent_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Yiannis Parganas\nIn recent years, geopolitical uncertainty has been a defining characteristic of the global landscape. The recent election of the U.S.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "steel",
+        "price",
+        "was",
+        "vessel",
+        "year",
+        "year-old"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 867,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty__s02_linked_asset_2025_02_12_geopolitical_uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5_png",
+      "doc_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty",
+      "parent_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty__root",
+      "title": "Linked asset: 2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png",
+      "section_path": [
+        "Linked asset: 2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png\n\nLinked image asset: 2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8ca92e71cfa5.png\n\nImage metadata: PNG 484x229 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nHandystze Secondhand Values\nsao\n2100\n2600\n2400\n2200\n2000\n100\n& 600\nM00\n200\n1000\n100\n600\n400\n200\nee EF \" PELE ES & POS rs PSS é. PSS\nPHP APS KAP FF FPS KP MK\n- Handyaie S815 YROM --- Handysite Sak dwt LO YR Old (eco design) \"-\" Haadyaie SR dwt SS YROM \"-\"Haadyabe 3% 20 YR Cid",
+      "keywords": [
+        "handysize",
+        "asset",
+        "dwt",
+        "image",
+        "pss",
+        "yrom",
+        "aps",
+        "cid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 256,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty__s03_linked_asset_2025_02_12_geopolitical_uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597_png",
+      "doc_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty",
+      "parent_id": "breakwave_insights_insights_2025-02-12_2025_02_12_geopolitical_uncertainty__root",
+      "title": "Linked asset: 2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png",
+      "section_path": [
+        "Linked asset: 2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png\n\nLinked image asset: 2025-02-12_geopolitical-uncertainty_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9fb1674dd597.png\n\nImage metadata: PNG 479x250 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSYROIM Handysize Price and Average T/C earnings\n2000\n00\nPare)\n000 poe\nzu B00\nwou _\nzu\nao\n000\noo\ng\n&\np00\npmo 500\nwso0 aco\nnao\nmoo\nBer)\nsoo\n200\n000 ~~\n2m0 sco\npreend Pewee ae 208 paeery muse = thie peer ee ee ed\na a Neb 0 STI AREA) tap Dik et SE OL",
+      "keywords": [
+        "handysize",
+        "asset",
+        "image",
+        "aco",
+        "area",
+        "average",
+        "b00",
+        "ber"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 244,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

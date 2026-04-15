@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__root",
+  "doc_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight",
+  "parent_id": null,
+  "title": "Strait of Hormuz Spotlight",
+  "section_path": [
+    "Strait of Hormuz Spotlight"
+  ],
+  "section_path_text": "Strait of Hormuz Spotlight",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCommercial tanker transits near zero, floating storage rising, war-risk premiums climbing. Image reference: unnamed.png | assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png\nStrait of Hormuz Disruption\nCommercial tanker transits near zero in recent observation windows\nGrowing floating storage in Gulf anchorages\nRising war-risk insurance premiums\nA sharp decline in tanker transits through the Strait of Hormuz and rising floating storage in the Gulf signal a shift toward risk-managed energy transport rather than normal market operations. Recent AIS data now indicates that commercial tanker traffic has effectively reached a near-standstill, with most vessels remaining anchored in the Gulf while operators assess security and insurance risks.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "europe",
+    "india",
+    "singapore",
+    "coal",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3981,
+  "source_path": "reports/breakwave/2026/2026-03-10_strait-of-hormuz-spotlight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/3/10/strait-of-hormuz-spotlight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight",
+      "parent_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Commercial tanker transits near zero, floating storage rising, war-risk premiums climbing. Image reference: unnamed.png | assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png\nStrait of Hormuz Disruption\nCommercial tanker transits near zero in recent observation windows\nGrowing floating storage in Gulf anchorages\nRising war-risk insurance premiums\nA sharp decline in tanker transits through the Strait of Hormuz and rising floating storage in the Gulf signal a shift toward risk-managed energy transport rather than normal market operations.",
+      "keywords": [
+        "commercial",
+        "floating",
+        "gulf",
+        "rising",
+        "storage",
+        "transits",
+        "disruption",
+        "hormuz"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 177,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__s02_eight_scenarios_for_the_hormuz_disruption",
+      "doc_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight",
+      "parent_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__root",
+      "title": "Eight Scenarios for the Hormuz Disruption",
+      "section_path": [
+        "Eight Scenarios for the Hormuz Disruption"
+      ],
+      "section_path_text": "Eight Scenarios for the Hormuz Disruption",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Scenario 1: De facto restriction of transit with rising floating storage\nProbability: Very High - already developing\nThe most immediate development appears to be a near-standstill in commercial tanker movements rather than a complete halt in traffic. Shipowners and charterers are assessing operational risks more carefully, and some departures are being delayed until freight economics justify the voyage.",
+      "keywords": [
+        "capesize",
+        "china",
+        "meg",
+        "europe",
+        "india",
+        "singapore",
+        "coal",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1300,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__s03_linked_asset_2026_03_10_strait_of_hormuz_spotlight_img_unnamed_4f9ef0724327_png",
+      "doc_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight",
+      "parent_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__root",
+      "title": "Linked asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png",
+      "section_path": [
+        "Linked asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png\n\nLinked image asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed_4f9ef0724327.png\n\nImage metadata: PNG 1868x1018 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nFloating Storage Lat pte 0 ar 9628\nCrude Oil Product\nDuration (Days) Crude Grade Vessel Class Floating Area Sanctioned Vessels _\n3 All v All Vv Arabian Gulf Vv All v 9\nLast 3 Years Data Filtering is also possible by Ctrl + clicking on visuals\nFloating Storage Timeseries Floating Area (07Mar 26) Vessel Class (07Mar 26)\nBarrels Vv Daily Vv Seasonal View [ @) Aggregated View\n® VLCC 95% -\nS Crude Grade (07Mar 26)\n# Arabian Gul 1000% re I 332%\n5 Upper Zakum | 16.5%\nBasrah Heavy SY 12.5%\nJan 2026 Mar 2026 May 2026 Jul 2026 Sep 2026 Nov 2026 Murdan SE 6.3%\nOO)\nNFC2 4\n2023 2024 -- 2025 --- 2026 = ~\nThe last point of the timeseries is subject to the user's minimum duration input Basrah Medium [i 3.5%\nFloating Vessel List (07Mar 26) 8 ro) Floating Vessel Map (07Mar 26) Vessel Count: 18\nVessel Imo OwT Class Com. Operator Crude Grade Floating Qty Floating Area Duration (Days) Start Date End Date + 1 4 p .",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "meg",
+        "crude_oil",
+        "arabian",
+        "gulf",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1132,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__s04_linked_asset_2026_03_10_strait_of_hormuz_spotlight_img_unnamed28129_f38dba846a57_png",
+      "doc_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight",
+      "parent_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__root",
+      "title": "Linked asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png",
+      "section_path": [
+        "Linked asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png\n\nLinked image asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed28129_f38dba846a57.png\n\nImage metadata: PNG 1888x1046 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nWaypoints | # Methodolosy | Last Update: 07 Mar 1830\nOverview Waypoint Comparison\nCalendar button - choose date\nWaypoints owT Ballast/Laden Cargo Type Vessel Age Date Range -._\nStrait of Hormuz v 0 450000 All v All v ° 40 1/12/2022. & =3/7/2026 e\nWaypoint: Strait of Hormuz\nDaily v w (at Baltic Rates Comparison ®\nDirection: East to West Direction: West to East\n40\n30 °\n3 ' ' P | ' | : | | : r /\n8 ; \\ ; }\n= 20 My ) ial AL ani | alg i id\n: : 7 : :\n3 ly | fl i) | | ) : Wh | |i oa | {\n>\n10\nJan 2026 Mar 2026 May 2026 Jul 2026 Sep 2026 Nov 2026 Jan 2026 Mar 2026 May 2026 Jul 2026 Sep 2026 Nov 2026\n2023 ---- 2024 -- 2025 -- 2026\nLive Vessel List ® Live View Map _ Vessel Class\nVessel Name Vessel Class Age DWT Waypoint Description Direction Heading Start Area Current Area AIS Destination ETA AIS Cargo Type\n¢\n500 km\nSom | * Leatiet | icon Map | Tiles © Mapbox © OpeStreetMap\nPowered by Vessel Daily S",
+      "keywords": [
+        "vessel",
+        "direction",
+        "mar",
+        "waypoint",
+        "age",
+        "ais",
+        "all",
+        "area"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 414,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__s05_linked_asset_2026_03_10_strait_of_hormuz_spotlight_img_unnamed28229_51578c911c33_png",
+      "doc_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight",
+      "parent_id": "breakwave_insights_insights_2026-03-10_2026_03_10_strait_of_hormuz_spotlight__root",
+      "title": "Linked asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png",
+      "section_path": [
+        "Linked asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png\n\nLinked image asset: 2026-03-10_strait-of-hormuz-spotlight_img_unnamed28229_51578c911c33.png\n\nImage metadata: PNG 1890x1036 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\n. Waypoints + Methodotoy | Last Update: 07 Mar 1830\nOverview Waypoint Comparison\nWaypoints OwT Ballast/Laden Cargo Type Vessel Age Date Range\nBab El Mandeb Strait v 0 450000 All v All Vv ° 40 1/12/2022.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "singapore",
+        "crude_oil",
+        "products",
+        "bab"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 849,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

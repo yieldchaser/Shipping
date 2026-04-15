@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record__root",
+  "doc_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record",
+  "parent_id": null,
+  "title": "Lower Consumption Growth in China, But Appliance Sales Set Record",
+  "section_path": [
+    "Lower Consumption Growth in China, But Appliance Sales Set Record"
+  ],
+  "section_path_text": "Lower Consumption Growth in China, But Appliance Sales Set Record",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed for clients in Commodore Research's most recent Weekly China Report, China's retail sales in June grew year-on-year by 4.8% which has marked the lowest growth seen since February. Taking June's 0.1% inflation into account, sales adjusted for inflation/deflation grew year-on-year by 4.7%. This has also marked the lowest growth seen since February.",
+  "keywords": [
+    "china",
+    "sales",
+    "asset",
+    "growth",
+    "image",
+    "linked",
+    "retail",
+    "appliance",
+    "consumer",
+    "inflation",
+    "year-on-year",
+    "adjusted"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 642,
+  "source_path": "reports/breakwave/2025/2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/7/25/lower-consumption-growth-in-china-but-appliance-sales-set-record",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record",
+      "parent_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed for clients in Commodore Research's most recent Weekly China Report, China's retail sales in June grew year-on-year by 4.8% which has marked the lowest growth seen since February. Taking June's 0.1% inflation into account, sales adjusted for inflation/deflation grew year-on-year by 4.7%.",
+      "keywords": [
+        "china",
+        "sales",
+        "growth",
+        "consumer",
+        "retail",
+        "year-on-year",
+        "again",
+        "appliance"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 269,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record__s02_linked_asset_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record_img_chart1_97bb3d9f2edf_jpg",
+      "doc_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record",
+      "parent_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record__root",
+      "title": "Linked asset: 2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record_img_chart1_97bb3d9f2edf.jpg",
+      "section_path": [
+        "Linked asset: 2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record_img_chart1_97bb3d9f2edf.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record_img_chart1_97bb3d9f2edf.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record_img_chart1_97bb3d9f2edf.jpg\n\nLinked image asset: 2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record_img_chart1_97bb3d9f2edf.jpg\n\nImage metadata: JPEG 594x319 mode=RGB\n\nOCR text:\nChinese Retail Sales Growth Adjusted For Inflation\n20%\n10%\n0%\n-10%\n20%-©§-_\n2022 2023 2024 2025",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "adjusted",
+        "chinese",
+        "growth",
+        "inflation",
+        "jpeg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 140,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record__s03_linked_asset_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record_img_chart2_cf5f2790eea6_jpg",
+      "doc_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record",
+      "parent_id": "breakwave_insights_insights_2025-07-25_2025_07_25_lower_consumption_growth_in_china_but_appliance_sales_set_record__root",
+      "title": "Linked asset: 2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record_img_chart2_cf5f2790eea6.jpg",
+      "section_path": [
+        "Linked asset: 2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record_img_chart2_cf5f2790eea6.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record_img_chart2_cf5f2790eea6.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record_img_chart2_cf5f2790eea6.jpg\n\nLinked image asset: 2025-07-25_lower-consumption-growth-in-china-but-appliance-sales-set-record_img_chart2_cf5f2790eea6.jpg\n\nImage metadata: JPEG 596x337 mode=RGB\n\nOCR text:\nChinese Household Appliance Sales\n1500\n1000\n500\n0\n2016 2017 2018 2019 2020 2021 2022 2023 2024 2025\nUnit: 100 miltion yuan",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "appliance",
+        "chinese",
+        "household",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

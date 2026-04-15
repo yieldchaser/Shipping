@@ -1,0 +1,566 @@
+{
+  "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+  "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+  "parent_id": null,
+  "title": "Crude-Laden Tankers Build in Hormuz as Production Cuts Loom",
+  "section_path": [
+    "Crude-Laden Tankers Build in Hormuz as Production Cuts Loom"
+  ],
+  "section_path_text": "Crude-Laden Tankers Build in Hormuz as Production Cuts Loom",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nRecord crude accumulation and a historic shift in ballast-laden ratios signal deepening supply disruption in the Gulf. Image reference: assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png\nImage reference: unnamed.png | assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed_5c62f36b5a42.png\nTensions in the Gulf have been escalating for nearly two weeks, culminating most recently in U.S. strikes on military targets on Kharg Island, Iran's primary crude export terminal.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "brazil",
+    "crude_oil",
+    "products",
+    "image",
+    "asset",
+    "linked",
+    "png",
+    "vessels",
+    "laden",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5168,
+  "source_path": "reports/breakwave/2026/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/3/17/crude-laden-tankers-build-in-hormuz-as-production-cuts-loom",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Record crude accumulation and a historic shift in ballast-laden ratios signal deepening supply disruption in the Gulf. Image reference: assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png\nImage reference: unnamed.png | assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed_5c62f36b5a42.png\nTensions in the Gulf have been escalating for nearly two weeks, culminating most recently in U.S.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "crude_oil",
+        "crude",
+        "per",
+        "accumulation",
+        "are",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 353,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s02_laden_tanker_counts_reach_record_levels",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Laden Tanker Counts Reach Record Levels",
+      "section_path": [
+        "Laden Tanker Counts Reach Record Levels"
+      ],
+      "section_path_text": "Laden Tanker Counts Reach Record Levels",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Recent AIS data show a sharp reversal in the typical ballast-laden balance in the Strait of Hormuz, with laden vessels now significantly outnumbering ballast vessels. Historical ~135 ballast vs ~85 laden vessels\nTypical gap 50 vessels in favor of ballast traffic\nRecent ~75 ballast vessels vs ~145 laden\nLatest crude tanker snapshot 85 laden vs 25 ballast vessels in the latest observations\nImage reference: Στιγμιότυπο οθόνης 2026-03-17 132950.png | assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png\nDuring March 2026, owing to the effective closure of the Strait of Hormuz, a clear divergence emerged between ballast and laden tanker counts.",
+      "keywords": [
+        "ballast",
+        "vessels",
+        "laden",
+        "average",
+        "hormuz",
+        "image",
+        "latest",
+        "png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 340,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s03_where_the_distortion_is_most_visible",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Where the Distortion Is Most Visible",
+      "section_path": [
+        "Where the Distortion Is Most Visible"
+      ],
+      "section_path_text": "Where the Distortion Is Most Visible",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The imbalance becomes particularly clear when focusing on crude tankers specifically. Laden crude tanker counts have risen to roughly 85 vessels, while ballast crude tankers have fallen to about 25 vessels.",
+      "keywords": [
+        "crude",
+        "laden",
+        "tankers",
+        "vessels",
+        "assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b.png",
+        "ballast",
+        "becomes",
+        "buildup"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 150,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s04_crude_cargo_buildup_inside_the_strait_of_hormuz",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Crude Cargo Buildup Inside the Strait of Hormuz",
+      "section_path": [
+        "Crude Cargo Buildup Inside the Strait of Hormuz"
+      ],
+      "section_path_text": "Crude Cargo Buildup Inside the Strait of Hormuz",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Based on AIS-derived estimates, approximately 130 million barrels of crude oil are currently onboard tankers in the region, with around 40 million barrels of spare capacity remaining. The pattern is similar for clean product tankers, though on a smaller scale.",
+      "keywords": [
+        "crude_oil",
+        "products",
+        "barrels",
+        "million",
+        "are",
+        "capacity",
+        "currently",
+        "onboard"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s05_estimated_daily_transit_capacity",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Estimated Daily Transit Capacity",
+      "section_path": [
+        "Estimated Daily Transit Capacity"
+      ],
+      "section_path_text": "Estimated Daily Transit Capacity",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "In January 2026, under normal operating conditions, the number of daily tanker transits through the Strait of Hormuz was around 20 each for West to East and East to West (total 40). Image reference: Στιγμιότυπο οθόνης 2026-03-17 133147.png | assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f.png\nImage reference: Στιγμιότυπο οθόνης 2026-03-17 133154.png | assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239f820bb81.png\nAlthough only one or two confirmed vessel transits per day per vessel class are observed on average, this does not necessarily mean that only that number of ships are passing through the strait.",
+      "keywords": [
+        "number",
+        "per",
+        "ais",
+        "are",
+        "conditions",
+        "day",
+        "east",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 327,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s06_per_commercial_operator_vlcc",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Per Commercial Operator | VLCC",
+      "section_path": [
+        "Per Commercial Operator | VLCC"
+      ],
+      "section_path_text": "Per Commercial Operator | VLCC",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "The operator distribution highlights a notable presence of Asian-linked companies, including Sinokor, Idemitsu, Unipec, COSCO, Bahri, and trading houses such as Trafigura. Their presence among VLCC operators aligns with the high number of tanker transits through the Strait of Hormuz, as these vessels are largely employed in transporting Middle Eastern crude to Asian import markets.",
+      "keywords": [
+        "vlcc",
+        "presence",
+        "aligns",
+        "among",
+        "are",
+        "asian",
+        "asian-linked",
+        "assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s07_tanker_transits_and_insurance_environment",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Tanker Transits and Insurance Environment",
+      "section_path": [
+        "Tanker Transits and Insurance Environment"
+      ],
+      "section_path_text": "Tanker Transits and Insurance Environment",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Image reference: Στιγμιότυπο οθόνης 2026-03-17 133211.png | assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88.png\nWar-risk premiums for Gulf transits have risen significantly following the recent escalation. Industry indications suggest that premiums have increased from roughly 0.2-0.4% of vessel value previously to around 1% in many cases, with significantly higher levels possible for voyages assessed as carrying elevated risk (from 3% to 5%).",
+      "keywords": [
+        "vlcc",
+        "million",
+        "vessel",
+        "approximately",
+        "higher",
+        "image",
+        "png",
+        "premiums"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 274,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s08_volatility_persists_as_floating_storage_builds",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Volatility Persists as Floating Storage Builds",
+      "section_path": [
+        "Volatility Persists as Floating Storage Builds"
+      ],
+      "section_path_text": "Volatility Persists as Floating Storage Builds",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Maritime security across the Gulf remains highly volatile, and tanker operators are likely to remain cautious until clearer signals emerge regarding the stability of navigation through the Strait of Hormuz. In the near term, developments surrounding Iranian export infrastructure, the availability of war-risk insurance, and the willingness of shipowners to deploy vessels in the region will remain key factors shaping tanker freight markets and crude trade flows.",
+      "keywords": [
+        "capesize",
+        "are",
+        "crude",
+        "export",
+        "already",
+        "gulf",
+        "increasingly",
+        "remain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s09_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png\n\nImage metadata: PNG 569x110 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_df3955f12aab.png",
+        "dpi",
+        "embedded",
+        "info",
+        "linked",
+        "metadata"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s10_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_unnamed_5c62f36b5a42_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed_5c62f36b5a42.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed_5c62f36b5a42.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed_5c62f36b5a42.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed_5c62f36b5a42.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed_5c62f36b5a42.png\n\nImage metadata: PNG 715x486 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nVessel Count\nOwT Current Area AMS Destnatan Heseng Cargo Type\n0 990000 beside Hormuz all v all Dity v\nVessel Count Insights Current Cargo Tyre Live View Aggregated View\n\" - a -- see ,\n-_\nWoW %: -8.3% Cotesia ive. fans \"9 ¥ *\n0 Ballast / Laden; -9 oa [= - -\nMoM %: «73.7% sone [oe Wn Oe\nomen tn.",
+      "keywords": [
+        "laden",
+        "ballast",
+        "all",
+        "asset",
+        "cargo",
+        "count",
+        "current",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 382,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s11_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png\n\nImage metadata: PNG 639x380 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nside Moemuz Strait - Ballast vs Laden Vessels\n\\ | -\n; |\n1 ty N\nI il} uf \\ | |\n| raitll sai | | | A) |\n; ly iil , ht : | :\nWL ) MY WW I \\\\ ) | 1 Vi \\h) at\nF \\ wl (VV | . WV WAIN |\n‘ | | Vill\n: | ]\nr y |\nF | |",
+      "keywords": [
+        "asset",
+        "image",
+        "ballast",
+        "crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91eca8f6c43e.png",
+        "dpi",
+        "embedded",
+        "iil",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 251,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s12_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_478689c814e7_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_478689c814e7.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_478689c814e7.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_478689c814e7.png",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_478689c814e7.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_478689c814e7.png\n\nImage metadata: PNG 609x344 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nCHART 2: RECENT BREAKDOWN IN BALLAST-LADEN TRAFFIC\nBALANCE (2026)\nInside Mornuz Strait . Ballast vs Laden Vessels:\n0 =\n- tate\nuo\ni\"\nx0\nva va \" \" \" va\nonte\nSource: Signal Ocean Data Warehouse (TSOP); based on AIS data",
+      "keywords": [
+        "asset",
+        "data",
+        "image",
+        "source",
+        "ais",
+        "balance",
+        "ballast",
+        "ballast-laden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s13_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b.png",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b.png\n\nImage metadata: PNG 611x384 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n| =|\ni } :\n| =\nrood dy |\nl \\ 1 | ] | i] |\nI 1 | Wik \\ \\ Mh\nP ie | N WW WAL) Pally NVA A AMY\n{ | i '] ‘it Ng ih -\nWy VA | 1 TIE\n1 | VEN\n| |",
+      "keywords": [
+        "asset",
+        "image",
+        "amy",
+        "crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cdd901c3962b.png",
+        "dpi",
+        "embedded",
+        "info",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 226,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s14_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52281134bcf5_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52281134bcf5.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52281134bcf5.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52281134bcf5.png",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52281134bcf5.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_52281134bcf5.png\n\nImage metadata: PNG 600x600 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n~130 million ~40 million ~170 million\nCrude\nbarrels barrels barrels\n~20 million ~45 million\nProduct ~25 million barrels\nbarrels barrels\nCHART 4: UTILIZED | SPARE TANKER CAPACITY | TOTAL\nCAPACITY\nInside Hormuz Strait - Utilized vs Spare Tanker Capacity\n160\n140\n220\nt 100\n=\na\n€\na)\n=\n6\n*\n20\no\nCude Product",
+      "keywords": [
+        "barrels",
+        "million",
+        "capacity",
+        "asset",
+        "image",
+        "product",
+        "spare",
+        "utilized"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 252,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s15_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f.png",
+      "level": 1,
+      "ordinal": 15,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f.png\n\nImage metadata: PNG 612x277 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\n[No OCR text detected in linked image.]",
+      "keywords": [
+        "asset",
+        "image",
+        "linked",
+        "crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ef2b8ae110f.png",
+        "detected",
+        "dpi",
+        "embedded",
+        "image."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s16_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239f820bb81_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239f820bb81.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239f820bb81.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239f820bb81.png",
+      "level": 1,
+      "ordinal": 16,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239f820bb81.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4239f820bb81.png\n\nImage metadata: PNG 637x384 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nToday's Reality | Average Daily Transit <2 Per Vessel Class (March 1-16)\nCHART 6: ESTIMATED DAILY TRANSIT CAPACITY (OBSERVED, MARCH 1-16\nGib Weestto tas: Bh cast to west\na a ss -",
+      "keywords": [
+        "asset",
+        "daily",
+        "image",
+        "march",
+        "transit",
+        "average",
+        "capacity",
+        "cast"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s17_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a.png",
+      "level": 1,
+      "ordinal": 17,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a.png\n\nImage metadata: PNG 623x350 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\n[No OCR text detected in linked image.]",
+      "keywords": [
+        "asset",
+        "image",
+        "linked",
+        "crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e5043f1667a.png",
+        "detected",
+        "dpi",
+        "embedded",
+        "image."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s18_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88.png",
+      "level": 1,
+      "ordinal": 18,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88.png\n\nImage metadata: PNG 579x170 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nVALUE . RISK (EXTREME)\nS-yr VLCC $136.7M $1.37M $4.10M\n10-yr VLCC $109.7M $1.10M $3.29M",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3d311530f88.png",
+        "dpi",
+        "embedded",
+        "extreme",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 205,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__s19_linked_asset_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom_img_unnamed28329_845ee3a191c0_png",
+      "doc_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom",
+      "parent_id": "breakwave_insights_insights_2026-03-17_2026_03_17_crude_laden_tankers_build_in_hormuz_as_production_cuts_loom__root",
+      "title": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed28329_845ee3a191c0.png",
+      "section_path": [
+        "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed28329_845ee3a191c0.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed28329_845ee3a191c0.png",
+      "level": 1,
+      "ordinal": 19,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed28329_845ee3a191c0.png\n\nLinked image asset: 2026-03-17_crude-laden-tankers-build-in-hormuz-as-production-cuts-loom_img_unnamed28329_845ee3a191c0.png\n\nImage metadata: PNG 721x468 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nValuations sear\nSelected Vessel Class\nwee -\nNew Build Resale } vr tor } 1sy mY Serap\nsiz7sm~| $171.0M >. | $1367M~, $109.7M.=_ | $80.0M = $57.5M =| | $18.7M =\nVessel Benchmark Age Comparison Aqe Oana Mertat Com parece =a\nHistorical trend of benchmarkc vatuations by age profie at v\nsi\nNa 7 ~ - en -- Pry\n\" ehion bul @Resale @5Y @10Y #15Y eo oS _ a ic wl a",
+      "keywords": [
+        "age",
+        "asset",
+        "image",
+        "resale",
+        "vessel",
+        "aqe",
+        "benchmark",
+        "benchmarkc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 269,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

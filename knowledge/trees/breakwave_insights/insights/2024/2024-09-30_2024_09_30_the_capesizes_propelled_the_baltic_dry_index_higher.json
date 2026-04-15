@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-09-30_2024_09_30_the_capesizes_propelled_the_baltic_dry_index_higher__root",
+  "doc_id": "breakwave_insights_insights_2024-09-30_2024_09_30_the_capesizes_propelled_the_baltic_dry_index_higher",
+  "parent_id": null,
+  "title": "The capesizes propelled the Baltic Dry Index higher",
+  "section_path": [
+    "The capesizes propelled the Baltic Dry Index higher"
+  ],
+  "section_path_text": "The capesizes propelled the Baltic Dry Index higher",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe capesizes propelled the Baltic Dry Index higher last week, while the panamaxes gave up some of the gains from the preceding two weeks. Among the commodities, iron ore gained significant ground following last week's Chinese announcements regarding additional support for the world's second-largest economy. On the other hand, crude oil went against the general flow as expectations of higher Saudi Arabian exports weighed on prices.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia",
+    "pacific",
+    "europe",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1816,
+  "source_path": "reports/breakwave/2024/2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/9/30/the-capesizes-propelled-the-baltic-dry-index-higher",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-09-30_2024_09_30_the_capesizes_propelled_the_baltic_dry_index_higher__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-09-30_2024_09_30_the_capesizes_propelled_the_baltic_dry_index_higher",
+      "parent_id": "breakwave_insights_insights_2024-09-30_2024_09_30_the_capesizes_propelled_the_baltic_dry_index_higher__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The capesizes propelled the Baltic Dry Index higher last week, while the panamaxes gave up some of the gains from the preceding two weeks. Among the commodities, iron ore gained significant ground following last week's Chinese announcements regarding additional support for the world's second-largest economy.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1497,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-30_2024_09_30_the_capesizes_propelled_the_baltic_dry_index_higher__s02_linked_asset_2024_09_30_the_capesizes_propelled_the_baltic_dry_index_higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431_png",
+      "doc_id": "breakwave_insights_insights_2024-09-30_2024_09_30_the_capesizes_propelled_the_baltic_dry_index_higher",
+      "parent_id": "breakwave_insights_insights_2024-09-30_2024_09_30_the_capesizes_propelled_the_baltic_dry_index_higher__root",
+      "title": "Linked asset: 2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png",
+      "section_path": [
+        "Linked asset: 2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png\n\nLinked image asset: 2024-09-30_the-capesizes-propelled-the-baltic-dry-index-higher_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_aaa194ee5431.png\n\nImage metadata: PNG 663x396 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Sugar Discharging Far East/SE Asia by Origin\n® Rest of the world ® Australia @ Thailand @ Brazil\n18\n1\ntT I\n\"y i | : ll | Hi | :\nPo? oer aeth noth nah noah oh ob oh oh\nPPPS LBS LLG ISAS EEL EL GE\nData source: Shipfix",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "australia",
+        "asset",
+        "image",
+        "source",
+        "act",
+        "aeth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

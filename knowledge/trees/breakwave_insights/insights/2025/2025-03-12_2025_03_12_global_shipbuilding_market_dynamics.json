@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-03-12_2025_03_12_global_shipbuilding_market_dynamics__root",
+  "doc_id": "breakwave_insights_insights_2025-03-12_2025_03_12_global_shipbuilding_market_dynamics",
+  "parent_id": null,
+  "title": "Global shipbuilding market dynamics",
+  "section_path": [
+    "Global shipbuilding market dynamics"
+  ],
+  "section_path_text": "Global shipbuilding market dynamics",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nikolaos Tagoulis\nIn view of President Trump's declared intention to \"Make America's Shipbuilding Great Again,\" this week we aim to shed some light on the global shipbuilding market dynamics. An executive order for the revival of the US shipbuilding industry (commercial and military) has been drafted, aiming to substantially enhance its market position in the next years. The executive order includes measures such as the formation of a Maritime Security Trust Fund, a six-month plan to increase U.S.",
+  "keywords": [
+    "lng",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "gas",
+    "shipbuilding",
+    "orderbook",
+    "increase",
+    "its",
+    "shipyards"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1157,
+  "source_path": "reports/breakwave/2025/2025-03-12_global-shipbuilding-market-dynamics.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/3/12/global-shipbuilding-market-dynamics",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-03-12_2025_03_12_global_shipbuilding_market_dynamics__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-03-12_2025_03_12_global_shipbuilding_market_dynamics",
+      "parent_id": "breakwave_insights_insights_2025-03-12_2025_03_12_global_shipbuilding_market_dynamics__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nikolaos Tagoulis\nIn view of President Trump's declared intention to \"Make America's Shipbuilding Great Again,\" this week we aim to shed some light on the global shipbuilding market dynamics. An executive order for the revival of the US shipbuilding industry (commercial and military) has been drafted, aiming to substantially enhance its market position in the next years.",
+      "keywords": [
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "gas",
+        "shipbuilding"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 824,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-12_2025_03_12_global_shipbuilding_market_dynamics__s02_linked_asset_2025_03_12_global_shipbuilding_market_dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c78df62b20b3_png",
+      "doc_id": "breakwave_insights_insights_2025-03-12_2025_03_12_global_shipbuilding_market_dynamics",
+      "parent_id": "breakwave_insights_insights_2025-03-12_2025_03_12_global_shipbuilding_market_dynamics__root",
+      "title": "Linked asset: 2025-03-12_global-shipbuilding-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c78df62b20b3.png",
+      "section_path": [
+        "Linked asset: 2025-03-12_global-shipbuilding-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c78df62b20b3.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-12_global-shipbuilding-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c78df62b20b3.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-12_global-shipbuilding-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c78df62b20b3.png\n\nLinked image asset: 2025-03-12_global-shipbuilding-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c78df62b20b3.png\n\nImage metadata: PNG 457x324 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nVessel %\n| comeey | atitioncr | bers | sare\n1{ china | 5a | 3454 | 62.42%\n2|___-s.Korea | 60.1_-|__687_| 21.30%\n3| Japan| sos | 8.83%\n4{ tay | Ta | 135%\nS| Vietnam | 28_ | 20 100%\n6| Philippines [| 2s_ |__| 0.89%\n7| Russia | is || 053%\n8| Germany | 12 |_| 0.43%\n9| France | ot |_| 036%\n1o| Finland =| os || 028%",
+      "keywords": [
+        "china",
+        "japan",
+        "asset",
+        "image",
+        "atitioncr",
+        "bers",
+        "comeey",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 282,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

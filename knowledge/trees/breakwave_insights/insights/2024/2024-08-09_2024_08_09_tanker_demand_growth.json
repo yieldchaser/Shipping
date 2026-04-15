@@ -1,0 +1,342 @@
+{
+  "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+  "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+  "parent_id": null,
+  "title": "Tanker Demand Growth",
+  "section_path": [
+    "Tanker Demand Growth"
+  ],
+  "section_path_text": "Tanker Demand Growth",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 32, August 08, 2024\nChart of the Week: Tanker Demand Growth - Tonne days\nThis week's chart shows that the growth in tonne days for dirty tankers has slowed since May compared to last year, with a continued decline into August. This suggests that dirty tanker demand is weakening as the summer season ends, confirming the downward trend we noted in early July in our Week 28 Tanker Weekly Monitor. In the clean segment (right chart), it's noteworthy that despite the sharp downward trend following the peak at the end of the first quarter, recent growth estimates are still outpacing last year's monthly growth.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "asset",
+    "image",
+    "linked"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5238,
+  "source_path": "reports/breakwave/2024/2024-08-09_tanker-demand-growth.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/8/9/tanker-demand-growth",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 32, August 08, 2024\nChart of the Week: Tanker Demand Growth - Tonne days\nThis week's chart shows that the growth in tonne days for dirty tankers has slowed since May compared to last year, with a continued decline into August. This suggests that dirty tanker demand is weakening as the summer season ends, confirming the downward trend we noted in early July in our Week 28 Tanker Weekly Monitor.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1948,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s02_linked_asset_2024_08_09_tanker_demand_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_488edc0eca56_png",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_488edc0eca56.png",
+      "section_path": [
+        "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_488edc0eca56.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_488edc0eca56.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_488edc0eca56.png\n\nLinked image asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_488edc0eca56.png\n\nImage metadata: PNG 668x318 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDirty Clean\nTonne Days ema Tonne Days 70 ¢A\n280M\n\"\n3 3\n40M Cd\nmM\n270m 770M\nJan 2026 Mar 2026 May 2024 na 2026 Sep 2024 Jan 2026 Mar 2024 May 2024 Jul 2024 Sep 2024\n2022 @ 2073 @ 2026",
+      "keywords": [
+        "asset",
+        "days",
+        "image",
+        "jan",
+        "mar",
+        "may",
+        "sep",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 220,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s03_linked_asset_2024_08_09_tanker_demand_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7b562dcf8af_png",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7b562dcf8af.png",
+      "section_path": [
+        "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7b562dcf8af.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7b562dcf8af.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7b562dcf8af.png\n\nLinked image asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d7b562dcf8af.png\n\nImage metadata: PNG 667x549 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT\nMarket Rates (WS)\n‘Dirty' WS - Weaker\nVLCC - Suezmax - Aframax\nWeekly Trends, WS Dirty Rates\nWB VLCC MEG/Chins BB Suez WAFr to Cont I Suez Baltic Med Wi Atra Med\nFS\naR 28 88 SRR R RRR SESE FR EE 8 8S",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "west_africa",
+        "asset",
+        "dirty",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 218,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s04_linked_asset_2024_08_09_tanker_demand_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d23a9bfb74d_png",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d23a9bfb74d.png",
+      "section_path": [
+        "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d23a9bfb74d.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d23a9bfb74d.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d23a9bfb74d.png\n\nLinked image asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1d23a9bfb74d.png\n\nImage metadata: PNG 654x474 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Product' WS\nLR2 Weaker\nWeekly Trends Clean LR2\n300\n250\n2 200\ng\ng 30\n200\n50\n0\nSS 88 $3328 3282 23 se e¢B8 828328 F FS EBBSB\n> FF FF FF FEE FREE EEE EEF FE EEE\n77 8 2282 Reeee s&s Ss SF FS EES EEE EES\na2 88 8 PBR FF FRR R Ree ee eT Ee EEG",
+      "keywords": [
+        "eee",
+        "asset",
+        "ees",
+        "image",
+        "lr2",
+        "clean",
+        "dpi",
+        "ebbsb"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 253,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s05_linked_asset_2024_08_09_tanker_demand_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7fa97829c2d6_png",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7fa97829c2d6.png",
+      "section_path": [
+        "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7fa97829c2d6.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7fa97829c2d6.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7fa97829c2d6.png\n\nLinked image asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7fa97829c2d6.png\n\nImage metadata: PNG 662x397 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nLR1 Weaker\nWeekly Trends Clean Panamax\n600\n500\nB 400\n>\n2\n$\na. $\n=\n200\n200\n°\nSs 88BS<RSERSRREe tees BseeesevesexvssasB\n~eeaaeaenaanaananaees ses 8 5S 22 2 = = FF FF FZ\n88 es 8 8 § FS FF sseRRR Resse ER ESRB SB",
+      "keywords": [
+        "panamax",
+        "asset",
+        "image",
+        "bseeesevesexvssasb",
+        "clean",
+        "dpi",
+        "eeaaeaenaanaananaees",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s06_linked_asset_2024_08_09_tanker_demand_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b21ccd2324ea_png",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b21ccd2324ea.png",
+      "section_path": [
+        "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b21ccd2324ea.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b21ccd2324ea.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b21ccd2324ea.png\n\nLinked image asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b21ccd2324ea.png\n\nImage metadata: PNG 666x577 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nMR Weaker\nWeekly Trends Clean MR\ni MR2 Battic/UKC I ee Contusac WB mR2 USG/Cont\n400\n300\ng\n§ 200\n100\n°\n600\n300\n200\n100\nOo\nm7 SS Se SSS a ae\nSEES SS PSPS ES SPSS SCssssess SEs sz\neee E ERE RE EREREEEESEEEER EES\nRSS es FF FS FRSRER ESSER SSRSRSRRRR",
+      "keywords": [
+        "asset",
+        "clean",
+        "image",
+        "mr2",
+        "battic/ukc",
+        "contusac",
+        "dpi",
+        "eee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 243,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s07_linked_asset_2024_08_09_tanker_demand_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5cb386cfed4_png",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5cb386cfed4.png",
+      "section_path": [
+        "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5cb386cfed4.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5cb386cfed4.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5cb386cfed4.png\n\nLinked image asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c5cb386cfed4.png\n\nImage metadata: PNG 656x576 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Dirty' (# vessels) - Mixed\ng\n% 100\né\n2 80 |Average ~\nGS ONO YO ae fa mm NALIN SRS --\nZ nn\n§ 0 _- K\n=< veragen S==A_ ff AN. ----- ------ 4\n= 60 Oe - : >= .",
+      "keywords": [
+        "asset",
+        "average",
+        "image",
+        "aaa",
+        "an.",
+        "avereye",
+        "bse",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 438,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s08_linked_asset_2024_08_09_tanker_demand_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3905d866cad_png",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3905d866cad.png",
+      "section_path": [
+        "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3905d866cad.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3905d866cad.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3905d866cad.png\n\nLinked image asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b3905d866cad.png\n\nImage metadata: PNG 662x424 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nLR2 (#vessels) - Decreasing\n30\n25\n20\nJ\n<\nx\n315\nAverage [\\/N , [\\\n\" aw Ao \\ ef\ns\nSS sSsserxsssseRsseseggsgsgssegseuy e828 as\nSSS 3533533353353 3325255233333 3333353 8\nRAERKKRRRRRRRLSRSSRRTTLLRRTRASA\nSRERKRKLKLRKRKRERKLFTSTTRTKLESLLRLRRERRRER",
+      "keywords": [
+        "asset",
+        "image",
+        "average",
+        "clean",
+        "decreasing",
+        "dpi",
+        "e828",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 252,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s09_linked_asset_2024_08_09_tanker_demand_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c7d47ab67ac_png",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c7d47ab67ac.png",
+      "section_path": [
+        "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c7d47ab67ac.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c7d47ab67ac.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c7d47ab67ac.png\n\nLinked image asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c7d47ab67ac.png\n\nImage metadata: PNG 666x393 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMR (#vessels) - Increasing\ng 40\n=\nFe\n+ Average\n# 30\n=\n20\n¥ 40 ee\nE laverage- 7 a LL T*N\nS =\n: \\/ V\n= 20\nSszsseseeseessee2egnHe22eeHr2e2 8Enugegeeguesegseseses\nSees eee ¢e¢ssegsegeSR E8888 58 8 SB\nSs. 53 52525 525227555252 22323232825282282282+282 8\nmmnannmmnnmmnmnnnanaansetetststetstsetstststeste\nNN NS NSNNNKHNNNKNK BBSBEBHKRARAARKREHKHEAHAARARKRAKRNR KN RH\nseoceosesesesecseseseReNRiNKSAKA SSBESSeSEeeeeeses Ss\nnN NN ONONOONCOUNCOUNOOUNONOUN nn NNR ON NOONOONONOONON ON",
+      "keywords": [
+        "asset",
+        "image",
+        "average",
+        "bbsbebhkraraarkrehkheahaararkrakrnr",
+        "dpi",
+        "e8888",
+        "eee",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 366,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s10_linked_asset_2024_08_09_tanker_demand_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c004aab2d5c_png",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c004aab2d5c.png",
+      "section_path": [
+        "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c004aab2d5c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c004aab2d5c.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c004aab2d5c.png\n\nLinked image asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c004aab2d5c.png\n\nImage metadata: PNG 654x522 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Pi J i\nDirty' Decreasing\ng\ni\n& 200%\ns ANerage\ni~]\n=\nu 95%\ny\n>\n5\n¥ 100%\nZ Average\n2 95\nSs\nee\na\n85%\na\ng 105%\ne Average\nF 100%\n4\n= 95%\nSs egSsezgzegEsgsEsessesesesgsgseeegse FEES EG\nse P eee gee enaast SS SERRE EEE EEE\nSSSSSRSSRRERESSERERERESRESREE RB SE\nSSSsSSEREESERRS SSF SsSRSRSE EERE ESS\nSRR RRRRRR RS SRR RRR RRR RE EK",
+      "keywords": [
+        "eee",
+        "asset",
+        "average",
+        "image",
+        "rrr",
+        "srr",
+        "anerage",
+        "decreasing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 301,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__s11_linked_asset_2024_08_09_tanker_demand_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f387c4ff316_png",
+      "doc_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth",
+      "parent_id": "breakwave_insights_insights_2024-08-09_2024_08_09_tanker_demand_growth__root",
+      "title": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f387c4ff316.png",
+      "section_path": [
+        "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f387c4ff316.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f387c4ff316.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f387c4ff316.png\n\nLinked image asset: 2024-08-09_tanker-demand-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6f387c4ff316.png\n\nImage metadata: PNG 656x457 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean' Decreasing\n100%\n5\n3\ng\n2 20%\n70%\n6\ng\n5 105%\n3 m erage a, ><a re ~ fw oe fo ON\nco\n=\nfy 100%\n=\n& 120%\nFa\n3\nE 110%\n3 COIN NAN NI NL\n© 100%\n88 88 @2 e288 ys egsgee e888 8 FBR BB\n22 2 2 2 2 2 BF 2B 2 F FFF BEB EBEEEBE EEE EE BE\nSSsSssSRBsessesesSEREESEESESEEE SE S\nSRRkRRRRRRRREER RR RE ERRRERRRRR ER",
+      "keywords": [
+        "asset",
+        "image",
+        "beb",
+        "clean",
+        "coin",
+        "decreasing",
+        "dpi",
+        "e288"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 291,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

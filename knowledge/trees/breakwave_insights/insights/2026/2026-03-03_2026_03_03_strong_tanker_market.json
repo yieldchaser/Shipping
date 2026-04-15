@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-03-03_2026_03_03_strong_tanker_market__root",
+  "doc_id": "breakwave_insights_insights_2026-03-03_2026_03_03_strong_tanker_market",
+  "parent_id": null,
+  "title": "Strong Tanker Market",
+  "section_path": [
+    "Strong Tanker Market"
+  ],
+  "section_path_text": "Strong Tanker Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe crude tanker tape has shifted from strong to structurally tight in a matter of weeks. As of late February, Baltic TCEs are printing at roughly USD 78k/day for Aframax, USD 129k/day for Suezmax and USD 177k/day for VLCCs, levels that historically coincide with geopolitical stress rather than seasonal strength. The key message for S&P is not the spike itself, but what it signals: effective supply of compliant tonnage is significantly smaller than headline fleet numbers imply.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "india",
+    "sss",
+    "eee",
+    "see",
+    "million",
+    "sses",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3430,
+  "source_path": "reports/breakwave/2026/2026-03-03_strong-tanker-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/3/3/strong-tanker-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-03-03_2026_03_03_strong_tanker_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-03-03_2026_03_03_strong_tanker_market",
+      "parent_id": "breakwave_insights_insights_2026-03-03_2026_03_03_strong_tanker_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe crude tanker tape has shifted from strong to structurally tight in a matter of weeks. As of late February, Baltic TCEs are printing at roughly USD 78k/day for Aframax, USD 129k/day for Suezmax and USD 177k/day for VLCCs, levels that historically coincide with geopolitical stress rather than seasonal strength.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "india",
+        "million",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 854,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-03_2026_03_03_strong_tanker_market__s02_linked_asset_2026_03_03_strong_tanker_market_img_pexels_irfansimsar_32237794_db192a8b3bc9_jpg",
+      "doc_id": "breakwave_insights_insights_2026-03-03_2026_03_03_strong_tanker_market",
+      "parent_id": "breakwave_insights_insights_2026-03-03_2026_03_03_strong_tanker_market__root",
+      "title": "Linked asset: 2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg",
+      "section_path": [
+        "Linked asset: 2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg\n\nLinked image asset: 2026-03-03_strong-tanker-market_img_pexels-irfansimsar-32237794_db192a8b3bc9.jpg\n\nImage metadata: JPEG 2500x1667 mode=RGB\n\nOCR text:\nae. 2\nae es * ie h\nae) ey ™ ag -\ncn oe ; : - wee Fy a\nA ads..",
+      "keywords": [
+        "sss",
+        "eee",
+        "see",
+        "sses",
+        "aaa",
+        "ae.",
+        "asset",
+        "eae"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2537,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

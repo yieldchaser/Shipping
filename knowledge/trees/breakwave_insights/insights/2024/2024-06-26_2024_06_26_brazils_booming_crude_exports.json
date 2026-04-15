@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-06-26_2024_06_26_brazils_booming_crude_exports__root",
+  "doc_id": "breakwave_insights_insights_2024-06-26_2024_06_26_brazils_booming_crude_exports",
+  "parent_id": null,
+  "title": "Brazil's booming crude exports",
+  "section_path": [
+    "Brazil's booming crude exports"
+  ],
+  "section_path_text": "Brazil's booming crude exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n\"A shift to Europe and rising VLCC demand\"\nSince 2016, Brazilian crude oil exports have grown by nearly 1 million b/d, averaging 1.6 million b/d in 2024 so far. Most of Brazil's crude exports are destined for Asia, with China alone accounting for 40%. However, since 2022, an increasing share has been directed to Europe, compensating for the crude supplies Europe lost from Russia.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "europe",
+    "crude_oil",
+    "gas",
+    "crude",
+    "b/d",
+    "exports",
+    "brazilian",
+    "million",
+    "production"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 531,
+  "source_path": "reports/breakwave/2024/2024-06-26_brazils-booming-crude-exports.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/6/26/brazils-booming-crude-exports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-06-26_2024_06_26_brazils_booming_crude_exports__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-06-26_2024_06_26_brazils_booming_crude_exports",
+      "parent_id": "breakwave_insights_insights_2024-06-26_2024_06_26_brazils_booming_crude_exports__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "\"A shift to Europe and rising VLCC demand\"\nSince 2016, Brazilian crude oil exports have grown by nearly 1 million b/d, averaging 1.6 million b/d in 2024 so far. Most of Brazil's crude exports are destined for Asia, with China alone accounting for 40%.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "europe",
+        "crude_oil",
+        "gas",
+        "crude",
+        "b/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 390,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-26_2024_06_26_brazils_booming_crude_exports__s02_linked_asset_2024_06_26_brazils_booming_crude_exports_img_image3_95fffc361398_png",
+      "doc_id": "breakwave_insights_insights_2024-06-26_2024_06_26_brazils_booming_crude_exports",
+      "parent_id": "breakwave_insights_insights_2024-06-26_2024_06_26_brazils_booming_crude_exports__root",
+      "title": "Linked asset: 2024-06-26_brazils-booming-crude-exports_img_image3_95fffc361398.png",
+      "section_path": [
+        "Linked asset: 2024-06-26_brazils-booming-crude-exports_img_image3_95fffc361398.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-26_brazils-booming-crude-exports_img_image3_95fffc361398.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-26_brazils-booming-crude-exports_img_image3_95fffc361398.png\n\nLinked image asset: 2024-06-26_brazils-booming-crude-exports_img_image3_95fffc361398.png\n\nImage metadata: PNG 918x620 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\nOCR text:\nrT iRiallililill",
+      "keywords": [
+        "brazil",
+        "asset",
+        "image",
+        "brazils-booming-crude-exports_img_image3_95fffc361398.png",
+        "dpi",
+        "embedded",
+        "info",
+        "iriallililill"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 108,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_chinas_most_likely_steel_production_bear_case_scenario_is_not_that_bearish__root",
+  "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_chinas_most_likely_steel_production_bear_case_scenario_is_not_that_bearish",
+  "parent_id": null,
+  "title": "China's Most Likely Steel Production Bear-Case Scenario Is Not That Bearish",
+  "section_path": [
+    "China's Most Likely Steel Production Bear-Case Scenario Is Not That Bearish"
+  ],
+  "section_path_text": "China's Most Likely Steel Production Bear-Case Scenario Is Not That Bearish",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we have been discussing in client updates throughout this month, it remains to be seen if any drastic steel production cuts will ultimately be carried out by China's central government this year. Bloomberg and others are expecting that cuts could end up resulting in China's steel production falling by as much as 50 million tons this year - but, for now, no cuts have been announced, and overall we do not expect that China's steel production will fall by 50 million tons this year. As we discussed for clients last week, China's steel production has most recently climbed to the highest level since June 2023 and is at a level that is up year-on-year by 6%.",
+  "keywords": [
+    "china",
+    "steel",
+    "million",
+    "production",
+    "anything",
+    "asset",
+    "cuts",
+    "image",
+    "output",
+    "year",
+    "believe",
+    "central"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 473,
+  "source_path": "reports/breakwave/2025/2025-03-14_chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/3/14/chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_chinas_most_likely_steel_production_bear_case_scenario_is_not_that_bearish__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_chinas_most_likely_steel_production_bear_case_scenario_is_not_that_bearish",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_chinas_most_likely_steel_production_bear_case_scenario_is_not_that_bearish__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we have been discussing in client updates throughout this month, it remains to be seen if any drastic steel production cuts will ultimately be carried out by China's central government this year. Bloomberg and others are expecting that cuts could end up resulting in China's steel production falling by as much as 50 million tons this year - but, for now, no cuts have been announced, and overall we do not expect that China's steel production will fall by 50 million tons this year.",
+      "keywords": [
+        "china",
+        "steel",
+        "million",
+        "production",
+        "anything",
+        "cuts",
+        "year",
+        "believe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 267,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-14_2025_03_14_chinas_most_likely_steel_production_bear_case_scenario_is_not_that_bearish__s02_linked_asset_2025_03_14_chinas_most_likely_steel_production_bear_case_scenario_is_not_that_bearish_img_chart_a706d709752b_jpg",
+      "doc_id": "breakwave_insights_insights_2025-03-14_2025_03_14_chinas_most_likely_steel_production_bear_case_scenario_is_not_that_bearish",
+      "parent_id": "breakwave_insights_insights_2025-03-14_2025_03_14_chinas_most_likely_steel_production_bear_case_scenario_is_not_that_bearish__root",
+      "title": "Linked asset: 2025-03-14_chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish_img_chart_a706d709752b.jpg",
+      "section_path": [
+        "Linked asset: 2025-03-14_chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish_img_chart_a706d709752b.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-03-14_chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish_img_chart_a706d709752b.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-14_chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish_img_chart_a706d709752b.jpg\n\nLinked image asset: 2025-03-14_chinas-most-likely-steel-production-bear-case-scenario-is-not-that-bearish_img_chart_a706d709752b.jpg\n\nImage metadata: JPEG 596x238 mode=RGB\n\nOCR text:\nDaily Crude Stee! Output Average at Large and Medium-Sized Chinese Steel Mills\n2.40mt\n2.20mt\n2.00mt a an a\n1.80mt\n426 0m -§ PAA\nFeb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb",
+      "keywords": [
+        "china",
+        "steel",
+        "asset",
+        "feb",
+        "image",
+        "apr",
+        "aug",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 165,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

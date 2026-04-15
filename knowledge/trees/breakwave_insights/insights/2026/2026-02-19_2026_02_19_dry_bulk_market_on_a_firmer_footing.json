@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-02-19_2026_02_19_dry_bulk_market_on_a_firmer_footing__root",
+  "doc_id": "breakwave_insights_insights_2026-02-19_2026_02_19_dry_bulk_market_on_a_firmer_footing",
+  "parent_id": null,
+  "title": "Dry Bulk market on a firmer footing",
+  "section_path": [
+    "Dry Bulk market on a firmer footing"
+  ],
+  "section_path_text": "Dry Bulk market on a firmer footing",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-02-19_dry-bulk-market-on-a-firmer-footing_img_knightship_0d420fade627.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe dry bulk market has entered 2026 on a markedly firmer footing, with the strong finish of 2025 and the solid opening weeks of the new year translating directly into higher asset values across all size segments. Freight momentum has not only restored confidence but has also pushed second-hand prices to levels that, in the case of Capesizes, have not been witnessed since the peak cycle of 2008. Quarterly averages from the Baltic timecharter data clearly illustrate the shift.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "china",
+    "japan",
+    "year-old",
+    "ultramax",
+    "values",
+    "are",
+    "asset",
+    "but",
+    "kamsarmax"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1083,
+  "source_path": "reports/breakwave/2026/2026-02-19_dry-bulk-market-on-a-firmer-footing.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/2/19/dry-bulk-market-on-a-firmer-footing",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-02-19_2026_02_19_dry_bulk_market_on_a_firmer_footing__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-02-19_2026_02_19_dry_bulk_market_on_a_firmer_footing",
+      "parent_id": "breakwave_insights_insights_2026-02-19_2026_02_19_dry_bulk_market_on_a_firmer_footing__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-02-19_dry-bulk-market-on-a-firmer-footing_img_knightship_0d420fade627.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe dry bulk market has entered 2026 on a markedly firmer footing, with the strong finish of 2025 and the solid opening weeks of the new year translating directly into higher asset values across all size segments. Freight momentum has not only restored confidence but has also pushed second-hand prices to levels that, in the case of Capesizes, have not been witnessed since the peak cycle of 2008.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "china",
+        "japan",
+        "year-old",
+        "ultramax",
+        "values"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 913,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-02-19_2026_02_19_dry_bulk_market_on_a_firmer_footing__s02_linked_asset_2026_02_19_dry_bulk_market_on_a_firmer_footing_img_knightship_0d420fade627_jpg",
+      "doc_id": "breakwave_insights_insights_2026-02-19_2026_02_19_dry_bulk_market_on_a_firmer_footing",
+      "parent_id": "breakwave_insights_insights_2026-02-19_2026_02_19_dry_bulk_market_on_a_firmer_footing__root",
+      "title": "Linked asset: 2026-02-19_dry-bulk-market-on-a-firmer-footing_img_knightship_0d420fade627.jpg",
+      "section_path": [
+        "Linked asset: 2026-02-19_dry-bulk-market-on-a-firmer-footing_img_knightship_0d420fade627.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-02-19_dry-bulk-market-on-a-firmer-footing_img_knightship_0d420fade627.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-02-19_dry-bulk-market-on-a-firmer-footing_img_knightship_0d420fade627.jpg\n\nLinked image asset: 2026-02-19_dry-bulk-market-on-a-firmer-footing_img_knightship_0d420fade627.jpg\n\nImage metadata: JPEG 500x251 mode=RGB\n\nOCR text:\n= = : apes\na) ==\nee a SS -_\ne, qe = -= =-\n‘/ >=\nSS\n. a \"\nee\nee\naf\nPry\n<\na",
+      "keywords": [
+        "asset",
+        "image",
+        "apes",
+        "dry-bulk-market-on-a-firmer-footing_img_knightship_0d420fade627.jpg",
+        "jpeg",
+        "linked",
+        "metadata",
+        "mode"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 134,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

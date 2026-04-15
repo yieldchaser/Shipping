@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__root",
+  "doc_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update",
+  "parent_id": null,
+  "title": "Tankers Research Update",
+  "section_path": [
+    "Tankers Research Update"
+  ],
+  "section_path_text": "Tankers Research Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "EU/US trade deal - Can Europe really lift US energy imports to $250bn/year? Brent has gained over $6/bbl since Friday as Trump's trade deal with Europe and more aggressive stance on Russia raise fears of oil supply shortages. As the long-awaited US-EU trade agreement last week settled on a 15% US import tariff on most EU goods, excluding steel and aluminium, which will remain at 50%.",
+  "keywords": [
+    "aframax",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "us_gulf",
+    "coal",
+    "crude_oil",
+    "products",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2481,
+  "source_path": "reports/breakwave/2025/2025-07-31_tankers-research-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/7/31/tankers-research-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__s01_eu_us_trade_deal_can_europe_really_lift_us_energy_imports_to_250bn_year",
+      "doc_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__root",
+      "title": "EU/US trade deal - Can Europe really lift US energy imports to $250bn/year?",
+      "section_path": [
+        "EU/US trade deal - Can Europe really lift US energy imports to $250bn/year?"
+      ],
+      "section_path_text": "EU/US trade deal - Can Europe really lift US energy imports to $250bn/year?",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Brent has gained over $6/bbl since Friday as Trump's trade deal with Europe and more aggressive stance on Russia raise fears of oil supply shortages. As the long-awaited US-EU trade agreement last week settled on a 15% US import tariff on most EU goods, excluding steel and aluminium, which will remain at 50%.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "europe",
+        "coal",
+        "crude_oil",
+        "products",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 752,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__s02_will_trump_really_impose_secondary_tariffs_on_importers_of_russian_oil_in_just_over_a_week_s_time",
+      "doc_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__root",
+      "title": "Will Trump really impose secondary tariffs on importers of Russian oil in just over a week's time?",
+      "section_path": [
+        "Will Trump really impose secondary tariffs on importers of Russian oil in just over a week's time?"
+      ],
+      "section_path_text": "Will Trump really impose secondary tariffs on importers of Russian oil in just over a week's time?",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "On Friday, Trump brought forward his threat to slap 100% tariffs on buyers of Russian oil - notably India, China and Turkey from September 2 to August 7-9. Just today, Trump announced the US will levy 25% tariffs on imports from India from August 1.",
+      "keywords": [
+        "lpg",
+        "china",
+        "brazil",
+        "india",
+        "crude_oil",
+        "products",
+        "gas",
+        "b/d"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 469,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__s03_us_allows_chevron_to_restart_pumping_venezuelan_oil",
+      "doc_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__root",
+      "title": "US allows Chevron to restart pumping Venezuelan oil",
+      "section_path": [
+        "US allows Chevron to restart pumping Venezuelan oil"
+      ],
+      "section_path_text": "US allows Chevron to restart pumping Venezuelan oil",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The United States has reinstated Chevron's license to resume crude oil production and exports from Venezuela. On July 25, Trump reversed a two-month-old decision that had halted one of the last remaining legal crude flows out of the sanctions-hit country.",
+      "keywords": [
+        "aframax",
+        "china",
+        "brazil",
+        "us_gulf",
+        "crude_oil",
+        "chevron",
+        "crude",
+        "venezuelan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 461,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__s04_small_shandong_refiners_restart_under_new_ownership_threatening_overcapacity_and_margins",
+      "doc_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__root",
+      "title": "Small Shandong refiners restart under new ownership, threatening overcapacity and margins",
+      "section_path": [
+        "Small Shandong refiners restart under new ownership, threatening overcapacity and margins"
+      ],
+      "section_path_text": "Small Shandong refiners restart under new ownership, threatening overcapacity and margins",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "A number of bankrupt small-scale independent refiners in China's Shandong province are resuming operations under new ownership. Shandong Changyi Petrochemical, formerly operated by Sinochem, was declared bankrupt in Q3 2024 amid persistently poor refining margins and sluggish domestic demand.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "refiners",
+        "shandong",
+        "are",
+        "bankrupt",
+        "crude",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 260,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__s05_linked_asset_2025_07_31_tankers_research_update_img_241_f832c054cd90_png",
+      "doc_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__root",
+      "title": "Linked asset: 2025-07-31_tankers-research-update_img_241_f832c054cd90.png",
+      "section_path": [
+        "Linked asset: 2025-07-31_tankers-research-update_img_241_f832c054cd90.png"
+      ],
+      "section_path_text": "Linked asset: 2025-07-31_tankers-research-update_img_241_f832c054cd90.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-07-31_tankers-research-update_img_241_f832c054cd90.png\n\nLinked image asset: 2025-07-31_tankers-research-update_img_241_f832c054cd90.png\n\nImage metadata: PNG 768x590 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\nOCR text:\nUS oil exports to EU by product breakdown\nmCrude/condensates =CPP (exLPG) mDPP\n25\n2.0\nac\nre)\n6 15\n=\n1.0\n05\n0.0\n2 2 PP DD DD PP & Dm\n¢ N , , \"4 NG ¢ / / / ¢ 7 /\nee Y oS yy ee Y xo ss ee ss ee sy ee",
+      "keywords": [
+        "lpg",
+        "crude_oil",
+        "gas",
+        "asset",
+        "image",
+        "breakdown",
+        "cpp",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__s06_linked_asset_2025_07_31_tankers_research_update_img_242_47de13579c37_png",
+      "doc_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-07-31_2025_07_31_tankers_research_update__root",
+      "title": "Linked asset: 2025-07-31_tankers-research-update_img_242_47de13579c37.png",
+      "section_path": [
+        "Linked asset: 2025-07-31_tankers-research-update_img_242_47de13579c37.png"
+      ],
+      "section_path_text": "Linked asset: 2025-07-31_tankers-research-update_img_242_47de13579c37.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-07-31_tankers-research-update_img_242_47de13579c37.png\n\nLinked image asset: 2025-07-31_tankers-research-update_img_242_47de13579c37.png\n\nImage metadata: PNG 767x590 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\nOCR text:\nNersvusler eres axcorts oy clstination\n1 m Other\n10 1 B Undetermined\n3 \"tl\noO 0.8 o +\nf Pr Makaysia\n= ™ a i\n= 08 = o C] B Spain\na\no oe i qo\n0.4 = U | OInclia\n3 l\n02 B United Siaies\ngy LAETITIA PE TE A TT A China\nSPR F FS eH\nCE § 3 § © § 3B 8 &S B&B\n@276§6 €2 76 #3 >",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "axcorts",
+        "clstination",
+        "dpi",
+        "embedded",
+        "eres"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

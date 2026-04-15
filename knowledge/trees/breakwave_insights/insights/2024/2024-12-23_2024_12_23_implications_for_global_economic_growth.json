@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-12-23_2024_12_23_implications_for_global_economic_growth__root",
+  "doc_id": "breakwave_insights_insights_2024-12-23_2024_12_23_implications_for_global_economic_growth",
+  "parent_id": null,
+  "title": "Implications for global economic growth",
+  "section_path": [
+    "Implications for global economic growth"
+  ],
+  "section_path_text": "Implications for global economic growth",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nOver the past couple of weeks, global shipping and financial markets have been intently focused on central bank meetings, as policymakers from major economies revealed their strategies for future monetary policy. These decisions carry far-reaching implications for global economic growth and interest rate trajectories, with notable effects on trade and the shipping industry. Key announcements from the US Federal Reserve (Fed), Bank of England (BoE), European Central Bank (ECB), Bank of Japan (BoJ), and People's Bank of China (PBoC) showcased varying strategies to address inflationary pressures, slowing economic activity, and external uncertainties.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "japan",
+    "iron_ore",
+    "coal",
+    "grain",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1456,
+  "source_path": "reports/breakwave/2024/2024-12-23_implications-for-global-economic-growth.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/12/23/implications-for-global-economic-growth",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-12-23_2024_12_23_implications_for_global_economic_growth__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-12-23_2024_12_23_implications_for_global_economic_growth",
+      "parent_id": "breakwave_insights_insights_2024-12-23_2024_12_23_implications_for_global_economic_growth__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nOver the past couple of weeks, global shipping and financial markets have been intently focused on central bank meetings, as policymakers from major economies revealed their strategies for future monetary policy. These decisions carry far-reaching implications for global economic growth and interest rate trajectories, with notable effects on trade and the shipping industry.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1220,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-23_2024_12_23_implications_for_global_economic_growth__s02_linked_asset_2024_12_23_implications_for_global_economic_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_89a3af15719c_png",
+      "doc_id": "breakwave_insights_insights_2024-12-23_2024_12_23_implications_for_global_economic_growth",
+      "parent_id": "breakwave_insights_insights_2024-12-23_2024_12_23_implications_for_global_economic_growth__root",
+      "title": "Linked asset: 2024-12-23_implications-for-global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_89a3af15719c.png",
+      "section_path": [
+        "Linked asset: 2024-12-23_implications-for-global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_89a3af15719c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-23_implications-for-global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_89a3af15719c.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-23_implications-for-global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_89a3af15719c.png\n\nLinked image asset: 2024-12-23_implications-for-global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_89a3af15719c.png\n\nImage metadata: PNG 643x262 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nThe Federal Reserve's outlook\na es SS\n450%\n43%\n400K\n275% =\n350% =\n325%\naa ove\n275% =\n250% =\n225% Source: FED, Devic Rexeavch",
+      "keywords": [
+        "asset",
+        "image",
+        "source",
+        "devic",
+        "dpi",
+        "embedded",
+        "fed",
+        "federal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

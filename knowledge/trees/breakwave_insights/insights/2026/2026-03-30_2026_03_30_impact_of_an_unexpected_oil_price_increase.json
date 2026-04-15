@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-03-30_2026_03_30_impact_of_an_unexpected_oil_price_increase__root",
+  "doc_id": "breakwave_insights_insights_2026-03-30_2026_03_30_impact_of_an_unexpected_oil_price_increase",
+  "parent_id": null,
+  "title": "Impact of an unexpected oil price increase",
+  "section_path": [
+    "Impact of an unexpected oil price increase"
+  ],
+  "section_path_text": "Impact of an unexpected oil price increase",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nThe oil shocks of the 1970s, most notably the 1973 oil crisis and the 1979 oil crisis, underscored the pivotal role of energy within the global economic framework, at a time when oil intensity was markedly higher than it is today. Although subsequent decades have brought about structural transformation, technological advancement, and a degree of diversification in the energy mix, the fundamental importance of energy has by no means diminished. It remains an indispensable input across production chains, transportation networks, and global trade flows.",
+  "keywords": [
+    "lng",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "percent",
+    "global",
+    "energy",
+    "inflation",
+    "prices",
+    "higher"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1858,
+  "source_path": "reports/breakwave/2026/2026-03-30_impact-of-an-unexpected-oil-price-increase.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/3/29/impact-of-an-unexpected-oil-price-increase",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-03-30_2026_03_30_impact_of_an_unexpected_oil_price_increase__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-03-30_2026_03_30_impact_of_an_unexpected_oil_price_increase",
+      "parent_id": "breakwave_insights_insights_2026-03-30_2026_03_30_impact_of_an_unexpected_oil_price_increase__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nThe oil shocks of the 1970s, most notably the 1973 oil crisis and the 1979 oil crisis, underscored the pivotal role of energy within the global economic framework, at a time when oil intensity was markedly higher than it is today. Although subsequent decades have brought about structural transformation, technological advancement, and a degree of diversification in the energy mix, the fundamental importance of energy has by no means diminished.",
+      "keywords": [
+        "lng",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "gas",
+        "percent",
+        "global"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1470,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-30_2026_03_30_impact_of_an_unexpected_oil_price_increase__s02_linked_asset_2026_03_30_impact_of_an_unexpected_oil_price_increase_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9325b70f1d55_png",
+      "doc_id": "breakwave_insights_insights_2026-03-30_2026_03_30_impact_of_an_unexpected_oil_price_increase",
+      "parent_id": "breakwave_insights_insights_2026-03-30_2026_03_30_impact_of_an_unexpected_oil_price_increase__root",
+      "title": "Linked asset: 2026-03-30_impact-of-an-unexpected-oil-price-increase_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9325b70f1d55.png",
+      "section_path": [
+        "Linked asset: 2026-03-30_impact-of-an-unexpected-oil-price-increase_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9325b70f1d55.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-30_impact-of-an-unexpected-oil-price-increase_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9325b70f1d55.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-30_impact-of-an-unexpected-oil-price-increase_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9325b70f1d55.png\n\nLinked image asset: 2026-03-30_impact-of-an-unexpected-oil-price-increase_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9325b70f1d55.png\n\nImage metadata: PNG 944x373 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n% *% . % change from baseline\nReal GDP Consumer Price Level\n1.5 1.5\n1 1\n0.5 0.5\n0 0\n-0.5 i | i -0.5\n-1 -1 The scenario assumes a shock in which oil prices rise to USD 135 in 2026 Q2 and\nTTF prices to EUR 77/MWh, before gradually declining while remaining above\nbaseline levels.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "oecd",
+        "americas",
+        "asset",
+        "baseline",
+        "ear",
+        "gradually"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 332,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

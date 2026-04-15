@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__root",
+  "doc_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize",
+  "parent_id": null,
+  "title": "South Atlantic Demand Capesize",
+  "section_path": [
+    "South Atlantic Demand Capesize"
+  ],
+  "section_path_text": "South Atlantic Demand Capesize",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: Screenshot 2024-03-13 17.01.38.png | assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png\nDuring the second week of March, there's a notable surge in freight rates, particularly in the larger vessel categories, accentuated by a diminishing number of ballasters. The demand indicator reflected in the volume of South Atlantic daily loaded shipments appeared robust and exceeded the benchmark demand as indicated by the 7-day moving average. In the iron market, iron ore futures prices continued their downward trend for a second consecutive session on Monday, reaching their lowest levels in over four months.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "iron_ore",
+    "steel",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2781,
+  "source_path": "reports/breakwave/2024/2024-03-13_south-atlantic-demand-capesize.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/3/13/south-atlantic-demand-capesize",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize",
+      "parent_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: Screenshot 2024-03-13 17.01.38.png | assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png\nDuring the second week of March, there's a notable surge in freight rates, particularly in the larger vessel categories, accentuated by a diminishing number of ballasters. The demand indicator reflected in the volume of South Atlantic daily loaded shipments appeared robust and exceeded the benchmark demand as indicated by the 7-day moving average.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "atlantic",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1218,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__s02_linked_asset_2024_03_13_south_atlantic_demand_capesize_img_screenshot2024_03_13170138_1da2b878cb0f_png",
+      "doc_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize",
+      "parent_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__root",
+      "title": "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png",
+      "section_path": [
+        "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png\n\nLinked image asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170138_1da2b878cb0f.png\n\nImage metadata: PNG 634x552 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nChart of the Week: South Atlantic Demand Capesize\nSouth Atlantic daily volume loaded surpassed the demand benchmark in March as the freight\nmarket is firming\nSouth Atlantic Demand Capesize\nDaily Volume loaded 7d MA\n14M | \\ | |\nom i\" p A i I \\\n2 1.0M Y \\ asonal 14 days Ayo:: 1,06! 2\ns\n08M\n06M\nJan 2024 Mar 2024 May 2024 Jul 2024 Sep 2024 Nov 2024\nDemand Benchmark: 1,200,000 2022 -- 2023 -- 2024",
+      "keywords": [
+        "capesize",
+        "atlantic",
+        "demand",
+        "south",
+        "asset",
+        "benchmark",
+        "daily",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 266,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__s03_linked_asset_2024_03_13_south_atlantic_demand_capesize_img_screenshot2024_03_13170404_9ae6754fd28e_png",
+      "doc_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize",
+      "parent_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__root",
+      "title": "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170404_9ae6754fd28e.png",
+      "section_path": [
+        "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170404_9ae6754fd28e.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170404_9ae6754fd28e.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170404_9ae6754fd28e.png\n\nLinked image asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170404_9ae6754fd28e.png\n\nImage metadata: PNG 654x502 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 1/ FREIGHT - Market Rates ($/t) Firmer\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Market Rates, $/ton\nWeae- snore mvac conte sient misono\nWeekly Trends\nss\n7 ay ane\n3° ee\n. pe ae\n2\noe SE\nRERSSSSRSISSRSSSSSSISISSSSSRSRSS RASS RAFARSSRSRRSKE SE",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "atlantic",
+        "asset",
+        "image",
+        "ane",
+        "big",
+        "bulkers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__s04_linked_asset_2024_03_13_south_atlantic_demand_capesize_img_screenshot2024_03_13170413_b2595410018a_png",
+      "doc_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize",
+      "parent_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__root",
+      "title": "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170413_b2595410018a.png",
+      "section_path": [
+        "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170413_b2595410018a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170413_b2595410018a.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170413_b2595410018a.png\n\nLinked image asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170413_b2595410018a.png\n\nImage metadata: PNG 662x474 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Mixed\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nWi Cape SE Africa BW Pmax St Africa Mi Supra SE Asia Bi Handy NOPAC\nWeekly Trends\ngy 230\nCapeSE = & 320 Average\nAfrica & -S a, ny a th Gy A |\n> 90\n190\nP\nPmaxSE J 150 Average i\nMea 110\n70\n120\n2\n‘Supra SE % U0 average UCN OSL A SY OS NY SKA S/ | a\nfala $ 100\n90\n100\nHandy 3 0 aves\nNOPAC 2 80\n70\nSNASRSSSASRSRRELK ERRATA RSRERBSSTIPIL STIL RSRSSSELeseEese|s\nSettee Cette eee tee ee eee ee eee eee eee ett tee\nRRSSSSSISS SRS SSS SS SSS ISSSSSSSSSSRSSSSSISS SSR RRAKARKSS",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "atlantic",
+        "eee",
+        "africa",
+        "average",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 358,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__s05_linked_asset_2024_03_13_south_atlantic_demand_capesize_img_screenshot2024_03_13170422_e981b8a8832c_png",
+      "doc_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize",
+      "parent_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__root",
+      "title": "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170422_e981b8a8832c.png",
+      "section_path": [
+        "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170422_e981b8a8832c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170422_e981b8a8832c.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170422_e981b8a8832c.png\n\nLinked image asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170422_e981b8a8832c.png\n\nImage metadata: PNG 663x448 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Mixed\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\nMi Cape i Pmax supra Bi Hancy\n110%\n_\n2\n90%\n80%\nSA2RERBSRESRERRERBSERLRES SELES SSE\nSSE E3533 332323 323232525253 F25323222=2-282 28\nnnn n mmm mmm nnn nm nnn nm mmm & wR BE BAS EsFs\nSSs esses sess 8S SF SS SSSsesssSRReER ES\nSRSRRRRSERREKRKRKRKRKKRERR 8",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "atlantic",
+        "mmm",
+        "nnn",
+        "asset",
+        "demand",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 269,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__s06_linked_asset_2024_03_13_south_atlantic_demand_capesize_img_screenshot2024_03_13170431_e7c215a66bda_png",
+      "doc_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize",
+      "parent_id": "breakwave_insights_insights_2024-03-13_2024_03_13_south_atlantic_demand_capesize__root",
+      "title": "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170431_e7c215a66bda.png",
+      "section_path": [
+        "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170431_e7c215a66bda.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170431_e7c215a66bda.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170431_e7c215a66bda.png\n\nLinked image asset: 2024-03-13_south-atlantic-demand-capesize_img_screenshot2024-03-13170431_e7c215a66bda.png\n\nImage metadata: PNG 656x465 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Decreasing\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\nmvc Bi Cope Wi Post Prax Bi Pmax Bi Suprs Bi himax Bi kancysize Bsmon\nWeekly Trends\n3\n= &\n3 600\nA\n=\n\"BSRESSS SAS THOS RSS RLSSRSSSSSRSTTITTL SI PRSRESSELSS STS =",
+      "keywords": [
+        "capesize",
+        "china",
+        "atlantic",
+        "asset",
+        "chinese",
+        "image",
+        "bsmon",
+        "bsresss"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 227,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

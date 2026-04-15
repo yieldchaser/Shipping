@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__root",
+  "doc_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east",
+  "parent_id": null,
+  "title": "Port Congestion, Far East",
+  "section_path": [
+    "Port Congestion, Far East"
+  ],
+  "section_path_text": "Port Congestion, Far East",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 24, 2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions June 12, 2024\nImage reference: Στιγμιότυπο οθόνης 2024-06-13 130424.png | assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png\nIn the second week of June, there's a notable development in Capesize vessel rates on the Brazil to North China route, indicating a firmer momentum. Concurrently, the count of ballast ships has been steadily decreasing, nearing the annual average trend. However, it remains uncertain whether this firmness will persist for the rest of the month, given that the growth in demand tonne days has yet to show signs of a surprising rise.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "coal",
+    "image",
+    "asset",
+    "linked"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3180,
+  "source_path": "reports/breakwave/2024/2024-06-13_port-congestion-far-east.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/6/13/port-congestion-far-east",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east",
+      "parent_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 24, 2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions June 12, 2024\nImage reference: Στιγμιότυπο οθόνης 2024-06-13 130424.png | assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png\nIn the second week of June, there's a notable development in Capesize vessel rates on the Brazil to North China route, indicating a firmer momentum. Concurrently, the count of ballast ships has been steadily decreasing, nearing the annual average trend.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1468,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__s02_linked_asset_2024_06_13_port_congestion_far_east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab_png",
+      "doc_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east",
+      "parent_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__root",
+      "title": "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png",
+      "section_path": [
+        "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png\n\nLinked image asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d76b54dabdab.png\n\nImage metadata: PNG 655x428 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nChart of the Week: Port Congestion, Far East\nThis week's chart visualises the 14-day moving average of actual port days for energy cargo\nat Far Eastern ports, comparing the Capesize, Panamax, and Supramax segments. As shown\nin the image below, there is a notable decreasing trend in the Capesize segment, with the\nnumber of days recently dropping to one of the lowest points since early 2021.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "days",
+        "image",
+        "port",
+        "actual",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 311,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__s03_linked_asset_2024_06_13_port_congestion_far_east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c8752ffc652_png",
+      "doc_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east",
+      "parent_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__root",
+      "title": "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c8752ffc652.png",
+      "section_path": [
+        "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c8752ffc652.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c8752ffc652.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c8752ffc652.png\n\nLinked image asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5c8752ffc652.png\n\nImage metadata: PNG 652x573 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSECTION 1/ FREIGHT - Freight Rates ($/t) Firmer\n‘The Big Picture' - Capesize, Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nWi Cape - Brazil NChina Mi Pmax-Cont FE WB Supra- Inco EC! WB Handy NOPAC FE\nWeekly Trends\n4s\n40\n35\ne 30\nB\na\n§ 25\n20\n1s\na\nSREHBSSSRRSRBSRASSLLSILLSLLR SA SLSSESSSSSANASHSSSARANKE\nSSSSSSSSSSSSSSSSSSSSSSSSSSSsseeeeeceee es seSSSEESEEEE535\nBERNA ROS COLES ORORRLO LO RRS ONO eee ee eee ee ee eee eee eeeeee\nSSSSISSS IIS ISIS AI SS IIIS ISPs GSS KRaKeeagI ss SSSSSSSSSsss\nSB oT NUNN KRKRRRRKRARH",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "eee",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 363,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__s04_linked_asset_2024_06_13_port_congestion_far_east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_297326bf6b9e_png",
+      "doc_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east",
+      "parent_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__root",
+      "title": "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_297326bf6b9e.png",
+      "section_path": [
+        "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_297326bf6b9e.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_297326bf6b9e.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_297326bf6b9e.png\n\nLinked image asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_297326bf6b9e.png\n\nImage metadata: PNG 662x475 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Decreasing\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nWi Cape SE Africa Wi Pmax SE Africa Supra SE Asia Bi Handy NOPAC\nWeekly Trends\n230\nCape SE 4 Wwerage\nAfrica ie ° |\n> 90\n190\nPmax SE g 250 -\nMrice 2 110\n70\ny 220\nSupra SE 210 phon\nhee 3 x00\n90\ny 99\nwoo so ANE\n>\n70\nREQKRRRAGARSRRERRLIILSLLSSIRAASLSSESSSSSssAsusaeagaaas\nad eee ee\nRRSRSSRRS RRS SSR SRKRSKSSRAKTS SSSR AARARSH RRR RARS RSS",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "africa",
+        "asset",
+        "ballasters",
+        "cape",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 321,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__s05_linked_asset_2024_06_13_port_congestion_far_east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf07851fb199_png",
+      "doc_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east",
+      "parent_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__root",
+      "title": "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf07851fb199.png",
+      "section_path": [
+        "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf07851fb199.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf07851fb199.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf07851fb199.png\n\nLinked image asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bf07851fb199.png\n\nImage metadata: PNG 662x442 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Mixed\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\nMi Cape Bi Pmex supra Bi Handy\n110%\n2 100%\n:\n90%\n80%\nsk<e<sesR BSRBSeRseeeeegegsesReasxseeegegrs\n22222222 22532522228588 3822222222828\nSRkSRSRSRRRARRRRRERERESESESEREEREEESBES\nSRRkKRRRAERRRRKKCKCRKX FFF KKKKRKRRARR",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "asset",
+        "demand",
+        "image",
+        "bsrbserseeeeegegsesreasxseeegegrs",
+        "cape"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__s06_linked_asset_2024_06_13_port_congestion_far_east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d25fde790a4b_png",
+      "doc_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east",
+      "parent_id": "breakwave_insights_insights_2024-06-13_2024_06_13_port_congestion_far_east__root",
+      "title": "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d25fde790a4b.png",
+      "section_path": [
+        "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d25fde790a4b.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d25fde790a4b.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d25fde790a4b.png\n\nLinked image asset: 2024-06-13_port-congestion-far-east_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d25fde790a4b.png\n\nImage metadata: PNG 666x490 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Increasing\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\nByoc Wi Cape Wi Post Pax Bi Pmax Bsupre Bmax BW Hancysize Bsman\nWeekly Trends\n1200 Aversge;\n= 800\n$\n% soc\n2",
+      "keywords": [
+        "capesize",
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "aversge",
+        "bmax",
+        "bsman"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 212,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__root",
+  "doc_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand",
+  "parent_id": null,
+  "title": "How will Brazil's corn trades affect Panamax and geared bulker demand?",
+  "section_path": [
+    "How will Brazil's corn trades affect Panamax and geared bulker demand?"
+  ],
+  "section_path_text": "How will Brazil's corn trades affect Panamax and geared bulker demand?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBrazil's combined corn, soybean and bulk sugar trades in August were close to 20m tonnes, official data show, as the peak corn export season arrived (see light green series on the chart, right). Although corn exports from Brazil are set to fall below the 2023/24 all-time high this year due to (1) a \"notable drop\" in Chinese demand and (2) higher usage in domestic ethanol production, the International Grains Council (IGC) projected a 2m tonne yearly gain last week, involving a wide range of markets. What could this mean for Panamax and geared bulkers demand, respectively?",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "pacific",
+    "japan",
+    "grain",
+    "corn",
+    "asset",
+    "image",
+    "tonnes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2163,
+  "source_path": "reports/breakwave/2025/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/9/25/how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand",
+      "parent_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Brazil's combined corn, soybean and bulk sugar trades in August were close to 20m tonnes, official data show, as the peak corn export season arrived (see light green series on the chart, right). Although corn exports from Brazil are set to fall below the 2023/24 all-time high this year due to (1) a \"notable drop\" in Chinese demand and (2) higher usage in domestic ethanol production, the International Grains Council (IGC) projected a 2m tonne yearly gain last week, involving a wide range of markets.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "pacific",
+        "japan",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1027,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__s02_linked_asset_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand_img_a368_image_0_1758624425199_6ae6c5418ca7_png",
+      "doc_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand",
+      "parent_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__root",
+      "title": "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_a368-image-0-1758624425199_6ae6c5418ca7.png",
+      "section_path": [
+        "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_a368-image-0-1758624425199_6ae6c5418ca7.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_a368-image-0-1758624425199_6ae6c5418ca7.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_a368-image-0-1758624425199_6ae6c5418ca7.png\n\nLinked image asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_a368-image-0-1758624425199_6ae6c5418ca7.png\n\nImage metadata: PNG 502x505 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n(B) Brazil's corn trades by vessel size\nmPanamax mSupra/Ultramax mHandysize\nJKT = Japan, S.Korea, Taiwan\n100%\n90%\n80%\n70%\n60%\n50%\n40%\n30%\n20%\n10%\n0%\nChina JKT Viet. Iran NAfrica EU Others\nSource: AXSMarine",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "japan",
+        "grain",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 227,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__s03_linked_asset_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand_img_1911_image_1_1758624437686_7d20cd3483e7_png",
+      "doc_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand",
+      "parent_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__root",
+      "title": "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_1911-image-1-1758624437686_7d20cd3483e7.png",
+      "section_path": [
+        "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_1911-image-1-1758624437686_7d20cd3483e7.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_1911-image-1-1758624437686_7d20cd3483e7.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_1911-image-1-1758624437686_7d20cd3483e7.png\n\nLinked image asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_1911-image-1-1758624437686_7d20cd3483e7.png\n\nImage metadata: PNG 493x500 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nBrazil's corn, soybean and sugar\nexports\nm tonnes\nmSoybeans mCorn = Sugar\n24\n18\n12\n. \\ i | |\n0 |\nDec-21 Jun-22Dec-22Jun-23Dec-23Jun-24Dec-24 Jun-25\nSource: MDIC",
+      "keywords": [
+        "panamax",
+        "brazil",
+        "grain",
+        "asset",
+        "image",
+        "source",
+        "sugar",
+        "corn"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 222,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__s04_linked_asset_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand_img_2e2f_image_2_1758624461128_813c9175d481_png",
+      "doc_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand",
+      "parent_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__root",
+      "title": "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_2e2f-image-2-1758624461128_813c9175d481.png",
+      "section_path": [
+        "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_2e2f-image-2-1758624461128_813c9175d481.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_2e2f-image-2-1758624461128_813c9175d481.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_2e2f-image-2-1758624461128_813c9175d481.png\n\nLinked image asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_2e2f-image-2-1758624461128_813c9175d481.png\n\nImage metadata: PNG 500x503 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nBrazil's corn exports by destination\n(March-Feb)\nm tonnes\n2023/24 ™ 2024/25\n18\n16\n14 JKT = Japan, S.Korea, Taiwan\n12\n40\n8\n6\n4\n: i\n°O\nChina JKT N Africa EU Iran VietnamOthers\nSource: IGC",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "japan",
+        "grain",
+        "asset",
+        "image",
+        "jkt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 229,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__s05_linked_asset_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand_img_ac72_image_3_1758624477918_ae12ebeebce5_png",
+      "doc_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand",
+      "parent_id": "breakwave_insights_insights_2025-09-25_2025_09_25_how_will_brazils_corn_trades_affect_panamax_and_geared_bulker_demand__root",
+      "title": "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_ac72-image-3-1758624477918_ae12ebeebce5.png",
+      "section_path": [
+        "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_ac72-image-3-1758624477918_ae12ebeebce5.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_ac72-image-3-1758624477918_ae12ebeebce5.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_ac72-image-3-1758624477918_ae12ebeebce5.png\n\nLinked image asset: 2025-09-25_how-will-brazils-corn-trades-affect-panamax-and-geared-bulker-demand_img_ac72-image-3-1758624477918_ae12ebeebce5.png\n\nImage metadata: PNG 498x506 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nBrazil's corn exports by destination\nm tonnes\n™Mar-Aug 2024 miMar-Aug 2025\n40\nJKT = Japan, S.Korea, Taiwan\n35\n3.0\n25\n20\n15\n1.0\n05\noo Mim\nChina JKT NAfrica EU Iran VietnamOthers\nSource: IGC",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "japan",
+        "grain",
+        "asset",
+        "image",
+        "jkt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 224,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-10-09_2024_10_09_eadwinds_for_most_commodities__root",
+  "doc_id": "breakwave_insights_insights_2024-10-09_2024_10_09_eadwinds_for_most_commodities",
+  "parent_id": null,
+  "title": "Ηeadwinds for most commodities",
+  "section_path": [
+    "Ηeadwinds for most commodities"
+  ],
+  "section_path_text": "Ηeadwinds for most commodities",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic Dry Index declined for a seventh consecutive session on Tuesday, but unlike recent days, only the capesizes contributed to the loss. A briefing by the Chinese economic planning agency, which many traders perceived as underwhelming, contributed to significant headwinds for most commodities on Tuesday. Iron ore, which has gained considerable ground in recent weeks, declined by more than five per cent.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1790,
+  "source_path": "reports/breakwave/2024/2024-10-09_eadwinds-for-most-commodities.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/10/9/eadwinds-for-most-commodities",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-10-09_2024_10_09_eadwinds_for_most_commodities__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-10-09_2024_10_09_eadwinds_for_most_commodities",
+      "parent_id": "breakwave_insights_insights_2024-10-09_2024_10_09_eadwinds_for_most_commodities__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic Dry Index declined for a seventh consecutive session on Tuesday, but unlike recent days, only the capesizes contributed to the loss. A briefing by the Chinese economic planning agency, which many traders perceived as underwhelming, contributed to significant headwinds for most commodities on Tuesday.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1419,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-09_2024_10_09_eadwinds_for_most_commodities__s02_linked_asset_2024_10_09_eadwinds_for_most_commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf_png",
+      "doc_id": "breakwave_insights_insights_2024-10-09_2024_10_09_eadwinds_for_most_commodities",
+      "parent_id": "breakwave_insights_insights_2024-10-09_2024_10_09_eadwinds_for_most_commodities__root",
+      "title": "Linked asset: 2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png",
+      "section_path": [
+        "Linked asset: 2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png\n\nLinked image asset: 2024-10-09_eadwinds-for-most-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cf0225de55bf.png\n\nImage metadata: PNG 665x394 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) and Vessel Supply for Panamaxes by Basin\nSupply - Indian Ocean (RHS) = Supply - Pacific (RHS) = Supply - Atlantic (RHS) @ Indian Ocean M@ Pacific M@ Atlantic\n0) 400\n3 | 300\nihe lily is i ! zo ath Wal A | | WN Ald oll Ath me |\nSoA UT TL MAMIE!",
+      "keywords": [
+        "panamax",
+        "atlantic",
+        "pacific",
+        "india",
+        "supply",
+        "ooh",
+        "rhs",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 320,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-07-18_2024_07_18_mixed_session_for_commodities__root",
+  "doc_id": "breakwave_insights_insights_2024-07-18_2024_07_18_mixed_session_for_commodities",
+  "parent_id": null,
+  "title": "Mixed session for Commodities",
+  "section_path": [
+    "Mixed session for Commodities"
+  ],
+  "section_path_text": "Mixed session for Commodities",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nHeadwinds for the capesizes weighed on the Baltic Dry Index the day before yesterday, which remained in the red for a second session amid a loss of more than two per cent. The commodities had a mixed session on Tuesday, with concerns over the Chinese demand outlook negatively affecting crude oil, iron ore and base metals. By Ulf Bergman\nMacro/Geopolitics\nWednesday's release of retail sales data for the US during the past month added further evidence that the world's largest economy is slowing down amid high interest rates.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "atlantic",
+    "europe",
+    "india",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1699,
+  "source_path": "reports/breakwave/2024/2024-07-18_mixed-session-for-commodities.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/7/18/mixed-session-for-commodities",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-07-18_2024_07_18_mixed_session_for_commodities__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-07-18_2024_07_18_mixed_session_for_commodities",
+      "parent_id": "breakwave_insights_insights_2024-07-18_2024_07_18_mixed_session_for_commodities__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Headwinds for the capesizes weighed on the Baltic Dry Index the day before yesterday, which remained in the red for a second session amid a loss of more than two per cent. The commodities had a mixed session on Tuesday, with concerns over the Chinese demand outlook negatively affecting crude oil, iron ore and base metals.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1399,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-18_2024_07_18_mixed_session_for_commodities__s02_linked_asset_2024_07_18_mixed_session_for_commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a_png",
+      "doc_id": "breakwave_insights_insights_2024-07-18_2024_07_18_mixed_session_for_commodities",
+      "parent_id": "breakwave_insights_insights_2024-07-18_2024_07_18_mixed_session_for_commodities__root",
+      "title": "Linked asset: 2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png",
+      "section_path": [
+        "Linked asset: 2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png\n\nLinked image asset: 2024-07-18_mixed-session-for-commodities_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7188f099376a.png\n\nImage metadata: PNG 664x387 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Rice by Origin\n® Rest of the world @ Pakistan @ ECSA © China @ Thailand @& India\n25\n2\n18\nH\n5\n5 1\n=\nSUNITA et AA\nDP SP oP oP oP oP oP oP BP SP oP oP AP SP oP SP ot oS oth cet 0h nc2h nc ch noch\n8 PGC ee GSR I IS eS a gE\nData source: Shipfix",
+      "keywords": [
+        "china",
+        "india",
+        "asset",
+        "image",
+        "source",
+        "cargo",
+        "cet",
+        "data"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

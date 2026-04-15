@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-11-28_2025_11_28_the_big_picture_peace_in_ukraine_good_or_bad_for_tanker_freight__root",
+  "doc_id": "breakwave_insights_insights_2025-11-28_2025_11_28_the_big_picture_peace_in_ukraine_good_or_bad_for_tanker_freight",
+  "parent_id": null,
+  "title": "The Big Picture: Peace in Ukraine Good or bad for tanker freight?",
+  "section_path": [
+    "The Big Picture: Peace in Ukraine Good or bad for tanker freight?"
+  ],
+  "section_path_text": "The Big Picture: Peace in Ukraine Good or bad for tanker freight?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFocus has returned in recent days to the possibility of an end to the war between Russia and Ukraine, and what this could mean for tankers. The detail of the latest iteration of the US-led peace initiative is likely to prove difficult for Russian to swallow. We should find out next week when Trump's envoy Steve Witkoff visits Moscow.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "grain",
+    "crude_oil",
+    "products",
+    "would"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1613,
+  "source_path": "reports/breakwave/2025/2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/11/28/the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-11-28_2025_11_28_the_big_picture_peace_in_ukraine_good_or_bad_for_tanker_freight__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-11-28_2025_11_28_the_big_picture_peace_in_ukraine_good_or_bad_for_tanker_freight",
+      "parent_id": "breakwave_insights_insights_2025-11-28_2025_11_28_the_big_picture_peace_in_ukraine_good_or_bad_for_tanker_freight__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Focus has returned in recent days to the possibility of an end to the war between Russia and Ukraine, and what this could mean for tankers. The detail of the latest iteration of the US-led peace initiative is likely to prove difficult for Russian to swallow.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1407,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-11-28_2025_11_28_the_big_picture_peace_in_ukraine_good_or_bad_for_tanker_freight__s02_linked_asset_2025_11_28_the_big_picture_peace_in_ukraine_good_or_bad_for_tanker_freight_img_a33a_image_0_1764253553887_867a740bd6d2_png",
+      "doc_id": "breakwave_insights_insights_2025-11-28_2025_11_28_the_big_picture_peace_in_ukraine_good_or_bad_for_tanker_freight",
+      "parent_id": "breakwave_insights_insights_2025-11-28_2025_11_28_the_big_picture_peace_in_ukraine_good_or_bad_for_tanker_freight__root",
+      "title": "Linked asset: 2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png",
+      "section_path": [
+        "Linked asset: 2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png"
+      ],
+      "section_path_text": "Linked asset: 2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png\n\nLinked image asset: 2025-11-28_the-big-picture-peace-in-ukraine-good-or-bad-for-tanker-freight_img_a33a-image-0-1764253553887_867a740bd6d2.png\n\nImage metadata: PNG 838x846 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\n[No OCR text detected in linked image.]",
+      "keywords": [
+        "asset",
+        "image",
+        "linked",
+        "detected",
+        "dpi",
+        "embedded",
+        "image.",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

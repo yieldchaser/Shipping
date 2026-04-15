@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-06-04_2024_06_04_mixed_fortunes_for_the_dry_bulk_vessel_segment__root",
+  "doc_id": "breakwave_insights_insights_2024-06-04_2024_06_04_mixed_fortunes_for_the_dry_bulk_vessel_segment",
+  "parent_id": null,
+  "title": "Mixed fortunes for the dry bulk vessel segment",
+  "section_path": [
+    "Mixed fortunes for the dry bulk vessel segment"
+  ],
+  "section_path_text": "Mixed fortunes for the dry bulk vessel segment",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe past week saw mixed fortunes for the dry bulk vessel segment. The Baltic Dry Index advanced by one per cent as the mid-sized segments offset much of the positive performances delivered by the largest and smallest vessels. Red dominated the commodity trading screens, with coal futures among the minority that moved higher over the week.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "europe",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2025,
+  "source_path": "reports/breakwave/2024/2024-06-04_mixed-fortunes-for-the-dry-bulk-vessel-segment.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/6/4/mixed-fortunes-for-the-dry-bulk-vessel-segment",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-06-04_2024_06_04_mixed_fortunes_for_the_dry_bulk_vessel_segment__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-06-04_2024_06_04_mixed_fortunes_for_the_dry_bulk_vessel_segment",
+      "parent_id": "breakwave_insights_insights_2024-06-04_2024_06_04_mixed_fortunes_for_the_dry_bulk_vessel_segment__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The past week saw mixed fortunes for the dry bulk vessel segment. The Baltic Dry Index advanced by one per cent as the mid-sized segments offset much of the positive performances delivered by the largest and smallest vessels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1705,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-04_2024_06_04_mixed_fortunes_for_the_dry_bulk_vessel_segment__s02_linked_asset_2024_06_04_mixed_fortunes_for_the_dry_bulk_vessel_segment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64d77af89f91_png",
+      "doc_id": "breakwave_insights_insights_2024-06-04_2024_06_04_mixed_fortunes_for_the_dry_bulk_vessel_segment",
+      "parent_id": "breakwave_insights_insights_2024-06-04_2024_06_04_mixed_fortunes_for_the_dry_bulk_vessel_segment__root",
+      "title": "Linked asset: 2024-06-04_mixed-fortunes-for-the-dry-bulk-vessel-segment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64d77af89f91.png",
+      "section_path": [
+        "Linked asset: 2024-06-04_mixed-fortunes-for-the-dry-bulk-vessel-segment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64d77af89f91.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-04_mixed-fortunes-for-the-dry-bulk-vessel-segment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64d77af89f91.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-04_mixed-fortunes-for-the-dry-bulk-vessel-segment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64d77af89f91.png\n\nLinked image asset: 2024-06-04_mixed-fortunes-for-the-dry-bulk-vessel-segment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64d77af89f91.png\n\nImage metadata: PNG 667x388 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Ags Loading ECSA by Segment\n© Handysizefmax @ Supra/Ultramax ®@ Panamax\n15\n. | | |\nBlatt || ity (Ml ill\nM | CH |\nPs?",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "asset",
+        "image",
+        "source",
+        "ach",
+        "ags"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 261,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

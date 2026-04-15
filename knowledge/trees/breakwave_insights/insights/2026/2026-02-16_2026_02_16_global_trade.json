@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-02-16_2026_02_16_global_trade__root",
+  "doc_id": "breakwave_insights_insights_2026-02-16_2026_02_16_global_trade",
+  "parent_id": null,
+  "title": "Global trade",
+  "section_path": [
+    "Global trade"
+  ],
+  "section_path_text": "Global trade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nIn the second week of February last year, Doric's Weekly Insight focused on the abrupt escalation in global trade tensions following the announcement by U.S. President of a sweeping 25 percent tariff on steel and aluminium imports, targeting approximately 50 billion dollars of trade. The measure was set to affect a broad range of suppliers, with Canada, Brazil and Mexico accounting for nearly half of U.S.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "india",
+    "japan",
+    "steel",
+    "percent",
+    "demand",
+    "tonnes",
+    "u.s.",
+    "million",
+    "trade"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1635,
+  "source_path": "reports/breakwave/2026/2026-02-16_global-trade.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/2/16/global-trade",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-02-16_2026_02_16_global_trade__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-02-16_2026_02_16_global_trade",
+      "parent_id": "breakwave_insights_insights_2026-02-16_2026_02_16_global_trade__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nIn the second week of February last year, Doric's Weekly Insight focused on the abrupt escalation in global trade tensions following the announcement by U.S. President of a sweeping 25 percent tariff on steel and aluminium imports, targeting approximately 50 billion dollars of trade.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "india",
+        "japan",
+        "steel",
+        "percent",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1404,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-02-16_2026_02_16_global_trade__s02_linked_asset_2026_02_16_global_trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7_png",
+      "doc_id": "breakwave_insights_insights_2026-02-16_2026_02_16_global_trade",
+      "parent_id": "breakwave_insights_insights_2026-02-16_2026_02_16_global_trade__root",
+      "title": "Linked asset: 2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png",
+      "section_path": [
+        "Linked asset: 2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png"
+      ],
+      "section_path_text": "Linked asset: 2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png\n\nLinked image asset: 2026-02-16_global-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee2a8f3bb2c7.png\n\nImage metadata: PNG 924x301 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\non China - Steel Production\n100 Million Tonnes\n80\n60\n40\n20\n0\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\nSource: WorldSteel, Doric Research 2024 m 2025",
+      "keywords": [
+        "china",
+        "steel",
+        "asset",
+        "image",
+        "source",
+        "apr",
+        "aug",
+        "dec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

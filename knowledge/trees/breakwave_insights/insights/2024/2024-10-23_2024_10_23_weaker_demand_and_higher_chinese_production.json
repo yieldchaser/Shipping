@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-10-23_2024_10_23_weaker_demand_and_higher_chinese_production__root",
+  "doc_id": "breakwave_insights_insights_2024-10-23_2024_10_23_weaker_demand_and_higher_chinese_production",
+  "parent_id": null,
+  "title": "Weaker demand and higher Chinese production",
+  "section_path": [
+    "Weaker demand and higher Chinese production"
+  ],
+  "section_path_text": "Weaker demand and higher Chinese production",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic Dry Index retreated for a sixth consecutive session on Tuesday, with the capesizes primarily responsible for the headline indicator's 4.3 per cent decline amid low cargo order volumes. Among the commodities, there were mostly gains during yesterday's trading, but iron ore and Newcastle coal were notable exceptions. By Ulf Bergman\nMacro/Geopolitics\nYesterday, the International Monetary Fund released its updated growth projections for this and next year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1747,
+  "source_path": "reports/breakwave/2024/2024-10-23_weaker-demand-and-higher-chinese-production.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/10/23/weaker-demand-and-higher-chinese-production",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-10-23_2024_10_23_weaker_demand_and_higher_chinese_production__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-10-23_2024_10_23_weaker_demand_and_higher_chinese_production",
+      "parent_id": "breakwave_insights_insights_2024-10-23_2024_10_23_weaker_demand_and_higher_chinese_production__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic Dry Index retreated for a sixth consecutive session on Tuesday, with the capesizes primarily responsible for the headline indicator's 4.3 per cent decline amid low cargo order volumes. Among the commodities, there were mostly gains during yesterday's trading, but iron ore and Newcastle coal were notable exceptions.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "australia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1476,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-23_2024_10_23_weaker_demand_and_higher_chinese_production__s02_linked_asset_2024_10_23_weaker_demand_and_higher_chinese_production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f_png",
+      "doc_id": "breakwave_insights_insights_2024-10-23_2024_10_23_weaker_demand_and_higher_chinese_production",
+      "parent_id": "breakwave_insights_insights_2024-10-23_2024_10_23_weaker_demand_and_higher_chinese_production__root",
+      "title": "Linked asset: 2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png",
+      "section_path": [
+        "Linked asset: 2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png\n\nLinked image asset: 2024-10-23_weaker-demand-and-higher-chinese-production_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2e9a9020bb1f.png\n\nImage metadata: PNG 654x375 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Coal Discharging in India\n20\n15\nE 10\n5\n° rey eo Of? ll Mi\nPO ash PO ose ‘tig cst wh act!",
+      "keywords": [
+        "china",
+        "india",
+        "coal",
+        "asset",
+        "image",
+        "source",
+        "act",
+        "aot"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-12-01_2025_12_01_growth_across_asia__root",
+  "doc_id": "breakwave_insights_insights_2025-12-01_2025_12_01_growth_across_asia",
+  "parent_id": null,
+  "title": "Growth across Asia",
+  "section_path": [
+    "Growth across Asia"
+  ],
+  "section_path_text": "Growth across Asia",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nA year ago, the IMF projected that growth across Asia would begin to cool through 2024 and 2025 as the momentum from the postpandemic rebound gradually faded and longer-term structural challenges - most notably demographic aging - started to exert greater influence on regional economic performance. Even so, the Fund's outlook at the time had turned marginally more positive versus the April update, with the 2024 GDP forecast nudged higher to 4.6 percent, an increase of 0.1 percentage point. For advanced Asian economies, growth was expected to ease from 2.0 percent in 2023 to 1.6 percent in 2024, before edging back to 1.9 percent in 2025.",
+  "keywords": [
+    "capesize",
+    "china",
+    "pacific",
+    "india",
+    "steel",
+    "percent",
+    "growth",
+    "expected",
+    "global",
+    "trade",
+    "year",
+    "gdp"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1655,
+  "source_path": "reports/breakwave/2025/2025-12-01_growth-across-asia.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/12/1/growth-across-asia",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-12-01_2025_12_01_growth_across_asia__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-12-01_2025_12_01_growth_across_asia",
+      "parent_id": "breakwave_insights_insights_2025-12-01_2025_12_01_growth_across_asia__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nA year ago, the IMF projected that growth across Asia would begin to cool through 2024 and 2025 as the momentum from the postpandemic rebound gradually faded and longer-term structural challenges - most notably demographic aging - started to exert greater influence on regional economic performance. Even so, the Fund's outlook at the time had turned marginally more positive versus the April update, with the 2024 GDP forecast nudged higher to 4.6 percent, an increase of 0.1 percentage point.",
+      "keywords": [
+        "capesize",
+        "china",
+        "pacific",
+        "india",
+        "steel",
+        "percent",
+        "growth",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1411,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-01_2025_12_01_growth_across_asia__s02_linked_asset_2025_12_01_growth_across_asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e_png",
+      "doc_id": "breakwave_insights_insights_2025-12-01_2025_12_01_growth_across_asia",
+      "parent_id": "breakwave_insights_insights_2025-12-01_2025_12_01_growth_across_asia__root",
+      "title": "Linked asset: 2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png",
+      "section_path": [
+        "Linked asset: 2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png\n\nLinked image asset: 2025-12-01_growth-across-asia_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_65907a847f1e.png\n\nImage metadata: PNG 892x249 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\ni - er a India Real GDP Annual Growth Rate\n‘0 | India Real GDP Annual Growth Rate |\n10%\n5%\n0%\n-5%\n-10% Source: IMF, Doric Research\n2000 2005 2010 2015 2020 2025 2030f",
+      "keywords": [
+        "india",
+        "annual",
+        "asset",
+        "gdp",
+        "growth",
+        "image",
+        "real",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

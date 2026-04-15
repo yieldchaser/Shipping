@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet__root",
+  "doc_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Tanker Report - May 7, 2024",
+  "section_path": [
+    "Breakwave Bi-Weekly Tanker Report - May 7, 2024"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Tanker Report - May 7, 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2024-05-07_202457wet_img_tankerreporttop_518a95c9909f.png\n· Early May Sees Strong VLCC Market Activity Despite Chinese Labor Day Holiday - In the early days of May, the VLCC freight market showed significant progress in terms of activity despite the occurrence of the Chinese Labor Day holiday from May 1st to May 5th. Although there was only a marginal weekly uptick of about 7% in spot VLCC rates, the market is still well below the peak observed in mid-February and more gains are anticipated soon. Owners maintain a cautiously optimistic outlook, foreseeing the possibility of even stronger gains if increased vessel activity continues, especially amidst positive indications for Asian crude oil demand.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "crude",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1726,
+  "source_path": "reports/breakwave/2024/2024-05-07_202457wet.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/202457wet",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet",
+      "parent_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2024-05-07_202457wet_img_tankerreporttop_518a95c9909f.png\n· Early May Sees Strong VLCC Market Activity Despite Chinese Labor Day Holiday - In the early days of May, the VLCC freight market showed significant progress in terms of activity despite the occurrence of the Chinese Labor Day holiday from May 1st to May 5th. Although there was only a marginal weekly uptick of about 7% in spot VLCC rates, the market is still well below the peak observed in mid-February and more gains are anticipated soon.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "pacific",
+        "us_gulf",
+        "crude_oil",
+        "oil",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 730,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet__s02_linked_asset_2024_05_07_202457wet_img_tankerreporttop_518a95c9909f_png",
+      "doc_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet",
+      "parent_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet__root",
+      "title": "Linked asset: 2024-05-07_202457wet_img_tankerreporttop_518a95c9909f.png",
+      "section_path": [
+        "Linked asset: 2024-05-07_202457wet_img_tankerreporttop_518a95c9909f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-07_202457wet_img_tankerreporttop_518a95c9909f.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-07_202457wet_img_tankerreporttop_518a95c9909f.png\n\nLinked image asset: 2024-05-07_202457wet_img_tankerreporttop_518a95c9909f.png\n\nImage metadata: PNG 1517x386 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nTanker Shipping\nBreakwave Tanker Futures Index: 1,303 VLCC Middle East-Asia Spot Rates: $16.24 Short-term Indicators:\nY 30D: -2.6% 4 30D: 2.4% Momentum: Positive\n* = ‘YTD: 7.3% 4 \"YTD: 22.7% Sentiment:\n+ YOY: 42.9% + YOY: 45.5% Fundamentals: Positive",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "positive",
+        "yoy",
+        "ytd",
+        "dpi",
+        "east-asia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet__s03_linked_asset_2024_05_07_202457wet_img_tankerreportchart_2e13530accf6_png",
+      "doc_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet",
+      "parent_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet__root",
+      "title": "Linked asset: 2024-05-07_202457wet_img_tankerreportchart_2e13530accf6.png",
+      "section_path": [
+        "Linked asset: 2024-05-07_202457wet_img_tankerreportchart_2e13530accf6.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-07_202457wet_img_tankerreportchart_2e13530accf6.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-07_202457wet_img_tankerreportchart_2e13530accf6.png\n\nLinked image asset: 2024-05-07_202457wet_img_tankerreportchart_2e13530accf6.png\n\nImage metadata: PNG 1516x990 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nJ© BREAKWAVE\nBi-weekly Tanker Shipping ADVISORS\nVLCC Spot Index (TD3C) vs Breakwave Tanker Futures Index (BWETFF\n2,500 25.00\n2,000 20.00\n1,500 15.00\n1,000 10.00\n500 5.00\n--- BWETFF (futures) == TD3C, $/t\nMay-23 Jun-23 Jul-23. Aug-23 Sep-23 Oct-23 Nov-23 Dec-23 Jan-24 Feb-24 Mar-24 Apr-24 _",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "bwetff",
+        "image",
+        "td3c",
+        "apr-24",
+        "aug-23",
+        "bi-weekly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 232,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet__s04_linked_asset_2024_05_07_202457wet_img_tankerreportbottom_f94ecb3901aa_png",
+      "doc_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet",
+      "parent_id": "breakwave_insights_insights_2024-05-07_2024_05_07_202457wet__root",
+      "title": "Linked asset: 2024-05-07_202457wet_img_tankerreportbottom_f94ecb3901aa.png",
+      "section_path": [
+        "Linked asset: 2024-05-07_202457wet_img_tankerreportbottom_f94ecb3901aa.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-07_202457wet_img_tankerreportbottom_f94ecb3901aa.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-07_202457wet_img_tankerreportbottom_f94ecb3901aa.png\n\nLinked image asset: 2024-05-07_202457wet_img_tankerreportbottom_f94ecb3901aa.png\n\nImage metadata: PNG 1509x1011 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nTanker Fundamentals\nDemand YTD YOY\nWorld Oil Demand 104,390 kbpd\nOil Supply, OPEC 26,810 kbpd\nOil Supply, non-OPEC 68,630 kbpd\nOECD Total Crude Oil Stocks 1066.7 MMbls\nUS Crude Oil Exports 8.7 MMbls 15.9%\nChina Oil Imports 137.4 MMbls\nGlobal Crude Oil Floating Storage 57.8 MMbls -31.1%\nSupply\nTanker Fleet 691.5 mdwt\nFreight Rates\nVLCC Middle East-Asia, USD/ton 14.07 -11.9%\nSuezmax West Africa-Europe, USD/ton 19.44 -15.4%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: Contact:\nThis research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the Breakwave Advisors LLC\nrecipient's internal use only. This report does not constitute and will not form part of and should not be construed as a 17 State Stree",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil",
+        "mmbls"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 463,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

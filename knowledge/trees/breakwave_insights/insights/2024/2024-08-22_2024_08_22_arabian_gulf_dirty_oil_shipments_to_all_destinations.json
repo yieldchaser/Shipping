@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__root",
+  "doc_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations",
+  "parent_id": null,
+  "title": "Arabian Gulf dirty oil shipments to all destinations",
+  "section_path": [
+    "Arabian Gulf dirty oil shipments to all destinations"
+  ],
+  "section_path_text": "Arabian Gulf dirty oil shipments to all destinations",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 34, August 22, 2024\nChart of the Week: Arabian Gulf dirty oil shipments to all destinations\nThis week's special focus is on the dirty oil flows from Arabian Gulf origin countries to all destinations, particularly in light of the ongoing Middle East tensions. Below, we examine the evolution of these flows between 2023 and 2024, comparing the monthly volumes. In the first quarter of this year, the flow of shipments from the Arabian Gulf followed a similar pattern to that of the previous year.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "asset",
+    "image",
+    "oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2957,
+  "source_path": "reports/breakwave/2024/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/8/22/arabian-gulf-dirty-oil-shipments-to-all-destinations",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations",
+      "parent_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Snapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 34, August 22, 2024\nChart of the Week: Arabian Gulf dirty oil shipments to all destinations\nThis week's special focus is on the dirty oil flows from Arabian Gulf origin countries to all destinations, particularly in light of the ongoing Middle East tensions. Below, we examine the evolution of these flows between 2023 and 2024, comparing the monthly volumes.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1560,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__s02_linked_asset_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations_img_screenshot2024_08_22170034_56e7e4f840b1_png",
+      "doc_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations",
+      "parent_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__root",
+      "title": "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png",
+      "section_path": [
+        "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png\n\nLinked image asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170034_56e7e4f840b1.png\n\nImage metadata: PNG 657x431 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nTotal Volume (Mt), per Vessel Class\nVLCC - Suezmax - Aframax\n. 450,40\n=~ 400.40\n2 $50.00\n& 300.00\n> vou 250.60\n$ 200.00\n3 150.00\n100.0\n$0.00\nono = _\nmo vice Suermax Arama\n.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "asset",
+        "class",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 339,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__s03_linked_asset_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations_img_screenshot2024_08_22170052_ae986a815dbc_png",
+      "doc_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations",
+      "parent_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__root",
+      "title": "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png",
+      "section_path": [
+        "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png\n\nLinked image asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170052_ae986a815dbc.png\n\nImage metadata: PNG 659x466 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nMarket Rates (WS)\n‘Dirty' WS - Firmer\nVLCC - Suezmax - Aframax\nWeekly Trends, WS Dirty Rates\nHB VLCC MEG/China Wi Suez WAfr to Cont Wl Suez Baltic Med i Afra Med\n250\n200\nv\n= 150\n4\na\n100\nee\n0\nSSRSSFLELSSSSELSSLELSSESRELRSRS\nSSSSSS SS SSF S SSE SESPSESESSSSESEE\nRkKKRKRRARRKRRKESSSRSEREREKRERERERERES\nRERRRRRRRKRKRXSSSNSRRKRRKRRKRKRRKRRKRRKRRKRRKRB",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "crude_oil",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 297,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__s04_linked_asset_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations_img_screenshot2024_08_22171928_47afa973d05f_png",
+      "doc_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations",
+      "parent_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__root",
+      "title": "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png",
+      "section_path": [
+        "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png\n\nLinked image asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png\n\nImage metadata: PNG 574x527 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\n‘Dirty' (# vessels) - Mixed\ns\n€ 100\n&\nY 80 Average ~ --\n3 NS ee aN NO\ng |\n5a IN\n8 _\n= f- / _/>~ 7\n$ i a Se aw a. VG ae -\ns \\ | aa XY\nFe oe :\n40\nz 20\n=\n£ 20 Sw, \\ LT ATT\nso\n3 40\n3 Lee ZA_A_ AL -_-_ / - ]F-ANn @aecance=F[F>PUPFPVE\"-\"\n8 a Re A Ee See =\n2 30\n20\n3823 EXexeee2e288FE222R8 82%\nPEP TET ETP EPEEEREEEEEEEEES\nRSSRSRRRRRRRSSKRRRKKRSRSRRRERRRRRR",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "aecance",
+        "arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22171928_47afa973d05f.png",
+        "att",
+        "average",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 316,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__s05_linked_asset_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations_img_screenshot2024_08_22170347_435f1e4ea35c_png",
+      "doc_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations",
+      "parent_id": "breakwave_insights_insights_2024-08-22_2024_08_22_arabian_gulf_dirty_oil_shipments_to_all_destinations__root",
+      "title": "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png",
+      "section_path": [
+        "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png\n\nLinked image asset: 2024-08-22_arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png\n\nImage metadata: PNG 615x492 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 3/ DEMAND (Tonne Days)\n‘Dirty' Decreasing\n4\nB cox\nZ Aerase\n© se\ng\n¥ 100%\nz\ndn\na 110%\n=\n8 oss\n© 100%\n£\n~ 95%\ngee 8e2e2282ere2e22 22222 8222 823\nSees eee ee\nSRR ReReRRRRRERRRERERE ERR RRR RRR R",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "rrr",
+        "aerase",
+        "arabian-gulf-dirty-oil-shipments-to-all-destinations_img_screenshot2024-08-22170347_435f1e4ea35c.png",
+        "cox",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 247,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

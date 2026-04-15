@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-02-17_2025_02_17_commodity_markets_volatility__root",
+  "doc_id": "breakwave_insights_insights_2025-02-17_2025_02_17_commodity_markets_volatility",
+  "parent_id": null,
+  "title": "Commodity Markets Volatility",
+  "section_path": [
+    "Commodity Markets Volatility"
+  ],
+  "section_path_text": "Commodity Markets Volatility",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic Dry Index declined last week as capesize and panamax freight rates faced downward pressure. In contrast, the smaller vessel segments saw continued freight rate gains. Commodity markets were volatile amid uncertainty over demand and supply, driven by tariff threats and the possibility of a Ukraine peace deal.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1927,
+  "source_path": "reports/breakwave/2025/2025-02-17_commodity-markets-volatility.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/2/17/commodity-markets-volatility",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-02-17_2025_02_17_commodity_markets_volatility__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-02-17_2025_02_17_commodity_markets_volatility",
+      "parent_id": "breakwave_insights_insights_2025-02-17_2025_02_17_commodity_markets_volatility__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic Dry Index declined last week as capesize and panamax freight rates faced downward pressure. In contrast, the smaller vessel segments saw continued freight rate gains.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1652,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-17_2025_02_17_commodity_markets_volatility__s02_linked_asset_2025_02_17_commodity_markets_volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c_png",
+      "doc_id": "breakwave_insights_insights_2025-02-17_2025_02_17_commodity_markets_volatility",
+      "parent_id": "breakwave_insights_insights_2025-02-17_2025_02_17_commodity_markets_volatility__root",
+      "title": "Linked asset: 2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png",
+      "section_path": [
+        "Linked asset: 2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png\n\nLinked image asset: 2025-02-17_commodity-markets-volatility_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_21b34cbc335c.png\n\nImage metadata: PNG 666x382 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Panamaxes by Destination\n@ Rest ofthe world @ Japan @ China & india\n40\n30\nde\ni\n° b ry bab oc)\nid PP oP oP SP oP oP os? yo DE st nes 0h ch cab coh ah nh hh\n8S Seta Se EI rN SO re aN\nData source: Shipfix",
+      "keywords": [
+        "panamax",
+        "china",
+        "india",
+        "japan",
+        "asset",
+        "image",
+        "source",
+        "bab"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 225,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

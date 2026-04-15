@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-09-18_2024_09_18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y__root",
+  "doc_id": "breakwave_insights_insights_2024-09-18_2024_09_18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y",
+  "parent_id": null,
+  "title": "The United States is forecasted to achieve a record soybean production",
+  "section_path": [
+    "The United States is forecasted to achieve a record soybean production"
+  ],
+  "section_path_text": "The United States is forecasted to achieve a record soybean production",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Yiannis Parganas\nAccording to the latest USDA report, released on September 12th, the United States is forecasted to achieve a record soybean production of 124.90 million tonnes in the 2024/2025 marketing year, which began in September 2024. This production is expected to be followed by soybean exports totaling 50.35 million tonnes, reflecting an increase of 4.08 million tonnes compared to the 2023/2024 marketing year. However, this projected export volume remains below the levels recorded during both the 2022/2023 and 2021/2022 marketing years.",
+  "keywords": [
+    "china",
+    "brazil",
+    "atlantic",
+    "grain",
+    "steel",
+    "soybean",
+    "u.s.",
+    "chinese",
+    "could",
+    "exports",
+    "tariffs",
+    "potential"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1067,
+  "source_path": "reports/breakwave/2024/2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/9/18/wwh003pdfy7cdnp3lt9xbzmdu9cd9y",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-09-18_2024_09_18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-09-18_2024_09_18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y",
+      "parent_id": "breakwave_insights_insights_2024-09-18_2024_09_18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Yiannis Parganas\nAccording to the latest USDA report, released on September 12th, the United States is forecasted to achieve a record soybean production of 124.90 million tonnes in the 2024/2025 marketing year, which began in September 2024. This production is expected to be followed by soybean exports totaling 50.35 million tonnes, reflecting an increase of 4.08 million tonnes compared to the 2023/2024 marketing year.",
+      "keywords": [
+        "china",
+        "brazil",
+        "atlantic",
+        "grain",
+        "steel",
+        "soybean",
+        "u.s.",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 773,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-18_2024_09_18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y__s02_linked_asset_2024_09_18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496_png",
+      "doc_id": "breakwave_insights_insights_2024-09-18_2024_09_18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y",
+      "parent_id": "breakwave_insights_insights_2024-09-18_2024_09_18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y__root",
+      "title": "Linked asset: 2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png",
+      "section_path": [
+        "Linked asset: 2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png\n\nLinked image asset: 2024-09-18_wwh003pdfy7cdnp3lt9xbzmdu9cd9y_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afec52bc5496.png\n\nImage metadata: PNG 483x293 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nUS Soybean Exports\n2000\ne000\n#200\n:\n&\nye\ng\nE aca\n2200\n°\n$ $ > > 3 eS SY $ ¢ $\ns s s ¥ + s - ca ra < ¥\ns £§ F¥ we FS ¥\nnu -2023 -202 -2021 -2020",
+      "keywords": [
+        "grain",
+        "asset",
+        "image",
+        "aca",
+        "dpi",
+        "e000",
+        "embedded",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

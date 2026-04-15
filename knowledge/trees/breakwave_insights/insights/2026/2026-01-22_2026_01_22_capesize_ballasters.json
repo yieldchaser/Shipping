@@ -1,0 +1,314 @@
+{
+  "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+  "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+  "parent_id": null,
+  "title": "Capesize Ballasters",
+  "section_path": [
+    "Capesize Ballasters"
+  ],
+  "section_path_text": "Capesize Ballasters",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nChart of the Week | Capesize Ballasters\nSouth Atlantic Vs Pacific\nImage reference: unnamed.png | assets/2026-01-22_capesize-ballasters_img_unnamed_20bf7f19b7e5.png\n\nKey Takeaways\nThe Baltic Capesize Index opened the week marginally firmer, while weekly performance remains lower, indicating continued sensitivity in the freight market. Ballaster availability remains elevated across both basins, with approximately 160 vessels (5-day MA) in West Australia and around 280 vessels (5-day MA) in the South Atlantic. South Atlantic ballaster counts are around 40 vessels higher than at end-December, highlighting increased vessel availability relative to recent month-end levels.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "india",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3342,
+  "source_path": "reports/breakwave/2026/2026-01-22_capesize-ballasters.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/1/22/capesize-ballasters",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+      "parent_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Chart of the Week | Capesize Ballasters\nSouth Atlantic Vs Pacific\nImage reference: unnamed.png | assets/2026-01-22_capesize-ballasters_img_unnamed_20bf7f19b7e5.png",
+      "keywords": [
+        "capesize",
+        "atlantic",
+        "pacific",
+        "assets/2026-01-22_capesize-ballasters_img_unnamed_20bf7f19b7e5.png",
+        "ballasters",
+        "chart",
+        "image",
+        "reference"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__s02_key_takeaways",
+      "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+      "parent_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+      "title": "Key Takeaways",
+      "section_path": [
+        "Key Takeaways"
+      ],
+      "section_path_text": "Key Takeaways",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Baltic Capesize Index opened the week marginally firmer, while weekly performance remains lower, indicating continued sensitivity in the freight market. Ballaster availability remains elevated across both basins, with approximately 160 vessels (5-day MA) in West Australia and around 280 vessels (5-day MA) in the South Atlantic.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1349,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__s03_linked_asset_2026_01_22_capesize_ballasters_img_unnamed_20bf7f19b7e5_png",
+      "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+      "parent_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+      "title": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed_20bf7f19b7e5.png",
+      "section_path": [
+        "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed_20bf7f19b7e5.png"
+      ],
+      "section_path_text": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed_20bf7f19b7e5.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-22_capesize-ballasters_img_unnamed_20bf7f19b7e5.png\n\nLinked image asset: 2026-01-22_capesize-ballasters_img_unnamed_20bf7f19b7e5.png\n\nImage metadata: PNG 1182x424 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nBallasters to South Atlantic Ballasters to West Australia\n5d MA 5d MA\n300 100 200 30\n\" 280 278 187\n25\n= 250 <\n8 * 2 -\n3 1 = 150 20\na 3 b\nJ \"\n= =\n200\nos 60 15\n1\" 120\nJan 2025 Apr2025 Jul2025 Oct 2025 = Jan 2026 100 anos Apr2025 jul2025 Oct 2025 Jan 2026 10\n-- Capesize -- VLOC -- Capesize -- VLOC",
+      "keywords": [
+        "capesize",
+        "australia",
+        "atlantic",
+        "jan",
+        "apr2025",
+        "asset",
+        "ballasters",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 232,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__s04_linked_asset_2026_01_22_capesize_ballasters_img_unnamed28129_b81e6c7ef0d0_png",
+      "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+      "parent_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+      "title": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28129_b81e6c7ef0d0.png",
+      "section_path": [
+        "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28129_b81e6c7ef0d0.png"
+      ],
+      "section_path_text": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28129_b81e6c7ef0d0.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-22_capesize-ballasters_img_unnamed28129_b81e6c7ef0d0.png\n\nLinked image asset: 2026-01-22_capesize-ballasters_img_unnamed28129_b81e6c7ef0d0.png\n\nImage metadata: PNG 1039x392 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nSpot Price Summary\nIndex Description Price Unit Day Week Month Quarter Year\nEP Baltic Dry Index & 1,650 - 5.3% -0.5% -184% -20.3% 724%\nBCI Baltic Capesize Index & 2,570 - 6.9% 5.1% -27.8% -17.8% 93.7%\nBPI Baltic Panamax Index & 1,521 - 4.3% 13.5% 15.0% -16.8% 70.3%\nBSI Baltic Supramax Index A 970 - 0.3% 1.0% -20.6% -31.6% 33.4%\nBHSI Baltic Handysize Index A 589 - 0.2% -1.7% -21.0% -33.4% 32.1%\n|estc Capesize Timecharter Average (180) A 19,804 S/iday 83% 6.0% -32.9% -23.7% 79.9%\nHS7TC Handysize Timecharter Average 4 10.595 S/day 0.2% -1.7% -21.1% -33.4% 32.0%\nP4TC Panamax 74 Timecharter Average A 12,352 Siday 48% 15.2% 16.8% -18.3% 84.4%\nPSTC Panamax Timecharter Average A 13.688 S$/day 43% 13.5% 14.9% -16.8% 70.3%\nS10TC Supramax (58) Timecharter Average A 10.223 S$/iday 04% 1.2% -23.7% -35.7% 42.9%",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "average",
+        "timecharter",
+        "asset",
+        "day"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 509,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__s05_linked_asset_2026_01_22_capesize_ballasters_img_unnamed28229_4944eb77d1e5_png",
+      "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+      "parent_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+      "title": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28229_4944eb77d1e5.png",
+      "section_path": [
+        "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28229_4944eb77d1e5.png"
+      ],
+      "section_path_text": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28229_4944eb77d1e5.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-22_capesize-ballasters_img_unnamed28229_4944eb77d1e5.png\n\nLinked image asset: 2026-01-22_capesize-ballasters_img_unnamed28229_4944eb77d1e5.png\n\nImage metadata: PNG 1014x537 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nBaltic Rates Comparison Timeseries\nc3 «CS\nod e\n25\n2\nca\n20\n18 2\noe\n\"7 5\nis =\n3\n10\n8\ncs\n6\n‘ 5\nMar 2025 May 2025 Jul 2025 Sep 2025 Nov 2025 Jan 2026",
+      "keywords": [
+        "capesize",
+        "asset",
+        "image",
+        "capesize-ballasters_img_unnamed28229_4944eb77d1e5.png",
+        "comparison",
+        "dpi",
+        "embedded",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__s06_linked_asset_2026_01_22_capesize_ballasters_img_unnamed28329_b82ae5115861_png",
+      "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+      "parent_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+      "title": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28329_b82ae5115861.png",
+      "section_path": [
+        "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28329_b82ae5115861.png"
+      ],
+      "section_path_text": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28329_b82ae5115861.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-22_capesize-ballasters_img_unnamed28329_b82ae5115861.png\n\nLinked image asset: 2026-01-22_capesize-ballasters_img_unnamed28329_b82ae5115861.png\n\nImage metadata: PNG 945x558 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nBallasters vs Baltic Rates Sd MA\n300\n280\n30\n260\n5 240\n8 j . = 25 E\n2 220 4\n>\n200\n20\n180\n160\nJan 2025 Mar 2025 May 2025 Jul 2025 Sep 2025 Nov 2025 Jan 2026\n-- Ballasters -- C3",
+      "keywords": [
+        "capesize",
+        "asset",
+        "ballasters",
+        "image",
+        "jan",
+        "capesize-ballasters_img_unnamed28329_b82ae5115861.png",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 176,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__s07_linked_asset_2026_01_22_capesize_ballasters_img_unnamed28429_515d40f69953_png",
+      "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+      "parent_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+      "title": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28429_515d40f69953.png",
+      "section_path": [
+        "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28429_515d40f69953.png"
+      ],
+      "section_path_text": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28429_515d40f69953.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-22_capesize-ballasters_img_unnamed28429_515d40f69953.png\n\nLinked image asset: 2026-01-22_capesize-ballasters_img_unnamed28429_515d40f69953.png\n\nImage metadata: PNG 913x519 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\n. | | | al\ndf Mella F\n™ iv) reaye rye ey\nmine - _ _ ie",
+      "keywords": [
+        "capesize",
+        "asset",
+        "image",
+        "capesize-ballasters_img_unnamed28429_515d40f69953.png",
+        "dpi",
+        "embedded",
+        "info",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 124,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__s08_linked_asset_2026_01_22_capesize_ballasters_img_unnamed28529_f74f0460e1bd_png",
+      "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+      "parent_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+      "title": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28529_f74f0460e1bd.png",
+      "section_path": [
+        "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28529_f74f0460e1bd.png"
+      ],
+      "section_path_text": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28529_f74f0460e1bd.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-22_capesize-ballasters_img_unnamed28529_f74f0460e1bd.png\n\nLinked image asset: 2026-01-22_capesize-ballasters_img_unnamed28529_f74f0460e1bd.png\n\nImage metadata: PNG 867x488 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nBallasters vs Baltic Rates ‘Sd MA\n200\niT\n180\n12\n5\n8 160 z\n= w E\n3 a\n=\n140\n8\n120 6\nJan 2025 Mar 2025 May 2025 Jut 2025 Sep 2025 Nov 2025 Jan 2026\n--Ballasters --C5",
+      "keywords": [
+        "capesize",
+        "asset",
+        "ballasters",
+        "image",
+        "jan",
+        "capesize-ballasters_img_unnamed28529_f74f0460e1bd.png",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__s09_linked_asset_2026_01_22_capesize_ballasters_img_unnamed28629_b0ad9f6f0db4_png",
+      "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+      "parent_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+      "title": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28629_b0ad9f6f0db4.png",
+      "section_path": [
+        "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28629_b0ad9f6f0db4.png"
+      ],
+      "section_path_text": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28629_b0ad9f6f0db4.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-22_capesize-ballasters_img_unnamed28629_b0ad9f6f0db4.png\n\nLinked image asset: 2026-01-22_capesize-ballasters_img_unnamed28629_b0ad9f6f0db4.png\n\nImage metadata: PNG 894x492 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\n' 1 ar\n«eb uae INA ao Ae\nhs | i |",
+      "keywords": [
+        "capesize",
+        "asset",
+        "image",
+        "capesize-ballasters_img_unnamed28629_b0ad9f6f0db4.png",
+        "dpi",
+        "embedded",
+        "ina",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 122,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__s10_linked_asset_2026_01_22_capesize_ballasters_img_unnamed28729_52fbc358764a_png",
+      "doc_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters",
+      "parent_id": "breakwave_insights_insights_2026-01-22_2026_01_22_capesize_ballasters__root",
+      "title": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28729_52fbc358764a.png",
+      "section_path": [
+        "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28729_52fbc358764a.png"
+      ],
+      "section_path_text": "Linked asset: 2026-01-22_capesize-ballasters_img_unnamed28729_52fbc358764a.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-22_capesize-ballasters_img_unnamed28729_52fbc358764a.png\n\nLinked image asset: 2026-01-22_capesize-ballasters_img_unnamed28729_52fbc358764a.png\n\nImage metadata: PNG 908x456 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\n@China @Pak/India/AG = 5dMA\n200\n170\n1\n150\n150\né\n3 100 ~ J\n=\n50\noO. Apr 2024 Jul 2024 Oct 2024 Jan 2025 Apr 2025 Jul 2025 Oct 2025 Jan 2026",
+      "keywords": [
+        "capesize",
+        "china",
+        "india",
+        "apr",
+        "asset",
+        "image",
+        "jan",
+        "jul"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

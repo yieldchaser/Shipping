@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-12-08_2025_12_08_consumption_growth_in_chinas_consumer_sector_continues_to_decline__root",
+  "doc_id": "breakwave_insights_insights_2025-12-08_2025_12_08_consumption_growth_in_chinas_consumer_sector_continues_to_decline",
+  "parent_id": null,
+  "title": "Consumption Growth in China's Consumer Sector Continues to Decline",
+  "section_path": [
+    "Consumption Growth in China's Consumer Sector Continues to Decline"
+  ],
+  "section_path_text": "Consumption Growth in China's Consumer Sector Continues to Decline",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, China's retail sales in October grew year-on-year by 2.9%, which has marked another decline. Taking October's 0.2% inflation into account, retail sales adjusted for inflation/deflation grew year-on-year by just 2.7%. This has marked the lowest growth seen since August 2024.",
+  "keywords": [
+    "china",
+    "retail",
+    "sales",
+    "growth",
+    "asset",
+    "image",
+    "inflation",
+    "adjusted",
+    "consumer",
+    "consumption-growth-in-chinas-consumer-sector-continues-to-decline_img_chart_17876106ea78.jpg",
+    "continues",
+    "grew"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 376,
+  "source_path": "reports/breakwave/2025/2025-12-08_consumption-growth-in-chinas-consumer-sector-continues-to-decline.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/12/7/consumption-growth-in-chinas-consumer-sector-continues-to-decline",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-12-08_2025_12_08_consumption_growth_in_chinas_consumer_sector_continues_to_decline__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-12-08_2025_12_08_consumption_growth_in_chinas_consumer_sector_continues_to_decline",
+      "parent_id": "breakwave_insights_insights_2025-12-08_2025_12_08_consumption_growth_in_chinas_consumer_sector_continues_to_decline__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, China's retail sales in October grew year-on-year by 2.9%, which has marked another decline. Taking October's 0.2% inflation into account, retail sales adjusted for inflation/deflation grew year-on-year by just 2.7%.",
+      "keywords": [
+        "china",
+        "retail",
+        "sales",
+        "growth",
+        "consumer",
+        "continues",
+        "grew",
+        "inflation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 206,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-08_2025_12_08_consumption_growth_in_chinas_consumer_sector_continues_to_decline__s02_linked_asset_2025_12_08_consumption_growth_in_chinas_consumer_sector_continues_to_decline_img_chart_17876106ea78_jpg",
+      "doc_id": "breakwave_insights_insights_2025-12-08_2025_12_08_consumption_growth_in_chinas_consumer_sector_continues_to_decline",
+      "parent_id": "breakwave_insights_insights_2025-12-08_2025_12_08_consumption_growth_in_chinas_consumer_sector_continues_to_decline__root",
+      "title": "Linked asset: 2025-12-08_consumption-growth-in-chinas-consumer-sector-continues-to-decline_img_chart_17876106ea78.jpg",
+      "section_path": [
+        "Linked asset: 2025-12-08_consumption-growth-in-chinas-consumer-sector-continues-to-decline_img_chart_17876106ea78.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-12-08_consumption-growth-in-chinas-consumer-sector-continues-to-decline_img_chart_17876106ea78.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-08_consumption-growth-in-chinas-consumer-sector-continues-to-decline_img_chart_17876106ea78.jpg\n\nLinked image asset: 2025-12-08_consumption-growth-in-chinas-consumer-sector-continues-to-decline_img_chart_17876106ea78.jpg\n\nImage metadata: JPEG 599x320 mode=RGB\n\nOCR text:\nChinese Retail Sales Growth Adjusted For Inflation\n20%\n10%\n0%\n10%\n520% -§ $A\n2022 2023 2024 2025",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "adjusted",
+        "chinese",
+        "consumption-growth-in-chinas-consumer-sector-continues-to-decline_img_chart_17876106ea78.jpg",
+        "growth",
+        "inflation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 132,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

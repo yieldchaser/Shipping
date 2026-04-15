@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-09-09_2024_09_09_fzo0z0yzpgnomzr9pvbgqom50dmkli__root",
+  "doc_id": "breakwave_insights_insights_2024-09-09_2024_09_09_fzo0z0yzpgnomzr9pvbgqom50dmkli",
+  "parent_id": null,
+  "title": "Shipping since 2020 has been shaped by events more than we have been used to",
+  "section_path": [
+    "Shipping since 2020 has been shaped by events more than we have been used to"
+  ],
+  "section_path_text": "Shipping since 2020 has been shaped by events more than we have been used to",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSo called 'fundamentals' gave way to outside factors which have reshaped them in the process. By Michalis Voutsinas\nShipping since 2020 has been shaped by events more than we have been used to . The Dry bulk market is no exception with Covid-19 , the Russian invasion of Ukraine and the Middle East conflict major waypoints on how the environment unfolded.",
+  "keywords": [
+    "capesize",
+    "container",
+    "china",
+    "trade",
+    "was",
+    "demand",
+    "global",
+    "started",
+    "asset",
+    "bulkers",
+    "covid-19",
+    "effect"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1116,
+  "source_path": "reports/breakwave/2024/2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/9/9/fzo0z0yzpgnomzr9pvbgqom50dmkli",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-09-09_2024_09_09_fzo0z0yzpgnomzr9pvbgqom50dmkli__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-09-09_2024_09_09_fzo0z0yzpgnomzr9pvbgqom50dmkli",
+      "parent_id": "breakwave_insights_insights_2024-09-09_2024_09_09_fzo0z0yzpgnomzr9pvbgqom50dmkli__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "So called 'fundamentals' gave way to outside factors which have reshaped them in the process. By Michalis Voutsinas\nShipping since 2020 has been shaped by events more than we have been used to .",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "trade",
+        "was",
+        "demand",
+        "started",
+        "bulkers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 798,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-09_2024_09_09_fzo0z0yzpgnomzr9pvbgqom50dmkli__s02_linked_asset_2024_09_09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a_png",
+      "doc_id": "breakwave_insights_insights_2024-09-09_2024_09_09_fzo0z0yzpgnomzr9pvbgqom50dmkli",
+      "parent_id": "breakwave_insights_insights_2024-09-09_2024_09_09_fzo0z0yzpgnomzr9pvbgqom50dmkli__root",
+      "title": "Linked asset: 2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png",
+      "section_path": [
+        "Linked asset: 2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png\n\nLinked image asset: 2024-09-09_fzo0z0yzpgnomzr9pvbgqom50dmkli_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ebe51006654a.png\n\nImage metadata: PNG 933x412 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSource: UN Global Platform, IMF PortWatch, Doric Research Trade disru ptions - Daily transit trade volume\n(million metric tons, 7-day moving average)\n8\n_ 6\n2\n2\n-\nFS 4\nij\n2\n=\n2\n0 a as Se\nJan-23 Mar-23 May-23 Jul-23 Sep-23 Nov-23 Jan-24 Mar-24\n--Cape of Good Hope 9 -==Suez Canal",
+      "keywords": [
+        "capesize",
+        "asset",
+        "image",
+        "source",
+        "trade",
+        "average",
+        "canal",
+        "cape"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 257,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

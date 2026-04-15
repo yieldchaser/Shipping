@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-03-24_2025_03_24_even_larger_global_grain_trade_contraction_expected__root",
+  "doc_id": "breakwave_insights_insights_2025-03-24_2025_03_24_even_larger_global_grain_trade_contraction_expected",
+  "parent_id": null,
+  "title": "Even Larger Global Grain Trade Contraction Expected",
+  "section_path": [
+    "Even Larger Global Grain Trade Contraction Expected"
+  ],
+  "section_path_text": "Even Larger Global Grain Trade Contraction Expected",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Executive Report, the United States Department of Agriculture (USDA) is now predicting that global coarse grain, wheat, soybean, and soymeal exports in 2024/25 will collectively total 690.6 million tons. This is 2.6 million tons less than was forecast a month ago and would mark a year-on-year decline of 19.9 million tons (-3%). Compared to the USDA's final forecast released in 2024, this 690.6 million tons forecast is also now down by 12.3 million tons (-2%).",
+  "keywords": [
+    "capesize",
+    "brazil",
+    "grain",
+    "million",
+    "exports",
+    "tons",
+    "coarse",
+    "year-on-year",
+    "decline",
+    "expected",
+    "forecast",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 580,
+  "source_path": "reports/breakwave/2025/2025-03-24_even-larger-global-grain-trade-contraction-expected.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/3/24/even-larger-global-grain-trade-contraction-expected",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-03-24_2025_03_24_even_larger_global_grain_trade_contraction_expected__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-03-24_2025_03_24_even_larger_global_grain_trade_contraction_expected",
+      "parent_id": "breakwave_insights_insights_2025-03-24_2025_03_24_even_larger_global_grain_trade_contraction_expected__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Executive Report, the United States Department of Agriculture (USDA) is now predicting that global coarse grain, wheat, soybean, and soymeal exports in 2024/25 will collectively total 690.6 million tons. This is 2.6 million tons less than was forecast a month ago and would mark a year-on-year decline of 19.9 million tons (-3%).",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "grain",
+        "million",
+        "exports",
+        "tons",
+        "year-on-year",
+        "coarse"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 373,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-24_2025_03_24_even_larger_global_grain_trade_contraction_expected__s02_linked_asset_2025_03_24_even_larger_global_grain_trade_contraction_expected_img_241_fc522a699d83_jpg",
+      "doc_id": "breakwave_insights_insights_2025-03-24_2025_03_24_even_larger_global_grain_trade_contraction_expected",
+      "parent_id": "breakwave_insights_insights_2025-03-24_2025_03_24_even_larger_global_grain_trade_contraction_expected__root",
+      "title": "Linked asset: 2025-03-24_even-larger-global-grain-trade-contraction-expected_img_241_fc522a699d83.jpg",
+      "section_path": [
+        "Linked asset: 2025-03-24_even-larger-global-grain-trade-contraction-expected_img_241_fc522a699d83.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-03-24_even-larger-global-grain-trade-contraction-expected_img_241_fc522a699d83.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-24_even-larger-global-grain-trade-contraction-expected_img_241_fc522a699d83.jpg\n\nLinked image asset: 2025-03-24_even-larger-global-grain-trade-contraction-expected_img_241_fc522a699d83.jpg\n\nImage metadata: JPEG 672x206 mode=RGB\n\nOCR text:\nGlobal Coarse Grain Exports (including corn)\nWorld USA Argentina Brazil Ukraine\n2023/24 (est) 237.3mt 64.5mt 40.8mt 38.4mt 32.0mt\n2024/25 (proj) 222.6mt 65.0mt 40.4mt 44.2mt 24.6mt",
+      "keywords": [
+        "brazil",
+        "grain",
+        "asset",
+        "image",
+        "argentina",
+        "coarse",
+        "corn",
+        "est"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 171,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

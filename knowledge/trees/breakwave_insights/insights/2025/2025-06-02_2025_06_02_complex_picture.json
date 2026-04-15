@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-06-02_2025_06_02_complex_picture__root",
+  "doc_id": "breakwave_insights_insights_2025-06-02_2025_06_02_complex_picture",
+  "parent_id": null,
+  "title": "Complex picture",
+  "section_path": [
+    "Complex picture"
+  ],
+  "section_path_text": "Complex picture",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nA year ago, in May 2024, an International Monetary Fund (IMF) mission concluded a visit to China, expressing cautious optimism about the country's economic trajectory. The IMF projected that China's GDP growth would remain resilient, estimating a 5 percent expansion in 2024 and a moderation to 4.5 percent in 2025. Inflation was expected to edge up but remain subdued.",
+  "keywords": [
+    "china",
+    "europe",
+    "products",
+    "percent",
+    "trade",
+    "may",
+    "tariffs",
+    "u.s.",
+    "exports",
+    "was",
+    "its",
+    "bdi"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1704,
+  "source_path": "reports/breakwave/2025/2025-06-02_complex-picture.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/6/1/complex-picture",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-06-02_2025_06_02_complex_picture__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-06-02_2025_06_02_complex_picture",
+      "parent_id": "breakwave_insights_insights_2025-06-02_2025_06_02_complex_picture__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nA year ago, in May 2024, an International Monetary Fund (IMF) mission concluded a visit to China, expressing cautious optimism about the country's economic trajectory. The IMF projected that China's GDP growth would remain resilient, estimating a 5 percent expansion in 2024 and a moderation to 4.5 percent in 2025.",
+      "keywords": [
+        "china",
+        "europe",
+        "products",
+        "percent",
+        "trade",
+        "tariffs",
+        "may",
+        "u.s."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1448,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-02_2025_06_02_complex_picture__s02_linked_asset_2025_06_02_complex_picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc_png",
+      "doc_id": "breakwave_insights_insights_2025-06-02_2025_06_02_complex_picture",
+      "parent_id": "breakwave_insights_insights_2025-06-02_2025_06_02_complex_picture__root",
+      "title": "Linked asset: 2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png",
+      "section_path": [
+        "Linked asset: 2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png"
+      ],
+      "section_path_text": "Linked asset: 2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png\n\nLinked image asset: 2025-06-02_complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png\n\nImage metadata: PNG 760x222 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n4000 ee\n3500\n3000\n2500\n200 © y\n1500 ==\n1000\n500\na\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\nSource: Raitt: Exchange, Dork: Resear BDI Avg 2018-2022 <---=-BDI 2023 BDI 2024 9 mm BDI 2025",
+      "keywords": [
+        "bdi",
+        "asset",
+        "image",
+        "source",
+        "apr",
+        "aug",
+        "avg",
+        "complex-picture_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_428e3307a7fc.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 210,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

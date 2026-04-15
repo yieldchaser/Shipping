@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-02-02_2026_02_02_china_closed_2025_with_headline_economic_growth__root",
+  "doc_id": "breakwave_insights_insights_2026-02-02_2026_02_02_china_closed_2025_with_headline_economic_growth",
+  "parent_id": null,
+  "title": "China closed 2025 with headline economic growth",
+  "section_path": [
+    "China closed 2025 with headline economic growth"
+  ],
+  "section_path_text": "China closed 2025 with headline economic growth",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nChina closed 2025 with headline economic growth broadly in line with official objectives, offering a sense of macroeconomic continuity as the country prepares to transition into the 15th Five-Year Plan period. Official data released by the National Bureau of Statistics in January confirmed that gross domestic product expanded by 5.0 percent year-on-year, allowing Beijing to meet its stated growth target despite persistent domestic demand constraints and a complex external backdrop. In nominal terms, the economy reached RMB 140.2 trillion (approximately $19.6 trillion).",
+  "keywords": [
+    "china",
+    "growth",
+    "demand",
+    "industrial",
+    "remained",
+    "services",
+    "policy",
+    "trade",
+    "year",
+    "domestic",
+    "manufacturing",
+    "pace"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1561,
+  "source_path": "reports/breakwave/2026/2026-02-02_china-closed-2025-with-headline-economic-growth.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/2/2/china-closed-2025-with-headline-economic-growth",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-02-02_2026_02_02_china_closed_2025_with_headline_economic_growth__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-02-02_2026_02_02_china_closed_2025_with_headline_economic_growth",
+      "parent_id": "breakwave_insights_insights_2026-02-02_2026_02_02_china_closed_2025_with_headline_economic_growth__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nChina closed 2025 with headline economic growth broadly in line with official objectives, offering a sense of macroeconomic continuity as the country prepares to transition into the 15th Five-Year Plan period. Official data released by the National Bureau of Statistics in January confirmed that gross domestic product expanded by 5.0 percent year-on-year, allowing Beijing to meet its stated growth target despite persistent domestic demand constraints and a complex external backdrop.",
+      "keywords": [
+        "china",
+        "growth",
+        "demand",
+        "industrial",
+        "remained",
+        "services",
+        "policy",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1292,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-02-02_2026_02_02_china_closed_2025_with_headline_economic_growth__s02_linked_asset_2026_02_02_china_closed_2025_with_headline_economic_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b8ead3fdc6_png",
+      "doc_id": "breakwave_insights_insights_2026-02-02_2026_02_02_china_closed_2025_with_headline_economic_growth",
+      "parent_id": "breakwave_insights_insights_2026-02-02_2026_02_02_china_closed_2025_with_headline_economic_growth__root",
+      "title": "Linked asset: 2026-02-02_china-closed-2025-with-headline-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b8ead3fdc6.png",
+      "section_path": [
+        "Linked asset: 2026-02-02_china-closed-2025-with-headline-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b8ead3fdc6.png"
+      ],
+      "section_path_text": "Linked asset: 2026-02-02_china-closed-2025-with-headline-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b8ead3fdc6.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-02-02_china-closed-2025-with-headline-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b8ead3fdc6.png\n\nLinked image asset: 2026-02-02_china-closed-2025-with-headline-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b8ead3fdc6.png\n\nImage metadata: PNG 439x256 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n8% China - GDP Growth\n6%\n4%\n2%\n0%\n-2%\nQ12022 Q3 2022 Q12023 Q3 2023 Q1 2024 Q3 2024 Q1 2025 Q3 2025\nSource: NBS, Doric Research",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "source",
+        "china-closed-2025-with-headline-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_30b8ead3fdc6.png",
+        "doric",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 212,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

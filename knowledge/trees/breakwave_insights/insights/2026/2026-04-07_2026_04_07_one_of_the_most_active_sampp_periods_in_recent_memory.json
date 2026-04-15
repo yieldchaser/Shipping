@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__root",
+  "doc_id": "breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory",
+  "parent_id": null,
+  "title": "One of the most active S&P periods in recent memory",
+  "section_path": [
+    "One of the most active S&P periods in recent memory"
+  ],
+  "section_path_text": "One of the most active S&P periods in recent memory",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: tankers from Egina.jpeg | assets/2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory_img_tankersfromegina_c704dad9eda0.jpeg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe first quarter of 2026 delivered one of the most active S&P periods in recent memory, with 351 transactions recorded across tankers and dry bulk, representing a combined investment of approximately $11.5 billion. Activity was front-loaded into January, which alone accounted for nearly 40% of total volume, reflecting a wave of positioning decisions as the new year opened against an already elevated geopolitical backdrop. The tanker market was the unambiguous headline story, generating 164 transactions worth roughly $7.8 billion - with VLCCs accounting for a disproportionate share of both deal count and capital deployed.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "meg",
+    "singapore",
+    "million",
+    "transactions",
+    "averaging",
+    "built"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1478,
+  "source_path": "reports/breakwave/2026/2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/4/7/one-of-the-most-active-sampp-periods-in-recent-memory",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory",
+      "parent_id": "breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: tankers from Egina.jpeg | assets/2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory_img_tankersfromegina_c704dad9eda0.jpeg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe first quarter of 2026 delivered one of the most active S&P periods in recent memory, with 351 transactions recorded across tankers and dry bulk, representing a combined investment of approximately $11.5 billion. Activity was front-loaded into January, which alone accounted for nearly 40% of total volume, reflecting a wave of positioning decisions as the new year opened against an already elevated geopolitical backdrop.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 871,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__s02_linked_asset_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory_img_tankersfromegina_c704dad9eda0_jpeg",
+      "doc_id": "breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory",
+      "parent_id": "breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__root",
+      "title": "Linked asset: 2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory_img_tankersfromegina_c704dad9eda0.jpeg",
+      "section_path": [
+        "Linked asset: 2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory_img_tankersfromegina_c704dad9eda0.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory_img_tankersfromegina_c704dad9eda0.jpeg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory_img_tankersfromegina_c704dad9eda0.jpeg\n\nLinked image asset: 2026-04-07_one-of-the-most-active-sampp-periods-in-recent-memory_img_tankersfromegina_c704dad9eda0.jpeg\n\nImage metadata: JPEG 2500x1875 mode=RGB\n\nOCR text:\nSand ry\n; = es oe ae De Se\n, tll ae Se ee ne TSS, 8 Po Se ted sit\noe woe ng ey SK aol Vitae 2 8 ee ee Se Sie ae ee eS\n« 2 ' 4 he i ~ . ral - ~ ah = R x > .",
+      "keywords": [
+        "meg",
+        "eee",
+        "are",
+        "asset",
+        "bes",
+        "eae",
+        "image",
+        "ses"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 567,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

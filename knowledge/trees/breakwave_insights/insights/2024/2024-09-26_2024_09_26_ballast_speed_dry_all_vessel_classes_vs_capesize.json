@@ -1,0 +1,229 @@
+{
+  "node_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__root",
+  "doc_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize",
+  "parent_id": null,
+  "title": "Ballast speed Dry All vessel classes Vs Capesize",
+  "section_path": [
+    "Ballast speed Dry All vessel classes Vs Capesize"
+  ],
+  "section_path_text": "Ballast speed Dry All vessel classes Vs Capesize",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 39.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions September 26, 2024\n\nChart of the Week: Ballast speed Dry All vessel classes Vs Capesize\nThis week's focus is on the overall decreasing pace of ballast speeds across all dry vessel class categories for the year. Notably, the Capesize segment, which initially showed an upward trend at the beginning of the year, saw its ballast speed increase again in September, driven by the improvement in freight rates. In contrast, other vessel classes have maintained a more consistent downward trend in their ballast speeds throughout the year, reflecting a softer demand and operational adjustments to market conditions.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "iron_ore",
+    "gas",
+    "vessel",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3602,
+  "source_path": "reports/breakwave/2024/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/9/26/ballast-speed-dry-all-vessel-classes-vs-capesize",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize",
+      "parent_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 39.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions September 26, 2024",
+      "keywords": [
+        "congestions",
+        "monitor",
+        "port",
+        "september",
+        "snapshot",
+        "supply-demand",
+        "trends"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__s02_chart_of_the_week_ballast_speed_dry_all_vessel_classes_vs_capesize",
+      "doc_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize",
+      "parent_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__root",
+      "title": "Chart of the Week: Ballast speed Dry All vessel classes Vs Capesize",
+      "section_path": [
+        "Chart of the Week: Ballast speed Dry All vessel classes Vs Capesize"
+      ],
+      "section_path_text": "Chart of the Week: Ballast speed Dry All vessel classes Vs Capesize",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This week's focus is on the overall decreasing pace of ballast speeds across all dry vessel class categories for the year. Notably, the Capesize segment, which initially showed an upward trend at the beginning of the year, saw its ballast speed increase again in September, driven by the improvement in freight rates.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1696,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__s03_linked_asset_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a_png",
+      "doc_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize",
+      "parent_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__root",
+      "title": "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a.png",
+      "section_path": [
+        "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a.png\n\nLinked image asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_329ff03c152a.png\n\nImage metadata: PNG 659x248 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nALL CAPESIZE\nus ae\n£ i\nFag :\nan 24 Mar 2024 May 2024 Js. 2024 ‘Sep 2024 Noe 2024 on ans Mar 2024 May 2024 JA MOH ‘Sep ze Now 2024\n(2822 @ 223 @ m2 ~\na SIGNSL",
+      "keywords": [
+        "capesize",
+        "asset",
+        "image",
+        "mar",
+        "may",
+        "sep",
+        "all",
+        "ans"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 225,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__s04_linked_asset_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02add0a6aced_png",
+      "doc_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize",
+      "parent_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__root",
+      "title": "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02add0a6aced.png",
+      "section_path": [
+        "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02add0a6aced.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02add0a6aced.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02add0a6aced.png\n\nLinked image asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_02add0a6aced.png\n\nImage metadata: PNG 661x533 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT - Freight Rates ($/t) Firmer\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nWi Cape - Brazil NCnina W Pmax-Cont FE Supra - Inco EC! WB Handy NOPAC FE\nWeekly Trends\n4s\n40\n35\ne 30\n4\na\n& 2s\n20\n1s\n1 a\nALSLPSLSLSSTLSSAS LP SLSLSSPLSaVMILVLofASSVMIL KS SLSHRKSARSE\nSSSSSSSSSSSSsseeeseeee eae ses SSSSSSSSSSSSSEFEFEFEFE33 35333335335\nNQNQQHNQAKRKNAAKKRAQSSSSSSSSSRASAEARALLLAALTALASALSALLASLLAAALES\nRERRRRRARRRRRRSSKSSRAARER ES RR RRR RR RRR RR RRRRRRRRRR RRR",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "brazil",
+        "rrr",
+        "asset",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 377,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__s05_linked_asset_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807_png",
+      "doc_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize",
+      "parent_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__root",
+      "title": "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807.png",
+      "section_path": [
+        "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807.png\n\nLinked image asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_61ebfef5a807.png\n\nImage metadata: PNG 662x507 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels)\nMixed\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nWi Cape SE Africa Bi Pmax SE Africa i Supra SE Asia Bi Handy NOPAC\nWeekly Trends\nwy 130\nCape SE aan, Average\nsee g 110\n> 90\n2\nPmaxst ¥ 160 SO ON\nAfrica g 130\n> 100\nS 120\nSupraSE % 110 ereg\nAla $ 100\n90\n100\n4 90\nHandy Avgfage\nWOPRC 3 80 ne\n70\nSSLSIVSSLSARAASSSsVSSlSSaaReNSasSARgagas & RRERRSARARA\nBee eee eee ri iigizieei:222222:2222222:222222222\nSSRSSRSSS SSR SSSR AKRRRATKSSSSSSSSSSSSSSRRSSSSSSSSSS SSE S",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "gas",
+        "africa",
+        "asset",
+        "ballasters",
+        "cape"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 368,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__s06_linked_asset_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70c89bec3ee_png",
+      "doc_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize",
+      "parent_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__root",
+      "title": "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70c89bec3ee.png",
+      "section_path": [
+        "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70c89bec3ee.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70c89bec3ee.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70c89bec3ee.png\n\nLinked image asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e70c89bec3ee.png\n\nImage metadata: PNG 665x510 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Increasing\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\n@ Cape Tond Growth i Pmax TonD Growth @ SupraTonD Growth Bi Handy TonD Growth\n115%\n110%\nwe 105%\n<=\n=\n£ 100%\nSo\n&\n95%\n90%\n85%\n80%\nBSS<SrS<SsReYsesseSLRESsRC SSS esas\nSS 5355355322252 F533 35333333353353 53858\nmmm mm mmnannansk S&S Ste THKTeTEeTEHteseestssy\nNA NNNHKHAaoAcscoSéeSsée se BS KRA KR A KREOKR OKC KR CU KR CUcRChUcUVWC KR KN Ak\nSek RRRR*SFNKRSNHNRERRKEKRKRRKRRKRRKRKRAR",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "growth",
+        "tond",
+        "asset",
+        "demand",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 348,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__s07_linked_asset_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f_png",
+      "doc_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize",
+      "parent_id": "breakwave_insights_insights_2024-09-26_2024_09_26_ballast_speed_dry_all_vessel_classes_vs_capesize__root",
+      "title": "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f.png",
+      "section_path": [
+        "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f.png\n\nLinked image asset: 2024-09-26_ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f.png\n\nImage metadata: PNG 668x466 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Decreasing\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\nvoc Wi Cope i Post Pmax Bi Pmax Bi suore Bi hienax BE Hancysize Bi sman\nWeekly Trends\n1400 Average\n2 1000\na\n3\nz 600\nRSET TTTE SS TRERESTELESETAANAEASS SARUNSERLEEERENRSRR ESE",
+      "keywords": [
+        "capesize",
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "pmax",
+        "average",
+        "ballast-speed-dry-all-vessel-classes-vs-capesize_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_715ba5726d7f.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

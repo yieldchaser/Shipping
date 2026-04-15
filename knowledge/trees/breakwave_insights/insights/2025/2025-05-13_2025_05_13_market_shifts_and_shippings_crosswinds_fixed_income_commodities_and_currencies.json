@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__root",
+  "doc_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies",
+  "parent_id": null,
+  "title": "Market Shifts and Shipping's Crosswinds: Fixed Income, Commodities and Currencies",
+  "section_path": [
+    "Market Shifts and Shipping's Crosswinds: Fixed Income, Commodities and Currencies"
+  ],
+  "section_path_text": "Market Shifts and Shipping's Crosswinds: Fixed Income, Commodities and Currencies",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: RGB_COLOR_BRS_SHIPBROKERS_MONOGRAM_LOGO.png | assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\nMarkets remain volatile, seemingly lurching from one macroeconomic crisis to the next, with few moments of stability. What began in early 2025 as cautious optimism around China's property recovery-set against the backdrop of the Red Sea crisis-has since evolved into a broader trade tariff narrative dominated by movements in financial markets, fiscal manoeuvres, and currency disruptions. Once a beneficiary of volatility, the commodities and shipping sector now contends with its downside risks.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "asset",
+    "image",
+    "linked",
+    "png"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2867,
+  "source_path": "reports/breakwave/2025/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/5/13/market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies",
+      "parent_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: RGB_COLOR_BRS_SHIPBROKERS_MONOGRAM_LOGO.png | assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\nMarkets remain volatile, seemingly lurching from one macroeconomic crisis to the next, with few moments of stability. What began in early 2025 as cautious optimism around China's property recovery-set against the backdrop of the Red Sea crisis-has since evolved into a broader trade tariff narrative dominated by movements in financial markets, fiscal manoeuvres, and currency disruptions.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil",
+        "markets"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1471,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__s02_linked_asset_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies_img_rgb_color_brs_shipbrokers_monogram_l_ee79606c8e74_png",
+      "doc_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies",
+      "parent_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__root",
+      "title": "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png",
+      "section_path": [
+        "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\n\nLinked image asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\n\nImage metadata: PNG 2500x2186 mode=RGBA\n\nEmbedded info:\ndpi: (299.9994, 299.9994)\n\n[No OCR text detected in linked image.]",
+      "keywords": [
+        "asset",
+        "image",
+        "linked",
+        "detected",
+        "dpi",
+        "embedded",
+        "image.",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__s03_linked_asset_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d01a3597c4_png",
+      "doc_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies",
+      "parent_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__root",
+      "title": "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d01a3597c4.png",
+      "section_path": [
+        "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d01a3597c4.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d01a3597c4.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d01a3597c4.png\n\nLinked image asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d01a3597c4.png\n\nImage metadata: PNG 465x433 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nCommodities Performance\n2025 Year-To-Date\nm---lron 62% CFRChina) + ---McCloskey Coal Newc\n-- BOT Soybean Usc/bu --= Brent\n-- Gold/USD per Oz\n40%\n30%\n20%\n10%\n0%\n-10%\n-20%\n-30%\n~40%\n1-Jan 1-Feb 1-Mar 1-Apr 1-May",
+      "keywords": [
+        "china",
+        "coal",
+        "grain",
+        "asset",
+        "image",
+        "apr",
+        "bot",
+        "brent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 247,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__s04_linked_asset_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5426105e9c22_png",
+      "doc_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies",
+      "parent_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__root",
+      "title": "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5426105e9c22.png",
+      "section_path": [
+        "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5426105e9c22.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5426105e9c22.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5426105e9c22.png\n\nLinked image asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5426105e9c22.png\n\nImage metadata: PNG 434x423 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nTimecharter Performance\n2025 Year-to-Date\nSTC me PST Cm SI0TC HSZTC\n140%\n120%\n100%\n80%\n60%\n40%\n20%\n0%\n-20%\n\"40%\n-60%\n1-Jan 1-Feb 1-Mar 1-Apr 1-May",
+      "keywords": [
+        "asset",
+        "image",
+        "apr",
+        "dpi",
+        "embedded",
+        "feb",
+        "hsztc",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 223,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__s05_linked_asset_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e8407e3805_png",
+      "doc_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies",
+      "parent_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__root",
+      "title": "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e8407e3805.png",
+      "section_path": [
+        "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e8407e3805.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e8407e3805.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e8407e3805.png\n\nLinked image asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_32e8407e3805.png\n\nImage metadata: PNG 396x398 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n5Y Secondhand Price Performance\n2025 Year-To-Date\n20%\n15%\n10%\n5%\n0%\n-5%\n-10%\n1-Jan 1-Feb 1-Mar 1-Apr 1-May\naeeCapesize -==Panamax e-=--Supramax",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "asset",
+        "image",
+        "aeecapesize",
+        "apr",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 219,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__s06_linked_asset_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db3c676a8534_png",
+      "doc_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies",
+      "parent_id": "breakwave_insights_insights_2025-05-13_2025_05_13_market_shifts_and_shippings_crosswinds_fixed_income_commodities_and_currencies__root",
+      "title": "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db3c676a8534.png",
+      "section_path": [
+        "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db3c676a8534.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db3c676a8534.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db3c676a8534.png\n\nLinked image asset: 2025-05-13_market-shifts-and-shippings-crosswinds-fixed-income-commodities-and-currencies_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_db3c676a8534.png\n\nImage metadata: PNG 411x398 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nUSD Performance\n2025 Year-To-Date\n--- USD/EUR - USD / CHF. -e USD / TWD\n--USD/JPY ----USD/KRW ---USD/ CNY\n2%\n0% Lis wt - Wy\nwR IG -- Fs Op) i\n-2% ) _\n~4% -- |\nof/ :\n\"6% {Ki\n-8% AN\nBA, NY\n-10% UN |\n~12%\n1-Jan 1-Feb 1-Mar 1-Apr 1-May",
+      "keywords": [
+        "usd",
+        "asset",
+        "image",
+        "apr",
+        "chf.",
+        "cny",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 267,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

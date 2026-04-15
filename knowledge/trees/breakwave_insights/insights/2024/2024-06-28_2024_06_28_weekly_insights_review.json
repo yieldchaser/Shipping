@@ -1,0 +1,454 @@
+{
+  "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+  "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+  "parent_id": null,
+  "title": "Weekly Insights Review",
+  "section_path": [
+    "Weekly Insights Review"
+  ],
+  "section_path_text": "Weekly Insights Review",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Read here everything you need to know\nVolatility Declines as Spot Rates Remain Rangebound - Not much has changed over the past fortnight, as Capesize spot rates hover in the mid/low-20,000s range and the futures curve remains relatively flat to spot. Read More\nImage reference: Στιγμιότυπο οθόνης 2024-06-25 122324.png | assets/2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0721b611ce5.png\nImage reference: image-asset.jpeg | assets/2024-06-28_weekly-insights-review_img_image-asset_48bed0909e23.jpeg\nDoric Weekly Market Insight\nIn a positive week for the spot market, the Baltic Dry Index closed just below 2000 points today. Read More\nImage reference: image-asset (1).jpeg | assets/2024-06-28_weekly-insights-review_img_image-asset28129_48a127e78212.jpeg\nFrom Commodore's Weekly Dry Bulk Reports\nThe most recently released nation-specific import data shows that in April China imported 17.8 million tons of coal from Indonesia.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "aframax",
+    "china",
+    "meg",
+    "europe",
+    "iron_ore",
+    "coal",
+    "crude_oil",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 25270,
+  "source_path": "reports/breakwave/2024/2024-06-28_weekly-insights-review.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/6/28/weekly-insights-review",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s01_read_here_everything_you_need_to_know",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Read here everything you need to know",
+      "section_path": [
+        "Read here everything you need to know"
+      ],
+      "section_path_text": "Read here everything you need to know",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Volatility Declines as Spot Rates Remain Rangebound - Not much has changed over the past fortnight, as Capesize spot rates hover in the mid/low-20,000s range and the futures curve remains relatively flat to spot. Read More\nImage reference: Στιγμιότυπο οθόνης 2024-06-25 122324.png | assets/2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0721b611ce5.png\nImage reference: image-asset.jpeg | assets/2024-06-28_weekly-insights-review_img_image-asset_48bed0909e23.jpeg\nDoric Weekly Market Insight\nIn a positive week for the spot market, the Baltic Dry Index closed just below 2000 points today.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "aframax",
+        "china",
+        "europe",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1174,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s02_linked_asset_2024_06_28_weekly_insights_review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0721b611ce5_png",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0721b611ce5.png",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0721b611ce5.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0721b611ce5.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0721b611ce5.png\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f0721b611ce5.png\n\nImage metadata: PNG 1005x237 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDry Bulk Shipping\nBreakwave Dry Futures Index: 2,028 Baltic Dry Index (spot): 1,997 Short-term Indicators:\nv 30D: -2.5% % «30D: 11.1% Momentum:\n+t YTD: 35.3% wv YTD: -4.6% Sentiment:\nt YOY: 41.7% ® = YOY: 61.0% Fundamentals: Negative",
+      "keywords": [
+        "asset",
+        "image",
+        "yoy",
+        "ytd",
+        "dpi",
+        "embedded",
+        "fundamentals",
+        "indicators"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s03_linked_asset_2024_06_28_weekly_insights_review_img_image_asset_48bed0909e23_jpeg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset_48bed0909e23.jpeg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset_48bed0909e23.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset_48bed0909e23.jpeg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_image-asset_48bed0909e23.jpeg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_image-asset_48bed0909e23.jpeg\n\nImage metadata: JPEG 2500x1665 mode=RGB\n\nOCR text:\nRELL Sacre Lee Seg Lach us eR REY Oo ah BeOS eM peer ane BSE Bat ED See Mey a hacks pennant eel weir Prt Wey cose sho taint AlN cameo eRe en hoo nvecmanP en BOW ve Ned /mmty ch WENO NGA, ode Wigton eb hl ponents tea = lal fall Mommie eM iy eet Zara ‘Lye te eed Me ks lt cde Le ete Sl lwrrow el Lat tte meee Reh bt Pe Sons Nhat CaaS ud Cie wal Mom See nies BoE UN tomate Ro ES Shearer Ree PUN BoP MU g apes ae Rts NGC W EE MERC At ad ng 4 AS rN & coed! Ne aS RR ee ek PY (eis 2 LL BEY a hes CS\nRRR ti apace CN ee eS aS AEG Ut SIESTA NN asks tes ea ge Va ah eat Sas 2 sera Uae Nao Mee WIN UN oe RSS eg ON ei ta aL se gee EZORLAGT esos Steels apetlg ate agus Salen ce NaS 2 creeping es AEs ance ce al Sea eRe a eS a ON etree een a CT\neresitat SAN cae pesen a Roce aeies Ea leer ke See clpaelaus teeny cay ae ay sen ES te Dg Fen cas Ves hea 2 oA Cr Pps ng eR Re a Ue aT SR VST fe cn NEA eee hee Dae Sen RMS sn ately 2 ekesee hese la Nisa appa aecebae ",
+      "keywords": [
+        "steel",
+        "eee",
+        "eae",
+        "see",
+        "ete",
+        "aes",
+        "ere",
+        "hee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2257,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s04_linked_asset_2024_06_28_weekly_insights_review_img_image_asset28129_48a127e78212_jpeg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28129_48a127e78212.jpeg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28129_48a127e78212.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28129_48a127e78212.jpeg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_image-asset28129_48a127e78212.jpeg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_image-asset28129_48a127e78212.jpeg\n\nImage metadata: JPEG 2500x1667 mode=RGB\n\nOCR text:\n* =~ : , ts pe) & ‘\n_ 7 _- : ons 5\n> ae a oe oF a oe. 7 ee tn\nie LS re AL eed ; PO ,\na ar.",
+      "keywords": [
+        "meg",
+        "gas",
+        "eee",
+        "eae",
+        "pee",
+        "aes",
+        "ees",
+        "ere"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4076,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s05_linked_asset_2024_06_28_weekly_insights_review_img_image_asset_18d684093913_jpeg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset_18d684093913.jpeg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset_18d684093913.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset_18d684093913.jpeg",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_image-asset_18d684093913.jpeg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_image-asset_18d684093913.jpeg\n\nImage metadata: JPEG 2500x1667 mode=RGB\n\nOCR text:\nca =\nas fe i \"4 F ‘ ' Bs eres Bea SS cnpaiees ~~\nP : alee thy tly a , : : } BO og aa i. ~\" ‘~~ |\neet ; ee Se ike e .",
+      "keywords": [
+        "crude_oil",
+        "steel",
+        "eee",
+        "eae",
+        "see",
+        "aes",
+        "aaa",
+        "rae"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 3914,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s06_linked_asset_2024_06_28_weekly_insights_review_img_image_asset28229_862c316cc8ae_jpeg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28229_862c316cc8ae.jpeg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28229_862c316cc8ae.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28229_862c316cc8ae.jpeg",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_image-asset28229_862c316cc8ae.jpeg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_image-asset28229_862c316cc8ae.jpeg\n\nImage metadata: JPEG 2500x1667 mode=RGB\n\nOCR text:\n. ' ie -\n\" Bet | YY Pir\n.",
+      "keywords": [
+        "asset",
+        "image",
+        "bet",
+        "eases",
+        "foant",
+        "ies",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s07_linked_asset_2024_06_28_weekly_insights_review_img_unsplash_image_0iv9lmpdn0_9c1a84ae34e4_jpg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_unsplash-image-0iv9lmpdn0_9c1a84ae34e4.jpg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_unsplash-image-0iv9lmpdn0_9c1a84ae34e4.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_unsplash-image-0iv9lmpdn0_9c1a84ae34e4.jpg",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_unsplash-image-0iv9lmpdn0_9c1a84ae34e4.jpg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_unsplash-image-0iv9lmpdn0_9c1a84ae34e4.jpg\n\nImage metadata: JPEG 1080x608 mode=RGB\n\nOCR text:\nZan\ni a ab ie\neh =",
+      "keywords": [
+        "asset",
+        "image",
+        "jpeg",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr",
+        "reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_unsplash-image-0iv9lmpdn0_9c1a84ae34e4.jpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 113,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s08_linked_asset_2024_06_28_weekly_insights_review_img_image_asset28329_afa3197d25ce_jpeg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28329_afa3197d25ce.jpeg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28329_afa3197d25ce.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28329_afa3197d25ce.jpeg",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_image-asset28329_afa3197d25ce.jpeg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_image-asset28329_afa3197d25ce.jpeg\n\nImage metadata: JPEG 2500x1875 mode=RGB\n\nOCR text:\n: - ‘ SSS : = : _ - - - -- Pian NO pe gran eA ST et ond eg Oe te\nen nae Se ee = PS ea = oan wo SS RE ag tee mens eT) Soe aS Se a ae 3 Cag ee ee ‘ iS BOL S Pe = gre a -\nist sts a zn Reeve SIS SSS ae dg he oS SSeS a ee ee Fe Ia SOC ST A TES TNE ete baa ea gn eg ee ae te\n= eater eee Saige in, BERG OE el 7 Pao WS ae - = - o~ nox\no eS Pai ape hE DE EEE SIO\n--\n. ype\" - maa, TF oe =e ;\nws ~~ a\n3 ' j\ni\n: 2 a inp hes - .",
+      "keywords": [
+        "capesize",
+        "gas",
+        "eee",
+        "sss",
+        "see",
+        "soe",
+        "ete",
+        "sees"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1484,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s09_linked_asset_2024_06_28_weekly_insights_review_img_image_asset28429_d56e025c35a5_jpeg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28429_d56e025c35a5.jpeg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28429_d56e025c35a5.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28429_d56e025c35a5.jpeg",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_image-asset28429_d56e025c35a5.jpeg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_image-asset28429_d56e025c35a5.jpeg\n\nImage metadata: JPEG 2500x1667 mode=RGB\n\nOCR text:\nau ae Pesos Ss\nes 2,\npte ORE Sees oa\na eee\ncap pe Ee\n= fee AE eae :\ness nical I\n. Og SS eS a ee\naes irra a Wart .",
+      "keywords": [
+        "sss",
+        "eee",
+        "see",
+        "s",
+        "sses",
+        "asset",
+        "eae",
+        "een"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2264,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s10_linked_asset_2024_06_28_weekly_insights_review_img_image_asset28529_a92e9d0f8e77_jpeg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28529_a92e9d0f8e77.jpeg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28529_a92e9d0f8e77.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28529_a92e9d0f8e77.jpeg",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_image-asset28529_a92e9d0f8e77.jpeg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_image-asset28529_a92e9d0f8e77.jpeg\n\nImage metadata: JPEG 2500x1667 mode=RGB\n\nOCR text:\n- > ag »\n7, NEAL NTS ety\n) % SS isis:\n\" Yen wel -\n: ee \\ a \\ F Ny a\" as\n\\ ~ wll q : _ES Fa Ae ie | ons\n. | Y, P| BN cy OW\nA | = i) \" ji- MWR -\n: .",
+      "keywords": [
+        "ass",
+        "asset",
+        "image",
+        "aalt",
+        "aay",
+        "aes",
+        "aie",
+        "ant"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1419,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s11_linked_asset_2024_06_28_weekly_insights_review_img_011_ff9ed2d49e46_jpg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_011_ff9ed2d49e46.jpg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_011_ff9ed2d49e46.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_011_ff9ed2d49e46.jpg",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_011_ff9ed2d49e46.jpg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_011_ff9ed2d49e46.jpg\n\nImage metadata: JPEG 2500x1875 mode=RGB\n\nOCR text:\n: = = : a5 : a - SSS ee ee = : {\n- = . : - - = Saat <= - -- -S SS -- = ~-- = : a\n: = .",
+      "keywords": [
+        "meg",
+        "gas",
+        "sss",
+        "eee",
+        "see",
+        "ses",
+        "ees",
+        "pee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 4009,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s12_linked_asset_2024_06_28_weekly_insights_review_img_pexels_rafid_sahrear_480671561_19302_a2417b883c40_jpg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_pexels-rafid-sahrear-480671561-19302_a2417b883c40.jpg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_pexels-rafid-sahrear-480671561-19302_a2417b883c40.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_pexels-rafid-sahrear-480671561-19302_a2417b883c40.jpg",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_pexels-rafid-sahrear-480671561-19302_a2417b883c40.jpg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_pexels-rafid-sahrear-480671561-19302_a2417b883c40.jpg\n\nImage metadata: JPEG 2500x1875 mode=RGB\n\nOCR text:\n, ‘ ®. ' ee bac\nf 5 2g eS ea an pi eae ies ro ee Oat et Pes 7S cate rah a pie ea is se sop baie Ja ree Psa eo Soere a Pe \"= sia een oh i a sia a ears Vi alias SUSE Soha eee ate\na aa a i Rie erate ey sii Se alam ee Pak iis ue sae La some a aE Pera oer oetss ih em al Ue = aN A a ee as Bei Oh ee, epee Ver ne aoe - <i aad i Baie ca seed a Bs Tne es ee iy ee r = ies 3\n: = : .",
+      "keywords": [
+        "aoe",
+        "asset",
+        "baie",
+        "eae",
+        "eee",
+        "ies",
+        "image",
+        "nee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 758,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s13_linked_asset_2024_06_28_weekly_insights_review_img_image_asset28629_fc6f9e83c7d5_jpeg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28629_fc6f9e83c7d5.jpeg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28629_fc6f9e83c7d5.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28629_fc6f9e83c7d5.jpeg",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_image-asset28629_fc6f9e83c7d5.jpeg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_image-asset28629_fc6f9e83c7d5.jpeg\n\nImage metadata: JPEG 2500x1667 mode=RGB\n\nOCR text:\n*\n\"\n; : ia! NET pe Salty\n‘= = a - VI T.",
+      "keywords": [
+        "eee",
+        "asset",
+        "bee",
+        "eae",
+        "ene",
+        "image",
+        "see",
+        "aay"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 866,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s14_linked_asset_2024_06_28_weekly_insights_review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fbc6e2c202b_png",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fbc6e2c202b.png",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fbc6e2c202b.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fbc6e2c202b.png",
+      "level": 1,
+      "ordinal": 14,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fbc6e2c202b.png\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1fbc6e2c202b.png\n\nImage metadata: PNG 308x189 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "info",
+        "linked",
+        "metadata",
+        "mode"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__s15_linked_asset_2024_06_28_weekly_insights_review_img_image_asset28729_bb98113a85de_jpeg",
+      "doc_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review",
+      "parent_id": "breakwave_insights_insights_2024-06-28_2024_06_28_weekly_insights_review__root",
+      "title": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28729_bb98113a85de.jpeg",
+      "section_path": [
+        "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28729_bb98113a85de.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2024-06-28_weekly-insights-review_img_image-asset28729_bb98113a85de.jpeg",
+      "level": 1,
+      "ordinal": 15,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-28_weekly-insights-review_img_image-asset28729_bb98113a85de.jpeg\n\nLinked image asset: 2024-06-28_weekly-insights-review_img_image-asset28729_bb98113a85de.jpeg\n\nImage metadata: JPEG 2500x1667 mode=RGB\n\nOCR text:\n; - ‘ ‘ bet is - . ‘ : i : : ‘ ;\n‘ ‘ ‘ ‘ ‘ SUNS ‘s : ‘ .",
+      "keywords": [
+        "meg",
+        "eee",
+        "res",
+        "eae",
+        "ere",
+        "nee",
+        "pee",
+        "ais"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1890,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

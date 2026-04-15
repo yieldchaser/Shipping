@@ -1,0 +1,286 @@
+{
+  "node_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__root",
+  "doc_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs",
+  "parent_id": null,
+  "title": "Eyes on borrowing costs",
+  "section_path": [
+    "Eyes on borrowing costs"
+  ],
+  "section_path_text": "Eyes on borrowing costs",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe three things investors should know about this week. US equities continued to rebound, but US borrowing costs rise as investors are getting more worried about inflation. Moody's became the third credit rating agency to strip the US of its perfect AAA status, due to concerns about growth and debt.",
+  "keywords": [
+    "meg",
+    "europe",
+    "crude_oil",
+    "gas",
+    "asset",
+    "image",
+    "linked",
+    "are",
+    "source",
+    "but",
+    "inflation",
+    "borrowing"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3467,
+  "source_path": "reports/breakwave/2025/2025-05-20_eyes-on-borrowing-costs.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/5/20/eyes-on-borrowing-costs",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs",
+      "parent_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The three things investors should know about this week. US equities continued to rebound, but US borrowing costs rise as investors are getting more worried about inflation.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "are",
+        "but",
+        "borrowing",
+        "could",
+        "costs",
+        "inflation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1656,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__s02_linked_asset_2025_05_20_eyes_on_borrowing_costs_img_image009_4777d08113c4_jpg",
+      "doc_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs",
+      "parent_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__root",
+      "title": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image009_4777d08113c4.jpg",
+      "section_path": [
+        "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image009_4777d08113c4.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image009_4777d08113c4.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image009_4777d08113c4.jpg\n\nLinked image asset: 2025-05-20_eyes-on-borrowing-costs_img_image009_4777d08113c4.jpg\n\nImage metadata: JPEG 800x476 mode=RGB\n\nOCR text:\nEquity performance picks up, as bonds stall\n%, USD, YTD\n108\n106\n108\n102\n100\n8\n6\n8\n32\n*\n8\nFt oF ot FP PP oF ot oft of of ot ot *\nsal Eques 427% Global Sond 4.24%\n‘Source: Bloomberg, Forvis Mazars calculstions wits",
+      "keywords": [
+        "asset",
+        "image",
+        "source",
+        "bloomberg",
+        "bonds",
+        "calculstions",
+        "eques",
+        "equity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 167,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__s03_linked_asset_2025_05_20_eyes_on_borrowing_costs_img_image010_43be6ce952c5_jpg",
+      "doc_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs",
+      "parent_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__root",
+      "title": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image010_43be6ce952c5.jpg",
+      "section_path": [
+        "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image010_43be6ce952c5.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image010_43be6ce952c5.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image010_43be6ce952c5.jpg\n\nLinked image asset: 2025-05-20_eyes-on-borrowing-costs_img_image010_43be6ce952c5.jpg\n\nImage metadata: JPEG 833x515 mode=RGB\n\nOCR text:\nUS yields higher, especially long term\n% Yield\nss\ns\n45\n+\nas\nF GE le\nPP PP PP DD Pd dP Po PD Pp dP oD ow\nSKK HK KK MK KF HK CK KK KF FM eK KE\n-usioys41 -usey 294\n‘Souroe: Bloomberg, Fors Mazars cleultions nf IMS",
+      "keywords": [
+        "asset",
+        "image",
+        "bloomberg",
+        "cleultions",
+        "especially",
+        "eyes-on-borrowing-costs_img_image010_43be6ce952c5.jpg",
+        "fors",
+        "higher"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__s04_linked_asset_2025_05_20_eyes_on_borrowing_costs_img_image011_960e599a2375_jpg",
+      "doc_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs",
+      "parent_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__root",
+      "title": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image011_960e599a2375.jpg",
+      "section_path": [
+        "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image011_960e599a2375.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image011_960e599a2375.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image011_960e599a2375.jpg\n\nLinked image asset: 2025-05-20_eyes-on-borrowing-costs_img_image011_960e599a2375.jpg\n\nImage metadata: JPEG 860x539 mode=RGB\n\nOCR text:\nUS CPI slows to 2.3%\nYoY, %\n45\n4\n35\n3\n> A DD DD ah ph Dh Dh mh aD gh ah DP Dd DP PO OD OH\nPD Pm PD Ph ah hh oh ah oh Dh DD ot ob ot\ngv s J Y ¥ é J og\nKKK HK MKF MF CHK KM KK MF HK VF KE YW ¥\nmms US CPI Urban Consumers YOYNSA=2.3. -===-LT average (1914)-3.28\n‘Source: Bloomberg, Forvis Mazars calculations.",
+      "keywords": [
+        "asset",
+        "cpi",
+        "image",
+        "mazars",
+        "source",
+        "average",
+        "bloomberg",
+        "calculations."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__s05_linked_asset_2025_05_20_eyes_on_borrowing_costs_img_image012_e4437677b141_jpg",
+      "doc_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs",
+      "parent_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__root",
+      "title": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image012_e4437677b141.jpg",
+      "section_path": [
+        "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image012_e4437677b141.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image012_e4437677b141.jpg",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image012_e4437677b141.jpg\n\nLinked image asset: 2025-05-20_eyes-on-borrowing-costs_img_image012_e4437677b141.jpg\n\nImage metadata: JPEG 809x487 mode=RGB\n\nOCR text:\nOil prices lower than the $70-$85\n$/bbI\n30\n85\n80\n75\n70\n65\nLt]\n55\nJan-24 Feb-24 Mar-24 Apr-24 May-24 fun-24 Jul-24 Avug-24 Sep-24 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25 Apr-25 May-25\nmms VT} Oilprice === Average=72.69\nSource: Bloomberg, Forvis Mazars calculstions forws\nmazars",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "mazars",
+        "source",
+        "apr-24",
+        "apr-25",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__s06_linked_asset_2025_05_20_eyes_on_borrowing_costs_img_image013_cb375174a2ed_jpg",
+      "doc_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs",
+      "parent_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__root",
+      "title": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image013_cb375174a2ed.jpg",
+      "section_path": [
+        "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image013_cb375174a2ed.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image013_cb375174a2ed.jpg",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image013_cb375174a2ed.jpg\n\nLinked image asset: 2025-05-20_eyes-on-borrowing-costs_img_image013_cb375174a2ed.jpg\n\nImage metadata: JPEG 820x533 mode=RGB\n\nOCR text:\nConsumers are worried inflation will pick up sharply\n%,Annual CPI Expectations\n3\n8\n7\n6\n5\n3 Wy 9 j NA! ‘a bade\nww An ‘wa ] | LWT Ay \"\n1\nt)\n‘9294 ‘96 98 00 02 04 06 ‘08 ‘10 12 14 \"16 18 20 22 24\nome Michigan ly Inflation Expectations=7.3 --< Michigan Sy Inflation Expectations=4.6\n=--= Con.",
+      "keywords": [
+        "inflation",
+        "expectations",
+        "asset",
+        "image",
+        "mazars",
+        "michigan",
+        "ome",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__s07_linked_asset_2025_05_20_eyes_on_borrowing_costs_img_image014_dd6f6ce50f76_jpg",
+      "doc_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs",
+      "parent_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__root",
+      "title": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image014_dd6f6ce50f76.jpg",
+      "section_path": [
+        "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image014_dd6f6ce50f76.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image014_dd6f6ce50f76.jpg",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image014_dd6f6ce50f76.jpg\n\nLinked image asset: 2025-05-20_eyes-on-borrowing-costs_img_image014_dd6f6ce50f76.jpg\n\nImage metadata: JPEG 873x543 mode=RGB\n\nOCR text:\nConsumer pessimism may be catching up with Retail Sales\n% Yield\n12 &\n& 2\nos i\n06\n~\nos\n6\n02\nPy\n°\n5\n02\n04 =\n06 «6\n08 re)\nPOD DP DD PDD dd Pe DPD Do PP oo Do\nSr KK TF KK KF HK CK KK KK SKK KE SF\n-Retad Sales Less Food Senvices Auto Dealers & Build Mat & Gas Station SA MoWie=-0.2 (LHS)\n‘University of Michigan Consumer Sentiment index=50.8 (RHS)\nSource: Bloomberg, Fors Mazers calculations nfStyls",
+      "keywords": [
+        "gas",
+        "asset",
+        "consumer",
+        "image",
+        "sales",
+        "source",
+        "auto",
+        "bloomberg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 221,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__s08_linked_asset_2025_05_20_eyes_on_borrowing_costs_img_image015_e1421478d5f1_jpg",
+      "doc_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs",
+      "parent_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__root",
+      "title": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image015_e1421478d5f1.jpg",
+      "section_path": [
+        "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image015_e1421478d5f1.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image015_e1421478d5f1.jpg",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image015_e1421478d5f1.jpg\n\nLinked image asset: 2025-05-20_eyes-on-borrowing-costs_img_image015_e1421478d5f1.jpg\n\nImage metadata: JPEG 826x515 mode=RGB\n\nOCR text:\nDollar rebounding\nTrade Weighted Dollar, Deutsche Bank\n100\n6\n90\n85\n80\n75\nPP DD DD DDD DDD PD DDD DP PP SP PD OO &\nSF PF KK PO KK PM KF PM KW PM FH PM CGF PW KH GF WM ye as\nme Trade Weighted Dolar = m= Average=87.13\nSource: Bloomberg, Forvis Mazers calcuistions forws\nmazars",
+      "keywords": [
+        "ddd",
+        "asset",
+        "dollar",
+        "image",
+        "source",
+        "trade",
+        "weighted",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__s09_linked_asset_2025_05_20_eyes_on_borrowing_costs_img_image016_aa0b7df0ac68_jpg",
+      "doc_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs",
+      "parent_id": "breakwave_insights_insights_2025-05-20_2025_05_20_eyes_on_borrowing_costs__root",
+      "title": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image016_aa0b7df0ac68.jpg",
+      "section_path": [
+        "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image016_aa0b7df0ac68.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-05-20_eyes-on-borrowing-costs_img_image016_aa0b7df0ac68.jpg",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-20_eyes-on-borrowing-costs_img_image016_aa0b7df0ac68.jpg\n\nLinked image asset: 2025-05-20_eyes-on-borrowing-costs_img_image016_aa0b7df0ac68.jpg\n\nImage metadata: JPEG 870x544 mode=RGB\n\nOCR text:\nUS and UK yields pull ahead of Europe\n% yield\n5\n\" ll re\n4\n35\n3\n---- iP\n2s Pee i\n2\nJan-25 Feb-25 Mar-25 Apr-25 May-25\n= Gold -= Trade Weighted Dollar -- Bunde g epublik Deutschland Bundesanieihe=2.59 vs average 2.56\nSource: Bloomberg.",
+      "keywords": [
+        "europe",
+        "asset",
+        "image",
+        "source",
+        "ahead",
+        "apr-25",
+        "average",
+        "bloomberg."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 181,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

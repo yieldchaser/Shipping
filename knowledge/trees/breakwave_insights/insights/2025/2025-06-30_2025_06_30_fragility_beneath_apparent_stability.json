@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability__root",
+  "doc_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability",
+  "parent_id": null,
+  "title": "Fragility Beneath Apparent Stability",
+  "section_path": [
+    "Fragility Beneath Apparent Stability"
+  ],
+  "section_path_text": "Fragility Beneath Apparent Stability",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nOil markets began the week on edge as fears mounted over a potential closure of the Strait of Hormuz following U.S. Brent crude futures briefly spiked to $81.40 per barrel on Monday, a five-month high, as geopolitical risk premiums surged in anticipation of Iranian retaliation. However, the market reaction quickly reversed.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "india",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "percent",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1806,
+  "source_path": "reports/breakwave/2025/2025-06-30_fragility-beneath-apparent-stability.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/6/30/fragility-beneath-apparent-stability",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability",
+      "parent_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nOil markets began the week on edge as fears mounted over a potential closure of the Strait of Hormuz following U.S. Brent crude futures briefly spiked to $81.40 per barrel on Monday, a five-month high, as geopolitical risk premiums surged in anticipation of Iranian retaliation.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "europe",
+        "india",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1273,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability__s02_linked_asset_2025_06_30_fragility_beneath_apparent_stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93_png",
+      "doc_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability",
+      "parent_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability__root",
+      "title": "Linked asset: 2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png",
+      "section_path": [
+        "Linked asset: 2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png"
+      ],
+      "section_path_text": "Linked asset: 2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png\n\nLinked image asset: 2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png\n\nImage metadata: PNG 398x201 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "dpi",
+        "embedded",
+        "fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1bb7e5736b93.png",
+        "info",
+        "linked",
+        "metadata"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability__s03_linked_asset_2025_06_30_fragility_beneath_apparent_stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940_png",
+      "doc_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability",
+      "parent_id": "breakwave_insights_insights_2025-06-30_2025_06_30_fragility_beneath_apparent_stability__root",
+      "title": "Linked asset: 2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png",
+      "section_path": [
+        "Linked asset: 2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png"
+      ],
+      "section_path_text": "Linked asset: 2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png\n\nLinked image asset: 2025-06-30_fragility-beneath-apparent-stability_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_48cc93f9c940.png\n\nImage metadata: PNG 837x306 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nCSTC: Baltic Capesize Timecharter Average Performance\n$50.000\n$45.000\n$40.000\n$35.000\n$30.000 A af)\nWS\n$25.000 fa ee =< cer , /\\ 4\nsan bs <j p/ a! he\n$15.000 \"§ Be\n$10.000\ney,\n$5.000\n$-\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\n= CTC Avg 2018-2020 = CSTC Avg 2021-2023 ---C5TC 2024 em CSTC 2025",
+      "keywords": [
+        "capesize",
+        "cstc",
+        "asset",
+        "avg",
+        "image",
+        "apr",
+        "aug",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 276,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

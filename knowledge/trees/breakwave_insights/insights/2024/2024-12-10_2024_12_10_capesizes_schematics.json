@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__root",
+  "doc_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics",
+  "parent_id": null,
+  "title": "Capesizes Schematics",
+  "section_path": [
+    "Capesizes Schematics"
+  ],
+  "section_path_text": "Capesizes Schematics",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2024-12-10_capesizes-schematics_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\nNewbuilding market\nImage reference: Στιγμιότυπο οθόνης 2024-12-10 113652.png | assets/2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee190e6c42ed.png\nBRS data shows a significant increase in the number of newbuilding orders for Capesizes in 2024. By end-November, 108 newbuilding orders were placed, 38% increase year-on-year. While there has been growing interest in lower emission dual-fuel technology, the volume of orders for such vessels remains limited.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "singapore",
+    "japan",
+    "asset",
+    "image",
+    "fleet",
+    "vessels",
+    "large-sized",
+    "linked"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2701,
+  "source_path": "reports/breakwave/2024/2024-12-10_capesizes-schematics.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/12/10/capesizes-schematics",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics",
+      "parent_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2024-12-10_capesizes-schematics_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\nNewbuilding market\nImage reference: Στιγμιότυπο οθόνης 2024-12-10 113652.png | assets/2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee190e6c42ed.png\nBRS data shows a significant increase in the number of newbuilding orders for Capesizes in 2024. By end-November, 108 newbuilding orders were placed, 38% increase year-on-year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "singapore",
+        "japan",
+        "vessels",
+        "fleet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1461,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__s02_linked_asset_2024_12_10_capesizes_schematics_img_rgb_color_brs_shipbrokers_monogram_l_ee79606c8e74_png",
+      "doc_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics",
+      "parent_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__root",
+      "title": "Linked asset: 2024-12-10_capesizes-schematics_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png",
+      "section_path": [
+        "Linked asset: 2024-12-10_capesizes-schematics_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-10_capesizes-schematics_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-10_capesizes-schematics_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\n\nLinked image asset: 2024-12-10_capesizes-schematics_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\n\nImage metadata: PNG 2500x2186 mode=RGBA\n\nEmbedded info:\ndpi: (299.9994, 299.9994)\n\n[No OCR text detected in linked image.]",
+      "keywords": [
+        "capesize",
+        "asset",
+        "image",
+        "linked",
+        "capesizes-schematics_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png",
+        "detected",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 125,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__s03_linked_asset_2024_12_10_capesizes_schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee190e6c42ed_png",
+      "doc_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics",
+      "parent_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__root",
+      "title": "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee190e6c42ed.png",
+      "section_path": [
+        "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee190e6c42ed.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee190e6c42ed.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee190e6c42ed.png\n\nLinked image asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ee190e6c42ed.png\n\nImage metadata: PNG 410x347 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nLarge-sized Fleet Newbuilding Sales and Price\nGam VLOC jm Capesize\nmms Small Cape mums BabyCape\nams OverPanamax em Capesize Newduilding Price\n30 1 74\n'\n1 72\n1\n25 70\n1\n220 68\n§ I 66\niS s\n9 15 645\nS a\ng 62\n1\n: 60\noa til :\nAle Lt\n0 . I l 54\nNWOAMM IMO HOM St tt st st +\npa a aad AG Gy\n3s e265 2S eS e2Bcy Ss ee\n= is) Cm a is) mo =\nAZ2SFrHFLS222782",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "asset",
+        "image",
+        "price",
+        "aad",
+        "ale",
+        "ams"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 295,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__s04_linked_asset_2024_12_10_capesizes_schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e04959399c30_png",
+      "doc_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics",
+      "parent_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__root",
+      "title": "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e04959399c30.png",
+      "section_path": [
+        "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e04959399c30.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e04959399c30.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e04959399c30.png\n\nLinked image asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e04959399c30.png\n\nImage metadata: PNG 422x332 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nLarge-sized Fleet Secondhand Sales and Price\njum LOC mmm Capesize Mmmm BabyCape\nmem OverPanamax mmm SmaliCape comme 5 yrs Cape\n60 1 70\n1\n1\n50 ! 60\n1\n50\n7 40 '\n= ' 40.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "asset",
+        "image",
+        "mmm",
+        "babycape",
+        "cape",
+        "capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e04959399c30.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 238,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__s05_linked_asset_2024_12_10_capesizes_schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cfc2bd7b816_png",
+      "doc_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics",
+      "parent_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__root",
+      "title": "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cfc2bd7b816.png",
+      "section_path": [
+        "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cfc2bd7b816.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cfc2bd7b816.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cfc2bd7b816.png\n\nLinked image asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cfc2bd7b816.png\n\nImage metadata: PNG 440x170 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "capesize",
+        "image",
+        "asset",
+        "capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cfc2bd7b816.png",
+        "dpi",
+        "embedded",
+        "info",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 147,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__s06_linked_asset_2024_12_10_capesizes_schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6dd2e288cba_png",
+      "doc_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics",
+      "parent_id": "breakwave_insights_insights_2024-12-10_2024_12_10_capesizes_schematics__root",
+      "title": "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6dd2e288cba.png",
+      "section_path": [
+        "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6dd2e288cba.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6dd2e288cba.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6dd2e288cba.png\n\nLinked image asset: 2024-12-10_capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6dd2e288cba.png\n\nImage metadata: PNG 412x348 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nLarge-sized Fleet Age Distribution and\nOrderbook\nm>25 years = 20 to 24 years 15 to 19 years\nw10 to 14 years m5 to 9 years mUnders 5 years\nOrderbook\n1400\n1200\n2 1000\ncs 800\n600\n400\n200\n_ i i",
+      "keywords": [
+        "capesize",
+        "years",
+        "asset",
+        "image",
+        "orderbook",
+        "age",
+        "capesizes-schematics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d6dd2e288cba.png",
+        "distribution"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 207,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

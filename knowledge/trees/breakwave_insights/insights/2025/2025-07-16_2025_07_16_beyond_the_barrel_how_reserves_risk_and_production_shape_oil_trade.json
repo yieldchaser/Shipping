@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-07-16_2025_07_16_beyond_the_barrel_how_reserves_risk_and_production_shape_oil_trade__root",
+  "doc_id": "breakwave_insights_insights_2025-07-16_2025_07_16_beyond_the_barrel_how_reserves_risk_and_production_shape_oil_trade",
+  "parent_id": null,
+  "title": "Beyond the Barrel: How Reserves, Risk, and Production Shape Oil Trade",
+  "section_path": [
+    "Beyond the Barrel: How Reserves, Risk, and Production Shape Oil Trade"
+  ],
+  "section_path_text": "Beyond the Barrel: How Reserves, Risk, and Production Shape Oil Trade",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Production\nIn energy economics, proven oil reserves refer to quantities of crude oil that geological and engineering data demonstrate with reasonable certainty to be recoverable under existing economic and operational conditions. Reserves should not be confused with production. While reserves represent potential, production refers to actual extraction volumes brought to market.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "india",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "barrels",
+    "reserves",
+    "oil",
+    "per"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1778,
+  "source_path": "reports/breakwave/2025/2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/7/16/beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-07-16_2025_07_16_beyond_the_barrel_how_reserves_risk_and_production_shape_oil_trade__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-07-16_2025_07_16_beyond_the_barrel_how_reserves_risk_and_production_shape_oil_trade",
+      "parent_id": "breakwave_insights_insights_2025-07-16_2025_07_16_beyond_the_barrel_how_reserves_risk_and_production_shape_oil_trade__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Production\nIn energy economics, proven oil reserves refer to quantities of crude oil that geological and engineering data demonstrate with reasonable certainty to be recoverable under existing economic and operational conditions. Reserves should not be confused with production.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "india",
+        "japan",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1491,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-07-16_2025_07_16_beyond_the_barrel_how_reserves_risk_and_production_shape_oil_trade__s02_linked_asset_2025_07_16_beyond_the_barrel_how_reserves_risk_and_production_shape_oil_trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dcbf976c58_png",
+      "doc_id": "breakwave_insights_insights_2025-07-16_2025_07_16_beyond_the_barrel_how_reserves_risk_and_production_shape_oil_trade",
+      "parent_id": "breakwave_insights_insights_2025-07-16_2025_07_16_beyond_the_barrel_how_reserves_risk_and_production_shape_oil_trade__root",
+      "title": "Linked asset: 2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dcbf976c58.png",
+      "section_path": [
+        "Linked asset: 2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dcbf976c58.png"
+      ],
+      "section_path_text": "Linked asset: 2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dcbf976c58.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dcbf976c58.png\n\nLinked image asset: 2025-07-16_beyond-the-barrel-how-reserves-risk-and-production-shape-oil-trade_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dcbf976c58.png\n\nImage metadata: PNG 412x494 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nTop-Ranked Countries by\nGlobal Proven Oil Reserves\n(End-2024 Estimates)\nVenezuela 303\nSaudi Arabia 267\nIran 209\nCanada 171\nIraq 145\nUAE 113\nUAE 113\nData Source: Population Review,\nBarchart.com\nEIA-U.S.",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "source",
+        "uae",
+        "administration",
+        "arabia",
+        "barchart.com"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 227,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

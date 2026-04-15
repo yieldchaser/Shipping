@@ -1,0 +1,342 @@
+{
+  "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+  "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+  "parent_id": null,
+  "title": "VLCC Dirty Tonne Days",
+  "section_path": [
+    "VLCC Dirty Tonne Days"
+  ],
+  "section_path_text": "VLCC Dirty Tonne Days",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 10, 6 March, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-03-07 162952.png | assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9.png\nSluggish VLCC Growth Amid Geopolitical Uncertainty\nThe VLCC dirty tonne-days segment has experienced a significant decline since the beginning of 2025, marking one of the weakest growth phases in recent years. As shown in the left chart, 2025's trajectory (blue line) is well below 2023 and 2024 levels, with tonne-days consistently trending downward. This decline aligns with the evolving energy landscape, particularly in response to recent Trump administration decisions, which have reshaped global crude oil trade patterns.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5739,
+  "source_path": "reports/breakwave/2025/2025-03-07_vlcc-dirty-tonne-days.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/3/7/vlcc-dirty-tonne-days",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 10, 6 March, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-03-07 162952.png | assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9.png\nSluggish VLCC Growth Amid Geopolitical Uncertainty\nThe VLCC dirty tonne-days segment has experienced a significant decline since the beginning of 2025, marking one of the weakest growth phases in recent years. As shown in the left chart, 2025's trajectory (blue line) is well below 2023 and 2024 levels, with tonne-days consistently trending downward.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "meg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1983,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s02_linked_asset_2025_03_07_vlcc_dirty_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9_png",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9.png",
+      "section_path": [
+        "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9.png\n\nLinked image asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b62eaa4a71e9.png\n\nImage metadata: PNG 647x445 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChart of the Week: VLCC Dirty Tonne Days\nThis week's focus is on the evolution of dirty tonne-day growth and its impact on the AG-\nChina route. VLCC Dirty Tonne Days VLCC Dirty Tonne Days AG-China\nTonne Days TIC Cety Z7CK Mente East Gut to Chine OWS)\nH\ns i z\nrake a !",
+      "keywords": [
+        "vlcc",
+        "china",
+        "days",
+        "dirty",
+        "tonne",
+        "asset",
+        "image",
+        "ag"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 289,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s03_linked_asset_2025_03_07_vlcc_dirty_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a6211b14692_png",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a6211b14692.png",
+      "section_path": [
+        "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a6211b14692.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a6211b14692.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a6211b14692.png\n\nLinked image asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5a6211b14692.png\n\nImage metadata: PNG 657x513 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMarket Rates (WS)\n‘Dirty' WS - Weaker\nVLCC - Suezmax - Aframax\nWeekly Trends, WS Dirty Rates\nWB VLCC MEG/China @ Suez WAfr to Cont Wl Suez Baltic Med Afra Med\n250\n200\ny\n= 150\na\n100 eNO Nee\na el\n0\nco N zt © eo o N zs © oe i=] nN zs o --] oS N = o o =] nN N sz o ose\n= = = = = N Nn N N Nn m m bial bad m =z < a vt w yw = = = = =\nESE 33 33 333353353 533233 325R FF FE\nSS SSSESBSESBESBESSBSBESSEBSBESSEESBSEBESBSEEKRKRKRS\nN N N N N Nn N N N N N N N N N N N N N N N N Nn",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "asset",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 356,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s04_linked_asset_2025_03_07_vlcc_dirty_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ea364ba97c2f_png",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ea364ba97c2f.png",
+      "section_path": [
+        "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ea364ba97c2f.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ea364ba97c2f.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ea364ba97c2f.png\n\nLinked image asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ea364ba97c2f.png\n\nImage metadata: PNG 658x443 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Product' WS\nLR2 Steady\nWeekly Trends Clean LR2\n300\n250\n2\n= 200\nre\n=\n= 150\n2\n100\n50\ni)\nSNHESERRTRRERRBSSEKRBERESRSRREEEEES\nSSSEESE S533 3323533533 53553533535 5 FF 8\nsrssests Fs ts FS Fs FS Sseteses#stess sts ss Ss Ss Ss FS TFA NNN\nssSXSsSSBSESBSSEBESBSRSESPSSSPSS SS SSSSRRRES\nRLERKRKRKKRKRRKEKKKKKKKKKKKEKR &",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "lr2",
+        "clean",
+        "dpi",
+        "embedded",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 289,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s05_linked_asset_2025_03_07_vlcc_dirty_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5929385647a6_png",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5929385647a6.png",
+      "section_path": [
+        "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5929385647a6.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5929385647a6.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5929385647a6.png\n\nLinked image asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5929385647a6.png\n\nImage metadata: PNG 656x403 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nLR1 Firmer\nWeekly Trends Clean Panamax\n600\n500\n2 200\n£\n2\n& 300\n2\n200\n100\n0\non fF ©' ees fs ve fees ss © ees sts @agegrns ss + gs fs\nSESS SE8S8B SSB SBSBSBSBSSBSBSBEBEBEBE BERK HK HK ES\nrr rr ts fF FF FTsertesrtertere FF FT FT Fe Fe FTF TFT TF FN NN HK YH\nNao wvNenenennnnennnesnan se he Bee eemhmUmcrhUcr rR Uc rrlUcr DUC OOCUCOlUDNNMD\nSX SRF RRRKRKRRRRKRKRKRRRKRKRKRKRRNNNN GS",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "asset",
+        "ees",
+        "image",
+        "agegrns",
+        "bee",
+        "berk"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 313,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s06_linked_asset_2025_03_07_vlcc_dirty_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f95c82ba6f8_png",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f95c82ba6f8.png",
+      "section_path": [
+        "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f95c82ba6f8.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f95c82ba6f8.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f95c82ba6f8.png\n\nLinked image asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5f95c82ba6f8.png\n\nImage metadata: PNG 648x591 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nMR Weaker\nWeekly Trends Clean MR\ni MR1 Baltic/UKC I MR2 Cont/USAC i MR2 USG/Cont\n400\n300\ng\n& 200\n100\n0\n400\n300\nNr\n100\n0\nSSSLSSLLSEKSKRBSERERBSELSESSRSLELER\nSSESSSESSSSSSSSSSSSSSSESS ESSE\nrriwrererTereresrteteresrseste re te ts Fs FF Ftrserterererenennn ww\nNA WY NAONKNENeNKNNKEeRENHEeRNENREOIR ON ORC UcNRCUcUINRCUcUNCUC NCUNCOOCUcUWCOUOCUCOUCOCOUWNMD\nSRSSSRSRRERSRSRSKSEKRKKRKFEKRKRRSEKKREK NF FAB",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "clean",
+        "image",
+        "mr2",
+        "baltic/ukc",
+        "cont/usac",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 341,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s07_linked_asset_2025_03_07_vlcc_dirty_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9f202cc8120_png",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9f202cc8120.png",
+      "section_path": [
+        "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9f202cc8120.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9f202cc8120.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9f202cc8120.png\n\nLinked image asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d9f202cc8120.png\n\nImage metadata: PNG 661x570 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Dirty' (# vessels) - Mixed\ng\n~ 100\n£\n2 80 Average a a ---\ns) > OS, tee > ee, Se\nS 60 Se L ome |\n>\n5 2 X\n= \\ A m \\ ~,\n= 60 Average \\ a aasoanna=5 > ee\n3 \\/ rl\n40 -\n20\nz\n=\n£ 10 Average \"\\ S i [oy $e = == === ~~~ ~~~ --\na, ny QS\ntr)\n50\n3\n= 40\n© Average [NUA /\\\n<\n20\non <= oc 2 o N st e 2 4 N sz J o Ss nN z © o 4 N N s © i\") cs\na had hal bead N N N N N baal mM \" m mm s s s s s Y y = = = = Pal\nS522 23223 2322322232233 3232322322322322322257%35332\nss A < s a ss < A < = = ss << < A << << A xv &¥ BY nv\nvn Ny x N XN x Xx nN XN NX Nx x nx NX NX Xx nN x nN x x N So 3 So So xX\nosc =} cs cs o cs o =) co o oc oc o oc os o cs So i=} i=} oc N N N N cs\nPERSRRRKREKRKKRKRRRKERKRRRKRRR g",
+      "keywords": [
+        "vlcc",
+        "average",
+        "asset",
+        "image",
+        "aasoanna",
+        "baal",
+        "bead",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 457,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s08_linked_asset_2025_03_07_vlcc_dirty_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87fcbe887b95_png",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87fcbe887b95.png",
+      "section_path": [
+        "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87fcbe887b95.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87fcbe887b95.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87fcbe887b95.png\n\nLinked image asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_87fcbe887b95.png\n\nImage metadata: PNG 658x406 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nLR2 (#vessels) - Decreasing\n30\n25\n20\n2\nx\n315\nAverage [\\ [\\ A\n\"Ae LJ Y\n5\nSsekSsSSeeeesegsesessesre<gsgssgeegesg\nSSzES22222 22222 2222222222C€C5R50R 2 =\nst ss s Ss #s Ss Ss Ss Ss Ss Ss Ss Fs Ss se SseSeSeEeSEeHNREeoNV ¥\nwa nenesanssesegexses 8S 8S BeasaeseHeHANeHNeSHeSHeHSeHKReHKHSESVPesese 8\nesc ceo eseeseesegeeesgceseseeseseseseesgeeseseseseeseseseegegqves NS WN ©\nNN NN NNN NN NNN NONOONCOCUNCCUCUNCUCUCUNONOUNUN UN N",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "nnn",
+        "average",
+        "beasaesehehanehnesheshehsehkrehkhsesvpesese",
+        "c5r50r",
+        "ceo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 350,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s09_linked_asset_2025_03_07_vlcc_dirty_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f51e09a5fa56_png",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f51e09a5fa56.png",
+      "section_path": [
+        "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f51e09a5fa56.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f51e09a5fa56.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f51e09a5fa56.png\n\nLinked image asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f51e09a5fa56.png\n\nImage metadata: PNG 664x390 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMR (#vessels) - Increasing\n8 40\n3\n% averag __f\\ ALN -- rAL\\ ~-f-\\ fs. 3 ' J \\ y\n30\ng VX | U V\n20\n60\n' A\n© 40 a Oe ---s ey An ey aa\nBo Nerben 7 V7 NN\n2 v-V\n2 20\nSSELSLELSEKSRSRESSRRSLSLSRRESEEER\nSS SESS S53 53 33533353553 535355357 FF FF 5\ns+ = &=S &S Ss FS FS FS SF FS FSF FS FS SF FS FS SSF SF SF FEHR NHANN LF\nwo nessa gs evseasass 8S NBHNeHHKRH NRHN NX\nRERRRRRERSRRSRSRSRRRRRR RRR SS BHR",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "aln",
+        "averag",
+        "bhr",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 331,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s10_linked_asset_2025_03_07_vlcc_dirty_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77a28bccacc9_png",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77a28bccacc9.png",
+      "section_path": [
+        "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77a28bccacc9.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77a28bccacc9.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77a28bccacc9.png\n\nLinked image asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_77a28bccacc9.png\n\nImage metadata: PNG 650x494 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND (Tonne Days)\n‘Dirty' Mixed\nDirty Tonne Days - % Growth\n100%\n>\n90%\nyy 10%\n3 100%\n105%\npon\nE ost Averag®\n90%",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "days",
+        "dirty",
+        "image",
+        "tonne",
+        "averag",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__s11_linked_asset_2025_03_07_vlcc_dirty_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ee59f993eda_png",
+      "doc_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days",
+      "parent_id": "breakwave_insights_insights_2025-03-07_2025_03_07_vlcc_dirty_tonne_days__root",
+      "title": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ee59f993eda.png",
+      "section_path": [
+        "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ee59f993eda.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ee59f993eda.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ee59f993eda.png\n\nLinked image asset: 2025-03-07_vlcc-dirty-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7ee59f993eda.png\n\nImage metadata: PNG 657x470 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘ , i\nClean' Decreasing\n120%\né\n2\nF 100% spe\ng\ns\n2\nE so\n110%\n;\n3 105%\ne Averag\n&\n8\nee. = 100%\n110%\n$\n5 105%\nSo\n&\n% 100% Average\n5\n= ose\n= 95%\nexsesea2eaunseeenseeexvgsee2enu e828\nSNESHEREERERRBSERBSRSERSRRLERERB\nSSE22 F222 2222 SEBEBBPBPBPBEBPBPBEBR RR RE\nSSSEESEESEESEESERSESEEEETESESE SEER\nss SS 5S 5S Ss SF SF SF F&F SF SF SEsSsSKEeKEeHeE KEKE SE KeEAR AAR AN S\nRRERRRERERERERRERRE RRR RR RR RRR R",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "rrr",
+        "aar",
+        "averag",
+        "average",
+        "clean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 344,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

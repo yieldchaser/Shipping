@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__root",
+  "doc_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports",
+  "parent_id": null,
+  "title": "Strength in Chinese Coal Imports",
+  "section_path": [
+    "Strength in Chinese Coal Imports"
+  ],
+  "section_path_text": "Strength in Chinese Coal Imports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed for clients earlier last month, China's coal imports in November totaled a record 55 million tons. Import data by source is now available and shows that imports from Indonesia totaled 25.6 million tons. This has marked the largest volume seen since December 2020.",
+  "keywords": [
+    "china",
+    "australia",
+    "coal",
+    "asset",
+    "image",
+    "linked",
+    "imports",
+    "million",
+    "source",
+    "totaled",
+    "chart",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 974,
+  "source_path": "reports/breakwave/2025/2025-01-02_strength-in-chinese-coal-imports.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/1/2/strength-in-chinese-coal-imports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports",
+      "parent_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed for clients earlier last month, China's coal imports in November totaled a record 55 million tons. Import data by source is now available and shows that imports from Indonesia totaled 25.6 million tons.",
+      "keywords": [
+        "china",
+        "australia",
+        "coal",
+        "million",
+        "totaled",
+        "chart",
+        "image",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__s02_linked_asset_2025_01_02_strength_in_chinese_coal_imports_img_chart1_6d5a6fb591f0_jpg",
+      "doc_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports",
+      "parent_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__root",
+      "title": "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart1_6d5a6fb591f0.jpg",
+      "section_path": [
+        "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart1_6d5a6fb591f0.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart1_6d5a6fb591f0.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-01-02_strength-in-chinese-coal-imports_img_chart1_6d5a6fb591f0.jpg\n\nLinked image asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart1_6d5a6fb591f0.jpg\n\nImage metadata: JPEG 591x269 mode=RGB\n\nOCR text:\nChinese Coal Imports from Indonesia (2018 - 2024)\n30mt\n20mt\n40mt\nomt\n2018 2019 2020 2021 2022 2023 2024",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "chinese",
+        "imports",
+        "indonesia",
+        "jpeg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__s03_linked_asset_2025_01_02_strength_in_chinese_coal_imports_img_chart2_dce8b43f6ac8_jpg",
+      "doc_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports",
+      "parent_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__root",
+      "title": "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart2_dce8b43f6ac8.jpg",
+      "section_path": [
+        "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart2_dce8b43f6ac8.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart2_dce8b43f6ac8.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-01-02_strength-in-chinese-coal-imports_img_chart2_dce8b43f6ac8.jpg\n\nLinked image asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart2_dce8b43f6ac8.jpg\n\nImage metadata: JPEG 592x249 mode=RGB\n\nOCR text:\nChinese Coal Imports from Australia (2018 - 2024)\n12mt\nemt\n4mt\nomt\n2018 2019 2020 2021 2022 2023 2024",
+      "keywords": [
+        "china",
+        "australia",
+        "coal",
+        "asset",
+        "image",
+        "chinese",
+        "emt",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__s04_linked_asset_2025_01_02_strength_in_chinese_coal_imports_img_chart3_8810a726d4d2_jpg",
+      "doc_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports",
+      "parent_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__root",
+      "title": "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart3_8810a726d4d2.jpg",
+      "section_path": [
+        "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart3_8810a726d4d2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart3_8810a726d4d2.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-01-02_strength-in-chinese-coal-imports_img_chart3_8810a726d4d2.jpg\n\nLinked image asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart3_8810a726d4d2.jpg\n\nImage metadata: JPEG 592x249 mode=RGB\n\nOCR text:\nChinese Coal Imports from Mongolia (2018 - 2024)\n10mt\n8mt\nmt\n4mt\n2mt\nOmt. 2018 2019 2020 2021 2022 2023 2024",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "chinese",
+        "imports",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__s05_linked_asset_2025_01_02_strength_in_chinese_coal_imports_img_chart4_6baa2e5693d8_jpg",
+      "doc_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports",
+      "parent_id": "breakwave_insights_insights_2025-01-02_2025_01_02_strength_in_chinese_coal_imports__root",
+      "title": "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart4_6baa2e5693d8.jpg",
+      "section_path": [
+        "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart4_6baa2e5693d8.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart4_6baa2e5693d8.jpg",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-01-02_strength-in-chinese-coal-imports_img_chart4_6baa2e5693d8.jpg\n\nLinked image asset: 2025-01-02_strength-in-chinese-coal-imports_img_chart4_6baa2e5693d8.jpg\n\nImage metadata: JPEG 592x249 mode=RGB\n\nOCR text:\nChinese Coal Production (2018 - 2024)\n46omt\n40omt\n340mt\n280mt\n220mt\n2018 2019 2020 2021 2022 2023 2024",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "omt",
+        "chinese",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 138,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

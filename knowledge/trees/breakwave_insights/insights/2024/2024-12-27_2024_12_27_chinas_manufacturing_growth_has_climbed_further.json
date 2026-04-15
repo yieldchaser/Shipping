@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-12-27_2024_12_27_chinas_manufacturing_growth_has_climbed_further__root",
+  "doc_id": "breakwave_insights_insights_2024-12-27_2024_12_27_chinas_manufacturing_growth_has_climbed_further",
+  "parent_id": null,
+  "title": "China's Manufacturing Growth Has Climbed Further",
+  "section_path": [
+    "China's Manufacturing Growth Has Climbed Further"
+  ],
+  "section_path_text": "China's Manufacturing Growth Has Climbed Further",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nRecently released data shows that China's manufacturing production increased on a year-on-year basis in November by 6% (manufacturing is defined as the creation or production of goods with the help of equipment, labor, machines, tools, chemical or biological processing, formulation, etc). This is up from October's impressive 5.4% growth, marks a third straight month that growth has increased, and marks the strongest growth seen since May. As we have continued to stress in Commodore Research's Weekly China Reports, China's industrial sector continues to fare better than its consumer sector.",
+  "keywords": [
+    "china",
+    "growth",
+    "manufacturing",
+    "production",
+    "asset",
+    "image",
+    "chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg",
+    "increased",
+    "linked",
+    "marks",
+    "year-on-year",
+    "above"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 381,
+  "source_path": "reports/breakwave/2024/2024-12-27_chinas-manufacturing-growth-has-climbed-further.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/12/27/chinas-manufacturing-growth-has-climbed-further",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-12-27_2024_12_27_chinas_manufacturing_growth_has_climbed_further__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-12-27_2024_12_27_chinas_manufacturing_growth_has_climbed_further",
+      "parent_id": "breakwave_insights_insights_2024-12-27_2024_12_27_chinas_manufacturing_growth_has_climbed_further__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nRecently released data shows that China's manufacturing production increased on a year-on-year basis in November by 6% (manufacturing is defined as the creation or production of goods with the help of equipment, labor, machines, tools, chemical or biological processing, formulation, etc). This is up from October's impressive 5.4% growth, marks a third straight month that growth has increased, and marks the strongest growth seen since May.",
+      "keywords": [
+        "china",
+        "growth",
+        "manufacturing",
+        "production",
+        "increased",
+        "marks",
+        "above",
+        "assets/2024-12-27_chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 187,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-27_2024_12_27_chinas_manufacturing_growth_has_climbed_further__s02_linked_asset_2024_12_27_chinas_manufacturing_growth_has_climbed_further_img_chart28129_6c88a51ccc70_jpg",
+      "doc_id": "breakwave_insights_insights_2024-12-27_2024_12_27_chinas_manufacturing_growth_has_climbed_further",
+      "parent_id": "breakwave_insights_insights_2024-12-27_2024_12_27_chinas_manufacturing_growth_has_climbed_further__root",
+      "title": "Linked asset: 2024-12-27_chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg",
+      "section_path": [
+        "Linked asset: 2024-12-27_chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-12-27_chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-27_chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg\n\nLinked image asset: 2024-12-27_chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg\n\nImage metadata: JPEG 595x290 mode=RGB\n\nOCR text:\nYear-On-Year Growth in Chinese Manufacturing Production (2022 - 2024)\n10%\n5%\n0%\n5% - -_-----------------------------SsSsSSSSSSSSSSSSSSSSSSSSSSSSSSS\n2022 2023 2024",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "chinas-manufacturing-growth-has-climbed-further_img_chart28129_6c88a51ccc70.jpg",
+        "chinese",
+        "growth",
+        "jpeg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 154,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal__root",
+  "doc_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal",
+  "parent_id": null,
+  "title": "China - Coal",
+  "section_path": [
+    "China - Coal"
+  ],
+  "section_path_text": "China - Coal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nImage reference: Screenshot 2025-08-04 09.49.33.png | assets/2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png\n• China's coal imports slumped to 33.04 million tonnes in June, the lowest monthly total since February 2023 marking a sharp 25.9% year on year decline and an 8.3% drop from May. • Cumulatively, seaborne coal arrivals over the first half fell to 221.7 million tonnes, down 11.1% compared to the same period last year, signalling a structural downturn in import demand. • The contraction in total imports was further compounded by a steep 30.0% year on year fall in volumes from Indonesia while Russian coal shipments dropped 19.7% over the same period.",
+  "keywords": [
+    "china",
+    "coal",
+    "year",
+    "asset",
+    "image",
+    "source",
+    "imports",
+    "linked",
+    "million",
+    "png",
+    "tonnes",
+    "domestic"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 822,
+  "source_path": "reports/breakwave/2025/2025-08-04_china-coal.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/8/4/china-coal",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal",
+      "parent_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nImage reference: Screenshot 2025-08-04 09.49.33.png | assets/2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png\n• China's coal imports slumped to 33.04 million tonnes in June, the lowest monthly total since February 2023 marking a sharp 25.9% year on year decline and an 8.3% drop from May. • Cumulatively, seaborne coal arrivals over the first half fell to 221.7 million tonnes, down 11.1% compared to the same period last year, signalling a structural downturn in import demand.",
+      "keywords": [
+        "china",
+        "coal",
+        "year",
+        "million",
+        "tonnes",
+        "imports",
+        "domestic",
+        "further"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 359,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal__s02_linked_asset_2025_08_04_china_coal_img_screenshot2025_08_04094933_bb9776613370_png",
+      "doc_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal",
+      "parent_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal__root",
+      "title": "Linked asset: 2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png",
+      "section_path": [
+        "Linked asset: 2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png"
+      ],
+      "section_path_text": "Linked asset: 2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png\n\nLinked image asset: 2025-08-04_china-coal_img_screenshot2025-08-04094933_bb9776613370.png\n\nImage metadata: PNG 614x350 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\na China - Coal Imports\n50\nw» 40\nFe\n&\n§ 30 a -_z\n= .. ea\n£20\n10\n0\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\n= 2020 --= 2021 2022 --- 2023 m= 2024 a 2025\nSource: GAC, Doric Research",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "source",
+        "apr",
+        "aug",
+        "china-coal_img_screenshot2025-08-04094933_bb9776613370.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal__s03_linked_asset_2025_08_04_china_coal_img_screenshot2025_08_04094939_4e5b85320850_png",
+      "doc_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal",
+      "parent_id": "breakwave_insights_insights_2025-08-04_2025_08_04_china_coal__root",
+      "title": "Linked asset: 2025-08-04_china-coal_img_screenshot2025-08-04094939_4e5b85320850.png",
+      "section_path": [
+        "Linked asset: 2025-08-04_china-coal_img_screenshot2025-08-04094939_4e5b85320850.png"
+      ],
+      "section_path_text": "Linked asset: 2025-08-04_china-coal_img_screenshot2025-08-04094939_4e5b85320850.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-04_china-coal_img_screenshot2025-08-04094939_4e5b85320850.png\n\nLinked image asset: 2025-08-04_china-coal_img_screenshot2025-08-04094939_4e5b85320850.png\n\nImage metadata: PNG 622x335 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\na China - Coal Domestic Output\n9 400 pre\n5\ne\n¢\n2\n= 350 -\n&\n300\n250\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\n---= 2020 m= 2021 2022 --- 2023 m= 2024 --- 2025\nNoOwRIc.",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "source",
+        "apr",
+        "aug",
+        "china-coal_img_screenshot2025-08-04094939_4e5b85320850.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

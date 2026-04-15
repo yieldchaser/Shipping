@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent__root",
+  "doc_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent",
+  "parent_id": null,
+  "title": "We shouldn't fight the Fed. Even if it's not independent.",
+  "section_path": [
+    "We shouldn't fight the Fed. Even if it's not independent."
+  ],
+  "section_path_text": "We shouldn't fight the Fed. Even if it's not independent.",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe three things investors should know this week\nUS inflation rose again to 2.9% from 2.7%, increasing pressures on the economy. Despite that, markets are now pricing in three rate cuts by the end of the year, a result of rising unemployment and pressures from the White House. We believe that, while three cuts may not necessarily be delivered, the Fed is on course to reduce the cost of money.",
+  "keywords": [
+    "china",
+    "europe",
+    "fed",
+    "inflation",
+    "cuts",
+    "not",
+    "are",
+    "asset",
+    "may",
+    "central",
+    "image",
+    "three"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1770,
+  "source_path": "reports/breakwave/2025/2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/9/17/we-shouldnt-fight-the-fed-even-if-its-not-independent",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent",
+      "parent_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The three things investors should know this week\nUS inflation rose again to 2.9% from 2.7%, increasing pressures on the economy. Despite that, markets are now pricing in three rate cuts by the end of the year, a result of rising unemployment and pressures from the White House.",
+      "keywords": [
+        "china",
+        "europe",
+        "fed",
+        "inflation",
+        "not",
+        "cuts",
+        "may",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1324,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent__s02_linked_asset_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent_img_image003_99cc71a881b3_jpg",
+      "doc_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent",
+      "parent_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent__root",
+      "title": "Linked asset: 2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image003_99cc71a881b3.jpg",
+      "section_path": [
+        "Linked asset: 2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image003_99cc71a881b3.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image003_99cc71a881b3.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image003_99cc71a881b3.jpg\n\nLinked image asset: 2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image003_99cc71a881b3.jpg\n\nImage metadata: JPEG 936x439 mode=RGB\n\nOCR text:\nEnergy deflation is over. So, prices are now rising faster.",
+      "keywords": [
+        "asset",
+        "image",
+        "are",
+        "bcore",
+        "bed",
+        "blomberg",
+        "colcutatons",
+        "deflation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent__s03_linked_asset_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent_img_image004_5d187d61229a_jpg",
+      "doc_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent",
+      "parent_id": "breakwave_insights_insights_2025-09-17_2025_09_17_we_shouldnt_fight_the_fed_even_if_its_not_independent__root",
+      "title": "Linked asset: 2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image004_5d187d61229a.jpg",
+      "section_path": [
+        "Linked asset: 2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image004_5d187d61229a.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image004_5d187d61229a.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image004_5d187d61229a.jpg\n\nLinked image asset: 2025-09-17_we-shouldnt-fight-the-fed-even-if-its-not-independent_img_image004_5d187d61229a.jpg\n\nImage metadata: JPEG 934x450 mode=RGB\n\nOCR text:\n3x rate cuts expected in the US, none in the EU\n@ Rate cuts expectnd (0.25 bps!",
+      "keywords": [
+        "asset",
+        "cuts",
+        "image",
+        "mazars",
+        "source",
+        "bloomberg.",
+        "bps",
+        "cakulations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 152,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

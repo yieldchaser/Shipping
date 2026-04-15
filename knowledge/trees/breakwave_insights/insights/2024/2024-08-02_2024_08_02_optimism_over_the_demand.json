@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-08-02_2024_08_02_optimism_over_the_demand__root",
+  "doc_id": "breakwave_insights_insights_2024-08-02_2024_08_02_optimism_over_the_demand",
+  "parent_id": null,
+  "title": "Optimism over the demand",
+  "section_path": [
+    "Optimism over the demand"
+  ],
+  "section_path_text": "Optimism over the demand",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic Dry Index remained in the red yesterday as all vessel segments retreated amid soft demand in the major basins. Optimism over the demand outlook fuelled significant gains for iron ore and coal, while disappointing manufacturing data for the US and China weighed on crude oil and copper prices. By Ulf Bergman\nMacro/Geopolitics\nAs widely expected, the Federal Reserve left interest rates unchanged on Wednesday.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "atlantic",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2157,
+  "source_path": "reports/breakwave/2024/2024-08-02_optimism-over-the-demand.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/8/2/optimism-over-the-demand",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-08-02_2024_08_02_optimism_over_the_demand__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-08-02_2024_08_02_optimism_over_the_demand",
+      "parent_id": "breakwave_insights_insights_2024-08-02_2024_08_02_optimism_over_the_demand__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic Dry Index remained in the red yesterday as all vessel segments retreated amid soft demand in the major basins. Optimism over the demand outlook fuelled significant gains for iron ore and coal, while disappointing manufacturing data for the US and China weighed on crude oil and copper prices.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1886,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-02_2024_08_02_optimism_over_the_demand__s02_linked_asset_2024_08_02_optimism_over_the_demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dac130ff6d_png",
+      "doc_id": "breakwave_insights_insights_2024-08-02_2024_08_02_optimism_over_the_demand",
+      "parent_id": "breakwave_insights_insights_2024-08-02_2024_08_02_optimism_over_the_demand__root",
+      "title": "Linked asset: 2024-08-02_optimism-over-the-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dac130ff6d.png",
+      "section_path": [
+        "Linked asset: 2024-08-02_optimism-over-the-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dac130ff6d.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-02_optimism-over-the-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dac130ff6d.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-02_optimism-over-the-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dac130ff6d.png\n\nLinked image asset: 2024-08-02_optimism-over-the-demand_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_27dac130ff6d.png\n\nImage metadata: PNG 671x397 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Coal Discharging in China\n20\n15\n2 0\n=\n| | | | i\n0 | | | |\nPP ag OP ash BP SP oP pest? BP SP AP oP SP SO ot net?",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "nth",
+        "source",
+        "ash",
+        "cab"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 222,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

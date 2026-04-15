@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-09-08_2025_09_08_france_down_but_not_out__root",
+  "doc_id": "breakwave_insights_insights_2025-09-08_2025_09_08_france_down_but_not_out",
+  "parent_id": null,
+  "title": "France, down but not out!",
+  "section_path": [
+    "France, down but not out!"
+  ],
+  "section_path_text": "France, down but not out!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nThe French PM Francois Bayrou, called for a confidence vote on the 8th of September, on his own minority government. This is a bid to force his opponents, who outnumber him in the National Assembly, to either accept €44bn in spending cuts and tax hikes, or down-vote the government, accepting the economic consequences of fresh political uncertainties at a time when French borrowing spreads have passed Greek and are reaching Italian ones. This is important because, while all borrowing costs are now rising, as a result of the trade war, France (and the UK for that matter) has been singled out by markets as being problematic.",
+  "keywords": [
+    "europe",
+    "crude_oil",
+    "french",
+    "likely",
+    "government",
+    "political",
+    "are",
+    "borrowing",
+    "can",
+    "economic",
+    "volatility",
+    "european"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1298,
+  "source_path": "reports/breakwave/2025/2025-09-08_france-down-but-not-out.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/9/8/france-down-but-not-out",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-09-08_2025_09_08_france_down_but_not_out__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-09-08_2025_09_08_france_down_but_not_out",
+      "parent_id": "breakwave_insights_insights_2025-09-08_2025_09_08_france_down_but_not_out__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nThe French PM Francois Bayrou, called for a confidence vote on the 8th of September, on his own minority government. This is a bid to force his opponents, who outnumber him in the National Assembly, to either accept €44bn in spending cuts and tax hikes, or down-vote the government, accepting the economic consequences of fresh political uncertainties at a time when French borrowing spreads have passed Greek and are reaching Italian ones.",
+      "keywords": [
+        "europe",
+        "crude_oil",
+        "likely",
+        "french",
+        "political",
+        "are",
+        "government",
+        "borrowing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1093,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-08_2025_09_08_france_down_but_not_out__s02_linked_asset_2025_09_08_france_down_but_not_out_img_image002_d4aa3facff00_jpg",
+      "doc_id": "breakwave_insights_insights_2025-09-08_2025_09_08_france_down_but_not_out",
+      "parent_id": "breakwave_insights_insights_2025-09-08_2025_09_08_france_down_but_not_out__root",
+      "title": "Linked asset: 2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg",
+      "section_path": [
+        "Linked asset: 2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg\n\nLinked image asset: 2025-09-08_france-down-but-not-out_img_image002_d4aa3facff00.jpg\n\nImage metadata: JPEG 702x456 mode=RGB\n\nOCR text:\nThe French sovereign spread is the second widest in the\neurozone\n10-year government bond yield spreads over German bunds\n1.6- - Italy\n14- Fra... 1.2 Spain\n0.8 0.796pp\n4 0.736pp\n0.6\n0.4-\nJ js AS ON DJ FM AM JS JS A\n2024 2025\nGavekal Research/Macrobond",
+      "keywords": [
+        "asset",
+        "image",
+        "bond",
+        "bunds",
+        "eurozone",
+        "fra...",
+        "france-down-but-not-out_img_image002_d4aa3facff00.jpg",
+        "french"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 175,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

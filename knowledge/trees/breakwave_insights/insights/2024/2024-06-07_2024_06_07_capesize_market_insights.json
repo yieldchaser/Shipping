@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__root",
+  "doc_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights",
+  "parent_id": null,
+  "title": "Capesize Market Insights",
+  "section_path": [
+    "Capesize Market Insights"
+  ],
+  "section_path_text": "Capesize Market Insights",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 23.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions June 06, 2024\nImage reference: Screenshot 2024-06-07 13.41.05.png | assets/2024-06-07_capesize-market-insights_img_screenshot2024-06-07134105_750548e23f62.png\nBy the end of May, Capesize vessel rates on the Brazil to North China route have exhibited a weakening trend, while the number of ballasters has been increasing. Concurrently, the growth in demand tonne days continues to decline. The second quarter of the year brings uncertainty surrounding Chinese iron ore demand growth.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "steel",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2737,
+  "source_path": "reports/breakwave/2024/2024-06-07_capesize-market-insights.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/6/7/capesize-market-insights",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights",
+      "parent_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 23.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions June 06, 2024\nImage reference: Screenshot 2024-06-07 13.41.05.png | assets/2024-06-07_capesize-market-insights_img_screenshot2024-06-07134105_750548e23f62.png\nBy the end of May, Capesize vessel rates on the Brazil to North China route have exhibited a weakening trend, while the number of ballasters has been increasing. Concurrently, the growth in demand tonne days continues to decline.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1294,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__s02_linked_asset_2024_06_07_capesize_market_insights_img_screenshot2024_06_07134105_750548e23f62_png",
+      "doc_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights",
+      "parent_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__root",
+      "title": "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134105_750548e23f62.png",
+      "section_path": [
+        "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134105_750548e23f62.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134105_750548e23f62.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-07_capesize-market-insights_img_screenshot2024-06-07134105_750548e23f62.png\n\nLinked image asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134105_750548e23f62.png\n\nImage metadata: PNG 557x483 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nChart of the Week: Capesize Market Insights - C3 Route Supply\nThis week's Chart visualises the number of Capesize vessels on the Brazil to North China\nroute for May, compared to the Baltic rates. Our last update, before the end of April, noted a\ndecreasing trend in the number of ballast vessels recorded.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "jan",
+        "asset",
+        "ballasters",
+        "chart",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__s03_linked_asset_2024_06_07_capesize_market_insights_img_screenshot2024_06_07134114_2d94716aeebc_png",
+      "doc_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights",
+      "parent_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__root",
+      "title": "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134114_2d94716aeebc.png",
+      "section_path": [
+        "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134114_2d94716aeebc.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134114_2d94716aeebc.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-07_capesize-market-insights_img_screenshot2024-06-07134114_2d94716aeebc.png\n\nLinked image asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134114_2d94716aeebc.png\n\nImage metadata: PNG 574x451 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 1/ FREIGHT - Freight Rates ($/t) Mixed\n‘The Big Picture' - Capesize, Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nWi Cape - Brazil NChins Bi Pmax- Cont FE WB Supra - indo EC! BB Handy NOPAC FE\nWeekly Trends\n4s\n40\n38\n2 30\na\n2\nSes\n20\n1s\n10 ee eee eee\nRENSEKLRSAASRRSRSSSLSTLSSSSR Ase Ss vesesesansveseagsyg\nRERRR RRR LARK KSLA KSRRRK KARR MK AKKAKAR SSS RRSK RRR",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "brazil",
+        "asset",
+        "eee",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 281,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__s04_linked_asset_2024_06_07_capesize_market_insights_img_screenshot2024_06_07134121_75c091416d02_png",
+      "doc_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights",
+      "parent_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__root",
+      "title": "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134121_75c091416d02.png",
+      "section_path": [
+        "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134121_75c091416d02.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134121_75c091416d02.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-07_capesize-market-insights_img_screenshot2024-06-07134121_75c091416d02.png\n\nLinked image asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134121_75c091416d02.png\n\nImage metadata: PNG 580x420 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Mixed\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nBB Cape SE Africa i Prax SE Africa WB Supee SE Asia BB Hancy OPAC\nWeekly Trends\ngi\nCapesE -F y 30 Average\nawe Ears\n199\npoause SS es\nnial £ aso\n70\n2 i A\nSwpreSE & 110 Avgles\nSoe AW SOY Porn\n#\"\nA\n- 70\nRRRSRRRRSTRRR RRR SSRRRRSRRRRRRRSRARKRLARKS SR SSS RRR",
+      "keywords": [
+        "capesize",
+        "africa",
+        "asset",
+        "ballasters",
+        "image",
+        "rrr",
+        "supply",
+        "areas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 260,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__s05_linked_asset_2024_06_07_capesize_market_insights_img_screenshot2024_06_07134128_1d7ec45e3c8b_png",
+      "doc_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights",
+      "parent_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__root",
+      "title": "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134128_1d7ec45e3c8b.png",
+      "section_path": [
+        "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134128_1d7ec45e3c8b.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134128_1d7ec45e3c8b.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-07_capesize-market-insights_img_screenshot2024-06-07134128_1d7ec45e3c8b.png\n\nLinked image asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134128_1d7ec45e3c8b.png\n\nImage metadata: PNG 569x390 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Decreasing\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\nMi Cope Bi Pmax Bi supra Bi Handy\n110%\n= 100%\n'\n90%\n80%\nPs ~ 2 2 ~ seogteneze 5 aahMnhadga\nSSSLPEPESS SP LSRPLSS PPPS EPP ER EE\nSSRI RSL RRL KRERRLSRKREREESSSSESEEEREEER\nRRERRERRERRERRRERR RE 8 SS RRRRERR",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "asset",
+        "demand",
+        "image",
+        "aahmnhadga",
+        "capesize-market-insights_img_screenshot2024-06-07134128_1d7ec45e3c8b.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 249,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__s06_linked_asset_2024_06_07_capesize_market_insights_img_screenshot2024_06_07134135_42d119dc800a_png",
+      "doc_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights",
+      "parent_id": "breakwave_insights_insights_2024-06-07_2024_06_07_capesize_market_insights__root",
+      "title": "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134135_42d119dc800a.png",
+      "section_path": [
+        "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134135_42d119dc800a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134135_42d119dc800a.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-07_capesize-market-insights_img_screenshot2024-06-07134135_42d119dc800a.png\n\nLinked image asset: 2024-06-07_capesize-market-insights_img_screenshot2024-06-07134135_42d119dc800a.png\n\nImage metadata: PNG 568x388 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Increasing\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\nBuc Boe Bh Post Prax | i Bsr Bim Brarcysce Bsmwo\nWeekly Trends\ni\nF4\n2\nREERRAARRATRRALRARAATRSARARFR RRR EKL LATTES TRAE REE",
+      "keywords": [
+        "capesize",
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "bim",
+        "boe",
+        "brarcysce"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 211,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

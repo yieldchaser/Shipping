@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-11-27_2025_11_27_global_grain_export_forecast_raised_again__root",
+  "doc_id": "breakwave_insights_insights_2025-11-27_2025_11_27_global_grain_export_forecast_raised_again",
+  "parent_id": null,
+  "title": "Global Grain Export Forecast Raised Again",
+  "section_path": [
+    "Global Grain Export Forecast Raised Again"
+  ],
+  "section_path_text": "Global Grain Export Forecast Raised Again",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nWith the shutdown over, the United States Department of Agriculture (USDA) has recently released its latest forecast for the current 2025/26 season and is now predicting that global coarse grain, wheat, soybean, and soymeal exports will collectively total 734.1 million tons. This is 4.7 million tons (1%) more than was predicted in September and would mark a year-on-year increase of 28.7 million tons (4%). Remaining noteworthy is that during the 2024/25 season, a year-on-year contraction of 5.1 million tons (-1%) occurred.",
+  "keywords": [
+    "brazil",
+    "grain",
+    "coarse",
+    "million",
+    "year-on-year",
+    "exports",
+    "global",
+    "increase",
+    "season",
+    "tons",
+    "asset",
+    "expected"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 586,
+  "source_path": "reports/breakwave/2025/2025-11-27_global-grain-export-forecast-raised-again.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/11/27/global-grain-export-forecast-raised-again",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-11-27_2025_11_27_global_grain_export_forecast_raised_again__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-11-27_2025_11_27_global_grain_export_forecast_raised_again",
+      "parent_id": "breakwave_insights_insights_2025-11-27_2025_11_27_global_grain_export_forecast_raised_again__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nWith the shutdown over, the United States Department of Agriculture (USDA) has recently released its latest forecast for the current 2025/26 season and is now predicting that global coarse grain, wheat, soybean, and soymeal exports will collectively total 734.1 million tons. This is 4.7 million tons (1%) more than was predicted in September and would mark a year-on-year increase of 28.7 million tons (4%).",
+      "keywords": [
+        "brazil",
+        "grain",
+        "million",
+        "year-on-year",
+        "coarse",
+        "exports",
+        "global",
+        "increase"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 382,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-11-27_2025_11_27_global_grain_export_forecast_raised_again__s02_linked_asset_2025_11_27_global_grain_export_forecast_raised_again_img_chart_3e69fff8d765_jpg",
+      "doc_id": "breakwave_insights_insights_2025-11-27_2025_11_27_global_grain_export_forecast_raised_again",
+      "parent_id": "breakwave_insights_insights_2025-11-27_2025_11_27_global_grain_export_forecast_raised_again__root",
+      "title": "Linked asset: 2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg",
+      "section_path": [
+        "Linked asset: 2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg\n\nLinked image asset: 2025-11-27_global-grain-export-forecast-raised-again_img_chart_3e69fff8d765.jpg\n\nImage metadata: JPEG 596x192 mode=RGB\n\nOCR text:\nGlobal Coarse Grain Exports (including corn)\nWorld USA Argentina Brazil Ukraine\n2024/25 (est) 228.4mt 74.5mt 36.6mt 41.1mt 22.4mt\n2025/26 (proj) 247.3mt 84.0mt 41.9mt 43.1mt 27.6mt",
+      "keywords": [
+        "brazil",
+        "grain",
+        "asset",
+        "image",
+        "argentina",
+        "coarse",
+        "corn",
+        "est"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

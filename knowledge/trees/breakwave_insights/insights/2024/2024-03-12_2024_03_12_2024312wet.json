@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet__root",
+  "doc_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Tanker Report - March 12, 2024",
+  "section_path": [
+    "Breakwave Bi-Weekly Tanker Report - March 12, 2024"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Tanker Report - March 12, 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2024-03-12_2024312wet_img_tankerreporttop_112f95375875.png\n· Another short term spike comes to an end as the Atlantic market fails to inspire - The late February uptick in VLCC rates ended up being short lived and rightly so: The increasingly important Atlantic market that has recently been of great support to the broader crude tanker segment failed to inspire and thus the Middle East VLCC market turned lower as the pace of cargo flow tapered off and owners lost the upper hand, at least for now. Despite this, March has entered with a firmer sentiment compared to February and spot prices for VLCCs MEG-China crude oil shipments by the end of the first week were nearly 8% higher than the previous month. There is optimism for continued firmness , as remaining March cargoes need coverage and any increase in activity could once again push rates upward, considering the reduced availability of ships.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "crude",
+    "asset",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1763,
+  "source_path": "reports/breakwave/2024/2024-03-12_2024312wet.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024312wet",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet",
+      "parent_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2024-03-12_2024312wet_img_tankerreporttop_112f95375875.png\n· Another short term spike comes to an end as the Atlantic market fails to inspire - The late February uptick in VLCC rates ended up being short lived and rightly so: The increasingly important Atlantic market that has recently been of great support to the broader crude tanker segment failed to inspire and thus the Middle East VLCC market turned lower as the pace of cargo flow tapered off and owners lost the upper hand, at least for now. Despite this, March has entered with a firmer sentiment compared to February and spot prices for VLCCs MEG-China crude oil shipments by the end of the first week were nearly 8% higher than the previous month.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "meg",
+        "crude_oil",
+        "oil",
+        "crude",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 748,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet__s02_linked_asset_2024_03_12_2024312wet_img_tankerreporttop_112f95375875_png",
+      "doc_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet",
+      "parent_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet__root",
+      "title": "Linked asset: 2024-03-12_2024312wet_img_tankerreporttop_112f95375875.png",
+      "section_path": [
+        "Linked asset: 2024-03-12_2024312wet_img_tankerreporttop_112f95375875.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-12_2024312wet_img_tankerreporttop_112f95375875.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-12_2024312wet_img_tankerreporttop_112f95375875.png\n\nLinked image asset: 2024-03-12_2024312wet_img_tankerreporttop_112f95375875.png\n\nImage metadata: PNG 1061x354 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nBWET J © BREAKWAVE\nADVISORS\nTanker Shipping\nBreakwave Tanker Futures Index: 1,321 VLCC Middle East-Asia Spot Rates: $16.88 Short-term Indicators:\n30D: -4.0% 4 = 30D: 4.9% Momentum:\n~ ~~ YTD: 8.8% & ~~ ‘YTD: 27.4% Sentiment:\nNV YOY: -20.0% Ny YOY: -17.1% Fundamentals: Positive",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "yoy",
+        "ytd",
+        "bwet",
+        "dpi",
+        "east-asia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 215,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet__s03_linked_asset_2024_03_12_2024312wet_img_tankerreportchart_afe24cb8e8ee_png",
+      "doc_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet",
+      "parent_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet__root",
+      "title": "Linked asset: 2024-03-12_2024312wet_img_tankerreportchart_afe24cb8e8ee.png",
+      "section_path": [
+        "Linked asset: 2024-03-12_2024312wet_img_tankerreportchart_afe24cb8e8ee.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-12_2024312wet_img_tankerreportchart_afe24cb8e8ee.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-12_2024312wet_img_tankerreportchart_afe24cb8e8ee.png\n\nLinked image asset: 2024-03-12_2024312wet_img_tankerreportchart_afe24cb8e8ee.png\n\nImage metadata: PNG 1030x662 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n© BREAKWAVE\nBi-weekly Tanker Shipping ADVISORS\nVLCC Spot Index (TD3C) vs Breakwave Tanker Futures Index (BWETFF)\n2000 25\n1800\n1600 20\n1400\n1200 15\n1000\n800 10\n600\n400 5\n200\n--BWETFF (futures) --=TD3C, $/t\nCy) 0\nJan-23 Feb-23 Mar-23 Apr-23 May-23 Jun-23 Jul-23.",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "bwetff",
+        "image",
+        "td3c",
+        "apr-23",
+        "aug-23.",
+        "bi-weekly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet__s04_linked_asset_2024_03_12_2024312wet_img_tankerreportbottom_d0af1f346c7c_png",
+      "doc_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet",
+      "parent_id": "breakwave_insights_insights_2024-03-12_2024_03_12_2024312wet__root",
+      "title": "Linked asset: 2024-03-12_2024312wet_img_tankerreportbottom_d0af1f346c7c.png",
+      "section_path": [
+        "Linked asset: 2024-03-12_2024312wet_img_tankerreportbottom_d0af1f346c7c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-12_2024312wet_img_tankerreportbottom_d0af1f346c7c.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-12_2024312wet_img_tankerreportbottom_d0af1f346c7c.png\n\nLinked image asset: 2024-03-12_2024312wet_img_tankerreportbottom_d0af1f346c7c.png\n\nImage metadata: PNG 1028x686 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nTanker Fundamentals\nDemand YTD YoY\nWorld Oil Demand 104,390 kbpd\nOil Supply, OPEC 26,680 kbpd\nOil Supply, non-OPEC 69,070 kbpd\nOECD Total Crude Oil Stocks 1033.9 MMbls\nUS Crude Oil Exports 48.7 MMbIs 13.5%\nChina Oil Imports 564.3 MMbls 11.0%\nGlobal Crude Oil Floating Storage 74.5 MMbls \"17.4%\nSupply\nTanker Fleet 690.8 mdwt\nFreight Rates\nVLCC Middle East-Asia, USD/ton 14.51 17.0%\nSuezmax West Africa-Europe, USD/ton 20.40\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: Contact:\nThis research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the Breakwave Advisors LLC\nrecipient's internal use only. This report does not constitute and will not form part of and should not be construed asa _17 State Stree",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 467,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

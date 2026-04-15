@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-03-13_2026_03_13_russia_to_the_rescue__root",
+  "doc_id": "breakwave_insights_insights_2026-03-13_2026_03_13_russia_to_the_rescue",
+  "parent_id": null,
+  "title": "Russia to the rescue",
+  "section_path": [
+    "Russia to the rescue"
+  ],
+  "section_path_text": "Russia to the rescue",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nOf all countries whose crude oil supply is put at risk by the closure of the Strait of Hormuz, India is probably the most exposed. To what extent does the US intervention to relax its sanctions on Russian exports relieve the pressure? In February, before Iran started disrupting ships passing through the Strait of Hormuz, India imported 2.81m b/d from suppliers within the ME Gulf (54% of its total imports).",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "crude",
+    "russian",
+    "bbls",
+    "b/d",
+    "march"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1450,
+  "source_path": "reports/breakwave/2026/2026-03-13_russia-to-the-rescue.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/3/13/russia-to-the-rescue",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-03-13_2026_03_13_russia_to_the_rescue__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-03-13_2026_03_13_russia_to_the_rescue",
+      "parent_id": "breakwave_insights_insights_2026-03-13_2026_03_13_russia_to_the_rescue__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Of all countries whose crude oil supply is put at risk by the closure of the Strait of Hormuz, India is probably the most exposed. To what extent does the US intervention to relax its sanctions on Russian exports relieve the pressure?",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "india",
+        "crude_oil",
+        "crude",
+        "russian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1184,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-13_2026_03_13_russia_to_the_rescue__s02_linked_asset_2026_03_13_russia_to_the_rescue_img_839c_image_0_1773336538388_1e33d37c0416_png",
+      "doc_id": "breakwave_insights_insights_2026-03-13_2026_03_13_russia_to_the_rescue",
+      "parent_id": "breakwave_insights_insights_2026-03-13_2026_03_13_russia_to_the_rescue__root",
+      "title": "Linked asset: 2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png",
+      "section_path": [
+        "Linked asset: 2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png\n\nLinked image asset: 2026-03-13_russia-to-the-rescue_img_839c-image-0-1773336538388_1e33d37c0416.png\n\nImage metadata: PNG 859x761 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\nOCR text:\nRussian crude imports\n4 ee\n4\n3.5 if F Fi =\n3 ca | Th i lh Li il I\n22.5 i l ™@ Undetermined\n= 2 jeg ib II fee @ Other Europe\nae il haliall Wee) Cl Turkey\n, i] ||| BB China\nor ee\naly Windia\n0.5\n5\nNN mM MH TFT FT HH MH wo\nvou gg gags\nSs 28s Se S&B2G",
+      "keywords": [
+        "china",
+        "europe",
+        "india",
+        "asset",
+        "image",
+        "aly",
+        "b2g",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 224,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

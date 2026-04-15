@@ -1,0 +1,229 @@
+{
+  "node_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__root",
+  "doc_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates",
+  "parent_id": null,
+  "title": "Capesize Market (Ballasters, Tonne Days, Market Rates)",
+  "section_path": [
+    "Capesize Market (Ballasters, Tonne Days, Market Rates)"
+  ],
+  "section_path_text": "Capesize Market (Ballasters, Tonne Days, Market Rates)",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 48.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions November 28, 2024\n\nChart of the Week: Capesize Market (Ballasters, Tonne Days, Market Rates)\nThis week's highlight delves into the evolving dynamics of Capesize ballasters in the South Atlantic and West Australian markets. Notably, the C3 Tubarão-to-Qingdao route has yet to experience a rate rebound, despite a recent decline in the number of ballasters. Image reference: Στιγμιότυπο οθόνης 2024-11-29 130259.png | assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7b468ec4aee.png\nThe end of November marked a significant downturn in dry bulk freight rates, with the Baltic Capesize Index plunging by 30% year-on-year.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "europe",
+    "iron_ore",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3643,
+  "source_path": "reports/breakwave/2024/2024-11-29_capesize-market-ballasters-tonne-days-market-rates.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/11/29/capesize-market-ballasters-tonne-days-market-rates",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates",
+      "parent_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 48.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions November 28, 2024",
+      "keywords": [
+        "congestions",
+        "monitor",
+        "november",
+        "port",
+        "snapshot",
+        "supply-demand",
+        "trends"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__s02_chart_of_the_week_capesize_market_ballasters_tonne_days_market_rates",
+      "doc_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates",
+      "parent_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__root",
+      "title": "Chart of the Week: Capesize Market (Ballasters, Tonne Days, Market Rates)",
+      "section_path": [
+        "Chart of the Week: Capesize Market (Ballasters, Tonne Days, Market Rates)"
+      ],
+      "section_path_text": "Chart of the Week: Capesize Market (Ballasters, Tonne Days, Market Rates)",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This week's highlight delves into the evolving dynamics of Capesize ballasters in the South Atlantic and West Australian markets. Notably, the C3 Tubarão-to-Qingdao route has yet to experience a rate rebound, despite a recent decline in the number of ballasters.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1605,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__s03_linked_asset_2024_11_29_capesize_market_ballasters_tonne_days_market_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7b468ec4aee_png",
+      "doc_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates",
+      "parent_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__root",
+      "title": "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7b468ec4aee.png",
+      "section_path": [
+        "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7b468ec4aee.png"
+      ],
+      "section_path_text": "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7b468ec4aee.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7b468ec4aee.png\n\nLinked image asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f7b468ec4aee.png\n\nImage metadata: PNG 657x351 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nban denaanad we @ Lan tenses, Cant for tod CD WBE mh Capmmer Tutor os te Begeian bane\nater tr Sou angen oc 198 36 209 ~~\noe\nRatamers tor Weitere ver 989 151 160 140 a a led\nCongestion bs Ona COCR 131 = 137 on i\n- 3\nCongausen neta Pamusan nd it 16 18 ~ALa Bw\nCongomson 2 auparvares C3 34 oe 6b oh\nacutennimwinne ak\n\"se z0a2 bh 2022 dan 2022 evr] dan 2006 at 2006\n= Orem Daye Ofte\ncapesee rates\nal Wer Jerr t\\/ners | ea «\n} ee VOTES i= \"\n~ :\n$ a\nrn z ©\n* = Orne Ee 3\n; ATP NI GTS\" . beeen DSTSTAONE | bubeu Osa Canaan | thennkenne f hmmerhe «\nmm mm eM\n105 sa 140 36 % 217 51 sm ores",
+      "keywords": [
+        "capesize",
+        "asset",
+        "dan",
+        "image",
+        "acutennimwinne",
+        "ala",
+        "angen",
+        "ater"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 401,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__s04_linked_asset_2024_11_29_capesize_market_ballasters_tonne_days_market_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d1c6a24374f_png",
+      "doc_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates",
+      "parent_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__root",
+      "title": "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d1c6a24374f.png",
+      "section_path": [
+        "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d1c6a24374f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d1c6a24374f.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d1c6a24374f.png\n\nLinked image asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d1c6a24374f.png\n\nImage metadata: PNG 650x494 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT - Freight Rates ($/t) Weaker\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nWi Cape - Brazil NCnina W Pmax-Cont FE Supra - Inco EC! WB Handy NOPAC FE\nWeekly Trends\n4s\n40\n35\ne 30\n5\na\n& 2s\n20\n1s\n\" __ a -\nSLSFSRSSLSLLSSSSASMSSSHSALASR LS LSS SR SSRASRSSSRSSTISELLSE\nSSS Ses eee eee eee SSS SSSSSSSSSSSSSSSSSSSSSSSESEFE3SE3 53335355555\nNQNQQANSSSSSSSSSRREALALALRSLSALARSALLAALTATASAALSALLASLLAAAES\nSUSSISTRSRRRRRSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS\nRRERRR RRRKRRERRRSRRRKKKR RR RRSRKRRRKRRRRRRERRRK",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "brazil",
+        "eee",
+        "asset",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 400,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__s05_linked_asset_2024_11_29_capesize_market_ballasters_tonne_days_market_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1853b4706f9_png",
+      "doc_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates",
+      "parent_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__root",
+      "title": "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1853b4706f9.png",
+      "section_path": [
+        "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1853b4706f9.png"
+      ],
+      "section_path_text": "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1853b4706f9.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1853b4706f9.png\n\nLinked image asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b1853b4706f9.png\n\nImage metadata: PNG 665x456 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Mixed\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nWi Cape SE Africa i Pax SE Atria @ SupraSé Asia B Handy NOPAC\nWeekly Trends\nCape SE 3 130), erage\nAfrica g 210\n90\n160,\nPrax SE ; aso Averane\n> 100\n7 120\nSuprasE % 110 »\nAsia $ 100 aeemige\n90\n42 90 . >\n70\nSSRARSRSSHSSSSSANRSASSSARANSSLES!E BSRSRSRRRSSESseess\nBee ei ciigsezessizz2iiessssleee 22222: EE 2ELIL LEE:\nSSRSRRRRRRKRRRSSTS SSS SSR SSSSSSSSSSSSRRSSSSSSSSSS ERS",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "africa",
+        "asia",
+        "asset",
+        "ballasters",
+        "cape"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 345,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__s06_linked_asset_2024_11_29_capesize_market_ballasters_tonne_days_market_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afa8da9a317a_png",
+      "doc_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates",
+      "parent_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__root",
+      "title": "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afa8da9a317a.png",
+      "section_path": [
+        "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afa8da9a317a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afa8da9a317a.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afa8da9a317a.png\n\nLinked image asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_afa8da9a317a.png\n\nImage metadata: PNG 644x514 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Mixed\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\n@ Cape Tond Growth i Pmax TonD Growth @ SupraTonD Growth Bi Handy TonD Growth\n115%\n110%\nwe 105%\n<=\n:\n£ 100%\nSo\n&\n95%\n90%\n85%\n80%\nS$kSsgses SStsssEgcgCgcegCsgassRBEerser TE\nSs 5325723333333 333535353353535353 585\nmm nnnnaewsetsF FS FTteeesesrses#segs+Fsstsei eesesresst+tstst\nSS naan sSsSBcspesSeHKHSHKSHKHeAHKHEAKHEKREKAKRAHKHRA KR KH KA KA RA\nRERe* SS RERRRRRRRKCRKRRKKRRRRKKRKRKRRR",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "gas",
+        "growth",
+        "tond",
+        "asset",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 351,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__s07_linked_asset_2024_11_29_capesize_market_ballasters_tonne_days_market_rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76ca09c879be_png",
+      "doc_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates",
+      "parent_id": "breakwave_insights_insights_2024-11-29_2024_11_29_capesize_market_ballasters_tonne_days_market_rates__root",
+      "title": "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76ca09c879be.png",
+      "section_path": [
+        "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76ca09c879be.png"
+      ],
+      "section_path_text": "Linked asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76ca09c879be.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76ca09c879be.png\n\nLinked image asset: 2024-11-29_capesize-market-ballasters-tonne-days-market-rates_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_76ca09c879be.png\n\nImage metadata: PNG 656x447 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Decreasing\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\nByoc Wi Cape i Post Prax Bi Pmax Bsupre Bmax BW Hancysize Bsman\nWeekly Trends\nF 800\n2 600",
+      "keywords": [
+        "capesize",
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "bmax",
+        "bsman",
+        "bsupre"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

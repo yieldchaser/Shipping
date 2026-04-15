@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-08-26_2024_08_26_zch6prt90fh46de6g0815l02aredoe__root",
+  "doc_id": "breakwave_insights_insights_2024-08-26_2024_08_26_zch6prt90fh46de6g0815l02aredoe",
+  "parent_id": null,
+  "title": "Large Global Grain Trade Contraction Still Expected",
+  "section_path": [
+    "Large Global Grain Trade Contraction Still Expected"
+  ],
+  "section_path_text": "Large Global Grain Trade Contraction Still Expected",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Dry Bulk Report, the United States Department of Agriculture (USDA) has released a new grain export forecast for the 2024/25 season and is now predicting that global coarse grain, wheat, soybean, and soymeal exports will total 700.8 million tons. This is 1.4 million tons more than was predicted a month ago but marks a year-on-year decline of 14 million tons (-2%) from the 714.8 million tons that is now expected for 2023/24. Global grain trade being expected to contract on a year-on-year basis during the 2024/25 season remains a new headwind.",
+  "keywords": [
+    "brazil",
+    "grain",
+    "million",
+    "tons",
+    "coarse",
+    "exports",
+    "expected",
+    "global",
+    "now",
+    "asset",
+    "export",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 570,
+  "source_path": "reports/breakwave/2024/2024-08-26_zch6prt90fh46de6g0815l02aredoe.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/8/26/zch6prt90fh46de6g0815l02aredoe",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-08-26_2024_08_26_zch6prt90fh46de6g0815l02aredoe__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-08-26_2024_08_26_zch6prt90fh46de6g0815l02aredoe",
+      "parent_id": "breakwave_insights_insights_2024-08-26_2024_08_26_zch6prt90fh46de6g0815l02aredoe__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Dry Bulk Report, the United States Department of Agriculture (USDA) has released a new grain export forecast for the 2024/25 season and is now predicting that global coarse grain, wheat, soybean, and soymeal exports will total 700.8 million tons. This is 1.4 million tons more than was predicted a month ago but marks a year-on-year decline of 14 million tons (-2%) from the 714.8 million tons that is now expected for 2023/24.",
+      "keywords": [
+        "brazil",
+        "grain",
+        "million",
+        "tons",
+        "coarse",
+        "expected",
+        "exports",
+        "now"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 345,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-26_2024_08_26_zch6prt90fh46de6g0815l02aredoe__s02_linked_asset_2024_08_26_zch6prt90fh46de6g0815l02aredoe_img_chart128129_f3bb1b859905_jpg",
+      "doc_id": "breakwave_insights_insights_2024-08-26_2024_08_26_zch6prt90fh46de6g0815l02aredoe",
+      "parent_id": "breakwave_insights_insights_2024-08-26_2024_08_26_zch6prt90fh46de6g0815l02aredoe__root",
+      "title": "Linked asset: 2024-08-26_zch6prt90fh46de6g0815l02aredoe_img_chart128129_f3bb1b859905.jpg",
+      "section_path": [
+        "Linked asset: 2024-08-26_zch6prt90fh46de6g0815l02aredoe_img_chart128129_f3bb1b859905.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-08-26_zch6prt90fh46de6g0815l02aredoe_img_chart128129_f3bb1b859905.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-26_zch6prt90fh46de6g0815l02aredoe_img_chart128129_f3bb1b859905.jpg\n\nLinked image asset: 2024-08-26_zch6prt90fh46de6g0815l02aredoe_img_chart128129_f3bb1b859905.jpg\n\nImage metadata: JPEG 667x225 mode=RGB\n\nOCR text:\nGlobal Coarse Grain Exports (including corn)\nWorld USA Argentina Brazil Ukraine\n2023/24 (est) 244.0mt 63.3mt 39.5mt 50.1mt 32.1mt\n2024/25 (proj) 230.1mt 63.5mt 40.4mt 49.1mt 26.5mt",
+      "keywords": [
+        "brazil",
+        "grain",
+        "asset",
+        "image",
+        "argentina",
+        "coarse",
+        "corn",
+        "est"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 183,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

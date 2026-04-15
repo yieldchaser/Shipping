@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-07-22_2024_07_22_global_economic_activity_and_world_trade_strengthened__root",
+  "doc_id": "breakwave_insights_insights_2024-07-22_2024_07_22_global_economic_activity_and_world_trade_strengthened",
+  "parent_id": null,
+  "title": "Global economic activity and world trade strengthened",
+  "section_path": [
+    "Global economic activity and world trade strengthened"
+  ],
+  "section_path_text": "Global economic activity and world trade strengthened",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAnalysts suggest that the primary driver of China's commodity imports is price, with economic conditions playing only a secondary role. By Michalis Voutsinas\nTypically, late July's dry bulk shipping reports are vibrant, filled with speculations on the Baltic indices' peaks. However, this year has been an anomaly, with such discussions vanishing into obscurity.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "iron_ore",
+    "coal",
+    "grain",
+    "growth",
+    "percent"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1444,
+  "source_path": "reports/breakwave/2024/2024-07-22_global-economic-activity-and-world-trade-strengthened.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/7/22/global-economic-activity-and-world-trade-strengthened",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-07-22_2024_07_22_global_economic_activity_and_world_trade_strengthened__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-07-22_2024_07_22_global_economic_activity_and_world_trade_strengthened",
+      "parent_id": "breakwave_insights_insights_2024-07-22_2024_07_22_global_economic_activity_and_world_trade_strengthened__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Analysts suggest that the primary driver of China's commodity imports is price, with economic conditions playing only a secondary role. By Michalis Voutsinas\nTypically, late July's dry bulk shipping reports are vibrant, filled with speculations on the Baltic indices' peaks.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1030,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-22_2024_07_22_global_economic_activity_and_world_trade_strengthened__s02_linked_asset_2024_07_22_global_economic_activity_and_world_trade_strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094_png",
+      "doc_id": "breakwave_insights_insights_2024-07-22_2024_07_22_global_economic_activity_and_world_trade_strengthened",
+      "parent_id": "breakwave_insights_insights_2024-07-22_2024_07_22_global_economic_activity_and_world_trade_strengthened__root",
+      "title": "Linked asset: 2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png",
+      "section_path": [
+        "Linked asset: 2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png\n\nLinked image asset: 2024-07-22_global-economic-activity-and-world-trade-strengthened_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7647ba51a094.png\n\nImage metadata: PNG 987x358 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nGrowth Projections - July 2024\nUnited States Euro Area\nWORLD 2.50% 2.60% Middle East & Central Asia\n1.90%\n3.30% 3.20% 3.30% 1.50%\n4.00%\n0.50% 0.90%\n. || [| 2.00% 2.40%\n2023 2024 2025 2023 2024 2025\n2023 2024 2025 Emerging & Developing Asia 2023 2024 2025\nLatin America & The Sub-Saharan Africa\nCaribbean 5.70% 5.40% 5.10% 3.40% 3.70% 4.10%\n2.30% 1.90% 2.70% in a\n2023 2024 2025 2023 2024 2025 2023 2024 2025\nSource: IMF, World Economic Outlook, Doric Research",
+      "keywords": [
+        "asia",
+        "asset",
+        "image",
+        "source",
+        "world",
+        "africa",
+        "america",
+        "area"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 360,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

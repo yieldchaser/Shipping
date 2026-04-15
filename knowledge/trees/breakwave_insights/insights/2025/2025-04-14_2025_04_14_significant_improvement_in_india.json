@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india__root",
+  "doc_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india",
+  "parent_id": null,
+  "title": "Significant Improvement in India",
+  "section_path": [
+    "Significant Improvement in India"
+  ],
+  "section_path_text": "Significant Improvement in India",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Executive Report, India produced approximately 136.1 billion kilowatt hours of electricity in March. This is up month-on-month by 15 billion kilowatt hours (12%) and is up year-on-year by 6.6 billion kilowatt hours (5%). While month-on-month changes are very seasonal, significant is that year-on-year growth has now been seen for two straight months.",
+  "keywords": [
+    "india",
+    "coal",
+    "billion",
+    "hours",
+    "kilowatt",
+    "kwh",
+    "asset",
+    "image",
+    "year-on-year",
+    "growth",
+    "electricity",
+    "linked"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 649,
+  "source_path": "reports/breakwave/2025/2025-04-14_significant-improvement-in-india.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/4/13/significant-improvement-in-india",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india",
+      "parent_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Executive Report, India produced approximately 136.1 billion kilowatt hours of electricity in March. This is up month-on-month by 15 billion kilowatt hours (12%) and is up year-on-year by 6.6 billion kilowatt hours (5%).",
+      "keywords": [
+        "india",
+        "coal",
+        "billion",
+        "hours",
+        "kilowatt",
+        "year-on-year",
+        "growth",
+        "month-on-month"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 308,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india__s02_linked_asset_2025_04_14_significant_improvement_in_india_img_chart1_31d5a314ad75_jpg",
+      "doc_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india",
+      "parent_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india__root",
+      "title": "Linked asset: 2025-04-14_significant-improvement-in-india_img_chart1_31d5a314ad75.jpg",
+      "section_path": [
+        "Linked asset: 2025-04-14_significant-improvement-in-india_img_chart1_31d5a314ad75.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-04-14_significant-improvement-in-india_img_chart1_31d5a314ad75.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-14_significant-improvement-in-india_img_chart1_31d5a314ad75.jpg\n\nLinked image asset: 2025-04-14_significant-improvement-in-india_img_chart1_31d5a314ad75.jpg\n\nImage metadata: JPEG 666x210 mode=RGB\n\nOCR text:\nIndian Electricity Production\n160kwh\n120kwh\n80kwh\n2019 2020 2021 2022 2023 2024 2025\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "india",
+        "kwh",
+        "asset",
+        "image",
+        "billion",
+        "electricity",
+        "hours",
+        "indian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 130,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india__s03_linked_asset_2025_04_14_significant_improvement_in_india_img_chart2_ba6fcc6fbb2b_jpg",
+      "doc_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india",
+      "parent_id": "breakwave_insights_insights_2025-04-14_2025_04_14_significant_improvement_in_india__root",
+      "title": "Linked asset: 2025-04-14_significant-improvement-in-india_img_chart2_ba6fcc6fbb2b.jpg",
+      "section_path": [
+        "Linked asset: 2025-04-14_significant-improvement-in-india_img_chart2_ba6fcc6fbb2b.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-04-14_significant-improvement-in-india_img_chart2_ba6fcc6fbb2b.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-14_significant-improvement-in-india_img_chart2_ba6fcc6fbb2b.jpg\n\nLinked image asset: 2025-04-14_significant-improvement-in-india_img_chart2_ba6fcc6fbb2b.jpg\n\nImage metadata: JPEG 666x210 mode=RGB\n\nOCR text:\nIndian Coal-Derived Electricity Production\n140kwh\n120kwh\n100kwh\n80kwh\n60kwh\n2019 2020 2021 2022 2023 2024 2025\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "india",
+        "coal",
+        "kwh",
+        "asset",
+        "image",
+        "billion",
+        "coal-derived",
+        "electricity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

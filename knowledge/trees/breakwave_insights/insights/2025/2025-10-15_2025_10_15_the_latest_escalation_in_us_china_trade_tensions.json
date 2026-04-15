@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-10-15_2025_10_15_the_latest_escalation_in_us_china_trade_tensions__root",
+  "doc_id": "breakwave_insights_insights_2025-10-15_2025_10_15_the_latest_escalation_in_us_china_trade_tensions",
+  "parent_id": null,
+  "title": "The latest escalation in U.S.-China trade tensions",
+  "section_path": [
+    "The latest escalation in U.S.-China trade tensions"
+  ],
+  "section_path_text": "The latest escalation in U.S.-China trade tensions",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nikolaos Tagoulis\nThe latest escalation in U.S.-China trade tensions marks a setback to hopes for a gradual return to a less protectionist trading environment. After a relatively calm summer, Beijing's announcement of retaliatory port fees on U.S.-linked vessels has sent ripples through global seaborne trade. The move mirrors Washington's USTR fees on Chinese vessels.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "lng",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "gas",
+    "chinese",
+    "trade",
+    "fees",
+    "u.s."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1286,
+  "source_path": "reports/breakwave/2025/2025-10-15_the-latest-escalation-in-us-china-trade-tensions.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/10/15/the-latest-escalation-in-us-china-trade-tensions",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-10-15_2025_10_15_the_latest_escalation_in_us_china_trade_tensions__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-10-15_2025_10_15_the_latest_escalation_in_us_china_trade_tensions",
+      "parent_id": "breakwave_insights_insights_2025-10-15_2025_10_15_the_latest_escalation_in_us_china_trade_tensions__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nikolaos Tagoulis\nThe latest escalation in U.S.-China trade tensions marks a setback to hopes for a gradual return to a less protectionist trading environment. After a relatively calm summer, Beijing's announcement of retaliatory port fees on U.S.-linked vessels has sent ripples through global seaborne trade.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "lng",
+        "china",
+        "europe",
+        "india",
+        "gas",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 876,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-10-15_2025_10_15_the_latest_escalation_in_us_china_trade_tensions__s02_linked_asset_2025_10_15_the_latest_escalation_in_us_china_trade_tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3be2265b08db_png",
+      "doc_id": "breakwave_insights_insights_2025-10-15_2025_10_15_the_latest_escalation_in_us_china_trade_tensions",
+      "parent_id": "breakwave_insights_insights_2025-10-15_2025_10_15_the_latest_escalation_in_us_china_trade_tensions__root",
+      "title": "Linked asset: 2025-10-15_the-latest-escalation-in-us-china-trade-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3be2265b08db.png",
+      "section_path": [
+        "Linked asset: 2025-10-15_the-latest-escalation-in-us-china-trade-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3be2265b08db.png"
+      ],
+      "section_path_text": "Linked asset: 2025-10-15_the-latest-escalation-in-us-china-trade-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3be2265b08db.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-10-15_the-latest-escalation-in-us-china-trade-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3be2265b08db.png\n\nLinked image asset: 2025-10-15_the-latest-escalation-in-us-china-trade-tensions_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3be2265b08db.png\n\nImage metadata: PNG 495x210 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nUSTR Section 301 Fees Chinese Min. of Transport Special\nPort Fees\n| Effective from | October 14, 2025 | October 14, 2025 |\nOctober 2025 Chinese owned: $50/nt CNY400 ($56.2)/nt\n| Chinese-built: $18/nt or $120/TEU | |\nApril 2026 Chinese owned: $80/nt CNY640 ($90)/nt\n| Chinese-built: $23/nt or $153/TEU__| |\nApril 2027 Chinese owned: $110/nt CNY880 ($123.7)/nt\n| | Chinese-built: $28/nt or $195/TEU__ |\nApril 2028 Chinese owned: $140/nt CNY1,120 ($157.4)/nt\n| Chinese-built: $33/nt or $250/TEU__ |\nCapperannum _| Svoyages/Vvessel | Svoyages/vessel |",
+      "keywords": [
+        "container",
+        "china",
+        "chinese",
+        "chinese-built",
+        "owned",
+        "teu",
+        "april",
+        "october"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 353,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

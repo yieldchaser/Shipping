@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-01-26_2026_01_26_dry_bulk_market_on_a_stronger_footing__root",
+  "doc_id": "breakwave_insights_insights_2026-01-26_2026_01_26_dry_bulk_market_on_a_stronger_footing",
+  "parent_id": null,
+  "title": "Dry Bulk market on a stronger footing",
+  "section_path": [
+    "Dry Bulk market on a stronger footing"
+  ],
+  "section_path_text": "Dry Bulk market on a stronger footing",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nThis time last year, the dry bulk market was grappling with pronounced weakness and a lack of conviction across nearly all segments. The Handysize sector, often considered the market's defensive cornerstone, stood out merely by losing less than the rest. Even so, rates were sliding sharply, while Panamax, Supramax, and particularly Capesize earnings were under acute pressure.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "india",
+    "japan",
+    "grain",
+    "percent",
+    "growth",
+    "global"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1613,
+  "source_path": "reports/breakwave/2026/2026-01-26_dry-bulk-market-on-a-stronger-footing.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/1/26/dry-bulk-market-on-a-stronger-footing",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-01-26_2026_01_26_dry_bulk_market_on_a_stronger_footing__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-01-26_2026_01_26_dry_bulk_market_on_a_stronger_footing",
+      "parent_id": "breakwave_insights_insights_2026-01-26_2026_01_26_dry_bulk_market_on_a_stronger_footing__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nThis time last year, the dry bulk market was grappling with pronounced weakness and a lack of conviction across nearly all segments. The Handysize sector, often considered the market's defensive cornerstone, stood out merely by losing less than the rest.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "india",
+        "japan",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1369,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-26_2026_01_26_dry_bulk_market_on_a_stronger_footing__s02_linked_asset_2026_01_26_dry_bulk_market_on_a_stronger_footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290_png",
+      "doc_id": "breakwave_insights_insights_2026-01-26_2026_01_26_dry_bulk_market_on_a_stronger_footing",
+      "parent_id": "breakwave_insights_insights_2026-01-26_2026_01_26_dry_bulk_market_on_a_stronger_footing__root",
+      "title": "Linked asset: 2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png",
+      "section_path": [
+        "Linked asset: 2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png"
+      ],
+      "section_path_text": "Linked asset: 2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png\n\nLinked image asset: 2026-01-26_dry-bulk-market-on-a-stronger-footing_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_91068a7f1290.png\n\nImage metadata: PNG 930x246 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nGrowth Projections - IMF\n8%\n6%\n4%\n2%\n0%\nGlobal Growth US Euro China India Brazil Nigeria\nSource: IMF, Doric Research m2025 m2026f 2027f",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "asset",
+        "growth",
+        "image",
+        "imf",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot__root",
+  "doc_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot",
+  "parent_id": null,
+  "title": "Waiting for Godot",
+  "section_path": [
+    "Waiting for Godot"
+  ],
+  "section_path_text": "Waiting for Godot",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBaltic Panamax TC Index averaged $15,910 daily for the first half of the current trading year, marking the highest average in the last couple of years. To find a more vibrant spot market for the first half of the year, one would have to look back to the Covid-stimulus-distorted 2022\nBy Michalis Voutsinas\nIn a year reminiscent of Samuel Beckett's \"tragicomedy\" Waiting for Godot, the Panamax market continues to mirror last year's struggle for a substantial rally in the first trading month of the summer. Reflecting on the situation twelve months ago, the opening paragraph of Doric's Weekly Insight noted: \"In a year that resembles Samuel Beckett's \"tragicomedy\" Waiting for Godot, week after week we have been awaiting a Panamax rally only to suffer from the harsh reality of a frugal market.",
+  "keywords": [
+    "panamax",
+    "china",
+    "brazil",
+    "india",
+    "japan",
+    "coal",
+    "grain",
+    "mmt",
+    "year",
+    "last",
+    "june",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1875,
+  "source_path": "reports/breakwave/2024/2024-07-01_waiting-for-godot.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/7/1/waiting-for-godot",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot",
+      "parent_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Baltic Panamax TC Index averaged $15,910 daily for the first half of the current trading year, marking the highest average in the last couple of years. To find a more vibrant spot market for the first half of the year, one would have to look back to the Covid-stimulus-distorted 2022\nBy Michalis Voutsinas\nIn a year reminiscent of Samuel Beckett's \"tragicomedy\" Waiting for Godot, the Panamax market continues to mirror last year's struggle for a substantial rally in the first trading month of the summer.",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "india",
+        "japan",
+        "coal",
+        "grain",
+        "mmt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1327,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot__s02_linked_asset_2024_07_01_waiting_for_godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704eb8d2e5b6_png",
+      "doc_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot",
+      "parent_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot__root",
+      "title": "Linked asset: 2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704eb8d2e5b6.png",
+      "section_path": [
+        "Linked asset: 2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704eb8d2e5b6.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704eb8d2e5b6.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704eb8d2e5b6.png\n\nLinked image asset: 2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_704eb8d2e5b6.png\n\nImage metadata: PNG 482x232 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n17500 -\nSeasonal Brazil Soybean Exports\n15000\n12500\n10000 ;\n3\n5 7500\n2 5000 S\n5\n3\n3 2500 /\n= 0 _\nJan Feb Mar Apr Mar Jun Jul Aug Sep Oct Nov Dec\nee 2024 rrr 2023, rr 2022 --2021 2020\nSource: Refinitiv, Doric Research",
+      "keywords": [
+        "brazil",
+        "grain",
+        "asset",
+        "image",
+        "mar",
+        "source",
+        "apr",
+        "aug"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 226,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot__s03_linked_asset_2024_07_01_waiting_for_godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbe82480ed35_png",
+      "doc_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot",
+      "parent_id": "breakwave_insights_insights_2024-07-01_2024_07_01_waiting_for_godot__root",
+      "title": "Linked asset: 2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbe82480ed35.png",
+      "section_path": [
+        "Linked asset: 2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbe82480ed35.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbe82480ed35.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbe82480ed35.png\n\nLinked image asset: 2024-07-01_waiting-for-godot_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cbe82480ed35.png\n\nImage metadata: PNG 948x322 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n$25,000 ~ 7 -\nBaltic Panamax TC Average Performance\n$20,000 a\n$15,000\n$10,000 % ;\n$5,000\nso r T T T T T T T T T T T\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\nSource: Baltic Exchange, Doric Research em PSTC Avg 2018-2022 qo PSTC 2023 qq PSTC 2024",
+      "keywords": [
+        "panamax",
+        "pstc",
+        "asset",
+        "image",
+        "source",
+        "apr",
+        "aug",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 226,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

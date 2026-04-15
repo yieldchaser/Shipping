@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-05-08_2025_05_08_how_an_ageing_vlcc_fleet_is_reshaping_market_dynamics__root",
+  "doc_id": "breakwave_insights_insights_2025-05-08_2025_05_08_how_an_ageing_vlcc_fleet_is_reshaping_market_dynamics",
+  "parent_id": null,
+  "title": "How an ageing VLCC fleet is reshaping market dynamics",
+  "section_path": [
+    "How an ageing VLCC fleet is reshaping market dynamics"
+  ],
+  "section_path_text": "How an ageing VLCC fleet is reshaping market dynamics",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Mette Frederiksen\nThe VLCC market is going through some significant transitions. While we have technically seen the overall number of ships in the fleet increase thanks to newbuilds combined with older ships not retiring, the older tonnage is increasingly less efficient, which is actually slowing down the effective growth of the fleet. This is further complicated by the rise of the \"dark fleet,\" where older ships are finding work in less regulated areas, often carrying oil from countries under sanctions.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "atlantic",
+    "crude_oil",
+    "ships",
+    "older",
+    "years",
+    "are",
+    "fleet",
+    "age",
+    "effective",
+    "vlccs"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 990,
+  "source_path": "reports/breakwave/2025/2025-05-08_how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/5/8/how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-05-08_2025_05_08_how_an_ageing_vlcc_fleet_is_reshaping_market_dynamics__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-05-08_2025_05_08_how_an_ageing_vlcc_fleet_is_reshaping_market_dynamics",
+      "parent_id": "breakwave_insights_insights_2025-05-08_2025_05_08_how_an_ageing_vlcc_fleet_is_reshaping_market_dynamics__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Mette Frederiksen\nThe VLCC market is going through some significant transitions. While we have technically seen the overall number of ships in the fleet increase thanks to newbuilds combined with older ships not retiring, the older tonnage is increasingly less efficient, which is actually slowing down the effective growth of the fleet.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "atlantic",
+        "crude_oil",
+        "ships",
+        "older",
+        "are",
+        "fleet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 733,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-08_2025_05_08_how_an_ageing_vlcc_fleet_is_reshaping_market_dynamics__s02_linked_asset_2025_05_08_how_an_ageing_vlcc_fleet_is_reshaping_market_dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c69743c6bd0_png",
+      "doc_id": "breakwave_insights_insights_2025-05-08_2025_05_08_how_an_ageing_vlcc_fleet_is_reshaping_market_dynamics",
+      "parent_id": "breakwave_insights_insights_2025-05-08_2025_05_08_how_an_ageing_vlcc_fleet_is_reshaping_market_dynamics__root",
+      "title": "Linked asset: 2025-05-08_how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c69743c6bd0.png",
+      "section_path": [
+        "Linked asset: 2025-05-08_how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c69743c6bd0.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-08_how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c69743c6bd0.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-08_how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c69743c6bd0.png\n\nLinked image asset: 2025-05-08_how-an-ageing-vlcc-fleet-is-reshaping-market-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c69743c6bd0.png\n\nImage metadata: PNG 687x447 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nVLCC voyages per year by age grour VLCCs aged 20+ years at year start\nD> vannens : @® a :0085\n1",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "year",
+        "age",
+        "aged",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

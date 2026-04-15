@@ -1,13 +1,12 @@
 {
-  "generated_at": "2026-04-15T09:23:06Z",
+  "generated_at": "2026-04-15T12:36:36Z",
   "current_date": "2026-04-15",
-  "warning_count": 9,
-  "high_severity_count": 1,
+  "warning_count": 6,
+  "high_severity_count": 0,
   "status_counts": {
     "sources": {
-      "healthy": 13,
-      "reference": 1,
-      "stale": 1
+      "healthy": 14,
+      "reference": 1
     },
     "topics": {
       "healthy": 10
@@ -16,37 +15,18 @@
   },
   "warnings": [
     {
-      "severity": "stale",
-      "kind": "source_freshness",
-      "key": "breakwave_insights/insights",
-      "message": "breakwave_insights/insights is stale at 807 days since the latest dated document.",
-      "details": {
-        "label": "breakwave_insights/insights",
-        "source": "breakwave_insights",
-        "category": "insights",
-        "status": "stale",
-        "cadence_days": 14,
-        "latest_date": "2024-01-29",
-        "age_days": 807,
-        "latest_gap_days": 3,
-        "max_recent_gap_days": 3,
-        "dated_doc_count": 1468,
-        "undated_doc_count": 0
-      }
-    },
-    {
       "severity": "watch",
       "kind": "topic_source_gap",
       "key": "capesize",
-      "message": "capesize is missing recent evidence from expected sources: baltic, breakwave_insights.",
+      "message": "capesize is missing recent evidence from expected sources: baltic.",
       "details": {
         "topic_id": "capesize",
         "missing_recent_sources": [
-          "baltic",
-          "breakwave_insights"
+          "baltic"
         ],
         "recent_sources_present": [
           "breakwave",
+          "breakwave_insights",
           "hellenic"
         ]
       }
@@ -55,15 +35,15 @@
       "severity": "watch",
       "kind": "topic_source_gap",
       "key": "china_steel_and_iron_ore",
-      "message": "china_steel_and_iron_ore is missing recent evidence from expected sources: breakwave_insights.",
+      "message": "china_steel_and_iron_ore is missing recent evidence from expected sources: baltic.",
       "details": {
         "topic_id": "china_steel_and_iron_ore",
         "missing_recent_sources": [
-          "breakwave_insights"
+          "baltic"
         ],
         "recent_sources_present": [
-          "baltic",
           "breakwave",
+          "breakwave_insights",
           "hellenic"
         ]
       }
@@ -72,32 +52,15 @@
       "severity": "watch",
       "kind": "topic_source_gap",
       "key": "coal_and_grain_flows",
-      "message": "coal_and_grain_flows is missing recent evidence from expected sources: breakwave_insights.",
+      "message": "coal_and_grain_flows is missing recent evidence from expected sources: baltic.",
       "details": {
         "topic_id": "coal_and_grain_flows",
         "missing_recent_sources": [
-          "breakwave_insights"
+          "baltic"
         ],
         "recent_sources_present": [
-          "baltic",
           "breakwave",
-          "hellenic"
-        ]
-      }
-    },
-    {
-      "severity": "watch",
-      "kind": "topic_source_gap",
-      "key": "dry_bulk_market",
-      "message": "dry_bulk_market is missing recent evidence from expected sources: breakwave_insights.",
-      "details": {
-        "topic_id": "dry_bulk_market",
-        "missing_recent_sources": [
-          "breakwave_insights"
-        ],
-        "recent_sources_present": [
-          "baltic",
-          "breakwave",
+          "breakwave_insights",
           "hellenic"
         ]
       }
@@ -106,15 +69,15 @@
       "severity": "watch",
       "kind": "topic_source_gap",
       "key": "oil_and_opec",
-      "message": "oil_and_opec is missing recent evidence from expected sources: breakwave_insights.",
+      "message": "oil_and_opec is missing recent evidence from expected sources: baltic.",
       "details": {
         "topic_id": "oil_and_opec",
         "missing_recent_sources": [
-          "breakwave_insights"
+          "baltic"
         ],
         "recent_sources_present": [
-          "baltic",
           "breakwave",
+          "breakwave_insights",
           "hellenic"
         ]
       }
@@ -123,32 +86,15 @@
       "severity": "watch",
       "kind": "topic_source_gap",
       "key": "panamax_and_supramax",
-      "message": "panamax_and_supramax is missing recent evidence from expected sources: breakwave_insights.",
+      "message": "panamax_and_supramax is missing recent evidence from expected sources: baltic.",
       "details": {
         "topic_id": "panamax_and_supramax",
         "missing_recent_sources": [
-          "breakwave_insights"
+          "baltic"
         ],
         "recent_sources_present": [
-          "baltic",
           "breakwave",
-          "hellenic"
-        ]
-      }
-    },
-    {
-      "severity": "watch",
-      "kind": "topic_source_gap",
-      "key": "tanker_market",
-      "message": "tanker_market is missing recent evidence from expected sources: breakwave_insights.",
-      "details": {
-        "topic_id": "tanker_market",
-        "missing_recent_sources": [
-          "breakwave_insights"
-        ],
-        "recent_sources_present": [
-          "baltic",
-          "breakwave",
+          "breakwave_insights",
           "hellenic"
         ]
       }
@@ -157,15 +103,15 @@
       "severity": "watch",
       "kind": "topic_source_gap",
       "key": "vlcc_and_suezmax",
-      "message": "vlcc_and_suezmax is missing recent evidence from expected sources: breakwave_insights.",
+      "message": "vlcc_and_suezmax is missing recent evidence from expected sources: baltic.",
       "details": {
         "topic_id": "vlcc_and_suezmax",
         "missing_recent_sources": [
-          "breakwave_insights"
+          "baltic"
         ],
         "recent_sources_present": [
-          "baltic",
           "breakwave",
+          "breakwave_insights",
           "hellenic"
         ]
       }

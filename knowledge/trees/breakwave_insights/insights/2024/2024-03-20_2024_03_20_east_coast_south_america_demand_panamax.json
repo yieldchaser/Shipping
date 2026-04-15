@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__root",
+  "doc_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax",
+  "parent_id": null,
+  "title": "East Coast South America Demand Panamax",
+  "section_path": [
+    "East Coast South America Demand Panamax"
+  ],
+  "section_path_text": "East Coast South America Demand Panamax",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: Screenshot 2024-03-20 18.15.55.png | assets/2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181555_c91f40fbdf1c.png\nIn the latter half of March, the freight market for large vessel sizes displayed a notable increase in momentum, particularly evident as the vessel count in terms of ballasters experienced an unexpected decline compared to the peak levels observed nearly four weeks prior. Amidst discussions surrounding whether the recent surge in Capesize and Panamax market rates stems from supply or demand dynamics, it becomes evident that the recent tightening of vessel supply serves as a significant upward catalyst. This trend is underscored by recent data indicating a surpassing of demand benchmarks, such as the South Atlantic Capesize daily volume loading observed last week and the ECSA Panamax daily volume loaded this week (referencing the 7-day moving average depicted in the provided image).",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "iron_ore",
+    "steel",
+    "image",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2799,
+  "source_path": "reports/breakwave/2024/2024-03-20_east-coast-south-america-demand-panamax.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/3/20/east-coast-south-america-demand-panamax",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax",
+      "parent_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: Screenshot 2024-03-20 18.15.55.png | assets/2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181555_c91f40fbdf1c.png\nIn the latter half of March, the freight market for large vessel sizes displayed a notable increase in momentum, particularly evident as the vessel count in terms of ballasters experienced an unexpected decline compared to the peak levels observed nearly four weeks prior. Amidst discussions surrounding whether the recent surge in Capesize and Panamax market rates stems from supply or demand dynamics, it becomes evident that the recent tightening of vessel supply serves as a significant upward catalyst.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "atlantic",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1394,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__s02_linked_asset_2024_03_20_east_coast_south_america_demand_panamax_img_screenshot2024_03_20181555_c91f40fbdf1c_png",
+      "doc_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax",
+      "parent_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__root",
+      "title": "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181555_c91f40fbdf1c.png",
+      "section_path": [
+        "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181555_c91f40fbdf1c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181555_c91f40fbdf1c.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181555_c91f40fbdf1c.png\n\nLinked image asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181555_c91f40fbdf1c.png\n\nImage metadata: PNG 663x430 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nChart of the Week : ECSA Demand Panamax & Ballasters\nReduction in the count of Panamax vessels in ballast status with the ECSA daily volume loaded\nsurpassing the demand benchmark\n‘Chart of the Week 12, March 2024\nOry Market Monitor\nBallasters vs Baltic Rates 70MA ECSA Daity Volume loaded 76MA\ni \"Sg soe 4 i\\ WV\n.",
+      "keywords": [
+        "panamax",
+        "ecsa",
+        "asset",
+        "ballasters",
+        "chart",
+        "demand",
+        "image",
+        "loaded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 232,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__s03_linked_asset_2024_03_20_east_coast_south_america_demand_panamax_img_screenshot2024_03_20181616_1ec243b5e2d4_png",
+      "doc_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax",
+      "parent_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__root",
+      "title": "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181616_1ec243b5e2d4.png",
+      "section_path": [
+        "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181616_1ec243b5e2d4.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181616_1ec243b5e2d4.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181616_1ec243b5e2d4.png\n\nLinked image asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181616_1ec243b5e2d4.png\n\nImage metadata: PNG 665x537 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 1/ FREIGHT\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nMarket Rates ($/t) Firmer\nSummary of Indicative Market Rates, $/ton\nHl Core - Brazil NChing Wh Pan. Cont FE TB supra ince EC BB Hasey NoPac Fe\nWeekly Trends\n5S\na aie\n4s\n40\nF 6\n= 30\n26\n20\n1s\n7 eS ____\nZSPFLSEFSLESLLSELESSLSSLLSSLISELIIIZZIZIIZIEEZESSSELS SS sss",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "brazil",
+        "asset",
+        "image",
+        "aie",
+        "big"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 278,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__s04_linked_asset_2024_03_20_east_coast_south_america_demand_panamax_img_screenshot2024_03_20181625_2c4a791c7b51_png",
+      "doc_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax",
+      "parent_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__root",
+      "title": "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181625_2c4a791c7b51.png",
+      "section_path": [
+        "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181625_2c4a791c7b51.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181625_2c4a791c7b51.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181625_2c4a791c7b51.png\n\nLinked image asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181625_2c4a791c7b51.png\n\nImage metadata: PNG 667x507 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 2/ SUPPLY\nSupply Trend Lines for Key Load Areas\nBallasters (#vessels) Mixed\nSummary of Ballasters, Per Dry Bulk Ship Size\nWh Core SE Atrce Wh mn SE atric Wh Sucre St Ave Bh kena nOPAC\nWeekly Trends\ncases F330 sons\ntree IS a een\n‘NOPAC & i)\nCEE EEESEP2 ES PP PPP PP PF PPP FS ELELTLILLLPRLLPEPELSEEEEEE EER",
+      "keywords": [
+        "panamax",
+        "asset",
+        "ballasters",
+        "image",
+        "nopac",
+        "ppp",
+        "supply",
+        "areas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 244,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__s05_linked_asset_2024_03_20_east_coast_south_america_demand_panamax_img_screenshot2024_03_20181632_977116e58463_png",
+      "doc_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax",
+      "parent_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__root",
+      "title": "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181632_977116e58463.png",
+      "section_path": [
+        "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181632_977116e58463.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181632_977116e58463.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181632_977116e58463.png\n\nLinked image asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181632_977116e58463.png\n\nImage metadata: PNG 664x496 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 3/ DEMAND\nSummary of Dry Bulk Demand, per Ship Size\nTonne Days Mixed\nWeekly Trends\nHow enw Mee mee,\n10%\ni\n2\n90%\n20%\nEPEPEgFPEPLGPLELELLERTPLSTGLLTPLP22e2eEssssessesss\nERRRRRRERRRRARRERRE RARER RRR ARA RARER RRR AR RRR RRR RRR AEE",
+      "keywords": [
+        "panamax",
+        "rrr",
+        "asset",
+        "demand",
+        "image",
+        "mee",
+        "rarer",
+        "aee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 230,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__s06_linked_asset_2024_03_20_east_coast_south_america_demand_panamax_img_screenshot2024_03_20181639_9739853b824d_png",
+      "doc_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax",
+      "parent_id": "breakwave_insights_insights_2024-03-20_2024_03_20_east_coast_south_america_demand_panamax__root",
+      "title": "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181639_9739853b824d.png",
+      "section_path": [
+        "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181639_9739853b824d.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181639_9739853b824d.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181639_9739853b824d.png\n\nLinked image asset: 2024-03-20_east-coast-south-america-demand-panamax_img_screenshot2024-03-20181639_9739853b824d.png\n\nImage metadata: PNG 663x553 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 4/ PORT CONGESTION\nDry bulk ships congested at Chinese ports\nNo of Vessels Increasing\nSummary of Chinese Dry Bulk Ship Congestions\nBuc | eg | eee Bone Bio | a Bh eercyece Gs\nWeekly Trends\n5\ni",
+      "keywords": [
+        "panamax",
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "bio",
+        "bone",
+        "buc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

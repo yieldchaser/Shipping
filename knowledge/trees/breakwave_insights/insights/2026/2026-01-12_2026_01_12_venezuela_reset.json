@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset__root",
+  "doc_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset",
+  "parent_id": null,
+  "title": "Venezuela Reset",
+  "section_path": [
+    "Venezuela Reset"
+  ],
+  "section_path_text": "Venezuela Reset",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg\nIf anyone expected 2026 to be less eventful than 2025, the first weekend of the year has swiftly proved them wrong. On January 3rd, the US announced that Venezuelan President Nicolás Maduro and his wife had been captured and taken into US custody. As the week progressed, a new interim president was sworn in, three more sanctioned vessels were seized by the US, including one tanker flying the Russian flag.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "are",
+    "crude",
+    "venezuela",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1725,
+  "source_path": "reports/breakwave/2026/2026-01-12_venezuela-reset.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/1/12/venezuela-reset",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset",
+      "parent_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg\nIf anyone expected 2026 to be less eventful than 2025, the first weekend of the year has swiftly proved them wrong. On January 3rd, the US announced that Venezuelan President Nicolás Maduro and his wife had been captured and taken into US custody.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "europe",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 968,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset__s02_linked_asset_2026_01_12_venezuela_reset_img_oil_drilling_b002be8ead60_jpg",
+      "doc_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset",
+      "parent_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset__root",
+      "title": "Linked asset: 2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg",
+      "section_path": [
+        "Linked asset: 2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg\n\nLinked image asset: 2026-01-12_venezuela-reset_img_oil-drilling_b002be8ead60.jpg\n\nImage metadata: JPEG 1920x1280 mode=RGB\n\nOCR text:\n. = \\\n\\\noot\n=\n‘ \\\nH\n- er\niB ef)\né\n,\n.",
+      "keywords": [
+        "crude_oil",
+        "eee",
+        "asset",
+        "image",
+        "see",
+        "aan",
+        "aapa",
+        "aazzz"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 427,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset__s03_linked_asset_2026_01_12_venezuela_reset_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64aed2d1612e_png",
+      "doc_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset",
+      "parent_id": "breakwave_insights_insights_2026-01-12_2026_01_12_venezuela_reset__root",
+      "title": "Linked asset: 2026-01-12_venezuela-reset_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64aed2d1612e.png",
+      "section_path": [
+        "Linked asset: 2026-01-12_venezuela-reset_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64aed2d1612e.png"
+      ],
+      "section_path_text": "Linked asset: 2026-01-12_venezuela-reset_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64aed2d1612e.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-01-12_venezuela-reset_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64aed2d1612e.png\n\nLinked image asset: 2026-01-12_venezuela-reset_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_64aed2d1612e.png\n\nImage metadata: PNG 1454x589 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nVenezuela Crude Production (kbd)\n3.500\n3.000\nae an\n2.500\n2.000\n1.500\n1.000 71\n500\n‘el Ne) A > \" Ne Ne) A ~~) \" Me) Ne) A 2 N Ne] Ne) A 2 nN We) Ne) A ~) a > ve)\nSs Ss Ss 2s LFF Ff Ff Ff LF LF LF LF s s s s Ss = = = aS s we a aS",
+      "keywords": [
+        "asset",
+        "image",
+        "crude",
+        "dpi",
+        "embedded",
+        "info",
+        "kbd",
+        "lff"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 253,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

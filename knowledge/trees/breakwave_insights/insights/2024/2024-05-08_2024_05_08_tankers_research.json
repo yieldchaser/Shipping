@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__root",
+  "doc_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research",
+  "parent_id": null,
+  "title": "Tankers Research",
+  "section_path": [
+    "Tankers Research"
+  ],
+  "section_path_text": "Tankers Research",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC voyage numbers decline in April following record March highs\nThe number of VLCC voyages dropped by 11% in April following record highs in March. March's employment surge was driven by increased Middle East Gulf loadings bound for Northeast Asia and a rise in voyages from the Gulf of Mexico to Asia. Image reference: image0.png | assets/2024-05-08_tankers-research_img_image0_563d32eac071.png\nApril saw a 50% reduction in long-haul US Gulf voyages to Asia due to less favourable arbitrage economics, diverting slightly more barrels to Europe on smaller vessel classes.",
+  "keywords": [
+    "vlcc",
+    "aframax",
+    "china",
+    "meg",
+    "europe",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "crude",
+    "asset",
+    "image",
+    "b/d"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1825,
+  "source_path": "reports/breakwave/2024/2024-05-08_tankers-research.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/5/8/tankers-research",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research",
+      "parent_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC voyage numbers decline in April following record March highs\nThe number of VLCC voyages dropped by 11% in April following record highs in March. March's employment surge was driven by increased Middle East Gulf loadings bound for Northeast Asia and a rise in voyages from the Gulf of Mexico to Asia.",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "meg",
+        "europe",
+        "india",
+        "us_gulf",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1068,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__s02_linked_asset_2024_05_08_tankers_research_img_image0_563d32eac071_png",
+      "doc_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research",
+      "parent_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__root",
+      "title": "Linked asset: 2024-05-08_tankers-research_img_image0_563d32eac071.png",
+      "section_path": [
+        "Linked asset: 2024-05-08_tankers-research_img_image0_563d32eac071.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-08_tankers-research_img_image0_563d32eac071.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-08_tankers-research_img_image0_563d32eac071.png\n\nLinked image asset: 2024-05-08_tankers-research_img_image0_563d32eac071.png\n\nImage metadata: PNG 699x514 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\nOCR text:\n4550 ------\na Other\n400\n350 titi PUP RTL TI ag Undetermined\ngoo A | LTT TT BSEA\n250\nLTTTEL ELT E EL ETT TTT Ts\n200\nTAT\n50\nBMEG\n0\nNNNVNNRRRRRAAS\nCaew@saes,Gaerwae35a\nSss-a27z%s5s 8755",
+      "keywords": [
+        "meg",
+        "asset",
+        "image",
+        "bmeg",
+        "bsea",
+        "caew",
+        "dpi",
+        "elt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__s03_linked_asset_2024_05_08_tankers_research_img_image1_625c1499bdc5_png",
+      "doc_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research",
+      "parent_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__root",
+      "title": "Linked asset: 2024-05-08_tankers-research_img_image1_625c1499bdc5.png",
+      "section_path": [
+        "Linked asset: 2024-05-08_tankers-research_img_image1_625c1499bdc5.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-08_tankers-research_img_image1_625c1499bdc5.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-08_tankers-research_img_image1_625c1499bdc5.png\n\nLinked image asset: 2024-05-08_tankers-research_img_image1_625c1499bdc5.png\n\nImage metadata: PNG 690x549 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\nOCR text:\n-",
+      "keywords": [
+        "asset",
+        "image",
+        "dpi",
+        "embedded",
+        "info",
+        "linked",
+        "metadata",
+        "mode"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 96,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__s04_linked_asset_2024_05_08_tankers_research_img_image2_f357eee25dc6_png",
+      "doc_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research",
+      "parent_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__root",
+      "title": "Linked asset: 2024-05-08_tankers-research_img_image2_f357eee25dc6.png",
+      "section_path": [
+        "Linked asset: 2024-05-08_tankers-research_img_image2_f357eee25dc6.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-08_tankers-research_img_image2_f357eee25dc6.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-08_tankers-research_img_image2_f357eee25dc6.png\n\nLinked image asset: 2024-05-08_tankers-research_img_image2_f357eee25dc6.png\n\nImage metadata: PNG 702x552 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\nOCR text:\n0.8 ---- SSS\n07 SSS mw Malaysia\n0.6 es | i Bindia\n05 -_--£- ta = Others\n0.4 | | (H || m Spain\n0.3 I VANILLI | = Cuba\n02 i! | LUTLNIYUVIULIII | Undetermined\n0) TUTTE surtec stats\n0.0 mg China\nSES§eeS§ RRS aE\n2021 2022 2023 2024",
+      "keywords": [
+        "china",
+        "india",
+        "asset",
+        "image",
+        "sss",
+        "bindia",
+        "cuba",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 198,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__s05_linked_asset_2024_05_08_tankers_research_img_image3_033552f9833b_png",
+      "doc_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research",
+      "parent_id": "breakwave_insights_insights_2024-05-08_2024_05_08_tankers_research__root",
+      "title": "Linked asset: 2024-05-08_tankers-research_img_image3_033552f9833b.png",
+      "section_path": [
+        "Linked asset: 2024-05-08_tankers-research_img_image3_033552f9833b.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-08_tankers-research_img_image3_033552f9833b.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-08_tankers-research_img_image3_033552f9833b.png\n\nLinked image asset: 2024-05-08_tankers-research_img_image3_033552f9833b.png\n\nImage metadata: PNG 772x657 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\nOCR text:\n| |_| | |_|\n3.0\n6.0\n35 38\nei a\n5.0 75 12.0\neo i 20 Ho\n_ 5.0\n56 AZ 59 OME SIE\n2 2 21.5 19.0 19.0\nes 13.0 13.0",
+      "keywords": [
+        "asset",
+        "image",
+        "dpi",
+        "embedded",
+        "info",
+        "linked",
+        "metadata",
+        "mode"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

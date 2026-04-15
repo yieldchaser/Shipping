@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow__root",
+  "doc_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow",
+  "parent_id": null,
+  "title": "Cash Cow",
+  "section_path": [
+    "Cash Cow"
+  ],
+  "section_path_text": "Cash Cow",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: Oil-Drilling.jpg | assets/2024-07-15_cash-cow_img_oil-drilling_1f62af173c53.jpg\nIn December 2023, when the newly elected Xavier Milei took the oath as the Argentinian president, the country was reeling under hyper-inflation, which stood at 133.5% annually. Whilst Argentina's new president has been anything but quiet as he seeks to rejuvenate the economy, the country's oil and gas sector has been making quiet progress towards boosting production and exports. In the Vaca Muerta, home to the continent's largest shale formation holding the world's second largest shale gas and fourth largest shale oil reserves, crude oil production recently reached around 300,000 bpd.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "brazil",
+    "atlantic",
+    "europe",
+    "crude_oil",
+    "gas",
+    "crude",
+    "oil",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1381,
+  "source_path": "reports/breakwave/2024/2024-07-15_cash-cow.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/7/15/cash-cow",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow",
+      "parent_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: Oil-Drilling.jpg | assets/2024-07-15_cash-cow_img_oil-drilling_1f62af173c53.jpg\nIn December 2023, when the newly elected Xavier Milei took the oath as the Argentinian president, the country was reeling under hyper-inflation, which stood at 133.5% annually. Whilst Argentina's new president has been anything but quiet as he seeks to rejuvenate the economy, the country's oil and gas sector has been making quiet progress towards boosting production and exports.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "atlantic",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 697,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow__s02_linked_asset_2024_07_15_cash_cow_img_oil_drilling_1f62af173c53_jpg",
+      "doc_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow",
+      "parent_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow__root",
+      "title": "Linked asset: 2024-07-15_cash-cow_img_oil-drilling_1f62af173c53.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-15_cash-cow_img_oil-drilling_1f62af173c53.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-15_cash-cow_img_oil-drilling_1f62af173c53.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-15_cash-cow_img_oil-drilling_1f62af173c53.jpg\n\nLinked image asset: 2024-07-15_cash-cow_img_oil-drilling_1f62af173c53.jpg\n\nImage metadata: JPEG 1920x1280 mode=RGB\n\nOCR text:\n°\na ae B |\n: z |\na ' :\nBl\n- er\ni fl\n4\n: ~'\n|\ngli i \\ |\nh i , ser\" hi '\nLH é - » ! -\ni : F es de - ae eh Ws \\\nEe ; : : sg = .",
+      "keywords": [
+        "crude_oil",
+        "sss",
+        "asset",
+        "image",
+        "aes",
+        "ahve",
+        "cash-cow_img_oil-drilling_1f62af173c53.jpg",
+        "eee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 390,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow__s03_linked_asset_2024_07_15_cash_cow_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04e7d84a7373_png",
+      "doc_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow",
+      "parent_id": "breakwave_insights_insights_2024-07-15_2024_07_15_cash_cow__root",
+      "title": "Linked asset: 2024-07-15_cash-cow_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04e7d84a7373.png",
+      "section_path": [
+        "Linked asset: 2024-07-15_cash-cow_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04e7d84a7373.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-15_cash-cow_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04e7d84a7373.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-15_cash-cow_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04e7d84a7373.png\n\nLinked image asset: 2024-07-15_cash-cow_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_04e7d84a7373.png\n\nImage metadata: PNG 1453x563 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nArgentinian Crude Exports (000 bpd)\n12 [5] Panamax/LR1 [7 __] Suezmax/LR3 Aframax/LR2 [>] Vlcc [___] MR\n400 | |\n80 -_-_\n60 So\n40\noes\n0\n2017 2018 2019 2020 2021 2022 2023 2024",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "asset",
+        "image",
+        "aframax/lr2",
+        "argentinian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 217,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

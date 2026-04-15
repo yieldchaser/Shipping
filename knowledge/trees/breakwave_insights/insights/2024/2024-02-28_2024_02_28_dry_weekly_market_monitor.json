@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__root",
+  "doc_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor",
+  "parent_id": null,
+  "title": "Dry Weekly Market Monitor",
+  "section_path": [
+    "Dry Weekly Market Monitor"
+  ],
+  "section_path_text": "Dry Weekly Market Monitor",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: Screenshot 2024-02-28 12.34.01.png | assets/2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123401_8416c7dd0760.png\nAt the end of the month, there's a notable upturn in the Capesize Brazil to N China route, with rates reaching new highs since the year's outset. However, it remains uncertain whether this firmness will persist into March. Interestingly, despite signs of a stronger freight market sentiment, there's a decrease in the growth of tonne days, particularly notable in the Handysize segment.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "image",
+    "asset",
+    "linked",
+    "png",
+    "end"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2956,
+  "source_path": "reports/breakwave/2024/2024-02-28_dry-weekly-market-monitor.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/2/28/dry-weekly-market-monitor",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: Screenshot 2024-02-28 12.34.01.png | assets/2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123401_8416c7dd0760.png\nAt the end of the month, there's a notable upturn in the Capesize Brazil to N China route, with rates reaching new highs since the year's outset. However, it remains uncertain whether this firmness will persist into March.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1322,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__s02_linked_asset_2024_02_28_dry_weekly_market_monitor_img_screenshot2024_02_28123401_8416c7dd0760_png",
+      "doc_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__root",
+      "title": "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123401_8416c7dd0760.png",
+      "section_path": [
+        "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123401_8416c7dd0760.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123401_8416c7dd0760.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123401_8416c7dd0760.png\n\nLinked image asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123401_8416c7dd0760.png\n\nImage metadata: PNG 855x597 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nChart of the Week : Ballasters to ECSA Vs Daily Volume Loaded\nA decreasing trend in the number of ballasters to ECSA with a recent peak in the daily volume\nloaded\nBallasterstoECSA 7dMA ECSA Daily Volume loaded\n138 4 08M\n300 13\n120 06M\n4 12 2\n$ 200 100 3 04M\n141 80 02M\n76\n= Jul 2022 Jan 2023 Jul 2023 Jan 2024 Jon 2022 Jan 2023 Jan 2024\n-- Panamax -- Supramax -- Panamax -- Supramax",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "jan",
+        "daily",
+        "ecsa",
+        "loaded",
+        "volume",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 261,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__s03_linked_asset_2024_02_28_dry_weekly_market_monitor_img_screenshot2024_02_28123512_a906baa9bf29_png",
+      "doc_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__root",
+      "title": "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123512_a906baa9bf29.png",
+      "section_path": [
+        "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123512_a906baa9bf29.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123512_a906baa9bf29.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123512_a906baa9bf29.png\n\nLinked image asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123512_a906baa9bf29.png\n\nImage metadata: PNG 664x550 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nMarket Rates ($/t) Mixed\nSummary of Indicative Market Rates, $/ton\nWi Cape - Brazil NChina i Pmax-Cont FE Wi Supra - Indo ECI BB Handy NOPAC FE\nWeekly Trends\n4s\n40\n35\nPa\n%\n=\nSas\n20\n1s\nEOE\nSLANMALSSSSALARLSLSSSLKSSHSSRREBERSSSISSSLSSSSRaAseeseesee\nMSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS Sec eeeece\nSQLRALLKGAKLLLLRASLLAALKKILRKLKKAAKSLLAKRLALLASSSssggs\nRSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSRRRRRRRRR\nRERRRRRLKRKKRRRRRRRRRRARLKLRKRRAKRRRRRRRRKRS",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "asset",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 344,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__s04_linked_asset_2024_02_28_dry_weekly_market_monitor_img_screenshot2024_02_28123521_e9021dc3c77f_png",
+      "doc_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__root",
+      "title": "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123521_e9021dc3c77f.png",
+      "section_path": [
+        "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123521_e9021dc3c77f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123521_e9021dc3c77f.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123521_e9021dc3c77f.png\n\nLinked image asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123521_e9021dc3c77f.png\n\nImage metadata: PNG 670x512 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSupply Trend Lines for Key Load Areas\nBallasters (#vessels) Decreasing\nSummary of Ballasters, Per Dry Bulk Ship Size\nWi Cape SE Africa BW Pmax SE Africa Mi Supra SE Asia Wi Handy NOPAC\nWeekly Trends\n130\nCapeSE -& 110 Average\nAfrica <0 4\n> 90\n190\nPmaxSE & 150 average\nAfrica a --\n> 110\n70\nos 120\nSuprasE & 110 Average\nase 3 100 4\n90\ng 9\nHandy Average |\nnopac f80\n>\n70\nPSASRNALLSSAKTARAKSASKRSSRASHSRRSLSIPTLSTISRARSLSSEL SSS? MESSSSSSSSSSSSSSSSS SSS SSS SSS SSSSSSSSSSSSSSS5 See eeresee\nSRRK KKK RSL SRK LR SKSRSKSKSKSKLSK SKK LK IKKL KKK SSR AKARARA",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "africa",
+        "average",
+        "sss",
+        "asset",
+        "ballasters"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 339,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__s05_linked_asset_2024_02_28_dry_weekly_market_monitor_img_screenshot2024_02_28123529_a30376387156_png",
+      "doc_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__root",
+      "title": "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123529_a30376387156.png",
+      "section_path": [
+        "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123529_a30376387156.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123529_a30376387156.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123529_a30376387156.png\n\nLinked image asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123529_a30376387156.png\n\nImage metadata: PNG 657x491 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSummary of Dry Bulk Demand, per Ship Size\nTonne Days Decreasing\nWeekly Trends\nMi Cape i Pmax supra B Handy\n110%\n_\nFs\n90%\n80%\n$sangaagcge2ncsgR FRERKHEKHKEE BEVGPE PRESSE EES\n22223 2322323222232 232223222222228B282R22\nSmanmnmnenannananananannannannannnans =ZS 8 88\nSRRRKRRRRARRRRRRRRKRARRRRRSEE SESS\nsss 8s 8s 8 8S 8S 8S8SsSssssssssssSSRRRRe\nFkk<RRRRRRTERERRERRERRRRAR",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "asset",
+        "image",
+        "b282r22",
+        "bevgpe",
+        "cape"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 278,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__s06_linked_asset_2024_02_28_dry_weekly_market_monitor_img_screenshot2024_02_28123537_10c0a2456226_png",
+      "doc_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor",
+      "parent_id": "breakwave_insights_insights_2024-02-28_2024_02_28_dry_weekly_market_monitor__root",
+      "title": "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123537_10c0a2456226.png",
+      "section_path": [
+        "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123537_10c0a2456226.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123537_10c0a2456226.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123537_10c0a2456226.png\n\nLinked image asset: 2024-02-28_dry-weekly-market-monitor_img_screenshot2024-02-28123537_10c0a2456226.png\n\nImage metadata: PNG 664x553 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nSECTION 4/ PORT CONGESTION\nDry bulk ships congested at Chinese ports\nNo of Vessels Decreasing\nSummary of Chinese Dry Bulk Ship Congestions\nBvioc Bi Cope Post Prax Bi Prax Bi supra Bi Hmax BB Mancysize Bi Smon\nWeekly Trends\n1200 Average\n3\n3 800\n°\n3 -\n2\nUES ENESOE SESE SLIELESERSSAESLESESLELTELESLELEREESELESES",
+      "keywords": [
+        "supramax",
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "prax",
+        "average",
+        "bvioc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 224,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

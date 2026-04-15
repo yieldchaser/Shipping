@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__root",
+  "doc_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag",
+  "parent_id": null,
+  "title": "Iran flows steady, Venezuela exports lag",
+  "section_path": [
+    "Iran flows steady, Venezuela exports lag"
+  ],
+  "section_path_text": "Iran flows steady, Venezuela exports lag",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIran exports steady near 1.2mbd; Venezuela lags at 540kbd on diluent shortages. Sanctioned flows hold but hinge on China demand, deep discounts. By Claire Jungman\nIran's crude exports have averaged around 1.2mbd in the first half of August 2025 - roughly matching mid-August 2024 levels.",
+  "keywords": [
+    "china",
+    "europe",
+    "exports",
+    "flows",
+    "venezuela",
+    "are",
+    "august",
+    "asset",
+    "crude",
+    "image",
+    "iran",
+    "diluent"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1644,
+  "source_path": "reports/breakwave/2025/2025-08-22_iran-flows-steady-venezuela-exports-lag.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/8/22/iran-flows-steady-venezuela-exports-lag",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag",
+      "parent_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Iran exports steady near 1.2mbd; Venezuela lags at 540kbd on diluent shortages. Sanctioned flows hold but hinge on China demand, deep discounts.",
+      "keywords": [
+        "china",
+        "flows",
+        "mbd",
+        "amid",
+        "august",
+        "exports",
+        "iran",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 143,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__s02_methodology_comments_bigger_is_not_always_better",
+      "doc_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag",
+      "parent_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__root",
+      "title": "Methodology comments: Bigger is not always better",
+      "section_path": [
+        "Methodology comments: Bigger is not always better"
+      ],
+      "section_path_text": "Methodology comments: Bigger is not always better",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "While some market reports may publish higher Iranian export figures, bigger is not necessarily more accurate. Differences often come down to methodology.",
+      "keywords": [
+        "china",
+        "cargo",
+        "flows",
+        "ais",
+        "both",
+        "double-counting",
+        "evasive",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 372,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__s03_venezuela_exports_fall_on_diluent_shortages",
+      "doc_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag",
+      "parent_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__root",
+      "title": "Venezuela exports fall on diluent shortages",
+      "section_path": [
+        "Venezuela exports fall on diluent shortages"
+      ],
+      "section_path_text": "Venezuela exports fall on diluent shortages",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Venezuela's crude exports have averaged 540kbd in the first half of August 2025, markedly lower than the 660kbd shipped over the same period in August 2024. This shortfall underscores how critical diluents-lighter hydrocarbons used for blending heavy crude-have become to sustaining exports.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude",
+        "kbd",
+        "venezuela",
+        "are",
+        "august",
+        "blending"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 289,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__s04_forward_look",
+      "doc_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag",
+      "parent_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__root",
+      "title": "Forward Look",
+      "section_path": [
+        "Forward Look"
+      ],
+      "section_path_text": "Forward Look",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The mid-August export picture from Iran and Venezuela reinforces a broader theme: sanctioned crude has proven resilient, but not without costs. Resilient but pressured: Flows remain a stable component of global balances, yet current Venezuelan weakness and Iran's fluctuations show that sanctions continue to exert pressure - especially when combined with logistical chokepoints such as diluent shortages\nChina as the anchor: Demand is increasingly concentrated in a single market.",
+      "keywords": [
+        "china",
+        "iran",
+        "but",
+        "competition",
+        "discounts",
+        "flows",
+        "remain",
+        "resilient"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 182,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__s05_linked_asset_2025_08_22_iran_flows_steady_venezuela_exports_lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57eaf6882c35_png",
+      "doc_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag",
+      "parent_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__root",
+      "title": "Linked asset: 2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57eaf6882c35.png",
+      "section_path": [
+        "Linked asset: 2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57eaf6882c35.png"
+      ],
+      "section_path_text": "Linked asset: 2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57eaf6882c35.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57eaf6882c35.png\n\nLinked image asset: 2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_57eaf6882c35.png\n\nImage metadata: PNG 756x700 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n20m\n1.8m\n1.6m\n1.4m\n1.2m\n1.0m\n800k\n600k\n400k\n200k\n°\n‘Aug 2024 oct 2024 Dec 2024 Feb 2025 ‘pr 2025 Jun 2025 ‘Aug 2025\nIran's crude exports (bpd)\nNote: August figures are preliminary mid-month estimates and shown against full-month\naverages in prior periods. Short-term swings are common under sanctions pressure and do not\nnecessarily signal a new trend.",
+      "keywords": [
+        "are",
+        "asset",
+        "aug",
+        "image",
+        "against",
+        "august",
+        "averages",
+        "bpd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 275,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__s06_linked_asset_2025_08_22_iran_flows_steady_venezuela_exports_lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7064d69d8d94_png",
+      "doc_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag",
+      "parent_id": "breakwave_insights_insights_2025-08-22_2025_08_22_iran_flows_steady_venezuela_exports_lag__root",
+      "title": "Linked asset: 2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7064d69d8d94.png",
+      "section_path": [
+        "Linked asset: 2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7064d69d8d94.png"
+      ],
+      "section_path_text": "Linked asset: 2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7064d69d8d94.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7064d69d8d94.png\n\nLinked image asset: 2025-08-22_iran-flows-steady-venezuela-exports-lag_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7064d69d8d94.png\n\nImage metadata: PNG 790x671 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n320k\n280k\n240k\n200k\n160k\n120k\n80k\n40k\n0\nAug 2024 Oct 2024 Dec 2024 Feb 2025 Apr 2025 Jun 2025 Aug 2025\nChevron's exports from Venezuela (bpd),\nNote: August figures are preliminary mid-month estimates, compared against full-month\naverages in prior periods.",
+      "keywords": [
+        "asset",
+        "aug",
+        "image",
+        "against",
+        "apr",
+        "are",
+        "august",
+        "averages"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 241,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

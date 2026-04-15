@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update__root",
+  "doc_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update",
+  "parent_id": null,
+  "title": "Tankers Research Update",
+  "section_path": [
+    "Tankers Research Update"
+  ],
+  "section_path_text": "Tankers Research Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker rates soar to this year high as Middle Eastern tensions escalate\nTanker spot rates on key Middle East export routes have surged to their highest levels this year on June 23 amid a sharp escalation in regional tensions in the Middle East. Over the weekend, the US conducted targeted airstrikes on three Iranian nuclear facilities, triggering retaliatory missile attacks by Iran on a US military base in Qatar on Monday. That evening, President Trump called for a ceasefire between Israel and Iran.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "meg",
+    "india",
+    "japan",
+    "crude_oil",
+    "iran",
+    "asset",
+    "image",
+    "israel",
+    "day"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1766,
+  "source_path": "reports/breakwave/2025/2025-06-24_tankers-research-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/6/24/tankers-research-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker rates soar to this year high as Middle Eastern tensions escalate\nTanker spot rates on key Middle East export routes have surged to their highest levels this year on June 23 amid a sharp escalation in regional tensions in the Middle East. Over the weekend, the US conducted targeted airstrikes on three Iranian nuclear facilities, triggering retaliatory missile attacks by Iran on a US military base in Qatar on Monday.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "meg",
+        "japan",
+        "crude_oil",
+        "iran",
+        "day",
+        "iranian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1198,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update__s02_linked_asset_2025_06_24_tankers_research_update_img_1f39_image_1_1750761262711_36cf85ddba08_png",
+      "doc_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update__root",
+      "title": "Linked asset: 2025-06-24_tankers-research-update_img_1f39-image-1-1750761262711_36cf85ddba08.png",
+      "section_path": [
+        "Linked asset: 2025-06-24_tankers-research-update_img_1f39-image-1-1750761262711_36cf85ddba08.png"
+      ],
+      "section_path_text": "Linked asset: 2025-06-24_tankers-research-update_img_1f39-image-1-1750761262711_36cf85ddba08.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-24_tankers-research-update_img_1f39-image-1-1750761262711_36cf85ddba08.png\n\nLinked image asset: 2025-06-24_tankers-research-update_img_1f39-image-1-1750761262711_36cf85ddba08.png\n\nImage metadata: PNG 602x462 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nTanker rates\n80\n70\n60\ni]\n60 i\nz \\\\ My aa l\n3 40 Ke 7 \\ =F ae IN /\n30 Yr\\ rr | |\nyy / WS J oy\n20 DS LF\n10\n(@) es\nJan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25\n- VLCC - MEG/China (TD3C) -- Suezmax - MEG/Med (TD23)\n- LR2 - MEG/Japan (TC1) -- LRI - MEG/UKC (TC8)\n- MR - MEG/E Africa (TC17)",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "meg",
+        "japan",
+        "asset",
+        "image",
+        "africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 256,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update__s03_linked_asset_2025_06_24_tankers_research_update_img_fcba_image_2_1750761342499_e8717e12b9d8_png",
+      "doc_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-06-24_2025_06_24_tankers_research_update__root",
+      "title": "Linked asset: 2025-06-24_tankers-research-update_img_fcba-image-2-1750761342499_e8717e12b9d8.png",
+      "section_path": [
+        "Linked asset: 2025-06-24_tankers-research-update_img_fcba-image-2-1750761342499_e8717e12b9d8.png"
+      ],
+      "section_path_text": "Linked asset: 2025-06-24_tankers-research-update_img_fcba-image-2-1750761342499_e8717e12b9d8.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-24_tankers-research-update_img_fcba-image-2-1750761342499_e8717e12b9d8.png\n\nLinked image asset: 2025-06-24_tankers-research-update_img_fcba-image-2-1750761342499_e8717e12b9d8.png\n\nImage metadata: PNG 597x466 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nOil exports out of Straits of Hormuz\n30\nIsrael attacks Iran m MED\n25 Red Sea\n@ 20 4 AL m= NWE\n5 Ios H\na 1 =f = India EC\n5 15 1 1\n= : m Others\nUl 1\n= 10\nH i 1 a india WC\n5 mSEA\n0 mNEA\nSA AS aA aa eBYYW YS\nO & & & & & & » » » »\nre Oo Op",
+      "keywords": [
+        "india",
+        "crude_oil",
+        "asset",
+        "image",
+        "attacks",
+        "dpi",
+        "ebyyw",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 232,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

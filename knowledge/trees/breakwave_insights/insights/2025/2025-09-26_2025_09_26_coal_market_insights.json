@@ -1,0 +1,314 @@
+{
+  "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+  "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+  "parent_id": null,
+  "title": "Coal Market Insights",
+  "section_path": [
+    "Coal Market Insights"
+  ],
+  "section_path_text": "Coal Market Insights",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png\nGlobal Perspective\nGlobal coal demand reached 8.79 billion tons in 2024, marking a new record. According to the IEA's Coal Mid-Year Update 2025 (July, 2025), consumption is expected to plateau at similar levels in 2025, reflecting a critical shift. In China, coal demand fell by around 0.5% in the first half of 2025, as electricity demand growth slowed and renewable generation expanded.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "australia",
+    "europe",
+    "india",
+    "coal",
+    "steel",
+    "gas",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3508,
+  "source_path": "reports/breakwave/2025/2025-09-26_coal-market-insights.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/9/26/coal-market-insights",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+      "parent_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png\nGlobal Perspective\nGlobal coal demand reached 8.79 billion tons in 2024, marking a new record. According to the IEA's Coal Mid-Year Update 2025 (July, 2025), consumption is expected to plateau at similar levels in 2025, reflecting a critical shift.",
+      "keywords": [
+        "china",
+        "australia",
+        "europe",
+        "india",
+        "coal",
+        "steel",
+        "gas",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1848,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__s02_linked_asset_2025_09_26_coal_market_insights_img_unnamed_947cab049f02_png",
+      "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+      "parent_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+      "title": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png",
+      "section_path": [
+        "Linked asset: 2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png\n\nLinked image asset: 2025-09-26_coal-market-insights_img_unnamed_947cab049f02.png\n\nImage metadata: PNG 600x317 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nNa *,\nge 3\nfe e >\n‘ & ay Post Panamax\nYe Bi; at 10.7%\nes we\nSIGNSL p . Indonesia's coal export Linnie\ndominance under pressure\na Supramax\n28.4%\nFor more maights vie mew Designaipoup Cominewnr cos\nTo access Ory bulk flows vest agp sugnaiocean comarythynarachryti foe,",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "coal",
+        "asset",
+        "image",
+        "access",
+        "agp",
+        "coal-market-insights_img_unnamed_947cab049f02.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__s03_linked_asset_2025_09_26_coal_market_insights_img_unnamed28129_e0dc5f7e26b3_png",
+      "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+      "parent_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+      "title": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28129_e0dc5f7e26b3.png",
+      "section_path": [
+        "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28129_e0dc5f7e26b3.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28129_e0dc5f7e26b3.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-26_coal-market-insights_img_unnamed28129_e0dc5f7e26b3.png\n\nLinked image asset: 2025-09-26_coal-market-insights_img_unnamed28129_e0dc5f7e26b3.png\n\nImage metadata: PNG 600x290 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nCargo Flows Trend Analysis\nMonthly\ni <A\n= Se Z--~\nJan Feb Mar Apr May Jun dul Aug Sep Oct Nov Dec\n2022 -- 2023 -- 2024 -- 2025 Non-complete months are not displayed in this graph",
+      "keywords": [
+        "coal",
+        "asset",
+        "image",
+        "analysis",
+        "apr",
+        "are",
+        "aug",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__s04_linked_asset_2025_09_26_coal_market_insights_img_unnamed28229_90a1d43148f1_png",
+      "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+      "parent_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+      "title": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28229_90a1d43148f1.png",
+      "section_path": [
+        "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28229_90a1d43148f1.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28229_90a1d43148f1.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-26_coal-market-insights_img_unnamed28229_90a1d43148f1.png\n\nLinked image asset: 2025-09-26_coal-market-insights_img_unnamed28229_90a1d43148f1.png\n\nImage metadata: PNG 600x451 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nVessel Classes\nSmall\nSupramax 8.0% \"90%\nCapesize 28.6%\nPost Panamax\n2,\nPanamax 44.0% 188%",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "coal",
+        "asset",
+        "image",
+        "classes",
+        "coal-market-insights_img_unnamed28229_90a1d43148f1.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 144,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__s05_linked_asset_2025_09_26_coal_market_insights_img_unnamed28329_102c2aaadbd5_png",
+      "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+      "parent_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+      "title": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28329_102c2aaadbd5.png",
+      "section_path": [
+        "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28329_102c2aaadbd5.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28329_102c2aaadbd5.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-26_coal-market-insights_img_unnamed28329_102c2aaadbd5.png\n\nLinked image asset: 2025-09-26_coal-market-insights_img_unnamed28329_102c2aaadbd5.png\n\nImage metadata: PNG 600x291 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nCargo Flows Trend Analysis\nMonthly\n3 \\. : CF\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\n2022 --- 2023 -- 2024 -- 2025 Non-complete months are not displayed in this graph",
+      "keywords": [
+        "coal",
+        "asset",
+        "image",
+        "analysis",
+        "apr",
+        "are",
+        "aug",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 151,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__s06_linked_asset_2025_09_26_coal_market_insights_img_unnamed28429_fbbaea6eb2d7_png",
+      "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+      "parent_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+      "title": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28429_fbbaea6eb2d7.png",
+      "section_path": [
+        "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28429_fbbaea6eb2d7.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28429_fbbaea6eb2d7.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-26_coal-market-insights_img_unnamed28429_fbbaea6eb2d7.png\n\nLinked image asset: 2025-09-26_coal-market-insights_img_unnamed28429_fbbaea6eb2d7.png\n\nImage metadata: PNG 600x454 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nVessel Classes\nSupramax 0.3%\nCapesize 21.3%\nPost Panamax\n10.6%\n- Panamax 67.7%",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "coal",
+        "asset",
+        "image",
+        "classes",
+        "coal-market-insights_img_unnamed28429_fbbaea6eb2d7.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 137,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__s07_linked_asset_2025_09_26_coal_market_insights_img_unnamed28529_811fd35a1834_png",
+      "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+      "parent_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+      "title": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28529_811fd35a1834.png",
+      "section_path": [
+        "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28529_811fd35a1834.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28529_811fd35a1834.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-26_coal-market-insights_img_unnamed28529_811fd35a1834.png\n\nLinked image asset: 2025-09-26_coal-market-insights_img_unnamed28529_811fd35a1834.png\n\nImage metadata: PNG 560x272 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nCargo Flows Trend Analysis\nMonthly 7\n3\ne\n2\njan Feb Mar Apr May yun ni Aug Sep Oct Nov Dec\n2022 -- 2023 -- 2024 -- 2025 Non-complete months are not displayed in thes graph",
+      "keywords": [
+        "coal",
+        "asset",
+        "image",
+        "analysis",
+        "apr",
+        "are",
+        "aug",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__s08_linked_asset_2025_09_26_coal_market_insights_img_unnamed28629_f8cbcc3a5d19_png",
+      "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+      "parent_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+      "title": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28629_f8cbcc3a5d19.png",
+      "section_path": [
+        "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28629_f8cbcc3a5d19.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28629_f8cbcc3a5d19.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-26_coal-market-insights_img_unnamed28629_f8cbcc3a5d19.png\n\nLinked image asset: 2025-09-26_coal-market-insights_img_unnamed28629_f8cbcc3a5d19.png\n\nImage metadata: PNG 540x407 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nVessel Classes\nHandymax 0.0%\n-» of\nSupramax 32.1% Capesize 32.6%\nPost Panamax\n3.7%\nPanamax 29.5%",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "coal",
+        "asset",
+        "image",
+        "classes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__s09_linked_asset_2025_09_26_coal_market_insights_img_unnamed28729_2c8a7ee953a7_png",
+      "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+      "parent_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+      "title": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28729_2c8a7ee953a7.png",
+      "section_path": [
+        "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28729_2c8a7ee953a7.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28729_2c8a7ee953a7.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-26_coal-market-insights_img_unnamed28729_2c8a7ee953a7.png\n\nLinked image asset: 2025-09-26_coal-market-insights_img_unnamed28729_2c8a7ee953a7.png\n\nImage metadata: PNG 540x261 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nCargo Flows Trend Analysis\nQuarterly\n80M\n60M\ni\n© 40m\n=\n€\n20M\nOM\nqi Qz Q3 Qe\n©2024 ©2025 @ 2026",
+      "keywords": [
+        "coal",
+        "asset",
+        "image",
+        "analysis",
+        "cargo",
+        "coal-market-insights_img_unnamed28729_2c8a7ee953a7.png",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 153,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__s10_linked_asset_2025_09_26_coal_market_insights_img_unnamed28829_0dd5c69f3582_png",
+      "doc_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights",
+      "parent_id": "breakwave_insights_insights_2025-09-26_2025_09_26_coal_market_insights__root",
+      "title": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28829_0dd5c69f3582.png",
+      "section_path": [
+        "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28829_0dd5c69f3582.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-26_coal-market-insights_img_unnamed28829_0dd5c69f3582.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-26_coal-market-insights_img_unnamed28829_0dd5c69f3582.png\n\nLinked image asset: 2025-09-26_coal-market-insights_img_unnamed28829_0dd5c69f3582.png\n\nImage metadata: PNG 540x262 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nCargo Flows Trend Analysis\nMonthly\n3\n=\n3\nJan Feb Mar Apr May jun nl Aug Sep Ot Now Dec\n-- 2024 -- 2025 Non-compiete months are not displayed in this graph",
+      "keywords": [
+        "coal",
+        "asset",
+        "image",
+        "analysis",
+        "apr",
+        "are",
+        "aug",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

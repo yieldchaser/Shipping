@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-05-15_2024_05_15_iron_ore_was_one_of_the_session_losers__root",
+  "doc_id": "breakwave_insights_insights_2024-05-15_2024_05_15_iron_ore_was_one_of_the_session_losers",
+  "parent_id": null,
+  "title": "Iron ore was one of the session losers",
+  "section_path": [
+    "Iron ore was one of the session losers"
+  ],
+  "section_path_text": "Iron ore was one of the session losers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic Dry Index declined for a fourth consecutive session on Tuesday, with all segments contributing to the headwinds amid generally softer demand. For the commodities, red dominated yesterday's trading screens. Iron ore was one of the session losers, with a decline of nearly two per cent.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "australia",
+    "atlantic",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1761,
+  "source_path": "reports/breakwave/2024/2024-05-15_iron-ore-was-one-of-the-session-losers.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/5/15/iron-ore-was-one-of-the-session-losers",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-05-15_2024_05_15_iron_ore_was_one_of_the_session_losers__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-05-15_2024_05_15_iron_ore_was_one_of_the_session_losers",
+      "parent_id": "breakwave_insights_insights_2024-05-15_2024_05_15_iron_ore_was_one_of_the_session_losers__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic Dry Index declined for a fourth consecutive session on Tuesday, with all segments contributing to the headwinds amid generally softer demand. For the commodities, red dominated yesterday's trading screens.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "container",
+        "china"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1518,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-15_2024_05_15_iron_ore_was_one_of_the_session_losers__s02_linked_asset_2024_05_15_iron_ore_was_one_of_the_session_losers_img_unnamed_9be314d4130a_png",
+      "doc_id": "breakwave_insights_insights_2024-05-15_2024_05_15_iron_ore_was_one_of_the_session_losers",
+      "parent_id": "breakwave_insights_insights_2024-05-15_2024_05_15_iron_ore_was_one_of_the_session_losers__root",
+      "title": "Linked asset: 2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png",
+      "section_path": [
+        "Linked asset: 2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png\n\nLinked image asset: 2024-05-15_iron-ore-was-one-of-the-session-losers_img_unnamed_9be314d4130a.png\n\nImage metadata: PNG 1120x632 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for US Dry Bulk Bound for China\n® Other dry bulk @ Coal @® Agricultural commodities\n3\n2\n2\nS\n= 1\nft)\nDP oP a PUP oP po? po a SP AP poh po po?",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "source",
+        "agricultural",
+        "bound",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 204,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

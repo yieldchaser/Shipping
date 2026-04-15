@@ -1,0 +1,342 @@
+{
+  "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+  "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+  "parent_id": null,
+  "title": "Demand Recap 2025 - 3Cs (Countries, Commodities, Capacity)",
+  "section_path": [
+    "Demand Recap 2025 - 3Cs (Countries, Commodities, Capacity)"
+  ],
+  "section_path_text": "Demand Recap 2025 - 3Cs (Countries, Commodities, Capacity)",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png\nIn recent years, the dry bulk market has experienced its fair share of swings, repeatedly testing market participants' expectations of when freight rates might shift into a higher gear. Using the Baltic Dry Index as a proxy, the index has largely traded between 1,000 and 2,000 points from the second half of 2022 to date, as long term demand and supply fundamentals have normalized. During the relatively brief episodes when the BDI breached the 2,000 point threshold, the upside momentum has typically proven short-lived, as illustrated by the recent surge to 2,845 on 3 December followed by a swift correction to 2,121 by 17 December.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "india",
+    "japan",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 6516,
+  "source_path": "reports/breakwave/2025/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/12/23/demand-recap-2025-3cs-countries-commodities-capacity",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png\nIn recent years, the dry bulk market has experienced its fair share of swings, repeatedly testing market participants' expectations of when freight rates might shift into a higher gear. Using the Baltic Dry Index as a proxy, the index has largely traded between 1,000 and 2,000 points from the second half of 2022 to date, as long term demand and supply fundamentals have normalized.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2856,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s02_linked_asset_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity_img_rgb_color_brs_shipbrokers_monogram_l_c365f35f1de5_png",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png",
+      "section_path": [
+        "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png\n\nLinked image asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png\n\nImage metadata: PNG 2500x2186 mode=RGBA\n\nEmbedded info:\ndpi: (299.9994, 299.9994)\n\n[No OCR text detected in linked image.]",
+      "keywords": [
+        "asset",
+        "image",
+        "linked",
+        "demand-recap-2025-3cs-countries-commodities-capacity_img_rgb-color-brs-shipbrokers-monogram-l_c365f35f1de5.png",
+        "detected",
+        "dpi",
+        "embedded",
+        "image."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s03_linked_asset_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5e109ed3192_png",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5e109ed3192.png",
+      "section_path": [
+        "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5e109ed3192.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5e109ed3192.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5e109ed3192.png\n\nLinked image asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d5e109ed3192.png\n\nImage metadata: PNG 917x439 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nBaltic Dry Index Evolution 2015-2019 --2020-2021 --=2021 Onwards\n6,000 Unprecedented Since 2022, BOI been angevrading between\nChinese port congestign: 1000 to 2.000 as long-term DD&SS fundamentals\nformalized\n2022 & 2024 : Strong 1H, Weak 2H\n5,000 2023 & 2025 : Weak 1H, Strong 2H\n4000 Capesize\n\" Ukraine Russian Panama Canal + Guinean\nBlack Swan Events FY : war ECSA Congestion Loadings\nELNi\n3,000 From a very low base in 2075, BDI experienced \"° Panama Canal\n7 increment improvement leading to 2019, with Congestion Unwinding,\nmodest fluctuations, ideal conditions for A i]\nfreight trading 1\n2,000 I\n4,000 pa 7 t\n. 0 Covid-\n2018\" 2016 «= 2017,--= «2018 += 2019» 2020S 2021.",
+      "keywords": [
+        "capesize",
+        "china",
+        "asset",
+        "canal",
+        "congestion",
+        "image",
+        "panama",
+        "strong"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 400,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s04_linked_asset_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7_png",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7.png",
+      "section_path": [
+        "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7.png\n\nLinked image asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7.png\n\nImage metadata: PNG 411x274 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nGlobal Dry Bulk Volumes Annual Growth, %\nAll Vessel Sizes\n--Exclude Cabotage --Include Cabotage\n+8,0%\n+6.0%\n+4.0%\n+2.0%\n0\n-2.0%\nOO MW OO DPD Dd PM KK\nPP PPP Gh HG Wis",
+      "keywords": [
+        "asset",
+        "cabotage",
+        "image",
+        "all",
+        "annual",
+        "demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c00dc6b8c1e7.png",
+        "dpd",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 226,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s05_linked_asset_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_432069295941_png",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_432069295941.png",
+      "section_path": [
+        "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_432069295941.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_432069295941.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_432069295941.png\n\nLinked image asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_432069295941.png\n\nImage metadata: PNG 449x422 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChina Dry Imports Evolution (mln mt)\n-_-> Actual\n@---+> Estimated (Based on Pre-2018 CAGR)\n@--+--m Estimated (Based on Pre-2023 CAGR)\n3000 ' ‘\n' H\n2015 to 2018 ' 2018 to 2023 ' 2023 to 2025\nCAGR : +6.1% | CAGR : +4.6% ‘ CAGR : +1.7%\nod\n' { ? 2500 : port\nH Bt eee f54%\noo > GAP\n| Pi ; ego\n‘ Pt ‘ - abd\n2000 ' Z eo\nH er\n70+?",
+      "keywords": [
+        "china",
+        "cagr",
+        "asset",
+        "based",
+        "estimated",
+        "image",
+        "abd",
+        "actual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 344,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s06_linked_asset_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61_png",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61.png",
+      "section_path": [
+        "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61.png\n\nLinked image asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61.png\n\nImage metadata: PNG 430x431 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDry Bulk Import CAGR Rates (%), across\nGeographical Regions\n2015to 2018 m2018to2023 2023 to 2025E\n+10.0% :\n+8.0%\n+6.0% :\n+4.0%\n+2.0% | | | |\n2 |\n-2.0% / | |\n-4.0% ! China India USA JKT EUZone SEA",
+      "keywords": [
+        "china",
+        "india",
+        "asset",
+        "image",
+        "cagr",
+        "demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_098ee2a72c61.png",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s07_linked_asset_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5_png",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png",
+      "section_path": [
+        "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png\n\nLinked image asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png\n\nImage metadata: PNG 429x430 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nIron Ore Discharging Countries, Jan-Nov, 2024 vs\n2025 (min mt)\n1570\n1565 +15.1 1564\n1560 ann\n+30.0\n1 55 5\n555 -\n2.4 aw? 1550 3.0 *0.4\n- \"2.4\n1545\n1540\n1530 44\nJL/i\n1595\nJLI9\n4590)\na & a s a & = a\nY = gf F £F FS E& FY\nNv S RG & o oo x 7\n> ge wv > >\ns £& & ~ s\n& >",
+      "keywords": [
+        "iron_ore",
+        "asset",
+        "image",
+        "ann",
+        "countries",
+        "demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6d33c5a7c8f5.png",
+        "discharging",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 306,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s08_linked_asset_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6_png",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png",
+      "section_path": [
+        "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png\n\nLinked image asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png\n\nImage metadata: PNG 441x289 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nCoal Discharging Countries, Jan-Nov, 2024 vs\n2025 (min mt)\n1280\n1262.5\n1260\n1240\n1220\n+1.2 +11.1 1204.7\n7200 08 = +27 i\n1180 5.6\nwo x 8 SS XY ie)\nmF eB! go gd gn QO\" _ gt\nan c \\ ° ie er ws",
+      "keywords": [
+        "coal",
+        "asset",
+        "image",
+        "countries",
+        "demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a878d183d1b6.png",
+        "discharging",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s09_linked_asset_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf_png",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf.png",
+      "section_path": [
+        "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf.png\n\nLinked image asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9b1cf8e39bcf.png\n\nImage metadata: PNG 444x303 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nGrain Discharging Countries, Jan-Nov, 2024 vs\n2025 (min mt)\n510\n505.2\n808 +122 5017\n500\n495\n490 +03 Oo 14\n152 = -\n485\n480\nDM a9? cod oa ai ane got agi?",
+      "keywords": [
+        "grain",
+        "asset",
+        "image",
+        "abe",
+        "agi",
+        "ane",
+        "cod",
+        "countries"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 238,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s10_linked_asset_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe_png",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe.png",
+      "section_path": [
+        "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe.png\n\nLinked image asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe.png\n\nImage metadata: PNG 436x326 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nCapesize Volumes (MT)\nDischarge Countries 11M-2024 11IM-2025 Y.0.Y%\nt@itey 980,156,763 | 1,002,843,316) +2.3%\nheim § 85,563,599 | 75,130,793 | -12.2%\nieyereny 80,746,900 | 73,335,265 | -9.2%\nitettey §=80,477,110 70,518,978 | -12.4%\nINisentutetecy $30,374,443 | 34,974,712 | +15.1%\nerevent 24,662,344 | 24,575,378 | -0.4%\nMitteiny § 21,798,269 22,436,918 | +2.9%\nTurkiye BRER 77a.) 13,135,266 | -8.9%\nfelted 12,000,390 12,992,632 | +8.3%\nSrelteiwatelnced § 8,393,990 8,132,684 -3%\nTop 10\nTotal",
+      "keywords": [
+        "capesize",
+        "asset",
+        "image",
+        "brer",
+        "countries",
+        "demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_079c924dcefe.png",
+        "discharge",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 409,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__s11_linked_asset_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca0f44d39494_png",
+      "doc_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity",
+      "parent_id": "breakwave_insights_insights_2025-12-23_2025_12_23_demand_recap_2025_3cs_countries_commodities_capacity__root",
+      "title": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca0f44d39494.png",
+      "section_path": [
+        "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca0f44d39494.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca0f44d39494.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca0f44d39494.png\n\nLinked image asset: 2025-12-23_demand-recap-2025-3cs-countries-commodities-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca0f44d39494.png\n\nImage metadata: PNG 446x485 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMid-Sized Bulkers Shipments, 2024 vs 2025, Jan-Nov, in MIn MT\nLoading Countries Overpmx Kamsarmax Panamax\nIndonesia -7.00 +1.46 -5.33\nAustralia 7.24 8.67 +0.34\nBrazil +0.19 9.04 -0.30\nRussia P +8.25 -1.31 1) +4.60\nUSA -1.62 fy +4.64 -1.81\nCanada -1.89 +U.75 -1.64\nChina -0.29 +7.22 1) +4.09\nArgentina +0.55 i) +3.09 | +2.62\nUnited Arab Emirates -1.86 p +194 )+8.60\nSouth Africa -0.44 +2.62 p +1.92\nMozambique +0.43 +1.09 -0.27\nColombia +0.05 ) +2.35 +0.34\nOman -0.34 +0.38 -1.12\nIndia -0.41 +0.15 +0.50\nUkraine +0.79 -3.37 -5.45\nGuinea +0.15 +1.48 +0.78\nNorway -0.72 H +1.96 +0.06\nUruguay +0.22 ) +3.46 +0.74\nPhilippines +0.57 -0.36 -0.87\nRomania -0.25 -0.81 -0.70\nWorldwide 41s | Peapee | f) +579 |\nWorldwide (%)\nWorldwide (8) - Total",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "india",
+        "worldwide",
+        "asset",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 525,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms__root",
+  "doc_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms",
+  "parent_id": null,
+  "title": "Oil Glut Looms",
+  "section_path": [
+    "Oil Glut Looms"
+  ],
+  "section_path_text": "Oil Glut Looms",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg\nMore and more analysts expect the oil market to move into significant surplus next year. The IEA sees oversupply of 3.3 mbd in 2026, while the EIA forecasts 1.7 mbd. Independent forecasts paint a similar picture: investment bank Macquarie expects around 3 mbd of surplus in late 2025 and early 2026, and Rystad consultancy sees 2.2 mbd next year.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "india",
+    "crude_oil",
+    "mbd",
+    "asset",
+    "demand",
+    "image",
+    "oil",
+    "its",
+    "prices",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1722,
+  "source_path": "reports/breakwave/2025/2025-09-29_oil-glut-looms.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/9/29/oil-glut-looms",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms",
+      "parent_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg\nMore and more analysts expect the oil market to move into significant surplus next year. The IEA sees oversupply of 3.3 mbd in 2026, while the EIA forecasts 1.7 mbd.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "india",
+        "crude_oil",
+        "mbd",
+        "its",
+        "prices",
+        "building"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 826,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms__s02_linked_asset_2025_09_29_oil_glut_looms_img_istock_1184092411_e59424513d5b_jpg",
+      "doc_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms",
+      "parent_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms__root",
+      "title": "Linked asset: 2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg",
+      "section_path": [
+        "Linked asset: 2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg\n\nLinked image asset: 2025-09-29_oil-glut-looms_img_istock-1184092411_e59424513d5b.jpg\n\nImage metadata: JPEG 1920x1126 mode=RGB\n\nOCR text:\nid\n\\\\\niv . ~ ~\n\\ *% -\n4.97\nLas?",
+      "keywords": [
+        "crude_oil",
+        "eee",
+        "aoa",
+        "asset",
+        "image",
+        "aaa",
+        "aan",
+        "ae."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 610,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms__s03_linked_asset_2025_09_29_oil_glut_looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13d9dfff71fb_png",
+      "doc_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms",
+      "parent_id": "breakwave_insights_insights_2025-09-29_2025_09_29_oil_glut_looms__root",
+      "title": "Linked asset: 2025-09-29_oil-glut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13d9dfff71fb.png",
+      "section_path": [
+        "Linked asset: 2025-09-29_oil-glut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13d9dfff71fb.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-29_oil-glut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13d9dfff71fb.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-29_oil-glut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13d9dfff71fb.png\n\nLinked image asset: 2025-09-29_oil-glut-looms_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13d9dfff71fb.png\n\nImage metadata: PNG 1464x602 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nOil Supply vs. Demand (mbd)\n(59 Oil Demand [GG Oil Supply\n109\n108\n107\n106\n105\n104\n103\n102\nQ1-25 Q2-25 Q3-25 Q4-25 Q1-26 Q2-26 Q3-26 Q4-26",
+      "keywords": [
+        "crude_oil",
+        "oil",
+        "asset",
+        "demand",
+        "image",
+        "supply",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 202,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

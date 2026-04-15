@@ -1,0 +1,258 @@
+{
+  "node_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__root",
+  "doc_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows",
+  "parent_id": null,
+  "title": "US Dry Bulk Flows",
+  "section_path": [
+    "US Dry Bulk Flows"
+  ],
+  "section_path_text": "US Dry Bulk Flows",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 15, 2025 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions April 09, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-04-09 171300.png | assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png\nEscalation of U.S.-China Trade Tensions: Implications for Dry Bulk Freight\nOn April 4th, China announced a 34% tariff on all U.S. imports, a retaliatory response to recent U.S. protectionist trade measures, effective April 10th.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "india",
+    "japan",
+    "coal",
+    "grain"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3400,
+  "source_path": "reports/breakwave/2025/2025-04-10_us-dry-bulk-flows.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/4/9/us-dry-bulk-flows",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 15, 2025 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions April 09, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-04-09 171300.png | assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png\nEscalation of U.S.-China Trade Tensions: Implications for Dry Bulk Freight\nOn April 4th, China announced a 34% tariff on all U.S. imports, a retaliatory response to recent U.S.",
+      "keywords": [
+        "china",
+        "grain",
+        "trade",
+        "april",
+        "u.s.",
+        "escalation",
+        "recent",
+        "all"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 220,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__s02_grain_trade_at_risk_china_as_the_top_buyer",
+      "doc_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__root",
+      "title": "Grain Trade at Risk: China as the Top Buyer",
+      "section_path": [
+        "Grain Trade at Risk: China as the Top Buyer"
+      ],
+      "section_path_text": "Grain Trade at Risk: China as the Top Buyer",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "According to Q1 2025 data, China accounts for 52.8% of U.S. grain exports to Far East destinations, with Japan and South Korea following at 23.3% and 9.0%, respectively.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "china",
+        "japan",
+        "grain",
+        "are",
+        "chinese",
+        "destinations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 215,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__s03_u_s_coal_may_also_see_dampened_demand",
+      "doc_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__root",
+      "title": "U.S. Coal May Also See Dampened Demand",
+      "section_path": [
+        "U.S. Coal May Also See Dampened Demand"
+      ],
+      "section_path_text": "U.S. Coal May Also See Dampened Demand",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "While China is not the top importer of U.S. coal, it does source 10.3% of U.S.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "australia",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1354,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__s04_linked_asset_2025_04_10_us_dry_bulk_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480_png",
+      "doc_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__root",
+      "title": "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png",
+      "section_path": [
+        "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png"
+      ],
+      "section_path_text": "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png\n\nLinked image asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96c3b37ca480.png\n\nImage metadata: PNG 655x458 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChart of the Week: US Dry Bulk Flows (Grain Vs Coal)\nU.S. Grain - Far East destinations U.S Coal - Top destinations\nCargo Types Cargo Types\na\no- ee san\n=29.69% -18.62%\nGoQl 25 weGe2H Ye IGT ae co 146% -252%\n- 00101 25 v5.04 24) YeY /O!",
+      "keywords": [
+        "coal",
+        "grain",
+        "asset",
+        "cargo",
+        "destinations",
+        "image",
+        "types",
+        "ban"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 299,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__s05_linked_asset_2025_04_10_us_dry_bulk_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a623d8e22b4e_png",
+      "doc_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__root",
+      "title": "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a623d8e22b4e.png",
+      "section_path": [
+        "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a623d8e22b4e.png"
+      ],
+      "section_path_text": "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a623d8e22b4e.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a623d8e22b4e.png\n\nLinked image asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a623d8e22b4e.png\n\nImage metadata: PNG 654x457 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT - Freight Rates ($/t) Mixed\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nWi Cape - Grazit NChina GB Pmax - Cont FE i Supra - indo EC! Gi Hancy NOPAC FE\nWeekly Trends\n45\n40\n35\n3%\ne\n35\n*\n20\n1S\n10 FN",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "asset",
+        "image",
+        "big",
+        "bulkers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 236,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__s06_linked_asset_2025_04_10_us_dry_bulk_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b_png",
+      "doc_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__root",
+      "title": "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b.png",
+      "section_path": [
+        "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b.png"
+      ],
+      "section_path_text": "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b.png\n\nLinked image asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8d2ba665bf7b.png\n\nImage metadata: PNG 661x448 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Mixed\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nWi Cape SE Africa @ Pmax SE Africa BW supra SE Ase Hanoy NOPAC\nWeekly Trends\ncapest Ba\nue re a ee\n> 100\n180\nPrax Se is Re\nAfrica 120\n= 90\n‘Supra SE 3 1207 _\nAsia $ 200\n9\nMandy j Avery Te eet\nOPAC 80 7\n-\nRRERRRRARRRRRRRRR RAR RR RRRRRR RRR RR RRR RRR SERRRRRRE ESSER",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "africa",
+        "rrr",
+        "asset",
+        "ballasters",
+        "image",
+        "supply"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 286,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__s07_linked_asset_2025_04_10_us_dry_bulk_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b83fad723d5f_png",
+      "doc_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__root",
+      "title": "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b83fad723d5f.png",
+      "section_path": [
+        "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b83fad723d5f.png"
+      ],
+      "section_path_text": "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b83fad723d5f.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b83fad723d5f.png\n\nLinked image asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b83fad723d5f.png\n\nImage metadata: PNG 660x474 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Mixed\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\nW@ Cape TonD Growth Bl Pmax TonD Growth Wi SupraTonD Growth BB Handy TonD Growth\nON Nee\n#2 100%\n€\n2\n&\n2 90%\n80%\n70%\nSERSSRRLEKLRERREBESSRS SELES eagR\nSSSSSSSsssssessseseseseez Rana nezee\na z= z= z z = z zs A = zs zs + z= z= z z+ = YX NX nN NX NX y y a]\nSSSSSESBSBESSESBESBSBEBSSSSSBESRAEKRKRSESS\nNN N Nn Nn N N N N N N Nn N N N Nn n N N N N Nn",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "growth",
+        "tond",
+        "asset",
+        "demand",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 321,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__s08_linked_asset_2025_04_10_us_dry_bulk_flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5876ff18551a_png",
+      "doc_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows",
+      "parent_id": "breakwave_insights_insights_2025-04-10_2025_04_10_us_dry_bulk_flows__root",
+      "title": "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5876ff18551a.png",
+      "section_path": [
+        "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5876ff18551a.png"
+      ],
+      "section_path_text": "Linked asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5876ff18551a.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5876ff18551a.png\n\nLinked image asset: 2025-04-10_us-dry-bulk-flows_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5876ff18551a.png\n\nImage metadata: PNG 644x437 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Decreasing\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\n@ voc | fe Post Pmax Biome Bi Suore Bihinex Bhtecdysize Smet!",
+      "keywords": [
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "bhtecdysize",
+        "bihinex",
+        "biome",
+        "congested"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 198,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

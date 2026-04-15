@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__root",
+  "doc_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics",
+  "parent_id": null,
+  "title": "Supply - Demand Dynamics",
+  "section_path": [
+    "Supply - Demand Dynamics"
+  ],
+  "section_path_text": "Supply - Demand Dynamics",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 25.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions June 19, 2024\nImage reference: Στιγμιότυπο οθόνης 2024-06-20 122301.png | assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png\nIn the third week of June, significant developments are observed in the Capesize vessel rates on the Brazil to North China route, as well as in the Panamax Cont FE routes, indicating a stronger momentum for larger vessel size segments as we approach the end of the month. Specifically, the Panamax P6 route in ECSA shows promising signs for the firming of freight rates in the coming days, supported by a notable decrease in the number of ballast vessels from their peaks in mid-February and before mid-March. Looking ahead, June appears poised to conclude with an upward trend in the growth of dry bulk demand tonne days.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3504,
+  "source_path": "reports/breakwave/2024/2024-06-20_supply-demand-dynamics.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/6/20/supply-demand-dynamics",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics",
+      "parent_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 25.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions June 19, 2024\nImage reference: Στιγμιότυπο οθόνης 2024-06-20 122301.png | assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png\nIn the third week of June, significant developments are observed in the Capesize vessel rates on the Brazil to North China route, as well as in the Panamax Cont FE routes, indicating a stronger momentum for larger vessel size segments as we approach the end of the month. Specifically, the Panamax P6 route in ECSA shows promising signs for the firming of freight rates in the coming days, supported by a notable decrease in the number of ballast vessels from their peaks in mid-February and before mid-March.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1704,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__s02_linked_asset_2024_06_20_supply_demand_dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4_png",
+      "doc_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics",
+      "parent_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__root",
+      "title": "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png",
+      "section_path": [
+        "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png\n\nLinked image asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a6c6be4f48e4.png\n\nImage metadata: PNG 767x633 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nChart of the Week: Supply - Demand Dynamics - Panamax P6\nThis week's chart (on the right) illustrates the correlation between the number of ballast\nvessels for Panamax-size ships in the ECSA region and the evolution of P6 $/mt freight rates. Meanwhile, the left chart examines the daily volume loaded (14-day moving average) in\ncomparison to the current demand benchmark, which shows an increase above the\nbenchmark.",
+      "keywords": [
+        "panamax",
+        "chart",
+        "ballast",
+        "demand",
+        "number",
+        "vessels",
+        "asset",
+        "ecsa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 390,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__s03_linked_asset_2024_06_20_supply_demand_dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28d508cf0bc5_png",
+      "doc_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics",
+      "parent_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__root",
+      "title": "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28d508cf0bc5.png",
+      "section_path": [
+        "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28d508cf0bc5.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28d508cf0bc5.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28d508cf0bc5.png\n\nLinked image asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_28d508cf0bc5.png\n\nImage metadata: PNG 822x572 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSECTION 1/ FREIGHT - Market Rates ($/t) Firmer\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nCape - Brazil NOhina Wi ePmax-Cont FE i Supra- Inco EC! i Hargy nopacre\nWeekly Trends\n45\n40\n35\n» 30\n#\na\nSas\n20\n15\n10 ee ee ee\nMES RESELARRESRSSS SSS PPSLS RARE LSSLSSSSASANSSSSSAASHNESS\nBEE eee\nRSRSHSSSKAKATASRASARHR RSH HY OSSNRHRKS SSS S SARS RRR RASS",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "brazil",
+        "asset",
+        "image",
+        "sss",
+        "bee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 295,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__s04_linked_asset_2024_06_20_supply_demand_dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24a501ff1f0a_png",
+      "doc_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics",
+      "parent_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__root",
+      "title": "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24a501ff1f0a.png",
+      "section_path": [
+        "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24a501ff1f0a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24a501ff1f0a.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24a501ff1f0a.png\n\nLinked image asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_24a501ff1f0a.png\n\nImage metadata: PNG 816x500 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Decreasing\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nB Cape SE Africa WB Prax SE Africa WB Seora SE Ania BB Handy NOPAC\nWeekly Trends\n130\nCape SE q 110 Ae ae aa\nAfrica 5\n> 90\n190\npmaxst $250\nMra 3 110\n70\n. 120 \\\nSupraSE % 110 sherage\nAste £ 200\n90\n90\nHandy q 80 Average\n\" $s\n70\nHERERRSARSRSERRSTIPILTSISRASSLSSLESSLSSSASLLSSAKSNKES\nPSRESSSRASASSRSIIIZIZIFZIRGLSSSSSSSSSSSSISSSSSQSsLgss\nSSE EE EEE EE EEE EEE EELEEBEELEEEEEE EERE EE EEEEEEEEEEEE\nRR RERRRRRERRRRRKLRREKRRRKKRRE VOSA RASKAS RSE RERRRRRRRRER",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "africa",
+        "eee",
+        "asset",
+        "ballasters",
+        "cape"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 372,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__s05_linked_asset_2024_06_20_supply_demand_dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e6859ed191_png",
+      "doc_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics",
+      "parent_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__root",
+      "title": "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e6859ed191.png",
+      "section_path": [
+        "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e6859ed191.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e6859ed191.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e6859ed191.png\n\nLinked image asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51e6859ed191.png\n\nImage metadata: PNG 856x462 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Increasing\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\nMi Cape Bi Pmex Wi supra Bi Handy\n110%\n= 100%\n:\n90%\n80%\nee eenmenreeae ee oOnaemes eam nnraeaane\ns sys fs fs ff 6 @ ©® = Ss FS FS F&F YF Bs SB BBS BeeEeBeEsteSsS s&s f&\n2222223223 53232 3232 32527 27 322 F222 32\na ae eee Re Re Re ee SRR RESET ERSTE RES\nSs § 8 S$ SS SSSESESERRERESSESERS SSB\nRRS RkRRRRRRERRR A RS RSRRRARR",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "asset",
+        "demand",
+        "image",
+        "bbs",
+        "beeeebeestesss"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 300,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__s06_linked_asset_2024_06_20_supply_demand_dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09675d312f2c_png",
+      "doc_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics",
+      "parent_id": "breakwave_insights_insights_2024-06-20_2024_06_20_supply_demand_dynamics__root",
+      "title": "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09675d312f2c.png",
+      "section_path": [
+        "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09675d312f2c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09675d312f2c.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09675d312f2c.png\n\nLinked image asset: 2024-06-20_supply-demand-dynamics_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_09675d312f2c.png\n\nImage metadata: PNG 783x491 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Increasing\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\nmvc move rote MP Bon ine rweynce mana\nWeekly Trends:\nSESSESTESLESSSEZETELELEPSEPESSSSSSESSSSSSSSSSSSESESS",
+      "keywords": [
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "bon",
+        "congested",
+        "congestion",
+        "congestions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

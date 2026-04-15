@@ -1,0 +1,398 @@
+{
+  "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+  "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+  "parent_id": null,
+  "title": "\"This is a good (US) economy\"",
+  "section_path": [
+    "\"This is a good (US) economy\""
+  ],
+  "section_path_text": "\"This is a good (US) economy\"",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe three things investors should know today:\nThe Fed didn't manage a soft landing. It managed a perfect, Sully Sullenberger, landing. This is a good US economy.",
+  "keywords": [
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "japan",
+    "asset",
+    "image",
+    "linked",
+    "png",
+    "source",
+    "inflation",
+    "mazars"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5120,
+  "source_path": "reports/breakwave/2024/2024-02-06_this-is-a-good-us-economy.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/2/6/this-is-a-good-us-economy",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The three things investors should know today:\nThe Fed didn't manage a soft landing. It managed a perfect, Sully Sullenberger, landing.",
+      "keywords": [
+        "china",
+        "europe",
+        "not",
+        "inflation",
+        "image",
+        "png",
+        "reference",
+        "economy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1933,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s02_linked_asset_2024_02_06_this_is_a_good_us_economy_img_241_c19625653cfd_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_241_c19625653cfd.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_241_c19625653cfd.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_241_c19625653cfd.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_241_c19625653cfd.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_241_c19625653cfd.png\n\nImage metadata: PNG 842x522 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nIMF upgrades global growth to 3.1% from 2.9%\nGDP growth\n25\n2.1\n2\n15 15\n15 14\n1.2\n11\n1 1 1\n1 0.9\n0.6 0.6\n; : :\n0\nApr-23 Juk23 Oct-23 Jan-24\nmUS sUK #EU\nSource: Bloomberg, Mazars calculations mazZars",
+      "keywords": [
+        "asset",
+        "growth",
+        "image",
+        "source",
+        "apr-23",
+        "bloomberg",
+        "calculations",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s03_linked_asset_2024_02_06_this_is_a_good_us_economy_img_242_c7e8a2a11bde_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_242_c7e8a2a11bde.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_242_c7e8a2a11bde.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_242_c7e8a2a11bde.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_242_c7e8a2a11bde.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_242_c7e8a2a11bde.png\n\nImage metadata: PNG 935x531 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nJob growth has been consistently above long-term average for more than 18 months\n600\n500\n400 What \"soft\nlanding\"? 300\n200\n100 ~ _ ~ i _ ~ _ ~ -_ ~ _ _ ~ _ a _\noh DDD DD mm pL me\ncet oo Ro Ye e & RX > <3 we s ~S yw oe oe Ro X S\nMag US Employees on Nonfarm Payrolls Total MoM Net Change SA=353 ----- LT average (1939)=125.29\nSource: Bloomberg, Mazars calculations mazars",
+      "keywords": [
+        "asset",
+        "average",
+        "image",
+        "mazars",
+        "source",
+        "above",
+        "bloomberg",
+        "calculations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 224,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s04_linked_asset_2024_02_06_this_is_a_good_us_economy_img_243_e8383e3e019b_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_243_e8383e3e019b.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_243_e8383e3e019b.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_243_e8383e3e019b.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_243_e8383e3e019b.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_243_e8383e3e019b.png\n\nImage metadata: PNG 770x529 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nManufacturing has improved across the board last month\nPMI, >50 = expansion\nManufacturing PMls (last month) Manuf. PMls (A vs last month)\nIndia Brazil\nBrazil Italy\nRussia Spain\nS.",
+      "keywords": [
+        "china",
+        "brazil",
+        "india",
+        "japan",
+        "last",
+        "month",
+        "asset",
+        "expansion"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 222,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s05_linked_asset_2024_02_06_this_is_a_good_us_economy_img_244_3c100975500e_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_244_3c100975500e.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_244_3c100975500e.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_244_3c100975500e.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_244_3c100975500e.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_244_3c100975500e.png\n\nImage metadata: PNG 844x527 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMarkets adapting rate cut positioning\nMarket implied rate cuts for December 2024\n0\n-1\n2\n3 PA Aaa n\n, YW\n5\n-6\n7\n8\noO o oO o oO o - o - o - o - o - o o in] o ine] o ine] o ine] o ine] o ine] zs s zs s vt\na ee a Rh a eae eae en\nSs SSB 5355 Bb BBS 2\nS233 3327227238 FFF FSSSSSSSSSSSSASESES\n=--WIRP Est Number of Moves Priced in for the US - Futures Model\nSource: Bloomberg, Mazars calculations mazZars",
+      "keywords": [
+        "ine",
+        "asset",
+        "eae",
+        "image",
+        "source",
+        "aaa",
+        "adapting",
+        "bbs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 260,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s06_linked_asset_2024_02_06_this_is_a_good_us_economy_img_245_98312764c920_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_245_98312764c920.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_245_98312764c920.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_245_98312764c920.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_245_98312764c920.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_245_98312764c920.png\n\nImage metadata: PNG 839x546 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nAt its current average (0.28%), inflation falls to 3.1% by year's end\nUS CPI, YoY, %\n12.00%\n10.00%\n8.00%\n6.00%\nAGT Current pace\n~~\n0.00% lie eee\n-2.00%\n-4.00%\nPPP PP PDP PPP PPMP PP TDD PD OD\nFEF K KV STF FF MK KLE HK KP KT SSF FF KM -\nInflation rise per month\n---CPI YoY ---020% ==-==0.00% --010% om-me028% --0.80%\nSource: Bloomberg, Mazars calculations mazZars",
+      "keywords": [
+        "asset",
+        "cpi",
+        "current",
+        "image",
+        "inflation",
+        "ppp",
+        "source",
+        "yoy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 242,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s07_linked_asset_2024_02_06_this_is_a_good_us_economy_img_246_6b8ef42f1ba4_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_246_6b8ef42f1ba4.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_246_6b8ef42f1ba4.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_246_6b8ef42f1ba4.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_246_6b8ef42f1ba4.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_246_6b8ef42f1ba4.png\n\nImage metadata: PNG 582x525 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nJanuary, February and April were big CPI months\n1.400\n1.200\n1.000\n0.800\n0.600\n0.400 | | | i\n- | | | |\ncow PEEGEE I\nYANRNAANAKRRARKRARRARKRARAR\nft hea we tg tee ER Et eH Ae Se\nSSPSSSSSSSSSSIZSEEB\nmw CP! Monthly 6m average = 0.27%\nSource: Bloomberg, Mazars calculations mazars",
+      "keywords": [
+        "asset",
+        "image",
+        "mazars",
+        "source",
+        "april",
+        "average",
+        "big",
+        "bloomberg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s08_linked_asset_2024_02_06_this_is_a_good_us_economy_img_247_ed993e57a777_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_247_ed993e57a777.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_247_ed993e57a777.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_247_ed993e57a777.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_247_ed993e57a777.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_247_ed993e57a777.png\n\nImage metadata: PNG 943x605 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nUS Inflation falling, and stabilising\nYoY, %\n10\n8\n6\n4\n2\n0\n-2\n-4\nBRBeeRPnRewAMWAmMOmOaAaaAAHKAHAAAAHRDT VTEC eeenkt Ht Ht Bt wt tN NNNAAMaMHMAMM MH\nsavy reese et tee NNN Naa SN\nce F- 5 2 ce F- 5 2 c.evr F-35 2 cv F352 ce F-5 2 cee + 355 2 cee + 355 2\nRSSTAFSESSSPHFSRSSSA FSS RSTAFSERSSR HS RSETAFERSS2HS\neee (PL YOY eee PPI YOY 9 eee Core PCE YOY\nSource: Bloomberg, Mazars calculations mazars",
+      "keywords": [
+        "yoy",
+        "eee",
+        "asset",
+        "cee",
+        "image",
+        "mazars",
+        "source",
+        "bloomberg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s09_linked_asset_2024_02_06_this_is_a_good_us_economy_img_248_36c75aa6440a_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_248_36c75aa6440a.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_248_36c75aa6440a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_248_36c75aa6440a.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_248_36c75aa6440a.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_248_36c75aa6440a.png\n\nImage metadata: PNG 824x578 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nHigher deficits\n3\n: UJ\n1\n0 : 0\n| :\n2\n3\n4\n5\n6\n7\nus UK Eurozone India Japan\nSource: Bloomberg, Mazars calculations",
+      "keywords": [
+        "india",
+        "japan",
+        "asset",
+        "image",
+        "source",
+        "bloomberg",
+        "calculations",
+        "deficits"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 145,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s10_linked_asset_2024_02_06_this_is_a_good_us_economy_img_249_513aaf1b0939_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_249_513aaf1b0939.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_249_513aaf1b0939.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_249_513aaf1b0939.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_249_513aaf1b0939.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_249_513aaf1b0939.png\n\nImage metadata: PNG 953x596 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nConsumer expectations for prices back to average\nUniversity of Michigan 1y inflation expectations\n6\n5\n| | i\n= ~ wall whl iAY it at SULRA_A 4 4¥ . t\n> iw rhe w WY eM, [Y\n2\n1\n0)\nSAH dD ® & © OG hb GB QB O WR DBM Bw w& Bo Co KM GB @ GO mW GV Po ah\nSD DY S DM SK HM SD SM MP NM YN OM NY MN KN ON NM KY MP VY WV VY\nFF HK LFK KF GFK FF HF F KF FT F KF F F KF F KF F F F F\n=== UMich Expected Change in Prices During the Next Year: Median === Average\nSource: Bloomberg, Mazars calculations mazars",
+      "keywords": [
+        "asset",
+        "average",
+        "expectations",
+        "image",
+        "mazars",
+        "prices",
+        "source",
+        "back"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 277,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s11_linked_asset_2024_02_06_this_is_a_good_us_economy_img_2410_693682208079_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_2410_693682208079.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_2410_693682208079.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_2410_693682208079.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2410_693682208079.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_2410_693682208079.png\n\nImage metadata: PNG 978x585 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nUS debt to GDP approaching 140%\nIMF, US Debt to GDP until 2028\n160\n140\n120\n100\n80\n60\n40\n20\n0\nLEE EELEE EP IEEE EEE EEE OEEPEEEPE SE\n-=\" MF US General Government Gross Debt % of GDP\nSource: Bloomberg, Mazars calculations mazars",
+      "keywords": [
+        "debt",
+        "gdp",
+        "asset",
+        "eee",
+        "image",
+        "mazars",
+        "source",
+        "approaching"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 173,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s12_linked_asset_2024_02_06_this_is_a_good_us_economy_img_2411_e54490f18532_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_2411_e54490f18532.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_2411_e54490f18532.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_2411_e54490f18532.png",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2411_e54490f18532.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_2411_e54490f18532.png\n\nImage metadata: PNG 918x550 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\ni 0\nS&P valuations 30% above average\n35\n30\n20 Aad f LA LW\n\"yy KW \"wel WF\n15\n10\n5\n0\nTr aA mosrwvoernrkreowoegcerianaionmuouoewTFsfsewowonrF WHOS TA NH rFwWMOM\"~- DWWDSori NN OM Os\nPPD OPPOPRTerer ere SF ePEeV2ee2e222TTTrrrrrrrTIqgeggdg\nécec¢c é &é &€& &€ &€ € &€ € € € € € € &€ € € € &€ € € € &€ &€ &€ € € € € € € €\ni i i i i i o i i i o o o i o o o o o o o o o o o o o o o o o o o o\nee ee ee i i i i i i ie i i a i i |\na-- S&P 500 INDEX\nSource: Bloomberg, Mazars calculations i Y \\azars",
+      "keywords": [
+        "asset",
+        "image",
+        "source",
+        "a",
+        "aad",
+        "above",
+        "average",
+        "azars"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 329,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__s13_linked_asset_2024_02_06_this_is_a_good_us_economy_img_2412_daba3120756d_png",
+      "doc_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy",
+      "parent_id": "breakwave_insights_insights_2024-02-06_2024_02_06_this_is_a_good_us_economy__root",
+      "title": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_2412_daba3120756d.png",
+      "section_path": [
+        "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_2412_daba3120756d.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-06_this-is-a-good-us-economy_img_2412_daba3120756d.png",
+      "level": 1,
+      "ordinal": 13,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-06_this-is-a-good-us-economy_img_2412_daba3120756d.png\n\nLinked image asset: 2024-02-06_this-is-a-good-us-economy_img_2412_daba3120756d.png\n\nImage metadata: PNG 1078x533 mode=RGB\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nTake tech out of the equation, and it looks different\n100 = 31/12/2022, USD\n135\n130 S&P 500\n+29%, 23x Price-to-Earnings\n125\n120\n115\n\" S&P 500, ex tech\n105 +7.5%, 18x Price-to-Earnings\n100\n95\n90\nJan-23 Feb-23 Mar-23 Apr-23. Julk23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23 Jan-24\n--S&P 500INDEX --S8&P 500 Ex-Tech\nSource: Bloomberg, Mazars calculations",
+      "keywords": [
+        "asset",
+        "image",
+        "price-to-earnings",
+        "source",
+        "tech",
+        "apr-23.",
+        "aug-23",
+        "bloomberg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 243,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

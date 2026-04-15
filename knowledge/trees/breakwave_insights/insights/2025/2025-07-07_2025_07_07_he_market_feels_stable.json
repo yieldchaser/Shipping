@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-07-07_2025_07_07_he_market_feels_stable__root",
+  "doc_id": "breakwave_insights_insights_2025-07-07_2025_07_07_he_market_feels_stable",
+  "parent_id": null,
+  "title": "Τhe market feels stable",
+  "section_path": [
+    "Τhe market feels stable"
+  ],
+  "section_path_text": "Τhe market feels stable",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nAs the Hellenic Shipbrokers Association reconvenes for its summer dinner, the atmosphere is more restrained than it was two years ago - not because the market is weaker, but because it remains directionless. In July 2023, spot market levels were at notably lower levels. The Baltic Dry Index was struggling around 1,000 points, Capesize earnings were languishing below $10,000 per day, and the Atlantic was particularly soft across all segments.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "atlantic",
+    "india",
+    "japan",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1445,
+  "source_path": "reports/breakwave/2025/2025-07-07_he-market-feels-stable.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/7/7/he-market-feels-stable",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-07-07_2025_07_07_he_market_feels_stable__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-07-07_2025_07_07_he_market_feels_stable",
+      "parent_id": "breakwave_insights_insights_2025-07-07_2025_07_07_he_market_feels_stable__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nAs the Hellenic Shipbrokers Association reconvenes for its summer dinner, the atmosphere is more restrained than it was two years ago - not because the market is weaker, but because it remains directionless. In July 2023, spot market levels were at notably lower levels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "atlantic",
+        "india",
+        "japan",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1197,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-07-07_2025_07_07_he_market_feels_stable__s02_linked_asset_2025_07_07_he_market_feels_stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a_png",
+      "doc_id": "breakwave_insights_insights_2025-07-07_2025_07_07_he_market_feels_stable",
+      "parent_id": "breakwave_insights_insights_2025-07-07_2025_07_07_he_market_feels_stable__root",
+      "title": "Linked asset: 2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png",
+      "section_path": [
+        "Linked asset: 2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png"
+      ],
+      "section_path_text": "Linked asset: 2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png\n\nLinked image asset: 2025-07-07_he-market-feels-stable_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_72eae4e85a3a.png\n\nImage metadata: PNG 936x428 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n3500\n3000\n2500\n2000\n1500\n1000\n500\n0)\nJan Feb = Mar Apr May Jun Jul Aug Sep Oct Nov Dec\nSource: Baltic Exchange, Doric Research -BDI 2023 -=-BD!",
+      "keywords": [
+        "asset",
+        "image",
+        "source",
+        "apr",
+        "aug",
+        "bdi",
+        "dec",
+        "doric"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

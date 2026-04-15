@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-04-23_2024_04_23_the_recent_surge_in_weekly_cargo_has_chiefly_benefitted_the_panamaxes__root",
+  "doc_id": "breakwave_insights_insights_2024-04-23_2024_04_23_the_recent_surge_in_weekly_cargo_has_chiefly_benefitted_the_panamaxes",
+  "parent_id": null,
+  "title": "The recent surge in weekly cargo has chiefly benefitted the panamaxes",
+  "section_path": [
+    "The recent surge in weekly cargo has chiefly benefitted the panamaxes"
+  ],
+  "section_path_text": "The recent surge in weekly cargo has chiefly benefitted the panamaxes",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe past week saw the Baltic Dry Index rise by eleven per cent, with much of the upward momentum provided by the panamaxes and capesizes. Among the commodities, iron ore and base metals belonged to the winners. On the other hand, crude oil, grains, and soybeans were among those facing headwinds.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1852,
+  "source_path": "reports/breakwave/2024/2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/4/22/the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-04-23_2024_04_23_the_recent_surge_in_weekly_cargo_has_chiefly_benefitted_the_panamaxes__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-04-23_2024_04_23_the_recent_surge_in_weekly_cargo_has_chiefly_benefitted_the_panamaxes",
+      "parent_id": "breakwave_insights_insights_2024-04-23_2024_04_23_the_recent_surge_in_weekly_cargo_has_chiefly_benefitted_the_panamaxes__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The past week saw the Baltic Dry Index rise by eleven per cent, with much of the upward momentum provided by the panamaxes and capesizes. Among the commodities, iron ore and base metals belonged to the winners.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1482,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-04-23_2024_04_23_the_recent_surge_in_weekly_cargo_has_chiefly_benefitted_the_panamaxes__s02_linked_asset_2024_04_23_the_recent_surge_in_weekly_cargo_has_chiefly_benefitted_the_panamaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fd17aa59d89_png",
+      "doc_id": "breakwave_insights_insights_2024-04-23_2024_04_23_the_recent_surge_in_weekly_cargo_has_chiefly_benefitted_the_panamaxes",
+      "parent_id": "breakwave_insights_insights_2024-04-23_2024_04_23_the_recent_surge_in_weekly_cargo_has_chiefly_benefitted_the_panamaxes__root",
+      "title": "Linked asset: 2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fd17aa59d89.png",
+      "section_path": [
+        "Linked asset: 2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fd17aa59d89.png"
+      ],
+      "section_path_text": "Linked asset: 2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fd17aa59d89.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fd17aa59d89.png\n\nLinked image asset: 2024-04-23_the-recent-surge-in-weekly-cargo-has-chiefly-benefitted-the-panamaxes_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6fd17aa59d89.png\n\nImage metadata: PNG 663x382 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Russian Coal Loading in the Baltic Sea by Destination\nRest of the world @ Brazil @ Turkey m@ China @ India\n15\n1 | | qa |\n, ; |\n2\nEos 1 | | oe |\n. AP TT\n| call ontiti Ll all |\nFAUT AAAA GEE U0 HAAR AWEL oH\n3 a PPLE ED\nFP SP oO oP SP gt?",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "india",
+        "coal",
+        "asset",
+        "image",
+        "neh"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 305,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

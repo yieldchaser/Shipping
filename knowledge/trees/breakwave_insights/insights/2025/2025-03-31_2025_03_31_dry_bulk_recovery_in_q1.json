@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-03-31_2025_03_31_dry_bulk_recovery_in_q1__root",
+  "doc_id": "breakwave_insights_insights_2025-03-31_2025_03_31_dry_bulk_recovery_in_q1",
+  "parent_id": null,
+  "title": "Dry Bulk recovery in Q1",
+  "section_path": [
+    "Dry Bulk recovery in Q1"
+  ],
+  "section_path_text": "Dry Bulk recovery in Q1",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nAs the first quarter of 2025 draws to a close the dry bulk market has witnessed a mild recovery in this term. The Cape sector has been the better performer having closed today at the Baltic Exchange time charter average of $ 20,500 and twice the value recorded in the first days of January. The other categories were less vigorous with gains of 10-30%\nWith both the Russia-Ukraine and Middle East wars unresolved, though mostly factored into trade patterns and dynamics established over the last two years, new wars in the form of tariffs on trade and threatened penalties on Chinese built or operated vessels have thrown new curve balls to the bulk sector.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "trade",
+    "feb",
+    "cargo",
+    "jan",
+    "much",
+    "usa"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1068,
+  "source_path": "reports/breakwave/2025/2025-03-31_dry-bulk-recovery-in-q1.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/3/31/dry-bulk-recovery-in-q1",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-03-31_2025_03_31_dry_bulk_recovery_in_q1__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-03-31_2025_03_31_dry_bulk_recovery_in_q1",
+      "parent_id": "breakwave_insights_insights_2025-03-31_2025_03_31_dry_bulk_recovery_in_q1__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nAs the first quarter of 2025 draws to a close the dry bulk market has witnessed a mild recovery in this term. The Cape sector has been the better performer having closed today at the Baltic Exchange time charter average of $ 20,500 and twice the value recorded in the first days of January.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "trade",
+        "cargo",
+        "much",
+        "usa",
+        "bound"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 752,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-31_2025_03_31_dry_bulk_recovery_in_q1__s02_linked_asset_2025_03_31_dry_bulk_recovery_in_q1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_986af3c87f6d_png",
+      "doc_id": "breakwave_insights_insights_2025-03-31_2025_03_31_dry_bulk_recovery_in_q1",
+      "parent_id": "breakwave_insights_insights_2025-03-31_2025_03_31_dry_bulk_recovery_in_q1__root",
+      "title": "Linked asset: 2025-03-31_dry-bulk-recovery-in-q1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_986af3c87f6d.png",
+      "section_path": [
+        "Linked asset: 2025-03-31_dry-bulk-recovery-in-q1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_986af3c87f6d.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-31_dry-bulk-recovery-in-q1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_986af3c87f6d.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-31_dry-bulk-recovery-in-q1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_986af3c87f6d.png\n\nLinked image asset: 2025-03-31_dry-bulk-recovery-in-q1_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_986af3c87f6d.png\n\nImage metadata: PNG 881x381 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nBaltic Exchange Time Charter Averages Q1 2025\n$25,000\n$20,000\n$15,000\n$10,000\n$5,000\n2Uan 7-Jan 12-Jan 17-Jan 22-Jan 27-Jan 1-Feb 6-Feb 11-Feb 16-Feb 21-Feb 26-Feb 3-Mar 8-Mar 13-Mar18-Mar23-Mar28-Mi\n-CapeSTC = --Panamax STC ~=--~Supramax 11TC += --=Handysize 7TC",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "feb",
+        "jan",
+        "asset",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

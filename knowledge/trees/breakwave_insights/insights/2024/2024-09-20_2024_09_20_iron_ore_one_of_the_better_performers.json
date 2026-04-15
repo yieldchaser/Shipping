@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-09-20_2024_09_20_iron_ore_one_of_the_better_performers__root",
+  "doc_id": "breakwave_insights_insights_2024-09-20_2024_09_20_iron_ore_one_of_the_better_performers",
+  "parent_id": null,
+  "title": "Iron ore: one of the better performers",
+  "section_path": [
+    "Iron ore: one of the better performers"
+  ],
+  "section_path_text": "Iron ore: one of the better performers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic Dry Index delivered a solid gain on Thursday amid gains for all segments. On the other hand, the commodities had a mixed session. Iron ore was one of the better performers, supported by a weaker dollar and hopes that the Chinese leadership will introduce more economic support measures.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1847,
+  "source_path": "reports/breakwave/2024/2024-09-20_iron-ore-one-of-the-better-performers.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/9/20/iron-ore-one-of-the-better-performers",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-09-20_2024_09_20_iron_ore_one_of_the_better_performers__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-09-20_2024_09_20_iron_ore_one_of_the_better_performers",
+      "parent_id": "breakwave_insights_insights_2024-09-20_2024_09_20_iron_ore_one_of_the_better_performers__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic Dry Index delivered a solid gain on Thursday amid gains for all segments. On the other hand, the commodities had a mixed session.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1591,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-20_2024_09_20_iron_ore_one_of_the_better_performers__s02_linked_asset_2024_09_20_iron_ore_one_of_the_better_performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592_png",
+      "doc_id": "breakwave_insights_insights_2024-09-20_2024_09_20_iron_ore_one_of_the_better_performers",
+      "parent_id": "breakwave_insights_insights_2024-09-20_2024_09_20_iron_ore_one_of_the_better_performers__root",
+      "title": "Linked asset: 2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png",
+      "section_path": [
+        "Linked asset: 2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png\n\nLinked image asset: 2024-09-20_iron-ore-one-of-the-better-performers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_33d969af3592.png\n\nImage metadata: PNG 660x381 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Coal Discharging in India\n20\n15\nE 10\n5\n° : Ly Ly a Ly | bd |\nem ye ye ye ye ep y ty Wy ty\nOg\nData source: Shipfix",
+      "keywords": [
+        "india",
+        "coal",
+        "asset",
+        "image",
+        "source",
+        "cargo",
+        "data",
+        "discharging"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 201,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

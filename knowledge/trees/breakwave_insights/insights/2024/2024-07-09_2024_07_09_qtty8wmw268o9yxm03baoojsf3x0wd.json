@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-07-09_2024_07_09_qtty8wmw268o9yxm03baoojsf3x0wd__root",
+  "doc_id": "breakwave_insights_insights_2024-07-09_2024_07_09_qtty8wmw268o9yxm03baoojsf3x0wd",
+  "parent_id": null,
+  "title": "All vessel segments contributing to the headwinds",
+  "section_path": [
+    "All vessel segments contributing to the headwinds"
+  ],
+  "section_path_text": "All vessel segments contributing to the headwinds",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAfter five weeks of gains, the Baltic Dry Index declined by more than four per cent over the past five sessions, with all vessel segments contributing to the headwinds. Among the commodities, concerns over potential supply disruptions contributed to weekly gains in many cases. By Ulf Bergman\nMacro/Geopolitics\nThe past week ended with the release of US labour market data that, charitably, can be described as mixed.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "pacific",
+    "europe",
+    "india",
+    "singapore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2167,
+  "source_path": "reports/breakwave/2024/2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/7/9/qtty8wmw268o9yxm03baoojsf3x0wd",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-07-09_2024_07_09_qtty8wmw268o9yxm03baoojsf3x0wd__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-07-09_2024_07_09_qtty8wmw268o9yxm03baoojsf3x0wd",
+      "parent_id": "breakwave_insights_insights_2024-07-09_2024_07_09_qtty8wmw268o9yxm03baoojsf3x0wd__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After five weeks of gains, the Baltic Dry Index declined by more than four per cent over the past five sessions, with all vessel segments contributing to the headwinds. Among the commodities, concerns over potential supply disruptions contributed to weekly gains in many cases.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "australia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1831,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-09_2024_07_09_qtty8wmw268o9yxm03baoojsf3x0wd__s02_linked_asset_2024_07_09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb_png",
+      "doc_id": "breakwave_insights_insights_2024-07-09_2024_07_09_qtty8wmw268o9yxm03baoojsf3x0wd",
+      "parent_id": "breakwave_insights_insights_2024-07-09_2024_07_09_qtty8wmw268o9yxm03baoojsf3x0wd__root",
+      "title": "Linked asset: 2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png",
+      "section_path": [
+        "Linked asset: 2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png\n\nLinked image asset: 2024-07-09_qtty8wmw268o9yxm03baoojsf3x0wd_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_405117ccc3cb.png\n\nImage metadata: PNG 659x379 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Nickel Ore/Concentrate Loading Globally by Destination\n@ Rest of the world ™@ China\nos\n06\n3\n€ 04\n5\n¢\n2\n=\n; i | | l il | [| | I |\nll ln | lh lh. ln rl hat\nP os Po ye PO SP op5P oes?",
+      "keywords": [
+        "china",
+        "ach",
+        "asset",
+        "image",
+        "source",
+        "cargo",
+        "data",
+        "destination"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 275,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

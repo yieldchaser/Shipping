@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__root",
+  "doc_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days",
+  "parent_id": null,
+  "title": "Iron Ore Flows & Capesize Tonne Days",
+  "section_path": [
+    "Iron Ore Flows & Capesize Tonne Days"
+  ],
+  "section_path_text": "Iron Ore Flows & Capesize Tonne Days",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 28.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions July 10, 2024\nImage reference: Στιγμιότυπο οθόνης 2024-07-11 085051.png | assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png\nThe second week of July brings a downward revision in the performance of the Capesize segment, while the decreasing count of ballasters fosters optimism for the coming days. This reduction in available ballast vessels could tighten supply and potentially support higher freight rates. Regarding the monthly volume of Brazilian iron ore shipments to China, June concluded with a significant 20% increase over May's levels.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "europe",
+    "singapore",
+    "iron_ore",
+    "asset",
+    "image",
+    "weeks"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3568,
+  "source_path": "reports/breakwave/2024/2024-07-11_iron-ore-flows-amp-capesize-tonne-days.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/7/11/iron-ore-flows-amp-capesize-tonne-days",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 28.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions July 10, 2024\nImage reference: Στιγμιότυπο οθόνης 2024-07-11 085051.png | assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png\nThe second week of July brings a downward revision in the performance of the Capesize segment, while the decreasing count of ballasters fosters optimism for the coming days. This reduction in available ballast vessels could tighten supply and potentially support higher freight rates.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "europe",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1549,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__s02_linked_asset_2024_07_11_iron_ore_flows_amp_capesize_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3_png",
+      "doc_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__root",
+      "title": "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png",
+      "section_path": [
+        "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png\n\nLinked image asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8de26d31dde3.png\n\nImage metadata: PNG 660x604 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChart of the Week:\nIron Ore Flows & Capesize Tonne Days\nThis week's chart illustrates the increase in the monthly volume of Brazilian iron ore\nduring the second quarter of this year (left chart), alongside the growth in Capesize\ntonne days from Brazil to China since the end of May. While this growth indicates\npotential for the market, its impact on the performance of the Baltic Capesize Index\nwithin July remains uncertain.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "chart",
+        "days",
+        "ore",
+        "tonne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 348,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__s03_linked_asset_2024_07_11_iron_ore_flows_amp_capesize_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2fa3566c95bd_png",
+      "doc_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__root",
+      "title": "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2fa3566c95bd.png",
+      "section_path": [
+        "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2fa3566c95bd.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2fa3566c95bd.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2fa3566c95bd.png\n\nLinked image asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2fa3566c95bd.png\n\nImage metadata: PNG 651x566 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT - Market Rates ($/t) Weaker\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nWi Cape- Brazil NCnina Wl Pmax-Cont FE i Supra - indo EC! WB Handy NOPAC FE\nWeekly Trends\n45\n40\n35\ng 30\n%\n«\nSes\n20\n1s\nes\nSRRARRSRSRRSLSSLSSLLSTILRSSSSLSLSSSLSALASHSSSASLARSEREER\nSSSSSSSSSSSSSSSSSSSSSSSS 2 Cee eeee ee FFFEFEFEFFEFE3E3333333333\nPAS 4-8-9-90 tte ee\nSSSSISSS ISS SSSI SS SSSSSSSSeRRRRRSRa SSS SS SS SSS SSSSSSSSS\nRERRRRRSRRRRRRRRRRRRRRRRR RERRRRRRRRRRRRRRRRR",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "brazil",
+        "asset",
+        "image",
+        "sss"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 379,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__s04_linked_asset_2024_07_11_iron_ore_flows_amp_capesize_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13dea97b85ba_png",
+      "doc_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__root",
+      "title": "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13dea97b85ba.png",
+      "section_path": [
+        "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13dea97b85ba.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13dea97b85ba.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13dea97b85ba.png\n\nLinked image asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_13dea97b85ba.png\n\nImage metadata: PNG 654x707 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Decreasing\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nBi Cape SE Africa Bi Pmax SE Africa Bi Supra Se Asia Bi Handy NOPAC\nWeekly Trends\nin aN\nCapes 10 YR NN A - /\\N\nAria = WSJ VU\n> 9\n190\n4\nPmaxSE = 150 Averag\n\"\nMia $10\n70\n120\n4,\nSuprast ¥ 10 s\\eraye\nAsa = 100\n>\n90\n2%\nHandy = 3 Average\nwore § 8\n>\n70\nDACANMINVORDAGCANMIHORDACHENANMENHORDAGCHENMHENHORBAOANMEHOND\nNVO MOO AM MMMM AIEEE TT TSTTHYYSSSSsssssorrod sr sr se NNNNNNNNN\nSSS SS SSS SSS SSS SS SSS SSS SSS eee eee ee ee RS DSSS SS SSSSSSESSS\nAAR MMMM MMM MMMMNNNANNNNNNOC Se eeee ree reer ere ress\nNNNNNNNNNNNNNNNNNNNNNNNNNODOOCOCODCOONNNNNNNNNNNNAN NANA\nSCOOOCHOSOOSCOSCOOOOOSSOOOOOSOSCONNNNNNNNNOOCOCOOCOSCOSOOOoOSoOoOoOOO\nNNNNNNNNNNNNNNNNNN NNN NNNNNNNNNNNNNANN NA",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "sss",
+        "africa",
+        "asset",
+        "ballasters",
+        "eee"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 505,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__s05_linked_asset_2024_07_11_iron_ore_flows_amp_capesize_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cf6a3a7504f_png",
+      "doc_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__root",
+      "title": "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cf6a3a7504f.png",
+      "section_path": [
+        "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cf6a3a7504f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cf6a3a7504f.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cf6a3a7504f.png\n\nLinked image asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7cf6a3a7504f.png\n\nImage metadata: PNG 664x453 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND - Tonne Days Mixed\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\nMi cape Prax Supra Handy\n110%\nee TN hd\na 4\\\\ pi V\n. 7 INN Ado Mad\n* tJ\n3 oh Np oe\n5 Lo tes\n* sox rl\n80%\n2 REREERERSERESREREEESSESEEERERRR ERE",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "asset",
+        "demand",
+        "image",
+        "ado",
+        "cape"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 249,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__s06_linked_asset_2024_07_11_iron_ore_flows_amp_capesize_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94cabce176ed_png",
+      "doc_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-07-11_2024_07_11_iron_ore_flows_amp_capesize_tonne_days__root",
+      "title": "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94cabce176ed.png",
+      "section_path": [
+        "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94cabce176ed.png"
+      ],
+      "section_path_text": "Linked asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94cabce176ed.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94cabce176ed.png\n\nLinked image asset: 2024-07-11_iron-ore-flows-amp-capesize-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_94cabce176ed.png\n\nImage metadata: PNG 652x504 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Increasing\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\nvoc Wi Cope i Post Pmax Bi Pmax Bi suore Bi hienax BE Hancysize Bi sman\nWeekly Trends\n1200 Average\n2 sx\nB coy\n2\nSRSSASLILSESRSIIFLIZZITIFIRSLSSSSSSSSSISssSsSsssssgSssSegs",
+      "keywords": [
+        "capesize",
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "pmax",
+        "average",
+        "congested"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 257,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

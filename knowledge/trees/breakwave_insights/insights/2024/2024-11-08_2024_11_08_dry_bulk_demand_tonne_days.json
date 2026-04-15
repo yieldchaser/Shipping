@@ -1,0 +1,229 @@
+{
+  "node_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__root",
+  "doc_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days",
+  "parent_id": null,
+  "title": "Dry Bulk Demand - Tonne Days",
+  "section_path": [
+    "Dry Bulk Demand - Tonne Days"
+  ],
+  "section_path_text": "Dry Bulk Demand - Tonne Days",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Weekly Market Monitor - Week 45.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions November 07, 2024\n\nChart of the Week: Dry Bulk Demand - Tonne Days\nThis week's highlight focuses on the growing demand in tonne-days for specific dry cargo types across different vessel sizes, offering insights into recent freight market trends and identifying areas where strong demand for certain cargoes could potentially support freight rates. Image reference: Στιγμιότυπο οθόνης 2024-11-08 102922.png | assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png\nNovember brought a significant downturn in dry bulk freight rates, with the Baltic Capesize Index plummeting by 40% on a monthly level. The Baltic Panamax Index also showed a decline, though at a slower pace of 14%.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "iron_ore",
+    "coal",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3312,
+  "source_path": "reports/breakwave/2024/2024-11-08_dry-bulk-demand-tonne-days.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/11/8/dry-bulk-demand-tonne-days",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Weekly Market Monitor - Week 45.2024 Snapshot of Spot Freight Rates, Supply-Demand Trends, Port Congestions November 07, 2024",
+      "keywords": [
+        "congestions",
+        "monitor",
+        "november",
+        "port",
+        "snapshot",
+        "supply-demand",
+        "trends"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__s02_chart_of_the_week_dry_bulk_demand_tonne_days",
+      "doc_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__root",
+      "title": "Chart of the Week: Dry Bulk Demand - Tonne Days",
+      "section_path": [
+        "Chart of the Week: Dry Bulk Demand - Tonne Days"
+      ],
+      "section_path_text": "Chart of the Week: Dry Bulk Demand - Tonne Days",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "This week's highlight focuses on the growing demand in tonne-days for specific dry cargo types across different vessel sizes, offering insights into recent freight market trends and identifying areas where strong demand for certain cargoes could potentially support freight rates. Image reference: Στιγμιότυπο οθόνης 2024-11-08 102922.png | assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png\nNovember brought a significant downturn in dry bulk freight rates, with the Baltic Capesize Index plummeting by 40% on a monthly level.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "atlantic",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1512,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__s03_linked_asset_2024_11_08_dry_bulk_demand_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c_png",
+      "doc_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__root",
+      "title": "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png",
+      "section_path": [
+        "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png\n\nLinked image asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a1a7e12e2e9c.png\n\nImage metadata: PNG 664x480 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDemand DRY - Tonne Days\nCapesize Iron Ore Panamax Thermal Coal\nro)\nuw\n. _ Leese MOAR\n$ iam 8\n3 i\noo noe\n4 2024 Mor 2024 May 2024 JA 026 Sep 2024 Now 2024 Jan 2024 Mar 2026 Mary 2024 Jue 2024 Sep 2026 New 2024\nSupramax Minerals Handysize Agricultural\nae\na zo\n\" *\ni...",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "iron_ore",
+        "coal",
+        "mar",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 318,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__s04_linked_asset_2024_11_08_dry_bulk_demand_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22ffa6d61f0c_png",
+      "doc_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__root",
+      "title": "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22ffa6d61f0c.png",
+      "section_path": [
+        "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22ffa6d61f0c.png"
+      ],
+      "section_path_text": "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22ffa6d61f0c.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22ffa6d61f0c.png\n\nLinked image asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22ffa6d61f0c.png\n\nImage metadata: PNG 634x471 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT - Freight Rates ($/t) Weaker\n‘The Big Picture' - Capesize and Panamax Bulkers and Smaller Ship Sizes\nSummary of Indicative Freight Rates, $/ton\nWi Cape - Brazil NChina Wi Pmax- Cont FE I Supra- Inco EC! BB Handy NOPAC FE\nWeekly Trends\n45\n40\n35\ng 30\n§\n«\nSes\n20\n1s\nNe\nSETSEPSSRSSLLLSSSSSALVSLLSSASHSLLSLSSSLSARRSRSRRSSEMTES\nSSSSS SSS TFT SS TT SSSSFFSPSSSSSSSSSSSSSSSSSISSTZSZEZRE\nRILGKASRSSSSSSSSSSTTLSSTLLIT LL TLLSSTTL IL SSLLLTLTSTSETEE\nERRRRRRSVSSSRAS EN ER ERS RRR RR RRRRR RARER RRRRRRRRRRRRRRRR",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "asset",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 359,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__s05_linked_asset_2024_11_08_dry_bulk_demand_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e_png",
+      "doc_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__root",
+      "title": "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e.png",
+      "section_path": [
+        "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e.png"
+      ],
+      "section_path_text": "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e.png\n\nLinked image asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b555d23cc2e.png\n\nImage metadata: PNG 661x457 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 2/ SUPPLY - Ballasters (# vessels) Mixed\nSupply Trend Lines for Key Load Areas\nSummary of Ballasters, Per Dry Bulk Ship Size\nWi Cape SE Africa Wi Pax SE Africa Wi Supra SE Asia BW Handy NOPAC\nWeekly Trends\n150\ncapesE 229 pvera,\nAfrica 2 110\n90\n¥$ 160\nPras g 130 Average\n> 100\n120\nSupra SE 3 110 LS\nAsia 3 100\n90\n100\n*\nHandy 9 redge\nNOPAC zg 80\n70",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "africa",
+        "asia",
+        "asset",
+        "ballasters",
+        "handy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 266,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__s06_linked_asset_2024_11_08_dry_bulk_demand_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b37c3472b455_png",
+      "doc_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__root",
+      "title": "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b37c3472b455.png",
+      "section_path": [
+        "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b37c3472b455.png"
+      ],
+      "section_path_text": "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b37c3472b455.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b37c3472b455.png\n\nLinked image asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b37c3472b455.png\n\nImage metadata: PNG 661x502 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND - No of Vessels Increasing\nSummary of Dry Bulk Demand, per Ship Size\nWeekly Trends\n@ Cape Tond Growth i Pmax TonD Growth @ SupraTonD Growth Bi Handy TonD Growth\n115%\n110%\nwe 105%\n<=\n:\n£ 100%\nSo\n&\n95%\n90%\n85%\n80%\n€SS<SePSERESSESBERSIKLERERRERESE\n23 3 3 = 23 3333333333333 3 38\n»mmms®édesisisrstrtsetetetresesetsersetreseetesee\nNanSaASsSéSséeSBéeBéae BS KR KR KAO KREO NRO KR CU KR CU KRCUcUVChUcUVNMCO ROKR KR KR KR A BN\nRERRSRRSKRRRRSEKSKKSRRRERRKSRRRRRRR",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "growth",
+        "tond",
+        "asset",
+        "demand",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 336,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__s07_linked_asset_2024_11_08_dry_bulk_demand_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d1e5d72fb9_png",
+      "doc_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-11-08_2024_11_08_dry_bulk_demand_tonne_days__root",
+      "title": "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d1e5d72fb9.png",
+      "section_path": [
+        "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d1e5d72fb9.png"
+      ],
+      "section_path_text": "Linked asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d1e5d72fb9.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d1e5d72fb9.png\n\nLinked image asset: 2024-11-08_dry-bulk-demand-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5d1e5d72fb9.png\n\nImage metadata: PNG 667x438 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 4/ PORT CONGESTION - No of Vessels Steady\nDry bulk ships congested at Chinese ports\nSummary of Chinese Dry Bulk Ship Congestions\nByoc Wi Cape i Post Prax Bi Pmax Bsupre Bmax BW Hancysize Bsman\nWeekly Trends\n1400 Average\nF 800\n2 600",
+      "keywords": [
+        "capesize",
+        "china",
+        "asset",
+        "chinese",
+        "image",
+        "average",
+        "bmax",
+        "bsman"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

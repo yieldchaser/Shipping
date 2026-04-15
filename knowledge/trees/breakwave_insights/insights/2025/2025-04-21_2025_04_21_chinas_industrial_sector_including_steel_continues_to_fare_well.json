@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-04-21_2025_04_21_chinas_industrial_sector_including_steel_continues_to_fare_well__root",
+  "doc_id": "breakwave_insights_insights_2025-04-21_2025_04_21_chinas_industrial_sector_including_steel_continues_to_fare_well",
+  "parent_id": null,
+  "title": "China's Industrial Sector, Including Steel, Continues To Fare Well",
+  "section_path": [
+    "China's Industrial Sector, Including Steel, Continues To Fare Well"
+  ],
+  "section_path_text": "China's Industrial Sector, Including Steel, Continues To Fare Well",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina's industrial production in March increased year-on-year by 7.7%. Excluding years affected by weak year-on-year coronavirus comparisons, this marks the strongest growth seen since March 2019. As we have continued to stress in Commodore Research's Weekly Executive Reports and Weekly China Reports, China's economy (particularly the industrial sector) is doing much better than market consensus is aware.",
+  "keywords": [
+    "china",
+    "steel",
+    "year-on-year",
+    "production",
+    "asset",
+    "image",
+    "march",
+    "almost",
+    "apr",
+    "april",
+    "better",
+    "chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 498,
+  "source_path": "reports/breakwave/2025/2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/4/21/chinas-industrial-sector-including-steel-continues-to-fare-well",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-04-21_2025_04_21_chinas_industrial_sector_including_steel_continues_to_fare_well__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-04-21_2025_04_21_chinas_industrial_sector_including_steel_continues_to_fare_well",
+      "parent_id": "breakwave_insights_insights_2025-04-21_2025_04_21_chinas_industrial_sector_including_steel_continues_to_fare_well__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina's industrial production in March increased year-on-year by 7.7%. Excluding years affected by weak year-on-year coronavirus comparisons, this marks the strongest growth seen since March 2019.",
+      "keywords": [
+        "china",
+        "steel",
+        "year-on-year",
+        "production",
+        "march",
+        "almost",
+        "april",
+        "better"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 300,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-21_2025_04_21_chinas_industrial_sector_including_steel_continues_to_fare_well__s02_linked_asset_2025_04_21_chinas_industrial_sector_including_steel_continues_to_fare_well_img_chart_a23edb11cbce_jpg",
+      "doc_id": "breakwave_insights_insights_2025-04-21_2025_04_21_chinas_industrial_sector_including_steel_continues_to_fare_well",
+      "parent_id": "breakwave_insights_insights_2025-04-21_2025_04_21_chinas_industrial_sector_including_steel_continues_to_fare_well__root",
+      "title": "Linked asset: 2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg",
+      "section_path": [
+        "Linked asset: 2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg\n\nLinked image asset: 2025-04-21_chinas-industrial-sector-including-steel-continues-to-fare-well_img_chart_a23edb11cbce.jpg\n\nImage metadata: JPEG 672x326 mode=RGB\n\nOCR text:\nDaily Crude Steel Output Average at Large and Medium-Sized Chinese Steel Mills\n2.40mt\n2.20mt\n2.00mt\n1.80mt\n1.60 -,-,-a-a_eT.\"\nApr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr",
+      "keywords": [
+        "china",
+        "steel",
+        "apr",
+        "asset",
+        "image",
+        "a-a_et.",
+        "aug",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 158,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

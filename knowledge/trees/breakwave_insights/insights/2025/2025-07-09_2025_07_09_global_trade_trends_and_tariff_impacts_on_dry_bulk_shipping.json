@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-07-09_2025_07_09_global_trade_trends_and_tariff_impacts_on_dry_bulk_shipping__root",
+  "doc_id": "breakwave_insights_insights_2025-07-09_2025_07_09_global_trade_trends_and_tariff_impacts_on_dry_bulk_shipping",
+  "parent_id": null,
+  "title": "Global Trade Trends and Tariff Impacts on Dry Bulk Shipping",
+  "section_path": [
+    "Global Trade Trends and Tariff Impacts on Dry Bulk Shipping"
+  ],
+  "section_path_text": "Global Trade Trends and Tariff Impacts on Dry Bulk Shipping",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis week, the Allied QuantumSea Research Team steps back from rising geopolitical tensions to analyse the structure of global seaborne trade through the lens of the world's leading exporters. Drawing on the World Trade Organization's Global Trade Outlook (April 2025), we spotlight major players in both dry bulk and containerized maritime transportation, including China, the United States, India, Brazil, Russia, Indonesia, Australia, and Canada. Each of these countries exhibits a distinct maritime profile shaped by the composition of its export commodities.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "container",
+    "china",
+    "brazil",
+    "australia",
+    "pacific",
+    "europe",
+    "india",
+    "iron_ore",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1228,
+  "source_path": "reports/breakwave/2025/2025-07-09_global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/7/9/global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-07-09_2025_07_09_global_trade_trends_and_tariff_impacts_on_dry_bulk_shipping__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-07-09_2025_07_09_global_trade_trends_and_tariff_impacts_on_dry_bulk_shipping",
+      "parent_id": "breakwave_insights_insights_2025-07-09_2025_07_09_global_trade_trends_and_tariff_impacts_on_dry_bulk_shipping__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, the Allied QuantumSea Research Team steps back from rising geopolitical tensions to analyse the structure of global seaborne trade through the lens of the world's leading exporters. Drawing on the World Trade Organization's Global Trade Outlook (April 2025), we spotlight major players in both dry bulk and containerized maritime transportation, including China, the United States, India, Brazil, Russia, Indonesia, Australia, and Canada.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "container",
+        "china",
+        "brazil",
+        "australia",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 973,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-07-09_2025_07_09_global_trade_trends_and_tariff_impacts_on_dry_bulk_shipping__s02_linked_asset_2025_07_09_global_trade_trends_and_tariff_impacts_on_dry_bulk_shipping_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c52be622e46_png",
+      "doc_id": "breakwave_insights_insights_2025-07-09_2025_07_09_global_trade_trends_and_tariff_impacts_on_dry_bulk_shipping",
+      "parent_id": "breakwave_insights_insights_2025-07-09_2025_07_09_global_trade_trends_and_tariff_impacts_on_dry_bulk_shipping__root",
+      "title": "Linked asset: 2025-07-09_global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c52be622e46.png",
+      "section_path": [
+        "Linked asset: 2025-07-09_global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c52be622e46.png"
+      ],
+      "section_path_text": "Linked asset: 2025-07-09_global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c52be622e46.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-07-09_global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c52be622e46.png\n\nLinked image asset: 2025-07-09_global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c52be622e46.png\n\nImage metadata: PNG 363x303 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWorld Trade, 2024\nTotal value of world trade\n$31.5 TRILLION\nMerchandise trade (goods)\n$24 TRILLLION",
+      "keywords": [
+        "trade",
+        "asset",
+        "image",
+        "world",
+        "dpi",
+        "embedded",
+        "global-trade-trends-and-tariff-impacts-on-dry-bulk-shipping_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1c52be622e46.png",
+        "goods"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

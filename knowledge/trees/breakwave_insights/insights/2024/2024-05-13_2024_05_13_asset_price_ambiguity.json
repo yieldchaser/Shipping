@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity__root",
+  "doc_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity",
+  "parent_id": null,
+  "title": "Asset Price Ambiguity",
+  "section_path": [
+    "Asset Price Ambiguity"
+  ],
+  "section_path_text": "Asset Price Ambiguity",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: Nissos-Nikouria-4.jpg | assets/2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg\nVLCC asset prices appear to be caught in a paradoxical market scenario. While conventional market sentiment and pricing models would suggest that prices are reaching overheated levels, mirroring the peaks seen in 2008, the underlying supply dynamics seem to justify these increases for now. A key indicator signaling that the secondhand asset market might be overheating is the price differential between the five-year-old benchmark and the current benchmark for newbuildings.",
+  "keywords": [
+    "vlcc",
+    "brazil",
+    "crude_oil",
+    "sss",
+    "asset",
+    "eee",
+    "are",
+    "fleet",
+    "image",
+    "prices",
+    "linked",
+    "secondhand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2324,
+  "source_path": "reports/breakwave/2024/2024-05-13_asset-price-ambiguity.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/5/13/asset-price-ambiguity",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity",
+      "parent_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: Nissos-Nikouria-4.jpg | assets/2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg\nVLCC asset prices appear to be caught in a paradoxical market scenario. While conventional market sentiment and pricing models would suggest that prices are reaching overheated levels, mirroring the peaks seen in 2008, the underlying supply dynamics seem to justify these increases for now.",
+      "keywords": [
+        "vlcc",
+        "brazil",
+        "crude_oil",
+        "fleet",
+        "prices",
+        "are",
+        "secondhand",
+        "approximately"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 803,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity__s02_linked_asset_2024_05_13_asset_price_ambiguity_img_nissos_nikouria_4_967132817018_jpg",
+      "doc_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity",
+      "parent_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity__root",
+      "title": "Linked asset: 2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg",
+      "section_path": [
+        "Linked asset: 2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg\n\nLinked image asset: 2024-05-13_asset-price-ambiguity_img_nissos-nikouria-4_967132817018.jpg\n\nImage metadata: JPEG 1600x1073 mode=RGB\n\nOCR text:\n- = = i =-- ee Spies = - = = ; -S SSS - ---\n: SS SEE - SSS --- ee -\n- =~ ~ * - = re -- = --- -- = ---- = --- - -= = =\n; : Se hie 2 ee ee a -- - --- ee --- ----- --------\nSi aise ne ae ------ SO ee FE eS = SS eS =\n- ae Peaeas ae] SS . ee i i --- - --- -- = SS SS - ~\nSg ees SS ee SSS SS ------eES --\n= PE ges 3, ene ee i a - -------\n= = iapmeneeeretT a er ik ie SEE ao ae ES SSS -- eee = a SS --- Slee\n- : eee ig 2 eee SSS - SSS\nai erin Cai = ag Ath ee Sen ee ee =e -- = -- SS SS SS\n= tak SS a \" if = RRS, ----S SS Sg Se ee =< =\n4 ree ~~ are 551 Pe a SS - SS See eS\n;.",
+      "keywords": [
+        "sss",
+        "eee",
+        "see",
+        "aes",
+        "are",
+        "asset",
+        "eae",
+        "ees"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1063,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity__s03_linked_asset_2024_05_13_asset_price_ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67_png",
+      "doc_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity",
+      "parent_id": "breakwave_insights_insights_2024-05-13_2024_05_13_asset_price_ambiguity__root",
+      "title": "Linked asset: 2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png",
+      "section_path": [
+        "Linked asset: 2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png\n\nLinked image asset: 2024-05-13_asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png\n\nImage metadata: PNG 1500x605 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nModern VLCC Pricing ($Million)\n[355 Newbuild VLCC [7] 5 Year Old VLCC\n130 oO\n120 _- o-O-Oo-0O-0-0-0-O oO\ngee | 52\n110 of 2\n100 Z pete Pe, 43d\n90 +} - S-6-3-30-6-6-0-7 \" ~8-86-8-8-8-8 5-9 \\_ > 2 a = J\n80 P\n70 o-S --- = o-8-o-© S eo, S - © si o-0-0-Jd i So -\nS S-o-0-o- 6-33-93 © in | oo |\n60\n& °° * x e * Ry & ~ ° < ° ° - - Ru Pig & v & - x A Ra a & ¥ Ri \" Rs v v ¥ Ru i Ra v &\nyr ve T&L ¥ we FT KFS $ ¥ ve T&L ¥ ve FKL ¥ vs T&L ¥ we FFL ¥",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "asset-price-ambiguity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_53b0ef0d3c67.png",
+        "dpi",
+        "embedded",
+        "ffl",
+        "fkl"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 373,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

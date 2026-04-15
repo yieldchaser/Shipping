@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-09-04_2024_09_04_challenging_outlook_for_the_chinese_economy__root",
+  "doc_id": "breakwave_insights_insights_2024-09-04_2024_09_04_challenging_outlook_for_the_chinese_economy",
+  "parent_id": null,
+  "title": "Challenging outlook for the Chinese economy",
+  "section_path": [
+    "Challenging outlook for the Chinese economy"
+  ],
+  "section_path_text": "Challenging outlook for the Chinese economy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nMost commodities faced headwinds on Tuesday as traders became increasingly concerned over the demand outlook amid weak economic data. Still, grains and oilseeds went against the flow, posting gains amid robust demand and suggestions that global supplies may face some limited headwinds. The capesizes fuelled a second consecutive day of gains for the Baltic Dry Index, while the smaller vessel segments continued to provide limited offsets.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "australia",
+    "atlantic",
+    "europe",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1917,
+  "source_path": "reports/breakwave/2024/2024-09-04_challenging-outlook-for-the-chinese-economy.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/9/4/challenging-outlook-for-the-chinese-economy",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-09-04_2024_09_04_challenging_outlook_for_the_chinese_economy__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-09-04_2024_09_04_challenging_outlook_for_the_chinese_economy",
+      "parent_id": "breakwave_insights_insights_2024-09-04_2024_09_04_challenging_outlook_for_the_chinese_economy__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Most commodities faced headwinds on Tuesday as traders became increasingly concerned over the demand outlook amid weak economic data. Still, grains and oilseeds went against the flow, posting gains amid robust demand and suggestions that global supplies may face some limited headwinds.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "australia"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1626,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-09-04_2024_09_04_challenging_outlook_for_the_chinese_economy__s02_linked_asset_2024_09_04_challenging_outlook_for_the_chinese_economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f48f0abd19ec_png",
+      "doc_id": "breakwave_insights_insights_2024-09-04_2024_09_04_challenging_outlook_for_the_chinese_economy",
+      "parent_id": "breakwave_insights_insights_2024-09-04_2024_09_04_challenging_outlook_for_the_chinese_economy__root",
+      "title": "Linked asset: 2024-09-04_challenging-outlook-for-the-chinese-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f48f0abd19ec.png",
+      "section_path": [
+        "Linked asset: 2024-09-04_challenging-outlook-for-the-chinese-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f48f0abd19ec.png"
+      ],
+      "section_path_text": "Linked asset: 2024-09-04_challenging-outlook-for-the-chinese-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f48f0abd19ec.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-09-04_challenging-outlook-for-the-chinese-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f48f0abd19ec.png\n\nLinked image asset: 2024-09-04_challenging-outlook-for-the-chinese-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f48f0abd19ec.png\n\nImage metadata: PNG 666x390 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Ags for Discharge in China/RoW\n@ Rest of the world @ China\n50\n40\n30\nH\n5\n5 2\n=\n10 | |\n°\nse PSP oP oP? oP PnP ah ah oP noth aor oh ah oh ah oh oh oh\nEo PO GOS II I ON I NM\nData source: Shipfix",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "source",
+        "ags",
+        "aor",
+        "cargo",
+        "challenging-outlook-for-the-chinese-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f48f0abd19ec.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 237,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

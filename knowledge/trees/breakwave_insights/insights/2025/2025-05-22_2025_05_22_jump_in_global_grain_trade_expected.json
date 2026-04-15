@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-05-22_2025_05_22_jump_in_global_grain_trade_expected__root",
+  "doc_id": "breakwave_insights_insights_2025-05-22_2025_05_22_jump_in_global_grain_trade_expected",
+  "parent_id": null,
+  "title": "Jump In Global Grain Trade Expected",
+  "section_path": [
+    "Jump In Global Grain Trade Expected"
+  ],
+  "section_path_text": "Jump In Global Grain Trade Expected",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed for clients in Commodore Research's most recent Weekly Executive Report, the United States Department of Agriculture has released its initial forecast for the upcoming 2025/26 grain trade season and is predicting that global coarse grain, wheat, soybean, and soymeal exports will collectively total a very impressive 720.2 million tons. This would mark a year-on-year increase of 26.9 million tons (4%) from the 693.4 million tons expected for the current 2024/25 season. Stronger harvests are all expected for coarse grain, wheat, soybeans, and soymeal.",
+  "keywords": [
+    "brazil",
+    "grain",
+    "coarse",
+    "million",
+    "expected",
+    "exports",
+    "year-on-year",
+    "tons",
+    "asset",
+    "current",
+    "global",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 552,
+  "source_path": "reports/breakwave/2025/2025-05-22_jump-in-global-grain-trade-expected.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/5/22/jump-in-global-grain-trade-expected",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-05-22_2025_05_22_jump_in_global_grain_trade_expected__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-05-22_2025_05_22_jump_in_global_grain_trade_expected",
+      "parent_id": "breakwave_insights_insights_2025-05-22_2025_05_22_jump_in_global_grain_trade_expected__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed for clients in Commodore Research's most recent Weekly Executive Report, the United States Department of Agriculture has released its initial forecast for the upcoming 2025/26 grain trade season and is predicting that global coarse grain, wheat, soybean, and soymeal exports will collectively total a very impressive 720.2 million tons. This would mark a year-on-year increase of 26.9 million tons (4%) from the 693.4 million tons expected for the current 2024/25 season.",
+      "keywords": [
+        "brazil",
+        "grain",
+        "million",
+        "coarse",
+        "expected",
+        "year-on-year",
+        "exports",
+        "tons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 357,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-22_2025_05_22_jump_in_global_grain_trade_expected__s02_linked_asset_2025_05_22_jump_in_global_grain_trade_expected_img_chart_cf4e00172be7_jpg",
+      "doc_id": "breakwave_insights_insights_2025-05-22_2025_05_22_jump_in_global_grain_trade_expected",
+      "parent_id": "breakwave_insights_insights_2025-05-22_2025_05_22_jump_in_global_grain_trade_expected__root",
+      "title": "Linked asset: 2025-05-22_jump-in-global-grain-trade-expected_img_chart_cf4e00172be7.jpg",
+      "section_path": [
+        "Linked asset: 2025-05-22_jump-in-global-grain-trade-expected_img_chart_cf4e00172be7.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-05-22_jump-in-global-grain-trade-expected_img_chart_cf4e00172be7.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-22_jump-in-global-grain-trade-expected_img_chart_cf4e00172be7.jpg\n\nLinked image asset: 2025-05-22_jump-in-global-grain-trade-expected_img_chart_cf4e00172be7.jpg\n\nImage metadata: JPEG 598x186 mode=RGB\n\nOCR text:\nGlobal Coarse Grain Exports (including corn)\nWorld USA | Argentina | Brazil Ukraine\n2024/25 (est) 226.7mt 68.8mt 39.9mt 43.2mt 24.5mt\n2025/26 (pro)) | ee | 74.4mt 41.7mt 43.1mt 27.6mt",
+      "keywords": [
+        "brazil",
+        "grain",
+        "asset",
+        "image",
+        "argentina",
+        "coarse",
+        "corn",
+        "est"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

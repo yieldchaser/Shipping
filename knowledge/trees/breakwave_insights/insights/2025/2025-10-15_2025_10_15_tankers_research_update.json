@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-10-15_2025_10_15_tankers_research_update__root",
+  "doc_id": "breakwave_insights_insights_2025-10-15_2025_10_15_tankers_research_update",
+  "parent_id": null,
+  "title": "Tankers Research Update",
+  "section_path": [
+    "Tankers Research Update"
+  ],
+  "section_path_text": "Tankers Research Update",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nHow small do Chinese-built tankers have to be to avoid port fees when discharging in US ports? Yesterday pointed out that China-built tankers under 80,000 DWT would be exempt from USTR fees, assuming they were not Chinese-owned or operated. While there is no ambiguity that this exemption applies to vessels under 55,000 DWT, we should have mentioned that some ambiguity remains for vessels between 55,000 and 80,000 DWT.",
+  "keywords": [
+    "container",
+    "china",
+    "japan",
+    "coal",
+    "grain",
+    "crude_oil",
+    "fees",
+    "chinese",
+    "vessels",
+    "port",
+    "dwt",
+    "ustr"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1341,
+  "source_path": "reports/breakwave/2025/2025-10-15_tankers-research-update.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/10/15/tankers-research-update",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-10-15_2025_10_15_tankers_research_update__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-10-15_2025_10_15_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-10-15_2025_10_15_tankers_research_update__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "How small do Chinese-built tankers have to be to avoid port fees when discharging in US ports? Yesterday pointed out that China-built tankers under 80,000 DWT would be exempt from USTR fees, assuming they were not Chinese-owned or operated.",
+      "keywords": [
+        "container",
+        "china",
+        "coal",
+        "grain",
+        "crude_oil",
+        "vessels",
+        "dwt",
+        "fees"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1000,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-10-15_2025_10_15_tankers_research_update__s02_linked_asset_2025_10_15_tankers_research_update_img_f1bc_image_0_1760462163275_9a30b0b624fb_png",
+      "doc_id": "breakwave_insights_insights_2025-10-15_2025_10_15_tankers_research_update",
+      "parent_id": "breakwave_insights_insights_2025-10-15_2025_10_15_tankers_research_update__root",
+      "title": "Linked asset: 2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png",
+      "section_path": [
+        "Linked asset: 2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png"
+      ],
+      "section_path_text": "Linked asset: 2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png\n\nLinked image asset: 2025-10-15_tankers-research-update_img_f1bc-image-0-1760462163275_9a30b0b624fb.png\n\nImage metadata: PNG 940x414 mode=RGBA\n\nEmbedded info:\ndpi: (149.987, 149.987)\n\nOCR text:\n>=75% USA >=25% USA (CHINESE OWNED/OPERATED/FINANCE | NON-USA, NON-\nOWNERSHIP OWNERSHIP/OPERATED LEASED ‘CHINESE\nCHINESE CHINESE\nvessereuit USTR port ustrrees! USTR port\nFEES' H PORT FEES: FEES' uy\nFEES' FEES'\nCHINESE 0 0 $18/NT i) $50/NT 0 $18/NT 0\nJAPANESE or\nKOREAN 0 $56/NT 0 $56/NT $50/NT i) 0 0\nOTHER 0 $56/NT 0 $56/NT $50/NT i) 0 i)",
+      "keywords": [
+        "china",
+        "japan",
+        "chinese",
+        "fees",
+        "port",
+        "asset",
+        "image",
+        "usa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 299,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

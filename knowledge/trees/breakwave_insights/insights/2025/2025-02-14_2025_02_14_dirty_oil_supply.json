@@ -1,0 +1,342 @@
+{
+  "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+  "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+  "parent_id": null,
+  "title": "Dirty Oil Supply",
+  "section_path": [
+    "Dirty Oil Supply"
+  ],
+  "section_path_text": "Dirty Oil Supply",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 07, February 14, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-02-14 162722.png | assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305.png\nBy early 2025, net supply has declined significantly from the peaks seen in 2023 and early 2024, reinforcing the inverse correlation between supply levels and TD3 rates. The sharp drop in net supply has driven a notable spike in TD3 rates, validating the fundamental supply-demand pricing mechanism in the VLCC market. A major supply peak in mid-2023 (~180 vessels) led to subdued TD3 rates, but recent volatility in Baltic TD3 rates suggests a strengthening trend, particularly if crude oil demand remains resilient.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "us_gulf"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5688,
+  "source_path": "reports/breakwave/2025/2025-02-14_dirty-oil-supply.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/2/14/dirty-oil-supply",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 07, February 14, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-02-14 162722.png | assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305.png\nBy early 2025, net supply has declined significantly from the peaks seen in 2023 and early 2024, reinforcing the inverse correlation between supply levels and TD3 rates. The sharp drop in net supply has driven a notable spike in TD3 rates, validating the fundamental supply-demand pricing mechanism in the VLCC market.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "meg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1928,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s02_linked_asset_2025_02_14_dirty_oil_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305_png",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305.png",
+      "section_path": [
+        "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305.png\n\nLinked image asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9c204625f305.png\n\nImage metadata: PNG 652x284 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChart of the Week: Dirty Oil Supply\nThis week's focus centers on the evolution of VLCC Net Supply versus Baltic rates\n4 | |\nA \\ if | i rH Lalobh\n?. 1 } Mill t\nPedals Ma owt Pa batlabd etal\nPEAR Rah lA td Aa: GV hii\nAARC TIN eee i a ea th\nLUMI en MMU f NIH Y\nSIGN&L",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "asset",
+        "image",
+        "supply",
+        "aarc",
+        "batlabd",
+        "centers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 228,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s03_linked_asset_2025_02_14_dirty_oil_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e954e8aa0a0_png",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e954e8aa0a0.png",
+      "section_path": [
+        "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e954e8aa0a0.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e954e8aa0a0.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e954e8aa0a0.png\n\nLinked image asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4e954e8aa0a0.png\n\nImage metadata: PNG 648x506 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMarket Rates (WS)\n‘Dirty' WS - Mixed\nVLCC - Suezmax - Aframax\nWeekly Trends, WS Dirty Rates\nGB VLCC MEG/China @ Suez WAfr to Cont @ Suez Baltic Med i Afra Med\n250\n200\ny\n= 150\na\n100\n$e eG\n0\nLad a> a ~m w\" Lat a al m w Lied a band iu el] Land ial bad pul wo nd a a a mo we\nSEZSSERSSREBESBRERCRKRERERHRER EPS PESCRERLEE\nse FSEBESFSEBPBPBESESsSEsEesEsEesSERESESESEsSESsSERRASG\n© ®§ SS SSSBESBSBESRBERBESEEEBEESEESEEEBSESEHKRRA\nN N N Nn N N N N N N N N N N N N N N N N N",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "crude_oil",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 351,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s04_linked_asset_2025_02_14_dirty_oil_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4_png",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4.png",
+      "section_path": [
+        "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4.png\n\nLinked image asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0a43af95d2b4.png\n\nImage metadata: PNG 657x423 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Product' WS\nLR2 Weaker\nWeekly Trends Clean LR2\n300\n250\n2\n= 200\ni]\n=\ng 350\n=\n100\n50\ni)\nES ANRREARBAKRKRERHAHRBEBERRESRE BLE\nFF SEEESESSSSSEES S323 35535355 5 5 =F\nnn Ss SS Ss ZS FS +S Ss SsSsXteses#sssxst sts #¥s Ss FS FS FSF TF FINN NS AN\nsooUO NN KH NKREONHREOUNRlCUNRUCUNRCUCUNRCUNRCUCUNRCUrNULCUrNCUAN OO NOCUNWNRCUrNNCUNNONCUNDCUCGOClCUCUCSBNDCUCBlUCUCOS\nNn fS& &SeseseeeseseeseeseeseeseesseseeseeseeseeseeeenNnN Aas\nFERSRRRRKERKRRKEKKKRKRKRKEKRB",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "lr2",
+        "aas",
+        "anrrearbakrkrerhahrbeberresre",
+        "ble",
+        "clean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 365,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s05_linked_asset_2025_02_14_dirty_oil_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b_png",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png",
+      "section_path": [
+        "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png\n\nLinked image asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png\n\nImage metadata: PNG 657x373 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nLR1 Weaker\nWeekly Trends Clean Panamax\n600\n500\ng\n> 400\n£\n2\n& 300\n2\n200\n100\n0\nTOnuomenonmeraeanrnemvne one mon oananmeoen\nSS SSSESSESSSSSLSSISSSSSESSSSEFR RRB\nSS sss SF te te etr teeter eee terete eee tee A\neo nu w weNeNeNeNedeHeaessssgaegeubéj«w BeBe He Be Hee Ye ee' sk Fs gs\n\"SN SRRRRRKRRRRKRKRKRRRKRKRKRRRKRNNN SN",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "asset",
+        "eee",
+        "image",
+        "bebe",
+        "clean",
+        "dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d989943aaf4b.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 279,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s06_linked_asset_2025_02_14_dirty_oil_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636_png",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636.png",
+      "section_path": [
+        "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636.png\n\nLinked image asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_346a036c9636.png\n\nImage metadata: PNG 660x560 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nMR Weaker\nWeekly Trends Clean MR\nHH MR1 Baltic/UKC I MR2 Cont/USAC Mi MR2 USG/Cont\n400\n300\ng\n& 200\n100\n0\n400\n300\n0 YA\n100\n0\nSPO MYRSASRAERARRRRESEESAHEES\nSsegcepgdggaagsagess mmm Mm sss Fs 85882828282\neet BBs SE3 332 333333 S333 3 33 75,5R BD\nNa ftFrtewrwerereststeresrselmUMrmCUCUMrlCUCPTrlCUCUcPrlhCUcPrlCUcCrlCUcrrlCUcUPrlCUcCrlhCUPrlCUCUPrlCUCUMTCUN ON NN\ncon NNNNNHNANKNRENEANEeReeNREOROIR ONC IR CUcINRCUcUNDCUNNR CO NCUcUOUOUCOUCSCCUCS\nS\"\"SRRRRRRRRRKRRRRRTRRRRRRVNSNSN",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "clean",
+        "image",
+        "mr2",
+        "baltic/ukc",
+        "bbs",
+        "con"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 382,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s07_linked_asset_2025_02_14_dirty_oil_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_076e37494c47_png",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_076e37494c47.png",
+      "section_path": [
+        "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_076e37494c47.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_076e37494c47.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_076e37494c47.png\n\nLinked image asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_076e37494c47.png\n\nImage metadata: PNG 651x575 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Dirty' (# vessels) - Decreasing\ng\n@ 100\né\ng 80 |Average\ngS OF NY PSST Oa == SS _\n>\n5\n¢ 80 : p\n= yer ;\n= 6p Average. Wo ot nn nnn nf nnn pe nnn nn\ny\n8 :\n40\n20\ng\n£ 10 AGG IGe ae SS --f--\\------ Pree - = - = - =~ ---\n& PEAY no\ntr)\n50\ng\n= 40\nB Auphaoe\\ IN_A /\\\n<\n20\nng oD bal ~m » 5 a = m y Ld a = ~ » Ld oa had ~\" al Lind a> bend = ™m w S\nSSS 533 53 SSE33 33 8333533533 5 = FF\nvv = s < zs ss < = <= = < cs =< << < A << < A s+ < wy vy f&\neso 8 N Nn uN xv YN sw wv gy xv N xn ws na 8 xn YN x a a oso ¢s\nNN oc cs co o cS o oc co os oc oc co oc os o cs So o i=} So o N N N N\nSRRRSRKRKRRKRKRRKRRKCRKRKEKCRKKRKRKRKRKKR",
+      "keywords": [
+        "crude_oil",
+        "nnn",
+        "asset",
+        "image",
+        "agg",
+        "auphaoe",
+        "average",
+        "average."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 431,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s08_linked_asset_2025_02_14_dirty_oil_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0873f1e2dc_png",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0873f1e2dc.png",
+      "section_path": [
+        "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0873f1e2dc.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0873f1e2dc.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0873f1e2dc.png\n\nLinked image asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1f0873f1e2dc.png\n\nImage metadata: PNG 648x413 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nLR2 (#vessels) - Increasing\n30\n25\n20\n2\nx\n315\nAverage A [| [\\ A\na Ld Y\n5\nS$BERSSERSSRRKAERRERSBSERES LESSEE SE\nSSESE2222 2222222222 22222C28GC RRR\new-naou ss Ss Ss Ss Ss Ss Ss Ss Ss SF Feseesesetessststst Ss Fs Bey gv\nSxsesssessgpggpgpgsgsspspespesesespesspstgS8Sss88Bisg8°8\nSSRSRSRERRKSSRTRKRLRERERKRLRLRSERRNN ANS",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "ans",
+        "average",
+        "bersserssrrkaerrersbseres",
+        "bey",
+        "c28gc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 299,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s09_linked_asset_2025_02_14_dirty_oil_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe5cea639903_png",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe5cea639903.png",
+      "section_path": [
+        "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe5cea639903.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe5cea639903.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe5cea639903.png\n\nLinked image asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fe5cea639903.png\n\nImage metadata: PNG 656x399 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMR (#vessels) - Mixed\n3\n% averag [\\ CN [\\ AVA we\n30\n= VY | L/ \\ /\n20\n60\n[YAS\nz -4\n40 AS a a ---~7 -\nE Average a SL\n2 20\nSeah BRAS REHSRRRRRRER EES RHEE\nEs SSSRESBSERRA bul no Mm =esstseFrHetersesesesess\nS522 223232 2323232323232 33 332 3233 23232327,7R FG\nSSRRSRSRSTRTRSRRSRSPPRSSRERRRPRTRSSSS\nB® Ss SSSSBSBSBSBESSSEBESEBESEBESBESEBEEBESEBESEBEEBEEEBERKEAKRKRB\nNNN NN NNONONCOCUNCOCUNCUCUNCUCUNCUCUCUNCUCUCNCUCUCUNONCUCUNCUCUN UN UN",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "ava",
+        "averag",
+        "average",
+        "bras",
+        "bul"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 341,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s10_linked_asset_2025_02_14_dirty_oil_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0eefbb58e1a_png",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0eefbb58e1a.png",
+      "section_path": [
+        "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0eefbb58e1a.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0eefbb58e1a.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0eefbb58e1a.png\n\nLinked image asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c0eefbb58e1a.png\n\nImage metadata: PNG 651x504 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND (Tonne Days)\n‘Dirty' Mixed\nDirty Tonne Days - % Growth\n100%\nwv mverage\n3 95%\n90%\n110%\nJ 100%\n90%\n105%\nges\nAverage\n= 95% =\n90%\nsm enadgerern -\" emer oepeeread &\nSPSS ESSS SS SL ES SSL ETS ES EEE EE\nSS SS SRSRRRRRRRERRRRRRRRRKRSESSS\n\"\"* FSRKRKRKRRKERKRKERKKKKKKKEKKKEKKKEKNKNN",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "days",
+        "dirty",
+        "image",
+        "tonne",
+        "average",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 263,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__s11_linked_asset_2025_02_14_dirty_oil_supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69_png",
+      "doc_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply",
+      "parent_id": "breakwave_insights_insights_2025-02-14_2025_02_14_dirty_oil_supply__root",
+      "title": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69.png",
+      "section_path": [
+        "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69.png"
+      ],
+      "section_path_text": "Linked asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69.png\n\nLinked image asset: 2025-02-14_dirty-oil-supply_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d4c51b2b2f69.png\n\nImage metadata: PNG 661x474 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘ 3 i\nClean' Decreasing\n120%\né\n2\nJ 200% erage OR\ng\ns\n2\nE 80%\né\n§ soon\n3 Prevage Nf Ne OG ee ae we\n5\n&\n2\n= 100%\n110%\n$\n3 105%\nSo\ne\n@ 100% vergge\nS 95%\ns@anmensagsgespegunaesnpeureseunuauaes\nSSHERARASRRERERBRBEBTRSRPESHEEESE\nS522 223223232222 2C2C80C232 SBEBBBEBEBEZE RBG\na\nses N XN x XN y XN y XN x XN x yy XN y XN gy XN x XN x yy J Ss J Ss\nSk SS SS RSSRESRSRSSSSSSSSESSRRER\nRRERERRRERRERRERRER RRR RRR ER",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "rrr",
+        "anmensagsgespegunaesnpeureseunuauaes",
+        "c2c80c232",
+        "clean",
+        "decreasing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 347,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

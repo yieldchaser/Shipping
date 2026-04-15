@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity__root",
+  "doc_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity",
+  "parent_id": null,
+  "title": "High-risk VLCCs drive Russian crude STS activity",
+  "section_path": [
+    "High-risk VLCCs drive Russian crude STS activity"
+  ],
+  "section_path_text": "High-risk VLCCs drive Russian crude STS activity",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis insight discusses the increase in Russian crude STS activity driven by VLCCs and delves into the fleet profiles. By Armen Azizian\nRussian crude STS activity (excluding CPC Blend & KEBCO) reached 310kbd in April (days 1-15), a 120kbd increase m-o-m and a 10-month high. Russian Urals is the sole grade transferred via STS in April so far, which has reached a 12-month high.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "aframax",
+    "china",
+    "india",
+    "singapore",
+    "sts",
+    "russian",
+    "vlccs",
+    "crude",
+    "via",
+    "tankers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1449,
+  "source_path": "reports/breakwave/2024/2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/4/17/high-risk-vlccs-drive-russian-crude-sts-activity",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity",
+      "parent_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This insight discusses the increase in Russian crude STS activity driven by VLCCs and delves into the fleet profiles. By Armen Azizian\nRussian crude STS activity (excluding CPC Blend & KEBCO) reached 310kbd in April (days 1-15), a 120kbd increase m-o-m and a 10-month high.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "china",
+        "india",
+        "singapore",
+        "sts",
+        "russian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 923,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity__s02_linked_asset_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity_img_vortexa1704_1c91e356218a_png",
+      "doc_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity",
+      "parent_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity__root",
+      "title": "Linked asset: 2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa1704_1c91e356218a.png",
+      "section_path": [
+        "Linked asset: 2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa1704_1c91e356218a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa1704_1c91e356218a.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa1704_1c91e356218a.png\n\nLinked image asset: 2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa1704_1c91e356218a.png\n\nImage metadata: PNG 983x721 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\n700 Russian crude exports 40\nexcludes CPC Blend & KEBCO\n600 | 3.5\n| 3.0\n500\n2.5\n400\n2.0\n300\n1.5\n200\n| | ul 1.0\n\"00 | | i | 0.5\n0) 0.0\nJan-21 Jul-21 Jan-22 Jul-22 Jan-23 Jul-23 Jan-24\nUrals ga Soko! (Sakhalin |)\nmame ESPO blend Other grades\nRussian crude exports (RHS)\nRussian crude STS transfers by grade & transfer month (kbd, LHS) vs Russian seaborne crude exports (mbd, RHS),",
+      "keywords": [
+        "vlcc",
+        "crude",
+        "russian",
+        "exports",
+        "asset",
+        "blend",
+        "image",
+        "rhs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 277,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity__s03_linked_asset_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity_img_vortexa217apr_16da575ec548_png",
+      "doc_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity",
+      "parent_id": "breakwave_insights_insights_2024-04-19_2024_04_19_high_risk_vlccs_drive_russian_crude_sts_activity__root",
+      "title": "Linked asset: 2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa217apr_16da575ec548.png",
+      "section_path": [
+        "Linked asset: 2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa217apr_16da575ec548.png"
+      ],
+      "section_path_text": "Linked asset: 2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa217apr_16da575ec548.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa217apr_16da575ec548.png\n\nLinked image asset: 2024-04-19_high-risk-vlccs-drive-russian-crude-sts-activity_img_vortexa217apr_16da575ec548.png\n\nImage metadata: PNG 958x592 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nYe &\n. a\nv\nNine VLCCs loaded Russian crude via STS in 2024, ANTHEA is the sanctioned tanker (circled red) (Vortexa map screen as of 16th April)",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "anthea",
+        "april",
+        "circled",
+        "crude",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 166,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

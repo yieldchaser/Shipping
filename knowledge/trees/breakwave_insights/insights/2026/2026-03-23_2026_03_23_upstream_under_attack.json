@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack__root",
+  "doc_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack",
+  "parent_id": null,
+  "title": "Upstream Under Attack",
+  "section_path": [
+    "Upstream Under Attack"
+  ],
+  "section_path_text": "Upstream Under Attack",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-03-23_upstream-under-attack_img_crude-tanker-500x333_14f2d449cf38.jpg\nThe past few days have seen the conflict extend beyond chokepoint disruption into direct strikes on production and refining infrastructure across the Gulf. Following Israel's attack on Iran's South Pars gas field on Wednesday, Iran retaliated with drone and missile strikes on energy facilities in Qatar, the UAE, Saudi Arabia, and Kuwait. Qatar's Ras Laffan industrial complex was targeted, and Abu Dhabi's Habshan gas facility and Bab oil field were shut down.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "europe",
+    "us_gulf",
+    "japan",
+    "crude_oil",
+    "products",
+    "gas",
+    "crude",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1777,
+  "source_path": "reports/breakwave/2026/2026-03-23_upstream-under-attack.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/3/22/upstream-under-attack",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack",
+      "parent_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-03-23_upstream-under-attack_img_crude-tanker-500x333_14f2d449cf38.jpg\nThe past few days have seen the conflict extend beyond chokepoint disruption into direct strikes on production and refining infrastructure across the Gulf. Following Israel's attack on Iran's South Pars gas field on Wednesday, Iran retaliated with drone and missile strikes on energy facilities in Qatar, the UAE, Saudi Arabia, and Kuwait.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "europe",
+        "us_gulf",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1202,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack__s02_linked_asset_2026_03_23_upstream_under_attack_img_crude_tanker_500x333_14f2d449cf38_jpg",
+      "doc_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack",
+      "parent_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack__root",
+      "title": "Linked asset: 2026-03-23_upstream-under-attack_img_crude-tanker-500x333_14f2d449cf38.jpg",
+      "section_path": [
+        "Linked asset: 2026-03-23_upstream-under-attack_img_crude-tanker-500x333_14f2d449cf38.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-23_upstream-under-attack_img_crude-tanker-500x333_14f2d449cf38.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-23_upstream-under-attack_img_crude-tanker-500x333_14f2d449cf38.jpg\n\nLinked image asset: 2026-03-23_upstream-under-attack_img_crude-tanker-500x333_14f2d449cf38.jpg\n\nImage metadata: JPEG 500x333 mode=RGB\n\n[No OCR text detected in linked image.]",
+      "keywords": [
+        "asset",
+        "image",
+        "linked",
+        "detected",
+        "image.",
+        "jpeg",
+        "metadata",
+        "mode"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 98,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack__s03_linked_asset_2026_03_23_upstream_under_attack_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c38245b8a19_png",
+      "doc_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack",
+      "parent_id": "breakwave_insights_insights_2026-03-23_2026_03_23_upstream_under_attack__root",
+      "title": "Linked asset: 2026-03-23_upstream-under-attack_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c38245b8a19.png",
+      "section_path": [
+        "Linked asset: 2026-03-23_upstream-under-attack_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c38245b8a19.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-23_upstream-under-attack_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c38245b8a19.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-23_upstream-under-attack_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c38245b8a19.png\n\nLinked image asset: 2026-03-23_upstream-under-attack_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c38245b8a19.png\n\nImage metadata: PNG 1479x566 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nVLCC and LR2 TCEs ($/day)\n(4) se [5 Te1\n700.000\n600.000 9\n500.000 -\n400.000 PP\n300.000 °\n200.000 &\nGay, aR \" on rum fh\n100.000 Ge og oe go %& = b Reg\nor oo a gr | ew as _ fi Ps\n° < Sa\n2 2 2 OO 2 2 0 2 2 Oo 2 oO oO OD MO oO OD A AD MO OO OD A OO OD OO O_O WO OO OO OO © © © © © © © ©\nPMP PM MM IM MM MMM MM MM Mh MM MM MM MMM VM aM oh ch hh MM MM VM VM VM oh VV OM\nAF BH PH Gh GM MH Sh MH MH Wh WH AM AM Gh SM SHS Gh Gh Gh Mh MY SS SK SSS SS II SS SI I I SS\nFSFE GLEE EF FSFE EE EE EE EFF EE ECE EEE EEF FFL LE EE ELIE FS S$\nLPM P MPP MPS MPM MPH SPP MPM MPM OPO SP POOP PS OSS HK OPS",
+      "keywords": [
+        "vlcc",
+        "mpm",
+        "asset",
+        "fsfe",
+        "image",
+        "mmm",
+        "day",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 393,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

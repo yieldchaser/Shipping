@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-12-08_2025_12_08_resilience_of_global_economy__root",
+  "doc_id": "breakwave_insights_insights_2025-12-08_2025_12_08_resilience_of_global_economy",
+  "parent_id": null,
+  "title": "Resilience of global economy",
+  "section_path": [
+    "Resilience of global economy"
+  ],
+  "section_path_text": "Resilience of global economy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nThe global economy has once again demonstrated an impressive degree of resilience, continuing a trend first signalled by the OECD around this time last year. Back then, the organisation highlighted that easing inflationary pressures and a steady, if uneven, recovery across major regions were underpinning moderate global growth. The outlook at the time projected global GDP to rise by 3.2 percent in 2024 and 3.3 percent in both 2025 and 2026.",
+  "keywords": [
+    "capesize",
+    "china",
+    "brazil",
+    "australia",
+    "meg",
+    "india",
+    "percent",
+    "growth",
+    "global",
+    "trade",
+    "expected",
+    "investment"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1901,
+  "source_path": "reports/breakwave/2025/2025-12-08_resilience-of-global-economy.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/12/7/resilience-of-global-economy",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-12-08_2025_12_08_resilience_of_global_economy__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-12-08_2025_12_08_resilience_of_global_economy",
+      "parent_id": "breakwave_insights_insights_2025-12-08_2025_12_08_resilience_of_global_economy__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nThe global economy has once again demonstrated an impressive degree of resilience, continuing a trend first signalled by the OECD around this time last year. Back then, the organisation highlighted that easing inflationary pressures and a steady, if uneven, recovery across major regions were underpinning moderate global growth.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "australia",
+        "meg",
+        "india",
+        "percent",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1471,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-08_2025_12_08_resilience_of_global_economy__s02_linked_asset_2025_12_08_resilience_of_global_economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe_png",
+      "doc_id": "breakwave_insights_insights_2025-12-08_2025_12_08_resilience_of_global_economy",
+      "parent_id": "breakwave_insights_insights_2025-12-08_2025_12_08_resilience_of_global_economy__root",
+      "title": "Linked asset: 2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png",
+      "section_path": [
+        "Linked asset: 2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png"
+      ],
+      "section_path_text": "Linked asset: 2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png\n\nLinked image asset: 2025-12-08_resilience-of-global-economy_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_476d3ec70fbe.png\n\nImage metadata: PNG 659x295 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n2025 2026 2027\nbh 7. TT 2; on\n5.0% LT 5.0% aa\nnT 5.5% LL ax\nAgents A 42% 2s Bd\ni, 7.9% NT 4.0% a9\nVi, 26% 1% ane\n620 EN 3% 29% ane\nrac 24 1.7% 22%\nUnited States A 2.0% et -\nActas 1% 23% 23%\nOx fm bid 13%\nJopan MN 13% ums 008s on\nSouth Africa M1.",
+      "keywords": [
+        "ane",
+        "asset",
+        "image",
+        "actas",
+        "africa",
+        "agents",
+        "benseedl",
+        "bid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 380,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

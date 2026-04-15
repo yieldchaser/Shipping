@@ -1,0 +1,370 @@
+{
+  "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+  "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+  "parent_id": null,
+  "title": "Dirty Oil Flows Shift",
+  "section_path": [
+    "Dirty Oil Flows Shift"
+  ],
+  "section_path_text": "Dirty Oil Flows Shift",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 22, 30 May, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-05-30 160048.png | assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074.png\nEurope witnessed a 10% increase in crude oil imports in May 2025, likely due to refineries completing maintenance ahead of schedule, boosting crude demand. This period also saw a notable change in import origins, with a decrease in volumes from the United States. Crude imports from West Africa, especially Nigeria, are estimated to have surged by 70%.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5514,
+  "source_path": "reports/breakwave/2025/2025-05-30_dirty-oil-flows-shift.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/5/30/dirty-oil-flows-shift",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker - Weekly Market Monitor\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 22, 30 May, 2025\nImage reference: Στιγμιότυπο οθόνης 2025-05-30 160048.png | assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074.png\nEurope witnessed a 10% increase in crude oil imports in May 2025, likely due to refineries completing maintenance ahead of schedule, boosting crude demand. This period also saw a notable change in import origins, with a decrease in volumes from the United States.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2358,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s02_linked_asset_2025_05_30_dirty_oil_flows_shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_6b70c2167074.png\n\nImage metadata: PNG 581x453 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChart of the Week:\nDirty Oil Flows Shift - West African Barrels Flooding Europe\nOil Flows\n. , ° \"ZZ =<\n: | | | l | | | | - = :\n- | | | (=!",
+      "keywords": [
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "asset",
+        "flows",
+        "image",
+        "oil",
+        "african"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 210,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s03_linked_asset_2025_05_30_dirty_oil_flows_shift_img_unnamed_61e13e36c6a5_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_unnamed_61e13e36c6a5.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_unnamed_61e13e36c6a5.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_unnamed_61e13e36c6a5.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_unnamed_61e13e36c6a5.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_unnamed_61e13e36c6a5.png\n\nImage metadata: PNG 744x717 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nSupply Trend Analysis\nVessel Count v Daily . Sanctioned\nFi\nSB 400\n3 : :\n00 :\n200\n90\n2022 2023 -- 2024 - 2025\nVessel Count Metrics Live View\nNe, E\noe os) t @ we\n-1.4% Vogl 3° (ge ~~ |\n.",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "count",
+        "image",
+        "vessel",
+        "analysis",
+        "ane",
+        "caren"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 313,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s04_linked_asset_2025_05_30_dirty_oil_flows_shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdd5d91d47c_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdd5d91d47c.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdd5d91d47c.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdd5d91d47c.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdd5d91d47c.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_acdd5d91d47c.png\n\nImage metadata: PNG 577x457 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 1/ FREIGHT\nMarket Rates (WS)\n‘Dirty' WS - Weaker\nVLCC - Suezmax - Aframax\nWeekly Trends, WS Dirty Rates\n(Sigra Assessments)\nBB VLCC MEG/Chine Il Suez WAfrto Cont Wh Surz Boitic Med Wh Afra Mec\n280\nPiel\n8 ss0\ng\n100\ntie ie\nSSSPPPP PPP PPP PEEPS SES TS EEE EE\nS222 R28 FERRER R ERR 222 8 2828 2 Be\nR & S 8 & ® RF RF RF KR KR KR RR KR HR S 8 8 & RR RK",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "west_africa",
+        "crude_oil",
+        "asset",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 280,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s05_linked_asset_2025_05_30_dirty_oil_flows_shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d829c0544434_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d829c0544434.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d829c0544434.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d829c0544434.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d829c0544434.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d829c0544434.png\n\nImage metadata: PNG 581x390 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Product' WS\nLR2 Weaker\nWeekly Trends Clean LR2\n(Signal Assessments)\n250\nF200\na\n=\n100\n50\nSSSR RFF FF FRPP PPR RRR REE SS EB",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "lr2",
+        "assessments",
+        "clean",
+        "dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_d829c0544434.png",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 179,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s06_linked_asset_2025_05_30_dirty_oil_flows_shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66132994673b_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66132994673b.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66132994673b.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66132994673b.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66132994673b.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66132994673b.png\n\nImage metadata: PNG 588x338 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nLR1 Weaker\nWeekly Trends Panamax\n(Signal Assessments)\n600\n00\n% 400\n3\n@\n§ 300\n3\n200\n200\n:\nPEEEELE LLLP ELL SES PELE EEE EES\nZR ER BRR PPLE RRR E EEE EEG",
+      "keywords": [
+        "panamax",
+        "crude_oil",
+        "asset",
+        "eee",
+        "image",
+        "assessments",
+        "brr",
+        "dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_66132994673b.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 196,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s07_linked_asset_2025_05_30_dirty_oil_flows_shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_190bfb018d6e_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_190bfb018d6e.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_190bfb018d6e.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_190bfb018d6e.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_190bfb018d6e.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_190bfb018d6e.png\n\nImage metadata: PNG 582x493 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nMR Firmer\nWeekly Trends Clean MR\n(Signal Assessments)\nMei Baltic/UKC Ml MR2 Cont/USAC @ MR2 USG/Cont\n400\n300\n2\n% 200\n100\noO\n400\n300\nND INO\n100\n0\nnevevecronegvn2onegeuvuroeonnevao2oneeomon\nSSSSRSRSRRKRSEFSSSRESSSLSSSSPSSSESR\nSSS22222222 2222 225R5R RF BD FFSBEBSBZE\nBSSSSESESRSERSERESESERESSSSRSSRSRSRS\nRRERSRERRERRERRRRRERKRR RRERRRRE",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "clean",
+        "image",
+        "mr2",
+        "assessments",
+        "baltic/ukc",
+        "bssssesesrsersereseseressssrssrsrsrs"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 294,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s08_linked_asset_2025_05_30_dirty_oil_flows_shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e7893b186bf_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e7893b186bf.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e7893b186bf.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e7893b186bf.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e7893b186bf.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e7893b186bf.png\n\nImage metadata: PNG 586x510 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nin; . Dirty' (# vessels) - Mixed\ng\n¥ ico\né\nZ 80 Avergae, A -\\/\nZ 9\n3 - /\\~--\n5\nze 20 A\n8 100\n2\n= p\nws eo Average - ey ee =\nB ag .",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "average",
+        "eee",
+        "image",
+        "avergae",
+        "dirty",
+        "dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9e7893b186bf.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 339,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s09_linked_asset_2025_05_30_dirty_oil_flows_shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f535459c150_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f535459c150.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f535459c150.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f535459c150.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f535459c150.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4f535459c150.png\n\nImage metadata: PNG 592x372 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean'\nLR2 (#vessels) - Decreasing\n2\nSESSELESERLS PEPPER EERE EEE ES\nEEERER ERE EEE EERE EER RRR E ERE",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "eee",
+        "eere",
+        "ere",
+        "image",
+        "clean",
+        "decreasing"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 178,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s10_linked_asset_2025_05_30_dirty_oil_flows_shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3f24110d984_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3f24110d984.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3f24110d984.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3f24110d984.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3f24110d984.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3f24110d984.png\n\nImage metadata: PNG 587x355 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMR (#vessels) - Mixed\ni [\\J\\\n@ nde AS NAV pA ~ AX. 2° TVX] U Wy \\/ VV\n=\nale Ne ee\na 39 = BWI t~\n8 20\nSESRRRSRLPSRERS SRR eek eee E ES",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "ale",
+        "ax.",
+        "bwi",
+        "dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c3f24110d984.png",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s11_linked_asset_2025_05_30_dirty_oil_flows_shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e4f7a53a1f37_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e4f7a53a1f37.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e4f7a53a1f37.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e4f7a53a1f37.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e4f7a53a1f37.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e4f7a53a1f37.png\n\nImage metadata: PNG 586x435 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nSECTION 3/ DEMAND (Tonne Days)\n‘Dirty' Mixed\nDirty Tonne Days - % Growth\n109%\nSom Ae\na\n110%\ni Trerage\ni CS 2 a Aiea ite\na\nSESSSLESSSLE SSE ETTIZILESPIREESSSSLSSSS STILE LEST IEEE\nCLESEELCOLECOCCCOCCTECCOOCOSOOOOLALLLALLLSOLEO LEE E EL",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "days",
+        "dirty",
+        "image",
+        "tonne",
+        "aiea",
+        "cleseelcolecocccoccteccoocosoooolalllalllsoleo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 240,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__s12_linked_asset_2025_05_30_dirty_oil_flows_shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71077d264c92_png",
+      "doc_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift",
+      "parent_id": "breakwave_insights_insights_2025-05-30_2025_05_30_dirty_oil_flows_shift__root",
+      "title": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71077d264c92.png",
+      "section_path": [
+        "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71077d264c92.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71077d264c92.png",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71077d264c92.png\n\nLinked image asset: 2025-05-30_dirty-oil-flows-shift_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_71077d264c92.png\n\nImage metadata: PNG 587x425 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘Clean' Decreasing\n3 0 NTN fn\nE som\ngsr ee a oN\nam\n|\n§ tomy Aer ne A,\ng\nSELSLELISSIGLPSISPIIZILISIIIGTESSESSSSSS SISSIES IESEE\nARRRARRAR RA AARAARAR AAA RAGR AAR ARR R RRR RRA R RSA RAR R ASR",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "image",
+        "aaa",
+        "aar",
+        "aaraarar",
+        "aer",
+        "arr"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 220,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

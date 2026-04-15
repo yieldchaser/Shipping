@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-10-02_2025_10_02_jump_in_spot_thermal_coal_cargoes_to_be_shipped_to_china__root",
+  "doc_id": "breakwave_insights_insights_2025-10-02_2025_10_02_jump_in_spot_thermal_coal_cargoes_to_be_shipped_to_china",
+  "parent_id": null,
+  "title": "Jump in Spot Thermal Coal Cargoes To Be Shipped to China",
+  "section_path": [
+    "Jump in Spot Thermal Coal Cargoes To Be Shipped to China"
+  ],
+  "section_path_text": "Jump in Spot Thermal Coal Cargoes To Be Shipped to China",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report and Weekly Executive Report, the initial count of formally announced thermal coal cargoes to be shipped to Chinese buyers reported in the spot market last week came in at 15 cargoes. This is 9 more than were reported during the previous week, 5 more than the trailing four week average, and has marked the second largest amount reported all year. Image reference: Chart .jpg | assets/2025-10-02_jump-in-spot-thermal-coal-cargoes-to-be-shipped-to-china_img_chart_ddec206e6f91.jpg\nAs we have continued to stress in Commodore Research's weekly reports, a significant change began in China (and the dry bulk market) two months ago.",
+  "keywords": [
+    "china",
+    "coal",
+    "asset",
+    "image",
+    "reported",
+    "sep",
+    "aug",
+    "cargoes",
+    "commodore",
+    "continued",
+    "domestic",
+    "first"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 461,
+  "source_path": "reports/breakwave/2025/2025-10-02_jump-in-spot-thermal-coal-cargoes-to-be-shipped-to-china.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/10/2/jump-in-spot-thermal-coal-cargoes-to-be-shipped-to-china",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-10-02_2025_10_02_jump_in_spot_thermal_coal_cargoes_to_be_shipped_to_china__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-10-02_2025_10_02_jump_in_spot_thermal_coal_cargoes_to_be_shipped_to_china",
+      "parent_id": "breakwave_insights_insights_2025-10-02_2025_10_02_jump_in_spot_thermal_coal_cargoes_to_be_shipped_to_china__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report and Weekly Executive Report, the initial count of formally announced thermal coal cargoes to be shipped to Chinese buyers reported in the spot market last week came in at 15 cargoes. This is 9 more than were reported during the previous week, 5 more than the trailing four week average, and has marked the second largest amount reported all year.",
+      "keywords": [
+        "china",
+        "coal",
+        "reported",
+        "commodore",
+        "continued",
+        "domestic",
+        "first",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 247,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-10-02_2025_10_02_jump_in_spot_thermal_coal_cargoes_to_be_shipped_to_china__s02_linked_asset_2025_10_02_jump_in_spot_thermal_coal_cargoes_to_be_shipped_to_china_img_chart_ddec206e6f91_jpg",
+      "doc_id": "breakwave_insights_insights_2025-10-02_2025_10_02_jump_in_spot_thermal_coal_cargoes_to_be_shipped_to_china",
+      "parent_id": "breakwave_insights_insights_2025-10-02_2025_10_02_jump_in_spot_thermal_coal_cargoes_to_be_shipped_to_china__root",
+      "title": "Linked asset: 2025-10-02_jump-in-spot-thermal-coal-cargoes-to-be-shipped-to-china_img_chart_ddec206e6f91.jpg",
+      "section_path": [
+        "Linked asset: 2025-10-02_jump-in-spot-thermal-coal-cargoes-to-be-shipped-to-china_img_chart_ddec206e6f91.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-10-02_jump-in-spot-thermal-coal-cargoes-to-be-shipped-to-china_img_chart_ddec206e6f91.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-10-02_jump-in-spot-thermal-coal-cargoes-to-be-shipped-to-china_img_chart_ddec206e6f91.jpg\n\nLinked image asset: 2025-10-02_jump-in-spot-thermal-coal-cargoes-to-be-shipped-to-china_img_chart_ddec206e6f91.jpg\n\nImage metadata: JPEG 775x402 mode=RGB\n\nOCR text:\nSpot Thermal Coal Cargoes to be Shipped to China (Week Ending Jul 4 - Sep 26)\n18\n14\n10\n6\n2\nJul4é Jul11.-s Jul18 = Jul25) Aug = Aug8 = Aug 15 Aug22, Aug29.",
+      "keywords": [
+        "china",
+        "coal",
+        "sep",
+        "asset",
+        "aug",
+        "image",
+        "aug22",
+        "aug29."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

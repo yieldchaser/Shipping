@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo__root",
+  "doc_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Dry Bulk Report - April 15, 2025",
+  "section_path": [
+    "Breakwave Bi-Weekly Dry Bulk Report - April 15, 2025"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Dry Bulk Report - April 15, 2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Global Market Turmoil Sours Dry Bulk Sentiment - Following the recent tariff announcements by the U.S. administration and the resulting volatility in global markets, sentiment in the dry bulk sector has also been affected , leading to a softening in spot rates-most notably in the key Capesize segment. While dry bulk imports into the US accounts for less than 1% of the global market, the broader economic slowdown that may result from the new tariffs presents some downside risk for the sector.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2336,
+  "source_path": "reports/breakwave/2025/2025-04-15_2025154-dry544lo.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025154-dry544lo",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo",
+      "parent_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Global Market Turmoil Sours Dry Bulk Sentiment - Following the recent tariff announcements by the U.S. administration and the resulting volatility in global markets, sentiment in the dry bulk sector has also been affected , leading to a softening in spot rates-most notably in the key Capesize segment.",
+      "keywords": [
+        "capesize",
+        "china",
+        "crude_oil",
+        "steel",
+        "global",
+        "economic",
+        "trade",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 899,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo__s02_linked_asset_2025_04_15_2025154_dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9116eda0a29_png",
+      "doc_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo",
+      "parent_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo__root",
+      "title": "Linked asset: 2025-04-15_2025154-dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9116eda0a29.png",
+      "section_path": [
+        "Linked asset: 2025-04-15_2025154-dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9116eda0a29.png"
+      ],
+      "section_path_text": "Linked asset: 2025-04-15_2025154-dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9116eda0a29.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-15_2025154-dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9116eda0a29.png\n\nLinked image asset: 2025-04-15_2025154-dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c9116eda0a29.png\n\nImage metadata: PNG 278x615 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nShort-term Indicators\nMomentum: Negative\nSentiment: Neutral\nFundamentals: Neutral\nBreakwave Dry 1619\nFutures Index:\n30D: 2.5% t\nYTD: 59.6% t\nYOY: -25.3% Vv\nBaltic Dry Index 1598\n(spot):\n30D: 30.0% ay\nYTD: 60.3% t\nYOY: -12.2% v\nReuters: BDRY.K\nBloomberg: BDRY US\nExchange: NYSE\nBreakwave Advisors Research\nresearch@breakwaveadvisors.com",
+      "keywords": [
+        "asset",
+        "image",
+        "neutral",
+        "research",
+        "yoy",
+        "ytd",
+        "bdry",
+        "bdry.k"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 274,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo__s03_linked_asset_2025_04_15_2025154_dry544lo_img_25ce25a325cf258425ce25b925ce25b325ce_2df59aae2507_jpg",
+      "doc_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo",
+      "parent_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo__root",
+      "title": "Linked asset: 2025-04-15_2025154-dry544lo_img_25ce25a325cf258425ce25b925ce25b325ce_2df59aae2507.jpg",
+      "section_path": [
+        "Linked asset: 2025-04-15_2025154-dry544lo_img_25ce25a325cf258425ce25b925ce25b325ce_2df59aae2507.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-04-15_2025154-dry544lo_img_25ce25a325cf258425ce25b925ce25b325ce_2df59aae2507.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-15_2025154-dry544lo_img_25ce25a325cf258425ce25b925ce25b325ce_2df59aae2507.jpg\n\nLinked image asset: 2025-04-15_2025154-dry544lo_img_25ce25a325cf258425ce25b925ce25b325ce_2df59aae2507.jpg\n\nImage metadata: JPEG 934x560 mode=RGB\n\nOCR text:\n/© BREAKWAVE\nADVISORS\nBaltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF)\n2500\n2000\n1500\n1000\n500\nj -BDIV (spot) --= BDRYFF (futures)\nMay-24 Jun-24 Jul-24 Aug-24 Sep-24 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25\n‘The Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax. ‘The Breakwave Dry Futures index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%\n‘Supramax and a weighted average maturity of approximately 50-70 days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "bdryff",
+        "asset",
+        "average",
+        "image",
+        "sector"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 316,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo__s04_linked_asset_2025_04_15_2025154_dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b0491cd664e_png",
+      "doc_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo",
+      "parent_id": "breakwave_insights_insights_2025-04-15_2025_04_15_2025154_dry544lo__root",
+      "title": "Linked asset: 2025-04-15_2025154-dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b0491cd664e.png",
+      "section_path": [
+        "Linked asset: 2025-04-15_2025154-dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b0491cd664e.png"
+      ],
+      "section_path_text": "Linked asset: 2025-04-15_2025154-dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b0491cd664e.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-04-15_2025154-dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b0491cd664e.png\n\nLinked image asset: 2025-04-15_2025154-dry544lo_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3b0491cd664e.png\n\nImage metadata: PNG 933x754 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDemand YTD YOY\nChina Steel Production 166mt -0.99%\nChina Steel Inventories 5.8mt -21.92%\nChina Iron Ore Inventories 138mt -2.85%\nChina Iron Ore Imports 191mt -8.64%\nChina Coal Imports 76mt 2.15%\nChina Soybean Imports 14mt 4.37%\nBrazil iron Ore Exports | Somt \"1.89%\nAustralia Iron Ore Exports 127mt -4.81%\nSupply\nDry Bulk Fleet 1035 mdwt\nFreight Rates\nBaltic Dry Index, Average 1,156 -35.9%\nCapesize Spot Rates, Average 13,525 -43.0%\nPanamax Spot rates, Average 8,568 -39.2%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's internal use only. This report does not constitute and wil",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 700,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

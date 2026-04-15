@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-12-11_2025_12_11_this_is_a_feds_world_so_what_happens_if_markets_dont_like_the_next_chair__root",
+  "doc_id": "breakwave_insights_insights_2025-12-11_2025_12_11_this_is_a_feds_world_so_what_happens_if_markets_dont_like_the_next_chair",
+  "parent_id": null,
+  "title": "This is a Fed's world. So what happens if markets don't like the next Chair?",
+  "section_path": [
+    "This is a Fed's world. So what happens if markets don't like the next Chair?"
+  ],
+  "section_path_text": "This is a Fed's world. So what happens if markets don't like the next Chair?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe three things investors should know this week\nThe Fed is very likely to cut interest rates in December. However the finance world is more fixated on who Jerome Powell's likely successor is. Kevin Hasset's potential nomination has caused some stir in bond markets, as some traders fear that he could allow inflation to run higher.",
+  "keywords": [
+    "china",
+    "europe",
+    "crude_oil",
+    "fed",
+    "could",
+    "but",
+    "not",
+    "are",
+    "markets",
+    "would",
+    "chair",
+    "investors"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2271,
+  "source_path": "reports/breakwave/2025/2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/12/11/this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-12-11_2025_12_11_this_is_a_feds_world_so_what_happens_if_markets_dont_like_the_next_chair__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-12-11_2025_12_11_this_is_a_feds_world_so_what_happens_if_markets_dont_like_the_next_chair",
+      "parent_id": "breakwave_insights_insights_2025-12-11_2025_12_11_this_is_a_feds_world_so_what_happens_if_markets_dont_like_the_next_chair__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The three things investors should know this week\nThe Fed is very likely to cut interest rates in December. However the finance world is more fixated on who Jerome Powell's likely successor is.",
+      "keywords": [
+        "china",
+        "europe",
+        "crude_oil",
+        "fed",
+        "could",
+        "but",
+        "not",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2109,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-12-11_2025_12_11_this_is_a_feds_world_so_what_happens_if_markets_dont_like_the_next_chair__s02_linked_asset_2025_12_11_this_is_a_feds_world_so_what_happens_if_markets_dont_like_the_next_chair_img_image002_d122eff73f61_jpg",
+      "doc_id": "breakwave_insights_insights_2025-12-11_2025_12_11_this_is_a_feds_world_so_what_happens_if_markets_dont_like_the_next_chair",
+      "parent_id": "breakwave_insights_insights_2025-12-11_2025_12_11_this_is_a_feds_world_so_what_happens_if_markets_dont_like_the_next_chair__root",
+      "title": "Linked asset: 2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair_img_image002_d122eff73f61.jpg",
+      "section_path": [
+        "Linked asset: 2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair_img_image002_d122eff73f61.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair_img_image002_d122eff73f61.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair_img_image002_d122eff73f61.jpg\n\nLinked image asset: 2025-12-11_this-is-a-feds-world-so-what-happens-if-markets-dont-like-the-next-chair_img_image002_d122eff73f61.jpg\n\nImage metadata: JPEG 379x237 mode=RGB\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "image",
+        "asset",
+        "jpeg",
+        "linked",
+        "metadata",
+        "mode",
+        "ocr",
+        "pixels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 118,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

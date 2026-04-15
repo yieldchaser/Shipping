@@ -1,0 +1,174 @@
+{
+  "node_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__root",
+  "doc_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus",
+  "parent_id": null,
+  "title": "China's economic stimulus",
+  "section_path": [
+    "China's economic stimulus"
+  ],
+  "section_path_text": "China's economic stimulus",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Henry Curra and Yiling Lee\nPeak oil postponed? Recent efforts by the Chinese government to stimulate the nation's economy could postpone peak Chinese oil demand, but not for long. Tankers, particularly VLCCs, will have to look elsewhere for demand growth.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "lng",
+    "lpg",
+    "china",
+    "meg",
+    "west_africa",
+    "india",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1984,
+  "source_path": "reports/breakwave/2024/2024-10-02_chinas-economic-stimulus.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/10/2/chinas-economic-stimulus",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus",
+      "parent_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Henry Curra and Yiling Lee\nPeak oil postponed? Recent efforts by the Chinese government to stimulate the nation's economy could postpone peak Chinese oil demand, but not for long.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "lng",
+        "lpg",
+        "china",
+        "west_africa",
+        "india",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1035,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__s02_linked_asset_2024_10_02_chinas_economic_stimulus_img_image0_147e7bb7be98_png",
+      "doc_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus",
+      "parent_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__root",
+      "title": "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image0_147e7bb7be98.png",
+      "section_path": [
+        "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image0_147e7bb7be98.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image0_147e7bb7be98.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-02_chinas-economic-stimulus_img_image0_147e7bb7be98.png\n\nLinked image asset: 2024-10-02_chinas-economic-stimulus_img_image0_147e7bb7be98.png\n\nImage metadata: PNG 492x378 mode=RGBA\n\nEmbedded info:\ndpi: (95.96119999999999, 95.96119999999999)\nSoftware: Microsoft Office\n\nOCR text:\nIEA China oil demand forecast\n18\n18 gents\n17 he ----- April\n17\nZi6 ;\ngr -\n5 15\n15\nan ----- September\n14\n3 ----------\nSIS PSPS PDP\noe se 4 4 ew ev Rss ew Ry &\nSource: IEA",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "asset",
+        "iea",
+        "image",
+        "source",
+        "april",
+        "chinas-economic-stimulus_img_image0_147e7bb7be98.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__s03_linked_asset_2024_10_02_chinas_economic_stimulus_img_image1_333bb31841a9_png",
+      "doc_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus",
+      "parent_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__root",
+      "title": "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image1_333bb31841a9.png",
+      "section_path": [
+        "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image1_333bb31841a9.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image1_333bb31841a9.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-02_chinas-economic-stimulus_img_image1_333bb31841a9.png\n\nLinked image asset: 2024-10-02_chinas-economic-stimulus_img_image1_333bb31841a9.png\n\nImage metadata: PNG 492x378 mode=RGBA\n\nEmbedded info:\ndpi: (95.96119999999999, 95.96119999999999)\nSoftware: Microsoft Office\n\nOCR text:\nCSI 300 Index\n4,200\n4,000\n3,800\n3,600\n3,400\n3,200\n3,000, --AASANA rr)\n& sv om ob Ri & wv ob oh\nKs @ we ye ww y YY yw &\nSource: Refinitiv",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "source",
+        "aasana",
+        "chinas-economic-stimulus_img_image1_333bb31841a9.png",
+        "csi",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__s04_linked_asset_2024_10_02_chinas_economic_stimulus_img_image2_ae4bad3b1789_png",
+      "doc_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus",
+      "parent_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__root",
+      "title": "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image2_ae4bad3b1789.png",
+      "section_path": [
+        "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image2_ae4bad3b1789.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image2_ae4bad3b1789.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-02_chinas-economic-stimulus_img_image2_ae4bad3b1789.png\n\nLinked image asset: 2024-10-02_chinas-economic-stimulus_img_image2_ae4bad3b1789.png\n\nImage metadata: PNG 480x423 mode=RGBA\n\nEmbedded info:\ndpi: (95.96119999999999, 95.96119999999999)\nSoftware: Microsoft Office\n\nOCR text:\nChinese oil imports by origin & oil demand\n2024 vs 2021\n20\n15\n1.0\na\nroy\n§ 05\nSs\n0.0\n-05\n-1.0\n& # S SB uw =< oO > * n on oD\npePes Gee saa\neg 8 § 3° FES\n$3 9 5\n2 B50\nfe) oz\nz",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "asset",
+        "image",
+        "oil",
+        "b50",
+        "chinas-economic-stimulus_img_image2_ae4bad3b1789.png",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 205,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__s05_linked_asset_2024_10_02_chinas_economic_stimulus_img_image3_653131745e90_png",
+      "doc_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus",
+      "parent_id": "breakwave_insights_insights_2024-10-02_2024_10_02_chinas_economic_stimulus__root",
+      "title": "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image3_653131745e90.png",
+      "section_path": [
+        "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image3_653131745e90.png"
+      ],
+      "section_path_text": "Linked asset: 2024-10-02_chinas-economic-stimulus_img_image3_653131745e90.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-10-02_chinas-economic-stimulus_img_image3_653131745e90.png\n\nLinked image asset: 2024-10-02_chinas-economic-stimulus_img_image3_653131745e90.png\n\nImage metadata: PNG 494x380 mode=RGBA\n\nEmbedded info:\ndpi: (95.96119999999999, 95.96119999999999)\nSoftware: Microsoft Office\n\nOCR text:\nOrigin of China crude/condensates import\n14 m Russia Arctic\nmw Baltic\n12\nI 7 i Bsea/Caspian\njou =F ge\nO1 meres Fe ee eee NWE\n. | | el\nDoo ateDbapac tries ETM aGTITANED: © = sawc\nOo 8 fe es j--gal-s Pmt\n§ i!",
+      "keywords": [
+        "china",
+        "meg",
+        "west_africa",
+        "asset",
+        "image",
+        "russia",
+        "source",
+        "a2s"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 278,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

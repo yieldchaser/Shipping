@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports__root",
+  "doc_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports",
+  "parent_id": null,
+  "title": "Global Soybean Exports",
+  "section_path": [
+    "Global Soybean Exports"
+  ],
+  "section_path_text": "Global Soybean Exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDespite concerns about the outlook for grain and coal trades, on period deals, well-described Kamsarmaxes have been commanding premiums well above the average rates seen in 2023. By Michalis Voutsinas\nThe slowdown in Chinese soybean imports is notable as a significant factor contributing to the deceleration in Brazilian soybean exports, although the figures remain remarkably high. Brazil's soybean exports in January decreased to 2.9 million metric tonnes, down from December's 3.8 million metric tonnes, according to Brazil Customs.",
+  "keywords": [
+    "panamax",
+    "china",
+    "brazil",
+    "coal",
+    "grain",
+    "crude_oil",
+    "soybean",
+    "million",
+    "metric",
+    "tonnes",
+    "exports",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1687,
+  "source_path": "reports/breakwave/2024/2024-02-26_global-soybean-exports.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/2/26/global-soybean-exports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports",
+      "parent_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Despite concerns about the outlook for grain and coal trades, on period deals, well-described Kamsarmaxes have been commanding premiums well above the average rates seen in 2023. By Michalis Voutsinas\nThe slowdown in Chinese soybean imports is notable as a significant factor contributing to the deceleration in Brazilian soybean exports, although the figures remain remarkably high.",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "coal",
+        "grain",
+        "crude_oil",
+        "soybean",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1107,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports__s02_linked_asset_2024_02_26_global_soybean_exports_img_screenshot2024_02_26121505_35fb58f0e9b9_png",
+      "doc_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports",
+      "parent_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports__root",
+      "title": "Linked asset: 2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png",
+      "section_path": [
+        "Linked asset: 2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png\n\nLinked image asset: 2024-02-26_global-soybean-exports_img_screenshot2024-02-26121505_35fb58f0e9b9.png\n\nImage metadata: PNG 631x387 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nP8: Panamax Santos to Qingdao grain\n80\n70\n60\n50\n-\n= 40\n~~\nwT\n30\n20\n10\n0 ---_------------meooqr\nlav @eB Map Anp Mat lovv lovuA Avy em Oxt Noe Aexk\nque 2020 qe 2021 jq wee 2022 ame 2023 see 2024",
+      "keywords": [
+        "panamax",
+        "grain",
+        "asset",
+        "image",
+        "aexk",
+        "ame",
+        "anp",
+        "avy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 215,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports__s03_linked_asset_2024_02_26_global_soybean_exports_img_screenshot2024_02_26121515_58c23bd2dbad_png",
+      "doc_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports",
+      "parent_id": "breakwave_insights_insights_2024-02-26_2024_02_26_global_soybean_exports__root",
+      "title": "Linked asset: 2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png",
+      "section_path": [
+        "Linked asset: 2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png"
+      ],
+      "section_path_text": "Linked asset: 2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png\n\nLinked image asset: 2024-02-26_global-soybean-exports_img_screenshot2024-02-26121515_58c23bd2dbad.png\n\nImage metadata: PNG 1237x446 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\n30.000 Source: Refinitiv, Doric Research G lo ba S oybea n E X po rts\n18.000 = =\n16.000 i = a\n© 14.000 - 7 = 5\nS az a EE a -_\n5 12.000 - - z -\n~ _- - -\n© 10.000 = ae | ~ = 7: -\nHd\nSs 8.000 -\nre)\n= 6.000 -\n4.000\n2.000\nJan-19 Jul-19 Jan-20 Jul-20 Jan-21 Jul-21 Jan-22 Jul-22 Jan-23 Jul-23 Jan-24\n@ Brazil @ United States @ Argentina @ Canada @ Paraguay Ukraine m@ Russia @ Uruguay",
+      "keywords": [
+        "brazil",
+        "grain",
+        "asset",
+        "image",
+        "source",
+        "argentina",
+        "canada",
+        "doric"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 285,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

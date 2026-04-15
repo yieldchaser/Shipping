@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-05-31_2024_05_31_5e6rjfxk0fvkss9wnk811q9r3k8o3k__root",
+  "doc_id": "breakwave_insights_insights_2024-05-31_2024_05_31_5e6rjfxk0fvkss9wnk811q9r3k8o3k",
+  "parent_id": null,
+  "title": "Chinese Consumers Buying More Goods, But Strength Is Lessening",
+  "section_path": [
+    "Chinese Consumers Buying More Goods, But Strength Is Lessening"
+  ],
+  "section_path_text": "Chinese Consumers Buying More Goods, But Strength Is Lessening",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nChina's retail sales in April grew year-on-year by only 2.3%, which is even lower than the 3.1% growth seen in March. Taking April's 0.3% inflation into account, China's retail sales adjusted for inflation grew year-on-year by only 2%, which marks the lowest growth seen since January 2023. Image reference: Chart.jpg | assets/2024-05-31_5e6rjfxk0fvkss9wnk811q9r3k8o3k_img_chart_a770e1f9fc44.jpg\nChina's retail sales growth has continued to decline from November's peak.",
+  "keywords": [
+    "china",
+    "retail",
+    "sales",
+    "growth",
+    "inflation",
+    "months",
+    "adjusted",
+    "asset",
+    "come",
+    "image",
+    "last",
+    "april"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 494,
+  "source_path": "reports/breakwave/2024/2024-05-31_5e6rjfxk0fvkss9wnk811q9r3k8o3k.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/5/31/5e6rjfxk0fvkss9wnk811q9r3k8o3k",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-05-31_2024_05_31_5e6rjfxk0fvkss9wnk811q9r3k8o3k__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-05-31_2024_05_31_5e6rjfxk0fvkss9wnk811q9r3k8o3k",
+      "parent_id": "breakwave_insights_insights_2024-05-31_2024_05_31_5e6rjfxk0fvkss9wnk811q9r3k8o3k__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nChina's retail sales in April grew year-on-year by only 2.3%, which is even lower than the 3.1% growth seen in March. Taking April's 0.3% inflation into account, China's retail sales adjusted for inflation grew year-on-year by only 2%, which marks the lowest growth seen since January 2023.",
+      "keywords": [
+        "china",
+        "retail",
+        "sales",
+        "growth",
+        "inflation",
+        "months",
+        "come",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 275,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-31_2024_05_31_5e6rjfxk0fvkss9wnk811q9r3k8o3k__s02_linked_asset_2024_05_31_5e6rjfxk0fvkss9wnk811q9r3k8o3k_img_chart_a770e1f9fc44_jpg",
+      "doc_id": "breakwave_insights_insights_2024-05-31_2024_05_31_5e6rjfxk0fvkss9wnk811q9r3k8o3k",
+      "parent_id": "breakwave_insights_insights_2024-05-31_2024_05_31_5e6rjfxk0fvkss9wnk811q9r3k8o3k__root",
+      "title": "Linked asset: 2024-05-31_5e6rjfxk0fvkss9wnk811q9r3k8o3k_img_chart_a770e1f9fc44.jpg",
+      "section_path": [
+        "Linked asset: 2024-05-31_5e6rjfxk0fvkss9wnk811q9r3k8o3k_img_chart_a770e1f9fc44.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-05-31_5e6rjfxk0fvkss9wnk811q9r3k8o3k_img_chart_a770e1f9fc44.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-31_5e6rjfxk0fvkss9wnk811q9r3k8o3k_img_chart_a770e1f9fc44.jpg\n\nLinked image asset: 2024-05-31_5e6rjfxk0fvkss9wnk811q9r3k8o3k_img_chart_a770e1f9fc44.jpg\n\nImage metadata: JPEG 596x304 mode=RGB\n\nOCR text:\nChinese Retail Sales Growth Adjusted For Inflation (2022 - 2024)\n20%\n10%\n0%\n-10%\n220% © $$$$_$_$$_$_$_$_$_$_$_$_$_____\n2022 2023 2024",
+      "keywords": [
+        "china",
+        "asset",
+        "image",
+        "adjusted",
+        "chinese",
+        "e6rjfxk0fvkss9wnk811q9r3k8o3k_img_chart_a770e1f9fc44.jpg",
+        "growth",
+        "inflation"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 170,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

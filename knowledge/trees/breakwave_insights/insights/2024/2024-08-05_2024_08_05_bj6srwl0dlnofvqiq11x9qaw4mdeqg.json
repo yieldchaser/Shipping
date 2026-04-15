@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg__root",
+  "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg",
+  "parent_id": null,
+  "title": "Seasonal slowdown",
+  "section_path": [
+    "Seasonal slowdown"
+  ],
+  "section_path_text": "Seasonal slowdown",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nChina's Purchasing Managers' Index (PMI) for the steel industry fell for the second consecutive month in July, dropping by 5.3 points to 42.5, marking the lowest level since June 2023, as reported by the CFLP Steel Logistics Professional Committee. This decline is attributed to the seasonal slowdown during the summer, characterized by high temperatures and frequent rains across many regions, alongside the introduction of new rebar standards which have negatively affected domestic market sentiment. In July, the new order index decreased to 40.3 percent, down 9.1 percentage points from June.",
+  "keywords": [
+    "capesize",
+    "china",
+    "europe",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "percent",
+    "million",
+    "tonnes",
+    "asset",
+    "image",
+    "production"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2138,
+  "source_path": "reports/breakwave/2024/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/8/5/bj6srwl0dlnofvqiq11x9qaw4mdeqg",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nChina's Purchasing Managers' Index (PMI) for the steel industry fell for the second consecutive month in July, dropping by 5.3 points to 42.5, marking the lowest level since June 2023, as reported by the CFLP Steel Logistics Professional Committee. This decline is attributed to the seasonal slowdown during the summer, characterized by high temperatures and frequent rains across many regions, alongside the introduction of new rebar standards which have negatively affected domestic market sentiment.",
+      "keywords": [
+        "capesize",
+        "china",
+        "europe",
+        "iron_ore",
+        "crude_oil",
+        "steel",
+        "percent",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1225,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg__s02_linked_asset_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f471a01ef740_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg__root",
+      "title": "Linked asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f471a01ef740.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f471a01ef740.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f471a01ef740.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f471a01ef740.png\n\nLinked image asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f471a01ef740.png\n\nImage metadata: PNG 446x244 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChina - Steel Industry PMI\n60\n50\n40\n30\n20\nJan-20 Jul-20 Jan-21 Juk21 Jan-22 Jul-22. Jan-23 Jul-23 Jan-24 Jul-24\nSource: Steel Logistics Professional Committee, Doric Research",
+      "keywords": [
+        "china",
+        "steel",
+        "asset",
+        "image",
+        "source",
+        "bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f471a01ef740.png",
+        "committee",
+        "doric"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 222,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg__s03_linked_asset_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4aefbbddc05d_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg__root",
+      "title": "Linked asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4aefbbddc05d.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4aefbbddc05d.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4aefbbddc05d.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4aefbbddc05d.png\n\nLinked image asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4aefbbddc05d.png\n\nImage metadata: PNG 468x282 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nChina - Crude Steel Output\n120\n100\n80\n60\n&\n=\n© 40\n<\n2 20\n=\n£\nte)\n2 2B 2 DM DO DP Ww wD LD Ae Dm ab\nSM NY MN VM VV VM VM VV\nFS FT CT KT CT CT SK\nSource: NBS, WSA, Doric Research",
+      "keywords": [
+        "china",
+        "steel",
+        "asset",
+        "image",
+        "source",
+        "bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4aefbbddc05d.png",
+        "crude",
+        "doric"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 249,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg__s04_linked_asset_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73d089456fce_png",
+      "doc_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg",
+      "parent_id": "breakwave_insights_insights_2024-08-05_2024_08_05_bj6srwl0dlnofvqiq11x9qaw4mdeqg__root",
+      "title": "Linked asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73d089456fce.png",
+      "section_path": [
+        "Linked asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73d089456fce.png"
+      ],
+      "section_path_text": "Linked asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73d089456fce.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73d089456fce.png\n\nLinked image asset: 2024-08-05_bj6srwl0dlnofvqiq11x9qaw4mdeqg_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_73d089456fce.png\n\nImage metadata: PNG 946x350 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\n$50,000 . Capesize TCA Performance\n$40,000\n$30,000 -\n$20,000 se\n$10,000\nS- eee\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\nSource: Baltic Exchange, Dorle Research --=Cape TC Avg (2014-2018) === Cape TC Avg (2019-2023) Cape TC 2024",
+      "keywords": [
+        "capesize",
+        "cape",
+        "asset",
+        "avg",
+        "image",
+        "source",
+        "apr",
+        "aug"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 251,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

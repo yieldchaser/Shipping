@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-08-27_2025_08_27_spot_the_surge__root",
+  "doc_id": "breakwave_insights_insights_2025-08-27_2025_08_27_spot_the_surge",
+  "parent_id": null,
+  "title": "Spot the Surge",
+  "section_path": [
+    "Spot the Surge"
+  ],
+  "section_path_text": "Spot the Surge",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg\nCharlie Grey of Tankers International explains why the window to capitalise on the VLCC spot market is opening rapidly, demanding timely and strategic action. By Charlie Grey\nThe very large crude carrier (VLCC) market is undergoing significant changes, driven by rising geopolitical tensions and a volatile market. In this environment, global tanker dynamics are shifting fast, and for VLCC owners, a clear opportunity is emerging.",
+  "keywords": [
+    "vlcc",
+    "meg",
+    "crude_oil",
+    "owners",
+    "are",
+    "pool",
+    "pooling",
+    "production",
+    "time",
+    "b/d",
+    "charters",
+    "commercial"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1654,
+  "source_path": "reports/breakwave/2025/2025-08-27_spot-the-surge.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/8/27/spot-the-surge",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-08-27_2025_08_27_spot_the_surge__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-08-27_2025_08_27_spot_the_surge",
+      "parent_id": "breakwave_insights_insights_2025-08-27_2025_08_27_spot_the_surge__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg\nCharlie Grey of Tankers International explains why the window to capitalise on the VLCC spot market is opening rapidly, demanding timely and strategic action. By Charlie Grey\nThe very large crude carrier (VLCC) market is undergoing significant changes, driven by rising geopolitical tensions and a volatile market.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "crude_oil",
+        "owners",
+        "are",
+        "pool",
+        "pooling",
+        "production"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1226,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-27_2025_08_27_spot_the_surge__s02_linked_asset_2025_08_27_spot_the_surge_img_unsplash_image_983knf8azec_efb549cc7057_jpg",
+      "doc_id": "breakwave_insights_insights_2025-08-27_2025_08_27_spot_the_surge",
+      "parent_id": "breakwave_insights_insights_2025-08-27_2025_08_27_spot_the_surge__root",
+      "title": "Linked asset: 2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg",
+      "section_path": [
+        "Linked asset: 2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg\n\nLinked image asset: 2025-08-27_spot-the-surge_img_unsplash-image-983knf8azec_efb549cc7057.jpg\n\nImage metadata: JPEG 1080x1440 mode=RGB\n\nOCR text:\no - ~- ss SE Ene\nth\nah ee = at\nia =e) Ae Pert\n1 a fu: Sw ft 5 lin eg a\nSS SOS Ng NY li ae 4 Se? a SS = te - ae ‘hy ig ravens te Fue ey ahi di\nETT tied A Ta a ee Wee\nEY px, 1 8 GE .",
+      "keywords": [
+        "asset",
+        "image",
+        "ahi",
+        "ateb",
+        "bad",
+        "bay",
+        "cae",
+        "eee."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 392,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

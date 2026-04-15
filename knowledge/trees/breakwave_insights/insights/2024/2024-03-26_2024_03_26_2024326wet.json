@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet__root",
+  "doc_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Tanker Report - March 26, 2024",
+  "section_path": [
+    "Breakwave Bi-Weekly Tanker Report - March 26, 2024"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Tanker Report - March 26, 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2024-03-26_2024326wet_img_tankerreporttop_7ecda29ad127.png\n· Spot volatility increases but follow-through fails on muted fundamentals - The third week of March dealt a harsh blow to VLCC owners, as their hopes for a surge in cargo demand were dashed , leaving market dynamics working against them. Despite some initial optimism earlier in the month, whispers began to circulate of a sudden influx of vessel relets flooding the market, all vying for lucrative returns. Such increased supply put pressure on owners from charterers, igniting a frantic competition to slash rates for available vessels.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "demand",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1746,
+  "source_path": "reports/breakwave/2024/2024-03-26_2024326wet.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024326wet",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet",
+      "parent_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2024-03-26_2024326wet_img_tankerreporttop_7ecda29ad127.png\n· Spot volatility increases but follow-through fails on muted fundamentals - The third week of March dealt a harsh blow to VLCC owners, as their hopes for a surge in cargo demand were dashed , leaving market dynamics working against them. Despite some initial optimism earlier in the month, whispers began to circulate of a sudden influx of vessel relets flooding the market, all vying for lucrative returns.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "atlantic",
+        "pacific",
+        "crude_oil",
+        "oil",
+        "demand",
+        "higher"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 735,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet__s02_linked_asset_2024_03_26_2024326wet_img_tankerreporttop_7ecda29ad127_png",
+      "doc_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet",
+      "parent_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet__root",
+      "title": "Linked asset: 2024-03-26_2024326wet_img_tankerreporttop_7ecda29ad127.png",
+      "section_path": [
+        "Linked asset: 2024-03-26_2024326wet_img_tankerreporttop_7ecda29ad127.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-26_2024326wet_img_tankerreporttop_7ecda29ad127.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-26_2024326wet_img_tankerreporttop_7ecda29ad127.png\n\nLinked image asset: 2024-03-26_2024326wet_img_tankerreporttop_7ecda29ad127.png\n\nImage metadata: PNG 1506x476 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nBY ET J BREAKWAVE\nADVISORS\nTanker Shipping\nBreakwave Tanker Futures Index: 1,293 VLCC Middle East-Asia Spot Rates: $16.30 Short-term Indicators:\nNY 30D: -5.4% YS 30D: -1.6% Momentum:\n~~ ‘YTD: 6.5% 4 = \"YTD: 23.1% Sentiment:\nVY YOY: -20.8% YOY: -27.1% Fundamentals: Positive",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "image",
+        "yoy",
+        "ytd",
+        "dpi",
+        "east-asia",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 218,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet__s03_linked_asset_2024_03_26_2024326wet_img_tankerreportchart_2a5175a98048_png",
+      "doc_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet",
+      "parent_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet__root",
+      "title": "Linked asset: 2024-03-26_2024326wet_img_tankerreportchart_2a5175a98048.png",
+      "section_path": [
+        "Linked asset: 2024-03-26_2024326wet_img_tankerreportchart_2a5175a98048.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-26_2024326wet_img_tankerreportchart_2a5175a98048.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-26_2024326wet_img_tankerreportchart_2a5175a98048.png\n\nLinked image asset: 2024-03-26_2024326wet_img_tankerreportchart_2a5175a98048.png\n\nImage metadata: PNG 1499x971 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n; ; J © BREAKWAVE\nBi-weekly Tanker Shipping ADVISORS\nVLCC Spot Index (TD3C) vs Breakwave Tanker Futures Index (BWETFF)\n1800 25\n1600\n1400 20\n1200\n15\n1000\n800\n10\n600\n4\n00 5\n200\n=---BWETFF (futures) = --TD3C, $/t\n0 0)\nJan-23.",
+      "keywords": [
+        "vlcc",
+        "asset",
+        "bwetff",
+        "image",
+        "td3c",
+        "apr-23",
+        "aug-23",
+        "bi-weekly"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 241,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet__s04_linked_asset_2024_03_26_2024326wet_img_tankerreportbottom_ef35400142f2_png",
+      "doc_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet",
+      "parent_id": "breakwave_insights_insights_2024-03-26_2024_03_26_2024326wet__root",
+      "title": "Linked asset: 2024-03-26_2024326wet_img_tankerreportbottom_ef35400142f2.png",
+      "section_path": [
+        "Linked asset: 2024-03-26_2024326wet_img_tankerreportbottom_ef35400142f2.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-26_2024326wet_img_tankerreportbottom_ef35400142f2.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-26_2024326wet_img_tankerreportbottom_ef35400142f2.png\n\nLinked image asset: 2024-03-26_2024326wet_img_tankerreportbottom_ef35400142f2.png\n\nImage metadata: PNG 1499x1008 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nTanker Fundamentals\nDemand YTD YoY\nWorld Oil Demand 104,390 kbpd\nOil Supply, OPEC 26,680 kbpd\nOil Supply, non-OPEC 69,070 kbpd\nOECD Total Crude Oil Stocks 1033.9 MMbls\nUS Crude Oil Exports 48.7 MMbls 13.5%\nChina Oil Imports 564.3 MMbIs\nGlobal Crude Oil Floating Storage 70.8 MMblis -23.3%\nSupply\nTanker Fleet 690.8 mdwt\nFreight Rates\nVLCC Middle East-Asia, USD/ton 14.62 15.9%\nSuezmax West Africa-Europe, USD/ton 20.39\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: Contact:\nThis research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the Breakwave Advisors LLC\nrecipient's internal use only. This report does not constitute and will not form part of and should not be construed as a 17 State Street, 4",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 458,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-08-28_2025_08_28_panamaxes_finding_strength__root",
+  "doc_id": "breakwave_insights_insights_2025-08-28_2025_08_28_panamaxes_finding_strength",
+  "parent_id": null,
+  "title": "Panamaxes Finding Strength",
+  "section_path": [
+    "Panamaxes Finding Strength"
+  ],
+  "section_path_text": "Panamaxes Finding Strength",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nOverall dry bulk rates climbed last week, with all but capesize rates ending up week-on-week. Panamax rates rose by the largest amount. While capesize rates ended the week down by 15%, noteworthy is that capesize rates were able to rise on Friday.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "grain",
+    "south",
+    "american",
+    "jul",
+    "asset",
+    "cargo"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 519,
+  "source_path": "reports/breakwave/2025/2025-08-28_panamaxes-finding-strength.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/8/28/panamaxes-finding-strength",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-08-28_2025_08_28_panamaxes_finding_strength__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-08-28_2025_08_28_panamaxes_finding_strength",
+      "parent_id": "breakwave_insights_insights_2025-08-28_2025_08_28_panamaxes_finding_strength__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nOverall dry bulk rates climbed last week, with all but capesize rates ending up week-on-week. Panamax rates rose by the largest amount.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "iron_ore",
+        "coal",
+        "grain",
+        "south"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 353,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-28_2025_08_28_panamaxes_finding_strength__s02_linked_asset_2025_08_28_panamaxes_finding_strength_img_chart_d9d46c79f509_jpg",
+      "doc_id": "breakwave_insights_insights_2025-08-28_2025_08_28_panamaxes_finding_strength",
+      "parent_id": "breakwave_insights_insights_2025-08-28_2025_08_28_panamaxes_finding_strength__root",
+      "title": "Linked asset: 2025-08-28_panamaxes-finding-strength_img_chart_d9d46c79f509.jpg",
+      "section_path": [
+        "Linked asset: 2025-08-28_panamaxes-finding-strength_img_chart_d9d46c79f509.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-08-28_panamaxes-finding-strength_img_chart_d9d46c79f509.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-28_panamaxes-finding-strength_img_chart_d9d46c79f509.jpg\n\nLinked image asset: 2025-08-28_panamaxes-finding-strength_img_chart_d9d46c79f509.jpg\n\nImage metadata: JPEG 1178x658 mode=RGB\n\nOCR text:\nReported South American Spot Grain Cargoes (Week Ending July 4 - August 22)\n30\n20\n10\n0\nJul 4 Jul 11 Jul 18 Jul 25 Aug 1 Aug8 Aug1i5 Aug 22",
+      "keywords": [
+        "panamax",
+        "grain",
+        "jul",
+        "asset",
+        "aug",
+        "image",
+        "american",
+        "aug1i5"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 135,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

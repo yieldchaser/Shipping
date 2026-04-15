@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry__root",
+  "doc_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Dry Bulk Report - June 11, 2024",
+  "section_path": [
+    "Breakwave Bi-Weekly Dry Bulk Report - June 11, 2024"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Dry Bulk Report - June 11, 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2024-06-11_2024611dry_img_dryreporttop_e1683f2a3964.png\n· Steady as it goes while curve inverses and sentiment moderates - The past few weeks have been uncharacteristically calm for the otherwise volatile dry bulk market. Although spot Capesize rates have been ticking higher , such a strength has not been jumpy as it usually is, at a time when futures were already pricing some improvement going to the month of June. In the last few days though, the futures curve has inverted and now sits below spot, demonstrating some skepticism amongst traders as it relates to the progression of rates for the first time in a while .",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1712,
+  "source_path": "reports/breakwave/2024/2024-06-11_2024611dry.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024611dry",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry",
+      "parent_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2024-06-11_2024611dry_img_dryreporttop_e1683f2a3964.png\n· Steady as it goes while curve inverses and sentiment moderates - The past few weeks have been uncharacteristically calm for the otherwise volatile dry bulk market. Although spot Capesize rates have been ticking higher , such a strength has not been jumpy as it usually is, at a time when futures were already pricing some improvement going to the month of June.",
+      "keywords": [
+        "capesize",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa",
+        "iron_ore",
+        "coal",
+        "bauxite"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 752,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry__s02_linked_asset_2024_06_11_2024611dry_img_dryreporttop_e1683f2a3964_png",
+      "doc_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry",
+      "parent_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry__root",
+      "title": "Linked asset: 2024-06-11_2024611dry_img_dryreporttop_e1683f2a3964.png",
+      "section_path": [
+        "Linked asset: 2024-06-11_2024611dry_img_dryreporttop_e1683f2a3964.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-11_2024611dry_img_dryreporttop_e1683f2a3964.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-11_2024611dry_img_dryreporttop_e1683f2a3964.png\n\nLinked image asset: 2024-06-11_2024611dry_img_dryreporttop_e1683f2a3964.png\n\nImage metadata: PNG 1190x300 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDry Bulk Shipping\nBreakwave Dry Futures Index: 2,021 Baltic Dry Index (spot): 1,883 Short-term Indicators:\nNY 30D: -10.2% \\ 30D: -11.6% Momentum:\n* = YTD: 34.8% YTD: -10.1% Sentiment:\n* = YOY: 43.8% ~ YOY: 78.5% Fundamentals: Negative",
+      "keywords": [
+        "asset",
+        "image",
+        "yoy",
+        "ytd",
+        "dpi",
+        "dry_img_dryreporttop_e1683f2a3964.png",
+        "embedded",
+        "fundamentals"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 199,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry__s03_linked_asset_2024_06_11_2024611dry_img_dryreportchart_3158c3a6e001_png",
+      "doc_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry",
+      "parent_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry__root",
+      "title": "Linked asset: 2024-06-11_2024611dry_img_dryreportchart_3158c3a6e001.png",
+      "section_path": [
+        "Linked asset: 2024-06-11_2024611dry_img_dryreportchart_3158c3a6e001.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-11_2024611dry_img_dryreportchart_3158c3a6e001.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-11_2024611dry_img_dryreportchart_3158c3a6e001.png\n\nLinked image asset: 2024-06-11_2024611dry_img_dryreportchart_3158c3a6e001.png\n\nImage metadata: PNG 1186x754 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n/J© BREAKWAVE\nBi-weekly Dry Bulk Shipping ADVISORS\nBaltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF)\n4000\n3500\n3000\n2500\n2000\n1500\n1000\n500\n== BDIY (spot) === BDRYFF (futures)\n0\nJul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23 Jan-24 Feb-24 Mar-24 Apr-24 May-24",
+      "keywords": [
+        "asset",
+        "bdiy",
+        "bdryff",
+        "image",
+        "apr-24",
+        "aug-23",
+        "bi-weekly",
+        "dec-23"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry__s04_linked_asset_2024_06_11_2024611dry_img_dryreportbottom_942ea9fd8cba_png",
+      "doc_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry",
+      "parent_id": "breakwave_insights_insights_2024-06-11_2024_06_11_2024611dry__root",
+      "title": "Linked asset: 2024-06-11_2024611dry_img_dryreportbottom_942ea9fd8cba.png",
+      "section_path": [
+        "Linked asset: 2024-06-11_2024611dry_img_dryreportbottom_942ea9fd8cba.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-11_2024611dry_img_dryreportbottom_942ea9fd8cba.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-11_2024611dry_img_dryreportbottom_942ea9fd8cba.png\n\nLinked image asset: 2024-06-11_2024611dry_img_dryreportbottom_942ea9fd8cba.png\n\nImage metadata: PNG 1167x833 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDry Bulk Fundamentals\nDemand YTD YoY\nChina Steel Production 34amt\nChina Stee! Inventories 5.7m\nChina Iron Ore Inventories 147mt 16.7%\nChina Iron Ore Imports S14mt\nChina Coal Imports 205mt 12.6%\nChina Soybean Imports 37mt -11.7%\nBrazil Iron Ore Exports 113mt 13.6%\nAustralia Iron Ore Exports 287mt\nSupply\nDry Bulk Fleet 1016dwe\nFreight Rates\nBaltic Dry Index, Average 1,821 56.8%\nCapesize Spot Rates, Average 23,265 94.5%\nPanamax Spot rates, Average 14,503 36.1%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg and Breakwave Advisors\nDisclaimer: Contact:\nThis research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for Breakwave Advisors LLC\nthe recipient's internal use only.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 451,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

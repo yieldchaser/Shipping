@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-06-11_2025_06_11_strengths_and_weaknesses_in_current_dry_bulk_market__root",
+  "doc_id": "breakwave_insights_insights_2025-06-11_2025_06_11_strengths_and_weaknesses_in_current_dry_bulk_market",
+  "parent_id": null,
+  "title": "Strengths and Weaknesses in Current Dry Bulk Market",
+  "section_path": [
+    "Strengths and Weaknesses in Current Dry Bulk Market"
+  ],
+  "section_path_text": "Strengths and Weaknesses in Current Dry Bulk Market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nOverall dry bulk rates increased last week. The jump in capesize rates has dominated many headlines -- but as we stressed in Commodore Research's Weekly Executive Report this week, the rebound in panamax rates is significant too. Prior to last week, the last time that panamax rates had risen by just 1% or more was back in April.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "india",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "last",
+    "electricity",
+    "coal-derived"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 638,
+  "source_path": "reports/breakwave/2025/2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/6/11/strengths-and-weaknesses-in-current-dry-bulk-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-06-11_2025_06_11_strengths_and_weaknesses_in_current_dry_bulk_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-06-11_2025_06_11_strengths_and_weaknesses_in_current_dry_bulk_market",
+      "parent_id": "breakwave_insights_insights_2025-06-11_2025_06_11_strengths_and_weaknesses_in_current_dry_bulk_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nOverall dry bulk rates increased last week. The jump in capesize rates has dominated many headlines -- but as we stressed in Commodore Research's Weekly Executive Report this week, the rebound in panamax rates is significant too.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "india",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 453,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-06-11_2025_06_11_strengths_and_weaknesses_in_current_dry_bulk_market__s02_linked_asset_2025_06_11_strengths_and_weaknesses_in_current_dry_bulk_market_img_chart_ca88248730d8_jpg",
+      "doc_id": "breakwave_insights_insights_2025-06-11_2025_06_11_strengths_and_weaknesses_in_current_dry_bulk_market",
+      "parent_id": "breakwave_insights_insights_2025-06-11_2025_06_11_strengths_and_weaknesses_in_current_dry_bulk_market__root",
+      "title": "Linked asset: 2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg",
+      "section_path": [
+        "Linked asset: 2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg\n\nLinked image asset: 2025-06-11_strengths-and-weaknesses-in-current-dry-bulk-market_img_chart_ca88248730d8.jpg\n\nImage metadata: JPEG 593x334 mode=RGB\n\nOCR text:\nIndian Coal-Derived Electricity Production\n140kwh\n120kwh\n100kwh\n80kwh\n60kwh\n2019 2020 2021 2022 2023 2024 2025\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "india",
+        "coal",
+        "kwh",
+        "asset",
+        "image",
+        "billion",
+        "coal-derived",
+        "electricity"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

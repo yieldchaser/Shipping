@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying__root",
+  "doc_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying",
+  "parent_id": null,
+  "title": "Steel Price Decline in China is Intensifying",
+  "section_path": [
+    "Steel Price Decline in China is Intensifying"
+  ],
+  "section_path_text": "Steel Price Decline in China is Intensifying",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nThe pace of decline in Chinese steel prices has intensified this week, with prices through the first three days of the week down by 4.7%. Only three days have passed, but prices have already fallen by the largest amount in over two years. Image reference: Chart 1 (2).jpg | assets/2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart128229_37280e0c9928.jpg\nOverall, it remains clear that China's steel production is exceeding demand, but the intensity of the price decline is new.",
+  "keywords": [
+    "china",
+    "crude_oil",
+    "steel",
+    "asset",
+    "image",
+    "prices",
+    "yuan",
+    "aug",
+    "but",
+    "linked",
+    "production",
+    "august"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 682,
+  "source_path": "reports/breakwave/2024/2024-08-15_steel-price-decline-in-china-is-intensifying.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/8/15/steel-price-decline-in-china-is-intensifying",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying",
+      "parent_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nThe pace of decline in Chinese steel prices has intensified this week, with prices through the first three days of the week down by 4.7%. Only three days have passed, but prices have already fallen by the largest amount in over two years.",
+      "keywords": [
+        "china",
+        "steel",
+        "but",
+        "prices",
+        "production",
+        "august",
+        "chart",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 297,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying__s02_linked_asset_2024_08_15_steel_price_decline_in_china_is_intensifying_img_chart128229_37280e0c9928_jpg",
+      "doc_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying",
+      "parent_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying__root",
+      "title": "Linked asset: 2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart128229_37280e0c9928.jpg",
+      "section_path": [
+        "Linked asset: 2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart128229_37280e0c9928.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart128229_37280e0c9928.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart128229_37280e0c9928.jpg\n\nLinked image asset: 2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart128229_37280e0c9928.jpg\n\nImage metadata: JPEG 671x402 mode=RGB\n\nOCR text:\nChinese Hot Rolled Coil Steel Prices (June 2024 - August 2024)\n4,000yuan\n3,800yuan\n3,600yuan\n3,400yuan\n8,200 yuan -§\nJun28 JulS Jul12.",
+      "keywords": [
+        "china",
+        "crude_oil",
+        "steel",
+        "yuan",
+        "asset",
+        "aug",
+        "image",
+        "aug2"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying__s03_linked_asset_2024_08_15_steel_price_decline_in_china_is_intensifying_img_chart228229_d898bbe1f138_jpg",
+      "doc_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying",
+      "parent_id": "breakwave_insights_insights_2024-08-15_2024_08_15_steel_price_decline_in_china_is_intensifying__root",
+      "title": "Linked asset: 2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart228229_d898bbe1f138.jpg",
+      "section_path": [
+        "Linked asset: 2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart228229_d898bbe1f138.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart228229_d898bbe1f138.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart228229_d898bbe1f138.jpg\n\nLinked image asset: 2024-08-15_steel-price-decline-in-china-is-intensifying_img_chart228229_d898bbe1f138.jpg\n\nImage metadata: JPEG 672x407 mode=RGB\n\nOCR text:\nDaily Crude Stee! Output Average at Large and Medium-Sized Chinese Steel Mills\n2.40mt\n2.20mt\n2.00mt\n1.80mt\n96 Omit § A\nAug Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug",
+      "keywords": [
+        "china",
+        "steel",
+        "asset",
+        "aug",
+        "image",
+        "apr",
+        "average",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458__root",
+  "doc_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Dry Bulk Report - September 30, 2025",
+  "section_path": [
+    "Breakwave Bi-Weekly Dry Bulk Report - September 30, 2025"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Dry Bulk Report - September 30, 2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Seasonal Headwinds as We Enter October - Despite relatively robust spot rates across all dry bulk segments, a note of caution for the near term is warranted. Historically, October has not been favorable for dry bulk spot rates, with the Baltic Dry Index, a broad measure of spot global dry bulk rates, declining in 9 of the last 10 Octobers. We believe this pattern stems from the historically strong September rates, which often give way to softer rates in the following month.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2229,
+  "source_path": "reports/breakwave/2025/2025-09-30_2025930db-jhy4458.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025930db-jhy4458",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458",
+      "parent_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Seasonal Headwinds as We Enter October - Despite relatively robust spot rates across all dry bulk segments, a note of caution for the near term is warranted. Historically, October has not been favorable for dry bulk spot rates, with the Baltic Dry Index, a broad measure of spot global dry bulk rates, declining in 9 of the last 10 Octobers.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "iron_ore",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 771,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458__s02_linked_asset_2025_09_30_2025930db_jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8f2bca5746a_png",
+      "doc_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458",
+      "parent_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458__root",
+      "title": "Linked asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8f2bca5746a.png",
+      "section_path": [
+        "Linked asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8f2bca5746a.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8f2bca5746a.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8f2bca5746a.png\n\nLinked image asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c8f2bca5746a.png\n\nImage metadata: PNG 281x614 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nShort-term Indicators\nMomentum: Negative\nSentiment: Neutral\nFundamentals: Neutral\nBreakwave Dry 2032\nFutures Index:\n30D: -1.4% v\nYTD: 100.3% t\nYOY: -2.9% NP\nBaltic Dry Index 2220\n(spot):\n30D: 9.6% tT\nYTD: 122.7% 4p\nYOY: 7.1% t\nReuters: BDRY.K\nBloomberg: BDRY US\nExchange: NYSE\nBreakwave Advisors Research\nresearch @ breakwaveadvisors.com",
+      "keywords": [
+        "asset",
+        "image",
+        "neutral",
+        "research",
+        "yoy",
+        "ytd",
+        "bdry",
+        "bdry.k"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 282,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458__s03_linked_asset_2025_09_30_2025930db_jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95952a0a3a90_png",
+      "doc_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458",
+      "parent_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458__root",
+      "title": "Linked asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95952a0a3a90.png",
+      "section_path": [
+        "Linked asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95952a0a3a90.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95952a0a3a90.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95952a0a3a90.png\n\nLinked image asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_95952a0a3a90.png\n\nImage metadata: PNG 936x560 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n/S© BREAKWAVE\nADVISORS\nBaltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF)\n2500\n2000\n1500\n1000\n500\n0 =--=-BDIY (spot) «---«= BDRYFF (futures)\nNov-24 Dec-24 Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25 Sep-25\nThe Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax. The Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10%\nSupramax and a weighted average maturity of approximately 50-70 days.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "bdryff",
+        "asset",
+        "average",
+        "bdiy",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 343,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458__s04_linked_asset_2025_09_30_2025930db_jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0573dad9c89d_png",
+      "doc_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458",
+      "parent_id": "breakwave_insights_insights_2025-09-30_2025_09_30_2025930db_jhy4458__root",
+      "title": "Linked asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0573dad9c89d.png",
+      "section_path": [
+        "Linked asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0573dad9c89d.png"
+      ],
+      "section_path_text": "Linked asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0573dad9c89d.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0573dad9c89d.png\n\nLinked image asset: 2025-09-30_2025930db-jhy4458_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0573dad9c89d.png\n\nImage metadata: PNG 930x752 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDemand YTD YOY\nChina Steel Production 672mt\nChina Steel Inventories 4.7mt 47.7%\nChina Iron Ore Inventories 132mt\nChina ron Ore import gozmt\nChina Coal Imports 300mt -12.2%\nChina Soybean Imports 73mt\nBrazil Iron Ore Exports 266mt\nAustralia Iron Ore Exports 523mt\nSupply\nDry Bulk Fleet 1056 mdwt\nFreight Rates\nBaltic Dry Index, Average ays} -17.5%\nCapesize Spot Rates, Average 18,806 -21.4%\nPanamax Spot rates, Average 11,145 -19.9%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's internal use only. This report does not constitute and will not form part of and should not be const",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 678,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

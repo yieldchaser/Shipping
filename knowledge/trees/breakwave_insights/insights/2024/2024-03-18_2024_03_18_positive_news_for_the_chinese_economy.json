@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__root",
+  "doc_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy",
+  "parent_id": null,
+  "title": "Positive news for the Chinese economy",
+  "section_path": [
+    "Positive news for the Chinese economy"
+  ],
+  "section_path_text": "Positive news for the Chinese economy",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Baltic dry Index remained in the black for a sixth consecutive week, albeit with a relatively modest weekly gain as the capesizes offset a robust performance for the panamaxes. The commodities had a week with many sizeable moves, with a steep decline for iron ore among the more notable developments. By Ulf Bergman\n\nMacro/Geopolitics\nThe new week has begun with positive news for the Chinese economy.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "atlantic",
+    "europe",
+    "singapore",
+    "iron_ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1803,
+  "source_path": "reports/breakwave/2024/2024-03-18_positive-news-for-the-chinese-economy.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/3/18/positive-news-for-the-chinese-economy",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy",
+      "parent_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Baltic dry Index remained in the black for a sixth consecutive week, albeit with a relatively modest weekly gain as the capesizes offset a robust performance for the panamaxes. The commodities had a week with many sizeable moves, with a steep decline for iron ore among the more notable developments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "iron_ore",
+        "albeit",
+        "among",
+        "bergman",
+        "black",
+        "capesizes"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 65,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__s02_macro_geopolitics",
+      "doc_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy",
+      "parent_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__root",
+      "title": "Macro/Geopolitics",
+      "section_path": [
+        "Macro/Geopolitics"
+      ],
+      "section_path_text": "Macro/Geopolitics",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The new week has begun with positive news for the Chinese economy. According to data released earlier today, the country's industrial production expanded by more than expected during the year's first two months.",
+      "keywords": [
+        "china",
+        "chinese",
+        "during",
+        "per",
+        "sales",
+        "cent",
+        "expected",
+        "industrial"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 264,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__s03_commodity_markets",
+      "doc_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy",
+      "parent_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__root",
+      "title": "Commodity Markets",
+      "section_path": [
+        "Commodity Markets"
+      ],
+      "section_path_text": "Commodity Markets",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Crude oil bounced back last week after the International Energy Agency published a bullish demand outlook. Despite remaining broadly unchanged on Friday, the May Brent futures recorded a weekly gain of 4.0 per cent as they settled at 85.34 dollars per barrel.",
+      "keywords": [
+        "lng",
+        "china",
+        "brazil",
+        "europe",
+        "iron_ore",
+        "coal",
+        "grain",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 553,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__s04_freight_and_bunker_markets",
+      "doc_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy",
+      "parent_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__root",
+      "title": "Freight and Bunker Markets",
+      "section_path": [
+        "Freight and Bunker Markets"
+      ],
+      "section_path_text": "Freight and Bunker Markets",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Baltic Dry Index advanced by 1.2 per cent over the past five sessions, a sixth consecutive week in the black. However, the mildly positive reading hid considerable divergence among the vessel segments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "lng",
+        "lpg",
+        "atlantic",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 326,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__s05_the_view_from_the_shipfix_desk",
+      "doc_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy",
+      "parent_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__root",
+      "title": "The View from the Shipfix Desk",
+      "section_path": [
+        "The View from the Shipfix Desk"
+      ],
+      "section_path_text": "The View from the Shipfix Desk",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Grains and oilseed have faced significant headwinds since the beginning of the year as a bullish global supply outlook has weighed on prices. While corn and soybeans have recovered some of the losses recently amid downgrades to expected harvest sizes, the May futures for the two crops listed on the CBOT are currently trading around ten per cent below the levels at the end of December.",
+      "keywords": [
+        "china",
+        "grain",
+        "crude_oil",
+        "chinese",
+        "demand",
+        "grains",
+        "agricultural",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 318,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__s06_linked_asset_2024_03_18_positive_news_for_the_chinese_economy_img_screenshot2024_03_18181615_4270e6537c07_png",
+      "doc_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy",
+      "parent_id": "breakwave_insights_insights_2024-03-18_2024_03_18_positive_news_for_the_chinese_economy__root",
+      "title": "Linked asset: 2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png",
+      "section_path": [
+        "Linked asset: 2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png"
+      ],
+      "section_path_text": "Linked asset: 2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png\n\nLinked image asset: 2024-03-18_positive-news-for-the-chinese-economy_img_screenshot2024-03-18181615_4270e6537c07.png\n\nImage metadata: PNG 837x470 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\nWeekly Cargo Order Volumes (TCT & Voyage) for Ags Discharging in China by Segment\n® Handysize/max ™ Supra/Ultramax ™ Panamax\n10\n75\n& 6\nos\nE\n=\n25\n0)\nOP oP KP wh OP oP oP wh PP WP PP ah DP th oh ach\nOO Mm NI\nData source: Shipfix",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "asset",
+        "image",
+        "source",
+        "ach"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 209,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth__root",
+  "doc_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth",
+  "parent_id": null,
+  "title": "Global economic growth",
+  "section_path": [
+    "Global economic growth"
+  ],
+  "section_path_text": "Global economic growth",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nGlobal economic growth has shown signs of resilience in the past few years, supported by easing inflationary pressures and steady, albeit uneven, recovery in key regions, according to the OECD. After a slowerthan-expected start to 2024, global growth remains moderate, with forecasts pointing to a slight pickup in the coming quarters. OECD projects that this resilience will continue, with global GDP increasing by 3.2 percent this year and 3.3 percent in 2025 and 2026, and inflation falling towards central bank targets.",
+  "keywords": [
+    "capesize",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "growth",
+    "percent",
+    "global",
+    "economic",
+    "trade",
+    "investment"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1898,
+  "source_path": "reports/breakwave/2024/2024-12-09_global-economic-growth.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/12/9/global-economic-growth",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth",
+      "parent_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nGlobal economic growth has shown signs of resilience in the past few years, supported by easing inflationary pressures and steady, albeit uneven, recovery in key regions, according to the OECD. After a slowerthan-expected start to 2024, global growth remains moderate, with forecasts pointing to a slight pickup in the coming quarters.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "growth",
+        "percent"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1328,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth__s02_linked_asset_2024_12_09_global_economic_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aa44f381763_png",
+      "doc_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth",
+      "parent_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth__root",
+      "title": "Linked asset: 2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aa44f381763.png",
+      "section_path": [
+        "Linked asset: 2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aa44f381763.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aa44f381763.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aa44f381763.png\n\nLinked image asset: 2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_0aa44f381763.png\n\nImage metadata: PNG 448x345 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n5 Source: OECD, Doric Research Global GDP growth\n4s\n4\n3.5\n3\n2.5\n2\n15\n1\nos\n0\n2022Q1 2022Q2 2022Q3 202204 2023Q1 2023Q2 2023Q3 2023Q4 2024Q1 2024Q2 2024Q3*\nGS Quarterly =O Annual\nNote: Data for 2024Q3 is an estimate. Quarterly growth denotes quarter-on-quarter\ngrowth at an annualised rate.",
+      "keywords": [
+        "growth",
+        "annual",
+        "asset",
+        "denotes",
+        "image",
+        "quarterly",
+        "rate.",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 262,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth__s03_linked_asset_2024_12_09_global_economic_growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca9017d74944_png",
+      "doc_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth",
+      "parent_id": "breakwave_insights_insights_2024-12-09_2024_12_09_global_economic_growth__root",
+      "title": "Linked asset: 2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca9017d74944.png",
+      "section_path": [
+        "Linked asset: 2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca9017d74944.png"
+      ],
+      "section_path_text": "Linked asset: 2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca9017d74944.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca9017d74944.png\n\nLinked image asset: 2024-12-09_global-economic-growth_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca9017d74944.png\n\nImage metadata: PNG 474x343 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nenema Global trade volumes growth\n8\n6\n4\n2\n0\n2\n4\n6\n202201 2022Q3 2023Q1 202303 2024Q1 202403\nGl Quarterly -e- Annual\nNote: Quarterly growth denotes quarter-on-quarter growth at an annualised rate. Annual growth denotes the year-on-year growth rate.",
+      "keywords": [
+        "growth",
+        "annual",
+        "asset",
+        "denotes",
+        "image",
+        "quarterly",
+        "rate.",
+        "trade"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 218,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

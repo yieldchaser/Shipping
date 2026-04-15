@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-05-13_2024_05_13_baltic_indices_commenced_the_current_trading_week_with_a_quest_for_direction__root",
+  "doc_id": "breakwave_insights_insights_2024-05-13_2024_05_13_baltic_indices_commenced_the_current_trading_week_with_a_quest_for_direction",
+  "parent_id": null,
+  "title": "Baltic indices commenced the current trading week with a quest for direction",
+  "section_path": [
+    "Baltic indices commenced the current trading week with a quest for direction"
+  ],
+  "section_path_text": "Baltic indices commenced the current trading week with a quest for direction",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe cumulative volume of China's steel exports in the first four months of the year reached the highest level for the same period since 2016. This follows a strong performance in the January-March period, during which total exports hit an eight-year high. By Michalis Voutsinas\nFollowing a period marked by numerous public holidays, Baltic indices commenced the current trading week with a quest for direction.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1670,
+  "source_path": "reports/breakwave/2024/2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/5/13/baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-05-13_2024_05_13_baltic_indices_commenced_the_current_trading_week_with_a_quest_for_direction__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-05-13_2024_05_13_baltic_indices_commenced_the_current_trading_week_with_a_quest_for_direction",
+      "parent_id": "breakwave_insights_insights_2024-05-13_2024_05_13_baltic_indices_commenced_the_current_trading_week_with_a_quest_for_direction__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The cumulative volume of China's steel exports in the first four months of the year reached the highest level for the same period since 2016. This follows a strong performance in the January-March period, during which total exports hit an eight-year high.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1383,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-13_2024_05_13_baltic_indices_commenced_the_current_trading_week_with_a_quest_for_direction__s02_linked_asset_2024_05_13_baltic_indices_commenced_the_current_trading_week_with_a_quest_for_direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29_png",
+      "doc_id": "breakwave_insights_insights_2024-05-13_2024_05_13_baltic_indices_commenced_the_current_trading_week_with_a_quest_for_direction",
+      "parent_id": "breakwave_insights_insights_2024-05-13_2024_05_13_baltic_indices_commenced_the_current_trading_week_with_a_quest_for_direction__root",
+      "title": "Linked asset: 2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png",
+      "section_path": [
+        "Linked asset: 2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png\n\nLinked image asset: 2024-05-13_baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png\n\nImage metadata: PNG 470x271 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSource: GAC, Doric Research China - Steel Exports\n12\n10\n8 a\n26 =-\na4\n=2\n=\n=o\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\n-- 2019 2020 --- 2021 2022 cms 2023 comme 2()24",
+      "keywords": [
+        "china",
+        "steel",
+        "asset",
+        "image",
+        "source",
+        "apr",
+        "aug",
+        "baltic-indices-commenced-the-current-trading-week-with-a-quest-for-direction_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_865e55275e29.png"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 226,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

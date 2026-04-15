@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports__root",
+  "doc_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports",
+  "parent_id": null,
+  "title": "Strait of Hormuz alternatives for crude exports",
+  "section_path": [
+    "Strait of Hormuz alternatives for crude exports"
+  ],
+  "section_path_text": "Strait of Hormuz alternatives for crude exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs crude flows through Hormuz are almost at a standstill, we try to explore what are the alternatives and how realistic it is to divert flows to them\nBy Rohit Rathod\nAs conflict erupted in the Middle East Gulf over the weekend and transits via the Strait of Hormuz ceased, a lot has been discussed about the potential impact on crude oil transiting this crucial chokepoint. As flows through the strait are almost at a standstill, the fate of ~16mbd of crude exports out of the Middle East Gulf remains uncertain. With this insight we try to explore what options are available and how realistic it is to divert crude exports through these alternatives.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "meg",
+    "europe",
+    "japan",
+    "crude_oil",
+    "pipeline",
+    "yanbu",
+    "crude",
+    "mbd",
+    "fujairah",
+    "loadings"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2423,
+  "source_path": "reports/breakwave/2026/2026-03-06_strait-of-hormuz-alternatives-for-crude-exports.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/3/6/strait-of-hormuz-alternatives-for-crude-exports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports",
+      "parent_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As crude flows through Hormuz are almost at a standstill, we try to explore what are the alternatives and how realistic it is to divert flows to them\nBy Rohit Rathod\nAs conflict erupted in the Middle East Gulf over the weekend and transits via the Strait of Hormuz ceased, a lot has been discussed about the potential impact on crude oil transiting this crucial chokepoint. As flows through the strait are almost at a standstill, the fate of ~16mbd of crude exports out of the Middle East Gulf remains uncertain.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "meg",
+        "europe",
+        "crude_oil",
+        "crude",
+        "yanbu",
+        "out"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1215,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports__s02_linked_asset_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c13429a2ced_png",
+      "doc_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports",
+      "parent_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports__root",
+      "title": "Linked asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c13429a2ced.png",
+      "section_path": [
+        "Linked asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c13429a2ced.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c13429a2ced.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c13429a2ced.png\n\nLinked image asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8c13429a2ced.png\n\nImage metadata: PNG 759x603 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n3.5 9\n8\n3.0 Pipeline capacity is sum of East-West Pipeline (7mbd) to\nYanbu and Abu Dhabi Cude Oil Pipeline (1.5mbd) to\nFujairah 7\n25\n6\n2.0 5\n15 4\n| |\n1.0\n2\n0.5\n1\n0.0 AELLERERTEEEEREEET TERETE EEE E TEPER og\nJan-21 JuF21 Jan-22 Jul22 Janm-23 Juk23 Jan-24 Juk24 Jan-25 Juk25 VJan-26\nYanbu [SA] game Fujairah [AE] Pipeline Capacity to Yanbu + Fujairah (RHS)\nSaudi Arabia and UAE crude/condensate loadings from outside the Strait of Hormuz vs pipeline capacity\n(mbd)",
+      "keywords": [
+        "crude_oil",
+        "pipeline",
+        "capacity",
+        "fujairah",
+        "mbd",
+        "yanbu",
+        "asset",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 340,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports__s03_linked_asset_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e6da9298de0_png",
+      "doc_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports",
+      "parent_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports__root",
+      "title": "Linked asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e6da9298de0.png",
+      "section_path": [
+        "Linked asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e6da9298de0.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e6da9298de0.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e6da9298de0.png\n\nLinked image asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1e6da9298de0.png\n\nImage metadata: PNG 752x588 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n18 70%\nMajority of the exports to Egypt are further\n6 re-exported via the SUMED pipeline\na . n 60%\n1\n14 a\n50%\n12 | '\n1.0 ' 40%\n08 30%\nt\n0.6 i | !",
+      "keywords": [
+        "japan",
+        "arabia",
+        "eee",
+        "asset",
+        "egypt",
+        "image",
+        "intra-saudi",
+        "mas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 335,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports__s04_linked_asset_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96fd64d182d1_png",
+      "doc_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports",
+      "parent_id": "breakwave_insights_insights_2026-03-06_2026_03_06_strait_of_hormuz_alternatives_for_crude_exports__root",
+      "title": "Linked asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96fd64d182d1.png",
+      "section_path": [
+        "Linked asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96fd64d182d1.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96fd64d182d1.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96fd64d182d1.png\n\nLinked image asset: 2026-03-06_strait-of-hormuz-alternatives-for-crude-exports_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_96fd64d182d1.png\n\nImage metadata: PNG 754x703 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n‘ o\nShahid Rajaee Port\n---- IR) 2 ge\né g : es\nCish [IR] Bandar Lengeh [IR] :\nt 4 Ls ;\noy %\n9 . m ; er 64\nHi Terminal [AE]\nSirri Istand [IR] layieh Toa Kean me\n\"ik © Bandar-e-Jask [IR]\nFateh Terminal [AE]\namriyah AE] ; IX\n.",
+      "keywords": [
+        "asset",
+        "image",
+        "terminal",
+        "abel",
+        "akin",
+        "alii",
+        "amriyah",
+        "bandar"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 364,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

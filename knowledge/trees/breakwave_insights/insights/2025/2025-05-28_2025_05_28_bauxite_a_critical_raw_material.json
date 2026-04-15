@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-05-28_2025_05_28_bauxite_a_critical_raw_material__root",
+  "doc_id": "breakwave_insights_insights_2025-05-28_2025_05_28_bauxite_a_critical_raw_material",
+  "parent_id": null,
+  "title": "Bauxite: A critical raw material",
+  "section_path": [
+    "Bauxite: A critical raw material"
+  ],
+  "section_path_text": "Bauxite: A critical raw material",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Nikolaos Tagoulis\nGuinea's military government recent decision to revoke 51 mining licenses, for bauxite, gold, diamond, graphite, and iron due to noncompliance issues underscores a growing wave of \"resource nationalism\" across sub-Saharan Africa. This move, citing violations of national mining code, highlights a trend where African nations aim to secure a larger share of resource revenues through revised policies. Such actions introduce heightened risks for investors and supply chains, signaling the West African nation's intent for tighter state control over its mineral wealth.",
+  "keywords": [
+    "capesize",
+    "china",
+    "australia",
+    "west_africa",
+    "bauxite",
+    "trade",
+    "aluminum",
+    "exports",
+    "global",
+    "demand",
+    "asset",
+    "critical"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1093,
+  "source_path": "reports/breakwave/2025/2025-05-28_bauxite-a-critical-raw-material.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/5/28/bauxite-a-critical-raw-material",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-05-28_2025_05_28_bauxite_a_critical_raw_material__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-05-28_2025_05_28_bauxite_a_critical_raw_material",
+      "parent_id": "breakwave_insights_insights_2025-05-28_2025_05_28_bauxite_a_critical_raw_material__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Nikolaos Tagoulis\nGuinea's military government recent decision to revoke 51 mining licenses, for bauxite, gold, diamond, graphite, and iron due to noncompliance issues underscores a growing wave of \"resource nationalism\" across sub-Saharan Africa. This move, citing violations of national mining code, highlights a trend where African nations aim to secure a larger share of resource revenues through revised policies.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "west_africa",
+        "bauxite",
+        "trade",
+        "aluminum",
+        "exports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 847,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-05-28_2025_05_28_bauxite_a_critical_raw_material__s02_linked_asset_2025_05_28_bauxite_a_critical_raw_material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f_png",
+      "doc_id": "breakwave_insights_insights_2025-05-28_2025_05_28_bauxite_a_critical_raw_material",
+      "parent_id": "breakwave_insights_insights_2025-05-28_2025_05_28_bauxite_a_critical_raw_material__root",
+      "title": "Linked asset: 2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png",
+      "section_path": [
+        "Linked asset: 2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png"
+      ],
+      "section_path_text": "Linked asset: 2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png\n\nLinked image asset: 2025-05-28_bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png\n\nImage metadata: PNG 465x266 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nBauxite Seaborne Trade CAGR 1996-2025\n12\n9.6%\n10%\n8 69%\n6\n| ™ |\n2\n0 ||\n1996-2005 2006-2015 2016-2025",
+      "keywords": [
+        "bauxite",
+        "asset",
+        "image",
+        "bauxite-a-critical-raw-material_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc07dc495e9f.png",
+        "cagr",
+        "dpi",
+        "embedded",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 194,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

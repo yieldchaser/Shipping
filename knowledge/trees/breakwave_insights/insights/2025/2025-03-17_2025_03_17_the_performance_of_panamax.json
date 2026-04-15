@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-03-17_2025_03_17_the_performance_of_panamax__root",
+  "doc_id": "breakwave_insights_insights_2025-03-17_2025_03_17_the_performance_of_panamax",
+  "parent_id": null,
+  "title": "The performance of Panamax",
+  "section_path": [
+    "The performance of Panamax"
+  ],
+  "section_path_text": "The performance of Panamax",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nIn the realm of botanical marvels, the lotus flower stands as a symbol of purity, resilience, and the triumph of beauty over adversity. Its remarkable journey from the murky depths of mud to the pristine surface of the water serves as a powerful metaphor for overcoming struggle and transformation. Yet, defining what constitutes the \"murky depths\" and the \"pristine surface\" can often be elusive.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "pacific",
+    "singapore",
+    "grain",
+    "million",
+    "percent",
+    "tonnes"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1564,
+  "source_path": "reports/breakwave/2025/2025-03-17_the-performance-of-panamax.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/3/17/the-performance-of-panamax",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-03-17_2025_03_17_the_performance_of_panamax__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-03-17_2025_03_17_the_performance_of_panamax",
+      "parent_id": "breakwave_insights_insights_2025-03-17_2025_03_17_the_performance_of_panamax__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nIn the realm of botanical marvels, the lotus flower stands as a symbol of purity, resilience, and the triumph of beauty over adversity. Its remarkable journey from the murky depths of mud to the pristine surface of the water serves as a powerful metaphor for overcoming struggle and transformation.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "pacific",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1269,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-03-17_2025_03_17_the_performance_of_panamax__s02_linked_asset_2025_03_17_the_performance_of_panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee_png",
+      "doc_id": "breakwave_insights_insights_2025-03-17_2025_03_17_the_performance_of_panamax",
+      "parent_id": "breakwave_insights_insights_2025-03-17_2025_03_17_the_performance_of_panamax__root",
+      "title": "Linked asset: 2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png",
+      "section_path": [
+        "Linked asset: 2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png"
+      ],
+      "section_path_text": "Linked asset: 2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png\n\nLinked image asset: 2025-03-17_the-performance-of-panamax_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_22859037edee.png\n\nImage metadata: PNG 936x350 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nean\n$21.000\n$19.000\n$17.000\n$15.000 7\n$13.000 4\n$11.000\n$9.000\n$7.000\n$5.000. _----S- IT +7-r our wmaee -S>- ea\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\nSource: Baltic Exchange, Doric Research --PSTC Avg 2019-2023 ---P5STC 2024 --mePSTC 2025",
+      "keywords": [
+        "panamax",
+        "asset",
+        "image",
+        "source",
+        "apr",
+        "aug",
+        "avg",
+        "dec"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 247,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

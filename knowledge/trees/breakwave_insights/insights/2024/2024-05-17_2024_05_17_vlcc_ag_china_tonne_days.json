@@ -1,0 +1,342 @@
+{
+  "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+  "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+  "parent_id": null,
+  "title": "VLCC AG-China tonne days",
+  "section_path": [
+    "VLCC AG-China tonne days"
+  ],
+  "section_path_text": "VLCC AG-China tonne days",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSnapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 20, May 17, 2024\nImage reference: Στιγμιότυπο οθόνης 2024-05-17 151213.png | assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d805eba90cb.png\nAt the end of the second week of May, the demand growth for dirty tonne-days continues to challenge the solid improvement in market prices, particularly on the VLCC MEG-China route. However, a positive factor is the pace of Chinese crude oil imports , which rose significantly in April, increasing by 5.5% compared to the previous year. This increase is partly due to refiners ramping up imports in anticipation of a fully recovered Labor Day holiday travel season.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "asset",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 5793,
+  "source_path": "reports/breakwave/2024/2024-05-17_vlcc-ag-china-tonne-days.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/5/17/vlcc-ag-china-tonne-days",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Snapshot of Crude and Product Freight Rates, Supply-Demand\nWeek 20, May 17, 2024\nImage reference: Στιγμιότυπο οθόνης 2024-05-17 151213.png | assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d805eba90cb.png\nAt the end of the second week of May, the demand growth for dirty tonne-days continues to challenge the solid improvement in market prices, particularly on the VLCC MEG-China route. However, a positive factor is the pace of Chinese crude oil imports , which rose significantly in April, increasing by 5.5% compared to the previous year.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "meg",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1851,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s02_linked_asset_2024_05_17_vlcc_ag_china_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d805eba90cb_png",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d805eba90cb.png",
+      "section_path": [
+        "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d805eba90cb.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d805eba90cb.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d805eba90cb.png\n\nLinked image asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4d805eba90cb.png\n\nImage metadata: PNG 747x616 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nChart of the Week: VLCC AG-China tonne days\nThis week's chart highlights the trend in VLCC (Very Large Crude Carrier) tonne-days\ngrowth, which has been decreasing consistently since our last review in week 17, just\nbefore the end of April. CHART OF THE WEEK 20, Tanker Market Monitor\nTonne Days\n75M\n70M\n100 a\n‘ =\né 65M z\n2\n60M so\n55M\nJan 2022 Jul 2022 Jan 2023 Jul 2023 Jan 2024\n@Tonne Days @ Rate",
+      "keywords": [
+        "vlcc",
+        "china",
+        "chart",
+        "days",
+        "jan",
+        "tonne",
+        "asset",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 267,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s03_linked_asset_2024_05_17_vlcc_ag_china_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3197c4a9e4b0_png",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3197c4a9e4b0.png",
+      "section_path": [
+        "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3197c4a9e4b0.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3197c4a9e4b0.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3197c4a9e4b0.png\n\nLinked image asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3197c4a9e4b0.png\n\nImage metadata: PNG 758x580 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSECTION 1/ FREIGHT\nMarket Rates (WS)\n‘Dirty' WS - Steady\nVLCC - Suezmax - Aframax\nWeekly Trends, Dirty Rates\nBB VLCC MEG/China Wi Suez Wafr Cont WB Suez Baltic Med Wh afra Med\na0\n400\n3580\n300\n£ 250\n200\n150\n100\noO ery a tee\nSS FS s<sseseseseesrsesesegegsgssgsseeegges\nS$ 2222255253535 222 22 2322222 8\nRH € FFG FH KKK KRHRAKRRRRKRSE FSF FS SRRARKRRA\nSSF FSFRSKSRKRKEKEKEKERKEKEKRKEX* FSF FEKKKERS",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "meg",
+        "west_africa",
+        "asset",
+        "dirty"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 317,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s04_linked_asset_2024_05_17_vlcc_ag_china_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e62fed335683_png",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e62fed335683.png",
+      "section_path": [
+        "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e62fed335683.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e62fed335683.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e62fed335683.png\n\nLinked image asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e62fed335683.png\n\nImage metadata: PNG 778x476 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\n‘Product' WS\nLR2 Firmer\nWeekly Trends, Clean LR2\n350\n300\ng\nied\n&\ng=\n150\n200\nvs + © ff xn x n we eoeoesess$§gege7., ,1( st ££ @\nSSESSSSSSSSS SSS Ss SESE SEES\nSSHSRBSRRREHBKERBEBBSKRBRBRSERBSESESEEEES\nBERRRSRRRRRRRERRSERKERFHHESRE RRR",
+      "keywords": [
+        "vlcc",
+        "china",
+        "asset",
+        "image",
+        "lr2",
+        "berrrsrrrrrrrerrserkerfhhesre",
+        "clean",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 248,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s05_linked_asset_2024_05_17_vlcc_ag_china_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_303b2abe6d44_png",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_303b2abe6d44.png",
+      "section_path": [
+        "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_303b2abe6d44.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_303b2abe6d44.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_303b2abe6d44.png\n\nLinked image asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_303b2abe6d44.png\n\nImage metadata: PNG 745x380 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nLR1 Steady\nWeekly Trends, Clean Panamax\n600\nS00\n\"\n2 400\n3\n2\n4\n5 200\n200\nSSPELsSsRSeegexsre<segygsseLseggggEs\nSssSsSsSssSsSssssssessezszgezrererssesse ss\nmnmnannmnnmn mmn nnn mn mm mM NSenegansgs#tstst+ststet\n~~ NN KS N NRHN HE NHEeEONROUONRlUCUN UN CUCUCNRCUNNDCUCUhNNDUchFTCUCUOUCUC COC OUCUCUCUTUCUhN HR NE KR HRN\nRRRRRRRRKRRKRERKRRKRRKRKRRKRRKRREKSNSNKSNKRKRKRKRR",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "china",
+        "asset",
+        "image",
+        "clean",
+        "coc",
+        "cucucnrcunndcucuhnnduchftcucuoucuc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 335,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s06_linked_asset_2024_05_17_vlcc_ag_china_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62db2ec39064_png",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62db2ec39064.png",
+      "section_path": [
+        "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62db2ec39064.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62db2ec39064.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62db2ec39064.png\n\nLinked image asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_62db2ec39064.png\n\nImage metadata: PNG 681x422 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\n‘ ,\nClean\nMR Firmer\nWeekly Trends, Clean MR\nBE mar2 Cont/usac Bi rz usa/cont ari Baltic/uKC\n1000,\n800\n3 600\ng\n400\nN s ££ ff nN 4 x z= Se g g N z= J xn F es 2 §\n= = a o a oo o\nSSESESSSERI I = Fz SSS SPSSs Es\nom m m mo m bel m m m m Del m m m m se] m x i NX Xx = a = <2 sft\nN N N N N N NX N N N N N N N N N Nn o - co J nN N Nn N NN\ncs 7 cs os oc cs Ss - ococse cs J on N N N Ss cs cos cscs\nN N N N N N N N N N N N N N N N Nn N N N N NN",
+      "keywords": [
+        "vlcc",
+        "china",
+        "asset",
+        "clean",
+        "image",
+        "ari",
+        "baltic/ukc",
+        "bel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 345,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s07_linked_asset_2024_05_17_vlcc_ag_china_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_223c18d0c765_png",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_223c18d0c765.png",
+      "section_path": [
+        "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_223c18d0c765.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_223c18d0c765.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_223c18d0c765.png\n\nLinked image asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_223c18d0c765.png\n\nImage metadata: PNG 892x692 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\n‘Dirty' (# vessels) - Mixed\na 8\n: )\n3 6 Average PAM aN al J : My My Moth Vat I\n7 woe ve a\n49\n=\n5 80\n3\n=\n5 6\n™\n8\na\n40\n= 40\n2 Average\nE30\n&\n20\n* 40\n3 30\n3 2\ns Average\n= 10\n°\no N A oe 2 o N a oe 2 o nN z= o co Ss N x = J <<] co N = o ao\nSS 3 2.3 523325353 5335 332 222232532325 58\nbal bal o o ~» ~» bal bel oO oO o ~\" an nm be] ie] ie] x x x NX = = = = rs\nss SSSSSSSESESBSESSESESSEREKKSESSES SS\nN N N N N N N N N N N N N N N N N N N N N NN\nWeekly Supply Trend, Deployment: spotirelet. VLCC AG_Ras Tanura - Far East, 20 days forward / Suez Walr_Bonny - East 28 days forward /\nAfra Mad_Novorossiysk, 6 days forward / Afra Baltic Primorsk, 10 days forward",
+      "keywords": [
+        "vlcc",
+        "china",
+        "days",
+        "forward",
+        "average",
+        "bal",
+        "afra",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 436,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s08_linked_asset_2024_05_17_vlcc_ag_china_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae05d2435bc3_png",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae05d2435bc3.png",
+      "section_path": [
+        "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae05d2435bc3.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae05d2435bc3.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae05d2435bc3.png\n\nLinked image asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ae05d2435bc3.png\n\nImage metadata: PNG 802x467 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\n' '\nClean\nLR2 (#vessels) - Increasing\n1s\n3\n|\n10\nQ Avewae\nNu\n«\ns\n5\nc N = oO o So N + o J 4 in = g g sc N N = ec @ cs y t+ ce es\nN Ss x x N mm mm bau] » on s » yy = = = = = hal baal aN\nSS sb 222 22225252252 2232 858 FS ts SSB SESE\nRRKAKRRRRRRRCKAKRRKRREKSESESSRERR RAS\nJ cs Ss cs So So So cs - J cs Ss Ss So So - J N N N N Ss So So - csc\nLSkKCRCReKCFFCkCReeegees £8 Fee\nWeekly Supply Trand, Deployment: spotiralet\nLR2 AG_Jubail, 10 days forward! MR2 Cont_Amsterdam, 8 days forward / MR1 Algeria_Skikda, 6 days forward",
+      "keywords": [
+        "vlcc",
+        "china",
+        "days",
+        "forward",
+        "asset",
+        "image",
+        "lr2",
+        "ag_jubail"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 372,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s09_linked_asset_2024_05_17_vlcc_ag_china_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d5b5d9f75f_png",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d5b5d9f75f.png",
+      "section_path": [
+        "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d5b5d9f75f.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d5b5d9f75f.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d5b5d9f75f.png\n\nLinked image asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a2d5b5d9f75f.png\n\nImage metadata: PNG 711x417 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nMR (#vessels) - Mixed\n=\nZ 50\na \\\n; 40\na\n3 Average Magi) 1 AA Nand bs tA - f\n3 20 Vu Wwe Wi Vey 4 Wy Vn\n2 20\nFO) . Ay, ,\n2 MW, Man ap A ha Mey Wa\nBao) We \"WWM NA nan WW op WV Ve Mi pM, Ay\n: V Vd \"4 P / Wy \\\" YAW f WV J \\/ Ans a\n\\/ \\/ V N \\\na 20 A ~ v\ng V\n=o\nSo N <A oc 2 cs N + o oO oo cs N N s © 2 = N st oe eo\nSXeeessegesxzssessggseesexsgxee seg\nSSB SSESBSBSB SESS EB RBBB SB SBSB REE ¢tEBBBSBESSE\n~m ~m on\" iw) iw m nm ~m m m ~m ~m iw) iw) m mn mn NX x N N z sz A A cr\nN N N N N XN NS Nn it iy N nN N N NX XN XN Ss Ss Ss So nN N N N NN\nSo So cs = Cc = So oS o So So cs Cc = cs N N N N So cs = cs co\nNN S&S S&S KK RKRKRKRKRKR KR KK RK NS 8 & &KR\nWeekly Supply Trend, Deployment spotretet.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "asset",
+        "days",
+        "forward",
+        "image",
+        "algeria_skikda",
+        "ans"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 501,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s10_linked_asset_2024_05_17_vlcc_ag_china_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb2f76a282e_png",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb2f76a282e.png",
+      "section_path": [
+        "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb2f76a282e.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb2f76a282e.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb2f76a282e.png\n\nLinked image asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_dfb2f76a282e.png\n\nImage metadata: PNG 757x518 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nSECTION 3/ DEMAND (Tonne Days)\n‘Dirty' Decreasing\nBvicc Bi suez BB Aframax\n110%\n105%\n=\n¥ 100%\n°\n&\n95%\n90%\nGXSkk<sseeggseszssres<seggssgseggesseges\nSSS 5323232532532 32353 5532525 5 FS SEG EGE BESBEBEBB SE\nnmananmmanannmnnnnnnmnnmnnmnnmnmmnmes nas saesses8Fisss\nNW NN NNN N NSH DHS HE DRE De ene nen sees SHKReN KR NKR NH\nooocesceesceeseseeeseseceesgeseseeseenNntenenn eceseoeeseseese €&\nFLRLRKLRKCRKCSCReesCrReCReRRRRR RRL",
+      "keywords": [
+        "vlcc",
+        "aframax",
+        "china",
+        "asset",
+        "image",
+        "besbebebb",
+        "bvicc",
+        "days"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 333,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__s11_linked_asset_2024_05_17_vlcc_ag_china_tonne_days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23df4be284a8_png",
+      "doc_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days",
+      "parent_id": "breakwave_insights_insights_2024-05-17_2024_05_17_vlcc_ag_china_tonne_days__root",
+      "title": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23df4be284a8.png",
+      "section_path": [
+        "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23df4be284a8.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23df4be284a8.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23df4be284a8.png\n\nLinked image asset: 2024-05-17_vlcc-ag-china-tonne-days_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_23df4be284a8.png\n\nImage metadata: PNG 775x426 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\n‘Clean' Decreasing\nBH Panamax Mme Mi mez\n,™\nS 100%\n«\n=\n90%\n= 100%\n:\nFS 90%\nx\né\n80%\nGSSKLRLSRSRRSLSLSSARIS<ESSSHSeERESR\nSSE SSE 8 833532 58 FS SSSBSBESSESS BEEBE FESESBEBSESE\nQKRRRKSCKRRKARRAKRRRRSRSESESSTRERESR\nFLLSRCRCRCRs<RCRkReegees<egeegeery***FCRRgeeR",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "china",
+        "asset",
+        "image",
+        "sse",
+        "beebe",
+        "clean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 275,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

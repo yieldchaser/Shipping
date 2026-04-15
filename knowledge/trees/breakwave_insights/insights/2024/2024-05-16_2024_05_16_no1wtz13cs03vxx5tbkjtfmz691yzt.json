@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__root",
+  "doc_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt",
+  "parent_id": null,
+  "title": "China's weakened crude oil",
+  "section_path": [
+    "China's weakened crude oil"
+  ],
+  "section_path_text": "China's weakened crude oil",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis week, in the East, we discuss falling VLCC utilisation to China and record-high LR2 global tonne-miles in April. In the West, we look at the most likely Aframax demand scenarios after the TMX opening, and we explore the outlook for TC2 and Atlantic Basin MRs. By Mary Melton\nImage reference: Στιγμιότυπο οθόνης 2024-05-16 101526.png | assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8f708ad8bd0.png\nImage reference: Στιγμιότυπο οθόνης 2024-05-16 101708.png | assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa8e659cc50.png\nChina's crude oil demand is slowing down amidst declining refinery run rates among Shandong teapot refiners and the Yulong startup delay.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "aframax",
+    "china",
+    "atlantic",
+    "meg",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "products",
+    "gas",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3119,
+  "source_path": "reports/breakwave/2024/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/5/16/no1wtz13cs03vxx5tbkjtfmz691yzt",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt",
+      "parent_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, in the East, we discuss falling VLCC utilisation to China and record-high LR2 global tonne-miles in April. In the West, we look at the most likely Aframax demand scenarios after the TMX opening, and we explore the outlook for TC2 and Atlantic Basin MRs.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "china",
+        "atlantic",
+        "meg",
+        "europe",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1462,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__s02_linked_asset_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8f708ad8bd0_png",
+      "doc_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt",
+      "parent_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__root",
+      "title": "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8f708ad8bd0.png",
+      "section_path": [
+        "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8f708ad8bd0.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8f708ad8bd0.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8f708ad8bd0.png\n\nLinked image asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_f8f708ad8bd0.png\n\nImage metadata: PNG 850x446 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nEast of Suez West of Suez\nDIRTY DIRTY\nChina's weakened crude oil demand TMX Aframax demand scenarios: 12-16\nreflected in lower VLCC utilisation Aframax loads per month most likely\nCLEAN CLEAN\nLR2 tonne-miles reach record highs in TC2 rally supply-side driven as PADD 1\nApril, propelled by Cape of Good Hope gasoline demand disappoints\nrerouting",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "china",
+        "crude_oil",
+        "products",
+        "gas",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 248,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__s03_linked_asset_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa8e659cc50_png",
+      "doc_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt",
+      "parent_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__root",
+      "title": "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa8e659cc50.png",
+      "section_path": [
+        "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa8e659cc50.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa8e659cc50.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa8e659cc50.png\n\nLinked image asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_efa8e659cc50.png\n\nImage metadata: PNG 892x732 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nANALYSIS / EAST OF SUEZ / DIRTY\nChina's weakened crude oil demand reflected in\nlower VLCC utilisation\n240\n220\n200\n°\n& 180\nra\ns\ncs\ns 160\n2\n140\n120\n100\nJan-21 Juk21 Jan-22 Juk22 Jan-23 Juk23 Jan-24\nVLCC utilisation to China (excl.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "crude_oil",
+        "asset",
+        "image",
+        "utilisation",
+        "analysis",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__s04_linked_asset_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0fa54ad5ee_png",
+      "doc_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt",
+      "parent_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__root",
+      "title": "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0fa54ad5ee.png",
+      "section_path": [
+        "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0fa54ad5ee.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0fa54ad5ee.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0fa54ad5ee.png\n\nLinked image asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_fa0fa54ad5ee.png\n\nImage metadata: PNG 813x683 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nANALYSIS / EAST OF SUEZ / CLEAN\nLR2 tonne-miles reach record highs in April,\npropelled by Cape of Good Hope rerouting\n150 60%\n140 50%\n130\ng 40%\n- 120\nro 30%\nCc\n© 110\n&\no 20%\n100\n90 10%\n80 0%\n® § § § § § § F< FF &F& & B sg\n§25 68 253 § § 25 8 § 2\nmmm Global --=% COGH (RHS)\nLR global tonne-miles (LHS) vs % of LR tonne-miles passing via COGH (RHS)",
+      "keywords": [
+        "capesize",
+        "tonne-miles",
+        "asset",
+        "cogh",
+        "global",
+        "image",
+        "rhs",
+        "analysis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 303,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__s05_linked_asset_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e20f20d79d82_png",
+      "doc_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt",
+      "parent_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__root",
+      "title": "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e20f20d79d82.png",
+      "section_path": [
+        "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e20f20d79d82.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e20f20d79d82.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e20f20d79d82.png\n\nLinked image asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e20f20d79d82.png\n\nImage metadata: PNG 737x703 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nANALYSIS / WEST OF SUEZ / DIRTY\nTMX Aframax demand scenarios: 12-16 Aframax\nloads per month most likely\n600\nEach scenario assumes an Aframax to\npartially load 550kb from Trans Mountain\n500 Westridge Marine Terminal\n400\n8 300\nx\n200\n100\n2024 YTD seaborne exports\n0\n12 Afras 16 Afras 22 Afras 30 Afras\nPotential seaborne crude exports per month from Vancouver after TMX start-up",
+      "keywords": [
+        "aframax",
+        "afras",
+        "asset",
+        "exports",
+        "image",
+        "month",
+        "per",
+        "seaborne"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 272,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__s06_linked_asset_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c36b8f75ce05_png",
+      "doc_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt",
+      "parent_id": "breakwave_insights_insights_2024-05-16_2024_05_16_no1wtz13cs03vxx5tbkjtfmz691yzt__root",
+      "title": "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c36b8f75ce05.png",
+      "section_path": [
+        "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c36b8f75ce05.png"
+      ],
+      "section_path_text": "Linked asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c36b8f75ce05.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c36b8f75ce05.png\n\nLinked image asset: 2024-05-16_no1wtz13cs03vxx5tbkjtfmz691yzt_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c36b8f75ce05.png\n\nImage metadata: PNG 862x707 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nANALYSIS / WEST OF SUEZ / CLEAN\nTC2 rally supply-side driven as PADD 1 gasoline\ndemand disappoints\n300\n250\n200\nw\n2\nE\n® 150\nCc\n£\nc\n=\n100\n50\n0 T T T ' T 1\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\nmmm Range 2016-2023 - mmAverage 2016-2023 9 eeeLast year Current year\nMRz2 tonne-miles for gasoline cargoes NW Europe-to-US Atlantic Coast (28-day moving average)",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "products",
+        "gas",
+        "asset",
+        "gasoline",
+        "image",
+        "year"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 286,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

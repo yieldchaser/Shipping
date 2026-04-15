@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__root",
+  "doc_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted",
+  "parent_id": null,
+  "title": "Aframax performance muted",
+  "section_path": [
+    "Aframax performance muted"
+  ],
+  "section_path_text": "Aframax performance muted",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis week, in the East, we investigate which vessels are transiting the Red Sea, and we discuss the increase in LRs repositioning from Europe to the Middle East. In the West, we explore the reasons for muted Aframax performance y-o-y. On the clean side, the increase in Panama Canal transits is leading to more MR supply in the Atlantic Basin, where demand is relatively muted.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "aframax",
+    "atlantic",
+    "pacific",
+    "meg",
+    "europe",
+    "products",
+    "gas",
+    "asset",
+    "image",
+    "east"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2652,
+  "source_path": "reports/breakwave/2024/2024-06-05_aframax-performance-muted.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/6/5/aframax-performance-muted",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted",
+      "parent_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, in the East, we investigate which vessels are transiting the Red Sea, and we discuss the increase in LRs repositioning from Europe to the Middle East. In the West, we explore the reasons for muted Aframax performance y-o-y.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "aframax",
+        "atlantic",
+        "pacific",
+        "meg",
+        "europe",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1299,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__s02_linked_asset_2024_06_05_aframax_performance_muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e1def240e0e_png",
+      "doc_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted",
+      "parent_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__root",
+      "title": "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e1def240e0e.png",
+      "section_path": [
+        "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e1def240e0e.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e1def240e0e.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e1def240e0e.png\n\nLinked image asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7e1def240e0e.png\n\nImage metadata: PNG 757x432 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nEast of Suez West of Suez\nDIRTY DIRTY\nRed Sea transits dominated by Russian Aframax segment performing worse than\ncrude last year due to sanctions, increased\nparcelling requirements\nCLEAN\nLRs migrate towards the Middle East, CLEAN\nenticed by earnings Panama transits increase, but Atlantic\nBasin MR supply increases",
+      "keywords": [
+        "aframax",
+        "atlantic",
+        "asset",
+        "clean",
+        "dirty",
+        "east",
+        "image",
+        "suez"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 208,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__s03_linked_asset_2024_06_05_aframax_performance_muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92571230fc65_png",
+      "doc_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted",
+      "parent_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__root",
+      "title": "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92571230fc65.png",
+      "section_path": [
+        "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92571230fc65.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92571230fc65.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92571230fc65.png\n\nLinked image asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_92571230fc65.png\n\nImage metadata: PNG 982x687 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nANALYSIS / EAST OF SUEZ / DIRTY\nRed Sea transits dominated by Russian crude\nNo. of vessels\n0 10 20 30 40\nRussia crude tradeJinked\nintra-Middle East voyages |\nRussia products trade-linked ||\nMiddle East crude and product exports ||\nFast Asia biodiesel/chemicals [ij\nil tanker transits through Bab-el-Mandeb during May 24-28 by type of flow (excl.",
+      "keywords": [
+        "aframax",
+        "products",
+        "crude",
+        "east",
+        "asset",
+        "image",
+        "russia",
+        "transits"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 231,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__s04_linked_asset_2024_06_05_aframax_performance_muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2dd083b35173_png",
+      "doc_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted",
+      "parent_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__root",
+      "title": "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2dd083b35173.png",
+      "section_path": [
+        "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2dd083b35173.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2dd083b35173.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2dd083b35173.png\n\nLinked image asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2dd083b35173.png\n\nImage metadata: PNG 845x611 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nANALYSIS / EAST OF SUEZ / CLEAN\nLRs migrate towards the Middle East, enticed by\nearnings\n35\n30\n25\n2\noa\n8 20\ng\n2 15\n°\n4\n10\n\"ll ! lilt | dll / |\n0 nT (il\nJun-22 Sep-22 Dec-22 Mar-23 Jul-23 Oct-23 Jan-24 Apr-24\n@ Red Sea Gulf of Aden = Middle East Gulf (MEG)\nBallast LR voyages from Europe to the Middle East",
+      "keywords": [
+        "aframax",
+        "meg",
+        "europe",
+        "east",
+        "middle",
+        "asset",
+        "gulf",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 250,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__s05_linked_asset_2024_06_05_aframax_performance_muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c691c148f63_png",
+      "doc_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted",
+      "parent_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__root",
+      "title": "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c691c148f63.png",
+      "section_path": [
+        "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c691c148f63.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c691c148f63.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c691c148f63.png\n\nLinked image asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c691c148f63.png\n\nImage metadata: PNG 890x677 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nANALYSIS / WEST OF SUEZ / DIRTY\nAframax segment performing worse than last year\ndue to sanctions, increased parcelling requirements\n1100\nyoo\nn\nD>\ng\nQ 900\n6\nfe)\nZz\n800\n[| ooo\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\nAframax laden voyage counts on departures basis",
+      "keywords": [
+        "aframax",
+        "asset",
+        "image",
+        "aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_4c691c148f63.png",
+        "analysis",
+        "apr",
+        "aug",
+        "basis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 219,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__s06_linked_asset_2024_06_05_aframax_performance_muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5951b93b9c67_png",
+      "doc_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted",
+      "parent_id": "breakwave_insights_insights_2024-06-05_2024_06_05_aframax_performance_muted__root",
+      "title": "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5951b93b9c67.png",
+      "section_path": [
+        "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5951b93b9c67.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5951b93b9c67.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5951b93b9c67.png\n\nLinked image asset: 2024-06-05_aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5951b93b9c67.png\n\nImage metadata: PNG 787x655 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nPanama transits increase, but Atlantic Basin MR\nsupply increases\n1200\n1100\n1000\ng 900\n‘5\n{e)\na2\n800\n700\n600\nJan-22 Apr-22 Juk22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23 Jan-24 Apr-24\nPacific Atlantic",
+      "keywords": [
+        "aframax",
+        "atlantic",
+        "pacific",
+        "asset",
+        "image",
+        "aframax-performance-muted_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_5951b93b9c67.png",
+        "apr-22",
+        "apr-23"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 210,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

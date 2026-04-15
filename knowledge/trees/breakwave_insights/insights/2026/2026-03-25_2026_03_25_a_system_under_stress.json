@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-03-25_2026_03_25_a_system_under_stress__root",
+  "doc_id": "breakwave_insights_insights_2026-03-25_2026_03_25_a_system_under_stress",
+  "parent_id": null,
+  "title": "A system under stress",
+  "section_path": [
+    "A system under stress"
+  ],
+  "section_path_text": "A system under stress",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-03-25_a-system-under-stress_img_unsplash-image-vosp2wly3bs_5b6875639c4f.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe past week has confirmed that the disruption in the Arabian Gulf is no longer just a supply shock but a market distortion that is beginning to erode demand itself. What initially supported freight through panic, dislocation and risk premiums is now evolving into something more complex: a shrinking cargo base, trapped tonnage and an increasingly fragmented tanker market. On the crude side, the numbers are becoming difficult to ignore.",
+  "keywords": [
+    "brazil",
+    "atlantic",
+    "pacific",
+    "meg",
+    "crude_oil",
+    "gas",
+    "eee",
+    "see",
+    "are",
+    "eae",
+    "pee",
+    "aie"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2908,
+  "source_path": "reports/breakwave/2026/2026-03-25_a-system-under-stress.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/3/25/a-system-under-stress",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-03-25_2026_03_25_a_system_under_stress__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-03-25_2026_03_25_a_system_under_stress",
+      "parent_id": "breakwave_insights_insights_2026-03-25_2026_03_25_a_system_under_stress__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-03-25_a-system-under-stress_img_unsplash-image-vosp2wly3bs_5b6875639c4f.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe past week has confirmed that the disruption in the Arabian Gulf is no longer just a supply shock but a market distortion that is beginning to erode demand itself. What initially supported freight through panic, dislocation and risk premiums is now evolving into something more complex: a shrinking cargo base, trapped tonnage and an increasingly fragmented tanker market.",
+      "keywords": [
+        "atlantic",
+        "pacific",
+        "meg",
+        "crude_oil",
+        "are",
+        "but",
+        "effectively",
+        "already"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 768,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-25_2026_03_25_a_system_under_stress__s02_linked_asset_2026_03_25_a_system_under_stress_img_unsplash_image_vosp2wly3bs_5b6875639c4f_jpg",
+      "doc_id": "breakwave_insights_insights_2026-03-25_2026_03_25_a_system_under_stress",
+      "parent_id": "breakwave_insights_insights_2026-03-25_2026_03_25_a_system_under_stress__root",
+      "title": "Linked asset: 2026-03-25_a-system-under-stress_img_unsplash-image-vosp2wly3bs_5b6875639c4f.jpg",
+      "section_path": [
+        "Linked asset: 2026-03-25_a-system-under-stress_img_unsplash-image-vosp2wly3bs_5b6875639c4f.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-25_a-system-under-stress_img_unsplash-image-vosp2wly3bs_5b6875639c4f.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-25_a-system-under-stress_img_unsplash-image-vosp2wly3bs_5b6875639c4f.jpg\n\nLinked image asset: 2026-03-25_a-system-under-stress_img_unsplash-image-vosp2wly3bs_5b6875639c4f.jpg\n\nImage metadata: JPEG 2500x1406 mode=RGB\n\nOCR text:\nig '\ni a\n| Gi i sixeaictestan eater\none 5\napn \\\nBate ior = ia | = |\n= . : Sth, ‘ * ese (ere: z ee Se canes ek a ey pes 3\na SEAS, rs 2 oar Beenie ct ie BRS 3 J 3 DORA ee Tea RE = Nest 3 eile vale ‘ =e wGvonten : ; chee Pas\nse eoreaae aeaae : Sythe ; PRN SUeH eee A Aine or er eae Se Sacer Ne Na Sane | ait Osa tay aie Be a 4 ee Ee URN Het ease pi rabies a Sa Fudcae Oates Fa as\n: pee .",
+      "keywords": [
+        "brazil",
+        "gas",
+        "eee",
+        "see",
+        "eae",
+        "pee",
+        "aie",
+        "ree"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2101,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

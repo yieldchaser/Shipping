@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf__root",
+  "doc_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf",
+  "parent_id": null,
+  "title": "India's Hydropower Production Back in Contraction",
+  "section_path": [
+    "India's Hydropower Production Back in Contraction"
+  ],
+  "section_path_text": "India's Hydropower Production Back in Contraction",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Dry Bulk Report, India produced approximately 139.2 billion kilowatt hours of electricity in June. This is down month-on-month by 5.2 billion kilowatt hours (-4%) but is up year-on-year by 12 billion kilowatt hours (10%). Image reference: assets/2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart1_b234f1549b91.jpg\nNoteworthy is that hydropower output ended up falling back into a year-on-year contraction, as we believed was likely to occur.",
+  "keywords": [
+    "india",
+    "asset",
+    "image",
+    "kilowatt",
+    "billion",
+    "hours",
+    "linked",
+    "kwh",
+    "hydropower",
+    "year-on-year",
+    "jpeg",
+    "metadata"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 954,
+  "source_path": "reports/breakwave/2024/2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/7/12/3zoo1mgg8zlaoaisfdbplxx1785uaf",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf",
+      "parent_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Dry Bulk Report, India produced approximately 139.2 billion kilowatt hours of electricity in June. This is down month-on-month by 5.2 billion kilowatt hours (-4%) but is up year-on-year by 12 billion kilowatt hours (10%).",
+      "keywords": [
+        "india",
+        "kilowatt",
+        "billion",
+        "hours",
+        "year-on-year",
+        "hydropower",
+        "image",
+        "output"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 345,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf__s02_linked_asset_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart1_b234f1549b91_jpg",
+      "doc_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf",
+      "parent_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf__root",
+      "title": "Linked asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart1_b234f1549b91.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart1_b234f1549b91.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart1_b234f1549b91.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart1_b234f1549b91.jpg\n\nLinked image asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart1_b234f1549b91.jpg\n\nImage metadata: JPEG 667x218 mode=RGB\n\nOCR text:\nIndian Electricity Production (2019 - 2024)\n160kwh\n80kwh\n2019 2020 2021 2022 2023 2024\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "india",
+        "asset",
+        "image",
+        "kwh",
+        "billion",
+        "electricity",
+        "hours",
+        "indian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 148,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf__s03_linked_asset_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart2_dac81d889a32_jpg",
+      "doc_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf",
+      "parent_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf__root",
+      "title": "Linked asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart2_dac81d889a32.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart2_dac81d889a32.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart2_dac81d889a32.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart2_dac81d889a32.jpg\n\nLinked image asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart2_dac81d889a32.jpg\n\nImage metadata: JPEG 521x431 mode=RGB\n\nOCR text:\n30-Day Rainfall Compared to Historical Average\nCOP \\? +270mm\n+210mm\n+150mm\nCS 4 Ga +90mm\n: +30mm\n: 3 +15mm\n-15mm\n; -30mm\nwa -90mm\n‘ -150mm\n-210mm\n-270mm\n-",
+      "keywords": [
+        "asset",
+        "image",
+        "average",
+        "compared",
+        "cop",
+        "day",
+        "historical",
+        "jpeg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 177,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf__s04_linked_asset_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart3_84b14cfab74c_jpg",
+      "doc_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf",
+      "parent_id": "breakwave_insights_insights_2024-07-12_2024_07_12_3zoo1mgg8zlaoaisfdbplxx1785uaf__root",
+      "title": "Linked asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart3_84b14cfab74c.jpg",
+      "section_path": [
+        "Linked asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart3_84b14cfab74c.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart3_84b14cfab74c.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart3_84b14cfab74c.jpg\n\nLinked image asset: 2024-07-12_3zoo1mgg8zlaoaisfdbplxx1785uaf_img_chart3_84b14cfab74c.jpg\n\nImage metadata: JPEG 667x218 mode=RGB\n\nOCR text:\nIndian Hydropower Production (2019 - 2024)\n24kwh\n16kwh\n8kwh\nOkwh\n2019 2020 2021 2022 2023 2024\nUnit: Billion kilowatt hours",
+      "keywords": [
+        "india",
+        "kwh",
+        "asset",
+        "image",
+        "billion",
+        "hours",
+        "hydropower",
+        "indian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 159,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-06-17_2024_06_17_global_economy_appears_to_be_stabilizing_in_early_2024__root",
+  "doc_id": "breakwave_insights_insights_2024-06-17_2024_06_17_global_economy_appears_to_be_stabilizing_in_early_2024",
+  "parent_id": null,
+  "title": "Global economy appears to be stabilizing in early 2024",
+  "section_path": [
+    "Global economy appears to be stabilizing in early 2024"
+  ],
+  "section_path_text": "Global economy appears to be stabilizing in early 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nGlobal trade growth is expected to recover to 2.5 percent in the current year, showing improvement from the previous year but still significantly below the average rates observed in the two decades before the pandemic. By Michalis Voutsinas\nAfter enduring successive years of overlapping negative shocks, the global economy appears to be stabilizing in early 2024, according to the World Bank. Despite facing increased financing costs and heightened geopolitical tensions, global economic activity has shown signs of strengthening during the last six months.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "container",
+    "china",
+    "europe",
+    "japan",
+    "growth",
+    "global",
+    "percent",
+    "trade"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1452,
+  "source_path": "reports/breakwave/2024/2024-06-17_global-economy-appears-to-be-stabilizing-in-early-2024.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/6/17/global-economy-appears-to-be-stabilizing-in-early-2024",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-06-17_2024_06_17_global_economy_appears_to_be_stabilizing_in_early_2024__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-06-17_2024_06_17_global_economy_appears_to_be_stabilizing_in_early_2024",
+      "parent_id": "breakwave_insights_insights_2024-06-17_2024_06_17_global_economy_appears_to_be_stabilizing_in_early_2024__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Global trade growth is expected to recover to 2.5 percent in the current year, showing improvement from the previous year but still significantly below the average rates observed in the two decades before the pandemic. By Michalis Voutsinas\nAfter enduring successive years of overlapping negative shocks, the global economy appears to be stabilizing in early 2024, according to the World Bank.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "europe",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1046,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-06-17_2024_06_17_global_economy_appears_to_be_stabilizing_in_early_2024__s02_linked_asset_2024_06_17_global_economy_appears_to_be_stabilizing_in_early_2024_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ddc4864d45_png",
+      "doc_id": "breakwave_insights_insights_2024-06-17_2024_06_17_global_economy_appears_to_be_stabilizing_in_early_2024",
+      "parent_id": "breakwave_insights_insights_2024-06-17_2024_06_17_global_economy_appears_to_be_stabilizing_in_early_2024__root",
+      "title": "Linked asset: 2024-06-17_global-economy-appears-to-be-stabilizing-in-early-2024_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ddc4864d45.png",
+      "section_path": [
+        "Linked asset: 2024-06-17_global-economy-appears-to-be-stabilizing-in-early-2024_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ddc4864d45.png"
+      ],
+      "section_path_text": "Linked asset: 2024-06-17_global-economy-appears-to-be-stabilizing-in-early-2024_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ddc4864d45.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-06-17_global-economy-appears-to-be-stabilizing-in-early-2024_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ddc4864d45.png\n\nLinked image asset: 2024-06-17_global-economy-appears-to-be-stabilizing-in-early-2024_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_a5ddc4864d45.png\n\nImage metadata: PNG 938x387 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nee Growth of global goods trade See Global PMI new export orders\nWorld Bank, Doric Research c\n5! 8 > Index, 50 += expansion\n6\n4\n2 50\n0\n2\n4 4 -\njav-22 Amp-22 lovA-22 Oxt-22 lav-23 Amp-23 lovA-23 Oxt-23 lav-24 Jan-23 Apr-23 Jul-23 Oct-23 Jan-24 Apr-24\n% .",
+      "keywords": [
+        "global",
+        "growth",
+        "trade",
+        "asset",
+        "average",
+        "image",
+        "amp-22",
+        "amp-23"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 345,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

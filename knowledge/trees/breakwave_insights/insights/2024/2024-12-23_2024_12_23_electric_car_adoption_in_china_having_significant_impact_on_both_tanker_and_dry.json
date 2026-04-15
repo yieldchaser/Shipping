@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2024-12-23_2024_12_23_electric_car_adoption_in_china_having_significant_impact_on_both_tanker_and_dry__root",
+  "doc_id": "breakwave_insights_insights_2024-12-23_2024_12_23_electric_car_adoption_in_china_having_significant_impact_on_both_tanker_and_dry",
+  "parent_id": null,
+  "title": "Electric Car adoption in China Having Significant Impact on Both Tanker and Dry Bulk Shipping Markets",
+  "section_path": [
+    "Electric Car adoption in China Having Significant Impact on Both Tanker and Dry Bulk Shipping Markets"
+  ],
+  "section_path_text": "Electric Car adoption in China Having Significant Impact on Both Tanker and Dry Bulk Shipping Markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nElectric car adoption in China is having a significant impact on both the tanker and dry bulk shipping markets. For the tanker shipping market, the unfortunate fact is that electric cars are cannibalizing what would have instead been purchases of gas engine cars that are fueled by oil. If electric cars did not exist, China's oil demand would be off the charts.",
+  "keywords": [
+    "china",
+    "coal",
+    "crude_oil",
+    "gas",
+    "electric",
+    "cars",
+    "electricity",
+    "not",
+    "power",
+    "adoption",
+    "asset",
+    "car"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 482,
+  "source_path": "reports/breakwave/2024/2024-12-23_electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024/12/23/electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry-bulk-shipping-markets",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-12-23_2024_12_23_electric_car_adoption_in_china_having_significant_impact_on_both_tanker_and_dry__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-12-23_2024_12_23_electric_car_adoption_in_china_having_significant_impact_on_both_tanker_and_dry",
+      "parent_id": "breakwave_insights_insights_2024-12-23_2024_12_23_electric_car_adoption_in_china_having_significant_impact_on_both_tanker_and_dry__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nElectric car adoption in China is having a significant impact on both the tanker and dry bulk shipping markets. For the tanker shipping market, the unfortunate fact is that electric cars are cannibalizing what would have instead been purchases of gas engine cars that are fueled by oil.",
+      "keywords": [
+        "china",
+        "coal",
+        "crude_oil",
+        "gas",
+        "electric",
+        "cars",
+        "electricity",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 286,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-12-23_2024_12_23_electric_car_adoption_in_china_having_significant_impact_on_both_tanker_and_dry__s02_linked_asset_2024_12_23_electric_car_adoption_in_china_having_significant_impact_on_both_tanker_and_dry_img_chart_68bdd5be3d7c_jpg",
+      "doc_id": "breakwave_insights_insights_2024-12-23_2024_12_23_electric_car_adoption_in_china_having_significant_impact_on_both_tanker_and_dry",
+      "parent_id": "breakwave_insights_insights_2024-12-23_2024_12_23_electric_car_adoption_in_china_having_significant_impact_on_both_tanker_and_dry__root",
+      "title": "Linked asset: 2024-12-23_electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry_img_chart_68bdd5be3d7c.jpg",
+      "section_path": [
+        "Linked asset: 2024-12-23_electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry_img_chart_68bdd5be3d7c.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-12-23_electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry_img_chart_68bdd5be3d7c.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-12-23_electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry_img_chart_68bdd5be3d7c.jpg\n\nLinked image asset: 2024-12-23_electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry_img_chart_68bdd5be3d7c.jpg\n\nImage metadata: JPEG 600x274 mode=RGB\n\nOCR text:\nChinese Coal Imports (2021 - 2024)\n6Omt\n40mt\n20mt\nOmt\n2021 2022 2023 2024",
+      "keywords": [
+        "china",
+        "coal",
+        "asset",
+        "image",
+        "omt",
+        "chinese",
+        "electric-car-adoption-in-china-having-significant-impact-on-both-tanker-and-dry_img_chart_68bdd5be3d7c.jpg",
+        "imports"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 149,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

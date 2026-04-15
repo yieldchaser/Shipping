@@ -1,0 +1,286 @@
+{
+  "node_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__root",
+  "doc_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk",
+  "parent_id": null,
+  "title": "Iran- USA/Israel Conflict impact on bulk",
+  "section_path": [
+    "Iran- USA/Israel Conflict impact on bulk"
+  ],
+  "section_path_text": "Iran- USA/Israel Conflict impact on bulk",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Strait of Hormuz is the most important waypoint for vessels destined for the Arabian Gulf, as the largest discharge ports are located on the western side. Given the current conflict in the region, many vessels currently inside the Gulf are unlikely to risk exiting in the near term, effectively limiting available tonnage. Image reference: unnamed.png | assets/2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed_fbbf382caac2.png\n● ~320 bulk vessels are currently inside the Strait of Hormuz\n● ~20% of vessels have a DWT below 25kt\n● Only 2 vessels have a DWT above 180kt (Capesize)\n● The number of stranded vessels represents less than 2% of the total dry bulk fleet (~13,000 vessels) and ~3% of the Panamax fleet.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "lng",
+    "china",
+    "brazil",
+    "meg",
+    "us_gulf",
+    "singapore",
+    "japan",
+    "grain",
+    "crude_oil",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3892,
+  "source_path": "reports/breakwave/2026/2026-03-05_iran-usaisrael-conflict-impact-on-bulk.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/3/5/iran-usaisrael-conflict-impact-on-bulk",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk",
+      "parent_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Strait of Hormuz is the most important waypoint for vessels destined for the Arabian Gulf, as the largest discharge ports are located on the western side. Given the current conflict in the region, many vessels currently inside the Gulf are unlikely to risk exiting in the near term, effectively limiting available tonnage.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "meg",
+        "vessels",
+        "are",
+        "currently",
+        "dwt",
+        "fleet"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 261,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__s02_dry_bulk_vessels_inside_the_strait_of_hormuz",
+      "doc_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk",
+      "parent_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__root",
+      "title": "Dry Bulk Vessels Inside the Strait of Hormuz",
+      "section_path": [
+        "Dry Bulk Vessels Inside the Strait of Hormuz"
+      ],
+      "section_path_text": "Dry Bulk Vessels Inside the Strait of Hormuz",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Strait of Hormuz is a key waypoint for vessels destined for the largest dry bulk discharge ports in the Arabian Gulf. According to data from Signal Ocean , there are currently 324 bulk vessels located within the Strait of Hormuz region, with vessel sizes ranging from 5,000 DWT to over 183,000 DWT.",
+      "keywords": [
+        "panamax",
+        "brazil",
+        "meg",
+        "vessels",
+        "are",
+        "currently",
+        "around",
+        "hormuz"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 394,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__s03_dry_bulk_flows_arabian_gulf",
+      "doc_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk",
+      "parent_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__root",
+      "title": "Dry Bulk Flows - Arabian Gulf",
+      "section_path": [
+        "Dry Bulk Flows - Arabian Gulf"
+      ],
+      "section_path_text": "Dry Bulk Flows - Arabian Gulf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The Arabian Gulf is a growing destination for dry bulk demand, with dry bulk commodity flows to the area increasing by 9% in 2025 to reach 579mt, marking the third consecutive year of growth. The majority, 31% in 2025, originates from the Arabian Gulf as well, with the UAE, Oman, and Bahrain accounting for over 86% of all Arabian Gulf-to-Arabian Gulf dry bulk flows.",
+      "keywords": [
+        "meg",
+        "gulf",
+        "arabian",
+        "flows",
+        "commodity",
+        "global",
+        "hormuz",
+        "majority"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 272,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__s04_limited_dry_bulk_impact_but_fertilizer_trade_at_risk",
+      "doc_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk",
+      "parent_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__root",
+      "title": "Limited Dry Bulk Impact, but Fertilizer Trade at Risk",
+      "section_path": [
+        "Limited Dry Bulk Impact, but Fertilizer Trade at Risk"
+      ],
+      "section_path_text": "Limited Dry Bulk Impact, but Fertilizer Trade at Risk",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The dry bulk sector remains significantly less exposed to disruptions than tanker or LNG shipping, which rely heavily on energy exports from the Gulf region. As a result, the impact on dry bulk freight rates is expected to remain limited unless disruptions become prolonged.",
+      "keywords": [
+        "lng",
+        "crude_oil",
+        "gas",
+        "disruptions",
+        "fertilizer",
+        "already",
+        "energy",
+        "geopolitical"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 177,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__s05_linked_asset_2026_03_05_iran_usaisrael_conflict_impact_on_bulk_img_unnamed_fbbf382caac2_png",
+      "doc_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk",
+      "parent_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__root",
+      "title": "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed_fbbf382caac2.png",
+      "section_path": [
+        "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed_fbbf382caac2.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed_fbbf382caac2.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed_fbbf382caac2.png\n\nLinked image asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed_fbbf382caac2.png\n\nImage metadata: PNG 1822x990 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nVessel Count == Last Update: 06 ar 1020\nots\nAssessment\nDwr ares Als ination © Two Ballast vs Laden\n' 550000 \" von von va : | More Fiters |\nFiltering is also possible by Ctrl + clicking on visuals\nTimeseries Analysis Filter by Current Area All v\nVessel Count vy Daity v Rates. C3: 160000 mt - Tubarao to Dingdac ($/mt) VY Seasonal View (Downloadable) -\n; 77 rn\n© Sheen Moons Wessel Count P .¥ oo y,\n350 35 foese Horr ue \"awake a J w.",
+      "keywords": [
+        "china",
+        "brazil",
+        "meg",
+        "us_gulf",
+        "singapore",
+        "japan",
+        "grain",
+        "hormuz"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1066,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__s06_linked_asset_2026_03_05_iran_usaisrael_conflict_impact_on_bulk_img_unnamed28129_c5ec2b82adf3_png",
+      "doc_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk",
+      "parent_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__root",
+      "title": "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28129_c5ec2b82adf3.png",
+      "section_path": [
+        "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28129_c5ec2b82adf3.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28129_c5ec2b82adf3.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28129_c5ec2b82adf3.png\n\nLinked image asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28129_c5ec2b82adf3.png\n\nImage metadata: PNG 1734x888 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\n~2% of the Global Dry Bulk Fleet Inside the Strait of Hormuz\nFleet in Service Analysis\nAnnual Fleet Growth\n13,667\n13,156\n% 311\ns 591 ss 565 <\n< 518\n. 445 462 438\n5 408 420 = 3\n.",
+      "keywords": [
+        "fleet",
+        "service",
+        "asset",
+        "deliveries",
+        "image",
+        "analysis",
+        "annual",
+        "demolitions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 246,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__s07_linked_asset_2026_03_05_iran_usaisrael_conflict_impact_on_bulk_img_unnamed28229_36766792b712_png",
+      "doc_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk",
+      "parent_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__root",
+      "title": "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28229_36766792b712.png",
+      "section_path": [
+        "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28229_36766792b712.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28229_36766792b712.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28229_36766792b712.png\n\nLinked image asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28229_36766792b712.png\n\nImage metadata: PNG 1456x946 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nLive View\nrs Mme wiwas t > ; \\ A 5\nj me a { \\ aN\n> Sen 2 oN \\ 4 xe y\n. ~- ap we \\ ) Kerman Lut\n> t LQ |\n= Fat gaa N (\nae Wy Shir?",
+      "keywords": [
+        "asset",
+        "image",
+        "al-batin",
+        "api",
+        "arab",
+        "arabia",
+        "ate",
+        "bem"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 315,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__s08_linked_asset_2026_03_05_iran_usaisrael_conflict_impact_on_bulk_img_unnamed28329_da2ccb3d6bd6_png",
+      "doc_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk",
+      "parent_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__root",
+      "title": "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28329_da2ccb3d6bd6.png",
+      "section_path": [
+        "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28329_da2ccb3d6bd6.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28329_da2ccb3d6bd6.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28329_da2ccb3d6bd6.png\n\nLinked image asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28329_da2ccb3d6bd6.png\n\nImage metadata: PNG 1818x952 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\n~3% of the Global Dry Bulk Panamax Fleet Inside the Strait of Hormuz\nFleet in Service Analysis Vessel Class\nAnnual Fleet Growth Panamax\n2,881\n2,746\n.)\nC) 7 , 5\n2 146 129 ;\n= 118 113\n2 104\n. 100\n= 59\n3 38\n; 460 a6 s\n41 2,305 \"30\n-68\na0 2,182\n2,102\n2,046\n1.964 1.969 1,986\n@Deliveries @Demolitions @ Scheduled Deliveries --- Fleet In Service Estimated Fleet In Service",
+      "keywords": [
+        "panamax",
+        "fleet",
+        "service",
+        "asset",
+        "deliveries",
+        "image",
+        "analysis",
+        "annual"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 267,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__s09_linked_asset_2026_03_05_iran_usaisrael_conflict_impact_on_bulk_img_unnamed28429_6654db6d3961_png",
+      "doc_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk",
+      "parent_id": "breakwave_insights_insights_2026-03-05_2026_03_05_iran_usaisrael_conflict_impact_on_bulk__root",
+      "title": "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28429_6654db6d3961.png",
+      "section_path": [
+        "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28429_6654db6d3961.png"
+      ],
+      "section_path_text": "Linked asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28429_6654db6d3961.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28429_6654db6d3961.png\n\nLinked image asset: 2026-03-05_iran-usaisrael-conflict-impact-on-bulk_img_unnamed28429_6654db6d3961.png\n\nImage metadata: PNG 1736x948 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nOrogen Areas Origen Cowntroes\nCargo Flows trend Anaiysi\n'\nom ot TS 2 | -~- ee\n~ a on) or\n. ant no one, CS © os\nnoe Come GD 70% Ome EE oc\n200M a\nnana We TE 4 os over GE 4\nPotaen (Meet Conn ER are svete GE «o\ntoate BE tm -s ££\nsma - en et sa 86s\n; Aen dterte Come Hh 27% ageene GE 1s\n2\nvooM\n> Onegin Ports Origen Termenais\n<\non SU Voeieg one: TS 4 0s\ned here oe ores TS 4 1\noor ES «+s Keterne ror Ore ores Gs 4°\n\\one EES «~ Vesten werent) ES 17%\ncw .",
+      "keywords": [
+        "capesize",
+        "one",
+        "cargo",
+        "come",
+        "ore",
+        "ores",
+        "areas",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 672,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

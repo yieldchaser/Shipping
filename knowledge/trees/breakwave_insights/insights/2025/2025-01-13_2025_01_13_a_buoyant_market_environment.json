@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2025-01-13_2025_01_13_a_buoyant_market_environment__root",
+  "doc_id": "breakwave_insights_insights_2025-01-13_2025_01_13_a_buoyant_market_environment",
+  "parent_id": null,
+  "title": "A buoyant market environment",
+  "section_path": [
+    "A buoyant market environment"
+  ],
+  "section_path_text": "A buoyant market environment",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs is typical in the volatile dry bulk market, sharp reversals and unexpected developments are to be expected, with the first quarter merely serving as the opening act in a long and unpredictable narrative. By Michalis Voutsinas\n2024 was a year of contrasts for the dry bulk market, characterized by an initial promise that gradually gave way to mounting challenges. The Baltic Dry Index (BDI) averaged 1,755 points, a figure that, while comfortably above its historical median, fell short of sustaining the optimism inspired by the year's strong opening.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "india",
+    "year",
+    "growth",
+    "trade",
+    "quarter",
+    "global",
+    "points"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1429,
+  "source_path": "reports/breakwave/2025/2025-01-13_a-buoyant-market-environment.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/1/13/a-buoyant-market-environment",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-01-13_2025_01_13_a_buoyant_market_environment__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-01-13_2025_01_13_a_buoyant_market_environment",
+      "parent_id": "breakwave_insights_insights_2025-01-13_2025_01_13_a_buoyant_market_environment__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As is typical in the volatile dry bulk market, sharp reversals and unexpected developments are to be expected, with the first quarter merely serving as the opening act in a long and unpredictable narrative. By Michalis Voutsinas\n2024 was a year of contrasts for the dry bulk market, characterized by an initial promise that gradually gave way to mounting challenges.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "india",
+        "year",
+        "growth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1164,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-01-13_2025_01_13_a_buoyant_market_environment__s02_linked_asset_2025_01_13_a_buoyant_market_environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea_png",
+      "doc_id": "breakwave_insights_insights_2025-01-13_2025_01_13_a_buoyant_market_environment",
+      "parent_id": "breakwave_insights_insights_2025-01-13_2025_01_13_a_buoyant_market_environment__root",
+      "title": "Linked asset: 2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png",
+      "section_path": [
+        "Linked asset: 2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png"
+      ],
+      "section_path_text": "Linked asset: 2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png\n\nLinked image asset: 2025-01-13_a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png\n\nImage metadata: PNG 928x336 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n4000 Source: Baltic Exchange, Doric Research\n3500\n3000\n2500 ~~ -\n2000 ; -\n1500\n1000\n500\n0\nJan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\nqm BD! Avg 2018-2022 mm BDI 2023 em BD!",
+      "keywords": [
+        "asset",
+        "image",
+        "source",
+        "a-buoyant-market-environment_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2ba5901331ea.png",
+        "apr",
+        "aug",
+        "avg",
+        "bdi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

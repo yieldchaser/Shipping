@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry__root",
+  "doc_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Dry Bulk Report - April 30, 2024",
+  "section_path": [
+    "Breakwave Bi-Weekly Dry Bulk Report - April 30, 2024"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Dry Bulk Report - April 30, 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2024-04-30_2024430dry_img_dryreporttop_58bb46895315.png\n· Spot Dry Bulk Rates Continue to Underperform Although Expectations Remain High - The month of April proved to be a disappointment for freight futures traders as earlier expectations for a rebound in rates failed to materialize. In fact, the average spot Capesize rate for the month ended up being some 40% lower than what was anticipated just a month prior, reflecting the significant optimism in the dry bulk industry on the future progression of dry bulk rates. It is difficult to pinpoint a specific reason for such underperformance versus expectations, but the freight futures market is known for extrapolating past trends to the future, something that we feel is unwise for such a cyclical industry.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1727,
+  "source_path": "reports/breakwave/2024/2024-04-30_2024430dry.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2024430dry",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry__s01_main",
+      "doc_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry",
+      "parent_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2024-04-30_2024430dry_img_dryreporttop_58bb46895315.png\n· Spot Dry Bulk Rates Continue to Underperform Although Expectations Remain High - The month of April proved to be a disappointment for freight futures traders as earlier expectations for a rebound in rates failed to materialize. In fact, the average spot Capesize rate for the month ended up being some 40% lower than what was anticipated just a month prior, reflecting the significant optimism in the dry bulk industry on the future progression of dry bulk rates.",
+      "keywords": [
+        "capesize",
+        "china",
+        "atlantic",
+        "west_africa",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 778,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry__s02_linked_asset_2024_04_30_2024430dry_img_dryreporttop_58bb46895315_png",
+      "doc_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry",
+      "parent_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry__root",
+      "title": "Linked asset: 2024-04-30_2024430dry_img_dryreporttop_58bb46895315.png",
+      "section_path": [
+        "Linked asset: 2024-04-30_2024430dry_img_dryreporttop_58bb46895315.png"
+      ],
+      "section_path_text": "Linked asset: 2024-04-30_2024430dry_img_dryreporttop_58bb46895315.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-04-30_2024430dry_img_dryreporttop_58bb46895315.png\n\nLinked image asset: 2024-04-30_2024430dry_img_dryreporttop_58bb46895315.png\n\nImage metadata: PNG 1188x297 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDry Bulk Shipping\nBreakwave Dry Futures Index: 2,018 Baltic Dry Index (spot): 1,684 Short-term Indicators:\nNY 30D: -6.8% NY 30D: -7.5% Momentum:\n+t YTD: 37.3% NV YTD: -17.8% Sentiment: Positive\n+t YOY: 15.2% * YOY: 9.2% Fundamentals:",
+      "keywords": [
+        "asset",
+        "image",
+        "yoy",
+        "ytd",
+        "dpi",
+        "dry_img_dryreporttop_58bb46895315.png",
+        "embedded",
+        "fundamentals"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 195,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry__s03_linked_asset_2024_04_30_2024430dry_img_dryreportchart_c93eff4daf3a_png",
+      "doc_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry",
+      "parent_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry__root",
+      "title": "Linked asset: 2024-04-30_2024430dry_img_dryreportchart_c93eff4daf3a.png",
+      "section_path": [
+        "Linked asset: 2024-04-30_2024430dry_img_dryreportchart_c93eff4daf3a.png"
+      ],
+      "section_path_text": "Linked asset: 2024-04-30_2024430dry_img_dryreportchart_c93eff4daf3a.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-04-30_2024430dry_img_dryreportchart_c93eff4daf3a.png\n\nLinked image asset: 2024-04-30_2024430dry_img_dryreportchart_c93eff4daf3a.png\n\nImage metadata: PNG 1195x749 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n/J© BREAKWAVE\nBi-weekly Dry Bulk Shipping ADVISORS\nBaltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF)\n4000\n3500\n3000\n2500\n2000\n1500\n1000\n500\n--BDIY (spot) === BDRYFF (futures)\ni)\nMay-23 - Jun-23 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23 Jan-24 Feb-24 Mar-24",
+      "keywords": [
+        "asset",
+        "bdiy",
+        "bdryff",
+        "image",
+        "aug-23",
+        "bi-weekly",
+        "dec-23",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry__s04_linked_asset_2024_04_30_2024430dry_img_dryreportbottom_276b5d34f6ba_png",
+      "doc_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry",
+      "parent_id": "breakwave_insights_insights_2024-04-30_2024_04_30_2024430dry__root",
+      "title": "Linked asset: 2024-04-30_2024430dry_img_dryreportbottom_276b5d34f6ba.png",
+      "section_path": [
+        "Linked asset: 2024-04-30_2024430dry_img_dryreportbottom_276b5d34f6ba.png"
+      ],
+      "section_path_text": "Linked asset: 2024-04-30_2024430dry_img_dryreportbottom_276b5d34f6ba.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2024/assets/2024-04-30_2024430dry_img_dryreportbottom_276b5d34f6ba.png\n\nLinked image asset: 2024-04-30_2024430dry_img_dryreportbottom_276b5d34f6ba.png\n\nImage metadata: PNG 1188x882 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDry Bulk Fundamentals\nDemand YTD YOY\nChina Steel Production 257mt\nChina Steel Inventories 6.8mt\nChina Iron Ore Inventories 145mt 11.4%\nChina Iron Ore Imports 1491mt\nChina Coal Imports 590mt 49.4%\nChina Soybean Imports 120mt\nBrazil Iron Ore Exports 462mt 10.3%\nAustralia Iron Ore Exports 1035mt\nSupply\nDry Bulk Fleet 1009dwt\nFreight Rates\nBaltic Dry Index, Average 1,803 62.8%\nCapesize Spot Rates, Average 23,367 121.9%\nPanamax Spot rates, Average 14,258 31.4%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg and Breakwave Advisors\nDisclaimer: Contact:\nThis research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for Breakwave Advisors LLC\nthe recipient's internal use only. This report does not constitute and will not form part of and should not be 17 State Street",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 450,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

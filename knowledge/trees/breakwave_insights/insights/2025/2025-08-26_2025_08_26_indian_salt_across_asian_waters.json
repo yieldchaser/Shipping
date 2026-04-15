@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__root",
+  "doc_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters",
+  "parent_id": null,
+  "title": "Indian Salt Across Asian Waters",
+  "section_path": [
+    "Indian Salt Across Asian Waters"
+  ],
+  "section_path_text": "Indian Salt Across Asian Waters",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: RGB_COLOR_BRS_SHIPBROKERS_MONOGRAM_LOGO.png | assets/2025-08-26_indian-salt-across-asian-waters_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\nIndia's salt sector is a global heavyweight, ranking among the top three producers worldwide with output averaging 30 mln mt annually. Moreover, India became the world's largest salt exporter in 2024, shipping 17.3 mln mt on bulkers, propelled by an extraordinary surge in Chinese demand. Exports to China alone topped 10 mln mt, doubling y-o-y and underscoring the structural reliance of its chlor-alkali and soda ash sectors on low-cost Indian solar salt.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "australia",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "japan",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3119,
+  "source_path": "reports/breakwave/2025/2025-08-26_indian-salt-across-asian-waters.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2025/8/26/indian-salt-across-asian-waters",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__s01_main",
+      "doc_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters",
+      "parent_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: RGB_COLOR_BRS_SHIPBROKERS_MONOGRAM_LOGO.png | assets/2025-08-26_indian-salt-across-asian-waters_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\nIndia's salt sector is a global heavyweight, ranking among the top three producers worldwide with output averaging 30 mln mt annually. Moreover, India became the world's largest salt exporter in 2024, shipping 17.3 mln mt on bulkers, propelled by an extraordinary surge in Chinese demand.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "australia",
+        "atlantic",
+        "pacific",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1939,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__s02_linked_asset_2025_08_26_indian_salt_across_asian_waters_img_rgb_color_brs_shipbrokers_monogram_l_ee79606c8e74_png",
+      "doc_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters",
+      "parent_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__root",
+      "title": "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png",
+      "section_path": [
+        "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png"
+      ],
+      "section_path_text": "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-26_indian-salt-across-asian-waters_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\n\nLinked image asset: 2025-08-26_indian-salt-across-asian-waters_img_rgb-color-brs-shipbrokers-monogram-l_ee79606c8e74.png\n\nImage metadata: PNG 2500x2186 mode=RGBA\n\nEmbedded info:\ndpi: (299.9994, 299.9994)\n\n[No OCR text detected in linked image.]",
+      "keywords": [
+        "india",
+        "asset",
+        "image",
+        "linked",
+        "detected",
+        "dpi",
+        "embedded",
+        "image."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 133,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__s03_linked_asset_2025_08_26_indian_salt_across_asian_waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc6fbb9fbd7e_png",
+      "doc_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters",
+      "parent_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__root",
+      "title": "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc6fbb9fbd7e.png",
+      "section_path": [
+        "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc6fbb9fbd7e.png"
+      ],
+      "section_path_text": "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc6fbb9fbd7e.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc6fbb9fbd7e.png\n\nLinked image asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_bc6fbb9fbd7e.png\n\nImage metadata: PNG 436x421 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nMajor Salt Exports by Country\n(2020-7M2025)\nAustralia mindia mChile mMexico = Egypt\n45\n40\n35\n30\n=\n£3\nE\ni\n15\n10\n5\n2020 2021 © -2022-«--2023.--«-2024 72025",
+      "keywords": [
+        "australia",
+        "india",
+        "asset",
+        "image",
+        "country",
+        "dpi",
+        "egypt",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 216,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__s04_linked_asset_2025_08_26_indian_salt_across_asian_waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d8486efddec_png",
+      "doc_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters",
+      "parent_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__root",
+      "title": "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d8486efddec.png",
+      "section_path": [
+        "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d8486efddec.png"
+      ],
+      "section_path_text": "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d8486efddec.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d8486efddec.png\n\nLinked image asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d8486efddec.png\n\nImage metadata: PNG 441x414 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nIndia's Salt Output Trend and 2025F\nProjection\n20\n15\n§\n10 3\niQ\n5 &\n2\n5",
+      "keywords": [
+        "india",
+        "asset",
+        "image",
+        "dpi",
+        "embedded",
+        "indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_9d8486efddec.png",
+        "info",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 172,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__s05_linked_asset_2025_08_26_indian_salt_across_asian_waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c10eaeb1091_png",
+      "doc_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters",
+      "parent_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__root",
+      "title": "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c10eaeb1091.png",
+      "section_path": [
+        "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c10eaeb1091.png"
+      ],
+      "section_path_text": "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c10eaeb1091.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c10eaeb1091.png\n\nLinked image asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c10eaeb1091.png\n\nImage metadata: PNG 432x385 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nY-o-Y Change in Indian Salt Exports by\nImporting Countries\nMi increase Ml Decrease Ill Total\n0 173,927 13,621 9.793823\n247,486 Gra)\n10 sonst il\n. alll\n: L\n=\na ege® coo oa gat el ig?",
+      "keywords": [
+        "india",
+        "asset",
+        "image",
+        "alll",
+        "change",
+        "coo",
+        "countries",
+        "decrease"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 222,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__s06_linked_asset_2025_08_26_indian_salt_across_asian_waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c97c93b30c9e_png",
+      "doc_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters",
+      "parent_id": "breakwave_insights_insights_2025-08-26_2025_08_26_indian_salt_across_asian_waters__root",
+      "title": "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c97c93b30c9e.png",
+      "section_path": [
+        "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c97c93b30c9e.png"
+      ],
+      "section_path_text": "Linked asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c97c93b30c9e.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2025/assets/2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c97c93b30c9e.png\n\nLinked image asset: 2025-08-26_indian-salt-across-asian-waters_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c97c93b30c9e.png\n\nImage metadata: PNG 414x382 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nTonnage Split: India's Salt Exports Jan-Jul\n2025 (min mt)\n= Supra * Panamax = Handy * Baby Cape\n9%, 85\n1%, 10",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "india",
+        "asset",
+        "image",
+        "baby"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 185,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
