@@ -12,6 +12,12 @@ on:
       rebuild:
         description: 'Full rebuild: true | false'
         default: 'false'
+      batch_total:
+        description: 'Batch count (1 = normal run, 2 = half-half)'
+        default: '1'
+      batch_index:
+        description: 'Batch number to run (1..batch_total)'
+        default: '1'
 
 permissions:
   contents: write
@@ -76,8 +82,15 @@ jobs:
           FLAGS=""
           SRC="${{ github.event.inputs.source || 'all' }}"
           RB="${{ github.event.inputs.rebuild || 'false' }}"
+          BT="${{ github.event.inputs.batch_total || '1' }}"
+          BI="${{ github.event.inputs.batch_index || '1' }}"
           [ "$SRC" != "all" ] && FLAGS="$FLAGS --source $SRC"
           [ "$RB" = "true" ] && FLAGS="$FLAGS --rebuild"
+          FLAGS="$FLAGS --batch-total $BT --batch-index $BI"
+          if [ "$BT" != "1" ] && [ "$SRC" = "all" ]; then
+            echo "Batch mode requires source != all. Set source to one source and rerun."
+            exit 1
+          fi
           python scripts/process_knowledge.py $FLAGS 2>&1 | tee knowledge_processor.log
 
       - name: Validate knowledge artifacts

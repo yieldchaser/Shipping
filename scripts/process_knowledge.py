@@ -1006,6 +1006,19 @@ def iter_source_files(source_filter: str | None):
                     yield "hellenic", category, path
 
 
+def select_batch_slice(
+    entries: list[tuple[str, str, Path]], batch_total: int, batch_index: int
+) -> tuple[list[tuple[str, str, Path]], int, int]:
+    if batch_total <= 1:
+        return entries, 0, len(entries)
+    if batch_index < 1 or batch_index > batch_total:
+        raise ValueError(f"Invalid batch selection: index={batch_index}, total={batch_total}")
+    total = len(entries)
+    start = (total * (batch_index - 1)) // batch_total
+    end = (total * batch_index) // batch_total
+    return entries[start:end], start, end
+
+
 def default_lists_for_doc(source: str, category: str):
     vessel_defaults = {
         ("breakwave", "drybulk"): ["capesize", "panamax", "supramax"],
@@ -2919,14 +2932,31 @@ def main():
     parser.add_argument("--rebuild", action="store_true")
     parser.add_argument("--no-llm", action="store_true")
     parser.add_argument("--derived-only", action="store_true")
+    parser.add_argument("--batch-total", type=int, default=1, help="Split selected source files into N deterministic contiguous batches.")
+    parser.add_argument("--batch-index", type=int, default=1, help="1-based batch number to process (1..batch-total).")
     args = parser.parse_args()
+
+    if args.batch_total < 1:
+        parser.error("--batch-total must be >= 1")
+    if args.batch_index < 1:
+        parser.error("--batch-index must be >= 1")
+    if args.batch_index > args.batch_total:
+        parser.error("--batch-index must be <= --batch-total")
+    if args.batch_total > 1 and args.source in (None, "all"):
+        parser.error("Batch mode requires a concrete --source (not all).")
 
     try:
         existing_metadata_index = {}
         if args.rebuild:
             loaded_rows = load_manifest_rows()
             existing_metadata_index = build_existing_metadata_index(loaded_rows)
-            if args.source in (None, "all"):
+            if args.batch_total > 1 and args.batch_index > 1:
+                ensure_layout()
+                print(
+                    f"[REBUILD] mode=batch-continue scope={args.source} "
+                    f"batch={args.batch_index}/{args.batch_total} (no pre-clear)"
+                )
+            elif args.source in (None, "all"):
                 print("[REBUILD] mode=full scope=all")
                 clear_rebuild_outputs()
             else:
@@ -2964,7 +2994,16 @@ def main():
         pending_items = []
         existing_metadata_cache = {}
 
-        for source, category, path in iter_source_files(args.source):
+        source_files = list(iter_source_files(args.source))
+        selected_source_files, batch_start, batch_end = select_batch_slice(
+            source_files, args.batch_total, args.batch_index
+        )
+        print(
+            f"[BATCH] source={args.source or 'all'} batch={args.batch_index}/{args.batch_total} "
+            f"selected={len(selected_source_files)} of {len(source_files)} entries (range={batch_start}:{batch_end})"
+        )
+
+        for source, category, path in selected_source_files:
             source_rel = relpath(path)
             current_hash = migrated_hash_cache.get(source_rel) or source_hash(path)
             existing_row = processed_index.get(source_rel)
