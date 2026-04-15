@@ -2630,10 +2630,24 @@ def tree_output_path(metadata: dict) -> Path:
     return tree_output_path_from_doc_path(doc_output_path(metadata))
 
 
-def chunk_file_path(source: str, category: str) -> Path:
+def chunk_partition_year(metadata: dict) -> str:
+    date_str = norm_space(metadata.get("date"))
+    if re.match(r"^\d{4}", date_str):
+        year = date_str[:4]
+    else:
+        year = Path(metadata.get("source_path") or "").parent.name
+    if not re.fullmatch(r"\d{4}", year or ""):
+        return "unknown"
+    return year
+
+
+def chunk_file_path(metadata: dict) -> Path:
+    source = metadata["source"]
     if source == "book":
         return CHUNKS_DIR / "books.jsonl"
-    return CHUNKS_DIR / f"{source}_{category}.jsonl"
+    category = metadata["category"]
+    year = chunk_partition_year(metadata)
+    return CHUNKS_DIR / f"{source}_{category}_{year}.jsonl"
 
 
 def build_chunks(adapted: dict) -> list[dict]:
@@ -2699,7 +2713,7 @@ def process_file(path: Path, adapted: dict, source_hash_value: str | None = None
     write_tree_file(tree_path, tree)
 
     chunks = build_chunks(adapted)
-    chunk_path = chunk_file_path(metadata["source"], metadata["category"])
+    chunk_path = chunk_file_path(metadata)
     for chunk in chunks:
         append_jsonl(chunk_path, chunk)
 
