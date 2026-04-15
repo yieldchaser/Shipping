@@ -22,7 +22,131 @@ keywords:
 - competitive
 - correction
 - counterparts.
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: constructive
+numeric_observation_count: 11
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: After a period of gains, momentum in the capesize market decreased
+    slightly and as such rates received a slight correction to an average of $51,000/pdpr
+    for six month periods.
+  unit: usd
+  values:
+  - 51000.0
+- &id002
+  section: Main
+  section_type: null
+  source_line: 'Linked asset: dry_1-2.jpg'
+  unit: null
+  values:
+  - 1.0
+  - -2.0
+- &id003
+  section: 'Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg'
+  unit: null
+  values:
+  - 2021.0
+  - -10.0
+  - -20.0
+  - 20.0
+  - -2021.0
+  - 1.0
+  - -2.0
+  - 7.0
+  - 3.0
+  - 6.0
+- &id004
+  section: 'Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id005
+  section: 'Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (72.0, 72.0)'
+  unit: null
+  values:
+  - 72.0
+  - 72.0
+- &id006
+  section: 'Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg'
+  section_type: linked_image_asset
+  source_line: ALI B RA Updoted Wednesday 20 October 2021
+  unit: null
+  values:
+  - 20.0
+  - 2021.0
+- &id007
+  section: 'Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY = 34,500|= 35,500) = 28,500)-= 25,000\-= 19,500 |= 20,000
+  unit: null
+  values:
+  - 34500.0
+  - 35500.0
+  - 28500.0
+  - 25000.0
+  - 19500.0
+  - 20000.0
+- &id008
+  section: 'Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg'
+  section_type: linked_image_asset
+  source_line: SUPRAMAX |= 39,000)= 38,500} = 30,250)= 27,250)= 21,500|= 20,500
+  unit: null
+  values:
+  - 39000.0
+  - 38500.0
+  - 30250.0
+  - 27250.0
+  - 21500.0
+  - 20500.0
+- &id009
+  section: 'Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg'
+  section_type: linked_image_asset
+  source_line: ULTRAMAX |= 42,500)-= 41,750) = 32,000)- 29,750)-= 25,000; 24,000
+  unit: null
+  values:
+  - 42500.0
+  - 41750.0
+  - 32000.0
+  - 29750.0
+  - 25000.0
+  - 24000.0
+- &id010
+  section: 'Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg'
+  section_type: linked_image_asset
+  source_line: 'PANA/KMAX | & 38,500) 33,500} # 31,500)" 30,750|" 24500|/" 24,000'
+  unit: null
+  values:
+  - 38500.0
+  - 33500.0
+  - 31500.0
+  - 30750.0
+  - 24500.0
+  - 24000.0
+- &id011
+  section: 'Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE |W 52,000|}~ 50,000; = 37,000|)-= 36,000)/= 26,500 = 26,000
+  unit: null
+  values:
+  - 52000.0
+  - 50000.0
+  - 37000.0
+  - 36000.0
+  - 26500.0
+  - 26000.0
 regions:
 - atlantic
 - pacific
@@ -33,6 +157,19 @@ section_count: 2
 signals:
   metric_units:
   - usd_per_day
+  numeric_observation_count: 11
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
   rate_observations:
   - segment: capesize
     source_line: After a period of gains, momentum in the capesize market decreased
@@ -117,12 +254,12 @@ After a period of gains, momentum in the capesize market decreased slightly and 
 After a period of gains, momentum in the capesize market decreased slightly and as such rates received a slight correction to an average of $51,000/pdpr for six month periods.
 Kamsarmax/panamax period rates moved up this week with talk of cargo splits as demand improved for this sector, rates were still comparatively more competitive than for their larger counterparts.
 Rates for the smaller sizes strengthened this week thanks to strong support in the Atlantic.
-Image reference: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_img2.jpg
+Linked asset: dry_1-2.jpg
 
-## Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_img2.jpg
-Source asset: reports/hellenic/dry_charter/2021/2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_img2.jpg
+## Linked asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg
+Source asset: reports/hellenic/dry_charter/2021/assets/2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg
 
-Linked image asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_img2.jpg
+Linked image asset: 2021-10-20_weekly-dry-time-charter-estimates-october-20-2021_dry-1-2_7fbc63f96dc6.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

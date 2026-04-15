@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 11311,
+  "token_count": 11413,
   "source_path": "reports/hellenic/iron_ore/2022/2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-december-16-2022",
   "children": [
@@ -41,35 +41,35 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 16/12/2022\nDCE iron ore futures rose by 0.49% today, the main contract closed 821. The traders' willingness to ship is less.The steelmills are wait and see.The overall trading sentiment of the market is worse.",
+      "summary": "DCE iron ore futures rose by 0.49% today, the main contract closed 821. The traders' willingness to ship is less.The steelmills are wait and see.The overall trading sentiment of the market is worse.",
       "keywords": [
         "china",
         "iron_ore",
         "steel",
         "port",
         "tons",
-        "ore",
         "dredging",
-        "increase"
+        "increase",
+        "million"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 345,
+      "token_count": 349,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2022-12-16_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022__s02_linked_asset_2022_12_16_mmi_daily_iron_ore_report_for_16th_december_2022_compressed_pdf",
+      "node_id": "hellenic_iron_ore_2022-12-16_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022__s02_linked_asset_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022_mmi_daily_iron_ore_report_for_16th_d_41bffc2be5e6_pdf",
       "doc_id": "hellenic_iron_ore_2022-12-16_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022",
       "parent_id": "hellenic_iron_ore_2022-12-16_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022__root",
-      "title": "Linked asset: 2022-12-16_MMi-Daily-Iron-Ore-Report-for-16th-December-2022_compressed.pdf",
+      "title": "Linked asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_mmi-daily-iron-ore-report-for-16th-d_41bffc2be5e6.pdf",
       "section_path": [
-        "Linked asset: 2022-12-16_MMi-Daily-Iron-Ore-Report-for-16th-December-2022_compressed.pdf"
+        "Linked asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_mmi-daily-iron-ore-report-for-16th-d_41bffc2be5e6.pdf"
       ],
-      "section_path_text": "Linked asset: 2022-12-16_MMi-Daily-Iron-Ore-Report-for-16th-December-2022_compressed.pdf",
+      "section_path_text": "Linked asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_mmi-daily-iron-ore-report-for-16th-d_41bffc2be5e6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-12-16_MMi-Daily-Iron-Ore-Report-for-16th-December-2022_compressed.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Dec 16th, 2022\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n824 936 728\n1 0.12% 1.00 0.11% 0 0.00%\nDec 16th, 2022 Dec 16th, 2022 Dec 16th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n110.25 115.80 920\n0.00 0.00% 0.00 0.00% -10 -1.08%\nDec 16th, 2022 Dec 16th, 2022 Week Ending Dec 16th, 2022\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2305 (Jan) RMB/t (3pm close) January 23 USD/dmt RB2305 (Jan) RMB/t\n821.00 111.10 4049\n-9.00 -1.08% -0.40 -0.36% -35 -0.86%\nDec 16th, 2022 (3pm close) Dec 16th, 2022 (5.30 pm Print) Dec 16th, 2022 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n20.81 8",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_mmi-daily-iron-ore-report-for-16th-d_41bffc2be5e6.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Dec 16th, 2022\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n824 936 728\n1 0.12% 1.00 0.11% 0 0.00%\nDec 16th, 2022 Dec 16th, 2022 Dec 16th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n110.25 115.80 920\n0.00 0.00% 0.00 0.00% -10 -1.08%\nDec 16th, 2022 Dec 16th, 2022 Week Ending Dec 16th, 2022\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2305 (Jan) RMB/t (3pm close) January 23 USD/dmt RB2305 (Jan) RMB/t\n821.00 111.10 4049\n-9.00 -1.08% -0.40 -0.36% -35 -0.86%\nDec 16th, 2022 (3pm close) Dec 16th, 2022 (5.30 pm Print) Dec 16th, 2022 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Ste",
       "keywords": [
         "china",
         "brazil",
@@ -82,35 +82,35 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 9945,
+      "token_count": 9965,
       "section_type": "linked_pdf",
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2022-12-16_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022__s03_linked_asset_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022_img2_jpg",
+      "node_id": "hellenic_iron_ore_2022-12-16_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022__s03_linked_asset_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022_img1_16xsschinesedfe_44e5c41d7b9b_jpg",
       "doc_id": "hellenic_iron_ore_2022-12-16_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022",
       "parent_id": "hellenic_iron_ore_2022-12-16_2022_12_16_mmi_daily_iron_ore_index_report_december_16_2022__root",
-      "title": "Linked asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_img2.jpg",
+      "title": "Linked asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_img1_16xsschinesedfe_44e5c41d7b9b.jpg",
       "section_path": [
-        "Linked asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_img2.jpg"
+        "Linked asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_img1_16xsschinesedfe_44e5c41d7b9b.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_img1_16xsschinesedfe_44e5c41d7b9b.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2022/2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_img2.jpg\n\nLinked image asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report i Dec 16th, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\nDec 16th, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2022/assets/2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_img1_16xsschinesedfe_44e5c41d7b9b.jpg\n\nLinked image asset: 2022-12-16_mmi-daily-iron-ore-index-report-december-16-2022_img1_16xsschinesedfe_44e5c41d7b9b.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report i Dec 16th, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\nDec 16th, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
+        "china",
         "brazil",
         "iron_ore",
         "change",
         "port",
         "fefines",
         "high",
-        "low",
-        "mtd"
+        "low"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 953,
+      "token_count": 992,
       "section_type": "linked_image_asset",
       "children": []
     }

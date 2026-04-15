@@ -14,7 +14,116 @@ keywords:
 - main
 - reference
 - weekly-dry-time-charter-estimates-april-30-2025_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 9
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg'
+  unit: null
+  values:
+  - 2025.0
+  - -4.0
+  - -30.0
+  - 30.0
+  - -2025.0
+  - 30420250.0
+  - 3.0
+  - 9.0
+- &id002
+  section: 'Linked asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg'
+  unit: null
+  values:
+  - 2025.0
+  - -4.0
+  - -30.0
+  - 30.0
+  - -2025.0
+  - 30420250.0
+  - 3.0
+  - 9.0
+- &id003
+  section: 'Linked asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (144.0, 144.0)'
+  unit: null
+  values:
+  - 144.0
+  - 144.0
+- &id005
+  section: 'Linked asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg'
+  section_type: linked_image_asset
+  source_line: 4 ALIBR A Updated Weds 30/04/2025
+  unit: null
+  values:
+  - 4.0
+  - 30.0
+  - 4.0
+  - 2025.0
+- &id006
+  section: 'Linked asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY (kant) | ¥ 10,750 11,500 |¥ 11,500 12,000 | 12,000 | 12,000
+  unit: null
+  values:
+  - 10750.0
+  - 11500.0
+  - 11500.0
+  - 12000.0
+  - 12000.0
+  - 12000.0
+- &id007
+  section: 'Linked asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg'
+  section_type: linked_image_asset
+  source_line: SMAX/ULTRA 13,500 15,000 13,000 14,500 13,000 | 13,850
+  unit: null
+  values:
+  - 13500.0
+  - 15000.0
+  - 13000.0
+  - 14500.0
+  - 13000.0
+  - 13850.0
+- &id008
+  section: 'Linked asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg'
+  section_type: linked_image_asset
+  source_line: PANAJKMAX 15,350 13,450 13,750 13,000 | 13,500 | 13,500
+  unit: null
+  values:
+  - 15350.0
+  - 13450.0
+  - 13750.0
+  - 13000.0
+  - 13500.0
+  - 13500.0
+- &id009
+  section: 'Linked asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg'
+  section_type: linked_image_asset
+  source_line: caPeszeE |¥ 19,000 |¥ 19,000 |¥ 19500 |¥ 19,500 |W 20,500 |W 20,500
+  unit: null
+  values:
+  - 19000.0
+  - 19000.0
+  - 19500.0
+  - 19500.0
+  - 20500.0
+  - 20500.0
 regions:
 - atlantic
 - pacific
@@ -24,6 +133,17 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 9
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
   rate_observations:
   - segment: handysize
     source_line: HANDY (kant) | ¥ 10,750 11,500 |¥ 11,500 12,000 | 12,000 | 12,000
@@ -132,12 +252,12 @@ PANAJKMAX 15,350 13,450 13,750 13,000 | 13,500 | 13,500
 caPeszeE |¥ 19,000 |¥ 19,000 |¥ 19500 |¥ 19,500 |W 20,500 |W 20,500
 
 ## Main
-Image reference: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img2.jpg
+Image reference: assets/2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg
 
-## Linked asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img2.jpg
-Source asset: reports/hellenic/dry_charter/2025/2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img2.jpg
+## Linked asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg
+Source asset: reports/hellenic/dry_charter/2025/assets/2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg
 
-Linked image asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img2.jpg
+Linked image asset: 2025-04-30_weekly-dry-time-charter-estimates-april-30-2025_img1_30420250_a23c8a59cba5.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

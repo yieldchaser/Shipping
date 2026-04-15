@@ -14,7 +14,121 @@ keywords:
 - main
 - reference
 - weekly-dry-time-charter-estimates-february-11-2026_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 10
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  unit: null
+  values:
+  - 2026.0
+  - -2.0
+  - -11.0
+  - 11.0
+  - -2026.0
+  - 112202530.0
+  - 464.0
+- &id002
+  section: 'Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  unit: null
+  values:
+  - 2026.0
+  - -2.0
+  - -11.0
+  - 11.0
+  - -2026.0
+  - 112202530.0
+  - 464.0
+- &id003
+  section: 'Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (72.0, 72.0)'
+  unit: null
+  values:
+  - 72.0
+  - 72.0
+- &id005
+  section: 'Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  section_type: linked_image_asset
+  source_line: ', AL| BR A Updated Weds 11/02/2026'
+  unit: null
+  values:
+  - 11.0
+  - 2.0
+  - 2026.0
+- &id006
+  section: 'Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  section_type: linked_image_asset
+  source_line: PERIOD 4/6 MOS 1YR 2YR
+  unit: null
+  values:
+  - 4.0
+- &id007
+  section: 'Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY (384 out) 13,500 12,500 11,350 12,250 10,000 10,850
+  unit: null
+  values:
+  - 384.0
+  - 13500.0
+  - 12500.0
+  - 11350.0
+  - 12250.0
+  - 10000.0
+  - 10850.0
+- &id008
+  section: 'Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  section_type: linked_image_asset
+  source_line: SMAXJULTRA 15,500 16,000 14,000 15,500 13,000 14,500
+  unit: null
+  values:
+  - 15500.0
+  - 16000.0
+  - 14000.0
+  - 15500.0
+  - 13000.0
+  - 14500.0
+- &id009
+  section: 'Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  section_type: linked_image_asset
+  source_line: PANAIKMAX 19,000 18,000 17,000 16,000 15,000 14,500
+  unit: null
+  values:
+  - 19000.0
+  - 18000.0
+  - 17000.0
+  - 16000.0
+  - 15000.0
+  - 14500.0
+- &id010
+  section: 'Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE 32,000 32,000 31,000 31,000 29,000 29,000
+  unit: null
+  values:
+  - 32000.0
+  - 32000.0
+  - 31000.0
+  - 31000.0
+  - 29000.0
+  - 29000.0
 regions:
 - atlantic
 - pacific
@@ -24,6 +138,18 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 10
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
   rate_observations:
   - segment: handysize
     source_line: HANDY (384 out) 13,500 12,500 11,350 12,250 10,000 10,850
@@ -136,12 +262,12 @@ PANAIKMAX 19,000 18,000 17,000 16,000 15,000 14,500
 CAPESIZE 32,000 32,000 31,000 31,000 29,000 29,000
 
 ## Main
-Image reference: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img2.jpg
+Image reference: assets/2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg
 
-## Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img2.jpg
-Source asset: reports/hellenic/dry_charter/2026/2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img2.jpg
+## Linked asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg
+Source asset: reports/hellenic/dry_charter/2026/assets/2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg
 
-Linked image asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img2.jpg
+Linked image asset: 2026-02-11_weekly-dry-time-charter-estimates-february-11-2026_img1_112202530_fe4464a4f8aa.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

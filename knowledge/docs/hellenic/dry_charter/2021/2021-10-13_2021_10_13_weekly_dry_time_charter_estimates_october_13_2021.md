@@ -23,7 +23,122 @@ keywords:
 - availability
 - began
 - being
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 10
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Linked asset: DRY_1-1.jpg'
+  unit: null
+  values:
+  - 1.0
+  - -1.0
+- &id002
+  section: 'Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg'
+  unit: null
+  values:
+  - 2021.0
+  - -10.0
+  - -13.0
+  - 13.0
+  - -2021.0
+  - 1.0
+  - -1.0
+  - 3049.0
+  - 250.0
+- &id003
+  section: 'Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (72.0, 72.0)'
+  unit: null
+  values:
+  - 72.0
+  - 72.0
+- &id005
+  section: 'Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg'
+  section_type: linked_image_asset
+  source_line: AL| B RA Updated Wednesday 13 October 2021
+  unit: null
+  values:
+  - 13.0
+  - 2021.0
+- &id006
+  section: 'Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY = 34,500|= 35,500} = 28,500|= 25,000;= 19,500|= 20,000
+  unit: null
+  values:
+  - 34500.0
+  - 35500.0
+  - 28500.0
+  - 25000.0
+  - 19500.0
+  - 20000.0
+- &id007
+  section: 'Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg'
+  section_type: linked_image_asset
+  source_line: SUPRAMAX |= 39,000/= 38,500} = 30,250)= 27,250)}= 21,500|= 20,500
+  unit: null
+  values:
+  - 39000.0
+  - 38500.0
+  - 30250.0
+  - 27250.0
+  - 21500.0
+  - 20500.0
+- &id008
+  section: 'Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg'
+  section_type: linked_image_asset
+  source_line: ULTRAMAX |= 41,750)-= 42,500} = 32,000)-= 29,750) 25,000 |= 24,000
+  unit: null
+  values:
+  - 41750.0
+  - 42500.0
+  - 32000.0
+  - 29750.0
+  - 25000.0
+  - 24000.0
+- &id009
+  section: 'Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg'
+  section_type: linked_image_asset
+  source_line: 'PANA/KMAX | & 38,250|/ 33,000) # 31,000|/" 28,000}= 24,000 |= 23,500'
+  unit: null
+  values:
+  - 38250.0
+  - 33000.0
+  - 31000.0
+  - 28000.0
+  - 24000.0
+  - 23500.0
+- &id010
+  section: 'Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE | 54,000|# 52,500} & 37,000)2 36,000|}% 26,500|= 26,000
+  unit: pct
+  values:
+  - 54000.0
+  - 52500.0
+  - 37000.0
+  - 2.0
+  - 36000.0
+  - 26500.0
+  - 26000.0
 regions:
 - atlantic
 - pacific
@@ -33,6 +148,18 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 10
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
   rate_observations:
   - segment: handysize
     source_line: HANDY = 34,500|= 35,500} = 28,500|= 25,000;= 19,500|= 20,000
@@ -108,12 +235,12 @@ Capesize period rates remained firm due to low vessel availability, the pacific 
 Capesize period rates remained firm due to low vessel availability, the pacific market contributed to the strength in TC rates as the recent public holidays added to the list of vessels waiting to deliver in port.
 A mixed week for the kamsarmax/panamax market as the Atlantic seemed to have found a floor despite there being little change in the fundamentals. The Pacific began to gain strength as it returned to work with rates improving on last done.
 A stable week for the smaller sizes with demand reported on the Indonesia to China coal route for supramaxes.
-Image reference: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_img2.jpg
+Linked asset: DRY_1-1.jpg
 
-## Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_img2.jpg
-Source asset: reports/hellenic/dry_charter/2021/2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_img2.jpg
+## Linked asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg
+Source asset: reports/hellenic/dry_charter/2021/assets/2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg
 
-Linked image asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_img2.jpg
+Linked image asset: 2021-10-13_weekly-dry-time-charter-estimates-october-13-2021_dry-1-1_3049df4e8250.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 371,
+  "token_count": 425,
   "source_path": "reports/hellenic/dry_charter/2024/2024-02-14_weekly-dry-time-charter-estimates-february-14-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-february-14-2024",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img1_14220234_fb0f7b9e019d.jpg",
         "image",
-        "reference",
-        "weekly-dry-time-charter-estimates-february-14-2024_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 44,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2024-02-14_2024_02_14_weekly_dry_time_charter_estimates_february_14_2024__s02_linked_asset_2024_02_14_weekly_dry_time_charter_estimates_february_14_2024_img2_jpg",
+      "node_id": "hellenic_dry_charter_2024-02-14_2024_02_14_weekly_dry_time_charter_estimates_february_14_2024__s02_linked_asset_2024_02_14_weekly_dry_time_charter_estimates_february_14_2024_img1_14220234_fb0f7b9e019d_jpg",
       "doc_id": "hellenic_dry_charter_2024-02-14_2024_02_14_weekly_dry_time_charter_estimates_february_14_2024",
       "parent_id": "hellenic_dry_charter_2024-02-14_2024_02_14_weekly_dry_time_charter_estimates_february_14_2024__root",
-      "title": "Linked asset: 2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img2.jpg",
+      "title": "Linked asset: 2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img1_14220234_fb0f7b9e019d.jpg",
       "section_path": [
-        "Linked asset: 2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img2.jpg"
+        "Linked asset: 2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img1_14220234_fb0f7b9e019d.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img1_14220234_fb0f7b9e019d.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2024/2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img2.jpg\n\nLinked image asset: 2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA L| B R A Updated Weds 14 Feb 2024\nShipping Limited\nDRY TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (3zkaut) | A 13,250 10,950 | A 13,250 11,950 | 12,000 11,000\nSMAXULTRA | 4 = 16,000 14,500 | 15,500 13,500 | 4 14,250 12,500\nPANA/KMAX 20,000 16,000 | A 17,250 |4 16,000 15,000 15,000\nCAPESZE [A 23,000 | & 23,000 | A 24250 |& 24,250 | 4 22,000 | 22,000",
+      "summary": "Source asset: reports/hellenic/dry_charter/2024/assets/2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img1_14220234_fb0f7b9e019d.jpg\n\nLinked image asset: 2024-02-14_weekly-dry-time-charter-estimates-february-14-2024_img1_14220234_fb0f7b9e019d.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA L| B R A Updated Weds 14 Feb 2024\nShipping Limited\nDRY TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (3zkaut) | A 13,250 10,950 | A 13,250 11,950 | 12,000 11,000\nSMAXULTRA | 4 = 16,000 14,500 | 15,500 13,500 | 4 14,250 12,500\nPANA/KMAX 20,000 16,000 | A 17,250 |4 16,000 15,000 15,000\nCAPESZE [A 23,000 | & 23,000 | A 24250 |& 24,250 | 4 22,000 | 22,000",
       "keywords": [
         "capesize",
         "handysize",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 307,
+      "token_count": 334,
       "section_type": "linked_image_asset",
       "children": []
     }

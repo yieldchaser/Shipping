@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1160,
+  "token_count": 1210,
   "source_path": "reports/hellenic/iron_ore/2024/2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-02-2024",
   "children": [
@@ -41,48 +41,48 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 02/04/2024\nDCE iron ore futures market rose by 3.09% . The main contract I2409 closed at 768; Traders ship according to market conditions；steel mills purchased on demand.",
+      "summary": "DCE iron ore futures market rose by 3.09% . The main contract I2409 closed at 768; Traders ship according to market conditions；steel mills purchased on demand.",
       "keywords": [
         "china",
         "iron_ore",
         "steel",
-        "iron",
         "tons",
         "april",
+        "iron",
         "according",
         "compared"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 252,
+      "token_count": 253,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2024-04-02_2024_04_02_mmi_daily_iron_ore_index_report_april_02_2024__s02_linked_asset_2024_04_02_mmi_daily_iron_ore_index_report_april_02_2024_img2_jpg",
+      "node_id": "hellenic_iron_ore_2024-04-02_2024_04_02_mmi_daily_iron_ore_index_report_april_02_2024__s02_linked_asset_2024_04_02_mmi_daily_iron_ore_index_report_april_02_2024_img1_02042024chinesed_0385e1a264d3_jpg",
       "doc_id": "hellenic_iron_ore_2024-04-02_2024_04_02_mmi_daily_iron_ore_index_report_april_02_2024",
       "parent_id": "hellenic_iron_ore_2024-04-02_2024_04_02_mmi_daily_iron_ore_index_report_april_02_2024__root",
-      "title": "Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img2.jpg",
+      "title": "Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img1_02042024chinesed_0385e1a264d3.jpg",
       "section_path": [
-        "Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img2.jpg"
+        "Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img1_02042024chinesed_0385e1a264d3.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img1_02042024chinesed_0385e1a264d3.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/2024/2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img2.jpg\n\nLinked image asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Apr 2nd, 2024\nIRON ORE PORT STOCK INDEX (IOPI)\nApr 2nd, 2024 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2024/assets/2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img1_02042024chinesed_0385e1a264d3.jpg\n\nLinked image asset: 2024-04-02_mmi-daily-iron-ore-index-report-april-02-2024_img1_02042024chinesed_0385e1a264d3.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Apr 2nd, 2024\nIRON ORE PORT STOCK INDEX (IOPI)\nApr 2nd, 2024 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
+        "china",
         "brazil",
         "iron_ore",
         "steel",
         "change",
         "iron",
         "fines",
-        "high",
-        "low"
+        "high"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 875,
+      "token_count": 908,
       "section_type": "linked_image_asset",
       "children": []
     }

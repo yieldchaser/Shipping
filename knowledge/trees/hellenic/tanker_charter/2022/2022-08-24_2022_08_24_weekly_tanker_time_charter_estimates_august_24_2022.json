@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 361,
+  "token_count": 370,
   "source_path": "reports/hellenic/tanker_charter/2022/2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-august-24-2022",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
-        "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-august-24-2022_img2.jpg"
+        "asset",
+        "linked",
+        "tanker_1-3.jpg"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 31,
+      "token_count": 9,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2022-08-24_2022_08_24_weekly_tanker_time_charter_estimates_august_24_2022__s02_linked_asset_2022_08_24_weekly_tanker_time_charter_estimates_august_24_2022_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2022-08-24_2022_08_24_weekly_tanker_time_charter_estimates_august_24_2022__s02_linked_asset_2022_08_24_weekly_tanker_time_charter_estimates_august_24_2022_tanker_1_3_bfdf2935454d_jpg",
       "doc_id": "hellenic_tanker_charter_2022-08-24_2022_08_24_weekly_tanker_time_charter_estimates_august_24_2022",
       "parent_id": "hellenic_tanker_charter_2022-08-24_2022_08_24_weekly_tanker_time_charter_estimates_august_24_2022__root",
-      "title": "Linked asset: 2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022_img2.jpg",
+      "title": "Linked asset: 2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022_tanker-1-3_bfdf2935454d.jpg",
       "section_path": [
-        "Linked asset: 2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022_img2.jpg"
+        "Linked asset: 2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022_tanker-1-3_bfdf2935454d.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022_tanker-1-3_bfdf2935454d.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2022/2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022_img2.jpg\n\nLinked image asset: 2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nBAALIBRA Updated Weds 24 Aug 2022\nShipping United |\nWET TIME CHARTER ESTIMATE (S/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR- 5 YEAR-\nHANDY 21,000 17,500 18,000 17,000\nMR IMO3 A 23.750 20,000 23,500 20,000\nLR1 27,500 22,000 26,500 24,500\nLR2 31,500 29,000 33,500 31,500\nAFRA (115% dat) 27,500 27,500 A 31,750 30,000\nSUEZ 24,000 23,000 33,500 32,500\nvicc 25,000 26,000 SA 35,000 v 32,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2022/assets/2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022_tanker-1-3_bfdf2935454d.jpg\n\nLinked image asset: 2022-08-24_weekly-tanker-time-charter-estimates-august-24-2022_tanker-1-3_bfdf2935454d.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nBAALIBRA Updated Weds 24 Aug 2022\nShipping United |\nWET TIME CHARTER ESTIMATE (S/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR- 5 YEAR-\nHANDY 21,000 17,500 18,000 17,000\nMR IMO3 A 23.750 20,000 23,500 20,000\nLR1 27,500 22,000 26,500 24,500\nLR2 31,500 29,000 33,500 31,500\nAFRA (115% dat) 27,500 27,500 A 31,750 30,000\nSUEZ 24,000 23,000 33,500 32,500\nvicc 25,000 26,000 SA 35,000 v 32,500",
       "keywords": [
         "handysize",
         "year",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 295,
+      "token_count": 316,
       "section_type": "linked_image_asset",
       "children": []
     }

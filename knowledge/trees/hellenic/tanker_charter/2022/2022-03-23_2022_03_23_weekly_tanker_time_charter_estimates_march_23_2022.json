@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 394,
+  "token_count": 404,
   "source_path": "reports/hellenic/tanker_charter/2022/2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-march-23-2022",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
-        "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-march-23-2022_img2.jpg"
+        "asset",
+        "linked",
+        "tanker_1-2.jpg"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 9,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2022-03-23_2022_03_23_weekly_tanker_time_charter_estimates_march_23_2022__s02_linked_asset_2022_03_23_weekly_tanker_time_charter_estimates_march_23_2022_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2022-03-23_2022_03_23_weekly_tanker_time_charter_estimates_march_23_2022__s02_linked_asset_2022_03_23_weekly_tanker_time_charter_estimates_march_23_2022_tanker_1_2_bd146f32464d_jpg",
       "doc_id": "hellenic_tanker_charter_2022-03-23_2022_03_23_weekly_tanker_time_charter_estimates_march_23_2022",
       "parent_id": "hellenic_tanker_charter_2022-03-23_2022_03_23_weekly_tanker_time_charter_estimates_march_23_2022__root",
-      "title": "Linked asset: 2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022_img2.jpg",
+      "title": "Linked asset: 2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022_tanker-1-2_bd146f32464d.jpg",
       "section_path": [
-        "Linked asset: 2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022_img2.jpg"
+        "Linked asset: 2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022_tanker-1-2_bd146f32464d.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022_tanker-1-2_bd146f32464d.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2022/2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022_img2.jpg\n\nLinked image asset: 2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nShinsping Limited *3 & Syrs inc scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1 YR 2 YR *3 YR *5 YR\nHANDY = 11,500 == 12,750 = 14,500 = 14,250\nMR IMO3 = 12,500 13,250 16,500 = 16,500\nLR1 = 14,500 15,250 = 17,500 a 17,500\nLR2 (115K dwt cpp & dpp) Y 16,000 & 19,000 = 26,000 = 26,000\nAFRA (115K dwt) \"& 17,850 4 19,000 25,000 = 25,000\nSUEZ = 18,000 = 20,000 » 27,000 = 27,000\nVLCC ‘v 19,000 ‘Y 21,000 & 36,000 A 37,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2022/assets/2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022_tanker-1-2_bd146f32464d.jpg\n\nLinked image asset: 2022-03-23_weekly-tanker-time-charter-estimates-march-23-2022_tanker-1-2_bd146f32464d.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nShinsping Limited *3 & Syrs inc scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1 YR 2 YR *3 YR *5 YR\nHANDY = 11,500 == 12,750 = 14,500 = 14,250\nMR IMO3 = 12,500 13,250 16,500 = 16,500\nLR1 = 14,500 15,250 = 17,500 a 17,500\nLR2 (115K dwt cpp & dpp) Y 16,000 & 19,000 = 26,000 = 26,000\nAFRA (115K dwt) \"& 17,850 4 19,000 25,000 = 25,000\nSUEZ = 18,000 = 20,000 » 27,000 = 27,000\nVLCC ‘v 19,000 ‘Y 21,000 & 36,000 A 37,500",
       "keywords": [
         "handysize",
         "vlcc",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 330,
+      "token_count": 351,
       "section_type": "linked_image_asset",
       "children": []
     }

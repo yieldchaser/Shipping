@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 519,
+  "token_count": 513,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-december-15-2021",
   "children": [
@@ -54,22 +54,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 175,
+      "token_count": 150,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2021-12-15_2021_12_15_weekly_tanker_time_charter_estimates_december_15_2021__s02_linked_asset_2021_12_15_weekly_tanker_time_charter_estimates_december_15_2021_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2021-12-15_2021_12_15_weekly_tanker_time_charter_estimates_december_15_2021__s02_linked_asset_2021_12_15_weekly_tanker_time_charter_estimates_december_15_2021_tanker_480043895e58_jpg",
       "doc_id": "hellenic_tanker_charter_2021-12-15_2021_12_15_weekly_tanker_time_charter_estimates_december_15_2021",
       "parent_id": "hellenic_tanker_charter_2021-12-15_2021_12_15_weekly_tanker_time_charter_estimates_december_15_2021__root",
-      "title": "Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_img2.jpg",
+      "title": "Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg",
       "section_path": [
-        "Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_img2.jpg"
+        "Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg"
       ],
-      "section_path_text": "Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_img2.jpg",
+      "section_path_text": "Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_img2.jpg\n\nLinked image asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nShipping Uneod *3 & Syrs inc. scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2 YR *3 YR *5 YR\nHANDY & 11,250 12,250 14,500 7 14,500\nMR IMO3 12,000 13,500 » 16,500 o 16,500\nLR1 & 13,500 15,250 > 17,250 1 17,500\nLR2 Y 16,500 19,750 = 24,950 = 26,000\nAFRA = 16,000 18,750 » 23,500 25,000\nSUEZ & 18,250 = 21,000 = 27,500 = 27,000\nVLCC 21,500 26,000 * 36,000 : 37,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/assets/2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg\n\nLinked image asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nShipping Uneod *3 & Syrs inc. scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2 YR *3 YR *5 YR\nHANDY & 11,250 12,250 14,500 7 14,500\nMR IMO3 12,000 13,500 » 16,500 o 16,500\nLR1 & 13,500 15,250 > 17,250 1 17,500\nLR2 Y 16,500 19,750 = 24,950 = 26,000\nAFRA = 16,000 18,750 » 23,500 25,000\nSUEZ & 18,250 = 21,000 = 27,500 = 27,000\nVLCC 21,500 26,000 * 36,000 : 37,500",
       "keywords": [
         "handysize",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 309,
+      "token_count": 322,
       "section_type": "linked_image_asset",
       "children": []
     }

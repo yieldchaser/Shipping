@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 11212,
+  "token_count": 11298,
   "source_path": "reports/hellenic/iron_ore/2024/2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-11-2024",
   "children": [
@@ -41,7 +41,7 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 11/04/2024\nDCE iron ore futures rose largely today, the main contract closed 826, an increase of 1.29% throughout the day。Traders are generally active inshipping, while steel mills are more hesitant and still mainly purchasing on demand. The overall market trading atmosphere is average.",
+      "summary": "DCE iron ore futures rose largely today, the main contract closed 826, an increase of 1.29% throughout the day。Traders are generally active inshipping, while steel mills are more hesitant and still mainly purchasing on demand. The overall market trading atmosphere is average.",
       "keywords": [
         "china",
         "iron_ore",
@@ -49,8 +49,8 @@
         "iron",
         "are",
         "powder",
-        "ore",
-        "prices"
+        "yuan",
+        "demand"
       ],
       "page_start": null,
       "page_end": null,
@@ -59,17 +59,17 @@
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2024-04-11_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024__s02_linked_asset_2024_04_11_mmi_daily_iron_ore_report_for_11th_april_2024_pdf",
+      "node_id": "hellenic_iron_ore_2024-04-11_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024__s02_linked_asset_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024_mmi_daily_iron_ore_report_for_11th_a_9bee2af3d471_pdf",
       "doc_id": "hellenic_iron_ore_2024-04-11_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024",
       "parent_id": "hellenic_iron_ore_2024-04-11_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024__root",
-      "title": "Linked asset: 2024-04-11_MMi-Daily-Iron-Ore-Report-for-11th-April-2024.pdf",
+      "title": "Linked asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_mmi-daily-iron-ore-report-for-11th-a_9bee2af3d471.pdf",
       "section_path": [
-        "Linked asset: 2024-04-11_MMi-Daily-Iron-Ore-Report-for-11th-April-2024.pdf"
+        "Linked asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_mmi-daily-iron-ore-report-for-11th-a_9bee2af3d471.pdf"
       ],
-      "section_path_text": "Linked asset: 2024-04-11_MMi-Daily-Iron-Ore-Report-for-11th-April-2024.pdf",
+      "section_path_text": "Linked asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_mmi-daily-iron-ore-report-for-11th-a_9bee2af3d471.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2024-04-11_MMi-Daily-Iron-Ore-Report-for-11th-April-2024.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Apr 11th, 2024\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n834 945 694\n1 0.08% 0.66 0.07% 2 0.35%\nApr 11th, 2024 Apr 11th, 2024 Apr 11th, 2024\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n108.35 120.08 900\n1.20 1.12% 0.78 0.65% -80 -8.16%\nApr 11th, 2024 Apr 11th, 2024 Week Ending Apr 5th, 2024\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2409 (sep) RMB/t (3pm close) May 24 USD/dmt RB2410 (oct) RMB/t\n826.00 108.35 3613\n12.50 1.54% 1.80 1.69% 30 0.84%\nApr 11th, 2024 (3pm close) Apr 11th, 2024 (5.30 pm Print) Apr 11th, 2024 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n24.95 8.99 3450\nz\n0.82 3.42% 0.",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_mmi-daily-iron-ore-report-for-11th-a_9bee2af3d471.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Apr 11th, 2024\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n834 945 694\n1 0.08% 0.66 0.07% 2 0.35%\nApr 11th, 2024 Apr 11th, 2024 Apr 11th, 2024\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n108.35 120.08 900\n1.20 1.12% 0.78 0.65% -80 -8.16%\nApr 11th, 2024 Apr 11th, 2024 Week Ending Apr 5th, 2024\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2409 (sep) RMB/t (3pm close) May 24 USD/dmt RB2410 (oct) RMB/t\n826.00 108.35 3613\n12.50 1.54% 1.80 1.69% 30 0.84%\nApr 11th, 2024 (3pm close) Apr 11th, 2024 (5.30 pm Print) Apr 11th, 2024 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (Chi",
       "keywords": [
         "china",
         "brazil",
@@ -82,35 +82,35 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 10091,
+      "token_count": 10111,
       "section_type": "linked_pdf",
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2024-04-11_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024__s03_linked_asset_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024_img2_jpg",
+      "node_id": "hellenic_iron_ore_2024-04-11_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024__s03_linked_asset_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024_img1_11042024chinese34rfg_f99150f31341_jpg",
       "doc_id": "hellenic_iron_ore_2024-04-11_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024",
       "parent_id": "hellenic_iron_ore_2024-04-11_2024_04_11_mmi_daily_iron_ore_index_report_april_11_2024__root",
-      "title": "Linked asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_img2.jpg",
+      "title": "Linked asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_img1_11042024chinese34rfg_f99150f31341.jpg",
       "section_path": [
-        "Linked asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_img2.jpg"
+        "Linked asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_img1_11042024chinese34rfg_f99150f31341.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_img1_11042024chinese34rfg_f99150f31341.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2024/2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_img2.jpg\n\nLinked image asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Apr 11th, 2024\nIRON ORE PORT STOCK INDEX (IOP!)\nApr 11th, 2024 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2024/assets/2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_img1_11042024chinese34rfg_f99150f31341.jpg\n\nLinked image asset: 2024-04-11_mmi-daily-iron-ore-index-report-april-11-2024_img1_11042024chinese34rfg_f99150f31341.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Apr 11th, 2024\nIRON ORE PORT STOCK INDEX (IOP!)\nApr 11th, 2024 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
+        "china",
         "brazil",
         "iron_ore",
         "steel",
         "iron",
         "change",
         "ore",
-        "price",
-        "fines"
+        "price"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 830,
+      "token_count": 861,
       "section_type": "linked_image_asset",
       "children": []
     }

@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 340,
+  "token_count": 390,
   "source_path": "reports/hellenic/dry_charter/2024/2024-04-17_weekly-dry-time-charter-estimates-april-17-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-april-17-2024",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img1_17420246_41d1737da3ca.jpg",
         "image",
-        "reference",
-        "weekly-dry-time-charter-estimates-april-17-2024_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 43,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2024-04-17_2024_04_17_weekly_dry_time_charter_estimates_april_17_2024__s02_linked_asset_2024_04_17_weekly_dry_time_charter_estimates_april_17_2024_img2_jpg",
+      "node_id": "hellenic_dry_charter_2024-04-17_2024_04_17_weekly_dry_time_charter_estimates_april_17_2024__s02_linked_asset_2024_04_17_weekly_dry_time_charter_estimates_april_17_2024_img1_17420246_41d1737da3ca_jpg",
       "doc_id": "hellenic_dry_charter_2024-04-17_2024_04_17_weekly_dry_time_charter_estimates_april_17_2024",
       "parent_id": "hellenic_dry_charter_2024-04-17_2024_04_17_weekly_dry_time_charter_estimates_april_17_2024__root",
-      "title": "Linked asset: 2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img2.jpg",
+      "title": "Linked asset: 2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img1_17420246_41d1737da3ca.jpg",
       "section_path": [
-        "Linked asset: 2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img2.jpg"
+        "Linked asset: 2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img1_17420246_41d1737da3ca.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img1_17420246_41d1737da3ca.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2024/2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img2.jpg\n\nLinked image asset: 2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA [| B R A Updated Weds 47 Apr 2024\nShipping Linited\nDRY BULK TIME CHARTER ESTIMATES ($/pdpr)\nSIZE ATL PAC ATL PAC ATL PAC\n| HANDY (32% aut) 14,000 14,000 | 14,350 14,000 12,650 | 12,500 |\nSMAXJULTRA | ¥ = 14,750 16.250 |¥ 15,500 15,250 15,000 14,250\n| PANAIKMAX 21,000 17,250 | 19,000 17,850 16,650 | 16,000 |\nCAPESIZE 25,000 25,000 26,000 26,000 24,000 24,000",
+      "summary": "Source asset: reports/hellenic/dry_charter/2024/assets/2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img1_17420246_41d1737da3ca.jpg\n\nLinked image asset: 2024-04-17_weekly-dry-time-charter-estimates-april-17-2024_img1_17420246_41d1737da3ca.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA [| B R A Updated Weds 47 Apr 2024\nShipping Linited\nDRY BULK TIME CHARTER ESTIMATES ($/pdpr)\nSIZE ATL PAC ATL PAC ATL PAC\n| HANDY (32% aut) 14,000 14,000 | 14,350 14,000 12,650 | 12,500 |\nSMAXJULTRA | ¥ = 14,750 16.250 |¥ 15,500 15,250 15,000 14,250\n| PANAIKMAX 21,000 17,250 | 19,000 17,850 16,650 | 16,000 |\nCAPESIZE 25,000 25,000 26,000 26,000 24,000 24,000",
       "keywords": [
         "capesize",
         "handysize",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 276,
+      "token_count": 301,
       "section_type": "linked_image_asset",
       "children": []
     }

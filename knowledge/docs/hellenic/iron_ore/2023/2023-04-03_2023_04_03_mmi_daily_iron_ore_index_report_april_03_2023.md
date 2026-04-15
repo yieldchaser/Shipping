@@ -27,7 +27,1319 @@ keywords:
 - fines
 - iron
 - ore
+linked_assets_discovered: 2
+linked_assets_failed: 0
+linked_assets_ingested: 2
+linked_assets_mirrored: 2
+linked_assets_skipped: 0
 market_tone: cautiously_bearish
+numeric_observation_count: 160
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: DCE iron ore futures declinedby 2.04% today, the main contract closed
+    at 890.5.The traders' willingness to ship is less.The steel mills are less active
+    to urchase.The overall trading sentiment of the market is negative.PBF at Shandong
+    port deal 900-909 yuan/mt
+  unit: worldscale_pct
+  values:
+  - 2.04
+  - 890.5
+  - 900.0
+  - -909.0
+  - 12.0
+  - -14.0
+  - 915.0
+  - -918.0
+  - 13.0
+  - -16.0
+- &id002
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_img1_03042023chinert_104927eae5cb.jpg'
+  unit: null
+  values:
+  - 2023.0
+  - -4.0
+  - -3.0
+  - 3.0
+  - -2023.0
+  - 3042023.0
+  - 104927.0
+- &id003
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: MMi Daily Iron Ore Index Report Apr 3rd, 2023
+  unit: null
+  values:
+  - 3.0
+  - 2023.0
+- &id004
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines
+    RMB/t
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 5.0
+  - 65.0
+  - 8.0
+  - 58.0
+- &id005
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 909 1023 829
+  unit: null
+  values:
+  - 909.0
+  - 1023.0
+  - 829.0
+- &id006
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: -30 -3.19% -27.63 -2.63% 7 0.85%
+  unit: pct
+  values:
+  - -30.0
+  - -3.19
+  - -27.63
+  - -2.63
+  - 7.0
+  - 0.85
+- &id007
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Apr 3rd, 2023 Apr 3rd, 2023 Apr 3rd, 2023
+  unit: null
+  values:
+  - 3.0
+  - 2023.0
+  - 3.0
+  - 2023.0
+  - 3.0
+  - 2023.0
+- &id008
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5%
+    Fe Lump RMB/t
+  unit: usd_per_unit
+  values:
+  - 2.0
+  - 62.0
+  - 5.0
+  - 65.0
+  - 62.5
+- &id009
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 144.75 148.80 1015
+  unit: null
+  values:
+  - 144.75
+  - 148.8
+  - 1015.0
+- &id010
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 0.00 0.00% 0.00 0.00% 20 2.01%
+  unit: pct
+  values:
+  - 20.0
+  - 2.01
+- &id011
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Apr 3rd, 2023 Apr 3rd, 2023 Week Ending Mar 31st, 2023
+  unit: null
+  values:
+  - 3.0
+  - 2023.0
+  - 3.0
+  - 2023.0
+  - 31.0
+  - 2023.0
+- &id012
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE
+    Rebar
+  unit: pct
+  values:
+  - 62.0
+  - 62.0
+- &id013
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: I2305 (Jan) RMB/t (3pm close) April 23 USD/dmt RB2305 (Jan) RMB/t
+  unit: usd_per_unit
+  values:
+  - 305.0
+  - 3.0
+  - 23.0
+  - 305.0
+- &id014
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 890.50 120.40 4044
+  unit: null
+  values:
+  - 890.5
+  - 120.4
+  - 4044.0
+- &id015
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: -16.50 -1.82% -5.10 -4.06% -117 -2.81%
+  unit: pct
+  values:
+  - -16.5
+  - -1.82
+  - -5.1
+  - -4.06
+  - -117.0
+  - -2.81
+- &id016
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Apr 3rd, 2023 (3pm close) Apr 3rd, 2023 (5.30 pm Print) Apr 3rd, 2023
+    (3pm close)
+  unit: null
+  values:
+  - 3.0
+  - 2023.0
+  - 3.0
+  - 3.0
+  - 2023.0
+  - 5.3
+  - 3.0
+  - 2023.0
+  - 3.0
+- &id017
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 21.00 7.90 4260
+  unit: null
+  values:
+  - 21.0
+  - 7.9
+  - 4260.0
+- &id018
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 0.12 0.56% 0.02 0.19% 50 1.19%
+  unit: pct
+  values:
+  - 0.12
+  - 0.56
+  - 0.02
+  - 0.19
+  - 50.0
+  - 1.19
+- &id019
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Mar 31st, 2023 Mar 31st, 2023 Week Ending Mar 31st, 2023
+  unit: null
+  values:
+  - 31.0
+  - 2023.0
+  - 31.0
+  - 2023.0
+  - 31.0
+  - 2023.0
+- &id020
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
+  unit: null
+  values:
+  - 35.0
+- &id021
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 131.02 17.31 4350
+  unit: null
+  values:
+  - 131.02
+  - 17.31
+  - 4350.0
+- &id022
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: -1.48 -1.12% -0.53 -2.95% 50 1.16%
+  unit: pct
+  values:
+  - -1.48
+  - -1.12
+  - -0.53
+  - -2.95
+  - 50.0
+  - 1.16
+- &id023
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Mar 31st, 2023 Week Ending Mar 31st, 2023 Week Ending Mar
+    31st, 2023
+  unit: null
+  values:
+  - 31.0
+  - 2023.0
+  - 31.0
+  - 2023.0
+  - 31.0
+  - 2023.0
+- &id024
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: www.mmiprices.com Page 1/6 Apr 3rd, 2023
+  unit: null
+  values:
+  - 1.0
+  - 6.0
+  - 3.0
+  - 2023.0
+- &id025
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Apr 3rd, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
+    Equivalent (exc. 13% VAT), USD/dry tonne ¹
+  unit: usd_per_unit
+  values:
+  - 3.0
+  - 2023.0
+  - 13.0
+  - 13.0
+- &id026
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 62% Fe Fines 909 -30 -3.2% 869 880 858 892 123.17 -4.35 -3.4%
+    120.06 120.58 117.93 122.93
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 909.0
+  - -30.0
+  - -3.2
+  - 869.0
+  - 880.0
+  - 858.0
+  - 892.0
+  - 123.17
+- &id027
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPI58 58% Fe Fines 829 7 0.9% 813 798 761 793 113.21 0.85 0.8% 113.29
+    110.17 105.29 110.04
+  unit: pct
+  values:
+  - 8.0
+  - 58.0
+  - 829.0
+  - 7.0
+  - 0.9
+  - 813.0
+  - 798.0
+  - 761.0
+  - 793.0
+  - 113.21
+- &id028
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPI65 65% Fe Fines 1023 -28 -2.6% 981 992 970 1003 139.10 -4.05 -2.8%
+    136.05 136.43 133.84 138.73
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 1023.0
+  - -28.0
+  - -2.6
+  - 981.0
+  - 992.0
+  - 970.0
+  - 1003.0
+  - 139.1
+- &id029
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Apr 3rd, 2023 CFR Qingdao, USD/dry tonne DCE iron ore futures declinedby
+    2.04% today, the main contract closed at 890.5.The traders' willingness to ship
+    is less.The steel mills are less
+  unit: usd_per_unit
+  values:
+  - 3.0
+  - 2023.0
+  - 2.04
+  - 890.5
+- &id030
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: ac(cid:415)ve to purchase.The overall trading sen(cid:415)ment of the
+    market is nega(cid:415)ve.PBF at Shandong port deal 900-909 yuan/mt, decrease
+    12-14 yuan/
+  unit: tonnage
+  values:
+  - 415.0
+  - 415.0
+  - 415.0
+  - 900.0
+  - -909.0
+  - 12.0
+  - -14.0
+- &id031
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Index Fe Content Price Change Change % MTD YTD Low 2 High 2 m or t
+    e .P s B h F ip a m t e T n a t n s g s to h t a a n l e p d o r 3 t 1 d .0 e
+    2 a l m 91 ill 5 io -9 n 1 t 8 o y n u s a , n a / n m in t, c d r e e c a r s
+    e e a s o e f 1 3 3 .4 -1 % 6 m yu o
+  unit: tonnage
+  values:
+  - 2.0
+  - 3.0
+  - 1.0
+  - 2.0
+  - 91.0
+  - 5.0
+  - -9.0
+  - 1.0
+  - 8.0
+  - 1.0
+- &id032
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 62% Fe Fines 144.75 0.00 0.00% 112.00 123.44 83.90 159.45 demand
+    side, a few steel mills have resumed produc(cid:415)on of blast furnaces, and
+    the growth rate of molten iron has narrowed compared to last
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 144.75
+  - 112.0
+  - 123.44
+  - 83.9
+  - 159.45
+  - 415.0
+- &id033
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: week. At present, there are many rumors of interviews with relevant
+    na(cid:415)onal departments in the market, and the market is pessimis(cid:415)c
+    about
+  unit: null
+  values:
+  - 415.0
+  - 415.0
+- &id034
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: the demand for finished products. market sen(cid:415)ment has been
+    affected to some extent. In the short term, iron ore prices are expected to
+  unit: null
+  values:
+  - 415.0
+- &id035
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOSI65 65% Fe Fines 148.80 0.00 0.00% 122.36 139.92 94.45 185.82 fluctuate
+    widely.
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 148.8
+  - 122.36
+  - 139.92
+  - 94.45
+  - 185.82
+- &id036
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Mar 31st, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
+    CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3
+  unit: usd_per_unit
+  values:
+  - 31.0
+  - 2023.0
+  - 13.0
+  - 13.0
+  - 3.0
+- &id037
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-o-W
+    Change % MTD YTD Low 2 High 2
+  unit: tonnage
+  values:
+  - 2.0
+  - 2.0
+  - 2.0
+  - 2.0
+- &id038
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPLI62 62.5% Fe Lump 1015 20 2.0% 920 1033 770 1405 132.31 3.65 2.84%
+    118.08 138.23 94.72 199.13
+  unit: pct
+  values:
+  - 2.0
+  - 62.5
+  - 1015.0
+  - 20.0
+  - 2.0
+  - 920.0
+  - 1033.0
+  - 770.0
+  - 1405.0
+  - 132.31
+- &id039
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Mar 31st, 2023 RMB/tonne (excluding tax) 3 USD/tonne (excluding
+    tax) 3
+  unit: usd_per_unit
+  values:
+  - 31.0
+  - 2023.0
+  - 3.0
+  - 3.0
+- &id040
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Hebei Hanxing 66% Fe Concentrate Dry 1037 -6.3% 779 1645 150.80 -6.48%
+    110.31 255.69
+  unit: pct
+  values:
+  - 66.0
+  - 1037.0
+  - -6.3
+  - 779.0
+  - 1645.0
+  - 150.8
+  - -6.48
+  - 110.31
+  - 255.69
+- &id041
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Hebei Qian'an 65% Fe Concentrate Dry 1100 1.4% 780 1630 159.96 1.21%
+    110.51 251.57
+  unit: pct
+  values:
+  - 65.0
+  - 1100.0
+  - 1.4
+  - 780.0
+  - 1630.0
+  - 159.96
+  - 1.21
+  - 110.51
+  - 251.57
+- &id042
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Liaoning Anshan 65% Fe Concentrate Wet 835 -1.2% 620 1310 121.42 -1.35%
+    87.40 202.32
+  unit: pct
+  values:
+  - 65.0
+  - 835.0
+  - -1.2
+  - 620.0
+  - 1310.0
+  - 121.42
+  - -1.35
+  - 87.4
+  - 202.32
+- &id043
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Shandong Zibo 65% Fe Concentrate Dry 1054 -7.0% 800 1752 153.27 -7.13%
+    117.19 272.32
+  unit: pct
+  values:
+  - 65.0
+  - 1054.0
+  - -7.0
+  - 800.0
+  - 1752.0
+  - 153.27
+  - -7.13
+  - 117.19
+  - 272.32
+- &id044
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 'Week Ending Mar 31st, 2023 This week Change % Low 2 High 2 ¹ Exchange
+    rate applied: RMB/USD = 6.7522 ²Last 12 months'
+  unit: pct
+  values:
+  - 31.0
+  - 2023.0
+  - 2.0
+  - 2.0
+  - 6.7522
+- &id045
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: '3 Weekly exchange rate applied: RMB/USD =6.8651'
+  unit: usd
+  values:
+  - 3.0
+  - 6.8651
+- &id046
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: China Mines Concentrate Composite Index RMB/WT 966.69 -1.74% 706.36
+    1511.22
+  unit: pct
+  values:
+  - 966.69
+  - -1.74
+  - 706.36
+  - 1511.22
+- &id047
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 2000 320
+  unit: null
+  values:
+  - 2000.0
+  - 320.0
+- &id048
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1400 220
+  unit: null
+  values:
+  - 1400.0
+  - 220.0
+- &id049
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 800 120
+  unit: null
+  values:
+  - 800.0
+  - 120.0
+- &id050
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 IOPI58 IOPI65
+  unit: null
+  values:
+  - 2.0
+  - 8.0
+  - 5.0
+- &id051
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Apr 3rd, 2023 CFR Qingdao, USD/dry tonne
+  unit: usd_per_unit
+  values:
+  - 3.0
+  - 2023.0
+- &id052
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 62% Fe Fines 108.92 119.76 127.73 134.77 112.00 111.79 123.44
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 108.92
+  - 119.76
+  - 127.73
+  - 134.77
+  - 112.0
+  - 111.79
+  - 123.44
+- &id053
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOSI65 65% Fe Fines 116.83 132.39 138.06 145.14 122.36 122.60 139.92
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 116.83
+  - 132.39
+  - 138.06
+  - 145.14
+  - 122.36
+  - 122.6
+  - 139.92
+- &id054
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Mar 31st, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
+    CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
+  unit: usd_per_unit
+  values:
+  - 31.0
+  - 2023.0
+  - 13.0
+  - 13.0
+- &id055
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPLI62 62.5% Fe Lump 922 964 988 1012 920 918 1033 117.06 126.47 129.95
+    131.15 118.52 118.76 138.13
+  unit: pct
+  values:
+  - 2.0
+  - 62.5
+  - 922.0
+  - 964.0
+  - 988.0
+  - 1012.0
+  - 920.0
+  - 918.0
+  - 1033.0
+  - 117.06
+- &id056
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: www.mmiprices.com Page 2/6 Apr 3rd, 2023
+  unit: null
+  values:
+  - 2.0
+  - 6.0
+  - 3.0
+  - 2023.0
+- &id057
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 12-naJ-1 12-beF-1 12-raM-1 12-rpA-1 12-yaM-1 12-nuJ-1 12-luJ-1 12-guA-1
+    12-peS-1 12-tcO-1 12-voN-1 12-ceD-1 22-naJ-1 22-beF-1 22-raM-1 22-rpA-1 22-yaM-1
+    22-nuJ-1 22-luJ-1 22-guA-1 22-peS-1 22-tcO-1 22-voN-1 22-ceD-1 32-naJ-1 32-beF-1
+    32-raM-1 32-rpA-1
+  unit: null
+  values:
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+- &id058
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 IOSI65
+  unit: null
+  values:
+  - 2.0
+  - 5.0
+- &id059
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Apr 3rd, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
+    Equivalent (exc. 13% VAT), USD/dry tonne
+  unit: usd_per_unit
+  values:
+  - 3.0
+  - 2023.0
+  - 13.0
+  - 13.0
+- &id060
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 62% Fe Fines 822 856 892 924 869 881 880 109.43 117.00 121.64
+    124.91 120.06 120.90 120.58
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 822.0
+  - 856.0
+  - 892.0
+  - 924.0
+  - 869.0
+  - 881.0
+  - 880.0
+  - 109.43
+- &id061
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPI58 58% Fe Fines 711 751 799 832 813 792 798 95.17 103.34 109.79
+    113.41 113.29 109.35 110.17
+  unit: pct
+  values:
+  - 8.0
+  - 58.0
+  - 711.0
+  - 751.0
+  - 799.0
+  - 832.0
+  - 813.0
+  - 792.0
+  - 798.0
+  - 95.17
+- &id062
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPI65 65% Fe Fines 935 968 1003 1036 981 993 992 124.90 132.80 137.36
+    140.49 136.05 136.72 136.43
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 935.0
+  - 968.0
+  - 1003.0
+  - 1036.0
+  - 981.0
+  - 993.0
+  - 992.0
+  - 124.9
+- &id063
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Mar 31st, 2023 FREIGHT RATES - DRY BULK US$/wet tonne
+  unit: usd
+  values:
+  - 31.0
+  - 2023.0
+- &id064
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Route Designation Change Change % Low 2 High 2
+  unit: pct
+  values:
+  - 2.0
+  - 2.0
+- &id065
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: W. Australia - Qingdao C5 7.90 0.02 0.19% 3.57 16.77
+  unit: pct
+  values:
+  - 7.9
+  - 0.02
+  - 0.19
+  - 3.57
+  - 16.77
+- &id066
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Tubarao - Qingdao C3 21.00 0.12 0.56% 6.70 36.40
+  unit: pct
+  values:
+  - 21.0
+  - 0.12
+  - 0.56
+  - 6.7
+  - 36.4
+- &id067
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Apr 3rd, 2023 PORT STOCK INDEX (RMB/WT) Apr 3rd, 2023 SEABORNE INDEX
+    (USD/DMT)
+  unit: usd_per_unit
+  values:
+  - 3.0
+  - 2023.0
+  - 3.0
+  - 2023.0
+- &id068
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content
+    Spread to IOSI62 % Spread to IOSI62
+  unit: pct
+  values:
+  - 2.0
+  - 2.0
+  - 2.0
+  - 2.0
+- &id069
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPI58 58% Fe Fines -80 -8.80%
+  unit: pct
+  values:
+  - 8.0
+  - 58.0
+  - -80.0
+  - -8.8
+- &id070
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOPI65 65% Fe Fines 114 12.54% IOSI65 65% Fe Fines 4.05 2.80%
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 114.0
+  - 12.54
+  - 5.0
+  - 65.0
+  - 4.05
+  - 2.8
+- &id071
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: www.mmiprices.com Page 3/6 Apr 3rd, 2023
+  unit: null
+  values:
+  - 3.0
+  - 6.0
+  - 3.0
+  - 2023.0
+- &id072
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1,650.00
+  unit: null
+  values:
+  - 1650.0
+- &id073
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1,550.00
+  unit: null
+  values:
+  - 1550.0
+- &id074
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1,450.00
+  unit: null
+  values:
+  - 1450.0
+- &id075
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1,350.00
+  unit: null
+  values:
+  - 1350.0
+- &id076
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1,250.00
+  unit: null
+  values:
+  - 1250.0
+- &id077
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1,150.00
+  unit: null
+  values:
+  - 1150.0
+- &id078
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1,050.00
+  unit: null
+  values:
+  - 1050.0
+- &id079
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: '950.00'
+  unit: null
+  values:
+  - 950.0
+- &id080
+  section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: '850.00'
+  unit: null
+  values:
+  - 850.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: '750.00'
+  unit: null
+  values:
+  - 750.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: '650.00'
+  unit: null
+  values:
+  - 650.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent) China Domestic
+    Composite Mines Index
+  unit: null
+  values:
+  - 2.0
+  - 2.0
+  - 5.0
+  - 5.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Price Change Diff to IOPI62 Price Change Diff to IOSI62
+  unit: null
+  values:
+  - 2.0
+  - 2.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Roy Hill 852 -30 -57 Roy Hill 140.25 0.00 -4.50
+  unit: null
+  values:
+  - 852.0
+  - -30.0
+  - -57.0
+  - 140.25
+  - -4.5
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: SIMEC Fines 782 -30 -127 SIMEC Fines 136.75 0.00 -8.00
+  unit: null
+  values:
+  - 782.0
+  - -30.0
+  - -127.0
+  - 136.75
+  - -8.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: PB Fines 877 -29 -32 PB Fines 141.00 0.00 -3.75
+  unit: null
+  values:
+  - 877.0
+  - -29.0
+  - -32.0
+  - 141.0
+  - -3.75
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Newman Fines 878 -30 -31 Newman Fines 143.90 0.00 -0.85
+  unit: null
+  values:
+  - 878.0
+  - -30.0
+  - -31.0
+  - 143.9
+  - -0.85
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: MAC Fines 859 -30 -50 MAC Fines 141.00 0.00 -3.75
+  unit: null
+  values:
+  - 859.0
+  - -30.0
+  - -50.0
+  - 141.0
+  - -3.75
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Jimblebar Blended Fines 774 -30 -135 Jimblebar Blended Fines 133.40
+    0.00 -11.35
+  unit: null
+  values:
+  - 774.0
+  - -30.0
+  - -135.0
+  - 133.4
+  - -11.35
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Carajas Fines 1090 -30 181 Carajas Fines 174.30 0.00 29.55
+  unit: null
+  values:
+  - 1090.0
+  - -30.0
+  - 181.0
+  - 174.3
+  - 29.55
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Brazilian SSF 874 -30 -35 Brazilian SSF 148.50 0.00 3.75
+  unit: null
+  values:
+  - 874.0
+  - -30.0
+  - -35.0
+  - 148.5
+  - 3.75
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Brazilian Blend Fines 890 -30 -19 Brazilian Blend Fines 150.15 0.00
+    5.40
+  unit: null
+  values:
+  - 890.0
+  - -30.0
+  - -19.0
+  - 150.15
+  - 5.4
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: RTX Fines 792 -30 -117 RTX Fines 134.65 0.00 -10.10
+  unit: null
+  values:
+  - 792.0
+  - -30.0
+  - -117.0
+  - 134.65
+  - -10.1
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: West Pilbara Fines 820 -30 -89 West Pilbara Fines 139.00 0.00 -5.75
+  unit: null
+  values:
+  - 820.0
+  - -30.0
+  - -89.0
+  - 139.0
+  - -5.75
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Apr 3rd, 2023 PORT STOCK INDEX (RMB/WT)
+  unit: null
+  values:
+  - 3.0
+  - 2023.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Price Change Diff to IOPI58
+  unit: null
+  values:
+  - 8.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: SSF 829 7 0
+  unit: null
+  values:
+  - 829.0
+  - 7.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: FMG Blended Fines 839 7 10
+  unit: null
+  values:
+  - 839.0
+  - 7.0
+  - 10.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Robe River 840 7 11
+  unit: null
+  values:
+  - 840.0
+  - 7.0
+  - 11.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Western Fines 843 7 14
+  unit: null
+  values:
+  - 843.0
+  - 7.0
+  - 14.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Atlas Fines 836 7 7
+  unit: null
+  values:
+  - 836.0
+  - 7.0
+  - 7.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Yandi 821 7 -8
+  unit: null
+  values:
+  - 821.0
+  - 7.0
+  - -8.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: High Grade Fe 60 - 63% 6.00 1.00 High Grade Fe 60 - 63% 2.50 0.75
+  unit: pct
+  values:
+  - 60.0
+  - 63.0
+  - 6.0
+  - 1.0
+  - 60.0
+  - 63.0
+  - 2.5
+  - 0.75
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: High Grade Fe 63 - 64% 5.00 0.00 High Grade Fe 63 - 64% 1.50 -0.50
+  unit: pct
+  values:
+  - 63.0
+  - 64.0
+  - 5.0
+  - 63.0
+  - 64.0
+  - 1.5
+  - -0.5
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1% Fe High Grade Fe 64 - 65% 5.00 0.00 1% Fe High Grade Fe 64 - 65%
+    1.50 -0.50
+  unit: pct
+  values:
+  - 1.0
+  - 64.0
+  - 65.0
+  - 5.0
+  - 1.0
+  - 64.0
+  - 65.0
+  - 1.5
+  - -0.5
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: High Grade Fe 65 - 65.5% 5.00 0.00 High Grade Fe 65 - 65.5% 1.50 -0.50
+  unit: pct
+  values:
+  - 65.0
+  - 65.5
+  - 5.0
+  - 65.0
+  - 65.5
+  - 1.5
+  - -0.5
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Low Grade Fe 14.00 0.00
+  unit: null
+  values:
+  - 14.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade Al <2.25% 36.00 1.00 High Fe Grade Al <2.25% 1.75 0.00
+  unit: pct
+  values:
+  - 2.25
+  - 36.0
+  - 1.0
+  - 2.25
+  - 1.75
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade Al 2.25-4% 10.00 0.00 High Fe Grade Al 2.25-4% 0.25 -0.50
+  unit: pct
+  values:
+  - 2.25
+  - -4.0
+  - 10.0
+  - 2.25
+  - -4.0
+  - 0.25
+  - -0.5
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1% Alumina 1% Alumina
+  unit: pct
+  values:
+  - 1.0
+  - 1.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Low Fe Grade Al <2.25% 58.00 8.00
+  unit: pct
+  values:
+  - 2.25
+  - 58.0
+  - 8.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Low Fe Grade Al 2.25-4% 12.00 -1.00
+  unit: pct
+  values:
+  - 2.25
+  - -4.0
+  - 12.0
+  - -1.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade Si <4% 12.00 0.00 High Fe Grade Si <4% 2.25 -0.50
+  unit: pct
+  values:
+  - 4.0
+  - 12.0
+  - 4.0
+  - 2.25
+  - -0.5
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: 1% Silica High Fe Grade Si 4-6.5% 23.00 3.00 1% Silica High Fe Grade
+    Si 4 - 6.5% 3.00 0.75
+  unit: pct
+  values:
+  - 1.0
+  - 4.0
+  - -6.5
+  - 23.0
+  - 3.0
+  - 1.0
+  - 4.0
+  - 6.5
+  - 3.0
+  - 0.75
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Low Fe Grade 5.00 0.00
+  unit: null
+  values:
+  - 5.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade 0.09%<P<0.115% 6.00 1.00 0.01% High Fe Grade 0.09%<P<0.115%
+    0.25 -0.50
+  unit: pct
+  values:
+  - 0.09
+  - 0.115
+  - 6.0
+  - 1.0
+  - 0.01
+  - 0.09
+  - 0.115
+  - 0.25
+  - -0.5
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade 0.115%<P<0.15% 6.00 1.00 Phosphorus High Fe Grade 0.115%<P<0.15%
+    5.00 0.00
+  unit: pct
+  values:
+  - 0.115
+  - 0.15
+  - 6.0
+  - 1.0
+  - 0.115
+  - 0.15
+  - 5.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Low Fe Grade 0.09<P<0.1% 5.00 0.00
+  unit: pct
+  values:
+  - 0.09
+  - 0.1
+  - 5.0
+- section: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
+  section_type: linked_pdf
+  source_line: Bayuquan -100.00 0.00 Fangcheng -25.00 0.00 Lanshan 0.00 0.00 Rizhao
+    0.00 0.00
+  unit: null
+  values:
+  - -100.0
+  - -25.0
 regions:
 - china
 - brazil
@@ -40,13 +1352,6 @@ signals:
     index_62_fines: 62.0
     index_65_fines: 65.0
   iron_ore_metrics:
-  - metric: numeric_observation
-    source_line: in Chinese iron ore and steelmaking prices 03/04/2023
-    unit: null
-    values:
-    - 3.0
-    - 4.0
-    - 2023.0
   - metric: numeric_observation
     source_line: DCE iron ore futures declinedby 2.04% today, the main contract closed
       at 890.5.The traders' willingness to ship is less.The steel mills are less active
@@ -62,15 +1367,18 @@ signals:
     - -14.0
     - 915.0
     - -918.0
-  - metric: numeric_observation
-    source_line: 'Linked asset: 2023-04-03_MMi-Daily-Iron-Ore-Report-for-3th-April-2023_compressed.pdf'
+  - metric: index
+    source_line: 'Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf'
     unit: null
     values:
     - 2023.0
     - -4.0
     - -3.0
     - 3.0
-    - 2023.0
+    - -2023.0
+    - 3.0
+    - 371.0
+    - 353.0
   - metric: index
     source_line: MMi Daily Iron Ore Index Report Apr 3rd, 2023
     unit: null
@@ -546,10 +1854,99 @@ signals:
     - 843.0
     - 7.0
     - 14.0
+  - metric: numeric_observation
+    source_line: Atlas Fines 836 7 7
+    unit: null
+    values:
+    - 836.0
+    - 7.0
+    - 7.0
   metric_units:
   - pct
   - usd
   - usd_per_dmt
+  numeric_observation_count: 160
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
+  - *id025
+  - *id026
+  - *id027
+  - *id028
+  - *id029
+  - *id030
+  - *id031
+  - *id032
+  - *id033
+  - *id034
+  - *id035
+  - *id036
+  - *id037
+  - *id038
+  - *id039
+  - *id040
+  - *id041
+  - *id042
+  - *id043
+  - *id044
+  - *id045
+  - *id046
+  - *id047
+  - *id048
+  - *id049
+  - *id050
+  - *id051
+  - *id052
+  - *id053
+  - *id054
+  - *id055
+  - *id056
+  - *id057
+  - *id058
+  - *id059
+  - *id060
+  - *id061
+  - *id062
+  - *id063
+  - *id064
+  - *id065
+  - *id066
+  - *id067
+  - *id068
+  - *id069
+  - *id070
+  - *id071
+  - *id072
+  - *id073
+  - *id074
+  - *id075
+  - *id076
+  - *id077
+  - *id078
+  - *id079
+  - *id080
   signal_family: hellenic_iron_ore_indices
 source: hellenic
 source_path: reports/hellenic/iron_ore/2023/2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023.html
@@ -589,13 +1986,12 @@ in Chinese iron ore and steelmaking prices 03/04/2023
 DCE iron ore futures declinedby 2.04% today, the main contract closed at 890.5.The traders' willingness to ship is less.The steel mills are less active to urchase.The overall trading sentiment of the market is negative.PBF at Shandong port deal 900-909 yuan/mt, decrease 12-14 yuan/ mt.PBF at Tangshan port deal 915-918 yuan/mt,decrease 13-16 yuan/mt. According to SMM global shipping data, this week, SMM's global iron ore shipments totaled 31.02 million tons, an increase of 3.4% month on month; Among them, the traffic volume in Australia has decreased, while the traffic volume in Brazil has increased slightly; The total number of arrivals from major ports in China has declined slightly. On the demand side, a few steel mills have resumed production of blast furnaces, and the growth rate of molten iron has narrowed compared to last week.
 
 ## Main
-in Chinese iron ore and steelmaking prices 03/04/2023
 DCE iron ore futures declinedby 2.04% today, the main contract closed at 890.5.The traders' willingness to ship is less.The steel mills are less active to urchase.The overall trading sentiment of the market is negative.PBF at Shandong port deal 900-909 yuan/mt, decrease 12-14 yuan/ mt.PBF at Tangshan port deal 915-918 yuan/mt,decrease 13-16 yuan/mt. According to SMM global shipping data, this week, SMM's global iron ore shipments totaled 31.02 million tons, an increase of 3.4% month on month; Among them, the traffic volume in Australia has decreased, while the traffic volume in Brazil has increased slightly; The total number of arrivals from major ports in China has declined slightly. On the demand side, a few steel mills have resumed production of blast furnaces, and the growth rate of molten iron has narrowed compared to last week. At present, there are many rumors of interviews with relevant national departments in the market, and the market is pessimistic about the demand for finished products. market senƟment has been affected to some extent. In the short term, iron ore prices are expected to fluctuate widely.
-Image reference: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_img2.jpg
+Image reference: assets/2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_img1_03042023chinert_104927eae5cb.jpg
 Source: Metals Market Index (MMi)
 
-## Linked asset: 2023-04-03_MMi-Daily-Iron-Ore-Report-for-3th-April-2023_compressed.pdf
-Source asset: reports/hellenic/iron_ore/pdfs/2023-04-03_MMi-Daily-Iron-Ore-Report-for-3th-April-2023_compressed.pdf
+## Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf
+Source asset: reports/hellenic/iron_ore/pdfs/2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_mmi-daily-iron-ore-report-for-3th-ap_371c6f3d8353.pdf
 
 [Page 1]
 MMi Daily Iron Ore Index Report Apr 3rd, 2023
@@ -1031,10 +2427,10 @@ express wri(cid:425)en authority of MMi is forbidden.
 www.mmiprices.com Page 6/6 Apr 3rd, 2023
 COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
 
-## Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_img2.jpg
-Source asset: reports/hellenic/iron_ore/2023/2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_img2.jpg
+## Linked asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_img1_03042023chinert_104927eae5cb.jpg
+Source asset: reports/hellenic/iron_ore/2023/assets/2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_img1_03042023chinert_104927eae5cb.jpg
 
-Linked image asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_img2.jpg
+Linked image asset: 2023-04-03_mmi-daily-iron-ore-index-report-april-03-2023_img1_03042023chinert_104927eae5cb.jpg
 
 Image metadata: JPEG 1600x743 mode=RGB
 

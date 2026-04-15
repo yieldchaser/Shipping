@@ -3,10 +3,9 @@ categories:
 - dry_charter
 - drybulk
 - insights
-- vessel_valuations
 document_count: 101
 evidence_count: 250
-generated_at: '2026-04-15T12:35:56Z'
+generated_at: '2026-04-15T18:04:05Z'
 latest_evidence_date: '2026-04-14'
 page_type: topic_wiki
 related_topics:
@@ -21,7 +20,7 @@ topic_id: panamax_and_supramax
 ---
 
 ## Summary
-Panamax, supramax, and handysize market structure across grain, coal, and minor-bulk trades, especially where regional cargo shifts alter fleet utilization. The current wiki page is grounded in 250 cited sections from 101 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-14, with the strongest recurring markers being coal, grain, panamax, supramax, handysize. Primary coverage comes from categories such as dry_charter, drybulk, insights, vessel_valuations.
+Panamax, supramax, and handysize market structure across grain, coal, and minor-bulk trades, especially where regional cargo shifts alter fleet utilization. The current wiki page is grounded in 250 cited sections from 101 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-14, with the strongest recurring markers being coal, grain, panamax, supramax, handysize. Primary coverage comes from categories such as dry_charter, drybulk, insights.
 
 ## Why It Matters
 Panamax, supramax, and handysize market structure across grain, coal, and minor-bulk trades, especially where regional cargo shifts alter fleet utilization.
@@ -37,14 +36,14 @@ Panamax, supramax, and handysize market structure across grain, coal, and minor-
 - 2026-04-09 | breakwave_insights insights | Main: By Michalis Voutsinas Since the onset of the Middle East conflict, commodity markets have been at the epicenter of global macro repricing, with energy leading a strong and sustained rally that has progressively filtered through the broader raw materials complex. The disruption of flows through the Strait of Hormuz - through which approximately one-fifth of global oil and LNG shipments transit - triggered a severe supply-side shock, pushing oil prices decisively above the $100 per barrel threshold and at one stage marking gains in excess of 50 percent from pre-conflict levels. [doc_id: breakwave_insights_insights_2026-04-09_2026_04_09_uncertainty_and_volatility_in_commodity_markets | section_id: breakwave_insights_insights_2026-04-09_2026_04_09_uncertainty_and_volatility_in_commodity_markets__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-01-30 to 2026-04-14 across 1 calendar years.
+- Coverage span: 2026-01-23 to 2026-04-14 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: coal, grain, panamax, supramax, handysize, india
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 220, hellenic: 25, breakwave: 5
-- Category coverage: insights: 220, vessel_valuations: 15, dry_charter: 10, drybulk: 5
-- Tone distribution: cautiously_bearish: 111, constructive: 95, neutral: 44
+- Source coverage: breakwave_insights: 234, hellenic: 11, breakwave: 5
+- Category coverage: insights: 234, dry_charter: 11, drybulk: 5
+- Tone distribution: cautiously_bearish: 109, constructive: 96, neutral: 45
 - Related topics: dry_bulk_market, coal_and_grain_flows
 
 ## Key Documents
@@ -52,10 +51,10 @@ Panamax, supramax, and handysize market structure across grain, coal, and minor-
 - 2026-04-14 | Breakwave Bi-Weekly Dry Bulk Report - April 14, 2026 [doc_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9 | section_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9__s04_linked_asset_2026_04_14_4142026db_report2026april14llo4_wmso9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca1089e95c13_png | pages n/a]
 - 2026-04-13 | Coal India's Stockpiles Set Another Record [doc_id: breakwave_insights_insights_2026-04-13_2026_04_13_coal_indias_stockpiles_set_another_record | section_id: breakwave_insights_insights_2026-04-13_2026_04_13_coal_indias_stockpiles_set_another_record__s04_linked_asset_2026_04_13_coal_indias_stockpiles_set_another_record_img_243_6f7bb673b293_jpg | pages n/a]
 - 2026-04-09 | Uncertainty and volatility in commodity markets [doc_id: breakwave_insights_insights_2026-04-09_2026_04_09_uncertainty_and_volatility_in_commodity_markets | section_id: breakwave_insights_insights_2026-04-09_2026_04_09_uncertainty_and_volatility_in_commodity_markets__s01_main | pages n/a]
-- 2026-04-08 | Weekly Dry Time Charter Estimates, April 08 2026 [doc_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026 | section_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026__s02_linked_asset_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026_img2_jpg | pages n/a]
+- 2026-04-08 | Weekly Dry Time Charter Estimates, April 08 2026 [doc_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026 | section_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026__s02_linked_asset_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026_8420250_2d48830465bd_jpg | pages n/a]
 - 2026-04-08 | India's growth potential [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential__s01_main | pages n/a]
 - 2026-04-08 | Indian Electricity Production Remains Weak [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak__s03_linked_asset_2026_04_08_indian_electricity_production_remains_weak_img_242_a76dbddfdc8f_jpg | pages n/a]
-- 2026-04-07 | Weekly Vessel Valuations Report, April 07 2026 [doc_id: hellenic_vessel_valuations_2026-04-07_2026_04_08_weekly_vessel_valuations_report_april_07_2026 | section_id: hellenic_vessel_valuations_2026-04-07_2026_04_08_weekly_vessel_valuations_report_april_07_2026__s01_main | pages n/a]
+- 2026-04-07 | One of the most active S&P periods in recent memory [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__s01_main | pages n/a]
 
 ## Related Topics
 - dry_bulk_market

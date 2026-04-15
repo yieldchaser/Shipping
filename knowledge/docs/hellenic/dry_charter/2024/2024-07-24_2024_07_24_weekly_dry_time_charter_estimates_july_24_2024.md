@@ -14,7 +14,116 @@ keywords:
 - main
 - reference
 - weekly-dry-time-charter-estimates-july-24-2024_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 9
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg'
+  unit: null
+  values:
+  - 2024.0
+  - -7.0
+  - -24.0
+  - 24.0
+  - -2024.0
+  - 536474.0
+  - 7.0
+  - 44.0
+- &id002
+  section: 'Linked asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg'
+  unit: null
+  values:
+  - 2024.0
+  - -7.0
+  - -24.0
+  - 24.0
+  - -2024.0
+  - 536474.0
+  - 7.0
+  - 44.0
+- &id003
+  section: 'Linked asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 716x320 mode=RGB'
+  unit: null
+  values:
+  - 716.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (120, 120)'
+  unit: null
+  values:
+  - 120.0
+  - 120.0
+- &id005
+  section: 'Linked asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg'
+  section_type: linked_image_asset
+  source_line: 3 A L| B RA Updated Weds 24 Jul 2024
+  unit: null
+  values:
+  - 3.0
+  - 24.0
+  - 2024.0
+- &id006
+  section: 'Linked asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY (38 one) 13,500 15,500 13,000 15,000 11,850 | 14,000 |
+  unit: null
+  values:
+  - 38.0
+  - 13500.0
+  - 15500.0
+  - 13000.0
+  - 15000.0
+  - 11850.0
+  - 14000.0
+- &id007
+  section: 'Linked asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg'
+  section_type: linked_image_asset
+  source_line: SMAX/ULTRA 18,000 v 17,500 17,500 16,500 16,250 16,000
+  unit: null
+  values:
+  - 18000.0
+  - 17500.0
+  - 17500.0
+  - 16500.0
+  - 16250.0
+  - 16000.0
+- &id008
+  section: 'Linked asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg'
+  section_type: linked_image_asset
+  source_line: PANAIKMAX 20,500 15,750 16,000 15,850 16,000 15,500 |
+  unit: null
+  values:
+  - 20500.0
+  - 15750.0
+  - 16000.0
+  - 15850.0
+  - 16000.0
+  - 15500.0
+- &id009
+  section: 'Linked asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE vy 25,000 25,000 24,000 24,000 23,000 23,000
+  unit: null
+  values:
+  - 25000.0
+  - 25000.0
+  - 24000.0
+  - 24000.0
+  - 23000.0
+  - 23000.0
 regions:
 - atlantic
 - pacific
@@ -24,6 +133,17 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 9
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
   rate_observations:
   - segment: handysize
     source_line: HANDY (38 one) 13,500 15,500 13,000 15,000 11,850 | 14,000 |
@@ -143,12 +263,12 @@ Coritact us for rates/charts on scrubber & eco tonnage. Arrows only indicate the
 Call for an in-depth update www aibrashipping com
 
 ## Main
-Image reference: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img2.jpg
+Image reference: assets/2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg
 
-## Linked asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img2.jpg
-Source asset: reports/hellenic/dry_charter/2024/2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img2.jpg
+## Linked asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg
+Source asset: reports/hellenic/dry_charter/2024/assets/2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg
 
-Linked image asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img2.jpg
+Linked image asset: 2024-07-24_weekly-dry-time-charter-estimates-july-24-2024_img1_536474_e4e77e244d40.jpg
 
 Image metadata: JPEG 716x320 mode=RGB
 

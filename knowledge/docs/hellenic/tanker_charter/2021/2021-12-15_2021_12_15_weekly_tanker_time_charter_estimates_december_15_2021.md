@@ -21,7 +21,133 @@ keywords:
 - one
 - particularly
 - sector
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 12
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: Very little to report in terms of timecharter activity in the crude
+    sector this week, and rates have remained flat overall. However, news that China,
+    the world's number one importer of crude, has ramped up its imports has been welcomed
+    by investors. Imports we
+  unit: null
+  values:
+  - 10.17
+  - 8.9
+- &id002
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  unit: null
+  values:
+  - 2021.0
+  - -12.0
+  - -15.0
+  - 15.0
+  - -2021.0
+  - 480043895.0
+  - 8.0
+- &id003
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (72.0, 72.0)'
+  unit: null
+  values:
+  - 72.0
+  - 72.0
+- &id005
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: Shipping Uneod *3 & Syrs inc. scrubber & eco tonnage
+  unit: null
+  values:
+  - 3.0
+- &id006
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY & 11,250 12,250 14,500 7 14,500
+  unit: null
+  values:
+  - 11250.0
+  - 12250.0
+  - 14500.0
+  - 7.0
+  - 14500.0
+- &id007
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: MR IMO3 12,000 13,500 » 16,500 o 16,500
+  unit: null
+  values:
+  - 12000.0
+  - 13500.0
+  - 16500.0
+  - 16500.0
+- &id008
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: LR1 & 13,500 15,250 > 17,250 1 17,500
+  unit: null
+  values:
+  - 13500.0
+  - 15250.0
+  - 17250.0
+  - 1.0
+  - 17500.0
+- &id009
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: LR2 Y 16,500 19,750 = 24,950 = 26,000
+  unit: null
+  values:
+  - 16500.0
+  - 19750.0
+  - 24950.0
+  - 26000.0
+- &id010
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: AFRA = 16,000 18,750 » 23,500 25,000
+  unit: null
+  values:
+  - 16000.0
+  - 18750.0
+  - 23500.0
+  - 25000.0
+- &id011
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: SUEZ & 18,250 = 21,000 = 27,500 = 27,000
+  unit: null
+  values:
+  - 18250.0
+  - 21000.0
+  - 27500.0
+  - 27000.0
+- &id012
+  section: 'Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg'
+  section_type: linked_image_asset
+  source_line: 'VLCC 21,500 26,000 * 36,000 : 37,500'
+  unit: null
+  values:
+  - 21500.0
+  - 26000.0
+  - 36000.0
+  - 37500.0
 regions:
 - meg
 - west_africa
@@ -31,6 +157,20 @@ section_count: 2
 signals:
   metric_units:
   - ws
+  numeric_observation_count: 12
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
   rate_observations:
   - segment: vlcc
     source_line: Very little to report in terms of timecharter activity in the crude
@@ -117,12 +257,12 @@ Very little to report in terms of timecharter activity in the crude sector this 
 ## Main
 Very little to report in terms of timecharter activity in the crude sector this week, and rates have remained flat overall. However, news that China, the world's number one importer of crude, has ramped up its imports has been welcomed by investors. Imports were up in November to 10.17mbpd, a considerable jump from 8.9mbpd the previous month. The slump in China's crude imports in recent months has been one of the main pressures on the tanker market, particularly the VLCC sector.
 A fairly lacklustre week for the clean sector with little timecharter activity reported as restrictions stemming from the latest Covid variant, particularly in Europe, continue to weigh heavily on demand.
-Image reference: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_img2.jpg
+Linked asset: tanker_.jpg
 
-## Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_img2.jpg
-Source asset: reports/hellenic/tanker_charter/2021/2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_img2.jpg
+## Linked asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg
+Source asset: reports/hellenic/tanker_charter/2021/assets/2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg
 
-Linked image asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_img2.jpg
+Linked image asset: 2021-12-15_weekly-tanker-time-charter-estimates-december-15-2021_tanker_480043895e58.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

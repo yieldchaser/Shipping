@@ -23,7 +23,143 @@ keywords:
 - america
 - basin.
 - begin
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: constructive
+numeric_observation_count: 12
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: Capesize rates for six months softened slightly this week dropping
+    to an average of $33,000/pdpr, although it is usual for rates to begin their summer
+    decline at this time of the year, rate levels remain high overall.
+  unit: usd
+  values:
+  - 33000.0
+- &id002
+  section: Main
+  section_type: null
+  source_line: Support from East Coast South America and the Black Sea continued to
+    propel rates for the smaller sizes upwards to an average of $27,250/pdpr for one
+    year.
+  unit: usd
+  values:
+  - 27250.0
+- &id003
+  section: Main
+  section_type: null
+  source_line: 'Linked asset: dry_1-1.jpg'
+  unit: null
+  values:
+  - 1.0
+  - -1.0
+- &id004
+  section: 'Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg'
+  unit: null
+  values:
+  - 2021.0
+  - -7.0
+  - -14.0
+  - 14.0
+  - -2021.0
+  - 1.0
+  - -1.0
+  - 1115737.0
+  - 578.0
+- &id005
+  section: 'Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id006
+  section: 'Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (72.0, 72.0)'
+  unit: null
+  values:
+  - 72.0
+  - 72.0
+- &id007
+  section: 'Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg'
+  section_type: linked_image_asset
+  source_line: A L| B R A Updated Wednesday 14 July 2021
+  unit: null
+  values:
+  - 14.0
+  - 2021.0
+- &id008
+  section: 'Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY a 24,500 | 30,000; = 21,000 24,000} 18,000 & 17,000
+  unit: null
+  values:
+  - 24500.0
+  - 30000.0
+  - 21000.0
+  - 24000.0
+  - 18000.0
+  - 17000.0
+- &id009
+  section: 'Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg'
+  section_type: linked_image_asset
+  source_line: SUPRAMAX |= 33,000'= 33,000} = 25,500/= 24,000; 20,000 4 18,750
+  unit: null
+  values:
+  - 33000.0
+  - 33000.0
+  - 25500.0
+  - 24000.0
+  - 20000.0
+  - 4.0
+  - 18750.0
+- &id010
+  section: 'Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg'
+  section_type: linked_image_asset
+  source_line: ULTRAMAX |= 34,500 = 34,000; = 28,000) 28,000 & 25,000 4 24,000
+  unit: null
+  values:
+  - 34500.0
+  - 34000.0
+  - 28000.0
+  - 28000.0
+  - 25000.0
+  - 4.0
+  - 24000.0
+- &id011
+  section: 'Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg'
+  section_type: linked_image_asset
+  source_line: PANA/KMAX |Y 35,000)Y 33,000| & 34,500|/4 27,500; 33,500 4 24,000
+  unit: null
+  values:
+  - 35000.0
+  - 33000.0
+  - 34500.0
+  - 4.0
+  - 27500.0
+  - 33500.0
+  - 4.0
+  - 24000.0
+- &id012
+  section: 'Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE | 32,000 w 34,000) - 27,500 - 29,000 - 25,500 - 26,500
+  unit: null
+  values:
+  - 32000.0
+  - 34000.0
+  - 27500.0
+  - 29000.0
+  - 25500.0
+  - 26500.0
 regions:
 - atlantic
 - pacific
@@ -34,6 +170,20 @@ section_count: 2
 signals:
   metric_units:
   - usd_per_day
+  numeric_observation_count: 12
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
   rate_observations:
   - segment: capesize
     source_line: Capesize rates for six months softened slightly this week dropping
@@ -118,12 +268,12 @@ Capesize rates for six months softened slightly this week dropping to an average
 Capesize rates for six months softened slightly this week dropping to an average of $33,000/pdpr, although it is usual for rates to begin their summer decline at this time of the year, rate levels remain high overall.
 In the kamsarmax/panamax sector, TC rates for longer periods of one and two years moved in a very positive direction due to continued support in the Atlantic basin.
 Support from East Coast South America and the Black Sea continued to propel rates for the smaller sizes upwards to an average of $27,250/pdpr for one year.
-Image reference: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_img2.jpg
+Linked asset: dry_1-1.jpg
 
-## Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_img2.jpg
-Source asset: reports/hellenic/dry_charter/2021/2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_img2.jpg
+## Linked asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg
+Source asset: reports/hellenic/dry_charter/2021/assets/2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg
 
-Linked image asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_img2.jpg
+Linked image asset: 2021-07-14_weekly-dry-time-charter-estimates-july-14-2021_dry-1-1_1115737e8578.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

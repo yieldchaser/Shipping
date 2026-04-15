@@ -14,7 +14,125 @@ keywords:
 - main
 - reference
 - weekly-dry-time-charter-estimates-june-25-2025_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 10
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  unit: null
+  values:
+  - 2025.0
+  - -6.0
+  - -25.0
+  - 25.0
+  - -2025.0
+  - 25620251.0
+  - 96.0
+  - 624.0
+  - 2.0
+- &id002
+  section: 'Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  unit: null
+  values:
+  - 2025.0
+  - -6.0
+  - -25.0
+  - 25.0
+  - -2025.0
+  - 25620251.0
+  - 96.0
+  - 624.0
+  - 2.0
+- &id003
+  section: 'Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (144.0, 144.0)'
+  unit: null
+  values:
+  - 144.0
+  - 144.0
+- &id005
+  section: 'Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  section_type: linked_image_asset
+  source_line: A L| B R A Updated Weds 25/06/2025
+  unit: null
+  values:
+  - 25.0
+  - 6.0
+  - 2025.0
+- &id006
+  section: 'Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  section_type: linked_image_asset
+  source_line: PERIOD 416 MOS 1YR 2YR
+  unit: null
+  values:
+  - 416.0
+- &id007
+  section: 'Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY (38k dat) | 10,000 11,850 11,500 11,750 12,000 12,000
+  unit: null
+  values:
+  - 38.0
+  - 10000.0
+  - 11850.0
+  - 11500.0
+  - 11750.0
+  - 12000.0
+  - 12000.0
+- &id008
+  section: 'Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  section_type: linked_image_asset
+  source_line: SMAXIULTRA 13,750 14,500 14,000 |¥ 14,000 13,250 13,500
+  unit: null
+  values:
+  - 13750.0
+  - 14500.0
+  - 14000.0
+  - 14000.0
+  - 13250.0
+  - 13500.0
+- &id009
+  section: 'Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  section_type: linked_image_asset
+  source_line: PANAJKMAX | 16,500 12,500 14,250 |¥ 12,150 13,000 12,500
+  unit: null
+  values:
+  - 16500.0
+  - 12500.0
+  - 14250.0
+  - 12150.0
+  - 13000.0
+  - 12500.0
+- &id010
+  section: 'Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE 19,000 19,000 19,750 19,750 20,500 20,500
+  unit: null
+  values:
+  - 19000.0
+  - 19000.0
+  - 19750.0
+  - 19750.0
+  - 20500.0
+  - 20500.0
 regions:
 - atlantic
 - pacific
@@ -24,6 +142,18 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 10
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
   rate_observations:
   - segment: handysize
     source_line: HANDY (38k dat) | 10,000 11,850 11,500 11,750 12,000 12,000
@@ -136,12 +266,12 @@ PANAJKMAX | 16,500 12,500 14,250 |¥ 12,150 13,000 12,500
 CAPESIZE 19,000 19,000 19,750 19,750 20,500 20,500
 
 ## Main
-Image reference: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img2.jpg
+Image reference: assets/2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg
 
-## Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img2.jpg
-Source asset: reports/hellenic/dry_charter/2025/2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img2.jpg
+## Linked asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg
+Source asset: reports/hellenic/dry_charter/2025/assets/2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg
 
-Linked image asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img2.jpg
+Linked image asset: 2025-06-25_weekly-dry-time-charter-estimates-june-25-2025_img1_25620251_96db2624da92.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

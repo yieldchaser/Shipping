@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 367,
+  "token_count": 421,
   "source_path": "reports/hellenic/tanker_charter/2024/2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-january-24-2024",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img1_24120230_62d1bbcbdb0b.jpg",
         "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-january-24-2024_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 31,
+      "token_count": 45,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2024-01-24_2024_01_24_weekly_tanker_time_charter_estimates_january_24_2024__s02_linked_asset_2024_01_24_weekly_tanker_time_charter_estimates_january_24_2024_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2024-01-24_2024_01_24_weekly_tanker_time_charter_estimates_january_24_2024__s02_linked_asset_2024_01_24_weekly_tanker_time_charter_estimates_january_24_2024_img1_24120230_62d1bbcbdb0b_jpg",
       "doc_id": "hellenic_tanker_charter_2024-01-24_2024_01_24_weekly_tanker_time_charter_estimates_january_24_2024",
       "parent_id": "hellenic_tanker_charter_2024-01-24_2024_01_24_weekly_tanker_time_charter_estimates_january_24_2024__root",
-      "title": "Linked asset: 2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img2.jpg",
+      "title": "Linked asset: 2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img1_24120230_62d1bbcbdb0b.jpg",
       "section_path": [
-        "Linked asset: 2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img2.jpg"
+        "Linked asset: 2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img1_24120230_62d1bbcbdb0b.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img1_24120230_62d1bbcbdb0b.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2024/2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img2.jpg\n\nLinked image asset: 2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\n| AD ALIBRA caaeeweks Ten pre\n| Shipping Limited * Eco tonnage with Scrubber fitted\nWET TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHanoy | 4 24,500 24,000 24,000 21,750\nMR IMO3 a 27,000 A 23,500 26,500 24,000\nLR 35,000 31,000 31,000 28,500\nLR2 44,000 37,500 40,000 35,000\nlarna (115k dw) 44,000 37,500 40,000 34,500\n| suez 45,000 38,500 42,500 38,500\n| vice 47,500 43,500 52,500 50,000",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2024/assets/2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img1_24120230_62d1bbcbdb0b.jpg\n\nLinked image asset: 2024-01-24_weekly-tanker-time-charter-estimates-january-24-2024_img1_24120230_62d1bbcbdb0b.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\n| AD ALIBRA caaeeweks Ten pre\n| Shipping Limited * Eco tonnage with Scrubber fitted\nWET TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHanoy | 4 24,500 24,000 24,000 21,750\nMR IMO3 a 27,000 A 23,500 26,500 24,000\nLR 35,000 31,000 31,000 28,500\nLR2 44,000 37,500 40,000 35,000\nlarna (115k dw) 44,000 37,500 40,000 34,500\n| suez 45,000 38,500 42,500 38,500\n| vice 47,500 43,500 52,500 50,000",
       "keywords": [
         "year",
         "asset",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 301,
+      "token_count": 328,
       "section_type": "linked_image_asset",
       "children": []
     }

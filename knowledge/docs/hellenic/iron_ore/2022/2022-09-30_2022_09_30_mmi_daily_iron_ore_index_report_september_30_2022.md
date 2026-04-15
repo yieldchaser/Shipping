@@ -26,7 +26,1460 @@ keywords:
 - sep
 - high
 - change
+linked_assets_discovered: 2
+linked_assets_failed: 0
+linked_assets_ingested: 2
+linked_assets_mirrored: 2
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 160
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'DCE iron ore futures rose by 0.07% today, the main contract closed
+    721.5.Few transactions in the market.PBF at Shandong port dealt 753yuan/ mt,PBF
+    at Tangshan port dealt 768 yuan/mt ; keep stable compare with yesterday. As of
+    September 30, the inventory of 35 '
+  unit: tonnage
+  values:
+  - 0.07
+  - 721.5
+  - 753.0
+  - 768.0
+  - 30.0
+  - 35.0
+  - 127.09
+  - 1.07
+  - 10.73
+  - 170000.0
+- &id002
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_img1_3009chinesed_b656c142e5e0.jpg'
+  unit: null
+  values:
+  - 2022.0
+  - -9.0
+  - -30.0
+  - 30.0
+  - -2022.0
+  - 3009.0
+  - 56.0
+  - 42.0
+- &id003
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:41
+  unit: null
+  values:
+  - 68.0
+  - 68.0
+  - 349.0
+  - 3.0
+  - 24.0
+  - 258.0
+  - 349.0
+  - 367.0
+  - 455.0
+  - 3.0
+- &id004
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)
+  unit: null
+  values:
+  - 68.0
+  - 68.0
+  - 349.0
+  - 3.0
+  - 24.0
+  - 258.0
+  - 400.0
+  - 346.0
+  - 271.0
+  - 381.0
+- &id005
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)
+  unit: null
+  values:
+  - 47.0
+  - 396.0
+  - 381.0
+  - 374.0
+  - 3.0
+  - 75.0
+  - 396.0
+  - 286.0
+  - 3.0
+  - 87.0
+- &id006
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines
+    RMB/t
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 5.0
+  - 65.0
+  - 8.0
+  - 58.0
+- &id007
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 766 890 714
+  unit: null
+  values:
+  - 766.0
+  - 890.0
+  - 714.0
+- &id008
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 6 0.79% 1.00 0.11% 0 0.00%
+  unit: pct
+  values:
+  - 6.0
+  - 0.79
+  - 1.0
+  - 0.11
+- &id009
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 30th, 2022 Sep 30th, 2022 Sep 30th, 2022
+  unit: null
+  values:
+  - 30.0
+  - 2022.0
+  - 30.0
+  - 2022.0
+  - 30.0
+  - 2022.0
+- &id010
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5%
+    Fe Lump RMB/t
+  unit: usd_per_unit
+  values:
+  - 2.0
+  - 62.0
+  - 5.0
+  - 65.0
+  - 62.5
+- &id011
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 97.90 109.65 885
+  unit: null
+  values:
+  - 97.9
+  - 109.65
+  - 885.0
+- &id012
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: -1.74 -1.75% -2.72 -2.42% 25 2.91%
+  unit: pct
+  values:
+  - -1.74
+  - -1.75
+  - -2.72
+  - -2.42
+  - 25.0
+  - 2.91
+- &id013
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 30th, 2022 Sep 30th, 2022 Week Ending Sep 30th, 2022
+  unit: null
+  values:
+  - 30.0
+  - 2022.0
+  - 30.0
+  - 2022.0
+  - 30.0
+  - 2022.0
+- &id014
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:28)(cid:454)(cid:272)(cid:346)(cid:258)(cid:374)(cid:336)(cid:286)(cid:3)(cid:100)(cid:396)(cid:258)(cid:282)(cid:286)(cid:282)(cid:3)(cid:18)(cid:381)(cid:374)(cid:410)(cid:396)(cid:258)(cid:272)(cid:410)(cid:400)
+  unit: null
+  values:
+  - 28.0
+  - 454.0
+  - 272.0
+  - 346.0
+  - 258.0
+  - 374.0
+  - 336.0
+  - 286.0
+  - 3.0
+  - 100.0
+- &id015
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE
+    Rebar
+  unit: pct
+  values:
+  - 62.0
+  - 62.0
+- &id016
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: I2301 (Jan) RMB/t (3pm close) October 22 USD/dmt RB2301 (Jan) RMB/t
+  unit: usd_per_unit
+  values:
+  - 301.0
+  - 3.0
+  - 22.0
+  - 301.0
+- &id017
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 721.50 95.70 3799
+  unit: null
+  values:
+  - 721.5
+  - 95.7
+  - 3799.0
+- &id018
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: -1.00 -0.14% 0.45 0.47% -37 -0.96%
+  unit: pct
+  values:
+  - -1.0
+  - -0.14
+  - 0.45
+  - 0.47
+  - -37.0
+  - -0.96
+- &id019
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 30th, 2022 (3pm close) Sep 30th, 2022 (5.30 pm Print) Sep 30th,
+    2022 (3pm close)
+  unit: null
+  values:
+  - 30.0
+  - 2022.0
+  - 3.0
+  - 30.0
+  - 2022.0
+  - 5.3
+  - 30.0
+  - 2022.0
+  - 3.0
+- &id020
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:38)(cid:396)(cid:286)(cid:349)(cid:336)(cid:346)(cid:410)(cid:3)(cid:90)(cid:258)(cid:410)(cid:286)(cid:400)
+    (cid:94)(cid:410)(cid:286)(cid:286)(cid:367)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)
+  unit: null
+  values:
+  - 38.0
+  - 396.0
+  - 286.0
+  - 349.0
+  - 336.0
+  - 346.0
+  - 410.0
+  - 3.0
+  - 90.0
+  - 258.0
+- &id021
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 22.86 8.36 4040
+  unit: null
+  values:
+  - 22.86
+  - 8.36
+  - 4040.0
+- &id022
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: -0.36 -1.53% -0.55 -6.12% 60 1.51%
+  unit: pct
+  values:
+  - -0.36
+  - -1.53
+  - -0.55
+  - -6.12
+  - 60.0
+  - 1.51
+- &id023
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 29th, 2022 Sep 29th, 2022 Week Ending Sep 30th, 2022
+  unit: null
+  values:
+  - 29.0
+  - 2022.0
+  - 29.0
+  - 2022.0
+  - 30.0
+  - 2022.0
+- &id024
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:47)(cid:374)(cid:448)(cid:286)(cid:374)(cid:410)(cid:381)(cid:396)(cid:455)(cid:3)(cid:62)(cid:286)(cid:448)(cid:286)(cid:367)(cid:400)
+    (cid:94)(cid:410)(cid:286)(cid:286)(cid:367)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)
+  unit: null
+  values:
+  - 47.0
+  - 374.0
+  - 448.0
+  - 286.0
+  - 374.0
+  - 410.0
+  - 381.0
+  - 396.0
+  - 455.0
+  - 3.0
+- &id025
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
+  unit: null
+  values:
+  - 35.0
+- &id026
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 127.09 11.45 3920
+  unit: null
+  values:
+  - 127.09
+  - 11.45
+  - 3920.0
+- &id027
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: -1.06 -0.83% -0.85 -6.88% -10 -0.25%
+  unit: pct
+  values:
+  - -1.06
+  - -0.83
+  - -0.85
+  - -6.88
+  - -10.0
+  - -0.25
+- &id028
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Sep 30th, 2022 Week Ending Sep 30th, 2022 Week Ending Sep
+    30th, 2022
+  unit: null
+  values:
+  - 30.0
+  - 2022.0
+  - 30.0
+  - 2022.0
+  - 30.0
+  - 2022.0
+- &id029
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:449)(cid:449)(cid:449)(cid:856)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373)
+    (cid:87)(cid:258)(cid:336)(cid:286)(cid:3)(cid:1005)(cid:876)(cid:1010) (cid:3)(cid:3)
+    Sep 30th, 2022
+  unit: null
+  values:
+  - 449.0
+  - 449.0
+  - 449.0
+  - 856.0
+  - 373.0
+  - 373.0
+  - 349.0
+  - 393.0
+  - 396.0
+  - 349.0
+- &id030
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:94)(cid:100)(cid:75)(cid:18)(cid:60)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:894)(cid:47)(cid:75)(cid:87)(cid:47)(cid:895)
+  unit: null
+  values:
+  - 47.0
+  - 90.0
+  - 75.0
+  - 69.0
+  - 3.0
+  - 75.0
+  - 90.0
+  - 28.0
+  - 3.0
+  - 87.0
+- &id031
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 30th, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
+    Equivalent (exc. 13% VAT), USD/dry tonne ¹
+  unit: usd_per_unit
+  values:
+  - 30.0
+  - 2022.0
+  - 13.0
+  - 13.0
+- &id032
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 62% Fe Fines 766 6 0.8% 771 897 587 1083 99.99 0.96 1.0% 104.01
+    126.97 84.25 159.06
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 766.0
+  - 6.0
+  - 0.8
+  - 771.0
+  - 897.0
+  - 587.0
+  - 1083.0
+  - 99.99
+- &id033
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPI58 58% Fe Fines 714 0 0.0% 691 750 454 907 93.96 0.13 0.1% 93.82
+    106.54 64.78 134.15
+  unit: pct
+  values:
+  - 8.0
+  - 58.0
+  - 714.0
+  - 691.0
+  - 750.0
+  - 454.0
+  - 907.0
+  - 93.96
+  - 0.13
+  - 0.1
+- &id034
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPI65 65% Fe Fines 890 1 0.1% 877 1055 811 1265 116.79 0.31 0.3% 118.82
+    150.18 111.38 187.25
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 890.0
+  - 1.0
+  - 0.1
+  - 877.0
+  - 1055.0
+  - 811.0
+  - 1265.0
+  - 116.79
+- &id035
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:94)(cid:28)(cid:4)(cid:17)(cid:75)(cid:90)(cid:69)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:894)(cid:47)(cid:75)(cid:94)(cid:47)(cid:895)
+    (cid:68)(cid:4)(cid:9
+  unit: null
+  values:
+  - 47.0
+  - 90.0
+  - 75.0
+  - 69.0
+  - 3.0
+  - 75.0
+  - 90.0
+  - 28.0
+  - 3.0
+  - 94.0
+- &id036
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 30th, 2022 CFR Qingdao, USD/dry tonne (cid:24)(cid:18)(cid:28)(cid:3)(cid:349)(cid:396)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:296)(cid:437)(cid:410)(cid:437)(cid:396)(cid:286)(cid:400)(cid:3)(cid:396)(cid:381)(cid:400)(cid:286)(cid
+  unit: usd_per_unit
+  values:
+  - 30.0
+  - 2022.0
+  - 24.0
+  - 18.0
+  - 28.0
+  - 3.0
+  - 349.0
+  - 396.0
+  - 381.0
+  - 374.0
+- &id037
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:373)(cid:410)(cid:853)(cid:87)(cid:17)(cid:38)(cid:3)(cid:258)(cid:410)(cid:3)(cid:100)(cid:258)(cid:374)(cid:336)(cid:400)(cid:346)(cid:258)(cid:374)(cid:3)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:282)(cid:286)(cid:258)(cid:367)(cid:410)(cid:3)(ci
+  unit: null
+  values:
+  - 373.0
+  - 410.0
+  - 853.0
+  - 87.0
+  - 17.0
+  - 38.0
+  - 3.0
+  - 258.0
+  - 410.0
+  - 3.0
+- &id038
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Index Fe Content Price Change Change % MTD YTD Low 2 High 2 (cid:400)
+    (cid:410)(cid:381) (cid:410)(cid:258) (cid:374) (cid:271) (cid:400) (cid:367)
+    (cid:3) (cid:286) (cid:296)(cid:396) (cid:3) (cid:381) (cid:272)(cid:381) (cid:373)
+    (cid:373) (cid:3)(cid:367) (
+  unit: tonnage
+  values:
+  - 2.0
+  - 2.0
+  - 400.0
+  - 410.0
+  - 381.0
+  - 410.0
+  - 258.0
+  - 374.0
+  - 271.0
+  - 400.0
+- &id039
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:393)(cid:286)(cid:396)(cid:349)(cid:381)(cid:282)(cid:3)(cid:349)(cid:374)(cid:272)(cid:396)(cid:286)(cid:258)(cid:400)(cid:286)(cid:282)(cid:3)(cid:271)(cid:455)(cid:3)(cid:1005)(cid:1011)(cid:1004)(cid:1004)(cid:1004)(cid:1004)(cid:3)(cid:410)(cid:381)(
+  unit: null
+  values:
+  - 393.0
+  - 286.0
+  - 396.0
+  - 349.0
+  - 381.0
+  - 282.0
+  - 3.0
+  - 349.0
+  - 374.0
+  - 272.0
+- &id040
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 62% Fe Fines 97.90 -1.74 -1.75% 105.99 129.90 93.75 159.45 (cid:282)
+    (cid:393) (cid:396) (cid:396) (cid:349) (cid:381) (cid:448) (cid:410) (cid:286)
+    (cid:286) (cid:400) (cid:272) (cid:3) (cid:415) (cid:410)(cid:346) (cid:381) (cid:286)
+    (cid:374) (cid:3)
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 97.9
+  - -1.74
+  - -1.75
+  - 105.99
+  - 129.9
+  - 93.75
+  - 159.45
+  - 282.0
+- &id041
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:327)(cid:437)(cid:272)(cid:410)(cid:437)(cid:258)(cid:410)(cid:286)(cid:3)(cid:449)(cid:349)(cid:282)(cid:286)(cid:367)(cid:455)(cid:3)(cid:349)(cid:374)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:367)(cid:258)(cid:410)(cid:286)(cid:396)(cid:3)(cid:393)
+  unit: null
+  values:
+  - 327.0
+  - 437.0
+  - 272.0
+  - 410.0
+  - 437.0
+  - 258.0
+  - 410.0
+  - 286.0
+  - 3.0
+  - 449.0
+- &id042
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOSI65 65% Fe Fines 109.65 -2.72 -2.42% 116.96 150.73 102.05 185.82
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 109.65
+  - -2.72
+  - -2.42
+  - 116.96
+  - 150.73
+  - 102.05
+  - 185.82
+- &id043
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:62)(cid:104)(cid:68)(cid:87)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:894)(cid:47)(cid:75)(cid:87)(cid:62)(cid:47)(cid:895)
+  unit: null
+  values:
+  - 47.0
+  - 90.0
+  - 75.0
+  - 69.0
+  - 3.0
+  - 75.0
+  - 90.0
+  - 28.0
+  - 3.0
+  - 87.0
+- &id044
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Sep 30th, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
+    CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3
+  unit: usd_per_unit
+  values:
+  - 30.0
+  - 2022.0
+  - 13.0
+  - 13.0
+  - 3.0
+- &id045
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-o-W
+    Change % MTD YTD Low 2 High 2
+  unit: tonnage
+  values:
+  - 2.0
+  - 2.0
+  - 2.0
+  - 2.0
+- &id046
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPLI62 62.5% Fe Lump 885 25 2.9% 885 1098 730 1405 111.51 1.16 1.05%
+    115.02 150.00 101.31 199.13
+  unit: pct
+  values:
+  - 2.0
+  - 62.5
+  - 885.0
+  - 25.0
+  - 2.9
+  - 885.0
+  - 1098.0
+  - 730.0
+  - 1405.0
+  - 111.51
+- &id047
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:24)(cid:75)(cid:68)(cid:28)(cid:94)(cid:100)(cid:47)(cid:18)(cid:3)(cid:18)(cid:75)(cid:69)(cid:18)(cid:28)(cid:69)(cid:100)(cid:90)(cid:4)(cid:100)(cid:28)(cid:3)(cid:94)(cid:87)(cid:7
+  unit: null
+  values:
+  - 47.0
+  - 90.0
+  - 75.0
+  - 69.0
+  - 3.0
+  - 75.0
+  - 90.0
+  - 28.0
+  - 3.0
+  - 24.0
+- &id048
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Sep 30th, 2022 RMB/tonne (excluding tax) 3 USD/tonne (excluding
+    tax) 3
+  unit: usd_per_unit
+  values:
+  - 30.0
+  - 2022.0
+  - 3.0
+  - 3.0
+- &id049
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Hebei Hanxing 66% Fe Concentrate Dry 905 -2.1% 779 1645 128.14 -3.45%
+    110.31 255.69
+  unit: pct
+  values:
+  - 66.0
+  - 905.0
+  - -2.1
+  - 779.0
+  - 1645.0
+  - 128.14
+  - -3.45
+  - 110.31
+  - 255.69
+- &id050
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Hebei Qian'an 65% Fe Concentrate Dry 935 5.6% 780 1630 132.39 4.15%
+    110.51 251.57
+  unit: pct
+  values:
+  - 65.0
+  - 935.0
+  - 5.6
+  - 780.0
+  - 1630.0
+  - 132.39
+  - 4.15
+  - 110.51
+  - 251.57
+- &id051
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Liaoning Anshan 65% Fe Concentrate Wet 710 0.0% 620 1310 100.53 -1.42%
+    87.40 202.32
+  unit: pct
+  values:
+  - 65.0
+  - 710.0
+  - 620.0
+  - 1310.0
+  - 100.53
+  - -1.42
+  - 87.4
+  - 202.32
+- &id052
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Shandong Zibo 65% Fe Concentrate Dry 928 -2.0% 800 1752 131.40 -3.40%
+    122.55 272.32
+  unit: pct
+  values:
+  - 65.0
+  - 928.0
+  - -2.0
+  - 800.0
+  - 1752.0
+  - 131.4
+  - -3.4
+  - 122.55
+  - 272.32
+- &id053
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Sep 30th, 2022 This week Change % Low 2 High 2 (cid:1015)(cid:3)(cid:28)(cid:454)(cid:272)(cid:346)(cid:258)(cid:374)(cid:336)(cid:286)(cid:3)(cid:396)(cid:258)(cid:410)(cid:286)(cid:3)(cid:258)(cid:393)(cid:393)(cid:367)(cid:349)(cid:286)(cid:282)
+  unit: pct
+  values:
+  - 30.0
+  - 2022.0
+  - 2.0
+  - 2.0
+  - 1015.0
+  - 3.0
+  - 28.0
+  - 454.0
+  - 272.0
+  - 346.0
+- &id054
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:3)(cid:1007)(cid:3)(cid:116)(cid:286)(cid:286)(cid:364)(cid:367)(cid:455)(cid:3)(cid:286)(cid:454)(cid:272)(cid:346)(cid:258)(cid:374)(cid:336)(cid:286)(cid:3)(cid:396)(cid:258)(cid:410)(cid:286)(cid:3)(cid:258)(cid:393)(cid:393)(cid:367)(cid:349)(cid:286
+  unit: null
+  values:
+  - 3.0
+  - 1007.0
+  - 3.0
+  - 116.0
+  - 286.0
+  - 286.0
+  - 364.0
+  - 367.0
+  - 455.0
+  - 3.0
+- &id055
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: China Mines Concentrate Composite Index RMB/WT 846.10 0.72% 706.36
+    1511.22
+  unit: pct
+  values:
+  - 846.1
+  - 0.72
+  - 706.36
+  - 1511.22
+- &id056
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:38)(cid:75)(cid:100)(cid:3)(cid:89)(cid:47)(cid:69)(cid:39)(cid:24)(cid:4)(cid:75)(cid:3
+  unit: null
+  values:
+  - 47.0
+  - 90.0
+  - 75.0
+  - 69.0
+  - 3.0
+  - 75.0
+  - 90.0
+  - 28.0
+  - 3.0
+  - 87.0
+- &id057
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 30th, 2022 CFR Qingdao, USD/dry tonne
+  unit: usd_per_unit
+  values:
+  - 30.0
+  - 2022.0
+- &id058
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 62% Fe Fines 131.96 110.07 110.64 101.12 105.99 107.29 129.90
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 131.96
+  - 110.07
+  - 110.64
+  - 101.12
+  - 105.99
+  - 107.29
+  - 129.9
+- &id059
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOSI65 65% Fe Fines 154.17 124.60 112.53 111.57 116.96 119.39 150.73
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 154.17
+  - 124.6
+  - 112.53
+  - 111.57
+  - 116.96
+  - 119.39
+  - 150.73
+- &id060
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Sep 30th, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
+    CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
+  unit: usd_per_unit
+  values:
+  - 30.0
+  - 2022.0
+  - 13.0
+  - 13.0
+- &id061
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPLI62 62.5% Fe Lump 1189 906 900 877 885 893 1098 159.78 120.36 118.50
+    112.75 115.02 116.92 150.00
+  unit: pct
+  values:
+  - 2.0
+  - 62.5
+  - 1189.0
+  - 906.0
+  - 900.0
+  - 877.0
+  - 885.0
+  - 893.0
+  - 1098.0
+  - 159.78
+- &id062
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:87)(cid:90)(cid:28)(cid:68)(cid:47)(cid:104)(cid:68)(cid:94)(cid:876)(cid:24)(cid:47)(cid:94)(cid:18)(cid:75)(cid:104)(cid:69)(cid:100)(c
+  unit: null
+  values:
+  - 47.0
+  - 90.0
+  - 75.0
+  - 69.0
+  - 3.0
+  - 75.0
+  - 90.0
+  - 28.0
+  - 3.0
+  - 47.0
+- &id063
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: '(cid:18)(cid:75)(cid:87)(cid:122)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:68)(cid:28)(cid:100)(cid:4)(cid:62)(cid:94)(cid:3)(cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:4)(cid:'
+  unit: null
+  values:
+  - 18.0
+  - 75.0
+  - 87.0
+  - 122.0
+  - 90.0
+  - 47.0
+  - 39.0
+  - 44.0
+  - 100.0
+  - 3.0
+- &id064
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 12-naJ-1 12-beF-1 12-raM-1 12-rpA-1 12-yaM-1 12-nuJ-1 12-luJ-1 12-guA-1
+    12-peS-1 12-tcO-1 12-voN-1 12-ceD-1 22-naJ-1 22-beF-1 22-raM-1 22-rpA-1 22-yaM-1
+    22-nuJ-1 22-luJ-1 22-guA-1 22-peS-1
+  unit: null
+  values:
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+- &id065
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 IOPI58 IOPI65
+  unit: null
+  values:
+  - 2.0
+  - 8.0
+  - 5.0
+- &id066
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 IOSI65
+  unit: null
+  values:
+  - 2.0
+  - 5.0
+- &id067
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 30th, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
+    Equivalent (exc. 13% VAT), USD/dry tonne
+  unit: usd_per_unit
+  values:
+  - 30.0
+  - 2022.0
+  - 13.0
+  - 13.0
+- &id068
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 62% Fe Fines 934 770 781 759 771 770 897 130.13 106.01 106.64
+    101.14 104.01 104.66 126.97
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 934.0
+  - 770.0
+  - 781.0
+  - 759.0
+  - 771.0
+  - 770.0
+  - 897.0
+  - 130.13
+- &id069
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPI58 58% Fe Fines 823 682 685 697 691 688 750 115.45 94.43 94.05
+    93.56 93.82 94.02 106.54
+  unit: pct
+  values:
+  - 8.0
+  - 58.0
+  - 823.0
+  - 682.0
+  - 685.0
+  - 697.0
+  - 691.0
+  - 688.0
+  - 750.0
+  - 115.45
+- &id070
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPI65 65% Fe Fines 1086 915 878 875 877 889 1055 151.89 126.73 120.31
+    117.19 118.82 121.38 150.18
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 1086.0
+  - 915.0
+  - 878.0
+  - 875.0
+  - 877.0
+  - 889.0
+  - 1055.0
+  - 151.89
+- &id071
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 29th, 2022 FREIGHT RATES - DRY BULK US$/wet tonne
+  unit: usd
+  values:
+  - 29.0
+  - 2022.0
+- &id072
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Route Designation Change Change % Low 2 High 2
+  unit: pct
+  values:
+  - 2.0
+  - 2.0
+- &id073
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: W. Australia - Qingdao C5 8.36 -0.55 -6.12% 3.57 16.77
+  unit: pct
+  values:
+  - 8.36
+  - -0.55
+  - -6.12
+  - 3.57
+  - 16.77
+- &id074
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Tubarao - Qingdao C3 22.86 -0.36 -1.53% 6.70 36.40
+  unit: pct
+  values:
+  - 22.86
+  - -0.36
+  - -1.53
+  - 6.7
+  - 36.4
+- &id075
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 30th, 2022 PORT STOCK INDEX (RMB/WT) Sep 30th, 2022 SEABORNE INDEX
+    (USD/DMT)
+  unit: usd_per_unit
+  values:
+  - 30.0
+  - 2022.0
+  - 30.0
+  - 2022.0
+- &id076
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content
+    Spread to IOSI62 % Spread to IOSI62
+  unit: pct
+  values:
+  - 2.0
+  - 2.0
+  - 2.0
+  - 2.0
+- &id077
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPI58 58% Fe Fines -52 -6.79%
+  unit: pct
+  values:
+  - 8.0
+  - 58.0
+  - -52.0
+  - -6.79
+- &id078
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOPI65 65% Fe Fines 124 16.19% IOSI65 65% Fe Fines 11.75 12.00%
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 124.0
+  - 16.19
+  - 5.0
+  - 65.0
+  - 11.75
+  - 12.0
+- &id079
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:17)(cid:90)(cid:4)(cid:69)(cid:24)(cid:3)(cid:94)(cid:87)(cid:75)(cid:100)(cid:3)(cid:87)(cid:90)(cid:47)(cid:18)(cid:28)(cid:3)(cid:4)(cid:94)(cid:94)(cid:28)(cid:94)(cid:68)(cid:28)(c
+  unit: null
+  values:
+  - 47.0
+  - 90.0
+  - 75.0
+  - 69.0
+  - 3.0
+  - 75.0
+  - 90.0
+  - 28.0
+  - 3.0
+  - 17.0
+- &id080
+  section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 1,650.00
+  unit: null
+  values:
+  - 1650.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 1,550.00
+  unit: null
+  values:
+  - 1550.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 1,450.00
+  unit: null
+  values:
+  - 1450.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 1,350.00
+  unit: null
+  values:
+  - 1350.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 1,250.00
+  unit: null
+  values:
+  - 1250.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 1,150.00
+  unit: null
+  values:
+  - 1150.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 1,050.00
+  unit: null
+  values:
+  - 1050.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: '950.00'
+  unit: null
+  values:
+  - 950.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: '850.00'
+  unit: null
+  values:
+  - 850.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: '750.00'
+  unit: null
+  values:
+  - 750.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: '650.00'
+  unit: null
+  values:
+  - 650.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent)
+  unit: null
+  values:
+  - 2.0
+  - 2.0
+  - 5.0
+  - 5.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 02-voN-1 02-ceD-1 12-naJ-1 12-beF-1 12-raM-1 12-rpA-1 12-yaM-1 12-nuJ-1
+    12-luJ-1 12-guA-1 12-peS-1 12-tcO-1 12-voN-1 12-ceD-1 22-naJ-1 22-beF-1 22-raM-1
+    22-rpA-1 22-yaM-1 22-nuJ-1 22-luJ-1 22-guA-1 22-peS-1
+  unit: null
+  values:
+  - 2.0
+  - 1.0
+  - 2.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Price Change Diff to IOPI62 Price Change Diff to IOSI62
+  unit: null
+  values:
+  - 2.0
+  - 2.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Roy Hill 709 6 -57 Roy Hill 93.40 -1.75 -4.50
+  unit: null
+  values:
+  - 709.0
+  - 6.0
+  - -57.0
+  - 93.4
+  - -1.75
+  - -4.5
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: SIMEC Fines 636 6 -130 SIMEC Fines 89.90 -1.75 -8.00
+  unit: null
+  values:
+  - 636.0
+  - 6.0
+  - -130.0
+  - 89.9
+  - -1.75
+  - -8.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: PB Fines 736 6 -30 PB Fines 94.15 -1.75 -3.75
+  unit: null
+  values:
+  - 736.0
+  - 6.0
+  - -30.0
+  - 94.15
+  - -1.75
+  - -3.75
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Newman Fines 734 6 -32 Newman Fines 97.05 -1.75 -0.85
+  unit: null
+  values:
+  - 734.0
+  - 6.0
+  - -32.0
+  - 97.05
+  - -1.75
+  - -0.85
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: MAC Fines 716 6 -50 MAC Fines 94.15 -1.75 -3.75
+  unit: null
+  values:
+  - 716.0
+  - 6.0
+  - -50.0
+  - 94.15
+  - -1.75
+  - -3.75
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Jimblebar Blended Fines 630 6 -136 Jimblebar Blended Fines 86.55 -1.75
+    -11.35
+  unit: null
+  values:
+  - 630.0
+  - 6.0
+  - -136.0
+  - 86.55
+  - -1.75
+  - -11.35
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Carajas Fines 946 6 180 Carajas Fines 127.45 -1.75 29.55
+  unit: null
+  values:
+  - 946.0
+  - 6.0
+  - 180.0
+  - 127.45
+  - -1.75
+  - 29.55
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Brazilian SSF 728 6 -38 Brazilian SSF 101.65 -1.75 3.75
+  unit: null
+  values:
+  - 728.0
+  - 6.0
+  - -38.0
+  - 101.65
+  - -1.75
+  - 3.75
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Brazilian Blend Fines 749 6 -17 Brazilian Blend Fines 103.30 -1.75
+    5.40
+  unit: null
+  values:
+  - 749.0
+  - 6.0
+  - -17.0
+  - 103.3
+  - -1.75
+  - 5.4
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: RTX Fines 649 7 -117 RTX Fines 87.80 -1.75 -10.10
+  unit: null
+  values:
+  - 649.0
+  - 7.0
+  - -117.0
+  - 87.8
+  - -1.75
+  - -10.1
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: West Pilbara Fines 678 6 -88 West Pilbara Fines 92.15 -1.75 -5.75
+  unit: null
+  values:
+  - 678.0
+  - 6.0
+  - -88.0
+  - 92.15
+  - -1.75
+  - -5.75
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Sep 30th, 2022 PORT STOCK INDEX (RMB/WT)
+  unit: null
+  values:
+  - 30.0
+  - 2022.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Price Change Diff to IOPI58
+  unit: null
+  values:
+  - 8.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: SSF 714 0 0
+  unit: null
+  values:
+  - 714.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: FMG Blended Fines 723 0 9
+  unit: null
+  values:
+  - 723.0
+  - 9.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Robe River 723 0 9
+  unit: null
+  values:
+  - 723.0
+  - 9.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Western Fines 726 0 12
+  unit: null
+  values:
+  - 726.0
+  - 12.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Atlas Fines 720 0 6
+  unit: null
+  values:
+  - 720.0
+  - 6.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Yandi 707 0 -7
+  unit: null
+  values:
+  - 707.0
+  - -7.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: High Grade Fe 60 - 63% 12.00 3.00 High Grade Fe 60 - 63% 3.00 -0.25
+  unit: pct
+  values:
+  - 60.0
+  - 63.0
+  - 12.0
+  - 3.0
+  - 60.0
+  - 63.0
+  - 3.0
+  - -0.25
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: High Grade Fe 63 - 64% 21.00 -5.00 High Grade Fe 63 - 64% 1.00 0.00
+  unit: pct
+  values:
+  - 63.0
+  - 64.0
+  - 21.0
+  - -5.0
+  - 63.0
+  - 64.0
+  - 1.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 1% Fe High Grade Fe 64 - 65% 21.00 -5.00 1% Fe High Grade Fe 64 - 65%
+    1.00 0.00
+  unit: pct
+  values:
+  - 1.0
+  - 64.0
+  - 65.0
+  - 21.0
+  - -5.0
+  - 1.0
+  - 64.0
+  - 65.0
+  - 1.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: High Grade Fe 65 - 65.5% 21.00 -5.00 High Grade Fe 65 - 65.5% 1.00
+    0.00
+  unit: pct
+  values:
+  - 65.0
+  - 65.5
+  - 21.0
+  - -5.0
+  - 65.0
+  - 65.5
+  - 1.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: Low Grade Fe 13.00 1.00
+  unit: null
+  values:
+  - 13.0
+  - 1.0
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade Al <2.25% 30.00 5.00 High Fe Grade Al <2.25% 0.25 0.00
+  unit: pct
+  values:
+  - 2.25
+  - 30.0
+  - 5.0
+  - 2.25
+  - 0.25
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade Al 2.25-4% 5.00 0.00 High Fe Grade Al 2.25-4% 1.25 -0.25
+  unit: pct
+  values:
+  - 2.25
+  - -4.0
+  - 5.0
+  - 2.25
+  - -4.0
+  - 1.25
+  - -0.25
+- section: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
+  section_type: linked_pdf
+  source_line: 1% Alumina 1% Alumina
+  unit: pct
+  values:
+  - 1.0
+  - 1.0
 regions:
 - china
 - brazil
@@ -38,13 +1491,6 @@ signals:
     index_62_fines: 62.0
     index_65_fines: 65.0
   iron_ore_metrics:
-  - metric: numeric_observation
-    source_line: in Chinese iron ore and steelmaking prices 30/09/2022
-    unit: null
-    values:
-    - 30.0
-    - 9.0
-    - 2022.0
   - metric: numeric_observation
     source_line: 'DCE iron ore futures rose by 0.07% today, the main contract closed
       721.5.Few transactions in the market.PBF at Shandong port dealt 753yuan/ mt,PBF
@@ -60,15 +1506,17 @@ signals:
     - 35.0
     - 127.09
     - 1.07
-  - metric: numeric_observation
-    source_line: 'Linked asset: 2022-09-30_MMi-Daily-Iron-Ore-Report-for-30th-September-2022_compressed.pdf'
+  - metric: index
+    source_line: 'Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf'
     unit: null
     values:
     - 2022.0
     - -9.0
     - -30.0
     - 30.0
-    - 2022.0
+    - -2022.0
+    - 30.0
+    - 526032.0
   - metric: index_62_fines
     source_line: IOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe
       Fines RMB/t
@@ -557,10 +2005,99 @@ signals:
     - 68.0
     - 349.0
     - 3.0
+  - metric: numeric_observation
+    source_line: Sizing 62% 58% 65%
+    unit: pct
+    values:
+    - 62.0
+    - 58.0
+    - 65.0
   metric_units:
   - pct
   - usd
   - usd_per_dmt
+  numeric_observation_count: 160
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
+  - *id025
+  - *id026
+  - *id027
+  - *id028
+  - *id029
+  - *id030
+  - *id031
+  - *id032
+  - *id033
+  - *id034
+  - *id035
+  - *id036
+  - *id037
+  - *id038
+  - *id039
+  - *id040
+  - *id041
+  - *id042
+  - *id043
+  - *id044
+  - *id045
+  - *id046
+  - *id047
+  - *id048
+  - *id049
+  - *id050
+  - *id051
+  - *id052
+  - *id053
+  - *id054
+  - *id055
+  - *id056
+  - *id057
+  - *id058
+  - *id059
+  - *id060
+  - *id061
+  - *id062
+  - *id063
+  - *id064
+  - *id065
+  - *id066
+  - *id067
+  - *id068
+  - *id069
+  - *id070
+  - *id071
+  - *id072
+  - *id073
+  - *id074
+  - *id075
+  - *id076
+  - *id077
+  - *id078
+  - *id079
+  - *id080
   signal_family: hellenic_iron_ore_indices
 source: hellenic
 source_path: reports/hellenic/iron_ore/2022/2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022.html
@@ -596,13 +2133,12 @@ in Chinese iron ore and steelmaking prices 30/09/2022
 DCE iron ore futures rose by 0.07% today, the main contract closed 721.5.Few transactions in the market.PBF at Shandong port dealt 753yuan/ mt,PBF at Tangshan port dealt 768 yuan/mt ; keep stable compare with yesterday. As of September 30, the inventory of 35 ports tracked by SMM totaled 127.09 million tons, down 1.07 million tons from last week and 10.73 million tons from the same period last year. The average daily port dredging volume of imported ore in this period increased by 170000 tons to 3.2 million tons on a weekly basis.
 
 ## Main
-in Chinese iron ore and steelmaking prices 30/09/2022
 DCE iron ore futures rose by 0.07% today, the main contract closed 721.5.Few transactions in the market.PBF at Shandong port dealt 753yuan/ mt,PBF at Tangshan port dealt 768 yuan/mt ; keep stable compare with yesterday. As of September 30, the inventory of 35 ports tracked by SMM totaled 127.09 million tons, down 1.07 million tons from last week and 10.73 million tons from the same period last year. The average daily port dredging volume of imported ore in this period increased by 170000 tons to 3.2 million tons on a weekly basis. This week, the steel mill just needs to replenish the warehouse, which drives the port dredging volume to increase again. Considering the impact of the major meeting in October and the advance of environmental protection production restriction, the demand for iron ore may decline slightly after the festival. It is expected that the price of iron ore will fluctuate widely in the later period.
-Image reference: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_img2.jpg
+Image reference: assets/2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_img1_3009chinesed_b656c142e5e0.jpg
 Source: Metals Market Index (MMi)
 
-## Linked asset: 2022-09-30_MMi-Daily-Iron-Ore-Report-for-30th-September-2022_compressed.pdf
-Source asset: reports/hellenic/iron_ore/pdfs/2022-09-30_MMi-Daily-Iron-Ore-Report-for-30th-September-2022_compressed.pdf
+## Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf
+Source asset: reports/hellenic/iron_ore/pdfs/2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_mmi-daily-iron-ore-report-for-30th-s_b6b6e0526032.pdf
 
 [Page 1]
 (cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Sep 30th, 2022
@@ -1015,14 +2551,54 @@ Timing (Seaborne) Loading within 4 weeks, Delivery within 8 weeks Delivery withi
 Payment Terms L/C at sight L/C at sight or CAD
 (cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:24)(cid:75)(cid:68)(cid:28)(cid:94)(cid:100)(cid:47)(cid:18)(cid:3)(cid:18)(cid:75)(cid:69)(cid:18)(cid:28)(cid:69)(cid:100)(cid:90)(cid:4)(cid:100)(cid:28)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:3)(cid:18)(cid:4)(cid:62)(cid:18)(cid:104)(cid:62)(cid:4)(cid:100)(cid:47)(cid:75)(cid:69)(cid:3)(cid:68)(cid:28)(cid:100)(cid:44)(cid:75)(cid:24)(cid:75)(cid:62)(cid:75)(cid:39)(cid:122)
 (cid:100)(cid:346)(cid:286)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:349)(cid:367)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:373)(cid:286)(cid:410)(cid:346)(cid:381)(cid:282)(cid:3)(cid:296)(cid:381)(cid:396)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:336)(cid:286)(cid:374)(cid:286)(cid:396)(cid:258)(cid:367)(cid:367)(cid:455)(cid:3)(cid:396)(cid:286)(cid:296)(cid:286)(cid:396)(cid:400)(cid:3)(cid:410)(cid:381)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:349)(cid:367)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:373)(cid:286)(cid:410)(cid:346)(cid:381)(cid:282)(cid:3)(cid:381)(cid:296)(cid:3)(cid:18)(cid:87)(cid:47)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:381)(cid:410)(cid:346)(cid:286)(cid:396)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)(cid:853)(cid:3)(cid:271)(cid:396)(cid:286)(cid:258)(cid:364)(cid:282)(cid:381)(cid:449)(cid:374)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:282)(cid:258)(cid:410)(cid:258)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:272)(cid:258)(cid:367)(cid:272)(cid:437)(cid:367)(cid:258)(cid:410)(cid:286)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:258)(cid:448)(cid:286)(cid:396)(cid:258)(cid:336)(cid:286)(cid:3)(cid:448)(cid:258)(cid:367)(cid:437)(cid:286)(cid:3)(cid:258)(cid:272)(cid:272)(cid:381)(cid:396)(cid:282)(cid:349)(cid:374)(cid:336)(cid:3)
-(cid:410)(cid:381)(cid:3)(cid:258)(cid:3)(cid:272)(cid:286)(cid:396)(cid:410)(cid:258)(cid:349)(cid:374)(cid:3)(cid:373)(cid:286)(cid:410)(cid:346)(cid:381)(cid:282)(cid:853)(cid:3)(cid:410)(cid:258)(cid:364)(cid:349)(cid:374)(cid:336)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:448)(cid:286)(cid:396)(cid:415)(cid:272)(cid:258)(cid:367)(cid:3)(cid:258)(cid:454)(cid:349)(cid:400)(cid:3)(cid:258)(cid:400)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:396)(cid:286)(cid:336)(cid:349)(cid:381)(cid:374)(cid:258)(cid:367)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:381)(cid:400)(cid:349)(cid:410)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:894)(cid:258)(cid:448)(cid:286)(cid:396)(cid:258)(cid:336)(cid:286)(cid:3)(cid:381)(cid:296)(cid:3)(cid:282)(cid:349)(cid:2
+(cid:410)(cid:381)(cid:3)(cid:258)(cid:3)(cid:272)(cid:286)(cid:396)(cid:410)(cid:258)(cid:349)(cid:374)(cid:3)(cid:373)(cid:286)(cid:410)(cid:346)(cid:381)(cid:282)(cid:853)(cid:3)(cid:410)(cid:258)(cid:364)(cid:349)(cid:374)(cid:336)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:448)(cid:286)(cid:396)(cid:415)(cid:272)(cid:258)(cid:367)(cid:3)(cid:258)(cid:454)(cid:349)(cid:400)(cid:3)(cid:258)(cid:400)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:396)(cid:286)(cid:336)(cid:349)(cid:381)(cid:374)(cid:258)(cid:367)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:381)(cid:400)(cid:349)(cid:410)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:894)(cid:258)(cid:448)(cid:286)(cid:396)(cid:258)(cid:336)(cid:286)(cid:3)(cid:381)(cid:296)(cid:3)(cid:282)(cid:349)(cid:299)(cid:286)(cid:396)(cid:286)(cid:374)(cid:410)(cid:3)(cid:336)(cid:396)(cid:258)(cid:282)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:895)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:346)(cid:381)(cid:396)(cid:349)(cid:460)(cid:381)(cid:374)(cid:410)(cid:258)(cid:367)(cid:3)(cid:258)(cid:454)(cid:349)(cid:400)(cid:3)(cid:258)(cid:400)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:336)(cid:396)(cid:258)(cid:282)(cid:286)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:381)(cid:400)(cid:349)(cid:410)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:894)(cid:258)(cid:448)(cid:286)(cid:396)(cid:258)(cid:336)(cid:286)(cid:3)(cid:381)(cid:296)(cid:3)(cid:282)(cid:349)(cid:299)(cid:286)(cid:396)(cid:286)(cid:374)(cid:410)(cid:3)(cid:396)(cid:286)(cid:336)(cid:349)(cid:381)(cid:374)(cid:258)(cid:367)(cid:3)
+(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:895)(cid:853)(cid:3)(cid:258)(cid:3)(cid:410)(cid:381)(cid:410)(cid:258)(cid:367)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:381)(cid:400)(cid:349)(cid:410)(cid:286)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:296)(cid:381)(cid:396)(cid:3)(cid:282)(cid:381)(cid:373)(cid:286)(cid:400)(cid:415)(cid:272)(cid:3)(cid:381)(cid:396)(cid:286)(cid:3)(cid:272)(cid:258)(cid:374)(cid:3)(cid:271)(cid:286)(cid:3)(cid:381)(cid:437)(cid:410)(cid:393)(cid:437)(cid:410)(cid:3)(cid:437)(cid:367)(cid:415)(cid:373)(cid:258)(cid:410)(cid:286)(cid:367)(cid:455)(cid:856)(cid:3)(cid:100)(cid:346)(cid:286)(cid:3)(cid:393)(cid:396)(cid:381)(cid:272)(cid:286)(cid:400)(cid:400)(cid:3)(cid:400)(cid:455)(cid:400)(cid:410)(cid:286)(cid:373)(cid:3)(cid:349)(cid:400)(cid:3)(cid:258)(cid:367)(cid:400)(cid:381)(cid:3)(cid:258)(cid:282)(cid:381)(cid:393)(cid:410)(cid:286)(cid:282)(cid:3)(cid:349)(cid:374)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:272)(cid:258)(cid:367)(cid:272)(cid:437)(cid:367)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:349)(cid:856)(cid:286)(cid:856)(cid:3)(cid:286)(cid:258)(cid:272)(cid:346)(cid:3)(cid:400)(cid:437)(cid:271)-(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:272)(cid:258)(cid:374)(cid:3)(cid:271)(cid:286)(cid:3)(cid:381)(cid:271)(cid:410)(cid:258)(cid:349)(cid:374)(cid:286)(cid:282)(cid:3)(cid:258)(cid:400)(cid:3)(cid:449)(cid:286)(cid:367)(cid:367)(cid:856)(cid:3)
+(cid:4)(cid:115)(cid:28)(cid:90)(cid:4)(cid:39)(cid:28)(cid:3)(cid:47)(cid:90)(cid:75)(cid:69)(cid:3)(cid:75)(cid:90)(cid:28)(cid:3)(cid:94)(cid:87)(cid:28)(cid:18)(cid:47)(cid:38)(cid:47)(cid:18)(cid:4)(cid:100)(cid:47)(cid:75)(cid:69)(cid:94)(cid:3)(cid:4)(cid:87)(cid:87)(cid:62)(cid:47)(cid:28)(cid:24)(cid:3)(cid:38)(cid:75)(cid:90)(cid:3)(cid:17)(cid:90)(cid:4)(cid:69)(cid:24)(cid:3)(cid:87)(cid:90)(cid:47)(cid:18)(cid:28)(cid:3)(cid:4)(cid:94)(cid:94)(cid:28)(cid:94)(cid:94)(cid:68)(cid:28)(cid:69)(cid:100)(cid:94)
+(cid:87)(cid:75)(cid:90)(cid:100)(cid:3)(cid:94)(cid:100)(cid:75)(cid:18)(cid:60)(cid:3)(cid:17)(cid:90)(cid:4)(cid:69)(cid:24)(cid:94) (cid:94)(cid:28)(cid:4)(cid:17)(cid:75)(cid:90)(cid:69)(cid:28)(cid:3)(cid:17)(cid:90)(cid:4)(cid:69)(cid:24)(cid:94)
+Sep 30th, 2022 Specifications applied for 62% brand assessments Specifications applied for 62% brand assessments
+Fe Alumina Silica Phos Moisture Fe Alumina Silica Phos Moisture
+Roy Hill 60.88% 2.35% 4.45% 0.055% 9.26% Roy Hill 60.70% 2.30% 4.90% 0.055% 8.00%
+SIMEC Fines 60.00% 2.30% 6.30% 0.060% 6.00% SIMEC Fines 60.00% 2.30% 6.30% 0.060% 6.00%
+PB Fines 61.64% 2.31% 3.87% 0.099% 9.45% PB Fines 62% 62.00% 2.60% 4.30% 0.090% 9.50%
+Newman Fines 62.49% 2.31% 3.98% 0.090% 7.72% Newman Fines 62.30% 2.40% 4.30% 0.095% 8.00%
+MAC Fines 60.43% 2.38% 4.64% 0.078% 7.57% MAC Fines 60.80% 2.35% 4.40% 0.075% 7.80%
+Jimblebar Blended Fines 60.87% 2.95% 4.53% 0.111% 7.32% Jimblebar Blended Fines 60.50% 3.10% 4.80% 0.120% 7.80%
+Carajas Fines 64.90% 1.39% 1.82% 0.080% 7.78% Carajas Fines 65.10% 1.50% 1.70% 0.080% 8.50%
+Brazilian SSF 62.00% 1.00% 6.50% 0.040% 6.00% Brazilian SSF 62.00% 1.00% 6.50% 0.040% 6.00%
+Brazilian Blend Fines 62.56% 1.58% 4.79% 0.091% 8.72% Brazilian Blend Fines 63.00% 1.50% 5.00% 0.070% 7.00%
+RTX Fines 61.00% 3.10% 4.50% 0.135% 7.50% RTX Fines 61.00% 3.10% 4.50% 0.135% 7.50%
+West Pilbara Fines 60.10% 2.30% 4.70% 0.075% 8.50% West Pilbara Fines 60.10% 2.30% 4.70% 0.075% 8.50%
+Sep 30th, 2022 Specifications applied for 58% brand assessments
+Fe Alumina Silica Phos Moisture
+SSF 56.49% 3.20% 6.19% 0.065% 9.18%
+FMG Blended Fines 58.20% 2.43% 5.54% 0.057% 8.29%
+Robe River 56.44% 3.16% 5.73% 0.042% 8.44%
+Western Fines 57.88% 2.87% 7.50% 0.062% 7.45%
+Atlas Fines 58.00% 1.85% 5.50% 0.090% 9.00%
+Yandi 56.87% 1.58% 6.41% 0.042% 9.53%
+(cid:17)(cid:62)(cid:75)(cid:75)(cid:68)(cid:17)(cid:28)(cid:90)(cid:39)(cid:3)(cid:100)(cid:47)(cid:18)(cid:60)(cid:28)(cid:90)(cid:94)
+PORT STOCK INDICES SEABORNE INDICES
+FOT Qingdao (RMB/wet tonne) CFR Qingdao Equivalent (USD/dry tonne) CFR Qingdao (USD/DMT)
+IOPI62 IRCNQ001 IRCNQ004 IOSI62 IRCN0034
+IOPI58 IRCNQ002 IRCNQ005 IOSI65 IRCN0035
+IOPI65 IRCNQ003 IRCNQ006
+IOPLI62 IRCN0036 IRCN0037
+(cid:18)(cid:75)(cid:69)(cid:100)(cid:4)(cid:18)(cid:100)(cid:3)(cid:104)(cid:94)
+(cid:68)(cid:68)(cid:47)(cid:3)(cid:94)(cid:349)(cid:374)(cid:336)(cid:258)(cid:393)(cid:381)(cid:396)(cid:286)(cid:3)(cid:75)(cid:312)(cid:272)(cid:286)(cid:3)(cid:24)(cid:286)(cid:410)(cid:258)(cid:349)(cid:367)(cid:400)(cid:855)(cid:3)(cid:62)(cid:286)(cid:448)(cid:286)(cid:367)(cid:3)(cid:1006)(cid:1012)(cid:853)(cid:3)(cid:68)(cid:258)(cid:374)(cid:437)(cid:367)(cid:349)(cid:296)(cid:286)(cid:3)(cid:100)(cid:381)(cid:449)(cid:286)(cid:396)(cid:853)(cid:3)(cid:1012)(cid:3)(cid:18)(cid:396)(cid:381)(cid:400)(cid:400)(cid:3)(cid:94)(cid:410)(cid:396)(cid:286)(cid:286)(cid:410)(cid:3)(cid:94)(cid:349)(cid:374)(cid:336)(cid:258)(cid:393)(cid:381)(cid:396)(cid:286)(cid:856)(cid:3)(cid:100)(cid:286)(cid:367)(cid:855)(cid:3)(cid:1085)(cid:3)(cid:1010)(cid:1009)(cid:3)(cid:1010)(cid:1012)(cid:1009)(cid:1004)(cid:3)(cid:1011)(cid:1010)(cid:1006)(cid:1013)(cid:3)(cid:28)(cid:855)(cid:3)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:923)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373)(cid:3)(cid:3) (cid:115)(cid:349)(cid:400)(cid:349)(cid:410)(cid:3)(cid:449)(cid:449)(cid:449)(cid:856)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373)(cid:3)(cid:296)(cid:381)(cid:396)(cid:3)(cid:296)(cid:437)(cid:367)(cid:367)(cid:3)(cid:349)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)
+(cid:94)(cid:68)(cid:68)(cid:3)(cid:94)(cid:349)(cid:374)(cid:336)(cid:258)(cid:393)(cid:381)(cid:396)(cid:286)(cid:3)(cid:75)(cid:312)(cid:272)(cid:286)(cid:3)(cid:24)(cid:286)(cid:410)(cid:258)(cid:349)(cid:367)(cid:400)(cid:855)(cid:3)(cid:62)(cid:286)(cid:448)(cid:286)(cid:367)(cid:3)(cid:1006)(cid:1012)(cid:853)(cid:3)(cid:68)(cid:258)(cid:374)(cid:437)(cid:367)(cid:349)(cid:296)(cid:286)(cid:3)(cid:100)(cid:381)(cid:449)(cid:286)(cid:396)(cid:853)(cid:3)(cid:1012)(cid:3)(cid:18)(cid:396)(cid:381)(cid:400)(cid:400)(cid:3)(cid:94)(cid:410)(cid:396)(cid:286)(cid:286)(cid:410)(cid:3)(cid:94)(cid:349)(cid:374)(cid:336)(cid:258)(cid:393)(cid:381)(cid:396)(cid:286)(cid:856)(cid:3)(cid:100)(cid:286)(cid:367)(cid:855)(cid:3)(cid:1085)(cid:3)(cid:1010)(cid:1009)(cid:3)(cid:1010)(cid:1012)(cid:1009)(cid:1004)(cid:3)(cid:1011)(cid:1010)(cid:1007)(cid:1004)(cid:3)(cid:28)(cid:855)(cid:3)(cid:400)(cid:286)(cid:396)(cid:448)(cid:349)(cid:272)(cid:286)(cid:856)(cid:286)(cid:374)(cid:923)(cid:400)(cid:373)(cid:373)(cid:856)(cid:272)(cid:374)(cid:3)
+(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:346)(cid:349)(cid:400)(cid:410)(cid:381)(cid:396)(cid:349)(cid:286)(cid:400)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:258)(cid:396)(cid:272)(cid:346)(cid:349)(cid:448)(cid:286)(cid:3)(cid:381)(cid:296)(cid:3)(cid:282)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:396)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:400)(cid:3)(cid:3)
+(cid:94)(cid:68)(cid:68)(cid:3)(cid:94)(cid:346)(cid:258)(cid:374)(cid:336)(cid:346)(cid:258)(cid:349)(cid:3)(cid:75)(cid:312)(cid:272)(cid:286)(cid:3)(cid:24)(cid:286)(cid:410)(cid:258)(cid:349)(cid:367)(cid:400)(cid:855)(cid:3)(cid:1013)(cid:410)(cid:346)(cid:3)(cid:38)(cid:62)(cid:853)(cid:3)(cid:17)(cid:437)(cid:349)(cid:367)(cid:282)(cid:349)(cid:374)(cid:336)(cid:3)(cid:1013)(cid:853)(cid:3)(cid:62)(cid:437)(cid:361)(cid:349)(cid:258)(cid:460)(cid:437)(cid:349)(cid:3)(cid:94)(cid:381)(cid:332)(cid:449)(cid:258)(cid:396)(cid:286)(cid:3)(cid:87)(cid:258)(cid:396)(cid:364)(cid:853)(cid:3)(cid:69)(cid:381)(cid:856)(cid:1006)(cid:1004)(cid:853)(cid:3)(cid:62)(cid:258)(cid:374)(cid:286)(cid:3)(cid:1013)(cid:1005)(cid:853)(cid:3)(cid:87)(cid:437)(cid:282)(cid:381)(cid:374)(cid:336)(cid:853)(cid:3)(cid:94)(cid:346)(cid:258)(cid:374)(cid:336)(cid:346)(cid:258)(cid:349)(cid:3)(cid:100)(cid:286)(cid:367)(cid:855)(cid:3)(cid:1085)(cid:1012)(cid:1010)(cid:3)(cid:1004)(cid:1006)(cid:1005)(cid:3)(cid:1009)(cid:1005)(cid:1009)(cid:1009)(cid:3)(cid:1004)(cid:1007)(cid:1004)(cid:1010)(cid:3)(cid:28)(cid:855)(cid:3)(cid:400)(cid:286)(cid:396)(cid:448)(cid:349)(cid:272)(cid:286)(cid:856)(cid:286)(cid:374)(cid:923)(cid:400)(cid:373)(cid:373)(cid:856)(cid:272)(cid:374)(cid:3)
+(cid:100)(cid:346)(cid:349)(cid:400)(cid:3)(cid:349)(cid:374)(cid:296)(cid:381)(cid:396)(cid:373)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:346)(cid:258)(cid:400)(cid:3)(cid:271)(cid:286)(cid:286)(cid:374)(cid:3)(cid:393)(cid:396)(cid:286)(cid:393)(cid:258)(cid:396)(cid:286)(cid:282)(cid:3)(cid:271)(cid:455)(cid:3)(cid:68)(cid:286)(cid:410)(cid:258)(cid:367)(cid:400)(cid:3)(cid:68)(cid:258)(cid:396)(cid:364)(cid:286)(cid:410)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:3)(cid:894)(cid:919)(cid:68)(cid:68)(cid:349)(cid:919)(cid:895)(cid:856)(cid:3)(cid:104)(cid:400)(cid:286)(cid:3)(cid:381)(cid:296)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:349)(cid:374)(cid:296)(cid:381)(cid:396)(cid:373)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:393)(cid:396)(cid:286)(cid:400)(cid:286)(cid:374)(cid:410)(cid:286)(cid:282)(cid:3)(cid:346)(cid:286)(cid:396)(cid:286)(cid:3)(cid:349)(cid:400)(cid:3)(cid:258)(cid:410)(cid:3)(cid:455)(cid:381)(cid:437)(cid:396)(cid:3)(cid:400)(cid:381)(cid:367)(cid:286)(cid:3)(cid:396)(cid:349)(cid:400)(cid:364)(cid:853)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:258)(cid:374)(cid:455)(cid:3)(cid:272)(cid:381)(cid:374)(cid:410)(cid:286)(cid:374)(cid:410)(cid:853)(cid:3)(cid:373)(cid:258)(cid:410)(cid:286)(cid:396)(cid:349)(cid:258)(cid:367)(cid:3)(cid:258)(cid:374)(cid:282)(cid:876)(cid:381)(cid:396)(cid:3)(cid:282)(cid:258)(cid:410)(cid:258)(cid:3)(cid:393)(cid:396)(cid:286)(cid:400)(cid:286)(cid:374)(cid:410)(cid:286)(cid:282)(cid:3)(cid:381)(cid:396)(cid:3)(cid:381)(cid:410)(cid:346)(cid:286)(cid:396)(cid:449)(cid:349)(cid:400)(cid:286)(cid:3)(cid:381)(cid:271)(cid:410)(cid:258)(cid:349)(cid:374)(cid:286)(cid:282)(cid:3)(cid:410)(cid:346)(cid:396)(cid:381)(cid:437)(cid:336)(cid:346)(cid:3)(cid:455)(cid:381)(cid:437)(cid:396)(cid:3)(cid:437)(cid:400)(cid:286)(cid:3)(cid:381)(cid:296)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:349)(cid:374)(cid:296)(cid:381)(cid:396)(cid:373)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:349)(cid:374)(cid:3)(cid:410)(cid:346)(cid:349)(cid:400)(cid:3)(cid:282)(cid:381)(cid:272)(cid:437)(cid:373)(cid:286)(cid:374)(cid:410)(cid:3)(cid:349)(cid:400)(cid:3)(cid:258)(cid:410)(cid:3)(cid:455)(cid:381)(cid:437)(cid:396)(cid:3)(cid:381)(cid:449)(cid:374)(cid:3)
+(cid:282)(cid:349)(cid:400)(cid:272)(cid:396)(cid:286)(cid:415)(cid:381)(cid:374)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:396)(cid:349)(cid:400)(cid:364)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:455)(cid:381)(cid:437)(cid:3)(cid:449)(cid:349)(cid:367)(cid:367)(cid:3)(cid:271)(cid:286)(cid:3)(cid:400)(cid:381)(cid:367)(cid:286)(cid:367)(cid:455)(cid:3)(cid:396)(cid:286)(cid:400)(cid:393)(cid:381)(cid:374)(cid:400)(cid:349)(cid:271)(cid:367)(cid:286)(cid:3)(cid:296)(cid:381)(cid:396)(cid:3)(cid:258)(cid:374)(cid:455)(cid:3)(cid:282)(cid:258)(cid:373)(cid:258)(cid:336)(cid:286)(cid:3)(cid:410)(cid:381)(cid:3)(cid:455)(cid:381)(cid:437)(cid:3)(cid:393)(cid:286)(cid:396)(cid:400)(cid:381)(cid:374)(cid:258)(cid:367)(cid:367)(cid:455)(cid:3)(cid:381)(cid:396)(cid:3)(cid:455)(cid:381)(cid:437)(cid:396)(cid:3)(cid:272)(cid:381)(cid:373)(cid:393)(cid:258)(cid:374)(cid:455)(cid:3)(cid:381)(cid:396)(cid:3)(cid:381)(cid:396)(cid:336)(cid:258)(cid:374)(cid:349)(cid:400)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:381)(cid:396)(cid:3)(cid:271)(cid:437)(cid:400)(cid:349)(cid:374)(cid:286)(cid:400)(cid:400)(cid:3)(cid:258)(cid:400)(cid:400)(cid:381)(cid:272)(cid:349)(cid:258)(cid:410)(cid:286)(cid:400)(cid:3)(cid:449)(cid:346)(cid:258)(cid:410)(cid:400)(cid:381)(cid:286)(cid:448)(cid:286)(cid:396)(cid:3)(cid:449)(cid:346)(cid:349)(cid:272)(cid:346)(cid:3)(cid:349)(cid:374)(cid:3)(cid:258)(cid:374)(cid:455)(cid:449)(cid:258)(cid:455)(cid:3)(cid:396)(cid:286)(cid:400)(cid:437)(cid:367)(cid:410)(cid:400)(cid:3)(cid:296)(cid:396)(cid:381)(cid:373)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:437)(cid:400)(cid:286)(cid:853)(cid:3)(cid:396)(cid:286)(cid:367)(cid:349)(cid:258)(cid:374)(cid:272)(cid:286)(cid:3)(cid:381)(cid:396)(cid:3)(cid:258)(cid:393)(cid:393)(cid:367)(cid:349)(cid:272)(cid:258)(cid:415)(cid:381)(cid:374)(cid:3)(cid:381)(cid:296)(cid:3)(cid:400)(cid:437)(cid:272)(cid:346)(cid:3)(cid:272)(cid:381)(cid:374)(cid:410)(cid:286)(cid:374)(cid:410)(cid:3)(cid:373)(cid:258)(cid:410)(cid:286)(cid:396)(cid:349)(cid:258)(cid:367)(cid:3)(cid:258)(cid:374)(cid:282)(cid:876)(cid:381)(cid:396)(cid:3)(cid:349)(cid:374)(cid:296)(cid:381)(cid:396)(cid:373)(cid:258)(cid:415)(cid:381)(cid:374)(cid:856)(cid:3)(cid:18)(cid:286)(cid:396)(cid:410)(cid:258)(cid:349)(cid:374)(cid:3)
+(cid:282)(cid:258)(cid:410)(cid:258)(cid:3)(cid:346)(cid:258)(cid:400)(cid:3)(cid:271)(cid:286)(cid:286)(cid:374)(cid:3)(cid:381)(cid:271)(cid:410)(cid:258)(cid:349)(cid:374)(cid:286)(cid:282)(cid:3)(cid:296)(cid:396)(cid:381)(cid:373)(cid:3)(cid:448)(cid:258)(cid:396)(cid:349)(cid:381)(cid:437)(cid:400)(cid:3)(cid:400)(cid:381)(cid:437)(cid:396)(cid:272)(cid:286)(cid:400)(cid:3)(cid:258)(cid:374)(cid:282)(cid:3)(cid:258)(cid:374)(cid:455)(cid:3)(cid:272)(cid:381)(cid:393)(cid:455)(cid:396)(cid:349)(cid:336)(cid:346)(cid:410)(cid:3)(cid:286)(cid:454)(cid:349)(cid:400)(cid:415)(cid:374)(cid:336)(cid:3)(cid:349)(cid:374)(cid:3)(cid:400)(cid:437)(cid:272)(cid:346)(cid:3)(cid:282)(cid:258)(cid:410)(cid:258)(cid:3)(cid:400)(cid:346)(cid:258)(cid:367)(cid:367)(cid:3)(cid:396)(cid:286)(cid:373)(cid:258)(cid:349)(cid:374)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:393)(cid:396)(cid:381)(cid:393)(cid:286)(cid:396)(cid:410)(cid:455)(cid:3)(cid:381)(cid:296)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:400)(cid:381)(cid:437)(cid:396)(cid:272)(cid:286)(cid:856)(cid:3)(cid:28)(cid:454)(cid:272)(cid:286)(cid:393)(cid:410)(cid:3)(cid:296)(cid:381)(cid:396)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)(cid:296)(cid:381)(cid:396)(cid:286)(cid:336)(cid:381)(cid:349)(cid:374)(cid:336)(cid:853)(cid:3)(cid:68)(cid:68)(cid:349)(cid:3)(cid:396)(cid:286)(cid:410)(cid:258)(cid:349)(cid:374)(cid:400)(cid:3)(cid:258)(cid:367)(cid:367)(cid:3)(cid:272)(cid:381)(cid:393)(cid:455)(cid:396)(cid:349)(cid:336)(cid:346)(cid:410)(cid:3)(cid:449)(cid:349)(cid:410)(cid:346)(cid:349)(cid:374)(cid:3)(cid:410)(cid:346)(cid:349)(cid:400)(cid:3)(cid:282)(cid:381)(cid:272)(cid:437)(cid:373)(cid:286)(cid:374)(cid:410)(cid:856)(cid:3)(cid:100)(cid:346)(cid:286)(cid:3)(cid:272)(cid:381)(cid:393)(cid:455)(cid:349)(cid:374)(cid:336)(cid:3)(cid:381)(cid:396)(cid:3)(cid:396)(cid:286)(cid:282)(cid:349)(cid:400)(cid:410)(cid:396)(cid:349)(cid:271)(cid:437)(cid:415)(cid:381)(cid:374)(cid:3)(cid:381)(cid:296)(cid:3)(cid:258)(cid:374)(cid:455)(cid:3)(cid:393)(cid:258)(cid:396)(cid:410)(cid:3)(cid:381)(cid:296)(cid:3)(cid:410)(cid:346)(cid:349)(cid:400)(cid:3)(cid:282)(cid:381)(cid:272)(cid:437)(cid:373)(cid:286)(cid:374)(cid:410)(cid:3)(cid:449)(cid:349)(cid:410)(cid:346)(cid:381)(cid:437)(cid:410)(cid:3)(cid:410)(cid:346)(cid:286)(cid:3)
+(cid:286)(cid:454)(cid:393)(cid:396)(cid:286)(cid:400)(cid:400)(cid:3)(cid:449)(cid:396)(cid:349)(cid:425)(cid:286)(cid:374)(cid:3)(cid:258)(cid:437)(cid:410)(cid:346)(cid:381)(cid:396)(cid:349)(cid:410)(cid:455)(cid:3)(cid:381)(cid:296)(cid:3)(cid:68)(cid:68)(cid:349)(cid:3)(cid:349)(cid:400)(cid:3)(cid:296)(cid:381)(cid:396)(cid:271)(cid:349)(cid:282)(cid:282)(cid:286)(cid:374)(cid:856)
+(cid:449)(cid:449)(cid:449)(cid:856)(cid:373)(cid:373)(cid:349)(cid:393)(cid:396)(cid:349)(cid:272)(cid:286)(cid:400)(cid:856)(cid:272)(cid:381)(cid:373) (cid:87)(cid:258)(cid:336)(cid:286)(cid:3)(cid:1010)(cid:876)(cid:1010) (cid:3)(cid:3) Sep 30th, 2022
+(cid:18)(cid:75)(cid:87)(cid:122)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:3)(cid:68)(cid:28)(cid:100)(cid:4)(cid:62)(cid:94)(cid:3)(cid:68)(cid:4)(cid:90)(cid:60)(cid:28)(cid:100)(cid:3)(cid:47)(cid:69)(cid:24)(cid:28)(cid:121)(cid:853)(cid:3)(cid:4)(cid:62)(cid:62)(cid:3)(cid:90)(cid:47)(cid:39)(cid:44)(cid:100)(cid:94)(cid:3)(cid:90)(cid:28)(cid:94)(cid:28)(cid:90)(cid:115)(cid:28)(cid:24)
 
-[Truncated linked content excerpt.]
+## Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_img1_3009chinesed_b656c142e5e0.jpg
+Source asset: reports/hellenic/iron_ore/2022/assets/2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_img1_3009chinesed_b656c142e5e0.jpg
 
-## Linked asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_img2.jpg
-Source asset: reports/hellenic/iron_ore/2022/2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_img2.jpg
-
-Linked image asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_img2.jpg
+Linked image asset: 2022-09-30_mmi-daily-iron-ore-index-report-september-30-2022_img1_3009chinesed_b656c142e5e0.jpg
 
 Image metadata: JPEG 1600x743 mode=RGB
 

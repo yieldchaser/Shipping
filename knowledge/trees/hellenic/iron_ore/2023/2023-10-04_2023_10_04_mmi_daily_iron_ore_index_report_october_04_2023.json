@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 9947,
+  "token_count": 10019,
   "source_path": "reports/hellenic/iron_ore/2023/2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-04-2023",
   "children": [
@@ -41,35 +41,34 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 04/10/2023\nHOLIDAY\nImage reference: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img2.jpg\nSource: Metals Market Index (MMi)",
+      "summary": "HOLIDAY\nImage reference: assets/2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img1_0404_403e4c390434.jpg\nSource: Metals Market Index (MMi)",
       "keywords": [
-        "china",
-        "iron_ore",
-        "steel",
-        "chinese",
+        "assets/2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img1_0404_403e4c390434.jpg",
         "holiday",
         "image",
-        "iron",
-        "metals"
+        "metals",
+        "mmi",
+        "reference",
+        "source"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 61,
+      "token_count": 56,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2023-10-04_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023__s02_linked_asset_2023_10_04_mmi_daily_iron_ore_report_for_4th_october_2023_pdf",
+      "node_id": "hellenic_iron_ore_2023-10-04_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023__s02_linked_asset_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023_mmi_daily_iron_ore_report_for_4th_oc_3963d3d4ef28_pdf",
       "doc_id": "hellenic_iron_ore_2023-10-04_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023",
       "parent_id": "hellenic_iron_ore_2023-10-04_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023__root",
-      "title": "Linked asset: 2023-10-04_MMi-Daily-Iron-Ore-Report-for-4th-October-2023.pdf",
+      "title": "Linked asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_mmi-daily-iron-ore-report-for-4th-oc_3963d3d4ef28.pdf",
       "section_path": [
-        "Linked asset: 2023-10-04_MMi-Daily-Iron-Ore-Report-for-4th-October-2023.pdf"
+        "Linked asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_mmi-daily-iron-ore-report-for-4th-oc_3963d3d4ef28.pdf"
       ],
-      "section_path_text": "Linked asset: 2023-10-04_MMi-Daily-Iron-Ore-Report-for-4th-October-2023.pdf",
+      "section_path_text": "Linked asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_mmi-daily-iron-ore-report-for-4th-oc_3963d3d4ef28.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2023-10-04_MMi-Daily-Iron-Ore-Report-for-4th-October-2023.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Oct 4th, 2023\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n951 1062 877\nHOLIDAY HOLIDAY HOLIDAY\n0 0.00% 0.00 0.00% 0 0.00%\nOct 4th, 2023 Oct 4th, 2023 Oct 4th, 2023\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n104.07 134.02 1095\n0.00 0.00% 0.00 0.00% 40 3.79%\nOct 4th, 2023 Oct 4th, 2023 Week Ending Sep 29th, 2023\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2401 (Jan) RMB/t (3pm close) November 23 USD/dmt RB2401 (Jan) RMB/t\n852.00 115.45 3690\nHOLIDAY\nHOLIDAY\n0.00 0.00% -1.05 -0.90% 0 0.00%\nOct 4th, 2023 (3pm close) Oct 4th, 2023 (5.30 pm Print) Oct 4th, 2023 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic)",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_mmi-daily-iron-ore-report-for-4th-oc_3963d3d4ef28.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Oct 4th, 2023\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n951 1062 877\nHOLIDAY HOLIDAY HOLIDAY\n0 0.00% 0.00 0.00% 0 0.00%\nOct 4th, 2023 Oct 4th, 2023 Oct 4th, 2023\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n104.07 134.02 1095\n0.00 0.00% 0.00 0.00% 40 3.79%\nOct 4th, 2023 Oct 4th, 2023 Week Ending Sep 29th, 2023\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2401 (Jan) RMB/t (3pm close) November 23 USD/dmt RB2401 (Jan) RMB/t\n852.00 115.45 3690\nHOLIDAY\nHOLIDAY\n0.00 0.00% -1.05 -0.90% 0 0.00%\nOct 4th, 2023 (3pm close) Oct 4th, 2023 (5.30 pm Print) Oct 4th, 2023 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Aus",
       "keywords": [
         "china",
         "brazil",
@@ -82,22 +81,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 9264,
+      "token_count": 9287,
       "section_type": "linked_pdf",
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2023-10-04_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023__s03_linked_asset_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023_img2_jpg",
+      "node_id": "hellenic_iron_ore_2023-10-04_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023__s03_linked_asset_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023_img1_0404_403e4c390434_jpg",
       "doc_id": "hellenic_iron_ore_2023-10-04_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023",
       "parent_id": "hellenic_iron_ore_2023-10-04_2023_10_04_mmi_daily_iron_ore_index_report_october_04_2023__root",
-      "title": "Linked asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img2.jpg",
+      "title": "Linked asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img1_0404_403e4c390434.jpg",
       "section_path": [
-        "Linked asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img2.jpg"
+        "Linked asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img1_0404_403e4c390434.jpg"
       ],
-      "section_path_text": "Linked asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img2.jpg",
+      "section_path_text": "Linked asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img1_0404_403e4c390434.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2023/2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img2.jpg\n\nLinked image asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img2.jpg\n\nImage metadata: JPEG 1200x557 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Oct 4th, 2023\nIRON ORE PORT STOCK INDEX (IOPI)\nOct 4th, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2023/assets/2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img1_0404_403e4c390434.jpg\n\nLinked image asset: 2023-10-04_mmi-daily-iron-ore-index-report-october-04-2023_img1_0404_403e4c390434.jpg\n\nImage metadata: JPEG 1200x557 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Oct 4th, 2023\nIRON ORE PORT STOCK INDEX (IOPI)\nOct 4th, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
         "brazil",
         "iron_ore",
@@ -110,7 +109,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 556,
+      "token_count": 577,
       "section_type": "linked_image_asset",
       "children": []
     }

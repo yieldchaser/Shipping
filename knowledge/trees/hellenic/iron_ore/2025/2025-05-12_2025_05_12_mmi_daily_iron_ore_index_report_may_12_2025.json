@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 13013,
+  "token_count": 13095,
   "source_path": "reports/hellenic/iron_ore/2025/2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-12-2025",
   "children": [
@@ -41,16 +41,16 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 12/05/2025\nToday, DCE iron ore futures surged significantly, with the most-traded contract I2509 closing at 718.5, up 3.16% for the day. Traders showed goodenthusiasm for selling, and speculative transactions increased slightly.",
+      "summary": "Today, DCE iron ore futures surged significantly, with the most-traded contract I2509 closing at 718.5, up 3.16% for the day. Traders showed goodenthusiasm for selling, and speculative transactions increased slightly.",
       "keywords": [
-        "china",
         "brazil",
         "australia",
         "iron_ore",
         "steel",
         "million",
         "shipments",
-        "slightly"
+        "slightly",
+        "yuan/mt"
       ],
       "page_start": null,
       "page_end": null,
@@ -59,17 +59,17 @@
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2025-05-12_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025__s02_linked_asset_2025_05_12_mmi_daily_iron_ore_report_for_12th_may_2025_pdf",
+      "node_id": "hellenic_iron_ore_2025-05-12_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025__s02_linked_asset_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025_mmi_daily_iron_ore_report_for_12th_m_404947920824_pdf",
       "doc_id": "hellenic_iron_ore_2025-05-12_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025",
       "parent_id": "hellenic_iron_ore_2025-05-12_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025__root",
-      "title": "Linked asset: 2025-05-12_MMi-Daily-Iron-Ore-Report-for-12th-May-2025.pdf",
+      "title": "Linked asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_mmi-daily-iron-ore-report-for-12th-m_404947920824.pdf",
       "section_path": [
-        "Linked asset: 2025-05-12_MMi-Daily-Iron-Ore-Report-for-12th-May-2025.pdf"
+        "Linked asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_mmi-daily-iron-ore-report-for-12th-m_404947920824.pdf"
       ],
-      "section_path_text": "Linked asset: 2025-05-12_MMi-Daily-Iron-Ore-Report-for-12th-May-2025.pdf",
+      "section_path_text": "Linked asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_mmi-daily-iron-ore-report-for-12th-m_404947920824.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-05-12_MMi-Daily-Iron-Ore-Report-for-12th-May-2025.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report May 12th, 2025\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n775 887 669\n9 1.18% 9.33 1.06% 9 1.43%\nMay 12th, 2025 May 12th, 2025 May 12th, 2025\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n101.06 109.70 895\n0.77 0.77% 3.29 3.09% -5 -0.56%\nMay 12th, 2025 May 12th, 2025 Week Ending May 9th, 2025\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2509 (September) RMB/t (3pm close) May 25 USD/dmt RB2510 (Jan) RMB/t\n718.50 100.05 3082\n22.50 3.23% 2.90 2.99% 60 1.99%\nMay 12th, 2025 (3pm close) May 12th, 2025 (5.30 pm Print) May 12th, 2025 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n18.43 7.55 3172\n-0.37 -2.0% ",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_mmi-daily-iron-ore-report-for-12th-m_404947920824.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report May 12th, 2025\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n775 887 669\n9 1.18% 9.33 1.06% 9 1.43%\nMay 12th, 2025 May 12th, 2025 May 12th, 2025\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n101.06 109.70 895\n0.77 0.77% 3.29 3.09% -5 -0.56%\nMay 12th, 2025 May 12th, 2025 Week Ending May 9th, 2025\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2509 (September) RMB/t (3pm close) May 25 USD/dmt RB2510 (Jan) RMB/t\n718.50 100.05 3082\n22.50 3.23% 2.90 2.99% 60 1.99%\nMay 12th, 2025 (3pm close) May 12th, 2025 (5.30 pm Print) May 12th, 2025 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (",
       "keywords": [
         "china",
         "brazil",
@@ -82,22 +82,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 11754,
+      "token_count": 11772,
       "section_type": "linked_pdf",
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2025-05-12_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025__s03_linked_asset_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025_img2_jpg",
+      "node_id": "hellenic_iron_ore_2025-05-12_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025__s03_linked_asset_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025_img1_12052025chnese245_437be04a16f2_jpg",
       "doc_id": "hellenic_iron_ore_2025-05-12_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025",
       "parent_id": "hellenic_iron_ore_2025-05-12_2025_05_12_mmi_daily_iron_ore_index_report_may_12_2025__root",
-      "title": "Linked asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_img2.jpg",
+      "title": "Linked asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_img1_12052025chnese245_437be04a16f2.jpg",
       "section_path": [
-        "Linked asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_img2.jpg"
+        "Linked asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_img1_12052025chnese245_437be04a16f2.jpg"
       ],
-      "section_path_text": "Linked asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_img2.jpg",
+      "section_path_text": "Linked asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_img1_12052025chnese245_437be04a16f2.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2025/2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_img2.jpg\n\nLinked image asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report May 12th, 2025\nIRON ORE PORT STOCK INDEX (IOPI)\n‘May 12th,2025 0 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2025/assets/2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_img1_12052025chnese245_437be04a16f2.jpg\n\nLinked image asset: 2025-05-12_mmi-daily-iron-ore-index-report-may-12-2025_img1_12052025chnese245_437be04a16f2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report May 12th, 2025\nIRON ORE PORT STOCK INDEX (IOPI)\n‘May 12th,2025 0 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
         "china",
         "brazil",
@@ -110,7 +110,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 885,
+      "token_count": 916,
       "section_type": "linked_image_asset",
       "children": []
     }

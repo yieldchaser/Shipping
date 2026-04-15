@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 372,
+  "token_count": 418,
   "source_path": "reports/hellenic/tanker_charter/2025/2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-november-12-2025",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img1_121120250_6bc62ef25146.jpg",
         "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-november-12-2025_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 31,
+      "token_count": 43,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2025-11-12_2025_11_12_weekly_tanker_time_charter_estimates_november_12_2025__s02_linked_asset_2025_11_12_weekly_tanker_time_charter_estimates_november_12_2025_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2025-11-12_2025_11_12_weekly_tanker_time_charter_estimates_november_12_2025__s02_linked_asset_2025_11_12_weekly_tanker_time_charter_estimates_november_12_2025_img1_121120250_6bc62ef25146_jpg",
       "doc_id": "hellenic_tanker_charter_2025-11-12_2025_11_12_weekly_tanker_time_charter_estimates_november_12_2025",
       "parent_id": "hellenic_tanker_charter_2025-11-12_2025_11_12_weekly_tanker_time_charter_estimates_november_12_2025__root",
-      "title": "Linked asset: 2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img2.jpg",
+      "title": "Linked asset: 2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img1_121120250_6bc62ef25146.jpg",
       "section_path": [
-        "Linked asset: 2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img2.jpg"
+        "Linked asset: 2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img1_121120250_6bc62ef25146.jpg"
       ],
-      "section_path_text": "Linked asset: 2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img2.jpg",
+      "section_path_text": "Linked asset: 2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img1_121120250_6bc62ef25146.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2025/2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img2.jpg\n\nLinked image asset: 2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nL A L| B R A Updated Weds 12/11/2025\nShipping Umited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY 19,500 18,000 20,000 19,000\nMR IMO3 21,000 19,500 22,500 21,500\nLR1 22,500 22,500 24,000 23,000\nLR2 34,000 28,000 30,000 29,500\nAFRA (115k dwt) 35,000 29,500 32,500 30,000\nSUEZ 43,500 34,500 40,000 37,500\nViLcc 52,500 45,000 51,500 50,000",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2025/assets/2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img1_121120250_6bc62ef25146.jpg\n\nLinked image asset: 2025-11-12_weekly-tanker-time-charter-estimates-november-12-2025_img1_121120250_6bc62ef25146.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nL A L| B R A Updated Weds 12/11/2025\nShipping Umited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY 19,500 18,000 20,000 19,000\nMR IMO3 21,000 19,500 22,500 21,500\nLR1 22,500 22,500 24,000 23,000\nLR2 34,000 28,000 30,000 29,500\nAFRA (115k dwt) 35,000 29,500 32,500 30,000\nSUEZ 43,500 34,500 40,000 37,500\nViLcc 52,500 45,000 51,500 50,000",
       "keywords": [
         "handysize",
         "year",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 306,
+      "token_count": 329,
       "section_type": "linked_image_asset",
       "children": []
     }

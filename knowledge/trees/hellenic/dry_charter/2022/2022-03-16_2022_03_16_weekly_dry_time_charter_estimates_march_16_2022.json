@@ -19,7 +19,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 393,
+  "token_count": 404,
   "source_path": "reports/hellenic/dry_charter/2022/2022-03-16_weekly-dry-time-charter-estimates-march-16-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-march-16-2022",
   "children": [
@@ -36,29 +36,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
-        "image",
-        "reference",
-        "tweet",
-        "weekly-dry-time-charter-estimates-march-16-2022_img2.jpg"
+        "asset",
+        "dry_1-2.jpg",
+        "linked"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 32,
+      "token_count": 9,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2022-03-16_2022_03_16_weekly_dry_time_charter_estimates_march_16_2022__s02_linked_asset_2022_03_16_weekly_dry_time_charter_estimates_march_16_2022_img2_jpg",
+      "node_id": "hellenic_dry_charter_2022-03-16_2022_03_16_weekly_dry_time_charter_estimates_march_16_2022__s02_linked_asset_2022_03_16_weekly_dry_time_charter_estimates_march_16_2022_dry_1_2_03472e31941b_jpg",
       "doc_id": "hellenic_dry_charter_2022-03-16_2022_03_16_weekly_dry_time_charter_estimates_march_16_2022",
       "parent_id": "hellenic_dry_charter_2022-03-16_2022_03_16_weekly_dry_time_charter_estimates_march_16_2022__root",
-      "title": "Linked asset: 2022-03-16_weekly-dry-time-charter-estimates-march-16-2022_img2.jpg",
+      "title": "Linked asset: 2022-03-16_weekly-dry-time-charter-estimates-march-16-2022_dry-1-2_03472e31941b.jpg",
       "section_path": [
-        "Linked asset: 2022-03-16_weekly-dry-time-charter-estimates-march-16-2022_img2.jpg"
+        "Linked asset: 2022-03-16_weekly-dry-time-charter-estimates-march-16-2022_dry-1-2_03472e31941b.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-03-16_weekly-dry-time-charter-estimates-march-16-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-03-16_weekly-dry-time-charter-estimates-march-16-2022_dry-1-2_03472e31941b.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2022/2022-03-16_weekly-dry-time-charter-estimates-march-16-2022_img2.jpg\n\nLinked image asset: 2022-03-16_weekly-dry-time-charter-estimates-march-16-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nUpdated Wednesday 16 March 2022\nAb A LIBR A *Contact us for rates/charts on scrubber & eco tonnage. DRY TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (sskawt) | 4.",
+      "summary": "Source asset: reports/hellenic/dry_charter/2022/assets/2022-03-16_weekly-dry-time-charter-estimates-march-16-2022_dry-1-2_03472e31941b.jpg\n\nLinked image asset: 2022-03-16_weekly-dry-time-charter-estimates-march-16-2022_dry-1-2_03472e31941b.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nUpdated Wednesday 16 March 2022\nAb A LIBR A *Contact us for rates/charts on scrubber & eco tonnage. DRY TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (sskawt) | 4.",
       "keywords": [
         "capesize",
         "handysize",
@@ -71,7 +70,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 327,
+      "token_count": 350,
       "section_type": "linked_image_asset",
       "children": []
     }

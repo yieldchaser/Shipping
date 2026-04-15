@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 11766,
+  "token_count": 11854,
   "source_path": "reports/hellenic/iron_ore/2025/2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-08-2025",
   "children": [
@@ -41,16 +41,16 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 08/04/2025\nToday, The DCE iron ore futures continued to fall sharply today. The most-traded contract rolled over to I2509, closing at 693, with a full-daydecline of 3.48%.",
+      "summary": "Today, The DCE iron ore futures continued to fall sharply today. The most-traded contract rolled over to I2509, closing at 693, with a full-daydecline of 3.48%.",
       "keywords": [
         "china",
         "iron_ore",
         "steel",
-        "iron",
         "impact",
-        "ore",
+        "iron",
         "was",
-        "yuan/mt"
+        "yuan/mt",
+        "ore"
       ],
       "page_start": null,
       "page_end": null,
@@ -59,17 +59,17 @@
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2025-04-08_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025__s02_linked_asset_2025_04_08_mmi_daily_iron_ore_report_for_8th_april_2025_pdf",
+      "node_id": "hellenic_iron_ore_2025-04-08_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025__s02_linked_asset_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025_mmi_daily_iron_ore_report_for_8th_ap_116ad4eb3e2d_pdf",
       "doc_id": "hellenic_iron_ore_2025-04-08_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025",
       "parent_id": "hellenic_iron_ore_2025-04-08_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025__root",
-      "title": "Linked asset: 2025-04-08_MMi-Daily-Iron-Ore-Report-for-8th-April-2025.pdf",
+      "title": "Linked asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_mmi-daily-iron-ore-report-for-8th-ap_116ad4eb3e2d.pdf",
       "section_path": [
-        "Linked asset: 2025-04-08_MMi-Daily-Iron-Ore-Report-for-8th-April-2025.pdf"
+        "Linked asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_mmi-daily-iron-ore-report-for-8th-ap_116ad4eb3e2d.pdf"
       ],
-      "section_path_text": "Linked asset: 2025-04-08_MMi-Daily-Iron-Ore-Report-for-8th-April-2025.pdf",
+      "section_path_text": "Linked asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_mmi-daily-iron-ore-report-for-8th-ap_116ad4eb3e2d.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-04-08_MMi-Daily-Iron-Ore-Report-for-8th-April-2025.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Apr 8th, 2025\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n761 873 657\n-18 -2.30% -17.92 -2.01% -11 -1.60%\nApr 8th, 2025 Apr 8th, 2025 Apr 8th, 2025\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n100.41 110.75 905\n-2.06 -2.01% -1.81 -1.61% 15 1.69%\nApr 8th, 2025 Apr 8th, 2025 Week Ending Apr 4th, 2025\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2509 (September) RMB/t (3pm close) May 25 USD/dmt RB2510 (Jan) RMB/t\n693.00 94.75 3101\n-69.50 -9.11% -2.80 -2.87% 18 0.58%\nApr 8th, 2025 (3pm close) Apr 8th, 2025 (5.30 pm Print) Apr 8th, 2025 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n21.27 8.32 3262\n-1.23",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_mmi-daily-iron-ore-report-for-8th-ap_116ad4eb3e2d.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Apr 8th, 2025\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n761 873 657\n-18 -2.30% -17.92 -2.01% -11 -1.60%\nApr 8th, 2025 Apr 8th, 2025 Apr 8th, 2025\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n100.41 110.75 905\n-2.06 -2.01% -1.81 -1.61% 15 1.69%\nApr 8th, 2025 Apr 8th, 2025 Week Ending Apr 4th, 2025\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2509 (September) RMB/t (3pm close) May 25 USD/dmt RB2510 (Jan) RMB/t\n693.00 94.75 3101\n-69.50 -9.11% -2.80 -2.87% 18 0.58%\nApr 8th, 2025 (3pm close) Apr 8th, 2025 (5.30 pm Print) Apr 8th, 2025 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel",
       "keywords": [
         "china",
         "brazil",
@@ -82,35 +82,35 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 10468,
+      "token_count": 10489,
       "section_type": "linked_pdf",
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2025-04-08_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025__s03_linked_asset_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025_img2_jpg",
+      "node_id": "hellenic_iron_ore_2025-04-08_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025__s03_linked_asset_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025_img1_08042025chinese3456_dcae9632ae1e_jpg",
       "doc_id": "hellenic_iron_ore_2025-04-08_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025",
       "parent_id": "hellenic_iron_ore_2025-04-08_2025_04_08_mmi_daily_iron_ore_index_report_april_08_2025__root",
-      "title": "Linked asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_img2.jpg",
+      "title": "Linked asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_img1_08042025chinese3456_dcae9632ae1e.jpg",
       "section_path": [
-        "Linked asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_img2.jpg"
+        "Linked asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_img1_08042025chinese3456_dcae9632ae1e.jpg"
       ],
-      "section_path_text": "Linked asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_img2.jpg",
+      "section_path_text": "Linked asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_img1_08042025chinese3456_dcae9632ae1e.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2025/2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_img2.jpg\n\nLinked image asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Apr 8th, 2025\nIRON ORE PORT STOCK INDEX (IOP!)\nApr 8th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2025/assets/2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_img1_08042025chinese3456_dcae9632ae1e.jpg\n\nLinked image asset: 2025-04-08_mmi-daily-iron-ore-index-report-april-08-2025_img1_08042025chinese3456_dcae9632ae1e.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Apr 8th, 2025\nIRON ORE PORT STOCK INDEX (IOP!)\nApr 8th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
         "lng",
+        "china",
         "brazil",
         "iron_ore",
         "gas",
         "change",
         "ore",
-        "price",
-        "fefines"
+        "price"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 924,
+      "token_count": 955,
       "section_type": "linked_image_asset",
       "children": []
     }

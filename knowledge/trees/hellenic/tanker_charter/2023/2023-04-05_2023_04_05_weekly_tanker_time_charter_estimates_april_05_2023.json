@@ -19,7 +19,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 366,
+  "token_count": 418,
   "source_path": "reports/hellenic/tanker_charter/2023/2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-april-05-2023",
   "children": [
@@ -36,29 +36,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img1_5420239_0d49aa9be31d.jpg",
         "image",
-        "reference",
-        "tweet",
-        "weekly-tanker-time-charter-estimates-april-05-2023_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 32,
+      "token_count": 44,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2023-04-05_2023_04_05_weekly_tanker_time_charter_estimates_april_05_2023__s02_linked_asset_2023_04_05_weekly_tanker_time_charter_estimates_april_05_2023_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2023-04-05_2023_04_05_weekly_tanker_time_charter_estimates_april_05_2023__s02_linked_asset_2023_04_05_weekly_tanker_time_charter_estimates_april_05_2023_img1_5420239_0d49aa9be31d_jpg",
       "doc_id": "hellenic_tanker_charter_2023-04-05_2023_04_05_weekly_tanker_time_charter_estimates_april_05_2023",
       "parent_id": "hellenic_tanker_charter_2023-04-05_2023_04_05_weekly_tanker_time_charter_estimates_april_05_2023__root",
-      "title": "Linked asset: 2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img2.jpg",
+      "title": "Linked asset: 2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img1_5420239_0d49aa9be31d.jpg",
       "section_path": [
-        "Linked asset: 2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img2.jpg"
+        "Linked asset: 2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img1_5420239_0d49aa9be31d.jpg"
       ],
-      "section_path_text": "Linked asset: 2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img2.jpg",
+      "section_path_text": "Linked asset: 2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img1_5420239_0d49aa9be31d.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2023/2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img2.jpg\n\nLinked image asset: 2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\ny S| A LI B R A Updated Weds S Apr 2023\nShipping Limited * Eco tonnage with Scrubber fitted\nWET TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY 25,000 22,000 23,000 22,500\nMR IMO3 31,000 26,500 28,500 25,000\nLR1 38,500 32,500 32,500 28,500\nLR2 51,500 42,500 42,500 36,500\nAFRA (115k dwt) 47,500 40,000 37,500 35,000\nSUEZ 47,500 37,500 42,500 42,500\nvicc 50,000 45,000 52,500 49,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2023/assets/2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img1_5420239_0d49aa9be31d.jpg\n\nLinked image asset: 2023-04-05_weekly-tanker-time-charter-estimates-april-05-2023_img1_5420239_0d49aa9be31d.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\ny S| A LI B R A Updated Weds S Apr 2023\nShipping Limited * Eco tonnage with Scrubber fitted\nWET TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY 25,000 22,000 23,000 22,500\nMR IMO3 31,000 26,500 28,500 25,000\nLR1 38,500 32,500 32,500 28,500\nLR2 51,500 42,500 42,500 36,500\nAFRA (115k dwt) 47,500 40,000 37,500 35,000\nSUEZ 47,500 37,500 42,500 42,500\nvicc 50,000 45,000 52,500 49,500",
       "keywords": [
         "handysize",
         "year",
@@ -71,7 +70,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 300,
+      "token_count": 327,
       "section_type": "linked_image_asset",
       "children": []
     }

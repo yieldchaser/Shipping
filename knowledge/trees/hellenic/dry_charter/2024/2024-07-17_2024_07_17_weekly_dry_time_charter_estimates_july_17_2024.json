@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 424,
+  "token_count": 466,
   "source_path": "reports/hellenic/dry_charter/2024/2024-07-17_weekly-dry-time-charter-estimates-july-17-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-july-17-2024",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img1_1797123_bdccf965661a.jpg",
         "image",
-        "reference",
-        "weekly-dry-time-charter-estimates-july-17-2024_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 41,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2024-07-17_2024_07_17_weekly_dry_time_charter_estimates_july_17_2024__s02_linked_asset_2024_07_17_weekly_dry_time_charter_estimates_july_17_2024_img2_jpg",
+      "node_id": "hellenic_dry_charter_2024-07-17_2024_07_17_weekly_dry_time_charter_estimates_july_17_2024__s02_linked_asset_2024_07_17_weekly_dry_time_charter_estimates_july_17_2024_img1_1797123_bdccf965661a_jpg",
       "doc_id": "hellenic_dry_charter_2024-07-17_2024_07_17_weekly_dry_time_charter_estimates_july_17_2024",
       "parent_id": "hellenic_dry_charter_2024-07-17_2024_07_17_weekly_dry_time_charter_estimates_july_17_2024__root",
-      "title": "Linked asset: 2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img2.jpg",
+      "title": "Linked asset: 2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img1_1797123_bdccf965661a.jpg",
       "section_path": [
-        "Linked asset: 2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img2.jpg"
+        "Linked asset: 2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img1_1797123_bdccf965661a.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img1_1797123_bdccf965661a.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2024/2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img2.jpg\n\nLinked image asset: 2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\n3 A L| B R A Updated Weds 17 Jul 2024\nShipping Limited\nDRY BULK TIME CHARTER ESTIMATES ($/pdpr}\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (38¢det) | A 13,500 | 4 = 15,500 13,000 4 15,000 11,850 4 = 14,000\nSMAWULTRA | 4 18,000 | 4 18,000 | 4 17,500 16,500 16,000 | 4 s\nPANAIKMAX 20,500 | 15,750 |¥ 16000 |¥ 15,850 16.000 |¥ 15,500\nCAPESZE | ¥ 27,500 |¥ 25,000 | ¥ 24,000 24,000 | ¥ 23,000 23,000\nContact us for rates/charts on scrubber & eco tonnage. Arrows only indicate the movement compared to the past week hence not necessarily the market trencs\nCall for an in-depth update www.allbrashipping com",
+      "summary": "Source asset: reports/hellenic/dry_charter/2024/assets/2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img1_1797123_bdccf965661a.jpg\n\nLinked image asset: 2024-07-17_weekly-dry-time-charter-estimates-july-17-2024_img1_1797123_bdccf965661a.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\n3 A L| B R A Updated Weds 17 Jul 2024\nShipping Limited\nDRY BULK TIME CHARTER ESTIMATES ($/pdpr}\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (38¢det) | A 13,500 | 4 = 15,500 13,000 4 15,000 11,850 4 = 14,000\nSMAWULTRA | 4 18,000 | 4 18,000 | 4 17,500 16,500 16,000 | 4 s\nPANAIKMAX 20,500 | 15,750 |¥ 16000 |¥ 15,850 16.000 |¥ 15,500\nCAPESZE | ¥ 27,500 |¥ 25,000 | ¥ 24,000 24,000 | ¥ 23,000 23,000\nContact us for rates/charts on scrubber & eco tonnage. Arrows only indicate the movement compared to the past week hence not necessarily the market trencs\nCall for an in-depth update www.allbrashipping com",
       "keywords": [
         "capesize",
         "handysize",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 360,
+      "token_count": 381,
       "section_type": "linked_image_asset",
       "children": []
     }

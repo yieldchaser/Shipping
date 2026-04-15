@@ -14,7 +14,122 @@ keywords:
 - main
 - reference
 - weekly-dry-time-charter-estimates-june-14-2023_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 10
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  unit: null
+  values:
+  - 2023.0
+  - -6.0
+  - -14.0
+  - 14.0
+  - -2023.0
+  - 14620234.0
+  - 19364.0
+  - 8.0
+- &id002
+  section: 'Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  unit: null
+  values:
+  - 2023.0
+  - -6.0
+  - -14.0
+  - 14.0
+  - -2023.0
+  - 14620234.0
+  - 19364.0
+  - 8.0
+- &id003
+  section: 'Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (144.0, 144.0)'
+  unit: null
+  values:
+  - 144.0
+  - 144.0
+- &id005
+  section: 'Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  section_type: linked_image_asset
+  source_line: A L| B R A Updated Weds 14 June 23
+  unit: null
+  values:
+  - 14.0
+  - 23.0
+- &id006
+  section: 'Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  section_type: linked_image_asset
+  source_line: PERIOD 4/6 MOS 1YR 2YR
+  unit: null
+  values:
+  - 4.0
+- &id007
+  section: 'Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY (33k du‘) 10500 | ¥ 11,500 | 10,750 |¥ 12,500 11,250 Vv 13,000
+  unit: null
+  values:
+  - 33.0
+  - 10500.0
+  - 11500.0
+  - 10750.0
+  - 12500.0
+  - 11250.0
+  - 13000.0
+- &id008
+  section: 'Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  section_type: linked_image_asset
+  source_line: SMAXJULTRA 12,000 | ¥ 11,500 11,500 VY 12500 |¥ 13500 |¥ 13,500
+  unit: null
+  values:
+  - 12000.0
+  - 11500.0
+  - 11500.0
+  - 12500.0
+  - 13500.0
+  - 13500.0
+- &id009
+  section: 'Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  section_type: linked_image_asset
+  source_line: PANA/KMAX 13,250 | ¥ 11,750 | Vv 13500 |¥ 12,350 14,250 13,250
+  unit: null
+  values:
+  - 13250.0
+  - 11750.0
+  - 13500.0
+  - 12350.0
+  - 14250.0
+  - 13250.0
+- &id010
+  section: 'Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE 14,750 14,750 15,500 15,500 17,000 17,000
+  unit: null
+  values:
+  - 14750.0
+  - 14750.0
+  - 15500.0
+  - 15500.0
+  - 17000.0
+  - 17000.0
 regions:
 - atlantic
 - pacific
@@ -24,6 +139,18 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 10
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
   rate_observations:
   - segment: handysize
     source_line: HANDY (33k du‘) 10500 | ¥ 11,500 | 10,750 |¥ 12,500 11,250 Vv 13,000
@@ -136,12 +263,12 @@ PANA/KMAX 13,250 | ¥ 11,750 | Vv 13500 |¥ 12,350 14,250 13,250
 CAPESIZE 14,750 14,750 15,500 15,500 17,000 17,000
 
 ## Main
-Image reference: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img2.jpg
+Image reference: assets/2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg
 
-## Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img2.jpg
-Source asset: reports/hellenic/dry_charter/2023/2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img2.jpg
+## Linked asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg
+Source asset: reports/hellenic/dry_charter/2023/assets/2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg
 
-Linked image asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img2.jpg
+Linked image asset: 2023-06-14_weekly-dry-time-charter-estimates-june-14-2023_img1_14620234_b819364be38b.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

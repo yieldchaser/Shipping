@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 380,
+  "token_count": 434,
   "source_path": "reports/hellenic/dry_charter/2024/2024-10-23_weekly-dry-time-charter-estimates-october-23-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-october-23-2024",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img1_23102024_7e2863d2f922.jpg",
         "image",
-        "reference",
-        "weekly-dry-time-charter-estimates-october-23-2024_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 31,
+      "token_count": 45,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2024-10-23_2024_10_23_weekly_dry_time_charter_estimates_october_23_2024__s02_linked_asset_2024_10_23_weekly_dry_time_charter_estimates_october_23_2024_img2_jpg",
+      "node_id": "hellenic_dry_charter_2024-10-23_2024_10_23_weekly_dry_time_charter_estimates_october_23_2024__s02_linked_asset_2024_10_23_weekly_dry_time_charter_estimates_october_23_2024_img1_23102024_7e2863d2f922_jpg",
       "doc_id": "hellenic_dry_charter_2024-10-23_2024_10_23_weekly_dry_time_charter_estimates_october_23_2024",
       "parent_id": "hellenic_dry_charter_2024-10-23_2024_10_23_weekly_dry_time_charter_estimates_october_23_2024__root",
-      "title": "Linked asset: 2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img2.jpg",
+      "title": "Linked asset: 2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img1_23102024_7e2863d2f922.jpg",
       "section_path": [
-        "Linked asset: 2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img2.jpg"
+        "Linked asset: 2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img1_23102024_7e2863d2f922.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img1_23102024_7e2863d2f922.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2024/2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img2.jpg\n\nLinked image asset: 2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA [| B R A Updated Weds 2310/2024\nShipping Umite\nDRY BULK TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\n| HANDY exom) | ¥ 13,000 | ¥ 13,750 | 13,000 | vy 14,000 | 12,000 | Vv 13,000\nSMAXIULTRA 16,500 16,250 15,500 |¥ 16,000 15,000 | 15,000\n| PANAIKMAX | ¥ 15,850 | ¥ 13,500 | Vv 14,000 | Vv 13,500 | Vv 14,250 | Vv 14,250\nCAPESIZE 25,000 26,000 24,000 25,000 23,000 | 25,000",
+      "summary": "Source asset: reports/hellenic/dry_charter/2024/assets/2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img1_23102024_7e2863d2f922.jpg\n\nLinked image asset: 2024-10-23_weekly-dry-time-charter-estimates-october-23-2024_img1_23102024_7e2863d2f922.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA [| B R A Updated Weds 2310/2024\nShipping Umite\nDRY BULK TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\n| HANDY exom) | ¥ 13,000 | ¥ 13,750 | 13,000 | vy 14,000 | 12,000 | Vv 13,000\nSMAXIULTRA 16,500 16,250 15,500 |¥ 16,000 15,000 | 15,000\n| PANAIKMAX | ¥ 15,850 | ¥ 13,500 | Vv 14,000 | Vv 13,500 | Vv 14,250 | Vv 14,250\nCAPESIZE 25,000 26,000 24,000 25,000 23,000 | 25,000",
       "keywords": [
         "capesize",
         "handysize",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 314,
+      "token_count": 341,
       "section_type": "linked_image_asset",
       "children": []
     }

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 512,
+  "token_count": 528,
   "source_path": "reports/hellenic/dry_charter/2021/2021-12-15_weekly-dry-time-charter-estimates-december-15-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-december-15-2021",
   "children": [
@@ -49,27 +49,27 @@
         "sector",
         "sentiment",
         "although",
-        "christmas",
-        "coming"
+        "asset",
+        "christmas"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 129,
+      "token_count": 105,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2021-12-15_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021__s02_linked_asset_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021_img2_jpg",
+      "node_id": "hellenic_dry_charter_2021-12-15_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021__s02_linked_asset_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021_dry_1_2_5d2497bb1ab4_jpg",
       "doc_id": "hellenic_dry_charter_2021-12-15_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021",
       "parent_id": "hellenic_dry_charter_2021-12-15_2021_12_15_weekly_dry_time_charter_estimates_december_15_2021__root",
-      "title": "Linked asset: 2021-12-15_weekly-dry-time-charter-estimates-december-15-2021_img2.jpg",
+      "title": "Linked asset: 2021-12-15_weekly-dry-time-charter-estimates-december-15-2021_dry-1-2_5d2497bb1ab4.jpg",
       "section_path": [
-        "Linked asset: 2021-12-15_weekly-dry-time-charter-estimates-december-15-2021_img2.jpg"
+        "Linked asset: 2021-12-15_weekly-dry-time-charter-estimates-december-15-2021_dry-1-2_5d2497bb1ab4.jpg"
       ],
-      "section_path_text": "Linked asset: 2021-12-15_weekly-dry-time-charter-estimates-december-15-2021_img2.jpg",
+      "section_path_text": "Linked asset: 2021-12-15_weekly-dry-time-charter-estimates-december-15-2021_dry-1-2_5d2497bb1ab4.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2021/2021-12-15_weekly-dry-time-charter-estimates-december-15-2021_img2.jpg\n\nLinked image asset: 2021-12-15_weekly-dry-time-charter-estimates-december-15-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA LI B RA Updated Wednesday 15 December 2021\nAy Seton itaes Contact us for rates/charts on scrubber & eco tonnage. SIZE 6 MOS 1YR 2YR\nPERIOD ATL PAC ATL PAC ATL PAC\nHANDY - 29,500) 23,500) - 25,250|)- 20,000 - 16,000 - 15,500\nSUPRAMAX |= 30,750) 4 22,750) ™= 26,000|4 20,750'= 16,500 |= 16,000\nULTRAMAX |= 33,000| 24,750) = 28,500|\" 22,250)- 17,500 |= 17,000\nPANA/KMAX |= 28,250|== 27,000} = 23,000|™= 22,250/-= 17,500 |= 17,250\nCAPESIZE 27,750|& 26,250) & 25,500|& 24,000|/4 21,000 | 20,000",
+      "summary": "Source asset: reports/hellenic/dry_charter/2021/assets/2021-12-15_weekly-dry-time-charter-estimates-december-15-2021_dry-1-2_5d2497bb1ab4.jpg\n\nLinked image asset: 2021-12-15_weekly-dry-time-charter-estimates-december-15-2021_dry-1-2_5d2497bb1ab4.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA LI B RA Updated Wednesday 15 December 2021\nAy Seton itaes Contact us for rates/charts on scrubber & eco tonnage. SIZE 6 MOS 1YR 2YR\nPERIOD ATL PAC ATL PAC ATL PAC\nHANDY - 29,500) 23,500) - 25,250|)- 20,000 - 16,000 - 15,500\nSUPRAMAX |= 30,750) 4 22,750) ™= 26,000|4 20,750'= 16,500 |= 16,000\nULTRAMAX |= 33,000| 24,750) = 28,500|\" 22,250)- 17,500 |= 17,000\nPANA/KMAX |= 28,250|== 27,000} = 23,000|™= 22,250/-= 17,500 |= 17,250\nCAPESIZE 27,750|& 26,250) & 25,500|& 24,000|/4 21,000 | 20,000",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 348,
+      "token_count": 375,
       "section_type": "linked_image_asset",
       "children": []
     }

@@ -14,7 +14,123 @@ keywords:
 - main
 - reference
 - weekly-dry-time-charter-estimates-may-17-2023_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 10
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  unit: null
+  values:
+  - 2023.0
+  - -5.0
+  - -17.0
+  - 17.0
+  - -2023.0
+  - 17520231.0
+  - 68.0
+  - 5.0
+- &id002
+  section: 'Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  unit: null
+  values:
+  - 2023.0
+  - -5.0
+  - -17.0
+  - 17.0
+  - -2023.0
+  - 17520231.0
+  - 68.0
+  - 5.0
+- &id003
+  section: 'Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (144.0, 144.0)'
+  unit: null
+  values:
+  - 144.0
+  - 144.0
+- &id005
+  section: 'Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  section_type: linked_image_asset
+  source_line: A || B R A Updated Weds 17 May 2023)
+  unit: null
+  values:
+  - 17.0
+  - 2023.0
+- &id006
+  section: 'Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  section_type: linked_image_asset
+  source_line: PERIOD 4/6 MOS 1YR 2YR
+  unit: null
+  values:
+  - 4.0
+- &id007
+  section: 'Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY (3zkom) | ¥ 12,000 13,500 | VY 13,000 14,250 | Vv 12,750 | 13,500
+    |
+  unit: null
+  values:
+  - 3.0
+  - 12000.0
+  - 13500.0
+  - 13000.0
+  - 14250.0
+  - 12750.0
+  - 13500.0
+- &id008
+  section: 'Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  section_type: linked_image_asset
+  source_line: SMAX/ULTRA 15,500 |¥ 16,500 | vy 15,000 |¥ 16,500 | 16,000 16,250
+  unit: null
+  values:
+  - 15500.0
+  - 16500.0
+  - 15000.0
+  - 16500.0
+  - 16000.0
+  - 16250.0
+- &id009
+  section: 'Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  section_type: linked_image_asset
+  source_line: PANAIKMAX | ¥ 16,000 | ¥ 14,000 | 15,000 15,000 | 14,750 | 14,750 |
+  unit: null
+  values:
+  - 16000.0
+  - 14000.0
+  - 15000.0
+  - 15000.0
+  - 14750.0
+  - 14750.0
+- &id010
+  section: 'Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE 18,000 18,000 | 18,500 18,500 | 19,000 19,000
+  unit: null
+  values:
+  - 18000.0
+  - 18000.0
+  - 18500.0
+  - 18500.0
+  - 19000.0
+  - 19000.0
 regions:
 - atlantic
 - pacific
@@ -24,6 +140,18 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 10
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
   rate_observations:
   - segment: handysize
     source_line: HANDY (3zkom) | ¥ 12,000 13,500 | VY 13,000 14,250 | Vv 12,750 |
@@ -139,12 +267,12 @@ CAPESIZE 18,000 18,000 | 18,500 18,500 | 19,000 19,000
 |
 
 ## Main
-Image reference: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img2.jpg
+Image reference: assets/2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg
 
-## Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img2.jpg
-Source asset: reports/hellenic/dry_charter/2023/2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img2.jpg
+## Linked asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg
+Source asset: reports/hellenic/dry_charter/2023/assets/2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg
 
-Linked image asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img2.jpg
+Linked image asset: 2023-05-17_weekly-dry-time-charter-estimates-may-17-2023_img1_17520231_68a55ebb0e50.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

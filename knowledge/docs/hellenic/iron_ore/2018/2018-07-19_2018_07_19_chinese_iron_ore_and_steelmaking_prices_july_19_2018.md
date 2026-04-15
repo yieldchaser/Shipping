@@ -23,7 +23,91 @@ keywords:
 - prices
 - production
 - tangshan
+linked_assets_discovered: 2
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 1
 market_tone: constructive
+numeric_observation_count: 8
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: in Chinese iron ore and steelmaking prices 19/07/2018
+  unit: null
+  values:
+  - 19.0
+  - 7.0
+  - 2018.0
+- &id002
+  section: Main
+  section_type: null
+  source_line: Transactions remained flat with PB fines traded at RMB465/tonne in
+    Tangshan, SSF at RMB280/tonne, FB fines at RMB347/tonne and Ukrainian iron ore
+    pellet at RMB965/tonne. The production control in Tangshan and production resumption
+    in some mills in Xuzhou exert
+  unit: null
+  values:
+  - 65.0
+  - 80.0
+  - 47.0
+  - 65.0
+- &id003
+  section: Main
+  section_type: null
+  source_line: 'Image reference: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg'
+  unit: null
+  values:
+  - 2018.0
+  - -7.0
+  - -19.0
+  - 19.0
+  - -2018.0
+- &id004
+  section: 'Linked asset: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg'
+  unit: null
+  values:
+  - 2018.0
+  - -7.0
+  - -19.0
+  - 19.0
+  - -2018.0
+- &id005
+  section: 'Linked asset: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 878x791 mode=RGB'
+  unit: null
+  values:
+  - 878.0
+  - 91.0
+- &id006
+  section: 'Linked asset: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg'
+  section_type: linked_image_asset
+  source_line: Overview of Iron and Steel Indicators in China on Jul 19, 2018
+  unit: null
+  values:
+  - 19.0
+  - 2018.0
+- &id007
+  section: 'Linked asset: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg'
+  section_type: linked_image_asset
+  source_line: Custeel Index on Jul 18, 2018
+  unit: null
+  values:
+  - 18.0
+  - 2018.0
+- &id008
+  section: 'Linked asset: 2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018_img2.jpg'
+  section_type: linked_image_asset
+  source_line: ; 62%-Fe fines US$ 63.84 0.48 CFR Qingdao
+  unit: pct
+  values:
+  - 62.0
+  - 63.84
+  - 0.48
 regions:
 - china
 - brazil
@@ -67,6 +151,16 @@ signals:
     - 0.48
   metric_units:
   - usd
+  numeric_observation_count: 8
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
   signal_family: hellenic_iron_ore_indices
 source: hellenic
 source_path: reports/hellenic/iron_ore/2018/2018-07-19_chinese-iron-ore-and-steelmaking-prices-july-19-2018.html

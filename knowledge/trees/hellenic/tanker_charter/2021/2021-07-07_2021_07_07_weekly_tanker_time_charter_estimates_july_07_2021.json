@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 413,
+  "token_count": 424,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-july-07-2021",
   "children": [
@@ -47,29 +47,29 @@
         "activity",
         "again",
         "aside",
+        "asset",
         "clean",
         "crude",
-        "few",
-        "fixtures"
+        "few"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 63,
+      "token_count": 40,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2021-07-07_2021_07_07_weekly_tanker_time_charter_estimates_july_07_2021__s02_linked_asset_2021_07_07_weekly_tanker_time_charter_estimates_july_07_2021_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2021-07-07_2021_07_07_weekly_tanker_time_charter_estimates_july_07_2021__s02_linked_asset_2021_07_07_weekly_tanker_time_charter_estimates_july_07_2021_wet_1_5b5d1ab01115_jpg",
       "doc_id": "hellenic_tanker_charter_2021-07-07_2021_07_07_weekly_tanker_time_charter_estimates_july_07_2021",
       "parent_id": "hellenic_tanker_charter_2021-07-07_2021_07_07_weekly_tanker_time_charter_estimates_july_07_2021__root",
-      "title": "Linked asset: 2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021_img2.jpg",
+      "title": "Linked asset: 2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021_wet-1_5b5d1ab01115.jpg",
       "section_path": [
-        "Linked asset: 2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021_img2.jpg"
+        "Linked asset: 2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021_wet-1_5b5d1ab01115.jpg"
       ],
-      "section_path_text": "Linked asset: 2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021_img2.jpg",
+      "section_path_text": "Linked asset: 2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021_wet-1_5b5d1ab01115.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021_img2.jpg\n\nLinked image asset: 2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALI B RA Updoted Wednesday 07 July 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR *3 YR *5 YR\nHANDY = 10,500 = 12,250 = 14,250 ba 14,250\nMR IMO3 = 12,000 = 13,500 = 15,750 = 16,350\nLR1 = 13,000 = 15,250 vy 17,000 vy, 17,500\nLR2 = 16,500 = 19,750 vy 24,000 Vv 25,000\nAFRA = 16,000 = 19,000 & 23,000 = 24,000\nSUEZ = 18,000 = 20,850 = 26,000 = 27,000\nVLCC wv 25,500 vy 24,500 = 36,000 na 37,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/assets/2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021_wet-1_5b5d1ab01115.jpg\n\nLinked image asset: 2021-07-07_weekly-tanker-time-charter-estimates-july-07-2021_wet-1_5b5d1ab01115.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALI B RA Updoted Wednesday 07 July 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR *3 YR *5 YR\nHANDY = 10,500 = 12,250 = 14,250 ba 14,250\nMR IMO3 = 12,000 = 13,500 = 15,750 = 16,350\nLR1 = 13,000 = 15,250 vy 17,000 vy, 17,500\nLR2 = 16,500 = 19,750 vy 24,000 Vv 25,000\nAFRA = 16,000 = 19,000 & 23,000 = 24,000\nSUEZ = 18,000 = 20,850 = 26,000 = 27,000\nVLCC wv 25,500 vy 24,500 = 36,000 na 37,500",
       "keywords": [
         "handysize",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 316,
+      "token_count": 339,
       "section_type": "linked_image_asset",
       "children": []
     }

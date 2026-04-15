@@ -12,7 +12,133 @@ keywords:
 - main
 - reference
 - weekly-tanker-time-charter-estimates-august-03-2022_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 12
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Linked asset: tanker_1.jpg'
+  unit: null
+  values:
+  - 1.0
+- &id002
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  unit: null
+  values:
+  - 2022.0
+  - -8.0
+  - -3.0
+  - 3.0
+  - -2022.0
+  - 1.0
+  - 748.0
+  - 893.0
+  - 50.0
+- &id003
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (72.0, 72.0)'
+  unit: null
+  values:
+  - 72.0
+  - 72.0
+- &id005
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: BAALIBRA Updated Weds 3 Aug 2022
+  unit: null
+  values:
+  - 3.0
+  - 2022.0
+- &id006
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY 20,000 17,500 18,000 17,000
+  unit: null
+  values:
+  - 20000.0
+  - 17500.0
+  - 18000.0
+  - 17000.0
+- &id007
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: MR IMO3 22,500 4 19,500 23,000 19,000
+  unit: null
+  values:
+  - 22500.0
+  - 4.0
+  - 19500.0
+  - 23000.0
+  - 19000.0
+- &id008
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: LR1i 24,000 22,000 24,500 24,500
+  unit: null
+  values:
+  - 24000.0
+  - 22000.0
+  - 24500.0
+  - 24500.0
+- &id009
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: LR2 A 31,500 A 27,500 A 31,000 A 30,000
+  unit: null
+  values:
+  - 31500.0
+  - 27500.0
+  - 31000.0
+  - 30000.0
+- &id010
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: AFRA (115k det) 26,000 a 27,500 4 30,000 a 30,000
+  unit: null
+  values:
+  - 115.0
+  - 26000.0
+  - 27500.0
+  - 4.0
+  - 30000.0
+  - 30000.0
+- &id011
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: SUEZ 25,000 22,500 a 33.500 A 32,500
+  unit: null
+  values:
+  - 25000.0
+  - 22500.0
+  - 33.5
+  - 32500.0
+- &id012
+  section: 'Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg'
+  section_type: linked_image_asset
+  source_line: vicc 25,000 a 30,000 A 37,500 a 37,500
+  unit: null
+  values:
+  - 25000.0
+  - 30000.0
+  - 37500.0
+  - 37500.0
 regions:
 - meg
 - west_africa
@@ -21,6 +147,20 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 12
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
   rate_observations:
   - segment: mr
     source_line: MR IMO3 22,500 4 19,500 23,000 19,000
@@ -144,12 +284,12 @@ SUEZ 25,000 22,500 a 33.500 A 32,500
 vicc 25,000 a 30,000 A 37,500 a 37,500
 
 ## Main
-Image reference: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_img2.jpg
+Linked asset: tanker_1.jpg
 
-## Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_img2.jpg
-Source asset: reports/hellenic/tanker_charter/2022/2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_img2.jpg
+## Linked asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg
+Source asset: reports/hellenic/tanker_charter/2022/assets/2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg
 
-Linked image asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_img2.jpg
+Linked image asset: 2022-08-03_weekly-tanker-time-charter-estimates-august-03-2022_tanker-1_748c2893f650.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

@@ -20,7 +20,28 @@ keywords:
 - carbon
 - climate
 - committee
+linked_assets_discovered: 0
+linked_assets_failed: 0
+linked_assets_ingested: 0
+linked_assets_mirrored: 0
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 1
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: This briefing aimed to provide insights on the agenda for climate emissions
+    and marine pollution discussions at the forthcoming82nd session of the International
+    Maritime Organization's (IMO) Marine Environment Protection Committee (MEPC 82,
+    30 September - 4 Oc
+  unit: null
+  values:
+  - 2.0
+  - 82.0
+  - 30.0
+  - 4.0
+  - 2024.0
 regions:
 - china
 - brazil
@@ -42,6 +63,9 @@ signals:
     - 4.0
     - 2024.0
   metric_units: []
+  numeric_observation_count: 1
+  numeric_observations:
+  - *id001
   signal_family: hellenic_iron_ore_indices
 source: hellenic
 source_path: reports/hellenic/iron_ore/2024/2024-09-30_pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-plastics-other-shippin.html

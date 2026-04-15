@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 400,
+  "token_count": 438,
   "source_path": "reports/hellenic/tanker_charter/2025/2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-november-26-2025",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img1_image001_f03a6929c121.png",
         "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-november-26-2025_img2.png"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 31,
+      "token_count": 41,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2025-11-26_2025_11_26_weekly_tanker_time_charter_estimates_november_26_2025__s02_linked_asset_2025_11_26_weekly_tanker_time_charter_estimates_november_26_2025_img2_png",
+      "node_id": "hellenic_tanker_charter_2025-11-26_2025_11_26_weekly_tanker_time_charter_estimates_november_26_2025__s02_linked_asset_2025_11_26_weekly_tanker_time_charter_estimates_november_26_2025_img1_image001_f03a6929c121_png",
       "doc_id": "hellenic_tanker_charter_2025-11-26_2025_11_26_weekly_tanker_time_charter_estimates_november_26_2025",
       "parent_id": "hellenic_tanker_charter_2025-11-26_2025_11_26_weekly_tanker_time_charter_estimates_november_26_2025__root",
-      "title": "Linked asset: 2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img2.png",
+      "title": "Linked asset: 2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img1_image001_f03a6929c121.png",
       "section_path": [
-        "Linked asset: 2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img2.png"
+        "Linked asset: 2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img1_image001_f03a6929c121.png"
       ],
-      "section_path_text": "Linked asset: 2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img2.png",
+      "section_path_text": "Linked asset: 2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img1_image001_f03a6929c121.png",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2025/2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img2.png\n\nLinked image asset: 2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img2.png\n\nImage metadata: PNG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (95.96119999999999, 95.96119999999999)\nSoftware: Paint.NET 5.1.9\n\nOCR text:\ny <3 | A LI B R A Updated Weds 26/11/2025\nShipping Umited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE (3/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY Vv 19,000 18,000 20,000 19,000\nMR IMO3 21,500 19,500 22,750 21,250\nLR1 24,000 22,500 | 24,000 23,000 |\nLR2 33,500 28,000 32,500 30,000\nAFRA (115k dwt) 35,000 29,500 | 32,500 29,500 |\nSUEZ 43,500 34,500 40,000 37,500\nvicc a 56,500 45,000 | 50,000 50,000 |",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2025/assets/2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img1_image001_f03a6929c121.png\n\nLinked image asset: 2025-11-26_weekly-tanker-time-charter-estimates-november-26-2025_img1_image001_f03a6929c121.png\n\nImage metadata: PNG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (95.96119999999999, 95.96119999999999)\nSoftware: Paint.NET 5.1.9\n\nOCR text:\ny <3 | A LI B R A Updated Weds 26/11/2025\nShipping Umited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE (3/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY Vv 19,000 18,000 20,000 19,000\nMR IMO3 21,500 19,500 22,750 21,250\nLR1 24,000 22,500 | 24,000 23,000 |\nLR2 33,500 28,000 32,500 30,000\nAFRA (115k dwt) 35,000 29,500 | 32,500 29,500 |\nSUEZ 43,500 34,500 40,000 37,500\nvicc a 56,500 45,000 | 50,000 50,000 |",
       "keywords": [
         "handysize",
         "year",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 334,
+      "token_count": 353,
       "section_type": "linked_image_asset",
       "children": []
     }

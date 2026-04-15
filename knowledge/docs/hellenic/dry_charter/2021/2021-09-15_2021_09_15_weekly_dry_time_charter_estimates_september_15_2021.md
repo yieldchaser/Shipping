@@ -23,7 +23,119 @@ keywords:
 - after
 - around
 - average
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: constructive
+numeric_observation_count: 10
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: A firm week for the capesize period sector as rates pushed up thanks
+    healthy cargo volumes in both basins leading to stronger spot and period rates.
+    The average rate for one year is currently estimated as $31,000/pdpr.
+  unit: usd
+  values:
+  - 31000.0
+- &id002
+  section: 'Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg'
+  unit: null
+  values:
+  - 2021.0
+  - -9.0
+  - -15.0
+  - 15.0
+  - -2021.0
+  - 791.0
+- &id003
+  section: 'Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (72.0, 72.0)'
+  unit: null
+  values:
+  - 72.0
+  - 72.0
+- &id005
+  section: 'Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg'
+  section_type: linked_image_asset
+  source_line: A LI B RA Updated Wednesday 15 September 2021
+  unit: null
+  values:
+  - 15.0
+  - 2021.0
+- &id006
+  section: 'Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY & 33,000)-= 35,000) = 28,000/« 25,000. - 19,500|= 20,000
+  unit: null
+  values:
+  - 33000.0
+  - 35000.0
+  - 28000.0
+  - 25000.0
+  - 19500.0
+  - 20000.0
+- &id007
+  section: 'Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg'
+  section_type: linked_image_asset
+  source_line: SUPRAMAX | 34,000|= 37,250) & 28,750|~ 26,750\=- 21,500|= 20,500
+  unit: null
+  values:
+  - 34000.0
+  - 37250.0
+  - 28750.0
+  - 26750.0
+  - 21500.0
+  - 20500.0
+- &id008
+  section: 'Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg'
+  section_type: linked_image_asset
+  source_line: ULTRAMAX | 36,750)/= 40,000; = 31,000)~ 29,500)= 25,000 |= 24,000
+  unit: null
+  values:
+  - 36750.0
+  - 40000.0
+  - 31000.0
+  - 29500.0
+  - 25000.0
+  - 24000.0
+- &id009
+  section: 'Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg'
+  section_type: linked_image_asset
+  source_line: 'PANA/KMAX | & 34,000} 30,500! # 28,500)" 27,000/= 25,500 |= 24,000'
+  unit: null
+  values:
+  - 34000.0
+  - 30500.0
+  - 28500.0
+  - 27000.0
+  - 25500.0
+  - 24000.0
+- &id010
+  section: 'Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg'
+  section_type: linked_image_asset
+  source_line: 'CAPESIZE | 40,500) 38,000) # 31,500)" 30,500)- 25,000 = 26,250'
+  unit: null
+  values:
+  - 40500.0
+  - 38000.0
+  - 31500.0
+  - 30500.0
+  - 25000.0
+  - 26250.0
 regions:
 - atlantic
 - pacific
@@ -34,6 +146,18 @@ section_count: 2
 signals:
   metric_units:
   - usd_per_day
+  numeric_observation_count: 10
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
   rate_observations:
   - segment: capesize
     source_line: A firm week for the capesize period sector as rates pushed up thanks
@@ -117,12 +241,12 @@ A firm week for the capesize period sector as rates pushed up thanks healthy car
 A firm week for the capesize period sector as rates pushed up thanks healthy cargo volumes in both basins leading to stronger spot and period rates. The average rate for one year is currently estimated as $31,000/pdpr.
 After a slight dip last week, the kamsarmax/panamax timecharter sector has gained strength with plenty of period activity reported around the six months to one-year period.
 Positive sentiment in both basins has boosted the smaller sizes this week with steady demand on the coal trade from Indonesia to China.
-Image reference: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_img2.jpg
+Linked asset: dryy.jpg
 
-## Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_img2.jpg
-Source asset: reports/hellenic/dry_charter/2021/2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_img2.jpg
+## Linked asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg
+Source asset: reports/hellenic/dry_charter/2021/assets/2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg
 
-Linked image asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_img2.jpg
+Linked image asset: 2021-09-15_weekly-dry-time-charter-estimates-september-15-2021_dryy_ec0a9a0791fc.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

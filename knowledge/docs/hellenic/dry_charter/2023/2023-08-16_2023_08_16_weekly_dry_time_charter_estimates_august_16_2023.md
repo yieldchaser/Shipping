@@ -14,7 +14,117 @@ keywords:
 - main
 - reference
 - weekly-dry-time-charter-estimates-august-16-2023_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 9
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg'
+  unit: null
+  values:
+  - 2023.0
+  - -8.0
+  - -16.0
+  - 16.0
+  - -2023.0
+  - 16820231.0
+  - 9.0
+  - 2343.0
+  - 789.0
+- &id002
+  section: 'Linked asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg'
+  unit: null
+  values:
+  - 2023.0
+  - -8.0
+  - -16.0
+  - 16.0
+  - -2023.0
+  - 16820231.0
+  - 9.0
+  - 2343.0
+  - 789.0
+- &id003
+  section: 'Linked asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (144.0, 144.0)'
+  unit: null
+  values:
+  - 144.0
+  - 144.0
+- &id005
+  section: 'Linked asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg'
+  section_type: linked_image_asset
+  source_line: AL| BR A Updated Weds 16 August 23
+  unit: null
+  values:
+  - 16.0
+  - 23.0
+- &id006
+  section: 'Linked asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg'
+  section_type: linked_image_asset
+  source_line: '| HANDY (38% out) | 9,000 | 9,500 10,500 10,500 9,500 9,500 |'
+  unit: pct
+  values:
+  - 38.0
+  - 9000.0
+  - 9500.0
+  - 10500.0
+  - 10500.0
+  - 9500.0
+  - 9500.0
+- &id007
+  section: 'Linked asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg'
+  section_type: linked_image_asset
+  source_line: SMAX/ULTRA 10,500 | 11,000 11,500 12,000 10,500 11,650
+  unit: null
+  values:
+  - 10500.0
+  - 11000.0
+  - 11500.0
+  - 12000.0
+  - 10500.0
+  - 11650.0
+- &id008
+  section: 'Linked asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg'
+  section_type: linked_image_asset
+  source_line: '| PANAJKMAX | 14,000 | 14,500 12,750 12,750 12,500 12,500 |'
+  unit: null
+  values:
+  - 14000.0
+  - 14500.0
+  - 12750.0
+  - 12750.0
+  - 12500.0
+  - 12500.0
+- &id009
+  section: 'Linked asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE 14,000 | 13,500 14,500 14,500 15,500 15,500
+  unit: null
+  values:
+  - 14000.0
+  - 13500.0
+  - 14500.0
+  - 14500.0
+  - 15500.0
+  - 15500.0
 regions:
 - atlantic
 - pacific
@@ -24,6 +134,17 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 9
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
   rate_observations:
   - segment: handysize
     source_line: '| HANDY (38% out) | 9,000 | 9,500 10,500 10,500 9,500 9,500 |'
@@ -133,12 +254,12 @@ SMAX/ULTRA 10,500 | 11,000 11,500 12,000 10,500 11,650
 CAPESIZE 14,000 | 13,500 14,500 14,500 15,500 15,500
 
 ## Main
-Image reference: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img2.jpg
+Image reference: assets/2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg
 
-## Linked asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img2.jpg
-Source asset: reports/hellenic/dry_charter/2023/2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img2.jpg
+## Linked asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg
+Source asset: reports/hellenic/dry_charter/2023/assets/2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg
 
-Linked image asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img2.jpg
+Linked image asset: 2023-08-16_weekly-dry-time-charter-estimates-august-16-2023_img1_16820231_9e72343a6789.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

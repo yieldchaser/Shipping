@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 368,
+  "token_count": 426,
   "source_path": "reports/hellenic/tanker_charter/2024/2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-july-03-2024",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img1_372024_a7daa0c8b4a0.jpg",
         "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-july-03-2024_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 45,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2024-07-03_2024_07_03_weekly_tanker_time_charter_estimates_july_03_2024__s02_linked_asset_2024_07_03_weekly_tanker_time_charter_estimates_july_03_2024_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2024-07-03_2024_07_03_weekly_tanker_time_charter_estimates_july_03_2024__s02_linked_asset_2024_07_03_weekly_tanker_time_charter_estimates_july_03_2024_img1_372024_a7daa0c8b4a0_jpg",
       "doc_id": "hellenic_tanker_charter_2024-07-03_2024_07_03_weekly_tanker_time_charter_estimates_july_03_2024",
       "parent_id": "hellenic_tanker_charter_2024-07-03_2024_07_03_weekly_tanker_time_charter_estimates_july_03_2024__root",
-      "title": "Linked asset: 2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img2.jpg",
+      "title": "Linked asset: 2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img1_372024_a7daa0c8b4a0.jpg",
       "section_path": [
-        "Linked asset: 2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img2.jpg"
+        "Linked asset: 2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img1_372024_a7daa0c8b4a0.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img1_372024_a7daa0c8b4a0.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2024/2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img2.jpg\n\nLinked image asset: 2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\ny 3 | A LI B R A Updated Weds 3 Jul 2024\nShipping Limited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE (S$/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR' 5 YEAR*\nHANDY 28,000 26,000 24,000 22,000\nMR IMO3 30,000 27,000 29,000 25,500\nLR1 39,000 34,000 33,000 31,000\nLR2 51,500 42,500 44,500 38,500\nAFRA (115k dwt) 50,000 42,500 43,500 37,500\nSUEZ 45,000 42,500 45,500 42,500\nvicc 47,500 45,000 54,500 49,000",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2024/assets/2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img1_372024_a7daa0c8b4a0.jpg\n\nLinked image asset: 2024-07-03_weekly-tanker-time-charter-estimates-july-03-2024_img1_372024_a7daa0c8b4a0.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\ny 3 | A LI B R A Updated Weds 3 Jul 2024\nShipping Limited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE (S$/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR' 5 YEAR*\nHANDY 28,000 26,000 24,000 22,000\nMR IMO3 30,000 27,000 29,000 25,500\nLR1 39,000 34,000 33,000 31,000\nLR2 51,500 42,500 44,500 38,500\nAFRA (115k dwt) 50,000 42,500 43,500 37,500\nSUEZ 45,000 42,500 45,500 42,500\nvicc 47,500 45,000 54,500 49,000",
       "keywords": [
         "handysize",
         "year",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 304,
+      "token_count": 333,
       "section_type": "linked_image_asset",
       "children": []
     }

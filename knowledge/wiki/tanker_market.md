@@ -1,15 +1,12 @@
 ---
 categories:
-- demolition
 - insights
-- shipbuilding
 - tanker
 - tanker_charter
 - tankers
-- vessel_valuations
-document_count: 74
+document_count: 67
 evidence_count: 250
-generated_at: '2026-04-15T12:35:56Z'
+generated_at: '2026-04-15T18:04:05Z'
 latest_evidence_date: '2026-04-14'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +22,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 74 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-14, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 67 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-14, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as insights, tanker, tanker_charter, tankers.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -41,14 +38,14 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-04-14 | breakwave_insights insights | Linked asset: 2026-04-14_4142026db-report2026april14llo4-wmso9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b9f0865a0a3.png: Source asset: reports/breakwave/2026/assets/2026-04-14_4142026db-report2026april14llo4-wmso9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b9f0865a0a3.png Linked image asset: 2026-04-14_4142026db-report2026april14llo4-wmso9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b9f0865a0a3.png Image metadata: PNG 935x558 mode=RGBA Embedded info: dpi: (95.9866, 95.9866) OCR text: /J© BREAKWAVE ADVISORS Baltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF) 3000 2500 2000 1500 1000 500 0 = BDIY (spot) «=== BDRYFF (futures) May-25 Jun-25 Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 The Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax. The Breakwave Dry Futures Index (BDRYFF) is designed to track freight futures contracts with a sector weighting of 50% Capesize, 40% Panamax and 10% Supramax and a weighted average maturity of approximately 50-70 days. [doc_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9 | section_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9__s03_linked_asset_2026_04_14_4142026db_report2026april14llo4_wmso9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_8b9f0865a0a3_png | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-03-17 to 2026-04-14 across 1 calendar years.
+- Coverage span: 2026-03-10 to 2026-04-14 across 1 calendar years.
 - Most-covered years: 2026: 250
-- Recurring evidence markers: crude, products, china, tanker, crude_oil, europe
+- Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 185, hellenic: 58, breakwave: 4, baltic: 3
-- Category coverage: insights: 185, demolition: 32, shipbuilding: 9, vessel_valuations: 9, tanker_charter: 8, tankers: 4, tanker: 3
-- Tone distribution: constructive: 105, cautiously_bearish: 77, neutral: 68
+- Source coverage: breakwave_insights: 230, hellenic: 10, breakwave: 6, baltic: 4
+- Category coverage: insights: 230, tanker_charter: 10, tankers: 6, tanker: 4
+- Tone distribution: constructive: 127, cautiously_bearish: 70, neutral: 53
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
@@ -57,7 +54,7 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-04-13 | Coal India's Stockpiles Set Another Record [doc_id: breakwave_insights_insights_2026-04-13_2026_04_13_coal_indias_stockpiles_set_another_record | section_id: breakwave_insights_insights_2026-04-13_2026_04_13_coal_indias_stockpiles_set_another_record__s04_linked_asset_2026_04_13_coal_indias_stockpiles_set_another_record_img_243_6f7bb673b293_jpg | pages n/a]
 - 2026-04-10 | Tanker report - Week 15 [doc_id: baltic_tanker_2026-04-10_2026_04_10_tanker_report_week_15_tanker | section_id: baltic_tanker_2026-04-10_2026_04_10_tanker_report_week_15_tanker__s01_main | pages n/a]
 - 2026-04-09 | Uncertainty and volatility in commodity markets [doc_id: breakwave_insights_insights_2026-04-09_2026_04_09_uncertainty_and_volatility_in_commodity_markets | section_id: breakwave_insights_insights_2026-04-09_2026_04_09_uncertainty_and_volatility_in_commodity_markets__s01_main | pages n/a]
-- 2026-04-08 | Weekly Tanker Time Charter Estimates, April 08 2026 [doc_id: hellenic_tanker_charter_2026-04-08_2026_04_08_weekly_tanker_time_charter_estimates_april_08_2026 | section_id: hellenic_tanker_charter_2026-04-08_2026_04_08_weekly_tanker_time_charter_estimates_april_08_2026__s02_linked_asset_2026_04_08_weekly_tanker_time_charter_estimates_april_08_2026_img2_jpg | pages n/a]
+- 2026-04-08 | Weekly Tanker Time Charter Estimates, April 08 2026 [doc_id: hellenic_tanker_charter_2026-04-08_2026_04_08_weekly_tanker_time_charter_estimates_april_08_2026 | section_id: hellenic_tanker_charter_2026-04-08_2026_04_08_weekly_tanker_time_charter_estimates_april_08_2026__s02_linked_asset_2026_04_08_weekly_tanker_time_charter_estimates_april_08_2026_8420251_7b67e1aa8a17_jpg | pages n/a]
 - 2026-04-08 | India's growth potential [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential__s01_main | pages n/a]
 - 2026-04-08 | Indian Electricity Production Remains Weak [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak__s04_linked_asset_2026_04_08_indian_electricity_production_remains_weak_img_243_fef11c7a6733_jpg | pages n/a]
 

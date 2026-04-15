@@ -12,7 +12,146 @@ keywords:
 - main
 - reference
 - weekly-tanker-time-charter-estimates-september-24-2025_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 13
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  unit: null
+  values:
+  - 2025.0
+  - -9.0
+  - -24.0
+  - 24.0
+  - -2025.0
+  - 24920254.0
+  - 9.0
+  - 263534.0
+- &id002
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  unit: null
+  values:
+  - 2025.0
+  - -9.0
+  - -24.0
+  - 24.0
+  - -2025.0
+  - 24920254.0
+  - 9.0
+  - 263534.0
+- &id003
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (144.0, 144.0)'
+  unit: null
+  values:
+  - 144.0
+  - 144.0
+- &id005
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: y 3 | A L | B R A Updated Weds 24/09/2025
+  unit: null
+  values:
+  - 3.0
+  - 24.0
+  - 9.0
+  - 2025.0
+- &id006
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: SIZE 41 YEAR 2 YEAR 3 YEAR* 5 YEAR *
+  unit: null
+  values:
+  - 41.0
+- &id007
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY 19,000 17,000 17,000 17,000
+  unit: null
+  values:
+  - 19000.0
+  - 17000.0
+  - 17000.0
+  - 17000.0
+- &id008
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: MR IMO3 20,750 19,000 21,500 20,000
+  unit: null
+  values:
+  - 20750.0
+  - 19000.0
+  - 21500.0
+  - 20000.0
+- &id009
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: LR1 24,500 22,500 24,000 23,000
+  unit: null
+  values:
+  - 24500.0
+  - 22500.0
+  - 24000.0
+  - 23000.0
+- &id010
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: LR2 34,000 28,000 30,000 29,000
+  unit: null
+  values:
+  - 34000.0
+  - 28000.0
+  - 30000.0
+  - 29000.0
+- &id011
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: AFRA (115k dwt) 34,500 29,500 29,500 28,000
+  unit: null
+  values:
+  - 115.0
+  - 34500.0
+  - 29500.0
+  - 29500.0
+  - 28000.0
+- &id012
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: SUEZ 39,000 34,500 35,000 33,000
+  unit: null
+  values:
+  - 39000.0
+  - 34500.0
+  - 35000.0
+  - 33000.0
+- &id013
+  section: 'Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg'
+  section_type: linked_image_asset
+  source_line: vice 49,000 45,000 50,000 48,500
+  unit: null
+  values:
+  - 49000.0
+  - 45000.0
+  - 50000.0
+  - 48500.0
 regions:
 - meg
 - west_africa
@@ -21,6 +160,21 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 13
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
   rate_observations:
   - segment: mr
     source_line: MR IMO3 20,750 19,000 21,500 20,000
@@ -144,12 +298,12 @@ SUEZ 39,000 34,500 35,000 33,000
 vice 49,000 45,000 50,000 48,500
 
 ## Main
-Image reference: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img2.jpg
+Image reference: assets/2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg
 
-## Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img2.jpg
-Source asset: reports/hellenic/tanker_charter/2025/2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img2.jpg
+## Linked asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg
+Source asset: reports/hellenic/tanker_charter/2025/assets/2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg
 
-Linked image asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img2.jpg
+Linked image asset: 2025-09-24_weekly-tanker-time-charter-estimates-september-24-2025_img1_24920254_9b0263534aad.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

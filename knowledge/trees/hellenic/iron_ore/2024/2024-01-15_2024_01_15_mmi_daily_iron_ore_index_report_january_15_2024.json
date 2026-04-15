@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 11371,
+  "token_count": 11457,
   "source_path": "reports/hellenic/iron_ore/2024/2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-january-15-2024",
   "children": [
@@ -41,7 +41,7 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 15/01/2024\nDCE iron ore futures market falling trends by 3.17. the main contract I2405 closed 933.Traders ship according to market conditions；Some steel mills tended to be wait-and-see, and purchased on demand.",
+      "summary": "DCE iron ore futures market falling trends by 3.17. the main contract I2405 closed 933.Traders ship according to market conditions；Some steel mills tended to be wait-and-see, and purchased on demand.",
       "keywords": [
         "china",
         "brazil",
@@ -49,27 +49,27 @@
         "iron_ore",
         "steel",
         "ore",
-        "iron",
-        "yuan/mt"
+        "yuan/mt",
+        "decreased"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 311,
+      "token_count": 310,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2024-01-15_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024__s02_linked_asset_2024_01_15_mmi_daily_iron_ore_report_for_15th_january_2024_pdf",
+      "node_id": "hellenic_iron_ore_2024-01-15_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024__s02_linked_asset_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024_mmi_daily_iron_ore_report_for_15th_j_d0ee4bf9f7af_pdf",
       "doc_id": "hellenic_iron_ore_2024-01-15_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024",
       "parent_id": "hellenic_iron_ore_2024-01-15_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024__root",
-      "title": "Linked asset: 2024-01-15_MMi-Daily-Iron-Ore-Report-for-15th-January-2024.pdf",
+      "title": "Linked asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_mmi-daily-iron-ore-report-for-15th-j_d0ee4bf9f7af.pdf",
       "section_path": [
-        "Linked asset: 2024-01-15_MMi-Daily-Iron-Ore-Report-for-15th-January-2024.pdf"
+        "Linked asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_mmi-daily-iron-ore-report-for-15th-j_d0ee4bf9f7af.pdf"
       ],
-      "section_path_text": "Linked asset: 2024-01-15_MMi-Daily-Iron-Ore-Report-for-15th-January-2024.pdf",
+      "section_path_text": "Linked asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_mmi-daily-iron-ore-report-for-15th-j_d0ee4bf9f7af.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2024-01-15_MMi-Daily-Iron-Ore-Report-for-15th-January-2024.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Jan 15th, 2024\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n1030 1142 945\n-14 -1.34% -13.97 -1.21% -5 -0.54%\nJan 15th, 2024 Jan 15th, 2024 Jan 15th, 2024\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n138.85 164.40 1165\n0.00 0.00% 0.00 0.00% -45 -3.72%\nJan 15th, 2024 Jan 15th, 2024 Week Ending Jan 12th, 2024\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2401 (Jan) RMB/t (3pm close) February 24 USD/dmt RB2405 (Jan) RMB/t\n933.00 127.45 3896\n-15.50 -1.63% -2.15 -1.66% -6 -0.15%\nJan 15th, 2024 (3pm close) Jan 15th, 2024 (5.30 pm Print) Jan 15th, 2024 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n22.01 7",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_mmi-daily-iron-ore-report-for-15th-j_d0ee4bf9f7af.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Jan 15th, 2024\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n1030 1142 945\n-14 -1.34% -13.97 -1.21% -5 -0.54%\nJan 15th, 2024 Jan 15th, 2024 Jan 15th, 2024\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n138.85 164.40 1165\n0.00 0.00% 0.00 0.00% -45 -3.72%\nJan 15th, 2024 Jan 15th, 2024 Week Ending Jan 12th, 2024\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2401 (Jan) RMB/t (3pm close) February 24 USD/dmt RB2405 (Jan) RMB/t\n933.00 127.45 3896\n-15.50 -1.63% -2.15 -1.66% -6 -0.15%\nJan 15th, 2024 (3pm close) Jan 15th, 2024 (5.30 pm Print) Jan 15th, 2024 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingda",
       "keywords": [
         "china",
         "brazil",
@@ -82,22 +82,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 10095,
+      "token_count": 10117,
       "section_type": "linked_pdf",
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2024-01-15_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024__s03_linked_asset_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024_img2_jpg",
+      "node_id": "hellenic_iron_ore_2024-01-15_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024__s03_linked_asset_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024_img1_15012024chineser_96fe288725c0_jpg",
       "doc_id": "hellenic_iron_ore_2024-01-15_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024",
       "parent_id": "hellenic_iron_ore_2024-01-15_2024_01_15_mmi_daily_iron_ore_index_report_january_15_2024__root",
-      "title": "Linked asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_img2.jpg",
+      "title": "Linked asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_img1_15012024chineser_96fe288725c0.jpg",
       "section_path": [
-        "Linked asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_img2.jpg"
+        "Linked asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_img1_15012024chineser_96fe288725c0.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_img1_15012024chineser_96fe288725c0.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2024/2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_img2.jpg\n\nLinked image asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nPay: 1\nMMi Daily Iron Ore Index Report :| Jan 15th, 2024\nIRON ORE PORT STOCK INDEX (IOP!)\nJan 15th, 2024 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne | CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2024/assets/2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_img1_15012024chineser_96fe288725c0.jpg\n\nLinked image asset: 2024-01-15_mmi-daily-iron-ore-index-report-january-15-2024_img1_15012024chineser_96fe288725c0.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nPay: 1\nMMi Daily Iron Ore Index Report :| Jan 15th, 2024\nIRON ORE PORT STOCK INDEX (IOP!)\nJan 15th, 2024 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne | CFR Qingdao Equivalent (exc.",
       "keywords": [
         "china",
         "brazil",
@@ -110,7 +110,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 899,
+      "token_count": 928,
       "section_type": "linked_image_asset",
       "children": []
     }

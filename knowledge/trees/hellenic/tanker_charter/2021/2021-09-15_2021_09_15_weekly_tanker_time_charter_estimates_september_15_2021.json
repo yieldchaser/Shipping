@@ -47,29 +47,29 @@
         "crude",
         "levels",
         "again",
+        "asset",
         "broadens.",
         "business",
-        "clean",
-        "climbed"
+        "clean"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 128,
+      "token_count": 103,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2021-09-15_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021__s02_linked_asset_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2021-09-15_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021__s02_linked_asset_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021_wett_fc9073bde7a7_jpg",
       "doc_id": "hellenic_tanker_charter_2021-09-15_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021",
       "parent_id": "hellenic_tanker_charter_2021-09-15_2021_09_15_weekly_tanker_time_charter_estimates_september_15_2021__root",
-      "title": "Linked asset: 2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021_img2.jpg",
+      "title": "Linked asset: 2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021_wett_fc9073bde7a7.jpg",
       "section_path": [
-        "Linked asset: 2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021_img2.jpg"
+        "Linked asset: 2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021_wett_fc9073bde7a7.jpg"
       ],
-      "section_path_text": "Linked asset: 2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021_img2.jpg",
+      "section_path_text": "Linked asset: 2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021_wett_fc9073bde7a7.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021_img2.jpg\n\nLinked image asset: 2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA L| B R A Updated Wednesday 15 September 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR *3 YR *5 YR\nHANDY = 11,000 = 12,250 = 14,500 ba 14,250\nMR IMO3 Y 12,000 = 13,000 = 16,000 a 16,350\nLRI = 13,500 = 15,250 = 17,250 a 17,500\nLR2 = 16,500 = 19,750 = 24,950 a 25,500\nAFRA = 15,750 = 18,000 = 23,000 oS 24,500\nSUEZ = 18,000 = 19,500 = 26,000 ma 27,000\nVLCC y 22,500 = 25,500 = 35,000 m 36,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/assets/2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021_wett_fc9073bde7a7.jpg\n\nLinked image asset: 2021-09-15_weekly-tanker-time-charter-estimates-september-15-2021_wett_fc9073bde7a7.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA L| B R A Updated Wednesday 15 September 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR *3 YR *5 YR\nHANDY = 11,000 = 12,250 = 14,500 ba 14,250\nMR IMO3 Y 12,000 = 13,000 = 16,000 a 16,350\nLRI = 13,500 = 15,250 = 17,250 a 17,500\nLR2 = 16,500 = 19,750 = 24,950 a 25,500\nAFRA = 15,750 = 18,000 = 23,000 oS 24,500\nSUEZ = 18,000 = 19,500 = 26,000 ma 27,000\nVLCC y 22,500 = 25,500 = 35,000 m 36,500",
       "keywords": [
         "handysize",
         "vlcc",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 316,
+      "token_count": 333,
       "section_type": "linked_image_asset",
       "children": []
     }

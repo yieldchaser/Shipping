@@ -20,7 +20,14 @@ keywords:
 - delivered
 - designed
 - engineer
+linked_assets_discovered: 0
+linked_assets_failed: 0
+linked_assets_ingested: 0
+linked_assets_mirrored: 0
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 0
+numeric_observations: []
 regions:
 - china
 - brazil
@@ -59,6 +66,5 @@ in Recent Videos 26/05/2024
 KENC Engineering has successfully delivered a Flange Mounted Upending Tool [FMUT] to Van Oord.We designed, fabrication, tested and commissioned this crucial lifting tool for Van Oord to install monopiles in a UK offshore wind farm. It recently installed its first monopiles and operates smoothly and soundly. In this video, Jeroen Schiphorst (lead engineer at KENC), tells you all about the fabrication and testing process!
 
 ## Main
-in Recent Videos 26/05/2024
 KENC Engineering has successfully delivered a Flange Mounted Upending Tool [FMUT] to Van Oord.We designed, fabrication, tested and commissioned this crucial lifting tool for Van Oord to install monopiles in a UK offshore wind farm. It recently installed its first monopiles and operates smoothly and soundly. In this video, Jeroen Schiphorst (lead engineer at KENC), tells you all about the fabrication and testing process!
 Source: KENC Engineering

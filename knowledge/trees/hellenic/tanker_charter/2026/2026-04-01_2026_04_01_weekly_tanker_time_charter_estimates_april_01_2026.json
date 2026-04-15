@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 367,
+  "token_count": 376,
   "source_path": "reports/hellenic/tanker_charter/2026/2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-april-01-2026",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
-        "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-april-01-2026_img2.jpg"
+        "asset",
+        "jpg",
+        "linked"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 8,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2026-04-01_2026_04_01_weekly_tanker_time_charter_estimates_april_01_2026__s02_linked_asset_2026_04_01_weekly_tanker_time_charter_estimates_april_01_2026_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2026-04-01_2026_04_01_weekly_tanker_time_charter_estimates_april_01_2026__s02_linked_asset_2026_04_01_weekly_tanker_time_charter_estimates_april_01_2026_14202510_b0f6fba566ef_jpg",
       "doc_id": "hellenic_tanker_charter_2026-04-01_2026_04_01_weekly_tanker_time_charter_estimates_april_01_2026",
       "parent_id": "hellenic_tanker_charter_2026-04-01_2026_04_01_weekly_tanker_time_charter_estimates_april_01_2026__root",
-      "title": "Linked asset: 2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026_img2.jpg",
+      "title": "Linked asset: 2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026_14202510_b0f6fba566ef.jpg",
       "section_path": [
-        "Linked asset: 2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026_img2.jpg"
+        "Linked asset: 2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026_14202510_b0f6fba566ef.jpg"
       ],
-      "section_path_text": "Linked asset: 2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026_img2.jpg",
+      "section_path_text": "Linked asset: 2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026_14202510_b0f6fba566ef.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2026/2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026_img2.jpg\n\nLinked image asset: 2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\ny 3 | A LI B R A Updated Weds 01/04/26\nShipping Limited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY 27,000 24,500 22,500 21,000\nMR IMO3 31,500 28,500 27,500 24,000\nLR1 35,000 30,000 28,500 26,000\nLR2 55,000 50,000 42,500 35,000\nAFRA (115k dwt) 62,500 50,000 40,000 33,500\nSUEZ 80,000 60,000 52,500 40,000\nvicc 105,000 80,000 70,000 60,000",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2026/assets/2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026_14202510_b0f6fba566ef.jpg\n\nLinked image asset: 2026-04-01_weekly-tanker-time-charter-estimates-april-01-2026_14202510_b0f6fba566ef.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\ny 3 | A LI B R A Updated Weds 01/04/26\nShipping Limited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY 27,000 24,500 22,500 21,000\nMR IMO3 31,500 28,500 27,500 24,000\nLR1 35,000 30,000 28,500 26,000\nLR2 55,000 50,000 42,500 35,000\nAFRA (115k dwt) 62,500 50,000 40,000 33,500\nSUEZ 80,000 60,000 52,500 40,000\nvicc 105,000 80,000 70,000 60,000",
       "keywords": [
         "handysize",
         "year",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 303,
+      "token_count": 324,
       "section_type": "linked_image_asset",
       "children": []
     }

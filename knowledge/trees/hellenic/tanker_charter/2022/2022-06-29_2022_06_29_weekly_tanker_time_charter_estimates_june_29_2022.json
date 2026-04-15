@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 365,
+  "token_count": 387,
   "source_path": "reports/hellenic/tanker_charter/2022/2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-june-29-2022",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
-        "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-june-29-2022_img2.jpg"
+        "asset",
+        "linked",
+        "tanker_1-3.jpg"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 9,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2022-06-29_2022_06_29_weekly_tanker_time_charter_estimates_june_29_2022__s02_linked_asset_2022_06_29_weekly_tanker_time_charter_estimates_june_29_2022_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2022-06-29_2022_06_29_weekly_tanker_time_charter_estimates_june_29_2022__s02_linked_asset_2022_06_29_weekly_tanker_time_charter_estimates_june_29_2022_tanker_1_3_022c5e0b2a35_jpg",
       "doc_id": "hellenic_tanker_charter_2022-06-29_2022_06_29_weekly_tanker_time_charter_estimates_june_29_2022",
       "parent_id": "hellenic_tanker_charter_2022-06-29_2022_06_29_weekly_tanker_time_charter_estimates_june_29_2022__root",
-      "title": "Linked asset: 2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022_img2.jpg",
+      "title": "Linked asset: 2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022_tanker-1-3_022c5e0b2a35.jpg",
       "section_path": [
-        "Linked asset: 2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022_img2.jpg"
+        "Linked asset: 2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022_tanker-1-3_022c5e0b2a35.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022_tanker-1-3_022c5e0b2a35.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2022/2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022_img2.jpg\n\nLinked image asset: 2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nAir LIBRA Updated Weds 29 Jun 2022\nshipping Lirited\nWET TIME CHARTER ESTIMATE ($/pdpr)\nSize 1 YEAR 2 YEAR 3 YEAR' 5 YEAR*\nHANDY a 16,750 15,500 A 16,500 A 16,500\nMR IMO3 18,000 16,500 A 20,000 A 20.000\nLR1 19,950 19.950 22,500 21,500\nLR2 25,000 23,500 27,500 27,500\nAFRA (1iskoet) | VW 21,000 Vv 22,000 27,000 27,000\nSUEZ vy 21,500 y=. 21,500 28,500 28,500\nvicc 20,000 22,500 35,000 35,000",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2022/assets/2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022_tanker-1-3_022c5e0b2a35.jpg\n\nLinked image asset: 2022-06-29_weekly-tanker-time-charter-estimates-june-29-2022_tanker-1-3_022c5e0b2a35.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nAir LIBRA Updated Weds 29 Jun 2022\nshipping Lirited\nWET TIME CHARTER ESTIMATE ($/pdpr)\nSize 1 YEAR 2 YEAR 3 YEAR' 5 YEAR*\nHANDY a 16,750 15,500 A 16,500 A 16,500\nMR IMO3 18,000 16,500 A 20,000 A 20.000\nLR1 19,950 19.950 22,500 21,500\nLR2 25,000 23,500 27,500 27,500\nAFRA (1iskoet) | VW 21,000 Vv 22,000 27,000 27,000\nSUEZ vy 21,500 y=. 21,500 28,500 28,500\nvicc 20,000 22,500 35,000 35,000",
       "keywords": [
         "handysize",
         "year",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 301,
+      "token_count": 330,
       "section_type": "linked_image_asset",
       "children": []
     }

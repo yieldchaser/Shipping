@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 366,
+  "token_count": 420,
   "source_path": "reports/hellenic/tanker_charter/2025/2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-june-04-2025",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img1_4620250_0aa6cbd56b6a.jpg",
         "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-june-04-2025_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 44,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2025-06-04_2025_06_04_weekly_tanker_time_charter_estimates_june_04_2025__s02_linked_asset_2025_06_04_weekly_tanker_time_charter_estimates_june_04_2025_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2025-06-04_2025_06_04_weekly_tanker_time_charter_estimates_june_04_2025__s02_linked_asset_2025_06_04_weekly_tanker_time_charter_estimates_june_04_2025_img1_4620250_0aa6cbd56b6a_jpg",
       "doc_id": "hellenic_tanker_charter_2025-06-04_2025_06_04_weekly_tanker_time_charter_estimates_june_04_2025",
       "parent_id": "hellenic_tanker_charter_2025-06-04_2025_06_04_weekly_tanker_time_charter_estimates_june_04_2025__root",
-      "title": "Linked asset: 2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img2.jpg",
+      "title": "Linked asset: 2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img1_4620250_0aa6cbd56b6a.jpg",
       "section_path": [
-        "Linked asset: 2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img2.jpg"
+        "Linked asset: 2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img1_4620250_0aa6cbd56b6a.jpg"
       ],
-      "section_path_text": "Linked asset: 2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img2.jpg",
+      "section_path_text": "Linked asset: 2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img1_4620250_0aa6cbd56b6a.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2025/2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img2.jpg\n\nLinked image asset: 2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nL A LI B R A Updated Weds 04/06/2025\nShipping Umited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 41 YEAR 2 YEAR 3 YEAR* 5 YEAR *\nHANDY 18,000 17,000 17,500 17,500\nMR IMO3 20,000 18,000 20,000 20,000\nLR1 22,500 20,000 24,000 23,000\nLR2 32,000 28,000 30,000 29,500\nAFRA (115k dwt) 31,000 27,500 29,500 28,000\nSUEZ 33,500 32,000 37,500 34,000\nvicc 46,000 42,500 49,500 48,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2025/assets/2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img1_4620250_0aa6cbd56b6a.jpg\n\nLinked image asset: 2025-06-04_weekly-tanker-time-charter-estimates-june-04-2025_img1_4620250_0aa6cbd56b6a.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nL A LI B R A Updated Weds 04/06/2025\nShipping Umited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 41 YEAR 2 YEAR 3 YEAR* 5 YEAR *\nHANDY 18,000 17,000 17,500 17,500\nMR IMO3 20,000 18,000 20,000 20,000\nLR1 22,500 20,000 24,000 23,000\nLR2 32,000 28,000 30,000 29,500\nAFRA (115k dwt) 31,000 27,500 29,500 28,000\nSUEZ 33,500 32,000 37,500 34,000\nvicc 46,000 42,500 49,500 48,500",
       "keywords": [
         "handysize",
         "year",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 302,
+      "token_count": 329,
       "section_type": "linked_image_asset",
       "children": []
     }

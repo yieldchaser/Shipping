@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 17855,
+  "token_count": 17933,
   "source_path": "reports/hellenic/iron_ore/2025/2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-april-30-2025",
   "children": [
@@ -41,35 +41,35 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 30/04/2025\nToday, DCE iron ore futures continued to trade in the doldrums, with the most-traded contract I2509 closing at 703.5, down 0.78% for the day.Traders' enthusiasm for selling was moderate; steel mills had largely completed their pre-holiday inventory restocking, resulting in fewer inquiries. The market trading atmosphere was moderate.",
+      "summary": "Today, DCE iron ore futures continued to trade in the doldrums, with the most-traded contract I2509 closing at 703.5, down 0.78% for the day.Traders' enthusiasm for selling was moderate; steel mills had largely completed their pre-holiday inventory restocking, resulting in fewer inquiries. The market trading atmosphere was moderate.",
       "keywords": [
         "china",
         "iron_ore",
         "steel",
         "iron",
         "ore",
-        "prices",
         "production",
-        "was"
+        "was",
+        "yuan/mt"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 367,
+      "token_count": 366,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025__s02_linked_asset_2025_04_30_mmi_daily_iron_ore_index_prices_for_30th_april_2025_pdf",
+      "node_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025__s02_linked_asset_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025_mmi_daily_iron_ore_index_prices_for_c5a3bbf62ee6_pdf",
       "doc_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025",
       "parent_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025__root",
-      "title": "Linked asset: 2025-04-30_MMi-Daily-Iron-Ore-Index-Prices-for-30th-April-2025.pdf",
+      "title": "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_mmi-daily-iron-ore-index-prices-for-_c5a3bbf62ee6.pdf",
       "section_path": [
-        "Linked asset: 2025-04-30_MMi-Daily-Iron-Ore-Index-Prices-for-30th-April-2025.pdf"
+        "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_mmi-daily-iron-ore-index-prices-for-_c5a3bbf62ee6.pdf"
       ],
-      "section_path_text": "Linked asset: 2025-04-30_MMi-Daily-Iron-Ore-Index-Prices-for-30th-April-2025.pdf",
+      "section_path_text": "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_mmi-daily-iron-ore-index-prices-for-_c5a3bbf62ee6.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-04-30_MMi-Daily-Iron-Ore-Index-Prices-for-30th-April-2025.pdf\n\n[Page 1]\nMMiDaily Iron Ore Index Report\nMMI Dashboard\nIron Ore Price Indices\nExchange Traded Contracts\nFreight Rates Steel Price\nInventory Levels Steel Price\nwww.mmiprices.com Page 2/6\nA\nA\np\np\nr\nr\n3\n3\n0\n0\nt\nt\nIr o n O r e P\nIO P I6 2\nh , 2 0 2 5\nIr o n O r e S\nIO S I6 2 6\nh , 2 0 2 5\no r t S t o c k ( F O T Q in g d a o )\n6 2 % F e F in e s R M B / t\n7 7 1\n- 3 - 0 . e a b o r n e ( C F R Q in g d a o )\n2 % F e F in e s U S D / d m t\n9 9 .",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_mmi-daily-iron-ore-index-prices-for-_c5a3bbf62ee6.pdf\n\n[Page 1]\nMMiDaily Iron Ore Index Report\nMMI Dashboard\nIron Ore Price Indices\nExchange Traded Contracts\nFreight Rates Steel Price\nInventory Levels Steel Price\nwww.mmiprices.com Page 2/6\nA\nA\np\np\nr\nr\n3\n3\n0\n0\nt\nt\nIr o n O r e P\nIO P I6 2\nh , 2 0 2 5\nIr o n O r e S\nIO S I6 2 6\nh , 2 0 2 5\no r t S t o c k ( F O T Q in g d a o )\n6 2 % F e F in e s R M B / t\n7 7 1\n- 3 - 0 . e a b o r n e ( C F R Q in g d a o )\n2 % F e F in e s U S D / d m t\n9 9 .",
       "keywords": [
         "china",
         "brazil",
@@ -82,35 +82,35 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 16617,
+      "token_count": 16635,
       "section_type": "linked_pdf",
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025__s03_linked_asset_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025_img2_jpg",
+      "node_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025__s03_linked_asset_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025_img1_30052025chinese32113_785432b95241_jpg",
       "doc_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025",
       "parent_id": "hellenic_iron_ore_2025-04-30_2025_04_30_mmi_daily_iron_ore_index_report_april_30_2025__root",
-      "title": "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img2.jpg",
+      "title": "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img1_30052025chinese32113_785432b95241.jpg",
       "section_path": [
-        "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img2.jpg"
+        "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img1_30052025chinese32113_785432b95241.jpg"
       ],
-      "section_path_text": "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img2.jpg",
+      "section_path_text": "Linked asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img1_30052025chinese32113_785432b95241.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2025/2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img2.jpg\n\nLinked image asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n. 7\nMMi Daily Iron Ore Index Report April 30, 2025\n| IRON ORE PORT STOCK INDEX (IOPI)\nApr 30th, 2025 FOT Qingdao (inc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2025/assets/2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img1_30052025chinese32113_785432b95241.jpg\n\nLinked image asset: 2025-04-30_mmi-daily-iron-ore-index-report-april-30-2025_img1_30052025chinese32113_785432b95241.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n. 7\nMMi Daily Iron Ore Index Report April 30, 2025\n| IRON ORE PORT STOCK INDEX (IOPI)\nApr 30th, 2025 FOT Qingdao (inc.",
       "keywords": [
+        "china",
         "brazil",
         "iron_ore",
         "steel",
         "change",
         "ore",
         "fines",
-        "iron",
-        "low"
+        "iron"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 804,
+      "token_count": 833,
       "section_type": "linked_image_asset",
       "children": []
     }

@@ -21,7 +21,22 @@ keywords:
 - plastics
 - pre-mepc
 - scrubbers
+linked_assets_discovered: 0
+linked_assets_failed: 0
+linked_assets_ingested: 0
+linked_assets_mirrored: 0
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 1
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: Pre-MEPC 82 Briefing on black carbon, GHGs, scrubbers, noise, plastics
+    & other shipping impacts
+  unit: null
+  values:
+  - 82.0
 regions:
 - atlantic
 - pacific
@@ -29,7 +44,10 @@ regions:
 - brazil
 - australia
 section_count: 1
-signals: {}
+signals:
+  numeric_observation_count: 1
+  numeric_observations:
+  - *id001
 source: hellenic
 source_path: reports/hellenic/dry_charter/2024/2024-09-30_pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-pl.html
 source_stem: 2024-09-30_pre-mepc-82-briefing-on-black-carbon-ghgs-scrubbers-noise-pl

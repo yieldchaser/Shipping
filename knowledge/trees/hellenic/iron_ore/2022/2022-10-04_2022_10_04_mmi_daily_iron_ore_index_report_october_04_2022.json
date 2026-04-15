@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 25086,
+  "token_count": 29305,
   "source_path": "reports/hellenic/iron_ore/2022/2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-04-2022",
   "children": [
@@ -41,35 +41,35 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 04/10/2022\nHOLIDAY\nImage reference: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img2.jpg\nSource: Metals Market Index (MMi)",
+      "summary": "HOLIDAY\nImage reference: assets/2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img1_0410chinese4r_dc65fb71b888.jpg\nSource: Metals Market Index (MMi)",
       "keywords": [
         "china",
-        "iron_ore",
-        "steel",
-        "chinese",
+        "assets/2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img1_0410chinese4r_dc65fb71b888.jpg",
         "holiday",
         "image",
-        "iron",
-        "metals"
+        "metals",
+        "mmi",
+        "reference",
+        "source"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 61,
+      "token_count": 59,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2022-10-04_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022__s02_linked_asset_2022_10_04_mmi_daily_iron_ore_report_for_4th_october_2022_compressed_pdf",
+      "node_id": "hellenic_iron_ore_2022-10-04_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022__s02_linked_asset_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022_mmi_daily_iron_ore_report_for_4th_oc_84242fb0da83_pdf",
       "doc_id": "hellenic_iron_ore_2022-10-04_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022",
       "parent_id": "hellenic_iron_ore_2022-10-04_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022__root",
-      "title": "Linked asset: 2022-10-04_MMi-Daily-Iron-Ore-Report-for-4th-October-2022_compressed.pdf",
+      "title": "Linked asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_mmi-daily-iron-ore-report-for-4th-oc_84242fb0da83.pdf",
       "section_path": [
-        "Linked asset: 2022-10-04_MMi-Daily-Iron-Ore-Report-for-4th-October-2022_compressed.pdf"
+        "Linked asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_mmi-daily-iron-ore-report-for-4th-oc_84242fb0da83.pdf"
       ],
-      "section_path_text": "Linked asset: 2022-10-04_MMi-Daily-Iron-Ore-Report-for-4th-October-2022_compressed.pdf",
+      "section_path_text": "Linked asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_mmi-daily-iron-ore-report-for-4th-oc_84242fb0da83.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-10-04_MMi-Daily-Iron-Ore-Report-for-4th-October-2022_compressed.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Oct 4th, 2022\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n766 890 714\nHOLIDAY HOLIDAY HOLIDAY\n0 0.00% 0.00 0.00% 0 0.00%\nOct 4th, 2022 Oct 4th, 2022 Oct 4th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n97.",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_mmi-daily-iron-ore-report-for-4th-oc_84242fb0da83.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) Oct 4th, 2022\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n766 890 714\nHOLIDAY HOLIDAY HOLIDAY\n0 0.00% 0.00 0.00% 0 0.00%\nOct 4th, 2022 Oct 4th, 2022 Oct 4th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fin",
       "keywords": [
         "china",
         "brazil",
@@ -82,35 +82,35 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 24456,
+      "token_count": 28618,
       "section_type": "linked_pdf",
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2022-10-04_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022__s03_linked_asset_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022_img2_jpg",
+      "node_id": "hellenic_iron_ore_2022-10-04_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022__s03_linked_asset_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022_img1_0410chinese4r_dc65fb71b888_jpg",
       "doc_id": "hellenic_iron_ore_2022-10-04_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022",
       "parent_id": "hellenic_iron_ore_2022-10-04_2022_10_04_mmi_daily_iron_ore_index_report_october_04_2022__root",
-      "title": "Linked asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img2.jpg",
+      "title": "Linked asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img1_0410chinese4r_dc65fb71b888.jpg",
       "section_path": [
-        "Linked asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img2.jpg"
+        "Linked asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img1_0410chinese4r_dc65fb71b888.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img1_0410chinese4r_dc65fb71b888.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2022/2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img2.jpg\n\nLinked image asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nOct 4th, 2022 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne | CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2022/assets/2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img1_0410chinese4r_dc65fb71b888.jpg\n\nLinked image asset: 2022-10-04_mmi-daily-iron-ore-index-report-october-04-2022_img1_0410chinese4r_dc65fb71b888.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nOct 4th, 2022 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne | CFR Qingdao Equivalent (exc.",
       "keywords": [
+        "china",
         "brazil",
         "change",
         "high",
         "low",
         "mtd",
         "price",
-        "qingdao",
-        "tonne"
+        "qingdao"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 502,
+      "token_count": 529,
       "section_type": "linked_image_asset",
       "children": []
     }

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 507,
+  "token_count": 525,
   "source_path": "reports/hellenic/dry_charter/2021/2021-08-18_weekly-dry-time-charter-estimates-august-18-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-august-18-2021",
   "children": [
@@ -54,22 +54,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 119,
+      "token_count": 97,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2021-08-18_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021__s02_linked_asset_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021_img2_jpg",
+      "node_id": "hellenic_dry_charter_2021-08-18_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021__s02_linked_asset_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021_dry_1_1_a6eaf6912c8d_jpg",
       "doc_id": "hellenic_dry_charter_2021-08-18_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021",
       "parent_id": "hellenic_dry_charter_2021-08-18_2021_08_18_weekly_dry_time_charter_estimates_august_18_2021__root",
-      "title": "Linked asset: 2021-08-18_weekly-dry-time-charter-estimates-august-18-2021_img2.jpg",
+      "title": "Linked asset: 2021-08-18_weekly-dry-time-charter-estimates-august-18-2021_dry-1-1_a6eaf6912c8d.jpg",
       "section_path": [
-        "Linked asset: 2021-08-18_weekly-dry-time-charter-estimates-august-18-2021_img2.jpg"
+        "Linked asset: 2021-08-18_weekly-dry-time-charter-estimates-august-18-2021_dry-1-1_a6eaf6912c8d.jpg"
       ],
-      "section_path_text": "Linked asset: 2021-08-18_weekly-dry-time-charter-estimates-august-18-2021_img2.jpg",
+      "section_path_text": "Linked asset: 2021-08-18_weekly-dry-time-charter-estimates-august-18-2021_dry-1-1_a6eaf6912c8d.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2021/2021-08-18_weekly-dry-time-charter-estimates-august-18-2021_img2.jpg\n\nLinked image asset: 2021-08-18_weekly-dry-time-charter-estimates-august-18-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nUpdated Wednesday 18 August 2021\n743 | AL IBR A Contact us for rates/charts on scrubber & eco tonnage. DRY TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 6 MOS 1YR 2YR\nPERIOD ATL PAC ATL PAC ATL PAC\nHANDY = 29,500|/= 34,000); # 25,000|/= 24,000 = 19,500 = 20,000\nSUPRAMAX |= 36,500|= 35,000} = 27,000|= 25,500|= 21,000 |= 20,000\nULTRAMAX |= 38,000/= 37,500}; = 31,500)/= 30,000/= 25,000|= 24,000\nPANA/KMAX | & 36,000/ 30,500} = 29,000)/= 26,000)= 22,000|= 21,000\nCAPESIZE | 32,750|@ 35,500| & 28,500)\" 30,000|}% 25,500 = 26,500",
+      "summary": "Source asset: reports/hellenic/dry_charter/2021/assets/2021-08-18_weekly-dry-time-charter-estimates-august-18-2021_dry-1-1_a6eaf6912c8d.jpg\n\nLinked image asset: 2021-08-18_weekly-dry-time-charter-estimates-august-18-2021_dry-1-1_a6eaf6912c8d.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nUpdated Wednesday 18 August 2021\n743 | AL IBR A Contact us for rates/charts on scrubber & eco tonnage. DRY TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 6 MOS 1YR 2YR\nPERIOD ATL PAC ATL PAC ATL PAC\nHANDY = 29,500|/= 34,000); # 25,000|/= 24,000 = 19,500 = 20,000\nSUPRAMAX |= 36,500|= 35,000} = 27,000|= 25,500|= 21,000 |= 20,000\nULTRAMAX |= 38,000/= 37,500}; = 31,500)/= 30,000/= 25,000|= 24,000\nPANA/KMAX | & 36,000/ 30,500} = 29,000)/= 26,000)= 22,000|= 21,000\nCAPESIZE | 32,750|@ 35,500| & 28,500)\" 30,000|}% 25,500 = 26,500",
       "keywords": [
         "capesize",
         "supramax",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 353,
+      "token_count": 380,
       "section_type": "linked_image_asset",
       "children": []
     }

@@ -12,7 +12,140 @@ keywords:
 - main
 - reference
 - weekly-tanker-time-charter-estimates-september-06-2023_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 12
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  unit: null
+  values:
+  - 2023.0
+  - -9.0
+  - -6.0
+  - 6.0
+  - -2023.0
+  - 6920232.0
+  - 8.0
+  - 362.0
+  - 18.0
+- &id002
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  unit: null
+  values:
+  - 2023.0
+  - -9.0
+  - -6.0
+  - 6.0
+  - -2023.0
+  - 6920232.0
+  - 8.0
+  - 362.0
+  - 18.0
+- &id003
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (144.0, 144.0)'
+  unit: null
+  values:
+  - 144.0
+  - 144.0
+- &id005
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: y 3 | A Ll B R A Updated Weds 6 Sep 2023
+  unit: null
+  values:
+  - 3.0
+  - 6.0
+  - 2023.0
+- &id006
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY 20,500 19,500 21,000 19,000
+  unit: null
+  values:
+  - 20500.0
+  - 19500.0
+  - 21000.0
+  - 19000.0
+- &id007
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: MR IMO3 24,250 23,000 24,500 21,500
+  unit: null
+  values:
+  - 24250.0
+  - 23000.0
+  - 24500.0
+  - 21500.0
+- &id008
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: LR1 32,500 Vv 30,000 Vv 32,500 29,500
+  unit: null
+  values:
+  - 32500.0
+  - 30000.0
+  - 32500.0
+  - 29500.0
+- &id009
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: LR2 Vv 40,000 v 37,500 ¥ 40,000 v 35,000
+  unit: null
+  values:
+  - 40000.0
+  - 37500.0
+  - 40000.0
+  - 35000.0
+- &id010
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: AFRA (115k dwt) |W 40,000 v 37,500 40,000 35,000
+  unit: null
+  values:
+  - 115.0
+  - 40000.0
+  - 37500.0
+  - 40000.0
+  - 35000.0
+- &id011
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: SUEZ 42,500 38,500 40,000 38,500
+  unit: null
+  values:
+  - 42500.0
+  - 38500.0
+  - 40000.0
+  - 38500.0
+- &id012
+  section: 'Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg'
+  section_type: linked_image_asset
+  source_line: vicc 42,500 42,500 50,000 47,500
+  unit: null
+  values:
+  - 42500.0
+  - 42500.0
+  - 50000.0
+  - 47500.0
 regions:
 - meg
 - west_africa
@@ -21,6 +154,20 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 12
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
   rate_observations:
   - segment: mr
     source_line: MR IMO3 24,250 23,000 24,500 21,500
@@ -144,12 +291,12 @@ SUEZ 42,500 38,500 40,000 38,500
 vicc 42,500 42,500 50,000 47,500
 
 ## Main
-Image reference: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img2.jpg
+Image reference: assets/2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg
 
-## Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img2.jpg
-Source asset: reports/hellenic/tanker_charter/2023/2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img2.jpg
+## Linked asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg
+Source asset: reports/hellenic/tanker_charter/2023/assets/2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg
 
-Linked image asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img2.jpg
+Linked image asset: 2023-09-06_weekly-tanker-time-charter-estimates-september-06-2023_img1_6920232_8f6362e218cf.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

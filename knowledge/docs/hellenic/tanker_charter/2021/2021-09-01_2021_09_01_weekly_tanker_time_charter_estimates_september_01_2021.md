@@ -20,7 +20,129 @@ keywords:
 - fixtures
 - fresh
 - hold
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 12
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Linked asset: wet_1.jpg'
+  unit: null
+  values:
+  - 1.0
+- &id002
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  unit: null
+  values:
+  - 2021.0
+  - -9.0
+  - -1.0
+  - 1.0
+  - -2021.0
+  - 1.0
+  - 368.0
+  - 4.0
+- &id003
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (72.0, 72.0)'
+  unit: null
+  values:
+  - 72.0
+  - 72.0
+- &id005
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: A L| B RA Updated Wednesday 01 September 2021
+  unit: null
+  values:
+  - 1.0
+  - 2021.0
+- &id006
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY = 11,000 = 12,250 = 14,000 a 14,250
+  unit: null
+  values:
+  - 11000.0
+  - 12250.0
+  - 14000.0
+  - 14250.0
+- &id007
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: MR IMO3 & 12,250 = 13,000 = 16,000 = 16,350
+  unit: null
+  values:
+  - 12250.0
+  - 13000.0
+  - 16000.0
+  - 16350.0
+- &id008
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: LR1 = 13,500 = 15,250 = 17,250 = 17,500
+  unit: null
+  values:
+  - 13500.0
+  - 15250.0
+  - 17250.0
+  - 17500.0
+- &id009
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: LR2 = 16,500 = 19,750 = 24,950 ca 25,500
+  unit: null
+  values:
+  - 16500.0
+  - 19750.0
+  - 24950.0
+  - 25500.0
+- &id010
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: AFRA = 15,750 = 18,000 = 22,500 = 23,000
+  unit: null
+  values:
+  - 15750.0
+  - 18000.0
+  - 22500.0
+  - 23000.0
+- &id011
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: SUEZ = 18,000 = 19,500 = 26,000 a 27,000
+  unit: null
+  values:
+  - 18000.0
+  - 19500.0
+  - 26000.0
+  - 27000.0
+- &id012
+  section: 'Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg'
+  section_type: linked_image_asset
+  source_line: VLCC = 22,500 = 25,500 = 35,000 wa 36,500
+  unit: null
+  values:
+  - 22500.0
+  - 25500.0
+  - 35000.0
+  - 36500.0
 regions:
 - meg
 - west_africa
@@ -29,6 +151,20 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 12
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
   rate_observations:
   - segment: mr
     source_line: MR IMO3 & 12,250 = 13,000 = 16,000 = 16,350
@@ -106,12 +242,12 @@ Little change in the crude market from last week, some short-term period interes
 ## Main
 Little change in the crude market from last week, some short-term period interest has been reported however with rate levels remaining low, there is little incentive for owners to consider longer periods as they hold out for an improvement in rates.
 Limited fresh business to report in the clean market, aside from one or two MR fixtures, as this sector continues to struggle from a lack of demand.
-Image reference: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_img2.jpg
+Linked asset: wet_1.jpg
 
-## Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_img2.jpg
-Source asset: reports/hellenic/tanker_charter/2021/2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_img2.jpg
+## Linked asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg
+Source asset: reports/hellenic/tanker_charter/2021/assets/2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg
 
-Linked image asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_img2.jpg
+Linked image asset: 2021-09-01_weekly-tanker-time-charter-estimates-september-01-2021_wet-1_e2368de24b30.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

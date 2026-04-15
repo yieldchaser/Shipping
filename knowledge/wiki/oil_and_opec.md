@@ -2,10 +2,9 @@
 categories:
 - insights
 - tankers
-- vessel_valuations
-document_count: 94
+document_count: 91
 evidence_count: 250
-generated_at: '2026-04-15T12:35:56Z'
+generated_at: '2026-04-15T18:04:05Z'
 latest_evidence_date: '2026-04-14'
 page_type: topic_wiki
 related_topics:
@@ -14,13 +13,12 @@ related_topics:
 sources:
 - breakwave
 - breakwave_insights
-- hellenic
 title: Oil and OPEC
 topic_id: oil_and_opec
 ---
 
 ## Summary
-Oil demand, OPEC and non-OPEC supply, floating storage, and inventory conditions that shape tanker demand and freight market expectations. The current wiki page is grounded in 250 cited sections from 94 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-14, with the strongest recurring markers being oil, china, crude_oil, vlcc, exports. Primary coverage comes from categories such as insights, tankers, vessel_valuations.
+Oil demand, OPEC and non-OPEC supply, floating storage, and inventory conditions that shape tanker demand and freight market expectations. The current wiki page is grounded in 250 cited sections from 91 documents across breakwave, breakwave_insights. Recent evidence runs through 2026-04-14, with the strongest recurring markers being oil, china, crude_oil, vlcc, exports. Primary coverage comes from categories such as insights, tankers.
 
 ## Why It Matters
 Oil demand, OPEC and non-OPEC supply, floating storage, and inventory conditions that shape tanker demand and freight market expectations.
@@ -41,9 +39,9 @@ Oil demand, OPEC and non-OPEC supply, floating storage, and inventory conditions
 - Recurring evidence markers: oil, china, crude_oil, vlcc, exports, supply
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 237, breakwave: 8, hellenic: 5
-- Category coverage: insights: 237, tankers: 8, vessel_valuations: 5
-- Tone distribution: constructive: 157, cautiously_bearish: 59, neutral: 34
+- Source coverage: breakwave_insights: 242, breakwave: 8
+- Category coverage: insights: 242, tankers: 8
+- Tone distribution: constructive: 155, cautiously_bearish: 63, neutral: 32
 - Related topics: tanker_market, vlcc_and_suezmax
 
 ## Key Documents
@@ -53,8 +51,8 @@ Oil demand, OPEC and non-OPEC supply, floating storage, and inventory conditions
 - 2026-04-07 | Tanker Shipping - April 7, 2026 [doc_id: breakwave_tankers_2026-04-07 | section_id: breakwave_tankers_2026-04-07__s02_fundamentals | pages 2-2]
 - 2026-04-07 | Breakwave Bi-Weekly Tanker Report - April 7, 2026 [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726 | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726__s04_linked_asset_2026_04_07_tanker4726_img_screenshot2026_04_07113823_7db10c569feb_png | pages n/a]
 - 2026-04-07 | One of the most active S&P periods in recent memory [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__s01_main | pages n/a]
-- 2026-04-07 | Weekly Vessel Valuations Report, April 07 2026 [doc_id: hellenic_vessel_valuations_2026-04-07_2026_04_08_weekly_vessel_valuations_report_april_07_2026 | section_id: hellenic_vessel_valuations_2026-04-07_2026_04_08_weekly_vessel_valuations_report_april_07_2026__s01_main | pages n/a]
 - 2026-04-06 | Dry Bulk 1Q26 - Momentum to Mayhem [doc_id: breakwave_insights_insights_2026-04-06_2026_04_06_dry_bulk_1q26_momentum_to_mayhem | section_id: breakwave_insights_insights_2026-04-06_2026_04_06_dry_bulk_1q26_momentum_to_mayhem__s03_linked_asset_2026_04_06_dry_bulk_1q26_momentum_to_mayhem_img_241_2b4b9ea45d2b_png | pages n/a]
+- 2026-04-02 | India's Energy Crisis Deepens [doc_id: breakwave_insights_insights_2026-04-02_2026_04_02_indias_energy_crisis_deepens | section_id: breakwave_insights_insights_2026-04-02_2026_04_02_indias_energy_crisis_deepens__s01_main | pages n/a]
 
 ## Related Topics
 - tanker_market

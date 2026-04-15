@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 448,
+  "token_count": 445,
   "source_path": "reports/hellenic/tanker_charter/2022/2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-january-12-2022",
   "children": [
@@ -48,28 +48,28 @@
         "activity",
         "afflict",
         "although",
+        "asset",
         "clean",
-        "continuation",
-        "continued"
+        "continuation"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 104,
+      "token_count": 79,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2022-01-12_2022_01_12_weekly_tanker_time_charter_estimates_january_12_2022__s02_linked_asset_2022_01_12_weekly_tanker_time_charter_estimates_january_12_2022_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2022-01-12_2022_01_12_weekly_tanker_time_charter_estimates_january_12_2022__s02_linked_asset_2022_01_12_weekly_tanker_time_charter_estimates_january_12_2022_tanker_f150148f1c70_jpg",
       "doc_id": "hellenic_tanker_charter_2022-01-12_2022_01_12_weekly_tanker_time_charter_estimates_january_12_2022",
       "parent_id": "hellenic_tanker_charter_2022-01-12_2022_01_12_weekly_tanker_time_charter_estimates_january_12_2022__root",
-      "title": "Linked asset: 2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022_img2.jpg",
+      "title": "Linked asset: 2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022_tanker_f150148f1c70.jpg",
       "section_path": [
-        "Linked asset: 2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022_img2.jpg"
+        "Linked asset: 2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022_tanker_f150148f1c70.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022_tanker_f150148f1c70.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2022/2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022_img2.jpg\n\nLinked image asset: 2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nSJALIBRA Updated Wednesday 12 January 2022\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE TYR 2YR 3YR 5YR\nHANDY y 12000 | ~ 12,750 14500 | ~ 14,250\n‘MR IMO3 y 12750 |= 13,750 |= 16500 | ~ 16250\nuri @ 14500 |= 15,250 | # 17,500 | ~ 17,250\nLR2 16500 | ~ 19,000 | 26,000 | ~ 25,750\nAFRA 16,000 | ~ 18500 | = 25,000 » 25,000\nSUEZ = 19,500 21,000 | = 29,000 27,000\nvice = 22250 | ~ 25,000 | ~ 35,000 | ~ 35,000",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2022/assets/2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022_tanker_f150148f1c70.jpg\n\nLinked image asset: 2022-01-12_weekly-tanker-time-charter-estimates-january-12-2022_tanker_f150148f1c70.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nSJALIBRA Updated Wednesday 12 January 2022\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE TYR 2YR 3YR 5YR\nHANDY y 12000 | ~ 12,750 14500 | ~ 14,250\n‘MR IMO3 y 12750 |= 13,750 |= 16500 | ~ 16250\nuri @ 14500 |= 15,250 | # 17,500 | ~ 17,250\nLR2 16500 | ~ 19,000 | 26,000 | ~ 25,750\nAFRA 16,000 | ~ 18500 | = 25,000 » 25,000\nSUEZ = 19,500 21,000 | = 29,000 27,000\nvice = 22250 | ~ 25,000 | ~ 35,000 | ~ 35,000",
       "keywords": [
         "handysize",
         "asset",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 309,
+      "token_count": 324,
       "section_type": "linked_image_asset",
       "children": []
     }

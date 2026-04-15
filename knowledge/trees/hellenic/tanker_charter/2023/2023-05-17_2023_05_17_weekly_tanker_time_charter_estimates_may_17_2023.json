@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 374,
+  "token_count": 420,
   "source_path": "reports/hellenic/tanker_charter/2023/2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-may-17-2023",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img1_17520232_c74a53eee20a.jpg",
         "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-may-17-2023_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 42,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2023-05-17_2023_05_17_weekly_tanker_time_charter_estimates_may_17_2023__s02_linked_asset_2023_05_17_weekly_tanker_time_charter_estimates_may_17_2023_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2023-05-17_2023_05_17_weekly_tanker_time_charter_estimates_may_17_2023__s02_linked_asset_2023_05_17_weekly_tanker_time_charter_estimates_may_17_2023_img1_17520232_c74a53eee20a_jpg",
       "doc_id": "hellenic_tanker_charter_2023-05-17_2023_05_17_weekly_tanker_time_charter_estimates_may_17_2023",
       "parent_id": "hellenic_tanker_charter_2023-05-17_2023_05_17_weekly_tanker_time_charter_estimates_may_17_2023__root",
-      "title": "Linked asset: 2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img2.jpg",
+      "title": "Linked asset: 2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img1_17520232_c74a53eee20a.jpg",
       "section_path": [
-        "Linked asset: 2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img2.jpg"
+        "Linked asset: 2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img1_17520232_c74a53eee20a.jpg"
       ],
-      "section_path_text": "Linked asset: 2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img2.jpg",
+      "section_path_text": "Linked asset: 2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img1_17520232_c74a53eee20a.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2023/2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img2.jpg\n\nLinked image asset: 2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\ny <3 | A Ll B R A Updated Weds 17 May 2023\nShipping Limited * Eco tonnage with Scrubber fitted\nWET TIME CHARTER ESTIMATE (S$/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR 5 YEAR™\nHANDY 26,500 24,000 22,000 22,000\nMR IMO3 ¥ 26,000 26,000 Vv 27,500 Vv 23,500\nLR1 34,500 32,000 32,500 28,500\nLR2 45,500 41,000 v 41,500 36,500\nAFRA (115k cwt) 50,000 40,000 40,500 35,000\nSUEZ 46,500 37,500 40,000 38,500\nvicc 48,500 43,500 50,000 47,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2023/assets/2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img1_17520232_c74a53eee20a.jpg\n\nLinked image asset: 2023-05-17_weekly-tanker-time-charter-estimates-may-17-2023_img1_17520232_c74a53eee20a.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\ny <3 | A Ll B R A Updated Weds 17 May 2023\nShipping Limited * Eco tonnage with Scrubber fitted\nWET TIME CHARTER ESTIMATE (S$/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR 5 YEAR™\nHANDY 26,500 24,000 22,000 22,000\nMR IMO3 ¥ 26,000 26,000 Vv 27,500 Vv 23,500\nLR1 34,500 32,000 32,500 28,500\nLR2 45,500 41,000 v 41,500 36,500\nAFRA (115k cwt) 50,000 40,000 40,500 35,000\nSUEZ 46,500 37,500 40,000 38,500\nvicc 48,500 43,500 50,000 47,500",
       "keywords": [
         "handysize",
         "year",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 310,
+      "token_count": 333,
       "section_type": "linked_image_asset",
       "children": []
     }

@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2__root",
+  "doc_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2",
+  "parent_id": null,
+  "title": "MMi Daily Iron Ore Index Report January 04 2023",
+  "section_path": [
+    "MMi Daily Iron Ore Index Report January 04 2023"
+  ],
+  "section_path_text": "MMi Daily Iron Ore Index Report January 04 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Chinese iron ore and steelmaking prices 04/01/2023\nDCE iron ore futures declined by 0.35% today, the main contract closed 846.5.The traders' willingnessto ship is general.The steel mills are wait and see.The overall trading sentiment of the market is general.PBF at Shandong port deal 838-850 yuan/mt,decrease 1-10 yuan/mt; PBF at Tangshan port dealt 846-852 yuan/mt,decrease 3-14 yuan/mt. Today, it was rumored that the relevant parts of the country were conducting research on iron ore prices. This news touched the market sentiment, and iron ore futures fell back again.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "bauxite",
+    "crude_oil",
+    "steel",
+    "cid",
+    "fines",
+    "jan",
+    "high",
+    "change"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 11262,
+  "source_path": "reports/hellenic/iron_ore/2023/2023-01-04_mmi-daily-iron-ore-index-report-january-04-2022-2.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-january-04-2022-2",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2__s01_main",
+      "doc_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2",
+      "parent_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "DCE iron ore futures declined by 0.35% today, the main contract closed 846.5.The traders' willingnessto ship is general.The steel mills are wait and see.The overall trading sentiment of the market is general.PBF at Shandong port deal 838-850 yuan/mt,decrease 1-10 yuan/mt; PBF at Tangshan port dealt 846-852 yuan/mt,decrease 3-14 yuan/mt. Today, it was rumored that the relevant parts of the country were conducting research on iron ore prices.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "blast",
+        "furnace",
+        "yuan/mt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 326,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2__s02_linked_asset_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2_mmi_daily_iron_ore_report_for_4th_ja_7e285fc2a4b3_pdf",
+      "doc_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2",
+      "parent_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2__root",
+      "title": "Linked asset: 2023-01-04_mmi-daily-iron-ore-index-report-january-04-2022-2_mmi-daily-iron-ore-report-for-4th-ja_7e285fc2a4b3.pdf",
+      "section_path": [
+        "Linked asset: 2023-01-04_mmi-daily-iron-ore-index-report-january-04-2022-2_mmi-daily-iron-ore-report-for-4th-ja_7e285fc2a4b3.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-01-04_mmi-daily-iron-ore-index-report-january-04-2022-2_mmi-daily-iron-ore-report-for-4th-ja_7e285fc2a4b3.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2023-01-04_mmi-daily-iron-ore-index-report-january-04-2022-2_mmi-daily-iron-ore-report-for-4th-ja_7e285fc2a4b3.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Jan 4th, 2023\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n848 960 736\n-7 -0.82% -7.00 -0.72% -3 -0.41%\nJan 4th, 2023 Jan 4th, 2023 Jan 4th, 2023\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n114.20 128.60 935\n0.85 0.75% 4.05 3.25% 10 1.08%\nJan 4th, 2023 Jan 4th, 2023 Week Ending Dec 30th, 2022\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2305 (Jan) RMB/t (3pm close) January 23 USD/dmt RB2305 (Jan) RMB/t\n846.50 115.10 4027\n-5.00 -0.59% -1.55 -1.33% -36 -0.89%\nJan 4th, 2023 (3pm close) Jan 4th, 2023 (5.30 pm Print) Jan 4th, 2023 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel R",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 9862,
+      "section_type": "linked_pdf",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2__s03_linked_asset_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2_img1_04012023chinesed_6e9170f40a74_jpg",
+      "doc_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2",
+      "parent_id": "hellenic_iron_ore_2023-01-04_2023_01_04_mmi_daily_iron_ore_index_report_january_04_2022_2__root",
+      "title": "Linked asset: 2023-01-04_mmi-daily-iron-ore-index-report-january-04-2022-2_img1_04012023chinesed_6e9170f40a74.jpg",
+      "section_path": [
+        "Linked asset: 2023-01-04_mmi-daily-iron-ore-index-report-january-04-2022-2_img1_04012023chinesed_6e9170f40a74.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-01-04_mmi-daily-iron-ore-index-report-january-04-2022-2_img1_04012023chinesed_6e9170f40a74.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/2023/assets/2023-01-04_mmi-daily-iron-ore-index-report-january-04-2022-2_img1_04012023chinesed_6e9170f40a74.jpg\n\nLinked image asset: 2023-01-04_mmi-daily-iron-ore-index-report-january-04-2022-2_img1_04012023chinesed_6e9170f40a74.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report \\ Jan 4th, 2023\nIRON ORE PORT STOCK INDEX (IOPI)\nJan 4th, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "steel",
+        "ore",
+        "change",
+        "iron",
+        "price"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 964,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 483,
+  "token_count": 488,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-october-13-2021",
   "children": [
@@ -54,22 +54,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 138,
+      "token_count": 115,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2021-10-13_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021__s02_linked_asset_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2021-10-13_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021__s02_linked_asset_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021_wet_1_699d4bbc4741_jpg",
       "doc_id": "hellenic_tanker_charter_2021-10-13_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021",
       "parent_id": "hellenic_tanker_charter_2021-10-13_2021_10_13_weekly_tanker_time_charter_estimates_october_13_2021__root",
-      "title": "Linked asset: 2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021_img2.jpg",
+      "title": "Linked asset: 2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021_wet-1_699d4bbc4741.jpg",
       "section_path": [
-        "Linked asset: 2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021_img2.jpg"
+        "Linked asset: 2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021_wet-1_699d4bbc4741.jpg"
       ],
-      "section_path_text": "Linked asset: 2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021_img2.jpg",
+      "section_path_text": "Linked asset: 2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021_wet-1_699d4bbc4741.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021_img2.jpg\n\nLinked image asset: 2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALIBRA Updated Wednesday 13 October 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR \"3 YR \"5 YR\nHANDY = 11,000 | = 12250 |= 14500 | = 14,000\n‘MR IMO3 = 11,000 |= 13,000 |= 16000 | = 16,350\ntR1 = 12500 |= 15250 |= 17,250 | = 17,500\nLR2 = 16500 |= 19,750 |= 24950 | = 25,500\nAFRA = 15000 |= 18000 |= 23,000 | = 24,500\nSUEZ = 16500 | = 20,500 |= 26000 | = 27,000\nvice = 20,000 |= 25,000 |= 35000 | = 36,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/assets/2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021_wet-1_699d4bbc4741.jpg\n\nLinked image asset: 2021-10-13_weekly-tanker-time-charter-estimates-october-13-2021_wet-1_699d4bbc4741.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nALIBRA Updated Wednesday 13 October 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR \"3 YR \"5 YR\nHANDY = 11,000 | = 12250 |= 14500 | = 14,000\n‘MR IMO3 = 11,000 |= 13,000 |= 16000 | = 16,350\ntR1 = 12500 |= 15250 |= 17,250 | = 17,500\nLR2 = 16500 |= 19,750 |= 24950 | = 25,500\nAFRA = 15000 |= 18000 |= 23,000 | = 24,500\nSUEZ = 16500 | = 20,500 |= 26000 | = 27,000\nvice = 20,000 |= 25,000 |= 35000 | = 36,500",
       "keywords": [
         "handysize",
         "asset",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 310,
+      "token_count": 329,
       "section_type": "linked_image_asset",
       "children": []
     }

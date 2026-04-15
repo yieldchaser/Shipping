@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 366,
+  "token_count": 420,
   "source_path": "reports/hellenic/dry_charter/2026/2026-02-18_weekly-dry-time-charter-estimates-february-18-2026.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-february-18-2026",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img1_alibra3566_f26b9c163c07.jpg",
         "image",
-        "reference",
-        "weekly-dry-time-charter-estimates-february-18-2026_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 44,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2026-02-18_2026_02_18_weekly_dry_time_charter_estimates_february_18_2026__s02_linked_asset_2026_02_18_weekly_dry_time_charter_estimates_february_18_2026_img2_jpg",
+      "node_id": "hellenic_dry_charter_2026-02-18_2026_02_18_weekly_dry_time_charter_estimates_february_18_2026__s02_linked_asset_2026_02_18_weekly_dry_time_charter_estimates_february_18_2026_img1_alibra3566_f26b9c163c07_jpg",
       "doc_id": "hellenic_dry_charter_2026-02-18_2026_02_18_weekly_dry_time_charter_estimates_february_18_2026",
       "parent_id": "hellenic_dry_charter_2026-02-18_2026_02_18_weekly_dry_time_charter_estimates_february_18_2026__root",
-      "title": "Linked asset: 2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img2.jpg",
+      "title": "Linked asset: 2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img1_alibra3566_f26b9c163c07.jpg",
       "section_path": [
-        "Linked asset: 2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img2.jpg"
+        "Linked asset: 2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img1_alibra3566_f26b9c163c07.jpg"
       ],
-      "section_path_text": "Linked asset: 2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img2.jpg",
+      "section_path_text": "Linked asset: 2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img1_alibra3566_f26b9c163c07.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2026/2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img2.jpg\n\nLinked image asset: 2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nA ALIBR A Updated Weds 18/02/2026\nShipping Limited\nDRY BULK TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\n| HANDY (28k out) | A 14,750 | 12,500 |a 14,500 | 12,250 |A 12,000 |4 11,000\nSMAXJULTRA | A = 16,250 16,000 ja 15,000 15,500 | 13,500 14,250\nPANA/KMAX | 19,000 | 18,000 17,000 | 16,000 15,000 14,500\nCAPESIZE 33,500 33,500 | 4 32,000 | a 32,000 29,000 29,000",
+      "summary": "Source asset: reports/hellenic/dry_charter/2026/assets/2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img1_alibra3566_f26b9c163c07.jpg\n\nLinked image asset: 2026-02-18_weekly-dry-time-charter-estimates-february-18-2026_img1_alibra3566_f26b9c163c07.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nA ALIBR A Updated Weds 18/02/2026\nShipping Limited\nDRY BULK TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\n| HANDY (28k out) | A 14,750 | 12,500 |a 14,500 | 12,250 |A 12,000 |4 11,000\nSMAXJULTRA | A = 16,250 16,000 ja 15,000 15,500 | 13,500 14,250\nPANA/KMAX | 19,000 | 18,000 17,000 | 16,000 15,000 14,500\nCAPESIZE 33,500 33,500 | 4 32,000 | a 32,000 29,000 29,000",
       "keywords": [
         "capesize",
         "handysize",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 302,
+      "token_count": 329,
       "section_type": "linked_image_asset",
       "children": []
     }

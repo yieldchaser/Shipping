@@ -21,7 +21,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 364,
+  "token_count": 408,
   "source_path": "reports/hellenic/dry_charter/2022/2022-10-12_weekly-dry-time-charter-estimates-october-12-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-october-12-2022",
   "children": [
@@ -36,33 +36,30 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Weekly Dry Time Charter Estimates 12/10/2022\nImage reference: 2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img2.jpg",
+      "summary": "",
       "keywords": [
-        "charter",
-        "estimates",
+        "assets/2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img1_12102022kli_b953b57b8bf8.jpg",
         "image",
-        "reference",
-        "time",
-        "weekly-dry-time-charter-estimates-october-12-2022_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 45,
+      "token_count": 46,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2022-10-12_2022_10_12_weekly_dry_time_charter_estimates_october_12_2022__s02_linked_asset_2022_10_12_weekly_dry_time_charter_estimates_october_12_2022_img2_jpg",
+      "node_id": "hellenic_dry_charter_2022-10-12_2022_10_12_weekly_dry_time_charter_estimates_october_12_2022__s02_linked_asset_2022_10_12_weekly_dry_time_charter_estimates_october_12_2022_img1_12102022kli_b953b57b8bf8_jpg",
       "doc_id": "hellenic_dry_charter_2022-10-12_2022_10_12_weekly_dry_time_charter_estimates_october_12_2022",
       "parent_id": "hellenic_dry_charter_2022-10-12_2022_10_12_weekly_dry_time_charter_estimates_october_12_2022__root",
-      "title": "Linked asset: 2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img2.jpg",
+      "title": "Linked asset: 2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img1_12102022kli_b953b57b8bf8.jpg",
       "section_path": [
-        "Linked asset: 2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img2.jpg"
+        "Linked asset: 2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img1_12102022kli_b953b57b8bf8.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img1_12102022kli_b953b57b8bf8.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2022/2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img2.jpg\n\nLinked image asset: 2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\n} ALIBRA Updated Weds 12 Oct 2022\nShipping United\nORY TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (steawt) | A 18,500 19,000 | 19,000 |¥ 18,000 16,000 16,000\nSMAXJULTRA | & 19,250 20,500 | a 18,750 17,500 16,500 16,500\nPANA/KMAX 21,750 16,850 16,850 15,000 14,850 12,850\nCAPESIZE 14,000 14,000 14,650 14,650 16,000 16,000",
+      "summary": "Source asset: reports/hellenic/dry_charter/2022/assets/2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img1_12102022kli_b953b57b8bf8.jpg\n\nLinked image asset: 2022-10-12_weekly-dry-time-charter-estimates-october-12-2022_img1_12102022kli_b953b57b8bf8.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\n} ALIBRA Updated Weds 12 Oct 2022\nShipping United\nORY TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (steawt) | A 18,500 19,000 | 19,000 |¥ 18,000 16,000 16,000\nSMAXJULTRA | & 19,250 20,500 | a 18,750 17,500 16,500 16,500\nPANA/KMAX 21,750 16,850 16,850 15,000 14,850 12,850\nCAPESIZE 14,000 14,000 14,650 14,650 16,000 16,000",
       "keywords": [
         "capesize",
         "handysize",
@@ -75,7 +72,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 284,
+      "token_count": 313,
       "section_type": "linked_image_asset",
       "children": []
     }

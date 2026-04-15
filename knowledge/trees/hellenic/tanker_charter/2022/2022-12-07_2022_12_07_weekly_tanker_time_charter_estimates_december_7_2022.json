@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 373,
+  "token_count": 419,
   "source_path": "reports/hellenic/tanker_charter/2022/2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-december-7-2022",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img1_71220223_d30844a83e15.jpg",
         "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-december-7-2022_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 31,
+      "token_count": 43,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2022-12-07_2022_12_07_weekly_tanker_time_charter_estimates_december_7_2022__s02_linked_asset_2022_12_07_weekly_tanker_time_charter_estimates_december_7_2022_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2022-12-07_2022_12_07_weekly_tanker_time_charter_estimates_december_7_2022__s02_linked_asset_2022_12_07_weekly_tanker_time_charter_estimates_december_7_2022_img1_71220223_d30844a83e15_jpg",
       "doc_id": "hellenic_tanker_charter_2022-12-07_2022_12_07_weekly_tanker_time_charter_estimates_december_7_2022",
       "parent_id": "hellenic_tanker_charter_2022-12-07_2022_12_07_weekly_tanker_time_charter_estimates_december_7_2022__root",
-      "title": "Linked asset: 2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img2.jpg",
+      "title": "Linked asset: 2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img1_71220223_d30844a83e15.jpg",
       "section_path": [
-        "Linked asset: 2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img2.jpg"
+        "Linked asset: 2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img1_71220223_d30844a83e15.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img1_71220223_d30844a83e15.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2022/2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img2.jpg\n\nLinked image asset: 2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\ny <3 | A LI B R A Updated Weds 7 Dec 2022\nShipping Umited * Eco tonnage with Scrubber fitted\nWET TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*™\nHANDY 27,500 22,500 20,000 19,000\nMR IMO3 35,000 26,000 28,500 25,000\nLR1 41,000 27,500 35,000 30,000\nLR2 45,000 35,000 38,000 35,000\nAFRA (115k dwt) 40,000 37,500 37,500 37,500\nSUEZ 35,000 30,000 37,500 37,500\nvicc 48,500 42,500 46,500 46,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2022/assets/2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img1_71220223_d30844a83e15.jpg\n\nLinked image asset: 2022-12-07_weekly-tanker-time-charter-estimates-december-7-2022_img1_71220223_d30844a83e15.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\ny <3 | A LI B R A Updated Weds 7 Dec 2022\nShipping Umited * Eco tonnage with Scrubber fitted\nWET TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*™\nHANDY 27,500 22,500 20,000 19,000\nMR IMO3 35,000 26,000 28,500 25,000\nLR1 41,000 27,500 35,000 30,000\nLR2 45,000 35,000 38,000 35,000\nAFRA (115k dwt) 40,000 37,500 37,500 37,500\nSUEZ 35,000 30,000 37,500 37,500\nvicc 48,500 42,500 46,500 46,500",
       "keywords": [
         "handysize",
         "year",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 307,
+      "token_count": 330,
       "section_type": "linked_image_asset",
       "children": []
     }

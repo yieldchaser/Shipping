@@ -26,7 +26,1338 @@ keywords:
 - iron
 - ore
 - dec
+linked_assets_discovered: 2
+linked_assets_failed: 0
+linked_assets_ingested: 2
+linked_assets_mirrored: 2
+linked_assets_skipped: 0
 market_tone: constructive
+numeric_observation_count: 160
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: DCE iron ore futures rose by 1.41% today, the main contract closed
+    790. The traders' willingness to ship is more.The steel mills are active to purchase.The
+    overall trading sentiment of the market is better. PBF at Shandong port dealt
+    788-800 yuan/mt,increase 9
+  unit: tonnage
+  values:
+  - 1.41
+  - 790.0
+  - 788.0
+  - -800.0
+  - 9.0
+  - -20.0
+  - 792.0
+  - -805.0
+  - 10.0
+  - 0.7
+- &id002
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_img1_8122022chinese34rf_2b0f7f6e9cbc.jpg'
+  unit: null
+  values:
+  - 2022.0
+  - -12.0
+  - -8.0
+  - 8.0
+  - -2022.0
+  - 8122022.0
+  - 4.0
+  - 2.0
+- &id003
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: MMi Daily Iron Ore Index Report Dec 8th, 2022
+  unit: null
+  values:
+  - 8.0
+  - 2022.0
+- &id004
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines
+    RMB/t
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 5.0
+  - 65.0
+  - 8.0
+  - 58.0
+- &id005
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 807 919 696
+  unit: null
+  values:
+  - 807.0
+  - 919.0
+  - 696.0
+- &id006
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: -1 -0.12% 0.00 0.00% 0 0.00%
+  unit: pct
+  values:
+  - -1.0
+  - -0.12
+- &id007
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 8th, 2022 Dec 8th, 2022 Dec 8th, 2022
+  unit: null
+  values:
+  - 8.0
+  - 2022.0
+  - 8.0
+  - 2022.0
+  - 8.0
+  - 2022.0
+- &id008
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5%
+    Fe Lump RMB/t
+  unit: usd_per_unit
+  values:
+  - 2.0
+  - 62.0
+  - 5.0
+  - 65.0
+  - 62.5
+- &id009
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 107.20 118.90 900
+  unit: null
+  values:
+  - 107.2
+  - 118.9
+  - 900.0
+- &id010
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 0.55 0.52% 0.25 0.21% 58 6.89%
+  unit: pct
+  values:
+  - 0.55
+  - 0.52
+  - 0.25
+  - 0.21
+  - 58.0
+  - 6.89
+- &id011
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 8th, 2022 Dec 8th, 2022 Week Ending Dec 2nd, 2022
+  unit: null
+  values:
+  - 8.0
+  - 2022.0
+  - 8.0
+  - 2022.0
+  - 2.0
+  - 2022.0
+- &id012
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: DCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE
+    Rebar
+  unit: pct
+  values:
+  - 62.0
+  - 62.0
+- &id013
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: I2305 (Jan) RMB/t (3pm close) January 23 USD/dmt RB2305 (Jan) RMB/t
+  unit: usd_per_unit
+  values:
+  - 305.0
+  - 3.0
+  - 23.0
+  - 305.0
+- &id014
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 790.00 108.85 3839
+  unit: null
+  values:
+  - 790.0
+  - 108.85
+  - 3839.0
+- &id015
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 25.00 3.27% 2.70 2.54% 57 1.51%
+  unit: pct
+  values:
+  - 25.0
+  - 3.27
+  - 2.7
+  - 2.54
+  - 57.0
+  - 1.51
+- &id016
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 8th, 2022 (3pm close) Dec 8th, 2022 (5.30 pm Print) Dec 8th, 2022
+    (3pm close)
+  unit: null
+  values:
+  - 8.0
+  - 2022.0
+  - 3.0
+  - 8.0
+  - 2022.0
+  - 5.3
+  - 8.0
+  - 2022.0
+  - 3.0
+- &id017
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 19.19 8.78 3790
+  unit: null
+  values:
+  - 19.19
+  - 8.78
+  - 3790.0
+- &id018
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 0.03 0.17% 0.34 4.09% 10 0.26%
+  unit: pct
+  values:
+  - 0.03
+  - 0.17
+  - 0.34
+  - 4.09
+  - 10.0
+  - 0.26
+- &id019
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 7th, 2022 Dec 7th, 2022 Week Ending Dec 2nd, 2022
+  unit: null
+  values:
+  - 7.0
+  - 2022.0
+  - 7.0
+  - 2022.0
+  - 2.0
+  - 2022.0
+- &id020
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Iron Ore Inventory at Chinese Ports (35) Steel Inventory in China
+  unit: null
+  values:
+  - 35.0
+- &id021
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 129.43 8.83 3940
+  unit: null
+  values:
+  - 129.43
+  - 8.83
+  - 3940.0
+- &id022
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: -2.11 -1.60% -0.05 -0.54% 60 1.55%
+  unit: pct
+  values:
+  - -2.11
+  - -1.6
+  - -0.05
+  - -0.54
+  - 60.0
+  - 1.55
+- &id023
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Dec 2nd, 2022 Week Ending Dec 2nd, 2022 Week Ending Dec
+    2nd, 2022
+  unit: null
+  values:
+  - 2.0
+  - 2022.0
+  - 2.0
+  - 2022.0
+  - 2.0
+  - 2022.0
+- &id024
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: www.mmiprices.com Page 1/6 Dec 8th, 2022
+  unit: null
+  values:
+  - 1.0
+  - 6.0
+  - 8.0
+  - 2022.0
+- &id025
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 8th, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
+    Equivalent (exc. 13% VAT), USD/dry tonne ¹
+  unit: usd_per_unit
+  values:
+  - 8.0
+  - 2022.0
+  - 13.0
+  - 13.0
+- &id026
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 62% Fe Fines 807 -1 -0.1% 752 865 643 1083 107.65 0.43 0.4%
+    99.64 120.77 82.29 159.06
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 807.0
+  - -1.0
+  - -0.1
+  - 752.0
+  - 865.0
+  - 643.0
+  - 1083.0
+  - 107.65
+- &id027
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPI58 58% Fe Fines 696 0 0.0% 675 732 546 907 93.32 0.49 0.5% 89.89
+    102.52 77.29 134.15
+  unit: pct
+  values:
+  - 8.0
+  - 58.0
+  - 696.0
+  - 675.0
+  - 732.0
+  - 546.0
+  - 907.0
+  - 93.32
+  - 0.49
+  - 0.5
+- &id028
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPI65 65% Fe Fines 919 0 0.0% 884 1023 811 1265 123.12 0.64 0.5% 117.60
+    143.57 108.78 187.25
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 919.0
+  - 884.0
+  - 1023.0
+  - 811.0
+  - 1265.0
+  - 123.12
+  - 0.64
+  - 0.5
+- &id029
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 8th, 2022 CFR Qingdao, USD/dry tonne DCE iron ore futures rose
+    by 1.41% today, the main contract closed 790. The traders' willingness to ship
+    is more.The steel mills are ac(cid:415)ve to
+  unit: usd_per_unit
+  values:
+  - 8.0
+  - 2022.0
+  - 1.41
+  - 790.0
+  - 415.0
+- &id030
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: purchase.The overall trading sen(cid:415)ment of the market is be(cid:425)er.
+    PBF at Shandong port dealt 788-800 yuan/mt,increase 9-20 yuan/mt;
+  unit: tonnage
+  values:
+  - 415.0
+  - 425.0
+  - 788.0
+  - -800.0
+  - 9.0
+  - -20.0
+- &id031
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 'Index Fe Content Price Change Change % MTD YTD Low 2 High 2 P ga B
+    v F e a t t h T e a m ng a s r h k a e n t a p n o r o t p d (cid:415) e m al
+    i t s (cid:415) 7 c 9 2 e - x 8 p 0 e 5 c t y a u (cid:415) a o n n /m , a t n
+    ,i d n c t r h e e a s s e e s 1 si '
+  unit: tonnage
+  values:
+  - 2.0
+  - 2.0
+  - 415.0
+  - 415.0
+  - 7.0
+  - 9.0
+  - 2.0
+  - 8.0
+  - 5.0
+  - 415.0
+- &id032
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: rainstorm in many places in Brazil caused floods, which affected transporta(cid:415)on,
+    or would affect the shipment of some iron ores in the later
+  unit: null
+  values:
+  - 415.0
+- &id033
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 'IOSI62 62% Fe Fines 107.20 0.55 0.52% 100.59 123.06 83.90 159.45 p
+    m e o r n io t d h . o In n a m d o d n i(cid:415) th o n to , a 9 c 0 c . o 4
+    r 2 d i m ng il l t io o n t h to e n in s v t e h n is t o w r e y e d k a .
+    t I a n o te f r t m he s t o o f p '
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 107.2
+  - 0.55
+  - 0.52
+  - 100.59
+  - 123.06
+  - 83.9
+  - 159.45
+  - 415.0
+- &id034
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: house. With the domes(cid:415)c pelle(cid:415)zing, the demand for
+    refined flour has recovered. In the case of low profits of steel plants, the demand
+    for
+  unit: null
+  values:
+  - 415.0
+  - 415.0
+- &id035
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOSI65 65% Fe Fines 118.90 0.25 0.21% 111.17 141.77 94.45 185.82 lump
+    ores directly fed into the furnace also has some support. At present, the intensity
+    of posi(cid:415)ve s(cid:415)mulus is less than that in November, and
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 118.9
+  - 0.25
+  - 0.21
+  - 111.17
+  - 141.77
+  - 94.45
+  - 185.82
+  - 415.0
+- &id036
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Dec 2nd, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
+    CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne 3
+  unit: usd_per_unit
+  values:
+  - 2.0
+  - 2022.0
+  - 13.0
+  - 13.0
+  - 3.0
+- &id037
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Index Fe Content Price W-o-W Change % MTD YTD Low 2 High 2 Price W-o-W
+    Change % MTD YTD Low 2 High 2
+  unit: tonnage
+  values:
+  - 2.0
+  - 2.0
+  - 2.0
+  - 2.0
+- &id038
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPLI62 62.5% Fe Lump 900 58 6.9% 867 1054 770 1405 112.54 7.37 7.00%
+    110.61 142.12 94.72 199.13
+  unit: pct
+  values:
+  - 2.0
+  - 62.5
+  - 900.0
+  - 58.0
+  - 6.9
+  - 867.0
+  - 1054.0
+  - 770.0
+  - 1405.0
+  - 112.54
+- &id039
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Dec 2nd, 2022 RMB/tonne (excluding tax) 3 USD/tonne (excluding
+    tax) 3
+  unit: usd_per_unit
+  values:
+  - 2.0
+  - 2022.0
+  - 3.0
+  - 3.0
+- &id040
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Hebei Hanxing 66% Fe Concentrate Dry 911 -0.1% 779 1645 127.54 -0.22%
+    110.31 255.69
+  unit: pct
+  values:
+  - 66.0
+  - 911.0
+  - -0.1
+  - 779.0
+  - 1645.0
+  - 127.54
+  - -0.22
+  - 110.31
+  - 255.69
+- &id041
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Hebei Qian'an 65% Fe Concentrate Dry 960 3.2% 780 1630 134.40 3.11%
+    110.51 251.57
+  unit: pct
+  values:
+  - 65.0
+  - 960.0
+  - 3.2
+  - 780.0
+  - 1630.0
+  - 134.4
+  - 3.11
+  - 110.51
+  - 251.57
+- &id042
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Liaoning Anshan 65% Fe Concentrate Wet 700 0.0% 620 1310 98.00 -0.11%
+    87.40 202.32
+  unit: pct
+  values:
+  - 65.0
+  - 700.0
+  - 620.0
+  - 1310.0
+  - 98.0
+  - -0.11
+  - 87.4
+  - 202.32
+- &id043
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Shandong Zibo 65% Fe Concentrate Dry 934 -0.1% 800 1752 130.76 -0.22%
+    117.19 272.32
+  unit: pct
+  values:
+  - 65.0
+  - 934.0
+  - -0.1
+  - 800.0
+  - 1752.0
+  - 130.76
+  - -0.22
+  - 117.19
+  - 272.32
+- &id044
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 'Week Ending Dec 2nd, 2022 This week Change % Low 2 High 2 ¹ Exchange
+    rate applied: RMB/USD = 6.7522 ²Last 12 months'
+  unit: pct
+  values:
+  - 2.0
+  - 2022.0
+  - 2.0
+  - 2.0
+  - 6.7522
+- &id045
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: '3 Weekly exchange rate applied: RMB/USD =7.13488'
+  unit: usd
+  values:
+  - 3.0
+  - 7.13488
+- &id046
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: China Mines Concentrate Composite Index RMB/WT 832.81 1.41% 706.36
+    1511.22
+  unit: pct
+  values:
+  - 832.81
+  - 1.41
+  - 706.36
+  - 1511.22
+- &id047
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 8th, 2022 CFR Qingdao, USD/dry tonne
+  unit: usd_per_unit
+  values:
+  - 8.0
+  - 2022.0
+- &id048
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 62% Fe Fines 110.64 101.12 95.80 93.05 100.59 102.33 123.06
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 110.64
+  - 101.12
+  - 95.8
+  - 93.05
+  - 100.59
+  - 102.33
+  - 123.06
+- &id049
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOSI65 65% Fe Fines 112.53 111.57 106.70 102.40 111.17 113.63 141.77
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 112.53
+  - 111.57
+  - 106.7
+  - 102.4
+  - 111.17
+  - 113.63
+  - 141.77
+- &id050
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Week Ending Dec 2nd, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne
+    CFR Qingdao Equivalent (exc. 13% VAT), USD/dry tonne ¹
+  unit: usd_per_unit
+  values:
+  - 2.0
+  - 2022.0
+  - 13.0
+  - 13.0
+- &id051
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPLI62 62.5% Fe Lump 900 873 877 811 867 876 1054 118.50 112.75 109.81
+    100.83 110.61 112.83 142.12
+  unit: pct
+  values:
+  - 2.0
+  - 62.5
+  - 900.0
+  - 873.0
+  - 877.0
+  - 811.0
+  - 867.0
+  - 876.0
+  - 1054.0
+  - 118.5
+- &id052
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: www.mmiprices.com Page 2/6 Dec 8th, 2022
+  unit: null
+  values:
+  - 2.0
+  - 6.0
+  - 8.0
+  - 2022.0
+- &id053
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 12-naJ-1 12-beF-1 12-raM-1 12-rpA-1 12-yaM-1 12-nuJ-1 12-luJ-1 12-guA-1
+    12-peS-1 12-tcO-1 12-voN-1 12-ceD-1 22-naJ-1 22-beF-1 22-raM-1 22-rpA-1 22-yaM-1
+    22-nuJ-1 22-luJ-1 22-guA-1 22-peS-1 22-tcO-1 22-voN-1 22-ceD-1
+  unit: null
+  values:
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+- &id054
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 IOPI58 IOPI65
+  unit: null
+  values:
+  - 2.0
+  - 8.0
+  - 5.0
+- &id055
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 IOSI65
+  unit: null
+  values:
+  - 2.0
+  - 5.0
+- &id056
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 8th, 2022 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao
+    Equivalent (exc. 13% VAT), USD/dry tonne
+  unit: usd_per_unit
+  values:
+  - 8.0
+  - 2022.0
+  - 13.0
+  - 13.0
+- &id057
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPI62 62% Fe Fines 781 759 736 714 752 756 865 106.64 101.14 95.56
+    92.18 99.64 100.87 120.77
+  unit: pct
+  values:
+  - 2.0
+  - 62.0
+  - 781.0
+  - 759.0
+  - 736.0
+  - 714.0
+  - 752.0
+  - 756.0
+  - 865.0
+  - 106.64
+- &id058
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPI58 58% Fe Fines 685 697 683 635 675 676 732 94.05 93.56 89.34 82.39
+    89.89 90.77 102.52
+  unit: pct
+  values:
+  - 8.0
+  - 58.0
+  - 685.0
+  - 697.0
+  - 683.0
+  - 635.0
+  - 675.0
+  - 676.0
+  - 732.0
+  - 94.05
+- &id059
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPI65 65% Fe Fines 878 875 918 865 884 890 1023 120.31 117.19 120.08
+    112.37 117.60 119.36 143.57
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 878.0
+  - 875.0
+  - 918.0
+  - 865.0
+  - 884.0
+  - 890.0
+  - 1023.0
+  - 120.31
+- &id060
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 7th, 2022 FREIGHT RATES - DRY BULK US$/wet tonne
+  unit: usd
+  values:
+  - 7.0
+  - 2022.0
+- &id061
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Route Designation Change Change % Low 2 High 2
+  unit: pct
+  values:
+  - 2.0
+  - 2.0
+- &id062
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: W. Australia - Qingdao C5 8.78 0.34 4.09% 3.57 16.77
+  unit: pct
+  values:
+  - 8.78
+  - 0.34
+  - 4.09
+  - 3.57
+  - 16.77
+- &id063
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Tubarao - Qingdao C3 19.19 0.03 0.17% 6.70 36.40
+  unit: pct
+  values:
+  - 19.19
+  - 0.03
+  - 0.17
+  - 6.7
+  - 36.4
+- &id064
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 8th, 2022 PORT STOCK INDEX (RMB/WT) Dec 8th, 2022 SEABORNE INDEX
+    (USD/DMT)
+  unit: usd_per_unit
+  values:
+  - 8.0
+  - 2022.0
+  - 8.0
+  - 2022.0
+- &id065
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Index Fe Content Spread to IOPI62 % Spread to IOPI62 Index Fe Content
+    Spread to IOSI62 % Spread to IOSI62
+  unit: pct
+  values:
+  - 2.0
+  - 2.0
+  - 2.0
+  - 2.0
+- &id066
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPI58 58% Fe Fines -111 -13.75%
+  unit: pct
+  values:
+  - 8.0
+  - 58.0
+  - -111.0
+  - -13.75
+- &id067
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOPI65 65% Fe Fines 112 13.88% IOSI65 65% Fe Fines 11.70 10.91%
+  unit: pct
+  values:
+  - 5.0
+  - 65.0
+  - 112.0
+  - 13.88
+  - 5.0
+  - 65.0
+  - 11.7
+  - 10.91
+- &id068
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: www.mmiprices.com Page 3/6 Dec 8th, 2022
+  unit: null
+  values:
+  - 3.0
+  - 6.0
+  - 8.0
+  - 2022.0
+- &id069
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 1,650.00
+  unit: null
+  values:
+  - 1650.0
+- &id070
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 1,550.00
+  unit: null
+  values:
+  - 1550.0
+- &id071
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 1,450.00
+  unit: null
+  values:
+  - 1450.0
+- &id072
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 1,350.00
+  unit: null
+  values:
+  - 1350.0
+- &id073
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 1,250.00
+  unit: null
+  values:
+  - 1250.0
+- &id074
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 1,150.00
+  unit: null
+  values:
+  - 1150.0
+- &id075
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 1,050.00
+  unit: null
+  values:
+  - 1050.0
+- &id076
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: '950.00'
+  unit: null
+  values:
+  - 950.0
+- &id077
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: '850.00'
+  unit: null
+  values:
+  - 850.0
+- &id078
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: '750.00'
+  unit: null
+  values:
+  - 750.0
+- &id079
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: '650.00'
+  unit: null
+  values:
+  - 650.0
+- &id080
+  section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: IOSI62 IOPI62 (equivalent) IOSI65 IOPI65 (equivalent)
+  unit: null
+  values:
+  - 2.0
+  - 2.0
+  - 5.0
+  - 5.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 02-voN-1 02-ceD-1 12-naJ-1 12-beF-1 12-raM-1 12-rpA-1 12-yaM-1 12-nuJ-1
+    12-luJ-1 12-guA-1 12-peS-1 12-tcO-1 12-voN-1 12-ceD-1 22-naJ-1 22-beF-1 22-raM-1
+    22-rpA-1 22-yaM-1 22-nuJ-1 22-luJ-1 22-guA-1 22-peS-1 22-tcO-1 22-voN-1 22-ceD-1
+  unit: null
+  values:
+  - 2.0
+  - 1.0
+  - 2.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+  - 12.0
+  - 1.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Price Change Diff to IOPI62 Price Change Diff to IOSI62
+  unit: null
+  values:
+  - 2.0
+  - 2.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Roy Hill 750 -1 -57 Roy Hill 102.70 0.55 -4.50
+  unit: null
+  values:
+  - 750.0
+  - -1.0
+  - -57.0
+  - 102.7
+  - 0.55
+  - -4.5
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: SIMEC Fines 678 -1 -129 SIMEC Fines 99.20 0.55 -8.00
+  unit: null
+  values:
+  - 678.0
+  - -1.0
+  - -129.0
+  - 99.2
+  - 0.55
+  - -8.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: PB Fines 776 -1 -31 PB Fines 103.45 0.55 -3.75
+  unit: null
+  values:
+  - 776.0
+  - -1.0
+  - -31.0
+  - 103.45
+  - 0.55
+  - -3.75
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Newman Fines 775 -1 -32 Newman Fines 106.30 0.50 -0.90
+  unit: null
+  values:
+  - 775.0
+  - -1.0
+  - -32.0
+  - 106.3
+  - 0.5
+  - -0.9
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: MAC Fines 757 -1 -50 MAC Fines 103.45 0.55 -3.75
+  unit: null
+  values:
+  - 757.0
+  - -1.0
+  - -50.0
+  - 103.45
+  - 0.55
+  - -3.75
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Jimblebar Blended Fines 671 -1 -136 Jimblebar Blended Fines 95.80 0.50
+    -11.40
+  unit: null
+  values:
+  - 671.0
+  - -1.0
+  - -136.0
+  - 95.8
+  - 0.5
+  - -11.4
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Carajas Fines 987 -1 180 Carajas Fines 136.75 0.55 29.55
+  unit: null
+  values:
+  - 987.0
+  - -1.0
+  - 180.0
+  - 136.75
+  - 0.55
+  - 29.55
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Brazilian SSF 770 -1 -37 Brazilian SSF 110.95 0.55 3.75
+  unit: null
+  values:
+  - 770.0
+  - -1.0
+  - -37.0
+  - 110.95
+  - 0.55
+  - 3.75
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Brazilian Blend Fines 789 -1 -18 Brazilian Blend Fines 112.60 0.55
+    5.40
+  unit: null
+  values:
+  - 789.0
+  - -1.0
+  - -18.0
+  - 112.6
+  - 0.55
+  - 5.4
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: RTX Fines 690 -1 -117 RTX Fines 97.05 0.50 -10.15
+  unit: null
+  values:
+  - 690.0
+  - -1.0
+  - -117.0
+  - 97.05
+  - 0.5
+  - -10.15
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: West Pilbara Fines 719 -1 -88 West Pilbara Fines 101.45 0.55 -5.75
+  unit: null
+  values:
+  - 719.0
+  - -1.0
+  - -88.0
+  - 101.45
+  - 0.55
+  - -5.75
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Dec 8th, 2022 PORT STOCK INDEX (RMB/WT)
+  unit: null
+  values:
+  - 8.0
+  - 2022.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Price Change Diff to IOPI58
+  unit: null
+  values:
+  - 8.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: SSF 696 0 0
+  unit: null
+  values:
+  - 696.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: FMG Blended Fines 705 0 9
+  unit: null
+  values:
+  - 705.0
+  - 9.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Robe River 705 0 9
+  unit: null
+  values:
+  - 705.0
+  - 9.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Western Fines 708 0 12
+  unit: null
+  values:
+  - 708.0
+  - 12.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Atlas Fines 702 0 6
+  unit: null
+  values:
+  - 702.0
+  - 6.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Yandi 690 0 -6
+  unit: null
+  values:
+  - 690.0
+  - -6.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: High Grade Fe 60 - 63% 17.00 3.00 High Grade Fe 60 - 63% 1.00 0.00
+  unit: pct
+  values:
+  - 60.0
+  - 63.0
+  - 17.0
+  - 3.0
+  - 60.0
+  - 63.0
+  - 1.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: High Grade Fe 63 - 64% 5.00 0.00 High Grade Fe 63 - 64% 1.00 -0.50
+  unit: pct
+  values:
+  - 63.0
+  - 64.0
+  - 5.0
+  - 63.0
+  - 64.0
+  - 1.0
+  - -0.5
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 1% Fe High Grade Fe 64 - 65% 5.00 0.00 1% Fe High Grade Fe 64 - 65%
+    1.00 -0.50
+  unit: pct
+  values:
+  - 1.0
+  - 64.0
+  - 65.0
+  - 5.0
+  - 1.0
+  - 64.0
+  - 65.0
+  - 1.0
+  - -0.5
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: High Grade Fe 65 - 65.5% 5.00 0.00 High Grade Fe 65 - 65.5% 1.00 -0.50
+  unit: pct
+  values:
+  - 65.0
+  - 65.5
+  - 5.0
+  - 65.0
+  - 65.5
+  - 1.0
+  - -0.5
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Low Grade Fe 15.00 0.00
+  unit: null
+  values:
+  - 15.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade Al <2.25% 56.00 3.00 High Fe Grade Al <2.25% 2.25 -0.50
+  unit: pct
+  values:
+  - 2.25
+  - 56.0
+  - 3.0
+  - 2.25
+  - 2.25
+  - -0.5
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade Al 2.25-4% 14.00 3.00 High Fe Grade Al 2.25-4% 0.50 0.25
+  unit: pct
+  values:
+  - 2.25
+  - -4.0
+  - 14.0
+  - 3.0
+  - 2.25
+  - -4.0
+  - 0.5
+  - 0.25
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 1% Alumina 1% Alumina
+  unit: pct
+  values:
+  - 1.0
+  - 1.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Low Fe Grade Al <2.25% 45.00 0.00
+  unit: pct
+  values:
+  - 2.25
+  - 45.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Low Fe Grade Al 2.25-4% 5.00 0.00
+  unit: pct
+  values:
+  - 2.25
+  - -4.0
+  - 5.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade Si <4% 26.00 2.00 High Fe Grade Si <4% 1.25 -0.50
+  unit: pct
+  values:
+  - 4.0
+  - 26.0
+  - 2.0
+  - 4.0
+  - 1.25
+  - -0.5
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: 1% Silica High Fe Grade Si 4-6.5% 26.00 4.00 1% Silica High Fe Grade
+    Si 4 - 6.5% 0.75 0.00
+  unit: pct
+  values:
+  - 1.0
+  - 4.0
+  - -6.5
+  - 26.0
+  - 4.0
+  - 1.0
+  - 4.0
+  - 6.5
+  - 0.75
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Low Fe Grade 5.00 0.00
+  unit: null
+  values:
+  - 5.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade 0.09%<P<0.115% 5.00 0.00 0.01% High Fe Grade 0.09%<P<0.115%
+    1.50 -0.25
+  unit: pct
+  values:
+  - 0.09
+  - 0.115
+  - 5.0
+  - 0.01
+  - 0.09
+  - 0.115
+  - 1.5
+  - -0.25
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: High Fe Grade 0.115%<P<0.15% 5.00 0.00 Phosphorus High Fe Grade 0.115%<P<0.15%
+    1.50 -0.50
+  unit: pct
+  values:
+  - 0.115
+  - 0.15
+  - 5.0
+  - 0.115
+  - 0.15
+  - 1.5
+  - -0.5
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Low Fe Grade 0.09<P<0.1% 7.00 0.00
+  unit: pct
+  values:
+  - 0.09
+  - 0.1
+  - 7.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Bayuquan -100.00 0.00 Fangcheng -25.00 0.00 Lanshan 0.00 0.00 Rizhao
+    0.00 0.00
+  unit: null
+  values:
+  - -100.0
+  - -25.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Beilun 0.00 0.00 Jiangyin -30.00 0.00 Lianyungang 0.00 0.00 Shekou
+    0.00 0.00
+  unit: null
+  values:
+  - -30.0
+- section: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
+  section_type: linked_pdf
+  source_line: Caofeidian -10.00 0.00 Jingtang -20.00 0.00 Majishan 0.00 0.00 Taicang
+    -30.00 0.00
+  unit: null
+  values:
+  - -10.0
+  - -20.0
+  - -30.0
 regions:
 - china
 - brazil
@@ -39,13 +1370,6 @@ signals:
     index_62_fines: 62.0
     index_65_fines: 65.0
   iron_ore_metrics:
-  - metric: numeric_observation
-    source_line: in Chinese iron ore and steelmaking prices 08/12/2022
-    unit: null
-    values:
-    - 8.0
-    - 12.0
-    - 2022.0
   - metric: numeric_observation
     source_line: DCE iron ore futures rose by 1.41% today, the main contract closed
       790. The traders' willingness to ship is more.The steel mills are active to
@@ -61,15 +1385,18 @@ signals:
     - -20.0
     - 792.0
     - -805.0
-  - metric: numeric_observation
-    source_line: 'Linked asset: 2022-12-08_MMi-Daily-Iron-Ore-Report-for-8th-December-2022_compressed.pdf'
+  - metric: index
+    source_line: 'Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf'
     unit: null
     values:
     - 2022.0
     - -12.0
     - -8.0
     - 8.0
-    - 2022.0
+    - -2022.0
+    - 8.0
+    - 1305.0
+    - 63377.0
   - metric: index
     source_line: MMi Daily Iron Ore Index Report Dec 8th, 2022
     unit: null
@@ -548,10 +1875,105 @@ signals:
     - 702.0
     - 0.0
     - 6.0
+  - metric: numeric_observation
+    source_line: 1% Fe High Grade Fe 64 - 65% 5.00 0.00 1% Fe High Grade Fe 64 - 65%
+      1.00 -0.50
+    unit: pct
+    values:
+    - 1.0
+    - 64.0
+    - 65.0
+    - 5.0
+    - 0.0
+    - 1.0
+    - 64.0
+    - 65.0
   metric_units:
   - pct
   - usd
   - usd_per_dmt
+  numeric_observation_count: 160
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - *id015
+  - *id016
+  - *id017
+  - *id018
+  - *id019
+  - *id020
+  - *id021
+  - *id022
+  - *id023
+  - *id024
+  - *id025
+  - *id026
+  - *id027
+  - *id028
+  - *id029
+  - *id030
+  - *id031
+  - *id032
+  - *id033
+  - *id034
+  - *id035
+  - *id036
+  - *id037
+  - *id038
+  - *id039
+  - *id040
+  - *id041
+  - *id042
+  - *id043
+  - *id044
+  - *id045
+  - *id046
+  - *id047
+  - *id048
+  - *id049
+  - *id050
+  - *id051
+  - *id052
+  - *id053
+  - *id054
+  - *id055
+  - *id056
+  - *id057
+  - *id058
+  - *id059
+  - *id060
+  - *id061
+  - *id062
+  - *id063
+  - *id064
+  - *id065
+  - *id066
+  - *id067
+  - *id068
+  - *id069
+  - *id070
+  - *id071
+  - *id072
+  - *id073
+  - *id074
+  - *id075
+  - *id076
+  - *id077
+  - *id078
+  - *id079
+  - *id080
   signal_family: hellenic_iron_ore_indices
 source: hellenic
 source_path: reports/hellenic/iron_ore/2022/2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022.html
@@ -584,13 +2006,12 @@ in Chinese iron ore and steelmaking prices 08/12/2022
 DCE iron ore futures rose by 1.41% today, the main contract closed 790. The traders' willingness to ship is more.The steel mills are active to purchase.The overall trading sentiment of the market is better. PBF at Shandong port dealt 788-800 yuan/mt,increase 9-20 yuan/mt; PBF at Tangshan port dealt 792-805 yuan/mt,increase 10 yuan/mt.
 
 ## Main
-in Chinese iron ore and steelmaking prices 08/12/2022
 DCE iron ore futures rose by 1.41% today, the main contract closed 790. The traders' willingness to ship is more.The steel mills are active to purchase.The overall trading sentiment of the market is better. PBF at Shandong port dealt 788-800 yuan/mt,increase 9-20 yuan/mt; PBF at Tangshan port dealt 792-805 yuan/mt,increase 10 yuan/mt. Macroscopically, the opening of the Central Economic Work Conference gave the market an optimistic expectation, and the session continued to rise today. On the supply side of the fundamentals, continuous rainstorm in many places in Brazil caused ﬂoods, which aﬀected transportation, or would aﬀect the shipment of some iron ores in the later period. In addition, according to the inventory data of the top ten ports tracked by SMM, the total inventory of the top ten ports fell 0.7% month on month to 90.42 million tons this week. In terms of varieties, lump ore and refined powder are obviously discharged to the ware- house. With the domestic pelletizing, the demand for refined ﬂour has recovered. In the case of low profits of steel plants, the demand for lump ores directly fed into the furnace also has some support. At present, the intensity of positive stimulus is less than that in November.
-Image reference: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_img2.jpg
+Image reference: assets/2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_img1_8122022chinese34rf_2b0f7f6e9cbc.jpg
 Source: Metals Market Index (MMi)
 
-## Linked asset: 2022-12-08_MMi-Daily-Iron-Ore-Report-for-8th-December-2022_compressed.pdf
-Source asset: reports/hellenic/iron_ore/pdfs/2022-12-08_MMi-Daily-Iron-Ore-Report-for-8th-December-2022_compressed.pdf
+## Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf
+Source asset: reports/hellenic/iron_ore/pdfs/2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_mmi-daily-iron-ore-report-for-8th-de_1305e263377e.pdf
 
 [Page 1]
 MMi Daily Iron Ore Index Report Dec 8th, 2022
@@ -1037,10 +2458,10 @@ express wri(cid:425)en authority of MMi is forbidden.
 www.mmiprices.com Page 6/6 Dec 8th, 2022
 COPYRIGHT METALS MARKET INDEX, ALL RIGHTS RESERVED
 
-## Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_img2.jpg
-Source asset: reports/hellenic/iron_ore/2022/2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_img2.jpg
+## Linked asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_img1_8122022chinese34rf_2b0f7f6e9cbc.jpg
+Source asset: reports/hellenic/iron_ore/2022/assets/2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_img1_8122022chinese34rf_2b0f7f6e9cbc.jpg
 
-Linked image asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_img2.jpg
+Linked image asset: 2022-12-08_mmi-daily-iron-ore-index-report-december-08-2022_img1_8122022chinese34rf_2b0f7f6e9cbc.jpg
 
 Image metadata: JPEG 1600x743 mode=RGB
 

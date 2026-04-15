@@ -14,7 +14,123 @@ keywords:
 - main
 - reference
 - weekly-dry-time-charter-estimates-october-05-2022_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 10
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  unit: null
+  values:
+  - 2022.0
+  - -10.0
+  - -5.0
+  - 5.0
+  - -2022.0
+  - 510.0
+  - 24.0
+  - 788.0
+- &id002
+  section: 'Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  unit: null
+  values:
+  - 2022.0
+  - -10.0
+  - -5.0
+  - 5.0
+  - -2022.0
+  - 510.0
+  - 24.0
+  - 788.0
+- &id003
+  section: 'Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (120, 120)'
+  unit: null
+  values:
+  - 120.0
+  - 120.0
+- &id005
+  section: 'Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  section_type: linked_image_asset
+  source_line: ALIBRA Updated Weds 8 Oct 2022
+  unit: null
+  values:
+  - 8.0
+  - 2022.0
+- &id006
+  section: 'Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  section_type: linked_image_asset
+  source_line: PERIOD 46 MOS 1YR 2YR
+  unit: null
+  values:
+  - 46.0
+- &id007
+  section: 'Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY (384 dwt) 18,000 19,000 18500 |¥ 18,000 16,000 16,000
+  unit: null
+  values:
+  - 384.0
+  - 18000.0
+  - 19000.0
+  - 18500.0
+  - 18000.0
+  - 16000.0
+  - 16000.0
+- &id008
+  section: 'Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  section_type: linked_image_asset
+  source_line: SMAX/ULTRA 18,000 |a 20500 |¥ 18,250 17,500 16,500 16,500
+  unit: null
+  values:
+  - 18000.0
+  - 20500.0
+  - 18250.0
+  - 17500.0
+  - 16500.0
+  - 16500.0
+- &id009
+  section: 'Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  section_type: linked_image_asset
+  source_line: PANAKMAX | 4 = 21,500 16,500 16,500 14,500 14,850 12,850
+  unit: null
+  values:
+  - 4.0
+  - 21500.0
+  - 16500.0
+  - 16500.0
+  - 14500.0
+  - 14850.0
+  - 12850.0
+- &id010
+  section: 'Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE 14,500 14,500 14,500 14,500 16,000 16,000
+  unit: null
+  values:
+  - 14500.0
+  - 14500.0
+  - 14500.0
+  - 14500.0
+  - 16000.0
+  - 16000.0
 regions:
 - atlantic
 - pacific
@@ -24,6 +140,18 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 10
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
   rate_observations:
   - segment: handysize
     source_line: HANDY (384 dwt) 18,000 19,000 18500 |¥ 18,000 16,000 16,000
@@ -136,12 +264,12 @@ PANAKMAX | 4 = 21,500 16,500 16,500 14,500 14,850 12,850
 CAPESIZE 14,500 14,500 14,500 14,500 16,000 16,000
 
 ## Main
-Image reference: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img2.jpg
+Image reference: assets/2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg
 
-## Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img2.jpg
-Source asset: reports/hellenic/dry_charter/2022/2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img2.jpg
+## Linked asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg
+Source asset: reports/hellenic/dry_charter/2022/assets/2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg
 
-Linked image asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img2.jpg
+Linked image asset: 2022-10-05_weekly-dry-time-charter-estimates-october-05-2022_img1_0510kl_24d3788be8f5.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

@@ -24,7 +24,128 @@ keywords:
 - alongside
 - average
 - basins.
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: cautiously_bearish
+numeric_observation_count: 11
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: The downward trend also filtered through into the sub-cape sectors
+    as rates for the Kamsarmax/panamax sector took a dip this week. The average period
+    rate for one-year is currently estimated as $27,625/pdpr across both basins.
+  unit: usd
+  values:
+  - 27625.0
+- &id002
+  section: Main
+  section_type: null
+  source_line: 'Linked asset: dry_1.jpg'
+  unit: null
+  values:
+  - 1.0
+- &id003
+  section: 'Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg'
+  unit: null
+  values:
+  - 2021.0
+  - -11.0
+  - -3.0
+  - 3.0
+  - -2021.0
+  - 1.0
+  - 2624055.0
+  - 609.0
+- &id004
+  section: 'Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id005
+  section: 'Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (72.0, 72.0)'
+  unit: null
+  values:
+  - 72.0
+  - 72.0
+- &id006
+  section: 'Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg'
+  section_type: linked_image_asset
+  source_line: A L| B RA Updated Wednesday 03 November 2021
+  unit: null
+  values:
+  - 3.0
+  - 2021.0
+- &id007
+  section: 'Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg'
+  section_type: linked_image_asset
+  source_line: HANDY ~ 33,500)" 32,500) ~ 25,500)" 24000)" 18,000) 17,500
+  unit: null
+  values:
+  - 33500.0
+  - 32500.0
+  - 25500.0
+  - 24000.0
+  - 18000.0
+  - 17500.0
+- &id008
+  section: 'Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg'
+  section_type: linked_image_asset
+  source_line: SUPRAMAX |= 39,000}= 38,500) w 25,750)~ 23,000}~ 19,000|~ 18,500
+  unit: null
+  values:
+  - 39000.0
+  - 38500.0
+  - 25750.0
+  - 23000.0
+  - 19000.0
+  - 18500.0
+- &id009
+  section: 'Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg'
+  section_type: linked_image_asset
+  source_line: ULTRAMAX | 41,000)~ 40,250) w~ 27,000)~ 24,750|)~ 20,000|~ 19,500
+  unit: null
+  values:
+  - 41000.0
+  - 40250.0
+  - 27000.0
+  - 24750.0
+  - 20000.0
+  - 19500.0
+- &id010
+  section: 'Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg'
+  section_type: linked_image_asset
+  source_line: PANA/KMAX |" 35,250)" 27,500| ~ 28,250)" 27,000);\~ 19,250|~ 18,750
+  unit: null
+  values:
+  - 35250.0
+  - 27500.0
+  - 28250.0
+  - 27000.0
+  - 19250.0
+  - 18750.0
+- &id011
+  section: 'Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE | 35,000) 32,000) ~ 28,000)" 27,000|)~ 23,000|~ 22,000
+  unit: null
+  values:
+  - 35000.0
+  - 32000.0
+  - 28000.0
+  - 27000.0
+  - 23000.0
+  - 22000.0
 regions:
 - atlantic
 - pacific
@@ -35,6 +156,19 @@ section_count: 2
 signals:
   metric_units:
   - usd_per_day
+  numeric_observation_count: 11
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - *id010
+  - *id011
   rate_observations:
   - segment: capesize
     source_line: The downward trend also filtered through into the sub-cape sectors
@@ -43,7 +177,7 @@ signals:
       basins.
     timeframe: period
     unit: usd_per_day
-    values: &id001
+    values: &id012
     - 27625.0
   - segment: panamax
     source_line: The downward trend also filtered through into the sub-cape sectors
@@ -52,7 +186,7 @@ signals:
       basins.
     timeframe: period
     unit: usd_per_day
-    values: *id001
+    values: *id012
   - segment: handysize
     source_line: HANDY ~ 33,500)" 32,500) ~ 25,500)" 24000)" 18,000) 17,500
     timeframe: null
@@ -129,12 +263,12 @@ The capesize market continued to fall alongside a plunging FFA market, that did 
 The capesize market continued to fall alongside a plunging FFA market, that did nothing to improve sentiment overall as fearsover Chinese steel production and a slowdown in Iron ore production from Brazil put pressure on this sector.
 The downward trend also filtered through into the sub-cape sectors as rates for the Kamsarmax/panamax sector took a dip this week. The average period rate for one-year is currently estimated as $27,625/pdpr across both basins.
 Rates for the smaller sizes dropped overall this week thanks to negative sentiment and a lack of fresh enquiry.
-Image reference: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_img2.jpg
+Linked asset: dry_1.jpg
 
-## Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_img2.jpg
-Source asset: reports/hellenic/dry_charter/2021/2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_img2.jpg
+## Linked asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg
+Source asset: reports/hellenic/dry_charter/2021/assets/2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg
 
-Linked image asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_img2.jpg
+Linked image asset: 2021-11-03_weekly-dry-time-charter-estimates-november-03-2021_dry-1_2624055a7609.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

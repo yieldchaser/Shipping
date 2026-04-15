@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 55,
+  "token_count": 44,
   "source_path": "reports/hellenic/tanker_charter/2024/2024-06-25_day-of-the-seafarer-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/day-of-the-seafarer-2024",
   "children": [
@@ -41,7 +41,7 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Recent Videos 25/06/2024\nVideo message from Arsenio Dominguez, IMO Secretary-General, on this year's campaign which looks at seafarers'contribution to making the maritime sector a safer workplace.",
+      "summary": "Video message from Arsenio Dominguez, IMO Secretary-General, on this year's campaign which looks at seafarers'contribution to making the maritime sector a safer workplace.",
       "keywords": [
         "arsenio",
         "campaign",
@@ -54,7 +54,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 53,
+      "token_count": 42,
       "section_type": null,
       "children": []
     }

@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 11233,
+  "token_count": 11299,
   "source_path": "reports/hellenic/iron_ore/2025/2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-august-28-2025",
   "children": [
@@ -41,35 +41,35 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 28/08/2025\nToday, the iron ore futures turned from weak to strong, with the most-traded contract I2601 closing at 790.5, up 1.74% from yesterday. Traders showedmoderate willingness to sell; steel mills adopted a wait-and-see sentiment and purchased as needed, while some mills with better finished product sales actively restocked.",
+      "summary": "Today, the iron ore futures turned from weak to strong, with the most-traded contract I2601 closing at 790.5, up 1.74% from yesterday. Traders showedmoderate willingness to sell; steel mills adopted a wait-and-see sentiment and purchased as needed, while some mills with better finished product sales actively restocked.",
       "keywords": [
-        "china",
         "iron_ore",
         "steel",
         "ore",
         "iron",
-        "prices",
         "yuan/mt",
-        "transaction"
+        "prices",
+        "transaction",
+        "was"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 282,
+      "token_count": 277,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2025-08-28_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025__s02_linked_asset_2025_08_28_mmi_daily_iron_ore_report_for_28th_august_2025_compressed_pdf",
+      "node_id": "hellenic_iron_ore_2025-08-28_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025__s02_linked_asset_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025_mmi_daily_iron_ore_report_for_28th_a_7a8e705d1318_pdf",
       "doc_id": "hellenic_iron_ore_2025-08-28_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025",
       "parent_id": "hellenic_iron_ore_2025-08-28_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025__root",
-      "title": "Linked asset: 2025-08-28_MMi-Daily-Iron-Ore-Report-for-28th-August-2025_compressed.pdf",
+      "title": "Linked asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_mmi-daily-iron-ore-report-for-28th-a_7a8e705d1318.pdf",
       "section_path": [
-        "Linked asset: 2025-08-28_MMi-Daily-Iron-Ore-Report-for-28th-August-2025_compressed.pdf"
+        "Linked asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_mmi-daily-iron-ore-report-for-28th-a_7a8e705d1318.pdf"
       ],
-      "section_path_text": "Linked asset: 2025-08-28_MMi-Daily-Iron-Ore-Report-for-28th-August-2025_compressed.pdf",
+      "section_path_text": "Linked asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_mmi-daily-iron-ore-report-for-28th-a_7a8e705d1318.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-08-28_MMi-Daily-Iron-Ore-Report-for-28th-August-2025_compressed.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Aug 28th, 2025\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n796 907 689\n7 0.89% 7.00 0.78% 6 0.88%\nAug 28th, 2025 Aug 28th, 2025 Aug 28th, 2025\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n106.00 121.60 913\n1.55 1.48% -0.25 -0.21% -7 -0.76%\nAug 28th, 2025 Aug 28th, 2025 Week Ending Aug 22nd, 2025\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2509 (September) RMB/t (3pm close) September 25 USD/dmt RB2510 (Jan) RMB/t\n790.50 104.25 3129\n15.00 1.93% 1.70 1.66% 18 0.58%\nAug 28th, 2025 (3pm close) Aug 28th, 2025 (5.30 pm Print) Aug 28th, 2025 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n24.66",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_mmi-daily-iron-ore-report-for-28th-a_7a8e705d1318.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Aug 28th, 2025\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n796 907 689\n7 0.89% 7.00 0.78% 6 0.88%\nAug 28th, 2025 Aug 28th, 2025 Aug 28th, 2025\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n106.00 121.60 913\n1.55 1.48% -0.25 -0.21% -7 -0.76%\nAug 28th, 2025 Aug 28th, 2025 Week Ending Aug 22nd, 2025\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2509 (September) RMB/t (3pm close) September 25 USD/dmt RB2510 (Jan) RMB/t\n790.50 104.25 3129\n15.00 1.93% 1.70 1.66% 18 0.58%\nAug 28th, 2025 (3pm close) Aug 28th, 2025 (5.30 pm Print) Aug 28th, 2025 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t S",
       "keywords": [
         "china",
         "brazil",
@@ -82,22 +82,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 10130,
+      "token_count": 10150,
       "section_type": "linked_pdf",
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2025-08-28_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025__s03_linked_asset_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025_img2_jpg",
+      "node_id": "hellenic_iron_ore_2025-08-28_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025__s03_linked_asset_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025_img1_mmi28_51030e46dbe2_jpg",
       "doc_id": "hellenic_iron_ore_2025-08-28_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025",
       "parent_id": "hellenic_iron_ore_2025-08-28_2025_08_28_mmi_daily_iron_ore_index_report_august_28_2025__root",
-      "title": "Linked asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_img2.jpg",
+      "title": "Linked asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_img1_mmi28_51030e46dbe2.jpg",
       "section_path": [
-        "Linked asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_img2.jpg"
+        "Linked asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_img1_mmi28_51030e46dbe2.jpg"
       ],
-      "section_path_text": "Linked asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_img2.jpg",
+      "section_path_text": "Linked asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_img1_mmi28_51030e46dbe2.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2025/2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_img2.jpg\n\nLinked image asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_img2.jpg\n\nImage metadata: JPEG 1200x557 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nAug 28th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2025/assets/2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_img1_mmi28_51030e46dbe2.jpg\n\nLinked image asset: 2025-08-28_mmi-daily-iron-ore-index-report-august-28-2025_img1_mmi28_51030e46dbe2.jpg\n\nImage metadata: JPEG 1200x557 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nAug 28th, 2025 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
         "brazil",
         "iron_ore",
@@ -110,7 +110,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 753,
+      "token_count": 774,
       "section_type": "linked_image_asset",
       "children": []
     }

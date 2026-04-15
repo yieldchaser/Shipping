@@ -2,10 +2,9 @@
 categories:
 - insights
 - tankers
-- vessel_valuations
-document_count: 103
+document_count: 100
 evidence_count: 250
-generated_at: '2026-04-15T12:35:56Z'
+generated_at: '2026-04-15T18:04:05Z'
 latest_evidence_date: '2026-04-14'
 page_type: topic_wiki
 related_topics:
@@ -14,13 +13,12 @@ related_topics:
 sources:
 - breakwave
 - breakwave_insights
-- hellenic
 title: VLCC and Suezmax
 topic_id: vlcc_and_suezmax
 ---
 
 ## Summary
-Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Africa-Europe dynamics, vessel supply, and route-specific rate pressure. The current wiki page is grounded in 250 cited sections from 103 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-14, with the strongest recurring markers being meg, suezmax, vlcc, aframax, crude_oil. Primary coverage comes from categories such as insights, tankers, vessel_valuations.
+Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Africa-Europe dynamics, vessel supply, and route-specific rate pressure. The current wiki page is grounded in 250 cited sections from 100 documents across breakwave, breakwave_insights. Recent evidence runs through 2026-04-14, with the strongest recurring markers being meg, suezmax, vlcc, aframax, crude_oil. Primary coverage comes from categories such as insights, tankers.
 
 ## Why It Matters
 Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Africa-Europe dynamics, vessel supply, and route-specific rate pressure.
@@ -36,14 +34,14 @@ Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Af
 - 2026-04-07 | breakwave_insights insights | Main: • Little Progress for MEG VLCCs as War Enters its Second Month - Over the past fortnight, VLCC activity originating from the Arabian Gulf has remained subdued, prompting the market to pivot its focus toward cargo loadings from Yanbu and the Gulf of Oman, where volumes have surged significantly above pre-conflict levels. While global attention remains fixed on the Strait of Hormuz, the extreme volatility of the situation precludes definitive short-term projections ; currently, transit through the straits is largely restricted, with activity primarily limited to Iranian-linked cargoes. [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726 | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-02-04 to 2026-04-14 across 1 calendar years.
+- Coverage span: 2026-01-30 to 2026-04-14 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: meg, suezmax, vlcc, aframax, crude_oil, china
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 233, breakwave: 10, hellenic: 7
-- Category coverage: insights: 233, tankers: 10, vessel_valuations: 7
-- Tone distribution: constructive: 187, neutral: 32, cautiously_bearish: 31
+- Source coverage: breakwave_insights: 240, breakwave: 10
+- Category coverage: insights: 240, tankers: 10
+- Tone distribution: constructive: 190, cautiously_bearish: 30, neutral: 30
 - Related topics: tanker_market, oil_and_opec
 
 ## Key Documents
@@ -53,8 +51,8 @@ Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Af
 - 2026-04-07 | One of the most active S&P periods in recent memory [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__s01_main | pages n/a]
 - 2026-04-07 | Breakwave Bi-Weekly Tanker Report - April 7, 2026 [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726 | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_tanker4726__s04_linked_asset_2026_04_07_tanker4726_img_screenshot2026_04_07113823_7db10c569feb_png | pages n/a]
 - 2026-04-07 | Tanker Shipping - April 7, 2026 [doc_id: breakwave_tankers_2026-04-07 | section_id: breakwave_tankers_2026-04-07__s02_fundamentals | pages 2-2]
-- 2026-04-07 | Weekly Vessel Valuations Report, April 07 2026 [doc_id: hellenic_vessel_valuations_2026-04-07_2026_04_08_weekly_vessel_valuations_report_april_07_2026 | section_id: hellenic_vessel_valuations_2026-04-07_2026_04_08_weekly_vessel_valuations_report_april_07_2026__s01_main | pages n/a]
 - 2026-04-06 | Dry Bulk 1Q26 - Momentum to Mayhem [doc_id: breakwave_insights_insights_2026-04-06_2026_04_06_dry_bulk_1q26_momentum_to_mayhem | section_id: breakwave_insights_insights_2026-04-06_2026_04_06_dry_bulk_1q26_momentum_to_mayhem__s03_linked_asset_2026_04_06_dry_bulk_1q26_momentum_to_mayhem_img_241_2b4b9ea45d2b_png | pages n/a]
+- 2026-04-02 | India's Energy Crisis Deepens [doc_id: breakwave_insights_insights_2026-04-02_2026_04_02_indias_energy_crisis_deepens | section_id: breakwave_insights_insights_2026-04-02_2026_04_02_indias_energy_crisis_deepens__s01_main | pages n/a]
 
 ## Related Topics
 - tanker_market

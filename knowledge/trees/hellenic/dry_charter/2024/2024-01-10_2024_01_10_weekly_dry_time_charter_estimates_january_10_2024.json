@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 385,
+  "token_count": 435,
   "source_path": "reports/hellenic/dry_charter/2024/2024-01-10_weekly-dry-time-charter-estimates-january-10-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-january-10-2024",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img1_10120230_61e5ab333baf.jpg",
         "image",
-        "reference",
-        "weekly-dry-time-charter-estimates-january-10-2024_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 31,
+      "token_count": 44,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2024-01-10_2024_01_10_weekly_dry_time_charter_estimates_january_10_2024__s02_linked_asset_2024_01_10_weekly_dry_time_charter_estimates_january_10_2024_img2_jpg",
+      "node_id": "hellenic_dry_charter_2024-01-10_2024_01_10_weekly_dry_time_charter_estimates_january_10_2024__s02_linked_asset_2024_01_10_weekly_dry_time_charter_estimates_january_10_2024_img1_10120230_61e5ab333baf_jpg",
       "doc_id": "hellenic_dry_charter_2024-01-10_2024_01_10_weekly_dry_time_charter_estimates_january_10_2024",
       "parent_id": "hellenic_dry_charter_2024-01-10_2024_01_10_weekly_dry_time_charter_estimates_january_10_2024__root",
-      "title": "Linked asset: 2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img2.jpg",
+      "title": "Linked asset: 2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img1_10120230_61e5ab333baf.jpg",
       "section_path": [
-        "Linked asset: 2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img2.jpg"
+        "Linked asset: 2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img1_10120230_61e5ab333baf.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img1_10120230_61e5ab333baf.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2024/2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img2.jpg\n\nLinked image asset: 2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA L| B RA Updated Weds 10 Jan 2024\nStipping Limited\nDRY TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (3ekom) | ¥ 12,250 | 4 13,500 | 4 = 12,500 12,500 | 4 11,000 | 11,000 |\nSMAXIULTRA | ¥ 15,000 | ¥ 13500 (4 14,000 13,250 | 12,500 12,500\nPANAKMAX ai 24250 Y= 14,250 | Y 16250 | ¥ 14,750 | 14,000 | Vv 13,250 |\n|\nCAPESIZE 20,000 | 20,000 | 21000 | 4 21,000 | 4 19500 {a 19,500",
+      "summary": "Source asset: reports/hellenic/dry_charter/2024/assets/2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img1_10120230_61e5ab333baf.jpg\n\nLinked image asset: 2024-01-10_weekly-dry-time-charter-estimates-january-10-2024_img1_10120230_61e5ab333baf.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nA L| B RA Updated Weds 10 Jan 2024\nStipping Limited\nDRY TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (3ekom) | ¥ 12,250 | 4 13,500 | 4 = 12,500 12,500 | 4 11,000 | 11,000 |\nSMAXIULTRA | ¥ 15,000 | ¥ 13500 (4 14,000 13,250 | 12,500 12,500\nPANAKMAX ai 24250 Y= 14,250 | Y 16250 | ¥ 14,750 | 14,000 | Vv 13,250 |\n|\nCAPESIZE 20,000 | 20,000 | 21000 | 4 21,000 | 4 19500 {a 19,500",
       "keywords": [
         "capesize",
         "handysize",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 319,
+      "token_count": 344,
       "section_type": "linked_image_asset",
       "children": []
     }

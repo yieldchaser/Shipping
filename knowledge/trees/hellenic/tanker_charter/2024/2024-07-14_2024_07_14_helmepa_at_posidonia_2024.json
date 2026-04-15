@@ -23,7 +23,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 179,
+  "token_count": 19,
   "source_path": "reports/hellenic/tanker_charter/2024/2024-07-14_helmepa-at-posidonia-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/helmepa-at-posidonia-2024",
   "children": [
@@ -38,49 +38,16 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Recent Videos 14/07/2024\nImage reference: 2024-07-14_helmepa-at-posidonia-2024_img1.jpg\nHELMEPA AT POSIDONIA 2024\nSource: HELMEPA",
+      "summary": "HELMEPA AT POSIDONIA 2024\nSource: HELMEPA",
       "keywords": [
         "helmepa",
-        "helmepa-at-posidonia-2024_img1.jpg",
-        "image",
         "posidonia",
-        "recent",
-        "reference",
-        "source",
-        "videos"
+        "source"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 53,
+      "token_count": 17,
       "section_type": null,
-      "children": []
-    },
-    {
-      "node_id": "hellenic_tanker_charter_2024-07-14_2024_07_14_helmepa_at_posidonia_2024__s02_linked_asset_2024_07_14_helmepa_at_posidonia_2024_img1_jpg",
-      "doc_id": "hellenic_tanker_charter_2024-07-14_2024_07_14_helmepa_at_posidonia_2024",
-      "parent_id": "hellenic_tanker_charter_2024-07-14_2024_07_14_helmepa_at_posidonia_2024__root",
-      "title": "Linked asset: 2024-07-14_helmepa-at-posidonia-2024_img1.jpg",
-      "section_path": [
-        "Linked asset: 2024-07-14_helmepa-at-posidonia-2024_img1.jpg"
-      ],
-      "section_path_text": "Linked asset: 2024-07-14_helmepa-at-posidonia-2024_img1.jpg",
-      "level": 1,
-      "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2024/2024-07-14_helmepa-at-posidonia-2024_img1.jpg\n\nLinked image asset: 2024-07-14_helmepa-at-posidonia-2024_img1.jpg\n\nImage metadata: JPEG 120x100 mode=RGB\n\nEmbedded info:\ndpi: (72, 72)\n\n[OCR skipped for small image (< 150000 pixels).]",
-      "keywords": [
-        "image",
-        "asset",
-        "dpi",
-        "embedded",
-        "helmepa-at-posidonia-2024_img1.jpg",
-        "info",
-        "jpeg",
-        "linked"
-      ],
-      "page_start": null,
-      "page_end": null,
-      "token_count": 98,
-      "section_type": "linked_image_asset",
       "children": []
     }
   ]

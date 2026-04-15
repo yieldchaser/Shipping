@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 454,
+  "token_count": 449,
   "source_path": "reports/hellenic/dry_charter/2022/2022-01-12_weekly-dry-time-charter-estimates-january-12-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-january-12-2022",
   "children": [
@@ -54,22 +54,22 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 116,
+      "token_count": 89,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_dry_charter_2022-01-12_2022_01_12_weekly_dry_time_charter_estimates_january_12_2022__s02_linked_asset_2022_01_12_weekly_dry_time_charter_estimates_january_12_2022_img2_jpg",
+      "node_id": "hellenic_dry_charter_2022-01-12_2022_01_12_weekly_dry_time_charter_estimates_january_12_2022__s02_linked_asset_2022_01_12_weekly_dry_time_charter_estimates_january_12_2022_dry_af38ceb71f7f_jpg",
       "doc_id": "hellenic_dry_charter_2022-01-12_2022_01_12_weekly_dry_time_charter_estimates_january_12_2022",
       "parent_id": "hellenic_dry_charter_2022-01-12_2022_01_12_weekly_dry_time_charter_estimates_january_12_2022__root",
-      "title": "Linked asset: 2022-01-12_weekly-dry-time-charter-estimates-january-12-2022_img2.jpg",
+      "title": "Linked asset: 2022-01-12_weekly-dry-time-charter-estimates-january-12-2022_dry_af38ceb71f7f.jpg",
       "section_path": [
-        "Linked asset: 2022-01-12_weekly-dry-time-charter-estimates-january-12-2022_img2.jpg"
+        "Linked asset: 2022-01-12_weekly-dry-time-charter-estimates-january-12-2022_dry_af38ceb71f7f.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-01-12_weekly-dry-time-charter-estimates-january-12-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-01-12_weekly-dry-time-charter-estimates-january-12-2022_dry_af38ceb71f7f.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/dry_charter/2022/2022-01-12_weekly-dry-time-charter-estimates-january-12-2022_img2.jpg\n\nLinked image asset: 2022-01-12_weekly-dry-time-charter-estimates-january-12-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA LI B RA Updated Wednesday 12 January 2022\nA Seta Contact us for rates/charts on scrubber & eco tonnage. PERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY wv 22,500|@ 24,000) 22,000) 19,000) 16,000) 16,000\nSMAX/ULTRA | 25,250| 24,500) 22,000)\" 21,875) 17,000) 16,500\nPANA/KMAX | & 34,000) 28,000) ~ 24,000} 23,500) 22,000) 21,000\nCAPESIZE ™ 24,750) 23,250|™ 25,000|= 23,500) 21,000|= 20,000",
+      "summary": "Source asset: reports/hellenic/dry_charter/2022/assets/2022-01-12_weekly-dry-time-charter-estimates-january-12-2022_dry_af38ceb71f7f.jpg\n\nLinked image asset: 2022-01-12_weekly-dry-time-charter-estimates-january-12-2022_dry_af38ceb71f7f.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA LI B RA Updated Wednesday 12 January 2022\nA Seta Contact us for rates/charts on scrubber & eco tonnage. PERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY wv 22,500|@ 24,000) 22,000) 19,000) 16,000) 16,000\nSMAX/ULTRA | 25,250| 24,500) 22,000)\" 21,875) 17,000) 16,500\nPANA/KMAX | & 34,000) 28,000) ~ 24,000} 23,500) 22,000) 21,000\nCAPESIZE ™ 24,750) 23,250|™ 25,000|= 23,500) 21,000|= 20,000",
       "keywords": [
         "capesize",
         "handysize",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 303,
+      "token_count": 318,
       "section_type": "linked_image_asset",
       "children": []
     }

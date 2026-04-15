@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 1152,
+  "token_count": 1182,
   "source_path": "reports/hellenic/iron_ore/2023/2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-18-2023",
   "children": [
@@ -41,35 +41,35 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 18/05/2023\nDCE iron ore futures rose by 1.91% today, the main contract closed at 746.5.The traders' willingness to ship is general.The steel mills are not active to purchase.The overall trading sentiment of the market is general. PBF at Shandong port deal 800 -805 yuan/mt.",
+      "summary": "DCE iron ore futures rose by 1.91% today, the main contract closed at 746.5.The traders' willingness to ship is general.The steel mills are not active to purchase.The overall trading sentiment of the market is general. PBF at Shandong port deal 800 -805 yuan/mt.",
       "keywords": [
         "china",
         "iron_ore",
         "steel",
         "iron",
         "ore",
-        "prices",
         "active",
-        "blast"
+        "blast",
+        "furnaces"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 246,
+      "token_count": 242,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2023-05-18_2023_05_18_mmi_daily_iron_ore_index_report_may_18_2023__s02_linked_asset_2023_05_18_mmi_daily_iron_ore_index_report_may_18_2023_img2_jpg",
+      "node_id": "hellenic_iron_ore_2023-05-18_2023_05_18_mmi_daily_iron_ore_index_report_may_18_2023__s02_linked_asset_2023_05_18_mmi_daily_iron_ore_index_report_may_18_2023_img1_yd5_908e365f85c8_jpg",
       "doc_id": "hellenic_iron_ore_2023-05-18_2023_05_18_mmi_daily_iron_ore_index_report_may_18_2023",
       "parent_id": "hellenic_iron_ore_2023-05-18_2023_05_18_mmi_daily_iron_ore_index_report_may_18_2023__root",
-      "title": "Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img2.jpg",
+      "title": "Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg",
       "section_path": [
-        "Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img2.jpg"
+        "Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg"
       ],
-      "section_path_text": "Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img2.jpg",
+      "section_path_text": "Linked asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/2023/2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img2.jpg\n\nLinked image asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report | May 18th, 2023\nIRON ORE PORT STOCK INDEX (IOPI)\n‘May 18th, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2023/assets/2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg\n\nLinked image asset: 2023-05-18_mmi-daily-iron-ore-index-report-may-18-2023_img1_yd5_908e365f85c8.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report | May 18th, 2023\nIRON ORE PORT STOCK INDEX (IOPI)\n‘May 18th, 2023 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
         "china",
         "brazil",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 873,
+      "token_count": 896,
       "section_type": "linked_image_asset",
       "children": []
     }

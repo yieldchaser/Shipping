@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 465,
+  "token_count": 480,
   "source_path": "reports/hellenic/tanker_charter/2021/2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-august-18-2021",
   "children": [
@@ -49,27 +49,27 @@
         "very",
         "although",
         "asia",
-        "clean",
-        "crude"
+        "asset",
+        "clean"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 118,
+      "token_count": 96,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2021-08-18_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021__s02_linked_asset_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2021-08-18_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021__s02_linked_asset_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021_wet_1_1_9352c7248a56_jpg",
       "doc_id": "hellenic_tanker_charter_2021-08-18_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021",
       "parent_id": "hellenic_tanker_charter_2021-08-18_2021_08_18_weekly_tanker_time_charter_estimates_august_18_2021__root",
-      "title": "Linked asset: 2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021_img2.jpg",
+      "title": "Linked asset: 2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021_wet-1-1_9352c7248a56.jpg",
       "section_path": [
-        "Linked asset: 2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021_img2.jpg"
+        "Linked asset: 2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021_wet-1-1_9352c7248a56.jpg"
       ],
-      "section_path_text": "Linked asset: 2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021_img2.jpg",
+      "section_path_text": "Linked asset: 2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021_wet-1-1_9352c7248a56.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2021/2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021_img2.jpg\n\nLinked image asset: 2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA L| B RA Updated Wednesday 18 August 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR *3 YR *5 YR\nHANDY = 11,000 | = 12,250 = 14,000 14,250\nMR IMO3 = 12,000 | = 13,000 = 16,000 16,350\nLR1 = 13,500 |= 15,250 = 17,250 17,500\nLR2 = 16500 |= 19,750 = 24,950 | = 25,500\nAFRA = 15,750 | = 18,000 > 22,500 23,000\nSUEZ = 18,000 | = 19,500 > 26,000 | : 27,000\nvice = 22500 | = 25,500 35,000 36,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2021/assets/2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021_wet-1-1_9352c7248a56.jpg\n\nLinked image asset: 2021-08-18_weekly-tanker-time-charter-estimates-august-18-2021_wet-1-1_9352c7248a56.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA L| B RA Updated Wednesday 18 August 2021\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2YR *3 YR *5 YR\nHANDY = 11,000 | = 12,250 = 14,000 14,250\nMR IMO3 = 12,000 | = 13,000 = 16,000 16,350\nLR1 = 13,500 |= 15,250 = 17,250 17,500\nLR2 = 16500 |= 19,750 = 24,950 | = 25,500\nAFRA = 15,750 | = 18,000 > 22,500 23,000\nSUEZ = 18,000 | = 19,500 > 26,000 | : 27,000\nvice = 22500 | = 25,500 35,000 36,500",
       "keywords": [
         "handysize",
         "asset",
@@ -82,7 +82,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 312,
+      "token_count": 337,
       "section_type": "linked_image_asset",
       "children": []
     }

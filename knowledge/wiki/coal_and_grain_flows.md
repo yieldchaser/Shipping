@@ -5,7 +5,7 @@ categories:
 - insights
 document_count: 94
 evidence_count: 250
-generated_at: '2026-04-15T12:35:56Z'
+generated_at: '2026-04-15T18:04:05Z'
 latest_evidence_date: '2026-04-14'
 page_type: topic_wiki
 related_topics:
@@ -53,7 +53,7 @@ Coal, grain, soybean, and other agricultural or energy-related dry-bulk flows th
 - 2026-04-13 | Coal India's Stockpiles Set Another Record [doc_id: breakwave_insights_insights_2026-04-13_2026_04_13_coal_indias_stockpiles_set_another_record | section_id: breakwave_insights_insights_2026-04-13_2026_04_13_coal_indias_stockpiles_set_another_record__s04_linked_asset_2026_04_13_coal_indias_stockpiles_set_another_record_img_243_6f7bb673b293_jpg | pages n/a]
 - 2026-04-09 | Uncertainty and volatility in commodity markets [doc_id: breakwave_insights_insights_2026-04-09_2026_04_09_uncertainty_and_volatility_in_commodity_markets | section_id: breakwave_insights_insights_2026-04-09_2026_04_09_uncertainty_and_volatility_in_commodity_markets__s01_main | pages n/a]
 - 2026-04-08 | India's growth potential [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential__s01_main | pages n/a]
-- 2026-04-08 | Weekly Dry Time Charter Estimates, April 08 2026 [doc_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026 | section_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026__s02_linked_asset_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026_img2_jpg | pages n/a]
+- 2026-04-08 | Weekly Dry Time Charter Estimates, April 08 2026 [doc_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026 | section_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026__s02_linked_asset_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026_8420250_2d48830465bd_jpg | pages n/a]
 - 2026-04-08 | Indian Electricity Production Remains Weak [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak__s03_linked_asset_2026_04_08_indian_electricity_production_remains_weak_img_242_a76dbddfdc8f_jpg | pages n/a]
 - 2026-04-07 | One of the most active S&P periods in recent memory [doc_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory | section_id: breakwave_insights_insights_2026-04-07_2026_04_07_one_of_the_most_active_sampp_periods_in_recent_memory__s01_main | pages n/a]
 

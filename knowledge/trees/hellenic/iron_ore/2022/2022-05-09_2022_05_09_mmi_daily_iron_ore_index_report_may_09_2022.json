@@ -26,7 +26,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 25261,
+  "token_count": 33761,
   "source_path": "reports/hellenic/iron_ore/2022/2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-may-09-2022",
   "children": [
@@ -41,7 +41,7 @@
       "section_path_text": "Main",
       "level": 1,
       "ordinal": 1,
-      "summary": "in Chinese iron ore and steelmaking prices 09/05/2022\nDCE iron ore futures market falling sharply trends by 5.78%. the quotation in the morning was decreased by10-20 yuan/mt from last week.",
+      "summary": "DCE iron ore futures market falling sharply trends by 5.78%. the quotation in the morning was decreased by10-20 yuan/mt from last week.",
       "keywords": [
         "china",
         "iron_ore",
@@ -49,27 +49,27 @@
         "yuan/mt",
         "decreased",
         "last",
-        "ore",
-        "port"
+        "port",
+        "week."
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 329,
+      "token_count": 328,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2022-05-09_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022__s02_linked_asset_2022_05_09_mmi_daily_iron_ore_report_for_9th_may_2022_2_compressed_pdf",
+      "node_id": "hellenic_iron_ore_2022-05-09_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022__s02_linked_asset_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022_mmi_daily_iron_ore_report_for_9th_ma_cfdd7d571252_pdf",
       "doc_id": "hellenic_iron_ore_2022-05-09_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022",
       "parent_id": "hellenic_iron_ore_2022-05-09_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022__root",
-      "title": "Linked asset: 2022-05-09_MMi-Daily-Iron-Ore-Report-for-9th-May-2022-2_compressed.pdf",
+      "title": "Linked asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_mmi-daily-iron-ore-report-for-9th-ma_cfdd7d571252.pdf",
       "section_path": [
-        "Linked asset: 2022-05-09_MMi-Daily-Iron-Ore-Report-for-9th-May-2022-2_compressed.pdf"
+        "Linked asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_mmi-daily-iron-ore-report-for-9th-ma_cfdd7d571252.pdf"
       ],
-      "section_path_text": "Linked asset: 2022-05-09_MMi-Daily-Iron-Ore-Report-for-9th-May-2022-2_compressed.pdf",
+      "section_path_text": "Linked asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_mmi-daily-iron-ore-report-for-9th-ma_cfdd7d571252.pdf",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-05-09_MMi-Daily-Iron-Ore-Report-for-9th-May-2022-2_compressed.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) May 9th, 2022\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n969 1136 865\n-30 -3.00% -31.00 -2.66% -14 -1.59%\nMay 9th, 2022 May 9th, 2022 May 9th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n148.15 173.75 1260\n",
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_mmi-daily-iron-ore-report-for-9th-ma_cfdd7d571252.pdf\n\n[Page 1]\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:349)(cid:367)(cid:455)(cid:3)(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:286)(cid:454)(cid:3)(cid:90)(cid:286)(cid:393)(cid:381)(cid:396)(cid:410)(cid:3)(cid:3) (cid:3)(cid:3) May 9th, 2022\n(cid:68)(cid:68)(cid:349)(cid:3)(cid:24)(cid:258)(cid:400)(cid:346)(cid:271)(cid:381)(cid:258)(cid:396)(cid:282)\n(cid:47)(cid:396)(cid:381)(cid:374)(cid:3)(cid:75)(cid:396)(cid:286)(cid:3)(cid:87)(cid:396)(cid:349)(cid:272)(cid:286)(cid:3)(cid:47)(cid:374)(cid:282)(cid:349)(cid:272)(cid:286)(cid:400)\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI62 62% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n969 1136 865\n-30 -3.00% -31.00 -2.66% -14 -1.59%\nMay 9th, 2022 May 9th, 2022 May 9th, 2022\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI62 62% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 6",
       "keywords": [
         "china",
         "brazil",
@@ -82,35 +82,35 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 23984,
+      "token_count": 32426,
       "section_type": "linked_pdf",
       "children": []
     },
     {
-      "node_id": "hellenic_iron_ore_2022-05-09_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022__s03_linked_asset_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022_img2_jpg",
+      "node_id": "hellenic_iron_ore_2022-05-09_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022__s03_linked_asset_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022_img1_0905chinese4rfg_969f746269df_jpg",
       "doc_id": "hellenic_iron_ore_2022-05-09_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022",
       "parent_id": "hellenic_iron_ore_2022-05-09_2022_05_09_mmi_daily_iron_ore_index_report_may_09_2022__root",
-      "title": "Linked asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_img2.jpg",
+      "title": "Linked asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_img1_0905chinese4rfg_969f746269df.jpg",
       "section_path": [
-        "Linked asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_img2.jpg"
+        "Linked asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_img1_0905chinese4rfg_969f746269df.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_img1_0905chinese4rfg_969f746269df.jpg",
       "level": 1,
       "ordinal": 3,
-      "summary": "Source asset: reports/hellenic/iron_ore/2022/2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_img2.jpg\n\nLinked image asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_img2.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report May 9th, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\n‘May 9th, 2022 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "summary": "Source asset: reports/hellenic/iron_ore/2022/assets/2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_img1_0905chinese4rfg_969f746269df.jpg\n\nLinked image asset: 2022-05-09_mmi-daily-iron-ore-index-report-may-09-2022_img1_0905chinese4rfg_969f746269df.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report May 9th, 2022\nIRON ORE PORT STOCK INDEX (IOP!)\n‘May 9th, 2022 | FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
       "keywords": [
+        "china",
         "brazil",
         "iron_ore",
         "steel",
         "change",
         "iron",
         "ore",
-        "high",
-        "low"
+        "high"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 881,
+      "token_count": 910,
       "section_type": "linked_image_asset",
       "children": []
     }

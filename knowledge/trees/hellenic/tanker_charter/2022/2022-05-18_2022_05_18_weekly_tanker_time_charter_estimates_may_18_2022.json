@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 377,
+  "token_count": 393,
   "source_path": "reports/hellenic/tanker_charter/2022/2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-may-18-2022",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
-        "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-may-18-2022_img2.jpg"
+        "asset",
+        "linked",
+        "tanker_1-2.jpg"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 9,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2022-05-18_2022_05_18_weekly_tanker_time_charter_estimates_may_18_2022__s02_linked_asset_2022_05_18_weekly_tanker_time_charter_estimates_may_18_2022_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2022-05-18_2022_05_18_weekly_tanker_time_charter_estimates_may_18_2022__s02_linked_asset_2022_05_18_weekly_tanker_time_charter_estimates_may_18_2022_tanker_1_2_0bd5aa10262f_jpg",
       "doc_id": "hellenic_tanker_charter_2022-05-18_2022_05_18_weekly_tanker_time_charter_estimates_may_18_2022",
       "parent_id": "hellenic_tanker_charter_2022-05-18_2022_05_18_weekly_tanker_time_charter_estimates_may_18_2022__root",
-      "title": "Linked asset: 2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022_img2.jpg",
+      "title": "Linked asset: 2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022_tanker-1-2_0bd5aa10262f.jpg",
       "section_path": [
-        "Linked asset: 2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022_img2.jpg"
+        "Linked asset: 2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022_tanker-1-2_0bd5aa10262f.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022_tanker-1-2_0bd5aa10262f.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2022/2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022_img2.jpg\n\nLinked image asset: 2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nShipping United *3 & Syrs inc scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2 YR *3 YR *5 YR\nHANDY 4 12,000 12,750 14,750 14,500\nMR IMO3 & 14,950 & 14,250 17,000 17,000\nLR1 14,500 = 15,500 = 18,000 t 17,500\nLR2 = 18,000 = 20,000 = 27,000 = 26,000\nAFRA (115k dwt) & 19,250 20,000 26,000 25,000\nSUEZ = 18,000 = 21,000 » 28,000 3 27,000\nVLCC = 21,000 = 22,000 = 35,000 3 37,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2022/assets/2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022_tanker-1-2_0bd5aa10262f.jpg\n\nLinked image asset: 2022-05-18_weekly-tanker-time-charter-estimates-may-18-2022_tanker-1-2_0bd5aa10262f.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nShipping United *3 & Syrs inc scrubber & eco tonnage\nWET TIME CHARTER ESTIMATES ($/pdpr)\nSIZE 1YR 2 YR *3 YR *5 YR\nHANDY 4 12,000 12,750 14,750 14,500\nMR IMO3 & 14,950 & 14,250 17,000 17,000\nLR1 14,500 = 15,500 = 18,000 t 17,500\nLR2 = 18,000 = 20,000 = 27,000 = 26,000\nAFRA (115k dwt) & 19,250 20,000 26,000 25,000\nSUEZ = 18,000 = 21,000 » 28,000 3 27,000\nVLCC = 21,000 = 22,000 = 35,000 3 37,500",
       "keywords": [
         "handysize",
         "vlcc",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 313,
+      "token_count": 338,
       "section_type": "linked_image_asset",
       "children": []
     }

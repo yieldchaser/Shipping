@@ -1,16 +1,12 @@
 ---
 categories:
-- demolition
 - dry
 - dry_charter
 - drybulk
 - insights
-- iron_ore
-- shipbuilding
-- vessel_valuations
-document_count: 79
+document_count: 67
 evidence_count: 250
-generated_at: '2026-04-15T12:35:56Z'
+generated_at: '2026-04-15T18:04:05Z'
 latest_evidence_date: '2026-04-14'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +24,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 79 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-14, with the strongest recurring markers being china, dry bulk, brazil, iron_ore, capesize. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 67 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-14, with the strongest recurring markers being china, dry bulk, capesize, brazil, coal. Primary coverage comes from categories such as dry, dry_charter, drybulk, insights.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -44,14 +40,14 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - 2026-04-14 | breakwave_insights insights | Linked asset: 2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3408e224d047.png: Source asset: reports/breakwave/2026/assets/2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3408e224d047.png Linked image asset: 2026-04-14_japans-shipbuilding-industry-capacity-constraints-and-structural-transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3408e224d047.png Image metadata: PNG 448x357 mode=RGBA Embedded info: dpi: (95.9866, 95.9866) OCR text: Japan Inflation, Consumer prices (annual) 35 3.0 25 2.0 15 1.0 0.5 0.0 -0.5 -1.0 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 [doc_id: breakwave_insights_insights_2026-04-14_2026_04_14_japans_shipbuilding_industry_capacity_constraints_and_structural_transition | section_id: breakwave_insights_insights_2026-04-14_2026_04_14_japans_shipbuilding_industry_capacity_constraints_and_structural_transition__s05_linked_asset_2026_04_14_japans_shipbuilding_industry_capacity_constraints_and_structural_transition_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3408e224d047_png | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-03-19 to 2026-04-14 across 1 calendar years.
+- Coverage span: 2026-03-10 to 2026-04-14 across 1 calendar years.
 - Most-covered years: 2026: 250
-- Recurring evidence markers: china, dry bulk, brazil, iron_ore, capesize, grain
+- Recurring evidence markers: china, dry bulk, capesize, brazil, coal, grain
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 152, hellenic: 93, baltic: 3, breakwave: 2
-- Category coverage: insights: 152, iron_ore: 43, demolition: 28, vessel_valuations: 9, shipbuilding: 7, dry_charter: 6, dry: 3, drybulk: 2
-- Tone distribution: constructive: 123, cautiously_bearish: 82, neutral: 45
+- Source coverage: breakwave_insights: 232, hellenic: 10, baltic: 4, breakwave: 4
+- Category coverage: insights: 232, dry_charter: 10, dry: 4, drybulk: 4
+- Tone distribution: constructive: 130, cautiously_bearish: 72, neutral: 48
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
@@ -60,9 +56,9 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - 2026-04-13 | Coal India's Stockpiles Set Another Record [doc_id: breakwave_insights_insights_2026-04-13_2026_04_13_coal_indias_stockpiles_set_another_record | section_id: breakwave_insights_insights_2026-04-13_2026_04_13_coal_indias_stockpiles_set_another_record__s04_linked_asset_2026_04_13_coal_indias_stockpiles_set_another_record_img_243_6f7bb673b293_jpg | pages n/a]
 - 2026-04-10 | Bulk report - Week 15 [doc_id: baltic_dry_2026-04-10_2026_04_10_bulk_report_week_15_dry | section_id: baltic_dry_2026-04-10_2026_04_10_bulk_report_week_15_dry__s01_main | pages n/a]
 - 2026-04-09 | Uncertainty and volatility in commodity markets [doc_id: breakwave_insights_insights_2026-04-09_2026_04_09_uncertainty_and_volatility_in_commodity_markets | section_id: breakwave_insights_insights_2026-04-09_2026_04_09_uncertainty_and_volatility_in_commodity_markets__s01_main | pages n/a]
-- 2026-04-09 | MMI Daily Iron Ore Index Report April 9 2026 [doc_id: hellenic_iron_ore_2026-04-09_2026_04_09_mmi_daily_iron_ore_index_report_april_9_2026 | section_id: hellenic_iron_ore_2026-04-09_2026_04_09_mmi_daily_iron_ore_index_report_april_9_2026__s02_linked_asset_2026_04_09_mmi_daily_iron_ore_report_for_9th_april_2026_pdf | pages n/a]
-- 2026-04-08 | Weekly Dry Time Charter Estimates, April 08 2026 [doc_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026 | section_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026__s02_linked_asset_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026_img2_jpg | pages n/a]
+- 2026-04-08 | Weekly Dry Time Charter Estimates, April 08 2026 [doc_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026 | section_id: hellenic_dry_charter_2026-04-08_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026__s02_linked_asset_2026_04_08_weekly_dry_time_charter_estimates_april_08_2026_8420250_2d48830465bd_jpg | pages n/a]
 - 2026-04-08 | India's growth potential [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indias_growth_potential__s01_main | pages n/a]
+- 2026-04-08 | Indian Electricity Production Remains Weak [doc_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak | section_id: breakwave_insights_insights_2026-04-08_2026_04_08_indian_electricity_production_remains_weak__s03_linked_asset_2026_04_08_indian_electricity_production_remains_weak_img_242_a76dbddfdc8f_jpg | pages n/a]
 
 ## Related Topics
 - capesize

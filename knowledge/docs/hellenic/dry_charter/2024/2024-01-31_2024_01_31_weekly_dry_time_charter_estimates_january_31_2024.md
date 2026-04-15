@@ -14,7 +14,119 @@ keywords:
 - main
 - reference
 - weekly-dry-time-charter-estimates-january-31-2024_img2.jpg
+linked_assets_discovered: 1
+linked_assets_failed: 0
+linked_assets_ingested: 1
+linked_assets_mirrored: 1
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 9
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: 'Image reference: assets/2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg'
+  unit: null
+  values:
+  - 2024.0
+  - -1.0
+  - -31.0
+  - 31.0
+  - -2024.0
+  - 31120230.0
+  - 7.0
+  - 2.0
+  - 25.0
+- &id002
+  section: 'Linked asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg'
+  section_type: linked_image_asset
+  source_line: 'Linked image asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg'
+  unit: null
+  values:
+  - 2024.0
+  - -1.0
+  - -31.0
+  - 31.0
+  - -2024.0
+  - 31120230.0
+  - 7.0
+  - 2.0
+  - 25.0
+- &id003
+  section: 'Linked asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg'
+  section_type: linked_image_asset
+  source_line: 'Image metadata: JPEG 600x320 mode=RGB'
+  unit: null
+  values:
+  - 600.0
+  - 20.0
+- &id004
+  section: 'Linked asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg'
+  section_type: linked_image_asset
+  source_line: 'dpi: (144.0, 144.0)'
+  unit: null
+  values:
+  - 144.0
+  - 144.0
+- &id005
+  section: 'Linked asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg'
+  section_type: linked_image_asset
+  source_line: AL| BR A Updated Weds 34 Jan 2023
+  unit: null
+  values:
+  - 34.0
+  - 2023.0
+- &id006
+  section: 'Linked asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg'
+  section_type: linked_image_asset
+  source_line: '| HANDY (38 cnt) | Vv 13,450 | vy 10,950 | Y= 12,500 A 11,950 11,000
+    11,000 |'
+  unit: null
+  values:
+  - 38.0
+  - 13450.0
+  - 10950.0
+  - 12500.0
+  - 11950.0
+  - 11000.0
+  - 11000.0
+- &id007
+  section: 'Linked asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg'
+  section_type: linked_image_asset
+  source_line: SMAX/ULTRA 15,500 13,500 | yY 14000 |¥ 13,000 12,500 12,500
+  unit: null
+  values:
+  - 15500.0
+  - 13500.0
+  - 14000.0
+  - 13000.0
+  - 12500.0
+  - 12500.0
+- &id008
+  section: 'Linked asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg'
+  section_type: linked_image_asset
+  source_line: '| PANAJKMAX | A 20,500 | A 16,000 | Y 16750 |¥ 16000 |¥ 14,000 13,750
+    |'
+  unit: null
+  values:
+  - 20500.0
+  - 16000.0
+  - 16750.0
+  - 16000.0
+  - 14000.0
+  - 13750.0
+- &id009
+  section: 'Linked asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg'
+  section_type: linked_image_asset
+  source_line: CAPESIZE 21,000 21,000 | 20,500 20,250 19,000 19,000
+  unit: null
+  values:
+  - 21000.0
+  - 21000.0
+  - 20500.0
+  - 20250.0
+  - 19000.0
+  - 19000.0
 regions:
 - atlantic
 - pacific
@@ -24,6 +136,17 @@ regions:
 section_count: 2
 signals:
   metric_units: []
+  numeric_observation_count: 9
+  numeric_observations:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
   rate_observations:
   - segment: handysize
     source_line: '| HANDY (38 cnt) | Vv 13,450 | vy 10,950 | Y= 12,500 A 11,950 11,000
@@ -134,12 +257,12 @@ SMAX/ULTRA 15,500 13,500 | yY 14000 |¥ 13,000 12,500 12,500
 CAPESIZE 21,000 21,000 | 20,500 20,250 19,000 19,000
 
 ## Main
-Image reference: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img2.jpg
+Image reference: assets/2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg
 
-## Linked asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img2.jpg
-Source asset: reports/hellenic/dry_charter/2024/2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img2.jpg
+## Linked asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg
+Source asset: reports/hellenic/dry_charter/2024/assets/2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg
 
-Linked image asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img2.jpg
+Linked image asset: 2024-01-31_weekly-dry-time-charter-estimates-january-31-2024_img1_31120230_c27b32b325a6.jpg
 
 Image metadata: JPEG 600x320 mode=RGB
 

@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 178,
+  "token_count": 385,
   "source_path": "reports/hellenic/tanker_charter/2022/2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-september-14-2022",
   "children": [
@@ -35,41 +35,41 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
-        "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg"
+        "asset",
+        "linked",
+        "tanker-1.jpg"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 31,
+      "token_count": 7,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2022-09-14_2022_09_14_weekly_tanker_time_charter_estimates_september_14_2022__s02_linked_asset_2022_09_14_weekly_tanker_time_charter_estimates_september_14_2022_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2022-09-14_2022_09_14_weekly_tanker_time_charter_estimates_september_14_2022__s02_linked_asset_2022_09_14_weekly_tanker_time_charter_estimates_september_14_2022_tanker_1_728e4b46af32_jpg",
       "doc_id": "hellenic_tanker_charter_2022-09-14_2022_09_14_weekly_tanker_time_charter_estimates_september_14_2022",
       "parent_id": "hellenic_tanker_charter_2022-09-14_2022_09_14_weekly_tanker_time_charter_estimates_september_14_2022__root",
-      "title": "Linked asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg",
+      "title": "Linked asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_tanker-1_728e4b46af32.jpg",
       "section_path": [
-        "Linked asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg"
+        "Linked asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_tanker-1_728e4b46af32.jpg"
       ],
-      "section_path_text": "Linked asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg",
+      "section_path_text": "Linked asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_tanker-1_728e4b46af32.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2022/2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg\n\nLinked image asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_img2.jpg\n\nImage metadata: JPEG 442x309 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\n[OCR skipped for small image (< 150000 pixels).]",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2022/assets/2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_tanker-1_728e4b46af32.jpg\n\nLinked image asset: 2022-09-14_weekly-tanker-time-charter-estimates-september-14-2022_tanker-1_728e4b46af32.jpg\n\nImage metadata: JPEG 442x309 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nBALIBRA Updated Weds 44 Sep 2022\nSipping Urted * Eco Tonnage & Scrubber fitted\nWET TIME CHARTER ESTIMATE (Sipdpr)\nSsizE 1 YEAR 2 YEAR 3 YEAR' 5 YEAR\"\nHANDY v 20,000 17,000 19,000 18,000\nMR IMO3 4 27,500 22,500 24,000 22,500\nLRI r 29,500 r 25,500 26,500 24,500\nLR2 a 35,000 29,000 33,500 32,500\nAFRA (115k det) | A 28,500 27,500 31,000 30,000\nSUEZ b 28,500 a 24,000 33,500 32,500\nvice Vv 29,000 28,000 37,500 37,500",
       "keywords": [
-        "image",
+        "handysize",
+        "year",
         "asset",
-        "dpi",
-        "embedded",
-        "info",
-        "jpeg",
-        "linked",
-        "metadata"
+        "image",
+        "afra",
+        "balibra",
+        "charter",
+        "det"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 112,
+      "token_count": 333,
       "section_type": "linked_image_asset",
       "children": []
     }

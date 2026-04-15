@@ -23,7 +23,27 @@ keywords:
 - ahead
 - alliance
 - bill
+linked_assets_discovered: 0
+linked_assets_failed: 0
+linked_assets_ingested: 0
+linked_assets_mirrored: 0
+linked_assets_skipped: 0
 market_tone: neutral
+numeric_observation_count: 1
+numeric_observations:
+- &id001
+  section: Main
+  section_type: null
+  source_line: Ahead of the IMO's Pollution Prevention and Response sub-committee
+    (PPR 12), which will meet from27-31 January 2025, this online briefing will provide
+    insights on the agenda, likely discussions and possible outcomes of importance
+    to ship operations in the Arct
+  unit: null
+  values:
+  - 12.0
+  - 7.0
+  - -31.0
+  - 2025.0
 regions:
 - atlantic
 - pacific
@@ -31,7 +51,10 @@ regions:
 - brazil
 - australia
 section_count: 1
-signals: {}
+signals:
+  numeric_observation_count: 1
+  numeric_observations:
+  - *id001
 source: hellenic
 source_path: reports/hellenic/dry_charter/2025/2025-01-23_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12.html
 source_stem: 2025-01-23_black-carbon-scrubbers-the-arctic-clean-arctic-alliance-briefing-for-imo-ppr-12

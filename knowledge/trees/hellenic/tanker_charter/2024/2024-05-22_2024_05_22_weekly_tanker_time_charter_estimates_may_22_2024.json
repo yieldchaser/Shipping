@@ -18,7 +18,7 @@
   ],
   "page_start": null,
   "page_end": null,
-  "token_count": 366,
+  "token_count": 408,
   "source_path": "reports/hellenic/tanker_charter/2024/2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024.html",
   "source_url": "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-may-22-2024",
   "children": [
@@ -35,28 +35,28 @@
       "ordinal": 1,
       "summary": "",
       "keywords": [
+        "assets/2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img1_22520240_81ddd182eceb.jpg",
         "image",
-        "reference",
-        "weekly-tanker-time-charter-estimates-may-22-2024_img2.jpg"
+        "reference"
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 30,
+      "token_count": 41,
       "section_type": null,
       "children": []
     },
     {
-      "node_id": "hellenic_tanker_charter_2024-05-22_2024_05_22_weekly_tanker_time_charter_estimates_may_22_2024__s02_linked_asset_2024_05_22_weekly_tanker_time_charter_estimates_may_22_2024_img2_jpg",
+      "node_id": "hellenic_tanker_charter_2024-05-22_2024_05_22_weekly_tanker_time_charter_estimates_may_22_2024__s02_linked_asset_2024_05_22_weekly_tanker_time_charter_estimates_may_22_2024_img1_22520240_81ddd182eceb_jpg",
       "doc_id": "hellenic_tanker_charter_2024-05-22_2024_05_22_weekly_tanker_time_charter_estimates_may_22_2024",
       "parent_id": "hellenic_tanker_charter_2024-05-22_2024_05_22_weekly_tanker_time_charter_estimates_may_22_2024__root",
-      "title": "Linked asset: 2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img2.jpg",
+      "title": "Linked asset: 2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img1_22520240_81ddd182eceb.jpg",
       "section_path": [
-        "Linked asset: 2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img2.jpg"
+        "Linked asset: 2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img1_22520240_81ddd182eceb.jpg"
       ],
-      "section_path_text": "Linked asset: 2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img2.jpg",
+      "section_path_text": "Linked asset: 2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img1_22520240_81ddd182eceb.jpg",
       "level": 1,
       "ordinal": 2,
-      "summary": "Source asset: reports/hellenic/tanker_charter/2024/2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img2.jpg\n\nLinked image asset: 2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img2.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nL A LI B R A Updated Weds 22 May 2024\nShipping Limited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY 29,000 26,000 24,000 21,000\nMR IMO3 31,000 27,000 27,500 24,000\nLR1 41,000 35,000 32,500 30,500\nLR2 52,500 42,500 44,500 38,500\nAFRA (115k dwt) | W 49,500 42,500 43,500 37,500\nSUEZ 47,500 42,500 44,500 40,000\nvicc 50,000 46,500 52,500 47,500",
+      "summary": "Source asset: reports/hellenic/tanker_charter/2024/assets/2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img1_22520240_81ddd182eceb.jpg\n\nLinked image asset: 2024-05-22_weekly-tanker-time-charter-estimates-may-22-2024_img1_22520240_81ddd182eceb.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (144.0, 144.0)\n\nOCR text:\nL A LI B R A Updated Weds 22 May 2024\nShipping Limited * Eco tonnage with Scrubber fitted\nTANKER TIME CHARTER ESTIMATE ($/pdpr)\nSIZE 1 YEAR 2 YEAR 3 YEAR* 5 YEAR*\nHANDY 29,000 26,000 24,000 21,000\nMR IMO3 31,000 27,000 27,500 24,000\nLR1 41,000 35,000 32,500 30,500\nLR2 52,500 42,500 44,500 38,500\nAFRA (115k dwt) | W 49,500 42,500 43,500 37,500\nSUEZ 47,500 42,500 44,500 40,000\nvicc 50,000 46,500 52,500 47,500",
       "keywords": [
         "handysize",
         "year",
@@ -69,7 +69,7 @@
       ],
       "page_start": null,
       "page_end": null,
-      "token_count": 302,
+      "token_count": 323,
       "section_type": "linked_image_asset",
       "children": []
     }
