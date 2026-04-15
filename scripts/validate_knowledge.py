@@ -899,12 +899,15 @@ def main():
 
     row_order = [row for row in ROW_ORDER if not selected_sources or row[0] in selected_sources]
     rows = []
+    coverage_gaps = []
     total_missing = 0
     for source, category, label in row_order:
         files = source_counts.get((source, category), 0)
         processed = processed_counts.get((source, category), 0)
         missing = files - processed
         total_missing += missing
+        if missing > 0:
+            coverage_gaps.append(f"{label} (files={files}, processed={processed}, missing={missing})")
         chunks = chunk_issues["chunk_counts"].get((source, category), 0)
         signals = signal_counts.get((source, category)) if source == "breakwave" else None
         rows.append((label, files, processed, missing, chunks, signals))
@@ -1005,6 +1008,8 @@ def main():
             + len(health_report_issues["invalid_payloads"])
         )
 
+    coverage_failures = total_missing if not scoped_mode else 0
+
     failures = (
         malformed_manifest_lines
         + chunk_issues["malformed_chunk_lines"]
@@ -1029,7 +1034,7 @@ def main():
         + len(bad_frontmatter)
         + len(section_count_mismatches)
         + breakwave_null_signals
-        + total_missing
+        + coverage_failures
         + global_failures
     )
 
@@ -1070,10 +1075,14 @@ def main():
         print_sample("Unresolved required local linked assets:", linked_asset_issues["unresolved_required_local"])
         print_sample("Invalid frontmatter docs:", bad_frontmatter)
         print_sample("Frontmatter section-count mismatches:", section_count_mismatches)
+        if not scoped_mode:
+            print_sample("Source coverage gaps:", coverage_gaps)
         return 1
 
     print_sample("Source hash version drifts (non-fatal):", manifest_issues["hash_version_drifts"])
     print_sample("External linked assets not mirrored (non-fatal):", linked_asset_issues["external_non_mirrored"])
+    if scoped_mode:
+        print_sample("Source coverage gaps (scoped non-fatal):", coverage_gaps)
 
     print("Validation status: PASS")
     return 0
