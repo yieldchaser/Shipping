@@ -8,7 +8,11 @@ commodities:
 date: null
 doc_id: book_lesson_2_types_of_ships
 document_type: reference_book
-key_entities: []
+key_entities:
+- NAMEPA
+- IHS Maritime
+- equasis.org
+- maritime-connector.com
 keywords:
 - lng
 - lpg
@@ -22,7 +26,7 @@ keywords:
 - cargo
 - maritime
 - source
-market_tone: constructive
+market_tone: informative_and_educational
 regions: []
 section_count: 19
 signals: {}
@@ -72,12 +76,10 @@ summary: 'NAMEPA''s Mission
 
   transporting goods from one place to another.'
 themes:
-- lng
-- lpg
-- container
-- grain
-- crude_oil
-- products
+- Environmental Protection
+- Global Logistics
+- Maritime Education
+- Industrial Infrastructure
 title: Lesson-2-Types-of-Ships
 vessel_classes:
 - lng
