@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2023-05-30_2023_05_30_weekly_vessel_valuations_report_may_30_2023__root",
+  "doc_id": "hellenic_vessel_valuations_2023-05-30_2023_05_30_weekly_vessel_valuations_report_may_30_2023",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, May 30 2023",
+  "section_path": [
+    "Weekly Vessel Valuations Report, May 30 2023"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, May 30 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers : Values have come down for old Supramaxes due to low prices achieved in recent sales of 20 YO vessels. Panamax BC Hong Cheng (75,200 DWT, Oct 2011, Penglai Zhongbai) sold to unknown Greek buyers for USD 17.20 mil, VV Value USD 17.39 mil\nUltramax BC Federal Iris (63,000 DWT, Aug 2016, Shin Kasado) sold to undisclosed buyers for USD 30 mil, VV Value USD 29.05 mil\nHandy BC Super Gunner (31,900 DWT, Feb 2009, Hakodate) sold to undisclosed buyers for USD 13 mil, VV Value USD 13.14 mil\nTankers : Tanker values remained stable\nAframax Sperchios (114,500 DWT, Feb 2018, Namura) sold to unknown Middle Easters buyers for USD 68.50 mil, VV Value USD 68.84 mil - SS/DD Due\nLR1 Gulf Coast, Gulf Horizon and Gulf Pearl (75,000 DWT, Nov 2005, Hyundai HI) sold to undisclosed buyers in an en bloc deal for USD 61.20 mil, VV Value USD 63.96 mil\nContainers : Container values have continued to firm marginally as a result of firming rates\nNo Container sales this week. Image reference: assets/2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg\n\nLinked asset: 2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "aframax",
+    "container",
+    "mil",
+    "usd",
+    "buyers",
+    "dwt",
+    "sold",
+    "value"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1215,
+  "source_path": "reports/hellenic/vessel_valuations/2023/2023-05-30_weekly-vessel-valuations-report-may-30-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-30-2023",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2023-05-30_2023_05_30_weekly_vessel_valuations_report_may_30_2023__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2023-05-30_2023_05_30_weekly_vessel_valuations_report_may_30_2023",
+      "parent_id": "hellenic_vessel_valuations_2023-05-30_2023_05_30_weekly_vessel_valuations_report_may_30_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers : Values have come down for old Supramaxes due to low prices achieved in recent sales of 20 YO vessels. Panamax BC Hong Cheng (75,200 DWT, Oct 2011, Penglai Zhongbai) sold to unknown Greek buyers for USD 17.20 mil, VV Value USD 17.39 mil\nUltramax BC Federal Iris (63,000 DWT, Aug 2016, Shin Kasado) sold to undisclosed buyers for USD 30 mil, VV Value USD 29.05 mil\nHandy BC Super Gunner (31,900 DWT, Feb 2009, Hakodate) sold to undisclosed buyers for USD 13 mil, VV Value USD 13.14 mil\nTankers : Tanker values remained stable\nAframax Sperchios (114,500 DWT, Feb 2018, Namura) sold to unknown Middle Easters buyers for USD 68.50 mil, VV Value USD 68.84 mil - SS/DD Due\nLR1 Gulf Coast, Gulf Horizon and Gulf Pearl (75,000 DWT, Nov 2005, Hyundai HI) sold to undisclosed buyers in an en bloc deal for USD 61.20 mil, VV Value USD 63.96 mil\nContainers : Container values have continued to firm marginally as a result of firming rates\nNo Container sales this week.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "aframax",
+        "container",
+        "mil",
+        "usd",
+        "buyers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 344,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2023-05-30_2023_05_30_weekly_vessel_valuations_report_may_30_2023__s02_linked_asset_2023_05_30_weekly_vessel_valuations_report_may_30_2023_img1_matrix_30th_may_2023_f89f5de67dd7_jpg",
+      "doc_id": "hellenic_vessel_valuations_2023-05-30_2023_05_30_weekly_vessel_valuations_report_may_30_2023",
+      "parent_id": "hellenic_vessel_valuations_2023-05-30_2023_05_30_weekly_vessel_valuations_report_may_30_2023__root",
+      "title": "Linked asset: 2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg",
+      "section_path": [
+        "Linked asset: 2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2023/assets/2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg\n\nLinked image asset: 2023-05-30_weekly-vessel-valuations-report-may-30-2023_img1_matrix-30th-may-2023_f89f5de67dd7.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nO vesselsValue= | $$\n30 May 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Sucz Afra tR1 MR Cape Pmax Supra Handy oon Pmax Handy Fmax\n° 0.3% - -O.B% 10.2% 10.2% -0.2% 1.4% 0.1% 0.5% = -0.1% 10.4% 410.4% 40.5% 0.0%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100\n5 \"0.3% - -O.5% - +0.2% 40.2% -0.4% \"0.9% - -O.1% 0.3% -0.2% +0.4% 40.4% 40.6% - -0.3%\n320k 160k 110k 75k 50k 180k 80k 60k 38% 7000 4250 1750 1100\nio 0.3% --0.4% -+0.3% 40.2% -0.4% 0.8% §- -O.1% §--1.2% - -0.1% +0.4% -+0.4% 40.7% -0.5%\n320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100\n15 \"0.3% -O.4% -+0.3% +0.2% -0.3% \"1.1% = -0.2% = -3.0% - -0.2% +0.4% +04% +0.8% -0.8%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100\n20 0.3% 0.8% 10.4% 410.2% 0.2% 0.0% 0.1% 5.4% 0.2% 10.4% 40.4% 40.3% \"1.0%\n305k 155k 105k 70k 45",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "asset",
+        "handy",
+        "image",
+        "n/a"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 823,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

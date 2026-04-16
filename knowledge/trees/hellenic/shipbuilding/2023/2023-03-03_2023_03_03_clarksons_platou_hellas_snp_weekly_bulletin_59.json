@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-03-03_2023_03_03_clarksons_platou_hellas_snp_weekly_bulletin_59__root",
+  "doc_id": "hellenic_shipbuilding_2023-03-03_2023_03_03_clarksons_platou_hellas_snp_weekly_bulletin_59",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, Hyundai Mipo announced contracting four firm 50k dwt MR's for an unnamed owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 03 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1 SS 01/25\nELIZABETH II 180,184 2007 IMABARI RGN USD 17.5 M U/D\nBWTS Due DD 08/23\nMAN B. 5S60ME-C8.5\n2020 COSCO HI SS 03/25\nASTON 63,614 4 x 30T RGN USD 30 M US BASED\n(YANGZHOU) DD 03/25\nScrubber & BWTS Fitted\n2010 CSC MAN B.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "gas",
+    "any",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1867,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-59",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-03-03_2023_03_03_clarksons_platou_hellas_snp_weekly_bulletin_59__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-03-03_2023_03_03_clarksons_platou_hellas_snp_weekly_bulletin_59",
+      "parent_id": "hellenic_shipbuilding_2023-03-03_2023_03_03_clarksons_platou_hellas_snp_weekly_bulletin_59__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, Hyundai Mipo announced contracting four firm 50k dwt MR's for an unnamed owner\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "building",
+        "clarkson",
+        "contracting",
+        "dwt",
+        "firm",
+        "four",
+        "hellas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-03-03_2023_03_03_clarksons_platou_hellas_snp_weekly_bulletin_59__s02_linked_asset_2023_03_03_clarksons_platou_hellas_snp_weekly_bulletin_59_report_03_03_2023_4888b2cbcdd6_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-03-03_2023_03_03_clarksons_platou_hellas_snp_weekly_bulletin_59",
+      "parent_id": "hellenic_shipbuilding_2023-03-03_2023_03_03_clarksons_platou_hellas_snp_weekly_bulletin_59__root",
+      "title": "Linked asset: 2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+      "section_path": [
+        "Linked asset: 2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-03-03_clarksons-platou-hellas-snp-weekly-bulletin-59_report-03-03-2023_4888b2cbcdd6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 03 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1 SS 01/25\nELIZABETH II 180,184 2007 IMABARI RGN USD 17.5 M U/D\nBWTS Due DD 08/23\nMAN B.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1782,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

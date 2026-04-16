@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2022-12-28_2022_12_28_best_oasis_weekly_recycling_market_report_27_december_2022__root",
+  "doc_id": "hellenic_demolition_2022-12-28_2022_12_28_best_oasis_weekly_recycling_market_report_27_december_2022",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 27 December 2022",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 27 December 2022"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 27 December 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 28/12/2022\nProspects for steel companies remain gloomy in Europe due to high and volatile energy costs, the looming\nSource: Best Oasis Limited\n\nLinked asset: 2022-12-28_Weekly-Ship-Recycling-Report_27_December_2022_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2022-12-28_Weekly-Ship-Recycling-Report_27_December_2022_compressed.pdf\n\n[OCR Page 1]\nWeekly ,\n@ ®\nL__\nShip Recycling 0A . bestoasis\nRe p O rt #PartneringWithTheBest\n16 December - 23 December 2022\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[OCR Page 2]\nHighlights of the Week\nWe thank you for your continued support and wish everyone a joyful & productive 2023. This will be the last report for the year 2022.",
+  "keywords": [
+    "container",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "japan",
+    "steel",
+    "gas",
+    "recycling",
+    "are",
+    "december",
+    "price"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1879,
+  "source_path": "reports/hellenic/demolition/2022/2022-12-28_best-oasis-weekly-recycling-market-report-27-december-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-27-december-2022",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2022-12-28_2022_12_28_best_oasis_weekly_recycling_market_report_27_december_2022__s01_main",
+      "doc_id": "hellenic_demolition_2022-12-28_2022_12_28_best_oasis_weekly_recycling_market_report_27_december_2022",
+      "parent_id": "hellenic_demolition_2022-12-28_2022_12_28_best_oasis_weekly_recycling_market_report_27_december_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 28/12/2022\nProspects for steel companies remain gloomy in Europe due to high and volatile energy costs, the looming\nSource: Best Oasis Limited",
+      "keywords": [
+        "europe",
+        "steel",
+        "best",
+        "companies",
+        "costs",
+        "demolition",
+        "due",
+        "energy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-12-28_2022_12_28_best_oasis_weekly_recycling_market_report_27_december_2022__s02_linked_asset_2022_12_28_weekly_ship_recycling_report_27_december_2022_compressed_pdf",
+      "doc_id": "hellenic_demolition_2022-12-28_2022_12_28_best_oasis_weekly_recycling_market_report_27_december_2022",
+      "parent_id": "hellenic_demolition_2022-12-28_2022_12_28_best_oasis_weekly_recycling_market_report_27_december_2022__root",
+      "title": "Linked asset: 2022-12-28_Weekly-Ship-Recycling-Report_27_December_2022_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2022-12-28_Weekly-Ship-Recycling-Report_27_December_2022_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-12-28_Weekly-Ship-Recycling-Report_27_December_2022_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-12-28_Weekly-Ship-Recycling-Report_27_December_2022_compressed.pdf\n\n[OCR Page 1]\nWeekly ,\n@ ®\nL__\nShip Recycling 0A . bestoasis\nRe p O rt #PartneringWithTheBest\n16 December - 23 December 2022\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[OCR Page 2]\nHighlights of the Week\nWe thank you for your continued support and wish everyone a joyful & productive 2023.",
+      "keywords": [
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "japan",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1806,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-12-16_2022_12_16_clarksons_platou_hellas_snp_weekly_bulletin_49__root",
+  "doc_id": "hellenic_shipbuilding_2022-12-16_2022_12_16_clarksons_platou_hellas_snp_weekly_bulletin_49",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building in dry bulk this week, COSCO Yangzhou announced taking orders for two firm 210k\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-12-16_clarksons-platou-hellas-snp-weekly-bulletin-49_report-16-12-2022_5566e5952a5e.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-12-16_clarksons-platou-hellas-snp-weekly-bulletin-49_report-16-12-2022_5566e5952a5e.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 16 December 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 06/26\nLOWLANDS SUNRISE 181,458 2011 KOYO USD 25.5 M GREEKS\nBWTS Fitted DD 04/24\nWISDOM OF THE SS 02/26\n180,144 2011 DAEHAN HIGH USD 23 M\nSEA 1 DD 12/23\nMAN B. 6S70MC-C7.2\nEUROPEANS\nBWTS Fitted\nWISDOM OF THE SS 11/25\n180,184 2011 DAEHAN HIGH USD 23 M\nSEA 2 DD 11/23\n2008 JIANGSU MAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "pacific",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2041,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-12-16_clarksons-platou-hellas-snp-weekly-bulletin-49.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-49",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-12-16_2022_12_16_clarksons_platou_hellas_snp_weekly_bulletin_49__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-12-16_2022_12_16_clarksons_platou_hellas_snp_weekly_bulletin_49",
+      "parent_id": "hellenic_shipbuilding_2022-12-16_2022_12_16_clarksons_platou_hellas_snp_weekly_bulletin_49__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building in dry bulk this week, COSCO Yangzhou announced taking orders for two firm 210k\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "building",
+        "clarkson",
+        "cosco",
+        "firm",
+        "hellas",
+        "ltd",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-12-16_2022_12_16_clarksons_platou_hellas_snp_weekly_bulletin_49__s02_linked_asset_2022_12_16_clarksons_platou_hellas_snp_weekly_bulletin_49_report_16_12_2022_5566e5952a5e_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-12-16_2022_12_16_clarksons_platou_hellas_snp_weekly_bulletin_49",
+      "parent_id": "hellenic_shipbuilding_2022-12-16_2022_12_16_clarksons_platou_hellas_snp_weekly_bulletin_49__root",
+      "title": "Linked asset: 2022-12-16_clarksons-platou-hellas-snp-weekly-bulletin-49_report-16-12-2022_5566e5952a5e.pdf",
+      "section_path": [
+        "Linked asset: 2022-12-16_clarksons-platou-hellas-snp-weekly-bulletin-49_report-16-12-2022_5566e5952a5e.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-12-16_clarksons-platou-hellas-snp-weekly-bulletin-49_report-16-12-2022_5566e5952a5e.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-12-16_clarksons-platou-hellas-snp-weekly-bulletin-49_report-16-12-2022_5566e5952a5e.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 16 December 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 06/26\nLOWLANDS SUNRISE 181,458 2011 KOYO USD 25.5 M GREEKS\nBWTS Fitted DD 04/24\nWISDOM OF THE SS 02/26\n180,144 2011 DAEHAN HIGH USD 23 M\nSEA 1 DD 12/23\nMAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "pacific",
+        "europe",
+        "india",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1960,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

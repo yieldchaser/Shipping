@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2026-03-07_2026_03_07_best_oasis_weekly_recycling_market_report_06_march_2026__root",
+  "doc_id": "hellenic_demolition_2026-03-07_2026_03_07_best_oasis_weekly_recycling_market_report_06_march_2026",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 06 March 2026",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 06 March 2026"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 06 March 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe week saw elevated geopolitical activity in the Middle East, particularly surrounding developments involving Iran. Source: Best Oasis Limited\n\nLinked asset: 2026-03-07_best-oasis-weekly-recycling-market-report-06-march-2026_weekly-ship-recycling-report-28-febr_f7606b5db3cd.pdf\nSource asset: reports/hellenic/demolition/pdfs/2026-03-07_best-oasis-weekly-recycling-market-report-06-march-2026_weekly-ship-recycling-report-28-febr_f7606b5db3cd.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(28 FEBRUARY - 06 MARCH) 2026\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nThe week saw elevated geopolitical activity in the Middle East, particularly surrounding\ndevelopments involving Iran. Throughout this period, the UAE has demonstrated strong\nleadership and resilience, proactively implementing precautionary measures, safeguarding\nstability, and ensuring uninterrupted safety and confidence for residents and businesses\nalike.",
+  "keywords": [
+    "container",
+    "india",
+    "gas",
+    "recycling",
+    "ship",
+    "usd",
+    "limited",
+    "activity",
+    "any",
+    "bangladesh",
+    "best",
+    "oasis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1176,
+  "source_path": "reports/hellenic/demolition/2026/2026-03-07_best-oasis-weekly-recycling-market-report-06-march-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-06-march-2026",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2026-03-07_2026_03_07_best_oasis_weekly_recycling_market_report_06_march_2026__s01_main",
+      "doc_id": "hellenic_demolition_2026-03-07_2026_03_07_best_oasis_weekly_recycling_market_report_06_march_2026",
+      "parent_id": "hellenic_demolition_2026-03-07_2026_03_07_best_oasis_weekly_recycling_market_report_06_march_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The week saw elevated geopolitical activity in the Middle East, particularly surrounding developments involving Iran.",
+      "keywords": [
+        "activity",
+        "best",
+        "developments",
+        "east",
+        "elevated",
+        "geopolitical",
+        "involving",
+        "iran."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-07_2026_03_07_best_oasis_weekly_recycling_market_report_06_march_2026__s02_linked_asset_2026_03_07_best_oasis_weekly_recycling_market_report_06_march_2026_weekly_ship_recycling_report_28_febr_f7606b5db3cd_pdf",
+      "doc_id": "hellenic_demolition_2026-03-07_2026_03_07_best_oasis_weekly_recycling_market_report_06_march_2026",
+      "parent_id": "hellenic_demolition_2026-03-07_2026_03_07_best_oasis_weekly_recycling_market_report_06_march_2026__root",
+      "title": "Linked asset: 2026-03-07_best-oasis-weekly-recycling-market-report-06-march-2026_weekly-ship-recycling-report-28-febr_f7606b5db3cd.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-07_best-oasis-weekly-recycling-market-report-06-march-2026_weekly-ship-recycling-report-28-febr_f7606b5db3cd.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-07_best-oasis-weekly-recycling-market-report-06-march-2026_weekly-ship-recycling-report-28-febr_f7606b5db3cd.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-03-07_best-oasis-weekly-recycling-market-report-06-march-2026_weekly-ship-recycling-report-28-febr_f7606b5db3cd.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(28 FEBRUARY - 06 MARCH) 2026\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nThe week saw elevated geopolitical activity in the Middle East, particularly surrounding\ndevelopments involving Iran. Throughout this period, the UAE has demonstrated strong\nleadership and resilience, proactively implementing precautionary measures, safeguarding\nstability, and ensuring uninterrupted safety and confidence for residents and businesses\nalike.",
+      "keywords": [
+        "container",
+        "india",
+        "gas",
+        "recycling",
+        "ship",
+        "usd",
+        "any",
+        "bangladesh"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1104,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

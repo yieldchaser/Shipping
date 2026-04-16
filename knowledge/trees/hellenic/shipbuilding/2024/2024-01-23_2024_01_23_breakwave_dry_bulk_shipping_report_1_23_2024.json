@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2024-01-23_2024_01_23_breakwave_dry_bulk_shipping_report_1_23_2024__root",
+  "doc_id": "hellenic_shipbuilding_2024-01-23_2024_01_23_breakwave_dry_bulk_shipping_report_1_23_2024",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 1.23.2024",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 1.23.2024"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 1.23.2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA revival in Atlantic activity brings stability and optimism - Seasonality is a powerful driver of\nSource: Breakwave Advisors\n\nLinked asset: 2024-01-23_breakwave-dry-bulk-shipping-report-1-23-2024_breakwavedryjanuary232024report_7e4306b98f2c.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-01-23_breakwave-dry-bulk-shipping-report-1-23-2024_breakwavedryjanuary232024report_7e4306b98f2c.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 23, 2024\nBreakwave Dry Futures Index: 1,563 Baltic Dry Index (spot): 1,518 Short-term Indicators:\n↑ 30D: 4.3% ↓ 30D: -27.5% Momentum: Neutral\n↑ YTD: 4.3% ↓ YTD: -27.5% Sentiment: Positive\n↑ YOY: 44.3% ↑ YOY: 99.0% Fundamentals: Negative\nBi-Weekly Report\n• A revival in Atlantic activity brings stability and optimism - Seasonality is a powerful driver of shipping rates, but\nultimately it is the supply/demand balance that shapes short term freight. The Atlantic basin seems tight in Capesize\ntonnage, and there are several reasons for such circumstances in the middle of winter: The Red Sea events have led\nto diversions which means ballasting tonnage through the Suez Canal is limited while bad weather in northern Europe\ncontinues to delay ships and p",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1522,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-01-23_breakwave-dry-bulk-shipping-report-1-23-2024.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-1-23-2024",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2024-01-23_2024_01_23_breakwave_dry_bulk_shipping_report_1_23_2024__s01_main",
+      "doc_id": "hellenic_shipbuilding_2024-01-23_2024_01_23_breakwave_dry_bulk_shipping_report_1_23_2024",
+      "parent_id": "hellenic_shipbuilding_2024-01-23_2024_01_23_breakwave_dry_bulk_shipping_report_1_23_2024__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A revival in Atlantic activity brings stability and optimism - Seasonality is a powerful driver of\nSource: Breakwave Advisors",
+      "keywords": [
+        "atlantic",
+        "activity",
+        "brings",
+        "driver",
+        "optimism",
+        "powerful",
+        "revival",
+        "seasonality"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-01-23_2024_01_23_breakwave_dry_bulk_shipping_report_1_23_2024__s02_linked_asset_2024_01_23_breakwave_dry_bulk_shipping_report_1_23_2024_breakwavedryjanuary232024report_7e4306b98f2c_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-01-23_2024_01_23_breakwave_dry_bulk_shipping_report_1_23_2024",
+      "parent_id": "hellenic_shipbuilding_2024-01-23_2024_01_23_breakwave_dry_bulk_shipping_report_1_23_2024__root",
+      "title": "Linked asset: 2024-01-23_breakwave-dry-bulk-shipping-report-1-23-2024_breakwavedryjanuary232024report_7e4306b98f2c.pdf",
+      "section_path": [
+        "Linked asset: 2024-01-23_breakwave-dry-bulk-shipping-report-1-23-2024_breakwavedryjanuary232024report_7e4306b98f2c.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-01-23_breakwave-dry-bulk-shipping-report-1-23-2024_breakwavedryjanuary232024report_7e4306b98f2c.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-01-23_breakwave-dry-bulk-shipping-report-1-23-2024_breakwavedryjanuary232024report_7e4306b98f2c.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 23, 2024\nBreakwave Dry Futures Index: 1,563 Baltic Dry Index (spot): 1,518 Short-term Indicators:\n↑ 30D: 4.3% ↓ 30D: -27.5% Momentum: Neutral\n↑ YTD: 4.3% ↓ YTD: -27.5% Sentiment: Positive\n↑ YOY: 44.3% ↑ YOY: 99.0% Fundamentals: Negative\nBi-Weekly Report\n• A revival in Atlantic activity brings stability and optimism - Seasonality is a powerful driver of shipping rates, but\nultimately it is the supply/demand balance that shapes short term freight. The Atlantic basin seems tight in Capesize\ntonnage, and there are several reasons for such circumstances in the middle of winter: The Red Sea events have led\nto diversions which means ballasting tonnage through the Suez Canal is limited while bad weather in northern Europe\ncontinues to delay ships and port operations.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1449,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

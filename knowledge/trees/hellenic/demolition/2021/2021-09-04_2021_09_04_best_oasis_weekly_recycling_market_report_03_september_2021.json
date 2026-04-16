@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-09-04_2021_09_04_best_oasis_weekly_recycling_market_report_03_september_2021__root",
+  "doc_id": "hellenic_demolition_2021-09-04_2021_09_04_best_oasis_weekly_recycling_market_report_03_september_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 03 September 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 03 September 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 03 September 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe subcontinent recycling market has witnessed some correction in prices, but the prevailing prices are still relatively high given the fact\nSource: Best Oasis Limited\n\nLinked asset: 2021-09-04_best-oasis-weekly-recycling-market-report-03-september-2021_weekly-ship-recycling-report_d6300b8cb96b.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-09-04_best-oasis-weekly-recycling-market-report-03-september-2021_weekly-ship-recycling-report_d6300b8cb96b.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n27t h August to 3rd September 2021\nHighlights of the Week\nThe subcontinent recycling market has witnessed some correction in prices,\njhhnhu\nbut the prevailing prices are still relatively high given the fact that they have\nalready climbed to unprecedented levels this year. The owners and end\nbuyers are both gauging the market sentiments and holding back their\noffers till few deals finalize and define the direction of the prices. The\nongoing scarcity of tonnage will ensure that the prices remain range-bound\ndespite apprehension from end buyers in offering prices at these levels.",
+  "keywords": [
+    "lng",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "us_gulf",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1818,
+  "source_path": "reports/hellenic/demolition/2021/2021-09-04_best-oasis-weekly-recycling-market-report-03-september-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-03-september-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-09-04_2021_09_04_best_oasis_weekly_recycling_market_report_03_september_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-09-04_2021_09_04_best_oasis_weekly_recycling_market_report_03_september_2021",
+      "parent_id": "hellenic_demolition_2021-09-04_2021_09_04_best_oasis_weekly_recycling_market_report_03_september_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The subcontinent recycling market has witnessed some correction in prices, but the prevailing prices are still relatively high given the fact\nSource: Best Oasis Limited",
+      "keywords": [
+        "europe",
+        "prices",
+        "are",
+        "best",
+        "but",
+        "correction",
+        "fact",
+        "given"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-09-04_2021_09_04_best_oasis_weekly_recycling_market_report_03_september_2021__s02_linked_asset_2021_09_04_best_oasis_weekly_recycling_market_report_03_september_2021_weekly_ship_recycling_report_d6300b8cb96b_pdf",
+      "doc_id": "hellenic_demolition_2021-09-04_2021_09_04_best_oasis_weekly_recycling_market_report_03_september_2021",
+      "parent_id": "hellenic_demolition_2021-09-04_2021_09_04_best_oasis_weekly_recycling_market_report_03_september_2021__root",
+      "title": "Linked asset: 2021-09-04_best-oasis-weekly-recycling-market-report-03-september-2021_weekly-ship-recycling-report_d6300b8cb96b.pdf",
+      "section_path": [
+        "Linked asset: 2021-09-04_best-oasis-weekly-recycling-market-report-03-september-2021_weekly-ship-recycling-report_d6300b8cb96b.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-09-04_best-oasis-weekly-recycling-market-report-03-september-2021_weekly-ship-recycling-report_d6300b8cb96b.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-09-04_best-oasis-weekly-recycling-market-report-03-september-2021_weekly-ship-recycling-report_d6300b8cb96b.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n27t h August to 3rd September 2021\nHighlights of the Week\nThe subcontinent recycling market has witnessed some correction in prices,\njhhnhu\nbut the prevailing prices are still relatively high given the fact that they have\nalready climbed to unprecedented levels this year. The owners and end\nbuyers are both gauging the market sentiments and holding back their\noffers till few deals finalize and define the direction of the prices.",
+      "keywords": [
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "us_gulf",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1742,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

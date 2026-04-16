@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-11-18_2022_11_18_clarksons_platou_hellas_snp_weekly_bulletin_45__root",
+  "doc_id": "hellenic_shipbuilding_2022-11-18_2022_11_18_clarksons_platou_hellas_snp_weekly_bulletin_45",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, Al Seer Marine announced orders for four firm 50k MR tankers at K Shipbuilding. Source: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 18 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1\nCHINA STEEL 203,512 2007 CSBC SS 01/27\nBWTS Fitted\nENTREPRENEUR DD 01/25 USD 35.5 M\nGREEKS\nMAN B.",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "china",
+    "atlantic",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2043,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-45",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-11-18_2022_11_18_clarksons_platou_hellas_snp_weekly_bulletin_45__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-11-18_2022_11_18_clarksons_platou_hellas_snp_weekly_bulletin_45",
+      "parent_id": "hellenic_shipbuilding_2022-11-18_2022_11_18_clarksons_platou_hellas_snp_weekly_bulletin_45__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, Al Seer Marine announced orders for four firm 50k MR tankers at K Shipbuilding.",
+      "keywords": [
+        "tankers",
+        "announced",
+        "building",
+        "clarkson",
+        "firm",
+        "four",
+        "hellas",
+        "ltd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-11-18_2022_11_18_clarksons_platou_hellas_snp_weekly_bulletin_45__s02_linked_asset_2022_11_18_clarksons_platou_hellas_snp_weekly_bulletin_45_report_18_11_2022_bdf8f91df692_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-11-18_2022_11_18_clarksons_platou_hellas_snp_weekly_bulletin_45",
+      "parent_id": "hellenic_shipbuilding_2022-11-18_2022_11_18_clarksons_platou_hellas_snp_weekly_bulletin_45__root",
+      "title": "Linked asset: 2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf",
+      "section_path": [
+        "Linked asset: 2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-11-18_clarksons-platou-hellas-snp-weekly-bulletin-45_report-18-11-2022_bdf8f91df692.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 18 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1\nCHINA STEEL 203,512 2007 CSBC SS 01/27\nBWTS Fitted\nENTREPRENEUR DD 01/25 USD 35.5 M\nGREEKS\nMAN B.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "china",
+        "atlantic",
+        "europe",
+        "india",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1958,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

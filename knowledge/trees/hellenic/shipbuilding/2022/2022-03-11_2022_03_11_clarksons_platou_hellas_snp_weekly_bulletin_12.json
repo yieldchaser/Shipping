@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-03-11_2022_03_11_clarksons_platou_hellas_snp_weekly_bulletin_12__root",
+  "doc_id": "hellenic_shipbuilding_2022-03-11_2022_03_11_clarksons_platou_hellas_snp_weekly_bulletin_12",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn tankers this week, Taizhou Wuzhou announced taking order for a firm 9,400 dwt Stainless Steel Chemical Tanker from Wuzhou Tongzhou Shipping\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-03-11_clarksons-platou-hellas-snp-weekly-bulletin-12_report-11-03-2022_904b180a0b0a.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-03-11_clarksons-platou-hellas-snp-weekly-bulletin-12_report-11-03-2022_904b180a0b0a.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 11 March 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S60MC SS 02/26\nSEA MELODY I 75,957 2002 TSUNEISHI ZOSEN USD 13.4 M CHINESE\nBWTS fitted DD 07/23\nSS 08/23\nGOYA 75,750 2008 JIANGSU RONGSHENG MAN-B&W 5S60MC-C7.1 HIGH USD 15 M CHINESE\nDD 08/23\nMAN-B&W 5S60ME-C8\nSS 08/22 HK BASED\nHANTON TRADER II 63,486 2014 JIANGSU HANTONG 4 x 30 T USD 25.75 M\nDD 06/22 (c/o Jinhui Shipping)\nBWTS fitted\nMAN-B&W 6S50MC-C SS 06/25\nHAI LONG 56,083 2007 MITSUI RGN USD 16 M CHINESE\n4 x 30 T DD 06/23\nMAN-B&W 6S50MC-C SS 03/23\nPRABHU GOPAL 56,025 2003 MITSUI RGN USD 14 M U/D\n4 x 30 T DD 03/23\nMAN-B&W 6S50MC-C\nSS 01/24\nJIN CHENG 53,806 2004 NEW CENTURY 4 x 30 T USD 13.9 M CHINESE\nDD 01/24\nBWTS fitted",
+  "keywords": [
+    "handysize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons",
+    "platou"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2097,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-03-11_clarksons-platou-hellas-snp-weekly-bulletin-12.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-12",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-03-11_2022_03_11_clarksons_platou_hellas_snp_weekly_bulletin_12__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-03-11_2022_03_11_clarksons_platou_hellas_snp_weekly_bulletin_12",
+      "parent_id": "hellenic_shipbuilding_2022-03-11_2022_03_11_clarksons_platou_hellas_snp_weekly_bulletin_12__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tankers this week, Taizhou Wuzhou announced taking order for a firm 9,400 dwt Stainless Steel Chemical Tanker from Wuzhou Tongzhou Shipping\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "steel",
+        "wuzhou",
+        "announced",
+        "chemical",
+        "clarkson",
+        "dwt",
+        "firm",
+        "hellas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 47,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-03-11_2022_03_11_clarksons_platou_hellas_snp_weekly_bulletin_12__s02_linked_asset_2022_03_11_clarksons_platou_hellas_snp_weekly_bulletin_12_report_11_03_2022_904b180a0b0a_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-03-11_2022_03_11_clarksons_platou_hellas_snp_weekly_bulletin_12",
+      "parent_id": "hellenic_shipbuilding_2022-03-11_2022_03_11_clarksons_platou_hellas_snp_weekly_bulletin_12__root",
+      "title": "Linked asset: 2022-03-11_clarksons-platou-hellas-snp-weekly-bulletin-12_report-11-03-2022_904b180a0b0a.pdf",
+      "section_path": [
+        "Linked asset: 2022-03-11_clarksons-platou-hellas-snp-weekly-bulletin-12_report-11-03-2022_904b180a0b0a.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-03-11_clarksons-platou-hellas-snp-weekly-bulletin-12_report-11-03-2022_904b180a0b0a.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-03-11_clarksons-platou-hellas-snp-weekly-bulletin-12_report-11-03-2022_904b180a0b0a.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 11 March 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S60MC SS 02/26\nSEA MELODY I 75,957 2002 TSUNEISHI ZOSEN USD 13.4 M CHINESE\nBWTS fitted DD 07/23\nSS 08/23\nGOYA 75,750 2008 JIANGSU RONGSHENG MAN-B&W 5S60MC-C7.1 HIGH USD 15 M CHINESE\nDD 08/23\nMAN-B&W 5S60ME-C8\nSS 08/22 HK BASED\nHANTON TRADER II 63,486 2014 JIANGSU HANTONG 4 x 30 T USD 25.75 M\nDD 06/22 (c/o Jinhui Shipping)\nBWTS fitted\nMAN-B&W 6S50MC-C SS 06/25\nHAI LONG 56,083 2007 MITSUI RGN USD 16 M CHINESE\n4 x 30 T DD 06/23\nMAN-B&W 6S50MC-C SS 03/23\nPRABHU GOPAL 56,025 2003 MITSUI RGN USD 14 M U/D\n4 x 30 T DD 03/23\nMAN-B&W 6S50MC-C\nSS 01/24\nJIN CHENG 53,806 2004 NEW CENTURY 4 x 30 T USD 13.9 M CHINESE\nDD 01/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 7S60ME-C SS 11/25\nSTENA ARCTICA 117,099 2005 HHI HIGH USD 14 M U/D\nICE 1A DD 10/23\nSS 06/25\nSRI ASIH 109,637 2005 DALIAN SULZER 7RTA62U USD 14.6 M U/D\nDD 12/23\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P",
+      "keywords": [
+        "handysize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2001,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

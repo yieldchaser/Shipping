@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-06-20_2023_06_20_breakwave_dry_bulk_shipping_report_6_20_2023__root",
+  "doc_id": "hellenic_shipbuilding_2023-06-20_2023_06_20_breakwave_dry_bulk_shipping_report_6_20_2023",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 6.20.2023",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 6.20.2023"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 6.20.2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFutures curve continues to adjust to an uninspiring macro outlook - With the summer months upon us, dry bulk markets are faced\nSource: Breakwave Advisors\n\nLinked asset: 2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 20, 2023\nBreakwave Dry Futures Index: 1,400 Baltic Dry Index (spot): 1,076 Short-term Indicators:\n↓ 30D: -9.0% ↓ 30D: -27.1% Momentum: Positive\n↑ YTD: 36.3% ↓ YTD: -29.0% Sentiment: Neutral\n↓ YOY: -51.8% ↓ YOY: -56.3% Fundamentals: Neutral\nBi-Weekly Report\n• Futures curve continues to adjust to an uninspiring macro outlook - With the summer months upon us, dry bulk\nmarkets are faced with softening economic activity out of China, which remains the main demand driver for the\nsector. So far China has failed to excite, and although the year-over-year comps look impressive, one should always\nkeep in mind the considerable base effects on such comparisons. On more normalized levels, iron ore imports into\nChina have now been relatively ste",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1468,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-20-2023",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-06-20_2023_06_20_breakwave_dry_bulk_shipping_report_6_20_2023__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-06-20_2023_06_20_breakwave_dry_bulk_shipping_report_6_20_2023",
+      "parent_id": "hellenic_shipbuilding_2023-06-20_2023_06_20_breakwave_dry_bulk_shipping_report_6_20_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Futures curve continues to adjust to an uninspiring macro outlook - With the summer months upon us, dry bulk markets are faced\nSource: Breakwave Advisors",
+      "keywords": [
+        "adjust",
+        "are",
+        "continues",
+        "curve",
+        "faced",
+        "macro",
+        "markets",
+        "months"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-06-20_2023_06_20_breakwave_dry_bulk_shipping_report_6_20_2023__s02_linked_asset_2023_06_20_breakwave_dry_bulk_shipping_report_6_20_2023_breakwavejune202023report_3545fba907d0_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-06-20_2023_06_20_breakwave_dry_bulk_shipping_report_6_20_2023",
+      "parent_id": "hellenic_shipbuilding_2023-06-20_2023_06_20_breakwave_dry_bulk_shipping_report_6_20_2023__root",
+      "title": "Linked asset: 2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf",
+      "section_path": [
+        "Linked asset: 2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-20_breakwave-dry-bulk-shipping-report-6-20-2023_breakwavejune202023report_3545fba907d0.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJune 20, 2023\nBreakwave Dry Futures Index: 1,400 Baltic Dry Index (spot): 1,076 Short-term Indicators:\n↓ 30D: -9.0% ↓ 30D: -27.1% Momentum: Positive\n↑ YTD: 36.3% ↓ YTD: -29.0% Sentiment: Neutral\n↓ YOY: -51.8% ↓ YOY: -56.3% Fundamentals: Neutral\nBi-Weekly Report\n• Futures curve continues to adjust to an uninspiring macro outlook - With the summer months upon us, dry bulk\nmarkets are faced with softening economic activity out of China, which remains the main demand driver for the\nsector. So far China has failed to excite, and although the year-over-year comps look impressive, one should always\nkeep in mind the considerable base effects on such comparisons.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1391,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

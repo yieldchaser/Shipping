@@ -1,0 +1,89 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-02-03_2026_02_03_breakwave_dry_bulk_shipping_report_2_3_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-02-03_2026_02_03_breakwave_dry_bulk_shipping_report_2_3_2026",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 2.3.2026",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 2.3.2026"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 2.3.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA January for the Records - January 2026 will be remembered as a significant positive outlier for the dry bulk\nSource: Breakwave Advisors\n\nLinked asset: 2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026_breakwavedryfebruary32026report_130bb9dcfd90.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026_breakwavedryfebruary32026report_130bb9dcfd90.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nFebruary 3, 2026\n• A January for the Records - January 2026 will be remembered as a significant\nShort-term Indicators\npositive outlier for the dry bulk market; after an anticipated seasonal weakening\nMomentum: Positive\nduring the year-end period, the Capesize market staged a dramatic reversal with\nspot rates reaching nearly $30,000, exceeding multi-year historical ranges and Sentiment: Positive\nsignificantly outpacing initial expectations. While the specific drivers of this rally are Fundamentals: Negative\nmultifaceted, key factors included persistent adverse weather in the Northern\nAtlantic restricting vessel supply, alongside steady bauxite flows in the South\nBreakwave Dry\nAtlantic and unexpectedly robust export perform",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1616,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-2-3-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-02-03_2026_02_03_breakwave_dry_bulk_shipping_report_2_3_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-02-03_2026_02_03_breakwave_dry_bulk_shipping_report_2_3_2026",
+      "parent_id": "hellenic_shipbuilding_2026-02-03_2026_02_03_breakwave_dry_bulk_shipping_report_2_3_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A January for the Records - January 2026 will be remembered as a significant positive outlier for the dry bulk\nSource: Breakwave Advisors",
+      "keywords": [
+        "january",
+        "outlier",
+        "positive",
+        "records",
+        "remembered",
+        "significant",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 28,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-02-03_2026_02_03_breakwave_dry_bulk_shipping_report_2_3_2026__s02_linked_asset_2026_02_03_breakwave_dry_bulk_shipping_report_2_3_2026_breakwavedryfebruary32026report_130bb9dcfd90_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-02-03_2026_02_03_breakwave_dry_bulk_shipping_report_2_3_2026",
+      "parent_id": "hellenic_shipbuilding_2026-02-03_2026_02_03_breakwave_dry_bulk_shipping_report_2_3_2026__root",
+      "title": "Linked asset: 2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026_breakwavedryfebruary32026report_130bb9dcfd90.pdf",
+      "section_path": [
+        "Linked asset: 2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026_breakwavedryfebruary32026report_130bb9dcfd90.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026_breakwavedryfebruary32026report_130bb9dcfd90.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-03_breakwave-dry-bulk-shipping-report-2-3-2026_breakwavedryfebruary32026report_130bb9dcfd90.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nFebruary 3, 2026\n• A January for the Records - January 2026 will be remembered as a significant\nShort-term Indicators\npositive outlier for the dry bulk market; after an anticipated seasonal weakening\nMomentum: Positive\nduring the year-end period, the Capesize market staged a dramatic reversal with\nspot rates reaching nearly $30,000, exceeding multi-year historical ranges and Sentiment: Positive\nsignificantly outpacing initial expectations. While the specific drivers of this rally are Fundamentals: Negative\nmultifaceted, key factors included persistent adverse weather in the Northern\nAtlantic restricting vessel supply, alongside steady bauxite flows in the South\nBreakwave Dry\nAtlantic and unexpectedly robust export performance for iron ore in the Pacific 2260\nFutures Index:\nBasin.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1541,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

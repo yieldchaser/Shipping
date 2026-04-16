@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2023-11-11_2023_11_11_best_oasis_weekly_recycling_market_report_10_november_2023__root",
+  "doc_id": "hellenic_demolition_2023-11-11_2023_11_11_best_oasis_weekly_recycling_market_report_10_november_2023",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 10 November 2023",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 10 November 2023"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 10 November 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 11/11/2023\nWe extend our sincerest wishes to our esteemed readers for a happy and prosperous Diwali, a festival symbolizing the vibrant celebration of lights. Theimportance of Diwali lies\nSource: Best Oasis Limited\n\nLinked asset: 2023-11-11_Weekly-Ship-Recycling-Report-04-November-10-November-2023_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2023-11-11_Weekly-Ship-Recycling-Report-04-November-10-November-2023_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n04 November 2023 - 10 November 2023\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the Week\nWe extend our sincerest wishes to our esteemed readers for a happy and prosperous Diwali, a festival symbolizing the vibrant celebration of lights. The\nimportance of Diwali lies in its symbolic representation of the triumph of light over darkness.",
+  "keywords": [
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "coal",
+    "crude_oil",
+    "steel",
+    "gas",
+    "recycling"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2576,
+  "source_path": "reports/hellenic/demolition/2023/2023-11-11_best-oasis-weekly-recycling-market-report-10-november-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-10-november-2023",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2023-11-11_2023_11_11_best_oasis_weekly_recycling_market_report_10_november_2023__s01_main",
+      "doc_id": "hellenic_demolition_2023-11-11_2023_11_11_best_oasis_weekly_recycling_market_report_10_november_2023",
+      "parent_id": "hellenic_demolition_2023-11-11_2023_11_11_best_oasis_weekly_recycling_market_report_10_november_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 11/11/2023\nWe extend our sincerest wishes to our esteemed readers for a happy and prosperous Diwali, a festival symbolizing the vibrant celebration of lights. Theimportance of Diwali lies\nSource: Best Oasis Limited",
+      "keywords": [
+        "diwali",
+        "our",
+        "best",
+        "celebration",
+        "demolition",
+        "esteemed",
+        "extend",
+        "festival"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2023-11-11_2023_11_11_best_oasis_weekly_recycling_market_report_10_november_2023__s02_linked_asset_2023_11_11_weekly_ship_recycling_report_04_november_10_november_2023_compressed_pdf",
+      "doc_id": "hellenic_demolition_2023-11-11_2023_11_11_best_oasis_weekly_recycling_market_report_10_november_2023",
+      "parent_id": "hellenic_demolition_2023-11-11_2023_11_11_best_oasis_weekly_recycling_market_report_10_november_2023__root",
+      "title": "Linked asset: 2023-11-11_Weekly-Ship-Recycling-Report-04-November-10-November-2023_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2023-11-11_Weekly-Ship-Recycling-Report-04-November-10-November-2023_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-11-11_Weekly-Ship-Recycling-Report-04-November-10-November-2023_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2023-11-11_Weekly-Ship-Recycling-Report-04-November-10-November-2023_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n04 November 2023 - 10 November 2023\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the Week\nWe extend our sincerest wishes to our esteemed readers for a happy and prosperous Diwali, a festival symbolizing the vibrant celebration of lights. The\nimportance of Diwali lies in its symbolic representation of the triumph of light over darkness.",
+      "keywords": [
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2482,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

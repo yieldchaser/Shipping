@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-03-24_2023_03_24_clarksons_platou_hellas_snp_weekly_bulletin_62__root",
+  "doc_id": "hellenic_shipbuilding_2023-03-24_2023_03_24_clarksons_platou_hellas_snp_weekly_bulletin_62",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in the gas carrier market this week, Hyundai announced signing contracts with Arab Maritime Petro (AMPTC)\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 24 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2012 SHANGHAI MAN B. 5S60MC6.2 SS 05/27\nHUI XIN 9 75,658 XS USD 17 M EUROPEANS\nSHIPYARD BWTS Ordered DD 05/25\n2009 TSUNEISHI MAN B. 6S50MC6.2 SS 05/24\nCARMENCITA 58,773 USD 16 M U/D\n(CEBU) 4 x 30 T, BWTS Fitted DD 05/24\nUSD 18.9 M\n2012 TSUNEISHI MAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "india",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "usd",
+    "are",
+    "bwts"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2192,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-62",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-03-24_2023_03_24_clarksons_platou_hellas_snp_weekly_bulletin_62__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-03-24_2023_03_24_clarksons_platou_hellas_snp_weekly_bulletin_62",
+      "parent_id": "hellenic_shipbuilding_2023-03-24_2023_03_24_clarksons_platou_hellas_snp_weekly_bulletin_62__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in the gas carrier market this week, Hyundai announced signing contracts with Arab Maritime Petro (AMPTC)\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "gas",
+        "amptc",
+        "announced",
+        "arab",
+        "building",
+        "carrier",
+        "clarkson",
+        "contracts"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-03-24_2023_03_24_clarksons_platou_hellas_snp_weekly_bulletin_62__s02_linked_asset_2023_03_24_clarksons_platou_hellas_snp_weekly_bulletin_62_report_24_03_2023_4346978973de_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-03-24_2023_03_24_clarksons_platou_hellas_snp_weekly_bulletin_62",
+      "parent_id": "hellenic_shipbuilding_2023-03-24_2023_03_24_clarksons_platou_hellas_snp_weekly_bulletin_62__root",
+      "title": "Linked asset: 2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de.pdf",
+      "section_path": [
+        "Linked asset: 2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-03-24_clarksons-platou-hellas-snp-weekly-bulletin-62_report-24-03-2023_4346978973de.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 24 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2012 SHANGHAI MAN B. 5S60MC6.2 SS 05/27\nHUI XIN 9 75,658 XS USD 17 M EUROPEANS\nSHIPYARD BWTS Ordered DD 05/25\n2009 TSUNEISHI MAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "india",
+        "gas",
+        "any",
+        "clarksons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2113,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

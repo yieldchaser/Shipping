@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-06-30_2023_06_30_clarksons_platou_hellas_snp_weekly_bulletin_76__root",
+  "doc_id": "hellenic_shipbuilding_2023-06-30_2023_06_30_clarksons_platou_hellas_snp_weekly_bulletin_76",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building Klavness Comination Carriers announced ordering three firm 83k dwt CABU carriers at Yangzijiang, with the vessels set to deliver in 1Q\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 30 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2011 HHIC- MAN B. 6S70MC- SS 08/25\nAQUARANGE 179,842 USD 23 M GREEKS\nPHILIPPINES C8.2, BWTS fitted DD 07/23\nRIKKE 81,895 2016 TSUNEISHI MAN B. 6S60ME-C8.2, SS 07/26 XS USD 27 M GREEKS\nZHOUSHAN BWTS fitted DD 07/24\nMAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2105,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-76",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-06-30_2023_06_30_clarksons_platou_hellas_snp_weekly_bulletin_76__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-06-30_2023_06_30_clarksons_platou_hellas_snp_weekly_bulletin_76",
+      "parent_id": "hellenic_shipbuilding_2023-06-30_2023_06_30_clarksons_platou_hellas_snp_weekly_bulletin_76__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building Klavness Comination Carriers announced ordering three firm 83k dwt CABU carriers at Yangzijiang, with the vessels set to deliver in 1Q\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "carriers",
+        "announced",
+        "building",
+        "cabu",
+        "clarkson",
+        "comination",
+        "deliver",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 48,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-06-30_2023_06_30_clarksons_platou_hellas_snp_weekly_bulletin_76__s02_linked_asset_2023_06_30_clarksons_platou_hellas_snp_weekly_bulletin_76_report_30_06_2023_b9ebf8ef18b6_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-06-30_2023_06_30_clarksons_platou_hellas_snp_weekly_bulletin_76",
+      "parent_id": "hellenic_shipbuilding_2023-06-30_2023_06_30_clarksons_platou_hellas_snp_weekly_bulletin_76__root",
+      "title": "Linked asset: 2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6.pdf",
+      "section_path": [
+        "Linked asset: 2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-30_clarksons-platou-hellas-snp-weekly-bulletin-76_report-30-06-2023_b9ebf8ef18b6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 30 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2011 HHIC- MAN B. 6S70MC- SS 08/25\nAQUARANGE 179,842 USD 23 M GREEKS\nPHILIPPINES C8.2, BWTS fitted DD 07/23\nRIKKE 81,895 2016 TSUNEISHI MAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2008,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

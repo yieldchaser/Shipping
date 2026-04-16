@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-10-16_2021_10_16_best_oasis_weekly_recycling_market_report_15_october_2021__root",
+  "doc_id": "hellenic_demolition_2021-10-16_2021_10_16_best_oasis_weekly_recycling_market_report_15_october_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 15 October 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 15 October 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 15 October 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe subcontinent recycling market is showing rapid signs of improvement as the demand for steel is soaring day by day\nSource: Best Oasis Limited\n\nLinked asset: 2021-10-16_best-oasis-weekly-recycling-market-report-15-october-2021_weekly-ship-recycling-report-2_647e26515162.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-10-16_best-oasis-weekly-recycling-market-report-15-october-2021_weekly-ship-recycling-report-2_647e26515162.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n8t h October 2021 to 15th October 2021\nHighlights of the Week\nT he subcontinent recycling market is showing rapid signs of improvement\njhhnhu\nas the demand for steel is soaring day by day. The end buyers are eagerly\nscouting for available tonnage in the demolition market as the raw material\nprices have risen sharply and steel producers are turning towards scrap\nmetal for meeting their needs. Offer prices have increased in all three key\nrecycling markets as the availability of tonnage still remains scarce,\nproviding a favorable market condition for owners with aging assets to get\nthe best economic value for their assets.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1996,
+  "source_path": "reports/hellenic/demolition/2021/2021-10-16_best-oasis-weekly-recycling-market-report-15-october-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-15-october-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-10-16_2021_10_16_best_oasis_weekly_recycling_market_report_15_october_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-10-16_2021_10_16_best_oasis_weekly_recycling_market_report_15_october_2021",
+      "parent_id": "hellenic_demolition_2021-10-16_2021_10_16_best_oasis_weekly_recycling_market_report_15_october_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The subcontinent recycling market is showing rapid signs of improvement as the demand for steel is soaring day by day\nSource: Best Oasis Limited",
+      "keywords": [
+        "europe",
+        "steel",
+        "day",
+        "best",
+        "demand",
+        "improvement",
+        "limited",
+        "oasis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-10-16_2021_10_16_best_oasis_weekly_recycling_market_report_15_october_2021__s02_linked_asset_2021_10_16_best_oasis_weekly_recycling_market_report_15_october_2021_weekly_ship_recycling_report_2_647e26515162_pdf",
+      "doc_id": "hellenic_demolition_2021-10-16_2021_10_16_best_oasis_weekly_recycling_market_report_15_october_2021",
+      "parent_id": "hellenic_demolition_2021-10-16_2021_10_16_best_oasis_weekly_recycling_market_report_15_october_2021__root",
+      "title": "Linked asset: 2021-10-16_best-oasis-weekly-recycling-market-report-15-october-2021_weekly-ship-recycling-report-2_647e26515162.pdf",
+      "section_path": [
+        "Linked asset: 2021-10-16_best-oasis-weekly-recycling-market-report-15-october-2021_weekly-ship-recycling-report-2_647e26515162.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-10-16_best-oasis-weekly-recycling-market-report-15-october-2021_weekly-ship-recycling-report-2_647e26515162.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-10-16_best-oasis-weekly-recycling-market-report-15-october-2021_weekly-ship-recycling-report-2_647e26515162.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n8t h October 2021 to 15th October 2021\nHighlights of the Week\nT he subcontinent recycling market is showing rapid signs of improvement\njhhnhu\nas the demand for steel is soaring day by day. The end buyers are eagerly\nscouting for available tonnage in the demolition market as the raw material\nprices have risen sharply and steel producers are turning towards scrap\nmetal for meeting their needs.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1922,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-08-06_2021_08_06_clarkson_platou_hellas_sp_weekly_bulletin_112__root",
+  "doc_id": "hellenic_shipbuilding_2021-08-06_2021_08_06_clarkson_platou_hellas_sp_weekly_bulletin_112",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In tankers, clients of Enesel are reported to have declared a further optional 115k dwt Aframax at Shanghai Waigaoqiao\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-08-06_clarkson-platou-hellas-sp-weekly-bulletin-112_report-06-08-2021_ca92b4231d28.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-08-06_clarkson-platou-hellas-sp-weekly-bulletin-112_report-06-08-2021_ca92b4231d28.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 06 August 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6G70ME-C9.2 SS/DD USD 45 M USA BASED\nHARK OLDENDORFF 209,325 2016 JIANGSU YANGXI XINFU\nBWTS fitted passed (Delivery January '22) (c/o JP Morgan)\nMAN-B&W 6G70ME-C9.2 SS 07/25\nSTELLA LUCY 179,667 2015 QINGDAO BEIHAI USD 38 M\nBWTS fitted DD 07/23\nGREEKS\n(c/o Dryships)\nMAN-B&W 6G70ME-C9.2 SS 06/25\nSTELLA LAURA 179,549 2015 QINGDAO BEIHAI USD 36.5\nBWTS fitted DD 08/23\nSS 01/25\nAM EXPRESS 82,245 2010 TSUNEISHI CEBU MAN-B&W 6S60MC-C7.2 USD 21.8 M EUROPEANS\nDD 09/22\nMAN-B&W 6S50MC-C8 SS/DD\nLOWLANDS BEACON 61,438 2011 IWAGI RGN USD 21 M U/D\nBWTS fitted 04/2022\nWARTSILA 6RT-FLEX50 SS 09/25\nDORY 55,878 2010 I.H.I. USD 17.3 M GREEKS\nBWTS fitted DD ",
+  "keywords": [
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "brazil",
+    "europe",
+    "products",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2327,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-08-06_clarkson-platou-hellas-sp-weekly-bulletin-112.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-112",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-08-06_2021_08_06_clarkson_platou_hellas_sp_weekly_bulletin_112__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-08-06_2021_08_06_clarkson_platou_hellas_sp_weekly_bulletin_112",
+      "parent_id": "hellenic_shipbuilding_2021-08-06_2021_08_06_clarkson_platou_hellas_sp_weekly_bulletin_112__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In tankers, clients of Enesel are reported to have declared a further optional 115k dwt Aframax at Shanghai Waigaoqiao\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "aframax",
+        "are",
+        "building",
+        "clarkson",
+        "clients",
+        "declared",
+        "dwt",
+        "enesel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-08-06_2021_08_06_clarkson_platou_hellas_sp_weekly_bulletin_112__s02_linked_asset_2021_08_06_clarkson_platou_hellas_sp_weekly_bulletin_112_report_06_08_2021_ca92b4231d28_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-08-06_2021_08_06_clarkson_platou_hellas_sp_weekly_bulletin_112",
+      "parent_id": "hellenic_shipbuilding_2021-08-06_2021_08_06_clarkson_platou_hellas_sp_weekly_bulletin_112__root",
+      "title": "Linked asset: 2021-08-06_clarkson-platou-hellas-sp-weekly-bulletin-112_report-06-08-2021_ca92b4231d28.pdf",
+      "section_path": [
+        "Linked asset: 2021-08-06_clarkson-platou-hellas-sp-weekly-bulletin-112_report-06-08-2021_ca92b4231d28.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-08-06_clarkson-platou-hellas-sp-weekly-bulletin-112_report-06-08-2021_ca92b4231d28.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-08-06_clarkson-platou-hellas-sp-weekly-bulletin-112_report-06-08-2021_ca92b4231d28.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 06 August 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6G70ME-C9.2 SS/DD USD 45 M USA BASED\nHARK OLDENDORFF 209,325 2016 JIANGSU YANGXI XINFU\nBWTS fitted passed (Delivery January '22) (c/o JP Morgan)\nMAN-B&W 6G70ME-C9.2 SS 07/25\nSTELLA LUCY 179,667 2015 QINGDAO BEIHAI USD 38 M\nBWTS fitted DD 07/23\nGREEKS\n(c/o Dryships)\nMAN-B&W 6G70ME-C9.2 SS 06/25\nSTELLA LAURA 179,549 2015 QINGDAO BEIHAI USD 36.5\nBWTS fitted DD 08/23\nSS 01/25\nAM EXPRESS 82,245 2010 TSUNEISHI CEBU MAN-B&W 6S60MC-C7.2 USD 21.8 M EUROPEANS\nDD 09/22\nMAN-B&W 6S50MC-C8 SS/DD\nLOWLANDS BEACON 61,438 2011 IWAGI RGN USD 21 M U/D\nBWTS fitted 04/2022\nWARTSILA 6RT-FLEX50 SS 09/25\nDORY 55,878 2010 I.H.I. USD 17.3 M GREEKS\nBWTS fitted DD 03/24\nMITSUBISHI 6UEC45LSE\nSS 05/25 HK BASED\nSAKURA KOBE 33,735 2011 SHIN KOCHI 4 x 30 T USD 16.2 M\nDD 03/23 (c/o Taylor Maritime)\nBWTS fitted\nMAN-B&W 6S42MC7.1 SS 09/24\nAMIRA ILHAM 28,434 2009 SHIMANAMI MID USD 11 M U/D\n4 x 35 T DD 08/22\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT B",
+      "keywords": [
+        "aframax",
+        "lng",
+        "lpg",
+        "container",
+        "brazil",
+        "europe",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2235,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-03-14_2026_03_14_clarksons_platou_hellas_snp_weekly_bulletin_125__root",
+  "doc_id": "hellenic_shipbuilding_2026-03-14_2026_03_14_clarksons_platou_hellas_snp_weekly_bulletin_125",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAnother strong week in the S&P market, particularly within the dry bulk segment, where fresh benchmark sales emerged at firmer levels. A couple of flagship deals in both the Kamsarmax and Handysize sectors set the tone, highlighting the upward momentum. Demand remains strong across the board, while the limited availability of quality tonnage continues to push asset values.",
+  "keywords": [
+    "handysize",
+    "pacific",
+    "japan",
+    "any",
+    "usd",
+    "information",
+    "dwt",
+    "clarksons",
+    "abt",
+    "fitted",
+    "its",
+    "sold"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1952,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-14_clarksons-platou-hellas-snp-weekly-bulletin-125.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-125",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-03-14_2026_03_14_clarksons_platou_hellas_snp_weekly_bulletin_125__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-03-14_2026_03_14_clarksons_platou_hellas_snp_weekly_bulletin_125",
+      "parent_id": "hellenic_shipbuilding_2026-03-14_2026_03_14_clarksons_platou_hellas_snp_weekly_bulletin_125__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Another strong week in the S&P market, particularly within the dry bulk segment, where fresh benchmark sales emerged at firmer levels. A couple of flagship deals in both the Kamsarmax and Handysize sectors set the tone, highlighting the upward momentum.",
+      "keywords": [
+        "handysize",
+        "pacific",
+        "japan",
+        "abt",
+        "dwt",
+        "usd",
+        "sold",
+        "being"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 385,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-03-14_2026_03_14_clarksons_platou_hellas_snp_weekly_bulletin_125__s02_linked_asset_2026_03_14_clarksons_platou_hellas_snp_weekly_bulletin_125_weekly_sales_13th_mar_2026_661410bf5458_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-03-14_2026_03_14_clarksons_platou_hellas_snp_weekly_bulletin_125",
+      "parent_id": "hellenic_shipbuilding_2026-03-14_2026_03_14_clarksons_platou_hellas_snp_weekly_bulletin_125__root",
+      "title": "Linked asset: 2026-03-14_clarksons-platou-hellas-snp-weekly-bulletin-125_weekly-sales-13th-mar-2026_661410bf5458.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-14_clarksons-platou-hellas-snp-weekly-bulletin-125_weekly-sales-13th-mar-2026_661410bf5458.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-14_clarksons-platou-hellas-snp-weekly-bulletin-125_weekly-sales-13th-mar-2026_661410bf5458.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-14_clarksons-platou-hellas-snp-weekly-bulletin-125_weekly-sales-13th-mar-2026_661410bf5458.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nAnother strong week in the S&P market, particularly within the dry bulk segment, where fresh benchmark\nsales emerged at firmer levels.",
+      "keywords": [
+        "handysize",
+        "pacific",
+        "japan",
+        "any",
+        "information",
+        "clarksons",
+        "usd",
+        "its"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1519,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

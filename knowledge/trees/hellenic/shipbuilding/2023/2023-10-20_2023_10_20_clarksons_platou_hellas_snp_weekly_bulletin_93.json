@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-10-20_2023_10_20_clarksons_platou_hellas_snp_weekly_bulletin_93__root",
+  "doc_id": "hellenic_shipbuilding_2023-10-20_2023_10_20_clarksons_platou_hellas_snp_weekly_bulletin_93",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building - In dry bulk this week, it has been widely reported that clients of Lavinia\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 20 Oct 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.2\nCYMONA IRON 176,505 2011 SWS BWTS fitted, SS 01/26 RGN USD 27 M MIDDLE EASTERN\nDD 08/25\nSCRUBBER fitted\nLADY MARITE 83,610 2009 SHIN KASADO MAN B. 6S60MC6.1 SS 11/24 HIGH USD 15 M U/D\nBWTS fitted DD 11/24\nATLANTIC ISLAND 61,311 2014 IWAGI MAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "atlantic",
+    "europe",
+    "india",
+    "crude_oil",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1904,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-93",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-10-20_2023_10_20_clarksons_platou_hellas_snp_weekly_bulletin_93__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-10-20_2023_10_20_clarksons_platou_hellas_snp_weekly_bulletin_93",
+      "parent_id": "hellenic_shipbuilding_2023-10-20_2023_10_20_clarksons_platou_hellas_snp_weekly_bulletin_93__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building - In dry bulk this week, it has been widely reported that clients of Lavinia\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "building",
+        "clarkson",
+        "clients",
+        "hellas",
+        "lavinia",
+        "ltd",
+        "new",
+        "platou"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-10-20_2023_10_20_clarksons_platou_hellas_snp_weekly_bulletin_93__s02_linked_asset_2023_10_20_clarksons_platou_hellas_snp_weekly_bulletin_93_report_20_10_2023_copy_28abcb67255a_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-10-20_2023_10_20_clarksons_platou_hellas_snp_weekly_bulletin_93",
+      "parent_id": "hellenic_shipbuilding_2023-10-20_2023_10_20_clarksons_platou_hellas_snp_weekly_bulletin_93__root",
+      "title": "Linked asset: 2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a.pdf",
+      "section_path": [
+        "Linked asset: 2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-10-20_clarksons-platou-hellas-snp-weekly-bulletin-93_report-20-10-2023-copy_28abcb67255a.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 20 Oct 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.2\nCYMONA IRON 176,505 2011 SWS BWTS fitted, SS 01/26 RGN USD 27 M MIDDLE EASTERN\nDD 08/25\nSCRUBBER fitted\nLADY MARITE 83,610 2009 SHIN KASADO MAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "atlantic",
+        "europe",
+        "india",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1825,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

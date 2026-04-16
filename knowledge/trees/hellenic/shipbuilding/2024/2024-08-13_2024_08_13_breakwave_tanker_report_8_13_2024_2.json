@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2024-08-13_2024_08_13_breakwave_tanker_report_8_13_2024_2__root",
+  "doc_id": "hellenic_shipbuilding_2024-08-13_2024_08_13_breakwave_tanker_report_8_13_2024_2",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 8.13.2024",
+  "section_path": [
+    "Breakwave Tanker Report 8.13.2024"
+  ],
+  "section_path_text": "Breakwave Tanker Report 8.13.2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC Market Back to Year-lows as Activity Slows Down - The VLCC market is once again back to recent lows although it seems to be bottoming\nSource: Breakwave Advisors\n\nLinked asset: 2024-08-13_breakwave-tanker-report-8-13-2024-2_breakwavetankersaugust132024report-1_5c6489339cb4.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-08-13_breakwave-tanker-report-8-13-2024-2_breakwavetankersaugust132024report-1_5c6489339cb4.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nAugust 13, 2024\nBreakwave Tanker Futures Index: 1,167 VLCC Middle East-Asia Spot Rates: $11.24 Short-term Indicators:\n↑ 30D: 0.4% ↓ 30D: -0.6% Momentum: Neutral\n↓ YTD: -3.9% ↓ YTD: -15.1% Sentiment: Neutral\n↓ YOY: -13.6% ↓ YOY: -13.0% Fundamentals: Neutral\nBi-Weekly Report\n• VLCC Market Back to Year-lows as Activity Slows Down - The VLCC market is once again back to recent lows although it\nseems to be bottoming as the first half of August concludes. Freight rates for the benchmark Middle East Gulf to China\nroute have declined back to levels seen just a month ago prior to the recent temporary rally in spot rates. The current\nsentiment in the first two weeks of August mirrors the market conditions experienced during the same",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "demand",
+    "crude",
+    "any"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1540,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-08-13_breakwave-tanker-report-8-13-2024-2.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-8-13-2024-2",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2024-08-13_2024_08_13_breakwave_tanker_report_8_13_2024_2__s01_main",
+      "doc_id": "hellenic_shipbuilding_2024-08-13_2024_08_13_breakwave_tanker_report_8_13_2024_2",
+      "parent_id": "hellenic_shipbuilding_2024-08-13_2024_08_13_breakwave_tanker_report_8_13_2024_2__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Market Back to Year-lows as Activity Slows Down - The VLCC market is once again back to recent lows although it seems to be bottoming\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "back",
+        "activity",
+        "again",
+        "although",
+        "bottoming",
+        "down",
+        "lows"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-08-13_2024_08_13_breakwave_tanker_report_8_13_2024_2__s02_linked_asset_2024_08_13_breakwave_tanker_report_8_13_2024_2_breakwavetankersaugust132024report_1_5c6489339cb4_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-08-13_2024_08_13_breakwave_tanker_report_8_13_2024_2",
+      "parent_id": "hellenic_shipbuilding_2024-08-13_2024_08_13_breakwave_tanker_report_8_13_2024_2__root",
+      "title": "Linked asset: 2024-08-13_breakwave-tanker-report-8-13-2024-2_breakwavetankersaugust132024report-1_5c6489339cb4.pdf",
+      "section_path": [
+        "Linked asset: 2024-08-13_breakwave-tanker-report-8-13-2024-2_breakwavetankersaugust132024report-1_5c6489339cb4.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-08-13_breakwave-tanker-report-8-13-2024-2_breakwavetankersaugust132024report-1_5c6489339cb4.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-08-13_breakwave-tanker-report-8-13-2024-2_breakwavetankersaugust132024report-1_5c6489339cb4.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nAugust 13, 2024\nBreakwave Tanker Futures Index: 1,167 VLCC Middle East-Asia Spot Rates: $11.24 Short-term Indicators:\n↑ 30D: 0.4% ↓ 30D: -0.6% Momentum: Neutral\n↓ YTD: -3.9% ↓ YTD: -15.1% Sentiment: Neutral\n↓ YOY: -13.6% ↓ YOY: -13.0% Fundamentals: Neutral\nBi-Weekly Report\n• VLCC Market Back to Year-lows as Activity Slows Down - The VLCC market is once again back to recent lows although it\nseems to be bottoming as the first half of August concludes. Freight rates for the benchmark Middle East Gulf to China\nroute have declined back to levels seen just a month ago prior to the recent temporary rally in spot rates.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1453,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

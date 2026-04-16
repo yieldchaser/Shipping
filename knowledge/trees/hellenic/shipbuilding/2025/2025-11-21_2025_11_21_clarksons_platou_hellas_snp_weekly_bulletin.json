@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-11-21_2025_11_21_clarksons_platou_hellas_snp_weekly_bulletin__root",
+  "doc_id": "hellenic_shipbuilding_2025-11-21_2025_11_21_clarksons_platou_hellas_snp_weekly_bulletin",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Cargo\nFollowing the slower activity during Bahri Week in Dubai, the S&P market has gained traction, especially in the dry segment.Several transactions have been concluded, with the below being the most notable ones. To begin with, on the larger sizes, the Mini-cape NBA REMBRANDT (ABT 107KDWT, 2012, OSHIMA) was sold for a price of USD 18.7 mill., to clients of GCL Shipping. Furthermore, on the Panamax sector, a new sale of a Japanese vessel has emerged, the YASA UNITY (ABT 75KDWT, 2006, SANOYAS HISHINO), which was reported sold to undisclosed buyers at low USD 9 mill., while, on the Ultramax sector, the SANTA MARIA (ABT 61KDWT, 2014, IWAGI ZOSEN) achieved levels of low USD 21 mill.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "handysize",
+    "suezmax",
+    "china",
+    "india",
+    "japan",
+    "usd",
+    "abt",
+    "any",
+    "information",
+    "kdwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2474,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-11-21_2025_11_21_clarksons_platou_hellas_snp_weekly_bulletin__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-11-21_2025_11_21_clarksons_platou_hellas_snp_weekly_bulletin",
+      "parent_id": "hellenic_shipbuilding_2025-11-21_2025_11_21_clarksons_platou_hellas_snp_weekly_bulletin__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Cargo\nFollowing the slower activity during Bahri Week in Dubai, the S&P market has gained traction, especially in the dry segment.Several transactions have been concluded, with the below being the most notable ones. To begin with, on the larger sizes, the Mini-cape NBA REMBRANDT (ABT 107KDWT, 2012, OSHIMA) was sold for a price of USD 18.7 mill., to clients of GCL Shipping.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "suezmax",
+        "china",
+        "india",
+        "japan",
+        "abt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 523,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-11-21_2025_11_21_clarksons_platou_hellas_snp_weekly_bulletin__s02_linked_asset_2025_11_21_clarksons_platou_hellas_snp_weekly_bulletin_weekly_sales_21st_nov_2025_9204f9012010_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-11-21_2025_11_21_clarksons_platou_hellas_snp_weekly_bulletin",
+      "parent_id": "hellenic_shipbuilding_2025-11-21_2025_11_21_clarksons_platou_hellas_snp_weekly_bulletin__root",
+      "title": "Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-21_clarksons-platou-hellas-snp-weekly-bulletin_weekly-sales-21st-nov-2025_9204f9012010.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nFollowing the slower activity during Bahri Week in Dubai, the S&P market has gained traction, especially\nin the dry segment.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "suezmax",
+        "china",
+        "india",
+        "japan",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1903,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

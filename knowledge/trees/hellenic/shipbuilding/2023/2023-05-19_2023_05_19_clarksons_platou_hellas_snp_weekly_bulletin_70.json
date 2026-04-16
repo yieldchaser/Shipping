@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-05-19_2023_05_19_clarksons_platou_hellas_snp_weekly_bulletin_70__root",
+  "doc_id": "hellenic_shipbuilding_2023-05-19_2023_05_19_clarksons_platou_hellas_snp_weekly_bulletin_70",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in the tanker market this week, Hyundai Mipo announced contracts for two firm 50k dwt MR's with an unnamed buyer\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-05-19_clarksons-platou-hellas-snp-weekly-bulletin-70_report-19-05-2023_b8e66046c74c.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-05-19_clarksons-platou-hellas-snp-weekly-bulletin-70_report-19-05-2023_b8e66046c74c.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 19 May 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.2 SS 05/25\nBAO MAY 178,050 2010 SWS LOW USD 25 M U/D\nBWTS Fitted DD 05/25\n2013 DALIAN MAN B. 5S60ME-C8.2 SS 05/27\nXIN HAN 82,297 USD 20 M GREEKS\nSHIPBUILDING TIER II, BWTS Fitted DD 06/24\n2011 JINGLU MAN B.",
+  "keywords": [
+    "aframax",
+    "lng",
+    "lpg",
+    "pacific",
+    "europe",
+    "india",
+    "singapore",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1953,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-05-19_clarksons-platou-hellas-snp-weekly-bulletin-70.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-70",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-05-19_2023_05_19_clarksons_platou_hellas_snp_weekly_bulletin_70__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-05-19_2023_05_19_clarksons_platou_hellas_snp_weekly_bulletin_70",
+      "parent_id": "hellenic_shipbuilding_2023-05-19_2023_05_19_clarksons_platou_hellas_snp_weekly_bulletin_70__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in the tanker market this week, Hyundai Mipo announced contracts for two firm 50k dwt MR's with an unnamed buyer\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "building",
+        "buyer",
+        "clarkson",
+        "contracts",
+        "dwt",
+        "firm",
+        "hellas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-05-19_2023_05_19_clarksons_platou_hellas_snp_weekly_bulletin_70__s02_linked_asset_2023_05_19_clarksons_platou_hellas_snp_weekly_bulletin_70_report_19_05_2023_b8e66046c74c_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-05-19_2023_05_19_clarksons_platou_hellas_snp_weekly_bulletin_70",
+      "parent_id": "hellenic_shipbuilding_2023-05-19_2023_05_19_clarksons_platou_hellas_snp_weekly_bulletin_70__root",
+      "title": "Linked asset: 2023-05-19_clarksons-platou-hellas-snp-weekly-bulletin-70_report-19-05-2023_b8e66046c74c.pdf",
+      "section_path": [
+        "Linked asset: 2023-05-19_clarksons-platou-hellas-snp-weekly-bulletin-70_report-19-05-2023_b8e66046c74c.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-05-19_clarksons-platou-hellas-snp-weekly-bulletin-70_report-19-05-2023_b8e66046c74c.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-05-19_clarksons-platou-hellas-snp-weekly-bulletin-70_report-19-05-2023_b8e66046c74c.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 19 May 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.2 SS 05/25\nBAO MAY 178,050 2010 SWS LOW USD 25 M U/D\nBWTS Fitted DD 05/25\n2013 DALIAN MAN B.",
+      "keywords": [
+        "aframax",
+        "lng",
+        "lpg",
+        "pacific",
+        "europe",
+        "india",
+        "singapore",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1866,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

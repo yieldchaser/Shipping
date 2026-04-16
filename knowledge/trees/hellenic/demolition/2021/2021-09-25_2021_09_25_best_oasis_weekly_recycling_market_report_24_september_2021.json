@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-09-25_2021_09_25_best_oasis_weekly_recycling_market_report_24_september_2021__root",
+  "doc_id": "hellenic_demolition_2021-09-25_2021_09_25_best_oasis_weekly_recycling_market_report_24_september_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 24 September 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 24 September 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 24 September 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe ship recycling market witnessed very limited activity this week as the owners and end buyers are both trying to ascertain the future\nSource: Best Oasis Limited\n\nLinked asset: 2021-09-25_best-oasis-weekly-recycling-market-report-24-september-2021_weekly-ship-recycling-report-3_75014cd0c6e1.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-09-25_best-oasis-weekly-recycling-market-report-24-september-2021_weekly-ship-recycling-report-3_75014cd0c6e1.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n17 th September to 24th September 2021\nHighlights of the Week\nThe ship recycling market witnessed very limited activity this week as the\njhh nhu\nowners and end buyers are both trying to ascertain the future price trends\nbef ore committing to deals. Among the three major subcontinent players,\nthe recyclers of Pakistan are showing healthy buying interest and are\nthe refore leading the price charts followed closely by India and Bangladesh. The overall market sentim ent indicates the price range to stabilize in the\nUSD 550-600/MT range.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "steel",
+    "gas",
+    "are",
+    "price",
+    "previous"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1966,
+  "source_path": "reports/hellenic/demolition/2021/2021-09-25_best-oasis-weekly-recycling-market-report-24-september-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-24-september-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-09-25_2021_09_25_best_oasis_weekly_recycling_market_report_24_september_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-09-25_2021_09_25_best_oasis_weekly_recycling_market_report_24_september_2021",
+      "parent_id": "hellenic_demolition_2021-09-25_2021_09_25_best_oasis_weekly_recycling_market_report_24_september_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The ship recycling market witnessed very limited activity this week as the owners and end buyers are both trying to ascertain the future\nSource: Best Oasis Limited",
+      "keywords": [
+        "limited",
+        "activity",
+        "are",
+        "ascertain",
+        "best",
+        "both",
+        "buyers",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 29,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-09-25_2021_09_25_best_oasis_weekly_recycling_market_report_24_september_2021__s02_linked_asset_2021_09_25_best_oasis_weekly_recycling_market_report_24_september_2021_weekly_ship_recycling_report_3_75014cd0c6e1_pdf",
+      "doc_id": "hellenic_demolition_2021-09-25_2021_09_25_best_oasis_weekly_recycling_market_report_24_september_2021",
+      "parent_id": "hellenic_demolition_2021-09-25_2021_09_25_best_oasis_weekly_recycling_market_report_24_september_2021__root",
+      "title": "Linked asset: 2021-09-25_best-oasis-weekly-recycling-market-report-24-september-2021_weekly-ship-recycling-report-3_75014cd0c6e1.pdf",
+      "section_path": [
+        "Linked asset: 2021-09-25_best-oasis-weekly-recycling-market-report-24-september-2021_weekly-ship-recycling-report-3_75014cd0c6e1.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-09-25_best-oasis-weekly-recycling-market-report-24-september-2021_weekly-ship-recycling-report-3_75014cd0c6e1.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-09-25_best-oasis-weekly-recycling-market-report-24-september-2021_weekly-ship-recycling-report-3_75014cd0c6e1.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n17 th September to 24th September 2021\nHighlights of the Week\nThe ship recycling market witnessed very limited activity this week as the\njhh nhu\nowners and end buyers are both trying to ascertain the future price trends\nbef ore committing to deals. Among the three major subcontinent players,\nthe recyclers of Pakistan are showing healthy buying interest and are\nthe refore leading the price charts followed closely by India and Bangladesh.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1887,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

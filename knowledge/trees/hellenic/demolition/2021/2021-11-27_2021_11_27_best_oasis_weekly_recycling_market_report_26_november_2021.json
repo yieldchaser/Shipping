@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-11-27_2021_11_27_best_oasis_weekly_recycling_market_report_26_november_2021__root",
+  "doc_id": "hellenic_demolition_2021-11-27_2021_11_27_best_oasis_weekly_recycling_market_report_26_november_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 26 November 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 26 November 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 26 November 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe recent downfall in steel prices is an outcome of lack of buying interest from China but we are cautiously optimistic\nSource: Best Oasis Limited\n\nLinked asset: 2021-11-27_best-oasis-weekly-recycling-market-report-26-november-2021_weekly-ship-recycling-report-3_8c9a66686093.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-11-27_best-oasis-weekly-recycling-market-report-26-november-2021_weekly-ship-recycling-report-3_8c9a66686093.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n19th November to 26th November 2021\nHi ghlights of the Week\nT he recent downfall in steel prices is an outcome of lack of buying interest\njhh nhu\nfrom China but we are cautiously optimistic that the demand for steel will\nremain steady albeit some minor corrections. The demolition market\nwitnessed softening of about USD 15-20/LDT in all three major subcontinent\nma rkets i.e., India, Pakistan, and Bangladesh as the end users have lowered\nthe pace of buying due to elevated prices. The existing shortage of units\navailable for recycling will ensure that prices remain supported in the range\nof USD 550-600/LDT.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "steel",
+    "prices",
+    "price",
+    "previous",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1940,
+  "source_path": "reports/hellenic/demolition/2021/2021-11-27_best-oasis-weekly-recycling-market-report-26-november-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-26-november-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-11-27_2021_11_27_best_oasis_weekly_recycling_market_report_26_november_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-11-27_2021_11_27_best_oasis_weekly_recycling_market_report_26_november_2021",
+      "parent_id": "hellenic_demolition_2021-11-27_2021_11_27_best_oasis_weekly_recycling_market_report_26_november_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The recent downfall in steel prices is an outcome of lack of buying interest from China but we are cautiously optimistic\nSource: Best Oasis Limited",
+      "keywords": [
+        "china",
+        "steel",
+        "are",
+        "best",
+        "but",
+        "buying",
+        "cautiously",
+        "downfall"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 27,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-11-27_2021_11_27_best_oasis_weekly_recycling_market_report_26_november_2021__s02_linked_asset_2021_11_27_best_oasis_weekly_recycling_market_report_26_november_2021_weekly_ship_recycling_report_3_8c9a66686093_pdf",
+      "doc_id": "hellenic_demolition_2021-11-27_2021_11_27_best_oasis_weekly_recycling_market_report_26_november_2021",
+      "parent_id": "hellenic_demolition_2021-11-27_2021_11_27_best_oasis_weekly_recycling_market_report_26_november_2021__root",
+      "title": "Linked asset: 2021-11-27_best-oasis-weekly-recycling-market-report-26-november-2021_weekly-ship-recycling-report-3_8c9a66686093.pdf",
+      "section_path": [
+        "Linked asset: 2021-11-27_best-oasis-weekly-recycling-market-report-26-november-2021_weekly-ship-recycling-report-3_8c9a66686093.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-11-27_best-oasis-weekly-recycling-market-report-26-november-2021_weekly-ship-recycling-report-3_8c9a66686093.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-11-27_best-oasis-weekly-recycling-market-report-26-november-2021_weekly-ship-recycling-report-3_8c9a66686093.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n19th November to 26th November 2021\nHi ghlights of the Week\nT he recent downfall in steel prices is an outcome of lack of buying interest\njhh nhu\nfrom China but we are cautiously optimistic that the demand for steel will\nremain steady albeit some minor corrections. The demolition market\nwitnessed softening of about USD 15-20/LDT in all three major subcontinent\nma rkets i.e., India, Pakistan, and Bangladesh as the end users have lowered\nthe pace of buying due to elevated prices.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1864,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

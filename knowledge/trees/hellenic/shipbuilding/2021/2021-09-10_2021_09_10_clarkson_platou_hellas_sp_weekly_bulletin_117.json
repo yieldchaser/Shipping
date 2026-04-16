@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-09-10_2021_09_10_clarkson_platou_hellas_sp_weekly_bulletin_117__root",
+  "doc_id": "hellenic_shipbuilding_2021-09-10_2021_09_10_clarkson_platou_hellas_sp_weekly_bulletin_117",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In tankers, Chengxi announced contracting one firm plus one optional 37k dwt Asphalt and Bitumen tanker for Vitol Group\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 10 September 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S60MC-C SS 02/25\nVIJAYANAGAR 82,167 2010 TSUNEISHI TODOTSU RGN USD 24 M GREEKS\nBWTS fitted DD 07/23\nMAN-B&W 5S60MC SS 06/22 USD 20.9 M\nSHAO SHAN 6 75,700 2012 GUANGZHOU HUANGPU CHINESE\nBWTS fitted DD 06/22 (via online platform)\nMAN-B&W 6S50MC-C\nSS 01/22 HIGH USD 18 M\nNEW PRIDE 58,761 2008 TSUNEISHI CEBU 4 x 30 T U/D\nDD 01/22 (Dely Dec)\nBWTS fitted\nMAN-B&W 6S42MC\nSS 05/25\nPALOMA 28,338 2010 SHIMANAMI 4 x 30 T RGN USD 13 M U/D\nDD 08/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\n- - - - - - -\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 10 September 2021\nNEW BUILDING\nIn ",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "gas",
+    "any",
+    "information",
+    "clarksons",
+    "platou"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2048,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-117",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-09-10_2021_09_10_clarkson_platou_hellas_sp_weekly_bulletin_117__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-09-10_2021_09_10_clarkson_platou_hellas_sp_weekly_bulletin_117",
+      "parent_id": "hellenic_shipbuilding_2021-09-10_2021_09_10_clarkson_platou_hellas_sp_weekly_bulletin_117__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In tankers, Chengxi announced contracting one firm plus one optional 37k dwt Asphalt and Bitumen tanker for Vitol Group\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "one",
+        "announced",
+        "asphalt",
+        "bitumen",
+        "building",
+        "chengxi",
+        "clarkson",
+        "contracting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-09-10_2021_09_10_clarkson_platou_hellas_sp_weekly_bulletin_117__s02_linked_asset_2021_09_10_clarkson_platou_hellas_sp_weekly_bulletin_117_report_10_09_2021_dc11cf8881df_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-09-10_2021_09_10_clarkson_platou_hellas_sp_weekly_bulletin_117",
+      "parent_id": "hellenic_shipbuilding_2021-09-10_2021_09_10_clarkson_platou_hellas_sp_weekly_bulletin_117__root",
+      "title": "Linked asset: 2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df.pdf",
+      "section_path": [
+        "Linked asset: 2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-09-10_clarkson-platou-hellas-sp-weekly-bulletin-117_report-10-09-2021_dc11cf8881df.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 10 September 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S60MC-C SS 02/25\nVIJAYANAGAR 82,167 2010 TSUNEISHI TODOTSU RGN USD 24 M GREEKS\nBWTS fitted DD 07/23\nMAN-B&W 5S60MC SS 06/22 USD 20.9 M\nSHAO SHAN 6 75,700 2012 GUANGZHOU HUANGPU CHINESE\nBWTS fitted DD 06/22 (via online platform)\nMAN-B&W 6S50MC-C\nSS 01/22 HIGH USD 18 M\nNEW PRIDE 58,761 2008 TSUNEISHI CEBU 4 x 30 T U/D\nDD 01/22 (Dely Dec)\nBWTS fitted\nMAN-B&W 6S42MC\nSS 05/25\nPALOMA 28,338 2010 SHIMANAMI 4 x 30 T RGN USD 13 M U/D\nDD 08/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\n- - - - - - -\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 10 September 2021\nNEW BUILDING\nIn tankers, Chengxi announced contracting one firm plus one optional 37k dwt Asphalt and Bitumen tanker for Vitol Group, with delivery of the firm\nvessel set to take place within 2023. Chongqing Chandong announced taking order for a firm 8k dwt Chemical tanker from China Shipping Chemi",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1961,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

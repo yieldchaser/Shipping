@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-08-05_2025_08_05_breakwave_dry_bulk_shipping_report_8_5_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-08-05_2025_08_05_breakwave_dry_bulk_shipping_report_8_5_2025",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 8.5.2025",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 8.5.2025"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 8.5.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nPanamaxes Spot rates Ease, as Capesizes Find a Higher Level - Despite some moderation in broader dry bulk market balances,\nSource: Breakwave Advisors\n\nLinked asset: 2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025_breakwavedryaugust52025report_58e9c017af28.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025_breakwavedryaugust52025report_58e9c017af28.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nAugust 5, 2025\n• Panamaxes Spot rates Ease, as Capesizes Find a Higher Level - Despite some\nShort-term Indicators\nmoderation in broader dry bulk market balances, spot rates across sectors\nMomentum: Neutral\nremain elevated compared to last month. While Panamax rates are gradually\nSentiment: Neutral\ndeclining, Capesize rates continue to be robust, remaining in the high 20,000 range,\nmarking the highest levels in ten years (excluding 2021) for this time of the year. Fundamentals: Neutral\nThis development is somewhat surprising and unexpected, given the prevailing\neconomic outlook and the global geopolitical risks that have negatively impacted\nBreakwave Dry\n1892\nother commodities markets.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1724,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-8-5-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-08-05_2025_08_05_breakwave_dry_bulk_shipping_report_8_5_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-08-05_2025_08_05_breakwave_dry_bulk_shipping_report_8_5_2025",
+      "parent_id": "hellenic_shipbuilding_2025-08-05_2025_08_05_breakwave_dry_bulk_shipping_report_8_5_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Panamaxes Spot rates Ease, as Capesizes Find a Higher Level - Despite some moderation in broader dry bulk market balances,\nSource: Breakwave Advisors",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "balances",
+        "broader",
+        "capesizes",
+        "despite",
+        "ease",
+        "find"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-08-05_2025_08_05_breakwave_dry_bulk_shipping_report_8_5_2025__s02_linked_asset_2025_08_05_breakwave_dry_bulk_shipping_report_8_5_2025_breakwavedryaugust52025report_58e9c017af28_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-08-05_2025_08_05_breakwave_dry_bulk_shipping_report_8_5_2025",
+      "parent_id": "hellenic_shipbuilding_2025-08-05_2025_08_05_breakwave_dry_bulk_shipping_report_8_5_2025__root",
+      "title": "Linked asset: 2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025_breakwavedryaugust52025report_58e9c017af28.pdf",
+      "section_path": [
+        "Linked asset: 2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025_breakwavedryaugust52025report_58e9c017af28.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025_breakwavedryaugust52025report_58e9c017af28.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-08-05_breakwave-dry-bulk-shipping-report-8-5-2025_breakwavedryaugust52025report_58e9c017af28.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nAugust 5, 2025\n• Panamaxes Spot rates Ease, as Capesizes Find a Higher Level - Despite some\nShort-term Indicators\nmoderation in broader dry bulk market balances, spot rates across sectors\nMomentum: Neutral\nremain elevated compared to last month. While Panamax rates are gradually\nSentiment: Neutral\ndeclining, Capesize rates continue to be robust, remaining in the high 20,000 range,\nmarking the highest levels in ten years (excluding 2021) for this time of the year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "west_africa",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1645,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

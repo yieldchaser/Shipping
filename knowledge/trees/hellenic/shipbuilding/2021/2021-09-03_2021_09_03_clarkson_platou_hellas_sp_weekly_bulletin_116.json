@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-09-03_2021_09_03_clarkson_platou_hellas_sp_weekly_bulletin_116__root",
+  "doc_id": "hellenic_shipbuilding_2021-09-03_2021_09_03_clarkson_platou_hellas_sp_weekly_bulletin_116",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In tankers, Wuhu shipyard announced taking order for a firm 5k dwt Shuttle tanker from Shanghai North Sea Shipping\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 03 September 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 06/26 XS USD 44 M each\nSTELLA NAOMI 181,031\nDD 06/24 (TC attached at 120% of\n2016 SWS MAN-B&W 6G70ME-C9.2 average BCI 4 TC route U/D\nBWTS fitted until end of 2021/early 2022\nSS 06/26\nSTELLA NORA 180,000 with further\nDD 06/24 2 year option thereafter.)\nDELY JULY 2022 MAN-B&W 6S60ME-C8.5 USD 36.03 M\nSDTR IRENE 84,972 N/A CHINESE\nex SHANHAIGUAN TIER III, BWTS fitted (Auction - online platform)\nSS 07/22\nRANGER 82,172 2012 TSUNEISHI ZHOUSHAN MAN-B&W 6S60MC-C RGN USD 24 M U/D\nDD 07/22\nMAN-B&W 6S46MC-C SS 01/22 HK BASED\nNICOLINE BULKER 38,191 2012 NAIKAI RGN USD 20 M\n4 x 30 T DD 01/22 (c/o Pacific Basin)\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT",
+  "keywords": [
+    "handysize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "japan",
+    "steel",
+    "gas",
+    "any"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2145,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-116",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-09-03_2021_09_03_clarkson_platou_hellas_sp_weekly_bulletin_116__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-09-03_2021_09_03_clarkson_platou_hellas_sp_weekly_bulletin_116",
+      "parent_id": "hellenic_shipbuilding_2021-09-03_2021_09_03_clarkson_platou_hellas_sp_weekly_bulletin_116__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In tankers, Wuhu shipyard announced taking order for a firm 5k dwt Shuttle tanker from Shanghai North Sea Shipping\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "building",
+        "clarkson",
+        "dwt",
+        "firm",
+        "hellas",
+        "ltd",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-09-03_2021_09_03_clarkson_platou_hellas_sp_weekly_bulletin_116__s02_linked_asset_2021_09_03_clarkson_platou_hellas_sp_weekly_bulletin_116_report_03_09_2021_10d3196bd5bb_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-09-03_2021_09_03_clarkson_platou_hellas_sp_weekly_bulletin_116",
+      "parent_id": "hellenic_shipbuilding_2021-09-03_2021_09_03_clarkson_platou_hellas_sp_weekly_bulletin_116__root",
+      "title": "Linked asset: 2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf",
+      "section_path": [
+        "Linked asset: 2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-09-03_clarkson-platou-hellas-sp-weekly-bulletin-116_report-03-09-2021_10d3196bd5bb.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 03 September 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 06/26 XS USD 44 M each\nSTELLA NAOMI 181,031\nDD 06/24 (TC attached at 120% of\n2016 SWS MAN-B&W 6G70ME-C9.2 average BCI 4 TC route U/D\nBWTS fitted until end of 2021/early 2022\nSS 06/26\nSTELLA NORA 180,000 with further\nDD 06/24 2 year option thereafter.)\nDELY JULY 2022 MAN-B&W 6S60ME-C8.5 USD 36.03 M\nSDTR IRENE 84,972 N/A CHINESE\nex SHANHAIGUAN TIER III, BWTS fitted (Auction - online platform)\nSS 07/22\nRANGER 82,172 2012 TSUNEISHI ZHOUSHAN MAN-B&W 6S60MC-C RGN USD 24 M U/D\nDD 07/22\nMAN-B&W 6S46MC-C SS 01/22 HK BASED\nNICOLINE BULKER 38,191 2012 NAIKAI RGN USD 20 M\n4 x 30 T DD 01/22 (c/o Pacific Basin)\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\n- - - - - - -\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 03 September 2021\nNEW BUILDING\nIn tankers, Wuhu shipyard announced taking order for a firm 5k dwt Shuttle tanker from Shanghai North Sea Shipping, with delivery expecte",
+      "keywords": [
+        "handysize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2056,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

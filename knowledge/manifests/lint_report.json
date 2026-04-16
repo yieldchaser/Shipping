@@ -1,14 +1,12 @@
 {
-  "generated_at": "2026-04-15T18:04:51Z",
-  "current_date": "2026-04-15",
-  "warning_count": 8,
-  "high_severity_count": 1,
+  "generated_at": "2026-04-16T00:31:16Z",
+  "current_date": "2026-04-16",
+  "warning_count": 6,
+  "high_severity_count": 0,
   "status_counts": {
     "sources": {
-      "healthy": 10,
-      "reference": 1,
-      "stale": 1,
-      "unknown": 3
+      "healthy": 14,
+      "reference": 1
     },
     "topics": {
       "healthy": 10
@@ -17,22 +15,20 @@
   },
   "warnings": [
     {
-      "severity": "stale",
-      "kind": "source_freshness",
-      "key": "hellenic/iron_ore",
-      "message": "hellenic/iron_ore is stale at 204 days since the latest dated document.",
+      "severity": "watch",
+      "kind": "topic_source_gap",
+      "key": "capesize",
+      "message": "capesize is missing recent evidence from expected sources: baltic.",
       "details": {
-        "label": "hellenic/iron_ore",
-        "source": "hellenic",
-        "category": "iron_ore",
-        "status": "stale",
-        "cadence_days": 14,
-        "latest_date": "2025-09-23",
-        "age_days": 204,
-        "latest_gap_days": 1,
-        "max_recent_gap_days": 3,
-        "dated_doc_count": 951,
-        "undated_doc_count": 0
+        "topic_id": "capesize",
+        "missing_recent_sources": [
+          "baltic"
+        ],
+        "recent_sources_present": [
+          "breakwave",
+          "breakwave_insights",
+          "hellenic"
+        ]
       }
     },
     {
@@ -72,47 +68,17 @@
     {
       "severity": "watch",
       "kind": "topic_source_gap",
-      "key": "container_and_ningbo_routes",
-      "message": "container_and_ningbo_routes is missing recent evidence from expected sources: hellenic.",
-      "details": {
-        "topic_id": "container_and_ningbo_routes",
-        "missing_recent_sources": [
-          "hellenic"
-        ],
-        "recent_sources_present": [
-          "baltic"
-        ]
-      }
-    },
-    {
-      "severity": "watch",
-      "kind": "topic_source_gap",
-      "key": "lng_and_lpg_shipping",
-      "message": "lng_and_lpg_shipping is missing recent evidence from expected sources: hellenic.",
-      "details": {
-        "topic_id": "lng_and_lpg_shipping",
-        "missing_recent_sources": [
-          "hellenic"
-        ],
-        "recent_sources_present": [
-          "baltic"
-        ]
-      }
-    },
-    {
-      "severity": "watch",
-      "kind": "topic_source_gap",
       "key": "oil_and_opec",
-      "message": "oil_and_opec is missing recent evidence from expected sources: baltic, hellenic.",
+      "message": "oil_and_opec is missing recent evidence from expected sources: baltic.",
       "details": {
         "topic_id": "oil_and_opec",
         "missing_recent_sources": [
-          "baltic",
-          "hellenic"
+          "baltic"
         ],
         "recent_sources_present": [
           "breakwave",
-          "breakwave_insights"
+          "breakwave_insights",
+          "hellenic"
         ]
       }
     },
@@ -137,16 +103,16 @@
       "severity": "watch",
       "kind": "topic_source_gap",
       "key": "vlcc_and_suezmax",
-      "message": "vlcc_and_suezmax is missing recent evidence from expected sources: baltic, hellenic.",
+      "message": "vlcc_and_suezmax is missing recent evidence from expected sources: baltic.",
       "details": {
         "topic_id": "vlcc_and_suezmax",
         "missing_recent_sources": [
-          "baltic",
-          "hellenic"
+          "baltic"
         ],
         "recent_sources_present": [
           "breakwave",
-          "breakwave_insights"
+          "breakwave_insights",
+          "hellenic"
         ]
       }
     }

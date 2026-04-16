@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2022-11-09_2022_11_09_weekly_vessel_valuations_report_november_08_2022__root",
+  "doc_id": "hellenic_vessel_valuations_2022-11-09_2022_11_09_weekly_vessel_valuations_report_november_08_2022",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, November 08 2022",
+  "section_path": [
+    "Weekly Vessel Valuations Report, November 08 2022"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, November 08 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: Bulker values have softened\nCapesize Edward N (176,200 DWT, Jan 2011, Shanghai Waigaoqiao Shipbuilding) committed to unknown German buyers for USD 25.25 mil, VV Value USD 24.98 mil - BWTS fitted. Capesize Aquafortune (174,700 DWT, Apr 2011, Namura) sold to undisclosed buyers for USD 27.00 mil, VV Value USD 27.51 mil - BWTS fitted. Ultramax Caro Padre (63,500 DWT, Dec 2012, Yangzhou Dayang Shipbuilding) sold to unknown Chinese buyers for USD 21.10 mil, VV Value USD 20.98 mil - SS Due.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "container",
+    "china",
+    "usd",
+    "mil",
+    "buyers",
+    "dwt",
+    "value",
+    "sold"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1262,
+  "source_path": "reports/hellenic/vessel_valuations/2022/2022-11-09_weekly-vessel-valuations-report-november-08-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-november-08-2022",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2022-11-09_2022_11_09_weekly_vessel_valuations_report_november_08_2022__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2022-11-09_2022_11_09_weekly_vessel_valuations_report_november_08_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-11-09_2022_11_09_weekly_vessel_valuations_report_november_08_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: Bulker values have softened\nCapesize Edward N (176,200 DWT, Jan 2011, Shanghai Waigaoqiao Shipbuilding) committed to unknown German buyers for USD 25.25 mil, VV Value USD 24.98 mil - BWTS fitted. Capesize Aquafortune (174,700 DWT, Apr 2011, Namura) sold to undisclosed buyers for USD 27.00 mil, VV Value USD 27.51 mil - BWTS fitted.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "usd",
+        "mil",
+        "buyers",
+        "dwt",
+        "value"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 398,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2022-11-09_2022_11_09_weekly_vessel_valuations_report_november_08_2022__s02_linked_asset_2022_11_09_weekly_vessel_valuations_report_november_08_2022_img1_matrix_8th_november_2022_279b75f4ba72_jpg",
+      "doc_id": "hellenic_vessel_valuations_2022-11-09_2022_11_09_weekly_vessel_valuations_report_november_08_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-11-09_2022_11_09_weekly_vessel_valuations_report_november_08_2022__root",
+      "title": "Linked asset: 2022-11-09_weekly-vessel-valuations-report-november-08-2022_img1_matrix-8th-november-2022_279b75f4ba72.jpg",
+      "section_path": [
+        "Linked asset: 2022-11-09_weekly-vessel-valuations-report-november-08-2022_img1_matrix-8th-november-2022_279b75f4ba72.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-11-09_weekly-vessel-valuations-report-november-08-2022_img1_matrix-8th-november-2022_279b75f4ba72.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2022/assets/2022-11-09_weekly-vessel-valuations-report-november-08-2022_img1_matrix-8th-november-2022_279b75f4ba72.jpg\n\nLinked image asset: 2022-11-09_weekly-vessel-valuations-report-november-08-2022_img1_matrix-8th-november-2022_279b75f4ba72.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nO' h I \\ i i ~\n08 November 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC = Suez Afra IRI MR Cape Pmax Supra Handy pnas Pmax Handy Fmax\n0 +0.7% +0,8% -0.1% -0.2% +0,1% -1.0% -0.8% -1.0% -1.3% \"5.9% -6.1% -4.9% -5.0%\n320K 160K 110K 75K 50K 180K 82K 60K 38K 7000 4250 1750 1100\n5 +0.7% 40.6% 0.0% -0.2% +0.5% -1.0% -1.0% -1.1% -1.0% 5.9% -6.1% -4.9% -5.0%\n320K 160K = 110K 75K = SOK 180K 80K 60K 35K 7000 4250 «1750 = 1100\n10 +0.7% +0.6% 0.0% -0.2% +0,9% \"1.0% -1.0% -1.1% -0.9% \"5.9% -6.2% -4.9% -5.0%\n310K 160K = I10K 75K SOK 180K 80K = 60K 32K 7000 4250 «1750 = 1100\n15 +0.6% +1.0% -0.1% -0.2% +0.3% -1.0% -0.8% -1.2% -1.0% 5.9% -6.1% -4.9% -5.0%\n310K 160K 110K 75K 50K 180K 75K SSK 30K 7000 «4250 «1750-1100\n20 +0.6% +1.7% -0.2% -0.1% -0.9% \"0.6% -0.5% -1.2% -1.1% \"5.9% -5.9% -4.9% -5,0%\n305K 155",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "sok",
+        "asset",
+        "handy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 814,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

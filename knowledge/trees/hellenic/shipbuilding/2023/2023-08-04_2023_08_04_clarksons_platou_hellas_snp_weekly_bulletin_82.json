@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-08-04_2023_08_04_clarksons_platou_hellas_snp_weekly_bulletin_82__root",
+  "doc_id": "hellenic_shipbuilding_2023-08-04_2023_08_04_clarksons_platou_hellas_snp_weekly_bulletin_82",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building In tankers this week, Ocean Yield announced orders for four firm 75k dwt LR1's at CSSC GSI Nansha. Source: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-08-04_clarksons-platou-hellas-snp-weekly-bulletin-82_report-04-08-2023_ebe9c260c669.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-08-04_clarksons-platou-hellas-snp-weekly-bulletin-82_report-04-08-2023_ebe9c260c669.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 04 Aug 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nDESPINA D 76,633 2004 IMABARI MAN B. 6S60MC6.1, SS 10/24 RGN USD 11 M U/D\nBWTS fitted DD 10/24\nNORD EVEREST 60,436 2016 OSHIMA MAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2048,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-08-04_clarksons-platou-hellas-snp-weekly-bulletin-82.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-82",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-08-04_2023_08_04_clarksons_platou_hellas_snp_weekly_bulletin_82__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-08-04_2023_08_04_clarksons_platou_hellas_snp_weekly_bulletin_82",
+      "parent_id": "hellenic_shipbuilding_2023-08-04_2023_08_04_clarksons_platou_hellas_snp_weekly_bulletin_82__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building In tankers this week, Ocean Yield announced orders for four firm 75k dwt LR1's at CSSC GSI Nansha.",
+      "keywords": [
+        "announced",
+        "building",
+        "clarkson",
+        "cssc",
+        "dwt",
+        "firm",
+        "four",
+        "gsi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-08-04_2023_08_04_clarksons_platou_hellas_snp_weekly_bulletin_82__s02_linked_asset_2023_08_04_clarksons_platou_hellas_snp_weekly_bulletin_82_report_04_08_2023_ebe9c260c669_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-08-04_2023_08_04_clarksons_platou_hellas_snp_weekly_bulletin_82",
+      "parent_id": "hellenic_shipbuilding_2023-08-04_2023_08_04_clarksons_platou_hellas_snp_weekly_bulletin_82__root",
+      "title": "Linked asset: 2023-08-04_clarksons-platou-hellas-snp-weekly-bulletin-82_report-04-08-2023_ebe9c260c669.pdf",
+      "section_path": [
+        "Linked asset: 2023-08-04_clarksons-platou-hellas-snp-weekly-bulletin-82_report-04-08-2023_ebe9c260c669.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-08-04_clarksons-platou-hellas-snp-weekly-bulletin-82_report-04-08-2023_ebe9c260c669.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-08-04_clarksons-platou-hellas-snp-weekly-bulletin-82_report-04-08-2023_ebe9c260c669.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 04 Aug 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nDESPINA D 76,633 2004 IMABARI MAN B. 6S60MC6.1, SS 10/24 RGN USD 11 M U/D\nBWTS fitted DD 10/24\nNORD EVEREST 60,436 2016 OSHIMA MAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1959,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

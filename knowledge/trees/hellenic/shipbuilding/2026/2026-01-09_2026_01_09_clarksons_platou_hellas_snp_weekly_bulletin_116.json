@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-01-09_2026_01_09_clarksons_platou_hellas_snp_weekly_bulletin_116__root",
+  "doc_id": "hellenic_shipbuilding_2026-01-09_2026_01_09_clarksons_platou_hellas_snp_weekly_bulletin_116",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Following the start of the year, we see continuous activity on both dry and tanker markets. The dry cargo market has held up with a steady flow of transactions, while the tanker sector has seen particularly strong momentum, driven by significant VLCC deals that have set a confident tone for the opening weeks of the year. Dry Cargo\nIn the larger segment, we are hearing rumors of a 2011 Japanese built Capesize being committed at levels of USD 32.5 m net, while at the Kamsarmax front, the CENTURY SHANGHAI (ABT 81K DWT, 2018, CHENGXI) has been sold via auction for USD 25.02 m.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "japan",
+    "usd",
+    "any",
+    "information",
+    "clarksons",
+    "dwt",
+    "bwts",
+    "fitted"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2463,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-01-09_clarksons-platou-hellas-snp-weekly-bulletin-116.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-116",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-01-09_2026_01_09_clarksons_platou_hellas_snp_weekly_bulletin_116__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-01-09_2026_01_09_clarksons_platou_hellas_snp_weekly_bulletin_116",
+      "parent_id": "hellenic_shipbuilding_2026-01-09_2026_01_09_clarksons_platou_hellas_snp_weekly_bulletin_116__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Following the start of the year, we see continuous activity on both dry and tanker markets. The dry cargo market has held up with a steady flow of transactions, while the tanker sector has seen particularly strong momentum, driven by significant VLCC deals that have set a confident tone for the opening weeks of the year.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "japan",
+        "usd",
+        "abt",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 524,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-01-09_2026_01_09_clarksons_platou_hellas_snp_weekly_bulletin_116__s02_linked_asset_2026_01_09_clarksons_platou_hellas_snp_weekly_bulletin_116_weekly_sales_09th_jan_2026_bad01e933afa_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-01-09_2026_01_09_clarksons_platou_hellas_snp_weekly_bulletin_116",
+      "parent_id": "hellenic_shipbuilding_2026-01-09_2026_01_09_clarksons_platou_hellas_snp_weekly_bulletin_116__root",
+      "title": "Linked asset: 2026-01-09_clarksons-platou-hellas-snp-weekly-bulletin-116_weekly-sales-09th-jan-2026_bad01e933afa.pdf",
+      "section_path": [
+        "Linked asset: 2026-01-09_clarksons-platou-hellas-snp-weekly-bulletin-116_weekly-sales-09th-jan-2026_bad01e933afa.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-01-09_clarksons-platou-hellas-snp-weekly-bulletin-116_weekly-sales-09th-jan-2026_bad01e933afa.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-01-09_clarksons-platou-hellas-snp-weekly-bulletin-116_weekly-sales-09th-jan-2026_bad01e933afa.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Following the start of the year, we see continuous activity on both dry and tanker markets.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "japan",
+        "any",
+        "information",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1891,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

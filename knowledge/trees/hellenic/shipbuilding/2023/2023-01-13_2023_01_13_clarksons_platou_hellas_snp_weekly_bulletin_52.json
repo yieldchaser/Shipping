@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-01-13_2023_01_13_clarksons_platou_hellas_snp_weekly_bulletin_52__root",
+  "doc_id": "hellenic_shipbuilding_2023-01-13_2023_01_13_clarksons_platou_hellas_snp_weekly_bulletin_52",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in dry bulk this week, it has been reported that Mitsui & Co, backed by Cargill charter, have ordered two firm Methanol dual- fuel 82.5k\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-01-13_clarksons-platou-hellas-snp-weekly-bulletin-52_report-13-01-2023_31caf02f1587.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-01-13_clarksons-platou-hellas-snp-weekly-bulletin-52_report-13-01-2023_31caf02f1587.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 13 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1 SS 08/25\nCAPE MAPLE 206,204 2005 IMABARI RGN USD 15 M TURKISH\nBWTS Fitted DD 09/23\n2012 JIANGSU MAN B. 6S50MC-C8.2 SS 07/25\nSUNRISE RAINBOW 56,415 XS USD 15 M U/D\nHANTONG Tier II, 4 x 36 T, BWTS Fitted DD 04/23\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.&W.",
+  "keywords": [
+    "capesize",
+    "handysize",
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "india",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1842,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-01-13_clarksons-platou-hellas-snp-weekly-bulletin-52.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-52",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-01-13_2023_01_13_clarksons_platou_hellas_snp_weekly_bulletin_52__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-01-13_2023_01_13_clarksons_platou_hellas_snp_weekly_bulletin_52",
+      "parent_id": "hellenic_shipbuilding_2023-01-13_2023_01_13_clarksons_platou_hellas_snp_weekly_bulletin_52__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in dry bulk this week, it has been reported that Mitsui & Co, backed by Cargill charter, have ordered two firm Methanol dual- fuel 82.5k\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "backed",
+        "building",
+        "cargill",
+        "charter",
+        "clarkson",
+        "dual",
+        "firm",
+        "fuel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 50,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-01-13_2023_01_13_clarksons_platou_hellas_snp_weekly_bulletin_52__s02_linked_asset_2023_01_13_clarksons_platou_hellas_snp_weekly_bulletin_52_report_13_01_2023_31caf02f1587_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-01-13_2023_01_13_clarksons_platou_hellas_snp_weekly_bulletin_52",
+      "parent_id": "hellenic_shipbuilding_2023-01-13_2023_01_13_clarksons_platou_hellas_snp_weekly_bulletin_52__root",
+      "title": "Linked asset: 2023-01-13_clarksons-platou-hellas-snp-weekly-bulletin-52_report-13-01-2023_31caf02f1587.pdf",
+      "section_path": [
+        "Linked asset: 2023-01-13_clarksons-platou-hellas-snp-weekly-bulletin-52_report-13-01-2023_31caf02f1587.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-01-13_clarksons-platou-hellas-snp-weekly-bulletin-52_report-13-01-2023_31caf02f1587.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-01-13_clarksons-platou-hellas-snp-weekly-bulletin-52_report-13-01-2023_31caf02f1587.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 13 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1 SS 08/25\nCAPE MAPLE 206,204 2005 IMABARI RGN USD 15 M TURKISH\nBWTS Fitted DD 09/23\n2012 JIANGSU MAN B.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "india",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1745,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

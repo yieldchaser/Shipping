@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-02-03_2023_02_03_clarksons_platou_hellas_snp_weekly_bulletin_55__root",
+  "doc_id": "hellenic_shipbuilding_2023-02-03_2023_02_03_clarksons_platou_hellas_snp_weekly_bulletin_55",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, Hyundai Mipo announced contracting four firm 50k dwt MR's with an unknown African owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 03 February 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2010 TSUNEISHI MAN B. 6S50MC-C8.2 SS 09/25\nBONITA 58,105 USD 15.9 M GREEKS\n(ZHOUSHAN) 4 x 30 T, BWTS Fitted DD 08/23\nMAN B. 5S50ME-B9.2\n2015 JIANGMEN SS 10/25\nVENTURE OCEAN 38,947 OHBS (Holds 2,3,4), 4 x 30 T, USD 18.5 M U/D\nNANYANG DD 10/23\nLogs Fitted, BWTS Fitted\nMAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2323,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-55",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-02-03_2023_02_03_clarksons_platou_hellas_snp_weekly_bulletin_55__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-02-03_2023_02_03_clarksons_platou_hellas_snp_weekly_bulletin_55",
+      "parent_id": "hellenic_shipbuilding_2023-02-03_2023_02_03_clarksons_platou_hellas_snp_weekly_bulletin_55__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, Hyundai Mipo announced contracting four firm 50k dwt MR's with an unknown African owner\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "african",
+        "announced",
+        "building",
+        "clarkson",
+        "contracting",
+        "dwt",
+        "firm",
+        "four"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-02-03_2023_02_03_clarksons_platou_hellas_snp_weekly_bulletin_55__s02_linked_asset_2023_02_03_clarksons_platou_hellas_snp_weekly_bulletin_55_report_03_02_2023_8fca4a6a32b0_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-02-03_2023_02_03_clarksons_platou_hellas_snp_weekly_bulletin_55",
+      "parent_id": "hellenic_shipbuilding_2023-02-03_2023_02_03_clarksons_platou_hellas_snp_weekly_bulletin_55__root",
+      "title": "Linked asset: 2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
+      "section_path": [
+        "Linked asset: 2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-02-03_clarksons-platou-hellas-snp-weekly-bulletin-55_report-03-02-2023_8fca4a6a32b0.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 03 February 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2010 TSUNEISHI MAN B. 6S50MC-C8.2 SS 09/25\nBONITA 58,105 USD 15.9 M GREEKS\n(ZHOUSHAN) 4 x 30 T, BWTS Fitted DD 08/23\nMAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2234,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

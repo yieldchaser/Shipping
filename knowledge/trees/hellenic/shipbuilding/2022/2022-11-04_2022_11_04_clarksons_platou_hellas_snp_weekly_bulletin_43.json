@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-11-04_2022_11_04_clarksons_platou_hellas_snp_weekly_bulletin_43__root",
+  "doc_id": "hellenic_shipbuilding_2022-11-04_2022_11_04_clarksons_platou_hellas_snp_weekly_bulletin_43",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in the gas carrier market, another busy week as Hudong Zhonghua announced contracting five firm\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 04 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.2 SS 01/26\nEDWARD N 176,216 2011 SWS BWTS Fitted DD 04/24 RGN USD 23 M TAIWANESE\nMAN B. 5S60ME-C8.2\nCARO PARDE 63,227 2012 SINOPACIFIC SS 12/22\nTier II, 4 x 36 T LOW USD 21 M CHINESE\nDAYANG DD 12/22\nBWTS Due\nMITSUBISHI 6UEC52LA SS 06/24\nWAAL CONFIDENCE 33,387 2009 SHIN KOCHI 4 x 30 T, BWTS Fitted DD 06/24 USD 15.2 M GREEKS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2009 SHIN MITSUBISHI 6UEC60LS SS 03/27\nCELSIUS RIMINI 53,603 USD 24.5 M BANGLADESHI\nKURUSHIMA Pumps 4, BWTS Fitted DD 05/25\nNew Building\nIn the gas carrier market, another busy week as Hudong Zhonghua announced contracting five firm 174k CBM LNG Carrie",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil",
+    "pacific",
+    "europe",
+    "india",
+    "singapore",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2094,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-43",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-11-04_2022_11_04_clarksons_platou_hellas_snp_weekly_bulletin_43__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-11-04_2022_11_04_clarksons_platou_hellas_snp_weekly_bulletin_43",
+      "parent_id": "hellenic_shipbuilding_2022-11-04_2022_11_04_clarksons_platou_hellas_snp_weekly_bulletin_43__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in the gas carrier market, another busy week as Hudong Zhonghua announced contracting five firm\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "gas",
+        "announced",
+        "another",
+        "building",
+        "busy",
+        "carrier",
+        "clarkson",
+        "contracting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-11-04_2022_11_04_clarksons_platou_hellas_snp_weekly_bulletin_43__s02_linked_asset_2022_11_04_clarksons_platou_hellas_snp_weekly_bulletin_43_report_04_11_2022_6cc2aef6c200_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-11-04_2022_11_04_clarksons_platou_hellas_snp_weekly_bulletin_43",
+      "parent_id": "hellenic_shipbuilding_2022-11-04_2022_11_04_clarksons_platou_hellas_snp_weekly_bulletin_43__root",
+      "title": "Linked asset: 2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
+      "section_path": [
+        "Linked asset: 2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-11-04_clarksons-platou-hellas-snp-weekly-bulletin-43_report-04-11-2022_6cc2aef6c200.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 04 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC6.2 SS 01/26\nEDWARD N 176,216 2011 SWS BWTS Fitted DD 04/24 RGN USD 23 M TAIWANESE\nMAN B.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "brazil",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2013,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

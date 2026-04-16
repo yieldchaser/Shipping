@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-06-17_2022_06_17_clarksons_platou_hellas_snp_weekly_bulletin_23__root",
+  "doc_id": "hellenic_shipbuilding_2022-06-17_2022_06_17_clarksons_platou_hellas_snp_weekly_bulletin_23",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn tankers this week, it has been reported that Clients of Thenamaris ordered two 115k dwt LR2's at HyundaiVinashin\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 17 June 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS/DD\nCONSTANTIN OLDENDORFF 92,762 Freshly\n2012 COSCO ZHOUSHAN MAN-B&W 6S60MC-C Passed USD 21.65 M UAE BASED\nTier II, BWTS fitted each\nSS 01/27\nCLEMENS OLDENDORFF 92,759\nDD 05/25\nMAN-B&W 6S50MC-C8.1\nSS 07/26\nHAYAMA STAR 52,900 2006 OSHIMA 4 x 30 T USD 17.5 M CHINESE\nDD 07/24\nBWTS fitted\nMAN-B&W 6S50MC-C\nSS 07/24\nCARDINAL 55,362 2004 OSHIMA 4 x 30 T HIGH USD 15 M CHINESE\nDD 06/22\nBWTS fitted\nMAN-B&W 6S50MC-C8.1\nSS 06/25\nEMILIA 53,098 2002 OSHIMA 4 x 30 T USD 13,9 M CHINESE\nDD 07/23\nBWTS included\nMAN-B&W 6S50ME-C\nSS/DD\nANSAC COLUMBIA 37,993 2017 SHIMANAMI 4 x 30.5 T HIGH USD 28 M U/D\nPassed\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD",
+  "keywords": [
+    "vlcc",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "gas",
+    "any",
+    "information",
+    "clarksons",
+    "platou"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2245,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-23",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-06-17_2022_06_17_clarksons_platou_hellas_snp_weekly_bulletin_23__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-06-17_2022_06_17_clarksons_platou_hellas_snp_weekly_bulletin_23",
+      "parent_id": "hellenic_shipbuilding_2022-06-17_2022_06_17_clarksons_platou_hellas_snp_weekly_bulletin_23__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tankers this week, it has been reported that Clients of Thenamaris ordered two 115k dwt LR2's at HyundaiVinashin\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "clarkson",
+        "clients",
+        "dwt",
+        "hellas",
+        "hyundaivinashin",
+        "lr2",
+        "ltd",
+        "ordered"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-06-17_2022_06_17_clarksons_platou_hellas_snp_weekly_bulletin_23__s02_linked_asset_2022_06_17_clarksons_platou_hellas_snp_weekly_bulletin_23_report_17_06_2022_190694dc9fdc_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-06-17_2022_06_17_clarksons_platou_hellas_snp_weekly_bulletin_23",
+      "parent_id": "hellenic_shipbuilding_2022-06-17_2022_06_17_clarksons_platou_hellas_snp_weekly_bulletin_23__root",
+      "title": "Linked asset: 2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf",
+      "section_path": [
+        "Linked asset: 2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-06-17_clarksons-platou-hellas-snp-weekly-bulletin-23_report-17-06-2022_190694dc9fdc.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 17 June 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS/DD\nCONSTANTIN OLDENDORFF 92,762 Freshly\n2012 COSCO ZHOUSHAN MAN-B&W 6S60MC-C Passed USD 21.65 M UAE BASED\nTier II, BWTS fitted each\nSS 01/27\nCLEMENS OLDENDORFF 92,759\nDD 05/25\nMAN-B&W 6S50MC-C8.1\nSS 07/26\nHAYAMA STAR 52,900 2006 OSHIMA 4 x 30 T USD 17.5 M CHINESE\nDD 07/24\nBWTS fitted\nMAN-B&W 6S50MC-C\nSS 07/24\nCARDINAL 55,362 2004 OSHIMA 4 x 30 T HIGH USD 15 M CHINESE\nDD 06/22\nBWTS fitted\nMAN-B&W 6S50MC-C8.1\nSS 06/25\nEMILIA 53,098 2002 OSHIMA 4 x 30 T USD 13,9 M CHINESE\nDD 07/23\nBWTS included\nMAN-B&W 6S50ME-C\nSS/DD\nANSAC COLUMBIA 37,993 2017 SHIMANAMI 4 x 30.5 T HIGH USD 28 M U/D\nPassed\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSULZER 7RTA84T-D\nSS 11/22\nKOHO I 301,045 2002 IHI 3 Pumps, CAP 2 USD 28.5 M U/D\nDD 11/22\nBWTS fitted\nSULZER 7RTA58T\nSS 04/25\nANGELICA SCHULTE 106,433 2005 UNIVERSAL 3 Pumps, CAP 1 HIGH USD 19 M U/D\nDD 05/23\nBWTS fitted\nPage 1 of 3\n\n[Page 2]\n1\nSale and P",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2157,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

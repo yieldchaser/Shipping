@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-07-09_2021_07_09_clarkson_platou_hellas_sp_weekly_bulletin_108__root",
+  "doc_id": "hellenic_shipbuilding_2021-07-09_2021_07_09_clarkson_platou_hellas_sp_weekly_bulletin_108",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn dry bulk this week, Aston Enterprise are reported to have ordered two firm 82k dwt Kamsarmax at Chengxi Shipyard\nSource: Clarkson PLC\n\nLinked asset: 2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 7 July 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nWARTSILA 6RTA68T-B SS 03/26\nMANGAS 173,918 2011 BOHAI RGN USD 24 M GREEKS\nBWTS fitted DD 05/24\nSS 11/21\nDOUBLE PROVIDENCE 95,720 2012 IMABARI MAN-B&W 6S60MC-C USD 21.3 M GREEKS\nDD 11/21\nSS 07/22\nSEA EXPRESS 79,252 2012 COSCO DALIAN MAN-B&W 7S50MC-C USD 18.8 M GREEKS\nDD 07/22\nMAN-B&W 5G60ME-C9.2\nSS 06/24 RGN USD 21 M\nKMARIN ULSAN 63,151 2014 JIANGSU HANTONG 4 x 36 T CHINESE\nDD 08/22 (Delivery 01/2022)\nBWTS fitted\nMAN-B&W 6S50MC-C\nSS 06/22\nBULK COSTA RICA 58,758 2012 NACKS 4 x 30 T RGN USD 19 M GREEKS\nDD 06/22\nBWTS fitted\nMAN-B&W 6S50MC-C8.2 SS 02/23\nBULK PATAGONIA 58,723 2012 KAWASAKI\n4 x 30 T DD 02/23\nMAN-B&W 6S50MC-C8.2\nSS 05/26 USD 60 M\nBULK CURACAO 4 x 30 T GREEKS\nDD 05/24 en ",
+  "keywords": [
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "gas",
+    "usd",
+    "man-b",
+    "clarksons",
+    "any",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2875,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-108",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-07-09_2021_07_09_clarkson_platou_hellas_sp_weekly_bulletin_108__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-07-09_2021_07_09_clarkson_platou_hellas_sp_weekly_bulletin_108",
+      "parent_id": "hellenic_shipbuilding_2021-07-09_2021_07_09_clarkson_platou_hellas_sp_weekly_bulletin_108__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In dry bulk this week, Aston Enterprise are reported to have ordered two firm 82k dwt Kamsarmax at Chengxi Shipyard\nSource: Clarkson PLC",
+      "keywords": [
+        "are",
+        "aston",
+        "chengxi",
+        "clarkson",
+        "dwt",
+        "enterprise",
+        "firm",
+        "kamsarmax"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-07-09_2021_07_09_clarkson_platou_hellas_sp_weekly_bulletin_108__s02_linked_asset_2021_07_09_clarkson_platou_hellas_sp_weekly_bulletin_108_report_09_07_2021_a88266b1b022_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-07-09_2021_07_09_clarkson_platou_hellas_sp_weekly_bulletin_108",
+      "parent_id": "hellenic_shipbuilding_2021-07-09_2021_07_09_clarkson_platou_hellas_sp_weekly_bulletin_108__root",
+      "title": "Linked asset: 2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf",
+      "section_path": [
+        "Linked asset: 2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-07-09_clarkson-platou-hellas-sp-weekly-bulletin-108_report-09-07-2021_a88266b1b022.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 7 July 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nWARTSILA 6RTA68T-B SS 03/26\nMANGAS 173,918 2011 BOHAI RGN USD 24 M GREEKS\nBWTS fitted DD 05/24\nSS 11/21\nDOUBLE PROVIDENCE 95,720 2012 IMABARI MAN-B&W 6S60MC-C USD 21.3 M GREEKS\nDD 11/21\nSS 07/22\nSEA EXPRESS 79,252 2012 COSCO DALIAN MAN-B&W 7S50MC-C USD 18.8 M GREEKS\nDD 07/22\nMAN-B&W 5G60ME-C9.2\nSS 06/24 RGN USD 21 M\nKMARIN ULSAN 63,151 2014 JIANGSU HANTONG 4 x 36 T CHINESE\nDD 08/22 (Delivery 01/2022)\nBWTS fitted\nMAN-B&W 6S50MC-C\nSS 06/22\nBULK COSTA RICA 58,758 2012 NACKS 4 x 30 T RGN USD 19 M GREEKS\nDD 06/22\nBWTS fitted\nMAN-B&W 6S50MC-C8.2 SS 02/23\nBULK PATAGONIA 58,723 2012 KAWASAKI\n4 x 30 T DD 02/23\nMAN-B&W 6S50MC-C8.2\nSS 05/26 USD 60 M\nBULK CURACAO 4 x 30 T GREEKS\nDD 05/24 en bloc\n57,937 2011 TSUNEISHI CEBU BWTS fitted\nMAN-B&W 6S50MC-C8.2 SS 09/21\nBULK ECUADOR\n4 x 30 T DD 09/21\nMAN-B&W 6S50MC-C SS 04/22\nCENTENARIO FORZA 56,129 2012 MITSUI RGN USD 18.5 M U/D\n4 x 30 T DD 04/22\nMAN-B&W 6S50MC-C\nSS 10/25\nIMPERIAL FORTUNE 53,",
+      "keywords": [
+        "lng",
+        "lpg",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "gas",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2795,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

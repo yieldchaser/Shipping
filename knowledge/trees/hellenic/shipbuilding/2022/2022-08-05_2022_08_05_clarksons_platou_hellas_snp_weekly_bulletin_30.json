@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-08-05_2022_08_05_clarksons_platou_hellas_snp_weekly_bulletin_30__root",
+  "doc_id": "hellenic_shipbuilding_2022-08-05_2022_08_05_clarksons_platou_hellas_snp_weekly_bulletin_30",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn Containers this week, it was reported that CMA CGM ordered six firm 15,000TEU containerships at CSSC Dalian Shipbuilding (DSIC)\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 05 August 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 5S50MC-C8.2 SS 06/25\nMISS SIMONA 34,602 2010 SPP 4 x 35 T, BWTS fitted DD 08/23 USD 16.8 M GREEKS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S80MC-C6.1 SS 05/25\nALTAIR TRADER 311,110 2005 MITSUI RGN USD 36 M U/D\n4 Pumps DD 09/23\nSTAVANGER MAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "india",
+    "singapore",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "its",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1815,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-30",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-08-05_2022_08_05_clarksons_platou_hellas_snp_weekly_bulletin_30__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-08-05_2022_08_05_clarksons_platou_hellas_snp_weekly_bulletin_30",
+      "parent_id": "hellenic_shipbuilding_2022-08-05_2022_08_05_clarksons_platou_hellas_snp_weekly_bulletin_30__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In Containers this week, it was reported that CMA CGM ordered six firm 15,000TEU containerships at CSSC Dalian Shipbuilding (DSIC)\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "container",
+        "cgm",
+        "clarkson",
+        "cma",
+        "containers",
+        "containerships",
+        "cssc",
+        "dalian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-08-05_2022_08_05_clarksons_platou_hellas_snp_weekly_bulletin_30__s02_linked_asset_2022_08_05_clarksons_platou_hellas_snp_weekly_bulletin_30_report_05_08_2022_48732f863581_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-08-05_2022_08_05_clarksons_platou_hellas_snp_weekly_bulletin_30",
+      "parent_id": "hellenic_shipbuilding_2022-08-05_2022_08_05_clarksons_platou_hellas_snp_weekly_bulletin_30__root",
+      "title": "Linked asset: 2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
+      "section_path": [
+        "Linked asset: 2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-08-05_clarksons-platou-hellas-snp-weekly-bulletin-30_report-05-08-2022_48732f863581.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 05 August 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 5S50MC-C8.2 SS 06/25\nMISS SIMONA 34,602 2010 SPP 4 x 35 T, BWTS fitted DD 08/23 USD 16.8 M GREEKS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "india",
+        "singapore",
+        "gas",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1724,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

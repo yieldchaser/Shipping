@@ -1,0 +1,89 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-07-21_2021_07_21_breakwave_dry_bulk_shipping_report_20_07_2021__root",
+  "doc_id": "hellenic_shipbuilding_2021-07-21_2021_07_21_breakwave_dry_bulk_shipping_report_20_07_2021",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 20.07.2021",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 20.07.2021"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 20.07.2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVolatility rampant but which way market balance points to? Source: Breakwave Advisors\n\nLinked asset: 2021-07-21_breakwave-dry-bulk-shipping-report-20-07-2021_breakwavejuly202021report_1afda8e14b4d.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-07-21_breakwave-dry-bulk-shipping-report-20-07-2021_breakwavejuly202021report_1afda8e14b4d.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nJuly 20, 2021\nBreakwave Dry Futures Index: 3,267 Baltic Dry Index (spot): 3,059 Short-term Indicators:\n↓ 30D: -4.2% ↓ 30D: -4.9% Momentum: Negative\n↑ YTD: 229.8% ↑ YTD: 123.9% Sentiment: Neutral\n↑ YOY: 106.8% ↑ YOY: 78.9% Fundamentals: Positive\nBi-Weekly Report\n• Volatility rampant but which way market balance points to? - The past two weeks have once again been\ncharacterized by heightened volatility across all dry bulk segments.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "demand",
+    "iron"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1478,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-07-21_breakwave-dry-bulk-shipping-report-20-07-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-20-07-2021",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-07-21_2021_07_21_breakwave_dry_bulk_shipping_report_20_07_2021__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-07-21_2021_07_21_breakwave_dry_bulk_shipping_report_20_07_2021",
+      "parent_id": "hellenic_shipbuilding_2021-07-21_2021_07_21_breakwave_dry_bulk_shipping_report_20_07_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Volatility rampant but which way market balance points to?",
+      "keywords": [
+        "balance",
+        "but",
+        "points",
+        "rampant",
+        "source",
+        "volatility",
+        "way"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 16,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-07-21_2021_07_21_breakwave_dry_bulk_shipping_report_20_07_2021__s02_linked_asset_2021_07_21_breakwave_dry_bulk_shipping_report_20_07_2021_breakwavejuly202021report_1afda8e14b4d_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-07-21_2021_07_21_breakwave_dry_bulk_shipping_report_20_07_2021",
+      "parent_id": "hellenic_shipbuilding_2021-07-21_2021_07_21_breakwave_dry_bulk_shipping_report_20_07_2021__root",
+      "title": "Linked asset: 2021-07-21_breakwave-dry-bulk-shipping-report-20-07-2021_breakwavejuly202021report_1afda8e14b4d.pdf",
+      "section_path": [
+        "Linked asset: 2021-07-21_breakwave-dry-bulk-shipping-report-20-07-2021_breakwavejuly202021report_1afda8e14b4d.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-07-21_breakwave-dry-bulk-shipping-report-20-07-2021_breakwavejuly202021report_1afda8e14b4d.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-07-21_breakwave-dry-bulk-shipping-report-20-07-2021_breakwavejuly202021report_1afda8e14b4d.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nJuly 20, 2021\nBreakwave Dry Futures Index: 3,267 Baltic Dry Index (spot): 3,059 Short-term Indicators:\n↓ 30D: -4.2% ↓ 30D: -4.9% Momentum: Negative\n↑ YTD: 229.8% ↑ YTD: 123.9% Sentiment: Neutral\n↑ YOY: 106.8% ↑ YOY: 78.9% Fundamentals: Positive\nBi-Weekly Report\n• Volatility rampant but which way market balance points to? - The past two weeks have once again been\ncharacterized by heightened volatility across all dry bulk segments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1414,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

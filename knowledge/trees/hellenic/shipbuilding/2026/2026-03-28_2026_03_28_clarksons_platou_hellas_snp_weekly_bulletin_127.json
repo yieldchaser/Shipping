@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-03-28_2026_03_28_clarksons_platou_hellas_snp_weekly_bulletin_127__root",
+  "doc_id": "hellenic_shipbuilding_2026-03-28_2026_03_28_clarksons_platou_hellas_snp_weekly_bulletin_127",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis week, the S&P market has adopted a more cautious tone, however, a fair number of transactions have still materialized across segments. Activity appears more selective and targeted, with the market continuing to be shaped by firm price expectations from Sellers. Dry Cargo\nIn the Capesize sector, Japanese owners invited offers last week for the FRONTIER GARLAND (ABT 181K DWT, 2011, IMABARI) and is now reported sold to Greek interests at USD 36.4m.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "china",
+    "japan",
+    "dwt",
+    "any",
+    "abt",
+    "information",
+    "usd",
+    "clarksons",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2014,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-127",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-03-28_2026_03_28_clarksons_platou_hellas_snp_weekly_bulletin_127__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-03-28_2026_03_28_clarksons_platou_hellas_snp_weekly_bulletin_127",
+      "parent_id": "hellenic_shipbuilding_2026-03-28_2026_03_28_clarksons_platou_hellas_snp_weekly_bulletin_127__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, the S&P market has adopted a more cautious tone, however, a fair number of transactions have still materialized across segments. Activity appears more selective and targeted, with the market continuing to be shaped by firm price expectations from Sellers.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "china",
+        "japan",
+        "abt",
+        "dwt",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 436,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-03-28_2026_03_28_clarksons_platou_hellas_snp_weekly_bulletin_127__s02_linked_asset_2026_03_28_clarksons_platou_hellas_snp_weekly_bulletin_127_weekly_sales_27th_mar_2026_b3b7dea08cd9_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-03-28_2026_03_28_clarksons_platou_hellas_snp_weekly_bulletin_127",
+      "parent_id": "hellenic_shipbuilding_2026-03-28_2026_03_28_clarksons_platou_hellas_snp_weekly_bulletin_127__root",
+      "title": "Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-28_clarksons-platou-hellas-snp-weekly-bulletin-127_weekly-sales-27th-mar-2026_b3b7dea08cd9.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThis week, the S&P market has adopted a more cautious tone, however, a fair number of transactions\nhave still materialized across segments.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "china",
+        "japan",
+        "any",
+        "information",
+        "clarksons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1528,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

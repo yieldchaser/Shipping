@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-12-03_2021_12_03_clarkson_platou_hellas_sp_weekly_bulletin_129__root",
+  "doc_id": "hellenic_shipbuilding_2021-12-03_2021_12_03_clarkson_platou_hellas_sp_weekly_bulletin_129",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING : In dry bulk, Clients of Samos Steamship ordered two firm 180k dwt Capesize bulkers at JMU Ariake Shipyard\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 03 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 05/25\nSTAR ARTEMIS 63,205\nMAN-B&W 5S60ME-C8.1 DD 05/23\nUSD 53 M\n2015 SINOPACIFIC DAYANG 4 x 36 T U/D\nen bloc\nBWTS fited SS 10/25\nSTAR EOS 63,500\nDD 09/25\nMAN-B&W 6S50MC-C\nSS 09/22\nVIRGO COLOSSUS 61,616 2012 OSHIMA 4 x 30 T RGN USD 24 M GREEKS\nDD 09/22\nBWTS fitted\nSS 03/22\nNEW FACE MAN-B&W 6S46ME-B8.3 DD 03/22 RGN USD 27M each\n38,230 2017 SHIN KOCHI 4 x 30 T GREEKS\n(basis SS/DD passed)\nBWTS fitted\nSS 01/22\nNEW DAYS\nDD 01/22\nMAN-B&W 6S46MC-C\nSS 09/26\nOCEAN GALAXY 37,193 2011 HMD 4 x 30 T LOW USD 16 M M. EASTERNS\nDD 09/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMITSUBISHI 6UEC52LS SS 01/22\nHAFNIA HOPE 39,997 20",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "japan",
+    "iron_ore",
+    "products",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2376,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-129",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-12-03_2021_12_03_clarkson_platou_hellas_sp_weekly_bulletin_129__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-12-03_2021_12_03_clarkson_platou_hellas_sp_weekly_bulletin_129",
+      "parent_id": "hellenic_shipbuilding_2021-12-03_2021_12_03_clarkson_platou_hellas_sp_weekly_bulletin_129__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING : In dry bulk, Clients of Samos Steamship ordered two firm 180k dwt Capesize bulkers at JMU Ariake Shipyard\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "capesize",
+        "ariake",
+        "building",
+        "bulkers",
+        "clarkson",
+        "clients",
+        "dwt",
+        "firm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-12-03_2021_12_03_clarkson_platou_hellas_sp_weekly_bulletin_129__s02_linked_asset_2021_12_03_clarkson_platou_hellas_sp_weekly_bulletin_129_report_03_12_2021_38d493450c53_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-12-03_2021_12_03_clarkson_platou_hellas_sp_weekly_bulletin_129",
+      "parent_id": "hellenic_shipbuilding_2021-12-03_2021_12_03_clarkson_platou_hellas_sp_weekly_bulletin_129__root",
+      "title": "Linked asset: 2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf",
+      "section_path": [
+        "Linked asset: 2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-12-03_clarkson-platou-hellas-sp-weekly-bulletin-129_report-03-12-2021_38d493450c53.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 03 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 05/25\nSTAR ARTEMIS 63,205\nMAN-B&W 5S60ME-C8.1 DD 05/23\nUSD 53 M\n2015 SINOPACIFIC DAYANG 4 x 36 T U/D\nen bloc\nBWTS fited SS 10/25\nSTAR EOS 63,500\nDD 09/25\nMAN-B&W 6S50MC-C\nSS 09/22\nVIRGO COLOSSUS 61,616 2012 OSHIMA 4 x 30 T RGN USD 24 M GREEKS\nDD 09/22\nBWTS fitted\nSS 03/22\nNEW FACE MAN-B&W 6S46ME-B8.3 DD 03/22 RGN USD 27M each\n38,230 2017 SHIN KOCHI 4 x 30 T GREEKS\n(basis SS/DD passed)\nBWTS fitted\nSS 01/22\nNEW DAYS\nDD 01/22\nMAN-B&W 6S46MC-C\nSS 09/26\nOCEAN GALAXY 37,193 2011 HMD 4 x 30 T LOW USD 16 M M. EASTERNS\nDD 09/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMITSUBISHI 6UEC52LS SS 01/22\nHAFNIA HOPE 39,997 2007 SAIKI USD 9 .5 M U/D\nIMO III DD 01/22\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 03 December 2021\nNEW BUILDING\nIn dry bulk, Clients of Samos Steamship ordered two firm 180k dwt Capesize bulkers at JMU Ariake Shipyard, with delivery of the fi",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2285,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2022-05-10_2022_05_10_weekly_vessel_valuations_report_may_10_2022__root",
+  "doc_id": "hellenic_vessel_valuations_2022-05-10_2022_05_10_weekly_vessel_valuations_report_may_10_2022",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, May 10 2022",
+  "section_path": [
+    "Weekly Vessel Valuations Report, May 10 2022"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, May 10 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: Bulker values have firmed\nHandy BC Irongate (28,100 DWT, Apr 2015, I-S) sold to undisclosed buyers for USD 18.00 mil, VV Value USD 18.96 mil - BWTS Fitted. Tankers: LR1 values have firmed\nAframax FSL Hong Kong (115,000 DWT, Apr 2007, Samsung) sold to unknown Chinese buyers for USD 19.40 mil, VV Value USD 21.04 mil - SS Due. Containers: Container values have softened\nHandy Container Norderoog (1,402 TEU, Nov 2004, Jinling Shipyard Weihai) sold to undisclosed buyers for USD 22 mil, VV Value USD 26.43.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "aframax",
+    "container",
+    "china",
+    "usd",
+    "mil",
+    "handy",
+    "asset",
+    "buyers",
+    "image"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1074,
+  "source_path": "reports/hellenic/vessel_valuations/2022/2022-05-10_weekly-vessel-valuations-report-may-10-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-10-2022",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2022-05-10_2022_05_10_weekly_vessel_valuations_report_may_10_2022__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2022-05-10_2022_05_10_weekly_vessel_valuations_report_may_10_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-05-10_2022_05_10_weekly_vessel_valuations_report_may_10_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: Bulker values have firmed\nHandy BC Irongate (28,100 DWT, Apr 2015, I-S) sold to undisclosed buyers for USD 18.00 mil, VV Value USD 18.96 mil - BWTS Fitted. Tankers: LR1 values have firmed\nAframax FSL Hong Kong (115,000 DWT, Apr 2007, Samsung) sold to unknown Chinese buyers for USD 19.40 mil, VV Value USD 21.04 mil - SS Due.",
+      "keywords": [
+        "handysize",
+        "aframax",
+        "container",
+        "china",
+        "usd",
+        "mil",
+        "buyers",
+        "sold"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 213,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2022-05-10_2022_05_10_weekly_vessel_valuations_report_may_10_2022__s02_linked_asset_2022_05_10_weekly_vessel_valuations_report_may_10_2022_img1_matrix_10_may_2022_927a7a2626e9_png",
+      "doc_id": "hellenic_vessel_valuations_2022-05-10_2022_05_10_weekly_vessel_valuations_report_may_10_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-05-10_2022_05_10_weekly_vessel_valuations_report_may_10_2022__root",
+      "title": "Linked asset: 2022-05-10_weekly-vessel-valuations-report-may-10-2022_img1_matrix-10-may-2022_927a7a2626e9.png",
+      "section_path": [
+        "Linked asset: 2022-05-10_weekly-vessel-valuations-report-may-10-2022_img1_matrix-10-may-2022_927a7a2626e9.png"
+      ],
+      "section_path_text": "Linked asset: 2022-05-10_weekly-vessel-valuations-report-may-10-2022_img1_matrix-10-may-2022_927a7a2626e9.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2022/assets/2022-05-10_weekly-vessel-valuations-report-may-10-2022_img1_matrix-10-may-2022_927a7a2626e9.png\n\nLinked image asset: 2022-05-10_weekly-vessel-valuations-report-may-10-2022_img1_matrix-10-may-2022_927a7a2626e9.png\n\nImage metadata: PNG 678x252 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\n\nOCR text:\n© VesselsValue™\n10 May 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Suez Afra LRI MR Cape Pmax Supra Handy pest Pmax Handy Fmax\no +0.1% +0.6% +0.1% +0.5% +1.0% 41.2% +0.8% +1.0% +1.2% \"0.6% --1.2% -5.5% -2.3%\n320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100\n5 +0.2% +0.8% -0.1% +0.6% +0.3% +1.2% +0.8% +1.0% +1.0% 0.6% -1.2% -5.6% -2.3%\n320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100\n10 +0.1% +0.9% +1.0% +1.4% +0.0% +1.2% +0.8% +1.0% +0.7% 0.6% -1.4% -6.1% -2.2%\n310K 160K 110K 75K 50K 180K BOK 60K 30K 7000 4250 1750 1100\n15 40.1% +0.9% +1.7% +2.7% +0.5% 41.2% +0.8% +1.0% +0.4% 0.6% -1.6% -6.7% -2.3%\n310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100\n20 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% +0.8% +1.0% +0.3% -0.6% -2.1% -7.4% -2.4%\n305K 155K 105K 70K 45K 1",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "asset",
+        "handy",
+        "image",
+        "pmax"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 813,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

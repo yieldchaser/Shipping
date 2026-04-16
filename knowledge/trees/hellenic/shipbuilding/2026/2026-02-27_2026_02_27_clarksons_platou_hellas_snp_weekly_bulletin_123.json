@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-02-27_2026_02_27_clarksons_platou_hellas_snp_weekly_bulletin_123__root",
+  "doc_id": "hellenic_shipbuilding_2026-02-27_2026_02_27_clarksons_platou_hellas_snp_weekly_bulletin_123",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBoth dry bulk and tanker secondhand markets have remained active, with bulker deals particularly active. Transactions continue to materialize, reflecting sustained buyers' appetite despite asset prices across both sectors continuing to push at higher levels, supporting overall market confidence. Dry Cargo\nOn the Kamsarmax front, c/o Agricore Shipping have concluded the sale of the ASL MOON (ABT 81K DWT, 2008, MITSUI TAMANO) at USD 13.6 m to Chinese interests.",
+  "keywords": [
+    "supramax",
+    "handysize",
+    "suezmax",
+    "china",
+    "usd",
+    "any",
+    "dwt",
+    "information",
+    "abt",
+    "clarksons",
+    "fitted",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2185,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-123",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-02-27_2026_02_27_clarksons_platou_hellas_snp_weekly_bulletin_123__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-02-27_2026_02_27_clarksons_platou_hellas_snp_weekly_bulletin_123",
+      "parent_id": "hellenic_shipbuilding_2026-02-27_2026_02_27_clarksons_platou_hellas_snp_weekly_bulletin_123__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Both dry bulk and tanker secondhand markets have remained active, with bulker deals particularly active. Transactions continue to materialize, reflecting sustained buyers' appetite despite asset prices across both sectors continuing to push at higher levels, supporting overall market confidence.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "suezmax",
+        "china",
+        "abt",
+        "dwt",
+        "usd",
+        "basis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 440,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-02-27_2026_02_27_clarksons_platou_hellas_snp_weekly_bulletin_123__s02_linked_asset_2026_02_27_clarksons_platou_hellas_snp_weekly_bulletin_123_weekly_sales_27th_feb_2026_22c970e8c7d9_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-02-27_2026_02_27_clarksons_platou_hellas_snp_weekly_bulletin_123",
+      "parent_id": "hellenic_shipbuilding_2026-02-27_2026_02_27_clarksons_platou_hellas_snp_weekly_bulletin_123__root",
+      "title": "Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf",
+      "section_path": [
+        "Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-27_clarksons-platou-hellas-snp-weekly-bulletin-123_weekly-sales-27th-feb-2026_22c970e8c7d9.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nBoth dry bulk and tanker secondhand markets have remained active, with bulker deals particularly\nactive.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "suezmax",
+        "china",
+        "any",
+        "information",
+        "usd",
+        "clarksons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1692,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

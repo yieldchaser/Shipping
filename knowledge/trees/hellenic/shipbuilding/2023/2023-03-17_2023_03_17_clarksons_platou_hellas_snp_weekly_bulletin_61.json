@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-03-17_2023_03_17_clarksons_platou_hellas_snp_weekly_bulletin_61__root",
+  "doc_id": "hellenic_shipbuilding_2023-03-17_2023_03_17_clarksons_platou_hellas_snp_weekly_bulletin_61",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in the gas carrier market this week, an unnamed owner ordered two firm 174k CBM LNG Carriers at DSME\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-03-17_clarksons-platou-hellas-snp-weekly-bulletin-61_report-17-03-2023_2e412a92a01f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-03-17_clarksons-platou-hellas-snp-weekly-bulletin-61_report-17-03-2023_2e412a92a01f.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 17 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1 SS 11/24\nXIN JIN HAI 180,406 2009 DALIAN USD 23 M CHINESE\nBWTS Fitted DD 11/24\nSS 02/27\nAQUAHAHA 179,023 2012 HHIC-\nPHILIPPINES MAN B. 6S70MC-C7.2 DD 05/25 RGN USD 28 M DANISH\nBWTS Fitted SS 03/27 EACH\nAQUATONKA 179,004 (SUBIC SHIPYARD)\nDD 05/25\nCHINESE\nMAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "grain",
+    "gas",
+    "usd",
+    "any"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2901,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-03-17_clarksons-platou-hellas-snp-weekly-bulletin-61.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-61",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-03-17_2023_03_17_clarksons_platou_hellas_snp_weekly_bulletin_61__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-03-17_2023_03_17_clarksons_platou_hellas_snp_weekly_bulletin_61",
+      "parent_id": "hellenic_shipbuilding_2023-03-17_2023_03_17_clarksons_platou_hellas_snp_weekly_bulletin_61__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in the gas carrier market this week, an unnamed owner ordered two firm 174k CBM LNG Carriers at DSME\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "lng",
+        "gas",
+        "building",
+        "carrier",
+        "carriers",
+        "cbm",
+        "clarkson",
+        "dsme"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-03-17_2023_03_17_clarksons_platou_hellas_snp_weekly_bulletin_61__s02_linked_asset_2023_03_17_clarksons_platou_hellas_snp_weekly_bulletin_61_report_17_03_2023_2e412a92a01f_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-03-17_2023_03_17_clarksons_platou_hellas_snp_weekly_bulletin_61",
+      "parent_id": "hellenic_shipbuilding_2023-03-17_2023_03_17_clarksons_platou_hellas_snp_weekly_bulletin_61__root",
+      "title": "Linked asset: 2023-03-17_clarksons-platou-hellas-snp-weekly-bulletin-61_report-17-03-2023_2e412a92a01f.pdf",
+      "section_path": [
+        "Linked asset: 2023-03-17_clarksons-platou-hellas-snp-weekly-bulletin-61_report-17-03-2023_2e412a92a01f.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-03-17_clarksons-platou-hellas-snp-weekly-bulletin-61_report-17-03-2023_2e412a92a01f.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-03-17_clarksons-platou-hellas-snp-weekly-bulletin-61_report-17-03-2023_2e412a92a01f.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 17 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.1 SS 11/24\nXIN JIN HAI 180,406 2009 DALIAN USD 23 M CHINESE\nBWTS Fitted DD 11/24\nSS 02/27\nAQUAHAHA 179,023 2012 HHIC-\nPHILIPPINES MAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "atlantic",
+        "pacific",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2814,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

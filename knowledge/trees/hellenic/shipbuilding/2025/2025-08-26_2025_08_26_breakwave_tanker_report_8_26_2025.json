@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-08-26_2025_08_26_breakwave_tanker_report_8_26_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-08-26_2025_08_26_breakwave_tanker_report_8_26_2025",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 8.26.2025",
+  "section_path": [
+    "Breakwave Tanker Report 8.26.2025"
+  ],
+  "section_path_text": "Breakwave Tanker Report 8.26.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC Market Closes August on a Stronger Footing - In the final week of August, MEG activity strengthened sharply as cargo flows accelerated\nSource: Breakwave Advisors\n\nLinked asset: 2025-08-26_breakwave-tanker-report-8-26-2025_breakwave-tankers-august-26-2025-rep_2e8ea60b37c6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-08-26_breakwave-tanker-report-8-26-2025_breakwave-tankers-august-26-2025-rep_2e8ea60b37c6.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nAugust 26, 2025\n• VLCC Market Closes August on a Stronger Footing - In the final week of August,\nShort-term Indicators\nMEG activity strengthened sharply as cargo flows accelerated, with rates in some\nMomentum: Positive\ncases climbing nearly 10 points in a single day. This surge capped an already\nrobust August, signaling a clear rebound from the late-July dip. Looking ahead, Sentiment: Positive\napproximately 40 first-decade September cargoes are already in play, with another Fundamentals: Positive\n10 likely to emerge.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "gas",
+    "oil",
+    "august"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1749,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-08-26_breakwave-tanker-report-8-26-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-8-26-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-08-26_2025_08_26_breakwave_tanker_report_8_26_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-08-26_2025_08_26_breakwave_tanker_report_8_26_2025",
+      "parent_id": "hellenic_shipbuilding_2025-08-26_2025_08_26_breakwave_tanker_report_8_26_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Market Closes August on a Stronger Footing - In the final week of August, MEG activity strengthened sharply as cargo flows accelerated\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "august",
+        "accelerated",
+        "activity",
+        "cargo",
+        "closes",
+        "final"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-08-26_2025_08_26_breakwave_tanker_report_8_26_2025__s02_linked_asset_2025_08_26_breakwave_tanker_report_8_26_2025_breakwave_tankers_august_26_2025_rep_2e8ea60b37c6_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-08-26_2025_08_26_breakwave_tanker_report_8_26_2025",
+      "parent_id": "hellenic_shipbuilding_2025-08-26_2025_08_26_breakwave_tanker_report_8_26_2025__root",
+      "title": "Linked asset: 2025-08-26_breakwave-tanker-report-8-26-2025_breakwave-tankers-august-26-2025-rep_2e8ea60b37c6.pdf",
+      "section_path": [
+        "Linked asset: 2025-08-26_breakwave-tanker-report-8-26-2025_breakwave-tankers-august-26-2025-rep_2e8ea60b37c6.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-08-26_breakwave-tanker-report-8-26-2025_breakwave-tankers-august-26-2025-rep_2e8ea60b37c6.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-08-26_breakwave-tanker-report-8-26-2025_breakwave-tankers-august-26-2025-rep_2e8ea60b37c6.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nAugust 26, 2025\n• VLCC Market Closes August on a Stronger Footing - In the final week of August,\nShort-term Indicators\nMEG activity strengthened sharply as cargo flows accelerated, with rates in some\nMomentum: Positive\ncases climbing nearly 10 points in a single day. This surge capped an already\nrobust August, signaling a clear rebound from the late-July dip.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1663,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-02-24_2026_02_24_breakwave_tanker_report_2_24_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-02-24_2026_02_24_breakwave_tanker_report_2_24_2026",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 2.24.2026",
+  "section_path": [
+    "Breakwave Tanker Report 2.24.2026"
+  ],
+  "section_path_text": "Breakwave Tanker Report 2.24.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC: Risk Rally or Structural Shift? - Since early February, when we observed that the VLCC market appeared to be consolidating\nSource: Breakwave Advisors\n\nLinked asset: 2026-02-24_breakwave-tanker-report-2-24-2026_breakwavetankersfebruary242026report_5b56d34475d3.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-02-24_breakwave-tanker-report-2-24-2026_breakwavetankersfebruary242026report_5b56d34475d3.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nFebruary 24, 2026\n• VLCC: Risk Rally or Structural Shift? - Since early February, when we observed\nShort-term Indicators\nthat the VLCC market appeared to be consolidating at elevated levels, freight rates\nMomentum: Positive\nhave moved decisively higher, extending what was already an extraordinary rally\nthat began in mid-January.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "are",
+    "funds",
+    "not",
+    "middle",
+    "could"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1805,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-02-24_breakwave-tanker-report-2-24-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-2-24-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-02-24_2026_02_24_breakwave_tanker_report_2_24_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-02-24_2026_02_24_breakwave_tanker_report_2_24_2026",
+      "parent_id": "hellenic_shipbuilding_2026-02-24_2026_02_24_breakwave_tanker_report_2_24_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC: Risk Rally or Structural Shift? - Since early February, when we observed that the VLCC market appeared to be consolidating\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "appeared",
+        "consolidating",
+        "early",
+        "february",
+        "observed",
+        "rally",
+        "risk"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-02-24_2026_02_24_breakwave_tanker_report_2_24_2026__s02_linked_asset_2026_02_24_breakwave_tanker_report_2_24_2026_breakwavetankersfebruary242026report_5b56d34475d3_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-02-24_2026_02_24_breakwave_tanker_report_2_24_2026",
+      "parent_id": "hellenic_shipbuilding_2026-02-24_2026_02_24_breakwave_tanker_report_2_24_2026__root",
+      "title": "Linked asset: 2026-02-24_breakwave-tanker-report-2-24-2026_breakwavetankersfebruary242026report_5b56d34475d3.pdf",
+      "section_path": [
+        "Linked asset: 2026-02-24_breakwave-tanker-report-2-24-2026_breakwavetankersfebruary242026report_5b56d34475d3.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-02-24_breakwave-tanker-report-2-24-2026_breakwavetankersfebruary242026report_5b56d34475d3.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-02-24_breakwave-tanker-report-2-24-2026_breakwavetankersfebruary242026report_5b56d34475d3.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nFebruary 24, 2026\n• VLCC: Risk Rally or Structural Shift? - Since early February, when we observed\nShort-term Indicators\nthat the VLCC market appeared to be consolidating at elevated levels, freight rates\nMomentum: Positive\nhave moved decisively higher, extending what was already an extraordinary rally\nthat began in mid-January.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1726,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-10-14_2022_10_14_clarksons_platou_hellas_snp_weekly_bulletin_40__root",
+  "doc_id": "hellenic_shipbuilding_2022-10-14_2022_10_14_clarksons_platou_hellas_snp_weekly_bulletin_40",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building: In tankers this week, Fairfield Chemical Carriers declared two optional 26.3k dwt Stainless Steel Chemical Tankers at\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-10-14_clarksons-platou-hellas-snp-weekly-bulletin-40_report-14-10-2022_260661bfcee8.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-10-14_clarksons-platou-hellas-snp-weekly-bulletin-40_report-14-10-2022_260661bfcee8.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 14 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S60ME-C8.2\nBULK HOLLAND 81,712 2017 TSUNEISHI SS 04/27\nRightship Rat. 4/5, GHG D+ RGN USD 30 M GREEKS\n(CEBU) DD 06/25\nBWTS Fitted\nMAN-B&W 6S50ME-B9.3 SS 04/25\nBERGE TRONADOR 61,087 2020 DACKS 4 x 30 T, BWTS Fitted DD 04/23 USD 32.8 M GREEKS\nMAN B. 6S50MC-C8.1\nSENORITA 58,663 2008 TSUNEISHI SS 03/23\n4 x 30 T, BWTS Fitted RGN/XS USD 16 M GREEKS\n(CEBU) DD 03/23\nSULZER 6RTA48T SS 06/24\nJIN YAO 52,050 2004 IHI 4 x 30 T, BWTS Fitted DD 06/24 RGN USD 13 M U/D\nMAN-B&W 6S46ME-B8.3 SS 01/25\nHIMAWARI K 37,786 2015 IMABARI 4 x 30.5 T, BWTS Fitted DD 03/23 USD 21.5 M GREEKS\nMITSUBISHI 6UEC45LSE SS 10/25\nROYAL HARMONY 37,238 2011 SAIKI 4 x 3",
+  "keywords": [
+    "lng",
+    "lpg",
+    "pacific",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "usd",
+    "bwts"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2320,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-10-14_clarksons-platou-hellas-snp-weekly-bulletin-40.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-40",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-10-14_2022_10_14_clarksons_platou_hellas_snp_weekly_bulletin_40__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-10-14_2022_10_14_clarksons_platou_hellas_snp_weekly_bulletin_40",
+      "parent_id": "hellenic_shipbuilding_2022-10-14_2022_10_14_clarksons_platou_hellas_snp_weekly_bulletin_40__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building: In tankers this week, Fairfield Chemical Carriers declared two optional 26.3k dwt Stainless Steel Chemical Tankers at\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "steel",
+        "chemical",
+        "tankers",
+        "building",
+        "carriers",
+        "clarkson",
+        "declared",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-10-14_2022_10_14_clarksons_platou_hellas_snp_weekly_bulletin_40__s02_linked_asset_2022_10_14_clarksons_platou_hellas_snp_weekly_bulletin_40_report_14_10_2022_260661bfcee8_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-10-14_2022_10_14_clarksons_platou_hellas_snp_weekly_bulletin_40",
+      "parent_id": "hellenic_shipbuilding_2022-10-14_2022_10_14_clarksons_platou_hellas_snp_weekly_bulletin_40__root",
+      "title": "Linked asset: 2022-10-14_clarksons-platou-hellas-snp-weekly-bulletin-40_report-14-10-2022_260661bfcee8.pdf",
+      "section_path": [
+        "Linked asset: 2022-10-14_clarksons-platou-hellas-snp-weekly-bulletin-40_report-14-10-2022_260661bfcee8.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-10-14_clarksons-platou-hellas-snp-weekly-bulletin-40_report-14-10-2022_260661bfcee8.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-10-14_clarksons-platou-hellas-snp-weekly-bulletin-40_report-14-10-2022_260661bfcee8.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 14 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S60ME-C8.2\nBULK HOLLAND 81,712 2017 TSUNEISHI SS 04/27\nRightship Rat. 4/5, GHG D+ RGN USD 30 M GREEKS\n(CEBU) DD 06/25\nBWTS Fitted\nMAN-B&W 6S50ME-B9.3 SS 04/25\nBERGE TRONADOR 61,087 2020 DACKS 4 x 30 T, BWTS Fitted DD 04/23 USD 32.8 M GREEKS\nMAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "pacific",
+        "europe",
+        "india",
+        "steel",
+        "gas",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2234,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

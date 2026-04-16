@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-10-30_2021_10_30_best_oasis_weekly_recycling_market_report_29_october_2021__root",
+  "doc_id": "hellenic_demolition_2021-10-30_2021_10_30_best_oasis_weekly_recycling_market_report_29_october_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 29 October 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 29 October 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 29 October 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe tonnage list continues to shrink in the recycling market thereby keeping a strong momentum in the subcontinent\nSource: Best Oasis Limited\n\nLinked asset: 2021-10-30_best-oasis-weekly-recycling-market-report-29-october-2021_weekly-ship-recycling-report-4_ea52a8f6d93b.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-10-30_best-oasis-weekly-recycling-market-report-29-october-2021_weekly-ship-recycling-report-4_ea52a8f6d93b.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n22nd October 2021 to 29th October 2021\nHi ghlights of the Week\nThe tonnage list continues to shrink in the recycling market thereby keeping\njhhnhu\na strong momentum in the subcontinent. The prevailing high demand for\nsteel is giving enough confidence to the end buyers who are keen to secure\nany available tonnage from the market leading to deals being finalized at\nabo ve market parity prices. Going forward, most macroeconomic indicators\npoi nt to the prices remain ing stable with a chance to move northwards if the\nlack of tonnage continues along with the current pace of increase in demand.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "steel",
+    "prices",
+    "price",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2000,
+  "source_path": "reports/hellenic/demolition/2021/2021-10-30_best-oasis-weekly-recycling-market-report-29-october-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-29-october-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-10-30_2021_10_30_best_oasis_weekly_recycling_market_report_29_october_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-10-30_2021_10_30_best_oasis_weekly_recycling_market_report_29_october_2021",
+      "parent_id": "hellenic_demolition_2021-10-30_2021_10_30_best_oasis_weekly_recycling_market_report_29_october_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The tonnage list continues to shrink in the recycling market thereby keeping a strong momentum in the subcontinent\nSource: Best Oasis Limited",
+      "keywords": [
+        "europe",
+        "best",
+        "continues",
+        "keeping",
+        "limited",
+        "list",
+        "momentum",
+        "oasis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 26,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-10-30_2021_10_30_best_oasis_weekly_recycling_market_report_29_october_2021__s02_linked_asset_2021_10_30_best_oasis_weekly_recycling_market_report_29_october_2021_weekly_ship_recycling_report_4_ea52a8f6d93b_pdf",
+      "doc_id": "hellenic_demolition_2021-10-30_2021_10_30_best_oasis_weekly_recycling_market_report_29_october_2021",
+      "parent_id": "hellenic_demolition_2021-10-30_2021_10_30_best_oasis_weekly_recycling_market_report_29_october_2021__root",
+      "title": "Linked asset: 2021-10-30_best-oasis-weekly-recycling-market-report-29-october-2021_weekly-ship-recycling-report-4_ea52a8f6d93b.pdf",
+      "section_path": [
+        "Linked asset: 2021-10-30_best-oasis-weekly-recycling-market-report-29-october-2021_weekly-ship-recycling-report-4_ea52a8f6d93b.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-10-30_best-oasis-weekly-recycling-market-report-29-october-2021_weekly-ship-recycling-report-4_ea52a8f6d93b.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-10-30_best-oasis-weekly-recycling-market-report-29-october-2021_weekly-ship-recycling-report-4_ea52a8f6d93b.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n22nd October 2021 to 29th October 2021\nHi ghlights of the Week\nThe tonnage list continues to shrink in the recycling market thereby keeping\njhhnhu\na strong momentum in the subcontinent. The prevailing high demand for\nsteel is giving enough confidence to the end buyers who are keen to secure\nany available tonnage from the market leading to deals being finalized at\nabo ve market parity prices.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1923,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

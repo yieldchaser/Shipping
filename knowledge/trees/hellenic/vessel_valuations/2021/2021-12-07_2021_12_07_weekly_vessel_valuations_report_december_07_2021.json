@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2021-12-07_2021_12_07_weekly_vessel_valuations_report_december_07_2021__root",
+  "doc_id": "hellenic_vessel_valuations_2021-12-07_2021_12_07_weekly_vessel_valuations_report_december_07_2021",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, December 07 2021",
+  "section_path": [
+    "Weekly Vessel Valuations Report, December 07 2021"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, December 07 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker: Tanker values have softened. VLCC New Coral (297,600 DWT, Jan 2010, Jiangnan Shanghai Changxing HI) sold to Aeolos Management for USD 38.50 mil, VV value USD 35.83 mil. MR2 Grazia (50,200 DWT, Nov 2010, CSSC OME) sold to Union Maritime for USD 14.90 mil, VV value USD 15.72 mil.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "container",
+    "china",
+    "usd",
+    "mil",
+    "sold",
+    "value",
+    "dwt",
+    "handy"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1478,
+  "source_path": "reports/hellenic/vessel_valuations/2021/2021-12-07_weekly-vessel-valuations-report-december-07-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-december-07-2021",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2021-12-07_2021_12_07_weekly_vessel_valuations_report_december_07_2021__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2021-12-07_2021_12_07_weekly_vessel_valuations_report_december_07_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-12-07_2021_12_07_weekly_vessel_valuations_report_december_07_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC New Coral (297,600 DWT, Jan 2010, Jiangnan Shanghai Changxing HI) sold to Aeolos Management for USD 38.50 mil, VV value USD 35.83 mil. MR2 Grazia (50,200 DWT, Nov 2010, CSSC OME) sold to Union Maritime for USD 14.90 mil, VV value USD 15.72 mil.",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "china",
+        "usd",
+        "mil",
+        "sold"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 637,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2021-12-07_2021_12_07_weekly_vessel_valuations_report_december_07_2021__s02_linked_asset_2021_12_07_weekly_vessel_valuations_report_december_07_2021_img1_20211207_c104d5ed3f32_jpg",
+      "doc_id": "hellenic_vessel_valuations_2021-12-07_2021_12_07_weekly_vessel_valuations_report_december_07_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-12-07_2021_12_07_weekly_vessel_valuations_report_december_07_2021__root",
+      "title": "Linked asset: 2021-12-07_weekly-vessel-valuations-report-december-07-2021_img1_20211207_c104d5ed3f32.jpg",
+      "section_path": [
+        "Linked asset: 2021-12-07_weekly-vessel-valuations-report-december-07-2021_img1_20211207_c104d5ed3f32.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-12-07_weekly-vessel-valuations-report-december-07-2021_img1_20211207_c104d5ed3f32.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2021/assets/2021-12-07_weekly-vessel-valuations-report-december-07-2021_img1_20211207_c104d5ed3f32.jpg\n\nLinked image asset: 2021-12-07_weekly-vessel-valuations-report-december-07-2021_img1_20211207_c104d5ed3f32.jpg\n\nImage metadata: JPEG 678x286 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© VesselsVabne™ © A$\n07 December 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vicc Suez Afra LRI MR Cape Pmax Supra Handy peal Pmax Handy = Fmax\n0 \"1.2% -0.8% -0.2% -0.1% -1.1% 40.3% +0.3% +0.8% +1.0% \"1.1% -1.8% -2.9% -2.6%\n320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100\n5 \"1.2% -0.6% -0.2% -0.1% -2.1% 1.0% +0.3% +1.2% +1.0% \"1.1% -1.8% -2.8% -2.1%\n320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n10 \"1.1% -0.1% -0.2% -0.1% -3.4% 0.9% +0.3% +1.6% +1.0% 0.8% -1.8% -2.8% -2.2%\n310K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n15 -1.2% -0.6% -0.1% -0.2% -1.4% 0.1% +0.3% +2.0% +1.0% -0.3% -1.8% -2.8% -3.0%\n310K 160K 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100\n20 3.1% -3.1% -3.1% -3.1% -3.0% -3.1% +0.3% +2.5% +1.0% +0.7% -1.8% -2.7% -4.1%\n300K 155K 105K 70K 45K 175K 75K SOK 30K 6500 4000 1",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "sok",
+        "asset",
+        "handy",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 797,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

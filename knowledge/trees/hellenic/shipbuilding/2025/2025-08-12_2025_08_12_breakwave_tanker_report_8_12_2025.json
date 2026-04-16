@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-08-12_2025_08_12_breakwave_tanker_report_8_12_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-08-12_2025_08_12_breakwave_tanker_report_8_12_2025",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 8.12.2025",
+  "section_path": [
+    "Breakwave Tanker Report 8.12.2025"
+  ],
+  "section_path_text": "Breakwave Tanker Report 8.12.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC Market Rebounds on Stronger MEG Activity - Following the charterer-led softness at the end of July, the VLCC market has\nSource: Breakwave Advisors\n\nLinked asset: 2025-08-12_breakwave-tanker-report-8-12-2025_breakwavetankersaugust122025report_efae1b8d1ecd.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-08-12_breakwave-tanker-report-8-12-2025_breakwavetankersaugust122025report_efae1b8d1ecd.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nAugust 12, 2025\n• VLCC Market Rebounds on Stronger MEG Activity - Following the charterer-led\nShort-term Indicators\nsoftness at the end of July, the VLCC market has regained firmer footing in mid-\nMomentum: Positive\nAugust, particularly in the Middle East Gulf (MEG). Early-month enquiry for late-\nAugust stems has been more active than expected, helping to absorb part of the Sentiment: Positive\ntonnage overhang that had weighed on sentiment. Owners have resisted last-done Fundamentals: Positive\nlevels, pushing AG/China and AG/Singapore freight higher than earlier in the\nsummer.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "us_gulf",
+    "singapore",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1718,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-08-12_breakwave-tanker-report-8-12-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-8-12-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-08-12_2025_08_12_breakwave_tanker_report_8_12_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-08-12_2025_08_12_breakwave_tanker_report_8_12_2025",
+      "parent_id": "hellenic_shipbuilding_2025-08-12_2025_08_12_breakwave_tanker_report_8_12_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Market Rebounds on Stronger MEG Activity - Following the charterer-led softness at the end of July, the VLCC market has\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "activity",
+        "charterer-led",
+        "end",
+        "following",
+        "july",
+        "rebounds"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-08-12_2025_08_12_breakwave_tanker_report_8_12_2025__s02_linked_asset_2025_08_12_breakwave_tanker_report_8_12_2025_breakwavetankersaugust122025report_efae1b8d1ecd_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-08-12_2025_08_12_breakwave_tanker_report_8_12_2025",
+      "parent_id": "hellenic_shipbuilding_2025-08-12_2025_08_12_breakwave_tanker_report_8_12_2025__root",
+      "title": "Linked asset: 2025-08-12_breakwave-tanker-report-8-12-2025_breakwavetankersaugust122025report_efae1b8d1ecd.pdf",
+      "section_path": [
+        "Linked asset: 2025-08-12_breakwave-tanker-report-8-12-2025_breakwavetankersaugust122025report_efae1b8d1ecd.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-08-12_breakwave-tanker-report-8-12-2025_breakwavetankersaugust122025report_efae1b8d1ecd.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-08-12_breakwave-tanker-report-8-12-2025_breakwavetankersaugust122025report_efae1b8d1ecd.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nAugust 12, 2025\n• VLCC Market Rebounds on Stronger MEG Activity - Following the charterer-led\nShort-term Indicators\nsoftness at the end of July, the VLCC market has regained firmer footing in mid-\nMomentum: Positive\nAugust, particularly in the Middle East Gulf (MEG). Early-month enquiry for late-\nAugust stems has been more active than expected, helping to absorb part of the Sentiment: Positive\ntonnage overhang that had weighed on sentiment.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1637,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

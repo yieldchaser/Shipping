@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-06-30_2022_06_30_breakwave_dry_bulk_shipping_report_6_30_2022__root",
+  "doc_id": "hellenic_shipbuilding_2022-06-30_2022_06_30_breakwave_dry_bulk_shipping_report_6_30_2022",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 6.30.2022",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 6.30.2022"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 6.30.2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe recent and much-anticipated meeting of the Marine Environmental Protection Committee\nSource: Breakwave Advisors\n\nLinked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf\n\n[Page 1]\nBSEA\nMaritime Decarbonization Monthly\nJune 2022\nThought of the\n\"Shipping could be moving towards net-zero by 2050\"\nMonth:\nThe Big Picture\nThe recent and much-anticipated meeting of the Marine Environmental Protection Committee,\nwhich held its 78th session June 6-10th (MEPC 78), underlined that sufficient momentum and\nsupport exists among most member states for the IMO to begin setting more ambitious targets\nand policies at upcoming IMO meetings. The focus was to progress IMO policy to build an effective\ngreenhouse gas emissions (GHG) reduction strategy to be approved at MEPC 80 in 2023. Another notable aspect of MEPC 78 was the rejection of a proposal led by the International\nChamber of Shipping (ICS) for a $5bn decarbonization research and development fund that would\nhave provided a market-based",
+  "keywords": [
+    "panamax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "japan",
+    "coal",
+    "crude_oil",
+    "products",
+    "gas",
+    "new"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1933,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-30-2022",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-06-30_2022_06_30_breakwave_dry_bulk_shipping_report_6_30_2022__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-06-30_2022_06_30_breakwave_dry_bulk_shipping_report_6_30_2022",
+      "parent_id": "hellenic_shipbuilding_2022-06-30_2022_06_30_breakwave_dry_bulk_shipping_report_6_30_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The recent and much-anticipated meeting of the Marine Environmental Protection Committee\nSource: Breakwave Advisors",
+      "keywords": [
+        "committee",
+        "environmental",
+        "marine",
+        "meeting",
+        "much-anticipated",
+        "protection",
+        "recent",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 19,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-06-30_2022_06_30_breakwave_dry_bulk_shipping_report_6_30_2022__s02_linked_asset_2022_06_30_breakwave_dry_bulk_shipping_report_6_30_2022_breakwavedecarbjunereport_86dce1876b6d_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-06-30_2022_06_30_breakwave_dry_bulk_shipping_report_6_30_2022",
+      "parent_id": "hellenic_shipbuilding_2022-06-30_2022_06_30_breakwave_dry_bulk_shipping_report_6_30_2022__root",
+      "title": "Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf",
+      "section_path": [
+        "Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-06-30_breakwave-dry-bulk-shipping-report-6-30-2022_breakwavedecarbjunereport_86dce1876b6d.pdf\n\n[Page 1]\nBSEA\nMaritime Decarbonization Monthly\nJune 2022\nThought of the\n\"Shipping could be moving towards net-zero by 2050\"\nMonth:\nThe Big Picture\nThe recent and much-anticipated meeting of the Marine Environmental Protection Committee,\nwhich held its 78th session June 6-10th (MEPC 78), underlined that sufficient momentum and\nsupport exists among most member states for the IMO to begin setting more ambitious targets\nand policies at upcoming IMO meetings. The focus was to progress IMO policy to build an effective\ngreenhouse gas emissions (GHG) reduction strategy to be approved at MEPC 80 in 2023.",
+      "keywords": [
+        "panamax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "japan",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1865,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

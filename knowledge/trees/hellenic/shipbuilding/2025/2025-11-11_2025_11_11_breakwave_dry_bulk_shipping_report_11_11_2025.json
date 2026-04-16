@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-11-11_2025_11_11_breakwave_dry_bulk_shipping_report_11_11_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-11-11_2025_11_11_breakwave_dry_bulk_shipping_report_11_11_2025",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 11.11.2025",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 11.11.2025"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 11.11.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSteady As She Goes with Strong Seasonality Supporting Current Levels - As the year draws to a close, we anticipate little\nSource: Breakwave Advisors\n\nLinked asset: 2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025_breakwavedrynovember112025report_df83f5fc1286.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025_breakwavedrynovember112025report_df83f5fc1286.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nNovember 11, 2025\n• Steady As She Goes with Strong Seasonality Supporting Current Levels - As\nShort-term Indicators\nthe year draws to a close, we anticipate little cause for concern regarding an\nMomentum: Neutral\nimminent correction in spot rates as strong seasonal cargo flow should support\nfreight rates. Similarly, a significant improvement seems improbable in the absence Sentiment: Neutral\nof an unforeseen event. The Capesize market is currently exhibiting healthy, Fundamentals: Neutral\nprofitable rates, and the smaller size segments also indicate returns that are above\ntheir recent historical averages.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1718,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-11-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-11-11_2025_11_11_breakwave_dry_bulk_shipping_report_11_11_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-11-11_2025_11_11_breakwave_dry_bulk_shipping_report_11_11_2025",
+      "parent_id": "hellenic_shipbuilding_2025-11-11_2025_11_11_breakwave_dry_bulk_shipping_report_11_11_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Steady As She Goes with Strong Seasonality Supporting Current Levels - As the year draws to a close, we anticipate little\nSource: Breakwave Advisors",
+      "keywords": [
+        "anticipate",
+        "close",
+        "current",
+        "draws",
+        "goes",
+        "levels",
+        "little",
+        "seasonality"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-11-11_2025_11_11_breakwave_dry_bulk_shipping_report_11_11_2025__s02_linked_asset_2025_11_11_breakwave_dry_bulk_shipping_report_11_11_2025_breakwavedrynovember112025report_df83f5fc1286_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-11-11_2025_11_11_breakwave_dry_bulk_shipping_report_11_11_2025",
+      "parent_id": "hellenic_shipbuilding_2025-11-11_2025_11_11_breakwave_dry_bulk_shipping_report_11_11_2025__root",
+      "title": "Linked asset: 2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025_breakwavedrynovember112025report_df83f5fc1286.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025_breakwavedrynovember112025report_df83f5fc1286.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025_breakwavedrynovember112025report_df83f5fc1286.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-11_breakwave-dry-bulk-shipping-report-11-11-2025_breakwavedrynovember112025report_df83f5fc1286.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nNovember 11, 2025\n• Steady As She Goes with Strong Seasonality Supporting Current Levels - As\nShort-term Indicators\nthe year draws to a close, we anticipate little cause for concern regarding an\nMomentum: Neutral\nimminent correction in spot rates as strong seasonal cargo flow should support\nfreight rates. Similarly, a significant improvement seems improbable in the absence Sentiment: Neutral\nof an unforeseen event.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1640,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-11-28_2025_11_28_clarksons_platou_hellas_snp_weekly_bulletin_112__root",
+  "doc_id": "hellenic_shipbuilding_2025-11-28_2025_11_28_clarksons_platou_hellas_snp_weekly_bulletin_112",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Cargo\nS&P market remained active this week, maintaining its recent momentum and asset values remaining firm. On the larger size, Capes continue to attract firm prices, attributed to the lack of quality candidates in combination with the positive expectations & outlook in this sector. The Imabari built FORTUNE VIOLET (ABT 181K DWT, 2012, IMABARI) was sold at USD 34 m to undisclosed buyers, whilst we understand a one-year older Japanese built Capesize has been sold in the region of USD 32 m.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "china",
+    "japan",
+    "crude_oil",
+    "usd",
+    "dwt",
+    "abt",
+    "any",
+    "information",
+    "clarksons",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2302,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-112",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-11-28_2025_11_28_clarksons_platou_hellas_snp_weekly_bulletin_112__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-11-28_2025_11_28_clarksons_platou_hellas_snp_weekly_bulletin_112",
+      "parent_id": "hellenic_shipbuilding_2025-11-28_2025_11_28_clarksons_platou_hellas_snp_weekly_bulletin_112__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Cargo\nS&P market remained active this week, maintaining its recent momentum and asset values remaining firm. On the larger size, Capes continue to attract firm prices, attributed to the lack of quality candidates in combination with the positive expectations & outlook in this sector.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "japan",
+        "crude_oil",
+        "abt",
+        "dwt",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 493,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-11-28_2025_11_28_clarksons_platou_hellas_snp_weekly_bulletin_112__s02_linked_asset_2025_11_28_clarksons_platou_hellas_snp_weekly_bulletin_112_weekly_sales_28th_nov_2025_3697ac0b660c_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-11-28_2025_11_28_clarksons_platou_hellas_snp_weekly_bulletin_112",
+      "parent_id": "hellenic_shipbuilding_2025-11-28_2025_11_28_clarksons_platou_hellas_snp_weekly_bulletin_112__root",
+      "title": "Linked asset: 2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-28th-nov-2025_3697ac0b660c.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-28th-nov-2025_3697ac0b660c.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-28th-nov-2025_3697ac0b660c.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-28_clarksons-platou-hellas-snp-weekly-bulletin-112_weekly-sales-28th-nov-2025_3697ac0b660c.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nS&P market remained active this week, maintaining its recent momentum and asset values remaining\nfirm.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "china",
+        "japan",
+        "crude_oil",
+        "any",
+        "information",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1758,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

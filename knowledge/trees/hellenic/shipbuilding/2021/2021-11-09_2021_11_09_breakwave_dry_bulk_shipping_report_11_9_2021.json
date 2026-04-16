@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-11-09_2021_11_09_breakwave_dry_bulk_shipping_report_11_9_2021__root",
+  "doc_id": "hellenic_shipbuilding_2021-11-09_2021_11_09_breakwave_dry_bulk_shipping_report_11_9_2021",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 11.9.2021",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 11.9.2021"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 11.9.2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry bulk rates drop back down to earth. - As volatility in the dry bulk space returned with a vengeance, so did potential trading\nSource: Breakwave Advisors\n\nLinked asset: 2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 9, 2021\nBreakwave Dry Futures Index: 2,227 Baltic Dry Index (spot): 2,718 Short-term Indicators:\n↓ 30D: -50.3% ↓ 30D: -50.8% Momentum: Negative\n↑ YTD: 126.0% ↑ YTD: 99.0% Sentiment: Neutral\n↑ YOY: 110.7% ↑ YOY: 127.3% Fundamentals: Neutral\nBi-Weekly Report\n• Dry bulk rates drop back down to earth. - As volatility in the dry bulk space returned with a\nvengeance, so did potential trading opportunities, and the last leg of this year's spectacular journey might prove a\ngreat one.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "lng",
+    "china",
+    "brazil",
+    "australia",
+    "europe",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1509,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-9-2021",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-11-09_2021_11_09_breakwave_dry_bulk_shipping_report_11_9_2021__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-11-09_2021_11_09_breakwave_dry_bulk_shipping_report_11_9_2021",
+      "parent_id": "hellenic_shipbuilding_2021-11-09_2021_11_09_breakwave_dry_bulk_shipping_report_11_9_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry bulk rates drop back down to earth. - As volatility in the dry bulk space returned with a vengeance, so did potential trading\nSource: Breakwave Advisors",
+      "keywords": [
+        "back",
+        "did",
+        "down",
+        "drop",
+        "earth.",
+        "potential",
+        "returned",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-11-09_2021_11_09_breakwave_dry_bulk_shipping_report_11_9_2021__s02_linked_asset_2021_11_09_breakwave_dry_bulk_shipping_report_11_9_2021_breakwavenovember92021report_652c0c2d7baa_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-11-09_2021_11_09_breakwave_dry_bulk_shipping_report_11_9_2021",
+      "parent_id": "hellenic_shipbuilding_2021-11-09_2021_11_09_breakwave_dry_bulk_shipping_report_11_9_2021__root",
+      "title": "Linked asset: 2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf",
+      "section_path": [
+        "Linked asset: 2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-11-09_breakwave-dry-bulk-shipping-report-11-9-2021_breakwavenovember92021report_652c0c2d7baa.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 9, 2021\nBreakwave Dry Futures Index: 2,227 Baltic Dry Index (spot): 2,718 Short-term Indicators:\n↓ 30D: -50.3% ↓ 30D: -50.8% Momentum: Negative\n↑ YTD: 126.0% ↑ YTD: 99.0% Sentiment: Neutral\n↑ YOY: 110.7% ↑ YOY: 127.3% Fundamentals: Neutral\nBi-Weekly Report\n• Dry bulk rates drop back down to earth. - As volatility in the dry bulk space returned with a\nvengeance, so did potential trading opportunities, and the last leg of this year's spectacular journey might prove a\ngreat one.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "lng",
+        "china",
+        "brazil",
+        "australia",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1423,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

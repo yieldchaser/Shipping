@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2022-09-07_2022_09_07_weekly_vessel_valuations_report_september_06_2022__root",
+  "doc_id": "hellenic_vessel_valuations_2022-09-07_2022_09_07_weekly_vessel_valuations_report_september_06_2022",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, September 06 2022",
+  "section_path": [
+    "Weekly Vessel Valuations Report, September 06 2022"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, September 06 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: Bulker values have softened\nHandy BC Malto Hope (28,200 DWT, Jul 2013, I-S) sold to undisclosed buyers for USD 13.60 mil, VV Value USD 16.47 mil - BWTS Fitted. Tankers: Tanker values have firmed\nVLCC DHT Edelweiss (301,000 DWT, Jan 2008, Daewoo) sold to undisclosed buyers for USD 37.00 mil, VV Value USD 40.93 mil - SS Due. LR2 Lila Fujairah (113,800 DWT, Oct 2007, Daewoo) sold to undisclosed buyers for USD 27.80 mil, VV Value USD 27.96 mil - SS Due.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "container",
+    "mil",
+    "usd",
+    "dwt",
+    "sold",
+    "value",
+    "buyers",
+    "sok"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1249,
+  "source_path": "reports/hellenic/vessel_valuations/2022/2022-09-07_weekly-vessel-valuations-report-september-06-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-06-2022",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2022-09-07_2022_09_07_weekly_vessel_valuations_report_september_06_2022__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2022-09-07_2022_09_07_weekly_vessel_valuations_report_september_06_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-09-07_2022_09_07_weekly_vessel_valuations_report_september_06_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: Bulker values have softened\nHandy BC Malto Hope (28,200 DWT, Jul 2013, I-S) sold to undisclosed buyers for USD 13.60 mil, VV Value USD 16.47 mil - BWTS Fitted. Tankers: Tanker values have firmed\nVLCC DHT Edelweiss (301,000 DWT, Jan 2008, Daewoo) sold to undisclosed buyers for USD 37.00 mil, VV Value USD 40.93 mil - SS Due.",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "container",
+        "mil",
+        "usd",
+        "dwt",
+        "sold",
+        "value"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 388,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2022-09-07_2022_09_07_weekly_vessel_valuations_report_september_06_2022__s02_linked_asset_2022_09_07_weekly_vessel_valuations_report_september_06_2022_img1_matrix_6_september_2022_1_e096dabb2f85_jpg",
+      "doc_id": "hellenic_vessel_valuations_2022-09-07_2022_09_07_weekly_vessel_valuations_report_september_06_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-09-07_2022_09_07_weekly_vessel_valuations_report_september_06_2022__root",
+      "title": "Linked asset: 2022-09-07_weekly-vessel-valuations-report-september-06-2022_img1_matrix-6-september-2022-1_e096dabb2f85.jpg",
+      "section_path": [
+        "Linked asset: 2022-09-07_weekly-vessel-valuations-report-september-06-2022_img1_matrix-6-september-2022-1_e096dabb2f85.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-09-07_weekly-vessel-valuations-report-september-06-2022_img1_matrix-6-september-2022-1_e096dabb2f85.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2022/assets/2022-09-07_weekly-vessel-valuations-report-september-06-2022_img1_matrix-6-september-2022-1_e096dabb2f85.jpg\n\nLinked image asset: 2022-09-07_weekly-vessel-valuations-report-september-06-2022_img1_matrix-6-september-2022-1_e096dabb2f85.jpg\n\nImage metadata: JPEG 687x278 mode=RGB\n\nEmbedded info:\ndpi: (144, 144)\n\nOCR text:\nOv IsVah -\n06 September 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vicc = Suez Afra LRI MR Cape Pmax Supra Handy tsa Pmax Handy fmax\n° 10.3% 10.5% #1.1% 41.1% 11.3% 1.6% 1.6% 3.1% 2.5% 1.3% 14% 2.3% 1.2%\n320K = «160K 10K 75K SOK 180K = 82K GOK 38K 7000-4250 «1750 ~---1100\n5 40.3% 40.5% 41.2% 41.1% 41.3% -1.6% -1.6% -3.8% -2.4% 1.3% -1.3% -2.3% -1.2%\n320K 160K 810K 75K = SOK 180K 80K. GOK 35K 7000 «4250 «1750 = 1400\n1.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "sok",
+        "gok",
+        "ask",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 811,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

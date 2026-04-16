@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-10-07_2022_10_07_clarksons_platou_hellas_snp_weekly_bulletin_39__root",
+  "doc_id": "hellenic_shipbuilding_2022-10-07_2022_10_07_clarksons_platou_hellas_snp_weekly_bulletin_39",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building: In tankers this week, DH Shipbuilding (formerly Daehan) announced two sets of tanker orders. The yard announced that Euronav\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S50ME-C8.2\nOCEAN ADVENTURE 57,814 2015 TSUNEISHI SS 10/25\n4x30 T, BWTS Fitted LOW USD 23 M JAPANESE\nZOSEN DD 01/24\nMAN B. 6S46MC-C7.2\nPROMISE 2 32,401 2010 SAMHO SS 09/25 MIDDLE\n4x30 T, LOGS & BWTS Fitted HIGH USD 13 M\nDD 09/23 EASTERNS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+  "keywords": [
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "japan",
+    "grain",
+    "gas",
+    "any",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2025,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-39",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-10-07_2022_10_07_clarksons_platou_hellas_snp_weekly_bulletin_39__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-10-07_2022_10_07_clarksons_platou_hellas_snp_weekly_bulletin_39",
+      "parent_id": "hellenic_shipbuilding_2022-10-07_2022_10_07_clarksons_platou_hellas_snp_weekly_bulletin_39__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building: In tankers this week, DH Shipbuilding (formerly Daehan) announced two sets of tanker orders. The yard announced that Euronav\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "building",
+        "clarkson",
+        "daehan",
+        "euronav",
+        "formerly",
+        "hellas",
+        "ltd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-10-07_2022_10_07_clarksons_platou_hellas_snp_weekly_bulletin_39__s02_linked_asset_2022_10_07_clarksons_platou_hellas_snp_weekly_bulletin_39_report_07_10_2022_263f08597aab_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-10-07_2022_10_07_clarksons_platou_hellas_snp_weekly_bulletin_39",
+      "parent_id": "hellenic_shipbuilding_2022-10-07_2022_10_07_clarksons_platou_hellas_snp_weekly_bulletin_39__root",
+      "title": "Linked asset: 2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf",
+      "section_path": [
+        "Linked asset: 2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-10-07_clarksons-platou-hellas-snp-weekly-bulletin-39_report-07-10-2022_263f08597aab.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 October 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 6S50ME-C8.2\nOCEAN ADVENTURE 57,814 2015 TSUNEISHI SS 10/25\n4x30 T, BWTS Fitted LOW USD 23 M JAPANESE\nZOSEN DD 01/24\nMAN B. 6S46MC-C7.2\nPROMISE 2 32,401 2010 SAMHO SS 09/25 MIDDLE\n4x30 T, LOGS & BWTS Fitted HIGH USD 13 M\nDD 09/23 EASTERNS\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "keywords": [
+        "suezmax",
+        "aframax",
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "japan",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1936,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-09-24_2021_09_24_clarkson_platou_hellas_sp_weekly_bulletin_119__root",
+  "doc_id": "hellenic_shipbuilding_2021-09-24_2021_09_24_clarkson_platou_hellas_sp_weekly_bulletin_119",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In dry cargo, Atlantska Plovidba announced ordering two firm plus two optional 82k dwt Kamsarmaxes at Jiangsu New Hantong\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-09-24_clarkson-platou-hellas-sp-weekly-bulletin-119_report-24-09-2021_685d494e71ac.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-09-24_clarkson-platou-hellas-sp-weekly-bulletin-119_report-24-09-2021_685d494e71ac.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 24 September 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 7S50MC-C8.2 SS 12/25\nELINDA MARE 79,648 2010 NEW CENTURY RGN USD 20 M U/D\nBWTS fitted DD 02/24\nMAN-B&W 6S60ME-C7.1 SS 01/25 USD 29.2 M\nSEA VISION 77,154 2015 IMABARI GREEKS\nBWTS fitted DD 04/22 (Dely Jan/Feb '22)\nWARTSILA 5RT-FLEX58T SS 01/24\nPALAIS 75,434 2014 JIANGSU RONGSHENG USD 23.25 M CHINESE\nBWTS fitted DD 01/22\nMAN-B&W 6S50MC-C8\nSS 06/24 VIETNAMESE\nSAILING SKY 61,346 2014 SHIN KASADO 4 x 31 T LOW USD 27 M\nDD 04/22 (c/o HTK)\nBWTS fitted\nSS 10/22\nMILLION BELL 58,665\nMAN-B&W 6S50MC-C8 DD 10/22\nRGN USD 22M each\n2012 KAWASAKI 4 x 30 T U/D\n(Delivery April '22)\nBWTS fitted SS 07/22\nGLAD MARK 58,642\nDD 07/22\nMAN-B&W 6S46MC-C8 SS 0",
+  "keywords": [
+    "lng",
+    "lpg",
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons",
+    "platou"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2352,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-09-24_clarkson-platou-hellas-sp-weekly-bulletin-119.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-119",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-09-24_2021_09_24_clarkson_platou_hellas_sp_weekly_bulletin_119__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-09-24_2021_09_24_clarkson_platou_hellas_sp_weekly_bulletin_119",
+      "parent_id": "hellenic_shipbuilding_2021-09-24_2021_09_24_clarkson_platou_hellas_sp_weekly_bulletin_119__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In dry cargo, Atlantska Plovidba announced ordering two firm plus two optional 82k dwt Kamsarmaxes at Jiangsu New Hantong\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "new",
+        "two",
+        "announced",
+        "atlantska",
+        "building",
+        "cargo",
+        "clarkson",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-09-24_2021_09_24_clarkson_platou_hellas_sp_weekly_bulletin_119__s02_linked_asset_2021_09_24_clarkson_platou_hellas_sp_weekly_bulletin_119_report_24_09_2021_685d494e71ac_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-09-24_2021_09_24_clarkson_platou_hellas_sp_weekly_bulletin_119",
+      "parent_id": "hellenic_shipbuilding_2021-09-24_2021_09_24_clarkson_platou_hellas_sp_weekly_bulletin_119__root",
+      "title": "Linked asset: 2021-09-24_clarkson-platou-hellas-sp-weekly-bulletin-119_report-24-09-2021_685d494e71ac.pdf",
+      "section_path": [
+        "Linked asset: 2021-09-24_clarkson-platou-hellas-sp-weekly-bulletin-119_report-24-09-2021_685d494e71ac.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-09-24_clarkson-platou-hellas-sp-weekly-bulletin-119_report-24-09-2021_685d494e71ac.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-09-24_clarkson-platou-hellas-sp-weekly-bulletin-119_report-24-09-2021_685d494e71ac.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 24 September 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 7S50MC-C8.2 SS 12/25\nELINDA MARE 79,648 2010 NEW CENTURY RGN USD 20 M U/D\nBWTS fitted DD 02/24\nMAN-B&W 6S60ME-C7.1 SS 01/25 USD 29.2 M\nSEA VISION 77,154 2015 IMABARI GREEKS\nBWTS fitted DD 04/22 (Dely Jan/Feb '22)\nWARTSILA 5RT-FLEX58T SS 01/24\nPALAIS 75,434 2014 JIANGSU RONGSHENG USD 23.25 M CHINESE\nBWTS fitted DD 01/22\nMAN-B&W 6S50MC-C8\nSS 06/24 VIETNAMESE\nSAILING SKY 61,346 2014 SHIN KASADO 4 x 31 T LOW USD 27 M\nDD 04/22 (c/o HTK)\nBWTS fitted\nSS 10/22\nMILLION BELL 58,665\nMAN-B&W 6S50MC-C8 DD 10/22\nRGN USD 22M each\n2012 KAWASAKI 4 x 30 T U/D\n(Delivery April '22)\nBWTS fitted SS 07/22\nGLAD MARK 58,642\nDD 07/22\nMAN-B&W 6S46MC-C8 SS 07/22\nOCEAN OPAL 37,187 2012 HMD MID USD 18 M U/D\n4 x 30 T DD 07/22\nMITSUBISHI 6UEC45LSE\nSS 06/26\nCACTUS K 31,893 2011 HAKODATE 4 x 30 T HIGH USD 16 M GREEKS\nDD 06/24\nBWTS fitted\nMAN-B&W 6S42MC6\nSS 04/24\nGOLDEN DAISY 28,368 2014 I-S 4 x 30 T MID USD 16 M U/D\nDD 04/22\nBWTS fitted\nTANKER",
+      "keywords": [
+        "lng",
+        "lpg",
+        "china",
+        "pacific",
+        "europe",
+        "india",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2257,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

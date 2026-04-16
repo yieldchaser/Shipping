@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2025-01-25_2025_01_25_best_oasis_weekly_recycling_market_report_24_january_2025__root",
+  "doc_id": "hellenic_demolition_2025-01-25_2025_01_25_best_oasis_weekly_recycling_market_report_24_january_2025",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 24 January 2025",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 24 January 2025"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 24 January 2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 25/01/2025\nAs we approach Republic Day on January 26th, we extend our heartfelt wishes to all our Indian readers. Source: Best Oasis Limited\n\nLinked asset: 2025-01-25_Weekly-Ship-Recycling-Report-18-January-24-January2025_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-01-25_Weekly-Ship-Recycling-Report-18-January-24-January2025_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n18 January - 24 January 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nAs we approach Republic Day on January 26th, we extend our heartfelt wishes to all our Indian readers. May this day of national pride inspire unity,\nprogress, and a renewed commitment to the values that strengthen our great nation.",
+  "keywords": [
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "products",
+    "steel",
+    "gas",
+    "previous"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2842,
+  "source_path": "reports/hellenic/demolition/2025/2025-01-25_best-oasis-weekly-recycling-market-report-24-january-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-24-january-2025",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2025-01-25_2025_01_25_best_oasis_weekly_recycling_market_report_24_january_2025__s01_main",
+      "doc_id": "hellenic_demolition_2025-01-25_2025_01_25_best_oasis_weekly_recycling_market_report_24_january_2025",
+      "parent_id": "hellenic_demolition_2025-01-25_2025_01_25_best_oasis_weekly_recycling_market_report_24_january_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 25/01/2025\nAs we approach Republic Day on January 26th, we extend our heartfelt wishes to all our Indian readers.",
+      "keywords": [
+        "india",
+        "our",
+        "all",
+        "approach",
+        "best",
+        "day",
+        "demolition",
+        "extend"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-01-25_2025_01_25_best_oasis_weekly_recycling_market_report_24_january_2025__s02_linked_asset_2025_01_25_weekly_ship_recycling_report_18_january_24_january2025_compressed_pdf",
+      "doc_id": "hellenic_demolition_2025-01-25_2025_01_25_best_oasis_weekly_recycling_market_report_24_january_2025",
+      "parent_id": "hellenic_demolition_2025-01-25_2025_01_25_best_oasis_weekly_recycling_market_report_24_january_2025__root",
+      "title": "Linked asset: 2025-01-25_Weekly-Ship-Recycling-Report-18-January-24-January2025_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2025-01-25_Weekly-Ship-Recycling-Report-18-January-24-January2025_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-01-25_Weekly-Ship-Recycling-Report-18-January-24-January2025_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-01-25_Weekly-Ship-Recycling-Report-18-January-24-January2025_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n18 January - 24 January 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nAs we approach Republic Day on January 26th, we extend our heartfelt wishes to all our Indian readers. May this day of national pride inspire unity,\nprogress, and a renewed commitment to the values that strengthen our great nation.",
+      "keywords": [
+        "lng",
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2765,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

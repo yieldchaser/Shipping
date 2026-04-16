@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2023-01-03_2023_01_03_weekly_vessel_valuations_report_january_03_2023__root",
+  "doc_id": "hellenic_vessel_valuations_2023-01-03_2023_01_03_weekly_vessel_valuations_report_january_03_2023",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, January 03 2023",
+  "section_path": [
+    "Weekly Vessel Valuations Report, January 03 2023"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, January 03 2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers : Bulker values have remained stable\nNo reported sales this week. Tankers : Tanker values have firmed\nSuezmax Crescent Moon (150,600 DWT, Oct 2004, Universal) sold to undisclosed buyers for USD 33.50 mil, VV Value USD 30.98 mil - DD Passed. Suezmax Kriti Breeze (151,800 DWT, Nov 2003, Hyundai HI) sold to undisclosed buyers for USD 30.50 mil, VV Value 27.89 mil - DD Due.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "container",
+    "mil",
+    "asset",
+    "image",
+    "usd",
+    "values",
+    "bulkers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1017,
+  "source_path": "reports/hellenic/vessel_valuations/2023/2023-01-03_weekly-vessel-valuations-report-january-03-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-january-03-2023",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2023-01-03_2023_01_03_weekly_vessel_valuations_report_january_03_2023__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2023-01-03_2023_01_03_weekly_vessel_valuations_report_january_03_2023",
+      "parent_id": "hellenic_vessel_valuations_2023-01-03_2023_01_03_weekly_vessel_valuations_report_january_03_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers : Bulker values have remained stable\nNo reported sales this week. Tankers : Tanker values have firmed\nSuezmax Crescent Moon (150,600 DWT, Oct 2004, Universal) sold to undisclosed buyers for USD 33.50 mil, VV Value USD 30.98 mil - DD Passed.",
+      "keywords": [
+        "suezmax",
+        "container",
+        "mil",
+        "usd",
+        "values",
+        "buyers",
+        "dwt",
+        "reported"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 169,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2023-01-03_2023_01_03_weekly_vessel_valuations_report_january_03_2023__s02_linked_asset_2023_01_03_weekly_vessel_valuations_report_january_03_2023_img1_312022y_511179f84890_jpg",
+      "doc_id": "hellenic_vessel_valuations_2023-01-03_2023_01_03_weekly_vessel_valuations_report_january_03_2023",
+      "parent_id": "hellenic_vessel_valuations_2023-01-03_2023_01_03_weekly_vessel_valuations_report_january_03_2023__root",
+      "title": "Linked asset: 2023-01-03_weekly-vessel-valuations-report-january-03-2023_img1_312022y_511179f84890.jpg",
+      "section_path": [
+        "Linked asset: 2023-01-03_weekly-vessel-valuations-report-january-03-2023_img1_312022y_511179f84890.jpg"
+      ],
+      "section_path_text": "Linked asset: 2023-01-03_weekly-vessel-valuations-report-january-03-2023_img1_312022y_511179f84890.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2023/assets/2023-01-03_weekly-vessel-valuations-report-january-03-2023_img1_312022y_511179f84890.jpg\n\nLinked image asset: 2023-01-03_weekly-vessel-valuations-report-january-03-2023_img1_312022y_511179f84890.jpg\n\nImage metadata: JPEG 678x259 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nOv I Vi i ~\n03 January 2023 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra LRI MR Cape Pmax Supra Handy pote Pmax Handy Fmax\n° +0.2% 40.2% +1.2% +1.3% +0.4% +0.3% +0.2% -0.1% -0.4% \"0.5% -0.6% -0.2% 0.0%\n320K 160K «110K 75K 50K 180K 82K = GOK 38K 7000 4250 «1750 =--1100\n5 +0.2% 40.1% +1.2% +1.3% +0.3% +0.3% +0.2% 0.0% +7.9% -0.6% -0.6% -0.2% 0.0%\n320K 160K 110K 75K 50K 180K 80K 60K 38K 7000 «4250 ««1750=S 1100\n10 +3.7% +3.1% +4.2% +4.3% +3.3% +3,3% +3.1% +3,0% +2.6% +2.3% +2.3% +2.8% +2.9%\n320K 160K 110K = 75K 50K 180K 80K 60K 32K 7000 4250 «1750-1100\n1s +0.2% 40.2% +1.3% +1.3% +0.4% +0.4% +3.9% +0.2% -0.4% -0.6% -0.6% -0.1% 0.0%\n310K 160K = 110K 75K 50K 180K 80K SSK 30K 7000 «4250 «1750 1100\n- +0.2% -0.9% +1.3% +1.4% +0.5% -0.2% +0.2% +0.4% -0.3% -0.5% -0.7% -0.1% 0.0%\n305K 155K 105K = 70K 45K 175K 75K = SOK = 30K",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "asset",
+        "handy",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 806,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

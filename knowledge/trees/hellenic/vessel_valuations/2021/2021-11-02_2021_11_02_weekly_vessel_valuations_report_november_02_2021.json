@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2021-11-02_2021_11_02_weekly_vessel_valuations_report_november_02_2021__root",
+  "doc_id": "hellenic_vessel_valuations_2021-11-02_2021_11_02_weekly_vessel_valuations_report_november_02_2021",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, November 02 2021",
+  "section_path": [
+    "Weekly Vessel Valuations Report, November 02 2021"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, November 02 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker: Tanker values are stable. VLCCs Seaways Liberty (301,000 DWT, Aug 2016, SWS), Seaways Triton and Seaways Cape Henry (300,900 DWT, Jan - Mar 2016, SWS), Seaways Hendricks and Seaways Diamond Head (300,800 DWT, May - Oct 2016, SWS) and Seaways Tybee (300,700 DWT, Oct 2015, SWS) sold to Ocean Yield ASA in an en bloc deal for USD 375.00 mil, VV en bloc value USD 387.78 mil - BBB. Aframaxes Advantage Arrow and Advantage Avenue (115,800 DWT, Nov 2009 - Jun 2010, Samsung) sold to Bergshav AS in an en bloc deal for USD 52.00 mil, VV en bloc value USD 44.37 mil - Inc Charter.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "aframax",
+    "container",
+    "usd",
+    "dwt",
+    "mil",
+    "bloc",
+    "seaways"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1274,
+  "source_path": "reports/hellenic/vessel_valuations/2021/2021-11-02_weekly-vessel-valuations-report-november-02-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-november-02-2021",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2021-11-02_2021_11_02_weekly_vessel_valuations_report_november_02_2021__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2021-11-02_2021_11_02_weekly_vessel_valuations_report_november_02_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-11-02_2021_11_02_weekly_vessel_valuations_report_november_02_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCCs Seaways Liberty (301,000 DWT, Aug 2016, SWS), Seaways Triton and Seaways Cape Henry (300,900 DWT, Jan - Mar 2016, SWS), Seaways Hendricks and Seaways Diamond Head (300,800 DWT, May - Oct 2016, SWS) and Seaways Tybee (300,700 DWT, Oct 2015, SWS) sold to Ocean Yield ASA in an en bloc deal for USD 375.00 mil, VV en bloc value USD 387.78 mil - BBB. Aframaxes Advantage Arrow and Advantage Avenue (115,800 DWT, Nov 2009 - Jun 2010, Samsung) sold to Bergshav AS in an en bloc deal for USD 52.00 mil, VV en bloc value USD 44.37 mil - Inc Charter.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "aframax",
+        "container",
+        "usd",
+        "dwt",
+        "mil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 416,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2021-11-02_2021_11_02_weekly_vessel_valuations_report_november_02_2021__s02_linked_asset_2021_11_02_weekly_vessel_valuations_report_november_02_2021_img1_20211102_453b8a31b6d2_jpg",
+      "doc_id": "hellenic_vessel_valuations_2021-11-02_2021_11_02_weekly_vessel_valuations_report_november_02_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-11-02_2021_11_02_weekly_vessel_valuations_report_november_02_2021__root",
+      "title": "Linked asset: 2021-11-02_weekly-vessel-valuations-report-november-02-2021_img1_20211102_453b8a31b6d2.jpg",
+      "section_path": [
+        "Linked asset: 2021-11-02_weekly-vessel-valuations-report-november-02-2021_img1_20211102_453b8a31b6d2.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-11-02_weekly-vessel-valuations-report-november-02-2021_img1_20211102_453b8a31b6d2.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2021/assets/2021-11-02_weekly-vessel-valuations-report-november-02-2021_img1_20211102_453b8a31b6d2.jpg\n\nLinked image asset: 2021-11-02_weekly-vessel-valuations-report-november-02-2021_img1_20211102_453b8a31b6d2.jpg\n\nImage metadata: JPEG 678x281 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\noO VesselsValue™ --a-----------------_-_-_=_=_ a\n02 November 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vice Suez Afra LR1 MR Cape Pmax Supra Handy Pea Pmax Handy = Fmax\né +0.4% +0.6% +0.2% +0.4% +3.5% -1.2% -2.4% -3.2% -2.4% +1.8% -0.9% +0.4% -0.7%\n320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100\n; +0.5% +0.9% +0.6% +0.4% +0.1% -0.9% -3.3% -3.2% -1.9% +1.8% -1.6% +0.3% +1.5%\n320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100\n-\" 40.7% +1.7% +1.4% +0.4% -2.6% -0.1% -3.3% -3.2% -1.5% +1.8% -2.3% +0.1% +2.3%\n310K 160K =: 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100\nge +0.7% +2.3% +1.3% 40.4% -2.3% +1.2% -2.6% -2.7% -1.1% +1.8% -3.1% 0.0% +1.9%\n310K 160K = 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100\n0 +0.7% +0.8% +0.8% 40.9% +0.9% +40.9% -1.2% -2.3% -0.6% +1.9% -3.7% -0.1% +0.6%\n300K 155K 105K ",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "asset",
+        "handy",
+        "image",
+        "n/a"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 812,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-08-14_2021_08_14_best_oasis_weekly_recycling_market_report_13_august_2021__root",
+  "doc_id": "hellenic_demolition_2021-08-14_2021_08_14_best_oasis_weekly_recycling_market_report_13_august_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 13 August 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 13 August 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 13 August 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe subcontinent recycling market witnessed very limited activity this week due to fewer units being circulated\nSource: Best Oasis Limited\n\nLinked asset: 2021-08-14_best-oasis-weekly-recycling-market-report-13-august-2021_weekly-ship-recycling-report-2_1197aa011252.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-08-14_best-oasis-weekly-recycling-market-report-13-august-2021_weekly-ship-recycling-report-2_1197aa011252.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n6th August to 13th August 2021\nHighlights of the Week\nThe subcontinent recycling market witnessed very limited activity this week\njhhnhu\ndue to fewer units being circulated and mild buying interest from the\nrecyclers. Prices remain range-bound with slim chances of going upwards in\nall the three major subcontinent markets as the end buyers have decent\ninventories in hand and they are waiting for the prices to stabilize further\nbefore finalizing new deals. The demand is markedly low for bigger units as\nbuyers are apprehensive of dealing in larger tonnage in the prevailing rates\nwhich are swinging around the USD 600 mark.",
+  "keywords": [
+    "lng",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1999,
+  "source_path": "reports/hellenic/demolition/2021/2021-08-14_best-oasis-weekly-recycling-market-report-13-august-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-13-august-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-08-14_2021_08_14_best_oasis_weekly_recycling_market_report_13_august_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-08-14_2021_08_14_best_oasis_weekly_recycling_market_report_13_august_2021",
+      "parent_id": "hellenic_demolition_2021-08-14_2021_08_14_best_oasis_weekly_recycling_market_report_13_august_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The subcontinent recycling market witnessed very limited activity this week due to fewer units being circulated\nSource: Best Oasis Limited",
+      "keywords": [
+        "europe",
+        "limited",
+        "activity",
+        "being",
+        "best",
+        "circulated",
+        "due",
+        "fewer"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 23,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-08-14_2021_08_14_best_oasis_weekly_recycling_market_report_13_august_2021__s02_linked_asset_2021_08_14_best_oasis_weekly_recycling_market_report_13_august_2021_weekly_ship_recycling_report_2_1197aa011252_pdf",
+      "doc_id": "hellenic_demolition_2021-08-14_2021_08_14_best_oasis_weekly_recycling_market_report_13_august_2021",
+      "parent_id": "hellenic_demolition_2021-08-14_2021_08_14_best_oasis_weekly_recycling_market_report_13_august_2021__root",
+      "title": "Linked asset: 2021-08-14_best-oasis-weekly-recycling-market-report-13-august-2021_weekly-ship-recycling-report-2_1197aa011252.pdf",
+      "section_path": [
+        "Linked asset: 2021-08-14_best-oasis-weekly-recycling-market-report-13-august-2021_weekly-ship-recycling-report-2_1197aa011252.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-08-14_best-oasis-weekly-recycling-market-report-13-august-2021_weekly-ship-recycling-report-2_1197aa011252.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-08-14_best-oasis-weekly-recycling-market-report-13-august-2021_weekly-ship-recycling-report-2_1197aa011252.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n6th August to 13th August 2021\nHighlights of the Week\nThe subcontinent recycling market witnessed very limited activity this week\njhhnhu\ndue to fewer units being circulated and mild buying interest from the\nrecyclers. Prices remain range-bound with slim chances of going upwards in\nall the three major subcontinent markets as the end buyers have decent\ninventories in hand and they are waiting for the prices to stabilize further\nbefore finalizing new deals.",
+      "keywords": [
+        "lng",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1929,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

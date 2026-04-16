@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-01-14_2025_01_14_breakwave_tanker_report_1_14_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-01-14_2025_01_14_breakwave_tanker_report_1_14_2025",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 1.14.2025",
+  "section_path": [
+    "Breakwave Tanker Report 1.14.2025"
+  ],
+  "section_path_text": "Breakwave Tanker Report 1.14.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC Futures Explode Higher Amid New Russian Shipping Sanctions - The tanker market has seen a significant surge in\nSource: Breakwave Advisors\n\nLinked asset: 2025-01-14_breakwave-tanker-report-1-14-2025_breakwavetankersjanuary142025report_eb262950c17f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-01-14_breakwave-tanker-report-1-14-2025_breakwavetankersjanuary142025report_eb262950c17f.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJanuary 14, 2025\nBreakwave Tanker Futures Index: 1,244 VLCC Middle East-Asia Spot Rates: 12.88 Short-term Indicators:\n↑ 30D: 18.2% ↑ 30D: 52.9% Momentum: Positive\n↑ YTD: 15.0% ↓ YTD: 43.5% Sentiment: Positive\n↑ YOY: -10.8% ↑ YOY: -15.1% Fundamentals: Positive\nBi-Weekly Report\n• VLCC Futures Explode Higher Amid New Russian Shipping Sanctions - The tanker market has seen a significant surge in\nfreight futures over the past few days, driven by a notable announcement from the U.S. imposing sanctions on over 180\nRussian-linked vessels. This development has led to sharp repricing in tanker futures and oil markets, reflecting potential\ndisruptions, shifting trade patterns, and limited vessel availability.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1504,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-01-14_breakwave-tanker-report-1-14-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-1-14-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-01-14_2025_01_14_breakwave_tanker_report_1_14_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-01-14_2025_01_14_breakwave_tanker_report_1_14_2025",
+      "parent_id": "hellenic_shipbuilding_2025-01-14_2025_01_14_breakwave_tanker_report_1_14_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Futures Explode Higher Amid New Russian Shipping Sanctions - The tanker market has seen a significant surge in\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "amid",
+        "explode",
+        "higher",
+        "new",
+        "russian",
+        "sanctions",
+        "seen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 28,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-01-14_2025_01_14_breakwave_tanker_report_1_14_2025__s02_linked_asset_2025_01_14_breakwave_tanker_report_1_14_2025_breakwavetankersjanuary142025report_eb262950c17f_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-01-14_2025_01_14_breakwave_tanker_report_1_14_2025",
+      "parent_id": "hellenic_shipbuilding_2025-01-14_2025_01_14_breakwave_tanker_report_1_14_2025__root",
+      "title": "Linked asset: 2025-01-14_breakwave-tanker-report-1-14-2025_breakwavetankersjanuary142025report_eb262950c17f.pdf",
+      "section_path": [
+        "Linked asset: 2025-01-14_breakwave-tanker-report-1-14-2025_breakwavetankersjanuary142025report_eb262950c17f.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-01-14_breakwave-tanker-report-1-14-2025_breakwavetankersjanuary142025report_eb262950c17f.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-01-14_breakwave-tanker-report-1-14-2025_breakwavetankersjanuary142025report_eb262950c17f.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJanuary 14, 2025\nBreakwave Tanker Futures Index: 1,244 VLCC Middle East-Asia Spot Rates: 12.88 Short-term Indicators:\n↑ 30D: 18.2% ↑ 30D: 52.9% Momentum: Positive\n↑ YTD: 15.0% ↓ YTD: 43.5% Sentiment: Positive\n↑ YOY: -10.8% ↑ YOY: -15.1% Fundamentals: Positive\nBi-Weekly Report\n• VLCC Futures Explode Higher Amid New Russian Shipping Sanctions - The tanker market has seen a significant surge in\nfreight futures over the past few days, driven by a notable announcement from the U.S. imposing sanctions on over 180\nRussian-linked vessels.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1432,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

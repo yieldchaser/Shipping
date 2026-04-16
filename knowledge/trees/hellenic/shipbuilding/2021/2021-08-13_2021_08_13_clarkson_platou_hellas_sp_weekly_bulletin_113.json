@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-08-13_2021_08_13_clarkson_platou_hellas_sp_weekly_bulletin_113__root",
+  "doc_id": "hellenic_shipbuilding_2021-08-13_2021_08_13_clarkson_platou_hellas_sp_weekly_bulletin_113",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In the container market, it is being reported that Shanghai Zhonggu Logistics have declared two optional gearless\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 13 August 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50MC-C8 SS 01/23\nSANTA BARBARA 61,381 2013 IWAGI MID USD 24 M U/D\nBWTS fitted DD 01/23\nSS 02/23\nADITYA 55,496 2008 OSHIMA MAN-B&W 6S50MC-C8.1 MID USD 16 M NORWEGIANS\nDD 02/23\nSS 03/22 HK BASED\nMARATHA PROMISE 37,187 2012 SAIKI MITSUBISHI 6UEC45LSE MID USD 16 M\nDD 03/22 (c/o Taylor Maritime)\nMAN-B&W 6S46MC-C7.2 SS 05/23\nORIENT GLORY 32,419 2013 SAMHO LOW USD 15 M GREEKS\nBWTS fitted DD 05/23\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 04/23\nMAYA-VN 318,778 2003 HYUNDAI SAMHO MAN-B&W 6S90MC-C USD 27M CHINESE\nDD 08/21\nSS 01/23\nMAERSK ERIK 40,083 2008 SLS MAN-B&W 6S50MC6.1 RGN USD 12 M EUROPEANS\nDD 01/23\nPage 1 of",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "japan",
+    "iron_ore",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1895,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-113",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-08-13_2021_08_13_clarkson_platou_hellas_sp_weekly_bulletin_113__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-08-13_2021_08_13_clarkson_platou_hellas_sp_weekly_bulletin_113",
+      "parent_id": "hellenic_shipbuilding_2021-08-13_2021_08_13_clarkson_platou_hellas_sp_weekly_bulletin_113__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In the container market, it is being reported that Shanghai Zhonggu Logistics have declared two optional gearless\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "container",
+        "being",
+        "building",
+        "clarkson",
+        "declared",
+        "gearless",
+        "hellas",
+        "logistics"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-08-13_2021_08_13_clarkson_platou_hellas_sp_weekly_bulletin_113__s02_linked_asset_2021_08_13_clarkson_platou_hellas_sp_weekly_bulletin_113_report_13_08_2021_c95b952dce07_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-08-13_2021_08_13_clarkson_platou_hellas_sp_weekly_bulletin_113",
+      "parent_id": "hellenic_shipbuilding_2021-08-13_2021_08_13_clarkson_platou_hellas_sp_weekly_bulletin_113__root",
+      "title": "Linked asset: 2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf",
+      "section_path": [
+        "Linked asset: 2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-08-13_clarkson-platou-hellas-sp-weekly-bulletin-113_report-13-08-2021_c95b952dce07.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 13 August 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50MC-C8 SS 01/23\nSANTA BARBARA 61,381 2013 IWAGI MID USD 24 M U/D\nBWTS fitted DD 01/23\nSS 02/23\nADITYA 55,496 2008 OSHIMA MAN-B&W 6S50MC-C8.1 MID USD 16 M NORWEGIANS\nDD 02/23\nSS 03/22 HK BASED\nMARATHA PROMISE 37,187 2012 SAIKI MITSUBISHI 6UEC45LSE MID USD 16 M\nDD 03/22 (c/o Taylor Maritime)\nMAN-B&W 6S46MC-C7.2 SS 05/23\nORIENT GLORY 32,419 2013 SAMHO LOW USD 15 M GREEKS\nBWTS fitted DD 05/23\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 04/23\nMAYA-VN 318,778 2003 HYUNDAI SAMHO MAN-B&W 6S90MC-C USD 27M CHINESE\nDD 08/21\nSS 01/23\nMAERSK ERIK 40,083 2008 SLS MAN-B&W 6S50MC6.1 RGN USD 12 M EUROPEANS\nDD 01/23\nPage 1 of 3\n\n[Page 2]\nSale and Purchase\nHellas S&P Weekly Bulletin 13 August 2021\nNEW BUILDING\nIn the container market, it is being reported that Shanghai Zhonggu Logistics have declared two optional gearless 4,600 TEU domestic trading\nboxships at CMJL Nanjing, with delivery of both ve",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "japan",
+        "iron_ore",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1813,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

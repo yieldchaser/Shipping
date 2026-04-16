@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-03-03_2026_03_03_weekly_vessel_valuations_report_march_03_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-03-03_2026_03_03_weekly_vessel_valuations_report_march_03_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, March 03 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, March 03 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, March 03 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: Evidence of very strong pricing for modern Panamax tonnage, including the sale of the Three Saskias for USD 27.1 mil,has led to a substantial firming of values. Modern Supramax tonnage has also continued to show strong pricing. Softer pricing for Capesize newbuild orders and resales contributed to a dip in our values.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "container",
+    "meg",
+    "singapore",
+    "japan",
+    "usd",
+    "mil"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1575,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-03-03_weekly-vessel-valuations-report-march-03-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-march-03-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-03-03_2026_03_03_weekly_vessel_valuations_report_march_03_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-03-03_2026_03_03_weekly_vessel_valuations_report_march_03_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-03-03_2026_03_03_weekly_vessel_valuations_report_march_03_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: Evidence of very strong pricing for modern Panamax tonnage, including the sale of the Three Saskias for USD 27.1 mil,has led to a substantial firming of values. Modern Supramax tonnage has also continued to show strong pricing.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "container",
+        "meg"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 799,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-03-03_2026_03_03_weekly_vessel_valuations_report_march_03_2026__s02_linked_asset_2026_03_03_weekly_vessel_valuations_report_march_03_2026_img1_3320251_bb3542c6034a_jpeg",
+      "doc_id": "hellenic_vessel_valuations_2026-03-03_2026_03_03_weekly_vessel_valuations_report_march_03_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-03-03_2026_03_03_weekly_vessel_valuations_report_march_03_2026__root",
+      "title": "Linked asset: 2026-03-03_weekly-vessel-valuations-report-march-03-2026_img1_3320251_bb3542c6034a.jpeg",
+      "section_path": [
+        "Linked asset: 2026-03-03_weekly-vessel-valuations-report-march-03-2026_img1_3320251_bb3542c6034a.jpeg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-03_weekly-vessel-valuations-report-march-03-2026_img1_3320251_bb3542c6034a.jpeg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-03-03_weekly-vessel-valuations-report-march-03-2026_img1_3320251_bb3542c6034a.jpeg\n\nLinked image asset: 2026-03-03_weekly-vessel-valuations-report-march-03-2026_img1_3320251_bb3542c6034a.jpeg\n\nImage metadata: JPEG 687x318 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n>) VesselsValue@_---------\n03 March 2026 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra Lat MR Cape Pmax Supra Handy pe . Pmax Handy Fmax\nis +116 +1.0%6 +25% +1.1% +14% 0.1% 0.8% 11.6% 10.4% 0.1% -O.1% 70.8% 0.0%\n320k 160k Sk 75k SOk 180k 82k 62k 38k 7000 4250 1780 noo\n+1.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "noo",
+        "sok",
+        "nok",
+        "o.1"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 734,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

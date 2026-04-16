@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2024-04-23_2024_04_23_weekly_vessel_valuations_report_april_23_2024__root",
+  "doc_id": "hellenic_vessel_valuations_2024-04-23_2024_04_23_weekly_vessel_valuations_report_april_23_2024",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, April 23 2024",
+  "section_path": [
+    "Weekly Vessel Valuations Report, April 23 2024"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, April 23 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: S&P Values remain stable this week with no notable movements\nCapesize BC Frontier Unity (181,400 DWT, Mar 2012, Koyo Dock) sold to unknown Greek buyers for USD 35 mil, VV Value USD 37.5 mil\nPanamax BC YMK Quartet (82,200 DWT, Feb 2021, Jiangsu Yangzi-Mitsui) sold to unknown Greek buyers for USD 35.5 mil, VV Value USD 35.73 mil\nSupramax BC African Lion (66,700 DWT, Nov 2013, Mitsui Tamano) sold to unknown Greek buyers for USD 25 mil, VV Value USD 25.6 mil\nHandy BC Perseus Harmony (37,200 DWT, Sep 2020, Saiki) sold to undisclosed buyers for USD 29.5 mil, VV Value USD 29.03 mil\nTankers: Tanker values mostly stable, but MR values firmed across the board as well as older tonnage LR1s\nMR2 Grand Ace5 (46,200 DWT, Nov 2006, STX Offshore) sold to undisclosed buyers for USD 21 mil (DD Due), VV Value USD 20.73 mil\nSmall Clean (Chem/Prod) Patagonia & Paterna (16,800 DWT, Apr/Jul 2006, Qiuxin/Jiangnan Shanghai Changxing HI) sold en bloc to unknown Turkish buyers for USD 22.6 mil (DD Due), VV Value USD 20.83 mil\nContainers : Container values firmed across the board from improved earnings and higher asset demand. The only exception was the Feeder segment down 0.3% WoW\nNo notable sal",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "container",
+    "mil",
+    "usd",
+    "buyers",
+    "dwt",
+    "sold",
+    "value"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1263,
+  "source_path": "reports/hellenic/vessel_valuations/2024/2024-04-23_weekly-vessel-valuations-report-april-23-2024.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-april-23-2024",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2024-04-23_2024_04_23_weekly_vessel_valuations_report_april_23_2024__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2024-04-23_2024_04_23_weekly_vessel_valuations_report_april_23_2024",
+      "parent_id": "hellenic_vessel_valuations_2024-04-23_2024_04_23_weekly_vessel_valuations_report_april_23_2024__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: S&P Values remain stable this week with no notable movements\nCapesize BC Frontier Unity (181,400 DWT, Mar 2012, Koyo Dock) sold to unknown Greek buyers for USD 35 mil, VV Value USD 37.5 mil\nPanamax BC YMK Quartet (82,200 DWT, Feb 2021, Jiangsu Yangzi-Mitsui) sold to unknown Greek buyers for USD 35.5 mil, VV Value USD 35.73 mil\nSupramax BC African Lion (66,700 DWT, Nov 2013, Mitsui Tamano) sold to unknown Greek buyers for USD 25 mil, VV Value USD 25.6 mil\nHandy BC Perseus Harmony (37,200 DWT, Sep 2020, Saiki) sold to undisclosed buyers for USD 29.5 mil, VV Value USD 29.03 mil\nTankers: Tanker values mostly stable, but MR values firmed across the board as well as older tonnage LR1s\nMR2 Grand Ace5 (46,200 DWT, Nov 2006, STX Offshore) sold to undisclosed buyers for USD 21 mil (DD Due), VV Value USD 20.73 mil\nSmall Clean (Chem/Prod) Patagonia & Paterna (16,800 DWT, Apr/Jul 2006, Qiuxin/Jiangnan Shanghai Changxing HI) sold en bloc to unknown Turkish buyers for USD 22.6 mil (DD Due), VV Value USD 20.83 mil\nContainers : Container values firmed across the board from improved earnings and higher asset demand. The only exception was the Feeder segment down 0.3% WoW\nNo notable sales la",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "container",
+        "mil",
+        "usd",
+        "buyers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 410,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2024-04-23_2024_04_23_weekly_vessel_valuations_report_april_23_2024__s02_linked_asset_2024_04_23_weekly_vessel_valuations_report_april_23_2024_img1_2342024_ff681551f620_jpg",
+      "doc_id": "hellenic_vessel_valuations_2024-04-23_2024_04_23_weekly_vessel_valuations_report_april_23_2024",
+      "parent_id": "hellenic_vessel_valuations_2024-04-23_2024_04_23_weekly_vessel_valuations_report_april_23_2024__root",
+      "title": "Linked asset: 2024-04-23_weekly-vessel-valuations-report-april-23-2024_img1_2342024_ff681551f620.jpg",
+      "section_path": [
+        "Linked asset: 2024-04-23_weekly-vessel-valuations-report-april-23-2024_img1_2342024_ff681551f620.jpg"
+      ],
+      "section_path_text": "Linked asset: 2024-04-23_weekly-vessel-valuations-report-april-23-2024_img1_2342024_ff681551f620.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2024/assets/2024-04-23_weekly-vessel-valuations-report-april-23-2024_img1_2342024_ff681551f620.jpg\n\nLinked image asset: 2024-04-23_weekly-vessel-valuations-report-april-23-2024_img1_2342024_ff681551f620.jpg\n\nImage metadata: JPEG 678x257 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\n( ) VesselsValwe\n23 April 2024 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear VLCC Suez Afra tRI MR Cape Pmax Supra Handy Pr . Pmax Handy - Fmax\nPy 0.0% 0.0% = 10.1% 0.5% --#5.7% 0.9% 0.1% 10.6% - 10.1% +0.5% 42.2% +1.9% 40.2%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100\n5 0.0% §- 0.0% - 40.1% - 40.7% - +4.2% 0.9% - 0.2% - 0.5% - 40.1% +0.2% - +2.0% - +2.9% - +0.2%\n320k 160k 110k 75k 50k 180k 80k 60k 38k 7000 4250 1750 1100\n10 0.0% 0.0% 40.1% +2A%e +2.6% 0.9% 0.2% 0.6% 40.2% +0.5% 42.0% 42.4% 40.2%\n320k 160k 110k 75k 50k 180k 80k 60k 32k 7000 4250 1750 1100\n15 0.0% 0.0% +0.1% +4.0% +2.0% -0.9% -0.1% 40.1% 40.1% +0.B% +2.3% +2.0% +0.1%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 4250 1750 1100\n- 10.1% 0.0% 10.2% 44.7% +3.3% 0.9% -0.1% 10.6% 10.1% 10.7% 42.9% 92.7% 10.3%\n305k 155k 105k 70k 45k 180k 75k 55k 30k 7000 425",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "asset",
+        "handy",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 813,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-08-26_2022_08_26_clarksons_platou_hellas_snp_weekly_bulletin_33__root",
+  "doc_id": "hellenic_shipbuilding_2022-08-26_2022_08_26_clarksons_platou_hellas_snp_weekly_bulletin_33",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn tankers this week, MOL announced ordering two firm 309k dwt VLCC's at Dalian COSCO KHI (DACKs)\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 26 August 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S46ME-B8.5\nFW ADVENTURER 34,487 2019 HAKODATE SS 01/24\n4 x 30 T, Logs fitted USD 28.3 M GREEKS\nDD 01/24\nBWTS fitted\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S60MC6.1 SS 03/23\nIMPERIA 114,849 2006 SAMSUNG USD 32 M U/D\nIce Class 1A, BWTS fitted DD 03/23\nMAN B.",
+  "keywords": [
+    "handysize",
+    "vlcc",
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "india",
+    "japan",
+    "gas",
+    "any",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1982,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-33",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-08-26_2022_08_26_clarksons_platou_hellas_snp_weekly_bulletin_33__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-08-26_2022_08_26_clarksons_platou_hellas_snp_weekly_bulletin_33",
+      "parent_id": "hellenic_shipbuilding_2022-08-26_2022_08_26_clarksons_platou_hellas_snp_weekly_bulletin_33__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tankers this week, MOL announced ordering two firm 309k dwt VLCC's at Dalian COSCO KHI (DACKs)\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "vlcc",
+        "announced",
+        "clarkson",
+        "cosco",
+        "dacks",
+        "dalian",
+        "dwt",
+        "firm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-08-26_2022_08_26_clarksons_platou_hellas_snp_weekly_bulletin_33__s02_linked_asset_2022_08_26_clarksons_platou_hellas_snp_weekly_bulletin_33_report_26_08_2022_12453d6cbe2d_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-08-26_2022_08_26_clarksons_platou_hellas_snp_weekly_bulletin_33",
+      "parent_id": "hellenic_shipbuilding_2022-08-26_2022_08_26_clarksons_platou_hellas_snp_weekly_bulletin_33__root",
+      "title": "Linked asset: 2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
+      "section_path": [
+        "Linked asset: 2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-08-26_clarksons-platou-hellas-snp-weekly-bulletin-33_report-26-08-2022_12453d6cbe2d.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 26 August 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S46ME-B8.5\nFW ADVENTURER 34,487 2019 HAKODATE SS 01/24\n4 x 30 T, Logs fitted USD 28.3 M GREEKS\nDD 01/24\nBWTS fitted\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "keywords": [
+        "handysize",
+        "vlcc",
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "india",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1891,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

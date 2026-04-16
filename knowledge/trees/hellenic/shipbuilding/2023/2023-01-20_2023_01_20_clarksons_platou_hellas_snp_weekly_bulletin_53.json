@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-01-20_2023_01_20_clarksons_platou_hellas_snp_weekly_bulletin_53__root",
+  "doc_id": "hellenic_shipbuilding_2023-01-20_2023_01_20_clarksons_platou_hellas_snp_weekly_bulletin_53",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, it has been reported that Clients of Cardiff ordered three firm 115k dwt LR2 Product Tankers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-01-20_clarksons-platou-hellas-snp-weekly-bulletin-53_report-20-01-2023_2a9e869496de.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-01-20_clarksons-platou-hellas-snp-weekly-bulletin-53_report-20-01-2023_2a9e869496de.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 20 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S60MC6.1 SS 06/26\nDYNA GLOBE 99,347 2006 IMABARI USD 15.1 M INDONESIANS\nBWTS Fitted DD 06/24\n2013 TSUNEISHI MAN B. 6S60MC-C7.2 SS 01/28\nAM LIBERIA 98,730 HIGH USD 20 M GREEKS\n(ZHOUSHAN) Tier II, BWTS Fitted DD 12/25\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2005 DAEWOO MAN B.",
+  "keywords": [
+    "panamax",
+    "lng",
+    "lpg",
+    "container",
+    "pacific",
+    "europe",
+    "india",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "any"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2751,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-01-20_clarksons-platou-hellas-snp-weekly-bulletin-53.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-53",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-01-20_2023_01_20_clarksons_platou_hellas_snp_weekly_bulletin_53__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-01-20_2023_01_20_clarksons_platou_hellas_snp_weekly_bulletin_53",
+      "parent_id": "hellenic_shipbuilding_2023-01-20_2023_01_20_clarksons_platou_hellas_snp_weekly_bulletin_53__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, it has been reported that Clients of Cardiff ordered three firm 115k dwt LR2 Product Tankers\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "tankers",
+        "building",
+        "cardiff",
+        "clarkson",
+        "clients",
+        "dwt",
+        "firm",
+        "hellas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-01-20_2023_01_20_clarksons_platou_hellas_snp_weekly_bulletin_53__s02_linked_asset_2023_01_20_clarksons_platou_hellas_snp_weekly_bulletin_53_report_20_01_2023_2a9e869496de_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-01-20_2023_01_20_clarksons_platou_hellas_snp_weekly_bulletin_53",
+      "parent_id": "hellenic_shipbuilding_2023-01-20_2023_01_20_clarksons_platou_hellas_snp_weekly_bulletin_53__root",
+      "title": "Linked asset: 2023-01-20_clarksons-platou-hellas-snp-weekly-bulletin-53_report-20-01-2023_2a9e869496de.pdf",
+      "section_path": [
+        "Linked asset: 2023-01-20_clarksons-platou-hellas-snp-weekly-bulletin-53_report-20-01-2023_2a9e869496de.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-01-20_clarksons-platou-hellas-snp-weekly-bulletin-53_report-20-01-2023_2a9e869496de.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-01-20_clarksons-platou-hellas-snp-weekly-bulletin-53_report-20-01-2023_2a9e869496de.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 20 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S60MC6.1 SS 06/26\nDYNA GLOBE 99,347 2006 IMABARI USD 15.1 M INDONESIANS\nBWTS Fitted DD 06/24\n2013 TSUNEISHI MAN B.",
+      "keywords": [
+        "panamax",
+        "lng",
+        "lpg",
+        "container",
+        "pacific",
+        "europe",
+        "india",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2663,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

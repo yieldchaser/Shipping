@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2025-01-28_2025_01_28_weekly_vessel_valuations_report_january_28_2025__root",
+  "doc_id": "hellenic_vessel_valuations_2025-01-28_2025_01_28_weekly_vessel_valuations_report_january_28_2025",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, January 28 2025",
+  "section_path": [
+    "Weekly Vessel Valuations Report, January 28 2025"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, January 28 2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: Bulker values remain stable this week\nCapesize BC Salt Lake City (171,800 DWT, Aug 2005, Daewoo) sold to unknown Chinese buyers for 16.2 mil, VV Value USD 17.15 mil\nPanamax BC Capt Stefanos (74,100 DWT, May 2002, Namura) sold to unknown Chinese buyers for 6.8 mil, VV Value USD 6.7 mil\nSupramax BC Protector St Raphael (56,900 DWT, Jul 2010, Xiamen Shipbuilding Ind) sold to Holger Navigation for 11 mil, VV Value USD 11.2 mil\nHandy BC Woodgate (28,200 DWT, May 2011, I-S) sold to Minh Phu for USD 10.5 mil, VV Value USD 10.68 mil\nTankers: Tanker values remained mostly stable last despite recent earnings fluctuation while newbuild and resale MR values increased from last week\nSuezmax Nordic Apollo (160,000 DWT, Jul 2003, Samsung) sold to unknown UK buyers for USD 22.5 mil, VV Value USD 25.37 mil\nMR2 (Chemical/Product) PS Augusta (51,000 DWT, Mar 2011, STX Offshore) sold to unknown Middle Eastern buyers for USD 25.5 mil, VV Value USD 26.39 mil\nContainers: Recent newbuild deals for Handy containers have brought down the -3YOs, as well as the sales of 2 Sub Panamaxes bringing down the midage vessels of that size. Sub Panamaxes Independent Spirit and Chiquita Farmer (2,546 TEU,",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "suezmax",
+    "container",
+    "china",
+    "mil",
+    "usd",
+    "sold",
+    "value",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1326,
+  "source_path": "reports/hellenic/vessel_valuations/2025/2025-01-28_weekly-vessel-valuations-report-january-28-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-january-28-2025",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2025-01-28_2025_01_28_weekly_vessel_valuations_report_january_28_2025__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2025-01-28_2025_01_28_weekly_vessel_valuations_report_january_28_2025",
+      "parent_id": "hellenic_vessel_valuations_2025-01-28_2025_01_28_weekly_vessel_valuations_report_january_28_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: Bulker values remain stable this week\nCapesize BC Salt Lake City (171,800 DWT, Aug 2005, Daewoo) sold to unknown Chinese buyers for 16.2 mil, VV Value USD 17.15 mil\nPanamax BC Capt Stefanos (74,100 DWT, May 2002, Namura) sold to unknown Chinese buyers for 6.8 mil, VV Value USD 6.7 mil\nSupramax BC Protector St Raphael (56,900 DWT, Jul 2010, Xiamen Shipbuilding Ind) sold to Holger Navigation for 11 mil, VV Value USD 11.2 mil\nHandy BC Woodgate (28,200 DWT, May 2011, I-S) sold to Minh Phu for USD 10.5 mil, VV Value USD 10.68 mil\nTankers: Tanker values remained mostly stable last despite recent earnings fluctuation while newbuild and resale MR values increased from last week\nSuezmax Nordic Apollo (160,000 DWT, Jul 2003, Samsung) sold to unknown UK buyers for USD 22.5 mil, VV Value USD 25.37 mil\nMR2 (Chemical/Product) PS Augusta (51,000 DWT, Mar 2011, STX Offshore) sold to unknown Middle Eastern buyers for USD 25.5 mil, VV Value USD 26.39 mil\nContainers: Recent newbuild deals for Handy containers have brought down the -3YOs, as well as the sales of 2 Sub Panamaxes bringing down the midage vessels of that size. Sub Panamaxes Independent Spirit and Chiquita Farmer (2,546 TEU, Jian",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "suezmax",
+        "container",
+        "china",
+        "mil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 478,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2025-01-28_2025_01_28_weekly_vessel_valuations_report_january_28_2025__s02_linked_asset_2025_01_28_weekly_vessel_valuations_report_january_28_2025_img1_28120250_530ac91e4867_jpg",
+      "doc_id": "hellenic_vessel_valuations_2025-01-28_2025_01_28_weekly_vessel_valuations_report_january_28_2025",
+      "parent_id": "hellenic_vessel_valuations_2025-01-28_2025_01_28_weekly_vessel_valuations_report_january_28_2025__root",
+      "title": "Linked asset: 2025-01-28_weekly-vessel-valuations-report-january-28-2025_img1_28120250_530ac91e4867.jpg",
+      "section_path": [
+        "Linked asset: 2025-01-28_weekly-vessel-valuations-report-january-28-2025_img1_28120250_530ac91e4867.jpg"
+      ],
+      "section_path_text": "Linked asset: 2025-01-28_weekly-vessel-valuations-report-january-28-2025_img1_28120250_530ac91e4867.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2025/assets/2025-01-28_weekly-vessel-valuations-report-january-28-2025_img1_28120250_530ac91e4867.jpg\n\nLinked image asset: 2025-01-28_weekly-vessel-valuations-report-january-28-2025_img1_28120250_530ac91e4867.jpg\n\nImage metadata: JPEG 678x255 mode=RGB\n\nEmbedded info:\ndpi: (96.0, 96.0)\n\nOCR text:\nDs) VesselsValue\n28 January 2025 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nYear vice Suez Afra URL MR Cape Pmax Supra Handy B oe Pmax Handy Fmax\n0 -0.1% -0.9% -1.7% -0.4% +1.0% -0.6% 0.0% -0.4% -0.7% 40.3% +0.1% -0.7% -0.1%\n320k 160k 115k 75k 50k 180k 82k 62k 38k 7000 4250 1750 1100\ns \"0.1% -0.9% -1.6% -0.5% -0.1% +1.3% -0.1% -0.7% -0.7% 0.0% +0.1% -2.5% -0.1%\n320k 160k 110k 75k 50k 180k 82k 60k 38k 7000 4250 1750 1100\n10 \"0.1% --0.9% 1.0% -0.6% -1.0% 41.6% 1.7% -1.4% -1.8% 40.2% +0.2% -3.5% -0.2%\n320k 160k 110k 75k 50k 180k 80k 60k 35k 7000 4250 1750 1100\n15 \"0.1% - -0.9% - -0.3% -0.2% - -1.3% 40.5% -3.8% -2.5% -3.3% #1.2% +0.1% -3.6% -0.1%\n310k 160k 110k 75k 50k 180k 80k 55k 30k 7000 = 4250 1750 1100\n20 0.1% -0.9% 0.0% +0.9% -0.1% \"1.3% -5.3% -3.7% -4.5% +2.5% +0.1% -2.7% +0.1%\n310k 160k 110k 70k 45k 180k 75k 55k 30k 7000 42",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "asset",
+        "handy",
+        "image",
+        "pmax"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 805,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

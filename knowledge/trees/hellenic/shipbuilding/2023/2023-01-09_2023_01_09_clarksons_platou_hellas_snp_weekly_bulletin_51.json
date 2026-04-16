@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-01-09_2023_01_09_clarksons_platou_hellas_snp_weekly_bulletin_51__root",
+  "doc_id": "hellenic_shipbuilding_2023-01-09_2023_01_09_clarksons_platou_hellas_snp_weekly_bulletin_51",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building in dry bulk this week, it has been reported that Ocean Agencies ordered two firm 63k dwt Ultramaxes\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C8.1 SS 01/27\nAQUASALWADOR 180,012 2012 DAEHAN RGN USD 27 M\nBWTS Fitted DD 05/25 GREEKS\nMAN B. 6S70MC-C8.1 SS 12/26 (En Bloc)\nAQUANAVIGATOR 179,905 2011 DAEHAN RGN USD 25 M\nBWTS Fitted DD 03/25\n2014 MAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1897,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-51",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-01-09_2023_01_09_clarksons_platou_hellas_snp_weekly_bulletin_51__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-01-09_2023_01_09_clarksons_platou_hellas_snp_weekly_bulletin_51",
+      "parent_id": "hellenic_shipbuilding_2023-01-09_2023_01_09_clarksons_platou_hellas_snp_weekly_bulletin_51__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building in dry bulk this week, it has been reported that Ocean Agencies ordered two firm 63k dwt Ultramaxes\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "agencies",
+        "building",
+        "clarkson",
+        "dwt",
+        "firm",
+        "hellas",
+        "ltd",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-01-09_2023_01_09_clarksons_platou_hellas_snp_weekly_bulletin_51__s02_linked_asset_2023_01_09_clarksons_platou_hellas_snp_weekly_bulletin_51_report_07_01_2023_bcf1cb1da902_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-01-09_2023_01_09_clarksons_platou_hellas_snp_weekly_bulletin_51",
+      "parent_id": "hellenic_shipbuilding_2023-01-09_2023_01_09_clarksons_platou_hellas_snp_weekly_bulletin_51__root",
+      "title": "Linked asset: 2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902.pdf",
+      "section_path": [
+        "Linked asset: 2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-01-09_clarksons-platou-hellas-snp-weekly-bulletin-51_report-07-01-2023_bcf1cb1da902.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 07 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C8.1 SS 01/27\nAQUASALWADOR 180,012 2012 DAEHAN RGN USD 27 M\nBWTS Fitted DD 05/25 GREEKS\nMAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1813,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

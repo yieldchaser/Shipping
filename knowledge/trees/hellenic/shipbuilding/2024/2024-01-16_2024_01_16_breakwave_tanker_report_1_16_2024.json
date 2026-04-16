@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2024-01-16_2024_01_16_breakwave_tanker_report_1_16_2024__root",
+  "doc_id": "hellenic_shipbuilding_2024-01-16_2024_01_16_breakwave_tanker_report_1_16_2024",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 1.16.2024",
+  "section_path": [
+    "Breakwave Tanker Report 1.16.2024"
+  ],
+  "section_path_text": "Breakwave Tanker Report 1.16.2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nGeopolitical instability and oil supply disruptions propel the crude tanker market higher\nSource: Breakwave Advisors\n\nLinked asset: 2024-01-16_breakwave-tanker-report-1-16-2024_breakwavetankersjanuary162024report_b31add34e3c2.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-01-16_breakwave-tanker-report-1-16-2024_breakwavetankersjanuary162024report_b31add34e3c2.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJanuary 16, 2024\nBreakwave Tanker Futures Index: 1,372 VLCC Middle East-Asia Spot Rates: $17.18 Short-term Indicators:\n↑ 30D: 12.5% ↑ 30D: 27.2% Momentum: Positive\n↑ YTD: 13.1% ↑ YTD: 29.7% Sentiment: Positive\n↑ YOY: 17.8% ↑ YOY: 58.3% Fundamentals: Positive\nBi-Weekly Report\n• Geopolitical instability and oil supply disruptions propel the crude tanker market higher - The onset of the New Year\nhas ushered in geopolitical events that bear significant ramifications for the crude freight market and oil prices. Notably,\nthe recent shutdown of Libya's Sharara oilfield, producing about 300,000 barrels per day, has injected uncertainty into\nthe crude oil supply chain, exerting upward pressure on oil prices. Simultaneously, the Middle East faces a precarious\nsituation, marked by the no",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "crude",
+    "demand",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1494,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-01-16_breakwave-tanker-report-1-16-2024.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-1-16-2024",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2024-01-16_2024_01_16_breakwave_tanker_report_1_16_2024__s01_main",
+      "doc_id": "hellenic_shipbuilding_2024-01-16_2024_01_16_breakwave_tanker_report_1_16_2024",
+      "parent_id": "hellenic_shipbuilding_2024-01-16_2024_01_16_breakwave_tanker_report_1_16_2024__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Geopolitical instability and oil supply disruptions propel the crude tanker market higher\nSource: Breakwave Advisors",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "disruptions",
+        "geopolitical",
+        "higher",
+        "instability",
+        "oil",
+        "propel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 20,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-01-16_2024_01_16_breakwave_tanker_report_1_16_2024__s02_linked_asset_2024_01_16_breakwave_tanker_report_1_16_2024_breakwavetankersjanuary162024report_b31add34e3c2_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-01-16_2024_01_16_breakwave_tanker_report_1_16_2024",
+      "parent_id": "hellenic_shipbuilding_2024-01-16_2024_01_16_breakwave_tanker_report_1_16_2024__root",
+      "title": "Linked asset: 2024-01-16_breakwave-tanker-report-1-16-2024_breakwavetankersjanuary162024report_b31add34e3c2.pdf",
+      "section_path": [
+        "Linked asset: 2024-01-16_breakwave-tanker-report-1-16-2024_breakwavetankersjanuary162024report_b31add34e3c2.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-01-16_breakwave-tanker-report-1-16-2024_breakwavetankersjanuary162024report_b31add34e3c2.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-01-16_breakwave-tanker-report-1-16-2024_breakwavetankersjanuary162024report_b31add34e3c2.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJanuary 16, 2024\nBreakwave Tanker Futures Index: 1,372 VLCC Middle East-Asia Spot Rates: $17.18 Short-term Indicators:\n↑ 30D: 12.5% ↑ 30D: 27.2% Momentum: Positive\n↑ YTD: 13.1% ↑ YTD: 29.7% Sentiment: Positive\n↑ YOY: 17.8% ↑ YOY: 58.3% Fundamentals: Positive\nBi-Weekly Report\n• Geopolitical instability and oil supply disruptions propel the crude tanker market higher - The onset of the New Year\nhas ushered in geopolitical events that bear significant ramifications for the crude freight market and oil prices. Notably,\nthe recent shutdown of Libya's Sharara oilfield, producing about 300,000 barrels per day, has injected uncertainty into\nthe crude oil supply chain, exerting upward pressure on oil prices.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1429,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

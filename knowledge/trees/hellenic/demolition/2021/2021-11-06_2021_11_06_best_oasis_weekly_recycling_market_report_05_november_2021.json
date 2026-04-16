@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-11-06_2021_11_06_best_oasis_weekly_recycling_market_report_05_november_2021__root",
+  "doc_id": "hellenic_demolition_2021-11-06_2021_11_06_best_oasis_weekly_recycling_market_report_05_november_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 05 November 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 05 November 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 05 November 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe subcontinent recycling market is going strong even after some corrections witnessed in the global scrap prices as the persisting lack of tonnage\nSource: Best Oasis Limited\n\nLinked asset: 2021-11-06_best-oasis-weekly-recycling-market-report-05-november-2021_weekly-ship-recycling-report_45d38b0ba069.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-11-06_best-oasis-weekly-recycling-market-report-05-november-2021_weekly-ship-recycling-report_45d38b0ba069.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n29th October 2021 to 5th November 2021\nHighlights of the Week\nThe subcontinent recycling market is going strong even after some corrections\njhhnhu\nwitnessed in the global scrap prices as the persisting lack of tonnage has\nenc ouraged end buyers to secure the available units at prevailing prices. Due to\nong oing festivals, Indian buyers have remained muted this week giving more\nopportunities to their counterparts in Bangladesh and Pakistan. Bangladesh is\nleading the price charts due to the rising demand for steel in the region which\nhas kept the ship plate prices firm.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "coal",
+    "steel",
+    "prices",
+    "previous",
+    "price"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1917,
+  "source_path": "reports/hellenic/demolition/2021/2021-11-06_best-oasis-weekly-recycling-market-report-05-november-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-05-november-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-11-06_2021_11_06_best_oasis_weekly_recycling_market_report_05_november_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-11-06_2021_11_06_best_oasis_weekly_recycling_market_report_05_november_2021",
+      "parent_id": "hellenic_demolition_2021-11-06_2021_11_06_best_oasis_weekly_recycling_market_report_05_november_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The subcontinent recycling market is going strong even after some corrections witnessed in the global scrap prices as the persisting lack of tonnage\nSource: Best Oasis Limited",
+      "keywords": [
+        "europe",
+        "after",
+        "best",
+        "corrections",
+        "even",
+        "global",
+        "going",
+        "lack"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-11-06_2021_11_06_best_oasis_weekly_recycling_market_report_05_november_2021__s02_linked_asset_2021_11_06_best_oasis_weekly_recycling_market_report_05_november_2021_weekly_ship_recycling_report_45d38b0ba069_pdf",
+      "doc_id": "hellenic_demolition_2021-11-06_2021_11_06_best_oasis_weekly_recycling_market_report_05_november_2021",
+      "parent_id": "hellenic_demolition_2021-11-06_2021_11_06_best_oasis_weekly_recycling_market_report_05_november_2021__root",
+      "title": "Linked asset: 2021-11-06_best-oasis-weekly-recycling-market-report-05-november-2021_weekly-ship-recycling-report_45d38b0ba069.pdf",
+      "section_path": [
+        "Linked asset: 2021-11-06_best-oasis-weekly-recycling-market-report-05-november-2021_weekly-ship-recycling-report_45d38b0ba069.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-11-06_best-oasis-weekly-recycling-market-report-05-november-2021_weekly-ship-recycling-report_45d38b0ba069.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-11-06_best-oasis-weekly-recycling-market-report-05-november-2021_weekly-ship-recycling-report_45d38b0ba069.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n29th October 2021 to 5th November 2021\nHighlights of the Week\nThe subcontinent recycling market is going strong even after some corrections\njhhnhu\nwitnessed in the global scrap prices as the persisting lack of tonnage has\nenc ouraged end buyers to secure the available units at prevailing prices. Due to\nong oing festivals, Indian buyers have remained muted this week giving more\nopportunities to their counterparts in Bangladesh and Pakistan.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1838,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

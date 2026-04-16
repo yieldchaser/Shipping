@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2021-07-27_2021_07_27_weekly_vessel_valuations_report_july_27_2021__root",
+  "doc_id": "hellenic_vessel_valuations_2021-07-27_2021_07_27_weekly_vessel_valuations_report_july_27_2021",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, July 27 2021",
+  "section_path": [
+    "Weekly Vessel Valuations Report, July 27 2021"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, July 27 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker: Aframax values have firmed slightly. Small Chemical Tankers Beech Galaxy & Lime Galaxy (20,000 DWT, Jan 2007 & Dec 2008, Usuki Zosensho) sold in an en bloc deal to USA buyers for USD 23.00 mil, VV en bloc value USD 24.75 mil\nSmall Chemical Tanker Celsius Manhattan (19,800 DWT, Oct 2006, Kitanihon Zosen) sold to Taihua Ship Management for USD 11.50 mil, VV value USD 10.38 mil - SS Due. Bulker: Softening in modern Supramax values.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "aframax",
+    "container",
+    "china",
+    "europe",
+    "usd",
+    "mil",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1285,
+  "source_path": "reports/hellenic/vessel_valuations/2021/2021-07-27_weekly-vessel-valuations-report-july-27-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-27-2021",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2021-07-27_2021_07_27_weekly_vessel_valuations_report_july_27_2021__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2021-07-27_2021_07_27_weekly_vessel_valuations_report_july_27_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-07-27_2021_07_27_weekly_vessel_valuations_report_july_27_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker: Aframax values have firmed slightly. Small Chemical Tankers Beech Galaxy & Lime Galaxy (20,000 DWT, Jan 2007 & Dec 2008, Usuki Zosensho) sold in an en bloc deal to USA buyers for USD 23.00 mil, VV en bloc value USD 24.75 mil\nSmall Chemical Tanker Celsius Manhattan (19,800 DWT, Oct 2006, Kitanihon Zosen) sold to Taihua Ship Management for USD 11.50 mil, VV value USD 10.38 mil - SS Due.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "aframax",
+        "container",
+        "china",
+        "europe",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 464,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2021-07-27_2021_07_27_weekly_vessel_valuations_report_july_27_2021__s02_linked_asset_2021_07_27_weekly_vessel_valuations_report_july_27_2021_img1_20210727_e348675ec3bd_jpg",
+      "doc_id": "hellenic_vessel_valuations_2021-07-27_2021_07_27_weekly_vessel_valuations_report_july_27_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-07-27_2021_07_27_weekly_vessel_valuations_report_july_27_2021__root",
+      "title": "Linked asset: 2021-07-27_weekly-vessel-valuations-report-july-27-2021_img1_20210727_e348675ec3bd.jpg",
+      "section_path": [
+        "Linked asset: 2021-07-27_weekly-vessel-valuations-report-july-27-2021_img1_20210727_e348675ec3bd.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-07-27_weekly-vessel-valuations-report-july-27-2021_img1_20210727_e348675ec3bd.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2021/assets/2021-07-27_weekly-vessel-valuations-report-july-27-2021_img1_20210727_e348675ec3bd.jpg\n\nLinked image asset: 2021-07-27_weekly-vessel-valuations-report-july-27-2021_img1_20210727_e348675ec3bd.jpg\n\nImage metadata: JPEG 678x298 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\n27 July 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra LR1 MR Cape Pmax Supra Handy cost Pmax Handy Fmax\n0 40.2% +0.7% +0.6% -0.7% 41.1% -0.1% -1.6% -2.0% +0.8% +2.7% +6.6% +4.7% +5.3%\n320K 160K 110K 75K 50K 180K 82K 60K 37K 7000 4250 1750 1100\n6 0.1% +0.6% +0.5% 0.7% -0.3% 0.2% -1.4% -2.2% +0.7% +3.2% +6.5% +4.6% +5.1%\n320K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100\n10 0.7% 40.2% +0.8% -0.6% -0.1% -0.2% -1.0% -1.3% +0.7% +4.2% +6.3% +4.6% +5.8%\n310K 160K 110K 75K 50K 180K 80K 60K 30K 7000 4250 1750 1100\n15 0.8% -0.1% +1.0% 0.6% 40.5% -0.1% 0.4% +0.1% 40.7% +5.7% +6.2% +4.7% +7.2%\n310K 160K 110K 70K 45K 180K 75K 55K 30K 7000 4250 1750 1100\n20 0.0% -0.1% +0.9% +0.8% +0.5% +0.9% +0.3% +1.8% +0.7% +7.5% +6.1% +4.6% +8.9%\n300K 155K 105K 70K 45K 175K 75K SOK 30K 6500 4000 1750 1100\n26 +0.8% NIA +0.8% +0.7% +0",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "asset",
+        "handy",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 780,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

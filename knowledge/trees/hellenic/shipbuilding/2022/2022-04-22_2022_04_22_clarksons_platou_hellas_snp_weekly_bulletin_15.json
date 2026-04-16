@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-04-22_2022_04_22_clarksons_platou_hellas_snp_weekly_bulletin_15__root",
+  "doc_id": "hellenic_shipbuilding_2022-04-22_2022_04_22_clarksons_platou_hellas_snp_weekly_bulletin_15",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In the dry market, clients of Almi Marine Management are reported to have placed an order at Dalian COSCO KHI for three firm 64k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 23 April 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 7S50MC-C SS 03/25\nCORAL TOPAZ 76,598 2007 SASEBO USD 18.4 M S. KOREANS\nBWTS fitted DD 01/23\nMAN-B&W 6S50MC-C8.1 SS 01/23\nELIM PEACE 51,187 2003 NEW CENTURY USD 12.5 M CHINESE\n4 x 30 T DD 01/23\nSULZER 6RTA48T\nSS 03/24\nCORONA 46,693 1999 SANOYAS 4 x 30 T USD 10.2 M U/D\nDD 06/22\nBWTS fitted\nWARTSILA 5RT-FLEX50-D\nSS 07/25\nDOLCE VITA 38,690 2015 CHENGXI 4 x 30 T USD 25 M U/D\nDD 04/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50ME-B9.2 SS 09/26\nLARGO SEA 49,990 2016 SPP RGN USD 30 M U/D\nIMO II/III DD 09/24\nMAN-B&W 6S50MC-C SS 01/24\nTORM GYDA 36,207 2009 HMD USD 13.5 M GREEKS\nI",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "gas",
+    "clarksons",
+    "information",
+    "platou",
+    "any",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2380,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-15",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-04-22_2022_04_22_clarksons_platou_hellas_snp_weekly_bulletin_15__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-04-22_2022_04_22_clarksons_platou_hellas_snp_weekly_bulletin_15",
+      "parent_id": "hellenic_shipbuilding_2022-04-22_2022_04_22_clarksons_platou_hellas_snp_weekly_bulletin_15__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In the dry market, clients of Almi Marine Management are reported to have placed an order at Dalian COSCO KHI for three firm 64k dwt\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "almi",
+        "are",
+        "building",
+        "clarkson",
+        "clients",
+        "cosco",
+        "dalian",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 48,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-04-22_2022_04_22_clarksons_platou_hellas_snp_weekly_bulletin_15__s02_linked_asset_2022_04_22_clarksons_platou_hellas_snp_weekly_bulletin_15_report_23_04_2022_59c9d2476238_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-04-22_2022_04_22_clarksons_platou_hellas_snp_weekly_bulletin_15",
+      "parent_id": "hellenic_shipbuilding_2022-04-22_2022_04_22_clarksons_platou_hellas_snp_weekly_bulletin_15__root",
+      "title": "Linked asset: 2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf",
+      "section_path": [
+        "Linked asset: 2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-04-22_clarksons-platou-hellas-snp-weekly-bulletin-15_report-23-04-2022_59c9d2476238.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 23 April 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 7S50MC-C SS 03/25\nCORAL TOPAZ 76,598 2007 SASEBO USD 18.4 M S. KOREANS\nBWTS fitted DD 01/23\nMAN-B&W 6S50MC-C8.1 SS 01/23\nELIM PEACE 51,187 2003 NEW CENTURY USD 12.5 M CHINESE\n4 x 30 T DD 01/23\nSULZER 6RTA48T\nSS 03/24\nCORONA 46,693 1999 SANOYAS 4 x 30 T USD 10.2 M U/D\nDD 06/22\nBWTS fitted\nWARTSILA 5RT-FLEX50-D\nSS 07/25\nDOLCE VITA 38,690 2015 CHENGXI 4 x 30 T USD 25 M U/D\nDD 04/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50ME-B9.2 SS 09/26\nLARGO SEA 49,990 2016 SPP RGN USD 30 M U/D\nIMO II/III DD 09/24\nMAN-B&W 6S50MC-C SS 01/24\nTORM GYDA 36,207 2009 HMD USD 13.5 M GREEKS\nICE 1A DD 11/23\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 23 April 2022\nNEW BUILDING\nIn the dry market, clients of Almi Marine Management are reported to have placed an order at Dalian COSCO KHI for three firm 64k dwt ultramax bulk\ncarriers, with expected delivery of two",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "gas",
+        "clarksons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2284,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

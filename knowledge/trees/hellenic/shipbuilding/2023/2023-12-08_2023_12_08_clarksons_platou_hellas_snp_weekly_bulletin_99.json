@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-12-08_2023_12_08_clarksons_platou_hellas_snp_weekly_bulletin_99__root",
+  "doc_id": "hellenic_shipbuilding_2023-12-08_2023_12_08_clarksons_platou_hellas_snp_weekly_bulletin_99",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, Euronav ordered one firm 319k dwt VLCC at Qingdao Beihai, with the vessel set to deliver in Q4 2026 bringing their series to three\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 8th December 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6G70ME-C9.2\nHERUN CHINA 181,215 2017 SWS SS 01/27 XS USD 42 M EU BASED\nBWTS fitted\nDD 03/25\n2011 TSUNEISHI MAN B. 7S65ME-C8.2\n180,643 SS 10/26 LOW USD 27 M GREEKS\nIRON MIRACLE CEBU BWTS fitted DD 03/25\nSS 07/24\n178,120 2009 SWS MAN B.",
+  "keywords": [
+    "panamax",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "pacific",
+    "europe",
+    "india",
+    "coal"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2431,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-99",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-12-08_2023_12_08_clarksons_platou_hellas_snp_weekly_bulletin_99__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-12-08_2023_12_08_clarksons_platou_hellas_snp_weekly_bulletin_99",
+      "parent_id": "hellenic_shipbuilding_2023-12-08_2023_12_08_clarksons_platou_hellas_snp_weekly_bulletin_99__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, Euronav ordered one firm 319k dwt VLCC at Qingdao Beihai, with the vessel set to deliver in Q4 2026 bringing their series to three\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "vlcc",
+        "beihai",
+        "bringing",
+        "building",
+        "clarkson",
+        "deliver",
+        "dwt",
+        "euronav"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 56,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-12-08_2023_12_08_clarksons_platou_hellas_snp_weekly_bulletin_99__s02_linked_asset_2023_12_08_clarksons_platou_hellas_snp_weekly_bulletin_99_report_08_12_2023_915b17bef91e_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-12-08_2023_12_08_clarksons_platou_hellas_snp_weekly_bulletin_99",
+      "parent_id": "hellenic_shipbuilding_2023-12-08_2023_12_08_clarksons_platou_hellas_snp_weekly_bulletin_99__root",
+      "title": "Linked asset: 2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e.pdf",
+      "section_path": [
+        "Linked asset: 2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-12-08_clarksons-platou-hellas-snp-weekly-bulletin-99_report-08-12-2023_915b17bef91e.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 8th December 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6G70ME-C9.2\nHERUN CHINA 181,215 2017 SWS SS 01/27 XS USD 42 M EU BASED\nBWTS fitted\nDD 03/25\n2011 TSUNEISHI MAN B.",
+      "keywords": [
+        "panamax",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng",
+        "lpg",
+        "china",
+        "brazil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2328,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

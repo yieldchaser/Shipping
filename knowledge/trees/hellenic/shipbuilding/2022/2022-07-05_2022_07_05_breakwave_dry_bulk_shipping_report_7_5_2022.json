@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-07-05_2022_07_05_breakwave_dry_bulk_shipping_report_7_5_2022__root",
+  "doc_id": "hellenic_shipbuilding_2022-07-05_2022_07_05_breakwave_dry_bulk_shipping_report_7_5_2022",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 7.5.2022",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 7.5.2022"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 7.5.2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize futures curve now points to peak rates later in the year - The considerable downside adjustment in the futures curve has been the\nSource: Breakwave Advisors\n\nLinked asset: 2022-07-05_breakwave-dry-bulk-shipping-report-7-5-2022_breakwavejuly52022report_3e7b50d86758.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-07-05_breakwave-dry-bulk-shipping-report-7-5-2022_breakwavejuly52022report_3e7b50d86758.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJuly 5, 2022\nBreakwave Dry Futures Index: 2,502 Baltic Dry Index (spot): 2,159 Short-term Indicators:\n↓ 30D: -19.3% ↓ 30D: -18.0% Momentum: Neutral\n↑ YTD: 20.2% ↓ YTD: -2.6% Sentiment: Neutral\n↓ YOY: -27.1% ↓ YOY: -34.3% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize futures curve now points to peak rates later in the year - The considerable downside adjustment in the\nfutures curve has been the main event over the last few weeks as spot rates have failed to rally to any substantial\ndegree to justify the prompt futures premiums. Market expectations for a strong third quarter had mainly reflected\nmemories of last year's impressive rally rather than any fundamental shift in market balance. Historically, the third\nquarter of the ",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "year",
+    "curve"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1484,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-07-05_breakwave-dry-bulk-shipping-report-7-5-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-7-5-2022",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-07-05_2022_07_05_breakwave_dry_bulk_shipping_report_7_5_2022__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-07-05_2022_07_05_breakwave_dry_bulk_shipping_report_7_5_2022",
+      "parent_id": "hellenic_shipbuilding_2022-07-05_2022_07_05_breakwave_dry_bulk_shipping_report_7_5_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize futures curve now points to peak rates later in the year - The considerable downside adjustment in the futures curve has been the\nSource: Breakwave Advisors",
+      "keywords": [
+        "capesize",
+        "curve",
+        "adjustment",
+        "considerable",
+        "downside",
+        "later",
+        "now",
+        "peak"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-07-05_2022_07_05_breakwave_dry_bulk_shipping_report_7_5_2022__s02_linked_asset_2022_07_05_breakwave_dry_bulk_shipping_report_7_5_2022_breakwavejuly52022report_3e7b50d86758_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-07-05_2022_07_05_breakwave_dry_bulk_shipping_report_7_5_2022",
+      "parent_id": "hellenic_shipbuilding_2022-07-05_2022_07_05_breakwave_dry_bulk_shipping_report_7_5_2022__root",
+      "title": "Linked asset: 2022-07-05_breakwave-dry-bulk-shipping-report-7-5-2022_breakwavejuly52022report_3e7b50d86758.pdf",
+      "section_path": [
+        "Linked asset: 2022-07-05_breakwave-dry-bulk-shipping-report-7-5-2022_breakwavejuly52022report_3e7b50d86758.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-07-05_breakwave-dry-bulk-shipping-report-7-5-2022_breakwavejuly52022report_3e7b50d86758.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-07-05_breakwave-dry-bulk-shipping-report-7-5-2022_breakwavejuly52022report_3e7b50d86758.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJuly 5, 2022\nBreakwave Dry Futures Index: 2,502 Baltic Dry Index (spot): 2,159 Short-term Indicators:\n↓ 30D: -19.3% ↓ 30D: -18.0% Momentum: Neutral\n↑ YTD: 20.2% ↓ YTD: -2.6% Sentiment: Neutral\n↓ YOY: -27.1% ↓ YOY: -34.3% Fundamentals: Neutral\nBi-Weekly Report\n• Capesize futures curve now points to peak rates later in the year - The considerable downside adjustment in the\nfutures curve has been the main event over the last few weeks as spot rates have failed to rally to any substantial\ndegree to justify the prompt futures premiums. Market expectations for a strong third quarter had mainly reflected\nmemories of last year's impressive rally rather than any fundamental shift in market balance.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1405,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

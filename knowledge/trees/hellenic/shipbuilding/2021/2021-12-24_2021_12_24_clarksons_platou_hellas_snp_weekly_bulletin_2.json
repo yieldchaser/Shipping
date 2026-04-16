@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-12-24_2021_12_24_clarksons_platou_hellas_snp_weekly_bulletin_2__root",
+  "doc_id": "hellenic_shipbuilding_2021-12-24_2021_12_24_clarksons_platou_hellas_snp_weekly_bulletin_2",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In dry bulk this week, CMB ordered a further two firm 210k dwt Newcastlemaxes at CSSC Beihai. The vessels are\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 24 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMID USD 18 M\nMAN-B&W 6S60MC-C SS 05/26\nATLANTIC LEGEND 83,685 2009 SANOYAS (TC attached at USD 16.3k U/D\nBWTS fitted DD 05/24\npd until Apr/Jul '22)\nMAN-B&W 6S60ME-C8 SS 07/25\nSCARLET ALBATROSS 81,923 2015 TSUNEISHI ZOSEN USD 31.7 M GREEKS\nBWTS fitted DD 06/23\nMAN-B&W 6S50ME-C8\nSS 09/22\nPACIFIC BLESS 56,361 4 x 36 T\nDD 09/22\nTier II HIGH USD 34 M\n2012 JIANGSU NEW HANTONG CHINESE\nMAN-B&W 6S50MC-C en bloc\nSS 05/22\nPACIFIC CROWN 56,469 4 X 36 T\nDD 05/22\nTier II\nMAN-B&W 5S50MC-C\nSS 05/26\nAS ELBIA 34,394 2011 SPP 4 x 35 T USD 16.75 M U/D\nDD 08/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 01/22\nVOYAGER 149,991 2",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "atlantic",
+    "pacific",
+    "europe",
+    "india",
+    "japan",
+    "crude_oil",
+    "products",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2955,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-2",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-12-24_2021_12_24_clarksons_platou_hellas_snp_weekly_bulletin_2__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-12-24_2021_12_24_clarksons_platou_hellas_snp_weekly_bulletin_2",
+      "parent_id": "hellenic_shipbuilding_2021-12-24_2021_12_24_clarksons_platou_hellas_snp_weekly_bulletin_2__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In dry bulk this week, CMB ordered a further two firm 210k dwt Newcastlemaxes at CSSC Beihai. The vessels are\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "are",
+        "beihai.",
+        "building",
+        "clarkson",
+        "cmb",
+        "cssc",
+        "dwt",
+        "firm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-12-24_2021_12_24_clarksons_platou_hellas_snp_weekly_bulletin_2__s02_linked_asset_2021_12_24_clarksons_platou_hellas_snp_weekly_bulletin_2_report_24_12_2021_e3fa7387bb9d_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-12-24_2021_12_24_clarksons_platou_hellas_snp_weekly_bulletin_2",
+      "parent_id": "hellenic_shipbuilding_2021-12-24_2021_12_24_clarksons_platou_hellas_snp_weekly_bulletin_2__root",
+      "title": "Linked asset: 2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf",
+      "section_path": [
+        "Linked asset: 2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-12-24_clarksons-platou-hellas-snp-weekly-bulletin-2_report-24-12-2021_e3fa7387bb9d.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 24 December 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMID USD 18 M\nMAN-B&W 6S60MC-C SS 05/26\nATLANTIC LEGEND 83,685 2009 SANOYAS (TC attached at USD 16.3k U/D\nBWTS fitted DD 05/24\npd until Apr/Jul '22)\nMAN-B&W 6S60ME-C8 SS 07/25\nSCARLET ALBATROSS 81,923 2015 TSUNEISHI ZOSEN USD 31.7 M GREEKS\nBWTS fitted DD 06/23\nMAN-B&W 6S50ME-C8\nSS 09/22\nPACIFIC BLESS 56,361 4 x 36 T\nDD 09/22\nTier II HIGH USD 34 M\n2012 JIANGSU NEW HANTONG CHINESE\nMAN-B&W 6S50MC-C en bloc\nSS 05/22\nPACIFIC CROWN 56,469 4 X 36 T\nDD 05/22\nTier II\nMAN-B&W 5S50MC-C\nSS 05/26\nAS ELBIA 34,394 2011 SPP 4 x 35 T USD 16.75 M U/D\nDD 08/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 01/22\nVOYAGER 149,991 2002 SASEBO MAN-B&W 6S70MC USD 13.6 M U/D\nDD 01/22\nPage 1 of 4\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 24 December 2021\nNEW BUILDING\nIn dry bulk this week, CMB ordered a further two firm 210k dwt Newcastlemaxes at CSSC Beihai. The vessels are reported to ha",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "atlantic",
+        "pacific",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2861,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

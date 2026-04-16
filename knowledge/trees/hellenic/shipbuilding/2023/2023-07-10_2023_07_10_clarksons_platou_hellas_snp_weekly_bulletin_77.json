@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-07-10_2023_07_10_clarksons_platou_hellas_snp_weekly_bulletin_77__root",
+  "doc_id": "hellenic_shipbuilding_2023-07-10_2023_07_10_clarksons_platou_hellas_snp_weekly_bulletin_77",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building: In Gas Carriers this week, an unnamed owner, reported to be NYK, ordered two firm 174k CBM LNG carriers at Hyundai Samho Download PDF\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 08 July 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC- SS 05/27 HIGH USD 22 M\nBENITAMOU 206,291 2008 IMABARI CHINESE\nC7.1, BWTS fitted DD 07/25 (BBHP)\nAQUAMARINE 182,060 2009 ODENSE MAN B. 6S70MC-C7.1, SS 10/27 USD 18.5 M GREEKS\nBWTS fitted DD 11/24\nMARYLISA V 52,428 2003 TSUNESIHI MAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "west_africa",
+    "europe",
+    "india",
+    "japan",
+    "steel",
+    "gas",
+    "any",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1995,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-77",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-07-10_2023_07_10_clarksons_platou_hellas_snp_weekly_bulletin_77__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-07-10_2023_07_10_clarksons_platou_hellas_snp_weekly_bulletin_77",
+      "parent_id": "hellenic_shipbuilding_2023-07-10_2023_07_10_clarksons_platou_hellas_snp_weekly_bulletin_77__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building: In Gas Carriers this week, an unnamed owner, reported to be NYK, ordered two firm 174k CBM LNG carriers at Hyundai Samho Download PDF\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "lng",
+        "gas",
+        "carriers",
+        "building",
+        "cbm",
+        "clarkson",
+        "download",
+        "firm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 47,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-07-10_2023_07_10_clarksons_platou_hellas_snp_weekly_bulletin_77__s02_linked_asset_2023_07_10_clarksons_platou_hellas_snp_weekly_bulletin_77_report_08_07_2023_346498beea92_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-07-10_2023_07_10_clarksons_platou_hellas_snp_weekly_bulletin_77",
+      "parent_id": "hellenic_shipbuilding_2023-07-10_2023_07_10_clarksons_platou_hellas_snp_weekly_bulletin_77__root",
+      "title": "Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
+      "section_path": [
+        "Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-07-10_clarksons-platou-hellas-snp-weekly-bulletin-77_report-08-07-2023_346498beea92.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 08 July 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC- SS 05/27 HIGH USD 22 M\nBENITAMOU 206,291 2008 IMABARI CHINESE\nC7.1, BWTS fitted DD 07/25 (BBHP)\nAQUAMARINE 182,060 2009 ODENSE MAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "west_africa",
+        "europe",
+        "india",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1902,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

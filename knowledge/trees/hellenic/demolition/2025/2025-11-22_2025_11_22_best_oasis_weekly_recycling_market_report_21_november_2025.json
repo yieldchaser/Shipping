@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2025-11-22_2025_11_22_best_oasis_weekly_recycling_market_report_21_november_2025__root",
+  "doc_id": "hellenic_demolition_2025-11-22_2025_11_22_best_oasis_weekly_recycling_market_report_21_november_2025",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 21 November 2025",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 21 November 2025"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 21 November 2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 22/11/2025\nThe market has firmed this week, with local steel sentiment showing a modest improvement. Source: Best Oasis Limited\n\nLinked asset: 2025-11-22_Weekly-Ship-Recycling-Report-15-November-21-November-2025.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-11-22_Weekly-Ship-Recycling-Report-15-November-21-November-2025.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(15 NOVEMBER - 21 NOVEMBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe market has firmed this week, with local steel sentiment showing a modest\nimprovement. trade discussions are progressing, helping ease currency-related concerns.",
+  "keywords": [
+    "container",
+    "india",
+    "singapore",
+    "steel",
+    "are",
+    "bangladesh",
+    "previous",
+    "any",
+    "sentiment",
+    "usd",
+    "best",
+    "change"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1189,
+  "source_path": "reports/hellenic/demolition/2025/2025-11-22_best-oasis-weekly-recycling-market-report-21-november-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-21-november-2025",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2025-11-22_2025_11_22_best_oasis_weekly_recycling_market_report_21_november_2025__s01_main",
+      "doc_id": "hellenic_demolition_2025-11-22_2025_11_22_best_oasis_weekly_recycling_market_report_21_november_2025",
+      "parent_id": "hellenic_demolition_2025-11-22_2025_11_22_best_oasis_weekly_recycling_market_report_21_november_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 22/11/2025\nThe market has firmed this week, with local steel sentiment showing a modest improvement.",
+      "keywords": [
+        "steel",
+        "best",
+        "demolition",
+        "firmed",
+        "improvement.",
+        "limited",
+        "local",
+        "modest"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-11-22_2025_11_22_best_oasis_weekly_recycling_market_report_21_november_2025__s02_linked_asset_2025_11_22_weekly_ship_recycling_report_15_november_21_november_2025_pdf",
+      "doc_id": "hellenic_demolition_2025-11-22_2025_11_22_best_oasis_weekly_recycling_market_report_21_november_2025",
+      "parent_id": "hellenic_demolition_2025-11-22_2025_11_22_best_oasis_weekly_recycling_market_report_21_november_2025__root",
+      "title": "Linked asset: 2025-11-22_Weekly-Ship-Recycling-Report-15-November-21-November-2025.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-22_Weekly-Ship-Recycling-Report-15-November-21-November-2025.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-22_Weekly-Ship-Recycling-Report-15-November-21-November-2025.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-11-22_Weekly-Ship-Recycling-Report-15-November-21-November-2025.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(15 NOVEMBER - 21 NOVEMBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe market has firmed this week, with local steel sentiment showing a modest\nimprovement. trade discussions are progressing, helping ease currency-related concerns.",
+      "keywords": [
+        "container",
+        "india",
+        "singapore",
+        "steel",
+        "are",
+        "bangladesh",
+        "previous",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1118,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-12-01_2023_12_01_clarksons_platou_hellas_snp_weekly_bulletin_98__root",
+  "doc_id": "hellenic_shipbuilding_2023-12-01_2023_12_01_clarksons_platou_hellas_snp_weekly_bulletin_98",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn tankers this week, clients of Atlas announced contracting two firm 156k dwt Suezmaxes at DH Shipbuilding. The vessels are both slated for delivery in 2026\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 01 Dec 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nPEDHOULAS 2015 JIANGSU NEW MAN B.&W. 6S60ME-C8.2\n82,013 BWTS fitted, SS 07/25 USD 26.6 M GREEKS\nCHERRY YANGZIJIANG DD 07/25\nSCRUBBER fitted\n2019 JIANGSU NEW MAN B.&W.",
+  "keywords": [
+    "suezmax",
+    "lng",
+    "lpg",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "firm",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2055,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-98",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-12-01_2023_12_01_clarksons_platou_hellas_snp_weekly_bulletin_98__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-12-01_2023_12_01_clarksons_platou_hellas_snp_weekly_bulletin_98",
+      "parent_id": "hellenic_shipbuilding_2023-12-01_2023_12_01_clarksons_platou_hellas_snp_weekly_bulletin_98__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tankers this week, clients of Atlas announced contracting two firm 156k dwt Suezmaxes at DH Shipbuilding. The vessels are both slated for delivery in 2026\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "suezmax",
+        "announced",
+        "are",
+        "atlas",
+        "both",
+        "clarkson",
+        "clients",
+        "contracting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 49,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-12-01_2023_12_01_clarksons_platou_hellas_snp_weekly_bulletin_98__s02_linked_asset_2023_12_01_clarksons_platou_hellas_snp_weekly_bulletin_98_report_01_12_2023_b2886e92a7d9_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-12-01_2023_12_01_clarksons_platou_hellas_snp_weekly_bulletin_98",
+      "parent_id": "hellenic_shipbuilding_2023-12-01_2023_12_01_clarksons_platou_hellas_snp_weekly_bulletin_98__root",
+      "title": "Linked asset: 2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
+      "section_path": [
+        "Linked asset: 2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-12-01_clarksons-platou-hellas-snp-weekly-bulletin-98_report-01-12-2023_b2886e92a7d9.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 01 Dec 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nPEDHOULAS 2015 JIANGSU NEW MAN B.&W. 6S60ME-C8.2\n82,013 BWTS fitted, SS 07/25 USD 26.6 M GREEKS\nCHERRY YANGZIJIANG DD 07/25\nSCRUBBER fitted\n2019 JIANGSU NEW MAN B.&W.",
+      "keywords": [
+        "suezmax",
+        "lng",
+        "lpg",
+        "europe",
+        "india",
+        "steel",
+        "gas",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1957,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

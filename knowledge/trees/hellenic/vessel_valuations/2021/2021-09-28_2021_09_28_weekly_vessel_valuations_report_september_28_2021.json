@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2021-09-28_2021_09_28_weekly_vessel_valuations_report_september_28_2021__root",
+  "doc_id": "hellenic_vessel_valuations_2021-09-28_2021_09_28_weekly_vessel_valuations_report_september_28_2021",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, September 28 2021",
+  "section_path": [
+    "Weekly Vessel Valuations Report, September 28 2021"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, September 28 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker: Mid-age LR1s have firmed slightly. Aframaxes Bunga Kelana 7 and Bunga Kelana 8 (105,200 DWT, Jan & Mar 2004, Samsung) sold in an en bloc deal for USD 26.60 mil, VV en bloc value USD 24.53 mil - DD Due. MR2 Ocean Mars (50,300 DWT, May 2007, SLS) sold to Greek buyers for USD 9.00 mil, VV value USD 9.86 mil - At Auction.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "aframax",
+    "container",
+    "china",
+    "singapore",
+    "gas",
+    "mil",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1569,
+  "source_path": "reports/hellenic/vessel_valuations/2021/2021-09-28_weekly-vessel-valuations-report-september-28-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-september-28-2021",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2021-09-28_2021_09_28_weekly_vessel_valuations_report_september_28_2021__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2021-09-28_2021_09_28_weekly_vessel_valuations_report_september_28_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-09-28_2021_09_28_weekly_vessel_valuations_report_september_28_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker: Mid-age LR1s have firmed slightly. Aframaxes Bunga Kelana 7 and Bunga Kelana 8 (105,200 DWT, Jan & Mar 2004, Samsung) sold in an en bloc deal for USD 26.60 mil, VV en bloc value USD 24.53 mil - DD Due.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "aframax",
+        "container",
+        "china",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 725,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2021-09-28_2021_09_28_weekly_vessel_valuations_report_september_28_2021__s02_linked_asset_2021_09_28_weekly_vessel_valuations_report_september_28_2021_img1_20210928_ed110e72616a_jpg",
+      "doc_id": "hellenic_vessel_valuations_2021-09-28_2021_09_28_weekly_vessel_valuations_report_september_28_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-09-28_2021_09_28_weekly_vessel_valuations_report_september_28_2021__root",
+      "title": "Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg",
+      "section_path": [
+        "Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2021/assets/2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg\n\nLinked image asset: 2021-09-28_weekly-vessel-valuations-report-september-28-2021_img1_20210928_ed110e72616a.jpg\n\nImage metadata: JPEG 678x281 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\noO VesselsValue™ -_-_-S-sX-_-SEwr aa HE]\n28 September 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra LR1 MR Cape Pmax Supra Handy Pea Pmax Handy = Fmax\n0 40.5% +0.2% +0.8% +1.2% +0.1% 40.8% +2.0% -0.9% +2.3% +1.5% +0.4% +0.2% +0.9%\n320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100\n5 40.5% +0.2% +0.5% +1.4% +3.4% 40.5% +0.9% -1.8% +2.3% +2.0% +0.4% +0.3% +0.5%\n320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n10 40.5% +0.2% -0.1% +2.4% +44.5% +0.6% +1.4% -2.5% +2.3% +2.7% +0.4% +0.4% +0.5%\n310K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n15 40.5% +0.2% -0.4% +3.9% +1.5% 42.2% +3.5% -2.4% +2.2% 43.1% +0.4% +0.6% +0.9%\n310K 160K 110K 70K 45K 180K 75K SSK 30K 7000 4250 1750 1100\n20 0.0% 0.0% 0.0% 0.0% -0.8% 0.0% +6.7% -2.2% +2.2% 42.9% +0.3% +0.7% +1.6%\n300K 155K 105K 70K 45K 175K ",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "sok",
+        "asset",
+        "handy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 802,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

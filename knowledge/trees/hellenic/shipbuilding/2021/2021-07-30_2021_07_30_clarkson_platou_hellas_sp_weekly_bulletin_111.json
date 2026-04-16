@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-07-30_2021_07_30_clarkson_platou_hellas_sp_weekly_bulletin_111__root",
+  "doc_id": "hellenic_shipbuilding_2021-07-30_2021_07_30_clarkson_platou_hellas_sp_weekly_bulletin_111",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In tankers, the Yards long term existing customer clients of Samos Steamship have ordered two firm 115k dwt Aframax\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 30 July 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMITSUBISHI 7UEC60LS SS 03/22\nDYNA CAMELLIA 91,350 2007 IMABARI MID USD 17 M CHINESE\nBWTS fitted DD 03/22\nMAN-B&W 6S60MC-C SS 08/25 RGN USD 20 M GREEKS\nGLORIOUS WIND 83,410 2010 SANOYAS\nBWTS fitted DD 09/23 (Dely Nov/Dec) (c/o Meadway Bulkers)\nSS 06/22\nCANEA 75,356 2007 UNIVERSAL MAN-B&W 6S60MC USD 17.3 M U/D\nDD 06/22\nMAN-B&W 5S60ME-C8 USD 25.5 M\nSS 01/25\nKOMI 63,628 2015 COSCO ZHOUSHAN 4 x 30 T (basis TC attached at $18k GREEKS\nDD 03/23\nBWTS fitted pd till Nov ‘21)\nMAN-B&W 6S50ME-B9.3 RGN USD 55 M\nSS 10/25\nCALICO JACK 61,305 2015 I-S 4 x 30 T en bloc\nDD 11/23\nBWTS fitted (basis index linked TC\nattached till Apr-Aug '22 at GREEKS\nMAN-B&W 6S50ME-B9\nSS",
+  "keywords": [
+    "supramax",
+    "handysize",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2769,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-111",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-07-30_2021_07_30_clarkson_platou_hellas_sp_weekly_bulletin_111__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-07-30_2021_07_30_clarkson_platou_hellas_sp_weekly_bulletin_111",
+      "parent_id": "hellenic_shipbuilding_2021-07-30_2021_07_30_clarkson_platou_hellas_sp_weekly_bulletin_111__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In tankers, the Yards long term existing customer clients of Samos Steamship have ordered two firm 115k dwt Aframax\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "aframax",
+        "building",
+        "clarkson",
+        "clients",
+        "customer",
+        "dwt",
+        "existing",
+        "firm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-07-30_2021_07_30_clarkson_platou_hellas_sp_weekly_bulletin_111__s02_linked_asset_2021_07_30_clarkson_platou_hellas_sp_weekly_bulletin_111_report_30_07_2021_2f9789f5d67f_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-07-30_2021_07_30_clarkson_platou_hellas_sp_weekly_bulletin_111",
+      "parent_id": "hellenic_shipbuilding_2021-07-30_2021_07_30_clarkson_platou_hellas_sp_weekly_bulletin_111__root",
+      "title": "Linked asset: 2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf",
+      "section_path": [
+        "Linked asset: 2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-07-30_clarkson-platou-hellas-sp-weekly-bulletin-111_report-30-07-2021_2f9789f5d67f.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 30 July 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMITSUBISHI 7UEC60LS SS 03/22\nDYNA CAMELLIA 91,350 2007 IMABARI MID USD 17 M CHINESE\nBWTS fitted DD 03/22\nMAN-B&W 6S60MC-C SS 08/25 RGN USD 20 M GREEKS\nGLORIOUS WIND 83,410 2010 SANOYAS\nBWTS fitted DD 09/23 (Dely Nov/Dec) (c/o Meadway Bulkers)\nSS 06/22\nCANEA 75,356 2007 UNIVERSAL MAN-B&W 6S60MC USD 17.3 M U/D\nDD 06/22\nMAN-B&W 5S60ME-C8 USD 25.5 M\nSS 01/25\nKOMI 63,628 2015 COSCO ZHOUSHAN 4 x 30 T (basis TC attached at $18k GREEKS\nDD 03/23\nBWTS fitted pd till Nov ‘21)\nMAN-B&W 6S50ME-B9.3 RGN USD 55 M\nSS 10/25\nCALICO JACK 61,305 2015 I-S 4 x 30 T en bloc\nDD 11/23\nBWTS fitted (basis index linked TC\nattached till Apr-Aug '22 at GREEKS\nMAN-B&W 6S50ME-B9\nSS 06/25 116% of BSI and till Dec'21-\nPHOENIX RISING 60,417 2015 MITSUI 4 x 30 T\nDD 06/23 Aprl'22 at 110% of BSI58\nBWTS fitted accordingly)\nMAN-B&W 6S42MC\nSS 01/26\nGREAT REWARD 31,785 2011 GUANGZHOU HUANGPU 4 x 30 T RGN/XS USD 13 M CHINESE\nDD 11/23\nBWTS fitted, Ice-1B\nTANKERS - CH",
+      "keywords": [
+        "supramax",
+        "handysize",
+        "aframax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2677,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

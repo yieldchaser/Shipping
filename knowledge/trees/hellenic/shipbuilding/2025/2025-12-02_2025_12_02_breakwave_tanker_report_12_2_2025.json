@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-12-02_2025_12_02_breakwave_tanker_report_12_2_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-12-02_2025_12_02_breakwave_tanker_report_12_2_2025",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 12.2.2025",
+  "section_path": [
+    "Breakwave Tanker Report 12.2.2025"
+  ],
+  "section_path_text": "Breakwave Tanker Report 12.2.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC Market Stabilizes into Final Strech of the Year - The Very Large Crude Carrier (VLCC) sector experienced a market moderation\nSource: Breakwave Advisors\n\nLinked asset: 2025-12-02_breakwave-tanker-report-12-2-2025_breakwavetankersdecember22025report_8892beea2d11.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-12-02_breakwave-tanker-report-12-2-2025_breakwavetankersdecember22025report_8892beea2d11.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nDecember 2, 2025\n• VLCC Market Stabilizes into Final Strech of the Year - The Very Large Crude\nShort-term Indicators\nCarrier (VLCC) sector experienced a market moderation from late November into\nMomentum: Negative\nearly December, losing the strong momentum of mid-November as the market\ntransitioned. While the Arabian Gulf (AG) initially maintained firm sentiment and Sentiment: Positive\nhealthy enquiry, the position list widened and enquiry tapered off toward month- Fundamentals: Positive\nend, enabling charterers to secure leverage and causing a gradual softening in\nrates, though not a sharp correction. West Africa mirrored this cautious trend, with\nparticipants waiting for new enquiry to define future pricing followi",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "funds",
+    "opec",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1832,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-12-02_breakwave-tanker-report-12-2-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-12-2-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-12-02_2025_12_02_breakwave_tanker_report_12_2_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-12-02_2025_12_02_breakwave_tanker_report_12_2_2025",
+      "parent_id": "hellenic_shipbuilding_2025-12-02_2025_12_02_breakwave_tanker_report_12_2_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Market Stabilizes into Final Strech of the Year - The Very Large Crude Carrier (VLCC) sector experienced a market moderation\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "carrier",
+        "crude",
+        "experienced",
+        "final",
+        "large",
+        "moderation",
+        "sector"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 35,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-12-02_2025_12_02_breakwave_tanker_report_12_2_2025__s02_linked_asset_2025_12_02_breakwave_tanker_report_12_2_2025_breakwavetankersdecember22025report_8892beea2d11_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-12-02_2025_12_02_breakwave_tanker_report_12_2_2025",
+      "parent_id": "hellenic_shipbuilding_2025-12-02_2025_12_02_breakwave_tanker_report_12_2_2025__root",
+      "title": "Linked asset: 2025-12-02_breakwave-tanker-report-12-2-2025_breakwavetankersdecember22025report_8892beea2d11.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-02_breakwave-tanker-report-12-2-2025_breakwavetankersdecember22025report_8892beea2d11.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-02_breakwave-tanker-report-12-2-2025_breakwavetankersdecember22025report_8892beea2d11.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-12-02_breakwave-tanker-report-12-2-2025_breakwavetankersdecember22025report_8892beea2d11.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nDecember 2, 2025\n• VLCC Market Stabilizes into Final Strech of the Year - The Very Large Crude\nShort-term Indicators\nCarrier (VLCC) sector experienced a market moderation from late November into\nMomentum: Negative\nearly December, losing the strong momentum of mid-November as the market\ntransitioned. While the Arabian Gulf (AG) initially maintained firm sentiment and Sentiment: Positive\nhealthy enquiry, the position list widened and enquiry tapered off toward month- Fundamentals: Positive\nend, enabling charterers to secure leverage and causing a gradual softening in\nrates, though not a sharp correction.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1752,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

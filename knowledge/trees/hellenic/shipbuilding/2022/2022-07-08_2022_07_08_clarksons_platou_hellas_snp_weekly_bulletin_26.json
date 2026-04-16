@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-07-08_2022_07_08_clarksons_platou_hellas_snp_weekly_bulletin_26__root",
+  "doc_id": "hellenic_shipbuilding_2022-07-08_2022_07_08_clarksons_platou_hellas_snp_weekly_bulletin_26",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn the gas carrier market, Hyundai HI (Ulsan) announced contracting eight firm 174k CBM LNG Carriers with an unknown European owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 08 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS/DD\nMAN B. 6S60MC6.2\nHUI XIN 8 92,973 2012 COSCO DALIAN Freshly RGN USD 22 M U/D\nTier II, BTWS fitted\nPassed\nMAN B. 5S50ME-B9.3 SS 09/24\nINTERLINK ETERNITY 39,094 2019 ZHEJIANG ZENGZHOU HI USD 29.6 M U/D\n4X30.5T, BWTS fitted DD 09/22\nSS 10/25\nVENTURE OCEAN 38,947\nMAN-B&W 5S50ME-B9.2 DD 10/23\nUSD 50 M\n2015 JIANGMEN NANYANG OHBS, 4X30.5T, U/D\nEn Bloc\nLOGS fitted, BWTS fitted SS 11/25\nVENTURE TEAM 38,904\nDD 11/23\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN B.",
+  "keywords": [
+    "vlcc",
+    "lng",
+    "lpg",
+    "container",
+    "pacific",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2387,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-26",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-07-08_2022_07_08_clarksons_platou_hellas_snp_weekly_bulletin_26__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-07-08_2022_07_08_clarksons_platou_hellas_snp_weekly_bulletin_26",
+      "parent_id": "hellenic_shipbuilding_2022-07-08_2022_07_08_clarksons_platou_hellas_snp_weekly_bulletin_26__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In the gas carrier market, Hyundai HI (Ulsan) announced contracting eight firm 174k CBM LNG Carriers with an unknown European owner\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "lng",
+        "europe",
+        "gas",
+        "announced",
+        "carrier",
+        "carriers",
+        "cbm",
+        "clarkson"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-07-08_2022_07_08_clarksons_platou_hellas_snp_weekly_bulletin_26__s02_linked_asset_2022_07_08_clarksons_platou_hellas_snp_weekly_bulletin_26_report_08_07_2022_399ac515f991_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-07-08_2022_07_08_clarksons_platou_hellas_snp_weekly_bulletin_26",
+      "parent_id": "hellenic_shipbuilding_2022-07-08_2022_07_08_clarksons_platou_hellas_snp_weekly_bulletin_26__root",
+      "title": "Linked asset: 2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf",
+      "section_path": [
+        "Linked asset: 2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-07-08_clarksons-platou-hellas-snp-weekly-bulletin-26_report-08-07-2022_399ac515f991.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 08 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS/DD\nMAN B. 6S60MC6.2\nHUI XIN 8 92,973 2012 COSCO DALIAN Freshly RGN USD 22 M U/D\nTier II, BTWS fitted\nPassed\nMAN B.",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "lpg",
+        "container",
+        "pacific",
+        "europe",
+        "india",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2300,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-02-11_2022_02_11_clarksons_platou_hellas_snp_weekly_bulletin_8__root",
+  "doc_id": "hellenic_shipbuilding_2022-02-11_2022_02_11_clarksons_platou_hellas_snp_weekly_bulletin_8",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In tankers this week, Mitsui OSK Lines announced ordering one firm 50,000 dwt Ice-breaking MR at GSI Nansha\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 11 February 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/22\nBAOSTEEL EVOLUTION 206,331 2007 IMABARI MAN-B&W 6S70MC-C RGN USD 19.5 M GREEKS\nDD 07/22\nSS 07/26\nNAVIOS PROSPERITY 82,535 2007 TSUNEISHI ZOSEN MAN-B&W 6S60MC6.1 USD 16.4 M U/D\nDD 12/23\nMAN-B&W 6S50MC-C SS 01/24\nGRAVITY 56,546 2014 JIANGSU HANTONG USD 16.8 M CHINESE\n4 x 30 T DD 04/22\nMAN-B&W 6S50MC-C8.2\nSS 10/26\nBUMBLEBEE 55,628 2011 MITSUI 4 x 30 T RGN USD 20.5 M\nDD 10/24\nBWTS fitted\nM. EASTERNS\nMITSUBISHI 6UEC45LSE\nSS 02/23\nSUPER VALENTINA 33,382 2013 SHIN KURUSHIMA 4 x 30 T RGN USD 18 M\nDD 02/23\nOHBH, BWTS fitted\nMAN-B&W 6S50MC-C8.1\nSS 01/26\nPOLA ANISIA 46,412 2006 OSHIMA 4 x 30 T USD 13.4 M U/D\nDD 03/24\nBWTS fitted\nTANKERS - CHEMICALS - LP",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "brazil",
+    "pacific",
+    "europe",
+    "singapore",
+    "japan",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2274,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-8",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-02-11_2022_02_11_clarksons_platou_hellas_snp_weekly_bulletin_8__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-02-11_2022_02_11_clarksons_platou_hellas_snp_weekly_bulletin_8",
+      "parent_id": "hellenic_shipbuilding_2022-02-11_2022_02_11_clarksons_platou_hellas_snp_weekly_bulletin_8__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In tankers this week, Mitsui OSK Lines announced ordering one firm 50,000 dwt Ice-breaking MR at GSI Nansha\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "building",
+        "clarkson",
+        "dwt",
+        "firm",
+        "gsi",
+        "hellas",
+        "ice-breaking"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-02-11_2022_02_11_clarksons_platou_hellas_snp_weekly_bulletin_8__s02_linked_asset_2022_02_11_clarksons_platou_hellas_snp_weekly_bulletin_8_report_11_02_2022_62f4ca4b1bda_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-02-11_2022_02_11_clarksons_platou_hellas_snp_weekly_bulletin_8",
+      "parent_id": "hellenic_shipbuilding_2022-02-11_2022_02_11_clarksons_platou_hellas_snp_weekly_bulletin_8__root",
+      "title": "Linked asset: 2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf",
+      "section_path": [
+        "Linked asset: 2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-02-11_clarksons-platou-hellas-snp-weekly-bulletin-8_report-11-02-2022_62f4ca4b1bda.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 11 February 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/22\nBAOSTEEL EVOLUTION 206,331 2007 IMABARI MAN-B&W 6S70MC-C RGN USD 19.5 M GREEKS\nDD 07/22\nSS 07/26\nNAVIOS PROSPERITY 82,535 2007 TSUNEISHI ZOSEN MAN-B&W 6S60MC6.1 USD 16.4 M U/D\nDD 12/23\nMAN-B&W 6S50MC-C SS 01/24\nGRAVITY 56,546 2014 JIANGSU HANTONG USD 16.8 M CHINESE\n4 x 30 T DD 04/22\nMAN-B&W 6S50MC-C8.2\nSS 10/26\nBUMBLEBEE 55,628 2011 MITSUI 4 x 30 T RGN USD 20.5 M\nDD 10/24\nBWTS fitted\nM. EASTERNS\nMITSUBISHI 6UEC45LSE\nSS 02/23\nSUPER VALENTINA 33,382 2013 SHIN KURUSHIMA 4 x 30 T RGN USD 18 M\nDD 02/23\nOHBH, BWTS fitted\nMAN-B&W 6S50MC-C8.1\nSS 01/26\nPOLA ANISIA 46,412 2006 OSHIMA 4 x 30 T USD 13.4 M U/D\nDD 03/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nUSA BASED\nMAN-B&W 6S50MC-C SS 04/26 (c/o International\nRED EAGLE 74,997 2011 SUNGDONG USD 19.5 M\nBWTS fitted DD 12/24 Seaways) - swap deal\nwith \"ALPINE MAYA\"\nSINGAPORE BASED\nMAN-B&W 6S50MC-C\nSS 03/25 (c/o Adhart Shipping) -",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "brazil",
+        "pacific",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2179,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

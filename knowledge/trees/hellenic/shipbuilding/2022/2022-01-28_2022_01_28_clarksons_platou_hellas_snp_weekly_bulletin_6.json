@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-01-28_2022_01_28_clarksons_platou_hellas_snp_weekly_bulletin_6__root",
+  "doc_id": "hellenic_shipbuilding_2022-01-28_2022_01_28_clarksons_platou_hellas_snp_weekly_bulletin_6",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING:In dry bulk this week, COSCO Zhoushan announced taking orders for two firm 63.6k dwt Ultramax from KC Maritime, set to be delivered in 2024\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-01-28_clarksons-platou-hellas-snp-weekly-bulletin-6_report-28-01-2022_53f633df2739.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-01-28_clarksons-platou-hellas-snp-weekly-bulletin-6_report-28-01-2022_53f633df2739.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 28 January 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 01/24\nSOUTH TRADER 181,343 2014 KOYO MAN-B&W 6S70MC-C USD 33.8 M GREEKS\nDD 01/24\nMAN-B&W 7S50MC-C\nSS 06/26\nSILVER STAR 79,081 2011 COSCO DALIAN 4 X 30 T USD 18.5 M M. EASTERNS\nDD 09/24\nBWTS fitted\nSS 07/26\nINTELINK AUDACITY 39,100\nDD06/24\n2016 ZHENJIANG ZHENGZHOU\nSS 07/26\nINTERLINK AFFINITY 39,046\nDD 05/24\nSS 01/26\nINTERLINK TENACITY 38,785\nDD 03/24\nSS 07/26\nINTERLINK EQUALITY 38,781 2016 TAIZHOU KOUAN\nDD 08/24\nSS 04/26\nINTERLINK VERACITY 38,763\nDD 05/25\nSS 02/26\nINTERLINK QUALITY 38,717\nMAN-B&W 5S50ME-B9.3 DD 11/23\n2016 HUATAI 4 x 30 T USD 280 M U/D\nBWTS fitted SS 11/26\nINTERLINK UTILITY 38,706\nDD 11/24\nSS 05/25\nINTERLI",
+  "keywords": [
+    "handysize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "steel",
+    "gas",
+    "any",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2723,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-01-28_clarksons-platou-hellas-snp-weekly-bulletin-6.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-6",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-01-28_2022_01_28_clarksons_platou_hellas_snp_weekly_bulletin_6__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-01-28_2022_01_28_clarksons_platou_hellas_snp_weekly_bulletin_6",
+      "parent_id": "hellenic_shipbuilding_2022-01-28_2022_01_28_clarksons_platou_hellas_snp_weekly_bulletin_6__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING:In dry bulk this week, COSCO Zhoushan announced taking orders for two firm 63.6k dwt Ultramax from KC Maritime, set to be delivered in 2024\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "building",
+        "clarkson",
+        "cosco",
+        "delivered",
+        "dwt",
+        "firm",
+        "hellas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 53,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-01-28_2022_01_28_clarksons_platou_hellas_snp_weekly_bulletin_6__s02_linked_asset_2022_01_28_clarksons_platou_hellas_snp_weekly_bulletin_6_report_28_01_2022_53f633df2739_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-01-28_2022_01_28_clarksons_platou_hellas_snp_weekly_bulletin_6",
+      "parent_id": "hellenic_shipbuilding_2022-01-28_2022_01_28_clarksons_platou_hellas_snp_weekly_bulletin_6__root",
+      "title": "Linked asset: 2022-01-28_clarksons-platou-hellas-snp-weekly-bulletin-6_report-28-01-2022_53f633df2739.pdf",
+      "section_path": [
+        "Linked asset: 2022-01-28_clarksons-platou-hellas-snp-weekly-bulletin-6_report-28-01-2022_53f633df2739.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-01-28_clarksons-platou-hellas-snp-weekly-bulletin-6_report-28-01-2022_53f633df2739.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-01-28_clarksons-platou-hellas-snp-weekly-bulletin-6_report-28-01-2022_53f633df2739.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 28 January 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 01/24\nSOUTH TRADER 181,343 2014 KOYO MAN-B&W 6S70MC-C USD 33.8 M GREEKS\nDD 01/24\nMAN-B&W 7S50MC-C\nSS 06/26\nSILVER STAR 79,081 2011 COSCO DALIAN 4 X 30 T USD 18.5 M M. EASTERNS\nDD 09/24\nBWTS fitted\nSS 07/26\nINTELINK AUDACITY 39,100\nDD06/24\n2016 ZHENJIANG ZHENGZHOU\nSS 07/26\nINTERLINK AFFINITY 39,046\nDD 05/24\nSS 01/26\nINTERLINK TENACITY 38,785\nDD 03/24\nSS 07/26\nINTERLINK EQUALITY 38,781 2016 TAIZHOU KOUAN\nDD 08/24\nSS 04/26\nINTERLINK VERACITY 38,763\nDD 05/25\nSS 02/26\nINTERLINK QUALITY 38,717\nMAN-B&W 5S50ME-B9.3 DD 11/23\n2016 HUATAI 4 x 30 T USD 280 M U/D\nBWTS fitted SS 11/26\nINTERLINK UTILITY 38,706\nDD 11/24\nSS 05/25\nINTERLINK FIDELITY 38,792\nDD 03/23\nSS 07/25\nINTERLINK MOBILITY 38,767 2015 TAIZHOU KOUAN\nDD 04/23\nSS 09/25\nINTERLINK PRIORITY 38,709\nDD 11/23\nSS 05/25\nINTERLINK ABILITY 38,683\nDD 04/23\n2015 HUATAI\nSS 10/25\nINTERLINK PROBITY 38,635\nDD 11/23\nMAN-B&W 6S42MC\nSS 11/25\nROYAL INNOVATION 28,374 2011 IMABARI 4 x 30 T",
+      "keywords": [
+        "handysize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2623,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

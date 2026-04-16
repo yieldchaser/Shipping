@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-09-16_2022_09_16_clarksons_platou_hellas_snp_weekly_bulletin_36__root",
+  "doc_id": "hellenic_shipbuilding_2022-09-16_2022_09_16_clarksons_platou_hellas_snp_weekly_bulletin_36",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn dry bulk this week, CSSC Huangpu Wenchong contracted two firm 85k dwt Kamsarmaxes for domestic\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 16 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 12/22\nSPRING BRAVE 206,306 2007 IMABARI MAN B. 6S70MC-C7.1 DD12/22 USD 17 M U/D\nSAGARJEET 58,079 2009 TSUNEISHI, SS 05/24\nMAN-B&W 6S50MC-C8.2 USD 16 M U/D\nZHOUSHAN DD 05/24\n4 X 30 T\nAQUARIUS 77 35,737 2016 TSUNEISHI, MAN-B&W 6S50ME-B9.3 SS 02/26\nUSD 21 M U/D\nCEBU 4 X 30 T, BWTS FITTED DD 03/24\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S60MC6.1, SS 11/26\nBEKS ATLANTICA 114,895 2006 SAMSUNG USD 33 M MIDDLE EASTERNS\nBWTS FITTED, ICE 1A DD 02/25\nMAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "atlantic",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "its",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2024,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-36",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-09-16_2022_09_16_clarksons_platou_hellas_snp_weekly_bulletin_36__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-09-16_2022_09_16_clarksons_platou_hellas_snp_weekly_bulletin_36",
+      "parent_id": "hellenic_shipbuilding_2022-09-16_2022_09_16_clarksons_platou_hellas_snp_weekly_bulletin_36__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In dry bulk this week, CSSC Huangpu Wenchong contracted two firm 85k dwt Kamsarmaxes for domestic\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "clarkson",
+        "contracted",
+        "cssc",
+        "domestic",
+        "dwt",
+        "firm",
+        "hellas",
+        "huangpu"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-09-16_2022_09_16_clarksons_platou_hellas_snp_weekly_bulletin_36__s02_linked_asset_2022_09_16_clarksons_platou_hellas_snp_weekly_bulletin_36_report_16_09_2022_e15e932d55c6_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-09-16_2022_09_16_clarksons_platou_hellas_snp_weekly_bulletin_36",
+      "parent_id": "hellenic_shipbuilding_2022-09-16_2022_09_16_clarksons_platou_hellas_snp_weekly_bulletin_36__root",
+      "title": "Linked asset: 2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf",
+      "section_path": [
+        "Linked asset: 2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-09-16_clarksons-platou-hellas-snp-weekly-bulletin-36_report-16-09-2022_e15e932d55c6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 16 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 12/22\nSPRING BRAVE 206,306 2007 IMABARI MAN B. 6S70MC-C7.1 DD12/22 USD 17 M U/D\nSAGARJEET 58,079 2009 TSUNEISHI, SS 05/24\nMAN-B&W 6S50MC-C8.2 USD 16 M U/D\nZHOUSHAN DD 05/24\n4 X 30 T\nAQUARIUS 77 35,737 2016 TSUNEISHI, MAN-B&W 6S50ME-B9.3 SS 02/26\nUSD 21 M U/D\nCEBU 4 X 30 T, BWTS FITTED DD 03/24\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "atlantic",
+        "europe",
+        "india",
+        "steel",
+        "gas",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1938,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

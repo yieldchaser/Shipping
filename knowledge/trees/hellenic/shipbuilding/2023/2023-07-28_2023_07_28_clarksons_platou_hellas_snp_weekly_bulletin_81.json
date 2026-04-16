@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-07-28_2023_07_28_clarksons_platou_hellas_snp_weekly_bulletin_81__root",
+  "doc_id": "hellenic_shipbuilding_2023-07-28_2023_07_28_clarksons_platou_hellas_snp_weekly_bulletin_81",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building Hyundai have announced an order at their Hyundai Vinashin facility for a pair of 115K dwt LR2s with an unknown owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 28th July 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 06/27\nBLUE HORIZON 207,867 2012\nMAN B. 7S70ME-C7.1 DD 05/25 USD 35.5 M\nNANTONG GREEKS\nBWTS fitted SS 07/27 (Each)\nCLEAR HORIZON 207,947 COSCO\nDD 08/25\nMAN B. 6G70ME-C9.2 SS 11/25\nHL PASSION 179,656 2015 DALIAN USD 35.9 M U/D\nBWTS fitted DD 12/23\nMAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "its",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2118,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-81",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-07-28_2023_07_28_clarksons_platou_hellas_snp_weekly_bulletin_81__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-07-28_2023_07_28_clarksons_platou_hellas_snp_weekly_bulletin_81",
+      "parent_id": "hellenic_shipbuilding_2023-07-28_2023_07_28_clarksons_platou_hellas_snp_weekly_bulletin_81__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building Hyundai have announced an order at their Hyundai Vinashin facility for a pair of 115K dwt LR2s with an unknown owner\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "hyundai",
+        "announced",
+        "building",
+        "clarkson",
+        "dwt",
+        "facility",
+        "hellas",
+        "lr2s"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-07-28_2023_07_28_clarksons_platou_hellas_snp_weekly_bulletin_81__s02_linked_asset_2023_07_28_clarksons_platou_hellas_snp_weekly_bulletin_81_report_28_07_23_4ebb2ad1d8f6_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-07-28_2023_07_28_clarksons_platou_hellas_snp_weekly_bulletin_81",
+      "parent_id": "hellenic_shipbuilding_2023-07-28_2023_07_28_clarksons_platou_hellas_snp_weekly_bulletin_81__root",
+      "title": "Linked asset: 2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf",
+      "section_path": [
+        "Linked asset: 2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-07-28_clarksons-platou-hellas-snp-weekly-bulletin-81_report-28-07-23_4ebb2ad1d8f6.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 28th July 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSS 06/27\nBLUE HORIZON 207,867 2012\nMAN B. 7S70ME-C7.1 DD 05/25 USD 35.5 M\nNANTONG GREEKS\nBWTS fitted SS 07/27 (Each)\nCLEAR HORIZON 207,947 COSCO\nDD 08/25\nMAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "gas",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2028,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

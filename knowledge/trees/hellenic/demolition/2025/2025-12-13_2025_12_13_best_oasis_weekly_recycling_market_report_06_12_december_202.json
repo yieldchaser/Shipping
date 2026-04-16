@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2025-12-13_2025_12_13_best_oasis_weekly_recycling_market_report_06_12_december_202__root",
+  "doc_id": "hellenic_demolition_2025-12-13_2025_12_13_best_oasis_weekly_recycling_market_report_06_12_december_202",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 06 - 12 December 2025",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 06 - 12 December 2025"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 06 - 12 December 2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 13/12/2025\nThe market softened during the week, with values continuing to face downward pressure amid weak overall sentiment. Source: Best Oasis Limited\n\nLinked asset: 2025-12-13_Weekly-Ship-Recycling-Report-06-December-12-December-2025.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-12-13_Weekly-Ship-Recycling-Report-06-December-12-December-2025.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(06 DECEMBER - 12 DECEMBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe market softened during the week, with values continuing to face downward\npressure amid weak overall sentiment. Ongoing currency weakness continued to weigh on buyer confidence, limiting\nparticipation in the local market.",
+  "keywords": [
+    "container",
+    "europe",
+    "india",
+    "limited",
+    "any",
+    "bangladesh",
+    "bulker",
+    "delivered",
+    "during",
+    "overall",
+    "previous",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1103,
+  "source_path": "reports/hellenic/demolition/2025/2025-12-13_best-oasis-weekly-recycling-market-report-06-12-december-202.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-06-12-december-2025",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2025-12-13_2025_12_13_best_oasis_weekly_recycling_market_report_06_12_december_202__s01_main",
+      "doc_id": "hellenic_demolition_2025-12-13_2025_12_13_best_oasis_weekly_recycling_market_report_06_12_december_202",
+      "parent_id": "hellenic_demolition_2025-12-13_2025_12_13_best_oasis_weekly_recycling_market_report_06_12_december_202__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 13/12/2025\nThe market softened during the week, with values continuing to face downward pressure amid weak overall sentiment.",
+      "keywords": [
+        "amid",
+        "best",
+        "continuing",
+        "demolition",
+        "downward",
+        "during",
+        "face",
+        "limited"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-12-13_2025_12_13_best_oasis_weekly_recycling_market_report_06_12_december_202__s02_linked_asset_2025_12_13_weekly_ship_recycling_report_06_december_12_december_2025_pdf",
+      "doc_id": "hellenic_demolition_2025-12-13_2025_12_13_best_oasis_weekly_recycling_market_report_06_12_december_202",
+      "parent_id": "hellenic_demolition_2025-12-13_2025_12_13_best_oasis_weekly_recycling_market_report_06_12_december_202__root",
+      "title": "Linked asset: 2025-12-13_Weekly-Ship-Recycling-Report-06-December-12-December-2025.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-13_Weekly-Ship-Recycling-Report-06-December-12-December-2025.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-13_Weekly-Ship-Recycling-Report-06-December-12-December-2025.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-12-13_Weekly-Ship-Recycling-Report-06-December-12-December-2025.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(06 DECEMBER - 12 DECEMBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe market softened during the week, with values continuing to face downward\npressure amid weak overall sentiment. Ongoing currency weakness continued to weigh on buyer confidence, limiting\nparticipation in the local market.",
+      "keywords": [
+        "container",
+        "europe",
+        "india",
+        "any",
+        "bangladesh",
+        "bulker",
+        "delivered",
+        "limited"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1030,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

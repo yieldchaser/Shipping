@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2021-08-31_2021_08_31_weekly_vessel_valuations_report_august_31_2021__root",
+  "doc_id": "hellenic_vessel_valuations_2021-08-31_2021_08_31_weekly_vessel_valuations_report_august_31_2021",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, August 31 2021",
+  "section_path": [
+    "Weekly Vessel Valuations Report, August 31 2021"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, August 31 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker: Tanker values have softened. VLCC Starlight Venture (318,800 DWT, Nov 2004, Hyundai Heavy Ind) sold to Nigerian buyers for USD 30.00 mil, VV value USD 28.32 mil. VLCC Katsuragisan (311,600 DWT, Jul 2005, Kawasaki) sold to Chinese buyers for USD 28.50 mil, VV value USD 29.93 mil - BWTS Fitted.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "container",
+    "china",
+    "usd",
+    "mil",
+    "sold",
+    "value",
+    "dwt",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1207,
+  "source_path": "reports/hellenic/vessel_valuations/2021/2021-08-31_weekly-vessel-valuations-report-august-31-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-august-31-2021",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2021-08-31_2021_08_31_weekly_vessel_valuations_report_august_31_2021__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2021-08-31_2021_08_31_weekly_vessel_valuations_report_august_31_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-08-31_2021_08_31_weekly_vessel_valuations_report_august_31_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Starlight Venture (318,800 DWT, Nov 2004, Hyundai Heavy Ind) sold to Nigerian buyers for USD 30.00 mil, VV value USD 28.32 mil. VLCC Katsuragisan (311,600 DWT, Jul 2005, Kawasaki) sold to Chinese buyers for USD 28.50 mil, VV value USD 29.93 mil - BWTS Fitted.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "china",
+        "usd",
+        "mil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 351,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2021-08-31_2021_08_31_weekly_vessel_valuations_report_august_31_2021__s02_linked_asset_2021_08_31_weekly_vessel_valuations_report_august_31_2021_img1_20210831_8ea21a1b106a_jpg",
+      "doc_id": "hellenic_vessel_valuations_2021-08-31_2021_08_31_weekly_vessel_valuations_report_august_31_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-08-31_2021_08_31_weekly_vessel_valuations_report_august_31_2021__root",
+      "title": "Linked asset: 2021-08-31_weekly-vessel-valuations-report-august-31-2021_img1_20210831_8ea21a1b106a.jpg",
+      "section_path": [
+        "Linked asset: 2021-08-31_weekly-vessel-valuations-report-august-31-2021_img1_20210831_8ea21a1b106a.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-08-31_weekly-vessel-valuations-report-august-31-2021_img1_20210831_8ea21a1b106a.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2021/assets/2021-08-31_weekly-vessel-valuations-report-august-31-2021_img1_20210831_8ea21a1b106a.jpg\n\nLinked image asset: 2021-08-31_weekly-vessel-valuations-report-august-31-2021_img1_20210831_8ea21a1b106a.jpg\n\nImage metadata: JPEG 678x309 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© VesselsValue\n31 August 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra' =-sLR1 MR Cape Pmax Supra Handy roe Pmax Handy Fmax\n0 0.1% 40.6% -1.3% 0.3% 0.2% +1.0% +3.9% +3.1% +3.0% +2.1% +2.4% +3.1% +2.1%\n320K _160K__110K__75K__50K 180K___ 82K __-«60K__37K 7000 4250 __1750__1100\n5 1.2% 40.3% -1.3% 0.2% 0.1% +3.3% +3.4% +3.4% +2.4% +2.1% +2.4% +3.1% +1.7%\n320K _160K__110K__75K__50K 180K ___80K___-*60K__-30K 7000 4250 1750 __1100\n10 2.2% = -0.3% -1.3% 0.1% 0.2% +3.6% +2.8% +3.8% +3.7% +2.1% +2.4% +3.1% +1.8%\n310K 160K __110K__75K__50K 180K 80K__--60K__-30K 7000 4250 1750 __1100\n16 2.6% 0.8% -1.3% 0.6% -0.2% +2.3% +2.1% +4.7% +6.1% +2.1% +2.4% +3.1% +2.3%\n310K 160K __110K__70K__‘45K 180K ___75K__-\"55K__30K 7000 4250 (1750 _1400\n20 1.6% -1.6% -1.6% -1.6% 0.1% -1.6% +1.3% +6.5% +9.4% +2.0% +2.4% +3.1% +3.1%\n300K 155K 105K",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "k",
+        "asset",
+        "handy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 811,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

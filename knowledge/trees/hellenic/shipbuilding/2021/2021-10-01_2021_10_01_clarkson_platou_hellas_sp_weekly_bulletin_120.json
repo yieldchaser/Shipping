@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-10-01_2021_10_01_clarkson_platou_hellas_sp_weekly_bulletin_120__root",
+  "doc_id": "hellenic_shipbuilding_2021-10-01_2021_10_01_clarkson_platou_hellas_sp_weekly_bulletin_120",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In dry bulk, Beihai announced contracting two 210k dwt Newcastlemax with an unknown owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 01 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6G70ME-C9.2 SS 04/22 USA BASED\nCONRAD 207,647 2017 SWS USD 53 M\nBWTS, Scrubber fitted DD 04/22 (c/o JPM)\nSS 05/22\nAQUA HONOR 175,428 2012 JINHAI MAN-B&W 6S70MC-6.2 XS USD 28 M U/D\nDD 05/22\nMAN-B&W 6S50MC-C8.2\nSS 02/24\nHTC CHARLIE 56,450 2014 TAIZHOU SANFU 4 x 36 T USD 20.45 M U/D\nDD 02/24\nBWTS fitted\nMAN-B&W 6S50MC-C8.2\nSS 10/25\nMEDI OKINAWA 56,118 2011 MITSUI 4 x 30 T RGN USD 22 M BANGLADESHI\nDD 10/23\nBWTS fitted\nMAN-B&W 6S50MC-C8.2\nSS 05/25\nSPRING HAWK 55,688 2010 MITSUI 4 x 30 T RGN USD 22 M ASIANS\nDD 07/23\nBWTS fitted\nMAN-B&W 6S50MC-C SS 06/22 USD 15.3 M\nSEACON 6 56,826 2012 NINGBO BEILUN LANTIAN CHINESE\n4 x 30 T DD 06/22 (online auction)\nMAN-B&W 6S46MC-C8\nSS ",
+  "keywords": [
+    "handysize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "iron_ore",
+    "gas",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2719,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-120",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-10-01_2021_10_01_clarkson_platou_hellas_sp_weekly_bulletin_120__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-10-01_2021_10_01_clarkson_platou_hellas_sp_weekly_bulletin_120",
+      "parent_id": "hellenic_shipbuilding_2021-10-01_2021_10_01_clarkson_platou_hellas_sp_weekly_bulletin_120__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In dry bulk, Beihai announced contracting two 210k dwt Newcastlemax with an unknown owner\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "beihai",
+        "building",
+        "clarkson",
+        "contracting",
+        "dwt",
+        "hellas",
+        "ltd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-10-01_2021_10_01_clarkson_platou_hellas_sp_weekly_bulletin_120__s02_linked_asset_2021_10_01_clarkson_platou_hellas_sp_weekly_bulletin_120_report_01_10_2021_bac0f93091cc_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-10-01_2021_10_01_clarkson_platou_hellas_sp_weekly_bulletin_120",
+      "parent_id": "hellenic_shipbuilding_2021-10-01_2021_10_01_clarkson_platou_hellas_sp_weekly_bulletin_120__root",
+      "title": "Linked asset: 2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc.pdf",
+      "section_path": [
+        "Linked asset: 2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-10-01_clarkson-platou-hellas-sp-weekly-bulletin-120_report-01-10-2021_bac0f93091cc.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 01 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6G70ME-C9.2 SS 04/22 USA BASED\nCONRAD 207,647 2017 SWS USD 53 M\nBWTS, Scrubber fitted DD 04/22 (c/o JPM)\nSS 05/22\nAQUA HONOR 175,428 2012 JINHAI MAN-B&W 6S70MC-6.2 XS USD 28 M U/D\nDD 05/22\nMAN-B&W 6S50MC-C8.2\nSS 02/24\nHTC CHARLIE 56,450 2014 TAIZHOU SANFU 4 x 36 T USD 20.45 M U/D\nDD 02/24\nBWTS fitted\nMAN-B&W 6S50MC-C8.2\nSS 10/25\nMEDI OKINAWA 56,118 2011 MITSUI 4 x 30 T RGN USD 22 M BANGLADESHI\nDD 10/23\nBWTS fitted\nMAN-B&W 6S50MC-C8.2\nSS 05/25\nSPRING HAWK 55,688 2010 MITSUI 4 x 30 T RGN USD 22 M ASIANS\nDD 07/23\nBWTS fitted\nMAN-B&W 6S50MC-C SS 06/22 USD 15.3 M\nSEACON 6 56,826 2012 NINGBO BEILUN LANTIAN CHINESE\n4 x 30 T DD 06/22 (online auction)\nMAN-B&W 6S46MC-C8\nSS 02/23\nSPRING SUNSHINE 46,947 2013 YANGZI CHANGBO 4 x 30 T USD 17.9 M U/D\nDD 02/23\nBWTS fitted\nSS 08/22\nEOS VICTORY 33,451 dely Dec ‘21\nMITSUBISHI 6UEC45LSE DD 08/22\nUSD 35 M\n2012 SHIN KURUSHIMA 4 x 30 T CHINESE\nEn bloc\nBWTS fitted SS 05/22\nEOS ESPERANCE",
+      "keywords": [
+        "handysize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2637,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

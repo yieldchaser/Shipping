@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-08-08_2023_08_08_breakwave_tanker_report_8_8_2023__root",
+  "doc_id": "hellenic_shipbuilding_2023-08-08_2023_08_08_breakwave_tanker_report_8_8_2023",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 8.8.2023",
+  "section_path": [
+    "Breakwave Tanker Report 8.8.2023"
+  ],
+  "section_path_text": "Breakwave Tanker Report 8.8.2023",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nA rather dull market for VLCCs, as spot rates gradually soften - Summer traditionally has been a slow period for tanker\nSource: Breakwave Advisors\n\nLinked asset: 2023-08-08_breakwave-tanker-report-8-8-2023_breakwavetankersaugust82023report_3d8ec5ef7d4d.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-08-08_breakwave-tanker-report-8-8-2023_breakwavetankersaugust82023report_3d8ec5ef7d4d.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nAugust 8, 2023\nBreakwave Tanker Futures Index: 1,343 VLCC Middle East-Asia Spot Rates: $11.83 Short-term Indicators:\n↑ 30D: 12.3% ↓ 30D: -8.6% Momentum: Neutral\n↑ YTD: 13.0% ↓ YTD: -33.2% Sentiment: Positive\n↑ YOY: 14.4% ↓ YOY: -15.6% Fundamentals: Positive\nBi-Weekly Report\n• A rather dull market for VLCCs, as spot rates gradually soften - Summer traditionally has been a slow period for\ntanker shipping and this year so far proves to be no different. Spot voyage rates remain relatively unchanged, but\nhigher bunker prices are placing some pressure on earnings with oil prices reaching multi-month highs. The Atlantic\nmarket, which has been a pilar of strength in the last few years, remain relatively strong vs the Middle East market\nwhere the recent producti",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "demand",
+    "crude",
+    "prices",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1514,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-08-08_breakwave-tanker-report-8-8-2023.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-8-8-2023",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-08-08_2023_08_08_breakwave_tanker_report_8_8_2023__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-08-08_2023_08_08_breakwave_tanker_report_8_8_2023",
+      "parent_id": "hellenic_shipbuilding_2023-08-08_2023_08_08_breakwave_tanker_report_8_8_2023__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "A rather dull market for VLCCs, as spot rates gradually soften - Summer traditionally has been a slow period for tanker\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "dull",
+        "gradually",
+        "period",
+        "rather",
+        "slow",
+        "soften",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-08-08_2023_08_08_breakwave_tanker_report_8_8_2023__s02_linked_asset_2023_08_08_breakwave_tanker_report_8_8_2023_breakwavetankersaugust82023report_3d8ec5ef7d4d_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-08-08_2023_08_08_breakwave_tanker_report_8_8_2023",
+      "parent_id": "hellenic_shipbuilding_2023-08-08_2023_08_08_breakwave_tanker_report_8_8_2023__root",
+      "title": "Linked asset: 2023-08-08_breakwave-tanker-report-8-8-2023_breakwavetankersaugust82023report_3d8ec5ef7d4d.pdf",
+      "section_path": [
+        "Linked asset: 2023-08-08_breakwave-tanker-report-8-8-2023_breakwavetankersaugust82023report_3d8ec5ef7d4d.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-08-08_breakwave-tanker-report-8-8-2023_breakwavetankersaugust82023report_3d8ec5ef7d4d.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-08-08_breakwave-tanker-report-8-8-2023_breakwavetankersaugust82023report_3d8ec5ef7d4d.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nAugust 8, 2023\nBreakwave Tanker Futures Index: 1,343 VLCC Middle East-Asia Spot Rates: $11.83 Short-term Indicators:\n↑ 30D: 12.3% ↓ 30D: -8.6% Momentum: Neutral\n↑ YTD: 13.0% ↓ YTD: -33.2% Sentiment: Positive\n↑ YOY: 14.4% ↓ YOY: -15.6% Fundamentals: Positive\nBi-Weekly Report\n• A rather dull market for VLCCs, as spot rates gradually soften - Summer traditionally has been a slow period for\ntanker shipping and this year so far proves to be no different. Spot voyage rates remain relatively unchanged, but\nhigher bunker prices are placing some pressure on earnings with oil prices reaching multi-month highs.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1436,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

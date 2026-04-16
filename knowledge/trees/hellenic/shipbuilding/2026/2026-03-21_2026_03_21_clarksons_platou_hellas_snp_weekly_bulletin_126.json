@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-03-21_2026_03_21_clarksons_platou_hellas_snp_weekly_bulletin_126__root",
+  "doc_id": "hellenic_shipbuilding_2026-03-21_2026_03_21_clarksons_platou_hellas_snp_weekly_bulletin_126",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe S&P market remains active, with asset values in both the tanker and dry bulk sectors remaining firm. Modern eco-design vessels are drawing particularly strong interest and achieving premium levels, while older, non-eco tonnage is also maintaining liquidity, successfully attracting buyers and securing solid prices. Dry Cargo\nIn the Kamsarmax segment, after inviting offers on Monday, the MG MERCURY (ABT 85K DWT, 2016, IMABARI, BEAM 35 M) was acquired by European interests at levels in the low USD 28's m.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "europe",
+    "japan",
+    "any",
+    "usd",
+    "information",
+    "clarksons",
+    "dwt",
+    "abt",
+    "sold"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1792,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-126",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-03-21_2026_03_21_clarksons_platou_hellas_snp_weekly_bulletin_126__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-03-21_2026_03_21_clarksons_platou_hellas_snp_weekly_bulletin_126",
+      "parent_id": "hellenic_shipbuilding_2026-03-21_2026_03_21_clarksons_platou_hellas_snp_weekly_bulletin_126__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The S&P market remains active, with asset values in both the tanker and dry bulk sectors remaining firm. Modern eco-design vessels are drawing particularly strong interest and achieving premium levels, while older, non-eco tonnage is also maintaining liquidity, successfully attracting buyers and securing solid prices.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "japan",
+        "usd",
+        "abt",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 327,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-03-21_2026_03_21_clarksons_platou_hellas_snp_weekly_bulletin_126__s02_linked_asset_2026_03_21_clarksons_platou_hellas_snp_weekly_bulletin_126_weekly_sales_20th_mar_2026_a24ede0e996a_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-03-21_2026_03_21_clarksons_platou_hellas_snp_weekly_bulletin_126",
+      "parent_id": "hellenic_shipbuilding_2026-03-21_2026_03_21_clarksons_platou_hellas_snp_weekly_bulletin_126__root",
+      "title": "Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-21_clarksons-platou-hellas-snp-weekly-bulletin-126_weekly-sales-20th-mar-2026_a24ede0e996a.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThe S&P market remains active, with asset values in both the tanker and dry bulk sectors remaining firm.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "europe",
+        "japan",
+        "any",
+        "information",
+        "clarksons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1416,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

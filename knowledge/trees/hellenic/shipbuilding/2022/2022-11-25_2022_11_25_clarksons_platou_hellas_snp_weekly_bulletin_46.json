@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-11-25_2022_11_25_clarksons_platou_hellas_snp_weekly_bulletin_46__root",
+  "doc_id": "hellenic_shipbuilding_2022-11-25_2022_11_25_clarksons_platou_hellas_snp_weekly_bulletin_46",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building: In the gas carrier market this week, Seapeak announced ordering five firm 174k CBM LNG Carriers at Samsung for ExxonMobil Charter,\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 25 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 08/25\nAQUATAINE 181,725 2010 IMABARI BWTS Fitted DD 11/23 USD 25 M GREEKS\nMAN B. 6S60MC-C8.1\nDL CARNATION 81,805 2014 JIANGSU SS 09/24\nTier II USD 18.8 M GREEKS\nEASTERN DD 09/24\nBWTS Fitted\nMAN B.",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "india",
+    "japan",
+    "products",
+    "steel",
+    "gas",
+    "any",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2243,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-46",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-11-25_2022_11_25_clarksons_platou_hellas_snp_weekly_bulletin_46__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-11-25_2022_11_25_clarksons_platou_hellas_snp_weekly_bulletin_46",
+      "parent_id": "hellenic_shipbuilding_2022-11-25_2022_11_25_clarksons_platou_hellas_snp_weekly_bulletin_46__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building: In the gas carrier market this week, Seapeak announced ordering five firm 174k CBM LNG Carriers at Samsung for ExxonMobil Charter,\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "lng",
+        "gas",
+        "announced",
+        "building",
+        "carrier",
+        "carriers",
+        "cbm",
+        "charter"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 44,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-11-25_2022_11_25_clarksons_platou_hellas_snp_weekly_bulletin_46__s02_linked_asset_2022_11_25_clarksons_platou_hellas_snp_weekly_bulletin_46_report_25_11_2022_f5c5d3ff3274_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-11-25_2022_11_25_clarksons_platou_hellas_snp_weekly_bulletin_46",
+      "parent_id": "hellenic_shipbuilding_2022-11-25_2022_11_25_clarksons_platou_hellas_snp_weekly_bulletin_46__root",
+      "title": "Linked asset: 2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf",
+      "section_path": [
+        "Linked asset: 2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-11-25_clarksons-platou-hellas-snp-weekly-bulletin-46_report-25-11-2022_f5c5d3ff3274.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 25 November 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 08/25\nAQUATAINE 181,725 2010 IMABARI BWTS Fitted DD 11/23 USD 25 M GREEKS\nMAN B.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "china",
+        "europe",
+        "india",
+        "japan",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2150,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

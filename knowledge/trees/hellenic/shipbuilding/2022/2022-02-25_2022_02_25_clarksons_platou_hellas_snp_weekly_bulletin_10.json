@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-02-25_2022_02_25_clarksons_platou_hellas_snp_weekly_bulletin_10__root",
+  "doc_id": "hellenic_shipbuilding_2022-02-25_2022_02_25_clarksons_platou_hellas_snp_weekly_bulletin_10",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In the gas carrier market, Samsung announced contracting four firm 174k CBM LNG Carriers for an unknown owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 25 February 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 02/25\nDONG-A OKNOS\nDD 05/23\n2010 HHI\nSS 04/25 USD 81 M\nDONG-A ASTREA 179,329 MAN-B&W 6S70MC-C7.2 GREEKS\nDD 12/23 en bloc\nSS 09/24\nDONG-A EOS 2009 HHI\nDD 08/22\nSS 06/22\nMINERAL BELGIUM 173,806 2005 SWS MAN-B&W 6S70MC USD 15.5 M CHINESE\nDD 06/22\nSS 09/25\nDOUBLE FORTUNE 95,712 2010 IMABARI MAN-B&W 6S60MC-C USD 21 M U/D\nDD 08/23\nSS 10/22\nCORONA INFINITY 88,233 2002 IMABARI MAN-B&W 6S60MC HIGH USD 12 M CHINESE\nDD 10/22\nMAN-B&W 6S50MC-C\nSS 07/22\nWP BRAVE 58,627 2012 SPP 4 x 30 T LOW USD 19 M U/D\nDD 07/22\nTIER II\nMAN-B&W 6S50MC-C\nSS 01/26\nMANDARIN GRACE 56,693 2011 JIANGSU HANTONG 4 x 30 T RGN USD 17 M CHINESE\nDD 12/23\nBWTS fitted, TIER II\nWARTSILA 6R",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "any",
+    "information",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2742,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-10",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-02-25_2022_02_25_clarksons_platou_hellas_snp_weekly_bulletin_10__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-02-25_2022_02_25_clarksons_platou_hellas_snp_weekly_bulletin_10",
+      "parent_id": "hellenic_shipbuilding_2022-02-25_2022_02_25_clarksons_platou_hellas_snp_weekly_bulletin_10__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In the gas carrier market, Samsung announced contracting four firm 174k CBM LNG Carriers for an unknown owner\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "lng",
+        "gas",
+        "announced",
+        "building",
+        "carrier",
+        "carriers",
+        "cbm",
+        "clarkson"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-02-25_2022_02_25_clarksons_platou_hellas_snp_weekly_bulletin_10__s02_linked_asset_2022_02_25_clarksons_platou_hellas_snp_weekly_bulletin_10_report_25_02_2022_88f9239ff9a9_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-02-25_2022_02_25_clarksons_platou_hellas_snp_weekly_bulletin_10",
+      "parent_id": "hellenic_shipbuilding_2022-02-25_2022_02_25_clarksons_platou_hellas_snp_weekly_bulletin_10__root",
+      "title": "Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf",
+      "section_path": [
+        "Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-02-25_clarksons-platou-hellas-snp-weekly-bulletin-10_report-25-02-2022_88f9239ff9a9.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 25 February 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 02/25\nDONG-A OKNOS\nDD 05/23\n2010 HHI\nSS 04/25 USD 81 M\nDONG-A ASTREA 179,329 MAN-B&W 6S70MC-C7.2 GREEKS\nDD 12/23 en bloc\nSS 09/24\nDONG-A EOS 2009 HHI\nDD 08/22\nSS 06/22\nMINERAL BELGIUM 173,806 2005 SWS MAN-B&W 6S70MC USD 15.5 M CHINESE\nDD 06/22\nSS 09/25\nDOUBLE FORTUNE 95,712 2010 IMABARI MAN-B&W 6S60MC-C USD 21 M U/D\nDD 08/23\nSS 10/22\nCORONA INFINITY 88,233 2002 IMABARI MAN-B&W 6S60MC HIGH USD 12 M CHINESE\nDD 10/22\nMAN-B&W 6S50MC-C\nSS 07/22\nWP BRAVE 58,627 2012 SPP 4 x 30 T LOW USD 19 M U/D\nDD 07/22\nTIER II\nMAN-B&W 6S50MC-C\nSS 01/26\nMANDARIN GRACE 56,693 2011 JIANGSU HANTONG 4 x 30 T RGN USD 17 M CHINESE\nDD 12/23\nBWTS fitted, TIER II\nWARTSILA 6RT-FLEX50\nSS 06/25\nTTM PHOENIX 55,947 2010 IHI 4 x 30 T RGN USD 18 M U/D\nDD 07/23\nBWTS fitted\nMAN-B&W 6S50MC-C\nSS 07/24\nAWESOME ASHLEY 55,596 2011 MITSUI 4 x 30 T RGN USD 21 M U/D\nDD 07/22\nBWTS fitted\nMAN-B&W 6S50MC\nSS 05/25\nHS LUCK 52,421 2002 TSUNEISHI 4 x 30 T\nDD 08/23\nBW",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2655,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

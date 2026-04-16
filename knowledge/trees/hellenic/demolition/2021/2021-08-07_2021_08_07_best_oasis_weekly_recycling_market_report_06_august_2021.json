@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-08-07_2021_08_07_best_oasis_weekly_recycling_market_report_06_august_2021__root",
+  "doc_id": "hellenic_demolition_2021-08-07_2021_08_07_best_oasis_weekly_recycling_market_report_06_august_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 06 August 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 06 August 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 06 August 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe subcontinent recycling market maintained its strength throughout the week despite continual surge in Covid\nSource: Best Oasis Limited\n\nLinked asset: 2021-08-07_best-oasis-weekly-recycling-market-report-06-august-2021_weekly-ship-recycling-report_c286fe43bd7b.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-08-07_best-oasis-weekly-recycling-market-report-06-august-2021_weekly-ship-recycling-report_c286fe43bd7b.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n30th July to 6th August 2021\nHighlights of the Week\nT he subcontinent recycling market maintained its strength throughout the\njhhnhu\nweek despite continual surge in Covid cases across Pakistan and strict\nlockdown in Bangladesh. The end buyers are more inclined towards acquiring\nsmaller tonnage as the frequent lockdowns have lowered their risk appetite\nfor the time being. Overall, the scarcity of tonnage has ensured that prices\nremain firm on the prevailing high range.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "prices",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2013,
+  "source_path": "reports/hellenic/demolition/2021/2021-08-07_best-oasis-weekly-recycling-market-report-06-august-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-06-august-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-08-07_2021_08_07_best_oasis_weekly_recycling_market_report_06_august_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-08-07_2021_08_07_best_oasis_weekly_recycling_market_report_06_august_2021",
+      "parent_id": "hellenic_demolition_2021-08-07_2021_08_07_best_oasis_weekly_recycling_market_report_06_august_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The subcontinent recycling market maintained its strength throughout the week despite continual surge in Covid\nSource: Best Oasis Limited",
+      "keywords": [
+        "europe",
+        "best",
+        "continual",
+        "covid",
+        "despite",
+        "its",
+        "limited",
+        "maintained"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 22,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-08-07_2021_08_07_best_oasis_weekly_recycling_market_report_06_august_2021__s02_linked_asset_2021_08_07_best_oasis_weekly_recycling_market_report_06_august_2021_weekly_ship_recycling_report_c286fe43bd7b_pdf",
+      "doc_id": "hellenic_demolition_2021-08-07_2021_08_07_best_oasis_weekly_recycling_market_report_06_august_2021",
+      "parent_id": "hellenic_demolition_2021-08-07_2021_08_07_best_oasis_weekly_recycling_market_report_06_august_2021__root",
+      "title": "Linked asset: 2021-08-07_best-oasis-weekly-recycling-market-report-06-august-2021_weekly-ship-recycling-report_c286fe43bd7b.pdf",
+      "section_path": [
+        "Linked asset: 2021-08-07_best-oasis-weekly-recycling-market-report-06-august-2021_weekly-ship-recycling-report_c286fe43bd7b.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-08-07_best-oasis-weekly-recycling-market-report-06-august-2021_weekly-ship-recycling-report_c286fe43bd7b.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-08-07_best-oasis-weekly-recycling-market-report-06-august-2021_weekly-ship-recycling-report_c286fe43bd7b.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n30th July to 6th August 2021\nHighlights of the Week\nT he subcontinent recycling market maintained its strength throughout the\njhhnhu\nweek despite continual surge in Covid cases across Pakistan and strict\nlockdown in Bangladesh. The end buyers are more inclined towards acquiring\nsmaller tonnage as the frequent lockdowns have lowered their risk appetite\nfor the time being.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1945,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-06-09_2023_06_09_clarksons_platou_hellas_snp_weekly_bulletin_73__root",
+  "doc_id": "hellenic_shipbuilding_2023-06-09_2023_06_09_clarksons_platou_hellas_snp_weekly_bulletin_73",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in the tanker market this week, Zhoushan Changhong announced orders for four firm, plus four optional 115k dwt LR2's\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2017 SHANGHAI MAN B. 6G70ME-C9.2 SS 09/27\nHERUN ZHOUSHAN 181,056 USD 41.5 M U/D\nJIANGNAN BWTS fitted DD 01/26\nKMARIN 2015 JIANGSU NEW MAN B. 5G60ME-C9.2 SS 08/25\n63,083 U/D GREEKS\nSINGAPORE HANTONG 4 x 30 T, BWTS fitted DD 08/23\n2017 SHIN MAN B.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "gas",
+    "any",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2218,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-73",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-06-09_2023_06_09_clarksons_platou_hellas_snp_weekly_bulletin_73__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-06-09_2023_06_09_clarksons_platou_hellas_snp_weekly_bulletin_73",
+      "parent_id": "hellenic_shipbuilding_2023-06-09_2023_06_09_clarksons_platou_hellas_snp_weekly_bulletin_73__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in the tanker market this week, Zhoushan Changhong announced orders for four firm, plus four optional 115k dwt LR2's\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "four",
+        "announced",
+        "building",
+        "changhong",
+        "clarkson",
+        "dwt",
+        "firm",
+        "hellas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 43,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-06-09_2023_06_09_clarksons_platou_hellas_snp_weekly_bulletin_73__s02_linked_asset_2023_06_09_clarksons_platou_hellas_snp_weekly_bulletin_73_report_09_06_2023_31395cf725cd_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-06-09_2023_06_09_clarksons_platou_hellas_snp_weekly_bulletin_73",
+      "parent_id": "hellenic_shipbuilding_2023-06-09_2023_06_09_clarksons_platou_hellas_snp_weekly_bulletin_73__root",
+      "title": "Linked asset: 2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf",
+      "section_path": [
+        "Linked asset: 2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-09_clarksons-platou-hellas-snp-weekly-bulletin-73_report-09-06-2023_31395cf725cd.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 09 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2017 SHANGHAI MAN B. 6G70ME-C9.2 SS 09/27\nHERUN ZHOUSHAN 181,056 USD 41.5 M U/D\nJIANGNAN BWTS fitted DD 01/26\nKMARIN 2015 JIANGSU NEW MAN B.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2129,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

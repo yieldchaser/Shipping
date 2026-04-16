@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-05-10_2022_05_10_breakwave_dry_bulk_shipping_report_5_10_2022__root",
+  "doc_id": "hellenic_shipbuilding_2022-05-10_2022_05_10_breakwave_dry_bulk_shipping_report_5_10_2022",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 5.10.2022",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 5.10.2022"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 5.10.2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry bulk defies global market rout - The Capesize market has finally showed signs of strength, with spot rates doubling over the past few\nSource: Breakwave Advisors\n\nLinked asset: 2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 10, 2022\nBreakwave Dry Futures Index: 3,249 Baltic Dry Index (spot): 2,831 Short-term Indicators:\n↑ 30D: 18.8% ↑ 30D: 37.8% Momentum: Positive\n↑ YTD: 56.1% ↑ YTD: 27.7% Sentiment: Positive\n↑ YOY: 2.9% ↓ YOY: -11.1% Fundamentals: Positive\nBi-Weekly Report\n• Dry bulk defies global market rout - The Capesize market has finally showed signs of strength, with spot rates\ndoubling over the past few weeks, catching up to what in hindsight was an accurate futures market versus one that\nat that time seemed way too optimistic. With all major dry bulk segments earning rates in the high-20,000 range,\ndry bulk is currently thriving relative to a macro backdrop of recessionary fears and gloomy growth forecasts. Indeed,\ndry bulk is proving",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "imports",
+    "average"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1480,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-10-2022",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-05-10_2022_05_10_breakwave_dry_bulk_shipping_report_5_10_2022__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-05-10_2022_05_10_breakwave_dry_bulk_shipping_report_5_10_2022",
+      "parent_id": "hellenic_shipbuilding_2022-05-10_2022_05_10_breakwave_dry_bulk_shipping_report_5_10_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry bulk defies global market rout - The Capesize market has finally showed signs of strength, with spot rates doubling over the past few\nSource: Breakwave Advisors",
+      "keywords": [
+        "capesize",
+        "defies",
+        "doubling",
+        "few",
+        "finally",
+        "global",
+        "past",
+        "rout"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-05-10_2022_05_10_breakwave_dry_bulk_shipping_report_5_10_2022__s02_linked_asset_2022_05_10_breakwave_dry_bulk_shipping_report_5_10_2022_breakwavemay102022report_576fc3a74bbf_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-05-10_2022_05_10_breakwave_dry_bulk_shipping_report_5_10_2022",
+      "parent_id": "hellenic_shipbuilding_2022-05-10_2022_05_10_breakwave_dry_bulk_shipping_report_5_10_2022__root",
+      "title": "Linked asset: 2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf",
+      "section_path": [
+        "Linked asset: 2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-05-10_breakwave-dry-bulk-shipping-report-5-10-2022_breakwavemay102022report_576fc3a74bbf.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nMay 10, 2022\nBreakwave Dry Futures Index: 3,249 Baltic Dry Index (spot): 2,831 Short-term Indicators:\n↑ 30D: 18.8% ↑ 30D: 37.8% Momentum: Positive\n↑ YTD: 56.1% ↑ YTD: 27.7% Sentiment: Positive\n↑ YOY: 2.9% ↓ YOY: -11.1% Fundamentals: Positive\nBi-Weekly Report\n• Dry bulk defies global market rout - The Capesize market has finally showed signs of strength, with spot rates\ndoubling over the past few weeks, catching up to what in hindsight was an accurate futures market versus one that\nat that time seemed way too optimistic. With all major dry bulk segments earning rates in the high-20,000 range,\ndry bulk is currently thriving relative to a macro backdrop of recessionary fears and gloomy growth forecasts.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1400,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

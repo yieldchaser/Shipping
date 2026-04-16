@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-03-10_2023_03_10_clarksons_platou_hellas_snp_weekly_bulletin_60__root",
+  "doc_id": "hellenic_shipbuilding_2023-03-10_2023_03_10_clarksons_platou_hellas_snp_weekly_bulletin_60",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, just the one order as Clients of Performance Shipping announced ordering a firm 114k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 10 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2016 SINOPACIFIC MAN-B&W 5S60ME-C8.1 SS 04/26\nSOHO PRINCIPAL 63,229 $26.5 M GERMANS\nDAYANG BWTS fitted DD 03/24\n2015 TSUNEISHI MAN-B&W 6S50ME-C8.2 SS 07/25\nIVS PINEHURST 57,811 LOW $23 M GREEKS\nCEBU BWTS fitted DD 11/23\nSS 03/25\nECOPACIFIC 57,696 2010 STX DALIAN MAN-B&W 6S50MC-C8.2 $14.8 M U/D\nDD 09/23\n2013 TIANJIN MAN-B&W 6S50MC-C8.2 SS 05/23\nGLOVIS MAGELLAN 56,582 LOW $15 M U/D\nXINGANG BWTS fitted, Tier II DD 05/23\nMAN-B&W 5S50ME-B9.3 SS 02/26\nBOREAS VENTURE 43,389 2016 QINGSHAN LOW/MID $23 M U/D\nBWTS fitted DD 11/25\nMAN-B&W 6S46MC-C8.2, SS 10/26 LOW/MID $15 M\nOCTBREEZE ISLAND 38,278 2011 SHIMANAMI U/D\nBWTS fitted DD 08/24 suffered collision\nTa",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "pacific",
+    "europe",
+    "india",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "man-b",
+    "fitted"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2160,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-60",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-03-10_2023_03_10_clarksons_platou_hellas_snp_weekly_bulletin_60__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-03-10_2023_03_10_clarksons_platou_hellas_snp_weekly_bulletin_60",
+      "parent_id": "hellenic_shipbuilding_2023-03-10_2023_03_10_clarksons_platou_hellas_snp_weekly_bulletin_60__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, just the one order as Clients of Performance Shipping announced ordering a firm 114k dwt\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "building",
+        "clarkson",
+        "clients",
+        "dwt",
+        "firm",
+        "hellas",
+        "just"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-03-10_2023_03_10_clarksons_platou_hellas_snp_weekly_bulletin_60__s02_linked_asset_2023_03_10_clarksons_platou_hellas_snp_weekly_bulletin_60_report_10_03_2023_da66c4c8b6a2_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-03-10_2023_03_10_clarksons_platou_hellas_snp_weekly_bulletin_60",
+      "parent_id": "hellenic_shipbuilding_2023-03-10_2023_03_10_clarksons_platou_hellas_snp_weekly_bulletin_60__root",
+      "title": "Linked asset: 2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf",
+      "section_path": [
+        "Linked asset: 2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-03-10_clarksons-platou-hellas-snp-weekly-bulletin-60_report-10-03-2023_da66c4c8b6a2.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 10 March 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2016 SINOPACIFIC MAN-B&W 5S60ME-C8.1 SS 04/26\nSOHO PRINCIPAL 63,229 $26.5 M GERMANS\nDAYANG BWTS fitted DD 03/24\n2015 TSUNEISHI MAN-B&W 6S50ME-C8.2 SS 07/25\nIVS PINEHURST 57,811 LOW $23 M GREEKS\nCEBU BWTS fitted DD 11/23\nSS 03/25\nECOPACIFIC 57,696 2010 STX DALIAN MAN-B&W 6S50MC-C8.2 $14.8 M U/D\nDD 09/23\n2013 TIANJIN MAN-B&W 6S50MC-C8.2 SS 05/23\nGLOVIS MAGELLAN 56,582 LOW $15 M U/D\nXINGANG BWTS fitted, Tier II DD 05/23\nMAN-B&W 5S50ME-B9.3 SS 02/26\nBOREAS VENTURE 43,389 2016 QINGSHAN LOW/MID $23 M U/D\nBWTS fitted DD 11/25\nMAN-B&W 6S46MC-C8.2, SS 10/26 LOW/MID $15 M\nOCTBREEZE ISLAND 38,278 2011 SHIMANAMI U/D\nBWTS fitted DD 08/24 suffered collision\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2007 HYUNDAI MAN-B&W 6S90MC-C MK5 SS 07/27 MIDDLE\nKASSOS I 318,683 $60 M\nSAMHO BWTS & scrubber fitted DD 07/25 EASTERNS\nMAN-B&W 6S90MC-C MK5 SS 12/23\nATHINA II 318,658 2005 HHI $56 M U/D\nScrubber fitted",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "pacific",
+        "europe",
+        "india",
+        "gas",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2073,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

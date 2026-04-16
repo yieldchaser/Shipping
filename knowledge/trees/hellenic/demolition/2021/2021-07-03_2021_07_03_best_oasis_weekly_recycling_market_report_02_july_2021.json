@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-07-03_2021_07_03_best_oasis_weekly_recycling_market_report_02_july_2021__root",
+  "doc_id": "hellenic_demolition_2021-07-03_2021_07_03_best_oasis_weekly_recycling_market_report_02_july_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 02 July 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 02 July 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 02 July 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe end buyers in subcontinent are showing a decent appetite for available tonnage\nSource: Best Oasis Limited\n\nLinked asset: 2021-07-03_best-oasis-weekly-recycling-market-report-02-july-2021_weekly-ship-recycling-report_137b264ac3ac.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-07-03_best-oasis-weekly-recycling-market-report-02-july-2021_weekly-ship-recycling-report_137b264ac3ac.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSH IP\nRECYCLING\nR EPORT\n25th June to 2nd July 2021\nHighlights of the Week\nThe end buyers in subcontinent are showing a decent appetite for available\ntonnage even with trepid domestic demand for steel because of the paucity\njhhnhu\nin the supply of tonnage in the demolition market. With escalating oil\nprices, the number of offshore vessels coming for recycling may take a hit. This scarcity in supply has maintained the attractive price levels and\ncom petition among buye rs to secure available units.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "steel",
+    "are",
+    "july",
+    "previous"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1998,
+  "source_path": "reports/hellenic/demolition/2021/2021-07-03_best-oasis-weekly-recycling-market-report-02-july-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-02-july-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-07-03_2021_07_03_best_oasis_weekly_recycling_market_report_02_july_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-07-03_2021_07_03_best_oasis_weekly_recycling_market_report_02_july_2021",
+      "parent_id": "hellenic_demolition_2021-07-03_2021_07_03_best_oasis_weekly_recycling_market_report_02_july_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The end buyers in subcontinent are showing a decent appetite for available tonnage\nSource: Best Oasis Limited",
+      "keywords": [
+        "europe",
+        "appetite",
+        "are",
+        "available",
+        "best",
+        "buyers",
+        "decent",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 21,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-07-03_2021_07_03_best_oasis_weekly_recycling_market_report_02_july_2021__s02_linked_asset_2021_07_03_best_oasis_weekly_recycling_market_report_02_july_2021_weekly_ship_recycling_report_137b264ac3ac_pdf",
+      "doc_id": "hellenic_demolition_2021-07-03_2021_07_03_best_oasis_weekly_recycling_market_report_02_july_2021",
+      "parent_id": "hellenic_demolition_2021-07-03_2021_07_03_best_oasis_weekly_recycling_market_report_02_july_2021__root",
+      "title": "Linked asset: 2021-07-03_best-oasis-weekly-recycling-market-report-02-july-2021_weekly-ship-recycling-report_137b264ac3ac.pdf",
+      "section_path": [
+        "Linked asset: 2021-07-03_best-oasis-weekly-recycling-market-report-02-july-2021_weekly-ship-recycling-report_137b264ac3ac.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-07-03_best-oasis-weekly-recycling-market-report-02-july-2021_weekly-ship-recycling-report_137b264ac3ac.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-07-03_best-oasis-weekly-recycling-market-report-02-july-2021_weekly-ship-recycling-report_137b264ac3ac.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSH IP\nRECYCLING\nR EPORT\n25th June to 2nd July 2021\nHighlights of the Week\nThe end buyers in subcontinent are showing a decent appetite for available\ntonnage even with trepid domestic demand for steel because of the paucity\njhhnhu\nin the supply of tonnage in the demolition market. With escalating oil\nprices, the number of offshore vessels coming for recycling may take a hit.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1932,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

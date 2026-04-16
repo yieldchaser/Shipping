@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-11-20_2021_11_20_best_oasis_weekly_recycling_market_report_19_november_2021__root",
+  "doc_id": "hellenic_demolition_2021-11-20_2021_11_20_best_oasis_weekly_recycling_market_report_19_november_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 19 November 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 19 November 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 19 November 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe volatility in global steel prices is being reflected in the prices being offered by the end buyers as they witnessed some correction in India\nSource: Best Oasis Limited\n\nLinked asset: 2021-11-20_best-oasis-weekly-recycling-market-report-19-november-2021_weekly-ship-recycling-report-2_4f490a78941a.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-11-20_best-oasis-weekly-recycling-market-report-19-november-2021_weekly-ship-recycling-report-2_4f490a78941a.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n12th November to 19th November 2021\nHi ghlights of the Week\nT he volatility in global steel prices is being reflected in the prices being\njhh nhu\noffered by the end buyers as they witnessed some correction in India while\nthe offers from Bangladesh and Pakistan remained stable. This week saw a\nsign ificant improvement in offer prices from Turkey as the need to secure\nton nage increased in the regional market. The European Commission proposals for revisions to the EU's rules on Waste\nShipments states that the waste exports to non-OECD countries will be\nrestricted and only allowed if third countries are willing to receive certain\nwastes and able to manage them sustainab",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "prices",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1933,
+  "source_path": "reports/hellenic/demolition/2021/2021-11-20_best-oasis-weekly-recycling-market-report-19-november-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-19-november-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-11-20_2021_11_20_best_oasis_weekly_recycling_market_report_19_november_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-11-20_2021_11_20_best_oasis_weekly_recycling_market_report_19_november_2021",
+      "parent_id": "hellenic_demolition_2021-11-20_2021_11_20_best_oasis_weekly_recycling_market_report_19_november_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The volatility in global steel prices is being reflected in the prices being offered by the end buyers as they witnessed some correction in India\nSource: Best Oasis Limited",
+      "keywords": [
+        "india",
+        "steel",
+        "being",
+        "prices",
+        "best",
+        "buyers",
+        "correction",
+        "end"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-11-20_2021_11_20_best_oasis_weekly_recycling_market_report_19_november_2021__s02_linked_asset_2021_11_20_best_oasis_weekly_recycling_market_report_19_november_2021_weekly_ship_recycling_report_2_4f490a78941a_pdf",
+      "doc_id": "hellenic_demolition_2021-11-20_2021_11_20_best_oasis_weekly_recycling_market_report_19_november_2021",
+      "parent_id": "hellenic_demolition_2021-11-20_2021_11_20_best_oasis_weekly_recycling_market_report_19_november_2021__root",
+      "title": "Linked asset: 2021-11-20_best-oasis-weekly-recycling-market-report-19-november-2021_weekly-ship-recycling-report-2_4f490a78941a.pdf",
+      "section_path": [
+        "Linked asset: 2021-11-20_best-oasis-weekly-recycling-market-report-19-november-2021_weekly-ship-recycling-report-2_4f490a78941a.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-11-20_best-oasis-weekly-recycling-market-report-19-november-2021_weekly-ship-recycling-report-2_4f490a78941a.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-11-20_best-oasis-weekly-recycling-market-report-19-november-2021_weekly-ship-recycling-report-2_4f490a78941a.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n12th November to 19th November 2021\nHi ghlights of the Week\nT he volatility in global steel prices is being reflected in the prices being\njhh nhu\noffered by the end buyers as they witnessed some correction in India while\nthe offers from Bangladesh and Pakistan remained stable. This week saw a\nsign ificant improvement in offer prices from Turkey as the need to secure\nton nage increased in the regional market.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1853,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

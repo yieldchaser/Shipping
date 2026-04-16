@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_tanker_report_12_16_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_tanker_report_12_16_2025",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 12.16.2025",
+  "section_path": [
+    "Breakwave Tanker Report 12.16.2025"
+  ],
+  "section_path_text": "Breakwave Tanker Report 12.16.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC Market Holds Ground but Lacks Fuel into Yearend - In the lead-up to mid December, the Arabian Gulf\nSource: Breakwave Advisors\n\nLinked asset: 2025-12-16_breakwave-tanker-report-12-16-2025_breakwavetankersdecember162025report_31783d3fa414.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-12-16_breakwave-tanker-report-12-16-2025_breakwavetankersdecember162025report_31783d3fa414.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nDecember 16, 2025\n• VLCC Market Holds Ground but Lacks Fuel into Yearend - In the lead-up to mid-\nShort-term Indicators\nDecember, the Arabian Gulf VLCC market exhibited restrained sentiment, as\nMomentum: Neutral\nactivity remained muted due to limited new inquiries and ample available tonnage. Although a small cluster of prompt stems attracted temporary interest and led to a Sentiment: Positive\nbrief tightening in local supply, this effect proved transitory, with insufficient charterer Fundamentals: Positive\nengagement preventing any sustained momentum. By the close of the week, a\nsubstantial portion of third-decade December cargoes had been fixed, whereas\nforward January stems continued to encounter ample supply, restricting owners'\nBreak",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "demand",
+    "funds",
+    "supply"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1828,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-12-16_breakwave-tanker-report-12-16-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-12-16-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_tanker_report_12_16_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_tanker_report_12_16_2025",
+      "parent_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_tanker_report_12_16_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Market Holds Ground but Lacks Fuel into Yearend - In the lead-up to mid December, the Arabian Gulf\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "arabian",
+        "but",
+        "december",
+        "fuel",
+        "ground",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_tanker_report_12_16_2025__s02_linked_asset_2025_12_16_breakwave_tanker_report_12_16_2025_breakwavetankersdecember162025report_31783d3fa414_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_tanker_report_12_16_2025",
+      "parent_id": "hellenic_shipbuilding_2025-12-16_2025_12_16_breakwave_tanker_report_12_16_2025__root",
+      "title": "Linked asset: 2025-12-16_breakwave-tanker-report-12-16-2025_breakwavetankersdecember162025report_31783d3fa414.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-16_breakwave-tanker-report-12-16-2025_breakwavetankersdecember162025report_31783d3fa414.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-16_breakwave-tanker-report-12-16-2025_breakwavetankersdecember162025report_31783d3fa414.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-12-16_breakwave-tanker-report-12-16-2025_breakwavetankersdecember162025report_31783d3fa414.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nDecember 16, 2025\n• VLCC Market Holds Ground but Lacks Fuel into Yearend - In the lead-up to mid-\nShort-term Indicators\nDecember, the Arabian Gulf VLCC market exhibited restrained sentiment, as\nMomentum: Neutral\nactivity remained muted due to limited new inquiries and ample available tonnage. Although a small cluster of prompt stems attracted temporary interest and led to a Sentiment: Positive\nbrief tightening in local supply, this effect proved transitory, with insufficient charterer Fundamentals: Positive\nengagement preventing any sustained momentum.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1754,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

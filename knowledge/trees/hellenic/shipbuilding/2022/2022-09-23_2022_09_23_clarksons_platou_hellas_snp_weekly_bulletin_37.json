@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-09-23_2022_09_23_clarksons_platou_hellas_snp_weekly_bulletin_37__root",
+  "doc_id": "hellenic_shipbuilding_2022-09-23_2022_09_23_clarksons_platou_hellas_snp_weekly_bulletin_37",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn tankers this week, Hyundai announced contracting four firm 50k dwt MR's for an unknown owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-09-23_clarksons-platou-hellas-snp-weekly-bulletin-37_report-23-09-2022_0862f71b711b.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-09-23_clarksons-platou-hellas-snp-weekly-bulletin-37_report-23-09-2022_0862f71b711b.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 23 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 08/25\nFRONTIER TRIUMPH 181,429 2012 IMABARI BWTS Fitted DD 06/23 HIGH USD 29 M CHINESE\nMAN B. 6S70MC6.1 SS 04/25\nCOUGAR 177,493 2002 MITSUI BWTS Due DD 04/23 USD 14.3 M TURKISH\nMITSUBISHI 6UEC60LSII SS 01/25\nSUNNY SAILOR 91,625 2000 OSHIMA BWTS Fitted DD 01/23 USD 9.8 M CHINESE\nMAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "grain",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2344,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-09-23_clarksons-platou-hellas-snp-weekly-bulletin-37.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-37",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-09-23_2022_09_23_clarksons_platou_hellas_snp_weekly_bulletin_37__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-09-23_2022_09_23_clarksons_platou_hellas_snp_weekly_bulletin_37",
+      "parent_id": "hellenic_shipbuilding_2022-09-23_2022_09_23_clarksons_platou_hellas_snp_weekly_bulletin_37__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tankers this week, Hyundai announced contracting four firm 50k dwt MR's for an unknown owner\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "clarkson",
+        "contracting",
+        "dwt",
+        "firm",
+        "four",
+        "hellas",
+        "hyundai"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-09-23_2022_09_23_clarksons_platou_hellas_snp_weekly_bulletin_37__s02_linked_asset_2022_09_23_clarksons_platou_hellas_snp_weekly_bulletin_37_report_23_09_2022_0862f71b711b_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-09-23_2022_09_23_clarksons_platou_hellas_snp_weekly_bulletin_37",
+      "parent_id": "hellenic_shipbuilding_2022-09-23_2022_09_23_clarksons_platou_hellas_snp_weekly_bulletin_37__root",
+      "title": "Linked asset: 2022-09-23_clarksons-platou-hellas-snp-weekly-bulletin-37_report-23-09-2022_0862f71b711b.pdf",
+      "section_path": [
+        "Linked asset: 2022-09-23_clarksons-platou-hellas-snp-weekly-bulletin-37_report-23-09-2022_0862f71b711b.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-09-23_clarksons-platou-hellas-snp-weekly-bulletin-37_report-23-09-2022_0862f71b711b.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-09-23_clarksons-platou-hellas-snp-weekly-bulletin-37_report-23-09-2022_0862f71b711b.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 23 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6S70MC-C7.2 SS 08/25\nFRONTIER TRIUMPH 181,429 2012 IMABARI BWTS Fitted DD 06/23 HIGH USD 29 M CHINESE\nMAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "grain",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2263,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

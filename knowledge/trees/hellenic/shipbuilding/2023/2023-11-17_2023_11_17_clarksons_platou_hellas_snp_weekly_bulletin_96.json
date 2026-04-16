@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-11-17_2023_11_17_clarksons_platou_hellas_snp_weekly_bulletin_96__root",
+  "doc_id": "hellenic_shipbuilding_2023-11-17_2023_11_17_clarksons_platou_hellas_snp_weekly_bulletin_96",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building - In gas carriers, a busy week with Hyundai HI announcing contracting\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-11-17_clarksons-platou-hellas-snp-weekly-bulletin-96_report-17-11-2023_cb68109e5720.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-11-17_clarksons-platou-hellas-snp-weekly-bulletin-96_report-17-11-2023_cb68109e5720.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 17 Nov 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nFRONTIER BRILLIACE 181,412 2013 IMABARI MAN B.&W. 6S70MC-C8.2 SS 09/26 USD 30.5 M U/D\nBWTS fitted DD 11/24\nMAN B.&W. 6S70MC-C7.2 SS 09/26\nHONOR 179,469 BWTS fitted DD 11/24\n2011 HHI USD 49.5 M GREEKS\nGLORY 179,469 MAN B.&W.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2192,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-11-17_clarksons-platou-hellas-snp-weekly-bulletin-96.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-96",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-11-17_2023_11_17_clarksons_platou_hellas_snp_weekly_bulletin_96__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-11-17_2023_11_17_clarksons_platou_hellas_snp_weekly_bulletin_96",
+      "parent_id": "hellenic_shipbuilding_2023-11-17_2023_11_17_clarksons_platou_hellas_snp_weekly_bulletin_96__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building - In gas carriers, a busy week with Hyundai HI announcing contracting\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "gas",
+        "announcing",
+        "building",
+        "busy",
+        "carriers",
+        "clarkson",
+        "contracting",
+        "hellas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 26,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-11-17_2023_11_17_clarksons_platou_hellas_snp_weekly_bulletin_96__s02_linked_asset_2023_11_17_clarksons_platou_hellas_snp_weekly_bulletin_96_report_17_11_2023_cb68109e5720_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-11-17_2023_11_17_clarksons_platou_hellas_snp_weekly_bulletin_96",
+      "parent_id": "hellenic_shipbuilding_2023-11-17_2023_11_17_clarksons_platou_hellas_snp_weekly_bulletin_96__root",
+      "title": "Linked asset: 2023-11-17_clarksons-platou-hellas-snp-weekly-bulletin-96_report-17-11-2023_cb68109e5720.pdf",
+      "section_path": [
+        "Linked asset: 2023-11-17_clarksons-platou-hellas-snp-weekly-bulletin-96_report-17-11-2023_cb68109e5720.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-11-17_clarksons-platou-hellas-snp-weekly-bulletin-96_report-17-11-2023_cb68109e5720.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-11-17_clarksons-platou-hellas-snp-weekly-bulletin-96_report-17-11-2023_cb68109e5720.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 17 Nov 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nFRONTIER BRILLIACE 181,412 2013 IMABARI MAN B.&W. 6S70MC-C8.2 SS 09/26 USD 30.5 M U/D\nBWTS fitted DD 11/24\nMAN B.&W.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2120,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

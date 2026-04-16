@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-09-30_2022_09_30_clarksons_platou_hellas_snp_weekly_bulletin_38__root",
+  "doc_id": "hellenic_shipbuilding_2022-09-30_2022_09_30_clarksons_platou_hellas_snp_weekly_bulletin_38",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn tankers this week, Chongqing Chuangdong announced contracting 7,450 dwt and 6,300 dwt chemical tanker\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 30 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S50MC-C8.1\nALEXANDRA 82,329 2006 SS 12/25\nBWTS Fitted USD 16.35 M TURKISH\nTSUNEISHI ZOSEN DD 01/24\nMAN B. 6S60MC6 SS 07/26\nGOLDEN HARVEST 76,623 2001 IMABARI BWTS Fitted DD 12/23 USD 10.5 M CHINESE\nMAN B.",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2392,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-38",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-09-30_2022_09_30_clarksons_platou_hellas_snp_weekly_bulletin_38__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-09-30_2022_09_30_clarksons_platou_hellas_snp_weekly_bulletin_38",
+      "parent_id": "hellenic_shipbuilding_2022-09-30_2022_09_30_clarksons_platou_hellas_snp_weekly_bulletin_38__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tankers this week, Chongqing Chuangdong announced contracting 7,450 dwt and 6,300 dwt chemical tanker\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "dwt",
+        "announced",
+        "chemical",
+        "chongqing",
+        "chuangdong",
+        "clarkson",
+        "contracting",
+        "hellas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-09-30_2022_09_30_clarksons_platou_hellas_snp_weekly_bulletin_38__s02_linked_asset_2022_09_30_clarksons_platou_hellas_snp_weekly_bulletin_38_report_30_09_2022_c7ff7721f840_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-09-30_2022_09_30_clarksons_platou_hellas_snp_weekly_bulletin_38",
+      "parent_id": "hellenic_shipbuilding_2022-09-30_2022_09_30_clarksons_platou_hellas_snp_weekly_bulletin_38__root",
+      "title": "Linked asset: 2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf",
+      "section_path": [
+        "Linked asset: 2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-09-30_clarksons-platou-hellas-snp-weekly-bulletin-38_report-30-09-2022_c7ff7721f840.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 30 September 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S50MC-C8.1\nALEXANDRA 82,329 2006 SS 12/25\nBWTS Fitted USD 16.35 M TURKISH\nTSUNEISHI ZOSEN DD 01/24\nMAN B.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2305,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-01-16_2026_01_16_clarksons_platou_hellas_snp_weekly_bulletin_117__root",
+  "doc_id": "hellenic_shipbuilding_2026-01-16_2026_01_16_clarksons_platou_hellas_snp_weekly_bulletin_117",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAfter the significant S&P activity observed last week, especially driven by the VLCC segment,the wet market remains highly active, with substantial movement observed across all segments. On the dry side, although there has been some softening on rates, S&P demand remains present and acquisitions continue to emerge, with buyers adopting a cautious but opportunistic approach. Dry Cargo\nThis week, dry bulk activity was concentrated in the larger segments, where c/o Berge Bulk sold their scrubber-fitted Newcastlemax BERGE MOLDOVEANU (ABT 211K DWT, 2020, BOHAI, SCRUBBER), for a price in the region of USD 74 m to Korean interests.",
+  "keywords": [
+    "capesize",
+    "handysize",
+    "vlcc",
+    "china",
+    "japan",
+    "usd",
+    "any",
+    "dwt",
+    "information",
+    "sold",
+    "clarksons",
+    "abt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2345,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-117",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-01-16_2026_01_16_clarksons_platou_hellas_snp_weekly_bulletin_117__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-01-16_2026_01_16_clarksons_platou_hellas_snp_weekly_bulletin_117",
+      "parent_id": "hellenic_shipbuilding_2026-01-16_2026_01_16_clarksons_platou_hellas_snp_weekly_bulletin_117__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "After the significant S&P activity observed last week, especially driven by the VLCC segment,the wet market remains highly active, with substantial movement observed across all segments. On the dry side, although there has been some softening on rates, S&P demand remains present and acquisitions continue to emerge, with buyers adopting a cautious but opportunistic approach.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "vlcc",
+        "china",
+        "japan",
+        "usd",
+        "dwt",
+        "sold"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 573,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-01-16_2026_01_16_clarksons_platou_hellas_snp_weekly_bulletin_117__s02_linked_asset_2026_01_16_clarksons_platou_hellas_snp_weekly_bulletin_117_weekly_sales_16th_jan_2026_5aac72671589_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-01-16_2026_01_16_clarksons_platou_hellas_snp_weekly_bulletin_117",
+      "parent_id": "hellenic_shipbuilding_2026-01-16_2026_01_16_clarksons_platou_hellas_snp_weekly_bulletin_117__root",
+      "title": "Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf",
+      "section_path": [
+        "Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-01-16_clarksons-platou-hellas-snp-weekly-bulletin-117_weekly-sales-16th-jan-2026_5aac72671589.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nAfter the significant S&P activity observed last week, especially driven by the VLCC segment, the wet\nmarket remains highly active, with substantial movement observed across all segments.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "vlcc",
+        "china",
+        "japan",
+        "any",
+        "information",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1723,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

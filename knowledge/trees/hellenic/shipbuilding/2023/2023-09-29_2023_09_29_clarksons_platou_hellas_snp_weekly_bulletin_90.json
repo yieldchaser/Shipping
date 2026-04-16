@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-09-29_2023_09_29_clarksons_platou_hellas_snp_weekly_bulletin_90__root",
+  "doc_id": "hellenic_shipbuilding_2023-09-29_2023_09_29_clarksons_platou_hellas_snp_weekly_bulletin_90",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in containers this week, CMA CGM ordered eight firm methanol dual fuel 9,200 TEU containerships at CSSC Shanghai Waigaoqiao\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 29th September 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSUIGO 174,802 2011 NAMURA MAN B. 6S70MC6.2 SS 11/26 RGN USD 24 M GREEKS\nBWTS fitted DD 08/24\n2010 CSC\n57,017 MAN B. 6S50MC-C8.2 SS 01/25 USD 11.5 M U/D\nSUPRA THESSAL QINGSHAN BWTS fitted DD 01/25\n56,851\n2011 TIANJIN\nM A N B.",
+  "keywords": [
+    "supramax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2048,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-90",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-09-29_2023_09_29_clarksons_platou_hellas_snp_weekly_bulletin_90__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-09-29_2023_09_29_clarksons_platou_hellas_snp_weekly_bulletin_90",
+      "parent_id": "hellenic_shipbuilding_2023-09-29_2023_09_29_clarksons_platou_hellas_snp_weekly_bulletin_90__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in containers this week, CMA CGM ordered eight firm methanol dual fuel 9,200 TEU containerships at CSSC Shanghai Waigaoqiao\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "container",
+        "building",
+        "cgm",
+        "clarkson",
+        "cma",
+        "containers",
+        "containerships",
+        "cssc"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-09-29_2023_09_29_clarksons_platou_hellas_snp_weekly_bulletin_90__s02_linked_asset_2023_09_29_clarksons_platou_hellas_snp_weekly_bulletin_90_report_29_09_2023_a43360f024ea_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-09-29_2023_09_29_clarksons_platou_hellas_snp_weekly_bulletin_90",
+      "parent_id": "hellenic_shipbuilding_2023-09-29_2023_09_29_clarksons_platou_hellas_snp_weekly_bulletin_90__root",
+      "title": "Linked asset: 2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf",
+      "section_path": [
+        "Linked asset: 2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-09-29_clarksons-platou-hellas-snp-weekly-bulletin-90_report-29-09-2023_a43360f024ea.pdf\n\n[Page 1]\nClarksons Hellas Weekly Bulletin 29th September 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nSUIGO 174,802 2011 NAMURA MAN B. 6S70MC6.2 SS 11/26 RGN USD 24 M GREEKS\nBWTS fitted DD 08/24\n2010 CSC\n57,017 MAN B.",
+      "keywords": [
+        "supramax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1956,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

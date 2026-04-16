@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-02-11_2025_02_11_breakwave_tanker_report_2_11_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-02-11_2025_02_11_breakwave_tanker_report_2_11_2025",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 2.11.2025",
+  "section_path": [
+    "Breakwave Tanker Report 2.11.2025"
+  ],
+  "section_path_text": "Breakwave Tanker Report 2.11.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC Market Faces Pressure as Rates Soften Amid Limited Activity and Shifting Trade Flows -\nSource: Breakwave Advisors\n\nLinked asset: 2025-02-11_breakwave-tanker-report-2-11-2025_breakwavetankersfebruary112025report_449b6900c39d.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-02-11_breakwave-tanker-report-2-11-2025_breakwavetankersfebruary112025report_449b6900c39d.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nFebruary 11, 2025\nBreakwave Tanker Futures Index: 1,297 VLCC Middle East-Asia Spot Rates: 13.69 Short-term Indicators:\n↑ 30D: 4.6% ↑ 30D: 28.7% Momentum: Neutral\n↑ YTD: 19.8% ↓ YTD: 52.5% Sentiment: Neutral\n↑ YOY: -5.1% ↑ YOY: -5.4% Fundamentals: Positive\nBi-Weekly Report\n• VLCC Market Faces Pressure as Rates Soften Amid Limited Activity and Shifting Trade Flows - The Very Large Crude\nCarrier (VLCC) market in the Arabian Gulf (AG) experienced a subdued second week of February, resulting in a softening\nof rates. With the arrival of the Year of the Snake and the return of Asian charterers to their desks, market expectations\nfor a surge in activity failed to materialize, placing renewed downward pressure on rates. Uncertainty surrounding cargo\nvolumes persists, and the sustai",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "oil",
+    "crude",
+    "trade",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1478,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-02-11_breakwave-tanker-report-2-11-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-2-11-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-02-11_2025_02_11_breakwave_tanker_report_2_11_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-02-11_2025_02_11_breakwave_tanker_report_2_11_2025",
+      "parent_id": "hellenic_shipbuilding_2025-02-11_2025_02_11_breakwave_tanker_report_2_11_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Market Faces Pressure as Rates Soften Amid Limited Activity and Shifting Trade Flows -\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "activity",
+        "amid",
+        "faces",
+        "flows",
+        "limited",
+        "pressure",
+        "shifting"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-02-11_2025_02_11_breakwave_tanker_report_2_11_2025__s02_linked_asset_2025_02_11_breakwave_tanker_report_2_11_2025_breakwavetankersfebruary112025report_449b6900c39d_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-02-11_2025_02_11_breakwave_tanker_report_2_11_2025",
+      "parent_id": "hellenic_shipbuilding_2025-02-11_2025_02_11_breakwave_tanker_report_2_11_2025__root",
+      "title": "Linked asset: 2025-02-11_breakwave-tanker-report-2-11-2025_breakwavetankersfebruary112025report_449b6900c39d.pdf",
+      "section_path": [
+        "Linked asset: 2025-02-11_breakwave-tanker-report-2-11-2025_breakwavetankersfebruary112025report_449b6900c39d.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-02-11_breakwave-tanker-report-2-11-2025_breakwavetankersfebruary112025report_449b6900c39d.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-02-11_breakwave-tanker-report-2-11-2025_breakwavetankersfebruary112025report_449b6900c39d.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nFebruary 11, 2025\nBreakwave Tanker Futures Index: 1,297 VLCC Middle East-Asia Spot Rates: 13.69 Short-term Indicators:\n↑ 30D: 4.6% ↑ 30D: 28.7% Momentum: Neutral\n↑ YTD: 19.8% ↓ YTD: 52.5% Sentiment: Neutral\n↑ YOY: -5.1% ↑ YOY: -5.4% Fundamentals: Positive\nBi-Weekly Report\n• VLCC Market Faces Pressure as Rates Soften Amid Limited Activity and Shifting Trade Flows - The Very Large Crude\nCarrier (VLCC) market in the Arabian Gulf (AG) experienced a subdued second week of February, resulting in a softening\nof rates. With the arrival of the Year of the Snake and the return of Asian charterers to their desks, market expectations\nfor a surge in activity failed to materialize, placing renewed downward pressure on rates.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "europe",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1409,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-10-15_2021_10_15_clarkson_platou_hellas_sp_weekly_bulletin_122__root",
+  "doc_id": "hellenic_shipbuilding_2021-10-15_2021_10_15_clarkson_platou_hellas_sp_weekly_bulletin_122",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn tankers this week, Dalian Shipbuilding announced taking order for a firm 115k dwt Aframax tanker from China Merchants Energy Shipping\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-10-15_clarkson-platou-hellas-sp-weekly-bulletin-122_report-15-10-2021_60318ced1f98.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-10-15_clarkson-platou-hellas-sp-weekly-bulletin-122_report-15-10-2021_60318ced1f98.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 15 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S70MC-C SS 01/24\nCAPE GARLAND 178,394 2009 MITSUI RGN/XS USD 32 M CHINESE\nBWTS fitted DD 01/24\nMAN-B&W 6S60MC-C8 SS 07/25 RGN USD 28 M\nIBIS WIND 82,937 2013 SANOYAS CHINESE\nBWTS fitted DD 09/23 (delivery Jan/22)\nMAN-B&W 5S60MC-C8.2 SS 01/26\nGOLDEN ENDURER 79,457 2011 JINHAI RGN USD 20 M U/D\nBWTS fitted DD 02/24\nSS 08/23\nGOLDEN OPPORTUNITY 75,750 2008 JIANGSU RONGSHENG MAN-B&W 5S60MC-C USD 17.2 M GREEKS\nDD 08/23\nMAN-B&W 6S60ME-C7.1 SS 04/25\nORIENT VIOLET 77,111 2015 IMABARI USD 30.3 M GREEKS\nBWTS fitted DD 06/23\nMAN-B&W 6S50MC-C8.2\nSS 06/24\nHTC DELTA 56,533 2014 TAIZHOU SANFU 4 x 36 T XS USD 21 M U/D\nDD 06/22\nBWTS fitted\nWARTSILA 6",
+  "keywords": [
+    "capesize",
+    "aframax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2486,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-10-15_clarkson-platou-hellas-sp-weekly-bulletin-122.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-122",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-10-15_2021_10_15_clarkson_platou_hellas_sp_weekly_bulletin_122__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-10-15_2021_10_15_clarkson_platou_hellas_sp_weekly_bulletin_122",
+      "parent_id": "hellenic_shipbuilding_2021-10-15_2021_10_15_clarkson_platou_hellas_sp_weekly_bulletin_122__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tankers this week, Dalian Shipbuilding announced taking order for a firm 115k dwt Aframax tanker from China Merchants Energy Shipping\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "aframax",
+        "china",
+        "announced",
+        "clarkson",
+        "dalian",
+        "dwt",
+        "energy",
+        "firm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-10-15_2021_10_15_clarkson_platou_hellas_sp_weekly_bulletin_122__s02_linked_asset_2021_10_15_clarkson_platou_hellas_sp_weekly_bulletin_122_report_15_10_2021_60318ced1f98_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-10-15_2021_10_15_clarkson_platou_hellas_sp_weekly_bulletin_122",
+      "parent_id": "hellenic_shipbuilding_2021-10-15_2021_10_15_clarkson_platou_hellas_sp_weekly_bulletin_122__root",
+      "title": "Linked asset: 2021-10-15_clarkson-platou-hellas-sp-weekly-bulletin-122_report-15-10-2021_60318ced1f98.pdf",
+      "section_path": [
+        "Linked asset: 2021-10-15_clarkson-platou-hellas-sp-weekly-bulletin-122_report-15-10-2021_60318ced1f98.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-10-15_clarkson-platou-hellas-sp-weekly-bulletin-122_report-15-10-2021_60318ced1f98.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-10-15_clarkson-platou-hellas-sp-weekly-bulletin-122_report-15-10-2021_60318ced1f98.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 15 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S70MC-C SS 01/24\nCAPE GARLAND 178,394 2009 MITSUI RGN/XS USD 32 M CHINESE\nBWTS fitted DD 01/24\nMAN-B&W 6S60MC-C8 SS 07/25 RGN USD 28 M\nIBIS WIND 82,937 2013 SANOYAS CHINESE\nBWTS fitted DD 09/23 (delivery Jan/22)\nMAN-B&W 5S60MC-C8.2 SS 01/26\nGOLDEN ENDURER 79,457 2011 JINHAI RGN USD 20 M U/D\nBWTS fitted DD 02/24\nSS 08/23\nGOLDEN OPPORTUNITY 75,750 2008 JIANGSU RONGSHENG MAN-B&W 5S60MC-C USD 17.2 M GREEKS\nDD 08/23\nMAN-B&W 6S60ME-C7.1 SS 04/25\nORIENT VIOLET 77,111 2015 IMABARI USD 30.3 M GREEKS\nBWTS fitted DD 06/23\nMAN-B&W 6S50MC-C8.2\nSS 06/24\nHTC DELTA 56,533 2014 TAIZHOU SANFU 4 x 36 T XS USD 21 M U/D\nDD 06/22\nBWTS fitted\nWARTSILA 6RT-FLEX50 SS 01/22 USD 17.08 M\nSHANDONG HAI SHENG 56,532 2011 YANGZHOU GUOYU CHINESE\n4 x 30 T DD 01/22 (online auction)\nMAN-B&W 6S46ME-B8.3\nSS 12/25 RGN USD 22 M\nXING ZHI HAI 34,443 2015 NAMURA 4 x 30 T U/D\nDD 12/23 (delivery Jan/22)\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DW",
+      "keywords": [
+        "capesize",
+        "aframax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2399,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

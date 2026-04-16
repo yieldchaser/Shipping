@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-02-04_2022_02_04_clarksons_platou_hellas_snp_weekly_bulletin_7__root",
+  "doc_id": "hellenic_shipbuilding_2022-02-04_2022_02_04_clarksons_platou_hellas_snp_weekly_bulletin_7",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In the gas carrier market, Daewoo (DSME) announced contracting two firm 174k CBM LNG Carriers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7_report-04-02-2022_e6f67eaa580f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7_report-04-02-2022_e6f67eaa580f.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 4 February 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/26\nNORD FORTUNE 76,596 2008 IMABARI MAN-B&W 6S60MC USD 15.5 M GREEKS\nDD 10/24\nMAN-B&W 6S50MC-C\nSS 11/24 USD 24.5 M\nKOUJU LILY 58,912 2011 KAWASAKI 4 x 30 T GREEKS\nDD 11/22 (5-Y BBHP)\nBWTS fitted\nMAN-B&W 6S46ME-B8.5\nSS 05/26 LOW/MID USD 32 M\nDAIDO AMBITION 37,982 2021 I-S 4 x 30 T GREEKS\nDD 04/24 (5-Y BBHP)\nBWTS fitted\nMAN-B&W 6S46MC-C8\nSS 11/22 USD 16.4 M\nMARINE PRINCESS 35,500 2012 COSCO GUANGDONG 4 x 30 T U/D\nDD 11/22 (Auction)\nTier II\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 01/25 S. KOREANS\nATHENIAN SUCCESS 317,702 2010 HHI MAN-B&W 6S90MC-C USD 42.5 M\nDD 01/23 (c/o Sinokor)\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas ",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "india",
+    "japan",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons",
+    "platou"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2203,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-7",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-02-04_2022_02_04_clarksons_platou_hellas_snp_weekly_bulletin_7__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-02-04_2022_02_04_clarksons_platou_hellas_snp_weekly_bulletin_7",
+      "parent_id": "hellenic_shipbuilding_2022-02-04_2022_02_04_clarksons_platou_hellas_snp_weekly_bulletin_7__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In the gas carrier market, Daewoo (DSME) announced contracting two firm 174k CBM LNG Carriers\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "lng",
+        "gas",
+        "announced",
+        "building",
+        "carrier",
+        "carriers",
+        "cbm",
+        "clarkson"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-02-04_2022_02_04_clarksons_platou_hellas_snp_weekly_bulletin_7__s02_linked_asset_2022_02_04_clarksons_platou_hellas_snp_weekly_bulletin_7_report_04_02_2022_e6f67eaa580f_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-02-04_2022_02_04_clarksons_platou_hellas_snp_weekly_bulletin_7",
+      "parent_id": "hellenic_shipbuilding_2022-02-04_2022_02_04_clarksons_platou_hellas_snp_weekly_bulletin_7__root",
+      "title": "Linked asset: 2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7_report-04-02-2022_e6f67eaa580f.pdf",
+      "section_path": [
+        "Linked asset: 2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7_report-04-02-2022_e6f67eaa580f.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7_report-04-02-2022_e6f67eaa580f.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-02-04_clarksons-platou-hellas-snp-weekly-bulletin-7_report-04-02-2022_e6f67eaa580f.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 4 February 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/26\nNORD FORTUNE 76,596 2008 IMABARI MAN-B&W 6S60MC USD 15.5 M GREEKS\nDD 10/24\nMAN-B&W 6S50MC-C\nSS 11/24 USD 24.5 M\nKOUJU LILY 58,912 2011 KAWASAKI 4 x 30 T GREEKS\nDD 11/22 (5-Y BBHP)\nBWTS fitted\nMAN-B&W 6S46ME-B8.5\nSS 05/26 LOW/MID USD 32 M\nDAIDO AMBITION 37,982 2021 I-S 4 x 30 T GREEKS\nDD 04/24 (5-Y BBHP)\nBWTS fitted\nMAN-B&W 6S46MC-C8\nSS 11/22 USD 16.4 M\nMARINE PRINCESS 35,500 2012 COSCO GUANGDONG 4 x 30 T U/D\nDD 11/22 (Auction)\nTier II\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 01/25 S. KOREANS\nATHENIAN SUCCESS 317,702 2010 HHI MAN-B&W 6S90MC-C USD 42.5 M\nDD 01/23 (c/o Sinokor)\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 4 February 2022\nNEW BUILDING\nIn the gas carrier market, Daewoo (DSME) announced contracting two firm 174k CBM LNG Carriers from an unknown owner, with delivery of both\nvessels expected in 2H 2025.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "india",
+        "japan",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2115,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

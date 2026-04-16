@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-11-23_2021_11_23_breakwave_dry_bulk_shipping_report_11_23_2021__root",
+  "doc_id": "hellenic_shipbuilding_2021-11-23_2021_11_23_breakwave_dry_bulk_shipping_report_11_23_2021",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 11.23.2021",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 11.23.2021"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 11.23.2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize spot rates turn higher: Is a surprise pre-Christmas rally in the cards? -After several weeks of rangebound action, spot rates seem to\nSource: Breakwave Advisors\n\nLinked asset: 2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021_breakwavenovember232021report_95163a8afeab.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021_breakwavenovember232021report_95163a8afeab.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 23, 2021\nBreakwave Dry Futures Index: 2,233 Baltic Dry Index (spot): 2,645 Short-term Indicators:\n↓ 30D: -34.9% ↓ 30D: -40.0% Momentum: Neutral\n↑ YTD: 125.3% ↑ YTD: 93.6% Sentiment: Neutral\n↑ YOY: 127.1% ↑ YOY: 130.4% Fundamentals: Negative\nBreakwave Day 2021 - December 2nd, 10am-noon EST - click here for more information\nBi-Weekly Report\n• Capesize spot rates turn higher: Is a surprise pre-Christmas rally in the cards? -After several weeks of rangebound\naction, spot rates seem to have bottomed.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "not",
+    "average"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1491,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-11-23-2021",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-11-23_2021_11_23_breakwave_dry_bulk_shipping_report_11_23_2021__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-11-23_2021_11_23_breakwave_dry_bulk_shipping_report_11_23_2021",
+      "parent_id": "hellenic_shipbuilding_2021-11-23_2021_11_23_breakwave_dry_bulk_shipping_report_11_23_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize spot rates turn higher: Is a surprise pre-Christmas rally in the cards? -After several weeks of rangebound action, spot rates seem to\nSource: Breakwave Advisors",
+      "keywords": [
+        "capesize",
+        "action",
+        "after",
+        "cards",
+        "higher",
+        "pre-christmas",
+        "rally",
+        "rangebound"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 38,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-11-23_2021_11_23_breakwave_dry_bulk_shipping_report_11_23_2021__s02_linked_asset_2021_11_23_breakwave_dry_bulk_shipping_report_11_23_2021_breakwavenovember232021report_95163a8afeab_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-11-23_2021_11_23_breakwave_dry_bulk_shipping_report_11_23_2021",
+      "parent_id": "hellenic_shipbuilding_2021-11-23_2021_11_23_breakwave_dry_bulk_shipping_report_11_23_2021__root",
+      "title": "Linked asset: 2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021_breakwavenovember232021report_95163a8afeab.pdf",
+      "section_path": [
+        "Linked asset: 2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021_breakwavenovember232021report_95163a8afeab.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021_breakwavenovember232021report_95163a8afeab.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-11-23_breakwave-dry-bulk-shipping-report-11-23-2021_breakwavenovember232021report_95163a8afeab.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nNovember 23, 2021\nBreakwave Dry Futures Index: 2,233 Baltic Dry Index (spot): 2,645 Short-term Indicators:\n↓ 30D: -34.9% ↓ 30D: -40.0% Momentum: Neutral\n↑ YTD: 125.3% ↑ YTD: 93.6% Sentiment: Neutral\n↑ YOY: 127.1% ↑ YOY: 130.4% Fundamentals: Negative\nBreakwave Day 2021 - December 2nd, 10am-noon EST - click here for more information\nBi-Weekly Report\n• Capesize spot rates turn higher: Is a surprise pre-Christmas rally in the cards? -After several weeks of rangebound\naction, spot rates seem to have bottomed.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1407,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

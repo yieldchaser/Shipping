@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2022-01-11_2022_01_11_weekly_vessel_valuations_report_january_11_2022__root",
+  "doc_id": "hellenic_vessel_valuations_2022-01-11_2022_01_11_weekly_vessel_valuations_report_january_11_2022",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, January 11 2022",
+  "section_path": [
+    "Weekly Vessel Valuations Report, January 11 2022"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, January 11 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker: Suezmax values have firmed. VLCC New Talisman (296,100 DWT, Sep 2009, Bohai Shipbuilding Heavy Industry Co) sold to Aeolos Management for USD 36.00 mil, VV value USD 34.67 mil. Small Clean Tankers Northsea Alpha and North Sea Beta (8,600 DWT, May 2010, Kejin Shipyard) sold in an en bloc deal to Far Eastern buyers for USD 8.90 mil, VV value USD 10.92 mil.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "container",
+    "china",
+    "europe",
+    "usd",
+    "mil",
+    "dwt"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1218,
+  "source_path": "reports/hellenic/vessel_valuations/2022/2022-01-11_weekly-vessel-valuations-report-january-11-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-january-11-2022",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2022-01-11_2022_01_11_weekly_vessel_valuations_report_january_11_2022__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2022-01-11_2022_01_11_weekly_vessel_valuations_report_january_11_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-01-11_2022_01_11_weekly_vessel_valuations_report_january_11_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC New Talisman (296,100 DWT, Sep 2009, Bohai Shipbuilding Heavy Industry Co) sold to Aeolos Management for USD 36.00 mil, VV value USD 34.67 mil. Small Clean Tankers Northsea Alpha and North Sea Beta (8,600 DWT, May 2010, Kejin Shipyard) sold in an en bloc deal to Far Eastern buyers for USD 8.90 mil, VV value USD 10.92 mil.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "container",
+        "china",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 371,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2022-01-11_2022_01_11_weekly_vessel_valuations_report_january_11_2022__s02_linked_asset_2022_01_11_weekly_vessel_valuations_report_january_11_2022_img1_20220111_1c82dff9f6e4_jpg",
+      "doc_id": "hellenic_vessel_valuations_2022-01-11_2022_01_11_weekly_vessel_valuations_report_january_11_2022",
+      "parent_id": "hellenic_vessel_valuations_2022-01-11_2022_01_11_weekly_vessel_valuations_report_january_11_2022__root",
+      "title": "Linked asset: 2022-01-11_weekly-vessel-valuations-report-january-11-2022_img1_20220111_1c82dff9f6e4.jpg",
+      "section_path": [
+        "Linked asset: 2022-01-11_weekly-vessel-valuations-report-january-11-2022_img1_20220111_1c82dff9f6e4.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-01-11_weekly-vessel-valuations-report-january-11-2022_img1_20220111_1c82dff9f6e4.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2022/assets/2022-01-11_weekly-vessel-valuations-report-january-11-2022_img1_20220111_1c82dff9f6e4.jpg\n\nLinked image asset: 2022-01-11_weekly-vessel-valuations-report-january-11-2022_img1_20220111_1c82dff9f6e4.jpg\n\nImage metadata: JPEG 678x286 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n© VesselsValne\" © AAA\n11 January 2022 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge vicc Suez Afra LRI MR Cape Pmax Supra Handy pcsead Pmax Handy = Fmax\n0 41.6% +2.0% 0.0% +1.2% +0.2% 40.5% +1.3% +1.2% +0.9% 0.3% +0.0% +0.5% 0.0%\n320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100\ns 40.1% +2.0% -1.6% +1.2% +0.2% 40.5% +1.3% +1.1% +1.4% 0.3% +0.0% +0.5% +0.1%\n320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n10 -2.1% +2.0% -2.6% +1.2% +0.2% 40.5% +1.3% +1.1% +0.9% 0.1% +0.0% +0.5% +0.1%\n310K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n15 \"1.5% +2.0% -1.7% +1.2% +0.2% 40.5% +1.2% +1.2% +0.4% 40.3% +0.0% +0.5% -0.2%\n310K 160K 110K 75K 50K 180K 75K 55K 30K 7000 4250 1750 1100\n20 41.2% +2.0% -0.2% +1.1% -0.9% \"0.8% +1.3% +1.2% 0.0% +1.0% +0.0% +40.5% -0.5%\n30SK 155K 105K 70K 45K 175K 75K SOK 30K 6500 4000 1",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "container",
+        "sok",
+        "asset",
+        "handy",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 801,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-03-07_2026_03_07_clarksons_platou_hellas_snp_weekly_bulletin_124__root",
+  "doc_id": "hellenic_shipbuilding_2026-03-07_2026_03_07_clarksons_platou_hellas_snp_weekly_bulletin_124",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAsset prices, particularly in the Tanker sector, have seen a remarkable upswing following the sharp spike in freight rates triggered by the developments in the Middle East. We are also noticing strong competition on the Dry side, mainly for Japanese built tonnage, with some vessels being offered for sale managing to attract more than a dozen buyers. Dry Bulk\nThe Capesize CAPE SANDRA (ABT 175K DWT, 2011, HHIC-SUBIC) has been reported sold at region USD 32 m, basis surveys due in May 2026.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "handysize",
+    "aframax",
+    "brazil",
+    "japan",
+    "usd",
+    "dwt",
+    "abt",
+    "fitted",
+    "any",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2659,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-124",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-03-07_2026_03_07_clarksons_platou_hellas_snp_weekly_bulletin_124__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-03-07_2026_03_07_clarksons_platou_hellas_snp_weekly_bulletin_124",
+      "parent_id": "hellenic_shipbuilding_2026-03-07_2026_03_07_clarksons_platou_hellas_snp_weekly_bulletin_124__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Asset prices, particularly in the Tanker sector, have seen a remarkable upswing following the sharp spike in freight rates triggered by the developments in the Middle East. We are also noticing strong competition on the Dry side, mainly for Japanese built tonnage, with some vessels being offered for sale managing to attract more than a dozen buyers.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "aframax",
+        "brazil",
+        "japan",
+        "abt",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 535,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-03-07_2026_03_07_clarksons_platou_hellas_snp_weekly_bulletin_124__s02_linked_asset_2026_03_07_clarksons_platou_hellas_snp_weekly_bulletin_124_weekly_sales_06th_mar_2026_a723773b6d2c_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-03-07_2026_03_07_clarksons_platou_hellas_snp_weekly_bulletin_124",
+      "parent_id": "hellenic_shipbuilding_2026-03-07_2026_03_07_clarksons_platou_hellas_snp_weekly_bulletin_124__root",
+      "title": "Linked asset: 2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124_weekly-sales-06th-mar-2026_a723773b6d2c.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124_weekly-sales-06th-mar-2026_a723773b6d2c.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124_weekly-sales-06th-mar-2026_a723773b6d2c.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-03-07_clarksons-platou-hellas-snp-weekly-bulletin-124_weekly-sales-06th-mar-2026_a723773b6d2c.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nAsset prices, particularly in the Tanker sector, have seen a remarkable upswing following the sharp spike\nin freight rates triggered by the developments in the Middle East.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "handysize",
+        "aframax",
+        "brazil",
+        "japan",
+        "usd",
+        "fitted"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2074,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

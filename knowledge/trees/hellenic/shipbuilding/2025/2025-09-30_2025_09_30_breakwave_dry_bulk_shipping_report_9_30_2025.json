@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-09-30_2025_09_30_breakwave_dry_bulk_shipping_report_9_30_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-09-30_2025_09_30_breakwave_dry_bulk_shipping_report_9_30_2025",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 9.30.2025",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 9.30.2025"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 9.30.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSeasonal Headwinds as We Enter October - Despite relatively robust spot rates across all dry bulk segments, a note of caution for the\nSource: Breakwave Advisors\n\nLinked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nSeptember 30, 2025\n• Seasonal Headwinds as We Enter October - Despite relatively robust spot rates\nShort-term Indicators\nacross all dry bulk segments, a note of caution for the near term is warranted. Momentum: Negative\nHistorically, October has not been favorable for dry bulk spot rates, with the Baltic\nDry Index, a broad measure of spot global dry bulk rates, declining in 9 of the last Sentiment: Neutral\n10 Octobers. We believe this pattern stems from the historically strong September Fundamentals: Neutral\nrates, which often give way to softer rates in the following month.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "funds"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1679,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-9-30-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-09-30_2025_09_30_breakwave_dry_bulk_shipping_report_9_30_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-09-30_2025_09_30_breakwave_dry_bulk_shipping_report_9_30_2025",
+      "parent_id": "hellenic_shipbuilding_2025-09-30_2025_09_30_breakwave_dry_bulk_shipping_report_9_30_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Seasonal Headwinds as We Enter October - Despite relatively robust spot rates across all dry bulk segments, a note of caution for the\nSource: Breakwave Advisors",
+      "keywords": [
+        "all",
+        "caution",
+        "despite",
+        "enter",
+        "headwinds",
+        "note",
+        "october",
+        "relatively"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-09-30_2025_09_30_breakwave_dry_bulk_shipping_report_9_30_2025__s02_linked_asset_2025_09_30_breakwave_dry_bulk_shipping_report_9_30_2025_breakwavedryseptember302025report_547bbfe8b30e_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-09-30_2025_09_30_breakwave_dry_bulk_shipping_report_9_30_2025",
+      "parent_id": "hellenic_shipbuilding_2025-09-30_2025_09_30_breakwave_dry_bulk_shipping_report_9_30_2025__root",
+      "title": "Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf",
+      "section_path": [
+        "Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-09-30_breakwave-dry-bulk-shipping-report-9-30-2025_breakwavedryseptember302025report_547bbfe8b30e.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nSeptember 30, 2025\n• Seasonal Headwinds as We Enter October - Despite relatively robust spot rates\nShort-term Indicators\nacross all dry bulk segments, a note of caution for the near term is warranted. Momentum: Negative\nHistorically, October has not been favorable for dry bulk spot rates, with the Baltic\nDry Index, a broad measure of spot global dry bulk rates, declining in 9 of the last Sentiment: Neutral\n10 Octobers.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1597,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

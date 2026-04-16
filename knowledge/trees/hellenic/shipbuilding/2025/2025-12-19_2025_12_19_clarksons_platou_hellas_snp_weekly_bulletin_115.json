@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-12-19_2025_12_19_clarksons_platou_hellas_snp_weekly_bulletin_115__root",
+  "doc_id": "hellenic_shipbuilding_2025-12-19_2025_12_19_clarksons_platou_hellas_snp_weekly_bulletin_115",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Cargo\nAs we move through the end of Q4, we see a seasonal uptick in transactions across several segments. Chinese buyers are accelerating acquisitions ahead of the Lunar New Year, aiming to secure coverage during the upcoming holiday period, especially on larger ships. We are hearing several 15-year-old Capes are being negotiated to Chinese buyers, and we expect to be able to report further on this next week.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "vlcc",
+    "china",
+    "japan",
+    "any",
+    "information",
+    "dwt",
+    "usd",
+    "clarksons",
+    "abt",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2023,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-115",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-12-19_2025_12_19_clarksons_platou_hellas_snp_weekly_bulletin_115__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-12-19_2025_12_19_clarksons_platou_hellas_snp_weekly_bulletin_115",
+      "parent_id": "hellenic_shipbuilding_2025-12-19_2025_12_19_clarksons_platou_hellas_snp_weekly_bulletin_115__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Cargo\nAs we move through the end of Q4, we see a seasonal uptick in transactions across several segments. Chinese buyers are accelerating acquisitions ahead of the Lunar New Year, aiming to secure coverage during the upcoming holiday period, especially on larger ships.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "vlcc",
+        "china",
+        "japan",
+        "abt",
+        "dwt",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 461,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-12-19_2025_12_19_clarksons_platou_hellas_snp_weekly_bulletin_115__s02_linked_asset_2025_12_19_clarksons_platou_hellas_snp_weekly_bulletin_115_weekly_sales_19th_dec_2025_25b3d59450d8_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-12-19_2025_12_19_clarksons_platou_hellas_snp_weekly_bulletin_115",
+      "parent_id": "hellenic_shipbuilding_2025-12-19_2025_12_19_clarksons_platou_hellas_snp_weekly_bulletin_115__root",
+      "title": "Linked asset: 2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115_weekly-sales-19th-dec-2025_25b3d59450d8.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115_weekly-sales-19th-dec-2025_25b3d59450d8.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115_weekly-sales-19th-dec-2025_25b3d59450d8.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-12-19_clarksons-platou-hellas-snp-weekly-bulletin-115_weekly-sales-19th-dec-2025_25b3d59450d8.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nAs we move through the end of Q4, we see a seasonal uptick in transactions across several segments.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "vlcc",
+        "china",
+        "japan",
+        "any",
+        "information",
+        "clarksons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1510,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

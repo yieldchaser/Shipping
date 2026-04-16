@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-11-26_2021_11_26_clarkson_platou_hellas_sp_weekly_bulletin_128__root",
+  "doc_id": "hellenic_shipbuilding_2021-11-26_2021_11_26_clarkson_platou_hellas_sp_weekly_bulletin_128",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING : In dry bulk this week, it was reported that Zhejiang Dachen Shipping declared a pair of optional 47k dwt Coastal trading Handymax bulkers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 26 November 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nLOW USD 20 M\nSS 04/22\nCHINA STEEL REALIST 203,512 2007 CSBC MAN-B&W 6S70MC-C (dely basis SS passed, CHINESE\nDD 04/22\nBWTS fitted)\n1 x RESALE 181,291 DELY MAR/APRIL 2022 ex NAMURA MAN-B&W 6G70ME-C9.5 N/A HIGH USD 59 M GREEKS\nMAN-B&W 6S46ME-B8.3\nSS 01/22 USD 27 M\nNEW DAYS 38,230 2017 SHIN KOCHI 4 x 30T U/D\nDD 01/22 (dely basis SS passed)\nBWTS fitted\nMITSUBISHI 6UEC45LSE\nSS 12/22\nROYAL JUSTICE 36,976 2012 SAIKI 4 x 30 T USD 18.5 M GREEKS\nDD 12/22\nBWTS fitted, OHBH\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 05/24\nNORDMERKUR 74,999 2004 HHI MAN-B&W 6S60MC-C RGN USD 10 M INDIANS\nDD 06/22\nMAN-B&W 6",
+  "keywords": [
+    "handysize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2079,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-128",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-11-26_2021_11_26_clarkson_platou_hellas_sp_weekly_bulletin_128__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-11-26_2021_11_26_clarkson_platou_hellas_sp_weekly_bulletin_128",
+      "parent_id": "hellenic_shipbuilding_2021-11-26_2021_11_26_clarkson_platou_hellas_sp_weekly_bulletin_128__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING : In dry bulk this week, it was reported that Zhejiang Dachen Shipping declared a pair of optional 47k dwt Coastal trading Handymax bulkers\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "handysize",
+        "building",
+        "bulkers",
+        "clarkson",
+        "coastal",
+        "dachen",
+        "declared",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 47,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-11-26_2021_11_26_clarkson_platou_hellas_sp_weekly_bulletin_128__s02_linked_asset_2021_11_26_clarkson_platou_hellas_sp_weekly_bulletin_128_report_26_11_2021_abfc968835c9_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-11-26_2021_11_26_clarkson_platou_hellas_sp_weekly_bulletin_128",
+      "parent_id": "hellenic_shipbuilding_2021-11-26_2021_11_26_clarkson_platou_hellas_sp_weekly_bulletin_128__root",
+      "title": "Linked asset: 2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf",
+      "section_path": [
+        "Linked asset: 2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-11-26_clarkson-platou-hellas-sp-weekly-bulletin-128_report-26-11-2021_abfc968835c9.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 26 November 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nLOW USD 20 M\nSS 04/22\nCHINA STEEL REALIST 203,512 2007 CSBC MAN-B&W 6S70MC-C (dely basis SS passed, CHINESE\nDD 04/22\nBWTS fitted)\n1 x RESALE 181,291 DELY MAR/APRIL 2022 ex NAMURA MAN-B&W 6G70ME-C9.5 N/A HIGH USD 59 M GREEKS\nMAN-B&W 6S46ME-B8.3\nSS 01/22 USD 27 M\nNEW DAYS 38,230 2017 SHIN KOCHI 4 x 30T U/D\nDD 01/22 (dely basis SS passed)\nBWTS fitted\nMITSUBISHI 6UEC45LSE\nSS 12/22\nROYAL JUSTICE 36,976 2012 SAIKI 4 x 30 T USD 18.5 M GREEKS\nDD 12/22\nBWTS fitted, OHBH\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 05/24\nNORDMERKUR 74,999 2004 HHI MAN-B&W 6S60MC-C RGN USD 10 M INDIANS\nDD 06/22\nMAN-B&W 6S60MC-C SS 03/26\nARCTIC BAY 50,844 2006 STX RGN USD 11.5 M U/D\nIMO III, ICE 1A, BWTS fitted DD 05/24\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 26 November 2021\nNEW BUILDING\nIn dry bulk this week, it was reported that Zhejiang Dachen Shipping declared a pair of optional 47k d",
+      "keywords": [
+        "handysize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1987,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

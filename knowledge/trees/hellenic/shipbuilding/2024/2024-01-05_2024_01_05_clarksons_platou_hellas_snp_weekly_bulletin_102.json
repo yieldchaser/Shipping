@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2024-01-05_2024_01_05_clarksons_platou_hellas_snp_weekly_bulletin_102__root",
+  "doc_id": "hellenic_shipbuilding_2024-01-05_2024_01_05_clarksons_platou_hellas_snp_weekly_bulletin_102",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, clients of Minerva ordered two firm LNG dual-fuel 114k dwt LR2 product tankers at New Times, with the vessels set to deliver in 1Q and 2Q 2027. Source: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2024-01-05_clarksons-platou-hellas-snp-weekly-bulletin-102_report-05-01-2024_0395b59872c7.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-01-05_clarksons-platou-hellas-snp-weekly-bulletin-102_report-05-01-2024_0395b59872c7.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 05 Jan 2024\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B & W 7G60ME-\nCAPT TASOS 180,288 2023 NAMURA C10.5 SS 10/28 USD 70.5 M NORDEN\nDD 10/26\nBWTS fitted\nHIGHLAND PARK 174,092 2006 SWS MAN B. 6S70MC6.1 SS 03/26 LOW USD 15 M U/D\nBWTS fitted DD 06/24\nSS 03/26\nXING HE HAI 61, 473 2016 DACKS DD 12/23\nMAN B & W 6S50ME-B9.2\nUSD 26 M EACH CHINESE\nXING HAO HAI 61,452 2016 DACKS BWTS fitted SS 03/26\nDD 03/24\nSS 01/27\nXING XI HAI 60,498 2017 MITSUI DD 01/25 USD 29 M\nMAN B & W 6S50ME-B9.3\nGREEKS\nXING SHOU HAI 60,172 2016 MITSUI BWTS fitted SS 10/26 USD 28 M\nDD 10/24\nHAI YANG ZHI HUA 56,603 2011 JIANGSU MAN B & W 6S50MC-C8.2 SS 09/26 RGN USD 12.5 M EUROP",
+  "keywords": [
+    "panamax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2227,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-01-05_clarksons-platou-hellas-snp-weekly-bulletin-102.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-102",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2024-01-05_2024_01_05_clarksons_platou_hellas_snp_weekly_bulletin_102__s01_main",
+      "doc_id": "hellenic_shipbuilding_2024-01-05_2024_01_05_clarksons_platou_hellas_snp_weekly_bulletin_102",
+      "parent_id": "hellenic_shipbuilding_2024-01-05_2024_01_05_clarksons_platou_hellas_snp_weekly_bulletin_102__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, clients of Minerva ordered two firm LNG dual-fuel 114k dwt LR2 product tankers at New Times, with the vessels set to deliver in 1Q and 2Q 2027.",
+      "keywords": [
+        "lng",
+        "gas",
+        "new",
+        "tankers",
+        "building",
+        "clarkson",
+        "clients",
+        "deliver"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 61,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-01-05_2024_01_05_clarksons_platou_hellas_snp_weekly_bulletin_102__s02_linked_asset_2024_01_05_clarksons_platou_hellas_snp_weekly_bulletin_102_report_05_01_2024_0395b59872c7_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-01-05_2024_01_05_clarksons_platou_hellas_snp_weekly_bulletin_102",
+      "parent_id": "hellenic_shipbuilding_2024-01-05_2024_01_05_clarksons_platou_hellas_snp_weekly_bulletin_102__root",
+      "title": "Linked asset: 2024-01-05_clarksons-platou-hellas-snp-weekly-bulletin-102_report-05-01-2024_0395b59872c7.pdf",
+      "section_path": [
+        "Linked asset: 2024-01-05_clarksons-platou-hellas-snp-weekly-bulletin-102_report-05-01-2024_0395b59872c7.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-01-05_clarksons-platou-hellas-snp-weekly-bulletin-102_report-05-01-2024_0395b59872c7.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-01-05_clarksons-platou-hellas-snp-weekly-bulletin-102_report-05-01-2024_0395b59872c7.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 05 Jan 2024\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B & W 7G60ME-\nCAPT TASOS 180,288 2023 NAMURA C10.5 SS 10/28 USD 70.5 M NORDEN\nDD 10/26\nBWTS fitted\nHIGHLAND PARK 174,092 2006 SWS MAN B. 6S70MC6.1 SS 03/26 LOW USD 15 M U/D\nBWTS fitted DD 06/24\nSS 03/26\nXING HE HAI 61, 473 2016 DACKS DD 12/23\nMAN B & W 6S50ME-B9.2\nUSD 26 M EACH CHINESE\nXING HAO HAI 61,452 2016 DACKS BWTS fitted SS 03/26\nDD 03/24\nSS 01/27\nXING XI HAI 60,498 2017 MITSUI DD 01/25 USD 29 M\nMAN B & W 6S50ME-B9.3\nGREEKS\nXING SHOU HAI 60,172 2016 MITSUI BWTS fitted SS 10/26 USD 28 M\nDD 10/24\nHAI YANG ZHI HUA 56,603 2011 JIANGSU MAN B & W 6S50MC-C8.2 SS 09/26 RGN USD 12.5 M EUROPEAN\nBWTS fitted DD 12/24\n2011 TAIZHOU\nIKAN PARANG 56,618 Mitsubishi 6UEC52LS SS 01/27 HIGH USD 11 M U/D\nKOUAN BWTS fitted DD 04/25\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n- - - - - - -\nNew Building\nIn tankers this week, clients of Minerva ordered two firm LNG dual-fuel 114k dwt LR2 product tanke",
+      "keywords": [
+        "panamax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2118,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

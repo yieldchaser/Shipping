@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-02-01_2022_02_01_breakwave_dry_bulk_shipping_report_02_01_2022__root",
+  "doc_id": "hellenic_shipbuilding_2022-02-01_2022_02_01_breakwave_dry_bulk_shipping_report_02_01_2022",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 02.01.2022",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 02.01.2022"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 02.01.2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBottom is in for Capesizes, but upside capped by seasonality - The Capesize market has experienced significant weakness over the last few\nSource: Breakwave Advisors\n\nLinked asset: 2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 1, 2022\nBreakwave Dry Futures Index: 1,897 Baltic Dry Index (spot): 1,418 Short-term Indicators:\n↓ 30D: -2.5% ↓ 30D: -36.0% Momentum: Neutral\n↓ YTD: -2.5% ↓ YTD: -36.0% Sentiment: Neutral\n↑ YOY: 66.2% ↓ YOY: -2.3% Fundamentals: Neutral\nBi-Weekly Report\n• Bottom is in for Capesizes, but upside capped by seasonality - The Capesize market has experienced significant\nweakness over the last few weeks with spot rates reaching almost zero in the main reported routes around the\nglobe. Although February is historically considered the weakest month of the year for dry bulk, we believe Capesize\nrates have already seen the lows for this year. However, that does not necessarily mean a sharp recovery is\nimminent.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel",
+    "iron",
+    "ore"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1478,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-02-01-2022",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-02-01_2022_02_01_breakwave_dry_bulk_shipping_report_02_01_2022__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-02-01_2022_02_01_breakwave_dry_bulk_shipping_report_02_01_2022",
+      "parent_id": "hellenic_shipbuilding_2022-02-01_2022_02_01_breakwave_dry_bulk_shipping_report_02_01_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bottom is in for Capesizes, but upside capped by seasonality - The Capesize market has experienced significant weakness over the last few\nSource: Breakwave Advisors",
+      "keywords": [
+        "capesize",
+        "bottom",
+        "but",
+        "capesizes",
+        "capped",
+        "experienced",
+        "few",
+        "last"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-02-01_2022_02_01_breakwave_dry_bulk_shipping_report_02_01_2022__s02_linked_asset_2022_02_01_breakwave_dry_bulk_shipping_report_02_01_2022_breakwavefebruary12022report_148d6b27c559_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-02-01_2022_02_01_breakwave_dry_bulk_shipping_report_02_01_2022",
+      "parent_id": "hellenic_shipbuilding_2022-02-01_2022_02_01_breakwave_dry_bulk_shipping_report_02_01_2022__root",
+      "title": "Linked asset: 2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf",
+      "section_path": [
+        "Linked asset: 2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-02-01_breakwave-dry-bulk-shipping-report-02-01-2022_breakwavefebruary12022report_148d6b27c559.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nFebruary 1, 2022\nBreakwave Dry Futures Index: 1,897 Baltic Dry Index (spot): 1,418 Short-term Indicators:\n↓ 30D: -2.5% ↓ 30D: -36.0% Momentum: Neutral\n↓ YTD: -2.5% ↓ YTD: -36.0% Sentiment: Neutral\n↑ YOY: 66.2% ↓ YOY: -2.3% Fundamentals: Neutral\nBi-Weekly Report\n• Bottom is in for Capesizes, but upside capped by seasonality - The Capesize market has experienced significant\nweakness over the last few weeks with spot rates reaching almost zero in the main reported routes around the\nglobe. Although February is historically considered the weakest month of the year for dry bulk, we believe Capesize\nrates have already seen the lows for this year.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1398,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

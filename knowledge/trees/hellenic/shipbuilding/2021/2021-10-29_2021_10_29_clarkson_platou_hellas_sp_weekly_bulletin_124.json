@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-10-29_2021_10_29_clarkson_platou_hellas_sp_weekly_bulletin_124__root",
+  "doc_id": "hellenic_shipbuilding_2021-10-29_2021_10_29_clarkson_platou_hellas_sp_weekly_bulletin_124",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING : In tankers, Hyundai HI announced taking an order for four firm LNG dual-fuel 114k dwt LR2's from an unknown owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-10-29_clarkson-platou-hellas-sp-weekly-bulletin-124_report-29-10-2021_f439d48c321c.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-10-29_clarkson-platou-hellas-sp-weekly-bulletin-124_report-29-10-2021_f439d48c321c.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 29 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/22\nFEDERAL DANUBE 37,098 2004 NEW CENTURY MAN-B&W 6S46MC-C7.1\nDD 07/22\n4 X 40 T\nRGN USD 23 M U/D\nBWTS fitted\nSS 12/21\nFEDERAL ELBE 37,073 2003 NEW CENTURY Lakes fitted\nDD 12/21\nMITSUBISHI 6UEC45LSE\nSS 12/22\nROYAL JUSTICE 36,976 2012 SAIKI 4 X 30 T XS USD 21 M FAR EASTERNS\nDD 12/22\nBWTS fitted\nMAN-B&W 5S50ME - C8.1\nSS 01/22\nNORDIC MALMOE 35,038 2012 NANTONG JINGHUA 4 x 30 T RGN USD 16.7 M U/D\nDD 01/22\nTier II\nMAN-B&W 5S50MC-C8.2 SS 07/22\nDORY 34,601 2010 SPP USD 16.2 M U/D\n4 x 35 T DD 05/25\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 10/26\nSEAWAYS DIAMOND HEAD 301,038\nDD 10/24\nSS 08/26\nSEAWAYS LIBERTY 300,973\nDD",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons",
+    "platou"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2077,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-10-29_clarkson-platou-hellas-sp-weekly-bulletin-124.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-124",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-10-29_2021_10_29_clarkson_platou_hellas_sp_weekly_bulletin_124__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-10-29_2021_10_29_clarkson_platou_hellas_sp_weekly_bulletin_124",
+      "parent_id": "hellenic_shipbuilding_2021-10-29_2021_10_29_clarkson_platou_hellas_sp_weekly_bulletin_124__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING : In tankers, Hyundai HI announced taking an order for four firm LNG dual-fuel 114k dwt LR2's from an unknown owner\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "lng",
+        "gas",
+        "announced",
+        "building",
+        "clarkson",
+        "dual-fuel",
+        "dwt",
+        "firm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 44,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-10-29_2021_10_29_clarkson_platou_hellas_sp_weekly_bulletin_124__s02_linked_asset_2021_10_29_clarkson_platou_hellas_sp_weekly_bulletin_124_report_29_10_2021_f439d48c321c_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-10-29_2021_10_29_clarkson_platou_hellas_sp_weekly_bulletin_124",
+      "parent_id": "hellenic_shipbuilding_2021-10-29_2021_10_29_clarkson_platou_hellas_sp_weekly_bulletin_124__root",
+      "title": "Linked asset: 2021-10-29_clarkson-platou-hellas-sp-weekly-bulletin-124_report-29-10-2021_f439d48c321c.pdf",
+      "section_path": [
+        "Linked asset: 2021-10-29_clarkson-platou-hellas-sp-weekly-bulletin-124_report-29-10-2021_f439d48c321c.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-10-29_clarkson-platou-hellas-sp-weekly-bulletin-124_report-29-10-2021_f439d48c321c.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-10-29_clarkson-platou-hellas-sp-weekly-bulletin-124_report-29-10-2021_f439d48c321c.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 29 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/22\nFEDERAL DANUBE 37,098 2004 NEW CENTURY MAN-B&W 6S46MC-C7.1\nDD 07/22\n4 X 40 T\nRGN USD 23 M U/D\nBWTS fitted\nSS 12/21\nFEDERAL ELBE 37,073 2003 NEW CENTURY Lakes fitted\nDD 12/21\nMITSUBISHI 6UEC45LSE\nSS 12/22\nROYAL JUSTICE 36,976 2012 SAIKI 4 X 30 T XS USD 21 M FAR EASTERNS\nDD 12/22\nBWTS fitted\nMAN-B&W 5S50ME - C8.1\nSS 01/22\nNORDIC MALMOE 35,038 2012 NANTONG JINGHUA 4 x 30 T RGN USD 16.7 M U/D\nDD 01/22\nTier II\nMAN-B&W 5S50MC-C8.2 SS 07/22\nDORY 34,601 2010 SPP USD 16.2 M U/D\n4 x 35 T DD 05/25\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 10/26\nSEAWAYS DIAMOND HEAD 301,038\nDD 10/24\nSS 08/26\nSEAWAYS LIBERTY 300,973\nDD 06/24\nUSD 380 M\nSS 05/26\nSEAWAYS HENDRICKS 300,960 2016 SHANGHAI WAIGAOQIAO NORWEGIANS\nDD 05/26 (En Bloc, basis 10-year\nMAN-B&W 7G80ME-C9.2 (c/o Ocean Yield)\nBB back including\nScrubber & BWTS fitted\nSS 03/26 purchase obligation)\nSEAWAYS CAPE HENRY 300,960\nDD 04/24\nSS 01/26\nSEA",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "india",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1987,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-12-02_2022_12_02_clarksons_platou_hellas_snp_weekly_bulletin_47__root",
+  "doc_id": "hellenic_shipbuilding_2022-12-02_2022_12_02_clarksons_platou_hellas_snp_weekly_bulletin_47",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building: In tankers this week, it was reported that Clients of Capital Ship Management ordered two firm plus two optional 115k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-12-02_clarksons-platou-hellas-snp-weekly-bulletin-47_report-02-12-2022_4147a7df4bc1.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-12-02_clarksons-platou-hellas-snp-weekly-bulletin-47_report-02-12-2022_4147a7df4bc1.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 02 December 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2012 TSUNEISHI MAN-B&W 6S50MC-C8.2 SS 06/27\nSAGAR MOTI 58,470 RGN XS USD 17 M U/D\n(ZHOUSHAN) BWTS fitted, CR 4 x 30 T DD 10/25\n2004 TSUNEISHI MAN-B&W 6S50MC6.1 SS 06/24\nWORLDERA-5 52,292 MID USD 10 M CHINESE\n(CEBU) BWTS fitted, CR 4 x 30 T DD 06/24\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 7S80MC6.1 SS 06/26\nSYFNOS 298,495 2006 UNIVERSAL USD 56 M U/D\nBWTS & Scrubber fitted DD 12/23\n2009 JIAGNSU MAN-B&W 6S70MC-C7.2 SS 07/24\nFRONT BALDER 156,436 RGN USD 38.5 M TURKISH\nRONGSHENG BWTS & Scrubber fitted DD 07/24\nSAMRAA MAN-B&W 7S60MC6.1 SS 03/27\n114,858 2006 SAMSUNG\nALKHALEEJ BWTS fitted, ICE 1A D",
+  "keywords": [
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "man-b"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2267,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-12-02_clarksons-platou-hellas-snp-weekly-bulletin-47.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-47",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-12-02_2022_12_02_clarksons_platou_hellas_snp_weekly_bulletin_47__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-12-02_2022_12_02_clarksons_platou_hellas_snp_weekly_bulletin_47",
+      "parent_id": "hellenic_shipbuilding_2022-12-02_2022_12_02_clarksons_platou_hellas_snp_weekly_bulletin_47__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building: In tankers this week, it was reported that Clients of Capital Ship Management ordered two firm plus two optional 115k dwt\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "two",
+        "building",
+        "capital",
+        "clarkson",
+        "clients",
+        "dwt",
+        "firm",
+        "hellas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-12-02_2022_12_02_clarksons_platou_hellas_snp_weekly_bulletin_47__s02_linked_asset_2022_12_02_clarksons_platou_hellas_snp_weekly_bulletin_47_report_02_12_2022_4147a7df4bc1_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-12-02_2022_12_02_clarksons_platou_hellas_snp_weekly_bulletin_47",
+      "parent_id": "hellenic_shipbuilding_2022-12-02_2022_12_02_clarksons_platou_hellas_snp_weekly_bulletin_47__root",
+      "title": "Linked asset: 2022-12-02_clarksons-platou-hellas-snp-weekly-bulletin-47_report-02-12-2022_4147a7df4bc1.pdf",
+      "section_path": [
+        "Linked asset: 2022-12-02_clarksons-platou-hellas-snp-weekly-bulletin-47_report-02-12-2022_4147a7df4bc1.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-12-02_clarksons-platou-hellas-snp-weekly-bulletin-47_report-02-12-2022_4147a7df4bc1.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-12-02_clarksons-platou-hellas-snp-weekly-bulletin-47_report-02-12-2022_4147a7df4bc1.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 02 December 2022\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2012 TSUNEISHI MAN-B&W 6S50MC-C8.2 SS 06/27\nSAGAR MOTI 58,470 RGN XS USD 17 M U/D\n(ZHOUSHAN) BWTS fitted, CR 4 x 30 T DD 10/25\n2004 TSUNEISHI MAN-B&W 6S50MC6.1 SS 06/24\nWORLDERA-5 52,292 MID USD 10 M CHINESE\n(CEBU) BWTS fitted, CR 4 x 30 T DD 06/24\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\nMAN-B&W 7S80MC6.1 SS 06/26\nSYFNOS 298,495 2006 UNIVERSAL USD 56 M U/D\nBWTS & Scrubber fitted DD 12/23\n2009 JIAGNSU MAN-B&W 6S70MC-C7.2 SS 07/24\nFRONT BALDER 156,436 RGN USD 38.5 M TURKISH\nRONGSHENG BWTS & Scrubber fitted DD 07/24\nSAMRAA MAN-B&W 7S60MC6.1 SS 03/27\n114,858 2006 SAMSUNG\nALKHALEEJ BWTS fitted, ICE 1A DD08/25 RGN USD 86 M\nU/D\nMAN-B&W 7S60MC-C SS 03/27 (En Bloc)\nALHANI 114,795 2007 SAMSUNG\nBWTS fitted, ICE 1A DD 08/25\nMAN-B&W 7S60MC6.1 SS 07/24\nSEATRUST 114,549 2004 SAMSUNG USD 35 M U/D\nBWTS fitted, ICE 1C DD 07/24\nMAN-B&W 5S60MC6.1 SS 10/24\nANTIKEROS 69,714 2004 DSME RGN USD 13 M\nBWT",
+      "keywords": [
+        "lng",
+        "lpg",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2178,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

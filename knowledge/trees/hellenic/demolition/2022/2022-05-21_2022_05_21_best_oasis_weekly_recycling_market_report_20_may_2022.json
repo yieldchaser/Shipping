@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2022-05-21_2022_05_21_best_oasis_weekly_recycling_market_report_20_may_2022__root",
+  "doc_id": "hellenic_demolition_2022-05-21_2022_05_21_best_oasis_weekly_recycling_market_report_20_may_2022",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 20 May 2022",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 20 May 2022"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 20 May 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 21/05/2022\nThe Ship recycling prices are currently experiencing a correction from the heated levels they had reached in the previous two months\nSource: Best Oasis Limited\n\nLinked asset: 2022-05-21_Weekly-Ship-Recycling-Report_20_May_2022.pdf\nSource asset: reports/hellenic/demolition/pdfs/2022-05-21_Weekly-Ship-Recycling-Report_20_May_2022.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n1 3th May to 20th May 2022\nHighlights of the Week\nTh e Ship recycling prices are currently experiencing a correction from the\njhhnhu\nhe ated levels they h ad reached in the previous two months. After starting\nthe year with levels between 580 and 600, the offer prices from subcontinent\nrecycling destinations crossed the 700 mark in the first week of March as the\nsudden emergence of geopolitical tensions led to fears of tighter steel\nsupply in the market. Now that steel demand has taken a hit due to an\nextended lockdown in China and rising inflationary pressure around the\nworld, the offer prices from recyclers have corrected in line with global steel\nprices, which are still at very healthy level and USD 100/LDT higher than the\noffer prices in the same period last",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "steel",
+    "prices",
+    "are",
+    "previous"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2012,
+  "source_path": "reports/hellenic/demolition/2022/2022-05-21_best-oasis-weekly-recycling-market-report-20-may-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-20-may-2022",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2022-05-21_2022_05_21_best_oasis_weekly_recycling_market_report_20_may_2022__s01_main",
+      "doc_id": "hellenic_demolition_2022-05-21_2022_05_21_best_oasis_weekly_recycling_market_report_20_may_2022",
+      "parent_id": "hellenic_demolition_2022-05-21_2022_05_21_best_oasis_weekly_recycling_market_report_20_may_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 21/05/2022\nThe Ship recycling prices are currently experiencing a correction from the heated levels they had reached in the previous two months\nSource: Best Oasis Limited",
+      "keywords": [
+        "are",
+        "best",
+        "correction",
+        "currently",
+        "demolition",
+        "experiencing",
+        "had",
+        "heated"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 41,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-05-21_2022_05_21_best_oasis_weekly_recycling_market_report_20_may_2022__s02_linked_asset_2022_05_21_weekly_ship_recycling_report_20_may_2022_pdf",
+      "doc_id": "hellenic_demolition_2022-05-21_2022_05_21_best_oasis_weekly_recycling_market_report_20_may_2022",
+      "parent_id": "hellenic_demolition_2022-05-21_2022_05_21_best_oasis_weekly_recycling_market_report_20_may_2022__root",
+      "title": "Linked asset: 2022-05-21_Weekly-Ship-Recycling-Report_20_May_2022.pdf",
+      "section_path": [
+        "Linked asset: 2022-05-21_Weekly-Ship-Recycling-Report_20_May_2022.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-05-21_Weekly-Ship-Recycling-Report_20_May_2022.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-05-21_Weekly-Ship-Recycling-Report_20_May_2022.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n1 3th May to 20th May 2022\nHighlights of the Week\nTh e Ship recycling prices are currently experiencing a correction from the\njhhnhu\nhe ated levels they h ad reached in the previous two months. After starting\nthe year with levels between 580 and 600, the offer prices from subcontinent\nrecycling destinations crossed the 700 mark in the first week of March as the\nsudden emergence of geopolitical tensions led to fears of tighter steel\nsupply in the market.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1940,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

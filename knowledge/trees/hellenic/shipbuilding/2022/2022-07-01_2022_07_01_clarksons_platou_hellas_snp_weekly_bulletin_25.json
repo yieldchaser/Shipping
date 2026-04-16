@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-07-01_2022_07_01_clarksons_platou_hellas_snp_weekly_bulletin_25__root",
+  "doc_id": "hellenic_shipbuilding_2022-07-01_2022_07_01_clarksons_platou_hellas_snp_weekly_bulletin_25",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn tankers this week, it was reported that CNAF Haixin Shipping ordered a 14k dwt Handysize product tanker at Zhejiang Mingfei SB\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 01 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 11/24\nTHESTELIA K 82,108 2009 TSUNEISHI ZHOUSHAN MAN B. 6S60MC-C7.2 LOW USD 23 M U/D\nDD 05/23\nBWTS fitted\nMAN-B&W 5S60ME-C8.2 HK BASED\nWESTERN SANTOS 63,518 2014 JIAGNSU HANTONG SS/DD 04/24 USD 26.4 M\n4X35T, BWTS fitted (c/o Jinhui)\nRGN USD 23 M\nMAN B. 6S46MC-C7.2 SS 01/27\nMILAU BULKER 38,173 2012 NAIKAI (bss TC attached @ GREEKS\n4X30T, BWTS fitted DD 01/25\n$27K pd until Oct/22)\nMITSUBISHI 6UEC50LSII\nDORTHE OLDENDORFF 37,873 2019 BEIHAI OHBS, 4X45T SS/DD 06/24 USD 25.5 M U/D\nLOGS fitted\nMITSUBISHI 6UEC52LA\nLORD WELLINGTON 31,921 2005 HAKODATE SS/DD 04/25 RGN USD 14.3 M CHINESE\n4X30.5T, BWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT",
+  "keywords": [
+    "handysize",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "products",
+    "steel",
+    "gas",
+    "any",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2256,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-25",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-07-01_2022_07_01_clarksons_platou_hellas_snp_weekly_bulletin_25__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-07-01_2022_07_01_clarksons_platou_hellas_snp_weekly_bulletin_25",
+      "parent_id": "hellenic_shipbuilding_2022-07-01_2022_07_01_clarksons_platou_hellas_snp_weekly_bulletin_25__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tankers this week, it was reported that CNAF Haixin Shipping ordered a 14k dwt Handysize product tanker at Zhejiang Mingfei SB\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "handysize",
+        "clarkson",
+        "cnaf",
+        "dwt",
+        "haixin",
+        "hellas",
+        "ltd",
+        "mingfei"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-07-01_2022_07_01_clarksons_platou_hellas_snp_weekly_bulletin_25__s02_linked_asset_2022_07_01_clarksons_platou_hellas_snp_weekly_bulletin_25_report_01_07_2022_eb0efac3b9b4_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-07-01_2022_07_01_clarksons_platou_hellas_snp_weekly_bulletin_25",
+      "parent_id": "hellenic_shipbuilding_2022-07-01_2022_07_01_clarksons_platou_hellas_snp_weekly_bulletin_25__root",
+      "title": "Linked asset: 2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf",
+      "section_path": [
+        "Linked asset: 2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-07-01_clarksons-platou-hellas-snp-weekly-bulletin-25_report-01-07-2022_eb0efac3b9b4.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 01 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 11/24\nTHESTELIA K 82,108 2009 TSUNEISHI ZHOUSHAN MAN B. 6S60MC-C7.2 LOW USD 23 M U/D\nDD 05/23\nBWTS fitted\nMAN-B&W 5S60ME-C8.2 HK BASED\nWESTERN SANTOS 63,518 2014 JIAGNSU HANTONG SS/DD 04/24 USD 26.4 M\n4X35T, BWTS fitted (c/o Jinhui)\nRGN USD 23 M\nMAN B.",
+      "keywords": [
+        "handysize",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2160,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

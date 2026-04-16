@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-07-24_2023_07_24_clarksons_platou_hellas_snp_weekly_bulletin_80__root",
+  "doc_id": "hellenic_shipbuilding_2023-07-24_2023_07_24_clarksons_platou_hellas_snp_weekly_bulletin_80",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, it was reported that CSSC Dalian contracted two firm 320k dwt VLCC's with clients of Dynacom Tankers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-07-24_clarksons-platou-hellas-snp-weekly-bulletin-80_report-21-07-2023-1_cebb0332bb75.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-07-24_clarksons-platou-hellas-snp-weekly-bulletin-80_report-21-07-2023-1_cebb0332bb75.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 21 July 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6G70ME-\nHENRIETTE\n209,172 2016 YANGZI XINFU C9.2, SS 06/24 HIGH USD 46 M KOREANS\nOLDENDORFF BWTS fitted, SCRUBBER DD 06/24\nfitted\nAQUAPROUD 178,055 2009 SWS MAN B. 6S70MC6.1 SS 06/24 HIGH USD 18 M GREEKS\nDD 06/24\nAQUAKATIE 174,142 2007 SWS MAN B.",
+  "keywords": [
+    "vlcc",
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2175,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-07-24_clarksons-platou-hellas-snp-weekly-bulletin-80.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-80",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-07-24_2023_07_24_clarksons_platou_hellas_snp_weekly_bulletin_80__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-07-24_2023_07_24_clarksons_platou_hellas_snp_weekly_bulletin_80",
+      "parent_id": "hellenic_shipbuilding_2023-07-24_2023_07_24_clarksons_platou_hellas_snp_weekly_bulletin_80__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, it was reported that CSSC Dalian contracted two firm 320k dwt VLCC's with clients of Dynacom Tankers\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "vlcc",
+        "tankers",
+        "building",
+        "clarkson",
+        "clients",
+        "contracted",
+        "cssc",
+        "dalian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-07-24_2023_07_24_clarksons_platou_hellas_snp_weekly_bulletin_80__s02_linked_asset_2023_07_24_clarksons_platou_hellas_snp_weekly_bulletin_80_report_21_07_2023_1_cebb0332bb75_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-07-24_2023_07_24_clarksons_platou_hellas_snp_weekly_bulletin_80",
+      "parent_id": "hellenic_shipbuilding_2023-07-24_2023_07_24_clarksons_platou_hellas_snp_weekly_bulletin_80__root",
+      "title": "Linked asset: 2023-07-24_clarksons-platou-hellas-snp-weekly-bulletin-80_report-21-07-2023-1_cebb0332bb75.pdf",
+      "section_path": [
+        "Linked asset: 2023-07-24_clarksons-platou-hellas-snp-weekly-bulletin-80_report-21-07-2023-1_cebb0332bb75.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-07-24_clarksons-platou-hellas-snp-weekly-bulletin-80_report-21-07-2023-1_cebb0332bb75.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-07-24_clarksons-platou-hellas-snp-weekly-bulletin-80_report-21-07-2023-1_cebb0332bb75.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 21 July 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 6G70ME-\nHENRIETTE\n209,172 2016 YANGZI XINFU C9.2, SS 06/24 HIGH USD 46 M KOREANS\nOLDENDORFF BWTS fitted, SCRUBBER DD 06/24\nfitted\nAQUAPROUD 178,055 2009 SWS MAN B.",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "india",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2082,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

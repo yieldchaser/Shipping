@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-10-22_2021_10_22_clarkson_platou_hellas_sp_weekly_bulletin_123__root",
+  "doc_id": "hellenic_shipbuilding_2021-10-22_2021_10_22_clarkson_platou_hellas_sp_weekly_bulletin_123",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn tankers, Samsung announced taking order for seven firm 120k dwt Shuttle Tankers from an unknown owner\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 22 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 12/21\nBLUEMOON 170,089 2002 IHI SULZER 6RTA72 USD 15.75 M CHINESE\nDD 12/21\nMAN-B&W 6S60ME-C8.2 SS 01/22\nLENA B 81,922 2017 TSUNEISHI ZHOUSHAN USD 35.2 M F. EASTERNS\nBWTS fitted DD 01/22\nSS 01/22 USD 16.73 M\nSHANDONG HAI CHANG 75,200 2011 PENGLAI MAN-B&W 5S60MC-C CHINESE\nDD 01/22 (Online auction)\nMAN-B&W 6S50MC-C8.2\nSS 04/26\nKANOURA 61,396 2013 IWAGI 4 x 30 T LOW USD 28 M U/D\nDD 04/24\nBWTS fitted\nMAN-B&W 6S50MC6.1 SS 09/24\nPACIFIC 08 52,471 2004 TSUNEISHI ZOSEN USD 15.35 M CHINESE\n4 x 30 T DD 11/22\nMITSUBISHI 6UEC45LSE\nSS 01/26\nGLOBAL PASSION 33,686 2011 SHIN KOCHI 4 x 30 T RGN USD 17.5 M U/D\nDD 01/24\nBWTS fitted\nMAN-B&W 6S42MC7.2\nSS 03/26\nQUEEN ASIA 28,425 2011 I-S 4 ",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "products",
+    "gas",
+    "clarksons",
+    "information",
+    "platou"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2513,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-123",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-10-22_2021_10_22_clarkson_platou_hellas_sp_weekly_bulletin_123__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-10-22_2021_10_22_clarkson_platou_hellas_sp_weekly_bulletin_123",
+      "parent_id": "hellenic_shipbuilding_2021-10-22_2021_10_22_clarkson_platou_hellas_sp_weekly_bulletin_123__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tankers, Samsung announced taking order for seven firm 120k dwt Shuttle Tankers from an unknown owner\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "tankers",
+        "announced",
+        "clarkson",
+        "dwt",
+        "firm",
+        "hellas",
+        "ltd",
+        "order"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 34,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-10-22_2021_10_22_clarkson_platou_hellas_sp_weekly_bulletin_123__s02_linked_asset_2021_10_22_clarkson_platou_hellas_sp_weekly_bulletin_123_report_22_10_2021_2911eb2266e5_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-10-22_2021_10_22_clarkson_platou_hellas_sp_weekly_bulletin_123",
+      "parent_id": "hellenic_shipbuilding_2021-10-22_2021_10_22_clarkson_platou_hellas_sp_weekly_bulletin_123__root",
+      "title": "Linked asset: 2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf",
+      "section_path": [
+        "Linked asset: 2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-10-22_clarkson-platou-hellas-sp-weekly-bulletin-123_report-22-10-2021_2911eb2266e5.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 22 October 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 12/21\nBLUEMOON 170,089 2002 IHI SULZER 6RTA72 USD 15.75 M CHINESE\nDD 12/21\nMAN-B&W 6S60ME-C8.2 SS 01/22\nLENA B 81,922 2017 TSUNEISHI ZHOUSHAN USD 35.2 M F. EASTERNS\nBWTS fitted DD 01/22\nSS 01/22 USD 16.73 M\nSHANDONG HAI CHANG 75,200 2011 PENGLAI MAN-B&W 5S60MC-C CHINESE\nDD 01/22 (Online auction)\nMAN-B&W 6S50MC-C8.2\nSS 04/26\nKANOURA 61,396 2013 IWAGI 4 x 30 T LOW USD 28 M U/D\nDD 04/24\nBWTS fitted\nMAN-B&W 6S50MC6.1 SS 09/24\nPACIFIC 08 52,471 2004 TSUNEISHI ZOSEN USD 15.35 M CHINESE\n4 x 30 T DD 11/22\nMITSUBISHI 6UEC45LSE\nSS 01/26\nGLOBAL PASSION 33,686 2011 SHIN KOCHI 4 x 30 T RGN USD 17.5 M U/D\nDD 01/24\nBWTS fitted\nMAN-B&W 6S42MC7.2\nSS 03/26\nQUEEN ASIA 28,425 2011 I-S 4 x 30 T RGN USD 15 M U/D\nDD 03/24\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\n- - - - - - -\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 22 October 2021\nNEW BUILDING\nIn tankers, Samsung annou",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "india",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2432,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-09-18_2021_09_18_best_oasis_weekly_recycling_market_report_17_september_2021__root",
+  "doc_id": "hellenic_demolition_2021-09-18_2021_09_18_best_oasis_weekly_recycling_market_report_17_september_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 17 September 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 17 September 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 17 September 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIron ore prices continue their free fall and are being a sentiment dampener for the subcontinent recycling market\nSource: Best Oasis Limited\n\nLinked asset: 2021-09-18_best-oasis-weekly-recycling-market-report-17-september-2021_weekly-ship-recycling-report-2_f93ba99b96dc.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-09-18_best-oasis-weekly-recycling-market-report-17-september-2021_weekly-ship-recycling-report-2_f93ba99b96dc.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nR EPORT\n10th September to 17th September 2021\nHig hlights of the Week\nIron ore prices continue their free fall and are being a sentiment dampener\njhhn hu\nfor the subcontinent recycling market, making the end buyers reluctant to\nplace high offers due to uncertainty of price trajectory and demand for\nstee l. Among the three major players of subcontinent, Pakistan is leading\nthe price board followed closely by India and Bangladesh. The container shipping market is experiencing one of its best years as a\nperfect storm of COVID-driven purchasing demand, port congestion and\ntyphoons have boosted freight rates but many industry participants are\nnow of the opinion that the supply chain disruptions which caused ",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1859,
+  "source_path": "reports/hellenic/demolition/2021/2021-09-18_best-oasis-weekly-recycling-market-report-17-september-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-17-september-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-09-18_2021_09_18_best_oasis_weekly_recycling_market_report_17_september_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-09-18_2021_09_18_best_oasis_weekly_recycling_market_report_17_september_2021",
+      "parent_id": "hellenic_demolition_2021-09-18_2021_09_18_best_oasis_weekly_recycling_market_report_17_september_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Iron ore prices continue their free fall and are being a sentiment dampener for the subcontinent recycling market\nSource: Best Oasis Limited",
+      "keywords": [
+        "europe",
+        "iron_ore",
+        "are",
+        "being",
+        "best",
+        "continue",
+        "dampener",
+        "fall"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 26,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-09-18_2021_09_18_best_oasis_weekly_recycling_market_report_17_september_2021__s02_linked_asset_2021_09_18_best_oasis_weekly_recycling_market_report_17_september_2021_weekly_ship_recycling_report_2_f93ba99b96dc_pdf",
+      "doc_id": "hellenic_demolition_2021-09-18_2021_09_18_best_oasis_weekly_recycling_market_report_17_september_2021",
+      "parent_id": "hellenic_demolition_2021-09-18_2021_09_18_best_oasis_weekly_recycling_market_report_17_september_2021__root",
+      "title": "Linked asset: 2021-09-18_best-oasis-weekly-recycling-market-report-17-september-2021_weekly-ship-recycling-report-2_f93ba99b96dc.pdf",
+      "section_path": [
+        "Linked asset: 2021-09-18_best-oasis-weekly-recycling-market-report-17-september-2021_weekly-ship-recycling-report-2_f93ba99b96dc.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-09-18_best-oasis-weekly-recycling-market-report-17-september-2021_weekly-ship-recycling-report-2_f93ba99b96dc.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-09-18_best-oasis-weekly-recycling-market-report-17-september-2021_weekly-ship-recycling-report-2_f93ba99b96dc.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nR EPORT\n10th September to 17th September 2021\nHig hlights of the Week\nIron ore prices continue their free fall and are being a sentiment dampener\njhhn hu\nfor the subcontinent recycling market, making the end buyers reluctant to\nplace high offers due to uncertainty of price trajectory and demand for\nstee l. Among the three major players of subcontinent, Pakistan is leading\nthe price board followed closely by India and Bangladesh.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1785,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

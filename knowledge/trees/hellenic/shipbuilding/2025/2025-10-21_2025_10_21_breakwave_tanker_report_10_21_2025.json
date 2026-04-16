@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-10-21_2025_10_21_breakwave_tanker_report_10_21_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-10-21_2025_10_21_breakwave_tanker_report_10_21_2025",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 10.21.2025",
+  "section_path": [
+    "Breakwave Tanker Report 10.21.2025"
+  ],
+  "section_path_text": "Breakwave Tanker Report 10.21.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCCs Remains Supported as Charterers Consider New Trade Barriers - Following a subdued start to October, the VLCC segment shows\nSource: Breakwave Advisors\n\nLinked asset: 2025-10-21_breakwave-tanker-report-10-21-2025_breakwavetankersoctober212025report_4a51622b04ad.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-10-21_breakwave-tanker-report-10-21-2025_breakwavetankersoctober212025report_4a51622b04ad.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nOctober 21, 2025\n• VLCCs Remains Supported as Charterers Consider New Trade Barriers -\nShort-term Indicators\nFollowing a subdued start to October, the VLCC segment shows early signs of\nMomentum: Neutral\nsupport. In the Arabian Gulf, owners resisted further downward pressure amid a\ntightening tonnage list and expectations of increased activity linked to Saudi's Sentiment: Neutral\nNovember loading programs. Furthermore, sentiment improved as charterers Fundamentals: Positive\nsought early cover in response to China's recently implemented port fees on U.S.-\nlinked vessels.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "meg",
+    "west_africa",
+    "europe",
+    "india",
+    "crude_oil",
+    "gas",
+    "oil",
+    "funds",
+    "crude"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1995,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-10-21_breakwave-tanker-report-10-21-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-10-21-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-10-21_2025_10_21_breakwave_tanker_report_10_21_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-10-21_2025_10_21_breakwave_tanker_report_10_21_2025",
+      "parent_id": "hellenic_shipbuilding_2025-10-21_2025_10_21_breakwave_tanker_report_10_21_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCCs Remains Supported as Charterers Consider New Trade Barriers - Following a subdued start to October, the VLCC segment shows\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "barriers",
+        "charterers",
+        "consider",
+        "following",
+        "new",
+        "october",
+        "remains"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-10-21_2025_10_21_breakwave_tanker_report_10_21_2025__s02_linked_asset_2025_10_21_breakwave_tanker_report_10_21_2025_breakwavetankersoctober212025report_4a51622b04ad_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-10-21_2025_10_21_breakwave_tanker_report_10_21_2025",
+      "parent_id": "hellenic_shipbuilding_2025-10-21_2025_10_21_breakwave_tanker_report_10_21_2025__root",
+      "title": "Linked asset: 2025-10-21_breakwave-tanker-report-10-21-2025_breakwavetankersoctober212025report_4a51622b04ad.pdf",
+      "section_path": [
+        "Linked asset: 2025-10-21_breakwave-tanker-report-10-21-2025_breakwavetankersoctober212025report_4a51622b04ad.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-10-21_breakwave-tanker-report-10-21-2025_breakwavetankersoctober212025report_4a51622b04ad.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-10-21_breakwave-tanker-report-10-21-2025_breakwavetankersoctober212025report_4a51622b04ad.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nOctober 21, 2025\n• VLCCs Remains Supported as Charterers Consider New Trade Barriers -\nShort-term Indicators\nFollowing a subdued start to October, the VLCC segment shows early signs of\nMomentum: Neutral\nsupport. In the Arabian Gulf, owners resisted further downward pressure amid a\ntightening tonnage list and expectations of increased activity linked to Saudi's Sentiment: Neutral\nNovember loading programs.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "meg",
+        "west_africa",
+        "europe",
+        "india",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1917,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

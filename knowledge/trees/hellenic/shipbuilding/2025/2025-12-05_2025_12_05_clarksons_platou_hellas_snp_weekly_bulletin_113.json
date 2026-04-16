@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-12-05_2025_12_05_clarksons_platou_hellas_snp_weekly_bulletin_113__root",
+  "doc_id": "hellenic_shipbuilding_2025-12-05_2025_12_05_clarksons_platou_hellas_snp_weekly_bulletin_113",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Cargo\nAs the year draws to a close, activity slowed during the first week of December in both the dry and the wet sectors. In the Kamsarmax segment, following last week's invitation for offers, the KEY FRONTIER (ABT 80K DWT, 2011, UNIVERSAL SB MAIZURU) has been acquired by Greek interest at USD 18.7 m. Meanwhile, the BW MATSUYAMA (ABT 81K DWT, 2019, TSUNEISHI CEBU) remains under negotiations.",
+  "keywords": [
+    "supramax",
+    "china",
+    "any",
+    "information",
+    "dwt",
+    "clarksons",
+    "usd",
+    "abt",
+    "its",
+    "connected",
+    "loss",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1789,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-113",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-12-05_2025_12_05_clarksons_platou_hellas_snp_weekly_bulletin_113__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-12-05_2025_12_05_clarksons_platou_hellas_snp_weekly_bulletin_113",
+      "parent_id": "hellenic_shipbuilding_2025-12-05_2025_12_05_clarksons_platou_hellas_snp_weekly_bulletin_113__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Cargo\nAs the year draws to a close, activity slowed during the first week of December in both the dry and the wet sectors. In the Kamsarmax segment, following last week's invitation for offers, the KEY FRONTIER (ABT 80K DWT, 2011, UNIVERSAL SB MAIZURU) has been acquired by Greek interest at USD 18.7 m.",
+      "keywords": [
+        "supramax",
+        "china",
+        "dwt",
+        "abt",
+        "usd",
+        "built",
+        "chinese",
+        "confirmed"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 371,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-12-05_2025_12_05_clarksons_platou_hellas_snp_weekly_bulletin_113__s02_linked_asset_2025_12_05_clarksons_platou_hellas_snp_weekly_bulletin_113_weekly_sales_05th_dec_2025_7bc77c7c5920_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-12-05_2025_12_05_clarksons_platou_hellas_snp_weekly_bulletin_113",
+      "parent_id": "hellenic_shipbuilding_2025-12-05_2025_12_05_clarksons_platou_hellas_snp_weekly_bulletin_113__root",
+      "title": "Linked asset: 2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113_weekly-sales-05th-dec-2025_7bc77c7c5920.pdf",
+      "section_path": [
+        "Linked asset: 2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113_weekly-sales-05th-dec-2025_7bc77c7c5920.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113_weekly-sales-05th-dec-2025_7bc77c7c5920.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-12-05_clarksons-platou-hellas-snp-weekly-bulletin-113_weekly-sales-05th-dec-2025_7bc77c7c5920.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nAs the year draws to a close, activity slowed during the first week of December in both the dry and the\nwet sectors.",
+      "keywords": [
+        "supramax",
+        "china",
+        "any",
+        "information",
+        "clarksons",
+        "its",
+        "dwt",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1366,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

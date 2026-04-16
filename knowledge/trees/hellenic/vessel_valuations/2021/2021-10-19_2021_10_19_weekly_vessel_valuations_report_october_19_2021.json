@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2021-10-19_2021_10_19_weekly_vessel_valuations_report_october_19_2021__root",
+  "doc_id": "hellenic_vessel_valuations_2021-10-19_2021_10_19_weekly_vessel_valuations_report_october_19_2021",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, October 19 2021",
+  "section_path": [
+    "Weekly Vessel Valuations Report, October 19 2021"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, October 19 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker: Tanker values remained stable. LR2s Navig8 Pride LHJ and Navig8 Providence (110,600 DWT, Aug 2018, New Times Shipbuilding) sold to Global Meridian Holdings in an en bloc deal for USD 96.00 mil, VV en bloc value USD 91.18 mil - Inc Charter. MR2s Eco City Of Angels and Eco Los Angeles (50,300 DWT, Feb 2020, Hyundai Mipo) sold to Norden in an en bloc deal for USD 73.00 mil, VV en bloc value USD 70.85 mil - Inc Charter.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "container",
+    "china",
+    "usd",
+    "mil",
+    "dwt",
+    "sold",
+    "value"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1468,
+  "source_path": "reports/hellenic/vessel_valuations/2021/2021-10-19_weekly-vessel-valuations-report-october-19-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-october-19-2021",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2021-10-19_2021_10_19_weekly_vessel_valuations_report_october_19_2021__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2021-10-19_2021_10_19_weekly_vessel_valuations_report_october_19_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-10-19_2021_10_19_weekly_vessel_valuations_report_october_19_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "LR2s Navig8 Pride LHJ and Navig8 Providence (110,600 DWT, Aug 2018, New Times Shipbuilding) sold to Global Meridian Holdings in an en bloc deal for USD 96.00 mil, VV en bloc value USD 91.18 mil - Inc Charter. MR2s Eco City Of Angels and Eco Los Angeles (50,300 DWT, Feb 2020, Hyundai Mipo) sold to Norden in an en bloc deal for USD 73.00 mil, VV en bloc value USD 70.85 mil - Inc Charter.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "container",
+        "china",
+        "usd",
+        "mil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 609,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2021-10-19_2021_10_19_weekly_vessel_valuations_report_october_19_2021__s02_linked_asset_2021_10_19_weekly_vessel_valuations_report_october_19_2021_img1_20211019_0e9ae3b8cc8a_jpg",
+      "doc_id": "hellenic_vessel_valuations_2021-10-19_2021_10_19_weekly_vessel_valuations_report_october_19_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-10-19_2021_10_19_weekly_vessel_valuations_report_october_19_2021__root",
+      "title": "Linked asset: 2021-10-19_weekly-vessel-valuations-report-october-19-2021_img1_20211019_0e9ae3b8cc8a.jpg",
+      "section_path": [
+        "Linked asset: 2021-10-19_weekly-vessel-valuations-report-october-19-2021_img1_20211019_0e9ae3b8cc8a.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-10-19_weekly-vessel-valuations-report-october-19-2021_img1_20211019_0e9ae3b8cc8a.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2021/assets/2021-10-19_weekly-vessel-valuations-report-october-19-2021_img1_20211019_0e9ae3b8cc8a.jpg\n\nLinked image asset: 2021-10-19_weekly-vessel-valuations-report-october-19-2021_img1_20211019_0e9ae3b8cc8a.jpg\n\nImage metadata: JPEG 678x281 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\noO VesselsValue™ -_-_-S-sX-_-SEwr aa HE]\n19 October 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra LR1 MR Cape Pmax Supra Handy Pea Pmax Handy = Fmax\n0 40.8% +0.8% +0.6% +0.6% +0.6% +1.0% +2.1% +0.6% -1.1% +1.9% +0.7% +0.2% +0.3%\n320K 160K 110K 75K SOK 180K 82K 60K 37K 7000 4250 1750 1100\n5 40.2% +0.8% +0.6% +0.6% +0.3% 41.4% +2.1% +1.9% +0.2% 42.1% +0.7% +0.6% +0.0%\n320K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n10 0.1% +0.7% +0.7% +0.7% 40.2% +2.4% +2.1% +2.9% +1.6% +2.7% +0.7% +1.0% -0.0%\n310K 160K 110K 75K SOK 180K 80K 60K 30K 7000 4250 1750 1100\n15 41.2% +0.8% +0.7% +0.6% +0.5% +3.4% +2.1% +3.5% +2.9% +4.2% +0.7% +1.4% +0.1%\n310K 160K 110K 70K 45K 180K 75K SSK 30K 7000 4250 1750 1100\n20 +1.8% 0.0% +0.4% 0.0% 0.0% 0.0% +2.1% +3.8% +4.3% 46.9% +0.7% +1.8% +0.4%\n300K 155K 105K 70K 45K 175K 75K 50K",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "sok",
+        "asset",
+        "handy"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 812,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

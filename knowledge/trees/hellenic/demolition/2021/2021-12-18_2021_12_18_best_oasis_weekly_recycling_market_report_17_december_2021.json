@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-12-18_2021_12_18_best_oasis_weekly_recycling_market_report_17_december_2021__root",
+  "doc_id": "hellenic_demolition_2021-12-18_2021_12_18_best_oasis_weekly_recycling_market_report_17_december_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 17 December 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 17 December 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 17 December 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe ship recycling market looks to finish the year quietly with barely any activity being witnessed as the lack of tonnage being offered combined\nSource: Best Oasis Limited\n\nLinked asset: 2021-12-18_best-oasis-weekly-recycling-market-report-17-december-2021_weekly-ship-recycling-report-2_e591a408da5b.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-12-18_best-oasis-weekly-recycling-market-report-17-december-2021_weekly-ship-recycling-report-2_e591a408da5b.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n10th December to 17th December 2021\nHi ghlights of the Week\nT he ship recycling market looks to finish the year quietly with barely any\njhhnhu\nactivity being witnessed as the lack of tonnage being offered combined with\na paucity of buying interest at the current price levels has resulted in very\nfew deals getting finalized this week. The subcontinent market has seen a\nfurt her softening of about USD 5/LDT in offer prices as the domestic\ndem and remains dull and the end buyers are looking for stability in prices\nbefore securing tonnage. Small and mid-sized tonnage between 10-20k LDT\nare being preferred whereas larger tonnage is hardly getting interest from\nbuyers due ",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "products",
+    "steel",
+    "are",
+    "price"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1920,
+  "source_path": "reports/hellenic/demolition/2021/2021-12-18_best-oasis-weekly-recycling-market-report-17-december-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-17-december-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-12-18_2021_12_18_best_oasis_weekly_recycling_market_report_17_december_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-12-18_2021_12_18_best_oasis_weekly_recycling_market_report_17_december_2021",
+      "parent_id": "hellenic_demolition_2021-12-18_2021_12_18_best_oasis_weekly_recycling_market_report_17_december_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The ship recycling market looks to finish the year quietly with barely any activity being witnessed as the lack of tonnage being offered combined\nSource: Best Oasis Limited",
+      "keywords": [
+        "being",
+        "activity",
+        "any",
+        "barely",
+        "best",
+        "combined",
+        "finish",
+        "lack"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 31,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-12-18_2021_12_18_best_oasis_weekly_recycling_market_report_17_december_2021__s02_linked_asset_2021_12_18_best_oasis_weekly_recycling_market_report_17_december_2021_weekly_ship_recycling_report_2_e591a408da5b_pdf",
+      "doc_id": "hellenic_demolition_2021-12-18_2021_12_18_best_oasis_weekly_recycling_market_report_17_december_2021",
+      "parent_id": "hellenic_demolition_2021-12-18_2021_12_18_best_oasis_weekly_recycling_market_report_17_december_2021__root",
+      "title": "Linked asset: 2021-12-18_best-oasis-weekly-recycling-market-report-17-december-2021_weekly-ship-recycling-report-2_e591a408da5b.pdf",
+      "section_path": [
+        "Linked asset: 2021-12-18_best-oasis-weekly-recycling-market-report-17-december-2021_weekly-ship-recycling-report-2_e591a408da5b.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-12-18_best-oasis-weekly-recycling-market-report-17-december-2021_weekly-ship-recycling-report-2_e591a408da5b.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-12-18_best-oasis-weekly-recycling-market-report-17-december-2021_weekly-ship-recycling-report-2_e591a408da5b.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n10th December to 17th December 2021\nHi ghlights of the Week\nT he ship recycling market looks to finish the year quietly with barely any\njhhnhu\nactivity being witnessed as the lack of tonnage being offered combined with\na paucity of buying interest at the current price levels has resulted in very\nfew deals getting finalized this week. The subcontinent market has seen a\nfurt her softening of about USD 5/LDT in offer prices as the domestic\ndem and remains dull and the end buyers are looking for stability in prices\nbefore securing tonnage.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1841,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

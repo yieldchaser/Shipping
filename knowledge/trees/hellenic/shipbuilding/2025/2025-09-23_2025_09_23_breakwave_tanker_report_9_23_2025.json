@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-09-23_2025_09_23_breakwave_tanker_report_9_23_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-09-23_2025_09_23_breakwave_tanker_report_9_23_2025",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 9.23.2025",
+  "section_path": [
+    "Breakwave Tanker Report 9.23.2025"
+  ],
+  "section_path_text": "Breakwave Tanker Report 9.23.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC Rally Gathers Pace While Winter Demand is Still Upon Us - Since early September, VLCC spot rates have smashed key psychological\nSource: Breakwave Advisors\n\nLinked asset: 2025-09-23_breakwave-tanker-report-9-23-2025_breakwavetankersseptember232025repor_954b2bd942df.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-09-23_breakwave-tanker-report-9-23-2025_breakwavetankersseptember232025repor_954b2bd942df.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nSeptember 23, 2025\n• VLCC Rally Gathers Pace While Winter Demand is Still Upon Us - Since early\nShort-term Indicators\nSeptember, VLCC spot rates have smashed key psychological thresholds in\nMomentum: Neutral\nboth the Atlantic and Pacific basins, continuing a relentless rally that is counter to\nSentiment: Positive\nhistorical seasonality. The Middle East Gulf-China benchmark has led the advance,\nrising 84% month over month and is up 40% quarter over quarter. On a year- Fundamentals: Positive\nover-year basis, rates are approximately 75% higher, marking one of the\nsteepest annual gains and drawing comparisons to the September 2022 path.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "pacific",
+    "meg",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "gas",
+    "oil",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1997,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-09-23_breakwave-tanker-report-9-23-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-9-23-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-09-23_2025_09_23_breakwave_tanker_report_9_23_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-09-23_2025_09_23_breakwave_tanker_report_9_23_2025",
+      "parent_id": "hellenic_shipbuilding_2025-09-23_2025_09_23_breakwave_tanker_report_9_23_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Rally Gathers Pace While Winter Demand is Still Upon Us - Since early September, VLCC spot rates have smashed key psychological\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "demand",
+        "early",
+        "gathers",
+        "key",
+        "pace",
+        "psychological",
+        "rally"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-09-23_2025_09_23_breakwave_tanker_report_9_23_2025__s02_linked_asset_2025_09_23_breakwave_tanker_report_9_23_2025_breakwavetankersseptember232025repor_954b2bd942df_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-09-23_2025_09_23_breakwave_tanker_report_9_23_2025",
+      "parent_id": "hellenic_shipbuilding_2025-09-23_2025_09_23_breakwave_tanker_report_9_23_2025__root",
+      "title": "Linked asset: 2025-09-23_breakwave-tanker-report-9-23-2025_breakwavetankersseptember232025repor_954b2bd942df.pdf",
+      "section_path": [
+        "Linked asset: 2025-09-23_breakwave-tanker-report-9-23-2025_breakwavetankersseptember232025repor_954b2bd942df.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-09-23_breakwave-tanker-report-9-23-2025_breakwavetankersseptember232025repor_954b2bd942df.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-09-23_breakwave-tanker-report-9-23-2025_breakwavetankersseptember232025repor_954b2bd942df.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nSeptember 23, 2025\n• VLCC Rally Gathers Pace While Winter Demand is Still Upon Us - Since early\nShort-term Indicators\nSeptember, VLCC spot rates have smashed key psychological thresholds in\nMomentum: Neutral\nboth the Atlantic and Pacific basins, continuing a relentless rally that is counter to\nSentiment: Positive\nhistorical seasonality. The Middle East Gulf-China benchmark has led the advance,\nrising 84% month over month and is up 40% quarter over quarter.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "pacific",
+        "meg",
+        "west_africa",
+        "europe"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1919,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

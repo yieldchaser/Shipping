@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-10-26_2021_10_26_breakwave_dry_bulk_shipping_report_10_26_2021__root",
+  "doc_id": "hellenic_shipbuilding_2021-10-26_2021_10_26_breakwave_dry_bulk_shipping_report_10_26_2021",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 10.26.2021",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 10.26.2021"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 10.26.2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSpot Capesize rates down 45% from highs; Are we near the bottom? - Over the past two weeks spot Capesize rates have dropped more than\nSource: Breakwave Advisors\n\nLinked asset: 2021-10-26_breakwave-dry-bulk-shipping-report-10-26-2021_breakwaveoctober262021report_dffcfe649a0b.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-10-26_breakwave-dry-bulk-shipping-report-10-26-2021_breakwaveoctober262021report_dffcfe649a0b.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nOctober 26, 2021\nBreakwave Dry Futures Index: 3,386 Baltic Dry Index (spot): 4,257 Short-term Indicators:\n↓ 30D: -12.8% ↓ 30D: -8.3% Momentum: Negative\n↑ YTD: 246.0% ↑ YTD: 211.6% Sentiment: Negative\n↑ YOY: 163.2% ↑ YOY: 200.8% Fundamentals: Negative\nBi-Weekly Report\n• Spot Capesize rates down 45% from highs; Are we near the bottom? - Over the past two weeks spot Capesize rates\nhave dropped more than 40,000, as both the Pacific and the Atlantic markets have experienced a significant\ndeterioration in demand, especially for iron ore transportation.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1529,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-10-26_breakwave-dry-bulk-shipping-report-10-26-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-10-26-2021",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-10-26_2021_10_26_breakwave_dry_bulk_shipping_report_10_26_2021__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-10-26_2021_10_26_breakwave_dry_bulk_shipping_report_10_26_2021",
+      "parent_id": "hellenic_shipbuilding_2021-10-26_2021_10_26_breakwave_dry_bulk_shipping_report_10_26_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Spot Capesize rates down 45% from highs; Are we near the bottom? - Over the past two weeks spot Capesize rates have dropped more than\nSource: Breakwave Advisors",
+      "keywords": [
+        "capesize",
+        "are",
+        "bottom",
+        "down",
+        "dropped",
+        "highs",
+        "near",
+        "past"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-10-26_2021_10_26_breakwave_dry_bulk_shipping_report_10_26_2021__s02_linked_asset_2021_10_26_breakwave_dry_bulk_shipping_report_10_26_2021_breakwaveoctober262021report_dffcfe649a0b_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-10-26_2021_10_26_breakwave_dry_bulk_shipping_report_10_26_2021",
+      "parent_id": "hellenic_shipbuilding_2021-10-26_2021_10_26_breakwave_dry_bulk_shipping_report_10_26_2021__root",
+      "title": "Linked asset: 2021-10-26_breakwave-dry-bulk-shipping-report-10-26-2021_breakwaveoctober262021report_dffcfe649a0b.pdf",
+      "section_path": [
+        "Linked asset: 2021-10-26_breakwave-dry-bulk-shipping-report-10-26-2021_breakwaveoctober262021report_dffcfe649a0b.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-10-26_breakwave-dry-bulk-shipping-report-10-26-2021_breakwaveoctober262021report_dffcfe649a0b.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-10-26_breakwave-dry-bulk-shipping-report-10-26-2021_breakwaveoctober262021report_dffcfe649a0b.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nOctober 26, 2021\nBreakwave Dry Futures Index: 3,386 Baltic Dry Index (spot): 4,257 Short-term Indicators:\n↓ 30D: -12.8% ↓ 30D: -8.3% Momentum: Negative\n↑ YTD: 246.0% ↑ YTD: 211.6% Sentiment: Negative\n↑ YOY: 163.2% ↑ YOY: 200.8% Fundamentals: Negative\nBi-Weekly Report\n• Spot Capesize rates down 45% from highs; Are we near the bottom? - Over the past two weeks spot Capesize rates\nhave dropped more than 40,000, as both the Pacific and the Atlantic markets have experienced a significant\ndeterioration in demand, especially for iron ore transportation.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1445,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

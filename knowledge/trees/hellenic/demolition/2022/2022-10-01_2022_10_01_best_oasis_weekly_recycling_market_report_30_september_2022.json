@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2022-10-01_2022_10_01_best_oasis_weekly_recycling_market_report_30_september_2022__root",
+  "doc_id": "hellenic_demolition_2022-10-01_2022_10_01_best_oasis_weekly_recycling_market_report_30_september_2022",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 30 September 2022",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 30 September 2022"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 30 September 2022",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 01/10/2022\nGlobal economic outlook has darkened with geopolitical tensions fueling inflation and disrupting economic activities\nSource: Best Oasis Limited\n\nLinked asset: 2022-10-01_Weekly-Ship-Recycling-Report_30_September_2022.pdf\nSource asset: reports/hellenic/demolition/pdfs/2022-10-01_Weekly-Ship-Recycling-Report_30_September_2022.pdf\n\n[Page 1]\nWeekly\nShip Recycling\nReport\n#PartneringWithTheBest\n23 September - 30 September 2022\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the Week\nGlobal economic outlook has darkened with geopolitical tensions fueling inflation and disrupting economic activities. Subdued demand and weak\ninternational prices of steel are continuing to affect the prices being offered by the recyclers, making them less attractive for owners of aging assets\nto consider sending their units for recycling. Steel sector is not expected to be too buoyant in the immediate short-term, since China, the world's\nlargest steel consumer is also experiencing a real estate crisis, coupled with COVID-led lockdowns.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "steel",
+    "gas",
+    "previous",
+    "october"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2602,
+  "source_path": "reports/hellenic/demolition/2022/2022-10-01_best-oasis-weekly-recycling-market-report-30-september-2022.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-30-september-2022",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2022-10-01_2022_10_01_best_oasis_weekly_recycling_market_report_30_september_2022__s01_main",
+      "doc_id": "hellenic_demolition_2022-10-01_2022_10_01_best_oasis_weekly_recycling_market_report_30_september_2022",
+      "parent_id": "hellenic_demolition_2022-10-01_2022_10_01_best_oasis_weekly_recycling_market_report_30_september_2022__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 01/10/2022\nGlobal economic outlook has darkened with geopolitical tensions fueling inflation and disrupting economic activities\nSource: Best Oasis Limited",
+      "keywords": [
+        "economic",
+        "activities",
+        "best",
+        "darkened",
+        "demolition",
+        "disrupting",
+        "fueling",
+        "geopolitical"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-10-01_2022_10_01_best_oasis_weekly_recycling_market_report_30_september_2022__s02_linked_asset_2022_10_01_weekly_ship_recycling_report_30_september_2022_pdf",
+      "doc_id": "hellenic_demolition_2022-10-01_2022_10_01_best_oasis_weekly_recycling_market_report_30_september_2022",
+      "parent_id": "hellenic_demolition_2022-10-01_2022_10_01_best_oasis_weekly_recycling_market_report_30_september_2022__root",
+      "title": "Linked asset: 2022-10-01_Weekly-Ship-Recycling-Report_30_September_2022.pdf",
+      "section_path": [
+        "Linked asset: 2022-10-01_Weekly-Ship-Recycling-Report_30_September_2022.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-10-01_Weekly-Ship-Recycling-Report_30_September_2022.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2022-10-01_Weekly-Ship-Recycling-Report_30_September_2022.pdf\n\n[Page 1]\nWeekly\nShip Recycling\nReport\n#PartneringWithTheBest\n23 September - 30 September 2022\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the Week\nGlobal economic outlook has darkened with geopolitical tensions fueling inflation and disrupting economic activities. Subdued demand and weak\ninternational prices of steel are continuing to affect the prices being offered by the recyclers, making them less attractive for owners of aging assets\nto consider sending their units for recycling.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2534,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

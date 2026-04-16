@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-01-27_2023_01_27_clarksons_platou_hellas_snp_weekly_bulletin_54__root",
+  "doc_id": "hellenic_shipbuilding_2023-01-27_2023_01_27_clarksons_platou_hellas_snp_weekly_bulletin_54",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, it has been reported that Clients of Golden Energy Management ordered one firm plus one optional 158k dwt\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 27 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2005 TSUNEISHI MAN B. 6S60MC6.1 SS 06/25\nOCEAN DOMINA 76,255 RGN USD 10.5 M U/D\nZOSEN BWTS Due (Ordered) DD 08/23\nMAN B. 5S50MC-G SS 06/27\nAFRICAN VENTURE 34,721 2012 CHENGXI HIGH USD 12 M U/D\nTier II, 4 x 30 T, BWTS Fitted DD 08/25\nTankers - Chemicals - LPG/LNGs\nVessel DWT Built Details SS/DD Price Buyer\n2010 NEW MAN B.",
+  "keywords": [
+    "suezmax",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1781,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-54",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-01-27_2023_01_27_clarksons_platou_hellas_snp_weekly_bulletin_54__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-01-27_2023_01_27_clarksons_platou_hellas_snp_weekly_bulletin_54",
+      "parent_id": "hellenic_shipbuilding_2023-01-27_2023_01_27_clarksons_platou_hellas_snp_weekly_bulletin_54__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, it has been reported that Clients of Golden Energy Management ordered one firm plus one optional 158k dwt\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "one",
+        "building",
+        "clarkson",
+        "clients",
+        "dwt",
+        "energy",
+        "firm",
+        "golden"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-01-27_2023_01_27_clarksons_platou_hellas_snp_weekly_bulletin_54__s02_linked_asset_2023_01_27_clarksons_platou_hellas_snp_weekly_bulletin_54_report_27_01_2023_1888c144cf19_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-01-27_2023_01_27_clarksons_platou_hellas_snp_weekly_bulletin_54",
+      "parent_id": "hellenic_shipbuilding_2023-01-27_2023_01_27_clarksons_platou_hellas_snp_weekly_bulletin_54__root",
+      "title": "Linked asset: 2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
+      "section_path": [
+        "Linked asset: 2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-01-27_clarksons-platou-hellas-snp-weekly-bulletin-54_report-27-01-2023_1888c144cf19.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 27 January 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2005 TSUNEISHI MAN B. 6S60MC6.1 SS 06/25\nOCEAN DOMINA 76,255 RGN USD 10.5 M U/D\nZOSEN BWTS Due (Ordered) DD 08/23\nMAN B.",
+      "keywords": [
+        "suezmax",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1694,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

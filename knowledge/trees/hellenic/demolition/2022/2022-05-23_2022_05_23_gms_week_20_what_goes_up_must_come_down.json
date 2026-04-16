@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down__root",
+  "doc_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down",
+  "parent_id": null,
+  "title": "GMS Week 20 - WHAT GOES UP MUST COME DOWN!",
+  "section_path": [
+    "GMS Week 20 - WHAT GOES UP MUST COME DOWN!"
+  ],
+  "section_path_text": "GMS Week 20 - WHAT GOES UP MUST COME DOWN!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAnother woeful week of declining sentiments has left all of the major global ship-recycling markets on edge as the industry approaches the summer / monsoon months in the sub-continent. Moreover, it seems doubtful (at present) that any more noteworthy deals will likely be concluded, especially with the industry in such a state of disarray. Depreciating currencies and maddeningly plummeting steel plate prices (especially in Pakistan this week alone) have left nearly all of the major recycling markets looking at a near USD 100/LDT decline in prices since the peaks of over USD 700/LDT (and nearly USD 500/MT in Turkey) seen several weeks ago.",
+  "keywords": [
+    "container",
+    "europe",
+    "steel",
+    "ldt",
+    "asset",
+    "may",
+    "bff5dbd1bc1e.jpg",
+    "especially",
+    "linked",
+    "markets",
+    "new",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 698,
+  "source_path": "reports/hellenic/demolition/2022/2022-05-23_gms-week-20-what-goes-up-must-come-down.html",
+  "source_url": "https://www.hellenicshippingnews.com/gms-week-20-what-goes-up-must-come-down",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down__s01_main",
+      "doc_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down",
+      "parent_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Another woeful week of declining sentiments has left all of the major global ship-recycling markets on edge as the industry approaches the summer / monsoon months in the sub-continent. Moreover, it seems doubtful (at present) that any more noteworthy deals will likely be concluded, especially with the industry in such a state of disarray.",
+      "keywords": [
+        "europe",
+        "steel",
+        "may",
+        "especially",
+        "markets",
+        "new",
+        "prices",
+        "usd"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 428,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down__s02_linked_asset_2022_05_23_gms_week_20_what_goes_up_must_come_down_3_bff5dbd1bc1e_jpg",
+      "doc_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down",
+      "parent_id": "hellenic_demolition_2022-05-23_2022_05_23_gms_week_20_what_goes_up_must_come_down__root",
+      "title": "Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg",
+      "section_path": [
+        "Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg"
+      ],
+      "section_path_text": "Linked asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/2022/assets/2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg\n\nLinked image asset: 2022-05-23_gms-week-20-what-goes-up-must-come-down_καταγραφή-3_bff5dbd1bc1e.jpg\n\nImage metadata: JPEG 613x183 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\nTankers :\n. Dry Bulk Containers\nDemo Rank Location Sentiment USsD/\nUSD/LDT USD/LDT\nLDT\nWeakening | 630/LDT | 640/LDT | 650/LDT\nBangladesh | Weakening | 620/LDT | 630/LDT | 640/LDT\nWeakening | 610/LDT | 620/LDT | 630/LDT",
+      "keywords": [
+        "container",
+        "ldt",
+        "weakening",
+        "asset",
+        "bff5dbd1bc1e.jpg",
+        "image",
+        "usd/ldt",
+        "bangladesh"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 219,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

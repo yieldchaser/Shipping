@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-03-04_2022_03_04_clarksons_platou_hellas_snp_weekly_bulletin_11__root",
+  "doc_id": "hellenic_shipbuilding_2022-03-04_2022_03_04_clarksons_platou_hellas_snp_weekly_bulletin_11",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In the gas carrier market, Hyundai HI (Ulsan) announced contracting three firm 200k CBM LNG Carriers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 04 March 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 11/22\nGALAXY 81,666 2012 QINGDAO BEIHAI WARTSILA 5RTFLEX58TD MID-HIGH USD 19 M U/D\nDD 11/22\nSS/DD\nMAN-B&W 7S50MC-C\nDARYA KIRTHI 80,545 2012 STX freshly RGN USD 25 M GREEKS\nBWTS fitted\npassed\nMAN-B&W 6S60MC6.1 SS 06/23\nCORAL RUBY 76,596 2008 IMABARI RGN USD 18 M U/D\nBWTS fitted DD 06/23\nMAN-B&W 6S50MC-C\nSS 10/24\nORCHID 55,598 2012 MITSUI 4 x 30 T USD 22.6 M GREEKS\nDD 03/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/22\nNAVARIN 2007 DALIAN\nDD 07/22\nS. KOREANS\n307,284 WARTSILA 7RT-FLEX84T USD 63.5 M\n(c/o Sinokor)\nSS 03/22\nNAUTILUS 2006 DALIAN\nDD 03/22\nSS 09/22\nSTENA PRESIDENT 65,125 2007 BRODOSPLIT MAN-B&W 6S46MC-",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "container",
+    "pacific",
+    "europe",
+    "india",
+    "coal",
+    "steel",
+    "gas",
+    "any",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2389,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-11",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-03-04_2022_03_04_clarksons_platou_hellas_snp_weekly_bulletin_11__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-03-04_2022_03_04_clarksons_platou_hellas_snp_weekly_bulletin_11",
+      "parent_id": "hellenic_shipbuilding_2022-03-04_2022_03_04_clarksons_platou_hellas_snp_weekly_bulletin_11__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In the gas carrier market, Hyundai HI (Ulsan) announced contracting three firm 200k CBM LNG Carriers\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "lng",
+        "gas",
+        "announced",
+        "building",
+        "carrier",
+        "carriers",
+        "cbm",
+        "clarkson"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-03-04_2022_03_04_clarksons_platou_hellas_snp_weekly_bulletin_11__s02_linked_asset_2022_03_04_clarksons_platou_hellas_snp_weekly_bulletin_11_report_04_03_2022_0321bec0e209_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-03-04_2022_03_04_clarksons_platou_hellas_snp_weekly_bulletin_11",
+      "parent_id": "hellenic_shipbuilding_2022-03-04_2022_03_04_clarksons_platou_hellas_snp_weekly_bulletin_11__root",
+      "title": "Linked asset: 2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209.pdf",
+      "section_path": [
+        "Linked asset: 2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-03-04_clarksons-platou-hellas-snp-weekly-bulletin-11_report-04-03-2022_0321bec0e209.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 04 March 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 11/22\nGALAXY 81,666 2012 QINGDAO BEIHAI WARTSILA 5RTFLEX58TD MID-HIGH USD 19 M U/D\nDD 11/22\nSS/DD\nMAN-B&W 7S50MC-C\nDARYA KIRTHI 80,545 2012 STX freshly RGN USD 25 M GREEKS\nBWTS fitted\npassed\nMAN-B&W 6S60MC6.1 SS 06/23\nCORAL RUBY 76,596 2008 IMABARI RGN USD 18 M U/D\nBWTS fitted DD 06/23\nMAN-B&W 6S50MC-C\nSS 10/24\nORCHID 55,598 2012 MITSUI 4 x 30 T USD 22.6 M GREEKS\nDD 03/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 07/22\nNAVARIN 2007 DALIAN\nDD 07/22\nS. KOREANS\n307,284 WARTSILA 7RT-FLEX84T USD 63.5 M\n(c/o Sinokor)\nSS 03/22\nNAUTILUS 2006 DALIAN\nDD 03/22\nSS 09/22\nSTENA PRESIDENT 65,125 2007 BRODOSPLIT MAN-B&W 6S46MC-C LOW USD 11 M GREEKS\nDD 09/22\nPage 1 of 3\n\n[Page 2]\n1\nSale and Purchase\nHellas S&P Weekly Bulletin 04 March 2022\nNEW BUILDING\nIn the gas carrier market, Hyundai HI (Ulsan) announced contracting three firm 200k CBM LNG Carriers from an unknown European owner, with\n",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "pacific",
+        "europe",
+        "india",
+        "coal"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2302,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

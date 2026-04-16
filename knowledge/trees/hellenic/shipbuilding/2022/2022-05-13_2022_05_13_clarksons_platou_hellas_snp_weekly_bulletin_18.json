@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-05-13_2022_05_13_clarksons_platou_hellas_snp_weekly_bulletin_18__root",
+  "doc_id": "hellenic_shipbuilding_2022-05-13_2022_05_13_clarksons_platou_hellas_snp_weekly_bulletin_18",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: In tankers this week, Erik Thun AB announced ordering two firm 8k dwt IMO2 Chemical tankers at Ferus Smit Shipyard\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-05-13_clarksons-platou-hellas-snp-weekly-bulletin-18_report-13-05-2022_087aa76a6328.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-05-13_clarksons-platou-hellas-snp-weekly-bulletin-18_report-13-05-2022_087aa76a6328.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 13 May 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S70ME-C8.2 SS 05/26\nMINERAL YARDEN 181,218 2016 IMABARI RGN USD 50 M U/D\nBWTS fitted DD 05/24\nSS 02/25\nBTG OLYMPOS 81,086\nDD 05/23\nMAN-B&W 6S60ME-C8.2 USD 35.6 M\n2015 JMU GREEKS\nBWTS fitted each\nSS 10/25\nBTG KAILASH 81,084\nDD 09/23\nSS 08/22\nCHAILEASE BLOSSOM 77,684 2004 CSBC MAN-B&W 6S60MC6.1 MID USD 13 M CHINESE\nDD 08/22\nMAN-B&W 6S50ME-B9.3\nSS 11/23\nNORD BALTIC 62,625 2018 OSHIMA 4 X 30 T HIGH USD 36 M U/D\nDD 11/23\nBWTS & SCRUBBER fitted\nMAN-B&W 6S50MC-C SS 05/23 USD 18 M\nHUA RONG 3 56,467 2013 ZHEJIANG CHINESE\n4 X 36 T DD 05/23 (Online Auction)\nMITSUBISHI 6S42MC\nSS 11/22\nMERAY GLYFADA 28,471 2002 KANDA 4 X 30 T USD 10 M U/D\nDD 11/22\nBWT",
+  "keywords": [
+    "handysize",
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2215,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-05-13_clarksons-platou-hellas-snp-weekly-bulletin-18.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-18",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-05-13_2022_05_13_clarksons_platou_hellas_snp_weekly_bulletin_18__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-05-13_2022_05_13_clarksons_platou_hellas_snp_weekly_bulletin_18",
+      "parent_id": "hellenic_shipbuilding_2022-05-13_2022_05_13_clarksons_platou_hellas_snp_weekly_bulletin_18__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: In tankers this week, Erik Thun AB announced ordering two firm 8k dwt IMO2 Chemical tankers at Ferus Smit Shipyard\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "tankers",
+        "announced",
+        "building",
+        "chemical",
+        "clarkson",
+        "dwt",
+        "erik",
+        "ferus"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 46,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-05-13_2022_05_13_clarksons_platou_hellas_snp_weekly_bulletin_18__s02_linked_asset_2022_05_13_clarksons_platou_hellas_snp_weekly_bulletin_18_report_13_05_2022_087aa76a6328_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-05-13_2022_05_13_clarksons_platou_hellas_snp_weekly_bulletin_18",
+      "parent_id": "hellenic_shipbuilding_2022-05-13_2022_05_13_clarksons_platou_hellas_snp_weekly_bulletin_18__root",
+      "title": "Linked asset: 2022-05-13_clarksons-platou-hellas-snp-weekly-bulletin-18_report-13-05-2022_087aa76a6328.pdf",
+      "section_path": [
+        "Linked asset: 2022-05-13_clarksons-platou-hellas-snp-weekly-bulletin-18_report-13-05-2022_087aa76a6328.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-05-13_clarksons-platou-hellas-snp-weekly-bulletin-18_report-13-05-2022_087aa76a6328.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-05-13_clarksons-platou-hellas-snp-weekly-bulletin-18_report-13-05-2022_087aa76a6328.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 13 May 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S70ME-C8.2 SS 05/26\nMINERAL YARDEN 181,218 2016 IMABARI RGN USD 50 M U/D\nBWTS fitted DD 05/24\nSS 02/25\nBTG OLYMPOS 81,086\nDD 05/23\nMAN-B&W 6S60ME-C8.2 USD 35.6 M\n2015 JMU GREEKS\nBWTS fitted each\nSS 10/25\nBTG KAILASH 81,084\nDD 09/23\nSS 08/22\nCHAILEASE BLOSSOM 77,684 2004 CSBC MAN-B&W 6S60MC6.1 MID USD 13 M CHINESE\nDD 08/22\nMAN-B&W 6S50ME-B9.3\nSS 11/23\nNORD BALTIC 62,625 2018 OSHIMA 4 X 30 T HIGH USD 36 M U/D\nDD 11/23\nBWTS & SCRUBBER fitted\nMAN-B&W 6S50MC-C SS 05/23 USD 18 M\nHUA RONG 3 56,467 2013 ZHEJIANG CHINESE\n4 X 36 T DD 05/23 (Online Auction)\nMITSUBISHI 6S42MC\nSS 11/22\nMERAY GLYFADA 28,471 2002 KANDA 4 X 30 T USD 10 M U/D\nDD 11/22\nBWTS fitted\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nDHT FALCON 298,971 2006 NACKS\nSS 09/26\nUSD 38 M\nMAN-B&W 7S80MC DD 11/24\nBWTS & SCRUBBER fitted CHINESE\nSS 07/22\nDHT HAWK 298,923 2007 NACKS\nDD 07/22\nUSD 40 M\nMAN-B&W 6S50MC-C8.2 SS 06/24\nMAERSK MESS",
+      "keywords": [
+        "handysize",
+        "lng",
+        "lpg",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2122,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

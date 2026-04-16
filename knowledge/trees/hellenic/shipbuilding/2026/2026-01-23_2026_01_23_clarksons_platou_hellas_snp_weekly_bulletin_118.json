@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-01-23_2026_01_23_clarksons_platou_hellas_snp_weekly_bulletin_118__root",
+  "doc_id": "hellenic_shipbuilding_2026-01-23_2026_01_23_clarksons_platou_hellas_snp_weekly_bulletin_118",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAnother active week on the tanker front, with a steady flow of transactions and ongoing negotiationstaking place across all vessel segments. On the dry side, interest remains high with several new sales emerging as market sentiment strengthens. Dry Cargo\nOn the Kamsarmax front, the MIAO XIANG (ABT 81K DWT, 2013, JIANGSU EASTERN) has been sold at USD 16.8 m, while on the Panamax segment, the KT BIRDIE (ABT 74K DWT, 2011, SASEBO HI) changed hands at USD 16.5 m to Greek interests.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "suezmax",
+    "china",
+    "japan",
+    "usd",
+    "any",
+    "dwt",
+    "information",
+    "clarksons",
+    "built",
+    "sold"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2148,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-118",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-01-23_2026_01_23_clarksons_platou_hellas_snp_weekly_bulletin_118__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-01-23_2026_01_23_clarksons_platou_hellas_snp_weekly_bulletin_118",
+      "parent_id": "hellenic_shipbuilding_2026-01-23_2026_01_23_clarksons_platou_hellas_snp_weekly_bulletin_118__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Another active week on the tanker front, with a steady flow of transactions and ongoing negotiationstaking place across all vessel segments. On the dry side, interest remains high with several new sales emerging as market sentiment strengthens.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "suezmax",
+        "china",
+        "japan",
+        "usd",
+        "dwt",
+        "sold"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 449,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-01-23_2026_01_23_clarksons_platou_hellas_snp_weekly_bulletin_118__s02_linked_asset_2026_01_23_clarksons_platou_hellas_snp_weekly_bulletin_118_weekly_sales_23rd_jan_2026_4b6adb2286b9_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-01-23_2026_01_23_clarksons_platou_hellas_snp_weekly_bulletin_118",
+      "parent_id": "hellenic_shipbuilding_2026-01-23_2026_01_23_clarksons_platou_hellas_snp_weekly_bulletin_118__root",
+      "title": "Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf",
+      "section_path": [
+        "Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-01-23_clarksons-platou-hellas-snp-weekly-bulletin-118_weekly-sales-23rd-jan-2026_4b6adb2286b9.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nAnother active week on the tanker front, with a steady flow of transactions and ongoing negotiations\ntaking place across all vessel segments.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "suezmax",
+        "china",
+        "japan",
+        "any",
+        "usd",
+        "information"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1647,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

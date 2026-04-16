@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-05-05_2023_05_05_clarksons_platou_hellas_snp_weekly_bulletin_68__root",
+  "doc_id": "hellenic_shipbuilding_2023-05-05_2023_05_05_clarksons_platou_hellas_snp_weekly_bulletin_68",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building this week in the gas carrier market, Hyundai HI announced contracts for two firm 200k CBM LNG Carriers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 05 May 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2020 COSCO MAN B. KOREA\nVOKARIA 63,614 4 x 30 T\nDD 03/25\n(YANGZHOU) Scrubber & BWTS Fitted USD 30s M BASED\n2014 JIANGSU NEW MAN B. 5G60ME-C9.2 SS 02/24 MIDDLE\nMOUNT ATHOS 63,155 RGN USD 25 M\nHANTONG 4 x 35 T, BWTS Fitted DD 02/24 EASTERNS\nITHACA 2010 NANTONG MAN B.",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "its",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1786,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-68",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-05-05_2023_05_05_clarksons_platou_hellas_snp_weekly_bulletin_68__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-05-05_2023_05_05_clarksons_platou_hellas_snp_weekly_bulletin_68",
+      "parent_id": "hellenic_shipbuilding_2023-05-05_2023_05_05_clarksons_platou_hellas_snp_weekly_bulletin_68__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building this week in the gas carrier market, Hyundai HI announced contracts for two firm 200k CBM LNG Carriers\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "lng",
+        "gas",
+        "announced",
+        "building",
+        "carrier",
+        "carriers",
+        "cbm",
+        "clarkson"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-05-05_2023_05_05_clarksons_platou_hellas_snp_weekly_bulletin_68__s02_linked_asset_2023_05_05_clarksons_platou_hellas_snp_weekly_bulletin_68_report_05_05_2023_60de3a76cb32_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-05-05_2023_05_05_clarksons_platou_hellas_snp_weekly_bulletin_68",
+      "parent_id": "hellenic_shipbuilding_2023-05-05_2023_05_05_clarksons_platou_hellas_snp_weekly_bulletin_68__root",
+      "title": "Linked asset: 2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32.pdf",
+      "section_path": [
+        "Linked asset: 2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-05-05_clarksons-platou-hellas-snp-weekly-bulletin-68_report-05-05-2023_60de3a76cb32.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 05 May 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\n2020 COSCO MAN B. KOREA\nVOKARIA 63,614 4 x 30 T\nDD 03/25\n(YANGZHOU) Scrubber & BWTS Fitted USD 30s M BASED\n2014 JIANGSU NEW MAN B.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "india",
+        "steel",
+        "gas",
+        "any"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1702,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

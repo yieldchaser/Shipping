@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-06-16_2023_06_16_clarksons_platou_hellas_snp_weekly_bulletin_74__root",
+  "doc_id": "hellenic_shipbuilding_2023-06-16_2023_06_16_clarksons_platou_hellas_snp_weekly_bulletin_74",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew Building - In tankers this week, Clients of Polembros Shipping announced ordering two firm 157k dwt Suezmaxes at New Times\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 16 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S50MC- SS 04/25\nMAGIC TWILIGHT 80,700 2010 STX USD 17.5 M U/D\nC7.1, BWTS fitted DD 07/23\nSS 10/24\nZHOU SHAN HAI 56,987\nDD 10/24\nYUAN AN HAI 56,957 SS 08/24\nDD 08/24\n2009 COSCO MAN B. 6S50MC-C8.2, RGN USD 13 M\nCHINESE\nYUAN SHUN HAI 56,956 ZHOUSHAN 4 X 30 T, BWTS fitted SS 08/24 EACH\nDD 08/24\nJIN ZHOU HAI 56,976\nSS 11/24\nDD 11/24\nSS 01/27\nARKADIA 56,348 DD 01/25\n2012 HYUNDAI MAN B.",
+  "keywords": [
+    "suezmax",
+    "lng",
+    "lpg",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information",
+    "its"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2248,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-74",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-06-16_2023_06_16_clarksons_platou_hellas_snp_weekly_bulletin_74__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-06-16_2023_06_16_clarksons_platou_hellas_snp_weekly_bulletin_74",
+      "parent_id": "hellenic_shipbuilding_2023-06-16_2023_06_16_clarksons_platou_hellas_snp_weekly_bulletin_74__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New Building - In tankers this week, Clients of Polembros Shipping announced ordering two firm 157k dwt Suezmaxes at New Times\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "suezmax",
+        "new",
+        "announced",
+        "building",
+        "clarkson",
+        "clients",
+        "dwt",
+        "firm"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 42,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-06-16_2023_06_16_clarksons_platou_hellas_snp_weekly_bulletin_74__s02_linked_asset_2023_06_16_clarksons_platou_hellas_snp_weekly_bulletin_74_report_16_06_2023_6725be9cd461_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-06-16_2023_06_16_clarksons_platou_hellas_snp_weekly_bulletin_74",
+      "parent_id": "hellenic_shipbuilding_2023-06-16_2023_06_16_clarksons_platou_hellas_snp_weekly_bulletin_74__root",
+      "title": "Linked asset: 2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461.pdf",
+      "section_path": [
+        "Linked asset: 2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-06-16_clarksons-platou-hellas-snp-weekly-bulletin-74_report-16-06-2023_6725be9cd461.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 16 June 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B. 7S50MC- SS 04/25\nMAGIC TWILIGHT 80,700 2010 STX USD 17.5 M U/D\nC7.1, BWTS fitted DD 07/23\nSS 10/24\nZHOU SHAN HAI 56,987\nDD 10/24\nYUAN AN HAI 56,957 SS 08/24\nDD 08/24\n2009 COSCO MAN B.",
+      "keywords": [
+        "suezmax",
+        "lng",
+        "lpg",
+        "china",
+        "europe",
+        "india",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2159,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

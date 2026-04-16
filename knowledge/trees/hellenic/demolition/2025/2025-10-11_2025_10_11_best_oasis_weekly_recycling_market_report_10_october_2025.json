@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2025-10-11_2025_10_11_best_oasis_weekly_recycling_market_report_10_october_2025__root",
+  "doc_id": "hellenic_demolition_2025-10-11_2025_10_11_best_oasis_weekly_recycling_market_report_10_october_2025",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 10 October 2025",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 10 October 2025"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 10 October 2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 11/10/2025\nThe Indian market remains very weak, with prices declining daily and no signs of recovery. Source: Best Oasis Limited\n\nLinked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(04 OCTOBER - 10 OCTOBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe Indian market remains very weak, with prices declining daily and no signs of\nrecovery. Overall demand in local markets has dropped sharply, partly due to the\ngovernment's continued restriction on reusing ship-recycled scrap for cold rolling.",
+  "keywords": [
+    "container",
+    "india",
+    "steel",
+    "usd",
+    "prices",
+    "delivered",
+    "previous",
+    "recycling",
+    "ship",
+    "any",
+    "bangladesh",
+    "best"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1280,
+  "source_path": "reports/hellenic/demolition/2025/2025-10-11_best-oasis-weekly-recycling-market-report-10-october-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-10-october-2025",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2025-10-11_2025_10_11_best_oasis_weekly_recycling_market_report_10_october_2025__s01_main",
+      "doc_id": "hellenic_demolition_2025-10-11_2025_10_11_best_oasis_weekly_recycling_market_report_10_october_2025",
+      "parent_id": "hellenic_demolition_2025-10-11_2025_10_11_best_oasis_weekly_recycling_market_report_10_october_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 11/10/2025\nThe Indian market remains very weak, with prices declining daily and no signs of recovery.",
+      "keywords": [
+        "india",
+        "best",
+        "daily",
+        "declining",
+        "demolition",
+        "indian",
+        "limited",
+        "oasis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 36,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-10-11_2025_10_11_best_oasis_weekly_recycling_market_report_10_october_2025__s02_linked_asset_2025_10_11_weekly_ship_recycling_report_04_october_10_october_2025_1_pdf",
+      "doc_id": "hellenic_demolition_2025-10-11_2025_10_11_best_oasis_weekly_recycling_market_report_10_october_2025",
+      "parent_id": "hellenic_demolition_2025-10-11_2025_10_11_best_oasis_weekly_recycling_market_report_10_october_2025__root",
+      "title": "Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf",
+      "section_path": [
+        "Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-10-11_Weekly-Ship-Recycling-Report-04-October-10-October-2025-1.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(04 OCTOBER - 10 OCTOBER) 2025\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe Indian market remains very weak, with prices declining daily and no signs of\nrecovery. Overall demand in local markets has dropped sharply, partly due to the\ngovernment's continued restriction on reusing ship-recycled scrap for cold rolling.",
+      "keywords": [
+        "container",
+        "india",
+        "steel",
+        "usd",
+        "delivered",
+        "previous",
+        "prices",
+        "recycling"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1207,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

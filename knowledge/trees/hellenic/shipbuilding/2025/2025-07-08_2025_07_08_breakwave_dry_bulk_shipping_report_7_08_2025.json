@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-07-08_2025_07_08_breakwave_dry_bulk_shipping_report_7_08_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-07-08_2025_07_08_breakwave_dry_bulk_shipping_report_7_08_2025",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 7.08.2025",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 7.08.2025"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 7.08.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAnemic Pacific Capesize Rates Drag the Overall Index Down - A sharp and unexpected collapse in Capesize Pacific rates\nSource: Breakwave Advisors\n\nLinked asset: 2025-07-08_breakwave-dry-bulk-shipping-report-7-08-2025_breakwavedryjuly82025report_1efcacd131db.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-07-08_breakwave-dry-bulk-shipping-report-7-08-2025_breakwavedryjuly82025report_1efcacd131db.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJuly 8, 2025\n• Anemic Pacific Capesize Rates Drag the Overall Index Down - A sharp and\nShort-term Indicators\nunexpected collapse in Capesize Pacific rates, down nearly 70% in just two weeks\nMomentum: Neutral\nto below $10,000, has now begun to weigh on the broader dry bulk market, with the\naverage spot index hovering around $15,000. While freight futures remained Sentiment: Neutral\nbackwardated during the early June rally, the magnitude of the recent decline, Fundamentals: Neutral\nparticularly in the typically active Australian export market, has taken many market\nparticipants by surprise. As a result, the Atlantic basin continues to be the strongest\nBreakwave Dry\nregion for Capesize vessels.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1735,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-07-08_breakwave-dry-bulk-shipping-report-7-08-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-7-08-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-07-08_2025_07_08_breakwave_dry_bulk_shipping_report_7_08_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-07-08_2025_07_08_breakwave_dry_bulk_shipping_report_7_08_2025",
+      "parent_id": "hellenic_shipbuilding_2025-07-08_2025_07_08_breakwave_dry_bulk_shipping_report_7_08_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Anemic Pacific Capesize Rates Drag the Overall Index Down - A sharp and unexpected collapse in Capesize Pacific rates\nSource: Breakwave Advisors",
+      "keywords": [
+        "capesize",
+        "pacific",
+        "anemic",
+        "collapse",
+        "down",
+        "drag",
+        "overall",
+        "sharp"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-07-08_2025_07_08_breakwave_dry_bulk_shipping_report_7_08_2025__s02_linked_asset_2025_07_08_breakwave_dry_bulk_shipping_report_7_08_2025_breakwavedryjuly82025report_1efcacd131db_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-07-08_2025_07_08_breakwave_dry_bulk_shipping_report_7_08_2025",
+      "parent_id": "hellenic_shipbuilding_2025-07-08_2025_07_08_breakwave_dry_bulk_shipping_report_7_08_2025__root",
+      "title": "Linked asset: 2025-07-08_breakwave-dry-bulk-shipping-report-7-08-2025_breakwavedryjuly82025report_1efcacd131db.pdf",
+      "section_path": [
+        "Linked asset: 2025-07-08_breakwave-dry-bulk-shipping-report-7-08-2025_breakwavedryjuly82025report_1efcacd131db.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-07-08_breakwave-dry-bulk-shipping-report-7-08-2025_breakwavedryjuly82025report_1efcacd131db.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-07-08_breakwave-dry-bulk-shipping-report-7-08-2025_breakwavedryjuly82025report_1efcacd131db.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nJuly 8, 2025\n• Anemic Pacific Capesize Rates Drag the Overall Index Down - A sharp and\nShort-term Indicators\nunexpected collapse in Capesize Pacific rates, down nearly 70% in just two weeks\nMomentum: Neutral\nto below $10,000, has now begun to weigh on the broader dry bulk market, with the\naverage spot index hovering around $15,000. While freight futures remained Sentiment: Neutral\nbackwardated during the early June rally, the magnitude of the recent decline, Fundamentals: Neutral\nparticularly in the typically active Australian export market, has taken many market\nparticipants by surprise.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1658,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2024-01-02_2024_01_02_breakwave_dry_bulk_shipping_report_1_9_2024__root",
+  "doc_id": "hellenic_shipbuilding_2024-01-02_2024_01_02_breakwave_dry_bulk_shipping_report_1_9_2024",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 1.9.2024",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 1.9.2024"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 1.9.2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDespite winter blues, expectations remain high - The first week of the New Year saw limited action\nSource: Breakwave Advisors\n\nLinked asset: 2024-01-02_breakwave-dry-bulk-shipping-report-1-9-2024_breakwavedryjanuary92024report_812aebe16df0.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-01-02_breakwave-dry-bulk-shipping-report-1-9-2024_breakwavedryjanuary92024report_812aebe16df0.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 9, 2024\nBreakwave Dry Futures Index: 1,513 Baltic Dry Index (spot): 2,022 Short-term Indicators:\n↑ 30D: 0.9% ↓ 30D: -18.6% Momentum: Negative\n↑ YTD: 0.9% ↓ YTD: -3.4% Sentiment: Positive\n↑ YOY: 37.4% ↑ YOY: 78.9% Fundamentals: Neutral\nBi-Weekly Report\n• Despite winter blues, expectations remain high - The first week of the New Year saw limited action as it relates to\nCapesize fixing. Geographically the tables have turned, with the Pacific spot market having weakened materially to\nbelow 20,000 while the Atlantic remains short in tonnage, at least for the month of January, with the respective\nspot rate sitting above 40,000 for the N. Yet, the futures market indicates significant deterioration\nin the spot average, and although the element of surprise ",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "pacific",
+    "iron_ore",
+    "coal",
+    "grain",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1494,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-01-02_breakwave-dry-bulk-shipping-report-1-9-2024.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-1-9-2024",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2024-01-02_2024_01_02_breakwave_dry_bulk_shipping_report_1_9_2024__s01_main",
+      "doc_id": "hellenic_shipbuilding_2024-01-02_2024_01_02_breakwave_dry_bulk_shipping_report_1_9_2024",
+      "parent_id": "hellenic_shipbuilding_2024-01-02_2024_01_02_breakwave_dry_bulk_shipping_report_1_9_2024__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Despite winter blues, expectations remain high - The first week of the New Year saw limited action\nSource: Breakwave Advisors",
+      "keywords": [
+        "action",
+        "blues",
+        "despite",
+        "expectations",
+        "first",
+        "high",
+        "limited",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-01-02_2024_01_02_breakwave_dry_bulk_shipping_report_1_9_2024__s02_linked_asset_2024_01_02_breakwave_dry_bulk_shipping_report_1_9_2024_breakwavedryjanuary92024report_812aebe16df0_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-01-02_2024_01_02_breakwave_dry_bulk_shipping_report_1_9_2024",
+      "parent_id": "hellenic_shipbuilding_2024-01-02_2024_01_02_breakwave_dry_bulk_shipping_report_1_9_2024__root",
+      "title": "Linked asset: 2024-01-02_breakwave-dry-bulk-shipping-report-1-9-2024_breakwavedryjanuary92024report_812aebe16df0.pdf",
+      "section_path": [
+        "Linked asset: 2024-01-02_breakwave-dry-bulk-shipping-report-1-9-2024_breakwavedryjanuary92024report_812aebe16df0.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-01-02_breakwave-dry-bulk-shipping-report-1-9-2024_breakwavedryjanuary92024report_812aebe16df0.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-01-02_breakwave-dry-bulk-shipping-report-1-9-2024_breakwavedryjanuary92024report_812aebe16df0.pdf\n\n[Page 1]\nBDRY\nDry Bulk Shipping\nJanuary 9, 2024\nBreakwave Dry Futures Index: 1,513 Baltic Dry Index (spot): 2,022 Short-term Indicators:\n↑ 30D: 0.9% ↓ 30D: -18.6% Momentum: Negative\n↑ YTD: 0.9% ↓ YTD: -3.4% Sentiment: Positive\n↑ YOY: 37.4% ↑ YOY: 78.9% Fundamentals: Neutral\nBi-Weekly Report\n• Despite winter blues, expectations remain high - The first week of the New Year saw limited action as it relates to\nCapesize fixing. Geographically the tables have turned, with the Pacific spot market having weakened materially to\nbelow 20,000 while the Atlantic remains short in tonnage, at least for the month of January, with the respective\nspot rate sitting above 40,000 for the N.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "pacific"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1423,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

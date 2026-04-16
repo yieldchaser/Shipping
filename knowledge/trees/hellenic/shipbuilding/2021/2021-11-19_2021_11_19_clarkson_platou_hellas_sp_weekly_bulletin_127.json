@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-11-19_2021_11_19_clarkson_platou_hellas_sp_weekly_bulletin_127__root",
+  "doc_id": "hellenic_shipbuilding_2021-11-19_2021_11_19_clarkson_platou_hellas_sp_weekly_bulletin_127",
+  "parent_id": null,
+  "title": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSON PLATOU HELLAS S&P WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING : A relatively quiet week in the market with deals only surfacing in the dry bulk space. Yangzijiang have announced contracts\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 19 November 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 08/23\nBUNJI 98,704 2013 TSUNEISHI ZHOUSHAN MAN-B&W 6S60MC-C RGN USD 23 M EUROPEANS\nDD 08/23\nSS 08/22\nSM AURORA 81,970 2012 JIANGSU EASTERN MAN-B&W 6S60MC-C8 RGN/XS USD 21 M CHINESE\nDD 08/22\nMAN-B&W 5S60ME-C8 SS 06/22\nSTAR CRIOS 63,301 2012 SINOPACIFIC DAYANG USD 21.5 M GREEKS\n4 x 36 T DD 06/22\nMAN-B&W 6S50ME-B9.3\nSS 01/23\nNORD COLORADO 60,396 2018 OSHIMA 4 x 30 T XS USD 32 M U/D\nDD 01/23\nBWTS & Scrubber fitted\nMITSUBISHI 6UEC50LSII\nSS 02/26\nCHERRY DREAM 51,703 2011 OSHIMA 4 x 30 T USD 17.5 M U/D\nDD 02/24\nBWTS fitted, OHBH\nMITSUBISHI 6UEC52LA SS 10/22\nSUPER LYDIA 37,406 2007 SAIKI LOW/MID USD 13 M TURKISH\n4 x 30 T DD 10/22\nTANKERS - C",
+  "keywords": [
+    "lng",
+    "lpg",
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "japan",
+    "products",
+    "steel",
+    "gas",
+    "any",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2115,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarkson-platou-hellas-sp-weekly-bulletin-127",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-11-19_2021_11_19_clarkson_platou_hellas_sp_weekly_bulletin_127__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-11-19_2021_11_19_clarkson_platou_hellas_sp_weekly_bulletin_127",
+      "parent_id": "hellenic_shipbuilding_2021-11-19_2021_11_19_clarkson_platou_hellas_sp_weekly_bulletin_127__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING : A relatively quiet week in the market with deals only surfacing in the dry bulk space. Yangzijiang have announced contracts\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "announced",
+        "building",
+        "clarkson",
+        "contracts",
+        "deals",
+        "hellas",
+        "ltd",
+        "new"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-11-19_2021_11_19_clarkson_platou_hellas_sp_weekly_bulletin_127__s02_linked_asset_2021_11_19_clarkson_platou_hellas_sp_weekly_bulletin_127_report_19_11_2021_0b64ae6557af_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-11-19_2021_11_19_clarkson_platou_hellas_sp_weekly_bulletin_127",
+      "parent_id": "hellenic_shipbuilding_2021-11-19_2021_11_19_clarkson_platou_hellas_sp_weekly_bulletin_127__root",
+      "title": "Linked asset: 2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf",
+      "section_path": [
+        "Linked asset: 2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-11-19_clarkson-platou-hellas-sp-weekly-bulletin-127_report-19-11-2021_0b64ae6557af.pdf\n\n[Page 1]\nSale and Purchase\nHellas S&P Weekly Bulletin 19 November 2021\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 08/23\nBUNJI 98,704 2013 TSUNEISHI ZHOUSHAN MAN-B&W 6S60MC-C RGN USD 23 M EUROPEANS\nDD 08/23\nSS 08/22\nSM AURORA 81,970 2012 JIANGSU EASTERN MAN-B&W 6S60MC-C8 RGN/XS USD 21 M CHINESE\nDD 08/22\nMAN-B&W 5S60ME-C8 SS 06/22\nSTAR CRIOS 63,301 2012 SINOPACIFIC DAYANG USD 21.5 M GREEKS\n4 x 36 T DD 06/22\nMAN-B&W 6S50ME-B9.3\nSS 01/23\nNORD COLORADO 60,396 2018 OSHIMA 4 x 30 T XS USD 32 M U/D\nDD 01/23\nBWTS & Scrubber fitted\nMITSUBISHI 6UEC50LSII\nSS 02/26\nCHERRY DREAM 51,703 2011 OSHIMA 4 x 30 T USD 17.5 M U/D\nDD 02/24\nBWTS fitted, OHBH\nMITSUBISHI 6UEC52LA SS 10/22\nSUPER LYDIA 37,406 2007 SAIKI LOW/MID USD 13 M TURKISH\n4 x 30 T DD 10/22\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nSS 02/22\nPTI RHINE 51,218\nDD 02/22\nMAN-B&W 6S50MC-C\n2007 STX USD 9.8 M U/D\n12 Pumps\nSS 03/22\nPTI AMAZON 51,274\nDD 03/22\nMAN-B&W 6S50MC-C8.1 SS 11/21\nSEAWAYS BODIE 37,725 2006 HMD HIGH USD 7 M U/D\nIce 1A DD 11/21\nPage 1 of 3\n\n[P",
+      "keywords": [
+        "lng",
+        "lpg",
+        "china",
+        "pacific",
+        "europe",
+        "india",
+        "japan",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2028,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

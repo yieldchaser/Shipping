@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2021-07-13_2021_07_13_weekly_vessel_valuations_report_july_13_2021__root",
+  "doc_id": "hellenic_vessel_valuations_2021-07-13_2021_07_13_weekly_vessel_valuations_report_july_13_2021",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, July 13 2021",
+  "section_path": [
+    "Weekly Vessel Valuations Report, July 13 2021"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, July 13 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker: Tanker values have remained stable. VLCC Olympic Legend (309,300 DWT, Sep 2003, Samsung) sold to UAE buyers for USD 31.00 mil, VV value USD 29.31 mil. LR2s Lion and Hull 170 (114,000 DWT, Aug 2021, Hanjin Subic) sold to USA buyers in an en bloc deal for USD 110.00 mil, VV en bloc value USD 106.94 mil - Resale.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "container",
+    "usd",
+    "mil",
+    "dwt",
+    "sold",
+    "value",
+    "buyers"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1522,
+  "source_path": "reports/hellenic/vessel_valuations/2021/2021-07-13_weekly-vessel-valuations-report-july-13-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-july-13-2021",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2021-07-13_2021_07_13_weekly_vessel_valuations_report_july_13_2021__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2021-07-13_2021_07_13_weekly_vessel_valuations_report_july_13_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-07-13_2021_07_13_weekly_vessel_valuations_report_july_13_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Tanker: Tanker values have remained stable. VLCC Olympic Legend (309,300 DWT, Sep 2003, Samsung) sold to UAE buyers for USD 31.00 mil, VV value USD 29.31 mil.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "usd",
+        "mil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 674,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2021-07-13_2021_07_13_weekly_vessel_valuations_report_july_13_2021__s02_linked_asset_2021_07_13_weekly_vessel_valuations_report_july_13_2021_img1_20210713_7f025d0afa53_jpg",
+      "doc_id": "hellenic_vessel_valuations_2021-07-13_2021_07_13_weekly_vessel_valuations_report_july_13_2021",
+      "parent_id": "hellenic_vessel_valuations_2021-07-13_2021_07_13_weekly_vessel_valuations_report_july_13_2021__root",
+      "title": "Linked asset: 2021-07-13_weekly-vessel-valuations-report-july-13-2021_img1_20210713_7f025d0afa53.jpg",
+      "section_path": [
+        "Linked asset: 2021-07-13_weekly-vessel-valuations-report-july-13-2021_img1_20210713_7f025d0afa53.jpg"
+      ],
+      "section_path_text": "Linked asset: 2021-07-13_weekly-vessel-valuations-report-july-13-2021_img1_20210713_7f025d0afa53.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2021/assets/2021-07-13_weekly-vessel-valuations-report-july-13-2021_img1_20210713_7f025d0afa53.jpg\n\nLinked image asset: 2021-07-13_weekly-vessel-valuations-report-july-13-2021_img1_20210713_7f025d0afa53.jpg\n\nImage metadata: JPEG 678x309 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\n13 July 2021 VV Mini Matrix - Weekly Change\nTankers Bulkers Containers\nAge VLCC Suez Afra' =-sLR1 MR Cape Pmax Supra Handy bibl Pmax Handy Fmax\n0 0.0% -0.1% 0.6% +0.4% 0.0% +0.5% +1.0% +2.2% +0.6% +2.3% +2.5% +2.5% +2.4%\n320K___160K__110K 75K 50K 180K 82K 60K 37K 7000 __ 4250 __1750__1100\n5 0.0% -0.1% 0.5% +0.3% 0.0% +0.8% +1.6% +2.2% +0.6% +3.5% +2.8% +1.6% +0.9%\n320K___160K__110K 75K 50K 180K 80K 60K 30K 7000 __ 4250 __‘1750__1100\n40 0.0% 40.1% 0.6% -0.2% 0.0% +1.0% +1.9% +2.2% +1.4% +4.0% +3.1% +2.7% +1.0%\n310K _160K__110K 75K 50K 180K 80K 60K 30K 7000 4250 ~_(‘1750__1100\n16 0.0% 40.2% 0.9% 0.8% 0.0% +1.0% +1.8% +2.2% +2.5% +3.9% +3.4% +6.2% +2.7%\n310K __ 160K __110K 70K 45K 180K 75K 55K 30K 7000 4250 (‘1750 ~_‘1100\n20 0.0% 40.4% 0.0% 0.0% 0.0% 0.0% +1.6% +2.2% +3.8% +3.5% +3.8% +12.0% +5.3%\n300K 155K __ 105K 70K 45K 175K 75K 50K 30K 6500 4000 ~-_-*",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "asset",
+        "handy",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 805,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

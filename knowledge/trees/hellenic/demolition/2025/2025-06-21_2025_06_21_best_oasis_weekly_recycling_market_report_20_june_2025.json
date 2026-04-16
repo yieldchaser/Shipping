@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2025-06-21_2025_06_21_best_oasis_weekly_recycling_market_report_20_june_2025__root",
+  "doc_id": "hellenic_demolition_2025-06-21_2025_06_21_best_oasis_weekly_recycling_market_report_20_june_2025",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 20 June 2025",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 20 June 2025"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 20 June 2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 21/06/2025\nThis week offered little change across key ship recycling markets, with conditions remaining largely flat and sentiment subdued. Source: Best Oasis Limited\n\nLinked asset: 2025-06-21_Weekly-Ship-Recycling-Report-14-June-20-June-2025_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-06-21_Weekly-Ship-Recycling-Report-14-June-20-June-2025_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n14 June - 20 June 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThis week offered little change across key ship recycling markets, with conditions remaining largely flat and sentiment subdued. Seasonal pressures in India\ncontinued to weigh on activity, as the advancing monsoon dampens steel demand, keeping end users on the sidelines.",
+  "keywords": [
+    "container",
+    "china",
+    "pacific",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "products",
+    "steel",
+    "previous",
+    "limited"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2729,
+  "source_path": "reports/hellenic/demolition/2025/2025-06-21_best-oasis-weekly-recycling-market-report-20-june-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-20-june-2025",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2025-06-21_2025_06_21_best_oasis_weekly_recycling_market_report_20_june_2025__s01_main",
+      "doc_id": "hellenic_demolition_2025-06-21_2025_06_21_best_oasis_weekly_recycling_market_report_20_june_2025",
+      "parent_id": "hellenic_demolition_2025-06-21_2025_06_21_best_oasis_weekly_recycling_market_report_20_june_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 21/06/2025\nThis week offered little change across key ship recycling markets, with conditions remaining largely flat and sentiment subdued.",
+      "keywords": [
+        "best",
+        "change",
+        "conditions",
+        "demolition",
+        "flat",
+        "key",
+        "largely",
+        "limited"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-06-21_2025_06_21_best_oasis_weekly_recycling_market_report_20_june_2025__s02_linked_asset_2025_06_21_weekly_ship_recycling_report_14_june_20_june_2025_compressed_pdf",
+      "doc_id": "hellenic_demolition_2025-06-21_2025_06_21_best_oasis_weekly_recycling_market_report_20_june_2025",
+      "parent_id": "hellenic_demolition_2025-06-21_2025_06_21_best_oasis_weekly_recycling_market_report_20_june_2025__root",
+      "title": "Linked asset: 2025-06-21_Weekly-Ship-Recycling-Report-14-June-20-June-2025_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2025-06-21_Weekly-Ship-Recycling-Report-14-June-20-June-2025_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-06-21_Weekly-Ship-Recycling-Report-14-June-20-June-2025_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-06-21_Weekly-Ship-Recycling-Report-14-June-20-June-2025_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n14 June - 20 June 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThis week offered little change across key ship recycling markets, with conditions remaining largely flat and sentiment subdued. Seasonal pressures in India\ncontinued to weigh on activity, as the advancing monsoon dampens steel demand, keeping end users on the sidelines.",
+      "keywords": [
+        "container",
+        "china",
+        "pacific",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2653,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2024-01-26_2024_01_26_clarksons_platou_hellas_snp_weekly_bulletin_104__root",
+  "doc_id": "hellenic_shipbuilding_2024-01-26_2024_01_26_clarksons_platou_hellas_snp_weekly_bulletin_104",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, it has been reported that Euronav ordered one firm 319k dwt VLCC at Qingdao Beihai, with the vessel expected to deliver in 1H 2027. Source: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 26 Jan 2024\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nCHARLOTTE MAN B. 6S60MC6.2\n93,273 2010 YANGFAN BWTS fitted SS 02/25 USD 15.5 GREEKS\nOLDENDORFF DD 02/25\nSCRUBBER fiited\nSEA STAR 56,591 2014 SINOTRANS MAN B & W 6S50MC-C8.2 SS 04/24 RGN USD 16 M U/D\nBWTS fitted DD 04/24\n2013\nTOMORROW 56,025 MAN B & W 6S50MC-C8.2 SS 05/26 USD 18.5 M GREEKS\nMINAMINIPPON BWTS fitted DD 07/24\nMAN B & W 6S50ME-B8.2\nRUI FU XING 37,064 2012 HMD BWTS fitted SS 07/26 USD 16.5 M U/D\nDD 09/25\nOPEN HATCH\nMAN B.",
+  "keywords": [
+    "vlcc",
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "clarksons",
+    "information"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2081,
+  "source_path": "reports/hellenic/shipbuilding/2024/2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-104",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2024-01-26_2024_01_26_clarksons_platou_hellas_snp_weekly_bulletin_104__s01_main",
+      "doc_id": "hellenic_shipbuilding_2024-01-26_2024_01_26_clarksons_platou_hellas_snp_weekly_bulletin_104",
+      "parent_id": "hellenic_shipbuilding_2024-01-26_2024_01_26_clarksons_platou_hellas_snp_weekly_bulletin_104__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, it has been reported that Euronav ordered one firm 319k dwt VLCC at Qingdao Beihai, with the vessel expected to deliver in 1H 2027.",
+      "keywords": [
+        "vlcc",
+        "beihai",
+        "building",
+        "clarkson",
+        "deliver",
+        "dwt",
+        "euronav",
+        "expected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 57,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2024-01-26_2024_01_26_clarksons_platou_hellas_snp_weekly_bulletin_104__s02_linked_asset_2024_01_26_clarksons_platou_hellas_snp_weekly_bulletin_104_report_26_01_2024_eea3a0e52d4f_pdf",
+      "doc_id": "hellenic_shipbuilding_2024-01-26_2024_01_26_clarksons_platou_hellas_snp_weekly_bulletin_104",
+      "parent_id": "hellenic_shipbuilding_2024-01-26_2024_01_26_clarksons_platou_hellas_snp_weekly_bulletin_104__root",
+      "title": "Linked asset: 2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf",
+      "section_path": [
+        "Linked asset: 2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2024-01-26_clarksons-platou-hellas-snp-weekly-bulletin-104_report-26-01-2024_eea3a0e52d4f.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 26 Jan 2024\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nCHARLOTTE MAN B. 6S60MC6.2\n93,273 2010 YANGFAN BWTS fitted SS 02/25 USD 15.5 GREEKS\nOLDENDORFF DD 02/25\nSCRUBBER fiited\nSEA STAR 56,591 2014 SINOTRANS MAN B & W 6S50MC-C8.2 SS 04/24 RGN USD 16 M U/D\nBWTS fitted DD 04/24\n2013\nTOMORROW 56,025 MAN B & W 6S50MC-C8.2 SS 05/26 USD 18.5 M GREEKS\nMINAMINIPPON BWTS fitted DD 07/24\nMAN B & W 6S50ME-B8.2\nRUI FU XING 37,064 2012 HMD BWTS fitted SS 07/26 USD 16.5 M U/D\nDD 09/25\nOPEN HATCH\nMAN B.",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1974,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

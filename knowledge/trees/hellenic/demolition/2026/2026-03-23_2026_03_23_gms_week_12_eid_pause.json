@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__root",
+  "doc_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause",
+  "parent_id": null,
+  "title": "GMS Week 12 - EID PAUSE!",
+  "section_path": [
+    "GMS Week 12 - EID PAUSE!"
+  ],
+  "section_path_text": "GMS Week 12 - EID PAUSE!",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nEid al-Fitr has arrived to greet the world's ship recycling markets this week, and as is tradition, it came bearing the giftof silence. From Chattogram to Gadani, Alang to Aliağa, the holy festival has pressed pause on an industry that was already beginning to feel the compounding weight of war, currency volatility, and a stubborn absence of fresh tonnage offerings. The backdrop to this year's Eid break is, to put it charitably, anything but restful.",
+  "keywords": [
+    "vlcc",
+    "lng",
+    "container",
+    "china",
+    "brazil",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "steel",
+    "gas"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 7198,
+  "source_path": "reports/hellenic/demolition/2026/2026-03-23_gms-week-12-eid-pause.html",
+  "source_url": "https://www.hellenicshippingnews.com/gms-week-12-eid-pause",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__s01_main",
+      "doc_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause",
+      "parent_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Eid al-Fitr has arrived to greet the world's ship recycling markets this week, and as is tradition, it came bearing the giftof silence. From Chattogram to Gadani, Alang to Aliağa, the holy festival has pressed pause on an industry that was already beginning to feel the compounding weight of war, currency volatility, and a stubborn absence of fresh tonnage offerings.",
+      "keywords": [
+        "lng",
+        "china",
+        "india",
+        "crude_oil",
+        "steel",
+        "gas",
+        "usd",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 570,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__s02_linked_asset_2026_03_23_gms_week_12_eid_pause_23022026chinese34_70da5799f2fe_jpg",
+      "doc_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause",
+      "parent_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__root",
+      "title": "Linked asset: 2026-03-23_gms-week-12-eid-pause_23022026chinese34_70da5799f2fe.jpg",
+      "section_path": [
+        "Linked asset: 2026-03-23_gms-week-12-eid-pause_23022026chinese34_70da5799f2fe.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-03-23_gms-week-12-eid-pause_23022026chinese34_70da5799f2fe.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/2026/assets/2026-03-23_gms-week-12-eid-pause_23022026chinese34_70da5799f2fe.jpg\n\nLinked image asset: 2026-03-23_gms-week-12-eid-pause_23022026chinese34_70da5799f2fe.jpg\n\nImage metadata: JPEG 977x217 mode=RGB\n\nEmbedded info:\ndpi: (120, 120)\n\nOCR text:\né : Dry Bulk Tankers Containers\npints | Weetics Sentiment ~~ Usp /LDI_ ‘USD/LDT__‘ USD/ LDT\n[4 [Turkey [Steady | 270/LbT | 280/LDT | 290/LDT",
+      "keywords": [
+        "container",
+        "china",
+        "ldt",
+        "asset",
+        "image",
+        "containers",
+        "dpi",
+        "embedded"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 168,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__s03_linked_asset_2026_03_23_gms_week_12_eid_pause_ship_recycling_market_insight_week_1_72991ef34173_pdf",
+      "doc_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause",
+      "parent_id": "hellenic_demolition_2026-03-23_2026_03_23_gms_week_12_eid_pause__root",
+      "title": "Linked asset: 2026-03-23_gms-week-12-eid-pause_ship-recycling-market-insight-week-1_72991ef34173.pdf",
+      "section_path": [
+        "Linked asset: 2026-03-23_gms-week-12-eid-pause_ship-recycling-market-insight-week-1_72991ef34173.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-03-23_gms-week-12-eid-pause_ship-recycling-market-insight-week-1_72991ef34173.pdf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-03-23_gms-week-12-eid-pause_ship-recycling-market-insight-week-1_72991ef34173.pdf\n\n[Page 1]\n1. ` *I\n, l'\n-+Ali / +N\nMarch 20 th, 2026\n1\n\\\nWeek 12\n\"Great works are performed not by strength but by perseverance.\"\nVolume 2 82, Issue 1227 -Samuel Johnson\nHighlights: -- MARKET COMMENTARY --\nClick \"Ctrl\" + below to launch the GMS Weekly Summary Podcast\n\"There are only two options reg arding commitment.",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "container",
+        "china",
+        "brazil",
+        "europe",
+        "india",
+        "singapore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 6384,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

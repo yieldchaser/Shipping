@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-01-28_2025_01_28_breakwave_tanker_report_1_28_2025__root",
+  "doc_id": "hellenic_shipbuilding_2025-01-28_2025_01_28_breakwave_tanker_report_1_28_2025",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 1.28.2025",
+  "section_path": [
+    "Breakwave Tanker Report 1.28.2025"
+  ],
+  "section_path_text": "Breakwave Tanker Report 1.28.2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC Market Cools Amid Sanctions, Holiday Slowdown, and Increased Uncertainty - The VLCC (Very Large Crude Carrier)\nSource: Breakwave Advisors\n\nLinked asset: 2025-01-28_breakwave-tanker-report-1-28-2025_breakwavetankersjanuary282025report_2ef929b464a5.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2025-01-28_breakwave-tanker-report-1-28-2025_breakwavetankersjanuary282025report_2ef929b464a5.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJanuary 28, 2025\nBreakwave Tanker Futures Index: 1,214 VLCC Middle East-Asia Spot Rates: 10.97 Short-term Indicators:\n↑ 30D: 12.2% ↑ 30D: 22.2% Momentum: Negative\n↑ YTD: 12.2% ↓ YTD: 22.2% Sentiment: Neutral\n↑ YOY: -8.4% ↑ YOY: -12.7% Fundamentals: Neutral\nBi-Weekly Report\n• VLCC Market Cools Amid Sanctions, Holiday Slowdown, and Increased Uncertainty - The VLCC (Very Large Crude Carrier)\nfreight market, which experienced a significant surge earlier this month following the implementation of new Russian\nshipping sanctions, has rapidly cooled as January nears its end. The market outlook remains uncertain due to the\nunpredictable effects of these sanctions. Speculation suggests that Russia may still be utilizing or expanding its \"shadow\nfleet\"-vessels o",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "west_africa",
+    "europe",
+    "crude_oil",
+    "products",
+    "gas",
+    "oil",
+    "crude",
+    "prices",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1488,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-01-28_breakwave-tanker-report-1-28-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-1-28-2025",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-01-28_2025_01_28_breakwave_tanker_report_1_28_2025__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-01-28_2025_01_28_breakwave_tanker_report_1_28_2025",
+      "parent_id": "hellenic_shipbuilding_2025-01-28_2025_01_28_breakwave_tanker_report_1_28_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Market Cools Amid Sanctions, Holiday Slowdown, and Increased Uncertainty - The VLCC (Very Large Crude Carrier)\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "amid",
+        "carrier",
+        "cools",
+        "crude",
+        "holiday",
+        "increased",
+        "large"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 33,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-01-28_2025_01_28_breakwave_tanker_report_1_28_2025__s02_linked_asset_2025_01_28_breakwave_tanker_report_1_28_2025_breakwavetankersjanuary282025report_2ef929b464a5_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-01-28_2025_01_28_breakwave_tanker_report_1_28_2025",
+      "parent_id": "hellenic_shipbuilding_2025-01-28_2025_01_28_breakwave_tanker_report_1_28_2025__root",
+      "title": "Linked asset: 2025-01-28_breakwave-tanker-report-1-28-2025_breakwavetankersjanuary282025report_2ef929b464a5.pdf",
+      "section_path": [
+        "Linked asset: 2025-01-28_breakwave-tanker-report-1-28-2025_breakwavetankersjanuary282025report_2ef929b464a5.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-01-28_breakwave-tanker-report-1-28-2025_breakwavetankersjanuary282025report_2ef929b464a5.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-01-28_breakwave-tanker-report-1-28-2025_breakwavetankersjanuary282025report_2ef929b464a5.pdf\n\n[Page 1]\nBWET\nTanker Shipping\nJanuary 28, 2025\nBreakwave Tanker Futures Index: 1,214 VLCC Middle East-Asia Spot Rates: 10.97 Short-term Indicators:\n↑ 30D: 12.2% ↑ 30D: 22.2% Momentum: Negative\n↑ YTD: 12.2% ↓ YTD: 22.2% Sentiment: Neutral\n↑ YOY: -8.4% ↑ YOY: -12.7% Fundamentals: Neutral\nBi-Weekly Report\n• VLCC Market Cools Amid Sanctions, Holiday Slowdown, and Increased Uncertainty - The VLCC (Very Large Crude Carrier)\nfreight market, which experienced a significant surge earlier this month following the implementation of new Russian\nshipping sanctions, has rapidly cooled as January nears its end. The market outlook remains uncertain due to the\nunpredictable effects of these sanctions.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "products",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1410,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

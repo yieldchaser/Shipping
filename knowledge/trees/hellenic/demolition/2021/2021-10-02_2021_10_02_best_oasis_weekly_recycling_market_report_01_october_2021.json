@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-10-02_2021_10_02_best_oasis_weekly_recycling_market_report_01_october_2021__root",
+  "doc_id": "hellenic_demolition_2021-10-02_2021_10_02_best_oasis_weekly_recycling_market_report_01_october_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 01 October 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 01 October 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 01 October 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe sharp volatility in Iron ore and steel prices has revealed the influence of China on the global commodity markets\nSource: Best Oasis Limited\n\nLinked asset: 2021-10-02_best-oasis-weekly-recycling-market-report-01-october-2021_weekly-ship-recycling-report-1_96d694d812df.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-10-02_best-oasis-weekly-recycling-market-report-01-october-2021_weekly-ship-recycling-report-1_96d694d812df.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n24 th September to 1st October 2021\nHighlights of the Week\nT he sharp volatility in Iron ore and steel prices has revealed the influence of\njhhnhu\nChi na on the global commodity markets. The sentiments of recyclers have\nbeen highly affected with these steep movements, but one should not\noverlook the fact that the prevailing prices in the subcontinent market are\nsubstantially higher in comparison to the prices before this unexpected\nsharp rise which made them cross the USD 600 mark and the owners are\nstill getting a great value for their aging assets. Currently very few deals are\nbeing finalized due to weak sentiments, but the tonnage supply has\nrelatively improved than the previous week.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "us_gulf",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "october",
+    "previous"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1999,
+  "source_path": "reports/hellenic/demolition/2021/2021-10-02_best-oasis-weekly-recycling-market-report-01-october-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-01-october-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-10-02_2021_10_02_best_oasis_weekly_recycling_market_report_01_october_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-10-02_2021_10_02_best_oasis_weekly_recycling_market_report_01_october_2021",
+      "parent_id": "hellenic_demolition_2021-10-02_2021_10_02_best_oasis_weekly_recycling_market_report_01_october_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The sharp volatility in Iron ore and steel prices has revealed the influence of China on the global commodity markets\nSource: Best Oasis Limited",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "best",
+        "commodity",
+        "global",
+        "influence",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 26,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-10-02_2021_10_02_best_oasis_weekly_recycling_market_report_01_october_2021__s02_linked_asset_2021_10_02_best_oasis_weekly_recycling_market_report_01_october_2021_weekly_ship_recycling_report_1_96d694d812df_pdf",
+      "doc_id": "hellenic_demolition_2021-10-02_2021_10_02_best_oasis_weekly_recycling_market_report_01_october_2021",
+      "parent_id": "hellenic_demolition_2021-10-02_2021_10_02_best_oasis_weekly_recycling_market_report_01_october_2021__root",
+      "title": "Linked asset: 2021-10-02_best-oasis-weekly-recycling-market-report-01-october-2021_weekly-ship-recycling-report-1_96d694d812df.pdf",
+      "section_path": [
+        "Linked asset: 2021-10-02_best-oasis-weekly-recycling-market-report-01-october-2021_weekly-ship-recycling-report-1_96d694d812df.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-10-02_best-oasis-weekly-recycling-market-report-01-october-2021_weekly-ship-recycling-report-1_96d694d812df.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-10-02_best-oasis-weekly-recycling-market-report-01-october-2021_weekly-ship-recycling-report-1_96d694d812df.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nRECYCLING\nREPORT\n24 th September to 1st October 2021\nHighlights of the Week\nT he sharp volatility in Iron ore and steel prices has revealed the influence of\njhhnhu\nChi na on the global commodity markets. The sentiments of recyclers have\nbeen highly affected with these steep movements, but one should not\noverlook the fact that the prevailing prices in the subcontinent market are\nsubstantially higher in comparison to the prices before this unexpected\nsharp rise which made them cross the USD 600 mark and the owners are\nstill getting a great value for their aging assets.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "us_gulf",
+        "singapore",
+        "japan",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1925,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

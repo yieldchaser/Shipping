@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-04-29_2022_04_29_clarksons_platou_hellas_snp_weekly_bulletin_16__root",
+  "doc_id": "hellenic_shipbuilding_2022-04-29_2022_04_29_clarksons_platou_hellas_snp_weekly_bulletin_16",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNEW BUILDING: This week, in the gas carrier sector, CNOOC announced ordering six firm 174k CBM LNG Carriers at Hudong Zhonghua\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-04-29_clarksons-platou-hellas-snp-weekly-bulletin-16_report-29-04-2022_957b95e87877.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-04-29_clarksons-platou-hellas-snp-weekly-bulletin-16_report-29-04-2022_957b95e87877.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 29 April 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S70MC-C SS 09/25\nAZUL LEGENDA 206,331 2008 IMABARI MID USD 26 M GERMANS\nBWTS fitted DD 10/23\nMAN-B&W 6S60MC SS 01/25\nGREAT ASPIRATION 93,297 2010 CSC JINLING HIGH USD 17 M U/D\nBWTS fitted DD 08/22\nMAN-B&W 6S60MC SS 10/24\nGREAT CHEER 93,297 2009 CSC JINLING HIGH USD 16 M U/D\nBWTS fitted DD 12/22\nSS 07/22 USD 22.32 M\nMSXT OCEANUS 81,642 2012 DAEWOO MAN-B&W 6S60MC-C8 CHINESE\nDD 07/22 (Online auction)\nSS 09/23\nSITC ZHOUSHAN 76,195\nDD 09/23 USD 22 M\nMAN-B&W 5S60MC-C7.1\n2013 ZHEJIANG YANGFAN each U/D\nBWTS fitted\nSS 11/23\nSITC LUSHAN 76,132\nDD 11/23\nMAN-B&W 6S50MC-C SS 07/22\nASIAN CHAMPION 56,943 2012 COSCO ZHOUSHAN LOW USD 19 M U/D\n4 X 36 T DD ",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "west_africa",
+    "europe",
+    "india",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "gas",
+    "any"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2357,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-04-29_clarksons-platou-hellas-snp-weekly-bulletin-16.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-16",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-04-29_2022_04_29_clarksons_platou_hellas_snp_weekly_bulletin_16__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-04-29_2022_04_29_clarksons_platou_hellas_snp_weekly_bulletin_16",
+      "parent_id": "hellenic_shipbuilding_2022-04-29_2022_04_29_clarksons_platou_hellas_snp_weekly_bulletin_16__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "NEW BUILDING: This week, in the gas carrier sector, CNOOC announced ordering six firm 174k CBM LNG Carriers at Hudong Zhonghua\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "lng",
+        "gas",
+        "announced",
+        "building",
+        "carrier",
+        "carriers",
+        "cbm",
+        "clarkson"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 45,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-04-29_2022_04_29_clarksons_platou_hellas_snp_weekly_bulletin_16__s02_linked_asset_2022_04_29_clarksons_platou_hellas_snp_weekly_bulletin_16_report_29_04_2022_957b95e87877_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-04-29_2022_04_29_clarksons_platou_hellas_snp_weekly_bulletin_16",
+      "parent_id": "hellenic_shipbuilding_2022-04-29_2022_04_29_clarksons_platou_hellas_snp_weekly_bulletin_16__root",
+      "title": "Linked asset: 2022-04-29_clarksons-platou-hellas-snp-weekly-bulletin-16_report-29-04-2022_957b95e87877.pdf",
+      "section_path": [
+        "Linked asset: 2022-04-29_clarksons-platou-hellas-snp-weekly-bulletin-16_report-29-04-2022_957b95e87877.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-04-29_clarksons-platou-hellas-snp-weekly-bulletin-16_report-29-04-2022_957b95e87877.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-04-29_clarksons-platou-hellas-snp-weekly-bulletin-16_report-29-04-2022_957b95e87877.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 29 April 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S70MC-C SS 09/25\nAZUL LEGENDA 206,331 2008 IMABARI MID USD 26 M GERMANS\nBWTS fitted DD 10/23\nMAN-B&W 6S60MC SS 01/25\nGREAT ASPIRATION 93,297 2010 CSC JINLING HIGH USD 17 M U/D\nBWTS fitted DD 08/22\nMAN-B&W 6S60MC SS 10/24\nGREAT CHEER 93,297 2009 CSC JINLING HIGH USD 16 M U/D\nBWTS fitted DD 12/22\nSS 07/22 USD 22.32 M\nMSXT OCEANUS 81,642 2012 DAEWOO MAN-B&W 6S60MC-C8 CHINESE\nDD 07/22 (Online auction)\nSS 09/23\nSITC ZHOUSHAN 76,195\nDD 09/23 USD 22 M\nMAN-B&W 5S60MC-C7.1\n2013 ZHEJIANG YANGFAN each U/D\nBWTS fitted\nSS 11/23\nSITC LUSHAN 76,132\nDD 11/23\nMAN-B&W 6S50MC-C SS 07/22\nASIAN CHAMPION 56,943 2012 COSCO ZHOUSHAN LOW USD 19 M U/D\n4 X 36 T DD 07/22\nMAN-B&W 6S46MC-C7.2 USD 17.7 M\nSS 09/24\nLEIA 38,271 2010 IMABARI 4 X 30 T (TC attached at 13,7k pd till U/D\nDD 09/22\nBWTS fitted July '23)\nMAN-B&W 6S46MC-C\nSS 10/25\nPROMISE 3 32,311 2010 SAMHO 4 X 30 T RGN USD 17 M S. KOREAN\nDD 04/23\nBWTS fitted\nTANKERS - CHEMICALS - LPG",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "west_africa",
+        "europe",
+        "india",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2265,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

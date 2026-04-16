@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2022-07-15_2022_07_15_clarksons_platou_hellas_snp_weekly_bulletin_27__root",
+  "doc_id": "hellenic_shipbuilding_2022-07-15_2022_07_15_clarksons_platou_hellas_snp_weekly_bulletin_27",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nIn tankers this week, Hyundai Vinashin announced taking orders for three firm 115k dwt LR2 Product Tankers\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2022-07-15_clarksons-platou-hellas-snp-weekly-bulletin-27_report-15-07-2022_1a9a5af86a40.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2022-07-15_clarksons-platou-hellas-snp-weekly-bulletin-27_report-15-07-2022_1a9a5af86a40.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 15 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50ME-B9.3\nSS 08/26\nSOHO MANDATE 61,436 2016 DACKS 4 x 30 T USD 31 M CHINESE\nDD 09/24\nBWTS fitted\nMAN-B&W 6S50MC-C8.1\nSS 05/26\nOREO 55,430 2008 KAWASAKI 4 x 30 T USD 19.35 M U/D\nDD 08/24\nBWTS fitted\nMAN-B&W 6S42MC\nSS 01/27\nYANGTZE SPIRIT 35,169 2012 NANJING DONGZE 4 x 30 T RGN USD 17 M U/D\nDD 01/25\nBWTS fitted, Tier II\nMAN-B&W 5S50MC-C8.2\nSS 11/26\nJUN DE 34,420 2011 SPP 4 x 35 T RGN USD 17 M U/D\nDD 08/24\nBWTS fitted, Tier II\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S46MC-C7.1\nSS 12/25\nSTENA PARIS 65,125 2005 BRODOSPLIT Ice-1A, Epoxy RGN USD 15 M U/D\nDD 12/25\nBWTS fitted\nMAN-B&W 6S50MC-C SS 05/23\nSUNNY BAY 50,100 2008 SP",
+  "keywords": [
+    "lng",
+    "lpg",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "steel",
+    "gas",
+    "any",
+    "information",
+    "clarksons",
+    "platou"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2298,
+  "source_path": "reports/hellenic/shipbuilding/2022/2022-07-15_clarksons-platou-hellas-snp-weekly-bulletin-27.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-27",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2022-07-15_2022_07_15_clarksons_platou_hellas_snp_weekly_bulletin_27__s01_main",
+      "doc_id": "hellenic_shipbuilding_2022-07-15_2022_07_15_clarksons_platou_hellas_snp_weekly_bulletin_27",
+      "parent_id": "hellenic_shipbuilding_2022-07-15_2022_07_15_clarksons_platou_hellas_snp_weekly_bulletin_27__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "In tankers this week, Hyundai Vinashin announced taking orders for three firm 115k dwt LR2 Product Tankers\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "tankers",
+        "announced",
+        "clarkson",
+        "dwt",
+        "firm",
+        "hellas",
+        "hyundai",
+        "lr2"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 37,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2022-07-15_2022_07_15_clarksons_platou_hellas_snp_weekly_bulletin_27__s02_linked_asset_2022_07_15_clarksons_platou_hellas_snp_weekly_bulletin_27_report_15_07_2022_1a9a5af86a40_pdf",
+      "doc_id": "hellenic_shipbuilding_2022-07-15_2022_07_15_clarksons_platou_hellas_snp_weekly_bulletin_27",
+      "parent_id": "hellenic_shipbuilding_2022-07-15_2022_07_15_clarksons_platou_hellas_snp_weekly_bulletin_27__root",
+      "title": "Linked asset: 2022-07-15_clarksons-platou-hellas-snp-weekly-bulletin-27_report-15-07-2022_1a9a5af86a40.pdf",
+      "section_path": [
+        "Linked asset: 2022-07-15_clarksons-platou-hellas-snp-weekly-bulletin-27_report-15-07-2022_1a9a5af86a40.pdf"
+      ],
+      "section_path_text": "Linked asset: 2022-07-15_clarksons-platou-hellas-snp-weekly-bulletin-27_report-15-07-2022_1a9a5af86a40.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2022-07-15_clarksons-platou-hellas-snp-weekly-bulletin-27_report-15-07-2022_1a9a5af86a40.pdf\n\n[Page 1]\n`\nSale and Purchase\nHellas S&P Weekly Bulletin 15 July 2022\nBULK CARRIERS\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S50ME-B9.3\nSS 08/26\nSOHO MANDATE 61,436 2016 DACKS 4 x 30 T USD 31 M CHINESE\nDD 09/24\nBWTS fitted\nMAN-B&W 6S50MC-C8.1\nSS 05/26\nOREO 55,430 2008 KAWASAKI 4 x 30 T USD 19.35 M U/D\nDD 08/24\nBWTS fitted\nMAN-B&W 6S42MC\nSS 01/27\nYANGTZE SPIRIT 35,169 2012 NANJING DONGZE 4 x 30 T RGN USD 17 M U/D\nDD 01/25\nBWTS fitted, Tier II\nMAN-B&W 5S50MC-C8.2\nSS 11/26\nJUN DE 34,420 2011 SPP 4 x 35 T RGN USD 17 M U/D\nDD 08/24\nBWTS fitted, Tier II\nTANKERS - CHEMICALS - LPG/LNGs\nVESSEL DWT BLT DETAILS SS/DD PRICE BUYER\nMAN-B&W 6S46MC-C7.1\nSS 12/25\nSTENA PARIS 65,125 2005 BRODOSPLIT Ice-1A, Epoxy RGN USD 15 M U/D\nDD 12/25\nBWTS fitted\nMAN-B&W 6S50MC-C SS 05/23\nSUNNY BAY 50,100 2008 SPP HIGH USD 17 M CHINESE\n12 Pumps, IMO III DD 05/23\nMAN-B&W 6S50MC-C SS 10/22\nEASTERN KALMIA 49,700 2007 SLS USD 14.7 M F. EASTERNS\n3 Pumps DD 10/22\nSS 05/24\nHAFNIA ROBSON\nDD 05/24\n39,997 2004 SAIKI MITSUBISHI 6UEC52LS RGN USD 12 M TURKISH\nSS 08/24\nHAFNIA AD",
+      "keywords": [
+        "lng",
+        "lpg",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "steel",
+        "gas"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2211,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

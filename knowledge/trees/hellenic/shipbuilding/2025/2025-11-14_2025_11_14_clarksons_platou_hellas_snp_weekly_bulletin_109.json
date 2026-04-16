@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2025-11-14_2025_11_14_clarksons_platou_hellas_snp_weekly_bulletin_109__root",
+  "doc_id": "hellenic_shipbuilding_2025-11-14_2025_11_14_clarksons_platou_hellas_snp_weekly_bulletin_109",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDry Cargo\nWith Bahri Week in Dubai underway, the S&P market has seen the anticipated slowdown in activity.Only a limited number of transactions have been concluded, notably the following:\nOn the Handymax segment, the YANGTZE NOVA (abt 47k dwt, built 2013, Jiangsu Eastern) sold for a price in the region of USD 12m, and the Handysize, the EMIL SELMER (abt 32k dwt, built 2010, Jiangsu Zhenjiang) has also been sold at range USD 8m basis surveys due and prompt delivery in China. Tanker\nSimilar pattern on the wet side as well, where UAE-based buyers acquired this week a couple of pumproom-type MR2s from Maersk Tankers. Specifically, the MAERSK MISSISSIPPI and the MAERSK MARU (abt 48k dwt, built 2011 and 2010 Iwagi) changed hands for USD 44m enbloc.",
+  "keywords": [
+    "handysize",
+    "china",
+    "any",
+    "information",
+    "clarksons",
+    "usd",
+    "built",
+    "its",
+    "dwt",
+    "maersk",
+    "abt",
+    "connected"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1654,
+  "source_path": "reports/hellenic/shipbuilding/2025/2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-109",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2025-11-14_2025_11_14_clarksons_platou_hellas_snp_weekly_bulletin_109__s01_main",
+      "doc_id": "hellenic_shipbuilding_2025-11-14_2025_11_14_clarksons_platou_hellas_snp_weekly_bulletin_109",
+      "parent_id": "hellenic_shipbuilding_2025-11-14_2025_11_14_clarksons_platou_hellas_snp_weekly_bulletin_109__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dry Cargo\nWith Bahri Week in Dubai underway, the S&P market has seen the anticipated slowdown in activity.Only a limited number of transactions have been concluded, notably the following:\nOn the Handymax segment, the YANGTZE NOVA (abt 47k dwt, built 2013, Jiangsu Eastern) sold for a price in the region of USD 12m, and the Handysize, the EMIL SELMER (abt 32k dwt, built 2010, Jiangsu Zhenjiang) has also been sold at range USD 8m basis surveys due and prompt delivery in China. Tanker\nSimilar pattern on the wet side as well, where UAE-based buyers acquired this week a couple of pumproom-type MR2s from Maersk Tankers.",
+      "keywords": [
+        "handysize",
+        "china",
+        "built",
+        "usd",
+        "abt",
+        "dwt",
+        "maersk",
+        "sold"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 269,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2025-11-14_2025_11_14_clarksons_platou_hellas_snp_weekly_bulletin_109__s02_linked_asset_2025_11_14_clarksons_platou_hellas_snp_weekly_bulletin_109_weekly_sales_14th_nov_2025_2d03d8afcd10_pdf",
+      "doc_id": "hellenic_shipbuilding_2025-11-14_2025_11_14_clarksons_platou_hellas_snp_weekly_bulletin_109",
+      "parent_id": "hellenic_shipbuilding_2025-11-14_2025_11_14_clarksons_platou_hellas_snp_weekly_bulletin_109__root",
+      "title": "Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf",
+      "section_path": [
+        "Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2025-11-14_clarksons-platou-hellas-snp-weekly-bulletin-109_weekly-sales-14th-nov-2025_2d03d8afcd10.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nDry Cargo\nWith Bahri Week in Dubai underway, the S&P market has seen the anticipated slowdown in activity.",
+      "keywords": [
+        "handysize",
+        "china",
+        "any",
+        "information",
+        "clarksons",
+        "its",
+        "connected",
+        "loss"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1333,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

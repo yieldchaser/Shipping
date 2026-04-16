@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2021-08-04_2021_08_04_breakwave_dry_bulk_shipping_report_03_08_2021__root",
+  "doc_id": "hellenic_shipbuilding_2021-08-04_2021_08_04_breakwave_dry_bulk_shipping_report_03_08_2021",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 03.08.2021",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 03.08.2021"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 03.08.2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nSmooth summer sailing for dry bulk but \"stormy clouds\" are likely gathering in the horizon\nSource: Breakwave Advisors\n\nLinked asset: 2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021_breakwaveaugust32021report_7e25182e8219.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021_breakwaveaugust32021report_7e25182e8219.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nAugust 3, 2021\nBreakwave Dry Futures Index: 3,417 Baltic Dry Index (spot): 3,282 Short-term Indicators:\n↓ 30D: -0.5% ↓ 30D: -0.1% Momentum: Neutral\n↑ YTD: 244.9% ↑ YTD: 140.3% Sentiment: Neutral\n↑ YOY: 121.7% ↑ YOY: 143.1% Fundamentals: Positive\nBi-Weekly Report\n• Smooth summer sailing for dry bulk but \"stormy clouds\" are likely gathering in the horizon - The last few weeks\nhave been characterized by a typical summer \"lull\" in both trading activity and actual volumes across the dry bulk\nsector. For Capesizes, the spot market has been rangebound and typical of mid-summer activity, although late last\nweek rates begun to move higher as the market gradually tightened. Iron ore volumes for early September versus\navailable tonnage looks favorable for owners, w",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "iron_ore",
+    "coal",
+    "grain",
+    "products",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1523,
+  "source_path": "reports/hellenic/shipbuilding/2021/2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-03-08-2021",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2021-08-04_2021_08_04_breakwave_dry_bulk_shipping_report_03_08_2021__s01_main",
+      "doc_id": "hellenic_shipbuilding_2021-08-04_2021_08_04_breakwave_dry_bulk_shipping_report_03_08_2021",
+      "parent_id": "hellenic_shipbuilding_2021-08-04_2021_08_04_breakwave_dry_bulk_shipping_report_03_08_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Smooth summer sailing for dry bulk but \"stormy clouds\" are likely gathering in the horizon\nSource: Breakwave Advisors",
+      "keywords": [
+        "are",
+        "but",
+        "clouds",
+        "gathering",
+        "horizon",
+        "likely",
+        "sailing",
+        "smooth"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2021-08-04_2021_08_04_breakwave_dry_bulk_shipping_report_03_08_2021__s02_linked_asset_2021_08_04_breakwave_dry_bulk_shipping_report_03_08_2021_breakwaveaugust32021report_7e25182e8219_pdf",
+      "doc_id": "hellenic_shipbuilding_2021-08-04_2021_08_04_breakwave_dry_bulk_shipping_report_03_08_2021",
+      "parent_id": "hellenic_shipbuilding_2021-08-04_2021_08_04_breakwave_dry_bulk_shipping_report_03_08_2021__root",
+      "title": "Linked asset: 2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021_breakwaveaugust32021report_7e25182e8219.pdf",
+      "section_path": [
+        "Linked asset: 2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021_breakwaveaugust32021report_7e25182e8219.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021_breakwaveaugust32021report_7e25182e8219.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2021-08-04_breakwave-dry-bulk-shipping-report-03-08-2021_breakwaveaugust32021report_7e25182e8219.pdf\n\n[Page 1]\nwww.drybulkETF.com\nDry Bulk Shipping\nAugust 3, 2021\nBreakwave Dry Futures Index: 3,417 Baltic Dry Index (spot): 3,282 Short-term Indicators:\n↓ 30D: -0.5% ↓ 30D: -0.1% Momentum: Neutral\n↑ YTD: 244.9% ↑ YTD: 140.3% Sentiment: Neutral\n↑ YOY: 121.7% ↑ YOY: 143.1% Fundamentals: Positive\nBi-Weekly Report\n• Smooth summer sailing for dry bulk but \"stormy clouds\" are likely gathering in the horizon - The last few weeks\nhave been characterized by a typical summer \"lull\" in both trading activity and actual volumes across the dry bulk\nsector. For Capesizes, the spot market has been rangebound and typical of mid-summer activity, although late last\nweek rates begun to move higher as the market gradually tightened.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "iron_ore"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1453,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

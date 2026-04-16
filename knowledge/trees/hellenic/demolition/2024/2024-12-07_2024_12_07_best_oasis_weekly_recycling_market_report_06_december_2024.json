@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2024-12-07_2024_12_07_best_oasis_weekly_recycling_market_report_06_december_2024__root",
+  "doc_id": "hellenic_demolition_2024-12-07_2024_12_07_best_oasis_weekly_recycling_market_report_06_december_2024",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 06 December 2024",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 06 December 2024"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 06 December 2024",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 07/12/2024\nThis week in the recycling markets was characterized by stability and subdued activity, with some hope for improvement. Source: Best Oasis Limited\n\nLinked asset: 2024-12-07_Weekly-Ship-Recycling-Report-30-November-06-December-2024_compressed-1.pdf\nSource asset: reports/hellenic/demolition/pdfs/2024-12-07_Weekly-Ship-Recycling-Report-30-November-06-December-2024_compressed-1.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n30 November - 06 December 2024\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThis week in the recycling markets was characterized by stability and subdued activity, with some hope for improvement. In India, the market and sentiment\nremained unchanged, with optimism for a year-end boost as December trends often bring increased activity.",
+  "keywords": [
+    "capesize",
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "crude_oil",
+    "steel",
+    "previous",
+    "recycling",
+    "best"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2442,
+  "source_path": "reports/hellenic/demolition/2024/2024-12-07_best-oasis-weekly-recycling-market-report-06-december-2024.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-06-december-2024",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2024-12-07_2024_12_07_best_oasis_weekly_recycling_market_report_06_december_2024__s01_main",
+      "doc_id": "hellenic_demolition_2024-12-07_2024_12_07_best_oasis_weekly_recycling_market_report_06_december_2024",
+      "parent_id": "hellenic_demolition_2024-12-07_2024_12_07_best_oasis_weekly_recycling_market_report_06_december_2024__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 07/12/2024\nThis week in the recycling markets was characterized by stability and subdued activity, with some hope for improvement.",
+      "keywords": [
+        "activity",
+        "best",
+        "characterized",
+        "demolition",
+        "hope",
+        "improvement.",
+        "limited",
+        "markets"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 39,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2024-12-07_2024_12_07_best_oasis_weekly_recycling_market_report_06_december_2024__s02_linked_asset_2024_12_07_weekly_ship_recycling_report_30_november_06_december_2024_compressed_1_pdf",
+      "doc_id": "hellenic_demolition_2024-12-07_2024_12_07_best_oasis_weekly_recycling_market_report_06_december_2024",
+      "parent_id": "hellenic_demolition_2024-12-07_2024_12_07_best_oasis_weekly_recycling_market_report_06_december_2024__root",
+      "title": "Linked asset: 2024-12-07_Weekly-Ship-Recycling-Report-30-November-06-December-2024_compressed-1.pdf",
+      "section_path": [
+        "Linked asset: 2024-12-07_Weekly-Ship-Recycling-Report-30-November-06-December-2024_compressed-1.pdf"
+      ],
+      "section_path_text": "Linked asset: 2024-12-07_Weekly-Ship-Recycling-Report-30-November-06-December-2024_compressed-1.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2024-12-07_Weekly-Ship-Recycling-Report-30-November-06-December-2024_compressed-1.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n30 November - 06 December 2024\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nThis week in the recycling markets was characterized by stability and subdued activity, with some hope for improvement. In India, the market and sentiment\nremained unchanged, with optimism for a year-end boost as December trends often bring increased activity.",
+      "keywords": [
+        "capesize",
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2364,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

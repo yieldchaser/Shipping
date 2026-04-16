@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2025-05-24_2025_05_24_best_oasis_weekly_recycling_market_report_23_may_2025__root",
+  "doc_id": "hellenic_demolition_2025-05-24_2025_05_24_best_oasis_weekly_recycling_market_report_23_may_2025",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 23 May 2025",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 23 May 2025"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 23 May 2025",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nin Weekly Demolition Reports 24/05/2025\nAs the clock ticks down to the enforcement of the Hong Kong Convention, the global ship recycling market stands\nSource: Best Oasis Limited\n\nLinked asset: 2025-05-24_Weekly-Ship-Recycling-Report-17-May-23-May-2025_compressed.pdf\nSource asset: reports/hellenic/demolition/pdfs/2025-05-24_Weekly-Ship-Recycling-Report-17-May-23-May-2025_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n17 May - 23 May 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nAs the clock ticks down to the enforcement of the Hong Kong Convention, the global ship recycling market stands at a crossroads marked by hesitation,\nminimal activity, and growing regulatory pressure. In India, the pace remains slow with limited interest, but the country could emerge stronger post-HKC,\nbacked by a relatively higher number of compliant yards. Bangladesh continues to face a deadlock, with vessels anchored offshore awaiting NOC approvals\nand no resolution in sight ahead of Eid and the June deadline.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "recycling",
+    "ship",
+    "previous",
+    "june",
+    "limited",
+    "best"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2634,
+  "source_path": "reports/hellenic/demolition/2025/2025-05-24_best-oasis-weekly-recycling-market-report-23-may-2025.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-23-may-2025",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2025-05-24_2025_05_24_best_oasis_weekly_recycling_market_report_23_may_2025__s01_main",
+      "doc_id": "hellenic_demolition_2025-05-24_2025_05_24_best_oasis_weekly_recycling_market_report_23_may_2025",
+      "parent_id": "hellenic_demolition_2025-05-24_2025_05_24_best_oasis_weekly_recycling_market_report_23_may_2025__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "in Weekly Demolition Reports 24/05/2025\nAs the clock ticks down to the enforcement of the Hong Kong Convention, the global ship recycling market stands\nSource: Best Oasis Limited",
+      "keywords": [
+        "best",
+        "clock",
+        "convention",
+        "demolition",
+        "down",
+        "enforcement",
+        "global",
+        "hong"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 40,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2025-05-24_2025_05_24_best_oasis_weekly_recycling_market_report_23_may_2025__s02_linked_asset_2025_05_24_weekly_ship_recycling_report_17_may_23_may_2025_compressed_pdf",
+      "doc_id": "hellenic_demolition_2025-05-24_2025_05_24_best_oasis_weekly_recycling_market_report_23_may_2025",
+      "parent_id": "hellenic_demolition_2025-05-24_2025_05_24_best_oasis_weekly_recycling_market_report_23_may_2025__root",
+      "title": "Linked asset: 2025-05-24_Weekly-Ship-Recycling-Report-17-May-23-May-2025_compressed.pdf",
+      "section_path": [
+        "Linked asset: 2025-05-24_Weekly-Ship-Recycling-Report-17-May-23-May-2025_compressed.pdf"
+      ],
+      "section_path_text": "Linked asset: 2025-05-24_Weekly-Ship-Recycling-Report-17-May-23-May-2025_compressed.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2025-05-24_Weekly-Ship-Recycling-Report-17-May-23-May-2025_compressed.pdf\n\n[Page 1]\nWeekly Ship Recycling Report\n17 May - 23 May 2025\nVisit : www.best-oasis.com Head Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nEmail: bol@bol.ae Contact: +971 4575 4667\n\n[Page 2]\nHighlights of the week\nAs the clock ticks down to the enforcement of the Hong Kong Convention, the global ship recycling market stands at a crossroads marked by hesitation,\nminimal activity, and growing regulatory pressure. In India, the pace remains slow with limited interest, but the country could emerge stronger post-HKC,\nbacked by a relatively higher number of compliant yards.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "previous",
+        "recycling"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2559,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

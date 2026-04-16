@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2023-10-06_2023_10_06_clarksons_platou_hellas_snp_weekly_bulletin_91__root",
+  "doc_id": "hellenic_shipbuilding_2023-10-06_2023_10_06_clarksons_platou_hellas_snp_weekly_bulletin_91",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nNew building in tankers this week, Clients of Athenian Sea Carriers have extended their series of 18.5k dwt Chemical Tankers at Wuchang Shipbuilding\nSource: Clarkson Platou (Hellas) ltd\n\nLinked asset: 2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 06 Oct 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.& W. 6S70MC-\nAM GIJON 178,462 2011 MITSUI C7.2, SS 11/25 USD 25.75 M GREEKS\nDD 11/23\nBWTS fitted\n2010 JIANGSU\nCAPE STAR 175,366 MAN B. 6S70MC6.2, SS 07/25 USD 21.5 M U/D\nRONGSHENG BWTS fitted DD 07/25\n2022 JIANGSU NEW MAN B.",
+  "keywords": [
+    "capesize",
+    "lng",
+    "lpg",
+    "container",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "steel",
+    "gas",
+    "any",
+    "clarksons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2215,
+  "source_path": "reports/hellenic/shipbuilding/2023/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-91",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2023-10-06_2023_10_06_clarksons_platou_hellas_snp_weekly_bulletin_91__s01_main",
+      "doc_id": "hellenic_shipbuilding_2023-10-06_2023_10_06_clarksons_platou_hellas_snp_weekly_bulletin_91",
+      "parent_id": "hellenic_shipbuilding_2023-10-06_2023_10_06_clarksons_platou_hellas_snp_weekly_bulletin_91__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "New building in tankers this week, Clients of Athenian Sea Carriers have extended their series of 18.5k dwt Chemical Tankers at Wuchang Shipbuilding\nSource: Clarkson Platou (Hellas) ltd",
+      "keywords": [
+        "tankers",
+        "athenian",
+        "building",
+        "carriers",
+        "chemical",
+        "clarkson",
+        "clients",
+        "dwt"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 47,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2023-10-06_2023_10_06_clarksons_platou_hellas_snp_weekly_bulletin_91__s02_linked_asset_2023_10_06_clarksons_platou_hellas_snp_weekly_bulletin_91_report_06_10_2023_7981d2504db0_pdf",
+      "doc_id": "hellenic_shipbuilding_2023-10-06_2023_10_06_clarksons_platou_hellas_snp_weekly_bulletin_91",
+      "parent_id": "hellenic_shipbuilding_2023-10-06_2023_10_06_clarksons_platou_hellas_snp_weekly_bulletin_91__root",
+      "title": "Linked asset: 2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf",
+      "section_path": [
+        "Linked asset: 2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf"
+      ],
+      "section_path_text": "Linked asset: 2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2023-10-06_clarksons-platou-hellas-snp-weekly-bulletin-91_report-06-10-2023_7981d2504db0.pdf\n\n[Page 1]\nSALE & PURCHASE\nClarksons Hellas Weekly Bulletin 06 Oct 2023\nBulk Carriers\nVessel DWT Built Details SS/DD Price Buyer\nMAN B.& W. 6S70MC-\nAM GIJON 178,462 2011 MITSUI C7.2, SS 11/25 USD 25.75 M GREEKS\nDD 11/23\nBWTS fitted\n2010 JIANGSU\nCAPE STAR 175,366 MAN B.",
+      "keywords": [
+        "capesize",
+        "lng",
+        "lpg",
+        "container",
+        "europe",
+        "india",
+        "singapore",
+        "japan"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2120,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

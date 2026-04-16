@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2021-08-21_2021_08_21_best_oasis_weekly_recycling_market_report_20_august_2021__root",
+  "doc_id": "hellenic_demolition_2021-08-21_2021_08_21_best_oasis_weekly_recycling_market_report_20_august_2021",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 20 August 2021",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 20 August 2021"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 20 August 2021",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe cyclical behavior of prices has been in motion this week and the subcontinent recycling market\nSource: Best Oasis Limited\n\nLinked asset: 2021-08-21_best-oasis-weekly-recycling-market-report-20-august-2021_weekly-ship-recycling-report-3_3a851a07f0ef.pdf\nSource asset: reports/hellenic/demolition/pdfs/2021-08-21_best-oasis-weekly-recycling-market-report-20-august-2021_weekly-ship-recycling-report-3_3a851a07f0ef.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n13t h August to 20th August 2021\nHighlights of the Week\nThe cyclical behavio r of prices has been in motion this week and the\njhhnhu\nsubcontinent recycling market is slightly descending weighed down by the\nsliding Iron ore prices. Bangladesh and Pakistan have witnessed\nconsiderable fall in offer prices whereas end buyers from India have\nma intained stable offer prices. In terms of wider Macroeconomic outlook, the\nsteel demand is stable throughout the globe, but currently the market\nsentiments seem to be reacting in panic mode due to the steep fall in iron\nore prices.",
+  "keywords": [
+    "container",
+    "china",
+    "europe",
+    "india",
+    "singapore",
+    "japan",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "prices",
+    "are",
+    "demand"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1874,
+  "source_path": "reports/hellenic/demolition/2021/2021-08-21_best-oasis-weekly-recycling-market-report-20-august-2021.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-20-august-2021",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2021-08-21_2021_08_21_best_oasis_weekly_recycling_market_report_20_august_2021__s01_main",
+      "doc_id": "hellenic_demolition_2021-08-21_2021_08_21_best_oasis_weekly_recycling_market_report_20_august_2021",
+      "parent_id": "hellenic_demolition_2021-08-21_2021_08_21_best_oasis_weekly_recycling_market_report_20_august_2021__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The cyclical behavior of prices has been in motion this week and the subcontinent recycling market\nSource: Best Oasis Limited",
+      "keywords": [
+        "europe",
+        "behavior",
+        "best",
+        "cyclical",
+        "limited",
+        "motion",
+        "oasis",
+        "prices"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 24,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2021-08-21_2021_08_21_best_oasis_weekly_recycling_market_report_20_august_2021__s02_linked_asset_2021_08_21_best_oasis_weekly_recycling_market_report_20_august_2021_weekly_ship_recycling_report_3_3a851a07f0ef_pdf",
+      "doc_id": "hellenic_demolition_2021-08-21_2021_08_21_best_oasis_weekly_recycling_market_report_20_august_2021",
+      "parent_id": "hellenic_demolition_2021-08-21_2021_08_21_best_oasis_weekly_recycling_market_report_20_august_2021__root",
+      "title": "Linked asset: 2021-08-21_best-oasis-weekly-recycling-market-report-20-august-2021_weekly-ship-recycling-report-3_3a851a07f0ef.pdf",
+      "section_path": [
+        "Linked asset: 2021-08-21_best-oasis-weekly-recycling-market-report-20-august-2021_weekly-ship-recycling-report-3_3a851a07f0ef.pdf"
+      ],
+      "section_path_text": "Linked asset: 2021-08-21_best-oasis-weekly-recycling-market-report-20-august-2021_weekly-ship-recycling-report-3_3a851a07f0ef.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2021-08-21_best-oasis-weekly-recycling-market-report-20-august-2021_weekly-ship-recycling-report-3_3a851a07f0ef.pdf\n\n[Page 1]\nWEEKLY\nhekllenic\nSHIP\nR ECYCLING\nREPORT\n13t h August to 20th August 2021\nHighlights of the Week\nThe cyclical behavio r of prices has been in motion this week and the\njhhnhu\nsubcontinent recycling market is slightly descending weighed down by the\nsliding Iron ore prices. Bangladesh and Pakistan have witnessed\nconsiderable fall in offer prices whereas end buyers from India have\nma intained stable offer prices.",
+      "keywords": [
+        "container",
+        "china",
+        "europe",
+        "india",
+        "singapore",
+        "japan",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1800,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_demolition_2026-02-21_2026_02_21_best_oasis_weekly_recycling_market_report_20_february_2026__root",
+  "doc_id": "hellenic_demolition_2026-02-21_2026_02_21_best_oasis_weekly_recycling_market_report_20_february_2026",
+  "parent_id": null,
+  "title": "Best Oasis Weekly Recycling Market Report, 20 February 2026",
+  "section_path": [
+    "Best Oasis Weekly Recycling Market Report, 20 February 2026"
+  ],
+  "section_path_text": "Best Oasis Weekly Recycling Market Report, 20 February 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe Indian market experienced a roller coaster ride during the week, with sharp up-and-down movements primarily\nSource: Best Oasis Limited\n\nLinked asset: 2026-02-21_best-oasis-weekly-recycling-market-report-20-february-2026_weekly-ship-recycling-report-14-febr_75914bd12b4c.pdf\nSource asset: reports/hellenic/demolition/pdfs/2026-02-21_best-oasis-weekly-recycling-market-report-20-february-2026_weekly-ship-recycling-report-14-febr_75914bd12b4c.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(14 FEBRUARY - 20 FEBRUARY) 2026\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe Indian market experienced a roller coaster ride during the week, with sharp up-\nand-down movements primarily driven by significant fluctuations in the exchange rate. Demand from end buyers remains fair; however, challenges persist in the resale steel\nmarket. Credit terms have extended from one day to 10 days, reflecting continued\nweakness in the broader steel economy.",
+  "keywords": [
+    "container",
+    "india",
+    "singapore",
+    "steel",
+    "undisclosed",
+    "delivered",
+    "usd",
+    "alang",
+    "any",
+    "bangladesh",
+    "best",
+    "bulker"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1228,
+  "source_path": "reports/hellenic/demolition/2026/2026-02-21_best-oasis-weekly-recycling-market-report-20-february-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-20-february-2026",
+  "children": [
+    {
+      "node_id": "hellenic_demolition_2026-02-21_2026_02_21_best_oasis_weekly_recycling_market_report_20_february_2026__s01_main",
+      "doc_id": "hellenic_demolition_2026-02-21_2026_02_21_best_oasis_weekly_recycling_market_report_20_february_2026",
+      "parent_id": "hellenic_demolition_2026-02-21_2026_02_21_best_oasis_weekly_recycling_market_report_20_february_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The Indian market experienced a roller coaster ride during the week, with sharp up-and-down movements primarily\nSource: Best Oasis Limited",
+      "keywords": [
+        "india",
+        "best",
+        "coaster",
+        "during",
+        "experienced",
+        "indian",
+        "limited",
+        "movements"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 25,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_demolition_2026-02-21_2026_02_21_best_oasis_weekly_recycling_market_report_20_february_2026__s02_linked_asset_2026_02_21_best_oasis_weekly_recycling_market_report_20_february_2026_weekly_ship_recycling_report_14_febr_75914bd12b4c_pdf",
+      "doc_id": "hellenic_demolition_2026-02-21_2026_02_21_best_oasis_weekly_recycling_market_report_20_february_2026",
+      "parent_id": "hellenic_demolition_2026-02-21_2026_02_21_best_oasis_weekly_recycling_market_report_20_february_2026__root",
+      "title": "Linked asset: 2026-02-21_best-oasis-weekly-recycling-market-report-20-february-2026_weekly-ship-recycling-report-14-febr_75914bd12b4c.pdf",
+      "section_path": [
+        "Linked asset: 2026-02-21_best-oasis-weekly-recycling-market-report-20-february-2026_weekly-ship-recycling-report-14-febr_75914bd12b4c.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-02-21_best-oasis-weekly-recycling-market-report-20-february-2026_weekly-ship-recycling-report-14-febr_75914bd12b4c.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/demolition/pdfs/2026-02-21_best-oasis-weekly-recycling-market-report-20-february-2026_weekly-ship-recycling-report-14-febr_75914bd12b4c.pdf\n\n[Page 1]\nWEEKLY SHIP RECYCLING\nREPORT\n(14 FEBRUARY - 20 FEBRUARY) 2026\nOUR OFFICES\nScan to view the Tide Table\nHead Office: 3201, Saba Tower 1, Cluster E, Jumeirah Lake Towers, Dubai, U.A.E\nContact: +971 4575 4667 Visit : www.best-oasis.com Email: bol@bol.ae\n\n[Page 2]\nMARKET SUMMARY\nINDIA\nThe Indian market experienced a roller coaster ride during the week, with sharp up-\nand-down movements primarily driven by significant fluctuations in the exchange rate. Demand from end buyers remains fair; however, challenges persist in the resale steel\nmarket.",
+      "keywords": [
+        "container",
+        "india",
+        "singapore",
+        "steel",
+        "undisclosed",
+        "delivered",
+        "usd",
+        "alang"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1153,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
