@@ -10495,10 +10495,10 @@
       const fmtPc = n => n != null ? (n >= 0 ? '+' : '') + n.toFixed(1) + '%' : '—';
 
       const cfgMap = {
-        BULL_CONFLUENCE: { cls:'ci-bull', badge:'bull', label:'🟢 BULL CONFLUENCE',
-          note: 'Quantitative momentum and Breakwave analyst sentiment are <strong>both bullish</strong> — signals are aligned.' },
-        BEAR_CONFLUENCE: { cls:'ci-bear', badge:'bear', label:'🔴 BEAR CONFLUENCE',
-          note: 'Quantitative momentum and Breakwave analyst sentiment are <strong>both bearish</strong> — signals are aligned.' },
+        BULL_CONFLUENCE: { cls:'ci-bull', badge:'bull', label:'🟢 POSITIVE CONFLUENCE',
+          note: 'Quantitative momentum and Breakwave analyst sentiment are <strong>both positive</strong> — signals are aligned.' },
+        BEAR_CONFLUENCE: { cls:'ci-bear', badge:'bear', label:'🔴 NEGATIVE CONFLUENCE',
+          note: 'Quantitative momentum and Breakwave analyst sentiment are <strong>both negative</strong> — signals are aligned.' },
         DIVERGENCE:      { cls:'ci-div',  badge:'div',  label:'⚡ DIVERGENCE',
           note: 'Quantitative and qualitative signals <strong>contradict each other</strong> — elevated positioning risk; potential mean-reversion setup.' },
         NEUTRAL:         { cls:'ci-neut', badge:'neut', label:'— NEUTRAL',
@@ -10557,9 +10557,9 @@
               <div class="z-gauge">
                 <div class="z-gauge-dot" style="left:${zPct}%;background:${zCol};"></div>
               </div>
-              <div class="z-gauge-labels"><span>−3σ Bearish</span><span>0</span><span>Bullish +3σ</span></div>
+              <div class="z-gauge-labels"><span>−3σ Negative</span><span>0</span><span>Positive +3σ</span></div>
             </div>
-            <div class="intel-regime-row" data-tooltip="Volatility Regime based on MA200 crossover and 60-day Rate of Change. Expansion=Bullish Trend; Contraction=Bearish Trend.">
+            <div class="intel-regime-row" data-tooltip="Volatility Regime based on MA200 crossover and 60-day Rate of Change. Expansion=Positive Trend; Contraction=Negative Trend.">
               <span class="intel-regime-emoji">${q.emoji}</span>
               <div>
                 <div class="intel-regime-label">${q.regime}</div>
@@ -10643,8 +10643,8 @@
       };
 
       const cfgMap = {
-        BULL_CONFLUENCE: { cls: 'ci-bull', badge: 'bull', label: 'BULL CONFLUENCE' },
-        BEAR_CONFLUENCE: { cls: 'ci-bear', badge: 'bear', label: 'BEAR CONFLUENCE' },
+        BULL_CONFLUENCE: { cls: 'ci-bull', badge: 'bull', label: 'POSITIVE CONFLUENCE' },
+        BEAR_CONFLUENCE: { cls: 'ci-bear', badge: 'bear', label: 'NEGATIVE CONFLUENCE' },
         DIVERGENCE:      { cls: 'ci-div',  badge: 'div',  label: 'DIVERGENCE' },
         NEUTRAL:         { cls: 'ci-neut', badge: 'neut', label: 'NEUTRAL' },
       };
