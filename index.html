@@ -10735,7 +10735,46 @@
       canvas._chartInstance = new Chart(ctx, {
         type: 'line',
         data: { labels: zHistory.map((_, i) => i), datasets: [{ data: zHistory, borderColor: '#a371f7', backgroundColor: 'rgba(163,113,247,0.08)', borderWidth: 1.5, pointRadius: 0, fill: true, tension: 0.3 }] },
-        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { enabled: true, mode: 'index', intersect: false, callbacks: { title: function(ctx) { const i = ctx[0].dataset.data.length - 1 - ctx[0].dataIndex; return i === 0 ? 'Today' : i + ' days ago'; }, label: function(ctx) { return 'Z-Score: ' + (ctx.parsed.y > 0 ? '+' : '') + ctx.parsed.y.toFixed(2) + 'σ'; } } } }, scales: { x: { display: false }, y: { display: false, suggestedMin: -3, suggestedMax: 3 } }, animation: { duration: 400 } },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: {
+                enabled: false,
+                external: function(context) {
+                  let tooltipEl = document.getElementById('chartjs-spark-tooltip');
+                  if (!tooltipEl) {
+                    tooltipEl = document.createElement('div');
+                    tooltipEl.id = 'chartjs-spark-tooltip';
+                    tooltipEl.style.background = 'rgba(15,20,25,0.95)';
+                    tooltipEl.style.border = '1px solid rgba(255,255,255,0.1)';
+                    tooltipEl.style.borderRadius = '4px';
+                    tooltipEl.style.color = '#fff';
+                    tooltipEl.style.opacity = 1;
+                    tooltipEl.style.pointerEvents = 'none';
+                    tooltipEl.style.position = 'absolute';
+                    tooltipEl.style.transform = 'translate(-50%, -100%)';
+                    tooltipEl.style.transition = 'all .1s ease';
+                    tooltipEl.style.zIndex = '99999';
+                    tooltipEl.style.padding = '6px 10px';
+                    tooltipEl.style.fontSize = '11px';
+                    tooltipEl.style.boxShadow = '0 4px 12px rgba(0,0,0,0.5)';
+                    document.body.appendChild(tooltipEl);
+                  }
+                  const tooltipModel = context.tooltip;
+                  if (tooltipModel.opacity === 0) { tooltipEl.style.opacity = 0; return; }
+                  
+                  const idx = tooltipModel.dataPoints[0].dataIndex;
+                  const total = tooltipModel.dataPoints[0].dataset.data.length;
+                  const daysAgo = total - 1 - idx;
+                  const titleStr = daysAgo === 0 ? 'Today' : daysAgo + ' days ago';
+                  const val = tooltipModel.dataPoints[0].raw;
+                  const valStr = 'Z-Score: ' + (val > 0 ? '+' : '') + val.toFixed(2) + 'σ';
+                  
+                  tooltipEl.innerHTML = '<div style="font-weight:600;margin-bottom:3px;color:var(--text-muted)">' + titleStr + '</div><div style="font-weight:bold">' + valStr + '</div>';
+                  
+                  const position = context.chart.canvas.getBoundingClientRect();
+                  tooltipEl.style.opacity = 1;
+                  tooltipEl.style.left = position.left + window.pageXOffset + tooltipModel.caretX + 'px';
+                  tooltipEl.style.top = position.top + window.pageYOffset + tooltipModel.caretY - 5 + 'px';
+                }
+              } }, scales: { x: { display: false }, y: { display: false, suggestedMin: -3, suggestedMax: 3 } }, animation: { duration: 400 } },
         plugins: [{ beforeDraw: chart => { const { ctx: cx, chartArea: { left, right, top, bottom }, scales: { y } } = chart; const zeroY = y.getPixelForValue(0); if (zeroY >= top && zeroY <= bottom) { cx.save(); cx.strokeStyle = 'rgba(139,148,158,.3)'; cx.lineWidth = 1; cx.setLineDash([3,3]); cx.beginPath(); cx.moveTo(left, zeroY); cx.lineTo(right, zeroY); cx.stroke(); cx.restore(); } } }]
       });
     }
