@@ -328,6 +328,43 @@ def _fmt_signal(signal: dict) -> str:
     )
 
 
+
+def load_recent_report_text(category: str, n: int = 2, max_chars: int = 800) -> str:
+    """Load the most recent N report 'Overview' chunks for a category.
+
+    This injects actual analyst narrative into the LLM prompt, giving
+    the model access to geopolitical context, event references, etc.
+    """
+    chunk_map = {
+        "drybulk": [KNOWLEDGE / "chunks" / "breakwave_drybulk_2026.jsonl",
+                    KNOWLEDGE / "chunks" / "breakwave_drybulk.jsonl"],
+        "tankers": [KNOWLEDGE / "chunks" / "breakwave_tankers.jsonl"],
+    }
+    paths = chunk_map.get(category, [])
+    chunks: list[dict] = []
+    for path in paths:
+        try:
+            with open(path, encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    try:
+                        row = json.loads(line)
+                        if row.get("section_title") == "Overview":
+                            chunks.append(row)
+                    except json.JSONDecodeError:
+                        continue
+        except FileNotFoundError:
+            continue
+    # Sort by date descending, take top N
+    chunks.sort(key=lambda x: x.get("date", ""), reverse=True)
+    entries = []
+    for chunk in chunks[:n]:
+        text = _clean_text(chunk.get("text"))[:max_chars]
+        entries.append(f"{chunk.get('date', '?')}: {text}")
+    return "\n---\n".join(entries) if entries else "No report text available."
+
 def build_prompt(
     snapshot: dict,
     dry_signals: list[dict],
@@ -335,6 +372,8 @@ def build_prompt(
     wiki_dry: str,
     wiki_tanker: str,
     wiki_cape: str,
+    dry_report_text: str = "",
+    tanker_report_text: str = "",
 ) -> str:
     today = date.today().isoformat()
     snapshot_lines = "\n".join(_fmt_snapshot_line(key, value) for key, value in snapshot.items())
@@ -350,6 +389,12 @@ Recent Breakwave Dry Bulk Reports:
 
 Recent Breakwave Tanker Reports:
 {tanker_block}
+
+Recent Dry Bulk Report Narratives (analyst text excerpts):
+{dry_report_text}
+
+Recent Tanker Report Narratives (analyst text excerpts):
+{tanker_report_text}
 
 Knowledge Base Excerpts:
 Dry bulk:
@@ -873,7 +918,10 @@ def main() -> None:
     wiki_cape = wiki_excerpt(WIKI_EXCERPTS["capesize"])
 
     print(f"[brief] Provider order: {','.join(LLM_PROVIDER_ORDER)}")
-    prompt = build_prompt(snapshot, dry_signals, tanker_signals, wiki_dry, wiki_tanker, wiki_cape)
+    print("[brief] Loading recent report narratives...")
+    dry_report_text = load_recent_report_text("drybulk", n=2, max_chars=800)
+    tanker_report_text = load_recent_report_text("tankers", n=2, max_chars=800)
+    prompt = build_prompt(snapshot, dry_signals, tanker_signals, wiki_dry, wiki_tanker, wiki_cape, dry_report_text, tanker_report_text)
     llm_payload, provider_used, attempted = call_llm_payload(prompt)
     if provider_used:
         print(f"[brief] LLM response accepted from: {provider_used}")
@@ -903,6 +951,7 @@ def main() -> None:
         "generation": {
             "mode": generation_mode,
             "provider_used": generation_provider,
+            "model": OLLAMA_MODEL if generation_provider == "ollama" else (GEMINI_MODEL if generation_provider == "gemini" else (NIM_MODEL if generation_provider == "nim" else "")),
             "provider_order": LLM_PROVIDER_ORDER,
             "attempted_providers": attempted,
         },
