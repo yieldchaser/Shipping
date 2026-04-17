@@ -2073,6 +2073,12 @@
       margin: 9px 0 7px;
       max-width: 130ch;
     }
+    .brief-segment-note {
+      font-size: 12px;
+      color: var(--text-muted);
+      line-height: 1.6;
+      margin: 4px 0 8px;
+    }
     .brief-signals-title {
       font-size: 10px;
       text-transform: uppercase;
@@ -10656,6 +10662,11 @@
         ],
       };
 
+      function _latestQualDates(vesselKey) {
+        const category = vesselKey === 'dry_bulk' ? 'drybulk' : 'tankers';
+        return uniq(_recentBreakwave(category, 4).map(s => s?.date).filter(Boolean));
+      }
+
       function metricChip(label, value) {
         if (!value) return '';
         return `<span class="brief-kpi"><span class="brief-kpi-k">${esc(label)}</span><span class="brief-kpi-v">${esc(value)}</span></span>`;
@@ -10676,6 +10687,16 @@
         }).filter(Boolean).join('');
       }
 
+      function segmentNarrative(vesselKey, marketSnapshot) {
+        if (vesselKey !== 'tanker') return '';
+        const clean = marketSnapshot?.clean_tanker;
+        const dirty = marketSnapshot?.dirty_tanker;
+        if (!clean && !dirty) return '';
+        const cleanTxt = `clean ${clean?.value != null ? fmtNum(clean.value) : 'n/a'} (roc ${clean?.roc60 != null ? fmtPercent(clean.roc60, 1) : 'n/a'})`;
+        const dirtyTxt = `dirty ${dirty?.value != null ? fmtNum(dirty.value) : 'n/a'} (roc ${dirty?.roc60 != null ? fmtPercent(dirty.roc60, 1) : 'n/a'})`;
+        return `Segment breadth: ${cleanTxt}, ${dirtyTxt}.`;
+      }
+
       function briefCard(title, vesselKey, vcData, snapKey) {
         if (!vcData) return '';
         const cfg = cfgMap[vcData.confluence_type] || cfgMap.NEUTRAL;
@@ -10692,9 +10713,14 @@
 
         const subHtml = renderSubMarkets(vesselKey, snap);
         const keySignals = uniq(vcData.key_signals).map(sig => `<li>${esc(sig)}</li>`).join('');
-        const reportDates = uniq(vcData.report_dates).slice(0, 4)
+        const reportDatesRaw = uniq(vcData.report_dates);
+        const latestQualDates = _latestQualDates(vesselKey);
+        const maxFrom = arr => (arr || []).slice().sort((a, b) => String(b).localeCompare(String(a)))[0] || '';
+        const reportDatesFinal = maxFrom(latestQualDates) > maxFrom(reportDatesRaw) ? latestQualDates : reportDatesRaw;
+        const reportDates = reportDatesFinal.slice(0, 4)
           .map(d => `<span class="brief-date-chip">${esc(d)}</span>`)
           .join('');
+        const segmentText = segmentNarrative(vesselKey, snap);
 
         return `<div class="brief-card ${cfg.cls}">
           <div class="brief-card-header">
@@ -10708,6 +10734,7 @@
           </div>
           ${vcData.confluence_note ? `<div class="brief-conf-note ${cfg.cls}">${esc(vcData.confluence_note)}</div>` : ''}
           <p class="brief-summary">${esc(vcData.summary || 'No narrative summary available in the latest brief for this class.')}</p>
+          ${segmentText ? `<div class="brief-segment-note">${esc(segmentText)}</div>` : ''}
           ${keySignals ? `<div class="brief-signals-title">Key Signals</div><ul class="brief-signals">${keySignals}</ul>` : ''}
           ${vcData.outlook ? `<div class="brief-outlook"><strong style="color:var(--accent)">Outlook:</strong> ${esc(vcData.outlook)}</div>` : ''}
           ${vcData.watch ? `<div class="brief-watch"><strong>Watch:</strong> ${esc(vcData.watch)}</div>` : ''}
