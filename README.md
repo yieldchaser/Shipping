@@ -98,6 +98,142 @@ The current corpus + manifests + derived layers make the following additions str
 - Source reliability and divergence scoring (freshness, consistency, contradiction tracking)
 - Backtest-ready feature generation for freight strategy models
 - Multimodal enhancement pass (stronger OCR/table extraction and image-heavy report handling)
+- High‑leverage, near‑term
+
+
+Grounded Q&A assistant (RAG)
+
+Knowledge chunks and knowledge trees are already prepared for a RAG pipeline.
+A trader can ask questions like “What’s the consensus on Capesize supply through Q3 2026?” and receive:
+
+A synthesized answer
+Exact, traceable source citations
+
+
+Retrieval infrastructure is already built; only an inference layer is missing.
+This unlocks immediate analyst‑style querying on top of the corpus.
+
+
+
+Daily automated market brief
+
+Each morning:
+
+Pull the 5–10 reports processed overnight.
+Run them through a summarization prompt.
+Group outputs by vessel class (Capesize, Panamax, Tanker).
+
+
+Emit a structured, repeatable daily brief.
+Anchor summaries to quantitative indicators from knowledge/derived/signals.jsonl.
+
+
+
+Signal + alert engine
+
+signals.jsonl and timelines.json already extract key indicators per document.
+Wire extracted indicators to rule‑based thresholds, e.g.:
+
+BDI Z‑score > +2σ and
+Last 3 Breakwave reports flag bullish Capesize
+
+
+Emit alerts when quantitative and qualitative signals align.
+Core task is joining:
+
+Quantitative CSVs
+Qualitative signal extractions
+
+
+
+
+
+
+Medium‑term
+
+
+Analog‑year automation
+
+Currently, analog years are selected manually in the dashboard.
+Automate by:
+
+Computing cosine similarity between the current year’s daily Z‑score path and all historical years.
+Surfacing the top 3 analog years.
+
+
+Attach:
+
+Relevant knowledge‑corpus excerpts from those historical years.
+Explanations of what fundamentally drove similar patterns.
+
+
+
+
+
+FFA divergence detector
+
+Compare:
+
+sgx_cape_futures.csv
+bdiy_historical.csv
+
+
+Flag cases where:
+
+The futures term structure implies a trajectory that contradicts spot momentum, and
+Recent Breakwave / Hellenic reports are directionally aligned against the futures curve.
+
+
+These divergences represent high‑value signals.
+
+
+
+ETF arbitrage monitor
+
+Premium/discount data is already scraped.
+Monitor BDRY and BWET for:
+
+NAV divergence beyond a 2.5% threshold.
+
+
+Elevate to actionable signals when:
+
+Knowledge‑corpus sentiment is directionally consistent with the divergence.
+
+
+
+
+
+
+Longer‑term
+
+
+Cross‑source composite sentiment index
+
+Aggregate extracted signals across all sources daily.
+Compute a single sentiment score per vessel class (e.g., dry bulk vs tanker).
+Backtest sentiment against next‑week BDI changes.
+This bridges:
+
+The unstructured text corpus
+The quantitative terminal data
+
+
+
+
+
+Automated earnings / report correlation tracker
+
+For each new Hellenic or Breakwave report:
+
+Extract key metrics.
+Append them to a growing time series.
+
+
+Build a persistent record of:
+
+Analyst sentiment
+Versus realized index moves over time
 
 ---
 
