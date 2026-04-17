@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-04-17T17:04:17.115274+00:00",
+  "generated_at": "2026-04-17T19:54:21.642313+00:00",
   "brief_date": "2026-04-17",
   "generation": {
     "mode": "llm",
     "provider_used": "ollama",
+    "model": "gemini-3-flash-preview:cloud",
     "provider_order": [
       "ollama",
       "gemini",
@@ -81,50 +82,67 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
-      "confluence_note": "A sharp disconnect exists between extreme spot rate performance (BDI at 99.5th percentile) and persistently negative fundamental assessments from recent reports.",
-      "summary": "The sector is in a technical expansion phase led by Capesize and Panamax vessels, both hovering near 5-year highs. While momentum has turned positive, the underlying fundamental outlook remains bearish, suggesting the rally may be driven by temporary supply-chain frictions or front-loading rather than structural demand growth.",
+      "confluence_note": "A sharp quantitative expansion (BDI at 99.5th percentile) is clashing with persistent negative fundamental ratings and high Chinese iron ore inventories.",
+      "summary": "While spot rates for Capesize and Panamax vessels have surged to 2-month highs, Chinese steel production is down 3.6% YOY and iron ore inventories have swollen to 166mt. This suggests the current rally is driven more by supply-side dynamics or tactical positioning than by sustainable industrial demand.",
       "key_signals": [
-        "BDI 5-year percentile of 99.5%",
-        "Capesize ROC60 of +51.1%",
-        "Negative fundamental rating from Breakwave"
+        "BDI ROC60 of +42.4%",
+        "China Iron Ore Inventories +20.3% YOY",
+        "Capesize pctl_5y at 99.0%"
       ],
-      "outlook": "Caution is advised as technical overextension meets fundamental resistance, increasing the risk of a sharp correction.",
-      "watch": "Iron ore trade dynamics between Brazil and China and the lagging Handysize recovery.",
+      "outlook": "The market is prone to a correction if spot rates cannot be sustained by a recovery in Chinese steel margins.",
+      "watch": "China steel production figures and iron ore inventory drawdown rates at major ports.",
       "report_dates": [
         "2026-04-14",
         "2026-03-31",
         "2026-03-17",
-        "2026-03-03"
+        "2026-03-03",
+        "2026-02-17",
+        "2026-02-03",
+        "2026-01-20",
+        "2026-01-06"
       ]
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Quantitative and qualitative signals are in perfect alignment, with extreme Z-scores validated by 'triple-positive' sentiment, momentum, and fundamentals.",
-      "summary": "The tanker market is experiencing a historic surge, particularly in the clean sector where rates have increased 148% over the last 60 days. This expansion is supported by tight tonnage balances and robust macro oil-market drivers, pushing both clean and dirty segments to the top of their 5-year historical ranges.",
+      "confluence_note": "Quantitative metrics (Clean ROC60 +148.1%) are perfectly aligned with positive qualitative sentiment, momentum, and fundamentals following geopolitical disruptions.",
+      "summary": "Tanker markets are in a state of extreme expansion as 'unnavigable straits' and Middle East conflict force significant trade route adjustments. VLCC and Clean rates have exploded higher as oil prices breach $100 and global crude-on-water volumes shift amid supply shocks. Segment breadth remains important: clean tankers at 2121.0 (ROC60 +148.1%), alongside dirty tankers at 2975.0 (ROC60 +89.2%).",
       "key_signals": [
         "Clean Tanker Z-score of +3.36",
-        "Dirty Tanker ROC60 of +89.2%",
-        "Uninterrupted positive qualitative signals since February"
+        "Unnavigable maritime straits narrative",
+        "Triple-positive fundamental/sentiment/momentum rating",
+        "Dirty tanker check: level=2975.0, ROC60=+89.2%."
       ],
-      "outlook": "Strong bullish momentum is expected to persist as spot rates reflect deep-seated fundamental supply constraints.",
-      "watch": "Global refinery margins and crude/product export volumes from China.",
+      "outlook": "Exceptional rate strength is expected to persist as long as geopolitical bottlenecks remain and oil price volatility stays elevated.",
+      "watch": "Geopolitical developments in the Middle East and OECD crude oil stock levels.",
       "report_dates": [
         "2026-04-07",
         "2026-03-24",
         "2026-03-10",
-        "2026-02-24"
+        "2026-02-24",
+        "2026-02-10",
+        "2026-01-27",
+        "2026-01-13",
+        "2025-12-16"
       ]
     }
   },
-  "macro_note": "The shipping market is entering Q2 2026 in a state of high-velocity expansion, with tanker markets showing structural strength while dry bulk relies on momentum to offset fundamental skepticism.",
+  "macro_note": "The shipping market is bifurcated; tankers are thriving on geopolitical chaos and energy security concerns, while dry bulk faces a growing disconnect between high spot pricing and cooling Chinese industrial fundamentals. Sustained oil prices above $100/bbl present a looming headwind for global economic growth and bunker fuel costs.",
   "sources": [
     "breakwave_drybulk_2026-04-14",
     "breakwave_drybulk_2026-03-31",
     "breakwave_drybulk_2026-03-17",
     "breakwave_drybulk_2026-03-03",
+    "breakwave_drybulk_2026-02-17",
+    "breakwave_drybulk_2026-02-03",
+    "breakwave_drybulk_2026-01-20",
+    "breakwave_drybulk_2026-01-06",
     "breakwave_tankers_2026-04-07",
     "breakwave_tankers_2026-03-24",
     "breakwave_tankers_2026-03-10",
-    "breakwave_tankers_2026-02-24"
+    "breakwave_tankers_2026-02-24",
+    "breakwave_tankers_2026-02-10",
+    "breakwave_tankers_2026-01-27",
+    "breakwave_tankers_2026-01-13",
+    "breakwave_tankers_2025-12-16"
   ]
 }
