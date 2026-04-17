@@ -10468,12 +10468,12 @@
 
       // Two primary vessel-class cards with sub-index strip
       grid.innerHTML =
-        _buildVCCard('🌊 Dry Bulk Freight', bdiQ,
+        _buildVCCard('🚢 Dry Bulk Freight', bdiQ,
           _confluenceType(bdiQ.zScore, drySents), drySigs,
-          [{ label: '⚓ Capesize', q: capeQ, c: _confluenceType(capeQ.zScore, drySents) },
-           { label: '📦 Panamax',  q: panamaQ, c: _confluenceType(panamaQ.zScore, drySents) },
-           { label: '🛟 Supramax', q: supraQ, c: _confluenceType(supraQ.zScore, drySents) },
-           { label: '⚙️ Handysize', q: handyQ, c: _confluenceType(handyQ.zScore, drySents) }]) +
+          [{ label: '🚢 Capesize', q: capeQ, c: _confluenceType(capeQ.zScore, drySents) },
+           { label: '⛴️ Panamax',  q: panamaQ, c: _confluenceType(panamaQ.zScore, drySents) },
+           { label: '🛳️ Supramax', q: supraQ, c: _confluenceType(supraQ.zScore, drySents) },
+           { label: '⚓ Handysize', q: handyQ, c: _confluenceType(handyQ.zScore, drySents) }]) +
         _buildVCCard('🛢️ Tanker Market', { ...cleanQ, zScore: tankerZ },
           _confluenceType(tankerZ, tankSents), tankerSigs,
           [{ label: 'BCTI Clean', q: cleanQ, c: _confluenceType(cleanQ.zScore, tankSents) },
@@ -10515,12 +10515,12 @@
       // Sentiment dots + rows (last 4 reports)
       const sentDotCls = { positive:'pos', negative:'neg', neutral:'neu', mixed:'neu', constructive:'pos', cautiously_bullish:'pos', cautiously_bearish:'neg' };
       const sentDots = qualSigs.slice(0, 4).map(s =>
-        `<div class="sent-dot ${sentDotCls[s.sentiment] || 'neu'}" title="${s.date}: ${s.sentiment}"></div>`
+        `<div class="sent-dot ${sentDotCls[s.sentiment] || 'neu'}" data-tooltip="${s.date}: ${s.sentiment}"></div>`
       ).join('');
       const sentRows = qualSigs.slice(0, 4).map(s => {
         const vc = sentDotCls[s.sentiment] || 'neu';
         const col = vc === 'pos' ? 'var(--green)' : vc === 'neg' ? 'var(--red)' : 'var(--text-muted)';
-        return `<div class="sent-report-row">
+        return `<div class="sent-report-row" data-tooltip="Broker sentiment from ${s.date}. Analysts categorize the outlook as ${s.sentiment}.">
           <span style="font-weight:600;color:${col};">${s.sentiment}</span>
           <span>/</span><span>${s.momentum || '—'}</span>
           <span class="sent-report-date">${s.date}</span>
@@ -10535,10 +10535,10 @@
         return `<div class="intel-sub-item">
           <span class="intel-sub-label">${label}</span>
           <span class="intel-sub-val">${fmtN(sq.current)}</span>
-          <div class="intel-sub-meta">
+          <div class="intel-sub-meta" data-tooltip="Sub-index performance. Z-Score defines seasonal deviation; Regime defines trend phase.">
             <span style="color:${sCol};font-weight:600;">${sz != null ? (sz >= 0 ? '+' : '') + sz.toFixed(2) + 'σ' : '—'}</span>
             <span>${sq.emoji} ${sq.regime}</span>
-            <span class="intel-vc-badge ${scCfg.badge}" style="padding:1px 6px;font-size:9px;">${scCfg.label}</span>
+            <span class="intel-vc-badge ${scCfg.badge}" style="padding:1px 6px;font-size:9px;" data-tooltip="${scCfg.note.replace(/<[^>]+>/g, '')}">${scCfg.label}</span>
           </div>
         </div>`;
       }).join('');
@@ -10546,20 +10546,20 @@
       return `<div class="intel-vc-card ${cfg.cls}">
         <div class="intel-vc-header">
           <span class="intel-vc-name">${title}</span>
-          <span class="intel-vc-badge ${cfg.badge}">${cfg.label}</span>
+          <span class="intel-vc-badge ${cfg.badge}" data-tooltip="${cfg.note.replace(/<[^>]+>/g, '')}">${cfg.label}</span>
         </div>
-        <div class="intel-conf-banner ${cfg.cls}">${cfg.note}</div>
+        <div class="intel-conf-banner ${cfg.cls}" data-tooltip="Directional alignment indicator between Technical and Fundamental data.">${cfg.note}</div>
         <div class="intel-body">
           <div class="intel-col">
-            <div class="intel-col-label">Quantitative</div>
-            <div class="z-gauge-wrap">
+            <div class="intel-col-label" data-tooltip="Quantitative indicators derived from live exchange data and historical price action.">Quantitative</div>
+            <div class="z-gauge-wrap" data-tooltip="Standard Deviation (σ) from the 1-year mean. Values >2σ or <-2σ signal historical extremes.">
               <div class="z-value" style="color:${zCol}">${zLabel}</div>
               <div class="z-gauge">
                 <div class="z-gauge-dot" style="left:${zPct}%;background:${zCol};"></div>
               </div>
               <div class="z-gauge-labels"><span>−3σ Bearish</span><span>0</span><span>Bullish +3σ</span></div>
             </div>
-            <div class="intel-regime-row">
+            <div class="intel-regime-row" data-tooltip="Volatility Regime based on MA200 crossover and 60-day Rate of Change. Expansion=Bullish Trend; Contraction=Bearish Trend.">
               <span class="intel-regime-emoji">${q.emoji}</span>
               <div>
                 <div class="intel-regime-label">${q.regime}</div>
@@ -10569,7 +10569,7 @@
             </div>
           </div>
           <div class="intel-col">
-            <div class="intel-col-label">Qualitative — Breakwave Advisors</div>
+            <div class="intel-col-label" data-tooltip="Qualitative intelligence synthesized from bi-weekly Breakwave analyst reports and market insights.">Qualitative — Breakwave Advisors</div>
             ${qualSigs.length ? `
               <div class="sent-dots-row">${sentDots}<span style="font-size:10px;color:var(--text-muted);margin-left:4px;">last ${qualSigs.length} reports</span></div>
               ${sentRows}
@@ -10669,7 +10669,15 @@
 
       function metricChip(label, value) {
         if (!value) return '';
-        return `<span class="brief-kpi"><span class="brief-kpi-k">${esc(label)}</span><span class="brief-kpi-v">${esc(value)}</span></span>`;
+        const ttMap = {
+          'Regime': 'Current trend phase (Expansion, Accumulation, Distribution, or Contraction) based on momentum crossovers.',
+          'Level': 'The absolute spot rate or index level at the time of brief generation.',
+          'Z': 'Standard deviations from the 252-day rolling mean. Signals extremes.',
+          'ROC60': '60-day Rate of Change. Measures the velocity of the current trend.',
+          'PCTL5Y': '5-Year Percentile. Ranks current levels against a half-decade of historical context.'
+        };
+        const tt = ttMap[label] || '';
+        return `<span class="brief-kpi" data-tooltip="${tt}"><span class="brief-kpi-k">${esc(label)}</span><span class="brief-kpi-v">${esc(value)}</span></span>`;
       }
 
       function renderSubMarkets(vesselKey, marketSnapshot) {
