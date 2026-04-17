@@ -10734,9 +10734,8 @@
       const ctx = canvas.getContext('2d');
       canvas._chartInstance = new Chart(ctx, {
         type: 'line',
-        data: { labels: zHistory.map((_, i) => i), datasets: [{ data: zHistory, borderColor: '#a371f7', backgroundColor: 'rgba(163,113,247,0.08)', borderWidth: 1.5, pointRadius: 0, fill: true, tension: 0.3 }] },
-        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: {
-                enabled: false,
+        data: { labels: zHistory.map((_, i) => i), datasets: [{ data: zHistory, borderColor: '#a371f7', backgroundColor: 'rgba(163,113,247,0.08)', borderWidth: 1.5, pointRadius: 0, hoverRadius: 4, hitRadius: 10, fill: true, tension: 0.3 }] },
+        options: { responsive: true, maintainAspectRatio: false, interaction: { mode: "index", intersect: false }, plugins: { legend: { display: false }, tooltip: { enabled: false,
                 external: function(context) {
                   let tooltipEl = document.getElementById('chartjs-spark-tooltip');
                   if (!tooltipEl) {
