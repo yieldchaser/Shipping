@@ -1934,7 +1934,7 @@
     .intel-conf-banner.ci-bear { color: var(--red);    background: rgba(248,81,73,.04); }
 
     /* Quant / Qual split body */
-    .intel-body { display: grid; grid-template-columns: 1fr 1fr; gap: 0; }
+    .intel-body { display: grid; grid-template-columns: 2fr 3fr; gap: 0; }
     .intel-col { padding: 14px 18px; }
     .intel-col + .intel-col { border-left: 1px solid var(--border); }
     .intel-col-label {
@@ -1990,7 +1990,7 @@
 
     /* Sub-index strip */
     .intel-sub-strip {
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
       gap: 0; border-top: 1px solid var(--border);
     }
     .intel-sub-item {
@@ -1999,7 +1999,52 @@
     .intel-sub-item + .intel-sub-item { border-left: 1px solid var(--border); }
     .intel-sub-label { font-size: 10px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .4px; }
     .intel-sub-val   { font-size: 14px; font-weight: 700; color: var(--text); }
-    .intel-sub-meta  { font-size: 10px; color: var(--text-muted); display: flex; gap: 6px; }
+    .intel-sub-meta  { font-size: 10px; color: var(--text-muted); display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+    .intel-sub-pctl  { font-size: 9px; color: var(--accent); font-weight: 600; opacity: .85; }
+
+    /* Percentile bars */
+    .pctl-row { display: flex; align-items: center; gap: 8px; margin: 4px 0; }
+    .pctl-label { font-size: 9px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .3px; min-width: 52px; }
+    .pctl-track { flex: 1; height: 5px; background: var(--border); border-radius: 3px; position: relative; overflow: hidden; }
+    .pctl-fill { height: 100%; border-radius: 3px; transition: width .4s ease; }
+    .pctl-fill.pf-low  { background: var(--red); }
+    .pctl-fill.pf-mid  { background: var(--yellow); }
+    .pctl-fill.pf-high { background: var(--green); }
+    .pctl-val { font-size: 10px; font-weight: 600; min-width: 32px; text-align: right; }
+
+    /* Sentiment 3-axis matrix */
+    .sent-matrix { width: 100%; border-collapse: collapse; margin: 4px 0 8px; }
+    .sent-matrix th { font-size: 9px; text-transform: uppercase; letter-spacing: .4px; color: var(--text-muted); padding: 4px 6px; text-align: left; border-bottom: 1px solid var(--border); font-weight: 600; }
+    .sent-matrix td { font-size: 11px; padding: 4px 6px; border-bottom: 1px solid rgba(30,37,48,.5); white-space: nowrap; }
+    .sent-matrix tr:last-child td { border-bottom: none; }
+    .sent-matrix .sm-pos { color: var(--green); font-weight: 600; }
+    .sent-matrix .sm-neg { color: var(--red); font-weight: 600; }
+    .sent-matrix .sm-neu { color: var(--text-muted); }
+    .sent-matrix .sm-date { font-size: 10px; color: var(--text-muted); opacity: .7; }
+    .sent-matrix-toggle { font-size: 10px; color: var(--accent); cursor: pointer; padding: 3px 0; border: none; background: none; text-decoration: underline; opacity: .8; transition: opacity .15s; }
+    .sent-matrix-toggle:hover { opacity: 1; }
+
+    /* Sentiment timeline bar */
+    .sent-timeline { display: flex; height: 6px; border-radius: 3px; overflow: hidden; margin: 6px 0 10px; gap: 2px; }
+    .sent-tl-seg { flex: 1; border-radius: 2px; transition: opacity .15s; }
+    .sent-tl-seg:hover { opacity: .7; }
+    .sent-tl-seg.tl-pos { background: var(--green); }
+    .sent-tl-seg.tl-neg { background: var(--red); }
+    .sent-tl-seg.tl-neu { background: var(--border); }
+
+    /* Trend summary */
+    .sent-trend-summary { font-size: 10px; color: var(--text-muted); line-height: 1.6; padding: 6px 0; border-top: 1px solid var(--border); margin-top: 4px; }
+    .sent-trend-summary strong { color: var(--text); }
+
+    /* Confidence */
+    .intel-confidence { font-size: 9px; font-weight: 600; letter-spacing: .3px; padding: 2px 6px; border-radius: 3px; margin-left: 6px; }
+    .intel-confidence.conf-high { color: var(--green); background: rgba(63,185,80,.12); }
+    .intel-confidence.conf-med  { color: var(--yellow); background: rgba(227,179,65,.12); }
+    .intel-confidence.conf-low  { color: var(--text-muted); background: rgba(139,148,158,.1); }
+
+    /* Sparkline container */
+    .intel-spark-wrap { position: relative; height: 36px; margin: 6px 0; }
+    .intel-spark-label { font-size: 9px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .3px; margin-bottom: 2px; }
 
     /* Brief cards */
     .brief-macro {
@@ -10416,17 +10461,24 @@
     };
 
     function _confluenceType(zScore, sentiments) {
-      if (!sentiments || !sentiments.length || zScore == null) return 'NEUTRAL';
-      const q = sentiments.reduce((s, x) => s + (_QUAL_SCORES[x] ?? 0), 0) / sentiments.length;
-      if (zScore >  0.5 && q >  0.25) return 'BULL_CONFLUENCE';
-      if (zScore < -0.5 && q < -0.25) return 'BEAR_CONFLUENCE';
-      if ((zScore > 0.5 && q < -0.25) || (zScore < -0.5 && q > 0.25)) return 'DIVERGENCE';
-      return 'NEUTRAL';
+      if (!sentiments || !sentiments.length || zScore == null) return { type: 'NEUTRAL', confidence: 0 };
+      const decay = 0.85;
+      let wSum = 0, wTotal = 0;
+      sentiments.forEach((x, i) => { const w = Math.pow(decay, i); wSum += (_QUAL_SCORES[x] ?? 0) * w; wTotal += w; });
+      const q = wSum / wTotal;
+      const rawConf = Math.min(1, (Math.abs(q) * Math.abs(zScore)) / 2.5);
+      const confidence = Math.round(rawConf * 100);
+      let type;
+      if (zScore > 0.5 && q > 0.25) type = 'BULL_CONFLUENCE';
+      else if (zScore < -0.5 && q < -0.25) type = 'BEAR_CONFLUENCE';
+      else if ((zScore > 0.5 && q < -0.25) || (zScore < -0.5 && q > 0.25)) type = 'DIVERGENCE';
+      else type = 'NEUTRAL';
+      return { type, confidence };
     }
 
     function _intelRegime(productKey) {
       const rows   = getRows(productKey);
-      if (!rows.length) return { regime: 'N/A', emoji: '⚪', ma200: null, roc60: null, zScore: null, current: null };
+      if (!rows.length) return { regime: 'N/A', emoji: '⚪', ma200: null, roc60: null, zScore: null, current: null, pctl1y: null, pctl5y: null, pctlAll: null, zHistory: [] };
       const vals   = rows.map(r => r[productKey]);
       const ma200a = movingAverage(vals, 200);
       const roc60a = rateOfChange(vals, 60);
@@ -10441,7 +10493,15 @@
       else if (cur > ma200)               { regime = 'DISTRIBUTION'; emoji = '🟡'; }
       else if (roc60 > 0)                 { regime = 'ACCUMULATION'; emoji = '🔵'; }
       else                                { regime = 'CONTRACTION';  emoji = '🔴'; }
-      return { regime, emoji, ma200, roc60, zScore, current: cur };
+      // Percentiles
+      const validVals = vals.filter(v => v != null);
+      const vals1y = validVals.slice(-252);
+      const vals5y = validVals.slice(-1260);
+      const pctl1y = cur != null ? percentileRank(vals1y, cur) : null;
+      const pctl5y = cur != null ? percentileRank(vals5y, cur) : null;
+      const pctlAll = cur != null ? percentileRank(validVals, cur) : null;
+      const zHistory = zArr.slice(-30).map(v => v != null ? v : 0);
+      return { regime, emoji, ma200, roc60, zScore, current: cur, pctl1y, pctl5y, pctlAll, zHistory };
     }
 
     // ── Signal Alert renderer ─────────────────────────────────────────────────
@@ -10461,8 +10521,8 @@
       const tankerZ = (cleanQ.zScore != null && dirtyQ.zScore != null)
         ? (cleanQ.zScore + dirtyQ.zScore) / 2 : (cleanQ.zScore ?? dirtyQ.zScore);
 
-      const drySigs    = _recentBreakwave('drybulk', 4);
-      const tankerSigs = _recentBreakwave('tankers', 4);
+      const drySigs    = _recentBreakwave('drybulk', 8);
+      const tankerSigs = _recentBreakwave('tankers', 8);
       const drySents   = drySigs.map(s => s.sentiment || 'neutral');
       const tankSents  = tankerSigs.map(s => s.sentiment || 'neutral');
 
@@ -10479,6 +10539,12 @@
           [{ label: 'BCTI Clean', q: cleanQ, c: _confluenceType(cleanQ.zScore, tankSents) },
            { label: 'BDTI Dirty', q: dirtyQ, c: _confluenceType(dirtyQ.zScore, tankSents) }]);
 
+      // Render Z-score sparklines after DOM update
+      setTimeout(() => {
+        _renderZSparkline('zSparkDry', bdiQ.zHistory);
+        _renderZSparkline('zSparkTanker', cleanQ.zHistory);
+      }, 50);
+
       if (ts) {
         const dryQualDate = drySigs[0]?.date || null;
         const tankerQualDate = tankerSigs[0]?.date || null;
@@ -10493,91 +10559,134 @@
     function _buildVCCard(title, q, confluence, qualSigs, subItems) {
       const fmtN  = n => n != null ? Number(n).toLocaleString(undefined, { maximumFractionDigits: 0 }) : '—';
       const fmtPc = n => n != null ? (n >= 0 ? '+' : '') + n.toFixed(1) + '%' : '—';
+      const fmtPctl = n => n != null ? Math.round(n * 100) : null;
 
       const cfgMap = {
-        BULL_CONFLUENCE: { cls:'ci-bull', badge:'bull', label:'🟢 POSITIVE CONFLUENCE',
+        BULL_CONFLUENCE: { cls:'ci-bull', badge:'bull', label:'POSITIVE CONFLUENCE',
           note: 'Quantitative momentum and Breakwave analyst sentiment are <strong>both positive</strong> — signals are aligned.' },
-        BEAR_CONFLUENCE: { cls:'ci-bear', badge:'bear', label:'🔴 NEGATIVE CONFLUENCE',
+        BEAR_CONFLUENCE: { cls:'ci-bear', badge:'bear', label:'NEGATIVE CONFLUENCE',
           note: 'Quantitative momentum and Breakwave analyst sentiment are <strong>both negative</strong> — signals are aligned.' },
-        DIVERGENCE:      { cls:'ci-div',  badge:'div',  label:'⚡ DIVERGENCE',
+        DIVERGENCE:      { cls:'ci-div',  badge:'div',  label:'DIVERGENCE',
           note: 'Quantitative and qualitative signals <strong>contradict each other</strong> — elevated positioning risk; potential mean-reversion setup.' },
-        NEUTRAL:         { cls:'ci-neut', badge:'neut', label:'— NEUTRAL',
+        NEUTRAL:         { cls:'ci-neut', badge:'neut', label:'NEUTRAL',
           note: 'No strong directional confluence detected.' },
       };
-      const cfg = cfgMap[confluence] || cfgMap.NEUTRAL;
+      const confObj = typeof confluence === 'object' ? confluence : { type: confluence, confidence: 0 };
+      const cfg = cfgMap[confObj.type] || cfgMap.NEUTRAL;
 
-      // Z-score gauge: clamp -3…+3, map to 0-100%
-      const z        = q.zScore;
-      const zPct     = z != null ? Math.min(100, Math.max(0, (z + 3) / 6 * 100)) : 50;
-      const zCol     = z > 0.5 ? 'var(--green)' : z < -0.5 ? 'var(--red)' : 'var(--text-muted)';
-      const zLabel   = z != null ? (z >= 0 ? '+' : '') + z.toFixed(2) + 'σ' : '—';
+      // Confidence label
+      const confPct = confObj.confidence || 0;
+      const confLabel = confPct >= 65 ? 'High' : confPct >= 35 ? 'Medium' : 'Low';
+      const confCls   = confPct >= 65 ? 'conf-high' : confPct >= 35 ? 'conf-med' : 'conf-low';
 
-      // Sentiment dots + rows (last 4 reports)
-      const sentDotCls = { positive:'pos', negative:'neg', neutral:'neu', mixed:'neu', constructive:'pos', cautiously_bullish:'pos', cautiously_bearish:'neg' };
-      const sentDots = qualSigs.slice(0, 4).map(s =>
-        `<div class="sent-dot ${sentDotCls[s.sentiment] || 'neu'}" data-tooltip="${s.date}: ${s.sentiment}"></div>`
+      // Z-score gauge
+      const z      = q.zScore;
+      const zPct   = z != null ? Math.min(100, Math.max(0, (z + 3) / 6 * 100)) : 50;
+      const zCol   = z > 0.5 ? 'var(--green)' : z < -0.5 ? 'var(--red)' : 'var(--text-muted)';
+      const zLabel = z != null ? (z >= 0 ? '+' : '') + z.toFixed(2) + 'σ' : '—';
+
+      // Percentile bars
+      function pctlBar(label, val) {
+        const pv = fmtPctl(val);
+        if (pv == null) return '';
+        const cls = pv <= 25 ? 'pf-low' : pv >= 75 ? 'pf-high' : 'pf-mid';
+        const col = pv <= 25 ? 'var(--red)' : pv >= 75 ? 'var(--green)' : 'var(--yellow)';
+        return '<div class="pctl-row"><span class="pctl-label">' + label + '</span><div class="pctl-track"><div class="pctl-fill ' + cls + '" style="width:' + pv + '%"></div></div><span class="pctl-val" style="color:' + col + '">' + pv + 'th</span></div>';
+      }
+
+      // Sparkline canvas ID
+      const sparkId = title.includes('Dry') ? 'zSparkDry' : 'zSparkTanker';
+
+      // 3-axis sentiment matrix
+      const sentClsMap = { positive:'sm-pos', negative:'sm-neg', neutral:'sm-neu', mixed:'sm-neu', constructive:'sm-pos', cautiously_bullish:'sm-pos', cautiously_bearish:'sm-neg' };
+      const sentIcon   = { positive:'▲', negative:'▼', neutral:'●', mixed:'●', constructive:'▲', cautiously_bullish:'▲', cautiously_bearish:'▼' };
+      const visibleSigs = qualSigs.slice(0, 6);
+      const hiddenSigs  = qualSigs.slice(6);
+
+      function sentCell(val) {
+        const v = val || 'neutral';
+        const cls = sentClsMap[v] || 'sm-neu';
+        const icon = sentIcon[v] || '●';
+        const lbl = v.replace(/_/g, ' ');
+        return '<td class="' + cls + '">' + icon + ' ' + lbl + '</td>';
+      }
+
+      const matrixRows = visibleSigs.map(s =>
+        '<tr>' + sentCell(s.sentiment) + sentCell(s.momentum) + sentCell(s.fundamentals) + '<td class="sm-date">' + (s.date || '—') + '</td></tr>'
       ).join('');
-      const sentRows = qualSigs.slice(0, 4).map(s => {
-        const vc = sentDotCls[s.sentiment] || 'neu';
-        const col = vc === 'pos' ? 'var(--green)' : vc === 'neg' ? 'var(--red)' : 'var(--text-muted)';
-        return `<div class="sent-report-row" data-tooltip="Broker sentiment from ${s.date}. Analysts categorize the outlook as ${s.sentiment}.">
-          <span style="font-weight:600;color:${col};">${s.sentiment}</span>
-          <span>/</span><span>${s.momentum || '—'}</span>
-          <span class="sent-report-date">${s.date}</span>
-        </div>`;
+      const hiddenRows = hiddenSigs.map(s =>
+        '<tr>' + sentCell(s.sentiment) + sentCell(s.momentum) + sentCell(s.fundamentals) + '<td class="sm-date">' + (s.date || '—') + '</td></tr>'
+      ).join('');
+
+      const toggleId = 'smToggle_' + sparkId;
+      const hiddenId = 'smHidden_' + sparkId;
+
+      // Sentiment timeline bar (oldest first)
+      const tlSegs = [...qualSigs].reverse().map(s => {
+        const cls = sentClsMap[s.sentiment] || 'sm-neu';
+        const tlCls = cls === 'sm-pos' ? 'tl-pos' : cls === 'sm-neg' ? 'tl-neg' : 'tl-neu';
+        return '<div class="sent-tl-seg ' + tlCls + '" data-tooltip="' + s.date + ': ' + (s.sentiment || 'neutral') + '"></div>';
       }).join('');
 
-      // Sub-index strip
+      // Trend summary
+      function trendText(field) {
+        const vals = qualSigs.map(s => s[field] || 'neutral');
+        const pos = vals.filter(v => sentClsMap[v] === 'sm-pos').length;
+        const neg = vals.filter(v => sentClsMap[v] === 'sm-neg').length;
+        const total = vals.length;
+        if (pos > total * 0.6) return '<strong style="color:var(--green)">▲ Positive</strong> (' + pos + '/' + total + ')';
+        if (neg > total * 0.6) return '<strong style="color:var(--red)">▼ Negative</strong> (' + neg + '/' + total + ')';
+        if (pos === neg) return '<strong>Mixed</strong> (' + pos + ' pos / ' + neg + ' neg)';
+        return '<strong>Flat</strong> (' + pos + ' pos / ' + neg + ' neg / ' + (total - pos - neg) + ' neu)';
+      }
+
+      const trendSummary = '<span>Sentiment: ' + trendText('sentiment') + '</span> &middot; <span>Momentum: ' + trendText('momentum') + '</span> &middot; <span>Fundamentals: ' + trendText('fundamentals') + '</span>';
+
+      // Sub-index strip with percentile tags
       const subHtml = subItems.map(({ label, q: sq, c: sc }) => {
-        const sz    = sq.zScore;
-        const sCol  = sz > 0.5 ? 'var(--green)' : sz < -0.5 ? 'var(--red)' : 'var(--text-muted)';
-        const scCfg = cfgMap[sc] || cfgMap.NEUTRAL;
-        return `<div class="intel-sub-item">
-          <span class="intel-sub-label">${label}</span>
-          <span class="intel-sub-val">${fmtN(sq.current)}</span>
-          <div class="intel-sub-meta" data-tooltip="Sub-index performance. Z-Score defines seasonal deviation; Regime defines trend phase.">
-            <span style="color:${sCol};font-weight:600;">${sz != null ? (sz >= 0 ? '+' : '') + sz.toFixed(2) + 'σ' : '—'}</span>
-            <span>${sq.emoji} ${sq.regime}</span>
-            <span class="intel-vc-badge ${scCfg.badge}" style="padding:1px 6px;font-size:9px;" data-tooltip="${scCfg.note.replace(/<[^>]+>/g, '')}">${scCfg.label}</span>
-          </div>
-        </div>`;
+        const sz = sq.zScore;
+        const sCol = sz > 0.5 ? 'var(--green)' : sz < -0.5 ? 'var(--red)' : 'var(--text-muted)';
+        const scObj = typeof sc === 'object' ? sc : { type: sc, confidence: 0 };
+        const scCfg = cfgMap[scObj.type] || cfgMap.NEUTRAL;
+        const subPctl = fmtPctl(sq.pctl1y);
+        const subPctlHtml = subPctl != null ? '<span class="intel-sub-pctl" data-tooltip="1-Year Percentile rank">' + subPctl + 'th pctl</span>' : '';
+        return '<div class="intel-sub-item"><span class="intel-sub-label">' + label + '</span><span class="intel-sub-val">' + fmtN(sq.current) + '</span><div class="intel-sub-meta" data-tooltip="Sub-index performance. Z-Score defines seasonal deviation; Regime defines trend phase."><span style="color:' + sCol + ';font-weight:600;">' + (sz != null ? (sz >= 0 ? '+' : '') + sz.toFixed(2) + 'σ' : '—') + '</span><span>' + sq.emoji + ' ' + sq.regime + '</span>' + subPctlHtml + '<span class="intel-vc-badge ' + scCfg.badge + '" style="padding:1px 6px;font-size:9px;" data-tooltip="' + scCfg.note.replace(/<[^>]+>/g, '') + '">' + scCfg.label + '</span></div></div>';
       }).join('');
 
-      return `<div class="intel-vc-card ${cfg.cls}">
-        <div class="intel-vc-header">
-          <span class="intel-vc-name">${title}</span>
-          <span class="intel-vc-badge ${cfg.badge}" data-tooltip="${cfg.note.replace(/<[^>]+>/g, '')}">${cfg.label}</span>
-        </div>
-        <div class="intel-conf-banner ${cfg.cls}" data-tooltip="Directional alignment indicator between Technical and Fundamental data.">${cfg.note}</div>
-        <div class="intel-body">
-          <div class="intel-col">
-            <div class="intel-col-label" data-tooltip="Quantitative indicators derived from live exchange data and historical price action.">Quantitative</div>
-            <div class="z-gauge-wrap" data-tooltip="Standard Deviation (σ) from the 1-year mean. Values >2σ or <-2σ signal historical extremes.">
-              <div class="z-value" style="color:${zCol}">${zLabel}</div>
-              <div class="z-gauge">
-                <div class="z-gauge-dot" style="left:${zPct}%;background:${zCol};"></div>
-              </div>
-              <div class="z-gauge-labels"><span>−3σ Negative</span><span>0</span><span>Positive +3σ</span></div>
-            </div>
-            <div class="intel-regime-row" data-tooltip="Volatility Regime based on MA200 crossover and 60-day Rate of Change. Expansion=Positive Trend; Contraction=Negative Trend.">
-              <span class="intel-regime-emoji">${q.emoji}</span>
-              <div>
-                <div class="intel-regime-label">${q.regime}</div>
-                <div class="intel-regime-sub">Level: ${fmtN(q.current)}</div>
-              </div>
-              <span class="intel-roc">ROC(60D) ${fmtPc(q.roc60)}</span>
-            </div>
-          </div>
-          <div class="intel-col">
-            <div class="intel-col-label" data-tooltip="Qualitative intelligence synthesized from bi-weekly Breakwave analyst reports and market insights.">Qualitative — Breakwave Advisors</div>
-            ${qualSigs.length ? `
-              <div class="sent-dots-row">${sentDots}<span style="font-size:10px;color:var(--text-muted);margin-left:4px;">last ${qualSigs.length} reports</span></div>
-              ${sentRows}
-            ` : `<div class="sent-no-data">Sentiment data unavailable — <code>signals.jsonl</code> loading or not yet generated.</div>`}
-          </div>
-        </div>
-        ${subHtml ? `<div class="intel-sub-strip">${subHtml}</div>` : ''}
-      </div>`;
+      return '<div class="intel-vc-card ' + cfg.cls + '"><div class="intel-vc-header"><span class="intel-vc-name">' + title + '</span><span class="intel-vc-badge ' + cfg.badge + '" data-tooltip="' + cfg.note.replace(/<[^>]+>/g, '') + '">' + cfg.label + '<span class="intel-confidence ' + confCls + '">' + confLabel + ' ' + confPct + '%</span></span></div>' +
+        '<div class="intel-conf-banner ' + cfg.cls + '" data-tooltip="Directional alignment indicator between Technical and Fundamental data.">' + cfg.note + '</div>' +
+        '<div class="intel-body"><div class="intel-col">' +
+          '<div class="intel-col-label" data-tooltip="Quantitative indicators derived from live exchange data and historical price action.">Quantitative</div>' +
+          '<div class="z-gauge-wrap" data-tooltip="Standard Deviation (σ) from the 1-year mean. Values >2σ or <-2σ signal historical extremes."><div class="z-value" style="color:' + zCol + '">' + zLabel + '</div><div class="z-gauge"><div class="z-gauge-dot" style="left:' + zPct + '%;background:' + zCol + ';"></div></div><div class="z-gauge-labels"><span>−3σ Negative</span><span>0</span><span>Positive +3σ</span></div></div>' +
+          '<div class="intel-spark-label">Z-Score (30D)</div><div class="intel-spark-wrap"><canvas id="' + sparkId + '"></canvas></div>' +
+          pctlBar('1Y Pctl', q.pctl1y) + pctlBar('5Y Pctl', q.pctl5y) + pctlBar('All-Time', q.pctlAll) +
+          '<div class="intel-regime-row" data-tooltip="Volatility Regime based on MA200 crossover and 60-day Rate of Change. Expansion=Positive Trend; Contraction=Negative Trend."><span class="intel-regime-emoji">' + q.emoji + '</span><div><div class="intel-regime-label">' + q.regime + '</div><div class="intel-regime-sub">Level: ' + fmtN(q.current) + '</div></div><span class="intel-roc">ROC(60D) ' + fmtPc(q.roc60) + '</span></div>' +
+        '</div><div class="intel-col">' +
+          '<div class="intel-col-label" data-tooltip="Qualitative intelligence synthesized from bi-weekly Breakwave analyst reports and market insights.">Qualitative — Breakwave Advisors</div>' +
+          (qualSigs.length ? (
+            '<div class="sent-timeline" data-tooltip="Sentiment timeline — oldest (left) to newest (right)">' + tlSegs + '</div>' +
+            '<table class="sent-matrix"><thead><tr><th>Sentiment</th><th>Momentum</th><th>Fundamentals</th><th>Date</th></tr></thead><tbody>' + matrixRows + '</tbody>' +
+            (hiddenRows ? '<tbody id="' + hiddenId + '" style="display:none">' + hiddenRows + '</tbody>' : '') + '</table>' +
+            (hiddenSigs.length ? '<button class="sent-matrix-toggle" id="' + toggleId + '" onclick="var el=document.getElementById(\'' + hiddenId + '\');var btn=this;if(el.style.display===\'none\'){el.style.display=\'\';btn.textContent=\'Hide older\'}else{el.style.display=\'none\';btn.textContent=\'Show ' + hiddenSigs.length + ' older\'}">Show ' + hiddenSigs.length + ' older</button>' : '') +
+            '<div class="sent-trend-summary">' + trendSummary + '</div>'
+          ) : '<div class="sent-no-data">Sentiment data unavailable — <code>signals.jsonl</code> loading or not yet generated.</div>') +
+        '</div></div>' +
+        (subHtml ? '<div class="intel-sub-strip">' + subHtml + '</div>' : '') +
+      '</div>';
+    }
+
+    // Z-score sparkline renderer (Chart.js)
+    function _renderZSparkline(canvasId, zHistory) {
+      const canvas = document.getElementById(canvasId);
+      if (!canvas || !zHistory || !zHistory.length) return;
+      if (canvas._chartInstance) { canvas._chartInstance.destroy(); }
+      const ctx = canvas.getContext('2d');
+      canvas._chartInstance = new Chart(ctx, {
+        type: 'line',
+        data: { labels: zHistory.map((_, i) => i), datasets: [{ data: zHistory, borderColor: '#a371f7', backgroundColor: 'rgba(163,113,247,0.08)', borderWidth: 1.5, pointRadius: 0, fill: true, tension: 0.3 }] },
+        options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { enabled: false } }, scales: { x: { display: false }, y: { display: false, suggestedMin: -3, suggestedMax: 3 } }, animation: { duration: 400 } },
+        plugins: [{ beforeDraw: chart => { const { ctx: cx, chartArea: { left, right, top, bottom }, scales: { y } } = chart; const zeroY = y.getPixelForValue(0); if (zeroY >= top && zeroY <= bottom) { cx.save(); cx.strokeStyle = 'rgba(139,148,158,.3)'; cx.lineWidth = 1; cx.setLineDash([3,3]); cx.beginPath(); cx.moveTo(left, zeroY); cx.lineTo(right, zeroY); cx.stroke(); cx.restore(); } } }]
+      });
     }
 
     // ── Daily Brief renderer ──────────────────────────────────────────────────
