@@ -10661,7 +10661,9 @@
         const defs = subMarketMap[vesselKey] || [];
         return defs.map(({ key, label }) => {
           const sub = marketSnapshot?.[key];
-          if (!sub) return '';
+          if (!sub) {
+            return `<span class="brief-sub-pill"><strong>${esc(label)}</strong> ${esc('data n/a')}</span>`;
+          }
           const parts = [];
           if (sub.value != null) parts.push(`lvl ${fmtNum(sub.value)}`);
           if (sub.z_score_252d != null) parts.push(`z ${signed(sub.z_score_252d, 2)}`);
