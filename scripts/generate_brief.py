@@ -50,7 +50,7 @@ WIKI_EXCERPTS = {
 }
 
 CONFLUENCE_TYPES = {"BULL_CONFLUENCE", "BEAR_CONFLUENCE", "DIVERGENCE", "NEUTRAL"}
-RECENT_REPORTS = 4
+RECENT_REPORTS = 8
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-1.5-flash").strip()
@@ -260,10 +260,16 @@ def recent_breakwave(signals: list[dict], category: str, n: int = RECENT_REPORTS
 
 
 def compute_confluence(z_score: float | None, sentiments: list[str]) -> str:
-    """Classify confluence between quantitative Z-score and qualitative sentiments."""
+    """Classify confluence between quantitative Z-score and qualitative sentiments.
+
+    Uses exponential decay weighting (0.85^i) consistent with the JS
+    Signal Engine so that both systems produce the same confluence verdict.
+    """
     if not sentiments or z_score is None:
         return "NEUTRAL"
-    qual_score = sum(_QUAL_SCORES.get(s, 0.0) for s in sentiments) / len(sentiments)
+    decay = 0.85
+    weights = [decay ** i for i in range(len(sentiments))]
+    qual_score = sum(w * _QUAL_SCORES.get(s, 0.0) for w, s in zip(weights, sentiments)) / sum(weights)
     if z_score > 0.5 and qual_score > 0.25:
         return "BULL_CONFLUENCE"
     if z_score < -0.5 and qual_score < -0.25:

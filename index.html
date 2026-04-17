@@ -2174,6 +2174,14 @@
       color: var(--text-muted);
       background: rgba(13,17,23,.45);
     }
+    .brief-stale-badge { font-size: 10px; font-weight: 600; padding: 2px 8px; border-radius: 10px; margin-left: 8px; }
+    .brief-stale-badge.stale-fresh { color: var(--green); background: rgba(63,185,80,.12); }
+    .brief-stale-badge.stale-aging { color: var(--yellow); background: rgba(227,179,65,.12); }
+    .brief-stale-badge.stale-stale { color: var(--red); background: rgba(248,81,73,.12); }
+    .brief-nav { display: inline-flex; gap: 6px; margin-left: 10px; }
+    .brief-nav-btn { font-size: 11px; color: var(--accent); background: none; border: 1px solid var(--border); border-radius: 4px; padding: 2px 8px; cursor: pointer; }
+    .brief-nav-btn:hover { border-color: var(--accent); }
+    .brief-nav-btn:disabled { opacity: .3; cursor: not-allowed; }
     .brief-meta {
       font-size: 10px;
       color: var(--text-muted);
@@ -2244,6 +2252,9 @@
     }
     .intel-empty { text-align: center; padding: 2.5rem 1rem; color: var(--text-muted); font-size: 13px; }
     .intel-empty code { background: var(--hover); padding: 1px 5px; border-radius: 3px; font-size: 11px; }
+    .brief-meta-toggle { font-size: 10px; color: var(--accent); cursor: pointer; border: none; background: none; text-decoration: underline; opacity: .8; }
+    .brief-meta-toggle:hover { opacity: 1; }
+    .brief-meta-summary { font-size: 10px; color: var(--text-muted); display: flex; align-items: center; gap: 6px; border-top: 1px dashed rgba(139,148,158,.25); padding-top: 8px; margin-top: 10px; }
     @media (max-width: 700px) {
       .intel-body { grid-template-columns: 1fr; }
       .intel-col + .intel-col { border-left: none; border-top: 1px solid var(--border); }
@@ -3293,6 +3304,11 @@
         <div class="intel-section-title">
           📋 Daily Market Brief
           <span class="intel-section-meta" id="intelBriefTs"></span>
+          <span class="brief-stale-badge" id="briefStaleBadge"></span>
+          <span class="brief-nav">
+            <button class="brief-nav-btn" id="briefPrev" onclick="_briefNav(-1)">◀ Prev</button>
+            <button class="brief-nav-btn" id="briefNext" onclick="_briefNav(1)">Next ▶</button>
+          </span>
         </div>
         <div id="intelBriefContent">
           <div class="intel-empty">Loading...</div>
@@ -3308,11 +3324,15 @@
             <select id="qaProvider" class="qa-key-input qa-provider-select" onchange="onQAProviderChange()">
               <option value="gemini">Gemini</option>
               <option value="groq">Groq</option>
+              <option value="ollama">Ollama</option>
+              <option value="nim">NIM (NVIDIA)</option>
             </select>
             <span class="qa-key-label" id="qaApiKeyLabel">Gemini Key</span>
             <input type="password" id="qaApiKey" class="qa-key-input" placeholder="AIza... (stored only in localStorage)" />
             <span class="qa-key-label">Model</span>
             <input type="text" id="qaModel" class="qa-key-input" placeholder="gemini-1.5-flash" />
+            <span class="qa-key-label" id="qaBaseUrlLabel" style="display:none;">Base URL</span>
+            <input type="text" id="qaBaseUrl" class="qa-key-input" style="display:none;" placeholder="http://localhost:11434/api" />
             <button class="qa-key-btn" onclick="saveQASettings()">Save</button>
             <span id="qaKeyStatus" style="font-size:11px;color:var(--green);"></span>
           </div>
@@ -3324,8 +3344,15 @@
             <label class="qa-scope-item"><input type="checkbox" id="qaSrcWikiOnly"> Wiki only (fast)</label>
           </div>
           <div class="qa-input-row">
-            <textarea id="qaQuery" class="qa-textarea" placeholder="e.g. What is the current Capesize supply outlook through Q3 2026? What are analysts saying about iron ore demand?"></textarea>
+            <textarea id="qaQuery" class="qa-textarea" placeholder="e.g. What is the current Capesize supply outlook through Q3 2026? What are analysts saying about iron ore demand?" onkeydown="if(event.ctrlKey&&event.key==='Enter'){event.preventDefault();runQAQuery()}"></textarea>
             <button id="qaSubmitBtn" class="qa-submit" onclick="runQAQuery()">Ask</button>
+          </div>
+          <div class="qa-suggestions" style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;">
+            <span style="font-size:10px;color:var(--text-muted);text-transform:uppercase;letter-spacing:.4px;line-height:24px;">Try:</span>
+            <button class="qa-key-btn" style="font-size:11px;padding:3px 10px;" onclick="document.getElementById('qaQuery').value=this.textContent;runQAQuery()">What is the Capesize supply outlook for Q3 2026?</button>
+            <button class="qa-key-btn" style="font-size:11px;padding:3px 10px;" onclick="document.getElementById('qaQuery').value=this.textContent;runQAQuery()">Summarize the latest Breakwave dry bulk report</button>
+            <button class="qa-key-btn" style="font-size:11px;padding:3px 10px;" onclick="document.getElementById('qaQuery').value=this.textContent;runQAQuery()">How do iron ore imports affect freight rates?</button>
+            <button class="qa-key-btn" style="font-size:11px;padding:3px 10px;" onclick="document.getElementById('qaQuery').value=this.textContent;runQAQuery()">Compare clean vs dirty tanker fundamentals</button>
           </div>
           <div id="qaResultPanel" style="display:none;" class="qa-result-panel">
             <div id="qaStatus" class="qa-status"></div>
@@ -10361,20 +10388,41 @@
     const QA_CHUNK_FILES = {
       breakwave: [
         'knowledge/chunks/breakwave_drybulk.jsonl',
+        'knowledge/chunks/breakwave_drybulk_2026.jsonl',
         'knowledge/chunks/breakwave_tankers.jsonl',
         'knowledge/chunks/breakwave_insights_insights_2026.jsonl',
         'knowledge/chunks/breakwave_insights_insights_2025.jsonl',
         'knowledge/chunks/breakwave_insights_insights_2024.jsonl',
+        'knowledge/chunks/breakwave_insights_insights_2023.jsonl',
       ],
-      baltic:   ['knowledge/chunks/baltic_dry.jsonl', 'knowledge/chunks/baltic_tanker.jsonl'],
+      baltic: ['knowledge/chunks/baltic_dry.jsonl', 'knowledge/chunks/baltic_tanker.jsonl'],
       hellenic: [
         'knowledge/chunks/hellenic_dry_charter_2026.jsonl',
         'knowledge/chunks/hellenic_dry_charter_2025.jsonl',
+        'knowledge/chunks/hellenic_dry_charter_2024.jsonl',
+        'knowledge/chunks/hellenic_dry_charter_2023.jsonl',
         'knowledge/chunks/hellenic_tanker_charter_2026.jsonl',
         'knowledge/chunks/hellenic_tanker_charter_2025.jsonl',
+        'knowledge/chunks/hellenic_tanker_charter_2024.jsonl',
+        'knowledge/chunks/hellenic_tanker_charter_2023.jsonl',
         'knowledge/chunks/hellenic_vessel_valuations_2026.jsonl',
         'knowledge/chunks/hellenic_vessel_valuations_2025.jsonl',
+        'knowledge/chunks/hellenic_vessel_valuations_2024.jsonl',
+        'knowledge/chunks/hellenic_vessel_valuations_2023.jsonl',
       ],
+      ironOre: [
+        'knowledge/chunks/hellenic_iron_ore_2026.jsonl',
+        'knowledge/chunks/hellenic_iron_ore_2025.jsonl',
+        'knowledge/chunks/hellenic_iron_ore_2024.jsonl',
+        'knowledge/chunks/hellenic_iron_ore_2023.jsonl',
+      ],
+      shipbuilding: [
+        'knowledge/chunks/hellenic_shipbuilding_2026.jsonl',
+        'knowledge/chunks/hellenic_shipbuilding_2025.jsonl',
+        'knowledge/chunks/hellenic_demolition_2026.jsonl',
+        'knowledge/chunks/hellenic_demolition_2025.jsonl',
+      ],
+      books: ['knowledge/chunks/books.jsonl'],
     };
 
     const QA_WIKI_FILES = [
@@ -10385,6 +10433,9 @@
       { key: 'vlcc_and_suezmax',         path: 'knowledge/wiki/vlcc_and_suezmax.md',          label: 'VLCC & Suezmax' },
       { key: 'china_steel_and_iron_ore', path: 'knowledge/wiki/china_steel_and_iron_ore.md',  label: 'China Steel & Iron Ore' },
       { key: 'coal_and_grain_flows',     path: 'knowledge/wiki/coal_and_grain_flows.md',      label: 'Coal & Grain Flows' },
+      { key: 'oil_and_opec',             path: 'knowledge/wiki/oil_and_opec.md',              label: 'Oil & OPEC' },
+      { key: 'lng_and_lpg_shipping',     path: 'knowledge/wiki/lng_and_lpg_shipping.md',      label: 'LNG & LPG Shipping' },
+      { key: 'container_and_ningbo',     path: 'knowledge/wiki/container_and_ningbo_routes.md', label: 'Container & Ningbo Routes' },
     ];
 
     const RAW_FALLBACK_BASE = 'https://raw.githubusercontent.com/yieldchaser/Shipping/main/';
@@ -10691,6 +10742,43 @@
 
     // ── Daily Brief renderer ──────────────────────────────────────────────────
 
+    // Brief navigation state
+    let _briefDateOffset = 0;
+
+    function _briefDateStr(offset) {
+      const d = new Date();
+      d.setDate(d.getDate() + offset);
+      return d.toISOString().split('T')[0];
+    }
+
+    function _updateStaleBadge(generatedAt) {
+      const badge = document.getElementById('briefStaleBadge');
+      if (!badge || !generatedAt) { if (badge) badge.textContent = ''; return; }
+      const age = (Date.now() - new Date(generatedAt).getTime()) / 3600000;
+      if (age < 12) { badge.textContent = '\u{1F7E2} Fresh (' + Math.round(age) + 'h ago)'; badge.className = 'brief-stale-badge stale-fresh'; }
+      else if (age < 36) { badge.textContent = '\u{1F7E1} Aging (' + Math.round(age) + 'h ago)'; badge.className = 'brief-stale-badge stale-aging'; }
+      else { badge.textContent = '\u{1F534} Stale (' + Math.round(age / 24) + 'd ago)'; badge.className = 'brief-stale-badge stale-stale'; }
+    }
+
+    async function _briefNav(dir) {
+      _briefDateOffset += dir;
+      const dateStr = _briefDateStr(_briefDateOffset);
+      const el   = document.getElementById('intelBriefContent');
+      const tsEl = document.getElementById('intelBriefTs');
+      const nextBtn = document.getElementById('briefNext');
+      if (nextBtn) nextBtn.disabled = _briefDateOffset >= 0;
+      try {
+        const data = await _fetchJsonWithFallback('knowledge/briefs/' + dateStr + '.json');
+        if (!data) throw new Error('not_found');
+        INTEL.briefData = data;
+        _paintBrief(el, tsEl, INTEL.briefData);
+        _updateStaleBadge(data.generated_at);
+      } catch {
+        el.innerHTML = '<div class="intel-empty">No brief available for ' + dateStr + '.</div>';
+        _updateStaleBadge(null);
+      }
+    }
+
     async function _renderDailyBrief() {
       const el   = document.getElementById('intelBriefContent');
       const tsEl = document.getElementById('intelBriefTs');
@@ -10700,11 +10788,36 @@
         if (!data) throw new Error('not_found');
         INTEL.briefData = data;
         _paintBrief(el, tsEl, INTEL.briefData);
+        _updateStaleBadge(data.generated_at);
+        const nextBtn = document.getElementById('briefNext'); if (nextBtn) nextBtn.disabled = true;
       } catch {
-        el.innerHTML = `<div class="intel-empty">
-          No brief generated yet.<br>
-          The <code>daily_brief.yml</code> workflow runs at 12:00 PM UTC Mon–Fri.<br>
-          <span style="font-size:11px;opacity:.7;">Run <code>python scripts/generate_brief.py</code> locally to generate one now.</span>
+      const metaId = 'briefMetaDetails_' + Date.now();
+      const prov = generation?.provider_used || 'template';
+      const briefDateFmt = brief_date ? new Date(brief_date + 'T00:00').toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' }) : '';
+      const srcCount = sourceList.length;
+
+      el.innerHTML = `
+        ${macro_note ? `<div class="brief-macro"><strong>Macro:</strong> ${esc(macro_note)}</div>` : ''}
+        ${briefCard('Dry Bulk', 'dry_bulk', vc?.dry_bulk, 'bdi')}
+        ${briefCard('Tanker', 'tanker', vc?.tanker, 'clean_tanker')}
+        <div class="brief-meta-summary">
+          <span>\u{1F4E1} Generated via <strong>${esc(prov)}</strong> \u00B7 ${esc(briefDateFmt)} \u00B7 ${srcCount} sources</span>
+          <button class="brief-meta-toggle" onclick="var el=document.getElementById('${metaId}');el.style.display=el.style.display==='none'?'':'none';this.textContent=el.style.display==='none'?'Show details':'Hide details'">Show details</button>
+        </div>
+        <div class="brief-meta" id="${metaId}" style="display:none">
+          <div class="brief-meta-group">
+            <span class="brief-meta-label">Generation</span>
+            ${generation?.provider_used ? `<span class="qa-cit">provider: ${esc(generation.provider_used)}</span>` : ''}
+            ${generation?.mode ? `<span class="qa-cit">mode: ${esc(generation.mode)}</span>` : ''}
+            ${providerOrder ? `<span class="qa-cit">order: ${esc(providerOrder)}</span>` : ''}
+            ${attemptedProviders ? `<span class="qa-cit">attempted: ${esc(attemptedProviders)}</span>` : ''}
+            ${brief_date ? `<span class="qa-cit">brief_date: ${esc(brief_date)}</span>` : ''}
+          </div>
+          <div class="brief-meta-group">
+            <span class="brief-meta-label">Sources</span>
+            ${shownSources.map(src => `<span class="qa-cit">${esc(src)}</span>`).join('')}
+            ${remainingSources > 0 ? `<span class="qa-cit">+${remainingSources} more</span>` : ''}
+          </div>
         </div>`;
       }
     }
@@ -10773,10 +10886,10 @@
 
       function _latestQualDates(vesselKey) {
         const category = vesselKey === 'dry_bulk' ? 'drybulk' : 'tankers';
-        return uniq(_recentBreakwave(category, 4).map(s => s?.date).filter(Boolean));
+        return uniq(_recentBreakwave(category, 8).map(s => s?.date).filter(Boolean));
       }
 
-      function metricChip(label, value) {
+      function metricChip(label, value, rawVal) {
         if (!value) return '';
         const ttMap = {
           'Regime': 'Current trend phase (Expansion, Accumulation, Distribution, or Contraction) based on momentum crossovers.',
@@ -10786,7 +10899,12 @@
           'PCTL5Y': '5-Year Percentile. Ranks current levels against a half-decade of historical context.'
         };
         const tt = ttMap[label] || '';
-        return `<span class="brief-kpi" data-tooltip="${tt}"><span class="brief-kpi-k">${esc(label)}</span><span class="brief-kpi-v">${esc(value)}</span></span>`;
+        let vStyle = '';
+        if (label === 'Z' && rawVal != null) { const n = Number(rawVal); if (n > 0.5) vStyle = 'color:var(--green);font-weight:700;'; else if (n < -0.5) vStyle = 'color:var(--red);font-weight:700;'; }
+        if (label === 'ROC60' && rawVal != null) { const n = Number(rawVal); if (n > 5) vStyle = 'color:var(--green);font-weight:700;'; else if (n < -5) vStyle = 'color:var(--red);font-weight:700;'; }
+        let extra = '';
+        if (label === 'PCTL5Y' && rawVal != null) { const pv = Math.round(Number(rawVal) * 100); const cls = pv <= 25 ? 'pf-low' : pv >= 75 ? 'pf-high' : 'pf-mid'; extra = '<div class="pctl-row" style="margin:2px 0;"><div class="pctl-track"><div class="pctl-fill ' + cls + '" style="width:' + pv + '%"></div></div></div>'; }
+        return `<span class="brief-kpi" data-tooltip="${tt}"><span class="brief-kpi-k">${esc(label)}</span><span class="brief-kpi-v" style="${vStyle}">${esc(value)}</span>${extra}</span>`;
       }
 
       function renderSubMarkets(vesselKey, marketSnapshot) {
@@ -10819,17 +10937,25 @@
         const cfg = cfgMap[vcData.confluence_type] || cfgMap.NEUTRAL;
         const s = snap?.[snapKey];
 
-        const regimeText = [s?.regime_emoji, s?.regime].filter(Boolean).join(' ') || 'N/A';
+        const emojiMap = { UP: '🟢', DOWN: '🔴', FLAT: '🟡', RECOVERY: '🔵', 'N/A': '⚪' };
+        const regimeEmoji = emojiMap[s?.regime_emoji] || s?.regime_emoji || '';
+        const regimeText = [regimeEmoji, s?.regime].filter(Boolean).join(' ') || 'N/A';
         const kpiHtml = [
           metricChip('Regime', regimeText),
           metricChip('Level', s?.value != null ? fmtNum(s.value) : 'n/a'),
-          metricChip('Z', s?.z_score_252d != null ? signed(s.z_score_252d, 2) : 'n/a'),
-          metricChip('ROC60', s?.roc60 != null ? fmtPercent(s.roc60, 1) : 'n/a'),
-          metricChip('PCTL5Y', s?.pctl_5y != null ? fmtPercent(Number(s.pctl_5y) * 100, 1, false) : 'n/a'),
+          metricChip('Z', s?.z_score_252d != null ? signed(s.z_score_252d, 2) : 'n/a', s?.z_score_252d),
+          metricChip('ROC60', s?.roc60 != null ? fmtPercent(s.roc60, 1) : 'n/a', s?.roc60),
+          metricChip('PCTL5Y', s?.pctl_5y != null ? fmtPercent(Number(s.pctl_5y) * 100, 1, false) : 'n/a', s?.pctl_5y),
         ].join('');
 
         const subHtml = renderSubMarkets(vesselKey, snap);
-        const keySignals = uniq(vcData.key_signals).map(sig => `<li>${esc(sig)}</li>`).join('');
+        const keySignals = uniq(vcData.key_signals).map(sig => {
+          const lower = sig.toLowerCase();
+          let icon = '●', col = 'var(--text-muted)';
+          if (/positive|expansion|high|surge|strong|above|\+\d/.test(lower)) { icon = '▲'; col = 'var(--green)'; }
+          else if (/negative|contraction|weak|decline|below|bearish|risk|caution/.test(lower)) { icon = '▼'; col = 'var(--red)'; }
+          return '<li style="border-left:3px solid ' + col + ';padding-left:8px;margin-bottom:4px;"><span style="color:' + col + ';margin-right:4px;">' + icon + '</span>' + esc(sig) + '</li>';
+        }).join('');
         const reportDatesRaw = uniq(vcData.report_dates);
         const latestQualDates = _latestQualDates(vesselKey);
         const maxFrom = arr => (arr || []).slice().sort((a, b) => String(b).localeCompare(String(a)))[0] || '';
@@ -10849,11 +10975,22 @@
             </div>
             <span class="intel-vc-badge ${cfg.badge}">${esc(cfg.label)}</span>
           </div>
-          ${vcData.confluence_note ? `<div class="brief-conf-note ${cfg.cls}">${esc(vcData.confluence_note)}</div>` : ''}
+          ${vcData.confluence_note ? (() => {
+            const ct = vcData.confluence_type || '';
+            const cIcon = ct === 'DIVERGENCE' ? '⚠️' : ct === 'BULL_CONFLUENCE' ? '✅' : ct === 'BEAR_CONFLUENCE' ? '🚨' : '🔄';
+            return '<div class="brief-conf-note ' + cfg.cls + '">' + cIcon + ' ' + esc(vcData.confluence_note) + '</div>';
+          })() : ''}
           <p class="brief-summary">${esc(vcData.summary || 'No narrative summary available in the latest brief for this class.')}</p>
           ${segmentText ? `<div class="brief-segment-note">${esc(segmentText)}</div>` : ''}
           ${keySignals ? `<div class="brief-signals-title">Key Signals</div><ul class="brief-signals">${keySignals}</ul>` : ''}
-          ${vcData.outlook ? `<div class="brief-outlook"><strong style="color:var(--accent)">Outlook:</strong> ${esc(vcData.outlook)}</div>` : ''}
+          ${vcData.outlook ? (() => {
+            const ol = (vcData.outlook || '').toLowerCase();
+            let oIcon = '📊', oCol = 'var(--accent)';
+            if (/strong|persist|surge|bullish|positive/.test(ol)) { oIcon = '📈'; oCol = 'var(--green)'; }
+            else if (/caution|risk|correction|volatile/.test(ol)) { oIcon = '⚠️'; oCol = 'var(--yellow)'; }
+            else if (/weak|decline|bearish|negative/.test(ol)) { oIcon = '📉'; oCol = 'var(--red)'; }
+            return '<div class="brief-outlook"><strong style="color:' + oCol + '">' + oIcon + ' Outlook:</strong> ' + esc(vcData.outlook) + '</div>';
+          })() : ''}
           ${vcData.watch ? `<div class="brief-watch"><strong>Watch:</strong> ${esc(vcData.watch)}</div>` : ''}
           ${reportDates ? `<div class="brief-date-row"><span class="brief-meta-label">Reports</span>${reportDates}</div>` : ''}
         </div>`;
@@ -10894,22 +11031,10 @@
     // Q&A Assistant
 
     const QA_PROVIDER_CONFIG = {
-      gemini: {
-        label: 'Gemini',
-        keyStorage: 'qa_key_gemini',
-        modelStorage: 'qa_model_gemini',
-        defaultModel: 'gemini-1.5-flash',
-        keyLabel: 'Gemini Key',
-        keyPlaceholder: 'AIza... (stored only in localStorage)',
-      },
-      groq: {
-        label: 'Groq',
-        keyStorage: 'qa_key_groq',
-        modelStorage: 'qa_model_groq',
-        defaultModel: 'llama-3.3-70b-versatile',
-        keyLabel: 'Groq Key',
-        keyPlaceholder: 'gsk_... (stored only in localStorage)',
-      },
+      gemini: { label: 'Gemini', keyStorage: 'qa_key_gemini', modelStorage: 'qa_model_gemini', defaultModel: 'gemini-1.5-flash', keyLabel: 'Gemini Key', keyPlaceholder: 'AIza... (stored only in localStorage)', hasBaseUrl: false },
+      groq: { label: 'Groq', keyStorage: 'qa_key_groq', modelStorage: 'qa_model_groq', defaultModel: 'llama-3.3-70b-versatile', keyLabel: 'Groq Key', keyPlaceholder: 'gsk_... (stored only in localStorage)', hasBaseUrl: false },
+      ollama: { label: 'Ollama', keyStorage: 'qa_key_ollama', modelStorage: 'qa_model_ollama', defaultModel: '', keyLabel: 'Ollama Key (optional)', keyPlaceholder: 'Bearer token or leave blank', hasBaseUrl: true, baseUrlStorage: 'qa_baseurl_ollama', defaultBaseUrl: 'http://localhost:11434/api', keyOptional: true },
+      nim: { label: 'NIM (NVIDIA)', keyStorage: 'qa_key_nim', modelStorage: 'qa_model_nim', defaultModel: '', keyLabel: 'NIM Key', keyPlaceholder: 'nvapi-... (stored only in localStorage)', hasBaseUrl: true, baseUrlStorage: 'qa_baseurl_nim', defaultBaseUrl: 'https://integrate.api.nvidia.com/v1', keyOptional: false },
     };
 
     function _providerConfig(provider) {
@@ -10955,7 +11080,15 @@
       const modelEl = document.getElementById('qaModel');
       const labelEl = document.getElementById('qaApiKeyLabel');
       const statusEl = document.getElementById('qaKeyStatus');
+      const baseUrlEl = document.getElementById('qaBaseUrl');
+      const baseUrlLabel = document.getElementById('qaBaseUrlLabel');
       if (labelEl) labelEl.textContent = cfg.keyLabel;
+      if (baseUrlEl && baseUrlLabel) {
+        const showBase = cfg.hasBaseUrl || false;
+        baseUrlEl.style.display = showBase ? '' : 'none';
+        baseUrlLabel.style.display = showBase ? '' : 'none';
+        if (showBase) { baseUrlEl.placeholder = cfg.defaultBaseUrl || ''; baseUrlEl.value = localStorage.getItem(cfg.baseUrlStorage || '') || ''; }
+      }
       if (keyEl) {
         keyEl.placeholder = cfg.keyPlaceholder;
         keyEl.value = _loadProviderKey(provider);
@@ -10981,6 +11114,12 @@
     }
 
     function saveQASettings() {
+      // Save base URL if present
+      const curCfg = _providerConfig(_currentQAProvider());
+      if (curCfg.hasBaseUrl && curCfg.baseUrlStorage) {
+        const baseUrlVal = (document.getElementById('qaBaseUrl')?.value || '').trim();
+        if (baseUrlVal) localStorage.setItem(curCfg.baseUrlStorage, baseUrlVal);
+      }
       const provider = _currentQAProvider();
       const keyVal = (document.getElementById('qaApiKey')?.value || '').trim();
       const modelVal = (document.getElementById('qaModel')?.value || '').trim();
@@ -11042,6 +11181,29 @@
     }
 
     async function _runProviderLLM(provider, apiKey, model, prompt) {
+      if (provider === 'ollama') {
+        const baseUrl = localStorage.getItem('qa_baseurl_ollama') || 'http://localhost:11434/api';
+        const headers = { 'Content-Type': 'application/json' };
+        if (apiKey) headers['Authorization'] = 'Bearer ' + apiKey;
+        const res = await fetch(baseUrl + '/chat', {
+          method: 'POST', headers,
+          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], stream: false }),
+        });
+        if (!res.ok) { const err = await res.json().catch(() => ({})); throw new Error(err?.error || 'Ollama HTTP ' + res.status); }
+        const data = await res.json();
+        return data?.message?.content || '(no response)';
+      }
+      if (provider === 'nim') {
+        const baseUrl = localStorage.getItem('qa_baseurl_nim') || 'https://integrate.api.nvidia.com/v1';
+        const res = await fetch(baseUrl + '/chat/completions', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + apiKey },
+          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 1024 }),
+        });
+        if (!res.ok) { const err = await res.json().catch(() => ({})); throw new Error(err?.error?.message || 'NIM HTTP ' + res.status); }
+        const data = await res.json();
+        return data?.choices?.[0]?.message?.content || '(no response)';
+      }
       if (provider === 'groq') {
         const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
           method: 'POST',
@@ -11097,7 +11259,7 @@
       const model = (document.getElementById('qaModel')?.value || _loadProviderModel(provider) || cfg.defaultModel).trim();
 
       if (!query) return;
-      if (!apiKey) { alert(`Enter your ${cfg.label} API key first.`); return; }
+      if (!apiKey && !cfg.keyOptional) { alert(`Enter your ${cfg.label} API key first.`); return; }
       if (!model) { alert(`Enter a ${cfg.label} model first.`); return; }
 
       _saveProviderKey(provider, apiKey);
@@ -11136,6 +11298,9 @@
             ...(document.getElementById('qaSrcBreakwave')?.checked ? QA_CHUNK_FILES.breakwave : []),
             ...(document.getElementById('qaSrcBaltic')?.checked    ? QA_CHUNK_FILES.baltic    : []),
             ...(document.getElementById('qaSrcHellenic')?.checked  ? QA_CHUNK_FILES.hellenic  : []),
+            ...(document.getElementById('qaSrcIronOre')?.checked   ? QA_CHUNK_FILES.ironOre   : []),
+            ...(document.getElementById('qaSrcShipbuilding')?.checked ? QA_CHUNK_FILES.shipbuilding : []),
+            ...(document.getElementById('qaSrcBooks')?.checked     ? QA_CHUNK_FILES.books     : []),
           ];
           const allChunks  = (await Promise.all(urls.map(_loadChunks))).flat();
           const avgCLen    = allChunks.reduce((s, c) => s + _tokenize(c.text).length, 0) / (allChunks.length || 1);
