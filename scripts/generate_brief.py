@@ -329,11 +329,12 @@ def _fmt_signal(signal: dict) -> str:
 
 
 
-def load_recent_report_text(category: str, n: int = 2, max_chars: int = 800) -> str:
-    """Load the most recent N report 'Overview' chunks for a category.
+def load_recent_report_text(category: str, n_reports: int = RECENT_REPORTS) -> str:
+    """Load all chunk sections for the most recent N reports.
 
-    This injects actual analyst narrative into the LLM prompt, giving
-    the model access to geopolitical context, event references, etc.
+    Feeds the LLM the complete analyst narrative — Overview + Fundamentals —
+    so it can reference geopolitical events, supply/demand data, etc.
+    Each full report is ~200-230 tokens, so 8 reports x 2 categories = ~3600 tokens total.
     """
     chunk_map = {
         "drybulk": [KNOWLEDGE / "chunks" / "breakwave_drybulk_2026.jsonl",
@@ -350,19 +351,30 @@ def load_recent_report_text(category: str, n: int = 2, max_chars: int = 800) -> 
                     if not line:
                         continue
                     try:
-                        row = json.loads(line)
-                        if row.get("section_title") == "Overview":
-                            chunks.append(row)
+                        chunks.append(json.loads(line))
                     except json.JSONDecodeError:
                         continue
         except FileNotFoundError:
             continue
-    # Sort by date descending, take top N
+    # Group by date, sort dates descending, take top N report dates
     chunks.sort(key=lambda x: x.get("date", ""), reverse=True)
+    seen_dates: list[str] = []
+    for chunk in chunks:
+        d = chunk.get("date", "")
+        if d and d not in seen_dates:
+            seen_dates.append(d)
+    target_dates = set(seen_dates[:n_reports])
+    # Build text per date
     entries = []
-    for chunk in chunks[:n]:
-        text = _clean_text(chunk.get("text"))[:max_chars]
-        entries.append(f"{chunk.get('date', '?')}: {text}")
+    for report_date in seen_dates[:n_reports]:
+        date_chunks = [c for c in chunks if c.get("date") == report_date]
+        sections = []
+        for c in date_chunks:
+            section = c.get("section_title", "")
+            text = _clean_text(c.get("text"))
+            if text:
+                sections.append(f"[{section}] {text}" if section else text)
+        entries.append(f"{report_date}:\n" + "\n".join(sections))
     return "\n---\n".join(entries) if entries else "No report text available."
 
 def build_prompt(
