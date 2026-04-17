@@ -798,6 +798,48 @@ def _overlay_vessel(template_entry: dict, llm_entry: dict | None) -> dict:
     return result
 
 
+def _ensure_tanker_segment_coverage(entry: dict, snapshot: dict) -> dict:
+    """Ensure tanker narrative explicitly references both clean and dirty segments."""
+    result = dict(entry)
+    clean = snapshot.get("clean_tanker", {})
+    dirty = snapshot.get("dirty_tanker", {})
+    if not clean and not dirty:
+        return result
+
+    clean_value = clean.get("value")
+    dirty_value = dirty.get("value")
+    clean_roc = clean.get("roc60")
+    dirty_roc = dirty.get("roc60")
+
+    summary = _clean_text(result.get("summary"))
+    summary_lower = summary.lower()
+    if summary and ("clean" in summary_lower) and ("dirty" not in summary_lower):
+        clean_seg = (
+            f"clean tankers at {clean_value if clean_value is not None else 'N/A'} "
+            f"(ROC60 {_fmt_signed(clean_roc, 1, '%')})"
+        )
+        dirty_seg = (
+            f"dirty tankers at {dirty_value if dirty_value is not None else 'N/A'} "
+            f"(ROC60 {_fmt_signed(dirty_roc, 1, '%')})"
+        )
+        result["summary"] = (
+            summary.rstrip(".")
+            + f". Segment breadth remains important: {clean_seg}, alongside {dirty_seg}."
+        )
+
+    key_signals = list(result.get("key_signals") or [])
+    key_text = " ".join(str(s).lower() for s in key_signals)
+    if "dirty" not in key_text:
+        key_signals.append(
+            f"Dirty tanker check: level={dirty_value if dirty_value is not None else 'N/A'}, "
+            f"ROC60={_fmt_signed(dirty_roc, 1, '%')}."
+        )
+    if key_signals:
+        result["key_signals"] = key_signals[:4]
+
+    return result
+
+
 # ------------------------ Main ------------------------
 
 def main() -> None:
@@ -838,6 +880,7 @@ def main() -> None:
     llm_vessel = (llm_payload or {}).get("vessel_classes", {})
     dry_entry = _overlay_vessel(template_dry, llm_vessel.get("dry_bulk"))
     tanker_entry = _overlay_vessel(template_tanker, llm_vessel.get("tanker"))
+    tanker_entry = _ensure_tanker_segment_coverage(tanker_entry, snapshot)
 
     macro_note = _clean_text((llm_payload or {}).get("macro_note"))
     if not macro_note:

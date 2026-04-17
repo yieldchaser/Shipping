@@ -8,9 +8,9 @@ categories:
 - iron_ore
 - shipbuilding
 - vessel_valuations
-document_count: 89
+document_count: 90
 evidence_count: 250
-generated_at: '2026-04-17T11:11:47Z'
+generated_at: '2026-04-17T14:29:36Z'
 latest_evidence_date: '2026-04-16'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 89 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-16, with the strongest recurring markers being china, iron_ore, brazil, dry bulk, capesize. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 90 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-16, with the strongest recurring markers being china, iron_ore, brazil, dry bulk, capesize. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -49,9 +49,9 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - Recurring evidence markers: china, iron_ore, brazil, dry bulk, capesize, australia
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 129, hellenic: 117, baltic: 2, breakwave: 2
-- Category coverage: insights: 129, iron_ore: 54, demolition: 35, shipbuilding: 12, vessel_valuations: 8, dry_charter: 8, dry: 2, drybulk: 2
-- Tone distribution: constructive: 154, cautiously_bearish: 48, neutral: 48
+- Source coverage: breakwave_insights: 127, hellenic: 117, breakwave: 4, baltic: 2
+- Category coverage: insights: 127, iron_ore: 54, demolition: 35, shipbuilding: 12, vessel_valuations: 8, dry_charter: 8, drybulk: 4, dry: 2
+- Tone distribution: constructive: 154, neutral: 50, cautiously_bearish: 46
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
@@ -62,7 +62,7 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - 2026-04-15 | Q1 2026 orderbook data paints the picture of an industry that is repositioning decisively [doc_id: breakwave_insights_insights_2026-04-15_2026_04_15_q1_2026_orderbook_data_paints_the_picture_of_an_industry_that_is_repositioning_d | section_id: breakwave_insights_insights_2026-04-15_2026_04_15_q1_2026_orderbook_data_paints_the_picture_of_an_industry_that_is_repositioning_d__s01_main | pages n/a]
 - 2026-04-15 | Stockdraws, sanction/replacement oil, demand loss [doc_id: breakwave_insights_insights_2026-04-15_2026_04_15_stockdraws_sanctionreplacement_oil_demand_loss | section_id: breakwave_insights_insights_2026-04-15_2026_04_15_stockdraws_sanctionreplacement_oil_demand_loss__s03_absorption_of_sanctioned_oil_at_sea_hit_multi_year_highs | pages n/a]
 - 2026-04-15 | MMI Daily Iron Ore Index Report April 15 2026 [doc_id: hellenic_iron_ore_2026-04-15_2026_04_15_mmi_daily_iron_ore_index_report_april_15_2026 | section_id: hellenic_iron_ore_2026-04-15_2026_04_15_mmi_daily_iron_ore_index_report_april_15_2026__s03_linked_asset_2026_04_15_mmi_daily_iron_ore_index_report_april_15_2026_20260415181447_c6fc51fea4c2_pdf | pages n/a]
-- 2026-04-14 | Breakwave Bi-Weekly Dry Bulk Report - April 14, 2026 [doc_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9 | section_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9__s04_linked_asset_2026_04_14_4142026db_report2026april14llo4_wmso9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca1089e95c13_png | pages n/a]
+- 2026-04-14 | Dry Bulk Shipping - April 14, 2026 [doc_id: breakwave_drybulk_2026-04-14 | section_id: breakwave_drybulk_2026-04-14__s02_fundamentals | pages 2-2]
 
 ## Related Topics
 - capesize

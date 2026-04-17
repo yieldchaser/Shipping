@@ -5,9 +5,9 @@ categories:
 - insights
 - iron_ore
 - vessel_valuations
-document_count: 116
+document_count: 117
 evidence_count: 250
-generated_at: '2026-04-17T11:11:47Z'
+generated_at: '2026-04-17T14:29:36Z'
 latest_evidence_date: '2026-04-16'
 page_type: topic_wiki
 related_topics:
@@ -23,7 +23,7 @@ topic_id: capesize
 ---
 
 ## Summary
-Capesize trade patterns, Atlantic-Pacific balance, iron ore and coal exposure, and the route dynamics that most directly drive the largest dry-bulk vessels. The current wiki page is grounded in 250 cited sections from 116 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-16, with the strongest recurring markers being cape, capesize, china, iron_ore, brazil. Primary coverage comes from categories such as dry_charter, drybulk, insights, iron_ore, vessel_valuations.
+Capesize trade patterns, Atlantic-Pacific balance, iron ore and coal exposure, and the route dynamics that most directly drive the largest dry-bulk vessels. The current wiki page is grounded in 250 cited sections from 117 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-16, with the strongest recurring markers being cape, capesize, china, iron_ore, brazil. Primary coverage comes from categories such as dry_charter, drybulk, insights, iron_ore, vessel_valuations.
 
 ## Why It Matters
 Capesize trade patterns, Atlantic-Pacific balance, iron ore and coal exposure, and the route dynamics that most directly drive the largest dry-bulk vessels.
@@ -44,8 +44,8 @@ Capesize trade patterns, Atlantic-Pacific balance, iron ore and coal exposure, a
 - Recurring evidence markers: cape, capesize, china, iron_ore, brazil, australia
 
 ## Cross-Source View
-- Source coverage: hellenic: 145, breakwave_insights: 99, breakwave: 6
-- Category coverage: iron_ore: 121, insights: 99, vessel_valuations: 15, dry_charter: 9, drybulk: 6
+- Source coverage: hellenic: 145, breakwave_insights: 98, breakwave: 7
+- Category coverage: iron_ore: 121, insights: 98, vessel_valuations: 15, dry_charter: 9, drybulk: 7
 - Tone distribution: constructive: 139, cautiously_bearish: 74, neutral: 37
 - Related topics: dry_bulk_market, china_steel_and_iron_ore, coal_and_grain_flows
 
@@ -56,8 +56,8 @@ Capesize trade patterns, Atlantic-Pacific balance, iron ore and coal exposure, a
 - 2026-04-15 | Q1 2026 orderbook data paints the picture of an industry that is repositioning decisively [doc_id: breakwave_insights_insights_2026-04-15_2026_04_15_q1_2026_orderbook_data_paints_the_picture_of_an_industry_that_is_repositioning_d | section_id: breakwave_insights_insights_2026-04-15_2026_04_15_q1_2026_orderbook_data_paints_the_picture_of_an_industry_that_is_repositioning_d__s01_main | pages n/a]
 - 2026-04-15 | Weekly Dry Time Charter Estimates, April 15 2026 [doc_id: hellenic_dry_charter_2026-04-15_2026_04_15_weekly_dry_time_charter_estimates_april_15_2026 | section_id: hellenic_dry_charter_2026-04-15_2026_04_15_weekly_dry_time_charter_estimates_april_15_2026__s02_linked_asset_2026_04_15_weekly_dry_time_charter_estimates_april_15_2026_15420257_4e1fc63fb968_jpg | pages n/a]
 - 2026-04-15 | Weekly Vessel Valuations Report, April 14 2026 [doc_id: hellenic_vessel_valuations_2026-04-15_2026_04_15_weekly_vessel_valuations_report_april_14_2026 | section_id: hellenic_vessel_valuations_2026-04-15_2026_04_15_weekly_vessel_valuations_report_april_14_2026__s02_linked_asset_2026_04_15_weekly_vessel_valuations_report_april_14_2026_144202530_7bdf862b8324_jpg | pages n/a]
+- 2026-04-14 | Dry Bulk Shipping - April 14, 2026 [doc_id: breakwave_drybulk_2026-04-14 | section_id: breakwave_drybulk_2026-04-14__s02_fundamentals | pages 2-2]
 - 2026-04-14 | Breakwave Bi-Weekly Dry Bulk Report - April 14, 2026 [doc_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9 | section_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9__s04_linked_asset_2026_04_14_4142026db_report2026april14llo4_wmso9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca1089e95c13_png | pages n/a]
-- 2026-04-14 | MMI Daily Iron Ore Index Report April 14 2026 [doc_id: hellenic_iron_ore_2026-04-14_2026_04_14_mmi_daily_iron_ore_index_report_april_14_2026 | section_id: hellenic_iron_ore_2026-04-14_2026_04_14_mmi_daily_iron_ore_index_report_april_14_2026__s03_linked_asset_2026_04_14_mmi_daily_iron_ore_index_report_april_14_2026_20260414175922_cdc8ac505ee6_pdf | pages n/a]
 
 ## Related Topics
 - dry_bulk_market

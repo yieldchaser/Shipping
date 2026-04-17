@@ -10474,9 +10474,13 @@
            { label: 'BDTI Dirty', q: dirtyQ, c: _confluenceType(dirtyQ.zScore, tankSents) }]);
 
       if (ts) {
-        ts.textContent = drySigs.length
-          ? `Qual: Breakwave ${drySigs[0].date} · Quant: live CSV`
-          : 'Quant: live CSV · Qual: loading';
+        const dryQualDate = drySigs[0]?.date || null;
+        const tankerQualDate = tankerSigs[0]?.date || null;
+        const metaParts = [];
+        if (dryQualDate) metaParts.push(`Dry Qual: Breakwave ${dryQualDate}`);
+        if (tankerQualDate) metaParts.push(`Tanker Qual: Breakwave ${tankerQualDate}`);
+        metaParts.push('Quant: live CSV');
+        ts.textContent = metaParts.join(' · ');
       }
     }
 
@@ -10507,7 +10511,7 @@
       const sentDots = qualSigs.slice(0, 4).map(s =>
         `<div class="sent-dot ${sentDotCls[s.sentiment] || 'neu'}" title="${s.date}: ${s.sentiment}"></div>`
       ).join('');
-      const sentRows = qualSigs.slice(0, 3).map(s => {
+      const sentRows = qualSigs.slice(0, 4).map(s => {
         const vc = sentDotCls[s.sentiment] || 'neu';
         const col = vc === 'pos' ? 'var(--green)' : vc === 'neg' ? 'var(--red)' : 'var(--text-muted)';
         return `<div class="sent-report-row">

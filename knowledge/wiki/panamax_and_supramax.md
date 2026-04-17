@@ -4,9 +4,9 @@ categories:
 - drybulk
 - insights
 - vessel_valuations
-document_count: 107
+document_count: 108
 evidence_count: 250
-generated_at: '2026-04-17T11:11:47Z'
+generated_at: '2026-04-17T14:29:36Z'
 latest_evidence_date: '2026-04-16'
 page_type: topic_wiki
 related_topics:
@@ -21,7 +21,7 @@ topic_id: panamax_and_supramax
 ---
 
 ## Summary
-Panamax, supramax, and handysize market structure across grain, coal, and minor-bulk trades, especially where regional cargo shifts alter fleet utilization. The current wiki page is grounded in 250 cited sections from 107 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-16, with the strongest recurring markers being coal, grain, panamax, supramax, handysize. Primary coverage comes from categories such as dry_charter, drybulk, insights, vessel_valuations.
+Panamax, supramax, and handysize market structure across grain, coal, and minor-bulk trades, especially where regional cargo shifts alter fleet utilization. The current wiki page is grounded in 250 cited sections from 108 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-16, with the strongest recurring markers being coal, grain, panamax, supramax, handysize. Primary coverage comes from categories such as dry_charter, drybulk, insights, vessel_valuations.
 
 ## Why It Matters
 Panamax, supramax, and handysize market structure across grain, coal, and minor-bulk trades, especially where regional cargo shifts alter fleet utilization.
@@ -42,9 +42,9 @@ Panamax, supramax, and handysize market structure across grain, coal, and minor-
 - Recurring evidence markers: coal, grain, panamax, supramax, handysize, india
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 213, hellenic: 32, breakwave: 5
-- Category coverage: insights: 213, vessel_valuations: 21, dry_charter: 11, drybulk: 5
-- Tone distribution: cautiously_bearish: 113, constructive: 99, neutral: 38
+- Source coverage: breakwave_insights: 212, hellenic: 32, breakwave: 6
+- Category coverage: insights: 212, vessel_valuations: 21, dry_charter: 11, drybulk: 6
+- Tone distribution: cautiously_bearish: 112, constructive: 99, neutral: 39
 - Related topics: dry_bulk_market, coal_and_grain_flows
 
 ## Key Documents
@@ -54,8 +54,8 @@ Panamax, supramax, and handysize market structure across grain, coal, and minor-
 - 2026-04-15 | Weekly Dry Time Charter Estimates, April 15 2026 [doc_id: hellenic_dry_charter_2026-04-15_2026_04_15_weekly_dry_time_charter_estimates_april_15_2026 | section_id: hellenic_dry_charter_2026-04-15_2026_04_15_weekly_dry_time_charter_estimates_april_15_2026__s02_linked_asset_2026_04_15_weekly_dry_time_charter_estimates_april_15_2026_15420257_4e1fc63fb968_jpg | pages n/a]
 - 2026-04-14 | Japan's Shipbuilding Industry: Capacity Constraints and Structural Transition [doc_id: breakwave_insights_insights_2026-04-14_2026_04_14_japans_shipbuilding_industry_capacity_constraints_and_structural_transition | section_id: breakwave_insights_insights_2026-04-14_2026_04_14_japans_shipbuilding_industry_capacity_constraints_and_structural_transition__s01_main | pages n/a]
 - 2026-04-14 | Breakwave Bi-Weekly Dry Bulk Report - April 14, 2026 [doc_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9 | section_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9__s04_linked_asset_2026_04_14_4142026db_report2026april14llo4_wmso9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca1089e95c13_png | pages n/a]
+- 2026-04-14 | Dry Bulk Shipping - April 14, 2026 [doc_id: breakwave_drybulk_2026-04-14 | section_id: breakwave_drybulk_2026-04-14__s02_fundamentals | pages 2-2]
 - 2026-04-13 | Coal India's Stockpiles Set Another Record [doc_id: breakwave_insights_insights_2026-04-13_2026_04_13_coal_indias_stockpiles_set_another_record | section_id: breakwave_insights_insights_2026-04-13_2026_04_13_coal_indias_stockpiles_set_another_record__s04_linked_asset_2026_04_13_coal_indias_stockpiles_set_another_record_img_243_6f7bb673b293_jpg | pages n/a]
-- 2026-04-10 | Oil rebounds as supply disruptions mount [doc_id: breakwave_insights_insights_2026-04-10_2026_04_10_oil_rebounds_as_supply_disruptions_mount | section_id: breakwave_insights_insights_2026-04-10_2026_04_10_oil_rebounds_as_supply_disruptions_mount__s01_main | pages n/a]
 
 ## Related Topics
 - dry_bulk_market

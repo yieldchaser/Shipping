@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_drybulk_2026-04-14__root",
+  "doc_id": "breakwave_drybulk_2026-04-14",
+  "parent_id": null,
+  "title": "Dry Bulk Shipping - April 14, 2026",
+  "section_path": [
+    "Dry Bulk Shipping - April 14, 2026"
+  ],
+  "section_path_text": "Dry Bulk Shipping - April 14, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Dry Bulk Volatility Remains Subdued as Spot Rates Hit 2-Month Highs - The Are High Oil Prices a Risk to the Global Economy? - While the ongoing Middle Our Long-term View - The last few years have been characterized by increased",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "crude_oil",
+    "steel",
+    "yoy",
+    "ytd"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 347,
+  "source_path": "reports/drybulk/2026/2026-04-14_Breakwave_Dry_Bulk.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_drybulk_2026-04-14__s01_overview",
+      "doc_id": "breakwave_drybulk_2026-04-14",
+      "parent_id": "breakwave_drybulk_2026-04-14__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- Dry Bulk Volatility Remains Subdued as Spot Rates Hit 2-Month Highs - The\n- Are High Oil Prices a Risk to the Global Economy? - While the ongoing Middle\n- Our Long-term View - The last few years have been characterized by increased",
+      "keywords": [
+        "crude_oil",
+        "are",
+        "characterized",
+        "economy",
+        "few",
+        "global",
+        "high",
+        "highs"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 55,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_drybulk_2026-04-14__s02_fundamentals",
+      "doc_id": "breakwave_drybulk_2026-04-14",
+      "parent_id": "breakwave_drybulk_2026-04-14__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- China Steel Production (YTD: 160mt, YOY: -3.6%)\n- China Steel Inventories (YTD: 5.8mt, YOY: -0.4%)\n- China Iron Ore Inventories (YTD: 166mt, YOY: 20.3%)\n- China Iron Ore Imports (YTD: 1470mt, YOY: 2.8%)\n- China Coal Imports (YTD: 568mt, YOY: -8.3%)\n- China Soybean Imports (YTD: 124mt, YOY: 4.8%)\n- Brazil Iron Ore Exports (YTD: 501mt, YOY: 5.9%)\n- Australia Iron Ore Exports (YTD: 1010mt, YOY: 2.9%)\n- Dry Bulk Fleet (YTD: 1073 mdwt, YOY: 3.0%)\n- Baltic Dry Index Average (YTD: Baltic Dry Index, Average, YOY: 1,969)\n- Capesize Spot Rates Average (YTD: Capesize Spot Rates, Average, YOY: 23,172)\n- Panamax Spot Rates Average (YTD: Panamax Spot rates, Average, YOY: 15,473)",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 291,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}

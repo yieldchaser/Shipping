@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-17T11:12:47Z",
+  "generated_at": "2026-04-17T14:31:32Z",
   "current_date": "2026-04-17",
   "corpus": {
-    "document_count": 7987,
-    "chunk_count": 95467,
-    "section_count": 29132,
+    "document_count": 7988,
+    "chunk_count": 95469,
+    "section_count": 29134,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -16,11 +16,11 @@
       "category": "drybulk",
       "status": "healthy",
       "cadence_days": 14,
-      "latest_date": "2026-03-31",
-      "age_days": 17,
+      "latest_date": "2026-04-14",
+      "age_days": 3,
       "latest_gap_days": 14,
       "max_recent_gap_days": 28,
-      "dated_doc_count": 198,
+      "dated_doc_count": 199,
       "undated_doc_count": 0
     },
     {
@@ -217,19 +217,19 @@
       "relevant_corpus_latest_date": "2026-04-16",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 89,
+      "document_count": 90,
       "source_counts": {
         "baltic": 2,
-        "breakwave": 2,
-        "breakwave_insights": 129,
+        "breakwave": 4,
+        "breakwave_insights": 127,
         "hellenic": 117
       },
       "category_counts": {
         "demolition": 35,
         "dry": 2,
         "dry_charter": 8,
-        "drybulk": 2,
-        "insights": 129,
+        "drybulk": 4,
+        "insights": 127,
         "iron_ore": 54,
         "shipbuilding": 12,
         "vessel_valuations": 8
@@ -244,7 +244,7 @@
       "tone_distribution": {
         "cautiously_bearish": 18,
         "constructive": 51,
-        "neutral": 20
+        "neutral": 21
       }
     },
     {
@@ -296,16 +296,16 @@
       "relevant_corpus_latest_date": "2026-04-16",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 116,
+      "document_count": 117,
       "source_counts": {
-        "breakwave": 6,
-        "breakwave_insights": 99,
+        "breakwave": 7,
+        "breakwave_insights": 98,
         "hellenic": 145
       },
       "category_counts": {
         "dry_charter": 9,
-        "drybulk": 6,
-        "insights": 99,
+        "drybulk": 7,
+        "insights": 98,
         "iron_ore": 121,
         "vessel_valuations": 15
       },
@@ -320,7 +320,7 @@
       "tone_distribution": {
         "cautiously_bearish": 21,
         "constructive": 70,
-        "neutral": 25
+        "neutral": 26
       }
     },
     {
@@ -333,16 +333,16 @@
       "relevant_corpus_latest_date": "2026-04-16",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 107,
+      "document_count": 108,
       "source_counts": {
-        "breakwave": 5,
-        "breakwave_insights": 213,
+        "breakwave": 6,
+        "breakwave_insights": 212,
         "hellenic": 32
       },
       "category_counts": {
         "dry_charter": 11,
-        "drybulk": 5,
-        "insights": 213,
+        "drybulk": 6,
+        "insights": 212,
         "vessel_valuations": 21
       },
       "recent_sources_present": [
@@ -356,7 +356,7 @@
       "tone_distribution": {
         "cautiously_bearish": 22,
         "constructive": 58,
-        "neutral": 27
+        "neutral": 28
       }
     },
     {
@@ -404,16 +404,16 @@
       "relevant_corpus_latest_date": "2026-04-16",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 100,
+      "document_count": 101,
       "source_counts": {
-        "breakwave": 4,
-        "breakwave_insights": 145,
+        "breakwave": 5,
+        "breakwave_insights": 144,
         "hellenic": 101
       },
       "category_counts": {
         "dry_charter": 6,
-        "drybulk": 4,
-        "insights": 145,
+        "drybulk": 5,
+        "insights": 144,
         "iron_ore": 95
       },
       "recent_sources_present": [
@@ -427,7 +427,7 @@
       "tone_distribution": {
         "cautiously_bearish": 18,
         "constructive": 65,
-        "neutral": 17
+        "neutral": 18
       }
     },
     {
@@ -440,16 +440,16 @@
       "relevant_corpus_latest_date": "2026-04-16",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 97,
+      "document_count": 98,
       "source_counts": {
-        "breakwave": 5,
-        "breakwave_insights": 236,
+        "breakwave": 6,
+        "breakwave_insights": 235,
         "hellenic": 9
       },
       "category_counts": {
         "dry_charter": 9,
-        "drybulk": 5,
-        "insights": 236
+        "drybulk": 6,
+        "insights": 235
       },
       "recent_sources_present": [
         "breakwave",
@@ -462,7 +462,7 @@
       "tone_distribution": {
         "cautiously_bearish": 16,
         "constructive": 57,
-        "neutral": 24
+        "neutral": 25
       }
     },
     {

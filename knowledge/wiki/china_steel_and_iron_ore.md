@@ -4,9 +4,9 @@ categories:
 - drybulk
 - insights
 - iron_ore
-document_count: 100
+document_count: 101
 evidence_count: 250
-generated_at: '2026-04-17T11:11:47Z'
+generated_at: '2026-04-17T14:29:36Z'
 latest_evidence_date: '2026-04-16'
 page_type: topic_wiki
 related_topics:
@@ -21,7 +21,7 @@ topic_id: china_steel_and_iron_ore
 ---
 
 ## Summary
-China-driven steel and iron ore demand, port inventories, import trends, and the dry-bulk demand implications that flow through capesize and broader freight markets. The current wiki page is grounded in 250 cited sections from 100 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-16, with the strongest recurring markers being china, steel, iron_ore, brazil, iron ore. Primary coverage comes from categories such as dry_charter, drybulk, insights, iron_ore.
+China-driven steel and iron ore demand, port inventories, import trends, and the dry-bulk demand implications that flow through capesize and broader freight markets. The current wiki page is grounded in 250 cited sections from 101 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-04-16, with the strongest recurring markers being china, steel, iron_ore, brazil, iron ore. Primary coverage comes from categories such as dry_charter, drybulk, insights, iron_ore.
 
 ## Why It Matters
 China-driven steel and iron ore demand, port inventories, import trends, and the dry-bulk demand implications that flow through capesize and broader freight markets.
@@ -42,9 +42,9 @@ China-driven steel and iron ore demand, port inventories, import trends, and the
 - Recurring evidence markers: china, steel, iron_ore, brazil, iron ore, capesize
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 145, hellenic: 101, breakwave: 4
-- Category coverage: insights: 145, iron_ore: 95, dry_charter: 6, drybulk: 4
-- Tone distribution: constructive: 151, cautiously_bearish: 69, neutral: 30
+- Source coverage: breakwave_insights: 144, hellenic: 101, breakwave: 5
+- Category coverage: insights: 144, iron_ore: 95, dry_charter: 6, drybulk: 5
+- Tone distribution: constructive: 150, cautiously_bearish: 69, neutral: 31
 - Related topics: dry_bulk_market, capesize
 
 ## Key Documents
@@ -54,8 +54,8 @@ China-driven steel and iron ore demand, port inventories, import trends, and the
 - 2026-04-15 | Stockdraws, sanction/replacement oil, demand loss [doc_id: breakwave_insights_insights_2026-04-15_2026_04_15_stockdraws_sanctionreplacement_oil_demand_loss | section_id: breakwave_insights_insights_2026-04-15_2026_04_15_stockdraws_sanctionreplacement_oil_demand_loss__s07_linked_asset_2026_04_15_stockdraws_sanctionreplacement_oil_demand_loss_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_3c6a542f2c9c_png | pages n/a]
 - 2026-04-15 | Q1 2026 orderbook data paints the picture of an industry that is repositioning decisively [doc_id: breakwave_insights_insights_2026-04-15_2026_04_15_q1_2026_orderbook_data_paints_the_picture_of_an_industry_that_is_repositioning_d | section_id: breakwave_insights_insights_2026-04-15_2026_04_15_q1_2026_orderbook_data_paints_the_picture_of_an_industry_that_is_repositioning_d__s01_main | pages n/a]
 - 2026-04-15 | Weekly Dry Time Charter Estimates, April 15 2026 [doc_id: hellenic_dry_charter_2026-04-15_2026_04_15_weekly_dry_time_charter_estimates_april_15_2026 | section_id: hellenic_dry_charter_2026-04-15_2026_04_15_weekly_dry_time_charter_estimates_april_15_2026__s02_linked_asset_2026_04_15_weekly_dry_time_charter_estimates_april_15_2026_15420257_4e1fc63fb968_jpg | pages n/a]
+- 2026-04-14 | Dry Bulk Shipping - April 14, 2026 [doc_id: breakwave_drybulk_2026-04-14 | section_id: breakwave_drybulk_2026-04-14__s02_fundamentals | pages 2-2]
 - 2026-04-14 | Breakwave Bi-Weekly Dry Bulk Report - April 14, 2026 [doc_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9 | section_id: breakwave_insights_insights_2026-04-14_2026_04_14_4142026db_report2026april14llo4_wmso9__s04_linked_asset_2026_04_14_4142026db_report2026april14llo4_wmso9_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ca1089e95c13_png | pages n/a]
-- 2026-04-14 | MMI Daily Iron Ore Index Report April 14 2026 [doc_id: hellenic_iron_ore_2026-04-14_2026_04_14_mmi_daily_iron_ore_index_report_april_14_2026 | section_id: hellenic_iron_ore_2026-04-14_2026_04_14_mmi_daily_iron_ore_index_report_april_14_2026__s03_linked_asset_2026_04_14_mmi_daily_iron_ore_index_report_april_14_2026_20260414175922_cdc8ac505ee6_pdf | pages n/a]
 
 ## Related Topics
 - dry_bulk_market
