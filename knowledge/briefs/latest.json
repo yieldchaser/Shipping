@@ -1,13 +1,25 @@
 {
-  "generated_at": "2026-04-17T05:09:40.942529+00:00",
+  "generated_at": "2026-04-17T07:52:57.306580+00:00",
   "brief_date": "2026-04-17",
+  "generation": {
+    "mode": "llm",
+    "provider_used": "ollama",
+    "provider_order": [
+      "ollama",
+      "gemini",
+      "nim"
+    ],
+    "attempted_providers": [
+      "ollama"
+    ]
+  },
   "market_snapshot": {
     "bdi": {
       "value": 2523.0,
       "z_score_252d": 1.85,
       "pctl_5y": 0.994,
       "regime": "EXPANSION",
-      "regime_emoji": "🟢",
+      "regime_emoji": "UP",
       "ma200": 2036.3,
       "roc60": 45.92
     },
@@ -16,7 +28,7 @@
       "z_score_252d": 1.587,
       "pctl_5y": 0.99,
       "regime": "EXPANSION",
-      "regime_emoji": "🟢",
+      "regime_emoji": "UP",
       "ma200": 3127.5,
       "roc60": 56.65
     },
@@ -25,7 +37,7 @@
       "z_score_252d": 1.253,
       "pctl_5y": 0.993,
       "regime": "EXPANSION",
-      "regime_emoji": "🟢",
+      "regime_emoji": "UP",
       "ma200": 1756.2,
       "roc60": 25.48
     },
@@ -34,7 +46,7 @@
       "z_score_252d": 0.914,
       "pctl_5y": 0.948,
       "regime": "EXPANSION",
-      "regime_emoji": "🟢",
+      "regime_emoji": "UP",
       "ma200": 1293.4,
       "roc60": 42.22
     },
@@ -43,7 +55,7 @@
       "z_score_252d": 3.357,
       "pctl_5y": 0.998,
       "regime": "EXPANSION",
-      "regime_emoji": "🟢",
+      "regime_emoji": "UP",
       "ma200": 868.5,
       "roc60": 148.07
     },
@@ -52,19 +64,23 @@
       "z_score_252d": 2.101,
       "pctl_5y": 0.984,
       "regime": "EXPANSION",
-      "regime_emoji": "🟢",
+      "regime_emoji": "UP",
       "ma200": 1580.5,
       "roc60": 89.25
     }
   },
   "vessel_classes": {
     "dry_bulk": {
-      "confluence_type": "NEUTRAL",
-      "confluence_note": "",
-      "summary": "",
-      "key_signals": [],
-      "outlook": "",
-      "watch": "",
+      "confluence_type": "DIVERGENCE",
+      "confluence_note": "A sharp contradiction exists between record-level spot rates (99th percentile) and the negative fundamental/momentum outlook reported in late March.",
+      "summary": "The dry bulk sector is experiencing a massive price expansion, with the BDI hitting 2523 and Capesizes leading with a 56.6% 60-day rate of change. Despite this, qualitative signals remain bearish on fundamentals, suggesting the current rally may be driven by short-term supply dislocations rather than sustainable demand growth.",
+      "key_signals": [
+        "BDI 99.4th 5-year percentile",
+        "Capesize +1.59 sigma expansion",
+        "Negative qualitative fundamental sentiment"
+      ],
+      "outlook": "Bullish technical momentum is likely to face resistance if underlying fundamentals do not improve to match current pricing.",
+      "watch": "China's iron ore restocking pace and Brazilian export volumes.",
       "report_dates": [
         "2026-03-31",
         "2026-03-17",
@@ -74,11 +90,15 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "",
-      "summary": "",
-      "key_signals": [],
-      "outlook": "",
-      "watch": "",
+      "confluence_note": "Extreme quantitative strength is fully supported by positive qualitative sentiment, momentum, and fundamentals across all recent reports.",
+      "summary": "The tanker market is in a state of hyper-expansion, particularly in the clean segment which has seen a 148.1% ROC over the last 60 days. High Z-scores across both dirty and clean segments reflect a genuine supply-demand squeeze that is being confirmed by unanimous analyst positivity.",
+      "key_signals": [
+        "Clean Tanker +3.36 sigma deviation",
+        "148.1% 60-day ROC in Clean Tankers",
+        "Unanimous positive qualitative signals"
+      ],
+      "outlook": "The outlook remains aggressively bullish as high spot rates are underpinned by robust global energy trade fundamentals.",
+      "watch": "Refinery maintenance schedules and geopolitical impacts on crude transit routes.",
       "report_dates": [
         "2026-04-07",
         "2026-03-24",
@@ -87,7 +107,7 @@
       ]
     }
   },
-  "macro_note": "",
+  "macro_note": "The global freight market is operating at extreme historical percentiles, though the tanker sector shows much higher fundamental conviction than the dry bulk sector's price-driven surge.",
   "sources": [
     "breakwave_drybulk_2026-03-31",
     "breakwave_drybulk_2026-03-17",
