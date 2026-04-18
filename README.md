@@ -16,6 +16,18 @@ Open `index.html` in any browser, or visit the GitHub Pages URL.
 
 ---
 
+## 🧠 Research Q&A (RAG)
+
+The dashboard now features a production-ready **Grounded Q&A Assistant** (RAG) that allows analysts to query the entire shipping knowledge base.
+
+- **Suggested Questions UI**: A tabbed, human-readable question interface categorized by *Daily Briefing*, *Market Signals*, *Supply & Orderbooks*, *Macro & Cargo*, and *Trade Ideas*.
+- **Live Data Injection**: Unlike standard RAG which only sees static documents, our engine automatically injects the latest live quantitative telemetry (Z-scores, Regimes, Divergences) into every prompt as `[DOC-1]`.
+- **Traceable Citations**: Every claim is backed by a superscript citation (e.g., `[1]`) that links directly to the source report, date, and paragraph.
+- **Provider Fallback**: Intelligent browser-side engine that automatically falls back through Groq, Gemini, and Ollama to ensure 24/7 reliability.
+- **Zero-Cost Infrastructure**: Runs entirely in your browser using client-side indexing and free-tier LLM APIs.
+
+---
+
 ## How It Works (Self-Sustaining)
 
 The repository now maintains itself through six GitHub Actions workflows:
@@ -35,26 +47,37 @@ The dashboard still fetches everything client-side at page load with no backend.
 
 ---
 
-### Data Collection Readiness (2026-04-10)
+## What Can Be Built Next
 
-- Archive normalization completed for expanded source snapshots (Breakwave Insights + Hellenic).
-- Source archive validation passed: `5386` files checked, `0` issues.
-- Dry-run verification passed:
-  - `scripts/breakwave_insights_scraper.py --dry-run --year 2026` -> `ok=213, failed=0`
-  - `scripts/hellenic_scraper.py --category all --dry-run --year 2026` -> `ok=220, failed=0`
-- Collection automation is now scheduled for both core and extended report sources.
-- Data collection and knowledge integration are production-ready for the expanded source set.
+The current corpus + manifests + derived layers make the following additions straightforward:
+
+### High-leverage, Near-term
+
+- **Signal + Alert Engine**: Wire the extracted indicators in `signals.jsonl` to rule-based thresholds (e.g., "BDI Z-score > +2σ and last 3 Breakwave reports flag bullish Capesize").
+- **Research Workflow UI**: Add a dedicated "Lab" tab for filtering, comparing, and exporting evidence packs across different analyst sources.
+- **Multimodal Enhancement**: Implementation of stronger table extraction for image-heavy Hellenic reports.
+
+### Medium-term
+
+- **Analog-year Automation**: Compute cosine similarity between the current year’s daily Z-score path and all historical years to automatically surface and annotate the "Top 3 Analogs."
+- **FFA Divergence Detector**: Automatically flag cases where the futures term structure contradicts spot momentum and qualitative analyst sentiment.
+- **ETF Arbitrage Monitor**: Elevate NAV/Price divergences to actionable signals when knowledge-corpus sentiment is directionally consistent with the arbitrage.
+
+### Longer-term
+
+- **Cross-source Sentiment Index**: Aggregate extracted signals across all sources daily to compute a single sentiment score per vessel class.
+- **Analyst Accuracy Tracker**: Build a persistent record of analyst sentiment versus realized index moves to score source reliability over time.
 
 ---
 
-## Knowledge Base
+## Knowledge Base (Corpus)
 
 The repo now includes an incremental shipping intelligence knowledge layer built from:
 
 - Breakwave Advisors bi-weekly dry bulk and tanker PDFs
 - Breakwave Insights HTML commentary archive
 - Baltic Exchange weekly HTML roundups across dry, tanker, gas, container, and Ningbo
-- Hellenic Shipping News HTML archive (dry/tanker charter, iron ore, vessel valuations, demolition, shipbuilding)
+- Hellenic Shipping News HTML archive (charter, valuations, demolition, shipbuilding)
 - A local library of shipping reference books stored in `reports/`
 
 Knowledge outputs live under `knowledge/`:
@@ -67,173 +90,8 @@ Knowledge outputs live under `knowledge/`:
 - `knowledge/reports/` - generated knowledge-health summaries and operational diagnostics
 - `knowledge/manifests/` - document inventory, source registry, and error logs
 - `knowledge/derived/` - extracted signals, themes, section index, topic evidence, and timeline artifacts
-- `knowledge/CLAUDE.md` - schema and query contract for downstream agents/tools
 
 The compiler is `scripts/process_knowledge.py`, and corpus validation is handled by `scripts/validate_knowledge.py`.
-New report families or book collections can be added later by dropping raw files into `reports/` and wiring a small source adapter into the compiler.
-The future-source onboarding playbook, including guidance for image-table sources, lives in `knowledge/CLAUDE.md`.
-Operational runbook for production execution and verification lives in `knowledge/README.md`.
-Current compiler adapters are production-ready for `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, and `books`.
-
-### Knowledge System Status
-
-The core recommendations that shaped this system are now implemented:
-
-- structure-first retrieval artifacts via section trees, stable section IDs, and a flattened section index
-- a compiled wiki layer that turns source documents into evergreen topic pages with citations
-- a repo-native health layer that surfaces freshness, cadence, coverage, and cross-source divergence
-- fully automated ingestion + incremental rebuilds without a vector DB, hosted search stack, or extra paid infrastructure
-
-What remains optional is a future query/research interface layer: CLI search, analyst-style Q&A, analog retrieval, or dashboard integration. The current knowledge system is already complete from a build-quality, automation, and corpus-governance perspective.
-
-### What Can Be Built Next
-
-The current corpus + manifests + derived layers make the following additions straightforward:
-
-- Retrieval Q&A assistant with grounded citations (`knowledge/chunks` + `knowledge/trees`)
-- Automated daily/weekly market brief generator by vessel class, route, or commodity
-- Signal and alert engine using extracted indicators (`knowledge/derived/signals.jsonl`, timelines)
-- Data API layer to serve docs/chunks/wiki evidence to dashboards and external tools
-- Research workflow UI (query, filter, compare, and export evidence packs)
-- Source reliability and divergence scoring (freshness, consistency, contradiction tracking)
-- Backtest-ready feature generation for freight strategy models
-- Multimodal enhancement pass (stronger OCR/table extraction and image-heavy report handling)
-- High‑leverage, near‑term
-
-
-Grounded Q&A assistant (RAG)
-
-Knowledge chunks and knowledge trees are already prepared for a RAG pipeline.
-A trader can ask questions like “What’s the consensus on Capesize supply through Q3 2026?” and receive:
-
-A synthesized answer
-Exact, traceable source citations
-
-
-Retrieval infrastructure is already built; only an inference layer is missing.
-This unlocks immediate analyst‑style querying on top of the corpus.
-
-
-
-Daily automated market brief
-
-Each morning:
-
-Pull the 5–10 reports processed overnight.
-Run them through a summarization prompt.
-Group outputs by vessel class (Capesize, Panamax, Tanker).
-
-
-Emit a structured, repeatable daily brief.
-Anchor summaries to quantitative indicators from knowledge/derived/signals.jsonl.
-
-
-
-Signal + alert engine
-
-signals.jsonl and timelines.json already extract key indicators per document.
-Wire extracted indicators to rule‑based thresholds, e.g.:
-
-BDI Z‑score > +2σ and
-Last 3 Breakwave reports flag bullish Capesize
-
-
-Emit alerts when quantitative and qualitative signals align.
-Core task is joining:
-
-Quantitative CSVs
-Qualitative signal extractions
-
-
-
-
-
-
-Medium‑term
-
-
-Analog‑year automation
-
-Currently, analog years are selected manually in the dashboard.
-Automate by:
-
-Computing cosine similarity between the current year’s daily Z‑score path and all historical years.
-Surfacing the top 3 analog years.
-
-
-Attach:
-
-Relevant knowledge‑corpus excerpts from those historical years.
-Explanations of what fundamentally drove similar patterns.
-
-
-
-
-
-FFA divergence detector
-
-Compare:
-
-sgx_cape_futures.csv
-bdiy_historical.csv
-
-
-Flag cases where:
-
-The futures term structure implies a trajectory that contradicts spot momentum, and
-Recent Breakwave / Hellenic reports are directionally aligned against the futures curve.
-
-
-These divergences represent high‑value signals.
-
-
-
-ETF arbitrage monitor
-
-Premium/discount data is already scraped.
-Monitor BDRY and BWET for:
-
-NAV divergence beyond a 2.5% threshold.
-
-
-Elevate to actionable signals when:
-
-Knowledge‑corpus sentiment is directionally consistent with the divergence.
-
-
-
-
-
-
-Longer‑term
-
-
-Cross‑source composite sentiment index
-
-Aggregate extracted signals across all sources daily.
-Compute a single sentiment score per vessel class (e.g., dry bulk vs tanker).
-Backtest sentiment against next‑week BDI changes.
-This bridges:
-
-The unstructured text corpus
-The quantitative terminal data
-
-
-
-
-
-Automated earnings / report correlation tracker
-
-For each new Hellenic or Breakwave report:
-
-Extract key metrics.
-Append them to a growing time series.
-
-
-Build a persistent record of:
-
-Analyst sentiment
-Versus realized index moves over time
 
 ---
 
@@ -339,13 +197,13 @@ Shipping/
 │   ├── manifests/                      # Document/source/error manifests
 │   └── derived/                        # Signals, themes, section index, topic evidence, timelines
 │
-└── .github/workflows/
-    ├── daily_update.yml                # Cron: 10:30 AM + 2/7/10 PM UTC daily
-    ├── baltic_new_indices_update.yml   # Cron: 10:30 AM + 2/7/10 PM UTC Mon–Fri
-    ├── etf_holdings_update.yml         # Cron: 2 PM UTC Mon–Fri
-    ├── report_ingest.yml               # Cron: 8 AM / 9:30 AM / 12 PM / 4 PM UTC Mon-Fri
-    ├── process_knowledge.yml           # On reports push + manual full/incremental build
-    └── daily_knowledge_update.yml      # Cron: 3:30 PM UTC daily incremental knowledge check
+├── .github/workflows/
+│   ├── daily_update.yml                # Cron: 10:30 AM + 2/7/10 PM UTC daily
+│   ├── baltic_new_indices_update.yml   # Cron: 10:30 AM + 2/7/10 PM UTC Mon–Fri
+│   ├── etf_holdings_update.yml         # Cron: 2 PM UTC Mon–Fri
+│   ├── report_ingest.yml               # Cron: 8 AM / 9:30 AM / 12 PM / 4 PM UTC Mon-Fri
+│   ├── process_knowledge.yml           # On reports push + manual full/incremental build
+│   └── daily_knowledge_update.yml      # Cron: 3:30 PM UTC daily incremental knowledge check
 ```
 
 ---
