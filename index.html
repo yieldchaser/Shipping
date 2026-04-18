@@ -2318,32 +2318,7 @@
       .brief-card-title { font-size: 18px; }
     }
 
-    /* Intelligence Tab 2-Column Wide Screen Layout (Phase 6) */
-    .tab-panel.active#tab-intelligence {
-      display: grid;
-      grid-template-columns: 3fr 2fr;
-      grid-template-areas: 
-        "engine qa"
-        "brief qa";
-      gap: 24px;
-      align-items: start;
-    }
-    #tab-intelligence > .intel-section:nth-child(1) { grid-area: engine; }
-    #tab-intelligence > .intel-section:nth-child(2) { grid-area: brief; }
-    #tab-intelligence > .intel-section:nth-child(3) { 
-      grid-area: qa; 
-      position: sticky; 
-      top: 80px; 
-    }
-    @media (max-width: 1100px) {
-      #tab-intelligence {
-        grid-template-columns: 1fr;
-        grid-template-areas: "engine" "brief" "qa";
-      }
-      #tab-intelligence > .intel-section:nth-child(3) { 
-        position: static; 
-      }
-    }
+
   </style>
 <style>
 
