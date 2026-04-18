@@ -2302,7 +2302,7 @@
     opacity: 1;
     transform: translateY(0);
   }
-  [data-tooltip] { cursor: help; }
+  [data-tooltip] { cursor: help; text-decoration: underline dotted rgba(255,255,255,0.3); text-underline-offset: 3px; }
 
   .chart-tooltip {
     position: absolute;
@@ -11934,7 +11934,53 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         'Possible Shares': 'Safe trade size defined by volume banding (from 2% to 6.5% of total volume based on liquidity constraints).',
         'Safe Liquidity': 'Total trade capital ($) that can be entered/exited today without inducing market slippage.',
         'Total Safe Liquidity (1M)': 'Approximate cumulative trade capital that could safely be absorbed over the last 21 trading days.',
-        'MOMENTUM REGIME': 'Combines long-term trend (200-day Moving Average) and short-term momentum (60-day Rate of Change) into a 4-quadrant state model.'
+        'MOMENTUM REGIME': 'Combines long-term trend (200-day Moving Average) and short-term momentum (60-day Rate of Change) into a 4-quadrant state model.',
+        
+        // --- NEW DICTIONARY ADDITIONS --- //
+        // Tables
+        'Volume': 'Total contracts or shares exchanged during the current session.',
+        'Lots': 'Standardized trading unit size for the derivative contract.',
+        'Price': 'The last traded price for the asset.',
+        'Mkt Value': 'Total market capitalization of the held position (Price \u00D7 Shares).',
+        'Weight': 'Proportional allocation of the asset within the broader portfolio.',
+        'Close': 'Final settlement price for the trading day.',
+        '$ Vol Traded': 'Total capital committed (Price \u00D7 Volume) illustrating true liquidity depth.',
+        'Day \u0394': 'Absolute price change versus the previous session.',
+        'Day \u0394%': 'Percentage price change versus the previous session.',
+        '5D Chg%': 'Rolling 5-day percentage price change.',
+        'Tier %': 'Liquidity safety guardrail tier based on average daily volume.',
+        'Avg Value': 'Mathematical mean over the given timeframe.',
+        'Min': 'The lowest recorded value in the timeframe.',
+        'Max': 'The highest recorded value in the timeframe.',
+        'YoY %': 'Year-over-Year percentage change, identifying structural growth or decay.',
+        'Full Year Avg': 'The average daily value spanning the entire calendar year.',
+        'Product': 'The specific underlying asset or vessel class.',
+        'Year': 'Trading calendar year.',
+        'Date': 'Record date of the metric.',
+        'Jan': 'January average.', 'Feb': 'February average.', 'Mar': 'March average.', 'Apr': 'April average.', 'May': 'May average.', 'Jun': 'June average.', 'Jul': 'July average.', 'Aug': 'August average.', 'Sep': 'September average.', 'Oct': 'October average.', 'Nov': 'November average.', 'Dec': 'December average.',
+        'Q1': 'First quarter average.', 'Q2': 'Second quarter average.', 'Q3': 'Third quarter average.', 'Q4': 'Fourth quarter average.',
+        'Sentiment': 'Overall qualitative analyst tone regarding market direction (Bullish, Bearish, Neutral).',
+        'Momentum': 'Velocity of the current trend as identified by analyst commentary.',
+        'Fundamentals': 'Underlying supply/demand imbalances referenced in the report.',
+        // Sub-Stats
+        'vs full history': 'Comparing the current reading against the entire dataset going back to 2008.',
+        'last 10 years': 'Restricting comparison to the last decade to normalize structural changes.',
+        'last 5 years': 'Restricting comparison to post-Covid dynamic ranges.',
+        'vs same trading day': 'Comparing against the exact seasonal equivalent day in prior years.',
+        'from 52-week high': 'Measuring the retracement depth from the rolling 1-year peak.',
+        '20-day % change': 'Percentage move over the trailing month of trading.',
+        // Labels & Navigation
+        'Macro & Rates': 'Primary visual dashboards for vessel rates and seasonal trends.',
+        'Flow & Liquidity': 'ETF capital flows, block trading liquidity limits, and momentum divergence signals.',
+        'Signals & Regimes': 'Algorithmic state-models for market direction, volatility phases, and cross-asset correlations.',
+        'FFA Curve Sandbox': 'Singapore Exchange (SGX) Forward Freight Agreement (FFA) term structure analysis and historical settlements.',
+        'Intelligence Analyst': 'Knowledge Base Query engine allowing direct Q&A interaction with Breakwave and Hellenic PDF reports.',
+        'Settings & Guide': 'Platform configuration, provider keys, and architectural overview.',
+        'Target Index:': 'The specific index evaluated by the signal generation logic.',
+        'Contract Expiry:': 'The forward settlement month being analyzed.',
+        'Provider:': 'The AI inference provider (Groq, Gemini, or Local Ollama).',
+        'Model:': 'The specific large-language model selected for analysis.',
+        'Select Product:': 'Toggle the entire dashboard logic across BDI, Capesize, Panamax, Supramax, or Handysize.'
       };
 
       // Select generic text components throughout the dashboard
@@ -11943,17 +11989,21 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         '.index-chart-title', 
         '.chart-title', 
         '.yearly-table th',
+        '.heatmap-table th',
+        '.corr-table th',
         'label',
         '.header h1 span.logo',
         '.metric-label',
-        '.index-chart-subtitle'
+        '.index-chart-subtitle',
+        '.tab-btn'
       ];
       
       const elements = document.querySelectorAll(targetSelectors.join(', '));
       elements.forEach(el => {
+        if (el.hasAttribute('data-tooltip')) return; // Already has it
         let text = el.innerText.trim();
-        // Remove trailing colon usually seen on labels
-        if (text.endsWith(':') && text !== 'Index:') text = text.slice(0, -1).trim();
+        if (text.endsWith(':') && text !== 'Index:') text = text.slice(0, -1).trim() + ':'; // Normalize specific labels
+        else if (text.endsWith(':')) text = text.slice(0, -1).trim();
         
         let description = ttMap[text];
         if (!description) {
@@ -11961,11 +12011,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
            else return;
         }
         
-        // Append tooltip dataset and glassmorphic dotted decoration
         el.setAttribute('data-tooltip', description);
-        el.style.textDecoration = 'underline dotted rgba(255,255,255,0.3)';
-        el.style.textUnderlineOffset = '3px';
-        el.style.cursor = 'help';
       });
     });
   </script>
