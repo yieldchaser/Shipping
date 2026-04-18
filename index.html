@@ -80,32 +80,45 @@
       z-index: 100;
       overflow: hidden;
     }
+    #pirateShip,
+    #ghostShip,
+    #stormGhostShip,
+    #royalGhostShip {
+      animation: floatShip 3s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    @keyframes floatShip {
+      0%   { transform: translateY(0px); }
+      50%  { transform: translateY(-3px); }
+      100% { transform: translateY(0px); }
+    }
+
+    #ghostShip {
+      animation-duration: 3.5s;
+    }
+
     #pirateShip {
+      animation-duration: 2.8s;
+    }
+
+    .header-ships {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 20px;
       position: absolute;
-      bottom: -3px;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
       pointer-events: none;
-      opacity: 0.65;
-      z-index: 0;
-      animation: ship-sail 55s linear infinite, ship-bob 2.8s ease-in-out infinite;
     }
-    #pirateShip2 {
-      position: absolute;
-      bottom: -3px;
-      pointer-events: none;
-      opacity: 0.65;
-      z-index: 0;
-      animation: ship-sail 55s linear infinite, ship-bob 3.2s ease-in-out infinite;
-      animation-delay: -27.5s, -1s;
-    }
-    .header h1,
-    .header .updated-at { position: relative; z-index: 2; }
-    @keyframes ship-sail {
-      0%   { left: 100vw; }
-      100% { left: -210px; }
-    }
-    @keyframes ship-bob {
-      0%, 100% { transform: translateY(0); }
-      50%       { transform: translateY(-3px); }
+
+    .header-ships svg {
+      width: 160px;
+      opacity: 0.9;
+      margin-top: 8px;
     }
 
     .header h1 {
@@ -2410,7 +2423,8 @@
 
   <!-- HEADER -->
   <div class="header">
-    <svg id="pirateShip" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
+    <div class="header-ships">
+      <svg id="pirateShip" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
 <!-- HULL -->
 <path d="M20 80 Q70 100 200 80 L175 100 L60 100 Z" fill="#5a2d14"/>
 <rect x="35" y="75" width="170" height="8" fill="#7a3b1d"/>
@@ -2466,8 +2480,19 @@
 <!-- crossbones -->
 <line x1="116" y1="64" x2="124" y2="68" stroke="#000" stroke-width="1"/>
 <line x1="124" y1="64" x2="116" y2="68" stroke="#000" stroke-width="1"/>
+<!-- WATER WAVE -->
+<path d="M0 105 Q30 100 60 105 T120 105 T180 105 T240 105" stroke="#3aa0ff" stroke-width="2" fill="none" opacity="0.35"/>
 </svg>
-<svg id="pirateShip2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
+<svg id="ghostShip" filter="url(#ghostGlow)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
+<defs>
+  <filter id="ghostGlow">
+    <feGaussianBlur stdDeviation="1.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
 <!-- HULL -->
 <path d="M18 79 Q75 104 212 79 L185 103 L52 103 Z" fill="#5f6675"/>
 <rect x="32" y="72" width="180" height="10" fill="#778093"/>
@@ -2532,7 +2557,10 @@
 <rect x="119.8" y="58.5" width="2.4" height="1" fill="#000"/>
 <line x1="117" y1="62" x2="125" y2="66" stroke="#000" stroke-width="1"/>
 <line x1="125" y1="62" x2="117" y2="66" stroke="#000" stroke-width="1"/>
+<!-- WATER WAVE -->
+<path d="M0 105 Q30 100 60 105 T120 105 T180 105 T240 105" stroke="#3aa0ff" stroke-width="2" fill="none" opacity="0.35"/>
 </svg>
+    </div> <!-- /header-ships -->
     <h1><span class="logo">🏴‍☠️</span> Shipping Intelligence</h1>
   </div>
 
