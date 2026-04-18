@@ -11473,101 +11473,120 @@
           }
         }
 
-        // Token budget management: estimate tokens and truncate to fit provider limits
+        // Helper: estimate tokens (~3.5 chars per token)
         const _estimateTokens = text => Math.ceil((text || '').length / 3.5);
-        const maxCtxTokens = cfg.maxContextTokens || 8000;
-        const systemPromptTokens = 200; // ~200 tokens for system instructions
-        const responseTokens = 1200;    // reserve for output
-        let tokenBudget = maxCtxTokens - systemPromptTokens - responseTokens;
 
-        // Build docs with smart truncation
-        const allDocs = [];
-        let usedTokens = 0;
+        // Helper: build context + prompt for a specific provider's token budget
+        function _buildPromptForBudget(providerKey, scoredWikiArr, topChunksArr, queryText) {
+          const pCfg = _providerConfig(providerKey);
+          const maxCtx = pCfg.maxContextTokens || 8000;
+          const budget = maxCtx - 400; // reserve for system prompt + response
 
-        // Wikis first — truncate each to fit a fair share of the budget
-        const wikiTokenBudget = Math.floor(tokenBudget * 0.5); // 50% for wikis
-        const perWikiBudget = Math.floor(wikiTokenBudget / Math.max(scoredWiki.length, 1));
-        for (const w of scoredWiki) {
-          let text = w.item.text;
-          const estTokens = _estimateTokens(text);
-          if (estTokens > perWikiBudget) {
-            // Smart truncate: keep first N chars that fit budget
-            const maxChars = Math.floor(perWikiBudget * 3.5);
-            text = text.slice(0, maxChars) + '\n[... truncated for context limit]';
-          }
-          const docTokens = _estimateTokens(text);
-          allDocs.push({ type: 'wiki', label: w.item.label, text });
-          usedTokens += docTokens;
-        }
+          const docs = [];
+          let used = 0;
 
-        // Chunks — fill remaining budget
-        const chunkBudget = tokenBudget - usedTokens;
-        let chunkTokensUsed = 0;
-        for (const c of topChunks) {
-          const chunkTokens = _estimateTokens(c.text);
-          if (chunkTokensUsed + chunkTokens > chunkBudget) {
-            // Try to fit a truncated version
-            const remaining = chunkBudget - chunkTokensUsed;
-            if (remaining > 100) {
-              const maxChars = Math.floor(remaining * 3.5);
-              allDocs.push({ type: 'chunk', label: c.source + ' · ' + c.date + ' · ' + c.section_title, text: c.text.slice(0, maxChars) + '\n[... truncated]' });
-              chunkTokensUsed += remaining;
+          // Wikis: 50% of budget, split evenly
+          const wikiBudget = Math.floor(budget * 0.5);
+          const perWiki = Math.floor(wikiBudget / Math.max(scoredWikiArr.length, 1));
+          for (const w of scoredWikiArr) {
+            let text = w.item.text;
+            if (_estimateTokens(text) > perWiki) {
+              text = text.slice(0, Math.floor(perWiki * 3.5)) + '\n[... truncated]';
             }
-            break; // No more room
+            docs.push({ type: 'wiki', label: w.item.label, text });
+            used += _estimateTokens(text);
           }
-          allDocs.push({ type: 'chunk', label: c.source + ' · ' + c.date + ' · ' + c.section_title, text: c.text });
-          chunkTokensUsed += chunkTokens;
+
+          // Chunks: fill remaining budget
+          const chunkBudget = budget - used;
+          let chunkUsed = 0;
+          for (const c of topChunksArr) {
+            const ct = _estimateTokens(c.text);
+            if (chunkUsed + ct > chunkBudget) {
+              const rem = chunkBudget - chunkUsed;
+              if (rem > 100) {
+                docs.push({ type: 'chunk', label: c.source + ' · ' + c.date + ' · ' + c.section_title, text: c.text.slice(0, Math.floor(rem * 3.5)) + '\n[... truncated]' });
+              }
+              break;
+            }
+            docs.push({ type: 'chunk', label: c.source + ' · ' + c.date + ' · ' + c.section_title, text: c.text });
+            chunkUsed += ct;
+          }
+
+          const ctxArr = docs.map((d, i) => '[DOC-' + (i+1) + '] ' + d.label + '\n' + d.text);
+          const ctxText = ctxArr.join('\n\n---\n\n');
+          const estTokens = _estimateTokens(ctxText);
+
+          const promptText = 'You are a senior shipping freight market analyst.\n' +
+            'Answer the question using ONLY the provided context passages.\n\n' +
+            'STRICT RULES:\n' +
+            '1. Cite every factual claim using [DOC-N] tags matching the passages below.\n' +
+            '2. If the specific report, date, or data the user asks about is NOT present in the passages, say: "This information is not available in my current context."\n' +
+            '3. Do NOT invent data, dates, or statistics. Do NOT rephrase generic content as if it were a specific report.\n' +
+            '4. Be direct, concise, and trader-focused. Under 400 words.\n\n' +
+            'Question: ' + queryText + '\n\n' +
+            'Context Passages:\n' + ctxText;
+
+          return { docs, ctxArr, estTokens, promptText };
         }
 
-        const ctx = allDocs.map((d, i) => '[DOC-' + (i+1) + '] ' + d.label + '\n' + d.text);
-        const totalEstTokens = _estimateTokens(ctx.join('\n\n---\n\n'));
-
-        if (!ctx.length) {
-          ansEl.textContent = 'No relevant context found. Try broadening your source selection.';
-          btn.disabled = false; return;
-        }
-
-        statEl.textContent = 'Asking ' + cfg.label + ' (' + ctx.length + ' passages, ~' + totalEstTokens + ' tokens)...';
-
-        const prompt = 'You are a senior shipping freight market analyst.\n' +
-          'Answer the question using ONLY the provided context passages.\n\n' +
-          'STRICT RULES:\n' +
-          '1. Cite every factual claim using [DOC-N] tags matching the passages below.\n' +
-          '2. If the specific report, date, or data the user asks about is NOT present in the passages, say: "This information is not available in my current context."\n' +
-          '3. Do NOT invent data, dates, or statistics. Do NOT rephrase generic content as if it were a specific report.\n' +
-          '4. Be direct, concise, and trader-focused. Under 400 words.\n\n' +
-          'Question: ' + query + '\n\n' +
-          'Context Passages:\n' + ctx.join('\n\n---\n\n');
-
-        // Try primary provider, fall back on rate limits
+        // Try each provider in fallback order, rebuilding prompt per provider's budget
         const fallbackOrder = _buildFallbackOrder(provider);
         let answer = null;
         let usedProvider = provider;
+        let finalDocs = [];
+        let finalEstTokens = 0;
+        let lastError = null;
+
+        if (!fallbackOrder.length) {
+          ansEl.textContent = 'No providers configured. Enter an API key above and click Save.';
+          btn.disabled = false; return;
+        }
+
         for (const p of fallbackOrder) {
           const pCfg = _providerConfig(p);
           const pKey = p === provider ? apiKey : (_loadProviderKey(p) || '');
           const pModel = p === provider ? model : (_loadProviderModel(p) || pCfg.defaultModel);
           if (!pKey && !pCfg.keyOptional) continue;
           if (!pModel) continue;
+
+          // Build prompt sized for THIS provider's token budget
+          const { docs, estTokens, promptText } = _buildPromptForBudget(p, scoredWiki, topChunks, query);
+
+          if (!docs.length) {
+            lastError = new Error('No context passages fit within ' + pCfg.label + ' token limit.');
+            continue;
+          }
+
           try {
-            statEl.textContent = 'Asking ' + pCfg.label + ' (' + ctx.length + ' passages)...';
-            answer = await _runProviderLLM(p, pKey, pModel, prompt, (partial) => { ansEl.textContent = partial; });
+            statEl.textContent = 'Asking ' + pCfg.label + ' (' + docs.length + ' passages, ~' + estTokens + ' tokens)...';
+            answer = await _runProviderLLM(p, pKey, pModel, promptText, (partial) => { ansEl.textContent = partial; });
             usedProvider = p;
+            finalDocs = docs;
+            finalEstTokens = estTokens;
             break;
           } catch (err) {
-            const isRateLimit = /429|rate.limit|quota|too.many/i.test(err.message);
-            if (isRateLimit && fallbackOrder.indexOf(p) < fallbackOrder.length - 1) {
-              statEl.textContent = pCfg.label + ' rate limited — trying next provider...';
+            lastError = err;
+            const isRetryable = /429|rate.limit|quota|too.many|too.large|request.too|token/i.test(err.message);
+            if (isRetryable && fallbackOrder.indexOf(p) < fallbackOrder.length - 1) {
+              statEl.textContent = pCfg.label + ' failed (' + (err.message || '').slice(0, 60) + ') — trying next...';
               continue;
             }
+            // Last provider — throw to outer catch
             throw err;
           }
         }
-        if (!answer) throw new Error('All providers failed or unavailable.');
+
+        if (!answer) {
+          throw lastError || new Error('All providers failed or unavailable.');
+        }
+
         const usedCfg = _providerConfig(usedProvider);
-        statEl.textContent = '✓ ' + usedCfg.label + ' · ' + allDocs.length + ' passages (~' + totalEstTokens + ' tokens) [' + scoredWiki.length + ' wiki · ' + (allDocs.length - scoredWiki.length) + ' chunks]';
+        const wikiCount = finalDocs.filter(d => d.type === 'wiki').length;
+        const chunkCount = finalDocs.filter(d => d.type === 'chunk').length;
+        statEl.textContent = '✓ ' + usedCfg.label + ' · ' + finalDocs.length + ' passages (~' + finalEstTokens + ' tokens) [' + wikiCount + ' wiki · ' + chunkCount + ' chunks]';
         ansEl.textContent  = answer;
-        citEl.innerHTML    = allDocs.map((d, i) =>
+        citEl.innerHTML    = finalDocs.map((d, i) =>
           '<span class="qa-cit" title="' + d.label.replace(/"/g, '&quot;') + '">[DOC-' + (i+1) + '] ' + d.label + '</span>'
         ).join('');
       } catch (err) {
@@ -11575,9 +11594,10 @@
         let hint = '';
         if (/401|403|unauthorized/i.test(msg)) hint = 'Check your API key in the provider settings above.';
         else if (/429|rate.limit/i.test(msg)) hint = 'All providers rate limited. Wait a moment and try again.';
-        else if (/fetch|network|CORS|Failed to fetch/i.test(msg)) hint = 'Network error. Check your internet or Ollama server status.';
+        else if (/too.large|token/i.test(msg)) hint = 'Context too large. Try Wiki-only mode or check a smaller scope.';
+        else if (/fetch|network|CORS|Failed to fetch/i.test(msg)) hint = 'Network error. Check your internet connection.';
         else if (/timeout/i.test(msg)) hint = 'Request timed out. Try a shorter question or use Wiki-only mode.';
-        statEl.innerHTML = '✗ ' + cfg.label + ': ' + msg + (hint ? '<br><small style="color:var(--yellow)">' + hint + '</small>' : '');
+        statEl.innerHTML = '✗ Error: ' + msg + (hint ? '<br><small style="color:var(--yellow)">' + hint + '</small>' : '');
         ansEl.textContent = '';
       } finally { btn.disabled = false; }
     }
