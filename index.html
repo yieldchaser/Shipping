@@ -2310,7 +2310,7 @@
     }
 
     /* Intelligence Tab 2-Column Wide Screen Layout (Phase 6) */
-    #tab-intelligence {
+    .tab-panel.active#tab-intelligence {
       display: grid;
       grid-template-columns: 3fr 2fr;
       grid-template-areas: 
@@ -2484,8 +2484,6 @@
 <line x1="124" y1="64" x2="116" y2="68" stroke="#000" stroke-width="1"/>
 </svg>
     <h1><span class="logo">🏴‍☠️</span> Shipping Intelligence</h1>
-    <div class="updated-at" id="updatedAt"><span class="live-dot" id="liveDot">●</span><span id="updatedAtText"></span>
-    </div>
   </div>
 
   <!-- INDEX SELECTOR PILLS -->
@@ -2501,6 +2499,9 @@
     <button class="index-pill" data-val="cleantanker">BCTI</button>
     <button class="index-pill" data-val="bdryff">BDRYFF</button>
     <button class="index-pill" data-val="bwetff">BWETFF</button>
+
+    <div class="updated-at" id="updatedAt"><span class="live-dot" id="liveDot">●</span><span id="updatedAtText"></span></div>
+
     <!-- Hidden select to drive the legacy Javascript app state seamlessly -->
     <select id="globalProduct" style="display:none;">
       <option value="bdiy">Baltic Dry Index (BDI)</option>
@@ -4158,7 +4159,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
         window.updateChartTooltip(chartWrapper, {
           title: titleLines[0] || '',
-          rows: rows
+          rows: rows,
+          caretX: tooltipModel.caretX,
+          caretY: tooltipModel.caretY
         });
       };
 
@@ -11989,8 +11992,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // Boundary detection positioning for chart wrapper
       const GAP = 12, pad = 8;
       const rect = container.getBoundingClientRect();
-      let left = rect.left + rect.width / 2 - tooltip.offsetWidth / 2;
-      let top  = rect.top  - tooltip.offsetHeight - GAP;
+      let left = rect.left + (config.caretX !== undefined ? config.caretX : rect.width / 2) - tooltip.offsetWidth / 2;
+      let top  = rect.top + (config.caretY !== undefined ? config.caretY : tooltip.offsetHeight + GAP) - tooltip.offsetHeight - GAP;
       if (top < pad) top = rect.bottom + GAP;
       if (left < pad) left = pad;
       if (left + tooltip.offsetWidth > window.innerWidth - pad)
