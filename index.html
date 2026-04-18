@@ -72,7 +72,7 @@
     .header {
       background: var(--card);
       border-bottom: 1px solid var(--border);
-      padding: 22px 20px;
+      padding: 12px 20px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -100,16 +100,16 @@
     }
 
     #pirateShip {
-      width: 145px;
+      width: 135px;
       position: absolute;
-      top: 2px;
+      top: -4px;
       animation: ship-sail 55s linear infinite, floatShip 2.8s ease-in-out infinite;
     }
 
     #ghostShip {
-      width: 110px;
+      width: 145px;
       position: absolute;
-      top: 10px;
+      top: -12px;
       animation: ship-sail 55s linear infinite, floatShip 3.5s ease-in-out infinite;
       animation-delay: -27.5s, -1s;
     }
@@ -130,6 +130,8 @@
       font-size: 15px;
       font-weight: 600;
       color: var(--accent);
+      position: relative;
+      z-index: 2;
       white-space: nowrap;
       display: flex;
       align-items: center;
@@ -146,7 +148,7 @@
     .index-bar {
       background: var(--bg);
       border-bottom: 1px solid var(--border);
-      padding: 10px 20px;
+      padding: 8px 20px;
       display: flex;
       gap: 8px;
       overflow-x: auto;
