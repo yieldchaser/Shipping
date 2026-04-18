@@ -241,7 +241,7 @@ Main overview for the selected index.
 - **Current Year vs Historical Overlay chart** — current year vs user-selected prior years
 - **Drawdown from 52-Week High** — last 3 years
 - **Recent Daily Changes table** — last 10 sessions: day Δ, day Δ%, 5D change %
-- **Yearly Performance table** *(collapsible)* — annual avg, YoY %, min, max, range % (range = (max−min)/avg, handles years where min ≤ 0)
+- **Yearly Performance table** *(collapsible)* — annual avg, YoY %, min, max, Volatility % (dispersion: (max−min)/avg), Trough→Peak % (theoretical maximum gain)
 - **Index Correlation Matrix** — Pearson correlation for all 7 products, switchable All Time / 5Y / 1Y
 
 ---
@@ -374,7 +374,8 @@ Comprehensive analytical suite for technical and fundamental signals:
 | **FFA Slope** | `(back_month − front_month) / front_month × 100` |
 | **BDRY Spot** | `0.50 × BCI + 0.40 × BPI + 0.10 × BSI` |
 | **Lead–Lag Corr** | `corr(log_returns_A_t, log_returns_B_t+lag)` for lag ‐30 to +30 days |
-| **Range %** | `(yearly_max − yearly_min) / yearly_avg × 100` *(uses avg denominator — handles years where min ≤ 0 correctly)* |
+| **Volatility %** | `(yearly_max − yearly_min) / abs(yearly_avg) × 100` *(measures price dispersion normalized to mean rather than directional return)* |
+| **Trough→Peak %** | `(yearly_max − yearly_min) / yearly_min × 100` *(measures theoretical maximum opportunity gain; excluded if min ≤ 0)* |
 | **Momentum Regime** | Classification based on long-term trend (`MA200`) and mid-term momentum (`ROC60`) |
 | **Leverage / Exposure** | `(Total Exposure / Collateral Cash) − 1` expressed as % |
 | **52W High — Low** | Highest and lowest price reached in the trailing 52 weeks |
@@ -560,7 +561,7 @@ pdfplumber · beautifulsoup4 · lxml · google-generativeai · tiktoken · pytho
 - Tanker index histories: BCTI from Jan 2008, BDTI from Dec 2007
 - The FFA term structure chart is only as fresh as the last `bdry_holdings.csv` / `bwet_holdings.csv` commit — check the commit timestamp to confirm
 - `Shipping_Main.xlsm` is an offline Excel workbook for ad-hoc analysis consuming the same CSV data
-- Capesize went briefly negative in 2020; the yearly Range % uses `(max−min)/avg` rather than `(max−min)/min` to avoid nonsensical outputs in such years
+- Capesize went briefly negative in 2020; the yearly **Volatility %** correctly uses `abs(avg)` as the denominator to handle negative bases, while the **Trough→Peak %** omits years where `min ≤ 0` to preserve the mathematical integrity of percentage gains.
 - Server-side provider chain defaults to `ollama,gemini,nim`. Configure `GEMINI_API_KEY`, `OLLAMA_BASE_URL`, `OLLAMA_MODEL`, optional `OLLAMA_API_KEY`, `NIM_API_KEY`, `NIM_MODEL`, and optional `NIM_BASE_URL` for automated workflows.
 - Knowledge processing now compiles `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, and `books`.
 
