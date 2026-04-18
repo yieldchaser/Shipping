@@ -100,14 +100,14 @@
     }
 
     #pirateShip {
-      width: 160px;
+      width: 140px;
       position: absolute;
       top: 2px;
       animation: ship-sail 55s linear infinite, floatShip 2.8s ease-in-out infinite;
     }
 
     #ghostShip {
-      width: 125px;
+      width: 140px;
       position: absolute;
       top: 2px;
       animation: ship-sail 55s linear infinite, floatShip 3.5s ease-in-out infinite;
@@ -2431,7 +2431,16 @@
   <!-- HEADER -->
   <div class="header">
     <div class="header-ships">
-      <svg id="pirateShip" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
+      <svg id="pirateShip" filter="url(#pirateGlow)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
+<defs>
+  <filter id="pirateGlow">
+    <feGaussianBlur stdDeviation="1.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
 <!-- HULL -->
 <path d="M20 80 Q70 100 200 80 L175 100 L60 100 Z" fill="#5a2d14"/>
 <rect x="35" y="75" width="170" height="8" fill="#7a3b1d"/>
