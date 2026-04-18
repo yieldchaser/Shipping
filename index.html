@@ -11140,7 +11140,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // Q&A Assistant
 
     const QA_PROVIDER_CONFIG = {
-      gemini: { label: 'Gemini', keyStorage: 'qa_key_gemini', modelStorage: 'qa_model_gemini', defaultModel: 'gemini-2.0-flash', keyLabel: 'Gemini Key', keyPlaceholder: 'AIza... (stored only in localStorage)', hasBaseUrl: false, maxContextTokens: 100000 },
+      gemini: { label: 'Gemini', keyStorage: 'qa_key_gemini', modelStorage: 'qa_model_gemini', defaultModel: 'gemini-2.5-flash', keyLabel: 'Gemini Key', keyPlaceholder: 'AIza... (stored only in localStorage)', hasBaseUrl: false, maxContextTokens: 100000 },
       groq: { label: 'Groq', keyStorage: 'qa_key_groq', modelStorage: 'qa_model_groq', defaultModel: 'llama-3.3-70b-versatile', keyLabel: 'Groq Key', keyPlaceholder: 'gsk_... (stored only in localStorage)', hasBaseUrl: false, maxContextTokens: 5500 },
       ollama: { label: 'Ollama (local only)', keyStorage: 'qa_key_ollama', modelStorage: 'qa_model_ollama', defaultModel: '', keyLabel: 'Ollama Key (optional)', keyPlaceholder: 'Bearer token or leave blank', hasBaseUrl: true, baseUrlStorage: 'qa_baseurl_ollama', defaultBaseUrl: 'http://localhost:11434/api', keyOptional: true, maxContextTokens: 8000, localOnly: true },
       nim: { label: 'NIM (NVIDIA)', keyStorage: 'qa_key_nim', modelStorage: 'qa_model_nim', defaultModel: '', keyLabel: 'NIM Key', keyPlaceholder: 'nvapi-... (stored only in localStorage)', hasBaseUrl: true, baseUrlStorage: 'qa_baseurl_nim', defaultBaseUrl: 'https://integrate.api.nvidia.com/v1', keyOptional: false, maxContextTokens: 8000 },

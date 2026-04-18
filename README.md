@@ -704,5 +704,67 @@ pdfplumber · beautifulsoup4 · lxml · google-generativeai · tiktoken · pytho
 - `Shipping_Main.xlsm` is an offline Excel workbook for ad-hoc analysis consuming the same CSV data
 - Capesize went briefly negative in 2020; the yearly Range % uses `(max−min)/avg` rather than `(max−min)/min` to avoid nonsensical outputs in such years
 - Server-side provider chain defaults to `ollama,gemini,nim`. Configure `GEMINI_API_KEY`, `OLLAMA_BASE_URL`, `OLLAMA_MODEL`, optional `OLLAMA_API_KEY`, `NIM_API_KEY`, `NIM_MODEL`, and optional `NIM_BASE_URL` for automated workflows.
-- Browser Q&A supports Gemini and Groq with per-user keys stored locally in the browser (`localStorage`), plus an editable model field for each provider.
 - Knowledge processing now compiles `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, and `books`.
+
+---
+
+## Research Q&A — LLM Provider Reference
+
+The Intelligence Dashboard includes a browser-based RAG Q&A engine that queries the knowledge base using a user-provided LLM provider. The engine supports four providers with automatic fallback. Below is the current operational status and configuration guide.
+
+### Provider Status (as of April 2026)
+
+| Provider | Browser Q&A | Daily Brief (Python) | Notes |
+|---|---|---|---|
+| **Groq** | ✅ Working | ✅ Working | Recommended default for browser Q&A. Free tier resets daily. |
+| **Gemini** | ✅ Working | ✅ Working | Use model `gemini-2.5-flash` (the old `gemini-2.0-flash` is deprecated). Get a key from [Google AI Studio](https://aistudio.google.com/apikey). |
+| **Ollama** | ⚠️ Local only | ✅ Working | Cloud API (`ollama.com/api`) is blocked by browser CORS. Works from Python (GitHub Actions) and local desktop installs (`localhost:11434`). |
+| **NIM (Nvidia)** | ❓ Untested | ✅ Working | Likely CORS-blocked from browser. Works from Python. |
+
+### Groq Free Tier Rate Limits
+
+Groq is the primary browser Q&A provider. Free tier limits for `llama-3.3-70b-versatile`:
+
+| Limit | Value | Resets |
+|---|---|---|
+| Requests / minute | 30 | Every minute |
+| Requests / day | 1,000 | Every 24 hours (midnight UTC) |
+| Tokens / minute | 12,000 | Every minute |
+| Tokens / day | 100,000 | Every 24 hours |
+
+At ~5,000 tokens per query, expect roughly **20 queries/day** before hitting the token ceiling. **Limits reset automatically every 24 hours** — you do not need to rotate API keys or create new accounts. If you hit a `429` error, wait until midnight UTC.
+
+Get a free API key at [console.groq.com/keys](https://console.groq.com/keys).
+
+### Browser Q&A Configuration
+
+| Field | Where | What to enter |
+|---|---|---|
+| **Provider** | Dropdown | `Groq` (recommended) or `Gemini` |
+| **API Key** | Key input field | Your provider API key (stored in `localStorage`, never sent to our servers) |
+| **Model** | Model input field | `llama-3.3-70b-versatile` (Groq) or `gemini-2.5-flash` (Gemini) |
+| **Base URL** | Only for Ollama | `http://localhost:11434/api` (requires local Ollama desktop app running) |
+
+### Fallback Behavior
+
+When a query fails (rate limit, model not found, CORS block), the engine automatically tries the next available provider in this order:
+
+```
+Selected Provider → Groq → Gemini → Ollama → NIM
+```
+
+Each fallback attempt rebuilds the context prompt to fit the target provider's token budget. The status bar shows which provider actually answered (e.g., `✓ GROQ` even if you selected Gemini means Gemini failed and Groq caught it).
+
+### Why Ollama Cloud Doesn't Work in the Browser
+
+The browser enforces **CORS (Cross-Origin Resource Sharing)** — a security mechanism that blocks JavaScript from making requests to APIs that haven't explicitly whitelisted browser origins. Ollama's cloud API (`ollama.com/api`) does not send CORS headers, so the browser kills the request before it reaches the server. This is a browser-only restriction; Python scripts (like `generate_brief.py` running in GitHub Actions) bypass CORS entirely and connect to Ollama cloud without issues.
+
+### Troubleshooting
+
+| Symptom | Cause | Fix |
+|---|---|---|
+| `NETWORK ERROR. CHECK YOUR INTERNET CONNECTION.` | CORS block (Ollama cloud) or invalid URL | Switch to Groq or Gemini |
+| `429 Too Many Requests` | Groq free tier limit hit | Wait until midnight UTC for reset |
+| `models/gemini-2.0-flash is not found` | Deprecated model name | Change model to `gemini-2.5-flash` |
+| Status shows `✓ GROQ` but you selected Gemini | Gemini failed, fallback caught it | Check Gemini API key and model name |
+| `This information is not available in my current context` | LLM didn't receive relevant data | Ensure scope checkboxes match your question; the live pipeline data is injected automatically |
