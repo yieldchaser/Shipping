@@ -2416,6 +2416,55 @@
   .chart-tooltip-metric-label { color: #44445a; font-size: 10px; text-transform: uppercase; letter-spacing: 0.05em; }
   .chart-tooltip-metric-value { color: #e8e8f0; font-weight: 700; font-variant-numeric: tabular-nums; }
   .chart-tooltip-note { margin-top: 8px; color: #8888aa; font-size: 11px; padding-top: 8px; border-top: 1px solid rgba(255,255,255,0.06); }
+
+  /* GLOBAL SELECT DROPDOWNS */
+  select {
+    background: var(--bg);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 6px 30px 6px 12px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: inherit;
+    cursor: pointer;
+    outline: none;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%238b949e' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 8px center;
+    background-size: 14px;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  select:hover {
+    border-color: var(--accent);
+  }
+  select:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(88,166,255,0.15);
+  }
+  select option {
+    background: var(--card);
+    color: var(--text);
+  }
+
+  /* HEATMAP VIEW SELECTOR ROW ROW */
+  .heatmap-view-row {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 20px;
+    padding-right: 4px;
+  }
+  .heatmap-view-row label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
 </style>
 </head>
 
