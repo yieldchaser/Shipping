@@ -88,6 +88,15 @@
       z-index: 0;
       animation: ship-sail 55s linear infinite, ship-bob 2.8s ease-in-out infinite;
     }
+    #pirateShip2 {
+      position: absolute;
+      bottom: -3px;
+      pointer-events: none;
+      opacity: 0.65;
+      z-index: 0;
+      animation: ship-sail 55s linear infinite, ship-bob 3.2s ease-in-out infinite;
+      animation-delay: -27.5s, -1s;
+    }
     .header h1,
     .header .updated-at { position: relative; z-index: 2; }
     @keyframes ship-sail {
@@ -2482,6 +2491,72 @@
 <!-- crossbones -->
 <line x1="116" y1="64" x2="124" y2="68" stroke="#000" stroke-width="1"/>
 <line x1="124" y1="64" x2="116" y2="68" stroke="#000" stroke-width="1"/>
+</svg>
+<svg id="pirateShip2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
+<!-- HULL -->
+<path d="M18 79 Q75 104 212 79 L185 103 L52 103 Z" fill="#5f6675"/>
+<rect x="32" y="72" width="180" height="10" fill="#778093"/>
+<line x1="32" y1="72" x2="212" y2="72" stroke="#c9f6ff" stroke-width="3"/>
+
+<!-- CANNONS -->
+<circle cx="85" cy="91" r="5" fill="#303641"/>
+<circle cx="110" cy="91" r="5" fill="#303641"/>
+<circle cx="135" cy="91" r="5" fill="#303641"/>
+<circle cx="160" cy="91" r="5" fill="#303641"/>
+
+<!-- HEAVY TREASURE -->
+<circle cx="60" cy="82" r="4" fill="#ffd700"/>
+<circle cx="65" cy="85" r="4" fill="#ffd700"/>
+<circle cx="70" cy="82" r="4" fill="#ffd700"/>
+<circle cx="75" cy="85" r="4" fill="#ffd700"/>
+<circle cx="80" cy="82" r="4" fill="#ffd700"/>
+<circle cx="85" cy="85" r="4" fill="#ffd700"/>
+
+<circle cx="125" cy="82" r="4" fill="#ffd700"/>
+<circle cx="130" cy="85" r="4" fill="#ffd700"/>
+<circle cx="135" cy="82" r="4" fill="#ffd700"/>
+<circle cx="140" cy="85" r="4" fill="#ffd700"/>
+<circle cx="145" cy="82" r="4" fill="#ffd700"/>
+<circle cx="150" cy="85" r="4" fill="#ffd700"/>
+
+<!-- SILVER -->
+<circle cx="55" cy="84" r="3" fill="#c0c0c0"/>
+<circle cx="50" cy="86" r="3" fill="#c0c0c0"/>
+<circle cx="155" cy="84" r="3" fill="#c0c0c0"/>
+<circle cx="160" cy="86" r="3" fill="#c0c0c0"/>
+
+<!-- CHEST -->
+<rect x="170" y="74" width="24" height="11" fill="#778093"/>
+<rect x="170" y="70" width="24" height="6" fill="#9aa3b5"/>
+
+<!-- MASTS (TALL CENTER) -->
+<rect x="65" y="36" width="4" height="36" fill="#7a8596"/>
+<rect x="116" y="18" width="5" height="54" fill="#7a8596"/>
+<rect x="170" y="38" width="4" height="34" fill="#7a8596"/>
+
+<!-- FLAGS -->
+<polygon points="69,36 92,44 69,52" fill="#7ef9ff"/>
+<polygon points="121,18 150,28 121,42" fill="#7ef9ff"/>
+<polygon points="174,38 197,46 174,55" fill="#7ef9ff"/>
+
+<!-- EXTRA FLAGS -->
+<polygon points="74,42 84,46 74,50" fill="#aefcff"/>
+<polygon points="126,30 136,34 126,38" fill="#aefcff"/>
+<polygon points="178,44 188,48 178,52" fill="#aefcff"/>
+
+<!-- SAILS -->
+<path d="M69 46 Q48 60 69 72 Z" fill="#e6fbff"/>
+<path d="M121 32 Q90 60 121 72 Z" fill="#9be7f5"/>
+<path d="M174 48 Q154 60 174 72 Z" fill="#e6fbff"/>
+
+<!-- EMBLEM -->
+<circle cx="121" cy="58" r="7" fill="#ffffff"/>
+<circle cx="121" cy="56.5" r="3" fill="#000"/>
+<circle cx="119.8" cy="56" r="0.5" fill="#fff"/>
+<circle cx="122.2" cy="56" r="0.5" fill="#fff"/>
+<rect x="119.8" y="58.5" width="2.4" height="1" fill="#000"/>
+<line x1="117" y1="62" x2="125" y2="66" stroke="#000" stroke-width="1"/>
+<line x1="125" y1="62" x2="117" y2="66" stroke="#000" stroke-width="1"/>
 </svg>
     <h1><span class="logo">🏴‍☠️</span> Shipping Intelligence</h1>
   </div>
