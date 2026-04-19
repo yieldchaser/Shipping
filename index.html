@@ -288,28 +288,40 @@
     }
 
     /* GLOBAL TOOLTIP */
+    /* GLOBAL TOOLTIP - SYSTEM 2 */
     #global-tooltip {
       position: fixed;
       z-index: 10000;
-      background: rgba(22, 27, 34, 0.95);
-      backdrop-filter: blur(8px);
+      background: rgba(13, 17, 23, 0.98);
+      backdrop-filter: blur(12px);
       color: #adbac7;
-      padding: 10px 14px;
-      border-radius: 8px;
+      padding: 12px 16px;
+      border-radius: 10px;
       font-size: 13px;
-      line-height: 1.5;
-      max-width: 280px;
-      border: 1px solid rgba(88, 166, 255, 0.3);
-      box-shadow: 0 8px 24px rgba(0,0,0,0.5), 0 0 10px rgba(88, 166, 255, 0.1);
+      line-height: 1.4;
+      min-width: 180px;
+      max-width: 340px;
+      border: 1px solid rgba(88, 166, 255, 0.4);
+      box-shadow: 0 12px 32px rgba(0,0,0,0.7), 0 0 15px rgba(88, 166, 255, 0.15);
       pointer-events: none;
       opacity: 0;
-      transition: opacity 0.15s ease, transform 0.15s ease;
-      transform: translateY(10px);
+      transition: opacity 0.15s ease, transform 0.1s ease;
+      transform: translateY(8px);
+      box-sizing: border-box;
     }
     #global-tooltip.visible {
       opacity: 1;
       transform: translateY(0);
     }
+
+    /* Structured Tooltip Content */
+    .rt-title { font-weight: 700; color: #f0f6fc; margin-bottom: 8px; border-bottom: 1px solid rgba(48, 54, 61, 0.8); padding-bottom: 6px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
+    .rt-row { display: flex; justify-content: space-between; gap: 20px; margin-bottom: 4px; font-size: 11px; }
+    .rt-label { color: #8b949e; flex-shrink: 0; }
+    .rt-val { color: #f0f6fc; font-weight: 600; font-variant-numeric: tabular-nums; text-align: right; }
+    .rt-val.pos { color: #3fb950; }
+    .rt-val.neg { color: #f85149; }
+    .rt-note { margin-top: 8px; padding-top: 6px; border-top: 1px solid rgba(48, 54, 61, 0.8); color: #8b949e; font-size: 10px; font-style: italic; }
 
     /* Prevent I-beam cursor on tooltip triggers - keep text selectable */
     [data-tooltip] {
@@ -3762,115 +3774,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
   </div><!-- /main -->
 
-  <!-- Global Tooltip Element -->
-  <div id="global-tooltip"></div>
 
-  <script>
-    // Global Tooltip Logic - stable, anchored positioning (centers on element)
-    (function() {
-      const tooltip = document.getElementById('global-tooltip');
-      let hideTimeout = null;
-      let activeTarget = null;
-
-      document.addEventListener('mouseover', function(e) {
-        const target = e.target.closest('[data-tooltip]');
-        if (!target) return;
-        const text = target.getAttribute('data-tooltip');
-        if (!text) return;
-
-        if (hideTimeout) { clearTimeout(hideTimeout); hideTimeout = null; }
-        activeTarget = target;
-        tooltip.textContent = text;
-        tooltip.classList.add('visible');
-
-        // Position tooltip centered on element
-        const rect = target.getBoundingClientRect();
-        const GAP = 14;
-        
-        // Horizontal centering
-        let left = rect.left + (rect.width / 2) - (tooltip.offsetWidth / 2);
-        
-        // Vertical positioning (above by default)
-        let top = rect.top - tooltip.offsetHeight - GAP;
-
-        // Flip below if not enough space above
-        if (top < 8) {
-          top = rect.bottom + GAP;
-        }
-
-        // Horizontal boundary checks
-        if (left < 8) left = 8;
-        if (left + tooltip.offsetWidth > window.innerWidth - 8) {
-          left = window.innerWidth - tooltip.offsetWidth - 8;
-        }
-
-        tooltip.style.top = top + 'px';
-        tooltip.style.left = left + 'px';
-      });
-
-      document.addEventListener('mouseout', function(e) {
-        const target = e.target.closest('[data-tooltip]');
-        if (target) {
-          activeTarget = null;
-          hideTimeout = setTimeout(() => {
-            tooltip.classList.remove('visible');
-          }, 80);
-        }
-      });
-
-      // ── Mobile touch support ──────────────────────────────────────────
-      // Touch devices have no hover, so we show the tooltip on tap
-      // and auto-dismiss after 3 seconds (or on a second tap anywhere).
-      let touchDismiss = null;
-
-      document.addEventListener('touchstart', function(e) {
-        const target = e.target.closest('[data-tooltip]');
-        if (!target) {
-          // Tap on non-tooltip area - hide any visible tooltip immediately
-          if (touchDismiss) { clearTimeout(touchDismiss); touchDismiss = null; }
-          tooltip.classList.remove('visible');
-          return;
-        }
-
-        e.preventDefault(); // prevent the ghost mouse-click that follows touch
-
-        const text = target.getAttribute('data-tooltip');
-        if (!text) return;
-
-        // Clear any running dismiss timer
-        if (touchDismiss) { clearTimeout(touchDismiss); touchDismiss = null; }
-
-        tooltip.textContent = text;
-        tooltip.classList.add('visible');
-
-        // Position centered horizontally, above the tapped element
-        const rect = target.getBoundingClientRect();
-        // Give the browser one frame to size the tooltip before positioning
-        requestAnimationFrame(() => {
-          const GAP = 12;
-          let top = rect.top - tooltip.offsetHeight - GAP;
-          let left = rect.left + (rect.width / 2) - (tooltip.offsetWidth / 2);
-
-          // Flip below if no room above
-          if (top < 8) {
-            top = rect.bottom + GAP;
-          }
-          if (left < 8) left = 8;
-          if (left + tooltip.offsetWidth > window.innerWidth - 8) {
-            left = window.innerWidth - tooltip.offsetWidth - 8;
-          }
-          tooltip.style.top = top + 'px';
-          tooltip.style.left = left + 'px';
-
-          // Auto-dismiss after 16 seconds
-          touchDismiss = setTimeout(() => {
-            tooltip.classList.remove('visible');
-            touchDismiss = null;
-          }, 16000);
-        });
-      }, { passive: false });
-    })();
-  </script>
 
   <script>
     // =====================================================================
@@ -5085,8 +4989,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       <td class="${yoyCls}">${yoyStr}</td>
       <td>${fmt(mn, 0)}</td>
       <td>${fmt(mx, 0)}</td>
-      <td>${volPct}</td>
-      <td class="val-green">${tpPct}</td>
+      <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Volatility" data-tt-val="${volPct}">${volPct}</td>
+      <td class="val-green" data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Trough→Peak" data-tt-val="${tpPct}">${tpPct}</td>
     </tr>`;
       }
 
@@ -5313,7 +5217,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             const { min, max } = colStats[m];
             const ratio = max > min ? (v - min) / (max - min) : 0.5;
             const bg = heatmapColorAbs(ratio);
-            html += `<td style="background:${bg};color:#e6edf3">${fmt(v, 0)}</td>`;
+            const ttTitle = `${MONTH_NAMES[m]} ${y}: ${fmt(v, 0)}`;
+            html += `<td style="background:${bg};color:#e6edf3" 
+                data-tooltip=" " 
+                data-tt-type="heatmap-cell" 
+                data-tt-product="${productKey}" 
+                data-tt-year="${y}" 
+                data-tt-month="${m}" 
+                data-tt-val="${v}" 
+                data-tt-title="${ttTitle}">${fmt(v, 0)}</td>`;
           }
         }
         html += '</tr>';
@@ -5364,10 +5276,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             } else {
               pctStr = '-';
             }
-            html += `<td style="background:${bg};color:#e6edf3">
-          <span class="heatmap-abs-val">${fmt(v, 0)}</span>
-          <span class="heatmap-pct-val">${pctStr}</span>
-        </td>`;
+            const ttTitle = `${MONTH_NAMES[m]} ${y}: ${fmt(v, 0)}`;
+            html += `<td style="background:${bg};color:#e6edf3" 
+              data-tooltip=" " 
+              data-tt-type="heatmap-cell" 
+              data-tt-product="${productKey}" 
+              data-tt-year="${y}" 
+              data-tt-month="${m}" 
+              data-tt-val="${v}" 
+              data-tt-title="${ttTitle}">
+              <span class="heatmap-abs-val">${fmt(v, 0)}</span>
+              <span class="heatmap-pct-val">${pctStr}</span>
+            </td>`;
           }
         }
       }
@@ -5528,7 +5448,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             const cellContent = (currentHeatmapView === 'pct' && pctStr)
               ? `<span class="heatmap-abs-val">${fmt(v, 0)}</span><span class="heatmap-pct-val">${pctStr}</span>`
               : fmt(v, 0);
-            html += `<td style="background:${bg};color:#e6edf3">${cellContent}</td>`;
+            const ttTitle = `${q} ${y}: ${fmt(v, 0)}`;
+            html += `<td style="background:${bg};color:#e6edf3"
+              data-tooltip=" " 
+              data-tt-type="quarterly-cell" 
+              data-tt-product="${productKey}" 
+              data-tt-year="${y}" 
+              data-tt-quarter="${q}" 
+              data-tt-val="${v}" 
+              data-tt-title="${ttTitle}">${cellContent}</td>`;
           }
         }
         html += '</tr>';
@@ -8955,7 +8883,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           var roc = ((latestVal - pastRow[key]) / pastRow[key]) * 100;
           var bg = heatmapColorPct(roc);
           var sign = roc >= 0 ? '+' : '';
-          html += '<td style="background:' + bg + ';color:#e6edf3;font-weight:600;font-size:12px;">' + sign + roc.toFixed(1) + '%</td>';
+          var ttTitle = `${prodLabels[key]} ${p.label}: ${sign}${roc.toFixed(1)}%`;
+          html += `<td style="background:${bg};color:#e6edf3;font-weight:600;font-size:12px;"
+            data-tooltip=" "
+            data-tt-type="roc-cell"
+            data-tt-val="${roc}"
+            data-tt-start-val="${pastRow[key]}"
+            data-tt-end-val="${latestVal}"
+            data-tt-start-date="${fmtDate(pastRow.date)}"
+            data-tt-title="${ttTitle}">${sign}${roc.toFixed(1)}%</td>`;
         });
         html += '</tr>';
       });
@@ -12077,24 +12013,127 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
   <div id="global-tooltip"></div>
   <script>
-    // System 1: Global Tooltip Logic
+    // System 1: World-Class Unified Tooltip Logic
     (function() {
       const tt = document.getElementById('global-tooltip');
       if (!tt) return;
       let hideTimer = null;
 
+      // Personalized calculation helper
+      function getCalculatedTooltip(target) {
+        const type = target.getAttribute('data-tt-type');
+        if (!type) return null;
+
+        const val = parseFloat(target.getAttribute('data-tt-val'));
+        const year = parseInt(target.getAttribute('data-tt-year'));
+        const pk = target.getAttribute('data-tt-product') || window.currentProduct || 'bdiy';
+        
+        const title = target.getAttribute('data-tt-title') || 'Metric Detail';
+        let html = `<div class="rt-title">${title}</div>`;
+
+        if (type === 'heatmap-cell') {
+          const month = parseInt(target.getAttribute('data-tt-month'));
+          // 1. Rank calculation
+          const history = [];
+          for (let y = 0; y <= new Date().getFullYear(); y++) {
+             const v = getMAvgCached(pk, y, month);
+             if (v != null) history.push(v);
+          }
+          const sorted = [...history].sort((a,b) => a-b);
+          const rank = sorted.length - sorted.indexOf(val);
+          html += `<div class="rt-row"><span class="rt-label">Historical Rank</span><span class="rt-val">#${rank} of ${history.length}</span></div>`;
+          
+          // 2. YoY Comparison
+          const prevYearVal = getMAvgCached(pk, year - 1, month);
+          if (prevYearVal != null && prevYearVal !== 0) {
+            const yoy = ((val - prevYearVal) / prevYearVal) * 100;
+            html += `<div class="rt-row"><span class="rt-label">YoY Momentum</span><span class="rt-val ${yoy >= 0 ? 'pos' : 'neg'}">${yoy >= 0 ? '+' : ''}${yoy.toFixed(1)}%</span></div>`;
+          }
+
+          // 3. Vs 3Y Average
+          const last3 = [];
+          for (let i = 1; i <= 3; i++) {
+            const v = getMAvgCached(pk, year - i, month);
+            if (v != null) last3.push(v);
+          }
+          if (last3.length > 0) {
+            const avg3 = last3.reduce((a,b)=>a+b,0) / last3.length;
+            const dev = ((val - avg3) / avg3) * 100;
+            html += `<div class="rt-row"><span class="rt-label">vs 3Y Average</span><span class="rt-val ${dev >= 0 ? 'pos' : 'neg'}">${dev >= 0 ? '+' : ''}${dev.toFixed(1)}%</span></div>`;
+          }
+          html += `<div class="rt-note">Benchmarks based on monthly averages for ${MONTH_NAMES[month]}.</div>`;
+        } 
+        else if (type === 'quarterly-cell') {
+          const q = target.getAttribute('data-tt-quarter');
+          const history = [];
+          for (let y = 0; y <= new Date().getFullYear(); y++) {
+             const v = getQAvgCached(pk, y, q);
+             if (v != null) history.push(v);
+          }
+          const sorted = [...history].sort((a,b) => a-b);
+          const rank = sorted.length - sorted.indexOf(val);
+          html += `<div class="rt-row"><span class="rt-label">Quarterly Rank</span><span class="rt-val">#${rank} of ${history.length}</span></div>`;
+
+          const prevVal = getQAvgCached(pk, q === 'Q1' ? year - 1 : year, q === 'Q1' ? 'Q4' : (q === 'Q2' ? 'Q1' : (q === 'Q3' ? 'Q2' : 'Q3')));
+          if (prevVal != null && prevVal !== 0) {
+            const qoq = ((val - prevVal) / prevVal) * 100;
+            html += `<div class="rt-row"><span class="rt-label">QoQ Momentum</span><span class="rt-val ${qoq >= 0 ? 'pos' : 'neg'}">${qoq >= 0 ? '+' : ''}${qoq.toFixed(1)}%</span></div>`;
+          }
+          html += `<div class="rt-note">Benchmarks based on quarterly averages.</div>`;
+        }
+        else if (type === 'roc-cell') {
+          const startVal = parseFloat(target.getAttribute('data-tt-start-val'));
+          const endVal = parseFloat(target.getAttribute('data-tt-end-val'));
+          const startDate = target.getAttribute('data-tt-start-date');
+          html += `<div class="rt-row"><span class="rt-label">Baseline Date</span><span class="rt-val">${startDate}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Starting Price</span><span class="rt-val">${fmt(startVal, 0)}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Current Price</span><span class="rt-val">${fmt(endVal, 0)}</span></div>`;
+          html += `<div class="rt-note">Rate of Change calculation from baseline date to latest.</div>`;
+        }
+        else if (type === 'perf-cell') {
+          const metric = target.getAttribute('data-tt-metric');
+          const rawVal = target.getAttribute('data-tt-val'); // string like "12.5%"
+          const value = parseFloat(rawVal);
+          
+          // Global compare for this metric
+          const history = [];
+          for (const y in DATA.byYearProduct[pk] || DATA.byYear) {
+             const rows = (DATA.byYearProduct[pk] || DATA.byYear)[y];
+             const vals = rows.filter(r => r[pk] != null).map(r => r[pk]);
+             if (!vals.length) continue;
+             const avg = mean(vals), mn = Math.min(...vals), mx = Math.max(...vals);
+             if (metric === 'Volatility') history.push(((mx - mn) / Math.abs(avg) * 100));
+             if (metric === 'Trough→Peak') history.push(((mx - mn) / mn * 100));
+          }
+          const sorted = [...history].sort((a,b) => a-b);
+          const rank = sorted.length - sorted.indexOf(value);
+          const topPct = (rank / history.length * 100).toFixed(0);
+          
+          html += `<div class="rt-row"><span class="rt-label">Historical Rank</span><span class="rt-val">#${rank} of ${history.length}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Percentile</span><span class="rt-val">${100 - topPct}% percentile</span></div>`;
+          html += `<div class="rt-note">Comparing ${metric} intensity across all years.</div>`;
+        }
+        
+        return html;
+      }
+
       document.addEventListener('mouseover', function(e) {
         const target = e.target.closest('[data-tooltip]');
         if (!target) return;
-        const text = target.getAttribute('data-tooltip');
-        if (!text) return;
+        
+        const staticText = target.getAttribute('data-tooltip');
+        const richContent = getCalculatedTooltip(target);
+        
+        if (!staticText && !richContent) return;
         if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
 
-        tt.textContent = text;
+        if (richContent) {
+          tt.innerHTML = richContent;
+        } else {
+          tt.textContent = staticText;
+        }
+        
         tt.classList.add('visible');
-
-        // Off-screen first to measure dimensions
-        tt.style.top = '-9999px'; tt.style.left = '-9999px';
 
         const rect = target.getBoundingClientRect();
         const GAP = 12;
