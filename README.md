@@ -140,7 +140,7 @@ BWET index weights: **90% TD3C, 10% TD20** (Solactive ISIN DE000SL0HLG3, Excess 
 ```
 Shipping/
 │
-├── index.html                          # Full dashboard — self-contained, CDN-only deps
+├── index.html                          # Full dashboard — self-contained, 22-quote Avery Ticker, CDN-only deps
 │
 ├── bdiy_historical.csv                 # Baltic Dry Index history (from Dec 2007)
 ├── cape_historical.csv                 # Capesize (from Oct 2008)
@@ -383,6 +383,27 @@ Comprehensive analytical suite for technical and fundamental signals:
 | **From Last Trough** | Percentage increase from the lowest price reached in the last 365 calendar days |
 | **Safe Liquidity** | `floor(Volume × tier%) × Close` |
 | **Total Safe Liquidity (1M)** | Sum of `Safe Liquidity` over the trailing 21 trading days (approx. one month) |
+
+---
+
+## 🏴‍☠️ Henry Avery Ticker
+
+The dashboard features an animated global ticker at the top, named after the legendary "King of Pirates."
+
+- **22 Curated Quotes**: A blended mix of Henry Avery lore, maritime strategy (Sir Francis Drake, Themistocles), and ancient Nordic wisdom from the *Hávamál*.
+- **Interactive Controls**: The ticker automatically pauses on hover for readability.
+- **Copy-Paste Enabled**: Text selection is enabled, allowing users to copy or search for quotes directly from the interface.
+
+---
+
+## 🗃️ UI/UX Implementation
+
+Built for performance and visual fidelity across all devices:
+
+- **Mobile First**: Uses responsive media queries to stack complex data grids vertically.
+- **Sticky Navigation**: Tab navigation and table headers dock to the top of the viewport for seamless mobile scrolling.
+- **Visual Glow Branding**: The Pirate Logo and Favicon feature a custom dark aura drop-shadow (`0 0 12px rgba(0,0,0,0.9)`) for a premium "dark mode" aesthetic.
+- **Zero-Latency State**: Tab switching and data product filtering (BDI, BCI, etc.) happen instantly via client-side state management.
 
 ---
 
