@@ -81,7 +81,9 @@
       overflow: hidden;
     }
     #pirateShip,
+    #pirateShip2,
     #ghostShip,
+    #ghostShip2,
     #stormGhostShip,
     #royalGhostShip {
       animation: floatShip 3s ease-in-out infinite;
@@ -106,12 +108,28 @@
       animation: ship-sail 55s linear infinite, floatShip 2.8s ease-in-out infinite;
     }
 
+    #pirateShip2 {
+      width: 134px;
+      position: absolute;
+      top: -4px;
+      animation: ship-sail 55s linear infinite, floatShip 2.8s ease-in-out infinite;
+      animation-delay: -13.75s, -0.5s;
+    }
+
     #ghostShip {
       width: 134px;
       position: absolute;
       top: -4px;
       animation: ship-sail 55s linear infinite, floatShip 3.5s ease-in-out infinite;
       animation-delay: -27.5s, -1s;
+    }
+
+    #ghostShip2 {
+      width: 134px;
+      position: absolute;
+      top: -4px;
+      animation: ship-sail 55s linear infinite, floatShip 3.5s ease-in-out infinite;
+      animation-delay: -41.25s, -1.5s;
     }
 
     .header-ships {
@@ -2502,61 +2520,35 @@
     </feMerge>
   </filter>
 </defs>
-<!-- HULL -->
 <path d="M20 80 Q70 100 200 80 L175 100 L60 100 Z" fill="#282b33"/>
 <rect x="35" y="75" width="170" height="8" fill="#3b3e47"/>
-<!-- GOLD STRIPE -->
 <line x1="35" y1="75" x2="205" y2="75" stroke="#f0c040" stroke-width="2"/>
-<!-- CANNON PORTS -->
-<circle cx="90" cy="90" r="5" fill="#1a1c21"/>
-<circle cx="115" cy="90" r="5" fill="#1a1c21"/>
-<circle cx="140" cy="90" r="5" fill="#1a1c21"/>
-<!-- LEFT TREASURE PILE -->
-<circle cx="70" cy="82" r="4" fill="#ffd700"/>
-<circle cx="75" cy="85" r="4" fill="#ffd700"/>
-<circle cx="80" cy="82" r="4" fill="#ffd700"/>
-<circle cx="85" cy="85" r="4" fill="#ffd700"/>
-<circle cx="90" cy="82" r="4" fill="#ffd700"/>
-<circle cx="95" cy="85" r="4" fill="#ffd700"/>
-<!-- LEFT SILVER -->
-<circle cx="65" cy="84" r="3" fill="#c0c0c0"/>
-<circle cx="60" cy="86" r="3" fill="#c0c0c0"/>
-<!-- TREASURE CHEST -->
-<rect x="155" y="75" width="22" height="10" fill="#3b3e47"/>
-<rect x="155" y="72" width="22" height="5" fill="#4a4e59"/>
-<!-- RIGHT TREASURE PILE -->
-<circle cx="120" cy="82" r="4" fill="#ffd700"/>
-<circle cx="125" cy="85" r="4" fill="#ffd700"/>
-<circle cx="130" cy="82" r="4" fill="#ffd700"/>
-<circle cx="135" cy="85" r="4" fill="#ffd700"/>
-<circle cx="140" cy="82" r="4" fill="#ffd700"/>
-<circle cx="145" cy="85" r="4" fill="#ffd700"/>
-<!-- RIGHT SILVER -->
-<circle cx="150" cy="84" r="3" fill="#c0c0c0"/>
-<circle cx="155" cy="86" r="3" fill="#c0c0c0"/>
-<!-- MASTS -->
-<rect x="70" y="35" width="4" height="40" fill="#18191c"/>
-<rect x="115" y="28" width="4" height="47" fill="#18191c"/>
-<rect x="160" y="38" width="4" height="37" fill="#18191c"/>
-<!-- FLAGS -->
-<polygon points="74,35 95,42 74,50" fill="#ff3b30"/>
-<polygon points="119,28 140,35 119,45" fill="#ff3b30"/>
-<polygon points="164,38 185,45 164,55" fill="#ff3b30"/>
-<!-- SAILS -->
-<path d="M74 45 Q55 60 74 75 Z" fill="#2e323b"/>
-<path d="M119 40 Q95 65 119 75 Z" fill="#1a1a1c"/>
-<path d="M164 50 Q145 65 164 75 Z" fill="#2e323b"/>
-<!-- PIRATE EMBLEM -->
-<circle cx="120" cy="60" r="7" fill="#ffffff"/>
-<!-- skull -->
-<circle cx="120" cy="58.5" r="3" fill="#000"/>
-<circle cx="118.8" cy="58" r="0.5" fill="#fff"/>
-<circle cx="121.2" cy="58" r="0.5" fill="#fff"/>
-<!-- teeth -->
-<rect x="118.8" y="60.5" width="2.4" height="1" fill="#000"/>
-<!-- crossbones -->
-<line x1="116" y1="64" x2="124" y2="68" stroke="#000" stroke-width="1"/>
-<line x1="124" y1="64" x2="116" y2="68" stroke="#000" stroke-width="1"/>
+<circle cx="90" cy="90" r="5" fill="#1a1c21"/><circle cx="115" cy="90" r="5" fill="#1a1c21"/><circle cx="140" cy="90" r="5" fill="#1a1c21"/>
+<circle cx="70" cy="82" r="4" fill="#ffd700"/><circle cx="75" cy="85" r="4" fill="#ffd700"/><circle cx="80" cy="82" r="4" fill="#ffd700"/><circle cx="85" cy="85" r="4" fill="#ffd700"/><circle cx="90" cy="82" r="4" fill="#ffd700"/><circle cx="95" cy="85" r="4" fill="#ffd700"/>
+<circle cx="65" cy="84" r="3" fill="#c0c0c0"/><circle cx="60" cy="86" r="3" fill="#c0c0c0"/>
+<rect x="155" y="75" width="22" height="10" fill="#3b3e47"/><rect x="155" y="72" width="22" height="5" fill="#4a4e59"/>
+<circle cx="120" cy="82" r="4" fill="#ffd700"/><circle cx="125" cy="85" r="4" fill="#ffd700"/><circle cx="130" cy="82" r="4" fill="#ffd700"/><circle cx="135" cy="85" r="4" fill="#ffd700"/><circle cx="140" cy="82" r="4" fill="#ffd700"/><circle cx="145" cy="85" r="4" fill="#ffd700"/>
+<circle cx="150" cy="84" r="3" fill="#c0c0c0"/><circle cx="155" cy="86" r="3" fill="#c0c0c0"/>
+<rect x="70" y="35" width="4" height="40" fill="#18191c"/><rect x="115" y="28" width="4" height="47" fill="#18191c"/><rect x="160" y="38" width="4" height="37" fill="#18191c"/>
+<polygon points="74,35 95,42 74,50" fill="#ff3b30"/><polygon points="119,28 140,35 119,45" fill="#ff3b30"/><polygon points="164,38 185,45 164,55" fill="#ff3b30"/>
+<path d="M74 45 Q55 60 74 75 Z" fill="#2e323b"/><path d="M119 40 Q95 65 119 75 Z" fill="#1a1a1c"/><path d="M164 50 Q145 65 164 75 Z" fill="#2e323b"/>
+<circle cx="120" cy="60" r="7" fill="#ffffff"/><circle cx="120" cy="58.5" r="3" fill="#000"/><circle cx="118.8" cy="58" r="0.5" fill="#fff"/><circle cx="121.2" cy="58" r="0.5" fill="#fff"/><rect x="118.8" y="60.5" width="2.4" height="1" fill="#000"/><line x1="116" y1="64" x2="124" y2="68" stroke="#000" stroke-width="1"/><line x1="124" y1="64" x2="116" y2="68" stroke="#000" stroke-width="1"/>
+</svg>
+
+<svg id="pirateShip2" filter="url(#pirateGlow)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
+<path d="M20 80 Q70 100 200 80 L175 100 L60 100 Z" fill="#282b33"/>
+<rect x="35" y="75" width="170" height="8" fill="#3b3e47"/>
+<line x1="35" y1="75" x2="205" y2="75" stroke="#f0c040" stroke-width="2"/>
+<circle cx="90" cy="90" r="5" fill="#1a1c21"/><circle cx="115" cy="90" r="5" fill="#1a1c21"/><circle cx="140" cy="90" r="5" fill="#1a1c21"/>
+<circle cx="70" cy="82" r="4" fill="#ffd700"/><circle cx="75" cy="85" r="4" fill="#ffd700"/><circle cx="80" cy="82" r="4" fill="#ffd700"/><circle cx="85" cy="85" r="4" fill="#ffd700"/><circle cx="90" cy="82" r="4" fill="#ffd700"/><circle cx="95" cy="85" r="4" fill="#ffd700"/>
+<circle cx="65" cy="84" r="3" fill="#c0c0c0"/><circle cx="60" cy="86" r="3" fill="#c0c0c0"/>
+<rect x="155" y="75" width="22" height="10" fill="#3b3e47"/><rect x="155" y="72" width="22" height="5" fill="#4a4e59"/>
+<circle cx="120" cy="82" r="4" fill="#ffd700"/><circle cx="125" cy="85" r="4" fill="#ffd700"/><circle cx="130" cy="82" r="4" fill="#ffd700"/><circle cx="135" cy="85" r="4" fill="#ffd700"/><circle cx="140" cy="82" r="4" fill="#ffd700"/><circle cx="145" cy="85" r="4" fill="#ffd700"/>
+<circle cx="150" cy="84" r="3" fill="#c0c0c0"/><circle cx="155" cy="86" r="3" fill="#c0c0c0"/>
+<rect x="70" y="35" width="4" height="40" fill="#18191c"/><rect x="115" y="28" width="4" height="47" fill="#18191c"/><rect x="160" y="38" width="4" height="37" fill="#18191c"/>
+<polygon points="74,35 95,42 74,50" fill="#ff3b30"/><polygon points="119,28 140,35 119,45" fill="#ff3b30"/><polygon points="164,38 185,45 164,55" fill="#ff3b30"/>
+<path d="M74 45 Q55 60 74 75 Z" fill="#2e323b"/><path d="M119 40 Q95 65 119 75 Z" fill="#1a1a1c"/><path d="M164 50 Q145 65 164 75 Z" fill="#2e323b"/>
+<circle cx="120" cy="60" r="7" fill="#ffffff"/><circle cx="120" cy="58.5" r="3" fill="#000"/><circle cx="118.8" cy="58" r="0.5" fill="#fff"/><circle cx="121.2" cy="58" r="0.5" fill="#fff"/><rect x="118.8" y="60.5" width="2.4" height="1" fill="#000"/><line x1="116" y1="64" x2="124" y2="68" stroke="#000" stroke-width="1"/><line x1="124" y1="64" x2="116" y2="68" stroke="#000" stroke-width="1"/>
 </svg>
 <svg id="ghostShip" filter="url(#ghostGlow)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
 <defs>
@@ -2632,6 +2624,22 @@
 <rect x="119.8" y="58.5" width="2.4" height="1" fill="#000"/>
 <line x1="117" y1="62" x2="125" y2="66" stroke="#000" stroke-width="1"/>
 <line x1="125" y1="62" x2="117" y2="66" stroke="#000" stroke-width="1"/>
+</svg>
+
+<svg id="ghostShip2" filter="url(#ghostGlow)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 110" width="170">
+<path d="M18 79 Q75 104 212 79 L185 103 L52 103 Z" fill="#5f6675"/>
+<rect x="32" y="72" width="180" height="10" fill="#778093"/>
+<line x1="32" y1="72" x2="212" y2="72" stroke="#c9f6ff" stroke-width="3"/>
+<circle cx="85" cy="91" r="5" fill="#303641"/><circle cx="110" cy="91" r="5" fill="#303641"/><circle cx="135" cy="91" r="5" fill="#303641"/><circle cx="160" cy="91" r="5" fill="#303641"/>
+<circle cx="60" cy="82" r="4" fill="#ffd700"/><circle cx="65" cy="85" r="4" fill="#ffd700"/><circle cx="70" cy="82" r="4" fill="#ffd700"/><circle cx="75" cy="85" r="4" fill="#ffd700"/><circle cx="80" cy="82" r="4" fill="#ffd700"/><circle cx="85" cy="85" r="4" fill="#ffd700"/>
+<circle cx="125" cy="82" r="4" fill="#ffd700"/><circle cx="130" cy="85" r="4" fill="#ffd700"/><circle cx="135" cy="82" r="4" fill="#ffd700"/><circle cx="140" cy="85" r="4" fill="#ffd700"/><circle cx="145" cy="82" r="4" fill="#ffd700"/><circle cx="150" cy="85" r="4" fill="#ffd700"/>
+<circle cx="55" cy="84" r="3" fill="#c0c0c0"/><circle cx="50" cy="86" r="3" fill="#c0c0c0"/><circle cx="155" cy="84" r="3" fill="#c0c0c0"/><circle cx="160" cy="86" r="3" fill="#c0c0c0"/>
+<rect x="170" y="74" width="24" height="11" fill="#778093"/><rect x="170" y="70" width="24" height="6" fill="#9aa3b5"/>
+<rect x="65" y="36" width="4" height="36" fill="#7a8596"/><rect x="116" y="18" width="5" height="54" fill="#7a8596"/><rect x="170" y="38" width="4" height="34" fill="#7a8596"/>
+<polygon points="69,36 92,44 69,52" fill="#7ef9ff"/><polygon points="121,18 150,28 121,42" fill="#7ef9ff"/><polygon points="174,38 197,46 174,55" fill="#7ef9ff"/>
+<polygon points="74,42 84,46 74,50" fill="#aefcff"/><polygon points="126,30 136,34 126,38" fill="#aefcff"/><polygon points="178,44 188,48 178,52" fill="#aefcff"/>
+<path d="M69 46 Q48 60 69 72 Z" fill="#e6fbff"/><path d="M121 32 Q90 60 121 72 Z" fill="#9be7f5"/><path d="M174 48 Q154 60 174 72 Z" fill="#e6fbff"/>
+<circle cx="121" cy="58" r="7" fill="#ffffff"/><circle cx="121" cy="56.5" r="3" fill="#000"/><circle cx="119.8" cy="56" r="0.5" fill="#fff"/><circle cx="122.2" cy="56" r="0.5" fill="#fff"/><rect x="119.8" y="58.5" width="2.4" height="1" fill="#000"/><line x1="117" y1="62" x2="125" y2="66" stroke="#000" stroke-width="1"/><line x1="125" y1="62" x2="117" y2="66" stroke="#000" stroke-width="1"/>
 </svg>
     </div> <!-- /header-ships -->
     <h1><span class="logo">🏴‍☠️</span> Shipping Intelligence</h1>
