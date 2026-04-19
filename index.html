@@ -4989,8 +4989,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       <td class="${yoyCls}">${yoyStr}</td>
       <td>${fmt(mn, 0)}</td>
       <td>${fmt(mx, 0)}</td>
-      <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Volatility" data-tt-val="${volPct}">${volPct}</td>
-      <td class="val-green" data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Trough→Peak" data-tt-val="${tpPct}">${tpPct}</td>
+      <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Volatility" data-tt-val="${volPct}" data-tt-title="${y} Volatility">${volPct}</td>
+      <td class="val-green" data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Trough→Peak" data-tt-val="${tpPct}" data-tt-title="${y} Trough→Peak">${tpPct}</td>
     </tr>`;
       }
 
@@ -12097,17 +12097,17 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           
           // Global compare for this metric
           const history = [];
-          for (const y in DATA.byYearProduct[pk] || DATA.byYear) {
-             const rows = (DATA.byYearProduct[pk] || DATA.byYear)[y];
+          for (const yk in DATA.byYearProduct[pk] || DATA.byYear) {
+             const rows = (DATA.byYearProduct[pk] || DATA.byYear)[yk];
              const vals = rows.filter(r => r[pk] != null).map(r => r[pk]);
              if (!vals.length) continue;
-             const avg = mean(vals), mn = Math.min(...vals), mx = Math.max(...vals);
-             if (metric === 'Volatility') history.push(((mx - mn) / Math.abs(avg) * 100));
-             if (metric === 'Trough→Peak') history.push(((mx - mn) / mn * 100));
+             const yAvg = mean(vals), yMn = Math.min(...vals), yMx = Math.max(...vals);
+             if (metric === 'Volatility') history.push(((yMx - yMn) / Math.abs(yAvg) * 100));
+             if (metric === 'Trough→Peak') history.push(((yMx - yMn) / yMn * 100));
           }
-          const sorted = [...history].sort((a,b) => a-b);
-          const rank = sorted.length - sorted.indexOf(value);
-          const topPct = (rank / history.length * 100).toFixed(0);
+          // Robust ranking: items counts as 'better' if significantly larger
+          const rank = history.filter(v => v > (value + 0.001)).length + 1;
+          const topPct = ((rank / history.length) * 100).toFixed(0);
           
           html += `<div class="rt-row"><span class="rt-label">Historical Rank</span><span class="rt-val">#${rank} of ${history.length}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Percentile</span><span class="rt-val">${100 - topPct}% percentile</span></div>`;
