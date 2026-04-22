@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-04-22_2026_04_22_basrah_exports__root",
+  "doc_id": "breakwave_insights_insights_2026-04-22_2026_04_22_basrah_exports",
+  "parent_id": null,
+  "title": "Basrah exports",
+  "section_path": [
+    "Basrah exports"
+  ],
+  "section_path_text": "Basrah exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Yiannis Parganas\nIn the VLCC market, Basrah exports are one of the main shortterm variables. Iraq is one of the largest Gulf crude suppliers into Asia, and Basrah is one of the main loading points for long-haul VLCC business on the Middle East Gulf to China route, which is reflected in Baltic's TD3C benchmark framework. A key market development is that Iraqi southern output fell sharply once exports through Hormuz were blocked.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "crude_oil",
+    "gulf",
+    "exports",
+    "basrah",
+    "iraqi",
+    "cargo"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 793,
+  "source_path": "reports/breakwave/2026/2026-04-22_basrah-exports.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/4/22/basrah-exports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-04-22_2026_04_22_basrah_exports__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-04-22_2026_04_22_basrah_exports",
+      "parent_id": "breakwave_insights_insights_2026-04-22_2026_04_22_basrah_exports__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Yiannis Parganas\nIn the VLCC market, Basrah exports are one of the main shortterm variables. Iraq is one of the largest Gulf crude suppliers into Asia, and Basrah is one of the main loading points for long-haul VLCC business on the Middle East Gulf to China route, which is reflected in Baltic's TD3C benchmark framework.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "crude_oil",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 791,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
