@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-04-22_2026_04_22_usiran_negotiations_and_the_case_for_crude_tanker_capacity__root",
+  "doc_id": "breakwave_insights_insights_2026-04-22_2026_04_22_usiran_negotiations_and_the_case_for_crude_tanker_capacity",
+  "parent_id": null,
+  "title": "US-Iran Negotiations and the Case for Crude Tanker Capacity",
+  "section_path": [
+    "US-Iran Negotiations and the Case for Crude Tanker Capacity"
+  ],
+  "section_path_text": "US-Iran Negotiations and the Case for Crude Tanker Capacity",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nAs US-Iran nuclear negotiations move through their latest round, the shipping market is watching closely. A credible deal that reopens Iranian crude exports would add significant volume to global flows, but the route and insurance landscape would take time to normalise, and Hormuz-related risk is not about to disappear overnight. Against that backdrop, Allied QuantumSea Research has identified a clear new trend in newbuilding activity: owners are not waiting.",
+  "keywords": [
+    "capesize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "lng",
+    "china",
+    "singapore",
+    "crude_oil",
+    "gas",
+    "vlccs",
+    "two",
+    "are"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1613,
+  "source_path": "reports/breakwave/2026/2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/4/22/usiran-negotiations-and-the-case-for-crude-tanker-capacity",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-04-22_2026_04_22_usiran_negotiations_and_the_case_for_crude_tanker_capacity__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-04-22_2026_04_22_usiran_negotiations_and_the_case_for_crude_tanker_capacity",
+      "parent_id": "breakwave_insights_insights_2026-04-22_2026_04_22_usiran_negotiations_and_the_case_for_crude_tanker_capacity__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "As US-Iran nuclear negotiations move through their latest round, the shipping market is watching closely. A credible deal that reopens Iranian crude exports would add significant volume to global flows, but the route and insurance landscape would take time to normalise, and Hormuz-related risk is not about to disappear overnight.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "lng",
+        "china",
+        "singapore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1255,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-04-22_2026_04_22_usiran_negotiations_and_the_case_for_crude_tanker_capacity__s02_linked_asset_2026_04_22_usiran_negotiations_and_the_case_for_crude_tanker_capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7c4c27edb96_png",
+      "doc_id": "breakwave_insights_insights_2026-04-22_2026_04_22_usiran_negotiations_and_the_case_for_crude_tanker_capacity",
+      "parent_id": "breakwave_insights_insights_2026-04-22_2026_04_22_usiran_negotiations_and_the_case_for_crude_tanker_capacity__root",
+      "title": "Linked asset: 2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7c4c27edb96.png",
+      "section_path": [
+        "Linked asset: 2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7c4c27edb96.png"
+      ],
+      "section_path_text": "Linked asset: 2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7c4c27edb96.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7c4c27edb96.png\n\nLinked image asset: 2026-04-22_usiran-negotiations-and-the-case-for-crude-tanker-capacity_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_e7c4c27edb96.png\n\nImage metadata: PNG 953x353 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nThe Dirty Tanker Ordering Spree\nVLCC Newbuilding prices vs 5 y/o -vecsy Suezmax Newbuilding prices vs 5y/o = --suezmaxsy\nVLCC NB --- SUEZMAX NB\n$1600m $100.0m\nss00m\n$1400m\n$s00m\n$1200m\n$700m\n$1000m sa00m\n$800m sso0m\nsa00m\n$600m\n$300m\n$400m\n$200m\n$200m s100m\nDm som\npg gost ws tt gt tt gt git pr get gett got ge gt gp Pt gt",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "asset",
+        "image",
+        "newbuilding",
+        "prices",
+        "sa00m",
+        "y/o"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 299,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
