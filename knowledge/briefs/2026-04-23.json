@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T13:56:22.118650+00:00",
+  "generated_at": "2026-04-23T17:26:10.367210+00:00",
   "brief_date": "2026-04-23",
   "generation": {
     "mode": "llm",
@@ -16,49 +16,49 @@
   },
   "market_snapshot": {
     "bdi": {
-      "value": 2675.0,
-      "z_score_252d": 2.242,
-      "pctl_5y": 0.997,
+      "value": 2673.0,
+      "z_score_252d": 2.216,
+      "pctl_5y": 0.996,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 2059.7,
-      "roc60": 50.28
+      "ma200": 2065.9,
+      "roc60": 33.72
     },
     "capesize": {
-      "value": 4356.0,
-      "z_score_252d": 2.008,
-      "pctl_5y": 0.992,
+      "value": 4315.0,
+      "z_score_252d": 1.933,
+      "pctl_5y": 0.991,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 3173.1,
-      "roc60": 65.88
+      "ma200": 3185.4,
+      "roc60": 34.21
     },
     "panamax": {
-      "value": 1971.0,
-      "z_score_252d": 1.227,
-      "pctl_5y": 0.99,
+      "value": 1965.0,
+      "z_score_252d": 1.194,
+      "pctl_5y": 0.987,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1766.5,
-      "roc60": 22.27
+      "ma200": 1769.2,
+      "roc60": 20.92
     },
     "supramax": {
-      "value": 1484.0,
-      "z_score_252d": 1.337,
-      "pctl_5y": 0.994,
+      "value": 1522.0,
+      "z_score_252d": 1.527,
+      "pctl_5y": 1.0,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1301.6,
-      "roc60": 43.38
+      "ma200": 1303.8,
+      "roc60": 46.49
     },
     "handysize": {
-      "value": 781.0,
-      "z_score_252d": 0.664,
-      "pctl_5y": 0.591,
+      "value": 791.0,
+      "z_score_252d": 0.758,
+      "pctl_5y": 0.602,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 747.2,
-      "roc60": 29.95
+      "ma200": 748.0,
+      "roc60": 30.96
     },
     "clean_tanker": {
       "value": 2198.0,
@@ -82,15 +82,15 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
-      "confluence_note": "Spot rates are at the 99th percentile across major classes despite a multi-month streak of negative fundamentals reported by Breakwave.",
-      "summary": "The dry bulk market is in a technical expansion phase with the BDI at 2675 (Z=+2.24), yet this strength contrasts with weak Chinese steel production (-3.6% YoY) and record iron ore inventories (166mt). Market momentum remains positive even as long-term demand signals from the Far East remain subdued.",
+      "confluence_note": "Significant spot rate expansion and a 99.6% 5-year BDI percentile contrast sharply with persistent negative fundamental sentiment and weak Chinese industrial data.",
+      "summary": "The dry bulk market is in a technical expansion regime with Capesize and Supramax classes showing high Z-scores, yet the underlying Chinese steel sector remains weak with production down 3.6% YOY and iron ore inventories ballooning by 20.3%. High spot rates appear increasingly decoupled from commodity demand, potentially buoyed by high bunker costs and geopolitical premiums.",
       "key_signals": [
-        "BDI 5-year percentile at 99.7%",
-        "China Iron Ore Inventories +20.3% YoY",
-        "Capesize ROC60 +65.9%"
+        "BDI 5-year percentile at 99.6%",
+        "China Iron Ore Inventories +20.3% YOY",
+        "Supramax ROC60 of +46.5%"
       ],
-      "outlook": "The market is likely overextended in the short term, requiring a fundamental shift in Chinese steel demand to sustain these levels.",
-      "watch": "Chinese iron ore portside inventory levels and steel mill margins.",
+      "outlook": "Cautiously bearish in the medium term as high inventories and low steel production may eventually trigger a correction in spot rates.",
+      "watch": "Chinese steel production YTD trends and iron ore portside inventory drawdown rates.",
       "report_dates": [
         "2026-04-14",
         "2026-03-31",
@@ -104,16 +104,16 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Extremely high quantitative Z-scores align with positive fundamental assessments driven by geopolitical supply disruptions.",
-      "summary": "Tanker markets are experiencing a historic rally, with Clean Tankers posting a Z-score of +3.21 and a staggering 147% ROC60. Geopolitical instability and the closure of key straits have throttled supply, turning a 'worst-case scenario' into a sustained period of high spot rates. Segment breadth remains important: clean tankers at 2198.0 (ROC60 +147.0%), alongside dirty tankers at 2854.0 (ROC60 +75.0%).",
+      "confluence_note": "Extreme quantitative signals, including a Clean Tanker Z-score of +3.21, are backed by positive fundamental outlooks linked to unnavigable straits and disrupted supply chains.",
+      "summary": "Tanker markets are witnessing an explosive expansion with Clean and Dirty rates showing ROC60 of 147% and 75% respectively as the market adjusts to unnavigable straits. While short-term momentum has softened, the structural shift toward longer routes and elevated oil prices maintains a strong floor for VLCC and Suezmax rates.",
       "key_signals": [
-        "Clean Tanker Z-score +3.21 (Expansion)",
-        "Global Crude Oil On Water -0.4% YoY",
-        "VLCC Middle East-Asia rates up 71.1% YoY",
+        "Clean Tanker ROC60 at +147.0%",
+        "Positive Fundamental Sentiment (April 21)",
+        "Global Crude Oil On Water volatility",
         "Dirty tanker check: level=2854.0, ROC60=+75.0%."
       ],
-      "outlook": "Ongoing Middle East conflict and inventory draws will keep tanker rates elevated and volatile.",
-      "watch": "Straits navigability status and OECD crude oil stock levels.",
+      "outlook": "Highly bullish as geopolitical constraints on maritime straits continue to tighten global vessel supply.",
+      "watch": "Navigability status of Middle Eastern straits and OECD crude oil inventory draws.",
       "report_dates": [
         "2026-04-21",
         "2026-04-07",
@@ -126,7 +126,7 @@
       ]
     }
   },
-  "macro_note": "Global trade is grappling with a sharp divergence: dry bulk is buoyed by technical momentum despite industrial headwinds, while the energy complex is in a supply-driven bull cycle fueled by escalating geopolitical risk.",
+  "macro_note": "A stark divide exists between the energy and industrial sectors; tankers are thriving on geopolitical disruption and supply-side constraints, while dry bulk faces a growing disconnect between high freight rates and cooling Chinese industrial demand.",
   "sources": [
     "breakwave_drybulk_2026-04-14",
     "breakwave_drybulk_2026-03-31",
