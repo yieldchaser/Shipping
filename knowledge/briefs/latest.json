@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T11:31:54.602449+00:00",
+  "generated_at": "2026-04-24T13:11:47.448679+00:00",
   "brief_date": "2026-04-24",
   "generation": {
     "mode": "llm",
@@ -82,15 +82,15 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
-      "confluence_note": "A sharp disconnect exists between technical expansion (BDI Z-score +2.22) and consistently negative fundamental assessments driven by record Chinese iron ore inventories.",
-      "summary": "Spot rates have hit 2-month highs with Supramax leading the pack at a 5-year percentile of 100.0%. However, underlying demand is fragile as China steel production remains in contraction (-3.6% YoY) and iron ore portside stocks hover at near-record levels of 166mt.",
+      "confluence_note": "A sharp disconnect exists between the quantitative expansion regime (BDI Z-score +2.22) and stubbornly negative fundamentals driven by record-high Chinese iron ore inventories.",
+      "summary": "Dry bulk spot rates are hovering at 5-year highs with Capesize and Supramax leading a late-cycle expansion. However, the underlying narrative is shadowed by a 3.6% YOY decline in Chinese steel production and portside iron ore stocks hitting 166mt, suggesting the rally lacks a fundamental demand floor.",
       "key_signals": [
-        "Supramax ROC60 (+46.5%)",
-        "China Iron Ore Inventories (+20.3% YoY)",
-        "BDI 5-year percentile (99.6%)"
+        "Supramax ROC60 +46.5%",
+        "China Iron Ore Inventories +20.3% YOY",
+        "Negative Fundamentals Sentiment"
       ],
-      "outlook": "Short-term momentum remains positive, but high inventory levels pose a significant correction risk if Chinese industrial activity doesn't accelerate.",
-      "watch": "Chinese steel production data and potential de-stocking of portside iron ore.",
+      "outlook": "Expect volatility as record spot levels face pressure from weakening Chinese industrial demand and high portside stockpiles.",
+      "watch": "Chinese steel production data and iron ore inventory de-stocking rates for signs of demand stabilization.",
       "report_dates": [
         "2026-04-14",
         "2026-03-31",
@@ -104,16 +104,16 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Extreme quantitative Z-scores align with positive fundamental narratives regarding geopolitical disruptions and unnavigable trade straits.",
-      "summary": "The tanker market is in a super-expansionary phase, particularly in the clean sector (Z=+3.14), driven by a 'worst-case' geopolitical scenario. While recent momentum has cooled slightly, oil prices over $100 and inventory draws continue to support high freight floors. Segment breadth remains important: clean tankers at 2201.0 (ROC60 +147.3%), alongside dirty tankers at 2837.0 (ROC60 +72.4%).",
+      "confluence_note": "Extreme quantitative strength (Clean Tanker Z+3.14) is highly correlated with positive fundamentals stemming from geopolitical disruptions and unnavigable trade straits.",
+      "summary": "The tanker market has entered a structural shift as 'worst-case' geopolitical scenarios force trade route adjustments, driving the Clean Tanker ROC60 to a staggering +147.3%. While momentum has recently softened from panic peaks, positive fundamentals remain intact due to tightening supply and elevated oil prices. Segment breadth remains important: clean tankers at 2201.0 (ROC60 +147.3%), alongside dirty tankers at 2837.0 (ROC60 +72.4%).",
       "key_signals": [
-        "Clean Tanker ROC60 (+147.3%)",
-        "Unnavigable Straits/Route adjustments",
-        "OECD Crude Stock draws (+1.2% YoY but tightening)",
+        "Clean Tanker Z-score +3.14",
+        "Straits Unnavigable Narrative",
+        "World Oil Demand +1.0% YOY",
         "Dirty tanker check: level=2837.0, ROC60=+72.4%."
       ],
-      "outlook": "Bullish conditions are expected to persist as long as geopolitical instability necessitates long-haul alternative routing.",
-      "watch": "Middle East navigational security and Suezmax West Africa-Europe rate volatility.",
+      "outlook": "Freight rates are projected to remain at historically elevated levels as long as geopolitical transit risks remain unresolved.",
+      "watch": "Middle East geopolitical developments and changes in global crude oil 'on water' volumes.",
       "report_dates": [
         "2026-04-21",
         "2026-04-07",
@@ -126,7 +126,7 @@
       ]
     }
   },
-  "macro_note": "Global freight is currently bifurcated; tankers are reacting to high-intensity geopolitical supply shocks, while dry bulk is defying weak industrial fundamentals through sheer price momentum and subdued volatility.",
+  "macro_note": "Global shipping is deeply bifurcated; tankers are surging on geopolitical conflict-driven inefficiencies, while dry bulk's expansionary regime faces a growing threat from the Chinese industrial slowdown and $100+ oil prices.",
   "sources": [
     "breakwave_drybulk_2026-04-14",
     "breakwave_drybulk_2026-03-31",
