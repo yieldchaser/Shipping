@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-04-24_2026_04_24_clarksons_platou_hellas_snp_weekly_bulletin_130__root",
+  "doc_id": "hellenic_shipbuilding_2026-04-24_2026_04_24_clarksons_platou_hellas_snp_weekly_bulletin_130",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThis week, tankers received attention across all segments. On the larger sizes, increased interest has been observed in the Suezmax space, while notable appetite for approximately 10-15-year-old Aframaxes and MR2s has also been monitored. The Dry Bulk sector has maintained its healthy trend as well, with modern ECO Ultramaxes being in the forefront, along with notable transactions taking place in the Post-Panamax and Supramax spaces.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "suezmax",
+    "aframax",
+    "china",
+    "abt",
+    "dwt",
+    "sti",
+    "usd",
+    "scrubber",
+    "sold",
+    "enbloc"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 542,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-04-24_clarksons-platou-hellas-snp-weekly-bulletin-130.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-130",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-04-24_2026_04_24_clarksons_platou_hellas_snp_weekly_bulletin_130__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-04-24_2026_04_24_clarksons_platou_hellas_snp_weekly_bulletin_130",
+      "parent_id": "hellenic_shipbuilding_2026-04-24_2026_04_24_clarksons_platou_hellas_snp_weekly_bulletin_130__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "This week, tankers received attention across all segments. On the larger sizes, increased interest has been observed in the Suezmax space, while notable appetite for approximately 10-15-year-old Aframaxes and MR2s has also been monitored.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "suezmax",
+        "aframax",
+        "china",
+        "abt",
+        "dwt",
+        "sti"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 540,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

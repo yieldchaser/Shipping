@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-24T17:03:23Z",
-  "current_date": "2026-04-24",
-  "warning_count": 9,
+  "generated_at": "2026-04-27T12:02:48Z",
+  "current_date": "2026-04-27",
+  "warning_count": 8,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -12,7 +12,7 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 3
+      "watch": 2
     }
   },
   "warnings": [
@@ -35,13 +35,6 @@
             "latest_date": "2026-04-14"
           },
           {
-            "source": "hellenic",
-            "avg_tone_score": -0.17,
-            "dominant_tone": "neutral",
-            "doc_count": 6,
-            "latest_date": "2026-04-23"
-          },
-          {
             "source": "baltic",
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
@@ -49,11 +42,18 @@
             "latest_date": "2026-04-24"
           },
           {
+            "source": "hellenic",
+            "avg_tone_score": 0.08,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-04-27"
+          },
+          {
             "source": "breakwave_insights",
             "avg_tone_score": 0.62,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-04-24"
+            "latest_date": "2026-04-27"
           }
         ],
         "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads cautiously_bearish."
@@ -89,53 +89,10 @@
             "avg_tone_score": 0.75,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-04-24"
+            "latest_date": "2026-04-27"
           }
         ],
         "message": "Panamax and Supramax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
-      }
-    },
-    {
-      "severity": "watch",
-      "kind": "topic_divergence",
-      "key": "tanker_market",
-      "message": "Tanker Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral.",
-      "details": {
-        "topic_id": "tanker_market",
-        "title": "Tanker Market",
-        "severity": "watch",
-        "score_diff": 0.79,
-        "source_scores": [
-          {
-            "source": "hellenic",
-            "avg_tone_score": -0.17,
-            "dominant_tone": "neutral",
-            "doc_count": 6,
-            "latest_date": "2026-04-22"
-          },
-          {
-            "source": "breakwave",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "neutral",
-            "doc_count": 3,
-            "latest_date": "2026-04-21"
-          },
-          {
-            "source": "baltic",
-            "avg_tone_score": 0.19,
-            "dominant_tone": "neutral",
-            "doc_count": 4,
-            "latest_date": "2026-04-24"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.62,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-04-24"
-          }
-        ],
-        "message": "Tanker Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while hellenic reads neutral."
       }
     },
     {
