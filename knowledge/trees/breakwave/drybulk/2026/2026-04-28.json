@@ -1,0 +1,86 @@
+{
+  "node_id": "breakwave_drybulk_2026-04-28__root",
+  "doc_id": "breakwave_drybulk_2026-04-28",
+  "parent_id": null,
+  "title": "Dry Bulk Shipping - April 28, 2026",
+  "section_path": [
+    "Dry Bulk Shipping - April 28, 2026"
+  ],
+  "section_path_text": "Dry Bulk Shipping - April 28, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The dry bulk shipping sector is experiencing a significant collapse in volatility to multi-year lows despite high absolute price levels, driven largely by equilibrium in the freight futures market. Breakwave maintains a cautious outlook for the second half of 2026, anticipating an economic slowdown in Asian markets due to impending energy shocks and cooling global demand. While short-term fundamentals are viewed negatively, the long-term outlook expects secular tightness and higher volatility due to geopolitical uncertainty and steady fleet growth.",
+  "keywords": [
+    "dry bulk",
+    "Capesize",
+    "freight futures",
+    "volatility",
+    "iron ore",
+    "BDI",
+    "spot rates",
+    "energy shock"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 346,
+  "source_path": "reports/drybulk/2026/2026-04-28_Breakwave_Dry_Bulk.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_drybulk_2026-04-28__s01_overview",
+      "doc_id": "breakwave_drybulk_2026-04-28",
+      "parent_id": "breakwave_drybulk_2026-04-28__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- Capesize Spot Rate Volatility Collapses to Multi-year Lows - Despite\n- Macro Risks Dominate, We Now Expect a Significant 2H Asia Slowdown - The\n- Our Long-term View - The last few years have been characterized by increased",
+      "keywords": [
+        "capesize",
+        "asia",
+        "characterized",
+        "collapses",
+        "despite",
+        "dominate",
+        "expect",
+        "few"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 54,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_drybulk_2026-04-28__s02_fundamentals",
+      "doc_id": "breakwave_drybulk_2026-04-28",
+      "parent_id": "breakwave_drybulk_2026-04-28__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- China Steel Production (YTD: 248mt, YOY: -4.5%)\n- China Steel Inventories (YTD: 5.4mt, YOY: 3.6%)\n- China Iron Ore Inventories (YTD: 163mt, YOY: 21.9%)\n- China Iron Ore Imports (YTD: 1575mt, YOY: 3.4%)\n- China Coal Imports (YTD: 607mt, YOY: -7.7%)\n- China Soybean Imports (YTD: 128mt, YOY: 5.1%)\n- Brazil Iron Ore Exports (YTD: 501mt, YOY: 5.9%)\n- Australia Iron Ore Exports (YTD: 1075mt, YOY: 3.5%)\n- Dry Bulk Fleet (YTD: 1073 mdwt, YOY: 3.0%)\n- Baltic Dry Index Average (YTD: Baltic Dry Index, Average, YOY: 2,050)\n- Capesize Spot Rates Average (YTD: Capesize Spot Rates, Average, YOY: 24,557)\n- Panamax Spot Rates Average (YTD: Panamax Spot rates, Average, YOY: 15,760)",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 291,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}

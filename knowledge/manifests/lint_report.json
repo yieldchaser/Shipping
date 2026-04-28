@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T12:02:48Z",
-  "current_date": "2026-04-27",
+  "generated_at": "2026-04-28T10:25:04Z",
+  "current_date": "2026-04-28",
   "warning_count": 8,
   "high_severity_count": 0,
   "status_counts": {
@@ -31,8 +31,8 @@
             "source": "breakwave",
             "avg_tone_score": -0.25,
             "dominant_tone": "neutral",
-            "doc_count": 2,
-            "latest_date": "2026-04-14"
+            "doc_count": 3,
+            "latest_date": "2026-04-28"
           },
           {
             "source": "baltic",
@@ -81,8 +81,8 @@
             "source": "breakwave",
             "avg_tone_score": 0.2,
             "dominant_tone": "neutral",
-            "doc_count": 5,
-            "latest_date": "2026-04-14"
+            "doc_count": 6,
+            "latest_date": "2026-04-28"
           },
           {
             "source": "breakwave_insights",
