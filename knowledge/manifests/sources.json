@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T10:23:17Z",
+  "generated_at": "2026-04-28T11:56:43Z",
   "counts": {
     "breakwave": {
       "drybulk": 200,
@@ -13,7 +13,7 @@
       "ningbo": 490
     },
     "breakwave_insights": {
-      "insights": 2985
+      "insights": 2987
     },
     "hellenic": {
       "dry_charter": 256,

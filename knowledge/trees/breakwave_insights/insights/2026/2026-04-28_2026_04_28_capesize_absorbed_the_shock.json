@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-04-28_2026_04_28_capesize_absorbed_the_shock__root",
+  "doc_id": "breakwave_insights_insights_2026-04-28_2026_04_28_capesize_absorbed_the_shock",
+  "parent_id": null,
+  "title": "Capesize absorbed the shock",
+  "section_path": [
+    "Capesize absorbed the shock"
+  ],
+  "section_path_text": "Capesize absorbed the shock",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-04-28_capesize-absorbed-the-shock_img_pexels-vasu27-3478963_29f31d4b43fe.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe period spanning late February to late April 2026 has delivered a market narrative defined by divergence, resilience, and most notably, a structural repricing of dry bulk assets that has moved well ahead of the freight rate dynamics that would traditionally justify it. Capesize absorbed the initial shock of the US-Iran military confrontation with a sharp but short-lived correction. From $24,211/day on 27 February, the Baltic C5TC fell to a period low of $19,188/day by 10 March as geopolitical uncertainty prompted owners and charterers alike to adopt a cautious posture.",
+  "keywords": [
+    "capesize",
+    "handysize",
+    "china",
+    "brazil",
+    "day",
+    "asset",
+    "march",
+    "april",
+    "million",
+    "period",
+    "average",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1858,
+  "source_path": "reports/breakwave/2026/2026-04-28_capesize-absorbed-the-shock.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/4/28/capesize-absorbed-the-shock",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-04-28_2026_04_28_capesize_absorbed_the_shock__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-04-28_2026_04_28_capesize_absorbed_the_shock",
+      "parent_id": "breakwave_insights_insights_2026-04-28_2026_04_28_capesize_absorbed_the_shock__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-04-28_capesize-absorbed-the-shock_img_pexels-vasu27-3478963_29f31d4b43fe.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe period spanning late February to late April 2026 has delivered a market narrative defined by divergence, resilience, and most notably, a structural repricing of dry bulk assets that has moved well ahead of the freight rate dynamics that would traditionally justify it. Capesize absorbed the initial shock of the US-Iran military confrontation with a sharp but short-lived correction.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "china",
+        "brazil",
+        "day",
+        "march",
+        "april",
+        "million"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 862,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-04-28_2026_04_28_capesize_absorbed_the_shock__s02_linked_asset_2026_04_28_capesize_absorbed_the_shock_img_pexels_vasu27_3478963_29f31d4b43fe_jpg",
+      "doc_id": "breakwave_insights_insights_2026-04-28_2026_04_28_capesize_absorbed_the_shock",
+      "parent_id": "breakwave_insights_insights_2026-04-28_2026_04_28_capesize_absorbed_the_shock__root",
+      "title": "Linked asset: 2026-04-28_capesize-absorbed-the-shock_img_pexels-vasu27-3478963_29f31d4b43fe.jpg",
+      "section_path": [
+        "Linked asset: 2026-04-28_capesize-absorbed-the-shock_img_pexels-vasu27-3478963_29f31d4b43fe.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-04-28_capesize-absorbed-the-shock_img_pexels-vasu27-3478963_29f31d4b43fe.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-04-28_capesize-absorbed-the-shock_img_pexels-vasu27-3478963_29f31d4b43fe.jpg\n\nLinked image asset: 2026-04-28_capesize-absorbed-the-shock_img_pexels-vasu27-3478963_29f31d4b43fe.jpg\n\nImage metadata: JPEG 2500x1875 mode=RGB\n\nOCR text:\ni :; ad oe ny\n° \" Boal , x ; ‘ a ae : -\nrr be ey eels 7 . : ™\n1 Oe \"a F PALLY elie } - : a ~s ac - ‘\nte hee med -_ \" 0 ae ae F r ' -- = = a - ce ~\n\" bie \" my r ---- s - - :\nff \"y a » F ‘ ?",
+      "keywords": [
+        "capesize",
+        "eee",
+        "asset",
+        "hee",
+        "image",
+        "nee",
+        "tin",
+        "add"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 953,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
