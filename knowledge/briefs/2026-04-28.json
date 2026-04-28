@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T13:43:17.201484+00:00",
+  "generated_at": "2026-04-28T14:26:04.442386+00:00",
   "brief_date": "2026-04-28",
   "generation": {
     "mode": "llm",
@@ -82,15 +82,15 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
-      "confluence_note": "While spot indices are in a technical expansion regime with the BDI at the 99.5th percentile, qualitative signals have soured with negative fundamentals and a neutral sentiment shift.",
-      "summary": "Capesize volatility has collapsed to multi-year lows despite high spot rates, as the market begins pricing in a significant second-half slowdown in Asia. High Chinese iron ore portside inventories (up 21.9% YOY) and falling steel production (-4.5% YTD) suggest the current price strength lacks fundamental longevity.",
+      "confluence_note": "Record-level BDI and Capesize spot rates (99th percentile) sharply contrast with consistently negative fundamental ratings and analyst warnings of a 2H Asia slowdown.",
+      "summary": "While spot rates are in a technical expansion regime with high Z-scores, the underlying data shows a 4.5% YOY drop in China steel production and a 21.9% surge in iron ore inventories. Analysts note that volatility has collapsed to multi-year lows, suggesting the market may be nearing a peak before a macro-driven correction.",
       "key_signals": [
-        "BDI at 99.5th 5-year percentile",
-        "Negative fundamental sentiment",
-        "China steel production decline"
+        "BDI at 99.5th percentile",
+        "China Steel Production -4.5% YOY",
+        "Negative fundamental sentiment despite expansion regime"
       ],
-      "outlook": "Cautious; high spot rates are increasingly vulnerable to a 2H 2026 demand cliff.",
-      "watch": "China iron ore inventory levels and potential further contraction in steel output.",
+      "outlook": "Bearish tilt for the second half of 2026 as high inventories and macro risks catch up to spot pricing.",
+      "watch": "China portside iron ore inventory levels and 2H steel demand forecasts.",
       "report_dates": [
         "2026-04-28",
         "2026-04-14",
@@ -104,16 +104,16 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Extreme quantitative expansion in clean and dirty segments is strongly supported by positive fundamental outlooks tied to geopolitical disruptions.",
-      "summary": "Clean tanker rates have seen a parabolic 143.9% 60-day ROC, driven by unnavigable straits and supply chain adjustments. Although momentum recently softened to negative as the market absorbs the initial 'panic bid,' fundamentals remain robust due to inventory draws and structural shifts in trade routes. Segment breadth remains important: clean tankers at 2178.0 (ROC60 +143.9%), alongside dirty tankers at 2811.0 (ROC60 +70.0%).",
+      "confluence_note": "Extreme rate acceleration (Clean Tanker ROC60 +143.9%) is strongly supported by positive fundamental sentiment and geopolitical disruptions in the Middle East.",
+      "summary": "The tanker market remains in a high-conviction expansion phase driven by unnavigable straits and structural shifts in oil trade routes. Despite a recent dip in qualitative momentum, high oil prices and supply chain friction continue to support multi-sigma rate levels.",
       "key_signals": [
-        "Clean Tanker Z-score +2.95",
-        "Positive fundamental rating",
-        "Elevated oil prices and Middle East volatility",
+        "Clean Tanker ROC60 +143.9%",
+        "Straits remain unnavigable",
+        "VLCC rates at historic highs",
         "Dirty tanker check: level=2811.0, ROC60=+70.0%."
       ],
-      "outlook": "Bullish but volatile; supply-side constraints remain the primary price driver.",
-      "watch": "Navigation status of major straits and OECD crude stock levels.",
+      "outlook": "Continued strength expected as long as geopolitical tensions maintain 'unnavigable' status for key transit points.",
+      "watch": "Middle East geopolitical developments and OECD crude oil stock drawdowns.",
       "report_dates": [
         "2026-04-21",
         "2026-04-07",
@@ -126,7 +126,7 @@
       ]
     }
   },
-  "macro_note": "A stark bifurcation is emerging as geopolitical risk drives tanker markets to extreme highs, while dry bulk faces mounting macro headwinds from an anticipated Asian industrial slowdown in the latter half of the year.",
+  "macro_note": "The freight market is deeply bifurcated; dry bulk is riding a late-cycle peak against weakening Chinese demand, while the tanker sector is pricing in a 'worst-case scenario' of sustained geopolitical disruption and energy supply chain friction.",
   "sources": [
     "breakwave_drybulk_2026-04-28",
     "breakwave_drybulk_2026-04-14",
