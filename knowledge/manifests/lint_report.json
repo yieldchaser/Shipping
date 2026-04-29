@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T11:58:39Z",
-  "current_date": "2026-04-28",
-  "warning_count": 7,
+  "generated_at": "2026-04-29T11:56:41Z",
+  "current_date": "2026-04-29",
+  "warning_count": 6,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -11,54 +11,9 @@
     "topics": {
       "healthy": 10
     },
-    "divergences": {
-      "watch": 1
-    }
+    "divergences": {}
   },
   "warnings": [
-    {
-      "severity": "watch",
-      "kind": "topic_divergence",
-      "key": "dry_bulk_market",
-      "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads cautiously_bearish.",
-      "details": {
-        "topic_id": "dry_bulk_market",
-        "title": "Dry Bulk Market",
-        "severity": "watch",
-        "score_diff": 0.79,
-        "source_scores": [
-          {
-            "source": "breakwave",
-            "avg_tone_score": -0.25,
-            "dominant_tone": "neutral",
-            "doc_count": 3,
-            "latest_date": "2026-04-28"
-          },
-          {
-            "source": "baltic",
-            "avg_tone_score": 0.0,
-            "dominant_tone": "neutral",
-            "doc_count": 3,
-            "latest_date": "2026-04-24"
-          },
-          {
-            "source": "hellenic",
-            "avg_tone_score": 0.08,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-04-27"
-          },
-          {
-            "source": "breakwave_insights",
-            "avg_tone_score": 0.54,
-            "dominant_tone": "constructive",
-            "doc_count": 6,
-            "latest_date": "2026-04-28"
-          }
-        ],
-        "message": "Dry Bulk Market shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads cautiously_bearish."
-      }
-    },
     {
       "severity": "watch",
       "kind": "topic_source_gap",
