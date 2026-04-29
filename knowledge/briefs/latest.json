@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T12:00:09.890297+00:00",
+  "generated_at": "2026-04-29T13:34:42.134518+00:00",
   "brief_date": "2026-04-29",
   "generation": {
     "mode": "llm",
@@ -82,15 +82,15 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
-      "confluence_note": "A sharp disconnect exists between the quantitative expansion regime (99th percentile spot rates) and persistent negative fundamental scoring driven by Chinese industrial weakness.",
-      "summary": "While the BDI and all sub-indices are in an expansionary phase with Capesize and Supramax leading gains, analysts warn of a collapse in volatility and a significant slowdown in 2H 2026. Fundamental data confirms this risk, with China steel production down 4.5% YOY and iron ore inventories ballooning by nearly 22%.",
+      "confluence_note": "Quantitative metrics show a market at historical 99th percentile highs, yet qualitative signals highlight a 'collapse in volatility' and persistent negative fundamentals.",
+      "summary": "The BDI and Capesize indices are in a technical expansion regime with high Z-scores, but this is decoupled from weakening Chinese industrial data. Analysts are now pricing in a significant 2H Asia slowdown as steel production drops 4.5% YOY and iron ore inventories sit near all-time highs.",
       "key_signals": [
-        "BDI at 99.7th 5-year percentile",
-        "Negative Fundamentals (Breakwave)",
-        "China Iron Ore Inventories +21.9% YOY"
+        "BDI 5-year percentile at 99.7%",
+        "China Steel Production -4.5% YOY",
+        "Iron Ore Inventories +21.9% YOY"
       ],
-      "outlook": "Bearish tilt for the second half of 2026 as spot rates appear overextended relative to softening Asian macro demand.",
-      "watch": "Chinese portside iron ore inventory levels and potential 2H steel production cuts.",
+      "outlook": "Neutral-to-Bearish as spot rate strength likely faces a correction due to oversupplied Chinese portside inventories and macro headwinds.",
+      "watch": "2H Asia macro slowdown indicators and China coal import recovery.",
       "report_dates": [
         "2026-04-28",
         "2026-04-14",
@@ -104,16 +104,16 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Extreme quantitative strength, particularly in Clean Tankers (+138% ROC60), aligns with positive sentiment regarding geopolitical disruptions and unnavigable straits.",
-      "summary": "The tanker market is experiencing a massive risk-driven rally as geopolitical tensions render major trade routes unnavigable, forcing fleet recalibration. Although momentum has shown recent cooling in qualitative reports, the supply-demand balance remains exceptionally tight with global oil demand remaining resilient.",
+      "confluence_note": "Extreme quantitative expansion, particularly in Clean Tankers (ROC60 +138.1%), aligns with structurally positive fundamentals driven by geopolitical disruptions.",
+      "summary": "Tanker markets remain in a hyper-expansion phase as unnavigable straits and Middle East tensions force significant ton-mile adjustments. Despite a recent cooling in momentum, high oil prices and robust Chinese oil imports (+6.1% YOY) continue to support historically high spot rates.",
       "key_signals": [
-        "Clean Tanker ROC60 +138.1%",
-        "Unnavigable Straits Narrative",
-        "OPEC Supply +7.2% YOY",
+        "Clean Tanker Z-score +2.73sigma",
+        "VLCC Middle East-Asia rates +71.1% YOY",
+        "Straits remain unnavigable",
         "Dirty tanker check: level=2834.0, ROC60=+66.5%."
       ],
-      "outlook": "Strongly bullish as structural navigational delays continue to offset high oil prices and inventory draws.",
-      "watch": "Strait navigability status and Middle East escalation levels affecting VLCC Middle East-Asia routes.",
+      "outlook": "Bullish, supported by supply-side constraints and a 'panic bid' in oil prices maintaining elevated freight floors.",
+      "watch": "Global crude-on-water inventory draws and Middle East navigational status.",
       "report_dates": [
         "2026-04-21",
         "2026-04-07",
@@ -126,7 +126,7 @@
       ]
     }
   },
-  "macro_note": "The shipping market is highly bifurcated: Tankers are benefiting from geopolitical friction and trade-route inefficiencies, while Dry Bulk is hitting cyclical peaks despite deteriorating underlying Chinese industrial fundamentals.",
+  "macro_note": "The freight market presents a stark bifurcation: dry bulk is testing peak spot resistance against a backdrop of industrial cooling, while the tanker sector is buoyed by structural energy security risks and geopolitical volatility.",
   "sources": [
     "breakwave_drybulk_2026-04-28",
     "breakwave_drybulk_2026-04-14",
