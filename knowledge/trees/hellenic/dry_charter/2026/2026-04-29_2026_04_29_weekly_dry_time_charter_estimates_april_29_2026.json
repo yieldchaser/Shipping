@@ -1,0 +1,85 @@
+{
+  "node_id": "hellenic_dry_charter_2026-04-29_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026__root",
+  "doc_id": "hellenic_dry_charter_2026-04-29_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, April 29 2026",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, April 29 2026"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, April 29 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nLinked asset: 2942025.jpg\n\nLinked asset: 2026-04-29_weekly-dry-time-charter-estimates-april-29-2026_2942025_f7c9825b67fd.jpg\nSource asset: reports/hellenic/dry_charter/2026/assets/2026-04-29_weekly-dry-time-charter-estimates-april-29-2026_2942025_f7c9825b67fd.jpg\n\nLinked image asset: 2026-04-29_weekly-dry-time-charter-estimates-april-29-2026_2942025_f7c9825b67fd.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nAL B RA Updated Weds 29/04/2026\nShipping Limited\nDRY BULK TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (38k oat) 17,000 16,500 15,000 15,000 13,000 13,500\nSMAXIULTRA 19,000 18,500 17,000 18,000 15,500 17,000\nPANAIKMAX 22,500 19,000 18,500 18,500 16,000 16,000\nCAPESIZE 30,000 30,000 32,000 32,000 30,000 30,000",
+  "keywords": [
+    "capesize",
+    "handysize",
+    "asset",
+    "atl",
+    "linked",
+    "pac",
+    "image",
+    "weekly-dry-time-charter-estimates-april-29-2026_2942025_f7c9825b67fd.jpg",
+    "charter",
+    "dpi",
+    "embedded",
+    "estimates"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 354,
+  "source_path": "reports/hellenic/dry_charter/2026/2026-04-29_weekly-dry-time-charter-estimates-april-29-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-april-29-2026",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2026-04-29_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026__s01_main",
+      "doc_id": "hellenic_dry_charter_2026-04-29_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026",
+      "parent_id": "hellenic_dry_charter_2026-04-29_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "asset",
+        "jpg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2026-04-29_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026__s02_linked_asset_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026_2942025_f7c9825b67fd_jpg",
+      "doc_id": "hellenic_dry_charter_2026-04-29_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026",
+      "parent_id": "hellenic_dry_charter_2026-04-29_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026__root",
+      "title": "Linked asset: 2026-04-29_weekly-dry-time-charter-estimates-april-29-2026_2942025_f7c9825b67fd.jpg",
+      "section_path": [
+        "Linked asset: 2026-04-29_weekly-dry-time-charter-estimates-april-29-2026_2942025_f7c9825b67fd.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-04-29_weekly-dry-time-charter-estimates-april-29-2026_2942025_f7c9825b67fd.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2026/assets/2026-04-29_weekly-dry-time-charter-estimates-april-29-2026_2942025_f7c9825b67fd.jpg\n\nLinked image asset: 2026-04-29_weekly-dry-time-charter-estimates-april-29-2026_2942025_f7c9825b67fd.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nAL B RA Updated Weds 29/04/2026\nShipping Limited\nDRY BULK TIME CHARTER ESTIMATES (S/pdpr)\nPERIOD 4/6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (38k oat) 17,000 16,500 15,000 15,000 13,000 13,500\nSMAXIULTRA 19,000 18,500 17,000 18,000 15,500 17,000\nPANAIKMAX 22,500 19,000 18,500 18,500 16,000 16,000\nCAPESIZE 30,000 30,000 32,000 32,000 30,000 30,000",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "charter",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 302,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
