@@ -8,9 +8,9 @@ categories:
 - iron_ore
 - shipbuilding
 - vessel_valuations
-document_count: 87
+document_count: 88
 evidence_count: 250
-generated_at: '2026-05-01T11:27:59Z'
+generated_at: '2026-05-01T17:03:37Z'
 latest_evidence_date: '2026-05-01'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 87 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-01, with the strongest recurring markers being china, iron_ore, brazil, dry bulk, capesize. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 88 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-01, with the strongest recurring markers being china, iron_ore, brazil, dry bulk, capesize. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -49,20 +49,20 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - Recurring evidence markers: china, iron_ore, brazil, dry bulk, capesize, australia
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 129, hellenic: 114, breakwave: 4, baltic: 3
-- Category coverage: insights: 129, iron_ore: 58, demolition: 29, shipbuilding: 11, dry_charter: 8, vessel_valuations: 8, drybulk: 4, dry: 3
-- Tone distribution: constructive: 147, neutral: 60, cautiously_bearish: 41, cautious_pessimistic: 2
+- Source coverage: breakwave_insights: 128, hellenic: 114, baltic: 4, breakwave: 4
+- Category coverage: insights: 128, iron_ore: 58, demolition: 29, shipbuilding: 11, dry_charter: 8, vessel_valuations: 8, dry: 4, drybulk: 4
+- Tone distribution: constructive: 146, neutral: 61, cautiously_bearish: 41, cautious_pessimistic: 2
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
 - 2026-05-01 | Differing Coal Fortunes for Panamax Pacific Routes [doc_id: breakwave_insights_insights_2026-05-01_2026_05_01_differing_coal_fortunes_for_panamax_pacific_routes | section_id: breakwave_insights_insights_2026-05-01_2026_05_01_differing_coal_fortunes_for_panamax_pacific_routes__s01_main | pages n/a]
 - 2026-05-01 | Oil's rally takes a pause as Hormuz stalemate persists [doc_id: breakwave_insights_insights_2026-05-01_2026_05_01_oils_rally_takes_a_pause_as_hormuz_stalemate_persists | section_id: breakwave_insights_insights_2026-05-01_2026_05_01_oils_rally_takes_a_pause_as_hormuz_stalemate_persists__s04_linked_asset_2026_05_01_oils_rally_takes_a_pause_as_hormuz_stalemate_persists_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7b21d60a5cef_png | pages n/a]
+- 2026-05-01 | Bulk report - Week 18 [doc_id: baltic_dry_2026-05-01_2026_05_01_bulk_report_week_18_dry | section_id: baltic_dry_2026-05-01_2026_05_01_bulk_report_week_18_dry__s01_main | pages n/a]
 - 2026-04-30 | The corn market in 2026 is characterised by well-supplied conditions [doc_id: breakwave_insights_insights_2026-04-30_2026_04_30_the_corn_market_in_2026_is_characterised_by_well_supplied_conditions | section_id: breakwave_insights_insights_2026-04-30_2026_04_30_the_corn_market_in_2026_is_characterised_by_well_supplied_conditions__s01_main | pages n/a]
 - 2026-04-30 | MMI Daily Iron Ore Index Report April 30 2026 [doc_id: hellenic_iron_ore_2026-04-30_2026_04_30_mmi_daily_iron_ore_index_report_april_30_2026 | section_id: hellenic_iron_ore_2026-04-30_2026_04_30_mmi_daily_iron_ore_index_report_april_30_2026__s03_linked_asset_2026_04_30_mmi_daily_iron_ore_index_report_april_30_2026_mmi_daily_iron_ore_report_for_30th_a_beb7dbbea3d7_pdf | pages n/a]
 - 2026-04-30 | Outstanding Loan Growth in China Hits Another New Low [doc_id: breakwave_insights_insights_2026-04-30_2026_04_30_outstanding_loan_growth_in_china_hits_another_new_low | section_id: breakwave_insights_insights_2026-04-30_2026_04_30_outstanding_loan_growth_in_china_hits_another_new_low__s04_linked_asset_2026_04_30_outstanding_loan_growth_in_china_hits_another_new_low_img_chart3_667b08f203f4_jpg | pages n/a]
 - 2026-04-29 | Weekly Vessel Valuations Report, April 28 2026 [doc_id: hellenic_vessel_valuations_2026-04-29_2026_04_29_weekly_vessel_valuations_report_april_28_2026 | section_id: hellenic_vessel_valuations_2026-04-29_2026_04_29_weekly_vessel_valuations_report_april_28_2026__s01_main | pages n/a]
 - 2026-04-29 | Weekly Dry Time Charter Estimates, April 29 2026 [doc_id: hellenic_dry_charter_2026-04-29_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026 | section_id: hellenic_dry_charter_2026-04-29_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026__s02_linked_asset_2026_04_29_weekly_dry_time_charter_estimates_april_29_2026_2942025_f7c9825b67fd_jpg | pages n/a]
-- 2026-04-29 | The Simandou Effect - The Story So Far [doc_id: breakwave_insights_insights_2026-04-29_2026_04_29_the_simandou_effect_the_story_so_far | section_id: breakwave_insights_insights_2026-04-29_2026_04_29_the_simandou_effect_the_story_so_far__s01_main | pages n/a]
 
 ## Related Topics
 - capesize

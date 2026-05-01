@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 86
+document_count: 87
 evidence_count: 250
-generated_at: '2026-05-01T11:27:59Z'
+generated_at: '2026-05-01T17:03:37Z'
 latest_evidence_date: '2026-05-01'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 86 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-01, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 87 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-01, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -46,20 +46,20 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - Recurring evidence markers: crude, products, china, tanker, crude_oil, charter
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 170, hellenic: 72, baltic: 4, breakwave: 4
-- Category coverage: insights: 170, demolition: 39, shipbuilding: 13, vessel_valuations: 10, tanker_charter: 10, tanker: 4, tankers: 4
-- Tone distribution: constructive: 145, neutral: 64, cautiously_bearish: 39, volatile_rebalancing: 2
+- Source coverage: breakwave_insights: 169, hellenic: 72, baltic: 5, breakwave: 4
+- Category coverage: insights: 169, demolition: 39, shipbuilding: 13, vessel_valuations: 10, tanker_charter: 10, tanker: 5, tankers: 4
+- Tone distribution: constructive: 144, neutral: 65, cautiously_bearish: 39, volatile_rebalancing: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
 - 2026-05-01 | Oil's rally takes a pause as Hormuz stalemate persists [doc_id: breakwave_insights_insights_2026-05-01_2026_05_01_oils_rally_takes_a_pause_as_hormuz_stalemate_persists | section_id: breakwave_insights_insights_2026-05-01_2026_05_01_oils_rally_takes_a_pause_as_hormuz_stalemate_persists__s02_market_commentary | pages n/a]
 - 2026-05-01 | Differing Coal Fortunes for Panamax Pacific Routes [doc_id: breakwave_insights_insights_2026-05-01_2026_05_01_differing_coal_fortunes_for_panamax_pacific_routes | section_id: breakwave_insights_insights_2026-05-01_2026_05_01_differing_coal_fortunes_for_panamax_pacific_routes__s01_main | pages n/a]
+- 2026-05-01 | Tanker report - Week 18 [doc_id: baltic_tanker_2026-05-01_2026_05_01_tanker_report_week_18_tanker | section_id: baltic_tanker_2026-05-01_2026_05_01_tanker_report_week_18_tanker__s01_main | pages n/a]
 - 2026-04-30 | The corn market in 2026 is characterised by well-supplied conditions [doc_id: breakwave_insights_insights_2026-04-30_2026_04_30_the_corn_market_in_2026_is_characterised_by_well_supplied_conditions | section_id: breakwave_insights_insights_2026-04-30_2026_04_30_the_corn_market_in_2026_is_characterised_by_well_supplied_conditions__s01_main | pages n/a]
 - 2026-04-30 | Outstanding Loan Growth in China Hits Another New Low [doc_id: breakwave_insights_insights_2026-04-30_2026_04_30_outstanding_loan_growth_in_china_hits_another_new_low | section_id: breakwave_insights_insights_2026-04-30_2026_04_30_outstanding_loan_growth_in_china_hits_another_new_low__s04_linked_asset_2026_04_30_outstanding_loan_growth_in_china_hits_another_new_low_img_chart3_667b08f203f4_jpg | pages n/a]
 - 2026-04-29 | Weekly Vessel Valuations Report, April 28 2026 [doc_id: hellenic_vessel_valuations_2026-04-29_2026_04_29_weekly_vessel_valuations_report_april_28_2026 | section_id: hellenic_vessel_valuations_2026-04-29_2026_04_29_weekly_vessel_valuations_report_april_28_2026__s01_main | pages n/a]
 - 2026-04-29 | Weekly Tanker Time Charter Estimates, April 29 2026 [doc_id: hellenic_tanker_charter_2026-04-29_2026_04_29_weekly_tanker_time_charter_estimates_april_29_2026 | section_id: hellenic_tanker_charter_2026-04-29_2026_04_29_weekly_tanker_time_charter_estimates_april_29_2026__s02_linked_asset_2026_04_29_weekly_tanker_time_charter_estimates_april_29_2026_29420250_c25ec7607a57_jpg | pages n/a]
 - 2026-04-29 | The Simandou Effect - The Story So Far [doc_id: breakwave_insights_insights_2026-04-29_2026_04_29_the_simandou_effect_the_story_so_far | section_id: breakwave_insights_insights_2026-04-29_2026_04_29_the_simandou_effect_the_story_so_far__s01_main | pages n/a]
-- 2026-04-29 | Unstoppable force, meet immovable object [doc_id: breakwave_insights_insights_2026-04-29_2026_04_29_unstoppable_force_meet_immovable_object | section_id: breakwave_insights_insights_2026-04-29_2026_04_29_unstoppable_force_meet_immovable_object__s01_main | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax
