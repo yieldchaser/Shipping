@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T13:29:31.051063+00:00",
+  "generated_at": "2026-05-01T17:09:04.609619+00:00",
   "brief_date": "2026-05-01",
   "generation": {
     "mode": "template",
@@ -18,49 +18,49 @@
   },
   "market_snapshot": {
     "bdi": {
-      "value": 2686.0,
-      "z_score_252d": 2.152,
-      "pctl_5y": 0.997,
+      "value": 2730.0,
+      "z_score_252d": 2.259,
+      "pctl_5y": 0.998,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 2095.6,
-      "roc60": 32.45
+      "ma200": 2100.4,
+      "roc60": 39.64
     },
     "capesize": {
-      "value": 4327.0,
-      "z_score_252d": 1.872,
-      "pctl_5y": 0.991,
+      "value": 4447.0,
+      "z_score_252d": 2.027,
+      "pctl_5y": 0.992,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 3247.8,
-      "roc60": 36.28
+      "ma200": 3258.2,
+      "roc60": 48.53
     },
     "panamax": {
-      "value": 1992.0,
-      "z_score_252d": 1.262,
+      "value": 2002.0,
+      "z_score_252d": 1.293,
+      "pctl_5y": 0.998,
+      "regime": "EXPANSION",
+      "regime_emoji": "UP",
+      "ma200": 1777.2,
+      "roc60": 18.81
+    },
+    "supramax": {
+      "value": 1520.0,
+      "z_score_252d": 1.44,
       "pctl_5y": 0.995,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1776.9,
-      "roc60": 15.55
-    },
-    "supramax": {
-      "value": 1525.0,
-      "z_score_252d": 1.478,
-      "pctl_5y": 0.997,
-      "regime": "EXPANSION",
-      "regime_emoji": "UP",
-      "ma200": 1313.3,
-      "roc60": 40.81
+      "ma200": 1314.7,
+      "roc60": 39.19
     },
     "handysize": {
-      "value": 814.0,
-      "z_score_252d": 0.956,
-      "pctl_5y": 0.628,
+      "value": 815.0,
+      "z_score_252d": 0.959,
+      "pctl_5y": 0.63,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 752.1,
-      "roc60": 30.03
+      "ma200": 752.9,
+      "roc60": 29.57
     },
     "clean_tanker": {
       "value": 1997.0,
@@ -84,12 +84,12 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "NEUTRAL",
-      "confluence_note": "Signal alignment is mixed for dry bulk (quant +2.15sigma, qual +0.12); conviction remains limited.",
-      "summary": "Dry Bulk is in expansion regime at 2686.0, with z-score +2.15sigma and ROC60 +32.5%. Recent analyst sentiment skews neutral (neutral:7, positive:1). Signal alignment is mixed for dry bulk (quant +2.15sigma, qual +0.12); conviction remains limited.",
+      "confluence_note": "Signal alignment is mixed for dry bulk (quant +2.26sigma, qual +0.12); conviction remains limited.",
+      "summary": "Dry Bulk is in expansion regime at 2730.0, with z-score +2.26sigma and ROC60 +39.6%. Recent analyst sentiment skews neutral (neutral:7, positive:1). Signal alignment is mixed for dry bulk (quant +2.26sigma, qual +0.12); conviction remains limited.",
       "key_signals": [
-        "Quant: BDI value=2686.0, z=+2.15sigma, 5Y percentile=99.7%.",
+        "Quant: BDI value=2730.0, z=+2.26sigma, 5Y percentile=99.8%.",
         "Qual: last 8 reports sentiment mix -> neutral:7, positive:1.",
-        "Cross-check: CAPESIZE value=4327.0, z=+1.87sigma.",
+        "Cross-check: CAPESIZE value=4447.0, z=+2.03sigma.",
         "Latest report 2026-04-28: momentum=neutral, fundamentals=negative."
       ],
       "outlook": "dry bulk outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
