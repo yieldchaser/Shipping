@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-30T11:56:31Z",
-  "current_date": "2026-04-30",
-  "warning_count": 6,
+  "generated_at": "2026-05-01T11:29:03Z",
+  "current_date": "2026-05-01",
+  "warning_count": 7,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -11,9 +11,47 @@
     "topics": {
       "healthy": 10
     },
-    "divergences": {}
+    "divergences": {
+      "watch": 1
+    }
   },
   "warnings": [
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "china_steel_and_iron_ore",
+      "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads cautiously_bearish.",
+      "details": {
+        "topic_id": "china_steel_and_iron_ore",
+        "title": "China Steel and Iron Ore",
+        "severity": "watch",
+        "score_diff": 0.87,
+        "source_scores": [
+          {
+            "source": "breakwave",
+            "avg_tone_score": -0.25,
+            "dominant_tone": "neutral",
+            "doc_count": 3,
+            "latest_date": "2026-04-28"
+          },
+          {
+            "source": "hellenic",
+            "avg_tone_score": 0.25,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-04-30"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.62,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-05-01"
+          }
+        ],
+        "message": "China Steel and Iron Ore shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads cautiously_bearish."
+      }
+    },
     {
       "severity": "watch",
       "kind": "topic_source_gap",
