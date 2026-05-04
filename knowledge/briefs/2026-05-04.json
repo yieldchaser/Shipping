@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T14:17:14.660050+00:00",
+  "generated_at": "2026-05-04T17:42:37.097791+00:00",
   "brief_date": "2026-05-04",
   "generation": {
     "mode": "llm",
@@ -83,17 +83,16 @@
   },
   "vessel_classes": {
     "dry_bulk": {
-      "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Quantitative signals (high Z-scores, EXPANSION regime, strong ROC) align with recent qualitative momentum shifts, despite persistent negative fundamentals.",
-      "summary": "The dry bulk market is exhibiting extreme strength across all vessel classes, with Z-scores in the 99th+ percentile for most segments and 60-day ROCs exceeding 30%. However, fundamentals like China steel production and coal imports remain weak, creating a disconnect between spot rates and underlying demand.",
+      "confluence_type": "DIVERGENCE",
+      "confluence_note": "Quantitative signals show extreme expansion (z-scores > +2.0 sigma, 99th percentile), but qualitative reports highlight neutral sentiment and negative fundamentals, particularly in China's steel and coal sectors.",
+      "summary": "The Baltic Dry Index (BDI) and its sub-indices (Capesize, Panamax, Supramax) are at multi-year highs, driven by strong rate of change (ROC60) and extreme percentiles. However, analyst narratives emphasize subdued volatility, macro risks, and weak fundamentals in China, including declining steel production and high iron ore inventories.",
       "key_signals": [
-        "BDI at +2.26σ, 99.8th percentile over 5 years",
-        "Capesize +48.5% ROC60, 99.2th percentile",
-        "China steel production YTD down 4.5% YoY despite surging rates",
-        "Iron ore inventories at multi-year highs (163mt, +21.9% YoY)"
+        "BDI at 99.8th percentile with +2.26 sigma",
+        "China steel production YOY decline (-4.5%)",
+        "Iron ore inventories at all-time highs (163mt, +21.9% YOY)"
       ],
-      "outlook": "Near-term bullish momentum is likely to persist, but risks of a correction rise if macro slowdown materializes in 2H 2026.",
-      "watch": "Monitor China steel demand trends and iron ore inventory drawdowns for signs of fundamental improvement.",
+      "outlook": "Short-term strength may persist due to tight tonnage, but macro risks could trigger a correction in H2 2026.",
+      "watch": "Monitor China's steel demand and iron ore inventory trends for signs of normalization.",
       "report_dates": [
         "2026-04-28",
         "2026-04-14",
@@ -107,16 +106,16 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Quantitative strength (Z-scores >+1.5σ, EXPANSION regime, 60-125% ROC) aligns with consistently positive qualitative sentiment and fundamentals.",
-      "summary": "Tanker markets are in a structural upswing, with clean and dirty tanker rates at multi-year highs. Geopolitical risks (Middle East tensions) and inventory draws are supporting rates, while OPEC+ supply cuts and China oil imports (+6.1% YoY) reinforce fundamentals.",
+      "confluence_note": "Both quantitative (z-scores > +1.5 sigma, 97th+ percentile) and qualitative signals (positive sentiment, momentum, and fundamentals) align on robust expansion, driven by geopolitical disruptions and inventory draws.",
+      "summary": "Clean and dirty tanker indices are in extreme expansion regimes, with VLCC rates surging due to Middle East tensions and rerouting. Analyst reports confirm structural shifts, including elevated oil prices and tight supply-demand balances.",
       "key_signals": [
-        "Clean Tanker Z-score +2.46σ, 98.9th percentile",
-        "Dirty Tanker ROC60 +64.0%, VLCC rates +71.1% YoY",
-        "Global crude oil on water elevated (1192.3 MMbls, -0.4% YoY)",
-        "China oil imports +6.1% YoY despite high prices"
+        "Clean Tanker z-score +2.46 sigma, 98.9th percentile",
+        "VLCC Middle East-Asia rates up 71.1% YOY",
+        "Global crude oil on water down 0.4% YOY despite higher imports",
+        "Dirty tanker check: level=2752.0, ROC60=+64.0%."
       ],
-      "outlook": "Tanker markets remain structurally bullish, with geopolitical risks providing upside potential.",
-      "watch": "Track Middle East developments and OPEC+ compliance for supply-side shocks.",
+      "outlook": "Tanker markets are poised for sustained strength, underpinned by geopolitical risks and inventory tightness.",
+      "watch": "Track OPEC+ production decisions and OECD stock levels for potential supply shocks.",
       "report_dates": [
         "2026-04-21",
         "2026-04-07",
@@ -129,7 +128,7 @@
       ]
     }
   },
-  "macro_note": "The divergence between dry bulk's quantitative strength and weak fundamentals contrasts with tanker's aligned bullish signals. Both markets are vulnerable to macro slowdown risks, particularly in Asia.",
+  "macro_note": "The divergence in dry bulk reflects a disconnect between speculative rate strength and weak underlying demand, while tanker markets benefit from structural supply constraints. Macro risks (China slowdown, Middle East instability) remain elevated.",
   "sources": [
     "breakwave_drybulk_2026-04-28",
     "breakwave_drybulk_2026-04-14",
