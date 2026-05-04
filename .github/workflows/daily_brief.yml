@@ -37,7 +37,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install google-generativeai
+        run: echo No dependencies needed
 
       - name: Pull latest
         run: git pull origin main --rebase
