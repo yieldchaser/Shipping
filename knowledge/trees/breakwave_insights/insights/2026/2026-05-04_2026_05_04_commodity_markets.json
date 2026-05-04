@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-04_2026_05_04_commodity_markets__root",
+  "doc_id": "breakwave_insights_insights_2026-05-04_2026_05_04_commodity_markets",
+  "parent_id": null,
+  "title": "Commodity markets",
+  "section_path": [
+    "Commodity markets"
+  ],
+  "section_path_text": "Commodity markets",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nIn late 1973, the world rediscovered that commodity markets are not ultimately governed by supply curves or demand elasticity, but by geography, politics, and the fragility of critical chokepoints. The Arab oil embargo, triggered in the aftermath of the Yom Kippur War, transformed oil from a relatively stable industrial input into a geopolitical weapon. Prices quadrupled, inflation regimes were reset, and industrial economies across the West were forced into structural adjustment.",
+  "keywords": [
+    "capesize",
+    "china",
+    "europe",
+    "iron_ore",
+    "grain",
+    "crude_oil",
+    "gas",
+    "are",
+    "commodity",
+    "markets",
+    "energy",
+    "prices"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1488,
+  "source_path": "reports/breakwave/2026/2026-05-04_commodity-markets.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/5/4/commodity-markets",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-04_2026_05_04_commodity_markets__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-04_2026_05_04_commodity_markets",
+      "parent_id": "breakwave_insights_insights_2026-05-04_2026_05_04_commodity_markets__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nIn late 1973, the world rediscovered that commodity markets are not ultimately governed by supply curves or demand elasticity, but by geography, politics, and the fragility of critical chokepoints. The Arab oil embargo, triggered in the aftermath of the Yom Kippur War, transformed oil from a relatively stable industrial input into a geopolitical weapon.",
+      "keywords": [
+        "capesize",
+        "china",
+        "europe",
+        "iron_ore",
+        "grain",
+        "crude_oil",
+        "gas",
+        "are"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1486,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

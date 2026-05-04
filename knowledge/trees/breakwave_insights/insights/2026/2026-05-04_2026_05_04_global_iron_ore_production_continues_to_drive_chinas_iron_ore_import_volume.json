@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-04_2026_05_04_global_iron_ore_production_continues_to_drive_chinas_iron_ore_import_volume__root",
+  "doc_id": "breakwave_insights_insights_2026-05-04_2026_05_04_global_iron_ore_production_continues_to_drive_chinas_iron_ore_import_volume",
+  "parent_id": null,
+  "title": "Global Iron Ore Production Continues to Drive China's Iron Ore Import Volume",
+  "section_path": [
+    "Global Iron Ore Production Continues to Drive China's Iron Ore Import Volume"
+  ],
+  "section_path_text": "Global Iron Ore Production Continues to Drive China's Iron Ore Import Volume",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, steel production at large and medium-sized mills in China most recently averaged 2.11 million tons during April 11 - April 20. This is up by 1% from early April but is down year-on-year by 5%. Compared to December's recent low of 1.64 million tons, this most recent level is up by 29%, but nevertheless production is still down on a year-on-year basis.",
+  "keywords": [
+    "china",
+    "iron_ore",
+    "steel",
+    "iron",
+    "ore",
+    "production",
+    "year-on-year",
+    "april",
+    "asset",
+    "image",
+    "recent",
+    "apr"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 465,
+  "source_path": "reports/breakwave/2026/2026-05-04_global-iron-ore-production-continues-to-drive-chinas-iron-ore-import-volume.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/5/4/global-iron-ore-production-continues-to-drive-chinas-iron-ore-import-volume",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-04_2026_05_04_global_iron_ore_production_continues_to_drive_chinas_iron_ore_import_volume__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-04_2026_05_04_global_iron_ore_production_continues_to_drive_chinas_iron_ore_import_volume",
+      "parent_id": "breakwave_insights_insights_2026-05-04_2026_05_04_global_iron_ore_production_continues_to_drive_chinas_iron_ore_import_volume__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly China Report, steel production at large and medium-sized mills in China most recently averaged 2.11 million tons during April 11 - April 20. This is up by 1% from early April but is down year-on-year by 5%.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "production",
+        "year-on-year",
+        "april"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 258,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-04_2026_05_04_global_iron_ore_production_continues_to_drive_chinas_iron_ore_import_volume__s02_linked_asset_2026_05_04_global_iron_ore_production_continues_to_drive_chinas_iron_ore_import_volume_img_chart_6d53e615b8bf_jpg",
+      "doc_id": "breakwave_insights_insights_2026-05-04_2026_05_04_global_iron_ore_production_continues_to_drive_chinas_iron_ore_import_volume",
+      "parent_id": "breakwave_insights_insights_2026-05-04_2026_05_04_global_iron_ore_production_continues_to_drive_chinas_iron_ore_import_volume__root",
+      "title": "Linked asset: 2026-05-04_global-iron-ore-production-continues-to-drive-chinas-iron-ore-import-volume_img_chart_6d53e615b8bf.jpg",
+      "section_path": [
+        "Linked asset: 2026-05-04_global-iron-ore-production-continues-to-drive-chinas-iron-ore-import-volume_img_chart_6d53e615b8bf.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-05-04_global-iron-ore-production-continues-to-drive-chinas-iron-ore-import-volume_img_chart_6d53e615b8bf.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-04_global-iron-ore-production-continues-to-drive-chinas-iron-ore-import-volume_img_chart_6d53e615b8bf.jpg\n\nLinked image asset: 2026-05-04_global-iron-ore-production-continues-to-drive-chinas-iron-ore-import-volume_img_chart_6d53e615b8bf.jpg\n\nImage metadata: JPEG 1406x694 mode=RGB\n\nOCR text:\nDaily Crude Steel Output Average at Large and Medium-Sized Chinese Steel Mills\n2.40mt\n2.20mt\n2.00mt\n1.80mt\n160m -a\nApr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar Apr",
+      "keywords": [
+        "china",
+        "steel",
+        "apr",
+        "asset",
+        "image",
+        "aug",
+        "average",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 163,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
