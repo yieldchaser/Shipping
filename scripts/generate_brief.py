@@ -53,7 +53,7 @@ CONFLUENCE_TYPES = {"BULL_CONFLUENCE", "BEAR_CONFLUENCE", "DIVERGENCE", "NEUTRAL
 RECENT_REPORTS = 8
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-1.5-flash").strip()
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash").strip()
 GEMINI_MIN_INTERVAL_SEC = float(os.environ.get("GEMINI_MIN_INTERVAL_SEC", "1.5"))
 GEMINI_MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "3"))
 GEMINI_BACKOFF_BASE_SEC = float(os.environ.get("GEMINI_BACKOFF_BASE_SEC", "2.0"))
@@ -92,7 +92,6 @@ if not LLM_PROVIDER_ORDER:
 _last_gemini_call_ts = 0.0
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
-_gemini_model_client = None
 
 _QUAL_SCORES = {
     "positive": 1.0,
@@ -532,41 +531,58 @@ def gemini_available() -> bool:
     return bool(GEMINI_API_KEY)
 
 
-def _gemini_model():
-    global _gemini_model_client
-    if _gemini_model_client is not None:
-        return _gemini_model_client
-    if not gemini_available():
-        return None
-    try:
-        import google.generativeai as genai
-    except Exception as exc:
-        print(f"[brief] Gemini import failed: {exc}", file=sys.stderr)
-        return None
-    genai.configure(api_key=GEMINI_API_KEY)
-    _gemini_model_client = genai.GenerativeModel(
-        GEMINI_MODEL,
-        generation_config={"temperature": 0.25, "max_output_tokens": 1200},
+def _call_gemini_once(prompt: str) -> str | None:
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.25, "maxOutputTokens": 1200}
+    }
+    body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    headers = {
+        "Content-Type": "application/json",
+    }
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
+    req = urllib_request.Request(
+        url,
+        data=body,
+        headers=headers,
+        method="POST",
     )
-    return _gemini_model_client
+    try:
+        with urllib_request.urlopen(req, timeout=90) as response:
+            raw = response.read().decode("utf-8", errors="replace")
+    except urllib_error.HTTPError as exc:
+        retry_after = exc.headers.get("Retry-After") if exc.headers else None
+        err_body = exc.read().decode("utf-8", errors="replace")
+        details = err_body or str(exc)
+        if retry_after:
+            details = f"{details} retry_after {retry_after}"
+        raise RuntimeError(f"Gemini HTTP {exc.code}: {details}") from exc
+    except urllib_error.URLError as exc:
+        raise RuntimeError(f"Gemini connection error: {exc}") from exc
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f"Gemini returned non-JSON payload: {raw[:200]}") from exc
+    candidates = data.get("candidates") or []
+    if not candidates:
+        return None
+    content = candidates[0].get("content") or {}
+    parts = content.get("parts") or []
+    if not parts:
+        return None
+    text = _clean_text(parts[0].get("text"))
+    return text or None
 
 
 def call_gemini_text(prompt: str, retries: int | None = None) -> str | None:
     if not gemini_available():
-        return None
-    model = _gemini_model()
-    if model is None:
         return None
     retries = retries or GEMINI_MAX_RETRIES
     global _last_gemini_call_ts
     for attempt in range(retries):
         try:
             _last_gemini_call_ts = _apply_interval(_last_gemini_call_ts, GEMINI_MIN_INTERVAL_SEC)
-            response = model.generate_content(prompt)
-            text = getattr(response, "text", None)
-            if text:
-                return str(text).strip()
-            return None
+            return _call_gemini_once(prompt)
         except Exception as exc:
             exc_text = str(exc)
             if attempt < retries - 1:
