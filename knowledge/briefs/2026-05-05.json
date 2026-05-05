@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T10:16:27.916505+00:00",
+  "generated_at": "2026-05-05T11:45:04.243438+00:00",
   "brief_date": "2026-05-05",
   "generation": {
     "mode": "llm",
@@ -84,16 +84,16 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Quantitative signals (extreme Z-scores, EXPANSION regime, high ROC60, and near-max percentiles) align with recent neutral-to-positive momentum narratives, despite persistently negative fundamentals.",
-      "summary": "The dry bulk market is in an extreme expansion phase, with the BDI and all vessel classes (Capesize, Panamax, Supramax, Handysize) exhibiting Z-scores above +1 sigma, 60-day ROCs of +18.8% to +48.5%, and 5-year percentiles near or above 99%. However, fundamentals remain weak, with China steel production down YOY and iron ore inventories at multi-year highs.",
+      "confluence_note": "Quantitative signals (Z-scores, ROC, and percentiles) indicate a strong expansion regime, while qualitative narratives highlight persistent macro risks and weak fundamentals, creating a bullish confluence with caution.",
+      "summary": "The dry bulk market is in a robust expansion phase, with the BDI at +2.26σ and Capesize at +2.03σ, supported by 60-day ROCs exceeding +39%. However, fundamentals remain weak, with China steel production down YoY and iron ore inventories at multi-year highs, suggesting potential downside risks despite current strength.",
       "key_signals": [
-        "BDI Z-score +2.26 sigma, 99.8th percentile",
-        "Capesize Z-score +2.03 sigma, 99.2nd percentile, ROC60 +48.5%",
-        "China iron ore inventories YOY +21.9% (highest in recent reports)",
-        "Recent Breakwave momentum shift from neutral/negative to neutral (2026-04-28)"
+        "BDI at 99.8th percentile over 5 years",
+        "Capesize spot rates at 99.2th percentile",
+        "China steel production YoY decline (-4.5%)",
+        "Iron ore inventories at record highs (163mt, +21.9% YoY)"
       ],
-      "outlook": "The quantitative strength suggests near-term resilience, but the structural weakness in China's steel sector and high inventories pose downside risks in H2 2026.",
-      "watch": "Monitor China steel production trends and iron ore inventory drawdowns for signs of fundamental improvement or further deterioration.",
+      "outlook": "The dry bulk market is likely to remain elevated in the near term but faces downside risks from macroeconomic slowdowns in China and high inventory levels.",
+      "watch": "Monitor China's steel demand recovery and iron ore inventory drawdowns for signs of sustained momentum.",
       "report_dates": [
         "2026-04-28",
         "2026-04-14",
@@ -107,16 +107,16 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Quantitative signals (extreme Z-scores, EXPANSION regime, and high ROC60) align with recent positive sentiment and fundamentals, though momentum has turned neutral as of 2026-05-05.",
-      "summary": "The tanker market is in a robust expansion phase, with Clean and Dirty Tanker indices at Z-scores of +2.46 and +1.58 sigma, respectively, and ROC60 at +125.9% (Clean) and +64.0% (Dirty). Fundamentals remain positive, driven by geopolitical risks (MEG disruptions) and strong oil demand, though VLCC rates show signs of softening.",
+      "confluence_note": "Quantitative signals show extreme expansion (Z-scores > +1.5σ, ROC > +64%), while qualitative narratives confirm positive fundamentals, creating a strong bullish confluence.",
+      "summary": "The tanker market is in a pronounced expansion phase, with clean and dirty tanker indices at +2.46σ and +1.58σ, respectively, and 60-day ROCs exceeding +64%. Fundamentals are positive, driven by geopolitical disruptions, high oil demand, and inventory draws.",
       "key_signals": [
-        "Clean Tanker Z-score +2.46 sigma, 98.9th percentile, ROC60 +125.9%",
-        "Dirty Tanker Z-score +1.58 sigma, 97th percentile, ROC60 +64.0%",
-        "VLCC Middle East-Asia rates YOY +71.1% (2026-04-07), though recent softening noted",
-        "China oil imports YOY +6.1% (2026-04-07), global crude on water near record highs"
+        "Clean Tanker Z-score at +2.46σ (98.9th percentile)",
+        "VLCC rates up 71.1% YoY (Middle East-Asia route)",
+        "Global crude oil on water at 1192.3 MMbls (-0.4% YoY)",
+        "China oil imports up 6.1% YoY"
       ],
-      "outlook": "The tanker market remains structurally bullish due to geopolitical risks and tight supply, but near-term rate softening may persist if demand normalizes.",
-      "watch": "Track MEG VLCC rate trends and OECD crude stock levels for signs of sustained tightness or normalization.",
+      "outlook": "The tanker market is poised for continued strength, underpinned by structural supply-demand imbalances and geopolitical risks.",
+      "watch": "Track oil price volatility and potential resolution of Middle East geopolitical tensions for near-term rate adjustments.",
       "report_dates": [
         "2026-05-05",
         "2026-04-21",
@@ -129,7 +129,7 @@
       ]
     }
   },
-  "macro_note": "The shipping freight market is exhibiting a rare confluence of extreme quantitative strength across both dry bulk and tanker segments, but underlying fundamentals (e.g., China steel demand, oil inventory levels) suggest potential volatility in H2 2026. Geopolitical risks remain a key upside driver for tankers, while dry bulk faces structural headwinds.",
+  "macro_note": "The shipping freight market is experiencing a rare confluence of extreme quantitative strength and divergent qualitative fundamentals, with dry bulk facing macro headwinds despite high rates, while tankers benefit from geopolitical and structural tailwinds.",
   "sources": [
     "breakwave_drybulk_2026-04-28",
     "breakwave_drybulk_2026-04-14",
