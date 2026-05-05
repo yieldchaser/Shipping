@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-05T13:29:36.184328+00:00",
+  "generated_at": "2026-05-05T17:49:06.620483+00:00",
   "brief_date": "2026-05-05",
   "generation": {
-    "mode": "llm",
-    "provider_used": "nim",
-    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "mode": "template",
+    "provider_used": "template",
+    "model": "",
     "provider_order": [
       "ollama",
       "gemini",
@@ -18,49 +18,49 @@
   },
   "market_snapshot": {
     "bdi": {
-      "value": 2730.0,
-      "z_score_252d": 2.259,
-      "pctl_5y": 0.998,
+      "value": 2832.0,
+      "z_score_252d": 2.532,
+      "pctl_5y": 0.999,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 2100.4,
-      "roc60": 39.64
+      "ma200": 2105.2,
+      "roc60": 46.28
     },
     "capesize": {
-      "value": 4447.0,
-      "z_score_252d": 2.027,
-      "pctl_5y": 0.992,
+      "value": 4703.0,
+      "z_score_252d": 2.371,
+      "pctl_5y": 0.996,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 3258.2,
-      "roc60": 48.53
+      "ma200": 3269.0,
+      "roc60": 59.37
     },
     "panamax": {
-      "value": 2002.0,
-      "z_score_252d": 1.293,
-      "pctl_5y": 0.998,
+      "value": 2054.0,
+      "z_score_252d": 1.498,
+      "pctl_5y": 1.0,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1777.2,
-      "roc60": 18.81
+      "ma200": 1777.5,
+      "roc60": 23.81
     },
     "supramax": {
-      "value": 1520.0,
-      "z_score_252d": 1.44,
-      "pctl_5y": 0.995,
+      "value": 1508.0,
+      "z_score_252d": 1.366,
+      "pctl_5y": 0.994,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 1314.7,
-      "roc60": 39.19
+      "ma200": 1315.8,
+      "roc60": 36.84
     },
     "handysize": {
-      "value": 815.0,
-      "z_score_252d": 0.959,
-      "pctl_5y": 0.63,
+      "value": 821.0,
+      "z_score_252d": 1.013,
+      "pctl_5y": 0.641,
       "regime": "EXPANSION",
       "regime_emoji": "UP",
-      "ma200": 752.9,
-      "roc60": 29.57
+      "ma200": 753.8,
+      "roc60": 29.09
     },
     "clean_tanker": {
       "value": 2038.0,
@@ -83,16 +83,17 @@
   },
   "vessel_classes": {
     "dry_bulk": {
-      "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Quantitative metrics (Z-scores, ROC, percentiles) indicate strong expansion, while qualitative reports show neutral sentiment but acknowledge underlying macro risks and inventory buildups.",
-      "summary": "The dry bulk market is in a pronounced expansion phase, with the BDI at +2.26σ and 99.8th percentile over 5 years, driven by Capesize and Supramax strength. However, fundamentals remain negative due to China's steel production decline (-4.5% YOY) and high iron ore inventories (21.9% YOY).",
+      "confluence_type": "NEUTRAL",
+      "confluence_note": "Signal alignment is mixed for dry bulk (quant +2.53sigma, qual +0.12); conviction remains limited.",
+      "summary": "Dry Bulk is in expansion regime at 2832.0, with z-score +2.53sigma and ROC60 +46.3%. Recent analyst sentiment skews neutral (neutral:7, positive:1). Signal alignment is mixed for dry bulk (quant +2.53sigma, qual +0.12); conviction remains limited.",
       "key_signals": [
-        "BDI at 2730 (+2.26σ, 99.8th percentile)",
-        "Capesize spot rates at 4447 (+2.03σ, 99.2th percentile)",
-        "China steel production down 4.5% YOY, iron ore inventories up 21.9% YOY"
+        "Quant: BDI value=2832.0, z=+2.53sigma, 5Y percentile=99.9%.",
+        "Qual: last 8 reports sentiment mix -> neutral:7, positive:1.",
+        "Cross-check: CAPESIZE value=4703.0, z=+2.37sigma.",
+        "Latest report 2026-04-28: momentum=neutral, fundamentals=negative."
       ],
-      "outlook": "The quantitative strength suggests near-term resilience, but macro risks (China slowdown, high inventories) could pressure rates in H2 2026.",
-      "watch": "Monitor China's steel demand recovery and iron ore inventory drawdowns for signs of fundamental improvement.",
+      "outlook": "dry bulk outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
+      "watch": "Watch fundamentals trend in the next report (negative).",
       "report_dates": [
         "2026-04-28",
         "2026-04-14",
@@ -106,16 +107,16 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Quantitative metrics show extreme expansion (Z-scores >+1.5σ, ROC >60%), while qualitative reports highlight structural shifts in oil trade flows and geopolitical risks supporting rates.",
-      "summary": "The tanker market is in a robust expansion, with Clean Tanker at +2.46σ and Dirty Tanker at +1.58σ. Fundamentals are positive due to Middle East disruptions, inventory draws, and China's oil import growth (+6.1% YOY). VLCC rates remain elevated despite recent softening.",
+      "confluence_note": "Quant momentum and analyst tone align bullishly for tanker (quant +2.02sigma, qual +0.88).",
+      "summary": "Tanker is in expansion regime at 2038.0, with z-score +2.02sigma and ROC60 +125.9%. Recent analyst sentiment skews positive (neutral:1, positive:7). Quant momentum and analyst tone align bullishly for tanker (quant +2.02sigma, qual +0.88).",
       "key_signals": [
-        "Clean Tanker at 2038 (+2.46σ, 98.9th percentile)",
-        "VLCC Middle East-Asia rates at $21.62/ton (+71.1% YOY)",
-        "China oil imports up 6.1% YOY, global crude on water down 0.4% YOY",
-        "Dirty tanker check: level=2752.0, ROC60=+64.0%."
+        "Quant: CLEAN_TANKER value=2038.0, z=+2.02sigma, 5Y percentile=98.9%.",
+        "Qual: last 8 reports sentiment mix -> neutral:1, positive:7.",
+        "Cross-check: DIRTY_TANKER value=2752.0, z=+1.58sigma.",
+        "Latest report 2026-05-05: momentum=neutral, fundamentals=positive."
       ],
-      "outlook": "Geopolitical risks and tight supply-demand balances are likely to sustain high tanker rates, though near-term volatility may persist.",
-      "watch": "Track Middle East stability and OPEC+ production decisions for potential disruptions or supply adjustments.",
+      "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
+      "watch": "Watch fundamentals trend in the next report (positive).",
       "report_dates": [
         "2026-05-05",
         "2026-04-21",
@@ -128,7 +129,7 @@
       ]
     }
   },
-  "macro_note": "The shipping markets are exhibiting a rare confluence of quantitative strength and qualitative tailwinds, though dry bulk faces structural headwinds from China's industrial slowdown, while tankers benefit from geopolitical premiums.",
+  "macro_note": "Cross-sector signals are mixed with no broad confluence across dry bulk and tanker segments.",
   "sources": [
     "breakwave_drybulk_2026-04-28",
     "breakwave_drybulk_2026-04-14",
