@@ -1,0 +1,88 @@
+{
+  "node_id": "breakwave_tankers_2026-05-05__root",
+  "doc_id": "breakwave_tankers_2026-05-05",
+  "parent_id": null,
+  "title": "Tanker Shipping - May 5, 2026",
+  "section_path": [
+    "Tanker Shipping - May 5, 2026"
+  ],
+  "section_path_text": "Tanker Shipping - May 5, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The tanker shipping market is experiencing a divide between the Atlantic and Middle East regions due to geopolitical risks, particularly transit uncertainty through the Strait of Hormuz. VLCC rates are influenced more by access and risk than traditional supply-demand fundamentals, with the Atlantic absorbing displaced tonnage. Oil prices are projected to remain above $90/bbl due to structural deficits, while long-term tanker market fundamentals may face a downcycle as new vessel orders increase.",
+  "keywords": [
+    "tanker shipping",
+    "VLCC",
+    "Strait of Hormuz",
+    "geopolitical risk",
+    "freight rates",
+    "Atlantic basin",
+    "Middle East",
+    "oil prices",
+    "supply-demand imbalance",
+    "orderbook"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 337,
+  "source_path": "reports/tankers/2026/2026-05-05_Breakwave_Tankers.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_tankers_2026-05-05__s01_overview",
+      "doc_id": "breakwave_tankers_2026-05-05",
+      "parent_id": "breakwave_tankers_2026-05-05__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- VLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical\n- Oil Prices Firmly Above $90/bbl for the Rest of the Year - As the closure of the\n- Our Long-term View - The tanker market has been recovering from a long period",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "crude_oil",
+        "above",
+        "bbl",
+        "closure",
+        "firmly",
+        "geopolitical"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 56,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_tankers_2026-05-05__s02_fundamentals",
+      "doc_id": "breakwave_tankers_2026-05-05",
+      "parent_id": "breakwave_tankers_2026-05-05__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- World Oil Demand (YTD: 106,049 kbpd, YOY: 0.6%)\n- Oil Supply, OPEC (YTD: 22,050 kbpd, YOY: -19.6%)\n- Oil Supply, non-OPEC (YTD: 73,836 kbpd, YOY: 0.7%)\n- OECD Total Crude Oil Stocks (YTD: 1025.8 MMbls, YOY: -0.4%)\n- US Crude Oil Exports (YTD: 56.1 MMbls, YOY: -2.2%)\n- China Oil Imports (YTD: 725.9 MMbls, YOY: 5.4%)\n- Global Crude Oil On Water (YTD: 1260.3 MMbls, YOY: 7.7%)\n- Tanker Fleet (YTD: 717.8 mdwt, YOY: 2.9%)\n- VLCC Middle East-Asia, USD/ton (YTD: 57.37, YOY: 336.9%)\n- Suezmax West Africa-Europe, USD/ton (YTD: 38.68, YOY: 131.5%)",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "yoy",
+        "ytd"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 280,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}
