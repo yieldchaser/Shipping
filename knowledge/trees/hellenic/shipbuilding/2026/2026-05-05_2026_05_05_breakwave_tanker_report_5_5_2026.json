@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-05-05_2026_05_05_breakwave_tanker_report_5_5_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-05-05_2026_05_05_breakwave_tanker_report_5_5_2026",
+  "parent_id": null,
+  "title": "Breakwave Tanker Report 5.5.2026",
+  "section_path": [
+    "Breakwave Tanker Report 5.5.2026"
+  ],
+  "section_path_text": "Breakwave Tanker Report 5.5.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nVLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical disruption, what initially appeared\nSource: Breakwave Advisors\n\nLinked asset: 2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 5, 2026\n• VLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical\nShort-term Indicators\ndisruption, what initially appeared to be a short-term reaction in the VLCC market is\nMomentum: Neutral\nnow developing into a more meaningful shift, with a clearer divide emerging\nbetween the AG and the Atlantic. In the Middle East, transit risk through the Strait Sentiment: Neutral\nof Hormuz remains the key issue. \"freedom of Fundamentals: Positive\nnavigation\" plan aimed at releasing vessels effectively trapped in the region have\nadded further uncertainty, particularly given Iran's opposition.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "china",
+    "atlantic",
+    "west_africa",
+    "europe",
+    "us_gulf",
+    "crude_oil",
+    "oil",
+    "funds",
+    "are",
+    "not"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1786,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-05-05_breakwave-tanker-report-5-5-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-tanker-report-5-5-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-05-05_2026_05_05_breakwave_tanker_report_5_5_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-05-05_2026_05_05_breakwave_tanker_report_5_5_2026",
+      "parent_id": "hellenic_shipbuilding_2026-05-05_2026_05_05_breakwave_tanker_report_5_5_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "VLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical disruption, what initially appeared\nSource: Breakwave Advisors",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "appeared",
+        "disruption",
+        "geopolitical",
+        "initially",
+        "onset",
+        "since"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 26,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-05-05_2026_05_05_breakwave_tanker_report_5_5_2026__s02_linked_asset_2026_05_05_breakwave_tanker_report_5_5_2026_breakwavetankersmay52026report_25ccc44d71d8_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-05-05_2026_05_05_breakwave_tanker_report_5_5_2026",
+      "parent_id": "hellenic_shipbuilding_2026-05-05_2026_05_05_breakwave_tanker_report_5_5_2026__root",
+      "title": "Linked asset: 2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf",
+      "section_path": [
+        "Linked asset: 2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-05-05_breakwave-tanker-report-5-5-2026_breakwavetankersmay52026report_25ccc44d71d8.pdf\n\n[Page 1]\nTanker Shipping\nBi-Weekly Industry Report\nMay 5, 2026\n• VLCC Atlantic Support vs AG Uncertainty - Since the onset of the geopolitical\nShort-term Indicators\ndisruption, what initially appeared to be a short-term reaction in the VLCC market is\nMomentum: Neutral\nnow developing into a more meaningful shift, with a clearer divide emerging\nbetween the AG and the Atlantic. In the Middle East, transit risk through the Strait Sentiment: Neutral\nof Hormuz remains the key issue.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "atlantic",
+        "west_africa",
+        "europe",
+        "us_gulf",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1716,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
