@@ -1,16 +1,16 @@
 ---
-generated_at: '2026-05-06T12:07:26Z'
+generated_at: '2026-05-06T13:44:19Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
-warning_count: 7
+warning_count: 6
 ---
 
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8145
-- Chunks: 96199
-- Sections: 29421
+- Documents: 8146
+- Chunks: 96200
+- Sections: 29422
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -24,7 +24,7 @@ warning_count: 7
 | baltic/tanker | 2026-05-01 | 5 | 7 | healthy | 0 | 12 |
 | baltic/gas | 2026-05-01 | 5 | 7 | healthy | 0 | 0 |
 | baltic/container | 2026-05-01 | 5 | 7 | healthy | 0 | 0 |
-| baltic/ningbo | 2026-04-24 | 12 | 7 | watch | 7 | 17 |
+| baltic/ningbo | 2026-05-01 | 5 | 7 | healthy | 7 | 17 |
 | breakwave_insights/insights | 2026-05-06 | 0 | 14 | healthy | 0 | 0 |
 | hellenic/dry_charter | 2026-04-29 | 7 | 14 | healthy | 7 | 1 |
 | hellenic/tanker_charter | 2026-04-29 | 7 | 14 | healthy | 7 | 0 |
@@ -50,7 +50,6 @@ warning_count: 7
 | Container and Ningbo Routes | 2026-05-05 | 184 | 250 | baltic, hellenic | - | healthy |
 
 ## Priority Warnings
-- `watch` baltic/ningbo is watch at 12 days since the latest dated document.
 - `watch` capesize is missing recent evidence from expected sources: baltic.
 - `watch` china_steel_and_iron_ore is missing recent evidence from expected sources: baltic.
 - `watch` coal_and_grain_flows is missing recent evidence from expected sources: baltic.

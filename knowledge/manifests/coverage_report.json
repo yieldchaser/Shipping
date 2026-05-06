@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-06T12:07:26Z",
+  "generated_at": "2026-05-06T13:44:19Z",
   "current_date": "2026-05-06",
   "corpus": {
-    "document_count": 8145,
-    "chunk_count": 96199,
-    "section_count": 29421,
+    "document_count": 8146,
+    "chunk_count": 96200,
+    "section_count": 29422,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -92,13 +92,13 @@
       "label": "baltic/ningbo",
       "source": "baltic",
       "category": "ningbo",
-      "status": "watch",
+      "status": "healthy",
       "cadence_days": 7,
-      "latest_date": "2026-04-24",
-      "age_days": 12,
+      "latest_date": "2026-05-01",
+      "age_days": 5,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 490,
+      "dated_doc_count": 491,
       "undated_doc_count": 17
     },
     {
@@ -553,14 +553,14 @@
       "evidence_count": 250,
       "document_count": 184,
       "source_counts": {
-        "baltic": 101,
-        "hellenic": 149
+        "baltic": 102,
+        "hellenic": 148
       },
       "category_counts": {
         "container": 53,
-        "ningbo": 48,
+        "ningbo": 49,
         "shipbuilding": 61,
-        "vessel_valuations": 88
+        "vessel_valuations": 87
       },
       "recent_sources_present": [
         "baltic",
@@ -570,7 +570,7 @@
       "tone_distribution": {
         "cautiously_bearish": 10,
         "constructive": 20,
-        "neutral": 53
+        "neutral": 54
       }
     }
   ],
