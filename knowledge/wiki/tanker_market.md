@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 91
+document_count: 93
 evidence_count: 250
-generated_at: '2026-05-05T11:39:02Z'
+generated_at: '2026-05-06T10:29:14Z'
 latest_evidence_date: '2026-05-05'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 91 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-05, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 93 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-05, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -41,14 +41,14 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-05-05 | breakwave_insights insights | Linked asset: 2026-05-05_opexit_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_278c1ec3a85d.png: Source asset: reports/breakwave/2026/assets/2026-05-05_opexit_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_278c1ec3a85d.png Linked image asset: 2026-05-05_opexit_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_278c1ec3a85d.png Image metadata: PNG 1414x507 mode=RGBA Embedded info: dpi: (95.9866, 95.9866) OCR text: MMMM «OPEC Production 40 38 36 34 32 30 28 " ETL LL. || Za 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 Q1-2026 [doc_id: breakwave_insights_insights_2026-05-05_2026_05_05_opexit | section_id: breakwave_insights_insights_2026-05-05_2026_05_05_opexit__s04_linked_asset_2026_05_05_opexit_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_278c1ec3a85d_png | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-03-28 to 2026-05-05 across 1 calendar years.
+- Coverage span: 2026-03-30 to 2026-05-05 across 1 calendar years.
 - Most-covered years: 2026: 250
-- Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
+- Recurring evidence markers: crude, products, china, tanker, crude_oil, europe
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 165, hellenic: 75, breakwave: 6, baltic: 4
-- Category coverage: insights: 165, demolition: 42, shipbuilding: 13, vessel_valuations: 10, tanker_charter: 10, tankers: 6, tanker: 4
-- Tone distribution: constructive: 141, neutral: 65, cautiously_bearish: 40, volatile_rebalancing: 2, cautious_volatile: 2
+- Source coverage: breakwave_insights: 165, hellenic: 71, baltic: 8, breakwave: 6
+- Category coverage: insights: 165, demolition: 40, shipbuilding: 11, vessel_valuations: 10, tanker_charter: 10, tanker: 8, tankers: 6
+- Tone distribution: constructive: 139, neutral: 67, cautiously_bearish: 40, volatile_rebalancing: 2, cautious_volatile: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents

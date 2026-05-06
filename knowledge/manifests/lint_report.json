@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T11:40:03Z",
-  "current_date": "2026-05-05",
+  "generated_at": "2026-05-06T10:30:17Z",
+  "current_date": "2026-05-06",
   "warning_count": 8,
   "high_severity_count": 0,
   "status_counts": {
@@ -21,7 +21,7 @@
       "severity": "watch",
       "kind": "source_freshness",
       "key": "baltic/ningbo",
-      "message": "baltic/ningbo is watch at 11 days since the latest dated document.",
+      "message": "baltic/ningbo is watch at 12 days since the latest dated document.",
       "details": {
         "label": "baltic/ningbo",
         "source": "baltic",
@@ -29,11 +29,11 @@
         "status": "watch",
         "cadence_days": 7,
         "latest_date": "2026-04-24",
-        "age_days": 11,
+        "age_days": 12,
         "latest_gap_days": 7,
         "max_recent_gap_days": 7,
         "dated_doc_count": 490,
-        "undated_doc_count": 0
+        "undated_doc_count": 17
       }
     },
     {
