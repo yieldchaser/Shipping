@@ -1,0 +1,85 @@
+{
+  "node_id": "hellenic_dry_charter_2026-05-06_2026_05_06_weekly_dry_time_charter_estimates_may_06_2026__root",
+  "doc_id": "hellenic_dry_charter_2026-05-06_2026_05_06_weekly_dry_time_charter_estimates_may_06_2026",
+  "parent_id": null,
+  "title": "Weekly Dry Time Charter Estimates, May 06 2026",
+  "section_path": [
+    "Weekly Dry Time Charter Estimates, May 06 2026"
+  ],
+  "section_path_text": "Weekly Dry Time Charter Estimates, May 06 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nLinked asset: 65202511.jpg\n\nLinked asset: 2026-05-06_weekly-dry-time-charter-estimates-may-06-2026_65202511_4599d6c8b4cd.jpg\nSource asset: reports/hellenic/dry_charter/2026/assets/2026-05-06_weekly-dry-time-charter-estimates-may-06-2026_65202511_4599d6c8b4cd.jpg\n\nLinked image asset: 2026-05-06_weekly-dry-time-charter-estimates-may-06-2026_65202511_4599d6c8b4cd.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA [| B R A Updated Weds 06/05/2026\nStipping United ,\nDRY BULK TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4l6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (wexow) | ¥ 16,500 | ¥ 14500 |¥ 14,500 15,000 13,000 13,500\nSMAX/ULTRA 19,000 19,500 17,000 19,000 16,000 17,500\nPANA/KMAX 22,500 19,000 | ¥ 18000 |¥ 18,000 16,000 16,000\nCAPESIZE 30,000 30,000 32,000 32,000 30,000 30,000",
+  "keywords": [
+    "capesize",
+    "handysize",
+    "asset",
+    "atl",
+    "linked",
+    "pac",
+    "image",
+    "weekly-dry-time-charter-estimates-may-06-2026_65202511_4599d6c8b4cd.jpg",
+    "charter",
+    "dpi",
+    "embedded",
+    "estimates"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 369,
+  "source_path": "reports/hellenic/dry_charter/2026/2026-05-06_weekly-dry-time-charter-estimates-may-06-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-dry-time-charter-estimates-may-06-2026",
+  "children": [
+    {
+      "node_id": "hellenic_dry_charter_2026-05-06_2026_05_06_weekly_dry_time_charter_estimates_may_06_2026__s01_main",
+      "doc_id": "hellenic_dry_charter_2026-05-06_2026_05_06_weekly_dry_time_charter_estimates_may_06_2026",
+      "parent_id": "hellenic_dry_charter_2026-05-06_2026_05_06_weekly_dry_time_charter_estimates_may_06_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [
+        "asset",
+        "jpg",
+        "linked"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_dry_charter_2026-05-06_2026_05_06_weekly_dry_time_charter_estimates_may_06_2026__s02_linked_asset_2026_05_06_weekly_dry_time_charter_estimates_may_06_2026_65202511_4599d6c8b4cd_jpg",
+      "doc_id": "hellenic_dry_charter_2026-05-06_2026_05_06_weekly_dry_time_charter_estimates_may_06_2026",
+      "parent_id": "hellenic_dry_charter_2026-05-06_2026_05_06_weekly_dry_time_charter_estimates_may_06_2026__root",
+      "title": "Linked asset: 2026-05-06_weekly-dry-time-charter-estimates-may-06-2026_65202511_4599d6c8b4cd.jpg",
+      "section_path": [
+        "Linked asset: 2026-05-06_weekly-dry-time-charter-estimates-may-06-2026_65202511_4599d6c8b4cd.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-05-06_weekly-dry-time-charter-estimates-may-06-2026_65202511_4599d6c8b4cd.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/dry_charter/2026/assets/2026-05-06_weekly-dry-time-charter-estimates-may-06-2026_65202511_4599d6c8b4cd.jpg\n\nLinked image asset: 2026-05-06_weekly-dry-time-charter-estimates-may-06-2026_65202511_4599d6c8b4cd.jpg\n\nImage metadata: JPEG 600x320 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\nA [| B R A Updated Weds 06/05/2026\nStipping United ,\nDRY BULK TIME CHARTER ESTIMATES ($/pdpr)\nPERIOD 4l6 MOS 1YR 2YR\nSIZE ATL PAC ATL PAC ATL PAC\nHANDY (wexow) | ¥ 16,500 | ¥ 14500 |¥ 14,500 15,000 13,000 13,500\nSMAX/ULTRA 19,000 19,500 17,000 19,000 16,000 17,500\nPANA/KMAX 22,500 19,000 | ¥ 18000 |¥ 18,000 16,000 16,000\nCAPESIZE 30,000 30,000 32,000 32,000 30,000 30,000",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "atl",
+        "pac",
+        "asset",
+        "image",
+        "charter",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 315,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
