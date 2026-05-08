@@ -1,5 +1,5 @@
 ---
-generated_at: '2026-05-08T11:33:07Z'
+generated_at: '2026-05-08T17:21:21Z'
 high_severity_count: 0
 page_type: knowledge_health_summary
 warning_count: 6
@@ -8,9 +8,9 @@ warning_count: 6
 # Knowledge Health Summary
 
 ## Corpus Snapshot
-- Documents: 8153
-- Chunks: 96255
-- Sections: 29444
+- Documents: 8157
+- Chunks: 96259
+- Sections: 29448
 - Topic evidence rows: 2500
 - Wiki pages: 10
 
@@ -20,10 +20,10 @@ warning_count: 6
 |---|---|---:|---:|---|---:|---:|
 | breakwave/drybulk | 2026-04-28 | 10 | 14 | healthy | 14 | 0 |
 | breakwave/tankers | 2026-05-05 | 3 | 14 | healthy | 14 | 0 |
-| baltic/dry | 2026-05-01 | 7 | 7 | healthy | 0 | 8 |
-| baltic/tanker | 2026-05-01 | 7 | 7 | healthy | 0 | 12 |
-| baltic/gas | 2026-05-01 | 7 | 7 | healthy | 0 | 0 |
-| baltic/container | 2026-05-01 | 7 | 7 | healthy | 0 | 0 |
+| baltic/dry | 2026-05-08 | 0 | 7 | healthy | 7 | 8 |
+| baltic/tanker | 2026-05-08 | 0 | 7 | healthy | 7 | 12 |
+| baltic/gas | 2026-05-08 | 0 | 7 | healthy | 7 | 0 |
+| baltic/container | 2026-05-08 | 0 | 7 | healthy | 7 | 0 |
 | baltic/ningbo | 2026-05-08 | 0 | 7 | healthy | 7 | 17 |
 | breakwave_insights/insights | 2026-05-08 | 0 | 14 | healthy | 1 | 0 |
 | hellenic/dry_charter | 2026-05-06 | 2 | 14 | healthy | 7 | 1 |
@@ -38,7 +38,7 @@ warning_count: 6
 
 | Topic | Latest Evidence | Docs | Evidence | Recent Sources | Missing Sources | Status |
 |---|---|---:|---:|---|---|---|
-| Dry Bulk Market | 2026-05-08 | 83 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
+| Dry Bulk Market | 2026-05-08 | 84 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Tanker Market | 2026-05-08 | 89 | 250 | baltic, breakwave, breakwave_insights, hellenic | - | healthy |
 | Capesize | 2026-05-08 | 118 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | Panamax and Supramax | 2026-05-08 | 99 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
@@ -46,7 +46,7 @@ warning_count: 6
 | China Steel and Iron Ore | 2026-05-08 | 96 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | Coal and Grain Flows | 2026-05-08 | 104 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
 | Oil and OPEC | 2026-05-08 | 100 | 250 | breakwave, breakwave_insights, hellenic | baltic | healthy |
-| LNG and LPG Shipping | 2026-05-05 | 158 | 250 | baltic, hellenic | - | healthy |
+| LNG and LPG Shipping | 2026-05-08 | 159 | 250 | baltic, hellenic | - | healthy |
 | Container and Ningbo Routes | 2026-05-08 | 184 | 250 | baltic, hellenic | - | healthy |
 
 ## Priority Warnings
