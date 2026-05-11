@@ -3863,16 +3863,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     // Product config
     const PRODUCTS = {
-      bdiy: { label: 'Baltic Dry Index (BDI)', file: 'data/bdiy_historical.csv', color: '#58a6ff', tt: 'Baltic Dry Index (BDI) - the global gold standard for dry bulk freight across Capesize (50%), Panamax (40%), and Supramax (10%) vessels. A primary leading indicator of global industrial demand and raw material trade velocity.' },
+      bdiy: { label: 'Baltic Dry Index (BDI)', file: 'data/indices/bdiy_historical.csv', color: '#58a6ff', tt: 'Baltic Dry Index (BDI) - the global gold standard for dry bulk freight across Capesize (50%), Panamax (40%), and Supramax (10%) vessels. A primary leading indicator of global industrial demand and raw material trade velocity.' },
       bdry_spot: { label: 'BDRY Spot Composite', file: null, color: '#f0c040', computed: true, tt: 'Synthetic BDRY Spot - a weighted composite index based on Solactive methodology (50% Cape, 40% Panamax, 10% Supramax). Serves as the fundamental \'Spot Anchor\' for the BDRY ETF pricing model.' },
-      cape: { label: 'Capesize', file: 'data/cape_historical.csv', color: '#3fb950', tt: 'Capesize Vessels (180K DWT) - the heavyweights of the dry bulk fleet, primarily hauling iron ore and coal. Highly sensitive to Chinese infrastructure cycles and global steel production sentiment.' },
-      panama: { label: 'Panamax', file: 'data/panama_historical.csv', color: '#d29922', tt: 'Panamax Vessels (82K DWT) - the global workhorse for grain and thermal coal trade. Balanced by seasonal harvest cycles and transit capacity through the Panama and Suez Canals.' },
-      suprama: { label: 'Supramax', file: 'data/suprama_historical.csv', color: '#f0883e', tt: 'Supramax Vessels (58K DWT) - versatile geared vessels hauling \'minor bulks\' like fertilizers, minerals, and steel. Offers lower volatility due to a highly diversified commodity base.' },
-      handysize: { label: 'Handysize', file: 'data/handysize_historical.csv', color: '#7ee787', tt: 'Handysize Vessels (38K DWT) - small, geared vessels capable of serving regional ports. Tracks the fragmented trade of specialized raw materials and finished industrial goods.' },
-      dirtytanker: { label: 'Dirty Tanker (BDTI)', file: 'data/dirtytanker_historical.csv', color: '#e3b341', tt: 'Baltic Dirty Tanker Index (BDTI) - tracks the cost of hauling crude oil on VLCC, Suezmax, and Aframax vessels. Driven by OPEC+ output, refinery runs, and geopolitical energy shocks.' },
-      cleantanker: { label: 'Clean Tanker (BCTI)', file: 'data/cleantanker_historical.csv', color: '#a371f7', tt: 'Baltic Clean Tanker Index (BCTI) - monitors the freight rates for refined petroleum products (Gasoline, Diesel, Jet Fuel, Naphtha). Tied to global refining margins and seasonal demand.' },
-      bdryff: { label: 'BDRY Freight Futures (BDRYFF)', file: 'data/bdryff_history.csv', color: '#00bfff', solactive: true, tt: 'BDRY Freight Futures (BDRYFF) - tracks the front-month settlement prices of Dry Bulk FFAs. Represents the market\'s \'Forward Expectation\' vs. its \'Spot Reality\'.' },
-      bwetff: { label: 'BWET Freight Futures (BWETFF)', file: 'data/bwetff_history.csv', color: '#ff6b6b', solactive: true, tt: 'BWET Freight Futures (BWETFF) - tracks the settlement of Dirty Tanker (TD3C/TD20) forward contracts. High-conviction tool for hedging crude oil maritime logistics risk.' },
+      cape: { label: 'Capesize', file: 'data/indices/cape_historical.csv', color: '#3fb950', tt: 'Capesize Vessels (180K DWT) - the heavyweights of the dry bulk fleet, primarily hauling iron ore and coal. Highly sensitive to Chinese infrastructure cycles and global steel production sentiment.' },
+      panama: { label: 'Panamax', file: 'data/indices/panama_historical.csv', color: '#d29922', tt: 'Panamax Vessels (82K DWT) - the global workhorse for grain and thermal coal trade. Balanced by seasonal harvest cycles and transit capacity through the Panama and Suez Canals.' },
+      suprama: { label: 'Supramax', file: 'data/indices/suprama_historical.csv', color: '#f0883e', tt: 'Supramax Vessels (58K DWT) - versatile geared vessels hauling \'minor bulks\' like fertilizers, minerals, and steel. Offers lower volatility due to a highly diversified commodity base.' },
+      handysize: { label: 'Handysize', file: 'data/indices/handysize_historical.csv', color: '#7ee787', tt: 'Handysize Vessels (38K DWT) - small, geared vessels capable of serving regional ports. Tracks the fragmented trade of specialized raw materials and finished industrial goods.' },
+      dirtytanker: { label: 'Dirty Tanker (BDTI)', file: 'data/indices/dirtytanker_historical.csv', color: '#e3b341', tt: 'Baltic Dirty Tanker Index (BDTI) - tracks the cost of hauling crude oil on VLCC, Suezmax, and Aframax vessels. Driven by OPEC+ output, refinery runs, and geopolitical energy shocks.' },
+      cleantanker: { label: 'Clean Tanker (BCTI)', file: 'data/indices/cleantanker_historical.csv', color: '#a371f7', tt: 'Baltic Clean Tanker Index (BCTI) - monitors the freight rates for refined petroleum products (Gasoline, Diesel, Jet Fuel, Naphtha). Tied to global refining margins and seasonal demand.' },
+      bdryff: { label: 'BDRY Freight Futures (BDRYFF)', file: 'data/futures/bdryff_history.csv', color: '#00bfff', solactive: true, tt: 'BDRY Freight Futures (BDRYFF) - tracks the front-month settlement prices of Dry Bulk FFAs. Represents the market\'s \'Forward Expectation\' vs. its \'Spot Reality\'.' },
+      bwetff: { label: 'BWET Freight Futures (BWETFF)', file: 'data/futures/bwetff_history.csv', color: '#ff6b6b', solactive: true, tt: 'BWET Freight Futures (BWETFF) - tracks the settlement of Dirty Tanker (TD3C/TD20) forward contracts. High-conviction tool for hedging crude oil maritime logistics risk.' },
       bdry: { label: 'BDRY Stock Price', file: null, color: '#f0c040', computed: true, tt: 'Breakwave Dry Bulk Shipping ETF (BDRY) - the first ETF providing direct access to the dry bulk freight market via near-term futures. Optimized for maximum spot-freight sensitivity.' },
       bwet: { label: 'BWET Stock Price', file: null, color: '#ff6b6b', computed: true, tt: 'Breakwave Tanker Shipping ETF (BWET) - provides targeted exposure to the crude oil tanker market. Uses a laddered futures strategy to capture volatility in global energy transport.' },
     };
@@ -4348,21 +4348,21 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return key;
       });
 
-      const bdryPromise = fetchCSV('data/bdry_holdings.csv').then(r => { DATA.bdryHoldings = r; tick('BDRY Holdings'); });
-      const bwetPromise = fetchCSV('data/bwet_holdings.csv').then(r => { DATA.bwetHoldings = r; tick('BWET Holdings'); });
-      const bdryPdPromise = fetchCSV('data/BDRY_Daily.csv').then(r => { DATA.bdryPD = parsePDCsv(r); tick('BDRY P/D'); });
-      const bwetPdPromise = fetchCSV('data/BWET_Daily.csv').then(r => { DATA.bwetPD = parsePDCsv(r); tick('BWET P/D'); });
-      const bdryLiqPromise = fetchCSV('data/bdry_liquidity.csv').then(r => { DATA.bdryLiquidity = r; tick('BDRY Liquidity'); });
-      const bwetLiqPromise = fetchCSV('data/bwet_liquidity.csv').then(r => { DATA.bwetLiquidity = r; tick('BWET Liquidity'); });
-      const bdryFlowPromise = fetchCSV('data/BDRY_flows.csv').then(r => { DATA.bdryFlows = parseFlowCsv(r); tick('BDRY Flows'); });
-      const bwetFlowPromise = fetchCSV('data/BWET_flows.csv').then(r => { DATA.bwetFlows = parseFlowCsv(r); tick('BWET Flows'); });
+      const bdryPromise = fetchCSV('data/etf/bdry_holdings.csv').then(r => { DATA.bdryHoldings = r; tick('BDRY Holdings'); });
+      const bwetPromise = fetchCSV('data/etf/bwet_holdings.csv').then(r => { DATA.bwetHoldings = r; tick('BWET Holdings'); });
+      const bdryPdPromise = fetchCSV('data/etf/BDRY_Daily.csv').then(r => { DATA.bdryPD = parsePDCsv(r); tick('BDRY P/D'); });
+      const bwetPdPromise = fetchCSV('data/etf/BWET_Daily.csv').then(r => { DATA.bwetPD = parsePDCsv(r); tick('BWET P/D'); });
+      const bdryLiqPromise = fetchCSV('data/etf/bdry_liquidity.csv').then(r => { DATA.bdryLiquidity = r; tick('BDRY Liquidity'); });
+      const bwetLiqPromise = fetchCSV('data/etf/bwet_liquidity.csv').then(r => { DATA.bwetLiquidity = r; tick('BWET Liquidity'); });
+      const bdryFlowPromise = fetchCSV('data/etf/BDRY_flows.csv').then(r => { DATA.bdryFlows = parseFlowCsv(r); tick('BDRY Flows'); });
+      const bwetFlowPromise = fetchCSV('data/etf/BWET_flows.csv').then(r => { DATA.bwetFlows = parseFlowCsv(r); tick('BWET Flows'); });
 
       // SGX FFA Futures - non-blocking; dashboard renders even if these fail
       const sgxFiles = {
-        cape: 'data/sgx_cape_futures.csv',
-        panamax: 'data/sgx_panamax_futures.csv',
-        supramax: 'data/sgx_supramax_futures.csv',
-        handysize: 'data/sgx_handysize_futures.csv',
+        cape: 'data/futures/sgx_cape_futures.csv',
+        panamax: 'data/futures/sgx_panamax_futures.csv',
+        supramax: 'data/futures/sgx_supramax_futures.csv',
+        handysize: 'data/futures/sgx_handysize_futures.csv',
       };
       const sgxPromises = Object.entries(sgxFiles).map(async ([key, file]) => {
         try {

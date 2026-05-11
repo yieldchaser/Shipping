@@ -33,10 +33,10 @@ DATE_FMT = "%d-%m-%Y"
 
 # Indices to record, keyed by indexDataSetName from the API
 NEW_INDICES = {
-    "BLNG": "data/blng_historical.csv",
-    "BLPG": "data/blpg_historical.csv",
-    "FBX": "data/fbx_historical.csv",
-    "BAI00": "data/bai_historical.csv",
+    "BLNG": "data/indices/blng_historical.csv",
+    "BLPG": "data/indices/blpg_historical.csv",
+    "FBX": "data/indices/fbx_historical.csv",
+    "BAI00": "data/indices/bai_historical.csv",
 }
 
 
