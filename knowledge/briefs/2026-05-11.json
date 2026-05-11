@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-11T15:16:44.965016+00:00",
+  "generated_at": "2026-05-11T15:29:14.525815+00:00",
   "brief_date": "2026-05-11",
   "generation": {
-    "mode": "llm",
-    "provider_used": "nim",
-    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "mode": "template",
+    "provider_used": "template",
+    "model": "",
     "provider_order": [
       "ollama",
       "gemini",
@@ -83,17 +83,17 @@
   },
   "vessel_classes": {
     "dry_bulk": {
-      "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Quantitative metrics (Z-scores, ROC, percentiles) and qualitative signals (momentum, fundamentals) are strongly aligned, indicating a robust expansion phase across all dry bulk segments.",
-      "summary": "The dry bulk market is in an exceptional expansion phase, with the BDI at +2.83σ and 99.9th percentile over 5 years, driven by Capesize and Panamax strength. Recent narratives highlight subdued volatility but persistent macro risks, particularly in China's steel and iron ore dynamics, which remain a structural concern despite short-term rate surges.",
+      "confluence_type": "NEUTRAL",
+      "confluence_note": "Signal alignment is mixed for dry bulk (quant +2.83sigma, qual +0.12); conviction remains limited.",
+      "summary": "Dry Bulk is in expansion regime at 3001.0, with z-score +2.83sigma and ROC60 +53.3%. Recent analyst sentiment skews neutral (neutral:7, positive:1). Signal alignment is mixed for dry bulk (quant +2.83sigma, qual +0.12); conviction remains limited.",
       "key_signals": [
-        "BDI at 3001 (+2.83σ, 99.9th percentile)",
-        "Capesize at 4976 (+2.59σ, 99.4th percentile, +70.8% ROC60)",
-        "China iron ore inventories at multi-year highs (YTD: 163mt, +21.9% YoY)",
-        "Recent Breakwave sentiment neutral but momentum positive (2026-04-14)"
+        "Quant: BDI value=3001.0, z=+2.83sigma, 5Y percentile=99.9%.",
+        "Qual: last 8 reports sentiment mix -> neutral:7, positive:1.",
+        "Cross-check: CAPESIZE value=4976.0, z=+2.59sigma.",
+        "Latest report 2026-04-28: momentum=neutral, fundamentals=negative."
       ],
-      "outlook": "The dry bulk market is poised for continued strength, though macro risks (China slowdown, steel production declines) could introduce volatility in H2 2026.",
-      "watch": "Monitor China steel production trends and iron ore inventory levels for signs of demand softening.",
+      "outlook": "dry bulk outlook is range-bound until either quant momentum or analyst tone breaks decisively.",
+      "watch": "Watch fundamentals trend in the next report (negative).",
       "report_dates": [
         "2026-04-28",
         "2026-04-14",
@@ -107,16 +107,16 @@
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Quantitative metrics (Z-scores, ROC, percentiles) and qualitative signals (sentiment, momentum, fundamentals) are aligned, reflecting a strong expansion phase, though recent narratives suggest a slight cooling from peak levels.",
-      "summary": "The tanker market remains in expansion, with Clean Tanker at +1.95σ (97.7th percentile) and Dirty Tanker at +1.30σ (96.4th percentile). Recent narratives highlight structural shifts (e.g., VLCC rates, oil inventory draws) and geopolitical risks (Middle East tensions) as key drivers, though momentum has moderated from earlier highs.",
+      "confluence_note": "Quant momentum and analyst tone align bullishly for tanker (quant +1.63sigma, qual +0.88).",
+      "summary": "Tanker is in expansion regime at 1851.0, with z-score +1.63sigma and ROC60 +106.8%. Recent analyst sentiment skews positive (neutral:1, positive:7). Quant momentum and analyst tone align bullishly for tanker (quant +1.63sigma, qual +0.88).",
       "key_signals": [
-        "Dirty Tanker at 2574 (+1.30σ, 96.4th percentile, +49.0% ROC60)",
-        "VLCC Middle East-Asia rates at $21.62/ton (+71.1% YoY)",
-        "Global crude oil on water at 1192.3 MMbls (-0.4% YoY) but elevated due to rerouting",
-        "Recent Breakwave sentiment neutral (2026-05-05) but fundamentals positive"
+        "Quant: CLEAN_TANKER value=1851.0, z=+1.63sigma, 5Y percentile=97.7%.",
+        "Qual: last 8 reports sentiment mix -> neutral:1, positive:7.",
+        "Cross-check: DIRTY_TANKER value=2574.0, z=+1.30sigma.",
+        "Latest report 2026-05-05: momentum=neutral, fundamentals=positive."
       ],
-      "outlook": "Tanker rates are likely to remain elevated due to geopolitical risks and inventory dynamics, though further escalation in oil prices could dampen demand.",
-      "watch": "Track OECD crude oil stock levels and VLCC rate trends for signs of normalization post-crisis.",
+      "outlook": "Bias stays constructive for tanker while momentum and sentiment remain aligned.",
+      "watch": "Watch fundamentals trend in the next report (positive).",
       "report_dates": [
         "2026-05-05",
         "2026-04-21",
@@ -129,7 +129,7 @@
       ]
     }
   },
-  "macro_note": "The freight markets are currently experiencing a rare confluence of quantitative strength and qualitative momentum, though underlying macro risks (China slowdown, geopolitical tensions) could introduce volatility. The dry bulk and tanker segments are both in expansion regimes, but structural imbalances (e.g., iron ore inventories, oil supply disruptions) warrant close monitoring.",
+  "macro_note": "Cross-sector signals are mixed with no broad confluence across dry bulk and tanker segments.",
   "sources": [
     "breakwave_drybulk_2026-04-28",
     "breakwave_drybulk_2026-04-14",
