@@ -529,7 +529,11 @@ def gemini_available() -> bool:
 def _call_gemini_once(prompt: str) -> str | None:
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.25, "maxOutputTokens": 1200}
+        "generationConfig": {
+            "temperature": 0.25, 
+            "maxOutputTokens": 1200,
+            "response_mime_type": "application/json"
+        }
     }
     body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
     headers = {
@@ -543,7 +547,7 @@ def _call_gemini_once(prompt: str) -> str | None:
         method="POST",
     )
     try:
-        with urllib_request.urlopen(req, timeout=90) as response:
+        with urllib_request.urlopen(req, timeout=150) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
@@ -601,6 +605,7 @@ def _call_ollama_once(prompt: str) -> str | None:
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.25,
             "max_tokens": 1200,
+            "response_format": {"type": "json_object"},
         }
         endpoint = f"{OLLAMA_BASE_URL}/chat/completions"
     else:
@@ -608,6 +613,7 @@ def _call_ollama_once(prompt: str) -> str | None:
             "model": OLLAMA_MODEL,
             "messages": [{"role": "user", "content": prompt}],
             "stream": False,
+            "format": "json",
         }
         endpoint = f"{OLLAMA_BASE_URL}/chat"
 
@@ -625,7 +631,7 @@ def _call_ollama_once(prompt: str) -> str | None:
         method="POST",
     )
     try:
-        with urllib_request.urlopen(req, timeout=90) as response:
+        with urllib_request.urlopen(req, timeout=150) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
@@ -682,6 +688,7 @@ def _call_nim_once(prompt: str) -> str | None:
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.25,
         "max_tokens": 1200,
+        "response_format": {"type": "json_object"},
     }
     body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
     headers = {
@@ -696,7 +703,7 @@ def _call_nim_once(prompt: str) -> str | None:
         method="POST",
     )
     try:
-        with urllib_request.urlopen(req, timeout=90) as response:
+        with urllib_request.urlopen(req, timeout=150) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
