@@ -1226,28 +1226,17 @@ def _overlay_vessel(template_entry: dict, llm_entry: dict | None, pre_conf: str 
     if not isinstance(llm_entry, dict):
         return result
 
-    # ── Confluence guard ────────────────────────────────────────────────────────
-    # Python's pre-computed confluence uses fundamentals+sentiment+momentum and is
-    # authoritative.  The LLM may *agree* with it or call NEUTRAL/DIVERGENCE, but
-    # it CANNOT flip DIVERGENCE→BULL_CONFLUENCE or DIVERGENCE→BEAR_CONFLUENCE.
-    # This prevents a small ollama model from hallucinating away a real divergence.
-    _OPPOSITION = {
-        "DIVERGENCE":      {"BULL_CONFLUENCE", "BEAR_CONFLUENCE"},
-        "BULL_CONFLUENCE": {"BEAR_CONFLUENCE"},
-        "BEAR_CONFLUENCE": {"BULL_CONFLUENCE"},
-    }
+    # ── Confluence label is ALWAYS the Python pre-computed value ────────────────
+    # The LLM writes narrative text only. It cannot override the label badge
+    # because small models (ollama) hallucinate wrong counts and soften/flip
+    # factual computations. pre_conf is already set correctly by template_entry.
     llm_conf = _clean_text(llm_entry.get("confluence_type")).upper()
-    if llm_conf in CONFLUENCE_TYPES:
-        blocked = _OPPOSITION.get(pre_conf, set())
-        if llm_conf in blocked:
-            print(
-                f"[brief] WARN: LLM confluence '{llm_conf}' contradicts "
-                f"pre-computed '{pre_conf}' — keeping Python verdict.",
-                file=sys.stderr,
-            )
-            # keep result["confluence_type"] = pre_conf (already set by template)
-        else:
-            result["confluence_type"] = llm_conf
+    if llm_conf in CONFLUENCE_TYPES and llm_conf != pre_conf:
+        print(
+            f"[brief] INFO: LLM confluence '{llm_conf}' differs from "
+            f"pre-computed '{pre_conf}' — keeping Python verdict.",
+            file=sys.stderr,
+        )
 
     for key in ("confluence_note", "summary", "outlook", "watch"):
         text = _clean_text(llm_entry.get(key))
