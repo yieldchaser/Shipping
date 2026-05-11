@@ -23,7 +23,6 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 from urllib import error as urllib_error
 from urllib import request as urllib_request
-import ssl
 
 ROOT = Path(__file__).resolve().parent.parent
 KNOWLEDGE = ROOT / "knowledge"
@@ -633,10 +632,7 @@ def _call_ollama_once(prompt: str) -> str | None:
         method="POST",
     )
     try:
-        ctx = ssl.create_default_context()
-        ctx.check_hostname = False
-        ctx.verify_mode = ssl.CERT_NONE
-        with urllib_request.urlopen(req, timeout=150, context=ctx) as response:
+        with urllib_request.urlopen(req, timeout=150) as response:
             raw = response.read().decode("utf-8", errors="replace")
     except urllib_error.HTTPError as exc:
         retry_after = exc.headers.get("Retry-After") if exc.headers else None
