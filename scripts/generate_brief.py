@@ -1247,7 +1247,7 @@ def _template_vessel_entry(
 
     return {
         "confluence_type": pre_conf if pre_conf in CONFLUENCE_TYPES else "NEUTRAL",
-        "confluence_note": _template_confluence_note(pre_conf, label, z_for_logic, qual_score),
+        "confluence_note": _template_confluence_note(pre_conf, label, z_for_logic, qual_score, tally=tally),
         "summary": summary,
         "key_signals": key_signals[:4],
         "outlook": _template_outlook(pre_conf, label),
@@ -1273,7 +1273,7 @@ def _overlay_vessel(template_entry: dict, llm_entry: dict | None, pre_conf: str 
             file=sys.stderr,
         )
 
-    for key in ("confluence_note", "summary", "outlook", "watch"):
+    for key in ("summary", "outlook", "watch"):
         text = _clean_text(llm_entry.get(key))
         if text:
             result[key] = text
