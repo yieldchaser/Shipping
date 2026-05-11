@@ -62,11 +62,6 @@ GEMINI_MAX_BACKOFF_SEC = float(os.environ.get("GEMINI_MAX_BACKOFF_SEC", "20.0"))
 OLLAMA_API_KEY = os.environ.get("OLLAMA_API_KEY", "").strip()
 OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "").strip()
 OLLAMA_BASE_URL = (os.environ.get("OLLAMA_BASE_URL") or "").strip().rstrip("/")
-if OLLAMA_BASE_URL and not OLLAMA_BASE_URL.endswith("/api"):
-    if OLLAMA_BASE_URL.endswith("/v1"):
-        OLLAMA_BASE_URL = OLLAMA_BASE_URL[:-3] + "/api"
-    else:
-        OLLAMA_BASE_URL = OLLAMA_BASE_URL + "/api"
 OLLAMA_MIN_INTERVAL_SEC = float(os.environ.get("OLLAMA_MIN_INTERVAL_SEC", "1.5"))
 OLLAMA_MAX_RETRIES = int(os.environ.get("OLLAMA_MAX_RETRIES", "3"))
 OLLAMA_BACKOFF_BASE_SEC = float(os.environ.get("OLLAMA_BACKOFF_BASE_SEC", "1.5"))
@@ -598,11 +593,24 @@ def ollama_available() -> bool:
 
 
 def _call_ollama_once(prompt: str) -> str | None:
-    payload = {
-        "model": OLLAMA_MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "stream": False,
-    }
+    is_v1 = OLLAMA_BASE_URL.endswith("/v1")
+    
+    if is_v1:
+        payload = {
+            "model": OLLAMA_MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.25,
+            "max_tokens": 1200,
+        }
+        endpoint = f"{OLLAMA_BASE_URL}/chat/completions"
+    else:
+        payload = {
+            "model": OLLAMA_MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "stream": False,
+        }
+        endpoint = f"{OLLAMA_BASE_URL}/chat"
+
     body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
     headers = {
         "Content-Type": "application/json",
@@ -611,7 +619,7 @@ def _call_ollama_once(prompt: str) -> str | None:
     if OLLAMA_API_KEY:
         headers["Authorization"] = f"Bearer {OLLAMA_API_KEY}"
     req = urllib_request.Request(
-        f"{OLLAMA_BASE_URL}/chat",
+        endpoint,
         data=body,
         headers=headers,
         method="POST",
@@ -632,7 +640,15 @@ def _call_ollama_once(prompt: str) -> str | None:
         data = json.loads(raw)
     except json.JSONDecodeError as exc:
         raise RuntimeError(f"Ollama returned non-JSON payload: {raw[:200]}") from exc
-    message = data.get("message") or {}
+        
+    if is_v1:
+        choices = data.get("choices") or []
+        if not choices:
+            return None
+        message = choices[0].get("message") or {}
+    else:
+        message = data.get("message") or {}
+        
     text = _clean_text(message.get("content"))
     return text or None
 
