@@ -101,13 +101,13 @@ The compiler is `scripts/process_knowledge.py`, and corpus validation is handled
 
 | File | Index | Code | Vessel / Cargo |
 |---|---|---|---|
-| `bdiy_historical.csv` | Baltic Dry Index | BDI | Headline dry bulk composite |
-| `cape_historical.csv` | Baltic Capesize Index | BCI | 180,000 DWT — iron ore, coal |
-| `panama_historical.csv` | Baltic Panamax Index | BPI | 82,000 DWT — grain, coal |
-| `suprama_historical.csv` | Baltic Supramax Index | BSI | 58,000 DWT — minor bulk |
-| `handysize_historical.csv` | Baltic Handysize Index | BHSI | 28,000 DWT — minor bulk |
-| `cleantanker_historical.csv` | Baltic Clean Tanker Index | BCTI | Refined products |
-| `dirtytanker_historical.csv` | Baltic Dirty Tanker Index | BDTI | Crude oil |
+| `data/indices/bdiy_historical.csv` | Baltic Dry Index | BDI | Headline dry bulk composite |
+| `data/indices/cape_historical.csv` | Baltic Capesize Index | BCI | 180,000 DWT — iron ore, coal |
+| `data/indices/panama_historical.csv` | Baltic Panamax Index | BPI | 82,000 DWT — grain, coal |
+| `data/indices/suprama_historical.csv` | Baltic Supramax Index | BSI | 58,000 DWT — minor bulk |
+| `data/indices/handysize_historical.csv` | Baltic Handysize Index | BHSI | 28,000 DWT — minor bulk |
+| `data/indices/cleantanker_historical.csv` | Baltic Clean Tanker Index | BCTI | Refined products |
+| `data/indices/dirtytanker_historical.csv` | Baltic Dirty Tanker Index | BDTI | Crude oil |
 
 CSV schema: `Date (DD-MM-YYYY), Index, % Change`
 
@@ -125,8 +125,8 @@ Available from October 2008 (~4,200 data points). Computed in the browser on eve
 
 | File | ETF | What it holds |
 |---|---|---|
-| `bdry_holdings.csv` | Breakwave Dry Bulk Shipping ETF (BDRY) | Capesize 5TC, Panamax 5TC, Supramax 58 FFA futures — front 5 months |
-| `bwet_holdings.csv` | Breakwave Tanker Shipping ETF (BWET) | TD3C (MEG→China 270kt VLCC) and TD20 (WAF→Continent 130kt Suezmax) FFA futures |
+| `data/etf/bdry_holdings.csv` | Breakwave Dry Bulk Shipping ETF (BDRY) | Capesize 5TC, Panamax 5TC, Supramax 58 FFA futures — front 5 months |
+| `data/etf/bwet_holdings.csv` | Breakwave Tanker Shipping ETF (BWET) | TD3C (MEG→China 270kt VLCC) and TD20 (WAF→Continent 130kt Suezmax) FFA futures |
 
 CSV schema: `Name, Ticker, CUSIP, Lots, Price, Market_Value, Weightings`
 
@@ -142,32 +142,54 @@ Shipping/
 │
 ├── index.html                          # Full dashboard — self-contained, 22-quote Avery Ticker, CDN-only deps
 │
-├── bdiy_historical.csv                 # Baltic Dry Index history (from Dec 2007)
-├── cape_historical.csv                 # Capesize (from Oct 2008)
-├── panama_historical.csv               # Panamax (from Oct 2008)
-├── suprama_historical.csv              # Supramax (from Oct 2008)
-├── cleantanker_historical.csv          # Clean Tanker (from Jan 2008)
-├── dirtytanker_historical.csv          # Dirty Tanker (from Dec 2007)
-│
-├── bdry_holdings.csv                   # BDRY FFA curve holdings (updated daily)
-├── bwet_holdings.csv                   # BWET FFA curve holdings (updated daily)
-├── BDRY_Daily.csv                      # BDRY daily premium/discount
-├── BWET_Daily.csv                      # BWET daily premium/discount
-├── bdryff_history.csv                  # Solactive BDRY freight futures index history
-├── bwetff_history.csv                  # Solactive BWET freight futures index history
-│
-├── sgx_cape_futures.csv                # SGX Capesize FFA futures curve
-├── sgx_panamax_futures.csv             # SGX Panamax FFA futures curve
-├── sgx_supramax_futures.csv            # SGX Supramax FFA futures curve
-├── sgx_handysize_futures.csv           # SGX Handysize FFA futures curve
+├── data/
+│   ├── indices/                        # Freight index time series
+│   │   ├── bdiy_historical.csv         # Baltic Dry Index (from Dec 2007)
+│   │   ├── cape_historical.csv         # Capesize (from Oct 2008)
+│   │   ├── panama_historical.csv       # Panamax (from Oct 2008)
+│   │   ├── suprama_historical.csv      # Supramax (from Oct 2008)
+│   │   ├── handysize_historical.csv    # Handysize (from Oct 2008)
+│   │   ├── cleantanker_historical.csv  # Clean Tanker (from Jan 2008)
+│   │   ├── dirtytanker_historical.csv  # Dirty Tanker (from Dec 2007)
+│   │   ├── blng_history.csv            # Baltic LNG Index
+│   │   ├── blpg_history.csv            # Baltic LPG Index
+│   │   ├── fbx_history.csv             # Freightos Baltic Index (container)
+│   │   └── bai_history.csv             # Baltic Air Freight Index
+│   │
+│   ├── futures/                        # FFA futures data
+│   │   ├── bdryff_history.csv          # Solactive BDRY freight futures index
+│   │   ├── bwetff_history.csv          # Solactive BWET freight futures index
+│   │   ├── sgx_cape_futures.csv        # SGX Capesize FFA curve
+│   │   ├── sgx_panamax_futures.csv     # SGX Panamax FFA curve
+│   │   ├── sgx_supramax_futures.csv    # SGX Supramax FFA curve
+│   │   └── sgx_handysize_futures.csv   # SGX Handysize FFA curve
+│   │
+│   └── etf/                            # ETF holdings, flows, and liquidity
+│       ├── bdry_holdings.csv           # BDRY FFA curve holdings (updated daily)
+│       ├── bwet_holdings.csv           # BWET FFA curve holdings (updated daily)
+│       ├── BDRY_Daily.csv              # BDRY daily premium/discount
+│       ├── BWET_Daily.csv              # BWET daily premium/discount
+│       ├── BDRY_flows.csv              # BDRY fund flow history
+│       ├── BWET_flows.csv              # BWET fund flow history
+│       ├── bdry_liquidity.csv          # BDRY liquidity tracker
+│       └── bwet_liquidity.csv          # BWET liquidity tracker
 │
 ├── requirements_knowledge.txt          # Python deps for the knowledge compiler
 │
 ├── scripts/
 │   ├── update_indices.py               # Baltic index + SGX futures + flow scraper
 │   ├── update_etf_holdings.py          # ETF holdings scraper (BDRY & BWET)
+│   ├── get_snapshots_scraper.py        # ETF fund flow scraper (TrackInsight)
+│   ├── baltic_new_indices.py           # Baltic ticker API scraper (BLNG, BLPG, FBX, BAI)
+│   ├── generate_brief.py              # Daily market brief generator (LLM-powered)
 │   ├── baltic_scraper.py               # Baltic Exchange Weekly report scraper
 │   ├── breakwave_scraper.py            # Breakwave Advisors biweekly report scraper
+│   ├── breakwave_insights_scraper.py   # Breakwave Insights HTML scraper
+│   ├── hellenic_scraper.py             # Hellenic Shipping News report scraper
+│   ├── source_archive_utils_v2.py      # Shared archive utilities (used by 9+ scrapers)
+│   ├── normalize_source_archives.py    # Source archive format normalization
+│   ├── validate_source_archives.py     # Source archive structural validator
+│   ├── check_breakwave_freshness.py    # Breakwave report freshness monitor
 │   ├── process_knowledge.py            # Incremental knowledge compiler
 │   ├── build_wiki.py                   # Topic-evidence + wiki page generator
 │   ├── build_health_report.py          # Knowledge health / freshness / coverage reports
