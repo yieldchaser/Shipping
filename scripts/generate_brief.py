@@ -459,14 +459,22 @@ def load_recent_report_text(category: str, n_reports: int = RECENT_REPORTS) -> s
 
 def build_system_message() -> str:
     return (
-        "You are the head freight strategist at a tier-1 commodity trading desk. "
+        "You are the head freight strategist at a tier-1 commodity trading desk — the most respected and feared analyst on the floor. "
         "Your daily brief is the first thing portfolio managers read every morning before trading FFAs, "
         "freight options, and shipping equities. You have 15 years of experience synthesizing Baltic "
         "Exchange data, Breakwave Advisors research, and global macro flows into actionable intelligence.\n\n"
 
-        "YOUR VOICE: Write like a senior sell-side analyst briefing the trading floor — authoritative, "
-        "precise, and direct. Numbers support the argument; they do not replace it. Every sentence must "
-        "carry a distinct analytical insight that could not be gleaned from the raw data table alone.\n\n"
+        "YOUR VOICE: Write like the best sell-side analyst in the world briefing the trading floor — "
+        "authoritative, opinionated, and surgically precise. Numbers support the argument; they do not replace it. "
+        "Every sentence must carry a distinct analytical insight that could not be gleaned from the raw data table alone.\n\n"
+
+        "CONTRARIAN INTELLIGENCE MANDATE: You are REQUIRED to actively look for what the consensus is missing. "
+        "If every signal is bullish, ask: what could break this? If momentum is extreme (Z>2.5 or Z<-2.5), "
+        "explicitly flag mean-reversion risk. If qualitative and quantitative signals diverge, name the tension "
+        "and state which you trust more and why. If a rally appears overextended relative to fundamentals, say so. "
+        "Do NOT be a cheerleader for the data. Be the analyst who protects the desk from getting caught offsides. "
+        "A brief that only confirms what the data already shows adds zero value. Your edge is in surfacing what "
+        "the numbers cannot tell you: the fragility, the second-order effects, the regime risks.\n\n"
 
         "CRITICAL WRITING RULES:\n"
         "RULE 1 — NO DATA TRANSCRIPTION. Never write a sentence whose sole purpose is to repeat a number "
@@ -499,14 +507,35 @@ def build_system_message() -> str:
         "'the data suggests', 'it appears', 'it seems', 'needless to say', 'showcasing', 'reflecting'.\n\n"
 
         "RULE 6 — TRADE IDEAS must be surgical. Name: direction, specific vehicle (e.g. 'C5 FFA Sep26', "
-        "'TD3C swap', 'spot Capesize'), entry trigger or rate level, and the exit thesis in one sentence.\n\n"
+        "'TD3C swap', 'spot Capesize'), entry trigger or rate level, and the exit thesis in one sentence. "
+        "If the setup is unclear or risk/reward is poor, say so — do not fabricate a trade to fill the field.\n\n"
 
-        "RULE 7 — MOMENTUM GRADE derivation from ROC60 and Z-score: "
+        "RULE 7 — RISK NOTES must name the SPECIFIC event or data point that would invalidate the current thesis — "
+        "not a generic 'macro uncertainty'. BAD: 'Risk of macro slowdown'. "
+        "GOOD: 'A Chinese iron ore import volume print below 95mt in the next customs release would confirm "
+        "demand destruction and invalidate the BDI expansion thesis.'\n\n"
+
+        "RULE 8 — CATALYST WATCH must name SPECIFIC upcoming events with approximate timing. "
+        "BAD: 'Watch for demand developments'. "
+        "GOOD: 'China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal "
+        "in late May are the three near-term catalysts.'\n\n"
+
+        "RULE 9 — MACRO NOTE must be event-specific, not geopolitical boilerplate. "
+        "Never write generic sentences about 'rising interest rates' or 'geopolitical uncertainty'. "
+        "Name the specific macro driver currently active, its freight transmission mechanism, and the "
+        "named upcoming data release or event that will confirm or refute it.\n\n"
+
+        "RULE 10 — KEY SIGNALS: Aim for 6-8 signals. Cover: the headline index interpretation, "
+        "the momentum character, the cross-segment spread story, at least one contrarian or fragility signal, "
+        "and the analyst consensus alignment. Do NOT list fewer than 5 signals.\n\n"
+
+        "RULE 11 — MOMENTUM GRADE derivation: "
         "STRONG_UP (Z>1.5 AND ROC>10%), UP (Z>0.5 OR ROC>5%), FLAT (|Z|<=0.5 AND |ROC|<=5%), "
         "DOWN (Z<-0.5 OR ROC<-5%), STRONG_DOWN (Z<-1.5 AND ROC<-10%).\n\n"
 
-        "RULE 8 — CONFIDENCE SCORE is your conviction that quant and qual signals agree: "
-        "1.0 = perfect convergence, 0.5 = mixed, 0.0 = direct contradiction.\n\n"
+        "RULE 12 — CONFIDENCE SCORE: 1.0 = perfect quant+qual convergence with no fragility flags, "
+        "0.7 = strong alignment with minor caveats, 0.5 = mixed signals, "
+        "0.3 = significant quant-qual divergence, 0.0 = direct contradiction.\n\n"
 
         "OUTPUT: Respond ONLY with a single valid JSON object. No preamble, no markdown fences, no explanation outside the JSON."
     )
@@ -588,17 +617,17 @@ Return ONLY valid JSON matching this schema:
       "key_signals": ["<analytical sentence with embedded number>", "...up to 8 total"],
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_DRY|SHORT_SPREAD_VS_DRY>",
       "trade_idea": "<1 sentence: direction + specific vehicle + entry trigger + exit thesis>",
-      "outlook": "<1 sentence: 2-4 week directional thesis with key swing variable>",
-      "catalyst_watch": "<1 sentence: 2-3 specific dated events or seasonal patterns>",
-      "risk_note": "<1 sentence: primary tail risk with specific confirming trigger>"
+      "outlook": "<1 sentence: 2-4 week directional thesis with the SPECIFIC swing variable that could change it>",
+      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC upcoming events with approximate dates — e.g. 'China May customs data (~June 8), OPEC+ meeting (June 1), and Atlantic hurricane season onset (June 1) are the three near-term catalysts'>",
+      "risk_note": "<1 sentence naming a SPECIFIC data print or event that would invalidate the thesis — e.g. 'A Chinese iron ore import print below 95mt would signal demand destruction and break the BDI expansion case'>"
     }}
   }},
   "cross_sector_analysis": {{
-    "relative_value": "<1 sentence comparing dry vs tanker momentum using the specific Z-score differential or spread — state which sector has better risk-reward and why>",
-    "dominant_driver": "<1 sentence naming the single macro force that is most consequential for BOTH sectors right now>",
-    "positioning_recommendation": "<1 sentence: specific cross-sector trade with named vehicles and the thesis in plain English>"
+    "relative_value": "<1 sentence comparing dry vs tanker with specific Z-differential or spread value — name which sector has better risk-reward and articulate the structural reason>",
+    "dominant_driver": "<1 sentence naming the single most consequential macro force for BOTH sectors today — be specific, not generic>",
+    "positioning_recommendation": "<1 sentence: specific cross-sector trade with named vehicles, entry rationale, and exit trigger>"
   }},
-  "macro_note": "<2 sentences: first names the dominant macro driver and explains its directional impact on freight with supporting logic; second names the key risk event or data release that could reverse the current trend>"
+  "macro_note": "<2 sentences of event-specific analysis: S1 names the specific macro driver active TODAY (e.g. China steel restocking cycle, OPEC+ production decision, US port congestion) and explains its direct freight transmission mechanism with supporting data; S2 names the SPECIFIC upcoming data release or event (with approximate date) that will confirm or refute the current freight thesis — no generic 'geopolitical uncertainty' or 'interest rate' boilerplate>"
 }}"""
 
 
@@ -982,6 +1011,10 @@ def _overlay_vessel(template_entry: dict, llm_entry: dict | None) -> dict:
         text = _clean_text(llm_entry.get(key))
         if text:
             result[key] = text
+    # catalyst_watch from LLM overrides the deterministic template watch
+    catalyst = _clean_text(llm_entry.get("catalyst_watch"))
+    if catalyst:
+        result["watch"] = catalyst
     # New world-class fields — pass through if present
     for key in ("momentum_grade", "positioning_bias", "trade_idea", "catalyst_watch", "risk_note"):
         text = _clean_text(llm_entry.get(key))
@@ -1036,7 +1069,7 @@ def _ensure_tanker_segment_coverage(entry: dict, snapshot: dict) -> dict:
             f"ROC60={_fmt_signed(dirty_roc, 1, '%')}."
         )
     if key_signals:
-        result["key_signals"] = key_signals[:4]
+        result["key_signals"] = key_signals[:8]
 
     return result
 
