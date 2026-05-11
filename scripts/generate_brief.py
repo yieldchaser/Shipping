@@ -455,7 +455,8 @@ def _extract_json_payload(text: str | None) -> dict | None:
         if isinstance(payload, dict):
             return payload
         return None
-    except json.JSONDecodeError:
+    except json.JSONDecodeError as exc:
+        print(f"[brief] JSONDecodeError: {exc}. Raw text: {raw[:1000]}", file=sys.stderr)
         return None
 
 
