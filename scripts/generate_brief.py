@@ -5,7 +5,7 @@ Reads quantitative CSV data + recent Breakwave signals + wiki context and writes
   knowledge/briefs/latest.json
   knowledge/briefs/YYYY-MM-DD.json
 
-LLM provider order: ollama -> nim (Gemini removed — paid inference).
+LLM provider order: ollama -> nim.
 If all providers fail, a deterministic template brief is generated.
 """
 from __future__ import annotations
@@ -52,12 +52,6 @@ WIKI_EXCERPTS = {
 CONFLUENCE_TYPES = {"BULL_CONFLUENCE", "BEAR_CONFLUENCE", "DIVERGENCE", "NEUTRAL"}
 RECENT_REPORTS = 12
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash").strip()
-GEMINI_MIN_INTERVAL_SEC = float(os.environ.get("GEMINI_MIN_INTERVAL_SEC", "1.5"))
-GEMINI_MAX_RETRIES = int(os.environ.get("GEMINI_MAX_RETRIES", "3"))
-GEMINI_BACKOFF_BASE_SEC = float(os.environ.get("GEMINI_BACKOFF_BASE_SEC", "2.0"))
-GEMINI_MAX_BACKOFF_SEC = float(os.environ.get("GEMINI_MAX_BACKOFF_SEC", "20.0"))
 
 OLLAMA_API_KEY = os.environ.get("OLLAMA_API_KEY", "").strip()
 OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "").strip()
@@ -84,7 +78,6 @@ LLM_PROVIDER_ORDER = [
 if not LLM_PROVIDER_ORDER:
     LLM_PROVIDER_ORDER = ["ollama", "nim"]
 
-_last_gemini_call_ts = 0.0
 _last_ollama_call_ts = 0.0
 _last_nim_call_ts = 0.0
 
@@ -416,6 +409,54 @@ def _build_analytics_context(snapshot: dict, spreads: dict) -> str:
     return "\n".join(lines)
 
 
+def load_recent_report_text(category: str, n_reports: int = RECENT_REPORTS) -> str:
+    """Load all chunk sections for the most recent N reports.
+
+    Feeds the LLM the complete analyst narrative — Overview + Fundamentals —
+    so it can reference geopolitical events, supply/demand data, etc.
+    Each full report is ~200-230 tokens, so 12 reports x 2 categories = ~5400 tokens total.
+    """
+    chunk_map = {
+        "drybulk": [KNOWLEDGE / "chunks" / "breakwave_drybulk_2026.jsonl",
+                    KNOWLEDGE / "chunks" / "breakwave_drybulk.jsonl"],
+        "tankers": [KNOWLEDGE / "chunks" / "breakwave_tankers.jsonl"],
+    }
+    paths = chunk_map.get(category, [])
+    chunks: list[dict] = []
+    for path in paths:
+        try:
+            with open(path, encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    try:
+                        chunks.append(json.loads(line))
+                    except json.JSONDecodeError:
+                        continue
+        except FileNotFoundError:
+            continue
+    # Group by date, sort dates descending, take top N report dates
+    chunks.sort(key=lambda x: x.get("date", ""), reverse=True)
+    seen_dates: list[str] = []
+    for chunk in chunks:
+        d = chunk.get("date", "")
+        if d and d not in seen_dates:
+            seen_dates.append(d)
+    
+    entries = []
+    for report_date in seen_dates[:n_reports]:
+        date_chunks = [c for c in chunks if c.get("date") == report_date]
+        sections = []
+        for c in date_chunks:
+            section = c.get("section_title", "")
+            text = _clean_text(c.get("text"))
+            if text:
+                sections.append(f"[{section}] {text}" if section else text)
+        entries.append(f"{report_date}:\n" + "\n".join(sections))
+    return "\n---\n".join(entries) if entries else "No report text available."
+
+
 def build_system_message() -> str:
     return (
         "You are a quantitative freight strategist at a tier-1 commodity trading desk. "
@@ -610,76 +651,6 @@ def _backoff_sleep(
 
 
 # ------------------------ Provider calls ------------------------
-
-def gemini_available() -> bool:
-    return bool(GEMINI_API_KEY)
-
-
-def _call_gemini_once(prompt: str) -> str | None:
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {
-            "temperature": 0.25, 
-            "maxOutputTokens": 1200,
-            "response_mime_type": "application/json"
-        }
-    }
-    body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
-    headers = {
-        "Content-Type": "application/json",
-    }
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}"
-    req = urllib_request.Request(
-        url,
-        data=body,
-        headers=headers,
-        method="POST",
-    )
-    try:
-        with urllib_request.urlopen(req, timeout=150) as response:
-            raw = response.read().decode("utf-8", errors="replace")
-    except urllib_error.HTTPError as exc:
-        retry_after = exc.headers.get("Retry-After") if exc.headers else None
-        err_body = exc.read().decode("utf-8", errors="replace")
-        details = err_body or str(exc)
-        if retry_after:
-            details = f"{details} retry_after {retry_after}"
-        raise RuntimeError(f"Gemini HTTP {exc.code}: {details}") from exc
-    except urllib_error.URLError as exc:
-        raise RuntimeError(f"Gemini connection error: {exc}") from exc
-    try:
-        data = json.loads(raw)
-    except json.JSONDecodeError as exc:
-        raise RuntimeError(f"Gemini returned non-JSON payload: {raw[:200]}") from exc
-    candidates = data.get("candidates") or []
-    if not candidates:
-        return None
-    content = candidates[0].get("content") or {}
-    parts = content.get("parts") or []
-    if not parts:
-        return None
-    text = _clean_text(parts[0].get("text"))
-    return text or None
-
-
-def call_gemini_text(prompt: str, retries: int | None = None) -> str | None:
-    if not gemini_available():
-        return None
-    retries = retries or GEMINI_MAX_RETRIES
-    global _last_gemini_call_ts
-    for attempt in range(retries):
-        try:
-            _last_gemini_call_ts = _apply_interval(_last_gemini_call_ts, GEMINI_MIN_INTERVAL_SEC)
-            return _call_gemini_once(prompt)
-        except Exception as exc:
-            exc_text = str(exc)
-            if attempt < retries - 1:
-                _backoff_sleep(attempt, exc_text, GEMINI_BACKOFF_BASE_SEC, GEMINI_MAX_BACKOFF_SEC)
-            else:
-                print(f"[brief] Gemini failed: {exc_text}", file=sys.stderr)
-                return None
-    return None
-
 
 def ollama_available() -> bool:
     return bool(OLLAMA_BASE_URL and OLLAMA_MODEL)
