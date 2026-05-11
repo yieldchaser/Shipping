@@ -1221,13 +1221,34 @@ def _template_vessel_entry(
     }
 
 
-def _overlay_vessel(template_entry: dict, llm_entry: dict | None) -> dict:
+def _overlay_vessel(template_entry: dict, llm_entry: dict | None, pre_conf: str = "NEUTRAL") -> dict:
     result = dict(template_entry)
     if not isinstance(llm_entry, dict):
         return result
-    confluence = _clean_text(llm_entry.get("confluence_type")).upper()
-    if confluence in CONFLUENCE_TYPES:
-        result["confluence_type"] = confluence
+
+    # ── Confluence guard ────────────────────────────────────────────────────────
+    # Python's pre-computed confluence uses fundamentals+sentiment+momentum and is
+    # authoritative.  The LLM may *agree* with it or call NEUTRAL/DIVERGENCE, but
+    # it CANNOT flip DIVERGENCE→BULL_CONFLUENCE or DIVERGENCE→BEAR_CONFLUENCE.
+    # This prevents a small ollama model from hallucinating away a real divergence.
+    _OPPOSITION = {
+        "DIVERGENCE":      {"BULL_CONFLUENCE", "BEAR_CONFLUENCE"},
+        "BULL_CONFLUENCE": {"BEAR_CONFLUENCE"},
+        "BEAR_CONFLUENCE": {"BULL_CONFLUENCE"},
+    }
+    llm_conf = _clean_text(llm_entry.get("confluence_type")).upper()
+    if llm_conf in CONFLUENCE_TYPES:
+        blocked = _OPPOSITION.get(pre_conf, set())
+        if llm_conf in blocked:
+            print(
+                f"[brief] WARN: LLM confluence '{llm_conf}' contradicts "
+                f"pre-computed '{pre_conf}' — keeping Python verdict.",
+                file=sys.stderr,
+            )
+            # keep result["confluence_type"] = pre_conf (already set by template)
+        else:
+            result["confluence_type"] = llm_conf
+
     for key in ("confluence_note", "summary", "outlook", "watch"):
         text = _clean_text(llm_entry.get(key))
         if text:
@@ -1366,8 +1387,8 @@ def main() -> None:
     template_tanker = _template_vessel_entry("tanker", pre_tanker_conf, tanker_signals, snapshot, tanker_z)
 
     llm_vessel = (llm_payload or {}).get("vessel_classes", {})
-    dry_entry = _overlay_vessel(template_dry, llm_vessel.get("dry_bulk"))
-    tanker_entry = _overlay_vessel(template_tanker, llm_vessel.get("tanker"))
+    dry_entry = _overlay_vessel(template_dry, llm_vessel.get("dry_bulk"), pre_conf=pre_dry_conf)
+    tanker_entry = _overlay_vessel(template_tanker, llm_vessel.get("tanker"), pre_conf=pre_tanker_conf)
     tanker_entry = _ensure_tanker_segment_coverage(tanker_entry, snapshot)
 
     macro_note = _clean_text((llm_payload or {}).get("macro_note"))
