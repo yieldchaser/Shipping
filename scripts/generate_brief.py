@@ -506,9 +506,10 @@ def build_system_message() -> str:
         "'it should be noted', 'as mentioned', 'in conclusion', 'overall', 'in summary', "
         "'the data suggests', 'it appears', 'it seems', 'needless to say', 'showcasing', 'reflecting'.\n\n"
 
-        "RULE 6 — TRADE IDEAS must be surgical. Name: direction, specific vehicle (e.g. 'C5 FFA Sep26', "
-        "'TD3C swap', 'spot Capesize'), entry trigger or rate level, and the exit thesis in one sentence. "
-        "If the setup is unclear or risk/reward is poor, say so — do not fabricate a trade to fill the field.\n\n"
+        "RULE 6 — TRADE IDEAS ARE OPTIONAL, NOT MANDATORY. Generate a trade_idea ONLY when: "
+        "(a) quant and qual signals clearly agree, (b) a specific entry trigger or rate level exists, "
+        "AND (c) a concrete exit thesis can be articulated. If NOT all three are met, write: "
+        "'No high-conviction setup: [what would need to change]'. Never fabricate a trade to fill the field.\n\n"
 
         "RULE 7 — RISK NOTES must name the SPECIFIC event or data point that would invalidate the current thesis — "
         "not a generic 'macro uncertainty'. BAD: 'Risk of macro slowdown'. "
@@ -525,6 +526,16 @@ def build_system_message() -> str:
         "Name the specific macro driver currently active, its freight transmission mechanism, and the "
         "named upcoming data release or event that will confirm or refute it.\n\n"
 
+        "RULE 9B — GEOPOLITICAL INTELLIGENCE MANDATE: You are REQUIRED to scan the analyst report narratives "
+        "for any mention of active armed conflict, military escalation, sanctions regimes, supply route disruptions, "
+        "or port access restrictions. If ANY such event is found, you MUST: "
+        "(1) Name it explicitly by country/region in the macro_note — e.g. 'The Iran-Israel conflict', 'Taiwan Strait tensions', 'Russia Black Sea blockade'. "
+        "(2) Explain its SPECIFIC freight transmission mechanism — which routes, vessel types, and ton-mile impacts are affected. "
+        "(3) State whether it is currently bullish or bearish for the affected sector and why. "
+        "(4) Flag it in the relevant sector's risk_note or catalyst_watch with an explicit trigger that would confirm escalation or de-escalation. "
+        "If no geopolitical disruption is mentioned in the analyst reports, do not invent one. "
+        "But if it IS in the reports and you fail to surface it, you have failed the desk.\n\n"
+
         "RULE 10 — KEY SIGNALS: Aim for 6-8 signals. Cover: the headline index interpretation, "
         "the momentum character, the cross-segment spread story, at least one contrarian or fragility signal, "
         "and the analyst consensus alignment. Do NOT list fewer than 5 signals.\n\n"
@@ -536,6 +547,13 @@ def build_system_message() -> str:
         "RULE 12 — CONFIDENCE SCORE: 1.0 = perfect quant+qual convergence with no fragility flags, "
         "0.7 = strong alignment with minor caveats, 0.5 = mixed signals, "
         "0.3 = significant quant-qual divergence, 0.0 = direct contradiction.\n\n"
+
+        "RULE 13 — TRADE IDEAS ARE OPTIONAL, NOT MANDATORY. Only generate a trade_idea when ALL three "
+        "conditions are met: (a) quant and qual signals are clearly aligned, (b) there is an identifiable "
+        "entry trigger or rate level, and (c) a concrete exit thesis exists. If these conditions are NOT met "
+        "— e.g. signals are mixed, geopolitical uncertainty is high, or the setup is unclear — write exactly: "
+        "'No high-conviction setup: [1 sentence explaining what would need to change to generate a trade]'. "
+        "Do NOT fabricate a trade to fill the field.\n\n"
 
         "OUTPUT: Respond ONLY with a single valid JSON object. No preamble, no markdown fences, no explanation outside the JSON."
     )
@@ -603,7 +621,7 @@ Return ONLY valid JSON matching this schema:
       "summary": "<4 sentences of flowing analysis: S1=where the market is with historical context; S2=momentum characterization using Z+ROC to explain the rate-of-change story; S3=analyst consensus synthesis noting any quant-qual divergence; S4=actionable conclusion on positioning over the next 2-4 weeks>",
       "key_signals": ["<analytical sentence with embedded number explaining WHY it matters — NOT a raw data label>", "...up to 8 total"],
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_TANKER|SHORT_SPREAD_VS_TANKER>",
-      "trade_idea": "<1 sentence: direction + specific vehicle (route/FFA/swap) + entry trigger or rate level + exit thesis>",
+      "trade_idea": "<IF signals clearly aligned: '1 sentence with direction + specific vehicle + entry trigger + exit thesis'. IF NOT clearly aligned or geopolitical uncertainty is elevated: 'No high-conviction setup: [what would need to change]'>",
       "outlook": "<1 sentence naming the 2-4 week directional thesis with the key variable that could change it>",
       "catalyst_watch": "<1 sentence naming 2-3 specific dated events or seasonal inflections that could shift the picture>",
       "risk_note": "<1 sentence naming the single biggest tail risk and the specific data point or event that would confirm it>"
@@ -616,7 +634,7 @@ Return ONLY valid JSON matching this schema:
       "summary": "<4 sentences flowing analysis — must address clean/dirty split explicitly if Z-spreads diverge>",
       "key_signals": ["<analytical sentence with embedded number>", "...up to 8 total"],
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_DRY|SHORT_SPREAD_VS_DRY>",
-      "trade_idea": "<1 sentence: direction + specific vehicle + entry trigger + exit thesis>",
+      "trade_idea": "<IF signals clearly aligned: '1 sentence with direction + specific vehicle + entry trigger + exit thesis'. IF NOT: 'No high-conviction setup: [what would need to change]'>",
       "outlook": "<1 sentence: 2-4 week directional thesis with the SPECIFIC swing variable that could change it>",
       "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC upcoming events with approximate dates — e.g. 'China May customs data (~June 8), OPEC+ meeting (June 1), and Atlantic hurricane season onset (June 1) are the three near-term catalysts'>",
       "risk_note": "<1 sentence naming a SPECIFIC data print or event that would invalidate the thesis — e.g. 'A Chinese iron ore import print below 95mt would signal demand destruction and break the BDI expansion case'>"
@@ -627,7 +645,7 @@ Return ONLY valid JSON matching this schema:
     "dominant_driver": "<1 sentence naming the single most consequential macro force for BOTH sectors today — be specific, not generic>",
     "positioning_recommendation": "<1 sentence: specific cross-sector trade with named vehicles, entry rationale, and exit trigger>"
   }},
-  "macro_note": "<2 sentences of event-specific analysis: S1 names the specific macro driver active TODAY (e.g. China steel restocking cycle, OPEC+ production decision, US port congestion) and explains its direct freight transmission mechanism with supporting data; S2 names the SPECIFIC upcoming data release or event (with approximate date) that will confirm or refute the current freight thesis — no generic 'geopolitical uncertainty' or 'interest rate' boilerplate>"
+  "macro_note": "<2 sentences: S1 — IF analyst reports mention any active armed conflict, sanctions, or supply route disruption, NAME IT EXPLICITLY (e.g. 'The Iran-Israel escalation is rerouting VLCC traffic away from the Strait of Hormuz') then explain its freight transmission mechanism; ELSE name the specific macro driver active today and its direct freight impact with supporting data. S2 — name the SPECIFIC upcoming data release or event (with approximate date) that will either confirm or invalidate the current freight thesis — no generic boilerplate>"
 }}"""
 
 
