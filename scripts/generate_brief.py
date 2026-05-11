@@ -51,6 +51,11 @@ WIKI_EXCERPTS = {
 
 CONFLUENCE_TYPES = {"BULL_CONFLUENCE", "BEAR_CONFLUENCE", "DIVERGENCE", "NEUTRAL"}
 RECENT_REPORTS = 12
+BALTIC_REPORTS = 8  # number of weekly Baltic Exchange reports to feed into the brief
+
+# Baltic Exchange weekly HTML report directories
+BALTIC_DRY_DIR = ROOT / "reports" / "baltic" / "dry"
+BALTIC_TANKER_DIR = ROOT / "reports" / "baltic" / "tanker"
 
 
 OLLAMA_API_KEY = os.environ.get("OLLAMA_API_KEY", "").strip()
@@ -457,6 +462,121 @@ def load_recent_report_text(category: str, n_reports: int = RECENT_REPORTS) -> s
     return "\n---\n".join(entries) if entries else "No report text available."
 
 
+def _strip_html(html: str) -> str:
+    """Minimal stdlib HTML stripper — removes style/script blocks then all tags."""
+    text = re.sub(r"<(style|script)[^>]*>.*?</\1>", " ", html, flags=re.DOTALL | re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"&nbsp;", " ", text)
+    text = re.sub(r"&amp;", "&", text)
+    text = re.sub(r"&lt;", "<", text)
+    text = re.sub(r"&gt;", ">", text)
+    text = re.sub(r"[ \t]{2,}", " ", text)
+    return text.strip()
+
+
+# Boilerplate phrases to skip when extracting Baltic paragraph text
+_BALTIC_SKIP_PHRASES = (
+    "this site uses cookies",
+    "back to all",
+    "previous",
+    "next",
+    "balticexchange.com",
+    "http://",
+    "https://",
+)
+
+
+def load_baltic_report_text(sector: str, n_reports: int = BALTIC_REPORTS) -> str:
+    """Load the N most recent Baltic Exchange weekly HTML reports for a sector.
+
+    Args:
+        sector: "dry" or "tanker"
+        n_reports: how many weekly reports to include
+
+    Returns:
+        Formatted string with extracted narrative paragraphs from each report.
+        Vessel-class sections (Capesize, Panamax, etc.) are preserved.
+        Each paragraph capped at 400 chars to control token budget.
+        Approximate token cost: ~350 tokens per report × 8 = ~2,800 per sector.
+    """
+    base_dir = BALTIC_DRY_DIR if sector == "dry" else BALTIC_TANKER_DIR
+    if not base_dir.exists():
+        return "No Baltic Exchange reports available."
+
+    # Collect all HTML files across all year subdirectories, prefer dated prefix over undated.
+    # Key = (year, week_number) so week-19/2026 and week-19/2025 are separate entries.
+    key_to_file: dict = {}
+    for html_file in sorted(base_dir.rglob("*.html")):
+        name = html_file.name
+        m_week = re.search(r"week-(\d+)", name)
+        m_year = re.search(r"(\d{4})", name)
+        if not m_week or not m_year:
+            continue
+        week = int(m_week.group(1))
+        year = int(m_year.group(1))
+        key = (year, week)
+        is_dated = bool(re.match(r"\d{4}-\d{2}-\d{2}_", name))
+        existing = key_to_file.get(key)
+        if existing is None or (is_dated and not existing[0]):
+            key_to_file[key] = (is_dated, html_file)
+
+    # Sort by (year DESC, week DESC) — most recent week first across all years
+    sorted_files = sorted(key_to_file.items(), key=lambda x: x[0], reverse=True)
+    selected = [path for _, (_, path) in sorted_files[:n_reports]]
+
+    entries = []
+    for html_path in selected:
+        try:
+            raw_html = html_path.read_text(encoding="utf-8", errors="replace")
+        except OSError:
+            continue
+
+        # Extract date from filename (prefer dated format) or from meta tag
+        date_m = re.match(r"(\d{4}-\d{2}-\d{2})_", html_path.name)
+        if date_m:
+            report_date = date_m.group(1)
+        else:
+            # Try to find it in the HTML
+            date_meta = re.search(r"Date:\s*(\d{1,2}\s+\w+\s+\d{4})", raw_html)
+            report_date = date_meta.group(1) if date_meta else html_path.stem[:7]
+
+        # Split HTML on paragraph boundaries BEFORE stripping tags.
+        # Baltic HTML packs everything onto ~2 lines; </p> is the reliable separator.
+        vessel_cls_list = [
+            "Capesize", "Panamax", "Ultramax/Supramax", "Ultramax", "Supramax",
+            "Handysize", "VLCC", "Suezmax", "Aframax", "LR2", "LR1", "MR",
+            "Clean", "Dirty",
+        ]
+        css_skip = ("box-sizing", "font-family", "font-size", "border-collapse")
+        segments = re.split(r"</p>", raw_html)
+        sections: dict[str, str] = {}  # vessel_class -> first narrative paragraph
+        current_class: str | None = None
+        for seg in segments:
+            # Strip tags and decode entities
+            plain = re.sub(r"<[^>]+>", " ", seg)
+            plain = re.sub(r"&[a-z#\d]+;", " ", plain)
+            plain = re.sub(r"\s+", " ", plain).strip()
+            if not plain or any(s in plain.lower() for s in css_skip):
+                continue
+            # Detect vessel-class heading: segment is short AND contains a known class name
+            heading_found: str | None = None
+            if len(plain) < 120:
+                for vc in vessel_cls_list:
+                    if vc in plain:
+                        heading_found = vc
+                        break
+            if heading_found:
+                current_class = heading_found
+            elif current_class and len(plain) > 80 and current_class not in sections:
+                sections[current_class] = plain[:400]
+
+        if sections:
+            entries.append(f"{report_date} (Baltic Weekly):\n"
+                           + "\n".join(f"[{vc}] {txt}" for vc, txt in sections.items()))
+
+    return "\n---\n".join(entries) if entries else "No Baltic Exchange reports available."
+
+
 def build_system_message() -> str:
     return (
         "You are the head freight strategist at a tier-1 commodity trading desk — the most respected and feared analyst on the floor. "
@@ -467,6 +587,14 @@ def build_system_message() -> str:
         "YOUR VOICE: Write like the best sell-side analyst in the world briefing the trading floor — "
         "authoritative, opinionated, and surgically precise. Numbers support the argument; they do not replace it. "
         "Every sentence must carry a distinct analytical insight that could not be gleaned from the raw data table alone.\n\n"
+
+        "TWO-SOURCE INTELLIGENCE: You now have TWO independent report sources: "
+        "(1) BREAKWAVE ADVISORS — strategic/fundamental analysis with sentiment signals. "
+        "(2) BALTIC EXCHANGE WEEKLY — granular vessel-class narratives (Capesize, Panamax, VLCC, etc.) with specific fixture rates and market colour. "
+        "Cross-reference these sources. When both agree, state the confluence explicitly. "
+        "When they diverge, name the tension and state which you weight more heavily and why. "
+        "The Baltic vessel-class colour (e.g. 'C5 pushed into the mid-$15s', 'Panamax P5TC rose to $20,099') "
+        "is primary evidence — use these specific figures in your analysis.\n\n"
 
         "CONTRARIAN INTELLIGENCE MANDATE: You are REQUIRED to actively look for what the consensus is missing. "
         "If every signal is bullish, ask: what could break this? If momentum is extreme (Z>2.5 or Z<-2.5), "
@@ -569,6 +697,8 @@ def build_user_message(
     dry_report_text: str = "",
     tanker_report_text: str = "",
     spreads: dict | None = None,
+    baltic_dry_text: str = "",
+    baltic_tanker_text: str = "",
 ) -> str:
     today = date.today().isoformat()
     analytics = _build_analytics_context(snapshot, spreads or {})
@@ -586,11 +716,17 @@ RECENT BREAKWAVE DRY BULK ANALYST SIGNALS (newest first — weight: 0.85^i decay
 RECENT BREAKWAVE TANKER ANALYST SIGNALS (newest first — weight: 0.85^i decay):
 {tanker_block}
 
-ANALYST REPORT NARRATIVES — DRY BULK (last {n_dry} reports, newest first):
+ANALYST REPORT NARRATIVES — DRY BULK (last {n_dry} Breakwave reports, newest first):
 {dry_report_text}
 
-ANALYST REPORT NARRATIVES — TANKERS (last {n_tank} reports, newest first):
+ANALYST REPORT NARRATIVES — TANKERS (last {n_tank} Breakwave reports, newest first):
 {tanker_report_text}
+
+BALTIC EXCHANGE WEEKLY REPORTS — DRY BULK (last {BALTIC_REPORTS} weeks, vessel-class narrative, newest first):
+{baltic_dry_text or 'No Baltic reports available.'}
+
+BALTIC EXCHANGE WEEKLY REPORTS — TANKERS (last {BALTIC_REPORTS} weeks, vessel-class narrative, newest first):
+{baltic_tanker_text or 'No Baltic reports available.'}
 
 STRUCTURAL MARKET CONTEXT:
 [Dry Bulk Market]
@@ -1119,9 +1255,14 @@ def main() -> None:
     wiki_cape = wiki_excerpt(WIKI_EXCERPTS["capesize"])
 
     print(f"[brief] Provider order: {','.join(LLM_PROVIDER_ORDER)}")
-    print("[brief] Loading recent report narratives...")
+    print("[brief] Loading recent Breakwave report narratives...")
     dry_report_text = load_recent_report_text("drybulk")
     tanker_report_text = load_recent_report_text("tankers")
+
+    print(f"[brief] Loading Baltic Exchange weekly reports (last {BALTIC_REPORTS} weeks)...")
+    baltic_dry_text = load_baltic_report_text("dry")
+    baltic_tanker_text = load_baltic_report_text("tanker")
+
     spreads = compute_spreads(snapshot)
     system_msg = build_system_message()
     user_msg = build_user_message(
@@ -1129,6 +1270,8 @@ def main() -> None:
         wiki_dry, wiki_tanker, wiki_cape,
         dry_report_text, tanker_report_text,
         spreads=spreads,
+        baltic_dry_text=baltic_dry_text,
+        baltic_tanker_text=baltic_tanker_text,
     )
     messages = [
         {"role": "system", "content": system_msg},
