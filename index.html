@@ -3675,18 +3675,21 @@
           <div class="qa-key-row">
             <span class="qa-key-label">Provider</span>
             <select id="qaProvider" class="qa-key-input qa-provider-select" onchange="onQAProviderChange()">
-              <option value="gemini">Gemini</option>
               <option value="groq">Groq</option>
-              <option value="ollama">Ollama</option>
+              <option value="openrouter">OpenRouter (free)</option>
+              <option value="ollama">Ollama (local)</option>
               <option value="nim">NIM (NVIDIA)</option>
             </select>
             <span id="qaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
             <span class="qa-key-label" id="qaApiKeyLabel">Gemini Key</span>
             <input type="password" id="qaApiKey" class="qa-key-input" placeholder="AIza... (stored only in localStorage)" />
             <span class="qa-key-label">Model</span>
-            <input type="text" id="qaModel" class="qa-key-input" placeholder="gemini-1.5-flash" />
+            <input type="text" id="qaModel" class="qa-key-input" placeholder="llama-3.3-70b-versatile" list="qaModelSuggestions" />
+            <datalist id="qaModelSuggestions"></datalist>
+            <button class="qa-key-btn" id="qaRefreshModelsBtn" style="display:none;padding:3px 8px;" onclick="_refreshOllamaModels()" title="Detect local Ollama models">&#x21BB;</button>
             <span class="qa-key-label" id="qaBaseUrlLabel" style="display:none;">Base URL</span>
             <input type="text" id="qaBaseUrl" class="qa-key-input" style="display:none;" placeholder="http://localhost:11434/api" />
+            <div id="qaNimCorsWarning" style="display:none;color:var(--yellow);font-size:11px;padding:4px 8px;border:1px solid var(--yellow);border-radius:4px;margin-top:4px;">&#x26A0;&#xFE0F; NIM blocks direct browser calls (no CORS). Set Base URL to a local CORS proxy.</div>
             <button class="qa-key-btn" onclick="saveQASettings()">Save</button>
             <span id="qaKeyStatus" style="font-size:11px;color:var(--green);"></span>
           </div>
@@ -10782,28 +10785,34 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     const QA_CHUNK_FILES = {
       breakwave: {
-        recent: ['knowledge/chunks/breakwave_drybulk_2026.jsonl', 'knowledge/chunks/breakwave_insights_insights_2026.jsonl'],
-        historical: ['knowledge/chunks/breakwave_drybulk.jsonl', 'knowledge/chunks/breakwave_tankers.jsonl', 'knowledge/chunks/breakwave_insights_insights_2025.jsonl', 'knowledge/chunks/breakwave_insights_insights_2024.jsonl', 'knowledge/chunks/breakwave_insights_insights_2023.jsonl'],
+        recent:         ['knowledge/chunks/breakwave_drybulk_2026.jsonl', 'knowledge/chunks/breakwave_tankers_2026.jsonl', 'knowledge/chunks/breakwave_insights_insights_2026.jsonl'],
+        historical:     ['knowledge/chunks/breakwave_drybulk.jsonl', 'knowledge/chunks/breakwave_tankers.jsonl', 'knowledge/chunks/breakwave_insights_insights_2025.jsonl', 'knowledge/chunks/breakwave_insights_insights_2024.jsonl', 'knowledge/chunks/breakwave_insights_insights_2023.jsonl', 'knowledge/chunks/breakwave_insights_insights_2022.jsonl'],
+        deep_historical:['knowledge/chunks/breakwave_insights_insights.jsonl'],
       },
       baltic: {
-        recent: ['knowledge/chunks/baltic_dry_2026.jsonl', 'knowledge/chunks/baltic_tanker_2026.jsonl'],
-        historical: ['knowledge/chunks/baltic_dry.jsonl', 'knowledge/chunks/baltic_tanker.jsonl'],
+        recent:         ['knowledge/chunks/baltic_dry_2026.jsonl', 'knowledge/chunks/baltic_tanker_2026.jsonl', 'knowledge/chunks/baltic_container_2026.jsonl', 'knowledge/chunks/baltic_gas_2026.jsonl', 'knowledge/chunks/baltic_ningbo_2026.jsonl'],
+        historical:     ['knowledge/chunks/baltic_dry.jsonl', 'knowledge/chunks/baltic_tanker.jsonl', 'knowledge/chunks/baltic_container.jsonl', 'knowledge/chunks/baltic_gas.jsonl', 'knowledge/chunks/baltic_ningbo.jsonl'],
+        deep_historical:[],
       },
       hellenic: {
-        recent: ['knowledge/chunks/hellenic_dry_charter_2026.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2026.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2026.jsonl'],
-        historical: ['knowledge/chunks/hellenic_dry_charter_2025.jsonl', 'knowledge/chunks/hellenic_dry_charter_2024.jsonl', 'knowledge/chunks/hellenic_dry_charter_2023.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2025.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2024.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2023.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2025.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2024.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2023.jsonl'],
+        recent:         ['knowledge/chunks/hellenic_dry_charter_2026.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2026.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2026.jsonl'],
+        historical:     ['knowledge/chunks/hellenic_dry_charter_2025.jsonl', 'knowledge/chunks/hellenic_dry_charter_2024.jsonl', 'knowledge/chunks/hellenic_dry_charter_2023.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2025.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2024.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2023.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2025.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2024.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2023.jsonl'],
+        deep_historical:['knowledge/chunks/hellenic_dry_charter_2022.jsonl', 'knowledge/chunks/hellenic_dry_charter_2021.jsonl', 'knowledge/chunks/hellenic_dry_charter_2014.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2022.jsonl', 'knowledge/chunks/hellenic_tanker_charter_2021.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2022.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2021.jsonl', 'knowledge/chunks/hellenic_vessel_valuations_2014.jsonl'],
       },
       ironOre: {
-        recent: ['knowledge/chunks/hellenic_iron_ore_2026.jsonl'],
-        historical: ['knowledge/chunks/hellenic_iron_ore_2025.jsonl', 'knowledge/chunks/hellenic_iron_ore_2024.jsonl', 'knowledge/chunks/hellenic_iron_ore_2023.jsonl'],
+        recent:         ['knowledge/chunks/hellenic_iron_ore_2026.jsonl'],
+        historical:     ['knowledge/chunks/hellenic_iron_ore_2025.jsonl', 'knowledge/chunks/hellenic_iron_ore_2024.jsonl', 'knowledge/chunks/hellenic_iron_ore_2023.jsonl'],
+        deep_historical:['knowledge/chunks/hellenic_iron_ore_2022.jsonl', 'knowledge/chunks/hellenic_iron_ore_2021.jsonl', 'knowledge/chunks/hellenic_iron_ore_2018.jsonl', 'knowledge/chunks/hellenic_iron_ore_2014.jsonl'],
       },
       shipbuilding: {
-        recent: ['knowledge/chunks/hellenic_shipbuilding_2026.jsonl', 'knowledge/chunks/hellenic_demolition_2026.jsonl'],
-        historical: ['knowledge/chunks/hellenic_shipbuilding_2025.jsonl', 'knowledge/chunks/hellenic_demolition_2025.jsonl'],
+        recent:         ['knowledge/chunks/hellenic_shipbuilding_2026.jsonl', 'knowledge/chunks/hellenic_demolition_2026.jsonl'],
+        historical:     ['knowledge/chunks/hellenic_shipbuilding_2025.jsonl', 'knowledge/chunks/hellenic_demolition_2025.jsonl', 'knowledge/chunks/hellenic_shipbuilding_2024.jsonl', 'knowledge/chunks/hellenic_demolition_2024.jsonl', 'knowledge/chunks/hellenic_shipbuilding_2023.jsonl', 'knowledge/chunks/hellenic_demolition_2023.jsonl'],
+        deep_historical:['knowledge/chunks/hellenic_shipbuilding_2022.jsonl', 'knowledge/chunks/hellenic_shipbuilding_2021.jsonl', 'knowledge/chunks/hellenic_shipbuilding_2014.jsonl', 'knowledge/chunks/hellenic_demolition_2022.jsonl', 'knowledge/chunks/hellenic_demolition_2021.jsonl', 'knowledge/chunks/hellenic_demolition_2014.jsonl'],
       },
       books: {
-        recent: ['knowledge/chunks/books.jsonl'],
-        historical: [],
+        recent:         ['knowledge/chunks/books.jsonl'],
+        historical:     [],
+        deep_historical:[],
       },
     };
 
@@ -11453,36 +11462,29 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // Q&A Assistant
 
     const QA_PROVIDER_CONFIG = {
-      gemini: { label: 'Gemini', keyStorage: 'qa_key_gemini', modelStorage: 'qa_model_gemini', defaultModel: 'gemini-2.5-flash', keyLabel: 'Gemini Key', keyPlaceholder: 'AIza... (stored only in localStorage)', hasBaseUrl: false, maxContextTokens: 100000 },
-      groq: { label: 'Groq', keyStorage: 'qa_key_groq', modelStorage: 'qa_model_groq', defaultModel: 'llama-3.3-70b-versatile', keyLabel: 'Groq Key', keyPlaceholder: 'gsk_... (stored only in localStorage)', hasBaseUrl: false, maxContextTokens: 5500 },
-      ollama: { label: 'Ollama (local only)', keyStorage: 'qa_key_ollama', modelStorage: 'qa_model_ollama', defaultModel: '', keyLabel: 'Ollama Key (optional)', keyPlaceholder: 'Bearer token or leave blank', hasBaseUrl: true, baseUrlStorage: 'qa_baseurl_ollama', defaultBaseUrl: 'http://localhost:11434/api', keyOptional: true, maxContextTokens: 8000, localOnly: true },
-      nim: { label: 'NIM (NVIDIA)', keyStorage: 'qa_key_nim', modelStorage: 'qa_model_nim', defaultModel: '', keyLabel: 'NIM Key', keyPlaceholder: 'nvapi-... (stored only in localStorage)', hasBaseUrl: true, baseUrlStorage: 'qa_baseurl_nim', defaultBaseUrl: 'https://integrate.api.nvidia.com/v1', keyOptional: false, maxContextTokens: 8000 },
+      groq:        { label: 'Groq',             keyStorage: 'qa_key_groq',        modelStorage: 'qa_model_groq',        defaultModel: 'llama-3.3-70b-versatile',                   keyLabel: 'Groq Key',        keyPlaceholder: 'gsk_... (stored only in localStorage)',         hasBaseUrl: false, maxContextTokens: 128000 },
+      openrouter:  { label: 'OpenRouter',       keyStorage: 'qa_key_openrouter',  modelStorage: 'qa_model_openrouter',  defaultModel: 'meta-llama/llama-3.3-70b-instruct:free',    keyLabel: 'OpenRouter Key',  keyPlaceholder: 'sk-or-... (free at openrouter.ai)',            hasBaseUrl: false, maxContextTokens: 128000 },
+      ollama:      { label: 'Ollama (local)',   keyStorage: 'qa_key_ollama',      modelStorage: 'qa_model_ollama',      defaultModel: 'llama3.2:latest',                           keyLabel: 'Ollama Key (opt)', keyPlaceholder: 'Bearer token or leave blank',                  hasBaseUrl: true,  baseUrlStorage: 'qa_baseurl_ollama', defaultBaseUrl: 'http://localhost:11434/api', keyOptional: true, maxContextTokens: 128000, localOnly: true },
+      nim:         { label: 'NIM (NVIDIA)',     keyStorage: 'qa_key_nim',         modelStorage: 'qa_model_nim',         defaultModel: 'meta/llama-3.3-70b-instruct',               keyLabel: 'NIM Key',         keyPlaceholder: 'nvapi-... (stored only in localStorage)',      hasBaseUrl: true,  baseUrlStorage: 'qa_baseurl_nim',    defaultBaseUrl: 'https://integrate.api.nvidia.com/v1',       keyOptional: false, maxContextTokens: 128000, corsWarning: true },
     };
 
     function _providerConfig(provider) {
-      return QA_PROVIDER_CONFIG[provider] || QA_PROVIDER_CONFIG.gemini;
+      return QA_PROVIDER_CONFIG[provider] || QA_PROVIDER_CONFIG.groq;
     }
 
     function _currentQAProvider() {
-      const selected = (document.getElementById('qaProvider')?.value || localStorage.getItem('qa_provider') || 'gemini').trim().toLowerCase();
-      return QA_PROVIDER_CONFIG[selected] ? selected : 'gemini';
+      const selected = (document.getElementById('qaProvider')?.value || localStorage.getItem('qa_provider') || 'groq').trim().toLowerCase();
+      return QA_PROVIDER_CONFIG[selected] ? selected : 'groq';
     }
 
     function _loadProviderKey(provider) {
       const cfg = _providerConfig(provider);
-      if (provider === 'gemini') {
-        return localStorage.getItem(cfg.keyStorage) || localStorage.getItem('gemini_qa_key') || '';
-      }
       return localStorage.getItem(cfg.keyStorage) || '';
     }
 
     function _saveProviderKey(provider, value) {
       const cfg = _providerConfig(provider);
       localStorage.setItem(cfg.keyStorage, value);
-      if (provider === 'gemini') {
-        // Keep legacy key name for backward compatibility.
-        localStorage.setItem('gemini_qa_key', value);
-      }
     }
 
     function _loadProviderModel(provider) {
@@ -11526,6 +11528,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const statusEl = document.getElementById('qaKeyStatus');
       const baseUrlEl = document.getElementById('qaBaseUrl');
       const baseUrlLabel = document.getElementById('qaBaseUrlLabel');
+      const corsWarn = document.getElementById('qaNimCorsWarning');
+      const refreshBtn = document.getElementById('qaRefreshModelsBtn');
       if (labelEl) labelEl.textContent = cfg.keyLabel;
       if (baseUrlEl && baseUrlLabel) {
         const showBase = cfg.hasBaseUrl || false;
@@ -11542,6 +11546,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         modelEl.placeholder = cfg.defaultModel;
       }
       if (statusEl) statusEl.textContent = '';
+      // NIM CORS warning
+      if (corsWarn) corsWarn.style.display = cfg.corsWarning ? '' : 'none';
+      // Ollama model refresh button
+      if (refreshBtn) refreshBtn.style.display = provider === 'ollama' ? '' : 'none';
+      // Auto-load Ollama models when switching to Ollama
+      if (provider === 'ollama') _refreshOllamaModels();
       // Update provider status dot
       const dotEl = document.getElementById('qaProviderStatus');
       if (dotEl) {
@@ -11562,6 +11572,28 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       localStorage.setItem('qa_provider', provider);
       _syncQAProviderUI();
     }
+
+    async function _ollamaFetchModels(baseUrl) {
+      try {
+        const res = await fetch(baseUrl + '/api/tags', { signal: AbortSignal.timeout(3000) });
+        if (!res.ok) return [];
+        const data = await res.json();
+        return (data.models || []).map(m => m.name).filter(Boolean);
+      } catch { return []; }
+    }
+
+    async function _refreshOllamaModels() {
+      const baseUrl = (document.getElementById('qaBaseUrl')?.value || localStorage.getItem('qa_baseurl_ollama') || 'http://localhost:11434/api').replace(/\/+$/, '');
+      const models = await _ollamaFetchModels(baseUrl);
+      const dl = document.getElementById('qaModelSuggestions');
+      if (dl) {
+        dl.innerHTML = models.map(m => `<option value="${m}">`).join('');
+      }
+      const modelEl = document.getElementById('qaModel');
+      if (modelEl && models.length && !modelEl.value) modelEl.value = models[0];
+    }
+
+
 
     function _initQAPanel() {
       const providerEl = document.getElementById('qaProvider');
@@ -11681,6 +11713,25 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     async function _runProviderLLM(provider, apiKey, model, prompt, onToken) {
+      // ── Shared SSE reader for OpenAI-compatible streams ───────────────────
+      async function _readSSE(res, onTok) {
+        const reader = res.body.getReader();
+        const decoder = new TextDecoder();
+        let full = '';
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+          const lines = decoder.decode(value, { stream: true }).split('\n').filter(l => l.startsWith('data: '));
+          for (const line of lines) {
+            const payload = line.slice(6).trim();
+            if (payload === '[DONE]') continue;
+            try { const obj = JSON.parse(payload); full += (obj?.choices?.[0]?.delta?.content || ''); onTok(full); } catch {}
+          }
+        }
+        return full || '(no response)';
+      }
+
+      // ── Ollama ────────────────────────────────────────────────────────────
       if (provider === 'ollama') {
         const baseUrl = localStorage.getItem('qa_baseurl_ollama') || 'http://localhost:11434/api';
         const headers = { 'Content-Type': 'application/json' };
@@ -11688,7 +11739,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const doStream = !!onToken;
         const res = await fetch(baseUrl + '/chat', {
           method: 'POST', headers,
-          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], stream: doStream }),
+          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], stream: doStream, options: { num_ctx: 131072 } }),
         });
         if (!res.ok) { const err = await res.json().catch(() => ({})); throw new Error(err?.error || 'Ollama HTTP ' + res.status); }
         if (doStream && res.body) {
@@ -11708,85 +11759,67 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const data = await res.json();
         return data?.message?.content || '(no response)';
       }
-      if (provider === 'nim') {
-        const baseUrl = localStorage.getItem('qa_baseurl_nim') || 'https://integrate.api.nvidia.com/v1';
-        const res = await fetch(baseUrl + '/chat/completions', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + apiKey },
-          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 1024 }),
-        });
-        if (!res.ok) { const err = await res.json().catch(() => ({})); throw new Error(err?.error?.message || 'NIM HTTP ' + res.status); }
-        const data = await res.json();
-        return data?.choices?.[0]?.message?.content || '(no response)';
-      }
+
+      // ── Groq ──────────────────────────────────────────────────────────────
       if (provider === 'groq') {
         const doStream = !!onToken;
         const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
           method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'Authorization': `Bearer ${apiKey}`,
-          },
-          body: JSON.stringify({
-            model,
-            messages: [{ role: 'user', content: prompt }],
-            temperature: 0.2,
-            max_tokens: 1024,
-            stream: doStream,
-          }),
+          headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
+          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
         });
-        if (!res.ok) {
-          const err = await res.json().catch(() => ({}));
-          throw new Error(err?.error?.message || `Groq HTTP ${res.status}`);
-        }
-        if (doStream && res.body) {
-          const reader = res.body.getReader();
-          const decoder = new TextDecoder();
-          let full = '';
-          while (true) {
-            const { done, value } = await reader.read();
-            if (done) break;
-            const lines = decoder.decode(value, { stream: true }).split('\n').filter(l => l.startsWith('data: '));
-            for (const line of lines) {
-              const payload = line.slice(6).trim();
-              if (payload === '[DONE]') continue;
-              try { const obj = JSON.parse(payload); full += (obj?.choices?.[0]?.delta?.content || ''); onToken(full); } catch {}
-            }
-          }
-          return full || '(no response)';
-        }
+        if (!res.ok) { const err = await res.json().catch(() => ({})); throw new Error(err?.error?.message || `Groq HTTP ${res.status}`); }
+        if (doStream && res.body) return _readSSE(res, onToken);
         const data = await res.json();
         return data?.choices?.[0]?.message?.content || '(no response)';
       }
 
-      const safeModel = encodeURIComponent(model);
-      const res = await fetch(
-        `https://generativelanguage.googleapis.com/v1beta/models/${safeModel}:generateContent?key=${apiKey}`,
-        {
+      // ── OpenRouter ────────────────────────────────────────────────────────
+      if (provider === 'openrouter') {
+        const doStream = !!onToken;
+        const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
           method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            contents: [{ parts: [{ text: prompt }] }],
-            generationConfig: { temperature: 0.2, maxOutputTokens: 1024 },
-          }),
-        }
-      );
-      if (!res.ok) {
-        const err = await res.json().catch(() => ({}));
-        throw new Error(err?.error?.message || `Gemini HTTP ${res.status}`);
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${apiKey}`,
+            'HTTP-Referer': 'https://yieldchaser.github.io/Shipping',
+            'X-Title': 'Shipping Intelligence Dashboard',
+          },
+          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
+        });
+        if (!res.ok) { const err = await res.json().catch(() => ({})); throw new Error(err?.error?.message || `OpenRouter HTTP ${res.status}`); }
+        if (doStream && res.body) return _readSSE(res, onToken);
+        const data = await res.json();
+        return data?.choices?.[0]?.message?.content || '(no response)';
       }
-      const data = await res.json();
-      return data?.candidates?.[0]?.content?.parts?.[0]?.text || '(no response)';
+
+      // ── NIM (NVIDIA) — note: requires CORS proxy for browser use ──────────
+      if (provider === 'nim') {
+        const baseUrl = localStorage.getItem('qa_baseurl_nim') || 'https://integrate.api.nvidia.com/v1';
+        const doStream = !!onToken;
+        const res = await fetch(baseUrl + '/chat/completions', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + apiKey },
+          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
+        });
+        if (!res.ok) { const err = await res.json().catch(() => ({})); throw new Error(err?.error?.message || 'NIM HTTP ' + res.status); }
+        if (doStream && res.body) return _readSSE(res, onToken);
+        const data = await res.json();
+        return data?.choices?.[0]?.message?.content || '(no response)';
+      }
+
+      throw new Error('Unknown provider: ' + provider);
     }
 
     function _buildFallbackOrder(primary) {
-      const all = ['groq', 'gemini', 'ollama', 'nim'];
+      const all = ['groq', 'openrouter', 'ollama', 'nim'];
       const order = [primary, ...all.filter(p => p !== primary)];
       return order.filter(p => {
         const cfg = _providerConfig(p);
         return (_loadProviderKey(p) || cfg.keyOptional) && (_loadProviderModel(p) || cfg.defaultModel);
       });
     }
+
 
 
     function _formatQAAnswer(text) {
@@ -11862,21 +11895,29 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             ...(_isChecked('qaSrcShipbuilding') ? (QA_CHUNK_FILES.shipbuilding[tier] || []) : []),
             ...(_isChecked('qaSrcBooks')     ? (QA_CHUNK_FILES.books[tier]     || []) : []),
           ];
+          // Determine if the leading provider has large (128K) context
+          const leadCfg = _providerConfig(fallbackOrder[0] || provider);
+          const isLargeCtx = (leadCfg.maxContextTokens || 0) >= 50000;
+          const maxTopChunks = isLargeCtx ? 40 : 10;
+
           statEl.textContent = 'Loading recent data...';
-          const recentUrls = _getUrls('recent');
-          let allChunks = (await Promise.all(recentUrls.map(_loadChunks))).flat();
-          let avgCLen = allChunks.reduce((s, c) => s + _tokenize(c.text).length, 0) / (allChunks.length || 1);
-          topChunks = _scoreItems(allChunks, terms, c => c.text + ' ' + (c.keywords || []).join(' '), avgCLen)
-            .slice(0, 10).map(x => x.item);
-          if (topChunks.length < 5) {
-            statEl.textContent = 'Expanding to historical data...';
-            const histUrls = _getUrls('historical');
-            const histChunks = (await Promise.all(histUrls.map(_loadChunks))).flat();
-            allChunks = [...allChunks, ...histChunks];
-            avgCLen = allChunks.reduce((s, c) => s + _tokenize(c.text).length, 0) / (allChunks.length || 1);
-            topChunks = _scoreItems(allChunks, terms, c => c.text + ' ' + (c.keywords || []).join(' '), avgCLen)
-              .slice(0, 10).map(x => x.item);
+          let allChunks = (await Promise.all(_getUrls('recent').map(_loadChunks))).flat();
+
+          // Always load historical for large-context; load for small only when < 5 results
+          statEl.textContent = 'Loading historical data...';
+          const histChunks = (await Promise.all(_getUrls('historical').map(_loadChunks))).flat();
+          allChunks = [...allChunks, ...histChunks];
+
+          // Deep historical only for 128K providers
+          if (isLargeCtx) {
+            statEl.textContent = 'Loading historical archives (2014-2022)...';
+            const deepChunks = (await Promise.all(_getUrls('deep_historical').map(_loadChunks))).flat();
+            allChunks = [...allChunks, ...deepChunks];
           }
+
+          const avgCLen = allChunks.reduce((s, c) => s + _tokenize(c.text).length, 0) / (allChunks.length || 1);
+          topChunks = _scoreItems(allChunks, terms, c => c.text + ' ' + (c.keywords || []).join(' '), avgCLen)
+            .slice(0, maxTopChunks).map(x => x.item);
         }
 
         // Helper: estimate tokens (~3.5 chars per token)
@@ -11886,7 +11927,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         function _buildPromptForBudget(providerKey, scoredWikiArr, topChunksArr, queryText) {
           const pCfg = _providerConfig(providerKey);
           const maxCtx = pCfg.maxContextTokens || 8000;
-          const budget = maxCtx - 400; // reserve for system prompt + response
+          const isLargeCtx = maxCtx >= 50000;
+          const budget = maxCtx - 800; // reserve for system prompt + response
 
           const docs = [];
           let used = 0;
@@ -11903,10 +11945,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             used += _estimateTokens(liveText);
           }
 
-          // Wikis: 50% of budget, split evenly
-          const wikiBudget = Math.floor(budget * 0.5);
-          const perWiki = Math.floor(wikiBudget / Math.max(scoredWikiArr.length, 1));
-          for (const w of scoredWikiArr) {
+          // Wikis: for large-context include all scored; for small-context cap at top 3
+          const wikiArr = isLargeCtx ? scoredWikiArr : scoredWikiArr.slice(0, 3);
+          const wikiBudget = Math.floor(budget * (isLargeCtx ? 0.3 : 0.5));
+          const perWiki = Math.floor(wikiBudget / Math.max(wikiArr.length, 1));
+          for (const w of wikiArr) {
             let text = w.item.text;
             if (_estimateTokens(text) > perWiki) {
               text = text.slice(0, Math.floor(perWiki * 3.5)) + '\n[... truncated]';
