@@ -251,22 +251,44 @@ def recent_breakwave(signals: list[dict], category: str, n: int = RECENT_REPORTS
     return filtered[:n]
 
 
-def compute_confluence(z_score: float | None, sentiments: list[str]) -> str:
-    """Classify confluence between quantitative Z-score and qualitative sentiments.
+def compute_confluence(
+    z_score: float | None,
+    sentiments: list[str],
+    momentums: list[str] | None = None,
+    fundamentals: list[str] | None = None,
+) -> str:
+    """Classify confluence between quantitative Z-score and qualitative signals.
 
-    Uses exponential decay weighting (0.85^i) consistent with the JS
-    Signal Engine so that both systems produce the same confluence verdict.
+    Weights: fundamentals 50%, sentiment 30%, momentum 20%.
+    Uses exponential decay (0.85^i) on each dimension (newest = highest weight).
+    Consistent with JS Signal Engine for the sentiment dimension.
     """
     if not sentiments or z_score is None:
         return "NEUTRAL"
-    decay = 0.85
-    weights = [decay ** i for i in range(len(sentiments))]
-    qual_score = sum(w * _QUAL_SCORES.get(s, 0.0) for w, s in zip(weights, sentiments)) / sum(weights)
-    if z_score > 0.5 and qual_score > 0.25:
+
+    def _weighted_score(values: list[str]) -> float:
+        if not values:
+            return 0.0
+        decay = 0.85
+        weights = [decay ** i for i in range(len(values))]
+        return sum(w * _QUAL_SCORES.get(v.lower(), 0.0) for w, v in zip(weights, values)) / sum(weights)
+
+    s_score = _weighted_score(sentiments)
+    m_score = _weighted_score(momentums) if momentums else 0.0
+    f_score = _weighted_score(fundamentals) if fundamentals else 0.0
+
+    # Composite: fundamentals 50%, sentiment 30%, momentum 20%
+    if fundamentals:
+        qual_score = 0.50 * f_score + 0.30 * s_score + 0.20 * m_score
+    else:
+        # Fallback: sentiment 60%, momentum 40% (legacy behaviour)
+        qual_score = 0.60 * s_score + 0.40 * m_score
+
+    if z_score > 0.5 and qual_score > 0.15:
         return "BULL_CONFLUENCE"
-    if z_score < -0.5 and qual_score < -0.25:
+    if z_score < -0.5 and qual_score < -0.15:
         return "BEAR_CONFLUENCE"
-    if (z_score > 0.5 and qual_score < -0.25) or (z_score < -0.5 and qual_score > 0.25):
+    if (z_score > 0.5 and qual_score < -0.15) or (z_score < -0.5 and qual_score > 0.15):
         return "DIVERGENCE"
     return "NEUTRAL"
 
@@ -346,6 +368,43 @@ def _fmt_rich_signal(signal: dict, idx: int) -> str:
         f"{date_str} | {arrow} {sentiment_label:<22} | "
         f"momentum: {momentum}{m_arrow} | fundamentals: {fundamentals}{time_part}"
     )
+
+
+def _signal_tally(signals: list[dict], z_score: float | None, confluence: str) -> str:
+    """Build a pre-computed signal tally block to inject into the LLM prompt.
+
+    Explicitly counts pos/neg/neutral for each Breakwave dimension so the LLM
+    cannot hallucinate an incorrect confluence label.
+    """
+    if not signals:
+        return "No Breakwave signals available for this sector."
+
+    def _count(field: str) -> tuple[int, int, int]:
+        pos = sum(1 for s in signals if str(s.get(field, "")).lower() == "positive")
+        neg = sum(1 for s in signals if str(s.get(field, "")).lower() == "negative")
+        neu = len(signals) - pos - neg
+        return pos, neg, neu
+
+    sp, sn, su = _count("sentiment")
+    mp, mn, mu = _count("momentum")
+    fp, fn, fu = _count("fundamentals")
+    n = len(signals)
+
+    z_str = f"{z_score:+.2f}σ" if z_score is not None else "N/A"
+
+    lines = [
+        f"PRE-COMPUTED SIGNAL INTELLIGENCE ({n} reports, newest first):",
+        f"  Quantitative Z-score (252d): {z_str}",
+        f"  Sentiment    : {sp} positive / {sn} negative / {su} neutral  (of {n})",
+        f"  Momentum     : {mp} positive / {mn} negative / {mu} neutral  (of {n})",
+        f"  Fundamentals : {fp} positive / {fn} negative / {fu} neutral  (of {n})",
+        f"  >>> PYTHON PRE-COMPUTED CONFLUENCE: {confluence} <<<",
+        f"  (Weights: fundamentals 50% + sentiment 30% + momentum 20%)",
+        f"  You MUST use this confluence label in your JSON output unless Baltic data",
+        f"  provides compelling real-time evidence to override it — in which case",
+        f"  state the override reason explicitly in confluence_note.",
+    ]
+    return "\n".join(lines)
 
 
 def compute_spreads(snapshot: dict) -> dict:
@@ -699,11 +758,17 @@ def build_user_message(
     spreads: dict | None = None,
     baltic_dry_text: str = "",
     baltic_tanker_text: str = "",
+    pre_dry_conf: str = "NEUTRAL",
+    pre_tanker_conf: str = "NEUTRAL",
 ) -> str:
     today = date.today().isoformat()
     analytics = _build_analytics_context(snapshot, spreads or {})
     dry_block = "\n".join(_fmt_rich_signal(s, i) for i, s in enumerate(dry_signals)) or "No recent reports."
     tanker_block = "\n".join(_fmt_rich_signal(s, i) for i, s in enumerate(tanker_signals)) or "No recent reports."
+    dry_z = snapshot.get("bdi", {}).get("z_score_252d")
+    tanker_z = compute_tanker_z(snapshot)
+    dry_tally = _signal_tally(dry_signals, dry_z, pre_dry_conf)
+    tanker_tally = _signal_tally(tanker_signals, tanker_z, pre_tanker_conf)
     n_dry = len([r for r in dry_report_text.split("---") if r.strip()])
     n_tank = len([r for r in tanker_report_text.split("---") if r.strip()])
     return f"""DAILY FREIGHT INTELLIGENCE BRIEF — {today}
@@ -711,9 +776,11 @@ def build_user_message(
 {analytics}
 
 RECENT BREAKWAVE DRY BULK ANALYST SIGNALS (newest first — weight: 0.85^i decay):
+{dry_tally}
 {dry_block}
 
 RECENT BREAKWAVE TANKER ANALYST SIGNALS (newest first — weight: 0.85^i decay):
+{tanker_tally}
 {tanker_block}
 
 ANALYST REPORT NARRATIVES — DRY BULK (last {n_dry} Breakwave reports, newest first):
@@ -1246,8 +1313,18 @@ def main() -> None:
 
     dry_z = snapshot.get("bdi", {}).get("z_score_252d")
     tanker_z = compute_tanker_z(snapshot)
-    pre_dry_conf = compute_confluence(dry_z, [s.get("sentiment", "neutral") for s in dry_signals])
-    pre_tanker_conf = compute_confluence(tanker_z, [s.get("sentiment", "neutral") for s in tanker_signals])
+    pre_dry_conf = compute_confluence(
+        dry_z,
+        sentiments=[s.get("sentiment", "neutral") for s in dry_signals],
+        momentums=[s.get("momentum", "neutral") for s in dry_signals],
+        fundamentals=[s.get("fundamentals", "neutral") for s in dry_signals],
+    )
+    pre_tanker_conf = compute_confluence(
+        tanker_z,
+        sentiments=[s.get("sentiment", "neutral") for s in tanker_signals],
+        momentums=[s.get("momentum", "neutral") for s in tanker_signals],
+        fundamentals=[s.get("fundamentals", "neutral") for s in tanker_signals],
+    )
 
     print("[brief] Loading wiki excerpts...")
     wiki_dry = wiki_excerpt(WIKI_EXCERPTS["dry_bulk"])
@@ -1272,6 +1349,8 @@ def main() -> None:
         spreads=spreads,
         baltic_dry_text=baltic_dry_text,
         baltic_tanker_text=baltic_tanker_text,
+        pre_dry_conf=pre_dry_conf,
+        pre_tanker_conf=pre_tanker_conf,
     )
     messages = [
         {"role": "system", "content": system_msg},
