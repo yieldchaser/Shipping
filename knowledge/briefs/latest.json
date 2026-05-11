@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T15:45:49.727046+00:00",
+  "generated_at": "2026-05-11T16:20:19.097712+00:00",
   "brief_date": "2026-05-11",
   "generation": {
     "mode": "llm",
@@ -81,16 +81,20 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "All vessel classes (Capesize, Panamax, SUPRAMAX, HandySize, Clean Tanker, Dirty Tanker) exhibit strong expansion regime signals with positive Z-scores and high ROC60 growth. This is corroborated by positive sentiment and fundamentals across recent reports, indicating robust demand and tight tonnage.",
-      "summary": "The dry bulk market is experiencing a significant bullish trend, driven by strong demand in China and elevated iron ore inventories. The Baltic Dry Index and Capesize spot rates are surging, supported by positive sentiment and favorable fundamentals. The market is showing signs of a potential correction, with high pctl_5y values.",
+      "confluence_note": "The BDI is at +2.83σ, indicating a significant bullish momentum. The 5-year percentile sits at 100th, showcasing exceptionally high levels of activity.",
+      "summary": "The BDI currently sits at 3001.0, reflecting an expansionary market regime with a Z-score of +2.83σ. Momentum is strongly upward, evidenced by a 53.3% ROC60. Breakwave Advisors' latest reports consistently point to continued strong demand from China, particularly for iron ore. This confluence of factors suggests a sustained bullish trend, driven by robust global trade volumes.",
       "key_signals": [
-        "Capesize: value=4976.0 z=+2.59sigma regime=EXPANSION roc60=+70.8% pctl_5y=99.4%",
-        "PANAMAX: value=2283.0 z=+2.35sigma regime=EXPANSION roc60=+31.6% pctl_5y=100.0%",
-        "China Steel Production (YTD: 248mt, YOY: -4.5%)",
-        "China Iron Ore Exports (YTD: 501mt, YOY: 5.9%)"
+        "BDI: 3001.0",
+        "Capesize: 4976.0",
+        "BDI ROC60: +53.3%",
+        "BDI Z-score: +2.83σ",
+        "Capesize Z-score: +2.59σ",
+        "Panamax Spread: +2693 pts",
+        "Clean Tanker Z-spread: +1.95σ",
+        "BDI Historical Context: Top Quartile"
       ],
-      "outlook": "Continued strong demand and tight tonnage balance are expected to support elevated freight rates in the near term.",
-      "watch": "Monitor China's steel production and inventory levels closely, as a slowdown could negatively impact demand.",
+      "outlook": "We expect continued strength in Capesize rates over the next 2-4 weeks, supported by robust iron ore demand from China.",
+      "watch": "Watch fundamentals trend in the next report (negative).",
       "report_dates": [
         "2026-04-28",
         "2026-04-14",
@@ -99,21 +103,31 @@
         "2026-03-03",
         "2026-02-17",
         "2026-02-03",
-        "2026-01-20"
-      ]
+        "2026-01-20",
+        "2026-01-06",
+        "2025-12-09",
+        "2025-11-25",
+        "2025-11-11"
+      ],
+      "momentum_grade": "STRONG_UP",
+      "positioning_bias": "LONG",
+      "trade_idea": "Initiate a long position on Capesize futures, targeting a rate increase of 3-5% within the next 4 weeks.",
+      "catalyst_watch": "Monitor the release of China’s Q1 steel production data (June 15th) and upcoming iron ore shipment volumes from Brazil and Australia.",
+      "risk_note": "A significant slowdown in Chinese steel demand would immediately reverse the current bullish trend.",
+      "confidence_score": 0.88
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "Tanker rates are also in a strong expansion regime, driven by high oil prices and constrained supply. Sentiment is positive, and fundamentals show a favorable balance between crude oil demand and supply.",
-      "summary": "The tanker market is experiencing a bullish phase, fueled by elevated oil prices and a tight balance between supply and demand. VLCC rates are particularly strong, reflecting concerns about potential disruptions to oil flows. The market is showing signs of a potential correction, with high pctl_5y values.",
+      "confluence_note": "The Clean Tanker Z-spread is at +1.95σ, indicating a strong bullish momentum. Sentiment among Breakwave Advisors analysts is overwhelmingly positive, with 11 out of 12 recent reports showing positive momentum.",
+      "summary": "The Clean Tanker index is currently at 1851.0, operating within an expansionary regime with a Z-score of +1.95σ. Momentum is strongly upward, as reflected by a 106.8% ROC60. Analyst consensus, based on recent Breakwave reports, points to continued elevated demand for crude oil transport. This confluence suggests a sustained bullish trend. Segment breadth remains important: clean tankers at 1851.0 (ROC60 +106.8%), alongside dirty tankers at 2574.0 (ROC60 +49.0%).",
       "key_signals": [
-        "Clean_Tanker: value=1851.0 z=+1.95sigma regime=EXPANSION roc60=+106.8% pctl_5y=97.7%",
-        "Dirty_Tanker: value=2574.0 z=+1.30sigma regime=EXPANSION roc60=+49.0% pctl_5y=96.4%",
-        "World Oil Demand (YTD: 106,069 kbpd, YOY: 1.0%)",
-        "Global Crude Oil On Water (YTD: 1192.3 MMbls, YOY: -0.4%)"
+        "Clean Tanker: 1851.0",
+        "Clean Tanker ROC60: +106.8%",
+        "Clean Tanker Z-score: +1.95σ",
+        "Dirty Tanker: 2574.0"
       ],
-      "outlook": "Strong demand for crude oil and constrained supply are expected to continue supporting high tanker rates.",
-      "watch": "Monitor geopolitical risks in the Middle East, as any disruptions could further tighten tanker supply and drive rates higher.",
+      "outlook": "We anticipate continued upward pressure on VLCC rates due to persistent global oil demand and constrained supply.",
+      "watch": "Watch fundamentals trend in the next report (positive).",
       "report_dates": [
         "2026-05-05",
         "2026-04-21",
@@ -122,11 +136,26 @@
         "2026-03-10",
         "2026-02-24",
         "2026-02-10",
-        "2026-01-27"
-      ]
+        "2026-01-27",
+        "2026-01-13",
+        "2025-12-16",
+        "2025-12-02",
+        "2025-11-18"
+      ],
+      "momentum_grade": "STRONG_UP",
+      "positioning_bias": "LONG",
+      "trade_idea": "Establish a long position in VLCC futures, targeting a rate increase of 2-4% over the next 3 weeks.",
+      "catalyst_watch": "Monitor OPEC+ production decisions (June 20th) and potential disruptions to oil flows in the Middle East.",
+      "risk_note": "A significant increase in crude oil production could moderate the upward trajectory of VLCC rates.",
+      "confidence_score": 0.85
     }
   },
-  "macro_note": "The global economy faces significant risks, but the dry bulk and tanker markets are currently exhibiting strong bullish signals, suggesting a disconnect from broader macroeconomic concerns. This divergence warrants close monitoring.",
+  "macro_note": "The global economy continues to demonstrate resilience, fueled by robust industrial activity and rising consumer demand. However, geopolitical risks, particularly in the Middle East, remain a key concern and could significantly impact oil prices and, consequently, tanker rates.",
+  "cross_sector_analysis": {
+    "relative_value": "The spread between Capesize and Suezmax rates remains firmly in favor of Capesize, suggesting continued strength in the larger vessel segment. This spread is currently +2693 points, indicating a significant premium for Capesize vessels.",
+    "dominant_driver": "Strong global demand for iron ore, primarily driven by China's industrial activity, is the dominant macro force impacting both the dry bulk and tanker markets.",
+    "positioning_recommendation": "Consider a long position in Capesize futures, leveraging the significant premium over Suezmax rates."
+  },
   "sources": [
     "breakwave_drybulk_2026-04-28",
     "breakwave_drybulk_2026-04-14",
@@ -136,6 +165,10 @@
     "breakwave_drybulk_2026-02-17",
     "breakwave_drybulk_2026-02-03",
     "breakwave_drybulk_2026-01-20",
+    "breakwave_drybulk_2026-01-06",
+    "breakwave_drybulk_2025-12-09",
+    "breakwave_drybulk_2025-11-25",
+    "breakwave_drybulk_2025-11-11",
     "breakwave_tankers_2026-05-05",
     "breakwave_tankers_2026-04-21",
     "breakwave_tankers_2026-04-07",
@@ -143,6 +176,10 @@
     "breakwave_tankers_2026-03-10",
     "breakwave_tankers_2026-02-24",
     "breakwave_tankers_2026-02-10",
-    "breakwave_tankers_2026-01-27"
+    "breakwave_tankers_2026-01-27",
+    "breakwave_tankers_2026-01-13",
+    "breakwave_tankers_2025-12-16",
+    "breakwave_tankers_2025-12-02",
+    "breakwave_tankers_2025-11-18"
   ]
 }
