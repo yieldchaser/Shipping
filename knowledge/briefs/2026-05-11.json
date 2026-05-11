@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T16:37:53.505035+00:00",
+  "generated_at": "2026-05-11T16:49:52.644451+00:00",
   "brief_date": "2026-05-11",
   "generation": {
     "mode": "llm",
@@ -81,16 +81,16 @@
   "vessel_classes": {
     "dry_bulk": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "The BDI’s +2.83σ Z-score indicates an expansionary regime historically associated with sustained freight rate increases, while the +53.3% 60-day ROC signals a rapid acceleration of the current cycle, exceeding the historical mean.  Six of the last seven analyst reports are bullish, confirming the quant reading, suggesting a continuation of the upward trend.",
-      "summary": "The dry bulk market is firmly in an expansionary phase, driven by a significant surge in rates across all vessel classes. The BDI’s impressive +53.3% ROC60 signals a compelling acceleration of the current cycle, surpassing historical norms and reinforcing the bullish sentiment.  The Capesize-Panamax spread widening to +2,693 points highlights iron ore demand outstripping other commodities, further supporting the upward trajectory.  Given this momentum and the consensus bullish outlook, a strategic overweight position in C5 FFA Sep26 and spot Capesize vessels is warranted over the next 4 weeks.",
+      "confluence_note": "The BDI at 3001.0 sits +2.83σ above its 252-day mean, placing the current cycle firmly in acceleration territory, historically associated with sustained FFA curve steepening. 80% of Breakwave analysts are bullish, confirming the quant reading, while the remaining 20% note increased Chinese steel stockpiles as a potential near-term headwind.",
+      "summary": "The dry bulk market is experiencing a robust expansion, driven by surging iron ore demand from China and a tight tonnage balance. The BDI’s +53.3% 60-day ROC signals a rapid acceleration compared to previous cycles, reinforcing the view that forward holders are aggressively hedging into strength. The Capesize-Panamax spread widening by +2,693 points further underscores the imbalance, with iron ore voyages dominating demand.  This confluence suggests a bullish positioning strategy over the next 2-4 weeks.",
       "key_signals": [
         "Capesize rates at 4,976 sit +2.59σ above their 252-day mean — a level historically associated with sustained FFA curve steepening as forward holders hedge into strength.",
         "The Capesize-Panamax spread of +2,693 points is at its widest since Q4 2023, indicating that iron ore and coal voyages are crowding out grain-driven demand for smaller vessels.",
-        "The BDI ROC60 of +53.3% signals one of the fastest six-month recoveries since 2020, placing the current cycle firmly in acceleration territory rather than mere mean-reversion.",
-        "Handysize rates are up +27.6% over the last 60 days, indicating increasing demand for short-sea shipping."
+        "The Baltic Dry Index (BDI) ROC60 of +53.3% signals one of the fastest six-month recoveries since 2020, placing the current cycle firmly in acceleration territory rather than mere mean-reversion.",
+        "Breakwave analysts maintain a consensus bullish outlook, citing continued strong iron ore demand and limited supply growth, despite concerns about Chinese steel stockpiles."
       ],
-      "outlook": "We anticipate a sustained bullish trend in dry bulk rates over the next 4 weeks, primarily fueled by robust iron ore demand and ongoing supply constraints.",
-      "watch": "Watch fundamentals trend in the next report (negative).",
+      "outlook": "We maintain a bullish outlook for the next 4 weeks, predicated on continued strong Chinese iron ore demand and a persistent imbalance in the dry bulk market. The key variable to watch is the pace of Chinese steel restocking.",
+      "watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
       "report_dates": [
         "2026-04-28",
         "2026-04-14",
@@ -106,24 +106,24 @@
         "2025-11-11"
       ],
       "momentum_grade": "STRONG_UP",
-      "positioning_bias": "LONG",
-      "trade_idea": "Long C5 FFA Sep26 – Enter at 6600, Exit at 7000, driven by continued FFA curve steepening.",
-      "catalyst_watch": "Chinese steel production data release next week will be a key indicator of future demand.",
-      "risk_note": "A significant slowdown in Chinese economic growth could trigger a reversal in iron ore demand, leading to a sharp decline in Capesize rates.",
+      "positioning_bias": "LONG_SPREAD_VS_TANKER",
+      "trade_idea": "Long C5 FFA Sep26 – Enter at 870, Exit at 900 – This trade capitalizes on the widening Capesize-Panamax spread, anticipating continued demand for larger vessels to transport iron ore.",
+      "catalyst_watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
+      "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
       "confidence_score": 0.9
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
-      "confluence_note": "The Clean Tanker Z-score of +1.91σ reflects an expansionary environment, historically associated with elevated freight rates, while the +106.3% ROC60 suggests a rapid acceleration.  Four of the last five analyst reports are bullish, with a slight divergence indicating a potential for a slightly more pronounced rally than the quant reading suggests.",
-      "summary": "The tanker market is experiencing a strong bullish momentum, driven by a combination of rising crude oil demand and constrained supply. The Clean Tanker Z-score of +1.91σ confirms an expansionary regime, historically linked to robust freight rates, while the impressive +106.3% ROC60 indicates a rapid acceleration. The widening Clean-Dirty spread of -686 points demonstrates a clear preference for clean product tankers, further supporting the upward trend. Given this momentum and the consensus bullish outlook, a strategic long position in TD3C swap and spot Clean Tankers is recommended over the next 2-3 weeks.",
+      "confluence_note": "The Clean Tanker Z-score of +1.91σ indicates a significant divergence from historical norms, while the Dirty Tanker Z-score of +1.23σ is also elevated. 75% of Breakwave analysts are bullish, citing OPEC+ production cuts and ongoing geopolitical tensions, while 25% express concern about potential oversupply.",
+      "summary": "The tanker market is exhibiting robust growth, driven by constrained crude supply and elevated product demand. The Clean Tanker Z-spread of +1.91σ and Dirty Tanker Z-spread of +1.23σ highlight a significant divergence, with dirty tankers outperforming clean tankers, reflecting a stronger demand for crude oil.  This suggests a bullish positioning strategy over the next 2-4 weeks, but with a cautious eye on potential oversupply.",
       "key_signals": [
-        "Clean_Tanker rates at 1842 sit +1.91σ above their 252-day mean — a level historically associated with sustained FFA curve steepening as forward holders hedge into strength.",
-        "The Clean-Dirty tanker spread of -686 points is at its widest since Q4 2023, indicating that crude oil demand is outstripping product demand.",
-        "The BDI ROC60 of +53.3% signals one of the fastest six-month recoveries since 2020, placing the current cycle firmly in acceleration territory rather than mere mean-reversion.",
-        "The Dirty Tanker Z-score of +1.23σ is still positive, but less pronounced than the Clean Tanker Z-score, suggesting a slower pace of growth."
+        "The Clean_Tanker Z=+1.91σ vs dirty Z=+1.23σ indicates a significant divergence, with dirty tankers outperforming clean tankers, reflecting a stronger demand for crude oil.",
+        "The Clean Tanker Z-spread of +1842.0 points is at its widest since Q4 2023, indicating that crude oil voyages are crowding out product-driven demand for smaller vessels.",
+        "The Baltic Dry Index (BDI) ROC60 of +106.3% signals a rapid recovery, indicating a strong demand for crude oil.",
+        "Breakwave analysts maintain a consensus bullish outlook, citing OPEC+ production cuts and geopolitical tensions, despite concerns about potential oversupply."
       ],
-      "outlook": "We expect the tanker market to maintain a bullish trajectory over the next 2-3 weeks, driven by continued crude oil demand and supply constraints.",
-      "watch": "Watch fundamentals trend in the next report (positive).",
+      "outlook": "We maintain a bullish outlook for the next 4 weeks, predicated on continued OPEC+ production cuts and geopolitical tensions. The key variable to watch is the pace of global oil demand growth.",
+      "watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
       "report_dates": [
         "2026-05-05",
         "2026-04-21",
@@ -139,18 +139,18 @@
         "2025-11-18"
       ],
       "momentum_grade": "STRONG_UP",
-      "positioning_bias": "LONG",
-      "trade_idea": "Long TD3C swap – Enter at 6500, Exit at 6800, leveraging the FFA curve steepening.",
-      "catalyst_watch": "OPEC+ production policy decisions next month will be a key factor influencing crude oil supply.",
-      "risk_note": "A significant drop in global oil demand could trigger a correction in tanker rates.",
+      "positioning_bias": "LONG_SPREAD_VS_DRY",
+      "trade_idea": "Long TD3C swap – Enter at 675, Exit at 700 – This trade benefits from the widening spread between clean and dirty tankers, anticipating continued strength in the crude market.",
+      "catalyst_watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
+      "risk_note": "A significant increase in US crude oil production would negate the impact of OPEC+ cuts and invalidate the current bullish tanker thesis.",
       "confidence_score": 0.85
     }
   },
-  "macro_note": "The global economy faces increasing headwinds from rising interest rates and geopolitical uncertainty, potentially dampening demand for commodities. However, the ongoing conflict in the Middle East continues to disrupt oil supplies, supporting elevated freight rates in both the dry bulk and tanker markets.",
+  "macro_note": "China’s steel production remains a key driver of iron ore demand, with YTD production down 4.5% year-over-year. This slowdown, coupled with rising Chinese steel inventories, suggests a potential pullback in iron ore imports, which will directly impact the dry bulk market. The upcoming May PMI data will provide crucial insights into the health of the Chinese steel sector and the trajectory of iron ore demand.",
   "cross_sector_analysis": {
-    "relative_value": "The dry bulk market currently presents a stronger risk-reward profile than the tanker market, as evidenced by the significantly higher Z-scores and ROC60 values.  The widening Capesize-Panamax spread further reinforces this view, indicating a greater imbalance in demand.",
-    "dominant_driver": "Global crude oil demand remains the dominant macro force driving both the dry bulk and tanker markets.",
-    "positioning_recommendation": "A combined long position in C5 FFA Sep26 and TD3C swap offers a compelling strategy to capitalize on the prevailing bullish trends in both sectors."
+    "relative_value": "The dry bulk market currently offers a more compelling risk-reward profile than the tanker market, driven by the more pronounced imbalance in supply and demand. The Capesize-Panamax spread provides a more robust margin than the Clean-Dirty tanker spread.",
+    "dominant_driver": "China's iron ore demand remains the dominant macroeconomic force driving both the dry bulk and tanker markets.",
+    "positioning_recommendation": "Long C5 FFA Sep26 – This trade benefits from the widening Capesize-Panamax spread, anticipating continued demand for larger vessels to transport iron ore, capitalizing on the relative strength of the dry bulk sector."
   },
   "sources": [
     "breakwave_drybulk_2026-04-28",
