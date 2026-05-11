@@ -5,7 +5,7 @@ Reads quantitative CSV data + recent Breakwave signals + wiki context and writes
   knowledge/briefs/latest.json
   knowledge/briefs/YYYY-MM-DD.json
 
-LLM provider order defaults to: ollama -> gemini -> nim
+LLM provider order: ollama -> nim (Gemini removed — paid inference).
 If all providers fail, a deterministic template brief is generated.
 """
 from __future__ import annotations
@@ -50,7 +50,7 @@ WIKI_EXCERPTS = {
 }
 
 CONFLUENCE_TYPES = {"BULL_CONFLUENCE", "BEAR_CONFLUENCE", "DIVERGENCE", "NEUTRAL"}
-RECENT_REPORTS = 8
+RECENT_REPORTS = 12
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash").strip()
@@ -273,7 +273,7 @@ def compute_confluence(z_score: float | None, sentiments: list[str]) -> str:
     return "NEUTRAL"
 
 
-def wiki_excerpt(path: Path, max_chars: int = 700) -> str:
+def wiki_excerpt(path: Path, max_chars: int = 2000) -> str:
     try:
         text = path.read_text(encoding="utf-8")
         if text.startswith("---"):
@@ -313,65 +313,138 @@ def _fmt_snapshot_line(name: str, snap: dict) -> str:
     )
 
 
-def _fmt_signal(signal: dict) -> str:
+def _fmt_time_ago(date_str: str) -> str:
+    try:
+        d = datetime.fromisoformat(date_str).date()
+        delta = (date.today() - d).days
+        if delta == 0: return "today"
+        if delta == 1: return "1 day ago"
+        if delta < 14: return f"{delta} days ago"
+        return f"{delta // 7} week{'s' if delta // 7 > 1 else ''} ago"
+    except Exception:
+        return date_str
+
+
+def _fmt_rich_signal(signal: dict, idx: int) -> str:
+    sentiment_raw = (signal.get("sentiment") or "neutral").lower()
+    sentiment_label = sentiment_raw.upper().replace("_", " ")
+    arrow_map = {
+        "positive": "▲", "constructive": "▲", "cautiously_bullish": "↗",
+        "neutral": "→", "mixed": "→", "cautiously_bearish": "↘", "negative": "▼",
+    }
+    arrow = arrow_map.get(sentiment_raw, "→")
+    momentum = _clean_text(signal.get("momentum") or "N/A")
+    fundamentals = _clean_text(signal.get("fundamentals") or "N/A")
+    m_lower = momentum.lower()
+    if any(w in m_lower for w in ["improv", "strong", "positiv", "rising", "acceler"]):
+        m_arrow = " ↑"
+    elif any(w in m_lower for w in ["weaken", "declin", "falling", "slow", "deterior"]):
+        m_arrow = " ↓"
+    else:
+        m_arrow = ""
+    date_str = signal.get("date", "")
+    time_part = f" ({_fmt_time_ago(date_str)})" if date_str else ""
     return (
-        f"{signal.get('date')}: "
-        f"sentiment={signal.get('sentiment')} "
-        f"momentum={signal.get('momentum')} "
-        f"fundamentals={signal.get('fundamentals')}"
+        f"{date_str} | {arrow} {sentiment_label:<22} | "
+        f"momentum: {momentum}{m_arrow} | fundamentals: {fundamentals}{time_part}"
     )
 
 
+def compute_spreads(snapshot: dict) -> dict:
+    spreads: dict = {}
+    cape = snapshot.get("capesize", {}).get("value")
+    pana = snapshot.get("panamax", {}).get("value")
+    clean = snapshot.get("clean_tanker", {}).get("value")
+    dirty = snapshot.get("dirty_tanker", {}).get("value")
+    if cape is not None and pana is not None:
+        sp = round(cape - pana, 1)
+        spreads["cape_panamax"] = sp
+        spreads["cape_panamax_ctx"] = "Capesize leading" if sp > 500 else ("converging" if sp < 100 else "normal range")
+    if clean is not None and dirty is not None:
+        sp = round(clean - dirty, 1)
+        spreads["clean_dirty"] = sp
+        spreads["clean_dirty_ctx"] = "clean outperforming" if sp > 0 else "dirty outperforming"
+    bdi_pctl = snapshot.get("bdi", {}).get("pctl_5y")
+    if bdi_pctl is not None:
+        spreads["bdi_hist"] = (
+            "top-quartile" if bdi_pctl > 0.75 else
+            "above median" if bdi_pctl > 0.5 else
+            "below median" if bdi_pctl > 0.25 else "bottom-quartile"
+        )
+    cz = snapshot.get("clean_tanker", {}).get("z_score_252d")
+    dz = snapshot.get("dirty_tanker", {}).get("z_score_252d")
+    if cz is not None and dz is not None:
+        gap = round(cz - dz, 2)
+        spreads["tanker_z_gap"] = gap
+        spreads["tanker_z_ctx"] = (
+            f"significant split: clean Z={cz:+.2f}\u03c3 vs dirty Z={dz:+.2f}\u03c3"
+            if abs(gap) > 0.5 else
+            f"aligned: clean Z={cz:+.2f}\u03c3, dirty Z={dz:+.2f}\u03c3"
+        )
+    return spreads
 
-def load_recent_report_text(category: str, n_reports: int = RECENT_REPORTS) -> str:
-    """Load all chunk sections for the most recent N reports.
 
-    Feeds the LLM the complete analyst narrative — Overview + Fundamentals —
-    so it can reference geopolitical events, supply/demand data, etc.
-    Each full report is ~200-230 tokens, so 8 reports x 2 categories = ~3600 tokens total.
-    """
-    chunk_map = {
-        "drybulk": [KNOWLEDGE / "chunks" / "breakwave_drybulk_2026.jsonl",
-                    KNOWLEDGE / "chunks" / "breakwave_drybulk.jsonl"],
-        "tankers": [KNOWLEDGE / "chunks" / "breakwave_tankers.jsonl"],
-    }
-    paths = chunk_map.get(category, [])
-    chunks: list[dict] = []
-    for path in paths:
-        try:
-            with open(path, encoding="utf-8") as f:
-                for line in f:
-                    line = line.strip()
-                    if not line:
-                        continue
-                    try:
-                        chunks.append(json.loads(line))
-                    except json.JSONDecodeError:
-                        continue
-        except FileNotFoundError:
-            continue
-    # Group by date, sort dates descending, take top N report dates
-    chunks.sort(key=lambda x: x.get("date", ""), reverse=True)
-    seen_dates: list[str] = []
-    for chunk in chunks:
-        d = chunk.get("date", "")
-        if d and d not in seen_dates:
-            seen_dates.append(d)
-    target_dates = set(seen_dates[:n_reports])
-    # Build text per date
-    entries = []
-    for report_date in seen_dates[:n_reports]:
-        date_chunks = [c for c in chunks if c.get("date") == report_date]
-        sections = []
-        for c in date_chunks:
-            section = c.get("section_title", "")
-            text = _clean_text(c.get("text"))
-            if text:
-                sections.append(f"[{section}] {text}" if section else text)
-        entries.append(f"{report_date}:\n" + "\n".join(sections))
-    return "\n---\n".join(entries) if entries else "No report text available."
+def _build_analytics_context(snapshot: dict, spreads: dict) -> str:
+    hdr = f"{'INDEX':<16} {'LEVEL':>8} {'REGIME':<14} {'Z-SCORE':>10} {'ROC60':>8} {'5Y PCTL':>8} {'vs MA200':>10}"
+    sep = "─" * 80
+    rows = []
+    for name, snap in snapshot.items():
+        v = snap.get("value")
+        z = snap.get("z_score_252d")
+        roc = snap.get("roc60")
+        pctl = snap.get("pctl_5y")
+        ma200 = snap.get("ma200")
+        regime = (snap.get("regime") or "N/A")[:13]
+        z_s = f"{z:+.2f}\u03c3" if z is not None else "N/A"
+        roc_s = f"{roc:+.1f}%" if roc is not None else "N/A"
+        pctl_s = f"{pctl*100:.0f}th" if pctl is not None else "N/A"
+        if v is not None and ma200 and ma200 > 0:
+            ma_s = f"{(v - ma200) / ma200 * 100:+.1f}%"
+        else:
+            ma_s = "N/A"
+        rows.append(f"{name.upper():<16} {str(v) if v is not None else 'N/A':>8} {regime:<14} {z_s:>10} {roc_s:>8} {pctl_s:>8} {ma_s:>10}")
+    lines = ["INDEX ANALYTICS (interpreted):", hdr, sep] + rows + [""]
+    lines.append("CROSS-MARKET SPREADS:")
+    if "cape_panamax" in spreads:
+        lines.append(f"  Capesize–Panamax spread: {spreads['cape_panamax']:+.0f} pts → {spreads['cape_panamax_ctx']}")
+    if "clean_dirty" in spreads:
+        lines.append(f"  Clean–Dirty tanker spread: {spreads['clean_dirty']:+.0f} pts → {spreads['clean_dirty_ctx']}")
+    if "bdi_hist" in spreads:
+        lines.append(f"  BDI historical context: {spreads['bdi_hist']} historically")
+    if "tanker_z_ctx" in spreads:
+        lines.append(f"  Tanker Z-spread: {spreads['tanker_z_ctx']}")
+    return "\n".join(lines)
 
-def build_prompt(
+
+def build_system_message() -> str:
+    return (
+        "You are a quantitative freight strategist at a tier-1 commodity trading desk. "
+        "Your daily brief is read by portfolio managers who trade freight derivatives (FFAs, options) "
+        "and shipping equities. You have 15 years of experience interpreting Baltic Exchange indices, "
+        "Breakwave Advisors reports, and cross-sector freight positioning.\n\n"
+        "MANDATORY WRITING RULES:\n"
+        "1. Every claim must cite at least one specific number (Z-score, ROC60, index level, percentile, or spread).\n"
+        "2. Institutional language only: direct and precise. No hedging filler.\n"
+        "3. BANNED PHRASES (never use): 'it is worth noting', 'importantly', 'it is crucial', "
+        "'it should be noted', 'as mentioned', 'in conclusion', 'overall', 'in summary', "
+        "'the data suggests', 'it appears', 'it seems', 'needless to say'.\n"
+        "4. 'summary' MUST be EXACTLY 4 sentences: (1) current level + regime with exact value, "
+        "(2) momentum direction with exact Z-score and ROC60, "
+        "(3) analyst consensus citing the most recent Breakwave reports, "
+        "(4) the confluence or divergence verdict with specific drivers.\n"
+        "5. Each 'key_signals' entry must contain at least one specific number.\n"
+        "6. 'confluence_note' must name the exact Z-score and exact sentiment distribution counts.\n"
+        "7. 'trade_idea' must name a direction, vehicle (spot, FFA, specific route), and a rate target or trigger.\n"
+        "8. 'catalyst_watch' must name 2-3 specific upcoming events or seasonal patterns with approximate timing.\n"
+        "9. 'confidence_score': float 0.0-1.0 where 1.0 = perfect quant+qual convergence, 0.0 = complete contradiction.\n"
+        "10. 'momentum_grade': derive from ROC60 and Z-score: STRONG_UP (Z>1.5 and ROC>10%), "
+        "UP (Z>0.5 or ROC>5%), FLAT (|Z|<=0.5 and |ROC|<=5%), DOWN (Z<-0.5 or ROC<-5%), "
+        "STRONG_DOWN (Z<-1.5 and ROC<-10%).\n\n"
+        "OUTPUT: Respond ONLY with a single valid JSON object. No preamble, no markdown, no explanation."
+    )
+
+
+def build_user_message(
     snapshot: dict,
     dry_signals: list[dict],
     tanker_signals: list[dict],
@@ -380,62 +453,77 @@ def build_prompt(
     wiki_cape: str,
     dry_report_text: str = "",
     tanker_report_text: str = "",
+    spreads: dict | None = None,
 ) -> str:
     today = date.today().isoformat()
-    snapshot_lines = "\n".join(_fmt_snapshot_line(key, value) for key, value in snapshot.items())
-    dry_block = "\n".join(_fmt_signal(s) for s in dry_signals) or "No recent reports."
-    tanker_block = "\n".join(_fmt_signal(s) for s in tanker_signals) or "No recent reports."
-    return f"""You are a senior shipping freight market analyst generating a daily brief for {today}.
+    analytics = _build_analytics_context(snapshot, spreads or {})
+    dry_block = "\n".join(_fmt_rich_signal(s, i) for i, s in enumerate(dry_signals)) or "No recent reports."
+    tanker_block = "\n".join(_fmt_rich_signal(s, i) for i, s in enumerate(tanker_signals)) or "No recent reports."
+    n_dry = len([r for r in dry_report_text.split("---") if r.strip()])
+    n_tank = len([r for r in tanker_report_text.split("---") if r.strip()])
+    return f"""DAILY FREIGHT INTELLIGENCE BRIEF — {today}
 
-Quantitative Market Snapshot:
-{snapshot_lines}
+{analytics}
 
-Recent Breakwave Dry Bulk Reports:
+RECENT BREAKWAVE DRY BULK ANALYST SIGNALS (newest first, exponential decay weighting applies):
 {dry_block}
 
-Recent Breakwave Tanker Reports:
+RECENT BREAKWAVE TANKER ANALYST SIGNALS (newest first, exponential decay weighting applies):
 {tanker_block}
 
-Recent Dry Bulk Report Narratives (analyst text excerpts):
+ANALYST REPORT NARRATIVES — DRY BULK (last {n_dry} reports, newest first):
 {dry_report_text}
 
-Recent Tanker Report Narratives (analyst text excerpts):
+ANALYST REPORT NARRATIVES — TANKERS (last {n_tank} reports, newest first):
 {tanker_report_text}
 
-Knowledge Base Excerpts:
-Dry bulk:
+STRUCTURAL MARKET CONTEXT:
+[Dry Bulk Market]
 {wiki_dry}
 
-Capesize:
+[Capesize Segment]
 {wiki_cape}
 
-Tanker:
+[Tanker Market]
 {wiki_tanker}
 
-Task:
-Analyze confluence or divergence between quantitative (Z-score, regime, ROC) and
-qualitative (sentiment, momentum, fundamentals) signals.
-Return only valid JSON matching this schema:
+TASK: Generate today's institutional freight brief. Apply exponential decay (0.85^i) to historical signals.
+Return ONLY valid JSON matching this exact schema:
 {{
   "vessel_classes": {{
     "dry_bulk": {{
       "confluence_type": "<BULL_CONFLUENCE|BEAR_CONFLUENCE|DIVERGENCE|NEUTRAL>",
-      "confluence_note": "<1-2 sentences>",
-      "summary": "<2-3 sentences>",
-      "key_signals": ["<signal 1>", "<signal 2>", "<signal 3>"],
-      "outlook": "<1 sentence>",
-      "watch": "<1 sentence>"
+      "momentum_grade": "<STRONG_UP|UP|FLAT|DOWN|STRONG_DOWN>",
+      "confidence_score": <float 0.0-1.0>,
+      "confluence_note": "<2 sentences naming exact Z-score and sentiment distribution>",
+      "summary": "<EXACTLY 4 sentences: level+regime | momentum+Z+ROC | analyst consensus | verdict>",
+      "key_signals": ["<up to 8 signals, each with a specific number>"],
+      "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_TANKER|SHORT_SPREAD_VS_TANKER>",
+      "trade_idea": "<1 actionable sentence: direction, vehicle, rate target or trigger>",
+      "outlook": "<1 sentence with explicit 2-4 week time horizon>",
+      "catalyst_watch": "<1 sentence naming 2-3 specific upcoming events or seasonal patterns>",
+      "risk_note": "<1 sentence of primary tail risk with specific trigger>"
     }},
     "tanker": {{
       "confluence_type": "<BULL_CONFLUENCE|BEAR_CONFLUENCE|DIVERGENCE|NEUTRAL>",
-      "confluence_note": "<1-2 sentences>",
-      "summary": "<2-3 sentences>",
-      "key_signals": ["<signal 1>", "<signal 2>", "<signal 3>"],
-      "outlook": "<1 sentence>",
-      "watch": "<1 sentence>"
+      "momentum_grade": "<STRONG_UP|UP|FLAT|DOWN|STRONG_DOWN>",
+      "confidence_score": <float 0.0-1.0>,
+      "confluence_note": "<2 sentences naming exact Z-score and sentiment distribution>",
+      "summary": "<EXACTLY 4 sentences: level+regime (clean and dirty) | momentum | analyst consensus | verdict>",
+      "key_signals": ["<up to 8 signals, each with a specific number>"],
+      "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_DRY|SHORT_SPREAD_VS_DRY>",
+      "trade_idea": "<1 actionable sentence: direction, vehicle, rate target or trigger>",
+      "outlook": "<1 sentence with explicit 2-4 week time horizon>",
+      "catalyst_watch": "<1 sentence naming 2-3 specific upcoming events or seasonal patterns>",
+      "risk_note": "<1 sentence of primary tail risk with specific trigger>"
     }}
   }},
-  "macro_note": "<1-2 sentences>"
+  "cross_sector_analysis": {{
+    "relative_value": "<1 sentence on dry vs tanker relative momentum with specific spread or Z differential>",
+    "dominant_driver": "<1 sentence naming the single biggest macro force across both sectors>",
+    "positioning_recommendation": "<1 specific cross-sector trade recommendation>"
+  }},
+  "macro_note": "<2 sentences: dominant macro driver + its directional impact, then key risk to monitor>"
 }}"""
 
 
@@ -474,7 +562,7 @@ def _clean_signals(values) -> list[str]:
         text = _clean_text(value)
         if text:
             cleaned.append(text)
-    return cleaned[:5]
+    return cleaned[:8]
 
 
 # ------------------------ Provider utilities ------------------------
@@ -597,22 +685,22 @@ def ollama_available() -> bool:
     return bool(OLLAMA_BASE_URL and OLLAMA_MODEL)
 
 
-def _call_ollama_once(prompt: str) -> str | None:
+def _call_ollama_once(messages: list) -> str | None:
     is_v1 = OLLAMA_BASE_URL.endswith("/v1")
-    
+
     if is_v1:
         payload = {
             "model": OLLAMA_MODEL,
-            "messages": [{"role": "user", "content": prompt}],
-            "temperature": 0.25,
-            "max_tokens": 1200,
+            "messages": messages,
+            "temperature": 0.35,
+            "max_tokens": 2048,
             "response_format": {"type": "json_object"},
         }
         endpoint = f"{OLLAMA_BASE_URL}/chat/completions"
     else:
         payload = {
             "model": OLLAMA_MODEL,
-            "messages": [{"role": "user", "content": prompt}],
+            "messages": messages,
             "stream": False,
             "format": "json",
         }
@@ -647,7 +735,7 @@ def _call_ollama_once(prompt: str) -> str | None:
         data = json.loads(raw)
     except json.JSONDecodeError as exc:
         raise RuntimeError(f"Ollama returned non-JSON payload: {raw[:200]}") from exc
-        
+
     if is_v1:
         choices = data.get("choices") or []
         if not choices:
@@ -655,12 +743,12 @@ def _call_ollama_once(prompt: str) -> str | None:
         message = choices[0].get("message") or {}
     else:
         message = data.get("message") or {}
-        
+
     text = _clean_text(message.get("content"))
     return text or None
 
 
-def call_ollama_text(prompt: str, retries: int | None = None) -> str | None:
+def call_ollama_text(messages: list, retries: int | None = None) -> str | None:
     if not ollama_available():
         return None
     retries = retries or OLLAMA_MAX_RETRIES
@@ -668,7 +756,7 @@ def call_ollama_text(prompt: str, retries: int | None = None) -> str | None:
     for attempt in range(retries):
         try:
             _last_ollama_call_ts = _apply_interval(_last_ollama_call_ts, OLLAMA_MIN_INTERVAL_SEC)
-            return _call_ollama_once(prompt)
+            return _call_ollama_once(messages)
         except Exception as exc:
             exc_text = str(exc)
             if attempt < retries - 1:
@@ -683,12 +771,12 @@ def nim_available() -> bool:
     return bool(NIM_API_KEY and NIM_MODEL and NIM_BASE_URL)
 
 
-def _call_nim_once(prompt: str) -> str | None:
+def _call_nim_once(messages: list) -> str | None:
     payload = {
         "model": NIM_MODEL,
-        "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.25,
-        "max_tokens": 1200,
+        "messages": messages,
+        "temperature": 0.35,
+        "max_tokens": 2500,
         "response_format": {"type": "json_object"},
     }
     body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
@@ -727,7 +815,7 @@ def _call_nim_once(prompt: str) -> str | None:
     return text or None
 
 
-def call_nim_text(prompt: str, retries: int | None = None) -> str | None:
+def call_nim_text(messages: list, retries: int | None = None) -> str | None:
     if not nim_available():
         return None
     retries = retries or NIM_MAX_RETRIES
@@ -735,7 +823,7 @@ def call_nim_text(prompt: str, retries: int | None = None) -> str | None:
     for attempt in range(retries):
         try:
             _last_nim_call_ts = _apply_interval(_last_nim_call_ts, NIM_MIN_INTERVAL_SEC)
-            return _call_nim_once(prompt)
+            return _call_nim_once(messages)
         except Exception as exc:
             exc_text = str(exc)
             if attempt < retries - 1:
@@ -746,16 +834,14 @@ def call_nim_text(prompt: str, retries: int | None = None) -> str | None:
     return None
 
 
-def call_llm_payload(prompt: str) -> tuple[dict | None, str | None, list[str]]:
+def call_llm_payload(messages: list) -> tuple[dict | None, str | None, list[str]]:
     attempted: list[str] = []
     for provider in LLM_PROVIDER_ORDER:
         attempted.append(provider)
         if provider == "ollama":
-            text = call_ollama_text(prompt)
-        elif provider == "gemini":
-            text = call_gemini_text(prompt)
+            text = call_ollama_text(messages)
         elif provider == "nim":
-            text = call_nim_text(prompt)
+            text = call_nim_text(messages)
         else:
             continue
         if not text:
@@ -884,20 +970,27 @@ def _overlay_vessel(template_entry: dict, llm_entry: dict | None) -> dict:
     result = dict(template_entry)
     if not isinstance(llm_entry, dict):
         return result
-
     confluence = _clean_text(llm_entry.get("confluence_type")).upper()
     if confluence in CONFLUENCE_TYPES:
         result["confluence_type"] = confluence
-
     for key in ("confluence_note", "summary", "outlook", "watch"):
         text = _clean_text(llm_entry.get(key))
         if text:
             result[key] = text
-
+    # New world-class fields — pass through if present
+    for key in ("momentum_grade", "positioning_bias", "trade_idea", "catalyst_watch", "risk_note"):
+        text = _clean_text(llm_entry.get(key))
+        if text:
+            result[key] = text
+    cs = llm_entry.get("confidence_score")
+    if cs is not None:
+        try:
+            result["confidence_score"] = round(float(cs), 3)
+        except (TypeError, ValueError):
+            pass
     key_signals = _clean_signals(llm_entry.get("key_signals"))
     if key_signals:
         result["key_signals"] = key_signals
-
     return result
 
 
@@ -973,8 +1066,19 @@ def main() -> None:
     print("[brief] Loading recent report narratives...")
     dry_report_text = load_recent_report_text("drybulk")
     tanker_report_text = load_recent_report_text("tankers")
-    prompt = build_prompt(snapshot, dry_signals, tanker_signals, wiki_dry, wiki_tanker, wiki_cape, dry_report_text, tanker_report_text)
-    llm_payload, provider_used, attempted = call_llm_payload(prompt)
+    spreads = compute_spreads(snapshot)
+    system_msg = build_system_message()
+    user_msg = build_user_message(
+        snapshot, dry_signals, tanker_signals,
+        wiki_dry, wiki_tanker, wiki_cape,
+        dry_report_text, tanker_report_text,
+        spreads=spreads,
+    )
+    messages = [
+        {"role": "system", "content": system_msg},
+        {"role": "user",   "content": user_msg},
+    ]
+    llm_payload, provider_used, attempted = call_llm_payload(messages)
     if provider_used:
         print(f"[brief] LLM response accepted from: {provider_used}")
     else:
@@ -1003,7 +1107,7 @@ def main() -> None:
         "generation": {
             "mode": generation_mode,
             "provider_used": generation_provider,
-            "model": OLLAMA_MODEL if generation_provider == "ollama" else (GEMINI_MODEL if generation_provider == "gemini" else (NIM_MODEL if generation_provider == "nim" else "")),
+            "model": OLLAMA_MODEL if generation_provider == "ollama" else (NIM_MODEL if generation_provider == "nim" else ""),
             "provider_order": LLM_PROVIDER_ORDER,
             "attempted_providers": attempted,
         },
@@ -1013,6 +1117,7 @@ def main() -> None:
             "tanker": tanker_entry,
         },
         "macro_note": macro_note,
+        "cross_sector_analysis": (llm_payload or {}).get("cross_sector_analysis") or {},
         "sources": [s["doc_id"] for s in dry_signals + tanker_signals if s.get("doc_id")],
     }
 
