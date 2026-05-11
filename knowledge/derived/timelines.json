@@ -5200,5 +5200,14 @@
     "baltic_gas": "baltic_gas_2026-05-08_2026_05_08_gas_report_week_19_gas",
     "baltic_container": "baltic_container_2026-05-08_2026_05_08_container_report_week_19_container",
     "baltic_ningbo": "baltic_ningbo_2026-05-08_2026_05_08_ningbo_containerised_freight_index_08052_ningbo"
+  },
+  "2026-W20": {
+    "breakwave_drybulk": "breakwave_drybulk_2026-05-12",
+    "breakwave_tankers": null,
+    "baltic_dry": null,
+    "baltic_tanker": null,
+    "baltic_gas": null,
+    "baltic_container": null,
+    "baltic_ningbo": null
   }
 }
