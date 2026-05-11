@@ -11868,6 +11868,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       citEl.innerHTML = '';
 
       try {
+        const fallbackOrder = _buildFallbackOrder(provider);
         const terms    = _tokenize(query);
         const wikiOnly = document.getElementById('qaSrcWikiOnly')?.checked;
 
@@ -11992,7 +11993,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
 
         // Try each provider in fallback order, rebuilding prompt per provider's budget
-        const fallbackOrder = _buildFallbackOrder(provider);
         let answer = null;
         let usedProvider = provider;
         let finalDocs = [];
