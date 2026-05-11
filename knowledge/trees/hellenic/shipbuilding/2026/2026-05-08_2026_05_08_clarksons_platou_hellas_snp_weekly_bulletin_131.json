@@ -1,0 +1,81 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-05-08_2026_05_08_clarksons_platou_hellas_snp_weekly_bulletin_131__root",
+  "doc_id": "hellenic_shipbuilding_2026-05-08_2026_05_08_clarksons_platou_hellas_snp_weekly_bulletin_131",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nTanker\n\nLinked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThis week, the Dry Bulk sector has been at the forefront of market attention. The already firm sentiment\nstrengthened further, supported by improving freight fundamentals, as reflected in the overall week-\non-week increase of the BDI.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "china",
+    "japan",
+    "any",
+    "information",
+    "clarksons",
+    "usd",
+    "its",
+    "dwt",
+    "connected"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1615,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-131",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-05-08_2026_05_08_clarksons_platou_hellas_snp_weekly_bulletin_131__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-05-08_2026_05_08_clarksons_platou_hellas_snp_weekly_bulletin_131",
+      "parent_id": "hellenic_shipbuilding_2026-05-08_2026_05_08_clarksons_platou_hellas_snp_weekly_bulletin_131__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "",
+      "keywords": [],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-05-08_2026_05_08_clarksons_platou_hellas_snp_weekly_bulletin_131__s02_linked_asset_2026_05_08_clarksons_platou_hellas_snp_weekly_bulletin_131_weekly_sales_08th_may_2026_91582509eef6_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-05-08_2026_05_08_clarksons_platou_hellas_snp_weekly_bulletin_131",
+      "parent_id": "hellenic_shipbuilding_2026-05-08_2026_05_08_clarksons_platou_hellas_snp_weekly_bulletin_131__root",
+      "title": "Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf",
+      "section_path": [
+        "Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-05-08_clarksons-platou-hellas-snp-weekly-bulletin-131_weekly-sales-08th-may-2026_91582509eef6.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nThis week, the Dry Bulk sector has been at the forefront of market attention.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "china",
+        "japan",
+        "any",
+        "information",
+        "clarksons"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1563,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

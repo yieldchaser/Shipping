@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns__root",
+  "doc_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns",
+  "parent_id": null,
+  "title": "Indian Thermal Coal Demand Growth Returns",
+  "section_path": [
+    "Indian Thermal Coal Demand Growth Returns"
+  ],
+  "section_path_text": "Indian Thermal Coal Demand Growth Returns",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Executive Report, India produced approximately 137.2 billion kilowatt hours of electricity in April. This is up month-on-month by 2.3 billion kilowatt hours (2%) and is up year-on-year by 3.5 billion kilowatt hours (3%). Previously, India's total electricity production had contracted on a year-on-year basis during eight of the prior twelve months.",
+  "keywords": [
+    "india",
+    "coal",
+    "image",
+    "asset",
+    "kilowatt",
+    "billion",
+    "hours",
+    "linked",
+    "year-on-year",
+    "had",
+    "approximately",
+    "basis"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 828,
+  "source_path": "reports/breakwave/2026/2026-05-11_indian-thermal-coal-demand-growth-returns.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/5/11/indian-thermal-coal-demand-growth-returns",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns",
+      "parent_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Jeffrey Landsberg\nAs we discussed in Commodore Research's most recent Weekly Executive Report, India produced approximately 137.2 billion kilowatt hours of electricity in April. This is up month-on-month by 2.3 billion kilowatt hours (2%) and is up year-on-year by 3.5 billion kilowatt hours (3%).",
+      "keywords": [
+        "india",
+        "coal",
+        "kilowatt",
+        "billion",
+        "hours",
+        "year-on-year",
+        "had",
+        "approximately"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 414,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns__s02_linked_asset_2026_05_11_indian_thermal_coal_demand_growth_returns_img_chart1_ea3a107c0acc_jpg",
+      "doc_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns",
+      "parent_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns__root",
+      "title": "Linked asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart1_ea3a107c0acc.jpg",
+      "section_path": [
+        "Linked asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart1_ea3a107c0acc.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart1_ea3a107c0acc.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart1_ea3a107c0acc.jpg\n\nLinked image asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart1_ea3a107c0acc.jpg\n\nImage metadata: JPEG 488x161 mode=RGB\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "india",
+        "coal",
+        "image",
+        "asset",
+        "indian-thermal-coal-demand-growth-returns_img_chart1_ea3a107c0acc.jpg",
+        "jpeg",
+        "linked",
+        "metadata"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns__s03_linked_asset_2026_05_11_indian_thermal_coal_demand_growth_returns_img_chart2_71c52c6e08fc_jpg",
+      "doc_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns",
+      "parent_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns__root",
+      "title": "Linked asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart2_71c52c6e08fc.jpg",
+      "section_path": [
+        "Linked asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart2_71c52c6e08fc.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart2_71c52c6e08fc.jpg",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart2_71c52c6e08fc.jpg\n\nLinked image asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart2_71c52c6e08fc.jpg\n\nImage metadata: JPEG 488x165 mode=RGB\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "india",
+        "coal",
+        "image",
+        "asset",
+        "indian-thermal-coal-demand-growth-returns_img_chart2_71c52c6e08fc.jpg",
+        "jpeg",
+        "linked",
+        "metadata"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 104,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns__s04_linked_asset_2026_05_11_indian_thermal_coal_demand_growth_returns_img_chart3_a396a8cb5e52_jpg",
+      "doc_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns",
+      "parent_id": "breakwave_insights_insights_2026-05-11_2026_05_11_indian_thermal_coal_demand_growth_returns__root",
+      "title": "Linked asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart3_a396a8cb5e52.jpg",
+      "section_path": [
+        "Linked asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart3_a396a8cb5e52.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart3_a396a8cb5e52.jpg",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart3_a396a8cb5e52.jpg\n\nLinked image asset: 2026-05-11_indian-thermal-coal-demand-growth-returns_img_chart3_a396a8cb5e52.jpg\n\nImage metadata: JPEG 488x165 mode=RGB\n\n[OCR skipped for small image (< 90000 pixels).]",
+      "keywords": [
+        "india",
+        "coal",
+        "image",
+        "asset",
+        "indian-thermal-coal-demand-growth-returns_img_chart3_a396a8cb5e52.jpg",
+        "jpeg",
+        "linked",
+        "metadata"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 102,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
