@@ -820,7 +820,7 @@ Return ONLY valid JSON matching this schema:
       "confluence_type": "<BULL_CONFLUENCE|BEAR_CONFLUENCE|DIVERGENCE|NEUTRAL>",
       "momentum_grade": "<STRONG_UP|UP|FLAT|DOWN|STRONG_DOWN>",
       "confidence_score": <float 0.0-1.0>,
-      "confluence_note": "<2 sentences: first states the Z-score and what regime it implies historically; second states how many analyst reports are bullish/bearish/neutral and whether they confirm or contradict the quant reading>",
+      "confluence_note": "<2 sentences — S1: state the exact Z-score from analytics table and what regime/percentile this implies historically; S2: MANDATORY — copy the EXACT counts from the PRE-COMPUTED SIGNAL INTELLIGENCE block above (do NOT recount from report narrative text). Use this exact format: 'Of the N Breakwave reports: Sentiment X pos/Y neg/Z neu; Momentum A pos/B neg/C neu; Fundamentals D pos/E neg/F neu — [one clause explaining whether this confirms or contradicts the quant reading and the dominant driver of the divergence/alignment]'>",
       "summary": "<4 sentences of flowing analysis: S1=where the market is with historical context; S2=momentum characterization using Z+ROC to explain the rate-of-change story; S3=analyst consensus synthesis noting any quant-qual divergence; S4=actionable conclusion on positioning over the next 2-4 weeks>",
       "key_signals": ["<analytical sentence with embedded number explaining WHY it matters — NOT a raw data label>", "...up to 8 total"],
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_TANKER|SHORT_SPREAD_VS_TANKER>",
@@ -833,7 +833,7 @@ Return ONLY valid JSON matching this schema:
       "confluence_type": "<BULL_CONFLUENCE|BEAR_CONFLUENCE|DIVERGENCE|NEUTRAL>",
       "momentum_grade": "<STRONG_UP|UP|FLAT|DOWN|STRONG_DOWN>",
       "confidence_score": <float 0.0-1.0>,
-      "confluence_note": "<same structure as dry_bulk: Z-score regime reading + analyst consensus count and alignment>",
+      "confluence_note": "<2 sentences — S1: state the exact Z-score from analytics table and what regime/percentile this implies historically; S2: MANDATORY — copy the EXACT counts from the PRE-COMPUTED SIGNAL INTELLIGENCE block above (do NOT recount from report narrative text). Use this exact format: 'Of the N Breakwave reports: Sentiment X pos/Y neg/Z neu; Momentum A pos/B neg/C neu; Fundamentals D pos/E neg/F neu — [one clause explaining whether this confirms or contradicts the quant reading and the dominant driver of the divergence/alignment]'>",
       "summary": "<4 sentences flowing analysis — must address clean/dirty split explicitly if Z-spreads diverge>",
       "key_signals": ["<analytical sentence with embedded number>", "...up to 8 total"],
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_DRY|SHORT_SPREAD_VS_DRY>",
@@ -1121,16 +1121,41 @@ def _sentiment_mix(signals: list[dict]) -> tuple[str, float, str]:
     return dominant, score, ", ".join(parts)
 
 
-def _template_confluence_note(confluence: str, label: str, z_score: float | None, qual_score: float) -> str:
+def _template_confluence_note(
+    confluence: str,
+    label: str,
+    z_score: float | None,
+    qual_score: float,
+    tally: dict | None = None,
+) -> str:
     z_txt = _fmt_signed(z_score, 2, "sigma")
-    q_txt = _fmt_signed(qual_score, 2)
+    tally_str = ""
+    if tally:
+        tally_str = (
+            f" Of {tally['n']} Breakwave reports: "
+            f"Sentiment {tally['sp']} pos/{tally['sn']} neg/{tally['su']} neu; "
+            f"Momentum {tally['mp']} pos/{tally['mn']} neg/{tally['mu']} neu; "
+            f"Fundamentals {tally['fp']} pos/{tally['fn']} neg/{tally['fu']} neu."
+        )
     if confluence == "BULL_CONFLUENCE":
-        return f"Quant momentum and analyst tone align bullishly for {label} (quant {z_txt}, qual {q_txt})."
+        return (
+            f"Quant momentum and analyst signals align bullishly for {label} "
+            f"(Z={z_txt}).{tally_str}"
+        )
     if confluence == "BEAR_CONFLUENCE":
-        return f"Quant momentum and analyst tone align bearishly for {label} (quant {z_txt}, qual {q_txt})."
+        return (
+            f"Quant momentum and analyst signals align bearishly for {label} "
+            f"(Z={z_txt}).{tally_str}"
+        )
     if confluence == "DIVERGENCE":
-        return f"Quant and analyst signals disagree for {label} (quant {z_txt}, qual {q_txt}), creating a two-way setup."
-    return f"Signal alignment is mixed for {label} (quant {z_txt}, qual {q_txt}); conviction remains limited."
+        return (
+            f"Quant and analyst signals disagree for {label} (Z={z_txt}): "
+            f"rates are elevated but fundamentals are under pressure.{tally_str}"
+        )
+    return (
+        f"Signal alignment is mixed for {label} (Z={z_txt}); "
+        f"conviction remains limited.{tally_str}"
+    )
 
 
 def _template_outlook(confluence: str, label: str) -> str:
@@ -1186,11 +1211,21 @@ def _template_vessel_entry(
     latest_signal = qual_signals[0] if qual_signals else None
     dominant_sentiment, qual_score, sentiment_mix = _sentiment_mix(qual_signals)
 
+    # Build tally dict for the template confluence note
+    def _tc(field: str) -> tuple[int, int, int]:
+        p = sum(1 for s in qual_signals if str(s.get(field, "")).lower() == "positive")
+        n = sum(1 for s in qual_signals if str(s.get(field, "")).lower() == "negative")
+        return p, n, len(qual_signals) - p - n
+    sp, sn, su = _tc("sentiment")
+    mp, mn, mu = _tc("momentum")
+    fp, fn, fu = _tc("fundamentals")
+    tally = dict(n=len(qual_signals), sp=sp, sn=sn, su=su, mp=mp, mn=mn, mu=mu, fp=fp, fn=fn, fu=fu)
+
     summary_parts = [
         f"{label.title()} is in {primary_regime.lower()} regime at {primary_value if primary_value is not None else 'N/A'}, "
         f"with z-score {_fmt_signed(z_for_logic, 2, 'sigma')} and ROC60 {_fmt_signed(primary_roc, 1, '%')}.",
         f"Recent analyst sentiment skews {dominant_sentiment} ({sentiment_mix}).",
-        _template_confluence_note(pre_conf, label, z_for_logic, qual_score),
+        _template_confluence_note(pre_conf, label, z_for_logic, qual_score, tally=tally),
     ]
     summary = " ".join(part.strip() for part in summary_parts if part.strip())
 
