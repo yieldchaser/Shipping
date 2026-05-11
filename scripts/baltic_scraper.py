@@ -180,22 +180,6 @@ def dismiss_cookie_banner(driver):
             pass
 
 
-def click_tab(driver, label: str) -> bool:
-    clicked = driver.execute_script("""
-        var label = arguments[0];
-        var tags = ['a','button','li','div','span'];
-        for (var t = 0; t < tags.length; t++) {
-            var els = document.getElementsByTagName(tags[t]);
-            for (var i = 0; i < els.length; i++) {
-                if (els[i].textContent.trim() === label) {
-                    els[i].click(); return true;
-                }
-            }
-        }
-        return false;
-    """, label)
-    return bool(clicked)
-
 
 def count_links(driver, pattern) -> int:
     soup = BeautifulSoup(driver.page_source, "lxml")
@@ -261,25 +245,6 @@ def dump_filter_dom(driver, cat: str):
         for c in (candidates or [])[:5]:
             print(f"    [{c['tag']}] cls={c['cls'][:40]!r}  text={c['text']!r}  @ ({c['x']},{c['y']})")
 
-
-def _visible_filter_container(driver) -> "str | None":
-    """
-    Return a JS expression that resolves to the VISIBLE .article-filter-options
-    element (the one belonging to the currently active tab).
-    Multiple tabs each have their own .article-filter-options; only the active
-    tab's container has a non-zero bounding rect.
-    """
-    info = driver.execute_script("""
-        var containers = document.querySelectorAll('.article-filter-options');
-        for (var i = 0; i < containers.length; i++) {
-            var r = containers[i].getBoundingClientRect();
-            if (r.width > 5 && r.height > 5) {
-                return {index: i, width: Math.round(r.width), height: Math.round(r.height)};
-            }
-        }
-        return null;
-    """)
-    return info  # dict with 'index', or None
 
 
 def get_baltic_years(driver) -> list:
