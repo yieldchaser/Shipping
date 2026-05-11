@@ -34,13 +34,13 @@ SIGNALS_FILE = DERIVED / "signals.jsonl"
 
 # CSV files: key -> path  (DD-MM-YYYY, Index, %Change)
 CSV_FILES = {
-    "bdi": ROOT / "bdiy_historical.csv",
-    "capesize": ROOT / "cape_historical.csv",
-    "panamax": ROOT / "panama_historical.csv",
-    "supramax": ROOT / "suprama_historical.csv",
-    "handysize": ROOT / "handysize_historical.csv",
-    "clean_tanker": ROOT / "cleantanker_historical.csv",
-    "dirty_tanker": ROOT / "dirtytanker_historical.csv",
+    "bdi": ROOT / "data" / "bdiy_historical.csv",
+    "capesize": ROOT / "data" / "cape_historical.csv",
+    "panamax": ROOT / "data" / "panama_historical.csv",
+    "supramax": ROOT / "data" / "suprama_historical.csv",
+    "handysize": ROOT / "data" / "handysize_historical.csv",
+    "clean_tanker": ROOT / "data" / "cleantanker_historical.csv",
+    "dirty_tanker": ROOT / "data" / "dirtytanker_historical.csv",
 }
 
 WIKI_EXCERPTS = {

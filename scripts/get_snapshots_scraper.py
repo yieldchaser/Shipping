@@ -204,8 +204,8 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
     cookies  = Path(args.cookies) if args.cookies else None
 
-    # Target filename in repo root
-    target_csv = Path(f"{ticker}_flows.csv")
+    # Target filename in data/ directory
+    target_csv = Path(f"data/{ticker}_flows.csv")
 
     session  = build_session(cookies)
     raw_data = fetch_snapshots(session, ticker, args.start, args.end)

@@ -43,7 +43,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add bdiy_historical.csv cape_historical.csv panama_historical.csv suprama_historical.csv handysize_historical.csv cleantanker_historical.csv dirtytanker_historical.csv bdryff_history.csv bwetff_history.csv BDRY_Daily.csv BWET_Daily.csv sgx_cape_futures.csv sgx_panamax_futures.csv sgx_supramax_futures.csv sgx_handysize_futures.csv BDRY_flows.csv BWET_flows.csv
+        git add data/bdiy_historical.csv data/cape_historical.csv data/panama_historical.csv data/suprama_historical.csv data/handysize_historical.csv data/cleantanker_historical.csv data/dirtytanker_historical.csv data/bdryff_history.csv data/bwetff_history.csv data/BDRY_Daily.csv data/BWET_Daily.csv data/sgx_cape_futures.csv data/sgx_panamax_futures.csv data/sgx_supramax_futures.csv data/sgx_handysize_futures.csv data/BDRY_flows.csv data/BWET_flows.csv
         if git diff --staged --quiet; then
           echo "No index/flow changes to commit."
           exit 0

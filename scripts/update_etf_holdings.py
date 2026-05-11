@@ -10,8 +10,8 @@ CSV_URL = 'https://amplifyetfs.com/wp-content/uploads/feeds/AmplifyWeb.40XL.XL_H
 
 # ETFs we want to extract
 TARGET_ETFS = {
-    'BDRY': 'bdry_holdings.csv',
-    'BWET': 'bwet_holdings.csv'
+    'BDRY': 'data/bdry_holdings.csv',
+    'BWET': 'data/bwet_holdings.csv'
 }
 
 HEADERS = {
@@ -268,8 +268,8 @@ def main():
             bdry_csv = bdry_hist[['Date', 'Close', 'Volume']].copy()
             bdry_csv.rename(columns={'Date': 'date', 'Close': 'close', 'Volume': 'volume'}, inplace=True)
             bdry_csv['date'] = bdry_csv['date'].dt.strftime('%Y-%m-%d')
-            bdry_csv.to_csv('bdry_liquidity.csv', index=False)
-            print("Successfully saved bdry_liquidity.csv")
+            bdry_csv.to_csv('data/bdry_liquidity.csv', index=False)
+            print("Successfully saved data/bdry_liquidity.csv")
         else:
             print("No data returned for BDRY.")
 
@@ -281,8 +281,8 @@ def main():
             bwet_csv = bwet_hist[['Date', 'Close', 'Volume']].copy()
             bwet_csv.rename(columns={'Date': 'date', 'Close': 'close', 'Volume': 'volume'}, inplace=True)
             bwet_csv['date'] = bwet_csv['date'].dt.strftime('%Y-%m-%d')
-            bwet_csv.to_csv('bwet_liquidity.csv', index=False)
-            print("Successfully saved bwet_liquidity.csv")
+            bwet_csv.to_csv('data/bwet_liquidity.csv', index=False)
+            print("Successfully saved data/bwet_liquidity.csv")
         else:
             print("No data returned for BWET.")
 

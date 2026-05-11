@@ -41,7 +41,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add blng_historical.csv blpg_historical.csv fbx_historical.csv bai_historical.csv
+        git add data/blng_historical.csv data/blpg_historical.csv data/fbx_historical.csv data/bai_historical.csv
         if git diff --staged --quiet; then
           echo "No Baltic new index changes to commit."
           exit 0

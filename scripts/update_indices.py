@@ -14,13 +14,13 @@ except ImportError:
 
 # Index mapping: URL code → filename
 INDEXES = {
-    'BDTI': 'dirtytanker_historical.csv',
-    'BCTI': 'cleantanker_historical.csv',
-    'BCI': 'cape_historical.csv',
-    'BPI': 'panama_historical.csv',
-    'BSI': 'suprama_historical.csv',
-    'BHI': 'handysize_historical.csv',
-    'BDI': 'bdiy_historical.csv'
+    'BDTI': 'data/dirtytanker_historical.csv',
+    'BCTI': 'data/cleantanker_historical.csv',
+    'BCI': 'data/cape_historical.csv',
+    'BPI': 'data/panama_historical.csv',
+    'BSI': 'data/suprama_historical.csv',
+    'BHI': 'data/handysize_historical.csv',
+    'BDI': 'data/bdiy_historical.csv'
 }
 
 BASE_URL = "https://en.stockq.org/index/{}.php"  # Fixed: removed space
@@ -97,8 +97,8 @@ def update_csv(filename, new_data):
 # ── Solactive freight futures index scraper ──────────────────────────────────
 
 SOLACTIVE_INDEXES = {
-    'DE000SLA4BY3': 'bdryff_history.csv',  # Breakwave Dry Freight Futures
-    'DE000SL0HLG3': 'bwetff_history.csv',  # Breakwave Wet Freight Futures
+    'DE000SLA4BY3': 'data/bdryff_history.csv',  # Breakwave Dry Freight Futures
+    'DE000SL0HLG3': 'data/bwetff_history.csv',  # Breakwave Wet Freight Futures
 }
 
 SOLACTIVE_HEADERS = {
@@ -318,8 +318,8 @@ def update_solactive_with_fallback(isin, filename):
 # ── NEW: Amplify ETF premium/discount scraper ─────────────────────────────────
 
 AMPLIFY_ETFS = {
-    'BDRY': 'BDRY_Daily.csv',
-    'BWET': 'BWET_Daily.csv',
+    'BDRY': 'data/BDRY_Daily.csv',
+    'BWET': 'data/BWET_Daily.csv',
 }
 
 AMPLIFY_URL = "https://amplifyetfs.com/wp-content/uploads/feeds/AmplifyWeb.40XL.XL_{ticker}_Daily.csv"
@@ -401,10 +401,10 @@ def get_expiry(month, year):
 
 
 SGX_PRODUCTS = {
-    'CWF': 'sgx_cape_futures.csv',
-    'PWF': 'sgx_panamax_futures.csv',
-    'SWF': 'sgx_supramax_futures.csv',
-    'HWF': 'sgx_handysize_futures.csv',
+    'CWF': 'data/sgx_cape_futures.csv',
+    'PWF': 'data/sgx_panamax_futures.csv',
+    'SWF': 'data/sgx_supramax_futures.csv',
+    'HWF': 'data/sgx_handysize_futures.csv',
 }
 
 # CME month codes → (month_index 1-12, name)
