@@ -12006,24 +12006,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     function _autoSelectSources(query) {
       const q = (query || '').toLowerCase();
+      const active = new Set();
 
-      // Pattern definitions for each source
-      const patterns = {
-        breakwave:   /breakwave|analyst sentiment|conviction|qual analysis|grade/i,
-        baltic:      /baltic|spot rate|exchange|market comment/i,
-        hellenic:    /charter|timecharter|tc rate|vessel valuation|second.hand/i,
-        ironOre:     /iron ore|ore demand|capesize demand|china steel|ton.mile/i,
-        shipbuilding: /newbuild|orderbook|demolition|scrapping|fleet size|eexi|cii/i,
-        books:       /explain|fundamentals|background|textbook|historical context/i,
-      };
+      if (/breakwave|analyst sentiment|conviction|qual analysis|grade/i.test(q)) active.add('breakwave');
+      if (/baltic|spot rate|exchange|market comment/i.test(q)) active.add('baltic');
+      if (/charter|timecharter|tc rate|vessel valuation|second.hand/i.test(q)) active.add('hellenic');
+      if (/iron ore|ore demand|capesize demand|china steel|ton.mile/i.test(q)) active.add('ironOre');
+      if (/newbuild|orderbook|demolition|scrapping|fleet size|eexi|cii/i.test(q)) active.add('shipbuilding');
+      if (/explain|fundamentals|background|textbook|historical context/i.test(q)) active.add('books');
 
-      // Auto-check sources based on detected intent (additive — don't uncheck defaults)
-      if (patterns.breakwave.test(q)) document.getElementById('qaSrcBreakwave').checked = true;
-      if (patterns.baltic.test(q)) document.getElementById('qaSrcBaltic').checked = true;
-      if (patterns.hellenic.test(q)) document.getElementById('qaSrcHellenic').checked = true;
-      if (patterns.ironOre.test(q)) document.getElementById('qaSrcIronOre').checked = true;
-      if (patterns.shipbuilding.test(q)) document.getElementById('qaSrcShipbuilding').checked = true;
-      if (patterns.books.test(q)) document.getElementById('qaSrcBooks').checked = true;
+      return active;
     }
 
     async function runQAQuery() {
@@ -12033,7 +12025,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const ansEl  = document.getElementById('qaAnswer');
       const citEl  = document.getElementById('qaCitations');
       const query  = (document.getElementById('qaQuery')?.value || '').trim();
-      _autoSelectSources(query);  // Auto-activate sources based on query intent
+      const autoSrc = _autoSelectSources(query);  // backend source routing — doesn't touch checkboxes
       const provider = _currentQAProvider();
       const cfg = _providerConfig(provider);
       const apiKey = (document.getElementById('qaApiKey')?.value || _loadProviderKey(provider) || '').trim();
@@ -12075,14 +12067,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         // Step 2 - Chunks (progressive: recent first, expand if needed)
         let topChunks = [];
         if (!wikiOnly) {
+          // src() = manually checked OR auto-detected from query — union of both, never intersection
           const _isChecked = id => document.getElementById(id)?.checked;
+          const _src = (id, key) => _isChecked(id) || autoSrc.has(key);
           const _getUrls = tier => [
-            ...(_isChecked('qaSrcBreakwave') ? (QA_CHUNK_FILES.breakwave[tier] || []) : []),
-            ...(_isChecked('qaSrcBaltic')    ? (QA_CHUNK_FILES.baltic[tier]    || []) : []),
-            ...(_isChecked('qaSrcHellenic')  ? (QA_CHUNK_FILES.hellenic[tier]  || []) : []),
-            ...(_isChecked('qaSrcIronOre')   ? (QA_CHUNK_FILES.ironOre[tier]   || []) : []),
-            ...(_isChecked('qaSrcShipbuilding') ? (QA_CHUNK_FILES.shipbuilding[tier] || []) : []),
-            ...(_isChecked('qaSrcBooks')     ? (QA_CHUNK_FILES.books[tier]     || []) : []),
+            ...(_src('qaSrcBreakwave',    'breakwave')    ? (QA_CHUNK_FILES.breakwave[tier]    || []) : []),
+            ...(_src('qaSrcBaltic',       'baltic')       ? (QA_CHUNK_FILES.baltic[tier]       || []) : []),
+            ...(_src('qaSrcHellenic',     'hellenic')     ? (QA_CHUNK_FILES.hellenic[tier]     || []) : []),
+            ...(_src('qaSrcIronOre',      'ironOre')      ? (QA_CHUNK_FILES.ironOre[tier]      || []) : []),
+            ...(_src('qaSrcShipbuilding', 'shipbuilding') ? (QA_CHUNK_FILES.shipbuilding[tier] || []) : []),
+            ...(_src('qaSrcBooks',        'books')        ? (QA_CHUNK_FILES.books[tier]        || []) : []),
           ];
           // Determine if the leading provider has large (128K) context
           const leadCfg = _providerConfig(fallbackOrder[0] || provider);
