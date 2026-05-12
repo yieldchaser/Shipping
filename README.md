@@ -16,15 +16,17 @@ Open `index.html` in any browser, or visit the GitHub Pages URL.
 
 ---
 
-## 🧠 Research Q&A (RAG)
+## 🧠 Research Q&A (Advanced RAG)
 
-The dashboard now features a production-ready **Grounded Q&A Assistant** (RAG) that allows analysts to query the entire shipping knowledge base.
+The dashboard features a **world-class browser-based RAG assistant** tuned specifically for shipping market analysis. Unlike typical RAG systems, this engine combines lexical precision with semantic intent:
 
-- **Suggested Questions UI**: A tabbed, human-readable question interface categorized by *Daily Briefing*, *Market Signals*, *Supply & Orderbooks*, *Macro & Cargo*, and *Trade Ideas*.
-- **Live Data Injection**: Unlike standard RAG which only sees static documents, our engine automatically injects the latest live quantitative telemetry (Z-scores, Regimes, Divergences) into every prompt as `[DOC-1]`.
-- **Traceable Citations**: Every claim is backed by a superscript citation (e.g., `[1]`) that links directly to the source report, date, and paragraph.
-- **Provider Fallback**: Intelligent browser-side engine that automatically falls back through Groq, Gemini, and Ollama to ensure 24/7 reliability.
-- **Zero-Cost Infrastructure**: Runs entirely in your browser using client-side indexing and free-tier LLM APIs.
+- **Suggested Questions UI**: Tabbed interface (Daily Briefing, Market Signals, Supply & Orderbooks, Macro & Cargo, Trade Ideas) with smart question routing
+- **Four-Stage Ranked Retrieval**: Query expansion (40+ shipping aliases) → inverted index candidate discovery → date-range pre-filtering → multi-factor BM25 (keywords 2×, section-title boost, recency 1.5×, source dedup) → optional LLM reranker
+- **Live Market Injection**: Every query auto-injects today's Z-scores, regimes, analyst consensus, trade ideas, and macro catalysts as readable narrative (not JSON)
+- **Traceable Citations**: Every fact backed by `[DOC-N]` superscript linking to source report + date + section
+- **Low-Confidence Warnings**: System surfaces "⚠ Limited context found" when retrieval quality is thin
+- **Provider Fallback**: Auto-retries Groq → OpenRouter (free) for 24/7 uptime
+- **Zero-Cost, Zero-Server**: Entirely client-side; no backend or vector database required
 
 ---
 
@@ -607,12 +609,50 @@ pdfplumber · beautifulsoup4 · lxml · google-generativeai · tiktoken · pytho
 - Capesize went briefly negative in 2020; the yearly **Volatility %** correctly uses `abs(avg)` as the denominator to handle negative bases, while the **Trough→Peak %** omits years where `min ≤ 0` to preserve the mathematical integrity of percentage gains.
 - Server-side provider chain defaults to `ollama,gemini,nim`. Configure `GEMINI_API_KEY`, `OLLAMA_BASE_URL`, `OLLAMA_MODEL`, optional `OLLAMA_API_KEY`, `NIM_API_KEY`, `NIM_MODEL`, and optional `NIM_BASE_URL` for automated workflows.
 - Knowledge processing now compiles `breakwave`, `baltic`, `breakwave_insights`, `hellenic`, and `books`.
+- Chunk JSONL schema (May 2026 onward) includes four new fields: `has_rates` (bool), `has_forecast` (bool), `vessel_classes_matched` (list), `regions_matched` (list). These enable future filter-before-rank retrieval (e.g., "only score chunks with price data for rate questions"). Newly compiled documents get these fields automatically; run `python scripts/process_knowledge.py --rebuild` to backfill the existing corpus.
 
 ---
 
-## Research Q&A — LLM Provider Reference
+## Research Q&A — Advanced RAG Engine
 
-The Intelligence Dashboard includes a browser-based RAG Q&A engine. It supports **two active providers** — both work natively in any browser with no proxy or backend required.
+The Intelligence Dashboard includes a **production-grade browser-based RAG Q&A engine** optimized for shipping market intelligence. All retrieval, ranking, and context assembly happens client-side — no server needed.
+
+### Retrieval Pipeline (May 2026)
+
+The system uses a **four-stage ranked retrieval** to maximize precision without embeddings:
+
+1. **Query expansion** — Shipping-domain aliases (cape → capesize, bci; vlcc → td3c, meg; q2 → april, may, june; 40+ mappings total) broaden BM25 recall
+2. **Inverted index lookup** — O(terms) candidate discovery; only chunks matching ≥1 query term are scored
+3. **Date-range pre-filtering** — Queries mentioning "Q1 2026", "this month", "last week", "currently" pre-filter candidates to that time window before ranking
+4. **Multi-factor BM25 re-scoring**:
+   - Keywords field weighted 2× (curated taxonomy outranks incidental text)
+   - Section-title boost: query terms in chunk titles multiply score by 1 + hits×0.4
+   - Recency multiplier: chunks from last 90 days score 1.5× higher
+   - Source deduplication: max 2–3 chunks per document prevents any single report from crowding the context
+
+5. **Optional LLM reranker** (OpenRouter only) — For large-context providers, a tiny non-streaming call (temp=0) re-ranks the top 25 BM25 candidates before context assembly
+
+### Live Data Injection
+
+Each Q&A query automatically injects **today's market snapshot** into the context:
+- All 7 freight index Z-scores, percentiles, regime, rate-of-change
+- Vessel-class analyst consensus (signal, sentiment, key signals, outlook, trade idea, risk)
+- Macro context (geopolitical, supply chain, catalysts)
+- Cross-sector analysis and positioning recommendations
+
+Formatted as readable plain text, not JSON — the LLM comprehends it fluently.
+
+### Result Confidence Signaling
+
+- Low-confidence warning appears in status bar if BM25 top score < 0.5 or fewer than 3 chunks matched
+- Allows graceful degradation: "Limited context found — answer may be partial"
+- All answers include traceable citations: `[DOC-N]` superscripts link back to source reports with dates and section titles
+
+---
+
+## LLM Providers & Rate Limits
+
+The Intelligence Dashboard supports **two active providers** — both work natively in any browser with no proxy or backend required.
 
 ### Active Providers (May 2026)
 
