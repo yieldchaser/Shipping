@@ -11034,7 +11034,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (pv == null) return '';
         const cls = pv <= 25 ? 'pf-low' : pv >= 75 ? 'pf-high' : 'pf-mid';
         const col = pv <= 25 ? 'var(--red)' : pv >= 75 ? 'var(--green)' : 'var(--yellow)';
-        const tt = label === '1Y Pctl' ? 'Percentile rank over the last 1 year (252 trading days).' : label === '5Y Pctl' ? 'Percentile rank over the last 5 years.' : 'Percentile rank across all available historical data.'; return '<div class="pctl-row" data-tooltip="' + tt + '"><span class="pctl-label">' + label + '</span><div class="pctl-track"><div class="pctl-fill ' + cls + '" style="width:' + pv + '%"></div></div><span class="pctl-val" style="color:' + col + '">' + pv + 'th</span></div>';
+        const win = label === '1Y Pctl' ? '1Y' : label === '5Y Pctl' ? '5Y' : 'All-Time';
+        return '<div class="pctl-row" data-tt-type="percentile" data-tt-pctl="' + pv + '" data-tt-window="' + win + '"><span class="pctl-label">' + label + '</span><div class="pctl-track"><div class="pctl-fill ' + cls + '" style="width:' + pv + '%"></div></div><span class="pctl-val" style="color:' + col + '">' + pv + 'th</span></div>';
       }
 
       // Sparkline canvas ID
@@ -11046,19 +11047,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const visibleSigs = qualSigs.slice(0, 6);
       const hiddenSigs  = qualSigs.slice(6);
 
-      function sentCell(val) {
+      function sentCell(val, field, date) {
         const v = val || 'neutral';
         const cls = sentClsMap[v] || 'sm-neu';
         const icon = sentIcon[v] || '●';
         const lbl = v.replace(/_/g, ' ');
-        return '<td class="' + cls + '">' + icon + ' ' + lbl + '</td>';
+        return '<td class="' + cls + '" data-tt-type="sent-cell" data-tt-sent="' + v + '" data-tt-field="' + (field || '') + '" data-tt-date="' + (date || '') + '">' + icon + ' ' + lbl + '</td>';
       }
 
       const matrixRows = visibleSigs.map(s =>
-        '<tr>' + sentCell(s.sentiment) + sentCell(s.momentum) + sentCell(s.fundamentals) + '<td class="sm-date">' + (s.date || '-') + '</td></tr>'
+        '<tr>' + sentCell(s.sentiment, 'sentiment', s.date) + sentCell(s.momentum, 'momentum', s.date) + sentCell(s.fundamentals, 'fundamentals', s.date) + '<td class="sm-date">' + (s.date || '-') + '</td></tr>'
       ).join('');
       const hiddenRows = hiddenSigs.map(s =>
-        '<tr>' + sentCell(s.sentiment) + sentCell(s.momentum) + sentCell(s.fundamentals) + '<td class="sm-date">' + (s.date || '-') + '</td></tr>'
+        '<tr>' + sentCell(s.sentiment, 'sentiment', s.date) + sentCell(s.momentum, 'momentum', s.date) + sentCell(s.fundamentals, 'fundamentals', s.date) + '<td class="sm-date">' + (s.date || '-') + '</td></tr>'
       ).join('');
 
       const toggleId = 'smToggle_' + sparkId;
@@ -11096,14 +11097,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return '<div class="intel-sub-item"><span class="intel-sub-label">' + label + '</span><span class="intel-sub-val">' + fmtN(sq.current) + '</span><div class="intel-sub-meta" data-tooltip="Sub-index performance. Z-Score defines seasonal deviation; Regime defines trend phase."><span style="color:' + sCol + ';font-weight:600;">' + (sz != null ? (sz >= 0 ? '+' : '') + sz.toFixed(2) + 'σ' : '-') + '</span><span>' + sq.emoji + ' ' + sq.regime + '</span>' + subPctlHtml + '<span class="intel-vc-badge ' + scCfg.badge + '" style="padding:1px 6px;font-size:9px;" data-tooltip="' + scCfg.note.replace(/<[^>]+>/g, '') + '">' + scCfg.label + '</span></div></div>';
       }).join('');
 
-      return '<div class="intel-vc-card ' + cfg.cls + '"><div class="intel-vc-header"><span class="intel-vc-name">' + title + '</span><span class="intel-vc-badge ' + cfg.badge + '" data-tooltip="' + cfg.note.replace(/<[^>]+>/g, '') + '">' + cfg.label + '<span class="intel-confidence ' + confCls + '">' + confLabel + ' ' + confPct + '%</span></span></div>' +
-        '<div class="intel-conf-banner ' + cfg.cls + '" data-tooltip="Directional alignment indicator between Technical and Fundamental data.">' + cfg.note + '</div>' +
+      const pctl1yFmt = fmtPctl(q.pctl1y);
+      return '<div class="intel-vc-card ' + cfg.cls + '"><div class="intel-vc-header"><span class="intel-vc-name">' + title + '</span><span class="intel-vc-badge ' + cfg.badge + '" data-tt-type="confluence" data-tt-conf-type="' + confObj.type + '" data-tt-conf-pct="' + confPct + '">' + cfg.label + '<span class="intel-confidence ' + confCls + '">' + confLabel + ' ' + confPct + '%</span></span></div>' +
+        '<div class="intel-conf-banner ' + cfg.cls + '" data-tt-type="confluence" data-tt-conf-type="' + confObj.type + '" data-tt-conf-pct="' + confPct + '">' + cfg.note + '</div>' +
         '<div class="intel-body"><div class="intel-col">' +
           '<div class="intel-col-label" data-tooltip="Quantitative indicators derived from live exchange data and historical price action.">Quantitative</div>' +
-          '<div class="z-gauge-wrap" data-tooltip="Standard Deviation (σ) from the 1-year mean. Values >2σ or <-2σ signal historical extremes."><div class="z-value" style="color:' + zCol + '">' + zLabel + '</div><div class="z-gauge"><div class="z-gauge-dot" style="left:' + zPct + '%;background:' + zCol + ';"></div></div><div class="z-gauge-labels"><span>-3σ Negative</span><span>0</span><span>Positive +3σ</span></div></div>' +
+          '<div class="z-gauge-wrap" data-tt-type="zscore" data-tt-val="' + (z != null ? z.toFixed(2) : '') + '" data-tt-pctl1y="' + (pctl1yFmt != null ? pctl1yFmt : '') + '"><div class="z-value" style="color:' + zCol + '">' + zLabel + '</div><div class="z-gauge"><div class="z-gauge-dot" style="left:' + zPct + '%;background:' + zCol + ';"></div></div><div class="z-gauge-labels"><span>-3σ Negative</span><span>0</span><span>Positive +3σ</span></div></div>' +
           '<div class="intel-spark-label" data-tooltip="30-Day moving Z-Score trend. Values >2σ or <-2σ signal historical extremes. Hover to view daily values.">Z-Score (30D)</div><div class="intel-spark-wrap"><canvas id="' + sparkId + '"></canvas></div>' +
           pctlBar('1Y Pctl', q.pctl1y) + pctlBar('5Y Pctl', q.pctl5y) + pctlBar('All-Time', q.pctlAll) +
-          '<div class="intel-regime-row" data-tooltip="Volatility Regime based on MA200 crossover and 60-day Rate of Change. Expansion=Positive Trend; Contraction=Negative Trend."><span class="intel-regime-emoji">' + q.emoji + '</span><div><div class="intel-regime-label">' + q.regime + '</div><div class="intel-regime-sub">Level: ' + fmtN(q.current) + '</div></div><span class="intel-roc">ROC(60D) ' + fmtPc(q.roc60) + '</span></div>' +
+          '<div class="intel-regime-row" data-tt-type="regime" data-tt-regime="' + (q.regime || '') + '" data-tt-roc60="' + (q.roc60 != null ? q.roc60.toFixed(2) : '') + '" data-tt-ma200="' + (q.ma200 || '') + '" data-tt-current="' + (q.current || '') + '"><span class="intel-regime-emoji">' + q.emoji + '</span><div><div class="intel-regime-label">' + q.regime + '</div><div class="intel-regime-sub">Level: ' + fmtN(q.current) + '</div></div><span class="intel-roc" data-tt-type="roc60" data-tt-roc60="' + (q.roc60 != null ? q.roc60.toFixed(2) : '') + '">ROC(60D) ' + fmtPc(q.roc60) + '</span></div>' +
         '</div><div class="intel-col">' +
           '<div class="intel-col-label" data-tooltip="Qualitative intelligence synthesized from bi-weekly Breakwave analyst reports and market insights.">Qualitative - Breakwave Advisors</div>' +
           (qualSigs.length ? (
@@ -12364,8 +12366,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           const metric = target.getAttribute('data-tt-metric');
           const rawVal = target.getAttribute('data-tt-val'); // string like "12.5%"
           const value = parseFloat(rawVal);
-          
-          // Global compare for this metric
+
           const history = [];
           for (const yk in DATA.byYearProduct[pk] || DATA.byYear) {
              const rows = (DATA.byYearProduct[pk] || DATA.byYear)[yk];
@@ -12375,22 +12376,125 @@ document.getElementById('tabs').addEventListener('click', function(e) {
              if (metric === 'Volatility') history.push(((yMx - yMn) / Math.abs(yAvg) * 100));
              if (metric === 'Trough→Peak') history.push(((yMx - yMn) / yMn * 100));
           }
-          // Robust ranking: items counts as 'better' if significantly larger
           const rank = history.filter(v => v > (value + 0.001)).length + 1;
           const topPct = ((rank / history.length) * 100).toFixed(0);
-          
+
           html += `<div class="rt-row"><span class="rt-label">Historical Rank</span><span class="rt-val">#${rank} of ${history.length}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Percentile</span><span class="rt-val">${100 - topPct}% percentile</span></div>`;
           html += `<div class="rt-note">Comparing ${metric} intensity across all years.</div>`;
         }
-        
+
+        else if (type === 'zscore') {
+          const z = parseFloat(target.getAttribute('data-tt-val'));
+          const pctl1y = target.getAttribute('data-tt-pctl1y');
+          const label = isNaN(z) ? '-' : (z >= 0 ? '+' : '') + z.toFixed(2) + 'σ';
+          const zCls  = isNaN(z) ? '' : z > 0.5 ? 'pos' : z < -0.5 ? 'neg' : '';
+          const interp = isNaN(z) ? 'No data' :
+            z >  2   ? 'Extreme bull — well above 1-year mean' :
+            z >  1   ? 'Elevated — above normal range' :
+            z >  0.5 ? 'Mildly positive — slightly above mean' :
+            z > -0.5 ? 'Neutral — near the 1-year mean' :
+            z > -1   ? 'Mildly negative — slightly below mean' :
+            z > -2   ? 'Depressed — below normal range' :
+                       'Extreme bear — well below 1-year mean';
+          html += `<div class="rt-row"><span class="rt-label">Z-Score</span><span class="rt-val ${zCls}">${label}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Reading</span><span class="rt-val ${zCls}">${interp}</span></div>`;
+          if (pctl1y) html += `<div class="rt-row"><span class="rt-label">1Y Percentile</span><span class="rt-val">${pctl1y}th</span></div>`;
+          html += `<div class="rt-note">Deviation from 1-year rolling mean. ±1σ = normal range; beyond ±2σ covers only 5% of readings.</div>`;
+        }
+
+        else if (type === 'percentile') {
+          const pv   = parseInt(target.getAttribute('data-tt-pctl'));
+          const win  = target.getAttribute('data-tt-window') || '';
+          const winFull = win === '1Y' ? '1 Year (252 trading days)' : win === '5Y' ? '5 Years (1,260 days)' : 'Full price history';
+          const pvCls = pv >= 75 ? 'pos' : pv <= 25 ? 'neg' : '';
+          const qual  = pv >= 90 ? 'Extreme high — rare territory' :
+                        pv >= 75 ? 'High — above most prior readings' :
+                        pv >= 50 ? 'Above median' :
+                        pv >= 25 ? 'Below median' :
+                        pv >= 10 ? 'Low — below most prior readings' :
+                                   'Extreme low — rare territory';
+          html += `<div class="rt-row"><span class="rt-label">Percentile</span><span class="rt-val ${pvCls}">${pv}th</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Window</span><span class="rt-val">${winFull}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Reading</span><span class="rt-val ${pvCls}">${qual}</span></div>`;
+          html += `<div class="rt-note">Ranks current rate vs every trading day in the window. 100th = period high, 0th = period low.</div>`;
+        }
+
+        else if (type === 'regime') {
+          const regime  = target.getAttribute('data-tt-regime') || '';
+          const roc60   = parseFloat(target.getAttribute('data-tt-roc60'));
+          const ma200   = parseFloat(target.getAttribute('data-tt-ma200'));
+          const current = parseFloat(target.getAttribute('data-tt-current'));
+          const regimeMap = {
+            EXPANSION:    { cls: 'pos', desc: 'Price above MA200 and 60D momentum positive. Classic uptrend — rates rising and trend intact.' },
+            DISTRIBUTION: { cls: '',    desc: 'Price above MA200 but 60D momentum fading. Trend intact but losing steam — watch for reversal.' },
+            ACCUMULATION: { cls: '',    desc: 'Price below MA200 but 60D momentum turning positive. Early recovery — potential base formation.' },
+            CONTRACTION:  { cls: 'neg', desc: 'Price below MA200 and 60D momentum negative. Classic downtrend — rates falling and trend intact.' },
+          };
+          const rd = regimeMap[regime] || { cls: '', desc: 'Insufficient data.' };
+          html += `<div class="rt-row"><span class="rt-label">Phase</span><span class="rt-val ${rd.cls}">${regime || 'N/A'}</span></div>`;
+          if (!isNaN(roc60)) html += `<div class="rt-row"><span class="rt-label">ROC (60D)</span><span class="rt-val ${roc60 >= 0 ? 'pos' : 'neg'}">${roc60 >= 0 ? '+' : ''}${roc60.toFixed(1)}%</span></div>`;
+          if (!isNaN(ma200) && !isNaN(current) && ma200 > 0) {
+            const spread = ((current - ma200) / ma200 * 100).toFixed(1);
+            html += `<div class="rt-row"><span class="rt-label">vs MA(200)</span><span class="rt-val ${spread >= 0 ? 'pos' : 'neg'}">${spread >= 0 ? '+' : ''}${spread}%</span></div>`;
+          }
+          html += `<div class="rt-note">${rd.desc}</div>`;
+        }
+
+        else if (type === 'roc60') {
+          const roc = parseFloat(target.getAttribute('data-tt-roc60'));
+          if (!isNaN(roc)) {
+            const cls = roc >= 0 ? 'pos' : 'neg';
+            const intensity = Math.abs(roc) > 20 ? 'Strong' : Math.abs(roc) > 10 ? 'Moderate' : 'Mild';
+            const dir = roc > 0 ? 'positive' : 'negative';
+            html += `<div class="rt-row"><span class="rt-label">60D Change</span><span class="rt-val ${cls}">${roc >= 0 ? '+' : ''}${roc.toFixed(1)}%</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Momentum</span><span class="rt-val ${cls}">${intensity} ${dir}</span></div>`;
+          }
+          html += `<div class="rt-note">Rate of change over the last 60 trading days. Positive = price higher than 60 days ago.</div>`;
+        }
+
+        else if (type === 'confluence') {
+          const confType = target.getAttribute('data-tt-conf-type') || 'NEUTRAL';
+          const confPct  = parseInt(target.getAttribute('data-tt-conf-pct') || '0');
+          const confCls  = confPct >= 65 ? 'pos' : confPct <= 35 ? 'neg' : '';
+          const typeDesc = {
+            BULL_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are positive — aligned bullish setup.',
+            BEAR_CONFLUENCE: 'Both quant (Z-score) and qual (Breakwave analyst) signals are negative — aligned bearish setup.',
+            DIVERGENCE:      'Quant and qual signals contradict. Elevated positioning risk; potential mean-reversion setup.',
+            NEUTRAL:         'No strong directional signal detected from either quant or qual data.',
+          };
+          html += `<div class="rt-row"><span class="rt-label">Signal</span><span class="rt-val">${confType.replace(/_/g, ' ')}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Confidence</span><span class="rt-val ${confCls}">${confPct}%</span></div>`;
+          html += `<div class="rt-note">${typeDesc[confType]}</div>`;
+        }
+
+        else if (type === 'sent-cell') {
+          const sentVal = target.getAttribute('data-tt-sent') || 'neutral';
+          const field   = target.getAttribute('data-tt-field') || '';
+          const date    = target.getAttribute('data-tt-date') || '';
+          const sentDesc = {
+            positive:          'Expects materially higher rates / improved conditions.',
+            negative:          'Expects materially lower rates / deteriorating conditions.',
+            neutral:           'No significant directional view — rates expected stable.',
+            mixed:             'Conflicting indicators. Both upside and downside present.',
+            constructive:      'Cautiously optimistic. Fundamental backdrop supports higher rates.',
+            cautiously_bullish:'Mild positive bias. Some upside expected, hedged conviction.',
+            cautiously_bearish:'Mild negative bias. Some downside expected, hedged conviction.',
+          };
+          const fieldLabel = { sentiment: 'Overall Sentiment', momentum: 'Short-Term Momentum', fundamentals: 'Supply & Demand Fundamentals' }[field] || field;
+          html += `<div class="rt-row"><span class="rt-label">Grade</span><span class="rt-val">${sentVal.replace(/_/g, ' ')}</span></div>`;
+          html += `<div class="rt-row"><span class="rt-label">Dimension</span><span class="rt-val">${fieldLabel}</span></div>`;
+          if (date) html += `<div class="rt-row"><span class="rt-label">Report Date</span><span class="rt-val">${date}</span></div>`;
+          html += `<div class="rt-note">${sentDesc[sentVal] || 'See full Breakwave report for details.'}</div>`;
+        }
+
         return html;
       }
 
       document.addEventListener('mouseover', function(e) {
-        const target = e.target.closest('[data-tooltip]');
+        const target = e.target.closest('[data-tooltip], [data-tt-type]');
         if (!target) return;
-        
+
         const staticText = target.getAttribute('data-tooltip');
         const richContent = getCalculatedTooltip(target);
         
@@ -12420,7 +12524,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       });
 
       document.addEventListener('mouseout', function(e) {
-        if (e.target.closest('[data-tooltip]'))
+        if (e.target.closest('[data-tooltip], [data-tt-type]'))
           hideTimer = setTimeout(() => tt.classList.remove('visible'), 80);
       });
     })();
