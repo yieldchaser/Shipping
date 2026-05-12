@@ -3677,8 +3677,6 @@
             <select id="qaProvider" class="qa-key-input qa-provider-select" onchange="onQAProviderChange()">
               <option value="groq">Groq</option>
               <option value="openrouter">OpenRouter (free)</option>
-              <option value="ollama">Ollama (Local/Proxy)</option>
-              <option value="nim">NIM (NVIDIA)</option>
             </select>
             <span id="qaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
             <span class="qa-key-label" id="qaApiKeyLabel">Groq Key</span>
@@ -3686,11 +3684,6 @@
             <span class="qa-key-label">Model</span>
             <input type="text" id="qaModel" class="qa-key-input" placeholder="llama-3.3-70b-versatile" list="qaModelSuggestions" />
             <datalist id="qaModelSuggestions"></datalist>
-            <button class="qa-key-btn" id="qaRefreshModelsBtn" style="display:none;padding:3px 8px;" onclick="_refreshOllamaModels()" title="Detect local Ollama models">&#x21BB;</button>
-            <span class="qa-key-label" id="qaBaseUrlLabel" style="display:none;">Proxy URL</span>
-            <input type="text" id="qaBaseUrl" class="qa-key-input" style="display:none;" placeholder="http://localhost:11434/api" />
-            <div id="qaNimCorsWarning" style="display:none;color:var(--yellow);font-size:11px;padding:4px 8px;border:1px solid var(--yellow);border-radius:4px;margin-top:4px;">&#x26A0;&#xFE0F; NIM blocks direct browser calls (no CORS). Paste your Cloudflare Worker / proxy URL in the Proxy URL field above.</div>
-            <div id="qaOllamaCorsWarning" style="display:none;color:var(--yellow);font-size:11px;padding:4px 8px;border:1px solid var(--yellow);border-radius:4px;margin-top:4px;">&#x26A0;&#xFE0F; Ollama cloud (<code>ollama.com/api</code>) is CORS-blocked in browsers. Use local Ollama at <code>http://localhost:11434/api</code> or paste a Cloudflare Worker proxy URL above.</div>
             <button class="qa-key-btn" onclick="saveQASettings()">Save</button>
             <span id="qaKeyStatus" style="font-size:11px;color:var(--green);"></span>
           </div>
@@ -11463,11 +11456,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // Q&A Assistant
 
     const QA_PROVIDER_CONFIG = {
-      groq:        { label: 'Groq',             keyStorage: 'qa_key_groq',        modelStorage: 'qa_model_groq',        defaultModel: 'llama-3.3-70b-versatile',                   keyLabel: 'Groq Key',        keyPlaceholder: 'gsk_... (stored only in localStorage)',         hasBaseUrl: false, maxContextTokens: 128000 },
-      openrouter:  { label: 'OpenRouter (free)', keyStorage: 'qa_key_openrouter',  modelStorage: 'qa_model_openrouter',  defaultModel: 'openrouter/free',                           keyLabel: 'OpenRouter Key',  keyPlaceholder: 'sk-or-... (free at openrouter.ai)',            hasBaseUrl: false, maxContextTokens: 50000 },
-      ollama:      { label: 'Ollama (Local/Proxy)', keyStorage: 'qa_key_ollama', modelStorage: 'qa_model_ollama',      defaultModel: 'llama3.2:3b',                               keyLabel: 'Ollama Key (opt)', keyPlaceholder: 'Bearer token (for cloud API)',                 hasBaseUrl: true,  baseUrlStorage: 'qa_baseurl_ollama', defaultBaseUrl: 'http://localhost:11434/api', keyOptional: true, maxContextTokens: 8192, corsWarning: 'ollama', baseUrlPlaceholder: 'http://localhost:11434/api  or  https://your-proxy.workers.dev' },
-      nim:         { label: 'NIM (NVIDIA)',     keyStorage: 'qa_key_nim',         modelStorage: 'qa_model_nim',         defaultModel: 'meta/llama-3.3-70b-instruct',               keyLabel: 'NIM Key',         keyPlaceholder: 'nvapi-... (stored only in localStorage)',      hasBaseUrl: true,  baseUrlStorage: 'qa_baseurl_nim',    defaultBaseUrl: 'https://integrate.api.nvidia.com/v1',       keyOptional: false, maxContextTokens: 50000, corsWarning: 'nim',    baseUrlPlaceholder: 'Proxy URL (e.g. https://your-nim-proxy.workers.dev/v1)' },
+      groq:       { label: 'Groq',             keyStorage: 'qa_key_groq',       modelStorage: 'qa_model_groq',       defaultModel: 'llama-3.3-70b-versatile', keyLabel: 'Groq Key',        keyPlaceholder: 'gsk_... (stored only in localStorage)',  hasBaseUrl: false, maxContextTokens: 7000 },
+      openrouter: { label: 'OpenRouter (free)', keyStorage: 'qa_key_openrouter', modelStorage: 'qa_model_openrouter', defaultModel: 'openrouter/free',         keyLabel: 'OpenRouter Key',  keyPlaceholder: 'sk-or-... (free at openrouter.ai)',      hasBaseUrl: false, maxContextTokens: 50000 },
     };
+
 
     function _providerConfig(provider) {
       const baseCfg = QA_PROVIDER_CONFIG[provider] || QA_PROVIDER_CONFIG.groq;
@@ -11476,7 +11468,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // Dynamic caps based on provider free-tier constraints
       if (provider === 'openrouter') {
         // Free models on OpenRouter range from 64k (llama-3.3-70b:free) to 128k+.
-        // The openrouter/free auto-router may select any free model, including 64k ones.
         // Hard cap at 50k to guarantee safety regardless of which model is chosen.
         cfg.maxContextTokens = 50000;
       } else if (provider === 'groq') {
@@ -11513,26 +11504,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     
-    // Auto-detect Ollama model from brief generation metadata
-    function _autoDetectOllamaFromBrief() {
-      const brief = INTEL.briefData;
-      if (!brief?.generation) return;
-      const gen = brief.generation;
-      if (gen.provider_used === 'ollama') {
-        if (gen.model && !localStorage.getItem('qa_model_ollama')) {
-          localStorage.setItem('qa_model_ollama', gen.model);
-        }
-        if (!localStorage.getItem('qa_baseurl_ollama')) {
-          localStorage.setItem('qa_baseurl_ollama', 'http://localhost:11434/api');
-        }
-        if (!localStorage.getItem('qa_provider')) {
-          localStorage.setItem('qa_provider', 'ollama');
-          const provEl = document.getElementById('qaProvider');
-          if (provEl) provEl.value = 'ollama';
-          _syncQAProviderUI();
-        }
-      }
-    }
+    // Removed: _autoDetectOllamaFromBrief (Ollama removed from browser Q&A)
 
     function _syncQAProviderUI() {
       const provider = _currentQAProvider();
@@ -11541,23 +11513,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const modelEl = document.getElementById('qaModel');
       const labelEl = document.getElementById('qaApiKeyLabel');
       const statusEl = document.getElementById('qaKeyStatus');
-      const baseUrlEl = document.getElementById('qaBaseUrl');
-      const baseUrlLabel = document.getElementById('qaBaseUrlLabel');
-      const nimCorsWarn = document.getElementById('qaNimCorsWarning');
-      const ollamaCorsWarn = document.getElementById('qaOllamaCorsWarning');
-      const refreshBtn = document.getElementById('qaRefreshModelsBtn');
       if (labelEl) labelEl.textContent = cfg.keyLabel;
-      if (baseUrlEl && baseUrlLabel) {
-        const showBase = cfg.hasBaseUrl || false;
-        baseUrlEl.style.display = showBase ? '' : 'none';
-        baseUrlLabel.style.display = showBase ? '' : 'none';
-        if (showBase) {
-          // Use provider-specific placeholder if defined, else fall back to defaultBaseUrl
-          baseUrlEl.placeholder = cfg.baseUrlPlaceholder || cfg.defaultBaseUrl || '';
-          const stored = localStorage.getItem(cfg.baseUrlStorage || '') || '';
-          baseUrlEl.value = stored || cfg.defaultBaseUrl || '';
-        }
-      }
       if (keyEl) {
         keyEl.placeholder = cfg.keyPlaceholder;
         keyEl.value = _loadProviderKey(provider);
@@ -11567,13 +11523,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         modelEl.placeholder = cfg.defaultModel;
       }
       if (statusEl) statusEl.textContent = '';
-      // Provider-specific CORS warnings
-      if (nimCorsWarn)    nimCorsWarn.style.display    = (cfg.corsWarning === 'nim')    ? '' : 'none';
-      if (ollamaCorsWarn) ollamaCorsWarn.style.display = (cfg.corsWarning === 'ollama') ? '' : 'none';
-      // Ollama model refresh button (only useful for local installs)
-      if (refreshBtn) refreshBtn.style.display = provider === 'ollama' ? '' : 'none';
-      // Auto-load Ollama models when switching to Ollama
-      if (provider === 'ollama') _refreshOllamaModels();
       // Update provider status dot
       const dotEl = document.getElementById('qaProviderStatus');
       if (dotEl) {
@@ -11595,25 +11544,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       _syncQAProviderUI();
     }
 
-    async function _ollamaFetchModels(baseUrl) {
-      try {
-        const res = await fetch(baseUrl + '/api/tags', { signal: AbortSignal.timeout(3000) });
-        if (!res.ok) return [];
-        const data = await res.json();
-        return (data.models || []).map(m => m.name).filter(Boolean);
-      } catch { return []; }
-    }
-
-    async function _refreshOllamaModels() {
-      const baseUrl = (document.getElementById('qaBaseUrl')?.value || localStorage.getItem('qa_baseurl_ollama') || 'http://localhost:11434/api').replace(/\/+$/, '');
-      const models = await _ollamaFetchModels(baseUrl);
-      const dl = document.getElementById('qaModelSuggestions');
-      if (dl) {
-        dl.innerHTML = models.map(m => `<option value="${m}">`).join('');
-      }
-      const modelEl = document.getElementById('qaModel');
-      if (modelEl && models.length && !modelEl.value) modelEl.value = models[0];
-    }
+    // Removed: _ollamaFetchModels, _refreshOllamaModels (Ollama removed from browser Q&A)
 
 
 
@@ -11627,12 +11558,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function saveQASettings() {
-      // Save base URL if present
-      const curCfg = _providerConfig(_currentQAProvider());
-      if (curCfg.hasBaseUrl && curCfg.baseUrlStorage) {
-        const baseUrlVal = (document.getElementById('qaBaseUrl')?.value || '').trim();
-        if (baseUrlVal) localStorage.setItem(curCfg.baseUrlStorage, baseUrlVal);
-      }
       const provider = _currentQAProvider();
       const keyVal = (document.getElementById('qaApiKey')?.value || '').trim();
       const modelVal = (document.getElementById('qaModel')?.value || '').trim();
@@ -11772,35 +11697,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return full || '(no response)';
       }
 
-      // ── Ollama ────────────────────────────────────────────────────────────
-      if (provider === 'ollama') {
-        const baseUrl = localStorage.getItem('qa_baseurl_ollama') || 'http://localhost:11434/api';
-        const headers = { 'Content-Type': 'application/json' };
-        if (apiKey) headers['Authorization'] = 'Bearer ' + apiKey;
-        const doStream = !!onToken;
-        const res = await fetch(baseUrl + '/chat', {
-          method: 'POST', headers,
-          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], stream: doStream, options: { num_ctx: 8192 } }),
-        });
-        if (!res.ok) { const err = await res.json().catch(() => ({})); throw new Error(err?.error || 'Ollama HTTP ' + res.status); }
-        if (doStream && res.body) {
-          const reader = res.body.getReader();
-          const decoder = new TextDecoder();
-          let full = '';
-          while (true) {
-            const { done, value } = await reader.read();
-            if (done) break;
-            const lines = decoder.decode(value, { stream: true }).split('\n').filter(l => l.trim());
-            for (const line of lines) {
-              try { const obj = JSON.parse(line); full += (obj?.message?.content || ''); onToken(full); } catch {}
-            }
-          }
-          return full || '(no response)';
-        }
-        const data = await res.json();
-        return data?.message?.content || '(no response)';
-      }
-
       // ── Groq ──────────────────────────────────────────────────────────────
       if (provider === 'groq') {
         const doStream = !!onToken;
@@ -11855,36 +11751,20 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return data?.choices?.[0]?.message?.content || '(no response)';
       }
 
-      // ── NIM (NVIDIA) — note: requires CORS proxy for browser use ──────────
-      if (provider === 'nim') {
-        const baseUrl = localStorage.getItem('qa_baseurl_nim') || 'https://integrate.api.nvidia.com/v1';
-        const doStream = !!onToken;
-        const res = await fetch(baseUrl + '/chat/completions', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + apiKey },
-          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0.2, max_tokens: 2048, stream: doStream }),
-        });
-        if (!res.ok) { const err = await res.json().catch(() => ({})); throw new Error(err?.error?.message || 'NIM HTTP ' + res.status); }
-        if (doStream && res.body) return _readSSE(res, onToken);
-        const data = await res.json();
-        return data?.choices?.[0]?.message?.content || '(no response)';
-      }
-
       throw new Error('Unknown provider: ' + provider);
     }
 
     function _buildFallbackOrder(primary) {
-      const all = ['groq', 'openrouter', 'ollama', 'nim'];
+      // Only Groq and OpenRouter support browser-native CORS — these are the only active providers.
+      const all = ['groq', 'openrouter'];
       const order = [primary, ...all.filter(p => p !== primary)];
       return order.filter(p => {
         const cfg = _providerConfig(p);
         const key = (_loadProviderKey(p) || '').trim();
-        // Skip providers with empty or whitespace-only keys (unless key is optional)
         return (key || cfg.keyOptional) && (_loadProviderModel(p) || cfg.defaultModel);
       });
     }
-
-    // Migrate stale localStorage model values for OpenRouter and Ollama.
+    // Migrate stale localStorage values from previous provider configurations.
     function _migrateOpenRouterModel() {
       // OpenRouter: any pinned ':free' model -> openrouter/free auto-router
       const orStored = localStorage.getItem('qa_model_openrouter') || '';
@@ -11892,19 +11772,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         console.log('[QA] Migrating stale OpenRouter model', orStored, '→ openrouter/free');
         localStorage.setItem('qa_model_openrouter', 'openrouter/free');
       }
-      // Ollama: clear any non-Ollama model that crept in (e.g. gemini-1-flash-preview:cloud)
-      const olStored = localStorage.getItem('qa_model_ollama') || '';
-      if (olStored && !olStored.includes('llama') && !olStored.includes('mistral') &&
-          !olStored.includes('gemma') && !olStored.includes('qwen') && !olStored.includes('phi')) {
-        console.log('[QA] Clearing invalid Ollama model', olStored, '→ llama3.2:3b');
-        localStorage.setItem('qa_model_ollama', 'llama3.2:3b');
-      }
-      // Ollama: reset base URL to local if it was pointing to the cloud endpoint
-      // (cloud is CORS-blocked; local is the browser-compatible default)
-      const olBaseUrl = localStorage.getItem('qa_baseurl_ollama') || '';
-      if (olBaseUrl === 'https://ollama.com/api') {
-        console.log('[QA] Resetting Ollama base URL from cloud → localhost (CORS-blocked)');
-        localStorage.setItem('qa_baseurl_ollama', 'http://localhost:11434/api');
+      // Reset any stale provider pointing at removed providers (ollama/nim)
+      const storedProvider = localStorage.getItem('qa_provider') || '';
+      if (storedProvider === 'ollama' || storedProvider === 'nim') {
+        console.log('[QA] Resetting stale provider', storedProvider, '→ groq');
+        localStorage.setItem('qa_provider', 'groq');
       }
     }
 

@@ -612,34 +612,71 @@ pdfplumber · beautifulsoup4 · lxml · google-generativeai · tiktoken · pytho
 
 ## Research Q&A — LLM Provider Reference
 
-The Intelligence Dashboard includes a browser-based RAG Q&A engine that queries the knowledge base using user-provided LLM API keys. To maximize reliability, eliminate Out-of-Memory (OOM) crashes, and prevent rate-limit bans on free tiers, the engine uses strict provider-specific context caps and automatic fallback chaining.
+The Intelligence Dashboard includes a browser-based RAG Q&A engine. It supports **two active providers** — both work natively in any browser with no proxy or backend required.
 
-### Fallback Chain & Context Budgets (as of May 2026)
-
-When a query fails (e.g., rate limit, model offline, or CORS block), the engine automatically tries the next available provider in the chain. Each fallback attempt dynamically rebuilds the RAG prompt to fit the target provider's specific token budget.
+### Active Providers (May 2026)
 
 | Provider | Endpoint | Default Model | Context Cap | Notes |
 |---|---|---|---|---|
-| **OpenRouter** | `openrouter.ai/api/v1` | `openrouter/free` | **60,000** | **Recommended Default.** Intelligent auto-router that dynamically selects active free models. Capped at 60k to prevent OOM errors if routed to a smaller model. |
-| **NIM (NVIDIA)** | `integrate.api.nvidia.com/v1` | `meta/llama-3.3-70b-instruct` | **50,000** | Hard-capped to stay under the free tier's hidden 66k API ceiling. *Note: Cloud API blocked by browser CORS; requires proxy.* |
-| **Groq** | `api.groq.com/openai/v1` | `llama-3.3-70b-versatile` | **7,000** | Strict cap to respect the 12,000 TPM limit on the free tier. Fast, but limited context depth. |
-| **Ollama** | `ollama.com/api` (Cloud) or `localhost:11434` | `llama3.2:3b` | **8,192** | Supports both local installations and the official Cloud API (requires Bearer token). Capped at 8k to prevent hardware/cloud memory limits. *Note: Cloud API blocked by browser CORS.* |
+| **Groq** | `api.groq.com/openai/v1` | `llama-3.3-70b-versatile` | **7,000 tokens** | Fast. Free tier has a 12,000 TPM rate limit — cap is set to 7k to stay safe. Get key at [console.groq.com](https://console.groq.com). |
+| **OpenRouter (free)** | `openrouter.ai/api/v1` | `openrouter/free` | **50,000 tokens** | **Recommended Default.** Auto-routes to any available free model at query time. No single model pinned — always fresh. Get key at [openrouter.ai](https://openrouter.ai). |
 
 ### OpenRouter Auto-Router
 
-The default configuration leverages OpenRouter's `openrouter/free` endpoint. Instead of hardcoding a specific free model that may be deprecated or rate-limited, this auto-router seamlessly redirects your query to the most capable free model available at that exact second, providing zero-cost reliability and deep context windows.
+`openrouter/free` is OpenRouter's official free-tier auto-router (released Feb 2026, 200K+ context window). Instead of hardcoding a single free model that may be rate-limited or deprecated, it dynamically selects the best available free model for each query. This means zero-cost queries with 50k-token RAG context, with automatic failover if any single model is at capacity.
 
-### CORS Restrictions (Browser vs. Python)
-
-The browser enforces **CORS (Cross-Origin Resource Sharing)**. Direct browser fetches to NVIDIA NIM and Ollama's Cloud API (`ollama.com/api`) will likely fail because those providers do not return proper `Access-Control-Allow-Origin` headers. 
-- **Browser Workaround**: Use OpenRouter or Groq, or route NIM/Ollama requests through a backend proxy.
-- **Automated Workflows**: Python scripts (like `generate_brief.py` running in GitHub Actions) bypass CORS entirely and connect to all APIs natively.
+The engine's fallback chain is `primary → the other`. If your selected provider returns a 429 or 503, it automatically retries with the remaining provider.
 
 ### Troubleshooting API Errors
 
 | Symptom | Cause | Fix |
 |---|---|---|
-| `NETWORK ERROR. CHECK YOUR INTERNET CONNECTION.` | CORS block (NIM/Ollama cloud) | Switch to OpenRouter or Groq |
-| `429 Too Many Requests` | Rate limit hit (e.g., Groq TPM) | Engine automatically parses the `retry-after` header and falls back to the next provider |
-| Status shows `✓ GROQ` but you selected OpenRouter | OpenRouter failed, fallback caught it | Normal behavior. OpenRouter may have hit its free capacity limit. |
-| `This information is not available in my current context` | RAG didn't retrieve relevant data | Ensure scope checkboxes match your question, or increase the provider token budget if using a high-capacity proxy. |
+| `429 Too Many Requests` | Groq TPM limit hit (12k tokens/min free tier) | Engine auto-parses `retry-after` header and falls back to OpenRouter. Wait ~60s. |
+| `OpenRouter: all free models at capacity` | All OpenRouter free models at concurrent load limit | Wait 30–60s and retry, or switch to Groq temporarily. |
+| `This information is not available in my current context` | RAG didn't retrieve a relevant chunk | Check scope checkboxes match your question topic. |
+
+---
+
+### Re-enabling Ollama & NIM (Future Reference)
+
+Both Ollama and NIM were removed from the browser Q&A because they are **CORS-blocked** — browsers reject direct `fetch()` calls to `ollama.com/api` and `integrate.api.nvidia.com/v1` with a `No 'Access-Control-Allow-Origin'` header error. They work fine from Python/server-side contexts.
+
+To re-enable either provider in the browser Q&A, you need a **CORS proxy**. The simplest free option is a Cloudflare Worker (100k req/day free):
+
+```javascript
+// Deploy at: https://dash.cloudflare.com → Workers & Pages → Create Worker
+// Replace TARGET_HOST with 'https://ollama.com' or 'https://integrate.api.nvidia.com'
+export default {
+  async fetch(request) {
+    if (request.method === 'OPTIONS') {
+      return new Response(null, {
+        headers: {
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+          'Access-Control-Allow-Headers': 'Authorization, Content-Type',
+        }
+      });
+    }
+    const url = new URL(request.url);
+    const target = 'TARGET_HOST' + url.pathname + url.search;
+    const resp = await fetch(target, { method: request.method, headers: request.headers, body: request.body });
+    const newHeaders = new Headers(resp.headers);
+    newHeaders.set('Access-Control-Allow-Origin', '*');
+    return new Response(resp.body, { headers: newHeaders, status: resp.status });
+  }
+};
+```
+
+**To re-add a provider to the code:**
+
+1. Add it back to `QA_PROVIDER_CONFIG` in `index.html` (config block near line 11458)
+2. Add `'ollama'` or `'nim'` back to the `all` array in `_buildFallbackOrder`
+3. Add the provider `<option>` back to the `#qaProvider` `<select>` dropdown (~line 3677)
+4. Restore the fetch handler in `_runProviderLLM` (use git history: `git log --oneline --all`)
+5. Set the Base URL field to your Cloudflare Worker proxy URL (e.g., `https://your-worker.workers.dev/v1`)
+
+**NIM specifics**: API key format `nvapi-...`, base URL always `https://integrate.api.nvidia.com/v1`, model `meta/llama-3.3-70b-instruct`. 50k context cap safe for free tier.
+
+**Ollama specifics**: For local use, no proxy needed — set base URL to `http://localhost:11434/api` and leave the key blank. For Ollama Cloud (`ollama.com/api`), you need a Bearer token from [ollama.com/settings/keys](https://ollama.com/settings/keys) and a CORS proxy. Model `llama3.2:3b` is free on the cloud tier.
+
+> **Note:** The `generate_brief.py` GitHub Actions pipeline is unaffected — it runs server-side Python and calls all APIs (Gemini, Ollama, NIM) natively without CORS restrictions.
