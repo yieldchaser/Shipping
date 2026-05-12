@@ -3689,13 +3689,13 @@
           </div>
           <div class="qa-scope-row">
             <span class="qa-scope-lbl">Scope:</span>
-            <label class="qa-scope-item"><input type="checkbox" id="qaSrcBreakwave" checked onchange="onQAScopeChange(false)"> Breakwave</label>
-            <label class="qa-scope-item"><input type="checkbox" id="qaSrcBaltic" checked onchange="onQAScopeChange(false)"> Baltic</label>
-            <label class="qa-scope-item"><input type="checkbox" id="qaSrcHellenic" onchange="onQAScopeChange(false)"> Hellenic</label>
-            <label class="qa-scope-item"><input type="checkbox" id="qaSrcIronOre" onchange="onQAScopeChange(false)"> Iron Ore</label>
-            <label class="qa-scope-item"><input type="checkbox" id="qaSrcShipbuilding" onchange="onQAScopeChange(false)"> Shipbuilding</label>
-            <label class="qa-scope-item"><input type="checkbox" id="qaSrcBooks" onchange="onQAScopeChange(false)"> Books</label>
-            <label class="qa-scope-item" style="border-left:1px solid var(--border);padding-left:8px;margin-left:4px;"><input type="checkbox" id="qaSrcWikiOnly" onchange="onQAScopeChange(true)"> Wiki only (fast)</label>
+            <label class="qa-scope-item" data-tooltip="Breakwave Advisors bi-weekly reports — analyst signals, conviction grades, and market insights."><input type="checkbox" id="qaSrcBreakwave" checked onchange="onQAScopeChange(false)"> Breakwave</label>
+            <label class="qa-scope-item" data-tooltip="Baltic Exchange official weekly market commentary and vessel-class rate breakdowns."><input type="checkbox" id="qaSrcBaltic" checked onchange="onQAScopeChange(false)"> Baltic</label>
+            <label class="qa-scope-item" data-tooltip="Hellenic weekly charter rate benchmarks (time-charter and spot) and vessel valuations."><input type="checkbox" id="qaSrcHellenic" checked onchange="onQAScopeChange(false)"> Hellenic</label>
+            <label class="qa-scope-item" data-tooltip="China iron ore import volumes and price trends — the primary Capesize demand driver."><input type="checkbox" id="qaSrcIronOre" onchange="onQAScopeChange(false)"> Iron Ore</label>
+            <label class="qa-scope-item" data-tooltip="Newbuild orderbooks, demolition/scrapping rates, and fleet supply analysis."><input type="checkbox" id="qaSrcShipbuilding" onchange="onQAScopeChange(false)"> Shipbuilding</label>
+            <label class="qa-scope-item" data-tooltip="Shipping reference textbooks and foundational domain knowledge (no time-series data)."><input type="checkbox" id="qaSrcBooks" onchange="onQAScopeChange(false)"> Books</label>
+            <label class="qa-scope-item" style="border-left:1px solid var(--border);padding-left:8px;margin-left:4px;" data-tooltip="Search only wiki summaries for speed — skips daily reports and chunks."><input type="checkbox" id="qaSrcWikiOnly" onchange="onQAScopeChange(true)"> Wiki only (fast)</label>
           </div>
           <div class="qa-input-row">
             <textarea id="qaQuery" class="qa-textarea" placeholder="e.g. What is the current Capesize supply outlook through Q3 2026? What are analysts saying about iron ore demand?" onkeydown="if(event.ctrlKey&&event.key==='Enter'){event.preventDefault();runQAQuery()}"></textarea>
@@ -11990,11 +11990,33 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       esc = esc.replace(/\bdoc(?:ument)?\s+(?:number\s+)?(zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\b/gi, (m, word) => '[DOC-' + _docWordMap[word.toLowerCase()] + ']');
       // Now convert the bracketed forms to superscripts
       esc = esc.replace(/\[DOC-\s*(\d+)\]/gi, '<sup class="qa-sup" style="font-size:0.75em; vertical-align:super; color:var(--accent); margin-left:1px; font-weight:700;">$1</sup>');
-      
+
       // Basic markdown styling for readability
       esc = esc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
       esc = esc.replace(/\r?\n/g, '<br>');
       return esc;
+    }
+
+    function _autoSelectSources(query) {
+      const q = (query || '').toLowerCase();
+
+      // Pattern definitions for each source
+      const patterns = {
+        breakwave:   /breakwave|analyst sentiment|conviction|qual analysis|grade/i,
+        baltic:      /baltic|spot rate|exchange|market comment/i,
+        hellenic:    /charter|timecharter|tc rate|vessel valuation|second.hand/i,
+        ironOre:     /iron ore|ore demand|capesize demand|china steel|ton.mile/i,
+        shipbuilding: /newbuild|orderbook|demolition|scrapping|fleet size|eexi|cii/i,
+        books:       /explain|fundamentals|background|textbook|historical context/i,
+      };
+
+      // Auto-check sources based on detected intent (additive — don't uncheck defaults)
+      if (patterns.breakwave.test(q)) document.getElementById('qaSrcBreakwave').checked = true;
+      if (patterns.baltic.test(q)) document.getElementById('qaSrcBaltic').checked = true;
+      if (patterns.hellenic.test(q)) document.getElementById('qaSrcHellenic').checked = true;
+      if (patterns.ironOre.test(q)) document.getElementById('qaSrcIronOre').checked = true;
+      if (patterns.shipbuilding.test(q)) document.getElementById('qaSrcShipbuilding').checked = true;
+      if (patterns.books.test(q)) document.getElementById('qaSrcBooks').checked = true;
     }
 
     async function runQAQuery() {
@@ -12004,6 +12026,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const ansEl  = document.getElementById('qaAnswer');
       const citEl  = document.getElementById('qaCitations');
       const query  = (document.getElementById('qaQuery')?.value || '').trim();
+      _autoSelectSources(query);  // Auto-activate sources based on query intent
       const provider = _currentQAProvider();
       const cfg = _providerConfig(provider);
       const apiKey = (document.getElementById('qaApiKey')?.value || _loadProviderKey(provider) || '').trim();
