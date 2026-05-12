@@ -3677,19 +3677,20 @@
             <select id="qaProvider" class="qa-key-input qa-provider-select" onchange="onQAProviderChange()">
               <option value="groq">Groq</option>
               <option value="openrouter">OpenRouter (free)</option>
-              <option value="ollama">Ollama (local)</option>
+              <option value="ollama">Ollama (Local/Proxy)</option>
               <option value="nim">NIM (NVIDIA)</option>
             </select>
             <span id="qaProviderStatus" style="display:inline-block;width:8px;height:8px;border-radius:50%;margin:0 4px;background:var(--text-muted);vertical-align:middle;" data-tooltip="Provider connection status"></span>
-            <span class="qa-key-label" id="qaApiKeyLabel">Gemini Key</span>
-            <input type="password" id="qaApiKey" class="qa-key-input" placeholder="AIza... (stored only in localStorage)" />
+            <span class="qa-key-label" id="qaApiKeyLabel">Groq Key</span>
+            <input type="password" id="qaApiKey" class="qa-key-input" placeholder="gsk_... (stored only in localStorage)" />
             <span class="qa-key-label">Model</span>
             <input type="text" id="qaModel" class="qa-key-input" placeholder="llama-3.3-70b-versatile" list="qaModelSuggestions" />
             <datalist id="qaModelSuggestions"></datalist>
             <button class="qa-key-btn" id="qaRefreshModelsBtn" style="display:none;padding:3px 8px;" onclick="_refreshOllamaModels()" title="Detect local Ollama models">&#x21BB;</button>
-            <span class="qa-key-label" id="qaBaseUrlLabel" style="display:none;">Base URL</span>
+            <span class="qa-key-label" id="qaBaseUrlLabel" style="display:none;">Proxy URL</span>
             <input type="text" id="qaBaseUrl" class="qa-key-input" style="display:none;" placeholder="http://localhost:11434/api" />
-            <div id="qaNimCorsWarning" style="display:none;color:var(--yellow);font-size:11px;padding:4px 8px;border:1px solid var(--yellow);border-radius:4px;margin-top:4px;">&#x26A0;&#xFE0F; NIM blocks direct browser calls (no CORS). Set Base URL to a local CORS proxy.</div>
+            <div id="qaNimCorsWarning" style="display:none;color:var(--yellow);font-size:11px;padding:4px 8px;border:1px solid var(--yellow);border-radius:4px;margin-top:4px;">&#x26A0;&#xFE0F; NIM blocks direct browser calls (no CORS). Paste your Cloudflare Worker / proxy URL in the Proxy URL field above.</div>
+            <div id="qaOllamaCorsWarning" style="display:none;color:var(--yellow);font-size:11px;padding:4px 8px;border:1px solid var(--yellow);border-radius:4px;margin-top:4px;">&#x26A0;&#xFE0F; Ollama cloud (<code>ollama.com/api</code>) is CORS-blocked in browsers. Use local Ollama at <code>http://localhost:11434/api</code> or paste a Cloudflare Worker proxy URL above.</div>
             <button class="qa-key-btn" onclick="saveQASettings()">Save</button>
             <span id="qaKeyStatus" style="font-size:11px;color:var(--green);"></span>
           </div>
@@ -11464,8 +11465,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     const QA_PROVIDER_CONFIG = {
       groq:        { label: 'Groq',             keyStorage: 'qa_key_groq',        modelStorage: 'qa_model_groq',        defaultModel: 'llama-3.3-70b-versatile',                   keyLabel: 'Groq Key',        keyPlaceholder: 'gsk_... (stored only in localStorage)',         hasBaseUrl: false, maxContextTokens: 128000 },
       openrouter:  { label: 'OpenRouter (free)', keyStorage: 'qa_key_openrouter',  modelStorage: 'qa_model_openrouter',  defaultModel: 'openrouter/free',                           keyLabel: 'OpenRouter Key',  keyPlaceholder: 'sk-or-... (free at openrouter.ai)',            hasBaseUrl: false, maxContextTokens: 50000 },
-      ollama:      { label: 'Ollama (Cloud/Local)', keyStorage: 'qa_key_ollama',  modelStorage: 'qa_model_ollama',      defaultModel: 'llama3.2:3b',                               keyLabel: 'Ollama Key (opt)', keyPlaceholder: 'Bearer token (req for cloud)',                 hasBaseUrl: true,  baseUrlStorage: 'qa_baseurl_ollama', defaultBaseUrl: 'https://ollama.com/api', keyOptional: true, maxContextTokens: 8192, corsWarning: true },
-      nim:         { label: 'NIM (NVIDIA)',     keyStorage: 'qa_key_nim',         modelStorage: 'qa_model_nim',         defaultModel: 'meta/llama-3.3-70b-instruct',               keyLabel: 'NIM Key',         keyPlaceholder: 'nvapi-... (stored only in localStorage)',      hasBaseUrl: true,  baseUrlStorage: 'qa_baseurl_nim',    defaultBaseUrl: 'https://integrate.api.nvidia.com/v1',       keyOptional: false, maxContextTokens: 50000, corsWarning: true },
+      ollama:      { label: 'Ollama (Local/Proxy)', keyStorage: 'qa_key_ollama', modelStorage: 'qa_model_ollama',      defaultModel: 'llama3.2:3b',                               keyLabel: 'Ollama Key (opt)', keyPlaceholder: 'Bearer token (for cloud API)',                 hasBaseUrl: true,  baseUrlStorage: 'qa_baseurl_ollama', defaultBaseUrl: 'http://localhost:11434/api', keyOptional: true, maxContextTokens: 8192, corsWarning: 'ollama', baseUrlPlaceholder: 'http://localhost:11434/api  or  https://your-proxy.workers.dev' },
+      nim:         { label: 'NIM (NVIDIA)',     keyStorage: 'qa_key_nim',         modelStorage: 'qa_model_nim',         defaultModel: 'meta/llama-3.3-70b-instruct',               keyLabel: 'NIM Key',         keyPlaceholder: 'nvapi-... (stored only in localStorage)',      hasBaseUrl: true,  baseUrlStorage: 'qa_baseurl_nim',    defaultBaseUrl: 'https://integrate.api.nvidia.com/v1',       keyOptional: false, maxContextTokens: 50000, corsWarning: 'nim',    baseUrlPlaceholder: 'Proxy URL (e.g. https://your-nim-proxy.workers.dev/v1)' },
     };
 
     function _providerConfig(provider) {
@@ -11542,14 +11543,20 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const statusEl = document.getElementById('qaKeyStatus');
       const baseUrlEl = document.getElementById('qaBaseUrl');
       const baseUrlLabel = document.getElementById('qaBaseUrlLabel');
-      const corsWarn = document.getElementById('qaNimCorsWarning');
+      const nimCorsWarn = document.getElementById('qaNimCorsWarning');
+      const ollamaCorsWarn = document.getElementById('qaOllamaCorsWarning');
       const refreshBtn = document.getElementById('qaRefreshModelsBtn');
       if (labelEl) labelEl.textContent = cfg.keyLabel;
       if (baseUrlEl && baseUrlLabel) {
         const showBase = cfg.hasBaseUrl || false;
         baseUrlEl.style.display = showBase ? '' : 'none';
         baseUrlLabel.style.display = showBase ? '' : 'none';
-        if (showBase) { baseUrlEl.placeholder = cfg.defaultBaseUrl || ''; baseUrlEl.value = localStorage.getItem(cfg.baseUrlStorage || '') || ''; }
+        if (showBase) {
+          // Use provider-specific placeholder if defined, else fall back to defaultBaseUrl
+          baseUrlEl.placeholder = cfg.baseUrlPlaceholder || cfg.defaultBaseUrl || '';
+          const stored = localStorage.getItem(cfg.baseUrlStorage || '') || '';
+          baseUrlEl.value = stored || cfg.defaultBaseUrl || '';
+        }
       }
       if (keyEl) {
         keyEl.placeholder = cfg.keyPlaceholder;
@@ -11560,9 +11567,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         modelEl.placeholder = cfg.defaultModel;
       }
       if (statusEl) statusEl.textContent = '';
-      // NIM CORS warning
-      if (corsWarn) corsWarn.style.display = cfg.corsWarning ? '' : 'none';
-      // Ollama model refresh button
+      // Provider-specific CORS warnings
+      if (nimCorsWarn)    nimCorsWarn.style.display    = (cfg.corsWarning === 'nim')    ? '' : 'none';
+      if (ollamaCorsWarn) ollamaCorsWarn.style.display = (cfg.corsWarning === 'ollama') ? '' : 'none';
+      // Ollama model refresh button (only useful for local installs)
       if (refreshBtn) refreshBtn.style.display = provider === 'ollama' ? '' : 'none';
       // Auto-load Ollama models when switching to Ollama
       if (provider === 'ollama') _refreshOllamaModels();
@@ -11876,14 +11884,27 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       });
     }
 
-    // Migrate stale OpenRouter model values: if user saved a specific ':free' model
-    // (e.g. meta-llama/llama-3.3-70b-instruct:free), reset to openrouter/free auto-router
-    // so they benefit from dynamic routing across all available free models.
+    // Migrate stale localStorage model values for OpenRouter and Ollama.
     function _migrateOpenRouterModel() {
-      const stored = localStorage.getItem('qa_model_openrouter') || '';
-      if (stored && stored !== 'openrouter/free' && stored.endsWith(':free')) {
-        console.log('[QA] Migrating stale OpenRouter model', stored, '→ openrouter/free');
+      // OpenRouter: any pinned ':free' model -> openrouter/free auto-router
+      const orStored = localStorage.getItem('qa_model_openrouter') || '';
+      if (orStored && orStored !== 'openrouter/free' && orStored.endsWith(':free')) {
+        console.log('[QA] Migrating stale OpenRouter model', orStored, '→ openrouter/free');
         localStorage.setItem('qa_model_openrouter', 'openrouter/free');
+      }
+      // Ollama: clear any non-Ollama model that crept in (e.g. gemini-1-flash-preview:cloud)
+      const olStored = localStorage.getItem('qa_model_ollama') || '';
+      if (olStored && !olStored.includes('llama') && !olStored.includes('mistral') &&
+          !olStored.includes('gemma') && !olStored.includes('qwen') && !olStored.includes('phi')) {
+        console.log('[QA] Clearing invalid Ollama model', olStored, '→ llama3.2:3b');
+        localStorage.setItem('qa_model_ollama', 'llama3.2:3b');
+      }
+      // Ollama: reset base URL to local if it was pointing to the cloud endpoint
+      // (cloud is CORS-blocked; local is the browser-compatible default)
+      const olBaseUrl = localStorage.getItem('qa_baseurl_ollama') || '';
+      if (olBaseUrl === 'https://ollama.com/api') {
+        console.log('[QA] Resetting Ollama base URL from cloud → localhost (CORS-blocked)');
+        localStorage.setItem('qa_baseurl_ollama', 'http://localhost:11434/api');
       }
     }
 
