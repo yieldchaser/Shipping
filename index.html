@@ -11987,8 +11987,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         .replace(/&/g, '&amp;')
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;');
-      
-      // Convert [DOC-N] or [DOC - N] to superscript references
+
+      // Handle multi-citation groups like [DOC-1, DOC-2, DOC-3]
+      esc = esc.replace(/\[DOC-\s*(\d+(?:\s*,\s*DOC-\s*\d+)*)\]/gi, (match) => {
+        const nums = match.match(/\d+/g);
+        return nums.map(n => `<sup class="qa-sup" style="font-size:0.75em; vertical-align:super; color:var(--accent); margin-left:1px; font-weight:700;">${n}</sup>`).join(', ');
+      });
+
+      // Convert single [DOC-N] or [DOC - N] to superscript references
       esc = esc.replace(/\[DOC-\s*(\d+)\]/gi, '<sup class="qa-sup" style="font-size:0.75em; vertical-align:super; color:var(--accent); margin-left:1px; font-weight:700;">$1</sup>');
 
       // Also handle plain text citations like "doc 11", "doc 1", "doc eleven", etc.
