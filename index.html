@@ -11259,34 +11259,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         _updateStaleBadge(data.generated_at);
         const nextBtn = document.getElementById('briefNext'); if (nextBtn) nextBtn.disabled = true;
       } catch {
-      const metaId = 'briefMetaDetails_' + Date.now();
-      const prov = generation?.provider_used || 'template';
-      const briefDateFmt = brief_date ? new Date(brief_date + 'T00:00').toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' }) : '';
-      const srcCount = sourceList.length;
-
-      el.innerHTML = `
-        ${macro_note ? `<div class="brief-macro"><strong>Macro:</strong> ${esc(macro_note)}</div>` : ''}
-        ${briefCard('Dry Bulk', 'dry_bulk', vc?.dry_bulk, 'bdi')}
-        ${briefCard('Tanker', 'tanker', vc?.tanker, 'clean_tanker')}
-        <div class="brief-meta-summary">
-          <span>\u{1F4E1} Generated via <strong>${esc(prov)}</strong> \u00B7 ${esc(briefDateFmt)} \u00B7 ${srcCount} sources</span>
-          <button class="brief-meta-toggle" onclick="var el=document.getElementById('${metaId}');el.style.display=el.style.display==='none'?'':'none';this.textContent=el.style.display==='none'?'Show details':'Hide details'">Show details</button>
-        </div>
-        <div class="brief-meta" id="${metaId}" style="display:none">
-          <div class="brief-meta-group">
-            <span class="brief-meta-label">Generation</span>
-            ${generation?.provider_used ? `<span class="qa-cit">provider: ${esc(generation.provider_used)}</span>` : ''}
-            ${generation?.mode ? `<span class="qa-cit">mode: ${esc(generation.mode)}</span>` : ''}
-            ${providerOrder ? `<span class="qa-cit">order: ${esc(providerOrder)}</span>` : ''}
-            ${attemptedProviders ? `<span class="qa-cit">attempted: ${esc(attemptedProviders)}</span>` : ''}
-            ${brief_date ? `<span class="qa-cit">brief_date: ${esc(brief_date)}</span>` : ''}
-          </div>
-          <div class="brief-meta-group">
-            <span class="brief-meta-label">Sources</span>
-            ${shownSources.map(src => `<span class="qa-cit">${esc(src)}</span>`).join('')}
-            ${remainingSources > 0 ? `<span class="qa-cit">+${remainingSources} more</span>` : ''}
-          </div>
-        </div>`;
+        el.innerHTML = '<div class="intel-empty">No brief available for today.</div>';
+        _updateStaleBadge(null);
       }
     }
 
