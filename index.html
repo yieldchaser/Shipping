@@ -4568,6 +4568,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       return {
         currentPrice, pctChange, alltimePctl, pctl10y, pctl5y, zScore, drawdown, roc20,
+        max1y, allMean,
       };
     }
 
@@ -4605,7 +4606,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const rows = getRows(productKey);
       const latest = rows[rows.length - 1];
 
-      document.getElementById('dashCurrentPrice').textContent = fmt(stats.currentPrice);
+      const priceEl = document.getElementById('dashCurrentPrice');
+      priceEl.textContent = fmt(stats.currentPrice);
+      priceEl.setAttribute('data-tt-type', 'dash-price');
+      priceEl.setAttribute('data-tt-val', stats.currentPrice);
+      priceEl.setAttribute('data-tt-change', stats.pctChange != null ? stats.pctChange.toFixed(2) : '');
+      priceEl.setAttribute('data-tt-pctl5y', Math.round(stats.pctl5y * 100));
 
       const changeEl = document.getElementById('dashPriceChange');
       if (stats.pctChange != null) {
@@ -4648,31 +4654,49 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const atEl = document.getElementById('statAlltime');
       atEl.textContent = (stats.alltimePctl * 100).toFixed(1) + '%';
       atEl.className = 'stat-value ' + pctColor(stats.alltimePctl);
+      atEl.setAttribute('data-tt-type', 'percentile');
+      atEl.setAttribute('data-tt-pctl', Math.round(stats.alltimePctl * 100));
+      atEl.setAttribute('data-tt-window', 'All-Time');
 
       const t10El = document.getElementById('stat10y');
       t10El.textContent = (stats.pctl10y * 100).toFixed(1) + '%';
       t10El.className = 'stat-value ' + pctColor(stats.pctl10y);
+      t10El.setAttribute('data-tt-type', 'percentile');
+      t10El.setAttribute('data-tt-pctl', Math.round(stats.pctl10y * 100));
+      t10El.setAttribute('data-tt-window', '10Y');
 
       const t5El = document.getElementById('stat5y');
       t5El.textContent = (stats.pctl5y * 100).toFixed(1) + '%';
       t5El.className = 'stat-value ' + pctColor(stats.pctl5y);
+      t5El.setAttribute('data-tt-type', 'percentile');
+      t5El.setAttribute('data-tt-pctl', Math.round(stats.pctl5y * 100));
+      t5El.setAttribute('data-tt-window', '5Y');
 
       const zsEl = document.getElementById('statZscore');
       zsEl.textContent = stats.zScore.toFixed(2);
       zsEl.className = 'stat-value ' + (stats.zScore < -1 ? 'val-red' : stats.zScore > 1 ? 'val-green' : 'val-yellow');
+      zsEl.setAttribute('data-tt-type', 'zscore');
+      zsEl.setAttribute('data-tt-val', stats.zScore.toFixed(2));
+      zsEl.setAttribute('data-tt-pctl1y', Math.round(stats.pctl5y * 100));
 
       const ddEl = document.getElementById('statDrawdown');
       ddEl.textContent = (stats.drawdown * 100).toFixed(1) + '%';
       ddEl.className = 'stat-value ' + (stats.drawdown < -0.3 ? 'val-red' : stats.drawdown < -0.1 ? 'val-yellow' : 'val-green');
+      ddEl.setAttribute('data-tt-type', 'drawdown');
+      ddEl.setAttribute('data-tt-drawdown', (stats.drawdown * 100).toFixed(1));
+      ddEl.setAttribute('data-tt-high', stats.max1y != null ? Math.round(stats.max1y) : '');
+      ddEl.setAttribute('data-tt-current', Math.round(stats.currentPrice));
 
-      // CHANGE 11 - ROC20 stat card
       const rocEl = document.getElementById('statRoc20');
       if (stats.roc20 != null) {
         rocEl.textContent = (stats.roc20 >= 0 ? '+' : '') + stats.roc20.toFixed(1) + '%';
         rocEl.className = 'stat-value ' + (stats.roc20 >= 0 ? 'val-green' : 'val-red');
+        rocEl.setAttribute('data-tt-type', 'roc20');
+        rocEl.setAttribute('data-tt-roc20', stats.roc20.toFixed(2));
       } else {
         rocEl.textContent = '-';
         rocEl.className = 'stat-value val-white';
+        rocEl.removeAttribute('data-tt-type');
       }
 
       // Historical Context Strip
@@ -7076,6 +7100,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML, stats52w) {
       const sorted = sortHoldings([...holdings], etfKey);
 
+      const _rowDesc = {
+        cape:  'Capesize FFA (C5TC) — basket of 4 major routes: Brazil→China & Australia→China iron ore + trans-Atlantic & trans-Pacific roundvoyages. 180K DWT vessels.',
+        pana:  'Panamax FFA (P5TC) — basket of 5 routes covering Atlantic and Pacific grain and coal trades. 82K DWT Kamsarmax vessels.',
+        supra: 'Supramax FFA (S10TC) — basket of 10 routes covering minor bulks: fertilizers, steel, grains, minerals. 58K DWT geared vessels.',
+        td3c:  'TD3C VLCC FFA — Middle East Gulf → China (270K MT crude oil). The benchmark VLCC route, representing ~22% of global seaborne crude trade.',
+        td20:  'TD20 Suezmax FFA — West Africa → UK-Continent (130K MT crude oil). Key Atlantic basin crude route.',
+        cash:  'Money market / cash collateral. Held by the Authorized Participant as margin backing for the FFA futures positions.',
+      };
+
       let tableRows = '';
       for (const h of sorted) {
         const cls = classifyHolding(h.Name, h.Ticker, etfKey);
@@ -7085,7 +7118,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const price = parseFloat(h.Price) || 0;
         const mv = parseFloat(h.Market_Value) || 0;
         const wt = h.Weightings || '-';
-        tableRows += `<tr>
+        const rowTt = _rowDesc[cls] || '';
+        tableRows += `<tr data-tooltip="${rowTt}">
       <td class="${rowCls}">${shortName}</td>
       <td>${lots % 1 === 0 ? fmt(lots) : lots.toLocaleString()}</td>
       <td>${price < 200 ? price.toFixed(3) : fmt(price)}</td>
@@ -12406,7 +12440,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         else if (type === 'percentile') {
           const pv   = parseInt(target.getAttribute('data-tt-pctl'));
           const win  = target.getAttribute('data-tt-window') || '';
-          const winFull = win === '1Y' ? '1 Year (252 trading days)' : win === '5Y' ? '5 Years (1,260 days)' : 'Full price history';
+          const winFull = win === '1Y' ? '1 Year (252 trading days)' : win === '5Y' ? '5 Years (1,260 days)' : win === '10Y' ? '10 Years (2,520 days)' : 'Full price history';
           const pvCls = pv >= 75 ? 'pos' : pv <= 25 ? 'neg' : '';
           const qual  = pv >= 90 ? 'Extreme high — rare territory' :
                         pv >= 75 ? 'High — above most prior readings' :
@@ -12466,6 +12500,48 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           html += `<div class="rt-row"><span class="rt-label">Signal</span><span class="rt-val">${confType.replace(/_/g, ' ')}</span></div>`;
           html += `<div class="rt-row"><span class="rt-label">Confidence</span><span class="rt-val ${confCls}">${confPct}%</span></div>`;
           html += `<div class="rt-note">${typeDesc[confType]}</div>`;
+        }
+
+        else if (type === 'dash-price') {
+          const price  = parseFloat(target.getAttribute('data-tt-val'));
+          const change = parseFloat(target.getAttribute('data-tt-change'));
+          const pctl5y = parseInt(target.getAttribute('data-tt-pctl5y'));
+          if (!isNaN(price)) html += `<div class="rt-row"><span class="rt-label">Current Rate</span><span class="rt-val">${price.toLocaleString(undefined, {maximumFractionDigits:0})}</span></div>`;
+          if (!isNaN(change)) html += `<div class="rt-row"><span class="rt-label">Daily Change</span><span class="rt-val ${change >= 0 ? 'pos' : 'neg'}">${change >= 0 ? '+' : ''}${change.toFixed(2)}%</span></div>`;
+          if (!isNaN(pctl5y)) {
+            const qual = pctl5y >= 80 ? 'elevated' : pctl5y >= 50 ? 'above median' : pctl5y >= 20 ? 'below median' : 'depressed';
+            html += `<div class="rt-row"><span class="rt-label">5Y Percentile</span><span class="rt-val ${pctl5y >= 75 ? 'pos' : pctl5y <= 25 ? 'neg' : ''}">${pctl5y}th — ${qual}</span></div>`;
+          }
+          html += `<div class="rt-note">Hover the stat cards below for full breakdowns by window and metric.</div>`;
+        }
+
+        else if (type === 'drawdown') {
+          const dd      = parseFloat(target.getAttribute('data-tt-drawdown'));
+          const high    = parseFloat(target.getAttribute('data-tt-high'));
+          const current = parseFloat(target.getAttribute('data-tt-current'));
+          const severity = Math.abs(dd) > 30 ? 'Deep correction' : Math.abs(dd) > 15 ? 'Moderate pullback' : Math.abs(dd) > 5 ? 'Minor retracement' : 'Near 52-week high';
+          html += `<div class="rt-row"><span class="rt-label">Drawdown</span><span class="rt-val ${dd < -15 ? 'neg' : dd > -5 ? 'pos' : ''}">${dd >= 0 ? '+' : ''}${dd.toFixed(1)}%</span></div>`;
+          if (!isNaN(high)) html += `<div class="rt-row"><span class="rt-label">52W High</span><span class="rt-val">${high.toLocaleString(undefined, {maximumFractionDigits:0})}</span></div>`;
+          if (!isNaN(current) && !isNaN(high) && high > 0) {
+            const pts = (current - high).toFixed(0);
+            const recovery = dd < 0 ? (Math.abs(dd) / (1 + dd / 100)).toFixed(1) + '% rally needed' : 'At or above 52W high';
+            html += `<div class="rt-row"><span class="rt-label">Recovery</span><span class="rt-val">${recovery}</span></div>`;
+          }
+          html += `<div class="rt-note">${severity}. Measured from the 52-week closing high.</div>`;
+        }
+
+        else if (type === 'roc20') {
+          const roc = parseFloat(target.getAttribute('data-tt-roc20'));
+          if (!isNaN(roc)) {
+            const cls       = roc >= 0 ? 'pos' : 'neg';
+            const intensity = Math.abs(roc) > 15 ? 'Strong' : Math.abs(roc) > 7 ? 'Moderate' : 'Mild';
+            const dir       = roc > 0 ? 'positive' : 'negative';
+            const ann       = (roc * 252 / 20).toFixed(0);
+            html += `<div class="rt-row"><span class="rt-label">20D Change</span><span class="rt-val ${cls}">${roc >= 0 ? '+' : ''}${roc.toFixed(1)}%</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Momentum</span><span class="rt-val ${cls}">${intensity} ${dir}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Annualised</span><span class="rt-val ${cls}">${roc >= 0 ? '+' : ''}${ann}%</span></div>`;
+          }
+          html += `<div class="rt-note">Price velocity over 20 trading days. Annualised figure assumes constant pace.</div>`;
         }
 
         else if (type === 'sent-cell') {
