@@ -821,26 +821,27 @@ Return ONLY valid JSON matching this schema:
       "momentum_grade": "<STRONG_UP|UP|FLAT|DOWN|STRONG_DOWN>",
       "confidence_score": <float 0.0-1.0>,
       "confluence_note": "<2 sentences — S1: state the exact Z-score from analytics table and what regime/percentile this implies historically; S2: MANDATORY — copy the EXACT counts from the PRE-COMPUTED SIGNAL INTELLIGENCE block above (do NOT recount from report narrative text). Use this exact format: 'Of the N Breakwave reports: Sentiment X pos/Y neg/Z neu; Momentum A pos/B neg/C neu; Fundamentals D pos/E neg/F neu — [one clause explaining whether this confirms or contradicts the quant reading and the dominant driver of the divergence/alignment]'>",
-      "summary": "<4 sentences of flowing analysis: S1=where the market is with historical context; S2=momentum characterization using Z+ROC to explain the rate-of-change story; S3=analyst consensus synthesis noting any quant-qual divergence; S4=actionable conclusion on positioning over the next 2-4 weeks>",
+      "summary": "<4 sentences of flowing analysis: S1=where the market is with historical context; S2=momentum characterization using Z+ROC explaining the rate-of-change story; S3=analyst consensus + vessel-class breakdown (Cape vs Panamax vs Handysize), noting any quant-qual divergence; S4=integrate GEOPOLITICAL factors (supply disruptions, port congestion, route hazards) if active, and actionable conclusion on positioning over the next 2-4 weeks>",
       "key_signals": ["<analytical sentence with embedded number explaining WHY it matters — NOT a raw data label>", "...up to 8 total"],
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_TANKER|SHORT_SPREAD_VS_TANKER>",
-      "trade_idea": "<IF signals clearly aligned: '1 sentence with direction + specific vehicle + entry trigger + exit thesis'. IF NOT clearly aligned or geopolitical uncertainty is elevated: 'No high-conviction setup: [what would need to change]'>",
-      "outlook": "<1 sentence naming the 2-4 week directional thesis with the key variable that could change it>",
-      "catalyst_watch": "<1 sentence naming 2-3 specific dated events or seasonal inflections that could shift the picture>",
-      "risk_note": "<1 sentence naming the single biggest tail risk and the specific data point or event that would confirm it>"
+      "trade_idea": "<IF signals clearly aligned: '1 sentence with direction + specific vehicle + entry trigger + exit thesis'. IF NOT clearly aligned OR geopolitical uncertainty is elevated: 'No high-conviction setup: [specific condition needed to validate the thesis]'>",
+      "outlook": "<1 sentence naming the 2-4 week directional thesis with the key variable that could change it — if geopolitical risk is elevated, name that as either a tail upside or downside risk>",
+      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC dated events or seasonal inflections — include geopolitical monitoring if relevant (e.g., port closures, route hazards, sanctions)>",
+      "risk_note": "<1 sentence naming the single biggest tail risk and the SPECIFIC data point or event that would confirm it — if geopolitical, name the specific disruption threshold that would break the thesis>"
     }},
     "tanker": {{
       "confluence_type": "<BULL_CONFLUENCE|BEAR_CONFLUENCE|DIVERGENCE|NEUTRAL>",
       "momentum_grade": "<STRONG_UP|UP|FLAT|DOWN|STRONG_DOWN>",
       "confidence_score": <float 0.0-1.0>,
       "confluence_note": "<2 sentences — S1: state the exact Z-score from analytics table and what regime/percentile this implies historically; S2: MANDATORY — copy the EXACT counts from the PRE-COMPUTED SIGNAL INTELLIGENCE block above (do NOT recount from report narrative text). Use this exact format: 'Of the N Breakwave reports: Sentiment X pos/Y neg/Z neu; Momentum A pos/B neg/C neu; Fundamentals D pos/E neg/F neu — [one clause explaining whether this confirms or contradicts the quant reading and the dominant driver of the divergence/alignment]'>",
-      "summary": "<4 sentences flowing analysis — must address clean/dirty split explicitly if Z-spreads diverge>",
+      "summary": "<4 sentences flowing analysis: S1=current tanker market positioning with historical context; S2=Z-score + momentum + clean/dirty split explicitly; S3=analyst consensus assessment vs quant signals, flagging any divergences; S4=integrate GEOPOLITICAL factors (supply disruptions, sanctions, route hazards) if active, and actionable positioning thesis over 2-4 weeks>",
       "key_signals": ["<analytical sentence with embedded number>", "...up to 8 total"],
       "positioning_bias": "<LONG|SHORT|NEUTRAL|LONG_SPREAD_VS_DRY|SHORT_SPREAD_VS_DRY>",
-      "trade_idea": "<IF signals clearly aligned: '1 sentence with direction + specific vehicle + entry trigger + exit thesis'. IF NOT: 'No high-conviction setup: [what would need to change]'>",
-      "outlook": "<1 sentence: 2-4 week directional thesis with the SPECIFIC swing variable that could change it>",
-      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC upcoming events with approximate dates — e.g. 'China May customs data (~June 8), OPEC+ meeting (June 1), and Atlantic hurricane season onset (June 1) are the three near-term catalysts'>",
-      "risk_note": "<1 sentence naming a SPECIFIC data print or event that would invalidate the thesis — e.g. 'A Chinese iron ore import print below 95mt would signal demand destruction and break the BDI expansion case'>"
+      "trade_idea": "<IF signals clearly aligned: '1 sentence with direction + specific vehicle + entry trigger + exit thesis'. IF NOT clearly aligned OR geopolitical uncertainty is elevated: 'No high-conviction setup: [specific condition needed to validate the thesis]'>",
+      "outlook": "<1 sentence: 2-4 week directional thesis with the SPECIFIC swing variable that could change it — if geopolitical risk is elevated, name that as a tail upside driver>",
+      "catalyst_watch": "<1 sentence naming 2-3 SPECIFIC upcoming events with approximate dates — e.g. 'China May customs data (~June 8), OPEC+ meeting (June 1), and Strait of Hormuz escalation monitoring are the three near-term catalysts'>",
+      "risk_note": "<1 sentence naming a SPECIFIC data print or event that would invalidate the thesis — e.g. 'If geopolitical premiums compress despite ongoing supply threats, it would signal that traders are pricing in a resolution timeline'>",
+      "geopolitical_impact": "<IF active supply disruptions, sanctions, or route hazards are mentioned in analyst reports: 1-2 sentences explaining the explicit tonnage impact + which tanker segments (VLCC vs Suez vs Aframax) benefit most from rerouting. ELSE: null or empty string>"
     }}
   }},
   "cross_sector_analysis": {{
