@@ -11616,7 +11616,36 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     function _tokenize(text) {
-      return (text || '').toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter(t => t.length > 2);
+      // Include 2-char tokens to preserve shipping codes: Q1, C5, TD, US, etc.
+      return (text || '').toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter(t => t.length >= 2);
+    }
+
+    // Shipping-domain query expansion: broadens queries with vessel/route/commodity aliases
+    const QA_QUERY_ALIASES = {
+      'cape':      ['capesize','bci'],    'capesize':  ['cape','bci'],        'bci': ['capesize','cape'],
+      'pana':      ['panamax','bpi'],     'panamax':   ['pana','bpi'],        'bpi': ['panamax','pana'],
+      'supra':     ['supramax','bsi'],    'supramax':  ['supra','bsi'],       'bsi': ['supramax','supra'],
+      'handy':     ['handysize','bhsi'],  'handysize': ['handy','bhsi'],     'bhsi': ['handysize','handy'],
+      'vlcc':      ['td3c','meg','crude'],'td3c':      ['vlcc','meg'],       'suezmax': ['td20','waf'],
+      'td20':      ['suezmax','waf'],     'bdi':       ['dry','capesize','panamax'],
+      'iron':      ['ore'],              'ore':        ['iron'],
+      'ffa':       ['forward','futures'], 'bdry':      ['capesize','panamax','supramax','dry'],
+      'bwet':      ['vlcc','suezmax','tanker'],        'lng': ['gas','liquefied'],
+      'container': ['fbx','box'],        'china':      ['chinese'],          'chinese': ['china'],
+      'brazil':    ['vale','brazilian'], 'australia':  ['australian','bhp','rio','fmg'],
+      'opec':      ['crude','saudi','oil'],            'coal': ['thermal','coking','met'],
+      'grain':     ['soybean','soybeans','wheat','corn'],
+      'q1': ['january','february','march'],   'q2': ['april','may','june'],
+      'q3': ['july','august','september'],    'q4': ['october','november','december'],
+    };
+
+    function _expandQueryTerms(terms) {
+      const expanded = new Set(terms);
+      for (const t of terms) {
+        const aliases = QA_QUERY_ALIASES[t];
+        if (aliases) aliases.forEach(a => expanded.add(a));
+      }
+      return [...expanded];
     }
 
     function _bm25Score(docTokens, queryTerms, avgLen) {
@@ -11634,6 +11663,168 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         .map(item => ({ item, score: _bm25Score(_tokenize(textFn(item)), queryTerms, avgLen) }))
         .filter(x => x.score > 0)
         .sort((a, b) => b.score - a.score);
+    }
+
+    // Score chunks: keywords 2x weight + section-title boost + recency multiplier
+    function _scoreChunksRanked(chunks, queryTerms, avgLen, boostDays, boostFactor) {
+      const cutoff = boostDays ? Date.now() - boostDays * 86400000 : 0;
+      const qtSet  = new Set(queryTerms);
+      return chunks
+        .map(item => {
+          const bodyScore = _bm25Score(
+            _tokenize(item.text + ' ' + (item.keywords || []).join(' ') + ' ' + (item.keywords || []).join(' ')),
+            queryTerms, avgLen
+          );
+          if (!bodyScore) return { item, score: 0 };
+          // Section title is a strong topical focus signal — boost per matched term
+          const titleHits = _tokenize(item.section_title || '').filter(t => qtSet.has(t)).length;
+          const titleMul  = titleHits > 0 ? 1 + titleHits * 0.4 : 1;
+          let score = bodyScore * titleMul;
+          const ts = item.date ? new Date(item.date).getTime() : 0;
+          if (cutoff && ts >= cutoff) score *= (boostFactor || 1.5);
+          return { item, score };
+        })
+        .filter(x => x.score > 0)
+        .sort((a, b) => b.score - a.score);
+    }
+
+    // Prevent any single document from consuming more than maxPerDoc slots
+    function _deduplicateByDoc(scored, maxPerDoc) {
+      const counts = {};
+      return scored.filter(x => {
+        const id = x.item.doc_id || x.item.chunk_id;
+        if (!id) return true;
+        counts[id] = (counts[id] || 0) + 1;
+        return counts[id] <= maxPerDoc;
+      });
+    }
+
+    // ── Date filter: extract temporal intent from query ───────────────────
+    function _extractDateFilter(query) {
+      const q   = (query || '').toLowerCase();
+      const now = new Date();
+      const y   = now.getFullYear();
+
+      const yearM = q.match(/\b(20\d{2})\b/);
+      if (yearM) {
+        const yr = parseInt(yearM[1]);
+        return { from: `${yr}-01-01`, to: `${yr}-12-31` };
+      }
+
+      const qMap = { q1:1, q2:2, q3:3, q4:4, 'first quarter':1, 'second quarter':2, 'third quarter':3, 'fourth quarter':4 };
+      for (const [pat, n] of Object.entries(qMap)) {
+        if (q.includes(pat)) {
+          const qS = [0,1,4,7,10][n], qE = [0,3,6,9,12][n];
+          return { from: `${y}-${String(qS).padStart(2,'0')}-01`, to: `${y}-${String(qE).padStart(2,'0')}-30` };
+        }
+      }
+
+      const months = ['january','february','march','april','may','june','july','august','september','october','november','december'];
+      for (let i = 0; i < months.length; i++) {
+        if (q.includes(months[i])) {
+          const m = String(i+1).padStart(2,'0');
+          return { from: `${y}-${m}-01`, to: `${y}-${m}-30` };
+        }
+      }
+
+      if (/\b(recent|current|latest|today|this week|last week|this month|last month|now|right now)\b/.test(q)) {
+        const d = new Date(now); d.setDate(d.getDate() - 90);
+        return { from: d.toISOString().split('T')[0], to: null };
+      }
+      return null;
+    }
+
+    // Keep undated chunks (books); apply filter only if it yields ≥3 dated results
+    function _applyDateFilter(chunks, filter) {
+      if (!filter) return chunks;
+      const dated   = chunks.filter(c => c.date && (!filter.from || c.date >= filter.from) && (!filter.to || c.date <= filter.to));
+      const undated = chunks.filter(c => !c.date);
+      return dated.length >= 3 ? [...dated, ...undated] : chunks;
+    }
+
+    // ── Inverted index: term → [chunks] for O(terms) candidate lookup ─────
+    function _buildInvertedIndex(chunks) {
+      const idx = {};
+      for (const c of chunks) {
+        for (const t of new Set(_tokenize(c.text + ' ' + (c.keywords || []).join(' ')))) {
+          if (!idx[t]) idx[t] = [];
+          idx[t].push(c);
+        }
+      }
+      return idx;
+    }
+
+    function _lookupCandidates(idx, queryTerms) {
+      const seen = new Set(), out = [];
+      for (const t of queryTerms) {
+        for (const c of (idx[t] || [])) {
+          if (!seen.has(c.chunk_id)) { seen.add(c.chunk_id); out.push(c); }
+        }
+      }
+      return out;
+    }
+
+    // ── Live data: structured readable narrative instead of raw JSON ──────
+    function _formatLiveDataAsText(brief) {
+      if (!brief) return null;
+      const snap = brief.market_snapshot || {};
+      const vc   = brief.vessel_classes  || {};
+      const date = brief.brief_date || new Date().toISOString().split('T')[0];
+      const s    = n => n != null ? (n >= 0 ? '+' : '') + Number(n).toFixed(2) : 'n/a';
+      const pct  = n => n != null ? Math.round(n * 100) + '%' : 'n/a';
+
+      const lines = [`=== LIVE MARKET SNAPSHOT — ${date} ===`];
+      for (const [k, m] of Object.entries(snap)) {
+        if (!m) continue;
+        lines.push(`  ${k.toUpperCase().replace(/_/g,' ')}: level=${Number(m.value||0).toLocaleString()} | Z=${s(m.z_score_252d)}σ | 5Y-pctl=${pct(m.pctl_5y)} | ROC60=${s(m.roc60)}% | regime=${m.regime||'n/a'}`);
+      }
+
+      for (const [sector, d] of Object.entries(vc)) {
+        if (!d) continue;
+        lines.push('', `--- ${sector.toUpperCase().replace(/_/g,' ')} ANALYST CONSENSUS ---`);
+        if (d.confluence_type)    lines.push(`  Signal: ${d.confluence_type}`);
+        if (d.confluence_note)    lines.push(`  ${d.confluence_note}`);
+        if (d.summary)            lines.push(`  Summary: ${d.summary}`);
+        if (d.key_signals?.length) lines.push(`  Key signals:\n${d.key_signals.map(s => '    • ' + s).join('\n')}`);
+        if (d.outlook)            lines.push(`  Outlook: ${d.outlook}`);
+        if (d.trade_idea)         lines.push(`  Trade idea: ${d.trade_idea}`);
+        if (d.risk_note)          lines.push(`  Risk: ${d.risk_note}`);
+        if (d.watch)              lines.push(`  Watch: ${d.watch}`);
+      }
+
+      if (brief.macro_note)
+        lines.push('', `--- MACRO CONTEXT ---`, `  ${brief.macro_note}`);
+      if (brief.cross_sector_analysis?.relative_value)
+        lines.push(`  Cross-sector: ${brief.cross_sector_analysis.relative_value}`);
+
+      return lines.join('\n');
+    }
+
+    // ── LLM reranker: small fast call to re-order BM25 candidates ─────────
+    async function _llmRerank(provider, apiKey, model, chunks, query) {
+      if (chunks.length <= 3) return chunks;
+      const snippets = chunks.map((c, i) =>
+        `[${i+1}] ${(c.section_title || c.category || '').slice(0,40)} (${c.source} ${c.date||''}): ${c.text.slice(0,110).replace(/\n/g,' ')}…`
+      ).join('\n');
+      const prompt = 'Output ONLY a JSON array ranking passage numbers most→least relevant. No text.\nExample: [3,1,7,2]\n\nQuestion: ' + query + '\n\nPassages:\n' + snippets;
+      try {
+        const endpoint = provider === 'groq'
+          ? 'https://api.groq.com/openai/v1/chat/completions'
+          : 'https://openrouter.ai/api/v1/chat/completions';
+        const hdrs = { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` };
+        if (provider === 'openrouter') hdrs['HTTP-Referer'] = 'https://yieldchaser.github.io/Shipping';
+        const res = await fetch(endpoint, {
+          method: 'POST', headers: hdrs,
+          body: JSON.stringify({ model, messages: [{ role: 'user', content: prompt }], temperature: 0, max_tokens: 150, stream: false }),
+        });
+        if (!res.ok) return chunks;
+        const raw  = (await res.json())?.choices?.[0]?.message?.content || '';
+        const arr  = JSON.parse(raw.match(/\[[\d,\s]+\]/)?.[0] || '[]');
+        if (!arr.length || arr.some(i => typeof i !== 'number')) return chunks;
+        const ranked = arr.filter(i => i >= 1 && i <= chunks.length).map(i => chunks[i-1]);
+        const inSet  = new Set(ranked.map(c => c.chunk_id));
+        return [...ranked, ...chunks.filter(c => !inSet.has(c.chunk_id))];
+      } catch { return chunks; }
     }
 
     async function _fetchText(url) {
@@ -11829,7 +12020,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       try {
         const fallbackOrder = _buildFallbackOrder(provider);
-        const terms    = _tokenize(query);
+        const terms    = _expandQueryTerms(_tokenize(query));
         const wikiOnly = document.getElementById('qaSrcWikiOnly')?.checked;
 
         // Step 1 - Wiki pages (high-level summary layer, always loaded)
@@ -11876,9 +12067,37 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             allChunks = [...allChunks, ...deepChunks];
           }
 
-          const avgCLen = allChunks.reduce((s, c) => s + _tokenize(c.text).length, 0) / (allChunks.length || 1);
-          topChunks = _scoreItems(allChunks, terms, c => c.text + ' ' + (c.keywords || []).join(' '), avgCLen)
+          // Build/cache inverted index keyed by loaded URL set (invalidated on source toggle)
+          const urlKey = [..._getUrls('recent'), ..._getUrls('historical')].sort().join('|');
+          if (!INTEL._invertedIndex || INTEL._invertedIndex._urlKey !== urlKey) {
+            statEl.textContent = 'Building search index…';
+            INTEL._invertedIndex = _buildInvertedIndex(allChunks);
+            INTEL._invertedIndex._urlKey = urlKey;
+          }
+
+          // Narrow candidate pool: only chunks matching ≥1 expanded query term
+          const dateFilter    = _extractDateFilter(query);
+          let   candidatePool = _lookupCandidates(INTEL._invertedIndex, terms);
+          candidatePool       = _applyDateFilter(candidatePool, dateFilter);
+
+          const avgCLen    = candidatePool.reduce((s, c) => s + _tokenize(c.text).length, 0) / (candidatePool.length || 1);
+          const rankedChunks = _scoreChunksRanked(candidatePool, terms, avgCLen, 90, 1.5);
+          topChunks = _deduplicateByDoc(rankedChunks, isLargeCtx ? 3 : 2)
             .slice(0, maxTopChunks).map(x => x.item);
+
+          // Surface low-confidence warning before LLM call
+          const topScore = rankedChunks[0]?.score || 0;
+          if (topChunks.length < 3 || topScore < 0.5) {
+            statEl.textContent = '⚠ Limited context found — answer may be partial';
+          }
+
+          // LLM reranker: for large-context providers, fire a tiny call to re-order top candidates
+          if (isLargeCtx && topChunks.length > 5) {
+            statEl.textContent = 'Reranking passages…';
+            const rkKey   = _loadProviderKey(fallbackOrder[0]);
+            const rkModel = _loadProviderModel(fallbackOrder[0]) || _providerConfig(fallbackOrder[0]).defaultModel;
+            topChunks = await _llmRerank(fallbackOrder[0], rkKey, rkModel, topChunks.slice(0, 25), query);
+          }
         }
 
         // Helper: estimate tokens (~3.5 chars per token)
@@ -11894,21 +12113,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           const docs = [];
           let used = 0;
 
-          // INJECT LIVE DATA SO THE LLM HAS THE CONFLUENCES AND Z-SCORES
-          if (typeof INTEL !== 'undefined' && INTEL.briefData && INTEL.briefData.market_snapshot) {
-            const liveData = {
-              date: INTEL.briefData.brief_date || new Date().toISOString().split('T')[0],
-              metrics_and_regimes: INTEL.briefData.market_snapshot,
-              divergence_and_confluence_signals: INTEL.briefData.vessel_classes || {}
-            };
-            const liveText = JSON.stringify(liveData, null, 2);
-            docs.push({ type: 'live', label: 'Live Quantitative Pipeline Data (Z-Scores, Regimes, Confluences)', text: liveText });
-            used += _estimateTokens(liveText);
+          // Inject live market snapshot as human-readable text (not raw JSON)
+          if (typeof INTEL !== 'undefined' && INTEL.briefData) {
+            const liveText = _formatLiveDataAsText(INTEL.briefData);
+            if (liveText) {
+              docs.push({ type: 'live', label: 'Live Market Snapshot + Analyst Consensus', text: liveText });
+              used += _estimateTokens(liveText);
+            }
           }
 
-          // Wikis: for large-context include all scored; for small-context cap at top 3
-          const wikiArr = isLargeCtx ? scoredWikiArr : scoredWikiArr.slice(0, 3);
-          const wikiBudget = Math.floor(budget * (isLargeCtx ? 0.3 : 0.5));
+          // Wikis: for large-context include all scored; for small-context cap at top 2 with tight budget
+          const wikiArr = isLargeCtx ? scoredWikiArr : scoredWikiArr.slice(0, 2);
+          // Small-context (Groq 7K): wiki gets 15% — leave 85% for source chunks
+          const wikiBudget = Math.floor(budget * (isLargeCtx ? 0.3 : 0.15));
           const perWiki = Math.floor(wikiBudget / Math.max(wikiArr.length, 1));
           for (const w of wikiArr) {
             let text = w.item.text;
@@ -11927,11 +12144,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             if (chunkUsed + ct > chunkBudget) {
               const rem = chunkBudget - chunkUsed;
               if (rem > 100) {
-                docs.push({ type: 'chunk', label: c.source + ' · ' + c.date + ' · ' + c.section_title, text: c.text.slice(0, Math.floor(rem * 3.5)) + '\n[... truncated]' });
+                docs.push({ type: 'chunk', label: [c.source, c.category, c.date, c.section_title].filter(Boolean).join(' · '), text: c.text.slice(0, Math.floor(rem * 3.5)) + '\n[... truncated]' });
               }
               break;
             }
-            docs.push({ type: 'chunk', label: c.source + ' · ' + c.date + ' · ' + c.section_title, text: c.text });
+            docs.push({ type: 'chunk', label: [c.source, c.category, c.date, c.section_title].filter(Boolean).join(' · '), text: c.text });
             chunkUsed += ct;
           }
 
@@ -11939,13 +12156,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           const ctxText = ctxArr.join('\n\n---\n\n');
           const estTokens = _estimateTokens(ctxText);
 
-          const promptText = 'You are a senior shipping freight market analyst.\n' +
+          const today = new Date().toISOString().split('T')[0];
+          const wordLimit = isLargeCtx ? 600 : 350;
+          const promptText = 'You are a senior shipping freight market analyst. Today\'s date is ' + today + '.\n' +
             'Answer the question using ONLY the provided context passages.\n\n' +
             'STRICT RULES:\n' +
-            '1. Cite every factual claim using [DOC-N] tags matching the passages below.\n' +
-            '2. If the specific report, date, or data the user asks about is NOT present in the passages, say: "This information is not available in my current context."\n' +
-            '3. Do NOT invent data, dates, or statistics. Do NOT rephrase generic content as if it were a specific report.\n' +
-            '4. Be direct, concise, and trader-focused. Under 400 words.\n\n' +
+            '1. Place a [DOC-N] citation inline immediately after each factual claim — e.g. "Capesize 5TC averaged $18,450/day [DOC-3]."\n' +
+            '2. If the specific data the user asks about is NOT in the passages, say exactly: "This information is not available in my current context."\n' +
+            '3. Do NOT invent or extrapolate data, dates, or statistics.\n' +
+            '4. Lead with the key finding. Group related data points together. Under ' + wordLimit + ' words.\n\n' +
             'Question: ' + queryText + '\n\n' +
             'Context Passages:\n' + ctxText;
 

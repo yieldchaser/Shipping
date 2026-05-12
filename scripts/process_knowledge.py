@@ -2785,11 +2785,15 @@ def build_chunks(adapted: dict) -> list[dict]:
 
     max_tokens, overlap = (450, 60) if source == "breakwave" else (600, 60) if source == "baltic" else (500, 100)
 
+    _rate_pat     = re.compile(r'\$[\d,]+\s*/\s*(?:day|mt|tonne|ton)\b|\b\d[\d,.]+\s*usd\b', re.I)
+    _forecast_pat = re.compile(r'\b(?:expect|forecast|likely|should|outlook|anticipat|project|predict|going forward|next quarter|next month)\b', re.I)
+
     for section in adapted["sections"]:
         section_text = section.get("text") or ""
         if not section_text.strip():
             continue
         for section_index, text in enumerate(chunk_text(section_text, max_tokens, overlap) or [section_text], start=1):
+            vessels, regions, _ = infer_taxonomy(text, source, category)
             chunks.append({
                 "chunk_id": f"{doc_id}_{len(chunks) + 1:03d}",
                 "doc_id": doc_id,
@@ -2808,6 +2812,11 @@ def build_chunks(adapted: dict) -> list[dict]:
                 "text": text,
                 "token_count": token_count(text),
                 "keywords": extract_keywords(text),
+                "has_rates": bool(_rate_pat.search(text) or any(kw in text.lower() for kw in ("timecharter", "tc rate", "spot rate", "freight rate", "/day"))),
+                "has_forecast": bool(_forecast_pat.search(text)),
+                "vessel_classes_matched": vessels,
+                "regions_matched": regions,
+                "snippet": text[:200].replace("\n", " ").strip(),
             })
     return chunks
 
