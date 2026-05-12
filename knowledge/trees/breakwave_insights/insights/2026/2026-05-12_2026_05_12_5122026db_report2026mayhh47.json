@@ -1,0 +1,146 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47__root",
+  "doc_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47",
+  "parent_id": null,
+  "title": "Breakwave Bi-Weekly Dry Bulk Report - May 12, 2026",
+  "section_path": [
+    "Breakwave Bi-Weekly Dry Bulk Report - May 12, 2026"
+  ],
+  "section_path_text": "Breakwave Bi-Weekly Dry Bulk Report - May 12, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\n• Dry Bulk Spot Rates Approaching Seasonal All-Time Highs - The dry bulk market remains exceptionally resilient, with robust global iron ore and bauxite volumes driving spot rates to near-record seasonal highs despite a rather uneventful coal market. While geopolitical uncertainty and elevated oil prices pose significant macroeconomic risks, freight rates have remained stable, avoiding the volatile spikes seen in previous cycles. However, we anticipate a measurable economic slowdown in Asia during the second half of the year, likely leading to softened regional steel demand.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "crude_oil",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 2146,
+  "source_path": "reports/breakwave/2026/2026-05-12_5122026db-report2026mayhh47.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/5122026db-report2026mayhh47",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47",
+      "parent_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "• Dry Bulk Spot Rates Approaching Seasonal All-Time Highs - The dry bulk market remains exceptionally resilient, with robust global iron ore and bauxite volumes driving spot rates to near-record seasonal highs despite a rather uneventful coal market. While geopolitical uncertainty and elevated oil prices pose significant macroeconomic risks, freight rates have remained stable, avoiding the volatile spikes seen in previous cycles.",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "coal",
+        "bauxite",
+        "crude_oil",
+        "steel",
+        "iron"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 673,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47__s02_linked_asset_2026_05_12_5122026db_report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_37621b08be4a_png",
+      "doc_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47",
+      "parent_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47__root",
+      "title": "Linked asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_37621b08be4a.png",
+      "section_path": [
+        "Linked asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_37621b08be4a.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_37621b08be4a.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_37621b08be4a.png\n\nLinked image asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_37621b08be4a.png\n\nImage metadata: PNG 273x632 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nShort-term Indicators\nMomentum: Neutral\nSentiment: Neutral\nFundamentals: Negative\nBreakwave Dry 2817\nFutures Index:\n30D: 16.7% 4p\nYTD: 83.3% t\nYOY: 98.5% t\nBaltic Dry Index 3001\n(spot):\n30D: 36.3% 4p\nYTD: 59.9% t\nYOY: 131.0% t\nReuters: BDRY.K\nBloomberg: BDRY US\nExchange: NYSE\nBreakwave Advisors Research\nresearch @ breakwaveadvisors.",
+      "keywords": [
+        "asset",
+        "image",
+        "neutral",
+        "research",
+        "yoy",
+        "ytd",
+        "bdry",
+        "bdry.k"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 286,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47__s03_linked_asset_2026_05_12_5122026db_report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1930f48e34eb_png",
+      "doc_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47",
+      "parent_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47__root",
+      "title": "Linked asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1930f48e34eb.png",
+      "section_path": [
+        "Linked asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1930f48e34eb.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1930f48e34eb.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1930f48e34eb.png\n\nLinked image asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_1930f48e34eb.png\n\nImage metadata: PNG 937x557 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\n/J© BREAKWAVE\nADVISORS\nBaltic Dry Index (BDIY) vs Breakwave Dry Futures Index (BDRYFF)\n3500\n3000\n2500\n2000\n1500\n1000\n500\n0 = BDIY (spot) «=== BDRYFF (futures)\nJun-25 Jul-25. Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26 Apr-26\nThe Baltic Dry Index (BDI) measures the average spot rates for dry bulk freight with a sector weighting of 40% Capesize, 30% Panamax and 30% Supramax.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "bdryff",
+        "asset",
+        "average",
+        "bdiy",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 348,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47__s04_linked_asset_2026_05_12_5122026db_report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_825c0152538b_png",
+      "doc_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47",
+      "parent_id": "breakwave_insights_insights_2026-05-12_2026_05_12_5122026db_report2026mayhh47__root",
+      "title": "Linked asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_825c0152538b.png",
+      "section_path": [
+        "Linked asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_825c0152538b.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_825c0152538b.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_825c0152538b.png\n\nLinked image asset: 2026-05-12_5122026db-report2026mayhh47_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_825c0152538b.png\n\nImage metadata: PNG 920x752 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nDemand YTD YOY\nChina Steel Production 2am\nChina Steel Inventories 5.2mt\nChina Iron Ore Inventories 161mt 18.1%\nChina Iron Ore Imports 1575mt\nChina Coal Imports 607mt\nChina Soybean Imports 128mt\nBrazil Iron Ore Exports S0imt\nAustralia Iron Ore Exports 1149mt\nSupply\nDry Bulk Fleet 1073 mdwt\nFreight Rates\nBaltic Dry Index, Average 2,121 78.3%\nCapesize Spot Rates, Average 25,843 86.3%\nPanamax Spot rates, Average 16,020 55.8%\nNote: All numbers as of latest available; Imports/Exports/Production are YTD sums as of latest reported; Inventories/Fleet are weekly totals\nSources: Bloomberg, IEA, Clarksons and Breakwave Advisors\nDisclaimer: This research report has been prepared by Breakwave Advisors LLC solely for general information purposes and for the recipient's intemal use only. This report does not constitute and will not form part of and shou",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 681,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

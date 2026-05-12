@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-11_2026_05_11_commodity_markets_are_more_than_reflections_of_supply_and_demand_fundamentals__root",
+  "doc_id": "breakwave_insights_insights_2026-05-11_2026_05_11_commodity_markets_are_more_than_reflections_of_supply_and_demand_fundamentals",
+  "parent_id": null,
+  "title": "Commodity markets are more than reflections of supply and demand fundamentals",
+  "section_path": [
+    "Commodity markets are more than reflections of supply and demand fundamentals"
+  ],
+  "section_path_text": "Commodity markets are more than reflections of supply and demand fundamentals",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nOn this week last year, Doric's Weekly Insight examined the internal dynamics of OPEC+ through the lens of game theory, emphasizing Saudi Arabia's role as the cartel's dominant player within an increasingly fragmented producer alliance. At the time, the market's primary challenge was not supply insecurity but rather the opposite: managing an emerging surplus against a backdrop of weakening macroeconomic sentiment. Crude prices had been under sustained pressure, declining more than 20 percent since mid-January as sluggish Chinese demand, tighter financial conditions, and rising geopolitical fragmentation weighed on consumption expectations.",
+  "keywords": [
+    "vlcc",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "india",
+    "iron_ore",
+    "crude_oil",
+    "steel",
+    "supply",
+    "demand",
+    "iron"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1732,
+  "source_path": "reports/breakwave/2026/2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/5/11/commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-11_2026_05_11_commodity_markets_are_more_than_reflections_of_supply_and_demand_fundamentals__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-11_2026_05_11_commodity_markets_are_more_than_reflections_of_supply_and_demand_fundamentals",
+      "parent_id": "breakwave_insights_insights_2026-05-11_2026_05_11_commodity_markets_are_more_than_reflections_of_supply_and_demand_fundamentals__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nOn this week last year, Doric's Weekly Insight examined the internal dynamics of OPEC+ through the lens of game theory, emphasizing Saudi Arabia's role as the cartel's dominant player within an increasingly fragmented producer alliance. At the time, the market's primary challenge was not supply insecurity but rather the opposite: managing an emerging surplus against a backdrop of weakening macroeconomic sentiment.",
+      "keywords": [
+        "vlcc",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "india",
+        "iron_ore",
+        "crude_oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1437,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-11_2026_05_11_commodity_markets_are_more_than_reflections_of_supply_and_demand_fundamentals__s02_linked_asset_2026_05_11_commodity_markets_are_more_than_reflections_of_supply_and_demand_fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88c116ba5bf2_png",
+      "doc_id": "breakwave_insights_insights_2026-05-11_2026_05_11_commodity_markets_are_more_than_reflections_of_supply_and_demand_fundamentals",
+      "parent_id": "breakwave_insights_insights_2026-05-11_2026_05_11_commodity_markets_are_more_than_reflections_of_supply_and_demand_fundamentals__root",
+      "title": "Linked asset: 2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88c116ba5bf2.png",
+      "section_path": [
+        "Linked asset: 2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88c116ba5bf2.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88c116ba5bf2.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88c116ba5bf2.png\n\nLinked image asset: 2026-05-11_commodity-markets-are-more-than-reflections-of-supply-and-demand-fundamentals_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_88c116ba5bf2.png\n\nImage metadata: PNG 941x323 mode=RGBA\n\nEmbedded info:\ndpi: (119.9896, 119.9896)\n\nOCR text:\nuso/sbi Brent Crude Oil Prices\n$120\n$100 af\n$80\n$60\n$40\n$20\n$80 --- aaa 858 i\nJan Feb Mar Apr May Jun Jul ‘Aug Sep Oct Nov Dec\nPrice Avg (2016-2020) --=Price Avg (2021-2025) --=2026",
+      "keywords": [
+        "crude_oil",
+        "asset",
+        "avg",
+        "image",
+        "price",
+        "aaa",
+        "apr",
+        "aug"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 233,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
