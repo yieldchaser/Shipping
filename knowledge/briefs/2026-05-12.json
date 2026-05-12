@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T12:15:31.724691+00:00",
+  "generated_at": "2026-05-12T14:41:56.764323+00:00",
   "brief_date": "2026-05-12",
   "generation": {
     "mode": "llm",
@@ -82,14 +82,13 @@
     "dry_bulk": {
       "confluence_type": "DIVERGENCE",
       "confluence_note": "Quant and analyst signals disagree for dry bulk (Z=+2.83sigma): rates are elevated but fundamentals are under pressure. Of 12 Breakwave reports: Sentiment 3 pos/0 neg/9 neu; Momentum 3 pos/3 neg/6 neu; Fundamentals 0 pos/12 neg/0 neu.",
-      "summary": "The dry bulk market is currently experiencing a powerful expansion, characterized by exceptionally high freight rates across all vessel classes. The BDI has surged +53.3% in the last 60 days, placing the current cycle firmly in acceleration territory, exceeding historical norms. This momentum is fueled by strong iron ore demand from China, coupled with a persistent tonnage shortage. Notably, the Capesize-Panamax spread is widening, indicating that iron ore shipments are increasingly crowding out grain and coal traffic for smaller vessels.  The ongoing geopolitical tensions in the Middle East, specifically the potential disruption to oil shipping, are indirectly impacting the dry bulk market by increasing freight rates and diverting vessel capacity.",
+      "summary": "The dry bulk market is currently experiencing a pronounced expansionary phase, underpinned by robust iron ore demand from China and a tightening tonnage balance. Capesize rates have surged +70.8% over the last 60 days, driven by the continued strength of the iron ore trade, while Panamax rates have followed closely with a +31.6% ROC60. The spread between Capesize and Panamax vessels is widening (+2693 pts), indicating that iron ore voyages are increasingly crowding out grain-driven demand for smaller vessels. Furthermore, the Baltic Dry Index (BCI) has reached a top-quartile historical level, suggesting a sustained period of elevated freight rates.",
       "key_signals": [
-        "Capesize rates at 4,976 sit +2.59σ above their 252-day mean — a level historically associated with sustained FFA curve steepening as forward holders hedge into strength.",
+        "Capesize rates at 4,976 sit +2.59σ above their 252-day mean – a level historically associated with sustained FFA curve steepening as forward holders hedge into strength.",
         "The Capesize-Panamax spread of +2,693 points is at its widest since Q4 2023, indicating that iron ore and coal voyages are crowding out grain-driven demand for smaller vessels.",
-        "A +53.3% ROC60 on the BDI signals one of the fastest six-month recoveries since 2020, placing the current cycle firmly in acceleration territory rather than mere mean-reversion.",
-        "Baltic Exchange data confirms that the BDI is currently in the top quartile of historical performance, suggesting a significant deviation from typical cyclical patterns."
+        "A +53.3% ROC60 on the BDI signals one of the fastest six-month recoveries since 2020, placing the current cycle firmly in acceleration territory rather than mere mean-reversion."
       ],
-      "outlook": "The dry bulk market is poised for continued expansion over the next 2-4 weeks, driven by robust Chinese demand and a persistent supply shortage. The key variable to monitor is the pace of Chinese steel production, as a slowdown could trigger a correction.",
+      "outlook": "The dry bulk market is expected to maintain its upward trajectory over the next 2-4 weeks, driven by continued strong iron ore demand from China and a persistent tonnage shortage.",
       "watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
       "report_dates": [
         "2026-05-12",
@@ -107,23 +106,22 @@
       ],
       "momentum_grade": "STRONG_UP",
       "positioning_bias": "LONG_SPREAD_VS_TANKER",
-      "trade_idea": "1. Buy Capesize futures contracts with a target entry at $13,500, triggered by a sustained break above $13,200. Exit thesis: Continued strong iron ore demand and persistent tonnage constraints will maintain upward pressure on freight rates.",
+      "trade_idea": "Long Capesize futures – Entry: Capesize rates break $17,000, Exit: BDI declines by 10%.",
       "catalyst_watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
+      "risk_note": "A Chinese iron ore import volume print below 95mt in the next customs release would confirm demand destruction and invalidate the BDI expansion thesis.",
       "confidence_score": 0.95
     },
     "tanker": {
       "confluence_type": "BULL_CONFLUENCE",
       "confluence_note": "Quant momentum and analyst signals align bullishly for tanker (Z=+1.57sigma). Of 12 Breakwave reports: Sentiment 11 pos/0 neg/1 neu; Momentum 7 pos/2 neg/3 neu; Fundamentals 12 pos/0 neg/0 neu.",
-      "summary": "The tanker market remains in a state of cautious equilibrium, characterized by elevated freight rates but tempered by geopolitical risk and a lack of clear directional momentum. The VLCC market is heavily influenced by the ongoing situation in the Middle East, with rerouting of vessels and increased freight costs impacting transits. The LR1 market is experiencing a period of consolidation, with rates stabilizing after recent gains. The Suezmax market is also showing signs of moderation, as supply and demand balance increasingly.",
+      "summary": "The tanker market is currently navigating a period of subdued activity, largely influenced by heightened geopolitical risks and the ongoing impact of supply chain disruptions. VLCC rates have stabilized, but remain vulnerable to fluctuations in the Middle East, while Suezmax rates are experiencing a slight softening. The market is characterized by a cautious approach from charterers and owners alike, reflecting concerns about potential rerouting and increased operational costs. The current spread between clean and dirty tankers remains negative, indicating that demand for refined products is currently outstripping demand for crude oil.",
       "key_signals": [
-        "The VLCC Middle East-Asia rate is trading at $10.92 million, reflecting the increased risk premium associated with transiting the Strait of Hormuz.",
-        "The LR1 Middle East-Japan rate has risen to WS656, indicating strong demand for longer-haul routes.",
-        "The Suezmax Nigeria/UK Continent rate has fallen to WS296.11, reflecting a softening in demand for West African crude.",
-        "The overall tanker market is experiencing a period of consolidation, with rates stabilizing after recent gains.",
-        "Dirty tanker check: level=2528.0, ROC60=+46.9%."
+        "Capesize rates at 4,976 sit +2.59σ above their 252-day mean – a level historically associated with sustained FFA curve steepening as forward holders hedge into strength.",
+        "The Capesize-Panamax spread of +2,693 points is at its widest since Q4 2023, indicating that iron ore and coal voyages are crowding out grain-driven demand for smaller vessels.",
+        "Clean-Dirty tanker spread: -686 pts – Reflecting the current oversupply of refined product and the limited demand for crude oil."
       ],
-      "outlook": "The tanker market is likely to remain range-bound over the next 2-4 weeks, as the impact of the Middle East situation continues to unfold. The key variable to monitor is the escalation or de-escalation of the conflict.",
-      "watch": "China May customs data (~June 8), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
+      "outlook": "The tanker market is expected to remain range-bound over the next 2-4 weeks, with volatility likely to persist due to ongoing geopolitical uncertainties.",
+      "watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
       "report_dates": [
         "2026-05-05",
         "2026-04-21",
@@ -140,17 +138,17 @@
       ],
       "momentum_grade": "FLAT",
       "positioning_bias": "NEUTRAL",
-      "trade_idea": "No high-conviction setup: The geopolitical uncertainty surrounding the Middle East is creating significant volatility, making it difficult to identify a clear entry point.",
-      "catalyst_watch": "China May customs data (~June 8), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
-      "risk_note": "A significant escalation of the Iran-Israel conflict, leading to a prolonged disruption of shipping lanes in the Persian Gulf, would trigger a sharp increase in tanker rates and potentially lead to a supply shortage.",
+      "trade_idea": "No high-conviction setup: The geopolitical risk remains elevated and could trigger a significant market correction.",
+      "catalyst_watch": "China May steel PMI (due ~June 1), OPEC+ June 1 meeting, and US port labor contract renewal in late May are the three near-term catalysts.",
+      "risk_note": "The Iran-Israel conflict poses a significant risk to the tanker market, potentially leading to rerouting and increased operational costs for vessels transiting the Strait of Hormuz.",
       "confidence_score": 0.65
     }
   },
-  "macro_note": "The ongoing tensions between Iran and Israel are creating significant uncertainty in the global oil market, leading to rerouting of VLCC tankers and increased freight rates. This geopolitical risk is indirectly impacting the dry bulk market by increasing freight costs and diverting vessel capacity. The upcoming China May customs data (June 8) will provide further insight into the pace of Chinese economic recovery and its impact on iron ore demand.",
+  "macro_note": "The Iran-Israel conflict continues to pose a significant threat to global trade routes, particularly in the Middle East. This is leading to rerouting of VLCC traffic away from the Strait of Hormuz, increasing operational costs and potentially disrupting crude oil supplies. The upcoming China May steel PMI release (due ~June 1) will provide further insight into the strength of Chinese demand and its impact on iron ore prices.",
   "cross_sector_analysis": {
-    "relative_value": "The dry bulk market currently offers a higher risk-reward profile than the tanker market, driven by stronger underlying demand and a more pronounced supply constraint. The widening Capesize-Panamax spread provides further evidence of this relative strength.",
-    "dominant_driver": "Robust Chinese iron ore demand remains the dominant driver for both the dry bulk and tanker markets, albeit with different transmission mechanisms. The dry bulk market directly benefits from increased iron ore shipments, while the tanker market is indirectly impacted by the need to transport the raw material to China.",
-    "positioning_recommendation": "Consider a long position in Capesize futures, leveraging the strong iron ore demand and persistent tonnage shortage.  A stop-loss order should be placed at $13,000."
+    "relative_value": "The dry bulk market currently offers a more compelling risk-reward profile than the tanker market, driven by the robust demand for iron ore and the widening spread between Capesize and Panamax vessels.",
+    "dominant_driver": "China's iron ore demand remains the dominant driver for both the dry bulk and tanker markets, shaping freight rates and trade flows across the globe.",
+    "positioning_recommendation": "Long Capesize futures vs. Short Suezmax futures – Entry: Capesize rates break $17,000, Exit: Suezmax rates increase by 5%."
   },
   "sources": [
     "breakwave_drybulk_2026-05-12",
