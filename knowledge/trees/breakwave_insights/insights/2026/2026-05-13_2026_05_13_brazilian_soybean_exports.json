@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-13_2026_05_13_brazilian_soybean_exports__root",
+  "doc_id": "breakwave_insights_insights_2026-05-13_2026_05_13_brazilian_soybean_exports",
+  "parent_id": null,
+  "title": "Brazilian soybean exports",
+  "section_path": [
+    "Brazilian soybean exports"
+  ],
+  "section_path_text": "Brazilian soybean exports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Yiannis Parganas\nBrazilian soybean exports to China have recovered from the March inspection disruption, but the episode has left more scrutiny around Panamax and Kamsarmax fixtures. Cargo quality, certificate timing and sanitary checks now carry more weight in Brazil-China soybean stems, especially when port line-ups are heavy. The disruption started after Chinese authorities raised concerns over Brazilian soybean cargoes containing pesticide-treated beans, live insects, weed seeds and heat-damaged material.",
+  "keywords": [
+    "panamax",
+    "china",
+    "brazil",
+    "pacific",
+    "grain",
+    "crude_oil",
+    "products",
+    "soybean",
+    "brazilian",
+    "chinese",
+    "during",
+    "around"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 703,
+  "source_path": "reports/breakwave/2026/2026-05-13_brazilian-soybean-exports.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/5/13/brazilian-soybean-exports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-13_2026_05_13_brazilian_soybean_exports__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-13_2026_05_13_brazilian_soybean_exports",
+      "parent_id": "breakwave_insights_insights_2026-05-13_2026_05_13_brazilian_soybean_exports__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Yiannis Parganas\nBrazilian soybean exports to China have recovered from the March inspection disruption, but the episode has left more scrutiny around Panamax and Kamsarmax fixtures. Cargo quality, certificate timing and sanitary checks now carry more weight in Brazil-China soybean stems, especially when port line-ups are heavy.",
+      "keywords": [
+        "panamax",
+        "china",
+        "brazil",
+        "pacific",
+        "grain",
+        "crude_oil",
+        "products",
+        "soybean"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 701,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
