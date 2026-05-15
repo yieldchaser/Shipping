@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 81
+document_count: 82
 evidence_count: 250
-generated_at: '2026-05-15T12:14:49Z'
+generated_at: '2026-05-15T17:39:31Z'
 latest_evidence_date: '2026-05-15'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 81 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-15, with the strongest recurring markers being crude, products, china, crude_oil, tanker. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 82 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-15, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -43,23 +43,23 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 ## Historical Patterns
 - Coverage span: 2026-04-15 to 2026-05-15 across 1 calendar years.
 - Most-covered years: 2026: 250
-- Recurring evidence markers: crude, products, china, crude_oil, tanker, vlcc
+- Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 185, hellenic: 54, baltic: 7, breakwave: 4
-- Category coverage: insights: 185, demolition: 27, tanker_charter: 9, vessel_valuations: 9, shipbuilding: 9, tanker: 7, tankers: 4
-- Tone distribution: constructive: 151, neutral: 56, cautiously_bearish: 39, volatile_rebalancing: 2, cautious_volatile: 2
+- Source coverage: breakwave_insights: 184, hellenic: 54, baltic: 8, breakwave: 4
+- Category coverage: insights: 184, demolition: 27, tanker_charter: 9, vessel_valuations: 9, shipbuilding: 9, tanker: 8, tankers: 4
+- Tone distribution: constructive: 150, neutral: 57, cautiously_bearish: 39, volatile_rebalancing: 2, cautious_volatile: 2
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
 - 2026-05-15 | China's Vehicle Export Growth Extremely Robust [doc_id: breakwave_insights_insights_2026-05-15_2026_05_15_chinas_vehicle_export_growth_extremely_robust | section_id: breakwave_insights_insights_2026-05-15_2026_05_15_chinas_vehicle_export_growth_extremely_robust__s01_main | pages n/a]
 - 2026-05-15 | China's Import Surge Masks Dry Bulk Headwinds [doc_id: breakwave_insights_insights_2026-05-15_2026_05_15_chinas_import_surge_masks_dry_bulk_headwinds | section_id: breakwave_insights_insights_2026-05-15_2026_05_15_chinas_import_surge_masks_dry_bulk_headwinds__s06_linked_asset_2026_05_15_chinas_import_surge_masks_dry_bulk_headwinds_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2d9ca0a030c9_png | pages n/a]
+- 2026-05-15 | Tanker report - Week 20 [doc_id: baltic_tanker_2026-05-15_2026_05_15_tanker_report_week_20_tanker | section_id: baltic_tanker_2026-05-15_2026_05_15_tanker_report_week_20_tanker__s01_main | pages n/a]
 - 2026-05-14 | Oil edges lower as market watches Trump-Xi meeting [doc_id: breakwave_insights_insights_2026-05-14_2026_05_14_oil_edges_lower_as_market_watches_trump_xi_meeting | section_id: breakwave_insights_insights_2026-05-14_2026_05_14_oil_edges_lower_as_market_watches_trump_xi_meeting__s05_linked_asset_2026_05_14_oil_edges_lower_as_market_watches_trump_xi_meeting_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7262a0430cab_png | pages n/a]
 - 2026-05-14 | Coal demand in April rises in line with our expectations [doc_id: breakwave_insights_insights_2026-05-14_2026_05_14_coal_demand_in_april_rises_in_line_with_our_expectations | section_id: breakwave_insights_insights_2026-05-14_2026_05_14_coal_demand_in_april_rises_in_line_with_our_expectations__s01_main | pages n/a]
 - 2026-05-13 | Brazilian soybean exports [doc_id: breakwave_insights_insights_2026-05-13_2026_05_13_brazilian_soybean_exports | section_id: breakwave_insights_insights_2026-05-13_2026_05_13_brazilian_soybean_exports__s01_main | pages n/a]
 - 2026-05-13 | Weekly Tanker Time Charter Estimates, May 13 2026 [doc_id: hellenic_tanker_charter_2026-05-13_2026_05_13_weekly_tanker_time_charter_estimates_may_13_2026 | section_id: hellenic_tanker_charter_2026-05-13_2026_05_13_weekly_tanker_time_charter_estimates_may_13_2026__s02_linked_asset_2026_05_13_weekly_tanker_time_charter_estimates_may_13_2026_135202516_131480720946_jpg | pages n/a]
 - 2026-05-13 | Weekly Vessel Valuations Report, May 12 2026 [doc_id: hellenic_vessel_valuations_2026-05-13_2026_05_13_weekly_vessel_valuations_report_may_12_2026 | section_id: hellenic_vessel_valuations_2026-05-13_2026_05_13_weekly_vessel_valuations_report_may_12_2026__s01_main | pages n/a]
-- 2026-05-13 | From Gas to Coal: EU Navigating Energy Security Concerns Amid ETS Constraints [doc_id: breakwave_insights_insights_2026-05-13_2026_05_13_from_gas_to_coal_eu_navigating_energy_security_concerns_amid_ets_constraints | section_id: breakwave_insights_insights_2026-05-13_2026_05_13_from_gas_to_coal_eu_navigating_energy_security_concerns_amid_ets_constraints__s01_main | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax

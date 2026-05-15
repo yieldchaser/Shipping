@@ -10,7 +10,7 @@ categories:
 - vessel_valuations
 document_count: 83
 evidence_count: 250
-generated_at: '2026-05-15T12:14:49Z'
+generated_at: '2026-05-15T17:39:31Z'
 latest_evidence_date: '2026-05-15'
 page_type: topic_wiki
 related_topics:
@@ -49,20 +49,20 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - Recurring evidence markers: china, iron_ore, brazil, capesize, dry bulk, australia
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 147, hellenic: 94, baltic: 5, breakwave: 4
-- Category coverage: insights: 147, iron_ore: 51, demolition: 21, vessel_valuations: 8, dry_charter: 8, shipbuilding: 6, dry: 5, drybulk: 4
+- Source coverage: breakwave_insights: 147, hellenic: 93, baltic: 6, breakwave: 4
+- Category coverage: insights: 147, iron_ore: 51, demolition: 20, vessel_valuations: 8, dry_charter: 8, dry: 6, shipbuilding: 6, drybulk: 4
 - Tone distribution: constructive: 133, neutral: 73, cautiously_bearish: 42, cautious_pessimistic: 2
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
 - 2026-05-15 | China's Import Surge Masks Dry Bulk Headwinds [doc_id: breakwave_insights_insights_2026-05-15_2026_05_15_chinas_import_surge_masks_dry_bulk_headwinds | section_id: breakwave_insights_insights_2026-05-15_2026_05_15_chinas_import_surge_masks_dry_bulk_headwinds__s04_the_story_for_bulk_shipping_and_commodities | pages n/a]
 - 2026-05-15 | China's Vehicle Export Growth Extremely Robust [doc_id: breakwave_insights_insights_2026-05-15_2026_05_15_chinas_vehicle_export_growth_extremely_robust | section_id: breakwave_insights_insights_2026-05-15_2026_05_15_chinas_vehicle_export_growth_extremely_robust__s06_linked_asset_2026_05_15_chinas_vehicle_export_growth_extremely_robust_img_chart5_cf1839bc4e30_jpg | pages n/a]
+- 2026-05-15 | Bulk report - Week 20 [doc_id: baltic_dry_2026-05-15_2026_05_15_bulk_report_week_20_dry | section_id: baltic_dry_2026-05-15_2026_05_15_bulk_report_week_20_dry__s01_main | pages n/a]
 - 2026-05-14 | Coal demand in April rises in line with our expectations [doc_id: breakwave_insights_insights_2026-05-14_2026_05_14_coal_demand_in_april_rises_in_line_with_our_expectations | section_id: breakwave_insights_insights_2026-05-14_2026_05_14_coal_demand_in_april_rises_in_line_with_our_expectations__s01_main | pages n/a]
 - 2026-05-14 | Oil edges lower as market watches Trump-Xi meeting [doc_id: breakwave_insights_insights_2026-05-14_2026_05_14_oil_edges_lower_as_market_watches_trump_xi_meeting | section_id: breakwave_insights_insights_2026-05-14_2026_05_14_oil_edges_lower_as_market_watches_trump_xi_meeting__s04_linked_asset_2026_05_14_oil_edges_lower_as_market_watches_trump_xi_meeting_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_2744060d3ffa_png | pages n/a]
 - 2026-05-14 | MMI Daily Iron Ore Index Report May 14 2026 [doc_id: hellenic_iron_ore_2026-05-14_2026_05_14_mmi_daily_iron_ore_index_report_may_14_2026 | section_id: hellenic_iron_ore_2026-05-14_2026_05_14_mmi_daily_iron_ore_index_report_may_14_2026__s03_linked_asset_2026_05_14_mmi_daily_iron_ore_index_report_may_14_2026_mmi_daily_iron_ore_report_for_14th_m_c6a15cb4c8c8_pdf | pages n/a]
 - 2026-05-13 | Weekly Vessel Valuations Report, May 12 2026 [doc_id: hellenic_vessel_valuations_2026-05-13_2026_05_13_weekly_vessel_valuations_report_may_12_2026 | section_id: hellenic_vessel_valuations_2026-05-13_2026_05_13_weekly_vessel_valuations_report_may_12_2026__s01_main | pages n/a]
 - 2026-05-13 | Brazilian soybean exports [doc_id: breakwave_insights_insights_2026-05-13_2026_05_13_brazilian_soybean_exports | section_id: breakwave_insights_insights_2026-05-13_2026_05_13_brazilian_soybean_exports__s01_main | pages n/a]
-- 2026-05-13 | Weekly Dry Time Charter Estimates, May 13 2026 [doc_id: hellenic_dry_charter_2026-05-13_2026_05_13_weekly_dry_time_charter_estimates_may_13_2026 | section_id: hellenic_dry_charter_2026-05-13_2026_05_13_weekly_dry_time_charter_estimates_may_13_2026__s02_linked_asset_2026_05_13_weekly_dry_time_charter_estimates_may_13_2026_135202515_1682f71b0746_jpg | pages n/a]
 
 ## Related Topics
 - capesize

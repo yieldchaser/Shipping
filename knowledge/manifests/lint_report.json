@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T12:15:49Z",
+  "generated_at": "2026-05-15T17:40:22Z",
   "current_date": "2026-05-15",
   "warning_count": 11,
   "high_severity_count": 0,
@@ -103,8 +103,8 @@
             "source": "baltic",
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
-            "doc_count": 5,
-            "latest_date": "2026-05-08"
+            "doc_count": 6,
+            "latest_date": "2026-05-15"
           },
           {
             "source": "hellenic",
@@ -176,7 +176,7 @@
             "avg_tone_score": 0.0,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-05-08"
+            "latest_date": "2026-05-15"
           },
           {
             "source": "hellenic",
