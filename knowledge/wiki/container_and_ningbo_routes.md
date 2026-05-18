@@ -6,7 +6,7 @@ categories:
 - vessel_valuations
 document_count: 185
 evidence_count: 250
-generated_at: '2026-05-15T17:39:31Z'
+generated_at: '2026-05-18T11:56:29Z'
 latest_evidence_date: '2026-05-15'
 page_type: topic_wiki
 related_topics: []
@@ -35,7 +35,7 @@ Container route pricing, Ningbo-linked export sentiment, rate pressure across ma
 
 ## Historical Patterns
 - Coverage span: 2025-06-06 to 2026-05-15 across 2 calendar years.
-- Most-covered years: 2025: 134, 2026: 116
+- Most-covered years: 2025: 133, 2026: 117
 - Recurring evidence markers: container, rate, china, ningbo, europe, feu
 
 ## Cross-Source View
