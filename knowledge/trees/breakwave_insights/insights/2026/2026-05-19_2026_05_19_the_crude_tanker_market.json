@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-19_2026_05_19_the_crude_tanker_market__root",
+  "doc_id": "breakwave_insights_insights_2026-05-19_2026_05_19_the_crude_tanker_market",
+  "parent_id": null,
+  "title": "The crude tanker market",
+  "section_path": [
+    "The crude tanker market"
+  ],
+  "section_path_text": "The crude tanker market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: unsplash-image-zryoQGUerTI.jpg | assets/2026-05-19_the-crude-tanker-market_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe crude tanker market in 2026 has undergone one of the most violent earnings transformations in recent memory, driven not by demand expansion but by the physical disruption of the world's most critical oil chokepoint. The first four months of the year tell two sharply distinct stories: a pre-conflict period defined by firm demand and steadily escalating freight, and a conflict-period collapse in seaborne crude volumes that paradoxically drove tanker earnings to historically extreme levels, illustrating, with unusual clarity, the degree to which effective tonnage supply rather than cargo volumes governs short-term rate outcomes. Through January and February, seaborne crude flows were on a constructive trajectory.",
+  "keywords": [
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "crude_oil",
+    "day",
+    "barrels",
+    "million",
+    "crude",
+    "march",
+    "january",
+    "volumes",
+    "already"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1231,
+  "source_path": "reports/breakwave/2026/2026-05-19_the-crude-tanker-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/5/19/the-crude-tanker-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-19_2026_05_19_the_crude_tanker_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-19_2026_05_19_the_crude_tanker_market",
+      "parent_id": "breakwave_insights_insights_2026-05-19_2026_05_19_the_crude_tanker_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: unsplash-image-zryoQGUerTI.jpg | assets/2026-05-19_the-crude-tanker-market_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe crude tanker market in 2026 has undergone one of the most violent earnings transformations in recent memory, driven not by demand expansion but by the physical disruption of the world's most critical oil chokepoint. The first four months of the year tell two sharply distinct stories: a pre-conflict period defined by firm demand and steadily escalating freight, and a conflict-period collapse in seaborne crude volumes that paradoxically drove tanker earnings to historically extreme levels, illustrating, with unusual clarity, the degree to which effective tonnage supply rather than cargo volumes governs short-term rate outcomes.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "crude_oil",
+        "day",
+        "barrels",
+        "million",
+        "crude"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 810,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-19_2026_05_19_the_crude_tanker_market__s02_linked_asset_2026_05_19_the_crude_tanker_market_img_unsplash_image_zryoqguerti_d362acbfef2f_jpg",
+      "doc_id": "breakwave_insights_insights_2026-05-19_2026_05_19_the_crude_tanker_market",
+      "parent_id": "breakwave_insights_insights_2026-05-19_2026_05_19_the_crude_tanker_market__root",
+      "title": "Linked asset: 2026-05-19_the-crude-tanker-market_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg",
+      "section_path": [
+        "Linked asset: 2026-05-19_the-crude-tanker-market_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-05-19_the-crude-tanker-market_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-19_the-crude-tanker-market_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg\n\nLinked image asset: 2026-05-19_the-crude-tanker-market_img_unsplash-image-zryoqguerti_d362acbfef2f.jpg\n\nImage metadata: JPEG 2500x1663 mode=RGB\n\nOCR text:\n------ ,\n--\n--- -\n5 : aE lis. Ss ee = - ‘\nSa aes SS ne a eR Oe BS ARNT get gee RN I re nn eee ee 5\nSas Shae.",
+      "keywords": [
+        "asset",
+        "eae",
+        "eee",
+        "image",
+        "see",
+        "aes",
+        "age",
+        "agen"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 385,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
