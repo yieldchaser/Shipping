@@ -3,9 +3,9 @@ categories:
 - insights
 - tankers
 - vessel_valuations
-document_count: 114
+document_count: 115
 evidence_count: 250
-generated_at: '2026-05-19T13:08:22Z'
+generated_at: '2026-05-20T12:48:43Z'
 latest_evidence_date: '2026-05-19'
 page_type: topic_wiki
 related_topics:
@@ -20,7 +20,7 @@ topic_id: vlcc_and_suezmax
 ---
 
 ## Summary
-Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Africa-Europe dynamics, vessel supply, and route-specific rate pressure. The current wiki page is grounded in 250 cited sections from 114 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-19, with the strongest recurring markers being meg, suezmax, vlcc, aframax, crude_oil. Primary coverage comes from categories such as insights, tankers, vessel_valuations.
+Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Africa-Europe dynamics, vessel supply, and route-specific rate pressure. The current wiki page is grounded in 250 cited sections from 115 documents across breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-19, with the strongest recurring markers being meg, suezmax, vlcc, aframax, crude_oil. Primary coverage comes from categories such as insights, tankers, vessel_valuations.
 
 ## Why It Matters
 Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Africa-Europe dynamics, vessel supply, and route-specific rate pressure.
@@ -32,8 +32,8 @@ Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Af
 - 2026-05-19 | breakwave tankers | Fundamentals: - World Oil Demand (YTD: 106,049 kbpd, YOY: 0.6%) - Oil Supply, OPEC (YTD: 20,550 kbpd, YOY: -24.8%) - Oil Supply, non-OPEC (YTD: 73,836 kbpd, YOY: 0.7%) - OECD Total Crude Oil Stocks (YTD: 1025.8 MMbls, YOY: -0.4%) - US Crude Oil Exports (YTD: 56.1 MMbls, YOY: -2.2%) - China Oil Imports (YTD: 764.4 MMbls, YOY: 3.7%) - Global Crude Oil On Water (YTD: 1218.9 MMbls, YOY: 6.4%) - Tanker Fleet (YTD: 717.8 mdwt, YOY: 2.9%) - VLCC Middle East-Asia, USD/ton (YTD: 60.71, YOY: 361.7%) - Suezmax West Africa-Europe, USD/ton (YTD: 38.28, YOY: 130.2%) [doc_id: breakwave_tankers_2026-05-19 | section_id: breakwave_tankers_2026-05-19__s02_fundamentals | pages 2-2]
 - 2026-05-19 | breakwave_insights insights | Main: • Uncertainty Remains - The VLCC market is increasingly shaped by geopolitical risk and regional access constraints rather than underlying freight fundamentals, with what initially appeared to be a temporary reaction to Middle East disruption now evolving into a more entrenched divergence between the Arabian Gulf and the Atlantic basin. The widening gap between the two regions has become one of the clearest features of the VLCC current market. [doc_id: breakwave_insights_insights_2026-05-19_2026_05_19_5192026wetreportkju125 | section_id: breakwave_insights_insights_2026-05-19_2026_05_19_5192026wetreportkju125__s01_main | pages n/a]
 - 2026-05-19 | breakwave tankers | Overview: - Uncertainty Remains - The VLCC market is increasingly shaped by geopolitical - Oil Prices to Move Past Recent Highs as Global Storage Hits New Lows - The - Our Long-term View - The tanker market has been recovering from a long period [doc_id: breakwave_tankers_2026-05-19 | section_id: breakwave_tankers_2026-05-19__s01_overview | pages 1-1]
+- 2026-05-19 | hellenic vessel_valuations | Main: Bulkers: S&P activity remained active across the major segments this week, with Ultramax tonnage drawing particular interest from Greek and Chinese buyers.Buyers appeared willing to absorb near-term survey costs, with several vessels carrying upcoming SS/DD dates still achieving firm pricing, pointing to continued confidence in the segment's earnings outlook. Values firmed across the Bulker segment in response Kamsarmax Mandy Morn (82,600 DWT, 2008, Tsuneishi Zhoushan) sold by Ningbo Baoneng Shipping DD Due for USD 14 mil, VV Value USD 14.8 mil. [doc_id: hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026 | section_id: hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__s01_main | pages n/a]
 - 2026-05-19 | breakwave_insights insights | Guinea's approach could shift how capes perform in 2026 H2: Looking ahead, the bauxite market outlook is broadly constructive but increasingly bifurcated by risk. China's sustained import growth provides a reliable demand floor, while India's rise as a destination market is structural rather than purely opportunistic, underpinned by a multi-year alumina refinery expansion pipeline from Vedanta and Hindalco that will continue to draw seaborne bauxite regardless of Arabian Gulf normalisation. [doc_id: breakwave_insights_insights_2026-05-19_2026_05_19_china_drives_increased_bauxite_flows_but_guineas_cutback_could_drag_on_growth | section_id: breakwave_insights_insights_2026-05-19_2026_05_19_china_drives_increased_bauxite_flows_but_guineas_cutback_could_drag_on_growth__s02_guinea_s_approach_could_shift_how_capes_perform_in_2026_h2 | pages n/a]
-- 2026-05-19 | breakwave_insights insights | Main: India has emerged as a key destination for bauxite as risks in the Arabian Gulf rise. Bauxite carrying Capesize tonne-miles from Signal Ocean Image reference: unnamed.png | assets/2026-05-19_china-drives-increased-bauxite-flows-but-guineas-cutback-could-drag-on-growth_img_unnamed_2d177c5ad9b0.png Key Takeaways ● Global bauxite flows increased by 24% y/y in April. [doc_id: breakwave_insights_insights_2026-05-19_2026_05_19_china_drives_increased_bauxite_flows_but_guineas_cutback_could_drag_on_growth | section_id: breakwave_insights_insights_2026-05-19_2026_05_19_china_drives_increased_bauxite_flows_but_guineas_cutback_could_drag_on_growth__s01_main | pages n/a]
 
 ## Historical Patterns
 - Coverage span: 2026-03-02 to 2026-05-19 across 1 calendar years.
@@ -41,20 +41,20 @@ Benchmark crude tanker classes and routes, with emphasis on MEG-Asia and West Af
 - Recurring evidence markers: meg, suezmax, vlcc, aframax, crude_oil, china
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 230, breakwave: 12, hellenic: 8
-- Category coverage: insights: 230, tankers: 12, vessel_valuations: 8
-- Tone distribution: constructive: 179, neutral: 34, cautiously_bearish: 31, volatile_rebalancing: 2, cautious_volatile: 2, cautious: 2
+- Source coverage: breakwave_insights: 229, breakwave: 12, hellenic: 9
+- Category coverage: insights: 229, tankers: 12, vessel_valuations: 9
+- Tone distribution: constructive: 178, neutral: 34, cautiously_bearish: 32, volatile_rebalancing: 2, cautious_volatile: 2, cautious: 2
 - Related topics: tanker_market, oil_and_opec
 
 ## Key Documents
 - 2026-05-19 | The crude tanker market [doc_id: breakwave_insights_insights_2026-05-19_2026_05_19_the_crude_tanker_market | section_id: breakwave_insights_insights_2026-05-19_2026_05_19_the_crude_tanker_market__s01_main | pages n/a]
 - 2026-05-19 | Breakwave Bi-Weekly Tanker Report - May 19, 2026 [doc_id: breakwave_insights_insights_2026-05-19_2026_05_19_5192026wetreportkju125 | section_id: breakwave_insights_insights_2026-05-19_2026_05_19_5192026wetreportkju125__s03_linked_asset_2026_05_19_5192026wetreportkju125_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b21289ae4ca7_png | pages n/a]
 - 2026-05-19 | Tanker Shipping - May 19, 2026 [doc_id: breakwave_tankers_2026-05-19 | section_id: breakwave_tankers_2026-05-19__s02_fundamentals | pages 2-2]
+- 2026-05-19 | Weekly Vessel Valuations Report, May 19 2026 [doc_id: hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026 | section_id: hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__s01_main | pages n/a]
 - 2026-05-19 | China drives increased bauxite flows, but Guinea's cutback could drag on growth [doc_id: breakwave_insights_insights_2026-05-19_2026_05_19_china_drives_increased_bauxite_flows_but_guineas_cutback_could_drag_on_growth | section_id: breakwave_insights_insights_2026-05-19_2026_05_19_china_drives_increased_bauxite_flows_but_guineas_cutback_could_drag_on_growth__s02_guinea_s_approach_could_shift_how_capes_perform_in_2026_h2 | pages n/a]
 - 2026-05-18 | EU keeps the pressure on [doc_id: breakwave_insights_insights_2026-05-18_2026_05_18_eu_keeps_the_pressure_on | section_id: breakwave_insights_insights_2026-05-18_2026_05_18_eu_keeps_the_pressure_on__s01_main | pages n/a]
 - 2026-05-18 | Stabilising development for global markets [doc_id: breakwave_insights_insights_2026-05-18_2026_05_18_stabilising_development_for_global_markets | section_id: breakwave_insights_insights_2026-05-18_2026_05_18_stabilising_development_for_global_markets__s01_main | pages n/a]
 - 2026-05-15 | China's Vehicle Export Growth Extremely Robust [doc_id: breakwave_insights_insights_2026-05-15_2026_05_15_chinas_vehicle_export_growth_extremely_robust | section_id: breakwave_insights_insights_2026-05-15_2026_05_15_chinas_vehicle_export_growth_extremely_robust__s01_main | pages n/a]
-- 2026-05-14 | Oil edges lower as market watches Trump-Xi meeting [doc_id: breakwave_insights_insights_2026-05-14_2026_05_14_oil_edges_lower_as_market_watches_trump_xi_meeting | section_id: breakwave_insights_insights_2026-05-14_2026_05_14_oil_edges_lower_as_market_watches_trump_xi_meeting__s05_linked_asset_2026_05_14_oil_edges_lower_as_market_watches_trump_xi_meeting_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7262a0430cab_png | pages n/a]
 
 ## Related Topics
 - tanker_market

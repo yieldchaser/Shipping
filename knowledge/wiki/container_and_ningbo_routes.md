@@ -6,8 +6,8 @@ categories:
 - vessel_valuations
 document_count: 185
 evidence_count: 250
-generated_at: '2026-05-19T13:08:22Z'
-latest_evidence_date: '2026-05-15'
+generated_at: '2026-05-20T12:48:43Z'
+latest_evidence_date: '2026-05-19'
 page_type: topic_wiki
 related_topics: []
 sources:
@@ -18,12 +18,13 @@ topic_id: container_and_ningbo_routes
 ---
 
 ## Summary
-Container route pricing, Ningbo-linked export sentiment, rate pressure across major lanes, and the market signals embedded in weekly Baltic container coverage. The current wiki page is grounded in 250 cited sections from 185 documents across baltic, hellenic. Recent evidence runs through 2026-05-15, with the strongest recurring markers being container, rate, china, ningbo, europe. Primary coverage comes from categories such as container, ningbo, shipbuilding, vessel_valuations.
+Container route pricing, Ningbo-linked export sentiment, rate pressure across major lanes, and the market signals embedded in weekly Baltic container coverage. The current wiki page is grounded in 250 cited sections from 185 documents across baltic, hellenic. Recent evidence runs through 2026-05-19, with the strongest recurring markers being container, rate, china, ningbo, europe. Primary coverage comes from categories such as container, ningbo, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Container route pricing, Ningbo-linked export sentiment, rate pressure across major lanes, and the market signals embedded in weekly Baltic container coverage.
 
 ## Recent Evidence
+- 2026-05-19 | hellenic vessel_valuations | Main: Bulkers: S&P activity remained active across the major segments this week, with Ultramax tonnage drawing particular interest from Greek and Chinese buyers.Buyers appeared willing to absorb near-term survey costs, with several vessels carrying upcoming SS/DD dates still achieving firm pricing, pointing to continued confidence in the segment's earnings outlook. Values firmed across the Bulker segment in response Kamsarmax Mandy Morn (82,600 DWT, 2008, Tsuneishi Zhoushan) sold by Ningbo Baoneng Shipping DD Due for USD 14 mil, VV Value USD 14.8 mil. [doc_id: hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026 | section_id: hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__s01_main | pages n/a]
 - 2026-05-15 | baltic ningbo | Main: 15 May 2026 Ningbo Containerised Freight Index [doc_id: baltic_ningbo_2026-05-15_2026_05_15_ningbo_containerised_freight_index_15052_ningbo | section_id: baltic_ningbo_2026-05-15_2026_05_15_ningbo_containerised_freight_index_15052_ningbo__s01_main | pages n/a]
 - 2026-05-15 | baltic container | Main: 15 May 2026 Container Report - Week 20 [doc_id: baltic_container_2026-05-15_2026_05_15_container_report_week_20_container | section_id: baltic_container_2026-05-15_2026_05_15_container_report_week_20_container__s01_main | pages n/a]
 - 2026-05-13 | hellenic vessel_valuations | Main: Bulkers: The secondhand Bulker market remained active this week. Modest value increases occurred across Bulker segments,as sales revealed more evidence of strong pricing in the sector Capesize Bulk Joyance (175,900 DWT, 2012, Jinhai) sold by HNA Technology Investments Holdings for USD 33 mil, VV Value USD 30.5 mil. [doc_id: hellenic_vessel_valuations_2026-05-13_2026_05_13_weekly_vessel_valuations_report_may_12_2026 | section_id: hellenic_vessel_valuations_2026-05-13_2026_05_13_weekly_vessel_valuations_report_may_12_2026__s01_main | pages n/a]
@@ -31,19 +32,19 @@ Container route pricing, Ningbo-linked export sentiment, rate pressure across ma
 - 2026-05-08 | baltic ningbo | Main: 08 May 2026 Ningbo Containerised Freight Index [doc_id: baltic_ningbo_2026-05-08_2026_05_08_ningbo_containerised_freight_index_08052_ningbo | section_id: baltic_ningbo_2026-05-08_2026_05_08_ningbo_containerised_freight_index_08052_ningbo__s01_main | pages n/a]
 - 2026-05-08 | baltic container | Main: 08 May 2026 Container Report - Week 19 [doc_id: baltic_container_2026-05-08_2026_05_08_container_report_week_19_container | section_id: baltic_container_2026-05-08_2026_05_08_container_report_week_19_container__s01_main | pages n/a]
 - 2026-05-05 | hellenic vessel_valuations | Linked asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg: Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg Linked image asset: 2026-05-05_weekly-vessel-valuations-report-may-05-2026_552025_d090aad5fc53.jpg Image metadata: JPEG 600x279 mode=RGB Embedded info: dpi: (72.0, 72.0) OCR text: © Vessels Vase mma 05 May 2026 VV Mini Matrix - Weekly Change Tankers Bulkers Containers Year vice Suez Afra um mn Cape Pmax = Supra. Handy fscs Pmax Handy Fmax ° 5 1.0% . [doc_id: hellenic_vessel_valuations_2026-05-05_2026_05_05_weekly_vessel_valuations_report_may_05_2026 | section_id: hellenic_vessel_valuations_2026-05-05_2026_05_05_weekly_vessel_valuations_report_may_05_2026__s02_linked_asset_2026_05_05_weekly_vessel_valuations_report_may_05_2026_552025_d090aad5fc53_jpg | pages n/a]
-- 2026-05-05 | hellenic vessel_valuations | Main: Bulkers: Older Panamaxes have come up this week following a flurry of recently sold vessels. Panamax BC Donousa (76,400 DWT, Jun 2004, Tsuneishi Zosen) sold by Dileton Maritime for USD 9.3 mil, VV Value USD 8.7 mil. [doc_id: hellenic_vessel_valuations_2026-05-05_2026_05_05_weekly_vessel_valuations_report_may_05_2026 | section_id: hellenic_vessel_valuations_2026-05-05_2026_05_05_weekly_vessel_valuations_report_may_05_2026__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2025-06-06 to 2026-05-15 across 2 calendar years.
-- Most-covered years: 2025: 133, 2026: 117
-- Recurring evidence markers: container, rate, china, ningbo, europe, feu
+- Coverage span: 2025-06-10 to 2026-05-19 across 2 calendar years.
+- Most-covered years: 2025: 132, 2026: 118
+- Recurring evidence markers: container, rate, china, ningbo, europe, export
 
 ## Cross-Source View
-- Source coverage: hellenic: 146, baltic: 104
-- Category coverage: vessel_valuations: 87, shipbuilding: 59, container: 54, ningbo: 50
-- Tone distribution: neutral: 146, constructive: 69, cautiously_bearish: 35
+- Source coverage: hellenic: 147, baltic: 103
+- Category coverage: vessel_valuations: 88, shipbuilding: 59, container: 53, ningbo: 50
+- Tone distribution: neutral: 145, constructive: 69, cautiously_bearish: 36
 
 ## Key Documents
+- 2026-05-19 | Weekly Vessel Valuations Report, May 19 2026 [doc_id: hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026 | section_id: hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__s01_main | pages n/a]
 - 2026-05-15 | Ningbo Containerised Freight Index [doc_id: baltic_ningbo_2026-05-15_2026_05_15_ningbo_containerised_freight_index_15052_ningbo | section_id: baltic_ningbo_2026-05-15_2026_05_15_ningbo_containerised_freight_index_15052_ningbo__s01_main | pages n/a]
 - 2026-05-15 | Container Report - Week 20 [doc_id: baltic_container_2026-05-15_2026_05_15_container_report_week_20_container | section_id: baltic_container_2026-05-15_2026_05_15_container_report_week_20_container__s01_main | pages n/a]
 - 2026-05-13 | Weekly Vessel Valuations Report, May 12 2026 [doc_id: hellenic_vessel_valuations_2026-05-13_2026_05_13_weekly_vessel_valuations_report_may_12_2026 | section_id: hellenic_vessel_valuations_2026-05-13_2026_05_13_weekly_vessel_valuations_report_may_12_2026__s01_main | pages n/a]
@@ -51,7 +52,6 @@ Container route pricing, Ningbo-linked export sentiment, rate pressure across ma
 - 2026-05-08 | Container Report - Week 19 [doc_id: baltic_container_2026-05-08_2026_05_08_container_report_week_19_container | section_id: baltic_container_2026-05-08_2026_05_08_container_report_week_19_container__s01_main | pages n/a]
 - 2026-05-05 | Weekly Vessel Valuations Report, May 05 2026 [doc_id: hellenic_vessel_valuations_2026-05-05_2026_05_05_weekly_vessel_valuations_report_may_05_2026 | section_id: hellenic_vessel_valuations_2026-05-05_2026_05_05_weekly_vessel_valuations_report_may_05_2026__s02_linked_asset_2026_05_05_weekly_vessel_valuations_report_may_05_2026_552025_d090aad5fc53_jpg | pages n/a]
 - 2026-05-01 | Ningbo Containerised Freight Index [doc_id: baltic_ningbo_2026-05-01_2026_05_01_ningbo_containerised_freight_index_24042_ningbo | section_id: baltic_ningbo_2026-05-01_2026_05_01_ningbo_containerised_freight_index_24042_ningbo__s01_main | pages n/a]
-- 2026-05-01 | Container Report - Week 18 [doc_id: baltic_container_2026-05-01_2026_container_report_week_18_container | section_id: baltic_container_2026-05-01_2026_container_report_week_18_container__s01_main | pages n/a]
 
 ## Related Topics
 - None configured.

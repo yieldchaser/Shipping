@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T13:09:21Z",
-  "current_date": "2026-05-19",
+  "generated_at": "2026-05-20T12:49:45Z",
+  "current_date": "2026-05-20",
   "warning_count": 13,
   "high_severity_count": 0,
   "status_counts": {
@@ -36,10 +36,10 @@
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.5,
+            "avg_tone_score": 0.62,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-05-19"
+            "latest_date": "2026-05-20"
           },
           {
             "source": "breakwave_insights",
@@ -111,7 +111,7 @@
             "avg_tone_score": 0.29,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-05-19"
+            "latest_date": "2026-05-20"
           },
           {
             "source": "breakwave_insights",
@@ -128,19 +128,19 @@
       "severity": "watch",
       "kind": "topic_divergence",
       "key": "oil_and_opec",
-      "message": "Oil and OPEC shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "message": "Oil and OPEC shows recent tone divergence: breakwave_insights reads constructive while hellenic reads cautiously_bearish.",
       "details": {
         "topic_id": "oil_and_opec",
         "title": "Oil and OPEC",
         "severity": "watch",
-        "score_diff": 0.79,
+        "score_diff": 1.0,
         "source_scores": [
           {
             "source": "hellenic",
-            "avg_tone_score": -0.04,
-            "dominant_tone": "neutral",
+            "avg_tone_score": -0.25,
+            "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
-            "latest_date": "2026-05-13"
+            "latest_date": "2026-05-19"
           },
           {
             "source": "breakwave",
@@ -157,7 +157,7 @@
             "latest_date": "2026-05-19"
           }
         ],
-        "message": "Oil and OPEC shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+        "message": "Oil and OPEC shows recent tone divergence: breakwave_insights reads constructive while hellenic reads cautiously_bearish."
       }
     },
     {
@@ -169,14 +169,14 @@
         "topic_id": "panamax_and_supramax",
         "title": "Panamax and Supramax",
         "severity": "watch",
-        "score_diff": 0.83,
+        "score_diff": 0.92,
         "source_scores": [
           {
             "source": "hellenic",
-            "avg_tone_score": -0.08,
+            "avg_tone_score": -0.17,
             "dominant_tone": "neutral",
             "doc_count": 6,
-            "latest_date": "2026-05-13"
+            "latest_date": "2026-05-19"
           },
           {
             "source": "breakwave",
@@ -216,10 +216,10 @@
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.17,
-            "dominant_tone": "neutral",
+            "avg_tone_score": 0.08,
+            "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
-            "latest_date": "2026-05-18"
+            "latest_date": "2026-05-19"
           },
           {
             "source": "breakwave_insights",
@@ -236,19 +236,19 @@
       "severity": "watch",
       "kind": "topic_divergence",
       "key": "vlcc_and_suezmax",
-      "message": "VLCC and Suezmax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral.",
+      "message": "VLCC and Suezmax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads cautiously_bearish.",
       "details": {
         "topic_id": "vlcc_and_suezmax",
         "title": "VLCC and Suezmax",
         "severity": "watch",
-        "score_diff": 0.79,
+        "score_diff": 1.0,
         "source_scores": [
           {
             "source": "hellenic",
-            "avg_tone_score": -0.04,
-            "dominant_tone": "neutral",
+            "avg_tone_score": -0.25,
+            "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
-            "latest_date": "2026-05-13"
+            "latest_date": "2026-05-19"
           },
           {
             "source": "breakwave",
@@ -265,7 +265,7 @@
             "latest_date": "2026-05-19"
           }
         ],
-        "message": "VLCC and Suezmax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads neutral."
+        "message": "VLCC and Suezmax shows recent tone divergence: breakwave_insights reads constructive while hellenic reads cautiously_bearish."
       }
     },
     {

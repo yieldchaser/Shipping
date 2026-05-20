@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, May 19 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, May 19 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, May 19 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: S&P activity remained active across the major segments this week, with Ultramax tonnage drawing particular interest from Greek and Chinese buyers.Buyers appeared willing to absorb near-term survey costs, with several vessels carrying upcoming SS/DD dates still achieving firm pricing, pointing to continued confidence in the segment's earnings outlook. Values firmed across the Bulker segment in response\nKamsarmax Mandy Morn (82,600 DWT, 2008, Tsuneishi Zhoushan) sold by Ningbo Baoneng Shipping DD Due for USD 14 mil, VV Value USD 14.8 mil. Supramax Dominator (63,700 DWT, 2021, Shin Kasado Dock) sold to Greek buyers SS/DD Due for USD 38 mil, VV Value USD 37.6 mil\nSupramax Planet Team (53,400 DWT, 2009, Zhejiang Shipbuilding) sold by Transbulk Denizcilik AS for USD 10.5 mil, VV Value USD 10.2 mil.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "container",
+    "china",
+    "usd",
+    "mil",
+    "sold",
+    "value",
+    "dwt",
+    "mil."
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1171,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-05-19_weekly-vessel-valuations-report-may-19-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-may-19-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: S&P activity remained active across the major segments this week, with Ultramax tonnage drawing particular interest from Greek and Chinese buyers.Buyers appeared willing to absorb near-term survey costs, with several vessels carrying upcoming SS/DD dates still achieving firm pricing, pointing to continued confidence in the segment's earnings outlook. Values firmed across the Bulker segment in response\nKamsarmax Mandy Morn (82,600 DWT, 2008, Tsuneishi Zhoushan) sold by Ningbo Baoneng Shipping DD Due for USD 14 mil, VV Value USD 14.8 mil.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "container",
+        "china",
+        "usd",
+        "mil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 799,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__s02_linked_asset_2026_05_19_weekly_vessel_valuations_report_may_19_2026_img1_195202518_346e82ac0cba_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__root",
+      "title": "Linked asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_img1_195202518_346e82ac0cba.jpg",
+      "section_path": [
+        "Linked asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_img1_195202518_346e82ac0cba.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_img1_195202518_346e82ac0cba.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-05-19_weekly-vessel-valuations-report-may-19-2026_img1_195202518_346e82ac0cba.jpg\n\nLinked image asset: 2026-05-19_weekly-vessel-valuations-report-may-19-2026_img1_195202518_346e82ac0cba.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) VeesselsValUe\n19 May 2026 VV Mini Matrix - Weekly Change\nTeeken Behe Conteeens\nYew Mee Seer vee uo bal me ten Sepee Neot Pet Pee Peer Homty ton\nPe a ne Ce) cer rT 9\n7 na - ua ™ = - ne a _ ee ae hd ue\nPe eT a a es Pe et\n7 nm \"a / ™\" = - a \"- we ae me ne\na ee ee sua Pr. re 9\n= i Me /- \"= = vo -~ - ot eo ae ms ne\nre ar ec oa Pee 9\n.",
+      "keywords": [
+        "asset",
+        "image",
+        "pee",
+        "aes",
+        "bal",
+        "behe",
+        "cer",
+        "change"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 330,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
