@@ -1,0 +1,202 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__root",
+  "doc_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis",
+  "parent_id": null,
+  "title": "Are we in a debt crisis?",
+  "section_path": [
+    "Are we in a debt crisis?"
+  ],
+  "section_path_text": "Are we in a debt crisis?",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe three things investors need to know this week:\nEquity markets remain near all-time highs, but bond market volatility is rising. This is happening because bonds are more sensitive to inflation, and the closure of the Strait of Hormuz is beginning to cause rising prices across the globe. Strategically and tactically the debt backdrop is not easy.",
+  "keywords": [
+    "china",
+    "europe",
+    "japan",
+    "debt",
+    "asset",
+    "are",
+    "global",
+    "image",
+    "bonds",
+    "linked",
+    "not",
+    "but"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3212,
+  "source_path": "reports/breakwave/2026/2026-05-21_are-we-in-a-debt-crisis.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/5/21/are-we-in-a-debt-crisis",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis",
+      "parent_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The three things investors need to know this week:\nEquity markets remain near all-time highs, but bond market volatility is rising. This is happening because bonds are more sensitive to inflation, and the closure of the Strait of Hormuz is beginning to cause rising prices across the globe.",
+      "keywords": [
+        "china",
+        "europe",
+        "japan",
+        "debt",
+        "are",
+        "not",
+        "markets",
+        "bonds"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1821,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__s02_linked_asset_2026_05_21_are_we_in_a_debt_crisis_img_image002_080459469d92_png",
+      "doc_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis",
+      "parent_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__root",
+      "title": "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image002_080459469d92.png",
+      "section_path": [
+        "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image002_080459469d92.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image002_080459469d92.png",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-21_are-we-in-a-debt-crisis_img_image002_080459469d92.png\n\nLinked image asset: 2026-05-21_are-we-in-a-debt-crisis_img_image002_080459469d92.png\n\nImage metadata: PNG 1351x638 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\nSoftware: Microsoft Office\n\nOCR text:\nBonds offer little protection in turbulent times\n100=31/12/2025, Returns in EUR\n115\nGlobal Equities (+8.6%)\n110\n105\n100\n95 Global Bonds (-1.1%)\n30\n31-Dec 7-Jan 14Jan 21-Jan 28-Jan 4-Feb 11-Feb 18-Feb 25-Feb 4-Mar 11-Mar 18-Mar 25-Mar 1-Apr 8-Apr 15-Apr 22-Apr 29-Apr 6-May 13-May\n== Global Equities (EUR) 8.6% = Global Bonds (EUR) -1.08%\nSource: Bloomberg, Forvis Mazars Economics Hub Calculations, data correct as of 18\" May 2026\nforv/s\nmMazars",
+      "keywords": [
+        "apr",
+        "feb",
+        "global",
+        "jan",
+        "mar",
+        "bonds",
+        "eur",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 279,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__s03_linked_asset_2026_05_21_are_we_in_a_debt_crisis_img_image003_fe0868f9c128_png",
+      "doc_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis",
+      "parent_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__root",
+      "title": "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image003_fe0868f9c128.png",
+      "section_path": [
+        "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image003_fe0868f9c128.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image003_fe0868f9c128.png",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-21_are-we-in-a-debt-crisis_img_image003_fe0868f9c128.png\n\nLinked image asset: 2026-05-21_are-we-in-a-debt-crisis_img_image003_fe0868f9c128.png\n\nImage metadata: PNG 1082x505 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\nSoftware: Microsoft Office\n\nOCR text:\n30y Yields at multi-year highs\n8\n. UK: 5.8%\n5 ‘ p , US: 5.1%\nms Loe.",
+      "keywords": [
+        "japan",
+        "asset",
+        "image",
+        "mazars",
+        "source",
+        "are-we-in-a-debt-crisis_img_image003_fe0868f9c128.png",
+        "bloomberg",
+        "calculations"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 221,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__s04_linked_asset_2026_05_21_are_we_in_a_debt_crisis_img_image010_78b969c6f0d7_png",
+      "doc_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis",
+      "parent_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__root",
+      "title": "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image010_78b969c6f0d7.png",
+      "section_path": [
+        "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image010_78b969c6f0d7.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image010_78b969c6f0d7.png",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-21_are-we-in-a-debt-crisis_img_image010_78b969c6f0d7.png\n\nLinked image asset: 2026-05-21_are-we-in-a-debt-crisis_img_image010_78b969c6f0d7.png\n\nImage metadata: PNG 1015x479 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\nSoftware: Microsoft Office\n\nOCR text:\nUS goods and European services\n%, CPI, YoY\n7\n64\n6\nSs\n4s\n4\n3.3\n3.0\n3\n22\n2\n08\n1\n0 CI\nUS Goods US Services UK Goods UK Services EU Goods EU Services\nmCurrent @ Long term average\nSource: Bloomberg, Forvis Mazars Economics Hub Calculations, data correct as of 18\" May 2026 forws",
+      "keywords": [
+        "europe",
+        "goods",
+        "services",
+        "asset",
+        "image",
+        "source",
+        "are-we-in-a-debt-crisis_img_image010_78b969c6f0d7.png",
+        "average"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 214,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__s05_linked_asset_2026_05_21_are_we_in_a_debt_crisis_img_image011_3806824f3d31_png",
+      "doc_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis",
+      "parent_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__root",
+      "title": "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image011_3806824f3d31.png",
+      "section_path": [
+        "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image011_3806824f3d31.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image011_3806824f3d31.png",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-21_are-we-in-a-debt-crisis_img_image011_3806824f3d31.png\n\nLinked image asset: 2026-05-21_are-we-in-a-debt-crisis_img_image011_3806824f3d31.png\n\nImage metadata: PNG 1055x486 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\nSoftware: Microsoft Office\n\nOCR text:\nBonds attractive vs equities for the first time in over 20 years\n4\n12\n10\n8\n6 PB\npeeks . S 10y Yield 4.6%\n, TO.",
+      "keywords": [
+        "yield",
+        "avg",
+        "asset",
+        "bonds",
+        "equities",
+        "global",
+        "image",
+        "mazars"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 323,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__s06_linked_asset_2026_05_21_are_we_in_a_debt_crisis_img_image012_26687962ad6c_png",
+      "doc_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis",
+      "parent_id": "breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__root",
+      "title": "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image012_26687962ad6c.png",
+      "section_path": [
+        "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image012_26687962ad6c.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-21_are-we-in-a-debt-crisis_img_image012_26687962ad6c.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-21_are-we-in-a-debt-crisis_img_image012_26687962ad6c.png\n\nLinked image asset: 2026-05-21_are-we-in-a-debt-crisis_img_image012_26687962ad6c.png\n\nImage metadata: PNG 902x411 mode=RGBA\n\nEmbedded info:\ndpi: (143.99259999999998, 143.99259999999998)\nSoftware: Microsoft Office\n\nOCR text:\nDebt Disruption Deregulation\nhas become the main engine as countries compete, disrupting is an engine to drive growth\nfor growth, but now it's become the global international order. Al further over the short term, but at the\nlarger, more volatile and disrupts businesses.",
+      "keywords": [
+        "asset",
+        "become",
+        "but",
+        "engine",
+        "growth",
+        "image",
+        "are-we-in-a-debt-crisis_img_image012_26687962ad6c.png",
+        "businesses."
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 190,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
