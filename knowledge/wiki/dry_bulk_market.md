@@ -10,7 +10,7 @@ categories:
 - vessel_valuations
 document_count: 80
 evidence_count: 250
-generated_at: '2026-05-22T12:43:53Z'
+generated_at: '2026-05-22T14:29:06Z'
 latest_evidence_date: '2026-05-22'
 page_type: topic_wiki
 related_topics:
@@ -44,25 +44,25 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - 2026-05-22 | breakwave_insights insights | Linked asset: 2026-05-22_3-months-into-the-conflict-whats-new_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd6fbb4892fc.png: Source asset: reports/breakwave/2026/assets/2026-05-22_3-months-into-the-conflict-whats-new_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd6fbb4892fc.png Linked image asset: 2026-05-22_3-months-into-the-conflict-whats-new_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd6fbb4892fc.png Image metadata: PNG 776x435 mode=RGBA Embedded info: dpi: (95.9866, 95.9866) OCR text: Global onshore crude inventories - daily average stock Global onshore crude inventories (bb) changes by region (mbd) May-26 date reMects deys 1-21 Last dete point 71% Mey = = - [a - || _-- St : a - ny | f wr, st 3 W 9 mmm ELFODE mame North Americs gums Micidle £ Afric® gums Other ti = aa Left chart: Global onshore crude inventories - daily average stock changes by region (mbd) Right chart: Global onshore crude inventories (bb) [doc_id: breakwave_insights_insights_2026-05-22_2026_05_22_3_months_into_the_conflict_whats_new | section_id: breakwave_insights_insights_2026-05-22_2026_05_22_3_months_into_the_conflict_whats_new__s06_linked_asset_2026_05_22_3_months_into_the_conflict_whats_new_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_cd6fbb4892fc_png | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-04-28 to 2026-05-22 across 1 calendar years.
+- Coverage span: 2026-04-29 to 2026-05-22 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: china, iron_ore, brazil, capesize, coal, australia
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 150, hellenic: 93, baltic: 4, breakwave: 3
-- Category coverage: insights: 150, iron_ore: 51, demolition: 19, shipbuilding: 9, vessel_valuations: 8, dry_charter: 6, dry: 4, drybulk: 3
-- Tone distribution: constructive: 150, neutral: 57, cautiously_bearish: 42, cautious_pessimistic: 1
+- Source coverage: breakwave_insights: 150, hellenic: 93, baltic: 5, breakwave: 2
+- Category coverage: insights: 150, iron_ore: 51, demolition: 19, shipbuilding: 9, vessel_valuations: 8, dry_charter: 6, dry: 5, drybulk: 2
+- Tone distribution: constructive: 150, neutral: 58, cautiously_bearish: 42
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
 - 2026-05-22 | Beijing's Agricultural Pledge: A Freight Windfall or Another False Dawn? [doc_id: breakwave_insights_insights_2026-05-22_2026_05_22_beijings_agricultural_pledge_a_freight_windfall_or_another_false_dawn | section_id: breakwave_insights_insights_2026-05-22_2026_05_22_beijings_agricultural_pledge_a_freight_windfall_or_another_false_dawn__s03_significant_upside_potential_for_us_agricultural_seaborne_exports | pages n/a]
 - 2026-05-22 | 3 months into the conflict: What's new? [doc_id: breakwave_insights_insights_2026-05-22_2026_05_22_3_months_into_the_conflict_whats_new | section_id: breakwave_insights_insights_2026-05-22_2026_05_22_3_months_into_the_conflict_whats_new__s03_global_onshore_crude_stock_draws_continue_to_accelerate_in_may | pages n/a]
 - 2026-05-22 | MMI Daily Iron Ore Index Report May 22 2026 [doc_id: hellenic_iron_ore_2026-05-22_2026_05_22_mmi_daily_iron_ore_index_report_may_22_2026 | section_id: hellenic_iron_ore_2026-05-22_2026_05_22_mmi_daily_iron_ore_index_report_may_22_2026__s03_linked_asset_2026_05_22_mmi_daily_iron_ore_index_report_may_22_2026_mmi_daily_iron_ore_report_for_22th_m_dbd0afd89a14_pdf | pages n/a]
+- 2026-05-22 | Bulk report - Week 21 [doc_id: baltic_dry_2026-05-22_2026_05_22_bulk_report_week_21_dry | section_id: baltic_dry_2026-05-22_2026_05_22_bulk_report_week_21_dry__s01_main | pages n/a]
 - 2026-05-21 | MMI Daily Iron Ore Index Report May 21 2026 [doc_id: hellenic_iron_ore_2026-05-21_2026_05_21_mmi_daily_iron_ore_index_report_may_21_2026 | section_id: hellenic_iron_ore_2026-05-21_2026_05_21_mmi_daily_iron_ore_index_report_may_21_2026__s03_linked_asset_2026_05_21_mmi_daily_iron_ore_index_report_may_21_2026_mmi_daily_iron_ore_report_for_21th_m_784b23650a6e_pdf | pages n/a]
 - 2026-05-21 | Are we in a debt crisis? [doc_id: breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis | section_id: breakwave_insights_insights_2026-05-21_2026_05_21_are_we_in_a_debt_crisis__s01_main | pages n/a]
 - 2026-05-20 | Metals gain as supply issues mount [doc_id: breakwave_insights_insights_2026-05-20_2026_05_20_metals_gain_as_supply_issues_mount | section_id: breakwave_insights_insights_2026-05-20_2026_05_20_metals_gain_as_supply_issues_mount__s02_market_commentary | pages n/a]
 - 2026-05-20 | MMI Daily Iron Ore Index Report May 20 2026 [doc_id: hellenic_iron_ore_2026-05-20_2026_05_20_mmi_daily_iron_ore_index_report_may_20_2026 | section_id: hellenic_iron_ore_2026-05-20_2026_05_20_mmi_daily_iron_ore_index_report_may_20_2026__s03_linked_asset_2026_05_20_mmi_daily_iron_ore_index_report_may_20_2026_mmi_daily_iron_ore_report_for_20th_m_7573968c5ddb_pdf | pages n/a]
-- 2026-05-19 | Weekly Vessel Valuations Report, May 19 2026 [doc_id: hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026 | section_id: hellenic_vessel_valuations_2026-05-19_2026_05_19_weekly_vessel_valuations_report_may_19_2026__s01_main | pages n/a]
 
 ## Related Topics
 - capesize
