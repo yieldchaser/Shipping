@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-05-26_2026_05_26_breakwave_dry_bulk_shipping_report_5_26_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-05-26_2026_05_26_breakwave_dry_bulk_shipping_report_5_26_2026",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 5.26.2026",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 5.26.2026"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 5.26.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCalm Spot Market Hovering at 15-Year Seasonal Highs - The dry bulk shipping market continues to demonstrate notable\nSource: Breakwave Advisors\n\nLinked asset: 2026-05-26_breakwave-dry-bulk-shipping-report-5-26-2026_breakwavedrymay262026report_c70b0eef801f.pdf\nSource asset: reports/hellenic/shipbuilding/pdfs/2026-05-26_breakwave-dry-bulk-shipping-report-5-26-2026_breakwavedrymay262026report_c70b0eef801f.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMay 26, 2026\n• Calm Spot Market Hovering at 15-Year Seasonal Highs - The dry bulk shipping\nShort-term Indicators\nmarket continues to demonstrate notable stability and resilience, remaining\nMomentum: Negative\ninsulated from the acute volatility impacting other major commodity sectors. Robust\ncargo flows and sustained transportation demand support the current market Sentiment: Neutral\nequilibrium, a stability mirrored in the flat trajectory of the freight futures curve over Fundamentals: Neutral\nrecent weeks. Supply dynamics are reinforced by West Africa's newly operational\nSimandou project, which is introducing fresh iron ore volumes into the seaborne\nBreakwave Dry\nmarket, while Guinea's bauxite exports remain steady despit",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "china",
+    "brazil",
+    "australia",
+    "atlantic",
+    "west_africa",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1596,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-05-26_breakwave-dry-bulk-shipping-report-5-26-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-5-26-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-05-26_2026_05_26_breakwave_dry_bulk_shipping_report_5_26_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-05-26_2026_05_26_breakwave_dry_bulk_shipping_report_5_26_2026",
+      "parent_id": "hellenic_shipbuilding_2026-05-26_2026_05_26_breakwave_dry_bulk_shipping_report_5_26_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Calm Spot Market Hovering at 15-Year Seasonal Highs - The dry bulk shipping market continues to demonstrate notable\nSource: Breakwave Advisors",
+      "keywords": [
+        "calm",
+        "continues",
+        "demonstrate",
+        "highs",
+        "hovering",
+        "notable",
+        "seasonal",
+        "source"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 30,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-05-26_2026_05_26_breakwave_dry_bulk_shipping_report_5_26_2026__s02_linked_asset_2026_05_26_breakwave_dry_bulk_shipping_report_5_26_2026_breakwavedrymay262026report_c70b0eef801f_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-05-26_2026_05_26_breakwave_dry_bulk_shipping_report_5_26_2026",
+      "parent_id": "hellenic_shipbuilding_2026-05-26_2026_05_26_breakwave_dry_bulk_shipping_report_5_26_2026__root",
+      "title": "Linked asset: 2026-05-26_breakwave-dry-bulk-shipping-report-5-26-2026_breakwavedrymay262026report_c70b0eef801f.pdf",
+      "section_path": [
+        "Linked asset: 2026-05-26_breakwave-dry-bulk-shipping-report-5-26-2026_breakwavedrymay262026report_c70b0eef801f.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-05-26_breakwave-dry-bulk-shipping-report-5-26-2026_breakwavedrymay262026report_c70b0eef801f.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-05-26_breakwave-dry-bulk-shipping-report-5-26-2026_breakwavedrymay262026report_c70b0eef801f.pdf\n\n[Page 1]\nDry Bulk Shipping\nBi-Weekly Industry Report\nMay 26, 2026\n• Calm Spot Market Hovering at 15-Year Seasonal Highs - The dry bulk shipping\nShort-term Indicators\nmarket continues to demonstrate notable stability and resilience, remaining\nMomentum: Negative\ninsulated from the acute volatility impacting other major commodity sectors. Robust\ncargo flows and sustained transportation demand support the current market Sentiment: Neutral\nequilibrium, a stability mirrored in the flat trajectory of the freight futures curve over Fundamentals: Neutral\nrecent weeks.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "australia",
+        "atlantic",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1519,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

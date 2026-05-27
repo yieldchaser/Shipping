@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-26_2026_05_26_chinas_industrial_sector__root",
+  "doc_id": "breakwave_insights_insights_2026-05-26_2026_05_26_chinas_industrial_sector",
+  "parent_id": null,
+  "title": "China's industrial sector",
+  "section_path": [
+    "China's industrial sector"
+  ],
+  "section_path_text": "China's industrial sector",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Michalis Voutsinas\nAt the turn of the century, China's industrial sector stood at the beginning of what would become one of the most remarkable manufacturing expansions in modern economic history. In 2000, the country's steel production amounted to roughly 128 million tonnes, accounting for a relatively modest share of global output. However, the acceleration of urbanization, infrastructure spending, export-oriented manufacturing, and large-scale fixed asset investment transformed China into the world's industrial powerhouse within less than two decades.",
+  "keywords": [
+    "capesize",
+    "china",
+    "iron_ore",
+    "coal",
+    "grain",
+    "bauxite",
+    "products",
+    "steel",
+    "gas",
+    "industrial",
+    "percent",
+    "production"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1529,
+  "source_path": "reports/breakwave/2026/2026-05-26_chinas-industrial-sector.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/5/26/chinas-industrial-sector",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-26_2026_05_26_chinas_industrial_sector__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-26_2026_05_26_chinas_industrial_sector",
+      "parent_id": "breakwave_insights_insights_2026-05-26_2026_05_26_chinas_industrial_sector__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Michalis Voutsinas\nAt the turn of the century, China's industrial sector stood at the beginning of what would become one of the most remarkable manufacturing expansions in modern economic history. In 2000, the country's steel production amounted to roughly 128 million tonnes, accounting for a relatively modest share of global output.",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "coal",
+        "grain",
+        "bauxite",
+        "products",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1527,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

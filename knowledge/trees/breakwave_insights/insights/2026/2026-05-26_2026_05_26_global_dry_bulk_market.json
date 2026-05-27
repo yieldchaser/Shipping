@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-26_2026_05_26_global_dry_bulk_market__root",
+  "doc_id": "breakwave_insights_insights_2026-05-26_2026_05_26_global_dry_bulk_market",
+  "parent_id": null,
+  "title": "Global dry bulk market",
+  "section_path": [
+    "Global dry bulk market"
+  ],
+  "section_path_text": "Global dry bulk market",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: assets/2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe global dry bulk market is preparing for a period of extreme climate-induced disruption. The National Oceanic and Atmospheric Administration (NOAA) has increased its forecast to an 82% probability of an El Niño onset between May and July 2026, with an intensifying 37% chance of a severe event by year-end. This meteorological shift is projected to reach its peak intensity between 4Q26 and 1Q27.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "brazil",
+    "australia",
+    "pacific",
+    "europe",
+    "india",
+    "us_gulf",
+    "coal",
+    "grain",
+    "eee",
+    "see"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3273,
+  "source_path": "reports/breakwave/2026/2026-05-26_global-dry-bulk-market.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/5/26/global-dry-bulk-market",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-26_2026_05_26_global_dry_bulk_market__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-26_2026_05_26_global_dry_bulk_market",
+      "parent_id": "breakwave_insights_insights_2026-05-26_2026_05_26_global_dry_bulk_market__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: assets/2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp\nBy Eirini Diamantara & Dimitris Roumeliotis\nThe global dry bulk market is preparing for a period of extreme climate-induced disruption. The National Oceanic and Atmospheric Administration (NOAA) has increased its forecast to an 82% probability of an El Niño onset between May and July 2026, with an intensifying 37% chance of a severe event by year-end.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "brazil",
+        "australia",
+        "pacific",
+        "europe",
+        "india",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 813,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-26_2026_05_26_global_dry_bulk_market__s02_linked_asset_2026_05_26_global_dry_bulk_market_img_016_chrisea_24_01_24_dffa85114dea_webp",
+      "doc_id": "breakwave_insights_insights_2026-05-26_2026_05_26_global_dry_bulk_market",
+      "parent_id": "breakwave_insights_insights_2026-05-26_2026_05_26_global_dry_bulk_market__root",
+      "title": "Linked asset: 2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp",
+      "section_path": [
+        "Linked asset: 2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp"
+      ],
+      "section_path_text": "Linked asset: 2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp\n\nLinked image asset: 2026-05-26_global-dry-bulk-market_img_016-chrisea-24-01-24_dffa85114dea.webp\n\nImage metadata: JPEG 2500x1875 mode=RGB\n\nEmbedded info:\ndpi: (25.4, 25.4)\n\nOCR text:\nps = -=\nB-2 = te \"\n-\no ; -- =. See a\n\\ 4 - SS SSS = sat\na ,y .",
+      "keywords": [
+        "eee",
+        "see",
+        "eae",
+        "sss",
+        "ses",
+        "ree",
+        "ees",
+        "ere"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 2422,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
