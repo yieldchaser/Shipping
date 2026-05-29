@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T11:24:51Z",
+  "generated_at": "2026-05-29T13:12:38Z",
   "current_date": "2026-05-29",
   "warning_count": 7,
   "high_severity_count": 0,
@@ -36,17 +36,17 @@
           },
           {
             "source": "hellenic",
-            "avg_tone_score": 0.21,
-            "dominant_tone": "constructive",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "cautiously_bearish",
             "doc_count": 6,
-            "latest_date": "2026-05-28"
+            "latest_date": "2026-05-29"
           },
           {
             "source": "breakwave_insights",
             "avg_tone_score": 0.62,
             "dominant_tone": "constructive",
             "doc_count": 6,
-            "latest_date": "2026-05-28"
+            "latest_date": "2026-05-29"
           }
         ],
         "message": "Capesize shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads neutral."

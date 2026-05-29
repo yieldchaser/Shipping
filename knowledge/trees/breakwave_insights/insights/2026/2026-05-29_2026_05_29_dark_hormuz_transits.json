@@ -1,0 +1,230 @@
+{
+  "node_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__root",
+  "doc_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits",
+  "parent_id": null,
+  "title": "Dark Hormuz transits",
+  "section_path": [
+    "Dark Hormuz transits"
+  ],
+  "section_path_text": "Dark Hormuz transits",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nDark Hormuz transits are rising as more Gulf flows go dark, reducing visibility on cargo origin, timing and availability. By Claire Jungman\nVortexa has tracked hundreds of dark transits through the Strait of Hormuz since March 1, representing 57% of all transits recorded over the period. This trend has only intensified through the crisis: the share of outbound laden vessels transiting dark stood at 58.5% in March, dipped to 54% in April as overall transit volumes peaked, and rose to 65.2% in May.",
+  "keywords": [
+    "vlcc",
+    "lng",
+    "lpg",
+    "products",
+    "gas",
+    "dark",
+    "may",
+    "are",
+    "mar",
+    "transits",
+    "gulf",
+    "hormuz"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1988,
+  "source_path": "reports/breakwave/2026/2026-05-29_dark-hormuz-transits.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/5/29/dark-hormuz-transits",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits",
+      "parent_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Dark Hormuz transits are rising as more Gulf flows go dark, reducing visibility on cargo origin, timing and availability. By Claire Jungman\nVortexa has tracked hundreds of dark transits through the Strait of Hormuz since March 1, representing 57% of all transits recorded over the period.",
+      "keywords": [
+        "dark",
+        "transits",
+        "are",
+        "gulf",
+        "hormuz",
+        "activity",
+        "but",
+        "cargo"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 369,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__s02_dark_loads_outside_hormuz_are_surging",
+      "doc_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits",
+      "parent_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__root",
+      "title": "Dark loads outside Hormuz are surging",
+      "section_path": [
+        "Dark loads outside Hormuz are surging"
+      ],
+      "section_path_text": "Dark loads outside Hormuz are surging",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The Hormuz transit data captures only one channel. Vortexa-confirmed dark loading activity simultaneously increased sharply from April to May.",
+      "keywords": [
+        "vlcc",
+        "dark",
+        "loads",
+        "activity",
+        "april",
+        "are",
+        "around",
+        "crisis"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 308,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__s03_inside_hormuz_the_dark_trend_spans_every_major_product_class",
+      "doc_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits",
+      "parent_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__root",
+      "title": "Inside Hormuz, the dark trend spans every major product class",
+      "section_path": [
+        "Inside Hormuz, the dark trend spans every major product class"
+      ],
+      "section_path_text": "Inside Hormuz, the dark trend spans every major product class",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "For vessels still transiting the Strait, crude and condensates remain the largest category of dark outbound laden movements, accounting for around 40% of the total. But the breadth of the trend is notable.",
+      "keywords": [
+        "vlcc",
+        "lng",
+        "lpg",
+        "products",
+        "gas",
+        "around",
+        "crude",
+        "dark"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 189,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__s04_the_emerging_signal_is_non_iranian_participation",
+      "doc_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits",
+      "parent_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__root",
+      "title": "The emerging signal is non-Iranian participation",
+      "section_path": [
+        "The emerging signal is non-Iranian participation"
+      ],
+      "section_path_text": "The emerging signal is non-Iranian participation",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The most important development is the changing operator profile. In March, non-Iranian operators accounted for 37% of dark outbound laden transits through the Strait.",
+      "keywords": [
+        "dark",
+        "account",
+        "around",
+        "laden",
+        "longer",
+        "non-iranian",
+        "outbound",
+        "vessels"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 193,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__s05_gulf_flow_visibility_has_materially_deteriorated",
+      "doc_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits",
+      "parent_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__root",
+      "title": "Gulf flow visibility has materially deteriorated",
+      "section_path": [
+        "Gulf flow visibility has materially deteriorated"
+      ],
+      "section_path_text": "Gulf flow visibility has materially deteriorated",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "The practical consequence is that origin transparency for Gulf exports has deteriorated materially since March. Cargo that would previously have moved with a clear AIS trail from load port to discharge is now arriving with significant gaps in its journey - in some cases vessels are going dark at the Strait and resurfacing days or weeks later, thousands of miles away, with no intermediate signal.",
+      "keywords": [
+        "lng",
+        "lpg",
+        "products",
+        "gas",
+        "are",
+        "dark",
+        "data",
+        "not"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 207,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__s06_linked_asset_2026_05_29_dark_hormuz_transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7_png",
+      "doc_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits",
+      "parent_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__root",
+      "title": "Linked asset: 2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7.png",
+      "section_path": [
+        "Linked asset: 2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7.png\n\nLinked image asset: 2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7.png\n\nImage metadata: PNG 766x578 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n80 90%\n70 80%\n60 ) 70%\n\\ | 9\nNA 60 %\n50\n50%\n40\n40%\n30\n30%\n20 I l ' 20%\n10 | 10%\nO ee ee 9 SS Sass 0%\n23 «2 9 16 23 30 6Apr13 20 27 4 #11 «#18 «25\nFeb Mar Mar Mar Mar Mar Apr Apr Apr May May May May\nCrude/Condensates mag Clean Products ma Dirty Products\nmee LNG Dark Transit %\nWeekly Strait of Hormuz vessel transits by latest product group (vessel count) vs share of dark transits (%)",
+      "keywords": [
+        "lng",
+        "products",
+        "gas",
+        "mar",
+        "may",
+        "apr",
+        "asset",
+        "dark"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 279,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__s07_linked_asset_2026_05_29_dark_hormuz_transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_651e4ba41983_png",
+      "doc_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits",
+      "parent_id": "breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__root",
+      "title": "Linked asset: 2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_651e4ba41983.png",
+      "section_path": [
+        "Linked asset: 2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_651e4ba41983.png"
+      ],
+      "section_path_text": "Linked asset: 2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_651e4ba41983.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_651e4ba41983.png\n\nLinked image asset: 2026-05-29_dark-hormuz-transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_651e4ba41983.png\n\nImage metadata: PNG 757x575 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\n5.0 100%\n4.5 90%\n4.0 ; 80%\n3.5 0 . 70%\n3.0 | s L 7 .",
+      "keywords": [
+        "lng",
+        "lpg",
+        "products",
+        "gas",
+        "mar",
+        "may",
+        "apr",
+        "asset"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 303,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
