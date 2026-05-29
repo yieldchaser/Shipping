@@ -8,9 +8,9 @@ categories:
 - iron_ore
 - shipbuilding
 - vessel_valuations
-document_count: 80
+document_count: 81
 evidence_count: 250
-generated_at: '2026-05-29T13:11:38Z'
+generated_at: '2026-05-29T14:53:22Z'
 latest_evidence_date: '2026-05-29'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 80 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-29, with the strongest recurring markers being china, iron_ore, brazil, capesize, coal. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 81 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-05-29, with the strongest recurring markers being china, iron_ore, brazil, coal, capesize. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -46,12 +46,12 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 ## Historical Patterns
 - Coverage span: 2026-05-06 to 2026-05-29 across 1 calendar years.
 - Most-covered years: 2026: 250
-- Recurring evidence markers: china, iron_ore, brazil, capesize, coal, australia
+- Recurring evidence markers: china, iron_ore, brazil, coal, capesize, australia
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 151, hellenic: 92, breakwave: 4, baltic: 3
-- Category coverage: insights: 151, iron_ore: 51, demolition: 20, shipbuilding: 10, vessel_valuations: 6, dry_charter: 5, drybulk: 4, dry: 3
-- Tone distribution: constructive: 147, cautiously_bearish: 60, neutral: 41, neutral_concerned: 2
+- Source coverage: breakwave_insights: 150, hellenic: 92, baltic: 4, breakwave: 4
+- Category coverage: insights: 150, iron_ore: 51, demolition: 20, shipbuilding: 10, vessel_valuations: 6, dry_charter: 5, dry: 4, drybulk: 4
+- Tone distribution: constructive: 147, cautiously_bearish: 59, neutral: 42, neutral_concerned: 2
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
@@ -59,10 +59,10 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - 2026-05-29 | Dark Hormuz transits [doc_id: breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits | section_id: breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__s05_gulf_flow_visibility_has_materially_deteriorated | pages n/a]
 - 2026-05-29 | MMI Daily Iron Ore Index Report May 29 2026 [doc_id: hellenic_iron_ore_2026-05-29_2026_05_29_mmi_daily_iron_ore_index_report_may_29_2026 | section_id: hellenic_iron_ore_2026-05-29_2026_05_29_mmi_daily_iron_ore_index_report_may_29_2026__s03_linked_asset_2026_05_29_mmi_daily_iron_ore_index_report_may_29_2026_mmi_daily_iron_ore_report_for_29th_m_3c3fe5ed0338_pdf | pages n/a]
 - 2026-05-29 | China's Consumer Sector Reaches Breaking Point [doc_id: breakwave_insights_insights_2026-05-29_2026_05_29_chinas_consumer_sector_reaches_breaking_point | section_id: breakwave_insights_insights_2026-05-29_2026_05_29_chinas_consumer_sector_reaches_breaking_point__s04_linked_asset_2026_05_29_chinas_consumer_sector_reaches_breaking_point_img_chart3_3e312ad88e08_jpg | pages n/a]
+- 2026-05-29 | Bulk report - Week 22 [doc_id: baltic_dry_2026-05-29_2026_05_29_bulk_report_week_22_dry | section_id: baltic_dry_2026-05-29_2026_05_29_bulk_report_week_22_dry__s01_main | pages n/a]
 - 2026-05-28 | Weekly Vessel Valuations Report, May 26 2026 [doc_id: hellenic_vessel_valuations_2026-05-28_2026_05_28_weekly_vessel_valuations_report_may_26_2026 | section_id: hellenic_vessel_valuations_2026-05-28_2026_05_28_weekly_vessel_valuations_report_may_26_2026__s01_main | pages n/a]
 - 2026-05-28 | Chinese steel flows face ongoing and new headwinds [doc_id: breakwave_insights_insights_2026-05-28_2026_05_28_chinese_steel_flows_face_ongoing_and_new_headwinds | section_id: breakwave_insights_insights_2026-05-28_2026_05_28_chinese_steel_flows_face_ongoing_and_new_headwinds__s06_linked_asset_2026_05_28_chinese_steel_flows_face_ongoing_and_new_headwinds_img_unnamed28229_84477265f5ac_png | pages n/a]
 - 2026-05-28 | Oil selloff continues over peace deal optimism [doc_id: breakwave_insights_insights_2026-05-28_2026_05_28_oil_selloff_continues_over_peace_deal_optimism | section_id: breakwave_insights_insights_2026-05-28_2026_05_28_oil_selloff_continues_over_peace_deal_optimism__s04_linked_asset_2026_05_28_oil_selloff_continues_over_peace_deal_optimism_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_7a10b1f9af70_png | pages n/a]
-- 2026-05-28 | MMI Daily Iron Ore Index Report May 28 2026 [doc_id: hellenic_iron_ore_2026-05-28_2026_05_28_mmi_daily_iron_ore_index_report_may_28_2026 | section_id: hellenic_iron_ore_2026-05-28_2026_05_28_mmi_daily_iron_ore_index_report_may_28_2026__s03_linked_asset_2026_05_28_mmi_daily_iron_ore_index_report_may_28_2026_mmi_daily_iron_ore_report_for_28th_m_972a820591ad_pdf | pages n/a]
 
 ## Related Topics
 - capesize

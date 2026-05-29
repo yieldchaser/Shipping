@@ -9,7 +9,7 @@ categories:
 - vessel_valuations
 document_count: 78
 evidence_count: 250
-generated_at: '2026-05-29T13:11:38Z'
+generated_at: '2026-05-29T14:53:22Z'
 latest_evidence_date: '2026-05-29'
 page_type: topic_wiki
 related_topics:
@@ -55,11 +55,11 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-05-29 | Dark Hormuz transits [doc_id: breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits | section_id: breakwave_insights_insights_2026-05-29_2026_05_29_dark_hormuz_transits__s06_linked_asset_2026_05_29_dark_hormuz_transits_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_750f1902f3a7_png | pages n/a]
 - 2026-05-29 | Indonesia's Coal Overhaul and China's Mine Disaster Point to Higher Tonne-Mile Demand [doc_id: breakwave_insights_insights_2026-05-29_2026_05_29_indonesias_coal_overhaul_and_chinas_mine_disaster_point_to_higher_tonne_mile_dem | section_id: breakwave_insights_insights_2026-05-29_2026_05_29_indonesias_coal_overhaul_and_chinas_mine_disaster_point_to_higher_tonne_mile_dem__s02_china_dominates_the_coal_market | pages n/a]
 - 2026-05-29 | China's Consumer Sector Reaches Breaking Point [doc_id: breakwave_insights_insights_2026-05-29_2026_05_29_chinas_consumer_sector_reaches_breaking_point | section_id: breakwave_insights_insights_2026-05-29_2026_05_29_chinas_consumer_sector_reaches_breaking_point__s04_linked_asset_2026_05_29_chinas_consumer_sector_reaches_breaking_point_img_chart3_3e312ad88e08_jpg | pages n/a]
+- 2026-05-29 | Tanker report - Week 22 [doc_id: baltic_tanker_2026-05-29_2026_05_29_tanker_report_week_22_tanker | section_id: baltic_tanker_2026-05-29_2026_05_29_tanker_report_week_22_tanker__s01_main | pages n/a]
 - 2026-05-28 | Oil selloff continues over peace deal optimism [doc_id: breakwave_insights_insights_2026-05-28_2026_05_28_oil_selloff_continues_over_peace_deal_optimism | section_id: breakwave_insights_insights_2026-05-28_2026_05_28_oil_selloff_continues_over_peace_deal_optimism__s02_market_commentary | pages n/a]
 - 2026-05-28 | Weekly Vessel Valuations Report, May 26 2026 [doc_id: hellenic_vessel_valuations_2026-05-28_2026_05_28_weekly_vessel_valuations_report_may_26_2026 | section_id: hellenic_vessel_valuations_2026-05-28_2026_05_28_weekly_vessel_valuations_report_may_26_2026__s01_main | pages n/a]
 - 2026-05-28 | Chinese steel flows face ongoing and new headwinds [doc_id: breakwave_insights_insights_2026-05-28_2026_05_28_chinese_steel_flows_face_ongoing_and_new_headwinds | section_id: breakwave_insights_insights_2026-05-28_2026_05_28_chinese_steel_flows_face_ongoing_and_new_headwinds__s02_near_term_outlook_remains_challenging | pages n/a]
 - 2026-05-27 | All I want is peace! [doc_id: breakwave_insights_insights_2026-05-27_2026_05_27_all_i_want_is_peace | section_id: breakwave_insights_insights_2026-05-27_2026_05_27_all_i_want_is_peace__s01_main | pages n/a]
-- 2026-05-27 | Weekly Tanker Time Charter Estimates, May 27 2026 [doc_id: hellenic_tanker_charter_2026-05-27_2026_05_27_weekly_tanker_time_charter_estimates_may_27_2026 | section_id: hellenic_tanker_charter_2026-05-27_2026_05_27_weekly_tanker_time_charter_estimates_may_27_2026__s02_linked_asset_2026_05_27_weekly_tanker_time_charter_estimates_may_27_2026_27520258_e41dafdee0fe_jpg | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax

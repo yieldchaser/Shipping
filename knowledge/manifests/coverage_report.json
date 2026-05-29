@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-29T13:12:38Z",
+  "generated_at": "2026-05-29T14:54:25Z",
   "current_date": "2026-05-29",
   "corpus": {
-    "document_count": 8244,
-    "chunk_count": 97062,
-    "section_count": 29696,
+    "document_count": 8248,
+    "chunk_count": 97066,
+    "section_count": 29700,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -42,11 +42,11 @@
       "category": "dry",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_date": "2026-05-22",
-      "age_days": 7,
+      "latest_date": "2026-05-29",
+      "age_days": 0,
       "latest_gap_days": 7,
-      "max_recent_gap_days": 14,
-      "dated_doc_count": 569,
+      "max_recent_gap_days": 7,
+      "dated_doc_count": 570,
       "undated_doc_count": 8
     },
     {
@@ -55,11 +55,11 @@
       "category": "tanker",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_date": "2026-05-22",
-      "age_days": 7,
+      "latest_date": "2026-05-29",
+      "age_days": 0,
       "latest_gap_days": 7,
-      "max_recent_gap_days": 14,
-      "dated_doc_count": 567,
+      "max_recent_gap_days": 7,
+      "dated_doc_count": 568,
       "undated_doc_count": 12
     },
     {
@@ -68,11 +68,11 @@
       "category": "gas",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_date": "2026-05-22",
-      "age_days": 7,
+      "latest_date": "2026-05-29",
+      "age_days": 0,
       "latest_gap_days": 7,
-      "max_recent_gap_days": 14,
-      "dated_doc_count": 188,
+      "max_recent_gap_days": 7,
+      "dated_doc_count": 189,
       "undated_doc_count": 0
     },
     {
@@ -81,11 +81,11 @@
       "category": "container",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_date": "2026-05-22",
-      "age_days": 7,
+      "latest_date": "2026-05-29",
+      "age_days": 0,
       "latest_gap_days": 7,
-      "max_recent_gap_days": 14,
-      "dated_doc_count": 69,
+      "max_recent_gap_days": 7,
+      "dated_doc_count": 70,
       "undated_doc_count": 0
     },
     {
@@ -217,19 +217,19 @@
       "relevant_corpus_latest_date": "2026-05-29",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 80,
+      "document_count": 81,
       "source_counts": {
-        "baltic": 3,
+        "baltic": 4,
         "breakwave": 4,
-        "breakwave_insights": 151,
+        "breakwave_insights": 150,
         "hellenic": 92
       },
       "category_counts": {
         "demolition": 20,
-        "dry": 3,
+        "dry": 4,
         "dry_charter": 5,
         "drybulk": 4,
-        "insights": 151,
+        "insights": 150,
         "iron_ore": 51,
         "shipbuilding": 10,
         "vessel_valuations": 6
@@ -244,7 +244,7 @@
       "tone_distribution": {
         "cautiously_bearish": 16,
         "constructive": 44,
-        "neutral": 19,
+        "neutral": 20,
         "neutral_concerned": 1
       }
     },
@@ -522,9 +522,9 @@
       "title": "LNG and LPG Shipping",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_evidence_date": "2026-05-26",
-      "latest_evidence_age_days": 3,
-      "relevant_corpus_latest_date": "2026-05-26",
+      "latest_evidence_date": "2026-05-29",
+      "latest_evidence_age_days": 0,
+      "relevant_corpus_latest_date": "2026-05-29",
       "lag_days": 0,
       "evidence_count": 250,
       "document_count": 161,
@@ -544,7 +544,7 @@
       "tone_distribution": {
         "cautiously_bearish": 6,
         "constructive": 18,
-        "neutral": 23
+        "neutral": 24
       }
     },
     {
@@ -563,8 +563,8 @@
         "hellenic": 146
       },
       "category_counts": {
-        "container": 53,
-        "ningbo": 51,
+        "container": 54,
+        "ningbo": 50,
         "shipbuilding": 59,
         "vessel_valuations": 87
       },
@@ -576,7 +576,7 @@
       "tone_distribution": {
         "cautiously_bearish": 9,
         "constructive": 18,
-        "neutral": 52
+        "neutral": 53
       }
     }
   ],
