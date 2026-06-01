@@ -1,0 +1,45 @@
+---
+category: gas
+commodities:
+- gas
+date: '2026-05-15'
+doc_id: baltic_gas_2026-05-15_2026_gas_report_week_20_gas
+document_type: weekly_roundup
+key_entities: []
+keywords:
+- gas
+- main
+- may
+market_tone: neutral
+regions:
+- atlantic
+- pacific
+section_count: 1
+signals: {}
+source: baltic
+source_path: reports/baltic/gas/2026/2026_gas-report-week-20_gas.html
+source_stem: 2026_gas-report-week-20_gas
+source_url: null
+summary: 'Main
+
+  15 May 2026
+
+  Gas report - Week 20'
+themes:
+- gas
+- main
+- may
+title: Gas report - Week 20
+vessel_classes:
+- lng
+- lpg
+---
+
+## Summary
+Main
+15 May 2026
+Gas report - Week 20
+
+## Main
+15 May 2026
+Gas report - Week 20

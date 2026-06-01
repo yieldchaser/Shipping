@@ -8,9 +8,9 @@ categories:
 - iron_ore
 - shipbuilding
 - vessel_valuations
-document_count: 83
+document_count: 84
 evidence_count: 250
-generated_at: '2026-06-01T16:23:25Z'
+generated_at: '2026-06-01T20:32:00Z'
 latest_evidence_date: '2026-06-01'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 83 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-01, with the strongest recurring markers being china, iron_ore, brazil, coal, australia. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 84 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-01, with the strongest recurring markers being china, iron_ore, brazil, coal, australia. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -44,14 +44,14 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - 2026-05-29 | hellenic shipbuilding | Main: As we enter the vibrant week of Posidonia, market sentiment is on positive tune and the SnP activity remains busy across both Dry and Tanker segments. On the Dry front we continue to observe a sustained appetite for both ECO candidates and mid-aged tonnage, with activity evident across a broad range of sizes and with the majority of sales being concentrated around non-geared vessels. [doc_id: hellenic_shipbuilding_2026-05-29_2026_05_29_clarksons_platou_hellas_snp_weekly_bulletin_134 | section_id: hellenic_shipbuilding_2026-05-29_2026_05_29_clarksons_platou_hellas_snp_weekly_bulletin_134__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-05-07 to 2026-06-01 across 1 calendar years.
+- Coverage span: 2026-05-08 to 2026-06-01 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: china, iron_ore, brazil, coal, australia, dry bulk
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 148, hellenic: 94, baltic: 4, breakwave: 4
-- Category coverage: insights: 148, iron_ore: 49, demolition: 23, shipbuilding: 12, vessel_valuations: 6, dry: 4, drybulk: 4, dry_charter: 4
-- Tone distribution: constructive: 150, cautiously_bearish: 53, neutral: 45, neutral_concerned: 2
+- Source coverage: breakwave_insights: 147, hellenic: 92, baltic: 7, breakwave: 4
+- Category coverage: insights: 147, iron_ore: 48, demolition: 23, shipbuilding: 11, dry: 7, vessel_valuations: 6, drybulk: 4, dry_charter: 4
+- Tone distribution: constructive: 147, cautiously_bearish: 53, neutral: 48, neutral_concerned: 2
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
