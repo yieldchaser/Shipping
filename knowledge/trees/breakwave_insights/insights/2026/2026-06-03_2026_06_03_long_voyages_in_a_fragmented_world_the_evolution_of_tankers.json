@@ -1,0 +1,286 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__root",
+  "doc_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers",
+  "parent_id": null,
+  "title": "Long Voyages in a Fragmented World: The Evolution of Tankers",
+  "section_path": [
+    "Long Voyages in a Fragmented World: The Evolution of Tankers"
+  ],
+  "section_path_text": "Long Voyages in a Fragmented World: The Evolution of Tankers",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nGeopolitical shocks and trade fragmentation and refinery-production relocations have lengthened tanker voyages, and increased freight volatility. By Ioannis Papadimitriou\nOver the past four years, tanker markets have been reshaped by geopolitical shocks, with freight volatility increasingly driven by inefficiencies rather than pure cycles. The Russian invasion of Ukraine triggered a major reconfiguration of crude and product flows, extending voyage distances and tightening effective fleet supply.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "brazil",
+    "atlantic",
+    "pacific",
+    "west_africa",
+    "europe"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3510,
+  "source_path": "reports/breakwave/2026/2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/3/long-voyages-in-a-fragmented-world-the-evolution-of-tankers",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers",
+      "parent_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Geopolitical shocks and trade fragmentation and refinery-production relocations have lengthened tanker voyages, and increased freight volatility. By Ioannis Papadimitriou\nOver the past four years, tanker markets have been reshaped by geopolitical shocks, with freight volatility increasingly driven by inefficiencies rather than pure cycles.",
+      "keywords": [
+        "crude_oil",
+        "crude",
+        "trade",
+        "distances",
+        "fleet",
+        "flows",
+        "geopolitical",
+        "shocks"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 188,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s02_longer_routes_and_tighter_fleet_driven_by_geopolitical_fragmentation",
+      "doc_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers",
+      "parent_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__root",
+      "title": "Longer routes and tighter fleet driven by geopolitical fragmentation",
+      "section_path": [
+        "Longer routes and tighter fleet driven by geopolitical fragmentation"
+      ],
+      "section_path_text": "Longer routes and tighter fleet driven by geopolitical fragmentation",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The first major shift followed the Russian invasion of Ukraine, following EU and US bans on Russian oil that triggered a fundamental reshuffling of crude and product flows during the start of 2023.Russian crude moved east toward China and India, while Europe increased reliance on the Atlantic Basin. In products, middle distillates saw the largest disruption: Russian diesel was redirected to more distant markets such as West Africa and Brazil, while Europe turned toward the Middle East, India, and the US.",
+      "keywords": [
+        "capesize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "china",
+        "brazil",
+        "atlantic",
+        "west_africa"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 571,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s03_production_growth_and_refinery_shifts_reshaping_americas_tanker_flows",
+      "doc_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers",
+      "parent_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__root",
+      "title": "Production growth and refinery shifts reshaping Americas tanker flows",
+      "section_path": [
+        "Production growth and refinery shifts reshaping Americas tanker flows"
+      ],
+      "section_path_text": "Production growth and refinery shifts reshaping Americas tanker flows",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Shifting refinery configurations, terminal expansions, and production growth have further reshaped flows, particularly in the Americas. For Aframaxes, Mexico's push for self-sufficiency reduced short-haul exports to the US Gulf, which in 2026 is partly offset by increased Venezuelan heavy barrels following the easing of OFAC restrictions, both events supported longer distances.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "brazil",
+        "atlantic",
+        "europe",
+        "india",
+        "us_gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 374,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s04_strait_of_hormuz_risk_reshaping_tanker_flows_prolonged_closure_harmful_for_rates",
+      "doc_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers",
+      "parent_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__root",
+      "title": "Strait of Hormuz risk reshaping tanker flows, prolonged closure harmful for rates",
+      "section_path": [
+        "Strait of Hormuz risk reshaping tanker flows, prolonged closure harmful for rates"
+      ],
+      "section_path_text": "Strait of Hormuz risk reshaping tanker flows, prolonged closure harmful for rates",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "More recently, tensions between the United States and Iran and the resulting disruption in the Strait of Hormuz have once again rewritten tanker flows. Supply constraints in Asia have triggered a sharp shift of Atlantic Basin barrels into the Pacific, tightening vessel availability and sustaining rate volatility.",
+      "keywords": [
+        "vlcc",
+        "atlantic",
+        "pacific",
+        "demand",
+        "availability",
+        "cannot",
+        "disruption",
+        "east"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 254,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s05_outlook_structurally_stronger_tanker_demand_despite_geopolitical_uncertainty",
+      "doc_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers",
+      "parent_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__root",
+      "title": "Outlook: structurally stronger tanker demand despite geopolitical uncertainty",
+      "section_path": [
+        "Outlook: structurally stronger tanker demand despite geopolitical uncertainty"
+      ],
+      "section_path_text": "Outlook: structurally stronger tanker demand despite geopolitical uncertainty",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "Looking ahead, uncertainty remains high, but several trends are evident. A normalisation of flows through the Strait of Hormuz would restore Middle East exports and ease routing inefficiencies.",
+      "keywords": [
+        "capesize",
+        "brazil",
+        "atlantic",
+        "pacific",
+        "europe",
+        "india",
+        "crude_oil",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 829,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s06_linked_asset_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ff830ce1898d_png",
+      "doc_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers",
+      "parent_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__root",
+      "title": "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ff830ce1898d.png",
+      "section_path": [
+        "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ff830ce1898d.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ff830ce1898d.png",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ff830ce1898d.png\n\nLinked image asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_ff830ce1898d.png\n\nImage metadata: PNG 764x312 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDirty Tankers average voyage distance (nautical miles) ‘Clean Tankers average voyage distance (nautical miles)",
+      "keywords": [
+        "asset",
+        "average",
+        "distance",
+        "image",
+        "miles",
+        "nautical",
+        "tankers",
+        "voyage"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 174,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s07_linked_asset_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c943befab049_png",
+      "doc_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers",
+      "parent_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__root",
+      "title": "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c943befab049.png",
+      "section_path": [
+        "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c943befab049.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c943befab049.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c943befab049.png\n\nLinked image asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c943befab049.png\n\nImage metadata: PNG 752x614 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nDark fleet cumulative entrants by vessel class (vessel count,\nLHS) vs share of total active fleet (%, RHS)\n2500 40%\n35%\n2000\n| 30%\n1500 wll 25%\n| 20%\n1000 H 15%\nanu UIE 10%\n500 ill\nmutt\nil \"\ncil\no iil HTL ox,\nJan-19 Jan-20 0 Jan-21- Jan-22. Jan-23.Jan-24 Jan-25 Jan-26\nvicc+ mmm VGC / VLEC\nmmm Suezmax / LR3 mmm Aframax / LR2\nPanamax / LR1 mmm Handymax / MR2.",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "suezmax",
+        "aframax",
+        "mmm",
+        "asset",
+        "fleet",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 299,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s08_linked_asset_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51d15e16fccb_png",
+      "doc_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers",
+      "parent_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__root",
+      "title": "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51d15e16fccb.png",
+      "section_path": [
+        "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51d15e16fccb.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51d15e16fccb.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51d15e16fccb.png\n\nLinked image asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_51d15e16fccb.png\n\nImage metadata: PNG 769x633 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nScenario analysis on VLCC tonne-mile demand loss and gain\nfor mainstream crude for Asian countries (bn)\n350 -\n34% of total West of\n100) Hormuz VLCC tonne-miles\nlost ~ 18% of global VLCC\ntm demand Gain on SAEC-Asia\n250 4\nmw Gain on GOM-Asia\n200\nmw Gain on Waf-Asia\n150\nm@ Gain on Yanbu-Asia\n100 4\nLoss from West of\n50 Hormuz\n0 : 1\nLoss Gains",
+      "keywords": [
+        "vlcc",
+        "west_africa",
+        "gain",
+        "loss",
+        "asset",
+        "demand",
+        "hormuz",
+        "image"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 270,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s09_linked_asset_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6bba5100a40_png",
+      "doc_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers",
+      "parent_id": "breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__root",
+      "title": "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6bba5100a40.png",
+      "section_path": [
+        "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6bba5100a40.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6bba5100a40.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6bba5100a40.png\n\nLinked image asset: 2026-06-03_long-voyages-in-a-fragmented-world-the-evolution-of-tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_b6bba5100a40.png\n\nImage metadata: PNG 753x623 mode=RGBA\n\nEmbedded info:\ndpi: (95.9866, 95.9866)\n\nOCR text:\nNet refining capacity due to permanent closures or additions,\nsplit by wider shipping region (kbd)\n1500\n1000\n2 =\n) a |\nel\n-500\n-1000\n2024 2025 2026\nWider Northeast Asia (WNEA) mw Wider Southeast Asia (WSEA)\nm North America East Coast (NAEC) m Wider Northwest Europe (WNWE)\nAmericas West Coast (AmWC) m Wider Arabian Sea (WArS)\nw South Atlantic (SAtI) Wider Mediterranean (WMed)",
+      "keywords": [
+        "atlantic",
+        "europe",
+        "wider",
+        "asia",
+        "asset",
+        "coast",
+        "image",
+        "additions"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 271,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
