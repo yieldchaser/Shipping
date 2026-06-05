@@ -24,7 +24,10 @@ from pathlib import Path
 from urllib import error as urllib_error
 from urllib import request as urllib_request
 
+from dotenv import load_dotenv
+
 ROOT = Path(__file__).resolve().parent.parent
+load_dotenv()
 KNOWLEDGE = ROOT / "knowledge"
 DERIVED = KNOWLEDGE / "derived"
 WIKI = KNOWLEDGE / "wiki"
