@@ -1,0 +1,117 @@
+name: Test NVIDIA NIM Configuration
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_model:
+        description: 'Model name to test (leave empty to use secrets.NIM_MODEL)'
+        required: false
+        default: ''
+      test_json_format:
+        description: 'Test JSON response format (true/false)'
+        required: false
+        default: 'true'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run NIM Diagnostics
+        env:
+          NIM_API_KEY: ${{ secrets.NIM_API_KEY }}
+          NIM_BASE_URL: ${{ secrets.NIM_BASE_URL }}
+          NIM_MODEL: ${{ secrets.NIM_MODEL }}
+          TEST_MODEL: ${{ github.event.inputs.test_model }}
+          TEST_JSON_FORMAT: ${{ github.event.inputs.test_json_format }}
+        shell: python
+        run: |
+          import os
+          import json
+          import urllib.request as urllib_request
+          import urllib.error as urllib_error
+
+          nim_api_key = os.environ.get("NIM_API_KEY", "").strip()
+          nim_base_url = (os.environ.get("NIM_BASE_URL") or "https://integrate.api.nvidia.com/v1").strip().rstrip("/")
+          secret_model = os.environ.get("NIM_MODEL", "").strip()
+          test_model = os.environ.get("TEST_MODEL", "").strip()
+
+          model_to_use = test_model if test_model else secret_model
+
+          print("=== NIM CONFIGURATION DIAGNOSTICS ===")
+          print(f"Base URL: {nim_base_url}")
+          print(f"API Key present: {bool(nim_api_key)}")
+          print(f"Secret Model (from NIM_MODEL): '{secret_model}'")
+          print(f"Model to test: '{model_to_use}'")
+          print(f"Test JSON format: {os.environ.get('TEST_JSON_FORMAT')}")
+
+          if not nim_api_key:
+              print("ERROR: NIM_API_KEY secret is not configured or empty.")
+              exit(1)
+
+          # Step 1: Query available models
+          print("\n--- Step 1: Fetching available models from NIM API ---")
+          req = urllib_request.Request(
+              f"{nim_base_url}/models",
+              headers={
+                  "Authorization": f"Bearer {nim_api_key}",
+                  "Accept": "application/json"
+              }
+          )
+          try:
+              with urllib_request.urlopen(req, timeout=30) as response:
+                  res_data = json.loads(response.read().decode("utf-8"))
+                  models = [m.get("id") for m in res_data.get("data", [])]
+                  print(f"Successfully connected! Found {len(models)} models:")
+                  for m in sorted(models):
+                      print(f"  - {m}")
+          except urllib_error.HTTPError as e:
+              err_body = e.read().decode("utf-8", errors="replace")
+              print(f"HTTP Error {e.code} while listing models: {err_body}")
+          except Exception as e:
+              print(f"Connection error while listing models: {e}")
+
+          # Step 2: Try a simple completion
+          if not model_to_use:
+              print("\nSkipping chat completion test: No model name specified (and secrets.NIM_MODEL is empty).")
+              exit(0)
+
+          print(f"\n--- Step 2: Attempting chat completion test with model '{model_to_use}' ---")
+          messages = [
+              {"role": "user", "content": "Return a JSON object with a single key 'status' and value 'ok'. Nothing else."}
+          ]
+          payload = {
+              "model": model_to_use,
+              "messages": messages,
+              "temperature": 0.1,
+              "max_tokens": 100
+          }
+          if os.environ.get("TEST_JSON_FORMAT") == "true":
+              payload["response_format"] = {"type": "json_object"}
+
+          body = json.dumps(payload).encode("utf-8")
+          req2 = urllib_request.Request(
+              f"{nim_base_url}/chat/completions",
+              data=body,
+              headers={
+                  "Content-Type": "application/json",
+                  "Authorization": f"Bearer {nim_api_key}"
+              },
+              method="POST"
+          )
+          try:
+              print("Sending request...")
+              with urllib_request.urlopen(req2, timeout=45) as response:
+                  res_data = json.loads(response.read().decode("utf-8"))
+                  choices = res_data.get("choices", [])
+                  if choices:
+                      content = choices[0].get("message", {}).get("content", "")
+                      print("Completion SUCCESS!")
+                      print(f"Response: {content}")
+                  else:
+                      print("Completion returned empty choices.")
+                      print(json.dumps(res_data, indent=2))
+          except urllib_error.HTTPError as e:
+              err_body = e.read().decode("utf-8", errors="replace")
+              print(f"HTTP Error {e.code} during completion: {err_body}")
+          except Exception as e:
+              print(f"Error during completion: {e}")
