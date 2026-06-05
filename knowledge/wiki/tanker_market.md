@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 85
+document_count: 86
 evidence_count: 250
-generated_at: '2026-06-05T13:06:17Z'
+generated_at: '2026-06-05T14:39:01Z'
 latest_evidence_date: '2026-06-05'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 85 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-05, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 86 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-05, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -46,20 +46,20 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 184, hellenic: 54, baltic: 8, breakwave: 4
-- Category coverage: insights: 184, demolition: 27, shipbuilding: 12, tanker: 8, vessel_valuations: 8, tanker_charter: 7, tankers: 4
-- Tone distribution: constructive: 146, neutral: 53, cautiously_bearish: 47, cautious: 4
+- Source coverage: breakwave_insights: 183, hellenic: 54, baltic: 9, breakwave: 4
+- Category coverage: insights: 183, demolition: 27, shipbuilding: 12, tanker: 9, vessel_valuations: 8, tanker_charter: 7, tankers: 4
+- Tone distribution: constructive: 145, neutral: 54, cautiously_bearish: 47, cautious: 4
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
 - 2026-06-05 | The big AI test is ahead of us. [doc_id: breakwave_insights_insights_2026-06-05_2026_06_05_the_big_ai_test_is_ahead_of_us | section_id: breakwave_insights_insights_2026-06-05_2026_06_05_the_big_ai_test_is_ahead_of_us__s01_main | pages n/a]
 - 2026-06-05 | Price Pressure Mounts for Iron Ore, but Capesize Owners Have Reason to Smile [doc_id: breakwave_insights_insights_2026-06-05_2026_06_05_price_pressure_mounts_for_iron_ore_but_capesize_owners_have_reason_to_smile | section_id: breakwave_insights_insights_2026-06-05_2026_06_05_price_pressure_mounts_for_iron_ore_but_capesize_owners_have_reason_to_smile__s04_the_outlook_for_seaborne_volumes_and_iron_ore_prices | pages n/a]
 - 2026-06-05 | Disconnect between Chinese iron ore imports and steel production widens [doc_id: breakwave_insights_insights_2026-06-05_2026_06_05_disconnect_between_chinese_iron_ore_imports_and_steel_production_widens | section_id: breakwave_insights_insights_2026-06-05_2026_06_05_disconnect_between_chinese_iron_ore_imports_and_steel_production_widens__s05_linked_asset_2026_06_05_disconnect_between_chinese_iron_ore_imports_and_steel_production_widens_img_unnamed28229_b5a650a9f0ec_png | pages n/a]
+- 2026-06-05 | Tanker report - Week 23 [doc_id: baltic_tanker_2026-06-05_2026_06_05_tanker_report_week_23_tanker | section_id: baltic_tanker_2026-06-05_2026_06_05_tanker_report_week_23_tanker__s01_main | pages n/a]
 - 2026-06-04 | China's Industrial And Consumer Markets Are Not Strongly Correlated [doc_id: breakwave_insights_insights_2026-06-04_2026_06_04_chinas_industrial_and_consumer_markets_are_not_strongly_correlated | section_id: breakwave_insights_insights_2026-06-04_2026_06_04_chinas_industrial_and_consumer_markets_are_not_strongly_correlated__s04_linked_asset_2026_06_04_chinas_industrial_and_consumer_markets_are_not_strongly_correlated_img_chart3_2c98d2c91e64_jpg | pages n/a]
 - 2026-06-03 | Long Voyages in a Fragmented World: The Evolution of Tankers [doc_id: breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers | section_id: breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s02_longer_routes_and_tighter_fleet_driven_by_geopolitical_fragmentation | pages n/a]
 - 2026-06-03 | Why VLCCs and Suezmaxes work better together [doc_id: breakwave_insights_insights_2026-06-03_2026_06_03_why_vlccs_and_suezmaxes_work_better_together | section_id: breakwave_insights_insights_2026-06-03_2026_06_03_why_vlccs_and_suezmaxes_work_better_together__s01_main | pages n/a]
 - 2026-06-03 | Weekly Tanker Time Charter Estimates, June 03 2026 [doc_id: hellenic_tanker_charter_2026-06-03_2026_06_03_weekly_tanker_time_charter_estimates_june_03_2026 | section_id: hellenic_tanker_charter_2026-06-03_2026_06_03_weekly_tanker_time_charter_estimates_june_03_2026__s02_linked_asset_2026_06_03_weekly_tanker_time_charter_estimates_june_03_2026_36202512_d72b7020bd74_jpg | pages n/a]
-- 2026-06-03 | Thermal coal's role among Asian importers as an alternative source of power generation [doc_id: breakwave_insights_insights_2026-06-03_2026_06_03_thermal_coals_role_among_asian_importers_as_an_alternative_source_of_power_gener | section_id: breakwave_insights_insights_2026-06-03_2026_06_03_thermal_coals_role_among_asian_importers_as_an_alternative_source_of_power_gener__s01_main | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax

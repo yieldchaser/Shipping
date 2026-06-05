@@ -5231,10 +5231,10 @@
   "2026-W23": {
     "breakwave_drybulk": null,
     "breakwave_tankers": "breakwave_tankers_2026-06-02",
-    "baltic_dry": null,
-    "baltic_tanker": null,
-    "baltic_gas": null,
-    "baltic_container": null,
+    "baltic_dry": "baltic_dry_2026-06-05_2026_06_05_bulk_report_week_23_dry",
+    "baltic_tanker": "baltic_tanker_2026-06-05_2026_06_05_tanker_report_week_23_tanker",
+    "baltic_gas": "baltic_gas_2026-06-05_2026_06_05_gas_report_week_23_gas",
+    "baltic_container": "baltic_container_2026-06-05_2026_06_05_container_report_week_23_container",
     "baltic_ningbo": "baltic_ningbo_2026-06-05_2026_06_05_ningbo_containerised_freight_index_05062_ningbo"
   }
 }

@@ -10,7 +10,7 @@ categories:
 - vessel_valuations
 document_count: 84
 evidence_count: 250
-generated_at: '2026-06-05T13:06:17Z'
+generated_at: '2026-06-05T14:39:01Z'
 latest_evidence_date: '2026-06-05'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 84 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-05, with the strongest recurring markers being china, iron_ore, brazil, capesize, australia. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 84 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-05, with the strongest recurring markers being china, iron_ore, brazil, capesize, dry bulk. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -46,23 +46,23 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 ## Historical Patterns
 - Coverage span: 2026-05-13 to 2026-06-05 across 1 calendar years.
 - Most-covered years: 2026: 250
-- Recurring evidence markers: china, iron_ore, brazil, capesize, australia, dry bulk
+- Recurring evidence markers: china, iron_ore, brazil, capesize, dry bulk, australia
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 152, hellenic: 90, baltic: 6, breakwave: 2
-- Category coverage: insights: 152, iron_ore: 48, demolition: 20, shipbuilding: 10, vessel_valuations: 7, dry: 6, dry_charter: 5, drybulk: 2
-- Tone distribution: constructive: 141, cautiously_bearish: 58, neutral: 49, neutral_concerned: 2
+- Source coverage: breakwave_insights: 151, hellenic: 90, baltic: 7, breakwave: 2
+- Category coverage: insights: 151, iron_ore: 48, demolition: 20, shipbuilding: 10, vessel_valuations: 7, dry: 7, dry_charter: 5, drybulk: 2
+- Tone distribution: constructive: 140, cautiously_bearish: 58, neutral: 50, neutral_concerned: 2
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
 - 2026-06-05 | Price Pressure Mounts for Iron Ore, but Capesize Owners Have Reason to Smile [doc_id: breakwave_insights_insights_2026-06-05_2026_06_05_price_pressure_mounts_for_iron_ore_but_capesize_owners_have_reason_to_smile | section_id: breakwave_insights_insights_2026-06-05_2026_06_05_price_pressure_mounts_for_iron_ore_but_capesize_owners_have_reason_to_smile__s04_the_outlook_for_seaborne_volumes_and_iron_ore_prices | pages n/a]
 - 2026-06-05 | Disconnect between Chinese iron ore imports and steel production widens [doc_id: breakwave_insights_insights_2026-06-05_2026_06_05_disconnect_between_chinese_iron_ore_imports_and_steel_production_widens | section_id: breakwave_insights_insights_2026-06-05_2026_06_05_disconnect_between_chinese_iron_ore_imports_and_steel_production_widens__s02_guinea_to_china_to_boost_cape_rates_even_if_total_volumes_fall | pages n/a]
 - 2026-06-05 | The big AI test is ahead of us. [doc_id: breakwave_insights_insights_2026-06-05_2026_06_05_the_big_ai_test_is_ahead_of_us | section_id: breakwave_insights_insights_2026-06-05_2026_06_05_the_big_ai_test_is_ahead_of_us__s01_main | pages n/a]
+- 2026-06-05 | Bulk report - Week 23 [doc_id: baltic_dry_2026-06-05_2026_06_05_bulk_report_week_23_dry | section_id: baltic_dry_2026-06-05_2026_06_05_bulk_report_week_23_dry__s01_main | pages n/a]
 - 2026-06-04 | China's Industrial And Consumer Markets Are Not Strongly Correlated [doc_id: breakwave_insights_insights_2026-06-04_2026_06_04_chinas_industrial_and_consumer_markets_are_not_strongly_correlated | section_id: breakwave_insights_insights_2026-06-04_2026_06_04_chinas_industrial_and_consumer_markets_are_not_strongly_correlated__s01_main | pages n/a]
 - 2026-06-04 | MMI Daily Iron Ore Index Report June 4 2026 [doc_id: hellenic_iron_ore_2026-06-04_2026_06_04_mmi_daily_iron_ore_index_report_june_4_2026 | section_id: hellenic_iron_ore_2026-06-04_2026_06_04_mmi_daily_iron_ore_index_report_june_4_2026__s03_linked_asset_2026_06_04_mmi_daily_iron_ore_index_report_june_4_2026_mmi_daily_iron_ore_report_for_4th_ju_0aaa74b3eb68_pdf | pages n/a]
 - 2026-06-03 | Weekly Dry Time Charter Estimates, June 03 2026 [doc_id: hellenic_dry_charter_2026-06-03_2026_06_03_weekly_dry_time_charter_estimates_june_03_2026 | section_id: hellenic_dry_charter_2026-06-03_2026_06_03_weekly_dry_time_charter_estimates_june_03_2026__s02_linked_asset_2026_06_03_weekly_dry_time_charter_estimates_june_03_2026_36202511_34f3418e9afb_jpg | pages n/a]
 - 2026-06-03 | Thermal coal's role among Asian importers as an alternative source of power generation [doc_id: breakwave_insights_insights_2026-06-03_2026_06_03_thermal_coals_role_among_asian_importers_as_an_alternative_source_of_power_gener | section_id: breakwave_insights_insights_2026-06-03_2026_06_03_thermal_coals_role_among_asian_importers_as_an_alternative_source_of_power_gener__s01_main | pages n/a]
-- 2026-06-03 | Long Voyages in a Fragmented World: The Evolution of Tankers [doc_id: breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers | section_id: breakwave_insights_insights_2026-06-03_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers__s07_linked_asset_2026_06_03_long_voyages_in_a_fragmented_world_the_evolution_of_tankers_img_cea3cf84ceb9ceb3cebcceb9cf8ccf84cf85_c943befab049_png | pages n/a]
 
 ## Related Topics
 - capesize
