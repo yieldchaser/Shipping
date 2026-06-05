@@ -10,6 +10,11 @@ on:
     types:
       - completed
   workflow_dispatch:
+    inputs:
+      llm_provider_order:
+        description: 'LLM Provider Order'
+        required: false
+        default: 'ollama,nim'
 
 permissions:
   contents: write
@@ -63,7 +68,7 @@ jobs:
           NIM_API_KEY: ${{ secrets.NIM_API_KEY }}
           NIM_BASE_URL: ${{ secrets.NIM_BASE_URL }}
           NIM_MODEL: ${{ secrets.NIM_MODEL }}
-          LLM_PROVIDER_ORDER: "ollama,nim"
+          LLM_PROVIDER_ORDER: ${{ github.event.inputs.llm_provider_order || 'ollama,nim' }}
           GEMINI_MIN_INTERVAL_SEC: "1.5"
           GEMINI_MAX_RETRIES: "3"
           GEMINI_BACKOFF_BASE_SEC: "2.0"
