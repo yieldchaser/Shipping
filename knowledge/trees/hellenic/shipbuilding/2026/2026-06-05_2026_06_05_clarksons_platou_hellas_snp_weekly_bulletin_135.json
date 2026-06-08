@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135__root",
+  "doc_id": "hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "One of the biggest and busiest Posidonia events ever. With the majority of shipping sectors enjoying healthy market conditions,the global maritime community gathered in Athens for a week of meetings, networking, celebrations, and strategic discussions. The overall sentiment was positive, with market participants expressing optimism that supportive fundamentals will continue to underpin freight markets in the months ahead.",
+  "keywords": [
+    "supramax",
+    "china",
+    "pacific",
+    "any",
+    "information",
+    "clarksons",
+    "its",
+    "connected",
+    "loss",
+    "not",
+    "persons",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1734,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-135",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135",
+      "parent_id": "hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "One of the biggest and busiest Posidonia events ever. With the majority of shipping sectors enjoying healthy market conditions,the global maritime community gathered in Athens for a week of meetings, networking, celebrations, and strategic discussions.",
+      "keywords": [
+        "supramax",
+        "china",
+        "pacific",
+        "markets",
+        "was",
+        "abt",
+        "ahead.",
+        "chinese"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 383,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135__s02_linked_asset_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135_weekly_sales_5th_june_2026_4b31f9f44480_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135",
+      "parent_id": "hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135__root",
+      "title": "Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
+      "section_path": [
+        "Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-06-05_clarksons-platou-hellas-snp-weekly-bulletin-135_weekly-sales-5th-june-2026_4b31f9f44480.pdf\n\n[Page 1]\nClarkson Hellas Ltd. One of the biggest and busiest Posidonia events ever.",
+      "keywords": [
+        "supramax",
+        "china",
+        "pacific",
+        "any",
+        "information",
+        "clarksons",
+        "its",
+        "connected"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1299,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}

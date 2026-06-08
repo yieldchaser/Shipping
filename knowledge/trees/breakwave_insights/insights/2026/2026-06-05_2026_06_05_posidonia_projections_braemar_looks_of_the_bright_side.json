@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-05_2026_06_05_posidonia_projections_braemar_looks_of_the_bright_side__root",
+  "doc_id": "breakwave_insights_insights_2026-06-05_2026_06_05_posidonia_projections_braemar_looks_of_the_bright_side",
+  "parent_id": null,
+  "title": "Posidonia projections - Braemar looks of the bright side",
+  "section_path": [
+    "Posidonia projections - Braemar looks of the bright side"
+  ],
+  "section_path_text": "Posidonia projections - Braemar looks of the bright side",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Henry Curra\nWith almost all shipping markets performing well, the mood at this year's Posidonia was unsurprisingly upbeat. But the conversations we had over the past week also revealed a growing uneasiness about the future. Can the rather unique drivers of today's tanker demand meet the challenge of rapidly expanding shipbuilding capacity?",
+  "keywords": [
+    "capesize",
+    "china",
+    "crude_oil",
+    "products",
+    "oil",
+    "demand",
+    "but",
+    "iran",
+    "view",
+    "would",
+    "are",
+    "fleet"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1626,
+  "source_path": "reports/breakwave/2026/2026-06-05_posidonia-projections-braemar-looks-of-the-bright-side.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/5/posidonia-projections-braemar-looks-of-the-bright-side",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-05_2026_06_05_posidonia_projections_braemar_looks_of_the_bright_side__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-05_2026_06_05_posidonia_projections_braemar_looks_of_the_bright_side",
+      "parent_id": "breakwave_insights_insights_2026-06-05_2026_06_05_posidonia_projections_braemar_looks_of_the_bright_side__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Henry Curra\nWith almost all shipping markets performing well, the mood at this year's Posidonia was unsurprisingly upbeat. But the conversations we had over the past week also revealed a growing uneasiness about the future.",
+      "keywords": [
+        "capesize",
+        "china",
+        "crude_oil",
+        "products",
+        "oil",
+        "demand",
+        "but",
+        "iran"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1624,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

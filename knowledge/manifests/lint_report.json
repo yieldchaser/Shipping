@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-05T14:40:05Z",
-  "current_date": "2026-06-05",
-  "warning_count": 6,
+  "generated_at": "2026-06-08T14:37:51Z",
+  "current_date": "2026-06-08",
+  "warning_count": 7,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -11,9 +11,47 @@
     "topics": {
       "healthy": 10
     },
-    "divergences": {}
+    "divergences": {
+      "watch": 1
+    }
   },
   "warnings": [
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "capesize",
+      "message": "Capesize shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads neutral.",
+      "details": {
+        "topic_id": "capesize",
+        "title": "Capesize",
+        "severity": "watch",
+        "score_diff": 0.79,
+        "source_scores": [
+          {
+            "source": "breakwave",
+            "avg_tone_score": -0.17,
+            "dominant_tone": "neutral",
+            "doc_count": 5,
+            "latest_date": "2026-05-26"
+          },
+          {
+            "source": "hellenic",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "cautiously_bearish",
+            "doc_count": 6,
+            "latest_date": "2026-06-08"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.62,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-06-08"
+          }
+        ],
+        "message": "Capesize shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads neutral."
+      }
+    },
     {
       "severity": "watch",
       "kind": "topic_source_gap",

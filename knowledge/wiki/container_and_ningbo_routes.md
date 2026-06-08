@@ -6,7 +6,7 @@ categories:
 - vessel_valuations
 document_count: 186
 evidence_count: 250
-generated_at: '2026-06-05T14:39:01Z'
+generated_at: '2026-06-08T14:36:48Z'
 latest_evidence_date: '2026-06-05'
 page_type: topic_wiki
 related_topics: []
@@ -24,6 +24,7 @@ Container route pricing, Ningbo-linked export sentiment, rate pressure across ma
 Container route pricing, Ningbo-linked export sentiment, rate pressure across major lanes, and the market signals embedded in weekly Baltic container coverage.
 
 ## Recent Evidence
+- 2026-06-05 | hellenic shipbuilding | Main: One of the biggest and busiest Posidonia events ever. With the majority of shipping sectors enjoying healthy market conditions,the global maritime community gathered in Athens for a week of meetings, networking, celebrations, and strategic discussions. [doc_id: hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135 | section_id: hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135__s01_main | pages n/a]
 - 2026-06-05 | baltic ningbo | Main: 05 Jun 2026 Ningbo Containerised Freight Index [doc_id: baltic_ningbo_2026-06-05_2026_06_05_ningbo_containerised_freight_index_05062_ningbo | section_id: baltic_ningbo_2026-06-05_2026_06_05_ningbo_containerised_freight_index_05062_ningbo__s01_main | pages n/a]
 - 2026-06-05 | baltic container | Main: 05 Jun 2026 Container Report - Week 23 [doc_id: baltic_container_2026-06-05_2026_06_05_container_report_week_23_container | section_id: baltic_container_2026-06-05_2026_06_05_container_report_week_23_container__s01_main | pages n/a]
 - 2026-06-02 | hellenic vessel_valuations | Main: Bulkers: Bulker S&P activity was solid, with 16 vessels changing hands across all segments.Broader market sentiment remains underpinned by cautious optimism following the US-China tariff truce, which has improved near-term trade flow expectations for dry bulk commodities. Strong pricing was observed across vintage tonnage, leading to our values for older vessels firming. [doc_id: hellenic_vessel_valuations_2026-06-02_2026_06_02_weekly_vessel_valuations_report_june_02_2026 | section_id: hellenic_vessel_valuations_2026-06-02_2026_06_02_weekly_vessel_valuations_report_june_02_2026__s01_main | pages n/a]
@@ -31,19 +32,19 @@ Container route pricing, Ningbo-linked export sentiment, rate pressure across ma
 - 2026-05-29 | hellenic shipbuilding | Main: As we enter the vibrant week of Posidonia, market sentiment is on positive tune and the SnP activity remains busy across both Dry and Tanker segments. On the Dry front we continue to observe a sustained appetite for both ECO candidates and mid-aged tonnage, with activity evident across a broad range of sizes and with the majority of sales being concentrated around non-geared vessels. [doc_id: hellenic_shipbuilding_2026-05-29_2026_05_29_clarksons_platou_hellas_snp_weekly_bulletin_134 | section_id: hellenic_shipbuilding_2026-05-29_2026_05_29_clarksons_platou_hellas_snp_weekly_bulletin_134__s01_main | pages n/a]
 - 2026-05-29 | baltic ningbo | Main: 29 May 2026 Ningbo Containerised Freight Index [doc_id: baltic_ningbo_2026-05-29_2026_05_29_ningbo_containerised_freight_index_29052_ningbo | section_id: baltic_ningbo_2026-05-29_2026_05_29_ningbo_containerised_freight_index_29052_ningbo__s01_main | pages n/a]
 - 2026-05-29 | baltic container | Main: 29 May 2026 Container Report - Week 22 [doc_id: baltic_container_2026-05-29_2026_container_report_week_22_container | section_id: baltic_container_2026-05-29_2026_container_report_week_22_container__s01_main | pages n/a]
-- 2026-05-29 | baltic container | Main: 29 May 2026 Container Report - Week 22 [doc_id: baltic_container_2026-05-29_2026_05_29_container_report_week_22_container | section_id: baltic_container_2026-05-29_2026_05_29_container_report_week_22_container__s01_main | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2025-07-04 to 2026-06-05 across 2 calendar years.
-- Most-covered years: 2026: 135, 2025: 115
+- Coverage span: 2025-07-08 to 2026-06-05 across 2 calendar years.
+- Most-covered years: 2026: 136, 2025: 114
 - Recurring evidence markers: container, rate, china, ningbo, europe, export
 
 ## Cross-Source View
-- Source coverage: hellenic: 144, baltic: 106
-- Category coverage: vessel_valuations: 86, shipbuilding: 58, container: 56, ningbo: 50
-- Tone distribution: neutral: 144, constructive: 74, cautiously_bearish: 32
+- Source coverage: hellenic: 145, baltic: 105
+- Category coverage: vessel_valuations: 86, shipbuilding: 59, container: 56, ningbo: 49
+- Tone distribution: neutral: 143, constructive: 75, cautiously_bearish: 32
 
 ## Key Documents
+- 2026-06-05 | CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN [doc_id: hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135 | section_id: hellenic_shipbuilding_2026-06-05_2026_06_05_clarksons_platou_hellas_snp_weekly_bulletin_135__s01_main | pages n/a]
 - 2026-06-05 | Ningbo Containerised Freight Index [doc_id: baltic_ningbo_2026-06-05_2026_06_05_ningbo_containerised_freight_index_05062_ningbo | section_id: baltic_ningbo_2026-06-05_2026_06_05_ningbo_containerised_freight_index_05062_ningbo__s01_main | pages n/a]
 - 2026-06-05 | Container Report - Week 23 [doc_id: baltic_container_2026-06-05_2026_06_05_container_report_week_23_container | section_id: baltic_container_2026-06-05_2026_06_05_container_report_week_23_container__s01_main | pages n/a]
 - 2026-06-02 | Weekly Vessel Valuations Report, June 02 2026 [doc_id: hellenic_vessel_valuations_2026-06-02_2026_06_02_weekly_vessel_valuations_report_june_02_2026 | section_id: hellenic_vessel_valuations_2026-06-02_2026_06_02_weekly_vessel_valuations_report_june_02_2026__s01_main | pages n/a]
@@ -51,7 +52,6 @@ Container route pricing, Ningbo-linked export sentiment, rate pressure across ma
 - 2026-05-29 | Ningbo Containerised Freight Index [doc_id: baltic_ningbo_2026-05-29_2026_05_29_ningbo_containerised_freight_index_29052_ningbo | section_id: baltic_ningbo_2026-05-29_2026_05_29_ningbo_containerised_freight_index_29052_ningbo__s01_main | pages n/a]
 - 2026-05-29 | Container Report - Week 22 [doc_id: baltic_container_2026-05-29_2026_container_report_week_22_container | section_id: baltic_container_2026-05-29_2026_container_report_week_22_container__s01_main | pages n/a]
 - 2026-05-29 | Container Report - Week 22 [doc_id: baltic_container_2026-05-29_2026_05_29_container_report_week_22_container | section_id: baltic_container_2026-05-29_2026_05_29_container_report_week_22_container__s01_main | pages n/a]
-- 2026-05-28 | Weekly Vessel Valuations Report, May 26 2026 [doc_id: hellenic_vessel_valuations_2026-05-28_2026_05_28_weekly_vessel_valuations_report_may_26_2026 | section_id: hellenic_vessel_valuations_2026-05-28_2026_05_28_weekly_vessel_valuations_report_may_26_2026__s01_main | pages n/a]
 
 ## Related Topics
 - None configured.
