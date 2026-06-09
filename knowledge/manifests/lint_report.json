@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T14:37:51Z",
-  "current_date": "2026-06-08",
-  "warning_count": 7,
+  "generated_at": "2026-06-09T11:15:39Z",
+  "current_date": "2026-06-09",
+  "warning_count": 8,
   "high_severity_count": 0,
   "status_counts": {
     "sources": {
@@ -12,7 +12,7 @@
       "healthy": 10
     },
     "divergences": {
-      "watch": 1
+      "watch": 2
     }
   },
   "warnings": [
@@ -31,8 +31,8 @@
             "source": "breakwave",
             "avg_tone_score": -0.17,
             "dominant_tone": "neutral",
-            "doc_count": 5,
-            "latest_date": "2026-05-26"
+            "doc_count": 6,
+            "latest_date": "2026-06-09"
           },
           {
             "source": "hellenic",
@@ -50,6 +50,42 @@
           }
         ],
         "message": "Capesize shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads neutral."
+      }
+    },
+    {
+      "severity": "watch",
+      "kind": "topic_divergence",
+      "key": "coal_and_grain_flows",
+      "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads neutral.",
+      "details": {
+        "topic_id": "coal_and_grain_flows",
+        "title": "Coal and Grain Flows",
+        "severity": "watch",
+        "score_diff": 0.79,
+        "source_scores": [
+          {
+            "source": "breakwave",
+            "avg_tone_score": -0.17,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-06-09"
+          },
+          {
+            "source": "hellenic",
+            "avg_tone_score": 0.0,
+            "dominant_tone": "neutral",
+            "doc_count": 6,
+            "latest_date": "2026-06-03"
+          },
+          {
+            "source": "breakwave_insights",
+            "avg_tone_score": 0.62,
+            "dominant_tone": "constructive",
+            "doc_count": 6,
+            "latest_date": "2026-06-08"
+          }
+        ],
+        "message": "Coal and Grain Flows shows recent tone divergence: breakwave_insights reads cautiously_bullish while breakwave reads neutral."
       }
     },
     {

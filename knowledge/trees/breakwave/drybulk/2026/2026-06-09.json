@@ -1,0 +1,86 @@
+{
+  "node_id": "breakwave_drybulk_2026-06-09__root",
+  "doc_id": "breakwave_drybulk_2026-06-09",
+  "parent_id": null,
+  "title": "Dry Bulk Shipping - June 9, 2026",
+  "section_path": [
+    "Dry Bulk Shipping - June 9, 2026"
+  ],
+  "section_path_text": "Dry Bulk Shipping - June 9, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Dry bulk shipping rates are softening following a strong period in May, with Capesize rates dropping to one-month lows due to seasonal trends and inefficiencies in bunkering operations. Despite ongoing geopolitical uncertainty in the Middle East and a surge in China's iron ore imports, freight futures suggest a robust third quarter. The market is currently experiencing supply tightness fueled by inventory buildup and fluctuating energy prices, signaling potential volatility in the long term.",
+  "keywords": [
+    "dry bulk shipping",
+    "capesize rates",
+    "iron ore imports",
+    "bunkering",
+    "geopolitical risk",
+    "fleet growth",
+    "china steel production",
+    "inventory buildup"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 347,
+  "source_path": "reports/drybulk/2026/2026-06-09_Breakwave_Dry_Bulk.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_drybulk_2026-06-09__s01_overview",
+      "doc_id": "breakwave_drybulk_2026-06-09",
+      "parent_id": "breakwave_drybulk_2026-06-09__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- Capesize Rates Drop to One-Month lows as Fixing Frenzy Stalls - Following an\n- China Iron Ore Imports Rise as Steel Productions Declines - Despite a 4%\n- Our Long-term View - The last few years have been characterized by increased",
+      "keywords": [
+        "capesize",
+        "china",
+        "iron_ore",
+        "steel",
+        "characterized",
+        "declines",
+        "despite",
+        "drop"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 55,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_drybulk_2026-06-09__s02_fundamentals",
+      "doc_id": "breakwave_drybulk_2026-06-09",
+      "parent_id": "breakwave_drybulk_2026-06-09__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- China Steel Production (YTD: 331mt, YOY: -4.1%)\n- China Steel Inventories (YTD: 4.8mt, YOY: 18.2%)\n- China Iron Ore Inventories (YTD: 159mt, YOY: 20.5%)\n- China Iron Ore Imports (YTD: 1679mt, YOY: 3.2%)\n- China Coal Imports (YTD: 640mt, YOY: -8.0%)\n- China Soybean Imports (YTD: 137mt, YOY: 6.8%)\n- Brazil Iron Ore Exports (YTD: 563mt, YOY: 4.8%)\n- Australia Iron Ore Exports (YTD: 1228mt, YOY: 2.9%)\n- Dry Bulk Fleet (YTD: 1073 mdwt, YOY: 3.0%)\n- Baltic Dry Index Average (YTD: Baltic Dry Index, Average, YOY: 2,301)\n- Capesize Spot Rates Average (YTD: Capesize Spot Rates, Average, YOY: 29,047)\n- Panamax Spot Rates Average (YTD: Panamax Spot rates, Average, YOY: 16,958)",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "china",
+        "brazil",
+        "australia",
+        "iron_ore",
+        "coal",
+        "grain"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 291,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}
