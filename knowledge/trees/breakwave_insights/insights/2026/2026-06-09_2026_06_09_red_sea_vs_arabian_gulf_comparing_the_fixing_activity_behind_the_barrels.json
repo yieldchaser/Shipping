@@ -1,0 +1,370 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+  "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+  "parent_id": null,
+  "title": "Red Sea vs Arabian Gulf: Comparing the Fixing Activity Behind the Barrels",
+  "section_path": [
+    "Red Sea vs Arabian Gulf: Comparing the Fixing Activity Behind the Barrels"
+  ],
+  "section_path_text": "Red Sea vs Arabian Gulf: Comparing the Fixing Activity Behind the Barrels",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nOver the spring of 2026, we logged 354 reported tanker fixtures across two of the Middle East's principal crude gateways and set them side by side to compare how each region's fixing activity behaves: Yanbu on Saudi Arabia's Red Sea coast and the wider Arabian Gulf (AG) complex stretching from Fujairah and the UAE to Oman. The aim is to look past the raw fixture count to a more useful question: how the two regions' fixture volumes compare by barrel, by ship size, and by terminal, and to do so against the backdrop of an unusually disrupted quarter. Three observations emerge from the data.",
+  "keywords": [
+    "panamax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "china",
+    "meg",
+    "crude_oil",
+    "products",
+    "gulf",
+    "yanbu",
+    "asset"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 3590,
+  "source_path": "reports/breakwave/2026/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/9/red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Over the spring of 2026, we logged 354 reported tanker fixtures across two of the Middle East's principal crude gateways and set them side by side to compare how each region's fixing activity behaves: Yanbu on Saudi Arabia's Red Sea coast and the wider Arabian Gulf (AG) complex stretching from Fujairah and the UAE to Oman. The aim is to look past the raw fixture count to a more useful question: how the two regions' fixture volumes compare by barrel, by ship size, and by terminal, and to do so against the backdrop of an unusually disrupted quarter.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "fixture",
+        "gulf",
+        "yanbu",
+        "activity",
+        "appears",
+        "arabian"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 259,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s02_activity_vs_volume_more_ships_in_the_gulf_more_barrels_from_yanbu",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "Activity vs. Volume - More Ships in the Gulf, More Barrels from Yanbu",
+      "section_path": [
+        "Activity vs. Volume - More Ships in the Gulf, More Barrels from Yanbu"
+      ],
+      "section_path_text": "Activity vs. Volume - More Ships in the Gulf, More Barrels from Yanbu",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "At first glance, the Gulf looks busier, and on a pure fixture count, it is. But counting ships flatters the picture.",
+      "keywords": [
+        "meg",
+        "crude_oil",
+        "fixture",
+        "activity",
+        "fixtures",
+        "gulf",
+        "yanbu",
+        "but"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 271,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s03_the_dirty_book_where_the_two_regions_genuinely_diverge",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "The Dirty Book - Where the Two Regions Genuinely Diverge",
+      "section_path": [
+        "The Dirty Book - Where the Two Regions Genuinely Diverge"
+      ],
+      "section_path_text": "The Dirty Book - Where the Two Regions Genuinely Diverge",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The differences become clearer when focusing on dirty cargoes - crude oil and fuel oil - and examining fixture activity by vessel class. The divergence is concentrated in the VLCC segment.",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "meg",
+        "crude_oil",
+        "products",
+        "dirty",
+        "yanbu"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 443,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s04_gulf_load_ports_fujairah_leads_ras_tanura_goes_quiet",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "Gulf Load Ports - Fujairah Leads, Ras Tanura Goes Quiet",
+      "section_path": [
+        "Gulf Load Ports - Fujairah Leads, Ras Tanura Goes Quiet"
+      ],
+      "section_path_text": "Gulf Load Ports - Fujairah Leads, Ras Tanura Goes Quiet",
+      "level": 1,
+      "ordinal": 4,
+      "summary": "The Gulf's loadings are spread across more than a dozen named terminals, but the spot market clearly runs through Fujairah, which alone accounts for 76 fixtures, ahead of Sohar (32), Duqm (29), and Mina Al Fahal (21). What draws the eye, though, is at the bottom of the graph.",
+      "keywords": [
+        "fixture",
+        "named",
+        "count",
+        "crude",
+        "export",
+        "gulf",
+        "ports",
+        "ras"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 260,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s05_market_context_a_quarter_shaped_by_an_unresolved_crisis",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "Market Context - A Quarter Shaped by an Unresolved Crisis",
+      "section_path": [
+        "Market Context - A Quarter Shaped by an Unresolved Crisis"
+      ],
+      "section_path_text": "Market Context - A Quarter Shaped by an Unresolved Crisis",
+      "level": 1,
+      "ordinal": 5,
+      "summary": "None of the above patterns should be viewed in isolation. The fixture window coincided with a period of regional disruption, making the data a reflection of market behaviour under exceptional conditions rather than a structural shift in Middle East crude trade.",
+      "keywords": [
+        "china",
+        "meg",
+        "crude_oil",
+        "gulf",
+        "disruption",
+        "infrastructure",
+        "its",
+        "regional"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 370,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s06_the_takeaway",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "The Takeaway",
+      "section_path": [
+        "The Takeaway"
+      ],
+      "section_path_text": "The Takeaway",
+      "level": 1,
+      "ordinal": 6,
+      "summary": "On fixture count alone, the Arabian Gulf and Yanbu appear broadly comparable. A closer examination of cargo volumes, vessel deployment, and loading locations, however, reveals distinct market profiles.",
+      "keywords": [
+        "vlcc",
+        "meg",
+        "activity",
+        "arabian",
+        "are",
+        "data",
+        "deployment",
+        "export"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 211,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s07_linked_asset_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels_img_unnamed_dc897396a45b_png",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed_dc897396a45b.png",
+      "section_path": [
+        "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed_dc897396a45b.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed_dc897396a45b.png",
+      "level": 1,
+      "ordinal": 7,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed_dc897396a45b.png\n\nLinked image asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed_dc897396a45b.png\n\nImage metadata: PNG 927x499 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nRegional Activity - Fixtures & Lifted Volume\n35.0M\n200 29.1M 198 30.0M\n26.6M\n3 c ‘AA =\n5 156 25.0 ry\n% 150 >\n= 20.0M 5\na\n9 2\na 15.0M 2\n2 100 LI.UM &\n: 3\nz 10.0M 2\n50\n5.0M\n0 0\nYanbu (Red Sea) AG (Persian Gulf)",
+      "keywords": [
+        "asset",
+        "image",
+        "activity",
+        "dpi",
+        "embedded",
+        "fixtures",
+        "gulf",
+        "info"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 245,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s08_linked_asset_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels_img_unnamed28129_069e0e7b9234_png",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28129_069e0e7b9234.png",
+      "section_path": [
+        "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28129_069e0e7b9234.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28129_069e0e7b9234.png",
+      "level": 1,
+      "ordinal": 8,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28129_069e0e7b9234.png\n\nLinked image asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28129_069e0e7b9234.png\n\nImage metadata: PNG 940x489 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nMonthly Fixture Activity by Region\n@mm™ Yanbu (Red Sea)\n80 - - Mmm AG (Persian Gulf)\n70 - uu\no\n5 601 56 55 54\nK oo. = 50 46\n-\n)\n» 40>\n@\n2\nE 30-\ns\n2\n20 -\n10 -\n0 -\nMar 2026 Apr 2026 May 2026",
+      "keywords": [
+        "asset",
+        "image",
+        "activity",
+        "apr",
+        "dpi",
+        "embedded",
+        "fixture",
+        "gulf"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 221,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s09_linked_asset_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels_img_unnamed28229_d74e6593f93e_png",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28229_d74e6593f93e.png",
+      "section_path": [
+        "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28229_d74e6593f93e.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28229_d74e6593f93e.png",
+      "level": 1,
+      "ordinal": 9,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28229_d74e6593f93e.png\n\nLinked image asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28229_d74e6593f93e.png\n\nImage metadata: PNG 952x545 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nDirty Cargoes by Vessel Size & Region\nMm Yanbu (Red Sea)\nMmm AG (Persian Gulf)\n80 - 77\n¥ 60 * 57\n=\n3\n%\n=\n£ 40 -\na\n20 -\n15 14\n9\n4 Ee : 2 4\n0 = el Pesseee22iy|\nVLCC Suezmax Aframax/LR2 Panamax/LR1 MR/Handy",
+      "keywords": [
+        "panamax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "asset",
+        "image",
+        "aframax/lr2"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 228,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s10_linked_asset_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels_img_unnamed28329_e8fcc8b4550a_png",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28329_e8fcc8b4550a.png",
+      "section_path": [
+        "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28329_e8fcc8b4550a.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28329_e8fcc8b4550a.png",
+      "level": 1,
+      "ordinal": 10,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28329_e8fcc8b4550a.png\n\nLinked image asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28329_e8fcc8b4550a.png\n\nImage metadata: PNG 930x490 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nDirty VLCC / Suezmax / Aframax - Region Comparison\nMmm Yanbu (Red Sea)\n80 - 7 Mmm AG (Persian Gulf)\n% 60-\n@ 57\n3\nx\n=\n£ 40 -\n3\n20 - 15 a\n9\n|\n0 =\nVLCC Suezmax Aframax/LR2",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "asset",
+        "image",
+        "mmm",
+        "aframax/lr2",
+        "comparison"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 207,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s11_linked_asset_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels_img_unnamed28429_7a846c1cd8ba_png",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28429_7a846c1cd8ba.png",
+      "section_path": [
+        "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28429_7a846c1cd8ba.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28429_7a846c1cd8ba.png",
+      "level": 1,
+      "ordinal": 11,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28429_7a846c1cd8ba.png\n\nLinked image asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28429_7a846c1cd8ba.png\n\nImage metadata: PNG 979x407 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nDirty vs Clean Cargo Mix by Region\n\"ce (essen a\"\n\"ene ee \")\n0 25 50 75 100 125 150 175 200\nNumber of fixtures\nmH Dirty mmm Clean mM Unspecified",
+      "keywords": [
+        "asset",
+        "clean",
+        "dirty",
+        "image",
+        "cargo",
+        "dpi",
+        "embedded",
+        "ene"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 184,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s12_linked_asset_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels_img_unnamed28529_947b6a65de10_png",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__root",
+      "title": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28529_947b6a65de10.png",
+      "section_path": [
+        "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28529_947b6a65de10.png"
+      ],
+      "section_path_text": "Linked asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28529_947b6a65de10.png",
+      "level": 1,
+      "ordinal": 12,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28529_947b6a65de10.png\n\nLinked image asset: 2026-06-09_red-sea-vs-arabian-gulf-comparing-the-fixing-activity-behind-the-barrels_img_unnamed28529_947b6a65de10.png\n\nImage metadata: PNG 934x628 mode=RGB\n\nEmbedded info:\ndpi: (71.9836, 71.9836)\n\nOCR text:\nAG Load Ports - Fixtures by Cargo Type (Ras Tanura highlighted)\n|\n+ 0 Ser 78\nsoto: (EERE 32\nover SEEEESEESORETEY 23\nMina Al Fahal 2\nRuwais i 4\nDas Island \"fil 3\nJubail 3\nkuwait 3\nBasrah 3\nJebel Ali J 2\nRas Laffan {ij 2\nOman 2\nEast 2\nRas Tanura $12\nZirku Island 2\nKhor Al Zubair | 1\ndonee nnnnnnn-----=--20ned pons above -_cegion-only label below. AG (unspecified - not a port) =u 13 = tropdciied\nI a + .",
+      "keywords": [
+        "ras",
+        "asset",
+        "fixtures",
+        "image",
+        "island",
+        "tanura",
+        "above",
+        "ali"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 341,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions__root",
+  "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions",
+  "parent_id": null,
+  "title": "Beyond Posidonia: Tracking the Pulse of Greek Dry Bulk Transactions:",
+  "section_path": [
+    "Beyond Posidonia: Tracking the Pulse of Greek Dry Bulk Transactions:"
+  ],
+  "section_path_text": "Beyond Posidonia: Tracking the Pulse of Greek Dry Bulk Transactions:",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nImage reference: unsplash-image-VDbFCDzsCUw.jpg | assets/2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nAs Posidonia week drew to a close, it offered an opportune moment to reflect on activity levels in the dry bulk Sale & Purchase (S&P) and newbuilding (NB) markets during the first five months of 2026, with particular focus on the presence and positioning of Greek interests. The S&P market has demonstrated notable momentum. A total of 378 dry bulk vessels changed hands during the Jan-May period, marking a 21% increase compared to the corresponding period in 2025.",
+  "keywords": [
+    "capesize",
+    "supramax",
+    "handysize",
+    "china",
+    "brazil",
+    "iron_ore",
+    "coal",
+    "greek",
+    "vessels",
+    "total",
+    "newbuilding",
+    "units"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1285,
+  "source_path": "reports/breakwave/2026/2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/9/beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Image reference: unsplash-image-VDbFCDzsCUw.jpg | assets/2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg\nBy Eirini Diamantara & Dimitris Roumeliotis\nAs Posidonia week drew to a close, it offered an opportune moment to reflect on activity levels in the dry bulk Sale & Purchase (S&P) and newbuilding (NB) markets during the first five months of 2026, with particular focus on the presence and positioning of Greek interests. The S&P market has demonstrated notable momentum.",
+      "keywords": [
+        "capesize",
+        "supramax",
+        "handysize",
+        "china",
+        "brazil",
+        "iron_ore",
+        "coal",
+        "greek"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 855,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-09_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions__s02_linked_asset_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions_img_unsplash_image_vdbfcdzscuw_cd5e00f8650c_jpg",
+      "doc_id": "breakwave_insights_insights_2026-06-09_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions",
+      "parent_id": "breakwave_insights_insights_2026-06-09_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions__root",
+      "title": "Linked asset: 2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/breakwave/2026/assets/2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg\n\nLinked image asset: 2026-06-09_beyond-posidonia-tracking-the-pulse-of-greek-dry-bulk-transactions_img_unsplash-image-vdbfcdzscuw_cd5e00f8650c.jpg\n\nImage metadata: JPEG 1080x720 mode=RGB\n\nOCR text:\nee, ..... | -CONSTANTA SHIPYARD é,\nbse) ' 1\naif er BG ‘ee Se ee, Ses S im\" RS =\nSe gl of / a W ve Ly + A Bi \\.",
+      "keywords": [
+        "aie",
+        "asset",
+        "image",
+        "aed",
+        "af.",
+        "aif",
+        "ale",
+        "alea"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 379,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
