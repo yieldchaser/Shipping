@@ -7,9 +7,9 @@ categories:
 - tanker_charter
 - tankers
 - vessel_valuations
-document_count: 82
+document_count: 83
 evidence_count: 250
-generated_at: '2026-06-09T13:05:28Z'
+generated_at: '2026-06-10T13:27:24Z'
 latest_evidence_date: '2026-06-09'
 page_type: topic_wiki
 related_topics:
@@ -25,7 +25,7 @@ topic_id: tanker_market
 ---
 
 ## Summary
-Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 82 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-09, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
+Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight. The current wiki page is grounded in 250 cited sections from 83 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-09, with the strongest recurring markers being crude, products, china, tanker, crude_oil. Primary coverage comes from categories such as demolition, insights, shipbuilding, tanker, tanker_charter, tankers, vessel_valuations.
 
 ## Why It Matters
 Crude and product tanker conditions across benchmark routes, supply-demand balances, and macro oil-market drivers that move tanker freight.
@@ -41,25 +41,25 @@ Crude and product tanker conditions across benchmark routes, supply-demand balan
 - 2026-06-09 | breakwave_insights insights | Activity vs. Volume - More Ships in the Gulf, More Barrels from Yanbu: At first glance, the Gulf looks busier, and on a pure fixture count, it is. But counting ships flatters the picture. [doc_id: breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels | section_id: breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s02_activity_vs_volume_more_ships_in_the_gulf_more_barrels_from_yanbu | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2026-05-11 to 2026-06-09 across 1 calendar years.
+- Coverage span: 2026-05-12 to 2026-06-09 across 1 calendar years.
 - Most-covered years: 2026: 250
 - Recurring evidence markers: crude, products, china, tanker, crude_oil, vlcc
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 189, hellenic: 50, baltic: 7, breakwave: 4
-- Category coverage: insights: 189, demolition: 24, shipbuilding: 12, vessel_valuations: 8, tanker: 7, tanker_charter: 6, tankers: 4
-- Tone distribution: constructive: 152, neutral: 53, cautiously_bearish: 41, cautious: 4
+- Source coverage: breakwave_insights: 186, hellenic: 53, baltic: 7, breakwave: 4
+- Category coverage: insights: 186, demolition: 24, shipbuilding: 13, vessel_valuations: 10, tanker: 7, tanker_charter: 6, tankers: 4
+- Tone distribution: constructive: 152, neutral: 55, cautiously_bearish: 39, cautious: 4
 - Related topics: vlcc_and_suezmax, oil_and_opec
 
 ## Key Documents
 - 2026-06-09 | Red Sea vs Arabian Gulf: Comparing the Fixing Activity Behind the Barrels [doc_id: breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels | section_id: breakwave_insights_insights_2026-06-09_2026_06_09_red_sea_vs_arabian_gulf_comparing_the_fixing_activity_behind_the_barrels__s03_the_dirty_book_where_the_two_regions_genuinely_diverge | pages n/a]
 - 2026-06-09 | Breakwave Bi-Weekly Dry Bulk Report - June 9, 2026 [doc_id: breakwave_insights_insights_2026-06-09_2026_06_09_692026db_report2026junkki1 | section_id: breakwave_insights_insights_2026-06-09_2026_06_09_692026db_report2026junkki1__s01_main | pages n/a]
 - 2026-06-09 | Beyond Posidonia: Tracking the Pulse of Greek Dry Bulk Transactions: [doc_id: breakwave_insights_insights_2026-06-09_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions | section_id: breakwave_insights_insights_2026-06-09_2026_06_09_beyond_posidonia_tracking_the_pulse_of_greek_dry_bulk_transactions__s01_main | pages n/a]
+- 2026-06-09 | Weekly Vessel Valuations Report, June 09 2026 [doc_id: hellenic_vessel_valuations_2026-06-09_2026_06_09_weekly_vessel_valuations_report_june_09_2026 | section_id: hellenic_vessel_valuations_2026-06-09_2026_06_09_weekly_vessel_valuations_report_june_09_2026__s01_main | pages n/a]
+- 2026-06-09 | Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 23, 2026 [doc_id: hellenic_demolition_2026-06-09_2026_06_09_athenian_shipbrokers_s_a_demolition_quick_update_week_23_2026 | section_id: hellenic_demolition_2026-06-09_2026_06_09_athenian_shipbrokers_s_a_demolition_quick_update_week_23_2026__s02_linked_asset_2026_06_09_athenian_shipbrokers_s_a_demolition_quick_update_week_23_2026_week_23_athenian_demolition_report_2_f0ab426ffa97_pdf | pages n/a]
+- 2026-06-09 | Breakwave Dry Bulk Shipping Report 6.9.2026 [doc_id: hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026 | section_id: hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026__s01_main | pages n/a]
 - 2026-06-08 | Resilient VLCCs [doc_id: breakwave_insights_insights_2026-06-08_2026_06_08_resilient_vlccs | section_id: breakwave_insights_insights_2026-06-08_2026_06_08_resilient_vlccs__s01_main | pages n/a]
 - 2026-06-08 | Posidonia 2026... [doc_id: breakwave_insights_insights_2026-06-08_2026_06_08_posidonia_2026 | section_id: breakwave_insights_insights_2026-06-08_2026_06_08_posidonia_2026__s01_main | pages n/a]
-- 2026-06-06 | Best Oasis Weekly Recycling Market Report, 05 June 2026 [doc_id: hellenic_demolition_2026-06-06_2026_06_06_best_oasis_weekly_recycling_market_report_05_june_2026 | section_id: hellenic_demolition_2026-06-06_2026_06_06_best_oasis_weekly_recycling_market_report_05_june_2026__s02_linked_asset_2026_06_06_best_oasis_weekly_recycling_market_report_05_june_2026_weekly_ship_recycling_report_02_june_1ad3fd50e851_pdf | pages n/a]
-- 2026-06-05 | Posidonia projections - Braemar looks of the bright side [doc_id: breakwave_insights_insights_2026-06-05_2026_06_05_posidonia_projections_braemar_looks_of_the_bright_side | section_id: breakwave_insights_insights_2026-06-05_2026_06_05_posidonia_projections_braemar_looks_of_the_bright_side__s01_main | pages n/a]
-- 2026-06-05 | The big AI test is ahead of us. [doc_id: breakwave_insights_insights_2026-06-05_2026_06_05_the_big_ai_test_is_ahead_of_us | section_id: breakwave_insights_insights_2026-06-05_2026_06_05_the_big_ai_test_is_ahead_of_us__s01_main | pages n/a]
 
 ## Related Topics
 - vlcc_and_suezmax

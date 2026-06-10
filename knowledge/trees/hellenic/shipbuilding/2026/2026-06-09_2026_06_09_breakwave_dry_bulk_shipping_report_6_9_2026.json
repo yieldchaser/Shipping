@@ -1,0 +1,62 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026__root",
+  "doc_id": "hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026",
+  "parent_id": null,
+  "title": "Breakwave Dry Bulk Shipping Report 6.9.2026",
+  "section_path": [
+    "Breakwave Dry Bulk Shipping Report 6.9.2026"
+  ],
+  "section_path_text": "Breakwave Dry Bulk Shipping Report 6.9.2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nCapesize Rates Drop to One-Month lows as Fixing Frenzy Stalls - Following an exceptionally strong performance in May,\nSource: Breakwave Advisors",
+  "keywords": [
+    "capesize",
+    "drop",
+    "exceptionally",
+    "fixing",
+    "following",
+    "frenzy",
+    "lows",
+    "main",
+    "may",
+    "one-month",
+    "performance",
+    "source"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 34,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-06-09_breakwave-dry-bulk-shipping-report-6-9-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/breakwave-dry-bulk-shipping-report-6-9-2026",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026",
+      "parent_id": "hellenic_shipbuilding_2026-06-09_2026_06_09_breakwave_dry_bulk_shipping_report_6_9_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Capesize Rates Drop to One-Month lows as Fixing Frenzy Stalls - Following an exceptionally strong performance in May,\nSource: Breakwave Advisors",
+      "keywords": [
+        "capesize",
+        "drop",
+        "exceptionally",
+        "fixing",
+        "following",
+        "frenzy",
+        "lows",
+        "may"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 32,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

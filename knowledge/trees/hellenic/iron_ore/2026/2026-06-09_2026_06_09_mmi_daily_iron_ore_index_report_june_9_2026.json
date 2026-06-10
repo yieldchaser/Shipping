@@ -1,0 +1,118 @@
+{
+  "node_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026__root",
+  "doc_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026",
+  "parent_id": null,
+  "title": "MMI Daily Iron Ore Index Report June 9 2026",
+  "section_path": [
+    "MMI Daily Iron Ore Index Report June 9 2026"
+  ],
+  "section_path_text": "MMI Daily Iron Ore Index Report June 9 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nThe DCE iron ore futures moved weakly today. The most-traded contract, I2609, closed at 760 yuan/mt,down 0.20% from the previous tradingday. Port spot prices remained largely unchanged from the prior day.",
+  "keywords": [
+    "china",
+    "brazil",
+    "australia",
+    "singapore",
+    "iron_ore",
+    "bauxite",
+    "crude_oil",
+    "steel",
+    "fines",
+    "ore",
+    "iron",
+    "jun"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 10065,
+  "source_path": "reports/hellenic/iron_ore/2026/2026-06-09_mmi-daily-iron-ore-index-report-june-9-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-june-9-2026",
+  "children": [
+    {
+      "node_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026__s01_main",
+      "doc_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026",
+      "parent_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "The DCE iron ore futures moved weakly today. The most-traded contract, I2609, closed at 760 yuan/mt,down 0.20% from the previous tradingday.",
+      "keywords": [
+        "china",
+        "iron_ore",
+        "steel",
+        "iron",
+        "ore",
+        "prices",
+        "down",
+        "impact"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 253,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026__s02_linked_asset_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026_09062026chinese3_136d20221582_jpg",
+      "doc_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026",
+      "parent_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026__root",
+      "title": "Linked asset: 2026-06-09_mmi-daily-iron-ore-index-report-june-9-2026_09062026chinese3_136d20221582.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-09_mmi-daily-iron-ore-index-report-june-9-2026_09062026chinese3_136d20221582.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-09_mmi-daily-iron-ore-index-report-june-9-2026_09062026chinese3_136d20221582.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/iron_ore/2026/assets/2026-06-09_mmi-daily-iron-ore-index-report-june-9-2026_09062026chinese3_136d20221582.jpg\n\nLinked image asset: 2026-06-09_mmi-daily-iron-ore-index-report-june-9-2026_09062026chinese3_136d20221582.jpg\n\nImage metadata: JPEG 1600x743 mode=RGB\n\nEmbedded info:\ndpi: (96, 96)\n\nOCR text:\nMMi Daily Iron Ore Index Report Jun 9th, 2026\nIRON ORE PORT STOCK INDEX (IOP!)\nJun 9th,202600 FOT Qingdao (inc. 13% VAT), RMB/wet tonne CFR Qingdao Equivalent (exc.",
+      "keywords": [
+        "china",
+        "brazil",
+        "iron_ore",
+        "steel",
+        "change",
+        "ore",
+        "iron",
+        "high"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 836,
+      "section_type": "linked_image_asset",
+      "children": []
+    },
+    {
+      "node_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026__s03_linked_asset_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026_mmi_daily_iron_ore_report_for_9th_ju_ea36c930b856_pdf",
+      "doc_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026",
+      "parent_id": "hellenic_iron_ore_2026-06-09_2026_06_09_mmi_daily_iron_ore_index_report_june_9_2026__root",
+      "title": "Linked asset: 2026-06-09_mmi-daily-iron-ore-index-report-june-9-2026_mmi-daily-iron-ore-report-for-9th-ju_ea36c930b856.pdf",
+      "section_path": [
+        "Linked asset: 2026-06-09_mmi-daily-iron-ore-index-report-june-9-2026_mmi-daily-iron-ore-report-for-9th-ju_ea36c930b856.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-06-09_mmi-daily-iron-ore-index-report-june-9-2026_mmi-daily-iron-ore-report-for-9th-ju_ea36c930b856.pdf",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "Source asset: reports/hellenic/iron_ore/pdfs/2026-06-09_mmi-daily-iron-ore-index-report-june-9-2026_mmi-daily-iron-ore-report-for-9th-ju_ea36c930b856.pdf\n\n[Page 1]\nMMi Daily Iron Ore Index Report Jun 9th, 2026\nMMi Dashboard\nIron Ore Price Indices\nIron Ore Port Stock (FOT Qingdao) Iron Ore Port Stock (FOT Qingdao) Iron Port Stock (FOT Qingdao)\nIOPI61 61% Fe Fines RMB/t IOPI65 65% Fe Fines RMB/t IOPI58 58% Fe Fines RMB/t\n743 866 671\n0 0.03% 0.00 0.00% -2 -0.31%\nJun 9th, 2026 Jun 9th, 2026 Jun 9th, 2026\nIron Ore Seaborne (CFR Qingdao) Iron Ore Seaborne (CFR Qingdao) Iron Ore Port Stock (FOT Qingdao)\nIOSI61 61% Fe Fines USD/dmt IOSI65 65% Fe Fines USD/dmt IOPLI 62.5% Fe Lump RMB/t\n98.65 119.50 910\n0.50 0.51% 0.60 0.50% -20 -2.15%\nJun 9th, 2026 Jun 9th, 2026 Week Ending Jun 5th, 2026\nExchange Traded Contracts\nDCE Iron Ore 62% Fines SGX Iron Ore (CFR Qingdao) 62% Fe Fines SHFE Rebar\nI2609 RMB/t (3pm close) July 26 USD/dmt RB2610 RMB/t\n760.00 100.75 3156\n1.00 0.13% 0.55 0.55% -1 -0.03%\nJun 9th, 2026 (3pm close) Jun 9th, 2026 (5.30 pm Print) Jun 9th, 2026 (3pm close)\nFreight Rates Steel Price\nC3, Tubarao - Qingdao USD/t C5, W. Australia - Qingdao USD/t Steel Rebar (China Domestic) RMB/t\n36",
+      "keywords": [
+        "china",
+        "brazil",
+        "australia",
+        "singapore",
+        "iron_ore",
+        "bauxite",
+        "crude_oil",
+        "steel"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 8880,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
