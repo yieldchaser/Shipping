@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-11_2026_06_11_posidonia_2026_shipping_navigates_a_new_geopolitical_reality__root",
+  "doc_id": "breakwave_insights_insights_2026-06-11_2026_06_11_posidonia_2026_shipping_navigates_a_new_geopolitical_reality",
+  "parent_id": null,
+  "title": "Posidonia 2026: Shipping Navigates a New Geopolitical Reality",
+  "section_path": [
+    "Posidonia 2026: Shipping Navigates a New Geopolitical Reality"
+  ],
+  "section_path_text": "Posidonia 2026: Shipping Navigates a New Geopolitical Reality",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Panagiota Kinti\nAs the global shipping industry gathered in Athens for Posidonia 2026, the conversation had shifted decisively from recovery to resilience. Where previous editions grappled with inflation, rising interest rates and post-pandemic trade normalization, this year's event unfolded against a backdrop of entrenched geopolitical uncertainty, one that is fundamentally and perhaps permanently reshaping global shipping markets. The past two years have demonstrated the industry's capacity to adapt.",
+  "keywords": [
+    "capesize",
+    "crude_oil",
+    "trade",
+    "global",
+    "but",
+    "energy",
+    "geopolitical",
+    "demand",
+    "fleet",
+    "oil",
+    "operational",
+    "security"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 576,
+  "source_path": "reports/breakwave/2026/2026-06-11_posidonia-2026-shipping-navigates-a-new-geopolitical-reality.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/11/posidonia-2026-shipping-navigates-a-new-geopolitical-reality",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-11_2026_06_11_posidonia_2026_shipping_navigates_a_new_geopolitical_reality__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-11_2026_06_11_posidonia_2026_shipping_navigates_a_new_geopolitical_reality",
+      "parent_id": "breakwave_insights_insights_2026-06-11_2026_06_11_posidonia_2026_shipping_navigates_a_new_geopolitical_reality__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Panagiota Kinti\nAs the global shipping industry gathered in Athens for Posidonia 2026, the conversation had shifted decisively from recovery to resilience. Where previous editions grappled with inflation, rising interest rates and post-pandemic trade normalization, this year's event unfolded against a backdrop of entrenched geopolitical uncertainty, one that is fundamentally and perhaps permanently reshaping global shipping markets.",
+      "keywords": [
+        "capesize",
+        "crude_oil",
+        "trade",
+        "global",
+        "but",
+        "energy",
+        "geopolitical",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 574,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}

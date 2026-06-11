@@ -4,9 +4,9 @@ categories:
 - ningbo
 - shipbuilding
 - vessel_valuations
-document_count: 187
+document_count: 185
 evidence_count: 250
-generated_at: '2026-06-10T13:27:24Z'
+generated_at: '2026-06-11T13:48:24Z'
 latest_evidence_date: '2026-06-09'
 page_type: topic_wiki
 related_topics: []
@@ -18,7 +18,7 @@ topic_id: container_and_ningbo_routes
 ---
 
 ## Summary
-Container route pricing, Ningbo-linked export sentiment, rate pressure across major lanes, and the market signals embedded in weekly Baltic container coverage. The current wiki page is grounded in 250 cited sections from 187 documents across baltic, hellenic. Recent evidence runs through 2026-06-09, with the strongest recurring markers being container, rate, china, ningbo, europe. Primary coverage comes from categories such as container, ningbo, shipbuilding, vessel_valuations.
+Container route pricing, Ningbo-linked export sentiment, rate pressure across major lanes, and the market signals embedded in weekly Baltic container coverage. The current wiki page is grounded in 250 cited sections from 185 documents across baltic, hellenic. Recent evidence runs through 2026-06-09, with the strongest recurring markers being container, rate, china, ningbo, europe. Primary coverage comes from categories such as container, ningbo, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Container route pricing, Ningbo-linked export sentiment, rate pressure across major lanes, and the market signals embedded in weekly Baltic container coverage.
@@ -34,14 +34,14 @@ Container route pricing, Ningbo-linked export sentiment, rate pressure across ma
 - 2026-06-02 | hellenic vessel_valuations | Linked asset: 2026-06-02_weekly-vessel-valuations-report-june-02-2026_26202525_ffcc76fc602a.jpg: Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-06-02_weekly-vessel-valuations-report-june-02-2026_26202525_ffcc76fc602a.jpg Linked image asset: 2026-06-02_weekly-vessel-valuations-report-june-02-2026_26202525_ffcc76fc602a.jpg Image metadata: JPEG 600x279 mode=RGB Embedded info: dpi: (72.0, 72.0) OCR text: © VesselsValue AA 02 June 2026 VV Mini Matrix - Weekly Change Tankers Bulkers Containers Year vice ‘Suez Ata um Mn Cape Pmax Supra Handy pices Pmax Handy = Fmax ° +27% OBS 10% 10.2% Om 10.6% 10.3% +0.3% 10.1% OB% +0.1% +29% 40.1% 320k 160k nsk 75K 50k 180k 8% 62k 38 7000 © 4250 1780 noo +L 08s As OAS "me 40.7% 02 +226 70.1% OBS 10.1% 129% 40.1% id 320k 160k nk 75k 50k 180k 8% 60k 38k 7000 © 4250 a) noo Om 0.7% 0% +05% An 10.9% OAM +246 40.1% 0% +0.2% +27% +0.1% " 320k 160k 10k 75k 50k 180k 80k 60k 35k 7000 4250 1750 noo s SK 04S 0.1% +29% Om 12% 70.0% 16% 10.2% OS* 20.4% +226 +0.1% SOK n0k 75k SOK 180k 80k 60k Wk 7000 4250780 noo 20.2% 10.2% 0.0% +4S% +m 16% +2 oo 70.1% Om 10.9% 7 10.1% cad BOK M60K Nk 70k 45k 180K 73k 58k 30k 7000 4250 1750 noo s 20.7% 710% OS* +20% 139% *2.0% +S. 1.0% 0.0% 0.0% 18% 70.1% 0.0% 300k 155k 1osk 70k 45k 198k 78k 50k 30k 6500 40 [doc_id: hellenic_vessel_valuations_2026-06-02_2026_06_02_weekly_vessel_valuations_report_june_02_2026 | section_id: hellenic_vessel_valuations_2026-06-02_2026_06_02_weekly_vessel_valuations_report_june_02_2026__s02_linked_asset_2026_06_02_weekly_vessel_valuations_report_june_02_2026_26202525_ffcc76fc602a_jpg | pages n/a]
 
 ## Historical Patterns
-- Coverage span: 2025-07-08 to 2026-06-09 across 2 calendar years.
-- Most-covered years: 2026: 139, 2025: 111
+- Coverage span: 2025-07-22 to 2026-06-09 across 2 calendar years.
+- Most-covered years: 2026: 147, 2025: 103
 - Recurring evidence markers: container, rate, china, ningbo, europe, export
 
 ## Cross-Source View
-- Source coverage: hellenic: 145, baltic: 105
-- Category coverage: vessel_valuations: 86, shipbuilding: 59, container: 56, ningbo: 49
-- Tone distribution: neutral: 143, constructive: 75, cautiously_bearish: 32
+- Source coverage: hellenic: 149, baltic: 101
+- Category coverage: vessel_valuations: 92, shipbuilding: 57, container: 54, ningbo: 47
+- Tone distribution: neutral: 138, constructive: 81, cautiously_bearish: 31
 
 ## Key Documents
 - 2026-06-09 | Weekly Vessel Valuations Report, June 09 2026 [doc_id: hellenic_vessel_valuations_2026-06-09_2026_06_09_weekly_vessel_valuations_report_june_09_2026 | section_id: hellenic_vessel_valuations_2026-06-09_2026_06_09_weekly_vessel_valuations_report_june_09_2026__s01_main | pages n/a]
