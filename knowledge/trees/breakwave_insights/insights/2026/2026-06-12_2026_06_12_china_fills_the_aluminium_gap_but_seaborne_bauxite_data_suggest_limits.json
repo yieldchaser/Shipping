@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits__root",
+  "doc_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits",
+  "parent_id": null,
+  "title": "China Fills the Aluminium Gap - But Seaborne Bauxite Data Suggest Limits",
+  "section_path": [
+    "China Fills the Aluminium Gap - But Seaborne Bauxite Data Suggest Limits"
+  ],
+  "section_path_text": "China Fills the Aluminium Gap - But Seaborne Bauxite Data Suggest Limits",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nAccording to recent customs data, Chinese aluminium exports surged by 10.4 per cent year on year in the first five months of the year, with May seeing a growth of 5.7 per cent. The development comes as the flow of the metal from producers in the Arabian Gulf has declined sharply amid the near-total closure of the Strait of Hormuz and damage to two of the world's major smelters during the conflict. The disruption to aluminium exports from the Middle East has supported aluminium prices over the past few months, with London Metal Exchange (LME) futures reaching their highest level since 2022 in the first few sessions of June.",
+  "keywords": [
+    "capesize",
+    "china",
+    "australia",
+    "atlantic",
+    "meg",
+    "west_africa",
+    "bauxite",
+    "products",
+    "aluminium",
+    "per",
+    "cent",
+    "chinese"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1080,
+  "source_path": "reports/breakwave/2026/2026-06-12_china-fills-the-aluminium-gap-but-seaborne-bauxite-data-suggest-limits.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/12/china-fills-the-aluminium-gap-but-seaborne-bauxite-data-suggest-limits",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits",
+      "parent_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nAccording to recent customs data, Chinese aluminium exports surged by 10.4 per cent year on year in the first five months of the year, with May seeing a growth of 5.7 per cent. The development comes as the flow of the metal from producers in the Arabian Gulf has declined sharply amid the near-total closure of the Strait of Hormuz and damage to two of the world's major smelters during the conflict.",
+      "keywords": [
+        "china",
+        "meg",
+        "aluminium",
+        "per",
+        "year",
+        "cent",
+        "exports",
+        "amid"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 263,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits__s02_diverging_paths_for_bauxite_and_alumina",
+      "doc_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits",
+      "parent_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits__root",
+      "title": "Diverging Paths for Bauxite and Alumina",
+      "section_path": [
+        "Diverging Paths for Bauxite and Alumina"
+      ],
+      "section_path_text": "Diverging Paths for Bauxite and Alumina",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "The global seaborne exports of bauxite, the key feedstock for aluminium production, rose by ten per cent during the year's first five months compared with the same period last year, according to data from Signal Ocean. However, developments for the world's two leading exporters, Guinea and Australia, diverged over the period.",
+      "keywords": [
+        "china",
+        "australia",
+        "bauxite",
+        "per",
+        "cent",
+        "seaborne",
+        "decline",
+        "months"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 397,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits__s03_implications_for_aluminium_prices_and_shipping",
+      "doc_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits",
+      "parent_id": "breakwave_insights_insights_2026-06-12_2026_06_12_china_fills_the_aluminium_gap_but_seaborne_bauxite_data_suggest_limits__root",
+      "title": "Implications for Aluminium Prices and Shipping",
+      "section_path": [
+        "Implications for Aluminium Prices and Shipping"
+      ],
+      "section_path_text": "Implications for Aluminium Prices and Shipping",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "The increase in Chinese exports of unwrought aluminium and products has tempered the price rise following the hostilities in and around Iran. However, last month's slowdown in Chinese export growth suggests there are limits to how much the Chinese aluminium industry can offset.",
+      "keywords": [
+        "capesize",
+        "china",
+        "australia",
+        "atlantic",
+        "meg",
+        "west_africa",
+        "bauxite",
+        "products"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 397,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
