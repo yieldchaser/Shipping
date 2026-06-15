@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_shipbuilding_2026-06-12_2026_06_12_clarksons_platou_hellas_snp_weekly_bulletin_136__root",
+  "doc_id": "hellenic_shipbuilding_2026-06-12_2026_06_12_clarksons_platou_hellas_snp_weekly_bulletin_136",
+  "parent_id": null,
+  "title": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "section_path": [
+    "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN"
+  ],
+  "section_path_text": "CLARKSONS PLATOU HELLAS - SnP WEEKLY BULLETIN",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nFollowing the busy Posidonia week in Athens, market participants have returned to their desks and SnP negotiations have come back to usual levels.Activity remains strong with buyers continuing to pursue opportunities across a broad range of ages and segments, with modern quality tonnage remaining scarce. On the tanker side in particular, negotiations involving eco-modern units continue to develop, with buyers showing willingness to pursue quality vessels despite the firm Owners' expectations. Meanwhile, a potential peace agreement in the Middle East remains a key topic of discussion, with the tanker market seen as one of the main potential beneficiaries of recovering cargo volumes.",
+  "keywords": [
+    "capesize",
+    "handysize",
+    "any",
+    "information",
+    "clarksons",
+    "usd",
+    "its",
+    "dwt",
+    "connected",
+    "loss",
+    "not",
+    "persons"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1717,
+  "source_path": "reports/hellenic/shipbuilding/2026/2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136.html",
+  "source_url": "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-136",
+  "children": [
+    {
+      "node_id": "hellenic_shipbuilding_2026-06-12_2026_06_12_clarksons_platou_hellas_snp_weekly_bulletin_136__s01_main",
+      "doc_id": "hellenic_shipbuilding_2026-06-12_2026_06_12_clarksons_platou_hellas_snp_weekly_bulletin_136",
+      "parent_id": "hellenic_shipbuilding_2026-06-12_2026_06_12_clarksons_platou_hellas_snp_weekly_bulletin_136__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Following the busy Posidonia week in Athens, market participants have returned to their desks and SnP negotiations have come back to usual levels.Activity remains strong with buyers continuing to pursue opportunities across a broad range of ages and segments, with modern quality tonnage remaining scarce. On the tanker side in particular, negotiations involving eco-modern units continue to develop, with buyers showing willingness to pursue quality vessels despite the firm Owners' expectations.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "abt",
+        "dwt",
+        "negotiations",
+        "usd",
+        "are",
+        "buyers"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 331,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_shipbuilding_2026-06-12_2026_06_12_clarksons_platou_hellas_snp_weekly_bulletin_136__s02_linked_asset_2026_06_12_clarksons_platou_hellas_snp_weekly_bulletin_136_weekly_sales_12h_jun_2026_fbc72efc44c8_pdf",
+      "doc_id": "hellenic_shipbuilding_2026-06-12_2026_06_12_clarksons_platou_hellas_snp_weekly_bulletin_136",
+      "parent_id": "hellenic_shipbuilding_2026-06-12_2026_06_12_clarksons_platou_hellas_snp_weekly_bulletin_136__root",
+      "title": "Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf",
+      "section_path": [
+        "Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf"
+      ],
+      "section_path_text": "Linked asset: 2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/shipbuilding/pdfs/2026-06-12_clarksons-platou-hellas-snp-weekly-bulletin-136_weekly-sales-12h-jun-2026_fbc72efc44c8.pdf\n\n[Page 1]\nClarkson Hellas Ltd. Desk Talk\nFollowing the busy Posidonia week in Athens, market participants have returned to their desks and SnP\nnegotiations have come back to usual levels.",
+      "keywords": [
+        "capesize",
+        "handysize",
+        "any",
+        "information",
+        "clarksons",
+        "its",
+        "connected",
+        "loss"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 1335,
+      "section_type": "linked_pdf",
+      "children": []
+    }
+  ]
+}
