@@ -1,0 +1,86 @@
+{
+  "node_id": "breakwave_tankers_2026-06-16__root",
+  "doc_id": "breakwave_tankers_2026-06-16",
+  "parent_id": null,
+  "title": "Tanker Shipping - June 16, 2026",
+  "section_path": [
+    "Tanker Shipping - June 16, 2026"
+  ],
+  "section_path_text": "Tanker Shipping - June 16, 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "The VLCC tanker market is transitioning from a disruption-driven environment towards supply-demand fundamentals, driven by expectations of a U.S.-Iran agreement and reduced geopolitical risks. Freight rates have softened, but newbuilding activity remains high, potentially leading to a future supply imbalance and industry downcycle. Oil prices have fallen due to the agreement, anticipating increased supply and maintained between $80-$90 per barrel.",
+  "keywords": [
+    "VLCC",
+    "tankers",
+    "freight rates",
+    "supply-demand",
+    "oil prices",
+    "U.S.-Iran agreement",
+    "newbuilding activity",
+    "fleet growth"
+  ],
+  "page_start": 1,
+  "page_end": 2,
+  "token_count": 339,
+  "source_path": "reports/tankers/2026/2026-06-16_Breakwave_Tankers.pdf",
+  "source_url": null,
+  "children": [
+    {
+      "node_id": "breakwave_tankers_2026-06-16__s01_overview",
+      "doc_id": "breakwave_tankers_2026-06-16",
+      "parent_id": "breakwave_tankers_2026-06-16__root",
+      "title": "Overview",
+      "section_path": [
+        "Overview"
+      ],
+      "section_path_text": "Overview",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "- VLCC ex-Gulf Continues to Soften as Balance Tilts - The VLCC market is\n- Oil Prices Drop to 2-month Lows as Piece Deal Emerges - The recent initial\n- Our Long-term View - The tanker market has been recovering from a long period",
+      "keywords": [
+        "vlcc",
+        "crude_oil",
+        "balance",
+        "continues",
+        "deal",
+        "drop",
+        "emerges",
+        "ex-gulf"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "token_count": 58,
+      "section_type": "overview",
+      "children": []
+    },
+    {
+      "node_id": "breakwave_tankers_2026-06-16__s02_fundamentals",
+      "doc_id": "breakwave_tankers_2026-06-16",
+      "parent_id": "breakwave_tankers_2026-06-16__root",
+      "title": "Fundamentals",
+      "section_path": [
+        "Fundamentals"
+      ],
+      "section_path_text": "Fundamentals",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "- World Oil Demand (YTD: 105,745 kbpd, YOY: 0.3%)\n- Oil Supply, OPEC (YTD: 16,330 kbpd, YOY: -40.9%)\n- Oil Supply, non-OPEC (YTD: 73,671 kbpd, YOY: 0.5%)\n- OECD Total Crude Oil Stocks (YTD: 1053.1 MMbls, YOY: 0.0%)\n- US Crude Oil Exports (YTD: 60.2 MMbls, YOY: -2.0%)\n- China Oil Imports (YTD: 797.5 MMbls, YOY: 1.8%)\n- Global Crude Oil On Water (YTD: 1244.9 MMbls, YOY: 7.1%)\n- Tanker Fleet (YTD: 726.7 mdwt, YOY: 3.7%)\n- VLCC Middle East-Asia, USD/ton (YTD: 64.27, YOY: 401.1%)\n- Suezmax West Africa-Europe, USD/ton (YTD: 36.71, YOY: 124.7%)",
+      "keywords": [
+        "vlcc",
+        "suezmax",
+        "china",
+        "west_africa",
+        "europe",
+        "crude_oil",
+        "yoy",
+        "ytd"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "token_count": 280,
+      "section_type": "fundamentals",
+      "children": []
+    }
+  ]
+}
