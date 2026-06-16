@@ -4486,16 +4486,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           DATA.byYearProduct[key][year].forEach((row, i) => { row[key + '_td'] = i + 1; });
         }
       }
-      // bdry_spot is computed - build its per-product byYear too
-      DATA.byYearProduct['bdry_spot'] = {};
-      for (const row of DATA.master) {
-        if (row.bdry_spot == null) continue;
-        if (!DATA.byYearProduct['bdry_spot'][row.year]) DATA.byYearProduct['bdry_spot'][row.year] = [];
-        DATA.byYearProduct['bdry_spot'][row.year].push(row);
-      }
-      for (const year in DATA.byYearProduct['bdry_spot']) {
-        DATA.byYearProduct['bdry_spot'][year].forEach((row, i) => { row['bdry_spot_td'] = i + 1; });
-      }
+      // bdry_spot, bdry, and bwet are computed - build their per-product byYear too
+      ['bdry_spot', 'bdry', 'bwet'].forEach(key => {
+        DATA.byYearProduct[key] = {};
+        for (const row of DATA.master) {
+          if (row[key] == null) continue;
+          if (!DATA.byYearProduct[key][row.year]) DATA.byYearProduct[key][row.year] = [];
+          DATA.byYearProduct[key][row.year].push(row);
+        }
+        for (const year in DATA.byYearProduct[key]) {
+          DATA.byYearProduct[key][year].forEach((row, i) => { row[key + '_td'] = i + 1; });
+        }
+      });
 
       // Populate DATA.raw for computed products to support Indices tab
       for (const key in PRODUCTS) {
@@ -5076,6 +5078,133 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const content = document.getElementById('yearlyPerfContent');
       btn.classList.toggle('open');
       content.classList.toggle('open');
+    }
+
+    function toggleETFYearlyPerf(etfKey) {
+      const btn = document.getElementById(`yearlyPerfToggle_${etfKey}`);
+      const content = document.getElementById(`yearlyPerfContent_${etfKey}`);
+      if (btn && content) {
+        btn.classList.toggle('open');
+        content.classList.toggle('open');
+      }
+    }
+
+    let _yearlyPerfDataETF = {};
+
+    function renderETFYearlyPerfTable(etfKey) {
+      const years = [...DATA.years].reverse();
+
+      // Compute yearly averages
+      const yearlyAvgs = {};
+      const yearlyMins = {};
+      const yearlyMaxs = {};
+      for (const y of years) {
+        const vals = getRows(etfKey).filter(r => r.year === y).map(r => r[etfKey]);
+        yearlyAvgs[y] = vals.length ? mean(vals) : null;
+        yearlyMins[y] = vals.length ? Math.min(...vals) : null;
+        yearlyMaxs[y] = vals.length ? Math.max(...vals) : null;
+      }
+
+      _yearlyPerfDataETF[etfKey] = { years, yearlyAvgs, yearlyMins, yearlyMaxs };
+
+      let html = `<table class="yearly-table">
+    <thead><tr>
+      <th data-tooltip="The calendar year.">Year</th>
+      <th data-tooltip="The arithmetic mean of all daily closes within this year.">Avg Value</th>
+      <th data-tooltip="Year-over-Year percentage change in the Average Value compared to the previous calendar year.">YoY %</th>
+      <th data-tooltip="The absolute lowest daily close recorded during this year.">Min</th>
+      <th data-tooltip="The absolute highest daily close recorded during this year.">Max</th>
+      <th data-tooltip="Annual price dispersion: (High \u2212 Low) \u00F7 Year Average. Measures how wildly rates moved relative to their baseline \u2014 not a directional return.">Volatility %</th>
+      <th data-tooltip="If someone bought at the yearly low and sold at the yearly high, this is the maximum possible gain. Purely theoretical \u2014 ignores timing.">Trough\u2192Peak %</th>
+    </tr></thead><tbody>`;
+
+      let hasData = false;
+      for (let i = 0; i < years.length; i++) {
+        const y = years[i];
+        const avg = yearlyAvgs[y];
+        const mn = yearlyMins[y];
+        const mx = yearlyMaxs[y];
+        if (avg == null) continue;
+
+        hasData = true;
+
+        // Prior year avg
+        const priorYear = years[i + 1];
+        const priorAvg = priorYear != null ? yearlyAvgs[priorYear] : null;
+        let yoyPct = null;
+        let yoyCls = '';
+        let yoyStr = '-';
+        if (priorAvg != null && priorAvg !== 0) {
+          yoyPct = ((avg - priorAvg) / priorAvg) * 100;
+          yoyStr = (yoyPct >= 0 ? '+' : '') + yoyPct.toFixed(1) + '%';
+          yoyCls = yoyPct >= 0 ? 'val-green' : 'val-red';
+        }
+
+        let volPct = '-';
+        if (mn != null && mx != null && avg != null && avg !== 0) {
+          volPct = ((mx - mn) / Math.abs(avg) * 100).toFixed(1) + '%';
+        }
+
+        let tpPct = '-';
+        if (mn != null && mx != null && mn > 0) {
+          tpPct = ((mx - mn) / mn * 100).toFixed(1) + '%';
+        }
+
+        html += `<tr>
+      <td>${y}</td>
+      <td>$${fmt(avg, 2)}</td>
+      <td class="${yoyCls}">${yoyStr}</td>
+      <td>$${fmt(mn, 2)}</td>
+      <td>$${fmt(mx, 2)}</td>
+      <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${etfKey}" data-tt-year="${y}" data-tt-metric="Volatility" data-tt-val="${volPct}" data-tt-title="${y} Volatility">${volPct}</td>
+      <td class="val-green" data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${etfKey}" data-tt-year="${y}" data-tt-metric="Trough→Peak" data-tt-val="${tpPct}" data-tt-title="${y} Trough→Peak">${tpPct}</td>
+    </tr>`;
+      }
+
+      html += '</tbody></table>';
+      if (!hasData) {
+        html = '<div style="color:var(--text-muted);font-size:13px;padding:12px 0;">No yearly performance data available</div>';
+      }
+      document.getElementById(`yearlyPerfTable_${etfKey}`).innerHTML = html;
+
+      // Wire download button
+      const dlBtn = document.getElementById(`yearlyDlBtn_${etfKey}`);
+      if (dlBtn) {
+        dlBtn.onclick = () => downloadETFYearlyPerf(etfKey);
+      }
+    }
+
+    function downloadETFYearlyPerf(etfKey) {
+      const data = _yearlyPerfDataETF[etfKey];
+      if (!data) return;
+      const { years, yearlyAvgs, yearlyMins, yearlyMaxs } = data;
+      const headers = ['Year', 'Avg Value', 'YoY %', 'Min', 'Max', 'Volatility %', 'Trough→Peak %'];
+      const rows = [];
+      for (let i = 0; i < years.length; i++) {
+        const y = years[i];
+        const avg = yearlyAvgs[y];
+        const mn = yearlyMins[y];
+        const mx = yearlyMaxs[y];
+        if (avg == null) continue;
+
+        const priorYear = years[i + 1];
+        const priorAvg = priorYear != null ? yearlyAvgs[priorYear] : null;
+        let yoyStr = '-';
+        if (priorAvg != null && priorAvg !== 0) {
+          const yoyPct = ((avg - priorAvg) / priorAvg) * 100;
+          yoyStr = (yoyPct >= 0 ? '+' : '') + yoyPct.toFixed(2) + '%';
+        }
+        let volPct = '';
+        if (mn != null && mx != null && avg != null && avg !== 0) {
+          volPct = ((mx - mn) / Math.abs(avg) * 100).toFixed(2) + '%';
+        }
+        let tpPct = '';
+        if (mn != null && mx != null && mn > 0) {
+          tpPct = ((mx - mn) / mn * 100).toFixed(2) + '%';
+        }
+        rows.push([y, avg.toFixed(2), yoyStr, mn.toFixed(2), mx.toFixed(2), volPct, tpPct]);
+      }
+      downloadCSV(`yearly_perf_${etfKey}.csv`, headers, rows);
     }
 
     // =====================================================================
@@ -6976,6 +7105,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       card.innerHTML = buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML, stats52w);
       buildETFDonut(etfKey, holdings);
+      renderETFYearlyPerfTable(etfKey);
 
       // Wire CSV download buttons (CHANGE 8)
       const dlBtn = card.querySelector(`.etf-dl-btn`);
@@ -7214,6 +7344,23 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         <div class="etf-metric-value etf-trough ${stats52w.troughCls}" id="etfTrough_${etfKey}">${stats52w.trough}</div>
       </div>
     </div>
+
+    <!-- Yearly Performance Table for ETF -->
+    <div class="collapsible-section mb-20" style="margin-top:16px;">
+      <button class="collapsible-toggle" id="yearlyPerfToggle_${etfKey}" onclick="toggleETFYearlyPerf('${etfKey}')">
+        <span data-tooltip="Year-by-Year Performance - Open, High, Low, Close and the full-year % return for each calendar year on record. Identifies long-duration bull and bear cycles.">Yearly Performance Table</span>
+        <span class="toggle-arrow">▼</span>
+      </button>
+      <div class="collapsible-content" id="yearlyPerfContent_${etfKey}">
+        <div class="flex-row mb-12" style="padding-top:4px">
+          <button class="dl-btn" id="yearlyDlBtn_${etfKey}">⬇ Download CSV</button>
+        </div>
+        <div style="overflow-x:auto">
+          <div id="yearlyPerfTable_${etfKey}"></div>
+        </div>
+      </div>
+    </div>
+
     ${etfKey === 'bdry' ? `
     <div class="etf-image-block">
       <img src="assets/BDRY_Export-Map-1024x548.webp" alt="BDRY Export Map" class="etf-card-image" />
