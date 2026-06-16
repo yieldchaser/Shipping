@@ -2864,6 +2864,22 @@
         </div>
       </div>
 
+      <!-- Macro Cycle History (Multi-Year) -->
+      <div class="collapsible-section mb-20">
+        <button class="collapsible-toggle" id="macroCyclesToggle" onclick="toggleMacroCycles()">
+          <span data-tooltip="Macro Cycle History (Multi-Year) - identifies turning points (peaks and troughs) spanning across calendar years using a 30% threshold. Highlights true multi-year bull runs and bear markets.">Macro Cycle History (Multi-Year)</span>
+          <span class="toggle-arrow">▼</span>
+        </button>
+        <div class="collapsible-content" id="macroCyclesContent">
+          <div class="flex-row mb-12" style="padding-top:4px">
+            <button class="dl-btn" id="macroCyclesDlBtn">⬇ Download CSV</button>
+          </div>
+          <div style="overflow-x:auto">
+            <div id="macroCyclesTable"></div>
+          </div>
+        </div>
+      </div>
+
       <!-- Correlation Matrix -->
       <div class="corr-section mb-20">
         <div class="section-title" data-tooltip="Pearson Correlation Matrix - measures the linear co-movement between pairs of shipping indices (BDI, BCI, BPI, BSI, BCTI, BDTI). Correlations of +0.9+ mean indices move in near-lockstep; values near 0 indicate independent price discovery. Use the 1Y window to see whether historical pairs have recently decoupled.">Index Correlation Matrix</div>
@@ -4749,6 +4765,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       var dashCharts = [
         function () { renderDrawdownChart(productKey); },
         function () { renderYearlyPerfTable(productKey); },
+        function () { renderMacroCyclesTable(productKey, 'macroCyclesTable', 'macroCyclesDlBtn'); },
         function () { renderCorrMatrix(currentCorrTimeframe); },
         function () { renderRecentChanges(productKey); },
       ];
@@ -5229,6 +5246,176 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         rows.push([y, avg.toFixed(2), yoyStr, mn.toFixed(2), mx.toFixed(2), volPct, tpPct]);
       }
       downloadCSV(`yearly_perf_${etfKey}.csv`, headers, rows);
+    }
+
+    function toggleMacroCycles() {
+      const btn = document.getElementById('macroCyclesToggle');
+      const content = document.getElementById('macroCyclesContent');
+      if (btn && content) {
+        btn.classList.toggle('open');
+        content.classList.toggle('open');
+      }
+    }
+
+    function toggleETFMacroCycles(etfKey) {
+      const btn = document.getElementById(`macroCyclesToggle_${etfKey}`);
+      const content = document.getElementById(`macroCyclesContent_${etfKey}`);
+      if (btn && content) {
+        btn.classList.toggle('open');
+        content.classList.toggle('open');
+      }
+    }
+
+    let _macroCyclesData = {};
+
+    function renderMacroCyclesTable(productKey, containerId, dlBtnId) {
+      const rows = getRows(productKey);
+      const container = document.getElementById(containerId);
+      if (!container) return;
+
+      if (!rows || !rows.length) {
+        container.innerHTML = '<div style="color:var(--text-muted);font-size:13px;padding:12px 0;">No cycle data available</div>';
+        return;
+      }
+
+      const prices = rows.map(r => r[productKey]);
+      const dates = rows.map(r => r.date);
+
+      // 30% threshold for peak/trough detection
+      const extremes = detectMacroCycles(prices, dates, 0.30);
+      _macroCyclesData[productKey] = extremes;
+
+      if (extremes.length < 2) {
+        container.innerHTML = '<div style="color:var(--text-muted);font-size:13px;padding:12px 0;">No major cycles detected with 30% threshold</div>';
+        return;
+      }
+
+      let html = `<table class="yearly-table">
+    <thead><tr>
+      <th style="text-align:left;" data-tooltip="The phase of the cycle: Expansion (Bull Run) or Contraction (Bear Market).">Cycle Phase</th>
+      <th data-tooltip="The starting date and value/rate of this cycle phase.">Start Point</th>
+      <th data-tooltip="The ending date and value/rate of this cycle phase.">End Point</th>
+      <th data-tooltip="The duration of the cycle phase in calendar days.">Duration</th>
+      <th data-tooltip="Percentage return from start value to end value.">Move %</th>
+    </tr></thead><tbody>`;
+
+      for (let i = extremes.length - 1; i > 0; i--) {
+        const end = extremes[i];
+        const start = extremes[i - 1];
+
+        const pct = ((end.value - start.value) / start.value) * 100;
+        const days = Math.round((end.date - start.date) / (1000 * 60 * 60 * 24));
+        const durationStr = `${days} days` + (days >= 30 ? ` (~${(days / 30.4).toFixed(1)}m)` : '');
+        const pctStr = (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%';
+        const pctCls = pct >= 0 ? 'val-green' : 'val-red';
+
+        const phaseType = pct >= 0 ? '📈 Expansion' : '📉 Contraction';
+        const phaseCls = pct >= 0 ? 'val-green' : 'val-red';
+
+        const isUSD = ['bdry', 'bwet'].includes(productKey);
+        const fmtVal = (val) => isUSD ? `$${fmt(val, 2)}` : fmt(val, 0);
+
+        const startLabel = `${fmtDate(start.date)} (${fmtVal(start.value)})`;
+        const endLabel = `${fmtDate(end.date)} (${fmtVal(end.value)})`;
+
+        html += `<tr>
+      <td style="text-align:left;font-weight:600;" class="${phaseCls}">${phaseType}</td>
+      <td>${startLabel}</td>
+      <td>${endLabel}</td>
+      <td>${durationStr}</td>
+      <td class="${pctCls}" style="font-weight:700;">${pctStr}</td>
+    </tr>`;
+      }
+
+      html += '</tbody></table>';
+      container.innerHTML = html;
+
+      // Wire download button
+      const dlBtn = document.getElementById(dlBtnId);
+      if (dlBtn) {
+        dlBtn.onclick = () => downloadMacroCycles(productKey);
+      }
+    }
+
+    function detectMacroCycles(prices, dates, threshold = 0.30) {
+      if (!prices.length) return [];
+      let state = 'trough'; // start looking for a peak from the initial point
+      const extremes = [];
+
+      // Start with the initial point
+      extremes.push({ type: 'Start', date: dates[0], value: prices[0] });
+
+      let currentMin = prices[0];
+      let currentMinIdx = 0;
+      let currentMax = prices[0];
+      let currentMaxIdx = 0;
+
+      for (let i = 1; i < prices.length; i++) {
+        const p = prices[i];
+        if (p == null || isNaN(p)) continue;
+
+        if (state == 'trough') {
+          if (p > currentMax) {
+            currentMax = p;
+            currentMaxIdx = i;
+          } else if (p < currentMax * (1 - threshold)) {
+            extremes.push({ type: 'Peak', date: dates[currentMaxIdx], value: currentMax });
+            state = 'peak';
+            currentMin = p;
+            currentMinIdx = i;
+            currentMax = p;
+            currentMaxIdx = i;
+          }
+        } else {
+          if (p < currentMin) {
+            currentMin = p;
+            currentMinIdx = i;
+          } else if (p > currentMin * (1 + threshold)) {
+            extremes.push({ type: 'Trough', date: dates[currentMinIdx], value: currentMin });
+            state = 'trough';
+            currentMax = p;
+            currentMaxIdx = i;
+            currentMin = p;
+            currentMinIdx = i;
+          }
+        }
+      }
+
+      // Add the final point to show the active running cycle
+      const lastIdx = prices.length - 1;
+      if (lastIdx > 0) {
+        extremes.push({ type: 'Current', date: dates[lastIdx], value: prices[lastIdx] });
+      }
+
+      return extremes;
+    }
+
+    function downloadMacroCycles(productKey) {
+      const extremes = _macroCyclesData[productKey];
+      if (!extremes || extremes.length < 2) return;
+
+      const headers = ['Phase', 'Start Date', 'Start Value', 'End Date', 'End Value', 'Duration Days', 'Move %'];
+      const rows = [];
+
+      for (let i = extremes.length - 1; i > 0; i--) {
+        const end = extremes[i];
+        const start = extremes[i - 1];
+        const pct = ((end.value - start.value) / start.value) * 100;
+        const days = Math.round((end.date - start.date) / (1000 * 60 * 60 * 24));
+        const pctStr = (pct >= 0 ? '+' : '') + pct.toFixed(2) + '%';
+        const phaseType = pct >= 0 ? 'Expansion' : 'Contraction';
+
+        rows.push([
+          phaseType,
+          fmtDate(start.date),
+          start.value.toFixed(2),
+          fmtDate(end.date),
+          end.value.toFixed(2),
+          days,
+          pctStr
+        ]);
+      }
+      downloadCSV(`macro_cycles_${productKey}.csv`, headers, rows);
     }
 
     // =====================================================================
@@ -7130,6 +7317,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       card.innerHTML = buildETFCardHTML(ticker, name, holdings, etfKey, priceHTML, stats52w);
       buildETFDonut(etfKey, holdings);
       renderETFYearlyPerfTable(etfKey);
+      renderMacroCyclesTable(etfKey, `macroCyclesTable_${etfKey}`, `macroCyclesDlBtn_${etfKey}`);
 
       // Wire CSV download buttons (CHANGE 8)
       const dlBtn = card.querySelector(`.etf-dl-btn`);
@@ -7381,6 +7569,22 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         </div>
         <div style="overflow-x:auto">
           <div id="yearlyPerfTable_${etfKey}"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Macro Cycle History (Multi-Year) for ETF -->
+    <div class="collapsible-section mb-20" style="margin-top:16px;">
+      <button class="collapsible-toggle" id="macroCyclesToggle_${etfKey}" onclick="toggleETFMacroCycles('${etfKey}')">
+        <span data-tooltip="Macro Cycle History (Multi-Year) - identifies turning points (peaks and troughs) spanning across calendar years using a 30% threshold. Highlights true multi-year bull runs and bear markets.">Macro Cycle History (Multi-Year)</span>
+        <span class="toggle-arrow">▼</span>
+      </button>
+      <div class="collapsible-content" id="macroCyclesContent_${etfKey}">
+        <div class="flex-row mb-12" style="padding-top:4px">
+          <button class="dl-btn" id="macroCyclesDlBtn_${etfKey}">⬇ Download CSV</button>
+        </div>
+        <div style="overflow-x:auto">
+          <div id="macroCyclesTable_${etfKey}"></div>
         </div>
       </div>
     </div>
