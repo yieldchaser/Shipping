@@ -3972,6 +3972,23 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       return `${y}-${m}-${day}`;
     }
 
+    // fmtDateUser: format a Date object or YYYY-MM-DD string as Month Day, Year (e.g., June 15, 2026)
+    function fmtDateUser(d) {
+      if (!d) return '-';
+      let dateObj = d;
+      if (typeof d === 'string') {
+        const parts = d.split('-');
+        if (parts.length === 3) {
+          dateObj = new Date(parseInt(parts[0]), parseInt(parts[1]) - 1, parseInt(parts[2]));
+        } else {
+          dateObj = new Date(d);
+        }
+      }
+      if (!(dateObj instanceof Date) || isNaN(dateObj.getTime())) return '-';
+      const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+      return `${months[dateObj.getMonth()]} ${dateObj.getDate()}, ${dateObj.getFullYear()}`;
+    }
+
     function fmtPct(n) {
       if (n == null || isNaN(n)) return '-';
       const s = (n >= 0 ? '+' : '') + (n * 100).toFixed(1) + '%';
@@ -4086,9 +4103,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           fillEl.style.width = (pctE - pctS) + '%';
         }
         if (labelEl) {
-          const sd = allRows[s] ? fmtDate(allRows[s].date) : '';
-          const ed = allRows[e] ? fmtDate(allRows[e].date) : '';
-          labelEl.textContent = `${sd} \u2192 ${ed}`;
+          const sd = allRows[s] ? fmtDateUser(allRows[s].date) : '';
+          const ed = allRows[e] ? fmtDateUser(allRows[e].date) : '';
+          labelEl.textContent = `${sd} ➔ ${ed}`;
         }
         // If evt is present, it's a manual UI event.
         onUpdate(!!evt, s, e);
@@ -5535,8 +5552,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const isUSD = ['bdry', 'bwet'].includes(productKey);
         const fmtVal = (val) => isUSD ? `$${fmt(val, 2)}` : fmt(val, 0);
 
-        const startLabel = `${fmtDate(start.date)} (${fmtVal(start.value)})`;
-        const endLabel = `${fmtDate(end.date)} (${fmtVal(end.value)})`;
+        const startLabel = `${fmtDateUser(start.date)} (${fmtVal(start.value)})`;
+        const endLabel = `${fmtDateUser(end.date)} (${fmtVal(end.value)})`;
 
         html += `<tr>
       <td style="text-align:left;font-weight:600;" class="${phaseCls}">${phaseTypeLabel}</td>
@@ -8003,7 +8020,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const row5back = allIdx >= 5 ? allRows[allIdx - 5] : null;
         const chg5d = row5back && row5back[productKey] ? ((row[productKey] - row5back[productKey]) / row5back[productKey] * 100) : null;
 
-        const dateStr = fmtDate(row.date);
+        const dateStr = fmtDateUser(row.date);
 
         const ddStr = dayDelta != null ? (dayDelta >= 0 ? '+' : '') + dayDelta.toFixed(0) : '-';
         const ddPStr = dayDeltaPct != null ? (dayDeltaPct >= 0 ? '+' : '') + dayDeltaPct.toFixed(2) + '%' : '-';
@@ -9534,7 +9551,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             data-tt-val="${roc}"
             data-tt-start-val="${pastRow[key]}"
             data-tt-end-val="${latestVal}"
-            data-tt-start-date="${fmtDate(pastRow.date)}"
+            data-tt-start-date="${fmtDateUser(pastRow.date)}"
             data-tt-title="${ttTitle}">${sign}${roc.toFixed(1)}%</td>`;
         });
         html += '</tr>';
@@ -11681,14 +11698,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const cls = sentClsMap[v] || 'sm-neu';
         const icon = sentIcon[v] || '●';
         const lbl = v.replace(/_/g, ' ');
-        return '<td class="' + cls + '" data-tt-type="sent-cell" data-tt-sent="' + v + '" data-tt-field="' + (field || '') + '" data-tt-date="' + (date || '') + '">' + icon + ' ' + lbl + '</td>';
+        return '<td class="' + cls + '" data-tt-type="sent-cell" data-tt-sent="' + v + '" data-tt-field="' + (field || '') + '" data-tt-date="' + fmtDateUser(date) + '">' + icon + ' ' + lbl + '</td>';
       }
 
       const matrixRows = visibleSigs.map(s =>
-        '<tr>' + sentCell(s.sentiment, 'sentiment', s.date) + sentCell(s.momentum, 'momentum', s.date) + sentCell(s.fundamentals, 'fundamentals', s.date) + '<td class="sm-date">' + (s.date || '-') + '</td></tr>'
+        '<tr>' + sentCell(s.sentiment, 'sentiment', s.date) + sentCell(s.momentum, 'momentum', s.date) + sentCell(s.fundamentals, 'fundamentals', s.date) + '<td class="sm-date">' + fmtDateUser(s.date) + '</td></tr>'
       ).join('');
       const hiddenRows = hiddenSigs.map(s =>
-        '<tr>' + sentCell(s.sentiment, 'sentiment', s.date) + sentCell(s.momentum, 'momentum', s.date) + sentCell(s.fundamentals, 'fundamentals', s.date) + '<td class="sm-date">' + (s.date || '-') + '</td></tr>'
+        '<tr>' + sentCell(s.sentiment, 'sentiment', s.date) + sentCell(s.momentum, 'momentum', s.date) + sentCell(s.fundamentals, 'fundamentals', s.date) + '<td class="sm-date">' + fmtDateUser(s.date) + '</td></tr>'
       ).join('');
 
       const toggleId = 'smToggle_' + sparkId;
@@ -11698,7 +11715,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const tlSegs = [...qualSigs].reverse().map(s => {
         const cls = sentClsMap[s.sentiment] || 'sm-neu';
         const tlCls = cls === 'sm-pos' ? 'tl-pos' : cls === 'sm-neg' ? 'tl-neg' : 'tl-neu';
-        return '<div class="sent-tl-seg ' + tlCls + '" data-tooltip="' + s.date + ': ' + (s.sentiment || 'neutral') + '"></div>';
+        return '<div class="sent-tl-seg ' + tlCls + '" data-tooltip="' + fmtDateUser(s.date) + ': ' + (s.sentiment || 'neutral') + '"></div>';
       }).join('');
 
       // Trend summary
