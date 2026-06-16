@@ -265,7 +265,8 @@ Main overview for the selected index.
 - **Current Year vs Historical Overlay chart** — current year vs user-selected prior years
 - **Drawdown from 52-Week High** — last 3 years
 - **Recent Daily Changes table** — last 10 sessions: day Δ, day Δ%, 5D change %
-- **Yearly Performance table** *(collapsible)* — annual avg, YoY %, min, max, Volatility % (dispersion: (max−min)/avg), Trough→Peak % (theoretical maximum gain)
+- **Yearly Performance table** *(collapsible, sortable)* — annual avg, YoY %, min, max, Volatility % (dispersion: (max−min)/avg), Trough→Peak % (theoretical maximum gain). Features dynamic rank and percentile tooltips on cell hover. Click any header to sort.
+- **Macro Cycle History (Multi-Year)** *(collapsible, sortable)* — identifies historical turning points (peaks and troughs) using a 30% threshold. Features dynamic duration and move magnitude rank/percentile tooltips on cell hover. Click any header to sort.
 - **Index Correlation Matrix** — Pearson correlation for all 7 products, switchable All Time / 5Y / 1Y
 
 ---
@@ -329,15 +330,17 @@ Each card contains:
 5. **Holdings table** — FFA contracts sorted by vessel class → expiry month (nearest first). Scrollable, fixed-height.
 6. **Futures Allocation donut** — normalised to 100% of futures notional (cash excluded)
 7. **Trade route map** — with inline legend (exporting nations / importing nations / routes / BWET focused routes)
-8. **Fundamentals / Data Sources** — sector-specific data links:
-   - BDRY: China Steel & Bulk Demand + Export Flow Indicators (macromicro.me)
-   - BWET: Crude & Product Demand (Trading Economics, EIA) + Key Trade Routes (TradingView: TD3C / TD20)
+8. **Yearly Performance Table** *(collapsible, sortable)* — annual average, YoY %, min, max, Volatility %, and Trough→Peak % with cell tooltips (rank/percentile) and click-to-sort headers.
+9. **Macro Cycle History Table** *(collapsible, sortable)* — 30% threshold macro price cycle phases with duration and move magnitude cell tooltips (rank/percentile) and click-to-sort headers.
+10. **Fundamentals / Data Sources** — sector-specific data links:
+    - BDRY: China Steel & Bulk Demand + Export Flow Indicators (macromicro.me)
+    - BWET: Crude & Product Demand (Trading Economics, EIA) + Key Trade Routes (TradingView: TD3C / TD20)
 #### BDRY & BWET Analytics
 
 - **ETF Historical Volatility** — Annualized HV (Log-return StdDev × √252) computed from BDRY/BWET daily close prices, with regime indicators (Low/Normal/Elevated/Spike).
 - **Cross-Asset Correlation (ETF vs Indices)** — Pearson correlation matrix comparing BDRY/BWET stock prices against all freight indices. Switchable Timeframe (All Time / 5Y / 1Y).
 
-9. **Market Outlook & Research Sources** — categorized market intelligence:
+11. **Market Outlook & Research Sources** — categorized market intelligence:
    - **Research & Insights**: Breakwave Advisors (Research & Insights), BIMCO
    - **Weekly Market Reports**: Fearnleys Weekly Pulse, Baltic Exchange Weekly Roundup
    - **Charter Rate Estimates**: Hellenic Shipping News (Weekly dry/tanker charter estimates)
@@ -428,6 +431,7 @@ Built for performance and visual fidelity across all devices:
 - **Sticky Navigation**: Tab navigation and table headers dock to the top of the viewport for seamless mobile scrolling.
 - **Visual Glow Branding**: The Pirate Logo and Favicon feature a custom dark aura drop-shadow (`0 0 12px rgba(0,0,0,0.9)`) for a premium "dark mode" aesthetic.
 - **Zero-Latency State**: Tab switching and data product filtering (BDI, BCI, etc.) happen instantly via client-side state management.
+- **Human-Friendly Date Formatting**: Key user-facing date displays (Recent Changes, Macro Cycles, and dual range sliders) are standardized to a premium **Month Day, Year** format (e.g. `June 15, 2026`).
 
 ---
 
