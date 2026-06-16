@@ -1,0 +1,62 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-16_2026_06_16_first_reaction_to_the_iran_us_tentative_deal__root",
+  "doc_id": "breakwave_insights_insights_2026-06-16_2026_06_16_first_reaction_to_the_iran_us_tentative_deal",
+  "parent_id": null,
+  "title": "First Reaction to the Iran-US tentative Deal",
+  "section_path": [
+    "First Reaction to the Iran-US tentative Deal"
+  ],
+  "section_path_text": "First Reaction to the Iran-US tentative Deal",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy George Lagarias\nFinancial markets are naturally celebrating the news of a potential deal to be signed by the end of the week between Iran and the US. While we see this development as a net positive, we also see a bumpy road towards normality and some scenarios where the deal falls through. The facts: The tentative bilateral agreement between the United States and Iran, reportedly to be signed this Friday 19th June, represents a critical juncture for global geoeconomics, geopolitics and financial markets, including oil markets.",
+  "keywords": [
+    "crude_oil",
+    "would",
+    "are",
+    "deal",
+    "markets",
+    "case",
+    "iran",
+    "oil",
+    "signed",
+    "agreement",
+    "base",
+    "both"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 748,
+  "source_path": "reports/breakwave/2026/2026-06-16_first-reaction-to-the-iran-us-tentative-deal.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/16/first-reaction-to-the-iran-us-tentative-deal",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-16_2026_06_16_first_reaction_to_the_iran_us_tentative_deal__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-16_2026_06_16_first_reaction_to_the_iran_us_tentative_deal",
+      "parent_id": "breakwave_insights_insights_2026-06-16_2026_06_16_first_reaction_to_the_iran_us_tentative_deal__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By George Lagarias\nFinancial markets are naturally celebrating the news of a potential deal to be signed by the end of the week between Iran and the US. While we see this development as a net positive, we also see a bumpy road towards normality and some scenarios where the deal falls through.",
+      "keywords": [
+        "crude_oil",
+        "would",
+        "are",
+        "deal",
+        "markets",
+        "case",
+        "iran",
+        "oil"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 746,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
