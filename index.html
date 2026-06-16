@@ -4005,6 +4005,24 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       return Math.sqrt(variance);
     }
 
+    function computeChronologicalTroughToPeak(prices) {
+      if (!prices || prices.length < 2) return 0;
+      let maxGainPct = 0;
+      let minPrice = prices[0];
+      for (let i = 1; i < prices.length; i++) {
+        const price = prices[i];
+        if (price < minPrice) {
+          minPrice = price;
+        } else {
+          const gainPct = ((price - minPrice) / minPrice) * 100;
+          if (gainPct > maxGainPct) {
+            maxGainPct = gainPct;
+          }
+        }
+      }
+      return maxGainPct;
+    }
+
     function initDualRangeSlider(idPrefix, allRows, onUpdate) {
       const startEl = document.getElementById(idPrefix + 'Start');
       const endEl = document.getElementById(idPrefix + 'End');
@@ -4975,14 +4993,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const yearlyAvgs = {};
       const yearlyMins = {};
       const yearlyMaxs = {};
+      const yearlyTps = {};
       for (const y of years) {
         const vals = getRows(productKey).filter(r => r.year === y).map(r => r[productKey]);
         yearlyAvgs[y] = vals.length ? mean(vals) : null;
         yearlyMins[y] = vals.length ? Math.min(...vals) : null;
         yearlyMaxs[y] = vals.length ? Math.max(...vals) : null;
+        yearlyTps[y] = vals.length ? computeChronologicalTroughToPeak(vals) : null;
       }
 
-      _yearlyPerfData = { years, yearlyAvgs, yearlyMins, yearlyMaxs };
+      _yearlyPerfData = { years, yearlyAvgs, yearlyMins, yearlyMaxs, yearlyTps };
 
       let html = `<table class="yearly-table">
     <thead><tr>
@@ -4992,7 +5012,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       <th data-tooltip="The absolute lowest daily close recorded during this year.">Min</th>
       <th data-tooltip="The absolute highest daily close recorded during this year.">Max</th>
       <th data-tooltip="Annual price dispersion: (High \u2212 Low) \u00F7 Year Average. Measures how wildly rates moved relative to their baseline \u2014 not a directional return.">Volatility %</th>
-      <th data-tooltip="If someone bought at the yearly low and sold at the yearly high, this is the maximum possible gain. Purely theoretical \u2014 ignores timing.">Trough\u2192Peak %</th>
+      <th data-tooltip="Maximum possible return from a trough to a subsequent peak within the year, enforcing chronological order (buy before sell).">Trough\u2192Peak %</th>
     </tr></thead><tbody>`;
 
       for (let i = 0; i < years.length; i++) {
@@ -5020,8 +5040,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
 
         let tpPct = '-';
-        if (mn != null && mx != null && mn > 0) {
-          tpPct = ((mx - mn) / mn * 100).toFixed(1) + '%';
+        if (yearlyTps[y] != null) {
+          tpPct = yearlyTps[y].toFixed(1) + '%';
         }
 
         html += `<tr>
@@ -5044,7 +5064,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     function downloadYearlyPerf(productKey) {
       if (!_yearlyPerfData) return;
-      const { years, yearlyAvgs, yearlyMins, yearlyMaxs } = _yearlyPerfData;
+      const { years, yearlyAvgs, yearlyMins, yearlyMaxs, yearlyTps } = _yearlyPerfData;
       const headers = ['Year', 'Avg Value', 'YoY %', 'Min', 'Max', 'Volatility %', 'Trough→Peak %'];
       const rows = [];
       for (let i = 0; i < years.length; i++) {
@@ -5052,6 +5072,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const avg = yearlyAvgs[y];
         const mn = yearlyMins[y];
         const mx = yearlyMaxs[y];
+        const tp = yearlyTps[y];
         if (avg == null) continue;
         const priorYear = years[i + 1];
         const priorAvg = priorYear != null ? yearlyAvgs[priorYear] : null;
@@ -5065,8 +5086,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           volPct = ((mx - mn) / Math.abs(avg) * 100).toFixed(2) + '%';
         }
         let tpPct = '';
-        if (mn != null && mx != null && mn > 0) {
-          tpPct = ((mx - mn) / mn * 100).toFixed(2) + '%';
+        if (tp != null) {
+          tpPct = tp.toFixed(2) + '%';
         }
         rows.push([y, avg != null ? avg.toFixed(2) : '', yoyStr, mn != null ? mn.toFixed(2) : '', mx != null ? mx.toFixed(2) : '', volPct, tpPct]);
       }
@@ -5098,14 +5119,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const yearlyAvgs = {};
       const yearlyMins = {};
       const yearlyMaxs = {};
+      const yearlyTps = {};
       for (const y of years) {
         const vals = getRows(etfKey).filter(r => r.year === y).map(r => r[etfKey]);
         yearlyAvgs[y] = vals.length ? mean(vals) : null;
         yearlyMins[y] = vals.length ? Math.min(...vals) : null;
         yearlyMaxs[y] = vals.length ? Math.max(...vals) : null;
+        yearlyTps[y] = vals.length ? computeChronologicalTroughToPeak(vals) : null;
       }
 
-      _yearlyPerfDataETF[etfKey] = { years, yearlyAvgs, yearlyMins, yearlyMaxs };
+      _yearlyPerfDataETF[etfKey] = { years, yearlyAvgs, yearlyMins, yearlyMaxs, yearlyTps };
 
       let html = `<table class="yearly-table">
     <thead><tr>
@@ -5115,7 +5138,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       <th data-tooltip="The absolute lowest daily close recorded during this year.">Min</th>
       <th data-tooltip="The absolute highest daily close recorded during this year.">Max</th>
       <th data-tooltip="Annual price dispersion: (High \u2212 Low) \u00F7 Year Average. Measures how wildly rates moved relative to their baseline \u2014 not a directional return.">Volatility %</th>
-      <th data-tooltip="If someone bought at the yearly low and sold at the yearly high, this is the maximum possible gain. Purely theoretical \u2014 ignores timing.">Trough\u2192Peak %</th>
+      <th data-tooltip="Maximum possible return from a trough to a subsequent peak within the year, enforcing chronological order (buy before sell).">Trough\u2192Peak %</th>
     </tr></thead><tbody>`;
 
       let hasData = false;
@@ -5146,8 +5169,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
 
         let tpPct = '-';
-        if (mn != null && mx != null && mn > 0) {
-          tpPct = ((mx - mn) / mn * 100).toFixed(1) + '%';
+        if (yearlyTps[y] != null) {
+          tpPct = yearlyTps[y].toFixed(1) + '%';
         }
 
         html += `<tr>
@@ -5177,7 +5200,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function downloadETFYearlyPerf(etfKey) {
       const data = _yearlyPerfDataETF[etfKey];
       if (!data) return;
-      const { years, yearlyAvgs, yearlyMins, yearlyMaxs } = data;
+      const { years, yearlyAvgs, yearlyMins, yearlyMaxs, yearlyTps } = data;
       const headers = ['Year', 'Avg Value', 'YoY %', 'Min', 'Max', 'Volatility %', 'Trough→Peak %'];
       const rows = [];
       for (let i = 0; i < years.length; i++) {
@@ -5185,6 +5208,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const avg = yearlyAvgs[y];
         const mn = yearlyMins[y];
         const mx = yearlyMaxs[y];
+        const tp = yearlyTps[y];
         if (avg == null) continue;
 
         const priorYear = years[i + 1];
@@ -5199,8 +5223,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           volPct = ((mx - mn) / Math.abs(avg) * 100).toFixed(2) + '%';
         }
         let tpPct = '';
-        if (mn != null && mx != null && mn > 0) {
-          tpPct = ((mx - mn) / mn * 100).toFixed(2) + '%';
+        if (tp != null) {
+          tpPct = tp.toFixed(2) + '%';
         }
         rows.push([y, avg.toFixed(2), yoyStr, mn.toFixed(2), mx.toFixed(2), volPct, tpPct]);
       }
@@ -12529,7 +12553,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
              if (!vals.length) continue;
              const yAvg = mean(vals), yMn = Math.min(...vals), yMx = Math.max(...vals);
              if (metric === 'Volatility') history.push(((yMx - yMn) / Math.abs(yAvg) * 100));
-             if (metric === 'Trough→Peak') history.push(((yMx - yMn) / yMn * 100));
+             if (metric === 'Trough→Peak') history.push(computeChronologicalTroughToPeak(vals));
           }
           const rank = history.filter(v => v > (value + 0.001)).length + 1;
           const topPct = ((rank / history.length) * 100).toFixed(0);
@@ -12804,7 +12828,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         'Last 5 Years Drawdown (%)': 'The depth of drops from 52-week peaks charted out historically.',
         'Historical Volatility (Annualized)': 'Annualized standard deviation of daily log returns, grouping price swings into volatility regimes.',
         'Volatility %': 'Annual price dispersion: (High \u2212 Low) \u00F7 Year Average. Measures how wildly rates moved relative to their baseline \u2014 not a directional return.',
-        'Trough\u2192Peak %': 'If someone bought at the yearly low and sold at the yearly high, this is the maximum possible gain. Purely theoretical \u2014 ignores timing.',
+        'Trough\u2192Peak %': 'Maximum possible return from a trough to a subsequent peak within the year, enforcing chronological order (buy before sell).',
         'Total Futures': 'Aggregate notional value of all forward freight agreements currently held.',
         'Collateral Cash': 'Treasury bills or cash equivalents held to margin the futures position.',
         'Futures / AUM': 'Notional futures exposure relative to total net assets. Often drifts >100% via leverage.',
