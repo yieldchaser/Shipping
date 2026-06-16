@@ -5002,6 +5002,22 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     let _yearlyPerfProductKey = null;
     let _yearlyPerfData = null;
 
+    window.yearlySortState = {};
+    window.sortYearlyTable = function(productKey, column) {
+      if (!window.yearlySortState) window.yearlySortState = {};
+      if (!window.yearlySortState[productKey]) {
+        window.yearlySortState[productKey] = { column: 'year', ascending: false };
+      }
+      const state = window.yearlySortState[productKey];
+      if (state.column === column) {
+        state.ascending = !state.ascending;
+      } else {
+        state.column = column;
+        state.ascending = false;
+      }
+      renderYearlyPerfTable(productKey);
+    };
+
     function renderYearlyPerfTable(productKey) {
       _yearlyPerfProductKey = productKey;
       const years = [...DATA.years].reverse();
@@ -5021,17 +5037,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       _yearlyPerfData = { years, yearlyAvgs, yearlyMins, yearlyMaxs, yearlyTps };
 
-      let html = `<table class="yearly-table">
-    <thead><tr>
-      <th data-tooltip="The calendar year.">Year</th>
-      <th data-tooltip="The arithmetic mean of all daily closes within this year.">Avg Value</th>
-      <th data-tooltip="Year-over-Year percentage change in the Average Value compared to the previous calendar year.">YoY %</th>
-      <th data-tooltip="The absolute lowest daily close recorded during this year.">Min</th>
-      <th data-tooltip="The absolute highest daily close recorded during this year.">Max</th>
-      <th data-tooltip="Annual price dispersion: (High \u2212 Low) \u00F7 Year Average. Measures how wildly rates moved relative to their baseline \u2014 not a directional return.">Volatility %</th>
-      <th data-tooltip="Maximum possible return from a trough to a subsequent peak within the year, enforcing chronological order (buy before sell).">Trough\u2192Peak %</th>
-    </tr></thead><tbody>`;
-
+      // Build yearRows for sorting
+      const yearRows = [];
       for (let i = 0; i < years.length; i++) {
         const y = years[i];
         const avg = yearlyAvgs[y];
@@ -5039,34 +5046,103 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const mx = yearlyMaxs[y];
         if (avg == null) continue;
 
-        // Prior year avg (years are descending, so prior = years[i+1])
-        const priorYear = years[i + 1];
-        const priorAvg = priorYear != null ? yearlyAvgs[priorYear] : null;
+        const priorYear = y - 1;
+        const priorAvg = yearlyAvgs[priorYear];
         let yoyPct = null;
-        let yoyCls = '';
-        let yoyStr = '-';
         if (priorAvg != null && priorAvg !== 0) {
           yoyPct = ((avg - priorAvg) / priorAvg) * 100;
+        }
+
+        let volPctVal = null;
+        if (mn != null && mx != null && avg != null && avg !== 0) {
+          volPctVal = ((mx - mn) / Math.abs(avg) * 100);
+        }
+
+        const tp = yearlyTps[y];
+
+        yearRows.push({
+          year: y,
+          avg,
+          yoyPct,
+          min: mn,
+          max: mx,
+          volPctVal,
+          tp
+        });
+      }
+
+      // Sort
+      const sort = window.yearlySortState[productKey] || { column: 'year', ascending: false };
+      if (sort.column) {
+        yearRows.sort((a, b) => {
+          let valA, valB;
+          if (sort.column === 'year') { valA = a.year; valB = b.year; }
+          else if (sort.column === 'avg') { valA = a.avg; valB = b.avg; }
+          else if (sort.column === 'yoy') { valA = a.yoyPct; valB = b.yoyPct; }
+          else if (sort.column === 'min') { valA = a.min; valB = b.min; }
+          else if (sort.column === 'max') { valA = a.max; valB = b.max; }
+          else if (sort.column === 'vol') { valA = a.volPctVal; valB = b.volPctVal; }
+          else if (sort.column === 'tp') { valA = a.tp; valB = b.tp; }
+
+          if (valA == null) return 1;
+          if (valB == null) return -1;
+          if (valA < valB) return sort.ascending ? -1 : 1;
+          if (valA > valB) return sort.ascending ? 1 : -1;
+          return 0;
+        });
+      }
+
+      const getIndicator = (col) => {
+        if (sort.column !== col) return '';
+        return sort.ascending ? ' ▲' : ' ▼';
+      };
+
+      const isUSD = ['bdry', 'bwet'].includes(productKey);
+
+      let html = `<table class="yearly-table">
+    <thead><tr>
+      <th onclick="sortYearlyTable('${productKey}', 'year')" style="cursor:pointer;" data-tooltip="The calendar year.">Year${getIndicator('year')}</th>
+      <th onclick="sortYearlyTable('${productKey}', 'avg')" style="cursor:pointer;" data-tooltip="The arithmetic mean of all daily closes within this year.">Avg Value${getIndicator('avg')}</th>
+      <th onclick="sortYearlyTable('${productKey}', 'yoy')" style="cursor:pointer;" data-tooltip="Year-over-Year percentage change in the Average Value compared to the previous calendar year.">YoY %${getIndicator('yoy')}</th>
+      <th onclick="sortYearlyTable('${productKey}', 'min')" style="cursor:pointer;" data-tooltip="The absolute lowest daily close recorded during this year.">Min${getIndicator('min')}</th>
+      <th onclick="sortYearlyTable('${productKey}', 'max')" style="cursor:pointer;" data-tooltip="The absolute highest daily close recorded during this year.">Max${getIndicator('max')}</th>
+      <th onclick="sortYearlyTable('${productKey}', 'vol')" style="cursor:pointer;" data-tooltip="Annual price dispersion: (High − Low) ÷ Year Average. Measures how wildly rates moved relative to their baseline — not a directional return.">Volatility %${getIndicator('vol')}</th>
+      <th onclick="sortYearlyTable('${productKey}', 'tp')" style="cursor:pointer;" data-tooltip="Maximum possible return from a trough to a subsequent peak within the year, enforcing chronological order (buy before sell).">Trough→Peak %${getIndicator('tp')}</th>
+    </tr></thead><tbody>`;
+
+      for (let i = 0; i < yearRows.length; i++) {
+        const row = yearRows[i];
+        const y = row.year;
+        const avg = row.avg;
+        const mn = row.min;
+        const mx = row.max;
+        const yoyPct = row.yoyPct;
+
+        let yoyCls = '';
+        let yoyStr = '-';
+        if (yoyPct != null) {
           yoyStr = (yoyPct >= 0 ? '+' : '') + yoyPct.toFixed(1) + '%';
           yoyCls = yoyPct >= 0 ? 'val-green' : 'val-red';
         }
 
         let volPct = '-';
-        if (mn != null && mx != null && avg != null && avg !== 0) {
-          volPct = ((mx - mn) / Math.abs(avg) * 100).toFixed(1) + '%';
+        if (row.volPctVal != null) {
+          volPct = row.volPctVal.toFixed(1) + '%';
         }
 
         let tpPct = '-';
-        if (yearlyTps[y] != null) {
-          tpPct = yearlyTps[y].toFixed(1) + '%';
+        if (row.tp != null) {
+          tpPct = row.tp.toFixed(1) + '%';
         }
+
+        const yoyAttr = yoyPct != null ? `data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="YoY %" data-tt-val="${yoyPct}" data-tt-title="${y} YoY %"` : '';
 
         html += `<tr>
       <td>${y}</td>
-      <td>${fmt(avg, 0)}</td>
-      <td class="${yoyCls}">${yoyStr}</td>
-      <td>${fmt(mn, 0)}</td>
-      <td>${fmt(mx, 0)}</td>
+      <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Avg Value" data-tt-val="${avg}" data-tt-title="${y} Average Value">${isUSD ? '$' + fmt(avg, 2) : fmt(avg, 0)}</td>
+      <td class="${yoyCls}" ${yoyAttr}>${yoyStr}</td>
+      <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Min" data-tt-val="${mn}" data-tt-title="${y} Minimum Value">${isUSD ? '$' + fmt(mn, 2) : fmt(mn, 0)}</td>
+      <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Max" data-tt-val="${mx}" data-tt-title="${y} Maximum Value">${isUSD ? '$' + fmt(mx, 2) : fmt(mx, 0)}</td>
       <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Volatility" data-tt-val="${volPct}" data-tt-title="${y} Volatility">${volPct}</td>
       <td class="val-green" data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${productKey}" data-tt-year="${y}" data-tt-metric="Trough→Peak" data-tt-val="${tpPct}" data-tt-title="${y} Trough→Peak">${tpPct}</td>
     </tr>`;
@@ -5091,8 +5167,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const mx = yearlyMaxs[y];
         const tp = yearlyTps[y];
         if (avg == null) continue;
-        const priorYear = years[i + 1];
-        const priorAvg = priorYear != null ? yearlyAvgs[priorYear] : null;
+        const priorYear = y - 1;
+        const priorAvg = yearlyAvgs[priorYear];
         let yoyStr = '';
         if (priorAvg != null && priorAvg !== 0) {
           const yoy = ((avg - priorAvg) / priorAvg) * 100;
@@ -5128,6 +5204,22 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     }
 
     let _yearlyPerfDataETF = {};
+    window.yearlySortStateETF = {};
+
+    window.sortETFYearlyTable = function(etfKey, column) {
+      if (!window.yearlySortStateETF) window.yearlySortStateETF = {};
+      if (!window.yearlySortStateETF[etfKey]) {
+        window.yearlySortStateETF[etfKey] = { column: 'year', ascending: false };
+      }
+      const state = window.yearlySortStateETF[etfKey];
+      if (state.column === column) {
+        state.ascending = !state.ascending;
+      } else {
+        state.column = column;
+        state.ascending = false;
+      }
+      renderETFYearlyPerfTable(etfKey);
+    };
 
     function renderETFYearlyPerfTable(etfKey) {
       const years = [...DATA.years].reverse();
@@ -5147,18 +5239,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       _yearlyPerfDataETF[etfKey] = { years, yearlyAvgs, yearlyMins, yearlyMaxs, yearlyTps };
 
-      let html = `<table class="yearly-table">
-    <thead><tr>
-      <th data-tooltip="The calendar year.">Year</th>
-      <th data-tooltip="The arithmetic mean of all daily closes within this year.">Avg Value</th>
-      <th data-tooltip="Year-over-Year percentage change in the Average Value compared to the previous calendar year.">YoY %</th>
-      <th data-tooltip="The absolute lowest daily close recorded during this year.">Min</th>
-      <th data-tooltip="The absolute highest daily close recorded during this year.">Max</th>
-      <th data-tooltip="Annual price dispersion: (High \u2212 Low) \u00F7 Year Average. Measures how wildly rates moved relative to their baseline \u2014 not a directional return.">Volatility %</th>
-      <th data-tooltip="Maximum possible return from a trough to a subsequent peak within the year, enforcing chronological order (buy before sell).">Trough\u2192Peak %</th>
-    </tr></thead><tbody>`;
-
-      let hasData = false;
+      // Build yearRows for sorting
+      const yearRows = [];
       for (let i = 0; i < years.length; i++) {
         const y = years[i];
         const avg = yearlyAvgs[y];
@@ -5166,36 +5248,104 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const mx = yearlyMaxs[y];
         if (avg == null) continue;
 
-        hasData = true;
-
-        // Prior year avg
-        const priorYear = years[i + 1];
-        const priorAvg = priorYear != null ? yearlyAvgs[priorYear] : null;
+        const priorYear = y - 1;
+        const priorAvg = yearlyAvgs[priorYear];
         let yoyPct = null;
-        let yoyCls = '';
-        let yoyStr = '-';
         if (priorAvg != null && priorAvg !== 0) {
           yoyPct = ((avg - priorAvg) / priorAvg) * 100;
+        }
+
+        let volPctVal = null;
+        if (mn != null && mx != null && avg != null && avg !== 0) {
+          volPctVal = ((mx - mn) / Math.abs(avg) * 100);
+        }
+
+        const tp = yearlyTps[y];
+
+        yearRows.push({
+          year: y,
+          avg,
+          yoyPct,
+          min: mn,
+          max: mx,
+          volPctVal,
+          tp
+        });
+      }
+
+      // Sort
+      const sort = window.yearlySortStateETF[etfKey] || { column: 'year', ascending: false };
+      if (sort.column) {
+        yearRows.sort((a, b) => {
+          let valA, valB;
+          if (sort.column === 'year') { valA = a.year; valB = b.year; }
+          else if (sort.column === 'avg') { valA = a.avg; valB = b.avg; }
+          else if (sort.column === 'yoy') { valA = a.yoyPct; valB = b.yoyPct; }
+          else if (sort.column === 'min') { valA = a.min; valB = b.min; }
+          else if (sort.column === 'max') { valA = a.max; valB = b.max; }
+          else if (sort.column === 'vol') { valA = a.volPctVal; valB = b.volPctVal; }
+          else if (sort.column === 'tp') { valA = a.tp; valB = b.tp; }
+
+          if (valA == null) return 1;
+          if (valB == null) return -1;
+          if (valA < valB) return sort.ascending ? -1 : 1;
+          if (valA > valB) return sort.ascending ? 1 : -1;
+          return 0;
+        });
+      }
+
+      const getIndicator = (col) => {
+        if (sort.column !== col) return '';
+        return sort.ascending ? ' ▲' : ' ▼';
+      };
+
+      let html = `<table class="yearly-table">
+    <thead><tr>
+      <th onclick="sortETFYearlyTable('${etfKey}', 'year')" style="cursor:pointer;" data-tooltip="The calendar year.">Year${getIndicator('year')}</th>
+      <th onclick="sortETFYearlyTable('${etfKey}', 'avg')" style="cursor:pointer;" data-tooltip="The arithmetic mean of all daily closes within this year.">Avg Value${getIndicator('avg')}</th>
+      <th onclick="sortETFYearlyTable('${etfKey}', 'yoy')" style="cursor:pointer;" data-tooltip="Year-over-Year percentage change in the Average Value compared to the previous calendar year.">YoY %${getIndicator('yoy')}</th>
+      <th onclick="sortETFYearlyTable('${etfKey}', 'min')" style="cursor:pointer;" data-tooltip="The absolute lowest daily close recorded during this year.">Min${getIndicator('min')}</th>
+      <th onclick="sortETFYearlyTable('${etfKey}', 'max')" style="cursor:pointer;" data-tooltip="The absolute highest daily close recorded during this year.">Max${getIndicator('max')}</th>
+      <th onclick="sortETFYearlyTable('${etfKey}', 'vol')" style="cursor:pointer;" data-tooltip="Annual price dispersion: (High − Low) ÷ Year Average. Measures how wildly rates moved relative to their baseline — not a directional return.">Volatility %${getIndicator('vol')}</th>
+      <th onclick="sortETFYearlyTable('${etfKey}', 'tp')" style="cursor:pointer;" data-tooltip="Maximum possible return from a trough to a subsequent peak within the year, enforcing chronological order (buy before sell).">Trough→Peak %${getIndicator('tp')}</th>
+    </tr></thead><tbody>`;
+
+      let hasData = false;
+      for (let i = 0; i < yearRows.length; i++) {
+        const row = yearRows[i];
+        const y = row.year;
+        const avg = row.avg;
+        const mn = row.min;
+        const mx = row.max;
+        const yoyPct = row.yoyPct;
+
+        hasData = true;
+
+        let yoyCls = '';
+        let yoyStr = '-';
+        if (yoyPct != null) {
           yoyStr = (yoyPct >= 0 ? '+' : '') + yoyPct.toFixed(1) + '%';
           yoyCls = yoyPct >= 0 ? 'val-green' : 'val-red';
         }
 
         let volPct = '-';
-        if (mn != null && mx != null && avg != null && avg !== 0) {
-          volPct = ((mx - mn) / Math.abs(avg) * 100).toFixed(1) + '%';
+        if (row.volPctVal != null) {
+          volPct = row.volPctVal.toFixed(1) + '%';
         }
 
         let tpPct = '-';
-        if (yearlyTps[y] != null) {
-          tpPct = yearlyTps[y].toFixed(1) + '%';
+        if (row.tp != null) {
+          tpPct = row.tp.toFixed(1) + '%';
         }
+
+        const yoyAttr = yoyPct != null ? `data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${etfKey}" data-tt-year="${y}" data-tt-metric="YoY %" data-tt-val="${yoyPct}" data-tt-title="${y} YoY %"` : '';
 
         html += `<tr>
       <td>${y}</td>
-      <td>$${fmt(avg, 2)}</td>
-      <td class="${yoyCls}">${yoyStr}</td>
-      <td>$${fmt(mn, 2)}</td>
-      <td>$${fmt(mx, 2)}</td>
+      <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${etfKey}" data-tt-year="${y}" data-tt-metric="Avg Value" data-tt-val="${avg}" data-tt-title="${y} Average Value">$${fmt(avg, 2)}</td>
+      <td class="${yoyCls}" ${yoyAttr}>${yoyStr}</td>
+      <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${etfKey}" data-tt-year="${y}" data-tt-metric="Min" data-tt-val="${mn}" data-tt-title="${y} Minimum Value">$${fmt(mn, 2)}</td>
+      <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${etfKey}" data-tt-year="${y}" data-tt-metric="Max" data-tt-val="${mx}" data-tt-title="${y} Maximum Value">$${fmt(mx, 2)}</td>
       <td data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${etfKey}" data-tt-year="${y}" data-tt-metric="Volatility" data-tt-val="${volPct}" data-tt-title="${y} Volatility">${volPct}</td>
       <td class="val-green" data-tooltip=" " data-tt-type="perf-cell" data-tt-product="${etfKey}" data-tt-year="${y}" data-tt-metric="Trough→Peak" data-tt-val="${tpPct}" data-tt-title="${y} Trough→Peak">${tpPct}</td>
     </tr>`;
@@ -5228,8 +5378,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const tp = yearlyTps[y];
         if (avg == null) continue;
 
-        const priorYear = years[i + 1];
-        const priorAvg = priorYear != null ? yearlyAvgs[priorYear] : null;
+        const priorYear = y - 1;
+        const priorAvg = yearlyAvgs[priorYear];
         let yoyStr = '-';
         if (priorAvg != null && priorAvg !== 0) {
           const yoyPct = ((avg - priorAvg) / priorAvg) * 100;
@@ -5268,6 +5418,23 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
     let _macroCyclesData = {};
 
+    window.macroSortState = {};
+
+    window.sortMacroTable = function(productKey, column, containerId, dlBtnId) {
+      if (!window.macroSortState) window.macroSortState = {};
+      if (!window.macroSortState[productKey]) {
+        window.macroSortState[productKey] = { column: 'default', ascending: false };
+      }
+      const state = window.macroSortState[productKey];
+      if (state.column === column) {
+        state.ascending = !state.ascending;
+      } else {
+        state.column = column;
+        state.ascending = (column === 'phase' || column === 'start' || column === 'end') ? true : false;
+      }
+      renderMacroCyclesTable(productKey, containerId, dlBtnId);
+    };
+
     function renderMacroCyclesTable(productKey, containerId, dlBtnId) {
       const rows = getRows(productKey);
       const container = document.getElementById(containerId);
@@ -5290,26 +5457,79 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         return;
       }
 
-      let html = `<table class="yearly-table">
-    <thead><tr>
-      <th style="text-align:left;" data-tooltip="The phase of the cycle: Expansion (Bull Run) or Contraction (Bear Market).">Cycle Phase</th>
-      <th data-tooltip="The starting date and value/rate of this cycle phase.">Start Point</th>
-      <th data-tooltip="The ending date and value/rate of this cycle phase.">End Point</th>
-      <th data-tooltip="The duration of the cycle phase in calendar days.">Duration</th>
-      <th data-tooltip="Percentage return from start value to end value.">Move %</th>
-    </tr></thead><tbody>`;
-
+      // Build cycle items list
+      const cycles = [];
       for (let i = extremes.length - 1; i > 0; i--) {
         const end = extremes[i];
         const start = extremes[i - 1];
-
         const pct = ((end.value - start.value) / start.value) * 100;
         const days = Math.round((end.date - start.date) / (1000 * 60 * 60 * 24));
+        cycles.push({
+          start,
+          end,
+          pct,
+          days,
+          phaseType: pct >= 0 ? 'Expansion' : 'Contraction'
+        });
+      }
+
+      // Apply sorting if set
+      if (!window.macroSortState) window.macroSortState = {};
+      const sort = window.macroSortState[productKey] || { column: 'default', ascending: false };
+      
+      if (sort.column !== 'default') {
+        cycles.sort((a, b) => {
+          let valA, valB;
+          if (sort.column === 'phase') {
+            valA = a.phaseType;
+            valB = b.phaseType;
+          } else if (sort.column === 'start') {
+            valA = a.start.date;
+            valB = b.start.date;
+          } else if (sort.column === 'end') {
+            valA = a.end.date;
+            valB = b.end.date;
+          } else if (sort.column === 'duration') {
+            valA = a.days;
+            valB = b.days;
+          } else if (sort.column === 'move') {
+            valA = a.pct;
+            valB = b.pct;
+          }
+          if (valA == null) return 1;
+          if (valB == null) return -1;
+          if (valA < valB) return sort.ascending ? -1 : 1;
+          if (valA > valB) return sort.ascending ? 1 : -1;
+          return 0;
+        });
+      }
+
+      const getIndicator = (col) => {
+        if (sort.column !== col) return '';
+        return sort.ascending ? ' ▲' : ' ▼';
+      };
+
+      let html = `<table class="yearly-table">
+    <thead><tr>
+      <th onclick="sortMacroTable('${productKey}', 'phase', '${containerId}', '${dlBtnId}')" style="cursor:pointer;text-align:left;" data-tooltip="The phase of the cycle: Expansion (Bull Run) or Contraction (Bear Market).">Cycle Phase${getIndicator('phase')}</th>
+      <th onclick="sortMacroTable('${productKey}', 'start', '${containerId}', '${dlBtnId}')" style="cursor:pointer;" data-tooltip="The starting date and value/rate of this cycle phase.">Start Point${getIndicator('start')}</th>
+      <th onclick="sortMacroTable('${productKey}', 'end', '${containerId}', '${dlBtnId}')" style="cursor:pointer;" data-tooltip="The ending date and value/rate of this cycle phase.">End Point${getIndicator('end')}</th>
+      <th onclick="sortMacroTable('${productKey}', 'duration', '${containerId}', '${dlBtnId}')" style="cursor:pointer;" data-tooltip="The duration of the cycle phase in calendar days.">Duration${getIndicator('duration')}</th>
+      <th onclick="sortMacroTable('${productKey}', 'move', '${containerId}', '${dlBtnId}')" style="cursor:pointer;" data-tooltip="Percentage return from start value to end value.">Move %${getIndicator('move')}</th>
+    </tr></thead><tbody>`;
+
+      for (let i = 0; i < cycles.length; i++) {
+        const item = cycles[i];
+        const start = item.start;
+        const end = item.end;
+        const pct = item.pct;
+        const days = item.days;
+
         const durationStr = `${days} days` + (days >= 30 ? ` (~${(days / 30.4).toFixed(1)}m)` : '');
         const pctStr = (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%';
         const pctCls = pct >= 0 ? 'val-green' : 'val-red';
 
-        const phaseType = pct >= 0 ? '📈 Expansion' : '📉 Contraction';
+        const phaseTypeLabel = pct >= 0 ? '📈 Expansion' : '📉 Contraction';
         const phaseCls = pct >= 0 ? 'val-green' : 'val-red';
 
         const isUSD = ['bdry', 'bwet'].includes(productKey);
@@ -5319,11 +5539,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const endLabel = `${fmtDate(end.date)} (${fmtVal(end.value)})`;
 
         html += `<tr>
-      <td style="text-align:left;font-weight:600;" class="${phaseCls}">${phaseType}</td>
+      <td style="text-align:left;font-weight:600;" class="${phaseCls}">${phaseTypeLabel}</td>
       <td>${startLabel}</td>
       <td>${endLabel}</td>
-      <td>${durationStr}</td>
-      <td class="${pctCls}" style="font-weight:700;">${pctStr}</td>
+      <td data-tooltip=" " data-tt-type="macro-cycle-cell" data-tt-product="${productKey}" data-tt-phase-type="${item.phaseType}" data-tt-metric="Duration" data-tt-val="${days}" data-tt-title="Cycle Duration">${durationStr}</td>
+      <td class="${pctCls}" style="font-weight:700;" data-tooltip=" " data-tt-type="macro-cycle-cell" data-tt-product="${productKey}" data-tt-phase-type="${item.phaseType}" data-tt-metric="Move" data-tt-val="${pct}" data-tt-title="Cycle Move %">${pctStr}</td>
     </tr>`;
       }
 
@@ -12747,24 +12967,119 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         }
         else if (type === 'perf-cell') {
           const metric = target.getAttribute('data-tt-metric');
-          const rawVal = target.getAttribute('data-tt-val'); // string like "12.5%"
+          const rawVal = target.getAttribute('data-tt-val');
           const value = parseFloat(rawVal);
 
-          const history = [];
-          for (const yk in DATA.byYearProduct[pk] || DATA.byYear) {
-             const rows = (DATA.byYearProduct[pk] || DATA.byYear)[yk];
-             const vals = rows.filter(r => r[pk] != null).map(r => r[pk]);
-             if (!vals.length) continue;
-             const yAvg = mean(vals), yMn = Math.min(...vals), yMx = Math.max(...vals);
-             if (metric === 'Volatility') history.push(((yMx - yMn) / Math.abs(yAvg) * 100));
-             if (metric === 'Trough→Peak') history.push(computeChronologicalTroughToPeak(vals));
+          let history = [];
+          if (metric === 'YoY %') {
+            const yearsSorted = Object.keys(DATA.byYearProduct[pk] || DATA.byYear).map(Number).sort((a,b) => a-b);
+            const averages = {};
+            for (const yk of yearsSorted) {
+              const rows = (DATA.byYearProduct[pk] || DATA.byYear)[yk];
+              const vals = rows.filter(r => r[pk] != null).map(r => r[pk]);
+              averages[yk] = vals.length ? mean(vals) : null;
+            }
+            for (let j = 0; j < yearsSorted.length; j++) {
+              const yk = yearsSorted[j];
+              const currAvg = averages[yk];
+              const prevYear = yearsSorted[j-1];
+              const prevAvg = prevYear != null ? averages[prevYear] : null;
+              if (currAvg != null && prevAvg != null && prevAvg !== 0) {
+                const yoy = ((currAvg - prevAvg) / prevAvg) * 100;
+                history.push(yoy);
+              }
+            }
+          } else {
+            for (const yk in DATA.byYearProduct[pk] || DATA.byYear) {
+              const rows = (DATA.byYearProduct[pk] || DATA.byYear)[yk];
+              const vals = rows.filter(r => r[pk] != null).map(r => r[pk]);
+              if (!vals.length) continue;
+              const yAvg = mean(vals), yMn = Math.min(...vals), yMx = Math.max(...vals);
+              if (metric === 'Volatility') history.push(((yMx - yMn) / Math.abs(yAvg) * 100));
+              else if (metric === 'Trough→Peak') history.push(computeChronologicalTroughToPeak(vals));
+              else if (metric === 'Avg Value') history.push(yAvg);
+              else if (metric === 'Min') history.push(yMn);
+              else if (metric === 'Max') history.push(yMx);
+            }
           }
-          const rank = history.filter(v => v > (value + 0.001)).length + 1;
+
+          const rank = history.filter(v => v > (value + 0.0001)).length + 1;
           const topPct = ((rank / history.length) * 100).toFixed(0);
+          const pctl = 100 - parseInt(topPct);
+          const pctlCls = pctl >= 75 ? 'pos' : pctl <= 25 ? 'neg' : '';
 
           html += `<div class="rt-row"><span class="rt-label">Historical Rank</span><span class="rt-val">#${rank} of ${history.length}</span></div>`;
-          html += `<div class="rt-row"><span class="rt-label">Percentile</span><span class="rt-val">${100 - topPct}% percentile</span></div>`;
-          html += `<div class="rt-note">Comparing ${metric} intensity across all years.</div>`;
+          html += `<div class="rt-row"><span class="rt-label">Percentile</span><span class="rt-val ${pctlCls}">${pctl}% percentile</span></div>`;
+
+          let displayVal = value.toFixed(1);
+          if (metric === 'Avg Value' || metric === 'Min' || metric === 'Max') {
+            const isUSD = ['bdry', 'bwet'].includes(pk);
+            displayVal = isUSD ? `$${value.toLocaleString(undefined, {minimumFractionDigits:2, maximumFractionDigits:2})}` : value.toLocaleString(undefined, {maximumFractionDigits:0});
+          } else {
+            displayVal = (value >= 0 && metric === 'YoY %' ? '+' : '') + value.toFixed(1) + '%';
+          }
+          html += `<div class="rt-row"><span class="rt-label">Value</span><span class="rt-val">${displayVal}</span></div>`;
+
+          let noteText = '';
+          if (metric === 'Volatility') noteText = 'Annual price dispersion: (High − Low) ÷ Average.';
+          else if (metric === 'Trough→Peak') noteText = 'Maximum return from chronological trough to peak.';
+          else if (metric === 'Avg Value') noteText = 'Arithmetic mean of daily closes for the year.';
+          else if (metric === 'YoY %') noteText = 'Year-over-Year change in Average Value.';
+          else if (metric === 'Min') noteText = 'Lowest daily close recorded in this year.';
+          else if (metric === 'Max') noteText = 'Highest daily close recorded in this year.';
+          html += `<div class="rt-note">${noteText} Benchmarked against all historical years.</div>`;
+        }
+
+        else if (type === 'macro-cycle-cell') {
+          const phaseType = target.getAttribute('data-tt-phase-type');
+          const metric = target.getAttribute('data-tt-metric');
+          const val = parseFloat(target.getAttribute('data-tt-val'));
+
+          const rows = getRows(pk);
+          if (rows && rows.length) {
+            const prices = rows.map(r => r[pk]);
+            const dates = rows.map(r => r.date);
+            const extremes = detectMacroCycles(prices, dates, 0.30);
+            
+            const history = [];
+            for (let i = extremes.length - 1; i > 0; i--) {
+              const end = extremes[i];
+              const start = extremes[i - 1];
+              const pct = ((end.value - start.value) / start.value) * 100;
+              const isExpansion = pct >= 0;
+              
+              if ((phaseType === 'Expansion' && isExpansion) || (phaseType === 'Contraction' && !isExpansion)) {
+                if (metric === 'Duration') {
+                  const days = Math.round((end.date - start.date) / (1000 * 60 * 60 * 24));
+                  history.push(days);
+                } else if (metric === 'Move') {
+                  history.push(pct);
+                }
+              }
+            }
+
+            let rank = 1;
+            if (metric === 'Move' && phaseType === 'Contraction') {
+              rank = history.filter(v => v < (val - 0.001)).length + 1;
+            } else {
+              rank = history.filter(v => v > (val + 0.001)).length + 1;
+            }
+            
+            const topPct = ((rank / history.length) * 100).toFixed(0);
+            const pctl = 100 - parseInt(topPct);
+            const pctlCls = pctl >= 75 ? 'pos' : pctl <= 25 ? 'neg' : '';
+
+            html += `<div class="rt-row"><span class="rt-label">Historical Rank</span><span class="rt-val">#${rank} of ${history.length}</span></div>`;
+            html += `<div class="rt-row"><span class="rt-label">Percentile</span><span class="rt-val ${pctlCls}">${pctl}% percentile</span></div>`;
+            
+            if (metric === 'Duration') {
+              html += `<div class="rt-row"><span class="rt-label">Duration</span><span class="rt-val">${val} days</span></div>`;
+              html += `<div class="rt-note">Comparing this ${phaseType} duration against all historical ${phaseType}s (30% threshold).</div>`;
+            } else {
+              html += `<div class="rt-row"><span class="rt-label">Move</span><span class="rt-val ${val >= 0 ? 'pos' : 'neg'}">${val >= 0 ? '+' : ''}${val.toFixed(1)}%</span></div>`;
+              html += `<div class="rt-note">Comparing this ${phaseType} magnitude against all historical ${phaseType}s (30% threshold).</div>`;
+            }
+          }
         }
 
         else if (type === 'zscore') {
