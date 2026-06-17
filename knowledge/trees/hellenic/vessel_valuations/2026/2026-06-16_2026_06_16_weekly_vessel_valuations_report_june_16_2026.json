@@ -1,0 +1,90 @@
+{
+  "node_id": "hellenic_vessel_valuations_2026-06-16_2026_06_16_weekly_vessel_valuations_report_june_16_2026__root",
+  "doc_id": "hellenic_vessel_valuations_2026-06-16_2026_06_16_weekly_vessel_valuations_report_june_16_2026",
+  "parent_id": null,
+  "title": "Weekly Vessel Valuations Report, June 16 2026",
+  "section_path": [
+    "Weekly Vessel Valuations Report, June 16 2026"
+  ],
+  "section_path_text": "Weekly Vessel Valuations Report, June 16 2026",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBulkers: Bulker secondhand activity this week was dominated by Chinese buyers. The concentration of Chinese buyinginterest across multiple size segments points to sustained regional demand. Bulker values remained stable this week.",
+  "keywords": [
+    "capesize",
+    "panamax",
+    "supramax",
+    "handysize",
+    "vlcc",
+    "suezmax",
+    "aframax",
+    "container",
+    "china",
+    "europe",
+    "grain",
+    "usd"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 866,
+  "source_path": "reports/hellenic/vessel_valuations/2026/2026-06-16_weekly-vessel-valuations-report-june-16-2026.html",
+  "source_url": "https://www.hellenicshippingnews.com/weekly-vessel-valuations-report-june-16-2026",
+  "children": [
+    {
+      "node_id": "hellenic_vessel_valuations_2026-06-16_2026_06_16_weekly_vessel_valuations_report_june_16_2026__s01_main",
+      "doc_id": "hellenic_vessel_valuations_2026-06-16_2026_06_16_weekly_vessel_valuations_report_june_16_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-06-16_2026_06_16_weekly_vessel_valuations_report_june_16_2026__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "Bulkers: Bulker secondhand activity this week was dominated by Chinese buyers. The concentration of Chinese buyinginterest across multiple size segments points to sustained regional demand.",
+      "keywords": [
+        "capesize",
+        "panamax",
+        "supramax",
+        "handysize",
+        "vlcc",
+        "suezmax",
+        "aframax",
+        "container"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 507,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "hellenic_vessel_valuations_2026-06-16_2026_06_16_weekly_vessel_valuations_report_june_16_2026__s02_linked_asset_2026_06_16_weekly_vessel_valuations_report_june_16_2026_16620254_4cdf5858361d_jpg",
+      "doc_id": "hellenic_vessel_valuations_2026-06-16_2026_06_16_weekly_vessel_valuations_report_june_16_2026",
+      "parent_id": "hellenic_vessel_valuations_2026-06-16_2026_06_16_weekly_vessel_valuations_report_june_16_2026__root",
+      "title": "Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg",
+      "section_path": [
+        "Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg"
+      ],
+      "section_path_text": "Linked asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Source asset: reports/hellenic/vessel_valuations/2026/assets/2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg\n\nLinked image asset: 2026-06-16_weekly-vessel-valuations-report-june-16-2026_16620254_4cdf5858361d.jpg\n\nImage metadata: JPEG 600x279 mode=RGB\n\nEmbedded info:\ndpi: (72.0, 72.0)\n\nOCR text:\n(D) VesselsValue -\n16 June 2026 VV Mini Matrix - Weekly Change\nTakers mates Costas\n- wc See a wu so a ae ee ee ee\nee er ee as aa an mts\n: ™_ ~~ 8 eT \" \" \" ao i ee ane us 1\naa wma amas aN aman\n, Me - ue ™ oJ i om ~ aT neo ane us ee\neen aN ots re\n. i ~~ uo ™ = ~~ \"~ ~ ) od an ms 1\nre ee at ee ws aa Peer er etd\nss se ~~ vy ms \"a - - ~ am _ an os 1\na a a tae Py ae ae Pc a rs\nbe ae - vy = \" ~~ as \" i od an us i\na a ee a ae a a et\nil - na - 7 a oe ™ = \" ~~ ms ee",
+      "keywords": [
+        "ane",
+        "asset",
+        "image",
+        "aman",
+        "amas",
+        "change",
+        "costas",
+        "dpi"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 319,
+      "section_type": "linked_image_asset",
+      "children": []
+    }
+  ]
+}
