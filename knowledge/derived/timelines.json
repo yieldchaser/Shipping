@@ -5250,9 +5250,9 @@
     "breakwave_drybulk": null,
     "breakwave_tankers": "breakwave_tankers_2026-06-16",
     "baltic_dry": "baltic_dry_2026-06-19_2026_06_19_bulk_report_week_25_dry",
-    "baltic_tanker": null,
-    "baltic_gas": null,
-    "baltic_container": null,
+    "baltic_tanker": "baltic_tanker_2026-06-19_2026_06_19_tanker_report_week_25_tanker",
+    "baltic_gas": "baltic_gas_2026-06-19_2026_06_19_gas_report_week_25_gas",
+    "baltic_container": "baltic_container_2026-06-19_2026_06_19_container_report_week_25_container",
     "baltic_ningbo": null
   }
 }
