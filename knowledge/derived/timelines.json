@@ -5249,7 +5249,7 @@
   "2026-W25": {
     "breakwave_drybulk": null,
     "breakwave_tankers": "breakwave_tankers_2026-06-16",
-    "baltic_dry": null,
+    "baltic_dry": "baltic_dry_2026-06-19_2026_06_19_bulk_report_week_25_dry",
     "baltic_tanker": null,
     "baltic_gas": null,
     "baltic_container": null,

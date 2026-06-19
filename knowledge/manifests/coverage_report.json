@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-19T13:47:01Z",
+  "generated_at": "2026-06-19T15:06:01Z",
   "current_date": "2026-06-19",
   "corpus": {
-    "document_count": 8353,
-    "chunk_count": 97761,
-    "section_count": 29938,
+    "document_count": 8354,
+    "chunk_count": 97762,
+    "section_count": 29939,
     "topic_count": 10,
     "topic_evidence_count": 2500,
     "wiki_page_count": 10
@@ -42,11 +42,11 @@
       "category": "dry",
       "status": "healthy",
       "cadence_days": 7,
-      "latest_date": "2026-06-12",
-      "age_days": 7,
+      "latest_date": "2026-06-19",
+      "age_days": 0,
       "latest_gap_days": 7,
       "max_recent_gap_days": 7,
-      "dated_doc_count": 576,
+      "dated_doc_count": 577,
       "undated_doc_count": 8
     },
     {
@@ -217,21 +217,21 @@
       "relevant_corpus_latest_date": "2026-06-19",
       "lag_days": 0,
       "evidence_count": 250,
-      "document_count": 86,
+      "document_count": 87,
       "source_counts": {
-        "baltic": 4,
+        "baltic": 5,
         "breakwave": 4,
         "breakwave_insights": 153,
-        "hellenic": 89
+        "hellenic": 88
       },
       "category_counts": {
         "demolition": 16,
-        "dry": 4,
+        "dry": 5,
         "dry_charter": 8,
         "drybulk": 4,
         "insights": 153,
         "iron_ore": 48,
-        "shipbuilding": 9,
+        "shipbuilding": 8,
         "vessel_valuations": 8
       },
       "recent_sources_present": [
@@ -245,7 +245,7 @@
         "cautiously optimistic": 1,
         "cautiously_bearish": 18,
         "constructive": 40,
-        "neutral": 26,
+        "neutral": 27,
         "neutral_concerned": 1
       }
     },

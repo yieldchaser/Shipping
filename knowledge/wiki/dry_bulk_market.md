@@ -8,9 +8,9 @@ categories:
 - iron_ore
 - shipbuilding
 - vessel_valuations
-document_count: 86
+document_count: 87
 evidence_count: 250
-generated_at: '2026-06-19T13:45:54Z'
+generated_at: '2026-06-19T15:04:56Z'
 latest_evidence_date: '2026-06-19'
 page_type: topic_wiki
 related_topics:
@@ -28,7 +28,7 @@ topic_id: dry_bulk_market
 ---
 
 ## Summary
-Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 86 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-19, with the strongest recurring markers being china, iron_ore, brazil, capesize, dry bulk. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
+Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing. The current wiki page is grounded in 250 cited sections from 87 documents across baltic, breakwave, breakwave_insights, hellenic. Recent evidence runs through 2026-06-19, with the strongest recurring markers being china, iron_ore, brazil, capesize, dry bulk. Primary coverage comes from categories such as demolition, dry, dry_charter, drybulk, insights, iron_ore, shipbuilding, vessel_valuations.
 
 ## Why It Matters
 Dry bulk freight conditions across the major vessel classes, cargo flows, tonnage balance, and the trade lanes that shape spot and forward pricing.
@@ -49,20 +49,20 @@ Dry bulk freight conditions across the major vessel classes, cargo flows, tonnag
 - Recurring evidence markers: china, iron_ore, brazil, capesize, dry bulk, australia
 
 ## Cross-Source View
-- Source coverage: breakwave_insights: 153, hellenic: 89, breakwave: 4, baltic: 4
-- Category coverage: insights: 153, iron_ore: 48, demolition: 16, shipbuilding: 9, dry_charter: 8, vessel_valuations: 8, drybulk: 4, dry: 4
-- Tone distribution: constructive: 120, neutral: 69, cautiously_bearish: 57, neutral_concerned: 2, cautiously optimistic: 2
+- Source coverage: breakwave_insights: 153, hellenic: 88, baltic: 5, breakwave: 4
+- Category coverage: insights: 153, iron_ore: 48, demolition: 16, shipbuilding: 8, dry_charter: 8, vessel_valuations: 8, dry: 5, drybulk: 4
+- Tone distribution: constructive: 119, neutral: 70, cautiously_bearish: 57, neutral_concerned: 2, cautiously optimistic: 2
 - Related topics: capesize, panamax_and_supramax, china_steel_and_iron_ore, coal_and_grain_flows
 
 ## Key Documents
 - 2026-06-19 | Pent-Up Demand or Demand Destruction? What the Hormuz Reopening Means for Dry Bulk Imports [doc_id: breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul | section_id: breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul__s03_mid_sized_vessels_to_benefit_from_a_grain_import_recovery | pages n/a]
 - 2026-06-19 | Goa's Revival: Is India's Role in the Iron Ore Trade Beginning to Change? [doc_id: breakwave_insights_insights_2026-06-19_2026_06_19_goas_revival_is_indias_role_in_the_iron_ore_trade_beginning_to_change | section_id: breakwave_insights_insights_2026-06-19_2026_06_19_goas_revival_is_indias_role_in_the_iron_ore_trade_beginning_to_change__s01_main | pages n/a]
+- 2026-06-19 | Bulk report - Week 25 [doc_id: baltic_dry_2026-06-19_2026_06_19_bulk_report_week_25_dry | section_id: baltic_dry_2026-06-19_2026_06_19_bulk_report_week_25_dry__s01_main | pages n/a]
 - 2026-06-18 | The Tonnage Math Behind a Hormuz Reopening [doc_id: breakwave_insights_insights_2026-06-18_2026_06_18_the_tonnage_math_behind_a_hormuz_reopening | section_id: breakwave_insights_insights_2026-06-18_2026_06_18_the_tonnage_math_behind_a_hormuz_reopening__s01_main | pages n/a]
 - 2026-06-18 | Less Grain Exports Expected Next Season [doc_id: breakwave_insights_insights_2026-06-18_2026_06_18_less_grain_exports_expected_next_season | section_id: breakwave_insights_insights_2026-06-18_2026_06_18_less_grain_exports_expected_next_season__s02_linked_asset_2026_06_18_less_grain_exports_expected_next_season_img_chart_f1983a69a6f4_jpg | pages n/a]
 - 2026-06-18 | MMI Daily Iron Ore Index Report June 18 2026 [doc_id: hellenic_iron_ore_2026-06-18_2026_06_18_mmi_daily_iron_ore_index_report_june_18_2026 | section_id: hellenic_iron_ore_2026-06-18_2026_06_18_mmi_daily_iron_ore_index_report_june_18_2026__s03_linked_asset_2026_06_18_mmi_daily_iron_ore_index_report_june_18_2026_mmi_daily_iron_ore_report_for_18th_j_2c34522ece9f_pdf | pages n/a]
 - 2026-06-18 | A deal? [doc_id: breakwave_insights_insights_2026-06-18_2026_06_18_the_three_things_businesses_and_investors_should_know_about_the_deal_with_iran | section_id: breakwave_insights_insights_2026-06-18_2026_06_18_the_three_things_businesses_and_investors_should_know_about_the_deal_with_iran__s01_main | pages n/a]
 - 2026-06-17 | Weekly Dry Time Charter Estimates, June 17 2026 [doc_id: hellenic_dry_charter_2026-06-17_2026_06_17_weekly_dry_time_charter_estimates_june_17_2026 | section_id: hellenic_dry_charter_2026-06-17_2026_06_17_weekly_dry_time_charter_estimates_june_17_2026__s02_linked_asset_2026_06_17_weekly_dry_time_charter_estimates_june_17_2026_17620252_152508783760_jpg | pages n/a]
-- 2026-06-17 | A possible U.S.-Iran agreement appears to be emerging [doc_id: breakwave_insights_insights_2026-06-17_2026_06_17_a_possible_us_iran_agreement_appears_to_be_emerging | section_id: breakwave_insights_insights_2026-06-17_2026_06_17_a_possible_us_iran_agreement_appears_to_be_emerging__s01_main | pages n/a]
 
 ## Related Topics
 - capesize

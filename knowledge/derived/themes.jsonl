@@ -658,6 +658,7 @@
 {"doc_id": "baltic_dry_2026-05-29_2026_bulk_report_week_22_dry", "themes": ["main", "may"], "key_entities": [], "market_tone": "neutral"}
 {"doc_id": "baltic_dry_2026-06-05_2026_06_05_bulk_report_week_23_dry", "themes": ["jun", "main"], "key_entities": [], "market_tone": "neutral"}
 {"doc_id": "baltic_dry_2026-06-12_2026_06_12_bulk_report_week_24_dry", "themes": ["jun", "main"], "key_entities": [], "market_tone": "neutral"}
+{"doc_id": "baltic_dry_2026-06-19_2026_06_19_bulk_report_week_25_dry", "themes": ["jun", "main"], "key_entities": [], "market_tone": "neutral"}
 {"doc_id": "baltic_gas_2022-11-18_2022_11_18_gas_report_week_46_gas", "themes": ["lng", "lpg", "australia", "atlantic", "japan", "gas"], "key_entities": ["Australia", "Atlantic basin", "Middle East"], "market_tone": "constructive"}
 {"doc_id": "baltic_gas_2022-11-25_2022_11_25_gas_report_week_47_gas", "themes": ["lng", "lpg", "brazil", "india", "gas", "last"], "key_entities": ["Vale"], "market_tone": "constructive"}
 {"doc_id": "baltic_gas_2022-12-02_2022_12_02_gas_report_week_48_gas", "themes": ["capesize", "lng", "lpg", "meg", "europe", "india"], "key_entities": [], "market_tone": "neutral"}
