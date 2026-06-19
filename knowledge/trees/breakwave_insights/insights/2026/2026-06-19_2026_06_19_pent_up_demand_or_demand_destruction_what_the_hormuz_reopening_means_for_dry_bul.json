@@ -1,0 +1,118 @@
+{
+  "node_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul__root",
+  "doc_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul",
+  "parent_id": null,
+  "title": "Pent-Up Demand or Demand Destruction? What the Hormuz Reopening Means for Dry Bulk Imports",
+  "section_path": [
+    "Pent-Up Demand or Demand Destruction? What the Hormuz Reopening Means for Dry Bulk Imports"
+  ],
+  "section_path_text": "Pent-Up Demand or Demand Destruction? What the Hormuz Reopening Means for Dry Bulk Imports",
+  "level": 0,
+  "ordinal": 0,
+  "summary": "Main\nBy Ulf Bergman\nThere is an agreement in place between the US and Iran to end hostilities and fully reopen the Strait of Hormuz. However, many questions remain about the deal's details. At this stage, it is more of a memorandum of understanding with a 60-day ceasefire attached, with many details still to be clarified through what promises to be challenging diplomatic negotiations.",
+  "keywords": [
+    "panamax",
+    "supramax",
+    "lng",
+    "china",
+    "brazil",
+    "meg",
+    "iron_ore",
+    "grain",
+    "bauxite",
+    "crude_oil",
+    "products",
+    "steel"
+  ],
+  "page_start": null,
+  "page_end": null,
+  "token_count": 1112,
+  "source_path": "reports/breakwave/2026/2026-06-19_pent-up-demand-or-demand-destruction-what-the-hormuz-reopening-means-for-dry-bul.html",
+  "source_url": "https://www.breakwaveadvisors.com/insights/2026/6/19/pent-up-demand-or-demand-destruction-what-the-hormuz-reopening-means-for-dry-bulk-imports",
+  "children": [
+    {
+      "node_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul__s01_main",
+      "doc_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul",
+      "parent_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul__root",
+      "title": "Main",
+      "section_path": [
+        "Main"
+      ],
+      "section_path_text": "Main",
+      "level": 1,
+      "ordinal": 1,
+      "summary": "By Ulf Bergman\nThere is an agreement in place between the US and Iran to end hostilities and fully reopen the Strait of Hormuz. However, many questions remain about the deal's details.",
+      "keywords": [
+        "lng",
+        "meg",
+        "crude_oil",
+        "gas",
+        "strait",
+        "global",
+        "many",
+        "agreement"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 359,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul__s02_dry_bulk_imports_set_for_a_recovery",
+      "doc_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul",
+      "parent_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul__root",
+      "title": "Dry Bulk Imports Set for a Recovery",
+      "section_path": [
+        "Dry Bulk Imports Set for a Recovery"
+      ],
+      "section_path_text": "Dry Bulk Imports Set for a Recovery",
+      "level": 1,
+      "ordinal": 2,
+      "summary": "Since the commencement of hostilities more than three months ago, dry bulk imports passing through the Strait of Hormuz have fallen sharply. Between March and May, volumes declined by 77 per cent year-on-year, according to data from Signal Ocean.",
+      "keywords": [
+        "meg",
+        "iron_ore",
+        "grain",
+        "bauxite",
+        "products",
+        "steel",
+        "year",
+        "demand"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 476,
+      "section_type": null,
+      "children": []
+    },
+    {
+      "node_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul__s03_mid_sized_vessels_to_benefit_from_a_grain_import_recovery",
+      "doc_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul",
+      "parent_id": "breakwave_insights_insights_2026-06-19_2026_06_19_pent_up_demand_or_demand_destruction_what_the_hormuz_reopening_means_for_dry_bul__root",
+      "title": "Mid-Sized Vessels to Benefit from A Grain Import Recovery",
+      "section_path": [
+        "Mid-Sized Vessels to Benefit from A Grain Import Recovery"
+      ],
+      "section_path_text": "Mid-Sized Vessels to Benefit from A Grain Import Recovery",
+      "level": 1,
+      "ordinal": 3,
+      "summary": "If the grain imports not realised earlier in the year translate into a surge in purchases in the second half of the year, the panamaxes and, to a lesser extent, the supramaxes will benefit, as they dominate the grain trade to the Arabian Gulf. However, depending on commercial agreements, the higher demand may not fully replace lost tonne-miles, as the upcoming harvest season in the northern hemisphere could shift trade flows.",
+      "keywords": [
+        "panamax",
+        "supramax",
+        "china",
+        "brazil",
+        "meg",
+        "grain",
+        "demand",
+        "grains"
+      ],
+      "page_start": null,
+      "page_end": null,
+      "token_count": 253,
+      "section_type": null,
+      "children": []
+    }
+  ]
+}
