@@ -2830,7 +2830,14 @@
       <!-- Drawdown Chart -->
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title" data-tooltip="Peak Retracement (52-Week) - tracks the current depth of correction from the rolling 1-year high. Freight spikes are often followed by 30-50% 'flushes' before stabilizing.">Drawdown % (Last 5 Years)</div>
+          <div class="chart-title" id="drawdownChartTitle" data-tooltip="Peak Retracement (52-Week) - tracks the current depth of correction from the rolling 1-year high. Freight spikes are often followed by 30-50% 'flushes' before stabilizing.">Drawdown % (Last 5 Years)</div>
+          <div class="flex-row" style="gap:4px;align-items:center;">
+            <button class="toggle-btn" id="ddBtn1y" onclick="setDrawdownWindow('1y')">1Y</button>
+            <button class="toggle-btn" id="ddBtn3y" onclick="setDrawdownWindow('3y')">3Y</button>
+            <button class="toggle-btn active" id="ddBtn5y" onclick="setDrawdownWindow('5y')">5Y</button>
+            <button class="toggle-btn" id="ddBtn10y" onclick="setDrawdownWindow('10y')">10Y</button>
+            <button class="toggle-btn" id="ddBtnAll" onclick="setDrawdownWindow('all')">All</button>
+          </div>
         </div>
         <div class="drawdown-chart-wrap">
           <canvas id="drawdownChart"></canvas>
@@ -4935,14 +4942,35 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // =====================================================================
     // CHANGE 1 - Drawdown Chart
     // =====================================================================
+    let _drawdownWindow = '5y';
+    function setDrawdownWindow(w) {
+      _drawdownWindow = w;
+      if (DATA.loaded) renderDrawdownChart(currentProduct);
+    }
+
     function renderDrawdownChart(productKey) {
       const rows = getRows(productKey);
       if (!rows.length) return;
 
-      // Last 5 years
-      const cutoff5y = new Date();
-      cutoff5y.setFullYear(cutoff5y.getFullYear() - 5);
-      const filtered = rows.filter(r => r.date >= cutoff5y);
+      // Update button active state & header title text
+      document.querySelectorAll('[id^="ddBtn"]').forEach(btn => btn.classList.remove('active'));
+      const activeBtn = document.getElementById('ddBtn' + (_drawdownWindow === '10y' ? '10y' : _drawdownWindow === '1y' ? '1y' : _drawdownWindow === '3y' ? '3y' : _drawdownWindow === '5y' ? '5y' : 'All'));
+      if (activeBtn) activeBtn.classList.add('active');
+
+      const titleEl = document.getElementById('drawdownChartTitle');
+      if (titleEl) {
+        const labels = { '1y': 'Last 1 Year', '3y': 'Last 3 Years', '5y': 'Last 5 Years', '10y': 'Last 10 Years', 'all': 'All-Time' };
+        titleEl.textContent = 'Drawdown % (' + (labels[_drawdownWindow] || 'Last 5 Years') + ')';
+      }
+
+      // Window cutoff
+      let filtered = rows;
+      if (_drawdownWindow !== 'all') {
+        const cutoff = new Date();
+        const numYears = { '1y': 1, '3y': 3, '5y': 5, '10y': 10 }[_drawdownWindow] || 5;
+        cutoff.setFullYear(cutoff.getFullYear() - numYears);
+        filtered = rows.filter(r => r.date >= cutoff);
+      }
 
       // O(n) rolling 365-day max using a monotonic deque (sliding window maximum)
       const ddData = [];
@@ -7690,9 +7718,27 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (priceEl) priceEl.innerHTML = priceHTML;
     }
 
+    let _etfDrawdownWindow = { bdry: '5y', bwet: '5y' };
+    function setETFDrawdownWindow(etfKey, w) {
+      _etfDrawdownWindow[etfKey] = w;
+      if (DATA.loaded) renderETFDrawdownChart(etfKey);
+    }
+
     function renderETFDrawdownChart(etfKey) {
       const rawRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
       if (!rawRows || !rawRows.length) return;
+
+      // Update button active state & header title text
+      const activeW = _etfDrawdownWindow[etfKey] || '5y';
+      document.querySelectorAll(`[id^="etfDdBtn_${etfKey}_"]`).forEach(btn => btn.classList.remove('active'));
+      const activeBtn = document.getElementById(`etfDdBtn_${etfKey}_${activeW}`);
+      if (activeBtn) activeBtn.classList.add('active');
+
+      const titleEl = document.getElementById(`etfDrawdownTitle_${etfKey}`);
+      if (titleEl) {
+        const labels = { '1y': 'Last 1 Year', '3y': 'Last 3 Years', '5y': 'Last 5 Years', '10y': 'Last 10 Years', 'all': 'All-Time' };
+        titleEl.textContent = 'Drawdown % (' + (labels[activeW] || 'Last 5 Years') + ')';
+      }
 
       const parsedRows = [];
       for (let i = 0; i < rawRows.length; i++) {
@@ -7707,10 +7753,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       parsedRows.sort((a, b) => a.date - b.date);
 
-      // Last 5 years filter
-      const cutoff5y = new Date();
-      cutoff5y.setFullYear(cutoff5y.getFullYear() - 5);
-      const filtered = parsedRows.filter(r => r.date >= cutoff5y);
+      // Window cutoff
+      let filtered = parsedRows;
+      if (activeW !== 'all') {
+        const cutoff = new Date();
+        const numYears = { '1y': 1, '3y': 3, '5y': 5, '10y': 10 }[activeW] || 5;
+        cutoff.setFullYear(cutoff.getFullYear() - numYears);
+        filtered = parsedRows.filter(r => r.date >= cutoff);
+      }
 
       if (!filtered.length) return;
 
@@ -7970,11 +8020,18 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     <!-- ETF Drawdown Chart (Last 5 Years) -->
     <div class="collapsible-section mb-20" style="margin-top:16px;">
       <button class="collapsible-toggle open" id="etfDrawdownToggle_${etfKey}" onclick="toggleETFDrawdown('${etfKey}')">
-        <span data-tooltip="Volatility Risk Curve - maps the maximum depth of retracements over 5 years. Critical for identifying whether current pain is typical or structural.">Drawdown % (Last 5 Years)</span>
+        <span id="etfDrawdownTitle_${etfKey}" data-tooltip="Volatility Risk Curve - maps the maximum depth of retracements over 5 years. Critical for identifying whether current pain is typical or structural.">Drawdown % (Last 5 Years)</span>
         <span class="toggle-arrow">▼</span>
       </button>
       <div class="collapsible-content open" id="etfDrawdownContent_${etfKey}">
-        <div class="drawdown-chart-wrap" style="height:250px;margin-top:10px;">
+        <div class="flex-row mb-12" style="gap:4px;justify-content:flex-end;">
+          <button class="toggle-btn" id="etfDdBtn_${etfKey}_1y" onclick="setETFDrawdownWindow('${etfKey}', '1y')">1Y</button>
+          <button class="toggle-btn" id="etfDdBtn_${etfKey}_3y" onclick="setETFDrawdownWindow('${etfKey}', '3y')">3Y</button>
+          <button class="toggle-btn active" id="etfDdBtn_${etfKey}_5y" onclick="setETFDrawdownWindow('${etfKey}', '5y')">5Y</button>
+          <button class="toggle-btn" id="etfDdBtn_${etfKey}_10y" onclick="setETFDrawdownWindow('${etfKey}', '10y')">10Y</button>
+          <button class="toggle-btn" id="etfDdBtn_${etfKey}_all" onclick="setETFDrawdownWindow('${etfKey}', 'all')">All</button>
+        </div>
+        <div class="drawdown-chart-wrap" style="height:250px;margin-top:4px;">
           <canvas id="etfDrawdownChart_${etfKey}"></canvas>
         </div>
       </div>
