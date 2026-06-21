@@ -158,6 +158,35 @@ def download_master_csv():
         print(f"ERROR downloading CSV: {str(e)}")
         return None
 
+def archive_holdings(df, etf_code, history_file):
+    """
+    Append current holdings to the historical holdings CSV.
+    Columns: date, Name, Ticker, CUSIP, Lots, Price, Market_Value, Weightings
+    Deduplicates by current date.
+    """
+    today_str = datetime.now().strftime('%Y-%m-%d')
+    
+    # Add date column to the current holdings df
+    df_archive = df.copy()
+    df_archive.insert(0, 'date', today_str)
+    
+    if os.path.exists(history_file):
+        try:
+            history_df = pd.read_csv(history_file)
+            # Remove any existing rows for today to allow re-runs on same day
+            history_df = history_df[history_df['date'] != today_str]
+            # Concat and sort
+            combined_df = pd.concat([history_df, df_archive], ignore_index=True)
+        except Exception as e:
+            print(f"  WARNING: Error reading history file, overwriting: {e}")
+            combined_df = df_archive
+    else:
+        combined_df = df_archive
+        
+    # Write to CSV
+    combined_df.to_csv(history_file, index=False)
+    print(f"  [OK] Archived {len(df_archive)} rows for {today_str} to {history_file}")
+
 def process_etf(df, etf_code, output_file):
     """Extract and process single ETF from master data"""
     try:
@@ -201,6 +230,10 @@ def process_etf(df, etf_code, output_file):
         etf_df.to_csv(output_file, index=False)
         print(f"  [OK] Saved {len(etf_df)} rows to {output_file}")
         
+        # Archive holdings
+        history_file = output_file.replace('.csv', '_history.csv')
+        archive_holdings(etf_df, etf_code, history_file)
+        
         # Print summary
         print_summary(etf_df, etf_code)
         
@@ -233,30 +266,7 @@ def print_summary(df, etf_code):
             cat_pct = (cat_value / total_value * 100) if total_value > 0 else 0
             print(f"  {cat.capitalize():12} : ${cat_value:>15,.2f} ({cat_pct:5.2f}%) - {mask.sum()} holdings")
 
-def main():
-    print(f"Starting ETF Holdings Update")
-    print(f"Time: {datetime.now()}")
-    print("=" * 60)
-    
-    # Download master CSV
-    master_df = download_master_csv()
-    if master_df is None:
-        print("FAILED: Could not download master CSV")
-        return 1
-    
-    # Process each target ETF
-    success_count = 0
-    for etf_code, output_file in TARGET_ETFS.items():
-        if process_etf(master_df, etf_code, output_file):
-            success_count += 1
-    
-    print("\n" + "=" * 60)
-    print(f"Completed: {success_count}/{len(TARGET_ETFS)} ETFs updated successfully")
-    
-    if success_count < len(TARGET_ETFS):
-        print("WARNING: Some updates failed")
-        return 1
-
+def fetch_etf_prices():
     # --- NEW: Fetch 10-year history for BDRY & BWET using yfinance ---
     print("\n--- Fetching ETF Historical Data (yfinance) ---")
     try:
@@ -289,6 +299,52 @@ def main():
     except Exception as e:
         print(f"Error fetching historical data: {e}")
 
+def main():
+    print(f"Starting ETF Holdings Update")
+    print(f"Time: {datetime.now()}")
+    print("=" * 60)
+    
+    # Download master CSV
+    master_df = download_master_csv()
+    if master_df is None:
+        print("FAILED: Could not download master CSV from website.")
+        print("Attempting to use existing local holdings files as fallback to archive...")
+        
+        fallback_success = True
+        for etf_code, output_file in TARGET_ETFS.items():
+            if os.path.exists(output_file):
+                print(f"  Found local {output_file}. Archiving...")
+                try:
+                    etf_df = pd.read_csv(output_file)
+                    history_file = output_file.replace('.csv', '_history.csv')
+                    archive_holdings(etf_df, etf_code, history_file)
+                except Exception as e:
+                    print(f"  ERROR archiving existing {etf_code} file: {e}")
+                    fallback_success = False
+            else:
+                print(f"  No existing file found at {output_file}")
+                fallback_success = False
+                
+        if fallback_success:
+            print("Successfully completed archive from local holdings fallback.")
+            fetch_etf_prices()
+            return 0
+        return 1
+    
+    # Process each target ETF from downloaded data
+    success_count = 0
+    for etf_code, output_file in TARGET_ETFS.items():
+        if process_etf(master_df, etf_code, output_file):
+            success_count += 1
+    
+    print("\n" + "=" * 60)
+    print(f"Completed: {success_count}/{len(TARGET_ETFS)} ETFs updated successfully")
+    
+    if success_count < len(TARGET_ETFS):
+        print("WARNING: Some updates failed")
+        return 1
+
+    fetch_etf_prices()
     return 0
 
 if __name__ == "__main__":

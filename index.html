@@ -3499,6 +3499,16 @@
       <div class="chart-container mb-20">
         <div class="chart-header">
           <div class="chart-title" data-tooltip="Forward Curve Dynamics - plots settlement prices for future contract months (Q/Cal). 🔴 Backwardation (Down) = tight near-term supply; 🟢 Contango (Up) = anticipated future tightening or roll friction.">FFA Term Structure - BDRY &amp; BWET Curve Shape</div>
+          <div class="flex-row" style="gap:6px;align-items:center;flex-wrap:wrap;">
+            <div style="display:flex;gap:4px;align-items:center;">
+              <span style="font-size:11px;color:var(--text-muted);">vs</span>
+              <button class="toggle-btn" id="termComp1w" onclick="setTermComp('1w')">1W ago</button>
+              <button class="toggle-btn" id="termComp2w" onclick="setTermComp('2w')">2W ago</button>
+              <button class="toggle-btn" id="termComp1m" onclick="setTermComp('1m')">1M ago</button>
+              <button class="toggle-btn" id="termComp3m" onclick="setTermComp('3m')">3M ago</button>
+              <button class="toggle-btn active" id="termCompNone" onclick="setTermComp('none')">No Compare</button>
+            </div>
+          </div>
         </div>
         <div id="termStructurePanel" style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:4px;">
           <div>
@@ -4364,7 +4374,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const overlay = document.getElementById('loadingOverlay');
       const progress = document.getElementById('loadingProgress');
       let loaded = 0;
-      const total = PRODUCT_KEYS.length + 12; // +2 holdings, +2 P/D, +4 SGX, +2 Liq, +2 Flows
+      const total = PRODUCT_KEYS.length + 14; // +2 holdings, +2 P/D, +4 SGX, +2 Liq, +2 Flows, +2 holdings history
 
       function tick(label) {
         loaded++;
@@ -4383,15 +4393,16 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           for (const row of rows) {
             const d = parseDate((row['date'] || '').trim());
             const v = parseVal(row['value']);
-            if (d && !isNaN(d.getTime()) && v != null) {
-              parsed.push({ date: d, dateStr: row['date'], value: v, change: null });
+            const c = (row['change'] || '').trim();
+            if (d && v != null) {
+              parsed.push({ date: d, dateStr: row['date'], value: v, change: c });
             }
           }
         } else {
           for (const row of rows) {
-            const d = parseDate(row['Date']);
+            const d = parseDate((row['Date'] || '').trim());
             const v = parseVal(row['Index']);
-            const c = parseVal(row['% Change']);
+            const c = (row['% Change'] || '').trim();
             if (d && v != null) {
               parsed.push({ date: d, dateStr: row['Date'], value: v, change: c });
             }
@@ -4412,6 +4423,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const bdryFlowPromise = fetchCSV('data/etf/BDRY_flows.csv').then(r => { DATA.bdryFlows = parseFlowCsv(r); tick('BDRY Flows'); });
       const bwetFlowPromise = fetchCSV('data/etf/BWET_flows.csv').then(r => { DATA.bwetFlows = parseFlowCsv(r); tick('BWET Flows'); });
 
+      // ETF holdings history loading - non-blocking; defaults to empty array on failure
+      const bdryHistPromise = fetchCSV('data/etf/bdry_holdings_history.csv')
+        .then(r => { DATA.bdryHoldingsHistory = r; tick('BDRY History'); })
+        .catch(e => { DATA.bdryHoldingsHistory = []; tick('BDRY History (fail)'); console.warn('[BDRY History] Load failed:', e.message); });
+      const bwetHistPromise = fetchCSV('data/etf/bwet_holdings_history.csv')
+        .then(r => { DATA.bwetHoldingsHistory = r; tick('BWET History'); })
+        .catch(e => { DATA.bwetHoldingsHistory = []; tick('BWET History (fail)'); console.warn('[BWET History] Load failed:', e.message); });
+
       // SGX FFA Futures - non-blocking; dashboard renders even if these fail
       const sgxFiles = {
         cape: 'data/futures/sgx_cape_futures.csv',
@@ -4430,7 +4449,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         tick('SGX ' + key.charAt(0).toUpperCase() + key.slice(1));
       });
 
-      await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise, ...sgxPromises]);
+      await Promise.all([...indexPromises, bdryPromise, bwetPromise, bdryPdPromise, bwetPdPromise, bdryLiqPromise, bwetLiqPromise, bdryFlowPromise, bwetFlowPromise, bdryHistPromise, bwetHistPromise, ...sgxPromises]);
 
       await new Promise(resolve => setTimeout(resolve, 0));
       buildMaster();
@@ -9681,6 +9700,80 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     // -------------------------------------------------------
     // 5. TERM STRUCTURE / FFA CURVE SLOPE
     // -------------------------------------------------------
+    // -------------------------------------------------------
+    // 5. TERM STRUCTURE / FFA CURVE SLOPE
+    // -------------------------------------------------------
+    var _termComp = 'none';
+
+    function setTermComp(w) {
+      _termComp = w;
+      ['1w', '2w', '1m', '3m', 'none'].forEach(function (k) {
+        var el = document.getElementById('termComp' + k);
+        if (el) el.classList.toggle('active', k === w);
+      });
+      renderTermStructure();
+    }
+
+    function getHoldingsAsOf(historyRows, refDateStr) {
+      if (!historyRows || !historyRows.length) return [];
+      
+      // Find all unique dates in the historyRows, sorted descending
+      var dates = [];
+      var seenDates = {};
+      historyRows.forEach(function (r) {
+        var d = r.date;
+        if (d && !seenDates[d]) {
+          seenDates[d] = true;
+          dates.push(d);
+        }
+      });
+      dates.sort(function (a, b) { return b.localeCompare(a); }); // newest first
+      
+      // Find the latest date that is <= refDateStr
+      var targetDate = null;
+      for (var i = 0; i < dates.length; i++) {
+        if (dates[i] <= refDateStr) {
+          targetDate = dates[i];
+          break;
+        }
+      }
+      
+      if (!targetDate) return [];
+      
+      // Return all rows matching that targetDate
+      return historyRows.filter(function (r) { return r.date === targetDate; });
+    }
+
+    function getLatestSpotValue(key) {
+      var rows = DATA.raw[key];
+      if (rows && rows.length) {
+        return rows[rows.length - 1].value;
+      }
+      return null;
+    }
+
+    function getHistoricalSpotValue(key, dateStr) {
+      var rows = DATA.raw[key];
+      if (!rows || !rows.length) return null;
+      
+      var targetTime = new Date(dateStr + 'T00:00:00').getTime();
+      
+      // Find the closest row on or before targetTime
+      var closestPrice = null;
+      var closestDiff = Infinity;
+      for (var i = 0; i < rows.length; i++) {
+        var rowTime = rows[i].date.getTime();
+        if (rowTime <= targetTime) {
+          var diff = targetTime - rowTime;
+          if (diff < closestDiff) {
+            closestDiff = diff;
+            closestPrice = rows[i].value;
+          }
+        }
+      }
+      return closestPrice;
+    }
+
     function renderTermStructure() {
       renderTermCurve('bdry', DATA.bdryHoldings, 'termBdryChart', 'termBdrySlope');
       renderTermCurve('bwet', DATA.bwetHoldings, 'termBwetChart', 'termBwetSlope');
@@ -9715,7 +9808,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       // Filter out cash/collateral rows - keep only futures
       var futuresTypes = etfKey === 'bdry' ? ['cape', 'pana', 'supra'] : ['td3c', 'td20'];
 
-      // Group by vessel type, sort by contract month
+      // Fetch historical comparison holdings if active
+      var compHoldings = [];
+      if (_termComp !== 'none') {
+        var daysBack = { '1w': 7, '2w': 14, '1m': 30, '3m': 91 }[_termComp] || 0;
+        var today = new Date(); today.setHours(0, 0, 0, 0);
+        var refDate = new Date(today.getTime() - daysBack * 86400000);
+        var refDateStr = refDate.toISOString().split('T')[0];
+        
+        var historyRows = etfKey === 'bdry' ? DATA.bdryHoldingsHistory : DATA.bwetHoldingsHistory;
+        compHoldings = getHoldingsAsOf(historyRows, refDateStr);
+      }
+
+      // Group current holdings
       var groups = {};
       holdings.forEach(function (h) {
         var cls = classifyHolding(h.Name, h.Ticker, etfKey);
@@ -9725,13 +9830,71 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         var price = parseFloat(h.Price);
         if (isNaN(price) || price <= 0) return;
         if (!groups[cls]) groups[cls] = [];
-        groups[cls].push({ sortKey: parsed.sortKey, label: parsed.label, price: price });
+        groups[cls].push({ sortKey: parsed.sortKey, label: parsed.label, price: price, lots: h.Lots, weight: h.Weightings, isSpot: false, isCurrent: true });
       });
 
-      // Sort each group by contract month
+      // Group historical holdings
+      var compGroups = {};
+      compHoldings.forEach(function (h) {
+        var cls = classifyHolding(h.Name, h.Ticker, etfKey);
+        if (futuresTypes.indexOf(cls) === -1) return;
+        var parsed = parseContractMonth(h.Name, h.Ticker);
+        if (!parsed) return;
+        var price = parseFloat(h.Price);
+        if (isNaN(price) || price <= 0) return;
+        if (!compGroups[cls]) compGroups[cls] = [];
+        compGroups[cls].push({ sortKey: parsed.sortKey, label: parsed.label, price: price, lots: h.Lots, weight: h.Weightings, isSpot: false, isCurrent: false });
+      });
+
+      // Prepend realized Spot rates as Month 0 anchors for Dry Bulk curves (BDRY)
+      var spotMap = { cape: 'cape', pana: 'panama', supra: 'suprama' };
+      if (etfKey === 'bdry') {
+        Object.keys(groups).forEach(function (cls) {
+          var spotKey = spotMap[cls];
+          var spotVal = getLatestSpotValue(spotKey);
+          if (spotVal != null) {
+            groups[cls].unshift({ sortKey: 0, label: 'Spot', price: spotVal, isSpot: true, isCurrent: true });
+          }
+        });
+        
+        if (compHoldings.length) {
+          var compDate = compHoldings[0].date;
+          Object.keys(compGroups).forEach(function (cls) {
+            var spotKey = spotMap[cls];
+            var spotVal = getHistoricalSpotValue(spotKey, compDate);
+            if (spotVal != null) {
+              compGroups[cls].unshift({ sortKey: 0, label: 'Spot', price: spotVal, isSpot: true, isCurrent: false });
+            }
+          });
+        }
+      }
+
+      // Sort each group chronologically
       Object.keys(groups).forEach(function (cls) {
         groups[cls].sort(function (a, b) { return a.sortKey - b.sortKey; });
       });
+      Object.keys(compGroups).forEach(function (cls) {
+        compGroups[cls].sort(function (a, b) { return a.sortKey - b.sortKey; });
+      });
+
+      // Collect all labels (contract months) in sorted order from both current and historical
+      var allMonths = [];
+      var seen = {};
+      var collectLabels = function (g) {
+        Object.keys(g).forEach(function (cls) {
+          g[cls].forEach(function (c) {
+            if (!seen[c.label]) {
+              seen[c.label] = c.sortKey;
+              allMonths.push({ label: c.label, sortKey: c.sortKey });
+            }
+          });
+        });
+      };
+      collectLabels(groups);
+      collectLabels(compGroups);
+      
+      allMonths.sort(function (a, b) { return a.sortKey - b.sortKey; });
+      var xLabels = allMonths.map(function (m) { return m.label; });
 
       // Build datasets - one per vessel class
       var colorMap = {
@@ -9743,33 +9906,59 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         td3c: 'MEG-China (TD3C)', td20: 'WAF-Continent (TD20)'
       };
 
-      // Collect all labels (contract months) in sorted order
-      var allMonths = [];
-      var seen = {};
-      Object.keys(groups).forEach(function (cls) {
-        groups[cls].forEach(function (c) {
-          if (!seen[c.label]) { seen[c.label] = c.sortKey; allMonths.push({ label: c.label, sortKey: c.sortKey }); }
-        });
-      });
-      allMonths.sort(function (a, b) { return a.sortKey - b.sortKey; });
-      var xLabels = allMonths.map(function (m) { return m.label; });
+      var datasets = [];
 
-      var datasets = Object.keys(groups).map(function (cls) {
+      // Add current datasets
+      Object.keys(groups).forEach(function (cls) {
         var priceByLabel = {};
-        groups[cls].forEach(function (c) { priceByLabel[c.label] = c.price; });
-        return {
-          label: labelMap[cls],
+        var infoByLabel = {};
+        groups[cls].forEach(function (c) {
+          priceByLabel[c.label] = c.price;
+          infoByLabel[c.label] = c;
+        });
+
+        datasets.push({
+          label: labelMap[cls] + ' (Current)',
           data: xLabels.map(function (l) { return priceByLabel[l] != null ? priceByLabel[l] : null; }),
           borderColor: colorMap[cls],
-          backgroundColor: colorMap[cls] + '30',
-          borderWidth: 2,
+          backgroundColor: colorMap[cls] + '20',
+          borderWidth: 2.5,
           pointRadius: 5,
           pointHoverRadius: 7,
           fill: false,
-          tension: 0.1,
-          spanGaps: false,
-        };
+          tension: 0.35,
+          spanGaps: true,
+          contractInfo: xLabels.map(function (l) { return infoByLabel[l] || null; })
+        });
       });
+
+      // Add historical comparison datasets
+      if (compHoldings.length) {
+        var compDate = compHoldings[0].date;
+        Object.keys(compGroups).forEach(function (cls) {
+          var priceByLabel = {};
+          var infoByLabel = {};
+          compGroups[cls].forEach(function (c) {
+            priceByLabel[c.label] = c.price;
+            infoByLabel[c.label] = c;
+          });
+
+          datasets.push({
+            label: labelMap[cls] + ' (' + compDate + ')',
+            data: xLabels.map(function (l) { return priceByLabel[l] != null ? priceByLabel[l] : null; }),
+            borderColor: colorMap[cls] + '66',
+            backgroundColor: 'transparent',
+            borderWidth: 1.5,
+            borderDash: [5, 5],
+            pointRadius: 3,
+            pointHoverRadius: 5,
+            fill: false,
+            tension: 0.35,
+            spanGaps: true,
+            contractInfo: xLabels.map(function (l) { return infoByLabel[l] || null; })
+          });
+        });
+      }
 
       if (!datasets.length) return;
 
@@ -9786,7 +9975,24 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tooltip: {
               callbacks: {
                 title: function (c) { return c[0].label; },
-                label: function (c) { return c.parsed.y != null ? ' ' + c.dataset.label + ': ' + fmt(c.parsed.y) : null; }
+                label: function (c) {
+                  var yVal = c.parsed.y;
+                  if (yVal == null) return null;
+                  
+                  var dataset = c.dataset;
+                  var info = dataset.contractInfo ? dataset.contractInfo[c.dataIndex] : null;
+                  var lbl = dataset.label.split(' ')[0] + ': ' + fmt(yVal);
+                  
+                  if (info) {
+                    if (info.isSpot) {
+                      lbl += ' (Realized Spot)';
+                    } else {
+                      if (info.lots) lbl += ' | Lots: ' + fmt(parseFloat(info.lots));
+                      if (info.weight) lbl += ' | Weight: ' + info.weight;
+                    }
+                  }
+                  return ' ' + lbl;
+                }
               }
             }
           },
@@ -9800,12 +10006,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         },
       });
 
-      // Compute and display slope signal for each group
+      // Compute and display slope signal for each group (excluding Spot from curve calculation)
       var slopeEl = document.getElementById(slopeId);
       if (!slopeEl) return;
       var slopeHtml = '';
       Object.keys(groups).forEach(function (cls) {
-        var pts = groups[cls];
+        var pts = groups[cls].filter(function (p) { return !p.isSpot; });
         if (pts.length < 2) return;
         var front = pts[0].price;
         var back = pts[pts.length - 1].price;

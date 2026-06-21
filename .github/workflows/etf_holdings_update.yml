@@ -36,7 +36,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/etf/bdry_holdings.csv data/etf/bwet_holdings.csv data/etf/bdry_liquidity.csv data/etf/bwet_liquidity.csv
+        git add data/etf/bdry_holdings.csv data/etf/bwet_holdings.csv data/etf/bdry_liquidity.csv data/etf/bwet_liquidity.csv data/etf/bdry_holdings_history.csv data/etf/bwet_holdings_history.csv
         if git diff --staged --quiet; then
           echo "No ETF holdings changes to commit."
           exit 0
