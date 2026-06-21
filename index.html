@@ -9744,36 +9744,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       return historyRows.filter(function (r) { return r.date === targetDate; });
     }
 
-    function getLatestSpotValue(key) {
-      var rows = DATA.raw[key];
-      if (rows && rows.length) {
-        return rows[rows.length - 1].value;
-      }
-      return null;
-    }
-
-    function getHistoricalSpotValue(key, dateStr) {
-      var rows = DATA.raw[key];
-      if (!rows || !rows.length) return null;
-      
-      var targetTime = new Date(dateStr + 'T00:00:00').getTime();
-      
-      // Find the closest row on or before targetTime
-      var closestPrice = null;
-      var closestDiff = Infinity;
-      for (var i = 0; i < rows.length; i++) {
-        var rowTime = rows[i].date.getTime();
-        if (rowTime <= targetTime) {
-          var diff = targetTime - rowTime;
-          if (diff < closestDiff) {
-            closestDiff = diff;
-            closestPrice = rows[i].value;
-          }
-        }
-      }
-      return closestPrice;
-    }
-
     function renderTermStructure() {
       renderTermCurve('bdry', DATA.bdryHoldings, 'termBdryChart', 'termBdrySlope');
       renderTermCurve('bwet', DATA.bwetHoldings, 'termBwetChart', 'termBwetSlope');
@@ -9845,29 +9815,6 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         if (!compGroups[cls]) compGroups[cls] = [];
         compGroups[cls].push({ sortKey: parsed.sortKey, label: parsed.label, price: price, lots: h.Lots, weight: h.Weightings, isSpot: false, isCurrent: false });
       });
-
-      // Prepend realized Spot rates as Month 0 anchors for Dry Bulk curves (BDRY)
-      var spotMap = { cape: 'cape', pana: 'panama', supra: 'suprama' };
-      if (etfKey === 'bdry') {
-        Object.keys(groups).forEach(function (cls) {
-          var spotKey = spotMap[cls];
-          var spotVal = getLatestSpotValue(spotKey);
-          if (spotVal != null) {
-            groups[cls].unshift({ sortKey: 0, label: 'Spot', price: spotVal, isSpot: true, isCurrent: true });
-          }
-        });
-        
-        if (compHoldings.length) {
-          var compDate = compHoldings[0].date;
-          Object.keys(compGroups).forEach(function (cls) {
-            var spotKey = spotMap[cls];
-            var spotVal = getHistoricalSpotValue(spotKey, compDate);
-            if (spotVal != null) {
-              compGroups[cls].unshift({ sortKey: 0, label: 'Spot', price: spotVal, isSpot: true, isCurrent: false });
-            }
-          });
-        }
-      }
 
       // Sort each group chronologically
       Object.keys(groups).forEach(function (cls) {
@@ -9984,12 +9931,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
                   var lbl = dataset.label.split(' ')[0] + ': ' + fmt(yVal);
                   
                   if (info) {
-                    if (info.isSpot) {
-                      lbl += ' (Realized Spot)';
-                    } else {
-                      if (info.lots) lbl += ' | Lots: ' + fmt(parseFloat(info.lots));
-                      if (info.weight) lbl += ' | Weight: ' + info.weight;
-                    }
+                    if (info.lots) lbl += ' | Lots: ' + fmt(parseFloat(info.lots));
+                    if (info.weight) lbl += ' | Weight: ' + info.weight;
                   }
                   return ' ' + lbl;
                 }
@@ -10006,12 +9949,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         },
       });
 
-      // Compute and display slope signal for each group (excluding Spot from curve calculation)
+      // Compute and display slope signal for each group
       var slopeEl = document.getElementById(slopeId);
       if (!slopeEl) return;
       var slopeHtml = '';
       Object.keys(groups).forEach(function (cls) {
-        var pts = groups[cls].filter(function (p) { return !p.isSpot; });
+        var pts = groups[cls];
         if (pts.length < 2) return;
         var front = pts[0].price;
         var back = pts[pts.length - 1].price;
