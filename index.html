@@ -4939,10 +4939,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const rows = getRows(productKey);
       if (!rows.length) return;
 
-      // Last 3 years
-      const cutoff3y = new Date();
-      cutoff3y.setFullYear(cutoff3y.getFullYear() - 3);
-      const filtered = rows.filter(r => r.date >= cutoff3y);
+      // Last 5 years
+      const cutoff5y = new Date();
+      cutoff5y.setFullYear(cutoff5y.getFullYear() - 5);
+      const filtered = rows.filter(r => r.date >= cutoff5y);
 
       // O(n) rolling 365-day max using a monotonic deque (sliding window maximum)
       const ddData = [];
