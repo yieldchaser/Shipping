@@ -263,7 +263,7 @@ Main overview for the selected index.
 - **6 stat cards:** All-Time Pctl · 10Y Pctl · 5Y Pctl · Z-Score · 52-Week Drawdown · 20D RoC
 - **Historical Context Strip:** 5Y avg, current vs 5Y avg %, current vs 10Y avg %
 - **Current Year vs Historical Overlay chart** — current year vs user-selected prior years
-- **Drawdown from 52-Week High** — last 3 years
+- **Drawdown from 52-Week High** — last 5 years
 - **Recent Daily Changes table** — last 10 sessions: day Δ, day Δ%, 5D change %
 - **Yearly Performance table** *(collapsible, sortable)* — annual avg, YoY %, min, max, Volatility % (dispersion: (max−min)/avg), Trough→Peak % (theoretical maximum gain). Features dynamic rank and percentile tooltips on cell hover. Click any header to sort.
 - **Macro Cycle History (Multi-Year)** *(collapsible, sortable)* — identifies historical turning points (peaks and troughs) using a 30% threshold. Features dynamic duration and move magnitude rank/percentile tooltips on cell hover. Click any header to sort.
@@ -332,7 +332,8 @@ Each card contains:
 7. **Trade route map** — with inline legend (exporting nations / importing nations / routes / BWET focused routes)
 8. **Yearly Performance Table** *(collapsible, sortable)* — annual average, YoY %, min, max, Volatility %, and Trough→Peak % with cell tooltips (rank/percentile) and click-to-sort headers.
 9. **Macro Cycle History Table** *(collapsible, sortable)* — 30% threshold macro price cycle phases with duration and move magnitude cell tooltips (rank/percentile) and click-to-sort headers.
-10. **Fundamentals / Data Sources** — sector-specific data links:
+10. **ETF Drawdown Chart** *(collapsible)* — rolling 365-day drawdown over the last 5 years computed directly from the ETF stock close price.
+11. **Fundamentals / Data Sources** — sector-specific data links:
     - BDRY: China Steel & Bulk Demand + Export Flow Indicators (macromicro.me)
     - BWET: Crude & Product Demand (Trading Economics, EIA) + Key Trade Routes (TradingView: TD3C / TD20)
 #### BDRY & BWET Analytics
