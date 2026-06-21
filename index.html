@@ -5452,6 +5452,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
     }
 
+    function toggleETFDrawdown(etfKey) {
+      const btn = document.getElementById(`etfDrawdownToggle_${etfKey}`);
+      const content = document.getElementById(`etfDrawdownContent_${etfKey}`);
+      if (btn && content) {
+        btn.classList.toggle('open');
+        content.classList.toggle('open');
+      }
+    }
+
     let _macroCyclesData = {};
 
     window.macroSortState = {};
@@ -7574,6 +7583,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       buildETFDonut(etfKey, holdings);
       renderETFYearlyPerfTable(etfKey);
       renderMacroCyclesTable(etfKey, `macroCyclesTable_${etfKey}`, `macroCyclesDlBtn_${etfKey}`);
+      renderETFDrawdownChart(etfKey);
 
       // Wire CSV download buttons (CHANGE 8)
       const dlBtn = card.querySelector(`.etf-dl-btn`);
@@ -7678,6 +7688,118 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       const priceEl = card.querySelector('.etf-price-row');
       if (priceEl) priceEl.innerHTML = priceHTML;
+    }
+
+    function renderETFDrawdownChart(etfKey) {
+      const rawRows = etfKey === 'bdry' ? DATA.bdryLiquidity : DATA.bwetLiquidity;
+      if (!rawRows || !rawRows.length) return;
+
+      const parsedRows = [];
+      for (let i = 0; i < rawRows.length; i++) {
+        const r = rawRows[i];
+        if (!r.date || r.close == null) continue;
+        const d = new Date(r.date + 'T00:00:00');
+        if (isNaN(d.getTime())) continue;
+        const closeVal = parseFloat(r.close);
+        if (isNaN(closeVal)) continue;
+        parsedRows.push({ date: d, close: closeVal });
+      }
+
+      parsedRows.sort((a, b) => a.date - b.date);
+
+      // Last 5 years filter
+      const cutoff5y = new Date();
+      cutoff5y.setFullYear(cutoff5y.getFullYear() - 5);
+      const filtered = parsedRows.filter(r => r.date >= cutoff5y);
+
+      if (!filtered.length) return;
+
+      // O(n) rolling 365-day max using a monotonic deque (sliding window maximum)
+      const ddData = [];
+      const labels = [];
+      const W = 365 * 24 * 60 * 60 * 1000; // 365 days in ms
+      const deque = [];
+      let fi = 0; // pointer into parsedRows for the current filtered[i]
+
+      for (let i = 0; i < filtered.length; i++) {
+        const cur = filtered[i];
+        const curTs = cur.date.getTime();
+        const windowStart = curTs - W;
+
+        // Advance fi to match cur in parsedRows
+        while (fi < parsedRows.length - 1 && parsedRows[fi].date < cur.date) fi++;
+
+        // Advance lo: remove elements outside 365-day window from front
+        while (deque.length > 0 && parsedRows[deque[0]].date.getTime() < windowStart) deque.shift();
+
+        // Remove from back any indices with values <= current value
+        const curVal = cur.close;
+        while (deque.length > 0 && parsedRows[deque[deque.length - 1]].close <= curVal) deque.pop();
+        deque.push(fi);
+
+        const maxVal = parsedRows[deque[0]].close;
+        const dd = maxVal > 0 ? ((curVal - maxVal) / maxVal) * 100 : 0;
+        ddData.push(dd);
+        labels.push(fmtDate(cur.date));
+      }
+
+      const canvasId = `etfDrawdownChart_${etfKey}`;
+      destroyChart(canvasId);
+      const canvas = document.getElementById(canvasId);
+      if (!canvas) return;
+
+      chartRegistry[canvasId] = new Chart(canvas.getContext('2d'), {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [{
+            label: 'Drawdown %',
+            data: ddData,
+            borderColor: '#f85149',
+            backgroundColor: 'rgba(248, 81, 73, 0.15)',
+            borderWidth: 1.5,
+            pointRadius: 0,
+            pointHoverRadius: 0,
+            fill: true,
+            tension: 0.1
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              callbacks: {
+                label: ctx => ` Drawdown: ${ctx.parsed.y.toFixed(2)}%`
+              }
+            }
+          },
+          scales: {
+            x: {
+              grid: { color: '#151a22' },
+              ticks: {
+                maxTicksLimit: 8,
+                font: { size: 10 },
+                callback: function (val) {
+                  const lbl = this.getLabelForValue(val);
+                  return lbl ? String(lbl).slice(0, 7) : '';
+                }
+              }
+            },
+            y: {
+              grid: { color: '#151a22' },
+              max: 0,
+              ticks: {
+                font: { size: 10 },
+                callback: v => v.toFixed(1) + '%'
+              },
+              title: { display: true, text: 'Drawdown %', color: '#8b949e', font: { size: 10 } }
+            }
+          }
+        }
+      });
     }
 
     function downloadETFHoldings(ticker, etfKey, holdings) {
@@ -7841,6 +7963,19 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         </div>
         <div style="overflow-x:auto">
           <div id="macroCyclesTable_${etfKey}"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ETF Drawdown Chart (Last 5 Years) -->
+    <div class="collapsible-section mb-20" style="margin-top:16px;">
+      <button class="collapsible-toggle open" id="etfDrawdownToggle_${etfKey}" onclick="toggleETFDrawdown('${etfKey}')">
+        <span data-tooltip="Volatility Risk Curve - maps the maximum depth of retracements over 5 years. Critical for identifying whether current pain is typical or structural.">Drawdown % (Last 5 Years)</span>
+        <span class="toggle-arrow">▼</span>
+      </button>
+      <div class="collapsible-content open" id="etfDrawdownContent_${etfKey}">
+        <div class="drawdown-chart-wrap" style="height:250px;margin-top:10px;">
+          <canvas id="etfDrawdownChart_${etfKey}"></canvas>
         </div>
       </div>
     </div>
