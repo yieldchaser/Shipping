@@ -3314,7 +3314,7 @@
       </div>
       <div class="chart-container mb-20">
         <div class="chart-header">
-          <div class="chart-title" data-tooltip="Volatility Risk Curve - maps the maximum depth of retracements over 5 years. Critical for identifying whether current pain is typical or structural.">Drawdown % (52-Week Rolling, Last 5 Years)</div>
+          <div class="chart-title" data-tooltip="Peak Retracement (52-Week Rolling, Last 5 Years) — each point shows how far the index sits below its rolling 1-year high on that date. Freight corrections of 30–50% after major spikes are historically normal; deeper or sustained drawdowns signal structural bear markets.">Drawdown % (52-Week Rolling, Last 5 Years)</div>
         </div>
         <div class="chart-canvas-wrap" style="height:300px"><canvas id="yearlyDrawdownChart"></canvas></div>
       </div>
@@ -4961,6 +4961,14 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (titleEl) {
         const labels = { '1y': 'Last 1 Year', '3y': 'Last 3 Years', '5y': 'Last 5 Years', '10y': 'Last 10 Years', 'all': 'All-Time' };
         titleEl.textContent = 'Drawdown % (' + (labels[_drawdownWindow] || 'Last 5 Years') + ')';
+        const tooltips = {
+          '1y':  'Peak Retracement (52-Week Rolling) — last 1 year of data. Each point = how far price sits below its rolling 1-year high. Useful for spotting the most recent flush depth.',
+          '3y':  'Peak Retracement (52-Week Rolling) — last 3 years of data. Shows whether current pain is deeper or shallower than the prior 2 correction cycles.',
+          '5y':  'Peak Retracement (52-Week Rolling) — last 5 years of data. The standard risk window; freight spikes are often followed by 30–50% flushes before structural support forms.',
+          '10y': 'Peak Retracement (52-Week Rolling) — last 10 years of data. Reveals full decade-scale correction depth; the 2015–2016 and 2019–2020 bear markets are visible here as baseline references.',
+          'all': 'Peak Retracement (52-Week Rolling) — entire available history. Puts current drawdowns in the context of every major freight cycle including the 2008 super-cycle collapse.',
+        };
+        titleEl.setAttribute('data-tooltip', tooltips[_drawdownWindow] || tooltips['5y']);
       }
 
       // Window cutoff
@@ -7742,6 +7750,15 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (titleEl) {
         const labels = { '1y': 'Last 1 Year', '3y': 'Last 3 Years', '5y': 'Last 5 Years', '10y': 'Last 10 Years', 'all': 'All-Time' };
         titleEl.textContent = 'Drawdown % (' + (labels[activeW] || 'Last 5 Years') + ')';
+        const etfName = etfKey === 'bdry' ? 'BDRY' : 'BWET';
+        const tooltips = {
+          '1y':  `${etfName} Volatility Risk — last 1 year. Rolling 52-week drawdown: how far the ETF price sits below its prior 1-year peak. Useful for gauging the current flush depth vs recent history.`,
+          '3y':  `${etfName} Volatility Risk — last 3 years. Rolling 52-week drawdown across 3 cycles. Compare today's correction depth to the prior 2 downturns to assess if the current move is typical or extreme.`,
+          '5y':  `${etfName} Volatility Risk — last 5 years. The standard institutional window. ETF drawdowns of 40–70% are not uncommon in freight cycles; this view captures COVID-era volatility as the baseline.`,
+          '10y': `${etfName} Volatility Risk — last 10 years. Full decade of rolling 52-week peak retracements. Reveals the structural severity of prior bear markets as context for today's move.`,
+          'all': `${etfName} Volatility Risk — full history since inception. Entire drawdown profile from launch; puts the current retracement in the context of every freight cycle the ETF has experienced.`,
+        };
+        titleEl.setAttribute('data-tooltip', tooltips[activeW] || tooltips['5y']);
       }
 
       const parsedRows = [];
