@@ -6479,8 +6479,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         const w52RangeStr = `${fmt(w52High, precision)} - ${fmt(w52Low, precision)}`;
 
         // 2. 52W Position
-        const w52PosNum = ((latest.value - w52Low) / (w52High - w52Low) * 100);
-        const w52PosStr = w52PosNum.toFixed(1) + '%';
+        const denom = w52High - w52Low;
+        const w52PosNum = denom > 0 ? ((latest.value - w52Low) / denom * 100) : 50;
+        const w52PosStr = denom > 0 ? w52PosNum.toFixed(1) + '%' : '50.0%';
         const w52PosCls = w52PosNum < 25 ? 'val-red' : (w52PosNum > 60 ? 'val-green' : 'val-yellow');
 
         // YTD %: compare to last value of prior year
@@ -9520,7 +9521,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       cleantanker: 30,
       bwet: 35,
       bwetff: 35,
-      bdry_spot: 10
+      bdry_spot: 10,
+      bdiy: 10,
+      bdry: 10,
+      bdryff: 10
     };
 
     function setSignalsViewMode(mode) {
@@ -9542,7 +9546,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function renderTimeCharterChart(productKey, canvasId) {
       const isMainCall = !canvasId;
       const actualCanvasId = canvasId || 'timeCharterChart';
-      const canvas = document.getElementById(actualCanvasId);
+      let canvas = document.getElementById(actualCanvasId);
       if (!canvas) return;
 
       const sectors = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'];
@@ -9848,7 +9852,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tooltip: {
               callbacks: {
                 label: function (c) {
-                  if (c.dataset.label === 'Spot/1Y TC Ratio') return ' ' + c.dataset.label + ': ' + (c.parsed.y != null ? c.parsed.y.toFixed(2) + 'x' : '-');
+                  if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
+                  if (c.dataset.label === 'Spot/1Y TC Ratio') return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(2) + 'x';
                   if (c.dataset.label.includes('Spot')) {
                     const rawVal = Math.round(c.parsed.y / spotMultiplier);
                     return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day (' + rawVal.toLocaleString() + ' index points)';
@@ -9871,7 +9876,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const isMainCall = !canvasId;
       const actualCanvasId = canvasId || 'basinSpreadChart';
       const container = document.getElementById('basinSpreadContainer');
-      const canvas = document.getElementById(actualCanvasId);
+      let canvas = document.getElementById(actualCanvasId);
       if (!canvas || !container) return;
 
       const sectors = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'];
@@ -9992,7 +9997,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       let label1 = 'Capesize 1Y Atl TC';
       let label2 = 'Capesize 1Y Pac TC';
 
-      if (productKey === 'panama') {
+      if (productKey === 'bdiy' || productKey === 'bdry_spot' || productKey === 'bdry' || productKey === 'bdryff') {
+        col1 = 'capesize_1y_atl';
+        col2 = 'capesize_1y_pac';
+        label1 = 'Capesize 1Y Atl TC';
+        label2 = 'Capesize 1Y Pac TC';
+      } else if (productKey === 'panama') {
         col1 = 'panamax_1y_atl';
         col2 = 'panamax_1y_pac';
         label1 = 'Panamax 1Y Atl TC';
@@ -10089,7 +10099,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             tooltip: {
               callbacks: {
                 label: function (c) {
-                  if (c.dataset.label.includes('Ratio')) return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(2) + 'x';
+                  if (c.parsed.y == null) return ' ' + c.dataset.label + ': —';
+                  if (c.dataset.label.includes('Ratio') || c.dataset.label.includes('ratio')) return ' ' + c.dataset.label + ': ' + c.parsed.y.toFixed(2) + 'x';
                   return ' ' + c.dataset.label + ': $' + Math.round(c.parsed.y).toLocaleString() + '/day';
                 }
               }
@@ -10108,7 +10119,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const isMainCall = !canvasId;
       const actualCanvasId = canvasId || 'ironOreRestockingChart';
       const container = document.getElementById('restockingContainer');
-      const canvas = document.getElementById(actualCanvasId);
+      let canvas = document.getElementById(actualCanvasId);
       if (!canvas || !container) return;
 
       const sectors = ['cape', 'panama', 'suprama', 'handysize'];
@@ -10260,7 +10271,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       }
 
       let spotKey = 'cape';
-      if (productKey === 'panama') spotKey = 'panama';
+      if (productKey === 'bdiy' || productKey === 'bdry_spot' || productKey === 'bdry' || productKey === 'bdryff') {
+        spotKey = 'cape';
+      } else if (productKey === 'panama') spotKey = 'panama';
       else if (productKey === 'suprama') spotKey = 'suprama';
       else if (productKey === 'handysize') spotKey = 'handysize';
 
@@ -10359,7 +10372,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function renderVesselValuationsChart(productKey, canvasId) {
       const isMainCall = !canvasId;
       const actualCanvasId = canvasId || 'vesselValuationsChart';
-      const canvas = document.getElementById(actualCanvasId);
+      let canvas = document.getElementById(actualCanvasId);
       if (!canvas) return;
 
       const sectors = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'];
@@ -10453,7 +10466,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       let labelPrefix = 'Capesize';
       let scrapCol = 'dry_india';
 
-      if (productKey === 'panama') {
+      if (productKey === 'bdiy' || productKey === 'bdry_spot' || productKey === 'bdry' || productKey === 'bdryff') {
+        ldt = 24000;
+        labelPrefix = 'Capesize';
+        scrapCol = 'dry_india';
+      } else if (productKey === 'panama') {
         ldt = 12000;
         labelPrefix = 'Panamax';
         scrapCol = 'dry_india';
@@ -10538,7 +10555,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
     function renderMarketCycleQuadrantChart(productKey, canvasId) {
       const isMainCall = !canvasId;
       const actualCanvasId = canvasId || 'marketCycleQuadrantChart';
-      const canvas = document.getElementById(actualCanvasId);
+      let canvas = document.getElementById(actualCanvasId);
       if (!canvas) return;
 
       const sectors = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'];
@@ -10702,7 +10719,10 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       let spotKey = 'cape';
       let tc1yCol = 'capesize_1y_avg';
-      if (productKey === 'panama') { spotKey = 'panama'; tc1yCol = 'panamax_1y_avg'; }
+      if (productKey === 'bdiy' || productKey === 'bdry_spot' || productKey === 'bdry' || productKey === 'bdryff') {
+        spotKey = productKey === 'bdiy' ? 'bdiy' : (productKey === 'bdry_spot' ? 'bdry_spot' : productKey);
+        tc1yCol = 'capesize_1y_avg';
+      } else if (productKey === 'panama') { spotKey = 'panama'; tc1yCol = 'panamax_1y_avg'; }
       else if (productKey === 'suprama') { spotKey = 'suprama'; tc1yCol = 'supramax_1y_avg'; }
       else if (productKey === 'handysize') { spotKey = 'handysize'; tc1yCol = 'handysize_1y_avg'; }
       else if (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') { spotKey = 'dirtytanker'; tc1yCol = 'vlcc_1y'; }
