@@ -10001,6 +10001,11 @@ document.getElementById('tabs').addEventListener('click', function(e) {
         col2 = 'handysize_1y_pac';
         label1 = 'Handysize 1Y Atl TC';
         label2 = 'Handysize 1Y Pac TC';
+      } else if (productKey === 'cleantanker') {
+        col1 = 'lr2_1y';
+        col2 = 'mr_1y';
+        label1 = 'LR2 1Y TC (Long Range)';
+        label2 = 'MR 1Y TC (Medium Range)';
       } else if (isTanker) {
         col1 = 'vlcc_1y';
         col2 = 'mr_1y';
@@ -10067,7 +10072,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
           datasets: [
             { label: label1, data: v1Series, yAxisID: 'yLeft', borderColor: '#ff7b72', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
             { label: label2, data: v2Series, yAxisID: 'yLeft', borderColor: '#79c0ff', backgroundColor: 'transparent', borderWidth: 2, pointRadius: 0, fill: false },
-            { label: isTanker ? 'VLCC / MR Ratio' : 'Atlantic / Pacific Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false }
+            { label: isTanker ? (productKey === 'cleantanker' ? 'LR2 / MR Ratio' : 'VLCC / MR Ratio') : 'Atlantic / Pacific Ratio', data: ratioSeries, yAxisID: 'yRight', borderColor: '#e3b341', backgroundColor: 'transparent', borderWidth: 1, borderDash: [4, 4], pointRadius: 0, fill: false }
           ]
         },
         options: {
