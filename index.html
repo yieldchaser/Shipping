@@ -9693,7 +9693,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       let tc2yCol = 'capesize_2y_avg';
       let labelPrefix = 'Capesize';
 
-      if (productKey === 'panama') {
+      if (productKey === 'bdiy' || productKey === 'bdry_spot' || productKey === 'bdry' || productKey === 'bdryff') {
+        spotKey = productKey === 'bdiy' ? 'bdiy' : (productKey === 'bdry_spot' ? 'bdry_spot' : productKey);
+        tc1yCol = 'capesize_1y_avg';
+        tc2yCol = 'capesize_2y_avg';
+        labelPrefix = productKey === 'bdiy' ? 'BDI' : (productKey === 'bdry_spot' ? 'BDRY Spot' : (productKey === 'bdry' ? 'BDRY' : 'BDRYFF'));
+      } else if (productKey === 'panama') {
         spotKey = 'panama';
         tc1yCol = 'panamax_1y_avg';
         tc2yCol = 'panamax_2y_avg';
@@ -9869,7 +9874,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const canvas = document.getElementById(actualCanvasId);
       if (!canvas || !container) return;
 
-      const sectors = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker'];
+      const sectors = ['cape', 'panama', 'suprama', 'handysize', 'dirtytanker', 'cleantanker'];
 
       if (isMainCall) {
         const wrapper = canvas.parentNode;
@@ -9889,11 +9894,12 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             panama: { c1: 'panamax_1y_atl', c2: 'panamax_1y_pac', label: 'Panamax Atl/Pac', color: PRODUCTS.panama.color },
             suprama: { c1: 'supramax_1y_atl', c2: 'supramax_1y_pac', label: 'Supramax Atl/Pac', color: PRODUCTS.suprama.color },
             handysize: { c1: 'handysize_1y_atl', c2: 'handysize_1y_pac', label: 'Handysize Atl/Pac', color: PRODUCTS.handysize.color },
-            dirtytanker: { c1: 'vlcc_1y', c2: 'mr_1y', label: 'Tanker VLCC/MR', color: PRODUCTS.dirtytanker.color }
+            dirtytanker: { c1: 'vlcc_1y', c2: 'mr_1y', label: 'Dirty VLCC/MR', color: PRODUCTS.dirtytanker.color },
+            cleantanker: { c1: 'lr2_1y', c2: 'mr_1y', label: 'Clean LR2/MR', color: PRODUCTS.cleantanker.color }
           };
 
-          // Linear-interpolate sparse tanker TC columns before computing ratios
-          const interpCols = ['vlcc_1y', 'mr_1y'];
+          // Linear-interpolate sparse TC columns before computing ratios
+          const interpCols = ['vlcc_1y', 'mr_1y', 'lr2_1y'];
           const tcRowsCopy = tcRows.map(r => Object.assign({}, r));
           interpCols.forEach(function(col) {
             var validIdx = [];
