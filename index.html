@@ -10154,8 +10154,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             const rowData = {
               date: r.date,
               dateStr: r.dateStr,
-              iron_ore: r.iron_ore,
-              inventory: r.inventory
+              cfr_62: r.cfr_62,
+              port_stock_62: r.port_stock_62
             };
             sectors.forEach(s => {
               let spotVal = spotMaps[s][r.dateStr];
@@ -10178,7 +10178,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             aligned.push(rowData);
           });
 
-          const cutoff = new Date('2021-07-01');
+          const cutoff = new Date('2018-07-01');
           const rows = aligned.filter(r => r.date >= cutoff);
           if (!rows.length) return;
 
@@ -10201,7 +10201,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
           datasets.push({
             label: 'CFR 62% Iron Ore Price',
-            data: rows.map(r => r.iron_ore),
+            data: rows.map(r => r.cfr_62),
             yAxisID: 'yLeft',
             borderColor: '#ff6b6b',
             backgroundColor: 'transparent',
@@ -10213,7 +10213,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
           datasets.push({
             label: 'Qingdao Port Inventory',
-            data: rows.map(r => r.inventory),
+            data: rows.map(r => r.port_stock_62),
             yAxisID: 'yRight',
             borderColor: '#8b949e',
             backgroundColor: 'transparent',
@@ -10318,7 +10318,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
 
       if (!aligned.length) return;
 
-      const cutoff = new Date('2021-07-01');
+      const cutoff = new Date('2018-07-01');
       const rows = aligned.filter(r => r.date >= cutoff);
       if (!rows.length) return;
 
@@ -10386,7 +10386,7 @@ document.getElementById('tabs').addEventListener('click', function(e) {
             if (!canvas) return;
           }
 
-          const demoRows = DATA.demolitionScrap || [];
+          const demoRows = DATA.vesselValuations || [];
           if (!demoRows.length) return;
 
           const sectorCfg = {
