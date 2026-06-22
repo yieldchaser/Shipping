@@ -2414,7 +2414,7 @@
 
   .chart-tooltip {
     position: absolute;
-    min-width: 220px; max-width: 280px;
+    min-width: 220px; max-width: 300px;
     pointer-events: none;
     padding: 12px 14px;
     border-radius: 12px;
@@ -2423,7 +2423,7 @@
     box-shadow: 0 18px 40px rgba(0,0,0,0.5);
     backdrop-filter: blur(10px);
     font-size: 12px;
-    z-index: 20;
+    z-index: 9999;
     transition: left 0.1s ease, top 0.1s ease;
   }
   .chart-tooltip.hidden { display: none; }
@@ -9819,9 +9819,9 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       const tc2ySeries = rows.map(r => r.tc2y);
       const ratioSeries = rows.map(r => r.ratio);
 
-      const tc2yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'Suezmax 1Y TC (sparse)' :
+      const tc2yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'Suezmax 1Y TC' :
                         (productKey === 'cleantanker') ? 'LR2 1Y TC' : '2-Year TC';
-      const tc1yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'VLCC 1Y TC (interpolated)' :
+      const tc1yLabel = (productKey === 'dirtytanker' || productKey === 'bwet' || productKey === 'bwetff') ? 'VLCC 1Y TC' :
                         (productKey === 'cleantanker') ? 'MR 1Y TC' : '1-Year TC';
 
       chartRegistry[actualCanvasId] = new Chart(canvas.getContext('2d'), {
@@ -15231,6 +15231,8 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       if (!tooltip) {
         tooltip = document.createElement('div');
         tooltip.className = 'chart-tooltip hidden';
+        // Allow tooltip to extend outside the chart boundary without clipping
+        container.style.overflow = 'visible';
         container.appendChild(tooltip);
       }
       return tooltip;
@@ -15268,19 +15270,29 @@ document.getElementById('tabs').addEventListener('click', function(e) {
       `;
       tooltip.classList.remove('hidden');
 
-      // Boundary detection positioning for chart wrapper
-      const GAP = 12, pad = 8;
+      // Boundary detection — position the tooltip so it never clips at any edge.
+      // The tooltip lives inside `container` (position:relative), so we work in
+      // local (container-relative) coordinates throughout.
+      const GAP = 14, pad = 6;
       const rect = container.getBoundingClientRect();
-      let left = rect.left + (config.caretX !== undefined ? config.caretX : rect.width / 2) - tooltip.offsetWidth / 2;
-      let top  = rect.top + (config.caretY !== undefined ? config.caretY : tooltip.offsetHeight + GAP) - tooltip.offsetHeight - GAP;
-      if (top < pad) top = rect.bottom + GAP;
-      if (left < pad) left = pad;
-      if (left + tooltip.offsetWidth > window.innerWidth - pad)
-        left = window.innerWidth - tooltip.offsetWidth - pad;
-      
-      // Convert viewport coords to local relative coords since container is relative/absolute
-      let localLeft = left - rect.left;
-      let localTop = top - rect.top;
+      const tw = tooltip.offsetWidth || 220;
+      const th = tooltip.offsetHeight || 100;
+      const caretX = config.caretX !== undefined ? config.caretX : rect.width / 2;
+      const caretY = config.caretY !== undefined ? config.caretY : rect.height / 2;
+
+      // Start: centred above caret
+      let localLeft = caretX - tw / 2;
+      let localTop  = caretY - th - GAP;
+
+      // If tooltip would go above the container top, flip below caret instead
+      if (localTop < pad) localTop = caretY + GAP;
+
+      // Clamp horizontal: never let it overflow left or right of container
+      if (localLeft < pad) localLeft = pad;
+      if (localLeft + tw > rect.width - pad) localLeft = rect.width - tw - pad;
+
+      // If still overflowing right (narrow container), pin at left edge
+      if (localLeft < 0) localLeft = 0;
 
       tooltip.style.left = localLeft + 'px';
       tooltip.style.top  = localTop  + 'px';

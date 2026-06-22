@@ -217,12 +217,12 @@ CHARTER_SEGMENT_ALIASES = {
         "handysize": ["handysize", "handy", "hsize"],
     },
     "tanker_charter": {
-        "vlcc": ["vlcc"],
-        "suezmax": ["suezmax"],
-        "aframax": ["aframax"],
+        "vlcc": ["vlcc", "vicc", "v1cc", "vlce"],  # OCR variants of VLCC
+        "suezmax": ["suezmax", "suez"],
+        "aframax": ["aframax", "afra"],
         "lr2": ["lr2", "lr 2"],
         "lr1": ["lr1", "lr 1"],
-        "mr": ["mr", "m.r."],
+        "mr": ["mr", "m.r.", "mr imo", "mri", "handy", "handymax"],
     },
 }
 IRON_ORE_SIGNAL_HINTS = [
@@ -3159,6 +3159,58 @@ def build_derived(llm_enabled: bool = False):
                         tc_records[date][f"{seg}_2y"] = rates[1]
                         tc_records[date][f"{seg}_3y"] = rates[2]
                         tc_records[date][f"{seg}_5y"] = rates[3]
+
+    # Also scan chunk JSONL files directly for tanker_charter.
+    # The TC rate table is embedded as an image OCR text in chunk files,
+    # not in document-level metadata, so the signal_rows loop above misses it.
+    all_tc_chunk_files = []
+    import glob as _glob2
+    _tc_base = CHUNKS_DIR / "hellenic_tanker_charter.jsonl"
+    if _tc_base.exists():
+        all_tc_chunk_files.append(_tc_base)
+    for _sf in sorted(_glob2.glob(str(CHUNKS_DIR / "hellenic_tanker_charter_*.jsonl"))):
+        all_tc_chunk_files.append(Path(_sf))
+
+    for _cf in all_tc_chunk_files:
+        try:
+            with open(_cf, encoding="utf-8") as _fh:
+                for _line in _fh:
+                    _line = _line.strip()
+                    if not _line:
+                        continue
+                    try:
+                        _chunk = json.loads(_line)
+                    except json.JSONDecodeError:
+                        continue
+                    _date = _chunk.get("date")
+                    _text = _chunk.get("text", "")
+                    if not _date or not _text:
+                        continue
+                    # Only process chunks that have OCR text (image asset chunks)
+                    if "OCR text:" not in _text and "TANKER TIME CHARTER" not in _text.upper():
+                        continue
+                    _extracted = extract_hellenic_charter_signals(_text, "tanker_charter")
+                    _rate_obs = _extracted.get("rate_observations", []) or []
+                    if not _rate_obs:
+                        continue
+                    if _date not in tc_records:
+                        tc_records[_date] = {}
+                    for _obs in _rate_obs:
+                        _seg = _obs.get("segment")
+                        _vals = _obs.get("values") or []
+                        if not _seg or not _vals:
+                            continue
+                        _rates = _vals[-4:]
+                        if len(_rates) == 4:
+                            # Only write if not already set from document-level signals
+                            _k1 = f"{_seg}_1y"
+                            if _k1 not in tc_records[_date]:
+                                tc_records[_date][f"{_seg}_1y"] = _rates[0]
+                                tc_records[_date][f"{_seg}_2y"] = _rates[1]
+                                tc_records[_date][f"{_seg}_3y"] = _rates[2]
+                                tc_records[_date][f"{_seg}_5y"] = _rates[3]
+        except OSError:
+            continue
 
     tc_file = derived_dir / "time_charter_rates.csv"
     tc_cols = [

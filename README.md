@@ -113,6 +113,25 @@ The compiler is `scripts/process_knowledge.py`, and corpus validation is handled
 
 CSV schema: `Date (DD-MM-YYYY), Index, % Change`
 
+### Time Charter Rates — compiled weekly from OCR
+
+`data/derived/time_charter_rates.csv` — 250+ weekly rows (2021–present), auto-compiled by `process_knowledge.py` from OCR text extracted out of the weekly Alibra Shipping TC estimate tables published on Hellenic Shipping News.
+
+| Vessel class | Columns available |
+|---|---|
+| VLCC | `vlcc_1y`, `vlcc_2y`, `vlcc_3y`, `vlcc_5y` |
+| Suezmax | `suezmax_1y`, `suezmax_2y`, `suezmax_3y`, `suezmax_5y` |
+| Aframax | `aframax_1y`, `aframax_2y`, `aframax_3y`, `aframax_5y` |
+| MR (product) | `mr_1y`, `mr_2y`, `mr_3y`, `mr_5y` |
+| LR1 | `lr1_1y`, `lr1_2y`, `lr1_3y`, `lr1_5y` |
+| LR2 | `lr2_1y`, `lr2_2y`, `lr2_3y`, `lr2_5y` |
+| Capesize | `capesize_1y_atl`, `capesize_1y_pac`, `capesize_1y_avg`, `capesize_2y_*` |
+| Panamax | `panamax_1y_atl`, `panamax_1y_pac`, `panamax_1y_avg`, `panamax_2y_*` |
+| Supramax | `supramax_1y_atl`, `supramax_1y_pac`, `supramax_1y_avg`, `supramax_2y_*` |
+| Handysize | `handysize_1y_atl`, `handysize_1y_pac`, `handysize_1y_avg`, `handysize_2y_*` |
+
+All rates in **$/day**. Tanker rates sourced from Alibra Shipping weekly estimates (published via Hellenic Shipping News). Dry bulk rates sourced from Howe Robinson weekly Dry Time Charter Estimates (same publication).
+
 ### BDRY Spot Composite — Computed client-side
 
 Replicates the **Solactive Breakwave Dry Freight Futures Index** methodology using daily spot values:
@@ -390,8 +409,8 @@ Comprehensive analytical suite for technical and fundamental signals:
 | **BDI Contribution** | Decomposition of BDI daily change by vessel class (Cape/Pana/Supra). |
 | **ETF Fund Flow Signals** | Multi-indicator glassmorphism suite: Flow Stretch (Z-score), Regime (5D/20D trend), Divergence (Price vs Flow), and Pressure (rel intensity). |
 | **Lead–Lag Correlation** | Cross-correlation of log returns (-30 to +30 days) to detect leads (Financial vs Ripple Effects vs Basis). |
-| **Time Charter Rates** | Spot earnings vs 1-Year/2-Year Time Charter rates overlay, tracking the Spot-to-TC ratio on a secondary axis (customized dynamically for Dry Bulk & Tankers). |
-| **Basin/Sector Spreads** | Atlantic vs Pacific 1Y Time Charter rate spread/ratio for dry bulk; VLCC vs MR 1Y TC rate spread/ratio for crude vs clean tankers. |
+| **Time Charter Rates** | Spot earnings vs 1-Year Time Charter rate overlay with Spot/TC ratio on secondary axis. Dry bulk uses Atl/Pac TC averages; tankers use VLCC 1Y (crude) and Suezmax 1Y (size proxy). TC data sourced from weekly Alibra Shipping estimates via OCR extraction from Hellenic Shipping News (250+ weeks, 2021–present). |
+| **Basin/Sector Spreads** | Dry bulk: Atlantic vs Pacific 1Y TC rate spread/ratio per vessel class. Tankers: VLCC vs MR 1Y TC spread/ratio (crude vs product proxy). |
 | **Restocking Pressure** | Freight spot rates overlaid against CFR 62% Iron Ore price and Qingdao Port Inventory. (Dry bulk only). |
 | **Vessel Capital Cycle** | India, Bangladesh, and Pakistan demolition scrap prices ($/LDT) and calculated ship-displacement scrap floor valuations ($M) for the selected class. |
 | **Market Cycle Quadrant** | Chronological 20-week trajectory plotting spot momentum (60D % change) against Spot/TC ratio Z-score. Identifies Recovery, Boom, Over-ordering, and Restructuring phases. |
